@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend")](https://www.derrynow.com/news/national-news/1671974/pictures-music-lovers-pack-dingle-for-unforgettable-other-voices-2024-weekend.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend](https://www.derrynow.com/news/national-news/1671974/pictures-music-lovers-pack-dingle-for-unforgettable-other-voices-2024-weekend.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![All-Ireland minor winner hangs up football boots after signing to LA record label](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland minor winner hangs up football boots after signing to LA record label")](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
 
 Lee Brady has hung up his football boots in a bid to pursue his music career.
@@ -275,46 +268,12 @@ Lee Brady has hung up his football boots in a bid to pursue his music career.
 [All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry man charged with a series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences")](https://www.derrynow.com/news/local-news/1671653/derry-man-charged-with-a-series-of-offences.html)
+[![IN PICTURES: North West Cricket Union annual presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West Cricket Union annual presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry man charged with a series of offences](https://www.derrynow.com/news/local-news/1671653/derry-man-charged-with-a-series-of-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Saint Joseph’s Catholic Church, Glenullin.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Saint Joseph’s Catholic Church, Glenullin.")](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
-
-Saint Joseph’s Catholic Church, Glenullin.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Breathtaking eighteenth century County Derry chapel restored to perfection](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry court to write to Law Society about solicitors firm who have not attended court on four occasions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry court to write to Law Society about solicitors firm who have not attended court on four occasions")](https://www.derrynow.com/news/local-news/1671690/derry-court-to-write-to-law-society-about-solicitors-firm-who-have-not-attended-court-on-four-occasions.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry court to write to Law Society about solicitors firm who have not attended court on four occasions](https://www.derrynow.com/news/local-news/1671690/derry-court-to-write-to-law-society-about-solicitors-firm-who-have-not-attended-court-on-four-occasions.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man facing 26 drug and criminal property charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing 26 drug and criminal property charges returned for trial")](https://www.derrynow.com/news/local-news/1671686/derry-man-facing-26-drug-and-criminal-property-charges-returned-for-trial.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man facing 26 drug and criminal property charges returned for trial](https://www.derrynow.com/news/local-news/1671686/derry-man-facing-26-drug-and-criminal-property-charges-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, December 4, 2024](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: North West Cricket Union annual presentations](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested and drugs and cash seized following search of property in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and drugs and cash seized following search of property in Derry")](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
 
@@ -323,27 +282,82 @@ Derry Magistrate's Court
 [Man arrested and drugs and cash seized following search of property in Derry](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven runner raises £5,700 for men’s mental health in memory of Eugene")](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
 
-Eugene's memorial card sits among James' medals.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Home](https://www.derrynow.com/)
+[Derry Death Notices - Wednesday, December 4, 2024](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Man who has spent every Christmas for past 11 years in custody remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who has spent every Christmas for past 11 years in custody remanded")](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
 
-[![IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
+Derry courthouse
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who has spent every Christmas for past 11 years in custody remanded](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man who damaged apartment block door fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who told police officer 'you should not be in this country' fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who told police officer 'you should not be in this country' fined")](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who told police officer 'you should not be in this country' fined](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police in Derry charge 36-year-old man to court in connection with drug-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 36-year-old man to court in connection with drug-related offences")](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Foyle Street (Credit: Northern Ireland Water - Facebook)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Street (Credit: Northern Ireland Water - Facebook)")](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
+
+Foyle Street (Credit: Northern Ireland Water - Facebook)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Foyle Street to reopen on Friday December 6](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on")](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Derry GAA Underage presentations at Owenbeg Centre of Excellence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry GAA Underage presentations at Owenbeg Centre of Excellence")](https://www.derrynow.com/story-telling/pictures---videos/1671147/in-pictures-derry-gaa-underage-presentations-at-owenbeg-centre-of-excellence.html)
 
@@ -399,20 +413,6 @@ Multimedia
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
 [Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar")](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel")](https://www.derrynow.com/story-telling/pictures---videos/1671004/in-pictures-st-cecilia-s-college-annual-christmas-fayre-and-rickety-wheel.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St. Cecilia's College Annual Christmas Fayre and Rickety Wheel](https://www.derrynow.com/story-telling/pictures---videos/1671004/in-pictures-st-cecilia-s-college-annual-christmas-fayre-and-rickety-wheel.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
@@ -517,55 +517,51 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Man who has spent every Christmas for past 11 years in custody remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who has spent every Christmas for past 11 years in custody remanded")](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
-
-Derry courthouse
+[![Two men wanted in Italy to serve prison sentences arrested in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man who has spent every Christmas for past 11 years in custody remanded](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Liam Kelly and Jay McCafferty  (Credit- Thejungleview Facebook)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Liam Kelly and Jay McCafferty  (Credit- Thejungleview Facebook)")](https://www.derrynow.com/news/derry-sport/1672558/pair-of-derry-men-key-to-northern-ireland-s-success-in-cyprus.html)
+[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
 
-Liam Kelly and Jay McCafferty (Credit- Thejungleview Facebook)
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Campaign continues to support people living with disability in Derry council area](https://www.derrynow.com/resizer/165/93/true/2024_12_04/DCSDC_Staff_Dementia_Awareness_Training-1733323051570.jpg--.jpg?1733323053139 "Campaign continues to support people living with disability in Derry council area")](https://www.derrynow.com/news/local-news/1672829/campaign-continues-to-support-people-living-with-disability-in-derry-council-area.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Campaign continues to support people living with disability in Derry council area](https://www.derrynow.com/news/local-news/1672829/campaign-continues-to-support-people-living-with-disability-in-derry-council-area.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Simone Magill in action for Northern Ireland in 2022](https://www.derrynow.com/resizer/165/93/true/pa/2022_07_10/1657476305800_0.jpg--.jpg?1657476305907 "Simone Magill in action for Northern Ireland in 2022")](https://www.derrynow.com/news/derry-sport/1672640/county-derry-s-simone-magill-will-not-captain-northern-ireland-at-next-year-s-european-championship.html)
+
+Simone Magill in action for Northern Ireland in 2022
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Pair of Derry men key to Northern Ireland's success in Cyprus](https://www.derrynow.com/news/derry-sport/1672558/pair-of-derry-men-key-to-northern-ireland-s-success-in-cyprus.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry's Simone Magill will not captain Northern Ireland at next year's European Championship](https://www.derrynow.com/news/derry-sport/1672640/county-derry-s-simone-magill-will-not-captain-northern-ireland-at-next-year-s-european-championship.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man who told police officer 'you should not be in this country' fined](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Man who told police officer 'you should not be in this country' fined")](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
+[![Derry man who damaged apartment block door fined](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
 
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who told police officer 'you should not be in this country' fined](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Street (Credit: Northern Ireland Water - Facebook)](https://www.derrynow.com/resizer/165/93/true/2024_12_04/468561323_997110902453090_6305571243664445747_n-1733307221324.jpg--.jpg?1733307221712 "Foyle Street (Credit: Northern Ireland Water - Facebook)")](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
-
-Foyle Street (Credit: Northern Ireland Water - Facebook)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Foyle Street to reopen on Friday December 6](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/resizer/165/93/true/2024_12_04/PSNI_Derry3-1733304470947.jpg--.jpg?1733304470974 "Police in Derry charge 36-year-old man to court in connection with drug-related offences")](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested and drugs and cash seized following search of property in Derry](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Man arrested and drugs and cash seized following search of property in Derry")](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
+[![Exciting two-year initiative cricket initiative launched](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Peaceplus_group_photos_-__11_FIXED2_30301243-1733156742586.jpg--.jpg?1733156749438 "Exciting two-year initiative cricket initiative launched")](https://www.derrynow.com/news/derry-sport/1671104/exciting-two-year-cricket-initiative-launched-in-derry.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Man arrested and drugs and cash seized following search of property in Derry](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Exciting two-year cricket initiative launched in Derry](https://www.derrynow.com/news/derry-sport/1671104/exciting-two-year-cricket-initiative-launched-in-derry.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
