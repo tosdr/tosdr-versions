@@ -91,11 +91,11 @@ FR
         
         up to 16.5% Cash Back](https://www.rakuten.ca/crocs)[Suzy Shier
         
-        6% Cash Back](https://www.rakuten.ca/suzyshier)[Simons
+        6% Cash Back](https://www.rakuten.ca/suzyshier)[Moores
         
-        2% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
+        7.5% Cash Back](https://www.rakuten.ca/moores)[Simons
         
-        2% Cash Back](https://www.rakuten.ca/gap-canada)
+        2% Cash Back](https://www.rakuten.ca/simons)
         
         Featured Shops & Deals
         
@@ -519,9 +519,7 @@ FR
         
         Recommended Stores
         
-        [TravelPro
-        
-        12% Cash Back](https://www.rakuten.ca/travel-pro)[Flight Centre
+        [Flight Centre
         
         up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[Vrbo
         
@@ -529,7 +527,9 @@ FR
         
         up to 8% Cash Back](https://www.rakuten.ca/hotels-com)[Bikini Village
         
-        2% Cash Back](https://www.rakuten.ca/bikini-village)
+        2% Cash Back](https://www.rakuten.ca/bikini-village)[Holiday Inn
+        
+        6% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
@@ -690,7 +690,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![](//static.rakuten.ca/img/campaign_entity/303981/en_stickyfooter-1170x60_gift_card_shop_.png)](https://www.rakuten.ca/giftcardshop)
+[![Earn 2% Cash Back from Rakuten.ca with Canadian Tire Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306303/en-stickyfooter-1170x60_canadian-tire2.png "Canadian Tire Coupons, Promo Codes")
+
+2% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/canadian-tire?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
