@@ -53,7 +53,7 @@
 * [Sign in](https://cookie-script.com/login "Sign in")
 *  [![English](/templates/uber/images/langs/en.svg "English") English](javascript:void(0) "/templates/uber/images/langs/en.svg")
     
-    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/index.php?option=com_scanner&task=.screenshotCallback&identifier=48cb362f410cf4be708371a74f098707 "/templates/uber/images/langs/en.svg")
+    *  [![English](/templates/uber/images/langs/en.svg "English") English](https://cookie-script.com/index.php?option=com_scanner&task=.callback&identifier=af15bc1c5de6f1de5bd0376304af3356 "/templates/uber/images/langs/en.svg")
     *  [![Deutsch](/templates/uber/images/langs/de.svg "Deutsch") Deutsch](https://cookie-script.com/de/ "/templates/uber/images/langs/de.svg")
     *  [![Français](/templates/uber/images/langs/fr.svg "Français") Français](https://cookie-script.com/fr/ "/templates/uber/images/langs/fr.svg")
     *  [![Italiano](/templates/uber/images/langs/it.svg "Italiano") Italiano](https://cookie-script.com/it/ "/templates/uber/images/langs/it.svg")
@@ -234,21 +234,21 @@ The customer may not claim intellectual or exclusive ownership to any CookieScri
 
 ![Cookie Script Capterra](/images/footer/capterra5.svg)
 
-4.9](https://www.capterra.com/p/227709/Cookie-Script/reviews/ "Capterra")[![Cookie Script Google](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
+4.8](https://www.capterra.com/p/227709/Cookie-Script/reviews/ "Capterra")[![Cookie Script Google](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script Google](/images/footer/google5.svg)
 
-4.9](https://www.google.com/search?q=cookie-script "Google")
+4.8](https://www.google.com/search?q=cookie-script "Google")
 
 [![Cookie Script G2](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script G2](/images/footer/g25.svg)
 
-4.7](https://www.g2.com/products/cookiescript/reviews "G2 Reviews")[![Cookie Script Trustpilot](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
+4.6](https://www.g2.com/products/cookiescript/reviews "G2 Reviews")[![Cookie Script Trustpilot](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTAiIGhlaWdodD0iNDAwIj48L3N2Zz4=)
 
 ![Cookie Script Trustpilot](/images/footer/trust45.svg)
 
-4.5](https://www.trustpilot.com/review/cookie-script.com "Trustpilot")
+4.4](https://www.trustpilot.com/review/cookie-script.com "Trustpilot")
 
 * [Terms of Service](https://cookie-script.com/legal/terms-and-conditions "Terms of Service")
 * [Privacy Policy](https://cookie-script.com/legal/privacy-policy "Privacy Policy")
