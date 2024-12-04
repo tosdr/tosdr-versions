@@ -126,19 +126,9 @@ Open navigation menu [Open search](https://www.sidemenclothing.com/search)
     * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
     
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* BLACK FRIDAY
-    
-    * [ALL](https://www.sidemenclothing.com/collections/black-friday)
-    * [20% AND ABOVE](https://www.sidemenclothing.com/collections/20-and-above)
-    * [40% AND ABOVE](https://www.sidemenclothing.com/collections/40-and-above)
-    * [60% AND ABOVE](https://www.sidemenclothing.com/collections/60-and-above)
-    * [HOODIES](https://www.sidemenclothing.com/collections/black-friday-hoodies)
-    * [T-SHIRTS](https://www.sidemenclothing.com/collections/black-friday-t-shirts)
-    * [JACKETS](https://www.sidemenclothing.com/collections/black-friday-jackets)
-    * [ACCESSORIES](https://www.sidemenclothing.com/collections/black-friday-accessories)
-    
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
-[Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/NavigationClassicLogoWhite_7816ce09-0cd7-407b-9e6d-ba2a13b53178.webp?v=1704293088&width=2000)](https://www.sidemenclothing.com/) 
+[Sidemen Clothing ![](//sidemenclothing.com/cdn/shop/files/LOGO_W_HAT_2_25921c0c-b9e5-4bfd-a231-7b5b8c9e41b5.png?v=1733310053&width=4759)](https://www.sidemenclothing.com/) 
 
 [STORE](https://www.sidemenclothing.com/pages/store) [ABOUT](https://www.sidemenclothing.com/pages/about-us) [SUPPORT](https://www.sidemenclothing.com/pages/faqs)
 
@@ -157,7 +147,7 @@ Country
 * CLOTHING
 * ACCESSORIES
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* BLACK FRIDAY
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 USD $
 
@@ -210,16 +200,6 @@ Country
 * [Key Rings](https://www.sidemenclothing.com/collections/key-rings)
 * [Car Freshener](https://www.sidemenclothing.com/collections/car-air-freshener)
 
-* BLACK FRIDAY
-* [ALL](https://www.sidemenclothing.com/collections/black-friday)
-* [20% AND ABOVE](https://www.sidemenclothing.com/collections/20-and-above)
-* [40% AND ABOVE](https://www.sidemenclothing.com/collections/40-and-above)
-* [60% AND ABOVE](https://www.sidemenclothing.com/collections/60-and-above)
-* [HOODIES](https://www.sidemenclothing.com/collections/black-friday-hoodies)
-* [T-SHIRTS](https://www.sidemenclothing.com/collections/black-friday-t-shirts)
-* [JACKETS](https://www.sidemenclothing.com/collections/black-friday-jackets)
-* [ACCESSORIES](https://www.sidemenclothing.com/collections/black-friday-accessories)
-
 0
 
 Your cart is empty
@@ -235,7 +215,7 @@ NAVIGATION BAR
 * [CLOTHING](https://www.sidemenclothing.com/collections/clothing)
 * [ACCESSORIES](https://www.sidemenclothing.com/collections/accessories)
 * [GIFT CARDS](https://www.sidemenclothing.com/products/sdmn-digital-gift-card)
-* [BLACK FRIDAY](https://www.sidemenclothing.com/collections/black-friday)
+* [SALE](https://www.sidemenclothing.com/collections/sale)
 
 Terms & Conditions
 ==================
