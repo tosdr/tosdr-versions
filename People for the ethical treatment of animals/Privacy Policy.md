@@ -2,7 +2,7 @@ Close Mobile Menu
 
 [](https://www.peta.org/)
 
-[Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::mobile-donate-now-button)
+[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::sticky-footer-donate-button?en_txn7=Navigation::mobile-donate-now-button)
 
 * [Help Animals](https://www.peta.org/action/)
     
@@ -83,7 +83,7 @@ Close Mobile Menu
 
 [](https://www.peta.org/)
 
-[Donate Now](https://support.peta.org/page/75993/donate/1?en_txn7=Navigation::mobile-donate-now-button)
+[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::sticky-footer-donate-button?en_txn7=Navigation::mobile-donate-now-button)
 
 [People for the Ethical Treatment of Animals](https://www.peta.org/ "PETA | People for the Ethical Treatment of Animals")
 
@@ -550,6 +550,10 @@ International Sites
 
 [Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/)
 
-Share Post [Donate](https://support.peta.org/page/75993/donate/1 "Donate")
+Share Post [Donate](https://headlines.peta.org/donate/?en_txn7=Navigation::sticky-footer-donate-button "Donate")
+
+**[Click here](sms:73822?&body=OREO) [to text](sms:73822?&body=OREO) [OREO](sms:73822?&body=OREO) [to](sms:73822?&body=OREO) [73822](sms:73822?&body=OREO) [to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.](sms:73822?&body=OREO)**
+
+Terms for automated texts/calls from PETA: [http://peta.vg/txt](https://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/). Text STOP to end, HELP for more info. Msg/data rates may apply. U.S. only.
 
 ✕
