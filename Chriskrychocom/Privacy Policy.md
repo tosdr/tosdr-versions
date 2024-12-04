@@ -16,6 +16,11 @@ I also use [Adobe Fonts](https://fonts.adobe.com/) for one of the typefaces on t
 
 Otherwise, there is zero tracking — of any sort — on this site.
 
+[AI](#ai)
+---------
+
+None. Not one word of this site was written by a large language model or even with input from one, and that will always be true.
+
 [Implementation](#implementation)
 ---------------------------------
 
