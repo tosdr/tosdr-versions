@@ -17,6 +17,48 @@ BEAUTY DEALS UNLOCKED!
 
 BEAUTY DEALS
 
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceWash_FRONT_1600x_bc7387c9-087e-4e23-a1a1-332131c61d5c.webp?em-origin=cdn.shopify.com)](#product-6918010536014)
+
+Beauty Deal - Bakuchiol Cleanser
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceWash_FRONT_1600x_bc7387c9-087e-4e23-a1a1-332131c61d5c.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Bakuchiol Cleanser
+
+Softening. This gentle yet powerful cleanser provides a safer and natural alternative to Retinol to stimulate cellular turnover for a smoother complexion, lighten age/sun spots for a more even skin tone and visibly lessen the appearance of lines and wrinkles.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_Moisturizer_FRONT_1600x_dae5b1fb-e433-4b57-9741-84f72949f981.webp?em-origin=cdn.shopify.com)](#product-6918010732622)
+
+Beauty Deal - Bakuchiol Moisturizer
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_Moisturizer_FRONT_1600x_dae5b1fb-e433-4b57-9741-84f72949f981.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Bakuchiol Moisturizer
+
+This antioxidant rich, natural Retinol alternative, packs a gentle but powerful punch to soften and hydrate the skin. Formulated with deeply hydrating Hyaluronic Acid and Squalane, this powerful botanical stimulates cellular turnover, boosts collagen production, lightens age and sun spots while lessening the appearance of lines and wrinkles.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceOil_FRONT_1600x_599329ac-16e8-4ad7-86c4-b5ca1791b678.webp?em-origin=cdn.shopify.com)](#product-7507283050574)
+
+Beauty Deal - Bakuchiol Oil Serum
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceOil_FRONT_1600x_599329ac-16e8-4ad7-86c4-b5ca1791b678.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Bakuchiol Oil Serum
+
+Plant Alternative to Retinol. This skin softening, moisture-magnet facial oil serum gives you the same benefits of retinol but in a gentler form. Bakuchiol stimulates cellular turnover for a smoother complexion, lightens age/sun spots for a more even skin tone and visibly lessens the appearance of lines and wrinkles.
+
+SELECT
+
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMEC_Mulit_Vitamin_Eye_Cream_Primary.jpg?em-origin=cdn.shopify.com)](#product-6918011846734)
 
 Beauty Deal - Multi-Vitamin + Antioxidants PM Eye Treatment
@@ -70,48 +112,6 @@ SELECT Buy for $25
 Beauty Deal - Multi-Vitamin + Antioxidants Potent PM Serum
 
 Potent, stabilized vitamins in this PM serum work synergistically to reduce lines and wrinkles, increase firmness and elasticity, brighten and even skin tone.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceWash_FRONT_1600x_bc7387c9-087e-4e23-a1a1-332131c61d5c.webp?em-origin=cdn.shopify.com)](#product-6918010536014)
-
-Beauty Deal - Bakuchiol Cleanser
-
-SELECT Buy for $25
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceWash_FRONT_1600x_bc7387c9-087e-4e23-a1a1-332131c61d5c.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Bakuchiol Cleanser
-
-Softening. This gentle yet powerful cleanser provides a safer and natural alternative to Retinol to stimulate cellular turnover for a smoother complexion, lighten age/sun spots for a more even skin tone and visibly lessen the appearance of lines and wrinkles.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_Moisturizer_FRONT_1600x_dae5b1fb-e433-4b57-9741-84f72949f981.webp?em-origin=cdn.shopify.com)](#product-6918010732622)
-
-Beauty Deal - Bakuchiol Moisturizer
-
-SELECT Buy for $25
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_Moisturizer_FRONT_1600x_dae5b1fb-e433-4b57-9741-84f72949f981.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Bakuchiol Moisturizer
-
-This antioxidant rich, natural Retinol alternative, packs a gentle but powerful punch to soften and hydrate the skin. Formulated with deeply hydrating Hyaluronic Acid and Squalane, this powerful botanical stimulates cellular turnover, boosts collagen production, lightens age and sun spots while lessening the appearance of lines and wrinkles.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceOil_FRONT_1600x_599329ac-16e8-4ad7-86c4-b5ca1791b678.webp?em-origin=cdn.shopify.com)](#product-7507283050574)
-
-Beauty Deal - Bakuchiol Oil Serum
-
-SELECT Buy for $25
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/Bakuchiol_FaceOil_FRONT_1600x_599329ac-16e8-4ad7-86c4-b5ca1791b678.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Bakuchiol Oil Serum
-
-Plant Alternative to Retinol. This skin softening, moisture-magnet facial oil serum gives you the same benefits of retinol but in a gentler form. Bakuchiol stimulates cellular turnover for a smoother complexion, lightens age/sun spots for a more even skin tone and visibly lessens the appearance of lines and wrinkles.
 
 SELECT
 
@@ -185,34 +185,6 @@ Promotes elasticity for a firmer, more lifted neck. Retinol reduces appearance o
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Er4DdY6DMU-M5wg25g3a4IdgQXoKiaYG_export_view_584e1c3b-914b-4164-8ec7-f33cc42ecdff.jpg?em-origin=cdn.shopify.com)](#product-7491736830030)
-
-Beauty Deal - Watermelon Cucumber Water Locking Serum
-
-SELECT Buy for $25
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Er4DdY6DMU-M5wg25g3a4IdgQXoKiaYG_export_view_584e1c3b-914b-4164-8ec7-f33cc42ecdff.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Watermelon Cucumber Water Locking Serum
-
-Intense Hydration. Intensely hydrating hydrogel serum locks in watermelon hydrosol to revitalize dehydrated skin cells with skin plumping polyglumatic acid from fermented natto beans and moisture retaining hyaluronic acid.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1g0GEUJN-9VVpC15PqQu_Y6HP8siUs4ZM_export_view.jpg?em-origin=cdn.shopify.com)](#product-7491736862798)
-
-Beauty Deal - Apple Enzyme Resurfacing Serum
-
-SELECT Buy for $25
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1g0GEUJN-9VVpC15PqQu_Y6HP8siUs4ZM_export_view.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Apple Enzyme Resurfacing Serum
-
-Re-Surfacing. Regenerative serum made with skin brightening licorice, kojic acid from sake (fermented rice), sugar alpha hydroxy acid, beet lactic acid and fruit enzymes from pineapple, green apple, citrus and papaya
-
-SELECT
-
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_11nhg1Jx1w1rLWbZA_Bx_qc7C-fPWL4MT_export_view_1600x_7ee73418-540e-4f06-8f95-760137aab9c7.webp?em-origin=cdn.shopify.com)](#product-6927907323982)
 
 Beauty Deal - Black Tea Grass Jelly Anti-oxidant Serum
@@ -282,6 +254,62 @@ Beauty Deal - Burdock and Neem Healthy Scalp Shampoo - 32oz
 Purifying formula unclogs pores, stimulates circulation, and alleviates dryness, itching, and flaking. With added hydration for healthier scalp and hair.
 
 SOLD OUT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPRGP_Fruit_Pigmented_C2_AE_Rose_Gold_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657757446222)
+
+Beauty Deal - Fruit Pigmented® Rose Gold Palette
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPRGP_Fruit_Pigmented_C2_AE_Rose_Gold_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Rose Gold Palette
+
+A rose gold treasure trove of warm metallics and stunning shimmer. Deluxe fruit pigmented® palette includes a highlighter, blush, and 3 eye shadows.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPBNP_Better_Naked_Palette_Primary_1600x_18242596-3d14-4576-8af0-177a6aaa4a01.webp?em-origin=cdn.shopify.com)](#product-7491737550926)
+
+Beauty Deal - Fruit Pigmented Better Naked Palette
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPBNP_Better_Naked_Palette_Primary_1600x_18242596-3d14-4576-8af0-177a6aaa4a01.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented Better Naked Palette
+
+Fruit Pigmented® makeup palette amplifies rosy, taupe, and beige toned nudes with shimmery, gilded metallics. Includes eyeshadows, blush, and highlighter.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CFPNIIPA_Beauty_Deal_2022-Fruit_Pigmented_Pretty_Naked_II_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838735110222)
+
+Beauty Deal - Fruit Pigmented® Berry Naked Palette
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CFPNIIPA_Beauty_Deal_2022-Fruit_Pigmented_Pretty_Naked_II_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Berry Naked Palette
+
+Fruit Pigmented® berry eyeshadow palette of nude, blush, and metallic tones. Our vegan makeup palette includes eyeshadows, blush, and highlighter colored from fruit and vegetable pigments.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1pFelOYnz7igLE355OmFlfNNQWKu9IE_5_export_download.jpg?em-origin=cdn.shopify.com)](#product-7507268567118)
+
+Beauty Deal - Fruit Pigmented® Pretty Naked Palette
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1pFelOYnz7igLE355OmFlfNNQWKu9IE_5_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Pretty Naked Palette
+
+Fruit pigmented® makeup palette celebrates neutral tones and soft shimmer to enhance and beautify your complexion. Includes eyeshadows, blush, and highlighter.
+
+SELECT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMVCSER_Beauty_Deal_2022-Vitamin_C_Serum_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838963011662)
 
@@ -423,62 +451,6 @@ Concentrated daily serum is made with fermented rice water (Sake), which is rich
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPRGP_Fruit_Pigmented_C2_AE_Rose_Gold_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657757446222)
-
-Beauty Deal - Fruit Pigmented® Rose Gold Palette
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPRGP_Fruit_Pigmented_C2_AE_Rose_Gold_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented® Rose Gold Palette
-
-A rose gold treasure trove of warm metallics and stunning shimmer. Deluxe fruit pigmented® palette includes a highlighter, blush, and 3 eye shadows.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPBNP_Better_Naked_Palette_Primary_1600x_18242596-3d14-4576-8af0-177a6aaa4a01.webp?em-origin=cdn.shopify.com)](#product-7491737550926)
-
-Beauty Deal - Fruit Pigmented Better Naked Palette
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPBNP_Better_Naked_Palette_Primary_1600x_18242596-3d14-4576-8af0-177a6aaa4a01.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Better Naked Palette
-
-Fruit Pigmented® makeup palette amplifies rosy, taupe, and beige toned nudes with shimmery, gilded metallics. Includes eyeshadows, blush, and highlighter.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CFPNIIPA_Beauty_Deal_2022-Fruit_Pigmented_Pretty_Naked_II_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838735110222)
-
-Beauty Deal - Fruit Pigmented® Berry Naked Palette
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CFPNIIPA_Beauty_Deal_2022-Fruit_Pigmented_Pretty_Naked_II_Palette_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented® Berry Naked Palette
-
-Fruit Pigmented® berry eyeshadow palette of nude, blush, and metallic tones. Our vegan makeup palette includes eyeshadows, blush, and highlighter colored from fruit and vegetable pigments.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1pFelOYnz7igLE355OmFlfNNQWKu9IE_5_export_download.jpg?em-origin=cdn.shopify.com)](#product-7507268567118)
-
-Beauty Deal - Fruit Pigmented® Pretty Naked Palette
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1pFelOYnz7igLE355OmFlfNNQWKu9IE_5_export_download.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented® Pretty Naked Palette
-
-Fruit pigmented® makeup palette celebrates neutral tones and soft shimmer to enhance and beautify your complexion. Includes eyeshadows, blush, and highlighter.
-
-SELECT
-
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/Luminousprimer_1600x_c826b9f9-a9be-47c0-88ff-91f2f8de5523.webp?em-origin=cdn.shopify.com)](#product-6840074895438)
 
 Beauty Deal - Luminous Primer
@@ -507,213 +479,241 @@ Silicone-free primer infused with skin-plumping seaweed collagen for flawless, l
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CBCGEM_Beauty_Deal_2022-Cocoa_Pigmented_Bronzer_-_Cocoa_Gem_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838961537102)
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/GLHSR_Repair_Shampoo_Primary.jpg?em-origin=cdn.shopify.com)](#product-6674955305038)
 
-Beauty Deal - Cocoa Pigmented Bronzer - Cocoa Gem
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CBCGEM_Beauty_Deal_2022-Cocoa_Pigmented_Bronzer_-_Cocoa_Gem_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Cocoa Pigmented Bronzer - Cocoa Gem
-
-Warm your complexion using vitamin-rich fruit and cocoa pigments, laced with luminescent gems and minerals for subtle shimmer and a sun-kissed glow.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CBCKD_Beauty_Deal_2022-Cocoa_Pigmented_Bronzer_-_Cocoa_Kissed_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838734815310)
-
-Beauty Deal - Cocoa Pigmented Bronzer - Cocoa Kissed
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CBCKD_Beauty_Deal_2022-Cocoa_Pigmented_Bronzer_-_Cocoa_Kissed_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Cocoa Pigmented Bronzer - Cocoa Kissed
-
-Warm your complexion using vitamin-rich fruit and cocoa pigments, laced with luminescent gems and minerals for subtle shimmer and a sun-kissed glow.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CBCG_Cocoa_Pigmented_Bronzer__Cocoa_Glow_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657755250766)
-
-Beauty Deal - Cocoa Pigmented Bronzer: Cocoa Glow
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CBCG_Cocoa_Pigmented_Bronzer__Cocoa_Glow_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Cocoa Pigmented Bronzer: Cocoa Glow
-
-Warm your complexion using vitamin-rich fruit and cocoa pigments, laced with luminescent gems and minerals for subtle shimmer and a sun-kissed glow.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPWFC1.0_Fruit_Pigmented_Full_Coverage_Water_Foundation__Cool_1.0_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657757708366)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Cool 1.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPWFC1.0_Fruit_Pigmented_Full_Coverage_Water_Foundation__Cool_1.0_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Cool 1.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFC3.0_Full_Coverage_Water_Foundation_Cool_3.0_Primary_1600x_4c539b4a-3563-4406-a2eb-61ac86a81048.webp?em-origin=cdn.shopify.com)](#product-7491737583694)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Cool 3.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFC3.0_Full_Coverage_Water_Foundation_Cool_3.0_Primary_1600x_4c539b4a-3563-4406-a2eb-61ac86a81048.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Cool 3.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPWFC4.0_Fruit_Pigmented_C2_AE_Full_Coverage_Water_Foundation__Cool_4.0_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657757839438)
-
-Beauty Deal - Fruit Pigmented® Full Coverage Water Foundation: Cool 4.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CFPWFC4.0_Fruit_Pigmented_C2_AE_Full_Coverage_Water_Foundation__Cool_4.0_Primary_2.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented® Full Coverage Water Foundation: Cool 4.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFN5.0_Full_Coverage_Water_Foundation_Neutral_5.0_Primary_1600x_48602123-365c-4a9a-9cda-e89143c56887.webp?em-origin=cdn.shopify.com)](#product-7491737616462)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Neutral 5.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFN5.0_Full_Coverage_Water_Foundation_Neutral_5.0_Primary_1600x_48602123-365c-4a9a-9cda-e89143c56887.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Neutral 5.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFW5.0_Full_Coverage_Water_Foundation_Warm_5.0_Primary_1600x_6c5650cc-01cb-4e25-a8d6-1333ff940432.webp?em-origin=cdn.shopify.com)](#product-7491737649230)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Warm 5.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFW5.0_Full_Coverage_Water_Foundation_Warm_5.0_Primary_1600x_6c5650cc-01cb-4e25-a8d6-1333ff940432.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Warm 5.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFW8.0_Full_Coverage_Water_Foundation_Warm_8.0_Primary_1600x_b142af59-1e6b-487e-a74d-49c22ceec1d5.webp?em-origin=cdn.shopify.com)](#product-7491737681998)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Warm 8.0
-
-SELECT Buy for $20
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CFPWFW8.0_Full_Coverage_Water_Foundation_Warm_8.0_Primary_1600x_b142af59-1e6b-487e-a74d-49c22ceec1d5.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Fruit Pigmented Full Coverage Water Foundation: Warm 8.0
-
-Fruit pigmented® foundation plumps and hydrates skin with soothing aloe and toning green tea. Offers flawless full coverage with a satin, lightly dewy finish.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FSRMCW_Rose_Micellar_Cleansing_Water_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927908831310)
-
-Beauty Deal - Rose Micellar Cleansing Water
+Beauty Deal - Repair Shampoo - 13.5oz
 
 SELECT Buy for $15
 
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FSRMCW_Rose_Micellar_Cleansing_Water_Primary.jpg?em-origin=cdn.shopify.com)
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/GLHSR_Repair_Shampoo_Primary.jpg?em-origin=cdn.shopify.com)
 
-Beauty Deal - Rose Micellar Cleansing Water
+Beauty Deal - Repair Shampoo - 13.5oz
 
-Hydrating Makeup Remover. Hydrating cleansing water gently rinses away makeup, sunblock, excess oil, and environmental toxins while purifying and toning with calming floral waters.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/RoseWater_Serum_FRONT_1600x_bcccfe0b-f97c-4df0-8bbd-08795b8ab325.webp?em-origin=cdn.shopify.com)](#product-6928807755854)
-
-Beauty Deal - Rose Water Hyaluronic Acid Serum
-
-SELECT Buy for $15
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/RoseWater_Serum_FRONT_1600x_bcccfe0b-f97c-4df0-8bbd-08795b8ab325.webp?em-origin=cdn.shopify.com)
-
-Beauty Deal - Rose Water Hyaluronic Acid Serum
-
-Soothing + Hydrating. Deeply hydrating serum made with balancing rose hydrosol, calming calendula, and plumping hyaluronic acid.
+Natural shampoo for restoring health and vitality to dry, damaged locks. Replenishes with essential vitamins and nutrients, while hydrating with rose and honey.
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FRWFM_Rose_Water_Face_Mist_Primary_1600x_dc29b258-5f58-4522-aa51-e6433a48d11e.webp?em-origin=cdn.shopify.com)](#product-6838961143886)
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1z97rFwH8zelpg_wKQVoRl6mHrCNeuxPv_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491737059406)
 
-Beauty Deal - Rose Water Face Mist
+Beauty Deal - Glossy Locks Repair Shampoo - 16oz
 
 SELECT Buy for $15
 
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FRWFM_Rose_Water_Face_Mist_Primary_1600x_dc29b258-5f58-4522-aa51-e6433a48d11e.webp?em-origin=cdn.shopify.com)
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1z97rFwH8zelpg_wKQVoRl6mHrCNeuxPv_export_download.jpg?em-origin=cdn.shopify.com)
 
-Beauty Deal - Rose Water Face Mist
+Beauty Deal - Glossy Locks Repair Shampoo - 16oz
 
-Balancing natural rose water spray delivers a kiss of hydration from rose water and hyaluronic acid for a plumped, youthful glow.
+Natural shampoo for restoring health and vitality to dry, damaged locks. Replenishes with essential vitamins and nutrients, while hydrating with rose and honey.
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y6kq2nMf-VBz2IvxXx3-Y6J_0PD6RE2q_export_download.jpg?em-origin=cdn.shopify.com)](#product-6838961406030)
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y1RHdAnZJ8xL59a_7IOprAIFMmrwltnM_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736961102)
 
-Beauty Deal - Rose Water Hydrating Milk
+Beauty Deal - Glossy Locks Repair Conditioner - 13.5oz
 
 SELECT Buy for $15
 
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y6kq2nMf-VBz2IvxXx3-Y6J_0PD6RE2q_export_download.jpg?em-origin=cdn.shopify.com)
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y1RHdAnZJ8xL59a_7IOprAIFMmrwltnM_export_download.jpg?em-origin=cdn.shopify.com)
 
-Beauty Deal - Rose Water Hydrating Milk
+Beauty Deal - Glossy Locks Repair Conditioner - 13.5oz
 
-Lightweight facial moisturizer made with rose hydrosol and hyaluronic acid to deeply calm, soften, and hydrate the skin.
+Deeply restorative treatment for repairing and nourishing dry, damaged hair. Concentrated with moisturizing oils and vitamins for smooth, hydrated locks.
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FRSCERC_Restorative_Sea_Culture_Extra_Riche_Creme_Primary_670x_eb1d9cf9-35d6-4a06-b455-3b8fe77a5725.webp?em-origin=cdn.shopify.com)](#product-7491737747534)
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1v5_DNEv9xLSRfB_BeWJf0wl7P1_K8vB7_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736993870)
 
-Beauty Deal - Restorative Sea Culture Extra Riche Creme
+Beauty Deal - Glossy Locks Repair Conditioner - 16oz
 
 SELECT Buy for $15
 
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FRSCERC_Restorative_Sea_Culture_Extra_Riche_Creme_Primary_670x_eb1d9cf9-35d6-4a06-b455-3b8fe77a5725.webp?em-origin=cdn.shopify.com)
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1v5_DNEv9xLSRfB_BeWJf0wl7P1_K8vB7_export_download.jpg?em-origin=cdn.shopify.com)
 
-Beauty Deal - Restorative Sea Culture Extra Riche Creme
+Beauty Deal - Glossy Locks Repair Conditioner - 16oz
 
-Plumping. Rich, luxurious cream drenches skin in deep moisture, delivers nutrient-rich sea minerals and vitamins, and plumps skin with hydrating seaweed polysaccharides.
+Deeply restorative treatment for repairing and nourishing dry, damaged hair. Concentrated with moisturizing oils and vitamins for smooth, hydrated locks.
 
 SELECT
 
-[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Gvw9jA-8zaSZoiwnaOLyqfw6DCeaEeRP_export_view_670x_5c82a4bd-e0ac-42f3-ae2c-4a18fc46d4dd.webp?em-origin=cdn.shopify.com)](#product-7491737780302)
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_118ZwmnhHV-u1ZEj_hAPhnrFoP02Tfa9b_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491737026638)
 
-Beauty Deal - Restorative Sea Culture Hydrating Toner
+Beauty Deal - Glossy Locks Moisture Drench Shampoo - 13.5oz
 
 SELECT Buy for $15
 
-![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Gvw9jA-8zaSZoiwnaOLyqfw6DCeaEeRP_export_view_670x_5c82a4bd-e0ac-42f3-ae2c-4a18fc46d4dd.webp?em-origin=cdn.shopify.com)
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_118ZwmnhHV-u1ZEj_hAPhnrFoP02Tfa9b_export_download.jpg?em-origin=cdn.shopify.com)
 
-Beauty Deal - Restorative Sea Culture Hydrating Toner
+Beauty Deal - Glossy Locks Moisture Drench Shampoo - 13.5oz
 
-Skin Plumping. Water-drenching facial toner softens, plumps, and hydrates skin using a base of gelatinous algin from mineral-rich seaweed sourced from pure, unpolluted waters.
+Luxuriously moisturizing shampoo deeply restores hydration and shine to thirsty locks. Fortified with nourishing aloe, biotin, rose water, and coconut oil.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1wAjpuGEXJt_xHtrBZe5oGydbAwNiI6RS_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736928334)
+
+Beauty Deal - Glossy Locks Moisture Drench Conditioner 13.5oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1wAjpuGEXJt_xHtrBZe5oGydbAwNiI6RS_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Moisture Drench Conditioner 13.5oz
+
+Deeply moisturizing conditioner restores hydration to dry, dehydrated locks. Replenishes essential moisture for stronger, healthier hair and renewed shine.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHCGM_Grow_More_Conditioner_Primary_80509226-d7cb-44ad-9dd3-e6e41be62d8f.jpg?em-origin=cdn.shopify.com)](#product-6918011027534)
+
+Beauty Deal - Glossy Locks Grow More Conditioner 13oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHCGM_Grow_More_Conditioner_Primary_80509226-d7cb-44ad-9dd3-e6e41be62d8f.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Grow More Conditioner 13oz
+
+Glossy Locks Grow More Conditioner is formulated to minimize shedding and stimulate new hair growth. Deeply nourishes, hydrates, and detangles for smooth, soft, and healthier hair.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHSG16OZ_Glossing_Shampoo_16oz_Primary_138926e7-6a72-4a3c-9687-a215f964f3ab.jpg?em-origin=cdn.shopify.com)](#product-6918010961998)
+
+Beauty Deal - Glossy Locks Glossing Shampoo 16oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHSG16OZ_Glossing_Shampoo_16oz_Primary_138926e7-6a72-4a3c-9687-a215f964f3ab.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Glossing Shampoo 16oz
+
+Hydrating shampoo quenches hair while restoring bounce, shine, and luster. Gently washes away hair-dulling residues while nourishing and strengthening.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSBNHS8OZ_Burdock_Neem_Healthy_Scalp_Shampoo_Primary_a94938e6-ddde-4b31-8b34-2e019f34b311.jpg?em-origin=cdn.shopify.com)](#product-6918010798158)
+
+Beauty Deal - Burdock and Neem Healthy Scalp Shampoo 8oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSBNHS8OZ_Burdock_Neem_Healthy_Scalp_Shampoo_Primary_a94938e6-ddde-4b31-8b34-2e019f34b311.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Burdock and Neem Healthy Scalp Shampoo 8oz
+
+Purifying formula unclogs pores, stimulates circulation, and alleviates dryness, itching, and flaking. With added hydration for healthier scalp and hair.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1HCCBNHS13OZ_Burdock_Neem_Conditioner_13OZ_Primary_690594ce-0cd7-4f24-9c2a-25ca8d4678ec.jpg?em-origin=cdn.shopify.com)](#product-6918011781198)
+
+Beauty Deal - Burdock & Neem Healthy Scalp Conditioner 13 oz
+
+SOLD OUT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1HCCBNHS13OZ_Burdock_Neem_Conditioner_13OZ_Primary_690594ce-0cd7-4f24-9c2a-25ca8d4678ec.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Burdock & Neem Healthy Scalp Conditioner 13 oz
+
+Purifies to unclog pores and stimulate circulation in the scalp. Intense hydration helps to alleviate dryness, itching and flaking for healthy, nourished hair.
+
+SOLD OUT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSYPG8OZ_Yuzu_Pomelo_Shampoo_Primary_e4c68fde-4e6b-45c1-92fa-efffb56aa65a.jpg?em-origin=cdn.shopify.com)](#product-6928810541134)
+
+Beauty Deal - Yuzu and Pomelo Glossing Shampoo - 8oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSYPG8OZ_Yuzu_Pomelo_Shampoo_Primary_e4c68fde-4e6b-45c1-92fa-efffb56aa65a.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Yuzu and Pomelo Glossing Shampoo - 8oz
+
+Hydrating shampoo gently washes away excess oil while giving hair brilliant shine, bounce, and vibrancy. Fortifies for healthier, stronger hair.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCYPG13OZ_Yuzu_Pomelo_Conditioner_13OZ_Primary_79aab3b1-5945-4db2-a4e0-fc830a348065.jpg?em-origin=cdn.shopify.com)](#product-6918011125838)
+
+Beauty Deal - Yuzu and Pomelo Glossing Conditioner 13oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCYPG13OZ_Yuzu_Pomelo_Conditioner_13OZ_Primary_79aab3b1-5945-4db2-a4e0-fc830a348065.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Yuzu and Pomelo Glossing Conditioner 13oz
+
+Revitalizing conditioner restores vibrancy and shine with yuzu and pomelo. Vitamins and botanicals return strength and softness to hair while gently detangling.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSKMV8OZ_Kelp_Mint_Shampoo_Primary_12920387-45cc-4592-8294-9a1c36cd6c65.jpg?em-origin=cdn.shopify.com)](#product-6918010667086)
+
+Beauty Deal - Kelp and Mint Volumizing Shampoo - 8oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCSKMV8OZ_Kelp_Mint_Shampoo_Primary_12920387-45cc-4592-8294-9a1c36cd6c65.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Kelp and Mint Volumizing Shampoo - 8oz
+
+Hydrating and invigorating seaweed shampoo gently purifies while adding bounce, body, and luster. Kelp thickens and strengthens while seaweed collagen adds shine.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV8OZ_Kelp_Mint_Conditioner_8OZ_Primary_c9f5553c-de4a-481a-9876-60864b19e0ea.jpg?em-origin=cdn.shopify.com)](#product-6918011486286)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 8oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV8OZ_Kelp_Mint_Conditioner_8OZ_Primary_c9f5553c-de4a-481a-9876-60864b19e0ea.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 8oz
+
+Invigorating seaweed conditioner refreshes the scalp with peppermint while hydrating, smoothing, and strengthening strands with sea kelp for enhanced shine and volume.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV16OZ_Kelp_Mint_Volumizing_Conditioner_16oz_Primary.jpg?em-origin=cdn.shopify.com)](#product-6928810246222)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 16oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV16OZ_Kelp_Mint_Volumizing_Conditioner_16oz_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 16oz
+
+Invigorating conditioner refreshes the scalp with peppermint while hydrating, smoothing, and strengthening strands with sea kelp for enhanced shine and volume.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV13OZ_Kelp_Mint_Conditioner_13oz_Primary_1600x_b22db297-3737-46cb-b42a-9e0f3010f6b9.webp?em-origin=cdn.shopify.com)](#product-7491738009678)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 13oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCCKMV13OZ_Kelp_Mint_Conditioner_13oz_Primary_1600x_b22db297-3737-46cb-b42a-9e0f3010f6b9.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Kelp and Mint Volumizing Conditioner - 13oz
+
+Invigorating conditioner refreshes the scalp with peppermint while hydrating, smoothing, and strengthening strands with sea kelp for enhanced shine and volume.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBPN_Fruit_Pigmented_Blush_Pretty_Naked_Primary.jpg?em-origin=cdn.shopify.com)](#product-7513698697294)
+
+Beauty Deal - Fruit Pigmented® Blush - Pretty Naked
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBPN_Fruit_Pigmented_Blush_Pretty_Naked_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Blush - Pretty Naked
+
+Versatile range of blush makeup made from finely pressed rice powder and antioxidant-rich fruit pigments to give cheeks a healthy, natural flush of color.
 
 SELECT
 
@@ -779,7 +779,7 @@ ADD TO TOTE
 
 ### [Multi-Vitamin + Antioxidants Potent PM Serum](https://www.100percentpure.com/products/multi-vitamin-antioxidants-potent-pm-serums)
 
-101 reviews (101)
+102 reviews (102)
 
 $72.00
 
@@ -1313,7 +1313,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🎉 Annual Beauty Deals Sale is LIVE! Prices start at just $5 with up to 70% OFF. Shop now before it's gone!](https://www.100percentpure.com/collections/beauty-deals "https://www.100percentpure.com/collections/beauty-deals")
+[🎉 OUR FAVORITE BEAUTY DEALS- 24 HOURS ONLY! Prices start at just $5 with up to 70% OFF. Shop now before it's gone!](https://www.100percentpure.com/collections/beauty-deals "https://www.100percentpure.com/collections/beauty-deals")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
