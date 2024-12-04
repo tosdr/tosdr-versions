@@ -28,7 +28,7 @@ Main menu
 
 New: [Run-Command](https://portableapps.com/news/2024-12-02--run-command-portable-6.22-released) (Dec 2, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
 [1,100+ portable packages](https://portableapps.com/apps), 1.1 billion downloads  
-**[No Ads November](https://portableapps.com/news/2024-11-07--no-ads-november-2024)!**, Please [donate today](https://portableapps.com/donate)
+**[No Ads Nov/Dec](https://portableapps.com/news/2024-11-07--no-ads-november-2024)!**, Please [donate today](https://portableapps.com/donate)
 
 You are here
 ------------
@@ -52,9 +52,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -131,9 +131,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -156,9 +156,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -180,9 +180,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -204,9 +204,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -228,9 +228,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
@@ -252,9 +252,9 @@ John T. Haller
 
 ![John T. Haller's picture](https://portableapps.com/files/pictures/picture-2-1635478192.jpg "John T. Haller's picture")
 
-Offline
+Online
 
-Last seen: 9 hours 45 min ago
+Last seen: 24 min 41 sec ago
 
 ![Admin](https://cdn2.portableapps.com/_badge_admin.png "Admin")![Developer](https://cdn2.portableapps.com/_badge_developer.png "Developer")![Moderator](https://cdn2.portableapps.com/_badge_moderator.png "Moderator")![Translator](https://cdn2.portableapps.com/_badge_translator.png "Translator")
 
