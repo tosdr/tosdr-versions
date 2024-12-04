@@ -27,7 +27,7 @@ Toggle navigation [![Logo](/img/logo_ha_new.svg)](https://www.hybrid-analysis.co
     * [Webservice Statistics](https://www.hybrid-analysis.com/statistics)
     * [Advanced Search](https://www.hybrid-analysis.com/advanced-search)
     * [File Collection Search](https://www.hybrid-analysis.com/file-collection/search)
-    * [Public Feed](https://www.hybrid-analysis.com/feed?json)
+    * [Public Feed](https://www.hybrid-analysis.com/docs/api/v2#/Feed)
     * [Report of the Day](https://www.hybrid-analysis.com/report-of-the-day)
     
     * [Falcon Sandbox Website](https://www.crowdstrike.com/endpoint-security-products/falcon-sandbox-malware-analysis/)
