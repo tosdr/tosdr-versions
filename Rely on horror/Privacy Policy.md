@@ -143,7 +143,9 @@ When you use our site, pre-selected companies may access and use certain informa
 
 [![](https://www.relyonhorror.com/wp-content/uploads/2017/01/discord.png)](https://discordapp.com/invite/fXCKMer "Discord")
 
-[![](https://www.relyonhorror.com/wp-content/uploads/2015/09/RoHYoutubeSMALL.jpg)](http://www.youtube.com/RelyonHorror "YouTube")
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='112'%20viewBox='0%200%20300%20112'%3E%3C/svg%3E)
+
+![](https://www.relyonhorror.com/wp-content/uploads/2015/09/RoHYoutubeSMALL.jpg)](http://www.youtube.com/RelyonHorror "YouTube")
 
 Adblock Detected!
 
@@ -157,7 +159,9 @@ Rely on Horror is a free fan site with a dedicated team of content creators. In 
 
 Thanks from the Rely on Horror team!
 
-[![Rely on Horror](https://www.relyonhorror.com/wp-content/uploads/2022/04/logo.png)](https://www.relyonhorror.com/)
+[![Rely on Horror](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='321'%20height='112'%20viewBox='0%200%20321%20112'%3E%3C/svg%3E)
+
+![Rely on Horror](https://www.relyonhorror.com/wp-content/uploads/2022/04/logo.png)](https://www.relyonhorror.com/)
 
 * [Home](https://www.relyonhorror.com/)
 * [About](https://www.relyonhorror.com/about/)
