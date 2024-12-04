@@ -1123,7 +1123,7 @@ Free standard shipping on any $35 purchase
     * [Ear Piercing](https://www.ulta.com/beautyservices/ear-piercing)
         
     
-* [Cyber Monday Deals](https://www.ulta.com/promotion/cyber-monday)
+* [Big Holiday Beauty Sale](https://www.ulta.com/promotion/big-holiday-beauty-sale)
     
 
 * [](https://www.ulta.com/bag)
