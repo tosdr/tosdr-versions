@@ -134,7 +134,7 @@
     * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
-    * [AI Fine-Tuning](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-fine-tuning?source=category_tree)
+    * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
     * [OpenAI GPT Storenew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
@@ -229,7 +229,7 @@
         
     * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree)
     * [Marketing Concepts & Ideation](https://www.fiverr.com/categories/online-marketing/marketing-concepts-and-ideation?source=category_tree)
-    * [Marketing Advicenew](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
+    * [Marketing Advice](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
     * [Web Analytics](https://www.fiverr.com/categories/online-marketing/web-analytics-services?source=category_tree)
     * [Conversion Rate Optimization (CRO)new](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
     
@@ -475,7 +475,7 @@
     * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
     * [General Legal Advice](https://www.fiverr.com/categories/business/legal-consulting-services/legal-advice?source=category_tree)
     
-    * General & Administrative
+    * Operations & Management
         
     * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
     * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
@@ -551,7 +551,7 @@
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
-    * [AI Fine-Tuning](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-fine-tuning?source=category_tree)
+    * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
     * [OpenAI GPT Storenew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * Data
@@ -844,7 +844,7 @@ Browse categories
     * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
-    * [AI Fine-Tuning](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-fine-tuning?source=category_tree)
+    * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
     * [OpenAI GPT StoreNew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
@@ -929,7 +929,7 @@ Browse categories
     * Analytics & Strategy
     * [Marketing Strategy](https://www.fiverr.com/categories/online-marketing/marketing-strategy?source=category_tree)
     * [Marketing Concepts & Ideation](https://www.fiverr.com/categories/online-marketing/marketing-concepts-and-ideation?source=category_tree)
-    * [Marketing AdviceNew](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
+    * [Marketing Advice](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
     * [Web Analytics](https://www.fiverr.com/categories/online-marketing/web-analytics-services?source=category_tree)
     * [Conversion Rate Optimization (CRO)New](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
     
@@ -1149,7 +1149,7 @@ Browse categories
     * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
     * [General Legal Advice](https://www.fiverr.com/categories/business/legal-consulting-services/legal-advice?source=category_tree)
     
-    * General & Administrative
+    * Operations & Management
     * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
     * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
     * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
@@ -1225,7 +1225,7 @@ Browse categories
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
-    * [AI Fine-Tuning](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-fine-tuning?source=category_tree)
+    * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
     * [OpenAI GPT StoreNew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * Data
