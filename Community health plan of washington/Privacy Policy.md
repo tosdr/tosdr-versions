@@ -1,4 +1,4 @@
-      Privacy Policy - Washington State Local Health Insurance - CHPW                                                               
+      Privacy Policy - Washington State Local Health Insurance - CHPW                                                              
 
 [](#)
 
