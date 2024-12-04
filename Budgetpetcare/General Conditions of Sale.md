@@ -22,7 +22,7 @@ Use Code : CMONDAY
 
  [![Icon-Cart](/images/icon-d/d-Icon-cart.png) 0 Item](https://www.budgetpetcare.com/my_cart.aspx)
 
- [![Icon-heart](/images/icon-d/d-Icon-heart1.png) 116844](https://www.budgetpetcare.com/reviews.aspx)
+ [![Icon-heart](/images/icon-d/d-Icon-heart1.png) 116865](https://www.budgetpetcare.com/reviews.aspx)
 
  ![Icon-Search](/images/icon-d/d-Icon-search1.png)
 
@@ -78,7 +78,7 @@ Use Code : CMONDAY
 * [New Arrivals](https://www.budgetpetcare.com/new-arrivals.aspx)
 * Special Offer
     * [**Latest Offers**](https://www.budgetpetcare.com/sale.aspx)
-    * [**Senior Pet Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
+    * [**Cat Lovers Month**](https://www.budgetpetcare.com/seasonal-offers.aspx)
     * [**Flash Sale**](https://www.budgetpetcare.com/flash-offers.aspx)
 
 * [Homes](https://www.budgetpetcare.com/)
