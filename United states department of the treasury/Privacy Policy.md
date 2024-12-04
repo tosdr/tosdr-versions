@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 4, 2024
+    
+    [Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions](https://home.treasury.gov/news/press-releases/jy2735)
+    
     December 3, 2024
     
     [Treasury Intensifies Pressure on Iranian Shadow Fleet](https://home.treasury.gov/news/press-releases/jy2734)
@@ -582,10 +586,6 @@ MENU MENU
     December 2, 2024
     
     [Treasury Sanctions Former Government of Uzbekistan Officials for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2732)
-    
-    December 2, 2024
-    
-    [Joint Statement by the Department of State and the Department of the Treasury on the United States Government’s Response to Israel’s Cabinet Decision on Extending the Indemnification for Correspondent Banking between Israel and the West Bank](https://home.treasury.gov/news/press-releases/jy2733)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
