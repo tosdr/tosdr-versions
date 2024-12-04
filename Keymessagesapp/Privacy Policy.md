@@ -207,6 +207,26 @@ _tablet\_android_Tablet
 
 1
 
+![](https://play-lh.googleusercontent.com/a/ACg8ocIDLt_Lr4kyKkfno2vDrRz8DSnqOIXiUBrsYU76WBZU0oR9gw=s32-mo)
+
+Kevin Rich
+
+_more\_vert_
+
+* Flag inappropriate
+
+October 11, 2024
+
+Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
+
+2 people found this review helpful
+
+Did you find this helpful?
+
+Yes
+
+No
+
 ![](https://play-lh.googleusercontent.com/a/ACg8ocLeMsgT8wO-8CDeH8YcZZBa7hwSZpYJTguhBG8wbMutc_JivQ=s32-mo)
 
 LonelyLeo100
@@ -233,26 +253,6 @@ Mezo SMS AI - Spam Blocker, Text Blocker
 March 31, 2024
 
 Hi. Thanks for the feedback. We are glad to know that Key Messages is working awesome for you.
-
-![](https://play-lh.googleusercontent.com/a/ACg8ocIDLt_Lr4kyKkfno2vDrRz8DSnqOIXiUBrsYU76WBZU0oR9gw=s32-mo)
-
-Kevin Rich
-
-_more\_vert_
-
-* Flag inappropriate
-
-October 11, 2024
-
-Features SMS blocking rules that, for whatever reason, don't seem to exist on competing apps. It's also nice that numbers in your contacts are separated into their own list, distinct from all unknown numbers. Finally, there's a handy feature where 2FA text message codes are automatically copied to the clipboard. However beyond that, there isn't much going for it. I have weird rendering errors on my device where occasionally older messages will float over or behind current messages. Strange.
-
-2 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
 
 ![](https://play-lh.googleusercontent.com/a/ACg8ocLm6yMboh4OnkIO6hl2m4gQrHkZ4CV3GdU_sFRZX-rznWkpYw=s32-mo)
 
@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGEZHWE9FTmk0S0FXeHBMSUM4bFltbkE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJmA5g)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFVGMmNlYm12UzI4ZW5kT0hJNXhmbGc9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJOELk)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
