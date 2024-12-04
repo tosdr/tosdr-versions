@@ -741,7 +741,7 @@ Functional Cookies
 
 ### Hear how thought leaders are thinking about AI Workers.
 
-[Watch Now](https://www.qualified.com/archive/events)
+[Watch Now](#)
 
 ![](https://cdn.prod.website-files.com/5bf5b410e2ba0f030f3e22cd/672e6d0fc21c4eadf4d2d7f5_FY25%20PLS%20Logo.svg)
 
