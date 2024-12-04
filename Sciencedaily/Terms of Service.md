@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 3, 2024**
+**December 4, 2024**
 
 * * *
 
@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Mammoth as Key Food Source for Ancient Americans](https://www.sciencedaily.com/releases/2024/12/241204145021.htm)
+* [How Did Humans and Dogs Become Friends?](https://www.sciencedaily.com/releases/2024/12/241204145004.htm)
+* [Lasting Effects of Common Herbicide On the Brain](https://www.sciencedaily.com/releases/2024/12/241204113640.htm)
+* [Plastic-Eating Bugs May Help With Microplastics](https://www.sciencedaily.com/releases/2024/12/241203194324.htm)
+* [Massive Asteroid Impacts and Earth's Climate](https://www.sciencedaily.com/releases/2024/12/241204114317.htm)
+* [The Heart Has Its Own 'Brain'](https://www.sciencedaily.com/releases/2024/12/241204114304.htm)
+* [Owning a Home in the US Linked to Longer Life](https://www.sciencedaily.com/releases/2024/12/241204114018.htm)
+* [Lead Exposure Widely Damaged Mental Health](https://www.sciencedaily.com/releases/2024/12/241204114237.htm)
+* [Tiny, Daily Bursts of Activity May Halve ...](https://www.sciencedaily.com/releases/2024/12/241203194357.htm)
 * [Countdown to an Ice-Free Arctic](https://www.sciencedaily.com/releases/2024/12/241203154440.htm)
-* [New Planet Discovered in Kepler-51 System](https://www.sciencedaily.com/releases/2024/12/241203153927.htm)
-* [Insect Fossil Find 'Extremely Rare'](https://www.sciencedaily.com/releases/2024/12/241202221905.htm)
-* [Visceral Fat Linked to Future Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241202124520.htm)
-* [New 3D Printing Approach Means Better Devices](https://www.sciencedaily.com/releases/2024/12/241202124507.htm)
-* [AI Could Automate Genomics Research](https://www.sciencedaily.com/releases/2024/12/241202123918.htm)
-* [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
-* [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
-* [Primordial Black Holes May Be Hiding On Earth](https://www.sciencedaily.com/releases/2024/12/241202123658.htm)
-* [Venus Likely Has Never Been Habitable](https://www.sciencedaily.com/releases/2024/12/241202123421.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
-[Eye Care](https://www.sciencedaily.com/news/health_medicine/eye_care/)
+[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Vitamin B](https://www.sciencedaily.com/news/health_medicine/vitamin_b/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
+[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
-[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
+[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
