@@ -30,7 +30,7 @@
 
 [](https://www.brightcellars.com/collections/new-release)
 
-![](//www.winc.com/cdn/shop/files/New-Wines_fd97debf-001d-4b41-bb3f-4d4673273b1c.png?v=1724074619&width=720)
+![](//www.winc.com/cdn/shop/files/Frame_5_841c49b7-aea3-4ad8-a49d-b059ecc6fb58.png?v=1733243059&width=720)
 
 [Gift Cards](https://www.brightcellars.com/products/winc-gift-card)
 
@@ -142,7 +142,7 @@ Exit menu Body
 
 [](https://www.brightcellars.com/collections/new-release)
 
-![](//www.winc.com/cdn/shop/files/New-Wines_fd97debf-001d-4b41-bb3f-4d4673273b1c.png?v=1724074619&width=720)
+![](//www.winc.com/cdn/shop/files/Frame_5_841c49b7-aea3-4ad8-a49d-b059ecc6fb58.png?v=1733243059&width=720)
 
 Gift Cards Show menu
 
