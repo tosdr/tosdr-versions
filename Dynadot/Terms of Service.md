@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Last chance to get .icu, .cyou, .sbs, .cfd, and .bond domains for under $1.79 and up to 75% off premium names!](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=Shortdot%20BFCM%20Promobar%20Dec%202024&utm_medium=BFCM%20Sales&drefid=4649)
+[Last chance to get .icu, .cyou, .sbs, .cfd, and .bond domains for under $1.79 and up to 75% off premium names!](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=Shortdot%20BFCM%20Promobar%20Dec%202024&utm_medium=BFCM%20Sales&drefid=4649)[Launch sale ending soon 💥 Register 1st year .CV domains for only $2.99 until 12/5/24 23:59 UTC!](https://www.dynadot.com/domain/cv?utm_source=Promobar&utm_campaign=CV%20Promobar%20Dec%202024&utm_medium=cv&drefid=4693)
 
 [](https://www.dynadot.com/)
 
