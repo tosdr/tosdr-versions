@@ -8,7 +8,7 @@
 
 ![Las Vegas News](https://www.reviewjournal.com/wp-content/uploads/2024/11/skyline_w_logo_4.png)](https://www.reviewjournal.com/ "Las Vegas News")
 
-[RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink) [VIEW E-EDITION](https://eedition.reviewjournal.com/html5/reader/production/default.aspx?pubname=&pubid=139ee3b9-eb9c-430e-a300-9ce1f1a0636c&utm_campaign=eedition&utm_medium=top_menu&utm_source=lvrj)
+[VIEW E-EDITION](https://eedition.reviewjournal.com/html5/reader/production/default.aspx?pubname=&pubid=139ee3b9-eb9c-430e-a300-9ce1f1a0636c&utm_campaign=eedition&utm_medium=top_menu&utm_source=lvrj)
 
 [99¢ for 6 mos](https://checkout.reviewjournal.com/def2?g2i_source=lvrj&g2i_medium=button&g2i_campaign=default&g2i_or_p=default)
 
@@ -22,7 +22,7 @@ Hi
 
 [SIGN OUT](#)
 
-[43°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
+[55°F ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png)](https://www.reviewjournal.com/weather "Weather Forecast") 
 
 * [News](https://www.reviewjournal.com/news/)
 * [Local](https://www.reviewjournal.com/local/)
@@ -39,7 +39,7 @@ Hi
 
 [](#)
 
-43°F
+55°F
 
 ![weather icon](https://res.cloudinary.com/review-journal/image/upload/f_auto,q_auto,c_scale,w_40/rj-project/apple_weather/CloudyNight.png) Cloudy
 
@@ -49,7 +49,6 @@ Hi
 
 * [Home](https://www.reviewjournal.com/)
 * [Latest Headlines](https://www.reviewjournal.com/archive/)
-* [RJESPAÑOL](https://espanol.reviewjournal.com/?utm_campaign=RJ_Cross_Traffic&utm_source=Main_Nav_Link&utm_medium=NavLink)
 * [7@7 video](https://www.reviewjournal.com/7at7/)
 * [National Finals Rodeo](https://www.reviewjournal.com/sports/rodeo/national-finals-rodeo/)
 * [Top 100 Restaurants](https://www.reviewjournal.com/top-100-restaurants/)
@@ -617,7 +616,6 @@ AFFILIATE PUBLICATIONS
 
 * [Best of Las Vegas](https://bestoflasvegas.com/)
 * [Business Press](https://businesspress.vegas/)
-* [Las Vegas Review-Journal en español](https://espanol.reviewjournal.com/)
 * [Pahrump Valley Times](https://pvtimes.com/)
 * [Boulder City Review](https://bouldercityreview.com/)
 * [LV New Homes Guide](https://www.reviewjournal.com/homes/new-homes/)
