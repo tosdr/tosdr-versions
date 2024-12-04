@@ -240,23 +240,16 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+![Free for Open Source Projects](/content/images/content/strip/open-source-icon.png)
 
   
-
-![Partner](/content/images/content/strip/Strip-Charter.png)
-
   
 
-![Partner](/content/images/content/strip/Strip-BMW.png)
+### Free for Open Source Projects
 
+We love open source projects. Contact us with details of your project.  
   
-
-![Partner](/content/images/content/strip/Strip-certifyeu.png)
-
-  
-
-![Partner](/content/images/content/strip/Strip-Estructuras.png)
+[Contact Us](https://www.dynu.com/Support/ContactUs)
 
 ### News
 
