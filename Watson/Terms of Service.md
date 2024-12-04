@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)4°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)1°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [islamisme](https://www.watson.ch/fr/islamisme/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [commerce](https://www.watson.ch/fr/commerce/)
-* [Armée](https://www.watson.ch/fr/armee/)
-* [voiture](https://www.watson.ch/fr/voiture/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Cinéma](https://www.watson.ch/fr/cinema/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [France](https://www.watson.ch/fr/france/)
 * [Italie](https://www.watson.ch/fr/italie/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Argent](https://www.watson.ch/fr/argent/)
+* [tribunal](https://www.watson.ch/fr/tribunal/)
 * [Luxe](https://www.watson.ch/fr/luxe/)
 * [Enfants](https://www.watson.ch/fr/enfants/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [tribunal](https://www.watson.ch/fr/tribunal/)
 * [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Royauté](https://www.watson.ch/fr/royaute/)
-* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [France](https://www.watson.ch/fr/france/)
+* [Armée](https://www.watson.ch/fr/armee/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [commerce](https://www.watson.ch/fr/commerce/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [islamisme](https://www.watson.ch/fr/islamisme/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
