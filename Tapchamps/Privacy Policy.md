@@ -1,9 +1,9 @@
- [![TapChamps Logo](/img/tapchamps-logo.svg) ![TapChamps Logo](/img/tapchamps-dark-logo.svg)](https://www.tapchamps.com/)
+[![TapChamps Logo](/tapchamps-logo.svg)![TapChamps Logo](/tapchamps-dark-logo.svg)](https://www.tapchamps.com/)
 
 Privacy Policy
 --------------
 
-This Privacy Policy (together with our terms of use, which are available at [tapchamps.com/terms](https://tapchamps.com/terms)) governs the manner in which Tapchamps (“Tapchamps”) collects, uses, maintains and discloses personal data collected from users of the [tapchamps.com](https://tapchamps.com/) website and app (the “Site”) as well as all websites and apps working directly or indirectly with Tapchamps. This privacy policy applies to the Site and all products and services offered by Tapchamps. Please read this policy carefully to understand the views and practices of Tapchamps regarding your personal data and how Tapchamps will treat it.
+This Privacy Policy (together with our terms of use, which are available at [tapchamps.com/terms](https://www.tapchamps.com/terms)) governs the manner in which Tapchamps (“Tapchamps”) collects, uses, maintains and discloses personal data collected from users of the [tapchamps.com](https://www.tapchamps.com/) website and app (the “Site”) as well as all websites and apps working directly or indirectly with Tapchamps. This privacy policy applies to the Site and all products and services offered by Tapchamps. Please read this policy carefully to understand the views and practices of Tapchamps regarding your personal data and how Tapchamps will treat it.
 
   
 
@@ -95,7 +95,7 @@ We may disclose your personal data to third parties:
 * Where we engage trusted third parties to provide services in connection with the Site or our business, including sending out newsletters or surveys on our behalf.
 * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 * If Tapchamps or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use ([tapchamps.com/terms](https://tapchamps.com/terms)) and other agreements, or to protect the rights, property, or safety of Tapchamps, our customers or others.
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our Website terms of use ([tapchamps.com/terms](https://www.tapchamps.com/terms)) and other agreements, or to protect the rights, property, or safety of Tapchamps, our customers or others.
 
   
 
@@ -171,7 +171,7 @@ Your continued use of the Site after any change in this Privacy Policy will cons
 
   
 
-By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use ([tapchamps.com/terms](https://tapchamps.com/terms)). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of and consent to the practices described in this policy and terms of use ([tapchamps.com/terms](https://www.tapchamps.com/terms)). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
   
 
@@ -187,16 +187,16 @@ If you have any questions, comments or requests in relation to this Privacy Poli
 
 This document was last updated on March 15th 2020.
 
-![TapChamps Gift Card Amazon](/img/dqyyzmfncs-320.webp)
+![TapChamps Gift Card Amazon](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-amazon.558f0467.webp&w=640&q=75)
 
-![TapChamps Gift Google Play Store](/img/4VlRHDe5BF-320.webp)
+![TapChamps Gift Google Play Store](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-gp.0e72c2ca.webp&w=640&q=75)
 
-![TapChamps Gift Paypal](/img/7FFbygBVJs-320.webp)
+![TapChamps Gift Paypal](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Freward-paypal.6faae2cf.webp&w=640&q=75)
 
-![TapChamps Mobile App](/img/vIYMUOjjiP-750.webp)
+![TapChamps Mobile App](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmobilescreen.07611201.webp&w=1920&q=75)
 
-[![TapChamps Android App QR Code](/img/vM33POby4t-500.webp)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
+[![TapChamps Android App QR Code](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fqr-android.f1265a0c.webp&w=1080&q=75)](https://play.google.com/store/apps/details?id=com.tapchamps.tap)
 
-TapChamps © 2020 -
+TapChamps © 2020 - 2024
 
 [Advertise](https://www.tapchamps.com/advertise) — [Terms & Conditions](https://www.tapchamps.com/terms) — [Privacy Policy](https://www.tapchamps.com/privacy) — [Support](https://support.tapchamps.com/hc/en-us)
