@@ -292,7 +292,7 @@ general or business(Required)
 
  Send me business updates
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
