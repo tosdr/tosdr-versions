@@ -196,8 +196,7 @@
     
 * Resources
     
-    * Read
-        
+    * [Read](https://www.offsec.com/resources)
     
     * [Blog](https://www.offsec.com/blog/)
     * [Case Studies](https://www.offsec.com/resources/case-study)
@@ -218,13 +217,13 @@
     * [Cyberversity](https://www.offsec.com/cyberversity)
     * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles)
     
-    * [Live Training & Events](https://www.offsec.com/training-and-events)
-    
     * Work at OffSec
         
     
     * [Careers](https://www.offsec.com/careers)
     * [Values](https://www.offsec.com/values)
+    
+    * [Live Training & Events](https://www.offsec.com/training-and-events)
     
     * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions)
     
@@ -445,8 +444,7 @@
     
 * Resources
     
-    * Read
-        
+    * [Read](https://www.offsec.com/resources)
     
     * [Blog](https://www.offsec.com/blog/)
     * [Case Studies](https://www.offsec.com/resources/case-study)
@@ -467,13 +465,13 @@
     * [Cyberversity](https://www.offsec.com/cyberversity)
     * [Cybersecurity Job Roles](https://www.offsec.com/cybersecurity-roles)
     
-    * [Live Training & Events](https://www.offsec.com/training-and-events)
-    
     * Work at OffSec
         
     
     * [Careers](https://www.offsec.com/careers)
     * [Values](https://www.offsec.com/values)
+    
+    * [Live Training & Events](https://www.offsec.com/training-and-events)
     
     * [Subscribe to our Newsletters](https://www.offsec.com/subscriptions)
     
