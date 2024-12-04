@@ -567,8 +567,8 @@ Support
 LET'S TALK PRIVACY
 ==================
 
-It's the PaperCut Privacy Policy
---------------------------------
+PaperCut Privacy Policy
+-----------------------
 
 ![A few people gathered around a safe.](https://cdn.papercut.com/web/img/privacy-policy/security-FA01.png)
 
