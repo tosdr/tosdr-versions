@@ -1,5 +1,7 @@
 [Skip to main content](#main-content)
 
+Common Sense has recently updated its [Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/privacy-policy), [Children's Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy), and [FAQs](https://www.commonsensemedia.org/about-us/our-mission/privacy-faq).
+
 * [For Parents](https://www.commonsensemedia.org/)
 * [For Educators](https://www.commonsense.org/education)
 * [Our Work and Impact](https://www.commonsense.org/)
