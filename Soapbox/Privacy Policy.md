@@ -2,9 +2,9 @@
 
 [](https://www.soapboxsoaps.com/pages/soapbox-gift-guide)
 
-GIVING TUESDAY: 2x Bars Donated Today!
+CYBER WEEK DEALS: SAVE UP TO 30%
 
-GIVING TUESDAY: 2x Bars Donated Today!
+CYBER WEEK DEALS: SAVE UP TO 30%
 
 Menu icon Menu
 
@@ -270,5 +270,9 @@ Close icon
 Chevron down icon Chevron down icon
 
        
+
+     
+
+      
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
