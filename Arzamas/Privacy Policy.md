@@ -14,7 +14,6 @@
 * [Подкасты](https://arzamas.academy/courses?kind=podcasts)
 * [Материалы](https://arzamas.academy/courses?kind=audio_materials)
 * [Журнал](https://arzamas.academy/mag)
-* [Магазин](https://shop.arzamas.academy/)
 
 [](https://arzroom.arzamas.academy/)[](https://arzamas.academy/kids)[Скачать приложение](https://arzamas.academy/radio)[Скачать приложение](https://arzamas.academy/goosegoose)
 
