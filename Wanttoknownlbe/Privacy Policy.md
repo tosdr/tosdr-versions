@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-werkelijkheid-op-zijn-kop-is-dat-n-strop/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-artsen-en-farmaceutische-bedrijven-kunnen-hersenspoelen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
