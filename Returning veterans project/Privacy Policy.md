@@ -185,10 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![All veterans and service members](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Mr. Bob Friedenwald](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of All veterans and service members**  
-Submitted by Dave Moore](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Mr. Bob Friedenwald**  
+Submitted by Peggy Bird](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -231,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/04/24 - 1:11:33  
+Printed 12/04/24 - 7:26:13  
 © 2024 Returning Veterans Project
