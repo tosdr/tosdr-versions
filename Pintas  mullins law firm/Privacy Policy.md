@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Proving cancer from talcum: legal insights](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-how-can-an-ovarian-cancer-lawyer-prove-that-my-cancer-came-from-talcum-powder.jpg "Proving Cancer from Talcum: Legal Insights")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder "Proving Cancer from Talcum: Legal Insights")
+[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
 
-[#### Proving Cancer from Talcum: Legal Insights](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/how-to-prove-cancer-came-from-talcum-powder)
+[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
 
-[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
+[![What is a natural alternative to roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-a-natural-alternative-to-roundup.jpg "What Is a Natural Alternative to Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/ "What Is a Natural Alternative to Roundup?")
 
-[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
+[#### What Is a Natural Alternative to Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/)
 
-[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
+[![How to file a sexual abuse lawsuit against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How to File a Sexual Abuse Lawsuit Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/ "How to File a Sexual Abuse Lawsuit Against the Mormon Church")
 
-[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
+[#### How to File a Sexual Abuse Lawsuit Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
