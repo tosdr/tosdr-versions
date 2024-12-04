@@ -760,9 +760,9 @@ Get Support From OPPO
 * [](https://www.youtube.com/channel/UCBjHZYXkTKQ2_sISP8CprHA)
 * [](https://www.instagram.com/oppouk/)
 
-* [United Kingdom (English)](https://www.oppo.com/en/choose-site.html/)
+* [United Kingdom (English)](https://www.oppo.com/en/choose-site/)
 
-[United Kingdom (English)](https://www.oppo.com/en/choose-site.html/)
+[United Kingdom (English)](https://www.oppo.com/en/choose-site/)
 
 * [Privacy](https://www.oppo.com/uk/privacy/)
 * [Terms of Use](https://www.oppo.com/uk/terms/)
