@@ -7,13 +7,13 @@
 * [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
-* [Help](https://www.klarna.com/us/customer-service/)
+* [Customer service](https://www.klarna.com/us/customer-service/)
 
 * [Shopping categories](https://www.klarna.com/us/)
 * [Klarna Card](https://www.klarna.com/us/klarna-card/)
 * How Klarna works
     
-* [Help](https://www.klarna.com/us/customer-service/)
+* [Customer service](https://www.klarna.com/us/customer-service/)
 
 Shopping categories
 
