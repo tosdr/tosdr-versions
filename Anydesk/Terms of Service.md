@@ -464,7 +464,7 @@ For Services provided by AnyDesk Americas, Inc. these Supplementary Terms will b
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-978645.svg)](tel:+18332693375) 
 
 At AnyDesk, we want to provide the best experience and most innovative technology to all our users and customers. Our team will be operating on reduced holiday hours during this time.
 
