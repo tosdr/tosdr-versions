@@ -73,7 +73,7 @@ Your shopping cart is empty.
 
 [My Orders](#)
 
-[My Account](#) [Log out of](#)   Log in
+[My Account](#) [Log out of](#)   [Log in](#)
 
 * [![owayo](https://static.owayo-cdn.com/newhp/img/owayo-logo.svg)](https://www.owayo.com/)
 * more [Product Service](https://www.owayo.com/productservice-us.htm)
@@ -160,7 +160,7 @@ Your shopping cart is empty.
     
     [My Orders](#)
     
-    [My Account](#) [Log out of](#)   Log in
+    [My Account](#) [Log out of](#)   [Log in](#)
     
 * [Magazine](https://www.owayo.com/magazine-us.htm)
 
