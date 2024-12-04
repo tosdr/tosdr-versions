@@ -70,7 +70,7 @@ Terms not defined herein shall have the same definition as provided in the Terms
     
 10. In the case of conflict or ambiguity between any provision contained in the body of this agreement and any provision contained in T&C, the provision in the body of T&C shall take precedence.
     
-11. For any support issues, please submit a ticket at support@cdn77.com or contact our 24/7 support team via live chat at https://client.cdn77.com/support.
+11. For any support issues, please submit a ticket at [support@cdn77.com](mailto:support@cdn77.com) or contact our 24/7 support team via live chat.
     
 12. This SLA is effective from the date of signing and will remain in force for the duration of the service contract.
     
