@@ -1,6 +1,8 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1854)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1854)](https://www.ajc.com/)
+[Breaking: Majority of Supreme Court seems reluctant to block state bans on gender-affirming care for minors](https://www.ajc.com/news/nation-world/transgender-rights-case-lands-at-supreme-court-amid-debate-over-ban-on-medical-treatments-for-minors/POTTFC6IXJEQJOZ7SODPD4J554/)
+
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1859)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1859)](https://www.ajc.com/)
 
 Log In
 
@@ -18,12 +20,13 @@ Log In
 
 * [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-gwinnetts-heisman-favorite/DM6UTW3KTRCTXB4OG5RLBRMIBU/)
 * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
+* [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1854)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1859)
 
 * Quick Links
     
@@ -149,7 +152,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1854)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1859)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
