@@ -1,7 +1,3 @@
-[CREATE and FUCK your own AI GIRLFRIEND](https://a.candyai.love/9caef3eb-7deb-4b55-94b5-9ff9fbb0f169?creative=cmai_halloween&spot=top_bar_halloween&adg=0) [TRY FOR FREE](https://a.candyai.love/9caef3eb-7deb-4b55-94b5-9ff9fbb0f169?creative=cmai_halloween&spot=top_bar_halloween&adg=0)
-
-x
-
  [![F95zone](/assets/logo.png)](https://f95zone.to/)[![F95zone](/assets/favicon-32x32.png)](https://f95zone.to/)
 
 Menu
@@ -131,19 +127,19 @@ F95zone is an adult community where you can find tons of great adult games and c
 
 Threads
 
-218,542
+218,578
 
 Messages
 
-14,436,455
+14,438,641
 
 Members
 
-8,057,218
+8,058,238
 
 Latest member
 
-[monroexvii](https://f95zone.to/members/monroexvii.8323717/)
+[m.lon](https://f95zone.to/members/m-lon.8324769/)
 
 [](https://f95zone.to/)
 
@@ -160,7 +156,7 @@ This site provides links to other sites/services, and does not store any files
 * [](#top "Top")
 * [RSS](https://f95zone.to/forums/-/index.rss "RSS")
 
-Served by: \[BLND||US\]-\[S1|10.63/10.91/10.86\] \[1938e077b51\] (7623b15b)
+Served by: \[BLND||US\]-\[S2|7.84/7.25/7.32\] \[1938f58b9c3\] (07f24ba0)
 
 * [](https://twitter.com/f95zoneofficial "Twitter")
 
