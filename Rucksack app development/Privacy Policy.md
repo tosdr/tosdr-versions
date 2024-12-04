@@ -33,7 +33,7 @@ If you want to change your privacy settings (grant consent or revoke your previo
 Responsible
 -----------
 
-Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [ved.k1733282965caskc1733282965ur@tc1733282965atnoc1733282965](mailto:contact@rucksack.dev),
+Karl Ulrich Gissel, Heidi Kraken, Klintstraße 13, 27619 Schiffdorf, Deutschland, [ved.k1733347846caskc1733347846ur@tc1733347846atnoc1733347846](mailto:contact@rucksack.dev),
 
 Hosting
 -------
