@@ -84,6 +84,7 @@ Toggle navigation
     * [White papers, Ebooks, Webinars](https://resources.github.com/)
     * [Customer Stories](https://github.com/customer-stories)
     * [Partners](https://partner.github.com/)
+    * [Executive Insights](https://github.com/solutions/executive-insights)
     
 * Open Source
     
