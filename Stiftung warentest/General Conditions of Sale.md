@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
 
 Neueste Tests
 
+* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 * [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
-* [Vergleich Kredite: Sparen Sie richtig viel Zinsen mit dem besten Darlehen](https://www.test.de/Kredite-Die-besten-Darlehen-fuer-Sie-1131971-0/ "Vergleich Kredite - Sparen Sie richtig viel Zinsen mit dem besten Darlehen")
 
 test.de entdecken
 
-* [Dyna­mische Strom­tarife im Vergleich: Strom verbrauchen, wenn er günstig ist](https://www.test.de/Dynamische-Stromtarife-6071801-0/ "Dynamische Stromtarife im Vergleich - Strom verbrauchen, wenn er günstig ist")
-* [Kinder­kopf­hörer Technifant Hörchen BT: Nach unserem Test: Rück­ruf wegen Schad­stoffen](https://www.test.de/Kinderkopfhoerer-Technifant-Hoerchen-BT-Nach-unserem-Test-Rueckruf-wegen-Schadstoffen-6104607-0/ "Kinderkopfhörer Technifant Hörchen BT - Nach unserem Test: Rückruf wegen Schadstoffen")
-* [Verpackungs­ärger: Gutbio Fencheltee von Aldi Nord](https://www.test.de/Verpackungsaerger-Gutbio-Fencheltee-von-Aldi-Nord-6046018-0/ "Verpackungsärger - Gutbio Fencheltee von Aldi Nord")
-* [Docking­stationen im Test: Viele sind ein Gewinn fürs Home­office](https://www.test.de/USB-C-Dockingstationen-im-Test-5979272-0/ "Dockingstationen im Test - Viele sind ein Gewinn fürs Homeoffice")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Facebook Foto­einstel­lungen: Heimliche Fotoanalyse – so schalten Sie die Funk­tion ab](https://www.test.de/Facebook-Fotoeinstellungen-Heimliche-Fotoanalyse-so-schalten-Sie-die-Funktion-ab-6140854-0/ "Facebook Fotoeinstellungen - Heimliche Fotoanalyse – so schalten Sie die Funktion ab")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Online-Shopping: EU-Kommis­sion geht gegen Temu vor](https://www.test.de/Schnaeppchen-Plattform-Bei-Temu-ist-Vorsicht-angesagt-6098821-0/ "Online-Shopping - EU-Kommission geht gegen Temu vor")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
 
 Stiftung Warentest
 
