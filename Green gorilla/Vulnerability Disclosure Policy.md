@@ -10,7 +10,7 @@
 
 ![Traffic Roots Audience Pixel](https://service.trafficroots.com/audience/85b2d05e3b)
 
-30% OFF ON ORDERS OVER $100 WITH CODE: **CYBER**
+20% OFF ON ORDERS OVER $50 WITH CODE: JOLLY
 
 _Hemp CBD Access In California_  I  **[Learn More](https://www.cdph.ca.gov/Programs/OLS/Pages/DPH-24-005E-Emergency-Regulations-for-Industrial-Hemp.aspx)**
 
