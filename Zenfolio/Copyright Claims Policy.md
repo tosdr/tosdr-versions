@@ -162,7 +162,7 @@ Subscribe
 
 © 2024 Zenfolio, Inc. | [Terms of Service](https://zenfolio.com/termsofuse/) | [Privacy Policy](https://zenfolio.com/privacypolicy)
 
-[Cyber Monday Sale! **SAVE 70%** off annual plans.\* – View Plans](https://zenfolio.com/plans-pricing/)
+[Save Up To **50%** off annual plans.\* – View Plans](https://zenfolio.com/plans-pricing/)
 
 [Cyber Monday Sale! ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='414'%20viewBox='0%200%20400%20414'%3E%3C/svg%3E)
 
