@@ -1,7 +1,5 @@
                 [Skip to content](#MainContent)
 
-[BLACK FRIDAY DEALS \[CLICK HERE TO CHECK IT OUT\] BLACK FRIDAY DEALS \[CHECK IT OUT\]](https://rockykanaka.com/collections/bfcm)
-
 Free Shipping on Orders Over $79 (USA)
 
       
@@ -28,7 +26,6 @@ Free Shipping on Orders Over $79 (USA)
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
-* [Black Friday](https://rockykanaka.com/collections/bfcm)
 
 [Log in](https://rockykanaka.com/account/login)
 
@@ -54,7 +51,6 @@ Free Shipping on Orders Over $79 (USA)
     
 * [Gift Card](https://rockykanaka.com/products/gift-card)
 * [About](https://www.rockykanaka.com/about)
-* [Black Friday](https://rockykanaka.com/collections/bfcm)
 
  Search our site  
 
