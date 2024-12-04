@@ -208,9 +208,9 @@ Ziff Davis
 
 Attention: Legal Department
 
-114 Fifth Avenue, 15th Floor
+360 Park Avenue South 1, 7th Floor
 
-New York, NY 10011
+New York, NY 10010
 
 We have registered our DPO with the Irish Data Protection Commission. If you have any questions or concerns about our privacy practices, we encourage you to contact our DPO at the following email address [dpo@ziffdavis.com](mailto:dpo@ziffdavis.com) or at the following address:
 
