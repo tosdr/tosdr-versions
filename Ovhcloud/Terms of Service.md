@@ -215,8 +215,9 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
-            * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one central place
-            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
+            * Logs Data Platform Complete platform to collect, store and view your logs
+            * Key Management Service (KMS) Secure your data across all your OVHcloud services from one central place
+            * Service Logs Monitor your cloud environment’s performance and security
     * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
         * Back to menu
         * [Bare Metal Pod](https://www.ovhcloud.com/en-ie/solutions/uc-secnumcloud-environment/)
@@ -313,8 +314,9 @@ Log in to order, manage your products and services, and track your orders.
         * Identity, Security & Operations
             
             * Identity and Access Management (IAM) Secure your access management and enhance your productivity
+            * Logs Data Platform Complete platform to collect, store and view your logs
             * Key Management Service (KMS) Secure your data across all your OVHcloud services from one central place
-            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
+            * Service Logs Monitor your cloud environment’s performance and security
 * [Public Cloud](https://www.ovhcloud.com/en-ie/public-cloud/)
     * Back to menu
     * [Public Cloud](https://www.ovhcloud.com/en-ie/public-cloud/)
@@ -407,7 +409,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Kafka Connect](https://www.ovhcloud.com/en-ie/public-cloud/kafka-connect/) Extension simplifying the ingestion of your sources to Apache Kafka
             * [Kafka MirrorMaker](https://www.ovhcloud.com/en-ie/public-cloud/kafka-mirrormaker/) Replication ensuring high availability for your Kafka clusters
             * [Data Processing](https://www.ovhcloud.com/en-ie/public-cloud/data-processing/) Spark-as-a-Service for your massive data processing
-            * [Logs Data Platform](https://www.ovhcloud.com/en-ie/public-cloud/logs-data-platform/) Complete platform to collect, store and view your logs
+            * [Logs Data Platform](https://www.ovhcloud.com/en-ie/identity-security-operations/logs-data-platform/) Complete platform to collect, store and view your logs
             * [Managed OpenSearch](https://www.ovhcloud.com/en-ie/public-cloud/opensearch/) A dedicated engine for indexing, searching and analyzing data
             * [Managed Dashboards](https://www.ovhcloud.com/en-ie/public-cloud/grafana/) Grafana® platform for creating dashboards
             * Our documentation View our documentation for the Data Analytics range
@@ -444,14 +446,15 @@ Log in to order, manage your products and services, and track your orders.
             
             * Quantum Notebooks Launch your Jupyter or VS Code notebooks in the cloud, and choose from our native AI or quantum frameworks
             * [What is Quantum computing?](https://www.ovhcloud.com/en-ie/learn/what-is-quantum-computing/) Learn more about the next accelerated computing revolution and how to develop today’s solutions with tomorrow’s quantum computers
-    * [Identity, Security & Operations](https://www.ovhcloud.com/en-ie/identity-security/)
+    * [Identity, Security & Operations](https://www.ovhcloud.com/en-ie/identity-security-operations/)
         * Back to menu
-        * [Identity, Security & Operations](https://www.ovhcloud.com/en-ie/identity-security/)
+        * [Identity, Security & Operations](https://www.ovhcloud.com/en-ie/identity-security-operations/)
             
         * Identity, Security & Operations Discover all our Identity, Security & Operations products
             
-            * Identity and Access Management (IAM) Secure your access management and improve your productivity
-            * [OVHcloud Logs Services](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor the performance and security of your cloud environment
+            * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and improve your productivity
+            * [Logs Data Platform](https://www.ovhcloud.com/en-ie/identity-security-operations/logs-data-platform/) Complete platform to collect, store and view your logs
+            * [Services Logs](https://www.ovhcloud.com/en-ie/identity-security-operations/service-logs/) Monitor the performance and security of your cloud environment
             * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one place
 * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
     * Back to menu
@@ -545,9 +548,10 @@ Log in to order, manage your products and services, and track your orders.
             
         * Identity, Security & Operations
             
-            * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and enhance your productivity
+            * Identity and Access Management (IAM) Secure your access management and enhance your productivity
+            * Logs Data Platform Complete platform to collect, store and view your logs
             * Key Management Service (KMS) Secure your data across all your OVHcloud services from one central place
-            * [Service Logs](https://www.ovhcloud.com/en-ie/public-cloud/service-logs/) Monitor your cloud environment’s performance and security
+            * Service Logs Monitor your cloud environment’s performance and security
 * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
     * Back to menu
     * [Solutions](https://www.ovhcloud.com/en-ie/solutions/)
