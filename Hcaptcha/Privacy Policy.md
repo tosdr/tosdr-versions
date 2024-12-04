@@ -1,26 +1,26 @@
-[![hCaptcha logo (horizontal)](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfWpwai76VxvsuU_VFtgEAGqDQzI2D3Vwx3h8FW1Q7HDL0-R893kWgvA6YpL1q2Dryw6ZZdREuixR8C6HZe0eiId7YAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/)
+[![hCaptcha logo (horizontal)](fonts/64da82f6bf67de1b127890b5_hcaptcha-logo-landscape.svg)](https://www.hcaptcha.com/index.html)
 
-![close menu](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU8A7y76Ui75uWqAE52kNQrD0_I2SkVwd4icJHmw_FTr98EpQqhScxCbL-4qVhokQF_scYXtSu5KtMAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](/hosted-assets/3u1Osx9BvMjaX2uJm6BAW5Eu6dkGJFSqim7ePVKm0MlFWo8B7G0Q_2RwJY69B6W0Y10d746gjhOrv-iPORfU81ig7fFx6s2VrQdp0RAB_Wo7cGD3VwlxiMQMxRDBmu5W0NERWIyu0ZtXybH8lgAAAAAAAAAAAAAAAA/64da82f6bf67de1b12789030/64f5f0dbb2064353a5bf1cb5_menu.svg)
+![close menu](images/64f60bf617f515e82d3150ff_close-icon-24px.png)![menu button](fonts/64f5f0dbb2064353a5bf1cb5_menu.svg)
 
-[Plans](https://www.hcaptcha.com/pricing)[Pro](https://www.hcaptcha.com/pro)[Enterprise](#)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
+[Plans](https://www.hcaptcha.com/pricing.html)[Pro](https://www.hcaptcha.com/pro.html)[Enterprise](#)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog.html)
 
-[Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
+[Sign Up](https://www.hcaptcha.com/pricing.html)[Log In](https://dashboard.hcaptcha.com/login)
 
 From the blog:
 
 [Our Position on AI Regulation →](https://www.hcaptcha.com/post/our-position-on-ai-regulation)
 
-[Switch to English](#)[Accessibility](https://www.hcaptcha.com/accessibility)
+[Switch to English](#)[Accessibility](https://www.hcaptcha.com/accessibility.html)
 
-[](https://www.hcaptcha.com/)
+[](https://www.hcaptcha.com/index.html)
 
-[Plans](https://www.hcaptcha.com/plans)[Pro](https://www.hcaptcha.com/pro)[Enterprise](https://www.hcaptcha.com/#enterprise-features)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog)
+[Plans](https://www.hcaptcha.com/plans.html)[Pro](https://www.hcaptcha.com/pro.html)[Enterprise](https://www.hcaptcha.com/index.html#enterprise-features)[Docs](https://docs.hcaptcha.com/)[Blog](https://www.hcaptcha.com/blog.html)
 
-[Contact Sales](https://www.hcaptcha.com/start-a-pilot)
+[Contact Sales](https://www.hcaptcha.com/start-a-pilot.html)
 
-[Sign Up](https://www.hcaptcha.com/pricing)[Log In](https://dashboard.hcaptcha.com/login)
+[Sign Up](https://www.hcaptcha.com/pricing.html)[Log In](https://dashboard.hcaptcha.com/login)
 
-[DE](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://cdn.prod.website-files.com/64da82f6bf67de1b12789030/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
+[DE](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789215_IMI-Terms-04.13.2021%20DE.docx) - [ES](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789212_IMI-Terms-04.13.2021%20ES.docx) - [FR](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789221_IMI-Terms-04.13.2021%20FR.docx) - [PT](https://www.hcaptcha.com/doc/64da82f6bf67de1b12789216_IMI-Privacy-04.13.2021%20pt.docx) - [PT (BR)](https://www.hcaptcha.com/doc/64da82f6bf67de1b1278921d_IMI-Privacy-04.13.2021%20pt-br.docx)
 
 Privacy Policy
 ==============
@@ -76,7 +76,7 @@ Service support ticketing information (contact detail for individuals initiating
 IM may use Personal Data for providing, managing, supporting, deploying, enhancing, or improving our services, as otherwise instructed by the IM customer or other data controller who transmitted, received, or stored the data, or in accordance with contractual requirements. IM may also use Personal Data for other purposes for which the customer or other data controller has obtained the relevant Covered Individual’s consent.
 
 **Inquiries and complaints:**  
-If you are a Covered Individual and believe that IM maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing support@imachines.com or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
+If you are a Covered Individual and believe that IM maintains your Personal Data within the scope of our EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, or Swiss-U.S. DPF certifications, you may submit any privacy or data use concerns concerning such data by emailing [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
 
 IM will respond within 45 days of receiving the communication. In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Intuition Machines, Inc. ("IM") commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF to JAMS, an alternative dispute resolution provider based in the United States. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at:
 
@@ -90,7 +90,7 @@ https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction
 IM may disclose Personal Data to its affiliates, as well as to a limited number of third-party business partners, service providers, vendors, suppliers and other contractors (collectively, "Service Providers") for the purpose of assisting us in providing, managing, deploying, enhancing, or improving our services. IM maintains contracts with these IM affiliates and Service Providers restricting their access, use and disclosure of Personal Data in compliance with our Data Privacy Framework obligations, and IM may be liable if such parties fail to meet those obligations and we are responsible for the event giving rise to the damage. We also may share or disclose Personal Data to the extent that the customer or other data controller has obtained the relevant Covered Individual's consent.
 
 **Your rights to access, to limit use, and to limit disclosure:**  
-Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, 8x8 has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to privacy@imachines.com or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
+Covered Individuals have rights to access their stored Personal Data and to limit its use and disclosure. With our Data Privacy Framework certification, 8x8 has committed to respect those rights. If you are an Covered Individual and you wish to request access to or to limit use or disclosure of your Personal Data, please contact us by email to [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or by mail to: Intuition Machines, Inc. 1065 SW 8th St #704, Miami FL 33130, USA Attention: Privacy
 
   
 **U.S. Federal Trade Commission enforcement:**  
@@ -168,7 +168,7 @@ How We Secure Information
 
 We implement appropriate technical and organizational measures to protect the information we collect and store, and require all agents who carry out our processing on our behalf to do the same. Unfortunately, no security measures are 100% foolproof, and as such no network or system (including ours) can be guaranteed to be 100% secure against destruction, loss, alteration, unauthorized disclosure of, or access to information we collect and store. If you believe your information may not be secure for any reason, please contact us immediately at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
 Warranty Disclaimers
 --------------------
@@ -192,7 +192,7 @@ In accordance with applicable law, you may have the right to:
 
    • Appeal our Decision to decline to process your request.
 
-Please note that listing these rights above does not mean that we necessarily undertake any activity in which they would be relevant or applicable. If you would like to exercise any of these rights, please contact us at: support@hcaptcha.com. We will process such requests in accordance with applicable laws.
+Please note that listing these rights above does not mean that we necessarily undertake any activity in which they would be relevant or applicable. If you would like to exercise any of these rights, please contact us at: [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection). We will process such requests in accordance with applicable laws.
 
 If applicable laws grant you an appeal right and you would like to appeal our decision with respect to your request, you may do so by informing us of this and providing us with information supporting your appeal.
 
@@ -207,7 +207,7 @@ Information from Children
 
 Our Sites and Service are not directed to children under the age of 13 and we do not knowingly collect Personal Information from children under the age of 13. If we learn that we have collected Personal Information of a child under the age 13, we will take reasonable steps to delete such information from our files as soon as is practicable, unless we have a legal obligation to retain it. Please contact us if you believe we have any information from or about a child under the age of 13:
 
-[support@hcaptcha.com](mailto:support@hcaptcha.com)
+[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
 Notice to California Residents
 ------------------------------
@@ -261,7 +261,7 @@ Disclosure Regarding Sensitive Personal Information. IMI only uses and discloses
 
 Non-Discrimination. California residents have the right not to receive discriminatory treatment by us for the exercise of their rights conferred by the CCPA.  
 
-Authorized Agent.Only you, or someone legally authorized to act on your behalf,may make a verifiable consumer request related to your PersonalInformation. You may also make a verifiable consumer request onbehalf of your minor child. To authorize an agent, provide writtenaurization signed by you and your designated agent and contact usat [support@hcaptcha.com](mailto:support@hcaptcha.com) for additional instructions.  
+Authorized Agent.Only you, or someone legally authorized to act on your behalf,may make a verifiable consumer request related to your PersonalInformation. You may also make a verifiable consumer request onbehalf of your minor child. To authorize an agent, provide writtenaurization signed by you and your designated agent and contact usat [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)for additional instructions.  
 
 Verification. To protect your privacy, we will take steps to reasonably verify your identity before fulfilling your request submitted under the CCPA.These steps may involve asking you to provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information or an authorized representative. Examples of our verification process may include asking you to provide the email address or phone number we have associated with you, opening a link sent to the contact information provided, and following the instructions on the website you are taken to.
 
@@ -280,7 +280,7 @@ Some of the information you provide us may constitute sensitive data as defined 
 
 Legal Bases for Processing
 
-We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described below. If you have questions about the legal bases under which we process your personal information, contact us at support@hcaptcha.com.
+We only use your personal information as permitted by law. We are required to inform you of the legal bases of our processing of your personal information, which are described below. If you have questions about the legal bases under which we process your personal information, contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
 
 Processing Purposes
 
@@ -308,7 +308,7 @@ With your consent
 
 Legal Basis
 
-Where our use of your personal information is based upon your consent, you have the right to withdraw it at any time in the manner indicated in the Service or by contacting us at support@hcaptcha.com.
+Where our use of your personal information is based upon your consent, you have the right to withdraw it at any time in the manner indicated in the Service or by contacting us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection).
 
 Your Rights
 
@@ -344,7 +344,7 @@ Object to our reliance on our legitimate interests as the basis of our processin
 
 Data Subject Access Rights Requests
 
-We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at support@hcaptcha.com or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator at [this](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) location.
+We may request specific information from you to help us confirm your identity and process your request. Applicable law may require or permit us to decline your request. If we decline your request, we will tell you why, subject to legal restrictions. If you would like to submit a complaint about our use of your personal information or response to your requests regarding your personal information, you may contact us at [\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection) or submit a complaint to the data protection regulator in your jurisdiction. You can find your data protection regulator at [this](https://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) location.
 
 Cross-Border Data Transfer
 
@@ -369,7 +369,7 @@ Information collected via technical means such as cookies, webpage counters and 
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
 Changes to this Privacy Policy
 ------------------------------
@@ -378,7 +378,7 @@ Any information that we collect is subject to the Privacy Policy in effect at th
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
 Cookie Policy
 -------------
@@ -399,7 +399,7 @@ GDPR Note: we believe the hCaptcha anti-bot service (i.e. the Service embedded b
 
 This is not legal advice, and no warranties are provided regarding this analysis. If you have additional questions or concerns, please contact us at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com?subject=Cookie%20Policy)‍
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)‍
 
 The hCaptcha.com and BotStop.com websites (the Sites) may include additional cookies, as described in this Policy.
 
@@ -499,7 +499,7 @@ Function
 
 3\. Used for strictly necessary technical purposes: enables Accessibility User use.
 
-‍[See more details.](https://www.hcaptcha.com/accessibility)‍
+‍[See more details.](https://www.hcaptcha.com/accessibility.html)‍
 
 Party
 
@@ -515,7 +515,7 @@ Duration
 
 If you have any questions about this Cookie Policy, please contact us at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
 Impressum (Site Notice)
 -----------------------
@@ -526,7 +526,7 @@ hCaptcha is a service of Intuition Machines, Inc. ("IMI"), a Delaware US Corpora
 
 Mailed inquiries may be sent to: Intuition Machines, Inc., 350 Alabama St, San Francisco, CA 94110.
 
-Note while local COVID-19 orders remain in effect there are no guarantees that mail will be received in a timely manner, and email (support@hcaptcha.com) is the correct channel to reach us. The company does not maintain telephone or fax numbers; this is the 21st century.
+Note while local COVID-19 orders remain in effect there are no guarantees that mail will be received in a timely manner, and email ([\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)) is the correct channel to reach us. The company does not maintain telephone or fax numbers; this is the 21st century.
 
 Information about the current management of the company may be obtained on the About page. The company's current CEO is the managing director responsible for content.
 
@@ -561,9 +561,9 @@ IMI is responsible for this website.
 
 If you have any questions, please contact us at:
 
-‍[support@hcaptcha.com](mailto:support@hcaptcha.com)
+‍[\[email protected\]](https://www.hcaptcha.com/cdn-cgi/l/email-protection)
 
-[](https://www.hcaptcha.com/labeling)
+[](https://www.hcaptcha.com/labeling.html)
 
 [](https://twitter.com/hcaptcha)
 
@@ -573,17 +573,17 @@ If you have any questions, please contact us at:
 
 ##### Company
 
-[About](https://www.hcaptcha.com/about)[Jobs](https://apply.workable.com/imachines/)[Trademarks](https://www.hcaptcha.com/trademarks)[AI Ethics](https://www.hcaptcha.com/ai-ethics)[Press](https://www.hcaptcha.com/press-inquiries)[Compliance](https://www.hcaptcha.com/certifications)
+[About](https://www.hcaptcha.com/about.html)[Jobs](https://apply.workable.com/imachines/)[Trademarks](https://www.hcaptcha.com/trademarks.html)[AI Ethics](https://www.hcaptcha.com/ai-ethics.html)[Press](https://www.hcaptcha.com/press-inquiries.html)[Compliance](https://www.hcaptcha.com/certifications.html)
 
 ##### Resources
 
-[Status](https://www.hcaptchastatus.com/)[Documentation](https://docs.hcaptcha.com/)[Report a Bug](https://www.hcaptcha.com/reporting-bugs)[Accessibility](https://www.hcaptcha.com/accessibility)[Cyberattacks 101](https://www.hcaptcha.com/hcaptcha-resources-bots-101)[GDPR](https://www.hcaptcha.com/gdpr)
+[Status](https://www.hcaptchastatus.com/)[Documentation](https://docs.hcaptcha.com/)[Report a Bug](https://www.hcaptcha.com/reporting-bugs.html)[Accessibility](https://www.hcaptcha.com/accessibility.html)[Cyberattacks 101](https://www.hcaptcha.com/hcaptcha-resources-bots-101.html)[GDPR](https://www.hcaptcha.com/gdpr.html)
 
 ##### Contact
 
-[Support](https://www.hcaptcha.com/support-interstitial)[Contact Support](https://www.hcaptcha.com/contact-us)[Sales](#)[Contact Sales](https://www.hcaptcha.com/contact-us#contact-sales)
+[Support](https://www.hcaptcha.com/support-interstitial.html)[Contact Support](https://www.hcaptcha.com/contact-us.html)[Sales](#)[Contact Sales](https://www.hcaptcha.com/contact-us.html#contact-sales)
 
-[Terms](https://www.hcaptcha.com/terms)[Privacy](https://www.hcaptcha.com/privacy)[DMCA](https://www.hcaptcha.com/dmca)[Attribution](https://www.hcaptcha.com/attribution)
+[Terms](https://www.hcaptcha.com/terms.html)[Privacy](https://www.hcaptcha.com/privacy.html)[DMCA](https://www.hcaptcha.com/dmca.html)[Attribution](https://www.hcaptcha.com/attribution.html)
 
 hCaptcha is a registered trademark of Intuition Machines, Inc.
 
