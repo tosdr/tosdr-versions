@@ -4,15 +4,28 @@
 
 * [SCORES](https://www.goal.com/en/live-scores)
 * LATEST
-    * Latest
+    * Football News
         * [News](https://www.goal.com/en/news)
         * [Transfers](https://www.goal.com/en/category/transfers/1/k94w8e1yy9ch14mllpf4srnks)
-    * Features
         * [Opinion](https://www.goal.com/en/category/opinion/1/bltda2eefda7fac61db)
         * [Analysis](https://www.goal.com/en/category/analysis/1/blt0e4843c7e245b533)
         * [Player Ratings](https://www.goal.com/en/category/player-ratings/1/blt9e3963966f918671)
         * [Winners & Losers](https://www.goal.com/en/category/winners-and-losers/1/blt05e54ed95ba7b0f8)
         * [Power Rankings](https://www.goal.com/en/category/power-rankings/1/blt262ce0e5159ea8fe)
+    * Entertainment
+        * [Culture](https://www.goal.com/en/category/culture/1/edzsmxzmp4y81pp4ozi9lrdeh)
+        * [Kits](https://www.goal.com/en/category/kits/1/bltcdcab888b4154243)
+        * [Boots](https://www.goal.com/en/category/boots/1/blt6917022f6674df56)
+        * [Tickets](https://www.goal.com/en/category/tickets/1/blt8d32543e1d67fa51)
+        * [Buyers' guides](https://www.goal.com/en/category/shopping/1/jay1lq18ea7j1bks90cjvzor9)
+        * [Gaming](https://www.goal.com/en/category/Gaming/1/1sv3aw5srmki010flis5dpyze1)
+        * [Quizzes](https://www.goal.com/en/category/quiz/1/blt91d479fb56463f72)
+    * Social
+        * [Facebook](https://www.facebook.com/GOAL/)
+        * [X](https://twitter.com/goal)
+        * [Instagram](https://www.instagram.com/goalglobal/)
+        * [TikTok](https://www.tiktok.com/@goalglobal)
+        * [YouTube](https://www.youtube.com/user/GOAL)
 * COMPETITIONS
     * Leagues
         * [Premier League](https://www.goal.com/en/premier-league/2kwbbcootiqqgmrzs6o5inle5)
@@ -61,26 +74,7 @@
         * [Kylian Mbappe](https://www.goal.com/en/player/k-mbappe%CC%81/5e9ilgrz3tzg9kd1gk3yvrahh)
         * [Erling Haaland](https://www.goal.com/en/player/e-haaland/atzboo800gv7gic2rgvgo0kq1)
         * [Neymar](https://www.goal.com/en/player/neymar/779rrkp47akkd5usq53begatx)
-* LIFESTYLE
-    * Entertainment
-        * [Culture](https://www.goal.com/en/category/culture/1/edzsmxzmp4y81pp4ozi9lrdeh)
-        * [Kits](https://www.goal.com/en/category/kits/1/bltcdcab888b4154243)
-        * [Boots](https://www.goal.com/en/category/boots/1/blt6917022f6674df56)
-        * [Tickets](https://www.goal.com/en/category/tickets/1/blt8d32543e1d67fa51)
-        * [Buyers' guides](https://www.goal.com/en/category/shopping/1/jay1lq18ea7j1bks90cjvzor9)
-        * [Gaming](https://www.goal.com/en/category/Gaming/1/1sv3aw5srmki010flis5dpyze1)
-        * [Quizzes](https://www.goal.com/en/category/quiz/1/blt91d479fb56463f72)
-    * Footballco network
-        * [MUNDIAL](https://www.goal.com/mundial/)
-        * [NXGN](https://www.instagram.com/nxgn_football/)
-        * [INDIVISA](https://www.indivisa.com/)
-        * [Front Three](https://www.youtube.com/@FrontThree)
-    * Social
-        * [Facebook](https://www.facebook.com/GOAL/)
-        * [X](https://twitter.com/goal)
-        * [Instagram](https://www.instagram.com/goalglobal/)
-        * [TikTok](https://www.tiktok.com/@goalglobal)
-        * [YouTube](https://www.youtube.com/user/GOAL)
+* [INDIVISA](https://www.goal.com/en/indivisa)
 * [MUNDIAL](https://www.goal.com/mundial/)
 * [GOALSTUDIO](https://en.goalstudio.com/)
 
