@@ -1,3 +1,5 @@
+string(7) "Not Set" string(7) "Not Set" CleanBrowsing Privacy Agreement                             string(7) "Not Set" string(7) "Not Set"
+
 [![](/custom/images/cleanbrowsing-logo.png)](https://cleanbrowsing.org/)
 
 * [Schools](https://cleanbrowsing.org/solutions/schools/)
@@ -99,6 +101,9 @@ This information may include but is not limited to IP addresses, and other infor
 
 CleanBrowsing also stores server and network activity data, and observations and analyses derived from traffic data collected by CleanBrowsing in the course of providing the Services (together, “Operational Metrics”). Examples of Operational Metrics include service uptime and service availability metrics, request volumes, error rates, cache rates, and IP threat scores.
 
+**Note to EU Residents:**  
+For individuals within the European Economic Area (EEA), the United Kingdom, and Switzerland, CleanBrowsing ensures that all information collection aligns with GDPR principles, including lawful processing, data minimization, and purpose limitation.
+
 3\. How We Use Information We Collect
 
 CleanBrowsing only processes personal information in a way that is compatible with and relevant to the purpose for which it was collected or authorized. As a general matter, for all categories of data described in Section 2 above, **with exception to Public Resolver User data**, we may use the information (including personal information, to the extent applicable) to:
@@ -117,6 +122,12 @@ CleanBrowsing only processes personal information in a way that is compatible wi
 
 **Information from Third Party Services.** We may combine information we collect as described above with personal information we obtain from third parties. For example, we may combine information entered on a CleanBrowsing sales submission form with information we receive from a third-party sales intelligence platform vendor to enhance our ability to market our Services to Customers or potential Customers.
 
+**Legal Basis for Processing Under GDPR.** CleanBrowsing relies on the following legal bases for processing personal data:
+
+1. **Consent:** For marketing communications or cookies, when applicable.
+2. **Contractual necessity:** To deliver services requested by users.
+3. **Legitimate interest:** For improving and securing our services.
+
 4\. Notice to EU Residents
 
 CleanBrowsing is a data controller for the Personal Data collected from all categories of data subjects listed above except for the Personal Data of End Users. CleanBrowsing processes the Personal Data of End Users on behalf of its Customers.
@@ -125,7 +136,14 @@ If you are an individual from the European Economic Area (the “EEA”), the Un
 
 In some cases, we may also have a legal obligation to collect personal information from you, or may otherwise need the personal information to protect your vital interests or those of another person. Where we rely on your consent to process your personal data, you have the right to withdraw or decline consent at any time. Where we rely on our legitimate interests to process your personal data, you have the right to object.
 
-If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at **privacyquestions@cleanbrowsing.org**.
+EU residents have the following rights under GDPR:
+
+1. Right to access, correct, and delete personal data.
+2. Right to restrict or object to processing.
+3. Right to data portability.
+4. Right to withdraw consent.
+
+If you have any questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at **privacyquestions@cleanbrowsing.org**. CleanBrowsing responds to requests within 30 days, subject to verification of identity and compliance with applicable laws.
 
 5\. Information Sharing
 
@@ -167,19 +185,32 @@ CleanBrowsing will send you commercial communications based on the communication
 
 We take all reasonable steps to protect information we receive from you from loss, misuse or unauthorized access, disclosure, alteration and/or destruction. We have put in place appropriate physical, technical and administrative measures to safeguard and secure your information, and we make use of privacy-enhancing technologies such as encryption. If you have any questions about the security of your personal information, you can contact us at privacyquestions@cleanbrowsing.org.
 
-10\. Notification of Changes
+10\. Data Breach Notification
+
+In the event of a personal data breach affecting EU residents, CleanBrowsing will notify the relevant supervisory authority within 72 hours, as required under GDPR. Affected individuals will also be informed without undue delay if the breach poses a high risk.
+
+11\. Data Retention
+
+CleanBrowsing retains personal data only as long as necessary for the purposes outlined in this Policy:
+
+1. **Attendees:** 1 year after the event.
+2. **Website Visitors:** 6 months after the last interaction.
+3. **Customers:** Duration of the contract plus 7 years.
+4. **Public Resolver Users:** No data retention.
+
+12\. Notification of Changes
 
 If we make changes to this Policy that we believe materially impact the privacy of your personal data, we will promptly provide notice of any such changes (and, where necessary, obtain consent), as well as post the updated Policy on this website noting the effective date of any changes.
 
-11\. Business Transactions
+13\. Business Transactions
 
 We may assign or transfer this Policy, as well as information covered by this Policy, in the event of a merger, sale, change in control, or reorganization of all or part of our business.
 
-12\. English Language Controls
+14\. English Language Controls
 
 Non-English translations of this Policy are not provided right now. The English version is authoritative and controls.
 
-13\. Dispute Resolution
+15\. Dispute Resolution
 
 CleanBrowsing, Inc.
 
@@ -264,3 +295,13 @@ privacyquestions@cleanbrowsing.org
 © 2024 CleanBrowsing | DNS Filtering Service | [Privacy](https://cleanbrowsing.org/privacy) | [Terms & Conditions](https://cleanbrowsing.org/terms)
 
 [Chat with us](https://www.livechat.com/chat-with/11097037/), powered by [LiveChat](https://www.livechat.com/?welcome)
+
+We use anonymized analytics tools (Google Analytics and Plausible) to improve your experience and understand site usage. All data is anonymized. Learn more in our [Privacy Policy](https://cleanbrowsing.org/privacy-policy).
+
+Accept All Manage Preferences
+
+### Manage Preferences
+
+ Enable Google Analytics  
+ Enable Plausible Analytics  
+Save Preferences
