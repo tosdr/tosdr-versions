@@ -37,10 +37,9 @@
         Try Bitdefender
         
         * [Scamio - Scam Detector](https://www.bitdefender.com/en-us/consumer/scamio) _AI Powered_
-        * [Antivirus Free](https://www.bitdefender.com/en-us/consumer/free)
+        * [Antivirus Free](https://www.bitdefender.com/en-us/consumer/free-antivirus)
         * [Antivirus Free for Android](https://www.bitdefender.com/en-us/consumer/antivirus-free-for-android)
         * [Trial Downloads](https://www.bitdefender.com/en-us/Downloads/)
-        * [Free Tools](https://www.bitdefender.com/en-us/toolbox/)
         
         View All
         
