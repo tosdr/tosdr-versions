@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
-2. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
-3. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
-4. [Learn Something New: 100 Most Popular Courses For December](https://www.classcentral.com/report/most-popular-december-2024/)
-5. [Black Friday 2024: 50+ Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+1. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
+2. [\[2024\] 140 IELTS Exam Preparation Resources](https://www.classcentral.com/report/ielts-preparation/)
+3. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
+4. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
+5. [7 Best Biology Courses for 2024](https://www.classcentral.com/report/best-biology-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. computer science
+1. hacking
     
-2. project management
+2. finance
     
-3. trading
+3. cyber security
     
 
 Popular subjects
 
-1. [Web Development
+1. [Digital Marketing
     
-    13,841 courses](https://www.classcentral.com/subject/web-development)
-2. [Information Technology
+    6,311 courses](https://www.classcentral.com/subject/digital-marketing)
+2. [Ethical Hacking
     
-    5,069 courses](https://www.classcentral.com/subject/information-technology)
-3. [Digital Marketing
+    2,243 courses](https://www.classcentral.com/subject/ethical-hacking)
+3. [Graphic Design
     
-    6,294 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,386 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 
-1. [Six Sigma Part 1: Define and Measure
+1. [The Art of Structural Engineering: Vaults
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/six-sigma-technische-universitat-munchen-six-sigm-8450)
-2. [Know Thyself - The Value and Limits of Self-Knowledge: The Examined Life
+    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
+2. [Dino 101: Dinosaur Paleobiology
     
-    University of Edinburgh](https://www.classcentral.com/course/know-thyself-the-examined-life-432)
-3. [Moralities of Everyday Life
+    University of Alberta](https://www.classcentral.com/course/dino101-1057)
+3. [The Science of the Solar System
     
-    Yale University](https://www.classcentral.com/course/moralities-911)
+    California Institute of Technology](https://www.classcentral.com/course/solarsystem-1813)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
