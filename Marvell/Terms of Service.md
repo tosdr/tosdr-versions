@@ -293,7 +293,7 @@ Please see our [Privacy Policy](https://www.marvell.com/privacy-statement.html),
 * [Industry Associations](https://www.marvell.com/company/industry_associations.html)
 * [Trade Compliance](https://www.marvell.com/company/trade-compliance.html)
 * [Trademarks](https://www.marvell.com/company/trademarks.html)
-* [Code of Conduct](https://www.marvell.com/content/dam/marvell/en/company/esg/marvell-code-of-business-conduct-and-ethics.pdf)
+* [Code of Conduct](https://www.marvell.com/code-of-business-conduct-and-ethics.html)
 
 ##### Support
 
