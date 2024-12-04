@@ -84,11 +84,16 @@ Umeå University processes personal data in accordance with Regulation 2016/679 
 
 Umeå University processes personal data in the pursuit of our mandate as a public authority and university. Our mandate is to provide high-class research and education, to collaborate with society and inform of our activities. We do this to follow the applicable legislation, for statistical purposes and to overview and to develop our organisation.
 
-Umeå University uses social media such as Facebook and Twitter. On these accounts, Umeå University is primarily responsible for potential personal data that we publish ourselves. For personal data that others post or publish, we can only be held responsible in the event that we can affect the content. We strive to remove inappropriate content.
+Umeå University uses social media such as Facebook and Instagram. On these accounts, Umeå University is primarily responsible for potential personal data that we publish ourselves. We use social media to disseminate information, opinons, or ideas to the public For personal data that others post or publish, we can only be held responsible in the event that we can affect the content. We strive to remove inappropriate content.
 
 When using IT resources from Umeå University, traces of your activities may be stored for use in the university's IT safety procedures.
 
-All personal data processing at Umeå University takes place in order to somewhat promote these causes. The processing must have legal foundation. Only the personal data required for the purpose may be processed.
+All personal data processing at Umeå University takes place in order to somewhat promote these causes. The processing must have lawful ground. Only the personal data required for the purpose may be processed. The lawful grounds the university relies on are:
+
+* **Public interest**: for example, in the processing of personal data in education, research, and to otherwise fulfil the university’s mission according to the Higher Education Act to collaborate with the surrounding society.
+* **Contract**: for example, in the processing of employees’ personal data.
+* **Legal obligation**: for example, in the processing of personal data to examine students.
+* **Consent**: for example, in student projects where students process personal data.
 
 More detailed information on how your personal data are processed can be obtained through your contact, course coordinator, manager or head of research at Umeå University. If you are not satisfied with the answer they can provide, you can contact Umeå University's data protection officer, see contact details at the bottom of the page.
 
@@ -105,12 +110,13 @@ What information is being processed depends on the reason for processing the per
 * Personal data collected in the context of participation in a research study.
 * Information about credits awarded and other information about your studies at Umeå University.
 * Information about how you use our websites, for the purpose of making them more user-friendly, for example via cookies.
+* Image information that we use to enhance security and safety (UMU card).
 * Information about participation in conferences or courses.
 * Personal data needed for employment purposes or if you apply for a position with us.
 
 ### How are your personal data protected?
 
-Umeå University is responsible for ensuring that the processing of personal data is protected by appropriate technical and organisational measures. These measures must be adequate to ensure a security level that is appropriate in relation to the risk that the processing involves. The security aspects include an assessment of confidentiality, accuracy and accessibility, and an adequate technical level of protection. For example, access to data can be restricted to authorised persons, the data can be encrypted, they can be stored in specially protected IT environments and copies of the processing can be made.
+Umeå University is responsible for ensuring that the processing of personal data is protected by appropriate technical and organisational measures. These measures must be adequate to ensure a security level that is appropriate in relation to the risk that the processing involves. The security aspects include an assessment of confidentiality, accuracy and accessibility, and an adequate technical level of protection. For example, access to data can be restricted to authorised persons, the data can be encrypted, they can be stored in specially protected IT environments and copies can be made.
 
 ### Who may access your personal data?
 
@@ -130,14 +136,14 @@ We only save your personal data as long as the purpose of the processing require
 
 * If you are an employee, for example, we process your personal data as long as is necessary to administer the employment relationship.
 * If you are a student, we process your personal data as long as you are a student at Umeå University.
-* When you no longer study at Umeå University, we process your personal data in the way necessary to fulfil the law, and in any potential publications that you have approved.
+* When you no longer study at Umeå University, we process your personal data in the way necessary to fulfil the law, and in any potential publications that you have approved or that are conducted according to the University’s legal framework.
 * If you are a participant in a study, we process your personal data as long as is necessary to ensure the quality of the research.
 
 With regard to official documents, personal data in them are processed in accordance with the provisions of the Freedom of the Press Act (1949:105), the Archives Act (1990:782) and National Archives regulations. In many cases, this means that your personal data may be preserved between five years and forever in the Umeå University archive systems.
 
 ### Transfer of personal data to third countries
 
-Umeå University sometimes share personal data with countries outside the EU/EEA, mainly in connection with international research projects, student exchanges and in other situations when transferring data is necessary. In these cases, you will be informed about the transferral of your personal data to a third country when you submit your data to us.
+Umeå University sometimes share personal data with countries outside the EU/EEA, mainly in connection with international research projects, student exchanges and in other situations when transferring data is necessary.
 
 Your personal data are primarily processed within the EU/EEA and all our IT systems are located within the EU/EEA. In the event of system support and maintenance, we may have to transfer information to a country outside of the EU/EEA, for instance if we share your personal data with data processors who, by themselves or through subcontractors, have been established or store information in a country outside of the EU/EEA. The data processor may in these cases only access information that is relevant to the task.
 
@@ -162,16 +168,11 @@ You have the right to have your personal data erased from Umeå University's sys
 
 There could be regulations stipulating that Umeå University does not erase your personal data, for instance the provision about official documents or of documentation of research and studies. If your personal data have been shared with another party, Umeå University will take all reasonable actions to notify these parties of your request of erasure.
 
-If Umeå University cannot erase your data for legal reasons, we will limit the processing of your data to include only what is required to meet our obligations under the legal provisions.
-
 ### The right to restriction of personal data processing
 
-You have the right to request the restriction of our processing of your personal data. This means that we only process your personal data for certain specific purposes. We will restrict the processing in the following cases:
+You have the right, in certain cases, to request the restriction of the processing of your personal data. Restriction means that the data is marked so that it may only be processed for certain limited purposes in the future.
 
-* If you assert that the personal data are inaccurate and we need time to verify the accuracy of the data.
-* If Umeå University no longer needs the personal data, but you request for us to continue to store them for your legal purposes.
-* If you object to processing being carried out by us. In that case, the processing will be restricted until your grounds for objecting have been weighed against the obligations to process data to which we may be subject to on legitimate grounds.
-* If you consider that we should erase your personal data but we are unable to do so for some reason.
+The right to restriction applies, among other things, when you believe that the data is inaccurate and has requested rectification. In such cases you may also request that the processing of the data is restricted while the accuracy of the data is being verified.
 
 ### The right to object to processing
 
@@ -182,13 +183,13 @@ Questions
 
 If you have any questions about data protection, you are always welcome to contact your contact person at Umeå University, the person responsible for a project or a course, or Umeå University's data protection officer.
 
-### Umeå University's data protection officer
-
-Email: [pulo@umu.se](mailto:pulo@umu.se "Contact the data protection officer.")
-
 _Umeå University is a public authority. Emails that you send to the University are stored and become public documents._
 
-Latest update: 2022-04-14
+Email to Umeå University's data protection officer: [pulo@umu.se](mailto:pulo@umu.se "Contact the data protection officer.")
+
+You can also submit complaints to the [Swedish Authority for Privacy Protection](https://www.imy.se/en/ "The Swedish Authority for Privacy Protection's (IMY) "), Box 8114, 104 20 Stockholm, email: [imy@imy.se](mailto:imy@imy.se "imy@imy.se").
+
+Latest update: 2024-12-04
 
 Related Information
 -------------------
