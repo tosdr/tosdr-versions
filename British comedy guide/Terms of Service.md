@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[!['Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/allo_allo_crabtree.jpg "'Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC")](https://www.comedy.co.uk/quiz/335/) Quiz
+
+[British Comedy Quiz #335](https://www.comedy.co.uk/quiz/335/)
+
+[![Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/red_dwarf_series6.jpg "Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/) TV
+
+[Red Dwarf VI retrospective: Cowboys and Emmys](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/)
+
 [![Terry Wogan Screams](https://cdn.comedy.co.uk/images/library/misc/300x200/t/terry_wogan_screams.jpg "Terry Wogan Screams")](https://www.comedy.co.uk/live/random8/terry-wogan/) Live
 
 [Random 8: Terry Wogan](https://www.comedy.co.uk/live/random8/terry-wogan/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Gold Christmas Cracker Jokes. Copyright: UKTV](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gold_christmas_cracker_jokes_2016.jpg "Gold Christmas Cracker Jokes. Copyright: UKTV")](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/) Features
 
 [Top 10 Christmas cracker jokes 2024](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/)
-
-[![Kiri Pritchard-McLean](https://cdn.comedy.co.uk/images/library/people/300x200/k/kiri_pritchard_mclean_2024.jpg "Kiri Pritchard-McLean")](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/) Live
-
-[Kiri Pritchard-McLean talks about Peacock](https://www.comedy.co.uk/live/features/kiri-pritchard-mclean-interview/)
-
-[![A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/misc/300x200/c/christmas_carol_ish_mr_swallow_2024_cast.jpg "A Christmas Carol (ish). Image shows left to right: David Elms, Nick Mohammed, Kieran Hodgson, Martha Howe-Douglas. Credit: Matt Crockett")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/) Live
-
-[A Christmas Carol (ish), Grace Campbell, Zainab Johnson - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-61/)
 
 #### Subscribe to our newsletters
 
