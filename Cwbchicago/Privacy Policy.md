@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH490999-326x245.jpg)](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+
+CTA
+
+### [Cops look for 2 men who mugged victim at Sheridan Red Line station](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+
+[November 30, 2024 7:30 PM](https://cwbchicago.com/2024/11)
+
+Two men who mugged a CTA passenger on the Sheridan Red Line platform are the latest to be featured in a Chicago police bulletin.[](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/07/Sean-Hill-326x245.jpg)](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+
+Gold Coast
+
+### [Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+
+[November 30, 2024 6:44 PM](https://cwbchicago.com/2024/11)
+
+Sean Hill, the incorrigible nuisance arrested 75 times since 2015 and 12 times this year, will not be getting arrested for a while. That’s because a judge finally decided to send him to prison.[](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/10/Jeffery-Brooks-326x245.jpg)](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
 
 Bucktown
@@ -252,26 +272,6 @@ Bucktown
 [November 30, 2024 10:28 AM](https://cwbchicago.com/2024/11)
 
 A Chicago man has been given an 18-year sentence for robbing a Bucktown Verizon store while on parole for robbing a T-Mobile in 2020.[](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/P24-1-183A-motorcycle-social-media-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
-
-Oakland
-
-### [Gunmen are luring victims into a robbery trap via social media marketplace ads, police say](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
-
-[November 30, 2024 8:58 AM](https://cwbchicago.com/2024/11)
-
-Anyone looking to buy a motorcycle through an online marketplace would be well advised to turn down any offers to complete a deal in one corner of the Oakland neighborhood, according to Chicago police.[](https://cwbchicago.com/2024/11/gunmen-are-luring-victims-into-a-robbery-trap-via-social-media-marketplace-ads-police-say.html "Gunmen are luring victims into a robbery trap via social media marketplace ads, police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/STANISLAV-ZHURAVEL-326x245.jpg)](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
-
-CTA
-
-### [Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
-
-[November 30, 2024 7:54 AM](https://cwbchicago.com/2024/11)
-
-A Libertyville man has been given a six-year prison sentence for stabbing a 69-year-old man aboard a CTA bus in the South Loop. Stanislav Zhuravel, 33, was on pretrial release for three misdemeanor cases at the time of the January 15, 2024, attack.[](https://cwbchicago.com/2024/11/man-gets-6-years-for-stabbing-69-year-old-aboard-cta-bus-in-the-south-loop.html "Man gets 6 years for stabbing 69-year-old aboard CTA bus in the South Loop")
 
 Search
 
