@@ -309,6 +309,7 @@ Widerrufsbelehrung und Muster-Widerrufsformular für Verbraucher:innen
 * [Mietwohnungen](https://www.wg-gesucht.de/mietwohnungen.html)
 * [Wohnungsmarkt](https://www.wg-gesucht.de/ic/wohnungsmarkt.html)
 * [Wohnungssuche](https://www.wg-gesucht.de/wohnungssuche.html)
+* [Instagram](https://www.wg-gesucht.de/instagram.html)
 
   
   
@@ -322,9 +323,9 @@ Widerrufsbelehrung und Muster-Widerrufsformular für Verbraucher:innen
 
 ![](/img/icons/CO2-Seal-Icon.png)
 
-**Folge uns** [![](/img/icons/icon-instagram.png)](https://www.instagram.com/wggesuchtde/)[![](/img/icons/icon-facebook.png)](https://www.facebook.com/wggesucht.de/)[![](/img/icons/icon-youtube.png)](https://www.youtube.com/wggesuchtdefindyourhome/)[![](/img/icons/icon-pinterest.png)](https://www.pinterest.com/wggesuchtde/)
+**Folge uns auf** [![Instagram Icon](/img/icons/icon-instagram.png)](https://www.instagram.com/wggesuchtde/ "Folge uns auf Instagram")[![Facebook Icon](/img/icons/icon-facebook.png)](https://www.facebook.com/wggesucht.de/ "Folge uns auf Facebook")[![Youtube Icon](/img/icons/icon-youtube.png)](https://www.youtube.com/wggesuchtdefindyourhome/ "Folge uns auf Youtube")[![Pinterest Icon](/img/icons/icon-pinterest.png)](https://www.pinterest.com/wggesuchtde/ "Folge uns auf Pinterest")
 
- [![](/img/icons/icon-ios.png)](https://itunes.apple.com/de/app/wg-gesucht-de-find-your-home/id1084293678?mt=8)[![](/img/icons/icon-android.png)](https://play.google.com/store/apps/details?id=com.wggesucht.android&hl=de)
+ [![Apple App Store Icon](/img/icons/icon-ios.png)](https://itunes.apple.com/de/app/wg-gesucht-de-find-your-home/id1084293678?mt=8 "Hol dir unsere App im App Store")[![Google Play Store Icon](/img/icons/icon-android.png)](https://play.google.com/store/apps/details?id=com.wggesucht.android&hl=de "Hol dir unsere App im Google Play Store")
 
 de
 
