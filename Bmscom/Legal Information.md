@@ -4,7 +4,7 @@
 
 [Our medicines](https://www.bms.com/patient-and-caregivers/our-medicines.html) [Our science](https://www.bms.com/about-us/our-science.html) [Our stories](https://www.bms.com/life-and-science.html)
 
-[![bms](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/) [Skip to main content](#main-content)
+[![Bristol Myers Squibb](/assets/bms/us/en-us/logos/bms-rebrand-logo.svg "null")](https://www.bms.com/) [Skip to main content](#main-content)
 
 [Contact us](https://www.bms.com/about-us/contact-us.html) [Careers](https://careers.bms.com/)
 
