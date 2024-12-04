@@ -196,6 +196,9 @@ Can we help? Close
     * [###### Fixed Rate Loan
         
         Fixed interest rate home loans for terms of one to five years.](https://www.ing.com.au/home-loans/fixed-rate-home-loan.html)
+    * [###### Green Upgrade Loan
+        
+        A low 5-year fixed rate with no upfront fees or break fees.](https://www.ing.com.au/home-loans/green-upgrade-loan.html)
     
     [###### Commercial Loans](# "Commercial Loans")
     
