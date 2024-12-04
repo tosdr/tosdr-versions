@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/10-jaar-wanttoknow-nl-be-wie-schrijft-die-blijft/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-zwendel-doorgelicht-voor-2009-en-2010/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
