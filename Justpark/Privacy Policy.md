@@ -21,14 +21,14 @@
 * [Login](https://www.justpark.com/auth/login)
 * [Sign Up](https://www.justpark.com/registration)
 
-Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
+Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[Best Price Guarantee](https://www.justpark.com/best-price-guarantee-policy)[Car Park Terms & Conditions](https://www.justpark.com/car-park-terms-and-conditions)[Mobile Payment Terms & Conditions](https://www.justpark.com/mobile-payment-terms-and-conditions)[Referral Programme](https://www.justpark.com/referral-programme-policy)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
 
-Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesMcDonald's
+Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesBest Price GuaranteeCar Park Terms & ConditionsReferral ProgrammeMobile Payment Terms & ConditionsMcDonald's
 
 PRIVACY POLICY
 ==============
 
-Effective as of June 25, 2024
+_Effective as of November 2024_
 
 ### 1\. INTRODUCTION
 
@@ -51,7 +51,7 @@ Effective as of June 25, 2024
     6. _Messages_ – messages you send to us and other users of our Service.
     7. _Number plate/License plate (VRM)_ – we store this for enforcement purposes, safety purposes, to calculate your emissions and ensure you are parking in the correct parking bay size. We share this with third party enforcement companies and parking space operators along with parking session dates and times, and sometimes your name.
     8. _Parking space listing data_ – to list your parking space with us we will collect information, such as the parking space address, space description, photos of the space, facilities and attributes, and access instructions.
-    9. _Communications and contact data_ – when you contact us through our website , via email, by post, on social media, or otherwise, we receive your contact information and the content of your communications.
+    9. _Communications and (professional) contact data_ – when you contact us through our website , via email, by post, on social media, or otherwise, we receive your contact information and the content of your communications.
     10. _Marketing preferences_ – when you provide us with your preferences to receive marketing, we store that information.
 2. Personal information we obtain from third parties:
     
@@ -87,10 +87,10 @@ Effective as of June 25, 2024
     3. To send you marketing and promotional communications for Business Purposes, with your Consent where required by applicable laws. We and/or our brand partners may use your personal information for our marketing purposes, if this is in accordance with your marketing preferences. You can opt-out of our marketing emails (see below for further details). We may also use personal information to target advertising to you and/or to others that we believe will be interested in our Service, including via social media platforms, search engines, and other third-party websites.
     4. To administer promotions for our Business Purposes and/or with your Consent.
     5. To request feedback for our Business Purposes. For example, we may use your personal information to request feedback and to contact you about your use of the Service.
-    6. To protect the Service for Business Purposes and/or Legal Reasons. We may use your personal information as part of our efforts to keep the Service safe and secure (for example, for the purposes of protecting, investigating and deterring against fraudulent, harmful, unauthorised, unethical or illegal activity).
+    6. To protect the Service for Business Purposes and/or Legal Reasons. We may use your personal information as part of our efforts to keep the Service safe and secure (for example, for the purposes of protecting, investigating and deterring against fraudulent, harmful, unauthorized, unethical or illegal activity).
     7. To enforce our Terms and policies for Business Purposes, Legal Reasons and/or possibly Contractual Reasons.
     8. To respond to legal requests and prevent harm for Legal Reasons. For example, if we receive a subpoena or other legal request, we may need to inspect the personal information we hold to determine how to respond, or when we need to protect our, your or others' rights, privacy, safety or property including by making and defending legal claims.
-    9. We may use your personal information for other Business Purposes, such as data analysis (including aggregation and anonymisation), identifying usage trends, determining the effectiveness of our promotional campaigns, understanding your needs and interests, personalise your experience with the Service and our communications, and to evaluate and improve the Service, our products and services, our marketing and your experience, and to otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases).
+    9. We may use your personal information for other Business Purposes, such as data analysis (including aggregation and anonymization), identifying usage trends, determining the effectiveness of our promotional campaigns, understanding your needs and interests, personalise your experience with the Service and our communications, and to evaluate and improve the Service, our products and services, our marketing and your experience, and to otherwise operate our business, including support for transactions impacting our company as a whole (such as mergers, acquisitions, or asset purchases).
 
 ### 4\. HOW DO WE SHARE YOUR INFORMATION?
 
@@ -105,7 +105,7 @@ Effective as of June 25, 2024
     7. _Contractual_. We may share your personal information with brand providers and partners to enable any orders for products or services, or obligations arising out of any such orders, to be fulfilled. For example, if you use our Service to find car parking insurance options, we share your personal information with the providers that offer you the insurance you select.
     8. _Compliance with Legal Obligations_. We may disclose personal information where we are legally required to do so in order to comply with applicable laws, governmental requests, judicial proceedings, court orders, or legal processes, such as in response to a court order or a subpoena (including in response to requests from public authorities in order to meet national security or law enforcement requirements).
     9. _Authorities and others_. We may disclose personal information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, illegal activities or situations involving potential threats to the safety of any person, or where we believe it is necessary for the purpose of providing evidence in connection with litigation proceedings in which we are involved.
-2. We may disclose aggregated, anonymous personal information (i.e. personal information from which you cannot be personally identified), or insights based on such anonymous personal information, to selected third parties, including (without limitation) analytics and search engine providers to assist us in the improvement and optimisation of the Service. In such circumstances we will not disclose any personal information which can identify you personally.
+2. We may disclose aggregated, anonymous personal information (i.e. personal information from which you cannot be personally identified), or insights based on such anonymous personal information, to selected third parties, including (without limitation) analytics and search engine providers to assist us in the improvement and optimization of the Service. In such circumstances we will not disclose any personal information which can identify you personally.
     
 
 ### 5\. SENSITIVE PERSONAL INFORMATION
@@ -131,9 +131,9 @@ Effective as of June 25, 2024
 
 1. We retain personal information for as long as necessary to fulfil the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting requirements, to establish or defend legal claims, or for fraud prevention purposes.
     
-2. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorised use or disclosure of personal information, the purposes for which we use personal information and whether we can achieve those purposes through other means, any permissions you give us with regards to your personal information, and the applicable legal and regulatory requirements.
+2. To determine the appropriate retention period for personal information, we consider the amount, nature, and sensitivity of the personal information, the potential risk of harm from unauthorized use or disclosure of personal information, the purposes for which we use personal information and whether we can achieve those purposes through other means, any permissions you give us with regards to your personal information, and the applicable legal and regulatory requirements.
     
-3. When we no longer require the personal information we have collected about you, we will either delete or anonymise it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. If we anonymise your personal information (so that it can no longer be associated with you), we may use this information indefinitely without further notice to you.
+3. When we no longer require the personal information we have collected about you, we will either delete or anonymize it or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible. If we anonymize your personal information (so that it can no longer be associated with you), we may use this information indefinitely without further notice to you.
     
 
 ### 8\. OTHER WEBSITES
@@ -143,7 +143,7 @@ Effective as of June 25, 2024
 
 ### 9\. HOW WE SECURE INFORMATION
 
-1. We are committed to maintaining measures to protect the security of your information and we employ a number of technical, organisational and physical safeguards designed to protect the personal information we collect. Of course, despite these measures, no network or system is ever entirely secure and we cannot guarantee the security of networks and systems that we operate or that are operated on our behalf.
+1. We are committed to maintaining measures to protect the security of your information and we employ a number of technical, organizational and physical safeguards designed to protect the personal information we collect. Of course, despite these measures, no network or system is ever entirely secure and we cannot guarantee the security of networks and systems that we operate or that are operated on our behalf.
 
 ### 10\. Transferring your information
 
@@ -153,7 +153,7 @@ Effective as of June 25, 2024
 
 1. If you are located in the European Economic Area or in the United Kingdom, JustPark Parking Limited, Dunn's Hat Factory, 106-110 Kentish Town Road London, England, NW1 9PX is the entity responsible for your personal information, and the controller under applicable data protection laws.
 2. If you are located in the United States, Canada or anywhere else in the world, ParkHub, Inc. (which is situated at 1717 McKinney Ave., Suite 800, Dallas, TX, 75202, United States) is the entity responsible for your personal information.
-3. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by clicking [here](https://www.justpark.com/help).
+3. If at any time you would like to contact us with your views about our privacy practices, or with any enquiry relating to your personal information, you can do so by clicking [here](https://www.justpark.com/help) or via DPO@justpark.com
 4. If you reside in the European Economic Ares or the United Kingdom, you have the right to complain to a data protection regulator where you live or work, or where you feel a violation has occurred.
 
 Information
