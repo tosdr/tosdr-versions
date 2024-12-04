@@ -1,6 +1,6 @@
         [Skip to content](#main-content)
 
-[Dante Cyber Monday: Unlock Genetic Insights at Unmatched Prices!](https://dantelabs.com/products/whole-genome-sequencing)
+[Holiday Season Offers: Unlock Genetic Insights at Unmatched Prices!](https://dantelabs.com/products/whole-genome-sequencing)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
