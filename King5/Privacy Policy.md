@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fbc23f95-0632-4e2d-9462-ef3950e1e2f6/20241204T021326/fbc23f95-0632-4e2d-9462-ef3950e1e2f6_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbc23f95-0632-4e2d-9462-ef3950e1e2f6/20241204T021326/fbc23f95-0632-4e2d-9462-ef3950e1e2f6_360x203.jpg)](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
+    *  [![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_360x203.jpg)](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
         
-        #### [FOB Sushi reopens Bellevue, Seattle locations after controversy involving TikToker Keith Lee](https://www.king5.com/article/news/local/fob-sushi-reopen-seattle-bellevue-restaurants-after-tiktok-controversy/281-3b1c1580-7915-4b5a-b6f6-95e227258f4b)
+        #### [Swifties scrambling for spots to stay near Vancouver, B.C. amid last-minute lodging cancelations](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d) [![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_360x203.jpg)](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
         
-    *  [![](https://media.king5.com/assets/KING/images/548523945/548523945_16x9.png) ![](https://media.king5.com/assets/KING/images/548523945/548523945_360x203.png)](https://www.king5.com/article/news/local/woman-accused-stabbing-husband-to-death-parkland/281-e195f239-2d28-49e6-9ee6-ffc149e3ad80)
+        #### [Swifties looking for NW Washington lodging after last-minute hotel cancelations in Vancouver, B.C.](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
+    *  [![](https://media.king5.com/assets/KING/images/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7/20241204T044644/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7/20241204T044644/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7_360x203.jpg)](https://www.king5.com/article/news/local/list-severe-weather-shelters-warming-centers-western-washington/281-da4b76fd-d40c-4c04-b638-367ced566aca)
         
-        #### [Woman accused of killing husband in Parkland before Thanksgiving](https://www.king5.com/article/news/local/woman-accused-stabbing-husband-to-death-parkland/281-e195f239-2d28-49e6-9ee6-ffc149e3ad80)
+        #### [List: Severe weather shelters, warming centers in King County](https://www.king5.com/article/news/local/list-severe-weather-shelters-warming-centers-western-washington/281-da4b76fd-d40c-4c04-b638-367ced566aca)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +57,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fea39536-54fc-4a5c-a725-976864b47ca7/20241204T022354/fea39536-54fc-4a5c-a725-976864b47ca7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fea39536-54fc-4a5c-a725-976864b47ca7/20241204T022354/fea39536-54fc-4a5c-a725-976864b47ca7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/8a8654a8-2a01-4242-9c19-7035b0aa01a3/20241204T062345/8a8654a8-2a01-4242-9c19-7035b0aa01a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8a8654a8-2a01-4242-9c19-7035b0aa01a3/20241204T062345/8a8654a8-2a01-4242-9c19-7035b0aa01a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-37°
+33°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
