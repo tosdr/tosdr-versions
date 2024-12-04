@@ -2,7 +2,7 @@
 
 ![](https://www.facebook.com/tr?id=1013298092648180&ev=PageView&noscript=1)
 
-[Shop the Black Friday sale ✨NOW✨ to score the best domain prices of the year!](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=BFCM%20Sale%20Promobar%20Sale%20Nov%202024&utm_medium=BFCM%20Sales&drefid=4647)[Join the innovators and register your .XYZ domain for only $1.49 during Black Friday! 🚀](https://www.dynadot.com/domain/xyz?utm_source=Promobar&utm_campaign=XYZ%20Promobar%20Nov%202024&utm_medium=xyz&drefid=4629)
+[Last chance to get .icu, .cyou, .sbs, .cfd, and .bond domains for under $1.79 and up to 75% off premium names!](https://www.dynadot.com/black-friday-sale?utm_source=Promobar&utm_campaign=Shortdot%20BFCM%20Promobar%20Dec%202024&utm_medium=BFCM%20Sales&drefid=4649)
 
 [](https://www.dynadot.com/)
 
