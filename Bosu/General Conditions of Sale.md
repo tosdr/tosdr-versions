@@ -17,7 +17,7 @@ BOSU® OFFICIAL GLOBAL HEADQUARTERS
 [![BOSU](//bosu.com/cdn/shop/files/BOSU-logo-H-BLK_3e478feb-99c1-47e0-b3d6-40a6c925af65_130x.png?v=1681150138)](https://www.bosu.com/)
 
 * [Home](https://www.bosu.com/)
-* [The Holiday Shop](https://www.bosu.com/collections/holiday-deals)
+* [Holiday Deals](https://www.bosu.com/collections/holiday-deals)
 * [Products](https://www.bosu.com/collections/all)
     * [Balance Trainers](https://www.bosu.com/collections/balance-trainers)
         * [Original](https://www.bosu.com/collections/balance-trainers/Original)
@@ -73,7 +73,7 @@ Subscribe Notice
 [Log in](https://www.bosu.com/account/login)
 
 * [Home](https://www.bosu.com/)
-* [The Holiday Shop](https://www.bosu.com/collections/holiday-deals)
+* [Holiday Deals](https://www.bosu.com/collections/holiday-deals)
 * Products
 * Compare
 * Company
