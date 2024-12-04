@@ -1,61 +1,23 @@
 [Sales Portal](https://salesportal.treace.com/)
 
-[![](/uploads/2021/03/treace-logo-2x.png)](https://www.treace.com/)
+[![](/uploads/2024/11/TMCI-Logo_A-Step-Ahead_Color_RGB.png)](https://www.treace.com/)
 
+* [For Surgeons](javascript:void(0);)
 * [For Patients](https://www.lapiplasty.com/)
-* [For Surgeons](https://www.lapiplasty.com/surgeons)
-* [Company](https://www.treace.com/about-us/)
-    
-    * [About Us](https://www.treace.com/about-us/)
-    * [Management](https://www.treace.com/management/)
-    * [Board of Directors](https://www.treace.com/board-of-directors/)
-    * [Surgeon Advisory Board](https://www.treace.com/surgeon-advisory-board/)
-    * [Grants and Donations](https://www.treace.com/grants-and-donations/)
-    * [Patents](https://www.treace.com/patents/)
-    
-* [Careers](https://www.treace.com/careers/)
 * [Investors](https://investors.treace.com/)
-    
-    * [Overview](https://investors.treace.com/)
-    * [News & Events](https://investors.treace.com/news-events/press-releases)
-    * [Stock Information](https://investors.treace.com/stock-information/stock-quote-chart)
-    * [Financials & Filings](https://investors.treace.com/financial-filings/sec-filings)
-    * [Corporate Governance](https://investors.treace.com/corporate-governance/documents-charters)
-    * [Investor Resources](https://investors.treace.com/investor-resources/investor-faqs)
-    * [ESG Report](https://investors.treace.com/corporate-governance/ESG)
-    
 * [](#)
 
-[Am I A Candidate?](https://www.lapiplasty.com/am-i-a-candidate/) [Find A Doctor](https://locator.treace.net/)
+[Education & Resources](https://www.treace.com/uploads/2024/11/M3349A_Education_&_Resources.pdf)
 
 * [Close ![](/wp-content/themes/treace/library/dist/images//icon-close.svg)](#) 
-* [For Patients](https://lapiplasty.com/)
-* [For Surgeons](https://www.lapiplasty.com/surgeons)
-* [Company](https://www.treace.com/about-us/)
-    
-    * [About Us](https://www.treace.com/about-us/)
-    * [Management](https://www.treace.com/management/)
-    * [Board of Directors](https://www.treace.com/board-of-directors/)
-    * [Surgeon Advisory Board](https://www.treace.com/surgeon-advisory-board/)
-    * [Grants and Donations](https://www.treace.com/grants-and-donations/)
-    * [Patents](https://www.treace.com/patents/)
-    
-* [Careers](https://www.treace.com/careers/)
+* [For Surgeons](javascript:void(0);)
+* [For Patients](https://www.lapiplasty.com/)
 * [Investors](https://investors.treace.com/)
-    
-    * [Overview](https://investors.treace.com/)
-    * [News & Events](https://investors.treace.com/news-events/press-releases)
-    * [Stock Information](https://investors.treace.com/stock-information/stock-quote-chart)
-    * [Financials & Filings](https://investors.treace.com/financial-filings/sec-filings)
-    * [Corporate Governance](https://investors.treace.com/corporate-governance/documents-charters)
-    * [Investor Resources](https://investors.treace.com/investor-resources/investor-faqs)
-    
+* [Education & Resources](https://www.treace.com/uploads/2024/11/M3349A_Education_&_Resources.pdf)
 
-*  [![](/uploads/2020/06/icon-pin-grey.svg) Find a Doctor](https://locator.treace.net/)
-*  [![](/uploads/2020/06/icon-user-grey.svg) Am I A candidate](https://www.lapiplasty.com/am-i-a-candidate/)
-*  [![](/uploads/2020/06/icon-user-grey.svg) Sales Portal](https://salesportal.treace.com/)
+* [Sales Portal](https://salesportal.treace.com/)
 
-[For Patients](https://www.lapiplasty.com/) [For Surgeons](https://www.lapiplasty.com/surgeons)
+[Education & Resources](https://www.treace.com/uploads/2024/11/M3349A_Education_&_Resources.pdf)
 
 [](#0)
 
@@ -220,39 +182,31 @@ If you believe in good faith that someone has wrongly submitted a notice of copy
 
 M1465D
 
-* [Am I A Candidate?](https://www.lapiplasty.com/am-i-a-candidate)
-* [Find A Doctor](https://locator.treace.net/)
-* [Company](https://www.treace.com/about-us/)
-    
-    * [About Us](https://www.treace.com/about-us/)
-    * [Management](https://www.treace.com/management/)
-    * [Board of Directors](https://www.treace.com/board-of-directors/)
-    * [Surgeon Advisory Board](https://www.treace.com/surgeon-advisory-board/)
-    * [Careers](https://www.treace.com/careers/)
-    * [Patents](https://www.treace.com/patents/)
-    
-* [Investors](https://investors.treace.com/)
-    
-    * [Overview](https://investors.treace.com/)
-    * [News & Events](https://investors.treace.com/news-events/press-releases)
-    * [Stock Information](https://investors.treace.com/stock-information/stock-quote-chart)
-    * [Financials & Filings](https://investors.treace.com/financial-filings/sec-filings)
-    * [Corporate Governance](https://investors.treace.com/corporate-governance/documents-charters)
-    * [Investor Resources](https://investors.treace.com/investor-resources/investor-faqs)
-    
+[![](/uploads/2024/11/TMCI-Logo_A-Step-Ahead_Color_RGB.png)](https://www.treace.com/)
 
-[![](/uploads/2020/05/logo-treace.png)](https://www.treace.com/)
+[![](/uploads/2024/11/Treace_Social_FB.png)](https://www.facebook.com/TreaceMedical) [![](/uploads/2024/11/Treace_Social_IG.png)](https://www.instagram.com/lapiplasty/)  [![](/uploads/2024/11/Treace_Social_YT.png)](https://www.youtube.com/channel/UCKrmTEoW0YUs7G2G5XktiJA) [![](/uploads/2024/11/Treace_Social_LI.png)](https://www.linkedin.com/company/treace-medical-concepts-inc/)
 
-[![](https://www.treace.com//uploads/2021/04/Treace_Social_FB.svg)](https://www.facebook.com/TreaceMedical) [![](https://www.treace.com//uploads/2021/04/Treace_Social_IG.svg)](https://www.instagram.com/lapiplasty/)  [![](https://www.treace.com//uploads/2021/04/Treace_Social_YT.svg)](https://www.youtube.com/channel/UCKrmTEoW0YUs7G2G5XktiJA) [![](https://www.treace.com/uploads/2021/04/Treace_Social_LI.svg)](https://www.linkedin.com/company/treace-medical-concepts-inc/)
+Company
 
-* [Privacy Policy](https://www.treace.com/privacy-policy/)
-* [Website Terms of Use](https://www.treace.com/terms-conditions/)
-* [Company](https://www.treace.com/about-us/)
+* [About Us](https://www.treace.com/about-us/)
+* [Management](https://www.treace.com/management/)
+* [Board of Directors](https://www.treace.com/board-of-directors/)
+
+* [Surgeon Advisory Board](https://www.treace.com/surgeon-advisory-board/)
+* [Grants & Donations](https://www.treace.com/grants-and-donations/)
+* [Patents](https://www.treace.com/patents/)
+
 * [Careers](https://www.treace.com/careers/)
-* [Contact](https://www.treace.com/contact/)
+* [Contact](https://www.lapiplasty.com/surgeons/contact/)
 * [Investors](https://investors.treace.com/)
 
-[![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_FB.svg)](https://www.facebook.com/TreaceMedical) [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_IG.svg)](https://www.instagram.com/lapiplasty/)  [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_YT.svg)](https://www.youtube.com/channel/UCKrmTEoW0YUs7G2G5XktiJA) [![](https://www.lapiplasty.com/uploads/2021/04/Treace_Social_LI.svg)](https://www.linkedin.com/company/treace-medical-concepts-inc/)
+Legal
+
+* [Terms of Use](https://www.lapiplasty.com/terms-conditions/)
+* [Privacy](https://www.lapiplasty.com/privacy-policy/)
+* [California Privacy](https://www.lapiplasty.com/california-consumer-privacy-act/)
+
+[![](/uploads/2024/11/Treace_Social_FB.png)](https://www.facebook.com/TreaceMedical) [![](/uploads/2024/11/Treace_Social_IG.png)](https://www.instagram.com/lapiplasty/)  [![](/uploads/2024/11/Treace_Social_YT.png)](https://www.youtube.com/channel/UCKrmTEoW0YUs7G2G5XktiJA) [![](/uploads/2024/11/Treace_Social_LI.png)](https://www.linkedin.com/company/treace-medical-concepts-inc/)
 
 © 2024 Treace Medical Concepts, Inc. All rights reserved
 
