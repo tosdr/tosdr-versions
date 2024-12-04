@@ -31,6 +31,8 @@ Check out
 
 Free shipping on orders over £50
 
+[Free Gift On Orders Over £60\*](https://black-blum.com/collections/gift-with-purchase)
+
      
 
      
