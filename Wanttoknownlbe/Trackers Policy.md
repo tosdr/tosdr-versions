@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/cosmic-woman/tessa-eh-cosmic-woman-is-terug/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/pcr-97-vals-positieven-zo-creeer-je-crisis/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
