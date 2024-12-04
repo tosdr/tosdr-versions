@@ -166,6 +166,10 @@
     
     Webinars
     
+    [![Brian Binder](https://static.wingify.com/gcp/uploads/2024/12/unnamed.jpg?tr=w-60,h-50)
+    
+    The intersection between A/B testing and incrementality](https://vwo.com/webinars/the-intersection-between-a-b-testing-and-incrementality/)
+    
     [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
     
     Supercharge Your HubSpot CRM: Unlocking Advanced CRO Capabilities with VWO Integration](https://vwo.com/webinars/supercharge-hubspot-crm-unlocking-advanced-cro-capabilities-vwo-integration/)
@@ -181,10 +185,6 @@
     [![Michael Stineman](https://static.wingify.com/gcp/uploads/2024/10/mike-stineman-PREFERRED-019_modus_2017-1-1-scaled.jpg?tr=w-60,h-50)
     
     Use CRO Like the Pros: Surprising Ways to Nail Your CX](https://vwo.com/webinars/use-cro-like-pros-surprising-ways-nail-your-cx/)
-    
-    [![Evelina Jörhov](https://static.wingify.com/gcp/uploads/2024/10/evelinajorhov-1.jpg?tr=w-60,h-50)
-    
-    Heatmaps: Visualizing User Engagement for Maximum Conversions](https://vwo.com/webinars/heatmaps-visualizing-user-engagement-maximum-conversions/)
     
     [View all webinars](https://vwo.com/webinars)
     
