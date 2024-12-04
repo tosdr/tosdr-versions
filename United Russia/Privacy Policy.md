@@ -299,6 +299,38 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Александр Сидякин: При поддержке «Единой России» в Мариинской гимназии в Воронеже откроют Центр патриотического воспитания](https://cdn.er.ru/media/news/December2024/SguZ2OUipvJmY9cZ08PI-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-pri-podderzhke-edinoj-rossii-v-mariinskoj-gimnazii-v-voronezhe-otkroyut-centr-patrioticheskogo-vospitaniya)
+
+[Александр Сидякин: При поддержке «Единой России» в Мариинской гимназии в Воронеже откроют Центр патриотического воспитания](https://er.ru/activity/news/aleksandr-sidyakin-pri-podderzhke-edinoj-rossii-v-mariinskoj-gimnazii-v-voronezhe-otkroyut-centr-patrioticheskogo-vospitaniya)
+
+[#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Нетесов](https://er.ru/activity/news?tags%5B0%5D=1993) [#Гусев](https://er.ru/activity/news?tags%5B0%5D=9929) [#реконструкция](https://er.ru/activity/news?tags%5B0%5D=2817) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
+
+Сегодня 18:38
+
+[![«Единая Россия» организовала для социально ориентированных НКО онлайн-встречу с Минэкономразвития](https://cdn.er.ru/media/news/December2024/NWVLLkZIrSjOeJWPFBP8-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-dlya-socialno-orientirovannyh-nko-onlajn-vstrechu-s-minekonomrazvitiya)
+
+[«Единая Россия» организовала для социально ориентированных НКО онлайн-встречу с Минэкономразвития](https://er.ru/activity/news/edinaya-rossiya-organizovala-dlya-socialno-orientirovannyh-nko-onlajn-vstrechu-s-minekonomrazvitiya)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Илюшникова](https://er.ru/activity/news?tags%5B0%5D=148058) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#онлайн-встреча](https://er.ru/activity/news?tags%5B0%5D=122564) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786)
+
+Сегодня 18:04
+
+[![«Единая Россия» передала новое оборудование Белоярской районной больнице в Хакасии](https://cdn.er.ru/media/news/December2024/EPktxjsGImAhuPDBgMvf-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-novoe-oborudovanie-beloyarskoj-rajonnoj-bolnice-v-hakasii)
+
+[«Единая Россия» передала новое оборудование Белоярской районной больнице в Хакасии](https://er.ru/activity/news/edinaya-rossiya-peredala-novoe-oborudovanie-beloyarskoj-rajonnoj-bolnice-v-hakasii)
+
+[#Республика Хакасия](https://er.ru/activity/news?tags%5B0%5D=83502) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Сокол](https://er.ru/activity/news?tags%5B0%5D=18524) [#медоборудование](https://er.ru/activity/news?tags%5B0%5D=96556) [#больница](https://er.ru/activity/news?tags%5B0%5D=3441) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
+
+Сегодня 16:00
+
+[![«Единая Россия» наградила победительниц первого Всероссийского конкурса «Краса ЖКХ»](https://cdn.er.ru/media/news/December2024/ZG7CDrnLX07HwrgsaG71-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-pobeditelnic-pervogo-vserossijskogo-konkursa-krasa-zhkh)
+
+[«Единая Россия» наградила победительниц первого Всероссийского конкурса «Краса ЖКХ»](https://er.ru/activity/news/edinaya-rossiya-nagradila-pobeditelnic-pervogo-vserossijskogo-konkursa-krasa-zhkh)
+
+[#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#Абросимова](https://er.ru/activity/news?tags%5B0%5D=48125) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607)
+
+Сегодня 15:28
+
 [![О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://cdn.er.ru/media/news/December2024/uwEGquRSrSQEjEXW65dM-small.jpg)](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
 
 [О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
@@ -314,38 +346,6 @@
 [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#региональнаяобщественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=109456)
 
 Сегодня 09:19
-
-[![«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://cdn.er.ru/media/news/December2024/bUEdjzN7rhoQqZvhzYgx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
-
-[«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
-
-[#Киселев](https://er.ru/activity/news?tags%5B0%5D=974) [#РЖД](https://er.ru/activity/news?tags%5B0%5D=1493) [#вагоны](https://er.ru/activity/news?tags%5B0%5D=3163) [#инклюзивныйтуризм](https://er.ru/activity/news?tags%5B0%5D=1094738) [#поезд](https://er.ru/activity/news?tags%5B0%5D=3210) [#людисовз](https://er.ru/activity/news?tags%5B0%5D=123028) [#Солодов](https://er.ru/activity/news?tags%5B0%5D=55773) [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-03.12.24
-
-[![«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://cdn.er.ru/media/news/December2024/osfcLnqtf8WOLAI3J8VV-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
-
-[«Единая Россия» и Минтруда РФ представили в Вологде лучшие форматы по поддержке участников СВО](https://er.ru/activity/news/edinaya-rossiya-i-mintruda-rf-predstavili-v-vologde-luchshie-formaty-po-podderzhke-uchastnikov-svo)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СЗФО](https://er.ru/activity/news?tags%5B0%5D=2829) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#Минтруда](https://er.ru/activity/news?tags%5B0%5D=17938) [#трудоустройство](https://er.ru/activity/news?tags%5B0%5D=1642) [#реабилитация](https://er.ru/activity/news?tags%5B0%5D=3765) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285)
-
-02.12.24
-
-[![«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://cdn.er.ru/media/news/December2024/Gz6TpeI2E6wLvfQqE4Zj-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
-
-[«Единая Россия» открыла в Калининграде шахматный клуб Сергея Карякина](https://er.ru/activity/news/edinaya-rossiya-otkryla-v-kaliningrade-shahmatnyj-klub-sergeya-karyakina)
-
-[#Калининградская область](https://er.ru/activity/news?tags%5B0%5D=780) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#шахматы](https://er.ru/activity/news?tags%5B0%5D=3005) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#Говырин](https://er.ru/activity/news?tags%5B0%5D=148487) [#Оргеева](https://er.ru/activity/news?tags%5B0%5D=62709)
-
-02.12.24
-
-[![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/mbTIt4TVmAgaWzxVN2lD-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
-
-[На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov)
-
-[#выборы в ОМСУ](https://er.ru/activity/news?tags%5B0%5D=29588) [#Алтайский край](https://er.ru/activity/news?tags%5B0%5D=514) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Пензенская область](https://er.ru/activity/news?tags%5B0%5D=806)
-
-02.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
