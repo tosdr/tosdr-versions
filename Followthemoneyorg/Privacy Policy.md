@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Coalition Contributions](/assets/logos/Coalition-contributions.png)](https://www.followthemoney.org/research/institute-research/industries-storm-states-over-climate-change)
-
-Who weighs in on climate change debates?
+[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
