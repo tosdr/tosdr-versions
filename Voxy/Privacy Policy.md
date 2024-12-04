@@ -8,13 +8,9 @@
     * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Russian](https://voxy.com/ru/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8/)
     * [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgdmlld0JveD0iMCAwIDE4IDEyIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzdHlsZT0iZmlsbDojY2ZkNGRiO2ZpbGwtb3BhY2l0eTogMC4xOyIvPjwvc3ZnPg==)Thai](https://voxy.com/th/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B8%99%E0%B8%AA%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%A7/)
 
-Search
-
-Search  
-
-Close this search box.
-
 * [Voxy on LinkedIn](https://www.linkedin.com/company/voxy/)
+* [Get in Touch](https://voxy.com/contact/)
+
 * [Get in Touch](https://voxy.com/contact/)
 
 [](https://app.voxy.com/v2/#/login)
@@ -48,15 +44,13 @@ Menu
 Privacy Policy
 ==============
 
-* Last Revised: October 2016
+* Last Updated: March 1, 2023
 
 Browse
 
-### Privacy Policy
-
 _Last Updated: Mar 1, 2023_
 
-### 1              Who we are
+### 1 Who we are
 
 1.1          Voxy, Inc. (**Voxy**, **we**, or **us**) welcomes you to www.Voxy.com and any and all platforms, applications or mobile applications offered by Voxy, Inc (the **Site**). This Privacy Policy describes how Voxy collects and receives information about you through the Site and when contracting with corporate customers or providing our English language training and teaching services to end users (the **Services**) and through Voxy’s businesses, including offline and how we use and share your personal data.
 
@@ -86,7 +80,7 @@ _Last Updated: Mar 1, 2023_
 
 1.6.3      Our Cookie Policy for information relating to our use of cookies and similar technologies on this Site.
 
-### 2              What We Collect and How We Use Personal Data
+### 2 What We Collect and How We Use Personal Data
 
 2.1          We will collect and use your personal data when you enquire about and/or enter into a corporate contract with us, register for an account with us and use our Site and Services, and when you get in touch with us including via our Site contact form, by email, social media or by phone and from cookies as described in the Cookie Policy.
 
@@ -97,18 +91,18 @@ _Last Updated: Mar 1, 2023_
 |     |     |     |
 | --- | --- | --- |
 |     | **What personal data we collect** | **How we use your personal data** |
-| 1.  | If you are a B2B Contact, we will process personal data you provide **when enquiring about or registering an interest in becoming a corporate customer** including:●        Name;●        Contact details (including email address and phone number);●        Job role; and●        Name of your employer. | Voxy will use this personal data to:●        Respond to queries and other requests;●        Negotiate the contract;●        Manage and administer the contract including for payment, invoicing and refund purposes;●        Manage any customer service issues that arise during the course of the contract;●        Communicate with you regarding the management and administration of our contact with our corporate customer;●        Help us ensure that our corporate customers are genuine and to prevent fraud; and●        Send you direct marketing. |
-| 2.  | If you are a User, we will process personal data that you provide to us when **registering for an account on our Site and during onboarding as a User.** This includes:●        Name;●        Email address;●        telephone number;●        account password;●        Age;●        your country of residence;●        English language education experience and current knowledge/level;●        Personal goals (e.g. use of English for work, daily life, preparing for exams) in order to personalise lesson content;●        Preferences and Interests (in order to suggest lesson content) (e.g. art, entertainment, food, lifestyle, sports). | Voxy will use this information to:●        Provide you with, manage and administer, our Site and Services;●        Verify that you are authorised to access our Services under a corporate customer agreement;●        To analyze our Users’ demographics and interests;●        Meet our contractual commitments to you;●        Help us ensure that our Users are genuine and to prevent fraud;●        Allow Users to engage with each other through the Site;●        Send you direct marketing (but only where you consent to this);●        Notify you about any changes to our Site, such as improvements or Service changes, that may affect our Services;●        To alert you to new features, lessons, terms, Services, content, or activities●        To monitor and analyze information regarding your browsing and viewing preferences; and●        Make the Site and Service more relevant and personal to you including by making content and lessons on the Site more relevant to you and your interests and encourage activity, session attendance and use of the Services. |
-| 3.  | If you are a User, personal data we collect **when you use the Services** including:●        Course and training progress, test scores and results;●        The dates and times you, book, attend and access training and sessions and which sessions you have booked and attended; and●        Photos and videos of your attendance at the session including your name and username if visible when attending the session. | Voxy use this personal data to:●        Provide our Services including access to sessions, testing, results and certifications;●        Allow Users to engage with each other through the Site;●        Provide reports about employee or student attendance (including name of employee or student) and usage of Services to our corporate customers by reference to corporate customer accounts and associated access codes;●        Manage and develop our Site and Services;●        Monitor compliance with and to enforce the Terms of Use; and●        Use photos and videos for internal and external promotional purposes (e.g. on our website or on social media).We will request consent to such use photos and/ or videos where required by applicable law. |
-| 4.  | Information when you **communicate with us** whether through our Site (including the contact us form or when you request a demo), by email, by phone, by social media or by any other means including:●        Your contact details (name, email address, address, phone number and social media handle or user name); and●        The details of your communications with us; The details of our messages to you. | Voxy use this personal data in order to:●        Respond to requests for information about our Services;●        Answer any questions, issues or concerns;●        Monitor communications for quality and training purposes;●        Develop new Services; and●        Improve our Services. |
-| 5.  | When you **sign up to receive our marketing emails and updates** whether online or offline, including:·         Your contact details (name, email address, address). | Voxy use this personal data in order to:·         To send marketing emails about our products and services and to provide you with personalized content in the marketing emails. |
-| 6.  | Personal data that we collect through **your use of our Site** including:●        usage statistics;●        browsing history;●        domain name of your internet service provider;●        Device information such as operating system, browser and version, country/region/city of device, unique device identifiers, the mobile network system;●        traffic data;●        weblog statistics ;●        Hardware and browser settings;●        Page requests;●        The requests you make;●        The pages you visit and sessions you attend; and●        IP address.For further information on our use of cookies see our Cookie Policy. | Voxy use this personal data in order to:●        analyse use of the website such as pages visited and number of visitors;●        monitor and analyse attendance at sessions through our Site;●        Operate our Site;●        Improve our Site, content, products and Services;●        Provide and adapt our Site to the technical capabilities of User devices;●        Identify issues with the Site and the user’s experience of it; and●        Monitor and analyse the way our Site is used. |
+| 1.  | If you are a B2B Contact, we will process personal data you provide **when enquiring about or registering an interest in becoming a corporate customer** including:  <br>● Name;  <br>● Contact details (including email address and phone number);  <br>● Job role; and  <br>● Name of your employer. | Voxy will use this personal data to:  <br>●        Respond to queries and other requests;  <br>●        Negotiate the contract;  <br>●        Manage and administer the contract including for payment, invoicing and refund purposes;  <br>●        Manage any customer service issues that arise during the course of the contract;  <br>●        Communicate with you regarding the management and administration of our contact with our corporate customer;  <br>●        Help us ensure that our corporate customers are genuine and to prevent fraud; and  <br>●        Send you direct marketing. |
+| 2.  | If you are a User, we will process personal data that you provide to us when **registering for an account on our Site and during onboarding as a User.** This includes:  <br>●        Name;  <br>●        Email address;  <br>●        telephone number;  <br>●        account password;  <br>●        Age;  <br>●        your country of residence;  <br>●        English language education experience and current knowledge/level;  <br>●        Personal goals (e.g. use of English for work, daily life, preparing for exams) in order to personalise lesson content;  <br>●        Preferences and Interests (in order to suggest lesson content) (e.g. art, entertainment, food, lifestyle, sports). | Voxy will use this information to:  <br>●        Provide you with, manage and administer, our Site and Services;  <br>●        Verify that you are authorised to access our Services under a corporate customer agreement;  <br>●        To analyze our Users’ demographics and interests;  <br>●        Meet our contractual commitments to you;  <br>●        Help us ensure that our Users are genuine and to prevent fraud;  <br>●        Allow Users to engage with each other through the Site;  <br>●        Send you direct marketing (but only where you consent to this);  <br>●        Notify you about any changes to our Site, such as improvements or Service changes, that may affect our Services;  <br>●        To alert you to new features, lessons, terms, Services, content, or activities  <br>●        To monitor and analyze information regarding your browsing and viewing preferences; and  <br>●        Make the Site and Service more relevant and personal to you including by making content and lessons on the Site more relevant to you and your interests and encourage activity, session attendance and use of the Services. |
+| 3.  | If you are a User, personal data we collect **when you use the Services** including:  <br>●        Course and training progress, test scores and results;  <br>●        The dates and times you, book, attend and access training and sessions and which sessions you have booked and attended; and  <br>●        Photos and videos of your attendance at the session including your name and username if visible when attending the session. | Voxy use this personal data to:  <br>●        Provide our Services including access to sessions, testing, results and certifications;  <br>●        Allow Users to engage with each other through the Site;  <br>●        Provide reports about employee or student attendance (including name of employee or student) and usage of Services to our corporate customers by reference to corporate customer accounts and associated access codes;  <br>●        Manage and develop our Site and Services;  <br>●        Monitor compliance with and to enforce the Terms of Use; and  <br>●        Use photos and videos for internal and external promotional purposes (e.g. on our website or on social media).We will request consent to such use photos and/ or videos where required by applicable law. |
+| 4.  | Information when you **communicate with us** whether through our Site (including the contact us form or when you request a demo), by email, by phone, by social media or by any other means including:  <br>●        Your contact details (name, email address, address, phone number and social media handle or user name); and  <br>●        The details of your communications with us; The details of our messages to you. | Voxy use this personal data in order to:  <br>●        Respond to requests for information about our Services;  <br>●        Answer any questions, issues or concerns;  <br>●        Monitor communications for quality and training purposes;  <br>●        Develop new Services; and  <br>●        Improve our Services. |
+| 5.  | When you **sign up to receive our marketing emails and updates** whether online or offline, including:  <br>·         Your contact details (name, email address, address). | Voxy use this personal data in order to:  <br>·         To send marketing emails about our products and services and to provide you with personalized content in the marketing emails. |
+| 6.  | Personal data that we collect through **your use of our Site** including:  <br>●        usage statistics;  <br>●        browsing history;  <br>●        domain name of your internet service provider;  <br>●        Device information such as operating system, browser and version, country/region/city of device, unique device identifiers, the mobile network system;  <br>●        traffic data;  <br>●        weblog statistics ;  <br>●        Hardware and browser settings;  <br>●        Page requests;  <br>●        The requests you make;  <br>●        The pages you visit and sessions you attend; and  <br>●        IP address.  <br>For further information on our use of cookies see our Cookie Policy. | Voxy use this personal data in order to:  <br>●        analyse use of the website such as pages visited and number of visitors;  <br>●        monitor and analyse attendance at sessions through our Site;  <br>●        Operate our Site;  <br>●        Improve our Site, content, products and Services;  <br>●        Provide and adapt our Site to the technical capabilities of User devices;  <br>●        Identify issues with the Site and the user’s experience of it; and  <br>●        Monitor and analyse the way our Site is used. |
 
 If personal data is required to enter into a contract with you or otherwise provide Services to you we may be unable to enter the contract or provide Services if you fail to provide the requested personal data. We will inform you if this is the case.
 
 Voxy may automatically receive and record non-personal information on our server logs from your browser as well as through other analysis of the Site.
 
-### 3              Our legal basis for using your personal data
+### 3 Our legal basis for using your personal data
 
 3.1          We rely on the following lawful bases under data protection law (where applicable) for our use of your personal data:
 
@@ -122,7 +116,7 @@ Voxy may automatically receive and record non-personal information on our server
 
 3.2          Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
 
-### 4              When do we have legitimate interests?
+### 4 When do we have legitimate interests?
 
 4.1          We use your personal data where this is necessary for our legitimate interests (or those of a third party). This includes where use of your personal data is necessary to:
 
@@ -152,11 +146,11 @@ Voxy may automatically receive and record non-personal information on our server
 
 4.1.13    Enforce our legal rights and manage any dispute and legal claims and take legal or other professional advice.
 
-### 5              Legal requirements
+### 5 Legal requirements
 
 5.1          Your personal data may be processed if it is necessary on reasonable request by a law enforcement or regulatory authority, body or agency or in the defence of a legal claim.  We will not delete personal data if relevant to an investigation or a dispute.  It will continue to be stored until those issues are fully resolved.
 
-### 6              Where your information will be held
+### 6 Where your information will be held
 
 6.1          Personal data collected by Voxy will be stored and processed in the United States in accordance with the laws of the United States. If you submit your personal data directly to Voxy online or offline (e.g. when signing up for an account if you are a User), you acknowledge that you are providing your personal data to Voxy in the United States.
 
@@ -164,7 +158,7 @@ Voxy may automatically receive and record non-personal information on our server
 
 6.3          If you are located in the UK or European Economic Area, we may transfer your personal data to locations outside of the UK and European Economic area. However, to ensure your personal data is protected in accordance with EU and UK data protection law we will only transfer data outside the UK and European Economic Area where appropriate safeguards as required by applicable data protection law are in place. This includes where a jurisdiction has been deemed adequate by the EU Commission or, where there is no adequacy decision, by putting in place Standard Contractual Clauses. Please contact us at [datacontroller@voxy.com](mailto:datacontroller@voxy.com) if you would like further information on the specific safeguards used by us when transferring your personal data.
 
-### 7              The Rights of Users
+### 7 The Rights of Users
 
 7.1          Users may exercise certain rights regarding their personal data under applicable data protection law. In particular, Users may have the following rights:
 
@@ -186,7 +180,7 @@ Voxy may automatically receive and record non-personal information on our server
 
 7.2          Please contact us at [datacontroller@voxy.com](mailto:datacontroller@voxy.com) if you would like to exercise any of the above rights.
 
-### 8              Retention of personal data
+### 8 Retention of personal data
 
 8.1          Personal data shall be processed and stored for as long as required by the purpose they have been collected for. Therefore:
 
@@ -208,7 +202,7 @@ Voxy may automatically receive and record non-personal information on our server
 
 8.3          We may use personal data to generate aggregated and anonymised information to assist in our planning, development and improvement of products and Services. This information will cease to be personal data once it is made anonymous and aggregated and may be retained for longer than the retention periods set out above.
 
-### 9              Direct Marketing
+### 9 Direct Marketing
 
 9.1          If you are a B2B Contact, Voxy may send direct marketing to you (in relation to marketing aimed at your employer) by email. B2B Contacts can opt-out of receiving these communications at any time.
 
@@ -222,7 +216,7 @@ Voxy may automatically receive and record non-personal information on our server
 
 9.4          Please note that if you choose not to consent to direct marketing or withdraw your consent to direct marketing we will still communicate with you in relation to any contract you have with us and other Service related messages. For example, messages relating to Service downtime or confirmation of training bookings and communications relating to your contract with us, or messages regarding activation, reset password and login access. You may not opt out of receiving communications regarding your dealings with Voxy or the Site, content, Services or technical information about the Site.
 
-### 10           Information Sharing with Third Parties
+### 10 Information Sharing with Third Parties
 
 10.1        Your personal data will be processed by our employees and contractors.
 
@@ -272,33 +266,34 @@ Please see the table below for details of some of our key service providers.
 
 10.4        Your personal data may be shared if it is made anonymous and aggregated, as in such circumstances the information will cease to be personal data. For example, we may take personally identifiable information and de-identify it and share it in a de-identified or aggregated form with advertisers, business partners, and/or third parties in order to analyse Site usage, perform services on our Site or others’ Site, improve our services, improve our user experience, or for similar purposes. We will not re-identify such data and we will ask our contracting parties to agree to keep the data in its de-identified form.
 
-### 11           Children
+### 11 Children
 
 11.1      Our Site is not directed towards children and we do not knowingly collect personal information from children. Please do not use our Services, register for emails or direct marketing or otherwise submit any personal information to us:
 
-(a) if you are a resident of Malaysia, if you are younger than 13 years old; or(b) if you are a resident of any other country, if you are younger than 15 years old.
+(a) if you are a resident of Malaysia, if you are younger than 13 years old; or  
+(b) if you are a resident of any other country, if you are younger than 15 years old.
 
 11.2      If you are a minor in your place of residence, when you visit, browse, use, or submit personal information to the Site, you represent that you have the permission of a parent or guardian to do so and who agrees to these Terms on your behalf. If you are a parent or guardian and believe Voxy may have inadvertently collected personal information from your child, please notify Voxy immediately by sending a message detailing the basis of your belief and your request to: Voxy, Inc. 64 Bleecker St. #241, New York, NY 10012-2410 or [support@voxy.com](mailto:support@voxy.com).
 
-### 12           Protection of Personal Information
+### 12 Protection of Personal Information
 
 12.1        Voxy uses reasonable administrative, physical and electronic security measures to protect against the loss, misuse and alteration of personal information. No transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Voxy to intercept or access transmissions or private communications unlawfully. While we strive to protect personal information, neither Voxy nor our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is at your own risk.
 
-### 13           Updating your Information
+### 13 Updating your Information
 
 13.1        You are responsible for keeping your information current. You may update your information by contacting us at [support@voxy.com](mailto:support@voxy.com) or editing your account information. We will use reasonable efforts to process any change you make; provided, however, that requests to delete information are subject to Voxy’s internal reporting, processing and retention policies and all applicable legal obligations.
 
-### 14           Links
+### 14 Links
 
 14.1        You may have the opportunity to follow links on the Site to other sites that may be of interest to you. Voxy endeavors to only link to reputable organizations. Because other sites may not be hosted or controlled by Voxy, we are not responsible for the privacy practices of those sites or the content provided thereon. Therefore, the privacy policies with respect to other sites may differ from those applicable to the Site. We encourage you to review the privacy policies of each other site. This Privacy Policy only applies to information collected and maintained by Voxy.
 
-### 15           Changes to the Privacy Policy
+### 15 Changes to the Privacy Policy
 
 15.1        Should the Privacy Policy be revised, Voxy will post the changes on the Site which will be effective immediately upon posting. You can determine when the Privacy Policy was last revised by referring to the “Last Revised” legend at the top of this page.
 
 15.2        If we make a change that significantly affects your rights or, to the extent we are permitted to do so, significantly changes how or why we use personal data, we will notify you by way of a prominent notice on our website or, if we have your email address, by email. Where required by applicable law, any material changes to the terms of the Privacy Policy will apply only to information collected thereafter, unless you provide consent.
 
-### 16           Questions?
+### 16 Questions?
 
 16.1        If you have any questions or concerns regarding this Privacy Policy, please contact us at:
 
@@ -308,7 +303,7 @@ Please see the table below for details of some of our key service providers.
 
 16.1.3    [support@voxy.com](mailto:support@voxy.com)
 
-### 17           Notice of Privacy Rights of California Residents
+### 17 Notice of Privacy Rights of California Residents
 
 17.1        We adopt this notice to comply with the California Consumer Privacy Act of 2018 (**CCPA**) and any terms defined in the CCPA have the same meaning when used in this notice. Due to Voxy’s size/data collection, Voxy is not currently required to comply with the CCPA, but we do make an effort to do so.
 
@@ -334,7 +329,7 @@ Please see the table below for details of some of our key service providers.
 
 17.6.2    However, we may offer you certain financial incentives permitted by the CCPA that can result in different prices, rates, or quality levels. Any CCPA-permitted financial incentive we offer will reasonably relate to your personal information’s value and contain written terms that describe the program’s material aspects. Participation in a financial incentive program requires your prior opt-in consent, which you may revoke at any time. Voxy does not currently offer any incentive programs related to personal information.
 
-### 18           Information for Users residing in Brazil
+### 18 Information for Users residing in Brazil
 
 18.1        This part of the Privacy Policy integrates with and supplements the information contained in the rest of the privacy policy and is provided by the entity running this Application and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
@@ -366,11 +361,14 @@ We may collect personal information from you including, without limitation, non-
 
 We can process your personal information solely if we have a legal basis for such processing, which includes:
 
-i.           your consent to the relevant processing activities;ii.          compliance with a legal or regulatory obligation that lies with us;
+i.           your consent to the relevant processing activities;  
+ii.          compliance with a legal or regulatory obligation that lies with us;
 
 iii.         the carrying out of public policies provided in laws or regulations or based on contracts, agreements and similar legal instruments;
 
-iv.         studies conducted by research entities, preferably carried out on anonymized personal information;v.          the carrying out of a contract and its preliminary procedures, in cases where you are a party to said contract;vi.         the exercising of our rights in judicial, administrative or arbitration procedures;
+iv.         studies conducted by research entities, preferably carried out on anonymized personal information;  
+v.          the carrying out of a contract and its preliminary procedures, in cases where you are a party to said contract;  
+vi.         the exercising of our rights in judicial, administrative or arbitration procedures;
 
 vii.        our legitimate interests, provided that your fundamental rights and liberties do not prevail over such interests; and
 
@@ -404,11 +402,14 @@ We or our third-party tracking utility company also use “web beacons” to col
 
 We may use the information we collect:
 
-i.          To alert you to new features, terms, Content, Services, Activities;ii.         To send emails or newsletters, and to provide you with personalized content in the newsletters;
+i.          To alert you to new features, terms, Content, Services, Activities;  
+ii.         To send emails or newsletters, and to provide you with personalized content in the newsletters;
 
 iii.         To analyze information regarding your browsing and viewing preferences;
 
-iv.         To analyze our users’ demographics and interests;v.          To administer Content, Services or Activities;vi.         To process and respond to your inquiries;
+iv.         To analyze our users’ demographics and interests;  
+v.          To administer Content, Services or Activities;  
+vi.         To process and respond to your inquiries;
 
 vii.        To improve the Site;
 
@@ -455,11 +456,14 @@ Users may exercise certain rights regarding their Data processed by the Owner.
 
 In particular, Users have the right to do the following:
 
-i. Obtain confirmation of the existence of processing activities for your personal information;ii. Withdraw their consent at any time;
+i. Obtain confirmation of the existence of processing activities for your personal information;  
+ii. Withdraw their consent at any time;
 
 iii.          Object to processing of their Data.;
 
-iv.          Access their Data;v.           Verify and seek rectification;vi.         obtain anonymity, block or delete your unnecessary or excess personal information, or information that is not being processed in accordance with the LGPD;
+iv.          Access their Data;  
+v.           Verify and seek rectification;  
+vi.         obtain anonymity, block or delete your unnecessary or excess personal information, or information that is not being processed in accordance with the LGPD;
 
 vii.        Have their Personal Data deleted or otherwise removed;
 
@@ -582,7 +586,7 @@ This cookie policy may be updated from time to time.
 
 If we change anything important about this cookie policy we will notify you through a pop-up on the Site for a reasonable length of time prior to and following the change. You may review the cookie policy by visiting our Site and clicking on the Privacy Policy link.
 
-### 19           Data Privacy Framework Policy Statement of Voxy, Inc
+### 19 Data Privacy Framework Policy Statement of Voxy, Inc
 
 Voxy, Inc (“Voxyi”), and its wholly-owned subsidiaries, complies with the EU-US Data Privacy Framework (EU-US DPF), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (Swiss-US DPF), including the Supplemental Principles, as set forth by the U.S. Department of Commerce (collectively, the “Principles”). Voxy has certified that it adheres to the Principles with respect to its services and the collection, use, and retention of certain Personal Data (as defined below) transferred from the European Union (“EU”), the UK, and Switzerland to Voxy in the United States (“US”). This Policy sets forth the standards under which Voxy will treat such Personal Data. To learn more about the Principles and to view Voxy ’s certifications, please visit: [www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/).
 
@@ -602,7 +606,13 @@ Voxy may be required to disclose Personal Data to the extent required to meet a 
 
 “Sensitive Personal Data” means Personal Data regarding any of the following:
 
-● Racial or ethnic origin; ● Political opinions; ● Religious or philosophical beliefs; ● Trade union membership; ● Genetic data, biometric data processed for the purpose of uniquely identifying a natural person; ● Health or medical condition; or ● Sex life or sexual orientation.
+● Racial or ethnic origin;  
+● Political opinions;  
+● Religious or philosophical beliefs;  
+● Trade union membership;  
+● Genetic data, biometric data processed for the purpose of uniquely identifying a natural person;  
+● Health or medical condition; or  
+● Sex life or sexual orientation.
 
 Voxy does not collect any Sensitive Personal Data.
 
@@ -616,7 +626,7 @@ This Policy applies to the collection, use, and disclosure in the U.S. of Person
 
 **Data Processed**
 
-Voxy collects, uses, and discloses Personal Data of users of Voxy’s own websites and applications, as well as contact information associated with our business customers — such data is processed in accordance with [Voxy ‘s Privacy Statement](https://voxy.com/privacy-policy)
+Voxy collects, uses, and discloses Personal Data of users of Voxy’s own websites and applications, as well as contact information associated with our business customers — such data is processed in accordance with [Voxy ‘s Privacy Statement](https://voxy.com/privacy-policy/)
 
 **Purposes of Data Processing; Disclosure to Third Parties**
 
@@ -650,7 +660,11 @@ Inquiries and complaints relating to Voxy ’s treatment of Personal Data and it
 
 or
 
-Voxy, Inc 64 Bleecker St. #241 New York, NY 10012-2410 (212) 529-7600 Attention: Chief Technical Officer
+Voxy, Inc  
+64 Bleecker St. #241  
+New York, NY 10012-2410  
+(212) 529-7600  
+Attention: Chief Technical Officer
 
 Voxy will respond to any such inquiries or complaints within forty-five (45) days. In the event that Voxy fails to respond or its response is insufficient or does not address the concern, Voxy has registered with American Arbitration Association/International Centre for Dispute Resolution (AAA/ICDP) to provide independent third party dispute resolution at no cost to the complaining party. To contact AAA/ICDP and/or learn more about the company’s dispute resolution services, including instructions for submitting a complaint, please visit: [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html)
 
