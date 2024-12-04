@@ -39,7 +39,7 @@ Shop
     Deals
     
     * [Shop all deals](https://www.verizon.com/deals/)
-    * [Cyber Monday deals](https://www.verizon.com/deals/black-friday/)
+    * [Holiday deals](https://www.verizon.com/deals/black-friday/)
     * [Free phones](https://www.verizon.com/shop/online/free-cell-phones/)
     * [My offers](https://myvpostpay.verizon.com/ui/hub/ao/myoffers#/)
     * [Smartphones](https://www.verizon.com/deals/smartphones/)
@@ -621,7 +621,7 @@ Shop
 * [Mobile + Home discount](https://www.verizon.com/discounts/phone-home-internet-bundle/)
 * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
 * [TracFone](https://www.tracfonewirelessinc.com/)
-* [Cyber Monday deals](https://www.verizon.com/deals/black-friday/)
+* [Holiday deals](https://www.verizon.com/deals/black-friday/)
 
 Top Device Brands
 
