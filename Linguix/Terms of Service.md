@@ -1,6 +1,6 @@
   
 
-![](/banner-views/blackfriday.gif?page=page%2Fterms) **Cyber Monday.**   Get your exclusive offer and benefit throughout the whole year.
+![](/banner-views/blackfriday.gif?page=page%2Fterms) **Limited-time deal!**   Access exclusive reduced pricing
 
 Days
 
