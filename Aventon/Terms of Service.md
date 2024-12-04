@@ -1,6 +1,6 @@
-[Cyber Monday Sale Extended for One Day Only!](https://www.aventon.com/collections/ebikes)
+[NEW Abound SR - with 4G & Theft Deterrent Features. Learn More.](https://www.aventon.com/products/abound-sr-ebike)
 
-——
+— —
 
 View All Offers 3
 
@@ -20,7 +20,7 @@ US/EN
 
 YOUR OFFERS
 
-[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/US_BFCM_Side_Drawer_-_Aventure.png?v=1731626081&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventure2-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-BFCM_f4f041b4-a822-4522-88c8-2f18afcda086.png?v=1731621772&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)
+[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)
 
 [Aventon](https://www.aventon.com/)
 
@@ -157,7 +157,7 @@ YOUR OFFERS
     
     [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/ebikes)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -228,7 +228,6 @@ YOUR OFFERS
     
     [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
     
-* [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 * [COMMUNITY](https://www.aventon.com/blogs/aventon_bikes)
     
     COMMUNITY
@@ -460,7 +459,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/ebikes)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -472,7 +471,7 @@ Open menu
     * [Shop All Accessories](https://www.aventon.com/collections/all-accessories)
     * [Shop All Components](https://www.aventon.com/collections/components)
     
-    * Accessories 30% off select accessories
+    * Accessories
     * Components
     
     * [Air Pumps](https://www.aventon.com/collections/pumps)
@@ -515,9 +514,8 @@ Open menu
     * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
     * [Wheels & Tires](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/ebikes)
+    [![promo](//www.aventon.com/cdn/shop/files/Nav_Drop_Down_Abound_SR.jpg?v=1730234459&width=720)](https://www.aventon.com/products/abound-sr-ebike)
     
-* [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 
 * [SUPPORT](javascript:void(0))
     
