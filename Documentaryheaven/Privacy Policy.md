@@ -128,39 +128,39 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![The Nature of Ayahuasca](/wp-content/thumbnails/16205-100x70.jpg?x53432)
+* [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
-    The Nature of Ayahuasca
+    Pedigree Dogs Exposed
     
-    Ayahuasca is a plant-based psychedelic brew that originated from the South American rainforests. It is made from boiling the Banisteriopsis caapi vine, the Psychotria viridis shrub together, although...](https://documentaryheaven.com/nature-of-ayahuasca/ "The Nature of Ayahuasca")
+    Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
 
 ###### Throwback Documentaries
 
-* [![Dying To Dive](/wp-content/thumbnails/11872-100x70.jpg?x53432)
+* [![Confessions of a Serial Killer: Jeffrey Dahmer](/wp-content/thumbnails/6050-100x70.jpg?x53432)
     
-    Dying To Dive
+    Confessions of a Serial Killer: Jeffrey Dahmer
     
-    Traveling into the abyss on a single breath, they dive into the water with no scuba gear just themselves and their breath, relying only on their own strength and determination. This is the world of fr](https://documentaryheaven.com/dying-to-dive/ "Dying To Dive")
-* [![Little Dieter Needs to Fly](/wp-content/thumbnails/9545-100x70.jpg?x53432)
+    In February 1994, NBC’s Stone Phillips met serial killer Jeffrey Dahmer for his only network television interview. He traveled to the prison with Jeffrey Dahmer’s father, Lionel, and his step-mother,](https://documentaryheaven.com/confessions-of-a-serial-killer-jeffrey-dahmer/ "Confessions of a Serial Killer: Jeffrey Dahmer")
+* [![The Real West](/wp-content/thumbnails/6389-100x70.jpg?x53432)
     
-    Little Dieter Needs to Fly
+    The Real West
     
-    Dieter Dengler was a German-American pilot who was shot down over Laos in February 1st of 1966 during the early phase of the Vietnam war. He himself noted that the only reason he took part in the war](https://documentaryheaven.com/little-dieter-needs-fly/ "Little Dieter Needs to Fly")
-* [![Can We Get Married?](/wp-content/thumbnails/6038-100x70.jpg?x53432)
+    Boom Towns to Ghost Towns Historians explain dirtier, less glamorous side of America’s wild west. A great look into what life was really like in the lawless boom towns.](https://documentaryheaven.com/the-real-west/ "The Real West")
+* [![Do We Really Need the Moon?](/wp-content/thumbnails/5017-100x70.jpg?x53432)
     
-    Can We Get Married?
+    Do We Really Need the Moon?
     
-    Like many couples who have been together for six years and are in their late twenties, Emma Bishop and Ben Marshall are thinking of getting married. But for them, it is not entirely straightforward.](https://documentaryheaven.com/can-we-get-married/ "Can We Get Married?")
-* [![The Coming War on China](/wp-content/thumbnails/16433-100x70.jpg?x53432)
+    The Moon is such a familiar presence in the sky that most of us take it for granted. But what if it wasn’t where it is now? How would that affect life on Earth?Space scientist and lunar fanatic Dr M](https://documentaryheaven.com/do-we-really-need-the-moon/ "Do We Really Need the Moon?")
+* [![Waste = Food](/wp-content/thumbnails/1051-100x70.jpg?x53432)
     
-    The Coming War on China
+    Waste = Food
     
-    The threat of China is becoming big news, the media is beating the drums of war as the world is being primed to regard China as a new enemy. China is building airstrips in the South China Sea on disp](https://documentaryheaven.com/coming-war-on-china/ "The Coming War on China")
-* [![Victorian Farm](/wp-content/thumbnails/3326-100x70.jpg?x53432)
+    As part of THE GREEN, Sundance Channel presents a series of documentary films focusing on timely and pressing environmental issues of the day.Every day natural resources are being rapidly depleted](https://documentaryheaven.com/waste-food/ "Waste = Food")
+* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
     
-    Victorian Farm
+    David Attenborough’s Madagascar
     
-    Historical observational documentary series following a team who live the life of Victorian farmers for a year. Wearing period clothes and using only the materials that would have been available in](https://documentaryheaven.com/victorian-farm/ "Victorian Farm")
+    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
