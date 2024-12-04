@@ -123,9 +123,9 @@
             
             Solution Brief
             
-            ##### LevelBlue Incident Response Retainer for Partners
+            ##### Protect External-Facing Services Against DDoS Attacks and Keep Your Agency Running
             
-            [Learn more](https://cyber.levelblue.com/m/4db9a066c0577202/original/SB-Incident-Response-Retainer-Partners.pdf)
+            [Learn more](https://cyber.levelblue.com/m/66f6e8d3b7a54d12/original/SB-Protect-External-Facing-From-DDOS-Public-Sector.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
