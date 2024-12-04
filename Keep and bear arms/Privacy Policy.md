@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 827 active visitors** | **Wednesday, December 04, 2024** |
+| **You are 1 of 1016 active visitors** | **Wednesday, December 04, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**To have no proud monarch driving over me with his gilt coaches; nor his host of excise-men and tax-gatherers insulting and robbing me; but to be my own master, my own prince and sovereign, gloriously preserving my national dignity, and pursuing my true happiness; planting my vineyards, and eating their luscious fruits; and sowing my fields, and reaping the golden grain: and seeing millions of brothers all around me, equally free and happy as myself. This, sir, is what I long for. -- General Francis Marion, American War of Independence, Georgetown, SC \[Source: 'Marion, The Life of Gen. Francis Marion' by M. L. Weems, Ch.18\]
+ **QUOTES TO REMEMBER**The era of resisting big government is never over. � PAUL GIGOT (1998)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
