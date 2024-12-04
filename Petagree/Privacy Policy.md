@@ -247,15 +247,15 @@ Search results
     
 * [![iGroom Tearless Facial Shampoo - Gallon](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    Quantity  Add to cart
+    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
     ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    2 in stock
+    Out of stock
     
     $64.00
     
-    Quantity  Add to cart
+    [View options](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
 
 * ![](//petagree.com/cdn/shop/t/31/assets/placeholder-pixel_small.png?v=33125877389226915141708617313)
