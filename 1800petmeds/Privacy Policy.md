@@ -4,8 +4,8 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 
       
 
-50% off Your First Autoship  
-Use Code: CYBER50 (Up to $90 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
+New Customers Save 40% With Autoship:  
+Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
 [![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw79ee4aef/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
@@ -204,6 +204,26 @@ Products Education
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw9da0e042/images/banner-category-pawtastic-promo.jpg "promo")](https://www.1800petmeds.com/get-50-off-with-dogday-bogo.html)
     
 
+* [What's New](#)
+    
+    * [Back What's New](#)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw8cc304cf/whats-new-menu-1.png "Dr. Cuddles")
+        
+        ###### ReadyRESCUE
+        
+        A first-response detoxifier.](https://www.1800petmeds.com/dr-cuddles.html)
+    
+
+* [Holiday](#)
+    
+    * [Back Holiday](#)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw19423c73/holiday-menu.png "Team Godwin")
+        
+        ###### My Paws, My Cleats
+        
+        In Partnership with Team Godwin Foundation](https://www.1800petmeds.com/team-godwin.html)
+    
+
 * [Pet health resources](#)
     * [Back Pet health resources](#)
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe901e589/Pet%20Health%20Advice.png "Advice")](https://www.1800petmeds.com/education)
@@ -378,6 +398,26 @@ Navigation [×](javascript:void(0))
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites/default/dw9da0e042/images/banner-category-pawtastic-promo.jpg "promo")](https://www.1800petmeds.com/get-50-off-with-dogday-bogo.html)
     
 
+* [What's New](#)
+    
+    * [Back What's New](#)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw8cc304cf/whats-new-menu-1.png "Dr. Cuddles")
+        
+        ###### ReadyRESCUE
+        
+        A first-response detoxifier.](https://www.1800petmeds.com/dr-cuddles.html)
+    
+
+* [Holiday](#)
+    
+    * [Back Holiday](#)
+    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw19423c73/holiday-menu.png "Team Godwin")
+        
+        ###### My Paws, My Cleats
+        
+        In Partnership with Team Godwin Foundation](https://www.1800petmeds.com/team-godwin.html)
+    
+
 * [Pet health resources](#)
     * [Back Pet health resources](#)
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe901e589/Pet%20Health%20Advice.png "Advice")](https://www.1800petmeds.com/education)
@@ -539,8 +579,10 @@ Due to unusually high call volumes, we are experiencing longer wait times. We si
 
 Mailing Address
 
-420 S Congress Ave. #100  
-Delray Beach, FL 33445
+P.O. Box #6430  
+Delray Beach, FL 33482
+
+**For Prescriptions**, [Click Here](https://www.1800petmeds.com/help.html). 
 
 [Email Us](mailto:customerservice@1800petmeds.com) Live Chat
 
