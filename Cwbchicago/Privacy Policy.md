@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH490999-326x245.jpg)](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Sidi-Mohamed-Abdallahi-326x245.jpg)](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
 
-CTA
+West Rogers Park
 
-### [Cops look for 2 men who mugged victim at Sheridan Red Line station](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+### [Hate crime shooter is found dead inside Cook County jail](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
 
-[November 30, 2024 7:30 PM](https://cwbchicago.com/2024/11)
+[December 1, 2024 3:18 PM](https://cwbchicago.com/2024/12)
 
-Two men who mugged a CTA passenger on the Sheridan Red Line platform are the latest to be featured in a Chicago police bulletin.[](https://cwbchicago.com/2024/11/cops-look-for-2-men-who-mugged-victim-at-sheridan-red-line-station.html "Cops look for 2 men who mugged victim at Sheridan Red Line station")
+Sidi Mohamed Abdallahi, the man accused of targeting Jews, Chicago Police Officers, and paramedics during a shooting spree in West Rogers Park, was found dead at the Cook County jail on Friday afternoon.[](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/07/Sean-Hill-326x245.jpg)](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+[![](https://cwbchicago.com/wp-content/uploads/2024/01/Damian-Bello-Ronald-Benitez-Adrian-Hernandez-326x245.jpg)](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
 
-Gold Coast
+Lower West Side
 
-### [Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+### [2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
 
-[November 30, 2024 6:44 PM](https://cwbchicago.com/2024/11)
+[December 1, 2024 11:19 AM](https://cwbchicago.com/2024/12)
 
-Sean Hill, the incorrigible nuisance arrested 75 times since 2015 and 12 times this year, will not be getting arrested for a while. That’s because a judge finally decided to send him to prison.[](https://cwbchicago.com/2024/11/thumbs-up-neighborhood-pest-arrested-75-times-since-2015-finally-gets-shipped-to-prison.html "Thumbs up! Neighborhood pest, arrested 75 times since 2015, finally gets shipped to prison")
+On the heels of last night’s double shooting involving men who attended a street takeover on the Southwest Side, we decided to check in on a trio of guys who were accused of having guns during an unrelated stunt-driving session late last year. Two had much better outcomes than the third.[](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/10/Jeffery-Brooks-326x245.jpg)](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/BRITTNY-BROWN-326x245.jpg)](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
 
-Bucktown
+Loop
 
-### [Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+### [Woman charged with setting merchandise on fire inside downtown Target store](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
 
-[November 30, 2024 10:28 AM](https://cwbchicago.com/2024/11)
+[December 1, 2024 8:15 AM](https://cwbchicago.com/2024/12)
 
-A Chicago man has been given an 18-year sentence for robbing a Bucktown Verizon store while on parole for robbing a T-Mobile in 2020.[](https://cwbchicago.com/2024/11/chicago-man-gets-18-years-for-robbing-a-verizon-store-while-on-parole-for-robbing-a-t-mobile.html "Chicago man gets 18 years for robbing a Verizon store while on parole for robbing a T-Mobile")
+Prosecutors have charged a woman with setting fire to merchandise inside a downtown Target store. The same location was the scene of another arson fire last year that prosecutors say was designed to be a distraction for a robbery scheme.[](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
 
 Search
 
