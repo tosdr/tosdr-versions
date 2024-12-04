@@ -290,4 +290,4 @@ Mon-Saturday 8am-5pm MST
 
 [Back to Top](#header)
 
-Cyber Monday - Save Up to 50%
+Cyber Monday - Ends Tonight
