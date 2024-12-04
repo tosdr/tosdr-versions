@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-4. 4. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
+4. 4. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
     
-5. 5. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
+5. 5. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
     
 
 Customize
