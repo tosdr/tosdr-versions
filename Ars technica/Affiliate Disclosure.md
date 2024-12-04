@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
     
-3. 3. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
+3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-4. 4. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
+4. 4. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
     
-5. 5. [Elon Musk loses bid to reinstate massive Tesla pay plan, now worth $101B](https://arstechnica.com/tech-policy/2024/12/judge-again-rejects-the-elon-musk-tesla-pay-plan-now-valued-at-101-billion/)
+5. 5. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
     
 
 Customize
