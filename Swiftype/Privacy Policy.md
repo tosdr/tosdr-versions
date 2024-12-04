@@ -77,7 +77,7 @@ Unlock the power of real-time insights with Elastic on your preferred cloud prov
 
 * [Elastic Cloud Serverless](https://www.elastic.co/elasticsearch/serverless)
 * [Elastic Cloud Serverless pricing](https://www.elastic.co/pricing/serverless-search)
-* [Search AI Lake](https://www.elastic.co/generative-ai/search-ai-lake)
+* [Search AI Lake](https://www.elastic.co/cloud/serverless/search-ai-lake)
 
 Solutions
 
@@ -88,7 +88,7 @@ Close panel
 
 Prototype and integrate with LLMs faster using search AI.
 
-* [Search AI Lake](https://www.elastic.co/generative-ai/search-ai-lake)
+* [Search AI Lake](https://www.elastic.co/cloud/serverless/search-ai-lake)
 * [Elastic AI Assistant](https://www.elastic.co/elasticsearch/ai-assistant)
 * [Retrieval Augmented Generation](https://www.elastic.co/enterprise-search/rag)
 
