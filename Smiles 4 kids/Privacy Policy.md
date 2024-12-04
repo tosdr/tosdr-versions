@@ -2,7 +2,7 @@
 
 * [Se Habla Español](# "Spanish")
 
-[![](https://s4kdurango.wpengine.com/wp-content/uploads/2018/09/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
+[![](https://www.smiles4kids4corners.com/wp-content/uploads/2024/12/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
 
 [](https://www.smiles4kids4corners.com/)
 
@@ -23,7 +23,7 @@
     * [Contact](https://www.smiles4kids4corners.com/contact/)
 * [SCHEDULE ONLINE](https://www.appointnow.com/?P=2883&O=152&PT=0)
 
-[![](https://s4kdurango.wpengine.com/wp-content/uploads/2018/09/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
+[![](https://www.smiles4kids4corners.com/wp-content/uploads/2024/12/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
 
 [](https://www.smiles4kids4corners.com/)
 
@@ -248,7 +248,7 @@ Creating Healthy Habits That Last A Lifetime
 
 Schedule Now!
 
-[![](https://s4kdurango.wpengine.com/wp-content/uploads/2018/09/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
+[![](https://www.smiles4kids4corners.com/wp-content/uploads/2024/12/Smiles-4-Kids-logo.png)](https://www.smiles4kids4corners.com/)
 
 [Schedule Online](https://www.appointnow.com/?P=2883&O=152&PT=0)
 
