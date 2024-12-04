@@ -321,7 +321,7 @@ If you have any questions or concerns, please [contact us](https://www.memrise.c
 * [Japanese (Romaji) Course](https://www.memrise.com/en/learn-japanese/japanese-romaji-course)
 * [Japanese (Romaji) Phrasebook](https://www.memrise.com/en/learn-japanese/japanese-romaji-course/phrasebook)
 * [](javascript:;)
-* [](javascript:;)
+* [Learn Somali](https://www.memrise.com/en/learn-somali)
 * [Mexican Spanish Course](https://www.memrise.com/en/learn-spanish/mexican-spanish-course)
 * [Mexican Spanish Phrasebook](https://www.memrise.com/en/learn-spanish/mexican-spanish-course/phrasebook)
 
