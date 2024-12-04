@@ -12,7 +12,7 @@
 
 out of 5 based on
 
-74981
+74988
 
 reviews ![Tanga Reviews](https://assets.reviews.io/img/all-global-assets/logo/reviewsio-logo.svg)](http://www.reviews.io/company-reviews/store/tanga.com?utm_source=tanga.com&utm_medium=widget&utm_campaign=text-banner) 
 
@@ -123,6 +123,8 @@ Never Miss A Sale!
 Subscribe and we'll give you first dibs on all daily deals and sales. We’ll also send coupons for even further discounts.
 
 Subscribe
+
+[Track A Package](https://help.tanga.com/hc/en-us/articles/211368506-How-Can-I-Track-My-Order)[Issue(s) With An Order](https://www.tanga.com/support)[Warranty FAQ](https://help.tanga.com/hc/en-us/articles/211368626-Warranty-Information-and-Technical-Support)
 
 ![customer service](https://assetcdn2.tanga.com/assets/meet-the-team/tangagarrett-4f30cfc1c49205605677058dbd6ac22b1546ea23bf799ce268e1a27a1756c5a8.jpg)
 
