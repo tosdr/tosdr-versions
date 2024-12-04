@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Fantastic service, no problems whatsoever. Thank you! I will renew soon.
+Thank you for providing such an awesome service. It has been VERY VERY helpful to our business this year.
 
-Steve Merchant
+David Acosta
