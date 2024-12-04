@@ -92,7 +92,7 @@ Close
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $4,600.00 – $7,950.00
+    USD $4,600.00 – $5,700.00
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
@@ -242,7 +242,7 @@ Menu
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
-    USD $4,600.00 – $7,950.00
+    USD $4,600.00 – $5,700.00
     
     [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
     
