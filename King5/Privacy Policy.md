@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_360x203.jpg)](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
+    *  [![](https://media.king5.com/assets/KING/images/5dbc413d-ec40-48e9-840f-4ab588084b94/5dbc413d-ec40-48e9-840f-4ab588084b94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5dbc413d-ec40-48e9-840f-4ab588084b94/5dbc413d-ec40-48e9-840f-4ab588084b94_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-city-councilmember-tammy-morales-resigns/281-cd74c21d-416f-44d6-a17a-e7785ebaa635)
         
-        #### [Swifties looking for NW Washington lodging after last-minute hotel cancelations in Vancouver, B.C.](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
+        #### [Morales says she's worried about Seattle City Council's future, announces resignation](https://www.king5.com/article/news/local/seattle/seattle-city-councilmember-tammy-morales-resigns/281-cd74c21d-416f-44d6-a17a-e7785ebaa635)
         
-    *  [![](https://media.king5.com/assets/KING/images/d5fcaf7c-99cb-4b16-9127-84faac733e73/20241202T170635/d5fcaf7c-99cb-4b16-9127-84faac733e73_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5fcaf7c-99cb-4b16-9127-84faac733e73/20241202T170635/d5fcaf7c-99cb-4b16-9127-84faac733e73_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/revive-i-5-ship-canal-bridge-lane-closures/281-94faff71-09af-47bd-8629-eb8d25f55520)
+    *  [![](https://media.king5.com/assets/KING/images/bbe663f8-35aa-47d9-b936-52b5953d6fef/20241116T205130/bbe663f8-35aa-47d9-b936-52b5953d6fef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bbe663f8-35aa-47d9-b936-52b5953d6fef/20241116T205130/bbe663f8-35aa-47d9-b936-52b5953d6fef_360x203.jpg)](https://www.king5.com/article/news/crime/suspects-charged-seattle-armed-robberies-court/281-20186012-5525-4d78-bee2-70e392d4990d)
         
-        #### [NB I-5 reduced to 2 lanes over Ship Canal Bridge for 9 months in 2025](https://www.king5.com/article/traffic/traffic-news/revive-i-5-ship-canal-bridge-lane-closures/281-94faff71-09af-47bd-8629-eb8d25f55520)
+        #### [2 suspects charged in Seattle armed robberies plead not guilty](https://www.king5.com/article/news/crime/suspects-charged-seattle-armed-robberies-court/281-20186012-5525-4d78-bee2-70e392d4990d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_16x9.jpg) ![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
+        
+        #### [Dense Fog Advisory expires after hazardous driving conditions throughout Puget Sound area](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
+        
     *  [![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_16x9.jpg) ![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
-        
-        #### [Dense fog could create hazardous driving conditions throughout the Puget Sound Area](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-34°
+38°
 
-![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
