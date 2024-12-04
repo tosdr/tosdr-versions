@@ -5,7 +5,7 @@
 Menu
 
 * [Products & Services](https://www.forth.com/forth-software-services/)
-    * [Software Consulting Services](https://www.forth.com/software-consultancy/ "Software Consulting Services")
+    * [Software Consulting Services](https://www.forth.com/software-consultancy/)
     * [SwiftX Cross Compilers for Embedded Systems](https://www.forth.com/embedded/)
     * [SwiftForth Development Environment](https://www.forth.com/swiftforth/)
     * [Download Free Evaluation Versions](https://www.forth.com/download/)
