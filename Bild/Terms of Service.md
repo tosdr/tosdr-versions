@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber
-
-Vorfall auf der Ostsee: Russisches Schiff schießt auf Bundeswehr-Hubschrauber](https://www.bild.de/politik/ostsee-zwischenfall-russisches-schiff-schiesst-auf-bundeswehr-hubschrauber-67504d6247fcf1771fc20ba5)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
