@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/big-pharma/hoe-artsen-en-farmaceutische-bedrijven-kunnen-hersenspoelen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/zweden-verplichte-vaccinaties-on-grondwettelijk/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
