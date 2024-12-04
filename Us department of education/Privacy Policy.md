@@ -323,6 +323,12 @@ October 1, 2024
 Related Content
 ---------------
 
+### [Texas State Regulations](https://www2.ed.gov/node/7374)
+
+Texas State Regulations as they relate to private schools and homeschooling.
+
+December 4, 2024
+
 ### [Borrower Defense and Financial Responsibility](https://www2.ed.gov/node/7236)
 
 This Web page contains information about our rulemaking efforts on borrower defenses and financial responsibility.
@@ -334,12 +340,6 @@ November 6, 2024
 Find U.S. Green Ribbon Schools Honorees from 2012 through our most recent awards.
 
 October 24, 2024
-
-### [Negotiated Rulemaking for Higher Education 2018-19](https://www2.ed.gov/node/7211)
-
-This Web page provides the public with background information regarding the Department’s negotiated rulemaking effort to make changes to the regulations for the programs authorized by Title IV of the Higher Education Act of 1965, as amended, in 2018-2019.
-
-October 21, 2024
 
 [Return to top](#)
 
