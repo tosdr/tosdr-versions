@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| A Lot More FreeMax Mcnown<br><br>4:41pm |
-| Wasted On YouMorgan Wallen<br><br>4:37pm |
-| Memory I Don'T Mess WithLee Brice<br><br>4:34pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>4:31pm |
-| Mud On The TiresBrad Paisley<br><br>4:28pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:40pm |
+| World On FireNate Smith<br><br>10:37pm |
+| Pink SkiesZach Bryan<br><br>10:34pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:22pm |
+| I Never LieZach Top<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,11 +360,11 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
@@ -372,9 +372,9 @@ Country • Western
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
-News Talk • Eastern
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
