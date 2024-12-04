@@ -8,10 +8,10 @@
 
 *  
     
-* [Thanksgiving](https://www.motherjones.com/politics/2024/11/enjoy-your-air-travel-this-thanksgiving-next-year-will-be-much-much-worse/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/plastic-pollution-data-oil-chemical-companies-production-waste/)
-* [Dr. Oz](https://www.motherjones.com/politics/2024/11/dr-mehmet-oz-medicare-part-d/)
-* [Linda McMahon](https://www.motherjones.com/politics/2024/11/linda-mcmahon-trump-education-secretary-vouchers-esa-programs-private-schools/)
+* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
+* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
+* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Thanksgiving](https://www.motherjones.com/politics/2024/11/enjoy-your-air-travel-this-thanksgiving-next-year-will-be-much-much-worse/)
-* [Climate Change](https://www.motherjones.com/politics/2024/11/plastic-pollution-data-oil-chemical-companies-production-waste/)
-* [Dr. Oz](https://www.motherjones.com/politics/2024/11/dr-mehmet-oz-medicare-part-d/)
-* [Linda McMahon](https://www.motherjones.com/politics/2024/11/linda-mcmahon-trump-education-secretary-vouchers-esa-programs-private-schools/)
+* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
+* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
+* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
