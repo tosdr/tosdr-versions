@@ -811,18 +811,18 @@ Neueste Tests
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
-* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Weitere Informationen
 
@@ -3865,18 +3865,18 @@ Neueste Tests
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
-* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Weitere spannende Themen
 
@@ -3885,36 +3885,36 @@ Neueste Tests
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
-* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Neueste Tests
 
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
+* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 * [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
-* [Anschluss­finanzierung: So sichern Sie sich einen güns­tigen Anschluss­kredit](https://www.test.de/Anschlussfinanzierung-Kredit-Zinsen-Vergleich-4963970-0/ "Anschlussfinanzierung - So sichern Sie sich einen günstigen Anschlusskredit")
 
 test.de entdecken
 
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
-* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
-* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
-* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
-* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
-* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Stromspeicher für Photovoltaik-Anlagen: Für wen sich ein Akku lohnt – und für wen nicht](https://www.test.de/Stromspeicher-im-Test-5977464-0/ "Stromspeicher für Photovoltaik-Anlagen - Für wen sich ein Akku lohnt – und für wen nicht")
+* [Fest­geld: Augen auf beim Zinseszins](https://www.test.de/Festgeld-Augen-auf-beim-Zinseszins-6045287-0/ "Festgeld - Augen auf beim Zinseszins")
+* [Falsch­geld: Falsche Fuff­ziger müssen Ihnen nicht durch­gehen](https://www.test.de/Falschgeld-So-erkennen-Sie-falsche-Fuffziger-5838483-0/ "Falschgeld - Falsche Fuffziger müssen Ihnen nicht durchgehen")
+* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
+* [Kreuz­fahrten mit Aida, Costa und MSC: Reedereien setzen auf Diesel statt Gas](https://www.test.de/Kreuzfahrten-mit-Aida-Costa-und-MSC-Reedereien-setzen-auf-Diesel-statt-Gas-5967313-0/ "Kreuzfahrten mit Aida, Costa und MSC - Reedereien setzen auf Diesel statt Gas")
 
 Stiftung Warentest
 
