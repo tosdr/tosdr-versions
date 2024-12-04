@@ -305,7 +305,7 @@
 
 [#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Нетесов](https://er.ru/activity/news?tags%5B0%5D=1993) [#Гусев](https://er.ru/activity/news?tags%5B0%5D=9929) [#реконструкция](https://er.ru/activity/news?tags%5B0%5D=2817) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
 
-Сегодня 18:38
+04.12.24
 
 [![«Единая Россия» организовала для социально ориентированных НКО онлайн-встречу с Минэкономразвития](https://cdn.er.ru/media/news/December2024/NWVLLkZIrSjOeJWPFBP8-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-dlya-socialno-orientirovannyh-nko-onlajn-vstrechu-s-minekonomrazvitiya)
 
@@ -313,7 +313,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Илюшникова](https://er.ru/activity/news?tags%5B0%5D=148058) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#онлайн-встреча](https://er.ru/activity/news?tags%5B0%5D=122564) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786)
 
-Сегодня 18:04
+04.12.24
 
 [![«Единая Россия» передала новое оборудование Белоярской районной больнице в Хакасии](https://cdn.er.ru/media/news/December2024/EPktxjsGImAhuPDBgMvf-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-novoe-oborudovanie-beloyarskoj-rajonnoj-bolnice-v-hakasii)
 
@@ -321,7 +321,7 @@
 
 [#Республика Хакасия](https://er.ru/activity/news?tags%5B0%5D=83502) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Сокол](https://er.ru/activity/news?tags%5B0%5D=18524) [#медоборудование](https://er.ru/activity/news?tags%5B0%5D=96556) [#больница](https://er.ru/activity/news?tags%5B0%5D=3441) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
 
-Сегодня 16:00
+04.12.24
 
 [![«Единая Россия» наградила победительниц первого Всероссийского конкурса «Краса ЖКХ»](https://cdn.er.ru/media/news/December2024/ZG7CDrnLX07HwrgsaG71-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-pobeditelnic-pervogo-vserossijskogo-konkursa-krasa-zhkh)
 
@@ -329,7 +329,7 @@
 
 [#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#Абросимова](https://er.ru/activity/news?tags%5B0%5D=48125) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607)
 
-Сегодня 15:28
+04.12.24
 
 [![О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://cdn.er.ru/media/news/December2024/uwEGquRSrSQEjEXW65dM-small.jpg)](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
 
@@ -337,7 +337,7 @@
 
 [#СПО](https://er.ru/activity/news?tags%5B0%5D=39227) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44)
 
-Сегодня 10:00
+04.12.24
 
 [![«Единая Россия» открыла шахматный клуб Сергея Карякина в Реутове Московской области](https://cdn.er.ru/media/news/December2024/JtjJClPc2SdhCXy1CsiJ-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-shahmatnyj-klub-sergeya-karyakina-v-reutove-moskovskoj-oblasti)
 
@@ -345,7 +345,7 @@
 
 [#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#региональнаяобщественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=109456)
 
-Сегодня 09:19
+04.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
