@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 04, 2024](https://www.japantimes.co.jp/archive/2024/12/04/ "archive page")
+[December 05, 2024](https://www.japantimes.co.jp/archive/2024/12/05/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,36 +131,42 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
-  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+
+[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+
+  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
 
 [Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
   [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
-[Trump says will 'block' Nippon Steel from taking over U.S. Steel](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+[Jetstar Japan loses lawsuit over disciplinary action against cabin crew](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-  [![U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437801.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.")](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+  [![Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437761.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-[Japan witnesses warmest fall on record](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
-  [![Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437862.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.")](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+  [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
+
+Editors' Picks
+--------------
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
 [South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
   [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
-Editors' Picks
---------------
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fujioka")  
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -170,23 +176,19 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
   [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Trump says will 'block' Nippon Steel from taking over U.S. Steel](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
-
-  [![U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437801.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.")](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan witnesses warmest fall on record](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+[Jetstar Japan loses lawsuit over disciplinary action against cabin crew](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-  [![Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437862.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.")](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+  [![Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437761.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
-  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
 Podcast
 -------
@@ -207,9 +209,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[U.S. Defense Secretary Austin planning to visit Japan next week](https://www.japantimes.co.jp/news/2024/12/04/japan/defense-austin-visit/ "U.S. Defense Secretary Austin planning to visit Japan next week")
+
+4 hours ago
+
+[Panasonic plant in U.K. to go fully renewable](https://www.japantimes.co.jp/business/2024/12/04/panasonic-uk-plant/ "Panasonic plant in U.K. to go fully renewable")
+
+4 hours ago
+
+[Trump taps team geared toward retribution and remaking of U.S. government](https://www.japantimes.co.jp/news/2024/12/04/world/politics/trump-team-retribution/ "Trump taps team geared toward retribution and remaking of U.S. government")
+
+4 hours ago
+
+[When undersea cables break, a wireless world’s vulnerability is exposed](https://www.japantimes.co.jp/news/2024/12/04/world/cables-under-sea-wireless-vulnerability/ "When undersea cables break, a wireless world’s vulnerability is exposed")
+
+6 hours ago
+
 [Trump considers replacing Hegseth with DeSantis to run Pentagon, report says](https://www.japantimes.co.jp/news/2024/12/04/world/politics/desantis-trump-defense-secretary/ "Trump considers replacing Hegseth with DeSantis to run Pentagon, report says")
 
-29 mins ago
-
-[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
-
-40 mins ago
-
-[Yoon’s gambit a tempest in a teapot for financial markets](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
-
-1 hour ago
-
-[Japanese drug market prices 5.2% lower than official prices](https://www.japantimes.co.jp/business/2024/12/04/drug-market-prices/ "Japanese drug market prices 5.2% lower than official prices")
-
-1 hour ago
-
-[BOJ sells 10-year cash bonds to ease shortage tied to futures](https://www.japantimes.co.jp/business/2024/12/04/economy/boj-bond-sell/ "BOJ sells 10-year cash bonds to ease shortage tied to futures")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
