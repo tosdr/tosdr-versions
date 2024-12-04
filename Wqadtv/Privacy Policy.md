@@ -30,17 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_360x203.jpg)](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
         
-        #### [John Deere Waterloo Works laying off more than 100 employees](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
+        #### [WQAD, iHeartMedia partner for annual Toys for Tots drive](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60) [![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ba86098b-99ed-446f-a5b8-76ca3b84ed4c/20241204T040425/ba86098b-99ed-446f-a5b8-76ca3b84ed4c_360x203.jpg)](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
         
-        #### [More than 100 workers being laid off from John Deere Waterloo Works](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34) [![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5e70c29d-d6b2-4681-891c-9715dde828b9/20241017T030641/5e70c29d-d6b2-4681-891c-9715dde828b9_360x203.jpg)](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
+        #### [WQAD competes with iHeartMedia in annual Toys for Tots collection](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
         
-        #### [John Deere Waterloo Works announces layoffs](https://www.wqad.com/article/news/local/john-deere-waterloo-works-laying-off-employees/526-91b7329f-873d-4048-a296-6657bd737b34)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3c94769-1d2a-411e-bc95-92b21b08bfe3/20241202T195551/e3c94769-1d2a-411e-bc95-92b21b08bfe3_360x203.jpg)](https://www.wqad.com/article/news/local/contests/contest-rules/official-rules-for-the-harlem-globetrotters-ball-kid-sweepstaked/526-c8c97c44-112a-4373-a592-5c3648117ddb)
+        #### [Sudlow Middle School expansion breaks ground](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2) [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
         
-        #### [Official rules for the Harlem Globetrotters Ball Kid Sweepstakes](https://www.wqad.com/article/news/local/contests/contest-rules/official-rules-for-the-harlem-globetrotters-ball-kid-sweepstaked/526-c8c97c44-112a-4373-a592-5c3648117ddb)
+        #### [Davenport school officials break ground on Sudlow Middle School expansion](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2) [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
         
+        #### [An expansion to Davenport's Sudlow Middle School is officially underway. Here's what's in store:](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -59,9 +60,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/49366a65-91b3-4b95-9092-e6837f3b7c03/20241203T130418/49366a65-91b3-4b95-9092-e6837f3b7c03_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/49366a65-91b3-4b95-9092-e6837f3b7c03/20241203T130418/49366a65-91b3-4b95-9092-e6837f3b7c03_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/88ce71e5-058a-40b9-9e91-5a16cbcfc73b/20241204T033134/88ce71e5-058a-40b9-9e91-5a16cbcfc73b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/88ce71e5-058a-40b9-9e91-5a16cbcfc73b/20241204T033134/88ce71e5-058a-40b9-9e91-5a16cbcfc73b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Gusty winds return as the cold continues Tuesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert for later Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
         
@@ -89,9 +90,9 @@ Navigation
 
 Davenport, IA »
 
-26°
+25°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
