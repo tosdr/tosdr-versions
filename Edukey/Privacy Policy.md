@@ -36,7 +36,7 @@ International schoolsUK editionAustralia edition
         
     * Safeguarding and compliance
         
-        * [Tes Safeguarding Training Powered by Educare](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
+        * [Tes Safeguarding Training Safeguarding training](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
             
         * [Tes MyConcern Safeguarding software for schools](https://www.edukey.co.uk/en-gb/for-schools/myconcern)
             
