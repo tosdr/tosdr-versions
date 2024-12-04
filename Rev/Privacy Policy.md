@@ -56,7 +56,7 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [Explore VoiceHub](https://www.rev.com/services/voicehub)
 
-[Services](#)[For Business](#)[Pricing](https://www.rev.com/pricing)
+[Services](#)[For Business](#)[Blog](https://www.rev.com/blog)[Pricing](https://www.rev.com/pricing)
 
 [Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)[Login](https://www.rev.com/app)
 
