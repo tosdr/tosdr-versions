@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
+    
+    [Eniac Flexbar Revives the Touch Bar as a PC Peripheral](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
+    -----------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/msi-claw-8-ai-and-7-ai-aming-handheld-better-performance/)
+    
+    [MSI Claw 8 AI+ and 7 AI+ Reboots the Outfit’s Gaming Handheld for Overall Better Performance](https://www.coolthings.com/msi-claw-8-ai-and-7-ai-aming-handheld-better-performance/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dartsnut-pixeldarts-electronic-dart-game-raspberry-pi-nerf-blasters/)
     
     [Dartsnut Pixeldarts Modernizes the Dart Game with More Versatile Gameplay Options](https://www.coolthings.com/dartsnut-pixeldarts-electronic-dart-game-raspberry-pi-nerf-blasters/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dji-mic-mini-transmitter-receiver-smaller-lighter-package/)
-    
-    [DJI Mic Mini Shrinks the DJI Mic 2 Into a Smaller, Lighter Package](https://www.coolthings.com/dji-mic-mini-transmitter-receiver-smaller-lighter-package/)
-    -----------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/boya-mini-wireless-lapel-mic-worlds-tiniest-microphone/)
-    
-    [BOYA Mini Shrinks the Wireless Lapel Mic into a Tiny Nub](https://www.coolthings.com/boya-mini-wireless-lapel-mic-worlds-tiniest-microphone/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
