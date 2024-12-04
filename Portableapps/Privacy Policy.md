@@ -28,7 +28,7 @@ Main menu
 
 New: [Run-Command](https://portableapps.com/news/2024-12-02--run-command-portable-6.22-released) (Dec 2, 2024), [Platform 29.5.3](https://portableapps.com/news/2024-06-27--portableapps.com-platform-29.5.3-released) (Jun 27, 2024)  
 [1,100+ portable packages](https://portableapps.com/apps), 1.1 billion downloads  
-**[No Ads November](https://portableapps.com/news/2024-11-07--no-ads-november-2024)!**, Please [donate today](https://portableapps.com/donate)
+**[No Ads Nov/Dec](https://portableapps.com/news/2024-11-07--no-ads-november-2024)!**, Please [donate today](https://portableapps.com/donate)
 
 Privacy and Cookie Policy
 =========================
