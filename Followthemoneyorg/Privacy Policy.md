@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
+[![2013 Elections Overview](/assets/Images/teasers/small/LegCandbyStatus.png)](http://www.followthemoney.org/research/institute-reports/2013-elections-overview/)
+
+Successful incumbent candidates dominated 2013 fundraising.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
