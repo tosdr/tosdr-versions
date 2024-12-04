@@ -218,7 +218,7 @@ PO Box 737,
 
 Gosford NSW 2250
 
-[\[email protected\]](https://www.reptilepark.com.au/cdn-cgi/l/email-protection)
+lvella@reptilepark.com.au
 
 ### Opting out
 
@@ -226,7 +226,7 @@ You may occasionally receive promotional emails and we hope you will find these 
 
 ### Contact us
 
-We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement please contact us by email at [\[email protected\]](https://www.reptilepark.com.au/cdn-cgi/l/email-protection), or by mail addressed to:
+We take the privacy of your information seriously and it is important that you understand how we manage your personal information. If you have any questions or comments in relation to this Privacy Policy Statement please contact us by email at lvella@reptilepark.com.au, or by mail addressed to:
 
 Privacy Officer
 
@@ -236,7 +236,7 @@ PO Box 737
 
 Gosford NSW 2250
 
-[\[email protected\]](https://www.reptilepark.com.au/cdn-cgi/l/email-protection)
+lvella@reptilepark.com.au
 
 You should provide us with as much detail as possible about the particular information sought, in order to help us retrieve it.
 
@@ -275,7 +275,7 @@ Open daily from 9am - 5pm (except Christmas Day)
 
 ###### Contact Us
 
-[\[email protected\]](https://www.reptilepark.com.au/cdn-cgi/l/email-protection)
+[admin@reptilepark.com.au](mailto:admin@reptilepark.com.au)
 
 [02 4340 1022](tel:+610243401022)
 
