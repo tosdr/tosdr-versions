@@ -1,12 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-EXTENDED CYBER MONDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/cyber-monday-deals)
+HOLIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
 
-GIFT WITH PURCHASE: Save $100 off SoundLink Max and get a free Rope Carrying Strap. [Buy now](https://www.bose.com/SLMAX-SPEAKERWIRELESS.html?dwvar_SLMAX-SPEAKERWIRELESS_color=BLUE+DUSK&quantity=1)
+New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.com/c/exclusives)
 
-EXCLUSIVE COLOR DROP: Ultra Open Earbuds are now available in Sandstone. [Shop](https://www.bose.com/c/exclusives)
+My Bose Members, get a Holiday Bonus Card for future orders with every product purchase above $100. [Learn more](https://www.bose.com/holiday-bonus-card)
 
-Stress-free shopping | 90-day return policy | Holiday Price Match Promise [Learn how](https://www.bose.com/buy-direct-from-bose)
+A premium touch: Enjoy a complimentary gift box on select orders, only at Bose.com. [Shop](https://www.bose.com/c/holiday-sale)
 
 [Cancel](#)
 
@@ -14,7 +14,7 @@ Back
 
 * [Holiday](#)
     
-    * [New! Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals)
+    * [Holiday Deals](https://www.bose.com/c/holiday-sale)
     * [Gift Guide](https://www.bose.com/holiday-gift-guide)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
     * [Gift Sets](https://www.bose.com/c/sets)
@@ -22,23 +22,23 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
+    [![](https://assets.bosecreative.com/m/3d8f325140620470/webimage-SF_NavFlyout_Holiday_Gifting-2_Cross-Cat_Mobile.png)
     
-    ### Cyber Monday extended](https://www.bose.com/c/cyber-monday-deals "SHOP")
+    ### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
     
      
     
-    Cyber Monday Deals extended
-    ---------------------------
+    Ace the gift game
+    -----------------
     
-    Hurry and get up to 40% off holiday favorites before the sale ends.
+    Score up to 40% off holiday favorites. Hurry, deals won’t last long!
     
-    [SHOP](https://www.bose.com/c/cyber-monday-deals "SHOP")
+    [SHOP](https://www.bose.com/c/holiday-sale "SHOP")
     
 
 * [Shop](#)
     
-    * [New! Cyber Monday Deals](https://www.bose.com/c/cyber-monday-deals)
+    * [Holiday Deals](https://www.bose.com/c/holiday-sale)
     * [New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Headphones](https://www.bose.com/c/headphones)
     * [Earbuds](https://www.bose.com/c/earbuds)
@@ -58,6 +58,7 @@ Back
     
     * [All New & Exclusive](https://www.bose.com/c/new-arrivals)
     * [Exclusive Drops](https://www.bose.com/c/exclusives)
+    * [Chilled Lilac Collection](https://www.bose.com/c/chilled-lilac-collection)
     * [Diamond Collection](https://www.bose.com/c/60th-anniversary-diamond-collection)
     * [Lunar Blue Collection](https://www.bose.com/c/lunar-blue-collection)
     * [Sandstone Collection](https://www.bose.com/c/sandstone-collection)
@@ -108,20 +109,20 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/4199bd75035100f/webimage-SF_NavFlyout_Holiday_Turkey-6_UOE-Sandstone_Mobile.png)
+    [![](https://assets.bosecreative.com/m/75a878069bfe193b/webimage-SF_NavFlyout_Holiday_Gifting-2_QCE_Mobile.png)
     
-    Exclusive Color Drop
+    Featured Deal
     
-    ### Get it in Sandstone](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SANDSTONE&quantity=1 "BUY NOW")
+    ### QuietComfort Earbuds](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
     
      
     
-    Extended Cyber Monday Deal
-    --------------------------
+    Stocking stuffer
+    ----------------
     
-    Save $50 off Sandstone Ultra Open Earbuds.
+    Give personal sound with $50 off QuietComfort Earbuds.
     
-    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=SANDSTONE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -189,9 +190,9 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/78dd9abd99af0a8d/webimage-SF_NavFlyout_Holiday_Turkey-6_Cross-cat_Mobile.png)
+[![](https://assets.bosecreative.com/m/3d8f325140620470/webimage-SF_NavFlyout_Holiday_Gifting-2_Cross-Cat_Mobile.png)
 
-### Cyber Monday extended](https://www.bose.com/c/cyber-monday-deals "SHOP")
+### Shop Holiday Deals](https://www.bose.com/c/holiday-sale "SHOP")
 
 [![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
