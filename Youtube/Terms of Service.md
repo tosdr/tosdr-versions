@@ -10,10 +10,6 @@
 Terms of Service
 ================
 
-#### 
-
-Effective as of December 15, 2023 | [View previous version](https://www.youtube.com/t/terms?archive=20220105) | [Download PDF](https://yt-terms.static.usercontent.goog/pdf/terms/20231215/en_us_20231215.pdf)
-
 **What’s in these terms?**
 ==========================
 
@@ -276,3 +272,5 @@ In these terms, “include” or “including” means “including but not limi
 **Limitation on Legal Action**
 
 YOU AND YOUTUBE AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
+
+#### Effective as of December 15, 2023 ([view previous version](https://www.youtube.com/t/terms?archive=20220105))
