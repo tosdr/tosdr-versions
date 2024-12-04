@@ -7,7 +7,7 @@ Daily**Writing**Tips
 
 [Popular](https://www.dailywritingtips.com/popular/)
 
-[**Join**](https://www.dailywritingtips.com/step/dwt-tw/) [**Log In**](https://www.dailywritingtips.com/my-account) [**My Account**](https://www.dailywritingtips.com/my-account)
+[**Join**](https://www.dailywritingtips.com/step/dwt-tw/)[**Log In**](https://www.dailywritingtips.com/my-account)[**My Account**](https://www.dailywritingtips.com/my-account)
 
 Privacy Policy
 ==============
