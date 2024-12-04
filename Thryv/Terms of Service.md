@@ -4,7 +4,7 @@
 
 ![Logo for Thryv small business software](/media/thryv-main-logo-color.png)](https://www.thryv.com/)
 
-* * [Products](https://www.thryv.com/)
+* * [Products](#)
         
         * * [MARKETING CENTER](https://www.thryv.com/marketing-center/)
                 
@@ -44,7 +44,7 @@
             
         
     * [Pricing](https://www.thryv.com/pricing/)
-    * [Industries](https://www.thryv.com/industries/)
+    * [Industries](#)
         
         * * HOME SERVICES
                 
@@ -71,7 +71,7 @@
         * [See all Thryv's Industries](https://www.thryv.com/industries)
             
         
-    * [Resources](https://www.thryv.com/)
+    * [Resources](#)
         
         * * RESOURCES
                 
