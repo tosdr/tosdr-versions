@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2023/04/CITlocal-WebImage-1200x800_belgium-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/SP-Webinar-Testing-PCI-Compliance-300x200.jpg)
     
-    Kaseya + Datto Connect Local :: GENT (Belgium)
+    PCI Compliance: Preventing Cyber Liability Denials and Costly Fines
     
-    December 3
+    December 4
     
     [View All Events](https://www.kaseya.com/events/)
     
