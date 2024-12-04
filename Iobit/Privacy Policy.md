@@ -2,9 +2,9 @@
 
 PC Health Solution](https://www.iobit.com/en/index.php)
 
-*  [![Black Friday](../tpl/images/2022blackfriday/nav_icon.png) ![Black Friday](../tpl/images/2022blackfriday/nav_icon_hover.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfs)
+*  [![Christmas](../tpl/images/2024/christmas/nav_sale_icon.png) ![Christmas ](../tpl/images/2024/christmas/nav_sale_icon_hover.png)](https://purchase.iobit.com/en/sale/christmassale.php?ref=navi_iconxs)
     
-    [![Time-Limited 90% OFF >](../tpl/images/2024/blackfriday/nav_off_icon.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=navi_iconbfd)
+    [Christmas GIFT is here](https://purchase.iobit.com/en/sale/christmassale.php?ref=navi_iconxg)
     
 * [Partner](https://www.iobit.com/en/partnersolutions.php)
 * Support
@@ -152,4 +152,8 @@ PC Health Solution](https://www.iobit.com/en/index.php)
     
 * Store
     
-    [**Get It Now** ![83% OFF](../tpl/images/2024/blackfriday/header_store_banner_en.png)](https://purchase.iobit.com/en/sale/blackfridaysale.php?ref=store_menu)
+    [It's the **Last Chance to Save Big** this year. Get complete PC solutions with a single click.
+    
+    View More>>
+    
+    ![83% OFF](../tpl/images/2024/christmas/header_store_banner_en.png)](https://purchase.iobit.com/en/sale/christmassale.php?ref=store_menu)
