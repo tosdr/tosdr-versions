@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-zwendel-doorgelicht-voor-2009-en-2010/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/pleidooi-voor-biologische-kankerbestrijding/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
