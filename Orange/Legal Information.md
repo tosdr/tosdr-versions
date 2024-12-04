@@ -33,7 +33,7 @@
     
       [Integrated Annual Report](https://rai.orange.com/en/)
     
-      [Non-financial reporting](https://www.orange.com/en/non-financial-reporting)
+      [Non-financial reporting](https://www.orange.com/en/non-financial-information)
     
       [CSR media library](https://gallery.orange.com/rse#lang=en&v=root)
     
@@ -111,13 +111,13 @@
             * [Share, Dividend and Consensus](https://www.orange.com/en/finance/investors/share-and-consensus)
         
     
-      [Financial calendar](https://www.orange.com/en/information-meetings)
+      [Financial calendar](https://www.orange.com/en/financial-calendar)
     
       [Finance Library](https://gallery.orange.com/finance#lang=en&v=root)
     
-      [Integrated Annual Reports](https://www.orange.com/en/integrated-annual-reports)
+      [Integrated Annual Reports](https://www.orange.com/en/our-integrated-annual-report)
     
-      [Contacts](https://www.orange.com/en/contacts)
+      [Contacts](https://www.orange.com/en/investors-contacts)
     
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
