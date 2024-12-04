@@ -7,9 +7,9 @@ Unity Website & Communities
 
 **Additional Terms**
 
-Last updated: February 27, 2024
+**Last updated**: December 4, 2024
 
-What’s changed: We have updated our Unity Website & Communities Terms. The changes include updating Section 2 (User Content) to clarify the definition of children as per the applicable laws, as well as specifying the inclusion of our Content Transparency page in compliance with the Digital Services Act. We invite you to carefully review the updated Terms. The previous version of the Software Terms is accessible [here](https://unity.com/legal/terms-of-service/site-and-communities-legacy).  
+**What’s changed:** We updated our Unity Website & Communities Additional Terms for clarity. Updates include incorporating Section 8, which was originally part of the Unity Community Code of Conduct. Please review the full text of the updated Website & Communities Terms. You can view the prior version of our Website & Communities Additional Terms [here](https://unity.com/legal/terms-of-service/site-and-communities-legacy).  
 
 Except to the extent expressly provided otherwise at the Site, your use of the Site and/or Communities is subject to these Additional Terms (the “**Site Terms**”), which supplement and incorporate the [Unity Terms of Service](https://unity3d.com/legal/terms-of-service). By accessing the Site and/or Communities in any manner, you represent and affirm that you have read, understand and agree to be legally bound by and comply with these Site Terms. If you do not agree with these Site Terms, you are not authorized to use the Materials in any manner.
 
@@ -77,7 +77,14 @@ UNITY MAKES NO WARRANTY REGARDING THE QUALITY, ACCURACY, TIMELINESS, TRUTHFULNES
 
 YOU ARE SOLELY RESPONSIBLE FOR ALL OF YOUR COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF THE SITE OR COMMUNITIES AND WITH OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE SITE OR COMMUNITIES. YOU UNDERSTAND THAT UNITY DOES NOT SCREEN OR INQUIRE INTO THE BACKGROUND OF ANY USERS OF THE SITE OR COMMUNITIES, NOR DOES UNITY MAKE ANY ATTEMPT TO VERIFY THE STATEMENTS OF USERS OF THE SITE OR COMMUNITIES. UNITY MAKES NO REPRESENTATIONS OR WARRANTIES AS TO THE CONDUCT OF USERS OF THE SITE OR COMMUNITIES OR THEIR COMPATIBILITY WITH ANY CURRENT OR FUTURE USERS OF THE SITE OR COMMUNITIES. YOU AGREE TO TAKE REASONABLE PRECAUTIONS IN ALL COMMUNICATIONS AND INTERACTIONS WITH OTHER USERS OF THE SITE OR COMMUNITIES AND WITH OTHER PERSONS WITH WHOM YOU COMMUNICATE OR INTERACT AS A RESULT OF YOUR USE OF THE SITE OR COMMUNITIES, PARTICULARLY IF YOU DECIDE TO MEET OFFLINE OR IN PERSON.
 
-**8\. Definitions.**
+**8\.** Transactions and Contracts
+----------------------------------
+
+Any work acquired here is done entirely at your own risk, this is a public community on the internet so be cautious.
+
+Unity is not responsible for issues or disputes arising from transactions, contracts, or arrangements formed by recruitment in the Unity Community. The Support and Community Teams are not legally trained and cannot offer you advice or resolution. When in doubt, get professional legal counsel.
+
+**9\. Definitions.**
 --------------------
 
 1. “**Feedback**” means the feedback, comments and suggestions for improvements to the Site and Communities that you provide to Unity.
