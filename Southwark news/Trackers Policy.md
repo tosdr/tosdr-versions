@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
+    
+    ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
+    
+    [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
+    
+    ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
+    
+    [![Join the mass karaoke event!](https://southwarknews.co.uk/wp-content/uploads/2024/12/Miracle-on-Leake-Street-4-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
+    
+    ### [Free Christmas street party at Waterloo’s graffiti tunnel returns with mass karaoke](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
+    
     [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
     
     ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
@@ -43,19 +55,6 @@
     [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
     
     ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-    
-    [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-    
-    ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-    
-    [![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
-    CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-360x180.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-    
-    ### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-    
-    [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-    
-    ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
+    
+    ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
+    
+    [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
+    
+    ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
+    
+    [![Join the mass karaoke event!](https://southwarknews.co.uk/wp-content/uploads/2024/12/Miracle-on-Leake-Street-4-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
+    
+    ### [Free Christmas street party at Waterloo’s graffiti tunnel returns with mass karaoke](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
+    
     [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
     
     ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
@@ -129,19 +140,6 @@ View All Result
     [![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-360x180.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
     
     ### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-    
-    [![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-    
-    ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-    
-    [![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
-    CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-360x180.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-    
-    ### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-    
-    [![A bus shelter in Peckham. Credit: TfL](https://southwarknews.co.uk/wp-content/uploads/2024/12/9ef42d8aa23644438fa22851473ecfd6-360x180.jpg)](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
-    
-    ### [Bus stops fitted with CCTV cameras as TfL ‘takes a stand’ on violence against women and girls](https://southwarknews.co.uk/area/south-london/bus-stops-fitted-with-cctv-cameras-as-tfl-takes-a-stand-on-violence-against-women-and-girls/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -233,19 +231,19 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
-[![Hutchinson limps off the field against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/S-Hutchinson-2828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-### [Millwall duo set for scan after limping off against Oxford United](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-[30th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
 ### Featured Articles
 
 [![The Albin and Sons Memorial Service](https://southwarknews.co.uk/wp-content/uploads/2024/12/Albin-and-Sons-memorial-service-2023-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
 
-### [Acclaimed funeral directors to host heartwarming annual Christmas service tomorrow](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
+### [Acclaimed funeral directors to host heartwarming annual Christmas service this evening](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
 
-[3rd December 2024](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
+[4th December 2024](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
 
 [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
