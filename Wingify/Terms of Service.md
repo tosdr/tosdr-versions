@@ -194,7 +194,7 @@
     
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/og-image-8-Best-Customer-Journey-Mapping-Tools_-Top-Picks-1.jpg?tr=w-60,h-50)
     
-    Top Customer Journey Mapping Tools: Features, Pricing & More](https://vwo.com/blog/customer-journey-mapping-tools/)
+    8 Top Customer Journey Mapping Tools: Features, Pricing & More](https://vwo.com/blog/customer-journey-mapping-tools/)
     
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Introducing-the-New-Stats-Engine-and-Enhanced-VWO-Reports.jpg?tr=w-60,h-50)
     
