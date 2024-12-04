@@ -130,6 +130,18 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/scrooged-2/)
+    
+    [Scrooged!](https://www.conservativedailynews.com/2024/12/scrooged-2/)
+    
+    December 4, 2024
+    
+* [![Shopping Gift Christmas](https://www.conservativedailynews.com/wp-content/uploads/2023/11/Depositphotos_172824082_S-220x150.jpg)](https://www.conservativedailynews.com/2024/12/last-minute-holiday-gifts/)
+    
+    [Last-Minute Holiday Gifts](https://www.conservativedailynews.com/2024/12/last-minute-holiday-gifts/)
+    
+    December 4, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
     
     [Judge Accused Of ‘Willful Misconduct’ For Allegedly Allowing Illegal Migrant To Flee Courtroom](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
@@ -166,21 +178,12 @@ Recent Posts
     
     December 3, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/10/church-220x150.jpg)](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
-    
-    [Religious Leaders See A ‘Fourth Great Awakening’ As Americans Flock To Christianity](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
-    
-    December 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/09/wp1816998-donald-trump-wallpapers.jpg)](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
-    
-    [Trump, not even in Office Yet, already More Effective than the Biden-Harris Administration](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
-    
-    December 3, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Second Amendment Advocates Urge Trump To Pick Pro-Gun ATF Director](https://www.thegunpage.com/second-amendment-advocates-urge-trump-to-pick-pro-gun-atf-director/10612276)
+* [Florida high school suspends student for 3 shell casings](https://www.thegunpage.com/florida-high-school-suspends-student-for-3-shell-casings/10612274)
+* [Review: Glock G17L Gen5 MOS](https://www.thegunpage.com/review-glock-g17l-gen5-mos/10612273)
 * [TFB Review: Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/tfb-review-springfield-armory-echelon-4-0c-9mm/10612269)
 * [POTD: Foreign Weapons For U.S. Air Commandos](https://www.thegunpage.com/potd-foreign-weapons-for-u-s-air-commandos/10612270)
 * [HOT GAT or FUDD CRAP? Multi-tool or Acting a Fool?](https://www.thegunpage.com/hot-gat-or-fudd-crap-multi-tool-or-acting-a-fool/10612271)
@@ -188,9 +191,6 @@ Recent Posts
 * [Affordable Versatility: Exploring the .300 Blackout’s Potential with a Budget Bolt Gun and LPVO](https://www.thegunpage.com/affordable-versatility-exploring-the-300-blackouts-potential-with-a-budget-bolt-gun-and-lpvo/10612262)
 * [Bergara Offers Barreled Actions And Bare Actions](https://www.thegunpage.com/bergara-offers-barreled-actions-and-bare-actions/10612265)
 * [GOA Nominated for Two Gundies at SHOT Show](https://www.thegunpage.com/goa-nominated-for-two-gundies-at-shot-show/10612261)
-* [Jewish Teens In Dallas Speak Out About Gun Ownership](https://www.thegunpage.com/jewish-teens-in-dallas-speak-out-about-gun-ownership/10612259) 
-* [Pennsylvania State Police SERT Selects Geissele MK1MOD0](https://www.thegunpage.com/pennsylvania-state-police-sert-selects-geissele-mk1mod0/10612266)
-* [Louisiana AG, New Orleans Police Superintendent Spar Over Carry Law](https://www.thegunpage.com/louisiana-ag-new-orleans-police-superintendent-spar-over-carry-law/10612254)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
