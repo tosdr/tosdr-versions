@@ -193,6 +193,22 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/12/pentips-3-first-impressions-main.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
+
+[](https://theinspirationgrid.com/editorial/hands-on-with-pentips-3-my-early-impressions/)
+
+### Hands-On with PenTips 3: My Early Impressions
+
+![](https://inspgr.id/app/uploads/2024/11/ayaneo-pocket-micro-review-feature.jpg)
+
+[Gaming](https://theinspirationgrid.com/category/gaming/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+
+[](https://theinspirationgrid.com/editorial/ayaneo-pocket-micro-review-a-gorgeous-little-gaming-powerhouse/)
+
+### AYANEO Pocket Micro Review: A Gorgeous Little Gaming Powerhouse
+
 ![](https://inspgr.id/app/uploads/2024/12/jsaux-transparent-rgb-backplate-feature.jpg)
 
 [Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
@@ -208,22 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/the-best-christmas-fonts-for-your-merry-projects/)
 
 ### The Best Christmas Fonts for Your Merry Projects
-
-![](https://inspgr.id/app/uploads/2024/11/editorial-pentips-fuzzy-review-feature.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
-
-[](https://theinspirationgrid.com/editorial/pentips-fuzzy-review-a-paintbrush-for-your-ipad/)
-
-### PenTips Fuzzy Review: A Paintbrush for your iPad
-
-![](https://inspgr.id/app/uploads/2024/11/black-friday-2024-feature-new.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Gaming](https://theinspirationgrid.com/category/gaming/)
-
-[](https://theinspirationgrid.com/editorial/these-are-the-best-black-friday-deals-of-2024/)
-
-### These are the Best Black Friday Deals of 2024
 
 #want
 -----
