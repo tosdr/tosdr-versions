@@ -194,4 +194,4 @@ Licenses: All visualizations, data, and articles produced by Our World in Data a
 
 Please consult our full [legal disclaimer](https://ourworldindata.org/about#legal).
 
-[![Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.png)](https://global-change-data-lab.org/)Our World In Data is a project of the [Global Change Data Lab](https://global-change-data-lab.org/), a registered charity in England and Wales (Charity Number 1186433).
+Our World In Data is a project of the [Global Change Data Lab](https://global-change-data-lab.org/), a registered charity in England and Wales (Charity Number 1186433).[![Global Change Data Lab logo](https://ourworldindata.org/gcdl-logo.png)](https://global-change-data-lab.org/)
