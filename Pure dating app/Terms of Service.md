@@ -11,24 +11,25 @@ CONTENTS
 * 5[Your account credentials, your interactions with other Users](#your-account-credentials-your-interactions-with-other-users)
 * 6[Guidelines and prohibited conduct](#guidelines-and-prohibited-conduct)
 * 7[Content submitted by Users](#content-submitted-by-users)
-* 8[AI-driven chatbot “Goddess”](#ai-driven-chatbot-goddess)
-* 9[PURE subscription, subscription cancellation, payments](#pure-subscription-subscription-cancellation-payments)
-* 10[Third-party sites, products, and services](#third-party-sites-products-and-services)
-* 11[Modifying PURE, termination and the appeal](#modifying-pure-termination-and-the-appeal)
-* 12[Disclaimers](#disclaimers)
-* 13[Limitation of liability](#limitation-of-liability)
-* 14[Indemnification](#indemnification)
-* 15[Severability](#severability)
-* 16[Waiver](#waiver)
-* 17[Notices](#notices)
-* 18[Assignment](#assignment)
-* 19[Survival](#survival)
-* 20[Entire Agreement](#entire-agreement)
-* 21[Governing law](#governing-law)
-* 22[Jurisdiction](#jurisdiction)
-* 23[Reporting Claims of Copyright Infringement](#reporting-claims-of-copyright-infringement)
-* 24[Privacy Policy](#privacy-policy)
-* 25[Contact](#contact)
+* 8[Photo Verified](#photo-verified)
+* 9[AI-driven chatbot “Goddess”](#ai-driven-chatbot-goddess)
+* 10[PURE subscription, subscription cancellation, payments](#pure-subscription-subscription-cancellation-payments)
+* 11[Third-party sites, products, and services](#third-party-sites-products-and-services)
+* 12[Modifying PURE, termination and the appeal](#modifying-pure-termination-and-the-appeal)
+* 13[Disclaimers](#disclaimers)
+* 14[Limitation of liability](#limitation-of-liability)
+* 15[Indemnification](#indemnification)
+* 16[Severability](#severability)
+* 17[Waiver](#waiver)
+* 18[Notices](#notices)
+* 19[Assignment](#assignment)
+* 20[Survival](#survival)
+* 21[Entire Agreement](#entire-agreement)
+* 22[Governing law](#governing-law)
+* 23[Jurisdiction](#jurisdiction)
+* 24[Reporting Claims of Copyright Infringement](#reporting-claims-of-copyright-infringement)
+* 25[Privacy Policy](#privacy-policy)
+* 26[Contact](#contact)
 
 ### PURE'S TERMS AND CONDITIONS
 
@@ -121,8 +122,9 @@ The License and any authorization to access and use PURE and/or download the PUR
 * post, store, transmit or in any way disseminate, or allow, whether knowingly or not, the transmission or dissemination of any material which is intentionally misleading, false, or otherwise inappropriate, regardless of whether this material or its dissemination is unlawful;
 * post, store, transmit or in any way disseminate or allow, whether knowingly or not, the transmission or dissemination of any material which infringes any patent, design, trademark, copyright, or any other proprietary or intellectual property right;
 * use PURE or attempt to use PURE for tracking, locating, navigating, or controlling any person, vehicle or other equipment or machinery, other than locating another User in the course of the bona fide use of the App in accordance with its intended purpose as set out in the Agreement;
-* use PURE or attempt to use PURE with any products, systems, or applications installed or otherwise connected to or in communication with vehicles of any sort; or
-* use PURE in connection with hazardous environments requiring fail-safe performance or any application in which the failure or inaccuracy of that application or of PURE could lead directly to death, personal injury, or severe physical or property damage.
+* use PURE or attempt to use PURE with any products, systems, or applications installed or otherwise connected to or in communication with vehicles of any sort;
+* use PURE in connection with hazardous environments requiring fail-safe performance or any application in which the failure or inaccuracy of that application or of PURE could lead directly to death, personal injury, or severe physical or property damage; or
+* deceive or attempt to deceive the Photo Verified feature with images that are heavily altered, filtered, or otherwise do not represent their true likeness, including photos of other individuals, digital simulations, non-human faces, or attempting to manipulate it through the use of software, other devices, artificial intelligence, or any other means that could compromise the accuracy of the facial recognition technology. You should not suggest or imply, nor are you permitted to mislead other Users regarding the purpose, limitations, or legal implications of the Photo Verified feature. Participation in the Photo Verified feature is entirely optional and does not result in formal verification or carry any legal consequences.
 
 For users located in India, if you have any grievances or complaints with regard to any content published on PURE, please contact our Grievance Officer Julija Orekhova, HM, by writing to [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection).
 
@@ -148,15 +150,23 @@ To the extent permitted by applicable law, we assume no responsibility in connec
 
 These submissions will be anonymized and stripped of personal information to protect your privacy, with all parties ensuring data protection against unauthorized access or disclosure. For more information on how we ensure sufficient measures in data sharing with our anti-fraud service providers, please refer to our Privacy Policy ([here](https://pure.app/content/en/privacy)). 
 
-* To ensure that User Submissions fully comply with applicable laws and regulations, principles, guidelines and Agreement, we use a combination of automated systems to monitor and review pictures from chat conversations in order to develop and improve PURE. You hereby grant us access and all rights to simultaneously train and use well-established computer algorithms and machine learning techniques for the purposes of enhancing user overall safety and blurring pictures that could contain explicit content in order to prevent non-consensual viewing of unwanted explicit content in chat conversations. You have the capability to view the blurred picture in chat conversations upon clicking on it, thereby ensuring an experience that is secure, controlled and consensual.
+* To ensure that User Submissions fully comply with applicable laws and regulations, principles, guidelines,  and this Agreement, we use a combination of manual moderation and automated systems to monitor and review pictures from chat conversations and Personal ads, in order to develop and improve PURE and prevent violations of above mentioned rules. You hereby grant us access and all rights to simultaneously train and use well-established computer algorithms and machine learning techniques for the purposes of enhancing user overall safety including blurring pictures from chat conversations that could contain explicit content in order to prevent non-consensual viewing of unwanted explicit content in chat conversations. You have the capability to view the blurred picture in chat conversations upon clicking on it, thereby ensuring an experience that is secure, controlled and consensual.
 
-For this purpose User Submissions will be completely anonymized and stripped of personal information to protect your privacy, thereby ensuring data protection against unauthorized access or disclosure. The pictures used for training our well-established computer algorithms and machine learning techniques will be handled with the utmost security and protection. For more information about the measures we take to ensure your privacy when using PURE, please refer to our Privacy Policy ([here](https://pure.app/content/en/privacy)).
+For this purpose pictures from chat conversations will be completely anonymized and stripped of personal information to protect your privacy, thereby ensuring data protection against unauthorized access or disclosure. The pictures used for training our well-established computer algorithms and machine learning techniques will be handled with the utmost security and protection. For more information about the measures we take to ensure your privacy when using PURE, please refer to our Privacy Policy ([here](https://pure.app/content/en/privacy)).
 
 If you provide any feedback, suggestions, or review to us about PURE (“**Feedback**”), you hereby assign to us all rights in such Feedback and agree that we shall have the right to use such Feedback and related information in any manner we deem appropriate. We will treat any Feedback you provide to us as non-confidential and non-proprietary.
 
 We and our licensees may publicly display advertisements and other information adjacent to your User Submissions and Feedback. You are not entitled to any compensation for such advertisements.
 
-#### 8\. AI-driven chatbot “Goddess”
+#### 8\. Photo Verified
+
+The Photo Verified feature is entirely optional and is provided solely to allow Users confirm that their previously submitted photo for review reflects their real appearance captured through camera. In case you decide to confirm your appearance we will analyse the photo, use facial recognition technology to compare your face to the photo and confirm the match. The Photo Verified badge, if awarded, is purely for informational purposes and may be removed automatically if the User changes or removes the submitted photo or if the face does not match during a subsequent check. Users can delete their Photo Verified status by deleting their account. Additionally, users have the option to cancel the Photo Verification process at any time prior to its completion. For details on how we manage data related to the Photo Verification process, please review our comprehensive Privacy Policy. ([here](https://pure.app/content/en/privacy)).
+
+Please note that the Photo Verified feature is designed to confirm a match between the User’s actual face and the photo, but it does not verify the User’s identity and may not always reflect the User’s true likeness. Users should be aware that the feature may not always be fully accurate, which could result in verification being denied or in a match being confirmed even if the photo does not fully represent the user’s actual likeness.
+
+Participation in the Photo Verification process does not result in any form of formal verification, legal implications, or change to the User’s status within the app. We do not infer any characteristics about you through the Photo Verified feature. The feature is not a requirement for PURE app usage and Users are not obligated to participate.
+
+#### 9\. AI-driven chatbot “Goddess”
 
 ##### a. Introduction
 
@@ -201,7 +211,7 @@ Users have an option to manually report violations of PURE terms and established
 
 If any content is generated in violation of the above mentioned rules in Article 8 as a result of the User’s input or independent generation process, such content shall be treated as incomplete, incorrect, and/or illegal, and a violation of these Terms and Conditions. It does not constitute binding conduct, advice, representation, or endorsement. As responses and content from the Goddess is generated based on programmed algorithms and do not reflect professional viewpoints, personal opinions or official stands, Users must avoid using it for any purpose that could have legal or material repercussions. PURE holds no liability for the consequences of utilizing or generating such content. Additional information on data processing within the Goddess can be found in our comprehensive Privacy Policy ([here](https://pure.app/content/en/privacy)).
 
-#### 9\. PURE subscription, subscription cancellation, payments
+#### 10\. PURE subscription, subscription cancellation, payments
 
 You should know the following about PURE subscriptions and our recurring payments policy when payment is made:
 
@@ -245,7 +255,7 @@ Your rights regarding payment policy and refunds, when purchases of subscription
 
 In order to exercise any of the rights regarding the subscriptions, payments and refunds via our Website, please contact our Support by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection).
 
-#### 10\. Third-party sites, products, and services
+#### 11\. Third-party sites, products, and services
 
 We may include links to other web sites or services (“**Third Party Websites**”). We do not endorse any such linked sites or the information, material, products, or services contained on such linked sites or accessible through other linked sites. Furthermore, we make no express or implied warranties regarding the information, material, products, or services that are contained on or accessible through linked sites. Access and use of linked sites, including information, material, products, and services on linked sites or available through linked sites is solely at your own risk.
 
@@ -257,7 +267,7 @@ By using third party applications that connect with PURE (“**Third Party Appli
 
 PURE offers users access to the integrated Augmented Reality (“**AR**”) Lens from Snap Inc., providing the opportunity to unleash the full potential of AR for the content they choose to create through their own device's camera, inspiring creativity and self-expression. Users will receive a notification with an option to grant explicit consent along with the outlined terms of usage and privacy before accessing this feature. Users must promptly review Snap Inc.’s Privacy Policy ([here](https://values.snap.com/privacy/privacy-policy)), Snap Inc.’s Terms of Service ([here](https://snap.com/terms)) and Snap Inc.’s Learn More section ([here](https://help.snapchat.com/hc/en-us/articles/7012366118676)) before providing explicit consent to accessing AR features on PURE. Users can decline acceptance of Snap Inc.’s terms and block an attempt to activate an AR Lens by tapping on the X button on the provided notification. In the event of such a decline, any subsequent efforts to activate a Lens will prompt the user to review and accept the terms once again. For more details about this, please see our Privacy Policy ([here](https://pure.app/content/en/privacy)). It is necessary to accept and familiarize yourself with these terms in order to ensure a smooth and compliant experience with the Snap Inc.’s AR features on PURE.
 
-#### 11\. Modifying PURE, termination and the appeal
+#### 12\. Modifying PURE, termination and the appeal
 
 You acknowledge that we may release updated versions of PURE at any time we deem appropriate, adding new features or enhancements or removing features. You consent to automatic upgrades on your mobile device and agree that the terms and conditions of the Agreement will apply to all such upgrades. You agree that we will not be liable to you for any such modifications.
 
@@ -267,7 +277,7 @@ If you believe that revoking your license, any authorization to access and/or us
 
 You may terminate your account by canceling your subscription as described in section 8 above and deleting your account on the Settings screen in the app under the section My Account/ID.
 
-#### 12\. Disclaimers
+#### 13\. Disclaimers
 
 WE (AND ANY THIRD PARTY PROVIDER OF SOFTWARE, SERVICES, OR APPLICATIONS MADE AVAILABLE IN CONJUNCTION WITH OR THROUGH PURE) PROVIDE PURE ON AN “AS IS” AND “AS AVAILABLE” BASIS. 
 
@@ -279,11 +289,13 @@ TO THE EXTENT PERMITTED BY APPLICABLE LAW, WE AND OUR SUPPLIERS AND PARTNERS DO 
 * THAT PURE WILL MEET YOUR EXPECTATIONS, THAT PURE OR ITS CONTENT, ANY MEMBER CONTENT, OR ANY SECTION THEREOF, IS RELIABLE, CURRENT, ACCURATE, CORRECT OR SUITABLE FOR YOUR PURPOSES; OR THE ONGOING PRESENCE OF ACTIVE USERS, THEIR LEVEL OF ENGAGEMENT, OR THEIR COMPATIBILITY AND BEHAVIOR WHEN INTERACTING WITH YOU ON PURE.
 * THE USE OR THE RESULTS OF THE USE OF ANY LOCATION INFORMATION THROUGH THE PURE SOFTWARE ARE SAFE, SECURE, CORRECT, ACCURATE, OR RELIABLE. YOU ASSUME THE ENTIRE COST OF ANY SERVICES OR EQUIPMENT NECESSARY TO ACCESS PURE. YOU UNDERSTAND AND AGREE THAT YOU DOWNLOAD OR OTHERWISE OBTAIN MATERIAL OR DATA THROUGH THE USE OF PURE AT YOUR OWN DISCRETION AND RISK.
 
+THE PHOTO VERIFIED FEATURE IS PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO ACCURACY, RELIABILITY OR EFFECTIVENESS. USERS ACKNOWLEDGE THAT THE FEATURE MAY NOT ALWAYS BE FULLY ACCURATE AND UNDERSTAND THAT IT DOES NOT RESULT IN VERIFICATION OF IDENTITY OR HAVE ANY LEGAL IMPLICATIONS. 
+
 CONTENT GENERATED BY THE AI DRIVEN CHATBOT DOES NOT REPRESENT PURE'S VIEWS AND IS NOT LEGALLY BINDING UPON PURE, AND THE AI DRIVEN CHATBOT IS NOT AUTHORIZED TO CREATE OR ENTER INTO LEGAL ARRANGEMENTS THAT BIND (OR PURPORT TO BIND) PURE. THIS CONTENT IS ALGORITHM-GENERATED AND MAY NOT BE ACCURATE. RELIANCE ON SUCH CONTENT BY USERS MAY HAVE LEGAL OR MATERIAL CONSEQUENCES AND USERS SHOULD EXERCISE CAUTION WHEN EVALUATING IT.
 
-#### 13\. Limitation of liability
+#### 14\. Limitation of liability
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE (OR OUR AFFILIATES, SUBSIDIARIES, CONTRACTORS, EMPLOYEES, AGENTS, SUPPLIERS, OR THIRD PARTY SERVICE PROVIDERS) BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES RELATED TO OR RESULTING FROM (I) THE USE, DISCLOSURE, DISPLAY, OR MAINTENANCE OF YOUR LOCATION INFORMATION, (II) YOUR USE OR INABILITY TO USE PURE, (III) PURE GENERALLY (INCLUDING THE PURE SOFTWARE) OR SYSTEMS THAT MAKE PURE AVAILABLE, OR (IV) ANY OTHER INTERACTIONS WITH PURE OR ANY OTHER USER OF PURE, EVEN IF WE OR AN AUTHORIZED REPRESENTATIVE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL WE (OR OUR AFFILIATES, SUBSIDIARIES, CONTRACTORS, EMPLOYEES, AGENTS, SUPPLIERS, OR THIRD PARTY SERVICE PROVIDERS) BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES RELATED TO OR RESULTING FROM (I) THE USE, DISCLOSURE, DISPLAY, OR MAINTENANCE OF YOUR LOCATION INFORMATION, (II) YOUR USE OR INABILITY TO USE PURE, (III) YOUR USE OF THE PHOTO VERIFIED FEATURE, (IV) PURE GENERALLY (INCLUDING THE PURE SOFTWARE) OR SYSTEMS THAT MAKE PURE AVAILABLE, OR (V) ANY OTHER INTERACTIONS WITH PURE OR ANY OTHER USER OF PURE, EVEN IF WE OR AN AUTHORIZED REPRESENTATIVE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
 
 TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL YOUR TOTAL LIABILITY TOWARD US (OR OUR AFFILIATES, SUBSIDIARIES, CONTRACTORS, EMPLOYEES, AGENTS, SUPPLIERS, OR THIRD-PARTY SERVICE PROVIDERS) FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION ARISING OUT OF OR RELATING TO THIS AGREEMENT OR YOUR USE OF PURE (WHETHER IN CONTRACT, TORT, WARRANTY, OR OTHERWISE), EXCEED THE AMOUNTS PAID BY YOU FOR ACCESSING PURE DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE DATE OF YOUR CLAIM. 
 
@@ -295,47 +307,47 @@ A general release does not extend to claims that the creditor or releasing party
 
 You hereby waive all rights under section 1542 and under any other federal or state statutes or laws of similar effect.
 
-#### 14\. Indemnification
+#### 15\. Indemnification
 
 To the extent permitted by applicable law, you agree to indemnify, defend, and hold us (and our affiliates, subsidiaries, contractors, employees, agents, or third-party service providers) harmless from any and all claims, suits, actions, losses, costs, damages, and any other liabilities, including legal fees, brought by a third party arising out of or related to (i) your use or misuse of any location information or PURE generally, (ii) any violation of the rights of any other person or entity by you, (iii) any breach or violation by you of the Agreement, or (iv) your use of PURE to meet another User in-person or to locate and attend any offline place or event.
 
 We reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims.
 
-#### 15\. Severability
+#### 16\. Severability
 
 If any provision of the Agreement shall be partially or fully invalid or for any reason unenforceable, the validity of the other provisions of the Agreement shall not be affected thereby. The invalid or unenforceable provision shall be replaced by a provision that economically best achieves the objectives of the parties.
 
-#### 16\. Waiver
+#### 17\. Waiver
 
 A provision of the Agreement may be waived only by a written instrument executed by the party entitled to the benefit of such provision. The failure of any party at any time to require performance of any provision of this Agreement shall in no manner affect such party’s right later to enforce the same. A waiver of any breach of any provision of the Agreement shall not be construed as a continuing waiver of other breaches of the same or other provisions of the Agreement.
 
-#### 17\. Notices
+#### 18\. Notices
 
 We may provide you with notices, including those regarding changes to the Agreement, by email, or postings on PURE.
 
-#### 18\. Assignment
+#### 19\. Assignment
 
 Without our prior written consent, you are not allowed to assign or transfer all or any part of your rights and obligations under the Agreement. We are permitted to assign or transfer our rights and obligations under the Agreement in their entirety or in part.
 
-#### 19\. Survival
+#### 20\. Survival
 
 All provisions of this Agreement that require continued performance, compliance, or effect beyond the termination date of the Agreement, including, without limitation, those related to or regarding disclaimer, limitation of liability, and indemnification hereby survive any termination of the Agreement or any termination of your use of or subscription to PURE and shall be enforceable in the event of a failure to perform or comply. 
 
 ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE TERMS AND CONDITIONS OR THE WEBSITE MUST BE COMMENCED WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES; OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.
 
-#### 20\. Entire Agreement
+#### 21\. Entire Agreement
 
 This Agreement constitutes the entire agreement between the parties relating to the subject matter herein and shall not be modified except in writing, signed by both parties, or by a change to the Agreement made by us as set forth in subsequent versions of the Agreement.
 
-#### 21\. Governing law
+#### 22\. Governing law
 
 The Agreement shall be governed by and construed in accordance with substantive Swiss law, without giving effect to any laws of conflicts. The predominant purpose of this Agreement is providing services and licensing access to intellectual property and not a “sale of goods.” This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded.
 
-#### 22\. Jurisdiction
+#### 23\. Jurisdiction
 
 To the extent permitted by applicable law, all disputes arising in connection with the Agreement shall be subject to the exclusive jurisdiction of the ordinary courts at our legal seat.
 
-#### 23\. Reporting Claims of Copyright Infringement
+#### 24\. Reporting Claims of Copyright Infringement
 
 We take claims of copyright infringement seriously. We will respond to notices of alleged copyright infringement that comply with applicable law. If you believe any materials accessible on or from the Website infringe your copyright, you may request removal of those materials (or access to them) from the Website by submitting written notification to our copyright agent designated below. In accordance with the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act (17 U.S.C. § 512) (“DMCA”), the written notice (the “DMCA Notice”) must include substantially the following: 
 
@@ -363,11 +375,11 @@ Please be aware that if you knowingly materially misrepresent that material or a
 
 It is our policy in appropriate circumstances to disable and/or terminate the accounts of users who are repeat infringers. 
 
-#### 24\. Privacy Policy
+#### 25\. Privacy Policy
 
 Our Privacy Policy provides an in-depth explanation of your interactions with the PURE. To read this policy, click [here](https://pure.app/content/en/privacy). Our Privacy Policy serves as a comprehensive guide to understanding how we collect, utilize, and safeguard your information. We highly recommend that you review and familiarize yourself with the Privacy Policy to gain a complete understanding of our data collection, utilization and security measures.
 
-#### 25\. Contact
+#### 26\. Contact
 
 If you have any concerns or require any information regarding the PURE or PURE’s Terms and Conditions, please contact our Customer Support by email at [\[email protected\]](https://pure.app/cdn-cgi/l/email-protection). 
 
@@ -378,11 +390,11 @@ Baarerstrasse 8
 6300 Zug  
 Switzerland
 
-**Effective date:** 15 October 2024
+**Effective date:** 18 December 2024
 
 **The previous versions:**
 
-[18 March 2024](https://pure.app/content/en/terms?effective_date=2024-03-18)[13 November 2023](https://pure.app/content/en/terms?effective_date=2023-11-13)[15 April 2023](https://pure.app/content/en/terms?effective_date=2023-04-15)
+[15 October 2024](https://pure.app/content/en/terms?effective_date=2024-10-15)[18 March 2024](https://pure.app/content/en/terms?effective_date=2024-03-18)[13 November 2023](https://pure.app/content/en/terms?effective_date=2023-11-13)[15 April 2023](https://pure.app/content/en/terms?effective_date=2023-04-15)
 
 PURE'S TERMS AND CONDITIONS
 ===========================
