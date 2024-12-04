@@ -1,6 +1,6 @@
 6.0.11
 
-1733300639285
+1733323270748
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1733300868396
+1733322795011
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1733300547774
+1733322633054
 
 You need to enable JavaScript to run this app.
 
@@ -534,6 +534,13 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Up to £61.50 off Selected Babyliss Promotion
+
+* Up to £61.50 off on selected Babyliss products.
+* Discounted price visible on product listing page and product already includes saving.
+* Item will be added to basket at discounted price.
+* Offer available while stocks last.
 
 ### Up to £100 off Selected Dyson Promotion
 
@@ -1248,23 +1255,6 @@ No purchase necessary. Multiple entries are permitted. Entries made after 17:00 
 **Governing Law:** The competition and these terms and conditions are governed by English law, and the parties submit to the exclusive jurisdiction of the English courts.
 
 **Winner Details:** For 14 days after the competition ends, details of the winner will be available by writing to Next Marketing, Desford Road, Enderby, Leicester, LE19 4AT. Next will provide these details to the Advertising Standards Authority upon request.
-
-### Moroccanoil Promotion
-
-The Moroccanoil Free Gift will be automatically added to bag when you buy any 2 selected Moroccanoil products. The Moroccanoil Gift contains:
-
-* Intense Hydrating Mask 75ml
-* Treatment Oil 15ml
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Moroccanoil Gift will be automatically added once 2 qualifying Moroccanoil products have been added to the bag on either the Product or Shopping Bag pages.
-
-The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
 
 ### Benefit Promotion
 
@@ -3385,7 +3375,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733300703059
+1733322518436
 
 ##### Our Social Networks
 
