@@ -240,11 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Designed for everyone, everywhere
+#### New to domain names and dynamic DNS?
 
+We can walk you through purchasing and managing your domain names in real-time on the page!  
   
-Our services are easy to use and meant to enhance convenience. It's made for folks of all skill levels, devices of all shapes, and projects of all sizes.  
-  
+[View Available Guides](https://www.dynu.com/Resources/Tutorials)  
 
 ### News
 
