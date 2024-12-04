@@ -1,4 +1,4 @@
-DMCA | Know Your Meme                                                            
+DMCA | Know Your Meme                                                          
 
 |     |     |
 | --- | --- |
