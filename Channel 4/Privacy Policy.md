@@ -87,6 +87,7 @@
     * Latest updates
         
         * [4Viewers Blog](https://www.channel4.com/4viewers/community/blog)
+        * [Hockey Comes to Channel 4](https://www.channel4.com/4viewers/blog/hockey-comes-channel-4)
         * [Upcoming Changes on Sky and Freesat](https://www.channel4.com/4viewers/blog/upcoming-changes)
         * [Formula 1 on Channel 4](https://www.channel4.com/4viewers/blog/formula-1-2024)
         * [Walter Presents](https://www.channel4.com/4viewers/blog/walter-presents)
