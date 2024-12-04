@@ -165,57 +165,67 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More The Global Flood Explains the Ice Age
+More Days of Praise
 
-[![](/i/wide/british_atlantis_wide.jpg)](https://www.icr.org/article/making-sense-britains-atlantis)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/understanding-word-god)
 
-[Making Sense of Britain's Atlantis](https://www.icr.org/article/making-sense-britains-atlantis/)
+[Understanding the Word of God](https://www.icr.org/article/understanding-word-god/)
 
-ICR News previously reported evidence of Ice Age habitations in the English Channel.1 Fishermen and, more recently, researchers have dredged...
+“So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading.” (Nehemiah 8:8) Most...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/havrevolcano_1400x1050)](https://www.icr.org/article/deep-sea-volcano-flood)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/identifying-antichrists)
 
-[Deep-Sea Volcano Gives Glimpse of Flood Eruptions](https://www.icr.org/article/deep-sea-volcano-flood/)
+[Identifying Antichrists](https://www.icr.org/article/identifying-antichrists/)
 
-A team of scientists from Australia and the USA recently studied the ejecta from a subsea volcano, gaining new insights into how magma can explode to the...
+“Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
 
-[![](/i/wide/glacier_melt_wide.jpg)](https://www.icr.org/article/glaciers-can-melt-geologic-instant)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/similitude-god)
 
-[Glaciers Can Melt in a 'Geologic Instant'](https://www.icr.org/article/glaciers-can-melt-geologic-instant/)
+[The Similitude of God](https://www.icr.org/article/similitude-god/)
 
-Many geological processes can happen much more quickly than is conventionally thought. For instance, mainstream science believes that coal, diamonds,...
+“Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God.” (James 3:9) Here...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-More Impact
+Shop Related Products
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/geneticrecombination_1400x1050.jpg)](https://www.icr.org/article/genetic-recombination-regulated-designed)
+[](https://store.icr.org/.html)
 
-[Genetic Recombination: A Regulated and Designed Chromos.,.](https://www.icr.org/article/genetic-recombination-regulated-designed/)
+$
 
-According to the evolutionary paradigm, complex genetic information in the form of genes and regulatory DNA can randomly evolve through mutations and...
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474441/file.jpg)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+The Beginning of the World](https://store.icr.org/dr-henry-morris-the-beginning-of-the-world.html)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/The_Final_Word.jpg)](https://www.icr.org/article/the-final-world)
+$10.99
 
-[The Final World: Renovation or New Creation?](https://www.icr.org/article/the-final-world/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/951057/file.jpg)
 
-In the beginning about 6,000 years ago, Jesus Christ created the heavens and the earth out of nothing, or ex nihilo, which I discussed in a previous...
+The Henry Morris Study Bible - Calfskin Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-calfs.html)
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+$119.99
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/Oceans_to_Young_Earth.jpg)](https://www.icr.org/article/oceans-young-earth)
+$139.99
 
-[The Oceans Point to a Young Earth](https://www.icr.org/article/oceans-young-earth/)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32690/file.jpg)
 
-by Jeffrey P. Tomkins, Ph.D., and Tim Clarey, Ph.D.\* Over 70% of Earth's surface is covered by water, most of which is marine and contained in...
+The Henry Morris Study Bible - Leather](https://store.icr.org/dr-henry-morris-the-henry-morris-study-bible-leath.html)
 
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+$79.99
+
+$94.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32640/file.jpg)
+
+The Genesis Flood, 50th Anniversary Edition](https://store.icr.org/dr-henry-morris-the-genesis-flood-50th-anniversary.html)
+
+$12.99
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
