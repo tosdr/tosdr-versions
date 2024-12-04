@@ -123,6 +123,13 @@ Geneanet is ad free and your Ad Blocker may affect your Geneanet experience. We 
 
 [Geneastar](https://en.geneastar.org/)
 
+![](https://geneacdn.net/public/img/common/autopromo_noel_2024_noeud.png)
+
+Give an unusual gift for the holidays: a book about your family!  
+[Learn more](https://en.geneanet.org/genealogyblog/post/2024/11/share-the-results-of-your-genealogy-research-through-your-family-book?utm_campaign=patronomia&utm_content=autopromo&utm_medium=site&utm_source=geneanet)
+
+[](#)
+
 [Geneanet Homepage](https://en.geneanet.org/) > Geneanet Website Terms and Conditions of Use
 
 Geneanet Website Terms and Conditions of Use
