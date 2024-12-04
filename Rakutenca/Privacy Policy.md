@@ -690,7 +690,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson-2.png "Dyson Coupons, Promo Codes")
+[![Earn 12% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson3.png "Dyson Coupons, Promo Codes")
 
 was 2.5%, now
 
