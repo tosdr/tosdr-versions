@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Eucalyptus/Walrus](https://www.backup4all.com/how-to-backup-your-data-to-eucalyptus-walrus-kb.html)  
+* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
     
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [DVD formats supported by Backup4all](https://www.backup4all.com/dvd-formats-supported-by-backup4all-kb.html)  
     
-* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
+* [How to configure two jobs to run each one to ...](https://www.backup4all.com/how-to-configure-two-jobs-to-run-each-one-to-a-different-onedri-kb.html)  
     
-* [How to create a private-public key pair](https://www.backup4all.com/how-to-create-a-private-public-key-pair-kb.html)  
+* [How to backup your data to HubiC](https://www.backup4all.com/how-to-backup-your-data-to-hubic-kb.html)  
     
-* [Activation - Frequently Asked Questions](https://www.backup4all.com/activation-faq-kb.html)  
+* [How to back up data files from DreamObjects u ...](https://www.backup4all.com/how-to-back-up-data-files-from-dreamobjects-using-backup4all-kb.html)  
     
 
 Choose language:
