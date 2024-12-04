@@ -1,6 +1,6 @@
     Simple Mailbox
 
-Request Books
+Remove Ads: Contact Us
 
 [Skip to content](#content "Skip to content")
 
