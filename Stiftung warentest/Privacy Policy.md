@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
-* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
+* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Vermieter­wechsel: Vermieter verkauft Wohnung](https://www.test.de/vermieterwechsel-wenn-meine-wohnung-verkauft-wird-5999343-0/ "Vermieterwechsel - Vermieter verkauft Wohnung")
+* [Vorsorgevoll­macht: Fest­legen, wer im Notfall für Sie entscheiden darf](https://www.test.de/Vorsorgevollmacht-6144012-0/ "Vorsorgevollmacht - Festlegen, wer im Notfall für Sie entscheiden darf")
+* [Essen und Getränke zum Mitnehmen: Weg frei für mehr Mehrweg](https://www.test.de/Essen-und-Getraenke-zum-Mitnehmen-Weg-frei-fuer-mehr-Mehrweg-5944591-0/ "Essen und Getränke zum Mitnehmen - Weg frei für mehr Mehrweg")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
 
 Stiftung Warentest
 
