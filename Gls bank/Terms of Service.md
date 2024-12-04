@@ -609,9 +609,9 @@ Folge uns
     * [English](https://www.gls.de/ueber-uns/english/)
     
 
-GLS Kundenmagazin
+Kundenmagazin Bankspiegel
 
-[![Titelbild Bankspiegel](/media/_processed_/b/5/csm_bankspiegel_e6ed689cdd.jpg "GLS Kundenmagazin")](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
+[![Titelbild Bankspiegel 250](/media/_processed_/9/1/csm_bankspiegel-wasser-fuer-alle_7ba3c5063e.jpg "Kundenmagazin Bankspiegel")](https://www.gls.de/gls-bank/aktuelles/bankspiegel/)
 
 Sozial-ökologisch seit 1974
 ---------------------------
