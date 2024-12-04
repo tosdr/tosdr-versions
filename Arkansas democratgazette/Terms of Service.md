@@ -123,7 +123,7 @@ Open user options menu
 * [Today's Paper](https://edition.arkansasonline.com/arkansas-democrat-gazette/)
 * [Home](https://www.arkansasonline.com/)
 * [Local News](https://www.arkansasonline.com/news/news/arkansas/?page=1)
-* [Runoff Election List](https://www.arkansasonline.com/election/2024generalrunoff/)
+* [Runoff Election RESULTS](https://www.arkansasonline.com/election/2024generalrunoff/)
 * [Trump Transition](https://www.arkansasonline.com/trump-transition/)
 * [HS Football Scores](https://www.arkansasonline.com/arpreps/2024/)
 * [Podcasts](https://www.arkansasonline.com/news/podcasts/)
