@@ -138,6 +138,13 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[A recent Delta Dental report highlights a positive ![A recent Delta Dental report highlights a positive trend in Americans prioritizing preventive dental care to save on costs and avoid health issues. With more adults adopting daily oral care habits and visiting dental professionals for preventive care, there’s hope for better overall health outcomes. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DDHtYbmtyKv/) 
+
 [LAST CHANCE! Our Black Friday CE sale ENDS TONIGHT ![LAST CHANCE! Our Black Friday CE sale ENDS TONIGHT!⁠
 ⁠
 Enjoy 25% off all individual courses OR save $49 on an annual study club membership with code BF24.⁠
@@ -183,13 +190,6 @@ Visit decisionsindentistry.com/ce or click the link in bio.⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DC1ysRHvXSW/) 
-
-[This case study showcases the comprehensive crown ![This case study showcases the comprehensive crown lengthening treatment of a 52-year-old patient requiring full-mouth rehabilitation due to severe dental erosion and wear. Through interdisciplinary collaboration and precise surgical techniques, the patient’s dentition was restored, significantly improving both functional and aesthetic outcomes. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCzHA9uMJWI/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
