@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,9 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
-* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=3 "Christmas Quiz 2024")
+* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
+* [ALIEN-SOFT group](https://www.msx.org/forum/msx-talk/software/alien-msx-group "ALIEN-SOFT group")
+* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=30 "MSXgl – A new C game library for MSX")
 * [Arkos Tracker 3!](https://www.msx.org/forum/msx-talk/software/arkos-tracker-3?page=2 "Arkos Tracker 3!")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
@@ -165,7 +166,6 @@ Latest forum posts
 * [How do I run the Quran on FMSX3DS?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-run-the-quran-on-fmsx3ds?page=1 "How do I run the Quran on FMSX3DS?")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [Vintage Computing Christmas Challenge 2024](https://www.msx.org/forum/msx-talk/development/vintage-computing-christmas-challenge-2024 "Vintage Computing Christmas Challenge 2024")
-* [Omega MSX 2 Build Quiestions](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-build-quiestions "Omega MSX 2 Build Quiestions")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
