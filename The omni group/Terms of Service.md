@@ -184,7 +184,7 @@ Forums](https://discourse.omnigroup.com/)
 ### Company
 
 * [Your Privacy](https://www.omnigroup.com/privacy)
-* [About us](https://www.omnigroup.com/about)
+* [About Us](https://www.omnigroup.com/about)
 * [Mission](https://www.omnigroup.com/mission)
 * [Press](https://www.omnigroup.com/press)
 * [Legal](https://www.omnigroup.com/legal)
