@@ -127,7 +127,7 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 * [Safety (26)](https://www.iplocation.net/blog/category/safety)
 * [Data & Database (24)](https://www.iplocation.net/blog/category/data)
 * [Digital Marketing (123)](https://www.iplocation.net/blog/category/digital-marketing)
-* [Education (44)](https://www.iplocation.net/blog/category/education)
+* [Education (45)](https://www.iplocation.net/blog/category/education)
 * [Email (71)](https://www.iplocation.net/blog/category/email)
 * [Entertainment (15)](https://www.iplocation.net/blog/category/entertainment)
 * [Fashion (2)](https://www.iplocation.net/blog/category/fashion)
