@@ -577,15 +577,15 @@ MENU MENU
     
     December 4, 2024
     
+    [U.S. Department of the Treasury Releases Final Rules on Investment Tax Credit to Produce Clean Power, Strengthen Clean Energy Economy](https://home.treasury.gov/news/press-releases/jy2736)
+    
+    December 4, 2024
+    
     [Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions](https://home.treasury.gov/news/press-releases/jy2735)
     
     December 3, 2024
     
     [Treasury Intensifies Pressure on Iranian Shadow Fleet](https://home.treasury.gov/news/press-releases/jy2734)
-    
-    December 2, 2024
-    
-    [Treasury Sanctions Former Government of Uzbekistan Officials for Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2732)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
