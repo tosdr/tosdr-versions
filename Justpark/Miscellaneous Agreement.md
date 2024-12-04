@@ -21,9 +21,9 @@
 * [Login](https://www.justpark.com/auth/login)
 * [Sign Up](https://www.justpark.com/registration)
 
-Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
+Policies[Agreements](https://www.justpark.com/driver-agreement)[Cancellation Policies](https://www.justpark.com/cancellation-policy)[Privacy Policy](https://www.justpark.com/privacy-policy)[Cookie Policy](https://www.justpark.com/cookie-policy)[Parking Peace of Mind](https://www.justpark.com/insurance-policy)[Terms and Conditions](https://www.justpark.com/terms-and-conditions)[Best Price Guarantee](https://www.justpark.com/best-price-guarantee-policy)[Car Park Terms & Conditions](https://www.justpark.com/car-park-terms-and-conditions)[Mobile Payment Terms & Conditions](https://www.justpark.com/mobile-payment-terms-and-conditions)[Referral Programme](https://www.justpark.com/referral-programme-policy)[FastTrack](https://www.justpark.com/fast-track-policy)[Airport Lounges](https://www.justpark.com/airport-lounge-policy)[McDonald's](https://www.justpark.com/mcdonalds-policy)
 
-Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesMcDonald's
+Driver agreementOwner agreementCookie policyPrivacy PolicyTerms and ConditionsCancellation - ReservableCancellation - Non-reservableCancellation - EV ChargingParking Peace of MindFastTrackAirport LoungesBest Price GuaranteeCar Park Terms & ConditionsReferral ProgrammeMobile Payment Terms & ConditionsMcDonald's
 
 Agreements
 ==========
