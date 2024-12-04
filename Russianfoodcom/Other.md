@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,11 +148,12 @@
 
 Сейчас читают
 
+* [Сдобные булочки с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=157565)
+* [Тёртый творожный пирог с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=160871)
+* [Котлеты "Пальчики" с сыром и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=160661)
 * [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706)
 * [Котлеты-лодочки из мясного фарша и капусты с картофельным пюре](https://www.russianfood.com/recipes/recipe.php?rid=165394)
-* [Селёдка на лавашной шубе](https://www.russianfood.com/recipes/recipe.php?rid=165136)
 * [Салат из свежих шампиньонов с петрушкой и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=174613)
-* [Шампиньоны в кляре](https://www.russianfood.com/recipes/recipe.php?rid=150813)
 * [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571)
 
 |     |
@@ -272,7 +273,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175020#comments) | 03.12.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175020#comments) | 03.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -455,10 +456,10 @@
 
 Новые рецепты:
 
-|     |     |
-| --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) |
-| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) |
+|     |     |     |
+| --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
+| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -475,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(129)
+(101)
