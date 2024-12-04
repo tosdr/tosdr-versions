@@ -241,4 +241,4 @@ Follow us
 
 © IdeaBuddy 2024, All Rights Reserved
 
-[Terms of Service](https://ideabuddy.com/terms-of-service/)|[Privacy Policy](https://ideabuddy.com/privacy-policy/)|[Cookie Statement](https://ideabuddy.com/cookie-statement/)
+[Terms of Service](https://ideabuddy.com/terms-of-service/)|[Privacy Policy](https://ideabuddy.com/privacy-policy/)|[Accessibility Policy](https://ideabuddy.com/accessibility-policy/)|[Cookie Statement](https://ideabuddy.com/cookie-statement/)
