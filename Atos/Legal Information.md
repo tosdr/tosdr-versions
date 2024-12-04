@@ -51,7 +51,7 @@ Our website uses cookies to enhance your online experience by; measuring audienc
     * [Français](https://atos.net/fr/vie-privee)
     * [Deutsch](https://atos.net/de/datenschutz)
 
- [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-white-2022.svg)
+ [![Atos](/content/assets/global-images/atos-logo-blue-2023.svg) ![Atos](/content/assets/global-images/atos-logo-blue-2023.svg)
 
 Atos homepage](https://atos.net/en/)
 
@@ -65,6 +65,7 @@ Atos homepage](https://atos.net/en/)
         * [Enterprise Application Operations](https://atos.net/en/services/cloud-and-infrastructure/enterprise-application-operations)
         * [Hybrid Cloud Platforms](https://atos.net/en/services/cloud-and-infrastructure/hybrid-cloud-platforms)
         * [Intelligent Networks](https://atos.net/en/services/cloud-and-infrastructure/intelligent-networks)
+        * [Modern IT Infrastructure](https://atos.net/en/services/cloud-and-infrastructure/modern-it-infrastructure)
         * [Modern Mainframe](https://atos.net/en/services/cloud-and-infrastructure/modern-mainframe)
         
         Atos Hybrid Cloud and Infrastructure Services
@@ -143,7 +144,7 @@ Atos homepage](https://atos.net/en/)
         
         * [Agreement reached between Atos and Unisys regarding the lawsuit filed by Unisys against Atos and two Atos employees](https://atos.net/en/2024/press-release_2024_12_03/agreement-reached-between-atos-and-unisys-regarding-the-lawsuit-filed-by-unisys-against-atos-and-two-atos-employees-2)
         * [Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters](https://atos.net/en/2024/press-release_2024_12_02/annual-general-meeting-to-approve-the-2023-financial-statements-to-be-held-on-january-31-2025-at-1000am-cet-at-the-companys-headquarters)
-        * [Atos named Official Technology Partner for the Invictus Games 2025](https://atos.net/en/2024/press-release_2024_11_27/atos-named-official-technology-partner-for-the-invictus-games-2025)
+        * [Atos completes the sale of Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_12_02/atos-completes-the-sale-of-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
