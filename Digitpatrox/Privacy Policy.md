@@ -20,16 +20,16 @@ Wednesday, December 4 2024
 
 Latest
 
-* [Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
-* [US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
-* [Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
-* [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
-* [Apple Arcade’s Fantasian is launching on console and PC](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
-* [Walmart Acquires Smart TV Firm Vizio to Boost Advertising Business](https://digitpatrox.com/walmart-acquires-smart-tv-firm-vizio-to-boost-advertising-business/)
-* [The Moccamaster Technivorm Is Up to 30% Off After Cyber Monday](https://digitpatrox.com/the-moccamaster-technivorm-is-up-to-30-off-after-cyber-monday/)
-* [Excel Is Introducing a Compatibility System for Old Spreadsheets](https://digitpatrox.com/excel-is-introducing-a-compatibility-system-for-old-spreadsheets/)
-* [NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
-* [The 6 Best Free Speed Test Apps to Check Internet Performance](https://digitpatrox.com/the-6-best-free-speed-test-apps-to-check-internet-performance/)
+* [GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
+* [All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
+* [New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
+* [How to upgrade Windows 10 PC without TPM or Secure Boot to Windows 11](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
+* [GM and EVgo Just Hit a Big Milestone With EV Chargers](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
+* [How to check the Microsoft Edge version you’re using](https://digitpatrox.com/how-to-check-the-microsoft-edge-version-youre-using/)
+* [Alder Hey Children’s Hospital confirms hackers gained access to patient data through digital gateway service](https://digitpatrox.com/alder-hey-childrens-hospital-confirms-hackers-gained-access-to-patient-data-through-digital-gateway-service/)
+* [Are Long-Lived Credentials the New Achilles’ Heel for Cloud Security?](https://digitpatrox.com/are-long-lived-credentials-the-new-achilles-heel-for-cloud-security/)
+* [OpenAI announces ’12 days of OpenAI’ with a new product or model every day](https://digitpatrox.com/openai-announces-12-days-of-openai-with-a-new-product-or-model-every-day/)
+* [Japan warns of IO-Data zero-day router flaws exploited in attacks](https://digitpatrox.com/japan-warns-of-io-data-zero-day-router-flaws-exploited-in-attacks/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/YB3F5DnvMccViioHLBNEbU-1200-80.jpg)](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617281-0-72223200-1733332147-exit_stairs_termination_fired-from-job_demotion_downhill-slide_yuvraj-singh-via-unsplash-100759065-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
     
-    [Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
+    [GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
     
-    25 minutes ago
+    13 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/tr_20241203-us-leads-global-ai-race.jpg)](https://digitpatrox.com/us-dominates-global-ai-rankings/)
+* [![](https://lifehacker.com/imagery/articles/01JE8G1J7FVDHY1V23QG50T80F/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
     
-    [US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
+    [All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
     
-    29 minutes ago
+    41 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/WHrhqzMfR5mLzTSycrtsWT-1200-80.jpg)](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/New-River-Electrical-notifies-10K-people-of-data-breach.jpg)](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
     
-    [Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+    [New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
     
-    33 minutes ago
+    47 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/09/28/Progress.jpg)](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/12/windows-10-upgrade-no-tpm-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
     
-    [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://digitpatrox.com/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
+    [How to upgrade Windows 10 PC without TPM or Secure Boot to Windows 11](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
     
-    2 hours ago
+    48 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/5W0Opr93msS-VkidUrIK8y2fpBs=/0x0:3840x2160/1200x628/filters:focal(1920x1080:1921x1081)/cdn.vox-cdn.com/uploads/chorus_asset/file/25771874/FANTASIAN_nd_mediakit_240925__01.png)](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/190.jpg)](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
     
-    [Apple Arcade’s Fantasian is launching on console and PC](https://digitpatrox.com/apple-arcades-fantasian-is-launching-on-console-and-pc/)
+    [GM and EVgo Just Hit a Big Milestone With EV Chargers](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
     
-    2 hours ago
+    52 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [25 minutes ago
+* [13 minutes ago
     
-    ### Cut your losses: The CIO’s guide to waste in IT](https://digitpatrox.com/cut-your-losses-the-cios-guide-to-waste-in-it/)
-* [29 minutes ago
+    ### GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
+* [41 minutes ago
     
-    ### US Dominates Global AI Rankings](https://digitpatrox.com/us-dominates-global-ai-rankings/)
-* [33 minutes ago
+    ### All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
+* [47 minutes ago
     
-    ### Aston Villa vs Brentford live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/aston-villa-vs-brentford-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+    ### New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [August 20, 2024
     
-    ### France vs New Zealand live stream: How to watch anywhere](https://digitpatrox.com/france-vs-new-zealand-live-stream-how-to-watch-anywhere/)
-* [September 24, 2024
+    ### Microsoft Will Pay You to Use Bing: Here's How My Attempt to Cash-in Went](https://digitpatrox.com/microsoft-will-pay-you-to-use-bing-heres-how-my-attempt-to-cash-in-went/)
+* [August 13, 2024
     
-    ### Kyle Chandler Brings in a Rather Older Green Lantern and Here’s Why It Makes Sense](https://digitpatrox.com/kyle-chandler-brings-in-a-rather-older-green-lantern-and-heres-why-it-makes-sense/)
-* [2 weeks ago
+    ### Google Pixel Watch 3: release date, price, and how to buy](https://digitpatrox.com/google-pixel-watch-3-release-date-price-and-how-to-buy/)
+* [September 4, 2024
     
-    ### Valve reportedly reviving the Steam Controller — here’s all the details](https://digitpatrox.com/valve-reportedly-reviving-the-steam-controller-heres-all-the-details/)
+    ### OpenAI might use Apple’s TSMC for chips – Computerworld](https://digitpatrox.com/openai-might-use-apples-tsmc-for-chips-computerworld/)
 
 Last Modified Topics
 
-* [5 hours ago
+* [2 hours ago
     
-    ### The Moccamaster Technivorm Is Up to 30% Off After Cyber Monday](https://digitpatrox.com/the-moccamaster-technivorm-is-up-to-30-off-after-cyber-monday/)
-* [5 hours ago
+    ### Alder Hey Children’s Hospital confirms hackers gained access to patient data through digital gateway service](https://digitpatrox.com/alder-hey-childrens-hospital-confirms-hackers-gained-access-to-patient-data-through-digital-gateway-service/)
+* [2 hours ago
     
-    ### Excel Is Introducing a Compatibility System for Old Spreadsheets](https://digitpatrox.com/excel-is-introducing-a-compatibility-system-for-old-spreadsheets/)
-* [5 hours ago
+    ### Are Long-Lived Credentials the New Achilles’ Heel for Cloud Security?](https://digitpatrox.com/are-long-lived-credentials-the-new-achilles-heel-for-cloud-security/)
+* [2 hours ago
     
-    ### NZXT H7 Flow 2024 review: A PC case with exceptional airflow](https://digitpatrox.com/nzxt-h7-flow-2024-review-a-pc-case-with-exceptional-airflow/)
+    ### OpenAI announces ’12 days of OpenAI’ with a new product or model every day](https://digitpatrox.com/openai-announces-12-days-of-openai-with-a-new-product-or-model-every-day/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 11, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
