@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Amazing how quickly you answer
+I plan on signing up again when I return overseas. Love the service.
 
-Alexandre Martin
+Nancy Lieff
