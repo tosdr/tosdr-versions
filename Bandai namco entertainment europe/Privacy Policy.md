@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [SYNDUALITY: Echo of Ada – Open Network Test is coming in December! Register to our giveaway to get a chance to win an Ultimate Edition of the game !](https://en.bandainamcoent.eu/synduality/news/synduality-echo-of-ada-open-network-test-coming-december-register-our-giveaway-get)
-* [Behind the Scenes of the Unknown 9 Universe](https://en.bandainamcoent.eu/unknown-9/news/behind-the-scenes-of-the-unknown-9-universe)
+* [BLEACH Rebirth of Souls set to release on 21 March 2025](https://en.bandainamcoent.eu/bleach/news/bleach-rebirth-of-souls-set-release-21-march-2025)
+* [Meet all the character of BLEACH Rebirth of Souls revealed so far!](https://en.bandainamcoent.eu/bleach/news/meet-all-the-character-of-bleach-rebirth-of-souls-revealed-so-far)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
