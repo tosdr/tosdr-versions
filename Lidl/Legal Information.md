@@ -126,7 +126,6 @@ Personal data relates to information that is or can be directly or indirectly at
 Read our Supplier Privacy Notice here.
 
 1\. Overview
-------------
 
 Your personal data may be used by Lidl in a variety of ways. We will always be as transparent as possible as to how we use your data—whether in the context of your in-store experience, or using any of our online services.
 
@@ -139,7 +138,6 @@ When you access the Lidl website, app and other Lidl platforms, certain informat
 At Lidl we ensure that customer satisfaction is at the heart of everything we do. We know your privacy is important to you so we want you to know that we will treat your personal information with respect.
 
 2\. Contact details of the controller and the data protection officer
----------------------------------------------------------------------
 
 **2\. Contact details of the controller and the data protection officer**
 
@@ -154,7 +152,6 @@ The data protection officers of Lidl GB and Lidl Stiftung can be contacted at th
   
 
 3\. Accessing our Services
---------------------------
 
 **3\. Accessing our Services**
 
@@ -202,7 +199,6 @@ Storage period/criteria for determining the storage period
 The log files are stored for a period of seven days and then automatically deleted.
 
 4\. Contacting Customer Care
-----------------------------
 
 **4.Contacting Customer Care**
 
@@ -282,7 +278,6 @@ Interactions with our intelligent customer assistant platform (LiA)
 Any interactions with LiA is automatically anonymised.
 
 5\. CCTV and loss prevention technologies
------------------------------------------
 
 **5\. CCTV and loss prevention technologies**
 
@@ -361,7 +356,6 @@ CCTV footage is kept for a period of up to 31 days from the time of recording un
 In the event of an incident, potential or ongoing investigation or claim, then footage may be retained for a period of up to 3 years from the date of the incident or when the claim is finalised.
 
 8\. Newsletter distribution
----------------------------
 
 **6.Purpose of data processing / legal basis:**
 
@@ -402,7 +396,6 @@ We use a third party email provider to send our newsletter and store our email d
 If you revoke your consent to receipt of the Lidl newsletter, your data will be deleted from the corresponding (e-mail) distribution lists.
 
 7\. Competitions and Prize Draws
---------------------------------
 
 **7.Why and what personal data do we use?**
 
@@ -435,7 +428,6 @@ If you are a winner, we may contact you using the channel you entered the compet
 After three months following the end of the competition and where applicable announcement of the winner(s), the personal data of the participants will be deleted. In the case of material prizes, the data of the winners will be kept for the duration of the statutory warranty claims, in order to arrange for repair or replacement in the case of a defect.
 
 8\. Receiving Marketing from Lidl
----------------------------------
 
 **8.Why do we use personal data?**
 
@@ -495,7 +487,6 @@ If you revoke your consent to receive the Lidl newsletter, you will no longer re
 Once you have revoked your consent, we will retain your data for 6 months.
 
 9\. Property Consultations
---------------------------
 
 **9.Why do we use personal data?**
 
@@ -528,12 +519,10 @@ If our application was successful (or we have successfully appealed a rejected p
 If Lidl no longer intends to build a store in your local area, any personal data processed during the consultation period will be retained for a maximum of one month following our decision not to appeal the planning decision.
 
 10\. Lidl Facebook Group
-------------------------
 
 The Lidl Facebook Group (Lidlers GB) Policy can be found [here](https://www.facebook.com/groups/1538780346284893).
 
 11\. Customer Surveys
----------------------
 
 **11.Why do we use personal data?**
 
@@ -661,7 +650,6 @@ Table
 | Required | ADRUM | AppDynamics | Helps to understand the respondent's experience and provides support. | Session |
 
 11.1 Customer Surveys- continued
---------------------------------
 
 **11.1 Providing further feedback to our customer service**
 
@@ -720,7 +708,6 @@ When submitting your data to participate in the Have Your Say Prize Draw, you ca
 Further information regarding how we process your personal data can be found in sections 17.-19. Of our Customer Privacy Notice.
 
 12\. Sending of advertising
----------------------------
 
 **12\. Sending of advertising**
 
@@ -875,7 +862,6 @@ Storage period/criteria for determining the storage period
 Your data will be stored as long as you have activated push notifications.
 
 13\. Use of cookies and similar technologies to process usage data
-------------------------------------------------------------------
 
 **13\. Use of cookies and similar technologies to process usage data**
 
@@ -986,7 +972,7 @@ Microsoft Advertising and Google Advertising can be used to display targeted adv
 
   
 
-We also use Microsoft and Google Advertising Services to collect information that allows us to track target groups using remarketing lists. Microsoft Advertising and Google Advertising can recognise that these Services have been visited and an advertisement can be displayed when Microsoft or Google networks are subsequently used. The information is also used to create conversion statistics, i.e. to record how many users have accessed these Services after clicking on an advert. This tells us the total number of users who clicked on our advert and were redirected to these Services. However, we do not receive any information with which users can be personally identified. You can find more information on how Google uses personal data [here](https://business.safety.google/privacy/).
+We also use Microsoft and Google Advertising Services to collect information that allows us to track target groups using remarketing lists. Microsoft Advertising and Google Advertising can recognise that these Services have been visited and an advertisement can be displayed when Microsoft or Google networks are subsequently used. The information is also used to create conversion statistics, i.e. to record how many users have accessed these Services after clicking on an advert. This tells us the total number of users who clicked on our advert and were redirected to these Services. However, we do not receive any information with which users can be personally identified. Information on how personal data is used by Google can be found [here](https://business.safety.google/privacy/).
 
   
 
@@ -1148,7 +1134,6 @@ Further information on data processing by the companies listed below and on exer
 An information overview of the individual cookies and similar technologies used, together with the respective processing purposes, the respective storage period and any third-party providers involved can be found here. Further details on processing can also be found in the preferences manager.
 
 14\. Lidl Plus
---------------
 
 Lidl Plus is operated and controlled by Lidl Stiftung & Co KG, Stiftsberstrasse 1, 74167 Neckarsulm, Germany as data controller.
 
@@ -1157,7 +1142,6 @@ Lidl Plus is operated and controlled by Lidl Stiftung & Co KG, Stiftsberstrasse 
 Please click here to for the relevant [privacy policy.](https://www.lidl.co.uk/c/lidl-plus-privacy-notice/s10023377)
 
 15\. Social Listening
----------------------
 
 **15.Why do we use personal data?**
 
@@ -1218,7 +1202,6 @@ If the data protection standard in a country should not be adequate, we ensure t
 The relevant personal data is not permanently stored by Lidl, but only viewed and analysed to understand where we can potentially take action and do better.
 
 16\. Involvement of third parties as data processors
-----------------------------------------------------
 
 **16\. Involvement of third parties as data processors**
 
@@ -1227,7 +1210,6 @@ The relevant personal data is not permanently stored by Lidl, but only viewed an
 Unless otherwise stated, the recipients or categories of recipients named below act as data processors. They are carefully selected and contractually bound in accordance with Article 28 GDPR. This means that they may only process personal data on the basis of our instructions and not for purposes other than those stated.
 
 17\. Transfers to recipients in third countries
------------------------------------------------
 
 **17\. Transfers to recipients in third countries**
 
@@ -1248,7 +1230,6 @@ If there is no adequacy decision, we secure the transfer by other measures. Thes
 Unless otherwise stated below, the transfer to a third country takes place either on the basis of an adequacy decision or one of the measures listed above. If you have any questions, please contact our data protection officer.
 
 18\. Map services
------------------
 
 **18\. Map services**
 
@@ -1335,7 +1316,6 @@ The use of map services is based on our contractual relationship with you, Artic
 The legal basis for the data processing described above is Article 6(1)(b) and (f) GDPR. The legitimate interest lies in presenting our offers in an attractive manner and making it easy to find the locations specified by us in the app.
 
 19\. Google reCAPTCHA
----------------------
 
 **19\. Google reCAPTCHA**
 
@@ -1372,7 +1352,6 @@ Recipients/categories of recipients
 When using Google reCAPTCHA, the above-mentioned data is also processed by Google LLC, 1600 Amphitheatre Parkway, Mountain View, California 94043, USA to provide the Service. We have no influence over the processing and use of data by Google. Further information on data processing by Google can be found here: https://policies.google.com/privacy.
 
 20\. Links to other websites and applications
----------------------------------------------
 
 **20\. Links to other websites and applications**
 
@@ -1385,7 +1364,6 @@ Our website and the Lidl app contain links to other websites and apps operated b
 If we redirect you to one of these websites/apps, we process your personal data in order to fulfil your (technical) request to visit the respective application or website (Article 6(1)(b) GDPR) and on the basis of the operator’s legitimate interest in carrying out advertising (Article 6(1)(f) GDPR).
 
 21\. Access to functions and sensors on your mobile device
-----------------------------------------------------------
 
 **21\. Access to functions and sensors on your mobile device**
 
@@ -1428,7 +1406,6 @@ By accessing the other device functions and device sensors of your mobile device
 The legal basis for the processing of your location data is your consent in accordance with Article 6(1)(a) GDPR.
 
 22: Embedded third-party content
---------------------------------
 
 **22\. Embedded third-party content**
 
@@ -1441,7 +1418,6 @@ We have integrated YouTube videos into our website, which are available at https
 Further information on the purpose and scope of data collection and its processing by YouTube can be found in the provider’s privacy policy. There you will also find further information on your rights in this regard and setting options to protect your privacy. Address and privacy policy of YouTube: Google LLC, 1600 Amphitheatre Parkway. Mountain View, CA 94043, USA; https://policies.google.com/privacy?hl=en-gb.
 
 23\. Our Partners
------------------
 
 At Lidl GB we work with contracted and trusted partners both in store, and online as part of our marketing activities. Each of these partners are listed below, with a link to their privacy policy:
 
@@ -1482,7 +1458,6 @@ https://www.thebabyshow.co.uk/privacy-policy
 https://www.neighbourly.com/privacy
 
 24\. Stores
------------
 
 If you pay by card, we as a retailer collect your personal data via the payment terminal and transmit the data to the network operator. The network operator and the respective payment service providers for the authorisation and settlement of the payment transactions (e.g. acquirer) process the data further. The purposes are processing of payment, prevention of card misuse, limiting the risk of payment defaults and legally required purposes, such as combating money laundering and criminal prosecution. For these purposes your data will also be shared with other responsible parties, such as your card-issuing bank. Personal Data is at no time shared with the network operator
 
@@ -1535,7 +1510,6 @@ The legitimate interest consists in the processing of the cash withdrawal or the
 When selling products with age restrictions, such as alcohol (18 years) / the sale of computer games, DVDs, videos cassettes with age restrictions , our cashier staff will carry out a visual inspection of your ID card for the purpose of age verification in line with our Think25 policy as advertised in our stores. The legal basis is compliance with our legal obligation to not sell age-restricted products to persons under-age and legitimate interest in carrying out due diligence checks.
 
 25\. Automatic Number Plate Recognition (ANPR) In Our Car Parks
----------------------------------------------------------------
 
 Some of our stores have ANPR cameras to prevent overstaying which ensures our customers can always park when shopping with us. For stores where Lidl directly manages its own carparks, these are operated by ParkingEye. You can find out more about how they process your personal data by visiting their privacy policy.
 
@@ -1550,7 +1524,6 @@ Some of our stores are located within retail parks where ANPR is in operation so
   
 
 26\. Your Rights
-----------------
 
 Whilst we only process the necessary amount of data, for the necessary length of time, for the agreed purposes whilst ensuring secure storage and management, you reserve your own rights to your personal data.
 
@@ -1761,7 +1734,6 @@ You have the right to object to the processing of your personal data, for reason
 The above general right of objection applies to all processing purposes described in this privacy notice, which are processed on the basis of legitimate interests. This also applies in relation to data processing for the purpose of direct mail for marketing purposes. If you object to any processing of data, it will be stopped with effect for the future unless we as the controller are able to demonstrate overriding legitimate grounds for further processing that outweigh your interests.
 
 27\. Point of Contact
----------------------
 
 **27\. Point of Contact in case of general Questions**
 
@@ -1796,7 +1768,6 @@ If you have further questions regarding the processing of your data, you can con
 A complaint can be lodged with the supervisory authority for data protection in the United Kingdom which is the Information Commissioners Office (ICO). Further advice and guidance can be found on their website at www.ico.org.uk or by contacting their helpline on 0303 123 1113.
 
 28\. Controller Details
------------------------
 
 **Lidl House**
 
@@ -1813,7 +1784,6 @@ A complaint can be lodged with the supervisory authority for data protection in 
 **Lidl Great Britain Limited (registered company number 02816429) and ICO reference number Z6682144**
 
 29\. Visitors to our Premises
------------------------------
 
 We welcome visitors to our offices, including:
 
