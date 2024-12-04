@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 3, 2024**
+**December 4, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Tiny, Daily Bursts of Activity May Halve ...](https://www.sciencedaily.com/releases/2024/12/241203194357.htm)
 * [Countdown to an Ice-Free Arctic](https://www.sciencedaily.com/releases/2024/12/241203154440.htm)
 * [New Planet Discovered in Kepler-51 System](https://www.sciencedaily.com/releases/2024/12/241203153927.htm)
 * [Insect Fossil Find 'Extremely Rare'](https://www.sciencedaily.com/releases/2024/12/241202221905.htm)
@@ -217,7 +218,6 @@ this hour
 * [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
 * [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
 * [Primordial Black Holes May Be Hiding On Earth](https://www.sciencedaily.com/releases/2024/12/241202123658.htm)
-* [Venus Likely Has Never Been Habitable](https://www.sciencedaily.com/releases/2024/12/241202123421.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
-[Eye Care](https://www.sciencedaily.com/news/health_medicine/eye_care/)
+[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
 
-[Vitamin B](https://www.sciencedaily.com/news/health_medicine/vitamin_b/)
+[Nervous System](https://www.sciencedaily.com/news/health_medicine/nervous_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
-
-[Quantum Computing](https://www.sciencedaily.com/news/matter_energy/quantum_computing/)
-
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Veterinary Medicine](https://www.sciencedaily.com/news/plants_animals/veterinary_medicine/)
-
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+
+[Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
   
 
