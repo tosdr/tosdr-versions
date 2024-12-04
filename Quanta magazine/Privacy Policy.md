@@ -291,17 +291,17 @@ Past Week
 
 _By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
+[![Fish swimming with outlined brains and microbes within them](https://www.quantamagazine.org/wp-content/uploads/2024/12/FishBrainMicrobiome-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+
+[#### Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
+
+_By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
+
 [![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
 [#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
 _By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
-
-[![A man on a motherboard surrounded by computers](https://www.quantamagazine.org/wp-content/uploads/2024/11/Distributed-Computing_crCarlos-Arrojo-Thumbnail.webp)](https://www.quantamagazine.org/what-is-distributed-computing-20241125/)
-
-[#### What Is Distributed Computing?](https://www.quantamagazine.org/what-is-distributed-computing-20241125/)
-
-_By_ [Max G. Levy](https://www.quantamagazine.org/authors/levymax)
 
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
 
