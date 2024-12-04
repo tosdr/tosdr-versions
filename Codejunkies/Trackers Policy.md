@@ -255,7 +255,7 @@ The table below explains the cookies we use and why.
 * [Pokemon Go](https://www.codejunkies.com/Departments/Pokemon-Go.aspx)
 * [Power Points](https://www.codejunkies.com/Departments/Power-Points.aspx "Power Points")
 * [Amiibo](https://www.codejunkies.com/Departments/Amiibo.aspx)
-* [PS4](https://www.codejunkies.com/Departments/PS4.aspx "PS4 Accessories")
+* [Playstation](https://www.codejunkies.com/Departments/Playstation.aspx "PS4 and PS5 Accessories")
 * [Retro](https://www.codejunkies.com/Departments/Retro.aspx)
 * [Switch](https://www.codejunkies.com/Departments/Switch.aspx)
 * [Your Account](https://www.codejunkies.com/Departments/Your-Account.aspx)
