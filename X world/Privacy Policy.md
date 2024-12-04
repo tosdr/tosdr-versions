@@ -94,10 +94,10 @@ Search for:
 ### Recent Posts
 
 * [What is rock-climbing?](https://xworld.org/sports/what-is-rock-climbing/)
+* [Do Business Coaches Need a Strong Brand?](https://xworld.org/business/do-business-coaches-need-a-strong-brand/)
 * [Explore The Scenic Cotswolds With A Personalised Tour](https://xworld.org/tour-and-travel/explore-the-scenic-cotswolds-with-a-personalised-tour/)
 * [The Art and Science of Chemical Blending: Innovations and Applications](https://xworld.org/reviews/the-art-and-science-of-chemical-blending-innovations-and-applications/)
 * [Why Resort Condos Are Ideal for Group Vacations](https://xworld.org/tour-and-travel/why-resort-condos-are-ideal-for-group-vacations/)
-* [Fitted v Modular Freestanding Wardrobe: The Pros and Cons](https://xworld.org/home-improvement/fitted-v-modular-freestanding-wardrobe-the-pros-and-cons/)
 
 ### Categories
 
