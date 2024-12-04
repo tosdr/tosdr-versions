@@ -1,13 +1,13 @@
-[![Guest Reservations - Logo](/assets/bb50d1fe/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
+[![Guest Reservations - Logo](/assets/12c8db29/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
 An independent travel network](https://www.guestreservations.com/ "Guest Reservations")
 
 [Groups (9+ Rooms)](https://groups.guestreservations.com/Group-Rate/ "Groups (9+ Rooms)") [Travel Guides](https://www.guestreservations.com/about/news "Travel Guides") [My Booking](https://www.guestreservations.com/about/mybooking "My Booking")
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
 
 Guest Reservations Terms of Use
 ===============================
@@ -145,9 +145,9 @@ If you have a good faith belief that we removed your content in error, you may s
 
 Travel Agent may modify the terms of this Contract at any time by posting a new version on the Site, and you should review the Contract each time you use the Site or Services. If you do not agree to the modified terms, you will not be bound by the modified terms if you email [\[email protected\]](https://www.guestreservations.com/cdn-cgi/l/email-protection) within 30 days of the date of the modified terms, outlining your disagreement, and thereafter discontinuing your use of the Site and the Services; if you do so, you will still be bound by any prior version of the terms. This Contract may not otherwise be amended except in writing, signed by you and Travel Agent. This Contract constitutes the entire contract between you and Travel Agent with respect to the subject matters hereof. This Contract is severable. If any provision of this Contract is held to be invalid or unenforceable, such provision shall be enforced to the maximum extent possible, or if not enforceable, then struck, and the remaining provisions shall be enforced to the fullest extent. You agree that Travel Agent may assign this Contract and any incorporated contracts in its sole discretion. Headings are for reference purposes only. Except as expressly set forth herein, nothing in this Contract shall be construed as creating or constituting a partnership, joint venture, or agency relationship between you and Travel Agent (or any Beneficiary). Travel Agent’s failure to insist on strict performance of this Contract or to act with respect to a breach does not waive any of its rights.
 
- ![Guest Reservations - Logo](/assets/5efe07dc/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
+ ![Guest Reservations - Logo](/assets/e059699d/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
 
- [![Guest Reservations on Facebook](/assets/5efe07dc/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/5efe07dc/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/5efe07dc/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/5efe07dc/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/5efe07dc/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
+ [![Guest Reservations on Facebook](/assets/e059699d/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/e059699d/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/e059699d/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/e059699d/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/e059699d/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
 
 ##### Learn more
 
