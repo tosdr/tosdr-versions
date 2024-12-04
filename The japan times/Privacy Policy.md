@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 04, 2024](https://www.japantimes.co.jp/archive/2024/12/04/ "archive page")
+[December 05, 2024](https://www.japantimes.co.jp/archive/2024/12/05/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,29 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Japan’s 2024 buzzword of the year urges a reevaluation of past norms](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
 
-  [![Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437645.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sadao Abe, who played the role of a time-traveling Showa Era teacher transported to present day in a popular TV drama, receives the 2024 buzzword of the year award for the word "futehodo," the nickname of the series.")](https://www.japantimes.co.jp/news/2024/12/02/japan/society/2024-buzzword-of-the-year-announced/ "Japan’s 2024 buzzword of the year urges a reevaluation of past norms")
+  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+
+[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
+
+  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
 
 [Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
   [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
-[Trump says will 'block' Nippon Steel from taking over U.S. Steel](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+[Jetstar Japan loses lawsuit over disciplinary action against cabin crew](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-  [![U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437801.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President-elect Donald Trump says he will "block" a planned takeover of U.S. Steel by Nippon Steel.")](https://www.japantimes.co.jp/business/2024/12/03/companies/trump-to-block-nippon-steel/ "Trump says will 'block' Nippon Steel from taking over U.S. Steel")
+  [![Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437761.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
 
-[Japan witnesses warmest fall on record](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
-  [![Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437862.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Hibiya Park in Tokyo's Chiyoda Ward on Saturday. Warm weather has delayed the country's autumn foliage season — when tourists flock to see leaves turn vibrant reds and yellows.")](https://www.japantimes.co.jp/news/2024/12/03/japan/japan-warmest-autumn/ "Japan witnesses warmest fall on record")
+  [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
-[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+[U.S. Space Force launches first unit in Japan](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
 
-  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
+  [![Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.")](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
 
 [Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
@@ -494,15 +498,11 @@ Revised June 1, 2022
 
 [Seven strangers and an algorithm: Can this new dinner app help you make friends?](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
 
-  [![Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service. ")](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
+  [![Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service.")](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
 
 [Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
   [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-[The Geisha bean is the leading lady of Tokyo's coffee scene](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
-
-  [![Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/436551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.")](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[U.S. Defense Secretary Austin planning to visit Japan next week](https://www.japantimes.co.jp/news/2024/12/04/japan/defense-austin-visit/ "U.S. Defense Secretary Austin planning to visit Japan next week")
+
+4 hours ago
+
+[Panasonic plant in U.K. to go fully renewable](https://www.japantimes.co.jp/business/2024/12/04/panasonic-uk-plant/ "Panasonic plant in U.K. to go fully renewable")
+
+4 hours ago
+
+[Trump taps team geared toward retribution and remaking of U.S. government](https://www.japantimes.co.jp/news/2024/12/04/world/politics/trump-team-retribution/ "Trump taps team geared toward retribution and remaking of U.S. government")
+
+4 hours ago
+
+[When undersea cables break, a wireless world’s vulnerability is exposed](https://www.japantimes.co.jp/news/2024/12/04/world/cables-under-sea-wireless-vulnerability/ "When undersea cables break, a wireless world’s vulnerability is exposed")
+
+6 hours ago
+
 [Trump considers replacing Hegseth with DeSantis to run Pentagon, report says](https://www.japantimes.co.jp/news/2024/12/04/world/politics/desantis-trump-defense-secretary/ "Trump considers replacing Hegseth with DeSantis to run Pentagon, report says")
 
-28 mins ago
-
-[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
-
-39 mins ago
-
-[Yoon’s gambit a tempest in a teapot for financial markets](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
-
-1 hour ago
-
-[Japanese drug market prices 5.2% lower than official prices](https://www.japantimes.co.jp/business/2024/12/04/drug-market-prices/ "Japanese drug market prices 5.2% lower than official prices")
-
-1 hour ago
-
-[BOJ sells 10-year cash bonds to ease shortage tied to futures](https://www.japantimes.co.jp/business/2024/12/04/economy/boj-bond-sell/ "BOJ sells 10-year cash bonds to ease shortage tied to futures")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
