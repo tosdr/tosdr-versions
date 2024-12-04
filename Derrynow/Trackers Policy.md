@@ -273,13 +273,6 @@ Most Popular
 [Man who is allegedly 'heavily involved in the supply of cocaine in the city' granted bail](https://www.derrynow.com/news/local-news/1671607/man-who-is-allegedly-heavily-involved-in-the-supply-of-cocaine-in-the-city-granted-bail.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, December 3, 2024](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend")](https://www.derrynow.com/news/national-news/1671974/pictures-music-lovers-pack-dingle-for-unforgettable-other-voices-2024-weekend.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
@@ -303,15 +296,6 @@ Lee Brady has hung up his football boots in a bid to pursue his music career.
 [All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man refused to leave cell before Derry court appearance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man refused to leave cell before Derry court appearance")](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man refused to leave cell before Derry court appearance](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry court to write to Law Society about solicitors firm who have not attended court on four occasions](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry court to write to Law Society about solicitors firm who have not attended court on four occasions")](https://www.derrynow.com/news/local-news/1671690/derry-court-to-write-to-law-society-about-solicitors-firm-who-have-not-attended-court-on-four-occasions.html)
 
 Derry Magistrate's Court
@@ -320,6 +304,15 @@ Derry Magistrate's Court
 
 [Derry court to write to Law Society about solicitors firm who have not attended court on four occasions](https://www.derrynow.com/news/local-news/1671690/derry-court-to-write-to-law-society-about-solicitors-firm-who-have-not-attended-court-on-four-occasions.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man refused to leave cell before Derry court appearance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man refused to leave cell before Derry court appearance")](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man refused to leave cell before Derry court appearance](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man facing 26 drug and criminal property charges returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man facing 26 drug and criminal property charges returned for trial")](https://www.derrynow.com/news/local-news/1671686/derry-man-facing-26-drug-and-criminal-property-charges-returned-for-trial.html)
 
@@ -338,6 +331,15 @@ Saint Joseph’s Catholic Church, Glenullin.
 
 [Breathtaking eighteenth century County Derry chapel restored to perfection](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven runner raises £5,700 for men’s mental health in memory of Eugene")](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
+
+Eugene's memorial card sits among James' medals.
+
+[Home](https://www.derrynow.com/)
+
+[Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +519,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, December 4, 2024](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![All-Ireland minor winner hangs up football boots after signing to LA record label](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland minor winner hangs up football boots after signing to LA record label")](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
 
 Lee Brady has hung up his football boots in a bid to pursue his music career.
@@ -526,7 +535,7 @@ Lee Brady has hung up his football boots in a bid to pursue his music career.
 [All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven runner raises £5,700 for men’s mental health in memory of Eugene")](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
+[![Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](https://www.derrynow.com/resizer/165/93/true/2024_12_02/CDP_-_03-12-24_-_Page_4_lead_pic_%282%29-1733159984768_1733160197.jpg--.jpg?1733160197418 "Dungiven runner raises £5,700 for men’s mental health in memory of Eugene")](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
 
 Eugene's memorial card sits among James' medals.
 
@@ -559,13 +568,6 @@ Saint Joseph’s Catholic Church, Glenullin.
 
 [Breathtaking eighteenth century County Derry chapel restored to perfection](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyleside Shopping Centre Welcomes MANGO this Saturday](https://www.derrynow.com/resizer/165/93/true/2024_12_03/coming_soon_1_-1733241942356.jpg--.jpg?1733241942433 "Foyleside Shopping Centre Welcomes MANGO this Saturday")](https://www.derrynow.com/news/local-news/1671980/foyleside-shopping-centre-welcomes-mango-this-saturday.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyleside Shopping Centre Welcomes MANGO this Saturday](https://www.derrynow.com/news/local-news/1671980/foyleside-shopping-centre-welcomes-mango-this-saturday.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
