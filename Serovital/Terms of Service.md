@@ -2,13 +2,13 @@
 
 Pause slideshow Play slideshow
 
-[**CYBER MONDAY:** 30% OFF 🛍️ Use code: CM2024](https://www.serovital.com/collections/all-products "All Products")
+[**CHOOSE YOUR GIFT WITH PURCHASES $75+^**](https://www.serovital.com/collections/all-products "All Products")
 
-[**CYBER MONDAY:** 30% OFF 🛍️ Use code: CM2024](https://www.serovital.com/collections/all-products "All Products")
+[**CHOOSE YOUR GIFT WITH PURCHASES $75+^**](https://www.serovital.com/collections/all-products "All Products")
 
-[**TODAY ONLY:** Free FULL-SIZE TriHydrate with $75+](https://www.serovital.com/collections/all-products "All Products")
+[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
 
-[**TODAY ONLY:** Free FULL-SIZE TriHydrate Hyaluronic Acid Serum with Purchases $75+](https://www.serovital.com/collections/all-products "All Products")
+[**HOLIDAY KITS:** Sparkle & shine with limited-edition gift sets 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
 
 [**LIMITED-EDITION HOLIDAY KITS:** Up to 48% in savings 🎁](https://www.serovital.com/collections/holiday-kits "Holiday Sets")
 
@@ -146,7 +146,7 @@ Follow us
 
 \*These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease.
 
-^Cannot be combined with other offers or applied to past purchases; Cyber Monday offers (30% Off and Free Gift with $75 minimum purchase) exclude Holiday Kits and select bundle products. For new subscription sign-ups, additional 30% savings applies only to your first shipment; after your first order, regular subscription savings will apply. Offer ends 12/3/24 at 11:59pm PST.
+^"Pick Your Gift" offer applies to new orders with subtotal of $75 or more; Cannot be applied to previous purchases; Offer excludes Holiday Kits and select bundle products; Gift must be selected via pop-up and added to cart prior to checkout before purchase is complete; Offer ends 12/31/24 or while supplies last.
 
 SeroVital is protected by U.S. Patent Numbers 8,551,542; 8,715,752; 8,722,114; 8,734,864; 8,747,921; 8,747,922; 8,765,195; 8,808,763; 8,808,764; 8,815,311; 9,066,953; 9,198,889; 9,238,023; 9,339,490; and Canadian Patent Number: 2840809.  
 The Smart Release compound in SeroVital Advanced is protected by U.S. Patent Number 9,114,091.
