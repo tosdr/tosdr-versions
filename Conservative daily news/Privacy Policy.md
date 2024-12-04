@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Affordable Versatility: Exploring the .300 Blackout’s Potential with a Budget Bolt Gun and LPVO](https://www.thegunpage.com/affordable-versatility-exploring-the-300-blackouts-potential-with-a-budget-bolt-gun-and-lpvo/10612262)
+* [Bergara Offers Barreled Actions And Bare Actions](https://www.thegunpage.com/bergara-offers-barreled-actions-and-bare-actions/10612265)
+* [GOA Nominated for Two Gundies at SHOT Show](https://www.thegunpage.com/goa-nominated-for-two-gundies-at-shot-show/10612261)
 * [Jewish Teens In Dallas Speak Out About Gun Ownership](https://www.thegunpage.com/jewish-teens-in-dallas-speak-out-about-gun-ownership/10612259) 
+* [Pennsylvania State Police SERT Selects Geissele MK1MOD0](https://www.thegunpage.com/pennsylvania-state-police-sert-selects-geissele-mk1mod0/10612266)
+* [Custom Compact, Carry Piece – Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/custom-compact-carry-piece-springfield-armory-echelon-4-0c-9mm/10612260)
 * [Louisiana AG, New Orleans Police Superintendent Spar Over Carry Law](https://www.thegunpage.com/louisiana-ag-new-orleans-police-superintendent-spar-over-carry-law/10612254)
+* [USPSA Multigun Nationals: A New Lease On Life For Hit Factor](https://www.thegunpage.com/uspsa-multigun-nationals-a-new-lease-on-life-for-hit-factor/10612264)
 * [Griffin Armament Announces 1x And 3x T-2 Footprint Prism Sights](https://www.thegunpage.com/griffin-armament-announces-1x-and-3x-t-2-footprint-prism-sights/10612256)
-* [SAF Asks SCOTUS To Hear California Gun Show Lawsuit](https://www.thegunpage.com/saf-asks-scotus-to-hear-california-gun-show-lawsuit/10612250)
 * [Firearm Background Checks Drop Nearly 10% Ahead of Black Friday 2024](https://www.thegunpage.com/firearm-background-checks-drop-nearly-10-ahead-of-black-friday-2024/10612248)
-* [The U.S. National Rifle Team’s Voyage To The West Indies Fullbore Championships](https://www.thegunpage.com/the-u-s-national-rifle-teams-voyage-to-the-west-indies-fullbore-championships/10612257)
-* [Seven pro-gun ear surgeons create national sound-suppressor policy](https://www.thegunpage.com/seven-pro-gun-ear-surgeons-create-national-sound-suppressor-policy/10612246)
-* [Nighthawk Custom: A Legacy Of Craftsmanship And Excellence](https://www.thegunpage.com/nighthawk-custom-a-legacy-of-craftsmanship-and-excellence/10612245)
-* [TFB Review: SIG Sauer P320 Max](https://www.thegunpage.com/tfb-review-sig-sauer-p320-max/10612242)
-* [POTD: Ruger Precision Rifle With Leica PRS 5-30x56i Riflescope](https://www.thegunpage.com/potd-ruger-precision-rifle-with-leica-prs-5-30x56i-riflescope/10612243)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
