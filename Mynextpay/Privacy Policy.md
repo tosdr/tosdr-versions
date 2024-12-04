@@ -23,6 +23,7 @@
     * [E-TRANSFER PAYDAY LOANS](https://mynextpay.ca/e-transfer-payday-loans-in-canada/)
 * [ABOUT US](https://mynextpay.ca/about-us/)
 * [CONTACT US](https://mynextpay.ca/contact/)
+* [FAQ](https://mynextpay.ca/faq/)
 * [APPLY NOW!](https://mynextpay.ca/apply-now/)
 
 Select Page
