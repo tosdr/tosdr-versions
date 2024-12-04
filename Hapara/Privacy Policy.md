@@ -218,20 +218,19 @@ Power awesome digital learning anywhere, anytime.
 -------------------------------------------------
 
 * Get Started
-    * [For monitoring](https://hapara.com/classroom-management/)
-    * [For instruction](https://hapara.com/instructional-management/)
+    * [Why Hāpara?](https://hapara.com/why-schools-purchase-hapara-classroom-management-software/)
     * [Buyer’s guide](https://hapara.com/buyers-guide/)
-    * [Request a demo](https://hapara.com/demo/)
     * [Request pricing](https://hapara.com/pricing/)
+    * [Request a demo](https://hapara.com/demo/)
     * [Our blog](https://hapara.com/blog/)
-* Solutions
+    * [Our newsletter](https://hapara.com/newsletter/)
+* Products
     * [Highlights](https://hapara.com/highlights/)
-    * [Web filter](https://hapara.com/filter/)
     * [Teacher Dashboard](https://hapara.com/teacher-dashboard/)
+    * [Web filter](https://hapara.com/filter/)
     * [Workspace](https://hapara.com/workspace/)
     * [Student Dashboard](https://hapara.com/student-dashboard/)
 * Company
-    * [Why Hāpara?](https://hapara.com/why-schools-purchase-hapara-classroom-management-software/)
     * [Careers](https://hapara.com/careers/)
     * [Media kit](https://hapara.com/media-kit/)
     * [Legal](https://legal.cordance.co/hapara)
@@ -240,7 +239,6 @@ Power awesome digital learning anywhere, anytime.
 * Resources
     * [Contact us](https://hapara.com/contact/)
     * [Product updates](https://hapara.com/product-updates/)
-    * [Vs. alternatives](https://hapara.com/web-filter-for-k12-schools/)
     * [Events and conferences](https://hapara.com/events/)
     * [For parents](https://hapara.com/for-parents/)
     * [Federal funding](https://hapara.com/federal-funding-for-k12/)
