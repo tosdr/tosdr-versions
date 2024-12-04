@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Certain names make ChatGPT grind to a halt, and we know why](https://cdn.arstechnica.net/wp-content/uploads/2024/12/wrench_in_gears-768x432.jpg)](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+1. [![Listing image for first story in Most Read: China hits US with ban on critical minerals used in tech manufacturing](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-1195574766-768x432.jpg)](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-    1. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+    1. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-2. 2. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
+2. 2. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
     
-3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
+3. 3. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
     
-4. 4. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
+4. 4. [Splash pads really are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
     
-5. 5. [Falcon 9 reaches a flight rate 30 times higher than shuttle at 1/100th the cost](https://arstechnica.com/space/2024/12/spacex-has-set-all-kinds-of-records-with-its-falcon-9-rocket-this-year/)
+5. 5. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
     
 
 Customize
