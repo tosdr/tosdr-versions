@@ -118,12 +118,6 @@
     *  [![About Us](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/History_Nav_Company.svg) About Us](https://www.honeywell.com/us/en/company/about-us)
     *  [![Investors](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Investors_opt%20A_Nav_Company.svg) Investors](https://www.honeywell.com/us/en/company/investor-relations)
     *  [![Our History](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-icons-history.svg) History](https://www.honeywell.com/us/en/company/our-history)
-    *  [![Cybersecurity](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-corp-ot-cybersecurity-icon.svg) OT Cybersecurity](https://www.honeywell.com/us/en/company/ot-cybersecurity)
-        
-        OT Cybersecurity
-        
-        *  [![Cybersecurity](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/hon-corp-ot-cybersecurity-icon.svg) Compliance](https://www.honeywell.com/us/en/company/ot-cybersecurity/compliance)
-        
     *  [![Quantum](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Quantum_opt%20A_Nav_Company.svg) Quantum](https://www.honeywell.com/us/en/company/quantum)
     *  [![Sustainability](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/HW%20icons_Sustainability_Projects.svg) Sustainability](https://www.honeywell.com/us/en/company/sustainability)
     *  [![Honeywell Ventures](/content/dam/honeywellbt/en/images/content-images/nav-icons/company/Ventures_Nav_Company.svg) Ventures](https://www.honeywell.com/us/en/company/ventures)
