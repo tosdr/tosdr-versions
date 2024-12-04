@@ -496,6 +496,7 @@ Booking Options
 * [Hold the fare](https://www.westjet.com/en-ca/flights/payment/hold-fare)
 * [Book with a companion voucher](https://www.westjet.com/en-ca/flights?=iscompanionvouchertrue)
 * [Book with WestJet Dollars](https://www.westjet.com/en-ca/flights?=iswestjetdollarstrue)
+* [Gift cards](https://www.westjet.com/en-ca/extras/gift-card)
 * [Fares, taxes and fees](https://www.westjet.com/en-ca/flights/fares)
 * [Car Rental](https://autos.westjet.com/)﻿
 * [Destinations](https://www.westjet.com/en-ca/destinations)
@@ -533,7 +534,7 @@ Help
 * [FAQs](https://www.westjet.com/en-ca/help)
 * [Travel Agents](https://www.westjettravelagents.com/)﻿
 * [Flight interruptions and passenger rights](https://www.westjet.com/en-ca/interruptions)
-* [About us](https://www.westjet.com/en-ca/who-we-are)
+* [Who we are](https://www.westjet.com/en-ca/who-we-are)
 
 Legal
 =====
