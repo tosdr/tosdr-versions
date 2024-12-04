@@ -9,7 +9,7 @@
 ### Reason's Annual Webathon is underway! Donate today to see your name here.
 
 #### Reason is supported by:  
-Geoffrey Brand / Halleh Seyson
+Rex Anderson
 
 [Donate](https://reason.com/donate/?rfr=d0001&ip_creative_slot=ad&ip_creative_name=top_banner&ip_promotion_id=d0001&ip_promotion_name=webathon_2024&ip_item_name=donation "Donate to Reason")
 
