@@ -24,7 +24,7 @@ Management](https://www.mavrck.co/)
     
     * [Social Media ManagersWork faster & get better results](https://www.mavrck.co/social-media-managers/)
     * [AgenciesManage social campaigns for clients](https://www.mavrck.co/later-social-for-agencies/)
-    * [CreatorsFind brand collabs and get paid](https://www.mavrck.co/creators/)
+    * [CreatorsFind brand collabs and get paid](https://www.mavrck.co/influencer-creator-program/)
     * [Small Business OwnersPost consistently & drive sales](https://www.mavrck.co/small-business-owners/)
     
     New Later Social Feature
@@ -1413,7 +1413,7 @@ Phone number: 1-844-MAVRCK1
     
     * [Social Media Managers](https://www.mavrck.co/social-media-managers/)
     * [Agencies](https://www.mavrck.co/later-social-for-agencies/)
-    * [Creators](https://www.mavrck.co/creators/)
+    * [Creators](https://www.mavrck.co/influencer-creator-program/)
     * [Small Business Owners](https://www.mavrck.co/small-business-owners/)
     
     Pricing
