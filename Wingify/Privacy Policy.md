@@ -192,6 +192,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/og-image-8-Best-Customer-Journey-Mapping-Tools_-Top-Picks-1.jpg?tr=w-60,h-50)
+    
+    8 Top Customer Journey Mapping Tools: Features, Pricing & More](https://vwo.com/blog/customer-journey-mapping-tools/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/07/Feature-image-Introducing-the-New-Stats-Engine-and-Enhanced-VWO-Reports.jpg?tr=w-60,h-50)
     
     Introducing the New Stats Engine and enhanced VWO Reports](https://vwo.com/blog/new-stats-engine-and-enhanced-vwo-reports/)
@@ -207,10 +211,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-18-Top-Customer-Activation-Tools-Software-for-Enhanced-User-Engagement.jpg?tr=w-60,h-50)
     
     18 Top Customer Activation Tools & Software for Enhanced User Engagement](https://vwo.com/blog/customer-activation-tools/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-CRO-Perspectives-Ian-Fong.jpg?tr=w-60,h-50)
-    
-    Leverage CRO for Cost Efficiency and Strategy Building, Not Just Revenue](https://vwo.com/blog/ian-fong-interview/)
     
     Featured Blogs
     
