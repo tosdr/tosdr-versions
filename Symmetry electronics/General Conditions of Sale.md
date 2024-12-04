@@ -380,7 +380,7 @@ SymmetryElectronics.com accepts merchandise returns subject to the terms outline
     
 * Returned merchandise must be in original packaging and in resalable condition.
     
-* Products returned due to customer error or non delivery may be subject to a 15-25% restocking charge. Special order and custom items or “Non-Cancelable/Non-Returnable” items are not eligible for return.
+* Products returned due to customer error or non delivery may be subject to a 30% restocking charge. Special order and custom items or “Non-Cancelable/Non-Returnable” items are not eligible for return.
     
 * Merchandise damaged due to misuse is not eligible for return or refund.
     
