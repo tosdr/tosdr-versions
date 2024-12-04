@@ -31,681 +31,638 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El futbolista Pedro Pablo Perlaza fue secuestrado en Esmeraldas
-===============================================================
+Adulto mayor sobrevivió tras caer del techo de una casa en el centro de Quito
+=============================================================================
 
-Pedro Pablo Perlaza, futbolista ecuatoriano del Delfln, sufrió un secuestro en Esmeraldas.
-------------------------------------------------------------------------------------------
+Un grupo de personas contuvo la caída del hombre con sábanas. El hecho se registró la tarde de este martes 2 de diciembre.
+--------------------------------------------------------------------------------------------------------------------------
 
-Pedro Pablo Perlaza, futbolista ecuatoriano que finalizó la temporada 2024 en Delfín, fue secuestrado en la ciudad de Esmeraldas. La tarde del lunes 2 de diciembre del 2024 se produjo el hecho y se dio alerta a las autoridades.
+![Paramédicos del Cuerpo de Bomberos de Quito atendieron al ciudadano en el lugar](https://www.elcomercio.com/wp-content/uploads/2024/12/caida-hombre-centro-quito.jpg)
 
-Fuentes de la Policía Nacional confirmaron el suceso a EL COMERCIO. Este se llevó a cabo en el sector de Puerto Limón en la ciudad costanera y no solo involucró al jugador, sino también a Juan Carlos Morales, quien también fue víctima.
-
-### Más noticias:
-
-* [Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro](https://www.elcomercio.com/deportes/final-liga-pro-historico-precio.html "Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro")
-* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
-* [Entradas para la final de ida de la Liga Pro a la venta](https://www.elcomercio.com/deportes/futbol/venta-entradas-final-liga-pro.html "Entradas para la final de ida de la Liga Pro a la venta")
-
-A partir del reporte, la Policía ha movilizado efectivos para proceder con el suceso denunciado. Asimismo, realiza procedimientos de investigación para recuperar a los dos ciudadanos.
-
-Noticia lanzada.
-
-Lionel Messi encabeza el equipo del año en MLS
-==============================================
-
-Lionel Messi es el líder del equipo del año de la MLS, en el cual no logró meterse ningún jugador ecuatoriano.
---------------------------------------------------------------------------------------------------------------
-
-![Lionel Messi en un partido con el Inter de Miami en la MLS.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-43.jpg)
-
-El argentino Lionel Messi, el colombiano **Juan Camilo ‘Cucho’ Hernández** y el español **Riqui Puig** son tres de los jugadores que componen el equipo ideal de la MLS en 2024, anunció la liga este martes.
-
-Messi (Inter Miami) y ‘Cucho’ (Columbus Crew) comparten espacio en la delantera del mejor once de la MLS con **Christian Benteke** (D.C. United) y **Denis Bouanga** (Los Angeles FC)[.](https://es.wikipedia.org/wiki/Lionel_Messi "https://es.wikipedia.org/wiki/Lionel_Messi")
-
-### Más noticias:
-
-* [Messi y Cristiano, nominados al mejor del mundo en 2024](https://www.elcomercio.com/deportes/futbol/the-best-messi-cristiano-nominados.html "Messi y Cristiano, nominados al mejor del mundo en 2024")
-* [Lionel Messi anhela con regresar a Barcelona](https://www.elcomercio.com/deportes/futbol/lionel-messi-anhela-con-regresar-a-barcelona.html "Lionel Messi anhela con regresar a Barcelona")
-* [Javier Mascherano será el nuevo DT de Lionel Messi y Campana](https://www.elcomercio.com/deportes/futbol/javier-mascherano-sera-el-nuevo-dt-de-lionel-messi-y-campana.html "Javier Mascherano será el nuevo DT de Lionel Messi y Campana")
-
-En el centro del campo, **Puig** ha llevado al **LA Galaxy** a la final de la MLS Cup, pero el exbarcelonista no podrá disputar este sábado el encuentro por el título ante los **New York Red Bulls** tras romperse la semana pasada el ligamento cruzado de la rodilla izquierda.
-
-Puig encabeza la medular del equipo ideal de la **MLS**, donde también aparecen el argentino Luciano Acosta (Cincinnati) y el brasileño Evander (Portland Timbers).
-
-En la defensa fueron elegidos el español Jordi Alba (Inter Miami), el colombiano Yeimar Gómez (Seattle Sounders) y Steven Moreira (Columbus Crew).
-
-El mejor guardameta de la temporada fue **Kristijan Kahlina** (Charlotte).
-
-Ecuador, sin representantes en el once ideal junto a Messi en la MLS
---------------------------------------------------------------------
-
-Argentina (Messi y Acosta), España (Puig y Alba) y Colombia (‘Cucho’ y Yeimar) fueron los tres países con mayor representación en este once ideal escogido por los medios de comunicación, los jugadores de la **MLS** y el personal técnico de los clubes.
-
-Ecuador no contó con representantes dentro del once ideal a pesar de sí tener presencia en la MLS. Estos son **Pedro Vite, Anderson Julio, Carlos Gruezo, Patrickson Delgado, Xavier Arreaga, Jefferson Valverde y Leonardo Campana**.
-
-Campana, sin embargo, fue uno de los ecuatorianos más destacados en el torneo estadounidense. El ecuatoriano es compañero de **Lionel Messi** y, momentáneamente, fue el máximo goleador histórico del club.
-
-Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO
-=================================================================================
-
-El 4 de diciembre del 2024 se inagura el nuevo bulevar de la av. De los Shyris, que tendrán un homenaje a Paúl Rivas, Efraín Segarra y Javier Ortega.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Trabajadores de la Epmmop afinan los detalles en las tres piletas que se levantan en honor de Javier Ortega, Efraín Segarra y Paúl Rivas, periodistas de EL COMERCIO asesinados en el 2018.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-03T131547.451.jpg)
-
-La tribuna de la av. **De los Shyris** ya solo quedará como el recuerdo de que fue un punto de encuentro para los quiteños. En sus últimos años, estaba vallada y con poca iluminación por las noches. Desde **el miércoles 4 de diciembre del 2024**, ese panorama cambiará cuando se entregue el bulevar, que rinde honor a los tres periodistas de **EL COMERCIO**, asesinados en la frontera norte, en el 2018.
+Un **adulto mayor** sufrió una **caída** considerable desde una casa de **dos pisos** ubicada en el centro de Quito, la tarde de este martes 3 de diciembre de 2024.
 
 ### Más noticias
 
-* [El Quitofest no es solo rock, también es…](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html "El Quitofest no es solo rock, también es…")
+* [Estado de excepción en Quito, ¿aplica el toque de queda durante sus fiestas?](https://www.elcomercio.com/actualidad/quito/estado-excepcion-quito-toque-queda.html "Estado de excepción en Quito, ¿aplica el toque de queda durante sus fiestas?")
+* [Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/concierto-apunalados-san-francisco-quito.html "Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco")
 * [Presunto autor de incendio forestal en Quito fue declarado inocente](https://www.elcomercio.com/actualidad/quito/presunto-autor-incendio-forestal-quito-declarado-inocente.html "Presunto autor de incendio forestal en Quito fue declarado inocente")
-* [Las Fiestas de Quito cambiaron su orientación en este siglo](https://www.elcomercio.com/actualidad/fiestas-quito-cambiaron-orientacion.html "Las Fiestas de Quito cambiaron su orientación en este siglo")
 
-Un nuevo bulevar
-----------------
+En videos ciudadanos difundidos en redes sociales se observa al hombre sobre el tejado de una vivienda, en las calles **Chile y Flores**, mientras los transeúntes miraban **preocupados** por el riesgo que corría.
 
-El bulevar es denominado **Quito Ciudad de Paz** y tendrá un homenaje a los tres periodistas de EL COMERCIO asesinados en la frontera norte: **Javier Ortega. Paúl Rivas y Efraín Segarra.**
+Un grupo de personas contuvo la caída con sábanas
+-------------------------------------------------
 
-Las **tres piletas** que se levantan allí serán en su honor, aunque, como dijo Gabriela Andrade, directora de Construcciones de la Gerencia de Parques de la Empresa Pública Metropolitana de Movilidad y Obras Públicas, no tendrá, por el momento, ninguna placa o algo parecido que les mencione.
+Luego de unos minutos, **el hombre cayó de espaldas**, pero con fortuna fue **contenido** **con sábanas** por un grupo de personas, entre ellos, policías y agentes de control.
 
-**Ricardo Rivas,** hermano de Paúl, recuerda que en el **2018** se aprobó una ordenanza, impulsada por el concejal **Bernardo Abad,** para levantar un recordatorio en la memoria de Paúl, Efraín y Javier sobre la avenida **Naciones Unidas.** Como no se lo hizo, hubo una actualización de la ordenanza para que este memorial se levante en el nuevo bulevar de la av. De los Shyris[.](https://es.wikipedia.org/wiki/Secuestro_y_asesinato_de_periodistas_de_El_Comercio "https://es.wikipedia.org/wiki/Secuestro_y_asesinato_de_periodistas_de_El_Comercio")[](https://es.wikipedia.org/wiki/Secuestro_y_asesinato_de_periodistas_de_El_Comercio "https://es.wikipedia.org/wiki/Secuestro_y_asesinato_de_periodistas_de_El_Comercio")
+Sobre el hecho, el **ECU 911** informó que la alerta ingresó a las 15:34. De inmediato la entidad coordinó la movilización de la Policía, Cuerpo de Bomberos de Quito, la Agencia Metropolitana de Tránsito (AMT) y el Cuerpo de Agentes de Control Metropolitano.
 
-“El concepto es un **espacio de paz, de libertad,** en la que se puedan reunir los ciudadanos y se decide colocar este tributo a la memoria de Paúl, Efraín y Javier. Pero creo que, **más allá del tributo,** es un espacio donde podemos **reflexionar sobre nuestros derechos a la libertad de expresión e información”**, sostiene Rivas. “La sociedad debe cuidar esos espacios para no volver a caer en estas circunstancias que quisieron minar a nuestra sociedad y asesinar tres periodistas y usarlos para el canje de rehenes”, añade.
+Los paramédicos del **Cuerpo de Bomberos** brindaron **atención prehospitalaria** al hombre, que resultó herido en la caída.
 
-El bulevar y La Carolina
-------------------------
+Los uniformados confirmaron que la persona de la tercera edad presentó un **trauma cráneo-encefálico leve**, además de **múltiiples contuciones**[.](https://www.bomberosquito.gob.ec/ "https://www.bomberosquito.gob.ec/")
 
-Son **1 400 metros de longitud**, desde la avenida E**loy Alfaro hasta la avenida Naciones Unidas**. Tiene unos **pórticos** que se levantan en donde hubo la tribuna. Tienen una altura de seis metros de alto y un volado igualmente de seis metros.
+Una vez fue estabilizado, el ciudadano fue **trasladado a una casa de salud**.
 
-Sin embargo, no es solamente la parte peatonal, con más de **200 árboles** que se suman a los 600 que tiene el parque La Carolina. Además, se sembraron **50 000 plantas.**
+Mientras el personal atendía la emergencia, agentes de tránsito mantuvieron cerradas las vías.
 
-En las etapas de conversación con los vecinos, habían acordado que no se levantaran muchos árboles que impidieran la vista y que podrían generar inseguridad. Tampoco se construyeron muchas bancas de descanso, para que no se convierta en un sustituto de la tribuna.
+Niño quedó atrapado en gradas eléctricas
+----------------------------------------
 
-Hacia el **interior del parque**, hay una zona para **niños de la primera infancia** y una **zona para los perros.** Tienen juegos e implementos para que puedan desarrollar sus actividades.
+Los Bomberos atendieron otra **emergencia** esta tarde. La mano de un **pequeño de cuatro años** quedó atrapada en unas **gradas eléctricas**, en un centro comercial, en el sector de El Batán.
 
-Los extranjeros dominan la tabla histórica de goleadores en Ecuador
-===================================================================
+El niño fue **liberado** con técnicas especializadas para liberar su extremidad, explicó la entidad.
 
-El paraguayo Álex Arce se suma a la legión de goleadores extranjeros del fútbol ecuatoriano.
---------------------------------------------------------------------------------------------
+El menor recibió atención por parte de los paramédicos y fue trasladado a una casa de salud. El niño se encontraba **estable**.
 
-![El paraguayo Álex Arce es el goleador de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/goleadores_extranjeros_1.jpg)
+> 🧑‍🚒 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | Esta tarde, atendimos una emergencia en el sector de El Batán, donde un pequeño de cuatro años quedó con su mano atrapada en unas gradas eléctricas.  
+>   
+> 👉 Nuestro equipo actuó de inmediato, aplicando técnicas especializadas para liberar su extremidad.  
+>   
+> 🚑… [pic.twitter.com/tvGcWqG75A](https://t.co/tvGcWqG75A)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 3, 2024](https://twitter.com/BomberosQuito/status/1863737469012763075?ref_src=twsrc%5Etfw)
 
-En 1957 se jugó por primera vez el campeonato ecuatoriano de fútbol de manera profesional. **Aucas, Deportivo Quito, Emelec y Barcelona Sporting Club** fueron los cuatro equipos que participaron.
+Cortes de luz en Quito este miércoles 4 de diciembre
+====================================================
 
-Emelec se convirtió en el primer monarca del campeonato nacional. Le ganó 2-0 a Aucas y 3-4, **tanto en Guayaquil como en Quito**. Con el Deportivo Quito perdió 1-0 en la capital ecuatoriana y le ganó 2-0 en el ‘Puerto principal’.
+Los cortes de luz en Quito para este miércoles 4 de diciembre es de hasta cinco horas para el sector residencial.
+-----------------------------------------------------------------------------------------------------------------
 
-Más noticias:
--------------
+![Los cortes de luz para Quito este miércoles 4 de diciembre los define la EEQ.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-miercoles-4-diciembre.jpg)
 
-* [Liga de Quito va a la final de la Liga Pro ante Independiente del Valle](https://www.elcomercio.com/deportes/liga-quito-cuenca-liga-pro-final-etapa-2.html "Liga de Quito va a la final de la Liga Pro ante Independiente del Valle")
-* [Barcelona SC cierra la temporada con empate y sin títulos](https://www.elcomercio.com/deportes/barcelona-sc-mushuc-runa-liga-pro-titulos.html "Barcelona SC cierra la temporada con empate y sin títulos")
-* [Ocho equipos de la Liga Pro estarán en Libertadores y Sudamericana 2025](https://www.elcomercio.com/deportes/liga-pro-libertadores-sudamericana-2025-clasificados.html "Ocho equipos de la Liga Pro estarán en Libertadores y Sudamericana 2025")
+Los **cortes de luz** en **Quito** para este miércoles **4 de diciembre** de 2024 son de cinco horas para el sector residencial y hasta siete para el sector industrial.
 
-Con seis puntos y un gol diferencia de +4 fue proclamado como campeón de un torneo que se **jugó del 10 de noviembre al 1 de diciembre** del referido año.
+La **Empresa Eléctrica Quito (EEQ)** informó sobre la suspensión del servicio de energía eléctrica en la capital para mañana.
 
-Ese mismo año apareció el primer goleador extranjero, pero ocupó el tercer lugar. Se trató del argentino **Carlos Alberto Raffo, que logró dos tantos** con la blusa de Emelec quedando por detrás de los ecuatorianos Ernesto Guerra (Deportivo Quito) con tres y Simón Cañarte (Barcelona SC) con cuatro.
+### Más noticias:
 
-En 1962 el máximo goleador fue el brasileño **Íris de Jesús López Guimarães**. Anoto nueve tantos con la camiseta de Barcelona.
+* [Pronósticos de lluvias son favorables para operación de hidroeléctricas](https://www.elcomercio.com/actualidad/ecuador/pronosticos-lluvias-favorables-operacion-hidroelectricas.html "Pronósticos de lluvias son favorables para operación de hidroeléctricas")
+* [Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes](https://www.elcomercio.com/actualidad/ecuador/ausencia-lluvias-centrales-hidroelectricas-viernes-29-noviembre.html "Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes")
+* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
 
-El máximo goleador extranjero en campeonato nacional fue el argentino **Ángel Liciardi con el Deportivo Cuenca**. En 1975 anotó la cifra de 36 goles. En 1998 el ecuatoriano Jaime Iván Kaviedes (Emelec) rompió esa marca con 43 goles.
+Horarios de cortes de luz en Quito este miércoles de diciembre
+--------------------------------------------------------------
 
-Liciardi junto a su compatriota Ariel Graziani comparten el récord de haber ostentado por tres veces la chapa de máximos anotadores en Ecuador.
+La situación energética en **Ecuador** sigue siendo crítica al inicio del último mes del año.
 
-En la era de la Liga Pro, el colombiano **Cristian Martínez Borja (Liga de Quito)** con 24 era el máximo goleador hasta el 2024. En este año el paraguayo Álex Arce, también de Liga, llegó a los 26 y aún tiene por delante las finales ante Independiente del Valle.
+La escasez de lluvias hace que los niveles de las **centrales hidroeléctricas** sean bajos.
 
-Tomando en cuenta los años en los que hubo más de un goleador (1963, 1985 y 1987), son **71 los goleadores del campeonato nacional en las 67 ediciones** disputadas, en las que se incluye la era de la Liga Pro que arrancó en 2019.
+Esto afecta la **generación eléctrica** de todo el país.
 
-Los ecuatorianos dominan con 27. **Le siguen los argentinos con 22**, los brasileños con nueve, los uruguayos con siete, y los paraguayos y colombianos con tres cada uno.
+La falta de diversificación de la **matriz energética** hace que la generación dependan, en su gran mayoría, de las lluvias.
+
+Mientras estas son las condiciones hidrológicas e hidroeléctricas del país, el Gobierno de **Daniel Noboa** anuncia la activación o reactivación de otros proyectos.
+
+Una unidad de la centra**l Alluriquín**, en el proyecto hidroeléctrico **Toachi-Pilatón**, inició las pruebas eléctricas, luego de pasar las mecánicas.
+
+Esto aportará con 68 MW al **Sistema Nacional Interconectado**.
+
+Además, este fin de semana llegaron los 23 motores de **generación termoeléctrica** que se instalarán en **El Salitral, Guayaquil.**
+
+Las autoridades estiman que estas unidades añadirán **80 MW** “contribuyendo a garantizar un suministro confiable y sostenible para el desarrollo del país”.
+
+Para esta semana, en **Quito**, los cortes de luz tendrán **diferentes horarios**.
+
+La mayor parte de la capital tendrá el servicio de energía eléctrica los días **jueves 5 y viernes 6 de diciembre** por las fiestas de fundación.
+
+Sin embargo, en algunos sectores **sí existirán cortes de luz** en esas fechas.
+
+Este martes, los cortes de luz en Quito son de hasta cinco horas no consecutivas para el **sector residencial**, divididas en dos franjas horarias.
+
+En el **sector industrial**, son de hasta siete horas consecutivas.
+
+A continuación, los horarios de los **cortes de luz en Quito para este miércoles 4 de diciembre** de 2024:
+
+  
+
+Paul Pogba pide indemnización por daño moral en juicio de chantaje y secuestro
+==============================================================================
+
+Paul Pogba lleva más de un año sin jugar por un resultado positivo en dopaje en un partido de la Liga de Italia.
+----------------------------------------------------------------------------------------------------------------
+
+![Paul Pogba en un partido con la Selección de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T193653.103.jpg)
+
+**Paul** **Pogba**, quien habría sido víctima de chantaje y secuestro por parte de personas cercanas, solicitó una indemnización por daño moral de 52 500 dólares y demandó a cinco de los acusados, excluyendo a su hermano Mathias, por el supuesto uso indebido de unos **210 000 dólares** de su cuenta.
+
+Sin la presencia del internacional francés en la vista, su abogada excluyó a Mathias porque “no se habría beneficiado de las compras” y de los dones hechos por **Pogba** a sus amigos, que ascienden a más de 200 000 dólares.
+
+### Más noticias:
+
+* [Paul Pogba y la Juventus terminaron su relación laboral](https://www.elcomercio.com/deportes/futbol/paul-pogba-juventus-italia-francia.html "Paul Pogba y la Juventus terminaron su relación laboral")
+* [Lamine Yamal ganó el Golden Boy con doble récord](https://www.elcomercio.com/deportes/futbol/lamine-yamal-golden-boy-record.html "Lamine Yamal ganó el Golden Boy con doble récord")
+* [Las sanciones que apresuraron el descenso del Deportivo Quito en 2016](https://www.elcomercio.com/deportes/futbol/liga-quito-deportivo-sanciones-fef.html "Las sanciones que apresuraron el descenso del Deportivo Quito en 2016")
+
+En la víspera de que la Fiscalía anuncie las **posibles penas para los seis acusados**, Mathias Pogba delegó la responsabilidad del chantaje que se juzga en Roushdane K., de 39 años y el único en prisión provisional.
+
+Caso de Paul Pogba
+------------------
+
+El hermano **mayor del campeón del mundo de 2018** recordó el mediático vídeo que publicó en agosto de 2022, en el que hablaba de “revelaciones sorprendentes” sobre el centrocampista y acerca de Kylian Mbappé, al que Pobga habría lanzado un sortilegio con la ayuda de un hechicero.
+
+“Hoy puedo decir que, indirectamente, me presionaron a hacer ese vídeo”, comentó Mathias, atribuyendo esa presión a Roushdane K.
+
+Este hombre, que tiene al menos siete antecedentes penales, está acusado junto a Adama C. (33 años), Boubacar C. (35), Mamadou M. (30) y Mohamed Machikour K. (36) por los cargos de secuestro, asociación de los **malhechores** y chantaje en varios episodios ocurridos durante el año de 2022.
+
+Mathias Pogba, de 34 años y hermano mayor de Paul, quien comenzó su truncada carrera en el Celta de Vigo (España), enfrenta juicio por dos cargos: tentativa de chantaje y asociación de malhechores. Sin embargo, no está acusado por el secuestro exprés con arma de fuego, el cargo más grave, ocurrido en marzo de 2022.
+
+Los seis supuestamente participaron en un esquema para chantajear a Pogba, al que habrían demandado **13,6 millones de dólares** para cuidar de su seguridad.
+
+Todos ellos, integrantes del círculo íntimo del centrocampista de la localidad de Roissy-en-Brie, han alegado haber actuado por la presión de un tercer grupo.
+
+Los goleadores de Liga Pro se metieron en la tabla con variados contextos
+=========================================================================
+
+Álex Arce, Diego Armas y Jeison Medina ocuparon el podio de goleadores de la Liga Pro y lo consiguieron en variadas maneras y circunstancias.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce fue el máximo goleador de la Liga Pro con Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241201140235-fbl-ligapro-liga-cuenca-1-scaled.jpg)
+
+La **Liga Pro** cerró sus treinta partidos de la temporada regular con un podio de goleadores conformado por un delantero paraguayo, un volante ecuatoriano y otro atacante colombiano. **Álex Arce** de Liga de Quito fue quien anotó la máxima cantidad de tantos, seguido por **Diego Armas y Jeison Medina**.
+
+Una vez más, un ‘nueve’ extranjero se hizo con la chapa de máximo goleador de la Liga Pro. Con una extraordinaria cifra de **26 goles en 29 partidos**, Arce brilló con Liga de Quito dentro del campeonato nacional.
+
+### Más noticias:
+
+* [Las tres piezas clave de Independiente del Valle para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-independiente-del-valle-para-final-liga-pro.html "Las tres piezas clave de Independiente del Valle para la final de Liga Pro")
+* [Las sorpresivas medidas de seguridad para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/sorpresivas-medidas-de-seguridad-para-la-final-de-liga-pro.html "Las sorpresivas medidas de seguridad para la final de Liga Pro")
+* [Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-futbolista-secuestro.html "Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas")
+
+El ariete, a su vez, vive la mejor campaña de su carrera, pues cuenta con 33 tantos en 44 partidos si se valoran todos los duelos disputados con los albos. El ariete, además, jugó con el cuadro universitario la **Copa Libertadores**, así como la **Copa Sudamericana y Copa Ecuador.**
+
+Con lo conseguido, Arce igualó el récord que impuso **Jonathan Bauman** en 2021 como máximo goleador histórico de la Liga Pro. Pese a ello, al paraguayo aún le quedan otros dos compromisos, las finales de ida y vuelta del torneo, para acrecentar su marca.
+
+Dentro de los goleadores que sucedieron a Arce, estos lograron meterse en la disputa por ser el máximo goleador en contextos distintos. **Armas** lo hizo en un equipo que ni siquiera logró ingresar a torneos internacionales y **Medina** en dos clubes distintos[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador)
+
+Los goles de Diego Armas no le alcanzaron
+-----------------------------------------
+
+**Diego Armas**, volante de Técnico Universitario, fue el segundo dentro de la tabla de goleadores de la Liga Pro. El futbolista y capitán del ‘Rodillo Rojo’ anotó **20 tantos** en 28 compromisos, sin embargo, aquello no fue suficiente para que su equipo pelee en lo alto de la tabla.
+
+La buena cantidad de tantos de **Armas** no bastó y su escuadra no pudo ingresar a ningún torneo internacional en 2025. En la última fecha, donde debía ganar para conseguirlo, la escuadra fue derrotada por **El Nacional**.
+
+A sus 34 años, esta fue la **mejor temporada** de Armas en su carrera. La única vez que consiguió números similares fue en 2017, también con Técnico Universitario, donde anotó 19 goles, pero en 38 duelos.
+
+Jeison Medina, entre Aucas e Independiente del Valle
+----------------------------------------------------
+
+El colombiano **Jeison Medina** arrancó la temporada con Aucas, donde ya había destacado tras su llegada a mediados del 2023. Con los orientales ya se consolidó como uno de los goleadores de la Liga Pro, pero el futbolista no continuó en el club.
+
+Para la segunda etapa de la Liga Pro, Medina se mudó a Independiente del Valle, club con el que jugará los partidos finales del campeonato. En los cotejos de definición, este se medirá ante **Álex Arce**.
+
+En la primera ronda del certamen, **Medina** anotó nueve tantos con los orientales en el certamen. Con los rayados, este hizo nueve.
+
+Capitán del Ipswich Town se niega a llevar el brazalete arcoíris
+================================================================
+
+La campaña "Stonewall Rainbow Laces" se ha realizado en la Premier League desde 2013.
+-------------------------------------------------------------------------------------
+
+![Sam Morsy, capitán del Ipswich Town en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/morsy_1.jpg)
+
+Sam Morsy, capitán del Ipswich Town, se negó a llevar el **pasado fin de semana el brazalete** con la bandera de arcoíris en apoyo a la comunidad LGTB debido a sus “creencias religiosas”.
+
+La Premier League realiza entre el 29 de noviembre y el 5 de diciembre una campaña de **inclusión llamada “Stonewall Rainbow Laces”**, en la que, entre otras iniciativas, los capitanes de los equipos son invitados a llevar un brazalete con la bandera arcoíris.
+
+### Más noticias:
+
+* [¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-corre-riesgo-de-perder-alex-arce-para-2025.html "¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?")
+* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
+* [Moisés Caicedo, nominado a prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/moises-caicedo-premio-jugador-mes.html "Moisés Caicedo, nominado a prestigioso premio en Inglaterra")
+
+Sin embargo, Morsy, internacional por Egipto, fue el único de los 20 capitanes de la Premier que no lo hizo el fin de semana pasado.
+
+“Somos un club completamente inclusivo que damos la bienvenida a todo el mundo. Apoyamos la campaña de la Premier League y a la comunidad LGTB por su promoción de la inclusión. Durante este año, miembros de nuestros equipos masculinos y femeninos visitaron las **sesiones de fútbol semanales de la fundación LGTB**, mientras que el club hizo una petición de solidaridad e inclusión junto al Nottingham Forest antes del partido del sábado 30 de noviembre de 2024″, dijo el Ipswich en un comunicado.
+
+“Al mismo tiempo, respetamos la decisión de nuestro capitán, Sam Morsy, que ha decidido no llevar el brazalete de arcoíris debido a sus creencias religiosas”, añadió el club inglés. 
+
+![Foto: Instagram del futbolista.](https://www.elcomercio.com/wp-content/uploads/2024/12/morsy_2-1024x683.jpg)
+
+Foto: Instagram del futbolista.
+
+La FA decide no sancionar a Guehi
+---------------------------------
+
+La federación inglesa (FA, por sus siglas en inglés) ha decidido **no sancionar a Marc Guehi por escribir “amo a Jesús”** en el brazalete arcoíris de capitán, pese a que esto va en contra de sus reglas.
+
+Guehi, capitán del Crystal Palace, escribió con un rotulador la frase “Amo a Jesús” en el brazalete, lo que puede suponer una sanción por parte de las autoridades inglesas al tratarse de un mensaje religioso.
+
+“Las equipaciones **no pueden llevar ningún mensaje político, religioso** o un eslogan personal”, dicen las reglas de la competición.
+
+Sin embargo, la FA escribió a Guehi y al Palace para recordarles sus responsabilidades y no llevarán ninguna acción contra ellos.
+
+Esta es la segunda polémica que deriva de la campaña “Stonewall Rainbow Laces” y por la que, entre otras cosas, **los capitanes de los equipos son invitados a llevar un brazalete con la bandera** arcoíris como forma de apoyar a la comunidad LGTB.
+
+Esta campaña se ha realizado en la Premier League desde 2013.
 
 San viernes
 -----------
 
-El Día de las Personas con Discapacidad llega con opciones de servicios
+Pronósticos de lluvias son favorables para operación de hidroeléctricas
 =======================================================================
 
-Servicios y bonos están en el panorama del Día Internacional de las Personas con Discapacidad .
------------------------------------------------------------------------------------------------
+Las lluvias favorecen al funcionamiento de las hidroeléctricas para la generación de energía.
+---------------------------------------------------------------------------------------------
 
-![MIES cuenta con servicios para personas con discapacidad.](https://www.elcomercio.com/wp-content/uploads/2024/12/dia-discapacidades.jpg)
+![Las lluvias llenan los caudales de los ríos que alimentan los embalses para el buen funcionamiento de las centrales hidroeléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvias-hidroelectricas.jpg)
 
-Cada 3 de diciembre se conmemora el **Día Internacional de las Personas con Discapacidad**. En este 2024, los servicios, derechos e inclusión siguen siendo la premisa central.
+Los pronósticos de **lluvias** son favorables para la operación de las **hidroeléctricas**, desde este martes 3 hasta el domingo 8 de diciembre de 2024.
 
-En Ecuador, **486 273 personas** se encuentran registradas por el **Ministerio de Salud Pública**, con corte al 13 de noviembre de 2024. De este grupo, un 56,7% corresponde a hombres y un 43,3%, a mujeres.
+El **Instituto Nacional de Metereología e Hidrología (Inamhi)** y la **Empresa Pública Municipal de Telecomunicaciones, Agua Potable, Saneamiento y Gestión Ambiental (Etapa)** de **Cuenca** informaron sobre las condiciones hidrológicas en el país y parte del Austro.
 
-### Más noticias
+### Más noticias:
 
-* [Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres](https://www.elcomercio.com/actualidad/seguridad/esperanza-lanza-dia-internacional-eliminacion-violencia-contra-mujeres.html "Pódcast Esperanza se lanza en el Día Internacional de la Eliminación de la Violencia contra las Mujeres")
-* [El Día Internacional del Patrimonio Mundial es un tributo a nuestra historia y cultura](https://www.elcomercio.com/actualidad/dia-internacional-patrimonio-mundial.html "El Día Internacional del Patrimonio Mundial es un tributo a nuestra historia y cultura")
-* [Día Internacional de la Seguridad de la Información](https://www.elcomercio.com/opinion/dia-internacional-seguridad-informacion-lorena-naranjo-columnista.html "Día Internacional de la Seguridad de la Información")
+* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
+* [Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes](https://www.elcomercio.com/actualidad/ecuador/ausencia-lluvias-centrales-hidroelectricas-viernes-29-noviembre.html "Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes")
 
-> En el Día Internacional de las Personas con Discapacidad, renovamos el compromiso de impulsar una sociedad inclusiva, garantizando el ejercicio pleno de sus derechos. Trabajamos para fomentar la autonomía, facilitar el acceso a servicios clave y promover la participación activa… [pic.twitter.com/GbirIo56W8](https://t.co/GbirIo56W8)
+Lluvias favorables para operación de hidroeléctricas
+----------------------------------------------------
+
+La generación de energía eléctrica en **Ecuador** depende, en su mayoría, de las lluvias.
+
+La grave **sequía** que atraviesa el país en este 2024 ha ocasionado que las centrales hidroeléctricas operen en niveles críticos o dejen de operar.
+
+Esto, a su vez, ha provocado que el Gobierno tome la decisión de programar **cortes de energía eléctrica** continuos desde septiembre.
+
+Son más de dos meses de cortes de luz, mientras el Gobierno de **Daniel Noboa** busca mejorar la capacidad del Sistema Interconectado Nacional y también invertir en la diversificación de la matriz energética.
+
+Hasta que estos proyectos se concreten, la presencia de lluvias es fundamental para superar la **crisis energética.**
+
+El **Inamhi** informó que se **incrementa la probabilidad de lluvias**, tormentas y ráfagas de viento en varias regiones del país, desde este **martes 3 hasta el domingo 8 de diciembre**.
+
+Las lluvias y tormentas serán de variable intensidad para la **región Interandina,** norte e interior de la **región Litoral**.
+
+Además, en las estribaciones de las **cordilleras occidental y oriental**, parte de la Amazonía, donde se ubica la central **Coca Codo Sinclair**.
+
+La mayoría de estas regiones se encuentra en el **nivel alto**, seguido por el medio.
+
+Solo un sector entre **Esmeraldas, Carchi, Imbabura y Pichincha** presenta un nivel muy alto de lluvias y tormentas.
+
+Específicamente, el sábado 7 de diciembre, se prevén lluvias en nivel alto para **Loja** y parte de las provincias de: **El Oro, Azuay y Cañar.**
+
+> [#AdvertenciaMeteorológicaEc](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gicaEc?src=hash&ref_src=twsrc%5Etfw) N.66 🌤️🌦️⛈️⚠️| Se incrementa la probabilidad de lluvias, tormentas y ráfagas de viento de variable intensidad para la región Interandina, norte e interior de la región litoral y estribaciones de cordillera occidental y oriental. Del 03-08 diciembre. [pic.twitter.com/pPTO6xZZyu](https://t.co/pPTO6xZZyu)
 > 
-> — Inclusión Ecuador 🇪🇨 (@InclusionEc) [December 3, 2024](https://twitter.com/InclusionEc/status/1863971428275515757?ref_src=twsrc%5Etfw)
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 3, 2024](https://twitter.com/inamhi_ec/status/1863840912272470145?ref_src=twsrc%5Etfw)
 
-Día Internacional de las personas con Discapacidad
---------------------------------------------------
+### Cuenca
 
-El **Día Internacional de las Personas con Discapacidad** se conmemora desde 1992, cuando se estableció la fecha a través de la Asamblea General de la **Organización de las Naciones Unidas (ONU)**. 
+En tanto, **Etapa** informó sobre la situación en **Cuenca**, capital de Azuay, este martes.
 
-El [**Ministerio de Inclusión Económica y Social (Mies)**](https://www.inclusion.gob.ec/) es el encargado de las políticas públicas en materia de población que se encuentra en situación de pobreza y vulnerabilidad y los grupos de atención prioritaria.
+Los ríos **Tomebamba, Machángara** y **Yanuncay** están en estado bajo, y el río **Tarqui** en estiaje.
 
-En el país, la mayoría de personas del registro presenta una discapacidad moderada (**216 302**), seguida en número con una condición grave (**166 734**).
+Pese a los 144 días de sequía hidrológica en esta ciudad, Etapa señala que existe **92% probabilidad** de lluvia.
 
-Bonos y pensiones
------------------
+Los cuatro ríos de Cuenca aportan a los embalses de **Mazar y Amaluza**, los mismos que son usados para la operación de las centrales Sopladora, Mazar y Paute.  
 
-Del total de personas con discapacidad registradas, **122 569 reciben bonos** **y pensiones** otorgados por el **MIES**. Estas no requieren una gestión por parte de la comunidad, se realiza una evaluación por parte de la institución.
+Ese mismo día, las precipitaciones también tendrán un nivel alto en parte de la **Amazonía**.
 
-En el caso de la pensión denominada **Toda una Vida suman 78 294**, con corte a octubre de 2024.
-
-Se trata de un monto de **100 dólares** dirigido a cubrir necesidades de personas que presentan una condición de discapacidad, que se encuentran en situación de pobreza extrema o pobreza.
-
-El **bono Joaquín Gallegos Lara**, en cambio, llega a 44 275 ciudadanos. Son 240 dólares para quienes tienen una discapacidad grave, muy grave y completa. También está dirigido para personas con enfermedades catastróficas, raras o huérfanas y menores de 18 años con **VIH-SIDA**.
-
-Servicios públicos
-------------------
-
-Las personas con discapacidades pueden acudir a varios puntos para recibir atención a escala nacional. No obstante, desde el **MIES** recomiendan que se acerquen a las oficinas de la institución en las distintas provincias para que puedan direccionar cada caso.
-
-* **Centros Diurnos** (potencian el desarrollo de habilidades en trabajo conjunto con la familia, durante ocho horas diarias y cinco días a la semana).
-* **Centros de Referencia y Acogida** (atención especializada a personas en abandono y/o carentes de referente familiar, en situación de riesgo. Acogimiento de forma emergente, temporal o permanente).
-* **Atención en el hogar y la comunidad** (técnicos hacen dos visitas domiciliarias al mes, para el desarrollo de habilidades de personas con discapacidad. Capacitan para la atención de la persona con discapacidad a las familias o cuidadores).
+> Ríos Tomebamba, Machángara y Yanuncay en estado bajo, Río Tarqui en estiaje  
+> 👉 144 días de sequía hidrológica.  
+> 👉 92% probabilidad de lluvia.  
+> 👉 Radiación UV será extremo.  
+>   
+> La probabilidad de temperatura aproximada para hoy 25°C.[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [pic.twitter.com/lulAoeFWpa](https://t.co/lulAoeFWpa)
+> 
+> — ETAPA EP (@ETAPAOficial) [December 3, 2024](https://twitter.com/ETAPAOficial/status/1863933638867386817?ref_src=twsrc%5Etfw)
 
 * * *
 
-El Quitofest no es solo rock, también es…
-=========================================
+### Esperanza
 
-Bandas y solistas de diferentes géneros musicales se reunirán en la nueva edición del Quitofest.
-------------------------------------------------------------------------------------------------
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
 
-![Los Mirlos, de Perú, tocarán el 5 de diciembre en el Quitofest. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-03T125224.323.jpg)
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
-Si bien es cierto que en el cartel del **Quitofest** se destacan bandas de **rock y metal** como Bajo Sueños, **Black Sun, Curare, Muscaria**, este festival internacional también reúne a representantes de pop, rock alternativo, cumbia y música urbana.
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-### **Más noticias:**
+Concejo de Quito avala energía alternativa para semáforos: informe en 30 días
+=============================================================================
 
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html")
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html?source=Internal&ref=Single+Content+Link")
-* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html")
+La concejala Analía Ledesma propuso energía alternativa para que los semáforos de Quito no dependan del Sistema Interconectado Nacional.
+----------------------------------------------------------------------------------------------------------------------------------------
 
-**¿Cuándo se realizará el Quitofest 2024?**
--------------------------------------------
+![Los cortes de energía afectan el tránsito en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/semaforos-.jpg)
 
-La XXI Festival Internacional de la Música Internacional Quitofest 2024 se realizará este 5, 6 y 7 de diciembre. El punto de encuentro será el Parque Bicentenario, norte de la ciudad.
-
-**¿Cuántas bandas participarán en el Quitofest?**
--------------------------------------------------
-
-36 bandas nacionales e internacionales participarán en la edición XXI del Quitofest 2024. 11 de esas, son foráneas. 
-
-### **Te compartimos la lista de todas las invitadas:**
-
-* La Delio Valdez (Argentina)
-* Los Mirlos (Perú)
-* Mula (República Dominicana)
-* Molotov (México)
-* Ana Tijoux (Chile)
-* Él Mató a un Policía Motorizado (Argentina)
-* Velandia y La Tigra (Colombia)
-* Malón (Argentina)
-* Madball (Estados Unidos)
-* Here Comes The Kraken (México)
-* Las Tres Piedras (Colombia)
-
-**El Quitofest no es solo rock, también es…**
----------------------------------------------
-
-En el primer día se presentarán representantes nacionales e internacionales de cumbia y música urbana. El 6 de diciembre será el turno de bandas de pop y rock, mientras que en el cierre del festival habrá **rock y metal.** 
-
-### **Cartelera del 5 de diciembre**
-
-* La Delio Valdez
-* Rocola Bacalao
-* Papaya Dada
-* Los Mirlos
-
-> [View this post on Instagram](https://www.instagram.com/reel/DDDAEmCxa-N/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Johanna San Miguel Dammert (@johanna\_san\_miguel\_dammert)](https://www.instagram.com/reel/DDDAEmCxa-N/?utm_source=ig_embed&utm_campaign=loading)
-
-* Mugre Sur
-* Banda 24 de Mayo
-* Mula
-* Wañukta Tonic
-* Mel Mourelle
-* La Mafiandina
-* Machaka
-* La Sagrada Familia
-
-### **Cartelera del 6 de diciembre**
-
-* Molotov
-* Lolabúm
-* Ana Tijoux
-* Él Mató a un Policía Motorizado
-* Paola Navarrete
-* Leteléfono
-* Paulatinamente
-* Velandia y La Tigra
-* Álex Eugenio
-* Flix Pussy Cola
-* Ilyari
-* Estamos perdidos
-
-### **Cartelera del 7 de diciembre**
-
-* Malón
-* Bajo Sueños
-* Madball
-* Muscaria Here Comes The Kraken
-* Curare
-* Black Sun
-* Las Tres Piedras
-* Resistencia
-* Suvlevación
-* Post Mortem
-* Sacrificium Tagaeri
-* The Psychokiller
-
-Cooperativa de ahorro cerró en Ecuador; los usuarios reclaman por su dinero
-===========================================================================
-
-La cooperativa tiene 12 agencias en seis provincias, con una cartera de 92 000 clientes en Ecuador
---------------------------------------------------------------------------------------------------
-
-![El lunes 2 de diciembre se declaró en liquidación forzada a la cooperativa Cámara de Comercio.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-03T121936.698.jpg)
-
-La cooperativa de ahorro y crédito **Cámara de Comercio** **de Ambato** cerró sus puertas de manera forzosa por falta de solvencia. Sus usuarios acudieron a las oficinas preocupados por su dinero.
+En la sesión ordinaria del **Concejo Metropolitano de Quito** de este 3 de diciembre del 2024, hubo una unanimidad entre los 18 ediles. Antes los **cortes de luz** que han afectado la movilidad en la capital, se establece la búsqueda de **energía alternativa** para los **semáforos** de **Quito**.
 
 ### Más noticias
 
-* [Manzano asegura que Ecuador terminará el año sin cortes de luz](https://www.elcomercio.com/actualidad/ecuador/manzano-asegura-que-ecuador-terminara-ano-sin-cortes-de-luz.html "Manzano asegura que Ecuador terminará el año sin cortes de luz")
-* [Dos negocios de escaneo de iris fueron clausurados en Quito](https://www.elcomercio.com/actualidad/quito/negocios-escaneo-iris-clausura-quito.html "Dos negocios de escaneo de iris fueron clausurados en Quito")
-* [Daniel Noboa reducirá Impuesto a la Salida de Divisas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reduce-impuesto-de-salida-de-divisas.html "Daniel Noboa reducirá Impuesto a la Salida de Divisas")
+* [Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/concierto-apunalados-san-francisco-quito.html "Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco")
+* [Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO](https://www.elcomercio.com/actualidad/quito/bulevar-shyris-homenaje-efrain-paul-javier.html "Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO")
+* [El Quitofest no es solo rock, también es…](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html "El Quitofest no es solo rock, también es…")
 
-El cierre de la cooperativa
----------------------------
+Energía alternativa para los semáforos de Quito
+-----------------------------------------------
 
-Freddy Monge, superintendente de Economía Popular y Solidaria, acudió el lunes 2 de diciembre de 2024 a la cooperativa Cámara de Comercio y la declaró en **liquidación forzada.**
+En el voto unánime de los **concejales**, se estipula con un plazo de **30 días** a la **Agencia Metropolitana de Tránsito** (AMT) que, en coordinación con la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (Epmmop), presente el **informe**. En este documento, se deberá constar la **viabilidad técnica** y **económica**, para reemplazar la dotación de energía.
 
-Esto sucede luego de un mes de que se realizara una **auditoría interna**, que reveló que se incurrió en tres causales:
+Las más de **1 200 intersecciones que tienen semáforos** en **Quito** forman parte actualmente del **Sistema Interconectado Nacional.** Durante los apagones, más de 1 200 agentes de Tránsito deben hacerse cargo de dirigir el tránsito en las esquinas más complejas de la ciudad.
 
-* Incumplimiento sustancial del programa de supervisión interna desde el 2022 hasta el 2024.
-* No pago de cualquiera de sus obligaciones, especialmente de sus depositantes.
-* Solvencia financiera inferior al 50%.
+La propuesta de la energía alternativa para los semáforos
+---------------------------------------------------------
 
-Esta cooperativa fue fundada en 1984 y **cuenta con 12 agencias** en Tungurahua, Cotopaxi, Pichincha, Bolívar, Guayas y Pastaza.
+La propuesta fue presentada por la concejala **Analía Ledesma,** de la **Izquierda Democrática**. “Si queremos ahorrar agua, también debemos ahorrar luz», dijo en su intervención. Y añadió que este sería un primer paso para que “Quito vuelva a ser pionera en la utilización de energías alternativas”.
 
-Y tiene un total **de 92 000 clientes**. Desde octubre del año pasado, un grupo de ahorristas ya había advertido de anomalías cuando no pudieron retirar su dinero. Se les desactivó las tarjetas de débito y se permitía un retiro de solo 100 dólares diarios.
+Con la aprobación, el concejal **Andrés Campaña** dijo que se da “un paso importante hacia una ciudad resiliente al cambio climático”. Pero también apuntó hacia una autogeneración de energía eléctrica para el alumbrado de la ciudad: “Creemos en la necesidad de mutar esas luminarias que funcionan con sodio a luminarias led que hoy en día son apenas el 21% de las más de 300 000 luminarias que existen en Quito”.
 
-Después de declarada la liquidación, se activará **el mecanismo de cobertura de depósitos** del Cosede, con lo que se asegura la devolución de los ahorros al 99,06% de sus socios y depositantes, hasta 32 000 dólares.
+Campaña fue algo más allá y pidió que el Concejo apruebe el pedido que en octubre pasado formuló el Comité de Empresa de trabajadores de la **Empresa Eléctrica Quito** (EEQ). “La Eléctrica Quito no puede limitarse a **ser solamente una distribuidora de energía,** sino una empresa con capacidad de autogeneración”. Para ello pidió que la autoridad competente, el **Ministerio de Energía**, autorice la autogeneración.
 
-Clientes de la cooperativa están preocupados por su dinero
-----------------------------------------------------------
+Sin embargo, Campaña se refirió a la situación de la EEQ. El **Municipio de Quito** tiene el **17% de acciones**, y, por tanto, un delegado. “Pero eso no implica que seamos convidados de piedra”. Por eso detalló que hay dos generadores de energía de la EEQ y la falta de respuesta ante dos generadores hidroeléctricas de las siete que tiene[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
 
-Alrededor de 30 clientes acudieron el lunes 2 de diciembre a las **oficinas de la cooperativa** para saber la situación y reclamar su dinero.
+La hidroléctrica de **Cumbayá** tiene daños en dos generadores desde hace cinco años y la del V**alle de los Chillos** está totalmente inactivo hace dos años. Y nada se ha hecho para repararlas, sostuvo Campaña.
 
-José Miguel Acuña fue nombrado liquidador y será el encargado de la devolución del dinero. Para ello se dispuso un **plazo de tres años** que pueden ser prorrogados por dos años más.
+La alternativa es la energía solar
+----------------------------------
 
-Así mismo, los empleados de la cooperativa entrarán en proceso de liquidación y los deudores de créditos deberán continuar con el pago de las deudas.
+En noviembre, cuando el tránsito se complicó por los cortes de luz, el experto en vialidad, **Edwin Herrera,** dijo a **EL COMERCIO** que Quito “ya debe pensar en la autonomía energética de los semáforos”. Y propuso el uso de la energía solar, que haría que “su funcionamiento sea independiente de la situación energética e, incluso, implicará un ahorro importante para la ciudad”.
 
-Posterior a ese proceso, se iniciará la venta de los bienes para recuperar dinero y [poder cancelar l](https://es.wikipedia.org/wiki/Ambato "https://es.wikipedia.org/wiki/Ambato")as deudas.
+Algunas ciudades ya están implementando esta alternativa. Una de ellas es **Santa Marta**, capital del departamento colombiano de **Magdalena**, que en el **2019** comenzó el proyecto de semáforos con energía solar.
 
-Presunto autor de incendio forestal en Quito fue declarado inocente
-===================================================================
+Contra el tiempo, la energía alternativa
+----------------------------------------
 
-Juez declaró inocente a Jefferson M., acusado del incendio en El Panecillo, tras denunciar irregularidades y discriminación.
-----------------------------------------------------------------------------------------------------------------------------
+El problema fundamental es que el **Concejo Metropolitano** tiene hasta el **10 de diciembre** para aprobar la proforma presupuestaria para el próximo año. Sin embargo, dijo que es posible que la **Epmmop** y la **AMT**, organismos que tienen la competencia para trabajar en estos temas, envíen la propuesta para incluirlo en el segundo debate.
 
-![Presunto autor del incendio forestal en El Panecillo fue declarado inocente.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-1.png)
+* * *
 
-Un juez de Quito declaró inocente a **Jefferson M.**, un joven de 29 años que había sido acusado de provocar el **incendio forestal en El Panecillo** el pasado 12 de septiembre[.](https://es.wikipedia.org/wiki/El_Panecillo "https://es.wikipedia.org/wiki/El_Panecillo")
+### Esperanza
 
-### Más noticias
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
 
-* [Al menos 82 hectáreas consume el incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/al-menos-82-hectareas-consume-incendio-forestal-guayaquil.html "Al menos 82 hectáreas consume el incendio forestal en Guayaquil")
-* [Inamhi advierte altas temperaturas y riesgo de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-altas-temperaturas-y-riesgo-de-incendios-forestales.html "Inamhi advierte altas temperaturas y riesgo de incendios forestales")
-* [Incendio forestal en Quito fue controlado luego de nueve horas de labores](https://www.elcomercio.com/actualidad/quito/incendio-forestal-quito-sofocado-bomberos.html "Incendio forestal en Quito fue controlado luego de nueve horas de labores")
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
-La decisión se tomó luego de una audiencia en la que salieron a la luz **graves irregularidades en su detención y procesamiento**. Después de pasar dos meses y quince días en prisión preventiva, liberaron a Jefferson M. el pasado lunes 2 de diciembre de 2024.
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-El caso, que generó controversia en la capital, inició cuando el **Municipio de Quito** señaló al joven como el presunto responsable del incendio que afectó una **importante área verde de la ciudad**.
+Bryan Ramírez, de descartado a figura de Liga de Quito
+======================================================
 
-No obstante, durante el juicio, Jefferson M., un habitante de calle, aseguró que se encontraba en el lugar intentando salvar sus pocas pertenencias y a sus mascotas cuando lo detuvieron. Además, denunció que **no se le leyeron sus derechos al momento de la aprehensión** y que fue víctima de discriminación por su condición social.
+Bryan Ramírez llegó a Liga de Quito en el 2023 por pedido de Luis Zubeldía.
+---------------------------------------------------------------------------
 
-> 🔥🍂 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | A esta hora, se registra un incendio forestal en el sector de El Panecillo.  
->   
-> 🧑🚒 Nuestro equipo atiende la emergencia. [#NoticiaEnDesarrollo](https://twitter.com/hashtag/NoticiaEnDesarrollo?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/mdZ1ut3TA5](https://t.co/mdZ1ut3TA5)
-> 
-> — Bomberos Quito (@BomberosQuito) [September 12, 2024](https://twitter.com/BomberosQuito/status/1834292595075187006?ref_src=twsrc%5Etfw)
+![Bryan Ramírez, jugador de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/ramirez_liga_1.jpg)
 
-Pruebas que desmontaron la acusación
-------------------------------------
+**Bryan Josías Ramírez León** es una de las revelaciones con las que cuenta el plantel de Liga de Quito en el 2024. En el segundo semestre, se ganó la titularidad en la banda izquierda y con mucha autoridad.
 
-La defensa de Jefferson M. presentó evidencias que demostraron que las acusaciones en su contra carecían de fundamento. Según los abogados, señalaron al **joven como culpable únicamente por su apariencia** y su condición de habitante de calle. Durante el juicio, se destacó la falta de **pruebas directas** que lo vincularan con el inicio del incendio.
-
-Según su defensa, se habría cometido **múltiples irregularidades** en su detención.
-
-Entre las pruebas presentadas, se incluyeron testimonios que **corroboraron que Jefferson M. no había provocado el incendio**, sino que se encontraba en la zona intentando salvar sus **pocas posesiones**.
-
-Liga de Quito se prepara para la salida de Álex Arce en 2025
-============================================================
-
-Isaac Álvarez, presidente de Liga de Quito, detalló el futuro del goleador Álex Arce y dijo que 'su salida es inminente'.
--------------------------------------------------------------------------------------------------------------------------
-
-![Álex Arce, delantero de Liga de Quito, celebra un gol en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241201140234-fbl-ligapro-liga-cuenca-scaled.jpg)
-
-**Álex Arce** llegó como una de las apuestas de **Liga de Quito** para comandar el ataque azucena en el 2025 y respondió con creces. Tras una brillante temporada con los albos, en la cual está al borde de batir un récord en el fútbol nacional, el conjunto azucena se prepara para su partida.
-
-En la escuadra alba, Arce vive uno de los momentos más dulces de su carrera y su mejor temporada a nivel goleador. A su vez, con el equipo que dirige **Pablo ‘Vitamina’ Sánchez**, disputará la final de la Liga Pro ante Independiente del Valle.
+El buen momento de Bryan Ramírez tiene a **Pablo ‘Vitamina’ Sánchez como el principal** responsable y mentalizador. Desde la llegada del entrenador argentino el jugador ecuatoriano mostró su mejor versión.
 
 ### Más noticias:
 
-* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
-* [¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-corre-riesgo-de-perder-alex-arce-para-2025.html "¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?")
+* [Entradas para la final de ida de la Liga Pro a la venta](https://www.elcomercio.com/deportes/futbol/venta-entradas-final-liga-pro.html "Entradas para la final de ida de la Liga Pro a la venta")
 * [Liga de Quito recordó la conquista de su primera Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-de-quito-recordo-conquista-primera-copa-sudamericana.html "Liga de Quito recordó la conquista de su primera Copa Sudamericana")
+* [¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-corre-riesgo-de-perder-alex-arce-para-2025.html "¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?")
 
-Su capacidad frente al arco y lo logrado con el equipo azucena ha llamado la atención de más de un club del extranjero que desea hacerse con sus servicios. En función de una potencial transferencia, **Isaac Álvarez** -presidente de Liga de Quito- explicó cuál será el futuro de Arce y cómo lo manejan.
+Con la llegada de Sánchez para reemplazar al español Josep Alcácer, Ramírez **‘abandonó’ su posición de extremo por izquierda** para pasar a jugar como lateral, lo que le significó ganarse un puesto en el equipo titular y ser uno de los fijos.
 
-“**La salida de Álex Arce, a momentos, se vuelve a inminente, por las propuestas que hemos recibido. Aún no hemos tomado una decisión, lo haremos con el jugador, siempre con el pensamiento de que sea lo mejor para él y la institución**“; mencionó el dirigente en El Canal del Fútbol.
+Antes de la contratación de ‘Vitamina’, el esmeraldeño de 24 años jugó, según Transfermarkt, j**ugó ocho partidos, pero solo ante Libertad fue titular** y completó los 90 minutos en el Reina del Cisne de Loja.
 
-Álex Arce, el máximo goleador de Liga de Quito y la Liga Pro
-------------------------------------------------------------
+Ante Aucas completó cuatro minutos, contra El Nacional uno, frente a Delfín 10, Orense dos, Mushuc Runa 10, Emelec nueve y Barcelona Sporting Club 18.
 
-Álex Arce finalizó la temporada regular de la Liga Pro con **26 goles en 29 partidos** de esta. Aquello le valió un promedio de goleo de 0.89 tantos por compromiso dentro del campeonato ecuatoriano.
+Con Alcácer lejos de la zona técnica de los albos se ganó la titularidad y completo los 90 minutos ante **Universidad Católica y Deportivo Cuenca**, siempre en el interinato de Patricio Hurtado.
 
-En el torneo nacional, Arce superó con creces a sus perseguidores, que obtuvieron seis tantos menos que él. **Diego Armas** de Técnico Universitario y **Jeison Medina** llegaron a los 20 tantos, tras ellos se ubicaron Janner Corozo de Barcelona SC con 15 y Pablo Magnín de Deportivo Cuenca con 15.
+En la segunda etapa se ganó la titularidad y solo faltó en la goleada 0-4 frente a Macará en la primera fecha de la segunda etapa de la Liga Pro en el Bellavista de Ambato.
 
-Dentro de Liga de Quito, Álex Arce es el máximo goleador y tiene mayores números si se cuentan otras competencias, pues también jugó **Copa Libertadores, Copa Sudamericana y Copa Ecuador**. En 44 partidos contabiliza **33 goles.**
+Aportó con goles ante Libertad (1), Orense (1) y Deportivo Cuenca (1); y asistencias frente a **Aucas (1), Libertad (1), Técnico Universitario (1)**, Universidad Católica (1) y Cuenca (2).
 
-Álex Arce persigue un récord
-----------------------------
-
-A Arce aún le queda una oportunidad más para aumentar su cantidad de goles e, inclusive, puede romper un récord. Con la cantidad de anotaciones con las que cuenta en la Liga Pro, Arce igualó a Jonathan Bauman, quien había tenido los mejores números en una campaña del torneo y lo hizo en 2021.
-
-El delantero paraguayo y sus 26 goles fueron los mismos que hizo Bauman, pero a este aún le quedan dos partidos. En las finales de ida y vuelta ante Independiente del Valle, el delantero podrá coronarse como el máximo goleador en la historia de la Liga Pro.
-
-Verónica Abad tendrá su audiencia de acción de protección esta semana
-=====================================================================
-
-Verónica Abad busca anular sanción por abandono de funciones; audiencia adelantada al 5 de diciembre en Quito.
---------------------------------------------------------------------------------------------------------------
-
-![Verónica Abad en su llegada para su audiencia de acción de protección.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-83.jpg)
-
-La audiencia solicitada por la vicepresidenta, **Verónica Abad**, se realizará este jueves, 5 de diciembre de 2024. La **jueza Nubia Vera Cedeño** anunció el adelanto de la sesión, inicialmente programada para el 9 de diciembre, debido a la **disponibilidad de una sala en el Complejo Judicial Norte de Quito**. La convocatoria está fijada para las **09:00 en el auditorio del complejo**.
-
-### Más noticias
-
-* [Verónica Abad habló sobre Rafael Correa y Jorge Glas](https://www.elcomercio.com/actualidad/politica/veronica-abad-hablo-sobre-rafael-correa-y-jorge-glas.html "Verónica Abad habló sobre Rafael Correa y Jorge Glas")
-* [Verónica Abad acudió a su audiencia este 29 de noviembre](https://www.elcomercio.com/actualidad/politica/audiencia-accion-proteccion-veronica-abad-es-29-noviembre.html "Verónica Abad acudió a su audiencia este 29 de noviembre")
-* [Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad](https://www.elcomercio.com/actualidad/politica/corte-constitucional-tramita-solicitud-relacionada-veronica-abad.html "Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad")
-
-La suspensión de la audiencia el viernes anterior respondió a la participación de **cerca de 40 amicus curiae**, tanto a favor como en contra del recurso.
-
-Durante esa primera sesión, se escucharon los **argumentos de la vicepresidenta y del Ministerio de Trabajo**. En esta ocasión, la jueza continuará con las exposiciones de los **amicus curiae**, que representan diversos colectivos.
-
-> 🚨🏢 Viviana Veloz, presidenta de la Asamblea, realizó el pedido, tras la suspensión de la funcionaria👉[https://t.co/ihLYavKG72](https://t.co/ihLYavKG72) [pic.twitter.com/yHmfk88hGr](https://t.co/yHmfk88hGr)
-> 
-> — El Comercio (@elcomerciocom) [November 30, 2024](https://twitter.com/elcomerciocom/status/1862660394096988372?ref_src=twsrc%5Etfw)
-
-Argumentos detrás del recurso de acción de protección de Verónica Abad
-----------------------------------------------------------------------
-
-La acción de protección busca dejar sin efecto una **sanción administrativa** que suspendió a Abad de su cargo por **150 días sin salario**.
-
-Según el Ministerio de Trabajo, la funcionaria **incumplió con su traslado oportuno a Ankara**, Turquía, como embajadora en el marco de su **misión diplomática**. Este retraso, de **ocho días**, fue considerado abandono de funciones bajo la **Ley Orgánica de Servicio Público (Losep)**.
-
-El presidente Daniel Noboa dispuso esta misión mediante decreto en agosto pasado, como parte de los esfuerzos diplomáticos frente al conflicto entre **Israel y Palestina**.
-
-Tras la sanción, Noboa dejó sin funciones a la vicepresidenta y designó a **Sariha Moya** como su reemplazo temporal. La sanción ha generado debate, pues **no está contemplada de manera específica en la Losep ni su reglamento**.
-
-Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro
-=====================================================================
-
-Cerca de 85 dólares invirtió un hincha de Liga de Quito para las tres finales de la Liga Pro en la localidad más económica.
----------------------------------------------------------------------------------------------------------------------------
-
-![Hincha de Liga de Quito en el estadio Rodrigo Paz Delgado en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/evolucion_entradas_1.jpg)
-
-La primera final de la Liga Pro 2024 entre **Liga de Quito e Independiente del Valle** poco a poco toma forma. La parte operativa está en marcha y se organiza todo para que se viva una verdadera fiesta.
-
-La final de ida de la Liga Pro está programada para el s**ábado 7 de diciembre, desde las 15:30**, en el estadio Rodrigo Paz Delgado. Este escenario acogerá la cuarta final en seis años del máximo torneo de fútbol de Ecuador.
-
-### Más noticias:
-
-* [Daniel Pintado se ubica entre los mejores del mundo en 2024](https://www.elcomercio.com/deportes/daniel-pintado-premio-mejor-mundo.html "Daniel Pintado se ubica entre los mejores del mundo en 2024")
-* [Liga de Quito va a la final de la Liga Pro ante Independiente del Valle](https://www.elcomercio.com/deportes/liga-quito-cuenca-liga-pro-final-etapa-2.html "Liga de Quito va a la final de la Liga Pro ante Independiente del Valle")
-* [Finalistas, clasificados, descensos y tabla de la Liga Pro 2024](https://www.elcomercio.com/deportes/liga-pro-tabla-acumulada-2024-finalistas-clasificados-descensos.html "Finalistas, clasificados, descensos y tabla de la Liga Pro 2024")
-
-La primera final de la Liga Pro del Rodrigo Paz Delgado fue el miércoles 11 de diciembre de 2019 ante Delfín**; la segunda fue el martes 29 de diciembre de 2020 ante Barcelona Sporting Club**; la tercera fue ante Independiente del Valle el domingo 17 de diciembre de 2023; y la cuarta será el sábado 7 de diciembre ante el mismo rival.
-
-De las tres finales previas, Liga en la de 2019 empató 0-0 en la ida; en la vuelta de 2020 empató 1-1 y perdió el título en la tanda de penales; y en el 2023 volvió a empatar 1-1, pero esta vez los penales le sonrieron y se proclamaron campeones.
-
-El invicto de **‘Casa Blanca’ en los 90 minutos en las finales del campeonato nacional está en juego**, aunque también de por medio está el hecho que los albos puedan ganar uno de estos encuentros en el tiempo reglamentario.
-
-Previo a la final de ida de 2024, LDU sacó a la venta las entradas. El alto valor **generó un intenso debate en distintas redes sociales**, con posturas a favor y en contra de la decisión tomada por los directivos de incrementar el costo regular para ver al ‘Rey de Copas’ ecuatoriano.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/evolucion_entradas_2-1024x683.jpg)
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/ramirez_liga_2-1024x683.jpg)
 
 Foto: API.
 
-Ver una final cuesta cada vez más
----------------------------------
+Liga descartó a Ramírez
+-----------------------
 
-El valor de las e**ntradas para la final de ida de 2019 ante Delfín** fue la más barata en este histórico.
+Bryan Ramírez nació el 11 de agosto de 2000 en Esmeraldas. Con **19 años llegó a Liga para hacer una prueba** para ingresar en la institución, pero no quedó y le tocó buscar otras alternativas luego de tres días.
 
-La general costó 15 dólares, **la tribuna oriental 25, la tribuna occidental 30** y el palco 50.
+Desafectado por los albos se marchó a Tumbaco para buscar una oportunidad en El Nacional. Estuvo por cinco meses en una etapa de prueba, pero **nuevamente se le cerraron las puertas y le tocó mirar** a la Segunda Categoría.
 
-El estadio no se llenó del todo. La venta fue de más de 25 000 mil boletos que atestiguaron el 0-0.
+**Juventud de Pichincha** lo recibió y lo tuvo en sus filas en el 2020. En el 2021 tuvo su gran oportunidad en la Serie B. No la desaprovechó y fue parte del ascenso a la A de Cumbayá y luego estuvo en el 2022 en el equipo capitalino en su estreno en la máxima categoría.
 
-> ¡Este miércoles esperamos un [#EstadioRodrigoPaz](https://twitter.com/hashtag/EstadioRodrigoPaz?src=hash&ref_src=twsrc%5Etfw) lleno! ¡Jugamos nuestra tercera final en 2 años y tú no puedes faltar! [#VamosPorLa12](https://twitter.com/hashtag/VamosPorLa12?src=hash&ref_src=twsrc%5Etfw) [#LDUvsDEL](https://twitter.com/hashtag/LDUvsDEL?src=hash&ref_src=twsrc%5Etfw) [#LigaProBancoPichinchaFinal](https://twitter.com/hashtag/LigaProBancoPichinchaFinal?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/POPnTsPWsg](https://t.co/POPnTsPWsg)
-> 
-> — LDU Oficial (@LDU\_Oficial) [December 8, 2019](https://twitter.com/LDU_Oficial/status/1203521089218981888?ref_src=twsrc%5Etfw)
+Su buen momento hizo que Liga y **Luis Zubeldía pongan su mirada en su talento y lo incorporen** en el 2023. Ese año completó 34 partidos, dio dos asistencias, vio la tarjeta amarilla en tres ocasiones y acumuló 1 646 minutos.
 
-En el 2020 la final de vuelta no tuvo espectadores. Las restricciones por la pandemia del covid-19 hicieron que se juegue a puertas cerradas en la fría noche quiteña en la previa de fin de año.
+En su palmarés personal se registra el título de la Serie B con Cumbayá en el 2021 y la Liga Pro y Copa Sudamericana con Liga de Quito en el 2023.
 
-En el 2023 la general **subió más del doble de lo de 2019. Costó 30 dólares**. La tribuna oriental 40, la tribuna occidental 50 y el palco 75. A este valor se le sumó los costos administrativos, impuestos municipales y el IVA.
+“Vivía cerca de Ponceano. En mi cabeza siempre pensaba que algún día iba a jugar en Liga. Gracias a Dios lo cumplí (…) No lo creía cuando me enteré de la posibilidad de venir a este equipo”, declaró en entrevista con Johana Calderón.
 
-Esta vez el Rodrigo Paz estuvo lleno. Más de 23 000 fueron los boletos vendidos, pero aquí no se contabilizan los dueños de palcos, socios, aportantes y superhinchas.
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/remirez_liga_3-1024x683.jpg)
 
-> ¡La copa 🏆se queda en casa!  
->   
-> ¡Venta en línea exclusiva Liguista 2023 habilitada!🤩  
->   
-> Final [@LigaProEC](https://twitter.com/LigaProEC?ref_src=twsrc%5Etfw) 2023  
-> 🤝 [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) vs [@IDV\_EC](https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw)  
->   
-> ¡Venta en línea exclusiva Liguista 2023 habilitada!  
->   
-> 🏟️ Estadio Rodrigo Paz  
-> 🗓️ 17 diciembre  
-> ⏰ 16h30 [pic.twitter.com/v0VyD2WBzf](https://t.co/v0VyD2WBzf)
-> 
-> — Liguista Oficial (@LiguistaOficial) [December 8, 2023](https://twitter.com/LiguistaOficial/status/1733125781788782735?ref_src=twsrc%5Etfw)
-
-Para el 2024 la general tendrá un costo de 37 dólares, la tribuna oriental 58, **la tribuna occidental 68 y los palco 94**, ya con todos los impuestos de ley incluidos.
-
-Sumando todos estos valores un hincha que fue a general sacó de su bolsillo 82 dólares; uno de tribuna oriental 123; otra de tribuna occidental 148; y uno de palco 219.
-
-> 🚨 ¡SE VIENE LA FINAL!  
->   
-> Preventa ya habilitada para liguistas, aportantes y socios 🫡  
->   
-> El 4/12 se habilitará la compra para quienes asistieron al partido 🆚 Dep. Cuenca  
->   
-> 👊 ¡Y la venta general inicia el 5/12!  
->   
-> 🎟️ [https://t.co/wblhcId3Mr](https://t.co/wblhcId3Mr) [pic.twitter.com/fp6KhpGDD9](https://t.co/fp6KhpGDD9)
-> 
-> — LDU Oficial (@LDU\_Oficial) [December 3, 2024](https://twitter.com/LDU_Oficial/status/1863737449383358736?ref_src=twsrc%5Etfw)
+Foto: API.
 
 San viernes
 -----------
 
-Propuesta sobre donación de órganos incluye obligación para empleadores
-=======================================================================
+La caravana migrante se topa con el bloqueo de las autoridades en el sur de México
+==================================================================================
 
-La Asamblea trata propuesta relacionada con donación y trasplantes de órganos en Ecuador.
------------------------------------------------------------------------------------------
+Los extranjeros piden comprensión a la presidenta, Claudia Sheinbaum.
+---------------------------------------------------------------------
 
-![Imagen referencial de proceso de trasplante de órganos.](https://www.elcomercio.com/wp-content/uploads/2024/12/donacion-organos.jpg)
+![Agentes de la Guardia Nacional (GN) frenan el paso a migrantes durante una caravana.](https://www.elcomercio.com/wp-content/uploads/2024/12/caravana-mexico-efe.jpg)
 
-Ya está listo el informe para el primer debate del proyecto de **Ley Orgánica de** **Donación y Trasplante** de Órganos, Tejidos y Células en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-La **Comisión del Derecho a la Salud** y Deporte de la Asamblea definió el documento que irá al Pleno del Legislativo. La meta es contar con una norma que regule los procedimientos.
+La caravana con más de **1 500 migrantes** que partió esta semana de la **frontera sur de México** se enfrenta este martes, 3 de diciembre de 2024, al igual que otros grupos similares, con el **bloqueo de las autoridades mexicanas,** quienes impiden que salgan del estado de Chiapas, limítrofe con Centroamérica.
 
 ### Más noticias
 
-* [Instituto Nacional de Donación y Trasplante de Órganos y Tejidos](https://www.elcomercio.com/tag/instituto-nacional-de-donacion-y-trasplante-de-organos-y-tejidos/ "Instituto Nacional de Donación y Trasplante de Órganos y Tejidos")
-* [Solca retoma de atención a pacientes del IESS en Cuenca](https://www.elcomercio.com/sociedad/solca-retoma-atencion-pacientes-iess-cuenca-afiliados-ecuador.html "Solca retoma de atención a pacientes del IESS en Cuenca")
-* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
+* [Trump confirma que usará al Ejército para deportar a migrantes indocumentados](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "Trump confirma que usará al Ejército para deportar a migrantes indocumentados")
+* [Migrantes latinos en riesgo de exclusión de ayudas por temporal en España](https://www.elcomercio.com/actualidad/mundo/migrantes-latinos-riesgo-exclusion-ayudas-temporal-espana.html "Migrantes latinos en riesgo de exclusión de ayudas por temporal en España")
+* [Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump](https://www.elcomercio.com/actualidad/mundo/migrantes-temen-quedar-atrapados-frontera-sur-mexico-tras-victoria-trump.html "Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump")
 
-Donación de órganos en Ecuador
-------------------------------
+En medio de las presiones del presidente electo de Estados Unidos, **Donald Trump**, para que México controle el **flujo migratorio,** el contingente salió a las 05:00 del municipio de Huixtla con paso lento, con algunos en bicicletas y triciclos, flanqueados por la Guardia Nacional y la policía municipal.
 
-En el proyecto de normativa se plantea que las personas donantes y receptoras de órganos, tejidos o células sean identificadas a través de los registros establecidos en el **Sistema Nacional de Información de Donación y Trasplante**.
+Los indocumentados, en su mayoría de Venezuela, denunciaron a que **elementos** del Instituto Nacional de Migración (INM), desde su llegada a Huixtla, permanecieron en sus alrededores y los persiguen por la carretera, donde este martes intentaron **detener a una familia,** pero los mismos migrantes lo impidieron.
 
-Eso bajo la gestión del **Instituto Nacional de Donación y Trasplante de Órganos, Tejidos y Células**.
+Los extranjeros piden comprensión a la presidenta, Claudia Sheinbaum, quien la semana pasada aseguró en una **llamada con Trump que las caravanas “ya no llegan”** a la frontera con Estados Unidos, mientras el mandatario electo prometió aranceles de 25 % a los productos mexicanos si no frena “la invasión” de migrantes y drogas.
 
-Eso sí, la identificación debe darse por medio de un certificado emitido por el médico tratante del paciente. En el documento debe constar las condiciones de **salud, diagnóstico y necesidades** específicas de cada caso.
+Apoyo para llegar a Ciudad de México
+------------------------------------
 
-El documento incorpora el **Registro Nacional de Personas Donantes**. La autoridad sanitaria nacional, en coordinación con el Sistema Nacional, tendrá que llevar el registro nacional de personas donantes y receptoras.
+“La presidenta de México debe brindarnos el **apoyo para llegar a la Ciudad de México,** donde hay más fuentes de trabajo y esperar la cita ‘CBP One’ (para pedir asilo en EE.UU.) tranquilamente porque otros estados son más peligrosos”, expuso el venezolano Genaro Cárdenas.
 
-Lo propio pasará con las personas jurídicas públicas y privadas dedicadas a la atención de personas trasplantadas, que será parte del **Sistema Nacional de Datos Públicos**.
+Este suramericano viaja en bicicleta con un grupo de sus compatriotas, quienes tienen la esperanza de llegar a su destino a pesar de los obstáculos y la presión de los agentes de Migración para convencerlos de retornar a la frontera sur.
 
-Los empleadores
----------------
+“Nosotros tememos que nos desarticulen y regresarnos a Tapachula, por lo que seguiremos adelante”, avisó Cárdenas.
 
-La propuesta que irá al **Pleno de la [Asamblea](https://www.asambleanacional.gob.ec/es)** también establece que los empleadores públicos o privados que cuenten con un número mínimo de **25 trabajadores** están obligados a contratar un paciente trasplantado en labores permanentes.
+México quiere a los migrantes en el sur
+---------------------------------------
 
-Del mismo modo, de aprobarse, la norma garantiza la distribución oportuna y permanente de medicamentos e insumos de forma gratuita. A la par, programas de **soporte psicológico** y capacitación.
+La presidenta prometió una **estrategia migratoria humanitaria** con un polo industrial en el sur de México, mientras sostiene que los encuentros diarios de migrantes en la frontera de Estados Unidos han caído un 75 % desde diciembre de 2023.
 
-Los costos de las acciones derivadas de la **Ley** se sujetarán al presupuesto asignado por parte de la autoridad competente.
+Pero en la caravana van migrantes como el venezolano **Bryan Joan,** quien dijo sentirse mal porque el **Gobierno no les brinda el apoyo** y no les permite transitar a Ciudad de México.
 
-El panorama en Ecuador
-----------------------
+“En Tapachula no hay trabajo de nada, aparte Migración nos dice una cosa, que ‘les vamos a ayudar’, donde es totalmente mentira y la gente se monta en las combis (camionetas) y regresan para atrás y los tienen hasta tres días en (la estación migratoria) Siglo XXI en Tapachula”, aseguró.
 
-En Ecuador, la Ley establece que todos los ciudadanos y extranjeros residentes legales son automáticamente donantes al cumplir la mayoría de edad. Esto a menos que indiquen lo contrario al obtener su **cédula de ciudadanía**.  
+El venezolano Antonio José también pidió al Gobierno de México cambiar la política migratoria sobre el terreno para **darle un trato más humano a las personas** y “no engañarlas”.
 
-Seis de cada **10 ecuatorianos** son donantes al momento de la cedulación.
+En tanto, grupos del Sistema Integral para la Familia (DIF) del Gobierno mexicano y Médicos Sin Fronteras (MSF) brindan **atención médica** y curaciones a migrantes con lesiones en sus pies.
 
-Entre noviembre de 2023 y octubre de 2024, el **Ministerio de Salud** registró 651 trasplantes en el Sistema Nacional de Salud.
+La salvadoreña Fabiola Flores dijo que, durante su paso por la **carretera Huixtla-Villa Comaltitlán,** “hay como unos 20 heridos con ampollas, deshidratación y llagas”.
 
-**70 pacientes** fueron derivados a prestadores internacionales para trasplante pulmonar adulto y pediátrico.
+“Venimos todos en son de paz, no queremos hacer **desorden público,** solo queremos llegar a nuestro destino y descansar, la verdad, (la autoridad) intenta intimidarnos, persuadirnos para que dejemos la caminata”, comentó. 
 
-38 intervenciones se dieron en el **Instituto Ecuatoriano de Seguridad Social (IESS)**, 31 en el Ministerio de Salud Pública y uno, en el Instituto de Seguridad Social de las Fuerzas Armadas (Issfa).
+Estado de excepción en Quito, ¿aplica el toque de queda durante sus fiestas?
+============================================================================
 
-Los trasplantes en el país
---------------------------
+El presidente Daniel Noboa extendió el estado de excepción por 30 días en seis provincias y dos ciudades, incluido Quito.
+-------------------------------------------------------------------------------------------------------------------------
 
-De acuerdo con el Registro Oficial de la Actividad de Donación y Trasplante en América Latina y el Caribe, Ecuador ocupa el cuarto lugar en la región en **trasplantes** por millón de habitantes.
+![Quito fue incluido en el estado de excepción suscrito por el presidente Daniel Noboa](https://www.elcomercio.com/wp-content/uploads/2024/12/toque-queda-quito-estado-excepcion.jpg)
 
-Eso quiere decir un **55,14 %**. En trasplantes de córneas, está en el tercer puesto, con un 35,08 %, luego de Brasil y Uruguay.
+El presidente **Daniel Noboa** renovó el **estado de excepción** en seis provincias y dos ciudades de Ecuador, por **30 días**. El Decreto Ejecutivo 469 fue suscrito este lunes 2 de diciembre de 2024 por “**grave conmoción interna**“.
 
-Proceso actual
---------------
+### Más noticias
 
-El Instituto Nacional de Donación y Trasplante de Órganos, Tejidos y Células (Indot) articula operativos con la red pública y privada complementaria. (RPC). Además, participan la Policía Nacional, Fuerzas Armadas, ECU 911, Registro Civil, ente otras instancias.
+* [Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decreto-reduccion-tarifas-isd-2025.html "Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025")
+* [Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-renueva-estado-excepcion-ocho-localidades.html "Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días")
+* [Presunto autor de incendio forestal en Quito fue declarado inocente](https://www.elcomercio.com/actualidad/quito/presunto-autor-incendio-forestal-quito-declarado-inocente.html "Presunto autor de incendio forestal en Quito fue declarado inocente")
 
-El país cuenta con 84 establecimientos de salud y servicios de apoyo acreditados para el proceso de donación y trasplante.
+Esta medida aplica a **Guayas, Los Ríos, Manabí, Santa Elena, El Oro y Orellana**; y al Distrito Metropolitano de **Quito,** en Pichincha, y **Camilo Ponce Enríquez,** en Azuay.
 
-*  Identificación de potenciales donantes: los hospitales tienen protocolos para identificar a pacientes, especialmente, aquellos que se encuentran en estado crítico o que han sido declarados con muerte cerebral, así como los fallecidos por para cardíaca que cumplan con los criterios para ser donantes.
-* Evaluación médica: una vez identificado un donante potencial, se lleva a cabo una evaluación médica exhaustiva para determinar la viabilidad de los órganos y tejidos para el trasplante.
-* Cirugías: la extracción la realizan los equipos médicos especializados y acreditados.
-* Asignación: los órganos y tejidos son asignados a pacientes en la Lista de Espera Única Nacional mediante un sistema que prioriza la urgencia médica y la compatibilidad con escalas técnicas específicas.
-*  Trasplante: los procedimientos de trasplante se llevan a cabo en hospitales acreditados por el Indot.
-* Seguimiento: la revisión postoperatoria es fundamental para asegurar la salud del receptor.
+Con el nuevo estado de excepción, algunos derechos ciudadanos se ven suspendidos hasta los primeros días de 2025, sin tomar en cuenta las **festividades** locales, como las fiestas de Quito, Navidad y de Año Nuevo.
 
-* * *
+Daniel Noboa señaló que el objetivo del estado de excepción es **garantizar el orden público, la paz social y convivencia pacífica de ciudadano.**
 
-### Esperanza
+Toque de queda focalizado
+-------------------------
 
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+Según detalla el documento oficial, la medida se aplica bajo los artículos 3, 4 y 8 del Decreto Ejecutivo **410** del 3 de octubre de 2023.
 
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+Este decreto incluía la suspensión al derecho de **libertad de reunión** y ordenaba la movilización de la **Policía Nacional** y las **Fuerzas Armadas**.
 
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+Sin embargo, la **Corte Constitucional** no dio paso a los argumentos presentados y declaró la inconstitucionalidad de estos pedidos, dando paso únicamente a **tres medidas**:
 
-Capacitaciones para miembros de juntas de las elecciones 2025 se iniciaron, ¿dónde?
+* Suspensión del derecho a la inviolabilidad de **domicilio**
+* Suspensión del derecho a la inviolabilidad de **correspondencia**
+* Restricción de libertad de tránsito o toque de queda focalizado en **19 cantones**
+
+Sobre este último punto, la limitación del toque de queda aplica para:
+
+* Cantón Camilo Ponce Enríquez (Azuay)
+* Cantón Durán (Guayas)
+* Cantón Balao (Guayas)
+* Parroquia Tenguel (Guayas)
+* Cantón Babahoyo (Los Ríos)
+* Cantón Buena Fe (Los Ríos)
+* Cantón Quevedo (Los Ríos)
+* Cantón Puebloviejo (Los Ríos)
+* Cantón Vinces (Los Ríos)
+* Cantón Valencia (Los Ríos)
+* Cantón Ventanas (Los Ríos)
+* Cantón Mocache (Los Ríos)
+* Cantón Urdaneta (Los Ríos)
+* Cantón Baba (Los Ríos)
+* Cantón Palenque (Los Ríos)
+* Cantón Quinsaloma (Los Ríos)
+* Cantón Montalvo (Los Ríos)
+* Cantón La Joya de los Sachas (Orellana)
+* Cantón Puerto Francisco (Orellana)
+* Cantón Loreto (Orellana)
+
+El toque queda en estos lugares se realiza de **22:00 a 05:00**, de lunes a domingo.
+
+¿Quito tendrá toque de queda?
+-----------------------------
+
+El decreto del 2 de diciembre aclara que la medida toma en consideración también al dictamen de la Corte Constitucional del 14 de noviembre, por lo que **Quito no tendrá toque de queda** durante sus fiestas, ni en todo el mes de diciembre, hasta el **2 de enero**.
+
+Asimismo, los quiteños **podrán reunirse con libertad** al no tener restricciones en este derecho.
+
+Los encargados de la seguridad en la ciudad, únicamente podrán vulnerar el derecho a la inviolabilidad de domicilio en **allanamientos** y a la correspondencia[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Inseguridad en Quito
+--------------------
+
+Quito fue añadido al estado de excepción debido al incremento de la **inseguridad** en su territorio. La capital registra en lo que va de 2024, un total de **35 homicidios**, 26 homicidios intencionales, ocho homicidios y un femicidio.
+
+Según las cifras presentadas por el Ministerio del Interior, de estos homicidios, el 63 % fueron con amenazas, el **57 % con armas de fuego** y el 74 % en lugares públicos.  
+
+  
+
+Liga de Quito se solidariza con la familia de Pedro Pablo Perlaza tras su secuestro
 ===================================================================================
 
-Los miembros de las juntas receptoras del voto deben cumplir con capacitaciones. Hay lugares fijos para esta paso.
-------------------------------------------------------------------------------------------------------------------
+Pedro Pablo Perlaza, exjugador de Liga de Quito, fue secuestrado en Esmeraldas.
+-------------------------------------------------------------------------------
 
-![CNE notifica a los miembros de las juntas receptoras del voto.](https://www.elcomercio.com/wp-content/uploads/2024/12/juntas-capacitacion.jpg)
+![Pedro Pablo Perlaza en su etapa como jugador de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T181959.991.jpg)
 
-Ya comenzaron las capacitaciones para las personas designadas como **miembros de las juntas receptoras del voto** camino a las **elecciones 2025** en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)
+El fútbol ecuatoriano se conmocionó tras la lamentable noticia del **secuestro** de **Pedro Pablo Perlaza**. El hecho ocurrió la tarde del lunes 2 de diciembre de 2024, en Puerto Limón, provincia de Esmeraldas.
 
-Hay **lugares fijos** para recibir las instrucciones para el día de las votaciones, que se desarrollarán el **9 de febrero**.
+Según confirmó la Policía Nacional a _EL COMERCIO_, el secuestro también involucró a Juan Carlos Morales, a quien lo retuvieron junto al futbolista. Desde que se reportó el incidente, las autoridades han **desplegado un operativo para localizar y rescatar a las víctimas**, así como para identificar a los responsables.
+
+* [Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlza-secuestro-trayectoria.html "Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales")
+* [Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-futbolista-secuestro.html "Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas")
+* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
+
+Una vez que la noticia se hizo pública, **Liga de Quito,** club en el que Perlaza militó durante dos temporadas, expresó su solidaridad con el jugador y su familia a través de un comunicado oficial.
+
+Liga de Quito y Pedro Pablo Perlaza
+-----------------------------------
+
+A través de sus redes sociales, **Liga de Quito publicó un mensaje de apoyo**:
+
+> “Desde Liga Deportiva Universitaria **expresamos nuestra profunda preocupación y solidaridad a**nte la noticia del secuestro de nuestro exjugador”.
+
+El club también extendió su respaldo a los seres queridos del jugador, asegurándoles que no están solos en este difícil momento.
+
+> “**Confiamos en que esta situación tenga un desenlace favorable** y que pronto podamos recibir noticias alentadoras”, concluyó el comunicado.
+
+Hasta las 18:20 del martes 3 de diciembre, Liga de Quito es la única entidad deportiva que se ha pronunciado sobre la desaparición de Pedro Pablo Perlaza.
+
+> 🔊 Comunicado oficial [pic.twitter.com/lsKJZqweFu](https://t.co/lsKJZqweFu)
+> 
+> — LDU Oficial (@LDU\_Oficial) [December 3, 2024](https://twitter.com/LDU_Oficial/status/1864050266388992171?ref_src=twsrc%5Etfw)
+
+### **Sus números en Liga de Quito**
+
+Pedro Pablo Perlaza se unió a **Liga de Quito en 2020**, con 29 años, tras destacar en Delfín. Con el ‘Cetáceo’ logró el histórico título de la Liga Pro 2019, justamente frente a los albos.
+
+Con la camiseta de Liga de Quito, Perlaza disputó dos temporadas (2020 y 2021), acumulando 63 partidos entre Liga Pro, Supercopa Ecuador, Copa Libertadores y Copa Sudamericana. Durante su paso por el club, contribuyó con 14 asistencias y f**ue parte de los títulos de la Supercopa Ecuador en 2020 y 2021.**
+
+Caso de abuso a menor relacionado con colegio de Guayaquil ya está en investigación
+===================================================================================
+
+Padres de la menor dieron detalles sobre el caso de presunto abuso que alude a colegio de Guayaquil.
+----------------------------------------------------------------------------------------------------
+
+![Imagen referencial de abuso.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-23.jpg)
+
+Un **caso de presunto abuso a una meno**r está en investigación luego de una denuncia pública. Este se encuentra atado a un colegio en Guayaquil, en Ecuador[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
+
+Los hechos se habrían dado en 2022, No obstante, salieron a luz en este noviembre de 2024. El **Ministerio de Educación** no ha ampliado los detalles, mientras que los padres de la menor han difundido datos.
 
 ### Más noticias
 
-* [Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?](https://www.elcomercio.com/actualidad/politica/capacitaciones-miembros-juntas-elecciones-2025-empiezan-cuanto-duran.html "Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?")
-* [Miembros de las juntas tienen 11 obligaciones para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/miembros-juntas-elecciones-2025-responsabilidades-fijas.html "Miembros de las juntas tienen 11 obligaciones para las elecciones 2025")
-* [Selección de miembros de las juntas para las elecciones 2025 se acerca](https://www.elcomercio.com/elecciones/seleccion-miembros-juntas-receptoras-voto-elecciones-2025-acerca.html "Selección de miembros de las juntas para las elecciones 2025 se acerca")
+* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
+* [Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas](https://www.elcomercio.com/actualidad/mundo/gabriel-boric-enfrenta-denuncia-presunto-abuso-difusion-otos-intimas.html "Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas")
+* [Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante](https://www.elcomercio.com/actualidad/cuenca/medico-colegio-cuenca-juicio-abuso-sexual.html "Médico de colegio en Cuenca, a juicio por presunto abuso sexual a estudiante")
 
-> Si fuiste seleccionado Miembro de una Junta Receptora del Voto, ¡capacítate! 👩🏾‍🏫  
->   
-> Los ciudadanos designados [#MJRVElecciones2025](https://twitter.com/hashtag/MJRVElecciones2025?src=hash&ref_src=twsrc%5Etfw) tienen la responsabilidad de instruirse sobre sus funciones para la jornada de sufragio del 9⃣ de febrero de 2025. 🗳️🇪🇨  
->   
-> Conoce los puntos de… [pic.twitter.com/LXi8ebN9Wk](https://t.co/LXi8ebN9Wk)
-> 
-> — cnegobec (@cnegobec) [December 2, 2024](https://twitter.com/cnegobec/status/1863601729956409848?ref_src=twsrc%5Etfw)
+Caso de abuso en colegio de Guayaquil y los pasos
+-------------------------------------------------
 
-Miembros de las juntas y las capacitaciones
--------------------------------------------
+El jueves, 28 de noviembre de 2024, se instaló una reunión interinstitucional en la **Subsecretaría de Educación de la Zona 8**. El objetivo era analizar la situación y coordinar las acciones.
 
-Las capacitaciones a los miembros de las juntas receptoras del voto las dicta el **Consejo Nacional Electoral (CNE)** y son presenciales.
+Este 3 de diciembre, en cambio, desde el **[Ministerio de Educación](https://educacion.gob.ec/)** se indicó que las investigaciones continúan y que se ha detectado inconsistencias.
 
-El organismo electoral definió **680 capacitadores.** Hay puntos definidos en las distintas provincias del país, entre estos, instituciones educativas.
+Aunque, no se detalló cuáles, por tratarse de un caso en curso. La **Fiscalía** tampoco ha difundido datos puntuales del caso.
 
-Las jornadas para proporcionar los lineamientos se realizarán hasta el 9 de febrero de 2025. Estas incluyen las distintas **fases** que se desarrollarán en los comicios: **conformación e instalación de la mesa de votación, sufragio, escrutinio y embalaje para el envío del material electoral**.
+Testimonios de padre y madre
+----------------------------
 
-Los sitios para votar
----------------------
+A pesar de que no se conocen datos oficiales, el padre de la joven dio una entrevista en Radio RSN y habló de un **presunto secuestro**.
 
-Los **miembros de las juntas receptoras del voto** pueden conocer los lugares para la capacitación asignados en cada provincia.
+De acuerdo con el hombre, la menor identificó a una persona de entre 30 y 35 años como quien la **violó**.
 
-Hay varias opciones. La primera es escanear el **código QR** que recibieron en la notificación. La otra vía es en la web del [CNE](https://www.cne.gob.ec/puntos-de-capacitacion-elecciones-generales-2025/) y en la aplicación del organismo.
+Ella habría despertado en un cuarto “**tipo caleta**“, sin ventanas ni puertas. Según el padre, el supuesto agresor y dos personas que custodiaban el sitio golpearon a la adolescente.
 
-Para los integrantes de las juntas que se encuentran en el **exterior**, las charlas serán en las **oficinas consulares**.
+En el relato, el progenitor de la joven habló de una presunta **banda** que se dedicaría a la venta de la “**virginidad**” de menores de edad.
 
-Son **287 534 personas** que deben cumplir con las instrucciones. De estas, 284 319 corresponden a quienes están en Ecuador y 3 215, en el exterior.
+Otros elementos
+---------------
 
-> [#VamosTodosXEcuador](https://twitter.com/hashtag/VamosTodosXEcuador?src=hash&ref_src=twsrc%5Etfw) 🗳️🇪🇨  
->   
-> ¡Continúa la notificación a los [#MJRVElecciones2025](https://twitter.com/hashtag/MJRVElecciones2025?src=hash&ref_src=twsrc%5Etfw)! 📢  
->   
-> Llegamos a los rincones más alejados del territorio nacional, para entregar los nombramientos a los ciudadanos designados como Miembros de las Juntas Receptoras del Voto de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).… [pic.twitter.com/gQqtmDhJYb](https://t.co/gQqtmDhJYb)
-> 
-> — cnegobec (@cnegobec) [November 26, 2024](https://twitter.com/cnegobec/status/1861525196987080988?ref_src=twsrc%5Etfw)
+Aunque el supuesto abuso no se habría dado en el plantel, el padre indicó que las personas involucradas en el secuestro y el abuso serían **profesores** de la institución educativa de Guayaquil, entre ellos, de **Matemáticas y Química**.
 
-Los detalles de los espacios de capacitación
---------------------------------------------
+En el testimonio, el hombre apuntó a la existencia de un **túnel** del sistema de alcantarilla que conectaba con la caleta. Ese estaba sellado a la hora de las pericias, dijo.
 
-En **Pichincha**, el Instituto Nacional Mejía y la Unidad Educativa Consejo Provincial están entre los sitios para capacitarse. Se suman lugares como la Unidad Educativa Sixto Durán Ballén y el Colegio Juan Pío Montúfar.
+La madre, quien también participó en la entrevista en el medio, aseguró que su hija se contagió de una bacteria. Esta habría sido resultado de la introducción de una **pinza** en el útero y una gasa.
 
-En el caso de **Guayas**, entre los lugares están las universidades Estatal de Guayaquil, Salesiana, Agraria del Ecuador, entre otros puntos.
-
-**Para Azuay**, hay opciones como la delegación provincial del **CNE**, en Cuenca. En Gualaceo, las personas pueden acudir a la Unidad Educativa Mercedes Molina.
-
-Para este 2 de diciembre, entre los **horarios previstos** para las instrucciones está la jornada de 09:00 a 15:00. También, de 10:00 a 13:00. Las jornadas son solo por un día.
-
-Las sanciones
--------------
-
-Las personas definidas para conformar las juntas receptoras del voto que no acudan a las capacitaciones deben pagar una multa del **10% del salario básico**.
-
-En caso de no acudir al sitio asignado para los comicios, también hay una sanción, correspondiente al **15% de una remuneración mensual básica unificada**. 
-
-Abandonar sin justificación, la junta electoral tiene una multa que va desde **11 salarios básicos** unificados hasta 20.
-
-Además, se puede generar la **destitución y/o suspensión** de derechos de participación desde seis meses hasta dos años.
+El padre de la joven también indicó que su hija no sería la única afectada y que la adolescente vio a más **menores** que se encontraban desnudas en el sitio del delito.
 
 * * *
 
@@ -717,388 +674,515 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Ecuador sube en medallas de oro en Juegos Bolivarianos
-======================================================
+La ley marcial en Corea del Sur tiene tres precedentes desde 1972
+=================================================================
 
-Ecuador sumó nuevas medallas de oro gracias al Levantamiento de Potencia y ciclismo Down Hill en los Juegos Bolivarianos que se realizan Perú
----------------------------------------------------------------------------------------------------------------------------------------------
+En el verano de 2018, el general Lee Suk-koo, intentó imponer la ley marcial a través de un plan propuesto por la inteligencia militar.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-![Carmen Bueno sumó una medalla de oro para Ecuador en los Juegos Bolivarianos.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-40.jpg)
+![Oficiales de policía y un vehículo militar frente a la Asamblea Nacional después de que el presidente surcoreano, Yoon Suk Yeol, declarara la ley marcial en Seúl, Corea del Sur.](https://www.elcomercio.com/wp-content/uploads/2024/12/corea-sur-policia.jpg)
 
-Ecuador sumó tres medallas de oro en el primer día de competencias de levantamiento de potencia en los **Juegos Bolivarianos del Bicentenario**, que se llevan a cabo en Perú. Además, el ciclismo Down Hill también se subió a lo más alto del podio.
+La declaración de la **ley marcial** por parte del presidente surcoreano, **Yoon Suk-yeol**, para proteger el “orden constitucional” de lo que considera **actividades “anti-estatales”**, y de las que acusa al principal bloque de la oposición, el **Partido Democrático** (PD) tiene tres precedentes en este país en los últimos cincuenta años.
 
-Los atletas ecuatorianos **Kenia Monserrate, Carmen Bueno** y **Franklin León** se destacaron en la Villa Deportiva Nacional, en Lima, donde se alzaron con los máximos honores en sus respectivas modalidades, confirmó el Comité Olímpico Ecuatoriano (COE).
+### Más noticias
+
+* [El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas](https://www.elcomercio.com/actualidad/mundo/presidente-surcoreano-revoca-ley-marcial-rechazo-parlamento-y-prostestas.html "El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas")
+* [EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial](https://www.elcomercio.com/actualidad/mundo/ee-uu-apoya-decision-asamblea-nacional-surcoreana-levantar-ley-marcial.html "EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial")
+* [Gobierno surcoreano declara la ley marcial ante actividades ‘pro-norcoreanas’ de oposición](https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html "Gobierno surcoreano declara la ley marcial ante actividades ‘pro-norcoreanas’ de oposición")
+
+Tras dar un golpe militar en 1961, **Park Chung-hee** fue elegido presidente en 1963 y reelegido en 1971.
+
+Bajo su mandato, **Corea del Sur experimentó un crecimiento económico** sin precedentes, el llamado “Milagro del río Han”, lo que impulsó su **popularidad hasta principios de los setenta,** cuando esta empezó a decaer y decidió declarar en 1972 la ley marcial y aprobar una nueva constitución autoritaria que estaría vigente hasta poco después de su asesinato en 1979.
+
+En 1980
+-------
+
+En mayo de 1980, el entonces presidente surcoreano **Chun Doo-hwan o**rdenó la ley marcial y los militares detuvieron a los principales líderes políticos de la oposición, se cerraron las universidades, se prohibieron actividades políticas y se restringió la prensa.
+
+Aquella imposición trajo el denominado levantamiento en la ciudad de Gwangju, a unos 330 kilómetros al sur de Seúl, donde se estima que el ejército mató a unos 600 civiles.
+
+Noviembre 2020
+--------------
+
+El 30 de noviembre de 2020, un tribunal de Corea del Sur declaró culpable a Chun Doo-hwan de difamar a un testigo ya fallecido en relación con la masacre que el ejército perpetró en la ciudad de Gwangju en 1980 cuando era jefe de Estado.
+
+El tribunal de distrito de Gwangju respaldó el testimonio del testigo, un sacerdote que afirmó en unas memorias **publicadas en 2017** que **helicópteros dispararon contra civiles** durante aquella acción, y condenó a Chun, que tenía 89 años, a ocho meses de prisión, suspendida por dos años.
+
+El exdictador, una de las **figuras más polémicas** de la política surcoreana, nunca admitió ninguna responsabilidad ni pidió perdón por la masacre.
+
+Verano de 2018
+--------------
+
+Más recientemente, en el verano de 2018, el **general Lee Suk-koo**, intentó imponer la ley marcial a través de un plan propuesto por la **inteligencia militar** para acabar con las protestas contra la expresidenta Park Geun-Hye en 2017, quien estaba acusada de corrupción y que contemplaba el arresto de parlamentarios o la censura de medios.
+
+Sin embargo, poco después, el entonces presidente surcoreano**, Moon Jae-in**, destituyó al mencionado general y ordenó refundar este organismo. 
+
+Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania
+========================================================================
+
+El Bayer Leverkusen, con Piero Hincapié los 90 minutos en cancha, eliminó al Bayern Múnicha y está en cuartos de la Copa de Alemania.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié (der.), del Bayer Leverkusen, defiende un balón ante un rival del Bayer Múnich en la Copa de Alemania.](https://www.elcomercio.com/wp-content/uploads/2024/12/1000179575-scaled.jpg)
+
+**Piero Hincapié** volvió a brillar con el Bayer Leverkusen y tuvo una destacada actuación ante el Bayern Múnich en la **Copa de Alemania**. El equipo del ecuatoriano se impuso como visitante por 0-1 y obtuvo su boleto hacia los cuartos de final del certamen.
+
+Uno de los partidos más atractivos de la jornada copera en tierras alemanas resultaba el de los dos clubes. A nivel de la **Bundesliga**, ambos se encuentran en lo alto dentro de la tabla y, a su vez, llegaban como favoritos en la Copa.
 
 ### Más noticias:
 
-* [Moisés Caicedo, nominado a prestigioso premio en Inglaterra](https://www.elcomercio.com/deportes/moises-caicedo-premio-jugador-mes.html "Moisés Caicedo, nominado a prestigioso premio en Inglaterra")
-* [Las pesas dieron ocho medallas a Ecuador en los Bolivarianos 2024](https://www.elcomercio.com/deportes/otros/ecuador-bolivarianos-pesas-medallas-2024.html "Las pesas dieron ocho medallas a Ecuador en los Bolivarianos 2024")
-* [Jenifer Becerra brilla con oro en Juegos Bolivarianos Ayacucho 2024](https://www.elcomercio.com/deportes/pesas/jenifer-becerra-oro-ecuador-juegos-bolivarianos-ayacucho.html "Jenifer Becerra brilla con oro en Juegos Bolivarianos Ayacucho 2024")
+* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+* [Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia](https://www.elcomercio.com/deportes/futbol/piero-hincapie-agradece-a-sus-companeros-tras-la-victoria-ante-colombia.html "Piero Hincapié agradece a sus compañeros tras la victoria ante Colombia")
 
-Kenia Monserrate fue la primera en subir al podio, obteniendo oro en la modalidad de sentadilla en la categoría femenina 57-63 kg con un impresionante puntaje de 37,7. Aunque no logró medalla en la modalidad de **press de banca**, donde se ubicó segunda con 21,46, terminó en la primera posición en la clasificación general con 96,86 puntos. “Estoy muy orgullosa de lo que he logrado. Fue un gran reto, pero me voy feliz con dos medallas”, comentó **Monserrate.**
+Para el duelo ante los bávaros, el equipo de **Hincapié** también llegaba con una notable chapa gracias a su campaña previa. En la temporada 2023-2024, el ecuatoriano y el **Leverkusen** se coronaron campeones del certamen[.](https://es.wikipedia.org/wiki/Bayer_Leverkusen)
 
-Por su parte, Carmen Bueno se coronó campeona en **press de banca** en la categoría 47-52 kg con 22,13 puntos y consiguió además una medalla de bronce en peso muerto con 41,73. Con un puntaje total de 100,53, terminó en el tercer lugar de la clasificación general. “Estoy muy feliz y agradecida por el apoyo del Comité Olímpico. Esta ha sido una bonita experiencia”, expresó la deportista.
+De cara al cotejo frente al Bayern Múnich, el DT **Xabi Alonso** de las ‘aspirinas’ decidió utilizar sus mejores cartas e Hincapié saltó a la cancha como titular. El defensor tricolor se ubicó como lateral izquierdo y estuvo presente durante los 90 minutos de juego.
 
-El turno de **Franklin León** llegó en la tarde, quien se llevó el oro en sentadilla en la categoría 59-66 kg con 37,01 puntos. Además, logró bronce en **press de banca** con 21,15, cerrando en el segundo lugar en la clasificación general con 96,39. “Nos fue muy bien. Aunque no logramos medalla en peso muerto, estoy satisfecho con el balance general”, señaló León.
-
-Ciclismo de oro
----------------
-
-Ecuador se destacó en el ciclismo Down Hill. Con dos medallas de oro, una de plata y otra de bronce los tres ciclistas ecuatorianos se destacaron en el cerro de Campanajocc de Ayacucho.
-
-Rafaela Roldán se subió dos veces al podio con oro en individual femenino y equipo mixto junto a Yahir Rodríguez, quien a su vez se llevó plata en individual masculino; en esa misma prueba Martín Ramírez consiguió bronce, destacó el COE.
-
-Ecuador y las medallas en Bolivarianos
---------------------------------------
-
-Ecuador, con esta brillante jornada, suma un total de 27 medallas en los Juegos Bolivarianos, con 6 oros, 7 platas y 14 bronces.  
-  
-Para el martes 3 de diciembre del 2024, Ecuador volverá a tener representantes en Levantamiento de Potencia con Moisés Villón, Ricardo Coloma y Joselyn García.
-
-Además, en el **Wushu** con Ronald Rosero, Jhon Sornoza, Emily Veliz y Orlando Rosero.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDGKyKUgp2z/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Comité Olímpico Ecuatoriano (@ecuadorolimpico)](https://www.instagram.com/p/DDGKyKUgp2z/?utm_source=ig_embed&utm_campaign=loading)
-
-Asamblea Nacional surcoreana vota revocar la ley marcial decretada por el presidente
-====================================================================================
-
-La votación se produjo mientras miles de personas se congregaban frente a la Asamblea Nacional para protestar contra la declaración de la ley marcial.
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los legisladores gobernantes y de oposición votan por unanimidad a favor de una resolución que insta al presidente a retirar la ley marcial.](https://www.elcomercio.com/wp-content/uploads/2024/12/Corea-del-sur-asamblea-efe.jpg)
-
-La **Asamblea Nacional surcoreana** votó hoy, 3 de diciembre de 2024, a favor de levantar la ley marcial decretada por el presidente surcoreano, [Yoon Suk-yeol](https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html "https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html"), en una sesión plenaria extraordinaria convocada poco después de que el mandatario anunciara esa medida excepcional.
-
-### Más noticias
-
-* [Gobierno surcoreano declara la ley marcial ante actividades ‘pro-norcoreanas’ de oposición](https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html "https://www.elcomercio.com/actualidad/mundo/gobierno-surcoreano-declara-ley-marcial-ante-actividades-norcoreanas-oposicion.html")
-* [La coreana que conquista Ecuador con su voz en coreano, inglés y español](https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html "La coreana que conquista Ecuador con su voz en coreano, inglés y español")
-* [Presidentes del mundo se citaron en cuatro cumbres en América Latina](https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html "Presidentes del mundo se citaron en cuatro cumbres en América Latina")
-
-En la sesión plenaria, las **fuerzas de la oposición** que dominan la cámara aprobaron con **190 votos a favor la revocación** de la ley marcial, lo que según la Constitución surcoreana obliga al presidente a retirar esa medida.
-
-La votación se produjo mientras **miles de personas** se congregaban frente a la Asamblea Nacional para protestar contra la **declaración de la ley marcial** y las tropas surcoreanas trataban de tomar la sede del poder legislativo bajo esa medida de excepción.
-
-La Asamblea se encuentra rodeada por un amplio dispositivo policial. Sin embargo, no se han producido **incidentes destacables** por el momento, poco después de que Yoon **proclamara la ley marcial** y de que el **mando militar** anunciara la prohibición de toda actividad política, incluidas las manifestaciones o protestas.
-
-El comando militar nombrado bajo la ley marcial prohibió toda **actividad política** en el país y sus tropas entraron en el complejo de la **Asamblea Nacional**, frente a la cual se congregaron ciudadanos en protesta contra esas medidas.
-
-Tras decretarse la ley marcial de emergencia, el jefe del Estado Mayor Conjunto (JCS) nombrado a cargo del comando militar bajo esa **medida de excepción,** Park An-su, anunció que las actividades de la Asamblea Nacional y los partidos políticos quedan prohibidos, así como la convocatoria de protestas o manifestaciones.
-
-¿Por qué declaró la ley marcial?
---------------------------------
-
-El presidente surcoreano declaró la ley marcial para **proteger el “orden constitucional”** de actividades “anti-estatales”, de las que el mandatario acusa al principal bloque de la oposición, el Partido Democrático (PD), al que tildó de “fuerzas pronorcoreanas” en una declaración televisada.
-
-El sorpresivo anuncio llegó después de que el PD, que tiene **mayoría en la Asamblea Nacional** (Parlamento), aprobara sin contar con el apoyo del gobernante **Partido del Poder Popular (PPP)** de Yoon unos presupuestos generales para 2025. Estos tenían **múltiples recortes**, además de mociones para destituir al fiscal general y al responsable de la **Junta de Auditoría e Inspección**, encargada de monitorizar las cuentas de los organismos públicos. 
-
-Dos escenas de ‘Pedro el Escamoso 2’ presagiaron la muerte de Sandra Reyes
-==========================================================================
-
-¿Coincidencia o premonición? El adiós del personaje de Sandra Reyes en 'Pedro el escamoso' se parece a su partida fuera de la pantalla.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Sandra Reyes interpretó a la doctora Paula Dávila en 2001 y 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/actriz-el-escamoso-El-Comercio-1.jpg)
-
-La noticia de la **muerte de Sandra Reyes**, recordada por su icónico papel como la **doctora Paula Dávila** en **‘Pedro el Escamoso**‘, ha conmovido profundamente a **Colombia** y a los fanáticos de la popular **telenovela**.
-
-La actriz, que murió el 1 de diciembre de 2024 a los 49 años, dejó una marca imborrable en la televisión, y curiosamente, dos escenas de la reciente secuela de la serie parecen haber anticipado su partida.
-
-### Más noticias
-
-* **[Hailee Steinfeld, actriz de ‘Hawkeye’, da el “sí”](https://www.elcomercio.com/afull/hailee-steinfeld-actriz-de-hawkeye.html "https://www.elcomercio.com/afull/hailee-steinfeld-actriz-de-hawkeye.html")**
-* **[‘La Guerra de los Rohirrim’ llega a la gran pantalla con un estilo anime épico](https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html "https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html")** 
-
-En ‘**Pedro el Escamoso: Más escamoso que nunca**‘, estrenada el 2024 en **Disney+**, Sandra Reyes regresó brevemente para interpretar por última vez a Paula.
-
-**La desgarradora confesión**
------------------------------
-
-En una de las escenas más emotivas de la temporada, su personaje confía a **Pedro Coral (Miguel Varoni)** que enfrenta una batalla contra el **cáncer**.
-
-Con una interpretación desgarradora, Paula le dice a Pedro: “Es algo que tarde o temprano nos va a pasar a todos. Yo tengo la suerte de saber cuándo es mi fecha de vencimiento”.
-
-Su mensaje, cargado de optimismo y resignación, terminó siendo un reflejo de la realidad que la actriz enfrentaba en silencio.
-
-Los seguidores de la telenovela, conmovidos por la escena, la han viralizado en redes sociales y destacan la naturalidad con la que Reyes interpretó el momento. Algunos comentan que su actuación parecía tan auténtica porque estaba viviendo esa lucha en la vida real.
-
-**La noticia que hizo llorar a Pedro el Escamoso**
---------------------------------------------------
-
-La otra escena que ha impactado a los fans muestra a Pedro recibiendo la noticia del fallecimiento de Paula. La devastadora reacción del personaje y las imágenes del velorio en una capilla dejaron una impresión profunda, especialmente ahora, tras el fallecimiento de Reyes.
-
-Sandra Reyes, quien brilló entre 2001 y 2003 con ‘Pedro el Escamoso’, será recordada como una de las actrices más queridas de la televisión colombiana.
-
-Te recomendamos:
-----------------
-
-Cortes de agua en Quito este martes 3 de diciembre
-==================================================
-
-La Epmaps recomendó a moradores que se abastezcan del líquido necesario para cubrir sus necesidades de higiene, alimentación y salud.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de agua en Quito se producen a causa de los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-03T113511.704.jpg)
-
-La suspensión del **servicio de energía eléctrica** que realiza el Gobierno afecta el suministro de agua potable en Quito, por lo que se dispuso cortes de agua algunos barrios.
-
-### Más noticias
-
-* [Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-se-realizan-en-95-barrios-de-quito-hasta-el-8-de-diciembre.html "Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre")
-* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
-* [Controles de velocidad en Quito este martes 3 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-3-de-diciembre.html "Controles de velocidad en Quito este martes 3 de diciembre")
-
-¿A qué se deben los cortes de agua?
------------------------------------
-
-La **Empresa Metropolitana de Agua Potable** (Epmaps) señaló que los cortes de luz impactan directamente la provisión de agua en los barrios de las **partes altas de Quito.** Esto debido a que a estas zonas el líquido llega mediante bombeo eléctrico.
-
-La Epmaps recomendó a quienes habiten en estos sectores que se **abastezcan del líquido** necesario para cubrir sus necesidades básicas de higiene, alimentación y salud.
-
-Agregó que personal **técnico y operativo monitorea l**os sistemas de bombeo a fin de ponerlos en funcionamiento cuando el fluido eléctrico se normalice.
-
-Además, recuerda a la ciudadanía que la **recuperación del servicio de agua potable** en las zonas altas toma más tiempo debido al llenado de tanques.
-
-Barrios afectados en Quito de 12:00 a 15:00 y de 22:00 a 23:59
---------------------------------------------------------------
-
-* Parroquia Belisario Quevedo
-* Parroquia Rumipamba
-* Parroquia San Juan
-* Parroquia Chilibulo
-* Parroquia La Mena
-* Parroquia La Libertad
-
-Barrios afectados en Quito de 10:00 a 14:00
--------------------------------------------
-
-* Parroquia Guamaní
-* Parroquia La Ecuatoriana
-
-Parroquias afectadas de 08:00 a 11:00 y de 20:00 a 22:00
---------------------------------------------------------
-
-* Parroquia Conocoto
-* Parroquia La Argelia
-* Parroquia La Ferroviaria
-* Parroquia Chimbacalle
-
-Cortes de agua de 15:00 a 18:00
--------------------------------
-
-* Parroquia Belisario Quevedo
-* Parroquia Rumipamba
-* Parroquia San Juan
-* Parroquia Cochapamba
-
-Sectores afectados en Quito de 18:00 a 21:00
+Una expulsión que perjudicó al Bayern Múnich
 --------------------------------------------
 
-* Parroquia Conocoto
-* Parroquia Puengasí
-* Parroquia La Ferroviaria
+El duelo, sobre el papel, lucía parejo y así fue, sin embargo, una jugada puntual marcó el ritmo del cotejo en el primer tiempo y lo condicionó para el resto de su desarrollo. A los 17 minutos de juego, el arquero **Manuel Neuer**, de los de Múnich, fue expulsado.
 
-Barrios con cortes de agua de 13:00 a 16:00 y de 21:00 a 23:00
---------------------------------------------------------------
+Después de un pelotazo hacia **Emmanuel Frimpong**, Manuel Neuer falló en la salida. En su intento por despejar la pelota, este no llegó y se llevó consigo a su rival, de manera que cortó una jugada manifiesta de gol y vio la tarjeta roja.
 
-* Parroquia El Condado
-* Parroquia Cotocollao
-* Parroquia Ponceano
+El jugar con menos cambió el panorama del cuadro bávaro, que debió arreglárselas para continuar con 10 lo que restaba del partido. Pese a que terminó el primer tiempo **sin goles en contra**, en el segundo ya no resistió.
 
-Cortes de agua de 12:00 a 15:00 y de 22:00 a 23:59
---------------------------------------------------
-
-* Parroquia Rumipamba
-* Parroquia Cochapamba
-
-De 06:00 a 08:00 y de 16:00 a 19:00
------------------------------------
-
-* Parroquia San Isidro del Inca
-* Parroquia Kennedy
-* Parroquia Comité del Pueblo
-
-Sectores con cortes de agua de 17:00 a 03:00 del miércoles
-----------------------------------------------------------
-
-* Parroquia Conocoto
-* Parroquia La Argelia
-* Parroquia La Ferroviaria
-* Parroquia San Bartolo
-* Parroquia La Magdalena
-* Parroquia Chimbacalle
-* Parroquia Puengasí
-* Parroquia Centro Histórico
-* Parroquia Itchimbía
-* Parroquia San Juan
-
-La **restitución del servicio de agua** potable se reanudará de forma paulatina a partir del horario señalado. Para conocer si tu [barrio se verá afectado puedes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") enviar un mensaje de WhatsApp al 096 207 2222 opción 4.
-
-Puedes consultar la **programación completa de cortes de agua** en Quito [aquí.](https://www.aguaquito.gob.ec/cortes-electricos-octubre/ "https://www.aguaquito.gob.ec/cortes-agua/")
-
-> 💧 [#AguaDeQuito](https://twitter.com/hashtag/AguaDeQuito?src=hash&ref_src=twsrc%5Etfw) | Debido a los cortes de luz anunciados por el Gobierno Nacional, las zonas altas se verán afectadas con el suministro de agua potable.  
->   
-> Conoce los horarios y los barrios afectados 👉 [https://t.co/4h0ELptlEI](https://t.co/4h0ELptlEI)[@MunicipioQuito](https://twitter.com/MunicipioQuito?ref_src=twsrc%5Etfw) [@ambientequito](https://twitter.com/ambientequito?ref_src=twsrc%5Etfw) [pic.twitter.com/eH4lP3JIiI](https://t.co/eH4lP3JIiI)
-> 
-> — Epmaps – Agua de Quito (@aguadequito) [December 3, 2024](https://twitter.com/aguadequito/status/1863957234583031996?ref_src=twsrc%5Etfw)
-
-¿Cuándo se paga el decimotercer sueldo?
-=======================================
-
-El décimo tercer sueldo es un derecho laboral que debe cumplirse hasta finales de diciembre.
---------------------------------------------------------------------------------------------
-
-![El décimo tercer sueldo tiene una fecha límite para su pago.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-72-1.jpg)
-
-Los trabajadores en Ecuador tienen derecho a recibir el **decimotercer sueldo**, conocido como bono navideño, como parte de las disposiciones establecidas en el **Código del Trabajo**.
-
-### Más noticias
-
-* [Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno](https://www.elcomercio.com/actualidad/negocios/pago-sueldo-decimos-diciembre-asegurado-gobierno.html "Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno")
-* [Daniel Noboa reducirá Impuesto a la Salida de Divisas](https://www.elcomercio.com/actualidad/politica/daniel-noboa-reduce-impuesto-de-salida-de-divisas.html "Daniel Noboa reducirá Impuesto a la Salida de Divisas")
-* [Gobierno afirma que pagó 2 628 millones de dólares al IESS por deudas en 2024](https://www.elcomercio.com/actualidad/ecuador/gobierno-deuda-iess-pagos-2024.html "Gobierno afirma que pagó 2 628 millones de dólares al IESS por deudas en 2024")
-
-Este pago, equivalente a la **doceava parte de las remuneraciones** percibidas **durante el año calendario**, debe ser realizado por los empleadores hasta el **24 de diciembre** de cada año.
-
-Asimismo, la presentación del formulario correspondiente debe efectuarse hasta el **8 de enero** del año siguiente.
-
-Según lo dispuesto en el **artículo 111 del Código del Trabajo**[,](https://es.wikipedia.org/wiki/C%C3%B3digo_del_Trabajo "https://es.wikipedia.org/wiki/C%C3%B3digo_del_Trabajo") el cálculo de esta remuneración se basa en lo estipulado en el **artículo 95**, el cual establece que se considera como remuneración todo ingreso recibido por el trabajador en **dinero, servicios o especies que tenga carácter habitua**l.
-
-Esto incluye, por ejemplo, i**ngresos por horas extraordinarias, comisiones y participación en beneficios**.
-
-Sin embargo, se excluyen ciertos componentes, como el **porcentaje de utilidades legales, viáticos ocasionales y otros beneficios específicos** que no forman parte del cálculo del decimotercer sueldo.
-
-Sanciones por incumplimiento en el decimotercer sueldo
-------------------------------------------------------
-
-En caso de incumplimiento de las normas laborales, las sanciones están reguladas en el artículo 628 del Código del Trabajo.
-
-Hay dos formas formales de actuar frente al incumplimiento del pago del **decimotercer sueldo**. La primera implica presentar una **queja formal ante el Ministerio de Trabajo**.
-
-Los trabajadores deben completar un formulario para solicitar la emisión de una boleta única de notificación. Con esta se cita al empleador a comparecer ante las **autoridades y explicar las razones** del incumplimiento.
-
-Si el empleador no se presenta o no justifica adecuadamente el impago, las autoridades pueden imponer multas de hasta 20 salarios básicos unificados (SBU), que en 2024 **equivale a $460,** según lo establece el director regional del **Ministerio de Trabajo**.
-
-Adicionalmente, las disposiciones incluyen a los **trabajadores del servicio doméstic**o, quienes también tienen derecho a recibir esta remuneración conforme a las mismas reglas aplicadas al resto de los trabajadores.
-
-Recomendaciones para empleadores y trabajadores
------------------------------------------------
-
-Es importante que los empleadores **cumplan con las disposiciones legales** para evitar sanciones y garantizar el bienestar de sus colaboradores.
-
-Por su parte, los trabajadores deben estar informados sobre sus **derechos para exigir el cumplimiento de estos beneficios**. Esto se realiza en particular en una época del año en que el **bono navideño** representa un ingreso significativo para las **familias ecuatorianas**.
-
-Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre
-==============================================================================
-
-Estos son los horarios y los puntos donde se realizarán los controles preventivos de velocidad hasta la segunda semana de diciembre
------------------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes de tránsito realizan controles de velocidad en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-03T110421.758.jpg)
-
-La **Agencia Metropolitana de Tránsito** (AMT) informó sobre la reanudación de los **controles preventivos** de velocidad que se realizarán en las calles de Quito.
-
-### Más noticias
-
-* [Controles de velocidad en Quito este martes 3 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-3-de-diciembre.html "Controles de velocidad en Quito este martes 3 de diciembre")
-* [Manzano asegura que Ecuador terminará el año sin cortes de luz](https://www.elcomercio.com/actualidad/ecuador/manzano-asegura-que-ecuador-terminara-ano-sin-cortes-de-luz.html "Manzano asegura que Ecuador terminará el año sin cortes de luz")
-* [Al menos 82 hectáreas consume el incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/al-menos-82-hectareas-consume-incendio-forestal-guayaquil.html "Al menos 82 hectáreas consume el incendio forestal en Guayaquil")
-
-Controles de velocidad se suspendieron por cortes de luz
---------------------------------------------------------
-
-La Agencia Metropolitana de Tránsito (AMT) realizó **controles de exceso de velocidad en Quito** hasta el mes de septiembre en algunas vías de Quito. Estos operativos de control de exceso de velocidad tienen el objetivo de **reducir los siniestros de tránsito y salvar vidas**.
-
-La AMT ejecutó el último **operativo preventivo de control de velocidad** el martes 24 de septiembre en la av. Simón Bolívar, una de las vías que más [siniestros](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") registra.
-
-El mismo 24 de septiembre, la **Agencia de Tránsito** informó que, en la coyuntura de los cortes de luz que se realizan en Quito, se decidió **suspender de forma temporal los operativos**. Tanto los controles preventivos como los sancionatorios se detuvieron desde esa última semana de septiembre.
-
-Esta decisión se tomó como un **esfuerzo para realizar una mejor gestión del tránsito** vehicular durante los apagones. De ese modo, **todo el contingente de la AMT** está concentrado en asistir a la ciudadanía en los principales cruces cuando los semáforos se quedan sin luz.
-
-AMT reanudó controles de exceso de velocidad
---------------------------------------------
-
-La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
-
-Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
-
-Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Los primeros se harán durante todos los días de esta semana.
-
-De ese modo, los controles de velocidad se realizan diariamente desde la mañana del **martes 26 de noviembre**. En este operativo, se concienció a 11 conductores que excedieron los [límites de velocidad.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Cronograma próximos operativos de control de velocidad
-------------------------------------------------------
-
-* **Martes 3 de diciembre:**
-    * De 07:00 a 08:00, av. **Tnt. Hugo Ortiz,** sentido sur-norte
-    * De 15:00 a 16:00, **av. Simón Bolívar**, sector La Pampa, sentido norte-sur
-* **Miércoles 4 de diciembre:**
-    * De 10:00 a 11:00, av. Simón Bolívar y Nogales, sentido sur-norte
-    * De 13:30 a 14:30, av. Mariscal Sucre y av. Mariana de Jesús, sentido sur-norte
-* **Jueves 5 de diciembre:**
-    * De 10:00 a 11:00, av. Simón Bolívar a la altura de Más Gas, sentido sur-norte
-    * De 15:00 a 16:00, av. Napo y Bobonaza, en sentido sur-norte
-* **Viernes 6 de diciembre:**
-    * De 07:30 a 08:30, av. Mariscal Sucre y S 37 E, en sentido sur-norte
-* **Lunes 9 de diciembre:**
-    * De 10:00 a 11:00, av. Simón Bolívar, sector Santa Rosa, sentido sur-norte
-    * De 15:00 a 16:00, av. Panamericana y Calixto Muso, sentido occidente-oriente
-* **Martes 10 de diciembre:**
-    * De 07:00 a 08:00, av. De los Shyris y Portugal, sentido norte-sur
-    * De 15:00 a 16:00, av. Ilaló y Luis Hernández, sentido Quito-valle
-* **Miércoles 11 de diciembre:**
-    * De 10:00 a 11:00, Geovanny Calles y Calixto Muso, sentido este-oeste
-    * De 13:30 a 14:30, av. Simón Bolívar, sector La Forestal, sentido sur-norte
-* **Jueves 12 de diciembre**:
-    * De 07:30 a 08:30, av. Mariscal Sucre y La Maná, sentido sur-norte
-    * De 14:00 a 15:00, av. Velasco Ibarra, mirador, de sur a norte
-* **Viernes 13 de diciembre:**
-    * De 10:00 a 11:00, av. Simón Bolívar a la altura de Más Gas, sentido sur-norte
-    * De 15:00 a 16:00, av. Simón Bolívar, sector La Pampa, sentido sur-norte
-
-¿Qué pasará con el hombre que abandonó a sus perros en Calderón?
-================================================================
-
-Este caso de maltrato animal ocurrió la noche del pasado sábado, en Calderón.
------------------------------------------------------------------------------
-
-![Los dos perritos fueron abandonados en Calderón. Foto referencial: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-03T105736.997.jpg)
-
-La **noche** del pasado 30 de noviembre de 2024, tres **mujeres**, a bordo de un **vehículo**, fueron testigos de un caso de **maltrato animal.** El triste hecho ocurrió en **Calderón**.
-
-### **Más noticias:**
-
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [Los fuegos artificiales provocan daños irreversibles en los perros y gatos](https://www.elcomercio.com/narices-frias/fuegos-artificiales-perros-gatos-danos-irreversibles.html "https://www.elcomercio.com/narices-frias/fuegos-artificiales-perros-gatos-danos-irreversibles.html")
-* [La perra Lolita es en realidad Candy y ‘cuenta’ los días para regresar a su hogar](https://www.elcomercio.com/narices-frias/lolita-perra-candy-instagram-reencuentro-familia.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/lolita-perra-candy-instagram-reencuentro-familia.html?source=Internal&ref=Single+Content+Link")
-
-Las **mujeres** \-desde su auto- observaron como un **hombre** abandonó a sus dos **perros**; la persona, que se movilizaba en un taxi, se deshizo de los peluditos y huyó.
-
-El comportamiento de ese **hombre** indignó a las mujeres e inmediatamente emprendieron una ‘persecución’ para llamar la atención del infractor. Finalmente, cuando el taxi se detuvo y el hombre se puso de pie, las **mujeres** cuestionaron su **proceder** y advirtieron que lo denunciarían.
-
-**¿Qué pasará con el hombre que abandonó a sus perros en Calderón?**
---------------------------------------------------------------------
-
-El **video** \-compartido en las redes sociales de **EL COMERCIO**– se viralizó y la **[Unidad de Bienestar Animal](https://bienestaranimal.quito.gob.ec/ "https://bienestaranimal.quito.gob.ec/")** dijo que tomaría acciones.   
-
-Han pasado casi tres días y desde la **UBA** dijeron que “lamentablemente, no hay mucho que se pueda hacer por el momento, pero se analizará toda la evidencia disponible para tomar una decisión adecuada”.
-
-**Quito sanciona el abandono de animales**
+El triunfo del Leverkusen y Piero Hincapié
 ------------------------------------------
 
-La **Ordenanza Metropolitana** es clara; recibirá una multa de USD 4 600 la persona que abandone animales en lugares públicos o privados, en áreas urbanas o rurales, tales como centros de atención veterinaria, peluquerías y hoteles caninos, entre otros, así como en las reservas naturales del Distrito Metropolitano de Quito.
+El gol de definición en los octavos de final de la Copa de Alemania llegó gracias a **Nathan Tella**, quien había ingresado desde el banco de suplentes. El futbolista logró conectar un cabezazo y sentenciar el compromiso.
 
-**El abandono lastima a los animales**
+Después de que **Alejandro Grimaldo** recibiese un centro desde el costado zurdo, Tella apareció para enviar el balón al fondo de las redes. Con ello, el resultado se volvió irremontable para el Bayern Múnich.
+
+El papel de **Hincapié**, a su vez, fue clave para sostener el resultado y administrar la ventaja de un hombre más. Este se mostró sólido ante las arremetidas de sus rivales y prestó a dar una mano en ataque, de forma que se aproveche la superioridad numérica.
+
+Las tres piezas clave de Independiente del Valle para la final de Liga Pro
+==========================================================================
+
+Independiente del Valle jugará su tercera final de la Liga Pro desde la creación del torneo hace seis años.
+-----------------------------------------------------------------------------------------------------------
+
+![Richard Schunke, Jeison Medina y Joao Ortiz son las figuras de Independiente del Valle en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171854.503.jpg)
+
+**Independiente del Valle estuvo** cerca de consagrarse campeón directo en la Liga Pro 2024, pero un tropiezo frente a Liga de Quito en la última jornada de la segunda etapa le impidió este logro.
+
+Pese a este contratiempo, los ‘rayados’ buscarán el **título enfrentando nuevamente a la ‘U’** en una reedición de la final de 2023, donde los albos se coronaron campeones por penales.
+
+### Más noticias:
+
+* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
+* [Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro](https://www.elcomercio.com/deportes/final-liga-pro-historico-precio.html "Esto gastó un hincha de Liga de Quito para las finales de la Liga Pro")
+* [Liga de Quito se prepara para la salida de Álex Arce en 2025](https://www.elcomercio.com/deportes/alex-arce-liga-quito-2025.html "Liga de Quito se prepara para la salida de Álex Arce en 2025")
+
+¿Tomará venganza Independiente o volverá a sucumbir ante Liga de Quito? Para conquistar la ansiada copa, el técnico **Javier Gandolfi** cuenta con tres piezas clave que serán fundamentales en la búsqueda de su primer título como entrenador.
+
+Las tres piezas clave de Independiente del Valle
+------------------------------------------------
+
+Carlos Sevilla, histórico entrenador del fútbol ecuatoriano, conversó con _EL COMERCIO_ sobre la final de la Liga Pro y seleccionó las principales figuras de Independiente del Valle. Según el entrenador, las tres piezas clave de los ‘rayados’ son Richard Schunke, Joao Ortiz y Jeison Medina.
+
+Richard Schunke, el líder de IDV
+--------------------------------
+
+Para Sevilla, **Richard Schunke es el corazón de la defensa y del equipo**. Luego de superar una dura lesión que lo alejó de las canchas la temporada pasada, el capitán de Independiente volvió más fuerte y se consolidó como uno de los mejores centrales del campeonato.
+
+“Tiene buen cabeceo, gran anticipo y **maneja muy bien la cobertura de sus compañeros**. Es un organizador dentro del campo y tiene una excelente colocación,” destacó Sevilla.
+
+### Números en Liga Pro:
+
+* **Partidos**: 22
+* **Equipo de la semana:** 4
+* **Entradas**: 26
+* **Recuperaciones:** 73
+* **Despejes:** 77
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171749.134-1024x683.jpg)
+
+Richard Schunke es el capitan de IDV.
+
+Joao Ortiz, el comodín del equipo
+---------------------------------
+
+**Joao Ortiz** tuvo un tramo complicado durante la temporada, pero en la recta final recuperó el nivel que lo llevó a ser convocado a la **Selección de Ecuador.**
+
+“Es un jugador clave en labores defensivas y de organización. Puede apoyar a los volantes de contención y muchas **veces soluciona problemas en el área** central,” analizó Sevilla.
+
+### Números en Liga Pro:
+
+* **Partidos**: 27
+* **Equipo de la semana:** 2
+* **Pases completados:** 91%
+* **Recuperaciones**: 154
+* **Entradas**: 27
+* **Goles**: 1
+* **Asistencias**: 3
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171812.844-1024x683.jpg)
+
+Joao Ortiz En un partido de Independiente del Valle.
+
+Jeison Medina, el ‘killer’ del área
+-----------------------------------
+
+Independiente del Valle reforzó su ataque para la segunda etapa de la Liga Pro con la contratación de **Jeison** **Medina**, quien brilló en Aucas durante el primer semestre. Aunque le costó adaptarse inicialmente, se consolidó como el delantero goleador que los ‘rayados’ necesitaban.
+
+“Medina **es un goleador nato**, con una excelente definición de media distancia y buen remate,” comentó Sevilla.
+
+### Números en Liga Pro:
+
+* Partidos: 30
+* Equipo de la semana: 7
+* Tiros por partido: 2.3
+* Tiros a puerta por partido: 1.4
+* Frecuencia de goles: 110 minutos
+* Goles: 20
+* Asistencias: 3
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171734.803-1024x683.jpg)
+
+Jeison Medina es uno de los máximos goleadores de la Liga Pro.
+
+La joven sensación de IDV
+-------------------------
+
+Carlos Sevilla también destacó a **Keny** **Arroyo**, un joven que comenzó el torneo como revulsivo y terminó ganándose la titularidad en el tramo final de la temporada.
+
+Destaca por su **buena toma de decisiones** pese a su corta edad, su velocidad, regate y entendimiento del juego. Ha sido un gran socio para Jeison Medina.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T171629.737-1024x683.jpg)
+
+Keny Arroyo fue una de las figuras en la segunda etapa de la Liga Pro.
+
+Caso Pantalla, testigos protegidos revelan corrupción en el Consejo de la Judicatura
+====================================================================================
+
+Testigos protegidos revelaron cómo funcionaba el Consejo de la Judicatura en el caso Pantalla.
+----------------------------------------------------------------------------------------------
+
+![Audiencia del caso Pantalla en la Corte Nacional de Justicia el pasado 2 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-87.jpg)
+
+El **caso Pantalla** revela irregularidades en el proceso de **selección de jueces y conjueces de la Corte Nacional de Justicia en 2023**, liderado por el **Consejo de la Judicatura** bajo la presidencia de **Wilman T**.
+
+### Más noticias
+
+* [Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-mencionado-reparto-jueces-fiscales-caso-pantalla-testigo-protegido.html "Wilman Terán fue mencionado sobre el reparto en el Consejo de la Judicatura")
+* [Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-jueza-confirma-delincuencia-organizada-se-espera-sentencia.html "Caso Metástasis, Tribunal sentencia a Wilman Terán y 19 procesados a entre 3 y 10 años")
+* [Wilman Terán fue acusado en un tercer juicio, conozca qué se trata](https://www.elcomercio.com/actualidad/seguridad/wilman-teran-acusado-tercer-juicio-caso-pantalla.html "Wilman Terán fue acusado en un tercer juicio, conozca de qué se trata")
+
+Este concurso, anulado en enero de 2024, evidenció posibles **actos de tráfico de influencias**, asociación ilícita y corrupción a gran escala, manchando la credibilidad de la **Función Judicial**.
+
+Las investigaciones, impulsadas por la **Fiscalía General del Estado (FGE)**, buscan **esclarecer como altos funcionarios del Consejo de la Judicatura manipularon el proceso** para beneficiar a determinados postulantes.
+
+A su vez, se han recogido **testimonios y realizado múltiples allanamiento**s para identificar a los responsables y el alcance de sus acciones.
+
+Cronología de los hechos
+------------------------
+
+### 24 de abril de 2024
+
+La Fiscalía **ejecutó allanamientos** en sectores clave de **Quito como Tumbaco y Quitumbe**, recabando celulares, computadoras y **documentos relevantes**. Estos operativos proporcionaron los primeros indicios sólidos sobre el caso.
+
+### 5 de septiembre de 2024
+
+Nuevos allanamientos se enfocaron en áreas sensibles del **Consejo de la Judicatura**, incluyendo **Tecnologías de la Información y Talento Humano**.
+
+Ese día, la Fiscalía formula cargos contra **Santiago C. y Milton H.**, acusados de tráfico de influencias. Ambos enfrentan **prisión preventiva**.
+
+### 26 de octubre de 2024
+
+Wilman T., y otros funcionarios clave, como Anabel T., David G. y Juan Carlos E., son vinculados **formalmente al caso**. Las medidas cautelares incluyen prisión preventiva para T., y Anabel T., esta última buscada por la **Interpol**.
+
+### 30 de octubre de 2024
+
+La Fiscalía reformula cargos **contra los procesados**, quienes ahora enfrentan acusaciones de asociación ilícita. Se ratifican las medidas cautelares mientras las investigaciones avanzan.
+
+Los testimonios de los testigos protegidos en el caso Pantalla
+--------------------------------------------------------------
+
+Durante la audiencia del 2 de diciembre de 2024, los cuatro testimonios anticipados presentados ante la **Corte Nacional de Justicia** brindaron detalles impactantes sobre cómo se manejó el Consejo de la Judicatura bajo el liderazgo de Wilman T.
+
+> 📍El testimonio rendido ayer, dentro del caso pantalla, deja claro que Wilman Terán planificaba sacarme de la presidencia de la Corte, muchos jueces estuvimos en su contra y le retiramos la confianza por sus actos bochornosos!  
+> 📍Muy claro que yo no le nombré en la terna ni tuve… [pic.twitter.com/7HK3QrcYID](https://t.co/7HK3QrcYID)
+> 
+> — Iván Saquicela Rodas :. (@ivansaquicela) [December 3, 2024](https://twitter.com/ivansaquicela/status/1863943643049963586?ref_src=twsrc%5Etfw)
+
+El ‘_troll center_‘ y la manipulación del concurso
+--------------------------------------------------
+
+El primer testigo en rendir declaración, identificado como J.A.M.A., reveló cómo Wilman T., utilizó fondos públicos para contratar un _troll center_ por **30 000 dólares**.
+
+Este servicio tenía como objetivo **difundir información falsa** y atacar a sus opositores en redes sociales.
+
+J.A.M.A., ingeniero ambiental de profesión y estudiante de Derecho, también explicó que, aunque ingresó al CJ por recomendación de un **amigo cercano a Wilman T.**, su rol terminó convirtiéndose en una herramienta más para ejecutar las órdenes del **expresidente de la entidad**.
+
+Respecto al **concurso de jueces**, J.A.M.A. relató un episodio clave, mientras supervisaba la prueba teórica, observó cómo Anabel T., aliada cercana de Wilman T., **no realizaba el examen**. Según su testimonio, Santiago C., asesor de Wilman T., fue quien lo completó en su lugar. Esta acción relató, era una muestra de las **irregularidades en el proceso de selección**.
+
+J.A.M.A. también mencionó un episodio en el que el hijo de Anabel T., llevó una mochila con **20 000 dólares a la Corte Nacional**, presuntamente para entregarla a los abogados. Aunque no pudo confirmar a quién se dio el dinero, su relato subrayó la **estrecha relación entre Wilman T., y Anabel T.**, así como las **operaciones financieras** detrás del caso.
+
+Supuestas amenazas y manipulación
+---------------------------------
+
+F. H., exasesor de Wilman T., describió un ambiente de **constante intimidación y presión**. Aunque inicialmente señaló haber **recibido amenazas**, confesó que él mismo las envió para demostrar su lealtad.
+
+Además, relató un episodio en el que su esposa fue abordada por desconocidos que, con **fotografías personales**, le advirtieron que debía dejar a F. H., cuando informó a Wilman T., sobre este incidente, este **desestimó las amenazas** y le instó a continuar trabajando.
+
+> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | [#CasoPantalla](https://twitter.com/hashtag/CasoPantalla?src=hash&ref_src=twsrc%5Etfw): M. F. H. M., procesado y testigo protegido, también rindió su testimonio anticipado, en el marco de esta causa, en la que [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) investiga el presunto cometimiento del delito de [#AsociaciónIlícita](https://twitter.com/hashtag/Asociaci%C3%B3nIl%C3%ADcita?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/BbxD7ZGJJc](https://t.co/BbxD7ZGJJc)
+> 
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 3, 2024](https://twitter.com/FiscaliaEcuador/status/1863750013584601385?ref_src=twsrc%5Etfw)
+
+El testimonio de H. F., también expuso el control ejercido por Wilman T., sobre decisiones clave en la Judicatura. Por ejemplo, detalló reuniones con Luis R., exjuez de la [Corte Nacional](https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia "https://es.wikipedia.org/wiki/Corte_Nacional_de_Justicia"), para garantizar su designación como presidente de la Corte.
+
+Además, describió cómo se utilizaron estrategias para perjudicar a jueces opuestos a Wilman T., y favorecer a sus aliados.
+
+Revelación de los ‘ángeles negros’
+----------------------------------
+
+S. C., testigo protegido y conocido como uno de los **principales asesores de Wilman T.**, reveló la existencia de una **estructura organizada dentro de la Judicatura**. Esta estructura se dividía entre **‘ángeles negros’ y ‘ángeles blancos’**, quienes tenían tareas específicas para mantener a Wilman T., en el poder.
+
+Los **‘ángeles negros’** ejecutaban actividades de intimidación y gestionaban un supuesto grupo armado que protegía los intereses de Wilman T., mientras los **‘ángeles blancos’** se encargaban de planificar su proyecto político, incluido su intento de llegar a la **Presidencia de la República**. Al menos, según las indagaciones.
+
+S. C., también utilizó un **pizarrón para explicar cómo esta estructura operaba**, desde la manipulación de procesos judiciales hasta la **designación de funcionarios estratégicos**. Su testimonio incluyó referencias a cómo la red utilizaba **recursos de la Judicatura** para consolidar el control político y judicial de Wilman T.
+
+El reparto de cuotas y la corrupción entre copas
+------------------------------------------------
+
+D. G., **exdirector general de la Judicatura**, ofreció un testimonio revelador sobre el reparto de cuotas dentro del Consejo. Según Guzmán, Wilman T., asignaba direcciones estratégicas a sus aliados políticos, garantizando así el control sobre decisiones clave.
+
+Además, mencionó que varias **direcciones fueron ocupadas por personas cercanas a Wilman T.**, incluidas mujeres con quienes mantenía relaciones sentimentales.
+
+D. G., también denunció el **consumo excesivo de alcohol** por parte de Wilman T., quien, según él, dirigía sesiones del **Pleno de la Judicatura** y tomaba decisiones importantes en **estado de ebriedad**. Este comportamiento, afirmó D. G., afectó gravemente el **manejo de la entidad** y permitió que se tomaran decisiones arbitrarias en beneficio de Wilman T., y su círculo cercano.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Nuevos incidentes en la Penitenciaría del Litoral dejan heridos este martes 3 de diciembre
+==========================================================================================
+
+La Penitenciaría del Litoral vuelve a ser escenario de violencia este 2024, se reportan reos heridos.
+-----------------------------------------------------------------------------------------------------
+
+![Nuevos incidentes en la Penitenciaría del Litoral dejan heridos.](https://www.elcomercio.com/wp-content/uploads/2024/12/Penitenciaria-del-litoral.jpg)
+
+Nuevos **incidentes** en la **Penitenciaría del Litoral** dejaron heridos este **martes 3 de diciembre** de 2024[.](https://es.wikipedia.org/wiki/Penitenciar%C3%ADa_del_Litoral)
+
+El **Servicio de Atención a las Personas Privadas de la Libertad y Adolescentes Infractores (SNAI)** dio detalles de lo ocurrido.
+
+### Más noticias:
+
+* [Vuelve la tensión a la Penitenciaría del Litoral, tras masacre](https://www.elcomercio.com/actualidad/seguridad/penitenciaria-litoral-tension-masacre.html "Vuelve la tensión a la Penitenciaría del Litoral, tras masacre")
+* [Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral](https://www.elcomercio.com/actualidad/seguridad/prision-preventiva-para-nueve-reos-por-asesinatos-penitenciaria-del-litoral.html "Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral")
+
+Heridos en la Penitenciaría del Litoral
+---------------------------------------
+
+El SNAI informó que se registraron **incidentes** provocados por dos personas privadas de libertad.
+
+Las **Fuerzas Armadas** y **Policía Nacional** activaron los **protocolos** de seguridad correspondientes.
+
+El general **Pablo Dávila**, comandante de la Zona 8, informó que se activó el Operativo Escorpión.
+
+Al momento, se reportan personas privadas de libertad **heridas**, “quienes están recibiendo la atención médica adecuada”, señaló el SNAI.
+
+El Servicio también sostuvo que se realiza la **evacuación del personal** del centro, bajo estrictos controles de seguridad.
+
+La Policía añadió que existieron **tres explosiones de granadas** y 11 heridos.
+
+De los **11 heridos**, nueve son personas privadas de libertad, uno es guía penitenciario y uno es militar.
+
+En los alrededores del centro de privación de la libertad, **familiares** de los presos señalaron que escucharon detonaciones de armas y explosiones.
+
+La Policía aseguró que la **situación está controlada**, que hay **siete presos aprehendidos** como presuntos responsables y **dos guías penitenciarios detenidos** por sospecha de haber facilitado las granadas utilizadas.
+
+El pasado martes 12 de noviembre, tuvo lugar una **masacre** en los pabellones 3 y 10 de este centro de privación de libertad.
+
+Por este suceso **fallecieron 17 reos** y 15 quedaron heridos, en la Penitenciaría del Litoral.
+
+El **SNAI** no señala aún detalles sobre el número de heridos ni el tipo de incidentes.
+
+Se dispuso **cierres viales** en la vía a Daule, frente a la Cervecería Nacional y en el ingreso a la cooperativa de vivienda La Germania.
+
+  
+
+Remco Evenepoel en recuperación tras accidente con una furgoneta
+================================================================
+
+El futuro de Remco Evenepoel está en pausa. El ciclista belga permanece inmovilizado tras un accidente. ¿Cómo está?
+-------------------------------------------------------------------------------------------------------------------
+
+![Remco Evenepoel es uno de los ciclistas más ganadores de los últimos años.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-42.jpg)
+
+El ciclista belga **Remco Evenepoel**, doble campeón olímpico en **París 2024** y que sufrió un accidente mientras entrenaba, este 3 de diciembre del 2024, deberá permanecer inmovilizado durante al menos dos semanas, tras las cuales se podrá planificar cuándo continúa con su preparación, informó su equipo, el **Soudal Quick-Step.**
+
+Se espera que el deportista pueda abandonar el hospital en el que está ingresado para el 4 de diciembre del 2024.
+
+### Más noticias:
+
+* [Lionel Messi lidera el equipo ideal de la MLS de 2024](https://www.elcomercio.com/deportes/futbol/messi-equipo-ideal-mls-eeuu.html "Lionel Messi lidera el equipo ideal de la MLS de 2024")
+* [FC Barcelona vence a Mallorca y es líder solitario de LaLiga](https://www.elcomercio.com/deportes/futbol/fc-barcelona-liga-espana-mallorc.html "FC Barcelona vence a Mallorca y es líder solitario de LaLiga")
+* [Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlza-secuestro-trayectoria.html "Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales")
+
+**¿Qué pasó con** **Remco Evenepoel**?
 --------------------------------------
 
-El **abandono de animales** por parte de sus tutores puede causarles graves daños físicos y emocionales. En primer lugar, los peluditos abandonados enfrentan riesgos inmediatos de malnutrición, enfermedades y accidentes.
+El corredor, que chocó contra la puerta de una furgoneta de la empresa de correos belga mientras circulaba en su bicicleta, sufrió en primera instancia fracturas en una costilla, el omóplato derecho y la mano derecha.
 
-Al no contar con el cuidado adecuado, su **salud** se ve seriamente comprometida, lo que puede llevar a infecciones, d**esnutrición severa y lesiones** por no estar bajo la protección de su dueño. La exposición constante a condiciones adversas, como el clima, el tráfico o la falta de acceso a agua y alimentos, agrava su sufrimiento.
+En un primer momento fue ingresado en el Hospital Erasme en Anderlecht, desde donde fue trasladado hacia otro en la localidad de Herentals, a las afueras de Amberes (norte de Bélgica).
 
-Además del daño físico, el abandono genera un impacto profundo en el **bienestar emocional** de los perros. Estos animales, que dependen de la compañía y el cuidado de sus tutores, experimentan altos niveles de ansiedad, miedo y estrés.
+En su segundo comunicado, el equipo **Soudal Quick-Step** informó de que los exámenes también revelaron contusiones en ambos pulmones y una luxación de la clavícula de la que iba a ser operado esta misma tarde.
 
-La pérdida repentina de su figura de apego puede generar trastornos de comportamiento, como la agresividad o la depresión.
+“Si la operación sale bien, **Remco** podrá salir del hospital mañana. Después de esto, deberá permanecer inmovilizado durante dos semanas, tras las cuales se podrá planificar su regreso a los entrenamientos”, explica la nota de prensa.
 
-Los **perros** son seres sociales que necesitan la interacción humana para sentirse seguros y protegidos, y el abandono puede dejarlos con secuelas emocionales que, en muchos casos, requieren un largo proceso de rehabilitación.
+Según medios locales, el choque se habría producido mientras el ciclista se entrenaba en un municipio al suroeste de Bruselas, cuando una cartera de **Bpost** abrió la puerta trasera de su furgoneta justo al paso del laureado ciclista belga, quien no pudo evitar el golpe.
+
+En imágenes publicadas en redes sociales y en los medios belgas se pudo ver al doble campeón olímpico envuelto en una manta, sentado en una camilla y consciente, aunque pálido. Otras fotografías muestran el cuadro de la bicicleta roto en dos trozos y fragmentos del mismo en la carretera.
+
+Los servicios de emergencia llegaron rápidamente y le trasladaron al hospital **Erasme de Anderlecht**. En un comunicado, Bpost confirmó que el accidente implicó a uno de sus vehículos y, aunque señaló que no podía dar detalles de la investigación, dijo que la cartera y la empresa están cooperando plenamente con la investigación.
+
+“La policía llegó al lugar de los hechos para hacer las observaciones necesarias. La cartera también permaneció en el lugar hasta que **Remco** pudo ser trasladado al hospital. Está muy afectada por el incidente. Deseamos a Remco una pronta recuperación y esperamos que las consecuencias para él sean mínimas”, añadió.
+
+Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco
+==========================================================================================
+
+El Alcalde de Quito anticipó que no se volverá a dar permisos a la estación radial para un nuevo concierto en la plaza de San Francisco.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Miles de personas asistieron a un concierto en la plaza de San Francisco, el viernes 29 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/12/concierto-plaza-san-francisco-caos.jpg)
+
+El **Alcalde de Quito**, Pabel Muñoz se pronunció tras los **incidentes** sucedidos en un **concierto** gratuito que se realizó el viernes 29 de noviembre de 2024, en la **plaza de San Francisco**, en el Centro Histórico.
+
+### Más noticias
+
+* [Concierto se canceló por caos e incidentes en la plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/concierto-plaza-san-francisco-cancelado.html "Concierto se canceló por caos e incidentes en la plaza de San Francisco")
+* [¿Por qué hay un feriado en fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/feriado-fiestas-quito-historia-fundacion.html "¿Por qué hay un feriado en fiestas de Quito?")
+* [Eventos y cierres viales durante la última semana de fiestas de Quito](https://www.elcomercio.com/actualidad/quito/eventos-cierres-vias-fiestas-quito-ultima-semana.html "Eventos y cierres viales durante la última semana de fiestas de Quito")
+
+El **evento musical** organizado por una emisora congregó a **miles de personas**. El concierto se salió de control y obligó a que la Intendencia de Pichincha lo cancelara por el **caos** que hubo en el lugar.
+
+El espectáculo comenzó a las **16:00** y, según la planificación del evento, debía culminar a las **00:00**; sin embargo, la **Intendencia de Pichincha** lo suspendió pasadas las 21:00.
+
+Aglomeración en la plaza de San Francisco
+-----------------------------------------
+
+Personas que acudieron al concierto en el **centro de Quito** mostraron su molestia en redes sociales por los desmanes producidos y el caos que se vivió en San Francisco. Los asistentes denunciaron “un **mal manejo en la organización**“.
+
+En las imágenes y videos compartidos por los usuarios se observó a niños y adultos siendo **golpeados** por los empujones de la **multitud**.
+
+Según las autoridades, el concierto excedió el número del **aforo** permitido “**hasta cuatro veces más**“.
+
+Asistentes denuncian que hubo cuatro personas apuñaladas en el evento
+---------------------------------------------------------------------
+
+El **ECU 911** confirmó, en un inicio, que los **desmanes** en la plaza de San Francisco causaron que una persona presente síntomas de **asfixia**, y no informaron de más afectados.
+
+Sin embargo, asistentes del evento denunciaron en redes sociales que **cuatro personas** resultaron **heridas** con armas blancas y al menos **ocho ciudadanos** fueron **intoxicados**[.](https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito) "https://es.wikipedia.org/wiki/Plaza_de_San_Francisco_(Quito)")
+
+En el concierto, la Agencia Metropolitana de Control (AMC) decomisó **228 litros de licor**, por no tener registro sanitario. Las bebidas se hallaron en 500 botellas y 228 fundas.
+
+Municipio no autorizará permisos para un nuevo concierto en San Francisco
+-------------------------------------------------------------------------
+
+El alcalde de Quito, **Pabel Muñoz**, habló sobre los desmanes en el concierto. En su informe semanal, este lunes, el funcionario anticipó que el próximo año el Municipio **no otorgará los permisos** a la radio organizadora.
+
+“No le vamos a dar permiso el próximo año. Les dijimos que tengan y pongan todos los resguardos posibles para evitar inconvenientes y no lo hicieron, **tenemos unos aforos que cuidar**”, señaló el Alcalde.
+
+“Por segundo año consecutivo, se establecieron los requisitos de **logística y seguridad** para la ejecución del evento; los cuales se verificaron como cumplidos; pero no se mantuvieron”, detalló Muñoz.
+
+El burgomaestre, además, hizo un llamado a la ciudadanía para que viva la “**fiesta en paz**” y que haga un buen uso del **espacio público** durante estas fiestas.
+
+> 📺 [#FrecuenciaQuiteña](https://twitter.com/hashtag/FrecuenciaQuite%C3%B1a?src=hash&ref_src=twsrc%5Etfw) | Informe semanal 073 de [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw), alcalde de Quito. [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [https://t.co/YYzdTIAdmZ](https://t.co/YYzdTIAdmZ)
+> 
+> — Municipio de Quito (@MunicipioQuito) [December 2, 2024](https://twitter.com/MunicipioQuito/status/1863580372744974594?ref_src=twsrc%5Etfw)
+
+Sobre la seguridad en Quito, el Alcalde dijo en una entrevista a FM Mundo, la tarde de este lunes, que, “si bien no es competencia del Municipio, el **100 % de la tasa de seguridad**, cerca de 11 millones de dólares, ha sido destinado a obras y equipamiento de la **Policía Nacional**“.
+
+Radio compartió un comunicado
+-----------------------------
+
+La radio que organizó el evento se pronunció luego de la **cancelación del concierto**.
+
+En un comunicado, el medio **ofreció disculpas** a la ciudadanía por la suspensión y “lamentó la decisión, especialmente, considerando que todos los artistas estaban confirmados y listos en camerinos para sus presentaciones.”
+
+Según detalla el documento, la cancelación del concierto se dio “por **motivos ajenos a la organización**, y en cumplimiento de las disposiciones de la Intendencia de Pichincha”.
+
+“Nos vimos obligados a interrumpir la programación prevista (…) para precautelar la **seguridad** de los asistentes”, explicó el medio de comunicación.
+
+El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas
+=======================================================================================
+
+A las 16:30, el Gobierno coreano aprobaba una moción para levantar la ley marcial, que se mantuvo en vigor durante cerca de seis horas.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Una imagen proporcionada por la Oficina del Presidente de Corea del Sur muestra al presidente surcoreano Yoon Suk Yeol.](https://www.elcomercio.com/wp-content/uploads/2024/12/presidente-corea-sur-diciembre.jpg)
+
+El presidente surcoreano, **Yoon Suk-yeol**, levantó hoy, 3 de diciembre de 2024, tras una reunión extraordinaria de su gobierno, la **ley marcial** que había declarado horas antes. Esto ocurre al tiempo que aseguró que las tropas que se ocupaban de garantizarla ya se retiraron a sus cuarteles.
+
+### Más noticias
+
+* [EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial](https://www.elcomercio.com/actualidad/mundo/ee-uu-apoya-decision-asamblea-nacional-surcoreana-levantar-ley-marcial.html "EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial")
+* [Niña salvadoreña de 2 años fue encontrada en la frontera sur de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/nina-salvadorena-2-anos-fue-encontrada-frontera-sur.html "Niña salvadoreña de 2 años fue encontrada en la frontera sur de Estados Unidos")
+* [Asamblea Nacional surcoreana vota revocar la ley marcial decretada por el presidente](https://www.elcomercio.com/actualidad/mundo/asamblea-nacional-surcoreana-vota-revocar-ley-marcial-decretada-presidente.html "Asamblea Nacional surcoreana vota revocar la ley marcial decretada por el presidente")
+
+Yoon realizó este anuncio en una comparecencia por televisión de madrugada en **Corea del Sur**, horas después de que el **Parlamento del país** votase a favor de levantar esta medida. Según la Constitución, obligaba a su revocación.
+
+Levantar la ley marcial
+-----------------------
+
+Poco después, a las 16:30, el Gobierno coreano aprobaba una moción para **levantar la ley marcial**, que se mantuvo en vigor durante cerca de seis horas.
+
+La intervención del presidente en televisión de madrugada se produjo poco después de que Estados Unidos defendiese que la crisis abierta en el país se **resolviese “pacíficamente”** y “de acuerdo con el estado de derecho”.
+
+La medida excepcional decretada causó **conmoción en el país** y miles de manifestantes se congregaron en la madrugada del miércoles frente a la **Asamblea Nacional** para protestar contra la ley marcial y pedir la dimisión de Yoon.
+
+El presidente decretó la ley marcial de emergencia para proteger el **“orden constitucional”** acusando al principal bloque de la oposición, el **Partido Democrático** (PD), de “fuerza pronorcoreana”, medida que después el Parlamento votó revocar en una sesión extraordinaria.
+
+Con la ley marcial buscaban proteger el orden constitucional
+------------------------------------------------------------
+
+En una declaración televisada la noche del martes, Yoon anunció la ley marcial para proteger el “orden constitucional” de **actividades “anti-estatales”**, de las que acusa al Partido Democrático, con mayoría en la Asamblea Nacional (Parlamento).
+
+En una sesión plenaria extraordinaria convocada poco después, la Asamblea Nacional surcoreana obtuvo 190 votos a favor de **levantar la ley marcial**, lo que según la Constitución surcoreana obligaría al presidente a retirar esa medida.
+
+El anuncio de Yoon se produce después de que el PD aprobara sin contar con el apoyo del gobernante Partido del Poder Popular (PPP) unos **presupuestos generales para 2025** con múltiples recortes. Además de mociones para **destituir al fiscal general** y al responsable de monitorizar las cuentas de los organismos públicos.
+
+La presidencia de Yoon quedó muy debilitada desde que el **opositor Partido Democrático** ganó las elecciones legislativas el pasado abril. Desde entonces su Gobierno no pudo sacar adelante las leyes que se había propuesto.
+
+El mismo Yoon justificó hoy en su **discurso televisado** que desde que juró el cargo en mayo de 2022 se registraron **22 procesos de destitución** contra miembros de su **Gobierno**, con la oposición impulsando su décimo intento desde que se reanudó la Asamblea Nacional tras los comicios legislativos.
+
+El **mandatario conservador** dijo que la situación **“no tiene precedentes”** en la historia del país y en la política global, alegando que las acciones socavó la capacidad de gestión del Ejecutivo.
+
+En paralelo, **miles de manifestantes** se congregaron en la madrugada de este miércoles frente a la Asamblea Nacional para protestar contra la ley marcial y pedir la dimisión de Yoon.
+
+La concentración espontánea tuvo lugar después de que el presidente anunciara pasadas las 22:00 de la noche del martes la medida, lo que cogió por sorpresa al **país asiático**, siendo la primera vez que es decretada desde los años 80.
+
+“Esto ha sido un intento sin sentido de **destruir la democracia surcoreana**“, explicó a Kim Seung-ho, empresario de 60 años que acudió a las protestas, en las que participaron **desde adolescentes** a gente de edad avanzada que entonaban repetidamente el himno nacional.
+
+En mayo de 1980, el dictador Chun Doo-hwan ordenó la ley marcial y los militares detuvieron a los principales **líderes políticos de la oposición,** se cerraron las universidades, se prohibieron actividades políticas y se restringió la prensa.
+
+La actual **declaración de la ley marcial** fue ampliamente criticada por los partidos de la oposición e incluso por el propio líder del partido de Yoon, **Han Dong-hoon**, quien dijo que era una medida “equivocada” y se comprometió a “bloquearla” junto a los ciudadanos.
+
+El rechazo del Parlamento a la ley marcial deja a Yoon, que antes de declararla se enfrentaba a los índices de popularidad más bajos de su mandato, en una **posición muy comprometida.**
+
+Poco antes de que el presidente anunciase que levantará la ley marcial esta madrugada, el portavoz del departamento de Estado de EEUU**, Vedant Patel**, dijo que esperaba que los **incidentes en Corea del Sur** se resolviesen “pacíficamente” y “de acuerdo con el estado de derecho”, por lo que habría que respetar la decisión de la Asamblea Nacional surcoreana de levantar la medida.
+
+Una respuesta pacífica
+----------------------
+
+“Queremos que esto se **resuelva pacíficamente** de acuerdo con el estado de derecho y, sin duda, una votación así en el legislativo sería consistente con esta aproximación”, dijo Patel en una rueda de prensa.
+
+Patel confirmó la información adelantada por la Casa Blanca de que el Gobierno del presidente conservador surcoreano, Yoon Suk-yeol, no le informó previamente de su **decisión de declarar la ley** marcial en el país.
+
+La Secretaría General de Naciones Unidas aseguró por su parte seguir “muy de cerca y con preocupación” la inesperada declaración de la ley marcial.
+
+“Estamos siguiendo la situación muy de cerca y con preocupación, pero, en este momento, eso es todo lo que tengo que decir”, indicó el portavoz del secretario general -António Guterres-, Stéphane Dujarric, este martes durante su rueda de prensa diaria en la sede de la ONU en Nueva York.
+
+El won, la moneda de **Corea del Sur**, moderó su caída frente al dólar estadounidense después de que la Asamblea Nacional surcoreana votara a favor de levantar la ley marcial.
+
+La divisa surcorena, que llegó a perder casi un 3 % en relación al dólar, retrocedía un 1,5 % a las 18:30 horas (17:30 GMT), según datos de Bloomberg.
