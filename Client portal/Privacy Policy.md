@@ -23,7 +23,7 @@
 * [Pricing](https://client-portal.io/pricing)
 * [Email Course](https://client-portal.io/email-course/)
 
-[Black Friday!](https://client-portal.io/bfcm/)
+[Buy Now!](https://client-portal.io/pricing/)
 
 Privacy Policy | Client Portal
 ==============================
