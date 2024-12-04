@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. hacking
+1. finance
     
-2. finance
+2. computer science
     
-3. cyber security
+3. html
     
 
 Popular subjects
 
-1. [Digital Marketing
+1. [Computer Science
     
-    6,311 courses](https://www.classcentral.com/subject/digital-marketing)
-2. [Ethical Hacking
+    44,598 courses](https://www.classcentral.com/subject/cs)
+2. [Python
+    
+    10,028 courses](https://www.classcentral.com/subject/python)
+3. [Ethical Hacking
     
     2,243 courses](https://www.classcentral.com/subject/ethical-hacking)
-3. [Graphic Design
-    
-    4,386 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 
-1. [The Art of Structural Engineering: Vaults
+1. [Success: Practical Thinking Skills
     
-    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
-2. [Dino 101: Dinosaur Paleobiology
+    Hong Kong Polytechnic University](https://www.classcentral.com/course/strategic-thinking-the-hong-kong-polytechnic-univ-8617)
+2. [Mathematical and Computational Methods
     
-    University of Alberta](https://www.classcentral.com/course/dino101-1057)
-3. [The Science of the Solar System
+    Georgetown University](https://www.classcentral.com/course/math-georgetown-university-mathematical-and-compu-27989)
+3. [Introduction to Complexity
     
-    California Institute of Technology](https://www.classcentral.com/course/solarsystem-1813)
+    Santa Fe Institute](https://www.classcentral.com/course/complexity-explorer-introduction-to-complexity-557)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
