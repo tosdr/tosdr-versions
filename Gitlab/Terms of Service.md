@@ -3056,7 +3056,7 @@
         * [ ]  [Security READMEs](https://handbook.gitlab.com/handbook/security/readmes/)
             * [ ]  [Byron's README](https://handbook.gitlab.com/handbook/security/readmes/byron-boots/)
             * [ ]  [Joseph Longo README](https://handbook.gitlab.com/handbook/security/readmes/joseph-longo/)
-            * [ ]  [Josh Lemos README](https://handbook.gitlab.com/handbook/security/readmes/josh-lemos/)
+            * [ ]  [Josh Lemos - CISO](https://handbook.gitlab.com/handbook/security/readmes/josh-lemos/)
             * [ ]  [Julie Davila's README](https://handbook.gitlab.com/handbook/security/readmes/julie-davila/)
             * [ ]  [Nick Malcolm's README](https://handbook.gitlab.com/handbook/security/readmes/nick-malcolm/)
             * [ ]  [Philippe Lafoucrière README](https://handbook.gitlab.com/handbook/security/readmes/philippe-lafoucriere/)
