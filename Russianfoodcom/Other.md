@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -166,6 +166,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Новая порция удовольствий. Лучшие рецепты на Новый год (97)](https://www.russianfood.com/reading/?post_id=22955) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/187/sm_186112.jpg)](https://www.russianfood.com/reading/?post_id=22955)
+
+Канапе с салатом "Мимоза". Куриные голени с сыром, в слоёном тесте. Рыба в томатном соусе с фетой. Пирожные из сгущёнки с кокосовой стружкой. Картофель с помидорами, фетой и маслинами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22955)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22955#comments) | 04.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -363,20 +377,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22944#comments) | 01.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Понятно, просто, интересно. Лучшие видео рецепты (44)](https://www.russianfood.com/reading/?post_id=22943) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/719/sm_718995.jpg)](https://www.russianfood.com/reading/?post_id=22943)
-
-Песочное печенье "Овечки". Пирожки с картошкой и грибами. Индейка с тыквой в сметанном соусе. Пицца с пряным соусом и моцареллой. Стейки из форели на ольховой дощечке.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22943)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие видео рецепты](https://www.russianfood.com/blogs/?id=394188) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22943#comments) | 01.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -446,10 +446,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/747/alt1_746516.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756154.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748703.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755699.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757183.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
-| [Грушевый пирог с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=174611) | [Хумус из фасоли](https://www.russianfood.com/recipes/recipe.php?rid=174576) | [Бутерброды "Змейки" с намазкой из шпината и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174625) | [Рулетики из сельди, с плавленым сыром и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174565) | [Салат "Змея" с курицей, плавленым сыром и яблоками](https://www.russianfood.com/recipes/recipe.php?rid=174588) | [Рулет "Рафаэлло" с кокосом и миндалем](https://www.russianfood.com/recipes/recipe.php?rid=175020) |
+|     |     |
+| --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
+| [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -466,4 +466,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(100)
+(121)
