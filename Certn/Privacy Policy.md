@@ -2579,7 +2579,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective November 24th 2024
+##### Effective December 3rd 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -4239,11 +4239,11 @@ Certn Holdings Inc., y compris ses sociétés affiliées Certn (Canada) Inc., Ce
 OneID Consent - Portal Version (EN)
 -----------------------------------
 
-### Version 5.0
+### Version 5.2
 
-##### Effective February 19th 2024
+##### Effective December 3rd 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/65d33092d2abdb7b6adbeeb6.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/674f97d95830859d8285f8be.pdf)
 
 * * *
 
@@ -4251,11 +4251,15 @@ OneID Consent - Portal Version (EN)
 
 * * *
 
-We need your consent to use a biometric facial scan to verify your identity. The biometric facial scan helps us determine that you are a real person and that no one else is pretending to be you.
+**Biometric Consent**
 
-Certn uses a secure biometric software to verify your identity. This software uses a real-time photo of you to create a digital map of your face that is instantly compared to the image of your identity document. We will not store the biometric digital map resulting from your facial scan. If you reside in a location that is different from our storage and our processor’s locations, Certn may transfer your Personal Information across jurisdictions, in accordance with our [Privacy Policy](https://certn.co/privacy-policy/) and the applicable privacy laws.
+We need your consent to collect and process your biometric data for the purpose of verifying your identity on behalf of our client (the “**Company**”). Biometric data in this instance includes facial features from a real-time photo and information from your government-issued ID. We will store your biometric data securely and implement appropriate measures to safeguard such information against unauthorized access, disclosure, alteration, and destruction.
 
-You can request more information about the nature and scope of data processing, ask for correction, deletion, or a copy of the information we hold about you by contacting Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co). If you choose not to consent, we may not be able to process your application or provide verification results for your background check.
+By clicking “agree” below, you confirm that you have read and understood this Biometric Consent, as well as our [Biometric Notice](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-s1qa70-t6), and you agree to the collection and processing of your biometric data in accordance with these terms and our [Privacy Policy](https://certn.co/privacy-policy/). Further, you acknowledge and agree to the transfer of your biometric data to the Company in connection with your background check and verification and any applicable third-party sub-processors, solely for the purpose of completing your identity verification. This consent is given voluntarily and with the understanding that the data will be used exclusively for identity verification including the prevention and combat of fraud. Your biometric data, and where required by law, any information or copy of documents collected to support your identity verification, will be retained for the duration necessary to fulfill the intended purpose and as required by applicable laws, and will be securely deleted thereafter. If you choose not to consent, we may not be able to process your application or provide verification results for your background check.
+
+You can revoke your consent at any time by notifying us in writing at [privacy@certn.co](mailto:privacy@certn.co). Upon revocation, we will notify the Company and cease the collection, use, and retention of your biometric data. You have the right to request access to your biometric data and to request corrections or deletions of inaccuracies. If you require more information about the nature and scope of your data processing or for a copy of the information we hold about you, please contact Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co).
+
+If you reside in a location that is different from our processing locations or the location of the Company, we may transfer your Personal Information for the purpose of completing the identity verification, in accordance with our [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj) and applicable privacy laws.
 
 Canadian Criminal Consent - HR
 ------------------------------
@@ -4559,11 +4563,11 @@ You can withdraw your consent, dispute the accuracy of a Report, or ask for a co
 OneID Consent - Portal Version (FR)
 -----------------------------------
 
-### Version 2.0
+### Version 2.2
 
-##### Effective September 14th 2023
+##### Effective December 3rd 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6503627081860edacccfb6b7.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/674f97fe2f2bf5468c89d162.pdf)
 
 * * *
 
@@ -4571,15 +4575,17 @@ OneID Consent - Portal Version (FR)
 
 * * *
 
-Nous avons besoin de votre consentement pour utiliser un balayage biométrique du visage afin de vérifier votre identité. Le balayage biométrique du visage nous aide à déterminer que vous êtes une personne réelle et que personne d'autre ne se fait passer pour vous.
+**Consentement à la Biométrie**
 
-Certn utilise un logiciel biométrique sécurisé pour vérifier votre identité. Ce logiciel utilise une photo de vous en temps réel pour créer une carte numérique de votre visage qui est instantanément comparée à l'image de votre pièce d'identité. Nous ne conservons pas la carte numérique biométrique résultant de votre balayage facial.
+  
 
-Si vous résidez dans un lieu différent de celui où nous stockons vos données et de celui où se trouve notre sous-traitant, Certn peut transférer vos données personnelles d'une juridiction à l'autre, conformément à notre [Politique de confidentialité](https://certn.co/privacy-policy/) et aux lois applicables en la matière.
+Nous avons besoin de votre consentement pour collecter et traiter vos données biométriques dans le but de vérifier votre identité au nom de notre client (la « **Société** »). Les données biométriques dans ce cas incluent les caractéristiques faciales d'une photo en temps réel et les informations de votre pièce d'identité émise par le gouvernement. Nous stockerons vos données biométriques de manière sécurisée et mettrons en œuvre des mesures appropriées pour protéger ces informations contre tout accès, divulgation, altération et destruction non autorisés.
 
-Vous pouvez demander plus d'informations sur la nature et la portée du traitement des données, demander la correction, la suppression ou une copie des informations que nous détenons sur vous en contactant le responsable de la protection de la vie privée du Certn au 1-844-987-0690 ou à l'adresse [privacy@certn.co](mailto:privacy@certn.co).
+En cliquant sur « accepter » ci-dessous, vous confirmez que vous avez lu et compris ce Consentement à la Biométrie, ainsi que notre [Avis Biométrique](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-sjl9lwojr), et vous acceptez la collecte et le traitement de vos données biométriques conformément à ces termes et à notre [Politique de Confidentialité](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3). De plus, vous reconnaissez et acceptez le transfert de vos données biométriques à la Société dans le cadre de votre vérification d'antécédents et de toute sous-traitance applicable à des tiers, uniquement dans le but de compléter votre vérification d'identité. Ce consentement est donné volontairement et avec la compréhension que les données seront utilisées exclusivement pour la vérification de votre identité, y compris la prévention et la lutte contre la fraude. Vos données biométriques, et lorsque la loi l'exige, toute information ou copie de documents collectés pour soutenir votre vérification d'identité, seront conservées pendant la durée nécessaire pour atteindre l'objectif prévu et tel que requis par les lois applicables, et seront supprimées de manière sécurisée par la suite. Si vous choisissez de ne pas consentir, nous pourrions ne pas être en mesure de traiter votre demande ou de fournir les résultats de vérification pour votre vérification d'antécédents.
 
-Si vous choisissez de ne pas donner votre consentement, il se peut que nous ne soyons pas en mesure de traiter votre candidature ou de vous fournir les résultats de la vérification de vos antécédents.
+Vous pouvez révoquer votre consentement à tout moment en nous en informant par écrit à [privacy@certn.co](mailto:privacy@certn.co). Dès la révocation, nous informerons la Société et cesserons la collecte, l'utilisation et la conservation de vos données biométriques. Vous avez le droit de demander l'accès à vos données biométriques et de demander des corrections ou la suppression d'inexactitudes. Si vous avez besoin de plus d'information sur la nature et l'étendue du traitement de vos données ou pour obtenir une copie des informations que nous détenons à votre sujet, veuillez contacter le Responsable de la Protection des Renseignements Personnels de Certn au 1-844-987-0690 ou [privacy@certn.co](mailto:privacy@certn.co) .
+
+Si vous résidez dans un lieu différent de nos lieux de traitement ou de celui de la Société, nous pouvons transférer vos Informations Personnelles dans le but de compléter la vérification de votre identité, conformément à notre [Politique de Confidentialité](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3) et aux lois sur la protection de la vie privée applicables.
 
   
 
