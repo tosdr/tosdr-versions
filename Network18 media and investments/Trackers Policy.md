@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Nov 24, 2024
+Tue, Dec 03, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -25,7 +25,6 @@ Sun, Nov 24, 2024
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
@@ -35,15 +34,16 @@ Sun, Nov 24, 2024
 * [Videos](https://www.news18.com/videos/)
 * [Business](https://www.news18.com/business/)
 * [Education](https://www.news18.com/education-career/)
+* [Politics](https://www.news18.com/politics/)
 * More
     
-    * [Politics](https://www.news18.com/politics/)
     * [Showsha](https://www.news18.com/entertainment/)
     * [Opinion](https://www.news18.com/opinion/)
     * [Explainers](https://www.news18.com/explainers/)
     * [Podcast](https://www.news18.com/podcast/)
     * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
     * [Sports](https://www.news18.com/sports/)
+    * [Elections](https://www.news18.com/elections/)
     * [Photos](https://www.news18.com/photogallery/)
     * [Tech](https://www.news18.com/tech/)
     * [Auto](https://www.news18.com/auto/)
@@ -101,7 +101,6 @@ English
 
 * [Home](https://www.news18.com/)
 * [Movies](https://www.news18.com/movies/)
-* [Elections](https://www.news18.com/elections/)
 * [Cricket](https://www.news18.com/cricket/)
 * [India](https://www.news18.com/india/)
 * [Web Stories](https://www.news18.com/web-stories/)
@@ -118,6 +117,7 @@ English
 * [Podcast](https://www.news18.com/podcast/)
 * [Movie Reviews](https://www.news18.com/entertainment/movie-reviews/)
 * [Sports](https://www.news18.com/sports/)
+* [Elections](https://www.news18.com/elections/)
 * [Photos](https://www.news18.com/photogallery/)
 * [Tech](https://www.news18.com/tech/)
 * [Auto](https://www.news18.com/auto/)
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
-    * [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
-    * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
-    * [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-    * [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
-    * [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-    * [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+    * [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+    * [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+    * [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
+    * [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
+    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+    * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maharashtra Winners](https://www.news18.com/elections/maharashtra-election-results-full-list-of-winners-of-288-assembly-seats_seat_winner_votes-polled_2nd-place_votes-polled-9129523.html)
-* [Maharashtra Results](https://www.news18.com/elections/maharashtra-election-results-2024-live-updates-mahayuti-bjp-shiv-sena-ncp-devendra-fadnavis-eknath-shinde-chief-minister-post-liveblog-9132055.html)
-* [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-buys-luxurious-rolls-royce-takes-family-for-a-drive-watch-9132007.html)
-* [Abhishek Bachchan](https://www.news18.com/movies/abhishek-bachchan-opens-up-on-negativity-amid-aishwarya-rai-divorce-rumours-i-cant-change-9132011.html)
-* [WhatsApp](https://www.news18.com/tech/whatsapp-offers-secret-code-to-protect-your-chats-how-it-works-9118719.html)
-* [Ind vs Aus](https://www.news18.com/cricket/live-cricket-score-india-vs-australia-test-match-today-day-3-india-national-cricket-team-vs-australia-national-cricket-team-latest-scorecard-liveblog-9131750.html)
-* [IPL Auction](https://www.news18.com/cricket/ipl-auction-2025-live-updates-get-the-complete-indian-premier-league-players-list-price-details-full-squads-of-all-teams-from-ipl-auction-today-liveblog-9131657.html)
+* [IPS Officer](https://www.news18.com/india/karnataka-ips-officer-harsh-bardhan-dies-road-accident-on-his-way-to-first-posting-hassan-latest-updates-9142069.html)
+* [Sabarmati Report](https://www.news18.com/movies/pm-modi-watches-sabarmati-report-hours-after-vikrant-massey-announces-retirement-shares-his-review-9142881.html)
+* [Nargis Fakhri](https://www.news18.com/movies/nargis-fakhris-sister-aliya-arrested-in-us-for-killing-her-ex-boyfriend-mother-denies-charges-9143038.html)
+* [Vikrant Massey](https://www.news18.com/movies/vikrant-massey-retirement-real-reason-behind-his-break-revealed-director-says-actor-doesnt-want-to-9143126.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/south-star-sreeleela-inspired-5-lehenga-blouses-for-marriage-season-2653106/)
+* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+* [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -289,7 +289,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 24, 2024
+Dec 03, 2024
 
 [View All](https://www.news18.com/short-news/)
 
