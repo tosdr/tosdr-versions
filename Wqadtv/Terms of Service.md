@@ -34,9 +34,9 @@ Navigation
         
         #### [WQAD, iHeartMedia partner for annual Toys for Tots drive](https://www.wqad.com/article/news/local/wqad-iheartmedia-toys-for-tots-drive/526-4449e872-9fa3-418d-880d-f5996e8f0d60)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8649f001-478e-40e5-8658-37ed25ff7252/20241204T040938/8649f001-478e-40e5-8658-37ed25ff7252_360x203.jpg)](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/32bf6504-3075-499b-9f74-7ac9ee9b016f/20240805T210746/32bf6504-3075-499b-9f74-7ac9ee9b016f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/32bf6504-3075-499b-9f74-7ac9ee9b016f/20240805T210746/32bf6504-3075-499b-9f74-7ac9ee9b016f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/quad-cities-holiday-blood-drive-american-red-cross-wqad/526-e0b78a6d-5500-44c9-bdea-db1a491e7de8)
         
-        #### [Sudlow Middle School expansion breaks ground](https://www.wqad.com/article/news/local/sudlow-middle-school-expansion/526-ffbf179d-cd24-4718-b051-a29a0d6f37a2)
+        #### [Quad Cities Holiday Blood Drive taking place Dec. 11](https://www.wqad.com/article/news/local/the-current/quad-cities-holiday-blood-drive-american-red-cross-wqad/526-e0b78a6d-5500-44c9-bdea-db1a491e7de8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Weather Impact Alert: Strong wind gusts tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
         
         #### [Wind gusts could reach 50 mph Wednesday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/867fb42c-7083-4ef8-ae68-45e8f3a760e7/20241204T131324/867fb42c-7083-4ef8-ae68-45e8f3a760e7_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Weather Impact Alert: Strong wind gusts Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-35°
+40°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Mostly Cloudy/Wind](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
