@@ -1,15 +1,4 @@
-Winter release
-
-This release should be pretty boring
-====================================
-
-Yet somehow it isn’t. Your free-form content maps itself. Visual editing without the mess. Complex content releases made easy.
-
-[Unpack the release](https://www.sanity.io/release)
-
-![](https://cdn.sanity.io/images/3do82whm/next/ee4f40635f7dca5925f899be52d3cf1254fd552a-1920x1080.png?w=3840&q=75&fit=clip&auto=format)
-
-[Unlock seamless workflows and faster delivery with our latest releases - Join the deep dive](https://www.sanity.io/events/developer-deep-dive-launch?ref=banner)
+[Unlock seamless workflows and faster delivery with our latest releases- get the details](https://www.sanity.io/release?ref=homepage)
 
 [Sanity](https://www.sanity.io/)
 
