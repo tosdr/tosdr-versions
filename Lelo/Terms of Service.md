@@ -72,7 +72,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-CYBER MONDAY: UP TO 60% OFF + GIFT
+CYBER MONDAY: UP TO 50% OFF + GIFT
 
 [SHOP NOW](https://www.lelo.com/black-friday)
 
