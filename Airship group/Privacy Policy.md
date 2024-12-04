@@ -97,7 +97,7 @@
     * [Retail](https://www.airship.com/solutions/industries/retail/)
     * [Telecom](https://www.airship.com/solutions/industries/telecom/)
     
-    * [Customer Stories](https://www.airship.com/customers/)
+    * [Customer Stories](https://www.airship.com/resources/customer-stories/)
     * [Partners](https://www.airship.com/partners/)
     
 * [Pricing](https://www.airship.com/pricing/)
@@ -628,7 +628,6 @@ _Targeting Cookies_
 * [What is Omnichannel Marketing?](https://www.airship.com/resources/explainer/omnichannel-marketing/)
 
 * [Platform](#)
-* [Airship Experience Platform](https://www.airship.com/platform/app-experience-platform/)
 * [Pricing](https://www.airship.com/pricing/)
 * [Partners](https://www.airship.com/partners/)
 * [Get a Demo](https://www.airship.com/demo-request/)
