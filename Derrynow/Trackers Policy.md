@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-03 Dec 2024
+04 Dec 2024
 
 * [Home
     
@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar")](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: George Brolly's 80th birthday celebrations in McCourt's Bar](https://www.derrynow.com/story-telling/pictures---videos/1671005/in-pictures-george-brolly-s-80th-birthday-celebrations-in-mccourt-s-bar.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -287,12 +280,28 @@ Most Popular
 [Derry Death Notices - Tuesday, December 3, 2024](https://www.derrynow.com/news/deaths/1671090/derry-death-notices-tuesday-december-3-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend")](https://www.derrynow.com/news/national-news/1671974/pictures-music-lovers-pack-dingle-for-unforgettable-other-voices-2024-weekend.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[PICTURES: Music lovers pack Dingle for unforgettable Other Voices 2024 weekend](https://www.derrynow.com/news/national-news/1671974/pictures-music-lovers-pack-dingle-for-unforgettable-other-voices-2024-weekend.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry man charged with a series of offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with a series of offences")](https://www.derrynow.com/news/local-news/1671653/derry-man-charged-with-a-series-of-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Derry man charged with a series of offences](https://www.derrynow.com/news/local-news/1671653/derry-man-charged-with-a-series-of-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![All-Ireland minor winner hangs up football boots after signing to LA record label](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland minor winner hangs up football boots after signing to LA record label")](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
+
+Lee Brady has hung up his football boots in a bid to pursue his music career.
+
+[Home](https://www.derrynow.com/)
+
+[All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man refused to leave cell before Derry court appearance](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man refused to leave cell before Derry court appearance")](https://www.derrynow.com/news/local-news/1671649/man-refused-to-leave-cell-before-derry-court-appearance.html)
 
@@ -321,29 +330,27 @@ Derry Magistrate's Court
 [Derry man facing 26 drug and criminal property charges returned for trial](https://www.derrynow.com/news/local-news/1671686/derry-man-facing-26-drug-and-criminal-property-charges-returned-for-trial.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police in Derry charge man to court in connection with drug-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge man to court in connection with drug-related offences")](https://www.derrynow.com/news/local-news/1671481/police-in-derry-charge-man-to-court-in-connection-with-drug-related-offences.html)
+[![Saint Joseph’s Catholic Church, Glenullin.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Saint Joseph’s Catholic Church, Glenullin.")](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
 
-PSNI
+Saint Joseph’s Catholic Church, Glenullin.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Police in Derry charge man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1671481/police-in-derry-charge-man-to-court-in-connection-with-drug-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry’s Joshua Concannon appearing on The Late, Late Toy Show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry’s Joshua Concannon appearing on The Late, Late Toy Show")](https://www.derrynow.com/news/local-news/1671524/derrys-joshua-concannon-appearing-on-the-late-late-toy-show.html)
-
-Derry’s Joshua Concannon who is appearing on The Late, Late Toy Show on Friday.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry’s Joshua Concannon appearing on The Late, Late Toy Show](https://www.derrynow.com/news/local-news/1671524/derrys-joshua-concannon-appearing-on-the-late-late-toy-show.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Breathtaking eighteenth century County Derry chapel restored to perfection](https://www.derrynow.com/news/county-derry-post/1671597/breathtaking-eighteenth-century-county-derry-chapel-restored-to-perfection.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Community Christmas Party held in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Community Christmas Party held in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1671658/in-pictures-community-christmas-party-held-in-derry-s-guildhall.html)
 
@@ -407,13 +414,6 @@ Multimedia
 
 [IN PICTURES: North West hosts Disability Cricket Blitz](https://www.derrynow.com/story-telling/pictures---videos/1671093/in-pictures-north-west-hosts-disability-cricket-blitz.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![WATCH: Apex and Children in Crossfire - a lasting impact in Africa](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: Apex and Children in Crossfire - a lasting impact in Africa")](https://www.derrynow.com/video/pictures---videos/1670995/watch-apex-and-children-in-crossfire-a-lasting-impact-in-africa.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[WATCH: Apex and Children in Crossfire - a lasting impact in Africa](https://www.derrynow.com/video/pictures---videos/1670995/watch-apex-and-children-in-crossfire-a-lasting-impact-in-africa.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +517,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![All-Ireland minor winner hangs up football boots after signing to LA record label](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland minor winner hangs up football boots after signing to LA record label")](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
+
+Lee Brady has hung up his football boots in a bid to pursue his music career.
+
+[Home](https://www.derrynow.com/)
+
+[All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dungiven runner raises £5,700 for men’s mental health in memory of Eugene")](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
 
 Eugene's memorial card sits among James' medals.
@@ -526,7 +535,7 @@ Eugene's memorial card sits among James' medals.
 [Dungiven runner raises £5,700 for men’s mental health in memory of Eugene](https://www.derrynow.com/news/home/1671191/dungiven-runner-raises-5-700-for-mens-mental-health-in-memory-of-eugene.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Members of the Maghera organisation pictured at a recent class.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Members of the Maghera organisation pictured at a recent class.")](https://www.derrynow.com/news/county-derry-post/1671559/maghera-group-bringing-history-to-life-and-connecting-the-local-community.html)
+[![Members of the Maghera organisation pictured at a recent class.](https://www.derrynow.com/resizer/165/93/true/2024_12_03/MHETT-1733221598208.jpg--.jpg?1733221598475 "Members of the Maghera organisation pictured at a recent class.")](https://www.derrynow.com/news/county-derry-post/1671559/maghera-group-bringing-history-to-life-and-connecting-the-local-community.html)
 
 Members of the Maghera organisation pictured at a recent class.
 
@@ -557,15 +566,6 @@ Saint Joseph’s Catholic Church, Glenullin.
 
 [Foyleside Shopping Centre Welcomes MANGO this Saturday](https://www.derrynow.com/news/local-news/1671980/foyleside-shopping-centre-welcomes-mango-this-saturday.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Trócaire urges people of Louth to gift a better future this Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_29/NO_FEE_1_Trocaire_Gift_of_Play_and_Healing.-1732891746073.jpg--.jpg?1732891748189 "Trócaire urges people of Louth to gift a better future this Christmas")](https://www.derrynow.com/news/local-news/1670970/trocaire-urges-people-of-derry-to-gift-a-better-future-this-christmas.html)
-
-Alsaqqa from Gaza (age 7) is pictured as she helps Trócaire to launch their new Gift of Play and Healing. PHOTO: Mark Stedman
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Trócaire urges people of Derry to gift a better future this Christmas](https://www.derrynow.com/news/local-news/1670970/trocaire-urges-people-of-derry-to-gift-a-better-future-this-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
