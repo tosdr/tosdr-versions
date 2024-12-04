@@ -181,11 +181,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Intel CEO Retires](https://techcrunch.com/2024/12/02/intel-ceo-pat-gelsinger-retires/)
-* [Swiggy](https://techcrunch.com/2024/12/02/swiggy-scales-10-minute-food-delivery-to-400-cities-in-quick-commerce-push/)
-* [The Browser Company](https://techcrunch.com/2024/12/02/the-browser-company-teases-dia-its-new-ai-browser/)
+* [Spotify Wrapped 2024](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-adds-an-ai-podcast-powered-by-googles-notebooklm/)
+* [David Mayer ChatGPT](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
 * [AWS re:Invent 2024](https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/)
-* [Meta Subsea Cable](https://techcrunch.com/2024/11/29/meta-plans-to-build-a-10b-subsea-cable-spanning-the-world-sources-say/)
+* [Walmart Acquires Vizio](https://techcrunch.com/2024/12/03/walmart-completes-23b-acquisition-of-vizio-to-help-grow-its-ad-business/)
+* [OpenAI’s Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/)
 * [Tech Layoffs](https://techcrunch.com/2024/12/02/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/12/03/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
