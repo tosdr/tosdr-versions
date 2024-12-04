@@ -110,19 +110,19 @@ Toggle Navigation
 Website Privacy Policy
 ======================
 
-**Last updated:** June 20, 2024
+**Last updated:** November 2024
 
 Forter, Ltd. and its affiliates (collectively, “**we**”, “**us**”, “**our**”, or “**Forter**”) are committed to protecting your privacy. This Privacy Policy describes what Personal Data (as defined below) we collect from you when you visit [www.forter.com](http://www.forter.com/) (the “**Website**”) or otherwise interact with us, how we use your Personal Data, who we share it with, certain rights you may have with respect to your Personal Data, and how to contact us about our privacy practices.
 
-For purposes of applicable EU data protection laws, Forter Ltd and each of its affiliates may each be a data controller of any Personal Data we collect from you. For purposes of the CCPA, Forter and its affiliates may each act as a ‘Business’ (as defined in the CCPA) with respect to your Personal Data. Additional details about each of these entities can be found at the end of this Privacy Policy. 
+For purposes of applicable EU data protection laws, Forter Ltd and each of its affiliates may each be a data controller of any Personal Data we collect from you. For purposes of the CCPA, Forter and its affiliates may each act as a ‘Business’ (as defined in the CCPA) with respect to your Personal Data. Additional details about each of these entities can be found at the end of this Privacy Policy.
 
-### **Overview**
+**Overview**
 
 This section provides a summary of the information provided in our Privacy Policy, a full version of which can be found below. The full version of our Privacy Policy contains more detailed information regarding our privacy practices.
 
 If you have any questions or concerns about our Privacy Policy or our privacy practices, please contact us at [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection).
 
-### **What type of information we collect**
+**What type of information we collect**
 
 We collect Personal Data and Anonymous Data from you when you visit our Website and when you otherwise interact with us, for example, when you send us information or communications or register for white papers, web seminars, and other events hosted by us, or sign up for our newsletters or other marketing materials. We also collect Personal Data and Anonymous Data through the use of cookies. For more information regarding our use of cookies, please see our [Cookie Policy](https://www.forter.com/cookie-policy/).
 
@@ -132,43 +132,49 @@ We collect Personal Data and Anonymous Data from you when you visit our Website 
 
 We do not collect any “special categories” of Personal Data about you (this includes details about your race or ethnicity, religious or philosophical beliefs, sex life, sexual orientation, political opinions, trade union membership, or information about your health or genetic or biometric data).
 
-### **How we use collected information**
+**How we use collected information**
 
 We collect and use your Personal Data to administer our Website and our business, improve our Website, products and services, respond to your inquiries, manage our relationship with you, for compliance purposes, and to deliver relevant website content and advertisements to you, as further detailed in this Privacy Policy.
 
 We rely on various legal bases under applicable data protection laws to process your personal data, including our legitimate interests, contractual necessity and as required by applicable law.
 
-### **With whom we share information**
+**With whom we share information**
 
 We do not rent, sell, or share your Personal Data with third parties, other than with select trusted third party service providers, to comply with applicable law or the request of a governmental entity, in connection with certain corporate transactions, and in connection with litigation and compliance monitoring, as further detailed in this Privacy Policy.
 
-### **How we safeguard your information**
+**How we safeguard your information**
 
 Forter is committed to protecting your Personal Data. We employ industry best practices and regularly commission third party audits and certifications to ensure the security and confidentiality of your Personal Data and to protect your Personal Data from unauthorized access and improper use.
 
-### **Full Website Privacy Policy**
+**Full Website Privacy Policy**
 
-#### **Introduction**
+**Introduction**
 
 This Privacy Policy describes what Personal Data Forter collects from you when you use our Website or otherwise interact with us, how we use your Personal Data, who we share it with, how we safeguard your Personal Data, certain rights you may have with respect to your Personal Data, and how to contact us about our privacy practices. 
 
 Please read this Privacy Policy carefully.
 
-#### **What type of information we collect**
+**What type of information we collect**
 
-We collect certain information from you when you use our Website or otherwise interact with us, as further described below. We also collect certain information about you through our use of cookies and other technologies, as further described below and in our Cookie Policy. This information includes both your Personal Data and Anonymous Data.
+We collect certain information from you when you use our Website or otherwise interact with us, as further described below. We also collect certain information about you through our use of cookies and other technologies, as further described below and in our [Cookie Policy](https://www.forter.com/cookie-policy/). This information includes both your Personal Data and Anonymous Data.
 
-**1\. Personal Data You Provide to Us.**
+* **Personal Data You Provide to Us.**
 
 We collect Personal Data from you when you visit our Website or otherwise interact with us, for example when you send us information or communications or register for white papers, web seminars, and other events hosted by us, or sign up for our newsletters or other marketing materials. This information may include your first and last name, phone number, email and mailing addresses, professional title and company name. If you provide us feedback on our Website or contact us, or submit a response to an employment opportunity posted on our Website, we will collect your name and email address, as well as any other information included in your email or other correspondence with us.
 
-**2\. Personal Data Collected Via Cookies and other Technologies.**
+* **Personal Data Collected Via Cookies and other Technologies.**
 
 Information regarding how you access and use our Website (e.g., browser type, access times, and Internet Protocol (IP) address) and your hardware and software is automatically collected through our use of cookies (a small text file placed on your hard drive) or other technologies and tools. This information is used to improve our Website, make our products and services more useful to you, and for other business purposes. Please see our [Cookie Policy](https://www.forter.com/cookie-policy/) for more information regarding our use of cookies.
 
-#### **How we use your information**
+**How we use your information**
 
 We use your Personal Data collected through your use of our Website or otherwise in your interactions with us for the following purposes.  The legal basis on which we rely to use your Personal Data for such purposes is also set out below.
+
+In addition to the below, we use Zoom’s AI Companion tool for recording, transcription, and summarization of certain meetings and telephone calls to enhance productivity and collaboration. The AI Companion processes information shared during calls, including personal data and other confidential or sensitive data, to provide transcripts and summaries for meeting participants.
+
+The data collected through this tool will be used solely for internal training, to enhance productivity and collaboration across our business, and for purposes related to the relevant meeting or call, such as documentation and follow-up. Recordings and transcriptions are securely stored and retained only as long as necessary for these purposes. Additionally, if you provide us with your phone number, we may use it to send you text messages. We will not share or sell your phone number with other third parties, and you can ask us to stop texting you at any point by replying ‘STOP’’.
+
+Participants will be notified and given an opportunity to provide consent prior to recording. If consent is not provided the AI Companion will not be used during the meeting. If you have any questions about how your data is processed during these activities, please contact us at [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection).
 
 “**Contact Information**” includes your name, phone number, email and mailing address, professional title and company name.
 
@@ -190,17 +196,17 @@ We use your Personal Data collected through your use of our Website or otherwise
 | For compliance purposes, including to respond to requests from law enforcement and other governmental entities, and in connection with litigation management and conducting internal audits and investigations | Contact Information | Necessary for our legitimate interest<br><br>Necessary to comply with a legal obligation |
 | To conduct due diligence activities in connection with an actual or prospective corporate transaction | Contact Information | Necessary for our legitimate interest |
 
-#### **Marketing**
+**Marketing**
 
 We may send you direct marketing communications to keep you informed of our products and services in which you might be interested. Where required under applicable law, we will only send such communications where we have obtained your prior consent, or based on our legitimate business interests where we have an existing relationship with you and we wish to contact you about similar products or services in which you may be interested. You may opt-in to receive marketing materials from us by ticking the applicable marketing communication preference boxes displayed on our Website.
 
 When you receive marketing communications from us, you will have the opportunity to opt-out by following the unsubscribe instructions provided in the email you receive from us or by contacting us [here](https://l.forter.com/hs/manage-preferences/unsubscribe-simple).
 
-#### **Creation of Anonymous Data**
+**Creation of Anonymous Data**
 
 We may create Anonymous Data from your Personal Data by excluding information (such as your name) that makes the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns and to improve our Website and our products and services. We reserve the right to use and disclose Anonymous Data to third parties in our discretion.
 
-#### **Who we share your information with**
+**Who we share your information with**
 
 We do not rent, sell or share your Personal Data with third parties, except as described in this Privacy Policy.
 
@@ -216,10 +222,10 @@ The table below describes the categories of Personal Data we have collected from
 | --- | --- |
 | **Categories of Personal Data Collected** | **Categories of Third Parties to Whom the Business Discloses Personal Information** |
 | Identifiers | * Affiliates <br>* Third Party Service Providers |
-| Marketing Information | * Affiliates <br>* Partners<br>* Third Party Service Providers |
+| Marketing Information | * Affiliates <br>* Third Party Service Providers |
 | Internet or Electronic Network Activity Information | * Affiliates <br>* Third Party Service Providers |
 
-#### **Transfer of your information**
+**Transfer of your information**
 
 We may transfer your Personal Data outside of your country of residence. Where we do so, we comply with applicable laws in relation to such transfer.
 
@@ -227,17 +233,17 @@ To the extent your Personal Data is subject to the GDPR and we transfer your Per
 
 For further information about the safeguards and derogations used for such transfers of your Personal Data, please contact [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection).
 
-#### **How we safeguard your information**
+**How we safeguard your information**
 
 We are committed to protecting the information you entrust to us and take great care in implementing and maintaining the security of our Website and safeguarding your Personal Data. We employ industry best practices and regularly commission third party audits and certifications to ensure the security and confidentiality of your Personal Data and to protect your Personal Data from unauthorized access and improper use. Although we take reasonable steps to safeguard your Personal Data, unfortunately, the transmission of information and data via the Internet is not completely secure, and we cannot guarantee the security of any information or data transmitted to or through our Website. Any transmission of information or data by you to or through our Website is at your sole risk.
 
 We have put in place procedures to deal with any suspected personal information breach and will notify you and any applicable regulator of a breach where we are legally required to do so.
 
-#### **How long we retain your information**
+**How long we retain your information**
 
 We will retain your Personal Data only for as long as necessary for the purposes for which it was collected, unless a longer retention period is required by applicable law. For further information about how long we keep your Personal Data, please contact [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection).
 
-#### **Third-party websites collection of information**
+**Third-party websites collection of information**
 
 Our Website may contain links to other websites provided by third parties not under our control or affiliated with us. Please be aware that this Privacy Policy applies only to the use and disclosure of information you share with us through our Website or when you otherwise interact with us, and that third parties may have different rules regarding their handling of your Personal Data. 
 
@@ -266,25 +272,25 @@ If you are a California resident, you have certain rights under the California C
 
 If you wish to exercise any of these rights, please contact us at [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection). If you are located in the EEA or Switzerland you can also contact us through our EU representative Prighter, at the following website: [https://prighter.com/q/12970917510](https://prighter.com/q/12970917510). We will respond within the timeframes required under applicable law. When handling your request, we may need to request additional information from you (which may include Personal Data) to help us confirm your identity. This is a security measure to ensure that your Personal Data is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response. Please note that if you do not provide us with this additional information, we may be unable to process your request.
 
-#### **Minors**
+**Minors**
 
 Our Website is intended for individuals who are at least 16 years of age. We do not knowingly encourage or solicit visitors to our Website who are under the age of 16 or knowingly collect any Personal Data from anyone under the age of 16. In the event that we become aware that an individual under the age of 16 has shared any Personal Data with us, we will delete such information.
 
 If you have any reason to believe that an individual under the age of 16 has shared any Personal Data with us, please contact us at [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection).
 
-#### **Complaints**
+**Complaints**
 
 Individuals located in certain countries may have the right to lodge a complaint with regards to how we process your Personal Data with your local data protection authority (in the United Kingdom, this is the Information Commissioner’s Office, which can be contacted in accordance with the means specified at [https://ico.org.uk/global/contact-us](https://ico.org.uk/global/contact-us))
 
 If you are a California resident, you can lodge a complaint with the California Attorney General’s Office.
 
-#### **Updates or amendments to the Privacy Policy**
+**Updates or amendments to the Privacy Policy**
 
 We reserve the right to amend this Privacy Policy from time to time, in our sole discretion. If we decide to change this Privacy Policy, we will post these changes so our users are always aware of what information we collect, how we use it, and under what circumstances we disclose it. The most current version of this Privacy Policy will always appear on our Website.
 
 If at any point we decide to collect or use your Personal Data in a manner different from that stated in this Privacy Policy at the time it was collected, we will notify applicable individuals. We will use your Personal Data only in accordance with the Privacy Policy under which the information was collected.
 
-#### **How to contact us**
+**How to contact us**
 
 If you have any questions or concerns about this Privacy Policy or our privacy practices, please contact us as [\[email protected\]](https://www.forter.com/cdn-cgi/l/email-protection). 
 
