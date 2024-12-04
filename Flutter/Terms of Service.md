@@ -1,4 +1,4 @@
-[Skip to main content](#site-content-title)
+[Skip to main content](#document-title)
 
 docs.flutter.dev uses cookies from Google to deliver and enhance the quality of its services and to analyze traffic. [Learn more](https://policies.google.com/technologies/cookies).
 
@@ -293,7 +293,6 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Debugging tools](https://flutter.dev/testing/debugging)
     * [Debug your app programmatically](https://flutter.dev/testing/code-debugging)
     * [Use a native language debugger](https://flutter.dev/testing/native-debugging)
-    * [Flutter's build modes](https://flutter.dev/testing/build-modes)
     * [Common Flutter errors](https://flutter.dev/testing/common-errors)
     * [Handle errors](https://flutter.dev/testing/errors)
     * [Report errors to a service](https://flutter.dev/cookbook/maintenance/error-reporting)
@@ -406,8 +405,6 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
 [](https://twitter.com/FlutterDev)[](https://www.youtube.com/@flutterdev)[](https://medium.com/flutter)[](https://github.com/flutter)
 
 [Get started](https://flutter.dev/get-started/install/)
-
-[Flutter 3.24 and Dart 3.5](https://medium.com/flutter/flutter-3-24-dart-3-5-204b7d20c45d) are here! Check out [what's new](https://flutter.dev/release/whats-new) on the website.
 
 * Get started
 * [Set up Flutter](https://flutter.dev/get-started/install)
@@ -696,7 +693,6 @@ _menu_ [![Flutter logo](/assets/images/branding/flutter/logo+text/horizontal/def
     * [Debugging tools](https://flutter.dev/testing/debugging)
     * [Debug your app programmatically](https://flutter.dev/testing/code-debugging)
     * [Use a native language debugger](https://flutter.dev/testing/native-debugging)
-    * [Flutter's build modes](https://flutter.dev/testing/build-modes)
     * [Common Flutter errors](https://flutter.dev/testing/common-errors)
     * [Handle errors](https://flutter.dev/testing/errors)
     * [Report errors to a service](https://flutter.dev/cookbook/maintenance/error-reporting)
