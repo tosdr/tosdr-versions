@@ -18,53 +18,53 @@
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
     * [European Commission](https://www.euronews.com/tag/eu-commission)
     * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+    * [Music](https://www.euronews.com/tag/music)
     * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
     * [Italy](https://www.euronews.com/tag/italy)
-    * [France](https://www.euronews.com/tag/france)
     
     * * *
     
     Latest stories
     
-    [![Euronext Amsterdam premises](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronext Amsterdam premises")
+    [![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")
     
-    ![Euronext Amsterdam premises](https://static.euronews.com/articles/stories/08/88/95/70/368x207_cmsv2_4b10c426-f16e-57ac-80b0-beb0baa23bdb-8889570.jpg "Euronext Amsterdam premises")](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
-    
-    Now playing Next
-    
-    [Business](https://www.euronews.com/business/business)
-    
-    ### [Pershing Square Holdings to delist from Amsterdam after football riots](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
-    
-    [![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")
-    
-    ![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](https://static.euronews.com/articles/stories/08/88/92/08/368x207_cmsv2_06f1a682-3ba8-5ae7-b40d-af982caa7795-8889208.jpg "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+    ![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](https://static.euronews.com/articles/stories/08/88/98/52/368x207_cmsv2_25510a73-bb4f-5f62-9b90-49cbf7dd5573-8889852.jpg "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
     
     Now playing Next
     
-    [South Korea](https://www.euronews.com/news/asia/south-korea)
+    [Belgium](https://www.euronews.com/news/europe/belgium)
     
-    ### [South Korea martial law: Why it happened and what comes next](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+    ### [NATO's Rutte warns of Russian support for North Korean nuclear program](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
     
-    [![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")
+    [![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")
     
-    ![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](https://static.euronews.com/articles/stories/08/88/99/06/368x207_cmsv2_c7f27231-c560-5616-ab05-f3b756b112be-8889906.jpg "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [Who won the first UK & Ireland TikTok Awards?](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
-    
-    [![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")
-    
-    ![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](https://static.euronews.com/articles/stories/08/88/97/92/368x207_cmsv2_a15205ce-e053-5d5c-8988-4160f6db6a67-8889792.jpg "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
+    ![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](https://static.euronews.com/articles/stories/08/89/00/70/368x207_cmsv2_bea31505-2ef2-5b49-ad34-df2447f2bc3b-8890070.jpg "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Centre-right cries victory, NGOs cry foul over deforestion law delay](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
+    ### [Germany open to sending peacekeeping troops to Ukraine](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+    
+    [![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")
+    
+    ![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](https://static.euronews.com/articles/stories/08/89/01/80/368x207_cmsv2_4bc3d7a5-002c-5dcd-b83a-7eac706a7077-8890180.jpg "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [General Motors takes billion-dollar hit over losses in China](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+    
+    [![Sixth night of clashes in Georgian capital after EU talks suspended](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sixth night of clashes in Georgian capital after EU talks suspended")
+    
+    ![Sixth night of clashes in Georgian capital after EU talks suspended](https://static.euronews.com/articles/stories/08/88/93/44/368x207_cmsv2_fd345bac-64a2-5320-907f-1ecf6d9f63cd-8889344.jpg "Sixth night of clashes in Georgian capital after EU talks suspended")](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+    
+    Now playing Next
+    
+    [No Comment](https://www.euronews.com/nocomment)
+    
+    ### [Sixth night of clashes in Georgian capital after EU talks suspended](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,6 +317,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -363,59 +365,59 @@ Trending
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
 * [European Commission](https://www.euronews.com/tag/eu-commission)
 * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
+* [Music](https://www.euronews.com/tag/music)
 * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
 * [Italy](https://www.euronews.com/tag/italy)
-* [France](https://www.euronews.com/tag/france)
 
 * * *
 
 Latest stories
 
-[![Euronext Amsterdam premises](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronext Amsterdam premises")
+[![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")
 
-![Euronext Amsterdam premises](https://static.euronews.com/articles/stories/08/88/95/70/368x207_cmsv2_4b10c426-f16e-57ac-80b0-beb0baa23bdb-8889570.jpg "Euronext Amsterdam premises")](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
-
-Now playing Next
-
-[Business](https://www.euronews.com/business/business)
-
-### [Pershing Square Holdings to delist from Amsterdam after football riots](https://www.euronews.com/business/2024/12/04/pershing-square-holdings-to-delist-from-amsterdam-after-football-riots)
-
-* * *
-
-[![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")
-
-![Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."](https://static.euronews.com/articles/stories/08/88/92/08/368x207_cmsv2_06f1a682-3ba8-5ae7-b40d-af982caa7795-8889208.jpg "Protesters stage a rally to demand South Korean President Yoon Suk Yeol to step down in front of the National Assembly in Seoul, Wed, Dec. 4, 2024. The signs read "Punish."")](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
+![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](https://static.euronews.com/articles/stories/08/88/98/52/368x207_cmsv2_25510a73-bb4f-5f62-9b90-49cbf7dd5573-8889852.jpg "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
 
 Now playing Next
 
-[South Korea](https://www.euronews.com/news/asia/south-korea)
+[Belgium](https://www.euronews.com/news/europe/belgium)
 
-### [South Korea martial law: Why it happened and what comes next](https://www.euronews.com/2024/12/04/south-korea-martial-law-why-it-happened-and-what-comes-next)
-
-* * *
-
-[![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")
-
-![Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)](https://static.euronews.com/articles/stories/08/88/99/06/368x207_cmsv2_c7f27231-c560-5616-ab05-f3b756b112be-8889906.jpg "Iain Ward (@thekingofchemo) Kyra-Mae Turner (@kyramaeturner6), Manny Wallace (@big.manny1)")](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
-
-Now playing Next
-
-[Culture news](https://www.euronews.com/culture/culture-news)
-
-### [Who won the first UK & Ireland TikTok Awards?](https://www.euronews.com/culture/2024/12/04/educators-popstars-and-a-terminally-ill-cancer-patient-among-winners-of-tiktok-awards)
+### [NATO's Rutte warns of Russian support for North Korean nuclear program](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
 
 * * *
 
-[![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")
+[![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")
 
-![People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023](https://static.euronews.com/articles/stories/08/88/97/92/368x207_cmsv2_a15205ce-e053-5d5c-8988-4160f6db6a67-8889792.jpg "People look over timber, some of which came from the Omo Forest Reserve, to be sold at a market in Ijebu-Ode, Nigeria, on Tuesday, Aug. 1, 2023")](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
+![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](https://static.euronews.com/articles/stories/08/89/00/70/368x207_cmsv2_bea31505-2ef2-5b49-ad34-df2447f2bc3b-8890070.jpg "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Centre-right cries victory, NGOs cry foul over deforestion law delay](https://www.euronews.com/my-europe/2024/12/04/eu-anti-deforestation-law-delay-centre-right-cries-victory-ngos-cry-foul)
+### [Germany open to sending peacekeeping troops to Ukraine](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+
+* * *
+
+[![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")
+
+![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](https://static.euronews.com/articles/stories/08/89/01/80/368x207_cmsv2_4bc3d7a5-002c-5dcd-b83a-7eac706a7077-8890180.jpg "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+
+Now playing Next
+
+[Business](https://www.euronews.com/business/business)
+
+### [General Motors takes billion-dollar hit over losses in China](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+
+* * *
+
+[![Sixth night of clashes in Georgian capital after EU talks suspended](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sixth night of clashes in Georgian capital after EU talks suspended")
+
+![Sixth night of clashes in Georgian capital after EU talks suspended](https://static.euronews.com/articles/stories/08/88/93/44/368x207_cmsv2_fd345bac-64a2-5320-907f-1ecf6d9f63cd-8889344.jpg "Sixth night of clashes in Georgian capital after EU talks suspended")](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+
+Now playing Next
+
+[No Comment](https://www.euronews.com/nocomment)
+
+### [Sixth night of clashes in Georgian capital after EU talks suspended](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -670,6 +672,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
