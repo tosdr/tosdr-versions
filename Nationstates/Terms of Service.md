@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Who has a better pretitle? AN or AAN? (281)](https://forum.nationstates.net/viewtopic.php?t=558048&f=25&view=unread#unread ""Who has a better pretitle? AN or AAN?" (281 posts)")
-* [Change a Letter (2,999)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (2,999 posts)")
-* [Tiami's Endless Tacos (1,921)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (1,921 posts)")
-* [What is unique abt AN? (1,521)](https://forum.nationstates.net/viewtopic.php?t=551158&f=25&view=unread#unread ""What is unique abt AN?" (1,521 posts)")
-* [NationVision 44 | Marsilhá, Paìs Occi… (5)](https://forum.nationstates.net/viewtopic.php?t=559140&f=4&view=unread#unread ""NationVision 44 | Marsilhá, Paìs Occitans" (5 posts)")
+* [Your Leader's Opinion on AN's Leader… (3,072)](https://forum.nationstates.net/viewtopic.php?t=526110&f=25&view=unread#unread ""Your Leader's Opinion on AN's Leader - ♥ Mk. 15 ♥" (3,072 posts)")
+* [NS World News- Your nation's news (3,493)](https://forum.nationstates.net/viewtopic.php?t=53698&f=4&view=unread#unread ""NS World News- Your nation's news" (3,493 posts)")
+* [South Korean Martial Law (624)](https://forum.nationstates.net/viewtopic.php?t=559163&f=20&view=unread#unread ""South Korean Martial Law" (624 posts)")
+* [American Politics: Turnabout Trump (7,726)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,726 posts)")
+* [The Collective Security League: OOC s… (7,057)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (7,057 posts)")
 
 Advertisement
 
