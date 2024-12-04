@@ -1,4 +1,4 @@
- [![Adblock Plus logo in navigation menu](/img/adblockplus-logo-color.svg?1224964108)](https://adblockplus.org/en/)[![Top menu toggle](/img/menu-toggle-black.svg?1224964108)](#)
+ [![Adblock Plus logo in navigation menu](/img/adblockplus-logo-color.svg?3762277512)](https://adblockplus.org/en/)[![Top menu toggle](/img/menu-toggle-black.svg?3762277512)](#)
 
 * [Download](https://adblockplus.org/en/download)
 * [About](https://adblockplus.org/en/about)
@@ -758,11 +758,11 @@ January 2023
 
 ##### Follow us on
 
-* [![Twitter glyphicon](/img/footer-twitter-glyphicon.png?1224964108)](https://twitter.com/AdblockPlus "Follow Adblock Plus on Twitter")
-* [![YouTube glyphicon](/img/footer-youtube-glyphicon.png?1224964108)](https://www.youtube.com/user/AdblockPlusOfficial "Subscribe to Adblock Plus on YouTube")
-* [![Facebook glyphicon](/img/footer-facebook-glyphicon.png?1224964108)](https://www.facebook.com/adblockplus "Follow Adblock Plus on Facebook")
-* [![Instagram glyphicon](/img/footer-instagram-glyphicon.png?1224964108)](https://www.instagram.com/adblockplus/ "Follow Adblock Plus on Instagram")
-* [![VK glyphicon](/img/footer-vk-glyphicon.png?1224964108)](https://vk.com/adblockplusofficial "Follow Adblock Plus on VK")
+* [![Twitter glyphicon](/img/footer-twitter-glyphicon.png?3762277512)](https://twitter.com/AdblockPlus "Follow Adblock Plus on Twitter")
+* [![YouTube glyphicon](/img/footer-youtube-glyphicon.png?3762277512)](https://www.youtube.com/user/AdblockPlusOfficial "Subscribe to Adblock Plus on YouTube")
+* [![Facebook glyphicon](/img/footer-facebook-glyphicon.png?3762277512)](https://www.facebook.com/adblockplus "Follow Adblock Plus on Facebook")
+* [![Instagram glyphicon](/img/footer-instagram-glyphicon.png?3762277512)](https://www.instagram.com/adblockplus/ "Follow Adblock Plus on Instagram")
+* [![VK glyphicon](/img/footer-vk-glyphicon.png?3762277512)](https://vk.com/adblockplusofficial "Follow Adblock Plus on VK")
 
 Copyright © 2023 All rights reserved. Adblock Plus® is a registered trademark of [eyeo GmbH](https://eyeo.com/).
 
