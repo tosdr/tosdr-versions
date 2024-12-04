@@ -64,6 +64,9 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
+* [IDF refusers: The men who volunteered but nwon’t fight in Gaza](https://www.lewrockwell.com/political-theatre/idf-refusers-the-men-who-volunteered-but-nwont-fight-in-gaza/)
+* [Bill Gates & Jeff Bezos Push for ‘Climate Vaccines’ in Food Supply](https://www.lewrockwell.com/political-theatre/bill-gates-jeff-bezos-push-for-climate-vaccines-in-food-supply/)
+* [The Death Of The Deep State Is At Hand](https://www.lewrockwell.com/political-theatre/the-death-of-the-deep-state-is-at-hand/)
 * [Trump Pledges to Kill Central Ban Currencies in America & Worldwide](https://www.lewrockwell.com/political-theatre/trump-pledges-to-kill-central-ban-currencies-in-america-worldwide/)
 * [](https://www.lewrockwell.com/political-theatre/897509/)
 * [Lew’s Commentary Today](https://www.lewrockwell.com/political-theatre/lews-commentary-today/)
@@ -71,15 +74,15 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Now that Hunter has been pardoned…](https://www.lewrockwell.com/political-theatre/now-that-hunter-has-been-pardoned/)
 * [Slavery!](https://www.lewrockwell.com/political-theatre/slavery/)
 * [Carl Benjamin: The Ideology Gap Between Men and Women](https://www.lewrockwell.com/political-theatre/carl-benjamin-the-ideology-gap-between-men-and-women/)
-* [Billy Bob Thornton in “Landman” Discusses Wind Turbines](https://www.lewrockwell.com/political-theatre/billy-bob-thornton-in-landman-discusses-wind-turbines/)
-* [Trump Declares Economic War on BRICS: Tariffs and the Dollar’s Future](https://www.lewrockwell.com/political-theatre/trump-declares-economic-war-on-brics-tariffs-and-the-dollars-future/)
-* [Fighting Words: The Abuse of Islam in Political Rhetoric](https://www.lewrockwell.com/political-theatre/fighting-words-the-abuse-of-islam-in-political-rhetoric/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-897416)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-897423)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Why So Much Hate and Bile Hurled at Pete Hegseth by the Unhinged Left?](https://www.lewrockwell.com/lrc-blog/why-so-much-hate-and-bile-hurled-at-pete-hegseth-by-the-unhinged-left/)
+* [NYC Mayor Breaks With Dems: ‘Cancel Me – I’m For Deportations!’](https://www.lewrockwell.com/lrc-blog/nyc-mayor-breaks-with-dems-cancel-me-im-for-deportations/)
+* [The Corruption of the FBI](https://www.lewrockwell.com/lrc-blog/the-corruption-of-the-fbi/)
 * [America’s Untold Stories: Hunter Biden’s Pardon Shocks Nation + Biden’s Lame-Duck Moves with Rich Baris! | Tuesday Newsday](https://www.lewrockwell.com/lrc-blog/americas-untold-stories-hunter-bidens-pardon-shocks-nation-bidens-lame-duck-moves-with-rich-baris-tuesday-newsday/)
 * [Pokémon Go: The Dark Truth Revealed (Alert Your Kids)](https://www.lewrockwell.com/lrc-blog/pokemon-go-the-dark-truth-revealed-alert-your-kids/)
 * [‘Hey DOGE ! End The NED!’](https://www.lewrockwell.com/lrc-blog/hey-doge-end-the-ned/)
@@ -87,10 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Dems and Mainstream Media on Kash Patel: “We Can’t Have a Political Activist as Head of the FBI!”](https://www.lewrockwell.com/lrc-blog/dems-and-mainstream-media-on-kash-patel-we-cant-have-a-political-activist-as-head-of-the-fbi/)
 * [“Pardon Me.” Brandon Pardons Himself](https://www.lewrockwell.com/lrc-blog/brandon-pardons-himself/)
 * [RE: The Best Thing So Far to Come from Trump’s Election Victory](https://www.lewrockwell.com/lrc-blog/re-the-best-thing-so-far-to-come-from-trumps-election-victory/)
-* [Women and Children are Scavenging for Food in Large Trash Piles . . .](https://www.lewrockwell.com/lrc-blog/women-and-children-are-scavenging-for-food-in-large-trash-piles/)
-* [The Best Thing So Far to Come from Trump’s Election Victory](https://www.lewrockwell.com/lrc-blog/the-best-thing-so-far-to-come-from-trumps-election-victory/)
-* [“Happy Thanksgiving to All, Including the Radical Left Lunatics Who Have Worked So Hard to Destroy Our Country”](https://www.lewrockwell.com/lrc-blog/happy-thanksgiving-to-all-including-the-radical-left-lunatics-who-have-worked-so-hard-to-destroy-our-country/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897236)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897339)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
