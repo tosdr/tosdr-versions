@@ -32,12 +32,11 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_360x203.jpg)](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
         
-        #### [Swifties scrambling for spots to stay near Vancouver, B.C. amid last-minute lodging cancelations](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d) [![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bdc24c16-445c-497e-abf5-897ace51ccd1/bdc24c16-445c-497e-abf5-897ace51ccd1_360x203.jpg)](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
-        
         #### [Swifties looking for NW Washington lodging after last-minute hotel cancelations in Vancouver, B.C.](https://www.king5.com/article/news/local/swifties-scrambling-to-stay-near-vancouver-bc-amid-lodging-cancelations/281-f525a690-e01e-4797-a64c-d2487029bb2d)
-    *  [![](https://media.king5.com/assets/KING/images/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7/20241204T044644/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7/20241204T044644/d0b7f3ec-93ce-492f-8701-2aa63a7f9bd7_360x203.jpg)](https://www.king5.com/article/news/local/list-severe-weather-shelters-warming-centers-western-washington/281-da4b76fd-d40c-4c04-b638-367ced566aca)
         
-        #### [List: Severe weather shelters, warming centers in King County](https://www.king5.com/article/news/local/list-severe-weather-shelters-warming-centers-western-washington/281-da4b76fd-d40c-4c04-b638-367ced566aca)
+    *  [![](https://media.king5.com/assets/KING/images/d5fcaf7c-99cb-4b16-9127-84faac733e73/20241202T170635/d5fcaf7c-99cb-4b16-9127-84faac733e73_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5fcaf7c-99cb-4b16-9127-84faac733e73/20241202T170635/d5fcaf7c-99cb-4b16-9127-84faac733e73_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/revive-i-5-ship-canal-bridge-lane-closures/281-94faff71-09af-47bd-8629-eb8d25f55520)
+        
+        #### [NB I-5 reduced to 2 lanes over Ship Canal Bridge for 9 months in 2025](https://www.king5.com/article/traffic/traffic-news/revive-i-5-ship-canal-bridge-lane-closures/281-94faff71-09af-47bd-8629-eb8d25f55520)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8a8654a8-2a01-4242-9c19-7035b0aa01a3/20241204T062345/8a8654a8-2a01-4242-9c19-7035b0aa01a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8a8654a8-2a01-4242-9c19-7035b0aa01a3/20241204T062345/8a8654a8-2a01-4242-9c19-7035b0aa01a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1bbd0790-4129-4f35-87e7-582f5b5b1e24/20241127T013854/1bbd0790-4129-4f35-87e7-582f5b5b1e24_360x203.jpg)](https://www.king5.com/article/weather/king-county-windstorm-bomb-cyclone-damage-reports/281-f24a2ad4-c352-45ee-8adc-dec3d0a30abf)
+    *  [![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_16x9.jpg) ![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
         
-        #### [King County urging people to report damages caused by November's bomb cyclone](https://www.king5.com/article/weather/king-county-windstorm-bomb-cyclone-damage-reports/281-f24a2ad4-c352-45ee-8adc-dec3d0a30abf)
+        #### [Dense fog could create hazardous driving conditions throughout the Puget Sound Area](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -95,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-33°
+34°
 
 ![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
