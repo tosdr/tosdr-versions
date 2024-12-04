@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Rich Lowry The End of a Scam](https://patriotpost.us/opinion/112520-the-end-of-a-scam-2024-12-03)
 *      [The Babylon Bee Biden Forced To Issue Another Pardon After Hunter Commits 17 More Crimes](https://patriotpost.us/opinion/112493-biden-forced-to-issue-another-pardon-after-hunter-commits-17-more-crimes-2024-12-03)
 *      [Christine Flowers Criminals in Cribs: The Crazy Attempt to Ban Birthright Citizenship](https://patriotpost.us/opinion/112491-criminals-in-cribs-the-crazy-attempt-to-ban-birthright-citizenship-2024-12-03)
 *      [Gary Bauer Joe Pardons Joe](https://patriotpost.us/opinion/112484-joe-pardons-joe-2024-12-03)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Victor Joecks Women Shouldn’t Be in Combat Roles](https://patriotpost.us/opinion/112486-women-shouldnt-be-in-combat-roles-2024-12-03)
 *      [Stephen Moore Trump Should Call for a New American Patriotism](https://patriotpost.us/opinion/112485-trump-should-call-for-a-new-american-patriotism-2024-12-03)
 *      [Cal Thomas Institutions vs. We the people](https://patriotpost.us/opinion/112471-institutions-vs-we-the-people-2024-12-03)
-*      [Daniel McCarthy Identity Politics, Not Biden, Cost Democrats the Election](https://patriotpost.us/opinion/112478-identity-politics-not-biden-cost-democrats-the-election-2024-12-02)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
