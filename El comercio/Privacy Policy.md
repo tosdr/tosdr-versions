@@ -31,23 +31,275 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Recordando a  Constant
-======================
+Un temblor de 4.1 se sintió este miércoles 4 de diciembre en Ecuador
+====================================================================
 
-Resalta la vigencia del liberalismo como defensa de las libertades y la democracia frente al autoritarismo.
------------------------------------------------------------------------------------------------------------
+Usuarios de redes sociales comentaron haber sentido el temblor desde Nueva Loja, Sucumbíos y Tena.
+--------------------------------------------------------------------------------------------------
 
-![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-3.jpg)
 
-Acabo de leer un interesante libro de Ángel Rivero: _Benjamin Constant **teórico y político liberal,**_ publicado por la Fundación FAES de España.  Conozco algo de su pensamiento. Nació 22 años antes de la revolución francesa y falleció a los 63 años de edad.  He leído sus _Escritos políticos,_ publicado por el **Centro de Estudios Constitucionales de Madrid**.
+El **instituto Geofísico** (IG) de la Politécnica Nacional informó este **miércoles 4 de diciembre** de 2024 sobre la actividad sísmica registrada en Ecuador.
 
-Hay una frase de Constant que dice: «_Hace tiempo dije que al ser la Constitución la garantía de la libertad de un pueblo, todo lo que tendiera a la libertad era constitucional, y que era inconstitucional todo lo que se alejara de ella_». Así, tendría sentido decir que Ecuador no tiene constitución. Lo aprobado en **Montecristi**, es una arenga ideológica, una proclama del estatismo autocrático, un laberinto romántico y farragoso; menos una constitución en sentido estricto.
+### Más noticias
 
-**Benjamín Constant**, como filósofo y político de relevancia histórica, en sus escritos y actuaciones, tuvo que actuar al lado de las **ideas de la libertad,** la república o la monarquía constitucional; frente a la derecha reaccionaria y nostálgica por el _**Antiguo Régimen** de_ la **monarquía** absoluta, o del radicalismo izquierdista del terror y de la guillotina. Siempre crítico de la arbitrariedad y el despotismo.
+* [Tres temblores se sintieron en Pichincha](https://www.elcomercio.com/actualidad/quito/tres-temblores-pichincha-ultimas-horas-quito.html "Tres temblores se sintieron en Pichincha en las últimas horas") [](https://www.elcomercio.com/actualidad/quito/tres-temblores-pichincha-ultimas-horas-quito.html "Tres temblores se sintieron en Pichincha en las últimas horas")[en las últimas horas](https://www.elcomercio.com/actualidad/quito/tres-temblores-pichincha-ultimas-horas-quito.html "Tres temblores se sintieron en Pichincha en las últimas horas")
+* [Cuba evalúa los daños tras dos fuertes temblores](https://www.elcomercio.com/actualidad/mundo/cuba-evalua-danos-tras-dos-fuertes-temblores.html "Cuba evalúa los daños tras dos fuertes temblores")
+* [Un tigrillo muerto fue encontrado en Guayaquil, esto se sabe](https://www.elcomercio.com/actualidad/ecuador/tigrillo-muerto-encontrado-en-guayaquil-esto-se-sabe.html "Un tigrillo muerto fue encontrado en Guayaquil, esto se sabe")
 
-La formidable inteligencia de Alexis de Tocqueville, resume de manera nítida el momento histórico en el que vivió **Constant**: «_Del siglo XVIII y de la Revolución, como un manantial común, salieron dos ríos: el primero conducía a los hombres a las instituciones libres, mientras que el segundo los llevaba al poder absoluto»._ En la corriente de las instituciones, **Constant** se hace merecedor de ser, en expresión de Carl Schmitt, «_el protagonista de la doctrina del constitucionalismo liberal, este no fue solo un brillante constructor de constituciones, sino el protagonista de la doctrina del constitucionalismo liberal»._
+Temblor se sintió en el Oriente
+-------------------------------
 
-El **pensamiento de Constant** tiene vigencia. No solo por sus críticas a la autarquía napoleónica, cuya versión actual serían los **autoritarismos mesiánicos y populistas**. Abogó por las libertades de los individuos, de la prensa y el flujo del pensamiento, sin estorbos.  Detestó la concentración del poder.  Prefería la monarquía constitucional, otorgando relevancia a la asamblea legislativa. Sus ideas tienen plena fuerza en el **pensamiento democrático contemporáneo**, y en el dilema entre la **democracia** y la amenaza de los de los despotismos. Este filósofo y político debería ser leído.  
+Un sismo se registró en las primeras horas de este miércoles, a las 07:55:26 exactamente. Este movimiento tuvo una **magnitud de 4.1 en la escala de Richter**.
+
+Se dio a una **profundidad de 28 kilómetros**, a una latitud de -0,68 y a una longitud de -77.46.
+
+Este temblor tuvo su epicentro localizado a **52,91 kilómetros de la ciudad del Tena,** en la provincia de Napo, en la Amazonía ecuatoriana.
+
+Usuarios de las **redes sociales** comentaron que sí sintieron el temblor. Algunos dijeron que el movimiento fue muy leve pero que sí lo percibieron.
+
+Los [comentarios](https://es.wikipedia.org/wiki/Tena_(Ecuador) "https://es.wikipedia.org/wiki/Tena_(Ecuador)") llegaron desde **Nueva Loja, Sucumbíos y el mismo Tena** y confirmaron haber sentido el sismo.
+
+> [#SISMO](https://twitter.com/hashtag/SISMO?src=hash&ref_src=twsrc%5Etfw) ID:igepn2024xunq Revisado 2024-12-04 07:55:26 TL Magnitud: 4.1 Profundidad: 28 km, a 52.91 km de Tena, Napo, Latitud: -0.68 Longitud:-77.46 Ecuador. Sintió este sismo (débil, fuerte, muy fuerte)? Cuéntenos en dónde? [pic.twitter.com/beTh9rIi0M](https://t.co/beTh9rIi0M)
+> 
+> — Instituto Geofísico (@IGecuador) [December 4, 2024](https://twitter.com/IGecuador/status/1864295434379755674?ref_src=twsrc%5Etfw)
+
+Tres temblores se registraron en Pichincha
+------------------------------------------
+
+El Instituto Geofísico (IG) de la Politécnica Nacional informó sobre la **actividad sísmica** registrada en la **provincia de Pichincha** en la noche del lunes 25 y madrugada del martes 26 de noviembre.
+
+El **primer temblor** se registró a las 23:24 del lunes 25 de noviembre. Este sismo tuvo una magnitud de 2.1 en la escala de Richter y se dio a una profundidad de 10 km. Su epicentro se localizó a 20, 77 km de Quito, Pichincha.
+
+Luego, el **segundo sismo** se registró tan solo 11 minutos después del primero. Este se dio a las 23:35 del lunes 25 de noviembre de 2024. Este tuvo una magnitud de 2.6 en la escala de Richter y se localizó a 22,38 km de Tabacundo, Pichincha.
+
+Un **tercer temblor** se registró a la 01:50 del martes 26 de noviembre de 2024. Este tuvo una magnitud de 2.1 en la escala de Richter. Se dio a una profundidad de 6 km y su epicentro se localizó a 21.24 km de Quito, Pichincha.  
+
+Un tigrillo muerto fue encontrado en Guayaquil, esto se sabe
+============================================================
+
+El Ministerio de Ambiente activó los protocolos tras la alerta. Personal de la Reserva de Producción de Fauna investigó.
+------------------------------------------------------------------------------------------------------------------------
+
+![El animal apareció afuera de una urbanización.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2.jpg)
+
+En redes sociales circula la **foto de un tigrillo** que encontraron muerto los moradores de una urbanización de Guayaquil. Las primeras reacciones apuntaron a que el felino fue afectado por el incendio en Cerro Azul.
+
+### Más noticias
+
+* [Presunto autor de incendio forestal en Quito fue declarado inocente](https://www.elcomercio.com/actualidad/quito/presunto-autor-incendio-forestal-quito-declarado-inocente.html "Presunto autor de incendio forestal en Quito fue declarado inocente")
+* [Al menos 82 hectáreas consume el incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/al-menos-82-hectareas-consume-incendio-forestal-guayaquil.html "Al menos 82 hectáreas consume el incendio forestal en Guayaquil")
+* [Inamhi advierte altas temperaturas y riesgo de incendios forestales](https://www.elcomercio.com/actualidad/ecuador/inamhi-advierte-altas-temperaturas-y-riesgo-de-incendios-forestales.html "Inamhi advierte altas temperaturas y riesgo de incendios forestales")
+
+El hallazgo del tigrillo
+------------------------
+
+Un grupo de moradores denunciaron el **hallazgo del felino** en las afueras de una urbanización vía a la costa. Ellos denunciaron que el tigrillo seguramente fue afectado por el **incendio del Cerro Azul** en Guayaquil.
+
+Por ello piden que **se declare reserva natural** a los cerros de la vía a la Costa para poder proteger a la fauna y flora presentes.
+
+Los comentarios de los guayaquileños no se hicieron esperar y piden a las autoridades más control para las zonas naturales. Así como al **Alcalde de Guayaquil** dar la importancia que requiere un incendio que lleva dos días activo y destruye el cerro.
+
+El Ministerio de Ambiente desmintió la teoría
+---------------------------------------------
+
+El **Ministerio de Ambiente**, Agua y Transición Ecológica (Maate) emitió un comunicado el martes 3 de diciembre de 2024. Este documento indica que, en cuanto al caso del tigrillo **(Leopardus pardalis)** encontrado muerto, el Maate activó la alerta.
+
+Por ello, personal técnico de la **Reserva de Producción de Fauna** acudió al sitio del hallazgo para tomar procedimiento.
+
+Los delegados de la Reserva levantaron al animal y lo trasladaron hasta sus oficinas para analizarlo. Luego de hacerle los respectivos análisis, **se confirmó la muerte del animal.**
+
+Además, se constató que **el felino presentaba golpes.**
+
+Posteriormente y conforme a los protocolos de fauna silvestre correspondientes, se le dio “la disposición final”.
+
+Por otro lado, el Maate aclaró que es importante que se conozca que el desplazamiento del felino hasta la urbanización **no está vinculado al incendio forestal en el Cerro Azul.**
+
+Esto porque, de acuerdo con los datos de georreferenciación, es poco probable que el felino se haya **movilizado aproximadamente 14 kilómetro**s. Esta es la distancia entre el Cerro Azul y el sitio donde lo encontraron.
+
+El Ministerio de Ambiente pide a la ciudadanía **llamar de inmediato al 911** si se evidencia la presencia de fauna silvestre en áreas urbanas.
+
+De ese modo, el personal capacitado atenderá la situación y p**recautelará el bienestar animal.**
+
+> 📌 El Ministerio del Ambiente, Agua y Transición Ecológica informa: ⤵️ [pic.twitter.com/Dcofgc3KhH](https://t.co/Dcofgc3KhH)
+> 
+> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [December 4, 2024](https://twitter.com/Ambiente_Ec/status/1864118264894279704?ref_src=twsrc%5Etfw)
+
+Irán pone en libertad temporal a la Nobel Mohammadi por este motivo
+===================================================================
+
+La liberación ocurre tras la denuncia de la familia de que a la activista se le negaron cuidados médicos tras una intervención quirúrgica
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![La encarcelada premio Nobel de la Paz iraní Narges Mohammadi fue puesta en libertad temporal.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-1.jpg)
+
+La encarcelad**a Premio Nobel de la Paz** iraní **Narges Mohammadi** fue puesta en libertad por un periodo de tres semanas por motivos médicos tras la extirpación de un tumor de la pierna el mes pasado.
+
+### Más noticias
+
+* [Irán acusa a EE.UU. e Israel de respaldar a ‘terroristas’ para desestabilizar Siria](https://www.elcomercio.com/actualidad/mundo/iran-acusa-a-ee-uu-e-israel-de-respaldar-a-terroristas-para-desestabilizar-siria.html "Irán acusa a EE.UU. e Israel de respaldar a ‘terroristas’  para desestabilizar Siria")
+* [El Ministro de Defensa surcoreano dimite tras la aplicación de la ley marcial](https://www.elcomercio.com/actualidad/mundo/el-ministro-de-defensa-surcoreano-dimite-tras-la-aplicacion-de-la-ley-marcial.html "El Ministro de Defensa surcoreano dimite tras la aplicación de la ley marcial")
+* [Irán ralentiza su producción de uranio cercano al nivel militar](https://www.elcomercio.com/actualidad/mundo/iran-ralentiza-produccion-uranio-cercano-nivel-militar.html "Irán ralentiza su producción de uranio cercano al nivel militar")
+
+La liberación de **Narges Mohammadi**
+-------------------------------------
+
+“La **Fiscalía de Teherán** suspendió la ejecución de la sentencia de **Narges Mohammadi** durante tres semanas y la liberaron de prisión”. Así lo informó este miércoles 4 de diciembre de 2024 Mostafa Nili, **abogado de la activista.**
+
+El letrado indicó que la **liberación temporal** se debe a la extirpación de un tumor benigno en una pierna y un injerto óseo realizado hace 21 días. Esto después de que la familia de la activista denunciase que se le estaban **negando cuidados médicos.**
+
+Tras la operación, Nili afirmó que los médicos indicaron que **Mohammadi “necesita unos tres meses** de atención en condiciones favorables” y que por ello había solicitado la suspensión de la pena.
+
+Mohammadi, de 52 años, está **encarcelada en la prisión Evin de Teherán desde 2021**. Está condenada en seis ocasiones a una pena total de **13 años y nueve meses de prisión y 154 latigazos**, entre otros castigos.
+
+En octubre recibió otra condena
+-------------------------------
+
+La última sentencia de **seis meses de prisión en su contra** se dictó a medidos de octubre, un mes después de **protestar en la cárcel** contra la ejecución del preso Reza Rasai. Esto por su supuesta implicación en el asesinato de un agente de inteligencia durante la r**evuelta desatad**a por la muerte de Mahsa Amini en septiembre de 2022.
+
+A pesar de las condenas y el encarcelamiento, la activista de derechos humanos y de las mujeres ha continuado **denunciando las violaciones en Irán**. Entre ellas la aplicación de la **pena de muerte** o la violencia contra las féminas que no usan el velo islámico.
+
+El Comité Nobel noruego concedió en 2023 el prestigioso **galardón a Mohammadi** “por su lucha contra la opresión de las mujeres en Irán y para promover los derechos humanos y la libertad para todos”.
+
+El premio lo **recogieron sus hijo**s en una ceremonia en Oslo. La activista pidió a través de ellos apoyo internacional para acabar con un Gobierno iraní “en su nivel más bajo de legitimidad y [respaldo popular](https://es.wikipedia.org/wiki/Narges_Mohammadi "https://es.wikipedia.org/wiki/Narges_Mohammadi")”.
+
+El Ministro de Defensa surcoreano dimite tras la aplicación de la ley marcial
+=============================================================================
+
+Kim habría sido uno de los altos cargos de Defensa que sugirió a Yoon recurrir a la ley marcial para hacer frente a la situación del -gobierno
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Soldados y vehículos militares llegaron a la Asamblea Nacional tras la declaratoria de la ley marcial.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY.jpg)
+
+El ministro de Defensa de Corea del Sur, **Kim Yong-hyun,** ofreció este miércoles su dimisión y pidió disculpas a los surcoreanos “por causar confusión y preocupación”. Esto tras la aplicación de la ley marcial, medida que también ha motivado una **moción de destitución** en su contra por parte de la oposición.
+
+### Más noticias
+
+* [La ley marcial en Corea del Sur tiene tres precedentes desde 1972](https://www.elcomercio.com/actualidad/mundo/ley-marcial-corea-sur-tiene-precedentes-1972.html "La ley marcial en Corea del Sur tiene tres precedentes desde 1972")
+* [El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas](https://www.elcomercio.com/actualidad/mundo/presidente-surcoreano-revoca-ley-marcial-rechazo-parlamento-y-prostestas.html "El presidente surcoreano revoca la ley marcial tras rechazo del Parlamento y prostestas")
+* [EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial](https://www.elcomercio.com/actualidad/mundo/ee-uu-apoya-decision-asamblea-nacional-surcoreana-levantar-ley-marcial.html "EE.UU. apoya la decisión de la Asamblea Nacional surcoreana de levantar la ley marcial")
+
+La renuncia
+-----------
+
+Kim puso su cargo a disposición del presidente surcoreano, Yoon Suk-yeol. Además se mostró dispuesto a “asumir la responsabilidad por todos los asuntos relacionados con **la ley marcial”**, a través de un comunicado publicado por el Estado Mayor Conjunto (JCS) surcoreano.
+
+“Todos los soldados que cumplieron con sus deberes relacionados con la ley marcial siguieron las instrucciones del Ministerio, y **toda la responsabilidad recae sobre mí”**, dijo Kim.
+
+La ley marcial “ya se levantó y **el público ha retornado a sus vidas diarias,** pero la situación política doméstica y de seguridad no son fáciles”, añadió el ministro. Además señaló que hará “todos los esfuerzos para garantizar que no **haya disrupciones** en las operaciones de defensa nacionales”.
+
+Kim habría sido uno de los altos cargos de Defensa que sugirió a Yoon recurrir a l**a ley marcial** para hacer frente a la compleja situación política que afrontaba su gobierno en minoría, según apuntan los medios locales.
+
+La ley marcial
+--------------
+
+Yoon anunció la imposición de la **ley marcial** en una declaración televisada antes de la medianoche del miércoles para proteger el “orden constitucional” de actividades “antiestatales”. De ellas acusa al principal bloque de la oposición, el Partido Democrático (PD), al que también calificó de “fuerzas pronorcoreanas”.
+
+Pero la oposición, que controla la **Asamblea Nacional,** sacó adelante una moción para levantar la ley marcial unas seis horas después de ser declarada por Yoon. Eso forzó al Ejecutivo a retirar la medida, y después de que tropas surcoreanas **trataran de tomar el parlamento** y protagonizaran encontronazos con políticos, funcionarios y periodistas.
+
+Asimismo, los seis partidos de la oposición iniciaron este miércoles una **moción parlamentaria para destituir a Yoon**. Mientras que el mencionado PD presentó otra iniciativa similar contra el ministro de Defensa. Las fuerzas opositoras consideran a ambos responsables de vulnerar la Constitución por haber aplicado la **ley marcial sin motivos** [suficientes.](https://es.wikipedia.org/wiki/Ley_marcial "https://es.wikipedia.org/wiki/Ley_marcial")
+
+Así funciona el Pico y placa en Quito este miércoles 4 de diciembre
+===================================================================
+
+Cuatro contraflujos se realizan en Quito como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+----------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes de tránsito vigilan el cumplimiento de la medida en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-03T153552.993.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
+* [Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-se-realizan-en-95-barrios-de-quito-hasta-el-8-de-diciembre.html "Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre")
+* [Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO](https://www.elcomercio.com/actualidad/quito/bulevar-shyris-homenaje-efrain-paul-javier.html "Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO")
+
+¿Cómo funciona el Pico y placa?
+-------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
+El bloqueo, el papel principal de la Asamblea Nacional 
+=======================================================
+
+La Asamblea Nacional huye del debate de los temas y demuestra que es partidaria del bloqueo y la polémica.
+----------------------------------------------------------------------------------------------------------
+
+![Ilustración simbólica y minimalista de la Asamblea nacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/ASAMBLEA-NACIONAL.jpg)
+
+La **Asamblea Nacional** da muestras de estar más predispuesta al **bloqueo** que a la búsqueda de salidas, soluciones o planes B para tomar decisiones adecuadas en favor del país.
+
+El viernes, el Secretario del Parlamento anunció el archivo de la **‘Ley Antipillos’**, que fue enviada por el presidente **Daniel Noboa** para controlar el **lavado de activos**.
+
+> Los ecuatorianos atraviesan una dura crisis, económica y energética, y lo que más necesita es que la Asamblea ayude a cambiar esa condiciones.
+
+El **presidente Noboa** insistió en el debate de la **‘Ley Antipillos’**, a lo que la Asamblea respondió que ya se pronunció con la negativa y archivo del proyecto.
+
+La posición de la **Asamblea** demuestra que no está abierta a debatir los problemas que le afectan al país.
+
+Los asambleístas conocen de sobra que **Ecuador** tiene un problema grave con el lavado de bienes, por parte de las mafias, el **crimen organizado y del narcotráfico**.
+
+Al ser un problema real y que debe tener una respuesta, ¿por qué la **[Asamblea](https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador "https://es.wikipedia.org/wiki/Asamblea_Nacional_del_Ecuador")** no discute alternativas o salidas a las que planteó el **presidente Daniel Noboa?**
+
+Los ecuatorianos necesitan que la **Asamblea Nacional** trabaje en soluciones para ayudar a combatir el crimen organizado, que se ampara el **lavado de activos** para su financiamiento.
+
+En estos días, las autoridades de la **Asamblea Nacional** han enfocado sus esfuerzos en justificar el archivo.
+
+No se ve un debate serio y de altura de este tema y que, además, impida poner más impuestos a los ecuatorianos.
+
+Los ecuatorianos quisieran ver a una **Asamblea** propositiva y comprometida con el país, que le interese debatir los problemas serios y que proponga soluciones si el presidente **Noboa** o el **Ejecutivo** no las tiene.  
+Sin embargo, se enfrasca en las pugnas sin sentido de país, en la pelea política, en la defensa de los intereses personales-políticos. 
+
+También se ve envuelta en la polémica y el escándalo, como el show de tecnocumbia, donde se ve a los asambleístas aplaudir y bailar animadamente. Esa es la imagen que circula en el espectro público y se percibe que la **Asamblea Nacional** actual no es nada diferente a la Asamblea, que fue disuelta con la muerte cruzada del expresidente **Guillermo Lasso**.
+
+En estos tiempos de crisis se hace necesario tener a una **Asamblea** empática y dispuesta a colaborar con leyes que saquen de la crisis a los ecuatorianos.
 
 Cartas a Quito / 4 de diciembre de 2024
 =======================================
@@ -71,6 +323,24 @@ Este pedido lo  hago, con la urgencia que demanda, tanto la dimensión  de las
 Tengo la esperanza, señor Representante, de que esta carta llegue a su conocimiento.
 
 Carlos A. González Sánchez
+
+Recordando a  Constant
+======================
+
+Resalta la vigencia del liberalismo como defensa de las libertades y la democracia frente al autoritarismo.
+-----------------------------------------------------------------------------------------------------------
+
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
+
+Acabo de leer un interesante libro de Ángel Rivero: _Benjamin Constant **teórico y político liberal,**_ publicado por la Fundación FAES de España.  Conozco algo de su pensamiento. Nació 22 años antes de la revolución francesa y falleció a los 63 años de edad.  He leído sus _Escritos políticos,_ publicado por el **Centro de Estudios Constitucionales de Madrid**.
+
+Hay una frase de Constant que dice: «_Hace tiempo dije que al ser la Constitución la garantía de la libertad de un pueblo, todo lo que tendiera a la libertad era constitucional, y que era inconstitucional todo lo que se alejara de ella_». Así, tendría sentido decir que Ecuador no tiene constitución. Lo aprobado en **Montecristi**, es una arenga ideológica, una proclama del estatismo autocrático, un laberinto romántico y farragoso; menos una constitución en sentido estricto.
+
+**Benjamín Constant**, como filósofo y político de relevancia histórica, en sus escritos y actuaciones, tuvo que actuar al lado de las **ideas de la libertad,** la república o la monarquía constitucional; frente a la derecha reaccionaria y nostálgica por el _**Antiguo Régimen** de_ la **monarquía** absoluta, o del radicalismo izquierdista del terror y de la guillotina. Siempre crítico de la arbitrariedad y el despotismo.
+
+La formidable inteligencia de Alexis de Tocqueville, resume de manera nítida el momento histórico en el que vivió **Constant**: «_Del siglo XVIII y de la Revolución, como un manantial común, salieron dos ríos: el primero conducía a los hombres a las instituciones libres, mientras que el segundo los llevaba al poder absoluto»._ En la corriente de las instituciones, **Constant** se hace merecedor de ser, en expresión de Carl Schmitt, «_el protagonista de la doctrina del constitucionalismo liberal, este no fue solo un brillante constructor de constituciones, sino el protagonista de la doctrina del constitucionalismo liberal»._
+
+El **pensamiento de Constant** tiene vigencia. No solo por sus críticas a la autarquía napoleónica, cuya versión actual serían los **autoritarismos mesiánicos y populistas**. Abogó por las libertades de los individuos, de la prensa y el flujo del pensamiento, sin estorbos.  Detestó la concentración del poder.  Prefería la monarquía constitucional, otorgando relevancia a la asamblea legislativa. Sus ideas tienen plena fuerza en el **pensamiento democrático contemporáneo**, y en el dilema entre la **democracia** y la amenaza de los de los despotismos. Este filósofo y político debería ser leído.  
 
 Fiestas de Quito, la ruta gastronómica de los mercados tradicionales
 ====================================================================
@@ -772,361 +1042,3 @@ Esta campaña se ha realizado en la Premier League desde 2013.
 
 San viernes
 -----------
-
-Pronósticos de lluvias son favorables para operación de hidroeléctricas
-=======================================================================
-
-Las lluvias favorecen al funcionamiento de las hidroeléctricas para la generación de energía.
----------------------------------------------------------------------------------------------
-
-![Las lluvias llenan los caudales de los ríos que alimentan los embalses para el buen funcionamiento de las centrales hidroeléctricas.](https://www.elcomercio.com/wp-content/uploads/2024/12/lluvias-hidroelectricas.jpg)
-
-Los pronósticos de **lluvias** son favorables para la operación de las **hidroeléctricas**, desde este martes 3 hasta el domingo 8 de diciembre de 2024.
-
-El **Instituto Nacional de Metereología e Hidrología (Inamhi)** y la **Empresa Pública Municipal de Telecomunicaciones, Agua Potable, Saneamiento y Gestión Ambiental (Etapa)** de **Cuenca** informaron sobre las condiciones hidrológicas en el país y parte del Austro.
-
-### Más noticias:
-
-* [Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?](https://www.elcomercio.com/actualidad/negocios/lluvias-cuenca-como-aportaron-embalse-mazar.html "Las lluvias en Cuenca, ¿cómo aportaron al embalse de Mazar?")
-* [Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes](https://www.elcomercio.com/actualidad/ecuador/ausencia-lluvias-centrales-hidroelectricas-viernes-29-noviembre.html "Ausencia de lluvias en zonas de centrales hidroeléctricas este viernes")
-
-Lluvias favorables para operación de hidroeléctricas
-----------------------------------------------------
-
-La generación de energía eléctrica en **Ecuador** depende, en su mayoría, de las lluvias.
-
-La grave **sequía** que atraviesa el país en este 2024 ha ocasionado que las centrales hidroeléctricas operen en niveles críticos o dejen de operar.
-
-Esto, a su vez, ha provocado que el Gobierno tome la decisión de programar **cortes de energía eléctrica** continuos desde septiembre.
-
-Son más de dos meses de cortes de luz, mientras el Gobierno de **Daniel Noboa** busca mejorar la capacidad del Sistema Interconectado Nacional y también invertir en la diversificación de la matriz energética.
-
-Hasta que estos proyectos se concreten, la presencia de lluvias es fundamental para superar la **crisis energética.**
-
-El **Inamhi** informó que se **incrementa la probabilidad de lluvias**, tormentas y ráfagas de viento en varias regiones del país, desde este **martes 3 hasta el domingo 8 de diciembre**.
-
-Las lluvias y tormentas serán de variable intensidad para la **región Interandina,** norte e interior de la **región Litoral**.
-
-Además, en las estribaciones de las **cordilleras occidental y oriental**, parte de la Amazonía, donde se ubica la central **Coca Codo Sinclair**.
-
-La mayoría de estas regiones se encuentra en el **nivel alto**, seguido por el medio.
-
-Solo un sector entre **Esmeraldas, Carchi, Imbabura y Pichincha** presenta un nivel muy alto de lluvias y tormentas.
-
-Específicamente, el sábado 7 de diciembre, se prevén lluvias en nivel alto para **Loja** y parte de las provincias de: **El Oro, Azuay y Cañar.**
-
-> [#AdvertenciaMeteorológicaEc](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gicaEc?src=hash&ref_src=twsrc%5Etfw) N.66 🌤️🌦️⛈️⚠️| Se incrementa la probabilidad de lluvias, tormentas y ráfagas de viento de variable intensidad para la región Interandina, norte e interior de la región litoral y estribaciones de cordillera occidental y oriental. Del 03-08 diciembre. [pic.twitter.com/pPTO6xZZyu](https://t.co/pPTO6xZZyu)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 3, 2024](https://twitter.com/inamhi_ec/status/1863840912272470145?ref_src=twsrc%5Etfw)
-
-### Cuenca
-
-En tanto, **Etapa** informó sobre la situación en **Cuenca**, capital de Azuay, este martes.
-
-Los ríos **Tomebamba, Machángara** y **Yanuncay** están en estado bajo, y el río **Tarqui** en estiaje.
-
-Pese a los 144 días de sequía hidrológica en esta ciudad, Etapa señala que existe **92% probabilidad** de lluvia.
-
-Los cuatro ríos de Cuenca aportan a los embalses de **Mazar y Amaluza**, los mismos que son usados para la operación de las centrales Sopladora, Mazar y Paute.  
-
-Ese mismo día, las precipitaciones también tendrán un nivel alto en parte de la **Amazonía**.
-
-> Ríos Tomebamba, Machángara y Yanuncay en estado bajo, Río Tarqui en estiaje  
-> 👉 144 días de sequía hidrológica.  
-> 👉 92% probabilidad de lluvia.  
-> 👉 Radiación UV será extremo.  
->   
-> La probabilidad de temperatura aproximada para hoy 25°C.[@czamoramatute](https://twitter.com/czamoramatute?ref_src=twsrc%5Etfw) [@maveronicapolo](https://twitter.com/maveronicapolo?ref_src=twsrc%5Etfw) [pic.twitter.com/lulAoeFWpa](https://t.co/lulAoeFWpa)
-> 
-> — ETAPA EP (@ETAPAOficial) [December 3, 2024](https://twitter.com/ETAPAOficial/status/1863933638867386817?ref_src=twsrc%5Etfw)
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Concejo de Quito avala energía alternativa para semáforos: informe en 30 días
-=============================================================================
-
-La concejala Analía Ledesma propuso energía alternativa para que los semáforos de Quito no dependan del Sistema Interconectado Nacional.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de energía afectan el tránsito en la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/semaforos-.jpg)
-
-En la sesión ordinaria del **Concejo Metropolitano de Quito** de este 3 de diciembre del 2024, hubo una unanimidad entre los 18 ediles. Antes los **cortes de luz** que han afectado la movilidad en la capital, se establece la búsqueda de **energía alternativa** para los **semáforos** de **Quito**.
-
-### Más noticias
-
-* [Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco](https://www.elcomercio.com/actualidad/quito/concierto-apunalados-san-francisco-quito.html "Alcalde de Quito habló sobre el concierto que terminó en caos en la plaza de San Francisco")
-* [Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO](https://www.elcomercio.com/actualidad/quito/bulevar-shyris-homenaje-efrain-paul-javier.html "Bulevar de la Shyris en Quito rinde honor a periodistas asesinados de EL COMERCIO")
-* [El Quitofest no es solo rock, también es…](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html "El Quitofest no es solo rock, también es…")
-
-Energía alternativa para los semáforos de Quito
------------------------------------------------
-
-En el voto unánime de los **concejales**, se estipula con un plazo de **30 días** a la **Agencia Metropolitana de Tránsito** (AMT) que, en coordinación con la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (Epmmop), presente el **informe**. En este documento, se deberá constar la **viabilidad técnica** y **económica**, para reemplazar la dotación de energía.
-
-Las más de **1 200 intersecciones que tienen semáforos** en **Quito** forman parte actualmente del **Sistema Interconectado Nacional.** Durante los apagones, más de 1 200 agentes de Tránsito deben hacerse cargo de dirigir el tránsito en las esquinas más complejas de la ciudad.
-
-La propuesta de la energía alternativa para los semáforos
----------------------------------------------------------
-
-La propuesta fue presentada por la concejala **Analía Ledesma,** de la **Izquierda Democrática**. “Si queremos ahorrar agua, también debemos ahorrar luz», dijo en su intervención. Y añadió que este sería un primer paso para que “Quito vuelva a ser pionera en la utilización de energías alternativas”.
-
-Con la aprobación, el concejal **Andrés Campaña** dijo que se da “un paso importante hacia una ciudad resiliente al cambio climático”. Pero también apuntó hacia una autogeneración de energía eléctrica para el alumbrado de la ciudad: “Creemos en la necesidad de mutar esas luminarias que funcionan con sodio a luminarias led que hoy en día son apenas el 21% de las más de 300 000 luminarias que existen en Quito”.
-
-Campaña fue algo más allá y pidió que el Concejo apruebe el pedido que en octubre pasado formuló el Comité de Empresa de trabajadores de la **Empresa Eléctrica Quito** (EEQ). “La Eléctrica Quito no puede limitarse a **ser solamente una distribuidora de energía,** sino una empresa con capacidad de autogeneración”. Para ello pidió que la autoridad competente, el **Ministerio de Energía**, autorice la autogeneración.
-
-Sin embargo, Campaña se refirió a la situación de la EEQ. El **Municipio de Quito** tiene el **17% de acciones**, y, por tanto, un delegado. “Pero eso no implica que seamos convidados de piedra”. Por eso detalló que hay dos generadores de energía de la EEQ y la falta de respuesta ante dos generadores hidroeléctricas de las siete que tiene[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-La hidroléctrica de **Cumbayá** tiene daños en dos generadores desde hace cinco años y la del V**alle de los Chillos** está totalmente inactivo hace dos años. Y nada se ha hecho para repararlas, sostuvo Campaña.
-
-La alternativa es la energía solar
-----------------------------------
-
-En noviembre, cuando el tránsito se complicó por los cortes de luz, el experto en vialidad, **Edwin Herrera,** dijo a **EL COMERCIO** que Quito “ya debe pensar en la autonomía energética de los semáforos”. Y propuso el uso de la energía solar, que haría que “su funcionamiento sea independiente de la situación energética e, incluso, implicará un ahorro importante para la ciudad”.
-
-Algunas ciudades ya están implementando esta alternativa. Una de ellas es **Santa Marta**, capital del departamento colombiano de **Magdalena**, que en el **2019** comenzó el proyecto de semáforos con energía solar.
-
-Contra el tiempo, la energía alternativa
-----------------------------------------
-
-El problema fundamental es que el **Concejo Metropolitano** tiene hasta el **10 de diciembre** para aprobar la proforma presupuestaria para el próximo año. Sin embargo, dijo que es posible que la **Epmmop** y la **AMT**, organismos que tienen la competencia para trabajar en estos temas, envíen la propuesta para incluirlo en el segundo debate.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Bryan Ramírez, de descartado a figura de Liga de Quito
-======================================================
-
-Bryan Ramírez llegó a Liga de Quito en el 2023 por pedido de Luis Zubeldía.
----------------------------------------------------------------------------
-
-![Bryan Ramírez, jugador de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/ramirez_liga_1.jpg)
-
-**Bryan Josías Ramírez León** es una de las revelaciones con las que cuenta el plantel de Liga de Quito en el 2024. En el segundo semestre, se ganó la titularidad en la banda izquierda y con mucha autoridad.
-
-El buen momento de Bryan Ramírez tiene a **Pablo ‘Vitamina’ Sánchez como el principal** responsable y mentalizador. Desde la llegada del entrenador argentino el jugador ecuatoriano mostró su mejor versión.
-
-### Más noticias:
-
-* [Entradas para la final de ida de la Liga Pro a la venta](https://www.elcomercio.com/deportes/futbol/venta-entradas-final-liga-pro.html "Entradas para la final de ida de la Liga Pro a la venta")
-* [Liga de Quito recordó la conquista de su primera Copa Sudamericana](https://www.elcomercio.com/deportes/futbol/liga-de-quito-recordo-conquista-primera-copa-sudamericana.html "Liga de Quito recordó la conquista de su primera Copa Sudamericana")
-* [¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-corre-riesgo-de-perder-alex-arce-para-2025.html "¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?")
-
-Con la llegada de Sánchez para reemplazar al español Josep Alcácer, Ramírez **‘abandonó’ su posición de extremo por izquierda** para pasar a jugar como lateral, lo que le significó ganarse un puesto en el equipo titular y ser uno de los fijos.
-
-Antes de la contratación de ‘Vitamina’, el esmeraldeño de 24 años jugó, según Transfermarkt, j**ugó ocho partidos, pero solo ante Libertad fue titular** y completó los 90 minutos en el Reina del Cisne de Loja.
-
-Ante Aucas completó cuatro minutos, contra El Nacional uno, frente a Delfín 10, Orense dos, Mushuc Runa 10, Emelec nueve y Barcelona Sporting Club 18.
-
-Con Alcácer lejos de la zona técnica de los albos se ganó la titularidad y completo los 90 minutos ante **Universidad Católica y Deportivo Cuenca**, siempre en el interinato de Patricio Hurtado.
-
-En la segunda etapa se ganó la titularidad y solo faltó en la goleada 0-4 frente a Macará en la primera fecha de la segunda etapa de la Liga Pro en el Bellavista de Ambato.
-
-Aportó con goles ante Libertad (1), Orense (1) y Deportivo Cuenca (1); y asistencias frente a **Aucas (1), Libertad (1), Técnico Universitario (1)**, Universidad Católica (1) y Cuenca (2).
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/ramirez_liga_2-1024x683.jpg)
-
-Foto: API.
-
-Liga descartó a Ramírez
------------------------
-
-Bryan Ramírez nació el 11 de agosto de 2000 en Esmeraldas. Con **19 años llegó a Liga para hacer una prueba** para ingresar en la institución, pero no quedó y le tocó buscar otras alternativas luego de tres días.
-
-Desafectado por los albos se marchó a Tumbaco para buscar una oportunidad en El Nacional. Estuvo por cinco meses en una etapa de prueba, pero **nuevamente se le cerraron las puertas y le tocó mirar** a la Segunda Categoría.
-
-**Juventud de Pichincha** lo recibió y lo tuvo en sus filas en el 2020. En el 2021 tuvo su gran oportunidad en la Serie B. No la desaprovechó y fue parte del ascenso a la A de Cumbayá y luego estuvo en el 2022 en el equipo capitalino en su estreno en la máxima categoría.
-
-Su buen momento hizo que Liga y **Luis Zubeldía pongan su mirada en su talento y lo incorporen** en el 2023. Ese año completó 34 partidos, dio dos asistencias, vio la tarjeta amarilla en tres ocasiones y acumuló 1 646 minutos.
-
-En su palmarés personal se registra el título de la Serie B con Cumbayá en el 2021 y la Liga Pro y Copa Sudamericana con Liga de Quito en el 2023.
-
-“Vivía cerca de Ponceano. En mi cabeza siempre pensaba que algún día iba a jugar en Liga. Gracias a Dios lo cumplí (…) No lo creía cuando me enteré de la posibilidad de venir a este equipo”, declaró en entrevista con Johana Calderón.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/remirez_liga_3-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
-
-La caravana migrante se topa con el bloqueo de las autoridades en el sur de México
-==================================================================================
-
-Los extranjeros piden comprensión a la presidenta, Claudia Sheinbaum.
----------------------------------------------------------------------
-
-![Agentes de la Guardia Nacional (GN) frenan el paso a migrantes durante una caravana.](https://www.elcomercio.com/wp-content/uploads/2024/12/caravana-mexico-efe.jpg)
-
-La caravana con más de **1 500 migrantes** que partió esta semana de la **frontera sur de México** se enfrenta este martes, 3 de diciembre de 2024, al igual que otros grupos similares, con el **bloqueo de las autoridades mexicanas,** quienes impiden que salgan del estado de Chiapas, limítrofe con Centroamérica.
-
-### Más noticias
-
-* [Trump confirma que usará al Ejército para deportar a migrantes indocumentados](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "Trump confirma que usará al Ejército para deportar a migrantes indocumentados")
-* [Migrantes latinos en riesgo de exclusión de ayudas por temporal en España](https://www.elcomercio.com/actualidad/mundo/migrantes-latinos-riesgo-exclusion-ayudas-temporal-espana.html "Migrantes latinos en riesgo de exclusión de ayudas por temporal en España")
-* [Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump](https://www.elcomercio.com/actualidad/mundo/migrantes-temen-quedar-atrapados-frontera-sur-mexico-tras-victoria-trump.html "Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump")
-
-En medio de las presiones del presidente electo de Estados Unidos, **Donald Trump**, para que México controle el **flujo migratorio,** el contingente salió a las 05:00 del municipio de Huixtla con paso lento, con algunos en bicicletas y triciclos, flanqueados por la Guardia Nacional y la policía municipal.
-
-Los indocumentados, en su mayoría de Venezuela, denunciaron a que **elementos** del Instituto Nacional de Migración (INM), desde su llegada a Huixtla, permanecieron en sus alrededores y los persiguen por la carretera, donde este martes intentaron **detener a una familia,** pero los mismos migrantes lo impidieron.
-
-Los extranjeros piden comprensión a la presidenta, Claudia Sheinbaum, quien la semana pasada aseguró en una **llamada con Trump que las caravanas “ya no llegan”** a la frontera con Estados Unidos, mientras el mandatario electo prometió aranceles de 25 % a los productos mexicanos si no frena “la invasión” de migrantes y drogas.
-
-Apoyo para llegar a Ciudad de México
-------------------------------------
-
-“La presidenta de México debe brindarnos el **apoyo para llegar a la Ciudad de México,** donde hay más fuentes de trabajo y esperar la cita ‘CBP One’ (para pedir asilo en EE.UU.) tranquilamente porque otros estados son más peligrosos”, expuso el venezolano Genaro Cárdenas.
-
-Este suramericano viaja en bicicleta con un grupo de sus compatriotas, quienes tienen la esperanza de llegar a su destino a pesar de los obstáculos y la presión de los agentes de Migración para convencerlos de retornar a la frontera sur.
-
-“Nosotros tememos que nos desarticulen y regresarnos a Tapachula, por lo que seguiremos adelante”, avisó Cárdenas.
-
-México quiere a los migrantes en el sur
----------------------------------------
-
-La presidenta prometió una **estrategia migratoria humanitaria** con un polo industrial en el sur de México, mientras sostiene que los encuentros diarios de migrantes en la frontera de Estados Unidos han caído un 75 % desde diciembre de 2023.
-
-Pero en la caravana van migrantes como el venezolano **Bryan Joan,** quien dijo sentirse mal porque el **Gobierno no les brinda el apoyo** y no les permite transitar a Ciudad de México.
-
-“En Tapachula no hay trabajo de nada, aparte Migración nos dice una cosa, que ‘les vamos a ayudar’, donde es totalmente mentira y la gente se monta en las combis (camionetas) y regresan para atrás y los tienen hasta tres días en (la estación migratoria) Siglo XXI en Tapachula”, aseguró.
-
-El venezolano Antonio José también pidió al Gobierno de México cambiar la política migratoria sobre el terreno para **darle un trato más humano a las personas** y “no engañarlas”.
-
-En tanto, grupos del Sistema Integral para la Familia (DIF) del Gobierno mexicano y Médicos Sin Fronteras (MSF) brindan **atención médica** y curaciones a migrantes con lesiones en sus pies.
-
-La salvadoreña Fabiola Flores dijo que, durante su paso por la **carretera Huixtla-Villa Comaltitlán,** “hay como unos 20 heridos con ampollas, deshidratación y llagas”.
-
-“Venimos todos en son de paz, no queremos hacer **desorden público,** solo queremos llegar a nuestro destino y descansar, la verdad, (la autoridad) intenta intimidarnos, persuadirnos para que dejemos la caminata”, comentó. 
-
-Estado de excepción en Quito, ¿aplica el toque de queda durante sus fiestas?
-============================================================================
-
-El presidente Daniel Noboa extendió el estado de excepción por 30 días en seis provincias y dos ciudades, incluido Quito.
--------------------------------------------------------------------------------------------------------------------------
-
-![Quito fue incluido en el estado de excepción suscrito por el presidente Daniel Noboa](https://www.elcomercio.com/wp-content/uploads/2024/12/toque-queda-quito-estado-excepcion.jpg)
-
-El presidente **Daniel Noboa** renovó el **estado de excepción** en seis provincias y dos ciudades de Ecuador, por **30 días**. El Decreto Ejecutivo 469 fue suscrito este lunes 2 de diciembre de 2024 por “**grave conmoción interna**“.
-
-### Más noticias
-
-* [Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decreto-reduccion-tarifas-isd-2025.html "Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025")
-* [Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-renueva-estado-excepcion-ocho-localidades.html "Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días")
-* [Presunto autor de incendio forestal en Quito fue declarado inocente](https://www.elcomercio.com/actualidad/quito/presunto-autor-incendio-forestal-quito-declarado-inocente.html "Presunto autor de incendio forestal en Quito fue declarado inocente")
-
-Esta medida aplica a **Guayas, Los Ríos, Manabí, Santa Elena, El Oro y Orellana**; y al Distrito Metropolitano de **Quito,** en Pichincha, y **Camilo Ponce Enríquez,** en Azuay.
-
-Con el nuevo estado de excepción, algunos derechos ciudadanos se ven suspendidos hasta los primeros días de 2025, sin tomar en cuenta las **festividades** locales, como las fiestas de Quito, Navidad y de Año Nuevo.
-
-Daniel Noboa señaló que el objetivo del estado de excepción es **garantizar el orden público, la paz social y convivencia pacífica de ciudadano.**
-
-Toque de queda focalizado
--------------------------
-
-Según detalla el documento oficial, la medida se aplica bajo los artículos 3, 4 y 8 del Decreto Ejecutivo **410** del 3 de octubre de 2023.
-
-Este decreto incluía la suspensión al derecho de **libertad de reunión** y ordenaba la movilización de la **Policía Nacional** y las **Fuerzas Armadas**.
-
-Sin embargo, la **Corte Constitucional** no dio paso a los argumentos presentados y declaró la inconstitucionalidad de estos pedidos, dando paso únicamente a **tres medidas**:
-
-* Suspensión del derecho a la inviolabilidad de **domicilio**
-* Suspensión del derecho a la inviolabilidad de **correspondencia**
-* Restricción de libertad de tránsito o toque de queda focalizado en **19 cantones**
-
-Sobre este último punto, la limitación del toque de queda aplica para:
-
-* Cantón Camilo Ponce Enríquez (Azuay)
-* Cantón Durán (Guayas)
-* Cantón Balao (Guayas)
-* Parroquia Tenguel (Guayas)
-* Cantón Babahoyo (Los Ríos)
-* Cantón Buena Fe (Los Ríos)
-* Cantón Quevedo (Los Ríos)
-* Cantón Puebloviejo (Los Ríos)
-* Cantón Vinces (Los Ríos)
-* Cantón Valencia (Los Ríos)
-* Cantón Ventanas (Los Ríos)
-* Cantón Mocache (Los Ríos)
-* Cantón Urdaneta (Los Ríos)
-* Cantón Baba (Los Ríos)
-* Cantón Palenque (Los Ríos)
-* Cantón Quinsaloma (Los Ríos)
-* Cantón Montalvo (Los Ríos)
-* Cantón La Joya de los Sachas (Orellana)
-* Cantón Puerto Francisco (Orellana)
-* Cantón Loreto (Orellana)
-
-El toque queda en estos lugares se realiza de **22:00 a 05:00**, de lunes a domingo.
-
-¿Quito tendrá toque de queda?
------------------------------
-
-El decreto del 2 de diciembre aclara que la medida toma en consideración también al dictamen de la Corte Constitucional del 14 de noviembre, por lo que **Quito no tendrá toque de queda** durante sus fiestas, ni en todo el mes de diciembre, hasta el **2 de enero**.
-
-Asimismo, los quiteños **podrán reunirse con libertad** al no tener restricciones en este derecho.
-
-Los encargados de la seguridad en la ciudad, únicamente podrán vulnerar el derecho a la inviolabilidad de domicilio en **allanamientos** y a la correspondencia[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Inseguridad en Quito
---------------------
-
-Quito fue añadido al estado de excepción debido al incremento de la **inseguridad** en su territorio. La capital registra en lo que va de 2024, un total de **35 homicidios**, 26 homicidios intencionales, ocho homicidios y un femicidio.
-
-Según las cifras presentadas por el Ministerio del Interior, de estos homicidios, el 63 % fueron con amenazas, el **57 % con armas de fuego** y el 74 % en lugares públicos.  
-
-  
-
-Liga de Quito se solidariza con la familia de Pedro Pablo Perlaza tras su secuestro
-===================================================================================
-
-Pedro Pablo Perlaza, exjugador de Liga de Quito, fue secuestrado en Esmeraldas.
--------------------------------------------------------------------------------
-
-![Pedro Pablo Perlaza en su etapa como jugador de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-03T181959.991.jpg)
-
-El fútbol ecuatoriano se conmocionó tras la lamentable noticia del **secuestro** de **Pedro Pablo Perlaza**. El hecho ocurrió la tarde del lunes 2 de diciembre de 2024, en Puerto Limón, provincia de Esmeraldas.
-
-Según confirmó la Policía Nacional a _EL COMERCIO_, el secuestro también involucró a Juan Carlos Morales, a quien lo retuvieron junto al futbolista. Desde que se reportó el incidente, las autoridades han **desplegado un operativo para localizar y rescatar a las víctimas**, así como para identificar a los responsables.
-
-* [Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlza-secuestro-trayectoria.html "Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales")
-* [Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-futbolista-secuestro.html "Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas")
-* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
-
-Una vez que la noticia se hizo pública, **Liga de Quito,** club en el que Perlaza militó durante dos temporadas, expresó su solidaridad con el jugador y su familia a través de un comunicado oficial.
-
-Liga de Quito y Pedro Pablo Perlaza
------------------------------------
-
-A través de sus redes sociales, **Liga de Quito publicó un mensaje de apoyo**:
-
-> “Desde Liga Deportiva Universitaria **expresamos nuestra profunda preocupación y solidaridad a**nte la noticia del secuestro de nuestro exjugador”.
-
-El club también extendió su respaldo a los seres queridos del jugador, asegurándoles que no están solos en este difícil momento.
-
-> “**Confiamos en que esta situación tenga un desenlace favorable** y que pronto podamos recibir noticias alentadoras”, concluyó el comunicado.
-
-Hasta las 18:20 del martes 3 de diciembre, Liga de Quito es la única entidad deportiva que se ha pronunciado sobre la desaparición de Pedro Pablo Perlaza.
-
-> 🔊 Comunicado oficial [pic.twitter.com/lsKJZqweFu](https://t.co/lsKJZqweFu)
-> 
-> — LDU Oficial (@LDU\_Oficial) [December 3, 2024](https://twitter.com/LDU_Oficial/status/1864050266388992171?ref_src=twsrc%5Etfw)
-
-### **Sus números en Liga de Quito**
-
-Pedro Pablo Perlaza se unió a **Liga de Quito en 2020**, con 29 años, tras destacar en Delfín. Con el ‘Cetáceo’ logró el histórico título de la Liga Pro 2019, justamente frente a los albos.
-
-Con la camiseta de Liga de Quito, Perlaza disputó dos temporadas (2020 y 2021), acumulando 63 partidos entre Liga Pro, Supercopa Ecuador, Copa Libertadores y Copa Sudamericana. Durante su paso por el club, contribuyó con 14 asistencias y f**ue parte de los títulos de la Supercopa Ecuador en 2020 y 2021.**
