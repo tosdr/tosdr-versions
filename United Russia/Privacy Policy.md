@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://cdn.er.ru/media/news/December2024/uwEGquRSrSQEjEXW65dM-small.jpg)](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
+
+[О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
+
+[#СПО](https://er.ru/activity/news?tags%5B0%5D=39227) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44)
+
+Сегодня 10:00
+
+[![«Единая Россия» открыла шахматный клуб Сергея Карякина в Реутове Московской области](https://cdn.er.ru/media/news/December2024/JtjJClPc2SdhCXy1CsiJ-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-shahmatnyj-klub-sergeya-karyakina-v-reutove-moskovskoj-oblasti)
+
+[«Единая Россия» открыла шахматный клуб Сергея Карякина в Реутове Московской области](https://er.ru/activity/news/edinaya-rossiya-otkryla-shahmatnyj-klub-sergeya-karyakina-v-reutove-moskovskoj-oblasti)
+
+[#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#региональнаяобщественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=109456)
+
+Сегодня 09:19
+
 [![«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://cdn.er.ru/media/news/December2024/bUEdjzN7rhoQqZvhzYgx-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
 
 [«Единая Россия» оценила доступность новых железнодорожных вагонов для маломобильных пассажиров](https://er.ru/activity/news/edinaya-rossiya-ocenila-dostupnost-novyh-zheleznodorozhnyh-vagonov-dlya-malomobilnyh-passazhirov)
@@ -330,22 +346,6 @@
 [#выборы в ОМСУ](https://er.ru/activity/news?tags%5B0%5D=29588) [#Алтайский край](https://er.ru/activity/news?tags%5B0%5D=514) [#Пермский край](https://er.ru/activity/news?tags%5B0%5D=1082) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#Пензенская область](https://er.ru/activity/news?tags%5B0%5D=806)
 
 02.12.24
-
-[![«Единая Россия» проведёт декаду приёмов граждан в честь Дня рождения партии](https://cdn.er.ru/media/news/December2024/HXIgvVxut5KzX3CmVD5Q-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provedyot-dekadu-priyomov-grazhdan-v-chest-dnya-rozhdeniya-partii)
-
-[«Единая Россия» проведёт декаду приёмов граждан в честь Дня рождения партии](https://er.ru/activity/news/edinaya-rossiya-provedyot-dekadu-priyomov-grazhdan-v-chest-dnya-rozhdeniya-partii)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#декадаприемовграждан](https://er.ru/activity/news?tags%5B0%5D=141562) [#приемграждан](https://er.ru/activity/news?tags%5B0%5D=103849) [#ДеньРожденияПартииЕдинаяРоссия](https://er.ru/activity/news?tags%5B0%5D=141944) [#ДеньрожденияПартии](https://er.ru/activity/news?tags%5B0%5D=1090865) [#обращенияграждан](https://er.ru/activity/news?tags%5B0%5D=111482) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101)
-
-02.12.24
-
-[![Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://cdn.er.ru/media/news/December2024/VaPxSdb487JfdhZPjfA2-small.jpg)](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
-
-[Борис Грызлов: «Единая Россия» помогает всем партиям РФ соответствовать требованиям народа](https://er.ru/activity/news/boris-gryzlov-edinaya-rossiya-pomogaet-vsem-partiyam-rf-sootvetstvovat-trebovaniyam-naroda)
-
-[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#ДеньРожденияПартииЕР](https://er.ru/activity/news?tags%5B0%5D=125483) [#интервью](https://er.ru/activity/news?tags%5B0%5D=82)
-
-01.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
