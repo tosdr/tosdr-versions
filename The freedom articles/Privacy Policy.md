@@ -1,7 +1,3 @@
-[![The Freedom Articles](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20233%20164'%3E%3C/svg%3E)
-
-![The Freedom Articles](https://thefreedomarticles.com/wp-content/uploads/2019/07/The-Freedom-Articles-Logo-small.png)](https://thefreedomarticles.com/)
-
 * [Conspiracy](https://thefreedomarticles.com/category/conspiracy/)
     * [Conspiracy](https://thefreedomarticles.com/category/conspiracy/)
     * [Agenda 2030](https://thefreedomarticles.com/category/conspiracy/agenda-2030-agenda-21/)
@@ -79,8 +75,6 @@
     * [Organized Religion](https://thefreedomarticles.com/category/conspiracy/organized-religion/)
     * [Revisionist History](https://thefreedomarticles.com/category/general-miscellaneous/revisionist-history/)
     * [Book Reviews](https://thefreedomarticles.com/category/general-miscellaneous/book-reviews/)
-
-### Type to search
 
 [](#)
 
@@ -1775,6 +1769,14 @@
     * [Whistleblowers & Activists](https://thefreedomarticles.com/category/solutions/whistleblowers-truth-activists/)
     * [Sovereignty](https://thefreedomarticles.com/category/solutions/sovereignty/)
     
+    [![did not vote](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![did not vote](https://thefreedomarticles.com/wp-content/uploads/2024/12/did-not-vote-183x96.jpg)](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [“Did Not Vote” Beat Trump in a Landslide – Video #165](https://thefreedomarticles.com/did-not-vote-beat-trump-in-a-landslide/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 5, 2024
+    
     [![Alex Jones Sandy Hook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Alex Jones Sandy Hook](https://thefreedomarticles.com/wp-content/uploads/2024/11/Alex-Jones-Sandy-Hook-183x96.jpg)](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
@@ -1798,14 +1800,6 @@
     [They’re Going After Former Moldovan Deputy PM Iurie Rosca – Video #124](https://thefreedomarticles.com/theyre-going-after-former-moldovan-pm-iurie-rosca-video-124/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
-    
-    [![usury](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![usury](https://thefreedomarticles.com/wp-content/uploads/2024/07/usury-183x96.jpg)](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
-    
-    [Usury & Private Banking: The Base Problem & Some Solutions – Video #116](https://thefreedomarticles.com/usury-private-banking-base-problem-some-solutions/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 9, 2024
     
     [![Voting is Not Freedom](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -2112,27 +2106,8 @@
     * [Revisionist History](https://thefreedomarticles.com/category/general-miscellaneous/revisionist-history/)
     * [Book Reviews](https://thefreedomarticles.com/category/general-miscellaneous/book-reviews/)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20233%20164'%3E%3C/svg%3E)
-
-![](https://thefreedomarticles.com/wp-content/uploads/2019/07/The-Freedom-Articles-Logo-small.png)](https://thefreedomarticles.com/)
-
-Breaking News
-
-[New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
-
-[Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-nwo/)
-
-[Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-forced-ben-shapiro-to-fire-candace-owens/)
-
-[Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 2 – Video #161](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
-
-![](https://secure.gravatar.com/avatar/?s=30&d=mm&r=g)
-
-Trending:
-
-[#JFK](https://thefreedomarticles.com/tag/jfk/)
+Privacy Policy
+==============
 
 **Privacy Policy**
 
@@ -2247,132 +2222,6 @@ Kapaa, Hawaii 96746 USA
 Last updated on July 10, 2019
 
 [](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy "Facebook")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy "Mastodon")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy "Email")[](https://www.addtoany.com/share)
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2034'%3E%3C/svg%3E)
-
-![](https://thefreedomarticles.com/wp-content/uploads/2019/06/Freedom-Articles-300x34.jpg)
-
-##### Recent Posts
-
-* [![Musk Supports War](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Musk Supports War](https://thefreedomarticles.com/wp-content/uploads/2024/11/Musk-Supports-War-80x80.jpg)](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-nwo/)
-    
-    [Musk Continues Supporting Wars & Pushing the NWO – Video #163](https://thefreedomarticles.com/musk-continues-supporting-wars-pushing-nwo/)
-    
-    [AI](https://thefreedomarticles.com/category/conspiracy/ai-artificial-intelligence/), [CIA](https://thefreedomarticles.com/category/big-government/cia-central-intelligence-agency/), [Microchip/Nanotech Agenda](https://thefreedomarticles.com/category/conspiracy/human-microchipping-agenda/), [Military Intelligence Complex](https://thefreedomarticles.com/category/big-government/military-intelligence-complex/), [NWO](https://thefreedomarticles.com/category/conspiracy/nwo-new-world-order/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![rabbi shmuley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![rabbi shmuley](https://thefreedomarticles.com/wp-content/uploads/2024/11/162-shmuley-80x80.png)](https://thefreedomarticles.com/rabbi-shmuley-forced-ben-shapiro-to-fire-candace-owens/)
-    
-    [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-forced-ben-shapiro-to-fire-candace-owens/)
-    
-    [Israel & Zionism](https://thefreedomarticles.com/category/geopolitics/israel-zionism/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Trump Savior Rescuer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Trump Savior Rescuer](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Savior-Rescuer-80x80.jpg)](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
-    
-    [Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 2 – Video #161](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-2/)
-    
-    [Mind Control](https://thefreedomarticles.com/category/conspiracy/mind-control/), [NWO](https://thefreedomarticles.com/category/conspiracy/nwo-new-world-order/), [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Trump Savior Rescuer](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Trump Savior Rescuer](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Savior-Rescuer-80x80.jpg)](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-1/)
-    
-    [Trump, Hopium & the Savior-Rescuer in the Drama Triangle – Part 1 – Video #160](https://thefreedomarticles.com/trump-hopium-savior-rescuer-in-drama-triangle-part-1/)
-    
-    [Mind Control](https://thefreedomarticles.com/category/conspiracy/mind-control/), [NWO](https://thefreedomarticles.com/category/conspiracy/nwo-new-world-order/), [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Bilzerian Jewish Supremacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Bilzerian Jewish Supremacy](https://thefreedomarticles.com/wp-content/uploads/2024/11/Bilzerian-Jewish-Supremacy-80x80.png)](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Israel & Zionism](https://thefreedomarticles.com/category/geopolitics/israel-zionism/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Alex Jones Sandy Hook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Alex Jones Sandy Hook](https://thefreedomarticles.com/wp-content/uploads/2024/11/Alex-Jones-Sandy-Hook-80x80.jpg)](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
-    
-    [Lawyer: Alex Jones Threw the Sandy Hook Case – Video #158](https://thefreedomarticles.com/lawyer-alex-jones-threw-sandy-hook-case/)
-    
-    [Videos](https://thefreedomarticles.com/category/videos/), [Whistleblowers & Activists](https://thefreedomarticles.com/category/solutions/whistleblowers-truth-activists/)
-    
-* [![Project Esther](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Project Esther](https://thefreedomarticles.com/wp-content/uploads/2024/11/Project-Esther-80x80.png)](https://thefreedomarticles.com/will-trump-carry-out-project-esther/)
-    
-    [Will Trump Carry Out Project Esther? – Video #157](https://thefreedomarticles.com/will-trump-carry-out-project-esther/)
-    
-    [Propaganda](https://thefreedomarticles.com/category/propaganda-fake-news/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Trump Epstein relationship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Trump Epstein relationship](https://thefreedomarticles.com/wp-content/uploads/2024/11/Trump-Epstein-Raped-Girls-80x80.png)](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
-    
-    [Trump and Epstein Raped Girls Together, Remember? – Video #156](https://thefreedomarticles.com/trump-and-epstein-raped-girls-together/)
-    
-    [Pedophilia](https://thefreedomarticles.com/category/conspiracy/pedophilia/), [Political Corruption](https://thefreedomarticles.com/category/big-government/political-corruption/), [Satanism](https://thefreedomarticles.com/category/conspiracy/satanism/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-* [![Voting is Not Freedom](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2080'%3E%3C/svg%3E)
-    
-    ![Voting is Not Freedom](https://thefreedomarticles.com/wp-content/uploads/2024/11/Voting-is-Not-Freedom-80x80.jpg)](https://thefreedomarticles.com/choosing-a-new-master-is-not-freedom/)
-    
-    [Choosing a New Master is Not Freedom – Video #155](https://thefreedomarticles.com/choosing-a-new-master-is-not-freedom/)
-    
-    [Consciousness](https://thefreedomarticles.com/category/solutions/higher-consciousness/), [Sovereignty](https://thefreedomarticles.com/category/solutions/sovereignty/), [Videos](https://thefreedomarticles.com/category/videos/)
-    
-
-##### Our Contributors
-
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2093%2058'%3E%3C/svg%3E)
-
-![](https://thefreedomarticles.com/wp-content/uploads/2019/09/type-writer-contributors-page-67.jpg)](https://thefreedomarticles.com/contributors/)
-
-##### Tag Cloud
-
-[hijacked environmental movement](https://thefreedomarticles.com/tag/hijacked-environmental-movement/) [DNA repair](https://thefreedomarticles.com/tag/dna-repair/) [One World Religion](https://thefreedomarticles.com/tag/one-world-religion/) [North Korea](https://thefreedomarticles.com/tag/north-korea/) [Satanism](https://thefreedomarticles.com/tag/satanism/) [centralization of power](https://thefreedomarticles.com/tag/centralization-of-power/) [false left-right paradigm](https://thefreedomarticles.com/tag/false-left-right-paradigm/) [self-aware AI](https://thefreedomarticles.com/tag/self-aware-ai/) [Sesame Credit](https://thefreedomarticles.com/tag/sesame-credit/) [cognitive dissonance](https://thefreedomarticles.com/tag/cognitive-dissonance/) [synthetic agenda](https://thefreedomarticles.com/tag/synthetic-agenda/) [whistleblowers](https://thefreedomarticles.com/tag/whistleblowers/) [false flag formula](https://thefreedomarticles.com/tag/false-flag-formula/) [gun control agenda](https://thefreedomarticles.com/tag/gun-control-agenda/) [PNAC](https://thefreedomarticles.com/tag/pnac/) [ET whistleblower](https://thefreedomarticles.com/tag/et-whistleblower/) [Selfish Ledger](https://thefreedomarticles.com/tag/selfish-ledger/) [Illuminati](https://thefreedomarticles.com/tag/illuminati/) [Social Engineering](https://thefreedomarticles.com/tag/social-engineering/) [false dichotomy](https://thefreedomarticles.com/tag/false-dichotomy/) [SSP](https://thefreedomarticles.com/tag/ssp/) [God of Freemasonry](https://thefreedomarticles.com/tag/god-of-freemasonry/) [California wildfires](https://thefreedomarticles.com/tag/california-wildfires/) [Bill Clinton](https://thefreedomarticles.com/tag/bill-clinton/) [Archon](https://thefreedomarticles.com/tag/archon/) [DUMB](https://thefreedomarticles.com/tag/dumb/) [cannabis oil](https://thefreedomarticles.com/tag/cannabis-oil/) [US-UK-Israeli axis](https://thefreedomarticles.com/tag/us-uk-israeli-axis/) [alien agenda](https://thefreedomarticles.com/tag/alien-agenda/) [fake news](https://thefreedomarticles.com/tag/fake-news/) [Russophobia](https://thefreedomarticles.com/tag/russophobia/) [natural cancer cures](https://thefreedomarticles.com/tag/natural-cancer-cures/) [heavy metal detox](https://thefreedomarticles.com/tag/heavy-metal-detox/) [israeli nuclear program](https://thefreedomarticles.com/tag/israeli-nuclear-program/) [conspiracy fact](https://thefreedomarticles.com/tag/conspiracy-fact/) [political authority](https://thefreedomarticles.com/tag/political-authority/) [unalienable rights](https://thefreedomarticles.com/tag/unalienable-rights/) [Bush crime family](https://thefreedomarticles.com/tag/bush-crime-family/) [mass shootings](https://thefreedomarticles.com/tag/mass-shootings/) [Nazi Antarctica](https://thefreedomarticles.com/tag/nazi-antarctica/) [iodine](https://thefreedomarticles.com/tag/iodine/) [smart grid](https://thefreedomarticles.com/tag/smart-grid/) [islamophobia](https://thefreedomarticles.com/tag/islamophobia/) [ISIS](https://thefreedomarticles.com/tag/isis/) [Green New Deal](https://thefreedomarticles.com/tag/green-new-deal/) [catholic church](https://thefreedomarticles.com/tag/catholic-church/) [sex slave](https://thefreedomarticles.com/tag/sex-slave/) [Wolfowitz Doctrine](https://thefreedomarticles.com/tag/wolfowitz-doctrine/) [Sandy Hook](https://thefreedomarticles.com/tag/sandy-hook/) [weather control](https://thefreedomarticles.com/tag/weather-control/) [US interference](https://thefreedomarticles.com/tag/us-interference/) [Facebook](https://thefreedomarticles.com/tag/facebook/) [Bilderberg Group](https://thefreedomarticles.com/tag/bilderberg-group/) [cancer cure](https://thefreedomarticles.com/tag/cancer-cure/) [omega 6:3 ratio](https://thefreedomarticles.com/tag/omega-63-ratio/) [propaganda](https://thefreedomarticles.com/tag/propaganda/) [transhumanism](https://thefreedomarticles.com/tag/transhumanism/) [5G](https://thefreedomarticles.com/tag/5g/) [Syria](https://thefreedomarticles.com/tag/syria/) [vaccine-autism link](https://thefreedomarticles.com/tag/vaccine-autism-link/) [black magic](https://thefreedomarticles.com/tag/black-magic/) [Iran](https://thefreedomarticles.com/tag/iran/) [EMF](https://thefreedomarticles.com/tag/emf/) [MJ-12](https://thefreedomarticles.com/tag/mj-12/) [Rockefeller](https://thefreedomarticles.com/tag/rockefeller/) [oxidative stress](https://thefreedomarticles.com/tag/oxidative-stress/) [ex-Intelligence agents](https://thefreedomarticles.com/tag/ex-intelligence-agents/) [islam](https://thefreedomarticles.com/tag/islam/) [fake war on terror](https://thefreedomarticles.com/tag/fake-war-on-terror/) [MKUltra](https://thefreedomarticles.com/tag/mkultra/) [CIA](https://thefreedomarticles.com/tag/cia/) [question everything](https://thefreedomarticles.com/tag/question-everything/) [fake authority](https://thefreedomarticles.com/tag/fake-authority/) [jihad](https://thefreedomarticles.com/tag/jihad/) [Deep State](https://thefreedomarticles.com/tag/deep-state/) [9/11](https://thefreedomarticles.com/tag/911/) [right to travel](https://thefreedomarticles.com/tag/right-to-travel/) [post-truth world](https://thefreedomarticles.com/tag/post-truth-world/) [microbiome](https://thefreedomarticles.com/tag/microbiome/) [censorship purge](https://thefreedomarticles.com/tag/censorship-purge/) [Rothschild](https://thefreedomarticles.com/tag/rothschild/) [pivot to Asia](https://thefreedomarticles.com/tag/pivot-to-asia/) [Mind Control](https://thefreedomarticles.com/tag/mind-control/) [doublespeak](https://thefreedomarticles.com/tag/doublespeak/) [fluoride](https://thefreedomarticles.com/tag/fluoride/) [IRS](https://thefreedomarticles.com/tag/irs/) [Council on Foreign Relations](https://thefreedomarticles.com/tag/council-on-foreign-relations/) [bioweapons](https://thefreedomarticles.com/tag/bioweapons/) [petrodollar](https://thefreedomarticles.com/tag/petrodollar/) [israel](https://thefreedomarticles.com/tag/israel/) [chemtrails](https://thefreedomarticles.com/tag/chemtrails-2/) [divide and rule](https://thefreedomarticles.com/tag/divide-and-rule/) [chronic disease](https://thefreedomarticles.com/tag/chronic-disease/) [Unit 8200](https://thefreedomarticles.com/tag/unit-8200/) [IoT](https://thefreedomarticles.com/tag/iot/) [V2K](https://thefreedomarticles.com/tag/v2k/) [pedophilia](https://thefreedomarticles.com/tag/pedophilia/) [western medicine](https://thefreedomarticles.com/tag/western-medicine/) [carcinogenic](https://thefreedomarticles.com/tag/carcinogenic/) [sunni vs shia](https://thefreedomarticles.com/tag/sunni-vs-shia/) [psyops](https://thefreedomarticles.com/tag/psyops/) [common law jurisdiction](https://thefreedomarticles.com/tag/common-law-jurisdiction/) [tax exempt foundation](https://thefreedomarticles.com/tag/tax-exempt-foundation/) [radical Islamic terrorism](https://thefreedomarticles.com/tag/radical-islamic-terrorism/) [crisis actors](https://thefreedomarticles.com/tag/crisis-actors/) [glyphosate](https://thefreedomarticles.com/tag/glyphosate/) [predictive programming](https://thefreedomarticles.com/tag/predictive-programming/) [vaccine fraud](https://thefreedomarticles.com/tag/vaccine-fraud/) [NGOs](https://thefreedomarticles.com/tag/ngos/) [Russia](https://thefreedomarticles.com/tag/russia/) [everything is fake](https://thefreedomarticles.com/tag/everything-is-fake/) [NSA](https://thefreedomarticles.com/tag/nsa/) [child trafficking](https://thefreedomarticles.com/tag/child-trafficking/) [HAARP](https://thefreedomarticles.com/tag/haarp/) [micronutrients](https://thefreedomarticles.com/tag/micronutrients/) [WW3](https://thefreedomarticles.com/tag/ww3/) [depopulation](https://thefreedomarticles.com/tag/depopulation/) [Mossad](https://thefreedomarticles.com/tag/mossad/) [Shadow Government](https://thefreedomarticles.com/tag/shadow-government/) [NWO](https://thefreedomarticles.com/tag/nwo/) [QAnon hoax](https://thefreedomarticles.com/tag/qanon-hoax/) [black military operations](https://thefreedomarticles.com/tag/black-military-operations/) [Putin](https://thefreedomarticles.com/tag/putin/) [human habitat](https://thefreedomarticles.com/tag/human-habitat/) [anti-aging](https://thefreedomarticles.com/tag/anti-aging/) [cultural Marxism](https://thefreedomarticles.com/tag/cultural-marxism/) [consent of the governed](https://thefreedomarticles.com/tag/consent-of-the-governed/) [manmade global warming hoax](https://thefreedomarticles.com/tag/manmade-global-warming-hoax-2/) [R2P](https://thefreedomarticles.com/tag/r2p/) [UFOs](https://thefreedomarticles.com/tag/ufos/) [JFK](https://thefreedomarticles.com/tag/jfk/) [global carbon tax](https://thefreedomarticles.com/tag/global-carbon-tax/) [political correctness](https://thefreedomarticles.com/tag/political-correctness/) [zionism](https://thefreedomarticles.com/tag/zionism-2/) [Google](https://thefreedomarticles.com/tag/google/)
-
-##### Follow Us
-
-* [![Rumble](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Rumble")
-    
-    ![Rumble](https://thefreedomarticles.com/wp-content/uploads/2024/02/rumble_color.png "Rumble")](https://rumble.com/user/TheFreedomArticles "Rumble")
-* [![BitChute](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "BitChute")
-    
-    ![BitChute](https://thefreedomarticles.com/wp-content/uploads/2024/02/BitChute_color.png "BitChute")](https://www.bitchute.com/channel/CsISL5atFoYD/ "BitChute")
-* [![Odysee](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "Odysee")
-    
-    ![Odysee](https://thefreedomarticles.com/wp-content/uploads/2024/02/Odysee_color.png "Odysee")](https://odysee.com/@makiafreeman:8 "Odysee")
-* [![RSS](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E "RSS")
-    
-    ![RSS](https://thefreedomarticles.com/wp-content/uploads/2024/02/social_style_3_rss-512-1.png "RSS")](https://thefreedomarticles.com/feed/ "RSS")
-
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%20102'%3E%3C/svg%3E)
-
-![](https://thefreedomarticles.com/wp-content/uploads/2019/07/LiberaPay-icon.png)
-
-#### Donate
-
-**If you care about freedom, truth and independent journalism, please support us!**
-
-Our research takes lots of time and energy. Just $1 a month funds investigative reporting far superior to the MSM!
-
-[Donate](https://liberapay.com/Makia/donate)
-
-##### Subscribe to
-
-Learn How to Decode the Agenda Unique, non-partisan, insightful analysis to keep you informed and aware during these crazy times. Sign up for The Freedom Articles!
-
- 
-
-First name or full name 
-
-Email 
 
 * [© The Freedom Articles](#)
 * [Privacy Policy](https://thefreedomarticles.com/privacy-policy/)
