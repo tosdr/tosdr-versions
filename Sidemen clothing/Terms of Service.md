@@ -40,41 +40,61 @@ display information
 
 WORLDWIDE SHIPPING AVAILABLE
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
-
-WORLDWIDE SHIPPING AVAILABLE
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
 WORLDWIDE SHIPPING AVAILABLE
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
-
-WORLDWIDE SHIPPING AVAILABLE
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
 WORLDWIDE SHIPPING AVAILABLE
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
-
-WORLDWIDE SHIPPING AVAILABLE
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
 WORLDWIDE SHIPPING AVAILABLE
 
-[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
-
-WORLDWIDE SHIPPING AVAILABLE
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
 
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
 WORLDWIDE SHIPPING AVAILABLE
 
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
+
 [FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
 
 WORLDWIDE SHIPPING AVAILABLE
+
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
+
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
+
+WORLDWIDE SHIPPING AVAILABLE
+
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
+
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
+
+WORLDWIDE SHIPPING AVAILABLE
+
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
+
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
+
+WORLDWIDE SHIPPING AVAILABLE
+
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
+
+[FREE UK SHIPPING ON ORDERS OVER £100](https://www.sidemenclothing.com/collections/clothing)
+
+WORLDWIDE SHIPPING AVAILABLE
+
+[SHOP ON THE APP FOR 10% OFF EVERY ORDER](https://qrco.de/bfFWzq)
 
 Open navigation menu [Open search](https://www.sidemenclothing.com/search)
 
