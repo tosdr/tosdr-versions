@@ -243,6 +243,18 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[✨ Looking for a cozy holiday escape in San Franc ![✨ Looking for a cozy holiday escape in San Francisco? ✨ 
+I just had the perfect little getaway @innatthepresidio and it had everything I needed to get into the spirit.
+It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
+PS: The Lodge at the Presidio (@presidiolodging) is just as festive 🎄
+👉 Stay tuned for my One-Day Bucket List Itinerary for the Presidio, San Francisco.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![✨ Looking for a cozy holiday escape in San Francisco? ✨ 
+I just had the perfect little getaway @innatthepresidio and it had everything I needed to get into the spirit.
+It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
+PS: The Lodge at the Presidio (@presidiolodging) is just as festive 🎄
+👉 Stay tuned for my One-Day Bucket List Itinerary for the Presidio, San Francisco.](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDKiw-OyPg_/) 
+
 [![Come with me on the Napa Valley @winetrain 🚂 🍷 and this isn’t just any train ride—it was a 3-hour culinary journey through the heart of the Napa Valley vineyards.
 We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
 But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
@@ -300,16 +312,6 @@ Plus, you’ll pass lots of shops for a little retail therapy. A couple of my fa
 6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
 7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
 What’s on your Yountville, CA Bucket List?](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCwkMXdvIvW/) 
-
-[Save this hotel for your Yountville, California Bu ![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
-The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
-Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
-@yountvilleca @visitnapavalley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
-The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
-Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
-@yountvilleca @visitnapavalley](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCjq-XyPMhi/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
