@@ -310,7 +310,7 @@ Privacy Policy
 Overview
 ========
 
-Welcome to our Privacy page.  Here, you will find our [Web Privacy Notice](https://www.opm.gov/information-management/privacy-policy/tabs/web-privacy-notice/ "Web Privacy Notice") which outlines how we collect, maintain, use, and disseminate information.  You will also be able to review our [Privacy Impact Assessments](https://www.opm.gov/information-management/privacy-policy/tabs/privacy-impact-assessments/ "Privacy Impact Assessments"), pursuant to the e-Government Act of 2002, and our Systems of Records Notices, required by the Privacy Act of 1974.  In addition, you may access additional OPM and OMB privacy-related guidance and policies.
+Welcome to our Privacy page.  Here, you will find our [Web Privacy Notice](https://www.opm.gov/information-management/privacy-policy/tabs/web-privacy-notice/ "Web Privacy Notice") which outlines how we collect, maintain, use, and disseminate information.  You will also be able to review our [Privacy Impact Assessments](https://www.opm.gov/information-management/privacy-policy/#url=PIAs), pursuant to the e-Government Act of 2002, and our Systems of Records Notices, required by the Privacy Act of 1974.  In addition, you may access additional OPM and OMB privacy-related guidance and policies.
 
 For questions about Privacy at OPM, please contact:
 
