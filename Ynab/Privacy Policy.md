@@ -31,7 +31,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
 
 * What is YNAB?
     
-    [The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/the-four-rules)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34-Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
+    [The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/ynab-method)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34-Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
     
 * Learn
     
@@ -48,7 +48,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
 * [Start Your Free Trial](https://www.youneedabudget.com/sign-up)[Accept Your Invite](https://www.youneedabudget.com/sign-up)
 * [![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706d2a70c6755ef7adea2ed_open_book_firefly.svg)
     
-    The Method](https://www.youneedabudget.com/the-four-rules)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706d2a799240c3f3cf186cc_Cellphone_firefly.svg)
+    The Method](https://www.youneedabudget.com/ynab-method)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706d2a799240c3f3cf186cc_Cellphone_firefly.svg)
     
     The App](https://www.youneedabudget.com/features)[![](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/6706c8ac7c819ed21dd5c1f3_dollar_firefly.svg)
     
@@ -56,7 +56,7 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * What is YNAB?
     
-    [The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/the-four-rules)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34-Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
+    [The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/ynab-method)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34-Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
     
 * Learn
     
@@ -326,7 +326,7 @@ Copyright © 2024, YNAB. All Rights Reserved.
 
 What Is YNAB?
 
-[The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/the-four-rules)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34 Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
+[The App](https://www.youneedabudget.com/features)[The Method](https://www.youneedabudget.com/ynab-method)[Why YNAB Is Different](https://www.youneedabudget.com/why-ynab-is-different)[Our 34 Day Trial](https://www.youneedabudget.com/our-free-34-day-trial)[The Ultimate Get Started Guide](https://www.youneedabudget.com/guide/the-ultimate-get-started-guide)
 
 Learn
 
