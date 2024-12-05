@@ -89,11 +89,11 @@ Upon receipt of the notice containing the required information, freeup.net may:
 
 ### Recent Posts
 
+* [How to Keep Freelancers Motivated and Productivity Tips During the Holidays](https://freeup.net/blog/business-tips/how-to-keep-freelancers-motivated-and-productivity-tips-during-the-holidays/)
 * [How Freelancers Can Help You With End-of-Year Tasks and Planning for 2025](https://freeup.net/blog/business-tips/how-freelancers-can-help-you-with-end-of-year-tasks-and-planning-for-2025/)
 * [Effective Communication Tools for Remote Teams](https://freeup.net/blog/business-tips/effective-communication-tools-for-remote-teams/)
 * [Freelancer Rates Explained: What to Expect for Your Project Budget](https://freeup.net/blog/business-tips/freelancer-rates-explained-what-to-expect-for-your-project-budget/)
 * [Signs You've Found the Perfect Freelancer—and How to Retain Talent](https://freeup.net/blog/business-tips/signs-youve-found-the-perfect-freelancer-and-how-to-retain-talent/)
-* [How Long Does It Take to Edit a YouTube Video?](https://freeup.net/blog/business-tips/how-long-does-it-take-to-edit-a-youtube-video/)
 
 [![FreeUp Logo](https://freeup.net/wp-content/themes/rare/src/images/imgs/freeup__logo--white.svg)](https://freeup.net/)
 
