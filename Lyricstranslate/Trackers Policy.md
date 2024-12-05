@@ -139,63 +139,63 @@ Site activity
 
 [![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
-New comment
-
-Hi, https://lyricstranslate.com/es/...  [more](https://lyricstranslate.com/en/comment/1179726#comment-1179726)
-
-[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
-
-New translation
-
-[Legião Urbana - Tempo Perdido](https://lyricstranslate.com/en/legiao-urbana-tempo-perdido-english)
-
-Portuguese → English
-
-[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
-
-New translation
-
-[Milton Nascimento - Tudo Que Você Podia Ser](https://lyricstranslate.com/en/milton-nascimento-tudo-que-voce-podia-ser-english-0)
-
-Portuguese → English
-
-[![unamuno](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619786-1717115102.jpg)](https://lyricstranslate.com/en/translator/unamuno "unamuno")
-
-New translation
-
-[Barão Vermelho - Bete Balanço](https://lyricstranslate.com/en/barao-vermelho-bete-balanco-english-0)
-
-Portuguese → English
-
-[![Ernesto Puglisi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1609130-1708340696.jpg)](https://lyricstranslate.com/en/translator/ernesto-puglisi "Ernesto Puglisi")
-
-New translation
-
-[Connie Francis - La paloma (III)](https://lyricstranslate.com/en/connie-francis-la-paloma-iii-italian)
-
-Spanish → Italian
-
-[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1733076758.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
-
 New song
 
-[Shawn Christmas‬ - Same Mistakes](https://lyricstranslate.com/en/shawn-christmas-same-mistakes-lyrics)
+[K.d. Lang - Close Your Eyes](https://lyricstranslate.com/en/kd-lang-close-your-eyes-lyrics)
 
 English
 
-[![LanternV](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1543785-1724652356.jpg)](https://lyricstranslate.com/en/translator/lanternv "LanternV")
+[![missterkat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1400334-1553104624.jpg)](https://lyricstranslate.com/en/translator/missterkat "missterkat")
 
-New song
+New translation
 
-[D'espairsray - Kaleidoscope](https://lyricstranslate.com/en/despairsray-kaleidoscope-lyrics)
+[Valery Meladze - Не купишь любовь (Ne kupish' lyubov')](https://lyricstranslate.com/en/valery-meladze-ne-kupish-lyubov-spanish)
 
-Japanese
+Russian → Spanish
 
-[![Samiezoo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472786-1733076758.jpg)](https://lyricstranslate.com/en/translator/samiezoo "Samiezoo")
+[![ginos132](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1234850-1715549073.jpg)](https://lyricstranslate.com/en/translator/ginos132 "ginos132")
+
+New translation
+
+[David Parejo - Tú](https://lyricstranslate.com/en/david-parejo-tu-occitan)
+
+Spanish → Occitan
+
+[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1726075144.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
+
+New translation
+
+[Metallica - So What](https://lyricstranslate.com/en/metallica-so-what-romanian)
+
+English → Romanian
+
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New comment
 
-The crash usually occurs randomly, the page will ...  [more](https://lyricstranslate.com/en/comment/1179725#comment-1179725)
+\[video:https://www.youtube.com/...  [more](https://lyricstranslate.com/en/comment/1180059#comment-1180059)
+
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+
+New song
+
+[K.d. Lang - Sunday](https://lyricstranslate.com/en/kd-lang-sunday-lyrics)
+
+English
+
+[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+
+New translation
+
+[3000 Leagues in Search of Mother (OST) - かあさんの子守唄 (Kāsan no komori uta)](https://lyricstranslate.com/en/3000-leagues-sear-kasan-no-komori-uta-english)
+
+Japanese → English
+
+[![Flopsi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1331196-1552841802.jpg)](https://lyricstranslate.com/en/translator/flopsi "Flopsi")
+
+New comment
+
+Lieben Dank!  [more](https://lyricstranslate.com/en/comment/1180058#comment-1180058)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
