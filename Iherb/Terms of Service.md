@@ -1137,7 +1137,7 @@ Wohlbefinden & Pflege
 
 Mehr
 
-[20% off Seasonal Favorites
+[\-20% auf Essentials für den Winter
 
 ‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/seasonal-favorites)
 
