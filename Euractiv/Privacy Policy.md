@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[04-12-2024
+[05-12-2024
 
-Cyprus pushes for more joint procurement of medicines, starting with cancer drugs](https://www.euractiv.com/section/health-consumers/news/cyprus-pushes-for-more-joint-procurement-of-medicines-starting-with-cancer-drugs/)[04-12-2024
+Bitcoin storms above $100,000 as bets on Trump fuel crypto euphoria](https://www.euractiv.com/section/economy-jobs/news/bitcoin-storms-above-100000-as-bets-on-trump-fuel-crypto-euphoria/)[05-12-2024
 
-French left and far-right bring down Barnier government](https://www.euractiv.com/section/all/news/french-left-and-far-right-bring-down-barnier-government/)[04-12-2024
+Azerbaijan denounces Western criticism of human rights as foreign interference](https://www.euractiv.com/section/global-europe/news/azerbaijan-denounces-western-criticism-of-human-rights-as-foreign-interference/)[05-12-2024
 
-Pressure mounts on EU for radical change to fishing quotas system](https://www.euractiv.com/section/agriculture-food/news/pressure-mounts-for-radical-change-to-fishing-quotas-system/)[04-12-2024
+US, Britain disrupt global money laundering network used by Russians](https://www.euractiv.com/section/global-europe/news/us-britain-disrupt-global-money-laundering-network-used-by-russians/)[05-12-2024
 
-NATO promises better strategy against cyber attacks and undersea cables](https://www.euractiv.com/section/global-europe/news/nato-promises-better-strategy-against-cyber-attacks-and-undersea-cables/)[04-12-2024
+Slovakia doubts Ukraine military victory, communication channels with ‘nuclear’ Russia needed](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-doubts-ukraine-military-victory-communication-channels-with-nuclear-russia-needed/)[05-12-2024
 
-Germany’s Scholz urges opposition to agree on economic relief ahead of snap elections](https://www.euractiv.com/section/economy-jobs/news/germanys-scholz-urges-opposition-to-agree-on-economic-relief-ahead-of-snap-elections/)[04-12-2024
+Czechs see Russian ‘games’ after Moscow halts oil supply](https://www.euractiv.com/section/politics/news/czechs-see-russian-games-after-moscow-halts-oil-supply/)[05-12-2024
 
-Brussels kicks off delayed negotiations on anti-greenwashing law](https://www.euractiv.com/section/eet/news/brussels-kicks-off-delayed-negotiations-on-anti-greenwashing-law/)[04-12-2024
+Polish MEP Jarubas likely to become head of new health committee](https://www.euractiv.com/section/politics/news/polish-mep-jarubas-likely-to-become-head-of-new-health-committee/)[05-12-2024
 
-Romanian hard right says it wants to be part of new government](https://www.euractiv.com/section/politics/news/romanian-hard-right-says-it-wants-to-be-part-of-new-government/)[04-12-2024
+Portuguese mayors urge Spain to press ahead with high-speed rail works](https://www.euractiv.com/section/politics/news/portuguese-mayors-urge-spain-to-press-ahead-with-high-speed-rail-works/)[05-12-2024
 
-Trump’s plan for Ukraine: Territorial concessions but NATO off the table](https://www.euractiv.com/section/global-europe/news/trumps-plan-for-ukraine-territorial-concessions-but-nato-off-the-table/)[04-12-2024
+Investigation into irregular party funding widened against SALF’s Pérez](https://www.euractiv.com/section/politics/news/investigation-into-irregular-party-funding-widened-against-salfs-perez/)[05-12-2024
 
-South Korean president faces impeachment calls after martial law debacle](https://www.euractiv.com/section/global-europe/news/south-korean-president-faces-impeachment-calls-after-martial-law-debacle/)[04-12-2024
+Meloni and Orbán strengthen ties amid growing European challenges](https://www.euractiv.com/section/politics/news/meloni-and-orban-strengthen-ties-amid-growing-european-challenges/)[05-12-2024
 
-Syria rebels ‘at gates’ of key city Hama, Putin urges Erdoğan to end the offensive](https://www.euractiv.com/section/global-europe/news/syria-rebels-at-gates-of-key-city-hama-putin-urges-erdogan-to-end-the-offensive/)
+Russian warship fires on German helicopter as tensions in Baltic Sea rise](https://www.euractiv.com/section/politics/news/russian-warship-fires-on-german-helicopter-as-tensions-in-baltic-sea-rise/)
 
 ###### Advertisement
 
