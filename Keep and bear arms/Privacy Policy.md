@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 908 active visitors** | **Thursday, December 05, 2024** |
+| **You are 1 of 749 active visitors** | **Thursday, December 05, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**After having thus successively taken each member of the community in its powerful grasp and fashioned him at will, the supreme power then extends its arm over the whole community. It covers the surface of society with a network of small, complicated rules, minute and uniform, through which the most original minds and the most energetic characters cannot penetrate, to rise above the crowd. The will of man is not shattered, but softened, bent, and guided; men seldom forced by it to act, but they are constantly restrained from acting. Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd. � Alexis de Tocqueville
+ **QUOTES TO REMEMBER**The pool of guns that get turned in in buybacks are simply not the same guns that would otherwise have been used in crime. � Harvard professor David Kennedy, as reported on FoxNews
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
