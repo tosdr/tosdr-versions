@@ -543,11 +543,10 @@ The notices are clearly posted, either at the point of collection or through an 
 * Additional Resources
 * [Experian Social Media](https://www.experian.com/corporate/experian-community "Experian Social Media")
 * [Reporting to Experian](https://www.experian.com/consumer-information/reporting-to-credit-agencies "Reporting to Experian")
-* [Thought Leadership](https://www.experian.com/innovation/thought-leadership "Thought Leadership")
+* [Thought Leadership](https://www.experian.com/thought-leadership/ "Thought Leadership")
 
 * Blogs
 * [Business Information](https://www.experian.com/blogs/business-information/ "Business Information")
-* [Data Breach Resolution](https://www.experian.com/blogs/data-breach/ "Data Breach Resolution")
 * [Data Quality Trends](https://www.edq.com/blog/ "Data Quality Trends")
 * [Experian Insights](https://www.experian.com/blogs/insights/ "Experian Insights")
 * [Healthcare](https://www.experian.com/blogs/healthcare/ "Healthcare")
