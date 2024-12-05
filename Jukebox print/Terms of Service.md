@@ -302,8 +302,6 @@ EUR
     
     Information[#### Perfect Bound Books](https://www.jukeboxprint.com/perfect-bound-booklet-printing)[Unique, stylish, and sturdy perfect bound books. Versatile book-making service for catalogs, cookbooks, and publishing books, with lasting quality, any page count, and your choice of stock.](https://www.jukeboxprint.com/perfect-bound-booklet-printing)
     
-    Information[#### Saddle Stitch Booklets](https://www.jukeboxprint.com/saddle-stitched-booklets)[Saddle stitched booklets are perfect for magazines, event programs, catalogs and more.](https://www.jukeboxprint.com/saddle-stitched-booklets)
-    
     Information[#### Custom Notebooks](https://www.jukeboxprint.com/custom-notebooks)[Whether you want to bind your product catalogs or informative booklets, we provide our customers with perfect bound books. Unlike traditional saddle stitched method of binding, the perfect bound method is unique, stylish and gives your books a cleaner finish. With this versatile service, you can not only create catalogs and booklets but also storybooks, yearly diaries, and notebooks, which can be used in-store, at events and trade shows.](https://www.jukeboxprint.com/custom-notebooks)
     
     Information[#### Wire-O Binding](https://www.jukeboxprint.com/wire-o-binding)[Custom-made Wire-o books: the blend of elegance & durability. Perfect for standout projects. Dive into modern bookbinding elegance!](https://www.jukeboxprint.com/wire-o-binding)
