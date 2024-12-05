@@ -96,9 +96,9 @@ SHOW MENU
 
 CLOSE
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/siteLogo-jworg-print.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/3329e59cc6/images/siteLogo-jworg-print.png)
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/siteLogo-jworg-print-rtl.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/3329e59cc6/images/siteLogo-jworg-print-rtl.png)
 
 [JW.ORG](https://www.jw.org/en/ "Go to the JW.ORG home page")
 
@@ -295,7 +295,7 @@ English
 
 Terms of Use
 
-https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/syn\_placeholder\_sqr.png
+https://assetsnffrgf-a.akamaihd.net/assets/ct/3329e59cc6/images/syn\_placeholder\_sqr.png
 
 ##### JW.ORG® **/ OFFICIAL WEBSITE OF JEHOVAH’S WITNESSES**
 
