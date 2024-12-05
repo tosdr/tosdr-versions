@@ -115,6 +115,7 @@ Offres & Services
 * [Free Transfert](https://transfert.free.fr/upload)
 * [Carte fibre / ADSL](https://www.free.fr/freebox/carte-fibre-optique/)
 * [Plan du site](https://www.free.fr/plan-du-site/)
+* [Free x CORAIL°](https://www.free.fr/freebox/baskets-freexcorail/)
 
 Abonné
 
@@ -162,6 +163,7 @@ Offres & Services
 * [Free Transfert](https://transfert.free.fr/upload)
 * [Carte fibre / ADSL](https://www.free.fr/freebox/carte-fibre-optique/)
 * [Plan du site](https://www.free.fr/plan-du-site/)
+* [Free x CORAIL°](https://www.free.fr/freebox/baskets-freexcorail/)
 
 Abonné
 
