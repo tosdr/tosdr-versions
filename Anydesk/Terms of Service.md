@@ -476,7 +476,7 @@ At AnyDesk, we want to provide the best experience and most innovative technolog
 
 ##### Contact sales
 
- [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-4edfa4.svg)](tel:+18332693375) 
+ [![](/_static/icons/white/bold/phone-9be7e0.svg) +1 833 269 3375![](/_static/icons/red/bold/arrow-button-right-1-acd1f2.svg) ![](/_static/icons/white/bold/arrow-button-right-1-d8f1ad.svg)](tel:+18332693375) 
 
 ### Sign up for news, tips and more
 
