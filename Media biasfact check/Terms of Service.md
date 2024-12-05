@@ -207,14 +207,14 @@ No related posts.
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [MBFC's Daily Vetted Fact Checks for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/mbfcs-daily-vetted-fact-checks-for-12-04-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
+* [Reuters - Bias and Credibility](https://mediabiasfactcheck.com/reuters/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Search](https://mediabiasfactcheck.com/search/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
