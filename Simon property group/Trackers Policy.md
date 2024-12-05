@@ -355,8 +355,6 @@ ShopSimon™
 
 [Earn Rewards](https://shop.simon.com/pages/rewards?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONREWARDS "Join or Login to ShopSimon Rewards")
 
-[Sell With Us](https://shop.simon.com/pages/brand-application?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONSELLWITHUS "Partner to Sell Your Online Sale, Clearance or Outlet Products On ShopSimon")
-
 [Help & FAQs](https://support.shopsimon.com/hc/en-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_SHOPSIMONHELP "Get Answers and Support for All Things ShopSimon")
 
 [Contact ShopSimon](https://shop.simon.com/pages/contact-us?utm_source=Simon&utm_medium=Footer&utm_campaign=Simon_Footer_CONTACTSHOPSIMON "Contact the ShopSimon Team")
