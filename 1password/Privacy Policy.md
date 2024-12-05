@@ -206,7 +206,7 @@ Secure Data is hosted where an Individual or Business customer chooses (currentl
 
 Service Data, Diagnostic Data, and other information we process may be accessed from, processed, or transferred to countries other than the country in which you reside or in which the data is hosted. Our employees may access your information from various countries around the world. Those countries may have data protection laws that are different from the laws of your country.
 
-Our customer support and email services are hosted primarily in the United States and Canada. Any information you choose to send us through email or our customer support system may pass through and be stored on a variety of intermediate services. If you wish, you may encrypt email to us using our [PGP public key](https://1password.com/support-at-agilebits-pubkey-42F3D4D4.asc).
+Our customer support and email services are hosted primarily in the United States and Canada. Any information you choose to send us through email or our customer support system may pass through and be stored on a variety of intermediate services. If you wish, you may encrypt email to us using our [PGP public key](https://1password.com/files/support-at-agilebits-pubkey-42F3D4D4.asc).
 
 We have taken appropriate steps and put safeguards in place to help ensure that any access, processing, or transfer of your information remains protected in accordance with this Privacy Notice and in compliance with applicable data protection law. Such measures provide your information with a standard of protection that is at least comparable to that under the equivalent local law in your country, no matter where your data is accessed from, processed, or transferred.
 
@@ -267,7 +267,7 @@ Privacy Office
 
 To exercise your rights and choices, email [privacy@1password.com](mailto:privacy@1password.com).
 
-To send us an encrypted email, use [1Password’s PGP public key](https://1password.com/support-at-agilebits-pubkey-42F3D4D4.asc).
+To send us an encrypted email, use [1Password’s PGP public key](https://1password.com/files/support-at-agilebits-pubkey-42F3D4D4.asc).
 
 If you’re not satisfied with our response, you have the option of contacting the [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/contact-the-opc/).
 
