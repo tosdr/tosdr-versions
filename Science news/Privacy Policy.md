@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Dietary evidence bolsters Clovis hunters’ reputation as mammoth killers](https://www.sciencenews.org/article/dietary-clovis-hunters-mammoth-killers)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")8 hours ago
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")14 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change is driving trees away from crucial fungi](https://www.sciencenews.org/article/climate-change-driving-trees-from-fungi)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")12 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")18 hours ago
             
         * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
             
             ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")14 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")20 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")14 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")20 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
