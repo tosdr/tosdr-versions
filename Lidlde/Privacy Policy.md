@@ -320,15 +320,11 @@ Die Log-Files werden für einen Zeitraum von sieben Tagen gespeichert und danach
 
 Verantwortlicher
 
-  
-
 Verantwortlicher für die Datenverarbeitungen zur Abwicklung von Kaufverträgen ist die Lidl Digital.
 
   
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen
-
-  
 
 Tätigkeitsgegenstand der Lidl Digital ist der Fernabsatz von Waren und Dienstleistungen. In diesem Zusammenhang verarbeitet die Lidl Digital die für Abschluss, Durchführung und Beendigung von Verträgen erforderlichen Daten. Hierzu zählen insbesondere:
 
@@ -372,8 +368,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer
   
 
 Die für die Vertragsabwicklung erhobenen Daten werden bis zum Ablauf der gesetzlichen/ vertraglichen Gewährleistungs- und Garantierechte gespeichert. Nach Ablauf dieser Frist bewahren wir die nach Handels- und Steuerrecht erforderlichen Informationen für den gesetzlich bestimmten Zeitraum auf. Für diesen Zeitraum (regelmäßig zehn Jahre ab Vertragsschluss) werden die Daten allein für den Fall einer Überprüfung durch die Finanzverwaltung sowie bei Kundenanfragen erneut verarbeitet.
-
-  
 
 6\. Sicherung des Bestellvorgangs und Auswahl der Zahlarten
 
@@ -1727,7 +1721,7 @@ Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO für die Beantwortung von Anfra
 
   
 
-Soweit die Anfrage im Zusammenhang mit unserem Online-Shop steht, ist die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm i.S.d. Artikel 7 Ziffer 7 DSGVO verantwortliche Stelle. Der betriebliche Datenschutzbeauftragte der Lidl Digital Deutschland GmbH & Co. KG ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) erreichbar.
+Soweit die Anfrage im Zusammenhang mit unserem Onlineshop steht, ist die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm i.S.d. Artikel 7 Ziffer 7 DSGVO verantwortliche Stelle.
 
   
 
@@ -1806,7 +1800,7 @@ Bei gemeinsam für die Verarbeitung Verantwortlichen erhalten Sie die entspreche
 
 Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an den Datenschutzbeauftragten der jeweiligen verantwortlichen Stelle.
 
-Diesen erreichen Sie für die Lidl Digital Deutschland GmbH & Co. KG unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) und für die Lidl Stiftung & Co. KG unter [datenschutz@lidl.com](mailto:datenschutz@lidl.com).
+Diesen erreichen Sie für die Lidl Stiftung & Co. KG unter [datenschutz@lidl.com](mailto:datenschutz@lidl.com).
 
 Bei Geschäftsbeziehungen mit der Lidl Dienstleistung GmbH & Co. KG, der NFN GmbH & Co. KG oder einer Lidl Regionalgesellschaft erreichen Sie den Datenschutzbeauftragten unter [datenschutzbeauftragter@lidl.de](mailto:datenschutzbeauftragter@lidl.de).
 
@@ -1819,7 +1813,7 @@ Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO für die Beantwortung von Kunde
 
   
 
-Soweit Ihre Kundenanfrage im Zusammenhang unserem **Online-Shop** oder dort erworbene Produkte steht, ist die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm i.S.d. Artikel 4 Ziffer 7 DSGVO verantwortliche Stelle. Der betriebliche Datenschutzbeauftragte der **Lidl Digital Deutschland GmbH & Co. KG** ist unter der o.g. Anschrift zu Händen des Datenschutzbeauftragten bzw. unter datenschutz@lidl-shop.de erreichbar.
+Soweit Ihre Kundenanfrage im Zusammenhang mit unserem **Onlineshop** oder dort erworbene Produkte steht, ist die Lidl Digital Deutschland GmbH & Co. KG, Stiftsbergstraße 1, 74172 Neckarsulm i.S.d. Artikel 4 Ziffer 7 DSGVO verantwortliche Stelle.
 
   
 
@@ -2216,11 +2210,7 @@ Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste ent
 
 Vielen Dank für das Interesse an der Filialbewertung aus Kundensicht.
 
-  
-
 Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. Wir sind daher bestrebt, Ihr Recht auf informationelle Selbstbestimmung zu gewährleisten. Im Folgenden möchten wir Ihnen erläutern, welche personenbezogenen Daten wir wann und zu welchem Zweck erheben, verarbeiten und nutzen.
-
-  
 
 ### 1\. Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO
 
@@ -2241,8 +2231,6 @@ datenschutz@lidl.de
   
 
 der für die Datenverarbeitung Verantwortliche i.S.d. Artikel 4 Ziffer 7 DSGVO.
-
-  
 
 ### 2\. Benutzung des Bewertungstools
 
@@ -2362,8 +2350,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste entnehmen.
 
-  
-
 ### 3\. Kundenbefragung zur Einkaufserfahrung
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
@@ -2386,8 +2372,6 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Die Speicherdauer der Umfragedaten beträgt 12 Monate, dann werden alle Werte auf den Beginn des jeweiligen Monats der Umfragedurchführung aggregiert, sodass kein Zeitbezug der Umfragedaten möglich ist.
 
-  
-
 ### 4\. Gewinnspiel
 
 Zweck der Datenverarbeitung/ Rechtsgrundlage:
@@ -2406,11 +2390,7 @@ Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
 Nach Ende des Gewinnspiels und Bekanntgabe der Gewinner werden die personenbezogenen Daten der Teilnehmer gelöscht. Die Daten der Gewinner werden bei Sachgewinnen für die Dauer der gesetzlichen Gewährleistungsansprüche aufbewahrt, um bei einem Mangel gegebenenfalls eine Nachbesserung oder einen Austausch zu veranlassen.
 
-### 5\. Übermittlung an Empfänger in einem Drittland
-
-Sofern wir Daten an Empfänger in einem Drittland (Sitz außerhalb des Europäischen Wirtschaftsraumes) übermitteln, können Sie dies den Angaben zu den Empfängern/ Kategorien von Empfängern im Rahmen der Beschreibung der jeweiligen Datenverarbeitung entnehmen. Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutzstandard, der dem Niveau im europäischen Wirtschaftsraum vergleichbar ist. Eine Liste dieser Länder können Sie unter [https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF) abrufen. Soweit in einem Land kein vergleichbarer Datenschutzstandard gegeben ist bzw. der entsprechende Dienstleister nicht den Bedingungen des Angemessenheitsbeschlusses entspricht, achten wir darauf, dass der Datenschutz durch andere Maßnahmen ausreichend gewährleistet wird. Möglich ist dies z.B. über bindende Unternehmensvorschriften, [Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_de), Zertifikate, oder anerkannte Verhaltenskodizes. Bitte wenden Sie sich an unseren Datenschutzbeauftragten (Ziffer 21), wenn Sie hierzu nähere Informationen erhalten möchten.
-
-### 6\. Rechte der Nutzer
+### 5\. Rechte der Nutzer
 
 Sie haben das Recht, nach Art. 15 Abs. 1 DSGVO auf Antrag unentgeltlich Auskunft über die bei uns zu Ihrer Person gespeicherten personenbezogenen Daten zu erhalten.
 
@@ -2438,9 +2418,7 @@ Wenden Sie sich bitte in den zuvor genannten Fällen, bei offenen Fragen oder im
 
 Zudem steht Ihnen ein Recht zur Beschwerde bei einer Datenschutz-Aufsichtsbehörde zu. Zuständig ist die Datenschutz-Aufsichtsbehörde des Bundeslandes, in dem Sie wohnen oder in dem der Verantwortliche seinen Sitz hat.
 
-  
-
-### 7\. Weitere Fragen
+### 6\. Weitere Fragen
 
 Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an unseren
 
@@ -2462,15 +2440,11 @@ datenschutz@lidl.de
 
 Vielen Dank für das Interesse an der Lidl-Kundenumfrage.
 
-  
-
 Der Schutz Ihrer personenbezogenen Daten ist uns sehr wichtig. Wir sind daher bestrebt, Ihr Recht auf informationelle Selbstbestimmung zu gewährleisten. Im Folgenden möchten wir Ihnen erläutern, welche personenbezogenen Daten wir wann und zu welchem Zweck erheben, verarbeiten und nutzen.
 
   
 
 **1\. Verantwortlicher i.S.d. Artikel 4 Ziffer 7 DSGVO**
-
-  
 
 Sofern in den einzelnen Abschnitten (hervorgehoben durch die Überschriften) dieser Datenschutzgrundsätze nichts Abweichendes angegeben wird, ist die
 
@@ -2492,19 +2466,11 @@ der für die Datenverarbeitung Verantwortliche i.S.d. Artikel 4 Ziffer 7 DSGVO.
 
 **2\. Benutzung des Bewertungstools**
 
-  
-
 **2.1 Protokolldateien**
-
-  
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
-  
-
 Beim Aufrufen unserer Webseite werden durch den auf Ihrem Endgerät zum Einsatz kommenden Browser automatisch und ohne Ihr Zutun
-
-  
 
 * die IP-Adresse des anfragenden internetfähigen Gerätes,
 * das Datum und die Uhrzeit des Zugriffs,
@@ -2516,18 +2482,12 @@ Beim Aufrufen unserer Webseite werden durch den auf Ihrem Endgerät zum Einsatz 
 * die Anzahl Ihrer bisherigen Teilnahmen an Umfragen,
 * die Dauer, die für die Beantwortung der Umfragen benötigt wird,
 
-  
-
 an den Server unserer Webseite gesendet und temporär in einem sogenannten Log-File für folgende Zwecke gespeichert:
-
-  
 
 * Gewährleistung eines reibungslosen Verbindungsaufbaus,
 * Gewährleistung einer komfortablen Nutzung unserer Webseite/ Applikation
 * Ausschluss von Betrugsversuchen bei Umfragen und
 * Auswertung der Systemsicherheit und -stabilität.
-
-  
 
 Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Unser berechtigtes Interesse besteht in den oben aufgelisteten Zwecken der Datenverarbeitung.
 
@@ -2535,56 +2495,30 @@ Die Rechtsgrundlage für die Verarbeitung der IP-Adresse ist Artikel 6 Absatz 1 
 
 Empfänger/ Kategorien von Empfänger:
 
-  
-
 Wir setzen im Rahmen der Bereitstellung unserer Kundenumfrage spezialisierte Dienstleister, insbesondere aus dem Bereich Kundenumfragen, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet. Sämtliche in unserer Cookieliste (siehe Ziffer 2.2) als Anbieter aufgeführten Unternehmen sind als Auftragsverarbeiter für uns tätig.
-
-  
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
-  
-
 Die Daten bezüglich der Dauer der Beantwortung der Umfragen werden nach 90 Tagen archiviert und sodann nach weitere 14 Tage endgültig gelöscht. Das ist notwendig, um eine langfristige Auswertung der Umfragen unter Ausschluss von Betrugsversuchen zu ermöglichen.
-
-  
 
 Die restlichen Protokolldaten werden nach 7 Tagen archiviert und nach 14 Tagen endgültig gelöscht.
 
-  
-
 **2.2 Einsatz von Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten**
-
-  
 
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
 
-  
-
 Wir, die Lidl Digital Deutschland GmbH & Co. KG sind Verantwortliche für die Datenverarbeitungen im Zusammenhang mit dem Einsatz sogenannter **Cookies** und anderer ähnlicher **Technologien zur Verarbeitung von Nutzungsdaten** auf allen (Sub-) Domains unter [https://survey2.medallia.eu/](https://survey2.medallia.eu/).
-
-  
 
 Bei **Cookies** handelt es sich um kleine Textdateien, die auf Ihrem Endgerät (Laptop, Tablet, Smartphone o.ä.) gespeichert werden, wenn Sie unsere Webseite besuchen. Cookies richten auf Ihrem Endgerät keinen Schaden an, enthalten keine Viren, Trojaner oder sonstige Schadsoftware. In dem Cookie werden Informationen abgelegt, die sich jeweils im Zusammenhang mit dem spezifisch eingesetzten Endgerät ergeben. Dies bedeutet jedoch nicht, dass wir dadurch unmittelbar Kenntnis von Ihrer Identität erhalten.
 
-  
-
 Der Einsatz von technisch notwendigen Cookies und die anderen technisch notwendigen Technologien zur Verarbeitung von Nutzungsdaten dienen der Bereitstellung unserer Umfrage.
-
-  
 
 Eine **Informationsübersicht** zu den eingesetzten Cookies und anderen Techniken nebst den jeweiligen Verarbeitungszwecken, den Speicherdauern und etwa eingebundenen Drittanbietern finden Sie unten in unserer Cookieliste.
 
-  
-
 Im Rahmen des Einsatzes von technisch notwendigen Cookies und ähnlichen notwendigen Techniken zur Verarbeitung von Nutzungsdaten werden abhängig von der Zwecksetzung insbesondere die folgenden Arten personenbezogener Daten verarbeitet:
-
-  
 
 * Benutzereingaben, um Eingaben über mehrere Unterseiten zu behalten (z.B. Speicherung Ihre Cookie-Einwilligung);
 * sicherheitsrelevante Ereignisse (z.B. Erkennung von betrügerischem Eingabe-Verhalten).
-
-  
 
 Rechtsgrundlage für den Einsatz von technisch notwendigen Cookies ist Artikel 6 Absatz 1 Buchstabe f) DSGVO. Wir verarbeiten Ihre Daten also auf Grundlage unseres (gleichlaufenden) berechtigten Interesses an der Erhebung von Daten zur Verbesserung des Einkaufserlebens in unseren Filialen, unserem Onlineshop sowie unseren Apps.
 
@@ -2638,15 +2572,9 @@ Cookie-Übersicht:
 
 Empfänger/ Kategorien von Empfänger:
 
-  
-
 Wir setzen im Rahmen der Datenverarbeitungen mittels Cookies und ähnlichen Techniken zur Verarbeitung von Nutzungsdaten spezialisierte Dienstleister, insbesondere aus dem Bereich Kundenumfragen, ein.
 
-  
-
 Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet. Sämtliche in unserer vorstehenden Cookieliste als Anbieter aufgeführten Unternehmen sind als Auftragsverarbeiter für uns tätig.
-
-  
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
@@ -2656,19 +2584,11 @@ Die Speicherdauer für Cookies können Sie unserer obenstehenden Cookieliste ent
 
 **3\. Kundenbefragung zur Einkaufserfahrung**
 
-  
-
 Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
-
-  
 
 Im Rahmen der Kundenbefragung erheben wir Daten zu Ihrem subjektiven Einkaufserleben und Ihren Einkaufspräferenzen. Zweck ist die kontinuierliche Verbesserung Ihres Einkaufserlebens in unseren Filialen, unserem Onlineshop sowie unseren Apps.
 
-  
-
 Sofern Sie an einer unserer Kundenbefragung teilnehmen, geschieht dies auf rein freiwilliger Basis. Bei diesen anonymen Befragungen werden keine Informationen gespeichert, die Rückschlüsse auf die Teilnehmer der Befragungen zulassen. Nur das Datum und die Zeit Ihrer Teilnahme werden gespeichert. Alle Informationen, die Sie während der Beantwortung unserer Befragung angeben, werden als freiwillig angegeben angesehen und nach Maßgabe der DSGVO gespeichert. Bitte verzichten Sie in den Freitextfeldern auf die Nennung von Namen oder ähnlichem, die Rückschlüsse auf Sie oder andere Personen ermöglichen.
-
-  
 
 Rechtsgrundlage für diese Verarbeitungen ist unser gleichlaufendes, berechtigtes Interesse an der Verbesserung Ihres Einkaufserlebnisses in unseren Filialen, unserem Onlineshop sowie unseren Apps i.S.d. Artikel 6 Absatz 1 Buchstabe f) DSGVO.
 
@@ -2676,83 +2596,79 @@ Rechtsgrundlage für diese Verarbeitungen ist unser gleichlaufendes, berechtigte
 
 Empfänger/ Kategorien von Empfängern:
 
-  
-
 Wir setzen im Rahmen der Datenverarbeitungen spezialisierte Dienstleister, insbesondere aus dem Bereich Kundenumfragen, ein. Diese verarbeiten Ihre Daten in unserem Auftrag als Auftragsverarbeiter, sind jeweils sorgfältig ausgesucht und vertraglich gemäß Artikel 28 DSGVO verpflichtet.
 
   
 
 Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
 
-  
-
 Die Kundenbefragungen erfolgen auf rein anonymisierter Basis. Sofern Sie im Rahmen der Befragung trotzdem personenbezogene Daten angeben, werden diese nach Kenntnisnahme unverzüglich gelöscht bzw. anonymisiert.
 
   
 
-**6\. Übermittlung an Empfänger in einem Drittland**
-
-  
-
-Sofern wir Daten an Empfänger in einem Drittland (Sitz außerhalb des Europäischen Wirtschaftsraumes) übermitteln, können Sie dies den Angaben zu den Empfängern/ Kategorien von Empfängern im Rahmen der Beschreibung der jeweiligen Datenverarbeitung entnehmen. Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutzstandard, der dem Niveau im europäischen Wirtschaftsraum vergleichbar ist. Eine Liste dieser Länder können Sie unter
-
-[https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions\_en#:~:text=The%20European%20Commission%20has%20so%20far%20recognised%20Andorra%2C,Privacy%20Framework%29%20and%20Uruguay%20as%20providing%20adequate%20protection](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so%20far%20recognised%20Andorra%2C,Privacy%20Framework%29%20and%20Uruguay%20as%20providing%20adequate%20protection).
-
-[https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF](https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2010:039:0005:0018:DE:PDF) abrufen. Soweit in einem Land kein vergleichbarer Datenschutzstandard gegeben ist bzw. der entsprechende Dienstleister nicht den Bedingungen des Angemessenheitsbeschlusses entspricht, achten wir darauf, dass der Datenschutz durch andere Maßnahmen ausreichend gewährleistet wird. Möglich ist dies z.B. über bindende Unternehmensvorschriften, [Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_de), Zertifikate, oder anerkannte Verhaltenskodizes. Bitte wenden Sie sich an unseren Datenschutzbeauftragten (Ziffer 21), wenn Sie hierzu nähere Informationen erhalten möchten.
-
-  
-
-  
-
-**7\. Rechte der Nutzer**
-
-  
+**4\. Rechte der Nutzer**
 
 Sie haben das Recht, nach Artikel 15 Absatz 1 DSGVO und § 34 BDSG auf Antrag unentgeltlich Auskunft über die bei uns zu Ihrer Person gespeicherten personenbezogenen Daten zu erhalten.
 
-  
-
 Zusätzlich haben Sie bei Vorliegen der gesetzlichen Voraussetzungen ein Recht auf Berichtigung (Artikel 16 DSGVO), Löschung (Artikel 17 DSGVO) und Einschränkung der Verarbeitung (Artikel 18 DSGVO) Ihrer personenbezogenen Daten.
-
-  
 
 Sofern die Datenverarbeitung auf Grundlage des Artikel 6 Abssatz 1 Buchstabe f) DSGVO beruht, steht Ihnen nach Artikel 21 DSGVO ein Widerspruchsrecht zu. Soweit Sie einer Datenverarbeitung widersprechen, unterbleibt diese zukünftig, es sein denn, der Verantwortliche kann zwingende schutzwürdige Gründe für die weitere Verarbeitung nachweisen, die das Interesse des Betroffenen am Widerspruch überwiegen.
 
-  
-
 Sofern Sie selbst die verarbeiteten Daten zur Verfügung gestellt haben, steht Ihnen ein Recht auf Datenübertragung nach Artikel 20 DSGVO zu.
-
-  
 
 Sofern die Datenverarbeitung auf Grundlage einer Einwilligung nach Artikel 6 Absatz 1 Buchstabe a) DSGVO beruht, können Sie die Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen, ohne dass die Rechtmäßigkeit der bisherigen Verarbeitung berührt wird.
 
-  
-
 Wenden Sie sich bitte in den zuvor genannten Fällen, bei offenen Fragen oder im Falle von Beschwerden schriftlich oder per E-Mail an den Datenschutzbeauftragten.
-
-  
 
 Zudem steht Ihnen ein Recht zur Beschwerde bei einer Datenschutz-Aufsichtsbehörde zu. Zuständig ist die Datenschutz-Aufsichtsbehörde des Bundeslandes, in dem Sie wohnen oder in dem der Verantwortliche seinen Sitz hat.
 
   
 
-**8\. Weitere Fragen**
+**5\. Weitere Fragen**
 
-  
-
-Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an unseren Datenschutzbeauftragten:
+Sollten Sie weitere Fragen zur Erhebung, Verarbeitung und Nutzung Ihrer persönlichen Daten haben, dann wenden Sie sich bitte an:
 
   
 
 Lidl Digital Deutschland GmbH & Co. KG
 
-Datenschutzbeauftragter
-
 Stiftsbergstraße 1
 
 74172 Neckarsulm
 
-[datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de)
+[info@lidl-shop.de](mailto:info@lidl-shop.de)
+
+  
+
+**6\. Kulanzanalyse**
+
+Zwecke der Datenverarbeitung/ Rechtsgrundlagen:
+
+Zur Prävention und zur Aufdeckung von Manipulationen überprüfen wir Daten aus der Bearbeitung von Kulanzen (Gutschriften und Gutscheine) auf Unstimmigkeiten. Dies umfasst auch Kundendaten, welche bei der Gutschrift- oder Gutscheinerstellung verarbeitet werden, insbesondere Stammdaten aus dem Kunden-/ Gastkonto (Name, E-Mail-Adresse, Kundenummer, etc.) und Transaktions-/ Bestelldaten (Bestellnummer, Artikel, Verkaufspreis, etc.).
+
+Bei einer ersten Analyse werden Kulanzen nach vordefinierten Szenarien automatisch geprüft. Es handelt sich hierbei um Szenarien, die aufgrund des gleichzeitigen Eintritts mehrerer Kriterien und der Überschreitung von Schwellenwerten in Kombination mit einer Häufung auf eine mögliche Manipulation hinweisen. Bei Vorliegen eines Manipulationsverdachts werden die Daten manuell auf Manipulationen überprüft.
+
+Rechtsgrundlage hierfür ist Artikel 6 Abs. 1 f) DSGVO. Wir haben ein berechtigtes Interesse an der Durchführung von Maßnahmen zur Prävention und Aufdeckung von Manipulationen (Straftaten).
+
+Empfänger/ Kategorien von Empfängern:
+
+Bei der Kulanzanalyse werden Ihre Daten in unserem Auftrag auch von Auftragsverarbeitern aus dem Bereich Kundenservice verarbeitet. Diese sind jeweils sorgfältig ausgesucht und zudem vertraglich gemäß Artikel 28 DSGVO verpflichtet.
+
+Speicherdauer/ Kriterien für Festlegung der Speicherdauer:
+
+Die Ergebnisse der Analyse werden sofort gelöscht, es sei denn, es ergeben sich konkrete Verdachtsmomente. Bestätigen sich diese Verdachtsmomente auf der zweiten Ebene der Auswertung, werden die Prüfberichte für 12 Jahre aufbewahrt, ansonsten sofort gelöscht.
+
+  
+
+**7\. Übermittlung an Empfänger in Drittländern**
+
+Unter Umständen kann es erforderlich sein, dass wir Ihre personenbezogenen Daten an Empfänger in einem Drittland oder mehreren Drittländern außerhalb der Europäischen Union (EU)/ des Europäischen Wirtschaftsraumes (EWR) übermitteln.
+
+Einigen Drittländern hat die EU-Kommission durch einen Angemessenheitsbeschluss ein der DSGVO vergleichbares Datenschutzniveau bescheinigt. Eine Übersicht der Drittländer mit Angemessenheitsbeschluss finden Sie hier. Bei Dienstleistern mit Hauptsitz in den USA gilt dies nur, wenn diese nach dem EU-US Data Privacy Framework zertifiziert sind.
+
+Wenn kein Angemessenheitsbeschluss vorliegt, sichern wir die Übermittlung durch andere Maßnahmen ab. Dies können z.B. bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission, Zertifikate oder anerkannte Verhaltenskodizes sein.
+
+Sofern im Folgenden nicht anders dargestellt, erfolgt der Drittlandtransfer entweder auf Basis eines Angemessenheitsbeschlusses oder einer der oben aufgezählten Maßnahmen. Sie können sich bei Fragen dazu an unsere Datenschutzbeauftragten wenden.
 
 Betroffenenrechte
 -----------------
@@ -2824,7 +2740,7 @@ Bei der Ausübung Ihres Rechts auf Datenübertragbarkeit haben Sie das Recht, zu
 
 **Unter den Voraussetzungen des Artikel 21 Absatz 1 DSGVO kann der Datenverarbeitung aus Gründen, die sich aus der besonderen Situation Ihrerseits ergeben, widersprochen werden.**
 
-Das vorstehende **allgemeine Widerspruchsrecht** gilt für alle in diesen Datenschutzbestimmungen beschriebenen Verarbeitungszwecke, die auf Grundlage von Artikel 6 Absatz 1 Buchstabe f) DSGVO verarbeitet werden. Anders als bei dem auf die Datenverarbeitung zu werblichen Zwecken gerichteten speziellen Widerspruchsrecht (vergleiche oben insbesondere Ziffer 10, 13 und 14 der Datenschutzbestimmungen für den Online-Shop), sind wir nach der DSGVO zur Umsetzung eines solchen allgemeinen Widerspruchs nur verpflichtet, wenn Sie uns hierfür Gründe von übergeordneter Bedeutung nennen, z.B. eine mögliche Gefahr für Leben oder Gesundheit. Darüber hinaus besteht die Möglichkeit, sich an die für die Lidl Digital Deutschland GmbH & Co. KG zuständige Aufsichtsbehörde oder den Datenschutzbeauftragten der Lidl Digital Deutschland GmbH & Co. KG zu wenden.
+Das vorstehende **allgemeine Widerspruchsrecht** gilt für alle in diesen Datenschutzbestimmungen beschriebenen Verarbeitungszwecke, die auf Grundlage von Artikel 6 Absatz 1 Buchstabe f) DSGVO verarbeitet werden. Anders als bei dem auf die Datenverarbeitung zu werblichen Zwecken gerichteten speziellen Widerspruchsrecht (vergleiche oben insbesondere Ziffer 10, 13 und 14 der Datenschutzbestimmungen für den Online-Shop), sind wir nach der DSGVO zur Umsetzung eines solchen allgemeinen Widerspruchs nur verpflichtet, wenn Sie uns hierfür Gründe von übergeordneter Bedeutung nennen, z.B. eine mögliche Gefahr für Leben oder Gesundheit. Darüber hinaus besteht die Möglichkeit, sich an die für die Lidl Digital Deutschland GmbH & Co. KG zuständige Aufsichtsbehörde zu wenden.
 
 8\. Beschwerderecht bei der Datenschutz-Aufsichtsbehörde gemäß Artikel 77 DSGVO
 
