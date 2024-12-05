@@ -14,8 +14,6 @@ Menu
     
 * [Bans](https://opblocks.com/bans/bans.php)
     
-* [BATTLEPASS](https://rewards.opblocks.com/)
-    
 
 Welcome to OPBlocks!
 
@@ -88,6 +86,8 @@ Managing your cookies and cookie preferences must be done from within your brows
 2020 OPBlocks. All Rights Reserved.
 
 We are not affiliated with Mojang AB.
+
+[Cobblemon](https://cobblemon.gg/)
 
 Designed by **Benj**
 
