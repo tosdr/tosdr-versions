@@ -1,6 +1,6 @@
  [![Not the Bee logo](https://notthebee.com/img/ntb-full-logo.png)](https://notthebee.com/)[![Not the Bee logo](https://notthebee.com/img/ntb-full-logo-dark.png)](https://notthebee.com/)
 
-[News](https://notthebee.com/) [Takes](https://notthebee.com/takes) [Sports](https://notthebee.com/sports) [Shop](https://shop.notthebee.com/)
+[News](https://notthebee.com/) [Takes](https://notthebee.com/takes) [Sports](https://notthebee.com/sports) [Shop](https://shop.notthebee.com/collections/new-stuff/)
 
 [Join](https://notthebee.com/join)
 
@@ -8,7 +8,7 @@
 
 [Login](https://notthebee.com/login)
 
-[Social](https://notthebee.com/social) [Podcasts](https://notthebee.com/podcasts) [Shop](https://shop.notthebee.com/) [Discover](https://notthebee.com/discover)
+[Social](https://notthebee.com/social) [Podcasts](https://notthebee.com/podcasts) [Shop](https://shop.notthebee.com/collections/new-stuff/) [Discover](https://notthebee.com/discover)
 
 Terms of Use
 ------------
