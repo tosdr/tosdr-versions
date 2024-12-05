@@ -54,12 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Hunter Pardon](https://www.breitbart.com/tag/hunter-biden/)
+* [Healthcare CEO Killed](https://www.breitbart.com/tag/unitedhealthcare/)
 * [Hegseth Fight](https://www.breitbart.com/tag/pete-hegseth/)
-* [Tariff Warning](https://www.breitbart.com/tag/2024-presidential-election/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
+* [French Gov’t Collapse](https://www.breitbart.com/tag/france/)
 * [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
-* [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Israel vs Hamas](https://www.breitbart.com/tag/israel/)
 
 Breitbart Privacy Policy
