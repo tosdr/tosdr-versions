@@ -1,12 +1,10 @@
-Ga naar hoofdinhoud
-
-Ga naar zoeken
+[Ga naar zoeken](#header-search-input)
 
 * [Dames](https://www.zalando.nl/dames-home/)
 * [Heren](https://www.zalando.nl/heren-home/)
 * [Kinderen](https://www.zalando.nl/kinderen-home/)
 
-[Zalando](https://www.zalando.nl/)
+[Zalando wonen](https://www.zalando.nl/)
 
 [Ontdek![](https://mosaic01.ztat.net/zds/assets/svg/plus-black.7817f7e.svg)](https://www.zalando.nl/zalandoplus/)
 
@@ -18,7 +16,7 @@ Switch Language
 
 [Jouw account](https://www.zalando.nl/myaccount/)
 
-[Wish list](https://www.zalando.nl/wardrobe/)
+[](https://www.zalando.nl/wardrobe/)
 
 [](https://www.zalando.nl/cart/)
 
