@@ -1,15 +1,15 @@
-Wednesday, December 4 2024
+Thursday, December 5 2024
 
 Breaking News
 
+* [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
+* [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
+* [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
+* [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
 * [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
 * [Women Shouldn’t Be in Combat Roles](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
 * [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
 * [Religious Leaders See A ‘Fourth Great Awakening’ As Americans Flock To Christianity](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
-* [Trump, not even in Office Yet, already More Effective than the Biden-Harris Administration](https://www.conservativedailynews.com/2024/12/trump-not-even-in-office-yet-already-more-effective-than-the-biden-harris-administration/)
-* [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/)
-* [Canada Scrambles To Secure Border After Trump Threatens Massive Tariff](https://www.conservativedailynews.com/2024/12/canada-scrambles-to-secure-border-after-trump-threatens-massive-tariff/)
-* [US Struggles To Remove Chinese Hackers From Major Telecom Networks](https://www.conservativedailynews.com/2024/12/us-struggles-to-remove-chinese-hackers-from-major-telecom-networks/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,42 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/05/Creedit-cards-score-220x150.png)](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
+    
+    [How to Win the Balance Transfer Game](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/the-milei-revolution/)
+    
+    [The Milei Revolution](https://www.conservativedailynews.com/2024/12/the-milei-revolution/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5873-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
+    
+    [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Head-Up-Ass-150x150.jpg)](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
+    
+    [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
+    
+    December 5, 2024
+    
+* [![Joe Biden leaving lone rider done](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
+    
+    [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/2020-National-Christmas-Tree-Lighting-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
+    
+    [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
+    
+    December 5, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-pardonhunt-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
     
     [Crimes Of The Father](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
@@ -142,55 +178,19 @@ Recent Posts
     
     December 4, 2024
     
-* [![Shopping Gift Christmas](https://www.conservativedailynews.com/wp-content/uploads/2023/11/Depositphotos_172824082_S-220x150.jpg)](https://www.conservativedailynews.com/2024/12/last-minute-holiday-gifts/)
-    
-    [Last-Minute Holiday Gifts](https://www.conservativedailynews.com/2024/12/last-minute-holiday-gifts/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
-    
-    [Judge Accused Of ‘Willful Misconduct’ For Allegedly Allowing Illegal Migrant To Flee Courtroom](https://www.conservativedailynews.com/2024/12/judge-accused-of-willful-misconduct-for-allegedly-allowing-illegal-migrant-to-flee-courtroom/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/02/Steel-220x150.jpg)](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
-    
-    [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120324dAPR-1-220x150.jpg)](https://www.conservativedailynews.com/2024/12/suckers-2/)
-    
-    [Suckers!](https://www.conservativedailynews.com/2024/12/suckers-2/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Remains-of-service-members-caskets.jpg)](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
-    
-    [Women Shouldn’t Be in Combat Roles](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/taxes-220x150.jpg)](https://www.conservativedailynews.com/2024/12/will-i-be-taxed-on-my-sons-generosity/)
-    
-    [Will I Be Taxed on My Son’s Generosity?](https://www.conservativedailynews.com/2024/12/will-i-be-taxed-on-my-sons-generosity/)
-    
-    December 4, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [New Faxon Firearms Low-Profile Adjustable Gas Block](https://www.thegunpage.com/new-faxon-firearms-low-profile-adjustable-gas-block/10612285)
-* [SIG Sheds Light on Recent Lawsuits Over P320](https://www.thegunpage.com/sig-sheds-light-on-recent-lawsuits-over-p320/10612281)
-* [New Meridian Defense MDC-Combat AK Trigger](https://www.thegunpage.com/new-meridian-defense-mdc-combat-ak-trigger/10612286)
-* [WY: Wyoming Legislative Update](https://www.thegunpage.com/wy-wyoming-legislative-update/10612279)
-* [Savannah Ruling In Preemption Case A Hollow Victory For Anti-Gunners](https://www.thegunpage.com/savannah-ruling-in-preemption-case-a-hollow-victory-for-anti-gunners/10612277)
-* [Patent Protected! FightLite Herring Lever-Action Coming Soon?](https://www.thegunpage.com/patent-protected-fightlite-herring-lever-action-coming-soon/10612283)
-* [Second Amendment Advocates Urge Trump To Pick Pro-Gun ATF Director](https://www.thegunpage.com/second-amendment-advocates-urge-trump-to-pick-pro-gun-atf-director/10612276)
-* [Florida high school suspends student for 3 shell casings](https://www.thegunpage.com/florida-high-school-suspends-student-for-3-shell-casings/10612274)
-* [Review: Glock G17L Gen5 MOS](https://www.thegunpage.com/review-glock-g17l-gen5-mos/10612273)
-* [TFB Review: Springfield Armory Echelon 4.0C 9mm](https://www.thegunpage.com/tfb-review-springfield-armory-echelon-4-0c-9mm/10612269)
+* [Michigan Gun Owners Under Increased Fire This Week](https://www.thegunpage.com/michigan-gun-owners-under-increased-fire-this-week/10612301)
+* [Unified Effort By Military And Civilians To Advance Marksmanship: 1962 National Matches](https://www.thegunpage.com/unified-effort-by-military-and-civilians-to-advance-marksmanship-1962-national-matches/10612300)
+* [Battle At The Peak: USPSA Colorado State Championship Beats Weather Again](https://www.thegunpage.com/battle-at-the-peak-uspsa-colorado-state-championship-beats-weather-again/10612299)
+* [TFB Review: Meprolight MPO Pro-S vs MPO Pro-F](https://www.thegunpage.com/tfb-review-meprolight-mpo-pro-s-vs-mpo-pro-f/10612296)
+* [POTD: Troy Long Rifle – MK11 CSASS 308](https://www.thegunpage.com/potd-troy-long-rifle-mk11-csass-308/10612297)
+* [Wheelgun Wednesday: Samson Manufacturing – Enhanced Ejector Rod](https://www.thegunpage.com/wheelgun-wednesday-samson-manufacturing-enhanced-ejector-rod/10612298)
+* [States, Gun Groups Implore SCOTUS To Tell Mexico “To Go Pound Sand”](https://www.thegunpage.com/states-gun-groups-implore-scotus-to-tell-mexico-to-go-pound-sand/10612293)
+* [GOA’s Second Amendment Hunters Announces Photo Contest & Prize Package](https://www.thegunpage.com/goas-second-amendment-hunters-announces-photo-contest-prize-package/10612290)
+* [San Diego Court Sides with Smith & Wesson in Chabad of Poway Lawsuit](https://www.thegunpage.com/san-diego-court-sides-with-smith-wesson-in-chabad-of-poway-lawsuit/10612287)
+* [Glock Boys, Rejoice! NEW Safariland Fits for the Incog X IWB Holster](https://www.thegunpage.com/glock-boys-rejoice-new-safariland-fits-for-the-incog-x-iwb-holster/10612289)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Cassidy Rodriguez on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783544)
 * Singleshot on [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/#comment-783536)
 * Stanley Warner on [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/#comment-783535)
 * Stanley Warner on [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/#comment-783527)
@@ -240,7 +241,6 @@ Recent Comments
 * charles wilkins on [First Kid’s Immunity](https://www.conservativedailynews.com/2024/12/first-kids-immunity/#comment-783523)
 * charles wilkins on [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/#comment-783510)
 * Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
-* Stanley Warner on [Trump Will Redirect Billions In Unspent Funds From Biden’s Climate Law To ‘Real Infrastructure’](https://www.conservativedailynews.com/2024/11/trump-will-redirect-billions-in-unspent-funds-from-bidens-climate-law-to-real-infrastructure/#comment-783462)
 
 [Close](#)
 
