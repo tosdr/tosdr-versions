@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Neueste Tests
 
+* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 * [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
 * [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
-* [Bauzinsen aktuell: Hier finden Sie die besten Zinsen für Ihren Immobilien­kredit](https://www.test.de/Bauzinsen-aktuell-5294522-0/ "Bauzinsen aktuell - Hier finden Sie die besten Zinsen für Ihren Immobilienkredit")
 
 test.de entdecken
 
-* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
-* [Sympatex-Anleihe: Ermitt­lungen nach Millionen­verlusten](https://www.test.de/Sympatex-Anleihe-Ermittlungen-nach-Millionenverlusten-6049424-0/ "Sympatex-Anleihe - Ermittlungen nach Millionenverlusten")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Nach­haltige Rentenfonds: Diese Anleihen eignen sich fürs grüne Depot](https://www.test.de/Nachhaltige-Rentenfonds-im-Test-6127665-0/ "Nachhaltige Rentenfonds - Diese Anleihen eignen sich fürs grüne Depot")
-* [Einlagen bei Inkontinenz: Vier diskrete Helfer bei Blasen­schwäche](https://www.test.de/Einlagen-bei-Inkontinenz-Vier-diskrete-Helfer-bei-Blasenschwaeche-5973800-0/ "Einlagen bei Inkontinenz - Vier diskrete Helfer bei Blasenschwäche")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
+* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
+* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
+* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Stiftung Warentest
 
