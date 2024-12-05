@@ -238,16 +238,16 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 * [Why ADT](https://www.adt.com/security-benefits "Why ADT")
 * [About ADT](https://www.adt.com/about-adt "About  ADT")
 * [ADT Reviews](https://www.adt.com/stories "ADT Reviews")
-* [Newsroom](https://news.adt.com/ "Opens in a new tab")
+* [Newsroom](https://news.adt.com/ "Newsroom")
 
-* [Investor Relations](https://investor.adt.com/ "Opens in a new tab")
+* [Investor Relations](https://investor.adt.com/ "Investor Relations")
 
-### [Careers](https://jobs.adt.com/ "Opens in a new tab")
+### [Careers](https://jobs.adt.com/ "Careers")
 
 ### [Dealers & Service](#dealersAndService)
 
-* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer opens in a new tab")
-* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup opens in a new tab")
+* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer")
+* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup")
 * [Local Service Areas](https://www.adt.com/local "Local Service Areas")
 
 ### [Customer Service](#customerService)
@@ -273,14 +273,14 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 * [Why ADT](https://www.adt.com/security-benefits "Why ADT")
 * [About ADT](https://www.adt.com/about-adt "About  ADT")
 * [ADT Reviews](https://www.adt.com/stories "ADT Reviews")
-* [Newsroom](https://news.adt.com/ "Opens in a new tab")
-* [Careers](https://jobs.adt.com/ "Opens in a new tab")
-* [Investor Relations](https://investor.adt.com/ "Opens in a new tab")
+* [Newsroom](https://news.adt.com/ "Newsroom")
+* [Careers](https://jobs.adt.com/ "Careers")
+* [Investor Relations](https://investor.adt.com/ "Investor Relations")
 
 ### Dealers & Service
 
-* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer opens in a new tab")
-* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup opens in a new tab")
+* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer")
+* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup")
 * [Local Service Areas](https://www.adt.com/local "Local Service Areas")
 
 ### Customer Service
