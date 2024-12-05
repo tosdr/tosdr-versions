@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -315,7 +315,7 @@ Vendors
 
 [Purchase Order Terms and Conditions](https://enphase.com/legal/purchase-order-terms-and-conditions)
 
-[Supplier Code of Conduct](https://enphase.com/legal/supplier-code-conduct)
+[Enphase Energy Code of Conduct](https://enphase.com/legal/enphase-energy-code-conduct)
 
 [California Transparency in Supply Chains Act Disclosure](https://enphase.com/legal/california-transparency-supply-chains-act-disclosure)
 
@@ -509,11 +509,10 @@ Your session expired. Please login again to continue to purchase.
     * [Communication](https://enphase.com/installers/communication)
     * [System builder](https://enphase.com/installers/systems)
     * [Microinverters](https://enphase.com/installers/microinverters)
-    * [EV chargers](https://enphase.com/installers/ev-chargers)
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training)
+    * [Training](https://enphase.com/installers/training-and-certifications)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
