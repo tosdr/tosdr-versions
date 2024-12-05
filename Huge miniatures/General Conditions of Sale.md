@@ -83,7 +83,7 @@ Menu
 * [Wholesale Application](https://hugeminis.com/wholesale/)
 * [Wholesale Order Form](https://hugeminis.com/wholesale-order-form/)
 
-* [$31.95 5 items](https://hugeminis.com/cart/ "View your shopping cart")
+* [$0.00 0 items](https://hugeminis.com/cart/ "View your shopping cart")
 
 [Home](https://hugeminis.com/) / Return Policy
 
