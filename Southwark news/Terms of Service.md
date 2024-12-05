@@ -20,6 +20,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lewisham Council's headquarters in Catford](https://southwarknews.co.uk/wp-content/uploads/2024/12/Lewisham-Council_s-headquaters-in-Catford-1-360x180.jpg)](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
+    
+    ### [Lewisham scraps Mayor’s personal driver in £25 million savings package](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
+    
+    [![Lambeth Council's town hall in Brixton. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_7139-360x180.jpg)](https://southwarknews.co.uk/news/politics/lambeth-childrens-centres-face-axe-under-50-million-savings-package/)
+    
+    ### [Lambeth children’s centres face axe under £50 million savings package](https://southwarknews.co.uk/news/politics/lambeth-childrens-centres-face-axe-under-50-million-savings-package/)
+    
+    [![Camberwell Old Cemetery](https://southwarknews.co.uk/wp-content/uploads/2024/12/camberwelll-cemetery-360x180.jpg)](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
+    
+    ### [Cost of dying to increase as Southwark Council looks at burial charges](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
+    
+    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-Walworth-Society-excitedly-posted-this-photo-of-the-coverings-removed-from-the-historic-building.-Credit-The-Walworth-Society-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
+    
+    ### [Walworth history to be told through song and entertainment at free event tomorrow](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
+    
+    [![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+    
+    ### [‘I can’t believe it’s still going’: Locals share their love for the famous Christmas lights house in Walworth](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+    
     [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
     
     ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
@@ -35,26 +55,6 @@
     [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
     
     ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
-    
-    [![Join the mass karaoke event!](https://southwarknews.co.uk/wp-content/uploads/2024/12/Miracle-on-Leake-Street-4-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
-    
-    ### [Free Christmas street party at Waterloo’s graffiti tunnel returns with mass karaoke](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
-    
-    [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-    
-    ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-    
-    [![Cars are still causing havoc outside Homewood Group's business on The Blue. Credit: Daniele Lucia](https://southwarknews.co.uk/wp-content/uploads/2024/12/9c4b1019-6f72-4eb6-895f-64d4a8c17078-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
-    
-    ### [‘Hazardous’ vehicles blocking Bermondsey business’ fire exit continue to threaten future](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
-    
-    [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
-    
-    ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
-    
-    [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
-    
-    ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Lewisham Council's headquarters in Catford](https://southwarknews.co.uk/wp-content/uploads/2024/12/Lewisham-Council_s-headquaters-in-Catford-1-360x180.jpg)](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
+    
+    ### [Lewisham scraps Mayor’s personal driver in £25 million savings package](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
+    
+    [![Lambeth Council's town hall in Brixton. CREDIT: Robert Firth](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_7139-360x180.jpg)](https://southwarknews.co.uk/news/politics/lambeth-childrens-centres-face-axe-under-50-million-savings-package/)
+    
+    ### [Lambeth children’s centres face axe under £50 million savings package](https://southwarknews.co.uk/news/politics/lambeth-childrens-centres-face-axe-under-50-million-savings-package/)
+    
+    [![Camberwell Old Cemetery](https://southwarknews.co.uk/wp-content/uploads/2024/12/camberwelll-cemetery-360x180.jpg)](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
+    
+    ### [Cost of dying to increase as Southwark Council looks at burial charges](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
+    
+    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-Walworth-Society-excitedly-posted-this-photo-of-the-coverings-removed-from-the-historic-building.-Credit-The-Walworth-Society-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
+    
+    ### [Walworth history to be told through song and entertainment at free event tomorrow](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
+    
+    [![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+    
+    ### [‘I can’t believe it’s still going’: Locals share their love for the famous Christmas lights house in Walworth](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+    
     [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
     
     ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
@@ -120,26 +140,6 @@ View All Result
     [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
     
     ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
-    
-    [![Join the mass karaoke event!](https://southwarknews.co.uk/wp-content/uploads/2024/12/Miracle-on-Leake-Street-4-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
-    
-    ### [Free Christmas street party at Waterloo’s graffiti tunnel returns with mass karaoke](https://southwarknews.co.uk/area/waterloo/free-christmas-street-party-at-waterloos-graffiti-tunnel-returns-with-mass-karaoke/)
-    
-    [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-360x180.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-    
-    ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-    
-    [![Cars are still causing havoc outside Homewood Group's business on The Blue. Credit: Daniele Lucia](https://southwarknews.co.uk/wp-content/uploads/2024/12/9c4b1019-6f72-4eb6-895f-64d4a8c17078-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
-    
-    ### [‘Hazardous’ vehicles blocking Bermondsey business’ fire exit continue to threaten future](https://southwarknews.co.uk/area/bermondsey/hazardous-vehicles-blocking-bermondsey-business-fire-exit-continue-to-threaten-future/)
-    
-    [![The BID allows businesses to collaborate to make the area better. (Mickey Lee)](https://southwarknews.co.uk/wp-content/uploads/2024/12/2023-10-12-1439-Mickey-LF-Lee-MX506225-360x180.jpeg)](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
-    
-    ### [Bankside businesses secure £14m boost as BID renewed for five years](https://southwarknews.co.uk/area/borough/bankside-businesses-secure-14m-boost-as-bid-renewed-for-five-years/)
-    
-    [![Go-Ahead London Central’s WHV150 running the number 1 route. Credit: SA 4.0 (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/LHR_Go-Ahead_London_Central_WHV150_BV66VJK_1_2023-11-14-e1732883741906-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
-    
-    ### [Southwark’s slowest bus routes revealed](https://southwarknews.co.uk/news/news-plus/southwarks-slowest-bus-routes-revealed/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+
+### [‘I can’t believe it’s still going’: Locals share their love for the famous Christmas lights house in Walworth](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+
+[5th December 2024](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
+
 [![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-120x86.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
 
 ### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
@@ -272,13 +278,6 @@ Terms of Use
 ### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
 
 [2nd December 2024](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-
-[![Housing campaigner, Aysen Dennis brought the high court case against Southwark Council. 
-CREDIT: Public Interest Law Centre](https://southwarknews.co.uk/wp-content/uploads/2024/12/Housing-campaigner-Aysen-Dennis-120x86.jpg)](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-
-### [Developer rejigs Aylesbury Estate plans after legal challenge](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
-
-[2nd December 2024](https://southwarknews.co.uk/area/walworth/developer-rejigs-aylesbury-estate-plans-after-legal-challenge/)
 
 ### USEFUL PAGES
 
