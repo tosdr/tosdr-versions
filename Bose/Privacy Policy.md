@@ -1,10 +1,12 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+48-HOUR FLASH SALE: Get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. [Buy now](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION)
+
 HOLIDAY DEALS: Save up to 40% on bestsellers. [Shop](https://www.bose.com/c/holiday-sale)
 
 New color drops! Exclusive and limited-edition colors. [Shop](https://www.bose.com/c/exclusives)
 
-My Bose Members, get a Holiday Bonus Card for future orders with every product purchase above $100. [Learn more](https://www.bose.com/holiday-bonus-card)
+My Bose Members, get a Holiday Bonus Card for future orders with every product purchase of $100 or more. [Learn more](https://www.bose.com/holiday-bonus-card)
 
 [Cancel](#)
 
@@ -107,20 +109,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/75a878069bfe193b/webimage-SF_NavFlyout_Holiday_Gifting-2_QCE_Mobile.png)
+    [![](https://assets.bosecreative.com/m/105c2e7afb9dc5e/webimage-QCUHLE25-Diamond_SF_FlashSale1_NavFlyout_Mobile.png)
     
-    Featured Deal
+    LIMITED-TIME OFFER
     
-    ### QuietComfort Earbuds](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    ### 48-hour Sale](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
      
     
-    Stocking stuffer
-    ----------------
+    LIMITED-TIME OFFER
     
-    Give personal sound with $50 off QuietComfort Earbuds.
+    48-hour Flash Sale
+    ------------------
     
-    [BUY NOW](https://www.bose.com/QCEARB24-HEADPHONEIN.html?dwvar_QCEARB24-HEADPHONEIN_color=WHITE+SMOKE&quantity=1 "BUY NOW")
+    Act fast to get $130 off Diamond 60th Edition QuietComfort Ultra Headphones. Ends 12/6/24.
+    
+    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=DIAMOND+60TH+EDITION&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
