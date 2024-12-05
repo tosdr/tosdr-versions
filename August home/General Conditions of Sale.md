@@ -2,59 +2,9 @@
 
 [Skip To Main Content](#mainContentDivider)
 
-CYBER SALE ENDS SOON
-
-Up to 40% off sitewide!
-
-00
-
-Days
-
-:
-
-00
-
-Hours
-
-:
-
-00
-
-Minutes
-
-:
-
-00
-
-Seconds
-
-[Shop Sale](https://august.com/pages/sale)
-
  [![Yale](https://cdn.shopify.com/s/files/1/1354/7835/files/Secondary_Gray_-_2020_-_RGB_2x_79e15df4-8d99-4352-bdda-652bfcb57cf0.png?v=1615919455)](https://shopyalehome.com/?utm_source=august.com&utm_medium=referral&utm_campaign=cobrand_toggle)![August](https://cdn.shopify.com/s/files/1/1354/7835/files/August-Logo-white-110x36.png?v=1617137811)
 
-00
-
-Days
-
-:
-
-00
-
-Hours
-
-:
-
-00
-
-Minutes
-
-:
-
-00
-
-Seconds
-
-[Shop Sale](https://august.com/pages/sale)
+HOLIDAY SALE | Save up to 40% off
 
 30-day money-back guarantee | Free Shipping in the US
 
@@ -76,7 +26,7 @@ Yale Approach™ Lock with Wi-Fi
 
 Starting at $129.99
 
-##### SALE](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
+##### NEW](https://august.com/products/yale-approach-lock-with-wi-fi)[![August Smart Lock + Connect](//august.com/cdn/shop/files/callisto-silver-frt-140x140_400x.png?v=1712024423)
 
 Smart Lock
 
@@ -140,7 +90,7 @@ $199.99
 
 \>](https://august.com/products/august-wifi-smart-lock)[![Yale Approach™ Lock with Wi-Fi](//august.com/cdn/shop/files/IO-Silver_Yale-Keypad-Bio-Frt_2x_b65be57c-402a-41c7-b8c3-687a6c2c96dc_400x.png?v=1723658449)
 
-##### SALE
+##### NEW
 
 Yale Approach™ Lock with Wi-Fi
 
@@ -282,6 +232,16 @@ Navis Paddle in Black Suede
 Pair the Navis Paddle with any August Smart Lock for 100% hands-free, keyless entry. Arrive at your door with auto-unlock and easily push your door open with your hip or elbow when your hands are tied.
 
 $34.99
+
+Add to cart
+
+![Yale Keypad Touch](//august.com/cdn/shop/files/YRK110-F-BLK-FRT_2x_4b36cb05-c8b3-4b06-9307-a8225e38addb_400x.png?v=1715294353)
+
+Yale Keypad Touch
+
+Pair the Yale Keypad Touch with your smart lock for fingerprint access and grant secure, key codes to your guests! Discover a more convenient home with August today.
+
+$109.99
 
 Add to cart
 
@@ -428,7 +388,7 @@ pop-up content ends
 
 Email 
 
-Submit ![](//august.com/cdn/shop/t/347/assets/icon-newsletter-submit.svg?v=83048686797684669771733257380) 
+Submit ![](//august.com/cdn/shop/t/348/assets/icon-newsletter-submit.svg?v=83048686797684669771733257765) 
 
 By signing up for the August Home US and Canada email newsletter, you agree with our [terms](https://august.com/pages/terms-of-service).
 
