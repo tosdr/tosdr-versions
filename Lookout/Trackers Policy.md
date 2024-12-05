@@ -65,6 +65,9 @@
         * [Mobile Vulnerability Management (MVM)
             
             ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/mobile-vulnerablilty-management)
+        * [Smishing & Executive Impersonation
+            
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/smishing-executive-impersonation)
     
 * Solutions
     
