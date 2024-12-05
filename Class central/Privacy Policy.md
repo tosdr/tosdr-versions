@@ -414,34 +414,34 @@ Most common
 
 1. digital marketing
     
-2. harvard
+2. machine learning
     
-3. flutter
+3. French
     
 
 Popular subjects
 
-1. [Computer Science
+1. [Data Analysis
     
-    44,666 courses](https://www.classcentral.com/subject/cs)
-2. [Artificial Intelligence
-    
-    14,387 courses](https://www.classcentral.com/subject/ai)
-3. [Cybersecurity
+    8,946 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Cybersecurity
     
     17,003 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Graphic Design
+    
+    4,405 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 
-1. [Marketing in a Digital World
+1. [Marketing Digital: Content & Community Manager
     
-    University of Illinois at Urbana-Champaign](https://www.classcentral.com/course/dmdigitalworld-2750)
-2. [Modern & Contemporary American Poetry (“ModPo”)
+    Galileo University](https://www.classcentral.com/course/digital-marketing-universidad-galileo-marketing-d-10386)
+2. [Miracles of Human Language: An Introduction to Linguistics
     
-    University of Pennsylvania](https://www.classcentral.com/course/modpo-356)
-3. [Moralities of Everyday Life
+    Leiden University](https://www.classcentral.com/course/humanlanguage-2940)
+3. [Terrorism and Counterterrorism: Comparing Theory and Practice
     
-    Yale University](https://www.classcentral.com/course/moralities-911)
+    Leiden University](https://www.classcentral.com/course/terrorism-701)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
