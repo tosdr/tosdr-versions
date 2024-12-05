@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![FTC bans data brokers from selling Americans’ sensitive location data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FTC bans data brokers from selling Americans’ sensitive location data](https://www.bleepingcomputer.com/news/security/ftc-bans-data-brokers-from-selling-americans-sensitive-location-data/)
-    * [![Russia sentences Hydra dark web market leader to life in prison](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Russia sentences Hydra dark web market leader to life in prison](https://www.bleepingcomputer.com/news/security/russia-sentences-hydra-dark-web-market-leader-to-life-in-prison/)
-    * [![Korea arrests CEO for adding DDoS feature to satellite receivers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
-    * [![Police seize Matrix encrypted chat service after spying on criminals](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Police seize Matrix encrypted chat service after spying on criminals](https://www.bleepingcomputer.com/news/security/police-seize-matrix-encrypted-chat-service-after-spying-on-criminals/)
-    
     * [![BT unit took servers offline after Black Basta ransomware breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         BT unit took servers offline after Black Basta ransomware breach](https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/)
-    * [![New DroidBot Android banking malware spreads across Europe](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New DroidBot Android banking malware spreads across Europe](https://www.bleepingcomputer.com/news/security/new-droidbot-android-banking-malware-spreads-across-europe/)
     * [![Solana Web3.js library backdoored to steal secret, private keys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Solana Web3.js library backdoored to steal secret, private keys](https://www.bleepingcomputer.com/news/security/solana-web3js-library-backdoored-to-steal-secret-private-keys/)
-    * [![Russian hackers hijack Pakistani hackers' servers for their own attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Vodka maker Stoli files for bankruptcy in US after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Russian hackers hijack Pakistani hackers' servers for their own attacks](https://www.bleepingcomputer.com/news/security/russian-turla-hackers-hijack-pakistani-apt-servers-for-cyber-espionage-attacks/)
+        Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
+    * [![US shares tips to block hackers behind recent telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
+    
+    * [![Microsoft says having a TPM is ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
+    * [![White House: Salt Typhoon hacked telcos in dozens of countries](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        White House: Salt Typhoon hacked telcos in dozens of countries](https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/)
+    * [![FBI shares tips on how to tackle AI-powered fraud schemes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        FBI shares tips on how to tackle AI-powered fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
+    * [![UK disrupts Russian money laundering networks used by ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        UK disrupts Russian money laundering networks used by ransomware](https://www.bleepingcomputer.com/news/security/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,9 +442,9 @@ Popular Stories
 * [![Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Novel phishing campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phishing-campaign-uses-corrupted-word-documents-to-evade-security/)
-* [![Stoli Vodka](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![DDoS](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
+    Korea arrests CEO for adding DDoS feature to satellite receivers](https://www.bleepingcomputer.com/news/security/korea-arrests-ceo-for-adding-ddos-feature-to-satellite-receivers/)
 * [![Firefox](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Mozilla really wants you to set Firefox as default Windows browser](https://www.bleepingcomputer.com/news/software/mozilla-really-wants-you-to-set-firefox-as-default-windows-browser/)
