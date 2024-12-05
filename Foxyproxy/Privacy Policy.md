@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for your always quick response!
+The Support Team have been superb and have helped me out speedily and efficiently on all occasions.
 
-Ana Matic
+Michael Dally
