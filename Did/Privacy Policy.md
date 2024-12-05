@@ -344,8 +344,8 @@ If you have any questions, concerns or complaints regarding our compliance with 
 
 Corporation Trust Center, 1209 Orange St., Wilmington, New Castle County, Delaware 19801
 
- ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20117%2096'%3E%3C/svg%3E)
+ ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
- ![](https://www.d-id.com/wp-content/uploads/2023/11/ISO-Black-1.png)
+![](https://www.d-id.com/wp-content/uploads/2023/11/ISO-Black-1.png)
 
 [Skip to content](#content)
