@@ -1,10 +1,14 @@
 [Skip to main content](#main-content)
 
+**Saturday 7 December 2024 and Sunday 8 December 2024:** Important information for travel this weekend.
+
+[Find out more](https://www.gwr.com/sunday-disruption)
+
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-(2) Travel updatesDisruption
+(1) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
