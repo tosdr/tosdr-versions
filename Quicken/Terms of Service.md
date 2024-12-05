@@ -3,7 +3,7 @@ Thank you for selecting products and/or services offered to you by Quicken Inc. 
 Terms of Use
 ------------
 
-* [Quicken Simplifi & Quicken LifeHub Terms of Use](https://www.quicken.com/terms-of-use/simplifi-and-lifehub)
+* [Quicken Simplifi, Quicken Business & Personal, & Quicken LifeHub Terms of Use](https://www.quicken.com/terms-of-use/simplifi-and-lifehub)
 * [Quicken Classic Terms of Use](https://www.quicken.com/terms-of-use/quicken-classic)
 * [Bill Manager Terms & Conditions](https://www.quicken.com/terms-of-use/bill-manager)
 * [Mobile Terms & Conditions](https://www.quicken.com/terms-of-use/mobile-terms-and-conditions)
