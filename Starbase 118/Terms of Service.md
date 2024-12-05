@@ -316,6 +316,16 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
+
+### [Memories of Combat Fade, Bonds Strengthen for USS Khitomer](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
+
+Federation News Service December 5, 2024
+
+DEEP SPACE NINE – Locked away in a secure compartment, a mix of Bajoran Security and Starfleet volunteers were treated to an eyeful as the
+
+[Read More »](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
 
 ### [It’s Official, U.S.S. Chin’toka Launches](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
@@ -335,16 +345,6 @@ Federation News Service December 3, 2024
 Unstable Temporal Wormhole, Gamma Quadrant – The crew of the USS Octavia E. Butler has returned after being flung through time. While her Captain was
 
 [Read More »](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
-
-[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
-
-### [Award winner – Addison MacKenzie, Artemis (Christopher Pike Pendant)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
-
-srichardsciencenerd118 December 2, 2024
-
-Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
-
-[Read More »](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
 
 Ready to get started?
 ---------------------
