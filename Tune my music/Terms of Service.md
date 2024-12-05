@@ -75,7 +75,7 @@ Help
 
 [FAQ](https://www.tunemymusic.com/help)
 
-[Contact us](https://www.tunemymusic.com/contact-us)
+[contact\_us](https://www.tunemymusic.com/contact-us)
 
 Legal
 
