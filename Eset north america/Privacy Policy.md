@@ -197,14 +197,6 @@ San Diego, CA 92101
     
     [Home Security](https://www.eset.com/us/home/protection-plans/) Home Security
     
-    ![](/fileadmin/ESET/INT/Boxes/155x185-Balanced/Gemini/boxes-EHSE-EHSP-EHSU.png)
-    
-    ### HOME Security
-    
-    All-in-one protection of your digital life. Choose a plan according to your needs.
-    
-    [Choose your plan](https://www.eset.com/us/home/protection-plans/)
-    
     **Special solutions:**
     
     * [Small office security](https://www.eset.com/us/home/small-business-security/)  
@@ -654,7 +646,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/home/eset-vpn/vpn/)
+[United States (EN)](https://www.eset.com/us/business/resource-center/white-papers/)
 
 * * *
 
