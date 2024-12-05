@@ -14,11 +14,6 @@ US ![Choose Language](/assets/images/Language_Globe.svg)
 
 [](https://www.starlink.com/)
 
-Starlink Legal
-==============
-
-SELECT YOUR REGION
-
 [Careers](https://www.spacex.com/careers)[Satellite Operators](https://starlink.com/satellite-operators)[Authorized Reseller](https://starlink.com/resellers)[Privacy & Legal](https://starlink.com/legal)[Gear Store](https://gear.starlink.com/)
 
 [](https://twitter.com/Starlink)
