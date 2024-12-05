@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
+[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
 
-[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
+[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
 
-[![What is a natural alternative to roundup?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-a-natural-alternative-to-roundup.jpg "What Is a Natural Alternative to Roundup?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/ "What Is a Natural Alternative to Roundup?")
+[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
 
-[#### What Is a Natural Alternative to Roundup?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-a-natural-alternative-to-roundup/)
+[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
 
-[![How to file a sexual abuse lawsuit against the mormon church](https://www.pintas.com/wp-content/uploads/2023/04/injury-law-firm-300x200.jpg "How to File a Sexual Abuse Lawsuit Against the Mormon Church")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/ "How to File a Sexual Abuse Lawsuit Against the Mormon Church")
+[![Emotional abuse risk at memory care centers](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-scared-of-nurse-200x300.jpg "Emotional Abuse Risk at Memory Care Centers")](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/ "Emotional Abuse Risk at Memory Care Centers")
 
-[#### How to File a Sexual Abuse Lawsuit Against the Mormon Church](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/where-can-i-file-a-sexual-abuse-case-against-the-mormon-church/)
+[#### Emotional Abuse Risk at Memory Care Centers](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
