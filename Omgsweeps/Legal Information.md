@@ -46,7 +46,7 @@ Type your Message  Send
 
 × 
 
-                    [Skip to content](#content)
+                   [Skip to content](#content)
 
 [Open toolbar Accessibility Tools](javascript:void(0); "Accessibility Tools")
 
