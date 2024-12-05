@@ -38,10 +38,8 @@ Search
         * Healthy Resources
             * [Healthy Resources Overview](https://pacificsource.com/members/healthy-resources)
             * [Fitness Center Discount](https://pacificsource.com/members/healthy-resources/fitness-center-discount)
-            * [Wellness – Virgin Pulse](https://pacificsource.com/members/healthy-resources/virgin-pulse)
             * [Weight Management](https://pacificsource.com/members/healthy-resources/weight-management)
             * [Condition Support Program](https://pacificsource.com/members/healthy-resources/condition-support-program)
-            * [Tobacco Cessation Program](https://pacificsource.com/members/healthy-resources/tobacco-cessation)
             * [Prenatal Program](https://pacificsource.com/members/healthy-resources/prenatal)
             * [Flu Prevention](https://pacificsource.com/members/healthy-resources/flu-prevention)
             * [Health Ed Reimbursement](https://pacificsource.com/members/healthy-resources/education-reimbursement)
@@ -218,10 +216,8 @@ Search
     
     * [Healthy Resources Overview](https://pacificsource.com/members/healthy-resources)
     * [Fitness Center Discount](https://pacificsource.com/members/healthy-resources/fitness-center-discount)
-    * [Wellness – Virgin Pulse](https://pacificsource.com/members/healthy-resources/virgin-pulse)
     * [Weight Management](https://pacificsource.com/members/healthy-resources/weight-management)
     * [Condition Support Program](https://pacificsource.com/members/healthy-resources/condition-support-program)
-    * [Tobacco Cessation Program](https://pacificsource.com/members/healthy-resources/tobacco-cessation)
     * [Prenatal Program](https://pacificsource.com/members/healthy-resources/prenatal)
     * [Flu Prevention](https://pacificsource.com/members/healthy-resources/flu-prevention)
     * [Health Ed Reimbursement](https://pacificsource.com/members/healthy-resources/education-reimbursement)
@@ -275,15 +271,9 @@ Search
     
     ##### Fitness Center Discount
     
-    ##### Wellness – Virgin Pulse
-    
-    Wellness – Virgin Pulse
-    
     ##### Weight Management
     
     ##### Condition Support Program
-    
-    ##### Tobacco Cessation Program
     
     ##### Prenatal Program
     
