@@ -1,7 +1,3 @@
-[🎁 CYBER offer: 30% OFF with code CYBERPLAY 🎁](https://www.playmobil.com/en-us/web-shop/)
-
-[🎁 CYBER offer: 30% OFF with code CYBERPLAY 🎁](https://www.playmobil.com/en-us/web-shop/)
-
 [](https://www.playmobil.us/en-us/)
 
 [Sign in](https://www.playmobil.us/en-us/login/)
