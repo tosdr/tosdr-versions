@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Breaking News
 
-[Chilling video shows gunman executing UnitedHealthcare CEO at close range](https://nypost.com/2024/12/04/us-news/video-shows-gunman-executing-brian-thompson-at-close-range-as-unitedhealthcare-ceo-stumbles-away/)
+[UnitedHealthcare CEO was facing DOJ insider trading probe when he was killed in targeted NYC shooting](https://nypost.com/2024/12/04/us-news/slain-unitedhealth-ceo-brian-thompson-was-facing-doj-probe-for-insider-trading-report/)
 
 Privacy Notice Highlights
 =========================
