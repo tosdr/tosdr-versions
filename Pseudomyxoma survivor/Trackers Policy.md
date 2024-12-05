@@ -177,7 +177,11 @@ Website Privacy and Cookies
 
 [Privacy Policy](https://www.iubenda.com/privacy-policy/99538880 "Privacy Policy")
 
-![Pseudomyxoma Survivor logo](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/pseudomyxoma-survivor-logo-180x180-comp.png)Pseudomyxoma Survivor is dedicated to supporting those affected by pseudomyxoma peritonei (PMP),  
+![Pseudomyxoma Survivor logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20102%20102'%3E%3C/svg%3E)
+
+![Pseudomyxoma Survivor logo](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/pseudomyxoma-survivor-logo-180x180-comp.png)
+
+Pseudomyxoma Survivor is dedicated to supporting those affected by pseudomyxoma peritonei (PMP),  
 appendix cancer and other peritoneal surface malignancies through practical and emotional support. We also raise awareness and support research.
 
 As survivors and carers, information here is from our perspective – we are _not_ health care professionals. We are all individuals, everyone is different. We recommend that you take advice from your doctors for specific information.
@@ -190,6 +194,8 @@ Our patron is Sean Hepburn Ferrer, the son of Audrey Hepburn who passed away fro
 * [We need your stamps!](https://www.pseudomyxomasurvivor.org/recycle-stamps/)
 * [Your Account](https://www.pseudomyxomasurvivor.org/my-account/)
 * [Let us know you’ve visited](https://www.pseudomyxomasurvivor.org/guestbook/)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2092'%3E%3C/svg%3E)
 
 ![](https://www.pseudomyxomasurvivor.org/wp-content/uploads/2020/07/FR_RegLogo_WO_HR-300x92_lossless.png)
 
