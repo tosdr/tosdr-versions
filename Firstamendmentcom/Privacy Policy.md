@@ -25,7 +25,17 @@
 
 [](javascript:void(0))
 
-  [![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png) ![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
+[![logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
+
+![dark logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![dark logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)
+
+![light logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20402%20190'%3E%3C/svg%3E)
+
+![light logo](https://www.firstamendment.com/wp-content/uploads/2020/06/logo-1.png)](https://www.firstamendment.com/)
 
 [(407) 975-9150](tel:(407)%20975-9150) [Facebook](https://www.facebook.com/WebLaw) [Twitter](https://twitter.com/walterslawgroup) [Linkedin](https://www.linkedin.com/company/walters-law-group-firstamendment.com-?trk=company_logo) [Instagram](https://www.instagram.com/walterslawgroup/) [wikipedia](https://en.wikipedia.org/wiki/Lawrence_G._Walters) [YouTube](https://www.youtube.com/user/webattorney/videos) [Menu](javascript:void(0))
 
@@ -286,11 +296,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[27 Nov](https://twitter.com/walterslawgroup/status/1861593010812694850)
+[3 Dec](https://twitter.com/walterslawgroup/status/1863957429710717241)
 
-FSC Sues Tennessee Over AV Law, Seeks Preliminary Injunction
+Lawrence Walters and ⁦@RicciLevy⁩ of ⁦@WoodhullFreedom⁩ talk sexual freedom on Beat the Prosecution Podcast with ⁦⁦@JonKatz5⁩
 
-[Reply on Twitter 1861593010812694850](https://twitter.com/intent/tweet?in_reply_to=1861593010812694850&related=walterslawgroup) [Retweet on Twitter 1861593010812694850](https://twitter.com/intent/retweet?tweet_id=1861593010812694850&related=walterslawgroup) [Like on Twitter 1861593010812694850 2](https://twitter.com/intent/like?tweet_id=1861593010812694850&related=walterslawgroup) [Twitter 1861593010812694850](https://twitter.com/walterslawgroup/status/1861593010812694850)
+[Reply on Twitter 1863957429710717241](https://twitter.com/intent/tweet?in_reply_to=1863957429710717241&related=walterslawgroup) [Retweet on Twitter 1863957429710717241](https://twitter.com/intent/retweet?tweet_id=1863957429710717241&related=walterslawgroup) [Like on Twitter 1863957429710717241 4](https://twitter.com/intent/like?tweet_id=1863957429710717241&related=walterslawgroup) [Twitter 1863957429710717241](https://twitter.com/walterslawgroup/status/1863957429710717241)
 
 [Load More](javascript:void(0);)
 
