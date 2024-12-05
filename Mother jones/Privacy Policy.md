@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR64%7CPAHPR64/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR63%7CPAHPR63/)
 
-It's not too late!
+Autocratic forces are ascendant.
 
-We’re not quite there yet, so the deadline for our Giving Tuesday $50,000 digital match has been extended by another day. **All online donations before midnight TONIGHT will be matched dollar-for-dollar**. It’s not too late to stand with truth-telling independent media and have your gift doubled.
+Truth-telling independent media is one remaining bulwark against an autocrat’s unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
 
-We’re not quite there yet, so the deadline for our Giving Tuesday $50,000 digital match has been extended by a day. **All online donations before midnight TONIGHT will be matched dollar-for-dollar**. It’s not too late to stand with truth-telling independent media and have your gift doubled.
+Autocratic forces are ascendant in America. But truth-telling independent media is one remaining bulwark against the unrestrained exercise of power. At a time when billionaire owners of corporate media are making accommodations to political leaders, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRZ%7CPAHPMRZ/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRY%7CPAHPMRY/)
 
 Privacy Policy
 ==============
