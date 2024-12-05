@@ -1,126 +1,6 @@
-[](https://amplitude.com/)
+Amplitude
 
-[Platform](https://amplitude.com/digital-analytics-platform)
-
-![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
-
-One platform, countless insights
-
-Get fast and easy access to customer insights at every step of their journey
-
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
-
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
-
-#### Analytics
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
-    
-    Product Analytics
-    
-    Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
-    
-    Web Analytics
-    
-    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
-    
-    Session Replay
-    
-    Visualize sessions based on events in your product](https://amplitude.com/session-replay)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
-    
-    Warehouse-native Amplitude
-    
-    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
-
-* [Product Analytics](https://amplitude.com/amplitude-analytics)
-* [Web Analytics](https://amplitude.com/web-analytics)
-* [Session Replay](https://amplitude.com/session-replay)
-* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
-
-#### Experiment
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
-    
-    Feature Experimentation
-    
-    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
-    
-    Web Experimentation
-    
-    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
-    
-    Feature Management
-    
-    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
-
-* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
-* [Web Experimentation](https://amplitude.com/web-experimentation)
-* [Feature Management](https://amplitude.com/feature-management)
-
-#### Data
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
-    
-    Data Governance
-    
-    Complete data you can trust](https://amplitude.com/data-management)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
-    
-    Integrations
-    
-    Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
-    
-    Security & Privacy
-    
-    Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
-    
-    AI
-    
-    Self-service data meets self-service intelligence](https://amplitude.com/ai)
-
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
-* [Data Governance](https://amplitude.com/data-management)
-* [Integrations](https://amplitude.com/integrations)
-* [Security & Privacy](https://amplitude.com/trust)
-* [AI](https://amplitude.com/ai)
-
-[Platform](https://amplitude.com/digital-analytics-platform)
+Platform
 
 ![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
 
@@ -128,665 +8,47 @@ One platform, countless insights
 
 Get fast and easy access to customer insights at every step of their journey
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
 #### Analytics
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
-    
-    Product Analytics
-    
-    Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
-    
-    Web Analytics
-    
-    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
-    
-    Session Replay
-    
-    Visualize sessions based on events in your product](https://amplitude.com/session-replay)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
-    
-    Warehouse-native Amplitude
-    
-    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
-* [Product Analytics](https://amplitude.com/amplitude-analytics)
-* [Web Analytics](https://amplitude.com/web-analytics)
-* [Session Replay](https://amplitude.com/session-replay)
-* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
 #### Experiment
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
-    
-    Feature Experimentation
-    
-    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
-    
-    Web Experimentation
-    
-    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
-    
-    Feature Management
-    
-    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
-* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
-* [Web Experimentation](https://amplitude.com/web-experimentation)
-* [Feature Management](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
 #### Data
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
-    
-    Data Governance
-    
-    Complete data you can trust](https://amplitude.com/data-management)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
-    
-    Integrations
-    
-    Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
-    
-    Security & Privacy
-    
-    Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
-    
-    AI
-    
-    Self-service data meets self-service intelligence](https://amplitude.com/ai)
-
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
-* [Data Governance](https://amplitude.com/data-management)
-* [Integrations](https://amplitude.com/integrations)
-* [Security & Privacy](https://amplitude.com/trust)
-* [AI](https://amplitude.com/ai)
-
-[Solutions](https://amplitude.com/solutions)
-
-![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
-
-Solutions that drive business results
-
-Deliver customer value and drive business outcomes
-
-[Amplitude Solutions](https://amplitude.com/solutions)
-
-[Amplitude Solutions](https://amplitude.com/solutions)
-
-#### Industry
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Financial Services icon](https://cdn.sanity.io/images/l5rq9j6r/production/f0053c58aab2e986495670dc0a118ca37d0da108-24x24.svg)
-    
-    Financial Services
-    
-    Personalize the banking experience](https://amplitude.com/industry/financial-services)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![B2B icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![B2B icon](https://cdn.sanity.io/images/l5rq9j6r/production/5ac1568edf6309c0cb8993546df6d063ea1f1a88-24x24.svg)
-    
-    B2B
-    
-    Maximize product adoption](https://amplitude.com/industry/b2b-saas)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Media icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Media icon](https://cdn.sanity.io/images/l5rq9j6r/production/c814e79c4afed2661ab360f431f4241a7d2c1449-24x24.svg)
-    
-    Media
-    
-    Identify impactful content](https://amplitude.com/industry/media)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Healthcare industry icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Healthcare industry icon](https://cdn.sanity.io/images/l5rq9j6r/production/3140199f993d3512d0ae080b378e8229fdad0cec-24x24.svg)
-    
-    Healthcare
-    
-    Simplify the digital healthcare experience](https://amplitude.com/industry/healthcare)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Ecommerce icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Ecommerce icon](https://cdn.sanity.io/images/l5rq9j6r/production/bcf5fbd1446cea26e21a9aa035d915caeb05454d-24x24.svg)
-    
-    Ecommerce
-    
-    Optimize for transactions](https://amplitude.com/industry/ecommerce)
-
-* [Financial Services](https://amplitude.com/industry/financial-services)
-* [B2B](https://amplitude.com/industry/b2b-saas)
-* [Media](https://amplitude.com/industry/media)
-* [Healthcare](https://amplitude.com/industry/healthcare)
-* [Ecommerce](https://amplitude.com/industry/ecommerce)
-
-#### Use Case
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Acquisition Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Acquisition Icon](https://cdn.sanity.io/images/l5rq9j6r/production/ec1a6cd4fa93ef6316999a2304c86614319de0f5-24x24.svg)
-    
-    Grow active users
-    
-    Get users hooked from day one](https://amplitude.com/solutions/user-acquisition)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Retention icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Retention icon](https://cdn.sanity.io/images/l5rq9j6r/production/c245906ee86ca9ce8df0d15bd92ed33738571890-24x24.svg)
-    
-    Increase customer lifetime value
-    
-    Understand your customers like no one else](https://amplitude.com/solutions/retention)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Monetization icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Monetization icon](https://cdn.sanity.io/images/l5rq9j6r/production/054b624be8d0d482d7eca1cb67dad43f6031aa0e-24x24.svg)
-    
-    Accelerate monetization
-    
-    Turn behavior into business](https://amplitude.com/solutions/monetization)
-
-* [Grow active users](https://amplitude.com/solutions/user-acquisition)
-* [Increase customer lifetime value](https://amplitude.com/solutions/retention)
-* [Accelerate monetization](https://amplitude.com/solutions/monetization)
-
-#### Team
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![product icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![product icon](https://cdn.sanity.io/images/l5rq9j6r/production/abfb7eee63e49d207a92c14a59c45beb3e63ae37-64x64.svg)
-    
-    Product
-    
-    Fuel faster growth](https://amplitude.com/solutions/product)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![data icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![data icon](https://cdn.sanity.io/images/l5rq9j6r/production/da461a450f14891298ed8fc683f202ed08838c54-64x64.svg)
-    
-    Data
-    
-    Make trusted data accessible](https://amplitude.com/solutions/data)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![engineering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![engineering](https://cdn.sanity.io/images/l5rq9j6r/production/23597e739881b3c5023466c0264d9f81e5c4f1c5-64x64.svg)
-    
-    Engineering
-    
-    Ship faster, learn more](https://amplitude.com/solutions/engineering)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![marketing icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![marketing icon](https://cdn.sanity.io/images/l5rq9j6r/production/9ef5e10ddd0d0cf3907493ce7a42b9f4d3643875-64x64.svg)
-    
-    Marketing
-    
-    Build customers for life](https://amplitude.com/solutions/marketing)
-
-* [Product](https://amplitude.com/solutions/product)
-* [Data](https://amplitude.com/solutions/data)
-* [Engineering](https://amplitude.com/solutions/engineering)
-* [Marketing](https://amplitude.com/solutions/marketing)
-
-#### Size
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![startup icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![startup icon](https://cdn.sanity.io/images/l5rq9j6r/production/1d1d3954617be509a8af58195b69aa6518c01efc-64x64.svg)
-    
-    Startups
-    
-    Free analytics tools for startups](https://amplitude.com/startups)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Enterprise Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Enterprise Icon](https://cdn.sanity.io/images/l5rq9j6r/production/101c64c901ef6029d22e4fc49070ea4cdc4d828a-64x64.svg)
-    
-    Enterprise
-    
-    Advanced analytics for scaling businesses](https://amplitude.com/enterprise)
-
-* [Startups](https://amplitude.com/startups)
-* [Enterprise](https://amplitude.com/enterprise)
-
-[Solutions](https://amplitude.com/solutions)
-
-![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
-
-Solutions that drive business results
-
-Deliver customer value and drive business outcomes
-
-[Amplitude Solutions](https://amplitude.com/solutions)
-
-[Amplitude Solutions](https://amplitude.com/solutions)
-
-#### Industry
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Financial Services icon](https://cdn.sanity.io/images/l5rq9j6r/production/f0053c58aab2e986495670dc0a118ca37d0da108-24x24.svg)
-    
-    Financial Services
-    
-    Personalize the banking experience](https://amplitude.com/industry/financial-services)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![B2B icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![B2B icon](https://cdn.sanity.io/images/l5rq9j6r/production/5ac1568edf6309c0cb8993546df6d063ea1f1a88-24x24.svg)
-    
-    B2B
-    
-    Maximize product adoption](https://amplitude.com/industry/b2b-saas)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Media icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Media icon](https://cdn.sanity.io/images/l5rq9j6r/production/c814e79c4afed2661ab360f431f4241a7d2c1449-24x24.svg)
-    
-    Media
-    
-    Identify impactful content](https://amplitude.com/industry/media)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Healthcare industry icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Healthcare industry icon](https://cdn.sanity.io/images/l5rq9j6r/production/3140199f993d3512d0ae080b378e8229fdad0cec-24x24.svg)
-    
-    Healthcare
-    
-    Simplify the digital healthcare experience](https://amplitude.com/industry/healthcare)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Ecommerce icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Ecommerce icon](https://cdn.sanity.io/images/l5rq9j6r/production/bcf5fbd1446cea26e21a9aa035d915caeb05454d-24x24.svg)
-    
-    Ecommerce
-    
-    Optimize for transactions](https://amplitude.com/industry/ecommerce)
-
-* [Financial Services](https://amplitude.com/industry/financial-services)
-* [B2B](https://amplitude.com/industry/b2b-saas)
-* [Media](https://amplitude.com/industry/media)
-* [Healthcare](https://amplitude.com/industry/healthcare)
-* [Ecommerce](https://amplitude.com/industry/ecommerce)
-
-#### Use Case
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Acquisition Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Acquisition Icon](https://cdn.sanity.io/images/l5rq9j6r/production/ec1a6cd4fa93ef6316999a2304c86614319de0f5-24x24.svg)
-    
-    Grow active users
-    
-    Get users hooked from day one](https://amplitude.com/solutions/user-acquisition)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Retention icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Retention icon](https://cdn.sanity.io/images/l5rq9j6r/production/c245906ee86ca9ce8df0d15bd92ed33738571890-24x24.svg)
-    
-    Increase customer lifetime value
-    
-    Understand your customers like no one else](https://amplitude.com/solutions/retention)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Monetization icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Monetization icon](https://cdn.sanity.io/images/l5rq9j6r/production/054b624be8d0d482d7eca1cb67dad43f6031aa0e-24x24.svg)
-    
-    Accelerate monetization
-    
-    Turn behavior into business](https://amplitude.com/solutions/monetization)
-
-* [Grow active users](https://amplitude.com/solutions/user-acquisition)
-* [Increase customer lifetime value](https://amplitude.com/solutions/retention)
-* [Accelerate monetization](https://amplitude.com/solutions/monetization)
-
-#### Team
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![product icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![product icon](https://cdn.sanity.io/images/l5rq9j6r/production/abfb7eee63e49d207a92c14a59c45beb3e63ae37-64x64.svg)
-    
-    Product
-    
-    Fuel faster growth](https://amplitude.com/solutions/product)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![data icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![data icon](https://cdn.sanity.io/images/l5rq9j6r/production/da461a450f14891298ed8fc683f202ed08838c54-64x64.svg)
-    
-    Data
-    
-    Make trusted data accessible](https://amplitude.com/solutions/data)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![engineering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![engineering](https://cdn.sanity.io/images/l5rq9j6r/production/23597e739881b3c5023466c0264d9f81e5c4f1c5-64x64.svg)
-    
-    Engineering
-    
-    Ship faster, learn more](https://amplitude.com/solutions/engineering)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![marketing icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![marketing icon](https://cdn.sanity.io/images/l5rq9j6r/production/9ef5e10ddd0d0cf3907493ce7a42b9f4d3643875-64x64.svg)
-    
-    Marketing
-    
-    Build customers for life](https://amplitude.com/solutions/marketing)
-
-* [Product](https://amplitude.com/solutions/product)
-* [Data](https://amplitude.com/solutions/data)
-* [Engineering](https://amplitude.com/solutions/engineering)
-* [Marketing](https://amplitude.com/solutions/marketing)
-
-#### Size
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![startup icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![startup icon](https://cdn.sanity.io/images/l5rq9j6r/production/1d1d3954617be509a8af58195b69aa6518c01efc-64x64.svg)
-    
-    Startups
-    
-    Free analytics tools for startups](https://amplitude.com/startups)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Enterprise Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Enterprise Icon](https://cdn.sanity.io/images/l5rq9j6r/production/101c64c901ef6029d22e4fc49070ea4cdc4d828a-64x64.svg)
-    
-    Enterprise
-    
-    Advanced analytics for scaling businesses](https://amplitude.com/enterprise)
-
-* [Startups](https://amplitude.com/startups)
-* [Enterprise](https://amplitude.com/enterprise)
-
-[Resources](https://amplitude.com/blog)
-
-#### Learn
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
-    
-    Blog
-    
-    Thought leadership from industry experts](https://amplitude.com/blog)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
-    
-    Resource Center
-    
-    Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
-    
-    Glossary
-    
-    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
-    
-    Templates
-    
-    Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
-    
-    Explore Hub
-    
-    Detailed guides on product and web analytics](https://amplitude.com/explore)
-
-* [Blog](https://amplitude.com/blog)
-* [Resource Center](https://amplitude.com/resources)
-* [Glossary](https://amplitude.com/glossary/terms)
-* [Templates](https://amplitude.com/templates)
-* [Explore Hub](https://amplitude.com/explore)
-
-#### Connect
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Community icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Community icon](https://cdn.sanity.io/images/l5rq9j6r/production/3435bccee71c346f5ce7f732adfff8667e4faaeb-24x24.svg)
-    
-    Community
-    
-    Connect with peers in product analytics](https://amplitude.com/community)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Events icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Events icon](https://cdn.sanity.io/images/l5rq9j6r/production/acf1c26b4a42adef6936e4a5197f169062c40b84-24x24.svg)
-    
-    Events
-    
-    Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
-    
-    Customers
-    
-    Discover why customers love Amplitude](https://amplitude.com/customers)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
-    
-    Partners
-    
-    Accelerate business value through our ecosystem](https://amplitude.com/partners)
-
-* [Community](https://amplitude.com/community)
-* [Events](https://amplitude.com/events)
-* [Customers](https://amplitude.com/customers)
-* [Partners](https://amplitude.com/partners)
-
-#### Support & Services
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Help Center icon](https://cdn.sanity.io/images/l5rq9j6r/production/e1dcec79125932d9870d9f16e52c25820c0cf7b6-24x24.svg)
-    
-    Help Center
-    
-    Answers to every Amplitude question](https://amplitude.com/docs)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
-    
-    Developer Hub
-    
-    Integrate and instrument Amplitude](https://www.docs.developers.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Academy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Academy icon](https://cdn.sanity.io/images/l5rq9j6r/production/a2963a4c2588777888a59a0eca9f6a3dc8074bec-24x24.svg)
-    
-    Academy & Training
-    
-    Become an Amplitude pro](https://academy.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
-    
-    Professional Services
-    
-    Drive business success with expert guidance and support](https://amplitude.com/services)
-
-* [Help Center](https://amplitude.com/docs)
-* [Developer Hub](https://www.docs.developers.amplitude.com/)
-* [Academy & Training](https://academy.amplitude.com/)
-* [Professional Services](https://amplitude.com/services)
-
-#### Tools
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
-    
-    Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
-
-* [Benchmarks](https://amplitude.com/benchmarks)
-
-[Resources](https://amplitude.com/blog)
-
-#### Learn
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
-    
-    Blog
-    
-    Thought leadership from industry experts](https://amplitude.com/blog)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
-    
-    Resource Center
-    
-    Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
-    
-    Glossary
-    
-    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
-    
-    Templates
-    
-    Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
-    
-    Explore Hub
-    
-    Detailed guides on product and web analytics](https://amplitude.com/explore)
-
-* [Blog](https://amplitude.com/blog)
-* [Resource Center](https://amplitude.com/resources)
-* [Glossary](https://amplitude.com/glossary/terms)
-* [Templates](https://amplitude.com/templates)
-* [Explore Hub](https://amplitude.com/explore)
-
-#### Connect
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Community icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Community icon](https://cdn.sanity.io/images/l5rq9j6r/production/3435bccee71c346f5ce7f732adfff8667e4faaeb-24x24.svg)
-    
-    Community
-    
-    Connect with peers in product analytics](https://amplitude.com/community)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Events icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Events icon](https://cdn.sanity.io/images/l5rq9j6r/production/acf1c26b4a42adef6936e4a5197f169062c40b84-24x24.svg)
-    
-    Events
-    
-    Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
-    
-    Customers
-    
-    Discover why customers love Amplitude](https://amplitude.com/customers)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
-    
-    Partners
-    
-    Accelerate business value through our ecosystem](https://amplitude.com/partners)
-
-* [Community](https://amplitude.com/community)
-* [Events](https://amplitude.com/events)
-* [Customers](https://amplitude.com/customers)
-* [Partners](https://amplitude.com/partners)
-
-#### Support & Services
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Help Center icon](https://cdn.sanity.io/images/l5rq9j6r/production/e1dcec79125932d9870d9f16e52c25820c0cf7b6-24x24.svg)
-    
-    Help Center
-    
-    Answers to every Amplitude question](https://amplitude.com/docs)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
-    
-    Developer Hub
-    
-    Integrate and instrument Amplitude](https://www.docs.developers.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Academy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Academy icon](https://cdn.sanity.io/images/l5rq9j6r/production/a2963a4c2588777888a59a0eca9f6a3dc8074bec-24x24.svg)
-    
-    Academy & Training
-    
-    Become an Amplitude pro](https://academy.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
-    
-    Professional Services
-    
-    Drive business success with expert guidance and support](https://amplitude.com/services)
-
-* [Help Center](https://amplitude.com/docs)
-* [Developer Hub](https://www.docs.developers.amplitude.com/)
-* [Academy & Training](https://academy.amplitude.com/)
-* [Professional Services](https://amplitude.com/services)
-
-#### Tools
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
-    
-    Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
-
-* [Benchmarks](https://amplitude.com/benchmarks)
-
-[Pricing](https://amplitude.com/pricing)
-
-[Pricing](https://amplitude.com/pricing)
-
-[](https://amplitude.com/)
-
-[Platform](https://amplitude.com/digital-analytics-platform)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
+
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
+
+Platform
 
 ![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
 
@@ -794,119 +56,257 @@ One platform, countless insights
 
 Get fast and easy access to customer insights at every step of their journey
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
 #### Analytics
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
-    
-    Product Analytics
-    
-    Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
-    
-    Web Analytics
-    
-    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
-    
-    Session Replay
-    
-    Visualize sessions based on events in your product](https://amplitude.com/session-replay)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
-    
-    Warehouse-native Amplitude
-    
-    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
-* [Product Analytics](https://amplitude.com/amplitude-analytics)
-* [Web Analytics](https://amplitude.com/web-analytics)
-* [Session Replay](https://amplitude.com/session-replay)
-* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
 #### Experiment
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
-    
-    Feature Experimentation
-    
-    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
-    
-    Web Experimentation
-    
-    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
-    
-    Feature Management
-    
-    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
-* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
-* [Web Experimentation](https://amplitude.com/web-experimentation)
-* [Feature Management](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
 #### Data
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
-    
-    Data Governance
-    
-    Complete data you can trust](https://amplitude.com/data-management)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
-    
-    Integrations
-    
-    Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
-    
-    Security & Privacy
-    
-    Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
-    
-    AI
-    
-    Self-service data meets self-service intelligence](https://amplitude.com/ai)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
-* [Data Governance](https://amplitude.com/data-management)
-* [Integrations](https://amplitude.com/integrations)
-* [Security & Privacy](https://amplitude.com/trust)
-* [AI](https://amplitude.com/ai)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-[Platform](https://amplitude.com/digital-analytics-platform)
+Solutions
+
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+Amplitude Solutions
+
+Amplitude Solutions
+
+#### Industry
+
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
+
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
+
+#### Use Case
+
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
+
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
+
+#### Team
+
+* Product
+* Data
+* Engineering
+* Marketing
+
+* Product
+* Data
+* Engineering
+* Marketing
+
+#### Size
+
+* Startups
+* Enterprise
+
+* Startups
+* Enterprise
+
+Solutions
+
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+
+Solutions that drive business results
+
+Deliver customer value and drive business outcomes
+
+Amplitude Solutions
+
+Amplitude Solutions
+
+#### Industry
+
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
+
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
+
+#### Use Case
+
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
+
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
+
+#### Team
+
+* Product
+* Data
+* Engineering
+* Marketing
+
+* Product
+* Data
+* Engineering
+* Marketing
+
+#### Size
+
+* Startups
+* Enterprise
+
+* Startups
+* Enterprise
+
+Resources
+
+#### Learn
+
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+#### Connect
+
+* Community
+* Events
+* Customers
+* Partners
+
+* Community
+* Events
+* Customers
+* Partners
+
+#### Support & Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+#### Tools
+
+* Benchmarks
+
+* Benchmarks
+
+Resources
+
+#### Learn
+
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+#### Connect
+
+* Community
+* Events
+* Customers
+* Partners
+
+* Community
+* Events
+* Customers
+* Partners
+
+#### Support & Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+#### Tools
+
+* Benchmarks
+
+* Benchmarks
+
+Pricing
+
+Pricing
+
+Amplitude
+
+Platform
 
 ![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
 
@@ -914,259 +314,95 @@ One platform, countless insights
 
 Get fast and easy access to customer insights at every step of their journey
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
-[Amplitude Platform](https://amplitude.com/digital-analytics-platform)
+Amplitude Platform
 
 #### Analytics
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Analytics icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Analytics icon](https://cdn.sanity.io/images/l5rq9j6r/production/cefb51787f695a6c892ec2c7a9e1328b1b142809-24x24.svg)
-    
-    Product Analytics
-    
-    Understand the full user journey](https://amplitude.com/amplitude-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web analytics](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web analytics](https://cdn.sanity.io/images/l5rq9j6r/production/870e5244c7f1f65b96a5456c59456e0243f66820-64x64.svg)
-    
-    Web Analytics
-    
-    Get the metrics you need with one line of code](https://amplitude.com/web-analytics)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![session replay icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![session replay icon](https://cdn.sanity.io/images/l5rq9j6r/production/15ce1dcc5134cfbc595aa0fc127ef315f92b4339-24x24.svg)
-    
-    Session Replay
-    
-    Visualize sessions based on events in your product](https://amplitude.com/session-replay)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![warehosue native](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![warehosue native](https://cdn.sanity.io/images/l5rq9j6r/production/65f490df70a53039b930ec63dd6d693a0758e238-64x64.svg)
-    
-    Warehouse-native Amplitude
-    
-    Unlock insights from your data warehouse](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
-* [Product Analytics](https://amplitude.com/amplitude-analytics)
-* [Web Analytics](https://amplitude.com/web-analytics)
-* [Session Replay](https://amplitude.com/session-replay)
-* [Warehouse-native Amplitude](https://amplitude.com/warehouse-native)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
 #### Experiment
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/7cac53b7cfc95a1b2d36f8a508762039eaa6dba8-64x64.svg)
-    
-    Feature Experimentation
-    
-    Innovate with personalized product experiences](https://amplitude.com/amplitude-experiment)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![web experimentation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![web experimentation](https://cdn.sanity.io/images/l5rq9j6r/production/3674bf2897a4e81047f4b831e7f82cbae1473f22-64x64.svg)
-    
-    Web Experimentation
-    
-    Drive conversion with A/B testing powered by data](https://amplitude.com/web-experimentation)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![feature management](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![feature management](https://cdn.sanity.io/images/l5rq9j6r/production/6fda12d865c0ea2164872ded7b1e2359b9c4d8c7-64x64.svg)
-    
-    Feature Management
-    
-    Build fast, target easily, and learn as you ship](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
-* [Feature Experimentation](https://amplitude.com/amplitude-experiment)
-* [Web Experimentation](https://amplitude.com/web-experimentation)
-* [Feature Management](https://amplitude.com/feature-management)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
 #### Data
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![customer data platform](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![customer data platform](https://cdn.sanity.io/images/l5rq9j6r/production/f3732f258d6cb6bda738ea0b58dfc4b6f804b405-24x24.svg)
-    
-    Customer Data Platform
-    
-    Unite data across teams](https://amplitude.com/customer-data-platform)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Data Management icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Data Management icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ebe22b1d3201e4ffa40f4dfa2bc541f5d23a057-24x24.svg)
-    
-    Data Governance
-    
-    Complete data you can trust](https://amplitude.com/data-management)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Integrations icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Integrations icon](https://cdn.sanity.io/images/l5rq9j6r/production/4ac187feaf405cd560a8034b624115337b804f19-24x24.svg)
-    
-    Integrations
-    
-    Connect Amplitude to hundreds of partners](https://amplitude.com/integrations)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Security and privacy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Security and privacy icon](https://cdn.sanity.io/images/l5rq9j6r/production/bb86847dbcc99bfdeda3d365e6adcc846bf2a40b-24x24.svg)
-    
-    Security & Privacy
-    
-    Keep your data secure and compliant](https://amplitude.com/trust)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![AI icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![AI icon](https://cdn.sanity.io/images/l5rq9j6r/production/53c21ca11b602fc70158f132254018dd8f41eda5-24x24.svg)
-    
-    AI
-    
-    Self-service data meets self-service intelligence](https://amplitude.com/ai)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
-* [Data Governance](https://amplitude.com/data-management)
-* [Integrations](https://amplitude.com/integrations)
-* [Security & Privacy](https://amplitude.com/trust)
-* [AI](https://amplitude.com/ai)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-[Solutions](https://amplitude.com/solutions)
+Platform
 
-![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2F64ced76119d4c77535f9903942856cbbf281591d-596x320.png&w=3840&q=75)
 
-Solutions that drive business results
+One platform, countless insights
 
-Deliver customer value and drive business outcomes
+Get fast and easy access to customer insights at every step of their journey
 
-[Amplitude Solutions](https://amplitude.com/solutions)
+Amplitude Platform
 
-[Amplitude Solutions](https://amplitude.com/solutions)
+Amplitude Platform
 
-#### Industry
+#### Analytics
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Financial Services icon](https://cdn.sanity.io/images/l5rq9j6r/production/f0053c58aab2e986495670dc0a118ca37d0da108-24x24.svg)
-    
-    Financial Services
-    
-    Personalize the banking experience](https://amplitude.com/industry/financial-services)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![B2B icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![B2B icon](https://cdn.sanity.io/images/l5rq9j6r/production/5ac1568edf6309c0cb8993546df6d063ea1f1a88-24x24.svg)
-    
-    B2B
-    
-    Maximize product adoption](https://amplitude.com/industry/b2b-saas)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Media icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Media icon](https://cdn.sanity.io/images/l5rq9j6r/production/c814e79c4afed2661ab360f431f4241a7d2c1449-24x24.svg)
-    
-    Media
-    
-    Identify impactful content](https://amplitude.com/industry/media)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Healthcare industry icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Healthcare industry icon](https://cdn.sanity.io/images/l5rq9j6r/production/3140199f993d3512d0ae080b378e8229fdad0cec-24x24.svg)
-    
-    Healthcare
-    
-    Simplify the digital healthcare experience](https://amplitude.com/industry/healthcare)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Ecommerce icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Ecommerce icon](https://cdn.sanity.io/images/l5rq9j6r/production/bcf5fbd1446cea26e21a9aa035d915caeb05454d-24x24.svg)
-    
-    Ecommerce
-    
-    Optimize for transactions](https://amplitude.com/industry/ecommerce)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
-* [Financial Services](https://amplitude.com/industry/financial-services)
-* [B2B](https://amplitude.com/industry/b2b-saas)
-* [Media](https://amplitude.com/industry/media)
-* [Healthcare](https://amplitude.com/industry/healthcare)
-* [Ecommerce](https://amplitude.com/industry/ecommerce)
+* Product Analytics
+* Web Analytics
+* Session Replay
+* Warehouse-native Amplitude
 
-#### Use Case
+#### Experiment
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Acquisition Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Acquisition Icon](https://cdn.sanity.io/images/l5rq9j6r/production/ec1a6cd4fa93ef6316999a2304c86614319de0f5-24x24.svg)
-    
-    Grow active users
-    
-    Get users hooked from day one](https://amplitude.com/solutions/user-acquisition)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Retention icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Retention icon](https://cdn.sanity.io/images/l5rq9j6r/production/c245906ee86ca9ce8df0d15bd92ed33738571890-24x24.svg)
-    
-    Increase customer lifetime value
-    
-    Understand your customers like no one else](https://amplitude.com/solutions/retention)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Monetization icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Monetization icon](https://cdn.sanity.io/images/l5rq9j6r/production/054b624be8d0d482d7eca1cb67dad43f6031aa0e-24x24.svg)
-    
-    Accelerate monetization
-    
-    Turn behavior into business](https://amplitude.com/solutions/monetization)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
-* [Grow active users](https://amplitude.com/solutions/user-acquisition)
-* [Increase customer lifetime value](https://amplitude.com/solutions/retention)
-* [Accelerate monetization](https://amplitude.com/solutions/monetization)
+* Feature Experimentation
+* Web Experimentation
+* Feature Management
 
-#### Team
+#### Data
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![product icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![product icon](https://cdn.sanity.io/images/l5rq9j6r/production/abfb7eee63e49d207a92c14a59c45beb3e63ae37-64x64.svg)
-    
-    Product
-    
-    Fuel faster growth](https://amplitude.com/solutions/product)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![data icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![data icon](https://cdn.sanity.io/images/l5rq9j6r/production/da461a450f14891298ed8fc683f202ed08838c54-64x64.svg)
-    
-    Data
-    
-    Make trusted data accessible](https://amplitude.com/solutions/data)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![engineering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![engineering](https://cdn.sanity.io/images/l5rq9j6r/production/23597e739881b3c5023466c0264d9f81e5c4f1c5-64x64.svg)
-    
-    Engineering
-    
-    Ship faster, learn more](https://amplitude.com/solutions/engineering)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![marketing icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![marketing icon](https://cdn.sanity.io/images/l5rq9j6r/production/9ef5e10ddd0d0cf3907493ce7a42b9f4d3643875-64x64.svg)
-    
-    Marketing
-    
-    Build customers for life](https://amplitude.com/solutions/marketing)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-* [Product](https://amplitude.com/solutions/product)
-* [Data](https://amplitude.com/solutions/data)
-* [Engineering](https://amplitude.com/solutions/engineering)
-* [Marketing](https://amplitude.com/solutions/marketing)
+* Customer Data Platform
+* Data Governance
+* Integrations
+* Security & Privacy
+* AI
 
-#### Size
-
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![startup icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![startup icon](https://cdn.sanity.io/images/l5rq9j6r/production/1d1d3954617be509a8af58195b69aa6518c01efc-64x64.svg)
-    
-    Startups
-    
-    Free analytics tools for startups](https://amplitude.com/startups)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Enterprise Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Enterprise Icon](https://cdn.sanity.io/images/l5rq9j6r/production/101c64c901ef6029d22e4fc49070ea4cdc4d828a-64x64.svg)
-    
-    Enterprise
-    
-    Advanced analytics for scaling businesses](https://amplitude.com/enterprise)
-
-* [Startups](https://amplitude.com/startups)
-* [Enterprise](https://amplitude.com/enterprise)
-
-[Solutions](https://amplitude.com/solutions)
+Solutions
 
 ![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
 
@@ -1174,403 +410,207 @@ Solutions that drive business results
 
 Deliver customer value and drive business outcomes
 
-[Amplitude Solutions](https://amplitude.com/solutions)
+Amplitude Solutions
 
-[Amplitude Solutions](https://amplitude.com/solutions)
+Amplitude Solutions
 
 #### Industry
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Financial Services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Financial Services icon](https://cdn.sanity.io/images/l5rq9j6r/production/f0053c58aab2e986495670dc0a118ca37d0da108-24x24.svg)
-    
-    Financial Services
-    
-    Personalize the banking experience](https://amplitude.com/industry/financial-services)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![B2B icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![B2B icon](https://cdn.sanity.io/images/l5rq9j6r/production/5ac1568edf6309c0cb8993546df6d063ea1f1a88-24x24.svg)
-    
-    B2B
-    
-    Maximize product adoption](https://amplitude.com/industry/b2b-saas)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Media icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Media icon](https://cdn.sanity.io/images/l5rq9j6r/production/c814e79c4afed2661ab360f431f4241a7d2c1449-24x24.svg)
-    
-    Media
-    
-    Identify impactful content](https://amplitude.com/industry/media)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Healthcare industry icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Healthcare industry icon](https://cdn.sanity.io/images/l5rq9j6r/production/3140199f993d3512d0ae080b378e8229fdad0cec-24x24.svg)
-    
-    Healthcare
-    
-    Simplify the digital healthcare experience](https://amplitude.com/industry/healthcare)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Ecommerce icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Ecommerce icon](https://cdn.sanity.io/images/l5rq9j6r/production/bcf5fbd1446cea26e21a9aa035d915caeb05454d-24x24.svg)
-    
-    Ecommerce
-    
-    Optimize for transactions](https://amplitude.com/industry/ecommerce)
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
 
-* [Financial Services](https://amplitude.com/industry/financial-services)
-* [B2B](https://amplitude.com/industry/b2b-saas)
-* [Media](https://amplitude.com/industry/media)
-* [Healthcare](https://amplitude.com/industry/healthcare)
-* [Ecommerce](https://amplitude.com/industry/ecommerce)
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
 
 #### Use Case
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Acquisition Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Acquisition Icon](https://cdn.sanity.io/images/l5rq9j6r/production/ec1a6cd4fa93ef6316999a2304c86614319de0f5-24x24.svg)
-    
-    Grow active users
-    
-    Get users hooked from day one](https://amplitude.com/solutions/user-acquisition)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Retention icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Retention icon](https://cdn.sanity.io/images/l5rq9j6r/production/c245906ee86ca9ce8df0d15bd92ed33738571890-24x24.svg)
-    
-    Increase customer lifetime value
-    
-    Understand your customers like no one else](https://amplitude.com/solutions/retention)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Monetization icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Monetization icon](https://cdn.sanity.io/images/l5rq9j6r/production/054b624be8d0d482d7eca1cb67dad43f6031aa0e-24x24.svg)
-    
-    Accelerate monetization
-    
-    Turn behavior into business](https://amplitude.com/solutions/monetization)
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
 
-* [Grow active users](https://amplitude.com/solutions/user-acquisition)
-* [Increase customer lifetime value](https://amplitude.com/solutions/retention)
-* [Accelerate monetization](https://amplitude.com/solutions/monetization)
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
 
 #### Team
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![product icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![product icon](https://cdn.sanity.io/images/l5rq9j6r/production/abfb7eee63e49d207a92c14a59c45beb3e63ae37-64x64.svg)
-    
-    Product
-    
-    Fuel faster growth](https://amplitude.com/solutions/product)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![data icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![data icon](https://cdn.sanity.io/images/l5rq9j6r/production/da461a450f14891298ed8fc683f202ed08838c54-64x64.svg)
-    
-    Data
-    
-    Make trusted data accessible](https://amplitude.com/solutions/data)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![engineering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![engineering](https://cdn.sanity.io/images/l5rq9j6r/production/23597e739881b3c5023466c0264d9f81e5c4f1c5-64x64.svg)
-    
-    Engineering
-    
-    Ship faster, learn more](https://amplitude.com/solutions/engineering)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![marketing icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![marketing icon](https://cdn.sanity.io/images/l5rq9j6r/production/9ef5e10ddd0d0cf3907493ce7a42b9f4d3643875-64x64.svg)
-    
-    Marketing
-    
-    Build customers for life](https://amplitude.com/solutions/marketing)
+* Product
+* Data
+* Engineering
+* Marketing
 
-* [Product](https://amplitude.com/solutions/product)
-* [Data](https://amplitude.com/solutions/data)
-* [Engineering](https://amplitude.com/solutions/engineering)
-* [Marketing](https://amplitude.com/solutions/marketing)
+* Product
+* Data
+* Engineering
+* Marketing
 
 #### Size
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![startup icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![startup icon](https://cdn.sanity.io/images/l5rq9j6r/production/1d1d3954617be509a8af58195b69aa6518c01efc-64x64.svg)
-    
-    Startups
-    
-    Free analytics tools for startups](https://amplitude.com/startups)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Enterprise Icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Enterprise Icon](https://cdn.sanity.io/images/l5rq9j6r/production/101c64c901ef6029d22e4fc49070ea4cdc4d828a-64x64.svg)
-    
-    Enterprise
-    
-    Advanced analytics for scaling businesses](https://amplitude.com/enterprise)
+* Startups
+* Enterprise
 
-* [Startups](https://amplitude.com/startups)
-* [Enterprise](https://amplitude.com/enterprise)
+* Startups
+* Enterprise
 
-[Resources](https://amplitude.com/blog)
+Solutions
 
-#### Learn
+![](/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fl5rq9j6r%2Fproduction%2Fc452a57f80b588b6f02c874ed73563a7ed5c14e0-596x320.png&w=3840&q=75)
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
-    
-    Blog
-    
-    Thought leadership from industry experts](https://amplitude.com/blog)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
-    
-    Resource Center
-    
-    Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
-    
-    Glossary
-    
-    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
-    
-    Templates
-    
-    Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
-    
-    Explore Hub
-    
-    Detailed guides on product and web analytics](https://amplitude.com/explore)
+Solutions that drive business results
 
-* [Blog](https://amplitude.com/blog)
-* [Resource Center](https://amplitude.com/resources)
-* [Glossary](https://amplitude.com/glossary/terms)
-* [Templates](https://amplitude.com/templates)
-* [Explore Hub](https://amplitude.com/explore)
+Deliver customer value and drive business outcomes
 
-#### Connect
+Amplitude Solutions
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Community icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Community icon](https://cdn.sanity.io/images/l5rq9j6r/production/3435bccee71c346f5ce7f732adfff8667e4faaeb-24x24.svg)
-    
-    Community
-    
-    Connect with peers in product analytics](https://amplitude.com/community)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Events icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Events icon](https://cdn.sanity.io/images/l5rq9j6r/production/acf1c26b4a42adef6936e4a5197f169062c40b84-24x24.svg)
-    
-    Events
-    
-    Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
-    
-    Customers
-    
-    Discover why customers love Amplitude](https://amplitude.com/customers)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
-    
-    Partners
-    
-    Accelerate business value through our ecosystem](https://amplitude.com/partners)
+Amplitude Solutions
 
-* [Community](https://amplitude.com/community)
-* [Events](https://amplitude.com/events)
-* [Customers](https://amplitude.com/customers)
-* [Partners](https://amplitude.com/partners)
+#### Industry
 
-#### Support & Services
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Help Center icon](https://cdn.sanity.io/images/l5rq9j6r/production/e1dcec79125932d9870d9f16e52c25820c0cf7b6-24x24.svg)
-    
-    Help Center
-    
-    Answers to every Amplitude question](https://amplitude.com/docs)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
-    
-    Developer Hub
-    
-    Integrate and instrument Amplitude](https://www.docs.developers.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Academy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Academy icon](https://cdn.sanity.io/images/l5rq9j6r/production/a2963a4c2588777888a59a0eca9f6a3dc8074bec-24x24.svg)
-    
-    Academy & Training
-    
-    Become an Amplitude pro](https://academy.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
-    
-    Professional Services
-    
-    Drive business success with expert guidance and support](https://amplitude.com/services)
+* Financial Services
+* B2B
+* Media
+* Healthcare
+* Ecommerce
 
-* [Help Center](https://amplitude.com/docs)
-* [Developer Hub](https://www.docs.developers.amplitude.com/)
-* [Academy & Training](https://academy.amplitude.com/)
-* [Professional Services](https://amplitude.com/services)
+#### Use Case
 
-#### Tools
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
-    
-    Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
+* Grow active users
+* Increase customer lifetime value
+* Accelerate monetization
 
-* [Benchmarks](https://amplitude.com/benchmarks)
+#### Team
 
-[Resources](https://amplitude.com/blog)
+* Product
+* Data
+* Engineering
+* Marketing
+
+* Product
+* Data
+* Engineering
+* Marketing
+
+#### Size
+
+* Startups
+* Enterprise
+
+* Startups
+* Enterprise
+
+Resources
 
 #### Learn
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Blog icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Blog icon](https://cdn.sanity.io/images/l5rq9j6r/production/9557a9d935ce9e836529a2e623ff5dfaec777dde-24x24.svg)
-    
-    Blog
-    
-    Thought leadership from industry experts](https://amplitude.com/blog)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Resource Center](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Resource Center](https://cdn.sanity.io/images/l5rq9j6r/production/1646bf0ec842ccaed88e7d53d5baca4a258f8adc-24x24.svg)
-    
-    Resource Center
-    
-    Expertise to guide your growth](https://amplitude.com/resources)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Glossary icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Glossary icon](https://cdn.sanity.io/images/l5rq9j6r/production/07aef69b19378a21cdea97ed9d817cd956fb089f-24x24.svg)
-    
-    Glossary
-    
-    Learn about analytics, product, and technical terms](https://amplitude.com/glossary/terms)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Template icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Template icon](https://cdn.sanity.io/images/l5rq9j6r/production/9944ca8ac72471b6a8ddd71dbcc8e914b2c85ee7-64x64.svg)
-    
-    Templates
-    
-    Amplitude template library](https://amplitude.com/templates)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
-    
-    Explore Hub
-    
-    Detailed guides on product and web analytics](https://amplitude.com/explore)
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
 
-* [Blog](https://amplitude.com/blog)
-* [Resource Center](https://amplitude.com/resources)
-* [Glossary](https://amplitude.com/glossary/terms)
-* [Templates](https://amplitude.com/templates)
-* [Explore Hub](https://amplitude.com/explore)
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
 
 #### Connect
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Community icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Community icon](https://cdn.sanity.io/images/l5rq9j6r/production/3435bccee71c346f5ce7f732adfff8667e4faaeb-24x24.svg)
-    
-    Community
-    
-    Connect with peers in product analytics](https://amplitude.com/community)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Events icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Events icon](https://cdn.sanity.io/images/l5rq9j6r/production/acf1c26b4a42adef6936e4a5197f169062c40b84-24x24.svg)
-    
-    Events
-    
-    Register for live or virtual events](https://amplitude.com/events)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Customers icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Customers icon](https://cdn.sanity.io/images/l5rq9j6r/production/f53fdf9483cec106263d1844694f27d86f19e4f2-64x64.svg)
-    
-    Customers
-    
-    Discover why customers love Amplitude](https://amplitude.com/customers)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![partners](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![partners](https://cdn.sanity.io/images/l5rq9j6r/production/228fea5df379c7fae34860e82083707609c6004f-24x24.svg)
-    
-    Partners
-    
-    Accelerate business value through our ecosystem](https://amplitude.com/partners)
+* Community
+* Events
+* Customers
+* Partners
 
-* [Community](https://amplitude.com/community)
-* [Events](https://amplitude.com/events)
-* [Customers](https://amplitude.com/customers)
-* [Partners](https://amplitude.com/partners)
+* Community
+* Events
+* Customers
+* Partners
 
 #### Support & Services
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Help Center icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Help Center icon](https://cdn.sanity.io/images/l5rq9j6r/production/e1dcec79125932d9870d9f16e52c25820c0cf7b6-24x24.svg)
-    
-    Help Center
-    
-    Answers to every Amplitude question](https://amplitude.com/docs)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Developer Hub icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Developer Hub icon](https://cdn.sanity.io/images/l5rq9j6r/production/0ce11092fdadc6e391624c34290501f050fd0f56-24x24.svg)
-    
-    Developer Hub
-    
-    Integrate and instrument Amplitude](https://www.docs.developers.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2724%27%20height=%2724%27/%3e)![Academy icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Academy icon](https://cdn.sanity.io/images/l5rq9j6r/production/a2963a4c2588777888a59a0eca9f6a3dc8074bec-24x24.svg)
-    
-    Academy & Training
-    
-    Become an Amplitude pro](https://academy.amplitude.com/)
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![services icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![services icon](https://cdn.sanity.io/images/l5rq9j6r/production/8fc1a64b318d31048c8281cea5ad1aa71b3e03df-64x64.svg)
-    
-    Professional Services
-    
-    Drive business success with expert guidance and support](https://amplitude.com/services)
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
 
-* [Help Center](https://amplitude.com/docs)
-* [Developer Hub](https://www.docs.developers.amplitude.com/)
-* [Academy & Training](https://academy.amplitude.com/)
-* [Professional Services](https://amplitude.com/services)
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
 
 #### Tools
 
-* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![Benchmarks icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-    
-    ![Benchmarks icon](https://cdn.sanity.io/images/l5rq9j6r/production/b16534a4504dd46d071fa650eaadd6fe0517004b-64x64.svg)
-    
-    Benchmarks
-    
-    Understand how your product compares](https://amplitude.com/benchmarks)
+* Benchmarks
 
-* [Benchmarks](https://amplitude.com/benchmarks)
+* Benchmarks
 
-[Pricing](https://amplitude.com/pricing)
+Resources
 
-[Pricing](https://amplitude.com/pricing)
+#### Learn
 
-[Login](https://app.amplitude.com/login)[Contact sales](https://amplitude.com/sales-contact)[Get started](https://app.amplitude.com/signup)
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+* Blog
+* Resource Center
+* Glossary
+* Templates
+* Explore Hub
+
+#### Connect
+
+* Community
+* Events
+* Customers
+* Partners
+
+* Community
+* Events
+* Customers
+* Partners
+
+#### Support & Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+* Help Center
+* Developer Hub
+* Academy & Training
+* Professional Services
+
+#### Tools
+
+* Benchmarks
+
+* Benchmarks
+
+Pricing
+
+Pricing
+
+LoginContact salesGet started
 
 Privacy Notice
 ==============
@@ -1646,7 +686,7 @@ Amplitude may obtain Personal Data about you from third parties, including, but 
 
 * _Service providers_. For example, we may use third party providers of business contact information. The Personal Data provided to Amplitude by these Service providers about you may include your first and last name, company name, job title, business mailing addresses, business email addresses and business phone numbers, and LinkedIn URLs for purposes of delivering relevant Product updates and information, email content, advertisements and events.
 * _Advertising partners._ We receive information about you from some of our service providers who assist us with marketing or promotional services, related to how you interact with our Website, event promotions, advertisements or communications. Amplitude requires that any third party providing us with Personal Data contact information has obtained the information lawfully and has the appropriate consent to share the information with Amplitude.
-* _Google’s API Services._ Amplitude integrates Google’s Application Programming Interface (API) Services to allow users the option of logging into our platform with their Google credentials. If you choose to login to the Amplitude platform with Google’s API services, Google may share with us your email, name, and your unique Google ID so we can identify and authenticate you as a user. We do not share your data with any other parties, other than as may be necessary to provide our services to you. Amplitude’s use of information received from Google’s APIs will adhere to the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy).
+* _Google’s API Services._ Amplitude integrates Google’s Application Programming Interface (API) Services to allow users the option of logging into our platform with their Google credentials. If you choose to login to the Amplitude platform with Google’s API services, Google may share with us your email, name, and your unique Google ID so we can identify and authenticate you as a user. We do not share your data with any other parties, other than as may be necessary to provide our services to you. Amplitude’s use of information received from Google’s APIs will adhere to the .
 
 **Targeted Online Advertisements:**
 
@@ -1656,9 +696,9 @@ This Privacy Notice does not apply to, and we are not responsible for, cookies i
 
 **Information We Collect Automatically:**
 
-* As you navigate through and interact with our Website or Product, we may use cookies, which are small files placed on your computer or mobile device, and web beacons, which are small electronic files located on pages of the Website or in email communications, to collect certain information about your equipment, browsing actions and events, and patterns. You can learn more about cookies and how we use them [here](#chapters-content-14).
+* As you navigate through and interact with our Website or Product, we may use cookies, which are small files placed on your computer or mobile device, and web beacons, which are small electronic files located on pages of the Website or in email communications, to collect certain information about your equipment, browsing actions and events, and patterns. You can learn more about cookies and how we use them .
 * We also use cookies to access information when you sign in, store your preferences, interact with certain functionality in the Product, to keep you logged in, and to store a limited amount of behavioral data.
-* The data automatically collected from cookies and web beacons may include information from your Web browser (such as browser type and browser language) and details of your visits to our Website, including traffic data, logs about your login history, identity confirmation, page views, length of visit and website navigation paths as well as information about your computer and internet connection, including your IP address and connecting software. We collect this data in order to help us provide, support and improve our Website, the Product and the user experience with our Website and Product, and for network and information security purposes. You can learn more about cookies and how we use them [here](#chapters-content-15).
+* The data automatically collected from cookies and web beacons may include information from your Web browser (such as browser type and browser language) and details of your visits to our Website, including traffic data, logs about your login history, identity confirmation, page views, length of visit and website navigation paths as well as information about your computer and internet connection, including your IP address and connecting software. We collect this data in order to help us provide, support and improve our Website, the Product and the user experience with our Website and Product, and for network and information security purposes. You can learn more about cookies and how we use them .
 * Additionally, Amplitude may use cookies and similar technologies to collect information about our Customers' interactions with the Product in a manner that allows us to reproduce and fix issues and to identify areas of improvement for our Product. Customers can opt out of the use of this software during their use of the Product by contacting us at privacy@amplitude.com.
 * The information we collect automatically may also include statistical and performance information arising from our Customers’ use of our Product and Visitors to our Website. This type of data will only be used by us in an aggregated and anonymized manner.
 
@@ -1715,7 +755,7 @@ Amplitude only retains the Customer End User Data we process on behalf of our Cu
 
 By interacting with the Website or using the Product or otherwise providing information to Amplitude, you understand that your Personal Data may be transferred to the United States or another country other than your country of residence and you consent to such transfer. In order to ensure that your Personal Data receives an adequate level of protection and security, Amplitude has implemented appropriate safeguards for cross-border transfers of Personal Data, as required by applicable data protection laws. These safeguards may include using the European Commission-approved standard contractual clauses to protect the transfer of your Personal Data to Amplitude’s corporate affiliates or service providers, if required by applicable law.
 
-Amplitude complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Amplitude has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Amplitude has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. DPF Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles (together, the “DPF Principles”), the DPF Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+Amplitude complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Amplitude has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Amplitude has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. DPF Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles (together, the “DPF Principles”), the DPF Principles shall govern. To learn more about the Data Privacy Framework (“DPF”) program, and to view our certification, please visit .
 
 For the actions of third party agents Amplitude engages to process data on our behalf, Amplitude remains responsible and liable under the DPF Principles if a third party agent processes the Personal Data in a manner inconsistent with the DPF Principles, unless Amplitude proves that it is not responsible for the event giving rise to the damage.
 
@@ -1774,9 +814,9 @@ Please note that we reserve the right, at any time, to add to, change, update, o
 11\. Disputes
 -------------
 
-As part of our commitment to the DPF Principles, if you are a resident of the European Union, UK, or Switzerland and you have a privacy or data use concern, please contact Amplitude directly at privacy@amplitude.com and Amplitude will use its best efforts to address your concern within 45 days of receipt of your complaint. For an unresolved privacy or data use concern that Amplitude has not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution).  
+As part of our commitment to the DPF Principles, if you are a resident of the European Union, UK, or Switzerland and you have a privacy or data use concern, please contact Amplitude directly at privacy@amplitude.com and Amplitude will use its best efforts to address your concern within 45 days of receipt of your complaint. For an unresolved privacy or data use concern that Amplitude has not addressed satisfactorily, please contact our U.S. based third party dispute resolution provider (free of charge) at .  
   
-For any DPF disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the DPF's binding arbitration scheme, please see Annex I of the DPF Principles, here: [https://www.dataprivacyframework.gov/s/article/Participation-Requirements-Data-Privacy-Framework-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/Participation-Requirements-Data-Privacy-Framework-DPF-Principles-dpf).
+For any DPF disputes that cannot be resolved by the methods above, you may be able to invoke a binding arbitration process under certain conditions. To find out more about the DPF's binding arbitration scheme, please see Annex I of the DPF Principles, here: .
 
 The Federal Trade Commission has investigation and enforcement authority over Amplitude’s compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF
 
@@ -1813,7 +853,7 @@ California law gives California residents the right to make certain requests wit
 13\. Contact Us
 ---------------
 
-If you have any comments, concerns or questions about this Privacy Notice or our privacy practices in general, please send an email to [privacy@amplitude.com](mailto:privacy@amplitude.com), [ccpa@amplitude.com](mailto:ccpa@amplitude.com), or send mail to:
+If you have any comments, concerns or questions about this Privacy Notice or our privacy practices in general, please send an email to , , or send mail to:
 
 Amplitude, Inc.  
 Attn: Privacy  
@@ -1854,73 +894,72 @@ The table below lists the types of cookies and third party service providers cur
 
 | Cookie Type | Who serves it | What it does | More information |
 | --- | --- | --- | --- |
-| Performance | Amplitude | We use our own products and services to analyze the user behavior within our website and our own products and services. | For more information about our privacy practices, see [https://amplitude.com/privacy](https://amplitude.com/privacy) |
-| Performance | Google Analytics | We use Google Analytics to analyze the use of our website. | For more information about Google’s privacy practices, see [https://policies.google.com/privacy](https://policies.google.com/privacy) |
-| Functional | Intercom | We use Intercom to power chat functionality. | For more information about Intercom’s privacy practices, see [https://www.intercom.com/legal/privacy](https://www.intercom.com/legal/privacy) |
-| Advertising | Marketo | We use Marketo for marketing automation services. | For more information about Marketo’s cookie policy, see [https://documents.marketo.com/legal/cookies/](https://documents.marketo.com/legal/cookies/) |
-| Advertising | Doubleclick | We use Doubleclick to track advertisements and measure website visits and conversions. | For more information about opting out of the ads, see [https://adssettings.google.com/u/0/authenticated](https://adssettings.google.com/u/0/authenticated) |
-| Advertising | LinkedIn | We use LinkedIn to track conversions and website visits from our advertisements displayed on LinkedIn. | For more information about LinkedIn’s privacy practices, please see [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
-| Advertising | Facebook | We use Facebook to track conversions and website visits from our advertisements displayed on Facebook. | For more information about Facebook’s privacy practices, please see [https://www.facebook.com/help/www/213802165366955](https://www.facebook.com/help/www/213802165366955) |
-| Advertising | AddThis | We use AddThis for their website tools like social sharing buttons. | For more information about AddThis’s privacy practices, please see [https://www.oracle.com/legal/privacy/addthis-privacy-policy.html](https://www.oracle.com/legal/privacy/addthis-privacy-policy.html) |
-| Advertising | StackAdapt | We use StackAdapt to track advertisements and measure website visits and conversions. | For more information about StackAdapt’s privacy practices, please see [https://www.stackadapt.com/platform-and-services-privacy-policy](https://www.stackadapt.com/platform-and-services-privacy-policy) |
-| Advertising | Bing | We use Bing to track conversions and website visits from our advertisements displayed on Bing. | For more information about Bing’s privacy practices, please see [https://privacy.microsoft.com/en-us/privacystatement](https://privacy.microsoft.com/en-us/privacystatement) |
-| Advertising | Reddit | We use Reddit to track conversions and website visits from our advertisements displayed on Reddit. | For more information about Reddit’s privacy practices, please see [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
+| Performance | Amplitude | We use our own products and services to analyze the user behavior within our website and our own products and services. | For more information about our privacy practices, see |
+| Performance | Google Analytics | We use Google Analytics to analyze the use of our website. | For more information about Google’s privacy practices, see |
+| Functional | Intercom | We use Intercom to power chat functionality. | For more information about Intercom’s privacy practices, see |
+| Advertising | Marketo | We use Marketo for marketing automation services. | For more information about Marketo’s cookie policy, see |
+| Advertising | Doubleclick | We use Doubleclick to track advertisements and measure website visits and conversions. | For more information about opting out of the ads, see |
+| Advertising | LinkedIn | We use LinkedIn to track conversions and website visits from our advertisements displayed on LinkedIn. | For more information about LinkedIn’s privacy practices, please see |
+| Advertising | Facebook | We use Facebook to track conversions and website visits from our advertisements displayed on Facebook. | For more information about Facebook’s privacy practices, please see |
+| Advertising | AddThis | We use AddThis for their website tools like social sharing buttons. | For more information about AddThis’s privacy practices, please see |
+| Advertising | StackAdapt | We use StackAdapt to track advertisements and measure website visits and conversions. | For more information about StackAdapt’s privacy practices, please see |
+| Advertising | Bing | We use Bing to track conversions and website visits from our advertisements displayed on Bing. | For more information about Bing’s privacy practices, please see |
+| Advertising | Reddit | We use Reddit to track conversions and website visits from our advertisements displayed on Reddit. | For more information about Reddit’s privacy practices, please see |
 
 **What are your choices about cookies?**
 
-You can decide whether or not to accept cookies through our Cookie Settings link on our Website. Most browsers allow you to configure the browser settings so that cookies from websites cannot be placed on your computer or mobile device. If you choose not to accept cookies, then you may be able to continue browsing our Website but we may not be able to provide you with certain features. If you want to opt out of advertising or performance cookies, then you may do so by reviewing the privacy policies of the third party service providers who serve the advertising and performance cookies identified above. If you would like further information about cookies and how to manage and delete them, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) or [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+You can decide whether or not to accept cookies through our Cookie Settings link on our Website. Most browsers allow you to configure the browser settings so that cookies from websites cannot be placed on your computer or mobile device. If you choose not to accept cookies, then you may be able to continue browsing our Website but we may not be able to provide you with certain features. If you want to opt out of advertising or performance cookies, then you may do so by reviewing the privacy policies of the third party service providers who serve the advertising and performance cookies identified above. If you would like further information about cookies and how to manage and delete them, please visit or .
 
 You can also delete all cookies that are already on your computer. If you do this, however, you may have to manually adjust some preferences every time you visit a site and the Product, Website and functionalities may not work.
 
 **What are your choices about cookies and interest-based advertisements?**
 
-Through the Digital Advertising Alliance and Network Advertising Initiative, several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of, and greater control over, ads that are customized based on a consumer’s online behavior across different websites and properties. To make choices about internet-based ads from participating third parties, including to opt-out of receiving behaviorally targeted advertisements from participating organizations or to learn more about opting out of advertising cookies, please visit the Network Advertising Initiative’s or Digital Advertising Alliance’s consumer opt-out pages, which are located at [http://networkadvertising.org/choices/](http://networkadvertising.org/choices/) or [www.aboutads.info/choices](http://www.aboutads.info/choices). For those users located in the European Union, you can visit the European Interactive Digital Advertising Alliance’s user information website a [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/).
+Through the Digital Advertising Alliance and Network Advertising Initiative, several media and marketing associations have developed an industry self-regulatory program to give consumers a better understanding of, and greater control over, ads that are customized based on a consumer’s online behavior across different websites and properties. To make choices about internet-based ads from participating third parties, including to opt-out of receiving behaviorally targeted advertisements from participating organizations or to learn more about opting out of advertising cookies, please visit the Network Advertising Initiative’s or Digital Advertising Alliance’s consumer opt-out pages, which are located at or . For those users located in the European Union, you can visit the European Interactive Digital Advertising Alliance’s user information website a .
 
 15\. Previous Privacy Version
 -----------------------------
 
-[August 28, 2023](https://amplitude.com/privacy/archive/2023-08)
-
-[December 30, 2022](https://amplitude.com/privacy/archive/2022-12)
-
 Platform
 
-* [Analytics](https://amplitude.com/amplitude-analytics)
-* [Experiment](https://amplitude.com/amplitude-experiment)
-* [Customer Data Platform](https://amplitude.com/customer-data-platform)
-* [Session Replay](https://amplitude.com/session-replay)
+* Product Analytics
+* Feature Experimentation
+* Feature Management
+* Web Analytics
+* Web Experimentation
+* Session Replay
+* Customer Data Platform
 
 Resources
 
-* [Resource Center](https://amplitude.com/resources)
-* [Blog](https://amplitude.com/blog)
-* [Amp Champs](https://amplitude.com/amp-champs)
-* [Amplitude Academy](https://academy.amplitude.com/)
-* [Events](https://amplitude.com/events)
-* [Glossary](https://amplitude.com/glossary/terms)
+* Resource Center
+* Blog
+* Amp Champs
+* Amplitude Academy
+* Events
+* Glossary
 
 Support
 
-* [Contact Us](https://amplitude.com/contact)
-* [Help Center](https://amplitude.com/docs)
-* [Community](https://amplitude.com/community)
-* [Developer Docs](https://developers.amplitude.com/docs)
+* Contact Us
+* Help Center
+* Community
+* Developer Docs
 
 Partners
 
-* [Find a Partner](https://amplitudeape.impartner.org/English/directory/)
-* [Become an affiliate](https://amplitude.com/affiliates)
+* Find a Partner
+* Become an affiliate
 
 Company
 
-* [About Us](https://amplitude.com/company)
-* [Careers](https://amplitude.com/careers)
-* [Press & News](https://amplitude.com/press)
-* [Investor Relations](https://investors.amplitude.com/)
-* [Diversity, Equity & Inclusion](https://amplitude.com/diversity-equity-inclusion)
+* About Us
+* Careers
+* Press & News
+* Investor Relations
+* Diversity, Equity & Inclusion
 
-[](https://www.linkedin.com/company/amplitude-analytics)[](https://twitter.com/Amplitude_HQ)[](https://www.g2.com/products/amplitude-analytics/reviews)
+LinkedInTwitterG2
 
-[Terms of Service](https://amplitude.com/terms)[Privacy Notice](https://amplitude.com/privacy)[Acceptable Use Policy](https://amplitude.com/aup)[Legal](https://amplitude.com/legal)Cookie Settings[JP (日本語)](https://amplitude.jp/)
+Terms of ServicePrivacy NoticeAcceptable Use PolicyLegalCookie SettingsJP (日本語)
 
 © 2024 Amplitude, Inc. All rights reserved. Amplitude is a registered trademark of Amplitude, Inc.
