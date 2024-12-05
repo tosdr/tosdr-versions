@@ -17,12 +17,12 @@ Login with username, password and session length
 News:
 -----
 
-[Donations](https://www.thefurryforum.com/forums/index.php?action=treasury) keep our forum going! You get some nifty [perks](https://www.thefurryforum.com/forums/index.php?topic=15189.0) with it too!
+Make sure you're familiar with the forum rules. You can [find them here](https://www.thefurryforum.com/forums/index.php?page=rules).
 
   
   
 
-[![WingedZephyr](adverts/zeph.gif "WingedZephyr")](http://www.furaffinity.net/user/wingedzephyr)
+[![Your ad here](adverts/tff_ad_blank.jpg "Your ad here")](https://www.thefurryforum.com/forums/index.php?topic=18442.0)
 
   
 
