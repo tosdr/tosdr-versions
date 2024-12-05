@@ -97,9 +97,9 @@
             
             ### Make an appointment
             
-            [New patient](https://www.mskcc.org/appointments/request-appointment?appointment_type=new)
+            [New patient](https://www.mskcc.org/experience/become-patient/appointment?appointment_type=new)
             
-            [Current patient](https://www.mskcc.org/appointments/request-appointment?appointment_type=current)
+            [Current patient](https://www.mskcc.org/experience/become-patient/appointment?appointment_type=current)
             
             ### Speak to a care advisor
             
@@ -112,7 +112,8 @@
             Monday through Friday, 9 a.m. to 5:30 p.m. (Eastern time)
             
     * * Becoming A Patient
-        * [How to get started](https://www.mskcc.org/experience/become-patient)
+        * [Why choose MSK](https://www.mskcc.org/experience/become-patient/msk-difference)
+        * [How to become a patient](https://www.mskcc.org/experience/become-patient)
         * [Insurance & financial assistance](https://www.mskcc.org/insurance-assistance/insurance-information)
         * [Preparing for your first appointment](https://www.mskcc.org/experience/become-patient/first-appointment)
         * [Meet our doctors](https://www.mskcc.org/doctors)
@@ -515,4 +516,4 @@ Next
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44139.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
+* [Log in web-44140.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
