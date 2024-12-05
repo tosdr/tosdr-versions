@@ -148,5 +148,3 @@ Mon-Saturday 8am-5pm MST
 © Copyright 2024 Pilot Institute. All Rights Reserved.
 
 [Back to Top](#header)
-
-Cyber Monday - Ends Tonight
