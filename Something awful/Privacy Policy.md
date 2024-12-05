@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [MS Paint Video Game Characters in Their Old Age](https://www.somethingawful.com/comedy-goldmine/ms-paint-video/1/)
-* [In Memory of Bratz](https://www.somethingawful.com/photoshop-phriday/bratz-dolls/1/)
-* [Teen Help, Hoobastank, Che Lives, and Uber Form of Forum](https://www.somethingawful.com/weekend-web/teen-help-hoobastank/1/)
-* [The Many Wonderful Worlds Of Mass Effect](https://www.somethingawful.com/video-game-article/mass-effect-worlds/)
-* [Variety Pack #16: Facebook Pages for Fictional Characters! Other topics: Monster Trucks, and Dogs with Capes!](https://www.somethingawful.com/photoshop-phriday/variety-pack-facebook/1/)
+* [Animal Anomalies 3](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-3/1/)
+* [Anagrammed Movies 3 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies3/1/)
+* [Kids Korner: Drugs are Nature's Hugs](https://www.somethingawful.com/feature-articles/kids-korner-drugs/1/)
+* [Reading Time: 'Fantastic Four in the House of Horrors'](https://www.somethingawful.com/feature-articles/reading-time-fantastic/1/)
+* [Anagrammed Video Games](https://www.somethingawful.com/photoshop-phriday/anagrammed-video-games/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/cars.png) [Holiday travel thread](http://forums.somethingawful.com/showthread.php?threadid=4076863 "Holiday travel thread")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [CEO of UnitedHealthCare Fatally Shot in targeted shooting](http://forums.somethingawful.com/showthread.php?threadid=4076829 "CEO of UnitedHealthCare Fatally Shot in targeted shooting")
-* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [I found the roundest bird at work](http://forums.somethingawful.com/showthread.php?threadid=4076810 "I found the roundest bird at work")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the strangest rule you've had to follow?](http://forums.somethingawful.com/showthread.php?threadid=4076880 "What's the strangest rule you've had to follow?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/cars.png) [Holiday travel thread](http://forums.somethingawful.com/showthread.php?threadid=4076863 "Holiday travel thread")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [ITT post your Spotify Wrapped 2024 (or whatever other music app you use)](http://forums.somethingawful.com/showthread.php?threadid=4076839 "ITT post your Spotify Wrapped 2024 (or whatever other music app you use)")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
 
 ### Random Articles
 
-* [There's Probably No Escape From Savage Bloodprison Island](https://www.somethingawful.com/news/probably-no-escape/)
-* [The Yuletide Is Yuleturning](https://www.somethingawful.com/news/yuletide-yuleturning/)
-* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
-* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
-* [10 Startling Differences Between "Standard" and "Premium" Editions of The Sims 4](https://www.somethingawful.com/news/sims-4-differences/)
+* [An album, born on the forums!](https://www.somethingawful.com/comedy-goldmine/an-album-born/)
+* [More Dumb Things Heard In Class](https://www.somethingawful.com/comedy-goldmine/more-dumb-class/1/)
+* [Jillian's Fart Diary](https://www.somethingawful.com/awful-links/awful-link-701/)
+* [Steve Perry Fanfiction (Thanks, rangergirl!)](https://www.somethingawful.com/awful-links/steve-perry-fanfiction/)
+* [Help I'm Stuck In a Movie Line](https://www.somethingawful.com/daily-dirt/help-im-stuck/)
 
 [Random!](https://www.somethingawful.com/random/)
 
