@@ -321,7 +321,7 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1283%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_41/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b1f1485ce35618ec2e18397ce3f660ea7292763a)](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
+[![ ](https://static.ffx.io/images/$zoom_0.2853%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_42%2C$y_334/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b1f1485ce35618ec2e18397ce3f660ea7292763a)](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
 
 ### [For the wine-lover in your life, wrap up this literary treat](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
 
@@ -335,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Paris Neilson (left) and Griffin Theatre Company executive director Julieanne Campbell at Stables Theatre, which a Neilson gift - and a last-minute Canberra grant - has helped save.](https://static.ffx.io/images/$zoom_0.4228%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_649%2C$y_766/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/0354d15813abbdb39633b3eee1aeaf05f0cb29fe)](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
+[![The late David Haines was a pioneering hedge fund manager and amassed a significant fortune before his death last year.](https://static.ffx.io/images/$zoom_0.6517%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_192%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/09c9e755431abaa1d2bf371465625b3e740ecfe6)](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
 
-### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
+### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
 
-* Michael Bailey
+* 1 hr ago
+* Primrose Riordan
 
-* ### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
+* ### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
     
-* ### [Australia’s wealthiest women join forces to supercharge philanthropy](https://www.afr.com/wealth/people/australia-s-wealthiest-women-join-forces-to-supercharge-philanthropy-20241127-p5ktt5)
+* ### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
     
 
 [The Australian Financial Review](https://www.afr.com/)
