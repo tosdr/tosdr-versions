@@ -95,62 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Back to Genesis
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/VenusFlySnap.jpg)](https://www.icr.org/article/venus-flytraps-snap)
-
-[The Venus Flytrap’s Snap](https://www.icr.org/article/venus-flytraps-snap/)
-
-The Venus flytrap is one of the more unusual plants in God’s creation. It grows naturally only on the East Coast of the United States and has...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/AreWeInAComputerSimulation.jpg)](https://www.icr.org/article/are-we-living-in-a-computer-simulation)
-
-[Are We Living in a Computer Simulation?](https://www.icr.org/article/are-we-living-in-a-computer-simulation/)
-
-Scott Arledge and Brian Thomas, Ph.D. “The odds that we are in base reality is one in billions,” says famed inventor Elon Musk.1...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/mongolia_montana_myBible.jpg)](https://www.icr.org/article/mongolia-montana-and-my-bible)
-
-[Mongolia, Montana, and My Bible](https://www.icr.org/article/mongolia-montana-and-my-bible/)
-
-I recently completed an online college course on Cretaceous dinosaurs from China, centering on fossils from the Erlian Formation. These rock layers...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/6414663/file.jpg)
-
-Evolution's Blunders, Frauds And Forgeries](https://store.icr.org/dr-jerry-bergman-evolutions-blunders-frauds-and-fo.html)
-
-$15.00
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/6697896/file.jpg)
-
-How Darwinism Corrodes Morality](https://store.icr.org/dr-jerry-bergman-how-darwinism-corrodes-morality.html)
-
-$25.00
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26201921/file.jpg)
-
-Poor Design: An Invalid Argument Against Intelligent Design](https://store.icr.org/poor-design-an-invalid-argument-against-intelligen.html)
-
-$14.95
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/26201913/file.jpg)
-
-Useless Organs: The Rise and Fall of a Central Claim of Evolution](https://store.icr.org/useless-organs-the-rise-and-fall-of-a-central-clai.html)
-
-$14.95
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
