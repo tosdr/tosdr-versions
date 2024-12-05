@@ -472,7 +472,7 @@
     3. Smart Socks
     4. Baby Monitors
     
-    [Accessories](https://www.eufy.com/collections/breast-pump-accessories?ref=navimenu_3_5_copy) [See More](https://www.eufy.com/collections/baby?ref=navimenu_3_6_copy) [Blog](https://www.eufy.com/blogs/baby?ref=navimenu_3_7_copy) [Pro Mom Discount](https://us.eufy.com/pages/govx-id-military-discount?ref=navimenu_3_8_copy)
+    [Accessories](https://www.eufy.com/collections/breast-pump-accessories?ref=navimenu_3_5_copy) [See More](https://www.eufy.com/collections/baby?ref=navimenu_3_6_copy) [Blog](https://www.eufy.com/blogs/baby?ref=navimenu_3_7_copy)
     
     * [](https://us.eufy.com/collections/smart-sock?ref=navimenu_3_1_1_copy)
         
