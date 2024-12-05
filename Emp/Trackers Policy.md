@@ -325,7 +325,7 @@ Subscribe
 
 Our customer services are here for you
 
-You can reach us by phone tomorrow from 9:00 AM until 5:30 PM on {2}. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
