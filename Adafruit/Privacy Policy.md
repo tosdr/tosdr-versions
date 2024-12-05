@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Nothing is work unless you'd rather be doing something else”
+“ If you can't make a mistake, you can't make anything”
 
-[George Halas](https://en.wikipedia.org/wiki/George_Halas)
+[Marva Collins](https://en.wikipedia.org/wiki/Marva_Collins)
 
 [](https://www.adafruit.com/about)
 
