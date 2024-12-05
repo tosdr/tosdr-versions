@@ -181,6 +181,7 @@ NAS- Network Attached Storage
     * [View All](https://www.qnap.com/en/product/compare-accessory)
 * ###### Resources
     
+    * [Product Comparison](https://www.qnap.com/go/product/)
     * [Guideline for Choosing and Upgrading NAS](https://www.qnap.com/go/solution/nas-choose-and-upgrade/)
     * [NAS Selector](https://www.qnap.com/go/selector/nas-selector)
     * [RAID Calculator](https://www.qnap.com/go/selector/raid-selector)
