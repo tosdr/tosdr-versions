@@ -182,6 +182,18 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Brighteon – Bias and Credibility](https://mediabiasfactcheck.com/brighteon/ "View Brighteon – Bias and Credibility") - December 4, 2024
+    
+* [Bridgeport Times – Bias and Credibility](https://mediabiasfactcheck.com/bridgeport-times/ "View Bridgeport Times – Bias and Credibility") - December 4, 2024
+    
+* [Brewton Standard – Bias and Credibility](https://mediabiasfactcheck.com/brewton-standard-bias/ "View Brewton Standard – Bias and Credibility") - December 4, 2024
+    
+* [Brevard Sun – Bias and Credibility](https://mediabiasfactcheck.com/brevard-sun/ "View Brevard Sun – Bias and Credibility") - December 4, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 4, 2024
+    
+* [Breaking First – Bias and Credibility](https://mediabiasfactcheck.com/breaking-first/ "View Breaking First – Bias and Credibility") - December 4, 2024
+    
 * [Breaking Christian News – Bias and Credibility](https://mediabiasfactcheck.com/breaking-christian-news/ "View Breaking Christian News – Bias and Credibility") - December 4, 2024
     
 * [Brand New Tube – Bias and Credibility](https://mediabiasfactcheck.com/brand-new-tube/ "View Brand New Tube – Bias and Credibility") - December 4, 2024
@@ -189,18 +201,6 @@ No related posts.
 * [Brainerd Dispatch – Bias and Credibility](https://mediabiasfactcheck.com/brainerd-dispatch-bias/ "View Brainerd Dispatch – Bias and Credibility") - December 4, 2024
     
 * [Bracknell News – Bias and Credibility](https://mediabiasfactcheck.com/bracknell-news-bias/ "View Bracknell News – Bias and Credibility") - December 4, 2024
-    
-* [Bracebridge Examiner – Bias and Credibility](https://mediabiasfactcheck.com/bracebridge-examiner-bias/ "View Bracebridge Examiner – Bias and Credibility") - December 4, 2024
-    
-* [Bowling Green Today – Bias and Credibility](https://mediabiasfactcheck.com/bowling-green-today-bias/ "View Bowling Green Today – Bias and Credibility") - December 4, 2024
-    
-* [Bow Valley Crag & Canyon – Bias and Credibility](https://mediabiasfactcheck.com/bow-valley-crag-canyon-bias/ "View Bow Valley Crag & Canyon – Bias and Credibility") - December 4, 2024
-    
-* [Boulder Leader – Bias and Credibility](https://mediabiasfactcheck.com/boulder-leader/ "View Boulder Leader – Bias and Credibility") - December 4, 2024
-    
-* [Bournemouth Daily Echo – Bias and Credibility](https://mediabiasfactcheck.com/bournemouth-daily-echo-bias/ "View Bournemouth Daily Echo – Bias and Credibility") - December 4, 2024
-    
-* [Boston Broadside – Bias and Credibility](https://mediabiasfactcheck.com/boston-broadside-bias/ "View Boston Broadside – Bias and Credibility") - December 4, 2024
     
 
 #### Today’s Top Page Views
@@ -212,9 +212,9 @@ No related posts.
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Search](https://mediabiasfactcheck.com/search/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [NPR (National Public Radio) - Bias and Credibility](https://mediabiasfactcheck.com/npr/)
+* [Search](https://mediabiasfactcheck.com/search/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
