@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            
         * [Humans](https://www.sciencenews.org/topic/humans)
             
             ### [Dietary evidence bolsters Clovis hunters’ reputation as mammoth killers](https://www.sciencenews.org/article/dietary-clovis-hunters-mammoth-killers)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")20 hours ago
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")December 4, 2024
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [Neandertals may have built a hearth specifically to make tar](https://www.sciencenews.org/article/neandertals-hearth-used-to-make-tar)
             
             By [Richard Kemeny](https://www.sciencenews.org/author/richard-kemeny "Posts by Richard Kemeny")December 2, 2024
-            
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
-            
-            ### [Footprints offer a rare look at ancient human relatives crossing paths](https://www.sciencenews.org/article/footprints-ancient-human-relatives)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")November 28, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Plants](https://www.sciencenews.org/topic/plants)
+            
+            ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
+            
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")5 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")1 hour ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")7 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
-            ### [Climate change is driving trees away from crucial fungi](https://www.sciencenews.org/article/climate-change-driving-trees-from-fungi)
+            ### [Trees are failing to adapt to climate change. Losing fungi partners may be why](https://www.sciencenews.org/article/climate-change-driving-trees-from-fungi)
             
             By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 4, 2024
-            
-        * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
-            
-            ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
-            
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 4, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -147,23 +147,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
+            
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            
+        * [Plants](https://www.sciencenews.org/topic/plants)
+            
+            ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
+            
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")5 hours ago
+            
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")1 hour ago
-            
-        * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
-            
-            ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
-            
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 4, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
-            
-            By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")December 3, 2024
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")7 hours ago
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")10 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
