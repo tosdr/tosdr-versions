@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
 
+[Tokyo government to introduce four-day workweek to empower women](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+
+  [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+
 [Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
   [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
-[Jetstar Japan loses lawsuit over disciplinary action against cabin crew](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
+[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
-  [![Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437761.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
-
-[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
-
-  [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
+  [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
 Editors' Picks
 --------------
@@ -170,6 +170,14 @@ By [Toru Fujioka](https://www.japantimes.co.jp/author/358/toru-fujioka/ "Toru Fu
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Tokyo government to introduce four-day workweek to empower women](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
 
 By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
@@ -178,17 +186,11 @@ By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin 
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Jetstar Japan loses lawsuit over disciplinary action against cabin crew](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
+[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
-  [![Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437761.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Jetstar Japan has been ordered to pay back wages to two cabin crew members for the periods they were suspended.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/jetstar-lawsuit-defeat/ "Jetstar Japan loses lawsuit over disciplinary action against cabin crew")
+By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Nomura CEO takes pay cut after former employee charged with attempted murder](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
-
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
+  [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. think tanks' policy 'grand bargain' comes amid deep partisanship](https://www.japantimes.co.jp/news/2024/12/05/world/politics/us-think-tanks-compromise-possible/ "U.S. think tanks' policy 'grand bargain' comes amid deep partisanship")
+[South Korea opposition chief says ousting Yoon will be difficult](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeachment-difficult/ "South Korea opposition chief says ousting Yoon will be difficult")
 
-23 mins ago
+45 mins ago
 
-[Amnesty says Israel has committed genocide against Palestinians in Gaza](https://www.japantimes.co.jp/news/2024/12/05/world/crime-legal/amnesty-report-gaza-genocide/ "Amnesty says Israel has committed genocide against Palestinians in Gaza")
+[CDP and DPFP to coordinate basic policies](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/cdp-dpp-coordination/ "CDP and DPFP to coordinate basic policies")
 
-1 hour ago
+52 mins ago
 
-[Questions of motive emerge in UnitedHealthcare CEO’s killing](https://www.japantimes.co.jp/news/2024/12/05/world/crime-legal/unitedhealthcare-ceo-killing/ "Questions of motive emerge in UnitedHealthcare CEO’s killing")
+[BOJ rate hike bets retreat as traders count down to key meeting](https://www.japantimes.co.jp/business/2024/12/05/boj-hike-bets-retreat/ "BOJ rate hike bets retreat as traders count down to key meeting")
 
-1 hour ago
+58 mins ago
 
-[Japanese electronics firms rethink uniform starting salaries](https://www.japantimes.co.jp/business/2024/12/05/companies/electronics-firms-starting-salaries/ "Japanese electronics firms rethink uniform starting salaries")
-
-1 hour ago
-
-[How to impeach a South Korean president](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeach-explainer/ "How to impeach a South Korean president")
+[Japan's police protected 'dark' job applicants in 125 cases](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/dark-job-police-protection/ "Japan's police protected 'dark' job applicants in 125 cases")
 
 1 hour ago
+
+[Manila to get more radars and boats from Tokyo under new military aid tranche](https://www.japantimes.co.jp/news/2024/12/05/japan/japan-philippines-security-assistance-deal/ "Manila to get more radars and boats from Tokyo under new military aid tranche")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
