@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Building Service Contractor’s No-Hire Agreement](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-takes-action-against-building-service-contractors-no-hire-agreement)
+    ### [FTC Sends Payments to Consumers Harmed by Vivint’s Misuse of Consumer Credit Reports](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-payments-consumers-harmed-vivints-misuse-consumer-credit-reports)
     
-    December 4, 2024
+    December 5, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
