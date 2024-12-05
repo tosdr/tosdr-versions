@@ -546,6 +546,7 @@ Browse
         * [Alarms](https://www.maplin.co.uk/collections/alarms)
         
     * [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
+    * [Smart Watches & Chargers](https://www.maplin.co.uk/collections/smart-watches)
     * Shop by Brand
         
         * [Shop by Brand](https://www.maplin.co.uk/pages/electricals-lighting)
@@ -1341,6 +1342,8 @@ Browse
     * [Alarms](https://www.maplin.co.uk/collections/alarms)
     
     [Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys)
+    
+    [Smart Watches & Chargers](https://www.maplin.co.uk/collections/smart-watches)
     
     [Shop by Brand](https://www.maplin.co.uk/pages/electricals-lighting)
     
