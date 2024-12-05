@@ -29,17 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![TheCavernMC](plugins/MineCraft/icons/25x25xTheCavernMC_1730281447.png.pagespeed.ic.l_7w2MQwbX.png)
+[![CLineNebulousSMP](plugins/MineCraft/icons/25x25xCLineNebulousSMP_1731578297.png.pagespeed.ic.X6ZVRUxALU.jpg)
 
-The Cavern \[1.21\] Survival Towny](https://minecraft-server.net/details/TheCavernMC/ "The Cavern [1.21] Survival Towny")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+CliveOverflow SMP](https://minecraft-server.net/details/CLineNebulousSMP/ "CliveOverflow SMP")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1732687836.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![OblivionPrison](plugins/MineCraft/icons/25x25xOblivionPrison_1716869247.png.pagespeed.ic.FbvFd6IVCa.jpg)
 
-Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+Oblivion Prison FREE RANK|NEED STAFF| FREE OP CRATES](https://minecraft-server.net/details/OblivionPrison/ "Oblivion Prison FREE RANK|NEED STAFF| FREE OP CRATES")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!](https://minecraft-server.net/details/whoocraft/ "NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!")[![ByniuMC](plugins/MineCraft/icons/25x25xByniuMC_1727110924.png.pagespeed.ic.csO5XeMY1u.png)
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
 
-ByniuMC.pl | Earth SMP](https://minecraft-server.net/details/ByniuMC/ "ByniuMC.pl | Earth SMP")
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07506 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06335 - Created by [Debaucus](https://debauc.us/)
