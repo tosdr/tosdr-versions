@@ -1,6 +1,6 @@
-[Breaking: Majority of Supreme Court seems reluctant to block state bans on gender-affirming care for minors](https://www.ajc.com/news/nation-world/transgender-rights-case-lands-at-supreme-court-amid-debate-over-ban-on-medical-treatments-for-minors/POTTFC6IXJEQJOZ7SODPD4J554/)
+[Breaking: Donald Trump picks Kelly Loeffler as head of the Small Business Administration](https://www.ajc.com/politics/donald-trump-picks-kelly-loeffler-as-head-of-the-small-business-administration/74L2DSDVAVD4DDCXSYMWAWXKKA/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1859)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1859)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
 
 Log In
 
@@ -16,7 +16,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-gwinnetts-heisman-favorite/DM6UTW3KTRCTXB4OG5RLBRMIBU/)
 * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
@@ -24,7 +23,7 @@ Log In
 * [UATL](https://www.ajc.com/uatl/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1859)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1864)
 
 * Quick Links
     
@@ -97,7 +96,7 @@ Log In
     * [Entertainment](https://www.ajc.com/uatl/entertainment/)
     * [Fashion](https://www.ajc.com/uatl/fashion/)
     * [Food](https://www.ajc.com/uatl/food/)
-    * [50 Years of Atlanta Hip Hop](https://www.ajc.com/hiphop/)
+    * [The LineUp](https://www.ajc.com/uatl/the-lineup/)
     
 * [Things to Do](https://www.ajc.com/things-to-do/)
     
@@ -150,7 +149,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1859)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1864)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
