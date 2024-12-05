@@ -184,6 +184,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Lucy Worsley Investigates](https://video.nhpbs.org/video/preview-e9b1hk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Guerdy Abraira I With Whit** | The Whitney Reynolds Show](https://video.nhpbs.org/video/guerdy-abraira-i-with-whit-zgbgsp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Bread and Roses** | Flicks](https://video.nhpbs.org/video/bread-and-roses-vld1oo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
@@ -192,7 +193,6 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Trailer** | The Earthshot Report](https://video.nhpbs.org/video/trailer-98ejld?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Dallas, 2019 Trailer** | Independent Lens](https://video.nhpbs.org/video/dallas-2019-trailer-kyir97?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Sara Bareilles: New Year's Eve Preview** | Next at the Kennedy Center](https://video.nhpbs.org/video/sara-bareilles-preview-pqjlo8?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**theRing: I Am A Renegade \[Official Music Video\]** | American Masters](https://video.nhpbs.org/video/thering-i-am-a-renegade-official-music-video-zbrlaw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
