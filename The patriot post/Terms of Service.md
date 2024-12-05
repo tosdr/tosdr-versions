@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Ben Shapiro The Milei Revolution](https://patriotpost.us/opinion/112568-the-milei-revolution-2024-12-05)
 *      [Jeff Jacoby A student’s T-shirt says: ‘There are only two genders.’ What does the Constitution say?](https://patriotpost.us/opinion/112551-a-students-t-shirt-says-there-are-only-two-genders-dot-what-does-the-constitution-say-2024-12-04)
 *      [Mark Alexander Trump Day 2: Restore Freedom of Speech](https://patriotpost.us/alexander/112539-trump-day-2-restore-freedom-of-speech-2024-12-04)
 *      [The Babylon Bee 10 Drastic Changes Kash Patel Will Make To FBI](https://patriotpost.us/opinion/112536-10-drastic-changes-kash-patel-will-make-to-fbi-2024-12-04)
@@ -214,8 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Ian Haworth Joe Biden’s Legacy: Lies, Chaos and Blood](https://patriotpost.us/opinion/112518-joe-bidens-legacy-lies-chaos-and-blood-2024-12-04)
 *      [Tim Graham The Press Still Pretends the Justice Department Is Pristine](https://patriotpost.us/opinion/112517-the-press-still-pretends-the-justice-department-is-pristine-2024-12-04)
 *      [John Stossel Stone Age Ports](https://patriotpost.us/opinion/112516-stone-age-ports-2024-12-04)
-*      [Betsy McCaughey End the Sanctuary-for-Migrants Madness](https://patriotpost.us/opinion/112515-end-the-sanctuary-for-migrants-madness-2024-12-04)
-*      [Gary Bauer Trump & Trudeau](https://patriotpost.us/opinion/112514-trump-and-trudeau-2024-12-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -229,9 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
