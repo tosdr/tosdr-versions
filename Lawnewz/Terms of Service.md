@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Tyler Gibson and Bailey Gibson](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Tyler-Gibson-and-Bailey-Gibson-432x243.jpg)](https://lawandcrime.com/crime/the-procedure-did-not-go-as-planned-parents-thought-research-and-a-blessing-could-help-them-perform-circumcision-on-boy-at-home-cops-say/)
+1. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/01/Philip-Anschutz-Neil-Gorsuch-432x243.jpg)](https://lawandcrime.com/high-profile/gorsuch-recuses-from-environmental-case-before-scotus-after-alarm-raised-about-cozy-relationship-with-oil-billionaire/)
     
-    ### ['The procedure did not go as planned': Parents thought research and a 'blessing' could help them perform circumcision on boy at home, cops say](https://lawandcrime.com/crime/the-procedure-did-not-go-as-planned-parents-thought-research-and-a-blessing-could-help-them-perform-circumcision-on-boy-at-home-cops-say/)
+    ### [Gorsuch recuses from environmental case before SCOTUS after alarm raised about 'cozy relationship' with oil billionaire](https://lawandcrime.com/high-profile/gorsuch-recuses-from-environmental-case-before-scotus-after-alarm-raised-about-cozy-relationship-with-oil-billionaire/)
     
-2. [![Whole Foods store in Clearwater, Florida](https://am21.mediaite.com/lc/cnt/uploads/2024/12/whole-foods-clearwater-432x243.jpg)](https://lawandcrime.com/lawsuit/extreme-anaphylactic-shock-whole-foods-gave-child-life-threatening-allergic-reaction-with-half-dairy-pizza-lawsuit-says/)
+2. [![Inset: Kristopher Samaroo (Bri Thomas/Facebook). Background: The NYC apartment where Samaroo was allegedly beaten to death by his landlord and landlord's brother (LLN NYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/jeporgfjheroipuhjr-432x243.jpg)](https://lawandcrime.com/crime/landlord-and-brother-killed-tenant-in-front-of-family-during-dispute-over-hot-water-police/)
     
-    ### ['Extreme anaphylactic shock': Whole Foods gave child 'life threatening' allergic reaction with 'half-dairy' pizza, lawsuit says](https://lawandcrime.com/lawsuit/extreme-anaphylactic-shock-whole-foods-gave-child-life-threatening-allergic-reaction-with-half-dairy-pizza-lawsuit-says/)
+    ### [Landlord and brother killed tenant in front of family during dispute over hot water: Police](https://lawandcrime.com/crime/landlord-and-brother-killed-tenant-in-front-of-family-during-dispute-over-hot-water-police/)
     
-3. [![Dan Scavino, inset against an image of Donald Trump.](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Scavino-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/denied-judge-nixes-former-trump-aides-bid-to-dodge-deposition-questions-from-president-elect-and-plaintiffs-in-jan-6-lawsuit/)
+3. [![Background: Reggie Brown's family (WUSA/YouTube). Inset: Reggie Brown (Brown family).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Reggie-Brown-and-family-432x243.jpg)](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
     
-    ### ['Denied': Judge nixes former Trump aide's bid to dodge deposition questions from president-elect and plaintiffs in Jan. 6 lawsuit](https://lawandcrime.com/high-profile/denied-judge-nixes-former-trump-aides-bid-to-dodge-deposition-questions-from-president-elect-and-plaintiffs-in-jan-6-lawsuit/)
+    ### ['No sympathy': Teen girl who took selfies after beating homeless man to death with friends tries apologizing to victim's family in court as she learns her fate](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
     
-4. [![Left: Bryan Kohberger; Top Right: Kaylee Goncalves, Ethan Chapin, Bottom Right: Xana Kernodle, Madison Mogen](https://am22.mediaite.com/lc/cnt/uploads/2023/01/Left-Bryan-Kohberger-Top-Right-Kaylee-Goncalves-Ethan-Chapin-Bottom-Right-Xana-Kernodle-Madison-Mogen-432x243.jpg)](https://lawandcrime.com/opinion/bryan-kohberger-not-likely-to-be-able-to-avoid-the-death-penalty-if-convicted-of-idaho-student-murders/)
+4. [![Anindita Rao and Sophia Lekiachvili](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Anindita-Rao-and--432x243.jpg)](https://lawandcrime.com/crime/foreseeable-consequence-parents-known-for-having-a-party-house-arrested-for-allowing-teens-to-drink-booze-before-crash-that-killed-friend-prosecutors-say/)
     
-    ### [Bryan Kohberger not likely to be able to avoid the death penalty if convicted of Idaho student murders](https://lawandcrime.com/opinion/bryan-kohberger-not-likely-to-be-able-to-avoid-the-death-penalty-if-convicted-of-idaho-student-murders/)
+    ### ['Foreseeable consequence': Parents known for having a 'party house' arrested for allowing teens to drink booze before crash that killed friend, prosecutors say](https://lawandcrime.com/crime/foreseeable-consequence-parents-known-for-having-a-party-house-arrested-for-allowing-teens-to-drink-booze-before-crash-that-killed-friend-prosecutors-say/)
     
-5. [![Left: U.S. District Judge Max Cogburn Jr. (LawResourceOrg/YouTube). Right: President-elect Donald Trump arrives to speak at a meeting of the House GOP conference, Wednesday, Nov. 13, 2024, in Washington. (AP Photo/Alex Brandon)](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Judge-Max-Cogburn-Jr.-Donald-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/obama-appointed-judge-becomes-second-democratic-appointee-to-unretire-on-trump-after-election-win/)
+5. [![Tina Peters in court.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/AP24277837455700-432x243.jpg)](https://lawandcrime.com/high-profile/treat-my-client-as-if-she-were-some-other-poor-person-tina-peters-appeals-contempt-conviction-in-ipad-recording-case-related-to-unauthorized-voting-machine-access-prosecution/)
     
-    ### [Obama-appointed judge becomes second on federal bench to unretire on Trump after election win](https://lawandcrime.com/high-profile/obama-appointed-judge-becomes-second-democratic-appointee-to-unretire-on-trump-after-election-win/)
+    ### ['Treat my client as if she were some other poor person': Tina Peters appeals contempt conviction in iPad recording case related to unauthorized voting machine access prosecution](https://lawandcrime.com/high-profile/treat-my-client-as-if-she-were-some-other-poor-person-tina-peters-appeals-contempt-conviction-in-ipad-recording-case-related-to-unauthorized-voting-machine-access-prosecution/)
     
 
 [](http://eepurl.com/c89Jdb)
