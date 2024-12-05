@@ -64,22 +64,25 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [Political Theatre](https://www.lewrockwell.com/political-theatre/)
 
-* [IDF refusers: The men who volunteered but nwon’t fight in Gaza](https://www.lewrockwell.com/political-theatre/idf-refusers-the-men-who-volunteered-but-nwont-fight-in-gaza/)
-* [Bill Gates & Jeff Bezos Push for ‘Climate Vaccines’ in Food Supply](https://www.lewrockwell.com/political-theatre/bill-gates-jeff-bezos-push-for-climate-vaccines-in-food-supply/)
-* [The Death Of The Deep State Is At Hand](https://www.lewrockwell.com/political-theatre/the-death-of-the-deep-state-is-at-hand/)
-* [Trump Pledges to Kill Central Ban Currencies in America & Worldwide](https://www.lewrockwell.com/political-theatre/trump-pledges-to-kill-central-ban-currencies-in-america-worldwide/)
-* [](https://www.lewrockwell.com/political-theatre/897509/)
-* [Lew’s Commentary Today](https://www.lewrockwell.com/political-theatre/lews-commentary-today/)
-* [Foreign criminals who avoided deportation committed more than 10,000 offences in a yearstani](https://www.lewrockwell.com/political-theatre/foreign-criminals-who-avoided-deportation-committed-more-than-10000-offences-in-a-yearstani/)
-* [Now that Hunter has been pardoned…](https://www.lewrockwell.com/political-theatre/now-that-hunter-has-been-pardoned/)
-* [Slavery!](https://www.lewrockwell.com/political-theatre/slavery/)
-* [Carl Benjamin: The Ideology Gap Between Men and Women](https://www.lewrockwell.com/political-theatre/carl-benjamin-the-ideology-gap-between-men-and-women/)
-* [MORE](https://www.lewrockwell.com/political-theatre/#post-897423)
+* [A Likely Good Trump Appointment](https://www.lewrockwell.com/political-theatre/a-likely-good-trump-appointment/)
+* [Alex Christofouro on the Situation in Georgia](https://www.lewrockwell.com/political-theatre/alex-christofouro-on-the-situation-in-georgia/)
+* [Superb Scholarship](https://www.lewrockwell.com/political-theatre/superb-scholarship/)
+* [Biden administration to give “preemptive” pardons to Fauci, Schiff, Cheney?](https://www.lewrockwell.com/political-theatre/biden-administration-to-give-preemptive-pardons-to-fauci-schiff-cheney/)
+* [Smack In The Face To Americans](https://www.lewrockwell.com/political-theatre/smack-in-the-face-to-americans/)
+* [Pete Hegseth](https://www.lewrockwell.com/political-theatre/pete-hegseth/)
+* [Thanks to Peace, Two Unexpected Words Are Echoing Across Afghanistan’s Capital: Luxury Housing](https://www.lewrockwell.com/political-theatre/thanks-to-peace-two-unexpected-words-are-echoing-across-afghanistans-capital-luxury-housing/)
+* [Au Revoir Macron](https://www.lewrockwell.com/political-theatre/au-revoir-macron/)
+* [Diversity — A Paradox](https://www.lewrockwell.com/political-theatre/diversity-a-paradox/)
+* [Trump’s Obvious Bluff Over BRICS Currency Proves He Is Clueless on Trade](https://www.lewrockwell.com/political-theatre/trumps-obvious-bluff-over-brics-currency-proves-he-is-clueless-on-trade/)
+* [MORE](https://www.lewrockwell.com/political-theatre/#post-897564)
 
 [![](https://www.lewrockwell.com/wp-content/themes/lrc/images/burtspage300.png)](http://archive.lewrockwell.com/blumert/burt-gold.html)
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Pardon Fauci? No! Arrest Fauci!](https://www.lewrockwell.com/lrc-blog/pardon-fauci-no-arrest-fauci/)
+* [Unabashed and Unapologetic](https://www.lewrockwell.com/lrc-blog/unabashed-and-unapologetic/)
+* [Joe Rogan Experience #2237 – Mike Benz: Origins and Dire Consequences of the Internet Censorship Regime](https://www.lewrockwell.com/lrc-blog/joe-rogan-experience-2237-mike-benz-origins-and-dire-consequences-of-the-internet-censorship-regime/)
 * [Why So Much Hate and Bile Hurled at Pete Hegseth by the Unhinged Left?](https://www.lewrockwell.com/lrc-blog/why-so-much-hate-and-bile-hurled-at-pete-hegseth-by-the-unhinged-left/)
 * [NYC Mayor Breaks With Dems: ‘Cancel Me – I’m For Deportations!’](https://www.lewrockwell.com/lrc-blog/nyc-mayor-breaks-with-dems-cancel-me-im-for-deportations/)
 * [The Corruption of the FBI](https://www.lewrockwell.com/lrc-blog/the-corruption-of-the-fbi/)
@@ -87,10 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [Pokémon Go: The Dark Truth Revealed (Alert Your Kids)](https://www.lewrockwell.com/lrc-blog/pokemon-go-the-dark-truth-revealed-alert-your-kids/)
 * [‘Hey DOGE ! End The NED!’](https://www.lewrockwell.com/lrc-blog/hey-doge-end-the-ned/)
 * [Biden’s Hunter Pardon Is All About Ukraine](https://www.lewrockwell.com/lrc-blog/bidens-hunter-pardon-is-all-about-ukraine/)
-* [Dems and Mainstream Media on Kash Patel: “We Can’t Have a Political Activist as Head of the FBI!”](https://www.lewrockwell.com/lrc-blog/dems-and-mainstream-media-on-kash-patel-we-cant-have-a-political-activist-as-head-of-the-fbi/)
-* [“Pardon Me.” Brandon Pardons Himself](https://www.lewrockwell.com/lrc-blog/brandon-pardons-himself/)
-* [RE: The Best Thing So Far to Come from Trump’s Election Victory](https://www.lewrockwell.com/lrc-blog/re-the-best-thing-so-far-to-come-from-trumps-election-victory/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897339)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897467)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
