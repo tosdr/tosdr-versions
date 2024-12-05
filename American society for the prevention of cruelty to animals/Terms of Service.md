@@ -329,16 +329,3 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
-    
-
- ![](https://www.aspca.org/sites/default/files/modal-mobile/4dec2024-givingtuesday-deadline-extension-mobile.jpg)
-
-[We’ve Extended Our GivingTuesday Deadline!](https://secure.aspca.org/donate/2024-eap-GT6-web-NL-P1?ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER)
-
-[**Please help us reach our goal for animals in need with a gift before midnight tonight.**](https://secure.aspca.org/donate/2024-eap-GT6-web-NL-P1?ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER)
-
-[We’ve Extended Our GivingTuesday Deadline!](https://secure.aspca.org/donate/2024-eap-GT6-web-NL-P1?ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER)
-
-[**Please help us reach our goal for animals in need with a gift before midnight tonight.**](https://secure.aspca.org/donate/2024-eap-GT6-web-NL-P1?ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER)
-
-[DONATE](https://secure.aspca.org/donate/2024-eap-GT6-web-NL-P1?ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER&ms=wb_con_lightbox-gt6-20241204&initialms=wb_con_lightbox-gt6-20241204&pcode=WEBMEMBER)
