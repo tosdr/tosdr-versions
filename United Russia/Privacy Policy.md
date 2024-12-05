@@ -299,13 +299,29 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://cdn.er.ru/media/news/December2024/roRgYs2ZLjACI4P1HggJ-small.jpg)](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
+
+[Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
+
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
+
+05.12.24
+
+[![«Единая Россия» организует постоянный мониторинг за исполнением новых национальных проектов на основе обратной связи от жителей](https://cdn.er.ru/media/news/December2024/n7lf97uAhsyqunwfxSGP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-postoyannyj-monitoring-za-ispolneniem-novyh-nacionalnyh-proektov-na-osnove-obratnoj-svyazi-ot-zhitelej)
+
+[«Единая Россия» организует постоянный мониторинг за исполнением новых национальных проектов на основе обратной связи от жителей](https://er.ru/activity/news/edinaya-rossiya-organizuet-postoyannyj-monitoring-za-ispolneniem-novyh-nacionalnyh-proektov-na-osnove-obratnoj-svyazi-ot-zhitelej)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
+
+05.12.24
+
 [![Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://cdn.er.ru/media/news/December2024/phm4ZEVADDq4NE6ArQK8-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
 
 [Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
-Сегодня 19:10
+05.12.24
 
 [![«Единая Россия» подвела итоги работы партпроекта «Крепкая семья» за 2024 год](https://cdn.er.ru/media/news/December2024/qsi2o6pSVYjcP2JzLyg6-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-raboty-partproekta-krepkaya-semya-za-2024-god)
 
@@ -313,7 +329,7 @@
 
 [#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531)
 
-Сегодня 18:14
+05.12.24
 
 [![«Молодая Гвардия Единой России» организовала цикл мероприятий ко Дню волонтёра](https://cdn.er.ru/media/news/December2024/bwzGL6cD42GIFQH45RVh-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-organizovala-cikl-meropriyatij-ko-dnyu-volontyora)
 
@@ -321,7 +337,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#ветераны](https://er.ru/activity/news?tags%5B0%5D=40)
 
-Сегодня 18:00
+05.12.24
 
 [![«Единая Россия» возьмет на контроль создание промышленной инфраструктуры для субъектов МСП в области национальных технологических приоритетов](https://cdn.er.ru/media/news/December2024/tjsBnnzussbsPU4kyBIi-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vozmet-na-kontrol-sozdanie-promyshlennoj-infrastruktury-dlya-subektov-msp-v-oblasti-nacionalnyh-tehnologicheskih-prioritetov)
 
@@ -329,23 +345,7 @@
 
 [#Когогина](https://er.ru/activity/news?tags%5B0%5D=10885) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#Предпринимательство](https://er.ru/activity/news?tags%5B0%5D=1092796) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-Сегодня 16:46
-
-[![Владимир Путин подвел итоги ряда нацпроектов - участие в их реализации принимает «Единая Россия»](https://cdn.er.ru/media/news/December2024/LmdSZL8JMVY00ORzJj55-small.jpg)](https://er.ru/activity/news/vladimir-putin-podvel-itogi-ryada-nacproektov-uchastie-v-ih-realizacii-prinimaet-edinaya-rossiya)
-
-[Владимир Путин подвел итоги ряда нацпроектов - участие в их реализации принимает «Единая Россия»](https://er.ru/activity/news/vladimir-putin-podvel-itogi-ryada-nacproektov-uchastie-v-ih-realizacii-prinimaet-edinaya-rossiya)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальнаясфера](https://er.ru/activity/news?tags%5B0%5D=117652)
-
-Сегодня 15:28
-
-[![Ольга Занко: С 2021 года «Единая Россия» инициировала более 20 законов, поддерживающих волонтёрство и благотворительность](https://cdn.er.ru/media/news/December2024/NeyxbI1suybZa5gAz3yN-small.jpg)](https://er.ru/activity/news/olga-zanko-s-2021-goda-edinaya-rossiya-iniciirovala-bolee-20-zakonov-podderzhivayushih-volontyorstvo-i-blagotvoritelnost)
-
-[Ольга Занко: С 2021 года «Единая Россия» инициировала более 20 законов, поддерживающих волонтёрство и благотворительность](https://er.ru/activity/news/olga-zanko-s-2021-goda-edinaya-rossiya-iniciirovala-bolee-20-zakonov-podderzhivayushih-volontyorstvo-i-blagotvoritelnost)
-
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
-
-Сегодня 14:30
+05.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
