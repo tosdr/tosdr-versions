@@ -542,6 +542,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
+### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
+[Read More »](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
+
 [![14 unmissable Black Friday travel deals](https://media.restless.co.uk/uploads/2024/11/unmissable-black-friday-travel-deals-768x334.jpg)](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
 
 ### [14 unmissable Black Friday travel deals](https://restless.co.uk/travel/unmissable-black-friday-travel-deals/)
@@ -571,12 +577,6 @@ New in travel
 ### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
 
 [Read More »](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
-
-[![11 sunny spots five hours or less from the UK](https://media.restless.co.uk/uploads/2024/10/sunny-spots-five-hours-or-less-from-the-uk-768x365.jpg)](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-### [10 sunny spots five hours or less from the UK](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
-
-[Read More »](https://restless.co.uk/travel/sunny-spots-five-hours-or-less-from-the-uk/)
 
 Popular travel guides
 ---------------------
