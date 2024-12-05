@@ -148,7 +148,6 @@
 
 Сейчас читают
 
-* [Картофельная запеканка с морепродуктами](https://www.russianfood.com/recipes/recipe.php?rid=172790)
 * [Сдобные булочки с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=157565)
 * [Тёртый творожный пирог с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=160871)
 * [Котлеты "Пальчики" с сыром и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=160661)
@@ -190,7 +189,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175005#comments) | 05.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175005#comments) | 05.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -459,8 +458,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756837.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
-| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756837.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
+| [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -477,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(121)
+(157)
