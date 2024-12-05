@@ -5,9 +5,7 @@
 
 Free Consultation [253-859-0220](tel:+1-253-859-0220)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b2922340.smushcdn.com/2922340/wp-content/uploads/2023/02/brand-mobile.png?lossy=2&strip=1&webp=1)](https://www.greaneylaw.com/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.greaneylaw.com/)
 
 * [Home](https://www.greaneylaw.com/)
 * [About](https://www.greaneylaw.com/about/)
