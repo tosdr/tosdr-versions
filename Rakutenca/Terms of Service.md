@@ -419,7 +419,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
-        2% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
+        10% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
         
         12% Cash Back](https://www.rakuten.ca/temu)[Rover
         
@@ -842,11 +842,13 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 2% Cash Back from Rakuten.ca with Canadian Tire Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306303/en-stickyfooter-1170x60_canadian-tire2.png "Canadian Tire Coupons, Promo Codes")
+[![Earn 10% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson3.png "Dyson Coupons, Promo Codes")
 
-2% Cash Back
+was 2.5%, now
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/canadian-tire?sourceName=stickyfooter1)
+10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
