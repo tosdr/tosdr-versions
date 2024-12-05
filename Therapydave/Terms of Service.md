@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
+_“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
