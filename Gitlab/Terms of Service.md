@@ -1227,6 +1227,7 @@
                 * [ ]  [Risk Mapping](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/risk-mapping/)
                 * [ ]  [Self-Managed Excellence](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-excellence/)
                 * [ ]  [Self-Managed Platform team](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/)
+                    * [ ]  [Performance Testing at GitLab](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/performance/)
                     * [ ]  [Test Platform in Distribution group](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/self-managed-platform-team/distribution/)
                 * [ ]  [Test and Tools Infrastructure Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/test-and-tools-infrastructure-team/)
                 * [ ]  [Test Coverage](https://handbook.gitlab.com/handbook/engineering/infrastructure/test-platform/test-coverage/)
