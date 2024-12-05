@@ -10,7 +10,7 @@
         
         Regular reporting on government secrecy, surveillance, and the rights of reporters and whistleblowers.
         
-        * [Key Issues](https://freedom.press/issues/)
+        * [On the Issues](https://freedom.press/issues/)
         * [News Releases](https://freedom.press/issues/?content-type=release)
     * [Technology](https://freedom.press/tech/)
         
@@ -53,7 +53,7 @@
     
     * [The Latest](https://freedom.press/issues/)
         
-        * [Key Issues](https://freedom.press/issues/)
+        * [On the Issues](https://freedom.press/issues/)
         * [News Releases](https://freedom.press/issues/?content-type=release)
     * [Technology](https://freedom.press/tech/)
         
