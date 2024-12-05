@@ -259,19 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: North West Cricket Union annual presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West Cricket Union annual presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
+[![Throwback Thursday: Partytime out and about Derry (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: North West Cricket Union annual presentations](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man arrested and drugs and cash seized following search of property in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and drugs and cash seized following search of property in Derry")](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested and drugs and cash seized following search of property in Derry](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Thursday: Partytime out and about Derry (2007)](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry brothers launch new 'home care' business venture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry brothers launch new 'home care' business venture")](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
 
@@ -279,24 +272,6 @@ Most Popular
 
 [Derry brothers launch new 'home care' business venture](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who has spent every Christmas for past 11 years in custody remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who has spent every Christmas for past 11 years in custody remanded")](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who has spent every Christmas for past 11 years in custody remanded](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who damaged apartment block door fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
 
@@ -312,21 +287,14 @@ Derry Magistrates' Court
 [Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man who told police officer 'you should not be in this country' fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who told police officer 'you should not be in this country' fined")](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
+[![Derry man who damaged apartment block door fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
 
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who told police officer 'you should not be in this country' fined](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police in Derry charge 36-year-old man to court in connection with drug-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police in Derry charge 36-year-old man to court in connection with drug-related offences")](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on")](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
 
@@ -335,11 +303,76 @@ Derry Magistrate's Court
 [IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show")](https://www.derrynow.com/news/arts---entertainment/1672922/rte-late-late-toy-show-2024-guide-to-time-tv-tickets-theme-and-more-for-friday-s-show.html)
+
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
+
+[RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show](https://www.derrynow.com/news/arts---entertainment/1672922/rte-late-late-toy-show-2024-guide-to-time-tv-tickets-theme-and-more-for-friday-s-show.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Met Office issue yellow weather warning to Derry ahead of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Office issue yellow weather warning to Derry ahead of Storm Darragh")](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
+
+Met Office issue yellow weather warning for Derry
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training")](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary")](https://www.derrynow.com/story-telling/pictures---videos/1673585/in-pictures-rath-mor-50-+-club-celebrates-20th-anniversary.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary](https://www.derrynow.com/story-telling/pictures---videos/1673585/in-pictures-rath-mor-50-+-club-celebrates-20th-anniversary.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Thursday: Partytime out and about Derry (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about Derry (2007)](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore")](https://www.derrynow.com/story-telling/pictures---videos/1671657/in-pictures-reception-for-newly-appointed-ni-honorary-consul-to-ukraine-alan-moore.html)
 
@@ -375,41 +408,6 @@ Multimedia
 
 [IN PICTURES: North West Cricket Union annual presentations](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: ‘Our Guildhall, Our Space’ youth night in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1671008/in-pictures-our-guildhall-our-space-youth-night-in-derry-s-guildhall.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Community Christmas Party held in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Community Christmas Party held in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1671658/in-pictures-community-christmas-party-held-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Community Christmas Party held in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1671658/in-pictures-community-christmas-party-held-in-derry-s-guildhall.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: One for Sorrow Tattoo Studio fundraising event for Foyle Women's Aid](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: One for Sorrow Tattoo Studio fundraising event for Foyle Women's Aid")](https://www.derrynow.com/story-telling/pictures---videos/1671673/in-pictures-one-for-sorrow-tattoo-studio-fundraising-event-for-foyle-women-s-aid.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: One for Sorrow Tattoo Studio fundraising event for Foyle Women's Aid](https://www.derrynow.com/story-telling/pictures---videos/1671673/in-pictures-one-for-sorrow-tattoo-studio-fundraising-event-for-foyle-women-s-aid.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St. Mary's College Christmas Craft Fair](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St. Mary's College Christmas Craft Fair")](https://www.derrynow.com/story-telling/pictures---videos/1671699/in-pictures-christmas-magic-at-the-st-mary-s-college-annual-craft-fair.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Christmas magic at the St. Mary's College Annual Craft Fair](https://www.derrynow.com/story-telling/pictures---videos/1671699/in-pictures-christmas-magic-at-the-st-mary-s-college-annual-craft-fair.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Bishop Street Community Centre Christmas Family Fun Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Bishop Street Community Centre Christmas Family Fun Day")](https://www.derrynow.com/story-telling/pictures---videos/1671595/in-pictures-bishop-street-community-centre-christmas-family-fun-day.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Bishop Street Community Centre Christmas Family Fun Day](https://www.derrynow.com/story-telling/pictures---videos/1671595/in-pictures-bishop-street-community-centre-christmas-family-fun-day.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,51 +511,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+[![Planning permission granted for Derry's new Maritime Museum in Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning permission granted for Derry's new Maritime Museum in Ebrington Square")](https://www.derrynow.com/news/local-news/1673600/planning-permission-granted-for-derry-s-new-maritime-museum-in-ebrington-square.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Keeper Arlo Doherty pens long-term Derry City deal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Keeper Arlo Doherty pens long-term Derry City deal")](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
-
-Derry City goalkeeper Arlo Doherty has signed a long term deal with the Candystripes. (PHOTO: Ramsey Cardy/Sportsfile)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Keeper Arlo Doherty pens long-term Derry City deal](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/resizer/165/93/true/2024_12_04/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1733337997748.jpg--.jpg?1733337997772 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
+Planning permission has been granted for the new Maritime Museum
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Planning permission granted for Derry's new Maritime Museum in Ebrington Square](https://www.derrynow.com/news/local-news/1673600/planning-permission-granted-for-derry-s-new-maritime-museum-in-ebrington-square.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry search in relation to illegal money laundering](https://www.derrynow.com/resizer/165/93/true/2024_12_04/PSNI_Derry-1733330850832.jpg--.jpg?1733330850862 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+[![Donegal learners encouraged to take driving tests in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal learners encouraged to take driving tests in Derry")](https://www.derrynow.com/news/local-news/1673579/donegal-learners-encouraged-to-take-driving-tests-in-derry.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Campaign continues to support people living with disability in Derry council area](https://www.derrynow.com/resizer/165/93/true/2024_12_04/DCSDC_Staff_Dementia_Awareness_Training-1733323051570.jpg--.jpg?1733323053139 "Campaign continues to support people living with disability in Derry council area")](https://www.derrynow.com/news/local-news/1672829/campaign-continues-to-support-people-living-with-disability-in-derry-council-area.html)
+Donegal learners encouraged to take driving tests in Derry.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Campaign continues to support people living with disability in Derry council area](https://www.derrynow.com/news/local-news/1672829/campaign-continues-to-support-people-living-with-disability-in-derry-council-area.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Donegal learners encouraged to take driving tests in Derry](https://www.derrynow.com/news/local-news/1673579/donegal-learners-encouraged-to-take-driving-tests-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Simone Magill in action for Northern Ireland in 2022](https://www.derrynow.com/resizer/165/93/true/pa/2022_07_10/1657476305800_0.jpg--.jpg?1657476305907 "Simone Magill in action for Northern Ireland in 2022")](https://www.derrynow.com/news/derry-sport/1672640/county-derry-s-simone-magill-will-not-captain-northern-ireland-at-next-year-s-european-championship.html)
+[![Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/resizer/165/93/true/1494594604121.jpeg--.jpeg?1494594608000 "Met Office issue yellow weather warning to Derry ahead of Storm Darragh")](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
 
-Simone Magill in action for Northern Ireland in 2022
+Met Office issue yellow weather warning for Derry
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[County Derry's Simone Magill will not captain Northern Ireland at next year's European Championship](https://www.derrynow.com/news/derry-sport/1672640/county-derry-s-simone-magill-will-not-captain-northern-ireland-at-next-year-s-european-championship.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IDNT_5-12-24_Lifehack_30319914-1733397933888_1733397990.jpg--.jpg?1733397990667 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1673534/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+
+Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1673534/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Lost_Gaels_Front_Cover_%281%29-1733220291839_1733220440.jpg--.jpg?1733220440711 "Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland")](https://www.derrynow.com/news/local-news/1671550/lost-gaels-remembering-the-members-of-the-gaa-killed-in-the-conflict-in-ireland.html)
+
+Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland by Peadar Thompson's front cover.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland](https://www.derrynow.com/news/local-news/1671550/lost-gaels-remembering-the-members-of-the-gaa-killed-in-the-conflict-in-ireland.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "25-year-old man charged with driving offences to appear before Derry Magistrates’ Court")](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
