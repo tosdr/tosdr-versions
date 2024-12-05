@@ -86,6 +86,10 @@
         
         Go-tcha Tag](https://www.codejunkies.com/Products/Go-tcha-Tag__EF001355.aspx)
         
+        [![](/BVModules/Themes/Codejunkies/images/Menu/nav-ranger.png)
+        
+        Go-tcha Ranger](https://www.codejunkies.com/Products/Go-tcha-Ranger__EF001297V.aspx)
+        
 * [Power Points](https://www.codejunkies.com/Departments/Power-Points.aspx)
     * [![](/BVModules/Themes/Codejunkies/images/Menu/EF001196.png)
         
@@ -161,6 +165,10 @@
         [![](/BVModules/Themes/Codejunkies/images/Menu/EF001234.png)
         
         CoolDog Controller for PS4](https://www.codejunkies.com/Products/CoolDog-Controller-for-PS4__EF001234.aspx)
+        
+        [![](/BVModules/Themes/Codejunkies/images/Menu/nav-xerocontroller.png)
+        
+        PS5 Wireless Controller](https://www.codejunkies.com/Products/PS5-Wireless-Controller__EF001417.aspx)
         
 * [Retro](https://www.codejunkies.com/Departments/Retro.aspx)
     * [![](/BVModules/Themes/Codejunkies/images/Menu/EF000195.png)
