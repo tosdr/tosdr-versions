@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your Leader's Opinion on AN's Leader… (3,072)](https://forum.nationstates.net/viewtopic.php?t=526110&f=25&view=unread#unread ""Your Leader's Opinion on AN's Leader - ♥ Mk. 15 ♥" (3,072 posts)")
-* [NS World News- Your nation's news (3,493)](https://forum.nationstates.net/viewtopic.php?t=53698&f=4&view=unread#unread ""NS World News- Your nation's news" (3,493 posts)")
-* [South Korean Martial Law (624)](https://forum.nationstates.net/viewtopic.php?t=559163&f=20&view=unread#unread ""South Korean Martial Law" (624 posts)")
-* [American Politics: Turnabout Trump (7,726)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,726 posts)")
-* [The Collective Security League: OOC s… (7,057)](https://forum.nationstates.net/viewtopic.php?t=533133&f=5&view=unread#unread ""The Collective Security League: OOC signup" (7,057 posts)")
+* [The Coalition (Against Elfilin) (47)](https://forum.nationstates.net/viewtopic.php?t=559219&f=5&view=unread#unread ""The Coalition (Against Elfilin)" (47 posts)")
+* [2024 Football Off-Season: Euros, Copa… (3,479)](https://forum.nationstates.net/viewtopic.php?t=487157&f=20&view=unread#unread ""2024 Football Off-Season: Euros, Copa America, and transfers" (3,479 posts)")
+* [Trade between Pakania and Freedom Fre… (1,225)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,225 posts)")
+* [Guess Who BN Is! (8,116)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (8,116 posts)")
+* [The Jerman-Hungarian war IC (2)](https://forum.nationstates.net/viewtopic.php?t=559222&f=5&view=unread#unread ""The Jerman-Hungarian war IC" (2 posts)")
 
 Advertisement
 
