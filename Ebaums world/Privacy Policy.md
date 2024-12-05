@@ -259,13 +259,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![Kid trolls NBA dance cam](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/) [Genius Kid Baits NBA Dance Cam into Showing a Pro-Hong Kong Message](https://www.ebaumsworld.com/videos/genius-boy-trolling-the-dance-cam-is-a-wholesome-inspiration/86098784/)
+    [![kangaroo punching to save dog](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/) [Daring Dude Punches a Kangaroo to Save His Dog](https://www.ebaumsworld.com/videos/crazy-dude-fights-a-kangaroo-to-save-his-dog/85207341/)
     
-    [![fails and facepalms](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/) [36 Fails and Facepalms Crushing Your Hope for Future Generations](https://trending.ebaumsworld.com/pictures/36-cringey-fails-unworthy-to-our-forefathers/87496608/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
     
-    [![David Grusch testifying at the UFO hearing today](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/) [US Air Force Officer Admits Under Oath That the US Government Is In Possession of UFOs and Non-Human Bodies](https://www.ebaumsworld.com/videos/us-air-force-officer-admits-under-oath-that-the-us-government-is-in-possession-of-ufos-and-non-human-bodies/87425768/)
+    [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
     
-    [![a man sipping whiskey in his cluttered home | video of a man drinking and his wife leaving him in the backround](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/) [Man Reviews Scotch While His Wife Packs Up Her Things and Leaves Him in The Background](https://www.ebaumsworld.com/videos/man-reviews-scotch-while-his-wife-packs-up-her-things-and-leaves-him-in-the-background/85847868/)
+    [![pool emptying](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/) [Guy Notices Something Unusual When Emptying His Pool : Laminar Flow Phenomenon](https://www.ebaumsworld.com/videos/guy-notices-something-unusual-when-emptying-his-pool/85154367/)
     
 
 * Advertisement
