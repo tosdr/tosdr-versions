@@ -30,7 +30,7 @@ Our principal business activities are: Organizers of Seminars, Conferences, Trai
 
 MIS Training Institute Holdings, Inc.
 
-Company Address: 6855 S. Havana Suite 420 Centennial, CO80112 United States of America
+Company Address: 7450 Campus Dr, Suite 250 Colorado Springs, CO 80920 United States of America
 
 MIS Training (UK) Limited
 
@@ -156,7 +156,7 @@ If you wish to know whether we are keeping personal data about you, or if you ha
 
 **North America**
 
-* Postal mail to this address: Data Protection Officer, ACI Learning, 6855 S Havana St #420, Centennial, CO 80112
+* Postal mail to this address: Data Protection Officer, ACI Learning, 7450 Campus Dr, Suite 250 Colorado Springs, CO 80920
     
 * Email: support@acilearning.com
     
@@ -250,8 +250,8 @@ Contacting Us
 If there are any questions regarding this privacy policy you may contact customer support ([support@acilearning.com](mailto:support@acilearning.com)) or our Director of Privacy ([dpo@acilearning.com](mailto:dpo@acilearning.com)). You may also contact us using the information below:
 
 ACI Learning  
-6855 S Havana St #420  
-Centennial, CO 80112
+7450 Campus Dr, Suite 250  
+Colorado Springs, CO 80920
 
 Resources
 
