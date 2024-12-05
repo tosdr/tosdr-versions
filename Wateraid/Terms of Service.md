@@ -227,9 +227,9 @@ WaterAid - the water, sanitation and handwashing charity | © Copyright WaterAid
 [![](https://widgets.guidestar.org/TransparencySeal/7308087)](https://www.guidestar.org/profile/shared/101d2d82-c90f-4984-ab58-6c9f44d12a64)[![](https://mcusercontent.com/223395cf5b29224c243a3e6f7/images/20b902d2-bda1-2704-460d-eb7194f2e51a.jpeg)](https://www.charitynavigator.org/ein/300181674)
 
 * [\[email protected\]](https://www.wateraid.org/cdn-cgi/l/email-protection)
-* [](https://www.facebook.com/WaterAidAmerica/ "facebook")
-* [](https://www.instagram.com/WateraidAmerica "instagram")
+* [](https://www.facebook.com/WaterAidAmerica/ "Facebook")
+* [](https://www.instagram.com/WateraidAmerica "Instagram")
 * [](https://www.linkedin.com/WaterAidAmerica)
-* [](https://x.com/WateraidAmerica "twitter")
+* [](https://x.com/WateraidAmerica "X (formerly Twitter)")
 * [](https://www.vimeo.com/user72945131 "vimeo")
-* [](https://www.youtube.com/WaterAidAmerica "youtube")
+* [](https://www.youtube.com/WaterAidAmerica "YouTube")
