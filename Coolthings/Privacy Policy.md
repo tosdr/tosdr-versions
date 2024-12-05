@@ -15,6 +15,11 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/wahoo-element-ace-bike-computer-cyclometer-wind-sensor-largest-most-powerful/)
+    
+    [Wahoo Element Ace Takes the Bike Computer a Big Step Forward](https://www.coolthings.com/wahoo-element-ace-bike-computer-cyclometer-wind-sensor-largest-most-powerful/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
     
     [Eniac Flexbar Revives the Touch Bar as a PC Peripheral](https://www.coolthings.com/eniac-flexbar-touch-bar-pc-peripheral-windows-macos/)
@@ -23,11 +28,6 @@
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/msi-claw-8-ai-and-7-ai-aming-handheld-better-performance/)
     
     [MSI Claw 8 AI+ and 7 AI+ Reboots the Outfit’s Gaming Handheld for Overall Better Performance](https://www.coolthings.com/msi-claw-8-ai-and-7-ai-aming-handheld-better-performance/)
-    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/dartsnut-pixeldarts-electronic-dart-game-raspberry-pi-nerf-blasters/)
-    
-    [Dartsnut Pixeldarts Modernizes the Dart Game with More Versatile Gameplay Options](https://www.coolthings.com/dartsnut-pixeldarts-electronic-dart-game-raspberry-pi-nerf-blasters/)
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
