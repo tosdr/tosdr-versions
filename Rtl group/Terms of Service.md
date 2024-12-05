@@ -308,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-RTL Deutschland secures Bundesliga rights](/.galleries/images/RTL-Deutschland-Bundesliga_16-9.jpg?__scale=undefined&description=)
+    
+    RTL Deutschland secures Bundesliga rights
+    
+    05.12.2024
+    
+    RTL Deutschland has secured two Bundesliga packages in the DFL (German Football League) auction for media rights from the 2025/26 season onwards.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-secures-Bundesliga-rights/)
+    
 * [![slide-<i>RTL Spendenmarathon</i> 2024](/.galleries/images/Spendenmarathon-2024_Wolfram-Kons_16-9.jpg?__scale=undefined&description=)
     
     _RTL Spendenmarathon_ 2024
@@ -339,14 +347,6 @@ Europe's leading entertainment brand
     05.11.2024
     
     In the latest episode of _RTL stories – The podcast_, Isabell Ostermann, Senior Director Brand Management and Communications at RTL Group, discusses the RTL United rebranding project and balancing motherhood.](https://www.rtlgroup.com/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
-    
-* [![slide-UFA wins a Bambi Award](/.galleries/images/UFA-Bambi_16-9.png?__scale=undefined&description=)
-    
-    UFA wins a Bambi Award
-    
-    11.11.2024
-    
-    UFA wins ‘Best Series of the Year’ for _Maxton Hall_ at the Bambi Awards, while Holocaust survivor Margot Friedländer receives the Honourary Bambi Award.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/UFA-wins-a-Bambi-Award/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
