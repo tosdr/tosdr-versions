@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,17 @@ Latest News
 
 [Ex-Komeito chief Yamaguchi won't run for Upper House district seat](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/natsuo-yamaguchi-upper-house-district/ "Ex-Komeito chief Yamaguchi won't run for Upper House district seat")
 
-5 hours ago
+11 hours ago
 
 [Mammoths topped the menu for North American Ice Age people](https://www.japantimes.co.jp/news/2024/12/05/world/mammoth-top-ice-age-menu/ "Mammoths topped the menu for North American Ice Age people")
 
-5 hours ago
+11 hours ago
 
 [South Korea opposition chief says ousting Yoon will be difficult](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeachment-difficult/ "South Korea opposition chief says ousting Yoon will be difficult")
 
-6 hours ago
-
 [CDP and DPP to coordinate basic policies](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/cdp-dpp-coordination/ "CDP and DPP to coordinate basic policies")
 
-7 hours ago
-
 [BOJ rate hike bets retreat as traders count down to key meeting](https://www.japantimes.co.jp/business/2024/12/05/boj-hike-bets-retreat/ "BOJ rate hike bets retreat as traders count down to key meeting")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
