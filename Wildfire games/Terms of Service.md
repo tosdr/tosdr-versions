@@ -1,5 +1,7 @@
 [Jump to content](#ipsLayout_mainArea "Go to main content on this page")
 
+[Network maintenance starting at 03:30 UTC](https://wildfiregames.com/forum/announcement/11-network-maintenance-starting-at-0330-utc/) [×](#)
+
 [![Wildfire Games Community Forums](https://wildfiregames.com/forum/uploads/monthly_2016_01/56a2143188df0_logo1.png.363bbde64403b86000b74e6daf490530.png)](https://wildfiregames.com/forum/)
 
 * [Community Home](https://wildfiregames.com/forum/ "Go to the community homepage")
