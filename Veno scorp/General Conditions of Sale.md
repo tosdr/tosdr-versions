@@ -89,79 +89,37 @@ Continue shopping
 Return Policy
 =============
 
-**Return Policy** Here at Veno Scorp, we pride ourselves on providing thebest customer service experience we can. If for any reason you arenot fully satisfied with your system, we would like to give you theopportunity to work with us to try and get the issue resolved. Wewant your full Veno Scorp PC experience to be a positive one.
+**Return Policy**
 
-**14-Day Money Back Guarantee** A prebuilt or configured system from Veno Scorp should never be one that any of our customers learn to regret. We appreciate that making a large purchase online can be daunting and requires a leap of faith. No matter how much effort you put into trawling through all the information, there is always an element of the unknown. It is our job to exceed your expectations at every step of the way and make sure you are satisfied. If at any point within 14days of delivery you are not satisfied or have had a change of circumstances and require a refund, whatever the reason, we will not hold that against you. Our 14 Day Money Back Guarantee ensures you receive the most efficient and hassle-free returns service, irrespective of the circumstances.
+At VenoScorp, we are committed to providing exceptional customer service. If you're not completely satisfied with your system, we encourage you to contact us so we can address any concerns and ensure a positive experience.
 
-This policy gives our customers extra piece-of-mind and goes beyond the latest UK legislation.
+**14-Day Money Back Guarantee**
 
-How our 14 days money back guarantee works: If you’re happy with your purchase, leave us a review on Trustpilot or Facebook :) If you are considering returning your device, just get in touch and we will do our best to turn that frown upside down – some issues are easily solved. If at any stage you wish to escalate your case and contact management, you can email support@veno-scorp.co.uk If you have decided that you would like a refund, just contact us with your details and reason for cancellation, we will organise a collection. There is a fixed delivery/collection fee of £20 to return an item for change of mind. We will inspect the return as quickly as possible and process a full refund if you haven’t broken any of the rules below. Please Note that you must return each item in the same condition it was received. If you have purchased a new sealed item, this must be returned in the exact same condition otherwise a 15% Restocking fee will apply.
+We understand that purchasing online can be daunting. To offer peace of mind, we provide a 14-day money-back guarantee. If within 14 days of delivery you're not satisfied or have changed your mind, we will facilitate a return and refund process.
 
-**Exclusions:** There are some basic conditions, some of them are just common sense, but they are worth noting to make sure there are no nasty surprises.
+**How the 14-Day Money Back Guarantee Works:**
 
-\- Software that has been activated is not eligible for refunds, as it is registered to you and cannot be transferred on most occasions.
+**Step 1:** Contact us by emailing [support@veno-scorp.co.uk](mailto:support@veno-scorp.co.uk "mailto:support@veno-scorp.co.uk"). Please include your Order Number and details of how we can help you.  
+  
 
-\- Services such as priority turnaround and premium delivery options (e.g. Saturday delivery, pre-12 delivery, Northern Ireland, Highlands, Isles) are not eligible for refunds if they have been supplied, unless there is a problem with the product.
+1. Contact Us: If you're considering a return, please reach out to us. Many issues can be resolved quickly, and we're here to assist.
+2. Escalation: If necessary, you can escalate your case by emailing [support@veno-scorp.co.uk](mailto:support@veno-scorp.co.uk "mailto:support@veno-scorp.co.uk").
+3. Refund Process: Customers can choose to use our DPD Collection Service at a cost of £20, or return the item via their own carrier. After inspecting the return, we'll process a full refund, provided the conditions below are met.
 
-\- If the item is not faulty, you will need to pay for the return delivery costs as noted above.
+**Conditions and Exclusions:**
 
-\- Please look after the product whilst within your care, if you return it and there are signs of usage or damage then a deduction to replace / repair that part may apply.
+* Notification Period: We must be notified within 14 days of you receiving your item that you wish to initiate a return for a refund. The return must then be delivered back to us within 7 days of our acceptance email.
+* Software: Activated software is non-refundable, as it is registered to you and typically non-transferable.
+* Services: Priority turnaround and premium delivery options (e.g., Saturday delivery, pre-12 delivery, Northern Ireland, Highlands, Isles) are non-refundable once provided, unless there's a product issue.
+* Services: Priority turnaround and premium delivery options (e.g., Saturday delivery, pre-12 delivery, Northern Ireland, Highlands, Isles) are non-refundable once provided, unless there's a product issue.
+* Product Care: Please maintain the product's condition. Returns showing signs of use or damage may incur deductions for repair or replacement.
+* Serial Numbers: We record all component serial numbers to prevent fraud.
+* Custom Machines: A cancellation fee applies for non-faulty custom machines, as each is bespoke and requires significant time to build.
+* Transit Damage: Damage caused by insufficient packaging during return transit is not covered.
+* Data Backup: Please back up all data; we are not responsible for data loss.
+* Original Packaging: Items must be returned in their original packaging with all accessories. New items should be returned unopened and unused; otherwise, a 15% restocking fee applies.
 
-\- Serial numbers of all components are recorded to make sure there’s no foul play.
-
-\- For custom machines a cancellation fee would apply if there is no fault, as each one is a bespoke machine that requires many days of work to complete.
-
-\- Damages caused in transit due to insufficient packaging are not covered by us.
-
-\- Please backup all data , we are not responsible for any data loss.
-
-\- Items must be returned in there original packaging and accessories which came with them. New Items must be returned with all boxes including component boxes if for any reason you do not do this then our team will notify you of the charges involved as these items must have original boxes.
-
-\- Items must be returned in the same condition it went out in. If you have purchased a new item then it must be returned New unsealed and unused. If for any reason the packaging has been opened or the item has been used then this will result in 15% Restocking fee.
-
-**Important Information:** There are some basic conditions, some of them are just common sense, but they are worth noting to make sure there are no nasty surprises.
-
-**Packaging** Please pack the item in its original box & include all accessories provided.
-
-· Please make sure the item is suitably packed to avoid damage as this will not be covered under your warranty & may require you to pay for the replacement of the damaged item.(Our recommendation is that items should be packaged in much the same manner as when you received the goods from us originally).
-
-· Make sure the Return Sheet is clearly visible on the inside of the box. Items returned WITHOUT the Return Sheet will be rejected & returned back to you without being tested.
-
-· Do NOT write directly onto the product packaging. Instead write on to either some brown packing paper/envelope/jiffy bag or brown outer box.
-
-·  Please DO NOT include anything not purchased from us or not listed on the RMA as these will not be tested. Unless specifically advised to return them by us.
-
-We recommend following these Packaging Guide Lines.
-
-To return an item, please send an email to Customer Service : [support@veno-scorp.co.uk](mailto:support@veno-scorp.co.uk "mailto:support@veno-scorp.co.uk") to submit your return claim.
-
-After receiving confirmation, place the item securely in its original packaging, include your proof of purchase, fill in the returns sheet supplied.
-
-**Outside The 30-DayMoney Back Guarantee** You will be covered by the warranty supplied with your system, so in the unlikely event that a fault occurs within this period, please contact us so we can help resolve the fault.
-
-**Please read about the Warranty before contacting us.**
-
-If the fault cannot be rectified over the phone, we will arrange collection of your device so it can be returned to our repairs centre. Before this collection, please make sure all data is backed up as we are not liable for any data loss. We will then repair/replace any faulty components, test, and return the device to you. Repairs normally take up to 10 working days once the item has been received back, but can sometimes take longer especially if the parts are older.
-
-In the first instance, please contact our Technical Support team who will help you with your query and can create an RMA number if required.
-
-[**Contact Technical Support**](https://veno-scorp.co.uk/pages/contact "Contact")
-
-[support@veno-scorp.co.uk](mailto:support@veno-scorp.co.uk "mailto:support@veno-scorp.co.uk")
-
-**RETURNS ADDRESS**
-
-**VENO SCORP (RETURNS DEPARTMENT)**
-
-Unit 174 Old Wellington Road
-
-Lyntown Trading Estate
-
-Eccles, Manchester
-
-M30 9FU
-
-United Kingdom
+**Important Information:**
 
 ![](//veno-scorp.co.uk/cdn/shop/files/Logo-1_300x300.svg?v=1697263392)
 
