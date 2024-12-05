@@ -175,7 +175,7 @@ We will retain your information and information within your client files for the
 
 Your personal data may be transferred outside the UK while being processed by Complete Licensing Limited.
 
-We use [**Proton Mai**](https://protonmail.com/)[**l**](https://protonmail.com/) for the provision of our emails a copy of our [“Data Processing Agreement” can be viewed **here**](https://protonmail.com/dpa).
+We use Microsoft for the provision of our emails a copy of our [“Data Processing Agreement” can be viewed **here**](https://protonmail.com/dpa).
 
 All servers used in connection with the provisioning of emails are located in Switzerland. Email data is ALWAYS stored in encrypted format on our servers. Offline backups may be stored periodically, but these are also encrypted. Our email service provider does not possess the ability to access any encrypted message content on either the production servers or in the backups.
 
@@ -185,7 +185,7 @@ We are committed to doing all that we can to keep your information secure. We se
 
 We take information security very seriously and have implemented several technical and organisational measures to protect the information and personal data we hold. These include:
 
-* Email: We use [**Proton Mail**](https://protonmail.com/) for the provision of our email service, all internal emails are there for end-to-end encrypted however external emails are not, we can enable email encryption on request. [You can view the security features of Proton Mail by **clicking here**.](https://protonmail.com/security-details)  We use software to protect against malware and phishing attacks (and you should too!)
+* Email: We use Microsoft for the provision of our email service, all internal emails are there for end-to-end encrypted however external emails are not, we can enable email encryption on request.  We use software to protect against malware and phishing attacks (and you should too!)
 
 * Communications tools: For internal company communications we use [**Signal Messenger**](https://www.signal.org/) as it is end-to-end encrypted. However, we tend to use whatever communications tools are preferred by our clients. Phone calls made to or from our mobiles are not encrypted (and if you dial into any conference call which uses encryption, your connection won’t be encrypted).
 
@@ -284,6 +284,7 @@ We want you to know that we’re here to help. We have the resources, the knowle
 * [Money Laundering Regulations Policy](https://completelicensing.uk/money-laundering-regulations-policy/)
 * [Anti-bribery Policy](https://completelicensing.uk/anti-bribery-policy/)
 * [Copyright & Trademark Notice](https://completelicensing.uk/copyright-and-trademark-notice/)
+* [Email Disclaimer](https://completelicensing.uk/email-disclaimer/)
 
 ##### [Blog](https://completelicensing.uk/blog/)
 
