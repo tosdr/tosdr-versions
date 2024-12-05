@@ -1,6 +1,6 @@
 Γ
 
-                                                                     
+                                                                         
 
 Privacy Policy - VORO MOTORS                        
 
@@ -53,7 +53,7 @@ Menu
 * [Spare Parts](https://www.voromotors.com/collections/electric-scooter-parts-and-accessories/spare-parts)
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
         * [Cruiser](https://www.voromotors.com/collections/cruiser-s-parts)
-        * [Cruiser V2](https://www.voromotors.com/collections/cruiser-v2-parts)
+        * [Cruiser V2](https://www.voromotors.com/pages/emove-cruiser-v2-spare-parts-catalog)
         * [Touring](https://www.voromotors.com/collections/touring-parts)
         * [RoadRunner SE](https://www.voromotors.com/collections/roadrunner-se-parts)
         * [RoadRunner](https://www.voromotors.com/collections/roadrunner-v2-parts)
@@ -197,7 +197,7 @@ Continue Shopping
     
     * [EMOVE](https://www.voromotors.com/collections/emove-accessories-and-parts/spare-parts)
         * [Cruiser](https://www.voromotors.com/collections/cruiser-s-parts)
-        * [Cruiser V2](https://www.voromotors.com/collections/cruiser-v2-parts)
+        * [Cruiser V2](https://www.voromotors.com/pages/emove-cruiser-v2-spare-parts-catalog)
         * [Touring](https://www.voromotors.com/collections/touring-parts)
         * [RoadRunner SE](https://www.voromotors.com/collections/roadrunner-se-parts)
         * [RoadRunner](https://www.voromotors.com/collections/roadrunner-v2-parts)
