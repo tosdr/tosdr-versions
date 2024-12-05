@@ -2,8 +2,6 @@
 
   
 
-USE CODE "BFCM30" FOR 30% OFF STOREWIDE
-
 FREE shipping on USA orders of $75+ - Shipping times could be delayed due to Black Friday.
 
     
