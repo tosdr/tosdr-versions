@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Terri Winfield
+Hugo van Sittert
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=6019774)  
-Mtunzini Group
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=136147685)  
+FX ACCOUNTING
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=12181089)  
-IYD
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=67066962)  
+Multi CNC Solutions CC
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=155124459)  
-CBR Verwe/Paints
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=177182530)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=8684351)  
-Skinz Printing & Branding
+![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=78062622)  
+NC Labour Hire
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=214736726)  
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=62804530)  
+NGB HOLDINGS PTY LTD
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=120256967)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=160652569)  
+Lion Software Develepment
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=174123918)  
+Gemini-IT Group
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=115137652)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=65339676)  
+Kainos (Pty) Ltd
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=160084630)  
+Creative Characters
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=137285726)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=72253026)  
 Bchange Online CC
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=96712142)  
-Cpower Projects t/a Pro Pure Water
-
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=136746295)  
-Lizzy Pop PTY(Ltd)
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=54183132)  
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=80375769)  
 Calonet
 
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=160592330)  
-Van Der Merwe Olieverspreiders
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=123642953)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=4162626f517dc00133125e4fdf8630da790d53a0fc09a80cc22951c8afb1748a&c=49599610)  
 Electro-Heat
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=113632293)  
-Alliance Energy
-
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=62901521)  
-Lemba Truck Stop
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=123537239)  
-Tantra Sound and Lightz
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=204327776)  
-TechnoDezi PTY(LTD)
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=7f981a4a1f28de36ec276230d00da59592a17400caf76f19bb40903d206f7567&c=33611933)  
-FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
