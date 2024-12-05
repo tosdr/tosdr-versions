@@ -385,7 +385,7 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 * #### Help & Support
     
 * [Contact Support](https://my.eurodns.com/about/contact/)
-* [Contact Sales](https://my.eurodns.com/about/contact/#business-services)
+* [Contact Sales](https://my.eurodns.com/about/contact/business-services)
 * [Support: +352 263 725 200](tel:+352263725200)
 * [Sales: +352 263 725 250](tel:+352263725250)
 * [Support Site](https://help.eurodns.com/)
