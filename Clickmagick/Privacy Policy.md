@@ -17,6 +17,7 @@
     * [Google Analytics/GA4 vs. ClickMagick](https://www.clickmagick.com/compare/google-analytics-ga4/)
     * [Google Tracking Tag vs. ClickMagick](https://www.clickmagick.com/compare/google-ads-tag/)
     * [Hyros vs. ClickMagick](https://www.clickmagick.com/compare/hyros-alternative/?cmc_goal=a&cmc_ref=compare-hyros&cmc_click=n)
+    * [Server-Side Tracking vs. ClickMagick](https://www.clickmagick.com/compare/server-side-tracking/)
 
 * [Agencies](https://www.clickmagick.com/agencies/)
 * [Pricing](https://www.clickmagick.com/pricing/)
@@ -225,6 +226,7 @@ Get it on
 * [Google Analytics/GA4](https://www.clickmagick.com/compare/google-analytics-ga4/)
 * [Google Tracking Tag](https://www.clickmagick.com/compare/google-ads-tag/)
 * [Hyros Alternative](https://www.clickmagick.com/compare/hyros-alternative/?cmc_goal=a&cmc_ref=compare-hyros&cmc_click=n)
+* [Server-Side Tracking](https://www.clickmagick.com/compare/server-side-tracking/)
 * [Zapier](https://zapier.com/apps/clickmagick/integrations) / [API Docs](https://api.clickmagick.com/docs/)
 * [Knowledge Base](https://www.clickmagick.com/kb/)
 
