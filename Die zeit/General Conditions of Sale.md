@@ -111,8 +111,6 @@ Anzeigen
     * Hell
     * Dunkel
 
-[**Eilmeldung** 20:29 Uhr Frankreichs Regierung durch Misstrauensvotum gestürzt](https://www.zeit.de/politik/ausland/2024-12/frankreichs-regierung-durch-misstrauensvotum-gestuerzt)
-
 : Nutzungs- und Geschäftsbedingungen
 ====================================
 
