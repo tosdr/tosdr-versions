@@ -11,6 +11,17 @@ Free Shipping on Orders Over $79 (USA)
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
     
+* Merch
+    
+    [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+    
+    * [Shirts](https://rockykanaka.com/collections/shirts)
+    * [Hoodies & Sweatshirts](https://rockykanaka.com/collections/hoodies-and-sweatshirts)
+    * [Hats](https://rockykanaka.com/collections/hats)
+    * [Socks](https://rockykanaka.com/collections/socks)
+    * [Mugs](https://rockykanaka.com/collections/mugs)
+    * [Blankets](https://rockykanaka.com/collections/blankets)
+    
 * Collections
     
     [Collections](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
@@ -37,6 +48,15 @@ Free Shipping on Orders Over $79 (USA)
     
     * [Jerky](https://rockykanaka.com/collections/jerky)
     * [Chews](https://rockykanaka.com/collections/chew)
+    
+* [Merch](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
+    
+    * [Shirts](https://rockykanaka.com/collections/shirts)
+    * [Hoodies & Sweatshirts](https://rockykanaka.com/collections/hoodies-and-sweatshirts)
+    * [Hats](https://rockykanaka.com/collections/hats)
+    * [Socks](https://rockykanaka.com/collections/socks)
+    * [Mugs](https://rockykanaka.com/collections/mugs)
+    * [Blankets](https://rockykanaka.com/collections/blankets)
     
 * [Collections](https://rockykanaka.com/collections/merch-by-rocky-kanaka)
     
