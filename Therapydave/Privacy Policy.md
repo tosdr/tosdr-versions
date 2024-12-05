@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“To be honest, I was scared that couples therapy would just give us another place to fight and make things worse between us. But I was completely wrong. Instead, my wife and I learned how to really talk and listen to each other. We started working together as a team instead of always butting heads. Therapy didn't just help us fix our problems - it actually made our relationship stronger and showed us how to be better partners for each other. I'm really glad we gave it a chance because it's made a big difference in our marriage and our happiness together.”_
+_“Before therapy I thought I could change people with my love, affection, loyalty, etc. Not only did I think I \*could\* but I think I thought that it was somehow also my duty to do so. Then I learned about codependency and how it was not my responsibility to change people nor is it possible. I learned that people are who they are and, other than a respectful request, it's best to take people at face value and use boundaries. As a result, I no longer make as much space for people in my life who drain me and do not fill my cup.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
