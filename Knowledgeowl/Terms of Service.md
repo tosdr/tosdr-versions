@@ -72,8 +72,8 @@ Table of Contents Table of Contents Toggle navigation
             * [Use action links with # or javascript:void(0)](https://www.knowledgeowl.com/help/using-links-with-javascriptvoid0)
             * [Edit permalinks](https://www.knowledgeowl.com/help/editing-permalinks)
             * [Add anchors within articles](https://www.knowledgeowl.com/help/working-with-anchors)
-            * [Adding code](https://www.knowledgeowl.com/help/display-code)
-            * [Adding banners and thumbnails](https://www.knowledgeowl.com/help/add-banners-thumbnails)
+            * [Add code samples](https://www.knowledgeowl.com/help/display-code)
+            * [Add banners and thumbnails](https://www.knowledgeowl.com/help/add-banners-thumbnails)
             * [URL redirect article](https://www.knowledgeowl.com/help/edit-article-url-redirect-article)
             * [Editor keyboard shortcuts](https://www.knowledgeowl.com/help/editor-keyboard-shortcuts)
             * [Autosave](https://www.knowledgeowl.com/help/autosave)
@@ -389,7 +389,7 @@ Table of Contents Table of Contents Toggle navigation
         * [Add Home link to table of contents](https://www.knowledgeowl.com/help/add-home-toc)
         * [Add search bar to table of contents](https://www.knowledgeowl.com/help/add-search-bar-to-table-of-contents)
         * [Add glossary link to table of contents](https://www.knowledgeowl.com/help/add-glossary-link-to-table-of-contents)
-        * [Add a link to the full PDF download to table of contents](https://www.knowledgeowl.com/help/add-a-link-to-the-full-pdf-download-to-your-table-of-contents)
+        * [Add a link to the full PDF download to table of contents](https://www.knowledgeowl.com/help/add-full-pdf-to-table-of-contents)
         * [Add contact us link to table of contents](https://www.knowledgeowl.com/help/add-toc-link)
         * [Change the icons used in the table of contents](https://www.knowledgeowl.com/help/change-the-toc-icons)
         * [Change the slideout Table of Contents' width (Minimalist Theme)](https://www.knowledgeowl.com/help/change-width-slideout-toc)
@@ -1122,6 +1122,8 @@ Table of Contents Table of Contents Toggle navigation
         * [How do I get Business or Enterprise Extras?](https://www.knowledgeowl.com/help/how-do-i-add-extras)
         * [What happens when I subscribe to KnowledgeOwl?](https://www.knowledgeowl.com/help/what-happens-when-i-subscribe-to-knowledgeowl)
         * [How do I cancel my trial?](https://www.knowledgeowl.com/help/how-do-i-cancel-my-trial)
+    * [Transition to KO from another tool](javascript:void(0);)
+        
     * [How to start your knowledge base](https://knowledgeowl.wistia.com/medias/518xz9kl9u)
         
     * [5 minute demo video](https://knowledgeowl.wistia.com/medias/41zqh58yrx)
@@ -1231,6 +1233,9 @@ Table of Contents Table of Contents Toggle navigation
             
         * [Advanced search walkthrough](https://www.knowledgeowl.com/help/advanced-search-walkthrough)
             
+
+* [Full PDF Download](https://www.knowledgeowl.com/help/download-full-pdf/id/559f118932131c6576ccb5be)
+    
 
 * [Home](https://www.knowledgeowl.com/help)
 
@@ -1423,7 +1428,7 @@ If you do not agree to the new terms and conditions, you may terminate this agre
     
 * [Author team order consistently displayed](https://www.knowledgeowl.com/help/author-team-order-consistently-displayed)
     
-* [Add a new glossary term](https://www.knowledgeowl.com/help/populate-the-glossary)
+* [Conditional content based on tags](https://www.knowledgeowl.com/help/conditional-content-based-on-tags)
     
 
    
@@ -1447,6 +1452,8 @@ Email
 [Comment!](# "Submit comment")
 
 Thanks! Your comment will appear when it's approved :)
+
+  
 
 [](#)
 
