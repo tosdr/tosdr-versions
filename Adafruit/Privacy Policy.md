@@ -1,3 +1,5 @@
+Due to high demand USPS orders may not ship for up to 3-4 business days.
+
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -404,12 +406,12 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Think about the metric by which your life will be judged, and make a resolution to live every day so that in the end, your life will be judged a success”
+“ A Certain Darkness Is Needed to See the Stars”
 
-[Clayton M. Christensen](https://en.wikipedia.org/wiki/Clayton_Christensen)
+[Osho](https://en.wikipedia.org/wiki/Rajneesh)
 
 [](https://www.adafruit.com/about)
 
-[](https://www.instagram.com/adafruit/)[](https://twitter.com/adafruit/)[](https://mastodon.cloud/@adafruit)[](https://www.facebook.com/adafruitindustries)[](https://www.youtube.com/adafruit)[](https://github.com/adafruit)[](https://www.tiktok.com/@adafruit)[](https://adafruit.tumblr.com/)[](https://www.threads.net/@adafruit)[](https://adafru.it/discord)
+[](https://www.instagram.com/adafruit/)[](https://twitter.com/adafruit/)[](https://mastodon.cloud/@adafruit)[](https://www.facebook.com/adafruitindustries)[](https://www.youtube.com/adafruit)[](https://github.com/adafruit)[](https://www.tiktok.com/@adafruit)[](https://adafruit.tumblr.com/)[](https://www.threads.net/@adafruit)[](https://adafru.it/discord)[](https://bsky.app/profile/adafruit.com)
 
 [A Minority and Woman-owned Business Enterprise (M/WBE)](https://www.adafruit.com/about)
