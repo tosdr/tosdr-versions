@@ -1,10 +1,11 @@
 [![CleanShot X](data:image/png;base64,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)](https://cleanshot.cloud/)Menu
 
+* [Cloud](https://cleanshot.cloud/cloud)
 * [Changelog](https://cleanshot.cloud/changelog)
 * [Testimonials](https://cleanshot.cloud/testimonials)
 * [License Manager](https://licenses.cleanshot.com/)
 * [FAQ](https://cleanshot.cloud/faq)
-* [Log in to Cloud](https://cleanshot.cloud/)
+* [Log in](https://cleanshot.cloud/)
 * [Buy now](https://cleanshot.cloud/pricing)
 * [Buy now](https://cleanshot.cloud/buy)
 
@@ -241,6 +242,14 @@ Any disputes arising in connection with or on the occasion of non-performance or
 * [Available discounts](https://cleanshot.cloud/discounts)
 * [URL scheme API](https://cleanshot.cloud/docs-api)
 
+* CleanShot Cloud
+* [About CleanShot Cloud](https://cleanshot.cloud/cloud)
+* [Log in to Cloud](https://cleanshot.cloud/)
+* [Security](https://cleanshot.cloud/security)
+* [Terms of Service](https://cleanshot.cloud/cloud/terms)
+* [Privacy Policy](https://cleanshot.cloud/cloud/privacy)
+* [Bug Bounty](https://cleanshot.cloud/disclosure)
+
 * License
 * [Pricing](https://cleanshot.cloud/pricing)
 * [License Manager](https://licenses.cleanshot.com/)
@@ -254,13 +263,6 @@ Any disputes arising in connection with or on the occasion of non-performance or
 * [Press kit](https://cleanshot-x.s3.eu-central-1.amazonaws.com/Presskit.zip)
 * [Status Page](https://status.cleanshot.com/)
 * [YouTube](https://www.youtube.com/channel/UCm2D6iChCp1bBZQb93np6YA)
-
-* CleanShot Cloud
-* [Log in to Cloud](https://cleanshot.cloud/)
-* [Security](https://cleanshot.cloud/security)
-* [Terms of Service](https://cleanshot.cloud/cloud/terms)
-* [Privacy Policy](https://cleanshot.cloud/cloud/privacy)
-* [Bug Bounty](https://cleanshot.cloud/disclosure)
 
 © Copyright [MTW](https://mtw.team/)
 
