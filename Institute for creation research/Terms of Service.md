@@ -165,31 +165,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Impact
+More Acts & Facts
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/DistantStarlight.jpg)](https://www.icr.org/article/distant-starlight-in-young-universe)
+[![](/i/articles/af/af2205-webcover.jpg)](https://www.icr.org/article/13434)
 
-[Seeing Distant Starlight in a Young Universe](https://www.icr.org/article/distant-starlight-in-young-universe/)
+[May-June 2022](https://www.icr.org/article/13434/)
 
-Many see distant starlight as an unanswerable objection to recent creation. Both creationist and evolutionist astronomers agree that distant galaxies...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/DinoMythsDebunked.jpg)](https://www.icr.org/article/dino-myths-debunked)
-
-[Evolutionary Dinosaur Myths Debunked](https://www.icr.org/article/dino-myths-debunked/)
-
-by Jeffrey P. Tomkins, Ph.D., and Tim Clarey, Ph.D.\* Dinosaurs capture the public imagination like no other creatures. The extreme popularity of...
+...
 
 BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/climate_alarmism.jpg)](https://www.icr.org/article/climate-alarmism-age-earth)
+[![](/i/articles/af/af2209-webcover.jpg)](https://www.icr.org/article/13598)
 
-[Climate Alarmism and the Age of the Earth](https://www.icr.org/article/climate-alarmism-age-earth/)
+[September-October 2022](https://www.icr.org/article/13598/)
 
-Many evangelical Christians think global warming is a serious issue that demands drastic action.1 At the Institute for Creation Research...
+...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
+
+[![](/i/articles/af/af2112-webcover.jpg)](https://www.icr.org/article/13083)
+
+[December 2021](https://www.icr.org/article/13083/)
+
+...
+
+BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
