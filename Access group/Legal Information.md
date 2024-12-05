@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/tchdpgk1/screenshot-2024-12-05-130556.png?rmode=max&width=230&height=295&v=1db4705d3ff63e0)
+    
+    Posted 5th December 2024
+    
+    The Access Group announces new appointments as part of USA expansion
+    
+    [Read article on The Access Group announces new appointments as part of USA expansion](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-announces-new-appointments-as-part-of-usa-expansion/)
+    
     ![](/media/tgbjp1yw/blogbanner_acquisitions.png?rmode=max&width=230&height=295&v=1db46a810f2f6d0)
     
     Posted 5th December 2024
