@@ -285,17 +285,17 @@ Past Week
 
 ### Most Read Articles
 
-[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-
-[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-
-_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
-
 [![Fish swimming with outlined brains and microbes within them](https://www.quantamagazine.org/wp-content/uploads/2024/12/FishBrainMicrobiome-cr.SamuelVelasco-Thumbnail.webp)](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 
 [#### Fish Have a Brain Microbiome. Could Humans Have One Too?](https://www.quantamagazine.org/fish-have-a-brain-microbiome-could-humans-have-one-too-20241202/)
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
+
+[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 [![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
 
