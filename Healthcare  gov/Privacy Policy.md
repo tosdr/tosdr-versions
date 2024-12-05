@@ -541,7 +541,7 @@ You're about to connect to a third-party site. Select CONTINUE to proceed or CAN
 
 Notice:
 
-Social media sites aren’t government websites or applications — they’re controlled or operated by the social media site.
+Social media sites aren't government websites or applications — they're controlled or operated by the social media site.
 
 The Marketplace doesn't:
 
