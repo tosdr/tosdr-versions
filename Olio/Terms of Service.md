@@ -46,7 +46,7 @@ _Last updated: 25 November 2024_
 
 **Introduction:**
 
-This end-user licence agreement (“**EULA”**) is a legal agreement between you (“**End-user**” or “**you”**) and Olio Exchange Limited (registered number 09428660) of 157A Nelson Road, London, England, N8 9RR (“**Licensor”**, “**us”, “our”** or “**we”**) for the licence of our:
+This end-user licence agreement (“**EULA”**) is a legal agreement between you (“**End-user**” or “**you”**) and Olio Exchange Limited (registered number 09428660) of 11A Brackenbury Road, London W6 0BE, England (“**Licensor”**, “**us”, “our”** or “**we”**) for the licence of our:
 
 * Olio mobile application software and the web-based version of the App (the “**App”**); 
 * Volunteer Hub and Partner Hub (together the “**Hubs**”);
