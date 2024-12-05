@@ -44,7 +44,7 @@ Menu
 Privacy Policy
 ==============
 
-* Last Updated: March 1, 2023
+* Last updated: March 1, 2023
 
 Browse
 
