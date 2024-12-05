@@ -38,6 +38,7 @@ Menu icon Menu
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
+    * [Men's Haircare](https://www.soapboxsoaps.com/collections/mens-haircare)
     * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     [Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
@@ -111,6 +112,7 @@ Search icon Search
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
+    * [Men's Haircare](https://www.soapboxsoaps.com/collections/mens-haircare)
     * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     Bath & Body Care
@@ -359,6 +361,8 @@ Close icon
 Chevron down icon Chevron down icon
 
        
+
+     
 
       
 
