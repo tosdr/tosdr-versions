@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is talcum powder a carcinogen?](https://www.pintas.com/wp-content/uploads/2020/07/shutterstock_447728962-scaled.jpg "Is Talcum Powder A Carcinogen?")](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/ "Is Talcum Powder A Carcinogen?")
+[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
 
-[#### Is Talcum Powder A Carcinogen?](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/)
+[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
 
-[![Can you put a camera in a nursing home room?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-put-a-camera-in-a-nursing-home-room.jpg "Can You Put a Camera in a Nursing Home Room?")](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/ "Can You Put a Camera in a Nursing Home Room?")
+[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
 
-[#### Can You Put a Camera in a Nursing Home Room?](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/)
+[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
 
-[![Occupations with a high risk of asbestos exposure](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-occupations-with-a-high-risk-of-asbestos-exposure.jpg "Occupations With a High Risk of Asbestos Exposure")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations "Occupations With a High Risk of Asbestos Exposure")
+[![Is elder abuse punishable like child abuse?](https://www.pintas.com/wp-content/uploads/2020/09/child-abuse-is-elder-abuse-punishable-like-child-abuse.jpg "Is Elder Abuse Punishable Like Child Abuse?")](https://www.pintas.com/faq/child-abuse/ "Is Elder Abuse Punishable Like Child Abuse?")
 
-[#### Occupations With a High Risk of Asbestos Exposure](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations)
+[#### Is Elder Abuse Punishable Like Child Abuse?](https://www.pintas.com/faq/child-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
