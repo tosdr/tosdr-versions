@@ -251,7 +251,7 @@ External
             
             [Explore](https://www.bakerhughes.com/subsea)
             
-            * [Flexible pipe systems](https://www.bakerhughes.com/subsea/flexible-pipe-systems)
+            * [Flexible Pipe Systems](https://www.bakerhughes.com/subsea/flexible-pipe-systems)
                 
             * [Subsea Connect](https://www.bakerhughes.com/subsea/subsea-connect)
                 
@@ -293,17 +293,19 @@ External
             
             [Explore](https://www.bakerhughes.com/surface-pressure-control)
             
+            * [Carbon Capture and Injection Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
+                
+            * [Compact Multibowl Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
+                
+            * [Conventional Wellhead Systems](https://www.bakerhughes.com/surface-pressure-control/conventional-wellhead-systems)
+                
+            * [Geothermal Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/geothermal-wellhead-solutions)
+                
+            * [Mudline Suspension Solutions](https://www.bakerhughes.com/surface-pressure-control/mudline-suspension-solutions)
+                
             * [Surface Pressure Control Services](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services)
                 
-            * [Carbon capture and injection wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
-                
-            * [Compact multibowl wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
-                
-            * [Conventional wellhead systems](https://www.bakerhughes.com/surface-pressure-control/conventional-wellhead-systems)
-                
-            * [Geothermal wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/geothermal-wellhead-solutions)
-                
-            * [Mudline suspension solutions](https://www.bakerhughes.com/surface-pressure-control/mudline-suspension-solutions)
+            * [engageSPC Digital Platform](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services/engagespc-digital-platform)
                 
             
         * [Decommissioning](https://www.bakerhughes.com/)
@@ -1214,7 +1216,7 @@ Search
             
             [Explore](https://www.bakerhughes.com/subsea)
             
-            * [Flexible pipe systems](https://www.bakerhughes.com/subsea/flexible-pipe-systems)
+            * [Flexible Pipe Systems](https://www.bakerhughes.com/subsea/flexible-pipe-systems)
                 
             * [Subsea Connect](https://www.bakerhughes.com/subsea/subsea-connect)
                 
@@ -1256,17 +1258,19 @@ Search
             
             [Explore](https://www.bakerhughes.com/surface-pressure-control)
             
+            * [Carbon Capture and Injection Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
+                
+            * [Compact Multibowl Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
+                
+            * [Conventional Wellhead Systems](https://www.bakerhughes.com/surface-pressure-control/conventional-wellhead-systems)
+                
+            * [Geothermal Wellhead Solutions](https://www.bakerhughes.com/surface-pressure-control/geothermal-wellhead-solutions)
+                
+            * [Mudline Suspension Solutions](https://www.bakerhughes.com/surface-pressure-control/mudline-suspension-solutions)
+                
             * [Surface Pressure Control Services](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services)
                 
-            * [Carbon capture and injection wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/carbon-capture-and-injection-wellhead-solutions)
-                
-            * [Compact multibowl wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/compact-multibowl-wellhead-solutions)
-                
-            * [Conventional wellhead systems](https://www.bakerhughes.com/surface-pressure-control/conventional-wellhead-systems)
-                
-            * [Geothermal wellhead solutions](https://www.bakerhughes.com/surface-pressure-control/geothermal-wellhead-solutions)
-                
-            * [Mudline suspension solutions](https://www.bakerhughes.com/surface-pressure-control/mudline-suspension-solutions)
+            * [engageSPC Digital Platform](https://www.bakerhughes.com/surface-pressure-control/surface-pressure-control-services/engagespc-digital-platform)
                 
             
         * [Decommissioning](https://www.bakerhughes.com/)
