@@ -129,7 +129,7 @@ Search
         ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
     *  [![Trustpilot icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
         
-        ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews Widget](https://embedsocial.com/blog/embed-trustpilot-reviews/ "Trustpilot Reviews Widget")
+        ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews Widget](https://embedsocial.com/trustpilot-reviews-widget/ "Trustpilot Reviews Widget")
     
     New: Widgets Templates Library
     
@@ -154,7 +154,7 @@ Search
     * [Social Media Recommendations](https://embedsocial.com/p/templates/social-media-recommendations-widget "Social Media Recommendations")
     * [Facebook Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/facebook "Facebook Reviews Widgets ↗")
     
-    Reviews Widgets Templates
+    [Reviews Widgets](https://embedsocial.com/reviews-badges/) Templates
     
     * [Shoppable Google Reviews](http://Shoppable%20Google%20Reviews%20Widget "Shoppable Google Reviews")
     * [Google Reviews Grid](https://embedsocial.com/p/templates/classic-google-reviews-feed-widget "Google Reviews Grid")
