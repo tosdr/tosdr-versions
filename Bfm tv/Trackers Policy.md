@@ -38,7 +38,7 @@ Replay BFMTV](https://www.rmcbfmplay.com/chaine/bfm-tv?subMenuId=RefMenuItem::rm
 
 À la une
 
-* [Élection américaine 2024](https://www.bfmtv.com/international/amerique-nord/etats-unis/elections-americaines/ "Élection américaine 2024")
+* [Réouverture de Notre-Dame](https://www.bfmtv.com/international/incendie-de-notre-dame-de-paris_DN-201904160186.html "Réouverture de Notre-Dame")
 
 Parcourir
 
