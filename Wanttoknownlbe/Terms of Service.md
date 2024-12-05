@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/alsjeblieft-4-prachtige-voorjaarslezingen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/mind-controllers/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
