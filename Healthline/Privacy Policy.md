@@ -175,19 +175,16 @@
 
 Subscribe
 
-[#### Skin Care](https://www.healthline.com/skincare)
+[#### Menopause](https://www.healthline.com/menopause)
 
-* [Your Skin](https://www.healthline.com/skincare/skin-youre-in)
-* [Science](https://www.healthline.com/skincare/skin-science)
-* [Ingredients](https://www.healthline.com/skincare/ingredients)
-* [Routine](https://www.healthline.com/skincare/build-your-routine)
-* [Acne](https://www.healthline.com/skincare/acne)
-* [Conditions](https://www.healthline.com/skincare/conditions-and-concerns)
-* [Procedures](https://www.healthline.com/skincare/procedures)
-* [Products](https://www.healthline.com/skincare/products)
-* [Sun Protection](https://www.healthline.com/skincare/sun-protection)
-* [Natural](https://www.healthline.com/skincare/natural-and-diy)
-* [Hair & Nails](https://www.healthline.com/skincare/hair-and-nails)
+* [Treatment](https://www.healthline.com/menopause/treatment)
+* [Symptom Management](https://www.healthline.com/menopause/symptom-management)
+* [Weight Management](https://www.healthline.com/menopause/weight-management-nutrition)
+* [Holistic Health](https://www.healthline.com/menopause/holistic-health)
+* [Mental Well-Being](https://www.healthline.com/menopause/mental-wellbeing)
+* [Navigating Intimacy](https://www.healthline.com/menopause/intimacy-and-relationships)
+* [Resources for Doctors' Visits](https://www.healthline.com/menopause/doctor-guide)
+* [Early Menopause](https://www.healthline.com/menopause/early-menopause)
 
 Privacy Policy
 ==============
