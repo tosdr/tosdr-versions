@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Fonds und ETF: Wie Sie die passende Anteils­klasse Ihres Fonds finden](https://www.test.de/Fonds-und-ETF-Die-passende-Anteilsklasse-Ihres-Fonds-6124427-0/ "Fonds und ETF - Wie Sie die passende Anteilsklasse Ihres Fonds finden")
-* [Home­page-Baukästen im Test: Einfach zur eigenen Webseite](https://www.test.de/Hompage-Baukasten-Vergleich-6084895-0/ "Homepage-Baukästen im Test - Einfach zur eigenen Webseite")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
+* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
+* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
+* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
+* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
 
 Stiftung Warentest
 
