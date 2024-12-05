@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, December 4, 2024**
+**Thursday, December 5, 2024**
 
-**...Cold Front to Push Off Southern Peninsula and Keys This Morning...Dry Conditions Throughout the State With the Help of High Pressure...Senstive to Locally Elevated Wildfire Conditions Across Big Bend, Northeast and West Florida Due to Near or Below Critical Relative Humidity Values...Temperatures Begin to Warm Up Today But Will Remain Below Normal Across North and Central Florida...Increasing Rain Chances Along Western Panhandle Ahead of Next Frontal Boundary Approaching...Patchy Frost Possible Overnight Throughout Suwannee Valley; Temperatures to Remain Above Freezing Overnight...Moderate Risk for Rip Currents Statewide, With High Risk Along Southeast Florida...**
+**...****Light to Moderate Showers Expected Along the Florida Panhandle Today and Across the Big Bend and Northern Peninsula Tonight Along and Ahead of An Advancing Cold Front...Mostly Dry Conditions Elsewhere...Locally Sensitive Wildfire Conditions Cannot Be Ruled Out In the Peninsula...Breezy Winds to Develop Later Today and Tonight Across North and Central Florida...Drought Conditions Continue to Worsen and Expand Across the State...Moderate to High Risk For Rip Currents Along Florida Panhandle and East Coast...Low Temperatures to Fall Into the Low to Middle 30s Along the Panhandle and Middle to Upper 30s Through the Big Bend and Suwannee Valley...Cold Weather Advisories Issued Along the Panhandle and Western Big Bend For the Early to Mid-Morning Hours Friday As Breezy Winds Will Create Wind Chills As Low As 20-25 Degrees...Wind Chills In the Upper 20s and 30s Through the Rest of the Big Bend Into the Suwannee Valley and Northeast Florida...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
