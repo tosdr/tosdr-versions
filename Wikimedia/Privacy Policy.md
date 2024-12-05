@@ -183,8 +183,8 @@ General
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=366672 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&action=info "More information about this page")
-* [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
-* [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
+* [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlQ%C4%B1sald%C4%B1c%C4%B1s%C4%B1&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
+* [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrKodu&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3APrivacy_policy)
 
 Print/export
 
@@ -840,7 +840,7 @@ Privacy-related pages
     * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "m:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
-![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&useformat=desktop)
+![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=0)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=366672](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=366672)"
 
