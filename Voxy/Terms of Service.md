@@ -41,6 +41,13 @@ Menu
 
 [Request a demo](https://voxy.com/demo)
 
+Terms of Use
+============
+
+* Last updated: May 18, 2022
+
+Browse
+
 ### Terms of Use
 
 _Last Updated: May, 2022_
