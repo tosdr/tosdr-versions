@@ -4,7 +4,7 @@
 
 [Alumni For Liberty](https://studentsforliberty.org/alumni-for-liberty/)
 
-[LibertyCon 2024](https://www.libertycon.com/)
+[LibertyCon 2025](https://www.libertycon.com/)
 
 [Facebook-f](https://www.facebook.com/studentsforliberty) [Twitter](https://twitter.com/sfliberty) [Instagram](https://www.instagram.com/sfliberty/) [Youtube](https://www.youtube.com/channel/UCLsDcMGsZ_ZpFKUgKUp82hw)
 
