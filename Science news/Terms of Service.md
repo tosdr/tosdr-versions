@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Dietary evidence bolsters Clovis hunters’ reputation as mammoth killers](https://www.sciencenews.org/article/dietary-clovis-hunters-mammoth-killers)
             
-            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")14 hours ago
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")20 hours ago
             
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
@@ -120,23 +120,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Life
         --------------------
         
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")1 hour ago
+            
         * [Life](https://www.sciencenews.org/topic/life)
             
             ### [Climate change is driving trees away from crucial fungi](https://www.sciencenews.org/article/climate-change-driving-trees-from-fungi)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")18 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 4, 2024
             
         * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
             
             ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")20 hours ago
-            
-        * [Life](https://www.sciencenews.org/topic/life)
-            
-            ### [Here’s how long it would take 100 worms to eat the plastic in one face mask](https://www.sciencenews.org/article/worms-eating-plastic)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")December 3, 2024
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 4, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
@@ -147,23 +147,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
+            
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")1 hour ago
+            
         * [Ecosystems](https://www.sciencenews.org/topic/ecosystems)
             
             ### [New videos reveal the hidden lives of Andean bears](https://www.sciencenews.org/article/new-videos-andean-bears-behavior)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")20 hours ago
+            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")December 4, 2024
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [An unexpected ice collapse hints at worrying changes on the Antarctic coast](https://www.sciencenews.org/article/unexpected-ice-collapse-antarctic-coast)
             
             By [Douglas Fox](https://www.sciencenews.org/author/douglas-fox "Posts by Douglas Fox")December 3, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [From electric cars to wildfires, how Trump may affect climate actions](https://www.sciencenews.org/article/trump-affect-climate-actions-research)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 25, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -201,6 +201,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Space](https://www.sciencenews.org/topic/space)
             
+            ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")4 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
+            
             ### [What will it take to defend the world from an asteroid?](https://www.sciencenews.org/article/robin-andrews-kill-asteroid-review)
             
             By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")November 28, 2024
@@ -210,12 +216,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [This is the first close-up image of a star beyond our galaxy](https://www.sciencenews.org/article/first-close-image-star-beyond-galaxy)
             
             By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")November 21, 2024
-            
-        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
-            
-            ### [Mars’ potato-shaped moons could be the remains of a shredded asteroid](https://www.sciencenews.org/article/mars-moons-shredded-asteroid)
-            
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")November 20, 2024
             
 
 Terms of Service
