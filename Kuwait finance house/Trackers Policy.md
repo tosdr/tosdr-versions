@@ -91,13 +91,13 @@ KFH Auto
 
 ### _![](/dam/jcr:38d56ce9-c6ac-4de9-bcd7-a700219566ca/menu-icon1.png)_ [Accounts](https://www.kfh.com/en/home/Personal/Accounts.html)
 
+* ["Alrabeh" Account](https://www.kfh.com/en/home/Personal/Accounts/alrabih-account.html)
+* ["Al-Hassad" Account](https://www.kfh.com/en/home/Personal/Accounts/alhassad-account.html)
+* ["Gold" Account](https://www.kfh.com/en/home/Personal/Accounts/gold-account.html)
 * ["Current" Account](https://www.kfh.com/en/home/Personal/Accounts/current-account.html)
 * ["Electron" Account](https://www.kfh.com/en/home/Personal/Accounts/electron-account.html)
 * ["Saving" Account](https://www.kfh.com/en/home/Personal/Accounts/saving-account.html)
-* ["Alrabeh" Account](https://www.kfh.com/en/home/Personal/Accounts/alrabih-account.html)
-* ["Al-Hassad" Account](https://www.kfh.com/en/home/Personal/Accounts/alhassad-account.html)
 * ["Baiti" Account](https://www.kfh.com/en/home/Personal/Accounts/baiti-account.html)
-* ["Gold" Account](https://www.kfh.com/en/home/Personal/Accounts/gold-account.html)
 * ["AL-AMIL" Account](https://www.kfh.com/en/home/Personal/Accounts/alamil-account.html)
 * [Profits Announcement](https://www.kfh.com/en/home/Personal/Accounts/Accounts-Profits.html)
 
@@ -189,7 +189,7 @@ _![](/dam/jcr:1205b642-1de8-4ede-a150-721c5882a2a7/user-top.png)_ Customer Login
 * [A](javascript:void(0))
 * [A](javascript:void(0))
 * [](javascript:void(0))
-* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DiLeV4K7h8_eJ12rqQ3SbWI2veIbcKFjcwUI0Q8lEp_TO2PsLGeFe!-538309983 "Listen to this page using ReadSpeaker")
+* [Listen](https://app-as.readspeaker.com/cgi-bin/rsent?customerid=9156&lang=en_uk&readid=mainContent&url=https%3A%2F%2Fwww.kfh.com%2Fen%2Fhome%2FPersonal%2FCookies-and-Data-Privacy-Notice.html%3Bjsessionid%3DPqyW-oHApWcWYgw2XWAkU_DaJpvsJuFaQO3zPWuiSORReCCXHbmH!-1567839488 "Listen to this page using ReadSpeaker")
     
 
 Cookie Notice
