@@ -2,14 +2,14 @@ Thursday, December 5 2024
 
 Breaking News
 
+* [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
+* [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
+* [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
 * [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
 * [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
 * [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
 * [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
 * [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
-* [Women Shouldn’t Be in Combat Roles](https://www.conservativedailynews.com/2024/12/women-shouldnt-be-in-combat-roles/)
-* [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
-* [Religious Leaders See A ‘Fourth Great Awakening’ As Americans Flock To Christianity](https://www.conservativedailynews.com/2024/12/religious-leaders-see-a-fourth-great-awakening-as-americans-flock-to-christianity/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-kavahegs-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
+    
+    [By The Book](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
+    
+    [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
+    
+    [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
+    
+    December 5, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5875.webp-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
+    
+    [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
+    
+    December 5, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/05/Creedit-cards-score-220x150.png)](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
     
     [How to Win the Balance Transfer Game](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
@@ -154,43 +178,19 @@ Recent Posts
     
     December 5, 2024
     
-* [![Joe Biden leaving lone rider done](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
-    
-    [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/12/2020-National-Christmas-Tree-Lighting-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-pardonhunt-sm-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
-    
-    [Crimes Of The Father](https://www.conservativedailynews.com/2024/12/crimes-of-the-father/)
-    
-    December 4, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/scrooged-2/)
-    
-    [Scrooged!](https://www.conservativedailynews.com/2024/12/scrooged-2/)
-    
-    December 4, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Doctors’ Voices Could Be Loudest Ones Yet in Move to Deregulate Suppressors](https://www.thegunpage.com/doctors-voices-could-be-loudest-ones-yet-in-move-to-deregulate-suppressors/10612310)
+* [New Jersey Police May Be Required To Alert Feds When Illegal Immigrants Apply For Gun Permits](https://www.thegunpage.com/new-jersey-police-may-be-required-to-alert-feds-when-illegal-immigrants-apply-for-gun-permits/10612305)
+* [New Details About the Magpul x ZEV FMG-9/FDC-9](https://www.thegunpage.com/new-details-about-the-magpul-x-zev-fmg-9-fdc-9/10612307)
+* [Why Hunter Biden’s Pardon is So Infuriating](https://www.thegunpage.com/why-hunter-bidens-pardon-is-so-infuriating/10612303)
+* [TFB Behind the Gun #143 Silver Screen Wheel Guns w/ Sam & Hop](https://www.thegunpage.com/tfb-behind-the-gun-143-silver-screen-wheel-guns-w-sam-hop/10612308)
 * [Michigan Gun Owners Under Increased Fire This Week](https://www.thegunpage.com/michigan-gun-owners-under-increased-fire-this-week/10612301)
 * [Unified Effort By Military And Civilians To Advance Marksmanship: 1962 National Matches](https://www.thegunpage.com/unified-effort-by-military-and-civilians-to-advance-marksmanship-1962-national-matches/10612300)
 * [Battle At The Peak: USPSA Colorado State Championship Beats Weather Again](https://www.thegunpage.com/battle-at-the-peak-uspsa-colorado-state-championship-beats-weather-again/10612299)
 * [TFB Review: Meprolight MPO Pro-S vs MPO Pro-F](https://www.thegunpage.com/tfb-review-meprolight-mpo-pro-s-vs-mpo-pro-f/10612296)
 * [POTD: Troy Long Rifle – MK11 CSASS 308](https://www.thegunpage.com/potd-troy-long-rifle-mk11-csass-308/10612297)
-* [Wheelgun Wednesday: Samson Manufacturing – Enhanced Ejector Rod](https://www.thegunpage.com/wheelgun-wednesday-samson-manufacturing-enhanced-ejector-rod/10612298)
-* [States, Gun Groups Implore SCOTUS To Tell Mexico “To Go Pound Sand”](https://www.thegunpage.com/states-gun-groups-implore-scotus-to-tell-mexico-to-go-pound-sand/10612293)
-* [GOA’s Second Amendment Hunters Announces Photo Contest & Prize Package](https://www.thegunpage.com/goas-second-amendment-hunters-announces-photo-contest-prize-package/10612290)
-* [San Diego Court Sides with Smith & Wesson in Chabad of Poway Lawsuit](https://www.thegunpage.com/san-diego-court-sides-with-smith-wesson-in-chabad-of-poway-lawsuit/10612287)
-* [Glock Boys, Rejoice! NEW Safariland Fits for the Incog X IWB Holster](https://www.thegunpage.com/glock-boys-rejoice-new-safariland-fits-for-the-incog-x-iwb-holster/10612289)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
