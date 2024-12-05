@@ -137,7 +137,7 @@
 
 ### Ofcom appoints Oliver Griffiths as Group Director, Online Safety
 
-5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/?language=en)
+5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/)
 
 [![CN 24 NC_Eng web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_eng-web.jpg?width=1920&height=1085&quality=80)
 
@@ -157,7 +157,7 @@
 
 5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-report-finds-big-advances-in-scotlands-connectivity-in-2024/)
 
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
