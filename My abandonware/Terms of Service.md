@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Hello Kitty: Big Fun Deluxe](https://www.myabandonware.com/game/hello-kitty-big-fun-deluxe-u0h)
+* [Hello Kitty: Roller Rescue](https://www.myabandonware.com/game/hello-kitty-roller-rescue-sah)
 * [Starship Conquer](https://www.myabandonware.com/game/starship-conquer-tdq)
 * [Knight Moves](https://www.myabandonware.com/game/knight-moves-tdn)
 * [Kaiser: Das Erbe](https://www.myabandonware.com/game/kaiser-das-erbe-tdm)
-* [Empire III: Armageddon](https://www.myabandonware.com/game/empire-iii-armageddon-tdl)
-* [Empire II: Interstellar Sharks](https://www.myabandonware.com/game/empire-ii-interstellar-sharks-tdj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Hasbro Family Game Night](https://www.myabandonware.com/game/hasbro-family-game-night-r3o)
-* [Arrow](https://www.myabandonware.com/game/arrow-ogo)
-* [Bronx Street Cop](https://www.myabandonware.com/game/bronx-street-cop-hol)
+* [Come On Baby](https://www.myabandonware.com/game/come-on-baby-t93)
+* [Premier Picks](https://www.myabandonware.com/game/premier-picks-7jx)
+* [Sky Kid Deluxe](https://www.myabandonware.com/game/sky-kid-deluxe-rn1)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
