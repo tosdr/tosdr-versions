@@ -1,9 +1,9 @@
  
 
-* [Contact Sales](https://www.servers.com/company/contact-sales)
+* [Contact us](https://www.servers.com/contact-us)
 * [Support](https://www.servers.com/company/support)
 
- [![servers.com](/dA/3c348bb3d8/logo.svg) ![servers.com](/dA/399d4eb149/logo-white.svg)](https://www.servers.com/)
+ [![servers.com](/dA/e3b38f5878/logo-new.svg) ![servers.com](/dA/399d4eb149/logo-white.svg)](https://www.servers.com/)
 
 * Why servers.com
     
@@ -84,16 +84,16 @@
         * [London](https://www.servers.com/about/data-center-locations/london)
         * [Luxembourg](https://www.servers.com/about/data-center-locations/luxembourg)
     
-* Products
-    * [Cloud servers](https://www.servers.com/products/cloud-servers)
-    * [Forex VPS](https://www.servers.com/products/forex-vps)
-    * [Firewall](https://www.servers.com/products/firewall)
-    * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
-    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
-    * [Private racks](https://www.servers.com/products/private-racks)
-    * [Load balancing](https://www.servers.com/products/load-balancing-service)
-    * [Private cloud](https://www.servers.com/products/private-cloud)
-    * [Cloud storage](https://www.servers.com/products/cloud-storage)
+* Resources
+    * [Knowledge base](https://www.servers.com/support/knowledge/)
+    * [Report terrorist content](https://www.servers.com/support/report-terrorist-content)
+    * [API](https://developers.servers.com/)
+    * [Service status](https://status-servers.com/)
+    * [Abuse reporting](https://abuse-form.servers.com/)
+* News
+    * [Whitepapers](https://www.servers.com/news/whitepapers/)
+    * [Events](https://www.servers.com/news/events/)
+    * [Blog](https://www.servers.com/news/blog/)
 * Company
     * [Legal](https://www.servers.com/company/legal/)
     * [About servers.com](https://www.servers.com/company/about-servers)
@@ -101,23 +101,23 @@
     * [California Privacy Policy](https://www.servers.com/company/california-privacy-policy)
     * [Privacy policy](https://www.servers.com/company/privacy-policy)
 * Industries
+    * [Fintech](https://www.servers.com/industries/fintech)
     * [Gaming](https://www.servers.com/industries/gaming)
     * [Streaming](https://www.servers.com/industries/streaming)
     * [Web3](https://www.servers.com/industries/web3)
     * [Adtech](https://www.servers.com/industries/adtech)
     * [iGaming](https://www.servers.com/industries/igaming)
-    * [Fintech](https://www.servers.com/industries/fintech)
-* News
-    * [Blog](https://www.servers.com/news/blog/)
-    * [Events](https://www.servers.com/news/events/)
-    * [Whitepapers](https://www.servers.com/news/whitepapers/)
-* Resources
-    * [Report terrorist content](https://www.servers.com/support/report-terrorist-content)
-    * [Knowledge base](https://www.servers.com/support/knowledge/)
-    * [API](https://developers.servers.com/)
-    * [Service status](https://status-servers.com/)
-    * [Abuse reporting](https://abuse-form.servers.com/)
-* [Contact Sales](https://www.servers.com/company/contact-sales)
+* Products
+    * [Cloud servers](https://www.servers.com/products/cloud-servers)
+    * [Dedicated servers](https://www.servers.com/products/dedicated-servers)
+    * [Firewall](https://www.servers.com/products/firewall)
+    * [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
+    * [Private racks](https://www.servers.com/products/private-racks)
+    * [Load balancing](https://www.servers.com/products/load-balancing-service)
+    * [Private cloud](https://www.servers.com/products/private-cloud)
+    * [Cloud storage](https://www.servers.com/products/cloud-storage)
+    * [Forex VPS](https://www.servers.com/products/forex-vps)
+* [Contact us](https://www.servers.com/contact-us)
 * [Support](https://www.servers.com/company/support)
 * [![person](/global/generated/assets/person.svg)Customer portal](https://portal.servers.com/)
 
@@ -269,56 +269,56 @@ EU Representative pursuant to Article 27 of the GDPR.
 
 Last modified: September 12th, 2024
 
-##### Products
+##### Resources
 
-* [Cloud servers](https://www.servers.com/products/cloud-servers)
-* [Forex VPS](https://www.servers.com/products/forex-vps)
-* [Firewall](https://www.servers.com/products/firewall)
-* [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
-* [Dedicated servers](https://www.servers.com/products/dedicated-servers)
-* [Private racks](https://www.servers.com/products/private-racks)
-* [Load balancing](https://www.servers.com/products/load-balancing-service)
-* [Private cloud](https://www.servers.com/products/private-cloud)
-* [Cloud storage](https://www.servers.com/products/cloud-storage)
+* [Knowledge base](https://www.servers.com/support/knowledge/)
+* [Report terrorist content](https://www.servers.com/support/report-terrorist-content)
+* [API](https://developers.servers.com/)
+* [Service status](https://status-servers.com/)
+* [Abuse reporting](https://abuse-form.servers.com/)
 
-##### Why servers.com
+##### News
 
-* [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
-* [Customer Stories](https://www.servers.com/about/customer-stories/)
-* [Available IP carriers](https://www.servers.com/about/network/available-ip-carriers)
-* [Data center locations](https://www.servers.com/about/data-center-locations/)
-* [Network Performance](https://www.servers.com/about/network/network-performance)
+* [Whitepapers](https://www.servers.com/news/whitepapers/)
+* [Events](https://www.servers.com/news/events/)
+* [Blog](https://www.servers.com/news/blog/)
 
 ##### Industries
 
+* [Fintech](https://www.servers.com/industries/fintech)
 * [Gaming](https://www.servers.com/industries/gaming)
 * [Streaming](https://www.servers.com/industries/streaming)
 * [Web3](https://www.servers.com/industries/web3)
 * [Adtech](https://www.servers.com/industries/adtech)
 * [iGaming](https://www.servers.com/industries/igaming)
-* [Fintech](https://www.servers.com/industries/fintech)
 
-##### News
+##### Products
 
-* [Blog](https://www.servers.com/news/blog/)
-* [Events](https://www.servers.com/news/events/)
-* [Whitepapers](https://www.servers.com/news/whitepapers/)
+* [Cloud servers](https://www.servers.com/products/cloud-servers)
+* [Dedicated servers](https://www.servers.com/products/dedicated-servers)
+* [Firewall](https://www.servers.com/products/firewall)
+* [Kubernetes clusters](https://www.servers.com/products/kubernetes-clusters)
+* [Private racks](https://www.servers.com/products/private-racks)
+* [Load balancing](https://www.servers.com/products/load-balancing-service)
+* [Private cloud](https://www.servers.com/products/private-cloud)
+* [Cloud storage](https://www.servers.com/products/cloud-storage)
+* [Forex VPS](https://www.servers.com/products/forex-vps)
 
-##### Resources
+##### Why servers.com
 
-* [Report terrorist content](https://www.servers.com/support/report-terrorist-content)
-* [Knowledge base](https://www.servers.com/support/knowledge/)
-* [API](https://developers.servers.com/)
-* [Service status](https://status-servers.com/)
-* [Abuse reporting](https://abuse-form.servers.com/)
+* [Customer Stories](https://www.servers.com/about/customer-stories/)
+* [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
+* [Available IP carriers](https://www.servers.com/about/network/available-ip-carriers)
+* [Network Performance](https://www.servers.com/about/network/network-performance)
+* [Data center locations](https://www.servers.com/about/data-center-locations/)
 
 ##### Follow us:
 
-[![Linkedin](/dA/915ffc85f4/linkedin.svg)](https://www.linkedin.com/company/servers-com "Follow on Linkedin")
+ [![Linkedin](/dA/ae76075966/Linkedin_footer_default.svg) ![Linkedin](/dA/4c7e2e6564/linkedin_footer_hover.svg)](https://www.linkedin.com/company/servers-com "Follow on Linkedin")
 
-[![Twitter](/dA/734f91b47f/x.svg)](https://twitter.com/servers_com "Follow on Twitter")
+ [![Twitter](/dA/98c1104ef3/X_footer_default.svg) ![Twitter](/dA/cf54cad02d/X_footer_hover.svg)](https://twitter.com/servers_com "Follow on Twitter")
 
-[![Youtube](/dA/37210fa966/youtube.svg)](https://www.youtube.com/@servers-com "Follow on Youtube")
+ [![Youtube](/dA/48b0bf00c4/Youtube_footer_default.svg) ![Youtube](/dA/4a5b061133/Youtube_footer_hover.svg)](https://www.youtube.com/@servers-com "Follow on Youtube")
 
 * [Legal](https://www.servers.com/company/legal/)
 * [Cookie policy](https://www.servers.com/company/cookie-policy)
