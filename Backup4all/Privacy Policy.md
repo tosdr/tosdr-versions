@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup only to a specific removable/ex ...](https://www.backup4all.com/how-to-backup-only-to-a-specific-removable-external-drive-kb.html)  
+* [How to backup Outlook Express emails](https://www.backup4all.com/how-to-backup-outlook-express-emails-and-settings-kb.html)  
     
-* [How to create a differential backup](https://www.backup4all.com/how-to-create-a-differential-backup-kb.html)  
+* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
     
-* [How to back up data files from IDC Frontier u ...](https://www.backup4all.com/how-to-back-up-data-files-from-idc-frontier-using-backup4all-kb.html)  
+* [Backup4all appears to be open in taskbar but ...](https://www.backup4all.com/backup4all-appears-to-be-open-in-taskbar-but-you-cannot-see-kb.html)  
     
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [Troubleshooting installation errors](https://www.backup4all.com/troubleshooting-installation-errors-kb.html)  
     
-* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
+* [How to get a daily report with all backup exe ...](https://www.backup4all.com/how-to-get-a-daily-report-with-all-backup-executions-kb.html)  
     
 
 Choose language:
