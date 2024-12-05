@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Pushpa 2 First Review](https://www.news18.com/movies/pushpa-2-first-review-out-allu-arjun-delivers-mega-blockbuster-fahadh-faasil-face-off-steals-show-9145503.html)
     * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-    * [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-sobhita-dhulipala-wedding-live-updates-marriage-ceremony-photos-videos-liveblog-9144368.html)
-    * [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
-    * [Bangladesh](https://www.news18.com/world/bangladesh-issues-order-to-all-missions-abroad-to-grant-visas-for-pakistanis-9145362.html)
-    * [Adelaide Test](https://www.news18.com/cricket/indian-cricketer-body-shamed-as-3000-fans-unleash-chaos-during-teams-training-session-in-adelaide-9144663.html)
-    * [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+    * [Allu Arjun](https://www.news18.com/movies/allu-arjuns-pushpa-2-full-hd-movie-leaks-online-hours-after-its-release-9145557.html)
+    * [Pushpa 2 Live](https://www.news18.com/movies/pushpa-2-release-review-live-updates-allu-arjun-fahadh-faasil-rashmika-mandanna-box-office-liveblog-9145525.html)
+    * [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+    * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Pushpa 2 First Review](https://www.news18.com/movies/pushpa-2-first-review-out-allu-arjun-delivers-mega-blockbuster-fahadh-faasil-face-off-steals-show-9145503.html)
 * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-* [Naga Chaitanya](https://www.news18.com/movies/naga-chaitanya-sobhita-dhulipala-wedding-live-updates-marriage-ceremony-photos-videos-liveblog-9144368.html)
-* [Maharashtra CM](https://www.news18.com/india/maharashtra-cm-live-updates-eknath-shinde-devendra-fadnavis-bjp-mahayuti-shiv-sena-ncp-liveblog-liveblog-9142895.html)
-* [Bangladesh](https://www.news18.com/world/bangladesh-issues-order-to-all-missions-abroad-to-grant-visas-for-pakistanis-9145362.html)
-* [Adelaide Test](https://www.news18.com/cricket/indian-cricketer-body-shamed-as-3000-fans-unleash-chaos-during-teams-training-session-in-adelaide-9144663.html)
-* [Janhvi Kapoor](https://www.news18.com/web-stories/celebrities/6-of-janhvi-kapoors-iconic-fashionable-looks-in-2024-2654309/)
+* [Allu Arjun](https://www.news18.com/movies/allu-arjuns-pushpa-2-full-hd-movie-leaks-online-hours-after-its-release-9145557.html)
+* [Pushpa 2 Live](https://www.news18.com/movies/pushpa-2-release-review-live-updates-allu-arjun-fahadh-faasil-rashmika-mandanna-box-office-liveblog-9145525.html)
+* [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+* [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
