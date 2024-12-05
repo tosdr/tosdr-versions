@@ -53,12 +53,12 @@ Header - Shapes Theme
     * [![UNSPEAKABLE NOGGIN HAT](//www.unspeakable.com/cdn/shop/files/BigHat1_2.jpg?v=1731949147&width=700)
         
         UNSPEAKABLE NOGGIN HAT](https://www.unspeakable.com/products/unspeakable-noggin)
+    * [![TATTOO BOOK](//www.unspeakable.com/cdn/shop/files/DSC_0001_1.jpg?v=1733168959&width=700)
+        
+        TATTOO BOOK](https://www.unspeakable.com/products/tattoo-book)
     * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
         
         2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
-    * [![BLACK & BLUE BEANIE](//www.unspeakable.com/cdn/shop/files/Beaniephoto1_1.jpg?v=1732550036&width=700)
-        
-        BLACK & BLUE BEANIE](https://www.unspeakable.com/products/black-bue-beanie)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
