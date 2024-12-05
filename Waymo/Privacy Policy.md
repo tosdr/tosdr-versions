@@ -12,7 +12,6 @@
     * [Phoenix](https://waymo.com/waymo-one-phoenix/)
     * [San Francisco](https://waymo.com/waymo-one-san-francisco/)
     * [Los Angeles](https://waymo.com/waymo-one-los-angeles/)
-    * [Austin](https://waymo.com/waymo-one-austin/)
     
       ![](https://lh3.googleusercontent.com/eRLw6fbknLeKcfkaxB4uS5M0IBZIW9e0-Sp7wY8_H8KqW5MEc0_kkw_O1rGMOwHQ6Y9fpQUh3NfDZf3-pJ23Yc_2_UXJrbbWKioG4g=s0-e365)
     
