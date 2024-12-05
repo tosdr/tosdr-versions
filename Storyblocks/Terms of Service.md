@@ -80,7 +80,7 @@ INDUSTRIES
 * [Broadcasting & Entertainment](https://www.storyblocks.com/resources/business-solutions/broadcast)
 * [Production](https://www.storyblocks.com/resources/business-solutions/production)
 * [PR & Ad Agencies](https://www.storyblocks.com/resources/business-solutions/agencies)
-* [Education & E-Learning](https://internal-storyblocks-api.app.svc.cluster.local/resources/business-solutions/education)
+* [Education & E-Learning](https://www.storyblocks.com/resources/business-solutions/education)
 * [Political, Religious, Special Interest](https://www.storyblocks.com/resources/business-solutions/special-interest)
 * [Technology](https://www.storyblocks.com/resources/business-solutions/technology)
 
