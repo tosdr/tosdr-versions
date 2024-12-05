@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
 
-[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
-[![Who can file a talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-who-can-file-a-talcum-powder-lawsuit.jpg "Who Can File A Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/ "Who Can File A Talcum Powder Lawsuit?")
+[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
 
-[#### Who Can File A Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/who-can-file-a-talcum-powder-lawsuit/)
+[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
 
-[![Emotional abuse risk at memory care centers](https://www.pintas.com/wp-content/uploads/2021/03/elderly-woman-scared-of-nurse-200x300.jpg "Emotional Abuse Risk at Memory Care Centers")](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/ "Emotional Abuse Risk at Memory Care Centers")
+[![What type of ovarian cancer is caused by talc?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyerwhat-type-of-ovarian-cancer-is-caused-by-talc-scaled.jpg "What Type of Ovarian Cancer Is Caused By Talc?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/ "What Type of Ovarian Cancer Is Caused By Talc?")
 
-[#### Emotional Abuse Risk at Memory Care Centers](https://www.pintas.com/faq/are-seniors-at-memory-care-facilities-at-a-higher-risk-of-emotional-abuse/)
+[#### What Type of Ovarian Cancer Is Caused By Talc?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
