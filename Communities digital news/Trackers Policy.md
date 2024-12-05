@@ -26,21 +26,21 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penelope-hegseth-1200x630.jpg)](https://americanwirenews.com/hegseths-mother-offers-truth-in-face-of-despicable-media-attacks-says-embattled-son-a-changed-man/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-olivia-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
 
-[Hegseth’s mother offers ‘truth’ in face of ‘despicable’ media attacks – says embattled son a ‘changed man’](https://americanwirenews.com/hegseths-mother-offers-truth-in-face-of-despicable-media-attacks-says-embattled-son-a-changed-man/)
+[Kash Patel threatens suit, demands retraction from MSNBC for guest smearing him with lies](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fox-friends-1200x630.jpg)](https://americanwirenews.com/fox-friends-blast-hegseth-witch-hunt-colleagues-call-on-losers-at-nbc-to-retract-horsesht-story/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-frum-mika-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
 
-[Fox & Friends blast Hegseth ‘witch hunt,’ colleagues call on ‘losers’ at NBC to retract ‘horsesh\*t’ story](https://americanwirenews.com/fox-friends-blast-hegseth-witch-hunt-colleagues-call-on-losers-at-nbc-to-retract-horsesht-story/)
+[Morning Joe duo apologize for guest’s Hegseth smear on air, accused of fearing Trump](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-thompson-sg-crime-scene-1200x630.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peter-hotez-1200x630.jpg)](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
 
-[UnitedHealthcare CEO fatally gunned down in NYC, police suspect ‘targeted attack’](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[Jab-pushing doc predicts plague of new viruses set to be unleashed as Trump takes office](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joy-reid-1200x630.jpg)](https://americanwirenews.com/joy-reid-takes-issue-with-gangster-trump-pushing-hamas-to-release-us-hostages/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/police-sg-thompson-gunman-1200x630.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
 
-[Joy Reid takes issue with ‘gangster’ Trump pushing Hamas to release US hostages](https://americanwirenews.com/joy-reid-takes-issue-with-gangster-trump-pushing-hamas-to-release-us-hostages/)
+[UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trump-briefing-1200x630.jpeg)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
 
@@ -60,9 +60,9 @@ Search for:
 
 [Biden appears to catch some Z’s during Trans-Africa Summit in Angola](https://americanwirenews.com/biden-appears-to-catch-some-zs-during-trans-africa-summit-in-angola/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-speakermjohnson-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mittgoodbye-1200-x-628-1200x630.jpg)
 
-### Speaker Johnson says no more funding for Ukraine until Trump provides ‘new direction’](https://americanwirenews.com/speaker-johnson-says-no-more-funding-for-ukraine-until-trump-provides-new-direction/)
+### ‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
