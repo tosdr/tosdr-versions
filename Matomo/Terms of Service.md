@@ -248,6 +248,7 @@ Comparisons
 * [vs Amplitude](https://matomo.org/amplitude-vs-matomo/)
 * [vs Adobe Analytics vs Google Analytics](https://matomo.org/adobe-analytics-vs-google-analytics-vs-matomo/)
 * [vs Piwik PRO](https://matomo.org/piwik-pro-vs-matomo/)
+* [vs Firebase](https://matomo.org/firebase-vs-matomo-features-pricing-and-key-differences/)
 * [vs Plausible](https://matomo.org/plausible-vs-matomo/)
 * [vs Fathom](https://matomo.org/fathom-vs-matomo/)
 * [vs Hotjar](https://matomo.org/hotjar-alternative/)
