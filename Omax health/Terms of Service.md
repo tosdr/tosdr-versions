@@ -1,4 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)   
+
+     
 
 Terms & Conditions – Omax Health - Omax Health                                     
 
@@ -301,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3416 reviews](https://omaxhealth.com/pages/reviews)
+[3418 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3094)
+(3096)
 
 5%
 
@@ -325,7 +327,27 @@ Go to product page
 
 (54)
 
-2211
+2213
+
+B
+
+[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
+
+Barbara W.
+
+**Several uses**
+
+We have not only used this product for body/muscle pain treatment, but I have a problem with terribly itchy palms and fingers. I use the cry o freeze extra strength to help that too. Takes about 10 minutes to kick in but it always helps! Always take it with me traveling because I never know when the itching attacks will happen. I always have an extra bottle on hand because I dread running out!
+
+L
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Leonard R.
+
+**Pain Reliever That Actually Works**
+
+I have been using and recommending the CryoFreeze® Hemp CBD Roll-On | Extra Strength daily for a couple of years now. I have found it works great on my mild to moderate aches and pains in my shoulders, wrist and knees (3 - 5 on scale of 10).
 
 M
 
@@ -336,25 +358,5 @@ Michael G.
 **Great for soft tissue and joint pain**
 
 Being very active by exercising, landscaping, car racing and maintaining a house and shop and plus personal/civic activities. At 79 I can get muscle soreness and joint pain. So I have been using CBD 500mg for about three years. I have several friends that are now using the product.
-
-B
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-BrendaC
-
-**Love the CryoFreeze roll-on**
-
-I love the CryoFreeze roll-on. It helps so much with my neck pain. Wish y’all would make it in a small purse-size, and make it refillable.
-
-S
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-regular#judgeme_product_reviews)
-
-Splitshaft
-
-**Most Effective Product I have Found**
-
-I have used the regular strength CryoFreeze now for several years. No external pain relief product I have tried has worked as well or been as effective as regular strength CryoFreeze. And I will use it for the rest of my life as long as offered by Omax. As a ten year neck, back, and shoulder pain patient, following multiple nerve root ablations, beyond pain pills, CryoFreeze is the absolute best product for added external pain relief. The best pain relief and comfort comes after two or three applications as needed. Nothing works better for me and allows me to sleep more comfortably at night.
 
 Load More
