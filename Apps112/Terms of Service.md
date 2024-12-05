@@ -124,19 +124,19 @@ last week
 Trending Apps
 =============
 
-[SonicPlayer SDK](https://sonicplayer-sdk.apps112.com/ "Continue to app")
+[Namal 26 Part Novel](https://namal-26-part-novel.apps112.com/ "Continue to app")
 
-[Original Birth Catalogue](https://original-birth-catalogue.apps112.com/ "Continue to app")
+[MX Mariner - Marine Charts](https://mx-mariner-marine-charts.apps112.com/ "Continue to app")
 
-[DogTok - Dog Translator Pro](https://dogtok-dog-translator-pro.apps112.com/ "Continue to app")
+[HTML Website Inspector Editor](https://html-css-website-inspector.apps112.com/ "Continue to app")
 
-[Foresight App](https://foresight-app.apps112.com/ "Continue to app")
+[GSS GO!](https://gss-go.apps112.com/ "Continue to app")
 
-[Screenshot Crop For Linux](https://screenshot-crop-for-linux.apps112.com/ "Continue to app")
+[Didlr](https://didlr.apps112.com/ "Continue to app")
 
-[Relic Bag: Shadow Hunter](https://relic-bag-shadow-hunter.apps112.com/ "Continue to app")
+[Spider Rope Hero - Gangster Crime City](https://spider-rope-hero-gangster-crime-city.apps112.com/ "Continue to app")
 
-[Sprunki Phase 5: Sprunk Box](https://sprunki-phase-5-sprunk-box.apps112.com/ "Continue to app")
+[myBOBBLE](https://mybobble-ios.apps112.com/ "Continue to app")
 
   
 
