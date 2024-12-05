@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/tgbjp1yw/blogbanner_acquisitions.png?rmode=max&width=230&height=295&v=1db46a810f2f6d0)
+    
+    Posted 5th December 2024
+    
+    The Access Group launches APAC Hospitality Division with the acquisition of STAAH
+    
+    [Read article on The Access Group launches APAC Hospitality Division with the acquisition of STAAH](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-launches-apac-hospitality-division-with-the-acquisition-of-staah/)
+    
     ![](/media/xvbfjgrv/screenshot-2024-11-27-174323.png?rmode=max&width=230&height=295&v=1db417c6b112f00)
     
     Posted 28th November 2024
@@ -143,30 +151,6 @@ Country UK AU & NZ SG MY US IE
     The Access Group has reached an agreement to acquire candidate onboarding solution, Onboarded
     
     [Read article on The Access Group has reached an agreement to acquire candidate onboarding solution, Onboarded](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-reached-an-agreement-to-acquire-candidate-onboarding-solution-onboarded/)
-    
-    ![](/media/11gaw1gh/group_.jpg?rmode=max&width=230&height=295&v=1dad2ab5a440a20)
-    
-    Posted 10th July 2024
-    
-    The Access Group champions global causes, raising £1.3million
-    
-    [Read article on The Access Group champions global causes, raising £1.3million](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-champions-global-causes-raising-13million/)
-    
-    ![](/media/bdqhzrcx/picture1_loughborough-university-students-design-sustainable-and-creative-office-wear.png?rmode=max&width=230&height=295&v=1dac7c54e5d40f0)
-    
-    Posted 26th June 2024
-    
-    Loughborough University students design sustainable and creative office wear as part of competition
-    
-    [Read article on Loughborough University students design sustainable and creative office wear as part of competition](https://www.theaccessgroup.com/en-gb/about/news/loughborough-university-students-design-sustainable-and-creative-office-wear-as-part-of-competition/)
-    
-    ![](/media/l4gf0ixu/couple-collaborating-evo-hi-res.jpg?rmode=max&width=230&height=295&v=1dabca5acbcc8d0)
-    
-    Posted 12th June 2024
-    
-    Access unveils Access Evo - New AI-Enhanced Software to support HR professionals
-    
-    [Read article on Access unveils Access Evo - New AI-Enhanced Software to support HR professionals](https://www.theaccessgroup.com/en-gb/about/news/access-unveils-access-evo-new-ai-enhanced-software-to-support-hr-professionals/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
