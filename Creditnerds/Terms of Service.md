@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic cartoony illustration of a person wearing glasses negotiating credit card debt settlement over the phone. They are seated at a desk with a calm and confident expression, holding a phone in one hand and a notebook in the other. The background depicts a simple home office setup with a plant, stack of papers, and a laptop, creating an approachable and empowering atmosphere.](https://creditnerds.com/wp-content/uploads/2024/12/How-to-Negotiate-Credit-Card-Debt-Settlement-Yourself-30x30.webp)](https://creditnerds.com/how-to-negotiate-credit-card-debt-settlement-yourself/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+December 4, 2024
+
+#### [How to Negotiate Credit Card Debt Settlement Yourself](https://creditnerds.com/how-to-negotiate-credit-card-debt-settlement-yourself/)
+
+If you're overwhelmed by credit card debt, settling your debt might be a way to regain financial stability. The good news is, you don’t need a debt settlement company to do it for you. How to negotiate credit card debt settlement yourself? With the right preparation and approach, you can work directly with creditors to …
+
+[Read More](https://creditnerds.com/how-to-negotiate-credit-card-debt-settlement-yourself/)
+
 [![A semi-realistic, 2D cartoon-style image of a concerned character with glasses looking at a laptop screen showing a declining credit score graph. The character has a puzzled expression, surrounded by icons like a credit card, dollar signs, and a warning symbol, representing possible reasons for a credit score drop. The background includes subtle financial elements such as documents and question marks, using flat colors and minimal shading to maintain a clean, approachable design.](https://creditnerds.com/wp-content/uploads/2024/12/Why-Did-My-Credit-Score-Drop-30x30.webp)](https://creditnerds.com/why-did-my-credit-score-drop/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ November 11, 2024
 Identity theft can happen to anyone, and your Social Security number (SSN) is a prime target for scammers. When your SSN is stolen, acting quickly can protect your financial health. Start by reporting the theft and take steps to prevent further damage. Here’s a comprehensive guide to recovering from identity theft and keeping your information …
 
 [Read More](https://creditnerds.com/what-to-do-if-your-social-security-number-is-stolen/)
-
-[![A semi-realistic, 2D cartoon-style image of a professional character with glasses holding a document labeled 'Second Mortgage' with a thoughtful expression. The character stands in front of a house illustration, surrounded by financial icons like dollar signs, a house key, and mortgage documents, symbolizing the concept of a second mortgage. The image uses flat colors and minimal shading, creating a professional yet approachable look that explains second mortgages effectively.](https://creditnerds.com/wp-content/uploads/2024/11/Second-Mortgage-30x30.webp)](https://creditnerds.com/what-is-a-second-mortgage/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-November 5, 2024
-
-#### [What Is a Second Mortgage?](https://creditnerds.com/what-is-a-second-mortgage/)
-
-A second mortgage is a loan or line of credit that lets you access your home’s equity to achieve various financial goals. Home equity represents the portion of your home’s value that you fully own. While second mortgages can be powerful financial tools, they come with certain risks, including the potential for foreclosure if you …
-
-[Read More](https://creditnerds.com/what-is-a-second-mortgage/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
