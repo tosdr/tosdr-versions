@@ -39,9 +39,9 @@
 
 🕹️ [Pre-Order the NEW Atari 7800+ Today!](https://atari.com/products/atari-7800?utm_source=mobygames&utm_medium=referral&utm_campaign=launch)
 
-[![Tetris Forever](https://www.mobygames.com/static/img/cm_1180x90.86706969.jpg)](https://atari.com/collections/early-access-sale?utm_campaign=mobygames&utm_medium=referral&utm_source=mobygames)
+[![Tetris Forever](https://www.mobygames.com/static/img/tf_1180x90.909323bd.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
-[![Tetris Forever](https://www.mobygames.com/static/img/cm_300x90.83561a42.jpg)](https://atari.com/collections/early-access-sale?utm_campaign=mobygames&utm_medium=referral&utm_source=mobygames)
+[![Tetris Forever](https://www.mobygames.com/static/img/tf_300x90.1434f33d.png)](https://www.digitaleclipse.com/games/tetrisforever)
 
 MobyGames - FAQ
 ===============
@@ -90,4 +90,4 @@ The [standards page](https://www.mobygames.com/info/standards) is the first thin
 
 © 1999–2024 MobyGames ™
 
-v20241202
+v20241205
