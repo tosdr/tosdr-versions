@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 5, 2024 | MBFC’s Daily Vetted Fact Checks for 12/05/2024](https://mediabiasfactcheck.com/2024/12/05/mbfcs-daily-vetted-fact-checks-for-12-05-2024/ "MBFC’s Daily Vetted Fact Checks for 12/05/2024")
 * [December 4, 2024 | Media News Daily: Top Stories for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/media-news-daily-top-stories-for-12-04-2024/ "Media News Daily: Top Stories for 12/04/2024")
 * [December 4, 2024 | MBFC’s Daily Vetted Fact Checks for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/mbfcs-daily-vetted-fact-checks-for-12-04-2024/ "MBFC’s Daily Vetted Fact Checks for 12/04/2024")
 * [December 3, 2024 | Media News Daily: Top Stories for 12/03/2024](https://mediabiasfactcheck.com/2024/12/03/media-news-daily-top-stories-for-12-03-2024/ "Media News Daily: Top Stories for 12/03/2024")
 * [December 3, 2024 | MBFC’s Daily Vetted Fact Checks for 12/03/2024](https://mediabiasfactcheck.com/2024/12/03/mbfcs-daily-vetted-fact-checks-for-12-03-2024/ "MBFC’s Daily Vetted Fact Checks for 12/03/2024")
-* [December 2, 2024 | Leveraging MBFC’s Unique Database for In-Depth International Reporting](https://mediabiasfactcheck.com/2024/12/02/leveraging-mbfcs-unique-database-for-in-depth-international-reporting/ "Leveraging MBFC’s Unique Database for In-Depth International Reporting")
 
 Search for:  
 
@@ -208,13 +208,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [MBFC's Daily Vetted Fact Checks for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/mbfcs-daily-vetted-fact-checks-for-12-04-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Reuters - Bias and Credibility](https://mediabiasfactcheck.com/reuters/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [MBFC's Daily Vetted Fact Checks for 12/04/2024](https://mediabiasfactcheck.com/2024/12/04/mbfcs-daily-vetted-fact-checks-for-12-04-2024/)
+* [Reuters - Bias and Credibility](https://mediabiasfactcheck.com/reuters/)
 
 #### Subscribe via Email
 
