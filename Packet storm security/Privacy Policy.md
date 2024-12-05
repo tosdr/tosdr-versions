@@ -1,171 +1,234 @@
-[![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
+[![](/logos/smalllogobeta.png)](https://packetstormsecurity.com/)  
 
-exploit the possibilities
+* files
+* news
+* users
+* cve
 
-[Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
-
-FilesNewsUsersAuthors
-
-[Home](https://packetstormsecurity.com/) [Files](https://packetstormsecurity.com/files/) [News](https://packetstormsecurity.com/news/) &\[SERVICES\_TAB\][About](https://packetstormsecurity.com/about/) [Contact](https://packetstormsecurity.com/contact/) [Add New](https://packetstormsecurity.com/submit/)
-
-Privacy Statement
-=================
-
-Your Privacy is Important
--------------------------
-
-Packet Storm strongly believes in the privacy of every individual who visits our site. We do not sell personally identifiable, privately held information from visitors to any third parties. Packet Storm does make use of third-party analytics but has configured its use to anonymize your IP address in order to stay in compliance with various privacy laws such as GDPR.
-
-Packet Storm supports full disclosure on all items we add to the site. With our position in the computer security community, we are obligated to release pertinent information in a timely fashion to raise awareness. None of the files we release are edited for content and are copyright their original authors, except where expressed otherwise. We do reserve the right to modify or remove any and all content contributed to the site as we see fit, however in practice this happens rarely.
+[![](/logos/smalllogobeta.png)](https://packetstormsecurity.com/)
 
   
+
+* files
+* news
+* users
+* cve
+
+[![](/logos/linegray.png)](javascript:toggleMenu(this);)
+
   
 
-*  [![Follow on Twitter](https://packetstatic.com/img1514015884/s_twitter.png) Follow us on Twitter](https://twitter.com/packet_storm)
-*  [![Follow on Facebook](https://packetstatic.com/img1514015884/s_facebook.png) Follow us on Facebook](https://www.facebook.com/packetstormfeed)
-*  [![View RSS Feeds](https://packetstatic.com/img1514015884/s_rss.png) Subscribe to an RSS Feed](https://packetstormsecurity.com/feeds)
-
-Top Authors In Last 30 Days
----------------------------
-
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 305 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 67 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 6 files
-* [Apple](https://packetstormsecurity.com/files/authors/2397) 5 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 5 files
-* [Spencer McIntyre](https://packetstormsecurity.com/files/authors/8679) 3 files
-* [Ivan Fratric](https://packetstormsecurity.com/files/authors/5684) 3 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 2 files
-
-Recent News
------------
-
-[![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
-
-[Corrupted Microsoft Office Documents Used In Phishing Campaign](https://packetstormsecurity.com/news/view/36662/Corrupted-Microsoft-Office-Documents-Used-In-Phishing-Campaign.html)
-
-Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:28 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [password](https://packetstormsecurity.com/news/tags/password), [phish](https://packetstormsecurity.com/news/tags/phish)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36662/) | [View](https://www.scworld.com/news/corrupted-word-documents-used-in-phishing-campaign)
-
-[Meta Says It Has Taken Down 20 Covert Influence Ops In 2024](https://packetstormsecurity.com/news/view/36661/Meta-Says-It-Has-Taken-Down-20-Covert-Influence-Ops-In-2024.html)
-
-Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [russia](https://packetstormsecurity.com/news/tags/russia), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [facebook](https://packetstormsecurity.com/news/tags/facebook)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36661/) | [View](https://www.theguardian.com/technology/2024/dec/03/meta-says-it-has-taken-down-about-20-covert-influence-operations-in-2024)
-
-[Russia Gives Life Sentence To Hydra Dark Web Kingpin After Seizing A Ton Of Drugs](https://packetstormsecurity.com/news/view/36660/Russia-Gives-Life-Sentence-To-Hydra-Dark-Web-Kingpin-After-Seizing-A-Ton-Of-Drugs.html)
-
-Posted [Dec 3, 2024](https://packetstormsecurity.com/news/date/2024-12-03/ "15:07:24 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [russia](https://packetstormsecurity.com/news/tags/russia), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36660/) | [View](https://www.theregister.com/2024/12/03/russia_hydra_sentencing/)
-
-[Zabbix Urges Upgrades After Critical SQL Injection Bug Disclosure](https://packetstormsecurity.com/news/view/36655/Zabbix-Urges-Upgrades-After-Critical-SQL-Injection-Bug-Disclosure.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:47:02 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36655/) | [View](https://www.theregister.com/2024/11/29/zabbix_urges_upgrades_after_critical/)
-
-[Code Found Online Exploits LogoFAIL To Install Bootkitty Linux Backdoor](https://packetstormsecurity.com/news/view/36654/Code-Found-Online-Exploits-LogoFAIL-To-Install-Bootkitty-Linux-Backdoor.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:57 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [linux](https://packetstormsecurity.com/news/tags/linux), [flaw](https://packetstormsecurity.com/news/tags/flaw), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36654/) | [View](https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/)
-
-[Telco Security Is A Dumpster Fire And Everyone's Getting Burned](https://packetstormsecurity.com/news/view/36653/Telco-Security-Is-A-Dumpster-Fire-And-Everyones-Getting-Burned.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:47 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [phone](https://packetstormsecurity.com/news/tags/phone), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36653/) | [View](https://www.theregister.com/2024/12/02/telco_security_opinion/)
-
-[Starbucks, Grocery Stores Hit By Blue Yonder Ransomware Attack](https://packetstormsecurity.com/news/view/36652/Starbucks-Grocery-Stores-Hit-By-Blue-Yonder-Ransomware-Attack.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:34 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36652/) | [View](https://www.securityweek.com/starbucks-grocery-stores-hit-by-blue-yonder-ransomware-attack/)
-
-[Chinese Lidar Sensors Pose Hacking Risk To US Defense Equipment](https://packetstormsecurity.com/news/view/36651/Chinese-Lidar-Sensors-Pose-Hacking-Risk-To-US-Defense-Equipment.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:14 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor), [military](https://packetstormsecurity.com/news/tags/military)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36651/) | [View](https://www.reuters.com/world/china/chinese-lidar-sensors-pose-hacking-risk-us-defense-equipment-report-says-2024-12-02/)
-
-[Russian Hacker With $10 Million Bounty On His Head Reportedly Arrested](https://packetstormsecurity.com/news/view/36650/Russian-Hacker-With-10-Million-Bounty-On-His-Head-Reportedly-Arrested.html)
-
-Posted [Dec 2, 2024](https://packetstormsecurity.com/news/date/2024-12-02/ "17:46:01 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [russia](https://packetstormsecurity.com/news/tags/russia)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36650/) | [View](https://www.securityweek.com/russian-hacker-with-10-million-bounty-on-his-head-reportedly-arrested/)
-
-[US Senators Propose Law To Require Bare Minimum Security Standards](https://packetstormsecurity.com/news/view/36649/US-Senators-Propose-Law-To-Require-Bare-Minimum-Security-Standards.html)
-
-Posted [Nov 27, 2024](https://packetstormsecurity.com/news/date/2024-11-27/ "15:38:15 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [password](https://packetstormsecurity.com/news/tags/password)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36649/) | [View](https://www.theregister.com/2024/11/26/us_senators_healthcare_cybersecurity/)
-
-[View More News →](https://packetstormsecurity.com/news/)
-
-[![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
-
-© 2024 Packet Storm. All rights reserved.
-
-Site Links
-
-[News by Month](https://packetstormsecurity.com/news/date/)
-
-[News Tags](https://packetstormsecurity.com/news/tags/)
-
-[Files by Month](https://packetstormsecurity.com/files/date/)
-
-[File Tags](https://packetstormsecurity.com/files/tags/)
-
-[File Directory](https://packetstormsecurity.com/files/directory/)
-
-About Us
-
-[History & Purpose](https://packetstormsecurity.com/about/)
-
-[Contact Information](https://packetstormsecurity.com/contact/)
-
-[Terms of Service](https://packetstormsecurity.com/legal/tos.html)
-
-[Privacy Statement](https://packetstormsecurity.com/legal/privacy.html)
-
-[Copyright Information](https://packetstormsecurity.com/legal/copyright.html)
-
-Services
-
-[Security Services](https://packetstormsecurity.com/services/)
-
-Hosting By
-
-[Rokasec](http://www.rokasecurity.com/)
-
-*  [![Follow on Twitter](https://packetstatic.com/img1514015884/s_twitter.png) Follow us on Twitter](https://twitter.com/packet_storm)
-*  [![Follow on Facebook](https://packetstatic.com/img1514015884/s_facebook.png) Follow us on Facebook](https://www.facebook.com/packetstormfeed)
-*  [![View RSS Feeds](https://packetstatic.com/img1514015884/s_rss.png) Subscribe to an RSS Feed](https://packetstormsecurity.com/feeds)
-
-![close](https://packetstatic.com/img1514015884/o_close.png)
-
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2465558171&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2465558171.1733346583.1733346583.1733346583.1%3B%2B__utmz%3D32867617.1733346583.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+Command and Control
+
+|     |     |     |
+| --- | --- | --- |
+| System<br><br> [![](/icons/icon-submissions.png) About](https://packetstormsecurity.com/help/view/4)  <br>  <br> [![](/icons/icon-files.png) Files](https://packetstormsecurity.com/files/latest/1)  <br>  <br> [![](/icons/icon-news.png) News](https://packetstormsecurity.com/news/main/page/1)  <br>  <br> [![](/icons/icon-vote.png) Vote](https://packetstormsecurity.com/polls/page/1)  <br>  <br> [![](/icons/icon-help.png) Help](https://packetstormsecurity.com/help/) | Services<br><br> [![](/icons/icon-api.png) API](https://packetstormsecurity.com/help/view/1)  <br>  <br> [![](/icons/icon-advertise.png) Advertise](https://packetstormsecurity.com/help/view/24)  <br>  <br> [![](/icons/icon-contact.png) Contact](https://packetstormsecurity.com/help/view/11) | Account<br><br> [![](/icons/icon-signup.png) Join](https://packetstormsecurity.com/account/signup/)  <br>  <br> [![](/icons/icon-login.png) Login](https://packetstormsecurity.com/account/login/) |
+
+  
+
+  
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **System** |     |     |     |
+| [![](/icons/icon-submissions.png)  <br>About](https://packetstormsecurity.com/help/view/4/) | [![](/icons/icon-files.png)  <br>Files](https://packetstormsecurity.com/files/latest/1) | [![](/icons/icon-news.png)  <br>News](https://packetstormsecurity.com/news/main/page/1) | [![](/icons/icon-vote.png)  <br>Vote](https://packetstormsecurity.com/polls/page/1) |
+| [![](/icons/icon-help.png)  <br>Help](https://packetstormsecurity.com/help/) |
+| **Services** |     |     |     |
+| [![](/icons/icon-api.png)  <br>API](https://packetstormsecurity.com/help/view/1) | [![](/icons/icon-advertise.png)  <br>Advertise](https://packetstormsecurity.com/help/view/24) | [![](/icons/icon-contact.png)  <br>Contact](https://packetstormsecurity.com/help/view/11) |
+| **Account** |     |     |     |
+| [![](/icons/icon-signup.png)  <br>Join](https://packetstormsecurity.com/account/signup) | [![](/icons/icon-login.png)  <br>Login](https://packetstormsecurity.com/account/login) |
+
+  
+
+Terms of Service  
+From [Frequently Asked Questions](https://packetstormsecurity.com/help/)
+
+> **Last updated December 01, 2024**  
+> (Scroll to the bottom to agree)
+> 
+>   
+> 
+> Table of Contents
+> 
+> [Agreement to Terms](#agreement)  
+> [Intellectual Property Rights](#intellectual)  
+> [User Representations](#representations)  
+> [User Registration](#registration)  
+> [Prohibited Activities](#prohibited)  
+> [User Generated Contributions](#contributions)  
+> [Contribution License](#license)  
+> [Submissions](#submissions)  
+> [Advertisers](#advertisers)  
+> [Premium Services](#premium)  
+> [API Access](#api)  
+> [Advertising Services](#advertising)  
+> [Site Management](#management)  
+> [Privacy Policy](#privacy)  
+> [Term and Termination](#termination)  
+> [Modifications and Interruptions](#modifications)  
+> [Governing Law](#governing)  
+> [Dispute Resolution](#dispute)  
+> [Corrections](#corrections)  
+> [Disclaimer](#disclaimer)  
+> [Limitations of Liability](#limitations)  
+> [Indemnification](#indemnification)  
+> [Electronic Communications, Transactions, and Signatures](#electronic)  
+> [California Users and Residents](#california)  
+> [Miscellaneous](#miscellaneous)  
+> [Contact Us](#contact)  
+> 
+> AGREEMENT TO TERMS
+> 
+> These Terms of Service ("Terms") constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Packet Storm Security, LLC ("Packet Storm Security", “we”, “us”, or “our”), concerning your access to and use of the website located at [packetstorm.news](https://packetstorm.news/) and [packetstormsecurity.com](https://packetstormsecurity.com/) (collectively, the “Site”). By accessing the Site, you agree to be bound by these Terms. If you do not agree with these Terms, you are expressly prohibited from using the Site and must discontinue use immediately.
+> 
+> Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated by reference. We reserve the right to make changes or modifications to these Terms at any time and for any reason, effective upon posting the revised Terms on the Site. It is your responsibility to periodically review these Terms to stay informed of updates.
+> 
+> The Site is intended for users who are at least 18 years old. Persons under the age of 18 are not permitted to use or register for the Site.
+> 
+> INTELLECTUAL PROPERTY RIGHTS
+> 
+> Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions. The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. User files distributed by the site are not owned by us.
+> 
+> USER REPRESENTATIONS
+> 
+> By using the Site, you represent and warrant that:
+> 
+>     * All registration information you submit will be true, accurate, current, and complete;
+>     * You will maintain the accuracy of such information and promptly update such registration information as necessary;
+>     * You have the legal capacity and agree to comply with these Terms;
+>     * You are not a minor in the jurisdiction in which you reside;
+>     * You will not access the Site through automated or non-human means, whether through a bot, script, or otherwise;
+>     * You will not use the Site for any illegal or unauthorized purpose; and
+>     * Your use of the Site will not violate any applicable law or regulation.
+> 
+> USER REGISTRATION
+> 
+> You may be required to register with the Site. Creating an account is free; however, if misused, Packet Storm Security retains full decision-making power on whether to disable an account and what constitutes misuse. You agree to keep your password confidential and will be responsible for all use of your account and password.
+> 
+> PROHIBITED ACTIVITIES
+> 
+> You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
+> 
+> As a user of the Site, you agree not to:
+> 
+> * Act maliciously against the Site or its users.
+>     * Use any data retrieved from the Site in a malicious manner.
+>     * Violate any of the prohibitions outlined in this section.
+> 
+> USER GENERATED CONTRIBUTIONS
+> 
+> The Site may invite you to chat, contribute to, or participate in blogs, message boards, online forums, and other functionality, and may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site. Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary.
+> 
+> CONTRIBUTION LICENSE
+> 
+> By posting your Contributions to any part of the Site, you automatically grant us an unrestricted, unlimited, irrevocable, perpetual, non-exclusive, transferable, royalty-free, fully-paid, worldwide right and license to host, use, copy, reproduce, disclose, sell, resell, publish, broadcast, retitle, archive, store, cache, publicly perform, publicly display, reformat, translate, transmit, excerpt (in whole or in part), and distribute such Contributions for any purpose, commercial, advertising, or otherwise. This license will apply to any form, media, or technology now known or hereafter developed. However, we do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions.
+> 
+> SUBMISSIONS
+> 
+> You acknowledge and agree that any data, content, or materials you submit to the Site are treated as non-confidential and non-proprietary. By submitting any content, you grant us a non-exclusive, royalty-free, perpetual, irrevocable, worldwide license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, perform, and display such content in any media or platform, now known or later developed, for any lawful purpose.
+> 
+> You agree that we may use and disseminate submissions without acknowledgment or compensation to you. You hereby waive all moral rights in any such submissions, including the right to be identified as the author and the right to object to derogatory treatments of the submission.
+> 
+> You represent and warrant that your submissions do not violate any third-party rights, including intellectual property rights, privacy rights, or any other proprietary rights, and that your submissions do not violate any applicable law. You agree to indemnify and hold us harmless for any claims arising from your submissions.
+> 
+> ADVERTISERS
+> 
+> We allow advertisers to display their advertisements and other information in certain areas of the Site. If you are an advertiser, you shall take full responsibility for any advertisements you place on the Site and any services provided on the Site or products sold through those advertisements.
+> 
+> PREMIUM SERVICES
+> 
+> We offer premium services such as API access and advertising services. By purchasing or subscribing to these services, you agree to the following terms:
+> 
+> * **Payment Terms:** You agree to pay all fees associated with the premium services you purchase.  Payment methods and billing cycles will be specified at the time of purchase.
+>     * **Service Availability:** Premium services are provided "as is" without any guarantees of availability or uptime, unless otherwise stated in a separate Service Level Agreement (SLA).
+>     * **Refund Policy:** All sales are final. No refunds will be provided except in cases where required by law.
+>     * **Termination of Services:** We reserve the right to terminate or suspend premium services at our discretion, particularly in cases of misuse or non-compliance with these Terms.
+> 
+> API ACCESS
+> 
+> Access to our API is provided under the following conditions:
+> 
+> * **License and Use:** You are granted a limited, non-exclusive license to use the API for your internal business purposes. You may not resell or distribute API access to any third party without our express written permission.
+>     * **Rate Limits:** API access may be subject to rate limits or usage restrictions. Exceeding these limits may result in suspension or termination of your access.
+>     * **Termination of Access:** We reserve the right to revoke API access at any time, especially in cases of misuse or violation of these Terms.
+>     * **Data Use:** Data retrieved via the API must be used in compliance with all applicable laws and these Terms. Misuse of data may result in legal action and termination of API access.
+> 
+> ADVERTISING SERVICES
+> 
+> Advertising services are provided under the following terms:
+> 
+> * **Ad Placement and Approval:** We reserve the right to approve or reject any advertisement for any reason. Ad placement on the Site is at our sole discretion.
+>     * **Advertiser Responsibilities:** Advertisers are responsible for ensuring that their ads comply with all applicable laws and do not infringe on the rights of any third party.
+>     * **Payment and Fees:** Advertising fees will be specified at the time of purchase. All payments are due in advance unless otherwise agreed.
+>     * **Termination of Advertising:** We may terminate or suspend advertising services at any time, particularly in cases of non-compliance with these Terms or our advertising policies.
+> 
+> SITE MANAGEMENT
+> 
+> We reserve the right, but not the obligation, to:
+> 
+> * Monitor the Site for violations of these Terms;
+>     * Take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms;
+>     * Refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof;
+>     * Remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and
+>     * Otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.
+> 
+> PRIVACY POLICY
+> 
+> We care about data privacy and security. By using the Site, you agree to be bound by our Privacy Policy, which is incorporated into these Terms.
+> 
+> TERM AND TERMINATION
+> 
+> These Terms shall remain in full force and effect while you use the Site. We reserve the right to terminate your use or participation in the Site without notice and at our sole discretion.
+> 
+> MODIFICATIONS AND INTERRUPTIONS
+> 
+> We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. Packet Storm Security does not guarantee 100% uptime, and the Site may be taken offline for modifications and updates at our discretion.
+> 
+> GOVERNING LAW
+> 
+> These Terms and your use of the Site are governed by and construed in accordance with the laws of the State of California.
+> 
+> DISPUTE RESOLUTION
+> 
+> If the Parties are unable to resolve a Dispute through informal negotiations, the Dispute will be exclusively resolved by binding arbitration.
+> 
+> CORRECTIONS
+> 
+> There may be information on the Site that contains typographical errors, inaccuracies, or omissions. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time.
+> 
+> DISCLAIMER
+> 
+> The Site is provided on an as-is and as-available basis. You agree that your use of the Site and our services will be at your sole risk. We disclaim all warranties, express or implied, in connection with the Site and your use thereof.
+> 
+> LIMITATIONS OF LIABILITY
+> 
+> In no event will we be liable to you or any third party for any direct, indirect, consequential, exemplary, incidental, special, or punitive damages arising from your use of the Site.
+> 
+> INDEMNIFICATION
+> 
+> You agree to defend, indemnify, and hold us harmless from and against any loss, damage, liability, claim, or demand made by any third party due to or arising out of your Contributions, use of the Site, or breach of these Terms. This includes any misuse of data retrieved from the Site.
+> 
+> ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES
+> 
+> Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications and agree to the use of electronic signatures.
+> 
+> CALIFORNIA USERS AND RESIDENTS
+> 
+> If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs.
+> 
+> MISCELLANEOUS
+> 
+> These Terms and any policies or operating rules posted by us on the Site constitute the entire agreement and understanding between you and us.
+> 
+> CONTACT US
+> 
+> If you have any questions or comments regarding the Site or these Terms, please contact us at:
+> 
+> [staff@packetstormsecurity.com](mailto:staff@packetstormsecurity.com)
+
+   
+
+ [About](https://packetstormsecurity.com/help/view/4) | [Terms](https://packetstormsecurity.com/tos/) | [Copyright](https://packetstormsecurity.com/help/view/7) | [Privacy](https://packetstormsecurity.com/help/view/6) | [BlueSky](https://bsky.app/profile/packetstorm.bsky.social) | [X](https://x.com/packet_storm) | [Mastodon](https://infosec.exchange/@packet_storm/)  
+ © 2024  
+All Rights Reserved [Packet Storm Security, LLC](https://packetstorm.news/)  
+| Hosting provided by: [RokaSecurity](https://www.rokasecurity.com/)
