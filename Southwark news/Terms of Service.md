@@ -211,35 +211,35 @@ Terms of Use
 
 [30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
 
-[![L: Tooley St HQ of Southwark Council; R: Cllr Kieron Williams](https://southwarknews.co.uk/wp-content/uploads/2024/11/L-Tooley-St-HQ-of-Southwark-Council-R-Cllr-Kieron-Williams-120x86.png)](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
-### [Southwark Council’s leader has apologised after the government’s social housing watchdog found ‘serious failings’](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
-[27th November 2024](https://southwarknews.co.uk/area/southwark/southwark-councils-leader-has-apologised-after-the-governments-social-housing-watchdog-found-serious-failings/)
-
 [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
 ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
 [3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
-[![Joe Edwards left the Lions with the club sitting one point above the drop zone. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/edwards-training-2048x1352-1-120x86.png)](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
+[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-### [Ex-Millwall boss joins Frank Lampard’s backroom staff at Coventry City](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
+### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-[28th November 2024](https://southwarknews.co.uk/sport/football/millwall/ex-millwall-boss-lands-role-at-frank-lampards-coventry-city/)
-
-[![The Flaxyard site, Peckham Town Centre.](https://southwarknews.co.uk/wp-content/uploads/2024/11/SJH_3494-Pano-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-
-### [Council celebrates completion of 120 affordable homes in Peckham Town Centre](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
-
-[28th November 2024](https://southwarknews.co.uk/area/peckham/council-celebrates-completion-of-120-affordable-homes-in-peckham-town-centre/)
+[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
 [![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 ### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
+
+[![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[![Hutchinson limps off the field against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/S-Hutchinson-2828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+
+### [Millwall duo set for scan after limping off against Oxford United](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+
+[30th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
 
 ### Featured Articles
 
