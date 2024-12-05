@@ -2,9 +2,9 @@
 
 ### Neu?
 
-![Bergfreund Hannes](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-hannes.png)
+![Bergfreund Max](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-max.png)
 
-Bergfreund Hannes
+Bergfreund Max
 
 "Herzlich willkommen bei den Bergfreunden!"
 
@@ -584,7 +584,7 @@ Menü
     * [Rennrad Outlet](https://www.bergfreunde.de/outlet/einsatzbereich--rennrad/ "Rennrad Outlet anzeigen")
     
 
-  
+ 
 
 schließen
 
@@ -837,9 +837,9 @@ Weiterführende Informationen:
 
 Stand März 2024
 
-![Bergfreund Johannes - Einkäufer](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johannes.png) Bergfreund Johannes - Einkäufer
+![Bergfreundin Johanna - Nachhaltigkeitsmanagement](https://www.bergfreunde.de/out/pictures/img/avatar/avatar-johanna.png) Bergfreundin Johanna - Nachhaltigkeitsmanagement
 
-"Ich finde die besten & neuesten Outdoor-Produkte für Dich!"
+"Ich suche nach kleinen und großen Ideen, wie die Bergfreunde nachhaltiger werden können."
 
 [Portofrei ab € 69 (DE)](https://www.bergfreunde.de/versandkosten/ "Finde mehr Info zu den Versandkosten hier!")
 
@@ -847,11 +847,11 @@ Stand März 2024
 
 [100 Tage Rückgaberecht](https://www.bergfreunde.de/rueckgabe/ "Gehe hier zu den Rückgabe-Richtlinien")
 
-[![So bewerten uns 42916 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+[![So bewerten uns 42808 Kunden](https://www.bergfreunde.de/out/pictures/img/trust/trusted-shops-logo-big.png)](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 [( 0 )
 
-So bewerten uns 42.916 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
+So bewerten uns 42.808 Kunden](https://www.trustedshops.com/shop/certificate.php?shop_id=X8E9EAFD7E40A46630552D4A3F123CA67 "Wir sind Trusted Shops zertifiziert - finde alle Infos hier!")
 
 holt 3x am Tag die Pakete bei uns ab
 
