@@ -1,4 +1,4 @@
-                                [Skip to content](#MainContent)
+                 [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/products/journey-gift-card)
 
@@ -641,9 +641,3 @@ Richmond, VA 23230 USA
 Copyright © 2024 Journey Health & Lifestyle, all rights reserved.
 
 * Choosing a selection results in a full page refresh.
-
-[Account](https://www.perfectsleepchair.com/account)
-
-[Search](https://www.perfectsleepchair.com/search)
-
-[0 Cart](https://www.perfectsleepchair.com/cart)
