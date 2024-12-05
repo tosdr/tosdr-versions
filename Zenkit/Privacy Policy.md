@@ -139,7 +139,7 @@ Zenkit is the multi-project management solution for agile and classical projects
 * [Knowledge Base](https://help.zenkit.com/ "Knowledge Base")
 * [Contact](https://zenkit.com/en/contact/ "Contact")
 
-Any questions about Zenkit? Give us a call.
+Any questions about Zenkit Projects? Give us a call.
 
 [![Phone Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -155,6 +155,6 @@ Any questions about Zenkit? Give us a call.
 * [](https://www.instagram.com/zenkithq "Zenkit on Instagram")
 * [](https://zenkit.com/en/contact/ "Contact")
 
-© 2024 Zenkit. A venture of Axonic Informationssysteme GmbH.  
+© 2024 Zenkit. A venture of Axonic GmbH.  
 
 All rights reserved. Read our [Legal Notice](https://zenkit.com/en/legal-notice), [Privacy Policy](https://zenkit.com/en/web-privacy) and [Terms of Service](https://zenkit.com/en/terms)
