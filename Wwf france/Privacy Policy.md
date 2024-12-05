@@ -28,9 +28,9 @@
 
 Fermer
 
-En quête d'idées cadeaux
+En quête d'idées cadeaux ?
 
-Des produits respecteux de l'environnement dont l'achat finance les actions de WWF
+Des produits respecteux de l'environnement dont l'achat finance les actions de WWF.
 
 [Je découvre la boutique](https://boutique.wwf.fr/ "Je découvre la boutique")
 
