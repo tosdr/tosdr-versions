@@ -52,6 +52,8 @@ Gather neatly structured eCommerce data by sending just one API request.](https:
 
 [Web Scraping API
 
+NEW
+
 Collect relevant data from the World Wide Web at scale with a 100% success.](https://smartproxy.com/scraping/web)
 
 [Free Tools](https://smartproxy.com/apps)
@@ -129,6 +131,8 @@ from$0.1/1K req](https://smartproxy.com/scraping/ecommerce/pricing)
 from$1.2/1K req](https://smartproxy.com/scraping/serp/pricing)
 
 [Web Scraping API
+
+NEW
 
 from$0.8/1K req](https://smartproxy.com/scraping/web/pricing)
 
