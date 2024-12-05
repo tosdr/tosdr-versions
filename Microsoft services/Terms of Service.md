@@ -621,6 +621,7 @@ Els productes, les aplicacions i els serveis següents estan coberts pel Contrac
 * Microsoft Math Solver
 * Microsoft Pay
 * Microsoft Pix
+* Microsoft Reading Coach
 * Microsoft Research Interactive Science
 * Microsoft Research Open Data
 * Microsoft Rewards
