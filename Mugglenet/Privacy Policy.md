@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (23) October 2024  (27) Septembe
 
 ### December 2024
 
-#### Wed, Dec 4
-
-The Tales of Beedle the Bard book
-
-Recurs yearly
-
-2008
-
 #### Thu, Dec 5
 
 Benedict Clarke's birthday
@@ -302,6 +294,14 @@ Recurs yearly
 
 Gilderoy Lockhart
 
+#### Wed, Dec 11
+
+Rita Skeeter interviews Hagrid
+
+Recurs yearly
+
+1994
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -312,15 +312,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Unlocking Charm (Alohomora) is known as “thief’s friend.”
+Six different actors have played Lord Voldemort in the Harry Potter films.
 
 ### Potter History
 
-December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
+June 10, 2011 – The running time for Harry Potter and the Deathly Hallows – Part 2 is revealed to be 125 minutes, the shortest of the eight.
 
 ### Potter Quote
 
-“She tasted disgusting, worse than Gurdyroots!”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
