@@ -36,18 +36,18 @@
         
         US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
     
+    * [![Police shuts down Manson cybercrime market, arrests key suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Police shuts down Manson cybercrime market, arrests key suspects](https://www.bleepingcomputer.com/news/security/police-shuts-down-manson-cybercrime-market-fake-shops-arrests-key-suspects/)
+    * [![New Android spyware found on phone seized by Russian FSB](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        New Android spyware found on phone seized by Russian FSB](https://www.bleepingcomputer.com/news/security/new-android-spyware-found-on-phone-seized-by-russian-fsb/)
+    * [![Latrodectus malware and how to defend against it with Wazuh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Latrodectus malware and how to defend against it with Wazuh](https://www.bleepingcomputer.com/news/security/latrodectus-malware-and-how-to-defend-against-it-with-wazuh/)
     * [![Create clear and concise diagrams with this Microsoft Visio deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Create clear and concise diagrams with this Microsoft Visio deal](https://www.bleepingcomputer.com/offer/deals/create-clear-and-concise-diagrams-with-this-microsoft-visio-deal/)
-    * [![Mitel MiCollab zero-day flaw gets proof-of-concept exploit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Mitel MiCollab zero-day flaw gets proof-of-concept exploit](https://www.bleepingcomputer.com/news/security/mitel-micollab-zero-day-flaw-gets-proof-of-concept-exploit/)
-    * [![Microsoft says having a TPM is ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
-    * [![White House: Salt Typhoon hacked telcos in dozens of countries](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        White House: Salt Typhoon hacked telcos in dozens of countries](https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
