@@ -20,7 +20,6 @@ Information Menu
 * [Help](https://www.irs.gov/help/let-us-help-you "Help")
 * [News](https://www.irs.gov/newsroom "News")
 * [Charities & Nonprofits](https://www.irs.gov/charities-and-nonprofits)
-* [Tax Pros](https://www.irs.gov/tax-professionals)
 
 * Search Toggle search
     
@@ -165,7 +164,6 @@ Information Menu
 * [Help](https://www.irs.gov/help/let-us-help-you "Help")
 * [News](https://www.irs.gov/newsroom "News")
 * [Charities & Nonprofits](https://www.irs.gov/charities-and-nonprofits)
-* [Tax Pros](https://www.irs.gov/tax-professionals)
 
 [File](#)
 ---------
@@ -262,7 +260,6 @@ Info Menu Mobile
 * [Help](https://www.irs.gov/help/let-us-help-you "Help")
 * [News](https://www.irs.gov/newsroom "News")
 * [Charities & Nonprofits](https://www.irs.gov/charities-and-nonprofits)
-* [Tax Pros](https://www.irs.gov/tax-professionals "Tax Pros")
 
 1. [Home](https://www.irs.gov/)
 2. [Our Agency](https://www.irs.gov/about-irs)
