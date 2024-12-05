@@ -410,17 +410,17 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![What Do Lawyers in India Charge? My Personal Experience Revealed](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2024/06/Walkthrough-of-a-court-complex-in-India.jpeg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
-    
-    [What Do Lawyers in India Charge? My Personal Experience Revealed](https://blog.karlrock.com/what-do-lawyers-in-india-charge/ "What Do Lawyers in India Charge? My Personal Experience Revealed")
-    
 * [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
     [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-* [![Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/08/Selfie-at-Hampi-with-Kick-2-Cast.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
+* [![The Real Locations of Shantaram](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2022/10/Shantaram-TV-show-is-filmed-in-thailand-not-india.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
     
-    [Why Do Indians like to Take Photos with Foreigners? \[Selfies Included!\]](https://blog.karlrock.com/why-do-indians-like-to-take-photos-with-foreigners-selfies-included/ "Why Do Indians like to Take Photos with Foreigners? [Selfies Included!]")
+    [The Real Locations of Shantaram](https://blog.karlrock.com/the-real-locations-of-shantaram/ "The Real Locations of Shantaram")
+    
+* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    
+    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
