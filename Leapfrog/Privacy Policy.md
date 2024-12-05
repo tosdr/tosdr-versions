@@ -1,4 +1,4 @@
-[![LeapFrog Logo](https://shared.leapfrog.com/v27-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
+[![LeapFrog Logo](https://shared.leapfrog.com/v28-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
 
 [![Search](https://t7.leapfrog.com/images/mobile-nav-icon/search_icon.png)](#)[![Cart](https://t7.leapfrog.com/images/mobile-nav-icon/cart_icon.png)](https://store.leapfrog.com/en-us/account/checkout)![Menu](https://t7.leapfrog.com/images/mobile-nav-icon/menu_icon.png)
 
@@ -373,6 +373,9 @@ Emeryville, CA 94608
 [support@leapfrog.com](mailto:support@leapfrog.com)
 
 If you reside in the European Economic Area and you still have concerns about our collection and use of your information, you have a right to lodge a complaint with the Supervisory Authority for data protection in your country, such as the ICO in the UK or the CNIL in France. 
+
+LeapFrog Footer
+---------------
 
 [![](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/back-to-top-arrow.png)Back to Top](#pageTop)
 
