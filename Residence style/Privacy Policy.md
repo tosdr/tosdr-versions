@@ -142,7 +142,7 @@ Privacy Policy was last modified: June 4th, 2018 by Admin
 
 [![Medical Real Estate](https://www.residencestyle.com/wp-content/uploads/2024/12/Medical-Real-Estate-150x150.jpg)](https://www.residencestyle.com/the-rising-opportunity-in-medical-real-estate-investment/)
 
-###### Inspirational Home Decor
+###### Finance
 
 ### [The Rising Opportunity in Medical Real Estate Investment](https://www.residencestyle.com/the-rising-opportunity-in-medical-real-estate-investment/)
 
