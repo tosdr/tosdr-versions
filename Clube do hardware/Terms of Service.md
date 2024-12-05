@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_489374945_menu)
+ [Compartilhar](#elShareItem_1555212681_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -308,7 +308,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1440298785_menu)
+ [Compartilhar](#elShareItem_984711625_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -351,105 +351,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Iniciante Hardware](https://www.clubedohardware.com.br/uploads/members/monthly_2022_04/imported-photo-1193832.thumb.jpeg.ca8a0def607f24ca0b4dedaf9cac5b90.jpeg)](https://www.clubedohardware.com.br/profile/1193832-iniciante-hardware/ "Ir ao perfil de Iniciante Hardware")
+    * [![MatheusrS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257416.thumb.jpeg.5c7768fab5db4f8a1f26a75bc59fe4b8.jpeg)](https://www.clubedohardware.com.br/profile/1257416-matheusrs/ "Ir ao perfil de MatheusrS")
+        
+        1
+        
+        [X99 indicando possuir 24 slots de memória RAM](https://www.clubedohardware.com.br/forums/topic/1704561-x99-indicando-possuir-24-slots-de-mem%C3%B3ria-ram/?do=getNewComment "X99 indicando possuir 24 slots de memória RAM")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [MatheusrS](https://www.clubedohardware.com.br/profile/1257416-matheusrs/ "Ir ao perfil de MatheusrS")  
+        16 minutos atrás
+        
+    * [![Alexandre de Morais](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4ba%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/789793-alexandre-de-morais/ "Ir ao perfil de Alexandre de Morais")
+        
+        1
+        
+        [Qual desses Pcs tem melhor configuração ?](https://www.clubedohardware.com.br/forums/topic/1704560-qual-desses-pcs-tem-melhor-configura%C3%A7%C3%A3o/?do=getNewComment "Qual desses Pcs tem melhor configuração ?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Alexandre de Morais](https://www.clubedohardware.com.br/profile/789793-alexandre-de-morais/ "Ir ao perfil de Alexandre de Morais")  
+        39 minutos atrás
+        
+    * [![Glaucimeire](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257414.thumb.png.9c3dbfc7cd948af11f635e725cd7d950.png)](https://www.clubedohardware.com.br/profile/1257414-glaucimeire/ "Ir ao perfil de Glaucimeire")
         
         0
         
-        [Processador pode ser limitado pela memória RAM?](https://www.clubedohardware.com.br/forums/topic/1704544-processador-pode-ser-limitado-pela-mem%C3%B3ria-ram/?do=getNewComment "Processador pode ser limitado pela memória RAM?")
+        [onde acho o rom Tv box mx9II Rk3229 mxq v2.2](https://www.clubedohardware.com.br/forums/topic/1704559-onde-acho-o-rom-tv-box-mx9ii-rk3229-mxq-v22/?do=getNewComment "onde acho o rom Tv box mx9II Rk3229 mxq v2.2")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Iniciante Hardware](https://www.clubedohardware.com.br/profile/1193832-iniciante-hardware/ "Ir ao perfil de Iniciante Hardware")  
-        35 minutos atrás
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [Glaucimeire](https://www.clubedohardware.com.br/profile/1257414-glaucimeire/ "Ir ao perfil de Glaucimeire")  
+        40 minutos atrás
         
-    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
+    * [![Gabriellanor](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257347.thumb.jpeg.22719cf0e9b04c49ac75e1d53ed23ae5.jpeg)](https://www.clubedohardware.com.br/profile/1257347-gabriellanor/ "Ir ao perfil de Gabriellanor")
         
-        0
+        5
         
-        [Posso Usar Adaptador Wi-Fi USB e Bluetooth da Placa-Mãe ao Mesmo Tempo](https://www.clubedohardware.com.br/forums/topic/1704543-posso-usar-adaptador-wi-fi-usb-e-bluetooth-da-placa-m%C3%A3e-ao-mesmo-tempo/?do=getNewComment "Posso Usar Adaptador Wi-Fi USB e Bluetooth da Placa-Mãe ao Mesmo Tempo")
+        [PC: Ryzen 5 5500, 16Gb RAM, Soyo B550 e RTX 4060 Ti. PC novo não liga.](https://www.clubedohardware.com.br/forums/topic/1704555-pc-ryzen-5-5500-16gb-ram-soyo-b550-e-rtx-4060-ti-pc-novo-n%C3%A3o-liga/?do=getNewComment "PC: Ryzen 5 5500, 16Gb RAM, Soyo B550 e RTX 4060 Ti. PC novo não liga.")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
-        44 minutos atrás
-        
-    * [![eliabe s](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239b62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257407-eliabe-s/ "Ir ao perfil de eliabe s")
-        
-        0
-        
-        [minha placa-mãe suporta uma GTX 1050ti ou rx550?](https://www.clubedohardware.com.br/forums/topic/1704542-minha-placa-m%C3%A3e-suporta-uma-gtx-1050ti-ou-rx550/?do=getNewComment "minha placa-mãe suporta uma GTX 1050ti ou rx550?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [eliabe s](https://www.clubedohardware.com.br/profile/1257407-eliabe-s/ "Ir ao perfil de eliabe s")  
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Gabriellanor](https://www.clubedohardware.com.br/profile/1257347-gabriellanor/ "Ir ao perfil de Gabriellanor")  
         1 hora atrás
         
-    * [![willfragozo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/Capturadetela2024-12-05004100(1).thumb.png.2bf100dab7433aa2ee4e647df59b48b4.png)](https://www.clubedohardware.com.br/profile/1257406-willfragozo/ "Ir ao perfil de willfragozo")
-        
-        0
-        
-        [minha internet reduz muito quando estou jogando algo online](https://www.clubedohardware.com.br/forums/topic/1704541-minha-internet-reduz-muito-quando-estou-jogando-algo-online/?do=getNewComment "minha internet reduz muito quando estou jogando algo online")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [willfragozo](https://www.clubedohardware.com.br/profile/1257406-willfragozo/ "Ir ao perfil de willfragozo")  
-        3 horas atrás
-        
-    * [![Gerson jose machado](https://www.clubedohardware.com.br/uploads/members/monthly_2020_06/imported-photo-1078003.thumb.jpeg.ed71cae50684f21e7d9cd8cc0bd6e7a9.jpeg)](https://www.clubedohardware.com.br/profile/1078003-gerson-jose-machado/ "Ir ao perfil de Gerson jose machado")
-        
-        0
-        
-        [computador dando tela azul constantemente](https://www.clubedohardware.com.br/forums/topic/1704540-computador-dando-tela-azul-constantemente/?do=getNewComment "computador dando tela azul constantemente")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Gerson jose machado](https://www.clubedohardware.com.br/profile/1078003-gerson-jose-machado/ "Ir ao perfil de Gerson jose machado")  
-        3 horas atrás
-        
-    * [![Deathstroke177](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256521.thumb.png.7e36068e4cbae40ac89cc5992cd4f7c3.png)](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")
-        
-        0
-        
-        [preciso cadastrar algum desses produtos para ter garantia?](https://www.clubedohardware.com.br/forums/topic/1704538-preciso-cadastrar-algum-desses-produtos-para-ter-garantia/?do=getNewComment "preciso cadastrar algum desses produtos para ter garantia?")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Deathstroke177](https://www.clubedohardware.com.br/profile/1256521-deathstroke177/ "Ir ao perfil de Deathstroke177")  
-        4 horas atrás
-        
-    * [![André Serra](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1249333.thumb.png.fe13481a15f1af2eeee66aaaf5ab0cfc.png)](https://www.clubedohardware.com.br/profile/1249333-andr%C3%A9-serra/ "Ir ao perfil de André Serra")
-        
-        1
-        
-        [GTX 745 em temperatura muito alta](https://www.clubedohardware.com.br/forums/topic/1704537-gtx-745-em-temperatura-muito-alta/?do=getNewComment "GTX 745 em temperatura muito alta")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [André Serra](https://www.clubedohardware.com.br/profile/1249333-andr%C3%A9-serra/ "Ir ao perfil de André Serra")  
-        4 horas atrás
-        
-    * [![Leoschiffer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257402.thumb.jpeg.b89dbf8717572131f9641ff682acb535.jpeg)](https://www.clubedohardware.com.br/profile/1257402-leoschiffer/ "Ir ao perfil de Leoschiffer")
-        
-        1
-        
-        [O windows do meu amigo regrediu de versão](https://www.clubedohardware.com.br/forums/topic/1704536-o-windows-do-meu-amigo-regrediu-de-vers%C3%A3o/?do=getNewComment "O windows do meu amigo regrediu de versão")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [Leoschiffer](https://www.clubedohardware.com.br/profile/1257402-leoschiffer/ "Ir ao perfil de Leoschiffer")  
-        4 horas atrás
-        
-    * [![fuzikaz](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1107326.thumb.jpeg.5fdb85dc7f8e071c45e8904debaa6fc0.jpeg)](https://www.clubedohardware.com.br/profile/1107326-fuzikaz/ "Ir ao perfil de fuzikaz")
+    * [![Nunnesxd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257412.thumb.png.f9af96e254cc52dadbb37f5acebbe306.png)](https://www.clubedohardware.com.br/profile/1257412-nunnesxd/ "Ir ao perfil de Nunnesxd")
         
         4
         
-        [Fonte Corsair CX 550M é suficiente para aguentar 4060?](https://www.clubedohardware.com.br/forums/topic/1704535-fonte-corsair-cx-550m-%C3%A9-suficiente-para-aguentar-4060/?do=getNewComment "Fonte Corsair CX 550M é suficiente para aguentar 4060?")
+        [Qual placa de Vídeo usar no hp compaq 4000 pro forma pequena?](https://www.clubedohardware.com.br/forums/topic/1704553-qual-placa-de-v%C3%ADdeo-usar-no-hp-compaq-4000-pro-forma-pequena/?do=getNewComment "Qual placa de Vídeo usar no hp compaq 4000 pro forma pequena?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Nunnesxd](https://www.clubedohardware.com.br/profile/1257412-nunnesxd/ "Ir ao perfil de Nunnesxd")  
+        1 hora atrás
+        
+    * [![Kaio154](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256250.thumb.png.8e166254141f724bd2dfc95c52ec1061.png)](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")
+        
+        1
+        
+        [Placa-mãe ZSUS-X79 VG2 é compatível com o processador e5 2650 v4?](https://www.clubedohardware.com.br/forums/topic/1704552-placa-m%C3%A3e-zsus-x79-vg2-%C3%A9-compat%C3%ADvel-com-o-processador-e5-2650-v4/?do=getNewComment "Placa-mãe ZSUS-X79 VG2 é compatível com o processador e5 2650 v4?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Kaio154](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")  
+        1 hora atrás
+        
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+        
+        1
+        
+        [Testar cartao MicroSD arquivamento](https://www.clubedohardware.com.br/forums/topic/1704551-testar-cartao-microsd-arquivamento/?do=getNewComment "Testar cartao MicroSD arquivamento")
+        
+        [Pen drives e cartões de memória](https://www.clubedohardware.com.br/forums/forum/142-pen-drives-e-cart%C3%B5es-de-mem%C3%B3ria/ "Pen drives e cartões de memória")  
+        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        1 hora atrás
+        
+    * [![ZtwKillerDemon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1249560.thumb.jpeg.7f157d52419fda139edef49884b30eea.jpeg)](https://www.clubedohardware.com.br/profile/1249560-ztwkillerdemon/ "Ir ao perfil de ZtwKillerDemon")
+        
+        11
+        
+        [Placa-mãe MSI A520M-A PRO suporta 2 SSD NVMe M.2?](https://www.clubedohardware.com.br/forums/topic/1704548-placa-m%C3%A3e-msi%C2%A0a520m-a-pro-suporta-2-ssd-nvme-m2/?do=getNewComment "Placa-mãe MSI A520M-A PRO suporta 2 SSD NVMe M.2?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ZtwKillerDemon](https://www.clubedohardware.com.br/profile/1249560-ztwkillerdemon/ "Ir ao perfil de ZtwKillerDemon")  
+        1 hora atrás
+        
+    * [![oZeppy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257410.thumb.jpeg.a3726fe40c0d99d88ab0ee846a87f248.jpeg)](https://www.clubedohardware.com.br/profile/1257410-ozeppy/ "Ir ao perfil de oZeppy")
+        
+        3
+        
+        [PC e PS5 no mesmo MONITOR?](https://www.clubedohardware.com.br/forums/topic/1704547-pc-e-ps5-no-mesmo-monitor/?do=getNewComment "PC e PS5 no mesmo MONITOR?")
+        
+        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
+        Por [oZeppy](https://www.clubedohardware.com.br/profile/1257410-ozeppy/ "Ir ao perfil de oZeppy")  
+        1 hora atrás
+        
+    * [![Will Ü](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251115.thumb.jpeg.7371366c5ab84b80272ff2eb459372a4.jpeg)](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")
+        
+        8
+        
+        [Qual Escolher ? Recomendações de Fontes de 850W](https://www.clubedohardware.com.br/forums/topic/1704546-qual-escolher-recomenda%C3%A7%C3%B5es-de-fontes-de-850w/?do=getNewComment "Qual Escolher ? Recomendações de Fontes de 850W")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [fuzikaz](https://www.clubedohardware.com.br/profile/1107326-fuzikaz/ "Ir ao perfil de fuzikaz")  
-        5 horas atrás
-        
-    * [![AntonioGabriel98876](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4bc%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")
-        
-        7
-        
-        [Pasta térmica no processador](https://www.clubedohardware.com.br/forums/topic/1704534-pasta-t%C3%A9rmica-no-processador/?do=getNewComment "Pasta térmica no processador")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [AntonioGabriel98876](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")  
-        5 horas atrás
+        Por [Will Ü](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")  
+        1 hora atrás
         
     
 
