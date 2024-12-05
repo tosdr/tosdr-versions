@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
+* [General - FAQ](https://www.backup4all.com/general-faq-kb.html)  
     
-* [How to restore a backup to Azure](https://www.backup4all.com/how-to-restore-a-backup-to-azure-kb.html)  
+* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
     
-* [How to backup your data to vCloud Air](https://www.backup4all.com/how-to-backup-your-data-to-vcloud-air-kb.html)  
+* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
     
-* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
+* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
     
-* [How to backup from cloud using Backup4all](https://www.backup4all.com/how-to-backup-from-cloud-using-backup4all-kb.html)  
+* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
     
 
 Choose language:
