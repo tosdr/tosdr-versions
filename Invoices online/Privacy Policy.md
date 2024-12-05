@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Jannie Schutte - myFinance-Online.co.za
+Terri Winfield
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=8435382)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=62666188)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=107791443)  
-Sonic Electrical Services PTY Ltd
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=172084359)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=160296439)  
-MONSTER CONNECT (PTY) LTD
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=67781619)  
+Xpress Designs
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=148611016)  
-Cooper Power
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=164948887)  
+Import Maaw
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=72531446)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=148619998)  
+Creative Characters
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=142602324)  
-SA Security Brokerz (Pty) Ltd
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=144628777)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=120060294)  
-Prosper Park
-
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=89900317)  
-Moulded Wax SA - The Candle Store
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=160060555)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=28520323)  
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=160080487)  
 NJR ICT Services (Pty) Ltd
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=19533804)  
-Oak Tree Immigration
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=98484242)  
+AquariumSmiths
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=72126133)  
-IYD
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=203698864)  
+Cooper Power
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=51819706)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=188171203)  
+Roekeloos Group
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=181854953)  
-MSPCloud (Pty) Ltd
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=2014658)  
+NWET Pty LTD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=147502614)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=51564595)  
+Atalie Scented Candles Pty Ltd
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=201254999)  
+Mountain Lion Properties
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=208355276)  
+Dombieterfontein (PTY) LTD
+
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=ef390dd124277af4f8af210b337325b572ff922820bf545aaca1a4cc1e318de8&c=59926309)  
+AMS Ambu Medical Supplies
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
