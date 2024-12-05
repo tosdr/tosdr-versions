@@ -117,6 +117,10 @@ Main Menu
     
     [Travel Guides](https://www.merakilane.com/category/family-travel-guides/)
     
+    [![How to Help Your Child Fall Asleep | 17 Tips for Parents | We expect our kids will need some sort of sleep training when they are babies and/or toddlers as they learn to self-soothe, go through sleep regressions, cut teeth, and stop using a pacifier or sucking their thumb, but no one talks about sleep challenges in older kids. Whether it's nightmares, difficulty calming down and regulating emotions, FOMO, or a combination of all 3, this post has simple sleep strategies for older kids that work!](https://www.merakilane.com/wp-content/uploads/2024/12/How-to-Help-Your-Child-Fall-Asleep-Featured-Image.png)](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
+    
+    ### [How to Help Your Child Fall Asleep: 17 Tips for Parents](https://www.merakilane.com/how-to-help-your-child-fall-asleep-17-tips-for-parents/)
+    
     [![How to Make Friendship Bracelets | 20 Designs and Tutorials | There are so many different ways to make friendship bracelets. From easy braids and intricate macrame knots, to plastic lace and gimp bracelets, to aesthetic Taylor Swift clay bead bracelets and more, jewelry making is the perfect activity kids can enjoy together or as an independent activity. Click for bracelet making tips and tutorials to help you learn the different techniques, plus creative designs to inspire you!](https://www.merakilane.com/wp-content/uploads/2024/11/friendship-bracelets-featured-image.png)](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
     
     ### [How to Make Friendship Bracelets: 20 Designs and Tutorials](https://www.merakilane.com/how-to-make-friendship-bracelets-20-designs-and-tutorials/)
@@ -124,10 +128,6 @@ Main Menu
     [![How to Make Friends with ADHD | 7 Tips for Kids | If you're a parent, teacher, or therapist of a child with attention deficit hyperactivity disorder and you're looking for tips to help making (and keeping) friends easier for them, this post is for you. Many of the symptoms of ADHD - trouble paying attention, being loud, blurting out rude comments, etc. - can make friendships challenging for children with ADHD, but there are ways you can encourage appropriate social skills. Click for more!](https://www.merakilane.com/wp-content/uploads/2024/11/1-4.png)](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
     
     ### [How to Make Friends with ADHD: 7 Tips for Kids](https://www.merakilane.com/how-to-make-friends-with-adhd-7-tips-for-kids/)
-    
-    [![15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens | Mornings can be hectic, but a healthy breakfast is key for teens to stay energized and focused. Click for our fav easy breakfast ideas for teens that are nutritious and delicious. These recipes are perfect for busy school days, offering the right balance of protein, fiber, and energy to fuel their bodies and minds. And if you have a student athlete, you can make many of these ahead of time to eat before early morning practice!](https://www.merakilane.com/wp-content/uploads/2024/11/3-2.png)](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
-    
-    ### [15 Filling and Healthy Grab-and-Go Breakfast Ideas for Teens](https://www.merakilane.com/15-filling-and-healthy-grab-and-go-breakfast-ideas-for-teens/)
     
 * [Contact](https://www.merakilane.com/contact/)
 
