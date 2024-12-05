@@ -1,4 +1,4 @@
-[FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
+[ORDER BY 12/15 TO GUARANTEE CHRISTMAS DELIVERY | FREE SHIPPING ON ORDERS $99+](https://nutristorefoods.com/collections/shop-all-food)
 
 [![Nutristore](//nutristorefoods.com/cdn/shop/t/8/assets/logo.png?v=5092338648562814141647639854)](https://nutristorefoods.com/)
 
@@ -44,7 +44,7 @@ Clearance
 
 Bulk
 
-20 to choose from](https://nutristorefoods.com/collections/bulk)
+21 to choose from](https://nutristorefoods.com/collections/bulk)
 
 [Shop All](https://nutristorefoods.com/collections/shop-all-food)
 
@@ -121,7 +121,7 @@ Cheeses
 
 Bulk
 
-20 to choose from](https://nutristorefoods.com/collections/bulk)
+21 to choose from](https://nutristorefoods.com/collections/bulk)
 
 [![GovX ID Military Discount](//nutristorefoods.com/cdn/shopifycloud/shopify/assets/no-image-2048-5e88c1b20e087fb7bbe9a3771824e743c244f437e4f8ba93bbf7b11b53f7824c_300x.gif)
 
