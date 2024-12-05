@@ -23,7 +23,6 @@
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
         * [Valhalla Java Odinforce Blend](https://www.deathwishcoffee.com/collections/valhalla)
-        * [Ice Breaker](https://www.deathwishcoffee.com/collections/ice-breaker)
         * [Everyday Roast Bundles](https://www.deathwishcoffee.com/collections/roast-variety-packs)
     * [Flavored](https://www.deathwishcoffee.com/collections/flavored-coffee)
         * [Almond Afterlife](https://www.deathwishcoffee.com/collections/almond-afterlife)
@@ -85,7 +84,6 @@
         * [Dark Roast](https://www.deathwishcoffee.com/collections/dark-roast)
         * [Espresso Roast](https://www.deathwishcoffee.com/collections/espresso-roast)
         * [Valhalla Java Odinforce Blend](https://www.deathwishcoffee.com/collections/valhalla)
-        * [Ice Breaker](https://www.deathwishcoffee.com/products/ice-breaker-coffee)
         * [Everyday Roast Bundles](https://www.deathwishcoffee.com/collections/roast-variety-packs)
     * [![Shop Peppermint Mocha flavored Death Wish Coffee.](//www.deathwishcoffee.com/cdn/shop/files/DeathWishCoffee_PeppermintMocha_Lifestyle_8205_147_Web.jpg?crop=center&height=500&v=1732215413&width=500)](https://www.deathwishcoffee.com/collections/flavored-coffee "Shop Peppermint Mocha flavored Death Wish Coffee.")
         
