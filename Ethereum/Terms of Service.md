@@ -159,7 +159,7 @@ On this page
 
 * [Terms of Use](#terms-of-use)
 
-Website last updated: November 27, 2024
+Website last updated: December 5, 2024
 
 Go to top
 
