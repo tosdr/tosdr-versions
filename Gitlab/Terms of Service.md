@@ -303,7 +303,7 @@
                 * [ ]  [Real-Time Design Document](https://handbook.gitlab.com/handbook/company/working-groups/real-time/design_document/)
             * [ ]  [Revenue Globalization Working Group](https://handbook.gitlab.com/handbook/company/working-groups/globalization/)
             * [ ]  [Runtime Update Process](https://handbook.gitlab.com/handbook/company/working-groups/runtime-update-process/)
-            * [ ]  [Secure Govern Decomposition Working Group](https://handbook.gitlab.com/handbook/company/working-groups/secure-govern-database-decomposition/)
+            * [ ]  [Sec DB Decomposition Working Group](https://handbook.gitlab.com/handbook/company/working-groups/secure-govern-database-decomposition/)
             * [ ]  [Secure Offline Environment Working Group](https://handbook.gitlab.com/handbook/company/working-groups/secure-offline-environment/)
             * [ ]  [Self-managed Scalability Working Group](https://handbook.gitlab.com/handbook/company/working-groups/self-managed-scalability/)
             * [ ]  [Sharding Working Group](https://handbook.gitlab.com/handbook/company/working-groups/sharding/)
