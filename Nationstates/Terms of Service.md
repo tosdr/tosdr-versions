@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Coalition (Against Elfilin) (47)](https://forum.nationstates.net/viewtopic.php?t=559219&f=5&view=unread#unread ""The Coalition (Against Elfilin)" (47 posts)")
-* [2024 Football Off-Season: Euros, Copa… (3,479)](https://forum.nationstates.net/viewtopic.php?t=487157&f=20&view=unread#unread ""2024 Football Off-Season: Euros, Copa America, and transfers" (3,479 posts)")
-* [Trade between Pakania and Freedom Fre… (1,225)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,225 posts)")
-* [Guess Who BN Is! (8,116)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (8,116 posts)")
-* [The Jerman-Hungarian war IC (2)](https://forum.nationstates.net/viewtopic.php?t=559222&f=5&view=unread#unread ""The Jerman-Hungarian war IC" (2 posts)")
+* [Trade between Pakania and Freedom Fre… (1,273)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,273 posts)")
+* [Grant AN's wish then curse it (1,407)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,407 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,031)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,031 posts)")
+* [Inauguration Ceremony of Magnus Montr… (8)](https://forum.nationstates.net/viewtopic.php?t=559045&f=5&view=unread#unread ""Inauguration Ceremony of Magnus Montreneé [OOC]" (8 posts)")
+* [Tiami's Endless Tacos (2,000)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,000 posts)")
 
 Advertisement
 
