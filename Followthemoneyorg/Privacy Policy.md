@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Private Prison Industry  State-Level Contributions, 2016-2017](/assets/Images/teasers/small/Private-prison.JPG)](https://www.followthemoney.org/research/institute-reports/private-prisons-principally-profit-oriented-and-politically-pliable)
+[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
