@@ -10,6 +10,11 @@
 
 ### 25% OFF
 
+* Days
+* Hours
+* Minutes
+* Seconds
+
 black friday deals   
   
 
