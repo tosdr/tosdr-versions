@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)4°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [commerce](https://www.watson.ch/fr/commerce/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Police](https://www.watson.ch/fr/police/)
+* [Transports](https://www.watson.ch/fr/transports/)
+* [Météo](https://www.watson.ch/fr/meteo/)
+* [France](https://www.watson.ch/fr/france/)
+* [Vidéo](https://www.watson.ch/fr/video/)
+* [Enfants](https://www.watson.ch/fr/enfants/)
 * [Climat](https://www.watson.ch/fr/climat/)
 * [Animaux](https://www.watson.ch/fr/animaux/)
-* [Football](https://www.watson.ch/fr/football/)
-* [France](https://www.watson.ch/fr/france/)
-* [Israël](https://www.watson.ch/fr/israel/)
+* [UDC](https://www.watson.ch/fr/udc/)
+* [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Bâle](https://www.watson.ch/fr/bale/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
+* [jeunesse](https://www.watson.ch/fr/jeunesse/)
 * [People](https://www.watson.ch/fr/people/)
-* [Justice](https://www.watson.ch/fr/justice/)
 * [Festival](https://www.watson.ch/fr/festival/)
 * [guerre](https://www.watson.ch/fr/guerre/)
-* [Meurtre](https://www.watson.ch/fr/meurtre/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
+* [Syrie](https://www.watson.ch/fr/syrie/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
