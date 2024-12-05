@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Starship Conquer](https://www.myabandonware.com/game/starship-conquer-tdq)
 * [Knight Moves](https://www.myabandonware.com/game/knight-moves-tdn)
 * [Kaiser: Das Erbe](https://www.myabandonware.com/game/kaiser-das-erbe-tdm)
 * [Empire III: Armageddon](https://www.myabandonware.com/game/empire-iii-armageddon-tdl)
 * [Empire II: Interstellar Sharks](https://www.myabandonware.com/game/empire-ii-interstellar-sharks-tdj)
-* [Arcade Typing Tutor](https://www.myabandonware.com/game/arcade-typing-tutor-tdi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Tokyo Cop: Special Police Reinforcement](https://www.myabandonware.com/game/tokyo-cop-special-police-reinforcement-slt)
-* [Tritorn II: Road of Darkness](https://www.myabandonware.com/game/tritorn-ii-road-of-darkness-q7m)
-* [Courier Crisis](https://www.myabandonware.com/game/courier-crisis-ndc)
+* [Hasbro Family Game Night](https://www.myabandonware.com/game/hasbro-family-game-night-r3o)
+* [Arrow](https://www.myabandonware.com/game/arrow-ogo)
+* [Bronx Street Cop](https://www.myabandonware.com/game/bronx-street-cop-hol)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
