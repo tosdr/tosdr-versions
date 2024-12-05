@@ -21,7 +21,7 @@ Search
     [EmbedFeedUGC Social media aggregator](https://embedsocial.com/social-media-aggregator/)
     
     * [Shoppable Feed](https://embedsocial.com/social-media-aggregator/shop/ "Shoppable Feed")
-    * [Hashtag Walls](https://embedsocial.com/social-media-aggregator/hashtag/ "Hashtag Walls")
+    * [Hashtag Walls](https://embedsocial.com/instagram-hashtag-feed/ "Hashtag Walls")
     * [Moderation](https://embedsocial.com/social-media-aggregator/moderation/ "Moderation")
     * [Social Media Publishing](https://embedsocial.com/social-media-publishing/ "Social Media Publishing")
     * [Rights Management](https://embedsocial.com/blog/ugc-rights-management/ "Rights Management")
@@ -49,15 +49,19 @@ Search
     
 * [Widgets](https://embedsocial.com/widgets/ "Widgets")
     
-    [StoriesStories platform](https://embedsocial.com/stories/)
+    Tutorials & IntegrationsEmbed widgets in web builders
     
-    * [Instagram Stories](https://embedsocial.com/widgets/instagram-stories/ "Instagram Stories")
-    * [Photo Stories](https://embedsocial.com/photo-stories/ "Photo Stories")
-    * [Video Stories](https://embedsocial.com/video-stories/ "Video Stories")
-    * [Pinterest Story Pins](https://embedsocial.com/pinterest-story-pins/ "Pinterest Story Pins")
-    * [Product Stories](https://apps.shopify.com/product-stories-amp "Product Stories")
+    * [WordPress](https://embedsocial.com/instagram-widget/wordpress/ "WordPress")
+    * [Shopify](https://embedsocial.com/instagram-widget/shopify/ "Shopify")
+    * [Zapier](https://embedsocial.com/integrations/zapier/ "Zapier")
+    * [Pagecloud](https://embedsocial.com/instagram-widget/pagecloud/ "Pagecloud")
+    * [Squarespace](https://embedsocial.com/instagram-widget/squarespace/ "Squarespace")
+    * [Webflow](https://embedsocial.com/instagram-widget/webflow/ "Webflow")
+    * [Weebly](https://embedsocial.com/instagram-widget/weebly/ "Weebly")
+    * [Wix](https://embedsocial.com/instagram-widget/wix/ "Wix")
+    * [All Integrations](https://embedsocial.com/integrations/ "All Integrations")
     
-    Free Widgets
+    Free widgets
     
     * [Google Reviews Badge](https://embedsocial.com/google-reviews-badge/ "Google Reviews Badge")
     * [Free Instagram Stories Widget](https://embedsocial.com/free-instagram-stories-widget/ "Free Instagram Stories Widget")
@@ -65,42 +69,7 @@ Search
     * [Free Social Media Aggregator](https://embedsocial.com/products/free-social-media-aggregator/ "Free Social Media Aggregator")
     * [Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
-    [EmbedFeedSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
-    
-    * [Shoppable widget](https://embedsocial.com/shoppable-widget/ "Shoppable widget")
-    *  [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)LinkedIn Widget](https://embedsocial.com/linkedin-widget/ "LinkedIn Widget")
-    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Reels](https://embedsocial.com/instagram-reels-widget/ "Instagram Reels")
-    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Stories](https://embedsocial.com/widgets/instagram-stories/ "Instagram Stories")
-    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Widget](https://embedsocial.com/instagram-widget/ "Instagram Widget")
-    *  [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)Facebook Feed Widget](https://embedsocial.com/facebook-widget/ "Facebook Feed Widget")
-    *  [![TikTok Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![TikTok Icon](https://embedsocial.com/wp-content/uploads/2022/01/tiktok-icon-36x36.png)TikTok Widget](https://embedsocial.com/tiktok-widget/ "TikTok Widget")
-    *  [![Twitter Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Twitter Icon](https://embedsocial.com/wp-content/uploads/2022/01/twitter-36x36.png)Twitter Widget](https://embedsocial.com/twitter-widget/ "Twitter Widget")
-    *  [![vimeo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![vimeo icon](https://embedsocial.com/wp-content/uploads/2022/01/vimeo-icon-36x36.png)Vimeo Widget](https://embedsocial.com/vimeo-widget/ "Vimeo Widget")
-    * [![YouTube Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![YouTube Icon](https://embedsocial.com/wp-content/uploads/2022/01/youtube-icon-36x36.png)
-        
-        YouTube Widget](https://embedsocial.com/youtube-widget/ "YouTube Widget")
-    * [![facebook feeds](https://embedsocial.com/wp-content/uploads/2020/12/facebook.svg)Facebook Albums](https://embedsocial.com/facebook-albums/ "Facebook Albums")
-    * [![Embed Threads widget](https://embedsocial.com/wp-content/uploads/2024/09/threads-icon.svg)Free Threads Widget](https://embedsocial.com/free-threads-widget/ "Free Threads Widget")
-    
-    [EmbedReviewsReviews management](https://embedsocial.com/products/reviews/)
+    [Reviews widgetsReviews management](https://embedsocial.com/products/reviews/)
     
     *  [![google icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
@@ -121,15 +90,54 @@ Search
     *  [![shopify icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![shopify icon](https://embedsocial.com/wp-content/uploads/2021/12/shopify-icon-36x36.png)Shopify Reviews](https://embedsocial.com/verified-reviews/ "Shopify Reviews")
-    *  [![Wall of love by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+    *  [![Wall of love](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-        ![Wall of love by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/wall-of-love-36x36.png)‘Wall of Love’ Page](https://embedsocial.com/products/reviews/reviews-page/ "'Wall of Love' Page")
+        ![Wall of love](https://embedsocial.com/wp-content/uploads/2024/12/wall-of-love-logo-36x36.png)‘Wall of Love’ Page](https://embedsocial.com/wall-of-love/ "'Wall of Love' Page")
     *  [![EmbedForms logo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
     *  [![Trustpilot icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
         
         ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews Widget](https://embedsocial.com/trustpilot-reviews-widget/ "Trustpilot Reviews Widget")
+    
+    [Feed widgetsSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
+    
+    * [Shoppable Widget](https://embedsocial.com/shoppable-widget/ "Shoppable Widget")
+    *  [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)LinkedIn Feed](https://embedsocial.com/linkedin-widget/ "LinkedIn Feed")
+    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Feed](https://embedsocial.com/instagram-widget/ "Instagram Feed")
+    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Stories](https://embedsocial.com/widgets/instagram-stories/ "Instagram Stories")
+    *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Reels](https://embedsocial.com/instagram-reels-widget/ "Instagram Reels")
+    *  [![TikTok Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![TikTok Icon](https://embedsocial.com/wp-content/uploads/2022/01/tiktok-icon-36x36.png)TikTok Feed](https://embedsocial.com/tiktok-widget/ "TikTok Feed")
+    * [![instagram logo](https://embedsocial.com/wp-content/uploads/2021/07/instagram-logo.svg)Instagram Hashtag Feed](https://embedsocial.com/instagram-hashtag-feed/ "Instagram Hashtag Feed")
+    *  [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)Facebook Feed](https://embedsocial.com/facebook-widget/ "Facebook Feed")
+    * [![facebook feeds](https://embedsocial.com/wp-content/uploads/2020/12/facebook.svg)Facebook Albums](https://embedsocial.com/facebook-albums/ "Facebook Albums")
+    * [![RSS logo](https://embedsocial.com/wp-content/uploads/2024/12/rss-logo.svg)RSS Feed](https://embedsocial.com/help/en/articles/8485839-add-rss-feeds-to-your-social-media-wall "RSS Feed")
+    *  [![Twitter Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Twitter Icon](https://embedsocial.com/wp-content/uploads/2022/01/twitter-36x36.png)X Feed (Twitter)](https://embedsocial.com/twitter-widget/ "X Feed (Twitter)")
+    * [![YouTube Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![YouTube Icon](https://embedsocial.com/wp-content/uploads/2022/01/youtube-icon-36x36.png)
+        
+        YouTube Feed](https://embedsocial.com/youtube-widget/ "YouTube Feed")
+    * [![youtube video feeds](https://embedsocial.com/wp-content/uploads/2020/12/youtube.svg)YouTube Hashtag Feed](https://embedsocial.com/widgets/youtube-hashtag-feed/ "YouTube Hashtag Feed")
+    * [![youtube video feeds](https://embedsocial.com/wp-content/uploads/2020/12/youtube.svg)YouTube Playlist Feed](https://embedsocial.com/widgets/youtube-playlist-feed/ "YouTube Playlist Feed")
+    *  [![vimeo icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![vimeo icon](https://embedsocial.com/wp-content/uploads/2022/01/vimeo-icon-36x36.png)Vimeo Feed](https://embedsocial.com/vimeo-widget/ "Vimeo Feed")
+    * [![Embed Threads widget](https://embedsocial.com/wp-content/uploads/2024/09/threads-icon.svg)Threads Feed](https://embedsocial.com/free-threads-widget/ "Threads Feed")
     
     New: Widgets Templates Library
     
@@ -471,7 +479,7 @@ Office: Park Residence, Skopje Macedonia
     
 * [RSS Feed Widget](https://embedsocial.com/help/en/articles/8485839-add-rss-feeds-to-your-social-media-wall)
     
-* [Wall of Love Page](https://embedsocial.com/products/reviews/reviews-page/)
+* [Wall of Love Page](https://embedsocial.com/wall-of-love/)
     
 * [Facebook Reviews Widget](https://embedsocial.com/widgets/facebook-reviews/)
     
