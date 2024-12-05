@@ -1,6 +1,6 @@
 ![](https://www.facebook.com/tr?id=853116159045904&ev=PageView&noscript=1)     
 
- [![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo@2x.png?time=1731589662) ![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo_dark@2x.png?time=1731589662)](https://hugoenergyapp.co.uk/)
+ [![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo@2x.png?time=1733377626) ![](https://z4pda9.n3cdn1.secureserver.net/wp-content/uploads/2019/06/hugo_logo_dark@2x.png?time=1733377626)](https://hugoenergyapp.co.uk/)
 
 * [Features](#features "Features")
 * [Media](# "Media")
