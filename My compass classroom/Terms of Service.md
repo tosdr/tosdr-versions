@@ -342,14 +342,6 @@ Quick Links
 
 Terms of Service
 
-SHOP NOW
-
-THANKSGIVING SALE! 25% off with coupon code                     
-
-THANKS25
-
-   
-
 #### Report
 
 There was a problem reporting this post.
