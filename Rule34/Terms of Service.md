@@ -10,9 +10,9 @@ Rule 34 : If it exists there is porn of it. If not, start uploading.
 
  
 
-Serving 9,276,484 posts - Running [Gelbooru](https://gelbooru.com/) Beta 0.2
+Serving 9,276,576 posts - Running [Gelbooru](https://gelbooru.com/) Beta 0.2
 
-![9](./counter/9.gif)![2](./counter/2.gif)![7](./counter/7.gif)![6](./counter/6.gif)![4](./counter/4.gif)![8](./counter/8.gif)![4](./counter/4.gif)
+![9](./counter/9.gif)![2](./counter/2.gif)![7](./counter/7.gif)![6](./counter/6.gif)![5](./counter/5.gif)![7](./counter/7.gif)![6](./counter/6.gif)
 
 [Terms of Service](https://rule34.xxx/index.php?page=tos)
 
