@@ -1,3 +1,7 @@
+We recently updated our Privacy Policy to reflect our current business operations and processing activities, and how Learneo processes your personal data when you sign up with one of our Services (defined below).
+
+Please note that this is a preview of our updated Privacy Policy, effective December 19, 2024. Until then, our [current version](https://languagetool.org/legal/privacy?old=true) continues to apply. Please read our updated Privacy Policy below.
+
 Previous LanguageTool Privacy Policy (available [here](https://languagetool.org/legal/privacy?old=true))
 
 ### Part One
