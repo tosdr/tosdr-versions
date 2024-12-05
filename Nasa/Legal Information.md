@@ -291,13 +291,13 @@ article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
 
 4 min read
 
 ### Expanded AI Model with Global Data Enhances Earth Science Applications 
 
-article 3 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+article 10 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
 
 2 min read
 
@@ -357,41 +357,41 @@ article 1 week ago](https://science.nasa.gov/mission/excite/)
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 1 hour ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+article 8 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
 
 4 min read
 
 ### Expanded AI Model with Global Data Enhances Earth Science Applications 
 
-article 3 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
+article 10 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
 
 1 min read
 
 ### Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date
 
-article 21 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-78-d-10-tess-general-investigator-program-final-text-and-due-date/)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-78-d-10-tess-general-investigator-program-final-text-and-due-date/)
 
 ### Highlights
 
-[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
+[![Two men prepare a wing test article for obtaining vibration data.](https://images-assets.nasa.gov/image/AFRC2024-0142-096/AFRC2024-0142-096~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### NASA Flips Efficient Wing Concept for Testing
+
+article 2 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
 
 2 min read
 
 ### Scaled Power Electrified Drivetrain (SPEED)
 
-article 19 hours ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Researchers Al Capps (seated) and Paul Borchers demonstrate Airspace Technology Demonstration 2 (ATD-2) tools that air traffic managers began testing in 2017.](https://www.nasa.gov/wp-content/uploads/2021/09/dsc_0007.jpg?w=1024)
-
-3 min read
-
-### An Electronic Traffic Monitor for Airports 
-
-article 1 week ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/an-electronic-traffic-monitor-for-airports/)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)
 
 ### Highlights
 
@@ -429,7 +429,7 @@ article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-e
 
 ### Aaron Yazzie: Bridging Indigenous Heritage and Space Exploration
 
-article 7 days ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
+article 1 week ago](https://www.nasa.gov/learning-resources/bridging-indigenous-heritage-and-space-exploration/)[![Students at NASA's Jet Propulsion Laboratory pose for photos around the laboratory wearing their eclipse glasses.](https://www.nasa.gov/wp-content/uploads/2023/03/38540233062-abf67c18dd-o.jpeg?w=985)
 
 2 min read
 
