@@ -210,9 +210,11 @@
     * [\[Small Business\] PCI Compliance](https://www.securitymetrics.com/portal/app/ngsm/create-account "[Small Business] PCI Compliance")
         * [SMB pricing varies based on packages from your acquiring bank.](https://www.securitymetrics.com/portal/app/ngsm/create-account "SMB pricing varies based on packages from your acquiring bank.")
         * [Click here to enroll.](https://www.securitymetrics.com/portal/app/ngsm/create-account "Click here to enroll.")
-    
     * [\[Enterprise\] PCI Audit Pricing](https://securitymetrics.paperform.co/ "[Enterprise] PCI Audit Pricing")
         * [Get a price range for a PCI audit.](https://securitymetrics.paperform.co/ "Get a price range for a PCI audit.")
+    
+    * [\[Enterprise\] HITRUST Assessment Pricing](https://sm-hitrust-calc.paperform.co/ "[Enterprise] HITRUST Assessment Pricing")
+        * [Get a price range for a HITRUST assessment.](https://sm-hitrust-calc.paperform.co/ "Get a price range for a HITRUST assessment.")
     * [\[Enterprise\] HIPAA Compliance](https://securitymetrics.paperform.co/ "[Enterprise] HIPAA Compliance")
         * [Get a price range for a HIPAA compliance assessment.](https://securitymetrics.paperform.co/ "Get a price range for a HIPAA compliance assessment.")
     
