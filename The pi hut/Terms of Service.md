@@ -2,8 +2,6 @@
 
 [Skip to content](#main)
 
-\*\*\* Black Friday catch-up - shipping delays expected (2-3 days) \*\*\*\*\*\* Black Friday catch-up - shipping delays expected (2-3 days) \*\*\*
-
 Navigation
 
 [The Pi Hut ![The Pi Hut Christmas Logo](//thepihut.com/cdn/shop/files/the_pi_hut_christmas_logo_360x.png?v=1730895868)](https://thepihut.com/) 
