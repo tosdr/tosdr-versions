@@ -79,7 +79,7 @@ Torstrasse 19
 **Privacy Policy Last Update Date:** December 2024  
 ‍
 
-AMBOSS is the rights holder, provider and operator of the online knowledge and learning program "AMBOSS" for students of human medicine, doctors and other healthcare professionals. We want you, as a user of our services, to understand how we use information and what options you have to protect your data. We are aware of the importance and sensitivity of your personal data and thank you for your trust. Handling it responsibly is a major concern for us. If you have any questions about this, please do not hesitate to contact us.
+AMBOSS is the rights holder, provider and operator of the online knowledge and learning program "AMBOSS" for students of medicine, doctors and other healthcare professionals. We want you, as a user of our services, to understand how we use information and what options you have to protect your data. We are aware of the importance and sensitivity of your personal data and thank you for your trust. Handling it responsibly is a major concern for us. If you have any questions about this, please do not hesitate to contact us.
 
 If you use AMBOSS as part of an institutional license, we may process certain personal data on the AMBOSS Program as a data processor for or, alternatively, in joint control with your institution. More information is available in section 3.4.
 
