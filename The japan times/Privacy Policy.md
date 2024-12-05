@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437909.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Kentaro Okuda, CEO of Nomura Holdings, speaks during a news conference in Tokyo on Tuesday.")](https://www.japantimes.co.jp/business/2024/12/03/companies/nomura-salary-cut/ "Nomura CEO takes pay cut after former employee charged with attempted murder")
 
+[Yoon’s gambit a tempest in a teapot for financial markets](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
+
+  [![A screen displays market data at Hana Bank in Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438240.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen displays market data at Hana Bank in Seoul on Wednesday.")](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
+
 [U.S. Space Force launches first unit in Japan](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
 
   [![Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.")](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Seven strangers and an algorithm: Can this new dinner app help you make friends?](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
 
   [![Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Timeleft uses an algorithm to match its users with five or six strangers in an effort to prompt “human connection” over dinner at a restaurant. It determines the attendees with the help of a simple personality quiz available when you sign up for the service.")](https://www.japantimes.co.jp/community/2024/12/02/issues/timeleft-app-japan-loneliness/ "Seven strangers and an algorithm: Can this new dinner app help you make friends?")
-
-[Don’t worry, you can still use your Japan health insurance card — for now](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
-
-  [![A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/437264.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A My Number card reader at a pediatric clinic in Tokyo. While the government will stop issuing new health insurance cards on Monday, most people will remain unaffected by the move in the short term as existing health insurance cards can still be used for another year.")](https://www.japantimes.co.jp/news/2024/12/01/japan/explainer/my-number-insurance-card-explainer/ "Don’t worry, you can still use your Japan health insurance card — for now")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,21 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[U.S. Defense Secretary Austin planning to visit Japan next week](https://www.japantimes.co.jp/news/2024/12/04/japan/defense-austin-visit/ "U.S. Defense Secretary Austin planning to visit Japan next week")
+[U.S. think tanks' policy 'grand bargain' comes amid deep partisanship](https://www.japantimes.co.jp/news/2024/12/05/world/politics/us-think-tanks-compromise-possible/ "U.S. think tanks' policy 'grand bargain' comes amid deep partisanship")
 
-10 hours ago
+23 mins ago
 
-[Panasonic plant in U.K. to go fully renewable](https://www.japantimes.co.jp/business/2024/12/04/panasonic-uk-plant/ "Panasonic plant in U.K. to go fully renewable")
+[Amnesty says Israel has committed genocide against Palestinians in Gaza](https://www.japantimes.co.jp/news/2024/12/05/world/crime-legal/amnesty-report-gaza-genocide/ "Amnesty says Israel has committed genocide against Palestinians in Gaza")
 
-10 hours ago
+1 hour ago
 
-[Trump taps team geared toward retribution and remaking of U.S. government](https://www.japantimes.co.jp/news/2024/12/04/world/politics/trump-team-retribution/ "Trump taps team geared toward retribution and remaking of U.S. government")
+[Questions of motive emerge in UnitedHealthcare CEO’s killing](https://www.japantimes.co.jp/news/2024/12/05/world/crime-legal/unitedhealthcare-ceo-killing/ "Questions of motive emerge in UnitedHealthcare CEO’s killing")
 
-10 hours ago
+1 hour ago
 
-[When undersea cables break, a wireless world’s vulnerability is exposed](https://www.japantimes.co.jp/news/2024/12/04/world/cables-under-sea-wireless-vulnerability/ "When undersea cables break, a wireless world’s vulnerability is exposed")
+[Japanese electronics firms rethink uniform starting salaries](https://www.japantimes.co.jp/business/2024/12/05/companies/electronics-firms-starting-salaries/ "Japanese electronics firms rethink uniform starting salaries")
 
-[Trump considers replacing Hegseth with DeSantis to run Pentagon, report says](https://www.japantimes.co.jp/news/2024/12/04/world/politics/desantis-trump-defense-secretary/ "Trump considers replacing Hegseth with DeSantis to run Pentagon, report says")
+1 hour ago
+
+[How to impeach a South Korean president](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeach-explainer/ "How to impeach a South Korean president")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
