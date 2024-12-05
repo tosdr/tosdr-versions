@@ -95,9 +95,9 @@ Search for:
 
 * [What is rock-climbing?](https://xworld.org/sports/what-is-rock-climbing/)
 * [Do Business Coaches Need a Strong Brand?](https://xworld.org/business/do-business-coaches-need-a-strong-brand/)
+* [An Introduction to the Notary Process](https://xworld.org/law/an-introduction-to-the-notary-process/)
 * [Explore The Scenic Cotswolds With A Personalised Tour](https://xworld.org/tour-and-travel/explore-the-scenic-cotswolds-with-a-personalised-tour/)
 * [The Art and Science of Chemical Blending: Innovations and Applications](https://xworld.org/reviews/the-art-and-science-of-chemical-blending-innovations-and-applications/)
-* [Why Resort Condos Are Ideal for Group Vacations](https://xworld.org/tour-and-travel/why-resort-condos-are-ideal-for-group-vacations/)
 
 ### Categories
 
