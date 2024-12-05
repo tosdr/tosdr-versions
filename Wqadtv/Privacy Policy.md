@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f6c190db-ab67-4764-aea1-7ac0cd71cc7d/20241205T163716/f6c190db-ab67-4764-aea1-7ac0cd71cc7d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f6c190db-ab67-4764-aea1-7ac0cd71cc7d/20241205T163716/f6c190db-ab67-4764-aea1-7ac0cd71cc7d_360x203.jpg)](https://www.wqad.com/article/news/local/burlington-house-fire-total-loss-destroyed-winds/526-ca1bde29-06c0-4806-a178-aff4c4ce88e5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
         
-        #### [Burlington home destroyed by fire, no injuries reported](https://www.wqad.com/article/news/local/burlington-house-fire-total-loss-destroyed-winds/526-ca1bde29-06c0-4806-a178-aff4c4ce88e5)
+        #### [Moline high schoolers devour donuts to raise money for Quad Cities children during Share Joys](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe) [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0b56afe3-e175-4507-b787-01d7791eade9/0b56afe3-e175-4507-b787-01d7791eade9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0b56afe3-e175-4507-b787-01d7791eade9/0b56afe3-e175-4507-b787-01d7791eade9_360x203.jpg)](https://www.wqad.com/article/news/local/city-of-davenport-state-auditor-investigation-settlement-agreements/526-bac8a61d-ca7a-468d-a0b0-8457bfec986b)
+        #### [Moline high schoolers devour donuts during Share Joys to raise money for QC children](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe) [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
         
-        #### [Davenport settlement investigation: Court rules City must release closed session recordings for judge to review](https://www.wqad.com/article/news/local/city-of-davenport-state-auditor-investigation-settlement-agreements/526-bac8a61d-ca7a-468d-a0b0-8457bfec986b)
+        #### [Moline high schoolers devour Share Joys donuts to raise money for Quad Cities children](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        
+        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +59,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d2260e10-41af-46f7-abbe-14bdcab80a84/20240714T184515/d2260e10-41af-46f7-abbe-14bdcab80a84_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/510753276/510753276_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/510753276/510753276_360x203.jpg)](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-        #### [Wind gusts could reach 50 mph Wednesday: Storm Track 8 Weather Impact Alert](https://www.wqad.com/article/weather/weather-impact/storm-track-8-weather-impact-alert-wqad-high-winds-wednesday/526-0676b68f-1675-4960-aa30-a2fd7a34fdad)
+        #### [Tsunami warning lifted after strong earthquakes hit off Northern California coast](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01/20241205T131343/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01/20241205T131343/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -78,9 +81,9 @@ Navigation
         
         #### [Iowa, former Michigan QB Cade McNamara to enter transfer portal](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-qb-cade-mcnamara-transfer-portal-hawkeyes/524-defe3d18-5d06-4b1b-93b5-bf773e664970)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_360x203.jpg)](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-14/526-73bd2406-a106-4858-ac8d-040e18522cec)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d0a9e00d-bf33-451d-92b6-1a34013eef0f/20241022T200255/d0a9e00d-bf33-451d-92b6-1a34013eef0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d0a9e00d-bf33-451d-92b6-1a34013eef0f/20241022T200255/d0a9e00d-bf33-451d-92b6-1a34013eef0f_360x203.jpg)](https://www.wqad.com/article/sports/college/illini/national-signing-day-illinois-football-bret-bielema/526-02f87c48-2e3f-4707-8667-e740608cac2c)
         
-        #### [Vote for this week's Midwest Technical Institute Score Standout | Week 14](https://www.wqad.com/article/sports/the-score/vote-for-this-weeks-midwest-technical-institute-score-standout-week-14/526-73bd2406-a106-4858-ac8d-040e18522cec)
+        #### [National Signing Day, Illinois Football Recruiting: The Secret Behind Bret Bielema's Success](https://www.wqad.com/article/sports/college/illini/national-signing-day-illinois-football-bret-bielema/526-02f87c48-2e3f-4707-8667-e740608cac2c)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,7 +100,7 @@ Navigation
 
 Davenport, IA »
 
-16°
+20°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
