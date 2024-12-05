@@ -159,17 +159,17 @@
     
     11 月 7, 2024 3
     
-* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 6](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 6")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+* [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 6](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 6")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
+    
+    [开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
+    
+    11 月 5, 2024 2
+    
+* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 7](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 7")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
     
     [首发限免 | Aiarty Image Matting：轻松实现抠图换背](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
     
     11 月 22, 2024 2
-    
-* [![双 11 榜单，哪些软件买的人最多 7](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 7")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
-    
-    [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
-    
-    11 月 12, 2024 2
     
 * [![29 年后，正版 WinRAR 终于来了 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-28T141542.151-115x115.jpg "29 年后，正版 WinRAR 终于来了 8")](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
     
@@ -177,11 +177,11 @@
     
     11 月 28, 2024 2
     
-* [![开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-05T142923.773-1-115x115.jpg "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭 9")](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
+* [![双 11 榜单，哪些软件买的人最多 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 9")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
     
-    [开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭](https://www.appinn.com/omnivore-shutting-down/ "开源稍后阅读工具 Omnivore 被收购，并将在本月底关闭")
+    [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
     
-    11 月 5, 2024 2
+    11 月 12, 2024 2
     
 
 ### 分类
