@@ -1,3 +1,3 @@
-![](https://px.adentifi.com/Pixels?a_id=3976;uq=051220240744162155;)
+![](https://px.adentifi.com/Pixels?a_id=3976;uq=051220240146347594;)
 
 Holiday Sale: Discounts on [Family Finder](https://www.familytreedna.com/products/family-finder), [Y-DNA](https://www.familytreedna.com/products/y-dna), [mtDNA](https://www.familytreedna.com/products/mt-dna), & All [Bundles](https://www.familytreedna.com/products/bundles)! Now through Jan 1st.
