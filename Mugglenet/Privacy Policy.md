@@ -312,15 +312,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall’s mother kept her own magical heritage a secret from her Muggle husband for years, which made her life very sad and difficult.
+The Unlocking Charm (Alohomora) is known as “thief’s friend.”
 
 ### Potter History
 
-December 15, 2004 – Producer David Heyman says Harry Potter and the Goblet of Fire filming is 75% complete.
+December 17, 2008 – Scholastic announces that The Tales of Beedle the Bard sold 2.6 million copies worldwide in the first week on sale.
 
 ### Potter Quote
 
-“You’ve gone middle head!”
+“She tasted disgusting, worse than Gurdyroots!”
 
 [](#)
 
