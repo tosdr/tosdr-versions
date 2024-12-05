@@ -8,23 +8,23 @@ SearchCtrl + K
 
 * [Legal Resources](https://vidazoo.gitbook.io/vidazoo-legal)
     
-* [Publisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)
-    
-* [Vidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
-    
 * [Website Terms of Use](https://vidazoo.gitbook.io/vidazoo-legal/website-terms-of-use)
-    
-* [Cookies Policy](https://vidazoo.gitbook.io/vidazoo-legal/cookies-policy)
     
 * [Terms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
     
-* [Privacy Rights Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-rights-policy)
+* [Publisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)
     
 * [Data Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
     
+* [Data Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
+    
+* [Vidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
+    
+* [Cookies Policy](https://vidazoo.gitbook.io/vidazoo-legal/cookies-policy)
+    
 * [Privacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
     
-* [Data Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
+* [Privacy Rights Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-rights-policy)
     
 * [DMCA Policy](https://vidazoo.gitbook.io/vidazoo-legal/dmca-policy)
     
@@ -94,6 +94,6 @@ _6\. Remedies_
 
 Client acknowledges and agrees that a breach of these Publisher Guidelines could result in immediate, extraordinary and irreparable damage to Vendor and its relationships with its partners, and that damages may be difficult to measure. Therefore, Client agrees that should it breach these Publisher Guidelines, in addition to any other remedy that Vendor is entitled to, then Vendor shall be entitled to seek injunctive relief without the requirement to post a bond, in addition to other legal remedies it may pursue. Vendor may, in its sole discretion and upon belief by Client of a breach of these Publisher Guidelines, suspend any running campaigns without liability to Client until such breach has ceased or been corrected. Vendor shall exercise commercially reasonable efforts to notify Client in advance of any such suspension, but in any case, as soon as reasonably practicable thereafter.
 
-[PreviousLegal Resources](https://vidazoo.gitbook.io/vidazoo-legal)[NextVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
+[PreviousTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)[NextData Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
 
 Last updated 3 months ago
