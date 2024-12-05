@@ -33,7 +33,7 @@ TERMS AND CONDITIONS
 
 Last updated: November 07, 2019
 
-These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with www.freedomain.com website (the “Service”) operated by Freedomain Radio (“us”, “we”, or “our”).
+These Terms and Conditions (“Terms”, “Terms and Conditions”) govern your relationship with www.freedomain.com website (the “Service”) operated by Freedomain (“us”, “we”, or “our”).
 
 Please read these Terms and Conditions carefully before using the Service.
 
@@ -46,14 +46,14 @@ Subscriptions
 
 Some parts of the Service are billed on a subscription basis (“Subscription(s)”). You will be billed in advance on a recurring and periodic basis (“Billing Cycle”). Billing cycles are set on a monthly basis.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Freedomain Radio cancels it. You may cancel your Subscription renewal through your online account management page.
+At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Freedomain cancels it. You may cancel your Subscription renewal through your online account management page.
 
-A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide Freedomain Radio with accurate and complete billing information and a valid payment method information. By submitting such payment information, you automatically authorize Freedomain Radio to charge all Subscription fees incurred through your account to any such payment instruments.
+A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide Freedomain with accurate and complete billing information and a valid payment method information. By submitting such payment information, you automatically authorize Freedomain to charge all Subscription fees incurred through your account to any such payment instruments.
 
 Refunds
 -------
 
-Certain refund requests for Subscriptions may be considered by Freedomain Radio on a case-by-case basis and granted in sole discretion of Freedomain Radio.
+Certain refund requests for Subscriptions may be considered by Freedomain on a case-by-case basis and granted in sole discretion of Freedomain.
 
 Content
 -------
@@ -82,14 +82,14 @@ You may not use as a username the name of another person or entity or that is no
 Intellectual Property
 ---------------------
 
-The Service and all contents, including but not limited to text, images, graphics or code are the property of Freedomain Radio and are protected by copyright, trademarks, database and other intellectual property rights. You may display and copy, download or print portions of the material from the different areas of the Service only for your own non-commercial use. Any other use is strictly prohibited and may violate copyright, trademark and other laws. These Terms do not grant you a license to use any trademark of Freedomain Radio or its affiliates. You further agree not to use, change or delete any proprietary notices from materials downloaded from the Service.
+The Service and all contents, including but not limited to text, images, graphics or code are the property of Freedomain and are protected by copyright, trademarks, database and other intellectual property rights. You may display and copy, download or print portions of the material from the different areas of the Service only for your own non-commercial use. Any other use is strictly prohibited and may violate copyright, trademark and other laws. These Terms do not grant you a license to use any trademark of Freedomain or its affiliates. You further agree not to use, change or delete any proprietary notices from materials downloaded from the Service.
 
 Links To Other Web Sites
 ------------------------
 
-The Service may contain links to third-party web sites or services that are not owned or controlled by Freedomain Radio.
+The Service may contain links to third-party web sites or services that are not owned or controlled by Freedomain.
 
-Freedomain Radio has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Freedomain Radio shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such websites or services.
+Freedomain has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Freedomain shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such websites or services.
 
 We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.
 
@@ -105,23 +105,23 @@ Upon termination, your right to use the Service will immediately cease. If you w
 Indemnification
 ---------------
 
-You agree to indemnify, defend and hold harmless Freedomain Radio, its principals, officers, directors, representatives, employees, contractors, licensors, licensees, suppliers and agents, from and against any claims, losses, damages, obligations, costs, actions or demands.
+You agree to indemnify, defend and hold harmless Freedomain, its principals, officers, directors, representatives, employees, contractors, licensors, licensees, suppliers and agents, from and against any claims, losses, damages, obligations, costs, actions or demands.
 
 These include but are not limited to: (a) legal and accounting fees resulting from your use of the Service; (b) your breach of any of these Terms; (c) anything you post on or upload to the Service; and (d) any activity related to your account. This includes any negligent or illegal conduct by you, any person or entity accessing the Service using your account whether such access is obtained via fraudulent or illegal means.
 
 Limitation Of Liability
 -----------------------
 
-Freedomain Radio, its directors, employees, partners, agents, suppliers, or affiliates, shall not be liable for any loss or damage, direct or indirect, incidental, special, consequential or punitive damages, including without limitation, economic loss, loss or damage to electronic media or data, goodwill, or other intangible losses, resulting from (i) your access to or use of the Service; (ii) your inability to access or use the Service; (iii) any conduct or content of any third-party on or related to the Service; (iv) any content obtained from or through the Service; and (v) the unauthorized access to, use of or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other claim in law, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
+Freedomain, its directors, employees, partners, agents, suppliers, or affiliates, shall not be liable for any loss or damage, direct or indirect, incidental, special, consequential or punitive damages, including without limitation, economic loss, loss or damage to electronic media or data, goodwill, or other intangible losses, resulting from (i) your access to or use of the Service; (ii) your inability to access or use the Service; (iii) any conduct or content of any third-party on or related to the Service; (iv) any content obtained from or through the Service; and (v) the unauthorized access to, use of or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other claim in law, whether or not we have been informed of the possibility of such damage, and even if a remedy set forth herein is found to have failed of its essential purpose.
 
 Disclaimer And Non-Waiver of Rights
 -----------------------------------
 
-Freedomain Radio makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in Canada. In such cases, the provincial law shall apply to the extent necessary.
+Freedomain makes no guarantees, representations or warranties of any kind as regards the website and associated technology. Any purportedly applicable warranties, terms and conditions are excluded, to the fullest extent permitted by law. Your use of the Service is at your sole risk. The Service is provided on an “AS IS” and “AS AVAILABLE” basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance, except as provided for under the laws of any province in Canada. In such cases, the provincial law shall apply to the extent necessary.
 
-Freedomain Radio its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+Freedomain its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
 
-If you breach any of these Terms and Freedomain Radio chooses not to immediately act, or chooses not to act at all, Freedomain Radio will still be entitled to all rights and remedies at any later date, or in any other situation, where you breach these Terms. Freedomain Radio does not waive any of its rights. Freedomain Radio shall not be responsible for any purported breach of these Terms caused by circumstances beyond its control. A person who is not a party to these Terms shall have no rights of enforcement.
+If you breach any of these Terms and Freedomain chooses not to immediately act, or chooses not to act at all, Freedomain will still be entitled to all rights and remedies at any later date, or in any other situation, where you breach these Terms. Freedomain does not waive any of its rights. Freedomain shall not be responsible for any purported breach of these Terms caused by circumstances beyond its control. A person who is not a party to these Terms shall have no rights of enforcement.
 
 You may not assign, sub-license or otherwise transfer any of your rights under these Terms.
 
