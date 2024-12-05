@@ -2,11 +2,11 @@
 
 [![Nextcloud Talk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "Nextcloud Talk: Our Open-Source answer to Microsoft Teams")
+![Nextcloud Talk](https://nextcloud.com/c/uploads/2022/10/nc-talk-icon-blue.svg)](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
-[Introducing **Nextcloud Talk** „Paris“](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "Nextcloud Talk: Our Open-Source answer to Microsoft Teams")
+[The **open source answer** to Microsoft Teams](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
-[Learn more](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "Nextcloud Talk: Our Open-Source answer to Microsoft Teams")
+[Learn more](https://nextcloud.com/blog/nextcloud-talk-our-open-source-answer-to-microsoft-teams/ "The open source answer to Microsoft Teams")
 
 [![Nextcloud Hub 9 is here!
 ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
