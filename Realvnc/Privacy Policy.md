@@ -28,9 +28,9 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealVNC Developer
+    * [RealVNC OEM Solutions
         
-        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
+        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/realvnc-oem-solutions/)
     * [Values](#)
         * [Security](https://www.realvnc.com/en/connect/security/)
         * [Trust](https://trust.realvnc.com/)
@@ -49,6 +49,13 @@ Menu
     * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+* [Industries](#industries)
+    * [Industries](#)
+        * [Manufacturing](https://www.realvnc.com/en/industry/manufacturing/)
+        * [Healthcare](https://www.realvnc.com/en/industry/healthcare/)
+        * [Energy & Utilities](https://www.realvnc.com/en/industry/energy-and-utilities/)
+        * [Education](https://www.realvnc.com/en/industry/education/)
+        * [Managed Service Provider](https://www.realvnc.com/en/industry/managed-service-providers/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
@@ -112,9 +119,9 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealVNC Developer
+    * [RealVNC OEM Solutions
         
-        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
+        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/realvnc-oem-solutions/)
     * [Values](#)
         * [Security](https://www.realvnc.com/en/connect/security/)
         * [Trust](https://trust.realvnc.com/)
@@ -133,6 +140,13 @@ Menu
     * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+* [Industries](#industries)
+    * [Industries](#)
+        * [Manufacturing](https://www.realvnc.com/en/industry/manufacturing/)
+        * [Healthcare](https://www.realvnc.com/en/industry/healthcare/)
+        * [Energy & Utilities](https://www.realvnc.com/en/industry/energy-and-utilities/)
+        * [Education](https://www.realvnc.com/en/industry/education/)
+        * [Managed Service Provider](https://www.realvnc.com/en/industry/managed-service-providers/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
@@ -170,9 +184,9 @@ Menu
     * [RealVNC Connect
         
         Keep your organization connected with secure, reliable remote access to desktop and mobile devices.](https://www.realvnc.com/en/connect/)
-    * [RealVNC Developer
+    * [RealVNC OEM Solutions
         
-        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/developer/)
+        Integrate RealVNC technology into your own products to deliver remote access capabilities.](https://www.realvnc.com/en/realvnc-oem-solutions/)
     * [Values](#)
         * [Security](https://www.realvnc.com/en/connect/security/)
         * [Trust](https://trust.realvnc.com/)
@@ -191,6 +205,13 @@ Menu
     * [On-Demand Webinar:How to stay safe with remote access in 5 easy steps![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20933%20421'%3E%3C/svg%3E)
         
         ![](https://www.realvnc.com/wp-content/uploads/2024/01/remote-access-enhanced.png)](https://www.realvnc.com/en/connect/webinars/how-to-stay-safe-with-remote-access-in-5-easy-steps/)
+* [Industries](#industries)
+    * [Industries](#)
+        * [Manufacturing](https://www.realvnc.com/en/industry/manufacturing/)
+        * [Healthcare](https://www.realvnc.com/en/industry/healthcare/)
+        * [Energy & Utilities](https://www.realvnc.com/en/industry/energy-and-utilities/)
+        * [Education](https://www.realvnc.com/en/industry/education/)
+        * [Managed Service Provider](https://www.realvnc.com/en/industry/managed-service-providers/)
 * [Pricing](https://www.realvnc.com/en/connect/pricing/)
 * [Download](https://www.realvnc.com/en/connect/download/combined/)
 * [Insights](#)
