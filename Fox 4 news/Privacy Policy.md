@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![80-year-old woman missing in West Dallas, may need assistance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/linda-missing.png?ve=1&tl=1)
+
+ ![80-year-old woman missing in West Dallas, may need assistance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/linda-missing.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/linda-birdow-walker-missing)
+
+### [80-year-old woman missing in West Dallas, may need assistance](https://www.fox4news.com/news/linda-birdow-walker-missing)
+
  [![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/buttecounty.jpg?ve=1&tl=1)
 
  ![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/buttecounty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/school-shooting-oroville-california)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
 
 ### [Dallas surgeon helps Ukrainian soldiers injured in battle](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
-
- [![Will Governor DeSantis become Secretary DeSantis?](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/05/32/18/DESANTIS-AND-TRUMP-SIDE-BY-SIDE.jpg?ve=1&tl=1)
-
- ![Will Governor DeSantis become Secretary DeSantis?](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/05/32/18/592/333/DESANTIS-AND-TRUMP-SIDE-BY-SIDE.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
-
-### [Will Governor DeSantis become Secretary DeSantis?](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
 
 ###### [News](https://www.fox4news.com/news)
 
