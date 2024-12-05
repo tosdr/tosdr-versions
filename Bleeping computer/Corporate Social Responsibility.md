@@ -36,18 +36,18 @@
         
         US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
     
+    * [![Create clear and concise diagrams with this Microsoft Visio deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Create clear and concise diagrams with this Microsoft Visio deal](https://www.bleepingcomputer.com/offer/deals/create-clear-and-concise-diagrams-with-this-microsoft-visio-deal/)
+    * [![Mitel MiCollab zero-day flaw gets proof-of-concept exploit](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Mitel MiCollab zero-day flaw gets proof-of-concept exploit](https://www.bleepingcomputer.com/news/security/mitel-micollab-zero-day-flaw-gets-proof-of-concept-exploit/)
     * [![Microsoft says having a TPM is ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
     * [![White House: Salt Typhoon hacked telcos in dozens of countries](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         White House: Salt Typhoon hacked telcos in dozens of countries](https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/)
-    * [![FBI shares tips on how to tackle AI-powered fraud schemes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FBI shares tips on how to tackle AI-powered fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
-    * [![UK disrupts Russian money laundering networks used by ransomware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        UK disrupts Russian money laundering networks used by ransomware](https://www.bleepingcomputer.com/news/security/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
