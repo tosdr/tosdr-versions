@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
+* [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 * [Hegega booth](https://www.msx.org/photoshoots/hegega-booth "Hegega booth")
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=7 "Christmas Quiz 2024")
-* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
-* [MSX Omega cases](https://www.msx.org/forum/msx-talk/hardware/msx-omega-cases?page=2 "MSX Omega cases")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
-* [Generate QR codes on your MSX](https://www.msx.org/forum/msx-talk/development/generate-qr-codes-on-your-msx?page=1 "Generate QR codes on your MSX")
 * [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
-* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=9 "Christmas Quiz 2024")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=78 "WonderTANG! Who wants to juice up your MSX?")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
+* [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
+* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
+* [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
+* [MSX Omega cases](https://www.msx.org/forum/msx-talk/hardware/msx-omega-cases?page=2 "MSX Omega cases")
+* [Generate QR codes on your MSX](https://www.msx.org/forum/msx-talk/development/generate-qr-codes-on-your-msx?page=1 "Generate QR codes on your MSX")
+* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
 * [Word Processing.](https://www.msx.org/forum/msx-talk/software/word-processing "Word Processing.")
 * [Joy Kid - Sensor Kid on the Joystick port](https://www.msx.org/forum/msx-talk/development/joy-kid-sensor-kid-on-the-joystick-port "Joy Kid - Sensor Kid on the Joystick port")
-* [ALIEN-SOFT group](https://www.msx.org/forum/msx-talk/software/alien-msx-group "ALIEN-SOFT group")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
