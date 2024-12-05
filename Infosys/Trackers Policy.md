@@ -264,7 +264,7 @@ Cookie Policy
 
 Cookie Settings
 
-_Last updated on 15th May 2024_
+_Last updated on 5th December 2024_
 
 **Cookies** are small text files that, like most other Web servers, we place in your device that you use to access our website. This is done to recognize your device during a session or in your future visits to our website, primarily in order to provide better user experience.
 
@@ -295,6 +295,19 @@ For more information on how these companies collect and use information on our b
 | Tintup | Show relevant, aggregated content from social media on Infosys websites | [https://www.tintup.com/privacy](https://www.tintup.com/privacy) |
 | Twitter | Show targeted, relevant advertisements and re-targeted advertisements to visitors of Infosys websites | [https://twitter.com/en/privacy](https://twitter.com/en/privacy)  <br>Opt out: [https://twitter.com/personalization](https://twitter.com/personalization)  <br>DAA: [http://optout.aboutads.info/](http://optout.aboutads.info/) |
 | Influ2 | Show targeted, relevant advertisements | [https://www.influ2.com/privacy](https://www.influ2.com/privacy "https://www.influ2.com/privacy")  <br>[https://www.influ2.com/cookies](https://www.influ2.com/cookies) |
+
+First party cookies
+-------------------
+
+In addition to the aforementioned third-party cookies, we also deploy certain first-party cookies. First-party cookies are small text files that are stored on your device when you visit our website. These cookies perform multiple functions some of which may be essential for the smooth functioning of our website. In addition, they help us in providing you with a personalized and efficient browsing experience. By using such cookies, we can also tailor content to your preferences, improve our website performance, and analyze website traffic to identify areas for improvement. The cookies help us provide these functionalities and services based on information they collect about your browsing activities on our sites, such as the pages you visit, the links you click, assets you download and how long you are on our sites.
+
+Other than the strictly necessary cookies, you can opt-out of such deploying such cookies from our cookie banner. However, allowing such cookies will assist us in making your experience smoother, more catered to your preferences, and help us provide you with specific content that you may be relevant to you.
+
+For more information on how these cookies collect and use information, please refer to the details provided in the table below:
+
+| First Party Company/platform | Purpose | Applicable Privacy/Cookie Policy Link |
+| --- | --- | --- |
+| Marcom | Personalized email-based interactions | Privacy Policy: [https://www.infosys.com/privacy-statement.html](https://www.infosys.com/privacy-statement.html "https://www.infosys.com/privacy-statement.html")  <br>Opt Out: For changing your preferences with respect to cookies, please click on “Choose Cookies” option on the top of this page. |
 
 Cookie retention
 ----------------
