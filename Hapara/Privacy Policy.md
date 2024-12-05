@@ -238,7 +238,6 @@ Power awesome digital learning anywhere, anytime.
     * [Ethical monitoring](https://hapara.com/ethical-monitoring-pledge/)
 * Resources
     * [Contact us](https://hapara.com/contact/)
-    * [Product updates](https://hapara.com/product-updates/)
     * [Events and conferences](https://hapara.com/events/)
     * [For parents](https://hapara.com/for-parents/)
     * [Federal funding](https://hapara.com/federal-funding-for-k12/)
