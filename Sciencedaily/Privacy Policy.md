@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 4, 2024**
+**December 5, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [18 of 19 NHL Players Had CTE](https://www.sciencedaily.com/releases/2024/12/241204113518.htm)
+* [Tyrannosaurs Once Roamed East Sussex, England](https://www.sciencedaily.com/releases/2024/12/241205142905.htm)
+* [How Universe's Giant Galaxies Formed](https://www.sciencedaily.com/releases/2024/12/241204113515.htm)
+* [How Did Human Brains Get So Big?](https://www.sciencedaily.com/releases/2024/12/241203154642.htm)
 * [Culture and Emotional Experience in Humans](https://www.sciencedaily.com/releases/2024/12/241204113643.htm)
 * [Recovery from Trauma](https://www.sciencedaily.com/releases/2024/12/241204113527.htm)
 * [Manta Rays Inspire Fast Swimming Soft Robot](https://www.sciencedaily.com/releases/2024/12/241204145135.htm)
 * [Mammoth as Key Food Source for Ancient Americans](https://www.sciencedaily.com/releases/2024/12/241204145021.htm)
 * [How Did Humans and Dogs Become Friends?](https://www.sciencedaily.com/releases/2024/12/241204145004.htm)
 * [Lasting Effects of Common Herbicide On the Brain](https://www.sciencedaily.com/releases/2024/12/241204113640.htm)
-* [Plastic-Eating Bugs May Help With Microplastics](https://www.sciencedaily.com/releases/2024/12/241203194324.htm)
-* [Massive Asteroid Impacts and Earth's Climate](https://www.sciencedaily.com/releases/2024/12/241204114317.htm)
-* [The Heart Has Its Own 'Brain'](https://www.sciencedaily.com/releases/2024/12/241204114304.htm)
-* [Owning a Home in the US Linked to Longer Life](https://www.sciencedaily.com/releases/2024/12/241204114018.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Nutrition](https://www.sciencedaily.com/news/health_medicine/nutrition/)
-
-[Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
 [Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
+[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
-
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+
+[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+
 [Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
-
-[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
