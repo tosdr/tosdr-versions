@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.kagstv.com/assets/KARE/images/a0bde2bc-640c-4d6c-a666-45cad7f5e470/a0bde2bc-640c-4d6c-a666-45cad7f5e470_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/a0bde2bc-640c-4d6c-a666-45cad7f5e470/a0bde2bc-640c-4d6c-a666-45cad7f5e470_360x203.jpg)](https://www.kagstv.com/article/news/local/texas/texas-tribune-copy-texas-ban-social-media-as-schools-struggle/500-1652ae11-41a3-4272-8342-b37f0e8cb5d4)
+    *  [![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_16x9.jpg) ![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_360x203.jpg)](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
         
-        #### [Texas weighs social media bans for minors as schools and police face challenges](https://www.kagstv.com/article/news/local/texas/texas-tribune-copy-texas-ban-social-media-as-schools-struggle/500-1652ae11-41a3-4272-8342-b37f0e8cb5d4)
+        #### [Quick response prevents disaster at Brenham High School, classes remain unaffected](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
         
-    *  [![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_360x203.jpg)](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
+    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-dominik-apartments-high-risk-narcotics-search-warrant-arrest/500-d886dea2-e074-4059-9ee8-aec1f520e80b)
         
-        #### [Three juveniles arrested for alleged vehicle burglaries in Bryan](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
+        #### [One in custody after high-risk narcotics warrant executed in College Station, police say](https://www.kagstv.com/article/news/crime/college-station-dominik-apartments-high-risk-narcotics-search-warrant-arrest/500-d886dea2-e074-4059-9ee8-aec1f520e80b)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -72,6 +72,17 @@ Navigation
     * [Brazos Valley Bombers](https://www.kagstv.com/brazos-valley-bombers)
     * [Locked On Podcast Network](https://lockedonpodcasts.com/)
     
+    Latest Stories
+    
+    *  [![](https://media.kagstv.com/assets/KAGS/images/c106e7bc-247e-43b5-bb72-3191c6b9794a/c106e7bc-247e-43b5-bb72-3191c6b9794a_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/c106e7bc-247e-43b5-bb72-3191c6b9794a/c106e7bc-247e-43b5-bb72-3191c6b9794a_360x203.jpg)](https://www.kagstv.com/article/sports/ncaa/aggies/tamu-football-spring-2024-transfer-portal-player-list/499-3e4b757c-67b5-467f-9b08-58fb1ceed29a)
+        
+        #### [List: Players that have transferred in and out of Texas A&M in the spring transfer portal window](https://www.kagstv.com/article/sports/ncaa/aggies/tamu-football-spring-2024-transfer-portal-player-list/499-3e4b757c-67b5-467f-9b08-58fb1ceed29a)
+        
+    *  [![](https://media.kagstv.com/assets/CCT/images/c159bf6b-620a-48a2-bfcc-2bbb4afdb110/c159bf6b-620a-48a2-bfcc-2bbb4afdb110_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/c159bf6b-620a-48a2-bfcc-2bbb4afdb110/c159bf6b-620a-48a2-bfcc-2bbb4afdb110_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/reggie-bush-getting-heisman-trophy-back/507-18cf0a68-19bb-4e95-8e0a-51d79a13534f)
+        
+        #### [Reggie Bush gets his Heisman Trophy back](https://www.kagstv.com/article/news/nation-world/reggie-bush-getting-heisman-trophy-back/507-18cf0a68-19bb-4e95-8e0a-51d79a13534f)
+        
+    
 * [VERIFY](https://www.kagstv.com/verify)
 * [![Watch Live](/assets/shared-images/logos/native/kags.svg)](https://www.kagstv.com/watch)
     
@@ -86,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-55°
+63°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
