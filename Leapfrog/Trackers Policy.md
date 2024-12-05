@@ -1,4 +1,4 @@
-[![LeapFrog Logo](https://shared.leapfrog.com/v27-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
+[![LeapFrog Logo](https://shared.leapfrog.com/v28-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
 
 [![Search](https://t7.leapfrog.com/images/mobile-nav-icon/search_icon.png)](#)[![Cart](https://t7.leapfrog.com/images/mobile-nav-icon/cart_icon.png)](https://store.leapfrog.com/en-us/account/checkout)![Menu](https://t7.leapfrog.com/images/mobile-nav-icon/menu_icon.png)
 
@@ -205,6 +205,9 @@ Besides selecting (or updating) your preferences on our website’s cookie inter
 
 If you choose to disable cookies, certain features of the Services may not be available or work properly.  
   
+
+LeapFrog Footer
+---------------
 
 [![](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/back-to-top-arrow.png)Back to Top](#pageTop)
 
