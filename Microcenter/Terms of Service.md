@@ -40,7 +40,7 @@ Search for product
     
     Dallas
     
-    Opens at 9AM
+    Open until 9PM
     
     ![get store info](https://60a99bedadae98078522-a9b6cded92292ef3bace063619038eb1.ssl.cf2.rackcdn.com/chevron-downWhite.svg)
     
@@ -88,7 +88,7 @@ Search for product
         
         Questions? Text or call
         
-        Closed
+        Open Now
         
         Mon - Sat 9 to 9, Sun 10 to 7
         
@@ -838,7 +838,7 @@ Product category, brand navigation and general site naviation
         
     * Services
         
-        Services options - 5 groups of items - 16 total selections
+        Services options - 5 groups of items - 17 total selections
         
         * Troubleshooting & Repair
             
@@ -852,6 +852,7 @@ Product category, brand navigation and general site naviation
             
             * [Custom PC Build Services](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
             * [GPU Trade-In Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
+            * [Recycling Program](https://www.microcenter.com/site/content/recycling-program.aspx)
         * Software Services
             
             * [Data Migration & Software Support](https://www.microcenter.com/site/service/software-support.aspx)
@@ -939,7 +940,7 @@ Product category, brand navigation and general site naviation
         
     * [Account Sign in](https://account.microcenter.com/members/account.aspx)
 * [Top Deals](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv)
-    * [CYBER MONDAY DEALS](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
+    * [CYBER WEEK DEALS](https://www.microcenter.com/search/search_results.aspx?Ntt=5126&Ntk=Adv)
     * [PC Parts](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966998)
     * [Processors](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294966995)
     * [SSDs](https://www.microcenter.com/search/search_results.aspx?Ntt=5206&Ntk=Adv&N=4294945779)
@@ -992,6 +993,7 @@ Product category, brand navigation and general site naviation
     * [Laptop Screen Replacement](https://www.microcenter.com/product/607202/laptop-screen-repair-service)
     * [Apple Certified Repair](https://www.microcenter.com/site/service/apple-repair.aspx)
     * [GPU Trade-in Program](https://www.microcenter.com/site/content/trade-in-landing.aspx)
+    * [Recycling Program](https://www.microcenter.com/site/content/recycling-program.aspx)
     * [Virus Removal](https://www.microcenter.com/site/service/instore-service-virus-removal.aspx)
     * [Data Recovery](https://www.microcenter.com/site/service/instore-service-hdd-data-recovery.aspx)
     * [Custom Built PCs](https://www.microcenter.com/site/service/instore-service-complete-build.aspx)
@@ -1139,7 +1141,7 @@ Footer Navigation
     * [Services](https://www.microcenter.com/site/service/service.aspx)
     * [Frequently Asked Questions](https://community.microcenter.com/kb)
     * [Safe Shopping Promise](https://www.microcenter.com/site/customer-support/security.aspx)
-    * [Recycling](https://www.microcenter.com/site/customer-support/recycling.aspx)
+    * [Recycling](https://www.microcenter.com/site/content/recycling-program.aspx)
     * [Protection Plans](https://www.microcenter.com/site/customer-support/protection-plans/protection-plans-master.aspx)
 * Shopping
     
