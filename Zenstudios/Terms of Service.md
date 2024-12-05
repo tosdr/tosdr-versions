@@ -19,7 +19,7 @@
 * [Reddit](https://www.reddit.com/r/PinballFX3/)
 * [Twitch](https://www.twitch.tv/zenstudios)
 
-[![Camp Bloodbrook - Pinball M](https://zensite.wpenginepowered.com/wp-content/uploads/2024/09/Pinball_FX_Camp_bloodbrook_thumbnail.jpg)](https://zenstudios.com/games/camp-bloodbrook-pinball-m/)
+[![Willliams™ Pinball Volume 8](https://zensite.wpenginepowered.com/wp-content/uploads/2024/09/Williams_Pinball_Volume_8_ZenWebBackground_Dec_12-1-scaled.jpg)](https://zenstudios.com/games/willliams-pinball-volume-8/)
 
 * [YouTube](http://www.youtube.com/user/zenstudiosgames)
 * [Instagram](http://instagram.com/zen_studios)
