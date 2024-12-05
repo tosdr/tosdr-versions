@@ -1127,7 +1127,7 @@ Direkteinstiege
     * * *
     
     * [![Laut connect Mobilfunknetztest, Heft 01/2025](https://www.telekom.de/resources/images/1188824/connect-testsieger-mobilfunk-und-5g-netztest-2025-telekom-footer.png "Laut connect Mobilfunknetztest, Heft 01/2025")](https://www.telekom.de/ueber-das-unternehmen/auszeichnungen#connect-mobilfunk-und-5g-netztest)
-    * [![Laut CHIP Mobilfunknetztest, Heft 01/2024](https://www.telekom.de/resources/images/824920/chip-bestes-netz-test-mobilfunknetze-2024-telekom.jpg "Laut CHIP Mobilfunknetztest, Heft 01/2024")](https://www.telekom.de/ueber-das-unternehmen/auszeichnungen#chip-bestes-netz-test-mobilfunknetze)
+    * [![Laut CHIP Mobilfunknetztest, Heft November 2024](https://www.telekom.de/resources/images/824920/chip-bestes-netz-test-mobilfunknetze-2024-telekom-footer.png "Laut CHIP Mobilfunknetztest, Heft November 2024")](https://www.telekom.de/ueber-das-unternehmen/auszeichnungen#chip-bestes-netz-test-mobilfunknetze)
     * [![connect-testsieger-festnetztest-bundesweite-anbieter-2023-telekom](https://www.telekom.de/resources/images/968202/connect-testsieger-festnetztest-bundesweite-anbieter-2024-telekom.png)](https://www.telekom.de/ueber-das-unternehmen/auszeichnungen#connect-festnetztest-bundesweite-anbieter)
     * [![wiwo-app-des-jahres](https://www.telekom.de/resources/images/1001614/wiwo-app-des-jahres-1platz-2024-meinmagenta.jpg)](https://www.telekom.de/ueber-das-unternehmen/auszeichnungen#wirtschaftswoche-app-des-jahres-2024)
     
