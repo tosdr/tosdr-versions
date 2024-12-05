@@ -263,7 +263,13 @@ article 1 week ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-miss
 
 ### Highlights
 
-[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+3 min read
+
+### Matt Dominick’s X Account: A Visual Journey from Space
+
+article 4 hours ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -275,35 +281,29 @@ article 3 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 3 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)[![Sierra Space’s LIFE (Large Integrated Flexible Environment) habitat following a full-scale ultimate burst pressure test at NASA’s Marshall Space Flight Center in Huntsville, Alabama](https://www.nasa.gov/wp-content/uploads/2024/11/sierra-space-image.png?w=1024)
-
-6 min read
-
-### NASA’s Commercial Partners Make Progress on Low Earth Orbit Projects
-
-article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-progress-on-low-earth-orbit-projects/)
+article 3 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)
 
 ### Highlights
 
-[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/ER2%20over%20Sierras.jpeg)
+
+6 min read
+
+### NASA Flights Map Critical Minerals from Skies Above Western US
+
+article 34 mins ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 16 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
 
 4 min read
 
 ### Expanded AI Model with Global Data Enhances Earth Science Applications 
 
-article 18 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
-
-2 min read
-
-### Amendment 75: New Opportunity: A.64 FORTE Science Team
-
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)
+article 1 day ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)
 
 ### Highlights
 
@@ -329,7 +329,13 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-d
 
 ### Featured
 
-[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
+[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_Quasar3C273_STScI-01JD58K5NSQX3PEWJ5R1MDG94D.png)
+
+4 min read
+
+### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
+
+article 1 hour ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
 
 4 min read
 
@@ -341,35 +347,29 @@ article 1 week ago](https://science.nasa.gov/universe/exoplanets/discovery-alert
 
 ### Amendment 72: D.14 Nancy Grace Roman Space Telescope Research and Support Participation Opportunities Final Text and Due Dates.
 
-article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)[![EXCITE (EXoplanet Climate Infrared TElescope)](https://science.nasa.gov/wp-content/uploads/2024/08/excite-mission-hero.jpg)
-
-2 min read
-
-### EXCITE (EXoplanet Climate Infrared TElescope)
-
-article 1 week ago](https://science.nasa.gov/mission/excite/)
+article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-72-d-14-nancy-grace-roman-space-telescope-research-and-support-participation-opportunities-final-text-and-due-dates/)
 
 ### Highlights
 
-[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_Quasar3C273_STScI-01JD58K5NSQX3PEWJ5R1MDG94D.png)
+
+4 min read
+
+### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
+
+article 1 hour ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
+
+1 min read
+
+### Fresh Eyes on Ice Project Wins Award
+
+article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 16 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
-
-4 min read
-
-### Expanded AI Model with Global Data Enhances Earth Science Applications 
-
-article 18 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
-
-1 min read
-
-### Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date
-
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-78-d-10-tess-general-investigator-program-final-text-and-due-date/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)
 
 ### Highlights
 
@@ -379,19 +379,19 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA Flips Efficient Wing Concept for Testing
 
-article 10 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
+article 20 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
 
 2 min read
 
 ### Scaled Power Electrified Drivetrain (SPEED)
 
-article 1 day ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 2 days ago](https://www.nasa.gov/speed/)[![A group of people are sitting at a desk looking at computers with headsets on. A man is pointing and smiling at one of the computer screens.](https://images-assets.nasa.gov/image/AFRC2024-0178-095/AFRC2024-0178-095~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 2 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
 
 4 min read
 
