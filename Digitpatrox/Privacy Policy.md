@@ -20,16 +20,16 @@ Thursday, December 5 2024
 
 Latest
 
-* [UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
-* [Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
-* [How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
-* [Medical trials of a four-day week just showed huge physical and mental health benefits – staff reported higher wellbeing, less burnout, and better sleep](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
-* [South Korea’s political unrest threatens the stability of global tech supply chains](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
-* [The Best Extended Cyber Monday Tech Deals at Amazon, Best Buy, and More](https://digitpatrox.com/the-best-extended-cyber-monday-tech-deals-at-amazon-best-buy-and-more/)
-* [Should You Buy a Walmart Onn TV?](https://digitpatrox.com/should-you-buy-a-walmart-onn-tv/)
-* [Xbox’s Year in Review is Back for 2024](https://digitpatrox.com/xboxs-year-in-review-is-back-for-2024/)
-* [How to add or remove the seconds from the Windows 11 clock](https://digitpatrox.com/how-to-add-or-remove-the-seconds-from-the-windows-11-clock/)
-* [Integrity360 expands European presence with Adsigo acquisition](https://digitpatrox.com/integrity360-expands-european-presence-with-adsigo-acquisition/)
+* [Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
+* [Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
+* [Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
+* [Police shuts down Manson cybercrime market, arrests key suspects](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
+* [Android 15’s first major update has arrived](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
+* [One UI 7 Beta Is Now Rolling Out for Samsung Galaxy S24 Series](https://digitpatrox.com/one-ui-7-beta-is-now-rolling-out-for-samsung-galaxy-s24-series/)
+* [Vodafone–Three merger cleared to proceed with commitment to invest heavily in UK 5G rollout](https://digitpatrox.com/vodafone-three-merger-cleared-to-proceed-with-commitment-to-invest-heavily-in-uk-5g-rollout/)
+* [Google DeepMind and World Labs unveil AI tools to create 3D spaces from simple prompts – Computerworld](https://digitpatrox.com/google-deepmind-and-world-labs-unveil-ai-tools-to-create-3d-spaces-from-simple-prompts-computerworld/)
+* [Famous (and Infamous) Movie Passion Projects](https://digitpatrox.com/famous-and-infamous-movie-passion-projects/)
+* [streaming di ITV in Italia](https://digitpatrox.com/streaming-di-itv-in-italia/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg)](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
+* [![](https://cdn.mos.cms.futurecdn.net/GeqLSHeTxNdGMyvmRTctje-1200-80.jpg)](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
     
-    [UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
+    [Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
+    
+    27 minutes ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_399295803.jpg)](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
+    
+    [Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
+    
+    31 minutes ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/nkK45RmioRy3sBR2FBLSoc-1200-80.png)](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
+    
+    [Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
     
     35 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/oKadMqQs0i-r0rjd6YPWx2HTsYA=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25774710/2156794866.jpg)](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/05/police_raid.jpg)](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
     
-    [Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
+    [Police shuts down Manson cybercrime market, arrests key suspects](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
     
-    52 minutes ago
+    2 hours ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Path-of-Exile-2-Preload-Guide.jpg)](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
+* [![](https://cdn.vox-cdn.com/thumbor/Slbltj1n_UWkt8RcKa0S1iJoU-g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg)](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
     
-    [How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
+    [Android 15’s first major update has arrived](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
     
-    1 hour ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/aRRpV7XnSYNFeHLRAh6zYj-1200-80.jpg)](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
-    
-    [Medical trials of a four-day week just showed huge physical and mental health benefits – staff reported higher wellbeing, less burnout, and better sleep](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
-    
-    3 hours ago
-    
-* [![](https://www.cio.com/wp-content/uploads/2024/12/3617847-0-42773600-1733388631-shutterstock_1769071073.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
-    
-    [South Korea’s political unrest threatens the stability of global tech supply chains](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
-    
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
+* [27 minutes ago
+    
+    ### Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
+* [31 minutes ago
+    
+    ### Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
 * [35 minutes ago
     
-    ### UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
-* [52 minutes ago
-    
-    ### Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
-* [1 hour ago
-    
-    ### How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
+    ### Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
 
 Most Popular Topics
 
-* [3 weeks ago
-    
-    ### Today’s Wordle Answer and Hints (November 14, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-14-2024/)
 * [2 weeks ago
     
-    ### Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
-* [October 29, 2024
+    ### DoJ demands Google sells Chrome — and potentially Android too](https://digitpatrox.com/doj-demands-google-sells-chrome-and-potentially-android-too/)
+* [October 27, 2024
     
-    ### Meet Scout, the Newest EV Brand From Volkswagen](https://digitpatrox.com/meet-scout-the-newest-ev-brand-from-volkswagen/)
+    ### Android 16 could get iPhone-like ‘ongoing’ notifications](https://digitpatrox.com/android-16-could-get-iphone-like-ongoing-notifications/)
+* [September 10, 2024
+    
+    ### British SMBs are glaringly unprotected – will the new Cyber Security and Resilience Bill be enough to raise the bar?](https://digitpatrox.com/british-smbs-are-glaringly-unprotected-will-the-new-cyber-security-and-resilience-bill-be-enough-to-raise-the-bar/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Should You Buy a Walmart Onn TV?](https://digitpatrox.com/should-you-buy-a-walmart-onn-tv/)
+    ### Vodafone–Three merger cleared to proceed with commitment to invest heavily in UK 5G rollout](https://digitpatrox.com/vodafone-three-merger-cleared-to-proceed-with-commitment-to-invest-heavily-in-uk-5g-rollout/)
 * [4 hours ago
     
-    ### Xbox’s Year in Review is Back for 2024](https://digitpatrox.com/xboxs-year-in-review-is-back-for-2024/)
-* [4 hours ago
+    ### Google DeepMind and World Labs unveil AI tools to create 3D spaces from simple prompts – Computerworld](https://digitpatrox.com/google-deepmind-and-world-labs-unveil-ai-tools-to-create-3d-spaces-from-simple-prompts-computerworld/)
+* [5 hours ago
     
-    ### How to add or remove the seconds from the Windows 11 clock](https://digitpatrox.com/how-to-add-or-remove-the-seconds-from-the-windows-11-clock/)
+    ### Famous (and Infamous) Movie Passion Projects](https://digitpatrox.com/famous-and-infamous-movie-passion-projects/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
