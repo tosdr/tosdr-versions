@@ -244,36 +244,65 @@
 DMCA Copyright Policy
 =====================
 
-Last Updated on March 8, 2023
+Last Updated on December 5, 2024
 
-DigitalOcean, LLC (“Company”) has adopted the following general policy toward copyright infringement in accordance with the Digital Millennium Copyright Act ([http://lcweb.loc.gov/copyright/legislation/dmca.pdf](http://lcweb.loc.gov/copyright/legislation/dmca.pdf)) (“DMCA”). The abuse form to Receive Notification of Claimed Infringement (“Designated Agent”) is listed below.
+DigitalOcean, LLC (“DigitalOcean”) has a simple way to handle copyright issues under the Digital Millennium Copyright Act (“DMCA”). If you think someone is using your content without your permission, follow the steps below to report it. **Please use the linked form to issue your DMCA complaint to avoid delays.**
 
-[Procedure for Reporting Copyright Infringement](#procedure-for-reporting-copyright-infringement)[](#procedure-for-reporting-copyright-infringement)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+### [How to Report Copyright Infringement](#how-to-report-copyright-infringement)[](#how-to-report-copyright-infringement)
 
-The Company responds to copyright notifications submitted under the DMCA. Section 512 of the DMCA outlines the statutory requirements necessary for formally reporting copyright infringement, as well as providing instructions on how an affected party can appeal a removal by submitting a counter-notice.
+If you think your copyrighted content is being infringed on DigitalOcean, complete the [DMCA Form](https://www.digitalocean.com/company/contact/abuse#dmca) and include the following information:
 
-If you believe that material or content residing on or accessible through Company’s websites or services infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent listed below:
+1. Identification of the specific copyrighted work claimed to have been infringed including the URL or IP address of the allegedly infringing content.
+    
+2. Contact information about the complaining party, including address, telephone number and e-mail address.
+    
+3. A statement that the complaining party has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law.
+    
+4. A statement made under penalty of perjury that the information provided is accurate and the complaining party is authorized to make the complaint on behalf of the copyright owner.
+    
+5. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed.
+    
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed.
-2. Identification of works or materials being infringed; this includes, at a minimum and if applicable, the URL or IP address of the link shown on the site where such material may be found, as well as the reference or link to the material or activity that you claim to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate that reference or link, including at a minimum, if applicable, the URL or IP address of the link shown on the site where such reference or link may be found.
-3. Contact information about the notifier including address, telephone number and, if available, e-mail address.
-4. A statement that the notifier has a good faith belief that the material is not authorized by the copyright owner, its agent, or the law; include this statement in the body of the notice: I hereby state that I have a good faith belief that the disputed use of the copyrighted material or reference or link to such material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).
-5. A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner; include this statement in the body of the notice: I hereby state that the information in this notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.
+Please use the linked [DMCA Form](https://www.digitalocean.com/company/contact/abuse#dmca) to submit your complaint. Using any other method may delay the process.
 
-Please contact us at [https://www.digitalocean.com/company/contact/abuse#dmca](https://www.digitalocean.com/company/contact/abuse#dmca)
+### [What Happens Next](#what-happens-next)[](#what-happens-next)
 
-[Consequences of Sending A DMCA Notice](#consequences-of-sending-a-dmca-notice)[](#consequences-of-sending-a-dmca-notice)
--------------------------------------------------------------------------------------------------------------------------
+1. Review: DigitalOcean will check your complaint for completeness and may follow up if additional information is needed. Please note if you do not provide the additional information requested, we may not be able to respond to, or move forward with, your complaint.
+    
+2. Forwarding: If the complaint is valid and involves a DigitalOcean customer, we will send your complaint and contact information to the customer using the content.
+    
+3. Removing the Content: The customer may simply remove the content once they receive the complaint. If they do so, DigitalOcean will consider the DMCA complaint resolved. If the customer does not remove the content, then DigitalOcean may disable the entire server used by the customer to host the content.
+    
 
-The Company will review your notice for accuracy, validity, and completeness. If we find that it satisfies these requirements, we will forward the notice to the customer or user associated with the allegedly infringing material. If the person who posted the material believes that the notice is incorrect or that they have the right to use the material at issue, they may send a counter-notice under Section 512(g)(3) of the DMCA.
+A few additional points to remember: (1) please make sure you are the copyright owner or have permission to act on their behalf before you submit your complaint; (2) understand that submitting false claims can have consequences; and (3) DigitalOcean does not decide whether the content is in fact infringing; that is up to the copyright owner and the person using the content. In other words, DigitalOcean does not assess whether there is, in fact, a copyright violation; instead, we rely on the customer to issue a counter-notice if they believe they have the rights to continue using the content at issue.
 
-Please be aware that under 17 U.S.C. § 512(f), you may be liable for any damages, including costs and attorneys’ fees incurred by us or our users, if you knowingly materially misrepresent that material or activity is infringing. So before you send a DMCA notice, make sure that you are the actual copyright holder (or are authorized to act on behalf of the owner), that you have a good-faith belief that the material you are identifying is actually infringing, and that you understand the repercussions of submitting a false claim.
+### [Repeat Infringer Policy](#repeat-infringer-policy)[](#repeat-infringer-policy)
 
-[Repeat Infringer Policy](#repeat-infringer-policy)[](#repeat-infringer-policy)
--------------------------------------------------------------------------------
+DigitalOcean may terminate accounts of users who repeatedly infringe copyrights.
 
-Consistent with the requirements of the DMCA, the Company will terminate, in appropriate circumstances, the accounts of subscribers who repeatedly infringe the copyrights of others.
+### [Information for DigitalOcean Customers](#information-for-digitalocean-customers)[](#information-for-digitalocean-customers)
+
+DigitalOcean will forward any DMCA complaints to customers for review. If you are a customer and receive notice of a DMCA complaint made against you, you have the following options:
+
+1. Remove the Content: If you do not have the rights to use the content described in the DMCA complaint, please remove the content immediately. If you remove the content, the DMCA complaint is considered resolved.
+    
+2. Issue a Counter-notice: If you believe you have the rights to use the content, you may issue a counter-notice. While the counter-notice process is ongoing, you will need to remove the disputed content from your server. More information about counter-notices is available [here](https://www.copyright.gov/512/).
+    
+
+Please note - If you do not take action on a DMCA complaint, DigitalOcean may disable the entire server or Droplet you are using to host the content as we cannot selectively remove individual pieces of content hosted on your server.
+
+### [Frequently Asked Questions](#frequently-asked-questions)[](#frequently-asked-questions)
+
+1. **The content is still live. How do you explain this?** If content is still visible, it might have moved to a new server or another hosting provider. You can also try to clear your cache and check again. Please note that if DigitalOcean does not host the content, we are unable to remove it. If the content has been moved to a new server hosted on DigitalOcean, please submit another DMCA complaint. Please note - if you are using any specific tools or methods such as VPNs, proxies, or other technical measures to access the content, please specify what you are using in the DMCA form. These tools may bypass geo-blocking or other restrictions, making the content appear accessible in your location but not to our staff. Additionally, please include your location in your response as some content may be restricted or blocked in specific regions.
+    
+2. **What is DigitalOcean’s role in processing DMCA complaints?** DigitalOcean does not proactively monitor content hosted by customers on our services. We rely on customers to disable or remove infringing content. If they do not act by removing the content, then the only option for DigitalOcean is to disable the server hosting the content in its entirety. Please note, we cannot and will not judge the validity of any copyright infringement claim submitted to us on its face.
+    
+3. **What is the role of Content Delivery Networks (CDN) or web infrastructure and security providers in processing DMCA complaints?** At a high level, CDNs or web infrastructure security providers operate as intermediaries between users and cloud hosting providers to direct and manage network traffic over the internet. Occasionally, DigitalOcean has to work with these providers to respond to DMCA complaints as we need certain information that only they have access to or can provide (e.g., if the customer is operating behind an obfuscated IP address, we may need these intermediaries to provide us information about the actual IP address so we can determine whether the allegedly infringing content is actually hosted on DigitalOcean). Please note it may take us additional time to investigate and respond to a DMCA complaint if we have to engage these third parties as we rely on them to provide critical information needed to respond to the request.
+    
+4. **I am a DigitalOcean customer based outside of the U.S., how does DMCA apply to me?** DigitalOcean and its customers are required to adhere to U.S. laws. If you are a DigitalOcean customer and do not act on a DMCA complaint, we may disable the server used to host the content to comply with applicable law.
+    
+
+_This information is for general purposes and is not legal advice. If you have questions, seek advice from a legal professional._
 
 ###### Company
 
