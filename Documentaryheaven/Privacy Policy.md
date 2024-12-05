@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Texas: America Supersized](/wp-content/thumbnails/13661-100x70.jpg?x53432)
+* [![Iraqs Missing Billions](/wp-content/thumbnails/47-100x70.jpg?x53432)
     
-    Texas: America Supersized
+    Iraqs Missing Billions
     
-    The great John Steinbeck once described Texas as a state of mind and obsession as well as a nation in every other sense of the word. Texas is a huge compound of power and wealth and force and attitude](https://documentaryheaven.com/texas-america-supersized/ "Texas: America Supersized")
-* [![Life as an Illegal Immigrant in Greece](/wp-content/thumbnails/8765-100x70.jpg?x53432)
+    Dispatches investigats Iraqs missing money.](https://documentaryheaven.com/iraqs-missing-billions/ "Iraqs Missing Billions")
+* [![World Cup’s Most Shocking Moments](/wp-content/thumbnails/5911-100x70.jpg?x53432)
     
-    Life as an Illegal Immigrant in Greece
+    World Cup’s Most Shocking Moments
     
-    Vice News sends Alex Miller to Greece to cover the current situation for immigrants in search for a better life, they assume a European country such as Greece would hold better prospects for them and](https://documentaryheaven.com/life-as-an-illegal-immigrant-in-greece/ "Life as an Illegal Immigrant in Greece")
-* [![Kashmir The Story](/wp-content/thumbnails/14660-100x70.jpg?x53432)
+    Richard Bacon and guest presenter Peter Crouch look back on the 50 greatest shocks in the history of the World Cup, covering the last six tournaments and including moments such as Maradona’s Hand of G](https://documentaryheaven.com/world-cups-most-shocking-moments/ "World Cup’s Most Shocking Moments")
+* [![The Ring of Fire](/wp-content/thumbnails/6778-100x70.jpg?x53432)
     
-    Kashmir The Story
+    The Ring of Fire
     
-    Kashmir has had a history of being an independent kingdom, a sovereign state in every sense and whosoever tried to control it whether it was the Mughals or the Afghans or the Sikhs or later the Dogras](https://documentaryheaven.com/kashmir-the-story/ "Kashmir The Story")
-* [![The Defectors](/wp-content/thumbnails/9493-100x70.jpg?x53432)
+    Broadcast (1998) The Pacific Ocean is rimmed by a chain of active volcanoes, arranged in a series of graceful arcs and extending 30,000 kilometres from New Zealand through Fiji, New Guinea, the Philip](https://documentaryheaven.com/the-ring-of-fire/ "The Ring of Fire")
+* [![Behind Blue Eyes](/wp-content/thumbnails/3555-100x70.jpg?x53432)
     
-    The Defectors
+    Behind Blue Eyes
     
-    In this Sky News special reporter Mark Stone meets up with several North Korean defectors in order to give them a chance to be heard and tell their story of how life once was for them living in the No](https://documentaryheaven.com/defectors/ "The Defectors")
-* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
+    There are only thirteen known Leucistic alligators in the world. Gatorland located in Orlando, Florida is home to four of the thirteen Leucistic and is the biggest collection in the world. This short](https://documentaryheaven.com/behind-blue-eyes/ "Behind Blue Eyes")
+* [![PT 2/2 On Piracy And The Future Of Media](/wp-content/thumbnails/2193-100x70.jpg?x53432)
     
-    The Case for Christ
+    PT 2/2 On Piracy And The Future Of Media
     
-    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
+    Each day, millions of youths from Canada and around the world download music and movies off of the Internet. This epidemic of “unauthorized” downloading has been cited by the record and film industrie](https://documentaryheaven.com/pt-22-on-piracy-and-the-future-of-media/ "PT 2/2 On Piracy And The Future Of Media")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
