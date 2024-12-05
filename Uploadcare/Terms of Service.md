@@ -10,7 +10,7 @@ Company
 
 [Blog](https://uploadcare.com/blog/)[About us](https://uploadcare.com/company/)[Customers](https://uploadcare.com/customers/)[Partners](https://uploadcare.com/partners/)[Compliance](https://uploadcare.com/about/trust/)[Contact us](https://uploadcare.com/schedule-demo/)
 
-[Log in](https://uploadcare.com/accounts/login/)[Sign up](https://uploadcare.com/accounts/signup/)
+[Log in](https://app.uploadcare.com/accounts/login/)[Sign up](https://app.uploadcare.com/accounts/signup/)
 
 Terms of Service
 ================
