@@ -85,7 +85,7 @@ Zenkit Terms of Service
 
 _Last updated on March 8th, 2022_
 
-By using Zenkit’s online and offline products and services (collectively, “the Service” or “Services”), provided by the Zenkit division within Axonic Informationssysteme GmbH (collectively, “Zenkit,” “We” or “Us”), you agree to be bound by the following Terms of Service (“TOS”), together with our Privacy Policy. The TOS may be updated by us from time to time without notice. You can review the most current version of the TOS at any time at: [https://zenkit.com/terms](https://zenkit.com/en/terms/ "https://zenkit.com/terms").
+By using Zenkit’s online and offline products and services (collectively, “the Service” or “Services”), provided by the Zenkit division within Axonic GmbH (collectively, “Zenkit,” “We” or “Us”), you agree to be bound by the following Terms of Service (“TOS”), together with our Privacy Policy. The TOS may be updated by us from time to time without notice. You can review the most current version of the TOS at any time at: [https://zenkit.com/terms](https://zenkit.com/en/terms/ "https://zenkit.com/terms").
 
 This TOS governs your access to and use of any Zenkit website, any order you place through a Zenkit website, by telephone or any other means, and, as applicable, your use or attempted use of Zenkit’s products and services (collectively, “Your Use”), including any extensions, mobile applications, and other downloadable products.
 
@@ -149,7 +149,7 @@ You must use your Zenkit account to keep it “active.” Zenkit reserves the ri
 2 Use of Zenkit
 ---------------
 
-Zenkit is a product owned by Axonic Informationssysteme GmbH (“Axonic”). Axonic and its licensors are protected by German and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
+Zenkit is a product owned by Axonic GmbH (“Axonic”). Axonic and its licensors are protected by German and international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.
 
 You may only use Zenkit as permitted by law, including all applicable federal, state, local or international law or regulation.
 
@@ -309,33 +309,33 @@ We are constantly updating our Services, and that means sometimes we have to cha
 12 Warranty Disclaimers
 -----------------------
 
-Zenkit Services are provided “as is”. Axonic Informationssysteme GmbH and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Axonic Informationssysteme GmbH nor its suppliers and licensors, makes any warranty that the Website and/or Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or Services through, the Website at your own discretion and risk. Axonic Informationssysteme GmbH will have no responsibility for any harm to your computer system, loss or corruption of data, or other harm that results from your access to or use of Zenkit. Some states do not allow the types of disclaimers in this paragraph, so they may not apply to you.
+Zenkit Services are provided “as is”. Axonic GmbH and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Axonic GmbH nor its suppliers and licensors, makes any warranty that the Website and/or Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or Services through, the Website at your own discretion and risk. Axonic GmbH will have no responsibility for any harm to your computer system, loss or corruption of data, or other harm that results from your access to or use of Zenkit. Some states do not allow the types of disclaimers in this paragraph, so they may not apply to you.
 
 13 Limitation of Liability
 --------------------------
 
-In no event will Axonic Informationssysteme GmbH, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for:
+In no event will Axonic GmbH, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for:
 
 1. any special, incidental or consequential damages;
 2. the cost of procurement for substitute products or Services;
 3. for interruption of use or loss or corruption of data; or
-4. for any amounts that exceed the fees paid by you to Axonic Informationssysteme GmbH under this agreement during the twelve (12) month period prior to the cause of action.
+4. for any amounts that exceed the fees paid by you to Axonic GmbH under this agreement during the twelve (12) month period prior to the cause of action.
 
-Axonic Informationssysteme GmbH shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
+Axonic GmbH shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.
 
 14 Indemnity
 ------------
 
-You agree to indemnify and hold harmless Axonic Informationssysteme GmbH, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims, liabilities, and expenses, including attorneys’ fees, court costs, or any other fees related to a legal proceeding, arising out of your use of Zenkit, including but not limited to your violation of this agreement. If a claim is made as a result of alleged acts or omissions by you, Zenkit will provide you with the claim and all information to the extent that is legally possible. At the same time, you must immediately inform Zenkit and give Zenkit all of the information on the facts and the subject matter in writing.
+You agree to indemnify and hold harmless Axonic GmbH, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims, liabilities, and expenses, including attorneys’ fees, court costs, or any other fees related to a legal proceeding, arising out of your use of Zenkit, including but not limited to your violation of this agreement. If a claim is made as a result of alleged acts or omissions by you, Zenkit will provide you with the claim and all information to the extent that is legally possible. At the same time, you must immediately inform Zenkit and give Zenkit all of the information on the facts and the subject matter in writing.
 
 15 General Terms
 ----------------
 
 The Terms of Service, the Website and the Services are governed by German law exclusively. Any claim or dispute in relation to your use of the Website and/or of the Services which cannot be resolved or settled by the parties to the Terms may only be brought before the competent court in Mannheim, Germany, which shall have exclusive jurisdiction.
 
-These Terms (including any additional DPA agreements) constitute the entire and exclusive agreement between you and Axonic Informationssysteme GmbH, and supersede and replace any other agreements, terms and conditions. These Terms create no third party beneficiary rights. Axonic Informationssysteme GmbH’s failure to enforce a provision is not a waiver of its right to do so later. If a provision is found unenforceable, the remaining provisions of the Agreement will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible.
+These Terms (including any additional DPA agreements) constitute the entire and exclusive agreement between you and Axonic GmbH, and supersede and replace any other agreements, terms and conditions. These Terms create no third party beneficiary rights. Axonic GmbH’s failure to enforce a provision is not a waiver of its right to do so later. If a provision is found unenforceable, the remaining provisions of the Agreement will remain in full effect and an enforceable term will be substituted reflecting our intent as closely as possible.
 
-You may not assign any of your rights in these Terms without our written consent, and any such attempt will be null and have no effect. Axonic Informationssysteme GmbH may freely assign or transfer these terms without restriction. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
+You may not assign any of your rights in these Terms without our written consent, and any such attempt will be null and have no effect. Axonic GmbH may freely assign or transfer these terms without restriction. Except as expressly set forth in these Terms, the exercise by either party of any of its remedies under these Terms will be without prejudice to its other remedies under these Terms or otherwise.
 
 ### 15.1 International Use
 
@@ -347,7 +347,7 @@ If you have any questions about these Terms, please contact us at: legal @ https
 
 Or the following physical address:
 
-Axonic Informationssysteme GmbH  
+Axonic GmbH  
 ATTN: Zenkit  
 Kaiserstraße 241  
 76133 Karlsruhe  
@@ -399,7 +399,7 @@ Zenkit is the multi-project management solution for agile and classical projects
 * [Knowledge Base](https://help.zenkit.com/ "Knowledge Base")
 * [Contact](https://zenkit.com/en/contact/ "Contact")
 
-Any questions about Zenkit? Give us a call.
+Any questions about Zenkit Projects? Give us a call.
 
 [![Phone Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -415,6 +415,6 @@ Any questions about Zenkit? Give us a call.
 * [](https://www.instagram.com/zenkithq "Zenkit on Instagram")
 * [](https://zenkit.com/en/contact/ "Contact")
 
-© 2024 Zenkit. A venture of Axonic Informationssysteme GmbH.  
+© 2024 Zenkit. A venture of Axonic GmbH.  
 
 All rights reserved. Read our [Legal Notice](https://zenkit.com/en/legal-notice), [Privacy Policy](https://zenkit.com/en/web-privacy) and [Terms of Service](https://zenkit.com/en/terms)
