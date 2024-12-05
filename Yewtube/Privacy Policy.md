@@ -71,4 +71,4 @@ To remove data that has been stored in the website's database, you can use the [
 
 [Released under the AGPLv3 on GitHub.](https://github.com/iv-org/invidious/blob/master/LICENSE) [View JavaScript license information.](https://yewtu.be/licenses) [View privacy policy.](https://yewtu.be/privacy)
 
-[Donate](https://yewtu.be/donate) Current version: 2024.12.04-2d61d36 @ master
+[Donate](https://yewtu.be/donate) Current version: 2024.12.05-95ae3cd @ master
