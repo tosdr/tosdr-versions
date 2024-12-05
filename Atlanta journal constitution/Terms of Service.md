@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Donald Trump picks Kelly Loeffler as head of the Small Business Administration](https://www.ajc.com/politics/donald-trump-picks-kelly-loeffler-as-head-of-the-small-business-administration/74L2DSDVAVD4DDCXSYMWAWXKKA/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
 
 Log In
