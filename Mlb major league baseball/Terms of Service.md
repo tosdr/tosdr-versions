@@ -87,6 +87,7 @@
     * [Single Game Tickets](https://www.mlb.com/schedule)
     * [Group Tickets](https://www.mlb.com/tickets/group-tickets)
     * [Special Ticket Offers](https://www.mlb.com/tickets/fan-value)
+    * [MLB Speedway Classic](https://www.mlb.com/events/speedway-classic/tickets)
     * [VIP Ticket Packages](https://www.mlb.com/tickets/on-location-experiences)
     * [MLB Students](https://www.mlb.com/tickets/students)
     * [MLB Tourism](https://www.mlb.com/tourism)
