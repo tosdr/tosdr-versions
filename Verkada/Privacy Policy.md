@@ -424,7 +424,7 @@ This Privacy Policy does not apply to information we process as a data processor
     * [Dome Cameras](https://www.verkada.com/security-cameras/dome)
     * [Fisheye Cameras](https://www.verkada.com/security-cameras/fisheye)
     * [PTZ Cameras](https://www.verkada.com/security-cameras/ptz)
-    * [LPR Cameras](https://www.verkada.com/security-cameras/lpr)
+    * [LPR Cameras](https://www.verkada.com/security-cameras/license-plate-recognition/)
     * [Alarm Systems](https://www.verkada.com/alarms)
     * [Access Control](https://www.verkada.com/access-control)
     * [Air Quality Monitoring](https://www.verkada.com/air-quality/sensors)
