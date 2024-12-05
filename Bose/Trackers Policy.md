@@ -349,9 +349,13 @@ Enter your email address to receive an alert when this product is available.
 
 Please enter a valid email address.
 
-Being first has its perks
+Get 10% off your first purchase\*
 
-Sign up to receive Bose emails and communications for exclusive benefits, promotions and new product information.
+Three steps to savings:
+
+1. Sign up to receive Bose emails and communications below
+2. Become a My Bose member
+3. Receive an email with your 10% coupon
 
  Email address
 
@@ -359,11 +363,17 @@ The email address is invalid
 
 SIGN UP
 
-Thanks for signing up!
+**\*The coupon code will be sent via email and can be used for a maximum discount of $100. Other exclusions may apply. Please see email for full terms and conditions of this offer.**
 
-You're now a Bose insider - keep an eye on your inbox.
+Email sign-up confirmation
+
+You are signed up for Bose marketing communications!
+
+Next step: become a My Bose member to enjoy all our perks, starting with your 10% gift!
 
 [Join My Bose](https://www.bose.com/login?oauthProvider=Azure-AD-B2C)
+
+If you don’t receive the email with your coupon code within 24 hours after creating a My Bose account, please contact [support](https://support.bose.com/s/get-help-landing-page). Enjoy shopping with your exclusive discount on Bose.com!
 
 We are experiencing issues at this moment. Please try again later.
 
