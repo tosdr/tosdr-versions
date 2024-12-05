@@ -127,7 +127,7 @@ Main navigation
     
     #### Gift By Price
     
-    [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $20](https://www.morphe.com/collections/gifts-under-25) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
+    [$10 and Under](https://www.morphe.com/collections/10-and-under) [Gifts Under $25](https://www.morphe.com/collections/gifts-under-25) [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
     [![Totally Fall For These Morphe Makeup Favorites](//www.morphe.com/cdn/shop/articles/Morphe-2024-October-Blog-FallMakeup-Thumbail-1020x580_600x.jpg?v=1730233553)
     
@@ -314,7 +314,7 @@ Main navigation
     
     [$10 and Under](https://www.morphe.com/collections/10-and-under)
     
-    [Gifts Under $20](https://www.morphe.com/collections/gifts-under-25)
+    [Gifts Under $25](https://www.morphe.com/collections/gifts-under-25)
     
     [Gifts Under $40](https://www.morphe.com/collections/gift-guide-under-40)
     
