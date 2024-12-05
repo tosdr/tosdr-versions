@@ -92,8 +92,15 @@ This document states the terms and conditions (“Terms”) upon which Open Medi
 ### 2\. Grant of Use
 
 * We grant you a non-exclusive, non-transferable, and limited right to access, non-publicly display, and use the Application, including all content available therein (the “Content”) on your computer or mobile device consistent with these Terms and subject to the restrictions of the Application. You may only access and use the Application for your personal and noncommercial use.
-* This grant is terminable by us at will for any reason and at our sole discretion, with or without prior notice. Upon termination, we may, but shall not be obligated to: (i) delete or deactivate your Account, (ii) block your e-mail and/or IP addresses or otherwise terminate your use of and ability to use the Application, and/or (iii) remove and/or delete any of your User Submissions (defined below). You agree not to use or attempt to use the Application after said termination. Upon termination, the grant of your right to use the Application shall terminate, but all other portions of these Terms shall survive. You acknowledge that we are not responsible to you or any third party for the termination of your grant of use.
+* Upon purchasing a PRO license, you are granted a non-exclusive, non-transferable right to use the Application for commercial purposes, including but not limited to earning income through its functionalities.
+* This grant is terminable by us at will for any reason and at our sole discretion, with or without prior notice. Upon termination, we may, but shall not be obligated to:  
+      
+    (i) delete or deactivate your Account,  
+    (ii) block your e-mail and/or IP addresses or otherwise terminate your use of and ability to use the Application, and/or  
+    (iii) remove and/or delete any of your User Submissions (defined below).
+* You agree not to use or attempt to use the Application after said termination. Upon termination, the grant of your right to use the Application shall terminate, but all other portions of these Terms shall survive. You acknowledge that we are not responsible to you or any third party for the termination of your grant of use.
 * In addition to the terms set forth herein, your use of the Application shall be limited by the rules and features of the Application, which may change from time to time in our sole discretion. You shall not attempt to use the Application in any manner in which the Application is not intended or permitted to be used.
+* You acknowledge that all legal disputes arising from the content you download or utilize through the Application are your sole responsibility. We, as the software developer, shall not be liable for any claims, damages, or legal issues that may arise from such content.
 
 ### 3\. Intellectual Property
 
