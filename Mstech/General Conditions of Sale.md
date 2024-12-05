@@ -246,10 +246,6 @@ Email \*
 
  I agree to the privacy policy and terms. ([Link](https://mstechglobal.com/privacy-policy/))
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20167%2042'%3E%3C/svg%3E)
-
-![](https://mstechglobal.com/wp-content/uploads/2021/12/positivessl_trust_seal_md_167x42.png)
-
 [![MSTECH GLOBAL](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20263%2070'%3E%3C/svg%3E)
 
 ![MSTECH GLOBAL](https://mstechglobal.com/wp-content/uploads/2021/12/Footer_Final.png)](https://mstechglobal.com/)
@@ -377,7 +373,7 @@ Get the exclusive Discount
 
  I agree to the privacy policy and terms. ([Link](https://mstechglobal.com/privacy-policy/))
 
-                                                                                         
+                                                                                      
 
 Insert/edit link
 ================
