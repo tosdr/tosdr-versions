@@ -74,15 +74,15 @@ Trending Posts
 --------------
 
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
-* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 Close
 
@@ -138,15 +138,15 @@ Trending Posts
 --------------
 
 * [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
 * [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
-* [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [What a can of tuna can teach us about international workers' solidarity](https://therealnews.com/what-a-can-of-tuna-can-teach-us-about-international-workers-solidarity)
 * [The bad, the worse, and the ugly: Trump's incoming cabinet](https://therealnews.com/the-bad-the-worse-and-the-ugly-trumps-incoming-cabinet)
-* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
+* [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
 
 [Skip to content](#main)
 
