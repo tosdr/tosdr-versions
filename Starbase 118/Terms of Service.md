@@ -1,8 +1,6 @@
 [Skip to content](#content)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/SB118_logo_white-300x115.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
 
 * [News](https://www.starbase118.net/news/)
 * [Wiki](https://wiki.starbase118.net/)
@@ -22,9 +20,7 @@ Menu
 
 [Join Now](https://www.starbase118.net/application/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/SB118_logo_white-300x115.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
 
 * [News](https://www.starbase118.net/news/)
 * [Wiki](https://wiki.starbase118.net/)
@@ -76,33 +72,25 @@ We are constantly raising the standards of roleplaying in the Star Trek communit
 
 Immerse yourself in a cutting edge roleplaying experience in constant development since 1994. We're proud of our achievements and you could be part of our future.
 
-[![USS Centris-A logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![USS Centris-A logo](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/USS-CentrisA-logo.png?lossy=0&strip=1&webp=1)](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
+[![USS Centris-A logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
 
 ##### 0+
 
 ###### [Ships and Stations](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
 
-[![Captains Council logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Captains Council logo](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/CC-logo.png?lossy=0&strip=1&webp=1)](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
+[![Captains Council logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
 
 ##### 0\+ years
 
 ###### [Command Experience](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
 
-[![Starbase 118 Ops logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Starbase 118 Ops logo](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Starbase_118_Ops-logo.png?lossy=0&strip=1&webp=1)](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
+[![Starbase 118 Ops logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
 
 ##### 0+
 
 ###### [Active Group Members](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
 
-[![Training Team Starfleet Academy logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Training Team Starfleet Academy logo](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Trainingteamlogo.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/application/)
+[![Training Team Starfleet Academy logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/application/)
 
 ##### 0+
 
@@ -181,15 +169,11 @@ Jalana RajelCO, USS Constitution-B
 
 ![Jalana Rajel](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Jalana Rajel](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/JalanaRajel.jpg?lossy=0&strip=1&webp=1)
-
 I love the sense of community here. All the writers are very collaborative and really open to the development of your ideas.
 
 Addison MacKenzieXO, USS Resolution
 
 ![Addison MacKenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Addison MacKenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)
 
 We've got such an amazing feeling of friendship among our group that extends far past the IC relationship of our characters.
 
@@ -197,15 +181,11 @@ Wes GreavesMarine Captain, USS Thor
 
 ![Wes Greaves](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Wes Greaves](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/WesGreaves.png?lossy=0&strip=1&webp=1)
-
 This is one community that is only going to get better, as it has over the last 25 years. The next 25 will be amazing.
 
 Genkos AdeaMedical Chief, USS Resolution
 
 ![Genkos Adea](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Genkos Adea](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Genkos_Adea.png?lossy=0&strip=1&webp=1)
 
 What I enjoy most is the writing collaboration and the sense of camaraderie. Everyone is treated like a part of the family
 
@@ -213,15 +193,11 @@ Randal ShayneCO, USS Arrow
 
 ![Randal Shayne](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Randal Shayne](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/RandallShayne.png?lossy=0&strip=1&webp=1)
-
 I love the interaction of all the characters and the depth and detail of the wiki. There is a lot of support and help if needed.
 
 Cory StoyerHCO, USS Gorkon
 
 ![Cory Stoyer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Cory Stoyer](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/CoryStoyer.png?lossy=0&strip=1&webp=1)
 
 They are friendly, helpful people, with excellent writing skills. I feel I can still learn a lot from them.
 
@@ -229,15 +205,11 @@ Samira NeathlerSecurity Chief, USS Gorkon
 
 ![Samira Neathler](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Samira Neathler](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/SamiraNeathler1.png?lossy=0&strip=1&webp=1)
-
 It really is a fleet, not just a collection of independent sims. We have stories being woven across ships and space, with freedom to move and explore.
 
 SaveronXO, USS Constitution-B
 
 ![Saveron](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Saveron](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Saveron.jpg?lossy=0&strip=1&webp=1)
 
 What I enjoy most about the community is the diversity and how quick people are to help one another.
 
@@ -245,23 +217,17 @@ Aine SherlockSecurity Chief, USS Resolution
 
 ![Aine Sherlock](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Aine Sherlock](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Aine_Sherlock.png?lossy=0&strip=1&webp=1)
-
 I love my crewmates. We each bring a piece of the story that we write and put it all together.
 
 Scotty ReadeEngineer, Amity Outpost
 
 ![Scotty Reade](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Scotty Reade](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/ScottyReade.jpg?lossy=0&strip=1&webp=1)
-
 The best part of my day is picking up my tablet when I wake up and seeing what emails from the group await me, and what our next exciting adventure is!
 
 TatashMarine Intel, StarBase 118 Ops
 
 ![Tatash](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Tatash](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/Tatash.png?lossy=0&strip=1&webp=1)
 
 Previous
 
@@ -350,9 +316,7 @@ Read More
 Community News
 --------------
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2018/07/akira-class-768x480.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
 
 ### [It’s Official, U.S.S. Chin’toka Launches](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
 
@@ -362,9 +326,7 @@ Sol System – Starfleet Makes the Relaunch of the Chin’toka Official As previ
 
 [Read More »](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2024/05/OEB_Exterior_Shot_8-768x531.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
 
 ### [Ship Out of Time](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
 
@@ -374,9 +336,7 @@ Unstable Temporal Wormhole, Gamma Quadrant – The crew of the USS Octavia E. Bu
 
 [Read More »](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
 
-[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Addison Mackenzie](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/AddisonMackenzie.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
+[![Addison Mackenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
 
 ### [Award winner – Addison MacKenzie, Artemis (Christopher Pike Pendant)](https://www.starbase118.net/2024/award-winner-addison-mackenzie-artemis-christopher-pike-pendant/)
 
@@ -401,9 +361,7 @@ You’ll love our training class where you’ll meet other fleet members and lea
 
 We don’t ask for personal information and the game is free to play.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/02/chevwhite-sowaldmed1x.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
 
 Founded in 1994, StarBase 118 is a fun, free, and welcoming fan-produced Star Trek play-by-email role playing community.
 
@@ -462,8 +420,6 @@ Founded in 1994, StarBase 118 is a fun, free, and welcoming fan-produced Star Tr
 * [USS Ronin](https://wiki.starbase118.net/wiki/index.php?title=USS_Ronin)
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/02/80x15.png?lossy=0&strip=1&webp=1)
 
 [© StarBase 118 | A Star Trek Play-By-Email RPG](https://www.starbase118.net/)
 ------------------------------------------------------------------------------
