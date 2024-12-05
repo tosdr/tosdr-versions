@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-gouden-sleutel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/echtgenoot-minister-schultz-kiwa-miljoenen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
