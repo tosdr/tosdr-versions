@@ -4,7 +4,7 @@ Search Search Close
 
 [![Walden University Logo](/themes/custom/wal_base_2024/images/svg/logo.svg)](https://www.waldenu.edu/ "Home")
 
-### Main Navigation
+Main Navigation
 
 * Programs
     * Accredited Online Programs
@@ -324,7 +324,7 @@ Call Us: [**8556465286**](tel:8556465286)
 
 [REQUEST INFO](https://www.waldenu.edu/request-info)
 
-### Utility Navigation
+Utility Navigation
 
 * [Student Login](https://www.waldenu.edu/walden-students)
 * [Faculty Login](https://faculty.waldenu.edu/)
@@ -338,7 +338,7 @@ Call Us: [**8556465286**](tel:8556465286)
 * [News & Events](https://www.waldenu.edu/news-and-events)
 * Call Us: 8556465286
 
-### Utility Navigation
+Utility Navigation
 
 * [Student Login](https://www.waldenu.edu/walden-students)
 * [Faculty Login](https://faculty.waldenu.edu/)
@@ -1021,7 +1021,7 @@ Related Information
 
 [Request Information](https://www.waldenu.edu/request-info)
 
-### Social Media Navigation
+Social Media Navigation
 
 * [Facebook](https://www.facebook.com/waldenu/ "Facebook")
 * [Twitter](https://twitter.com/WaldenU "Twitter")
@@ -1058,7 +1058,7 @@ Related Information
     * [Join a Local Chapter](https://alumni.waldenu.edu/alumni-chapters)
     * [Upcoming Alumni Events](https://alumni.waldenu.edu/events)
 
-### Secondary Footer Navigation
+Secondary Footer Navigation
 
 * [Catalog](https://academics.waldenu.edu/catalog)
 * [Legal & Consumer Info](https://www.waldenu.edu/legal)
