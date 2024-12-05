@@ -401,37 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1)
+ [![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1)
 
- ![Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-jason-thornburg-convicted-4a_00.00.05.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
+ ![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
 
-### [Tarrant County jury to decide on death penalty for convicted killer Jason Thornburg](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
+### [Dallas surgeon helps Ukrainian soldiers injured in battle](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
 
- [![LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/ceo-shot-killed-tn.jpg?ve=1&tl=1)
+ [![Will Governor DeSantis become Secretary DeSantis?](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/05/32/18/DESANTIS-AND-TRUMP-SIDE-BY-SIDE.jpg?ve=1&tl=1)
 
- ![LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/ceo-shot-killed-tn.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killed-nyc)
+ ![Will Governor DeSantis become Secretary DeSantis?](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/05/32/18/592/333/DESANTIS-AND-TRUMP-SIDE-BY-SIDE.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
 
-Live Now
+### [Will Governor DeSantis become Secretary DeSantis?](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
 
-### [LIVE UPDATES: UnitedHealthcare CEO killed in 'brazen, targeted attack' outside NYC hotel](https://www.fox4news.com/news/unitedhealthcare-ceo-killed-nyc)
+ [![Tarrant County convicted killer Jason Thornburg sentenced to death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120424-thornburg-trial-kdfweme003_16_10_39_mpg_00.13.18.44.jpg?ve=1&tl=1)
 
- [![Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/horizontal-brian-thompson.png?ve=1&tl=1)
+ ![Tarrant County convicted killer Jason Thornburg sentenced to death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120424-thornburg-trial-kdfweme003_16_10_39_mpg_00.13.18.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
 
- ![Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/horizontal-brian-thompson.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brian-thompson-united-healthcare-ceo-killed)
+### [Tarrant County convicted killer Jason Thornburg sentenced to death](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
 
-### [Who is Brian Thompson? UnitedHealthcare CEO fatally shot in targeted attack](https://www.fox4news.com/news/brian-thompson-united-healthcare-ceo-killed)
+ [![Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-rabb-trackdown-northwest-highway-murder-530p_00.00.29.26-e1733349817515.jpg?ve=1&tl=1)
 
- [![Kamala to Chappell: Most mispronounced words of 2024 revealed](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/chappell-roan-getty.jpg?ve=1&tl=1)
+ ![Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-rabb-trackdown-northwest-highway-murder-530p_00.00.29.26-e1733349817515.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-northwest-highway-shooting-dallas)
 
- ![Kamala to Chappell: Most mispronounced words of 2024 revealed](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/chappell-roan-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/kamala-chappell-most-mispronounced-words-2024)
+### [Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://www.fox4news.com/news/trackdown-northwest-highway-shooting-dallas)
 
-### [Kamala to Chappell: Most mispronounced words of 2024 revealed](https://www.fox4news.com/news/kamala-chappell-most-mispronounced-words-2024)
+ [![Modified plans for North Texas' 3rd commercial airport approved](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-mckinney-airport-rezoning-4p_00.00.05.12.jpg?ve=1&tl=1)
 
- [![National Signing Day: 8 Duncanville High School athletes commit to colleges](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-shannon-duncanville-signing-day-8a_kdfw807d_146__00.00.30.34.jpg?ve=1&tl=1)
+ ![Modified plans for North Texas' 3rd commercial airport approved](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-mckinney-airport-rezoning-4p_00.00.05.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/modified-plans-north-texas-3rd-commercial-airport-approved)
 
- ![National Signing Day: 8 Duncanville High School athletes commit to colleges](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-shannon-duncanville-signing-day-8a_kdfw807d_146__00.00.30.34.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/national-signing-day-duncanville-panthers)
-
-### [National Signing Day: 8 Duncanville High School athletes commit to colleges](https://www.fox4news.com/sports/national-signing-day-duncanville-panthers)
+### [Modified plans for North Texas' 3rd commercial airport approved](https://www.fox4news.com/news/modified-plans-north-texas-3rd-commercial-airport-approved)
 
 ###### [News](https://www.fox4news.com/news)
 
