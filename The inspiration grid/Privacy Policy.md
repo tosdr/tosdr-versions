@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/photography-nick-veasey-24-feature.jpg)
+
+[](https://theinspirationgrid.com/amazing-x-ray-art-by-nick-veasey/)
+
+### Amazing X-Ray Art by Nick Veasey
+
+![](https://inspgr.id/app/uploads/2024/12/branding-stanleys-feature.jpg)
+
+[](https://theinspirationgrid.com/stanleys-invest-branding-by-ritter-studio/)
+
+### Stanley’s Invest Branding by Ritter Studio
+
 ![](https://inspgr.id/app/uploads/2024/12/illustration-cam-giang-feature.jpg)
 
 [](https://theinspirationgrid.com/lovely-illustrations-by-cam-giang/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/icelandic-paintings-aerial-photos-by-brynjar-agustsson/)
 
 ### Icelandic Paintings: Aerial Photos by Brynjar Agustsson
-
-![](https://inspgr.id/app/uploads/2024/11/photography-coexistence-feature.jpg)
-
-[](https://theinspirationgrid.com/coexistence-digital-aerochrome-photos-by-pierre-louis-ferrer/)
-
-### Coexistence: Digital Aerochrome Photos by Pierre-Louis Ferrer
-
-![](https://inspgr.id/app/uploads/2024/11/design-type-fashion-feature.jpg)
-
-[](https://theinspirationgrid.com/slanted-magazine-44-type-fashion/)
-
-### Slanted Magazine #44: Type Fashion
 
 Awesome products for creatives
 ------------------------------
