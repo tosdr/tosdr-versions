@@ -266,57 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about Derry (2007)](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry brothers launch new 'home care' business venture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry brothers launch new 'home care' business venture")](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
-
-[Business](https://www.derrynow.com/section/1339/business)
-
-[Derry brothers launch new 'home care' business venture](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two men wanted in Italy to serve prison sentences arrested in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who damaged apartment block door fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on")](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show")](https://www.derrynow.com/news/arts---entertainment/1672922/rte-late-late-toy-show-2024-guide-to-time-tv-tickets-theme-and-more-for-friday-s-show.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[RTÉ Late Late Toy Show 2024: Guide to time, TV, tickets, theme and more for Friday's show](https://www.derrynow.com/news/arts---entertainment/1672922/rte-late-late-toy-show-2024-guide-to-time-tv-tickets-theme-and-more-for-friday-s-show.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Met Office issue yellow weather warning to Derry ahead of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Office issue yellow weather warning to Derry ahead of Storm Darragh")](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
 
 Met Office issue yellow weather warning for Derry
@@ -326,18 +275,87 @@ Met Office issue yellow weather warning for Derry
 [Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man charged series of domestic abuse and assault offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged series of domestic abuse and assault offences returned for trial")](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man charged series of domestic abuse and assault offences returned for trial](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested and quantity of drugs seized in Derry's Waterside area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and quantity of drugs seized in Derry's Waterside area")](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man arrested and quantity of drugs seized in Derry's Waterside area](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican")](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "25-year-old man charged with driving offences to appear before Derry Magistrates’ Court")](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police appealing for information following vehicle seen driving erratically in Castledawson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police appealing for information following vehicle seen driving erratically in Castledawson")](https://www.derrynow.com/news/local-news/1673392/police-appealing-for-information-following-vehicle-seen-driving-erratically-in-castledawson.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police appealing for information following vehicle seen driving erratically in Castledawson](https://www.derrynow.com/news/local-news/1673392/police-appealing-for-information-following-vehicle-seen-driving-erratically-in-castledawson.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man jailed for breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed for breaching non-molestation order")](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man jailed for breaching non-molestation order](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Vertiv Recruitment host Open Evening in Campsie")](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School")](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 
@@ -394,20 +412,6 @@ Multimedia
 
 [IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry GAA Underage presentations at Owenbeg Centre of Excellence](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry GAA Underage presentations at Owenbeg Centre of Excellence")](https://www.derrynow.com/story-telling/pictures---videos/1671147/in-pictures-derry-gaa-underage-presentations-at-owenbeg-centre-of-excellence.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry GAA Underage presentations at Owenbeg Centre of Excellence](https://www.derrynow.com/story-telling/pictures---videos/1671147/in-pictures-derry-gaa-underage-presentations-at-owenbeg-centre-of-excellence.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: North West Cricket Union annual presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West Cricket Union annual presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: North West Cricket Union annual presentations](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -511,57 +515,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Planning permission granted for Derry's new Maritime Museum in Ebrington Square](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Planning permission granted for Derry's new Maritime Museum in Ebrington Square")](https://www.derrynow.com/news/local-news/1673600/planning-permission-granted-for-derry-s-new-maritime-museum-in-ebrington-square.html)
+[![Winter Wonderland at Gelvin Road, Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Winter Wonderland at Gelvin Road, Dungiven")](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
 
-Planning permission has been granted for the new Maritime Museum
+Winter Wonderland at Gelvin Road, Dungiven
 
-[Local News](https://www.derrynow.com/section/975/news)
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[Planning permission granted for Derry's new Maritime Museum in Ebrington Square](https://www.derrynow.com/news/local-news/1673600/planning-permission-granted-for-derry-s-new-maritime-museum-in-ebrington-square.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Dungiven family set to switch on Christmas lights as a fundraiser for local school](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Donegal learners encouraged to take driving tests in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Donegal learners encouraged to take driving tests in Derry")](https://www.derrynow.com/news/local-news/1673579/donegal-learners-encouraged-to-take-driving-tests-in-derry.html)
-
-Donegal learners encouraged to take driving tests in Derry.
+[![Storm Darragh: Council issues update on services across Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Donegal learners encouraged to take driving tests in Derry](https://www.derrynow.com/news/local-news/1673579/donegal-learners-encouraged-to-take-driving-tests-in-derry.html)
+[Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tandem Twins discuss sports psychology with Derry students](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IDNM_9-12-24_PRESS_NWRC05122412-1733412967986.jpg--.jpg?1733412968560 "Tandem Twins discuss sports psychology with Derry students")](https://www.derrynow.com/news/local-news/1673902/tandem-twins-discuss-sports-psychology-with-derry-students.html)
+
+Claudy para-triathletes Chloe and Judith MacCombe
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Tandem Twins discuss sports psychology with Derry students](https://www.derrynow.com/news/local-news/1673902/tandem-twins-discuss-sports-psychology-with-derry-students.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/resizer/165/93/true/1494594604121.jpeg--.jpeg?1494594608000 "Met Office issue yellow weather warning to Derry ahead of Storm Darragh")](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
+[![Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](https://www.derrynow.com/resizer/165/93/true/2023_08_13/Apprentice_Boys-1691965842108.jpg--.jpg?1691965842198 "Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced")](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
 
-Met Office issue yellow weather warning for Derry
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IDNT_5-12-24_Lifehack_30319914-1733397933888_1733397990.jpg--.jpg?1733397990667 "Creggan Enterprises’ Lifehack Project – helping young people start a new Journey")](https://www.derrynow.com/news/local-news/1673534/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
-
-Lifehack participants, project staff and CEL Management Team pictured at the recent programme launch at Ráth Mór.
+Apprentice Boys marching in Derry
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Creggan Enterprises’ Lifehack Project – helping young people start a new Journey](https://www.derrynow.com/news/local-news/1673534/creggan-enterprises-lifehack-project-helping-young-people-start-a-new-journey.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Lost_Gaels_Front_Cover_%281%29-1733220291839_1733220440.jpg--.jpg?1733220440711 "Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland")](https://www.derrynow.com/news/local-news/1671550/lost-gaels-remembering-the-members-of-the-gaa-killed-in-the-conflict-in-ireland.html)
+[![Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
 
-Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland by Peadar Thompson's front cover.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Lost Gaels: Remembering the Members of the GAA killed in the Conflict in Ireland](https://www.derrynow.com/news/local-news/1671550/lost-gaels-remembering-the-members-of-the-gaa-killed-in-the-conflict-in-ireland.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "25-year-old man charged with driving offences to appear before Derry Magistrates’ Court")](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/resizer/165/93/true/1566308190055.jpg--.jpg?1566308190063 "Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican")](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
