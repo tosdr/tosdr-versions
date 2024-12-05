@@ -386,9 +386,9 @@
 
 * [Sign In](https://www.varsitytutors.com/login)
 
-Get Started [We're Open, Call Now Call Now **(888) 888-0446**](tel:+18888880446)
+Get Started [Call Now Call Now **(888) 888-0446**](tel:+18888880446)
 
-[We're open! Call now: (888) 888-0446](tel:+18888880446)
+[Call now: (888) 888-0446](tel:+18888880446)
 
 Get Started
 
