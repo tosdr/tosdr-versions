@@ -246,8 +246,8 @@ Nostri articoli recenti
 -----------------------
 
 * [Nuovo tema ed editor di siti! – New theme and site editor!](https://noblogs.org/2023/10/15/nuovo-tema-ed-editor-di-siti-new-theme-and-site-editor/)
-* [Rimozione automatica dei metadati dai file caricati / Automated metadata cleanup for your uploads](https://noblogs.org/2023/07/04/rimozione-automatica-dei-metadati-dai-file-caricati-automated-metadata-cleanup-for-your-uploads/)
-* [Alcuni problemi al login RISOLTO / Some login troubles SOLVED](https://noblogs.org/2023/05/31/alcuni-problemi-al-login-some-login-troubles/)
+* [Nuovo tema ed editor di siti! – New theme and site editor!](https://noblogs.org/2023/10/10/nuovo-tema-ed-editor-di-siti-new-theme-and-site-editor/)
+* [Alcuni problemi al login RISOLTO / Some login troubles SOLVED](https://noblogs.org/2023/08/27/updates-we-changed-the-cache-management-and-we-think-now-the-authentication-problem-when-switching-from-one-blog-to-another-is-solved/)
 
 Ricerca per:  
 
