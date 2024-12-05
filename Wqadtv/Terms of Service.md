@@ -32,9 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/285fd5f8-3c72-479c-b702-f85753c69095/20241205T041220/285fd5f8-3c72-479c-b702-f85753c69095_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/285fd5f8-3c72-479c-b702-f85753c69095/20241205T041220/285fd5f8-3c72-479c-b702-f85753c69095_360x203.jpg)](https://www.wqad.com/article/news/local/downtown-davenport-hotel-incentive-returns-city-council-river-drive-third-street/526-c85cedfd-0ce1-42b9-91f8-2382c6fe7dd8)
         
-        #### [Downtown Davenport hotel incentive returns to city council](https://www.wqad.com/article/news/local/downtown-davenport-hotel-incentive-returns-city-council-river-drive-third-street/526-c85cedfd-0ce1-42b9-91f8-2382c6fe7dd8) [![](https://media.tegna-media.com/assets/WQAD/images/285fd5f8-3c72-479c-b702-f85753c69095/20241205T041220/285fd5f8-3c72-479c-b702-f85753c69095_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/285fd5f8-3c72-479c-b702-f85753c69095/20241205T041220/285fd5f8-3c72-479c-b702-f85753c69095_360x203.jpg)](https://www.wqad.com/article/news/local/downtown-davenport-hotel-incentive-returns-city-council-river-drive-third-street/526-c85cedfd-0ce1-42b9-91f8-2382c6fe7dd8)
-        
         #### [Davenport City Council reconsiders hotel incentive](https://www.wqad.com/article/news/local/downtown-davenport-hotel-incentive-returns-city-council-river-drive-third-street/526-c85cedfd-0ce1-42b9-91f8-2382c6fe7dd8)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/a6ab5fc3-f876-483f-99cc-56e99620aca8/20241205T025251/a6ab5fc3-f876-483f-99cc-56e99620aca8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a6ab5fc3-f876-483f-99cc-56e99620aca8/20241205T025251/a6ab5fc3-f876-483f-99cc-56e99620aca8_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-police-crime-data/526-2558ec8d-1d62-4969-a71c-4920ab1b2e58)
         
         #### [Crime is down in Davenport, according to police data](https://www.wqad.com/article/news/local/public-safety/davenport-police-crime-data/526-2558ec8d-1d62-4969-a71c-4920ab1b2e58)
@@ -87,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-13°
+10°
 
-![Fair/Wind](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
