@@ -90,15 +90,15 @@ El programa tendrá el plazo de solicitud abierto hasta el 28 de febrero de 2025
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
-![Kit Digital](/sites/redes/files/styles/ratio_1_1/public/media/images/Nueva.png?h=a6aa1fcb&itok=tGYD7QUa)
+![premios ehealth](/sites/redes/files/styles/ratio_1_1/public/media/images/Premios%20EHEALTH.png?h=0f97f620&itok=uXKEsppk)
 
 Noticia
 
-Transformación Digital PYMES
+Sanidad y Servicios Sociales
 
-Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital
+Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health
 
-[Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-pueden-solicitar-el-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital")
+[Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health](http://red.es/es/actualidad/noticias/modelo-seguimiento-pacientes-cronicos-impulsado-por-redes-recibe-premio-ennova-health "Ir al contenido de: Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health")
 
 ![Descubre a las empresas del Pabellón de España MWC 2025](/sites/redes/files/styles/ratio_1_1/public/media/images/Anuncio%20empresas%20MWC%20RRSS%20%2B%20Web%20v6B_800%20x%20442_web.png?h=96281f56&itok=yfdzvKKB)
 
@@ -112,11 +112,11 @@ Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de M
 
 Noticia
 
-Internacionalización
+Transformación Digital PYMES
 
-Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación
+Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital
 
-[Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación](http://red.es/es/actualidad/noticias/nueve-startups-espanolas-participan-en-desafia-suiza-para-presentar-sus "Ir al contenido de: Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación")
+[Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-pueden-solicitar-el-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital")
 
 Noticia
 
