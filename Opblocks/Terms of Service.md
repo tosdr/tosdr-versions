@@ -14,8 +14,6 @@ Menu
     
 * [Bans](https://opblocks.com/bans/bans.php)
     
-* [BATTLEPASS](https://rewards.opblocks.com/)
-    
 
 Welcome to OPBlocks!
 
@@ -77,6 +75,8 @@ If you do not agree with these terms, please do not register or use the Service.
 2020 OPBlocks. All Rights Reserved.
 
 We are not affiliated with Mojang AB.
+
+[Cobblemon](https://cobblemon.gg/)
 
 Designed by **Benj**
 
