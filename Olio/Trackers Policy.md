@@ -82,7 +82,7 @@ Cookie Policy
 
 **Contact details**
 
-15. The Website is owned by Olio Exchange Limited incorporated in England and Wales with registered number 09428660 whose registered office is at 157A Nelson road, London, N8 9RR, England.
+15. The Website is owned by Olio Exchange Limited incorporated in England and Wales with registered number 09428660 whose registered office is at 11A Brackenbury Road, London W6 0BE, England.
 16. You may contact us: by email at [hello@olioapp.com](mailto:hello@olioex.com).
 
 _This policy was updated on 19 May 2023._
