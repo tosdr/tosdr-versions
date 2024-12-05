@@ -1,6 +1,6 @@
  [![4imprint](/media/1y4b4vzk/logo-white.svg) ![4imprint](/media/onypkwhq/logo.svg)](https://investors.4imprint.com/)
 
-LSE 4995.00 GBX at 12:03 GMT
+LSE 5030.00 GBX at 16:35 GMT
 
 * [](mailto:?subject=&body=https://investors.4imprint.com/terms-of-use/)
 * [](https://www.facebook.com/sharer.php?u=https://investors.4imprint.com/terms-of-use/)
