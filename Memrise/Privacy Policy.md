@@ -53,6 +53,7 @@ Select page language
     * [Learn Swahili](https://www.memrise.com/en/learn-swahili)
     * [Learn Galician](https://www.memrise.com/en/learn-galician)
     * [Learn Welsh](https://www.memrise.com/en/learn-welsh)
+    * [Learn Somali](https://www.memrise.com/en/learn-somali)
 * [Courses](javascript:;)
     * [Arabic](https://www.memrise.com/en/learn-arabic/arabic-course)
     * [Chinese](https://www.memrise.com/en/learn-chinese/chinese-course)
