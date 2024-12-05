@@ -126,7 +126,7 @@ Students and Learners
 
 If you have registered as an OU student, we will collect and use more information about you in connection with your study, and we will keep long term academic transcript data.
 
-* [Student privacy notice](https://www.open.ac.uk/students/charter/essential-documents/student-privacy-notice)
+* [Student privacy notice](https://help.open.ac.uk/documents/policies/privacy-notice)
 * [Executive Education: Corporate and Professional Development privacy notice (pdf 154kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/EE-and-corporate-privacy-notice-2022.pdf)
 * [Skills Bootcamp privacy notice (pdf 198kb)](https://about.open.ac.uk/sites/about.open.ac.uk/files/files/Privacy/Skills-Bootcamps-Privacy-Notice.pdf)
 
