@@ -114,9 +114,9 @@ Noticia
 
 Internacionalización
 
-Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
+Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación
 
-[Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-5-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 5 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
+[Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación](http://red.es/es/actualidad/noticias/nueve-startups-espanolas-participan-en-desafia-suiza-para-presentar-sus "Ir al contenido de: Nueve startups españolas participan en Desafía Suiza para presentar sus proyectos sobre sostenibilidad e innovación")
 
 Noticia
 
