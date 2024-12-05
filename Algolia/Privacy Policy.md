@@ -48,7 +48,7 @@ Menu
     ###### INTEGRATIONS
     
     *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)
-    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe)
+    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe-experience-manager)
     *  [![](/files/live/sites/algolia-assets/files/nav/bigcommerce-icon_1.svg) BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
     *  [![](/files/live/sites/algolia-assets/files/nav/commercetools-symbol.svg) Commercetools](https://www.algolia.com/search-solutions/commercetools)
     *  [![](/files/live/sites/algolia-assets/files/nav/salesforce.svg) Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)
