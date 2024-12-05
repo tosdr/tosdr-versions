@@ -127,7 +127,7 @@ Empfehlungen für dich
         
         * [Apple](https://talk-point.de/collections/smartwatches-apple)
         * [Samsung](https://talk-point.de/collections/smartwatches-samsung)
-        * [Huawei](https://talk-point.de/collections/smartwatches-huawei)
+        * [Huawei](https://talk-point.de/collections/huawei-watch)
         * [Weitere Hersteller](https://talk-point.de/collections/smartwatches)
     * [Zubehör](https://talk-point.de/collections/smartwatch-zubehor)
         
@@ -409,7 +409,7 @@ Empfehlungen für dich
         
         * [Apple](https://talk-point.de/collections/smartwatches-apple)
         * [Samsung](https://talk-point.de/collections/smartwatches-samsung)
-        * [Huawei](https://talk-point.de/collections/smartwatches-huawei)
+        * [Huawei](https://talk-point.de/collections/huawei-watch)
         * [Weitere Hersteller](https://talk-point.de/collections/smartwatches)
     * [Zubehör](https://talk-point.de/collections/smartwatch-zubehor)
         
