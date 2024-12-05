@@ -87,13 +87,13 @@ Most Read
     
     1. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-2. 2. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+2. 2. [Splash pads really are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
     
-3. 3. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
+3. 3. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
     
-4. 4. [Splash pads really are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
+4. 4. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
     
-5. 5. [The Raspberry Pi 5 now works as a smaller, faster kind of Steam Link](https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/)
+5. 5. [Company claims 1,000 percent price hike drove it from VMware to open source rival](https://arstechnica.com/information-technology/2024/12/company-claims-1000-percent-price-hike-drove-it-from-vmware-to-open-source-rival/)
     
 
 Customize
