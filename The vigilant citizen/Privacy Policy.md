@@ -9,7 +9,6 @@
     * [Vigilant Reports](https://vigilantcitizen.com/category/vigilantreport/)
     * [Sinister Sites](https://vigilantcitizen.com/category/sinistersites/)
     * [VC Resources](https://vigilantcitizen.com/category/vc-resources/)
-* [Forums](https://vigilantcitizenforums.com/)
 * [Read This First](https://vigilantcitizen.com/vigilantreport/mind-control-theories-and-techniques-used-by-mass-media/)
 * [Subscribe to the Newsletter](https://vigilantcitizen.com/newsletter/)
 * [Recommended Reading](https://vigilantcitizen.com/recommen/)
@@ -43,7 +42,6 @@ The Vigilant Citizen
     * [Sinister Sites](https://vigilantcitizen.com/category/sinistersites/)
     * [VC Resources](https://vigilantcitizen.com/category/vc-resources/)
 * [VC E-Book Download](https://vigilantcitizen.com/product/vigilant-citizen-e-book-2024-edition-pdf/)
-* [Forums](https://vigilantcitizenforums.com/)
 * [Contact](https://vigilantcitizen.com/contact-us/)
 * [Login](https://vigilantcitizen.com/login)
 
