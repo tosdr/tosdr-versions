@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Understanding the NIS 2 Directive: Compliance insights and best practices](https://www.onetrust.com/resources/understanding-the-nis-2-directive-compliance-insights-and-best-practices-webinar/)
 * [Emerging privacy laws in the Northeast: Key insights and compliance strategies](https://www.onetrust.com/resources/emerging-privacy-laws-in-the-northeast-key-insights-and-compliance-strategies-webinar/)
 * [Compliance Automation product showcase](https://www.onetrust.com/resources/compliance-automation-product-demonstration-webinar/)
-* [Deploying third-party management to navigate risk across industries](https://www.onetrust.com/resources/deploying-third-party-management-to-navigate-risk-across-industries-ebook/)
 
 ### Platform
 
