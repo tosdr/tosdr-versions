@@ -1,50 +1,39 @@
-[![Modal icon](https://taimi.com/themes/taimi2/assets/images/banner-en.jpeg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
+[](https://taimi.com/)
 
-[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
+* [US Dating](https://taimi.com/us-dating/)
+* [Support](https://taimi.com/support/)
+* [Blog](https://taimi.com/blog/)
+* [About](https://taimi.com/about/)
+* [Press](https://taimi.com/press-room/)
+* [Wiki](https://taimi.com/wiki/)
+* [Advertise with us](https://taimi.com/advertise-with-taimi/)
 
-* 
-* [US Dating](https://taimi.com/us-dating)
-* [Support](https://taimi.com/support)
-* [Blog](https://taimi.com/blog)
-* [About](https://taimi.com/about)
-* [Press](https://taimi.com/press-room)
-* [Wiki](https://taimi.com/wiki)
-* [Advertise with us](https://taimi.com/advertise-with-taimi)
+Get the app: [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_iphone_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
 
-Download for free:
-
- [![Iphone logo](https://taimi.com/themes/taimi2/assets/images/nav_iphone.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)[![Google Play logo](https://taimi.com/themes/taimi2/assets/images/nav_google_play.png)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
+[Get Taimi for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
 
 Taimi Cookie Policy
 ===================
 
-  
+Effective Date: November 10, 2023
 
-**Effective Date:** November 10, 2023
-
-  
-
-This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Terms of Service](https://taimi.com/terms) (the “Terms”) and [Privacy Policy](https://taimi.com/privacy-policy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
+This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Terms of Service](https://taimi.com/terms) (the “Terms”) and [Privacy Policy](https://taimi.com/privacy-policy) (the “Privacy Policy”). All the terms used herein shall have the same meaning as the Terms and Privacy Policy provide, unless otherwise indicated hereby.
 
 **Any translation from English version is provided for your convenience only. In the event of any difference in meaning or interpretation between the English language version of this Cookie Policy and any translation, the English language version will prevail. The original English text shall be the sole legally binding version.**
 
 1\. Changes and Updates to Policy
 ---------------------------------
 
-1.1. All changes to this Policy shall be made and published as outlined in paragraph 2 of the Privacy Policy. 
-
-  
+1.1. All changes to this Policy shall be made and published as outlined in paragraph 2 of the Privacy Policy.
 
 2\. Why Taimi Needs Tracking Technologies
 -----------------------------------------
 
 2.1. Like many companies, we use cookies (as defined in subparagraph 3.1. of the Policy) and other tracking technologies on the Website or on the Taimi mobile application (jointly, “cookies” unless otherwise stated) including web beacons/GIFs as defined below.
 
-2.2. We use cookies and other tracking technologies- particularly to improve user experience and obtain data about how the Website is being used. The details of the cookies and tracking technologies used are specified below. 
+2.2. We use cookies and other tracking technologies- particularly to improve user experience and obtain data about how the Website is being used. The details of the cookies and tracking technologies used are specified below.
 
-2.3. The drop or the reading of certain cookies does not require your prior consent, either because they do not process any of your personal data, or because they are strictly necessary for the supply of the Services. You can decide whether or not to allow the drop of cookies which are not strictly necessary to operate the computer. If you agree (consent), these cookies will be stored to allow you to access third party hosted content on the website or on the mobile application. You may, at any time, object to the storage or the reading of the cookies we use, either by deleting them from your devices or by changing your browser settings. 
-
-  
+2.3. The drop or the reading of certain cookies does not require your prior consent, either because they do not process any of your personal data, or because they are strictly necessary for the supply of the Services. You can decide whether or not to allow the drop of cookies which are not strictly necessary to operate the computer. If you agree (consent), these cookies will be stored to allow you to access third party hosted content on the website or on the mobile application. You may, at any time, object to the storage or the reading of the cookies we use, either by deleting them from your devices or by changing your browser settings.
 
 3\. Tracking Technologies
 -------------------------
@@ -59,7 +48,7 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 
 3.5. Session cookies are only stored temporarily in the browser’s memory and are destroyed once you quit the browser. However, they will survive navigating away from the Website they came from. If no expiration date is set, they are automatically considered as session cookies.  Persistent cookies are saved on your computer, so when you shut it down and start it up again, they can still be there; they are created by giving them an expiry date and once that expiry date is reached, they will be automatically destroyed by the computer itself. If an expiry date is not set, they are automatically session cookies.
 
-3.6. “Essential” or “Strictly Necessary" cookies are strongly required for an error-free operation of the website and of the Taimi mobile application, as well as for its security and accessibility. We also need them to remember your preference about cookies. Without them, we will not be able to provide you with the Services in a proper way. Although you cannot refuse these cookies through the Website or the mobile application, you may disable them by changing your browser settings, but this may affect the Website’s or the mobile application’s functionality. These cookies are mostly session and expire on quitting the browser.
+3.6. “Essential” or “Strictly Necessary” cookies are strongly required for an error-free operation of the website and of the Taimi mobile application, as well as for its security and accessibility. We also need them to remember your preference about cookies. Without them, we will not be able to provide you with the Services in a proper way. Although you cannot refuse these cookies through the Website or the mobile application, you may disable them by changing your browser settings, but this may affect the Website’s or the mobile application’s functionality. These cookies are mostly session and expire on quitting the browser.
 
 3.7. “Performance” cookies collect information about how you use the Website, for instance which pages you go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies you. All information these cookies collect is aggregated and therefore, anonymous. It is only used to improve how the website and the Taimi mobile application’s works. Generally, these cookies are a mix of session and persistent cookies.
 
@@ -69,17 +58,15 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 
 3.10. We may use the following cookies:
 
-  
-
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Name** | **Description** | **Type** | **Expiration** | **Origin** |
 | personalization\_id | Used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content and may be used for targeted advertising. | Targeting/<br><br>Advertising | 2 years | [twitter.com](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
 | guest\_id | Used by Twitter.com in order to determine the number of visitors accessing the website through twitter advertisement content and may be used for targeted advertising. | Targeting/<br><br>Advertising | 2 years | [twitter.com](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
-| TapAd\_3WAY\_SYNCS | This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization - cookie data synchronization is used to synchronize and gather visitor data from several websites. | Targeting/<br><br>Advertising | 2 months | [tapad.com](https://www.tapad.com/global-privacy-notice) |
+| TapAd\_3WAY\_SYNCS | This cookie is set by the audience manager of the website to determine the time and frequencies of visitor data synchronization – cookie data synchronization is used to synchronize and gather visitor data from several websites. | Targeting/<br><br>Advertising | 2 months | [tapad.com](https://www.tapad.com/global-privacy-notice) |
 | TapAd\_DID<br><br>TapAd\_TS | Used to determine what type of devices (smartphones, tablets, computers, TVs etc.) is used by a user. | Targeting/<br><br>Advertising | 2 months | [tapad.com](https://www.tapad.com/global-privacy-notice) |
 | hjAbsoluteSessionInProgress | This cookie is used to detect the first pageview session of a user. This is a True/False flag set by the cookie. | Performance | Session | [HotJar.com](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) |
-| \_hjIncludedInPageviewSample | This cookie is set to let Hotjar know whether that user is included in the data sampling defined by your site's pageview limit. | Analytical | 30 minutes | [HotJar.com](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) |
+| \_hjIncludedInPageviewSample | This cookie is set to let Hotjar know whether that user is included in the data sampling defined by your site’s pageview limit. | Analytical | 30 minutes | [HotJar.com](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) |
 | \_schn | Tracks the individual sessions on the website, allowing the website to compile statistical data from multiple visits. This data can also be used to create leads for marketing purposes. | Targeting/<br><br>Advertising | Session | [taimi.com](https://taimi.com/privacy-policy) |
 | \_gcl\_au | Used to store and track conversions. | Targeting/<br><br>Advertising | Persistent | [taimi.com](https://taimi.com/privacy-policy) |
 | october\_session | This coockie allows users to be recognized within a website so any page changes or item or data selection you do is remembered from page to page. | Strictly Necessary or Essential | session | [taimi.com](https://taimi.com/privacy-policy) |
@@ -98,10 +85,10 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 | \_gid | Distinguishes users and tracks if they have previously visited the website or the Taimi mobile application. | Targeting/<br><br>Advertising | 1 day | [analytics.google.com](https://policies.google.com/technologies/cookies?hl=en-US) |
 | p2  | The “p2” cookie helps websites to count users who have visited and seen a page or various parts of a page. | Analytical | 1 week | [owneriq.net](https://www.owneriq.com/privacy-notice) |
 | si  | Used for the purpose of providing relevant advertisement. | Targeting/<br><br>Advertising | 5 years | [owneriq.net](https://www.owneriq.com/privacy-notice) |
-| kuid | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. | Targeting/<br><br>Advertising | 6 months | [krxd.net](https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/) |
-| bku | This cookie stores anonymized data about the users' web usage as well as aggregate anonymous activities to build a profile to provide more targeted and relevant marketing and advertising. | Targeting/<br><br>Advertising | 6 months | [bluekai.com](https://www.oracle.com/legal/privacy/privacy-policy.html) |
-| bkdc | This cookie stores anonymized data about the users' web usage as well as aggregate anonymous activities to build a profile to provide more targeted and relevant marketing and advertising. | Targeting/<br><br>Advertising | 6 months | [bluekai.com](https://www.oracle.com/legal/privacy/privacy-policy.html) |
-| uuid2 | Contains a unique randomly-generated value that enables to distinguish browsers and devices. It is matched against information - such as advertising interest segments and histories of ads shown in the browser or device - provided by clients or other third parties and is used to select more relevant advertisements for delivery, and to measure the performance of, and attribute payment for, those advertisements. | Targeting/<br><br>Advertising | 90 days | [adnxs.com](https://www.xandr.com/privacy/cookie-policy/) |
+| kuid | Registers a unique ID that identifies a returning user’s device. The ID is used for targeted ads. | Targeting/<br><br>Advertising | 6 months | [krxd.net](https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/) |
+| bku | This cookie stores anonymized data about the users’ web usage as well as aggregate anonymous activities to build a profile to provide more targeted and relevant marketing and advertising. | Targeting/<br><br>Advertising | 6 months | [bluekai.com](https://www.oracle.com/legal/privacy/privacy-policy.html) |
+| bkdc | This cookie stores anonymized data about the users’ web usage as well as aggregate anonymous activities to build a profile to provide more targeted and relevant marketing and advertising. | Targeting/<br><br>Advertising | 6 months | [bluekai.com](https://www.oracle.com/legal/privacy/privacy-policy.html) |
+| uuid2 | Contains a unique randomly-generated value that enables to distinguish browsers and devices. It is matched against information – such as advertising interest segments and histories of ads shown in the browser or device – provided by clients or other third parties and is used to select more relevant advertisements for delivery, and to measure the performance of, and attribute payment for, those advertisements. | Targeting/<br><br>Advertising | 90 days | [adnxs.com](https://www.xandr.com/privacy/cookie-policy/) |
 | usersync | Contains data denoting whether a cookie ID is synced with our partners<br><br>ID syncing enables our partners to use their data from outside the Platform on the Platform. | Targeting/<br><br>Advertising | 90 days | [adnxs.com](https://www.xandr.com/privacy/cookie-policy/) |
 | uids | Used to select advertisements for delivery by the Platform and to measure the performance of, and attribute payment for, those advertisements. | Targeting/<br><br>Advertising | 90 days | [adnxs.com](https://www.xandr.com/privacy/cookie-policy/) |
 | anj | Contains data denoting whether a cookie ID is synced with our partners which enables the ability to use data from outside the platform on the platform. | Targeting/<br><br>Advertising | 90 days | [adnxs.com](https://www.xandr.com/privacy/cookie-policy/) |
@@ -113,25 +100,21 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
 | \_ga\_6MMM1LTGLE | Google Universal Analytics used to track unique visitors. | Targeting/<br><br>Advertising | 2 years | [analytics.google.com](https://policies.google.com/technologies/cookies?hl=en-US) |
 | \_sctr | Used to determine whether a third party tag will be called in Snap Ads Pixel. | Targeting/<br><br>Advertising | 1 year | [snapchat.com](https://snap.com/en-GB/cookie-policy) |
 
-  
-
-4.Social Cookies 
------------------
+4.Social Cookies
+----------------
 
 4.1. Information related to your navigation on our Website or on the Taimi mobile application is collected by social networks for the purpose of advertising targeting on their own behalf via cookies that are dropped during your navigation on our site. The data, transmitted only if you consent, consists of the browsing data (pages visited)
 
-4.2. You can withdraw your consent by setting your choices in your browser or in our cookie manager. 
+4.2. You can withdraw your consent by setting your choices in your browser or in our cookie manager.
 
-4.3. Information collected by Taimi on its own behalf in connection with social networks is governed by the provisions of the [Privacy Policy](https://taimi.com/privacy-policy). However, we are not responsible for the subsequent use of your data by social networks on their own behalf.
+4.3. Information collected by Taimi on its own behalf in connection with social networks is governed by the provisions of the [Privacy Policy](https://taimi.com/privacy-policy). However, we are not responsible for the subsequent use of your data by social networks on their own behalf.
 
 4.4. We invite you to consult the personal data protection policies of our various partners (e.g. Facebook, Google, etc.) in order to know exactly what information is collected by these third parties. You can also set up the access and the confidentiality of your data directly on the social networks concerned.
 
-  
+5\. Withdraw Your Consent and Delete Cookies
+--------------------------------------------
 
-5\. Withdraw Your Consent and Delete Cookies 
----------------------------------------------
-
-5.1. You can do that by choosing the appropriate settings of your browser: 
+5.1. You can do that by choosing the appropriate settings of your browser:
 
 * For the users of [Internet Explorer](https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies);
     
@@ -139,93 +122,93 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Term
     
 * For the users of [Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666);
     
-* For the users of [Opera](https://help.opera.com/en/latest/web-preferences/);
+* For the users of [Opera](https://help.opera.com/en/latest/web-preferences/);
     
-* For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](http://support.apple.com/kb/HT1677); 
+* For the users of [Safari web](https://support.apple.com/kb/PH17191?locale=en_US) and [iOS](http://support.apple.com/kb/HT1677);
     
 * For the users of [Android](https://support.google.com/accounts/answer/32050?co=GENIE.Platform%3DAndroid&hl=en).
     
 
-5.2. You may find out how third parties process your data via cookies in cookies policies of [Facebook](https://www.facebook.com/legal/FB_Work_Cookies), [CloudFlare](https://www.cloudflare.com/en-gb/cookie-policy/), [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies), [Tapad](https://www.tapad.com/global-privacy-notice), [Medium](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), [Ellentube](https://policies.warnerbros.com/privacy/en-eu/#otnotice-section-a4893af1-41ec-4eaf-8e95-a58cb23fa11c), [Google](https://policies.google.com/privacy), [Google Analytics](https://policies.google.com/technologies/cookies?hl=en-US), [OwnerIQ](https://www.owneriq.com/privacy-notice), [Bluekai](https://www.oracle.com/legal/privacy/privacy-policy.html), Snapchat, [krxd](https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/), [adnx](https://www.xandr.com/privacy/cookie-policy/)s, and [Hotjar](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) by clicking on the respective hyperlinks, either here or in the table with names of cookie files. You can also opt-out: 
+5.2. You may find out how third parties process your data via cookies in cookies policies of [Facebook](https://www.facebook.com/legal/FB_Work_Cookies), [CloudFlare](https://www.cloudflare.com/en-gb/cookie-policy/), [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies), [Tapad](https://www.tapad.com/global-privacy-notice), [Medium](https://policy.medium.com/medium-privacy-policy-f03bf92035c9), [Ellentube](https://policies.warnerbros.com/privacy/en-eu/#otnotice-section-a4893af1-41ec-4eaf-8e95-a58cb23fa11c), [Google](https://policies.google.com/privacy), [Google Analytics](https://policies.google.com/technologies/cookies?hl=en-US), [OwnerIQ](https://www.owneriq.com/privacy-notice), [Bluekai](https://www.oracle.com/legal/privacy/privacy-policy.html), Snapchat, [krxd](https://www.salesforce.com/products/marketing-cloud/sfmc/audience-studio-privacy/), [adnx](https://www.xandr.com/privacy/cookie-policy/)s, and [Hotjar](https://help.hotjar.com/hc/en-us/articles/115011789248-Hotjar-Cookie-Information#:~:text=Hotjar%20cookie%20that%20is%20set%20when%20the%20customer%20first%20lands,to%20the%20same%20user%20ID.) by clicking on the respective hyperlinks, either here or in the table with names of cookie files. You can also opt-out:
 
-* Facebook: [https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN) (US users), [https://youradchoices.ca](https://youradchoices.ca/) (Canadians) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA users);
+* Facebook: [https://optout.aboutads.info/?c=2&lang=EN](https://optout.aboutads.info/?c=2&lang=EN) (US users), [https://youradchoices.ca](https://youradchoices.ca/) (Canadians) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA users);
     
-* Google: [https://support.google.com/analytics/answer/181881](https://support.google.com/analytics/answer/181881); 
+* Google: [https://support.google.com/analytics/answer/181881](https://support.google.com/analytics/answer/181881);
     
-* CloudFlare: [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1) (non-EEA users) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA and UK users);
+* CloudFlare: [http://optout.networkadvertising.org/?c=1](http://optout.networkadvertising.org/?c=1) (non-EEA users) and [https://www.youronlinechoices.com](https://www.youronlinechoices.com/) (EEA and UK users);
     
-* Hotjar: [https://www.hotjar.com/privacy/do-not-track](https://www.hotjar.com/privacy/do-not-track).
+* Hotjar: [https://www.hotjar.com/privacy/do-not-track](https://www.hotjar.com/privacy/do-not-track).
     
 
 6\. Processing of Data Collected Through Tracking Technologies
 --------------------------------------------------------------
 
-6.1. The processing of the data that we collect with these technologies, where it is personal data, falls within the Privacy Policy. For example, our employees and subcontractors may be able to access these data. Moreover, your data may be processed on our behalf by the third-party service providers mentioned above. For more information on our practices, see the [Privacy Policy](https://taimi.com/privacy-policy).
-
-  
+6.1. The processing of the data that we collect with these technologies, where it is personal data, falls within the Privacy Policy. For example, our employees and subcontractors may be able to access these data. Moreover, your data may be processed on our behalf by the third-party service providers mentioned above. For more information on our practices, see the [Privacy Policy](https://taimi.com/privacy-policy).
 
 7\. Reach Us Out
 ----------------
 
-7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com).  
+7.1. We would be glad to hear from you. If you have any questions regarding this Policy, please contact us at [support@taimi.com](mailto:support@taimi.com).
 
-[![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg)](https://taimi.com/)
+#### Table of Content
+
+[](https://taimi.com/)
 
 © 2024 Taimi. All rights reserved
 
- [![Google play](https://taimi.com/themes/taimi2/assets/images/google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)[![App store](https://taimi.com/themes/taimi2/assets/images/app_store_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
+ [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/app_store_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/google_play_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
 
-En
+En De Es Fr It Pt Nl
 
-En Pt Fr Nl De Es It
-
- [![Facebook](https://taimi.com/themes/taimi2/assets/images/foot_fb.svg)](https://www.facebook.com/taimiapp)[![Twitter](https://taimi.com/themes/taimi2/assets/images/foot_tw.svg)](https://twitter.com/taimiapp)[![Instagram](https://taimi.com/themes/taimi2/assets/images/foot_in.svg)](https://www.instagram.com/taimiapp)[![Tik-Tok](https://taimi.com/themes/taimi2/assets/images/foot_tt.svg)](https://www.tiktok.com/@taimiapp)
+[](https://www.facebook.com/taimiapp)[](https://twitter.com/taimiapp)[](https://www.instagram.com/taimiapp)[](https://www.tiktok.com/@taimiapp)
 
 Company
 
-* [About](https://taimi.com/about)
-* [LGBTQ+ Wiki](https://taimi.com/wiki)
-* [Contacts](https://taimi.com/contacts)
-* [Your Safety Matters](https://taimi.com/your-safety-matters)
-* [Blog](https://taimi.com/blog)
-* [Support](https://taimi.com/support)
-* [Safety tips](https://taimi.com/safety-tips)
-* [Automated decision-making](https://taimi.com/decision-making)
+* [About](https://taimi.com/about/)
+* [LGBTQA+ Wiki](https://taimi.com/wiki/)
+* [Contact Us](https://taimi.com/contacts/)
+* [Your Safety Matters](https://taimi.com/your-safety-matters/)
+* [Blog](https://taimi.com/blog/)
+* [Support](https://taimi.com/support/)
+* [Safety Tips](https://taimi.com/safety-tips/)
+* [Automated Decision-making](https://taimi.com/decision-making/)
 
 Legal
 
-* [Cookie Policy](https://taimi.com/cookie-policy)
-* [Privacy Policy](https://taimi.com/privacy-policy)
-* [Subscription Terms](https://taimi.com/billing)
-* [Terms of Service](https://taimi.com/terms)
-* [Safety/Reporting](https://taimi.com/safety-reporting)
-* [#taimishare](https://taimi.com/taimishare)
-* [Your Privacy Choices ![](https://taimi.com/themes/taimi2/assets/images/opt-out.svg)](https://taimi.com/support#donotshare) 
+* [Cookie Policy](https://taimi.com/cookie-policy/)
+* [Privacy Policy](https://taimi.com/privacy-policy/)
+* [Subscription Terms](https://taimi.com/billing/)
+* [Terms of Service](https://taimi.com/terms/)
+* [Safety/Reporting](https://taimi.com/safety-reporting/)
+* [#taimishare](https://taimi.com/taimishare/)
+* [Your Privacy Choices](https://taimi.com/support#donotshare)
 
-En
-
-En Pt Fr Nl De Es It
+En De Es Fr It Pt Nl
 
 Dating
 
-* [Gay dating](https://taimi.com/gay-dating-app)
-* [Bisexual dating](https://taimi.com/bisexual-dating)
-* [Lesbian dating](https://taimi.com/lesbian-dating-app)
-* [Queer dating](https://taimi.com/queer-dating-app)
-* [Transgender dating](https://taimi.com/transgender-dating)
-* [Asexual dating](https://taimi.com/asexual-dating)
-* [Pansexual dating](https://taimi.com/pansexual-dating)
-* [Polyamorous dating](https://taimi.com/polyamorous-dating)
+* [Gay Dating](https://taimi.com/gay-dating-app/)
+* [Bisexual Dating](https://taimi.com/bisexual-dating/)
+* [Lesbian Dating](https://taimi.com/lesbian-dating-app/)
+* [Queer Dating](https://taimi.com/queer-dating-app/)
+* [Transgender Dating](https://taimi.com/transgender-dating/)
+* [Asexual Dating](https://taimi.com/asexual-dating/)
+* [Pansexual Dating](https://taimi.com/pansexual-dating/)
+* [Polyamorous Dating](https://taimi.com/polyamorous-dating/)
 
 Chat
 
-* [Gay chat](https://taimi.com/gay-chat)
-* [Bisexual chat](https://taimi.com/bisexual-chat)
-* [Lesbian chat](https://taimi.com/lesbian-chat)
-* [Transgender chat](https://taimi.com/transgender-chat)
+* [Gay Chat](https://taimi.com/gay-chat/)
+* [Bisexual Chat](https://taimi.com/bisexual-chat/)
+* [Lesbian Chat](https://taimi.com/lesbian-chat/)
+* [Transgender Chat](https://taimi.com/transgender-chat/)
 
-![adjust](https://view.adjust.com/impression/goc7ths?campaign=https://taimi.com/cookie-policy)
+[Get Taimi App for Free](#)
 
-![Logo](https://taimi.com/themes/taimi2/assets/images/logo.svg): fluidity, discovery, diversity
+![](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/press-room-modal.svg)
 
-[Get Taimi App for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
+Request Sent
+
+Thank you for your request! Our Support team will contact you shortly.
+
+Ok
