@@ -20,13 +20,13 @@
 * [Expiring Soon](https://okwow.com/category/expiring-soon/)
 * [Blogs](https://okwow.com/category/blogs/)
 
-[Subscribe](https://go.okwow.com/?zRid=OK&utm_content=ok_amazon_250&utm_source=onsite_ok&utm_campaign=email_signup&utm_medium=subscribe_CTA)
+[Subscribe (opens in a new tab)](https://go.okwow.com/?zRid=OK&utm_content=ok_amazon_250&utm_source=onsite_ok&utm_campaign=email_signup&utm_medium=subscribe_CTA)
 
 * [Quick Search...](#search-lightbox)
 
 [![OkWoW](https://okwow.com/wp-content/uploads/2024/09/logoOKwow.png)](https://okwow.com/)
 
-[Subscribe](https://go.okwow.com/?zRid=OK&utm_content=ok_amazon_250&utm_source=onsite_ok&utm_campaign=email_signup&utm_medium=subscribe_CTA)
+[Subscribe (opens in a new tab)](https://go.okwow.com/?zRid=OK&utm_content=ok_amazon_250&utm_source=onsite_ok&utm_campaign=email_signup&utm_medium=subscribe_CTA)
 
 [](#search-lightbox)
 
@@ -328,3 +328,19 @@ Sign up to get daily giveaways, and more!
 
 **This website or its third-party tools process personal data. You can opt out of the sale of your personal information by clicking on the “Do not Sell or Share my Personal Information" link [here](#).  
 **The third-party product names, logos, brands, and trademarks shown on this website are the property of their respective owners. These companies are not affiliated with OkWow. These third parties do not sponsor or endorse this website, its content, or services.
+
+[Skip to content](#content)
+
+[Open toolbar Accessibility Tools](javascript:void(0); "Accessibility Tools")
+
+Accessibility Tools
+
+* [Increase TextIncrease Text](#)
+* [Decrease TextDecrease Text](#)
+* [GrayscaleGrayscale](#)
+* [High ContrastHigh Contrast](#)
+* [Negative ContrastNegative Contrast](#)
+* [Light BackgroundLight Background](#)
+* [Links UnderlineLinks Underline](#)
+* [Readable FontReadable Font](#)
+* [Reset Reset](#)
