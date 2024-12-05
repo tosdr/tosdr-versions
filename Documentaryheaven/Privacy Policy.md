@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Confessions of a Serial Killer: Jeffrey Dahmer](/wp-content/thumbnails/6050-100x70.jpg?x53432)
+* [![Walt Disney](/wp-content/thumbnails/12936-100x70.jpg?x53432)
     
-    Confessions of a Serial Killer: Jeffrey Dahmer
+    Walt Disney
     
-    In February 1994, NBC’s Stone Phillips met serial killer Jeffrey Dahmer for his only network television interview. He traveled to the prison with Jeffrey Dahmer’s father, Lionel, and his step-mother,](https://documentaryheaven.com/confessions-of-a-serial-killer-jeffrey-dahmer/ "Confessions of a Serial Killer: Jeffrey Dahmer")
-* [![The Real West](/wp-content/thumbnails/6389-100x70.jpg?x53432)
+    Walt Disney is a two-part film which explores the life and legacy of the man responsible for making Disney the giant it is today. Using archival footage which is fresh from the vaults of Dis](https://documentaryheaven.com/walt-disney/ "Walt Disney")
+* [![David Bowie And The Story Of Ziggy Stardust](/wp-content/thumbnails/9553-100x70.jpg?x53432)
     
-    The Real West
+    David Bowie And The Story Of Ziggy Stardust
     
-    Boom Towns to Ghost Towns Historians explain dirtier, less glamorous side of America’s wild west. A great look into what life was really like in the lawless boom towns.](https://documentaryheaven.com/the-real-west/ "The Real West")
-* [![Do We Really Need the Moon?](/wp-content/thumbnails/5017-100x70.jpg?x53432)
+    40 years ago in millions of living rooms located across the United Kingdom a strange being, not of this world was beamed onto television screens, with bright red hair and a multicoloured spacesuit, hi](https://documentaryheaven.com/david-bowie-story-ziggy-stardust/ "David Bowie And The Story Of Ziggy Stardust")
+* [![What Makes Art Valuable?](/wp-content/thumbnails/9441-100x70.jpg?x53432)
     
-    Do We Really Need the Moon?
+    What Makes Art Valuable?
     
-    The Moon is such a familiar presence in the sky that most of us take it for granted. But what if it wasn’t where it is now? How would that affect life on Earth?Space scientist and lunar fanatic Dr M](https://documentaryheaven.com/do-we-really-need-the-moon/ "Do We Really Need the Moon?")
-* [![Waste = Food](/wp-content/thumbnails/1051-100x70.jpg?x53432)
+    What would you buy if you happened to have 100 million dollars? perhaps a mansion, a fleet of private jets, your own personal submarine or would you put it all into a single piece of artwork? Some of](https://documentaryheaven.com/makes-art-valuable/ "What Makes Art Valuable?")
+* [![Who’s Afraid of Machiavelli?](/wp-content/thumbnails/8668-100x70.jpg?x53432)
     
-    Waste = Food
+    Who’s Afraid of Machiavelli?
     
-    As part of THE GREEN, Sundance Channel presents a series of documentary films focusing on timely and pressing environmental issues of the day.Every day natural resources are being rapidly depleted](https://documentaryheaven.com/waste-food/ "Waste = Food")
-* [![David Attenborough’s Madagascar](/wp-content/thumbnails/6245-100x70.jpg?x53432)
+    Niccolo Machiavelli, 16th century Italian diplomat, political thinker, arch bad guy, his name conjures up everything thats sly about human behavior. It's all because of his book entitled "The Prince",](https://documentaryheaven.com/whos-afraid-of-machiavelli/ "Who’s Afraid of Machiavelli?")
+* [![Future Weapons: Mission Invisible S2/E4](/wp-content/thumbnails/1905-100x70.jpg?x53432)
     
-    David Attenborough’s Madagascar
+    Future Weapons: Mission Invisible S2/E4
     
-    Episode 1: Island of Marvels Madagascar, the world’s oldest island, broke off from Africa and India and has been on its own for more than 70 million years. In splendid isolation, it has evolved its ve](https://documentaryheaven.com/david-attenboroughs-madagascar/ "David Attenborough’s Madagascar")
+    Join Mack aboard the USS Texas – the first in a new class of super-silent multipurpose submarines. Catch sight of weapons that are so stealthy, you can't see them coming including the latest B2 'Spiri](https://documentaryheaven.com/future-weapons-mission-invisible-s2e4/ "Future Weapons: Mission Invisible S2/E4")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
