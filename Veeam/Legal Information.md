@@ -29,7 +29,7 @@ Menu
 
 Menu
 
-* [Products](javascript:void(0);)
+* Products
     
     Products
     
@@ -153,7 +153,7 @@ Menu
     
     [Buy Online](https://store.veeam.com/1620/purl-store?ad=menu-products-portfolio-htb)
     
-* [Solutions](javascript:void(0);)
+* Solutions
     
     Solutions
     
@@ -204,7 +204,7 @@ Menu
     * [VMware](https://www.veeam.com/solutions/alliance-partner/vmware.html?ad=menu-solutions)
     * [Alliance Partner Integrations & Qualifications](https://www.veeam.com/solutions/alliance-partner/integrations-qualifications.html?ad=menu-solutions)
     
-* [Support](javascript:void(0);)
+* Support
     
     Support
     
@@ -245,7 +245,7 @@ Menu
     * [Community Experts](https://www.veeam.com/support/vanguard.html?ad=menu-support)
     * [R&D Forums](https://forums.veeam.com/?ad=menu-support)
     
-* [Resources](javascript:void(0);)
+* Resources
     
     Resources
     
@@ -285,7 +285,7 @@ Menu
     
     * [Cyber Resiliency Videos](https://www.veeam.com/resource/video/cyber-resiliency.html?ad=menu-resources)
     
-* [Partners](javascript:void(0);)
+* Partners
     
     Partners
     
@@ -306,7 +306,7 @@ Menu
     
     * [ProPartner Portal](https://propartner.veeam.com/?ad=menu-partners)
     
-* [Company](javascript:void(0);)
+* Company
     
     Company
     
