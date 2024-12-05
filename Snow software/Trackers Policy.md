@@ -68,7 +68,7 @@ Main navigation
     
     What do transformative initiatives such as GenAI, machine learning and sustainability mean for the cloud? Check out the 2024 State of the Cloud Report to find the answer as well as all the latest cloud computing trends.
     
-    [View Report](https://info.flexera.com/CM-REPORT-State-of-the-Cloud?lead_source=Website%20Visitor&id=Flexera.com-Resources)
+    [View Report](https://info.flexera.com/CM-REPORT-State-of-the-Cloud)
     
 * Success
     * Column 1
