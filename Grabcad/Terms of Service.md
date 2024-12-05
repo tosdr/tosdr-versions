@@ -13,7 +13,7 @@ Get to know GrabCAD as an open software platform for Additive Manufacturing
     * [Shop](https://grabcad.com/shop)
     * [Streamline Pro](https://grabcad.com/streamline-pro)
     * [Partner Program](https://grabcad.com/featured-software-partners)
-    * [Print](https://grabcad.com/print/account)
+    * [Print](https://grabcad.com/print)
     
     * [Community](https://grabcad.com/dashboard)
 
