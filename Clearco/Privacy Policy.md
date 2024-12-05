@@ -96,7 +96,7 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 ![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6750d34da59bed3c6b14d6a1_clearco-alternative-to-stenn-invoice-financing.jpg)
 
-###### Clearco is an invoice funding solution to Stenn's invoice financing for CPG ecommerce in the U.S.
+###### Clearco's Invoice Funding is an alternative to Stenn's invoice financing for CPG ecommerce in the U.S.
 
 [Read now >](https://clear.co/blog/clearco-is-an-invoice-financing-alternative-to-stenn)
 
