@@ -6,7 +6,7 @@
     
 * [Research & Data](https://www.atlantafed.org/research)
     
-    [About Us](https://www.atlantafed.org/research/economists) [Data & Tools](https://www.atlantafed.org/research/data-and-tools) [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience) [Inflation Project](https://www.atlantafed.org/research/inflationproject) [Events](https://www.atlantafed.org/research/events) [Publications](https://www.atlantafed.org/research/publications) [Research Centers](https://www.atlantafed.org/research/centers) [Regional Economy](https://www.atlantafed.org/rein) [Surveys](https://www.atlantafed.org/research/surveys)
+    [About Us](https://www.atlantafed.org/research/economists) [Data & Tools](https://www.atlantafed.org/research/data-and-tools) [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience) [Inflation Project](https://www.atlantafed.org/research/inflationproject) [Events](https://www.atlantafed.org/research/events) [Publications](https://www.atlantafed.org/research/publications) [Research Centers](https://www.atlantafed.org/news/press-room/media-faqs) [Regional Economy](https://www.atlantafed.org/rein) [Surveys](https://www.atlantafed.org/research/surveys)
     
 * [Economy Matters](https://www.atlantafed.org/economy-matters)
     
@@ -22,18 +22,39 @@
     
 * [Education](https://www.atlantafed.org/education)
     
-    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/education/learn) [Visit](https://www.atlantafed.org/education/visit) [Contact](https://www.atlantafed.org/education/contact)
+    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/community-development/data-and-tools/southeastern-rental-affordability-tracker) [Visit](https://www.atlantafed.org/cweo/data-tools/opportunity-occupations-monitor) [Contact](https://www.atlantafed.org/education/contact)
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
-    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
+    [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/publications/partners-update) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
 * [About the Fed](https://www.atlantafed.org/about)
     
     [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
 
-        
+      
+
+* [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision)
+    
+    [About Us](https://www.atlantafed.org/about/atlantafed/directors) [Appeals](https://www.atlantafed.org/banking-and-payments/banking-supervision/appeals) [Banking Applications](https://www.atlantafed.org/banking-and-payments/banking-supervision/banking-applications) [Community Reinvestment Act](https://www.atlantafed.org/banking-and-payments/banking-supervision/community-reinvestment-act) [Discount Window](https://www.atlantafed.org/banking-and-payments/lending) [Events](https://www.atlantafed.org/banking-and-payments/banking-supervision/events) [Federal Reserve Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision/become-a-member-bank) [Regulatory News](https://www.atlantafed.org/banking-and-payments/banking-supervision/regulatory-news) [Resources](https://www.atlantafed.org/banking-and-payments/banking-supervision/resources)
+    
+* [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity)
+* [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments)
+    
+    [Survey and Diary of Consumer Payment Choice](https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-and-diary-of-consumer-payment-choice) [Publications](https://www.atlantafed.org/banking-and-payments/consumer-payments/publications) [Research Data Reports](https://www.atlantafed.org/banking-and-payments/consumer-payments/research-data-reports)
+    
+* [Lending](https://www.atlantafed.org/banking-and-payments/lending)
+* [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion)
+* [Payments Forum](https://www.atlantafed.org/payments-forum)
+* [Publications](https://www.atlantafed.org/banking-and-payments/publications)
+    
+    Community Reinvestment Act [Crisis Preparedness](https://www.atlantafed.org/banking-and-payments/publications/crisis-preparedness) [Guide to Your First Bank Account](https://www.atlantafed.org/banking-and-payments/publications/guide-to-your-first-bank-account) [Paying for It](https://www.atlantafed.org/banking-and-payments/publications/paying-for-it)
+    
+* [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
+    
+    [Contacts](https://www.atlantafed.org/banking-and-payments/reporting/contacts) [Financial Institution Reports](https://www.atlantafed.org/banking-and-payments/reporting/financial-institution-reports) [Resources](https://www.atlantafed.org/banking-and-payments/reporting/resources) [Training](https://www.atlantafed.org/banking-and-payments/reporting/training)
+    
 
 Menutoggle menu
 
