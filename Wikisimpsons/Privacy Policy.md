@@ -7,6 +7,6 @@
 
 The Simpsons® is a registered trademark of 20th Century Fox.
 
-cached December 4th 11:32 pm by ( web )
+cached December 5th 5:28 am by ( web )
 
 ![](http://piwik.simpsonswiki.com/piwik.php?idsite=1&rec=1)
