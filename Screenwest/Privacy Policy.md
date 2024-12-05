@@ -37,7 +37,7 @@ Search this website  Search
     * [Equity and Access Support](https://www.screenwest.com.au/funding-incentives/diversity-equity-and-inclusion-support/)
     * [Film Festivals Support](https://www.screenwest.com.au/funding-incentives/film-festivals-support/)
     * [Special Initiatives](https://www.screenwest.com.au/funding-incentives/initiatives/)
-    * [2024 Funding Calendar](https://www.screenwest.com.au/funding-incentives/funding-calendar-24/)
+    * [2024-25 Funding Calendar](https://www.screenwest.com.au/funding-incentives/funding-calendar-24/)
 * [Filming in WA](https://www.screenwest.com.au/filming-in-wa/)
     * [Find Your Next Filming Location](https://www.screenwest.com.au/filming-in-wa/locations/)
     * [Crew & Services Directory](https://www.screenwest.com.au/filming-in-wa/crew-services/)
@@ -219,7 +219,7 @@ Screenwest acknowledges and pays respect to all Traditional Owners of Country ac
 
 [Special Initiatives](https://www.screenwest.com.au/funding-incentives/initiatives/)
 
-[2024 Funding Calendar](https://www.screenwest.com.au/funding-incentives/funding-calendar-24/)
+[2024-25 Funding Calendar](https://www.screenwest.com.au/funding-incentives/funding-calendar-24/)
 
 [Filming in WA](https://www.screenwest.com.au/filming-in-wa/)
 
