@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Dec 05, 2024
+Fri, Dec 06, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Pushpa 2 Review](https://www.news18.com/movies/pushpa-2-movie-review-allu-arjun-and-fahadh-faasil-deliver-mass-entertainer-of-the-year-9145536.html)
-    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-cm-swearing-in-live-updates-devendra-fadnavis-eknath-shinde-ajit-pawar-pm-modi-nda-leaders-mumbai-liveblog-9145584.html)
-    * [Heart Health](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
-    * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-    * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-makes-rare-comment-about-aishwarya-rai-salman-khan-talks-about-abusive-love-your-breakup-9145847.html)
+    * [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
+    * [Healthy Heart](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
     * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
+    * [Vinod Kambli](https://www.news18.com/cricket/ailing-vinod-kambli-to-receive-financial-help-from-1983-world-cup-heroes-but-on-one-condition-ws-b-9146514.html)
+    * [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+    * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Pushpa 2 Review](https://www.news18.com/movies/pushpa-2-movie-review-allu-arjun-and-fahadh-faasil-deliver-mass-entertainer-of-the-year-9145536.html)
-* [Maharashtra CM](https://www.news18.com/politics/maharashtra-cm-swearing-in-live-updates-devendra-fadnavis-eknath-shinde-ajit-pawar-pm-modi-nda-leaders-mumbai-liveblog-9145584.html)
-* [Heart Health](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
-* [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-* [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-makes-rare-comment-about-aishwarya-rai-salman-khan-talks-about-abusive-love-your-breakup-9145847.html)
+* [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
+* [Healthy Heart](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
 * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
+* [Vinod Kambli](https://www.news18.com/cricket/ailing-vinod-kambli-to-receive-financial-help-from-1983-world-cup-heroes-but-on-one-condition-ws-b-9146514.html)
+* [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+* [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 05, 2024
+Dec 06, 2024
 
 [View All](https://www.news18.com/short-news/)
 
