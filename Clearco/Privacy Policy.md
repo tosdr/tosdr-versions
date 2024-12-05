@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/67506da06b6ea1b49ef6ef19_best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house3.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6750d34da59bed3c6b14d6a1_clearco-alternative-to-stenn-invoice-financing.jpg)
 
-###### The Best Gifts for the Foodie in Your Life: Sweet Treats & Quality Meats
+###### Clearco is an invoice funding solution to Stenn's invoice financing for CPG ecommerce in the U.S.
 
-[Read now >](https://clear.co/blog/best-holiday-gifts-get-maine-lobster-meat-n-bone-grazy-goat-foods-spice-house)
+[Read now >](https://clear.co/blog/clearco-is-an-invoice-financing-alternative-to-stenn)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
