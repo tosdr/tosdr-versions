@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service! just signed up for full years subscription - many thanks!
+Thanks for your service. It was really great. The speed was really great and I trust your service and will keep recommending it to my friends. Keep up the good work :)
 
-Samuel Harvey
+Hannes Nagl
