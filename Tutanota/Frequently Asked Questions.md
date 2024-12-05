@@ -1,7 +1,3 @@
-[Get The Black Friday & Cyber Monday Deal](https://tuta.com/black-friday)
-
-[**Save 62%**](https://tutanota.com/black-friday)
-
 [](https://tutanota.com/ "Tuta")
 
 [Login](https://app.tuta.com/ "Mail. Done. Right. Login to Tuta") [Sign up](https://app.tuta.com/?r=/signup#subscription)
