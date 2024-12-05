@@ -273,13 +273,6 @@ Most Popular
 [Man arrested and drugs and cash seized following search of property in Derry](https://www.derrynow.com/news/local-news/1672400/man-arrested-and-drugs-and-cash-seized-following-search-of-property-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, December 4, 2024](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry brothers launch new 'home care' business venture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry brothers launch new 'home care' business venture")](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
 
 [Business](https://www.derrynow.com/section/1339/business)
@@ -334,6 +327,13 @@ Derry Magistrate's Court
 
 [Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on")](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Keeper Arlo Doherty pens long-term Derry City deal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Keeper Arlo Doherty pens long-term Derry City deal")](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
 
 Derry City goalkeeper Arlo Doherty has signed a long term deal with the Candystripes. (PHOTO: Ramsey Cardy/Sportsfile)
@@ -522,7 +529,7 @@ Derry City goalkeeper Arlo Doherty has signed a long term deal with the Candystr
 [Keeper Arlo Doherty pens long-term Derry City deal](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Two men wanted in Italy to serve prison sentences arrested in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
+[![Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/resizer/165/93/true/2024_12_04/1632648154255.jpg--police_deploy_stinger_during_county_derry_car_chase-1733337997748.jpg--.jpg?1733337997772 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -551,15 +558,6 @@ Simone Magill in action for Northern Ireland in 2022
 
 [County Derry's Simone Magill will not captain Northern Ireland at next year's European Championship](https://www.derrynow.com/news/derry-sport/1672640/county-derry-s-simone-magill-will-not-captain-northern-ireland-at-next-year-s-european-championship.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man who damaged apartment block door fined](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man who damaged apartment block door fined")](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
