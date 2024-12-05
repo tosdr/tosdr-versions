@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/echtgenoot-minister-schultz-kiwa-miljoenen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/farmaceutische-industrie-woekert-binnen-de-overheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
