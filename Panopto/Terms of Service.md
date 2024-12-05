@@ -173,6 +173,8 @@ Ready to **see Panopto in action?**
 
 We believe in the power of learning, and we built an intelligent platform to help enterprise organizations improve the way they train, teach, and share knowledge.
 
+[![](https://www.panopto.com/wp-content/uploads/2024/12/Panopto_US_English_2024_Certification_Badge.png)](https://www.greatplacetowork.com/certified-company/7004402)
+
 ![](https://www.panopto.com/wp-content/uploads/2024/09/medal.png)
 
 ![](https://www.panopto.com/wp-content/uploads/2024/09/medal-2.png)
