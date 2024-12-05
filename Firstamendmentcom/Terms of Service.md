@@ -178,11 +178,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[27 Nov](https://twitter.com/walterslawgroup/status/1861593010812694850)
+[3 Dec](https://twitter.com/walterslawgroup/status/1863957429710717241)
 
-FSC Sues Tennessee Over AV Law, Seeks Preliminary Injunction
+Lawrence Walters and ⁦@RicciLevy⁩ of ⁦@WoodhullFreedom⁩ talk sexual freedom on Beat the Prosecution Podcast with ⁦⁦@JonKatz5⁩
 
-[Reply on Twitter 1861593010812694850](https://twitter.com/intent/tweet?in_reply_to=1861593010812694850&related=walterslawgroup) [Retweet on Twitter 1861593010812694850](https://twitter.com/intent/retweet?tweet_id=1861593010812694850&related=walterslawgroup) [Like on Twitter 1861593010812694850 2](https://twitter.com/intent/like?tweet_id=1861593010812694850&related=walterslawgroup) [Twitter 1861593010812694850](https://twitter.com/walterslawgroup/status/1861593010812694850)
+[Reply on Twitter 1863957429710717241](https://twitter.com/intent/tweet?in_reply_to=1863957429710717241&related=walterslawgroup) [Retweet on Twitter 1863957429710717241](https://twitter.com/intent/retweet?tweet_id=1863957429710717241&related=walterslawgroup) [Like on Twitter 1863957429710717241 4](https://twitter.com/intent/like?tweet_id=1863957429710717241&related=walterslawgroup) [Twitter 1863957429710717241](https://twitter.com/walterslawgroup/status/1863957429710717241)
 
 [Load More](javascript:void(0);)
 
