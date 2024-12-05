@@ -159,7 +159,7 @@ Other Assets
 * [Discord Pfps](https://pfps.gg/)
 * [Discord Themes](https://discordthemes.com/)
 * [Discord Servers](https://disforge.com/)
-* [Discord Bots](https://disforge.com/bots)
+* [Discord Sounds](https://soundboards.gg/)
 
 Emoji.gg Links
 
