@@ -1,4 +1,4 @@
-Thursday, December 5 2024
+Friday, December 6 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
