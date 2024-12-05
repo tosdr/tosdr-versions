@@ -67,6 +67,10 @@ Rechercher sur Le Parisien
     
 * [Politique](https://www.leparisien.fr/politique/)
     
+    * [Emmanuel Macron](https://www.leparisien.fr/politique/emmanuel-macron/)
+    * [Michel Barnier](https://www.leparisien.fr/politique/michel-barnier/)
+    * [Élections](https://www.leparisien.fr/elections/)
+    
 * [International](https://www.leparisien.fr/international/)
     
     * [États-Unis](https://www.leparisien.fr/international/etats-unis/)
