@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is great. No need to change anything. Trying the proxy service before paying is great.
+Thank you for your always quick response!
 
-Mario Riedel
+Ana Matic
