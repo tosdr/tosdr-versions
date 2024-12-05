@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/buttecounty.jpg?ve=1&tl=1)
+
+ ![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/buttecounty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/school-shooting-oroville-california)
+
+### [Suspected gunman dead, 2 students injured after school shooting in California](https://www.fox4news.com/news/school-shooting-oroville-california)
+
+ [![Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/10/32/18/1015-Patrick.png?ve=1&tl=1)
+
+ ![Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/10/32/18/592/333/1015-Patrick.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-lt-gov-dan-patrick-launches-legislative-initiative-ban-all-thc)
+
+### [Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://www.fox4news.com/news/texas-lt-gov-dan-patrick-launches-legislative-initiative-ban-all-thc)
+
+ [![Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/hunter-biden1.jpg?ve=1&tl=1)
+
+ ![Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/hunter-biden1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smiling-hunter-biden-seen-first-photos-since-receiving-presidential-pardon)
+
+### [Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://www.fox4news.com/news/smiling-hunter-biden-seen-first-photos-since-receiving-presidential-pardon)
+
  [![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1)
 
  ![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Will Governor DeSantis become Secretary DeSantis?](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2023/05/32/18/592/333/DESANTIS-AND-TRUMP-SIDE-BY-SIDE.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
 
 ### [Will Governor DeSantis become Secretary DeSantis?](https://www.fox4news.com/news/trump-considering-nominating-florida-gov-ron-desantis-defense-secretary-reports-say)
-
- [![Tarrant County convicted killer Jason Thornburg sentenced to death](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/120424-thornburg-trial-kdfweme003_16_10_39_mpg_00.13.18.44.jpg?ve=1&tl=1)
-
- ![Tarrant County convicted killer Jason Thornburg sentenced to death](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/120424-thornburg-trial-kdfweme003_16_10_39_mpg_00.13.18.44.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
-
-### [Tarrant County convicted killer Jason Thornburg sentenced to death](https://www.fox4news.com/news/jason-thornburg-texas-serial-killer-sentencing-livestream)
-
- [![Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-rabb-trackdown-northwest-highway-murder-530p_00.00.29.26-e1733349817515.jpg?ve=1&tl=1)
-
- ![Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-rabb-trackdown-northwest-highway-murder-530p_00.00.29.26-e1733349817515.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trackdown-northwest-highway-shooting-dallas)
-
-### [Trackdown: Information sought in deadly W. Northwest Hwy shooting](https://www.fox4news.com/news/trackdown-northwest-highway-shooting-dallas)
-
- [![Modified plans for North Texas' 3rd commercial airport approved](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-mckinney-airport-rezoning-4p_00.00.05.12.jpg?ve=1&tl=1)
-
- ![Modified plans for North Texas' 3rd commercial airport approved](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-mckinney-airport-rezoning-4p_00.00.05.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/modified-plans-north-texas-3rd-commercial-airport-approved)
-
-### [Modified plans for North Texas' 3rd commercial airport approved](https://www.fox4news.com/news/modified-plans-north-texas-3rd-commercial-airport-approved)
 
 ###### [News](https://www.fox4news.com/news)
 
