@@ -72,7 +72,7 @@ The store will not work correctly in the case when cookies are disabled.
     
     * [Join TT MOD](https://casemod.thermaltake.com/)
     * [Lighting Mix Invitation](http://lightmix.thermaltake.com/)
-    * [CaseMOD Invitation](https://casemod.thermaltake.com/2023s1/)
+    * [CaseMOD Invitation](https://casemod.thermaltake.com/2024s1/)
     * [Forums](https://community.thermaltake.com/)
     * [Press Release](https://www.thermaltake.com/news/)
     * [Marketing Materials](https://www.thermaltake.com/wallpapers)
@@ -176,7 +176,7 @@ Categories
 * [Community](#)
     * [Join TT MOD](https://casemod.thermaltake.com/)
     * [Lighting Mix Invitation](http://lightmix.thermaltake.com/)
-    * [CaseMOD Invitation](https://casemod.thermaltake.com/2023s1/)
+    * [CaseMOD Invitation](https://casemod.thermaltake.com/2024s1/)
     * [Forums](https://community.thermaltake.com/)
     * [Press Release](https://www.thermaltake.com/news/)
     * [Marketing Materials](https://www.thermaltake.com/wallpapers)
