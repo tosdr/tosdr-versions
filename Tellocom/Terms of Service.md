@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=36a3328de77d1c56f5ea77958c6df010)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=c99d69e0d151228430396b1ce6dc4b92)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -172,7 +172,7 @@ The Unlimited data option provides unlimited data usage at a regular monthly rat
 Tello Unlimited Plans with international long-distance service are provided solely for live dialogue between and initiated by, two individuals for personal use and not for non-residential use or resale. The limit for international calls is set at 1000 min/30-day billing cycle and this balance is not rolled over. In case of abuse of usage, we reserve the right to suspend, terminate or restrict your ILD Services without any prior notice. We further reserve the right to add or remove countries from the list of those for which Unlimited Plans are available, to discontinue Services to any country, or to revise the number of minutes.  
   
 Network Management  
-Generally, Tello does not inhibit the ability of our Customers to use mobile data. However, like many service providers, Telloemploys reasonable network management practices consistent with industry standards to maintain the reliability of its network and minimize network issues and complications, and these practices are subject to change. Specifically, Tello currently manages its network in the following ways:
+Generally, Tello does not inhibit the ability of our Customers to use mobile data. However, like many service providers, Tello employs reasonable network management practices consistent with industry standards to maintain the reliability of its network and minimize network issues and complications, and these practices are subject to change. Specifically, Tello currently manages its network in the following ways:
 
 * Traffic identified as malicious (such as distributed denial of service attacks) may be automatically identified and blocked
 * In the event of network congestion in which the supporting technology determines that Service is likely to be degraded for Customers, Tello manages its network resources to prioritize certain communications in order to avoid disruption of those Services. Otherwise, network management is non-discriminatory and agnostic to the application.
@@ -250,7 +250,7 @@ Plans rates are subject to change without any prior notice.
 Plans will be automatically renewed every 30 days, unless a Customer decides to change or renew a plan during the billing cycle, which is possible. The Customer will be charged on the spot, which initiates a new billing cycle.  
 If the automatic billing fails, a new attempt will take place on the next day (on the 31st day of your plan). If the billing succeeds, your billing date will remain the same as before. If automatic billing fails to pay the charges on your account in full on the second attempt, your Services may be suspended or terminated, at Tello’s sole discretion and your plan may be deleted.  
   
-If a plan is changed or renewed during the billing cycle, any remaining balance will roll over for the next 30 days  (except for unlimited plans if available). The billing date will also be renewed each time Customer changes a monthly plan.  
+If a plan is changed or renewed during the billing cycle, any remaining balance will roll over for the next 30 days (except for unlimited plans if available). The billing date will also be renewed each time Customer changes a monthly plan.  
   
 Any unused balance of the plan will expire once the usage period is over.  
   
@@ -265,11 +265,11 @@ Data usage is rounded up to the next full-kilobyte increment at the end of each 
 
 If more than one product is active in customer's account, the balance will be used in this priority: for data usage, national calls and texts: Plans balance and then Pay As You Go balance. Premium destinations can not be called with any of our plans. These numbers can be called with Pay As You Go balance.
 
-**Tello Unlimited Plan**  
-The Unlimited Plan is meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above 5GB. Accounts where we find excessive data usage may experience slowness in speed and/or service limitations for the current billing cycle, up to termination.**The Unlimited Data Plans are not available for renewal.**  
+**Tello Unlimited Plans**  
+Tello Unlimited data plans are meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above the hotspot amount included in your data plan.**  
+Unlimited Data Plans are not available for renewal.**  
   
-New and existing customers on qualifying plans including data have streaming video optimization technology automatically applied to our plans, and video is delivered at a lower resolution (typically 480p) rather than at a higher resolution which is better suited for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.  
-The Unlimited Data Plans are not available for renew.
+New and existing customers on qualifying plans including data have streaming video optimization technology automatically applied to our plans, and video is delivered at a lower resolution (typically 480p) rather than at a higher resolution which is better suited for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.
 
 Park Number Plan Service Agreement
 ----------------------------------
