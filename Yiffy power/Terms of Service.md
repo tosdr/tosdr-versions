@@ -97,7 +97,7 @@ Latest commented posts
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 766 1
+0 775 1
 
 November 18, 2024
 
@@ -105,23 +105,23 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 231 1
+0 241 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/dungeons-and-dragons-and-etc-created-by-pink-prawn/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-notevilfox/)
 
-[dungeons and dragons and etc created by pink prawn](https://yiff-party.com/yiff/dungeons-and-dragons-and-etc-created-by-pink-prawn/)
+[nintendo and etc created by notevilfox](https://yiff-party.com/yiff/nintendo-and-etc-created-by-notevilfox/)
 
-0 78 0
+0 70 0
 
-November 5, 2024
+November 6, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/grape-jelly-directed-by-anonymous-director/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-jirikdos-2/)
 
-[grape jelly directed by anonymous director](https://yiff-party.com/yiff-ai-premium/grape-jelly-directed-by-anonymous-director/)
+[directed by jirikdos](https://yiff-party.com/yiff-ai-premium/directed-by-jirikdos-2/)
 
-0 2 0
+0 1 0
 
 December 5, 2024
 
