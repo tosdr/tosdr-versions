@@ -292,14 +292,14 @@ The Regions Agreement and Disclosure Statement for Electronic Banking Services (
 Notice of Revised Agreement
 ---------------------------
 
-**The Agreement has been revised as of October 3, 2024.**
+**The Agreement has been revised as of December 5, 2024.**
 
-* **[Download the summary of the amendments (PDF)](https://www.regions.com/-/media/pdfs/terms/Notice-of-Amendments-10-3-2024.pdf)**
+* **[Download the summary of the amendments (PDF)](https://www.regions.com/-/media/pdfs/terms/Notice-of-Amendments-12-5-2024.pdf)**
 
 Complete Agreement
 ------------------
 
-* [Download Complete Agreement, as revised October 3, 2024 (PDF)](https://www.regions.com/-/media/pdfs/terms/OLB_Service_Agreement.pdf?1032024)
+* [Download Complete Agreement, as revised December 5, 2024 (PDF)](https://www.regions.com/-/media/pdfs/terms/OLB_Service_Agreement.pdf?1252024)
 
 Errors or Questions
 -------------------
