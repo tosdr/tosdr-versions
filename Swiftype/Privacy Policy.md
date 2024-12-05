@@ -61,7 +61,7 @@ Search and analytics, data ingestion, and visualization – all at your fingerti
 **By developers, for developers**
 
 * [Try the world's most used vector database](https://www.elastic.co/elasticsearch/vector-database)
-* [Scale with the low-latency Search Lake AI](https://www.elastic.co/blog/search-ai-lake-elastic-cloud-serverless)
+* [Scale with the low-latency Search AI Lake](https://www.elastic.co/blog/search-ai-lake-elastic-cloud-serverless)
 * [Join our community](https://www.elastic.co/community)
 
 ![](https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/bltdb0f38c35ae455dc/5d07f086877575d0584760a3/logo-cloud-24-color.svg)
