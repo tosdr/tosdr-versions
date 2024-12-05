@@ -339,7 +339,6 @@ Advertise
 
 ### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
 
-* 1 hr ago
 * Primrose Riordan
 
 * ### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
