@@ -152,6 +152,8 @@ Services
 
 * [Energy Transition](https://www.infosys.com/services/energy-transition.html "Energy Transition")
 
+* [Network Transformation Services](https://www.infosys.com/services/network-transformation.html "Network Transformation Services")
+
 ![Assure](/content/dam/infosys-web/burger-menu/en/images/assure.svg)
 
 ### Assure
