@@ -17,7 +17,7 @@ Utility Navigation
 * [Contact](https://www.nacha.org/form/contact)
 * [Search](https://www.nacha.org/search)
 
-[](https://www.nacha.org/content/become-aap)[![PLCS logo](/sites/default/files/2024-09/PLCS-homepage.png)](https://www.nacha.org/payments-legal-compliance-summit)
+[![Smarter Faster Payments 2025](/sites/default/files/2024-12/SFP25-homepage.png)](https://payments.nacha.org/)
 
 [Nacha](https://www.nacha.org/ "Nacha")
 =======================================
