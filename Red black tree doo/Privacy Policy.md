@@ -1,30 +1,40 @@
-[![RBT logo](/rbt-logo.png)](https://www.rbt.rs/)![Toggle Meu Icon](/toggle-menu-icon.png)
+[](https://www.rbt.rs/)
 
-![RBT logo text](/rbt-logo-text.png)
+* what we do
+* * [services](https://www.rbt.rs/services)
+    * [expertise](https://www.rbt.rs/expertise)
+    * [industries](https://www.rbt.rs/industries)
 
-![RBT logo text short](/rbt-logo-text-short.png)
+* [how we work](https://www.rbt.rs/how-we-work)
+* [success stories](https://www.rbt.rs/success-stories)
 
-[![RBT Facebook Icon](/facebook-icon.svg)](https://www.facebook.com/redblacktree.rs)[![RBT Linkedin Icon](/linkedin-icon.png)](https://www.linkedin.com/company/red-black-tree)
+* careers
+* * [jobs](https://www.rbt.rs/jobs)
+    * [internship](https://www.rbt.rs/internship)
 
-* [about](https://www.rbt.rs/about)
-* [tech](https://www.rbt.rs/tech)
-* [references](https://www.rbt.rs/references)
-* [careers](https://www.rbt.rs/careers)
-* [interns](https://www.rbt.rs/interns)
-* [quality](https://www.rbt.rs/quality)
+* [about us](https://www.rbt.rs/about-us)
 * [contact](https://www.rbt.rs/contact)
-* [privacy](https://www.rbt.rs/privacy)
 
-Privacy Policy
-==============
+* [](https://rs.linkedin.com/company/red-black-tree)
+* [](https://www.joberty.com/sr/it-company/986/red-black-tree/overview)
+* [](https://www.helloworld.rs/kompanija/Red-Black-Tree-d.o.o/1805)
+
+Red Black Tree Privacy and Cookies Policy
+=========================================
+
+* * *
+
+Last updated: 22.07.2024.
+
+* * *
 
 We are “Red Black Tree d.o.o. Čačak“, reg.no. 20857706, a software development company registered at and operating under the laws and legislation of the Republic of Serbia.
 
-This privacy policy will explain how our organization uses the personal data we collect from you when you use our website (“Site”), or when you communicate with us using Internet, or by other means of communication.
+This privacy policy will explain how our organization uses the personal data we collect from you when you use our website (“Site”), or when you communicate with us using the Internet, or by other means of communication.
 
 Red Black Tree accepts and follows local and international standards and rules regarding personal data collection via it’s corporate website (Site), therefore this Privacy Policy is established to provide you with information on which personal data we are collecting and how, for which purposes, and other details in this regard, and applies to your personal data whichever country you are coming from.
 
-We as a company are legally bound to comply with the jurisdiction of the Republic of Serbia, which has accepted and incorporated EU’s GDPR into it’s legislation, and therefore the actual EU regulation (GDPR). Primarily, your personal data collected via Red Black Tree corporate website are protected under the Law on Personal Data Protection of the Republic of Serbia, which is in harmony with EU’s GDPR ([The Official Gazette of the Republic of Serbia, number 97/08](https://www.poverenik.rs/images/stories/dokumentacija-nova/zakon-o-zastiti-podataka-o-licnosti_en.pdf)).
+We as a company are legally bound to comply with the jurisdiction of the Republic of Serbia, which has accepted and incorporated EU’s GDPR into it’s legislation, and therefore the actual EU regulation (GDPR). Primarily, your personal data collected via Red Black Tree corporate website are protected under the Law on Personal Data Protection of the Republic of Serbia, which is in harmony with EU’s GDPR ( [The Official Gazette of the Republic of Serbia, number 97/08](https://www.poverenik.rs/images/stories/dokumentacija-nova/zakon-o-zastiti-podataka-o-licnosti_en.pdf)).
 
 Pursuantly, Red Black Tree and this Privacy Policy follows the personal data definition under General Data Protection Regulation of the European Union (GDPR): Personal data are any information which are related to an identified or identifiable natural person (Art. 4.1 of GDPR), i.e. any information that can identify an individual, either directly or when combined with other data.
 
@@ -42,85 +52,132 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 Please read further details of this Privacy Policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personal Data, i.e. your Personally Identifiable Information in accordance with our website.
 
-Topics of this Privacy Policy are following:
+This Privacy Policy will explain how our organization uses the personal data we collect from you when you use our Site. We have created this Privacy Policy so that it is compliant with The General Data Protection Regulation (GDPR) of the European Union and with our local applicable legislation in the area of personal data protection, which is compliant with the GDPR.
+
+Topics:
 
 1. What data do we collect?
 2. How do we collect your data?
 3. How will we use your data?
-4. How do we store and protect your data?
+4. How do we store your data?
 5. Marketing
 6. What are your data protection rights?
-7. Privacy policies of other websites
-8. Changes to our privacy policy
-9. How to contact us
-10. How to contact the appropriate authorities
+7. What are cookies?
+8. How do we use cookies?
+9. What types of cookies do we use?
+10. How to manage your cookies
+11. Privacy policies of other websites
+12. Changes to our privacy policy
+13. How to contact us?
+14. How to contact the appropriate authorities?
 
 What data do we collect?
-------------------------
 
 Our Company collects the following data:
 
-1. Personal Identification information provided when you communicate with us via email, or via social networks (for instance, job candidates) such as: name, email address, phone number, data of your business and other data that you may present in your email signature.
+1. Personal Identification information provided when you communicate with us via email, or via social networks (for instance, job candidates, internship candidates, potential clients) such as: name, email address, phone number, data of your business and other data that you may present in your email signature.
 2. When above types of personal data is concerned, when EU GDPR is concerned, RBT acts as a “Data Processor”, within limits of use as described in this Privacy Policy.
 
 How do we collect your data?
-----------------------------
 
 You directly provide Our Company with most of the data we collect. We collect data and process data when you:
 
 1. When you communicate with us via email, either as a visitor of our Site or in our regular communication with yourself as our business partner
+2. When you register via our website for job application or internship application filling out the application forms
 
 How will we use your data?
---------------------------
 
-Our Company collects your data so that we can establish and maintain our business communication with yourself, as a job applicant or as a representative of our client or business partner.
+Our Company collects your data so that we can establish and maintain our business communication with yourself, as a job applicant, internship applicant or as a representative of our client or business partner.
 
-How do we store and protect your data?
---------------------------------------
+How do we store your data?
 
-Our Company securely stores your data at Google and Amazon servers. More info at: [Google](https://cloud.google.com/security/compliance/iso-27001) and [Amazon](https://aws.amazon.com/compliance/iso-certified/) ISO compliance pages.
+Our Company securely stores your data at [Google](https://cloud.google.com/security/compliance/iso-27001) and [Amazon](https://aws.amazon.com/compliance/iso-certified/) servers. More info at: Google and Amazon ISO compliance pages.
 
 Our Company will keep your above described data for a period of 3 (three) years. Once this time period has expired, we will manually delete your data.
 
 We protect your data by using standards of good security practice as provided for by EU GDPR:
 
-1. we are continuously ensuring confidentiality, integrity, availability and resilience of processing systems and services;
-2. we have implemented the international standard ISO 27001 - information security management system;
-3. we have established processes for regular testing, assessing and evaluating the effectiveness of the technical and organizational measures.
+1. We are continuously ensuring confidentiality, integrity, availability and resilience of processing systems and services;
+2. We have implemented the international standard ISO 27001 - information security management system;
+3. We have established processes for regular testing, assessing and evaluating the effectiveness of the technical and organizational measures.
 
 Marketing
----------
 
 Our Company will not send you information about products and services for marketing purposes.
 
 What are your data protection rights?
--------------------------------------
 
 Our Company would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
 
 1. The right to access - You have the right to request RBT for copies of your personal data. We may charge you a small fee for this service.
-2. The right to rectification - You have the right to request that RBT corrects any information you believe is inaccurate. You also have the right to request RBT to complete information you believe is incomplete.
+2. The right to rectification - You have the right to request that RBT correct any information you believe is inaccurate. You also have the right to request RBT to complete information you believe is incomplete.
 3. The right to erasure - You have the right to request that we erase your personal data, under certain conditions.
 4. The right to restrict processing - You have the right to request that we restrict the processing of your personal data, under certain conditions.
 5. The right to object to processing - You have the right to object to RBT’s processing of your personal data, under certain conditions.
 6. The right to data portability - You have the right to request that RBT transfers the data that RBT collected to another organization, or directly to you, under certain conditions. If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us at our email: [support@rbt.rs](mailto:support@rbt.rs).
 
-Privacy policies of other websites
-----------------------------------
+What are cookies?
 
-The Site contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
+Cookies are text files placed on your computer to collect standard Internet log information and visitor behavior information. When you visit our websites, we may collect information from you automatically through cookies or similar technology.
+
+For further information, visit all [aboutcookies.org.](https://www.aboutcookies.org/)
+
+How do we use cookies?
+
+We use cookies exclusively for website functioning, respectively those that allow browsing through our pages. Cookies are active only while you are on our website. They can be used to learn about website visitation statistics, but we do not own your personal information.
+
+What types of cookies do we use?
+
+There are a number of different types of cookies, however, our website uses functionality cookies. Our Company uses these cookies so that we recognize you on our website and remember your previously selected preferences. These could include what language you prefer and location you are in. A mix of first-party and third-party cookies are used.
+
+How to manage cookies
+
+If you would like to, you can decline usage of cookies by selecting adequate settings in your browser, however if you choose to do this you might not be able to use all of the website's functionality.
+
+Privacy policies of other websites
+
+The Our Company website contains links to other websites. Our privacy policy applies only to our website, so if you click on a link to another website, you should read their privacy policy.
 
 Changes to our privacy policy
------------------------------
 
-RBT keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 01.07.2021.
+Our Company keeps its privacy policy under regular review and places any updates on this web page. This privacy policy was last updated on 22.07.2024.
 
-How to contact us?
-------------------
+How to contact us
 
-If you have any questions about RBT’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us. Email us at: [support@rbt.rs](mailto:support@rbt.rs).
+If you have any questions about Our Company’s privacy policy, the data we hold on you, or you would like to exercise one of your data protection rights, please do not hesitate to contact us.
 
-How to contact the appropriate authority?
------------------------------------------
+Email us at: [support@rbt.rs](mailto:support@rbt.rs) .
+
+Or write to us at: Red Black Tree d.o.o. Čačak, Zlatiborska 18, 32000 Čačak, Republic of Serbia.
+
+How to contact the appropriate authority
 
 Should you wish to report a complaint or if you feel that Our Company has not addressed your concern in a satisfactory manner, you may contact the [Commissioner for Information of Public Importance and Personal Data Protection of the Republic of Serbia](https://www.poverenik.rs/en/home.html).
+
+Commissioner for Information of Public Importance and Personal Data Protection
+
+15 Bulevar kralja Aleksandra street, Belgrade 11120, Republic of Serbia
+
+Tel: +381 11 3408 900
+
+Fax: +381 11 3343 379
+
+Email: оffice@poverenik.rs
+
+Notice
+------
+
+The Red Black Tree website stores cookies on your computer. These cookies are small files that are used to improve your website experience and provide more personalized services to you, both on the website and through other media. In addition, other cookies may be used with your consent to analyze site usage, improve the user experience and for advertising. To find out more about cookies we use, see our [Privacy and Cookies policy](https://www.rbt.rs/privacy).  
+If you decline, your information won't be tracked when you visit the website. A single cookie will be used in your browser to remember your preference not to be tracked.
+
+Decline Accept
+
+[](https://www.rbt.rs/)
+
+[Services](https://www.rbt.rs/services) [Expertise](https://www.rbt.rs/expertise) [Industries](https://www.rbt.rs/industries) [How we work](https://www.rbt.rs/how-we-work) [Success stories](https://www.rbt.rs/success-stories)
+
+[Careers](https://www.rbt.rs/jobs) [About Us](https://www.rbt.rs/about-us) [Contact](https://www.rbt.rs/contact) [Privacy and Cookies Policy](https://www.rbt.rs/privacy)
+
+[](https://rs.linkedin.com/company/red-black-tree)[](https://www.joberty.com/sr/it-company/986/red-black-tree/overview)[](https://www.helloworld.rs/kompanija/Red-Black-Tree-d.o.o/1805)
+
+Red Black Tree all rights reserved
