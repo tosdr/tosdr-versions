@@ -43,7 +43,7 @@ SPIEGEL Gruppe Allgemeine Nutzungsbedingungen
 * [WhatsApp](whatsapp://send?text=SPIEGEL+Gruppe%3A+Allgemeine+Nutzungsbedingungen+%28DER+SPIEGEL%29+https%3A%2F%2Fwww.spiegel.de%2Fnutzungsbedingungen%3Fsara_ref%3Dre-so-wa-sh "WhatsApp")
 * Link kopieren
 
-[switch to English Version](http://www.spiegel.de/extra/general-terms-and-conditions-a-1254190.html)
+[switch to English Version](https://www.spiegel.de/extra/general-terms-and-conditions-a-1254190.html)
 
 Liebe Leserin, lieber Leser,
 
@@ -51,7 +51,7 @@ herzlich willkommen bei den digitalen Angeboten der SPIEGEL-Gruppe. An dieser St
 
 Wenn Sie registrierungspflichtige Dienste nutzen wollen, müssen Sie ggf. weiteren Bedingungen zustimmen, die Sie dann genannt bekommen.
 
-* Dazu zählen zum Beispiel die [besonderen Nutzungsbedingungen](http://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html) für unseren Debatten-Bereich sowie weitere [Allgemeine Geschäfts- und Lieferbedingungen](https://www.spiegel.de/extra/der-spiegel-abo-allgemeine-geschaefts-und-lieferbedingungen-a-1211959.html) (SPIEGEL), [Allgemeine Geschäfts- und Lieferbedingungen](https://www.manager-magazin.de/extra/artikel/agb-a-1228733.html) (manager magazin) und [Allgemeine Geschäfts- und Lieferbedingungen](https://abo.11freunde.de/agb/) (11Freunde) für kostenpflichtige Inhalte.
+* Dazu zählen zum Beispiel die [besonderen Nutzungsbedingungen](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html) für unseren Debatten-Bereich sowie weitere [Allgemeine Geschäfts- und Lieferbedingungen](https://www.spiegel.de/extra/der-spiegel-abo-allgemeine-geschaefts-und-lieferbedingungen-a-1211959.html) (SPIEGEL), [Allgemeine Geschäfts- und Lieferbedingungen](https://www.manager-magazin.de/extra/artikel/agb-a-1228733.html) (manager magazin) und [Allgemeine Geschäfts- und Lieferbedingungen](https://abo.11freunde.de/agb/) (11Freunde) für kostenpflichtige Inhalte.
     
 * Für spezielle Angebote wie [Media](https://gruppe.spiegel.de/spiegel-media), [Nachdruckrechte und Syndication](https://gruppe.spiegel.de/syndication) gibt es darüber hinaus jeweils eigene Allgemeine Geschäftsbedingungen, auf die Sie ebenfalls gesondert hingewiesen werden. Für Veranstaltungen gelten [Teilnahmebedingungen](https://www.spiegel.de/teilnahmebedingungen).
     
