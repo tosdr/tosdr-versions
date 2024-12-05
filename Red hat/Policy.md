@@ -102,7 +102,7 @@ Featured links
 ### [Services](https://www.redhat.com/en/services)
 
 * [Consulting](https://www.redhat.com/en/services/consulting)
-* [Open Innovation Labs](https://www.redhat.com/en/services/consulting/open-innovation-labs)
+* [Services for AI](https://www.redhat.com/en/services/consulting/red-hat-consulting-for-ai)
 * [Technical Account Management](https://www.redhat.com/en/services/support/technical-account-management)
 
 ### [Training & certification](https://www.redhat.com/en/services/training-and-certification)
@@ -143,14 +143,9 @@ Featured links
 
 ### Articles
 
-* [What is InstructLab?](https://www.redhat.com/en/topics/ai/what-is-instructlab)
-* [What are cloud services?](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-services)
 * [What is edge computing?](https://www.redhat.com/en/topics/edge-computing/what-is-edge-computing)
-* [What is hybrid cloud?](https://www.redhat.com/en/topics/cloud-computing/what-is-hybrid-cloud)
-* [Why build a Red Hat cloud?](https://www.redhat.com/en/topics/cloud-computing/why-choose-red-hat-cloud)
-* [Cloud vs. edge](https://www.redhat.com/en/topics/cloud-computing/cloud-vs-edge)
 * [Red Hat OpenShift vs. Kubernetes](https://www.redhat.com/en/technologies/cloud-computing/openshift/red-hat-openshift-kubernetes-1)
-* [Learning Ansible basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial)
+* [Learning Ansible basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial-1)
 
 ### More to explore
 
