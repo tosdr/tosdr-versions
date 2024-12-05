@@ -40,7 +40,7 @@ Menu
         * [Assessment Training](https://www.movementdisorders.org/MDS/MDS-Rating-Scales/Training-Programs.htm)
         * [For Industry](https://www.movementdisorders.org/MDS/MDS-Industry-Opportunities.htm#education)
     * [Interactive Cases](https://www.movementdisorders.org/Cases.htm)
-    * [Outreach Funding](https://www.movementdisorders.org/MDS/Education/Outreach-Education.htm)
+    * [Outreach Grant Programs](https://www.movementdisorders.org/MDS/Education/Outreach-Education.htm)
 *  [Publications](https://www.movementdisorders.org/Publications.htm)
     *  [Journals](https://www.movementdisorders.org/MDS/Journals.htm)
         * [_Movement Disorders_](https://www.movementdisorders.org/MDS/Journals/Online-MD-Journal.htm)
