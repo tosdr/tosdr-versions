@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Angel EyesLove And Theft<br><br>10:39pm |
-| Where The Wild Things AreLuke Combs<br><br>10:35pm |
-| Think I'M In Love With YouChris Stapleton<br><br>10:32pm |
-| Bigger HousesDan Shay<br><br>10:20pm |
-| Wind Up Missing YouTucker Wetmore<br><br>10:17pm |
+| Everything I NeedChayce Beckham<br><br>4:39am |
+| Better Than YouJoe Nichols Ft Annie Bosko<br><br>4:36am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>4:32am |
+| Love The LeavinDrew Parker<br><br>4:30am |
+| Truck BedHardy<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
+Sports • Midwest
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
