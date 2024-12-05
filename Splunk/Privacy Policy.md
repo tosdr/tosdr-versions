@@ -1,4 +1,4 @@
-[Skip to main content](#splunk-main-content)
+[](#splunk-main-content)
 
 * [Deutsch](https://www.splunk.com/de_de)
 * [Francais](https://www.splunk.com/fr_fr)
