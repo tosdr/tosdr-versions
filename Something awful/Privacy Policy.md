@@ -205,30 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Best Of Show](https://www.somethingawful.com/daily-dirt/best-of-show/)
-* [1-000-LAW-NOWW](https://www.somethingawful.com/news/call-law-noww/1/)
-* [The Arthouse of Horrors - PC Game Covers 2](https://www.somethingawful.com/news/steve-gaming-art/1/)
-* [Missed Memoriams: Rooney, Keane, Gaddafi, D](https://www.somethingawful.com/feature-articles/memoriam-obituary-rooney/)
-* [Photoshop Life](https://www.somethingawful.com/comedy-goldmine/photoshop-life/1/)
+* [MS Paint Video Game Characters in Their Old Age](https://www.somethingawful.com/comedy-goldmine/ms-paint-video/1/)
+* [In Memory of Bratz](https://www.somethingawful.com/photoshop-phriday/bratz-dolls/1/)
+* [Teen Help, Hoobastank, Che Lives, and Uber Form of Forum](https://www.somethingawful.com/weekend-web/teen-help-hoobastank/1/)
+* [The Many Wonderful Worlds Of Mass Effect](https://www.somethingawful.com/video-game-article/mass-effect-worlds/)
+* [Variety Pack #16: Facebook Pages for Fictional Characters! Other topics: Monster Trucks, and Dogs with Capes!](https://www.somethingawful.com/photoshop-phriday/variety-pack-facebook/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/diy-homeimprove.gif) [Oh my god, the forums are back](http://forums.somethingawful.com/showthread.php?threadid=4076800 "Oh my god, the forums are back")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [ITT post your Spotify Wrapped 2024 (or whatever other music app you use)](http://forums.somethingawful.com/showthread.php?threadid=4076839 "ITT post your Spotify Wrapped 2024 (or whatever other music app you use)")
-* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [I found the roundest bird at work](http://forums.somethingawful.com/showthread.php?threadid=4076810 "I found the roundest bird at work")
-* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [The demented cartoon movie \[2001\]](http://forums.somethingawful.com/showthread.php?threadid=4076780 "The demented cartoon movie [2001]")
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-fuckshitdamntag2.gif) [I stepped on a scorpion this morning and it stung me underneath my foot :(](http://forums.somethingawful.com/showthread.php?threadid=4076795 "I stepped on a scorpion this morning and it stung me underneath my foot :(")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/cars.png) [Holiday travel thread](http://forums.somethingawful.com/showthread.php?threadid=4076863 "Holiday travel thread")
 * ![](https://fi.somethingawful.com/forums/posticons/tviv-competition.gif) [CEO of UnitedHealthCare Fatally Shot in targeted shooting](http://forums.somethingawful.com/showthread.php?threadid=4076829 "CEO of UnitedHealthCare Fatally Shot in targeted shooting")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/science.png) [Wim Hof Method](http://forums.somethingawful.com/showthread.php?threadid=4076794 "Wim Hof Method")
+* ![](https://fi.somethingawful.com/forums/posticons/pokeball.gif) [I found the roundest bird at work](http://forums.somethingawful.com/showthread.php?threadid=4076810 "I found the roundest bird at work")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [ITT post your Spotify Wrapped 2024 (or whatever other music app you use)](http://forums.somethingawful.com/showthread.php?threadid=4076839 "ITT post your Spotify Wrapped 2024 (or whatever other music app you use)")
 
 ### Random Articles
 
-* [Videogame Violence](https://www.somethingawful.com/news/videogame-violence/)
-* [Highlights From The Game Developers Conference](https://www.somethingawful.com/video-game-article/gdc-rock-band/)
-* [New Changes to the Star Wars Saga](https://www.somethingawful.com/comedy-goldmine/new-changes-star/1/)
-* [The 13 Most Awful American Fears](https://www.somethingawful.com/most-awful/most-awful-fears/1/)
-* [Blameby Beta User Tutorial](https://www.somethingawful.com/news/blameby-baby-blame/1/)
+* [There's Probably No Escape From Savage Bloodprison Island](https://www.somethingawful.com/news/probably-no-escape/)
+* [The Yuletide Is Yuleturning](https://www.somethingawful.com/news/yuletide-yuleturning/)
+* [Kart Rider and Hatemail!](https://www.somethingawful.com/mmo-roulette/kartonline/1/)
+* [Lamentations of the Flame Princess: Grindhouse Edition (2011)](https://www.somethingawful.com/dungeons-and-dragons/lamentations-flame-princess/1/)
+* [10 Startling Differences Between "Standard" and "Premium" Editions of The Sims 4](https://www.somethingawful.com/news/sims-4-differences/)
 
 [Random!](https://www.somethingawful.com/random/)
 
