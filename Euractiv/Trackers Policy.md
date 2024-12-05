@@ -111,6 +111,8 @@ Most recent
 
 [04-12-2024
 
+Cyprus pushes for more joint procurement of medicines, starting with cancer drugs](https://www.euractiv.com/section/health-consumers/news/cyprus-pushes-for-more-joint-procurement-of-medicines-starting-with-cancer-drugs/)[04-12-2024
+
 French left and far-right bring down Barnier government](https://www.euractiv.com/section/all/news/french-left-and-far-right-bring-down-barnier-government/)[04-12-2024
 
 Pressure mounts on EU for radical change to fishing quotas system](https://www.euractiv.com/section/agriculture-food/news/pressure-mounts-for-radical-change-to-fishing-quotas-system/)[04-12-2024
@@ -127,9 +129,7 @@ Trump’s plan for Ukraine: Territorial concessions but NATO off the table](http
 
 South Korean president faces impeachment calls after martial law debacle](https://www.euractiv.com/section/global-europe/news/south-korean-president-faces-impeachment-calls-after-martial-law-debacle/)[04-12-2024
 
-Syria rebels ‘at gates’ of key city Hama, Putin urges Erdoğan to end the offensive](https://www.euractiv.com/section/global-europe/news/syria-rebels-at-gates-of-key-city-hama-putin-urges-erdogan-to-end-the-offensive/)[04-12-2024
-
-Car giant Stellantis urged to put Italy’s interests first amid crisis](https://www.euractiv.com/section/politics/news/the-capitals-car-giant-stellantis-urged-to-put-italys-interests-first-amid-crisis/)
+Syria rebels ‘at gates’ of key city Hama, Putin urges Erdoğan to end the offensive](https://www.euractiv.com/section/global-europe/news/syria-rebels-at-gates-of-key-city-hama-putin-urges-erdogan-to-end-the-offensive/)
 
 ###### Advertisement
 
