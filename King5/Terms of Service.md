@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_360x203.jpg)](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
+    *  [![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_360x203.jpg)](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
         
-        #### [Lynnwood driver dies after crashing into apartment building](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
+        #### [Threat passes for West Coast Tsunami Warning that didn’t include Washington](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
         
-    *  [![](https://media.king5.com/assets/KING/images/a21518c5-3d36-423f-8924-bd343da0434a/20241205T021702/a21518c5-3d36-423f-8924-bd343da0434a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a21518c5-3d36-423f-8924-bd343da0434a/20241205T021702/a21518c5-3d36-423f-8924-bd343da0434a_360x203.jpg)](https://www.king5.com/article/news/local/bellevue/washington-states-largest-asian-supermarket-opens-bellevue/281-3370b00f-cf43-4590-a40f-773111f9179b)
+    *  [![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_360x203.jpg)](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
         
-        #### [Largest Asian supermarket in Washington state opens Thursday](https://www.king5.com/article/news/local/bellevue/washington-states-largest-asian-supermarket-opens-bellevue/281-3370b00f-cf43-4590-a40f-773111f9179b)
+        #### [Tsunami warning canceled for Oregon coast south of Florence](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae/20241205T125858/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae/20241205T125858/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_360x203.jpg)](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [Threat passes for West Coast Tsunami Warning that didn’t include Washington](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
         
-    *  [![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_16x9.jpg) ![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
+    *  [![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_360x203.jpg)](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
         
-        #### [Dense Fog Advisory expires after hazardous driving conditions throughout Puget Sound area](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
+        #### [Tsunami warning canceled for Oregon coast south of Florence](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -80,6 +80,17 @@ Navigation
     * [Cougars](https://www.king5.com/cougars)
     * [Locked On Podcast Network](https://lockedonpodcasts.com/)
     
+    Latest Stories
+    
+    *  [![](https://media.king5.com/assets/KING/images/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd/20240908T043533/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd/20240908T043533/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd_360x203.jpg)](https://www.king5.com/article/sports/wnba/storm/source-seattle-storm-jewell-loyd-requests-trade/281-6b20d8e4-454a-4b1f-bc63-4ba2f2c8958d)
+        
+        #### [Report: Seattle Storm star Jewell Loyd requests trade](https://www.king5.com/article/sports/wnba/storm/source-seattle-storm-jewell-loyd-requests-trade/281-6b20d8e4-454a-4b1f-bc63-4ba2f2c8958d)
+        
+    *  [![](https://media.king5.com/assets/KING/images/b0578ab8-1c47-474d-bd64-1e4257a41932/20241205T053015/b0578ab8-1c47-474d-bd64-1e4257a41932_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b0578ab8-1c47-474d-bd64-1e4257a41932/20241205T053015/b0578ab8-1c47-474d-bd64-1e4257a41932_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/south-korean-all-star-second-baseman-hyeseong-kim-posted-to-mlb-and-available-as-free-agent/281-23ae8970-2219-4d73-bbc3-93ace7f33965)
+        
+        #### [South Korean All-Star second baseman Hyeseong Kim posted to MLB and available as free agent](https://www.king5.com/article/sports/mlb/mariners/south-korean-all-star-second-baseman-hyeseong-kim-posted-to-mlb-and-available-as-free-agent/281-23ae8970-2219-4d73-bbc3-93ace7f33965)
+        
+    
 * [VERIFY](https://www.king5.com/verify)
 * [![Watch Live](/assets/shared-images/logos/native/king.svg)](https://www.king5.com/watch)
     
@@ -94,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-34°
+46°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
