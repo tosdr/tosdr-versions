@@ -1,4 +1,4 @@
-SPECIAL OFFER: -25% | TIME LEFT:
+SPECIAL OFFER: -30% | TIME LEFT:
 
 ### Language
 
