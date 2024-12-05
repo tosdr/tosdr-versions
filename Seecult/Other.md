@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/zelja/desire/desire-001.jpg?itok=vr3tCzcm)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/zeljadesire)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20/its-z1-kuca.jpg?itok=Ivz7vFp3)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-20)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf3964.jpg?itok=UGLIheZb)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/cile.jpg?itok=SeC2hnDU)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
 * [Dražen u bioskopima](http://seecult.org/vest/drazen-u-bioskopima)
 * [Novi Uobraženi bolesnik](http://seecult.org/vest/novi-uobrazeni-bolesnik)
 * [Marija Ručara u MPU](http://seecult.org/vest/marija-rucara-u-mpu)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [VOĐENJE: Ana Knežević - Geometrija praznine](http://seecult.org/vest/vodenje-ana-knezevic-geometrija-praznine)
 * [Festival drugosti](http://seecult.org/vest/festival-drugosti)
 * [Nezavidan položaj filma i AV sektora u BiH](http://seecult.org/vest/nezavidan-polozaj-filma-i-av-sektora-u-bih)
-* [Otvoreno pismo struke povodom Generalštaba](http://seecult.org/vest/otvoreno-pismo-struke-povodom-generalstaba)
 
 * [Konkursi](#tab1_1)
 
