@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6750d34da59bed3c6b14d6a1_clearco-alternative-to-stenn-invoice-financing.jpg)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6751b8de676ba4f38e109926_unlock-growth-boundless-clearco-integration.png)
 
-###### Clearco's Invoice Funding is an alternative to Stenn's invoice financing for CPG ecommerce in the U.S.
+###### Unlock Growth Opportunities with the Boundless x Clearco Integration
 
-[Read now >](https://clear.co/blog/clearco-is-an-invoice-financing-alternative-to-stenn)
+[Read now >](https://clear.co/blog/unlock-growth-boundless-clearco-integration)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
