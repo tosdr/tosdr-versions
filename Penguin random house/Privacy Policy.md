@@ -14,11 +14,19 @@ Recommendations
 
 Audio
 
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
     
-    How To Read More in 2024
+    Books Bans Are on the Rise in America
     
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
+
+* * *
+
+* [![The Best Picture Books of 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25110717/best-books-2024-600x314-picture.jpg)
+    
+    The Best Picture Books of 2024
+    
+    Learn More >](https://www.readbrightly.com/picture-books-2024/)
 
 * * *
 
@@ -27,14 +35,6 @@ Audio
     Books for the Christmas Romance Fan
     
     Read More >](https://www.penguinrandomhouse.com/the-read-down/holiday-romantic-comedies/)
-
-* * *
-
-* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25164626/Audio_December_1200x628.jpg)
-    
-    New Stories to Listen to
-    
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
