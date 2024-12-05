@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/02/James-Tolbert-326x245.jpg)](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
+
+Loop
+
+### [Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
+
+[December 3, 2024 11:08 AM](https://cwbchicago.com/2024/12)
+
+A serial shoplifter accused of stealing merchandise 12 times after being released from jail when Illinois eliminated cash bail last year has been given a nine-year prison sentence.[](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH523475-2400-blk-north-clark-041A-326x245.jpg)](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
+
+Lincoln Park
+
+### [Man shot in Lincoln Park last week has died](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
+
+[December 3, 2024 4:16 AM](https://cwbchicago.com/2024/12)
+
+The man shot on a busy Lincoln Park street last week died on Monday afternoon, according to the Cook County Medical Examiner’s Office, which identified the victim as Alexander Nesteruk, 34, of Wheaton.[](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
+
 [![](https://cwbchicago.com/wp-content/uploads/2023/12/Michael-Valentine-326x245.jpg)](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
 
 Citywide
@@ -252,27 +272,6 @@ Citywide
 [December 2, 2024 12:41 PM](https://cwbchicago.com/2024/12)
 
 A man accused of robbing a U.S. Postal Service mail carrier has been given a four-year sentence. Michael Valentine, 38, received a concurrent four-year sentence for using the postal worker’s master key to steal mail in Rogers Park.[](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/JaimeMiller-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
-
-River North
-
-### [Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
-
-[December 2, 2024 7:25 AM](https://cwbchicago.com/2024/12)
-
-It’s the hottest scam in years and there’s no indication that it’s gonna go away anytime soon. What is it? Schemers use the banking apps on their victims’ phones to transfer large sums of money to themselves.[](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Dioseneth-cortes-aka-jose-martinez-326x245.jpg)](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
-
-Gold Coast
-
-### [Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
-
-[December 2, 2024 6:32 AM](https://cwbchicago.com/2024/12)
-
-“Treatment, not trauma.” Local politicians love tossing that catchy phrase around, suggesting that many people who enter the criminal justice system for minor violations would be better served by receiving treatment for substance abuse or mental health issues rather than jail time. The problem is this: Those same politicians are minimizing or eliminating penalties for wrongdoing without providing the treatment they claim is needed.  
-[](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
 
 Search
 
