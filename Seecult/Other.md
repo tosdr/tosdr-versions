@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/studenti.jpg?itok=kbvuekTi)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-0)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule/tango1-1997.jpg?itok=x6DPNTD-)](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dani-beograda/du-nichts.jpg?itok=gtym8AZK)](http://seecult.org/galerija/foto-galerija/foto-arhiva/dani-beograda)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zikica1.jpg?itok=l2IqYvmJ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
