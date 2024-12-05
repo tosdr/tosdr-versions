@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/aspartaam-officieel-in-beklaagdenbankje/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/vrije-energie-energie-van-de-toekomst/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
