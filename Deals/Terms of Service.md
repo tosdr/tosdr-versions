@@ -1,5 +1,11 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)    
 
+![](https://img.gg.deals/2b/46/36efa4539b68ae7eaaa4b2415cac07fdb6ff_1224cr120_Q100.jpg)
+
+![](https://img.gg.deals/af/5d/ed030f16bb3d5f2190d057f80cafe4cd2d38_2560xt1440_Q100.jpg)
+
+[](https://gg.deals/us/redirect/0b09abd946c59be794aaf099e1c27476ac098895/?utm_campaign=top-banner&utm_source=page%2Fpage)
+
 Default platform: All
 
 * All platforms
@@ -41,12 +47,6 @@ AllAll Platforms
 AllAll PlatformsPCXboxPlayStationSwitch
 
 * [Sign in](https://gg.deals/login/)
-
-![](https://img.gg.deals/5d/96/8e3e3e144fcf737eee9b257db6c923a95e38_1272cr200_Q100.jpg)
-
-![](https://img.gg.deals/32/01/74d7f438bdb8e45ebeac1f39fca5289af2e2_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/us/redirect/773c536945541b81898d1f768a200b3a3bc7f41d/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/773c536945541b81898d1f768a200b3a3bc7f41d/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/773c536945541b81898d1f768a200b3a3bc7f41d/?utm_campaign=main-right&utm_source=page%2Fpage)
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
