@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![Is talcum powder a carcinogen?](https://www.pintas.com/wp-content/uploads/2020/07/shutterstock_447728962-scaled.jpg "Is Talcum Powder A Carcinogen?")](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/ "Is Talcum Powder A Carcinogen?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### Is Talcum Powder A Carcinogen?](https://www.pintas.com/lung-cancer/is-talcum-powder-a-carcinogen/)
 
-[![faq thumb](https://www.pintas.com/wp-content/themes/pintas-v2/assets/app/img/blog-default.jpg)](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/ "What Are the 3 Stages of Sepsis?")
+[![Can you put a camera in a nursing home room?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-put-a-camera-in-a-nursing-home-room.jpg "Can You Put a Camera in a Nursing Home Room?")](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/ "Can You Put a Camera in a Nursing Home Room?")
 
-[#### What Are the 3 Stages of Sepsis?](https://www.pintas.com/faq/what-are-the-3-stages-of-sepsis/)
+[#### Can You Put a Camera in a Nursing Home Room?](https://www.pintas.com/faq/can-you-put-a-camera-in-a-nursing-home-room/)
 
-[![What type of ovarian cancer is caused by talc?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyerwhat-type-of-ovarian-cancer-is-caused-by-talc-scaled.jpg "What Type of Ovarian Cancer Is Caused By Talc?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/ "What Type of Ovarian Cancer Is Caused By Talc?")
+[![Occupations with a high risk of asbestos exposure](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-occupations-with-a-high-risk-of-asbestos-exposure.jpg "Occupations With a High Risk of Asbestos Exposure")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations "Occupations With a High Risk of Asbestos Exposure")
 
-[#### What Type of Ovarian Cancer Is Caused By Talc?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-type-of-ovarian-cancer-is-caused-by-talc/)
+[#### Occupations With a High Risk of Asbestos Exposure](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/high-risk-occupations)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
