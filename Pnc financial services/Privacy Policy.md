@@ -14,7 +14,7 @@ or [select another service](#)
 * [PNCI International](https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
 * [PayeeWeb](https://payee-pnc.omniasp.com/)
 
-Close Menu or Return to Online Banking Login
+Close Menu or Sign On to Online Banking
 
  
 
@@ -218,7 +218,7 @@ or [select another service](#)
 * [PNCI International](https://www.pnc.com/en/personal-banking/investments-and-retirement/pnci-international.html)
 * [PayeeWeb](https://payee-pnc.omniasp.com/)
 
-Close Menu or Return to Online Banking Login
+Close Menu or Sign On to Online Banking
 
  
 
