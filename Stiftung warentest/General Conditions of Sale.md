@@ -384,7 +384,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123769883.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v123930893.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Hilfe
@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
 
 Neueste Tests
 
+* [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
+* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 * [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
-* [Auto­kauf: Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal](https://www.test.de/Autofinanzierung-Der-beste-Weg-fuer-Sie-4502536-0/ "Autokauf - Kredit, Leasing, Barzahlung – so finanzieren Sie das Auto optimal")
-* [Fonds und ETF im Vergleich: Hier finden Sie die besten Fonds für Ihr Portfolio](https://www.test.de/Fonds-im-Test-Fuenf-Punkte-fuer-die-Besten-4331006-0/ "Fonds und ETF im Vergleich - Hier finden Sie die besten Fonds für Ihr Portfolio")
 
 test.de entdecken
 
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Verpackungs­ärger: Persil Color Kraft-Gel](https://www.test.de/Verpackungsaerger-Persil-Color-Kraft-Gel-6013638-0/ "Verpackungsärger - Persil Color Kraft-Gel")
-* [Testsieger-Produkte für die EM: Die machen auch nach Abpfiff Spaß](https://www.test.de/Testsieger-Produkte-fuer-die-EM-Die-machen-auch-nach-Abpfiff-Spass-6115947-0/ "Testsieger-Produkte für die EM - Die machen auch nach Abpfiff Spaß")
-* [Sicherheit im Straßenverkehr: 7 Tipps für die Fahrt mit Dachbox](https://www.test.de/Fahren-mit-Dachbox-6166512-0/ "Sicherheit im Straßenverkehr - 7 Tipps für die Fahrt mit Dachbox")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
-* [Donuts im Test: Wo es die besten Donuts gibt](https://www.test.de/donuts-im-test-5952659-0/ "Donuts im Test - Wo es die besten Donuts gibt")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
+* [Riskante Geld­anlagen: Widerruf kann lange möglich sein](https://www.test.de/Riskante-Geldanlagen-Widerruf-kann-lange-moeglich-sein-6126435-0/ "Riskante Geldanlagen - Widerruf kann lange möglich sein")
+* [Warn­liste: Verein empfahl riskante Beteiligung](https://www.test.de/Warnliste-Verein-empfahl-riskante-Beteiligung-5943770-0/ "Warnliste - Verein empfahl riskante Beteiligung")
 
 Stiftung Warentest
 
