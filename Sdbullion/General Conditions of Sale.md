@@ -1074,9 +1074,9 @@ Search  Search
         
         [New Releases](https://sdbullion.com/new-releases)
         
-* [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+* [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
     
-    [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+    [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
     
 * [IRAs](https://sdbullion.com/gold-silver-ira)
     
@@ -2625,9 +2625,9 @@ x
         
         [New Releases](https://sdbullion.com/new-releases)
         
-* [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+* [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
     
-    [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
+    [❄ Holiday Collection ❄](https://sdbullion.com/silver/docs-holiday-collection)
     
 * [IRAs](https://sdbullion.com/gold-silver-ira)
     
