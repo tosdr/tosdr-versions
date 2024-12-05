@@ -312,15 +312,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Six different actors have played Lord Voldemort in the Harry Potter films.
+Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
 
 ### Potter History
 
-June 10, 2011 – The running time for Harry Potter and the Deathly Hallows – Part 2 is revealed to be 125 minutes, the shortest of the eight.
+April 9-11, 2009 – StarKid performs A Very Potter Musical at the University of Michigan.
 
 ### Potter Quote
 
-“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
+“I can’t tell if you’re making a joke or if you’re just…French.”
 
 [](#)
 
