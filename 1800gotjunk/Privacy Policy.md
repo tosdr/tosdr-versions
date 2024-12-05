@@ -887,30 +887,6 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Geo and Josh did a great job. Very personable young men!
-
-Pattie Miller Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jordan and Alex did a great job!!! Very quick!!! Awesome work!
-
-Derek Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Dillon and Antoine did an awesome job - friendly efficient on-time thorough and great communication. Recommend them highly.
-
-Jeff Card Seattle 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Jordan and Alex did a fantastic job!!Highly recommend.
 
 Angela Moore Naples 30/11/2024
@@ -1023,9 +999,33 @@ Bob H Wisconsin 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Dion and Xavier were fantastic to deal with. Extremely prompt, very friendly, and easy to work with. 100% recommend.
+Geo and Josh did a great job. Very personable young men!
 
-B Z Austin 29/11/2024
+Pattie Miller Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jordan and Alex did a great job!!! Very quick!!! Awesome work!
+
+Derek Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Dillon and Antoine did an awesome job - friendly efficient on-time thorough and great communication. Recommend them highly.
+
+Jeff Card Seattle 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Antwone & Dylan were awesome!! Thank you so much. The pick up was quick and easy! And guys were so nice
+
+Grace DeLisi Seattle 29/11/2024
 
 ### 
 
