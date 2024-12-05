@@ -102,11 +102,7 @@ Since 1960](https://www.everythingtrackandfield.com/ "Everything Track and Field
     
 * [CAMPS CLINICS](https://www.everythingtrackandfield.com/campsclinics)
     
-    * [Bill Falk's Pole Vault Camp](#/bill-falk-camps)
-    
-    * [Bill Falk's Throws Camp](#/bill-falk-camps)
-    
-    * [Other Camps, Clinics, and Clubs!](#/other-track-camps-clinics-and-clubs)
+    * [Track Camps, Clinics, and Clubs!](#/track-camps-clinics-and-clubs)
     
 * [TRAINING ZONE](https://www.everythingtrackandfield.com/training-zone)
     
@@ -294,11 +290,7 @@ Seminar E-Mail:
     
 * [CAMPS CLINICS](https://www.everythingtrackandfield.com/campsclinics)
     
-    * [Bill Falk's Pole Vault Camp](#/bill-falk-camps)
-    
-    * [Bill Falk's Throws Camp](#/bill-falk-camps)
-    
-    * [Other Camps, Clinics, and Clubs!](#/other-track-camps-clinics-and-clubs)
+    * [Track Camps, Clinics, and Clubs!](#/track-camps-clinics-and-clubs)
     
 * [TRAINING ZONE](https://www.everythingtrackandfield.com/training-zone)
     
