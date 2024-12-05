@@ -240,19 +240,25 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Why migrate to us?
-
-#### We guarantee our commitment to quality
+### DNSSEC
 
   
 
-#### Performance
+#### Our redundant DNS solution is fully supported with DNSSEC
 
-#### Support
+  
 
-#### Security
+  
 
-#### Uptime
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
+  
 
 ### News
 
