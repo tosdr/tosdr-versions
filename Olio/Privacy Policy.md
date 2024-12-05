@@ -89,7 +89,7 @@ _Last updated:_  8 January 2024
 2. **Identity of Data Controller**
     1. A data controller is a person or organisation who makes decisions about how your personal data is collected, used and handled.
     2. The Company is the data controller and may be contacted:
-        1. by post:  Olio Exchange Limited, 157a Nelson Road, London, N8 9RR, United Kingdom; and
+        1. by post:  Olio Exchange Limited, 11A Brackenbury Road, London W6 0BE, United Kingdom; and
         2. by email:  [hello@olioapp.com](mailto:hello@olioex.com)
 3. **What information is collected?**
     1. We collect personal data from and about users of our App (“**Data**”):
