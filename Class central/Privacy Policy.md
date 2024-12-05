@@ -1,6 +1,6 @@
- [![](/images/promobar/deal.svg) Black Friday 2024: 50 Ways to Save on Online Learning
+ [![](/images/promobar/lightning-yellow.svg) Breaking News: 2U’s Exit from Bootcamps
 
-View](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+View](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
 
 Close
 
@@ -414,34 +414,34 @@ Most common
 
 1. digital marketing
     
-2. java
+2. harvard
     
-3. graphic design
+3. flutter
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Computer Science
     
-    14,365 courses](https://www.classcentral.com/subject/ai)
-2. [Data Analysis
+    44,666 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
     
-    8,928 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    14,387 courses](https://www.classcentral.com/subject/ai)
+3. [Cybersecurity
     
-    6,311 courses](https://www.classcentral.com/subject/digital-marketing)
+    17,003 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 
-1. [Max MSP Programming Course: Structuring Interactive Software for Digital Arts
+1. [Marketing in a Digital World
     
-    Stanford University](https://www.classcentral.com/course/kadenze-max-msp-programming-course-structuring-interactive-software-for-digital-arts-6411)
-2. [Algorithms, Part I
+    University of Illinois at Urbana-Champaign](https://www.classcentral.com/course/dmdigitalworld-2750)
+2. [Modern & Contemporary American Poetry (“ModPo”)
     
-    Princeton University](https://www.classcentral.com/course/algs4partI-339)
-3. [The Emergence of the Modern Middle East - Part I
+    University of Pennsylvania](https://www.classcentral.com/course/modpo-356)
+3. [Moralities of Everyday Life
     
-    Tel Aviv University](https://www.classcentral.com/course/modernmiddleeast1-976)
+    Yale University](https://www.classcentral.com/course/moralities-911)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
