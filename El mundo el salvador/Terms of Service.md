@@ -3,7 +3,7 @@
 Terminos y condiciones - Diario El Mundo
 ========================================
 
-Miércoles 04 De Diciembre Del 2024
+Jueves 05 De Diciembre Del 2024
 
 [![logo](https://static.elmundo.sv/kdg-content/featured/logos/diario_el_mundo_hd_black.svg)](https://diario.elmundo.sv/ "Diario El Mundo")
 
