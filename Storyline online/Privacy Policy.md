@@ -45,7 +45,7 @@ Download our free app!
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/1-YouTube.png)](https://www.youtube.com/StorylineOnline)
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/2-Instagram-1.png)](https://www.instagram.com/storylineonline/)
 
-[![](https://storylineonline.net/wp-content/uploads/2024/03/SponsoredbyBlank.png)](https://storylineonline.net/)
+[![](https://storylineonline.net/wp-content/uploads/2024/11/SOSponsoredbyElmers.png)](https://elmers.com/)
 
 Stay Informed Sign up for our email updates
 -------------------------------------------
