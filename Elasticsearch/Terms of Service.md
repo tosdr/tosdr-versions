@@ -261,24 +261,6 @@ Have questions?
 
 [Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/docs)
 
-New
-
-[Read more](https://www.elastic.co/portfolio/operationalizing-generative-ai-strategic-guide)
-
-[About us](https://www.elastic.co/about)[Partners](https://www.elastic.co/partners)[Support](https://www.elastic.co/support)|[Login](https://cloud.elastic.co/login)
-
-[](https://www.elastic.co/)
-
-* Products
-* Solutions
-* Why Elastic?
-* Resources
-[Pricing](https://www.elastic.co/pricing)[Docs](https://www.elastic.co/docs)
-
-Search
-
-Start free trialContact sales
-
 Terms of Use
 ============
 
