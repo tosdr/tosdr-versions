@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Before therapy I thought I could change people with my love, affection, loyalty, etc. Not only did I think I \*could\* but I think I thought that it was somehow also my duty to do so. Then I learned about codependency and how it was not my responsibility to change people nor is it possible. I learned that people are who they are and, other than a respectful request, it's best to take people at face value and use boundaries. As a result, I no longer make as much space for people in my life who drain me and do not fill my cup.”_
+_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
