@@ -200,6 +200,11 @@ This document was last updated on January 1, 2014
 
 #### Defense News
 
+* [A-10s are being spotted in Syria. Here’s how they’re being used.](https://www.defensenews.com/air/2024/12/04/a-10s-are-being-spotted-in-syria-heres-how-theyre-being-used/)  
+    12/04/24 04:00pm  
+    
+    U.S. forces regularly fly A-10s in show-of-force missions in eastern Syria, an official said. (Air Force)
+    
 * [How an AI-powered dashboard gets Air Force reservists deployment-ready](https://www.defensenews.com/news/your-military/2024/12/03/how-an-ai-powered-dashboard-gets-air-force-reservists-deployment-ready/)  
     12/03/24 11:21am  
     
@@ -214,11 +219,6 @@ This document was last updated on January 1, 2014
     11/27/24 12:39pm  
     
     Two Russian fighters intercepted a pair of B-52H Stratofortresses near the Baltic Sea on Monday, a U.S. defense official confirmed. One of the Stratofortresses is shown here taking off from RAF Fairford on Monday. (Airman 1st Class Laiken King/U.S. Air Force)
-    
-* [Air Force awards Boeing $2.4 billion contract for KC-46 tankers](https://www.defensenews.com/air/2024/11/25/air-force-awards-boeing-24-billion-contract-for-kc-46-tankers/)  
-    11/25/24 05:00pm  
-    
-    The Air Force plans to buy 179 KC-46s over 13 lots and is nearing the end of its procurement. (Airman 1st Class Joshua Hastings/U.S. Air Force)
     
 
 Recent parts by keyword  
