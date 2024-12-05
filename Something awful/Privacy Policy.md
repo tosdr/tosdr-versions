@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Twitter Tuesday: April 12, 2011](https://www.somethingawful.com/twitter-tuesday/tt4-12-2011/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Action 52](https://www.somethingawful.com/rom-pit/action-52/)
-* [Dark Stories: Tales from Beyond the Grave (pt. 2)](https://www.somethingawful.com/movie-reviews/dark-stories-tales-2/1/)
-* [Who's That Pokémon?](https://www.somethingawful.com/comedy-goldmine/pokemon-guessing-contest/)
+* [Pixilated History](https://www.somethingawful.com/photoshop-phriday/pixilated-history/1/)
+* [Blue Stripe: The Life and Times of a Holodeck Janitor](https://www.somethingawful.com/news/blue-stripe-life-4/)
+* [PeeSearch](https://www.somethingawful.com/weekend-web/peesearch/1/)
+* [GI Army Funnies](https://www.somethingawful.com/news/army-funnies-debut/1/)
+* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [what're you looking at on ebay](http://forums.somethingawful.com/showthread.php?threadid=4076847 "what're you looking at on ebay")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [ITT post your Spotify Wrapped 2024 (or whatever other music app you use)](http://forums.somethingawful.com/showthread.php?threadid=4076839 "ITT post your Spotify Wrapped 2024 (or whatever other music app you use)")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the strangest rule you've had to follow?](http://forums.somethingawful.com/showthread.php?threadid=4076880 "What's the strangest rule you've had to follow?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ITT we're boomers online](http://forums.somethingawful.com/showthread.php?threadid=4076894 "ITT we're boomers online")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/cars.png) [Holiday travel thread](http://forums.somethingawful.com/showthread.php?threadid=4076863 "Holiday travel thread")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Our long national nightmare is finally over!](http://forums.somethingawful.com/showthread.php?threadid=4076896 "Our long national nightmare is finally over!")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the strangest rule you've had to follow?](http://forums.somethingawful.com/showthread.php?threadid=4076880 "What's the strangest rule you've had to follow?")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh no! Tsunami!](http://forums.somethingawful.com/showthread.php?threadid=4076899 "Oh no!  Tsunami!")
 
 ### Random Articles
 
-* [My first update](https://www.somethingawful.com/daily-dirt/my-first-update/)
-* [Let's Have Fun with Fitness Equipment!](https://www.somethingawful.com/awful-things-sale/fun-fitness-drewtoothpaste/)
-* [The Lost Books of the Bible](https://www.somethingawful.com/news/lost-books-bible/1/)
-* [AuraMan (Thanks, chardish!)](https://www.somethingawful.com/awful-links/auraman-nudity/)
-* [Platform Hero episode 4](https://www.somethingawful.com/flash-tub/platform-hero-episode-3/)
+* [Murder Time!](https://www.somethingawful.com/news/murder-time/)
+* [Grandpa didn't die flamethrowering the Vietcong so the wrong gender could gas up a helicopter](https://www.somethingawful.com/news/grandpa-warcrimes-good/)
+* [Suicide Silence](https://www.somethingawful.com/garbage-day/suicide-silence-deathcore/)
+* [Gifts of the Damned and Stupid](https://www.somethingawful.com/news/taylor-gifts-catalog/1/)
+* [3D Emoticons Redux!](https://www.somethingawful.com/comedy-goldmine/forums-emoticons-3d/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
