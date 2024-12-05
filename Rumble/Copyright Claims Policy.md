@@ -59,131 +59,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Redacted News
 
-47.7K](https://rumble.com/v5w9xvz--preemptive-pardons-bidens-next-wtf-decision-explained.html "Steven Crowder")
-
-[Bannons War Room
-
-22.6K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-4.53K](https://rumble.com/v5w7s9t-badlands-daily-thursday-december-5-2024.html "Badlands Media")
+14.4K](https://rumble.com/v5wdl5t-breaking-deep-state-warmongers-in-panic-mode-as-trump-and-putin-work-to-avo.html "Redacted News")
 
 [NEWSMAX
 
-4.31K](https://rumble.com/v5wa29w-the-gerry-callahan-show-live-12052024-newsmax-podcasts.html "NEWSMAX")
+3.29K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Kimberly Guilfoyle
 
-1.21K](https://rumble.com/v5w6zen-the-mk-show-dec.5th.html "Matt Kohrs")
+2.38K](https://rumble.com/v5wdgpt-accountability-is-coming-swamp-goes-into-panic-mode-live-with-jeffrey-clark.html "Kimberly Guilfoyle")
 
-[Due Dissidence
+[Barry Cunningham
 
-902](https://rumble.com/v5w6rr8-white-house-weighs-more-huge-pardons-adams-approves-of-deportations-hegseth.html "Due Dissidence")
+781](https://rumble.com/v5wdqft-trump-daily-briefing-everyone-wants-a-pardon-and-pete-hegseth-must-be-confi.html "Barry Cunningham")
 
-[Tate Speech by Andrew Tate
+[JustPearlyThings
 
-826](https://rumble.com/v5w9ijh-emergency-meeting-episode-95-100k-party.html "Tate Speech by Andrew Tate")
+646](https://rumble.com/v5wdy6k-even-super-celebrities-hit-the-wall-eventually-pearl-daily.html "JustPearlyThings")
 
 [Lofi Girl
 
-263](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+292](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
-[barstoolsports
+[Dr Steve Turley
 
-242](https://rumble.com/v5waf2q-survivor-47-episode-12-recap.html "barstoolsports")
-
-[The Wonton Don
-
-86](https://rumble.com/v5wabaw-donnie-does-live-with-the-traveling-backpack.html "The Wonton Don")
-
-[Wake Up Mintzy
-
-75](https://rumble.com/v5w2ann-wake-up-mintzy-12.5.24.html "Wake Up Mintzy")
-
-[Mike Crispi
-
-60](https://rumble.com/v5w56hk-mike-crispi-unafraid-12-5-24.html "Mike Crispi")
+115](https://rumble.com/v5wehbb-the-supreme-court-is-ending-wokeness-once-and-for-all.html "Dr Steve Turley")
 
 [Major League Fishing
 
-2](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+0](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
 [NHRA](https://rumble.com/c/NHRA "NHRA")
 
-[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
-
-[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
-
-[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
 [Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
 
-[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
-
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
-
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[NELK](https://rumble.com/c/NELK "NELK")
-
-[Havoc](https://rumble.com/c/Havoc "Havoc")
-
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
-
-[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
-
-[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
-
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
-
-[After Skool](https://rumble.com/c/AfterSkool "After Skool")
-
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
+[Bitcoin Magazine](https://rumble.com/c/BitcoinMagazine "Bitcoin Magazine")
 
 [UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
 
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[Bare Knuckle Fighting Championship](https://rumble.com/c/BKFC "Bare Knuckle Fighting Championship")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
+
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+
+[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
+
+[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
+
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
+
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
 
 ### Theme
 
