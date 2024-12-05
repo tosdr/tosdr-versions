@@ -28,12 +28,6 @@ Privacy Policy
 * [![در کارخانه‌ی اسنوا چه می‌گذرد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/app/uploads/2021/12/dar-snowa-che-migozarad-95x65.jpg)](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)[در کارخانه‌ی اسنوا چه می‌گذرد؟](https://karkhane.org/3309/%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c-%d8%a7%d8%b3%d9%86%d9%88%d8%a7-%da%86%d9%87-%d9%85%db%8c%da%af%d8%b0%d8%b1%d8%af%d8%9f/)
-* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
-* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
 * [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
@@ -46,15 +40,21 @@ Privacy Policy
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![](https://karkhane.org/app/uploads/2024/11/p1-95x65.jpg)](https://karkhane.org/6098/a_critic_of_workerbee/)[نقدی بر فیلم “زنبور کارگر”](https://karkhane.org/6098/a_critic_of_workerbee/)
-* [![فیلم کودک و استثمار](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![inflation and capitalism](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فیلم کودک و استثمار](https://karkhane.org/app/uploads/2020/06/kudak-o-estesmār-featured-95x65.jpg)](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)[کودکان کارگر: یادداشتی بر فیلم «کودک و استثمار»](https://karkhane.org/1981/%da%a9%d9%88%d8%af%da%a9%d8%a7%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%db%8c%d8%a7%d8%af%d8%af%d8%a7%d8%b4%d8%aa%db%8c-%d8%a8%d8%b1-%d9%81%db%8c%d9%84%d9%85-%da%a9%d9%88%d8%af%da%a9-%d9%88-%d8%a7/)
-* [![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    ![inflation and capitalism](https://karkhane.org/app/uploads/2024/02/Capit-95x65.jpeg)](https://karkhane.org/5376/nirooyekar-dastmozad/)[نیروی کار، ‌دستمزد و تورم](https://karkhane.org/5376/nirooyekar-dastmozad/)
+* [![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![کتابچه‌ی راهنمای قراردادِ کار و مزد 1400](https://karkhane.org/app/uploads/2021/06/ketabce-rahnama-e-qarardad-e-kar-o-mozd-1400-95x65.jpg)](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)[کتابچه‌ی راهنمای قرارداد کار و مزد ۱۴۰۰](https://karkhane.org/2865/%da%a9%d8%aa%d8%a7%d8%a8%da%86%d9%87-%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d9%82%d8%b1%d8%a7%d8%b1%d8%af%d8%a7%d8%af-%da%a9%d8%a7%d8%b1-%d9%88-%d9%85%d8%b2%d8%af-1400/)
+    ![نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/app/uploads/2020/10/nassaji-mazandaran-95x65.jpg)](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)[نساجی مازندران: نمونه‌ای از اولویت منافع سرمایه‌داران](https://karkhane.org/2262/%d9%86%d8%b3%d8%a7%d8%ac%db%8c-%d9%85%d8%a7%d8%b2%d9%86%d8%af%d8%b1%d8%a7%d9%86-%d8%a7%d9%88%d9%84%d9%88%db%8c%d8%aa-%d9%85%d9%86%d8%a7%d9%81%d8%b9-%d8%b3%d8%b1%d9%85%d8%a7%db%8c/)
+* [![پهلوی کدام جواهرات را به یغما برد؟](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/app/uploads/2023/02/pahlavi-che-javaherati-be-yaqma-bord-95x65.jpg)](https://karkhane.org/4805/pahlavi-plundered-jewelry/)[پهلوی کدام جواهرات را به یغما برد؟](https://karkhane.org/4805/pahlavi-plundered-jewelry/)
 * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![](https://karkhane.org/app/uploads/2024/11/SizeOfArt_DailyDose_153a-95x65.jpg)](https://karkhane.org/6105/workers_hands/)[دست‌های کارگران](https://karkhane.org/6105/workers_hands/)
+    ![](https://karkhane.org/app/uploads/2024/09/4-95x65.jpeg)](https://karkhane.org/5825/living_encounters_in_capitalist_society/)[تجربه‌های زیسته در جامعه‌ی سرمایه‌داری](https://karkhane.org/5825/living_encounters_in_capitalist_society/)
+* [![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/app/uploads/2020/06/barresi-ye-mobārezāt-e-kārgarān-o-vaziyat-e-niruye-kār-dar-maāden-e-irān-1-95x65.jpg)](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)[بررسی مبارزات کارگران و وضعیت نیروی کار در معادن ایران](https://karkhane.org/1937/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d9%85%d8%a8%d8%a7%d8%b1%d8%b2%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d9%88-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%d9%86%db%8c%d8%b1%d9%88%db%8c-%da%a9%d8%a7/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
