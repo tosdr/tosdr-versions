@@ -75,7 +75,7 @@ New York, NY 10017
 * [](https://instagram.com/manhattaninstitute/)
 * [](https://casualsexproject.com/rss.xml)
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/november-4.jpg)
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/December-op3-2.jpg)
 
 ### The Manhattan Institute works to keep America and its great cities prosperous, safe, and free.
 
@@ -104,6 +104,26 @@ Dec 03 2024
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/donald-trump-vice-voters.jpg)[](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/ "Read More")
+
+Commentary Governance Culture & Society
+
+Dec 04 2024
+
+[What Will Trump Do for ‘Vice Voters’?](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids.jpg)[](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/ "Read More")
+
+Commentary Governance, Health Gender Ideology
+
+Dec 03 2024
+
+[Trump Should Let SCOTUS Back Bans on Puberty Blockers for Gender-Confused Kids](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/)
+
+By **[Leor Sapir](https://admin.mi52siterestore.com/person/leor-sapir/), [Erin Friday](https://admin.mi52siterestore.com/person/erin-friday/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/idens_midnight_spending_binge_.jpg)[](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/ "Read More")
 
 Commentary Health, Governance Healthcare
@@ -123,26 +143,6 @@ Dec 01 2024
 [NYC Puts Social Justice over Child Safety with Deadly Results: ACS Caseworker](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
 
 By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-wont-solve-nycs-migrant-problem-with-a-return-to-law-and-order.jpg)[](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/ "Read More")
-
-Commentary Governance, Cities New York, New York City, Immigration
-
-Nov 30 2024
-
-[Trump Won’t Solve NYC’s Migrant Problem Without a Return to Law-and-Order](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/)
-
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-wont-solve-nycs-migrant-problem-without-a-return-to-law-and-order/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-and-the-academic-cocoon-2024-election-harris-biden.jpg)[](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/ "Read More")
-
-Commentary Education, Governance Higher Ed
-
-Nov 28 2024
-
-[Trump and the Academic Cocoon](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
-
-By **[Heather Mac Donald](https://admin.mi52siterestore.com/person/heather-mac-donald/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-and-the-academic-cocoon/)
 
 Our Policy Areas
 ----------------
