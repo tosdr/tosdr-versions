@@ -76,7 +76,7 @@ Deliver exceptional experiences to people, places, and things with best-in-class
 
 [Technologies](#)[](#)
 
-PLATFORM
+Platform
 
 [![](https://meraki.cisco.com/wp-content/uploads/2022/06/icon-technologies-platform.svg)
 
@@ -102,7 +102,7 @@ Switching](https://meraki.cisco.com/products/switches/)[![](https://meraki.cisco
 
 Mobile Device Management](https://meraki.cisco.com/products/systems-manager/)
 
-IoT PRODUCTS
+IoT Products
 
 [![](https://meraki.cisco.com/wp-content/uploads/2021/12/smart-cameras.png)
 
@@ -264,7 +264,7 @@ Deliver exceptional experiences to people, places, and things with best-in-class
 
 [LEARN MORE](https://meraki.cisco.com/products/)
 
-PLATFORM
+Platform
 
 [![](https://meraki.cisco.com/wp-content/uploads/2022/06/icon-technologies-platform.svg)
 
@@ -290,7 +290,7 @@ Switching](https://meraki.cisco.com/products/switches/)[![](https://meraki.cisco
 
 Mobile Device Management](https://meraki.cisco.com/products/systems-manager/)
 
-IoT PRODUCTS
+IoT Products
 
 [![](https://meraki.cisco.com/wp-content/uploads/2021/12/smart-cameras.png)
 
