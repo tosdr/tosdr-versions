@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/visioenen-van-een-nieuwe-samenleving/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/is-jan-hommen-de-grote-boze-geldwolf/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
