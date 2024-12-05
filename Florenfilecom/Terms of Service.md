@@ -1,6 +1,6 @@
 [![Florehfile.com](/theme_2020/new_img/logo-fon-new.png)
 
-![Florehfile.com](/imagessvg/logos.svg)](https://florenfile.com/)
+![Florehfile.com](/imagessvg/logos_ne.svg)](https://florenfile.com/)
 
 [Login](https://florenfile.com/login.html) [Sign Up](https://florenfile.com/premium.html)* [![Select language](/flagsvg/english.svg)](#)
     
