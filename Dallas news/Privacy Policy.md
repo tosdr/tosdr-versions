@@ -258,3 +258,7 @@ Do You Need Extra Help? If you would like this Policy in another format (for exa
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
 Connect:[](mailto:webnews@dallasnews.com)
+
+Join the conversation
+
+Thank you for reading. We welcome your thoughts on this topic. Comments are moderated for adherence to our [Community Guidelines](https://www.dallasnews.com/help/community-guidelines/). Please read the guidelines before participating.
