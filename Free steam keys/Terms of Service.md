@@ -57,7 +57,7 @@ This page sets out the terms and conditions (the “Agreement”) for using the 
 
 **The Website**
 
-FreeSteamKeys.com is community driven and relies on gamers to share [Steam](https://www.freesteamkeys.com/) related giveaways with each other.
+FreeSteamKeys.com is community driven and relies on gamers to share Steam related giveaways with each other.
 
 FreeSteamKeys is not associated in any way with Valve Corporation. All names, brands, associated imagery and artwork are trademarks and/or copyrighted materials of their respective owners.
 
