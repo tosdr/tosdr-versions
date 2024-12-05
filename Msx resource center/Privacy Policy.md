@@ -137,8 +137,9 @@ MSX Music player
 
 Latest reactions
 
-* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
+* [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
+* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 * [Hegega booth](https://www.msx.org/photoshoots/hegega-booth "Hegega booth")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
@@ -146,10 +147,10 @@ Latest reactions
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
 * [DSK Pro light](https://www.msx.org/news/development/en/disk-pro-light "DSK Pro light")
-* [FUSION-C the C library for MSX (SDCC)](https://www.msx.org/news/development/en/fusion-c-is-available "FUSION-C the C library for MSX (SDCC) ")
 
 Latest forum posts
 
+* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=7 "Christmas Quiz 2024")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
@@ -158,7 +159,6 @@ Latest forum posts
 * [Generate QR codes on your MSX](https://www.msx.org/forum/msx-talk/development/generate-qr-codes-on-your-msx?page=1 "Generate QR codes on your MSX")
 * [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
 * [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
-* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=16 "Full English translation of Illusion City for MSX Turbo-R")
 * [Word Processing.](https://www.msx.org/forum/msx-talk/software/word-processing "Word Processing.")
 * [Joy Kid - Sensor Kid on the Joystick port](https://www.msx.org/forum/msx-talk/development/joy-kid-sensor-kid-on-the-joystick-port "Joy Kid - Sensor Kid on the Joystick port")
@@ -168,6 +168,7 @@ Latest forum posts
 
 News headlines
 
+* [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [63rd Barcelona MSX users meeting](https://www.msx.org/news/events/en/63rd-barcelona-msx-users-meeting "63rd Barcelona MSX users meeting")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
@@ -180,7 +181,6 @@ News headlines
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 * [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
-* [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
