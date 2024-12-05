@@ -258,7 +258,7 @@ The NCUA is committed to the protection of children’s online privacy. Although
 
 ### Links to Other Websites
 
-Our websites sometimes contain links to other federal agencies, private organizations, and commercial entities. The NCUA is not responsible for the privacy practices or content of any non-NCUA websites, and providing a link to non-NCUA website is not intended to be an endorsement of the website or its content. We encourage you to review the privacy policy of every website that you visit.
+Our websites sometimes contain links to other federal agencies, private organizations, and commercial entities. Links to external websites are identified by the external link icon (![Exit link icon](/modules/custom/exit_disclaimer/images/exit-purple.svg)) . The NCUA is not responsible for the privacy practices or content of any non-NCUA websites, and providing a link to non-NCUA website is not intended to be an endorsement of the website or its content. We encourage you to review the privacy policy of every website that you visit.
 
 [Close and return to top](#search-panel-1)
 
@@ -324,7 +324,7 @@ The NCUA website uses cookies to collect and analyze anonymous statistical data.
 
 Last modified on
 
-05/29/24
+12/04/24
 
 **Stay Informed**
 
