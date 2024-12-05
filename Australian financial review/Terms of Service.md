@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2354%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/e4b62793ae53b9f6ff5e42a7fb0b79cf036dcadb)](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
+[![ ](https://static.ffx.io/images/$zoom_0.2023%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_107/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a8d90739ed2a8508db63ace4d07ee33b2312160f)](https://www.afr.com/life-and-luxury/fashion-and-style/what-to-wear-on-your-trip-into-space-this-watch-ceo-has-a-suggestion-20240922-p5kcfp)
 
-### [Not everyone likes this new watch CEO. He’s OK with that](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
+### [What to wear on your trip into space? This watch CEO has a suggestion](https://www.afr.com/life-and-luxury/fashion-and-style/what-to-wear-on-your-trip-into-space-this-watch-ceo-has-a-suggestion-20240922-p5kcfp)
 
-* Simon de Burton
+* 54 mins ago
+* Matthew Drummond
 
-* ### [Here’s what’s ticking, according to the CEOs of three top watch brands](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-s-ticking-according-to-the-ceos-of-three-top-watch-brands-20241108-p5kp1h)
+* ### [Not everyone likes this new watch CEO. He’s OK with that](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
     
-* ### [The wildest watchmakers in one place: inside Singapore’s watch fair](https://www.afr.com/life-and-luxury/fashion-and-style/the-wildest-watchmakers-in-one-place-inside-singapore-s-watch-fair-20241105-p5ko3i)
+* ### [Here’s what’s ticking, according to the CEOs of three top watch brands](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-s-ticking-according-to-the-ceos-of-three-top-watch-brands-20241108-p5kp1h)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Justine Rowe says Telstra employees take pride in working for a company that prioritises social investment.](https://static.ffx.io/images/$zoom_0.2758%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_113/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/dd968ef7497fc95712028bf704e7ebcfc6746c07)](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
+[![Macquarie’s Shemara Wikramanayake has topped the AFR’s CEO pay ranks for the fourth year running. ](https://static.ffx.io/images/$zoom_0.3173%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_295%2C$y_147/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3579381dc61d98b9a4e3933807d19e765d564706)](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
 
-### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
+### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
 
-* Sally Patten
+* 54 mins ago
+* Patrick Durkin
 
-* ### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
+* ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
     
-* ### [Why the backlash from men is threatening gender targets](https://www.afr.com/work-and-careers/workplace/why-the-backlash-from-men-is-threatening-gender-targets-20241125-p5ktbc)
+* ### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2853%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_42%2C$y_334/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/b1f1485ce35618ec2e18397ce3f660ea7292763a)](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
+[![ ](https://static.ffx.io/images/$zoom_0.4604%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_330/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a973c9d004394338a58b82e1c14f3fcc1c19f560)](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
 
-### [For the wine-lover in your life, wrap up this literary treat](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
+### [Make a fashionista’s dreams come true](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
 
-* Max Allen
+* 54 mins ago
+* Eugenie Kelly
 
-* ### [Excess all areas – for those who prefer price on application](https://www.afr.com/life-and-luxury/fashion-and-style/excess-all-areas-for-those-who-prefer-price-on-application-20241105-p5kny8)
+* ### [Why you’ll be eating KFC for Christmas in Japan](https://www.afr.com/life-and-luxury/travel/why-you-ll-be-eating-kfc-for-christmas-in-japan-20241018-p5kjdd)
     
-* ### [Handmade hits the premium end of the gift market](https://www.afr.com/life-and-luxury/arts-and-culture/handmade-hits-the-premium-end-of-the-gift-market-20241104-p5knqo)
+* ### [For the wine-lover in your life, wrap up this literary treat](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
     
 
 [Rich List](https://www.afr.com/rich-list)
