@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Александр Сидякин: При поддержке «Единой России» в Мариинской гимназии в Воронеже откроют Центр патриотического воспитания](https://cdn.er.ru/media/news/December2024/SguZ2OUipvJmY9cZ08PI-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-pri-podderzhke-edinoj-rossii-v-mariinskoj-gimnazii-v-voronezhe-otkroyut-centr-patrioticheskogo-vospitaniya)
+[![Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://cdn.er.ru/media/news/December2024/phm4ZEVADDq4NE6ArQK8-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
 
-[Александр Сидякин: При поддержке «Единой России» в Мариинской гимназии в Воронеже откроют Центр патриотического воспитания](https://er.ru/activity/news/aleksandr-sidyakin-pri-podderzhke-edinoj-rossii-v-mariinskoj-gimnazii-v-voronezhe-otkroyut-centr-patrioticheskogo-vospitaniya)
+[Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
 
-[#Воронежская область](https://er.ru/activity/news?tags%5B0%5D=1166) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#Нетесов](https://er.ru/activity/news?tags%5B0%5D=1993) [#Гусев](https://er.ru/activity/news?tags%5B0%5D=9929) [#реконструкция](https://er.ru/activity/news?tags%5B0%5D=2817) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ИсторическаяПамять](https://er.ru/activity/news?tags%5B0%5D=1091033)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
 
-04.12.24
+Сегодня 19:10
 
-[![«Единая Россия» организовала для социально ориентированных НКО онлайн-встречу с Минэкономразвития](https://cdn.er.ru/media/news/December2024/NWVLLkZIrSjOeJWPFBP8-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizovala-dlya-socialno-orientirovannyh-nko-onlajn-vstrechu-s-minekonomrazvitiya)
+[![«Единая Россия» подвела итоги работы партпроекта «Крепкая семья» за 2024 год](https://cdn.er.ru/media/news/December2024/qsi2o6pSVYjcP2JzLyg6-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-raboty-partproekta-krepkaya-semya-za-2024-god)
 
-[«Единая Россия» организовала для социально ориентированных НКО онлайн-встречу с Минэкономразвития](https://er.ru/activity/news/edinaya-rossiya-organizovala-dlya-socialno-orientirovannyh-nko-onlajn-vstrechu-s-minekonomrazvitiya)
+[«Единая Россия» подвела итоги работы партпроекта «Крепкая семья» за 2024 год](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-raboty-partproekta-krepkaya-semya-za-2024-god)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Илюшникова](https://er.ru/activity/news?tags%5B0%5D=148058) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394) [#онлайн-встреча](https://er.ru/activity/news?tags%5B0%5D=122564) [#Минэкономразвития](https://er.ru/activity/news?tags%5B0%5D=1786)
+[#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531)
 
-04.12.24
+Сегодня 18:14
 
-[![«Единая Россия» передала новое оборудование Белоярской районной больнице в Хакасии](https://cdn.er.ru/media/news/December2024/EPktxjsGImAhuPDBgMvf-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-peredala-novoe-oborudovanie-beloyarskoj-rajonnoj-bolnice-v-hakasii)
+[![«Молодая Гвардия Единой России» организовала цикл мероприятий ко Дню волонтёра](https://cdn.er.ru/media/news/December2024/bwzGL6cD42GIFQH45RVh-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-organizovala-cikl-meropriyatij-ko-dnyu-volontyora)
 
-[«Единая Россия» передала новое оборудование Белоярской районной больнице в Хакасии](https://er.ru/activity/news/edinaya-rossiya-peredala-novoe-oborudovanie-beloyarskoj-rajonnoj-bolnice-v-hakasii)
+[«Молодая Гвардия Единой России» организовала цикл мероприятий ко Дню волонтёра](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-organizovala-cikl-meropriyatij-ko-dnyu-volontyora)
 
-[#Республика Хакасия](https://er.ru/activity/news?tags%5B0%5D=83502) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Башанкаев](https://er.ru/activity/news?tags%5B0%5D=114445) [#Сокол](https://er.ru/activity/news?tags%5B0%5D=18524) [#медоборудование](https://er.ru/activity/news?tags%5B0%5D=96556) [#больница](https://er.ru/activity/news?tags%5B0%5D=3441) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#ветераны](https://er.ru/activity/news?tags%5B0%5D=40)
 
-04.12.24
+Сегодня 18:00
 
-[![«Единая Россия» наградила победительниц первого Всероссийского конкурса «Краса ЖКХ»](https://cdn.er.ru/media/news/December2024/ZG7CDrnLX07HwrgsaG71-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-pobeditelnic-pervogo-vserossijskogo-konkursa-krasa-zhkh)
+[![«Единая Россия» возьмет на контроль создание промышленной инфраструктуры для субъектов МСП в области национальных технологических приоритетов](https://cdn.er.ru/media/news/December2024/tjsBnnzussbsPU4kyBIi-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vozmet-na-kontrol-sozdanie-promyshlennoj-infrastruktury-dlya-subektov-msp-v-oblasti-nacionalnyh-tehnologicheskih-prioritetov)
 
-[«Единая Россия» наградила победительниц первого Всероссийского конкурса «Краса ЖКХ»](https://er.ru/activity/news/edinaya-rossiya-nagradila-pobeditelnic-pervogo-vserossijskogo-konkursa-krasa-zhkh)
+[«Единая Россия» возьмет на контроль создание промышленной инфраструктуры для субъектов МСП в области национальных технологических приоритетов](https://er.ru/activity/news/edinaya-rossiya-vozmet-na-kontrol-sozdanie-promyshlennoj-infrastruktury-dlya-subektov-msp-v-oblasti-nacionalnyh-tehnologicheskih-prioritetov)
 
-[#Школаграмотногопотребителя](https://er.ru/activity/news?tags%5B0%5D=1090072) [#ЖенскоедвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094209) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#ЖКХ](https://er.ru/activity/news?tags%5B0%5D=764) [#Козлов](https://er.ru/activity/news?tags%5B0%5D=8078) [#Абросимова](https://er.ru/activity/news?tags%5B0%5D=48125) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607)
+[#Когогина](https://er.ru/activity/news?tags%5B0%5D=10885) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#Предпринимательство](https://er.ru/activity/news?tags%5B0%5D=1092796) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
-04.12.24
+Сегодня 16:46
 
-[![О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://cdn.er.ru/media/news/December2024/uwEGquRSrSQEjEXW65dM-small.jpg)](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
+[![Владимир Путин подвел итоги ряда нацпроектов - участие в их реализации принимает «Единая Россия»](https://cdn.er.ru/media/news/December2024/LmdSZL8JMVY00ORzJj55-small.jpg)](https://er.ru/activity/news/vladimir-putin-podvel-itogi-ryada-nacproektov-uchastie-v-ih-realizacii-prinimaet-edinaya-rossiya)
 
-[О повышении роли среднего профессионального образования. Статья Андрея Исаева](https://er.ru/activity/news/o-povyshenii-roli-srednego-professionalnogo-obrazovaniya-statya-andreya-isaeva)
+[Владимир Путин подвел итоги ряда нацпроектов - участие в их реализации принимает «Единая Россия»](https://er.ru/activity/news/vladimir-putin-podvel-itogi-ryada-nacproektov-uchastie-v-ih-realizacii-prinimaet-edinaya-rossiya)
 
-[#СПО](https://er.ru/activity/news?tags%5B0%5D=39227) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#профобразование](https://er.ru/activity/news?tags%5B0%5D=44)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#благоустройство](https://er.ru/activity/news?tags%5B0%5D=3871) [#ФКГС](https://er.ru/activity/news?tags%5B0%5D=121187) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#социальнаясфера](https://er.ru/activity/news?tags%5B0%5D=117652)
 
-04.12.24
+Сегодня 15:28
 
-[![«Единая Россия» открыла шахматный клуб Сергея Карякина в Реутове Московской области](https://cdn.er.ru/media/news/December2024/JtjJClPc2SdhCXy1CsiJ-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-otkryla-shahmatnyj-klub-sergeya-karyakina-v-reutove-moskovskoj-oblasti)
+[![Ольга Занко: С 2021 года «Единая Россия» инициировала более 20 законов, поддерживающих волонтёрство и благотворительность](https://cdn.er.ru/media/news/December2024/NeyxbI1suybZa5gAz3yN-small.jpg)](https://er.ru/activity/news/olga-zanko-s-2021-goda-edinaya-rossiya-iniciirovala-bolee-20-zakonov-podderzhivayushih-volontyorstvo-i-blagotvoritelnost)
 
-[«Единая Россия» открыла шахматный клуб Сергея Карякина в Реутове Московской области](https://er.ru/activity/news/edinaya-rossiya-otkryla-shahmatnyj-klub-sergeya-karyakina-v-reutove-moskovskoj-oblasti)
+[Ольга Занко: С 2021 года «Единая Россия» инициировала более 20 законов, поддерживающих волонтёрство и благотворительность](https://er.ru/activity/news/olga-zanko-s-2021-goda-edinaya-rossiya-iniciirovala-bolee-20-zakonov-podderzhivayushih-volontyorstvo-i-blagotvoritelnost)
 
-[#Карякин](https://er.ru/activity/news?tags%5B0%5D=18764) [#Брынцалов](https://er.ru/activity/news?tags%5B0%5D=7786) [#шахматныйклуб](https://er.ru/activity/news?tags%5B0%5D=1095821) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#региональнаяобщественнаяприемная](https://er.ru/activity/news?tags%5B0%5D=109456)
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
 
-04.12.24
+Сегодня 14:30
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
