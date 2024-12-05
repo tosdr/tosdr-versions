@@ -4,8 +4,6 @@ We’re sorry, but Coda doesn’t work properly without JavaScript enabled.
 
 Skip to content
 
-[Webinar: Join Lane, Coda's CPO, for lessons on creating clarity out of ambiguity. Register now.](https://app.livestorm.co/coda/rituals-of-great-product-teams-how-to-turn-ambiguity-into-clarity-december-2024?utm_source=website&utm_medium=rainbow_bar&utm_campaign=rituals_lane_webinar&utm_term=12-3-2024)
-
 [](https://coda.io/welcome)
 
 Product
@@ -82,7 +80,7 @@ FEATURED](https://coda.io/resources/webinars)
 
 Connect
 
-[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire a services partner](https://coda.io/partners/hire-a-services-partner)[Partner with us](https://coda.io/partners)
+[Help center](https://help.coda.io/)[Coda community](https://community.coda.io/)[Hire a Services Partner](https://coda.io/partners/hire-a-services-partner)[Partner with us](https://coda.io/partners)
 
 Extend
 
@@ -97,8 +95,6 @@ How to build a team hub on Coda](https://coda.io/resources/guides/how-to-build-a
 [Gallery](https://coda.io/gallery)[Blog](https://coda.io/blog)[Pricing](https://coda.io/pricing)[Request a demo](https://coda.io/contact/sales/request-a-demo)
 
 [Get started](https://coda.io/signup?continueTo=%2Ftrust%2Ftos)
-
-[Webinar: Join Lane, Coda's CPO, for lessons on creating clarity out of ambiguity. Register now.](https://app.livestorm.co/coda/rituals-of-great-product-teams-how-to-turn-ambiguity-into-clarity-december-2024?utm_source=website&utm_medium=rainbow_bar&utm_campaign=rituals_lane_webinar&utm_term=12-3-2024)
 
 [](https://coda.io/welcome)
 
@@ -471,7 +467,7 @@ Last Modified: May 15, 2024
 
 ![](https://sanity-images.imgix.net/production/dc582c9eed3f7396ac1b81a01bb8400996902884-85x132.svg?w=264&auto=format%2Ccompress)
 
-Company[About us](https://coda.io/about)[Blog](https://coda.io/blog)[Coda on Coda](https://coda.io/about/coda-on-coda)[Careers](https://coda.io/about/jobs)[Press](mailto:press@coda.io)[Partner with us](https://coda.io/partners)
+Company[About us](https://coda.io/about)[Blog](https://coda.io/blog)[Careers](https://coda.io/about/jobs)[Accessibility](https://coda.io/product/accessibility)[Coda on Coda](https://coda.io/about/coda-on-coda)[Press](mailto:press@coda.io)
 
 Product[Compare Coda](https://coda.io/compare)[Case studies](https://coda.io/solutions/case-studies)[Packs](https://coda.io/product/packs)[API](https://coda.io/developers/apis/v1)[Beta program](https://coda.io/product/beta-program)[Explore Coda](https://coda.io/product)
 
