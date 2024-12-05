@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/highly-processed-foods-impact-muscle-1440x810.jpg)
+
+Ultraprocessed Foods Tied to Fat Stored in the Thighs](https://www.everydayhealth.com/diet-nutrition/ultra-processed-foods-tied-to-fat-stored-in-the-thighs/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/depression-can-cause-period-pain-1440x810.jpg)
 
 Study Finds Genetic Link Between Menstrual Pain and Depression](https://www.everydayhealth.com/womens-health/study-finds-genetic-link-between-menstrual-pain-and-depression/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/cucumber-recall-salmonella-outbreak-1440x810.jpg)
-
-Cucumbers at Costco, Walmart Recalled Due to Salmonella Outbreak](https://www.everydayhealth.com/infectious-diseases/cucumbers-at-costco-walmart-recalled-due-to-salmonella/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
