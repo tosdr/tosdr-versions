@@ -31,286 +31,74 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Av. Oswaldo Guayasamín está cerrada por siniestro de tránsito en Quito
-======================================================================
+Cierres viales por instalación de puente en la Autopista General Rumiñahui
+==========================================================================
 
-Cinco personas resultaron heridas en un siniestro de tránsito en el antiguo puente del río Chiche. Los bomberos asisten a los afectados
----------------------------------------------------------------------------------------------------------------------------------------
+Agentes de tránsito se ubicarán en la zona del cierre y vías aledañas en donde pudiera haber congestión vehicular para asistir a los conductores
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-![El Cuerpo de Bomberos atiende la emergencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T073852.925.jpg)
+![Este domingo 8 de diciembre, se realizará el montaje de las vigas del puente que une Conocoto con La Armenia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T141943.782.jpg)
 
-El **Cuerpo de Bomberos** informó este jueves 5 de diciembre sobre la atención a una **emergencia** registrada en el antiguo puente del Chiche, en Puembo.
-
-### Más noticias
-
-* [Así funciona el Pico y placa en Quito este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-5-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 5 de diciembre")
-* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
-* [Cortes de luz en Quito para este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-5-diciembre.html "Cortes de luz en Quito para este jueves 5 de diciembre")
-
-Siniestro dejó personas heridas
--------------------------------
-
-El **Cuerpo de Bomberos Quito i**nformó que un camión sufrió un siniestro de tránsito en el antiguo puente del **río Chiche**, en la vía que conduce **a Puembo.**
-
-En fotos compartidas en redes sociales se pudo ver a un camión de carga impactado de frente contra un vehículo pequeño azul.
-
-Los efectivos del Cuerpo de Bomberos acudieron al sitio para brindar atención a las **personas afectadas**.
-
-Vía cerrada en el antiguo puente del Chiche
--------------------------------------------
-
-La **vía se cerró totalmente** mientras se solventa la emergencia.
-
-Según información preliminar, **cinco personas están heridas**. Los paramédicos les brindan atención de primeros auxilios y evaluarán su estado de salud.
-
-El **Cuerpo de Bomberos** designó a 12 de sus miembros para ayudar a las personas afectadas.
-
-La Agencia Metropolitana de tránsito (AMT) informó que **la vía está cerrada en ambos sentidos.** Los agentes de tránsito gestionan el flujo vehicular en los alrededores para ayudar a los conductores.
-
-Si necesitas circular por el sector toma como **vía alterna** la [Ruta Viva](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-_**Noticia en desarrollo…**_
-
-> 🔁 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en el antiguo Puente de El Chiche.  
->   
-> 🚑 Cinco personas resultaron heridas.  
->   
-> 👨🏼‍🚒 En el lugar trabajamos con 12 efectivos.  
->   
-> 🙏 Por favor, conduce con responsabilidad. No pongas en riesgo tu vida.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/N4F5aBW982](https://t.co/N4F5aBW982) [pic.twitter.com/8C3Jh7ecqw](https://t.co/8C3Jh7ecqw)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 5, 2024](https://twitter.com/BomberosQuito/status/1864645368056582401?ref_src=twsrc%5Etfw)
-
-Así funciona el Pico y placa en Quito este jueves 5 de diciembre
-================================================================
-
-Recuerda que diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.
------------------------------------------------------------------------------------------------------------------------
-
-![Los agentes metropolitanos vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-8.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
+La **Prefectura de Pichincha** informó sobre los trabajos de montaje del puente en la **autopista General Rumiñahui**, a la altura del puente 8. Este proceso requiere **el cierre total de esta autopista**.
 
 ### Más noticias
 
-* [ANT suspende atención este 6 de diciembre en Quito](https://www.elcomercio.com/actualidad/quito/ant-suspende-atencion-este-6-de-diciembre-en-quito.html "ANT suspende atención este 6 de diciembre en Quito")
-* [Quito tiene tres sistemas que la abastecen de agua; uno está afectado](https://www.elcomercio.com/actualidad/quito/quito-tiene-tres-sistemas-que-abastecen-agua-uno-esta-afectado.html "Quito tiene tres sistemas que la abastecen de agua; uno está afectado")
-* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
+* [Autopista General Rumiñahui tendrá cierre total por montaje de puente](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-tendra-cierre-total-montaje-de-puente.html "Autopista General Rumiñahui tendrá cierre total por montaje de puente")
+* [Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/calle-cierra-tres-semanas-altura-de-autopista-general-ruminahui.html "Calle se cierra por tres semanas, a la altura de la autopista General Rumiñahui")
+* [Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-partido-futbol-sabado-7-de-diciembre.html "Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre")
 
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+Montaje de puente
+-----------------
 
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+La Prefectura construye un **paso elevado** a la altura de la entrada a Conocoto y este fin de semana se realizará la instalación del puente de la av. Lola Quintana.
 
-El esquema de aplicación:
--------------------------
+A través de esta obra circularán alrededor de **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños, como La Armenia.
 
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
+Estos trabajos se ejecutarán **desde las 05:00 del domingo 8 de diciembre hasta las 24:00** del mismo domingo. Para ello, se realizará el **cierre total de los seis carriles de la autopista.**
 
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+Este puente tendrá una longitud **de 276 metros**, con un ancho de 3,5 metros. El proyecto también prevé la instalación de iluminación del puente y la señalización vertical.
 
-Multas por infringir Pico y placa
----------------------------------
+Operativo de tránsito
+---------------------
 
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+La Agencia Metropolitana de Tránsito (AMT) informó que ejecutará un **dispositivo de tránsito** desde las 04:00 hasta las 23:59 del domingo 8 de diciembre.
 
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+Para estas labores, la AMT designó a **seis agentes de tránsito** para gestionar el flujo vehicular. Estos estarán distribuidos en toda la zona afectada, como Conocoto.
 
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+Vías cerradas
+-------------
 
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+Debido a los trabajos de montajes del puente, se interrumpirá el paso en los seis carriles de la autopista General Rumiñahui, es decir, en ambos sentidos el paso estará bloqueado.
 
-Matriculación vehicular
------------------------
+Las calles que estarán cerradas son:
 
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.[Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+* Av. Lola Quintana y 29 de Mayo
+* Alfredo Gangotena y Charles Darwin
+* Av. Lola Quintana y Alfredo Gangotena
+* Av. Río Amazonas y Río Coca
+* Av. Río Coca y Santiago
+* Av. Río Santiago y Río Amazonas
+* Juan Serafín y César Endara
 
-Recuerda que la AMT realiza controles preventivos de exceso de velocidad en Quito. Reduce la velocidad y maneja con precaución.
+**Rutas alternas**
 
-> 🚔 [#CadaVidaCuenta](https://twitter.com/hashtag/CadaVidaCuenta?src=hash&ref_src=twsrc%5Etfw) |  
->   
-> 🚨 Informamos de los operativos preventivos de control de velocidad en el DMQ, que se realizarán desde el martes 3 al viernes 13 de diciembre.  
->   
-> 🫡 Con acciones preventivas salvamos vidas.  
->   
-> ✅ Al conducir con precaución  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/qOT7lhZR0k](https://t.co/qOT7lhZR0k)
-> 
-> — AMTQuito (@AMT\_Quito) [December 3, 2024](https://twitter.com/AMT_Quito/status/1864001502857089375?ref_src=twsrc%5Etfw)
+* 29 de Mayo
+* Oriente
+* Simón Bolívar
+* Manuela Cañizares
+* Av. Camilo Ponce Enríquez
+* Av. Princesa Toa
+* Jaime Roldós Aguilera
+* Av. Ilaló
 
-Cartas a Quito / 5 de diciembre de 2024
-=======================================
+**Desvíos**
 
-Estas son las cartas a Quito de este jueves 5 de diciembre de 2024
-------------------------------------------------------------------
+* 18 de Mayo
+* Juan José Izurieta
 
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+La **logística** prevista por la **Prefectura de Pichincha** contempla la instalación de 30 conos, tres cintas y 14 barras New Jersey como parte de la señalética.
 
-Los berrinches ideologizados
-----------------------------
-
-Si recurrimos al diccionario (sana costumbre que deberían practicar muchos políticos), berrinche es: “Irritación grande que se manifiesta ostensiblemente, y sobre todo la de los niños.”
-
-Podríamos también recurrir a la definición de rabietas: “Las rabietas infantiles son manifestaciones explosivas de frustración o rabia en los niños, que son normales y frecuentes en la infancia.”
-
-Evidentemente, son manifestaciones infantiles y por lo general muy ruidosas y ostensibles, audibles, visibles. Es penoso el comprobar que, en la práctica política ecuatoriana, se usa este tipo de manifestaciones en personas que, por su edad, deberían haber pasado hace mucho tiempo la etapa infantil.
-
-Pero allí los tenemos, especialmente a aquellos que son más dogmáticos, que llegan a los fanatismos, prácticas que, por lo general, derivan en la falta de razonamiento, de allí su tendencia a practicar acciones infantiles. Los vemos en las expresiones de un señor Iza, de un señor Correa, de una señora Mónica Palacios, de una señora Paola Cabezas, y así algunos que demuestran que sus actuaciones están signadas por el dogmatismo, o más allá, por el fanatismo.
-
-Desde luego que alguien que tiene afectado el cerebro por el dogmatismo o que ha llegado al fanatismo, difícilmente va a razonar, cuando el verdadero papel del político debe ser el de dar el ejemplo, de guiar a los demás a “razonar con lógica y proceder según los sanchos profesores del sentido común”, como nos legó Medardo Ángel Silva.
-
-Pero es como pedir peras al olmo. Son los efectos de una educación deficiente, de la falta de lecturas, de la falta de razonamiento. De la presencia de profesores idiotizados por el fanatismo y herramientas de la dogmatización. Pero, también falla la educación familiar, el ejemplo de padres que no leen ni las tiras cómicas de los periódicos. Que dejan al libre albedrío de niños que no tienen el criterio formado la toma de decisiones.
-
-Escuchar de una asambleísta, supuestamente arquitecta, decir que a los menores no se los debe juzgar como adultos cuando cometen delitos que solamente podrían ser cometidos por adultos, es realmente inconcebible, cuando pertenece a un movimiento político que instauró el voto a los menores de diez y seis años, acción que solamente puede ser entregada a persona con un mínimo grado de madurez, aduciendo, infantilmente que la madures se alcanza a los treinta años o más: ¡¡qué contradicción!!!
-
-También algo menos trascendente, por lo formal y aparente, la ruptura de la tradición de la serenata al Presidente por parte del Alcalde de Quito, otro berrinche o rabieta ideologizada.
-
-José M. Jalil Haas
-
-Sobre duendes y duendas
-=======================
-
-Los duendes son seres míticos pequeños y traviesos; en Ecuador, el Chuzalongo destaca en relatos populares cargados de humor y magia.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**Casi todos hemos oído historias de duendes asociadas a un personaje siniestro, de baja estatura y sombrero, que deambulaba por campos y ciudades**. En todas las culturas, los duendes corresponden a criaturas mágicas, de forma humanoide, que la cultura popular ha recogido como parte de sus mitos, leyendas y tradiciones.
-
-**Su nombre proviene de la expresión “duen de casa” o “dueño de casa”, porque los duendes tienden a “apoderarse” de los hogares y encantarles, o bien del árabe “duar de la casa” (“que habita, habitante”)**. En Europa se relacionaba a los duendes con las **hadas**, equivalentes al **goblin**, un fantasma de ese talante que, maliciosamente, merodeaba por esos lares. Se dice que aparecía en las noches y lanzaba piedritas a las chicas para llamar su atención y enamorarlas.
-
-**Se describen a los duendes como seres sobrenaturales**, escurridizos, de un metro de altura, aproximadamente, con orejas puntiagudas y piel verdosa, dedicados a cuidar la naturaleza. Los cuentos los describen **como maliciosos y bromistas, considerados como tipos de gnomos, trasgos o pomberos sudamericanos.**
-
-La Real Academia de la Lengua Española define al duende -conocido en los Andes como **Chuzalongo**\-, un **“enano de pene morrocotudo que ataca en el campo a las mujeres”,** y pertenece a la tradición mítica popular ecuatoriana.
-
-El **Chuzalongo procede de dos vocablos kichwas**: **Chuza** que significa “pequeño” y **longo** que se traduce como “niño”: el duende mítico ecuatoriano que atormenta a doncellas y agricultores.
-
-**La literatura oral del Ecuador es pródiga en relatos fantásticos** sobre este célebre personaje. **Laura Hidalgo**, escritora ecuatoriana, recogió en un libro sus historias llenas de humor y ocurrencias. Se trata de **“Duendes y duendas más otros aparecidos de aquicito nomás”**. **Estos relatos mágicos perduran hasta nuestros días.**
-
-Les pregunto, amigos lectores: **¿cuántos duendes y duendas andan sueltos todavía en Quito y otras ciudades, en esta época oscura por obra y (des)gracia de los apagones?**
-
-Ineficiencia judicial por falta de jueces
-=========================================
-
-La ausencia de jueces titulares afecta la eficiencia judicial y erosiona la confianza en la justicia ecuatoriana.
------------------------------------------------------------------------------------------------------------------
-
-![Desde el 2019 no se logra concretar la selección de jueces en Ecuador: Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/justicia_ciega_720.png)
-
-La falta de integración de la **Corte Nacional de Justicia (CNJ) de Ecuador**, desde 2019, genera repercusiones en la ciudadanía y en la función judicial. En primer lugar, esta situación no solo afecta la eficiencia del sistema judicial, sino que también erosiona la confianza pública en la justicia.
-
-Por ejemplo, la ausencia de jueces titulares provoca retrasos en los procesos legales y conduce a una mayor percepción de un **sistema judicial ineficaz**.
-
-Adicionalmente, el proceso para llenar estas vacantes se caracteriza por ser lento, complicado y, en varias ocasiones, se presentaron [irregularidades.](https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html "https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html")
-
-> Es importante señalar que, desde hace más de cinco años, no se lleva a cabo un [concurso efectivo](https://www.funcionjudicial.gob.ec/concursos-corte-nacional/ "https://www.funcionjudicial.gob.ec/concursos-corte-nacional/") para seleccionar nuevos jueces. Como resultado, esto deja un vacío crítico en la administración de justicia.
-
-Además, la falta de renovación en el **sistema judicial** puede dar como resultado una falta de diversidad y representación en las decisiones judiciales. De esta forma, se afecta el principio de justicia equitativa.
-
-Por otra parte, el impacto se extiende a la percepción pública del sistema judicial. En este sentido, la capacidad del **Consejo de la Judicatura** para gestionar adecuadamente el proceso de selección está en entredicho, lo que alimenta el ciclo de desconfianza hacia las instituciones.
-
-En definitiva, sin una judicatura robusta y competente, se corre el riesgo de que los derechos ciudadanos no se protejan adecuadamente. Esto, a su vez, ahonda la insatisfacción social y afecta la garantía del respeto a los derechos.
-
-Por otro lado, este vacío despierta los **intereses políticos** que buscan influir en el poder judicial. En consecuencia, un sistema judicial debilitado es más susceptible a presiones externas, comprometiendo su independencia y su función como **garante del Estado de derecho**.
-
-> Finalmente, la falta de jueces calificados puede llevar a decisiones judiciales cuestionables, afectando la legitimidad del sistema.
-
-En conclusión, llenar las vacantes de jueces es crucial no solo para garantizar una administración efectiva de justicia, sino también para restaurar la confianza pública en el sistema judicial.
-
-Por ello, concretar los procesos de selección y garantizar un enfoque transparente y **meritocrático** para asegurar que los mejores candidatos asuman estos roles vitales no puede seguir extendiéndose más tiempo.
-
-Sin una judicatura fuerte y competente, los derechos ciudadanos y el Estado de derecho en Ecuador seguirán en riesgo.
-
-El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor
-===============================================================================
-
-El canelazo tiene huellas en varios puntos de la historia y en los restaurantes actuales.
------------------------------------------------------------------------------------------
-
-![El canelazo es una bebida que no puede faltar en las Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/canelazo.jpg)
-
-Las f**iestas de Quito** empezaron y no puede faltar un **canelazo**. No hay chiva, fiesta de barrio o recorrido por el **Centro Histórico** sin esta bebida[.](https://es.wikipedia.org/wiki/Quito)[](https://es.wikipedia.org/wiki/Quito)
-
-Según los gustos, la receta puede incluir o no **piquete**, es decir, un licor fuerte que abrigue en medio de los festejos. Esta bebida tiene historia.
-
-### Más noticias
-
-* [ECU 911 informó cómo operará en las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/ecu-911-informo-como-operara-en-fiestas-de-quito.html "ECU 911 informó cómo operará en las fiestas de Quito")
-* [Fiestas de Quito, la ruta gastronómica de los mercados tradicionales](https://www.elcomercio.com/actualidad/quito/fiestas-mercados-quito-comida-tradicion.html "Fiestas de Quito, la ruta gastronómica de los mercados tradicionales")
-* [Las Fiestas de Quito cambiaron su orientación en este siglo](https://www.elcomercio.com/actualidad/fiestas-quito-cambiaron-orientacion.html "Las Fiestas de Quito cambiaron su orientación en este siglo")
-
-La evolución de la bebida
--------------------------
-
-El chef y docente universitario, **Edgar Reyes** da cuenta de que el canelazo ha ido evolucionando, quitando y poniendo ingredientes. Así, por ejemplo, las hierbas han ido saliendo de la fórmula y, de a poco, se integran nuevos elementos, como la naranjilla.
-
-Hasta ahí se puede hablar de un **canelazo típico**. Pero, el experto alude a la incorporación de piña, babaco e, incluso, guayaba y mora.
-
-Algunos, a su vez, reemplazan el azúcar por panela. De hecho, el chef da señales de las versiones de **canelazo tipo cóctel**; es decir, frío y con múltiples combinaciones.
-
-Un canelazo de autor
---------------------
-
-El docente universitario hace referencias como que, durante los festejos de la ciudad, el **canelazo** desplaza a cualquier bebida.
-
-Es así que la receta ha llegado a **restaurantes de autor**. En ese camino, Reyes cuenta sobre la transformación con ingredientes como polvo de canela e **ishpingo**.
-
-La base del **canelazo**, además, ha tomado forma de concentrados, como un macerado de aguardiente con canela. A partir de esta preparación, luego de un tiempo de reposo, se realiza un coctel.
-
-El canelazo en las fiestas de Quito
------------------------------------
-
-El canelazo tiene un trayecto con rastros en la época de la Colonia. **Edgar Reyes** comparte que se sabe que en el Centro Histórico abundaban las tabernas y pulperías.
-
-En esos sitios se expendía alcohol de diferentes denominaciones, como las bautizadas como **mezclas misteriosas**.
-
-Se servía una **bebida caliente** hecha de hierbas y mezclada con alcohol artesanal, lo que comúnmente se conocía y hasta este 2024, como hervidos.
-
-Reyes detalla que, con el pasar del tiempo, ese hervido fue evolucionado y, a modo de medicina para el resfrío, se ofrecía licor con agua de canela. Con los años, tomó el nombre de **canelazo**.
-
-Las huellas históricas
-----------------------
-
-**Héctor López**, fundador de **[Los Ladrillos de Ecuador](https://losladrillosdequito.jimdofree.com/)** y estudioso de la historia de Quito y el país, lleva los pasos del canelazo a otros escenarios: los velorios.
-
-En esos encuentros, en la época virreinal, se repartía agua de canela y otras bebidas calientes. La meta era aplacar el frío de **Quito** y se le añadía azúcar. Ese es el origen probable, pero, recuerda López, no hay certezas.
-
-En el siglo XIX, en cambio, hay registro de que la bebida se conocía como **agua glorificada** o de azúcar.
-
-Lo que sí es seguro es que la bebida se volvió infaltable en las **fiestas de Quito**, aunque es una receta propia de la región andina.
-
-Héctor López apunta que a finales de los años 50 e inicios de los 60, la bebida toma protagonismo para también aguantar el frío. En este caso, en las **serenatas quiteñas**, los inicios de las **Fiestas de Quito**.
-
-Los sitios fijos
-----------------
-
-Si de encontrar **canelazo** se trata, en **Quito** hay puntos básicos. La Ronda, en la zona patrimonial, es uno de estos. De hecho, esta zona ha sido, desde sus inicios, una ruta bohemia.
-
-**El Panecillo**, sin duda, es otro destino para encontrar la receta durante todo el año. El destino fijo es el área de quioscos, donde se encuentra la bebida de **varios sabores**.
-
-Del mismo modo, un buen canelazo no puede faltar en las tradicionales **chivas** o para acompañar una partida de 40.
-
-La receta del canelazo típico
------------------------------
-
-Para no quedarse atrás en las **Fiestas de Quito**, el chef Edgar reyes comparte una guía práctica y rápida para preparar un litro de canelazo típico.
-
-* **Un litro** y medio de agua
-* **Cuatro** naranjillas grandes
-* **Media taza** de azúcar
-* **Cuatro** ramas de canela
-* **Una taza** de aguardiente de caña
-
-Con esos ingredientes, se debe colocar el agua al fuego con el **azúcar y la naranjilla**. Cuando ya empiece a hervir, se agrega una rama de canela y se deja por 30 minutos.
-
-Tras ese tiempo, se retira la **canela**, se coloca en la licuadora y luego se tamiza. Ese jugo vuelve a la olla y al fuego, con las tres ramas de canela restante y se deja hervir por cinco minutos más.
-
-Si la opción es con piquete, ya solo resta **servir y agregar**.
-
-* * *
+Toma en cuenta que hay un cierre en **la Av. Nela Martínez, e**ntre la Camilo Ponce y la autopista General Rumiñahui, por trabajos de [la Epmmop.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
 
 ### Esperanza
 
@@ -320,445 +108,170 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Cortes de luz en Quito para este jueves 5 de diciembre
-======================================================
+Moisés Caicedo y Gonzalo Plata se enfrentarán en el Mundial de Clubes 2025
+==========================================================================
 
-La EEQ retomó los cortes de luz de cinco horas para este jueves, tras un anuncio previo de que la capital no tendría apagones este día.
----------------------------------------------------------------------------------------------------------------------------------------
+Los ecuatorianos Moisés Caicedo, Gonzalo Plata y Jordy Alcívar serán rivales en el Mundial de Clubes.
+-----------------------------------------------------------------------------------------------------
 
-![La EEQ definió una programación de cortes de luz para Quito este jueves 5 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-quito-jueves-5-diciembre.jpg)
+![Moisés Caicedo (centro), Gonzalo Plata (der.) y Piero Hincapié festejan un gol en la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Moises-Caicedo-Plata.jpg)
 
-La **Empresa Eléctrica Quito** definió la programación de cortes de luz para este jueves 5 de diciembre de 2024.
+El sorteo del **Mundial de Clubes 2025**, realizado este 5 de diciembre en **Miami**, ha dejado una emocionante noticia para los aficionados ecuatorianos: **Moisés Caicedo** y **Gonzalo Plata** se verán las caras en el torneo.
 
-En un inicio, la entidad difundió un cronograma con apagones programados reducidos, sin embargo, a las 21:20 de este miércoles, se difundieron **nuevos cambios**.
+El sorteo definió que el **Chelsea** de Caicedo y el **Flamengo** de Plata compartirán el mismo grupo, lo que significa que los dos talentosos ecuatorianos competirán en este prestigioso certamen.
+
+Y no solo eso, un tercer ecuatoriano se suma al ‘duelo’ en el grupo. Se trata de **Jordy Alcívar** en el León de México.
 
 ### Más noticias:
 
-* [Manzano asegura que Ecuador terminará el año sin cortes de luz](https://www.elcomercio.com/actualidad/ecuador/manzano-asegura-que-ecuador-terminara-ano-sin-cortes-de-luz.html "Manzano asegura que Ecuador terminará el año sin cortes de luz")
-* [Motores para central térmica de Salitral están en camino, asegura Ministerio](https://www.elcomercio.com/actualidad/negocios/motores-para-central-termica-salitral-estan-camino-asegura-ministerio.html "Motores para central térmica de Salitral están en camino, asegura Ministerio")
-* [Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html "Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre")
+* [Moisés Caicedo compite por el Gol del Mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gol-mes-chelsea-votacion.html "Moisés Caicedo compite por el Gol del Mes en el Chelsea")
+* [Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-apunta-a-cerrar-el-ano-zona-champions-league.html "Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions")
+* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
 
-Proyectos de reactivación energética en Ecuador
------------------------------------------------
+Moisés Caicedo y Gonzalo Plata
+------------------------------
 
-La situación energética en **Ecuador** sigue siendo crítica al inicio del último mes del año. Sin embargo, debido a las fuertes lluvias que cayeron en lugares cercanos a las centrales hidroeléctricas, el Ministerio de Energía tomó la decisión de reducir los horarios de cortes de luz.
+Caicedo, una de las estrellas del **Chelsea** en la **Premier League**, ha destacado por su imponente desempeño en el **mediocampo**, mientras que Plata, quien fue adquirido por el **Flamengo** esta temporada, ya ha comenzado a mostrar su calidad en el fútbol brasileño.
 
-Además de las precipitaciones, el Gobierno continúa con los procesos de activación o reactivación de proyectos energéticos.
+El encuentro entre ambos **futbolistas** será un cotejo esperado, ya que ambos representan lo mejor del talento ecuatoriano en el fútbol mundial.
 
-Una unidad de la central **Alluriquín**, en el proyecto hidroeléctrico **Toachi-Pilatón**, inició las pruebas eléctricas, luego de pasar las mecánicas. Esto aportará con 68 MW al **Sistema Nacional Interconectado**.
+El sorteo del Mundial puso a sus equipos en el Grupo D del Mundial de Clubes: Flamengo, Chelsea, León.
 
-Además, este fin de semana llegaron los 23 motores de generación termoeléctrica que se instalarán en El Salitral, **Guayaquil**.
+El Mundial de Clubes
+--------------------
 
-Las autoridades estiman que estas unidades añadirán **80 MW** “contribuyendo a garantizar un suministro confiable y sostenible para el desarrollo del país”.
+El **Mundial de Clubes 2025**, que contará con 32 equipos de diferentes partes del mundo, será una vitrina para que estos jugadores brillen y sigan demostrando por qué son considerados unos de los mejores del fútbol internacional.
 
-Con estos antecedentes, la última declaración de la **ministra de Energía y Minas** encargada, **Inés Manzano**, fue que Ecuador terminará el año 2024 sin cortes de luz.
+El torneo se celebrará en Estados Unidos, y el sorteo también definió las posiciones de otros equipos de renombre, como el Real Madrid, el **Bayern Múnich**, el PSG y el Manchester City, que participarán en esta competencia global.
 
-Cortes de luz en Quito para este jueves 5 de diciembre
-------------------------------------------------------
+La presencia de **Caicedo** y **Plata** en este torneo no solo es un reflejo de su crecimiento profesional, sino también de la consolidación del fútbol ecuatoriano en el ámbito internacional.
 
-Los cortes de luz en Quito serán de cinco horas para los **sectores residenciales** y de siete para el **sector industrial**.
+Los fanáticos de ambos jugadores esperan con ansias este enfrentamiento, que promete ser uno de los momentos más emocionantes del **Mundial de Clubes 2025.**
 
-La capital tuvo días con apagones de hasta 14 horas; la **reducción paulatina** se debe a la mejora en los caudales de los ríos en la Amazonía y del Austro; así como a la venta de energía desde **Colombia** y otros proyectos de estabilización energética.
+El Mundial de Clubes se jugará desde el 15 de junio del 2025. Finalizará el 13 de julio.
 
-La suspensión del servicio eléctrico en las viviendas se realizará en **dos franjas**, de dos y de tres horas[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
+La ‘motosierra’ de Javier Milei empuja a miles de argentinos a ir de compras en Chile
+=====================================================================================
+
+En lo que va de año, más de 1,3 millones de argentinos visitaron Chile, lo que supone un aumento del 54,8 % con respecto al mismo periodo de 2023.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Fotografía del 18 de noviembre de 2024 de personas con maletas comprando en el centro comercial Costanera Center, en Santiago (Chile).](https://www.elcomercio.com/wp-content/uploads/2024/12/argentinos-chile-efe.jpg)
+
+A pocos días de que se cumpla el **primer aniversario** de la investidura del presidente [Javier Milei](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html") miles de argentinos cruzan diariamente la **frontera con Chile**. Buscan **aparatos de tecnología, electrodomésticos y ropa más barata**, y huyen de la e**levada inflación, la carestía y la sobrevaloración del peso** que deja la “motosierra” ultraliberal.
+
+### Más noticias
+
+* [Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico")
+* [Donald Trump y Javier Milei dialogan por primera vez desde el triunfo electoral](https://www.elcomercio.com/actualidad/mundo/donald-trump-javier-milei-dialogan-primera-triunfo-electoral.html "Donald Trump y Javier Milei dialogan por primera vez desde el triunfo electoral")
+* [Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico](https://www.elcomercio.com/actualidad/mundo/tras-ano-triunfo-javier-milei-reafirma-estilo-excentrico.html "Tras un año del triunfo, Javier Milei reafirma su estilo excéntrico")
+
+Es un viernes a mediodía en el **Paso Internacional Los Libertadores**, en pleno corazón de Los Andes, y ya hay varios autos con **matrícula argentina** haciendo fila para ser revisados por personal de la Aduana chilena.
+
+“Esta fila no es nada para lo que vendrá por la noche. Vamos a **reforzar turnos** porque el lunes es festivo en Argentina. Esperamos un **gran flujo de autos y buses llenos de turistas**“, cuenta un funcionario chileno que prefiere no identificarse.
+
+Melisa Bosa, de Córdoba, aguarda en uno de esos autos con varias maletas vacías en el maletero. Dice que quiere comprar **“muchas cosas para la casa”** porque “hay una diferencia de precios de hasta el 50 % en los electrodomésticos”.
+
+“Una freidora de aire en Argentina está en 200 dólares y en **Chile en 80**“, describe.
+
+En el auto que está delante, Ariana Bruno, de Mendoza, sostiene que es “casi imposible comprar ropa de calidad y de marca en Argentina”. La joven cuenta que **en verano viajará a Brasil,** “porque es mucho más barato vacacionar en el extranjero” que en su país, prosigue.
+
+A pesar de ello tiene confianza en el futuro: “Tengo esperanza de que con **Milei las cosas cambien”**, confiesa.
+
+¿Un boom transitorio?
+---------------------
+
+En lo que va de año, **más de 1,3 millones de argentinos** visitaron Chile, lo que supone un aumento del 54,8 % con respecto al mismo periodo de 2023, según datos de la Subsecretaría de Turismo de Chile.
+
+Gran parte de los turistas entran por el **paso de Los Libertadores**, que conecta Mendoza con las ciudades chilenas de **Santiago y Valparaíso** y que solo entre julio y septiembre experimentó un aumento del 181 % en las entradas en comparación con el mismo período del año anterior, de acuerdo a datos oficiales.
+
+“Estamos viviendo un **boom, pero esto es algo transitorio** que ya vimos en 2016. Es difícil predecir cuánto tiempo durará. Ahora viene la Navidad, una de la épocas más importantes para el ‘retail'”, apunta **Bernardita Silva**, gerente de estudios de la Cámara Nacional de Comercio Servicios y Turismo de Chile.
+
+La inflación en Argentina alcanzó el 211,4 % el año pasado, tras registrar solo en diciembre un **aumento intermensual del 25,5 %**, según el Instituto Nacional de Estadística y Censos (INDEC).
+
+“Contrabando hormiga”
+---------------------
+
+Desde la llegada al poder de Javier Milei y la aplicación de su **doctrina del shock,** la inflación se ha ido desacelerando -en octubre registró un crecimiento intermensual del 2,7 % (el más bajo desde noviembre de 2021) y un acumulado del 107 % en los diez primeros meses del año-, pero las diferencias de precios en relación con Chile siguen siendo muy alta.
+
+“Los argentinos pueden encontrar **descuentos de hasta un 70 %** con respecto a lo que valen allá las cosas, pero insisto en que esto es algo transitorio y que hay temporadas en la que a los chilenos nos conviene más ir a comprar a Argentina”, agrega Silva.
+
+Los comercios chilenos se frotan las manos, pero los argentinos están empezando a hartarse. La **Federación Económica de Mendoza** (FEM) pidió recientemente a la **Administración de Milei** establecer más controles en la frontera para **frenar la “competencia desleal”** que genera el llamado “contrabando hormiga”.
+
+“Los ‘tours de compras’ no solo se destinan al consumo personal. También dan lugar al ‘**contrabando hormiga’,** mediante el cual **productos adquiridos en Chile** son introducidos al país de forma irregular para luego ser comercializados en ferias y redes sociales”, se queja la organización gremial en la red social X. 
+
+“Nos gustan las marcas”
+-----------------------
+
+Yolanda Elsa, Gabriela Spretz y Rita Isaac son **tres jubiladas** de la provincia argentina de **Entre Ríos.** Las mujeres tomaron un descanso, sentadas en la cafetería de un conocido ‘outlet’ de ropa de marca situado a las afueras de Santiago, para enseñarse unas a otras sus adquisiciones.
+
+Spretz compró **tres pares zapatillas** “que **costaron lo que valdría uno solo” en Argentina.** “No es un secreto que a los argentinos nos gustan las marcas”, confiesa.
+
+“Los precios están muy altos, pero al menos **la inflación está controlada.** Ahora por lo menos sabemos cuánto van a costar las cosas. Antes **te acostabas sin saber si el sueldo** iba a alcanzarte al día siguiente”, replica Isaac.
+
+Mailen Antonés, de Buenos Aires, sale del mismo establecimiento con una **enorme maleta llena**, sobre todo, de ropa de bebé **(su hermana está embarazada)** y de cosméticos: “Hay que tener dos o tres trabajos para comprar marcas que te gusten”, reconoce.
+
+Otro que sale con una valija repleta de ropa es Marcos Varela, un argentino que viajó hasta Santiago para celebrar el aniversario con su esposa y hacer algunas compras.
+
+“Este aumento de precios era inevitable. Son **muchos años de que se robaran todo en la Argentina** y ahora hay que pagar las consecuencias”, reflexiona. 
+
+Cortes de luz en Quito se mantienen en cinco horas hasta el domingo 8 de diciembre
+==================================================================================
+
+El Ministerio informó que los cortes de luz se reducirán a tres horas en la semana del 9 al 15 de diciembre de 2024 a escala nacional.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se mantienen en cinco horas hasta el 8 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T123838.211.jpg)
+
+La Empresa Eléctrica Quito publicó la programación **de cortes de luz** para jueves 5, viernes 6, sábado 7 y domingo 8 de diciembre. Solamente el viernes 6 de diciembre, hay variación.
+
+### Más noticias
+
+* [¿Cuántos feriados quedan tras las fiestas de Quito?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-quedan-tras-fiestas-quito.html "¿Cuántos feriados quedan tras las fiestas de Quito?")
+* [¿Quién fundó Quito?](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-fiestas-sebastian-benalcazar.html "¿Quién fundó Quito? ")
+* [Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-partido-futbol-sabado-7-de-diciembre.html "Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre")
+
+Cortes de luz en Quito
+----------------------
+
+Los cortes de luz en Quito en lo que queda de la semana tendrán variación solamente el viernes 6 de diciembre por las fiestas.
+
+### Jueves 5, sábado 7, domingo 8 de diciembre
+
+Los cortes de luz en Quito se mantienen en cinco horas para los **sectores residenciales** y de siete para el **sector industrial** durante esta semana, a excepción del viernes 6 de diciembre.
+
+La suspensión del servicio eléctrico en las viviendas se realizará en **dos franjas**, de dos y de tres horas el **jueves 5, sábado 7 y domingo 8 de diciembre.**
 
 Mientras que en los sectores industriales los apagones serán de **17:00 a 24:00**.
 
-Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito:
+La capital tuvo días con apagones de hasta 14 horas; la **reducción paulatina** se debe a la mejora en los caudales de los ríos en la Amazonía y del Austro; así como a la venta de energía desde **Colombia** y otros proyectos de estabilización energética.
 
-### De 00:00 a 03:00 y de 14:00 a 16:00
+### Viernes 6 de diciembre
 
-* Miraflores
-* El Bosque
-* Andalucía
-* Conocoto
-* Cumbayá
-* Eugenio Espejo
+El **viernes 6 de diciembre,** solamente **cinco sectores residenciales** tendrán cortes de luz. El resto de Quito no tendrá racionamientos de energía eléctrica, por sus fiestas.
 
-### De 06:00 a 18:00 y de 16:00 a 19:00
+En cambio, el **sector industrial** mantiene el racionamiento de siete horas este día.
 
-* Luluncoto
-* La Floresta
-* Eplicachima
-* Nueva Cumbayá
+Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito para **jueves 5, viernes 6, sábado 7 y domingo 8 de diciembre:**
 
-### Desde 09:00 a 12:00 y de 22:00 a 24:00
+Ministerio redujo los cortes de luz a tres horas
+------------------------------------------------
 
-* La Carolina
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-### De 08:00 a 11:00 y de 20:00 a 22:00
-
-* Chimbacalle
-* Belisario Quevedo
-* Iñaquito
-
-### De 12:00 a 15:00 y de 22:00 a 24:00
-
-* Chilibulo
-* Granda Centeno
-* Río Coca
-
-### Desde 03:00 a 06:00 y de 18:00 a 20:00
-
-* Gualo
-* Sangolquí
-
-### De 10:00 a 13:00 y de 20:00 a 22:00
-
-* Barrionuevo
-* Santa Rosa
-* El Quinche
-
-### Desde 06:00 a 08:00 y de 16:00 a 19:00
-
-* Olímpico
-* Cristianía
-* San Antonio
-* Alangasí
-
-### De 11:00 a 14:00 y de 19:00 a 21:00
-
-* San Rafael
-* Tumbaco
-* Pomasqui
-
-### De 13:00 a 16:00 y de 21:00 a 23:00
-
-* San Roque
-* Río Coca
-* Cotocollao
-* Conocoto
-* Santa Rosa
-* Inga Bajo
-
-### De 00:00 a 02:00 y de 18:00 a 21:00
-
-* Olímpico
-* Escuela Sucre
-* La Marín
-* Diez Vieja
-* San Pablo
-* Iñaquito
-* Tababela
-* Diez Nueva
-* Los Bancos
-* Pomasqui
-
-### De 08:00 a 10:00 y de 15:00 a 18:00
-
-* Miraflores
-* Granda Centeno
-* Andalucía
-* Cristianía
-* Cotocollao
-* Eplicachima
-* Conocoto
-* Carolina
-* San Rafael
-* Eugenio Espejo
-* Batán Alto
-
-Te compartimos el **cronograma completo** de cortes de luz por sectores en Quito para este jueves:
-
-Reducción de cortes de luz para la semana del 9 de diciembre
-------------------------------------------------------------
-
-Mientras tanto, este viernes 6 de diciembre, la **mayor parte de la capital** tendrá el servicio de energía eléctrica por las fiestas de fundación.
-
-Sin embargo, en **algunos sectores** que son parte de las **parroquias rurales** de la capital sí existirán cortes de luz en esas fechas.
-
-El **fin de semana** volverán los cortes de luz regulares de hasta cinco horas para el sector residencial en la capital.
-
-El **Ministerio de Energía y Minas** anunció la reducción de **cortes de luz** para la **semana** del **9 de diciembre** de 2024.
-
-A través de un comunicado, el Ministerio de Energía anunció los **cambios en la programación** para la próxima semana.
-
-Brasil veta las importaciones de camarones de Ecuador ¿Cuál es el motivo?
-=========================================================================
-
-Los ministerios de Agricultura y Pesca de Brasil argumentaron la decisión sobre el veto a las importaciones de camarones de Ecuador.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Brasil tomó la decisión sobre los camarones de Ecuador este miércoles.](https://www.elcomercio.com/wp-content/uploads/2024/12/brasil-camarones-ecuador.jpg)
-
-El Gobierno de **Brasil** anunció el fin de las **importaciones** de **camarones de Ecuador,** este miércoles 4 de diciembre de 2024.
-
-**Brasil** aplicará la medida desde el próximo lunes 9 de diciembre.
-
-### Más noticias:
-
-* [Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/brasil-teme-impactos-industria-posible-proteccionismo-donald-trump.html "Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump")
-* [Reconocimiento para proyectos de inteligencia artificial ecuatorianos](https://www.elcomercio.com/opinion/reconocimiento-inteligencia-artificial-ecuatorianos-marco-benalcazar-columnista.html "Reconocimiento para proyectos de inteligencia artificial ecuatorianos")
-
-Motivo para que Brasil vete las importaciones de camarones de Ecuador
----------------------------------------------------------------------
-
-A partir del próximo 9 de diciembre, **Brasil** decidió vetar las importaciones de camarones de **Ecuador**.
-
-Brasil alegó **“irregularidades” sanitarias** y como medida de protección a los productores locales.
-
-La decisión fue tomada por los **ministerios de Agricultura y de Pesca** después de realizar una auditoría al servicio veterinario ecuatoriano que detectó “irregularidades” y el incumplimiento de requisitos sanitarios exigidos por Brasil, según un comunicado conjunto de ambas carteras.
-
-Esa inspección se llevó a cabo después de que los ministros de Agricultura, **Carlos Fávaro**, y de Pesca, **André de Paula**, se comprometieran ante representantes del sector pesquero brasileño a “adoptar medidas estratégicas para **proteger la cadena de producción acuícola**” nacional.
-
-El **secretario de Defensa Agropecuaria, Carlos Goulart**, afirmó que Brasil mantiene rigurosos estándares de defensa agrícola para garantizar alimentos seguros y defendió la aplicación de las mismas normas para las importaciones.
-
-“Si estamos sometidos a **exigencias extremadamente altas** para las exportaciones, debemos adoptar el mismo rigor para las importaciones”, afirmó el secretario, citado en el comunicado.
-
-**Ecuador es el primer exportador mundial de camarón** y representa más del **40 % de las importaciones brasileñas de camarón congelado en 2024**, según el comunicado.
-
-Según datos del **Ministerio de Industria y Comercio Exterior**, la importación de camarones ha experimentado un crecimiento importante en el último año.
-
-Brasil importó **5,9 millones de dólares en camarones ecuatorianos en 2023**.
-
-Este año ya ha destinado **7,2 millones de dólares a esas compras**, lo que supone un 21,8 % más que todo el año pasado.
-
-La **producción brasileña de camarón en 2023 fue de 127 400 toneladas**, con crecimiento constante del valor de la producción desde el inicio de la serie histórica en 2019.
-
-Barcelona SC lideró la Liga Pro 2024 en multas
-==============================================
-
-Barcelona sí quedó primero en la Liga Pro, pero en el apartado de multas y sanciones, y con una amplia ventaja sobre el segundo.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Barcelona SC fue el equipo más multado de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-04T215755.272.jpg)
-
-El 2024 fue un **año para el olvido en lo deportivo para Barcelona SC**. El club aspiraba a pelear la Liga Pro y los torneos internacionales, pero no logró ninguno de estos objetivos. Incluso, atravesaron una temporada marcada por la inestabilidad técnica, con tres entrenadores diferentes.
-
-Uno de los **mayores fracasos del ‘Ídolo del Astillero’** fue en los certámenes internacionales. En la Copa Libertadores quedaron eliminados en la fase de grupos, y al clasificar como terceros, accedieron a la Copa Sudamericana. Sin embargo, allí también firmaron un papelón al quedar eliminados en los play-offs.
-
-### Más noticias:
-
-* [Hernán Galíndez niega contactos con Barcelona SC](https://www.elcomercio.com/deportes/hernan-galindez-barcelona-sc-huracan.html "Hernán Galíndez niega contactos con Barcelona SC")
-* [Segundo Alejandro Castillo, ratificado en Barcelona SC](https://www.elcomercio.com/deportes/segundo-castillo-ratificado-barcelona-sc.html "Segundo Alejandro Castillo, ratificado en Barcelona SC")
-* [Javier Burrai se tomará un descanso de Barcelona SC](https://www.elcomercio.com/deportes/futbol/javier-burrai-barcelona-sporting-club-contrato.html "Javier Burrai se tomará un descanso de Barcelona SC")
-
-En la **Liga Pro,** el panorama no fue mejor. **Barcelona SC** no pudo competir por la primera ni la segunda etapa, siendo superado ampliamente por **Liga de Quito** e Independiente del Valle. A pesar de ello, lograron terminar terceros en la tabla acumulada, lo que les aseguró un cupo en la fase previa de la Copa Libertadores 2025.
-
-Barcelona SC, el líder de las multas
-------------------------------------
-
-El único liderato que alcanzó **Barcelona SC** en 2024 no fue en lo deportivo, sino en un aspecto negativo: el equipo fue el más multado de la Liga Pro.
-
-Según datos publicados por Juan Carlos Padilla en su cuenta de X (antes Twitter), los toreros acumularon un total de **USD 233 620** en sanciones a lo largo del torneo. Esta cifra casi duplica al segundo equipo en la lista de multas.
-
-El incidente más costoso para el club ocurrió durante el **Clásico del Astillero** contra Emelec, en el Estadio Monumental Isidro Romero Carbo, donde Barcelona SC recibió una multa de **USD 80 300** por diversos incidentes.
-
-Top 3 de multas
----------------
-
-**Liga de Quito** ocupa el segundo lugar con USD 122 280 en multas, mientras se prepara para disputar la final de la Liga Pro contra Independiente del Valle.
-
-Por su parte, **Emelec** cierra el podio con un total de USD 113 080 en sanciones.
-
-Los menos sancionados
----------------------
-
-Por otro lado, los equipos más disciplinados, es decir, los que recibieron menos sanciones, son tres: **Cumbayá**, con apenas USD 3 890 en multas, seguido por Orense, que acumuló USD 7 160, y Macará, con USD 7 890.
-
-Daniel Noboa se pronunció sobre proyecto de Ley de Lactancia Materna
-====================================================================
-
-El proyecto de Ley de Lactancia Materna fue aprobado por la Asamblea y ahora el presidente Daniel Noboa lo sancionó.
---------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa se pronuncia sobre el proyecto de Ley de Lactancia Materna, luego de la aprobación de la Asamblea.](https://www.elcomercio.com/wp-content/uploads/2024/12/daniel-noboa-ley-lactancia-materna.jpg)
-
-El presidente **Daniel Noboa** se pronunció sobre el proyecto de **Ley de Lactancia Materna**, este miércoles 4 de diciembre de 2024.
-
-La **Asamblea** aprobó este cuerpo legal en medio de un debate sobre la **prohibición de la comercialización de sucedáneos.**
-
-### Más noticias:
-
-* [Ley que regula la venta de sustitutos de leche materna ¿es realmente viable?](https://www.elcomercio.com/actualidad/ecuador/ley-limita-venta-sustitutos-leche-materna-es-viable.html "Ley que regula la venta de sustitutos de leche materna ¿es realmente viable?")
-* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
-
-Pronunciamiento del Gobierno de Daniel Noboa sobre el proyecto de Ley de Lactancia Materna
-------------------------------------------------------------------------------------------
-
-El Pleno de la Asamblea Nacional aprobó la **Ley Orgánica de Fomento, Apoyo y Protección a la Lactancia Materna**.
-
-El documento incluía una **prohibición en el artículo 45 sobre la venta de sucedáneos de leche materna**.
-
-Los asambleístas dijeron que esta era una forma de proteger la **lactancia materna**, reconocida como el mejor alimento para los recién nacidos.
-
-Por esta razón, la Asamblea aprobó prohibir la comercialización de **fórmulas infantiles** sin receta médica.
-
-Esta noche, el Gobierno de **Daniel Noboa** **objetó totalmente** la propuesta del Legislativo.
-
-“Si bien la iniciativa reconoce la importancia de promover y proteger la lactancia materna, se han identificado **inconsistencias y contradiccione**s en el texto”, señaló el Gobierno, en un comunicado.
-
-Esto afecta a la coherencia interna del proyecto, su relación con el marco jurídico ecuatoriano y el alineamiento con las **recomendaciones internacionales**, añadió.
-
-“L**a lactancia materna** es un **derecho** que debe ser garantizado e impulsado; sin embargo, prohibir la libre comercialización de sucedáneos no es la solución, ya que se crea un **obstáculo que pone en riesgo la salud y alimentación de nuestros infantes**“, concluyó la Presidencia.
-
-### Argumentos de la Secretaría Técnica Ecuador Crece Sin Desnutrición Infantil
-
-La Secretaría Técnica Ecuador Crece Sin Desnutrición Infantil advirtió que “el impulso a la lactancia materna y según las mejores prácticas a nivel internacional, no contempla prohibiciones que puedan generar un mercado ilegal e incluso perjudicar la salud de los lactantes”.
-
-La Secretaría agregó que el Código Internacional de Comercialización de Sucedáneos de la Leche Materna no establece la prohibición de venta libre de sucedáneos.
-
-Por el contrario, reconoce que existe un mercado legítimo de preparaciones para lactantes.
-
-“Mantener una prohibición de venta libre al público de sucedáneos de leche materna limita la capacidad de tomar decisiones informadas y perjudica a las familias más vulnerables del Ecuador”, finalizó.
-
-Así fue la liberación de Pedro Pablo Perlaza tras su secuestro
-==============================================================
-
-Pedro Pablo Perlaza estuvo retenido contra su voluntad durante cuatro días en Atacames, Esmeraldas.
----------------------------------------------------------------------------------------------------
-
-![Pedro Pablo Perlaza estuvo secuestrada por cuatro días.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-04T203522.143.jpg)
-
-Pedro Pablo Perlaza, jugador con amplia trayectoria en el fútbol ecuatoriano, recuperó su libertad este miércoles 4 de diciembre, luego de pasar cuatro días secuestrado en el cantón Atacames, provincia de Esmeraldas.
-
-El exfutbolista de equipos como **Barcelona SC, Liga de Quito e Independiente del Valle** fue secuestrado el pasado 1 de diciembre junto a Juan Carlos Morales en el sector de Puerto Limón, según confirmó una fuente policial a _EL COMERCIO_.
-
-### Más noticias:
-
-* [Pedro Pablo Perlaza fue liberado tras su secuestro](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-fue-liberado-tras-su-secuestro.html "Pedro Pablo Perlaza fue liberado tras su secuestro")
-* [Continúa la búsqueda del futbolista Pedro Pablo Perlaza](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-detalles-secuestro.html "Continúa la búsqueda del futbolista Pedro Pablo Perlaza")
-* [Aucas se solidariza tras secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-aucas-secuestro.html "Aucas se solidariza tras secuestro de Pedro Pablo Perlaza")
-
-La **Unidad Antisecuestros y Extorsión** (UNASE) lideró un operativo que culminó con la **liberación de las víctimas**. La noticia la confirmó la Policía Nacional a través de sus redes sociales, y posteriormente en una rueda de prensa en la que se entregaron los detalles del rescate y se reunieron a las víctimas con sus familiares.
-
-Así fue la liberación de Pedro Pablo Perlaza
---------------------------------------------
-
-El coronel Diego Velasteguí, jefe de la Subzona Esmeraldas, explicó que la **operación involucró a equipos de investigación e inteligencia, coordinados por la UNASE**.
-
-“Al acudir al sector de Taseche, en el cantón Atacames, **nuestras unidades recibieron bala por los delincuentes**. A pesar de ello, logramos liberar a las víctimas sin que resultaran heridas”, señaló Velasteguí.
-
-El coronel también confirmó que los secuestradores lograron escapar tras el enfrentamiento, aunque es probable que algunos estén heridos. “Continuaremos con las investigaciones para dar con los responsables”, aseguró.
-
-Velasteguí enfatizó que se trató de un secuestro y que las víctimas presentaban signos de maltrato. Sin embargo, destacó lo fundamental: “**Lo más importante es que están con vida**”.
-
-Reencuentro con sus familias
-----------------------------
-
-Tras la rueda de prensa, **Pedro Pablo Perlaza fue entregado a sus familiares.** El reencuentro estuvo marcado por lágrimas y abrazos, reflejando el alivio de un desenlace favorable tras días de angustia.
-
-Las autoridades continuarán con las **investigaciones para esclarecer los detalles del caso** y capturar a los responsables.
-
-> Gran Noticia la lberación del Ex jugador de [@DelfinSC](https://twitter.com/DelfinSC?ref_src=twsrc%5Etfw) Pedro Pablo Perlaza, se celebra como gol al 90, sin duda [pic.twitter.com/Ls2W1TW3D7](https://t.co/Ls2W1TW3D7)
-> 
-> — Ligner Mendoza (@ligner\_mendoza) [December 5, 2024](https://twitter.com/ligner_mendoza/status/1864470211945988363?ref_src=twsrc%5Etfw)
-
-Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre
-=======================================================================================
-
-El Ministerio de Energía anunció la reducción de cortes de luz para la semana del 9 al 15 de diciembre a través de un comunicado.
----------------------------------------------------------------------------------------------------------------------------------
-
-![La reducción de los cortes de luz en Ecuador para la semana del 9 de diciembre fue anunciada por el Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-.jpg)
-
-El **Ministerio de Energía y Minas** anunció la reducción de **cortes de luz** para la **semana** del **9 de diciembre** de 2024.
-
-A través de un comunicado, el Ministerio de Energía anunció los **cambios en la programación** para la próxima semana.
-
-### Más noticias:
-
-* [Cambios en cortes de luz para Quito este jueves 5 de diciembre por fiestas de fundación](https://www.elcomercio.com/actualidad/quito/cambios-cortes-luz-quito-jueves-5-diciembre-fiestas-fundacion.html "Cambios en cortes de luz para Quito este jueves 5 de diciembre por fiestas de fundación")
-* [Manzano asegura que Ecuador terminará el año sin cortes de luz](https://www.elcomercio.com/actualidad/ecuador/manzano-asegura-que-ecuador-terminara-ano-sin-cortes-de-luz.html "Manzano asegura que Ecuador terminará el año sin cortes de luz")
-
-Reducción de cortes de luz para la semana del 9 de diciembre
-------------------------------------------------------------
-
-A **más de dos meses** con cortes de luz programados por la crisis energética que atraviesa Ecuador, el **Gobierno de Daniel Noboa** anunció una nueva reducción de cortes de luz.
-
-Los cortes de luz en **Ecuador** han sido hasta de **14 horas diarias** por la dependencia de las lluvias y la grave sequía.
-
-Días atrás, la ministra de Energía y Minas encargada, **Inés Manzano**, aseguró que Ecuador terminará el año sin cortes de energía.
-
-La noche de este miércoles, el **Ministerio de Energía y Minas** informó que los cortes programados de energía **se reducirán a tres horas diarias** a escala nacional durante la semana del 9 al 15 de diciembre de
-
-2024.
+La noche del miércoles 4 de diciembre, el **Ministerio de Energía y Minas** informó que los cortes programados de energía **se reducirán a tres horas diarias** a escala nacional. Esta reducción se aplicará **desde la semana del 9 al 15 de diciembre** de 2024.
 
 Esta disminución es posible debido a diversos factores que han potenciado el **Sistema Energético** ecuatoriano, señaló el Ministerio.
 
 Entre ellos, el mejoramiento de las **condiciones hídricas** en los ríos que abastecen a las hidroeléctricas, la transferencia de electricidad desde **Colombia** y la nueva generación termoeléctrica.
 
-La entidad se refiere a proyectos como **El Salitral** que ya cuenta con 23 motores térmicos para su funcionamiento en **Guayaquil**.
+La entidad se refiere a proyectos como **El Salitral,** que ya cuenta con 23 motores térmicos para su funcionamiento en **Guayaquil**.
 
-El Gobierno indicó que se informará, oportunamente, los nuevos horarios a través de los **canales oficiales** del Gobierno Nacional y las **empresas proveedoras** del servicio.
+El Gobierno indicó que se informará, oportunamente, los nuevos horarios a través de los **canales oficiales** del Gobierno Nacional y las **empresas proveedoras** del [servicio](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
 
-Homenaje a periodistas asesinados de EL COMERCIO fue inaugurado en la av. De los Shyris
-=======================================================================================
-
-Parte del nuevo bulevar en la av. De los Shyris rinde un homenaje a los tres periodistas de EL COMERCIO, asesinados en 2018.
-----------------------------------------------------------------------------------------------------------------------------
-
-![El bulevar cuenta con tres piletas que se levantan en honor de Javier Ortega, Efraín Segarra y Paúl Rivas, periodistas asesinados de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/12/bulevar-shyris-periodistas.jpg)
-
-El **Municipio** inauguró el bulevar ‘**Quito Ciudad de Paz**‘, ubicado en la **av. De los Shyris**, en el parque La Carolina. La obra entregada la noche de este miércoles 4 de diciembre de 2024 rinde un **homenaje** a los tres periodistas de **EL COMERCIO** asesinados en 2018.
-
-### Más noticias
-
-* [Cambios en cortes de luz para Quito este jueves 5 de diciembre por fiestas de fundación](https://www.elcomercio.com/actualidad/quito/cambios-cortes-luz-quito-jueves-5-diciembre-fiestas-fundacion.html "Cambios en cortes de luz para Quito este jueves 5 de diciembre por fiestas de fundación")
-* [Vecinos del barrio Bolaños, en Quito, buscan apoyo tras los incendios de septiembre](https://www.elcomercio.com/actualidad/quito/vecinos-barrio-bolanos-quito-apoyo-incendios-septiembre.html "Vecinos del barrio Bolaños, en Quito, buscan apoyo tras los incendios de septiembre")
-* [Cierran sectores estratégicos por seguridad en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/fiestas-quito-vallado-sectores-municipio.html "Cierran sectores estratégicos por seguridad en fiestas de Quito")
-
-El evento simbólico contó con la presencia de las autoridades de la ciudad, entre ellas, la del alcalde de Quito, **Pabel Muñoz**; familiares de los periodistas, concejales y ciudadanos.
-
-Alcalde entregó homenaje a los periodistas de EL COMERCIO asesinados
---------------------------------------------------------------------
-
-En su intervención, el Alcalde manifestó que el nuevo bulevar de la **avenida De los Shyris** tiene como objetivo **mantener la memoria activa** de dos lamentables hechos: el asesinato de los tres periodistas de EL COMERCIO y de los hermanos Restrepo.
-
-“La memoria no puede ser solo un recuerdo pasivo de los hechos, lo que sucedió con los periodistas de EL COMERCIO tiene que mantenerse presente **para que no vuelva a pasar**; nuestra **consideración y cariño** para ellos y sus familiares”, comentó Muñoz, en medio de los aplausos de reconocimiento de la gente para los profesionales.
-
-El burgomaestre explicó que parte del diseño de la obra está inspirado, justamente, en la memoria.
-
-“Tenemos **tres piletas** que rinden homenaje a cada uno de los periodistas y **reafirman la libertad de prensa en la ciudad**“, dijo Muñoz.
-
-Familiares de periodistas recibieron placas conmemorativas
-----------------------------------------------------------
-
-Previamente, el funcionario solicitó un **minuto de silencio** en conmemoración a los extrabajadores de este medio y recordó su trayectoria periodística[.](https://es.wikipedia.org/wiki/Avenida_de_los_Shyris "https://es.wikipedia.org/wiki/Avenida_de_los_Shyris")
-
-Muñoz también entregó unas placas conmemorativas a **Ricardo Rivas y Cristian Segarra**, familiares de los periodistas.
-
-“Los tres periodistas tienen una **trascendencia histórica** en Ecuador; nos invita a reflexionar cómo cambiaron las cosas desde aquel fatídico marzo de 2018″, mencionó el Alcalde.
-
-Alcalde de Quito: ‘Pedimos que los documentos del caso se desclasifiquen’
--------------------------------------------------------------------------
-
-“Cuando conversé con su familia me di cuenta de lo doloroso de este caso, comprendí que **el Estado debe dar explicaciones** por las cosas que hizo y que dejó de hacer en ese momento”, enfatizó.
-
-Finalmente, el Alcalde de Quito solicitó públicamente que la información del caso “se abra y que los documentos se desclasifiquen, como lo piden sus familiares”.
-
-“Nos sumamos para exigir que haya verdad, claridad y justicia en el asesinato de Javier, Paúl y Efraín”, sentenció Muñoz.
-
-> 🛤️ [#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) I Entrega del nuevo Bulevar de la av. de los Shyris. Con obras, [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw). [https://t.co/PVkuJu7n0j](https://t.co/PVkuJu7n0j)
+> 📍\[COMUNICADO OFICIAL\]  
+>   
+> 📌Sobre la situación actual del Sistema Energético Nacional, informamos a la ciudadanía lo siguiente⤵️ [pic.twitter.com/rprmouwTDF](https://t.co/rprmouwTDF)
 > 
-> — Municipio de Quito (@MunicipioQuito) [December 5, 2024](https://twitter.com/MunicipioQuito/status/1864465933093224752?ref_src=twsrc%5Etfw)
-
-Nuevo bulevar en la av. De los Shyris
--------------------------------------
-
-El bulevar denominado **Quito Ciudad de Paz** rinde homenaje a los tres periodistas de EL COMERCIO asesinados en la frontera norte: **Javier Ortega. Paúl Rivas y Efraín Segarra.**
-
-La obra ubica a lo largo de la av. De los Shyris, sin embargo, una estructura conmemorativa se construyó frente a las calles **Portugal y Holanda**. Los pórticos tienen una altura de seis metros de alto y un volado de la misma dimensión.
-
-Los trabajos comprenden **1 400 metros de longitud**, desde la avenida E**loy Alfaro hasta la avenida Naciones Unidas**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/bulevar-el-comercio-1024x683.jpg)
-
-El bulevar cuenta con: arbolado, **jardineras**, plataformas en la acera, accesibilidad universal, iluminación led, reconfirmación de aceras, zona canina, **equipamiento recreativo** y un nuevo mobiliario urbano
-
-Sin embargo, no es solamente la parte peatonal, también están **200 árboles** que se suman a los 600 que tiene el parque La Carolina. Además, se sembraron **50 000 plantas.**
-
-> 🎉 [#QuitoQuedaPapelito](https://twitter.com/hashtag/QuitoQuedaPapelito?src=hash&ref_src=twsrc%5Etfw) | [@pabelml](https://twitter.com/pabelml?ref_src=twsrc%5Etfw), alcalde de Quito, realizó un recorrido en el Sendero Seguro de la av. Colón y entregó el bulevar en la Shyris, estos trabajos promueven la recuperación del espacio público, el fortalecimiento de la identidad local, la recuperación ambiental y la… [pic.twitter.com/cs0zfOPA4c](https://t.co/cs0zfOPA4c)
-> 
-> — Municipio de Quito (@MunicipioQuito) [December 5, 2024](https://twitter.com/MunicipioQuito/status/1864491496348483596?ref_src=twsrc%5Etfw)
-
-En las etapas de conversación con los vecinos, habían acordado que no se levantaran muchos **árboles que impidieran la vista** y que podrían generar inseguridad. Tampoco se construyeron muchas bancas de descanso, para que no se convierta en un sustituto de la tribuna.
-
-* * *
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [December 5, 2024](https://twitter.com/RecNaturalesEC/status/1864476346291830964?ref_src=twsrc%5Etfw)
 
 ### Esperanza
 
@@ -768,217 +281,381 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Pedro Larrea, campeón de América con Liga de Quito, se retiró
-=============================================================
+Desmienten oferta de Chile por Octavio Rivero
+=============================================
 
-Pedro Larrea era uno de los últimos campeones de América con Liga de Quito que seguían en actividad.
-----------------------------------------------------------------------------------------------------
+Octavio Rivero tiene contrato con Barcelona SC hasta 2025. En Chile requieren sus servicios.
+--------------------------------------------------------------------------------------------
 
-![Imagen de archivo de Pedro Larrea en el 2015.](https://www.elcomercio.com/wp-content/uploads/2024/12/larrea_retiro_1.jpg)
+![Octavio Rivero, jugador del Barcelona SC en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/rivero_chile_1.jpg)
 
-**Pedro Larrea** era uno de los dos jugadores más destacados de la Liga de Quito campeona de la Copa Libertadores de 2008 que aún seguía en actividad, pero a sus 38 años decidió que era hora de poner fin a su carrera.
+**Octavio Rivero** fue uno de los mejores jugadores de Barcelona Sporting Club en el segundo semestre de 2024. Llegó desde Defensor Sporting con el cartel de goleador del fútbol de Uruguay.
 
-Alexander Domínguez, que vive una segunda etapa con Liga de Quito; y **Pedro Larrea, con pasado reciente en Libertad de Loja**, seguían en actividad en equipos de fútbol de la primera división de Ecuador.
+En sus seis primeros meses como jugador de Barcelona SC, Octavio Rivero **no defraudó y anotó 11 goles en los 15 partidos** de la segunda fase de la Liga Pro. Fue el segundo goleador del equipo, solo superado por Janner Corozo que llegó a 17.
 
 ### Más noticias:
 
-* [FC Barcelona recupera su poderío ante un decaído Real Madrid](https://www.elcomercio.com/deportes/futbol/barcelona-real-madrid-liga-champions.html "FC Barcelona recupera su poderío ante un decaído Real Madrid")
-* [Raphinha es el séptimo brasileño más goleador del FC Barcelona](https://www.elcomercio.com/deportes/futbol/rapinha-goles-barcelona-espana-champions.html "Raphinha es el séptimo brasileño más goleador del FC Barcelona")
-* [El fútbol inglés navega en medio de cinco polémicas](https://www.elcomercio.com/deportes/futbol/inglaterra-campana-hosexualidad-religion-polemica.html "El fútbol inglés navega en medio de cinco polémicas")
+* [Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-golean-se-afianzan-como-sublideres-de-la-premier.html "Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier")
+* [Kylian Mbappé vuelve a fallar un penal y el Real Madrid se derrumba](https://www.elcomercio.com/deportes/futbol/kylian-mbappe-vuelve-fallar-un-penal-y-el-real-madrid-se-derrumba.html "Kylian Mbappé vuelve a fallar un penal y el Real Madrid se derrumba")
+* [Nayely Bolaños se despidió de Dragonas y jugará en México](https://www.elcomercio.com/deportes/futbol/nayely-bolanos-pumas-unam-mexico.html "Nayely Bolaños se despidió de Dragonas y jugará en México")
 
-Domínguez no sumó un solo minuto y estuvo a la sombra de José Francisco Cevallos, el gran héroe de la definición de penales en el Maracaná, y Daniel Viteri, el suplente.
+Octavio Rivero tiene contrato con BSC
+-------------------------------------
 
-El resto de campeones de América están retirados o juegan en equipos amateurs, **como es el caso de Claudio Bieler**, recientemente incorporado al Club Huracán de Vera de su natal Argentina.
+El buen momento de Rivero hizo ilusionar a los hinchas de Barcelona con ser protagonistas en la Liga Pro, pero sus anotaciones solo alcanzaron para asegurar el **tercer puesto en la tabla de posiciones acumulada** y un puesto a la fase dos de la Copa Libertadores 2025.
 
-Larrea se retiró en **Libertad en la fecha 15 de la segunda etapa de la Liga Pro**. Lo hizo en la victoria 2-1 ante Emelec con lo que los lojanos salvaron la categoría, aunque el mediocampista vio todo el partido desde las banca de suplentes.
+Con la camiseta amarilla el uruguayo le anotó a Macará (2), Cumbayá (2), Imbabura (1), **Independiente del Valle (1), Orense (1), Universidad Católica (1)**, Delfín (1), Técnico Universitario (1) y Mushuc Runa (1).
 
-En la jornada 14 en el empate 1-1 ante el Deportivo Cuenca en el Alejandro Serrano Aguilar, jugó un solo minuto por disposición del entrenador Juan Carlos León, que se convirtieron en los últimos como jugador activo.
+Desde Chile aseguran que Rivero es la prioridad de la Universidad de Chile. Según el portal web de RedGol ya se envió la “primera propuesta formal” para contar con los servicios del artillero.
 
-Por su trayectoria, títulos nacionales e internacionales, **fue objeto de un homenaje de parte de sus compañeros**, directivos e hinchas que llegaron al estadio Reina del Cisne, con lo que puso fin a una trayectoria de 20 años.
+“La U ya envió una primera oferta para que se transforme en jugador de la U a las órdenes de Gustavo Álvarez. Supuestamente, tenía una cláusula de un millón, **pero en la U dicen que no tiene cláusula**, y que el jugador está ansioso de que se pueda dar, le gusta mucha la opción”, relataron.
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/larrrea_retiro_2-1024x683.jpg)
+El jugador ya tiene pasado en Chile. O’Higgins, Colo-Colo, Unión La Calera y Unión Española son los equipos que ya defendió el ariete, en los que anotó 45 goles y dejó una buena imagen en todas estas instituciones.
 
-Foto: API.
+“Depende de la negociación con el Barcelona, que es el dueño. Me dicen, por un lado, **que el jugador tiene la intención, por otro lado**, la U ya acercó una primera oferta y el representante intenta destrabar para que sea refuerzo de la U”, detallaron.
 
-La época dorada de Pedro Larrea
--------------------------------
+Sin embargo, Antonio Álvarez, presidente de Barcelona SC, utilizó su cuenta de X para desmentir esta información. “**Más falso que patada de culebra**“, dijo citando a una periodista ecuatoriano que se hizo eco desde lo publicado del sur del continente.
 
-Pedro Sebastián Larrea Arellano **nació en Loja el 21 de mayo de 1986**. En el 2003 debutó en el primer equipo de Liga de Quito en un encuentro ante Barcelona SC en el estadio Monumental de Guayaquil.
+Mientras tanto, Rivero se encuentra de vacaciones y publicó fotografías que se encuentra de vacaciones en Canadá.
 
-Se mantuvo en Liga hasta 2009 y en ese lapso formó parte de los planteles que se coronaron campeones nacionales en 2003, 2005 y 2007 y de la **Copa Libertadores 2008, Copa Sudamericana 2009 y Recopa Sudamericana** del mismo año.
+San viernes
+-----------
 
-En ese 2008, según Transfermarkt, sumó minutos en la fase de grupos en la victoria 0-1 ante Arsenal en Argentina (17′), **derrota 3-1 ante Libertad en Paraguay (57′)** y derrota 1-0 contra Fluminense en Brasil (71′).
+¿Cómo se juega 40? El popular juego de Fiestas de Quito
+=======================================================
 
-Luego observó todos los partidos desde fuera de la cancha, pero tiene el honor de tener en su palmarés este título, el único alcanzado por un equipo ecuatoriano en el torneo de clubes más importante de Sudamérica.
+El Mundial de 40 es una tradición de las Fiesta de Quito. Se juega desde 1969 ininterrumpida.
+---------------------------------------------------------------------------------------------
 
-Ese mismo año jugó un minuto en la **victoria 0-2 ante Pachuca en las semifinales del Mundial de Clubes** en Japón; y ocho en la final ante el Mancheter United. Fue victoria de los ingleses por 1-0 con un tanto de Wayne Rooney.
+![Imagen referencial de un juego de 40 en las Fistas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/cuarenta_1.jpg)
 
-Su único gol con los albos lo marcó en abril de 2009 a Emelec en el George Capwell. Fue triunfo para los capitalinos por 1-0.
+El 40 es uno de los **juegos más tradicionales de las Fiestas de Quito**. Para jugarlo hay que tener una buena memoria, buen sentido del humor y estar dispuesto a pasar un grato momento con amigos o compañeros de trabajo.
 
-Tras su salida de LDU, jugó en Macará, Barcelona, Liga de Loja, El Nacional, Deportivo Cuenca y Libertad.
+Desde 1969 la Asociación de Periodistas Deportivos de Pichincha (APDP) **se encarga de organizar el Campeonato Mundial de 40**. Este evento se ha convertido en uno de los más esperados y por sus mesas han pasado, entre otras personalidades, alcaldes y reinas de la capital ecuatoriana.
 
-En la **Selección de Ecuador alcanzó a jugar un amistoso en 2016**. Disputó 30 minutos en la derrota 1-0 ante Estados Unidos. Gustavo Quinteros era el entrenador.
+### Más noticias:
 
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/larrea_retiro_3-1024x683.jpg)
+* [Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram](https://www.elcomercio.com/deportes/futbol/liga-de-portoviejo-denuncia-intento-de-secuestro-contra-dalo-bucaram.html "Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram")
+* [Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-potencia-talento.html "Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea")
+* [Liga de Quito está invicto en finales de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-invicto-en-finales-de-liga-pro.html "Liga de Quito está invicto en finales de Liga Pro")
+
+¿Cómo jugar 40?
+---------------
+
+Las reglas básicas dictaminan que para iniciar una partida de **40 se necesita conformar dos equipos con dos personas cada uno**, un juego de naipes que es dividido en dos grupos separando las cartas con el número ocho, nueve y 10 que son los puntos o también llamados ‘perros’, y acumular 40 puntos para ganar.
+
+El 40 no solo se juega con la mente, los ojos y las manos, sino que **también se lo hace con la boca y con los famosos dichos** y frases que acompañan a cada movimiento de los jugadores que buscan sacar ventaja ante sus contrincantes.
+
+Dos por ‘shunsho’, la foto, dos juecito, marido tiene, zapatero, 38 que no juega, José me llamo, dos por guapo, conforman el vocabulario del 40 que es jugado por niños, adolescentes y adultos en cualquier punto de la ciudad.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/cuarenta_2-1024x683.jpg)
+
+Foto: Archivo histórico EL COMERCIO.
+
+13 reglas para jugar 40
+-----------------------
+
+1\. Dos parejas de jugadores, **más un juez que sea imparcial** y esté atento en todo momento al juego.
+
+2\. Los compañeros se ubican de forma alternada en la mesa.
+
+3\. Los 40 naipes están divididos del AS al 7 más las **‘viejas’ que son la J, Q y K**. Los ‘perros’ o puntos son el ocho, nueve y 10.
+
+4\. Para determinar quién reparte se pone en la mesa el mazo de 40 cartas y cada jugador saca una. La más alta es la que empieza barajando.
+
+5\. Previamente al reparto, un jugador del equipo que sacó la carta más alta, **entrega las cartas a su oponente de la izquierda** para que las ‘parta’, y luego las reparte por la derecha. Se entregan cinco.
+
+6\. La caída hace referencia a cuando uno de los jugadores tiene la misma carta en número o figura que la que lanzo su oponente. “Dos señor juez” o “dos por shunsho” se escucha en ese momento.
+
+7\. La limpia es cuando un jugador levanta todas las cartas que están sobre la mesa, por ejemplo, si tiene en su mano un siete y **sobre la mesa está un AS y un seis, suma y se las lleva** y la mesa queda vacía.
+
+8\. Caída y limpia es cuando uno de los jugadores con una carta similar en número y figura levanta todas las que están sobre la mesa**, es decir, si uno de los jugadores lanzó un AS** y el siguiente tiene la misma, le cae y si en la mesa está el dos, tres y cuatro, por poner un ejemplo, se lleva todas.
+
+9\. La ronda es cuando uno de los cuatro jugadores recibe tres cartas con el mismo número o figura.
+
+10\. El 38 que no juega es cuando uno de los equipos llega a esa cantidad de puntos. Para ganar tiene que hacer una caída.
+
+11\. Por todos estos movimientos se entregan dos puntos a quien los ejecute.
+
+12\. El conteo de puntos se hace del uno al 19. A partir de este número se cuenta, por ejemplo, seis, siete y ocho, **que son los puntos que sumarán los ‘perros’** que se acumulan durante el juego.
+
+13\. La pareja ganadora se puede dar un abrazo, tomarse un canelazo y brindar por Quito, la capital de la República del Ecuador.
+
+![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/cuarenta_3-1024x683.jpg)
 
 Foto: Archivo histórico EL COMERCIO.
 
 San viernes
 -----------
 
-Pedro Pablo Perlaza fue liberado tras su secuestro
-==================================================
+Moisés Caicedo compite por el Gol del Mes en el Chelsea
+=======================================================
 
-¡Una alegría! Pedro Pablo Perlaza, destacado jugador del fútbol ecuatoriano, fue liberado.
-------------------------------------------------------------------------------------------
+Moisés Caicedo anotó un tanto clave que compite por el Gol del Mes de noviembre en el Chelsea. ¿Dónde votar?
+------------------------------------------------------------------------------------------------------------
 
-![Pedro Pablo Perlaza, jugador del Delfín de Manta en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/perlaza_1.jpg)
+![El ecuatoriano Moisés Caicedo compite por el Gol del Mes en el Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/12/moies-caicedo.jpg)
 
-Pedro Pablo Perlaza, experimentado lateral derecho, quien ha jugado en clubes como Liga de Quito, Barcelona SC e Independiente del Valle, fue liberado este miércoles 4 de diciembre después de haber sido secuestrado.
+**Moisés Caicedo**, mediocampista ecuatoriano de 23 años, continúa destacando en el Chelsea. Incluso su único gol de la temporada compite por el Gol del Mes.
 
-La desaparición de **Perlaza** ocurrió la tarde del domingo 1 de diciembre en la ciudad de Esmeraldas. Fuentes de la Policía Naciona**l confirmaron a EL COMERCIO que lo secuestraron en el sector de Puerto Limón**, junto con Juan Carlos Morales, otra víctima del mismo hecho.
+El jugador del **Chelsea** anotó un gol clave en la **Premier League** que compite por el mejor gol de noviembre en su club.
 
 ### Más noticias:
 
-* [Liga de Quito se solidariza con la familia de Pedro Pablo Perlaza tras su secuestro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-solidariza-familia-pedro-pablo-perlaza-secuestro.html "Liga de Quito se solidariza con la familia de Pedro Pablo Perlaza tras su secuestro")
-* [Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlza-secuestro-trayectoria.html "Pedro Pablo Perlaza, un jugador con cuatro títulos nacionales")
-* [Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-futbolista-secuestro.html "Pedro Pablo Perlaza, futbolista de Delfín, víctima de secuestro en Esmeraldas")
+* [Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-apunta-a-cerrar-el-ano-zona-champions-league.html "Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions")
+* [Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-golean-se-afianzan-como-sublideres-de-la-premier.html "Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier")
+* [Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-potencia-talento.html "Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea")
 
-Un motorizado apuntó con un arma de fuego a **Pablo Perlaza**, quien tres hombres capturaron y obligaron a subir a un automóvil con vidrios polarizados.
+Moisés Caicedo y un gol clave
+-----------------------------
 
-Liberación de Pedro Perlaza
----------------------------
+El pasado 3 de noviembre, **Moisés Caicedo** se convirtió en la figura del **Chelsea** al marcar el gol del empate en el partido contra el **Manchester United**, un 1-1 que resultó fundamental para que el equipo londinense se mantuviera entre los puestos de clasificación a la **Champions League.**
 
-La **Unidad de Antisecuestros** de la Policía activó de inmediato su protocolo y comenzó la búsqueda del futbolista.
+Su actuación no pasó desapercibida, y es uno de los nominados para el **Gol del Mes** de noviembre, reconocimiento que se otorga al mejor gol entre todos los anotados por los jugadores del **Chelsea.**
 
-A través de sus redes sociales, la Policía Nacional confirmó que liberaron al ecuatoriano de 33 años, quien hasta hace pocas semanas era jugador del Delfín de Manta.
+Para votar por el ecuatoriano hay que ingresar a la página del Chelsea [aquí.](https://www.chelseafc.com/en/news/article/vote-for-chelseas-november-goal-of-the-month-2024)
 
-“Mediante las unidades especializadas, **liberó a los ciudadanos Pedro P. y Juan M. en Esmeraldas**, quienes estaban desaparecidos involuntariamente desde el 01 de diciembre del 2024″, expresa el comunicado.
-
-Asimismo, se informó que los dos ciudadanos serán entregados a sus familiares a las 19h45 en el comando de Esmeralda
-
-> [#INFORMAMOS](https://twitter.com/hashtag/INFORMAMOS?src=hash&ref_src=twsrc%5Etfw) ||[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) mediante sus unidades especializadas, liberó a los ciudadanos Pedro P. y Juan M. en [#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw), quienes se encontraban desaparecidos involuntariamente desde el 03 de diciembre del 2024 y serán entregados a sus familiares a las 19h45 en el comando… [pic.twitter.com/4mRRNY8MFu](https://t.co/4mRRNY8MFu)
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDM-YefxMyP/?utm_source=ig_embed&utm_campaign=loading)
 > 
-> — Policía Ecuador (@PoliciaEcuador) [December 5, 2024](https://twitter.com/PoliciaEcuador/status/1864467452765090155?ref_src=twsrc%5Etfw)
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDM-YefxMyP/?utm_source=ig_embed&utm_campaign=loading)
 
-Pedro Pablo Perlaza y su trayectoria en el fútbol ecuatoriano
--------------------------------------------------------------
+**Nombrado entre los mejores de la Premier League**
+---------------------------------------------------
 
-El lateral derecho **Pedro Pablo Perlaza tiene un legado significativo en el balompié ecuatoriano.** A lo largo de su carrera, el jugador defendió los colores de 13 clubes distintos y se destacó tanto a nivel de clubes como en la selección nacional, donde Gustavo Alfaro lo convocó.
+Caicedo también fue incluido entre los nominados para el galardón de Mejor Jugador del Mes en la Premier League. Este premio es otorgado al futbolista que más se destacó durante el mes de noviembre y, en esta ocasión, el ecuatoriano compite con estrellas de la talla de Mohamed Salah (Liverpool) y James Madison (Tottenham). La votación está abierta a los aficionados, quienes podrán elegir al vencedor.
 
-Entre sus logros más destacados**, Perlaza conquistó cuatro títulos** con tres equipos diferentes. Sus títulos fueron la Liga Pro 2019 con Delfín, la Supercopa Ecuador 2020 y 2021 con Liga de Quito, y la Liga Pro 2022 con Aucas.
+**Un mes de logros personales y profesionales**
+-----------------------------------------------
 
-Además de estos clubes, **Perlaza jugó en Independiente del Valle, Barcelona SC** y Macará (cuando el equipo aún militaba en Serie B). También tuvo pasos por equipos de ascenso como Liga de Portoviejo, Colón, Deportivo Quevedo, Esmeraldas Petrolero, Rocafuerte, América y Juventus.
+Este noviembre fue aún más especial para Caicedo, quien celebró el nacimiento de su hija, consolidando una etapa feliz en su vida personal. En el ámbito deportivo, su aporte al Chelsea fue clave: jugó en cinco de los seis partidos de la Premier League y anotó su primer gol de la temporada. Además, con la selección ecuatoriana, contribuyó a una histórica victoria contra Colombia en las eliminatorias rumbo al Mundial 2026.
 
-Choque múltiple caotiza la Autopista General Rumiñahui este miércoles 4 de diciembre
-====================================================================================
+Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito
+===============================================================================
 
-El fuerte siniestro de tránsito registrado en la Autopista General Rumiñahui esta tarde dejó tres personas heridas.
--------------------------------------------------------------------------------------------------------------------
+Fiscalía detalla los hechos en los que resultó afectado un niño con autismo.
+----------------------------------------------------------------------------
 
-![Cuatro vehículos colisionaron en el siniestro de tránsito registrado este miércoles](https://www.elcomercio.com/wp-content/uploads/2024/12/quito-choque-autopista-general-ruminahui.jpg)
+![Imagen referencial de niño agredido.](https://www.elcomercio.com/wp-content/uploads/2024/12/nino.jpg)
 
-Un **choque múltiple** se registró en la **Autopista General Rumiñahui**, en Quito, la tarde de este miércoles 4 de diciembre de 2024. El siniestro involucró a **cuatro vehículos**.
+Un niño con **autismo** y con episodios de epilepsia enfrentó las agresiones de quien fue su maestra en una escuela de Quito. La docente fue condenada.
+
+Los hechos ocurrieron en 2019 y la sentencia se logró en este 2024, luego de un proceso que incluyó las pericias de profesionales como un **antropólogo cultural**.
 
 ### Más noticias
 
-* [El aeropuerto de Quito recibirá más pasajeros con su ampliación](https://www.elcomercio.com/empresariales/ampliacion-aeropuerto-quito-avanza.html "El aeropuerto de Quito recibirá más pasajeros con su ampliación")
-* [Cierran sectores estratégicos por seguridad en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/fiestas-quito-vallado-sectores-municipio.html "Cierran sectores estratégicos por seguridad en fiestas de Quito")
-* [ANT suspende atención este 6 de diciembre en Quito](https://www.elcomercio.com/actualidad/quito/ant-suspende-atencion-este-6-de-diciembre-en-quito.html "ANT suspende atención este 6 de diciembre en Quito")
+* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
+* [Caso de abuso a menor relacionado con colegio de Guayaquil ya está en investigación](https://www.elcomercio.com/actualidad/seguridad/caso-abuso-relacionado-con-colegio-guayaquil-encierra-datos-alarmantes.html "Caso de abuso a menor relacionado con colegio de Guayaquil ya está en investigación")
+* [Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador](https://www.elcomercio.com/actualidad/seguridad/fotografo-denuncia-fiscalia-violacion-acoso.html "Denuncian en la Fiscalía de Guayas a presunto fotógrafo acosador")
 
-Según informó el Cuerpo de **Bomberos de Quito**, el siniestro de tránsito se produjo cerca de las **18:00**, a la altura del **puente 3**, en la vía que conecta a la capital con el **Valle de Los Chillos**.
-
-Choque dejó tres heridos, entre ellos, una persona atropellada
---------------------------------------------------------------
-
-**Tres personas resultaron heridas**, producto de la fuerte colisión. Una de ellas, fue atropellada cuando colisionaron los vehículos.
-
-Los ciudadanos afectados fueron evaluados en el lugar, y una vez se comprobó que se encontraban estables, fueron **trasladados hacia una casa de salud** cercana.
-
-> 🔁 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Av. General Rumiñahui, a la altura del puente 3, sentido Quito – Valle.  
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | [#Pichincha](https://twitter.com/hashtag/Pichincha?src=hash&ref_src=twsrc%5Etfw): Jessica Paola P. L., exdocente, es sentenciada por el delito de [#ActosDeOdio](https://twitter.com/hashtag/ActosDeOdio?src=hash&ref_src=twsrc%5Etfw) contra uno de sus estudiantes de 5 años. [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) demostró que lo agredía físicamente con una aguja a manera de castigo.  
 >   
-> 💥🚗 Cuatro vehículos colisionaron.  
->   
-> 🤕 Tres personas resultaron afectadas.  
->   
-> 🙏 Conduce con precaución. No pongas en riesgo tu vida.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/Jfgw4pcgj6](https://t.co/Jfgw4pcgj6) [pic.twitter.com/gMFxAX1Ify](https://t.co/gMFxAX1Ify)
+> Detalles ⬇️[https://t.co/sTpWQykB7h](https://t.co/sTpWQykB7h) [pic.twitter.com/Jf7BtsdUCO](https://t.co/Jf7BtsdUCO)
 > 
-> — Bomberos Quito (@BomberosQuito) [December 4, 2024](https://twitter.com/BomberosQuito/status/1864454637044072950?ref_src=twsrc%5Etfw)
+> — Fiscalía Ecuador (@FiscaliaEcuador) [December 4, 2024](https://twitter.com/FiscaliaEcuador/status/1864421025644978595?ref_src=twsrc%5Etfw)
 
-Caos vehicular en la Autopista Rumiñahui
+Fiscalía y profesora sentenciada en Quito
+-----------------------------------------
+
+La **[Fiscalía General del Estado](https://www.fiscalia.gob.ec/)** informó que el menor, quien en el momento de los hechos tenía 5 años, contó: **“La profe Jessy me pinchó, pero es un secreto”**.
+
+El niño con autismo y discapacidad física del **71 %** recibía pinchazos con una aguja por parte de la docente Jessica Paola P. L. Esto ocurrió durante casi un mes, entre abril y mayo de 2019.
+
+La maestra recibió una sentencia de un año de prisión, como autora directa del **delito** de actos de odio contra el pequeño.
+
+Los antecedentes del niño pinchado por una profesora
+----------------------------------------------------
+
+De acuerdo con el detalle de la **Fiscalía**, la condición del niño hacía que fuera más activo e inquieto que otros. Cuando ingresaba al aula tomaba juegos de rompecabezas y libros de cuentos, lo que terminaba en castigos físicos.
+
+La ahora sentenciada **pinchaba** al niño con agujas en distintas partes de su cuerpo. La evaluación de un psicólogo, como parte del proceso, dio como resultado que las agresiones dejaron secuelas emocionales, como ansiedad, tristeza, rechazo y miedo, con un **pronóstico negativo** a corto y largo plazo.
+
+Los padres del menor afectado **testificaron**. Ella aseguró que se percataron de las agresiones porque identificaron marcas en el cuerpo del niño.
+
+Así que denunciaron los hechos ante las **autoridades del plantel** educativo, lo que resultó en la destitución de la docente y la rectora de la institución.
+
+Otras secuelas en el niño
+-------------------------
+
+La Fiscalía informó que, según la madre, en el tiempo que se dieron las agresiones, los ataques epilépticos del niño se incrementaron, por lo que fue ingresado por emergencia al **Hospital Baca Ortiz**.
+
+El médico tratante de esa casa de salud declaró que el aumento de estos **episodios** ocurrió porque el niño estuvo expuesto a altos niveles de estrés generados por las agresiones.
+
+La evaluación física, en cambio, corroboró las marcas causadas por los **pinchazos** con una aguja.
+
+La **Fiscalía** indicó que la defensa de la docente intentó dilatar el juicio. No obstante, el Tribunal de Garantías Penales emitió sentencia condenatoria el 3 de diciembre de 2024, después de ocho meses de haber instalado la audiencia.
+
+El veredicto se dio en el Día Internacional de las Personas con Discapacidad, con base en el artículo 177 del **Código Orgánico Integral Penal (COIP)**.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Ley de alivio financiero entra a segundo debate; estas son las principales propuestas
+=====================================================================================
+
+La Asamblea Nacional debatirá este jueves el proyecto de Ley Orgánica para el alivio financiero y fortalecimiento económico, enviado como urgente por el presidente Noboa.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Pleno de la Asamblea en el tratamiento de la ley de alivio financiero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-63.jpg)
+
+Este jueves 5 de diciembre de 2024, el Pleno de la **Asamblea Nacional** tratará el **segundo debate** de la **Ley Orgánica para el alivio financiero** y el fortalecimiento económico de las generaciones en el Ecuador. La propuesta está calificado como urgente en materia económica y fue enviada por el presidente **Daniel Noboa** el 7 de noviembre pasado[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html "Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate")
+* [Daniel Noboa presentó proyecto de ley con siete medidas de alivio financiero](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-ley-alivio-financiero.html "Daniel Noboa presentó proyecto de ley con siete medidas de alivio financiero")
+* [Daniel Noboa habló sobre los proyectos de ley económicos urgentes, ¿cuál es el proceso?](https://www.elcomercio.com/actualidad/politica/proyectos-ley-economicos-urgentes-daniel-noboa.html "Daniel Noboa habló sobre los proyectos de ley económicos urgentes, ¿cuál es el proceso?")
+
+La Comisión de Desarrollo Económico, Productivo y la Microempresa está a cargo del tratamiento del proyecto. La propuesta busca beneficiar directa e indirectamente a más de **300 000 familias** que mantienen deudas con la **banca pública y privada del país**.
+
+Los puntos más importantes de la propuesta
+------------------------------------------
+
+La normativa propone, entre otros, prestaciones de **seguro de desempleo** para quienes hayan perdido su trabajo en noviembre, diciembre (2024), enero y febrero (2025). Las personas desempleadas podrán acceder al seguro de desempleo en un plazo de 10 días.
+
+Además, se incluye una disposición por la cual mientras subsista la **emergencia eléctrica** no se permitirá el incremento de los arriendos en todo el país.
+
+Asimismo, se facultará al **Servicio de Rentas Internas** (SRI) que pueda financiar el pago de las obligaciones en mora hasta el 31 de diciembre de 2024.
+
+Igualmente, el proyecto abre la posibilidad de un nuevo **refinanciamiento** de los **créditos hipotecarios** en el Banco del Seguro Social (Biess) que hayan sido ya reestructurados y que estén en mora.
+
+Además, se determinan medidas de **alivio financiero** en el caso de los **créditos educativos** para personas con discapacidad o enfermedades catastróficas.
+
+Igualmente, el texto prevé el **cruce de cuentas** de las deudas que mantienen los gobiernos autónomos descentralizados con el **Banco del Estado**. Esto busca aliviar las finanzas de los gobiernos locales.
+
+Además, se determina que las maquinarias y demás insumos incautados en operativos en contra de la minería ilegal sean utilizadas para atender las necesidades de **vialidad e infraestructura del país**, en lugar de que sean destruidas.
+
+**Valentina Centeno,** presidenta del organismo legislativo, subrayó que el informe recoge las propuestas formuladas por las distintas bancadas en el primer debate y las observaciones enviadas por escrito a la mesa legislativa. El objetivo es dar herramientas para que la ciudadanía supere la **crisis** producida por la **emergencia eléctrica**.
+
+Entre las últimas observaciones recogidas consta la disposición para dar **solución a los deudores de la banca cerrada**.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Pedro Pablo Perlaza contó la experiencia de su secuestro
+========================================================
+
+Pedro Pablo Perlaza fue rescatado después de haber sufrido un secuestro y contó cómo fueron las horas que vivio cautivo.
+------------------------------------------------------------------------------------------------------------------------
+
+![Pedro Pablo Perlaza durante su etapa en Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T110432.243.jpg)
+
+El futbolista **Pedro Pablo Perlaza y Juan Carlos Morales**, quienes habían sido secuestrados en Esmeraldas, fueron liberados por la Policía Nacional durante el miércoles 4 de diciembre del 2024. Después de aquel hecho, el jugador relató cómo lo vivió y cuál fue su experiencia.
+
+A partir del domingo 1 de diciembre del 2024, de acuerdo a versiones de la familia de **Perlaza** hacia las autoridades, este abandonó su domicilio y no lo volvieron a ver. A raíz del hecho, fuentes policiales habían mencionado a EL COMERCIO que al día siguiente se recibió la alerta del secuestro del jugador.
+
+### Más noticias:
+
+* [Así fue la liberación de Pedro Pablo Perlaza tras su secuestro](https://www.elcomercio.com/deportes/futbol/asi-fue-la-liberacion-de-pedro-pablo-perlaza-tras-su-secuestro.html "Así fue la liberación de Pedro Pablo Perlaza tras su secuestro")
+* [Pedro Pablo Perlaza, liberado tras su secuestro](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-fue-liberado-tras-su-secuestro.html "Pedro Pablo Perlaza fue liberado tras su secuestro")
+* [Continúa la búsqueda del futbolista Pedro Pablo Perlaza](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-detalles-secuestro.html "Continúa la búsqueda del futbolista Pedro Pablo Perlaza")
+
+Para la búsqueda de **Pedro Pablo Perlaza** y su acompañante, el caso se dirigió hacia la Unidad Antisecuestros y Extorsión (UNASE). Asimismo, se movilizaron efectivos y se dio paso a investigaciones para dar con el paradero de los involucrados.
+
+Una vez que se conoció dónde se encontraba el jugador, la Policía se dirigió hacia **Tasache**, sector en Atacames. Allí, las víctimas estaban cautivas en una vivienda situada en una zona rural.
+
+Cuando los uniformados llegaron al punto mencionado, estos fueron recibidos de manera hostil y hubo fuego cruzado. Finalmente, estos dieron con **Perlaza y Morales** y los trasladaron para entregarlos a sus familias.
+
+La experiencia de Pedro Pablo Perlaza
+-------------------------------------
+
+El lateral derecho, que durante este 2024 defendió la casaca de **Delfín** en la Liga Pro, conversó con los medios de comunicación al momento en que se reencontró con sus afectos. Allí, este se mostró conmovido por haber podido regresar y a punto de quebrarse[.](https://en.wikipedia.org/wiki/Pedro_Perlaza "https://en.wikipedia.org/wiki/Pedro_Perlaza")
+
+“**Sacarnos de donde estábamos, con decirte que eran más de 15 montañas, es algo de volver a vivir. Le agradezco a la Policía Nacional y la Unas**e”, señaló, para luego excusarse con los presentes por su reacción.
+
+Perlaza también manifestó que había sido **torturado** y que aquello se evidenciaba en el estado en el que se encontraban. Pese a ello, ponderó por sobre todo el haber salido con vida de aquella situación y luego se retiró.
+
+¿Cuál era el estado de Pedro Pablo Perlaza?
+-------------------------------------------
+
+**Pedro Pablo Perlaza** lucía una bermuda, una camiseta y sandalias. Estas se encontraban percudidas y manchadas de tierra, así como derruidas debido a la etapa de cautiverio que vivió.
+
+El futbolista, además, presentó **laceraciones** en su rostro, a la altura de la ceja. Asimismo, al momento en el que se lo encontró, este yacía sobre una hoja en un **piso de madera** de la vivienda en la que lo mantenían.
+
+Sacapintas mataron a hombre asiático en Guayaquil por robarle una alta suma de dinero
+=====================================================================================
+
+La víctima habría retirado dinero de varias instituciones bancarias antes del asalto.
+-------------------------------------------------------------------------------------
+
+![El conductor del vehículo chocó por intentar huir.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T114437.582.jpg)
+
+Un **hecho violento** se registró el miércoles 4 de diciembre de 2024 en la avenida Plaza Dañín y Nicasio Safadi, en el norte de Guayaquil. Un ciudadano **asiático falleció** por un asalto a mano armada en modalidad de sacapintas.
+
+### Más noticias
+
+* [Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decision-proteccion-policial-elecciones-2025.html "Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025")
+* [Gobierno entregó 1 735 fusiles a la Policía Nacional](https://www.elcomercio.com/actualidad/seguridad/gobierno-entrega-fusiles-policia-nacional.html "Gobierno entregó 1 735 fusiles a la Policía Nacional")
+* [Así fue la liberación de Pedro Pablo Perlaza tras su secuestro](https://www.elcomercio.com/deportes/futbol/asi-fue-la-liberacion-de-pedro-pablo-perlaza-tras-su-secuestro.html "Así fue la liberación de Pedro Pablo Perlaza tras su secuestro")
+
+El asesinato
+------------
+
+Moradores de la **av. Plaza Dañín, en Guayaquil**, se llevaron un susto cuando un auto color café chocó y se detuvo en una esquina. Sus latas quedaron completamente dañadas en un costado debido al choque.
+
+Según información policial, un **ciudadano de origen asiático** habría sacado dinero de varias entidades financieras en centros comerciales del norte de la ciudad. La Policía informó que el último de esos retiros era de 25 000 dólares.
+
+Cuando avanzaba por la **av. Plaza Dañín**, en el sector de La Atarazana, sujetos en moto intentaron cerrarle el paso para quitarle el dinero; sin embargo, el hombre intentó huir de ellos. Entonces, los sujetos abrieron fuego y lo hirieron gravemente. **Se llevaron 30 000 dólares.**
+
+Luego de las pericias, los uniformados constataron que había más dinero escondido en distintas partes del automotor. Por ejemplo, en la llanta de emergencia había **100 000 dólares escondidos.**
+
+Víctima se movilizaba con un acompañante
 ----------------------------------------
 
-Debido al **múltiple choque**, los carriles centrales estuvieron cerrados al paso vehicular durante **varios minutos**. Las vías laterales se caotizaron por el número considerable de autos, buses y motos que transitaban por la zona, en medio de la **hora pico**.
+La Policía investiga el hecho para dar con **los responsables**. Se solicitaron las grabaciones de las cámaras de seguridad de las calles aledañas para constatar cómo detectaron al hombre.
 
-La Agencia Metropolitana de Tránsito (AMT) confirmó que estos carriles de los sentidos Quito-Valle y Valle-Quito fueron **habilitados** parcialmente a las 18:30[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+En el ataque se salvó una persona que iba en el asiento del copiloto del vehículo, quien no recibió disparos[, afortunadamente,](https://es.wikipedia.org/wiki/Guayaquil "https://es.wikipedia.org/wiki/Guayaquil") y **resultó ilesa.**
 
-Sin embargo, el **caos** en la circulación vehicular continuaba.
+La Policía Nacional recuerda a la ciudadanía que si va a retirar dinero de una entidad bancaria se puede solicitar custodia policial. Solo debe llamar al 911 y pedir este servicio gratuito que ofrece la Policía para seguridad de los ciudadanos.
 
-A las 20:30, la **av. Velasco Ibarra** y la autopista **General Rumiñahui** seguían congestionadas.
+Policía Nacional se incautó de más de dos toneladas de cocaína
+==============================================================
 
-Las autoridades de tránsito desviaban los autos que bajaban de la av. Velasco Ibarra y buscaban ingresar a la autopista por la **Loma de Puengasí**.
+La Policía incautó 1 816 bloques de cocaína en Manta, valorados en 56 millones de dólares en el marcado internacional.
+----------------------------------------------------------------------------------------------------------------------
 
-La fuerte y constante **lluvia** provocó mayor congestión. Pasadas las 21:00, la circulación de vehículos empezó a fluir.
+![Droga incautada en Manta estaba lista para ser exportada, valorada en 56 millones de dólares en el mercado internacional.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-94.jpg)
 
-Si transita por el lugar, **conduzca con precaución**. Los restos del siniestro de tránsito, sumados a la calzada mojada por la lluvia, aumentan el riesgo de eventualidades.
-
-> [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Al momento se encuentra habilitado parcialmente el carril central de la Autopista General Rumiñahui, debido al siniestro de tránsito registrado a la altura del puente 3.  
-> Toma precauciones. [https://t.co/ttOz3Wi2Cq](https://t.co/ttOz3Wi2Cq) [pic.twitter.com/nNPJkdfZe7](https://t.co/nNPJkdfZe7)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [December 4, 2024](https://twitter.com/AutopistaGR/status/1864451894011187668?ref_src=twsrc%5Etfw)
-
-Autopista General Rumiñahui cerrará el domingo 8 de diciembre
--------------------------------------------------------------
-
-La **Autopista General Rumiñahui** cerrará todos sus carriles este **domingo 8 de diciembre** de 2024, por trabajos sobre la vía.
-
-La movilidad se verá suspendida debido a la instalación de un **paso elevado** en la av. Lola Quinta, en el sector del puente 8.
-
-Los operarios laborarán en el lugar desde las **05:00** hasta las **24:00**.
-
-Vecinos del barrio Bolaños, en Quito, buscan apoyo tras los incendios de septiembre
-===================================================================================
-
-Los habitantes del barrio Bolaños, cerca del túnel Guayasamín, enfrentan problemas tras los incendios de septiembre 2024.
--------------------------------------------------------------------------------------------------------------------------
-
-![Cables caídos y quemados se ven a la orilla de la avenida Guayasamín poco antes de llegar al peaje, en dirección hacia el valle de Tumbaco.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-04T173903.373.jpg)
-
-Ubicados al lado de sur del **túnel Guayasamín,** los **vecinos del barrio Bolaños** sienten que hay un **olvido**. Luego de los **incendios** de **septiembre del 2024,** los habitantes de Quito los apoyaron. Tres meses después, sus pobladores sostienen que nuevamente están abandonados.
+La **Policía Nacional** realizó un importante **operativo antinarcóticos** en la madrugada de este jueves 5 de diciembre, logrando la incautación de **1 816 bloques de clorhidrato de cocaína** en el sector costero de Liguiqui, en la ciudad de **Manta**.
 
 ### Más noticias
 
-* [Buses podrán cruzar el túnel Guayasamín en Quito](https://www.elcomercio.com/actualidad/quito/buses-tunel-guayasamin-quito.html "Buses podrán cruzar el túnel Guayasamín en Quito")
-* [Horarios de Trolebús y Ecovía por festivales de fiestas de Quito](https://www.elcomercio.com/actualidad/quito/ecovia-trolebus-fiestas-quito-festivales.html "Horarios de Trolebús y Ecovía por festivales de fiestas de Quito")
-* [Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?](https://www.elcomercio.com/actualidad/quito/levantamiento-hormigon-ecovia-derroche-recursos-quito.html "Levantamiento de hormigón de la Ecovía, ¿derroche de recursos de Quito?")
+* [Policía abre nuevo reclutamiento, ¿más cupos para hombres o mujeres?](https://www.elcomercio.com/actualidad/seguridad/policia-nuevo-reclutamiento-cupos-hombres-mujeres.html "Policía abre nuevo reclutamiento, ¿más cupos para hombres o mujeres?")
+* [Tres policías fueron liberados de secuestro en Guayas](https://www.elcomercio.com/actualidad/seguridad/tres-policias-liberados-guayas-yaguachi.html "Tres policías fueron liberados de secuestro en Guayas")
+* [Manifestantes y policías se enfrentaron durante marchas en Quito](https://www.elcomercio.com/actualidad/quito/manifestantes-policia-marcha-quito.html "Manifestantes y policías se enfrentaron durante marchas en Quito")
 
-Cables caídos y colgados por incendio en Bolaños
-------------------------------------------------
+Según informó el **coronel Fabary Montalvo, jefe de la Subzona Manabí**, el operativo respondió a información reservada que alertó sobre la presencia de **bultos sospechosos enterrados en matorrales**.
 
-Apenas se sale del túnel **Guayasamín** en dirección al valle de **Tumbaco**, hacia la quebrada está **Bolaños**. Sus vecinos aún recuerdan aquel fatídico **23 de septiembre**, cuando las **llamas** fueron tomando sus terrenos, sus casas y debieron evacuar.
+El hallazgo se produjo alrededor de las 02:50 de este jueves, en un predio ubicado cerca de la **vía Liguiqui**. Tras una inspección minuciosa, se encontraron **63 sacos de yute negro** que contenían los **bloques de droga**.
 
-Los vecinos del barrio **Bolaños** aún están agradecidos con la **ayuda humanitaria** que llegó de la población que vio horrorizada como el fuego avanzaba sin control. Sin embargo, creen que hay más acciones que se deben tomar, sobre todo aquellas que son necesarias luego de los incendios forestales.
+Los paquetes, marcados con la inscripción ‘RR’, se trasladaron a la **Unidad de Vigilancia de Manta** para su verificación. De acuerdo con las pruebas de campo realizadas, el cargamento tiene un **valor estimado de 56 millones de dólares en el mercado internacional**.
 
-Uno de ellos tiene que ver con los **cables de las operadoras de telecomunicaciones**, internet o televisión por cable. Se los ve colgados como en una película de horror. Si bien no entrañan un peligro mayor, vecinos como **Humberto Simbaña** lamentan que “ninguna autoridad se ha hecho presente para verificar los problemas que se quedaron sin atención”.
+Un golpe al narcotráfico en la región costera
+---------------------------------------------
 
-Les preocupa también la presencia de **piedras**, sobre todo ahora que, se espera, lleguen las **lluvias**. La afectación del ecosistema hace que “no haya árboles ni ramas ni nada que los contenga. Mi casa es bastante visible y tenemos miedo de las rocas que vienen de la montaña”, dice **Mary Flores**, otra vecina de Bolaños.
+El coronel Montalvo destacó la importancia del operativo en el combate al narcotráfico. La droga incautada tenía como **destino el mercado internacional**, y las organizaciones aprovechaban la ubicación estratégica del sector de Liguiqui, cerca de la costa, como **punto de salida**.
 
-Una obra no atendida en Bolaños
--------------------------------
+Asimismo, aseguró que se están tomando **medidas para reforzar la seguridad en las zonas rurales y costeras de la provincia**.
 
-Si no hubo respuesta sobre los cables y las piedras, en **Bolaños** están también preocupados, ante la eventual llegada de las lluvias de invierno. Esperan que se dé mantenimiento del **canal de coronación**, que permite drenar el agua lluvia que viene desde el parque Metropolitano[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+Investigaciones en curso y nuevas estrategias
+---------------------------------------------
 
-El 19 de noviembre del 2024, la **Empresa Pública Metropolitana de Movilidad y Obras Públicas** (**Epmmop**) recibió una solicitud firmada por Simbaña en que pide que se dé mantenimiento a este canal de desalojo del agua.
+Actualmente, las autoridades están trabajando en la investigación para identificar a los responsables del terreno donde se encontró la droga.
 
-“Cabe mencionar que en los últimos años no sea dado (sic) ningún mantenimiento de desalojo del material acumulado, además tomando en consideración el incendio ocurrido en el mes de septiembre, lo que a provocado la caída de piedras y otros materiales al canal de coronación”. (sic)
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/piedras-bolanos-1-1024x683.jpg)
-
-En el canal de coronación, que permite drenar el agua de las lluvias, acumula escombros y piedras. Foto: Cortesía
-
-**Los vecinos de Bolaños**, que viven en una pendiente pronunciada, se mantiene preocupados tras los incendios, que afectaron aún más su cotidianidad. Ahora, incluso, reportan una fuga de agua que, afirman, comenzó hace tres meses. Y piden que las autoridades les presten atención a sus demandas.
-
-Mary Flores, por ejemplo, estaría de acuerdo con una **relocalización**. Fue a ver con su familia de cinco personas las viviendas en **Victoria del Sur**, que es la alternativa que brinda el Municipio. Pero, además de las dificultades para poder financiar el departamento, era muy pequeño para su familia.
+Equipos policiales han entrevistado a los moradores locales y continúan recolectando evidencia. Según el coronel Montalvo, el **trabajo en conjunto con la comunidad** será clave para evitar que las organizaciones utilicen espacios rurales para almacenar **sustancias ilegales**.
 
 * * *
 
@@ -990,159 +667,396 @@ Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Ap
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
 
-Liga de Quito, IDV y una recordada final de Liga Pro
+La caravana migrante se estanca en el sur de México 
 ====================================================
 
-Liga de Quito e Independeinte del Valle se medirán en la final de la Liga Pro 2024, pero ya enfrentaron un partido similar en el 2023.
---------------------------------------------------------------------------------------------------------------------------------------
+Integrantes del contingente, en su mayoría de Venezuela, expresaron que se quedarían en Tapachula, la principal ciudad de la frontera sur de México.
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Kendry Páez de IDV proteje un balón en la final de la Liga Pro 203 ante Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/2023121087756-fbl-ligapro-final-independiente-liga-scaled.jpg)
+![Migrantes preparan alimentos este miércoles, en el municipio de Escuintla en el estado de Chiapas (México).](https://www.elcomercio.com/wp-content/uploads/2024/12/caravana-mexico-diciembre.jpg)
 
-**Liga de Quito e Independiente del Valle** volverán a verse las caras en las finales de ida y vuelta de la Liga Pro 2024. Esta, sin embargo, no será la primera vez que tales escuadras se midan en ese contexto, pues en 2023 ya lo hicieron y los albos quedaron campeones.
+La **caravana migrante** que partió esta semana de la frontera sur de [México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html "https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html") se estancó el miércoles, 4 de diciembre de 2024, en el municipio de Escuintla. En ese lugar esperan reponer fuerzas para avanzar a pesar del bloqueo y la presencia de agentes del Instituto Nacional de Migración (INM) y la Guardia Nacional.
 
-Tanto en **2023** como en **2024**, los equipos fueron emparejados para medirse entre sí en función del sistema de campeonato y sus puestos en la primera y segunda etapa del campeonato nacional. Los rayados ganaron la ronda inicial y los albos la última.
+### Más noticias
 
-### Más noticias:
+* [La caravana migrante se topa con el bloqueo de las autoridades en el sur de México](https://www.elcomercio.com/actualidad/mundo/caravana-migrante-topa-bloqueo-autoridades-sur-mexico.html "La caravana migrante se topa con el bloqueo de las autoridades en el sur de México")
+* [Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles")
+* [Silvia Pinal, la última diva del cine de oro de México, falleció](https://www.elcomercio.com/tendencias/cine/silvia-pinal-fallecio-mexico-cine.html "Silvia Pinal, la última diva del cine de oro de México, falleció")
 
-* [Liga de Quito está invicto en finales de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-esta-invicto-en-finales-de-liga-pro.html "Liga de Quito está invicto en finales de Liga Pro")
-* [Liga de Quito e Independiente son los equipos más exitosos en la era Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-independiente-son-los-equipos-mas-exitosos-en-la-era-liga-pro.html "Liga de Quito e Independiente son los equipos más exitosos en la era Liga Pro")
-* [Bryan Ramírez, de descartado a figura de Liga de Quito](https://www.elcomercio.com/deportes/futbol/bryan-ramirez-liga-quito-figura.html "Bryan Ramírez, de descartado a figura de Liga de Quito")
+Eliezer, vocero y representante de esta caravana de migrantes, expuso que **se entregaron dos personas** a las autoridades porque **no soportan el calor** y las **ampollas en los pies,** aunque aún queda el 80 % de las 1 500 personas que salieron el lunes porque esperan l**legar a Ciudad de México.**
 
-En la vigente edición de la Liga Pro, las escuadras se medirán durante los sábados **7 y 14 de diciembre** del 2024 del mismo año. En 2023, los clubes se enfrentaron durante el **10 y el 17 de diciembre**.
+“Aquí vamos con todo, la gente está dispuesta a hacer lo que sea para avanzar, por lo que solicito al Gobierno mexicano que les puedan colaborar con **agua para seguir su camino**“, indicó el migrante.
 
-Para la reedición del compromiso, uno de los factores que cambiará será la localía. En la oportunidad previa, la ‘U’ cerró en el **Rodrigo Paz Delgado** y se hizo con el trofeo; ahora, Independiente del Valle será el que jugará el último partido con su público[.](https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2024 "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2024")
+Algunos deciden quedarse en Tapachula
+-------------------------------------
 
-Doble empate entre Liga de Quito e Independiente en 2023
---------------------------------------------------------
+Algunos integrantes del contingente, en su mayoría de Venezuela, expresaron que se quedarían en **Tapachula,** la principal ciudad de la frontera sur de México, si el Gobierno mexicano cumple la promesa de garantizar seguridad y empleos.
 
-La primera final entre albos y rayados que se llevó a cabo en el 2023 trajo consigo un empate en el **Estadio de Independiente del Valle**. Las escuadras ni siquiera se hicieron daño entre sí y el partido terminó con un marcador de 0-0.
+El **venezolano José Gregorio Campos Mesa**, quien viaja con su familia, aseguró que buscan una mejor estabilidad y un empleo donde el salario sea digno para los migrantes porque en Tapachula estuvo dos meses trabajando de barbero para mantener a su familia.
 
-Con tal resultado, la serie quedó abierta para el **choque de vuelta**, pero los clubes tampoco pudieron sacarse diferencias en este. Aquel duelo también terminó en empate, sin embargo, en aquella ocasión no faltaron goles.
+“Al que **no tenga cómo trabajar en barbería,** quién lo ayude o lo apoye, la situación se le pone más fuerte. Por eso, salen en caravana quienes buscan llegar a alguna ciudad del norte para poder tener un dinero para pagar **rentas, comidas y tener una estabilidad laboral** sin que tenga que huir o exponerse a la inseguridad”, dijo.
 
-Los encargados de poner su firma en el marcador fueron **Kendry Páez y Renato Ibarra**. El juvenil de los rayados anotó un golazo desde fuera del área, mientras que Ibarra aprovechó un error del arquero **Moisés Ramírez**.
+El hondureño Marvin afirmó que si las autoridades mexicanas ofrecen trabajo bien remunerados se quedarían porque la mayoría de las personas que viajan buscan llegar al **norte de México** o a Estados Unidos. El objetivo es **trabajar, cambiar su futuro y conseguir bienestar.**
 
-Una final con penales
----------------------
+“Se quedará un tiempito (en la frontera sur) la mayoría de gente, un tiempito trabajando, y de ahí siguen a modo de acomodarse un par de meses y de ahí seguir despacio, uno anda siguiendo (el camino) por los carteles, uno tiene miedo”, comentó.
 
-La primera y única vez que hubo finales entre **Liga de Quito e Independiente del Valle**, todo se definió por penales debido a los empates en los dos compromisos. Los albos se impusieron por 3-0 en la tanda y levantaron su decimosegundo título de campeonatos ecuatorianos en la historia.
+Un grupo de agentes del INM arribó el miércoles, 4 de diciembre de 2024, a **Escuintla para ofrecer traslados a familias** para llevarlos a Tuxtla Gutiérrez, la capital del estado de Chiapas, y a los hombres solos a la vecina entidad de Campeche.
 
-El Ascenso Nacional está al alcance de cuatro entrenadores
-==========================================================
+Los migrantes se estancan después de que la **presidenta de México, Claudia Sheinbaum,** aseguró en una llamada con el mandatario electo de Estados Unidos, Donald Trump, que las **caravanas “ya no llegan”** a la frontera con Estados Unidos. Esto en medio del **amago de aranceles de 25 %** a los productos mexicanos si no frena los migrantes y drogas.
 
-Liga de Portoviejo, 22 de Julio, Club Vinotinto y La Unión pelean por los dos cupos del ascenso.
-------------------------------------------------------------------------------------------------
-
-![Imagen referencia de un partido del Ascenso Nacional en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/entrenadores_ascenso_1.jpg)
-
-El **Torneo de Ascenso Nacional** está organizado por la Federación Ecuatoriana de Fútbol (FEF). Al final del calendario oficial entregará dos cupos para la Liga Pro Serie B de 2025.
-
-Un total de 64 equipos de 22 asociaciones provinciales son los que participaron en el **Ascenso Nacional desde los treintaidosavos de final**. Solamente Napo y Galápagos no tuvieron representantes y se quedaron fuera.
-
-### Más noticias:
-
-* [Liga de Quito e Independiente son los equipos más exitosos en la era Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-independiente-son-los-equipos-mas-exitosos-en-la-era-liga-pro.html "Liga de Quito e Independiente son los equipos más exitosos en la era Liga Pro")
-* [Segundo Alejandro Castillo abre camino para los DT ecuatorianos](https://www.elcomercio.com/deportes/futbol/segundo-alejandro-castillo-abre-camino-para-los-dt-ecuatorianos.html "Segundo Alejandro Castillo abre camino para los DT ecuatorianos")
-* [¿Cómo se estructurará la Liga Pro 2025?](https://www.elcomercio.com/deportes/liga-pro-estructura-campeonato-2025.html "¿Cómo se estructurará la Liga Pro 2025?")
-
-Tras superar cuatro etapas previas, Liga de Portoviejo (Manabí), **22 de Julio (Esmeraldas), Club Vinotinto (Pichincha)** y La Unión (Cotopaxi), son los equipos que siguen luchando para conseguir el buscado y ansiado ascenso.
-
-En la ida, Liga de Portoviejo empató 0-0 con el 22 de Julio en un repleto Reales Tamarindos; y La Unión se llevó un v**alioso empate 2-2 ante el Vinotinto del Olímpico Atahualpa**, con lo que las series se definirán en Esmeraldas y Pujilí, respectivamente.
-
-Los ganadores de estas llaves obtendrán el ascenso a la B y sacarán el boleto para jugar la final única **programada para el domingo 15 de diciembre, desde las 15:00**, en el estadio Etho Vega de Santo Domingo de los Tsáchilas.
-
-Tras ese doble premio están **cuatro entrenadores con experiencia en equipo de las distintas categorías** del país.
-
-Raúl Duarte
------------
-
-Raúl Ricardo Duarte Barrios nació en Asunción, Paraguay el 18 de julio de 1969. El 2001 llegó a Ecuador contratado por Aucas y **empezó su trajinar y defendió las camisetas de Macará, Delfín, Espoli**, Deportivo Quevedo y Universidad Católica.
-
-Antes estuvo en Deportes Puerto Montt, Huachipato, Everton, Deportes la Serena, en Chile; y 12 de Octubre de su natal Paraguay.
-
-Tras su retiro empezó su carrera como entrenador en equipos como Venecia, Deportivo Quevedo, Delfín, **Fuerza Amarilla, Deportivo Quito, Cumbayá** y actualmente en Liga de Portoviejo.
-
-Sobre sus hombros tiene la responsabilidad de ascender a los manabitas luego de su descenso en 2021.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/12/entrenadores_ascenso_2-1024x683.jpg)
-
-Foto: API.
-
-Éder Valencia
--------------
-
-Luis Eder Valencia Mosquera nació en Lago Agrio, provincia de Sucumbíos el 4 de marzo de 1982.
-
-Es hermano del gran **Antonio Valencia, exjugador de El Nacional, Manchester United**, Liga de Quito y de la Selección de Ecuador, entre otros equipos que disfrutaron del talento del amazónico.
-
-En 2002 debutó en la Primera División del Fútbol de Ecuador con El Nacional y luego tuvo un carrera discreta en **Universidad Católica, Deportivo Azogues, Olmedo, Rocafuerte**, Independiente del Valle y Liga de Portoviejo.
-
-Antes de hacerse cargo del **22 de Julio acompañó a su hermano en el AV25**, club de su propiedad, en la Segunda División de Pichincha, proyecto que tiene como objetivo llegar hasta la Serie A.
-
-Geovanny Cumbicus
------------------
-
-Geovanny Patricio Cumbicus Castillo nació en Loja el 25 de enero de 1980. Liga de Quito le abrió las puertas al fútbol profesional en 1999. Luego pasó por A**ucas y en Liga de Loja cerró su camino** como futbolista en 2014.
-
-En su natal Loja arranco como entrenador en 2015 con la Liga. Luego se le suman experiencia en Mushuc Runa, Olmedo, Libertad y Gualaceo.
-
-En el presente **está al mando de La Unión de Pujilí**, club que intenta ser el primero en representar a la provincia de Cotopaxi en el fútbol profesional en 2025.
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/entrenadores_ascenso_3-1024x683.jpg)
-
-Foto: Instagram del club.
-
-Luis Soler
-----------
-
-Luis Gustavo Soler nació el 9 de junio de 1951 en Buenos Aires, Argentina. Su época como jugador la vivió en Los Andes, **Club Atlético All Boys, Banfield, Vélez Sársfield** y Deportivo Español en su país; y Recreativo de Huelva y Sevilla en España.
-
-Desde 1980 trabajo como entrenador. A Ecuador llegó en 2010 contratado por el Deportivo Cuenca y luego **pasó por Barcelona SC, Universidad Católica, Aucas** y en el presente en el Club Vinotinto.
-
-Una vez que ascienda a la B, el Vinotinto no puede competir por ascender a la A. En esa categoría jugará el equipo que lleva el mismo nombre, una vez que realizó el cambio de razón social a Cuniburo.
-
-![Foto: Instagram del club.](https://www.elcomercio.com/wp-content/uploads/2024/12/entrenadores_ascenso_4-1024x683.jpg)
-
-Foto: Instagram del club.
-
-San viernes
------------
-
-Daniel Noboa firmó un decreto ejecutivo sobre el IVA para 2025
+¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?
 ==============================================================
 
-La decisión de Daniel Noboa sobre el IVA para 2025 fue expedida este miércoles.
--------------------------------------------------------------------------------
+El calendario de las elecciones 2025 sigue avanzando. Los candidatos deben cumplir pasos fijos.
+-----------------------------------------------------------------------------------------------
 
-![El presidente Daniel Noboa emitió una disposición sobre el IVA para 2025 en el Decreto Ejecutivo 470.](https://www.elcomercio.com/wp-content/uploads/2024/12/daniel-noboa-iva.jpg)
+![Daniel Noboa es uno de los candidatos que debe dar un paso para la campaña 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-25.jpg)
 
-El presidente **Daniel Noboa** firmó un **decreto ejecutivo** sobre el **Impuesto al Valor Agregado (IVA)** para el año **2025**, este miércoles 4 de diciembre de 2024.
+El 9 de febrero se desarrollarán las **elecciones 2025** en Ecuador. Antes de las votaciones, como en cada proceso, se llevará a cabo la campaña y algunos aspirantes deben dar un paso obligatorio[.](https://es.wikipedia.org/wiki/Ecuador)
 
-Noboa firmó el **Decreto Ejecutivo 470** para dar las nuevas disposiciones tributarias.
+El **Código de la Democracia** es claro en los requisitos que deben cumplir los candidatos que estarán en las papeletas electorales.
+
+### Más noticias
+
+* [Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?](https://www.elcomercio.com/actualidad/politica/capacitaciones-miembros-juntas-elecciones-2025-empiezan-cuanto-duran.html "Capacitaciones a miembros de las juntas de las elecciones 2025 empiezan, ¿cuánto durarán?")
+* [Capacitaciones para miembros de juntas de las elecciones 2025 se iniciaron, ¿dónde?](https://www.elcomercio.com/actualidad/politica/capacitaciones-miembros-juntas-elecciones-2025-iniciaron-donde.html "Capacitaciones para miembros de juntas de las elecciones 2025 se iniciaron, ¿dónde?")
+* [Papeletas de binomios presidenciales para las elecciones 2025 en proceso](https://www.elcomercio.com/actualidad/politica/cne-avanza-proceso-impresion-papeletas-binomios-presidenciales-elecciones-2025.html "Papeletas de binomios presidenciales para las elecciones 2025 en proceso")
+
+Elecciones 2025 y los candidatos
+--------------------------------
+
+En las **elecciones 2025**, los ecuatorianos elegirán al binomio presidencial, 151 asambleístas y cinco parlamentarios andinos.
+
+El **[Consejo Nacional Electoral (CNE)](https://www.cne.gob.ec/ "https://www.cne.gob.ec/")** ya empezó la impresión de las papeletas de los 16 binomios. Estas se emplearán para consignar los votos. Esta tarea está a cargo del **Instituto Geográfico Militar**.
+
+Según el calendario electoral, el 30 de diciembre de 2024 se conocerá el listado oficial para las elecciones 2025. No obstante, los binomios ya pasaron los filtros de los organismos correspondientes, como el **CNE** y el **Tribunal Contencioso Electoral (TCE)**.
+
+La **campaña electoral** se desarrollará del 5 de enero y se extenderá hasta el 6 de febrero de 2025.
+
+El Código de la Democracia
+--------------------------
+
+El **Código de la Democracia** define que los dignatarios de elección popular podrán reelegirse por una sola vez, consecutiva o no, para el mismo cargo.
+
+Las autoridades de **elección popular** que se postulen para un cargo diferente deberán renunciar al que desempeñan antes de presentar la solicitud de inscripción de su candidatura.
+
+Los dignatarios que opten por la **reelección inmediata** al mismo cargo deberán hacer uso de licencia sin remuneración desde el inicio de la campaña electoral.
+
+La disposición no rige para las autoridades de elección popular que ostenten la calidad de suplentes que, al momento de la inscripción, no estén en el ejercicio de las **funciones** de principales.
+
+Sin embargo, si van para una dignidad diferente de la de **suplencia**, no podrán ir como principales durante el proceso.
+
+**Henry Kronfle**, expresidente de la Asamblea, por ejemplo, debió renunciar para postularse a la Presidencia de la República.
+
+El caso del presidente Daniel Noboa
+-----------------------------------
+
+El presidente **Daniel Noboa** participará en los comicios junto a María José Pinto. Ambos irán por el **Movimiento Acción Democrática Nacional (ADN)**.
+
+Como lo establece la normativa electoral, el **Presidente** deberá pedir licencia antes de empezar la campaña electoral y deberá encargar el puesto a la Vicepresidenta.
+
+Aunque, este es un punto en el que aún no hay certezas. Esto debido a que Verónica Abad fue suspendida por el Ministerio de Trabajo, por **150 días**.
+
+Ella interpuso una acción de protección, cuya audiencia estaba prevista para este jueves, 5 de diciembre de 2024. Finalmente, se realizará el 9 del mismo mes.
+
+Actualmente, **Sariha Moya** ejerce las labores en la Vicepresidencia.
+
+¿Cuántos feriados quedan tras las fiestas de Quito?
+===================================================
+
+Los últimos feriados son Navidad y Año Nuevo cierran el calendario festivo en Ecuador, impulsando turismo, economía y tradiciones familiares.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Últimos feriados posterior a las Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-93.jpg)
+
+Las **Fiestas de Quito** marcan una de las últimas celebraciones importantes del **calendario ecuatoriano**. Sin embargo, el país aún cuenta con **feriados nacionales** antes de cerrar el año. Estas fechas representan una oportunidad para el **turismo y el descanso familiar**.
+
+### Más noticias
+
+* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor")
+* [¿Por qué hay un feriado en fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/feriado-fiestas-quito-historia-fundacion.html "¿Por qué hay un feriado en fiestas de Quito?")
+* [Daniel Noboa decreta nuevo feriado; ¿cuándo será?](https://www.elcomercio.com/actualidad/ecuador/daniel-noboa-decreta-nuevo-feriado-cuando-sera.html "Daniel Noboa decreta nuevo feriado; ¿cuándo será?")
+
+Con base en la **Ley Orgánica de Servicio Público** y su calendario oficial, Ecuador disfruta de varios días de descanso obligatorio cada año. Luego de las **festividades capitalinas**, las siguientes fechas de feriado pueden ser claves para quienes planean viajar o simplemente relajarse.
+
+Últimos feriados nacionales del año
+-----------------------------------
+
+Tras las **Fiestas de Quito**, el siguiente feriado es el **25 de diciembre**, Navidad, que este 2024 caerá en miércoles. Este día es inamovible y permite un momento de unión familiar y reflexión.
+
+Muchas personas aprovechan esta fecha para compartir cenas tradicionales, intercambiar regalos y participar en actividades religiosas, como la **Misa del Gallo**, consolidando tradiciones culturales y religiosas que fortalecen los **lazos comunitarios**.
+
+Asimismo, el último feriado del año será el 1 de enero de 2025, día de Año Nuevo. Aunque técnicamente corresponde al **próximo año**, muchas personas lo asocian como el **cierre oficial de la temporada festiva**. Este día simboliza el inicio de un nuevo ciclo, cargado de **esperanza y propósitos renovados**.
+
+En varias ciudades del país, es común **despedir el año viejo** con la quema de monigotes y la lectura de testamentos humorísticos, costumbres que atraen tanto a locales como a turistas
+
+Posibilidades de descanso adicionales
+-------------------------------------
+
+En algunos casos, las **empresas y familias** optan por extender los feriados con días libres adicionales, dependiendo de las **dinámicas laborales**. Esto es especialmente común durante la época navideña, aprovechando las **vacaciones escolares**.
+
+Además, en destinos turísticos populares como **playas, sierras y Amazonía**, esta temporada atrae un alto flujo de visitantes que buscan combinar el descanso con **actividades recreativas y culturales**.
+
+De esta forma, los feriados de **Navidad y Año Nuevo** no solo son momentos de pausa, sino también una oportunidad para reactivar la economía en sectores como el comercio, el turismo y la gastronomía.
+
+Ecuador, con su **diversidad cultural y geográfica**, ofrece múltiples opciones para disfrutar estos días, desde reuniones familiares hasta escapadas a lugares emblemáticos del país.
+
+Así, con la llegada del 2025, las **familias ecuatorianas** culminarán un año cargado de festividades y tradiciones, listas para iniciar un nuevo capítulo.
+
+¿Quién fundó Quito? 
+====================
+
+La fundación de Quito, un hito en la historia ecuatoriana.
+----------------------------------------------------------
+
+![Quito, fundada oficialmente el 6 de diciembre, 1534. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/%C2%BFQuien-fundo-Quito.jpg)
+
+La **fundación de Quito** es un acontecimiento crucial en la **historia de Ecuador**. Esta ciudad, ubicada en el corazón de los Andes, no solo es la **capital del país**, sino también un símbolo de **resistencia y diversidad cultural**.  
+
+### Más noticias
+
+* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html")
+* [En las Fiestas de Quito se ‘zapatea’ con… ¡Armemos un playlist!](https://www.elcomercio.com/tendencias/entretenimiento/fiestas-quito-playlist-el-comercio-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/fiestas-quito-playlist-el-comercio-spotify.html")
+
+La **historia de su fundación** está marcada por la interacción entre los **pueblos indígenas** y los **conquistadores españoles**.  
+
+**Contexto histórico de la fundación de Quito** 
+------------------------------------------------
+
+En el siglo XVI, el territorio que hoy conocemos como Quito estaba bajo la influencia del **Imperio Inca**. En ese tiempo, **Atahualpa y Huáscar**, dos hermanos que luchaban por el control del imperio, estaban inmersos en una **guerra civil**. Esta inestabilidad atrajo la atención de los **conquistadores españoles**, quienes buscaban riquezas en la región. En 1533, Atahualpa fue capturado por **Francisco Pizarro**, lo que abrió las puertas a la llegada de los españoles a Quito, según recoge el [Centro Cervantes](https://cvc.cervantes.es/artes/ciudades_patrimonio/quito/historia_tradicion/historia_01.htm "https://cvc.cervantes.es/artes/ciudades_patrimonio/quito/historia_tradicion/historia_01.htm").  
+
+**¿Quién fundó Quito?** 
+------------------------
+
+La **fundación de Quito** se atribuye tradicionalmente a **Sebastián de Benalcázar**, quien **estableció oficialmente la ciudad** el 6 de diciembre de 1534. Sin embargo, es importante señalar que **Diego de Almagro** había realizado una **primera fundación** el 28 de agosto de 1534, en las cercanías de la **laguna de Colta**. Esta primera fundación fue considerada inválida por el **rey Carlos I** de España, ya que Almagro no tenía autorización para establecer ciudades en ese territorio, de acuerdo con la página [Go Raymi](https://www.goraymi.com/es-ec/pichincha/quito/fundaciones/fundacion-quito-aa34iuedh#google_vignette "https://www.goraymi.com/es-ec/pichincha/quito/fundaciones/fundacion-quito-aa34iuedh#google_vignette").  
+
+**Benalcázar** llegó a Quito poco después y decidió **establecer la ciudad** sobre las cenizas del antiguo asentamiento indígena, que había sido incendiado por **Rumiñahui** para evitar que los españoles encontraran recursos. La elección del lugar fue estratégica debido a su **ubicación geográfica** y su potencial para convertirse en un **centro político** y cultural. 
+
+**Controversia histórica** 
+---------------------------
+
+La **dualidad en las fechas** de fundación ha generado un **debate académico** significativo. Algunos historiadores sostienen que **Almagro fue el verdadero fundador** debido a su acto inicial en Colta. Sin embargo, otros argumentan que **Benalcázar es el fundador legítimo** porque fue quien consolidó la ciudad en su ubicación actual y trajo el acta formal de fundación, según el [Ministerio de Inclusión Económica y Social](https://educacionecuadorministerio.blogspot.com/2019/12/resumen-6-de-diciembre-de-1534-fundacion-de-quito.html#google_vignette "https://educacionecuadorministerio.blogspot.com/2019/12/resumen-6-de-diciembre-de-1534-fundacion-de-quito.html#google_vignette").  
+
+Este desacuerdo refleja las **tensiones entre los conquistadores** por el control territorial y sus respectivas ambiciones. 
+
+**Relevancia cultural** 
+------------------------
+
+La **fundación de Quito** no solo marcó un hito en la **historia colonial ecuatoriana**, sino que también sentó las bases para el **desarrollo cultural y político del país**. La ciudad se convirtió rápidamente en un **centro importante** para la administración colonial española y un punto clave para las expediciones hacia otras regiones del continente. 
+
+Hoy en día, **Quito** es reconocida como **Patrimonio Cultural de la Humanidad** por la Unesco debido a su rica **herencia arquitectónica e histórica**. 
+
+### Te recomendamos:
+
+Música y teatro en la agenda de Quito para este 5, 6 y 7 de diciembre de 2024
+=============================================================================
+
+La agenda cultural de Quito contempla actividades para toda la familia.
+-----------------------------------------------------------------------
+
+![El cantante panameño Mach llegó a Quito para participar en 'El Fiestón 2024'. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T113019.546.jpg)
+
+**Conciertos**, obras de teatros y **recorridos** para todas las edades se cumplirán desde este 5 al 7 de **diciembre**. Muchas de esas actividades se cumplirán a propósito de las fiestas de **Quito**. 
+
+La **fiesta** arrancará este jueves 5 de diciembre con **‘El Fiestón 2024’**. La cita será en la **Plaza de Toros** y participarán varios artistas nacionales e internacionales.
 
 ### Más noticias:
 
-* [Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decreto-reduccion-tarifas-isd-2025.html "Daniel Noboa emitió un decreto sobre la reducción de tarifas del ISD para 2025")
-* [Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días](https://www.elcomercio.com/actualidad/seguridad/daniel-noboa-renueva-estado-excepcion-ocho-localidades.html "Gobierno de Daniel Noboa renueva estado de excepción en ocho localidades por 30 días")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html")
+* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html")
+* [El Quitofest reunirá a tres bandas nacionales luego de 12 años](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-bandas-debutantes-antiguas-quito-2024-rock.html "https://www.elcomercio.com/tendencias/entretenimiento/quitofest-bandas-debutantes-antiguas-quito-2024-rock.html")
 
-Daniel Noboa y el decreto ejecutivo sobre el IVA para 2025
-----------------------------------------------------------
+**‘El Fiestón 2024’ se toma la Plaza de Toros**
+-----------------------------------------------
 
-A través del Decreto Ejecutivo 470, el presidente **Daniel Noboa** dio una nueva disposición sobre el Impuesto al Valor Agregado (IVA) para 2025.
+A las 16:30 se abrirán las puertas del recinto que recibirá a **AU-D,** Don Medardo y sus Players, Mach and Daddy, Wilfrido Vargas, DJ Cantuña y más.
 
-Noboa decidió mantener la modificación de la **tarifa general** del Impuesto al Valor Agregado – IVA, del **13% al 15%**, para el año 2025.
+**Mach and Daddy** son reconocidos por temas como La botella, Las solteras, La juma. La primera canción se convirtió en un ‘himno’ en varios países de América Latina.
 
-Esto, considerando la recomendación y dictamen favorable del **Ministerio de Economía y Finanzas**.
+En ‘El Fiestón 2024’, los asistentes disfrutarán de la **música** de esos talentosos artistas, pero también de la gastronomía local.
 
-Este dictamen se exponen las condiciones de las finanzas públicas y de la **balanza de pagos**.
+**Concierto de Residente en la agenda**
+---------------------------------------
 
-El mandatario dispuso al **Servicio de Rentas Internas (SRI)** y al Ministerio de Economía y Finanzas el monitoreo y evaluación del impacto recaudatorio.
+Para este 5 de diciembre está prevista la presentación de **Residente**; el cantante puertorriqueño se presentará en el **Coliseo Rumiñahui.** Residente es conocido por temas como René, La vuelta al mundo, **Ojos color sol, Que fluya.**
 
-También, las condiciones de las **finanzas públicas y de la balanza de pagos**.
+> [View this post on Instagram](https://www.instagram.com/reel/DBKFqv9yls-/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by René Pérez Joglar (@residente)](https://www.instagram.com/reel/DBKFqv9yls-/?utm_source=ig_embed&utm_campaign=loading)
 
-El 12 de marzo se publicó en el **Registro Oficial** la **Ley Orgánica para Enfrentar el Conflicto Armado Interno, la Crisis Social y Económica.**
+**Tres días para disfrutar del Quitofest**
+------------------------------------------
 
-Esta Ley permitió reformar la **Ley de Régimen Tributario Interno** para que el Presidente de la República pueda modificar el IVA.
+Este 5, 6 y 7 de diciembre se realizará el **Quitofest 2024** en el parque **Bicentenario**. Este encuentro musical reunirá a 36 bandas nacionales e internacionales. En el primer día participarán representantes de cumbia y música urbana.
 
-Esto, previo dictamen favorable del ente rector de las finanzas públicas. En ningún caso la tarifa podrá ser inferior al **13% ni mayor al 15%**, “salvo las excepciones previstas en esta ley.”.
+> [View this post on Instagram](https://www.instagram.com/p/DDI_Q7rIgv1/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDI_Q7rIgv1/?utm_source=ig_embed&utm_campaign=loading)
 
-“Es importante tomar acciones económicas para garantizar los ingresos que coadyuven a la **sostenibilidad** de las finanzas públicas, la **estabilidad fiscal** y para enfrentar el **conflicto armado interno**“, señaló Noboa, en el decreto.
+**Teatro en Quito**
+-------------------
+
+‘Ñaños Viejos’ se llama la obra protagonizada por **Pancho Viñachi y Ave Jaramillo**; se representará desde este jueves hasta el sábado, a las 20:00, en el **Centro Cultural Casa Toledo**. Las entradas se venden en línea y boletería.
+
+> [View this post on Instagram](https://www.instagram.com/p/DDFVj_UPrNg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Centro Cultural Casa Toledo 🎭 (@casatoledoec)](https://www.instagram.com/p/DDFVj_UPrNg/?utm_source=ig_embed&utm_campaign=loading)
+
+**Una obra sobre hielo para todas las edades**
+----------------------------------------------
+
+‘**El Cascanueces’** sobre hielo se presentará este 7 de diciembre, desde las 18:00, en el teatro **San Gabriel**. Este espectáculo de navidad ha maravillado a millones de personas.
+
+Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre
+======================================================================
+
+La AMT puso en marcha un operativo con cierres viales alrededor del estadio. Además, los agentes controlarán autos mal parqueados
+---------------------------------------------------------------------------------------------------------------------------------
+
+![Agentes de tránsito gestionarán el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T110531.064.jpg)
+
+La **Agencia Metropolitana de Tránsito** (AMT) planificó un operativo para este sábado 7 de diciembre de 2024 por la realización del partido entre Liga de Quito e Independiente del Valle, en Quito.
+
+### Más noticias
+
+* [Controles de velocidad en Quito este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-jueves-5-de-diciembre.html "Controles de velocidad en Quito este jueves 5 de diciembre")
+* [Liga de Quito, IDV y una recordada final de Liga Pro](https://www.elcomercio.com/deportes/liga-pro-final-independiente-liga-2023-2024.html "Liga de Quito, IDV y una recordada final de Liga Pro")
+* [Av. Oswaldo Guayasamín está cerrada por siniestro de tránsito en Quito](https://www.elcomercio.com/actualidad/quito/puente-chiche-av-guayasamin-cerrada-siniestro-de-transito-quito.html "Av. Oswaldo Guayasamín está cerrada por siniestro de tránsito en Quito")
+
+Operativo de tránsito
+---------------------
+
+El partido se realizará en el **estadio Rodrigo Paz**, ubicado en la av. De la Prensa, por lo que las vías aledañas se incluyen en el operativo de cierres viales.
+
+El plan operativo se aplicará a partir de las 10:30 y se mantendrá hasta las 18:30.
+
+El partido está previsto desde las 15:30 hasta las 17:30; sin embargo, los agentes de tránsito gestionarán el flujo vehicular durante el día.
+
+Cierres viales
+--------------
+
+Las vías que estarán cerradas el sábado 7 de diciembre son las siguientes:
+
+* Av. Diego Vásquez de Cepeda y Cacica Quilago
+* Ramón Chiriboga y Jhon F. Kennedy
+* Ramón Chiriboga y Pablo Palacio
+* Ramón Chiriboga y Miguel Moreno
+* Ramón Chiriboga y Jacinto Morlán
+* Av. De la Prensa y David Ledesma
+* Av. De la Prensa y Gustavo Lemus
+* Av. De la Prensa y Pablo Picasso
+* Jhon F. Kennedy y Leonardo Da Vinci
+* Jhon F. Kennedy y Pablo Picasso
+* Jhon F. Kennedy y La Esperanza
+* Jhon F. Kennedy y Cacica Quilango
+* Gustavo Lemus y David Ledesma
+* La Esperanza y Camilo Guachamín
+* La Esperanza y Rembrandt
+* La Esperanza y Jhon F. Kennedy
+* Rembrandt y Vincent Van Gogh
+* Juana Terrazas y Tomasa Mideros
+* Juana Terrazas y Vincent Van Gogh
+
+Si necesitas [circular por el sector,](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") puedes tomar **estas vías alternas**:
+
+* Av. De la Prensa
+* Av. Diego Vásquez de Cepeda
+* Calle Ramón Chiriboga
+* Calle Pablo Picasso
+* Calle Gustavo Lemus
+* Calle Tomasa Mideros
+* Av. Mariscal Sucre
+* Calle Camilo Guachamín
+
+Los agentes de tránsito controlarán autos mal parqueados, te
+
+Embajada de EE. UU. alerta a ciudadanos tras tiroteo en Polanco
+===============================================================
+
+De acuerdo con la Secretaría de Seguridad y Protección Ciudadana de la Ciudad de México, el incidente ocurrió en un restaurante ubicado dentro de un centro comercial.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Embajada de EE. UU. alerta a ciudadanos tras tiroteo en Polanco.](https://www.elcomercio.com/wp-content/uploads/2024/12/Mexico-pistola-restaurante-.jpg)
+
+La **Embajada de Estados Unidos en México e**mitió este miércoles, 4 de diciembre de 2024, una alerta de seguridad para sus ciudadanos, instándolos a **evitar la zona de Polanco**, en la [Ciudad de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html"). Esto tras un tiroteo que dejó un saldo de una persona fallecida.
+
+### Más noticias
+
+* [Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles")
+* [Sheinbaum se opone a la extradición del exministro Walter Solís](https://www.elcomercio.com/actualidad/mundo/sheinbaum-defiende-extradite-exministro-ecuatoriano-solis-refugiado.html "Sheinbaum se opone a la extradición del exministro Walter Solís")
+* [Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-pide-calma-mercados-ante-aranceles-propuestos-trump.html "Claudia Sheinbaum pide ‘calma’ a los mercados ante aranceles propuestos por Donald Trump")
+
+La alerta fue publicada en el **sistema de información de emergencia** del sitio web oficial de la Embajada. Recomienda **“tener precaución y evitar el área”**. Polanco es reconocido como un centro residencial y comercial de alto nivel. Es frecuentado por **turistas y residentes extranjeros**, incluidos ciudadanos estadounidenses, señala CNN.
+
+Un ataque directo en zona concurrida
+------------------------------------
+
+De acuerdo con la **Secretaría de Seguridad** y **Protección Ciudadana de la Ciudad de México,** el incidente ocurrió en un restaurante ubicado dentro de un centro comercial. Testigos afirman que dos personas ingresaron al lugar y dispararon de manera directa contra un comensal. Estaba acompañado de tres personas más, las cuales huyeron del lugar tras el ataque.
+
+La **víctima falleció por una herida de arma de fuego en la cabeza**, según confirmaron las autoridades locales. Ya iniciaron una investigación y remitido los hechos al Ministerio Público. Este suceso generó preocupación debido a la ubicación del ataque en una zona considerada segura.
+
+La **Embajada también recordó a sus ciudadanos que la Ciudad de México** se encuentra en el segundo nivel de precaución dentro de los avisos de viaje emitidos por el Departamento de Estado de Estados Unidos. Dicho nivel advierte sobre **posibles riesgos en destinos turísticos** importantes, incluidos estados como Sinaloa y Guerrero, según CNN.
+
+La **noticia del ataque** y la alerta de seguridad fue cubierta por la CNN, resaltando la importancia de tomar precauciones en zonas concurridas de la capital mexicana.
+
+La fruta secreta para un sueño reparador 
+=========================================
+
+Esta fruta, rica en proteínas y magnesio, mejora la calidad del sueño.
+----------------------------------------------------------------------
+
+![Kiwi: fruta aliada para mejorar el sueño. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/fruta-sueno.jpg)
+
+El **insomnio** se ha convertido en un problema de **salud pública** en la sociedad moderna. Afecta a millones de personas y repercute negativamente en su bienestar. La búsqueda de **soluciones naturales** ha llevado a muchos a explorar opciones alimenticias que pueden mejorar la **calidad del sueño**. En este contexto, existe una **fruta pequeña pero poderosa**, ha ganado atención por sus propiedades únicas que pueden **ayudar a combatir el insomnio**. 
+
+### Más noticias
+
+* [Guayaba y canela, infusión con insospechados beneficios para la salud](https://www.elcomercio.com/tendencias/salud/guayaba-canela-infusion-bienestar-salud.html "https://www.elcomercio.com/tendencias/salud/guayaba-canela-infusion-bienestar-salud.html")
+* [La hierba para desintoxicar y limpiar el hígado de forma natural](https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html "https://www.elcomercio.com/tendencias/salud/hierba-desintoxica-limpia-higado-natural.html")
+
+**La fruta que mejora la calidad del sueño** 
+---------------------------------------------
+
+El **kiwi** es conocido por su **alto contenido en serotonina y antioxidantes**, componentes que juegan un papel crucial en la **regulación del sueño**. Según un estudio publicado por el Instituto Nacional de Salud de Estados Unidos, consumir dos kiwis una hora antes de acostarse puede **aumentar la duración total del sueño** hasta un 16,9% y mejorar su eficiencia, a decir de [Cronista](https://www.cronista.com/salud/adios-insomnio-la-fruta-llena-de-proteinas-y-magnesio-ideal-para-dormir-mejor/ "https://www.cronista.com/salud/adios-insomnio-la-fruta-llena-de-proteinas-y-magnesio-ideal-para-dormir-mejor/").  
+
+Esta fruta no solo es deliciosa, sino que también **ofrece beneficios significativos** para quienes luchan contra **trastornos del sueño**. 
+
+**Nutrientes esenciales** 
+--------------------------
+
+Los **nutrientes presentes en el kiwi**, según Informador, incluyen: 
+
+* **Proteínas:** Ayudan en la reparación y recuperación del cuerpo durante el sueño. 
+
+* **Magnesio:** Este mineral es fundamental para regular los ciclos de sueño y vigilia. 
+
+* **Vitamina C y E:** Antioxidantes que contribuyen a la salud general y al bienestar. 
+
+* **Triptófano:** Un aminoácido esencial que se convierte en serotonina, ayuda a regular el ciclo del sueño. 
+
+**Estudios recientes sobre el kiwi y el sueño** 
+------------------------------------------------
+
+Investigaciones recientes han demostrado que el **consumo de kiwi** puede tener un **impacto positivo** en los **patrones de sueño**. Un estudio realizado por investigadores de la **Universidad de Taipei** encontró que los participantes que **consumieron kiwi** antes de dormir se durmieron más rápido y disfrutaron de **un sueño más reparador**, de acuerdo con [Mundo Deportivo](https://www.mundodeportivo.com/actualidad/20220825/1001856180/vidae-6-frutas-promueven-sueno-adios-insomnio.html "https://www.mundodeportivo.com/actualidad/20220825/1001856180/vidae-6-frutas-promueven-sueno-adios-insomnio.html"). 
+
+Este efecto se atribuye a la capacidad del kiwi para **aumentar los niveles de serotonina**, lo cual es vital para una buena calidad del sueño. 
+
+**Comparación con otras frutas** 
+---------------------------------
+
+Aunque otras frutas como **las cerezas y los plátanos** también son conocidas por sus beneficios para el sueño, el kiwi destaca por su combinación única de nutrientes. Las cerezas son ricas en **melatonina**, mientras que los plátanos contienen **vitamina B6**, que ayuda a convertir el triptófano en serotonina, siguiendo con [Informador](https://www.informador.mx/estilo/Adios-al-insomnio-estas-son-las-frutas-que-promueven-el-sueno-20240507-0077.html "https://www.informador.mx/estilo/Adios-al-insomnio-estas-son-las-frutas-que-promueven-el-sueno-20240507-0077.html"). 
+
+Sin embargo, el kiwi ofrece un **perfil nutricional** más completo que puede ser más efectivo para mejorar la calidad del sueño. 
+
+**Recomendaciones para incorporar el kiwi en la dieta** 
+--------------------------------------------------------
+
+* Consumir dos kiwis una hora antes de acostarse. 
+
+* Incluir kiwis en ensaladas o batidos durante las cenas. 
+
+* Optar por kiwis frescos o deshidratados sin azúcares añadidos. 
+
+Además, es esencial **mantener hábitos saludables** como limitar la cafeína y establecer horarios regulares para las comidas. 
+
+### Te recomendamos:
