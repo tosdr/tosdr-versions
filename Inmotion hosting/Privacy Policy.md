@@ -2,9 +2,9 @@
 
 [Skip to content](#primary)
 
-Open Menu[![InMotion Hosting Logo](https://www.inmotionhosting.com/dslib/assets/logos/corporate/logo-imh.svg)InMotion Hosting Home](https://www.inmotionhosting.com/)[![Boldgrid Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/svg/boldgrid-logo.svg)](https://www.boldgrid.com/)[![RamNode Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/ramnode-logo.webp)](https://www.ramnode.com/)[![Web Ventures Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/webventures-logo.webp)](https://webventures.io/)[![Sprout Invoices Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/sprout-invoices-logo.webp)](https://sproutinvoices.com/)[![Elegant Marketplace Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/elegantmarketplace-logo.webp)](https://elegantmarketplace.com/)[![weForms Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/weforms-logo.webp)](https://www.weformspro.com/)[![Help Scout Desk Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/help-scout-logo.webp)](https://wphelpscout.com/)
+Open Menu [![InMotion Hosting Logo](https://www.inmotionhosting.com/dslib/assets/logos/corporate/logo-imh.svg) InMotion Hosting Home](https://www.inmotionhosting.com/)[![Boldgrid Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/svg/boldgrid-logo.svg)](https://www.boldgrid.com/)[![RamNode Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/ramnode-logo.webp)](https://www.ramnode.com/)[![Web Ventures Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/webventures-logo.webp)](https://webventures.io/)[![Sprout Invoices Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/sprout-invoices-logo.webp)](https://sproutinvoices.com/)[![Elegant Marketplace Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/elegantmarketplace-logo.webp)](https://elegantmarketplace.com/)[![weForms Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/weforms-logo.webp)](https://www.weformspro.com/)[![Help Scout Desk Logo](https://www.inmotionhosting.com/privacy/wp-content/themes/imh-responsive/assets/webp/help-scout-logo.webp)](https://wphelpscout.com/)
 
-* [Chat NowStart a Live Chat](javascript:void(0) "Chat Now")
+* [Chat Now Start a Live Chat](javascript:void(0) "Chat Now")
 * [Call Us](javascript:void(0) "Call Us")
     
     [+1 757 416 6575](tel:+17574166575 "Call +1 757 416 6575")
@@ -12,33 +12,33 @@ Open Menu[![InMotion Hosting Logo](https://www.inmotionhosting.com/dslib/assets/
     [+44 2045 763722](tel:+442045763722 "Call +44 2045 763722")
     
 * [Visit Our Support Center](https://www.inmotionhosting.com/support/ "Support")
-* [0Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [0 Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
 * [Live Chat](javascript:void(0) "Sales Chat")
 * [AMP Login](https://secure1.inmotionhosting.com/index/login "AMP Login")
-* [Shopping Cart0](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [Shopping Cart 0](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
 Close Menu Main Menu
 
 * [Web Hosting](https://www.inmotionhosting.com/web-hosting "Web Hosting")
     
-    [Shared HostingFast, Reliable & Secure](https://www.inmotionhosting.com/shared-hosting "Shared Hosting")
+    [Shared Hosting Fast, Reliable & Secure](https://www.inmotionhosting.com/shared-hosting "Shared Hosting")
     
-    [Reseller HostingWhite-label cPanel/WHM for Resellers](https://www.inmotionhosting.com/reseller-hosting "Reseller Hosting")
+    [Reseller Hosting White-label cPanel/WHM for Resellers](https://www.inmotionhosting.com/reseller-hosting "Reseller Hosting")
     
 * [WordPress](https://www.inmotionhosting.com/wordpress-hosting "WordPress")
     
     [![WordPress Logo](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/wordpress-black.svg)
     
-    WordPress HostingClassic Hosting with Email and cPanel Included](https://www.inmotionhosting.com/wordpress-hosting "WordPress Hosting")
+    WordPress Hosting Classic Hosting with Email and cPanel Included](https://www.inmotionhosting.com/wordpress-hosting "WordPress Hosting")
     
     [![WordPress Logo](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/wordpress-black.svg)
     
-    Managed WordPressSuperior Speed for Mission-Critical Sites](https://www.inmotionhosting.com/wordpress-hosting/managed-wordpress "Managed WordPress")
+    Managed WordPress Superior Speed for Mission-Critical Sites](https://www.inmotionhosting.com/wordpress-hosting/managed-wordpress "Managed WordPress")
     
     [![WooCommerce Hosting](https://www.inmotionhosting.com/dslib/assets/logos/3rd-party/woocommerce-size-a.svg)
     
-    WooCommerce HostingEngineered for Performance and Security](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
+    WooCommerce Hosting Engineered for Performance and Security](https://www.inmotionhosting.com/wordpress-hosting/woocommerce "WooCommerce Hosting")
     
 * [VPS Hosting](https://www.inmotionhosting.com/vps-hosting "VPS Hosting")
 * [Dedicated Servers](https://www.inmotionhosting.com/dedicated-servers "Dedicated Servers")
@@ -68,7 +68,7 @@ Close Menu Main Menu
     [+44 2045 763722](tel:+442045763722 "Call +44 2045 763722")
     
 * [Visit Our Support Center](https://www.inmotionhosting.com/support/ "Support")
-* [0Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
+* [0 Cart](https://secureorder.inmotionhosting.com/order-process "Go to Cart")
 
   [Support Center](https://www.inmotionhosting.com/support/ "Support")
 
