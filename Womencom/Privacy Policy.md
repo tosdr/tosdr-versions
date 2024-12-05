@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+*  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Fashion](https://www.women.com/category/fashion/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
     
-    [How Compatible Are Selena Gomez And Benny Blanco, According To Astrology?](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
-    =============================================================================================================================================================
+    [Taylor Swift's Best Preppy In Plaid Looks](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+    ================================================================================================================
     
-    Selena Gomez and Benny Blanco give us major couple goals. Both of their zodiac signs are true romantics at heart but, are they truly compatible?
+    Taylor Swift has experimented with different styles throughout her career, but has consistently rocked many looks that were preppy in plaid.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
     
-* *  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+* *  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+        
+        ### [How Compatible Are Selena Gomez And Benny Blanco, According To Astrology?](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+        
+        Selena Gomez and Benny Blanco give us major couple goals. Both of their zodiac signs are true romantics at heart but, are they truly compatible?
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+        
+    *  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
         
         [Living](https://www.women.com/category/living/)
         
@@ -66,22 +78,22 @@
         
         By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
         
-    *  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
-        
-        ### [Sex In A Long-Distance Relationship: What To Know And How To Make It Work](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
-        
-        Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
-        
 
 More Stories
 ------------
 
+*  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Amanda Chatel
+    
+    ### [Sex In A Long-Distance Relationship: What To Know And How To Make It Work](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+    
+    Even when you're not physically together, keeping your mind and body sexually engaged with each other is important for consistently maintaining that intimacy.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
+    
 *  [![Selena Gomez smiling at the SAG Awards with her hair in a slicked back bun](https://www.women.com/img/gallery/5-celebs-who-have-mastered-the-art-of-the-slicked-back-bun/intro-1732217500.jpg)](https://www.women.com/1719912/celebs-who-mastered-art-slicked-back-bun/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -393,18 +405,6 @@ More Stories
     Jennifer Lopez is known for her sexy red carpet looks, including many that show off her killer legs. Her mini dresses display the results of regular workouts.
     
     By Emily Hutchinson [Read More](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
-    
-*  [![Martha Stewart on the red carpet](https://www.women.com/img/gallery/martha-stewarts-style-has-completely-transformed-through-the-years/intro-1731513617.jpg)](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Martha Stewart's Style Has Completely Transformed Through The Years](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
-    
-    From her early years as a model to posting Instagram thirst traps as a grandmother, Martha Stewart has embraced every fashion trend over her long career.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
     
 
 Back
