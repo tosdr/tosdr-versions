@@ -19,6 +19,7 @@
     * [Drinkware](https://paladone.com/drinkware/)
     * [Puzzles & Games](https://paladone.com/puzzles-games/)
     * [Health & Beauty](https://paladone.com/health-beauty/)
+* [Resources](https://paladone.com/resources/)
 * [Articles](https://paladone.com/articles/)
 
 * [Trade Portal](https://paladone.com/trade-portal)
@@ -321,6 +322,7 @@ At the heart of our business are our staff, all gifting gurus, geeks and gamers,
     * [Drinkware](https://paladone.com/drinkware/)
     * [Puzzles & Games](https://paladone.com/puzzles-games/)
     * [Health & Beauty](https://paladone.com/health-beauty/)
+* [Resources](https://paladone.com/resources/)
 * [Articles](https://paladone.com/articles/)
 
 [](#)
