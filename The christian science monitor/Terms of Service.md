@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Humility
+
+### The new stoic Argentine](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1205/The-new-stoic-Argentine "The new stoic Argentine")
+
 [Honesty
 
 ### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
@@ -99,10 +103,6 @@ Recent Stories
 [Innovation
 
 ### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
-
-[Resilience
-
-### South Korea’s swift rescue of freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1204/South-Korea-s-swift-rescue-of-freedom "South Korea’s swift rescue of freedom")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### ‘Bonfire of the incumbents’ unseats governments worldwide in 2024](https://www.csmonitor.com/World/2024/1205/elections-defeat-incumbents "‘Bonfire of the incumbents’ unseats governments worldwide in 2024")
+
+[### He gunned down a CEO and escaped by bike. Who killed Brian Thompson?](https://www.csmonitor.com/USA/2024/1205/brian-thompson-masked-shooter-new-york-city-healthcare-ceo "He gunned down a CEO and escaped by bike. Who killed Brian Thompson?")
+
 [### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
-
-[### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
-
-[### No confidence: French lawmakers oust prime minister over budget woes](https://www.csmonitor.com/World/Europe/2024/1204/france-no-confidence-vote "No confidence: French lawmakers oust prime minister over budget woes")
 
 * * *
 
