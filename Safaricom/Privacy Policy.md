@@ -146,6 +146,18 @@ out of 5 based on
 
 > Dec 4, 2024
 
+> Prompt & knowledgeable
+
+> Prompt & knowledgeable
+
+Scott Millar
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 4, 2024
+
 > Great service from Denise at Safari.com
 
 > Denise from Safari.com was extremely helpful. She responded promptly, provided good advice on safari lodgings options and worked up a couple of itinerary options to suit our budget. Denise also organised flights and transfers very quickly so that we could finalize our booking in a short time. Much appreciated.
@@ -252,20 +264,6 @@ JUDITH ANN
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 28, 2024
-
-> Simple and straightforward to deal with
-
-> Quick, simple and painless. Shann was both patient and expert!
-
-5c9ui1bh
-
-,
-
-GB
-
 VIP service
 
 Your own personal travel assistant
@@ -330,10 +328,6 @@ Southern Africa Tourism Services Association (SATSA) – Member No. #1680
 African Travel & Tourism Association (ATTA) – Member No. #206430  
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
-
-  
-
-__
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
