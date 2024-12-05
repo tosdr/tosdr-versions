@@ -50,7 +50,7 @@
     
     Rules and resources to help you plan a local TEDx event](https://www.ted.com/participate/organize-a-local-tedx-event)[TED-Ed
     
-    Award-winning educational content and programs](https://www.ted.com/about/programs/ted-ed)[Translate
+    Award-winning educational content and programs](https://www.ted.com/about/programs-initiatives/ted-ed)[Translate
     
     Bring TED to the non-English speaking world](https://www.ted.com/participate/translate)[TED Fellows
     
@@ -89,6 +89,7 @@ Type to search
     * [Privacy Policy](https://www.ted.com/about/our-organization/our-policies-terms/privacy-policy)
     * [TED Science Standards](https://www.ted.com/about/our-organization/our-policies-terms/ted-science-standards)
     * [TED Content Guidelines](https://www.ted.com/about/our-organization/our-policies-terms/ted-content-guidelines)
+    * [TED’s Safeguarding Policy](https://www.ted.com/about/our-organization/our-policies-terms/ted-safeguarding-policy)
 * [Contact us](https://help.ted.com/hc/en-us)
     * [Press and media information](https://www.ted.com/about/our-organization/contact-us/press-and-media-information)
 
@@ -232,7 +233,7 @@ Explore
     
 * [TED Fellows](https://fellows.ted.com/)
     
-* [TED Ed](https://www.ted.com/about/programs/ted-ed)
+* [TED Ed](https://www.ted.com/about/programs-initiatives/ted-ed)
     
 * [TED Translators](https://www.ted.com/about/programs-initiatives/ted-translators)
     
