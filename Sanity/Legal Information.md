@@ -235,7 +235,7 @@ The client gains a Sanity access token, which is transmitted either as a cookie 
 
 ### [](https://www.sanity.io/security#d785910eec4b)Encryption
 
-All access to Sanity resources by end users is encrypted in transit with HTTPS transport layer security (TLS). Support for the older SSLv2, SSLv3, TLS 1.0 and TLS 1.1 protocols is disabled, as are several older cipher suites, since these have known security vulnerabilities. Internally, data is encrypted in transit and at rest as outlined under [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
+All access to Sanity resources by end users is encrypted in transit with HTTPS transport layer security (TLS). Support for the older SSLv2, SSLv3, TLS 1.0 and TLS 1.1 protocols is disabled, as are several older cipher suites, since these have known security vulnerabilities. Internally, data is encrypted in transit and at rest as outlined under [Infrastructure security](https://www.sanity.io/security#3eeb0b34dd08).
 
 ### [](https://www.sanity.io/security#67486cfc1499)Data Retention and Removal
 
@@ -252,7 +252,7 @@ We use continuous delivery to enable rapid and systematic development, testing, 
 
 ### [](https://www.sanity.io/security#97c2771ecf2c)Encryption
 
-All data is encrypted in transit and at rest as outlined in [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
+All data is encrypted in transit and at rest as outlined in [Infrastructure security](https://www.sanity.io/security#3eeb0b34dd08).
 
 ### [](https://www.sanity.io/security#1582b3996ecd)Access Control
 
@@ -262,7 +262,7 @@ Internal services are isolated from the Internet to the extent possible, and onl
 
 ### [](https://www.sanity.io/security#62c74f899e79)Data Retention and Removal
 
-All data is removed or anonymized as soon as possible after deletion or service cancellation, with a short grace period and backup retention as outlined in our terms of service to allow for recovery in the case of accidental or malicious removal. Users can also [contact us](https://www.sanity.io/contact) to have their data removed. Storage devices are securely decommissioned after use as outlined in [Infrastructure security](https://www.sanity.io/security#infrastructure-security).
+All data is removed or anonymized as soon as possible after deletion or service cancellation, with a short grace period and backup retention as outlined in our terms of service to allow for recovery in the case of accidental or malicious removal. Users can also [contact us](https://www.sanity.io/contact) to have their data removed. Storage devices are securely decommissioned after use as outlined in [Infrastructure security](https://www.sanity.io/security#3eeb0b34dd08).
 
 ### [](https://www.sanity.io/security#cc9a5c05fde6)Security Audits and Software Upgrades
 
