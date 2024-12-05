@@ -1,7 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjAwOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MjAwOjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
+* [Consumers](https://www.driverge.com/consumers/)
 * [Driverge Canada](https://wheelchairvans.ca/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
 * [Parts](https://www.driverge.com/support/commercial-van-parts/)
@@ -107,7 +108,7 @@ Search for:
 
 [Search](#)
 
-[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMyOjU1NQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjAwIDUzIiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjUzIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://www.driverge.com/)[![Driverge Vehicle Innovations](data:image/svg+xml;nitro-empty-id=MzMyOjEyMDc=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDIyMSIgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.driverge.com/)
+[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2020/01/cropped-Driverge-Horiz-Registerd-200x53.png)](https://www.driverge.com/)[![Driverge Vehicle Innovations](https://www.driverge.com/wp-content/uploads/2024/09/driverge-logo-transparent-white.png)](https://www.driverge.com/)
 
 Main Menu
 
@@ -205,6 +206,7 @@ Main Menu
         * [Training Videos](https://www.driverge.com/support/product-training-videos/)
 * [About](https://www.driverge.com/about/)
 
+* [Consumers](https://www.driverge.com/consumers/)
 * [Driverge Canada](https://wheelchairvans.ca/)
 * [News & Product Updates](https://www.driverge.com/about/driverge-news/)
 * [Parts](https://www.driverge.com/support/commercial-van-parts/)
@@ -373,15 +375,88 @@ General Information
 [Statement For Disadvantaged Business Enterprise (DBE)](https://www.driverge.com/dot-policy-statement/)  
 [General Disclaimer / Privacy Policy](https://www.driverge.com/general-disclaimer/)  
 [Cookie Preferences](#)  
+[DSAR Form](https://my.datasubject.com/Azyi59UTqqOjX3bPO/45169)  
 [Contact](https://www.driverge.com/contact/)  
 [Careers](https://www.driverge.com/about/careers/)  
-[855-337-9543](tel:18553379543)  
 [Sitemap](https://www.driverge.com/sitemap_index.xml)
 
 Copyright © 2024 All content property of Driverge Vehicle Innovations, LLC  
 \[#\] View All Disclosures
 
 [](https://www.facebook.com/drivergevehicleinnovations/)[](https://twitter.com/Drivergevi)[](https://www.linkedin.com/company/driverge)[](https://www.youtube.com/channel/UCEbofJJt5NFo8HnBlJQrBnQ/)
+
+Warranty Registration
+
+Warranty Registration
+---------------------
+
+"\*" indicates required fields
+
+### Vehicle Information
+
+All fields are required. Provide vehicle information and VIN(s) for up to 50 vehicles of the same year, make and model
+
+Year\*
+
+Make\*
+
+ChryslerDodgeFordMerecedes-BenzRAM
+
+Model\*
+
+Is/are the vehicle(s) purchased or leased?\*
+
+ Purchased
+
+ Leased
+
+End-User Purchase Date\*
+
+ MM slash DD slash YYYY
+
+End Use of Van(s)\*
+
+Contractor (plumbing, HVAC, electrical)Crew VanDelivery ServicesEducationGovernment (local, state, federal)HospitalityLaw EnforcementMobile OfficeMortuaryNon-Emergency Transportation (paratransit, rehab, skilled nursing elderly care)Personal/Home useRideshareSecure Transport (cannabis)Utilities (water, electric, natural gas)
+
+Vehicle Identification Number VIN(s)\*
+
+Click the "+" to add more than (1) VIN, enter up to 50 VINs. 17 characters, no spaces, the letter “o” cannot be used as a zero, all letters should be capitalized.
+
+VIN
+
+Mileage
+
+Add Remove
+
+### End User / Buyer Information
+
+Name\*
+
+First Name  Last Name 
+
+Company Name (if applicable)
+
+Email\*
+
+Phone\*
+
+Address\*
+
+Street Address  Address Line 2  City  State / Province / Region  ZIP / Postal Code  Country AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntarcticaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBoliviaBonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBouvet IslandBrazilBritish Indian Ocean TerritoryBrunei DarussalamBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileChinaChristmas IslandCocos IslandsColombiaComorosCongoCongo, Democratic Republic of theCook IslandsCosta RicaCroatiaCubaCuraçaoCyprusCzechiaCôte d'IvoireDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland IslandsFaroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHeard Island and McDonald IslandsHoly SeeHondurasHong KongHungaryIcelandIndiaIndonesiaIranIraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKorea, Democratic People's Republic ofKorea, Republic ofKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMacaoMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesiaMoldovaMonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorth MacedoniaNorthern Mariana IslandsNorwayOmanPakistanPalauPalestine, State ofPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRomaniaRussian FederationRwandaRéunionSaint BarthélemySaint Helena, Ascension and Tristan da CunhaSaint Kitts and NevisSaint LuciaSaint MartinSaint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint MaartenSlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth Georgia and the South Sandwich IslandsSouth SudanSpainSri LankaSudanSurinameSvalbard and Jan MayenSwedenSwitzerlandSyria Arab RepublicTaiwanTajikistanTanzania, the United Republic ofThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkmenistanTurks and Caicos IslandsTuvaluTürkiyeUS Minor Outlying IslandsUgandaUkraineUnited Arab EmiratesUnited KingdomUnited StatesUruguayUzbekistanVanuatuVenezuelaViet NamVirgin Islands, BritishVirgin Islands, U.S.Wallis and FutunaWestern SaharaYemenZambiaZimbabweÅland Islands
+
+### Selling Company / Dealership Information
+
+Name of Company/Dealership\*
+
+Dealership City, State\*
+
+Sales Representative's Name\*
+
+        
+
+Δ
+
+×
 
 ### Whitepaper - Ford Transit Seating Layouts
 
@@ -406,7 +481,7 @@ When designing your custom wheelchair accessible vehicle, floor plan configurati
 
 ×
 
-![](data:image/svg+xml;nitro-empty-id=NzE1OjU5Mw==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzc4IDMxNCIgd2lkdGg9Ijc3OCIgaGVpZ2h0PSIzMTQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](https://www.driverge.com/wp-content/uploads/2022/01/driverge-cannabis-laws-and-regulations.png)
 
 Please fill out the form below to receive immediate access to our Laws and Regulations for Transporting Cannabis by State whitepaper.
 
