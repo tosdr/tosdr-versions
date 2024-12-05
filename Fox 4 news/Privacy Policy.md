@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![80-year-old woman missing in West Dallas, may need assistance](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/linda-missing.png?ve=1&tl=1)
+ [![Watch live: Tsunami warnings issued after earthquakes strike northern California](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/quakes-copy.jpg?ve=1&tl=1)
 
- ![80-year-old woman missing in West Dallas, may need assistance](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/linda-missing.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/linda-birdow-walker-missing)
+ ![Watch live: Tsunami warnings issued after earthquakes strike northern California](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/quakes-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tsunami-warnings-northern-california-earthquake-12052024)
 
-### [80-year-old woman missing in West Dallas, may need assistance](https://www.fox4news.com/news/linda-birdow-walker-missing)
+### [Watch live: Tsunami warnings issued after earthquakes strike northern California](https://www.fox4news.com/news/tsunami-warnings-northern-california-earthquake-12052024)
 
- [![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/buttecounty.jpg?ve=1&tl=1)
+ [![North Texas CFO with past conviction sentenced after defrauding another company](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/9f043d16-1632528_G_1440119474968_115476_ver1.0_640_360.jpg?ve=1&tl=1)
 
- ![Suspected gunman dead, 2 students injured after school shooting in California](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/buttecounty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/school-shooting-oroville-california)
+ ![North Texas CFO with past conviction sentenced after defrauding another company](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/9f043d16-1632528_G_1440119474968_115476_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-cfo-jon-rush-sentenced-wire-fraud)
 
-### [Suspected gunman dead, 2 students injured after school shooting in California](https://www.fox4news.com/news/school-shooting-oroville-california)
+### [North Texas CFO with past conviction sentenced after defrauding another company](https://www.fox4news.com/news/keller-cfo-jon-rush-sentenced-wire-fraud)
 
- [![Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/10/32/18/1015-Patrick.png?ve=1&tl=1)
+ [![This kind of drinking is even worse than binge drinking](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/drinking-alcohol-getty.jpg?ve=1&tl=1)
 
- ![Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2023/10/32/18/592/333/1015-Patrick.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-lt-gov-dan-patrick-launches-legislative-initiative-ban-all-thc)
+ ![This kind of drinking is even worse than binge drinking](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/drinking-alcohol-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/high-intensity-drinking-even-worse-binge-drinking)
 
-### [Texas Lt. Gov. Dan Patrick launches legislative initiative to ban all THC from being sold in Texas](https://www.fox4news.com/news/texas-lt-gov-dan-patrick-launches-legislative-initiative-ban-all-thc)
+### [This kind of drinking is even worse than binge drinking](https://www.fox4news.com/news/high-intensity-drinking-even-worse-binge-drinking)
 
- [![Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/hunter-biden1.jpg?ve=1&tl=1)
+ [![UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/suspect.jpg?ve=1&tl=1)
 
- ![Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/hunter-biden1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/smiling-hunter-biden-seen-first-photos-since-receiving-presidential-pardon)
+ ![UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/suspect.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-assassin-believed-have-left-message-scene-bullet-casings-report)
 
-### [Smiling Hunter Biden seen in first photos since receiving presidential pardon](https://www.fox4news.com/news/smiling-hunter-biden-seen-first-photos-since-receiving-presidential-pardon)
+### [UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://www.fox4news.com/news/unitedhealthcare-ceo-assassin-believed-have-left-message-scene-bullet-casings-report)
 
- [![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1)
+ [![Missing 80-year-old West Dallas woman found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/linda-missing.png?ve=1&tl=1)
 
- ![Dallas surgeon helps Ukrainian soldiers injured in battle](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-alex-surgeon-ukraine-mercy-mission-4p_00.00.00.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
+ ![Missing 80-year-old West Dallas woman found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/linda-missing.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/linda-birdow-walker-missing-found)
 
-### [Dallas surgeon helps Ukrainian soldiers injured in battle](https://www.fox4news.com/news/dallas-surgeon-helps-ukrainian-soldiers-injured-battle)
+### [Missing 80-year-old West Dallas woman found safe](https://www.fox4news.com/news/linda-birdow-walker-missing-found)
 
 ###### [News](https://www.fox4news.com/news)
 
