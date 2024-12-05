@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
+_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
