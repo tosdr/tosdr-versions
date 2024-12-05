@@ -117,7 +117,7 @@ Verkada, Inc. 406 E. 3rd Ave, San Mateo, CA 94401
     * [Dome Cameras](https://www.verkada.com/security-cameras/dome)
     * [Fisheye Cameras](https://www.verkada.com/security-cameras/fisheye)
     * [PTZ Cameras](https://www.verkada.com/security-cameras/ptz)
-    * [LPR Cameras](https://www.verkada.com/security-cameras/lpr)
+    * [LPR Cameras](https://www.verkada.com/security-cameras/license-plate-recognition/)
     * [Alarm Systems](https://www.verkada.com/alarms)
     * [Access Control](https://www.verkada.com/access-control)
     * [Air Quality Monitoring](https://www.verkada.com/air-quality/sensors)
