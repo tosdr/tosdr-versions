@@ -16,6 +16,18 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
+    
+    Dec 4, 2024 | 5:17 PM EST
+    
+    ### [Xbox’s 2024 ‘Year in Review’ is here](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
+    
+    [](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
+    
+    Dec 4, 2024 | 3:11 PM EST
+    
+    ### [Ubisoft to shut down XDefiant, close two studios](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
+    
     [](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
     
     Dec 3, 2024 | 4:43 PM EST
@@ -40,19 +52,19 @@
     
     ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
     
-    [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
-    
-    Nov 29, 2024 | 8:00 AM EST
-    
-    ### [These were Canada’s best-selling games in October 2024](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
-    
-    [](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
-    
-    Nov 28, 2024 | 7:03 PM EST
-    
-    ### [Beloved Canadian indie Balatro gets mobile boost amid The Game Awards nominations](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
+        
+        Dec 4, 2024 | 5:17 PM EST
+        
+        ### [Xbox’s 2024 ‘Year in Review’ is here](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
+        
+        [](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
+        
+        Dec 4, 2024 | 3:11 PM EST
+        
+        ### [Ubisoft to shut down XDefiant, close two studios](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
         
         [](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
         
@@ -78,56 +90,44 @@
         
         ### [Mandragora is a beautiful ‘Soulsvania’ and I can’t for the official release](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
         
-        [](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
-        
-        Nov 29, 2024 | 8:00 AM EST
-        
-        ### [These were Canada’s best-selling games in October 2024](https://mobilesyrup.com/2024/11/29/canada-best-selling-games-october-2024-call-of-duty-dragon-ball-mario/)
-        
-        [](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
-        
-        Nov 28, 2024 | 7:03 PM EST
-        
-        ### [Beloved Canadian indie Balatro gets mobile boost amid The Game Awards nominations](https://mobilesyrup.com/2024/11/28/beloved-canadian-indie-game-balatro-mobile-success-the-game-awards-nominations/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
     
-    [](https://mobilesyrup.com/2024/12/03/iphone-patent-user-configurable-buttons/)
+    [](https://mobilesyrup.com/2024/12/04/tim-cook-says-apple-plan-to-charge-ai-features/)
     
-    Dec 3, 2024 | 5:24 PM EST
+    Dec 4, 2024 | 6:25 PM EST
     
-    ### [iPhone patent showcases more user-configurable buttons](https://mobilesyrup.com/2024/12/03/iphone-patent-user-configurable-buttons/)
+    ### [Tim Cook says Apple doesn’t plan to charge for AI features](https://mobilesyrup.com/2024/12/04/tim-cook-says-apple-plan-to-charge-ai-features/)
     
-    [](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
+    [](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
     
-    Dec 3, 2024 | 4:43 PM EST
+    Dec 4, 2024 | 5:17 PM EST
     
-    ### [MSI reveals Claw 8 AI and Claw 7 AI+ gaming handhelds](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
+    ### [Xbox’s 2024 ‘Year in Review’ is here](https://mobilesyrup.com/2024/12/04/xbox-2024-spotify-year-in-review/)
     
-    [](https://mobilesyrup.com/2024/12/03/oneplus-13-canada-january/)
+    [](https://mobilesyrup.com/2024/12/04/xreal-one-pro-ar-glasses/)
     
-    Dec 3, 2024 | 4:27 PM EST
+    Dec 4, 2024 | 4:27 PM EST
     
-    ### [OnePlus 13 launches in Canada in January](https://mobilesyrup.com/2024/12/03/oneplus-13-canada-january/)
+    ### [Xreal announces new One and One Pro AR glasses](https://mobilesyrup.com/2024/12/04/xreal-one-pro-ar-glasses/)
     
-    [](https://mobilesyrup.com/2024/12/03/google-finally-adds-waze-incident-reports-to-google-maps/)
+    [](https://mobilesyrup.com/2024/12/04/meta-plans-to-stop-over-moderating-content/)
     
-    Dec 3, 2024 | 3:38 PM EST
+    Dec 4, 2024 | 3:55 PM EST
     
-    ### [Google finally adds Waze incident reports to Google Maps](https://mobilesyrup.com/2024/12/03/google-finally-adds-waze-incident-reports-to-google-maps/)
+    ### [Meta plans to stop over-moderating content](https://mobilesyrup.com/2024/12/04/meta-plans-to-stop-over-moderating-content/)
     
-    [](https://mobilesyrup.com/2024/12/03/pixel-temperature-too-hot/)
+    [](https://mobilesyrup.com/2024/12/04/toronto-spotify-wrapped/)
     
-    Dec 3, 2024 | 3:18 PM EST
+    Dec 4, 2024 | 3:26 PM EST
     
-    ### [Pixel can tell you if your phone is too hot](https://mobilesyrup.com/2024/12/03/pixel-temperature-too-hot/)
+    ### [Spotify made a Wrapped just for Toronto, here’s what the 6ix listened to in 2024](https://mobilesyrup.com/2024/12/04/toronto-spotify-wrapped/)
     
-    [](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
+    [](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
     
-    Dec 3, 2024 | 2:26 PM EST
+    Dec 4, 2024 | 3:11 PM EST
     
-    ### [Monument Valley 3 is perfect for Netflix Games](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
+    ### [Ubisoft to shut down XDefiant, close two studios](https://mobilesyrup.com/2024/12/04/ubisoft-xdefiant-shut-down-studio-closures/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -207,6 +207,12 @@
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
+        [](https://mobilesyrup.com/2024/12/03/intel-second-generation-graphics-cards/)
+        
+        Dec 3, 2024 | 6:25 PM EST
+        
+        ### [Intel releases its second generation of graphics cards](https://mobilesyrup.com/2024/12/03/intel-second-generation-graphics-cards/)
+        
         [](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
         
         Dec 3, 2024 | 4:43 PM EST
@@ -237,13 +243,19 @@
         
         ### [Google may be moving Chromebooks to Android](https://mobilesyrup.com/2024/11/20/google-may-be-moving-chromebooks-to-android/)
         
-        [](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
-        
-        Nov 11, 2024 | 4:15 PM EST
-        
-        ### [Apple execs say Mac mini power button on bottom due to size restraints](https://mobilesyrup.com/2024/11/11/apple-execs-mac-mini-power-button-bottom-size-restraints/)
-        
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
+        
+        [](https://mobilesyrup.com/2024/12/04/meta-plans-to-stop-over-moderating-content/)
+        
+        Dec 4, 2024 | 3:55 PM EST
+        
+        ### [Meta plans to stop over-moderating content](https://mobilesyrup.com/2024/12/04/meta-plans-to-stop-over-moderating-content/)
+        
+        [](https://mobilesyrup.com/2024/12/04/spotify-wrapped-2024/)
+        
+        Dec 4, 2024 | 8:00 AM EST
+        
+        ### [Spotify’s 2024 Wrapped will show how your music taste evolved over the year](https://mobilesyrup.com/2024/12/04/spotify-wrapped-2024/)
         
         [](https://mobilesyrup.com/2024/12/03/google-finally-adds-waze-incident-reports-to-google-maps/)
         
@@ -268,18 +280,6 @@
         Dec 2, 2024 | 4:32 PM EST
         
         ### [Threads working on ability to add new default feeds](https://mobilesyrup.com/2024/12/02/threads-working-on-ability-to-add-new-default-feeds/)
-        
-        [](https://mobilesyrup.com/2024/12/02/cineplex-ticket-prices-increase-canada/)
-        
-        Dec 2, 2024 | 4:13 PM EST
-        
-        ### [Cineplex just quietly increased ticket prices across Canada](https://mobilesyrup.com/2024/12/02/cineplex-ticket-prices-increase-canada/)
-        
-        [](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
-        
-        Dec 2, 2024 | 9:47 AM EST
-        
-        ### [PSA: Watch out for scams related to the Canada Post strike](https://mobilesyrup.com/2024/12/02/psa-watch-out-for-scams-related-to-the-canada-post-strike/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -435,6 +435,18 @@
         
     * [AI](https://mobilesyrup.com/categories/news/news-ai/)
         
+        [](https://mobilesyrup.com/2024/12/04/tim-cook-says-apple-plan-to-charge-ai-features/)
+        
+        Dec 4, 2024 | 6:25 PM EST
+        
+        ### [Tim Cook says Apple doesn’t plan to charge for AI features](https://mobilesyrup.com/2024/12/04/tim-cook-says-apple-plan-to-charge-ai-features/)
+        
+        [](https://mobilesyrup.com/2024/12/04/heres-canadas-spotify-wrapped-for-2024/)
+        
+        Dec 4, 2024 | 11:16 AM EST
+        
+        ### [Here’s Canada’s Spotify Wrapped for 2024](https://mobilesyrup.com/2024/12/04/heres-canadas-spotify-wrapped-for-2024/)
+        
         [](https://mobilesyrup.com/2024/11/29/news-organization-canada-seek-organization-open-ai/)
         
         Nov 29, 2024 | 2:29 PM EST
@@ -458,18 +470,6 @@
         Nov 20, 2024 | 3:27 PM EST
         
         ### [Pokémon Go players have unwittingly been mapping the world](https://mobilesyrup.com/2024/11/20/pokemon-go-players-mapping-the-world/)
-        
-        [](https://mobilesyrup.com/2024/11/14/meet-the-ai-thats-tricking-scammers/)
-        
-        Nov 14, 2024 | 7:02 PM EST
-        
-        ### [Meet the AI that’s tricking scammers into talking about the weather](https://mobilesyrup.com/2024/11/14/meet-the-ai-thats-tricking-scammers/)
-        
-        [](https://mobilesyrup.com/2024/11/14/gemini-app-on-iphone/)
-        
-        Nov 14, 2024 | 10:40 AM EST
-        
-        ### [Dedicated Gemini app is now available on iOS](https://mobilesyrup.com/2024/11/14/gemini-app-on-iphone/)
         
     * [Deals](https://mobilesyrup.com/categories/deals/)
         
@@ -512,6 +512,12 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
+    
+    Dec 4, 2024 | 6:00 AM EST
+    
+    ### [Fantasian Neo Dimension is a new lease on life for a modern RPG classic](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
+    
     [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
     
     Dec 1, 2024 | 11:09 AM EST
@@ -541,12 +547,6 @@
     Nov 24, 2024 | 11:03 AM EST
     
     ### [Razer’s Blackwidow V4 Pro 75% brought typing bliss to my fingers](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
-    
-    [](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
-    
-    Nov 23, 2024 | 10:58 AM EST
-    
-    ### [The Boox Go 6 finally made me an e-reader fan](https://mobilesyrup.com/2024/11/23/boox-go-6-e-reader-review/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -740,6 +740,12 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
+        
+        Dec 4, 2024 | 6:00 AM EST
+        
+        ### [Fantasian Neo Dimension is a new lease on life for a modern RPG classic](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
+        
         [](https://mobilesyrup.com/2024/12/01/mandragora-playtest-preview/)
         
         Dec 1, 2024 | 11:09 AM EST
@@ -769,12 +775,6 @@
         Nov 16, 2024 | 2:27 PM EST
         
         ### [Dragon Quest III HD-2D Remake is the perfect blast from the past](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
-        
-        [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
-        
-        Nov 10, 2024 | 2:07 PM EST
-        
-        ### [Xbox Series X All-Digital Review: A small discount, same Xbox](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
