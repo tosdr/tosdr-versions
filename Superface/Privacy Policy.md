@@ -10,6 +10,8 @@ Top Strategic Technology Trends for 2025](https://www.gartner.com/en/articles/in
 
 [AI Agent](https://superface.ai/agent)
 
+[Sales Agent](https://superface.ai/solutions/sales)
+
 [Blog](https://superface.ai/blog)
 
 [Docs](https://docs.superface.ai/)
