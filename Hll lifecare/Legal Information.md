@@ -70,9 +70,9 @@ These terms and conditions shall be governed by the laws of the Republic of Indi
 
 **News:**
 
-* [HINDLABS inaugurates New Centre at Kowdiar : HINDLABS inaugurates New Centre at Kowdiar -Press Release 11 July 2024](http://www.lifecarehll.com/media/reportview/reference/bcbe3365e6ac95ea2c0343a2395834ddhoGE)
-* [HLL introduces “Makesure” Rapid Diagnostic Antibody Kit for Corona detection : HLL introduces “Makesure” Rapid Diagnostic…](http://www.lifecarehll.com/media/reportview/reference/bd686fd640be98efaae0091fa301e613hYiF)
-* [COVID – 19: HLL Sets up Emergency Procurement and Response Team : COVID – 19: HLL Sets up Emergency Procurement and Response Team](http://www.lifecarehll.com/media/reportview/reference/58a2fc6ed39fd083f55d4182bf88826dhYiE)
+* [HINDLABS inaugurates New Centre at Kowdiar : HINDLABS inaugurates New Centre at Kowdiar -Press Release 11 July 2024](https://www.lifecarehll.com/media/reportview/reference/bcbe3365e6ac95ea2c0343a2395834ddhoGE)
+* [HLL introduces “Makesure” Rapid Diagnostic Antibody Kit for Corona detection : HLL introduces “Makesure” Rapid Diagnostic…](https://www.lifecarehll.com/media/reportview/reference/bd686fd640be98efaae0091fa301e613hYiF)
+* [COVID – 19: HLL Sets up Emergency Procurement and Response Team : COVID – 19: HLL Sets up Emergency Procurement and Response Team](https://www.lifecarehll.com/media/reportview/reference/58a2fc6ed39fd083f55d4182bf88826dhYiE)
 
 * [](http://www.lifecarehll.com/page/render/reference/Services)
 * [](http://www.hindlabs.in/)
