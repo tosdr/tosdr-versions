@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/5dbc413d-ec40-48e9-840f-4ab588084b94/5dbc413d-ec40-48e9-840f-4ab588084b94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5dbc413d-ec40-48e9-840f-4ab588084b94/5dbc413d-ec40-48e9-840f-4ab588084b94_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-city-councilmember-tammy-morales-resigns/281-cd74c21d-416f-44d6-a17a-e7785ebaa635)
+    *  [![](https://media.king5.com/assets/KING/images/93b6dd07-0439-495b-b4d3-8ce43d5cea6c/20241205T015017/93b6dd07-0439-495b-b4d3-8ce43d5cea6c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/93b6dd07-0439-495b-b4d3-8ce43d5cea6c/20241205T015017/93b6dd07-0439-495b-b4d3-8ce43d5cea6c_360x203.jpg)](https://www.king5.com/article/money/lynnwood-city-council-approves-property-tax-increase/281-7c35a03d-9a58-4d5d-b18e-c3acd7215e57)
         
-        #### [Morales says she's worried about Seattle City Council's future, announces resignation](https://www.king5.com/article/news/local/seattle/seattle-city-councilmember-tammy-morales-resigns/281-cd74c21d-416f-44d6-a17a-e7785ebaa635)
+        #### [Lynnwood City Council approves 52% property tax increase to fund $420 million budget](https://www.king5.com/article/money/lynnwood-city-council-approves-property-tax-increase/281-7c35a03d-9a58-4d5d-b18e-c3acd7215e57)
         
-    *  [![](https://media.king5.com/assets/KING/images/bbe663f8-35aa-47d9-b936-52b5953d6fef/20241116T205130/bbe663f8-35aa-47d9-b936-52b5953d6fef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bbe663f8-35aa-47d9-b936-52b5953d6fef/20241116T205130/bbe663f8-35aa-47d9-b936-52b5953d6fef_360x203.jpg)](https://www.king5.com/article/news/crime/suspects-charged-seattle-armed-robberies-court/281-20186012-5525-4d78-bee2-70e392d4990d)
+    *  [![](https://media.king5.com/assets/KING/images/3d3eb0ef-a4f7-441a-ad3e-fd683b73fb96/20241205T010608/3d3eb0ef-a4f7-441a-ad3e-fd683b73fb96_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3d3eb0ef-a4f7-441a-ad3e-fd683b73fb96/20241205T010608/3d3eb0ef-a4f7-441a-ad3e-fd683b73fb96_360x203.jpg)](https://www.king5.com/article/news/local/residents-evacuate-from-bellevue-house-on-fire/281-4695aebb-7dcd-4a84-a63e-9a5eded4c6fe)
         
-        #### [2 suspects charged in Seattle armed robberies plead not guilty](https://www.king5.com/article/news/crime/suspects-charged-seattle-armed-robberies-court/281-20186012-5525-4d78-bee2-70e392d4990d)
+        #### [Residents safely evacuate from Bellevue house on fire](https://www.king5.com/article/news/local/residents-evacuate-from-bellevue-house-on-fire/281-4695aebb-7dcd-4a84-a63e-9a5eded4c6fe)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/57985d65-c283-4d1e-80e1-0dd11dcdaa36/20241205T013228/57985d65-c283-4d1e-80e1-0dd11dcdaa36_16x9.jpg) ![](https://media.king5.com/assets/KING/images/57985d65-c283-4d1e-80e1-0dd11dcdaa36/20241205T013228/57985d65-c283-4d1e-80e1-0dd11dcdaa36_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_16x9.jpg) ![](https://media.king5.com/assets/KING/images/43c662e7-a28d-43fa-aa3d-cfed719a1751/20241204T130829/43c662e7-a28d-43fa-aa3d-cfed719a1751_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
         
         #### [Dense Fog Advisory expires after hazardous driving conditions throughout Puget Sound area](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-seattle-tacoma-everett-olympia-bremerton/281-128a1803-30d9-40fd-a556-6f05170c0620)
-        
-    *  [![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79/20241204T132242/3be6b23a-8970-42d0-8ad1-d9cdc80a8a79_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+36°
 
-![Fog](/assets/shared-images/weather-icons/fog-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
