@@ -2,7 +2,7 @@
 
 [The Science](https://www.headspace.com/science)[Blog](https://www.headspace.com/articles/all-articles)[For work](https://www.headspace.com/work)[How to meditate](https://www.headspace.com/meditation-101/what-is-meditation)[Help](https://help.headspace.com/hc/en-us)
 
-[Log In](https://www.headspace.com/login)[Start free trial](https://www.headspace.com/checkout?voucherCode=BF2024A)
+[Log In](https://www.headspace.com/login)[Start free trial](https://www.headspace.com/subscriptions)
 
 [![Headspace logo](/static/images/logo.svg)](https://www.headspace.com/)
 
