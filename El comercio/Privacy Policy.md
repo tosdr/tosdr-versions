@@ -31,37 +31,115 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Ineficiencia judicial por falta de jueces
-=========================================
+Av. Oswaldo Guayasamín está cerrada por siniestro de tránsito en Quito
+======================================================================
 
-La ausencia de jueces titulares afecta la eficiencia judicial y erosiona la confianza en la justicia ecuatoriana.
------------------------------------------------------------------------------------------------------------------
+Cinco personas resultaron heridas en un siniestro de tránsito en el antiguo puente del río Chiche. Los bomberos asisten a los afectados
+---------------------------------------------------------------------------------------------------------------------------------------
 
-![Desde el 2019 no se logra concretar la selección de jueces en Ecuador: Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/justicia_ciega_720.png)
+![El Cuerpo de Bomberos atiende la emergencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T073852.925.jpg)
 
-La falta de integración de la Corte Nacional de Justicia (CNJ) de Ecuador, desde 2019, genera repercusiones en la ciudadanía y en la función judicial. En primer lugar, esta situación no solo afecta la eficiencia del sistema judicial, sino que también erosiona la confianza pública en la justicia.
+El **Cuerpo de Bomberos** informó este jueves 5 de diciembre sobre la atención a una **emergencia** registrada en el antiguo puente del Chiche, en Puembo.
 
-Por ejemplo, la ausencia de jueces titulares provoca retrasos en los procesos legales y conduce a una mayor percepción de un sistema judicial ineficaz.
+### Más noticias
 
-Adicionalmente, el proceso para llenar estas vacantes se caracteriza por ser lento, complicado y, en varias ocasiones, se presentaron [irregularidades.](https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html "https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html")
+* [Así funciona el Pico y placa en Quito este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-jueves-5-de-diciembre.html "Así funciona el Pico y placa en Quito este jueves 5 de diciembre")
+* [Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre](https://www.elcomercio.com/actualidad/quito/cronograma-controles-de-velocidad-quito-hasta-viernes-13-de-diciembre.html "Cronograma de controles de velocidad en Quito hasta el viernes 13 de diciembre")
+* [Cortes de luz en Quito para este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-5-diciembre.html "Cortes de luz en Quito para este jueves 5 de diciembre")
 
-> Es importante señalar que, desde hace más de cinco años no se realiza un [concurso efectivo](https://www.funcionjudicial.gob.ec/concursos-corte-nacional/ "https://www.funcionjudicial.gob.ec/concursos-corte-nacional/") para seleccionar nuevos jueces. Como resultado, esto deja un vacío crítico en la administración de justicia.
+Siniestro dejó personas heridas
+-------------------------------
 
-Además, la falta de renovación en el sistema judicial puede resultar en una falta de diversidad y representación en las decisiones judiciales. De esta forma, se afecta el principio de justicia equitativa.
+El **Cuerpo de Bomberos Quito i**nformó que un camión sufrió un siniestro de tránsito en el antiguo puente del **río Chiche**, en la vía que conduce **a Puembo.**
 
-Por otra parte, el impacto se extiende a la percepción pública del sistema judicial. En este sentido, la capacidad del Consejo de la Judicatura para gestionar adecuadamente el proceso de selección está en entredicho, lo que alimenta el ciclo de desconfianza hacia las instituciones.
+En fotos compartidas en redes sociales se pudo ver a un camión de carga impactado de frente contra un vehículo pequeño azul.
 
-En definitiva, sin una judicatura robusta y competente, se corre el riesgo de que los derechos ciudadanos no se protejan adecuadamente. Esto, a su vez, ahonda la insatisfacción social y afecta la garantía del respeto a los derechos.
+Los efectivos del Cuerpo de Bomberos acudieron al sitio para brindar atención a las **personas afectadas**.
 
-Por otro lado, este vacío despierta los intereses políticos que buscan influir en el poder judicial. En consecuencia, un sistema judicial debilitado es más susceptible a presiones externas, comprometiendo su independencia y su función como garante del estado de derecho.
+Vía cerrada en el antiguo puente del Chiche
+-------------------------------------------
 
-> Finalmente, la falta de jueces calificados puede llevar a decisiones judiciales cuestionables, afectando la legitimidad del sistema.
+La **vía se cerró totalmente** mientras se solventa la emergencia.
 
-En conclusión, llenar las vacantes de jueces es crucial no solo para garantizar una administración efectiva de justicia, sino también para restaurar la confianza pública en el sistema judicial.
+Según información preliminar, **cinco personas están heridas**. Los paramédicos les brindan atención de primeros auxilios y evaluarán su estado de salud.
 
-Por ello, concretar los procesos de selección y garantizar un enfoque transparente y meritocrático para asegurar que los mejores candidatos asuman estos roles vitales no puede seguir extendiéndose más tiempo.
+El **Cuerpo de Bomberos** designó a 12 de sus miembros para ayudar a las personas afectadas.
 
-Sin una judicatura fuerte y competente, los derechos ciudadanos y el estado de derecho en Ecuador seguirán en riesgo.
+La Agencia Metropolitana de tránsito (AMT) informó que **la vía está cerrada en ambos sentidos.** Los agentes de tránsito gestionan el flujo vehicular en los alrededores para ayudar a los conductores.
+
+Si necesitas circular por el sector toma como **vía alterna** la [Ruta Viva](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+_**Noticia en desarrollo…**_
+
+> 🔁 [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en el antiguo Puente de El Chiche.  
+>   
+> 🚑 Cinco personas resultaron heridas.  
+>   
+> 👨🏼‍🚒 En el lugar trabajamos con 12 efectivos.  
+>   
+> 🙏 Por favor, conduce con responsabilidad. No pongas en riesgo tu vida.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/N4F5aBW982](https://t.co/N4F5aBW982) [pic.twitter.com/8C3Jh7ecqw](https://t.co/8C3Jh7ecqw)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 5, 2024](https://twitter.com/BomberosQuito/status/1864645368056582401?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este jueves 5 de diciembre
+================================================================
+
+Recuerda que diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos vigilan el cumplimiento de la medida.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-8.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementó para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [ANT suspende atención este 6 de diciembre en Quito](https://www.elcomercio.com/actualidad/quito/ant-suspende-atencion-este-6-de-diciembre-en-quito.html "ANT suspende atención este 6 de diciembre en Quito")
+* [Quito tiene tres sistemas que la abastecen de agua; uno está afectado](https://www.elcomercio.com/actualidad/quito/quito-tiene-tres-sistemas-que-abastecen-agua-uno-esta-afectado.html "Quito tiene tres sistemas que la abastecen de agua; uno está afectado")
+* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de diciembre es la última posibilidad para cumplir con el proceso de matriculación si te atrasaste en tu mes.[Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+Recuerda que la AMT realiza controles preventivos de exceso de velocidad en Quito. Reduce la velocidad y maneja con precaución.
+
+> 🚔 [#CadaVidaCuenta](https://twitter.com/hashtag/CadaVidaCuenta?src=hash&ref_src=twsrc%5Etfw) |  
+>   
+> 🚨 Informamos de los operativos preventivos de control de velocidad en el DMQ, que se realizarán desde el martes 3 al viernes 13 de diciembre.  
+>   
+> 🫡 Con acciones preventivas salvamos vidas.  
+>   
+> ✅ Al conducir con precaución  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/qOT7lhZR0k](https://t.co/qOT7lhZR0k)
+> 
+> — AMTQuito (@AMT\_Quito) [December 3, 2024](https://twitter.com/AMT_Quito/status/1864001502857089375?ref_src=twsrc%5Etfw)
 
 Cartas a Quito / 5 de diciembre de 2024
 =======================================
@@ -113,6 +191,38 @@ El **Chuzalongo procede de dos vocablos kichwas**: **Chuza** que significa “pe
 **La literatura oral del Ecuador es pródiga en relatos fantásticos** sobre este célebre personaje. **Laura Hidalgo**, escritora ecuatoriana, recogió en un libro sus historias llenas de humor y ocurrencias. Se trata de **“Duendes y duendas más otros aparecidos de aquicito nomás”**. **Estos relatos mágicos perduran hasta nuestros días.**
 
 Les pregunto, amigos lectores: **¿cuántos duendes y duendas andan sueltos todavía en Quito y otras ciudades, en esta época oscura por obra y (des)gracia de los apagones?**
+
+Ineficiencia judicial por falta de jueces
+=========================================
+
+La ausencia de jueces titulares afecta la eficiencia judicial y erosiona la confianza en la justicia ecuatoriana.
+-----------------------------------------------------------------------------------------------------------------
+
+![Desde el 2019 no se logra concretar la selección de jueces en Ecuador: Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/justicia_ciega_720.png)
+
+La falta de integración de la **Corte Nacional de Justicia (CNJ) de Ecuador**, desde 2019, genera repercusiones en la ciudadanía y en la función judicial. En primer lugar, esta situación no solo afecta la eficiencia del sistema judicial, sino que también erosiona la confianza pública en la justicia.
+
+Por ejemplo, la ausencia de jueces titulares provoca retrasos en los procesos legales y conduce a una mayor percepción de un **sistema judicial ineficaz**.
+
+Adicionalmente, el proceso para llenar estas vacantes se caracteriza por ser lento, complicado y, en varias ocasiones, se presentaron [irregularidades.](https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html "https://www.elcomercio.com/actualidad/seguridad/consejo-de-la-judicatura-tomo-una-decision-sobre-concurso-para-jueces-y-conjueces-de-la-cnj.html")
+
+> Es importante señalar que, desde hace más de cinco años, no se lleva a cabo un [concurso efectivo](https://www.funcionjudicial.gob.ec/concursos-corte-nacional/ "https://www.funcionjudicial.gob.ec/concursos-corte-nacional/") para seleccionar nuevos jueces. Como resultado, esto deja un vacío crítico en la administración de justicia.
+
+Además, la falta de renovación en el **sistema judicial** puede dar como resultado una falta de diversidad y representación en las decisiones judiciales. De esta forma, se afecta el principio de justicia equitativa.
+
+Por otra parte, el impacto se extiende a la percepción pública del sistema judicial. En este sentido, la capacidad del **Consejo de la Judicatura** para gestionar adecuadamente el proceso de selección está en entredicho, lo que alimenta el ciclo de desconfianza hacia las instituciones.
+
+En definitiva, sin una judicatura robusta y competente, se corre el riesgo de que los derechos ciudadanos no se protejan adecuadamente. Esto, a su vez, ahonda la insatisfacción social y afecta la garantía del respeto a los derechos.
+
+Por otro lado, este vacío despierta los **intereses políticos** que buscan influir en el poder judicial. En consecuencia, un sistema judicial debilitado es más susceptible a presiones externas, comprometiendo su independencia y su función como **garante del Estado de derecho**.
+
+> Finalmente, la falta de jueces calificados puede llevar a decisiones judiciales cuestionables, afectando la legitimidad del sistema.
+
+En conclusión, llenar las vacantes de jueces es crucial no solo para garantizar una administración efectiva de justicia, sino también para restaurar la confianza pública en el sistema judicial.
+
+Por ello, concretar los procesos de selección y garantizar un enfoque transparente y **meritocrático** para asegurar que los mejores candidatos asuman estos roles vitales no puede seguir extendiéndose más tiempo.
+
+Sin una judicatura fuerte y competente, los derechos ciudadanos y el Estado de derecho en Ecuador seguirán en riesgo.
 
 El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor
 ===============================================================================
@@ -597,7 +707,7 @@ El evento simbólico contó con la presencia de las autoridades de la ciudad, en
 Alcalde entregó homenaje a los periodistas de EL COMERCIO asesinados
 --------------------------------------------------------------------
 
-En su intervención, el Alcalde manifestó que el nuevo bulevar de la **avenida De los Shyris** tiene como objetiva **mantener la memoria activa** de dos lamentables hechos: el asesinato de los tres periodistas de EL COMERCIO y de los hermanos Restrepo.
+En su intervención, el Alcalde manifestó que el nuevo bulevar de la **avenida De los Shyris** tiene como objetivo **mantener la memoria activa** de dos lamentables hechos: el asesinato de los tres periodistas de EL COMERCIO y de los hermanos Restrepo.
 
 “La memoria no puede ser solo un recuerdo pasivo de los hechos, lo que sucedió con los periodistas de EL COMERCIO tiene que mantenerse presente **para que no vuelva a pasar**; nuestra **consideración y cariño** para ellos y sus familiares”, comentó Muñoz, en medio de los aplausos de reconocimiento de la gente para los profesionales.
 
@@ -657,8 +767,6 @@ Descubre las historias de mujeres que rompieron el silencio frente a la violenci
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-_**Noticia en desarrollo…**_
 
 Pedro Larrea, campeón de América con Liga de Quito, se retiró
 =============================================================
@@ -1038,106 +1146,3 @@ Esta Ley permitió reformar la **Ley de Régimen Tributario Interno** para que e
 Esto, previo dictamen favorable del ente rector de las finanzas públicas. En ningún caso la tarifa podrá ser inferior al **13% ni mayor al 15%**, “salvo las excepciones previstas en esta ley.”.
 
 “Es importante tomar acciones económicas para garantizar los ingresos que coadyuven a la **sostenibilidad** de las finanzas públicas, la **estabilidad fiscal** y para enfrentar el **conflicto armado interno**“, señaló Noboa, en el decreto.
-
-Yoon Suk-yeol es el presidente al que la ley marcial puede costarle el cargo
-============================================================================
-
-Yoon Suk-yeol encarna una presidencia tan impopular como debilitada.
---------------------------------------------------------------------
-
-![El presidente de Corea del Sur, Yoon Suk Yeol, en una imagen de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Yoon-Suk-yeol-efe.jpg)
-
-Las presiones para sacar del poder al **presidente surcoreano**, [Yoon Suk-yeol](https://www.elcomercio.com/actualidad/mundo/tropas-parlamento-protestas-generan-horas-jaque-democracia-surcoreana.html "https://www.elcomercio.com/actualidad/mundo/tropas-parlamento-protestas-generan-horas-jaque-democracia-surcoreana.html"), no cesan desde que el mandatario declarara breve e **inesperadamente en la víspera la ley marcial** al acusar a la oposición de “actividades antiestatales”. Esta decisión que erosiona aún más su **escasa popularidad** y puede costarle el cargo.
-
-### Más noticias
-
-* [Naciones Unidas sigue de cerca la inesperada declaración de la ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/naciones-unidas-sigue-cerca-inesperada-declaracion-ley-marcial-corea-sur.html "Naciones Unidas sigue de cerca la inesperada declaración de la ley marcial en Corea del Sur")
-* [Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/piezas-clave-decision-yoon-aplicar-ley-marcial-pesimas-consecuencias.html "Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur")
-* [El Ministro de Defensa surcoreano dimite tras la aplicación de la ley marcial](https://www.elcomercio.com/actualidad/mundo/el-ministro-de-defensa-surcoreano-dimite-tras-la-aplicacion-de-la-ley-marcial.html "El Ministro de Defensa surcoreano dimite tras la aplicación de la ley marcial")
-
-Encarnando una presidencia tan impopular como debilitada a la que llegó gracias al estrecho margen de **menos del 1 %** por el que se impuso al liberal Lee Jae-myung en 2022.
-
-Presión para el mandatario
---------------------------
-
-La presión para que el mandatario dimita va en aumento**. Seis formaciones, incluida la principal fue**rza opositora, el liberal Partido Demócrata (PD), presentaron este miércoles, 4 de diciembre de 2024, una **moción parlamentaria** para destituirlo. Esto después de que algunos de sus principales asesores, entre ellos su jefe de Gabinete y su asesor de Seguridad Nacional, se ofrecieron a renunciar en masa el mismo día.
-
-A la vez, el mayor grupo sindical del país, la **Confederación Coreana de Sindicatos (KCTU)**, convocó protestas y prometió iniciar una **huelga indefinida** hasta que Yoon asuma la responsabilidad de lo sucedido y abandone el cargo. Esto es algo que los ciudadanos también parecen pedir a voces.
-
-Orquestador de su potencial caída
----------------------------------
-
-Jurista de formación y con una **fulgurante carrera en la Fiscalía surcoreana,** Yoon podría haber orquestado su propia caída al asumir el **riesgo de imponer la ley marcial de emergencia**. Esta fue revocada seis horas después de que el Parlamento votara a favor de levantarla.
-
-La decisión de activar, con visible afán político, una medida pensada para **“garantizar la ley y el orden”** en tiempos de guerra o en **caso de emergencia nacional**. Permite **prohibir actividades políticas**, controlar a los medios o arrestar a personas sin orden judicial. Esto puede poner fin a un Gobierno que debe su baja aceptación a factores como la situación económica, la falta de comunicación por parte del presidente o la gestión de las acusaciones dirigidas a la **primera dama, Kim Keon-hee.**
-
-El sorpresivo anuncio de anoche se produjo después de que el PD aprobara sin el apoyo del conservador **Partido del Poder Popular** de Yoon unos presupuestos generales para 2025 con múltiples recortes. Además de mociones para destituir al fiscal general y al responsable de la Junta de Auditoría e Inspección, encargada de monitorizar las cuentas de los organismos públicos.
-
-Estos dos últimos se convirtieron en **blanco del PD** debido a su negativa a seguir investigando o a imputar a la primera dama por distintos delitos por los que fue escrutada.
-
-Yoon aseguró que los mencionados **recortes presupuestarios** minarían las funciones “esenciales” del Gobierno, incluyendo la **prevención de crímenes** relacionados con las drogas y las medidas de seguridad públicas, y consideró que la oposición, a la que tachó de pronorcoreana, estaba llevando a cabo acciones “antiestatales”.
-
-De la fiscalía a la candidatura presidencial
---------------------------------------------
-
-Yoon nació en Seúl en 1960. Es el líder surcoreano con la mayor valoración negativa de la historia (74 %, según la empresa de sondeos Gallup Korea). Fue el primero en la democracia del país en no contar con el control de la Asamblea General (Parlamento) en ningún momento de su mandato.
-
-**Hijo de profesores universitarios** y criado en un **barrio de Seúl, Yeonhui -antaño** considerado próspero-, Yoon se licenció en Derecho por la prestigiosa Universidad Nacional de Seúl y se estrenó como fiscal en 1994.
-
-En el camino hasta convertirse en fiscal general en 2019 dejó una trayectoria en la que sentó en el banquillo a importantes políticos liberales y conservadores. Además de **líderes de grandes empresas** nacionales como Hyundai o Samsung y, ante todo, **lideró la investigación especial en 2016** contra la única presidenta surcoreana que ha sido destituida en democracia, Park Geun-hye.
-
-El órdago que lanzó, ya como fiscal general, al Gobierno del liberal Moon Jae-in, que buscó **reformar la propia fiscalía** tras las investigaciones abiertas contra el **ministro de Justicia, Cho Kuk**, lo convirtieron en un símbolo de resistencia para los conservadores, especialmente para aquellos que veían en el expresidente una figura demasiado cercana a Pionyang o a Pekín.
-
-Así, sin experiencia política alguna, se convirtió en el **candidato del conservador Partido del Poder Popular** para las presidenciales de marzo de 2022. Allí logró imponerse por solo **247 000 votos** a Lee Jae-myung en unos comicios -los más reñidos que vivió el país desde el retorno de la democracia en 1987.
-
-Dos años después, en abril de 2024, las **urnas castigaron tremendamente a la formación gobernante** en unas legislativas en las que el PPP no solo no logró arrebatar la mayoría del PD en el Parlamento, sino que **quedó terriblemente debilitado** (108 escaños frente a 192 de la oposición).
-
-Los comicios dejaron claro que los surcoreanos consideran a Yoon alguien desconectado -junto a la primera dama- e incapaz de solventar los problemas económicos que encara la ciudadanía, mientras se amontonan las sospechas de corrupción.
-
-El líder mostró además un absoluto **desdén por la desigualdad** que afecta cada día a las surcoreanas, en el país con mayor brecha salarial de la OCDE.
-
-Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions
-=====================================================================
-
-Desde el inicio de la temporada, el Chelsea tenía claro su objetivo y están muy bien encaminados para conseguirlo.
-------------------------------------------------------------------------------------------------------------------
-
-![Reece James y Moisés Caicedo en un partido del Chelsea.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-04T180459.035.jpg)
-
-El **Chelsea** de **Moisés Caicedo** consiguió una contundente victoria este miércoles 4 de diciembre, goleando 1-5 al Southampton. Con este triunfo, los ‘Blues’ se colocan como los nuevos sublíderes de la **Premier** **League**.
-
-Al principio de la campaña, había mucho escepticismo sobre cómo se desempeñaría el equipo de **Enzo** **Maresca**, quien llegó para reemplazar a Mauricio Pochettino y debuta como técnico en la primera división.
-
-### Más noticias:
-
-* [Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-golean-se-afianzan-como-sublideres-de-la-premier.html "Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier")
-* [Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-potencia-talento.html "Moisés Caicedo no tiene límites y busca mejorar aún más en Chelsea")
-* [Moisés Caicedo y su dúo con Enzo Fernández destaca en Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-enzo-fernandez-maresca.html "Moisés Caicedo y su dúo con Enzo Fernández destaca en Chelsea")
-
-Con mucho trabajo y de forma silenciosa, el **Chelsea** se ha posicionado como uno de los mejores equipos de la **Premier** **League**, destacándose por su capacidad de crear ocasiones, lo que lo coloca como el equipo con más goles a favor en 14 fechas.
-
-A cinco partidos para el final de la primera mitad de la temporada, el Chelsea está cerca de cumplir su objetivo de estar en puestos de **Champions** **League**. Actualmente, se encuentra en la segunda posición con 28 puntos, a siete del Liverpool, líder de la competencia.
-
-El sueño de la Champions sigue vivo
------------------------------------
-
-La campaña de **Maresca** como entrenador del **Chelsea** está siendo muy buena, con solo dos derrotas: en su debut contra el Manchester City (0-2) y contra el líder, Liverpool (2-1).
-
-Desde entonces, el equipo ha sumado ocho victorias y cuatro empates, lo que lo mantiene en una excelente posición a pocas fechas de terminar el primer semestre en Inglaterra. Además, lleva **seis partidos consecutivos sin conocer la derrota** en la Premier League.
-
-**Moisés** **Caicedo**, el ecuatoriano, destacó hace más de dos meses que el objetivo de su equipo no es ser campeones por ahora, sino clasificar a la **Champions League**, y poco a poco ese sueño se va haciendo realidad.
-
-“**Es nuestro principal objetivo**. Vamos a trabajar duro para conseguirlo”, mencionó el ‘Niño Moi’ en una entrevista con Sky Sports.
-
-Los últimos partidos de 2024
-----------------------------
-
-A **Chelsea** le quedan cinco partidos de **Premier League en este 20**24, y será crucial mantenerse en puestos altos para mantener el buen ánimo y terminar el año de la mejor manera. Sus próximos rivales serán:
-
-* **Tottenham** (8 de diciembre, de visita)
-* Brentford (15 de diciembre, en casa)
-* Everton (22 de diciembre, de visita)
-* **Fulham** (26 de diciembre, en casa)
-* Ipswich (30 de diciembre, en casa)
-
-Este tramo final de año será clave para sus aspiraciones de **Champions**.
