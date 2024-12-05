@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule/tango1-1997.jpg?itok=x6DPNTD-)](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/miodrag-stankovic-strule)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/zelja/desire/desire-001.jpg?itok=vr3tCzcm)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/zeljadesire)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zikica1.jpg?itok=l2IqYvmJ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013/dscf3964.jpg?itok=UGLIheZb)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/festival-nauke-2013)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
