@@ -262,6 +262,7 @@ We want you to know that we’re here to help. We have the resources, the knowle
 * [Money Laundering Regulations Policy](https://completelicensing.uk/money-laundering-regulations-policy/)
 * [Anti-bribery Policy](https://completelicensing.uk/anti-bribery-policy/)
 * [Copyright & Trademark Notice](https://completelicensing.uk/copyright-and-trademark-notice/)
+* [Email Disclaimer](https://completelicensing.uk/email-disclaimer/)
 
 ##### [Blog](https://completelicensing.uk/blog/)
 
