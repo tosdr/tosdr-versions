@@ -17,7 +17,7 @@ EN
 * Devs
 * Partners
 * Resources
-* [Pricing & Activation](https://www.fastly.com/pricing)
+* [Pricing](https://www.fastly.com/pricing)
 
 [Talk to an expert](https://www.fastly.com/contact-sales)[Try Fastly Free](https://www.fastly.com/signup)
 
