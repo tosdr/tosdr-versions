@@ -89,7 +89,7 @@ Text the keyword HELP to our short code to return Customer Service contact infor
 
 ### Customer Care
 
-If you are experiencing any problems, please visit [https://www.serovital.com/contact](https://serovital-com.myshopify.com/pages/contact "https://www.serovital.com/contact") or contact us at [1-800-898-5153](tel:18008985153 "1-800-898-5153").
+If you are experiencing any problems, please visit [https://www.serovital.com/contact](https://serovital-com.myshopify.com/pages/contact "https://www.serovital.com/contact") or contact us at [1-800-435-1409](tel:18004351409 "1-800-435-1409").
 
 ### Contact
 
