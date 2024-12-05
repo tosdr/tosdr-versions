@@ -74,6 +74,6 @@ You may like to read -
 ----------------------
 
 * [Terms and conditions](https://help.freeads.co.uk/support/solutions/articles/47000874306-terms-and-conditions)
-* [How do I cancel a PetSafe payment?](https://help.freeads.co.uk/support/solutions/articles/47001194783-how-do-i-cancel-a-petsafe-payment-)
 * [PetSafe Deposit Scheme Terms and Conditions](https://help.freeads.co.uk/support/solutions/articles/47001195719-petsafe-deposit-scheme-terms-and-conditions)
+* [How do I cancel a PetSafe payment?](https://help.freeads.co.uk/support/solutions/articles/47001194783-how-do-i-cancel-a-petsafe-payment-)
 * [Arranging after-sales delivery](https://help.freeads.co.uk/support/solutions/articles/47000872958-arranging-after-sales-delivery)
