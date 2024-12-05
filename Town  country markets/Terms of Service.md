@@ -166,12 +166,12 @@ Town & Country Markets may amend this Agreement at any time by posting the amend
     * [Contact Us](https://townandcountrymarkets.com/contact#contact)
     * [FAQs](https://townandcountrymarkets.com/faq)
     * [Schedule a Demo](https://form.jotform.com/230817063817154)
+    * [Recalls](https://townandcountrymarkets.com/recalls)
 * #### [About](https://townandcountrymarkets.com/our-story)
     
     * [Our New Look](https://townandcountrymarkets.com/our-new-look)
     * [Careers](https://townandcountrymarkets.com/careers#contact)
     * [Markets](https://townandcountrymarkets.com/markets)
-    * [Announcements](https://townandcountrymarkets.com/announcements)
 
 * #### Follow Us
     
