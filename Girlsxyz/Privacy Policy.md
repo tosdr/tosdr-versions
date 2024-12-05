@@ -1,6 +1,6 @@
 [](https://girls.xyz/)
 
-2379 Online
+2434 Online
 
 [Login](https://girls.xyz/login) [Join now for free](https://girls.xyz/members/join)
 
@@ -10,43 +10,43 @@
 
 Categories
 
-* [Anal (801 Live)](https://girls.xyz/anal)
-* [Arab (11 Live)](https://girls.xyz/arab)
-* [Asian (85 Live)](https://girls.xyz/asian)
-* [Babes (647 Live)](https://girls.xyz/babes)
-* [BBW (161 Live)](https://girls.xyz/bbw)
-* [Best for Privates (72 Live)](https://girls.xyz/best-for-privates)
-* [Big Ass (693 Live)](https://girls.xyz/big-ass)
-* [Big Tits (490 Live)](https://girls.xyz/big-tits)
-* [Blonde (242 Live)](https://girls.xyz/blonde)
-* [Bondage (356 Live)](https://girls.xyz/bondage)
-* [Brunette (1105 Live)](https://girls.xyz/brunette)
-* [College Girls (514 Live)](https://girls.xyz/college-girls)
-* [Curvy (292 Live)](https://girls.xyz/curvy)
-* [Ebony (179 Live)](https://girls.xyz/ebony)
-* [Fetish (1126 Live)](https://girls.xyz/fetish)
-* [Granny (19 Live)](https://girls.xyz/granny)
+* [Anal (798 Live)](https://girls.xyz/anal)
+* [Arab (6 Live)](https://girls.xyz/arab)
+* [Asian (88 Live)](https://girls.xyz/asian)
+* [Babes (731 Live)](https://girls.xyz/babes)
+* [BBW (195 Live)](https://girls.xyz/bbw)
+* [Best for Privates (68 Live)](https://girls.xyz/best-for-privates)
+* [Big Ass (743 Live)](https://girls.xyz/big-ass)
+* [Big Tits (581 Live)](https://girls.xyz/big-tits)
+* [Blonde (317 Live)](https://girls.xyz/blonde)
+* [Bondage (332 Live)](https://girls.xyz/bondage)
+* [Brunette (1113 Live)](https://girls.xyz/brunette)
+* [College Girls (478 Live)](https://girls.xyz/college-girls)
+* [Curvy (294 Live)](https://girls.xyz/curvy)
+* [Ebony (214 Live)](https://girls.xyz/ebony)
+* [Fetish (1147 Live)](https://girls.xyz/fetish)
+* [Granny (21 Live)](https://girls.xyz/granny)
 * [Group Sex (0 Live)](https://girls.xyz/group-sex)
-* [Hairy Pussy (157 Live)](https://girls.xyz/hairy-pussy)
-* [Housewives (599 Live)](https://girls.xyz/housewives)
-* [Huge Tits (130 Live)](https://girls.xyz/huge-tits)
-* [Indian (8 Live)](https://girls.xyz/indian)
-* [Latina (690 Live)](https://girls.xyz/latina)
-* [Lesbian (10 Live)](https://girls.xyz/lesbian)
-* [Mature (352 Live)](https://girls.xyz/mature)
-* [Medium Tits (592 Live)](https://girls.xyz/medium-tits)
-* [Muscle (43 Live)](https://girls.xyz/muscle)
-* [Petite (168 Live)](https://girls.xyz/petite)
-* [Pornstar (6 Live)](https://girls.xyz/pornstar)
-* [Pregnant (0 Live)](https://girls.xyz/pregnant)
-* [Redhead (164 Live)](https://girls.xyz/redhead)
-* [Shaved Pussy (1019 Live)](https://girls.xyz/shaved-pussy)
-* [Small Tits (298 Live)](https://girls.xyz/small-tits)
-* [Smoking (19 Live)](https://girls.xyz/smoking)
-* [Squirt (883 Live)](https://girls.xyz/squirt)
-* [Teens 18+ (514 Live)](https://girls.xyz/teens-18)
-* [Toys (1151 Live)](https://girls.xyz/toys)
-* [White Girls (539 Live)](https://girls.xyz/white-girls)
+* [Hairy Pussy (194 Live)](https://girls.xyz/hairy-pussy)
+* [Housewives (602 Live)](https://girls.xyz/housewives)
+* [Huge Tits (131 Live)](https://girls.xyz/huge-tits)
+* [Indian (5 Live)](https://girls.xyz/indian)
+* [Latina (474 Live)](https://girls.xyz/latina)
+* [Lesbian (21 Live)](https://girls.xyz/lesbian)
+* [Mature (395 Live)](https://girls.xyz/mature)
+* [Medium Tits (604 Live)](https://girls.xyz/medium-tits)
+* [Muscle (15 Live)](https://girls.xyz/muscle)
+* [Petite (197 Live)](https://girls.xyz/petite)
+* [Pornstar (8 Live)](https://girls.xyz/pornstar)
+* [Pregnant (2 Live)](https://girls.xyz/pregnant)
+* [Redhead (174 Live)](https://girls.xyz/redhead)
+* [Shaved Pussy (1085 Live)](https://girls.xyz/shaved-pussy)
+* [Small Tits (287 Live)](https://girls.xyz/small-tits)
+* [Smoking (22 Live)](https://girls.xyz/smoking)
+* [Squirt (853 Live)](https://girls.xyz/squirt)
+* [Teens 18+ (478 Live)](https://girls.xyz/teens-18)
+* [Toys (1162 Live)](https://girls.xyz/toys)
+* [White Girls (816 Live)](https://girls.xyz/white-girls)
 
 History
 
@@ -55,7 +55,7 @@ History
 Privacy Policy
 ==============
 
-LAST REVISION: 15.08.2024
+LAST REVISION: 22.11.2024
 
 Please read this Girls.xyz Privacy Policy carefully. It sets forth the practices of ![Address 1](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg) (“![Address 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)” and / or “Company”) with respect to information collected from basic members, premium members, guests and visitors of girls.xyz with respect to all services provided by the company or services requiring a log-in or password (the “Services”). By visiting the site or completing the registration process and clicking the “Submit” button, you agree to be bound by all of the terms and conditions of this Privacy Policy.
 
@@ -90,7 +90,7 @@ In order to provide our services to you, including but not limited to accoun
 * Personal data provided by you, such as email address, username, password, biometric characteristics, display name, gender, age, location, sexual orientation, sexual preferences, and other information that you provide in your profile.
 * Personal data from the usage of the website, such as your activity history, time spent in chargeable Chats modes, payment information, token balance and spending, profile pictures, etc.
 * Log data, such as IP address, date and time, location, pages visited, used functions of the website, internet browser, operating system, device and browser language, identifiers associated with cookies.
-* Personal data collected by third parties — Google Analytics, Cloudflare, reCAPTCHA.
+* Personal data collected by third parties — Google Analytics, Cloudflare, Cloudflare Turnstile.
 * Cookies and other technologies — see “Technology” and “Cookies” in this Privacy Policy.
 
 ### Visitor data
@@ -277,24 +277,29 @@ If you have consented to the use of Cloudflare, the legal basis for the proce
 
 The transfer of your personal data to the USA takes place on the basis of the standard contractual clauses.
 
-For more information about CloudFlare, visit: [https://www.cloudflare.com/privacypolicy/](https://www.cloudflare.com/privacypolicy/).
+For more information about CloudFlare, please refer to their [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-### reCAPTCHA
+### Cloudflare Turnstile
 
-We use reCAPTCHA on our website, a service provided by Google Ireland Limited, Gordon House, 4 Barrow St, Grand Canal Dock, Dublin 4, D04 V4X7, Ireland (“Google”). The service is a function that allows us to distinguish whether the input was correctly made by a person or by a computer program with automatic program sequencing. During the query, the following data required for this service is transmitted to Google:
+We use Cloudflare Turnstile on this website. The provider is Cloudflare Inc. (“Cloudflare”), 101 Townsend St., San Francisco, CA 94107, USA. Cloudflare Turnstile is a service that helps distinguish between interactions performed by humans and those generated by automated programs, enhancing the security and functionality of our website.
 
-* Referrer URL.
-* IP address.
-* Browser type.
-* Browser language.
-* Date and time of your request.
-* One or more cookies that may identify your browser.
+When Cloudflare Turnstile is used, the following information is collected and transmitted to Cloudflare to assess the nature of the interaction:
 
-Google will use this information for evaluation purposes. Your IP address, which is transmitted by your browser as part of the reCAPTCHA service, is not merged with other data from Google.
+* Referrer URL (the website or page requesting CAPTCHA validation)
+* User-agent string (information about your browser and operating system)
+* Browser characteristics (e.g., screen resolution, browser capabilities, and whether JavaScript is enabled)
+* Mouse movements or other interaction events (to determine human activity)
+* Network information (e.g., IP address, Autonomous System Number (ASN), or geolocation)
+* TLS/SSL handshake data (to verify the security context of the connection)
+* Timestamp of the request
 
-For the data collection at Google, the deviating data protection regulations of the company apply.
+If you have provided consent for the use of Cloudflare Turnstile, the processing of personal data is based on Art. 6(1)(a) GDPR. Additionally, we have a legitimate interest in ensuring the security and functionality of our website, which serves as an alternative legal basis under Art. 6(1)(f) GDPR.
 
-For more information about Google’s privacy policy, visit: [https://policies.google.com/privacy/](https://policies.google.com/privacy).
+The personal data collected is retained only as long as necessary to achieve the processing purpose. Data will be deleted when it is no longer required for this purpose, in accordance with applicable regulations and Cloudflare’s policies.
+
+The data collected may be transferred to servers located in the United States. Such transfers are safeguarded by Standard Contractual Clauses (SCCs), which ensure compliance with GDPR and protect your data rights.
+
+For more details about Cloudflare’s data processing and privacy practices, please refer to their [Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
 Cookies
 -------
@@ -348,12 +353,24 @@ Publisher: ![Address 2](//i.wlicdn.com/images/replace/14/arial/666/bnct.svg)
 | sip | 180 days | Used for username popup. Stores username and profile picture of the user |
 | a10t | 7 days | Used to define guests who close the “bonus token for registration” banner. |
 | itpl | 1 year | Used to define users who visit website through special URL |
+| sip | 180 days | Stores username and associated profile picture |
+| 3rd\_culture | 1 year | Used to switch languages on 3rd level domains (White Labels) |
+| age\_verification | 1 year | Used to determine whether user’s age was verified |
+| lvm | 30 minutes | Stores last seen model room |
+| spoof | 1 day | Stores a number of shown spoof chats to the visitor |
+| BONGAH\_HIT\_M | 180 days | Used for model tracking |
+| BONGAH\_HIT | 1 day/180 days | Used for member tracking |
+| BONGA\_TRACKING\_USER | 180 days | Used for referral user conversion tracking |
+| BONGA\_REF | 180 days | Tracks users who came from search engines |
+| bcpt | 180 days | Bongacash promo tracker |
+| bf\_cm\_popup\_{userId} | 180 days | Cyber sale promo tracker |
 
 Publisher: Cloudflare
 
 | Name | Runtime | Purpose |
 | --- | --- | --- |
-| \_\_cf\_bm | 30 minutes | Used to manage incoming traffic that matches criteria associated with bots |
+| \_\_cf\_bm | 30 minutes | Used to manage incoming traffic that matches criteria associated with bots |
+| cf\_clearance | 30 minutes | Clearance Cookie stores the proof of challenge passed |
 
 ### Analysis/Statistics
 
@@ -427,7 +444,7 @@ As a precaution, we therefore inform you that your data may also be processe
 
 The described processing operations of personal data are carried out pursuant to Art. 6 (1) (f) GDPR on the basis of our legitimate interest and the legitimate interest of the respective provider in order to be able to communicate with you in a timely manner or to inform you about our services. If you have to give your consent to data processing as a user with the respective providers, the legal basis refers to Art. 6 (1) (a) GDPR in conjunction with. Art. 7 GDPR.
 
-X (Twitter)
+X (formerly known as Twitter)
 
 (Co-)responsible for data processing in Europe:  
 Twitter International Company, 1 Cumberland St S, Fenian St, Dublin 2, Ireland
