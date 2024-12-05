@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![USMA Class of 1975, Company A-4](https://cdn.returningveterans.org/images/honor/1975_A_4.jpg)  
+![Fred Matteson](https://cdn.returningveterans.org/images/honor/Fred_Matteson.jpg)  
 
-**USMA Class of 1975, Company A-4**  
-United States Army  
-Submitted by John Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Fred Matteson**  
+United States Marine Corps  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/05/24 - 1:19:28  
+Printed 12/05/24 - 7:25:46  
 © 2024 Returning Veterans Project
