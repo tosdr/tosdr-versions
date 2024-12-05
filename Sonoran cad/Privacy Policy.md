@@ -663,7 +663,7 @@ On this page
 * [3\. How We Use Your Information](#id-3.-how-we-use-your-information)
 * [4\. How We Share Your Information](#id-4.-how-we-share-your-information)
 * [5\. Your Data Rights](#id-5.-your-data-rights)
-* [6\. Children's Privacy](#id-6.-children-s-privacy)
+* [6\. Children's Privacy](#id-6.-childrens-privacy)
 * [7\. Changes to This Privacy Policy](#id-7.-changes-to-this-privacy-policy)
 * [8\. Contact Us](#id-8.-contact-us)
 
@@ -753,7 +753,7 @@ Please note that while we accommodate most requests for data deletion, some spec
 
 ### 
 
-[](#id-6.-children-s-privacy)
+[](#id-6.-childrens-privacy)
 
 **6\. Children's Privacy**
 
