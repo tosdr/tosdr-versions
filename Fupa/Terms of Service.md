@@ -1,10 +1,12 @@
-2024-12-05T07:28:59.678Z
+2024-12-05T13:04:02.281Z
 
 FuPa benötigt JavaScript, um richtig zu funktionieren.
 
 Browser nicht unterstützt
 
 Du verwendest einen veralteten Browser, wodurch die Funktionalität von FuPa eingeschränkt ist und es zu unerwarteten Fehlern kommen kann. Damit du FuPa vollumfänglich nutzen kannst und wir dir eine bessere Nutzungserfahrung und mehr Sicherheit auf unserer Anwendung bieten können, nutze bitte einen aktuellen Browser.
+
+[](https://www.fupa.net/)
 
 Nutzungsbedingungen
 ===================
