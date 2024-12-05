@@ -6,7 +6,7 @@ This app works best with JavaScript enabled.
     
 * Why Doodle?
     
-* [Pricing](https://doodle.com/en/premium/)
+* [Pricing](https://doodle.com/en/premium)
 * [Blog](https://doodle.com/en/resources/)
 * [Contact](https://doodle.com/en/contact-form/)
 
