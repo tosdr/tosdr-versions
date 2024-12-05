@@ -179,7 +179,7 @@ Aviso legal
 2. Domicilio social: Gran Vía 28, 28013 Madrid, España
 3. NIF: A28015865
 4. Datos registrales: Registro Mercantil de Madrid, al tomo 208 de Sociedades, folio 1, hoja número M-6.164, inscripción 946ª
-5. Datos de contacto: [\[email protected\]](https://www.telefonica.com/cdn-cgi/l/email-protection)
+5. Si necesita contactar con Telefónica, puede consultar el apartado de [contacto](https://www.telefonica.com/es/contacto/) del sitio web.
 
 2. **Condiciones generales de acceso y utilización del sitio web**  
     El presente Aviso Legal recoge las condiciones generales que regulan el acceso y utilización del sitio web en el que se incluye, y que Telefónica pone gratuitamente a disposición de los usuarios de Internet. Por ello, el acceso al mismo implica su lectura por los usuarios y aceptación sin reservas.  
