@@ -335,7 +335,7 @@ Your session expired. Please login again to continue to purchase.
     * [NEM 3.0](https://enphase.com/installers/nem3)
     * [Commercial](https://enphase.com/installers/commercial)
     * [Critical updates](https://enphase.com/installers/updates)
-    * [Storage](https://enphase.com/installers/storage/gen2)
+    * [Storage](https://enphase.com/installers/storage)
     
 * Support
     
