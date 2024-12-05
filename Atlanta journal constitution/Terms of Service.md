@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Atlanta police shoot, kill man armed with knife on I-75, chief says](https://www.ajc.com/news/crime/i-75-south-closed-for-hours-amid-officer-involved-shooting-investigation/AZQHACDFRZBO3HLUU3PLX6MNWA/)
+[Breaking: Prosecutors move to drop charges against six more defendants in YSL case](https://www.ajc.com/news/crime/six-more-ysl-defendants-may-slip-charges/CWUGV7CVHRCMZGDFSWEMQLLGWM/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
 
@@ -18,10 +18,9 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-healthy-harvest/ZKLRMA6NKRC4BA5FMTJWSHQJHQ/)
-* [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
-* [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-dec-6-8/QKJTXRK5EVBBZJR3AW4M5HOZMQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
+* [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
@@ -52,7 +51,6 @@ Log In
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Election 2024](https://www.ajc.com/politics/election/)
     * [Trump Transition](https://www.ajc.com/politics/trump-transition/)
-    * [Georgia Runoff Voter Guide](https://www.ajc.com/politics/georgia-voter-guide/)
     * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
