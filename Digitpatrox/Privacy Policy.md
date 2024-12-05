@@ -20,16 +20,16 @@ Thursday, December 5 2024
 
 Latest
 
-* [Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
-* [Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
-* [I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
-* [8 Ways to Make Your PowerPoint Presentation Accessible to All](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
-* [How to open Photos in Windows (9 ways)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
-* [US energy contractor ENGlobal reveals ransomware attack](https://digitpatrox.com/us-energy-contractor-englobal-reveals-ransomware-attack/)
-* [7 Real Estate Marketing Calendar Templates \[Free & Paid\]](https://digitpatrox.com/7-real-estate-marketing-calendar-templates-free-paid/)
-* [Win! Best PS5 accessory deals I’d get right now](https://digitpatrox.com/win-best-ps5-accessory-deals-id-get-right-now/)
-* [FBI shares tips on how to tackle AI-powered fraud schemes](https://digitpatrox.com/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
-* [Peloton’s new audio-based app is like an invisible strength coach](https://digitpatrox.com/pelotons-new-audio-based-app-is-like-an-invisible-strength-coach/)
+* [How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
+* [Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
+* [The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
+* [These Are My Favorite Still Active Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+* [The Microsoft Store Will Soon Update More Apps for You](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
+* [ASUS routers and mesh Wi-Fi systems](https://digitpatrox.com/asus-routers-and-mesh-wi-fi-systems/)
+* [AWS goes all in on AI agents with new features for Bedrock and Amazon Q](https://digitpatrox.com/aws-goes-all-in-on-ai-agents-with-new-features-for-bedrock-and-amazon-q/)
+* [the Latest AI Models Revolutionizing Business](https://digitpatrox.com/the-latest-ai-models-revolutionizing-business/)
+* [Bournemouth vs Tottenham live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/bournemouth-vs-tottenham-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+* [Microsoft says having a TPM is “non-negotiable” for Windows 11](https://digitpatrox.com/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/ZuJetzHeasdfeKBru6ZW4W-1200-80.jpg)](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
+* [![](https://beebom.com/wp-content/uploads/2023/05/How-Recover-Deleted-Messages-iPhone.jpeg)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
     
-    [Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
+    [How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
     
-    46 minutes ago
+    11 minutes ago
     
-* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/11/default_image1731963795.4973.png)](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
+* [![](https://cdn.mos.cms.futurecdn.net/FHET43iGQRBgvFwiPqrEoQ-1200-80.jpg)](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
     
-    [Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
-    
-    1 hour ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JDAXXYCE5JAQHRKNX9ECG2G0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
-    
-    [I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
+    [Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
     
     2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-powerpoint-presentation-with-some-accessibility-icons.jpg)](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617118-0-83332900-1733323414-Apple-iPhone-16-Pro-camera-system-240909.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
     
-    [8 Ways to Make Your PowerPoint Presentation Accessible to All](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
-    
-    2 hours ago
-    
-* [![](https://www.digitalcitizen.life/wp-content/uploads/2022/01/win_photos_app.jpg)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
-    
-    [How to open Photos in Windows (9 ways)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
+    [The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JDN0W0NJMVY997C7M5PH4ED3/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+    
+    [These Are My Favorite Still Active Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+    
+    3 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg)](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
+    
+    [The Microsoft Store Will Soon Update More Apps for You](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [46 minutes ago
+* [11 minutes ago
     
-    ### Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
-* [1 hour ago
-    
-    ### Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
+    ### How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
 * [2 hours ago
     
-    ### I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
+    ### Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
+* [2 hours ago
+    
+    ### The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
 
 Most Popular Topics
 
-* [October 30, 2024
+* [October 22, 2024
     
-    ### How to show file extensions on Windows 11](https://digitpatrox.com/how-to-show-file-extensions-on-windows-11/)
-* [3 weeks ago
+    ### Snapdragon 8 Elite Makes 8 Years of Android Updates a Reality; Can Qualcomm Deliver Though?](https://digitpatrox.com/snapdragon-8-elite-makes-8-years-of-android-updates-a-reality-can-qualcomm-deliver-though/)
+* [August 26, 2024
     
-    ### NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
-* [October 5, 2024
+    ### Stealthy ‘sedexp’ Linux malware evaded detection for two years](https://digitpatrox.com/stealthy-sedexp-linux-malware-evaded-detection-for-two-years/)
+* [September 4, 2024
     
-    ### Intel says its Raptor Lake crashing chip nightmare is over](https://digitpatrox.com/intel-says-its-raptor-lake-crashing-chip-nightmare-is-over/)
+    ### test – wpchart – Comparitech](https://digitpatrox.com/test-wpchart-comparitech/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### 7 Real Estate Marketing Calendar Templates \[Free & Paid\]](https://digitpatrox.com/7-real-estate-marketing-calendar-templates-free-paid/)
 * [3 hours ago
     
-    ### Win! Best PS5 accessory deals I’d get right now](https://digitpatrox.com/win-best-ps5-accessory-deals-id-get-right-now/)
-* [4 hours ago
+    ### AWS goes all in on AI agents with new features for Bedrock and Amazon Q](https://digitpatrox.com/aws-goes-all-in-on-ai-agents-with-new-features-for-bedrock-and-amazon-q/)
+* [3 hours ago
     
-    ### FBI shares tips on how to tackle AI-powered fraud schemes](https://digitpatrox.com/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
+    ### the Latest AI Models Revolutionizing Business](https://digitpatrox.com/the-latest-ai-models-revolutionizing-business/)
+* [3 hours ago
+    
+    ### Bournemouth vs Tottenham live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/bournemouth-vs-tottenham-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
