@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=133983573)  
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=8435382)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=107791443)  
 Sonic Electrical Services PTY Ltd
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=32043017)  
-Skinz Printing & Branding
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=160296439)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=212907610)  
-Multi CNC Solutions CC
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=148611016)  
+Cooper Power
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=153784679)  
-FLIPS AUTO ELECTRICAL
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=72531446)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=17109503)  
-Lily Fern & Co
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=142602324)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=88264120)  
-LEONARD
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=120060294)  
+Prosper Park
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=57091058)  
-J.M. HUMAN RESOURCES
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=89900317)  
+Moulded Wax SA - The Candle Store
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=131642260)  
-Website Café (PTY) LTD
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=160060555)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=96671149)  
-Fox Alarms & Security CC
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=28520323)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=14675456)  
-Immediate Health (pty)ltd
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=19533804)  
+Oak Tree Immigration
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=56373776)  
-Westside Car Audio CC
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=72126133)  
+IYD
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=20500774)  
-Lemba Truck Stop
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=51819706)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=196803040)  
-Salvage Genie
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=181854953)  
+MSPCloud (Pty) Ltd
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=38510393)  
-Kara Medical (Pty) Ltd
-
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=50100b438400335f7fae1886b0f2ab22fbca4030d2aa99ab7e4ea4f441ac8000&c=158952852)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=0b72bc9987c733cec96dc48ddbb18b2095bbd6bada36dfa179bc271641d67f3c&c=147502614)  
+VS Auto Spares and Repairs (Pty) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
