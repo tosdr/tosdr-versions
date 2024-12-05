@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Data Archiving
+
+What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
+
 [Company News
 
 10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
@@ -135,10 +139,6 @@ On The Blog
 [Microsoft Dynamics CRM
 
 Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
-
-[Salesforce
-
-How to Take Your Salesforce Security Skills to the Next Level](https://www.ownbackup.com/blog/take-your-salesforce-security-skills-to-the-next-level)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Data Archiving
+
+What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
+
 [Company News
 
 10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
@@ -359,10 +363,6 @@ On The Blog
 [Microsoft Dynamics CRM
 
 Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
-
-[Salesforce
-
-How to Take Your Salesforce Security Skills to the Next Level](https://www.ownbackup.com/blog/take-your-salesforce-security-skills-to-the-next-level)
 
 Company
 
