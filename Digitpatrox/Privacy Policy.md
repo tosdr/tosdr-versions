@@ -20,16 +20,16 @@ Thursday, December 5 2024
 
 Latest
 
-* [How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
-* [Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
-* [The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
-* [These Are My Favorite Still Active Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
-* [The Microsoft Store Will Soon Update More Apps for You](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
-* [ASUS routers and mesh Wi-Fi systems](https://digitpatrox.com/asus-routers-and-mesh-wi-fi-systems/)
-* [AWS goes all in on AI agents with new features for Bedrock and Amazon Q](https://digitpatrox.com/aws-goes-all-in-on-ai-agents-with-new-features-for-bedrock-and-amazon-q/)
-* [the Latest AI Models Revolutionizing Business](https://digitpatrox.com/the-latest-ai-models-revolutionizing-business/)
-* [Bournemouth vs Tottenham live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/bournemouth-vs-tottenham-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
-* [Microsoft says having a TPM is “non-negotiable” for Windows 11](https://digitpatrox.com/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
+* [UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
+* [Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
+* [How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
+* [Medical trials of a four-day week just showed huge physical and mental health benefits – staff reported higher wellbeing, less burnout, and better sleep](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
+* [South Korea’s political unrest threatens the stability of global tech supply chains](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
+* [The Best Extended Cyber Monday Tech Deals at Amazon, Best Buy, and More](https://digitpatrox.com/the-best-extended-cyber-monday-tech-deals-at-amazon-best-buy-and-more/)
+* [Should You Buy a Walmart Onn TV?](https://digitpatrox.com/should-you-buy-a-walmart-onn-tv/)
+* [Xbox’s Year in Review is Back for 2024](https://digitpatrox.com/xboxs-year-in-review-is-back-for-2024/)
+* [How to add or remove the seconds from the Windows 11 clock](https://digitpatrox.com/how-to-add-or-remove-the-seconds-from-the-windows-11-clock/)
+* [Integrity360 expands European presence with Adsigo acquisition](https://digitpatrox.com/integrity360-expands-european-presence-with-adsigo-acquisition/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2023/05/How-Recover-Deleted-Messages-iPhone.jpeg)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/12/01/Hackers_crypto.jpg)](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
     
-    [How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
+    [UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
     
-    11 minutes ago
+    35 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/FHET43iGQRBgvFwiPqrEoQ-1200-80.jpg)](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
+* [![](https://cdn.vox-cdn.com/thumbor/oKadMqQs0i-r0rjd6YPWx2HTsYA=/0x0:6000x4000/1200x628/filters:focal(3000x2000:3001x2001)/cdn.vox-cdn.com/uploads/chorus_asset/file/25774710/2156794866.jpg)](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
     
-    [Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
+    [Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
     
-    2 hours ago
+    52 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617118-0-83332900-1733323414-Apple-iPhone-16-Pro-camera-system-240909.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Path-of-Exile-2-Preload-Guide.jpg)](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
     
-    [The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
+    [How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01JDN0W0NJMVY997C7M5PH4ED3/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+* [![](https://cdn.mos.cms.futurecdn.net/aRRpV7XnSYNFeHLRAh6zYj-1200-80.jpg)](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
     
-    [These Are My Favorite Still Active Cyber Monday Deals for Xbox, PlayStation, Switch, and PC Gamers](https://digitpatrox.com/these-are-my-favorite-still-active-cyber-monday-deals-for-xbox-playstation-switch-and-pc-gamers/)
+    [Medical trials of a four-day week just showed huge physical and mental health benefits – staff reported higher wellbeing, less burnout, and better sleep](https://digitpatrox.com/medical-trials-of-a-four-day-week-just-showed-huge-physical-and-mental-health-benefits-staff-reported-higher-wellbeing-less-burnout-and-better-sleep/)
     
     3 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-logo.jpg)](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
+* [![](https://www.cio.com/wp-content/uploads/2024/12/3617847-0-42773600-1733388631-shutterstock_1769071073.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
     
-    [The Microsoft Store Will Soon Update More Apps for You](https://digitpatrox.com/the-microsoft-store-will-soon-update-more-apps-for-you/)
+    [South Korea’s political unrest threatens the stability of global tech supply chains](https://digitpatrox.com/south-koreas-political-unrest-threatens-the-stability-of-global-tech-supply-chains/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 minutes ago
+* [35 minutes ago
     
-    ### How to Recover Deleted Messages on iPhone (5 Ways)](https://digitpatrox.com/how-to-recover-deleted-messages-on-iphone-5-ways/)
-* [2 hours ago
+    ### UK disrupts Russian money laundering networks used by ransomware](https://digitpatrox.com/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
+* [52 minutes ago
     
-    ### Salesforce thinks the UK is ready to lead the next wave of AI](https://digitpatrox.com/salesforce-thinks-the-uk-is-ready-to-lead-the-next-wave-of-ai/)
-* [2 hours ago
+    ### Vodafone and Three clear to merge and form UK’s biggest mobile operator](https://digitpatrox.com/vodafone-and-three-clear-to-merge-and-form-uks-biggest-mobile-operator/)
+* [1 hour ago
     
-    ### The FBI now says encryption is good for you – Computerworld](https://digitpatrox.com/the-fbi-now-says-encryption-is-good-for-you-computerworld/)
+    ### How to Preload Path of Exile 2 on PC, PS5 and Xbox](https://digitpatrox.com/how-to-preload-path-of-exile-2-on-pc-ps5-and-xbox/)
 
 Most Popular Topics
 
-* [October 22, 2024
+* [3 weeks ago
     
-    ### Snapdragon 8 Elite Makes 8 Years of Android Updates a Reality; Can Qualcomm Deliver Though?](https://digitpatrox.com/snapdragon-8-elite-makes-8-years-of-android-updates-a-reality-can-qualcomm-deliver-though/)
-* [August 26, 2024
+    ### Today’s Wordle Answer and Hints (November 14, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-14-2024/)
+* [2 weeks ago
     
-    ### Stealthy ‘sedexp’ Linux malware evaded detection for two years](https://digitpatrox.com/stealthy-sedexp-linux-malware-evaded-detection-for-two-years/)
-* [September 4, 2024
+    ### Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
+* [October 29, 2024
     
-    ### test – wpchart – Comparitech](https://digitpatrox.com/test-wpchart-comparitech/)
+    ### Meet Scout, the Newest EV Brand From Volkswagen](https://digitpatrox.com/meet-scout-the-newest-ev-brand-from-volkswagen/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### AWS goes all in on AI agents with new features for Bedrock and Amazon Q](https://digitpatrox.com/aws-goes-all-in-on-ai-agents-with-new-features-for-bedrock-and-amazon-q/)
-* [3 hours ago
+    ### Should You Buy a Walmart Onn TV?](https://digitpatrox.com/should-you-buy-a-walmart-onn-tv/)
+* [4 hours ago
     
-    ### the Latest AI Models Revolutionizing Business](https://digitpatrox.com/the-latest-ai-models-revolutionizing-business/)
-* [3 hours ago
+    ### Xbox’s Year in Review is Back for 2024](https://digitpatrox.com/xboxs-year-in-review-is-back-for-2024/)
+* [4 hours ago
     
-    ### Bournemouth vs Tottenham live stream: How to watch Premier League game online, TV broadcasters, free trial](https://digitpatrox.com/bournemouth-vs-tottenham-live-stream-how-to-watch-premier-league-game-online-tv-broadcasters-free-trial/)
+    ### How to add or remove the seconds from the Windows 11 clock](https://digitpatrox.com/how-to-add-or-remove-the-seconds-from-the-windows-11-clock/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
