@@ -168,7 +168,7 @@
     
     [![Brian Binder](https://static.wingify.com/gcp/uploads/2024/12/unnamed.jpg?tr=w-60,h-50)
     
-    The intersection between A/B testing and incrementality](https://vwo.com/webinars/the-intersection-between-a-b-testing-and-incrementality/)
+    The Intersection Between A/B Testing and Incrementality](https://vwo.com/webinars/the-intersection-between-a-b-testing-and-incrementality/)
     
     [![Ajit Singh](https://static.wingify.com/gcp/uploads/2024/11/1516552969221.jpeg?tr=w-60,h-50)
     
