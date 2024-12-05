@@ -209,4 +209,4 @@ or address at 280 Joseph St, Kitchener, ON, Canada N2G 4Z5
 
 ©2024 Snapwise Inc. d/b/a Ground News
 
-[Cookie Preference Center](https://about.ground.news/cookie-preferences)[DNSSMPI](https://about.ground.news/do-not-sell-my-personal-information)[Feedback](https://about.ground.news/feedback)[Terms & Conditions](https://about.ground.news/)[Privacy Policy](https://about.ground.news/privacy-policy)
+[Cookie Preference Center](https://about.ground.news/cookie-preferences)[DNSSMPI](https://about.ground.news/do-not-sell-my-personal-information)[Contact Us](https://about.ground.news/feedback)[Terms & Conditions](https://about.ground.news/)[Privacy Policy](https://about.ground.news/privacy-policy)
