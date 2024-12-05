@@ -133,29 +133,29 @@
 
 #### Latest news
 
-[![Three people in a meeting room in conversation](/siteassets/resources/images/-news-centre/thumbnail-images/access-and-inclusion/three-people-in-a-meeting-room-in-conversation.jpg?width=1920&height=1085&quality=80)
+[![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
 
-### Steady growth in broadcasting jobs based outside of London
+### Ofcom appoints Oliver Griffiths as Group Director, Online Safety
 
-4 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/equity-and-diversity/steady-growth-in-broadcasting-jobs-based-outside-of-london/)
+5 December 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/ofcom-appoints-oliver-griffiths-as-group-director-online-safety/)
 
-[![PoW-24-25-(Web)](/siteassets/resources/documents/consultations/category-2-6-weeks/consultation-ofcoms-plan-of-work-202526/main-document/pow-24-25-web.jpg?width=1920&height=1085&quality=80)
+[![CN 24 NC_Eng web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_eng-web.jpg?width=1920&height=1085&quality=80)
 
-### Consultation: Ofcom publishes its proposed Plan of Work for 2025/26
+### Full-fibre broadband reaches nearly 7 in 10 homes
 
-4 December 2024](https://www.ofcom.org.uk/about-ofcom/annual-reports-and-plans/consultation-ofcom-publishes-its-proposed-plan-of-work-for-202526/)
+5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-nearly-7-in-10-homes/)
 
-[![View of BBC's regional headquarters in Salford ](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-salford.jpg?width=1920&height=1085&quality=80)
+[![CN 24 NC_Wales web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_wales-web.jpg?width=1920&height=1085&quality=80)
 
-### BBC Annual Report and Local Media Review
+### Full-fibre broadband reaches one million homes in Wales
 
-29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/bbc-annual-report-and-local-media-review/)
+5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-one-million-homes-in-wales/)
 
-[![Exterior photo of BBC studios](/siteassets/resources/images/-news-centre/thumbnail-images/tv-and-on-demand/bbc-hq-web.jpg?width=1920&height=1085&quality=80)
+[![CN 24 NC_Scot web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_scot-web.jpg?width=1920&height=1085&quality=80)
 
-### How Ofcom deals with BBC complaints – what you need to know
+### Connected Nations report finds big advances in Scotland’s connectivity in 2024
 
-29 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/how-ofcom-deals-with-bbc-complaints--what-you-need-to-know/)
+5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-report-finds-big-advances-in-scotlands-connectivity-in-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
