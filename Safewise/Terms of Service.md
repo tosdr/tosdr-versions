@@ -14,7 +14,7 @@ We [may earn money](https://www.safewise.com/ranking-reviews/) when you buy thro
 
 [Best Home Security Systems](https://www.safewise.com/best-home-security-system/)
 
-[Best DIY Home Security Systems](https://www.safewise.com/best-home-security-system/diy/)
+[Best No-Subscription Home Security Systems](https://www.safewise.com/best-home-security-system/self-monitored/)
 
 [Best Apartment Security Systems](https://www.safewise.com/best-home-security-system/renters/)
 
