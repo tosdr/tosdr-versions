@@ -928,6 +928,7 @@ About Care.com
 * [Careers](https://www.care.com/careers/)
 * [Terms of use](https://www.care.com/terms-of-use-p1012.html)
 * [Privacy policy](https://www.care.com/privacy-policy-p1013.html)
+* [Care.org](https://www.care.org/)
 
 Get help
 
