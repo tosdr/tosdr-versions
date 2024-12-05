@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/drum-kit-components-worksheet/)
+ [](https://schoolsmusicmarket.com/product/songwriting-powerpoint-lets-write-a-chorus/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/exploring-hip-hop-part-1-powerpoint/)
+ [](https://schoolsmusicmarket.com/product/decorate-the-eggs-easter-music-worksheet/)
 
 ###### Browse By Year/Grade
 
