@@ -59,6 +59,11 @@ Garan does not want to receive confidential, proprietary, or trade secret inform
 
 These Terms and Conditions of Use shall be governed by the laws of the State of New York, without giving effect to its conflict of laws provisions.
 
+Kid Pack Gift-Away
+------------------
+
+[Please see here for the official rules of the Garanimals Kid Pack Gift-Away Giveaway.](https://e.issuu.com/embed.html?backgroundColor=%23ffffff&backgroundColorFullscreen=%23ffffff&d=garan_-_garanimals_kid_pack_gift-away_giveaway_swe&u=garanimals&hideIssuuLogo=true&pageLayout=singlePage)
+
 Mix _'_em up
 ------------
 
