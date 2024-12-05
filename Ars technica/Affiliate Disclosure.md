@@ -93,7 +93,7 @@ Most Read
     
 4. 4. [Splash pads really are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
     
-5. 5. [Certain names make ChatGPT grind to a halt, and we know why](https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/)
+5. 5. [Microsoft reiterates “non-negotiable” TPM 2.0 requirement for Windows 11](https://arstechnica.com/gadgets/2024/12/microsoft-reiterates-non-negotiable-tpm-2-0-requirement-for-windows-11/)
     
 
 Customize
