@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/BloodDriveHero-250x141.jpg)
+* [![](https://www.unc.edu/wp-content/uploads/2024/12/JeffAyersHERO_v5-250x141.png)
     
-    Holiday Carolina Blood Drive helps those in need](https://www.unc.edu/posts/2024/11/26/holiday-carolina-blood-drive-helps-those-in-need/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/RidgeRdHero-250x141.jpg)
+    Jeff Ayers beat cancer to earn his doctorate](https://www.unc.edu/posts/2024/12/04/jeff-ayers-beat-cancer-to-earn-his-doctorate/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/12/HERO-Centennial-250x141.png)
     
-    Ridge Road closed to through traffic Dec. 1–Jan. 8](https://www.unc.edu/posts/2024/11/26/ridge-road-closed-to-through-traffic-dec-1-jan-8/)
+    2024 is a year of Carolina centennials](https://www.unc.edu/posts/2024/12/04/2024-is-a-year-of-carolina-centennials/) 
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=860a0c63ef&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=353724876c&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
