@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/SP-Webinar-Testing-PCI-Compliance-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/K365-USER-Webinar-Jeopardy-Dec5-1200x800-Events-300x200.jpg)
     
-    PCI Compliance: Preventing Cyber Liability Denials and Costly Fines
+    Cybersecurity Jeopardy
     
-    December 4
+    December 5
     
     [View All Events](https://www.kaseya.com/events/)
     
