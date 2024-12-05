@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Honesty
+
+### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
+
 [Innovation
 
 ### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
@@ -99,10 +103,6 @@ Recent Stories
 [Resilience
 
 ### South Korea’s swift rescue of freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1204/South-Korea-s-swift-rescue-of-freedom "South Korea’s swift rescue of freedom")
-
-[Freedom
-
-### Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.](https://www.csmonitor.com/USA/Politics/2024/1204/public-school-classroom-ten-commandments-trump-bible "Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
+
 [### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
 
 [### No confidence: French lawmakers oust prime minister over budget woes](https://www.csmonitor.com/World/Europe/2024/1204/france-no-confidence-vote "No confidence: French lawmakers oust prime minister over budget woes")
-
-[### Martial law for a moment: What just happened in South Korea](https://www.csmonitor.com/World/Asia-Pacific/2024/1204/South-Korea-martial-law-attempt "Martial law for a moment: What just happened in South Korea")
 
 * * *
 
