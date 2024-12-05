@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Everything I NeedChayce Beckham<br><br>4:39am |
-| Better Than YouJoe Nichols Ft Annie Bosko<br><br>4:36am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>4:32am |
-| Love The LeavinDrew Parker<br><br>4:30am |
-| Truck BedHardy<br><br>4:27am |
+| Think I'M In Love With YouChris Stapleton<br><br>10:40am |
+| Wont Let GoRascal Flatts<br><br>10:35am |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:30am |
+| What If I Never Get Over YouLady A<br><br>10:25am |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:20am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Pacific NW
+News Talk • Eastern
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Top 40 • Eastern
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
