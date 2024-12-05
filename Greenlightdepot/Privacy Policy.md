@@ -169,7 +169,7 @@ Back
 * [Double Ring](https://greenlightdepot.com/collections/double-ring)
 * [Mushroom](https://greenlightdepot.com/collections/mushroom)
 
-[Green Light Depot ![Green Light Depot](//greenlightdepot.com/cdn/shop/files/Greenlightdepot-04_140x@2x.png?v=1696879470)](https://greenlightdepot.com/) 
+[Green Light Depot ![Green Light Depot](//greenlightdepot.com/cdn/shop/files/GLD_Logo_7ea11e78-a878-4207-a005-28e8542ce28f_140x@2x.png?v=1733407151)](https://greenlightdepot.com/) 
 
  Clear
 
