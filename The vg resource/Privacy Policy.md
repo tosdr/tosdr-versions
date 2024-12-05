@@ -121,7 +121,7 @@ This page does not work well in portrait mode on mobile. Please rotate your devi
 * [Mario Customs](https://www.spriters-resource.com/custom_edited/mariocustoms/)
 * [Fire Emblem: Heroes](https://www.spriters-resource.com/mobile/fireemblemheroes/)
 * [Undertale](https://www.spriters-resource.com/pc_computer/undertale/)
-* [Metal Slug Attack](https://www.spriters-resource.com/mobile/metalslugattack/)
+* [Deltarune](https://www.spriters-resource.com/pc_computer/deltarune/)
 
 * Affiliates
 * [Sprite Database](https://spritedatabase.net/)
