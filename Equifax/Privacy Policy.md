@@ -521,7 +521,7 @@
     
     Get the latest trends, understand shifts in the economy, and be ready for what’s next. We combine vast industry knowledge with our differentiated data to bring you insights that power your next move.
     
-    [Explore Trends & Insights](https://www.equifax.com/test/business/trends-insights/)
+    [Explore Trends & Insights](https://www.equifax.com/business/trends-insights/)
     
     ![](//assets.equifax.com/marketing/US/images/trends_insights_nav_423x235.jpg)
     
