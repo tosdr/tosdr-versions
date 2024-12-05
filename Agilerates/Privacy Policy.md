@@ -43,7 +43,7 @@ Call for FREE quotes 1-833-987-2396
 agilerates.com Privacy Policy
 -----------------------------
 
-_Last Updated: Oct 17th, 2023_
+_Last Updated: Dec 4th, 2024_
 
 Excel Impact, LLC, a Delaware limited liability company ("Excel Impact", "agilerates.com", "we" or "our"), is the owner and operator of this website agilerates.com. agilerates.com respects the privacy of our consumer users ("you" or "your") and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. If you are an individual who is a user of this website, who accesses or responds to advertisements or offers e-mailed or displayed to you relating to this website or auto insurance, or who is otherwise as a user of the services provided by agilerates.com, this Privacy Policy is intended to describe for you, among other things:
 
