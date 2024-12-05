@@ -1,3 +1,7 @@
+[Walmart: Canada’s #1 toy shop - every toy on their list + 1% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/walmart?store=walmart&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -157,7 +161,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[HelloFresh
         
-        7.5% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
+        15% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
         12% Cash Back](https://www.rakuten.ca/temu)
         
@@ -171,7 +175,7 @@ FR
         
         Chefs Plate
         
-        7.5% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
+        15% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -285,7 +289,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
-        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
+        8% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
@@ -686,13 +690,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 10% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson3.png "Dyson Coupons, Promo Codes")
+[![Earn 2% Cash Back from Rakuten.ca with Canadian Tire Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306303/en-stickyfooter-1170x60_canadian-tire2.png "Canadian Tire Coupons, Promo Codes")
 
-was 2.5%, now
+2% Cash Back
 
-10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/canadian-tire?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
