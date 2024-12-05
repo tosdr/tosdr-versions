@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Innovation
+
+### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
+
 [Resilience
 
 ### South Korea’s swift rescue of freedom](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1204/South-Korea-s-swift-rescue-of-freedom "South Korea’s swift rescue of freedom")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.](https://www.csmonitor.com/USA/Politics/2024/1204/public-school-classroom-ten-commandments-trump-bible "Reading, writing, and the Ten Commandments? Why some public schools teach the Bible.")
 
-[Community
-
-### Curtis Chin grew up in a Chinese restaurant. He’s on a 300-city tour to save others.](https://www.csmonitor.com/Books/Author-Q-As/2024/1204/chinatown-chinese-restaurants-curtis-chin "Curtis Chin grew up in a Chinese restaurant. He’s on a 300-city tour to save others.")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 03, 2024
+December 04, 2024
 
-‘A renovating virtue’
+Large challenges, larger thinking
 
-William Wordsworth wrote that “There are in our existence spots of time, / That with distinct pre-eminence retain / A renovating virtue.” His poem came to mind as I read Colette Davidson’s story today on women flocking to support Gisèle Pelicot, whose husband’s ongoing trial for years of drugging and raping her, and inviting others to do the same, has gripped France.Colette unfolds the power of one person’s example, as women, moved by Ms. Pelicot’s daily presence in court, have flocked to her side. They’re taking time off from work and traveling to support her and thank her face-to-face. It’s a portrait of that “renovating virtue,” which, Wordsworth continues, “enables us to mount, / When high, more high, and lifts us up when fallen.”
+When Lenora Chu looked into the rise of the far right in the former East Germany, here’s what she found. A feeling that west Germany looks down on those in the east. A sense that no party looks out for “the people at the bottom.” The worry that “everything in Germany is going downhill.” We see these same patterns in the United States and elsewhere. Seeing things in these larger ways can sometimes awaken us and help us see from a fresh perspective. In that way, Lenora’s report isn’t just about a German state, but also about a deeper question of how to help restore hope and dignity to those feeling abandoned by a changing world.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
+
 [### No confidence: French lawmakers oust prime minister over budget woes](https://www.csmonitor.com/World/Europe/2024/1204/france-no-confidence-vote "No confidence: French lawmakers oust prime minister over budget woes")
 
 [### Martial law for a moment: What just happened in South Korea](https://www.csmonitor.com/World/Asia-Pacific/2024/1204/South-Korea-martial-law-attempt "Martial law for a moment: What just happened in South Korea")
-
-[### Where Nazis first won office, Germans are voting for right-wing extremists](https://www.csmonitor.com/World/Europe/2024/1204/germany-thuringia-nazism-extreme-right-elections "Where Nazis first won office, Germans are voting for right-wing extremists")
 
 * * *
 
