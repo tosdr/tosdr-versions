@@ -366,4 +366,4 @@ Depending on your location, you may also seek the help of a consumer ombudsman o
 
 [Legal](https://toogoodtogo.com/en-us/legal "Legal")[Privacy Policy](https://toogoodtogo.com/en-us/privacy "Privacy Policy")[Cookie Policy](https://toogoodtogo.com/en-us/cookie-policy "Cookie Policy")[Terms & Conditions](https://toogoodtogo.com/en-us/terms-and-conditions-using-the-app "Terms & Conditions")[Contact us](https://toogoodtogo.com/en-us/contact-us "Contact us")[DSA Disclosure](https://toogoodtogo.com/en-us/legal/dsa-disclosure "DSA Disclosure")[Do Not Sell or Share My Data](https://toogoodtogo.com/en-us/legal/privacy-settings "Do Not Sell or Share My Data")[Food Waste Sources](https://toogoodtogo.com/en-us/tgtg-claims "Food Waste Sources")[Status](https://status.toogoodtogo.com/ "Status")
 
-Copyright © 2023—2024 Too Good To Go International. All Rights Reserved.
+Copyright © Too Good To Go ApS. All Rights Reserved.
