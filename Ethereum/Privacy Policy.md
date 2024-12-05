@@ -246,7 +246,7 @@ On this page
 
 * [Privacy Policy](#privacy-policy)
 
-Website last updated: November 27, 2024
+Website last updated: December 5, 2024
 
 Go to top
 
