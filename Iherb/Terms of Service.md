@@ -1,1707 +1,1681 @@
-Your preference has been updated for this session. To permanently change your account setting, go to [My Account](https://checkout.iherb.com/users/account)
+Ihre Präferenzen wurden für diese Sitzung aktualisiert. Um Ihre Account-Einstellungen dauerhaft zu ändern, gehen Sie zu
 
-As a reminder, you can update you preferred country or language anytime in [My Account](https://checkout.iherb.com/users/account)
+Zur Erinnerung: Sie können Ihr bevorzugtes Land oder Ihre bevorzugte Sprache jederzeit in
 
 \> iherblogo beauty2 heart-circle sports-fitness food-nutrition herbs-supplements pageview
 
-[Click to view our Accessibility Statement](https://www.iherb.com/info/accessibility)
+[Klicken Sie hier, um unsere Erklärung zur Barrierefreiheit anzuzeigen](https://de.iherb.com/info/accessibility)
 
-[eGift Cards](https://www.iherb.com/lp/gift-cards)
+[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[Up to 20% off Brands of the Week](https://www.iherb.com/c/brands-of-the-week)
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
-[World’s Best Value](https://www.iherb.com/info/about)
+[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-[Free Shipping over $30](https://de.iherb.com/shipping)
+[Kostenloser Versand ab 40,00 €](https://de.iherb.com/shipping)
 
-[iHerb App](https://de.iherb.com/info/app)
+[iHerb-App](https://de.iherb.com/info/app)
 
-Deliver to  
-
-checkoutarrow
-
-US
-
-EN
-
-USD
-
-[eGift Cards](https://www.iherb.com/lp/gift-cards)
-
-[Up to 20% off Brands of the Week](https://www.iherb.com/c/brands-of-the-week)
-
-[World’s Best Value](https://www.iherb.com/info/about)
-
-Deliver to  
+Liefern an   Deutschland
 
 checkoutarrow
 
-US
+DE
 
-EN
+DE
 
-USD
+EUR
 
-[](https://www.iherb.com/)
+[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-Search history
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
-Clear
+[Letzte Chance](https://de.iherb.com/specials?specialtyFilters=12)
 
-Trending now
+Liefern an   Deutschland
 
-Browse
+checkoutarrow
 
-[Sign in](https://checkout.iherb.com/account/login/?referrerRedirect=true)
+DE
 
-Hi 
+DE
 
-[My Account](https://checkout.iherb.com/users/dashboard)
+EUR
+
+[](https://de.iherb.com/)
+
+Suchverlauf
+
+Alles löschen
+
+Trendprodukte
+
+Schon entdeckt?
+
+[Anmelden](https://checkout1.iherb.com/account/login/?referrerRedirect=true)
+
+Hallo 
+
+[Mein Account](https://checkout1.iherb.com/users/dashboard)
 
 ![](https://s3.images-iherb.com/cms/my-account/iHerb%20Rewards.svg)
 
 $38.3M+
 
-Credits rewarded in 2023
+2023 gutgeschriebene Prämien
 
 1.3M+
 
-Free or partially free orders rewarded in 2023
+2023 kostenlos oder teilweise kostenlos erhaltene Bestellungen
 
-Available Rewards
+Verfügbare Prämien
 
-Expires {0}
+Verfällt am {0}
 
-Pending Rewards
+Ausstehende Prämien
 
-Your Rewards account is blocked.
+Ihr Prämienaccount wurde gesperrt.
 
-Your Rewards account is paused.
+Ihr Prämienaccount wurde pausiert.
 
 $0.00
 
-Available Rewards
+Verfügbare Prämien
 
-Start shopping and earn Rewards today!
+Beginnen Sie noch heute mit dem Einkaufen und verdienen Sie Prämien!
 
-[Learn More](https://secure.iherb.com/rewards/info/rewards-program)
+[Mehr erfahren](https://secure.iherb.com/rewards/info/rewards-program)
 
-[Go to My Rewards](https://secure.iherb.com/rewards/overview)
+[Meine Prämien ansehen](https://secure.iherb.com/rewards/overview)
 
-Welcome {0}!
+Herzlich Willkommen {0}!
 
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/account_v2.png)
     
-    My Account](https://checkout.iherb.com/users/dashboard)
+    Mein Account](https://checkout1.iherb.com/users/dashboard)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/order_v2.png)
     
-    Orders](https://secure.iherb.com/orders/gc-tracking)
-* [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/Autoship_Save_v2.png)
-    
-    Autoship & Save](https://secure.iherb.com/myaccount/subscription)
+    Bestellungen](https://secure.iherb.com/orders/gc-tracking)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/wish_list_v2.png)
     
-    My Lists](https://www.iherb.com/ugc/wishlist)
+    Meine Wunschlisten](https://de.iherb.com/ugc/wishlist)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/dollar_sign_v2.png)
     
-    Rewards Credit](https://secure.iherb.com/rewards/overview)
+    Prämienguthaben](https://secure.iherb.com/rewards/overview)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/Reviews_v2.png)
     
-    My Reviews](https://www.iherb.com/ugc/myaccount/review)
+    Meine Rezensionen](https://de.iherb.com/ugc/myaccount/review)
 * [![icon](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/my-account/message_v2.png)
     
-    Messages](https://secure.iherb.com/myaccount/messagecenter)
+    Nachrichtencenter](https://secure.iherb.com/myaccount/messagecenter)
 
-* [Sign out](https://checkout.iherb.com/account/logoff)
-* [Sign in](https://checkout.iherb.com/account/login/?referrerRedirect=true)
-* [Create Account](https://checkout.iherb.com/auth/Account/Register)
+* [Abmelden](https://checkout1.iherb.com/account/logoff)
+* [Anmelden](https://checkout1.iherb.com/account/login/?referrerRedirect=true)
+* [Account erstellen](https://checkout1.iherb.com/auth/Account/Register)
 
-[](https://checkout.iherb.com/cart)
+[](https://checkout1.iherb.com/cart)
 
-Image Coming Soon
+Foto kommt demnächst
 
-Added to Cart
+In den Warenkorb gelegt
 
-Total:
+Summe:
 
-Discount:
+Rabatt:
 
-Together:
+Zusammen:
 
-Quantity:
+Menge:
 
-Deliver every
+Lieferung alle
 
 Cart Total:
 
-[Checkout](https://checkout.iherb.com/cart)
+[Kasse](https://checkout1.iherb.com/cart)
 
-Customers Also Bought:
+Kunden kauften auch:
 
 Shop
 
-Brands
+Marken
 
-Help With
+Themenwelten
 
-[New](https://www.iherb.com/new-products)[Specials](https://www.iherb.com/specials)[Try](https://www.iherb.com/trial-pricing)[Best Sellers](https://www.iherb.com/catalog/topsellers)
+[Neu](https://de.iherb.com/new-products)[Specials!](https://de.iherb.com/specials)[Testprodukte](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/topsellers)
 
-[eGift Cards](https://www.iherb.com/lp/gift-cards)
+[Marken der Woche bis zu 20% reduziert](https://de.iherb.com/c/brands-of-the-week)
 
-[Up to 20% off Brands of the Week](https://www.iherb.com/c/brands-of-the-week)
+[Das beste Preis-Leistungs-Verhältnis](https://de.iherb.com/info/about)
 
-[Supplements](https://www.iherb.com/c/supplements)
+[Nahrungsergänzungen](https://de.iherb.com/c/supplements)
 
-[Antioxidants](https://www.iherb.com/c/antioxidants)
+[Antioxidantien](https://de.iherb.com/c/antioxidants)
 
-[Alpha Lipoic Acid](https://www.iherb.com/c/alpha-lipoic-acid)
+[Alpha-Liponsäure](https://de.iherb.com/c/alpha-lipoic-acid)
 
-[Astaxanthin](https://www.iherb.com/c/astaxanthin)
+[Astaxanthin](https://de.iherb.com/c/astaxanthin)
 
-[CoQ10](https://www.iherb.com/c/coenzyme-q10-coq10)
+[CoQ10](https://de.iherb.com/c/coenzyme-q10-coq10)
 
-[L-Glutathione](https://www.iherb.com/c/l-glutathione)
+[L-Glutathion](https://de.iherb.com/c/l-glutathione)
 
-[Lutein & Zeaxanthin](https://www.iherb.com/c/lutein)
+[Lutein und Zeaxanthin](https://de.iherb.com/c/lutein)
 
-[NAC](https://www.iherb.com/c/n-acetyl-cysteine-nac)
+[NAC](https://de.iherb.com/c/n-acetyl-cysteine-nac)
 
-[Resveratrol](https://www.iherb.com/c/resveratrol)
+[Resveratrol](https://de.iherb.com/c/resveratrol)
 
-[Turmeric & Curcumin](https://www.iherb.com/c/turmeric-curcumin)
+[Kurkuma und Kurkumin](https://de.iherb.com/c/turmeric-curcumin)
 
-[Amino Acids](https://www.iherb.com/c/amino-acids)
+[Aminosäuren](https://de.iherb.com/c/amino-acids)
 
-[L-Arginine](https://www.iherb.com/c/l-arginine)
+[L-Arginin](https://de.iherb.com/c/l-arginine)
 
-[L-Carnitine](https://www.iherb.com/c/l-carnitine)
+[L-Carnitin](https://de.iherb.com/c/l-carnitine)
 
-[L-Theanine](https://www.iherb.com/c/l-theanine)
+[L-Theanin](https://de.iherb.com/c/l-theanine)
 
-[Bee Products](https://www.iherb.com/c/bee-products)
+[Bienenprodukte](https://de.iherb.com/c/bee-products)
 
-[Bone, Joint & Cartilage](https://www.iherb.com/c/bone-joint-cartilage)
+[Knochen, Gelenke und Knorpel](https://de.iherb.com/c/bone-joint-cartilage)
 
-[Collagen](https://www.iherb.com/c/collagen)
+[Kollagen](https://de.iherb.com/c/collagen)
 
-[Glucosamine](https://www.iherb.com/c/glucosamine-chondroitin-formulas)
+[Glucosamin](https://de.iherb.com/c/glucosamine-chondroitin-formulas)
 
-[Brain & Cognitive](https://www.iherb.com/c/brain-cognitive)
+[Gehirn und kognitive Fähigkeiten](https://de.iherb.com/c/brain-cognitive)
 
-[Digestion](https://www.iherb.com/c/digestive-support)
+[Verdauung](https://de.iherb.com/c/digestive-support)
 
-[Colostrum](https://www.iherb.com/c/colostrum)
+[Kolostrum](https://de.iherb.com/c/colostrum)
 
-[Enzymes](https://www.iherb.com/c/digestive-enzymes)
+[Enzyme](https://de.iherb.com/c/digestive-enzymes)
 
-[Fiber](https://www.iherb.com/c/fiber)
+[Ballaststoffe](https://de.iherb.com/c/fiber)
 
-[Probiotics](https://www.iherb.com/c/probiotics)
+[Probiotika](https://de.iherb.com/c/probiotics)
 
-[Fish Oils & Omegas](https://www.iherb.com/c/fish-oil-omegas-epa-dha)
+[Fischöle und Omegas](https://de.iherb.com/c/fish-oil-omegas-epa-dha)
 
-[Cod Liver Oil](https://www.iherb.com/c/cod-liver-oil)
+[Kabeljau-Lebertran](https://de.iherb.com/c/cod-liver-oil)
 
-[Krill Oil](https://www.iherb.com/c/krill-oil)
+[Krillöl](https://de.iherb.com/c/krill-oil)
 
-[Omega-3 Fish Oil](https://www.iherb.com/c/omega-3-fish-oil)
+[Omega-3-Fischöl](https://de.iherb.com/c/omega-3-fish-oil)
 
-[Greens & Superfoods](https://www.iherb.com/c/greens-superfoods)
+[Gemüse und Superfoods](https://de.iherb.com/c/greens-superfoods)
 
-[Hair, Skin & Nails](https://www.iherb.com/c/hair-skin-nails)
+[Haare, Haut und Nägel](https://de.iherb.com/c/hair-skin-nails)
 
-[Herbs](https://www.iherb.com/c/herbs)
+[Heilpflanzen](https://de.iherb.com/c/herbs)
 
-[Adaptogens](https://www.iherb.com/c/adaptogens)
+[Adaptogene](https://de.iherb.com/c/adaptogens)
 
-[Ashwagandha](https://www.iherb.com/c/ashwagandha)
+[Ashwagandha](https://de.iherb.com/c/ashwagandha)
 
-[Berberine](https://www.iherb.com/c/berberine-barberry)
+[Berberin](https://de.iherb.com/c/berberine-barberry)
 
-[Elderberry Sambucus](https://www.iherb.com/c/elderberry-sambucus)
+[Holunder](https://de.iherb.com/c/elderberry-sambucus)
 
-[Ginko Biloba](https://www.iherb.com/c/ginkgo-biloba)
+[Ginkgo](https://de.iherb.com/c/ginkgo-biloba)
 
-[Ginseng](https://www.iherb.com/c/ginseng)
+[Ginseng](https://de.iherb.com/c/ginseng)
 
-[Herbal Formulas](https://www.iherb.com/c/herbal-formulas)
+[Kräuterformeln](https://de.iherb.com/c/herbal-formulas)
 
-[Milk Thistle](https://www.iherb.com/c/milk-thistle-silymarin)
+[Mariendistel](https://de.iherb.com/c/milk-thistle-silymarin)
 
-[Maca](https://www.iherb.com/c/maca)
+[Maca](https://de.iherb.com/c/maca)
 
-[Men's Health](https://www.iherb.com/c/mens-health)
+[Männergesundheit](https://de.iherb.com/c/mens-health)
 
-[Minerals](https://www.iherb.com/c/minerals)
+[Mineralstoffe](https://de.iherb.com/c/minerals)
 
-[Calcium](https://www.iherb.com/c/calcium)
+[Calcium](https://de.iherb.com/c/calcium)
 
-[Choline](https://www.iherb.com/c/choline)
+[Cholin](https://de.iherb.com/c/choline)
 
-[Iodine](https://www.iherb.com/c/iodine)
+[Jod](https://de.iherb.com/c/iodine)
 
-[Iron](https://www.iherb.com/c/iron)
+[Eisen](https://de.iherb.com/c/iron)
 
-[Magnesium](https://www.iherb.com/c/magnesium)
+[Magnesium](https://de.iherb.com/c/magnesium)
 
-[Selenium](https://www.iherb.com/c/selenium)
+[Selen](https://de.iherb.com/c/selenium)
 
-[Zinc](https://www.iherb.com/c/zinc)
+[Zink](https://de.iherb.com/c/zinc)
 
-[Mushrooms](https://www.iherb.com/c/mushrooms)
+[Pilze](https://de.iherb.com/c/mushrooms)
 
-[AHCC](https://www.iherb.com/c/ahcc)
+[AHCC](https://de.iherb.com/c/ahcc)
 
-[Lions Mane](https://www.iherb.com/c/lions-mane)
+[Löwenmähne](https://de.iherb.com/c/lions-mane)
 
-[NAD+](https://www.iherb.com/c/nad-nicotinamide-adenine-dinucleotide)
+[NAD+](https://de.iherb.com/c/nad-nicotinamide-adenine-dinucleotide)
 
-[Phospholipids](https://www.iherb.com/c/phospholipids)
+[Phospholipide](https://de.iherb.com/c/phospholipids)
 
-[Sleep](https://www.iherb.com/c/sleep)
+[Schlaf](https://de.iherb.com/c/sleep)
 
-[Vitamins](https://www.iherb.com/c/vitamins)
+[Vitamine](https://de.iherb.com/c/vitamins)
 
-[Multivitamins](https://www.iherb.com/c/multivitamins)
+[Multivitamine](https://de.iherb.com/c/multivitamins)
 
-[Vitamin A](https://www.iherb.com/c/vitamin-a)
+[Vitamin A](https://de.iherb.com/c/vitamin-a)
 
-[Vitamin B](https://www.iherb.com/c/vitamin-b)
+[Vitamin B](https://de.iherb.com/c/vitamin-b)
 
-[Vitamin C](https://www.iherb.com/c/vitamin-c)
+[Vitamin C](https://de.iherb.com/c/vitamin-c)
 
-[Vitamin D](https://www.iherb.com/c/vitamin-d)
+[Vitamin D](https://de.iherb.com/c/vitamin-d)
 
-[Vitamin E](https://www.iherb.com/c/vitamin-e)
+[Vitamin E](https://de.iherb.com/c/vitamin-e)
 
-[Vitamin K](https://www.iherb.com/c/vitamin-k)
+[Vitamin K](https://de.iherb.com/c/vitamin-k)
 
-[Weight Management](https://www.iherb.com/c/weight-management)
+[Gewichtskontrolle](https://de.iherb.com/c/weight-management)
 
-[Women's Health](https://www.iherb.com/c/womens-health)
+[Frauengesundheit](https://de.iherb.com/c/womens-health)
 
-[Shop all Supplements](https://www.iherb.com/c/supplements)
+[Alle Nahrungsergänzungsmittel](https://de.iherb.com/c/supplements)
 
-[Sports](https://www.iherb.com/c/sports)
+[Sportnahrung](https://de.iherb.com/c/sports)
 
-[Accessories](https://www.iherb.com/c/sports-accessories)
+[Accessoires](https://de.iherb.com/c/sports-accessories)
 
-[Belts & Trimmers](https://www.iherb.com/c/belts-trimmers)
+[Gürtel und Taillentrimmer](https://de.iherb.com/c/belts-trimmers)
 
-[Resistance Bands](https://www.iherb.com/c/resistance-bands)
+[Widerstandsbänder](https://de.iherb.com/c/resistance-bands)
 
-[Shaker & Water Bottles](https://www.iherb.com/c/shaker-water-bottles)
+[Shaker und Wasserflaschen](https://de.iherb.com/c/shaker-water-bottles)
 
-[Bars, Cookies, Brownies](https://www.iherb.com/c/sports-bars-cookies-brownies)
+[Riegel, Kekse, Brownies](https://de.iherb.com/c/sports-bars-cookies-brownies)
 
-[Diet & Weight Loss Bars](https://www.iherb.com/c/diet-weight-loss-bars)
+[Diätriegel](https://de.iherb.com/c/diet-weight-loss-bars)
 
-[Protein Bars](https://www.iherb.com/c/protein-bars)
+[Proteinriegel](https://de.iherb.com/c/protein-bars)
 
-[Protein Snacks](https://www.iherb.com/c/protein-snacks)
+[Protein-Snacks](https://de.iherb.com/c/protein-snacks)
 
-[Sport Bars](https://www.iherb.com/c/sport-bars)
+[Sportriegel](https://de.iherb.com/c/sport-bars)
 
-[Muscle Builders](https://www.iherb.com/c/muscle-builders)
+[Muskelaufbau](https://de.iherb.com/c/muscle-builders)
 
-[Creatine](https://www.iherb.com/c/creatine)
+[Kreatin](https://de.iherb.com/c/creatine)
 
-[HMB](https://www.iherb.com/c/hmb)
+[HMB](https://de.iherb.com/c/hmb)
 
-[Nitric Oxide](https://www.iherb.com/c/nitric-oxide)
+[Stickoxid](https://de.iherb.com/c/nitric-oxide)
 
-[Agmatine Sulfate](https://www.iherb.com/c/agmatine-sulfate)
+[Agmatinsulfat](https://de.iherb.com/c/agmatine-sulfate)
 
-[Beet](https://www.iherb.com/c/beet)
+[Rote Bete](https://de.iherb.com/c/beet)
 
-[Betaine Anhydrous](https://www.iherb.com/c/betaine-anhydrous)
+[Wasserfreies Betain](https://de.iherb.com/c/betaine-anhydrous)
 
-[Citrulline Malate](https://www.iherb.com/c/citrulline-malate)
+[Citrullin-Malat](https://de.iherb.com/c/citrulline-malate)
 
-[L-Citrulline](https://www.iherb.com/c/l-citrulline)
+[L-Citrullin](https://de.iherb.com/c/l-citrulline)
 
-[Post-Workout Recovery](https://www.iherb.com/c/post-workout-recovery)
+[Regeneration nach dem Workout](https://de.iherb.com/c/post-workout-recovery)
 
-[Amino Acid](https://www.iherb.com/c/amino-acids)
+[Aminosäure](https://de.iherb.com/c/amino-acids)
 
-[BCAA](https://www.iherb.com/c/bcaa)
+[BCAA](https://de.iherb.com/c/bcaa)
 
-[Carbohydrate Powders](https://www.iherb.com/c/carbohydrate-powders)
+[Kohlenhydratpulver](https://de.iherb.com/c/carbohydrate-powders)
 
-[L-Carnitine](https://www.iherb.com/c/l-carnitine)
+[L-Carnitin](https://de.iherb.com/c/l-carnitine)
 
-[L-Glutamine](https://www.iherb.com/c/l-glutamine)
+[L-Glutamin](https://de.iherb.com/c/l-glutamine)
 
-[Pre-Workout Supplements](https://www.iherb.com/c/pre-workout-supplements)
+[Ergänzungsmittel vor dem Workout](https://de.iherb.com/c/pre-workout-supplements)
 
-[Stim-free Pre-Workout](https://www.iherb.com/c/stim-free-pre-workout)
+[Pre-Workout ohne Stimulanzien](https://de.iherb.com/c/stim-free-pre-workout)
 
-[Stimulant](https://www.iherb.com/c/stimulant)
+[Stimulans](https://de.iherb.com/c/stimulant)
 
-[Protein](https://www.iherb.com/c/protein)
+[Protein](https://de.iherb.com/c/protein)
 
-[Animal Protein](https://www.iherb.com/c/animal-protein)
+[Tierisches Protein](https://de.iherb.com/c/animal-protein)
 
-[Bone Broth](https://www.iherb.com/c/bone-broth)
+[Knochenbrühe](https://de.iherb.com/c/bone-broth)
 
-[Casein Protein](https://www.iherb.com/c/casein-protein)
+[Kaseinprotein](https://de.iherb.com/c/casein-protein)
 
-[Meal Replacements](https://www.iherb.com/c/meal-replacements)
+[Mahlzeitenersatz](https://de.iherb.com/c/meal-replacements)
 
-[Plant Based Protein](https://www.iherb.com/c/plant-based-protein)
+[Pflanzliches Protein](https://de.iherb.com/c/plant-based-protein)
 
-[Protein Blends](https://www.iherb.com/c/protein-blends)
+[Proteinmischungen](https://de.iherb.com/c/protein-blends)
 
-[Ready to Drink](https://www.iherb.com/c/ready-to-drink)
+[Trinkfertig](https://de.iherb.com/c/ready-to-drink)
 
-[Weight Gainers](https://www.iherb.com/c/weight-gainers)
+[Gewichtszunahme](https://de.iherb.com/c/weight-gainers)
 
-[Whey Protein](https://www.iherb.com/c/whey-protein)
+[Molkenprotein](https://de.iherb.com/c/whey-protein)
 
-[Supplements](https://www.iherb.com/c/sports-supplements)
+[Nahrungsergänzungsmittel](https://de.iherb.com/c/sports-supplements)
 
-[Diet Formulas](https://www.iherb.com/c/diet-formulas)
+[Diätmittel](https://de.iherb.com/c/diet-formulas)
 
-[Fat Burners](https://www.iherb.com/c/fat-burners)
+[Fettverbrenner](https://de.iherb.com/c/fat-burners)
 
-[Hydration & Electrolytes](https://www.iherb.com/c/hydration-electrolytes)
+[Flüssigkeitszufuhr und Elektrolyte](https://de.iherb.com/c/hydration-electrolytes)
 
-[MCT Oil](https://www.iherb.com/c/mct-oil)
+[MCT-Öl](https://de.iherb.com/c/mct-oil)
 
-[Sports Fish Oil & Omegas](https://www.iherb.com/c/sports-fish-oil-omegas)
+[Sport-Fischöl und -Omega-Fettsäuren](https://de.iherb.com/c/sports-fish-oil-omegas)
 
-[Sports Multivitamins](https://www.iherb.com/c/sports-multivitamins)
+[Sport-Multivitamine](https://de.iherb.com/c/sports-multivitamins)
 
-[Tribulus](https://www.iherb.com/c/tribulus)
+[Burzeldorn](https://de.iherb.com/c/tribulus)
 
-[Shop all Sports](https://www.iherb.com/c/sports)
+[Alle Sportprodukte](https://de.iherb.com/c/sports)
 
-[Bath](https://www.iherb.com/c/bath-personal-care)
+[Bad](https://de.iherb.com/c/bath-personal-care)
 
-[Aromatherapy Oils](https://www.iherb.com/c/aromatherapy-essential-oils)
+[Aromatherapie-Öle](https://de.iherb.com/c/aromatherapy-essential-oils)
 
-[Balance](https://www.iherb.com/c/balance)
+[Balance](https://de.iherb.com/c/balance)
 
-[Energize & Uplift](https://www.iherb.com/c/energize-uplift)
+[Energie und Stimmung](https://de.iherb.com/c/energize-uplift)
 
-[Fragrance](https://www.iherb.com/c/fragrance)
+[Duftstoffe](https://de.iherb.com/c/fragrance)
 
-[Purify & Cleanse](https://www.iherb.com/c/purify-cleanse)
+[Rein und sauber](https://de.iherb.com/c/purify-cleanse)
 
-[Single Oils](https://www.iherb.com/c/single-oils)
+[Einzelne Öle](https://de.iherb.com/c/single-oils)
 
-[Bath & Shower](https://www.iherb.com/c/bath-shower)
+[Bad und Dusche](https://de.iherb.com/c/bath-shower)
 
-[Bar Soap](https://www.iherb.com/c/bar-soap)
+[Seifenstücke](https://de.iherb.com/c/bar-soap)
 
-[Bath Salts & Oils](https://www.iherb.com/c/bath-salts-oils)
+[Badesalz und Badeöl](https://de.iherb.com/c/bath-salts-oils)
 
-[Body Scrubs & Polish](https://www.iherb.com/c/body-scrub-polish)
+[Körperpeeling und -pflege](https://de.iherb.com/c/body-scrub-polish)
 
-[Body Wash & Shower Gel](https://www.iherb.com/c/body-wash-shower-gel)
+[Waschgel und Duschgel](https://de.iherb.com/c/body-wash-shower-gel)
 
-[Body Care](https://www.iherb.com/c/body-care)
+[Körperpflege](https://de.iherb.com/c/body-care)
 
-[Body & Massage Oils](https://www.iherb.com/c/body-massage-oil)
+[Körper- und Massageöl](https://de.iherb.com/c/body-massage-oil)
 
-[Body Butter](https://www.iherb.com/c/body-butters)
+[Körperbutter](https://de.iherb.com/c/body-butters)
 
-[Hand Cream](https://www.iherb.com/c/hand-cream)
+[Handcreme](https://de.iherb.com/c/hand-cream)
 
-[Lotion](https://www.iherb.com/c/lotion)
+[Lotion](https://de.iherb.com/c/lotion)
 
-[Skin Treatment](https://www.iherb.com/c/skin-treatment)
+[Hautpflege](https://de.iherb.com/c/skin-treatment)
 
-[Eye Care](https://www.iherb.com/c/eye-care)
+[Augentropfen & Co.](https://de.iherb.com/c/eye-care)
 
-[Eye Drops](https://www.iherb.com/c/eye-drops)
+[Augentropfen](https://de.iherb.com/c/eye-drops)
 
-[Foot Care](https://www.iherb.com/c/foot-care)
+[Fußpflege](https://de.iherb.com/c/foot-care)
 
-[Foot Creams & Treatments](https://www.iherb.com/c/foot-cream-treatments)
+[Fußcremes und Fußpflege](https://de.iherb.com/c/foot-cream-treatments)
 
-[Hair Care](https://www.iherb.com/c/hair-care)
+[Haarpflege](https://de.iherb.com/c/hair-care)
 
-[Conditioner](https://www.iherb.com/c/hair-conditioners)
+[Conditioner](https://de.iherb.com/c/hair-conditioners)
 
-[Dry Shampoo](https://www.iherb.com/c/dry-shampoo)
+[Trockenshampoo](https://de.iherb.com/c/dry-shampoo)
 
-[Hair Treatments](https://www.iherb.com/c/hair-treatments)
+[Haarkuren](https://de.iherb.com/c/hair-treatments)
 
-[Hair Accessories](https://www.iherb.com/c/hair-accessories)
+[Haaraccessoires](https://de.iherb.com/c/hair-accessories)
 
-[Hair Color](https://www.iherb.com/c/hair-color)
+[Haarfarbe und Tönung](https://de.iherb.com/c/hair-color)
 
-[Hair Styling](https://www.iherb.com/c/hair-styling)
+[Haarstyling](https://de.iherb.com/c/hair-styling)
 
-[K-Beauty Hair Care](https://www.iherb.com/c/k-beauty-hair-care)
+[Haarpflege K-Beauty](https://de.iherb.com/c/k-beauty-hair-care)
 
-[Shampoo](https://www.iherb.com/c/shampoo)
+[Shampoo](https://de.iherb.com/c/shampoo)
 
-[Lip Care](https://www.iherb.com/c/lip-care)
+[Lippenpflege](https://de.iherb.com/c/lip-care)
 
-[Lip Balm](https://www.iherb.com/c/lip-balm)
+[Lippenbalsam](https://de.iherb.com/c/lip-balm)
 
-[Medicine Cabinet](https://www.iherb.com/c/medicine-cabinet)
+[Medizinschrank](https://de.iherb.com/c/medicine-cabinet)
 
-[Antibiotics & Antiseptics](https://www.iherb.com/c/antibiotics-antiseptics)
+[Antibiotika und Antiseptika](https://de.iherb.com/c/antibiotics-antiseptics)
 
-[Nasal & Sinus Wash](https://www.iherb.com/c/nasal-sinus-wash)
+[Nasen- und Nebenhöhlenspülung](https://de.iherb.com/c/nasal-sinus-wash)
 
-[Sore Throat & Cough Lozenges](https://www.iherb.com/c/sore-throat-cough-lozenges)
+[Halsschmerztabletten und Hustenbonbons](https://de.iherb.com/c/sore-throat-cough-lozenges)
 
-[Topicals & Ointments](https://www.iherb.com/c/topical-ointments)
+[Topische Salben](https://de.iherb.com/c/topical-ointments)
 
-[Men's Grooming](https://www.iherb.com/c/mens-grooming)
+[Männerpflege](https://de.iherb.com/c/mens-grooming)
 
-[Oral Care](https://www.iherb.com/c/oral-care)
+[Mundpflege](https://de.iherb.com/c/oral-care)
 
-[Mouthwash, Rinse & Spray](https://www.iherb.com/c/mouthwash-rinse-spray)
+[Mundspülung und Sprays](https://de.iherb.com/c/mouthwash-rinse-spray)
 
-[Toothpaste](https://www.iherb.com/c/toothpaste)
+[Zahnpasta](https://de.iherb.com/c/toothpaste)
 
-[Oral Care Accessories](https://www.iherb.com/c/oral-care-accessories)
+[Mundpflegezubehör](https://de.iherb.com/c/oral-care-accessories)
 
-[Personal Care](https://www.iherb.com/c/personal-care)
+[Körperpflege](https://de.iherb.com/c/personal-care)
 
-[After Sun Care](https://www.iherb.com/c/after-sun-care)
+[After-Sun-Pflege](https://de.iherb.com/c/after-sun-care)
 
-[Bug & Insect Repellents](https://www.iherb.com/c/bug-insect-repellents)
+[Insektenschutzmittel](https://de.iherb.com/c/bug-insect-repellents)
 
-[Deodorant](https://www.iherb.com/c/deodorant)
+[Deodorant](https://de.iherb.com/c/deodorant)
 
-[Feminine Hygiene](https://www.iherb.com/c/feminine-hygiene)
+[Frauenhygiene](https://de.iherb.com/c/feminine-hygiene)
 
-[Self Tanning](https://www.iherb.com/c/self-tanning)
+[Selbstbräuner](https://de.iherb.com/c/self-tanning)
 
-[Shaving & Hair Removal](https://www.iherb.com/c/shaving-hair-removal)
+[Rasur und Haarentfernung](https://de.iherb.com/c/shaving-hair-removal)
 
-[Sunscreen](https://www.iherb.com/c/sunscreen)
+[Sonnenschutz](https://de.iherb.com/c/sunscreen)
 
-[Shop all Bath](https://www.iherb.com/c/bath-personal-care)
+[Alle Bad- und Pflegeprodukte](https://de.iherb.com/c/bath-personal-care)
 
-[Beauty](https://www.iherb.com/c/beauty)
+[Beauty](https://de.iherb.com/c/beauty)
 
-[Beauty by Ingredient](https://www.iherb.com/c/beauty-by-ingredient)
+[Beauty nach Inhaltsstoff](https://de.iherb.com/c/beauty-by-ingredient)
 
-[Coconut](https://www.iherb.com/c/coconut-skin-care)
+[Kokosnuss](https://de.iherb.com/c/coconut-skin-care)
 
-[Collagen](https://www.iherb.com/c/collagen-beauty)
+[Kollagen](https://de.iherb.com/c/collagen-beauty)
 
-[Hyaluronic Acid](https://www.iherb.com/c/hyaluronic-acid-serum-cream)
+[Hyaluronsäure](https://de.iherb.com/c/hyaluronic-acid-serum-cream)
 
-[Retinol](https://www.iherb.com/c/retinol-beauty)
+[Retinol](https://de.iherb.com/c/retinol-beauty)
 
-[Rice](https://www.iherb.com/c/rice-beauty)
+[Reis](https://de.iherb.com/c/rice-beauty)
 
-[Salicylic Acid](https://www.iherb.com/c/salicylic-acid)
+[Salicylsäure](https://de.iherb.com/c/salicylic-acid)
 
-[Snail](https://www.iherb.com/c/snail)
+[Schnecke](https://de.iherb.com/c/snail)
 
-[Vitamin C](https://www.iherb.com/c/vitamin-c-serums)
+[Vitamin C](https://de.iherb.com/c/vitamin-c-serums)
 
-[Face Masks & Peels](https://www.iherb.com/c/beauty-face-masks-peels)
+[Gesichtsmasken und Peelings](https://de.iherb.com/c/beauty-face-masks-peels)
 
-[Eye Masks](https://www.iherb.com/c/eye-masks)
+[Augenmasken](https://de.iherb.com/c/eye-masks)
 
-[Sheet Masks](https://www.iherb.com/c/sheet-masks1)
+[Tuchmasken](https://de.iherb.com/c/sheet-masks1)
 
-[Wash-off Face Masks](https://www.iherb.com/c/wash-off-face-masks)
+[Abwaschbare Gesichtsmasken](https://de.iherb.com/c/wash-off-face-masks)
 
-[Cleansers](https://www.iherb.com/c/cleanse-tone-scrub)
+[Reiniger](https://de.iherb.com/c/cleanse-tone-scrub)
 
-[Exfoliators & Scrubs](https://www.iherb.com/c/exfoliators-scrubs)
+[Peelings und Scrubs](https://de.iherb.com/c/exfoliators-scrubs)
 
-[Face Wash & Cleansers](https://www.iherb.com/c/face-wash-cleansers)
+[Gesichtsreiniger](https://de.iherb.com/c/face-wash-cleansers)
 
-[Toners](https://www.iherb.com/c/toners)
+[Gesichtswasser](https://de.iherb.com/c/toners)
 
-[Moisturizers & Creams](https://www.iherb.com/c/face-moisturizers-creams)
+[Feuchtigkeitspflege und Cremes](https://de.iherb.com/c/face-moisturizers-creams)
 
-[Day Moisturizers & Creams](https://www.iherb.com/c/day-moisturizers-creams)
+[Tagescremes und Feuchtigkeitspflege](https://de.iherb.com/c/day-moisturizers-creams)
 
-[Eye Creams](https://www.iherb.com/c/eye-creams)
+[Augencremes](https://de.iherb.com/c/eye-creams)
 
-[Face Mist](https://www.iherb.com/c/face-mist)
+[Gesichtsspray](https://de.iherb.com/c/face-mist)
 
-[Face Moisturizers & Creams](https://www.iherb.com/c/face-moisturizers-creams)
+[Gesichtscremes und Feuchtigkeitspflege](https://de.iherb.com/c/face-moisturizers-creams)
 
-[Face Oils](https://www.iherb.com/c/face-oil-care)
+[Gesichtsöle](https://de.iherb.com/c/face-oil-care)
 
-[Night Moisturizers & Creams](https://www.iherb.com/c/night-moisturizers-creams)
+[Nachtcremes und Feuchtigkeitspflege](https://de.iherb.com/c/night-moisturizers-creams)
 
-[Gifts](https://www.iherb.com/c/gifts-beauty)
+[Geschenke](https://de.iherb.com/c/gifts-beauty)
 
-[K-Beauty](https://www.iherb.com/c/k-beauty)
+[K-Beauty](https://de.iherb.com/c/k-beauty)
 
-[Makeup](https://www.iherb.com/c/makeup)
+[Make-up](https://de.iherb.com/c/makeup)
 
-[Eyes](https://www.iherb.com/c/eye)
+[Augen](https://de.iherb.com/c/eye)
 
-[Face](https://www.iherb.com/c/face)
+[Gesicht](https://de.iherb.com/c/face)
 
-[K-Beauty Makeup](https://www.iherb.com/c/k-beauty-makeup)
+[K-Beauty Make-up](https://de.iherb.com/c/k-beauty-makeup)
 
-[Lips](https://www.iherb.com/c/lips)
+[Lippen](https://de.iherb.com/c/lips)
 
-[Makeup Remover](https://www.iherb.com/c/makeup-remover)
+[Make-up-Entferner](https://de.iherb.com/c/makeup-remover)
 
-[Nails](https://www.iherb.com/c/nail)
+[Nägel](https://de.iherb.com/c/nail)
 
-[Makeup Accessories](https://www.iherb.com/c/makeup-brushes-accessories)
+[Make-up-Accessoires](https://de.iherb.com/c/makeup-brushes-accessories)
 
-[Brushes](https://www.iherb.com/c/makeup-brushes)
+[Pinsel](https://de.iherb.com/c/makeup-brushes)
 
-[Tools](https://www.iherb.com/c/makeup-tools)
+[Werkzeuge](https://de.iherb.com/c/makeup-tools)
 
-[Treatments & Serums](https://www.iherb.com/c/treatments-serums)
+[Intensivpflege und Seren](https://de.iherb.com/c/treatments-serums)
 
-[Acne & Blemish](https://www.iherb.com/c/acne-blemish)
+[Akne und Unreinheiten](https://de.iherb.com/c/acne-blemish)
 
-[Serums](https://www.iherb.com/c/serum)
+[Seren](https://de.iherb.com/c/serum)
 
-[Shop all Beauty](https://www.iherb.com/c/beauty)
+[Alle Beauty-Produkte](https://de.iherb.com/c/beauty)
 
-[Grocery](https://www.iherb.com/c/grocery)
+[Lebensmittel](https://de.iherb.com/c/grocery)
 
-[Baking, Flour & Mixes](https://www.iherb.com/c/baking-flour-mixes)
+[Backen, Mehl und Teig-Mixe](https://de.iherb.com/c/baking-flour-mixes)
 
-[Almond Flour & Meal](https://www.iherb.com/c/almond-flour-meal)
+[Mandelmehl](https://de.iherb.com/c/almond-flour-meal)
 
-[Extracts & Food Coloring](https://www.iherb.com/c/extracts-food-coloring)
+[Extrakte und Lebensmittelfarben](https://de.iherb.com/c/extracts-food-coloring)
 
-[Pancake & Waffle Mix](https://www.iherb.com/c/pancake-waffle-mix)
+[Pfannkuchen- und Waffelteig-Mix](https://de.iherb.com/c/pancake-waffle-mix)
 
-[Bars](https://www.iherb.com/c/bars)
+[Riegel](https://de.iherb.com/c/bars)
 
-[Nutritional Bars](https://www.iherb.com/c/nutritional-bars)
+[Nährstoffreiche Riegel](https://de.iherb.com/c/nutritional-bars)
 
-[Snack Bars](https://www.iherb.com/c/snack-bars)
+[Snackriegel](https://de.iherb.com/c/snack-bars)
 
-[Beans & Lentils](https://www.iherb.com/c/beans-lentils)
+[Bohnen und Linsen](https://de.iherb.com/c/beans-lentils)
 
-[Beverages](https://www.iherb.com/c/beverages)
+[Getränke](https://de.iherb.com/c/beverages)
 
-[Drinking Chocolate & Cocoa](https://www.iherb.com/c/drinking-chocolate-cocoa)
+[Trinkschokolade und Kakao](https://de.iherb.com/c/drinking-chocolate-cocoa)
 
-[Milk Powder](https://www.iherb.com/c/milk-powder)
+[Milchpulver](https://de.iherb.com/c/milk-powder)
 
-[Butter, Spread, Preserves](https://www.iherb.com/c/butters-spreads-preserves)
+[Butter, Aufstrich, Konfitüre](https://de.iherb.com/c/butters-spreads-preserves)
 
-[Cereals & Breakfast Foods](https://www.iherb.com/c/cereals-breakfast-foods)
+[Cerealien und Frühstück](https://de.iherb.com/c/cereals-breakfast-foods)
 
-[Granola](https://www.iherb.com/c/granola)
+[Müsli](https://de.iherb.com/c/granola)
 
-[Oats, Oatmeal](https://www.iherb.com/c/oats-oatmeal)
+[Haferflocken, Haferbrei](https://de.iherb.com/c/oats-oatmeal)
 
-[Cold Cereals](https://www.iherb.com/c/cold-cereals)
+[Frühstücksflocken](https://de.iherb.com/c/cold-cereals)
 
-[Chocolate & Candy](https://www.iherb.com/c/chocolate-candy)
+[Schokolade und Süßigkeiten](https://de.iherb.com/c/chocolate-candy)
 
-[Candy](https://www.iherb.com/c/candy)
+[Süßigkeiten](https://de.iherb.com/c/candy)
 
-[Chocolate](https://www.iherb.com/c/chocolate)
+[Schokolade](https://de.iherb.com/c/chocolate)
 
-[Gum](https://www.iherb.com/c/gum)
+[Kaugummi](https://de.iherb.com/c/gum)
 
-[Coffee](https://www.iherb.com/c/coffee)
+[Kaffee](https://de.iherb.com/c/coffee)
 
-[Condiments & Oils](https://www.iherb.com/c/condiments-oils-vinegars)
+[Saucen und Öle](https://de.iherb.com/c/condiments-oils-vinegars)
 
-[Ghee](https://www.iherb.com/c/ghee)
+[Ghee](https://de.iherb.com/c/ghee)
 
-[Olive Oil](https://www.iherb.com/c/olive-oil)
+[Olivenöl](https://de.iherb.com/c/olive-oil)
 
-[Vinegar](https://www.iherb.com/c/vinegar)
+[Essig](https://de.iherb.com/c/vinegar)
 
-[Creamers & Beverage Enhancers](https://www.iherb.com/c/creamers-beverage-enhancers)
+[Kaffeesahne und Getränkezugaben](https://de.iherb.com/c/creamers-beverage-enhancers)
 
-[Fruit & Vegetables](https://www.iherb.com/c/fruit-vegetables)
+[Obst und Gemüse](https://de.iherb.com/c/fruit-vegetables)
 
-[Herbs & Spices](https://www.iherb.com/c/herb-spices)
+[Kräuter und Gewürze](https://de.iherb.com/c/herb-spices)
 
-[Cayenne](https://www.iherb.com/c/cayenne)
+[Cayenne](https://de.iherb.com/c/cayenne)
 
-[Cinnamon](https://www.iherb.com/c/cinnamon-spices)
+[Zimt](https://de.iherb.com/c/cinnamon-spices)
 
-[Garlic](https://www.iherb.com/c/garlic-spices)
+[Knoblauch](https://de.iherb.com/c/garlic-spices)
 
-[Onion](https://www.iherb.com/c/onion)
+[Zwiebel](https://de.iherb.com/c/onion)
 
-[Paprika](https://www.iherb.com/c/paprika)
+[Paprika](https://de.iherb.com/c/paprika)
 
-[Pepper](https://www.iherb.com/c/pepper)
+[Pfeffer](https://de.iherb.com/c/pepper)
 
-[Salt](https://www.iherb.com/c/salt)
+[Salz](https://de.iherb.com/c/salt)
 
-[Spice Blends](https://www.iherb.com/c/spice-blends)
+[Gewürzmischungen](https://de.iherb.com/c/spice-blends)
 
-[Turmeric Spices](https://www.iherb.com/c/turmeric)
+[Kurkumagewürze](https://de.iherb.com/c/turmeric)
 
-[Vanilla](https://www.iherb.com/c/vanilla)
+[Vanille](https://de.iherb.com/c/vanilla)
 
-[Honey & Sweeteners](https://www.iherb.com/c/honey-sweeteners)
+[Honig und Süßstoffe](https://de.iherb.com/c/honey-sweeteners)
 
-[Allulose](https://www.iherb.com/c/allulose)
+[Allulose](https://de.iherb.com/c/allulose)
 
-[Maple Syrup](https://www.iherb.com/c/maple-syrup)
+[Ahornsirup](https://de.iherb.com/c/maple-syrup)
 
-[Honey](https://www.iherb.com/c/honey)
+[Honig](https://de.iherb.com/c/honey)
 
-[Monk Fruit (Lo Han)](https://www.iherb.com/c/monk-fruit)
+[Mönchsfrucht (Luo Han Guo)](https://de.iherb.com/c/monk-fruit)
 
-[Stevia](https://www.iherb.com/c/stevia)
+[Stevia](https://de.iherb.com/c/stevia)
 
-[Nuts & Seeds](https://www.iherb.com/c/nuts-seeds)
+[Nüsse und Samen](https://de.iherb.com/c/nuts-seeds)
 
-[Pasta, Rice, Grain & Bread](https://www.iherb.com/c/pasta-rice-grain-bread)
+[Nudeln, Reis, Getreide und Brot](https://de.iherb.com/c/pasta-rice-grain-bread)
 
-[Ready-to-Eat Meals](https://www.iherb.com/c/ready-to-eat-meals)
+[Fertiggerichte](https://de.iherb.com/c/ready-to-eat-meals)
 
-[Sauces & Marinades](https://www.iherb.com/c/sauces-marinades)
+[Saucen und Marinaden](https://de.iherb.com/c/sauces-marinades)
 
-[Seafood](https://www.iherb.com/c/seafood)
+[Meeresfrüchte](https://de.iherb.com/c/seafood)
 
-[Snacks](https://www.iherb.com/c/snacks)
+[Snacks](https://de.iherb.com/c/snacks)
 
-[Cookies](https://www.iherb.com/c/cookies)
+[Kekse und Cookies](https://de.iherb.com/c/cookies)
 
-[Crackers](https://www.iherb.com/c/crackers)
+[Cracker](https://de.iherb.com/c/crackers)
 
-[Soup & Broth](https://www.iherb.com/c/soup-broth)
+[Suppe und Brühe](https://de.iherb.com/c/soup-broth)
 
-[Tea](https://www.iherb.com/c/tea)
+[Tee](https://de.iherb.com/c/tea)
 
-[Black Tea](https://www.iherb.com/c/black-tea)
+[Schwarzer Tee](https://de.iherb.com/c/black-tea)
 
-[Chamomile Tea](https://www.iherb.com/c/chamomile-tea)
+[Kamillentee](https://de.iherb.com/c/chamomile-tea)
 
-[Fruit Tea](https://www.iherb.com/c/fruit-tea)
+[Früchtetee](https://de.iherb.com/c/fruit-tea)
 
-[Green Tea](https://www.iherb.com/c/green-tea)
+[Grüner Tee](https://de.iherb.com/c/green-tea)
 
-[Herbal Tea](https://www.iherb.com/c/herbal-tea)
+[Kräutertee](https://de.iherb.com/c/herbal-tea)
 
-[Matcha Tea](https://www.iherb.com/c/matcha-tea)
+[Matcha-Tee](https://de.iherb.com/c/matcha-tea)
 
-[Medicinal Teas](https://www.iherb.com/c/medicinal-teas)
+[Medizinische Tees](https://de.iherb.com/c/medicinal-teas)
 
-[Shop all Grocery](https://www.iherb.com/c/grocery)
+[Alle Lebensmittel](https://de.iherb.com/c/grocery)
 
-[Home](https://www.iherb.com/c/healthy-home)
+[Gesundes Haus & Heim](https://de.iherb.com/c/healthy-home)
 
-[Cleaning](https://www.iherb.com/c/cleaning)
+[Saubermachen und Putzen](https://de.iherb.com/c/cleaning)
 
-[Accessories](https://www.iherb.com/c/cleaning-accessories)
+[Accessoires](https://de.iherb.com/c/cleaning-accessories)
 
-[Dish & Utensil Cleaners](https://www.iherb.com/c/dishes-utensils)
+[Geschirr- und Besteckreiniger](https://de.iherb.com/c/dishes-utensils)
 
-[Household](https://www.iherb.com/c/household)
+[Haushalt](https://de.iherb.com/c/household)
 
-[Laundry](https://www.iherb.com/c/laundry)
+[Wäsche](https://de.iherb.com/c/laundry)
 
-[Home Fragrance](https://www.iherb.com/c/home-fragrance)
+[Raumdüfte](https://de.iherb.com/c/home-fragrance)
 
-[Air & Fabric Fresheners](https://www.iherb.com/c/air-fresheners-deodorizer)
+[Raum- und Textilspray](https://de.iherb.com/c/air-fresheners-deodorizer)
 
-[Household Supplies](https://www.iherb.com/c/household-supplies)
+[Haushaltsware](https://de.iherb.com/c/household-supplies)
 
-[Bags](https://www.iherb.com/c/bags)
+[Beutel](https://de.iherb.com/c/bags)
 
-[Home Accessories](https://www.iherb.com/c/home-accessories)
+[Wohnzubehör](https://de.iherb.com/c/home-accessories)
 
-[Outdoor & Gardening Supplies](https://www.iherb.com/c/outdoor-gardening-supplies)
+[Outdoor- und Gartenbedarf](https://de.iherb.com/c/outdoor-gardening-supplies)
 
-[Housewares](https://www.iherb.com/c/housewares)
+[Haushaltsartikel](https://de.iherb.com/c/housewares)
 
-[Food Storage & Containers](https://www.iherb.com/c/food-storage-containers)
+[Lebensmittelaufbewahrung und -behälter](https://de.iherb.com/c/food-storage-containers)
 
-[Kitchen Cloths & Towels](https://www.iherb.com/c/kitchen-cloth-towels)
+[Küchen- und Geschirrtücher](https://de.iherb.com/c/kitchen-cloth-towels)
 
-[Shaker & Water Bottles](https://www.iherb.com/c/shaker-water-bottles)
+[Shaker und Wasserflaschen](https://de.iherb.com/c/shaker-water-bottles)
 
-[Shop all Home](https://www.iherb.com/c/healthy-home)
+[Alle Haushaltsprodukte](https://de.iherb.com/c/healthy-home)
 
-[Baby](https://www.iherb.com/c/baby-kids)
+[Baby](https://de.iherb.com/c/baby-kids)
 
-[Accessories](https://www.iherb.com/c/baby-kids-accessories)
+[Accessoires](https://de.iherb.com/c/baby-kids-accessories)
 
-[Bath, Skin, Hair](https://www.iherb.com/c/baby-skin-hair)
+[Bad, Haut, Haare](https://de.iherb.com/c/baby-skin-hair)
 
-[All-in-One Shampoo & Body Wash](https://www.iherb.com/c/all-in-one-baby-shampoo-body-wash)
+[All-in-One Shampoo und Waschgel](https://de.iherb.com/c/all-in-one-baby-shampoo-body-wash)
 
-[Body & Hand Soap](https://www.iherb.com/c/baby-body-hand-soap)
+[Körper- und Handseife](https://de.iherb.com/c/baby-body-hand-soap)
 
-[Body Wash & Shower Gel](https://www.iherb.com/c/baby-body-wash-shower-gel)
+[Waschgel und Duschgel](https://de.iherb.com/c/baby-body-wash-shower-gel)
 
-[Bubble Bath](https://www.iherb.com/c/baby-bubble-bath)
+[Schaumbad](https://de.iherb.com/c/baby-bubble-bath)
 
-[Conditioners & Detanglers](https://www.iherb.com/c/baby-conditioners-detanglers)
+[Conditioner und Entwirrer](https://de.iherb.com/c/baby-conditioners-detanglers)
 
-[Lotion & Cream](https://www.iherb.com/c/baby-lotion-cream)
+[Lotion und Creme](https://de.iherb.com/c/baby-lotion-cream)
 
-[Shampoo](https://www.iherb.com/c/baby-shampoo)
+[Shampoo](https://de.iherb.com/c/baby-shampoo)
 
-[Skin Treatments](https://www.iherb.com/c/baby-skin-treatments)
+[Hautpflege](https://de.iherb.com/c/baby-skin-treatments)
 
-[Children's Health](https://www.iherb.com/c/childrens-health)
+[Gesundheit von Kindern](https://de.iherb.com/c/childrens-health)
 
-[Calcuim](https://www.iherb.com/c/childrens-calcium)
+[Calcium](https://de.iherb.com/c/childrens-calcium)
 
-[Cold, Flu & Cough](https://www.iherb.com/c/childrens-cold-flu-cough)
+[Erkältung, Grippe und Husten](https://de.iherb.com/c/childrens-cold-flu-cough)
 
-[DHA & Omegas](https://www.iherb.com/c/childrens-dha-omega)
+[DHA und Omega-Fettsäuren](https://de.iherb.com/c/childrens-dha-omega)
 
-[Homeopathy](https://www.iherb.com/c/childrens-homeopathy)
+[Homöopathie](https://de.iherb.com/c/childrens-homeopathy)
 
-[Multivitamins](https://www.iherb.com/c/childrens-multivitamins)
+[Multivitamine](https://de.iherb.com/c/childrens-multivitamins)
 
-[Probiotics](https://www.iherb.com/c/childrens-probiotics)
+[Probiotika](https://de.iherb.com/c/childrens-probiotics)
 
-[Vitamin C](https://www.iherb.com/c/childrens-vitamin-c)
+[Vitamin C](https://de.iherb.com/c/childrens-vitamin-c)
 
-[Vitamin D](https://www.iherb.com/c/childrens-vitamin-d)
+[Vitamin D](https://de.iherb.com/c/childrens-vitamin-d)
 
-[Sleep Aids](https://www.iherb.com/c/childrens-sleep-aids)
+[Schlafmittel](https://de.iherb.com/c/childrens-sleep-aids)
 
-[Minerals](https://www.iherb.com/c/childrens-minerals)
+[Mineralstoffe](https://de.iherb.com/c/childrens-minerals)
 
-[Herbs](https://www.iherb.com/c/childrens-herbs)
+[Heilpflanzen](https://de.iherb.com/c/childrens-herbs)
 
-[Diapering](https://www.iherb.com/c/diapering)
+[Windeln und Wickeln](https://de.iherb.com/c/diapering)
 
-[Baby Wipes](https://www.iherb.com/c/baby-wipes)
+[Reinigungstücher für Babys](https://de.iherb.com/c/baby-wipes)
 
-[Diaper Rash Treatments](https://www.iherb.com/c/diaper-rash-treatments)
+[Behandlung gegen Windelausschlag](https://de.iherb.com/c/diaper-rash-treatments)
 
-[Feeding](https://www.iherb.com/c/baby-kids-feeding)
+[Baby- und Kindernahrung](https://de.iherb.com/c/baby-kids-feeding)
 
-[Baby Cereal](https://www.iherb.com/c/baby-cereal)
+[Getreidebrei für Babys](https://de.iherb.com/c/baby-cereal)
 
-[Beverages](https://www.iherb.com/c/baby-kids-beverages)
+[Getränke](https://de.iherb.com/c/baby-kids-beverages)
 
-[Bottles & Nipples](https://www.iherb.com/c/baby-bottles-nipples)
+[Flaschen und Sauger](https://de.iherb.com/c/baby-bottles-nipples)
 
-[Formula & Milk Powder](https://www.iherb.com/c/baby-formula-milk-powder)
+[Muttermilchersatz und Milchpulver](https://de.iherb.com/c/baby-formula-milk-powder)
 
-[Pouches, Purees & Meals](https://www.iherb.com/c/pouches-purees-meals)
+[Quetschies, Pürees und Mahlzeiten](https://de.iherb.com/c/pouches-purees-meals)
 
-[Snacks, Bars & Finger Food](https://www.iherb.com/c/snacks-bars-finger-food)
+[Snacks, Riegel und Fingerfood](https://de.iherb.com/c/snacks-bars-finger-food)
 
-[Teething Wafers](https://www.iherb.com/c/teething-wafers)
+[Zahnungswaffeln](https://de.iherb.com/c/teething-wafers)
 
-[Health & Safety](https://www.iherb.com/c/health-safety)
+[Schutzmittel für Baby und Kind](https://de.iherb.com/c/health-safety)
 
-[Nasal Sprays & Aspirators](https://www.iherb.com/c/baby-nasal-sprays-aspirators)
+[Nasenspray und -sauger für Babys](https://de.iherb.com/c/baby-nasal-sprays-aspirators)
 
-[Sunscreen](https://www.iherb.com/c/baby-sunscreen)
+[Sonnenschutz](https://de.iherb.com/c/baby-sunscreen)
 
-[Home](https://www.iherb.com/c/baby-kids-home)
+[Haus und Heim](https://de.iherb.com/c/baby-kids-home)
 
-[Detergent](https://www.iherb.com/c/baby-detergent)
+[Waschmittel](https://de.iherb.com/c/baby-detergent)
 
-[Moms & Maternity](https://www.iherb.com/c/moms-maternity)
+[Schwangere und stillende Frauen](https://de.iherb.com/c/moms-maternity)
 
-[Lactation Support](https://www.iherb.com/c/lactation-support)
+[Stillhilfen](https://de.iherb.com/c/lactation-support)
 
-[Pregnancy & Ovulation Tests](https://www.iherb.com/c/pregnancy-ovulation-tests)
+[Schwangerschafts- und Ovulationstests](https://de.iherb.com/c/pregnancy-ovulation-tests)
 
-[Stretch Marks, Scars](https://www.iherb.com/c/stretch-marks-scars)
+[Dehnungsstreifen, Narben](https://de.iherb.com/c/stretch-marks-scars)
 
-[Women's Fertility](https://www.iherb.com/c/womens-fertility)
+[Kinderwunsch und Fruchtbarkeit](https://de.iherb.com/c/womens-fertility)
 
-[Teething & Oral Care](https://www.iherb.com/c/teething-oral-care)
+[Zahnen und Mundpflege](https://de.iherb.com/c/teething-oral-care)
 
-[Mouthwash, Rinse & Spray](https://www.iherb.com/c/baby-mouthwash-rinse-spray)
+[Mundspülung und Sprays](https://de.iherb.com/c/baby-mouthwash-rinse-spray)
 
-[Toothbrushes](https://www.iherb.com/c/baby-toothbrushes)
+[Zahnbürsten](https://de.iherb.com/c/baby-toothbrushes)
 
-[Toothpaste & Gel](https://www.iherb.com/c/baby-toothpaste-gel)
+[Zahnpasta und Zahngel](https://de.iherb.com/c/baby-toothpaste-gel)
 
-[Herbal Remedies](https://www.iherb.com/c/baby-teething)
+[Natürliche Linderung](https://de.iherb.com/c/baby-teething)
 
-[Toys](https://www.iherb.com/c/baby-kids-toys)
+[Spielzeug](https://de.iherb.com/c/baby-kids-toys)
 
-[Bath Toys](https://www.iherb.com/c/bath-toys)
+[Badespielzeug](https://de.iherb.com/c/bath-toys)
 
-[Shop all Baby](https://www.iherb.com/c/baby-kids)
+[Alle Babyprodukte](https://de.iherb.com/c/baby-kids)
 
-[Pets](https://www.iherb.com/c/pets)
+[Haustiere](https://de.iherb.com/c/pets)
 
-[Pet Grooming](https://www.iherb.com/c/pet-grooming)
+[Haustierpflege](https://de.iherb.com/c/pet-grooming)
 
-[Cat Grooming](https://www.iherb.com/c/cat-grooming)
+[Pflegeprodukte Katzen](https://de.iherb.com/c/cat-grooming)
 
-[Dog Grooming](https://www.iherb.com/c/dog-grooming)
+[Pflegeprodukte Hunde](https://de.iherb.com/c/dog-grooming)
 
-[Pet Supplies](https://www.iherb.com/c/pet-supplies)
+[Haustierbedarf](https://de.iherb.com/c/pet-supplies)
 
-[Pet Stain & Odor Removers](https://www.iherb.com/c/pet-stain-odor-removers)
+[Flecken- und Geruchsentferner](https://de.iherb.com/c/pet-stain-odor-removers)
 
-[Dog Waste Bags & Pads](https://www.iherb.com/c/dog-waste-bags-pads)
+[Hundekotbeutel und Trainingsunterlagen](https://de.iherb.com/c/dog-waste-bags-pads)
 
-[Pet Supplements](https://www.iherb.com/c/pet-supplements)
+[Nahrungsergänzungen für Haustiere](https://de.iherb.com/c/pet-supplements)
 
-[Cat Supplementts](https://www.iherb.com/c/cat-supplements)
+[Supplements Katzen](https://de.iherb.com/c/cat-supplements)
 
-[Dog Supplements](https://www.iherb.com/c/dog-supplements)
+[Supplements Hunde](https://de.iherb.com/c/dog-supplements)
 
-[Pet Treats](https://www.iherb.com/c/pet-treats)
+[Leckerlis](https://de.iherb.com/c/pet-treats)
 
-[Cat Treats](https://www.iherb.com/c/cat-treats)
+[Leckerlis Katzen](https://de.iherb.com/c/cat-treats)
 
-[Dog Treats](https://www.iherb.com/c/dog-treats)
+[Leckerlis Hunde](https://de.iherb.com/c/dog-treats)
 
-[Pet Health](https://www.iherb.com/c/pet-health)
+[Gesunde Haustiere](https://de.iherb.com/c/pet-health)
 
-[Cat Treatments & Remedies](https://www.iherb.com/c/cat-treatments-remedies)
+[Kuren und Heilmittel Katzen](https://de.iherb.com/c/cat-treatments-remedies)
 
-[Dog Treatments & Remedies](https://www.iherb.com/c/dog-treatments-remedies)
+[Kuren und Heilmittel Hunde](https://de.iherb.com/c/dog-treatments-remedies)
 
-[Pet Toys](https://www.iherb.com/c/pet-toys)
+[Haustierspielzeug](https://de.iherb.com/c/pet-toys)
 
-[Dog Toys](https://www.iherb.com/c/dog-toys)
+[Hundespielzeug](https://de.iherb.com/c/dog-toys)
 
-[Shop all Pets](https://www.iherb.com/c/pets)
+[Alle Haustierprodukte](https://de.iherb.com/c/pets)
 
-[Brands A-Z](https://www.iherb.com/catalog/brandsaz)
+[Marken A-Z](https://de.iherb.com/catalog/brandsaz)
 
-[21st Century](https://www.iherb.com/c/21st-century-health-care)
+[21st Century](https://de.iherb.com/c/21st-century-health-care)
 
-[ACURE](https://www.iherb.com/c/acure)
+[ACURE](https://de.iherb.com/c/acure)
 
-[Advanced Clinicals](https://www.iherb.com/c/advanced-clinicals)
+[Advanced Clinicals](https://de.iherb.com/c/advanced-clinicals)
 
-[ALLMAX](https://www.iherb.com/c/allmax)
+[ALLMAX](https://de.iherb.com/c/allmax)
 
-[Beauty of Joseon](https://www.iherb.com/c/beauty-of-joseon)
+[Beauty of Joseon](https://de.iherb.com/c/beauty-of-joseon)
 
-[BioGaia](https://www.iherb.com/c/biogaia)
+[BioGaia](https://de.iherb.com/c/biogaia)
 
-[Bluebonnet Nutrition](https://www.iherb.com/c/bluebonnet-nutrition)
+[Bluebonnet Nutrition](https://de.iherb.com/c/bluebonnet-nutrition)
 
-[Bob's Red Mill](https://www.iherb.com/c/bobs-red-mill)
+[Bob's Red Mill](https://de.iherb.com/c/bobs-red-mill)
 
-[Carlson](https://www.iherb.com/c/carlson)
+[California Gold Nutrition](https://de.iherb.com/c/california-gold-nutrition)
+
+[Carlson](https://de.iherb.com/c/carlson)
 
 SALE
 
-[Cellucor](https://www.iherb.com/c/cellucor)
+[Cellucor](https://de.iherb.com/c/cellucor)
 
-[ChildLife Essentials](https://www.iherb.com/c/childlife-essentials)
+[Childlife](https://de.iherb.com/c/childlife-essentials)
 
-[Codeage](https://www.iherb.com/c/codeage)
+[Codeage](https://de.iherb.com/c/codeage)
 
-[Doctor's Best](https://www.iherb.com/c/doctors-best)
+[Doctor's Best](https://de.iherb.com/c/doctors-best)
 
-[Enzymedica](https://www.iherb.com/c/enzymedica)
+[Enzymedica](https://de.iherb.com/c/enzymedica)
 
-[Eucerin](https://www.iherb.com/c/eucerin)
+[Eucerin](https://de.iherb.com/c/eucerin)
 
-[EVLution Nutrition](https://www.iherb.com/c/evlution-nutrition)
+[EVLution Nutrition](https://de.iherb.com/c/evlution-nutrition)
 
-[Fairhaven Health](https://www.iherb.com/c/fairhaven-health)
+[Force Factor](https://de.iherb.com/c/force-factor)
 
-[Force Factor](https://www.iherb.com/c/force-factor)
+[Frontier Co-Op](https://de.iherb.com/c/frontier-natural-products)
 
-[Frontier Co-Op](https://de.iherb.com/c/frontier-co-op)
+[Garden of Life](https://de.iherb.com/c/garden-of-life)
 
-[Garden of Life](https://www.iherb.com/c/garden-of-life)
+[Idealove](https://de.iherb.com/c/idealove)
 
-[Irwin Naturals](https://www.iherb.com/c/irwin-naturals)
+[iHerb Brands](https://de.iherb.com/c/iherb-brands)
 
-[Jarrow Formulas](https://www.iherb.com/c/jarrow-formulas)
+[Irwin Naturals](https://de.iherb.com/c/irwin-naturals)
 
-[K-Beauty](https://www.iherb.com/c/k-beauty)
+[Jarrow Formulas](https://de.iherb.com/c/jarrow-formulas)
 
-[KAL](https://www.iherb.com/c/kal)
+[K-Beauty](https://de.iherb.com/c/k-beauty)
 
-[Life Extension](https://www.iherb.com/c/life-extension)
+[KAL](https://de.iherb.com/c/kal)
 
-[Life-flo](https://www.iherb.com/c/life-flo)
+[Lake Avenue Nutrition](https://de.iherb.com/c/lake-avenue-nutrition)
 
-[MaryRuth's](https://www.iherb.com/c/maryruths)
+[Life Extension](https://de.iherb.com/c/life-extension)
 
-[MegaFood](https://www.iherb.com/c/megafood)
+[Life-flo](https://de.iherb.com/c/life-flo)
 
-[Metagenics](https://www.iherb.com/c/metagenics)
+[Mary Ruth Organics](https://de.iherb.com/c/maryruths)
 
-[Mielle](https://www.iherb.com/c/mielle)
+[Metagenics](https://de.iherb.com/c/metagenics)
 
-[MRM Nutrition](https://www.iherb.com/c/mrm-nutrition)
+[Mielle](https://de.iherb.com/c/mielle)
 
-[MuscleTech](https://www.iherb.com/c/muscletech)
+[Mild By Nature](https://de.iherb.com/c/mild-by-nature)
 
-[Natrol](https://www.iherb.com/c/natrol)
+[MuscleTech](https://de.iherb.com/c/muscletech)
 
-[Natural Factors](https://www.iherb.com/c/natural-factors)
+[Natrol](https://de.iherb.com/c/natrol)
 
-[Nature's Bounty](https://www.iherb.com/c/nature-s-bounty)
+[Natural Factors](https://de.iherb.com/c/natural-factors)
 
-[Nature's Way](https://www.iherb.com/c/nature-s-way)
+[Nature's Bounty](https://de.iherb.com/c/nature-s-bounty)
 
-[NaturesPlus](https://www.iherb.com/c/nature-s-plus)
+[Nature's Way](https://de.iherb.com/c/nature-s-way)
 
-[NeoCell](https://www.iherb.com/c/neocell)
+[NaturesPlus](https://de.iherb.com/c/nature-s-plus)
 
-[Nordic Naturals](https://www.iherb.com/c/nordic-naturals)
+[NeoCell](https://de.iherb.com/c/neocell)
 
-[NOW Foods](https://www.iherb.com/c/now-foods)
+[Nordic Naturals](https://de.iherb.com/c/nordic-naturals)
 
-[Nutricost](https://www.iherb.com/c/nutricost)
+[NOW Foods](https://de.iherb.com/c/now-foods)
 
-[Optimum Nutrition](https://www.iherb.com/c/optimum-nutrition)
+[Nutricost](https://de.iherb.com/c/nutricost)
 
-[PanOxyl](https://www.iherb.com/c/panoxyl)
+[Optimum Nutrition](https://de.iherb.com/c/optimum-nutrition)
 
-[Paradise Herbs](https://www.iherb.com/c/paradise-herbs)
+[Paradise Herbs](https://de.iherb.com/c/paradise-herbs)
 
-[Professional Brands](https://www.iherb.com/cl/professional-brands)
+[Professional Brands](https://de.iherb.com/cl/professional-brands)
 
-[ProHealth Longevity](https://www.iherb.com/c/prohealth-longevity)
+[SheaMoisture](https://de.iherb.com/c/sheamoisture)
 
-[SheaMoisture](https://www.iherb.com/c/sheamoisture)
+[Simply Organic](https://de.iherb.com/c/simply-organic)
 
-[Simply Organic](https://www.iherb.com/c/simply-organic)
+[Solaray](https://de.iherb.com/c/solaray)
 
-[Solaray](https://www.iherb.com/c/solaray)
+[Solgar](https://de.iherb.com/c/solgar)
 
-[Solgar](https://www.iherb.com/c/solgar)
+[Source Naturals](https://de.iherb.com/c/source-naturals)
 
-[Source Naturals](https://www.iherb.com/c/source-naturals)
+[Sports Research](https://de.iherb.com/c/sports-research)
 
-[Sports Research](https://www.iherb.com/c/sports-research)
+[Super Nutrition](https://de.iherb.com/c/super-nutrition)
 
-[Super Nutrition](https://www.iherb.com/c/super-nutrition)
+[Swanson](https://de.iherb.com/c/swanson)
 
-[Swanson](https://www.iherb.com/c/swanson)
+[Sympli Beautiful](https://de.iherb.com/c/sympli-beautiful)
 
-[Thorne](https://www.iherb.com/c/thorne)
+[Thorne](https://de.iherb.com/c/thorne)
 
-[Trace Minerals ®](https://www.iherb.com/c/trace-minerals-r)
+[Trace Minerals ®](https://de.iherb.com/c/trace-minerals-r)
 
-[Vital Proteins](https://www.iherb.com/c/vital-proteins)
+[Vital Proteins](https://de.iherb.com/c/vital-proteins)
 
-[The Vitamin Shoppe](https://www.iherb.com/cl/the-vitamin-shoppe)
+[The Vitamin Shoppe](https://de.iherb.com/cl/the-vitamin-shoppe)
 
-[YumEarth](https://www.iherb.com/c/yumearth)
+[Alle anzeigen](https://de.iherb.com/catalog/brandsaz)
 
-[View All](https://www.iherb.com/catalog/brandsaz)
+Marken der Woche
 
-iHerb Brands
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/CAR/1658257540.png)](https://de.iherb.com/c/carlson)
 
-[California Gold Nutrition](https://www.iherb.com/c/california-gold-nutrition)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/QLL/1662139586.png)](https://de.iherb.com/c/quality-of-life)
 
-[Charlie and Frank](https://www.iherb.com/c/charlie-and-frank)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DIO/1654297734.png)](https://de.iherb.com/c/bodybio)
 
-[Idealove](https://www.iherb.com/c/idealove)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NZE/1703098299.png)](https://de.iherb.com/c/nuzest)
 
-[Lake Avenue Nutrition](https://www.iherb.com/c/lake-avenue-nutrition)
+[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/TNN/1694718090.png)](https://de.iherb.com/c/tru-niagen)
 
-[Mild By Nature](https://www.iherb.com/c/mild-by-nature-natures-gate)
+[Alle anzeigen](https://de.iherb.com/c/brands-of-the-week)
 
-[Solumeve](https://www.iherb.com/c/solumeve)
+[Gesundheitsthemen](https://de.iherb.com/c/health-topics)
 
-[Super Nutrition](https://www.iherb.com/c/super-nutrition)
+Gesundes Älterwerden
 
-[Sympli Beautiful](https://www.iherb.com/c/sympli-beautiful)
+[Anti-Aging und Jugendlichkeit](https://de.iherb.com/c/anti-aging-longevity)
 
-[Shop All iHerb Brands](https://www.iherb.com/c/iherb-brands)
+[Gehirn & kognitive Fähigkeiten](https://de.iherb.com/c/brain-cognitive)
 
-Brands of the Week
+[Energie](https://de.iherb.com/c/energy)
 
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/CAR/1658257540.png)](https://www.iherb.com/c/carlson)
-
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/QLL/1662139586.png)](https://www.iherb.com/c/quality-of-life)
-
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/DIO/1654297734.png)](https://www.iherb.com/c/bodybio)
-
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/NZE/1703098299.png)](https://www.iherb.com/c/nuzest)
-
-[![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/brand/logo/TNN/1694718090.png)](https://www.iherb.com/c/tru-niagen)
-
-[Shop all](https://www.iherb.com/c/brands-of-the-week)
-
-[Health Topics](https://www.iherb.com/c/health-topics)
-
-Aging Well
-
-[Anti-Aging & Longevity](https://www.iherb.com/c/anti-aging-longevity)
-
-[Brain & Cognitive](https://www.iherb.com/c/brain-cognitive)
-
-[Energy](https://www.iherb.com/c/energy)
-
-[Eye & Vision](https://www.iherb.com/c/eye-vision)
+[Augen & Sehkraft](https://de.iherb.com/c/eye-vision)
 
 Fitness
 
-[GLP-1 Support](https://www.iherb.com/c/glp-1-support)
+[GLP-1-Therapie-Hilfsmittel](https://de.iherb.com/c/glp-1-support)
 
-[Hydration](https://www.iherb.com/c/hydration-electrolytes)
+[Flüssigkeitszufuhr](https://de.iherb.com/c/hydration-electrolytes)
 
-[Muscle Building](https://www.iherb.com/c/muscle-builders)
+[Muskelaufbau](https://de.iherb.com/c/muscle-builders)
 
-[Weight Management](https://www.iherb.com/c/weight-management)
+[Gewichtskontrolle](https://de.iherb.com/c/weight-management)
 
-Internal Health Support
+Innere Organe
 
-[Bladder & Kidney](https://www.iherb.com/c/bladder-kidney)
+[Blase & Nieren](https://de.iherb.com/c/bladder-kidney)
 
-[Bone, Joint & Cartilage](https://www.iherb.com/c/bone-joint-cartilage)
+[Knochen, Gelenke & Knorpel](https://de.iherb.com/c/bone-joint-cartilage)
 
-[Circulatory](https://www.iherb.com/c/circulatory-support)
+[Kreislaufsystem](https://de.iherb.com/c/circulatory-support)
 
-[Colon](https://www.iherb.com/c/colon)
+[Darm](https://de.iherb.com/c/colon)
 
-[Digestive](https://www.iherb.com/c/digestive)
+[Verdauung](https://de.iherb.com/c/digestive)
 
-[Ear, Nose & Throat](https://www.iherb.com/c/ear-nose-throat)
+[Hals, Nasen & Ohren](https://de.iherb.com/c/ear-nose-throat)
 
-[Heart](https://www.iherb.com/c/heart)
+[Herz](https://de.iherb.com/c/heart)
 
-[Liver](https://www.iherb.com/c/liver)
+[Leber](https://de.iherb.com/c/liver)
 
-[Prostate](https://www.iherb.com/c/prostate)
+[Prostata](https://de.iherb.com/c/prostate)
 
-[Respiratory](https://www.iherb.com/c/respiratory-support)
+[Atemwege](https://de.iherb.com/c/respiratory-support)
 
-Look & Feel Your Best
+Gut aussehen und sich gut fühlen
 
-[Acne](https://www.iherb.com/c/acne-blemish)
+[Akne](https://de.iherb.com/c/acne-blemish)
 
-[Body](https://www.iherb.com/c/body-care)
+[Körper](https://de.iherb.com/c/body-care)
 
-[Hair Care](https://www.iherb.com/c/hair-care)
+[Haarpflege](https://de.iherb.com/c/hair-care)
 
-[Hair, Skin & Nails Support](https://www.iherb.com/c/hair-skin-nails)
+[Haare, Haut & Nägel](https://de.iherb.com/c/hair-skin-nails)
 
-[Lip Care](https://www.iherb.com/c/lip-care)
+[Lippenpflege](https://de.iherb.com/c/lip-care)
 
-[Oral Care](https://www.iherb.com/c/oral-care)
+[Mundpflege](https://de.iherb.com/c/oral-care)
 
-[Massage](https://www.iherb.com/c/body-massage-oil)
+[Massage](https://de.iherb.com/c/body-massage-oil)
 
-[Personal Care](https://www.iherb.com/c/personal-care)
+[Hygieneartikel & Pflegeprodukte](https://de.iherb.com/c/personal-care)
 
-[Skin Care](https://www.iherb.com/c/skin-care-1)
+[Hautpflege](https://de.iherb.com/c/skin-care-1)
 
-[Sunscreen](https://www.iherb.com/c/sunscreen)
+[Sonnenschutz](https://de.iherb.com/c/sunscreen)
 
-Healthy Life Stages
+Gesund in jeder Lebensphase
 
-[Baby & Toddler](https://www.iherb.com/c/childrens-health?avids=15083%2C45202%2C45203%2C45196%2C45197%2C45199%2C45201)
+[Baby & Kleinkind](https://de.iherb.com/c/childrens-health?avids=15083%2C45202%2C45203%2C45196%2C45197%2C45199%2C45201)
 
-[Childrens](https://www.iherb.com/c/childrens-health)
+[Kinder](https://de.iherb.com/c/childrens-health)
 
-[Mens](https://www.iherb.com/c/mens-health)
+[Männer](https://de.iherb.com/c/mens-health)
 
-[Seniors](https://www.iherb.com/c/supplements?avids=14867)
+[Senioren](https://de.iherb.com/c/supplements?avids=14867)
 
-[Teen](https://www.iherb.com/c/teen-health)
+[Teenager](https://de.iherb.com/c/teen-health)
 
-[Womens](https://www.iherb.com/c/womens-health)
+[Frauen](https://de.iherb.com/c/womens-health)
 
-Nutrition
+Ernährung
 
-[Greens & Superfoods](https://www.iherb.com/c/greens-superfoods)
+[Greens & Superfoods](https://de.iherb.com/c/greens-superfoods)
 
-[Meal Replacements](https://www.iherb.com/c/meal-replacements)
+[Mahlzeitenersatz](https://de.iherb.com/c/meal-replacements)
 
-Wellness
+Wohlbefinden & Pflege
 
-[Ayurveda](https://www.iherb.com/c/ayurveda)
+[Ayurveda](https://de.iherb.com/c/ayurveda)
 
-[Adaptagens](https://www.iherb.com/c/adaptogens)
+[Adaptagene](https://de.iherb.com/c/adaptogens)
 
-[Common Cold & Flu](https://www.iherb.com/c/common-cold-flu)
+[Erkältung & Grippe](https://de.iherb.com/c/common-cold-flu)
 
-[Detox & Cleanse](https://www.iherb.com/c/detox-cleanse)
+[Entgiftung & Entschlackung](https://de.iherb.com/c/detox-cleanse)
 
-[Focus](https://www.iherb.com/c/cognitive-memory-formulas)
+[Konzentration](https://de.iherb.com/c/cognitive-memory-formulas)
 
-[Immune Support](https://www.iherb.com/c/immune-support)
+[Immunsystem](https://de.iherb.com/c/immune-support)
 
-[Pain Relief](https://www.iherb.com/c/pain-relief)
+[Schmerzlinderung](https://de.iherb.com/c/pain-relief)
 
-[Seasonal Allergies](https://www.iherb.com/c/seasonal-allergies)
+[Heuschnupfen, Allergien & Co.](https://de.iherb.com/c/seasonal-allergies)
 
-[Sleep](https://www.iherb.com/c/sleep)
+[Schlaf](https://de.iherb.com/c/sleep)
 
-[Stress](https://www.iherb.com/c/calm-formulas)
+[Stress](https://de.iherb.com/c/calm-formulas)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegan.png) Vegan](https://www.iherb.com/hs/vegan/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegan.png) Vegan](https://de.iherb.com/hs/vegan/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Kosher.png) Kosher](https://www.iherb.com/hs/kosher/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Kosher.png) Koscher](https://de.iherb.com/hs/kosher/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Non-GMO.png) Non-GMO](https://www.iherb.com/hs/non-gmo/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Non-GMO.png) Ohne Gentechnik](https://de.iherb.com/hs/non-gmo/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Gluten-Free.png) Gluten Free](https://www.iherb.com/hs/gluten-free/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Gluten-Free.png) Glutenfrei](https://de.iherb.com/hs/gluten-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Cruelty-Free.png) Cruelty-Free](https://www.iherb.com/hs/cruelty-free/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Cruelty-Free.png) Ohne Tierversuche](https://de.iherb.com/hs/cruelty-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Oragnic.png) Organic](https://www.iherb.com/hs/organic/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Oragnic.png) Bio](https://de.iherb.com/hs/organic/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Keto.png) Ketogenic-Diet](https://www.iherb.com/hs/ketogenic-diet/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Keto.png) Ketogene Diät](https://de.iherb.com/hs/ketogenic-diet/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Dairy-Free.png) Dairy-free](https://www.iherb.com/hs/dairy-free/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Dairy-Free.png) Milchfrei](https://de.iherb.com/hs/dairy-free/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegetarian.png) Vegetarian](https://www.iherb.com/hs/vegetarian/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Vegetarian.png) Vegetarisch](https://de.iherb.com/hs/vegetarian/store)
 
- [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Paleo.png) Paleo](https://www.iherb.com/hs/paleo/store)
+ [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/explore/specialty-stores/L1-Paleo.png) Paleo](https://de.iherb.com/hs/paleo/store)
 
-[Specials](https://www.iherb.com/specials)
+[Specials](https://de.iherb.com/specials)
 
-[Best Sellers](https://www.iherb.com/catalog/topsellers)
+[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[Try](https://www.iherb.com/trial-pricing)
+[Ausprobieren](https://de.iherb.com/trial-pricing)
 
-[New](https://www.iherb.com/new-products)
+[Neu](https://de.iherb.com/new-products)
 
-[Wellness Hub](https://www.iherb.com/blog)
+Mehr
 
-More
+[20% off Seasonal Favorites
 
-[Holiday Specials! Up to 50% Off 
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/seasonal-favorites)
 
-‌‌Shop Now‌‌](https://www.iherb.com/specials)
+[BIS ZU -50% FESTTAGS-SPECIALS
+
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/specials)
 
       
 
-[Home](https://de.iherb.com/) Terms of Use Agreement
+[Startseite](https://de.iherb.com/) Nutzervereinbarung
 
-Terms of Use Agreement - Last Updated (April 19, 2023)
-======================================================
+Nutzervereinbarung - Zuletzt aktualisiert (19. April 2023)
+==========================================================
 
-**Table of Contents**
+**Inhalt**
 
-1. Purpose
-2. Code of Conduct
-3. Not Healthcare Advice
-4. Product Purchases
-5. Site Usage & Usage Termination
-6. Pricing
-7. User Content and Conduct
-8. Privacy
-9. Consent to Communications
-10. Programs
-11. Liability Disclaimer
-12. Indemnification
-13. Copyright, Trademarks and other Intellectual Property
-14. Agreement
-15. Severability; Interpretation
-16. Applicable Law; Jurisdiction; Dispute Resolution & Class Waiver
-17. Miscellaneous
-18. Contact Us
+1. Zweck
+2. Verhaltenskodex
+3. Keine Empfehlung des Gesundheitswesens
+4. Produktkäufe
+5. Website-Nutzung und Stornierung der Nutzung
+6. Preisgestaltung
+7. Benutzerinhalte und -verhalten
+8. Datenschutz
+9. Zustimmung zur Kommunikation
+10. Programme
+11. Haftungsausschluss
+12. Entschädigung
+13. Urheberrechte, Marken und anderes geistiges Eigentum
+14. Vereinbarung
+15. Salvatorische Klausel; Interpretation
+16. Anwendbares Recht; Zuständigkeit; Streitbeilegung und Gruppenfreistellung
+17. Sonstiges
+18. Kontaktieren Sie uns
 
   
 
-1. Purpose
-    -------
+1. Zweck
+    -----
     
-    Welcome to the iHerb family of websites which includes our country-specific websites, mobile websites, mobile apps, blogs and website for rewards, incentive and other promotional programs like iHerb Rewards, Reviews Program, iHerb Affiliate Program, and Autoship & Save Program (collectively, the “Site”). This iHerb Terms of Use Agreement ("Agreement") sets forth the agreement between iHerb, LLC. (“iHerb”), iHerb’s affiliated companies such as iHerb Netherlands B.V., a company incorporated under the laws of The Netherlands, with its main offices at Schiphol Boulevard 359, 1118 BJ, Amsterdam Schiphol, Netherlands, registered at the Chamber of Commerce of Amsterdam, The Netherlands under No. 67635059 (collectively, “iHerb”, “we”, or “us” , and each user ("user", "your" or "you"). This Agreement governs your use of the Site, the iHerb Rewards Program (“Rewards Program”), the iHerb Autoship & Save Program (“Autoship & Save”), the iHerb Reviews Program (“Reviews Program”), and the iHerb Privacy Policy (“Privacy Policy”). Please read this Agreement carefully and fully before using the Site or participating in the Rewards or Reviews Program or Autoship & Save, or disclosing to us any personal information.
+    Willkommen auf den Webseiten der iHerb-Familie, wozu unsere länderspezifischen Webseiten, mobile Webseiten, mobile Apps, Blogs und Webseiten für Prämien, Anreize und andere Werbeprogramme, wie das iHerb-Prämienprogramm, das Bewertungsprogramm, das iHerb-Partnerprogramm und das Spar-Abo-Programm gehören (zusammenfassend die „Website“). Diese Nutzungsbedingungen von iHerb („Nutzungsbedingungen“) legen die Vereinbarung zwischen iHerb, LLC. („iHerb“), den Partnerunternehmen von iHerb wie iHerb Netherlands B.V., ein Unternehmen, das unter die Gesetzgebung der Niederlande fällt und deren Zentrale unter folgender Adresse zu finden ist: Schiphol Boulevard 359, 1118 BJ, Amsterdam Schiphol, Niederlande, registriert von der Handelskammer Amsterdam unter der Nummer 67635059; (zusammenfassend „iHerb“, „wir“ oder „uns“) und jedem Benutzer („Benutzer“, „Ihr“ oder „Sie“) dar. Diese Vereinbarung regelt Ihre Nutzung der Website, des iHerb-Prämienprogramms („Prämienprogramm“), des iHerb-Spar-Abo-Programms („Spar-Abo“) des iHerb-Bewertungsprogramms („Bewertungsprogramm“) und der iHerb-Datenschutzbestimmungen („Datenschutzbestimmungen“). Bitte lesen Sie sich die Nutzungsbedingungen aufmerksam und vollständig durch, bevor Sie die Website nutzen, am Prämien- oder Bewertungsprogramm oder am Spar-Abo teilnehmen, oder persönliche Informationen offenlegen.
     
-    By using the Site and/or participating in the Rewards Program or Reviews Program or Autoship & Save, or disclosing to us any personal information: (i) you agree that you have read and understood the terms of this Agreement, (ii) you accept and agree to be bound by the terms of this Agreement, and (iii) you accept and agree to abide by all laws and regulations applicable to the subject matter of this Agreement.
+    Indem Sie die Website nutzen und/oder am Prämien- oder Bewertungsprogramm oder am Programm „Spar-Abo“ teilnehmen oder persönliche Informationen offenlegen (i) stimmen Sie zu, dass Sie diese Nutzungsbedingungen gelesen und verstanden haben; (ii) stimmen Sie zu und akzeptieren Sie, dass Sie sich an diese Nutzungsbedingungen halten müssen und (iii) Sie stimmen zu und akzeptieren, dass Sie alle geltenden Gesetze und Verordnungen, die Gegenstand dieser Vereinbarung sind, einhalten.
     
-    IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, DO NOT ACCESS OR OTHERWISE USE THE SITE OR PARTICIPATE IN THE REWARDS PROGRAM OR REVIEWS PROGRAM, OR DISCLOSE TO US ANY PERSONAL INFORMATION.
+    WENN SIE DEN NUTZUNGSBEDINGUNGEN NICHT ZUSTIMMEN, GREIFEN SIE NICHT AUF DIE WEBSITE ZU ODER NUTZEN SIE DIESE ANDERWEITIG, NEHMEN SIE NICHT AM PRÄMIEN- ODER BEWERTUNGSPROGRAMM TEIL UND LEGEN SIE KEINE PERSÖNLICHE INFORMATIONEN OFFEN.
     
-    The terms in this Agreement may change periodically and may be revised at any time and from time to time at our sole discretion by updating this posting. You should visit this page from time to time to review the then current terms of use because they are binding on you. Your continued use of the Site and/or Participation in the Rewards Program, Reviews Program, and or Autoship & Save means that you accept any changes or modifications to this Agreement. If any modification is unacceptable to you, your only recourse is to terminate this Agreement by contacting [Customer Service.](https://de.iherb.com/info/contact) Certain provisions of the terms contained in this Agreement may be superseded by legal notices or terms located on particular pages of the Site, or through specific programs terms for the Rewards Program, Reviews Program, and Autoship & Save .
+    Die Bestimmungen in dieser Vereinbarung können regelmäßig geändert und jederzeit nach unserem alleinigen Ermessen überarbeitet werden, indem dieser Beitrag aktualisiert wird. Sie sollten diese Seite von Zeit zu Zeit aufsuchen, damit Sie immer über die aktuellen Nutzungsbedingungen informiert sind, denn sie sind bindend. Ihre wiederholte Nutzung der Website und/oder Teilnahme(n) am Prämienprogramm, Bewertungsprogramm und/oder Spar-Abo bedeuten, dass Sie jeder Veränderung oder Anpassung der Nutzungsbedingungen zustimmen. Wenn Sie einer Veränderung nicht zustimmen wollen, ist die einzige Möglichkeit, diese Vereinbarung zu kündigen, indem Sie sich an den [Kundenservice wenden.](https://de.iherb.com/info/contact) Bestimmte Bestimmungen der in dieser Vereinbarung enthaltenen Bedingungen können durch rechtliche Hinweise oder Bedingungen auf bestimmten Seiten der Website oder durch spezifische Programmbedingungen für das Prämienprogramm, das Bewertungsprogramm und das Spar-Abo ersetzt werden.
     
-    RISK OF LOSS/TITLE TRANSFER:
+    VERLUSTRISIKO/EIGENTUMSÜBERTRAGUNG
     
-    All purchases of products are made pursuant to the respective INCOTERMS designated upon order placement. Title for any products purchased by you will transfer upon our delivery to the carrier.
+    Jeder Produktkauf, der gemäß der jeweiligen Incoterms getätigt wurde, wird bei der Bestellung gekennzeichnet. Eigentum eines jeden von Ihnen erworbenen Produktes wird bei der Übergabe an den Paketdienst auf Sie übertragen.
     
-2. Code of Conduct
+2. Verhaltenskodex
     ---------------
     
-    iHerb’s [Code of Conduct](https://s3.images-iherb.com/cms/pdf/iherb_code_of_conduct_business_ethics_11_19_19.pdf) is included in this Agreement. Participants in iHerb's Rewards Program and Reviews Program, customers, vendors, visitors to the Site, and stakeholders are expected to comply with the Code of Conduct.
+    Der [Verhaltenskodex](https://s3.images-iherb.com/cms/pdf/iherb_code_of_conduct_business_ethics_11_19_19.pdf) von iHerb ist in dieser Vereinbarung enthalten. Von Teilnehmern am Prämien- und Bewertungsprogramm von iHerb, Kunden, Händlern, Besuchern der Website und Interessenvertretern wird erwartet, dass sie den Verhaltenskodex einhalten.
     
-3. Not Healthcare Advice
-    ---------------------
+3. Keine medizinischen Ratschläge
+    ------------------------------
     
-    The products and claims made about specific products on or through the Site have not been evaluated by the United States Food and Drug Administration and are not approved to diagnose, treat, cure or prevent disease.
+    Die Produkte und Aussagen, die über bestimmte Produkte auf oder durch die Website gemacht werden, wurden nicht von der Food and Drug Administration der Vereinigten Staaten bewertet und sind nicht zur Diagnose, Behandlung, Heilung oder Vermeidung von Krankheiten geeignet.
     
-    The Site is not intended to provide diagnosis, treatment or medical advice. Products, services, information and other content provided on the Site, including information that may be provided on the Site directly or by linking to third-party websites are provided for informational purposes only. Please consult with a physician or other healthcare professional regarding any medical or health related diagnosis or treatment options.
+    Die Website soll keine Diagnosen, Behandlung oder medizinischen Rat bieten. Produkte, Services, Informationen und anderer Inhalt auf der Website, unter anderem Informationen, die direkt auf der Website zur Verfügung gestellt werden oder indem auf Websites von Drittparteien weitergeleitet wird, werden nur zu Informationszwecken angeboten. Konsultieren Sie bitte einen Arzt oder Apotheker bei medizinischen Diagnosen oder Behandlungsmöglichkeiten.
     
-    Information provided on the Site and linked websites, including information relating to medical and health conditions, treatments and products may be provided in summary form. Information on the Site including any product label or packaging should not be considered as a substitute for advice from a healthcare professional. The Site does not recommend self-management of health issues. Information on the Site is not comprehensive and does not cover all diseases, ailments, physical conditions or their treatment. Contact your healthcare professional promptly should you have any health related questions. Never disregard or delay medical advice based upon information you may have read on the Site.
+    Zur Verfügung gestellte Informationen auf der Website und verlinkten Websites können in zusammengefasster Form präsentiert werden, dazu zählen Informationen mit Bezug auf Gesundheits- oder Krankheitszustände, Behandlungen und Produkte. Informationen auf der Website, die auf Produktetiketten oder Verpackungen zu finden sind, sollten nicht als Ersatz für eine ärztliche Beratung betrachtet werden. Die Website empfiehlt keine Selbstbehandlung von gesundheitlichen Problemen. Die Informationen auf der Website sind nicht vollständig und decken nicht alle Krankheiten, Leiden, körperliche Zustände oder deren Therapie ab. Sprechen Sie direkt mit Ihrem Arzt, wenn Sie Fragen zu Gesundheit haben. Ignorieren Sie oder verschieben Sie nie medizinische Beratung aufgrund von Informationen, die Sie auf der Website gelesen haben.
     
-    Links to or access from any third party websites or resources is not an endorsement of any information, product or service. We are not responsible for the content or performance of any third party websites. Use of any third party websites is at your own risk.
+    Links zu oder Zugriff auf Websites oder Ressourcen von Drittparteien ist keine Bestätigung von Informationen oder Unterstützung für Produkte oder Services. Wir sind nicht verantwortlich für Inhalte oder Leistungen von Drittpartei-Websites. Die Nutzung von Drittpartei-Websites erfolgt auf eigenes Risiko.
     
-    You should not use the information or services on the Site to diagnose or treat any health issues or for prescription of any medication or other treatment. You should always consult with your healthcare professional and read information provided by the product manufacturer and any product label or packaging, prior to using any medication, nutritional, herbal or homeopathic product or before beginning any exercise or diet program or starting any treatment for a health issue. Individuals are different and may react differently to different products. You should consult your physician about interactions between medications you are taking and nutritional supplements. Comments made in any forums on the Site by employees or Site users are strictly their own personal views made in their own personal capacity and are not claims made by us or do they represent our positions or views. Product ratings by any current or previous employees or Site users are strictly their own personal views made in their own personal capacity and are not intended as a substitute for appropriate medical care or advice from a healthcare professional. We are not liable for any information provided on the Site with regard to recommendations regarding supplements for any health purposes.
+    Sie sollten die Informationen oder Services auf der Website nicht dazu nutzen, gesundheitliche Beschwerden zu diagnostizieren oder zu behandeln sowie sich Medikamente verschreiben zu lassen oder anderen Behandlungen zu unterziehen. Sie sollten sich immer von Ihrem Arzt beraten lassen und die verfügbaren Informationen von Produktherstellern und Produktetiketten oder der Verpackung lesen, bevor Sie Medikamente, pflanzliche oder homöopathische Produkte oder Nahrungsergänzungsmittel einnehmen oder ein Trainings- oder Diätprogramm beginnen oder sich wegen eines gesundheitlichen Problems behandeln lassen. Jede Person ist anders und kann auf verschiedene Produkte unterschiedlich reagieren. Sie sollten Ihren Arzt zu den Wechselwirkungen zwischen Ihren Medikamenten und Nahrungsergänzungsmitteln befragen. Kommentare in Foren auf der Website von Mitarbeitern oder Benutzern stellen ausschließlich deren eigene, persönliche Ansichten dar und wurden in eigenem Antrieb erstellt. Es sind keine Behauptungen, die von uns aufgestellt wurden und repräsentieren auch nicht unsere Standpunkte oder Ansichten. Produktbewertungen von aktuellen oder vorherigen Mitarbeitern oder von Benutzern stellen ausschließlich deren eigene, persönliche Ansichten dar und wurden in eigenem Antrieb erstellt und sind nicht als Ersatz für angemessene medizinische Betreuung oder Beratung von medizinischem Fachpersonal zu werten. Wir sind nicht verantwortlich für Informationen auf der Website, die in Verbindung mit Empfehlungen von Ergänzungsmitteln für gesundheitliche Zwecke stehen.
     
-    Always check the product label or packaging prior to using any product. If there are discrepancies, customers should follow the information provided on the product label or packaging. You should contact the manufacturer directly for clarification as to product labeling and packaging details and recommended use.
+    Kontrollieren Sie vor dem Gebrauch eines Produktes immer das Produktetikett oder die Produktverpackung. Bei Unstimmigkeiten sollten die Kunden die Informationen auf dem Produktetikett oder der Produktverpackung befolgen. Zur Klärung der Details der Produktetiketten, Produktverpackungen und der Anwendungsempfehlungen sollten Sie den Hersteller auf direktem Wege kontaktieren.
     
-4. Product Purchases
-    -----------------
+4. Produktkäufe
+    ------------
     
-    To the extent you make purchases on the Site, you agree that all purchases of products are made pursuant to the respective INCOTERMS designated upon order placement. Title for any products purchased by you will transfer upon our delivery to the carrier.
+    Sofern Sie auf der Website Produktkäufe tätigen, stimmen Sie zu, dass jeder Produktkauf, der gemäß der jeweiligen Incoterms getätigt wurde, bei der Bestellung gekennzeichnet wird. Eigentum eines jeden von Ihnen erworbenen Produktes wird bei der Übergabe an den Paketdienst auf Sie übertragen.
     
-    It is your responsibility to ascertain and comply with all applicable local, state, federal, and international laws regarding the receipt, possession, use, and sale of any item purchased from this Site.
+    Es liegt in Ihrer Verantwortung, alle geltenden lokalen, staatlichen, bundesstaatlichen und internationalen Gesetze in Bezug auf den Erhalt, den Besitz, die Verwendung und den Verkauf von auf dieser Website gekauften Artikeln zu ermitteln und einzuhalten.
     
-    When ordering from iHerb you are responsible for assuring the product can be lawfully imported into your country. Customers are the importers of record and must comply with all laws and regulations of the destination country.
+    Bei der Bestellung bei iHerb sind Sie dafür verantwortlich, dass das Produkt rechtmäßig in Ihr Land importiert werden kann. Kunden sind die eingetragenen Importeure und müssen alle Gesetze und Vorschriften des Ziellandes einhalten.
     
-    iHerb reserves the right to prohibit purchases of any merchandise to resellers. Resellers are defined as a company or an individual that purchases goods with the intention of selling them rather than using them. iHerb does not support sales tax exemption requests for businesses or resellers.
+    iHerb behält sich das Recht vor, den Kauf von Waren an Wiederverkäufer zu untersagen. Wiederverkäufer sind Unternehmen oder Einzelpersonen, die Waren kaufen, um sie danach zu verkaufen, anstatt selbst zu nutzen. iHerb unterstützt keine Anträge auf Befreiung von der Umsatzsteuer für Unternehmen oder Wiederverkäufer.
     
-5. Usage & Termination
-    -------------------
+5. Nutzung und Stornierung
+    -----------------------
     
-    By using our Site and/or participating in the Rewards Program, Reviews Programs and/or Autoship & Save, you represent and agree that you are at least eighteen (18) years of age or older and are fully able and competent to agree to the terms in this Agreement or any Program terms and conditions. If you are under the age of 18, you are not permitted to use this Site or participate in any Program.
+    Durch die Nutzung unserer Website und/oder die Teilnahme am Prämienprogramm, an den Bewertungsprogrammen und/oder am Spar-Abo versichern und stimmen Sie zu, dass Sie mindestens achtzehn (18) Jahre alt oder älter sind und dass Sie vollständig fähig und qualifiziert sind, den Bestimmungen dieser Vereinbarung oder anderen Geschäftsbedingungen von Programmen zuzustimmen. Wenn Sie unter 18 Jahre alt sind, sind Sie nicht berechtigt, diese Website zu nutzen oder an Programmen teilzunehmen.
     
-    1. **Account Setup & Use**
+    1. **Erstellung und Nutzung eines Accounts**
     
-    You may be required to establish an account on the Site in order to use certain features. When creating an account, you agree to provide accurate, true, complete and current information about yourself as prompted by the Site and to promptly update such information to maintain accurate, true, complete and current information. If you provide any inaccurate, false, incomplete or outdated information or we in our sole discretion suspect that such information is inaccurate, false, incomplete or outdated, we reserve the right to suspend or terminate your account and prohibit any and all current or future use of the Site or any portion thereof by you. During the registration process you will create a username and password. You are responsible for the confidentiality of your account and password and are fully responsible for all activities that occur under your account or password. You agree to immediately notify us of any unauthorized use of your account or password or any other security breach and to ensure that you exit from your account at the end of each session. You agree to be responsible for all charges resulting from the use of your account on the Site including charges resulting from unauthorized use of your account. We are not liable for any loss or damage resulting from your failure to comply with this section.
+    Das Einrichten eines Accounts auf der Website ist möglicherweise für den Gebrauch bestimmter Funktionen erforderlich. Wenn Sie einen Account erstellen, stimmen Sie zu, dass Sie fehlerfreie, wahrheitsgemäße, vollständige und aktuelle Informationen über sich selbst bereitstellen, wie von der Website verlangt, und dass Sie diese Informationen zeitnah aktualisieren, damit die Informationen fehlerfrei, wahrheitsgemäß, vollständig und aktuell bleiben. Sollten Sie unzutreffende, falsche, unvollständige oder veraltete Informationen bereitstellen oder sollten wir in unserem alleinigen Ermessen vermuten, dass Informationen unzutreffend, falsch, unvollständig oder veraltet sind, behalten wir uns vor, Ihren Account zu sperren oder zu schließen und jeglichen gegenwärtigen oder zukünftigen Gebrauch der Website oder Teilen davon durch Sie zu untersagen. Während des Registrierungsprozesses erstellen Sie einen Benutzernamen und ein Passwort. Sie sind für die Vertraulichkeit Ihres Accounts und Passworts und für jegliche Aktivitäten voll verantwortlich, die mit Ihrem Account oder Passwort durchgeführt werden. Sie verpflichten sich, uns über jede unbefugte Nutzung Ihres Accounts oder Passworts oder jeden anderen Sicherheitsverstoß unverzüglich zu benachrichtigen und sicherzustellen, dass Sie sich nach jeder Sitzung aus Ihrem Account ausloggen. Sie erklären sich damit einverstanden, die Verantwortung für alle Kosten zu übernehmen, die durch eine unbefugte Nutzung Ihres Accounts entstehen. Wir haften nicht für Verluste oder Schäden, die durch eine Nichteinhaltung dieses Abschnittes entstehen.
     
-    3. **Use of the site**
+    3. **Nutzung der Website**
     
-    You agree to use the Site and engage in the Programs for lawful purposes and that you are responsible for your use of and communications on the Site. You agree not to post on or transmit through the Site any unlawful, infringing, defamatory, obscene, indecent, threatening, offensive or otherwise objectionable material of any kind including any material that encourages illegal conduct or conduct that would encourage civil liability, infringe on other's intellectual property rights or otherwise violates any applicable local, state, national or international law. You agree not to use the Site in a manner that would interfere with normal operation or infringe on any others use of the Site.
+    Sie stimmen zu, die Website und die Programme zu legalen Zwecken zu nutzen und sind verantwortlich für Ihre Benutzung und Kommunikation auf der Website. Sie stimmen zu, auf der Website kein rechtswidriges, rechtsverletzendes, diffamierendes, obszönes, anstößiges, bedrohendes, beleidigendes oder anderweitig bedenkliches Material jeglicher Art zu posten oder dieses über die Website zu übertragen, darunter jegliches Material, das zu rechtswidrigem Verhalten oder Verhalten anregt, das zivilrechtliche Haftung zur Folge hat, die geistigen Eigentumsrechte anderer verletzt oder auf andere Weise gegen geltendes Orts-, Landes-, Bundes- oder Völkerrecht verstößt. Sie stimmen zu, die Website nicht auf eine Weise zu benutzen, die den Normalbetrieb der Website beeinträchtigen oder ihre Benutzung durch andere stören würde.
     
-    You agree not to access the Site by any means other than the interface we provide. Displaying or running the Site or any information or material displayed on the Site in frames or through similar means on another website without our prior authorization is prohibited. Any permitted links to the Site must comply with all applicable laws, rules and regulations.
+    Sie stimmen zu, auf die Website ausschließlich über die von uns bereitgestellte Oberfläche zuzugreifen. Die Darstellung oder der Betrieb der Website oder anderer Informationen oder Materialien der Website in Frames oder auf ähnlichem Wege auf einer anderen Website ohne vorherige Genehmigung ist untersagt. Alle genehmigten Verlinkungen zu der Website müssen mit den geltenden Gesetzen, Regeln und Vorschriften übereinstimmen.
     
-    We make no representation that materials contained on the Site or that products described or offered on the Site are appropriate or available for use in jurisdictions outside the United States, or that this Agreement complies with the laws of any other country. Users of the Site outside the United States do so at their own initiative and risk and are responsible for complying with all applicable laws and regulations, and undertake to, at the time of purchase of a product, to ascertain whether the importation of the respective product is allowed by the laws of their country and by the applicable governmental agencies. You agree not to access the Site from any location or territory where its contents are illegal and that you and not us, are responsible for compliance with all applicable laws and regulations.
+    Wir übernehmen keine Garantie, dass die auf der Website enthaltenen Materialien oder die Produkte, die auf der Website beschrieben und angeboten werden, für die Verwendung in Gebieten außerhalb der Vereinigten Staaten von Amerika geeignet oder verfügbar sind, oder dass diese Vereinbarung mit den Gesetzen anderer Länder übereinstimmt. Benutzer der Website außerhalb der USA agieren auf eigene Initiative und eigenes Risiko; sie sind für die Einhaltung aller geltenden Gesetze und Vorschriften verantwortlich. Sie verpflichten sich, zum Zeitpunkt des Kaufs eines Produkts zu überprüfen, ob die Einfuhr nach den Gesetzen ihres Landes und laut den zuständigen Regierungsbehörden zulässig ist. Sie stimmen zu, auf die Website nicht von Orten oder Gebieten aus zuzugreifen, in denen die Inhalte der Website rechtswidrig sind, und dass Sie, nicht wir, für die Einhaltung aller geltenden Gesetze und Vorschriften verantwortlich sind.
     
-    You may not use the Site or iHerb’s services if you are the subject of U.S. sanctions or of sanctions consistent with U.S. law imposed by the government of the country where you are accessing the Site or using iHerb’s services. You are responsible for compliance with all U.S. or other export and re-export restrictions that may apply to goods.
+    Sie dürfen die Website oder die Dienste von iHerb nicht nutzen, wenn Sie US-Sanktionen oder Sanktionen unterliegen, die dem US-Recht der Regierung des Landes entsprechen, in dem Sie auf die Website zugreifen oder die Dienste von iHerb nutzen. Sie sind für die Einhaltung aller US-amerikanischen oder anderen Export- und Reexportbeschränkungen verantwortlich, die möglicherweise für die entsprechenden Waren gelten.
     
-    8. **Termination or Suspension of the Agreement**
+    8. **Kündigung oder Aufhebung der Vereinbarung**
     
-    This Agreement is effective until terminated by either us or you. We, in our sole discretion, may suspend or terminate this Agreement at any time without notice and deny you access to the Site or any portion of it. You may terminate this Agreement at any time by contacting [Customer Service](https://www.iherb.com/info/contact) and discontinuing all use of the Site and the Rewards Program, Reviews Program, and Autoship & Save. Upon termination by us or you, you must destroy all materials obtained from the Site including all copies of such materials whether made under the terms of use contained in this Agreement or otherwise. We reserve the right to modify or discontinue, temporarily or permanently, the Site or any portion of it with notice to you.
+    Diese Vereinbarung ist gültig, bis sie von uns oder Ihnen gekündigt wird. Wir sind, nach unserem Ermessen, dazu berechtigt, die Vereinbarung ohne Vorankündigung jederzeit aufzuheben oder zu kündigen und Ihnen den Zugriff auf die Website oder Teile der Website zu verweigern. Sie können diese Vereinbarung jederzeit beenden, indem Sie den [Kundenservice](https://www.iherb.com/info/contact) kontaktieren und die Benutzung der Website und des Prämienprogramms, Bewertungsprogramms und Spar-Abos einstellen. Bei Kündigung durch uns oder Sie sind Sie dazu verpflichtet, alle Materialien zu vernichten, die Sie über die Website erhalten haben, darunter alle Kopien solcher Materialien, die unter Einhaltung der Nutzungsbedingungen dieser Vereinbarung oder auf anderem Wege erstellt wurden. Wir behalten uns das Recht vor, die Website oder Teile der Website mit Mitteilung an Sie temporär oder permanent zu verändern oder einzustellen.
     
-    10. **Account Termination**
+    10. **Schließen des Accounts**
     
-    We reserve the right to terminate any account if your order is deemed fraudulent or credit card charges are disputed. You agree that we may terminate or suspend your access to all or part of the Site, with or without notice, for any conduct that we, in our sole discretion, believe is in violation of any part of this Agreement, laws or regulations or is harmful to another user or us or our affiliates.
+    Wir behalten uns das Recht vor, Ihren Account zu schließen, wenn Ihre Bestellung als betrügerisch erachtet oder die Belastung der Kreditkarte angefochten wird. Sie stimmen zu, dass wir das Recht haben, Ihren Zugriff auf die gesamte Website oder Teile der Website bei jeglichem Verhalten, das nach unserem Ermessen ein Verstoß gegen diese Vereinbarung, Gesetze oder Vorschriften ist, oder das anderen Benutzern oder unseren Partnern schadet, mit oder ohne Vorankündigung zu beenden oder auszusetzen.
     
-    The following shall survive any termination of the Agreement either by us or you; Privacy, Liability Disclaimer, Severability; Interpretation, and Miscellaneous.
+    Das Folgende überdauert jede Kündigung der Vereinbarung durch uns oder Sie; Datenschutz, Haftungsausschluss, Salvatorische Klausel; Interpretation und Sonstiges.
     
     13. **Google Maps/Google Earth**
     
-    Some areas of the Site implement Google Maps/Google Earth mapping services. Your use of Google Maps/Google Earth is subject to the [Google Maps/Google Earth Additional Terms of Service](https://maps.google.com/help/terms_maps.html) and the Google [Privacy Policy](https://policies.google.com/privacy?hl=en&gl=us).
+    Einige Bereiche der Website implementieren Google Maps/Google Earth-Kartendienste. Ihre Nutzung von Google Maps/Google Earth unterliegt den [zusätzlichen Nutzungsbedingungen von Google Maps/Google Earth](https://maps.google.com/help/terms_maps.html) und den [Datenschutzbestimmungen](https://policies.google.com/privacy?hl=en&gl=us) von Google.
     
-6. Pricing
-    -------
+6. Preisgestaltung
+    ---------------
     
-    With respect to items sold by iHerb, we cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. Subject to applicable law, if the correct price of an item sold by iHerb is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation.
+    In Bezug auf von iHerb verkaufte Artikel können wir den Preis eines Artikels erst bestätigen, wenn Sie bestellen. Trotz unserer Bemühungen kann eine kleine Anzahl der Artikel in unserem Katalog einen falschen Preis anzeigen. Vorbehaltlich des geltenden Rechts werden wir uns nach unserem Ermessen entweder vor dem Versand mit Ihnen in Verbindung setzen oder Ihre Bestellung stornieren und Sie über eine solche Stornierung informieren, wenn der korrekte Preis eines von iHerb verkauften Artikels über unserem angegebenen Preis liegt.
     
-7. User Content and Conduct
-    ------------------------
+7. Benutzerinhalte und -verhalten
+    ------------------------------
     
-    [User Generated Content Guidelines](https://www.iherb.com/ugc/terms) are included in this Agreement. All User Generated Content must comply with the guidelines which are a binding part of this Agreement. Additionally, all User Generated content should comply with the Code of Conduct in this Agreement. User Generate Content, including product reviews, solely reflect the views and opinions expressed by the contributor and not those of iHerb. iHerb does not verify or endorse any claims made in reviews. Statements regarding dietary supplements have not been evaluated by the FDA and are not intended to diagnose, treat, cure, or prevent any disease or health condition.
+    [Richtlinien zu Benutzerinhalten](https://www.iherb.com/ugc/terms) sind in dieser Vereinbarung enthalten. Alle Benutzerinhalte müssen den Richtlinien entsprechen und sind ein verbindlicher Bestandteil dieser Vereinbarung. Darüber hinaus müssen alle benutzergenerierten Inhalte dem Verhaltenskodex in dieser Vereinbarung nachkommen. Benutzergenerierte Inhalte, einschließlich Produktbewertungen, spiegeln ausschließlich die Ansichten und Meinungen des Benutzers wider und nicht die von iHerb. iHerb bestätigt oder unterstützt keine in Bewertungen gemachte Behauptungen. Aussagen zu Nahrungsergänzungsmitteln wurden nicht von der Lebensmittelüberwachungs- und Arzneimittelbehörde der USA bewertet und sind nicht zur Diagnose, Behandlung, Heilung oder Vermeidung von Krankheiten oder Gesundheitszuständen geeignet.
     
-8. Privacy
-    -------
-    
-    By agreeing and adhering to the terms of this Agreement, You also confirm that You understand iHerb’s Privacy Policy. To learn more about what we do with your information please review the iHerb [Privacy Policy](https://www.iherb.com/info/privacy).
-    
-9. Consent to Communications
-    -------------------------
-    
-    You consent to receive SMS messages (including text messages) from us to the specific number(s) you have provided to us with information or questions about your account and/or orders.
-    
-    You may also have elected to receive marketing and promotional SMS messages (including text messages) from us. Your consent to receive marketing and promotional SMS messages is not required to purchase goods or services. If you have elected to receive SMS marketing messages, we will send you an SMS to confirm your election. Message and data rates may apply and message frequency may vary. Carriers are not liable for delayed or undelivered messages.
-    
-    You certify, warrant and represent that the telephone number you have provided to us is your contact number and not someone else's. You represent that you are permitted to receive calls and text messages at the telephone number you have provided to us. You agree to promptly alert us whenever you stop using a telephone number. iHerb may use such means of communication described in this section even if you will incur costs to receive such messages, text messages, e-mails or other means, which may occur.
-    
-    You can stop receiving SMS messages (including text messages) at any time by replying “STOP” to any message you receive from us and we will send you a message confirming your election. If you want to start receiving messages again, sign up as you did the first time. If you need help, text “HELP” to any message you receive from us or email [\[email protected\]](https://de.iherb.com/cdn-cgi/l/email-protection). Message and data rates may apply and message frequency may vary. Carriers are not liable for delayed or undelivered messages.
-    
-    For customer support, [please visit our customer support page.](https://secure.iherb.com/info/Contact)
-    
-10. Programs
-    --------
-    
-    Your participation in the Programs is voluntary and is effective until terminated by either iHerb or you.
-    
-
-### iHerb Rewards Program
-
-The Rewards Program is on-going and participation is subject to the terms and conditions set forth herein.
-
-Eligibility
-
-The Rewards Program is open to all iHerb account holders who are at least eighteen (18) years of age or older at the time of participation. Purchases made through the guest checkout feature are not eligible for Rewards Program participation or benefits. This Rewards Program is void where prohibited or restricted by law. Your participation in the Rewards Program and use of Your Rewards Link and Rewards Code (as each is defined below), constitutes your full and unconditional agreement to the terms set forth in this Agreement, and iHerb’s decisions and interpretations, which are final and binding in all matters related to the Rewards Program. If you are a business or publisher (including but not limited to coupon sites, deal sites, cashback sites, content sites, online shopping comparison tool, etc.), please refer to iHerb Affiliate Program terms below for more information on eligibility and terms of use.
-
-General Rewards Program Information
-
-Subject to the above eligibility requirements, You may participate in the Rewards Program when You create a valid account on the Site. When You create a valid account, You will be enrolled in this Rewards Program and be deemed a participant in the Rewards Program in order to receive credits towards Your future iHerb purchases (“Rewards Credits”).
-
-Rewards Credits earned under this Rewards Program from making referral and writing review can only be used by You towards Your future purchases made on the Site (see [Rewards FAQs](https://secure.iherb.com/info/rewardsfaq).) As discussed further below, Rewards Credits are not redeemable for cash.
-
-Once enrolled, You will receive a customized link (“Rewards Link”) as well as a special code (“Rewards Code”). Both the Rewards Link and Rewards Code will be associated with Your account.
-
-You can receive Rewards Credits when new and existing customers that You refer to iHerb (“Referred Customer”) place qualifying orders using Your Rewards Link or Rewards Code.
-
-You may also earn rewards by posting eligible reviews.
-
-Additionally, iHerb may, on occasion, run contests, sweepstakes, or promotions by which You may earn Promotional Rewards Credits. Promotional Rewards Credits are different from Rewards Credits and subject to additional use restrictions which are detailed below.
-
-**Earning Rewards Credits**
-
-You can refer potential Referred Customers through Your Rewards Link by:
-
-1. Going to your favorite product, category page, or creating a shopping cart of Your favorite products. Next, click on the “Share” button on the top-right corner to share your Rewards Link, or
-2. Going to Your order history and clicking on the “Share” button for each order to share with others.
-
-You may also earn Rewards Credits if a Referred Customer enters Your Rewards Code at checkout.
-
-Once a Referred Customer clicks on Your Rewards Link, they will have seven (7) days to complete their order. You can earn Rewards Credits for qualifying orders that will be applied to Your account in accordance with the Rewards Program Accounting and Payment Information section listed below.
-
-Give 5% or more discount, and earn 5% or more in Rewards Credit from each referral order placed by a new or existing customer. You may also earn an additional percentage or dollar credit in the event that iHerb, at its sole discretion, decides to run a special promotional program from time to time. [Super Rewards](https://secure.iherb.com/rewards/superrewards) is considered one of the special promotional programs we run periodically, giving You additional opportunity to earn even more Rewards Credit. Check our [Super Rewards](https://secure.iherb.com/rewards/superrewards) page for the latest offer.
-
-You may also earn Rewards Credits by writing reviews for products that You have purchased and used any time after July 1, 2020. iHerb’s offer of Rewards Credits to customers who post reviews is intended to encourage customers to provide authentic, transparent, and honest opinions, both positive and negative, based on their real experiences with products.
-
-**Earning Promotional Rewards Credits**
-
-iHerb may, on occasion, run contests, sweepstakes, or promotions by which You may earn Promotional Rewards Credits subject to the terms and conditions of those contests, sweepstakes or promotions. Promotional Rewards Credits are different from Rewards Credits and subject to additional use restrictions which are detailed below.
-
-**Eligible Reviews**
-
-To be eligible to receive Rewards Credits Your review must meet the following criteria: (i) You must have previously purchased the product from iHerb; (ii) Your purchase must have occurred after July 1, 2020; and (iii) Your review must comply with iHerb’s [User Generated Content Guidelines](https://www.iherb.com/ugc/terms) (“UGC Guidelines”). Deliberately fake content, copied or stolen content, off-topic reviews, defamatory language, personal attacks, and unnecessary or incorrect content are all in violation of our UGC Guidelines.
-
-**Earning Rewards for Eligible Reviews**
-
-You may receive a $1.00 (one dollar) Reward Credit as pending Rewards Credit for each approved and eligible review You submit whether that review is positive or negative. Approval of the review and payout of the Rewards will be instantly made available after you submit each review. You may only post one review per product. You can find more information about reviews and Rewards Credits in the FAQ’s.
-
-**Voting Eligibility**
-
-Any iHerb customer who has made at least one purchase from iHerb is eligible to vote on a review as helpful or unhelpful. Helpful or unhelpful votes are made by clicking on the thumbs up (for helpful) or thumb down (for unhelpful) icons found to the right of each review.
-
-What Rewards Credits Can Be Used For
-
-Your Rewards Credits will automatically apply to Your future orders and will appear in Your shopping cart when signing into Your iHerb account.
-
-Subject to the below restrictions, there are no limitations to the amount of Rewards Credits that you can receive. However, You may use only one account per person and no more than five (5) customer accounts per household can participate in this Rewards Program.
-
-iHerb will track orders that qualify under this Rewards Program and may make those tracked orders available to You for up to three (3) months.
-
-For the purposes of determining the participant that will receive Rewards Credits for each qualifying Referred Customer order, iHerb will look to the Rewards Link or Rewards Code that was last used when finalizing such Referred Customer order.
-
-What Promotional Rewards Credits Can Be Used For
-
-Promotional Rewards Credit can only be used by You towards Your future purchases made on the Site. Promotional Rewards Credits may have varying expiration dates subject to the terms and conditions of the relevant contest, sweepstake, or promotion.
-
-Rewards Program Accounting and Payment Information
-
-The actual amount of any earned Rewards Credit referrals will be calculated based on the give 5% or more discount, and earn 5% or more in Rewards Credit from each referral order placed by a new or existing customer.
-
-**Rewards Credits earned from referral purchases** will generally be posted to Your account within thirty-five (35) days following the qualifying transaction which is completed by a Referred Customer (“Pending Credit”). Promotional Rewards Credits will post to Your account based on the terms and conditions of the relevant contest, sweepstakes, or promotion. This time period is necessary to address any cancelled orders, returned products, cashback issues or other related issues. After the 35-day period referenced above for Rewards Credit earned through referral purchases, Pending Credits will be available in Your account to be applied to future purchases (“Available Credit”).
-
-**Any Rewards Credits earned will be posted to Your account as immediately available for use**
-
-Rewards Credits are incentives for future purchases. As a condition to maintaining Rewards Credits, they must be used within ninety (90) days after posting to Your Account. Consequently, available Rewards Credits expire ninety (90) days after posting to Your account. However, 90-day expiration period resets when You earn new Rewards Credits during this time period.
-
-**Promotional Rewards Credits** may have varying expiration dates subject to the specific terms and conditions of any contest, sweepstakes or promotion by which you may earn Promotional Rewards Credits. You will need to check the official rules of any contest, sweepstakes, or promotion for details.
-
-Once an Available Credit has been used, that amount will be deducted from Your account (“Used Credit”).
-
-Any Pending Credit or Available Credit may be adjusted accordingly in the event that a Referred Customer subsequently returns or refuses a previously placed order (“Cancelled Credit”), for technical errors, or corrections.
-
-Rewards Credits Cash Out
-
-After November 5, 2024, Rewards Credits can no longer be accrued for a cash out option. Rewards Credit cash out requests (for account with a minimum of $300 in Rewards Credits) will be honored if submitted prior to December 10, 2024.
-
-iHerb partners with Hyperwallet (powered by PayPal) to cash out Rewards Credits. You may only cash out Rewards Credits if Hyperwallet supports your country. If Hyperwallet does not support your country, you are not eligible to cash out Rewards Credits. See the [Rewards FAQ](https://secure.iherb.com/info/rewardsfaq) for the list of countries that Hyperwallet currently supports. Payment will be delivered within fourteen (14) business days after the participant elects to cash out. No Rewards Credit cash out request will be honored after December 10, 2024.
-
-Tax Information
-
-You will be responsible for any and all tax liability arising from any Rewards Credits or Promotional Rewards Credits you accumulate under the Rewards Program when you accumulate six hundred dollars ($600) or more in a year in the United States. iHerb is obligated by United States federal law to obtain tax information from Rewards Program participants who are United States citizens or United States residents (W-9) and from Rewards Program participants who are not United States citizens or residents but whose businesses are taxable in the United States (W8-ECI). Upon creating an account with iHerb’s partner, Hyperwallet (powered by PayPal), users will be asked to submit the appropriate tax form. If iHerb believes You are a Rewards Program participant from whom iHerb is obligated to obtain tax information and You do not provide this information upon request, iHerb reserves the right to withhold your Rewards Credits cash out until You provide this information or otherwise satisfy iHerb that You are not a person from whom iHerb is required to obtain tax information. For US citizens or residents, information about submitting tax information is also available on Hyperwallet (powered by PayPal).
-
-If You are not a resident of the United States and You have not accrued any tax liability in the United States You are still responsible for paying any applicable taxes in your home country for any Rewards Credits You cash out. It is Your responsibility to determine what taxes apply to the payments You receive, and it is Your responsibility to collect, report and remit the correct tax to the appropriate tax authority.
-
-General Rewards Program Restrictions
-
-All participants in iHerb’s Rewards Program must comply with the terms of this Agreement and iHerb’s policies governing the use of its programs, including the [Code of Conduct](https://s3.images-iherb.com/cms/pdf/iherb_code_of_conduct_business_ethics_11_19_19.pdf). Failure to abide by this Agreement and the incorporated Code of Conduct, may result in the pausing or blocking of Your Rewards Program account.
-
-iHerb reserves the right to invalidate Rewards Credits or Promotional Rewards Credits if it determines that such Rewards Credits or Promotional Rewards Credits were improperly posted to Your account, or were obtained fraudulently or in violation of this Agreement, or otherwise unlawfully acquired. Rewards Credits and Promotional Rewards Credits are not saleable, transferable, or assignable for any reason.
-
-All accounts must be in the name of a different living person, not a business entity.
-
-iHerb assumes no liability for discrepancies, delays, omissions, inconsistencies or errors in the calculation and the crediting of the Rewards Credits or Promotional Rewards Credits. The decisions of iHerb with respect to the Rewards Program, including without limitation, the qualifying purchases, earned Rewards Credits or Promotional Rewards Credits, and Rewards Credits or Promotional Rewards Credit account balances are final, binding, and non-appealable in all respects.
-
-If You create multiple accounts or attempt to participate in the Rewards Program using multiple identities, then iHerb, in its sole discretion, may disqualify You and void any or all such accounts. Rewards Credits or Promotional Rewards Credits may not be combined with different promotions for any purpose.
-
-iHerb reserves the right to cancel any orders placed on the Site in accordance with the Agreement.
-
-You are not permitted to engage in any form of commercial advertising as this Rewards Program is not intended for commercial purposes. Rewards Links and Rewards Codes are strictly prohibited from being placed on commercial sites (including but not limited to deal or coupon sites/apps, web browser extensions, eBay, Amazon, Facebook groups, Telegram groups, X, etc.) and will result in Your account and funds being blocked. Codes ranking in organic search for “iHerb + term” such as "iHerb coupon", "iHerb discount", “How to shop at iHerb”, “iHerb shipping,” etc are subject to a decreased commission and may be required to migrate to our Affiliate Program.
-
-You are also prohibited from engaging in any kind of reciprocal referrals that are intended to abuse and disrupt the normal operation of the Rewards Program.
-
-iHerb reserves the right to pause or block your participation in the Rewards Program, as well as reduce or adjust any Reward Credits if iHerb determines in its sole discretion that the participant is in violation of any of the terms of this Agreement, or is in any way abusing iHerb’s Rewards Program. Paused accounts will be unable to use or earn Rewards Credit. If Your account is blocked, Your Rewards Link and Rewards Code will not earn Rewards Credits and all pending and available Rewards Credits will be zeroed out.
-
-General Promotional Restrictions
-
-You may share Your iHerb Reviews or [My iHerb Page](https://www.iherb.com/myaccount/publicprofile), as well as Your iHerb Rewards Link on a personal blog, website or on your personal social media accounts (e.g. Facebook, X and VK) subject to the terms and conditions of those accounts. However, Your social media profile may not contain an avatar or any other content that could be interpreted as being managed, endorsed, or approved by iHerb and no part of Your username can include, contain, or otherwise refer to the word “iHerb”. You cannot use ‘iHerb” logo on any part of your social media page, including your profile image and banners. Conversely, You cannot use, or reference, Your Rewards Code in any of Your personal social media account usernames, social media URLs or Your iHerb profile pages. You are prohibited from posting Your Rewards Link and Rewards Code on any official iHerb social media account or the iHerb website (reviews, Q&A, My iHerb, etc.) in an attempt to generate Rewards Credits. You are also prohibited from posting any comments on any official iHerb social media account or iHerb’s website that direct or indirectly appear to promote or attempt to redirect users to other links or webpages (including, but not limited to websites, social media accounts, blogs, or forums) that feature or distribute Your Rewards Link or Rewards Code.
-
-Your blog, website, or social media pages may not resemble iHerb’s website or include any content that could imply an affiliation with iHerb. Any content You choose to post on Your personal accounts is solely Your responsibility, iHerb makes no claim to such content.
-
-You may email Your iHerb Rewards Link using Your personal email or using the “Share” icon found on iHerb’s website. However, such emails cannot appear to be sent or sponsored by iHerb. You represent and warrant that You will not engage in and/or facilitate spamming, unsolicited commercial email or otherwise fail to comply with the CAN-SPAM Act of 2003 (15 U.S.C. §§ 701 et seq.) as amended, and/or any other laws and/or regulations that govern email marketing and/or communications.
-
-You may not purchase or use domain or subdomain names that include the word “iHerb” or certain variations and misspellings in any username, group name, or identifier on a social networking site. Examples of such domains include, but not limited to www.iherb.sitename.com, www.iherb-sitename.com, www.ayherb.com, www.i-herb.com, www.ay-herb.com, or www.ayeherb.com.
-
-You may not create or utilize any client side application (browser plugin, extension, executable, etc., installable by the end user) on any device that might imply affiliation with iHerb. Additionally, to the extent that You create an app, plugin or extension such as apps and other client side applications may not integrate and/or use iHerb’s name, logo, app, or any other intellectual property in any manner.
-
-Additional restrictions on Your promotional activity that would result in immediate suspension or banned from the Rewards Program include, without limitation:
-
-1. Any Promotional activity featuring your Rewards Code or Rewards Link with any of the following:
-
-1. Violent, defamatory, discriminatory, sexually explicit or racist materials or activities
-2. Contents that contain, suggest or promote illicit activity.
-3. Curses, obscenities or profanity content or activity
-4. Sexual content such as nudity or sexually explicit images or videos
-5. Comments responding to or copying content created by other influencers or digital creators
-6. “Spam” content
-7. Off-topic or off-brand materials and discussion threads
-
-3. You may not link any content to, or redirect traffic to sites other than iHerb.com (parts of Your site that do not promote iHerb’s products may contain links to other sites.)
-4. You may not alter, delete, or add any additional material or information about any promotion in any manner that may be misleading to customers.
-5. You will promptly remove items that are no longer advertised or sold by iHerb.
-6. You will promptly remove promotional material and promotions that are no longer advertised or validated by iHerb.
-7. You will not use names or likenesses in a matter implying a person’s or company’s endorsement of or sponsorship of, or commercial association (including placing unrelated materials in close proximity to content) with iHerb.
-8. You may not include on your site, display, or otherwise use links or content which contain or have a connection to viruses, or malicious or harmful code, or any application not knowingly and expressly authorized by users prior to being downloaded.
-9. You may not attempt to redirect or intercept traffic from any site participating in the Rewards Program.
-10. You may not incorporate iHerb.com into a webview or integrated web browser within a mobile application.
-11. You may not use transitional pages, pop--up and/or layered ads for promotional activity.
-12. Artificially generating clicks or impressions to create sessions on iHerb.com, whether by software or otherwise is prohibited.
-13. You may not use Your Rewards Link or Rewards Code to generate Rewards Credits from Your own personal purchases or for any commercial resell purposes.
-14. All “paid” placements (including but not limited to paid search, display ads, social retargeting, etc.) and redirecting links are prohibited and may result in the suspension of the Rewards Program linked to Your account and any Rewards Credits accrued from such activity will be reduced or cancelled. For purposes of this Agreement a “paid search” is an advertisement purchased through bidding on keywords, search terms or other participation in a keyword auction such as Google, Yahoo, Bing, Yandex, Baidu, Naver or any other search engine, portal, sponsored advertising service, or other search or referral service, or any site that participates in any of their respective networks.
-15. You may not use tactics to increase Your organic page rank for search terms that include “iHerb + term,” such as using certain phrases on your pages including, but not limited to, “iHerb coupon” and “iHerb discount” or use link schemes that include any behavior of manipulating links to your site, within your site, or outgoing links from your site.
-16. You agree to indemnify, defend, and hold iHerb, and its employees, harmless from any legal claim, demand, penalties, fines, judgments, costs or other reasonable expenses (including reasonable attorney’s fees) arising from or relating to your participation in the Rewards Program (i) in violation of these Terms of Use, or (ii) which infringes on the rights of any third party.
-
-All Rewards Program participants will be automatically suspended or banned from the Rewards Program if they are determined by iHerb to have caused brand damage by posting and spreading inappropriate content, such as the examples previously listed, via comments or private messages on any social media channels, or have conducted themselves in a manner that could be interpreted as bringing iHerb into disrepute.
-
-iHerb reserves the right to immediately void Rewards Credit and Promotional Rewards Credit, suspend or ban program participants, and/or void iHerb accounts if any fraudulent activity, abuse or other conduct, including but not limited to the examples listed above, is detected or suspected.
-
-Rewards participants earning rewards as "referrers" are expected to respect the guidelines of the Rewards Program by only referring genuine, living individuals who meet the specified criteria outlined in these Terms & Conditions. Participants must refrain from creating multiple accounts or engaging in the Rewards Program through various identities, whether as the "referrer" or the "referral." iHerb reserves the right, at its sole discretion, to disqualify individuals and nullify any or all associated accounts if such actions are detected.
-
-Should there be any dispute concerning the iHerb Rewards Program, Rewards Credit or Promotional Rewards Credit, iHerb reserves the right to make the final decision.
-
-Account Verification
-
-All accounts, qualifying purchases, Rewards Credits, and/or Promotional Rewards Credits are subject to verification at the sole and absolute discretion of iHerb. iHerb reserves the right to void Rewards Credits or Promotional Rewards Credits and suspend/block Your account from any IP address or device if any type of fraudulent or suspicious activity is detected or suspected. In the event of an inconsistency between the amount of Rewards Credits or Promotional Rewards Credits You may have accrued in Your account as stated on Your records and iHerb’s internal records, iHerb’s internal records shall control. Should there be any disputes that arise regarding these Terms of Use, any decision made by iHerb shall be conclusive and final in each case.
-
-No Rewards Credits or Promotional Rewards Credits will be valid if associated with any participant account deemed void for violations of any provisions contained in these Terms of Use or Code of Conduct.
-
-iHerb will send you an email notification when voiding Your Rewards Credits or Promotional Rewards Credits and/or pausing or blocking your account, provided that You have opted-in to receive Rewards notifications and communications, which You can check on Your [Communication Preference](https://secure.iherb.com/communications/preferences/) page.
-
-Rewards Program Termination
-
-In the event of termination of this Rewards Program, and if You are in compliance with the Terms of Use, iHerb will distribute Rewards Credits to You, in iHerb’s sole and absolute discretion, in the form of Rewards Credits to be used towards Site purchases. Any such distribution is limited to a maximum of three (3) months of Rewards Credits, calculated based on Your Rewards Credits for the month prior to the month in which the Rewards Program is terminated. Any earned Promotional Rewards Credit in Your account will be valid until their date of expiration.
-
-iHerb may change its policy or set limitations and restrictions on this Rewards Program at any time and without any form of notice. Except as expressly stated above, iHerb shall not have any liability or obligation with regards to the application of this Rewards Program and any decision that iHerb makes in relation to your Rewards Credits or Promotional Rewards Credits.
-
-**iHerb Autoship & Save Program (“Autoship & Save”)**
-
-Only customers in the United States, Japan, Singapore, Korea, and Hong Kong are eligible to participate iHerb’s Autoship & Save. By placing an order through Autoship & Save, you accept these terms, conditions, limitations and requirements. Please read this section carefully.
-
-Benefits
-
-The Autoship & Save benefits discussed on the Autoship & Save [Frequently Asked Questions](https://www.iherb.com/info/autoship-save) page are part of these Terms. iHerb reserves the right to change the Autoship & Save benefits, including the discount amounts and eligibility used to determine discount amounts, at any time in its sole discretion. All changes will apply to future orders, including for current subscriptions.
-
-Some of the offer details may change as you receive deliveries over time (for example, price, taxes, availability, shipping charges, and the seller).
-
-Your Autoship & Save subscription will automatically create a new order according to your chosen delivery schedule, until you cancel.
-
-We may, in our sole discretion, terminate your subscriptions at any time without notice. If we do so, you will only be charged for orders that have been shipped to you.
-
-Eligible Purchases
-
-Autoship & Save benefits are limited to items displaying the Autoship & Save information on the product page. To see a full list of eligible items, visit [https://www.iherb.com/cl/autoship-save](https://www.iherb.com/cl/autoship-save). Autoship & Save is only available to customers shipping to addresses in the United States, Japan, Singapore, Korea, and Hong Kong. Your participation in the Autoship & Save program is personal to you, and you may not assign or transfer your subscription or any of the benefits to any third party without our authorization.
-
-Autoship & Save discounts and any Autoship & Save limited time special subscription promotions in effect apply only to eligible items displaying the offer message on the Autoship & Save item information pages, and then only if you select the Autoship & Save delivery method. Subscriptions are good while supplies last. Special limited time subscription promotions only apply during their effective dates.
-
-Autoship & Save subscriptions are void where prohibited.
-
-Payment; Renewal
-
-The total cost charged to your payment method for each Autoship & Save order will be the cost of the item on the day that order is processed less the Autoship & Save discount, plus any applicable sales tax and shipping charge. If you have Rewards Credits, those available Rewards Credit will automatically apply to both your initial Autoship & Save order and your recurring Autoship & Save orders before payment is applied.
-
-The charge for each Autoship & Save item shipment will be billed to the payment method used to create your subscription or as otherwise directed by you. If we are unable to complete your Autoship & Save order with the payment method you used to create your subscription, you authorize us to update your subscription with another payment method in your account and to charge that payment method for your Autoship & Save order.
-
-Cancellation
-
-Your subscription will remain in effect until it is cancelled. You can cancel at any time. If you cancel your subscription and then reactivate it, the discount applied to any Autoship & Save item may not be the same discount in effect at the time of cancellation. If the Autoship & Save discount percentage for such Autoship & Save item changes, the new discount will be applied to your future shipments of that item. For additional information about canceling your Autoship & Save Subscription please see the Autoship & Save [Frequently Asked Questions](https://www.iherb.com/info/autoship-save) page.
-
-Agreement Changes
-
-We may, in our sole discretion, change these Terms without notice to you. If any change to these terms is found invalid, void, or for any reason unenforceable, that change is severable and does not affect the validity and enforceability of any remaining changes or conditions. YOUR CONTINUED PARTICIPATION AFTER WE CHANGE THESE TERMS CONSTITUTES YOUR ACCEPTANCE OF THE CHANGES. IF YOU DO NOT AGREE TO ANY CHANGES, YOU MUST CANCEL YOUR SUBSCRIPTIONS.
-
-### iHerb Affiliate Program
-
-iHerb’s affiliate program allows you to earn commissions on the sales of products on iHerbs’s websites (“Affiliate Program”). iHerb’s Affiliate Program is run and managed by third-party platforms (each, an “Affiliate Program Platform”) listed here: ([https://www.iherb.com/info/affiliates](https://www.iherb.com/info/affiliates)).
-
-Enrollment
-
-You must submit an application, via one of iHerb's Affiliate Program Platforms, and be approved to participate in the Affiliate Program. We reserve the right to reject any applications at our sole discretion. However, we encourage you to contact us if you would like to provide additional information for reconsideration. If we reject your application, you are welcome to reapply to the Affiliate Program at any time. However, we reserve the right to withdraw iHerb's acceptance of your application at iHerb's absolute discretion if we determine that your site or other social media content is unsuitable for the Program. Affiliate or Rewards accounts that have been previously flagged for violations may be rejected from joining the iHerb Affiliate program.
-
-You must abide by all of the iHerb Affiliate Program terms and conditions detailed on the Affiliate Program Platforms. Failure to abide by those terms and conditions is grounds for immediate termination from the Affiliate Program.
-
-Commission Payments By Affiliate Program Platforms
-
-All commissions will remain pending until 32 days after the day the order ships (“Pending Period”). During this Pending Period, commissions may be adjusted for any orders that were reversed, refunded, or disputed. After the Pending Period, orders will be approved for payment.
-
-Payments are made approximately 45 days after the close of the month to the respective Affiliate Program Platform and will be made available to withdraw within two business days thereafter. iHerb fully funds any commission earned by you by transferring such funds to the Affiliate Program, at which time iHerb has satisfied any obligation to pay commissions to you. The Affiliate Program Administrator, and not iHerb, shall be solely responsible for the payout of commissions to you.
-
-Assignment
-
-iHerb may assign any of its rights and obligations relating to the Affiliate Program and the other matters set forth herein to any party, including any affiliate or related entity of iHerb, in its sole discretion and without your consent or the consent of any other person.
-
-115. Liability Disclaimer
-    --------------------
-    
-    YOU AGREE THAT THE USE OF THE SITE OR PARTICIPATION IN ANY PROGRAM IS AT YOUR SOLE RISK. THE SITE, THE PROGRAMS AND THE MATERIALS CONTAINED THEREIN ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, EXCEPT AS OTHERWISE EXPRESSLY PROVIDED FOR IN THIS AGREEMENT. IHERB AND ITS RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND OTHER REPRESENTATIVES, SUCCESSORS AND ASSIGNS OF ANY OF THEM (COLLECTIVELY, "IHERB ENTITIES") EXPRESSLY DISCLAIM ALL WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. WITHOUT LIMITING THE GENERALITY OF THE FOREGOING, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE IHERB ENTITIES EXPRESSLY DISCLAIM ALL LIABILITY FOR PRODUCT DEFECT OR FAILURE, CLAIMS ATTRIBUTABLE TO NORMAL WEAR, PRODUCT MISUSE OR MODIFICATION, ABUSE, INCORRECT PRODUCT SELECTION AND NOT FOLLOWING PRINTED DIRECTIONS.
-    
-    IHERB ENTITIES MAKE NO WARRANTY THAT THE SITE OR ANY PROGRAM WILL MEET YOUR REQUIREMENTS, THE SITE WILL BE TIMELY, SECURE, ERROR FREE OR UNINTERRUPTED, THE RESULTS OBTAINED FROM THE SITE OR FROM ANY PROGRAM WILL BE ACCURATE OR RELIABLE, THE QUALITY OF ANY PRODUCTS, SERVICES, INFORMATION OR OTHER MATERIAL OBTAINED BY YOU THROUGH THE SITE WILL MEET YOUR EXPECTATIONS AND ANY SITE ERRORS WILL BE CORRECTED. IHERB DOES NOT REPRESENT OR WARRANT THAT MATERIALS IN THE SITE ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE. IHERB IS NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS OR OMISSIONS RELATING TO PRICING, PRODUCT DESCRIPTIONS, TEXT OR PHOTOGRAPHY. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE SITE OR VIA ANY PROGRAM IS DONE AT YOUR OWN RISK AND YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER SYSTEM OR LOSS OF DATA THAT RESULTS FROM THE DOWNLOAD OF ANY MATERIAL. NO INFORMATION OBTAINED BY YOU FROM IHERB ENTITIES, THROUGH THE SITE OR THROUGH A PROGRAM SHALL CREATE ANY WARRANTY RELATING TO THE SITE OR SUCH PROGRAM NOT EXPRESSLY STATED IN THIS AGREEMENT.
-    
-    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL IHERB ENTITIES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, LOSS OF GOOD WILL, LOSS OF USE, LOSS OF DATA, COST OF PROCURING SUBSTITUTE GOODS, SERVICES OR INFORMATION, LITIGATION OR THE LIKE), WHETHER BASED ON BREACH OF CONTRACT, BREACH OF WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCT LIABILITY OR OTHERWISE, EVEN IF IHERB ENTITIES ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE LIMITATIONS OF LIABILITY SET FORTH HEREIN ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE ARRANGEMENT BETWEEN IHERB AND YOU. THE PRODUCTS, INFORMATION, PROGRAMS AND SERVICES OFFERED ON AND THROUGH THE SITE WOULD NOT BE PROVIDED WITHOUT SUCH LIMITATIONS. SUBJECT TO THE FOREGOING, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW: (I) IF YOU ARE A CUSTOMER, THE MAXIMUM LIABILITY OF IHERB ENTITIES SHALL BE LIMITED TO THE AMOUNT PAID BY YOU FOR ANY PRODUCT, INFORMATION OR SERVICE PURCHASED BY YOU FROM IHERB ON THE SITE, AND (II) IF YOU ARE A PARTICIPANT IN ANY PROGRAM, THE MAXIMUM LIABILITY OF IHERB ENTITIES SHALL BE LIMITED TO THE AMOUNT CREDITED OR PAID TO YOU BY IHERB UNDER THE APPLICABLE PROGRAM DURING 12 MONTHS PRIOR TO THE DATE LEADING TO LIABILITY.
-    
-    BECAUSE SOME STATES AND/OR JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF CERTAIN WARRANTIES OR THE LIMITATION OR EXCLUSION OF LIABILITY FOR CERTAIN TYPES OF DAMAGES, SOME OF THE ABOVE DISCLAIMERS AND LIMITATIONS MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE SITE, YOUR PARTICIPATION IN ANY PROGRAM OR WITH ANY OF THE TERMS OF USE CONTAINED IN THIS AGREEMENT, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE OR PARTICIPATING IN THE APPLICABLE PROGRAM. IN NEW JERSEY, THESE DISCLAIMERS AND LIMITATIONS DO NOT APPLY TO LIABILITY RESULTING FROM INTENTIONAL OR RECKLESS CONDUCT, GROSS NEGLIGENCE, STRICT LIABILITY, NEGLIGENCE, OR VIOLATION OF A STATUTORILY IMPOSED DUTY ON THE PART OF IHERB.
-    
-    WE MAKE NO GUARANTEE OR WARRANTY WITH RESPECT TO ANY PRODUCTS OR SERVICES SOLD. WE ARE NOT RESPONSIBLE FOR ANY DAMAGES FOR INFORMATION, PRODUCTS, OR SERVICES PROVIDED BY THIRD PARTIES EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. IN NEW JERSEY, THIS LIMITATION OF LIABILITY DOES NOT APPLY TO LIABILITY DUE TO INTENTIONAL OR RECKLESS CONDUCT, GROSS NEGLIGENCE, STRICT LIABILITY, NEGLIGENCE OR VIOLATION OF A STATUTORILY IMPOSED DUTY ON THE PART OF IHERB.
-    
-116. Indemnification:
-    ----------------
-    
-    You agree to indemnify, defend and hold harmless iHerb from and against all losses, expenses, costs and damages including attorney's fees resulting from your use or inability to use the Site, participation in any Program, products or services purchased or obtained by You in connection with the Site, any Site postings or activity related to your account made by You or another person, Your violation of any terms of this Agreement, Your violation of any rights of a third party, or Your violation of any applicable laws, rules or regulations. You agree to cooperate as fully as reasonably required in the defense of any such claim. We reserve the right to assume the exclusive defense and control of any matter subject to indemnification by you pursuant to his section, in which event you will still be required to indemnify us for the attorneys’ fees and expenses in addition to any losses, claims, damages and liabilities incurred by us as a result of this claim. You shall not in any event settle any matter without prior written consent of iHerb. In New Jersey, this indemnification provision does not apply to your liability resulting from intentional or reckless conduct, gross negligence, strict liability, negligence, or violation of a statutorily imposed duty on the part of iHerb.
-    
-117. Copyright, Trademarks and other Intellectual Property
-    -----------------------------------------------------
-    
-    You acknowledge that this Site and all materials on the Site or provided in connection with the Programs, including without limitation the Site’s or Programs design, text, graphics, sounds, pictures, software and other files, its look and feel, and the selection and arrangement thereof, (collectively, "Materials"), are our property and are subject to and protected by United States and international copyright or other intellectual property laws and rights. The trademarks, service marks, trade dress, trade names, and logos contained on the Site, including without limitation trademarks registered in the United States, iHerb®, Madre Labs®, Mushrex®, MicroFungi®, Cococeps®, Caféceps®, CocoCardio® and Mild By Nature®, and additional trademarks Love Letter™, Sply™, Sierra Mama™, Just a Leaf™, Just a Bean™, Immune Punch™ and Notes to Self™ (collectively, "Marks") are the sole property iHerb or its affiliates. In addition all page headers, custom graphics and custom icons are Marks of iHerb. iHerb grants you a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to access and use the Materials and Marks only in the manner permitted by iHerb for your personal and non-commercial use only (the “License”). You agree not to copy, modify, use, distribute, transmit, republish, sell, resell or exploit, for any purpose, any portion of the Site, Materials or Marks other than as expressly authorized by iHerb in writing. This License remains in effect until this Agreement is terminated by either you or us in accordance with this Agreement. Any unauthorized use of the Materials or Marks shall be grounds for termination of the License. All rights not expressly granted herein are reserved by iHerb and its licensors. Other copyrights, trademarks, product names, company names, logos or intellectual property are the property of the respective owners with all rights reserved.Site references to third parties or their copyrights, trademarks or other intellectual property do not constitute or imply affiliation with, endorsement, or recommendation of iHerb by the respective trademark owners, or by iHerb of the respective trademark owners.
-    
-118. Agreement:
-    ----------
-    
-    This Agreement constitutes the only Agreement between us and you with respect to the subject matter of this Agreement. This Agreement supersedes all prior or contemporaneous Agreements, representations, warranties and understandings, written or oral, with respect to the subject matter of this Agreement.
-    
-119. Severability; Interpretation
-    ----------------------------
-    
-    If any provision of this Agreement is deemed void, unlawful, or otherwise unenforceable for any reason, that provision will be severed from this Agreement and the remainder of this Agreement will remain in force. When used in this Agreement, the term "including" will be deemed to be followed by the words "without limitation".
-    
-120. Applicable Law; Jurisdiction; Individual Arbitration; Waiver of Jury Trial; and Class Waiver:
-    ---------------------------------------------------------------------------------------------
-    
-    All questions concerning the construction, validity, enforcement and interpretation of this Agreement shall be governed by and construed in accordance with the domestic laws of the State of California, without giving effect to any choice of law or conflict of law.
-    
-    iHerb and You (collectively the “Parties” and individually a “Party”) further agree that the following agreement to arbitrate is part of an agreement made in interstate commerce and is governed by the Federal Arbitration Act (“FAA”), 9 U.S.C. §§ 1-16, and that on questions of the constructive, validity, enforcement, or interpretation of the agreement to arbitrate, the FAA shall control. You and iHerb Entities agree to arbitrate, on an individual basis, any controversy, claim or dispute arising out of or in any way related to this Agreement, including but not limited to claims based on contract, tort, negligence, statutory or regulatory provisions. It is expressly intended that the iHerb shall have the ability to enforce this arbitration agreement. **EACH PARTY IS GIVING UP (WAIVING) ITS RIGHT TO SUE IN COURT AND TO HAVE ANY CONTROVERSY, CLAIM OR DISPUTE HEARD BY A JUDGE OR JURY.**
-    
-    YOU AND IHERB ENTITIES EXPRESSLY AGREE TO ARBITRATE ANY CONTROVERSY, CLAIM OR DISPUTE ARISING OUT OF OR IN ANY WAY RELATED TO THIS AGREEMENT. THIS AGREEMENT TO ARBITRATE ALSO APPLIES TO THRESHOLD ARBITRABILITY ISSUES, INCLUDING ISSUES RELATED TO WHETHER THE AGREEMENT IS UNCONSCIONABLE OR ILLUSORY AND ANY DEFENSE TO ARBITRATION.
-    
-    **THE PARTIES ALSO AGREE THAT ANY ARBITRATION MAY ONLY BE BROUGHT IN YOUR AND OUR INDIVIDUAL CAPACITIES, NOT AS A CLASS, PURPORTED CLASS, COLLECTIVE, OR OTHER REPRESENTATIVE ACTION.** THE ARBITRATOR MAY NOT CONSOLIDATE OR JOIN MORE THAN ONE INDIVIDUAL OR ENTITY’S CLAIMS, AND MAY NOT OTHERWISE PRESIDE OVER ANY FORM OF A REPRESENTATIVE, COLLECTIVE, OR CLASS PROCEEDING. IF ANY PORTION OF THIS CLASS WAIVER PROVISION IS HELD INVALID OR UNENFORCEABLE, IT SHALL NOT BE SEVERED, AND THE ENTIRE AGREEMENT TO ARBITRATION SHALL BE UNENFORCEABLE.
-    
-    The mutual promise by you and iHerb Entities to arbitrate these disputes, and to do so on an individual basis, rather than to litigate before the courts or other bodies, provides the mutual consideration for this agreement to arbitrate.
-    
-    Either Party may exercise the right to arbitrate by providing the other Party with written notice of any and all claims forming the basis of such right in sufficient detail to inform the other Party of the substance of such claims, and a demand to arbitrate those claims. In no event shall the request for arbitration be made after the date when institution of legal or equitable proceedings based on such claims would be barred by the applicable statute of limitations.
-    
-    Unless you and iHerb otherwise agree, the arbitration will be conducted in the county where you reside by a single neutral arbitrator agreed to by the Parties or, if one cannot be agreed upon, pursuant to the then-current American Arbitration Association’s (“AAA”)\_Consumer Arbitration Rules. Arbitration shall be in accordance with the then- current AAA Consumer Arbitration Rules (available online at [www.adr.org](https://www.adr.org/).) or, if those rules are no longer available, the applicable rules selected by the arbitrator; provided, however, that no rules permitting class, collective, or other representative arbitrations shall be used. In the event of any conflict between this agreement to arbitrate and the rules governing the arbitration, the terms of this agreement to arbitrate shall control.
-    
-    The Parties are entitled to representation by an attorney or other representative of their choosing, and at their own costs. Each Party shall pay its own attorney fees. The parties agree to abide by and perform any award rendered by the arbitrator; provided, however, that the arbitrator shall not have the authority to award punitive or exemplary damages or to issue injunctive or other equitable relief. The arbitrator shall issue the award in writing and therein state the essential findings and conclusions on which the award is based. Judgment on the award may be entered in any court having jurisdiction thereof.
-    
-    Payment of all filing, administration and arbitrator fees will be governed by the AAA's rules.
-    
-121. Miscellaneous:
-    --------------
-    
-    You may not assign this Agreement, by operation of law or otherwise, without our prior written consent. Subject to that restriction, this Agreement will be binding on, inure to the benefit of and be enforceable against the parties and their respective successors and assigns. iHerb may assign its rights and obligations hereunder to any person, including any affiliate, without Your consent or the consent of any other person. For the avoidance of doubt, any Rewards Credits eligible for a cash out option prior to December 10, 2024 as provided above may be transferred to iHerb Rewards, LLC, an Ohio limited liability company, on or prior to such date, which entity shall be solely responsible for payment of any properly exercised cash out option.
-    
-    The failure of iHerb to enforce your strict performance of any term of this Agreement will not constitute a waiver of such term and will not be considered a waiver or limit that party's right thereafter to insist upon strict adherence to that term or any other term of this Agreement. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising from or relating to the use of the Site or this Agreement must be filed within one (1) year after such claim or cause of action arose or such claim or cause of action will be permanently barred. The "Liability Disclaimer" provisions of this Agreement are for the benefit of iHerb Entities as defined herein, and each of these individuals or entities shall have the right to assert and enforce these provisions directly against your on its own behalf.
-    
-122. Contact Us:
+8. Datenschutz
     -----------
     
-    If you have any questions about this Agreement, please contact our [Customer Service team.](https://secure.iherb.com/info/Contact)
+    Indem Sie den Bestimmungen dieser Vereinbarung zustimmen und diese einhalten, bestätigen Sie ebenfalls, dass Sie die Datenschutzrichtlinie von iHerb verstehen. Weitere Informationen dazu, wie wir Ihre Daten nutzen finden Sie in der [Datenschutzrichtlinie](https://www.iherb.com/info/privacy) von iHerb.
+    
+9. Zustimmung zur Kommunikation
+    ----------------------------
+    
+    Sie stimmen dem Erhalt von SMS-Nachrichten (einschließlich Textnachrichten), bezüglich Informationen oder Fragen zu Ihrem Account und/oder Bestellungen, von uns an die Nummer(n) zu, die Sie hinterlegt haben.
+    
+    Möglicherweise haben Sie zuvor gewählt, Marketing- und Werbe-SMS-Nachrichten (einschließlich Textnachrichten) von uns zu erhalten. Ihre Zustimmung zum Erhalt von Marketing- und Werbe-SMS-Nachrichten ist nicht für den Kauf von Produkten oder Services erforderlich. Wenn Sie den Erhalt von Marketing-SMS-Nachrichten gewählt haben, senden wir Ihnen eine SMS zur Bestätigung Ihrer Wahl. Es können möglicherweise Nachrichten- und Datengebühren anfallen und die Häufigkeit der Nachrichten kann variieren. Betreiber sind nicht für verspätete oder nicht gesendete Nachrichten verantwortlich.
+    
+    Sie bestätigen, garantieren und gewährleisten, dass Ihre bei uns hinterlegte Telefonnummer Ihre eigene ist und nicht die von einer anderen Person. Sie versichern, dass Sie unter der bei uns hinterlegten Telefonnummer Anrufe entgegennehmen und Textnachrichten erhalten dürfen. Sie stimmen zu, uns sofort zu benachrichtigen, sobald Sie eine Telefonnummer nicht mehr benutzen. iHerb darf die in diesem Abschnitt beschriebenen Kommunikationsmittel nutzen, auch wenn der Erhalt solcher Nachrichten, Textnachrichten, E-Mails und anderem Kosten bei Ihnen verursacht.
+    
+    Sie können den Erhalt von SMS-Nachrichten (einschließlich Textnachrichten) jederzeit beenden, indem Sie auf eine Nachricht von uns mit „STOPP“ antworten und wir senden Ihnen eine Nachricht zur Bestätigung Ihrer Wahl. Wenn Sie erneut Nachrichten erhalten möchten, melden Sie sich wie beim ersten Mal an. Wenn Sie Hilfe benötigen, antworten Sie auf eine beliebige Nachricht, die Sie von uns erhalten, mit dem Wort „HILFE“ oder senden Sie eine E-Mail an [\[email protected\]](https://de.iherb.com/cdn-cgi/l/email-protection). Es können möglicherweise Nachrichten- und Datengebühren anfallen und die Häufigkeit der Nachrichten kann variieren. Betreiber sind nicht für verspätete oder nicht gesendete Nachrichten verantwortlich.
+    
+    Den Kundendienst können Sie [auf unserer Kundendienstseite](https://secure.iherb.com/info/Contact) erreichen.
+    
+10. Programme
+    ---------
+    
+    Ihre Teilnahme an den Programmen ist freiwillig und bis zur Kündigung durch iHerb oder durch Sie gültig.
+    
+
+### iHerb-Prämienprogramm
+
+Das Prämienprogramm ist fortlaufend und die Teilnahme unterliegt den hier festgelegten AGB.
+
+Teilnahmebedingungen
+
+Für die Teilnahme am Prämienprogramm sind Inhaber eines iHerb-Accounts berechtigt, die zum Zeitpunkt der Teilnahme mindestens achtzehn (18) Jahre alt oder älter sind. Einkäufe, die über die Gastbestellung getätigt wurden, sind nicht für die Teilnahme am Prämienprogramm oder für Vorteile berechtigt. Das Prämienprogramm dort ist nichtig, wo es gesetzlich verboten oder eingeschränkt ist. Ihre Teilnahme am Prämienprogramm und die Nutzung Ihres Prämienlinks und Prämiencodes (wie jeweils unten definiert) stellen Ihre uneingeschränkte und bedingungslose Zustimmung zu diesen Bestimmungen und den Entscheidungen und Interpretationen von iHerb dar, die in allen Belangen des Prämienprogramms endgültig und verbindlich sind. Wenn Sie ein Publisher oder Unternehmen sind (unter anderem von Coupon-Websites, Angebot-Websites, Cashback-Websites, Content-Websites, Online-Shop-Vergleichsseiten usw.), schauen Sie sich bitte unten die Bedingungen des iHerb-Partnerprogramms an, um mehr über die Teilnahmebedingungen und die Nutzungsbedingungen zu erfahren.
+
+Allgemeine Informationen zum Prämienprogramm
+
+Vorbehaltlich der oben genannten Teilnahmebedingungen können Sie am Prämienprogramm teilnehmen, wenn Sie einen gültigen Account auf der Website erstellen. Wenn Sie einen gültigen Account erstellen, werden Sie automatisch als Teilnehmer in das Prämienprogramm aufgenommen, damit Sie Guthaben für Ihre zukünftigen iHerb-Bestellungen erhalten können („Prämienguthaben“).
+
+Prämienguthaben, das Sie im Rahmen dieses Prämienprogramms durch Empfehlungen und das Schreiben von Bewertungen erhalten haben, kann nur von Ihnen für Ihre zukünftigen Einkäufe auf der Website verwendet werden (siehe [FAQs zu Prämien](https://secure.iherb.com/info/rewardsfaq)). Wie weiter unten erläutert, kann Prämienguthaben nicht gegen Bargeld eingelöst werden.
+
+Nach der Anmeldung erhalten Sie einen individuellen Link („Prämienlink“) sowie einen speziellen Code („Prämiencode“). Sowohl der Prämienlink als auch der Prämiencode werden mit Ihrem Account verknüpft.
+
+Sie erhalten Prämienguthaben, wenn neue oder bestehende Kunden, denen Sie iHerb empfehlen („angeworbener Kunde“), berechtigte Bestellungen mit Ihrem Prämienlink oder Prämiencode aufgeben.
+
+Sie können auch Prämien verdienen, indem Sie berechtigte Bewertungen veröffentlichen.
+
+Darüber hinaus kann iHerb gelegentlich Wettbewerbe, Gewinnspiele oder Werbeaktionen durchführen, bei denen Sie Werbeprämienguthaben verdienen können. Werbeprämienguthaben unterscheidet sich von Prämienguthaben und unterliegt zusätzlichen Nutzungsbeschränkungen, die unten beschrieben werden.
+
+**Verdienen von Prämienguthaben**
+
+Sie können potenzielle angeworbene Kunden wie folgt mit Ihrem Prämienlink werben:
+
+1. Gehen Sie zuerst zu Ihrem Lieblingsprodukt oder Lieblingskategorieseite oder erstellen Sie einen Einkaufswagen mit Ihren Lieblingsprodukten. Klicken Sie als Nächstes auf die Schaltfläche „Teilen“ in der oberen rechten Ecke, um Ihren Prämienlink an andere weiterzugeben, oder
+2. gehen Sie zu Ihren vorherigen Bestellungen und klicken Sie auf die Schaltfläche „Teilen“ neben jeder Bestellung, um sie mit anderen zu teilen.
+
+Sie können ebenfalls Prämienguthaben verdienen, wenn ein angeworbener Kunde Ihren Prämiencode beim Bezahlvorgang eingibt.
+
+Sobald ein angeworbener Kunde auf Ihren Prämienlink klickt, hat er oder sie sieben (7) Tage Zeit, die Bestellung abzuschließen. Sie können Prämienguthaben für berechtigte Bestellungen verdienen, die Ihrem Account in Übereinstimmung mit dem Abschnitt „Buchhaltungs- und Zahlungsinformationen für das Prämienprogramm“ unten gutgeschrieben werden.
+
+Geben Sie 5% oder mehr Rabatt und verdienen Sie 5% oder mehr Prämienguthaben durch jede Bestellung, die von einem Neu- oder Bestandskunden aufgegeben wird. Sie können auch einen zusätzlichen Prozentsatz oder zusätzliches Guthaben in USD verdienen, wenn iHerb nach alleinigem Ermessen beschließt, von Zeit zu Zeit ein spezielles Werbeprogramm durchzuführen. [Superprämien](https://secure.iherb.com/rewards/superrewards) gilt als eines der speziellen Werbeprogramme, die wir regelmäßig durchführen, und bietet Ihnen zusätzliche Möglichkeiten, noch mehr Prämienguthaben zu verdienen. Auf unserer [Superprämien-](https://secure.iherb.com/rewards/superrewards) Seite finden Sie das neueste Angebot.
+
+Sie können außerdem Prämienguthaben verdienen, indem Sie Bewertungen für Produkte verfassen, die Sie nach dem 1. Juli 2020 gekauft und verwendet haben. Das Angebot von iHerb für Kunden, Prämienguthaben durch die Veröffentlichung von Bewertungen zu verdienen, soll sie dazu ermutigen, authentische, transparente und ehrliche Meinungen, sowohl positive als auch negative, abzugeben, basierend auf ihren tatsächlichen Erfahrungen mit Produkten.
+
+**Werbeprämienguthaben verdienen**
+
+iHerb kann gelegentlich Wettbewerbe, Gewinnspiele oder Werbeaktionen durchführen, bei denen Sie Werbeprämienguthaben verdienen können, was den AGB dieser Wettbewerbe, Gewinnspiele oder Werbeaktionen unterliegt. Werbeprämienguthaben unterscheidet sich von Prämienguthaben und unterliegt zusätzlichen Nutzungsbeschränkungen, die unten beschrieben werden.
+
+**Berechtigte Bewertungen**
+
+Um Prämienguthaben zu erhalten, muss Ihre Bewertung die folgenden Kriterien erfüllen: (i) Sie müssen das Produkt zuvor bei iHerb gekauft haben; (ii) Ihr Kauf muss nach dem 01. Juli 2020 erfolgt sein; und (iii) Ihre Bewertung muss den [Richtlinien für Benutzerinhalte](https://www.iherb.com/ugc/terms) von iHerb („UGC-Richtlinien“) entsprechen. Absichtlich gefälschte Inhalte, kopierte oder gestohlene Inhalte, nicht themenbezogene Bewertungen, diffamierende Sprache, persönliche Angriffe und unnötige oder falsche Inhalte verstoßen alle gegen unsere UGC-Richtlinien.
+
+**Prämien für berechtigte Bewertungen erhalten**
+
+Sie können für jede genehmigte und berechtigte Bewertung, die Sie absenden – egal ob positiv oder negativ – ein Prämienguthaben als ausstehendes Prämienguthaben in Höhe von 1,00$ erhalten. Die Genehmigung der Bewertung und die Auszahlung der Prämien werden sofort verfügbar, nachdem Sie eine Bewertung abgesendet haben. Sie können nur eine Bewertung pro Produkt abgeben. Weitere Informationen zu Bewertungen und Prämienguthaben finden Sie in den FAQs.
+
+**Stimmberechtigung**
+
+Jeder iHerb-Kunde, der mindestens einen Kauf bei iHerb getätigt hat, kann über eine Bewertung als hilfreich oder nicht hilfreich abstimmen. „Hilfreich“- oder „Nicht hilfreich“-Stimmen werden abgegeben, indem Sie auf das „Daumen hoch“-Symbol (für hilfreich) oder das „Daumen nach unten“-Symbol (für nicht hilfreich) rechts neben jeder Bewertung klicken.
+
+Wofür Prämienguthaben eingelöst werden kann
+
+Ihr Prämienguthaben wird automatisch auf Ihre zukünftigen Bestellungen angewendet und wird in Ihrem Einkaufswagen angezeigt, wenn Sie sich bei Ihrem iHerb-Account anmelden.
+
+Vorbehaltlich der folgenden Einschränkungen gibt es keine Beschränkungen für die Höhe des Prämienguthabens, das Sie erhalten können. Jedoch können nur ein Account pro Person und bis zu fünf (5) Kunden-Accounts pro Haushalt an diesem Prämienprogramm teilnehmen.
+
+iHerb verfolgt die Bestellungen, die im Rahmen dieses Prämienprogramms berechtigt sind, und kann Ihnen diese nachverfolgten Bestellungen für bis zu drei (3) Monate zur Verfügung stellen.
+
+Zur Bestimmung des Teilnehmers, der Prämienguthaben für jede erteilte Bestellung eines empfohlenen Kunden erhält, prüft iHerb den Prämienlink oder Prämiencode, der zuletzt bei dem Abschließen der Bestellung des angeworbener Kunden verwendet wurde.
+
+Wofür Werbeprämienguthaben verwendet werden kann
+
+Werbeprämienguthaben kann nur von Ihnen für Ihre zukünftigen Einkäufe auf der Website verwendet werden. Werbeprämienguthaben kann je nach den AGB des jeweiligen Wettbewerbs, Gewinnspiels oder der Werbeaktion unterschiedliche Ablaufdaten haben.
+
+Buchhaltungs- und Zahlungsinformationen für das Prämienprogramm
+
+Der tatsächliche Betrag des verdienten Prämienguthabens durch Empfehlungen wird basierend auf dem Rabatt von 5% oder mehr und dem Prämienguthaben von 5% oder mehr für jede Bestellung eines angeworbenen Kunden, die von einem Neu- oder Bestandskunden aufgegeben wird, berechnet.
+
+**Prämienguthaben, das durch Empfehlungen verdient wird,** wird in der Regel fünfunddreißig (35) Tage nach der berechtigten Transaktion, die von einem angeworbenen Kunden ausgeführt wurde („Ausstehendes Guthaben“), auf Ihrem Account gutgeschrieben. Werbeprämienguthaben wird je nach den AGB des jeweiligen Wettbewerbs, Gewinnspiels oder der Werbeaktion in Ihrem Account verfügbar. Dieser Zeitraum ist erforderlich, um alle stornierten Bestellungen zu bearbeiten und Probleme bei der Rückerstattung, zurückgegebene Produkte oder andere damit zusammenhängende Probleme zu beheben. Für Prämienguthaben, das durch Empfehlungen verdient worden ist, ist ausstehendes Guthaben, das für zukünftige Käufe verwendet werden kann, nach dem oben genannten Zeitraum von 35 Tagen auf Ihrem Account verfügbar („Verfügbares Guthaben“).
+
+**Sämtliches verdientes Prämienguthaben wird Ihrem Account gutgeschrieben und steht somit sofort zur Verwendung zur Verfügung**
+
+Prämienguthaben ist ein Anreiz für zukünftige Einkäufe. Als Voraussetzung für die Aufrechterhaltung von Prämienguthaben muss dieses innerhalb von neunzig (90) Tagen nach dem Verfügbarkeitsdatum in Ihrem Account verwendet werden. Daher verfällt das verfügbare Prämienguthaben neunzig (90) Tage nach dem Verfügbarkeitsdatum in Ihrem Account. Der Ablaufzeitraum von 90 Tagen wird jedoch zurückgesetzt, wenn Sie neues Prämienguthaben in diesem Zeitraum verdienen.
+
+**Werbeprämienguthaben** kann je nach den spezifischen AGB von Wettbewerben, Gewinnspielen oder Werbeaktionen, mit denen Sie Werbeprämienguthaben verdienen können, unterschiedliche Ablaufdaten haben. Sie müssen die offiziellen Regeln für Wettbewerbe, Gewinnspiele oder Werbeaktionen für Details überprüfen.
+
+Sobald verfügbares Guthaben verwendet wurde, wird dieser Betrag von Ihrem Account abgebucht („Verwendetes Guthaben“).
+
+Ausstehendes Guthaben oder verfügbares Guthaben kann entsprechend angepasst werden, wenn ein angeworbener Kunde eine zuvor platzierte Bestellung zurücksendet oder ablehnt („Storniertes Guthaben“) aufgrund von technischen Fehlern oder Korrekturen.
+
+Auszahlung von Prämienguthaben
+
+Nach dem 5. November 2024 kann Prämienguthaben nicht mehr für eine Auszahlungsoption gesammelt werden. Anfragen zur Auszahlung von Prämienguthaben (für einen Account mit einem Prämienguthaben von mindestens 300$) werden bearbeitet, wenn sie vor dem 10. Dezember 2024 eingereicht wurden.
+
+iHerb arbeitet mit Hyperwallet (powered by PayPal) zusammen, um Prämienguthaben auszuzahlen. Sie können Prämienguthaben nur auszahlen, wenn Hyperwallet Ihr Land unterstützt. Wenn Hyperwallet Ihr Land nicht unterstützt, sind Sie nicht berechtigt, Prämienguthaben auszuzahlen. Eine Liste der derzeit von Hyperwallet unterstützten Länder finden Sie in den [FAQs zu Prämien](https://secure.iherb.com/info/rewardsfaq). Die Zahlung wird innerhalb von vierzehn (14) Werktagen übermittelt, nachdem der Kunde die Option zur Auszahlung gewählt hat. Nach dem 10\. Dezember 2024 werden keine Anfragen zur Auszahlung von Prämienguthaben mehr bearbeitet.
+
+Steuerinformationen
+
+Sie sind für alle Steuerverbindlichkeiten verantwortlich, die sich aus dem im Rahmen des Prämienprogramms angesammelten Prämienguthaben oder Werbeprämienguthaben ergeben, wenn Sie in einem Jahr sechshundert US-Dollar (600$) oder mehr in den Vereinigten Staaten ansammeln. iHerb ist durch das Bundesgesetz der Vereinigten Staaten verpflichtet, Steuerinformationen von Teilnehmern des Prämienprogramms, die Bürger der Vereinigten Staaten oder in den Vereinigten Staaten ansässig sind (W-9), und von Teilnehmern des Prämienprogramms, die nicht Bürger der Vereinigten Staaten oder in den Vereinigten Staaten ansässig sind, deren Unternehmen jedoch in den Vereinigten Staaten steuerpflichtig sind (W8-ECI), einzuholen. Bei der Einrichtung eines Accounts bei dem iHerb-Partner Hyperwallet (powered by PayPal) werden Benutzer aufgefordert, das entsprechende Steuerformular einzureichen. Wenn iHerb glaubt, dass Sie ein Teilnehmer des Prämienprogramms sind, von dem iHerb verpflichtet ist, Steuerinformationen einzuholen, und Sie diese Informationen nicht nach Aufforderung zur Verfügung stellen, kann iHerb die Auszahlung Ihres Prämienguthabens einbehalten, bis Sie diese Informationen bereitstellen oder iHerb anderweitig davon überzeugen dass Sie keine Person sind, von der iHerb steuerliche Informationen einholen muss. Für US-Bürger oder Einwohner der USA sind Informationen über die Einreichung von Steuerinformationen bei Hyperwallet (powered by PayPal) verfügbar.
+
+Wenn Sie nicht in den USA ansässig sind und in den USA keine Steuerschuld entstanden ist, sind Sie weiterhin dafür verantwortlich, in Ihrem Heimatland geltende Steuern für Prämienguthaben zu zahlen, das Sie auszahlen. Es liegt in Ihrer Verantwortung zu bestimmen, welche Steuern auf die Zahlungen angewendet werden, die Sie erhalten, und es liegt in Ihrer Verantwortung, die korrekte Steuer zu erheben, zu melden und an die zuständige Steuerbehörde zu überweisen.
+
+Allgemeine Einschränkungen des Prämienprogramms
+
+Alle Teilnehmer des Prämienprogramms von iHerb sind dazu verpflichtet, die Bestimmungen dieser Vereinbarung und die Richtlinien von iHerb zur Nutzung dieser Programme einschließlich des [Verhaltenskodex](https://s3.images-iherb.com/cms/pdf/iherb_code_of_conduct_business_ethics_11_19_19.pdf) einzuhalten. Die Nichteinhaltung dieser Vereinbarung einschließlich des enthaltenen Verhaltenskodex kann zur Aussetzung oder Sperrung Ihres Prämienprogramm-Accounts führen.
+
+iHerb behält sich das Recht vor, Prämienguthaben oder Werbeprämienguthaben für ungültig zu erklären, wenn festgestellt wird, dass dieses Prämienguthaben oder Werbeprämienguthaben fälschlicherweise Ihrem Account gutgeschrieben wurden, in betrügerischer Absicht oder im Verstoß gegen diese Nutzungsbedingungen oder anderweitig unrechtmäßig erlangt wurde. Prämienguthaben und Werbeprämienguthaben ist egal aus welchem Grund nicht verkäuflich, übertragbar oder abtretbar.
+
+Alle Accounts müssen im Namen einer unterschiedlichen lebenden Person und keiner Geschäftseinheit geführt werden.
+
+iHerb übernimmt keine Haftung für Unstimmigkeiten, Verzögerungen, Auslassungen, Widersprüche oder Fehler bei der Berechnung und Gutschrift des Prämienguthabens oder Werbeprämienguthabens. Die Entscheidungen von iHerb in Bezug auf das Prämienprogramm, einschließlich berechtigte Käufe, erhaltenes Prämienguthaben oder Werbeprämienguthaben und Kontostände für Prämienguthaben oder Werbeprämienguthaben sind endgültig und verbindlich und in jeder Hinsicht unanfechtbar.
+
+Wenn Sie mehrere Accounts erstellen oder versuchen, mit mehreren Identitäten am Prämienprogramm teilzunehmen, kann iHerb Sie nach alleinigem Ermessen disqualifizieren und alle Accounts sperren. Prämienguthaben oder Werbeprämienguthaben von verschiedenen Werbeaktionen kann nicht für bestimmte Zwecke kombiniert werden.
+
+iHerb behält sich das Recht vor, Bestellungen, die auf unserer Website gemäß der Vereinbarung getätigt werden, zu stornieren.
+
+Sie sind nicht dazu berechtigt, kommerzielle Werbung zu betreiben, da dieses Prämienprogramm nicht für kommerzielle Zwecke gedacht ist. Es ist strengstens untersagt, Prämienlinks und Prämiencodes auf kommerziellen Websites zu platzieren (einschließlich Angebots- oder Coupon-Websites/-Apps, Webbrowser-Erweiterungen, eBay, Amazon, Facebook-Gruppen, Telegram-Gruppen, X usw.). Dies führt dazu, dass Ihr Account und Ihr Guthaben ausgesetzt oder gesperrt werden. Codes, die in der organischen Suche nach „iHerb + Begriff“ erscheinen, wie „iHerb-Gutschein“, „iHerb-Rabatt“, „Wie kaufe ich bei iHerb ein“, „iHerb-Versand“ usw., unterliegen einer verringerten Provision und müssen möglicherweise zu unserem Partnerprogramm migriert werden.
+
+Es ist Ihnen ebenfalls untersagt, sich an irgendeiner Art von gegenseitigen Empfehlungen zu beteiligen, die den normalen Betrieb des Prämienprogramms missbrauchen und stören.
+
+iHerb behält sich das Recht vor, Ihre Teilnahme am Prämienprogramm auszusetzen oder zu sperren sowie Prämienguthaben zu reduzieren oder anzupassen, wenn iHerb nach eigenem Ermessen zu dem Schluss kommt, dass der Teilnehmer gegen eine Bestimmung dieser Vereinbarung verstößt oder das Prämienprogramm von iHerb auf irgendeine Weise missbraucht. Ausgesetzte Accounts können nicht verwendet werden und kein Prämienguthaben verdienen. Wenn Ihr Account gesperrt wird, verdienen Sie über Ihren Prämienlink und Prämiencode kein Prämienguthaben und das gesamte ausstehende und verfügbare Prämienguthaben wird zurückgesetzt.
+
+Allgemeine Werbebeschränkungen
+
+Sie können Ihre iHerb-Bewertungen oder [Meine iHerb-Seite](https://www.iherb.com/myaccount/publicprofile) sowie Ihren iHerb-Prämienlink auf einem persönlichen Blog, einer persönlichen Website oder auf Ihren persönlichen Social-Media-Accounts (z. B. Facebook, X und VK) gemäß den Geschäftsbedingungen dieser Accounts teilen. Ihr Social-Media-Profil darf jedoch keinen Avatar oder andere Inhalte enthalten, die interpretiert werden könnten, als ob sie von iHerb verwaltet, befürwortet oder bestätigt würden, und kein Teil Ihres Benutzernamens darf das Wort „iHerb“ enthalten, umfassen oder auf eine andere Weise Bezug darauf nehmen. Sie können das „iHerb“-Logo auf keinem Teil Ihrer Social-Media-Seite verwenden, einschließlich Ihres Profilbilds und Ihrer Banner. Dagegen können Sie Ihren Prämiencode in keinem Ihrer Benutzernamen für persönliche Social-Media-Accounts, Social-Media-URLs oder Ihren iHerb-Profilseiten verwenden oder darauf verweisen. Es ist Ihnen nicht gestattet, Ihren Prämienlink und Prämiencode auf einem offiziellen iHerb-Social-Media-Account oder auf der iHerb-Website (Bewertungen, Fragen und Antworten, Meine iHerb-Seite usw.) zu veröffentlichen, um Prämienguthaben zu generieren. Es ist Ihnen auch untersagt, Kommentare auf einem offiziellen iHerb-Social-Media-Account oder auf der iHerb-Website zu veröffentlichen, die direkt oder indirekt für andere Links oder Websites werben, die Ihren Prämienlink oder Prämiencode enthalten oder bewerben, oder versuchen, diese umzuleiten (unter anderem auf Websites, Social-Media-Accounts, Blogs, oder Foren).
+
+Ihr Blog, Ihre Website oder Ihre Social-Media-Seiten dürfen nicht der iHerb-Website ähneln oder Inhalte enthalten, die eine Verbindung mit iHerb vermuten lassen. Inhalte, die Sie auf Ihren persönlichen Accounts veröffentlichen, unterliegen Ihrer alleinigen Verantwortung und iHerb macht keine Ansprüche für solche Inhalte geltend.
+
+Sie können Ihren iHerb-Prämienlink per E-Mail mit Ihrer persönlichen E-Mail-Adresse versenden oder über das Teilen-Symbol auf der iHerb-Website teilen. Solche E-Mails dürfen jedoch nicht den Anschein erwecken, als würden sie von iHerb gesendet werden oder gesponsert sein. Sie erklären und garantieren, dass Sie sich weder an Spamming noch an unerwünschten kommerziellen E-Mail-Nachrichten beteiligen und/oder diese unterstützen oder auf andere Weise gegen den CAN-SPAM-Act von 2003 (15 U.S.C. §§ 701 et seq.) oder jegliche Nachfolgegesetze und/oder andere Gesetze und/oder Vorschriften, die E-Mail-Marketing und/oder -Kommunikation regeln, verstoßen.
+
+Sie dürfen keine Domain- oder Subdomain-Namen, die das Wort „iHerb“ enthalten oder bestimmte Varianten und andere Schreibweisen in einem beliebigen Benutzernamen, Gruppennamen oder Bezeichner auf einer sozialen Netzwerkseite kaufen oder verwenden. Beispiele für solche Domains sind unter anderem www.iherb.sitename.com, www.iherb-sitename.com, www.ayherb.com, www.i-herb.com, www.ay-herb.com oder www.ayeherb.com.
+
+Sie dürfen keine clientseitige Anwendung (Browser-Plug-in, Erweiterung, ausführbare Datei usw., die vom Endbenutzer installiert werden kann) auf einem Gerät erstellen oder verwenden, das eine Verbindung mit iHerb vermuten lässt. Wenn Sie eine App, ein Plug-in oder eine Erweiterung erstellen, wie Apps und andere von Kunden genutzte Anwendungen, können den Namen, das Logo, die App oder anderes geistiges Eigentum in keiner Weise integrieren und/oder verwenden.
+
+Zusätzliche Beschränkungen für Ihre Werbeaktivitäten, die zu einer sofortigen Aussetzung oder einem Ausschluss vom Prämienprogramm führen würden, sind unter anderem:
+
+1. Jegliche Werbeaktivität mit Ihrem Prämiencode oder Prämienlink in Verbindung mit einem der folgenden Punkte:
+
+1. Gewalttätige, diffamierende, diskriminierende, sexuell explizite oder rassistische Materialien oder Aktivitäten
+2. Inhalte, die illegale Aktivitäten enthalten, vorschlagen oder fördern
+3. Fluchen, obszöne oder vulgäre Inhalte oder Aktivitäten
+4. Sexuelle Inhalte wie Nacktheit oder sexuell explizite Bilder oder Videos
+5. Kommentare, die auf Inhalte antworten oder diese kopieren, die von anderen Influencern oder Creatorn von digitalen Inhalten erstellt wurden
+6. „Spam“-Inhalte
+7. Materialien und Diskussionsthreads, die vom Thema abweichen oder sich nicht um die Marke drehen
+
+3. Sie dürfen keine Inhalte mit anderen Websites als iHerb.com verknüpfen oder umleiten (Teile Ihrer Website, die keine iHerb-Produkte bewerben, können Links zu anderen Websites enthalten).
+4. Sie dürfen kein Material verändern oder löschen oder zusätzliche Informationen zu einem Angebot hinzufügen, die für Kunden irreführend sind.
+5. Sie werden umgehend Artikel entfernen, die nicht mehr von iHerb beworben oder verkauft werden.
+6. Sie werden umgehend Werbematerial und Werbeaktionen entfernen, die nicht mehr von iHerb beworben oder validiert werden.
+7. Sie werden keine Namen oder Ähnlichkeiten in einer Situation verwenden, die eine Befürwortung oder Unterstützung einer Person oder eines Unternehmens oder eine kommerzielle Verbindung (einschließlich der Platzierung von zusammenhangslosen Materialien in unmittelbarer Nähe der Inhalte) mit iHerb impliziert.
+8. Sie dürfen keine Links oder Inhalte auf Ihrer Website einfügen, anzeigen oder anderweitig verwenden, die Viren oder schädlichen oder zerstörerischen Code enthalten oder damit in Verbindung stehen, oder Anwendungen, die nicht wissentlich und ausdrücklich von Benutzern vor dem Herunterladen autorisiert wurden.
+9. Sie dürfen nicht versuchen, Traffic von einer Website, die am Prämienprogramm teilnimmt, umzuleiten oder abzufangen.
+10. Sie dürfen iHerb.com nicht in eine Webansicht oder einen integrierten Webbrowser innerhalb einer mobilen App integrieren.
+11. Übergangsseiten, Popup- und/oder Layer-Anzeigen für Werbeaktivitäten sind nicht zulässig.
+12. Das künstliche Generieren von Klicks oder Impressionen zum Erstellen von Sitzungen auf iHerb.com, sei es per Software oder auf andere Weise, ist untersagt.
+13. Sie dürfen Ihren Prämiencode nicht dazu verwenden, Prämienguthaben von Ihren persönlichen Einkäufe oder für kommerzielle Wiederverkaufszwecke zu generieren.
+14. Alle „bezahlten“ Platzierungen (unter anderem bezahlte Suche, Display-Werbung, soziales Retargeting usw.) und Weiterleitungslinks sind verboten und können dazu führen, dass das mit Ihrem Account verknüpfte Prämienprogramm gesperrt wird und jegliches Prämienguthaben, das aus dieser Aktivität stammt, reduziert oder nichtig wird. Für die Zwecke dieser Vereinbarung ist eine „bezahlte Suche“ eine Anzeige, die durch Gebote auf Schlagwörter, Suchbegriffe oder andere Teilnahmen an einer Schlagwort-Auktion wie Google, Yahoo, Bing, Yandex, Baidu, Naver oder einer anderen Suchmaschine, einem anderen Portal, einem anderen gesponserten Werbe-, Such- oder Empfehlungsdienst oder einer Website, die an einem ihrer jeweiligen Netzwerke teilnimmt, gekauft werden.
+15. Sie dürfen keine Taktiken verwenden, um Ihren organischen Seitenrang für Suchbegriffe, die „iHerb + Begriff“ enthalten, zu erhöhen, wie das Verwenden bestimmter Formulierungen auf Ihren Seiten einschließlich „iHerb-Coupon“ und „iHerb-Rabatt“ oder die Nutzung von Link-Programmen, die jede Art von manipulativen Links zu Ihrer Website, auf Ihrer Website oder von Ihrer Website ausgehend einschließt.
+16. Sie erklären sich damit einverstanden, iHerb und seine Mitarbeiter zu entschädigen, zu verteidigen und von allen Rechtsansprüchen, Forderungen, Strafen, Bußgeldern, Urteilen, Kosten oder anderen angemessenen Ausgaben (einschließlich angemessenen Anwaltsgebühren) schadlos zu halten, die sich aus Ihrer Teilnahme am Prämienprogramm (i) im Verstoß gegen diese Nutzungsbedingungen oder (ii) im Verstoß gegen die Rechte eines Dritten ergeben oder in Verbindung damit stehen.
+
+Alle Teilnehmer des Prämienprogramms werden automatisch vom Prämienprogramm ausgeschlossen, wenn iHerb feststellt, dass sie der Marke geschadet haben, indem sie unangemessene Inhalte, wie die zuvor aufgeführten Beispiele, über Kommentare oder private Nachrichten auf Social-Media-Kanälen veröffentlichen und verbreiten, oder sich auf eine Weise verhalten haben, die so interpretiert werden könnte, dass sie iHerb in Verruf bringt.
+
+iHerb behält sich das Recht vor, Prämienguthaben und Werbeprämienguthaben sofort zu stornieren, Programmteilnehmer auszuschließen oder zu sperren und/oder iHerb-Accounts zu sperren, wenn betrügerische Aktivität, Missbrauch oder anderes Verhalten, einschließlich, aber nicht beschränkt auf die oben aufgeführten Beispiele, entdeckt oder vermutet wird.
+
+Von Teilnehmern des Prämienprogramms, die Prämien als „Empfehlende“ verdienen, wird von uns erwartet, dass sie die Richtlinien des Prämienprogramms respektieren, indem sie nur echte, lebende Personen anwerben, die die in diesen Geschäftsbedingungen dargelegten Kriterien erfüllen. Die Teilnehmer dürfen nicht mehrere Accounts erstellen oder sich durch verschiedene Identitäten am Prämienprogramm beteiligen, sei es als „Empfehlende“ oder als „Empfohlene“. iHerb behält sich das Recht vor, nach eigenem Ermessen Einzelpersonen zu disqualifizieren und alle damit verbundenen Accounts zu annullieren, wenn solche Handlungen festgestellt werden.
+
+Sollte es Streitigkeiten bezüglich des iHerb-Prämienprogramms, Prämienguthabens oder Werbeprämienguthabens geben, behält sich iHerb das Recht vor, die endgültige Entscheidung zu treffen.
+
+Account-Überprüfung
+
+Alle Accounts, berechtigten Einkäufe, Prämienguthaben und/oder Werbeprämienguthaben unterliegen der Überprüfung nach alleinigem und eigenem Ermessen von iHerb. iHerb behält sich das Recht vor, Prämienguthaben oder Werbeprämienguthaben zu stornieren und Ihren Account von einer IP-Adresse oder einem Gerät aus auszusetzen/zu sperren, wenn eine betrügerische oder verdächtige Aktivität entdeckt oder vermutet wird. Sollten Abweichungen zwischen der Höhe des Prämienguthabens oder Werbeprämienguthabens, das Sie möglicherweise in Ihrem Account angesammelt haben und der aufgezeichneten Menge in Ihren und den internen Unterlagen von iHerb auftreten, so gilt die Menge in den Unterlagen von iHerb. Sollten sich Streitigkeiten bezüglich dieser Nutzungsbedingungen ergeben, ist eine von iHerb getroffene Entscheidung in jedem Fall endgültig und abschließend.
+
+Prämienguthaben oder Werbeprämienguthaben ist nicht gültig, wenn es mit einem Teilnehmer-Account verknüpft ist, das für Verstöße gegen Bestimmungen dieser Nutzungsbedingungen oder gegen den Verhaltenskodex als ungültig erklärt wurde.
+
+iHerb sendet Ihnen eine E-Mail-Benachrichtigung, wenn Sie Ihr Prämienguthaben oder Werbeprämienguthaben für nichtig erklären und/oder Ihren Account pausieren oder sperren, vorausgesetzt, Sie haben sich für den Empfang von Benachrichtigungen bezüglich Prämien und Mitteilungen entschieden, die Sie auf Ihrer [Kommunikationspräferenzen](https://secure.iherb.com/communications/preferences/)\-Seite überprüfen können.
+
+Beendigung des Prämienprogramms
+
+Im Falle der Beendigung Ihrer Teilnahme an dem Prämienprogramm und falls Sie die Nutzungsbedingungen einhalten, wird iHerb in seinem alleinigen Ermessen Prämienguthaben an Sie ausgeben, in Form von Prämienguthaben, das für Einkäufe auf der Website verwendet werden kann. Eine solche Auszahlung ist auf ein Maximum von drei (3) Monaten an Prämienguthaben begrenzt, dessen Berechnung auf Grundlage Ihres Prämienguthabens für den Monat vor der Beendung des Prämienprogramms erfolgt. Jedes verdiente Werbeprämienguthaben in Ihrem Account ist bis zum Ablaufdatum gültig.
+
+iHerb kann seine Richtlinien jederzeit ändern und Beschränkungen und Einschränkungen für dieses Prämienprogramm jederzeit und ohne jegliche Frist festlegen. Mit Ausnahme des oben ausdrücklich Erwähnten übernimmt iHerb keine Haftung oder Verpflichtung in Bezug auf die Anwendung dieses Prämienprogramms und jegliche Entscheidung, die iHerb in Bezug auf Ihr Prämienguthaben oder Werbeprämienguthaben trifft.
+
+**iHerb-Programm „Spar-Abo“ („Spar-Abo“)**
+
+Nur Kunden in den USA, Japan, Singapur, Korea und Hongkong sind berechtigt, am Spar-Abo von iHerb teilzunehmen. Indem Sie eine Bestellung über das Spar-Abo aufgeben, akzeptieren Sie diese Bedingungen, Beschränkungen und Voraussetzungen. Bitte lesen Sie diesen Abschnitt sorgfältig durch.
+
+Vorteile
+
+Die Vorteile vom Spar-Abo, die auf der Seite mit den [häufig gestellten Fragen](https://www.iherb.com/info/autoship-save) zum Spar-Abo erläutert werden, sind Teil dieser Bedingungen. iHerb behält sich das Recht vor, die Vorteile vom Spar-Abo, einschließlich der Rabattbeträge und der Berechtigung, die zur Bestimmung der Rabattbeträge verwendet werden, jederzeit nach eigenem Ermessen zu ändern. Alle Änderungen gelten für zukünftige Bestellungen, auch für laufende Abonnements.
+
+Einige der Angebotsinformationen können sich im Laufe der Zeit ändern, wenn Sie Lieferungen erhalten (z. B. Preis, Steuern, Verfügbarkeit, Versandkosten und der Verkäufer).
+
+Ihr Spar-Abo erstellt automatisch eine neue Bestellung gemäß Ihrem gewählten Lieferplan, bis Sie es kündigen.
+
+Wir können Ihre Abonnements nach eigenem Ermessen jederzeit ohne Vorankündigung kündigen. In diesem Fall werden Ihnen nur Bestellungen in Rechnung gestellt, die an Sie versandt wurden.
+
+Berechtigte Käufe
+
+Die Vorteile vom Spar-Abo sind auf Artikel beschränkt, die die Spar-Abo-Informationen auf der Produktseite anzeigen. Um eine vollständige Liste der berechtigten Artikel anzuzeigen, besuchen Sie [https://www.iherb.com/cl/autoship-save](https://www.iherb.com/cl/autoship-save). Das Spar-Abo ist nur für Kunden verfügbar, die in den USA, Japan, Singapur, Korea und Hongkong wohnen. Ihre Teilnahme am Spar-Abo-Programm ist für Sie persönlich und Sie können Ihr Abonnement oder einen der Vorteile nicht ohne unsere Genehmigung an Dritte abtreten oder übertragen.
+
+Rabatte durch das Spar-Abo und alle gültigen Spar-Abo-Sonderaktionsabonnements für begrenzte Zeit gelten nur für berechtigte Artikel, bei denen die Angebotsnachricht auf den Spar-Abo-Artikelinformationsseiten angezeigt wird, und nur dann, wenn Sie die Versandmethode „Spar-Abo“ auswählen. Abonnements sind möglich, solange der Vorrat reicht. Spezielle zeitlich begrenzte Abonnementwerbeaktionen gelten nur während ihrer Gültigkeitsdauer.
+
+Spar-Abo-Abonnements sind bei Verbot ungültig.
+
+Zahlung; Erneuerung
+
+Die Gesamtkosten, die Ihrer Zahlungsmethode für jede Spar-Abo-Bestellung in Rechnung gestellt werden, sind die Kosten des Artikels am Tag der Auftragsbearbeitung abzüglich des Spar-Abo-Rabatts, zuzüglich der jeweils geltenden Mehrwertsteuer und Versandkosten. Wenn Sie Prämienguthaben haben, wird das verfügbare Prämienguthaben automatisch sowohl auf Ihre erste Spar-Abo-Bestellung als auch auf Ihre wiederkehrenden Spar-Abo-Bestellungen angewendet, bevor die Zahlung angewendet wird.
+
+Die Gebühr für jede Spar-Abo-Artikelsendung wird über die Zahlungsmethode in Rechnung gestellt, die Sie zur Erstellung Ihres Abonnements verwendet haben oder wie anderweitig von Ihnen angegeben. Wenn wir Ihre Spar-Abo-Bestellung nicht mit der Zahlungsmethode abschließen können, die Sie zum Erstellen Ihres Abonnements verwendet haben, ermächtigen Sie uns, Ihr Abonnement mit einer anderen Zahlungsmethode in Ihrem Account zu aktualisieren und diese Zahlungsmethode für Ihre Spar-Abo-Bestellung zu verwenden.
+
+Kündigung
+
+Ihr Abonnement bleibt gültig, bis es gekündigt wird. Sie können jederzeit kündigen. Wenn Sie Ihr Abonnement kündigen und es dann reaktivieren, ist der Rabatt, der auf einen Spar-Abo-Artikel angewendet wurde, möglicherweise nicht derselbe Rabatt, der zum Zeitpunkt der Kündigung gültig war. Wenn sich der Rabattprozentsatz für das Spar-Abo für einen solchen Spar-Abo-Artikel ändert, wird der neue Rabatt auf Ihre zukünftigen Sendungen dieses Artikels angewendet. Weitere Informationen zum Kündigen Ihres Spar-Abos finden Sie auf der Seite [„Häufig gestellte Fragen zum Spar-Abo“](https://www.iherb.com/info/autoship-save).
+
+Vereinbarungsänderungen
+
+Wir können diese Bedingungen nach unserem alleinigen Ermessen ändern, ohne Ihnen dies mitzuteilen. Wenn eine Änderung dieser Bedingungen für ungültig, nichtig oder aus irgendeinem Grund nicht durchsetzbar erklärt wird, ist diese Änderung trennbar und beeinträchtigt nicht die Gültigkeit und Durchsetzbarkeit der verbleibenden Änderungen oder Bedingungen. IHRE WEITERE TEILNAHME, NACHDEM WIR DIESE BEDINGUNGEN ÄNDERN, STELLT IHRE ANNAHME DER ÄNDERUNGEN DAR. WENN SIE ÄNDERUNGEN NICHT ZUSTIMMEN, MÜSSEN SIE IHRE ABONNEMENTS KÜNDIGEN.
+
+### iHerb-Partnerprogramm
+
+Mit dem Partnerprogramm von iHerb können Sie Provisionen für den Verkauf von Produkten auf den Websites von iHerb verdienen („Partnerprogramm“). Das Partnerprogramm von iHerb wird von Plattformen von Drittanbietern (jeweils eine „Partnerprogramm-Plattform“) durchgeführt und verwaltet, die hier aufgeführt sind: ([https://www.iherb.com/info/affiliates](https://www.iherb.com/info/affiliates)).
+
+Anmeldung
+
+Sie müssen einen Antrag über eine der Partnerprogramm-Plattformen von iHerb einreichen und zur Teilnahme am Partnerprogramm genehmigt werden. Wir behalten uns das Recht vor, Anträge nach unserem alleinigen Ermessen abzulehnen. Wir empfehlen Ihnen jedoch, uns zu kontaktieren, wenn Sie zusätzliche Informationen zur erneuten Überprüfung bereitstellen möchten. Sollten wir Ihren Antrag ablehnen, können Sie sich gerne jederzeit erneut für das Partnerprogramm bewerben. Wir behalten uns jedoch das Recht vor, die Annahme Ihres Antrags durch iHerb nach eigenem Ermessen zurückzuziehen, wenn wir feststellen, dass Ihre Website oder andere Social-Media-Inhalte für das Programm ungeeignet sind. Partner- oder Prämienaccounts, die zuvor wegen Verstößen gekennzeichnet wurden, können von der Teilnahme am iHerb-Partnerprogramm ausgeschlossen werden.
+
+Sie müssen alle AGB des iHerb-Partnerprogramms einhalten, die auf den Partnerprogramm-Plattformen aufgeführt sind. Die Nichteinhaltung dieser AGB ist Grund für die sofortige Kündigung des Partnerprogramms.
+
+Provisionszahlungen durch Partnerprogramm-Plattformen
+
+Alle Provisionen bleiben bis 32 Tage nach dem Tag des Versands der Bestellung ausstehend („Ausstehender Zeitraum“). Während dieses ausstehenden Zeitraums können Provisionen für Bestellungen angepasst werden, die rückgängig gemacht, rückerstattet oder angefochten wurden. Nach dem ausstehenden Zeitraum werden Bestellungen zur Zahlung genehmigt.
+
+Zahlungen werden ungefähr 45 Tage nach Ende des Monats an die jeweilige Partnerprogramm-Plattform übermittelt und können innerhalb von zwei Werktagen ausgezahlt werden. iHerb übernimmt vollständig die Provisionen, die Sie verdienen, indem Sie solche Beträge an das Partnerprogramm überweisen. Zu diesem Zeitpunkt hat iHerb seine Verpflichtung zur Zahlung von Provisionen an Sie erfüllt. Der Partnerprogramm-Administrator und nicht iHerb ist allein für die Auszahlung der Provisionen an Sie verantwortlich.
+
+Zuweisung
+
+iHerb kann seine Rechte und Pflichten in Bezug auf das Partnerprogramm und andere hier dargelegte Angelegenheiten nach eigenem Ermessen und ohne Ihre Zustimmung oder die Zustimmung einer anderen Person an eine beliebige Partei abtreten, einschließlich verbundener Unternehmen oder Partner von iHerb.
+
+115. Haftungsausschluss
+    ------------------
+    
+    SIE ERKLÄREN SICH DAMIT EINVERSTANDEN, DASS DIE NUTZUNG DER WEBSITE ODER DIE TEILNAHME IN EINEM PROGRAMM AUF IHR EIGENES RISIKO ERFOLGT. DIE WEBSITE, DIE PROGRAMME UND DIE HIERIN ENTHALTENEN MATERIALIEN WERDEN „OHNE MÄNGELGEWÄHR“ UND „WIE VORLIEGEND“ ZUR VERFÜGUNG GESTELLT, SOFERN ES NICHT AUSDRÜCKLICH ANDERS IN DIESER VEREINBARUNG BESTIMMT WIRD. IHERB UND SEINE JEWEILIGEN AMTSTRÄGER, DIREKTOREN, MITARBEITER UND ANDEREN VERTRETER, NACHFOLGER UND ZUGEORDNETEN EINES JEDEN (ZUSAMMENFASSEND „IHERB-BETEILIGUNGSGESELLSCHAFTEN“) LEHNEN ALLE GEWÄHRLEISTUNGEN IRGENDEINER ART AB, OB AUSDRÜCKLICH ODER STILLSCHWEIGEND EINSCHLIESSLICH DIE STILLSCHWEIGENDEN GEWÄHRLEISTUNGEN ALLGEMEINER HANDELSTAUGLICHKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN. UNBESCHADET DER ALLGEMEINGÜLTIGKEIT DER VORHERGEHENDEN BESTIMMUNGEN UND IM MAXIMAL GESETZLICH ZULÄSSIGEN UMFANG LEHNEN DIE IHERB-BETEILIGUNGSGESELLSCHAFTEN SÄMTLICHE HAFTUNG FÜR AUF NORMALE ABNUTZUNG, MISSBRÄUCHLICHE VERWENDUNG ODER VERÄNDERUNG, MISSBRAUCH, UNKORREKTE PRODUKTAUSWAHL UND DIE NICHTBEFOLGUNG DER GEDRUCKTEN ANLEITUNGEN ZURÜCKZUFÜHRENDE PRODUKTDEFEKTE ODER -AUSFÄLLE SOWIE FORDERUNGEN AB.
+    
+    IHERB-BETEILIGUNGSGESELLSCHAFTEN ÜBERNEHMEN KEINE GEWÄHRLEISTUNG DAFÜR, DASS DIE WEBSITE ODER EIN PROGRAMM IHRE ANFORDERUNGEN ERFÜLLT, DIE WEBSITE ZEITLICH, SICHER, FEHLERFREI ODER UNUNTERBROCHEN IST, DASS DIE ERGEBNISSE, DIE VON DER WEBSITE ODER VON EINEM PROGRAMM BEZOGEN WERDEN, GENAU ODER ZUVERLÄSSIG SIND, DASS DIE QUALITÄT VON PRODUKTEN, DIENSTLEISTUNGEN, INFORMATIONEN ODER ANDEREM MATERIAL, DAS SIE DURCH DIE WEBSITE ERHALTEN, IHRE ERWARTUNGEN ERFÜLLEN WERDEN UND JEGLICHE FEHLER AN DER WEBSITE BEHOBEN WERDEN. IHERB GARANTIERT NICHT, DASS MATERIALIEN AUF DER WEBSITE GENAU, VOLLSTÄNDIG, ZUVERLÄSSIG, AKTUELL ODER FEHLERFREI SIND. IHERB IST NICHT VERANTWORTLICH FÜR TYPOGRAFISCHE FEHLER ODER AUSLASSUNGEN IM ZUSAMMENHANG MIT PREISEN, PRODUKTBESCHREIBUNGEN, TEXT ODER FOTOGRAFIE. JEGLICHES HERUNTERGELADENES ODER ANDERWEITIG DURCH DIE WEBSITE ODER ÜBER PROGRAMME ERHALTENES MATERIAL ERFOLGT AUF IHR EIGENES RISIKO UND SIE ALLEIN SIND VERANTWORTLICH FÜR SCHÄDEN AN IHREM COMPUTERSYSTEM ODER DEN VERLUST VON DATEN, DER DURCH DAS HERUNTERLADEN VON MATERIALIEN ENTSTANDEN IST. KEINE VON IHNEN DURCH DIE WEBSITE ODER DURCH EIN PROGRAMM BEZOGENEN INFORMATIONEN STELLEN EINE GARANTIE IN BEZUG AUF DIE WEBSITE ODER EIN PROGRAMM DAR, DAS NICHT AUSDRÜCKLICH IN DIESER VEREINBARUNG BESTIMMT IST.
+    
+    IM GESETZLICH ZULÄSSIGEN UMFANG HAFTEN IHERB-BETEILIGUNGSGESELLSCHAFTEN IN KEINEM FALL FÜR INDIREKTE, BEILÄUFIGE, BESONDERE ODER FOLGESCHÄDEN (EINSCHLIESSLICH SCHÄDEN DURCH GESCHÄFTSVERLUSTE, GEWINNVERLUSTE, VERLUSTE VON KUNDENVERTRAUEN, NUTZUNGSSCHÄDEN, VERLUST VON DATEN, KOSTEN FÜR DIE BESCHAFFUNG VON ERSATZGÜTERN, DIENSTLEISTUNGEN ODER INFORMATIONEN, RECHTSSTREITIGKEITEN ODER ÄHNLICHES), GANZ GLEICH, OB DIESE SCHÄDEN DURCH EINE VERTRAGSVERLETZUNG, GARANTIEVERLETZUNG, EINE UNERLAUBTE HANDLUNG (EINSCHLIESSLICH FAHRLÄSSIGKEIT), PRODUKTHAFTUNG ODER AUF ANDEREM WEGE ENTSTANDEN SIND, AUCH WENN IHERB-BETEILIGUNGSGESELLSCHAFTEN AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN WURDEN. DIE HIER BESCHRIEBENEN HAFTUNGSBESCHRÄNKUNGEN SIND WESENTLICHE BESTANDTEILE DER GRUNDLAGE DER VEREINBARUNG ZWISCHEN IHERB UND IHNEN. DIE PRODUKTE, INFORMATIONEN, PROGRAMME UND DIENSTLEISTUNGEN, DIE AUF UND ÜBER DIE WEBSITE ANGEBOTEN WERDEN, WERDEN OHNE DIESE BESCHRÄNKUNGEN NICHT BEREITGESTELLT. VORBEHALTLICH DES VORSTEHENDEN, SOWEIT GESETZLICH ZULÄSSIG GILT: (I) WENN SIE EIN KUNDE SIND, IST DIE MAXIMALE HAFTUNG VON IHERB FÜR DIE VON IHNEN BEZAHLTEN PRODUKTE, INFORMATIONEN ODER DIENSTLEISTUNGEN VON IHERB BEGRENZT AUF DEN VON IHNEN GEZAHLTEN BETRAG, UND (II) WENN SIE EIN PROGRAMMTEILNEHMER SIND, IST DIE MAXIMALE HAFTUNG VON IHERB AUF DEN VON IHERB IM RAHMEN DES ANWENDBAREN PROGRAMMS WÄHREND 12 MONATEN VOR DEM HAFTUNGSFÄHIGEN ZEITPUNKT BERECHNETEN ODER GEZAHLTEN BETRAG BESCHRÄNKT.
+    
+    DA EINIGE STAATEN UND/ODER GERICHTSBARKEITEN DEN HAFTUNGSAUSSCHLUSS BESTIMMTER GEWÄHRLEISTUNGEN, DIE HAFTUNGSBESCHRÄNKUNG ODER DEN HAFTUNGSAUSSCHLUSS FÜR BESTIMMTE SCHADENSARTEN NICHT ZULASSEN, KÖNNEN EINIGE DER OBEN GENANNTEN HAFTUNGSAUSSCHLÜSSE UND BESCHRÄNKUNGEN NICHT AUF SIE ZUTREFFEN. WENN SIE MIT EINEM TEIL DER WEBSITE, IHRER TEILNAHME AN EINEM PROGRAMM ODER MIT EINER DER IN DIESER VEREINBARUNG ENTHALTENEN NUTZUNGSBEDINGUNGEN UNZUFRIEDEN SIND, IST IHR EINZIGES UND AUSSCHLIESSLICHES RECHTSMITTEL, DIE NUTZUNG DER WEBSITE ODER DIE TEILNAHME AN DEM ANWENDBAREN PROGRAMM EINZUSTELLEN. IN NEW JERSEY GELTEN DIE SCHADLOSKLAUSELN NICHT FÜR IHRE HAFTUNG, DIE AUF VORSÄTZLICHEM ODER RÜCKSICHTSLOSEM VERHALTEN, GROBER FAHRLÄSSIGKEIT, VERSCHULDENSUNABHÄNGIGER HAFTUNG ODER VERLETZUNG EINER GESETZLICH VORGESCHRIEBENEN PFLICHT SEITENS IHERB BERUHEN.
+    
+    WIR GEBEN KEINE GARANTIE ODER GEWÄHRLEISTUNG HINSICHTLICH DER VERKAUFTEN PRODUKTE ODER DIENSTLEISTUNGEN. WIR SIND NICHT FÜR SCHÄDEN FÜR INFORMATIONEN, PRODUKTE ODER DIENSTLEISTUNGEN, DIE VON DRITTEN ZUR VERFÜGUNG GESTELLT WERDEN, VERANTWORTLICH, AUCH WENN WIR AUF DIE MÖGLICHKEIT VON SCHÄDEN HINGEWIESEN WURDEN. IN NEW JERSEY GELTEN DIE SCHADLOSKLAUSELN NICHT FÜR IHRE HAFTUNG, DIE AUF VORSÄTZLICHEM ODER RÜCKSICHTSLOSEM VERHALTEN, GROBER FAHRLÄSSIGKEIT, VERSCHULDENSUNABHÄNGIGER HAFTUNG ODER VERLETZUNG EINER GESETZLICH VORGESCHRIEBENEN PFLICHT SEITENS IHERB BERUHEN.
+    
+116. Entschädigung:
+    --------------
+    
+    Sie verpflichten sich, iHerb von allen Verlusten, Ausgaben, Kosten und Schäden freizustellen, einschließlich Anwaltsgebühren, die sich aus Ihrer Nutzung der Website oder Ihrem Unvermögen, die Website zu nutzen, der Teilnahme an einem Programm, von Ihnen im Zusammenhang mit der Website erworbenen oder erhaltenen Produkten oder Dienstleistungen, Beiträge oder Aktivitäten auf der Website in Zusammenhang mit Ihrem Account, die von Ihnen oder einer anderen Person ausgeführt wurden, Ihrem Verstoß von Bestimmungen dieser Vereinbarung, Ihrem Verstoß von Rechten Dritter oder Ihrem Verstoß von geltenden Gesetzen, Vorschriften und Regulierungen ergeben. Sie stimmen zu, so kooperativ wie nötig zusammenzuarbeiten, um Ansprüche geltend zu machen. Wir behalten uns das Recht vor, gemäß diesem Abschnitt die ausschließliche Verteidigung und Kontrolle der von Ihnen zu entschädigenden Angelegenheiten zu übernehmen; in diesem Fall müssen Sie uns zusätzlich zu den entstandenen Verlusten, Ansprüchen, Schäden und Verbindlichkeiten unsere aus diesem Anspruch entstandenen Anwaltsgebühren und Kosten erstatten. In keinem Fall dürfen Sie ohne vorherige schriftliche Zustimmung von iHerb eine Einigung in einer Angelegenheit herbeiführen. In New Jersey gelten die Schadlosklauseln nicht für Ihre Haftung, die auf vorsätzlichem oder rücksichtslosem Verhalten, grober Fahrlässigkeit, verschuldensunabhängiger Haftung oder Verletzung einer gesetzlichen Pflicht seitens iHerb beruht.
+    
+117. Urheberrechte, Marken und anderes geistiges Eigentum
+    ----------------------------------------------------
+    
+    Sie erkennen an, dass diese Website und alle Materialien auf der Website oder in Zusammenhang mit den Programmen bereitgestellte Materialien, darunter ohne Einschränkung Design, Texte, Grafiken, Töne, Bilder, Software und andere Dateien der Website und des Programms, ihr Erscheinungsbild und die Auswahl und Anordnung dessen, (zusammenfassend „Materialien“), unser Eigentum sind und dem Urheberrecht der Vereinigten Staaten, dem internationalen Urheberrecht und anderen Gesetzen und Rechten zu geistigem Eigentum unterliegen und durch diese geschützt sind. Die auf der Website enthaltenen Marken, Dienstleistungsmarken, Handelsnamen und Logos, darunter ohne Einschränkung in den Vereinigten Staaten eingetragene Marken, iHerb®, Madre Labs®, Mushrex®, MicroFungi®, Cococeps®, Caféceps®, CocoCardio® und Mild By Nature® und die Marken Love Letter™, Sply™, Sierra Mama™, Just a Leaf™, Just a Bean™, Immune Punch™ und Notes to Self™ (zusammenfassend „Marken") sind alleiniges Eigentum von iHerb und seinen verbundenen Unternehmen. Alle Seitenköpfe, benutzerdefinierte Grafiken und Symbole sind Marken von iHerb. iHerb gewährt Ihnen eine eingeschränkte nicht-exklusive, nicht-übertragbare, widerrufbare Lizenz zum Zugriff und zur Nutzung der Materialien und Marken nur in der von iHerb für Ihre persönliche und nicht kommerzielle Nutzung zugelassenen Weise (die „Lizenz“). Sie willigen ein, keine Teile der Website, Materialien oder Marken zu kopieren, verändern, benutzen, verteilen, übermitteln, neu zu veröffentlichen, zu verkaufen, weiterzuverkaufen oder zu vermarkten, wenn dies nicht von iHerb ausdrücklich schriftlich gestattet wurde. Diese Lizenz bleibt in Kraft, bis diese Vereinbarung von Ihnen oder uns in Übereinstimmung mit dieser Vereinbarung gekündigt wird. Jegliche unbefugte Nutzung der Materialien oder Marken ist Grund für die Kündigung der Lizenz. Alle hier nicht ausdrücklich gewährten Rechte sind iHerb und seinen Lizenzgebern vorbehalten. Andere Urheberrechte, Marken, Produktnamen, Firmennamen, Logos oder geistiges Eigentum sind Eigentum der jeweiligen Inhaber mit allen Rechten vorbehalten. Websitereferenzen zu Dritten oder ihren Urheberrechten, Marken oder anderem geistigen Eigentum bilden oder implizieren keine Zugehörigkeit, Billigung oder Empfehlung von iHerb durch die entsprechenden Markeninhaber, oder der entsprechenden Markeninhaber durch iHerb.
+    
+118. Vereinbarung:
+    -------------
+    
+    Diese Vereinbarung stellt die einzige Vereinbarung zwischen uns und Ihnen in Bezug auf den Gegenstand dieser Vereinbarung dar. Diese Vereinbarung ersetzt alle früheren oder gleichzeitigen Abkommen, Darstellungen, Garantien und Übereinkünfte, sowohl schriftlich als auch mündlich, in Bezug auf den Gegenstand dieser Vereinbarung.
+    
+119. Salvatorische Klausel; Interpretation
+    -------------------------------------
+    
+    Wenn eine Bestimmung dieser Vereinbarung für nichtig, unrechtmäßig oder aus anderen Gründen nicht durchsetzbar erklärt wird, wird diese Bestimmung von dieser Vereinbarung getrennt und der Rest dieser Vereinbarung bleibt in Kraft. Bei Verwendung in dieser Vereinbarung wird davon ausgegangen, dass dem Begriff „einschließlich“ die Wörter „ohne Einschränkung“ folgen.
+    
+120. Geltendes Recht; Zuständigkeit; Schiedsklausel; Verzicht auf Schwurgerichtsverfahren; Verzicht auf Sammelklagen:
+    ----------------------------------------------------------------------------------------------------------------
+    
+    Alle Fragen in Hinblick auf die Verfassung, Gültigkeit, Durchsetzung und Auslegung dieser Vereinbarung unterliegen den inländischen Gesetzen des Staates Kalifornien und werden in Übereinstimmung mit diesen ausgelegt, ohne einer Rechtswahl oder einer Rechtskollision Wirkung zu verleihen.
+    
+    Sie und iHerb (zusammenfassend die „Parteien“ und einzeln eine „Partei“) kommen ferner überein, dass die folgende Schiedsgerichtvereinbarung Teil einer Vereinbarung ist, die durch zwischenstaatlichen Handel erfolgt ist und dem Federal Arbitration Act („FAA“), 9 U.S.C. §§ 1–16, unterliegt, und dass Fragen in Bezug auf die Verfassung, Gültigkeit, Durchsetzung und Auslegung dieser Vereinbarung der Kontrolle des FAA unterliegen. Sie und die iHerb-Beteiligungsgesellschaften vereinbaren auf individueller Basis, alle Dispute, Ansprüche oder Streitigkeiten zu schlichten, die sich aus dieser Vereinbarung ergeben oder damit im Zusammenhang stehen, einschließlich Ansprüche, die aus einem Vertrag, unerlaubten Handlungen, Nachlässigkeit, gesetzlichen oder regulatorischen Bestimmungen hervorgehen. Es ist ausdrücklich beabsichtigt, dass iHerb dazu befähigt ist, diese Schiedsvereinbarung durchzusetzen. **JEDE PARTEI GIBT DAS RECHT AUF (VERZICHTET DARAUF), ZU KLAGEN UND VON EINEM RICHTER ODER EINER JURY AUFGRUND JEGLICHER DISPUTE, ANSPRÜCHE ODER STREITIGKEITEN ANGEHÖRT ZU WERDEN.**
+    
+    SIE UND IHERB-BETEILIGUNGSGESELLSCHAFTEN VEREINBAREN AUSDRÜCKLICH, STREITIGKEITEN, ANSPRÜCHE ODER DISPUTE, DIE SICH AUS ODER IN IRGENDEINER WEISE IM ZUSAMMENHANG MIT DIESER VEREINBARUNG ERGEBEN, ZU SCHLICHTEN. DIESE SCHIEDSGERICHTVEREINBARUNG GILT EBENSO FÜR GRENZWERTIGE ANGELEGENHEITEN DER SCHIEDSFÄHIGKEIT, EINSCHLIESSLICH ASPEKTE DER UNZUMUTBARKEIT ODER ILLEGALITÄT DER VEREINBARUNG SOWIE JEGLICHE VERTEIDIGUNG.
+    
+    **DIE PARTEIEN VEREINBAREN FERNER, DASS EIN SCHIEDSVERFAHREN AUSSCHLIESSLICH IN IHREN ODER UNSEREN KAPAZITÄTEN ERFOLGEN DARF, NICHT ALS SAMMELKLAGE, VORGEBLICHE SAMMELKLAGE, KOLLEKTIV- ODER ANDERE VERBANDSKLAGE.** DAS SCHIEDSGERICHT KANN NICHT MEHR ALS EINEN ANSPRUCH EINER EINZELPERSON ODER GESELLSCHAFT KONSOLIDIEREN ODER SICH DARAN BETEILIGEN UND DARF KEINE VERBANDSKLAGEN, KOLLEKTIVVERFAHREN ODER GRUPPENVERFAHREN PRÄSIDIEREN. SOLLTE IRGENDEIN TEIL DIESES SAMMELKLAGEVERZICHTS ALS UNGÜLTIG ODER NICHT DURCHSETZBAR ERACHTET WERDEN, SO WIRD DIESER NICHT GETRENNT UND DIE GESAMTE SCHIEDSVEREINBARUNG IST NICHT DURCHSETZBAR.
+    
+    Die gegenseitige Vereinbarung zwischen Ihnen und den iHerb-Beteiligungsgesellschaften, diese Streitigkeiten auf individueller Basis zu schlichten, anstatt vor den Gerichten oder anderen Instanzen zu verhandeln, gilt als gegenseitige Beachtung dieser Schiedsvereinbarung.
+    
+    Jede Partei kann das Recht zur Schlichtung ausüben, indem sie der anderen Partei schriftlich in ausreichendem Detail alle Ansprüche mitteilt, welche die Grundlage für ein solches Recht bilden, um die andere Partei über den Inhalt solcher Ansprüche und eine Forderung nach Schlichtung solcher Ansprüche zu informieren. In keinem Fall darf der Antrag auf ein Schiedsverfahren nach dem Zeitpunkt gestellt werden, zu dem die Einleitung eines Rechts- oder Billigkeitsverfahrens aufgrund dieser Ansprüche durch die anwendbare Verjährungsfrist ausgeschlossen wäre.
+    
+    Sofern Sie und iHerb nichts anderes vereinbaren, wird das Schiedsverfahren an dem Standort durchgeführt, wo Sie ansässig sind und wird von einem einzelnen neutralen Schlichter durchgeführt, auf den sich beide Parteien geeinigt haben, oder wenn keine Einigung stattfindet, gemäß den zu diesem Zeitpunkt aktuellen Regeln für die Beilegung von Streitigkeiten der American Arbitration Association („AAA“). Das Schiedsverfahren wird in Übereinstimmung mit den zu der Zeit geltenden Regeln für die Beilegung von Streitigkeiten der American Arbitration Association (AAA) durchgeführt (verfügbar auf [www.adr.org](https://www.adr.org/)), oder, wenn diese Regeln nicht mehr verfügbar sind, in Übereinstimmung mit den vom Schiedsgericht ausgewählten geltenden Regeln; es gelten jedoch keine Regeln, die Sammelklagen, Kollektivklagen, oder andere repräsentative Schiedsverfahren erlauben. Im Falle von Konflikten zwischen dieser Schiedsvereinbarung und den geltenden Regeln des Schiedsverfahrens, gelten die Bestimmungen dieser Schiedsvereinbarung.
+    
+    Die Parteien sind berechtigt, von einem Anwalt oder einem anderen Vertreter ihrer Wahl auf eigene Kosten repräsentiert zu werden. Jede Partei zahlt ihre eigenen Anwaltsgebühren. Die Parteien vereinbaren, jedem Schiedsspruch des Schiedsgerichtes zuzustimmen und Folge zu leisten; sofern das Schiedsgericht nicht die Autorität hat, Strafschadensersatz oder Schadensersatz mit abdeckender Wirkung zu gewähren oder einen Anspruch auf Unterlassung oder gerechte Entlassung zu erteilen. Das Schiedsgericht teilt den Schiedsspruch schriftlich mit und erklärt darin die wesentlichen Ergebnisse und Schlussfolgerungen, auf denen der Schiedsspruch beruht. Der Schiedsspruch kann in jedem dafür zuständigem Gericht erfolgen.
+    
+    Die Zahlung aller Anmelde-, Verwaltungs- und Schiedsgerichtgebühren richtet sich nach den Regeln der American Arbitration Association (AAA).
+    
+121. Sonstiges:
+    ----------
+    
+    Sie sind nicht berechtigt, diesen Vertrag ohne unsere vorherige schriftliche Zustimmung kraft Gesetzes oder anderweitig zu übertragen. Vorbehaltlich dieser Einschränkung ist diese Vereinbarung für die Parteien und deren jeweilige Rechtsnachfolger und Abtretungsempfänger bindend und vollstreckbar. iHerb kann seine Rechte und Pflichten aus diesem Vertrag ohne Ihre Zustimmung oder die Zustimmung einer anderen Person an jede Person, einschließlich verbundener Unternehmen, übertragen. Zur Vermeidung von Zweifeln kann jedes Prämienguthaben, das vor dem 10. Dezember 2024 wie oben beschrieben für eine Auszahlungsoption berechtigt ist, an oder vor diesem Datum an iHerb Rewards, LLC, eine Gesellschaft mit beschränkter Haftung in Ohio, übertragen werden, die allein verantwortlich für die Zahlung einer ordnungsgemäß ausgeübten Auszahlungsoption ist.
+    
+    Das Versäumnis vonseiten iHerb, Ihr Einhalten der in dieser Vereinbarung enthaltenen Bestimmungen durchzusetzen, stellt keinen Verzicht auf eine solche Bestimmung dar und wird nicht als Verzicht oder als Beschränkung des Rechts der Partei angesehen, auf strikte Einhaltung der Bedingung oder irgendeiner Bedingung dieser Vereinbarung. Sie stimmen zu, dass unabhängig von gegenteiligen Statuten oder Gesetzen jeder Anspruch oder Klagegrund, der sich aus der Nutzung dieser Website oder dieser Vereinbarung ergibt oder damit zusammenhängt, innerhalb eines (1) Jahres nach der Entstehung eines solchen Anspruchs oder Klagegrunds geltend gemacht werden muss; andernfalls wird ein solcher Anspruch oder Klagegrund dauerhaft ausgeschlossen. Die „Bestimmungen des Haftungsausschlusses“ in dieser Vereinbarung kommen den hier definierten juristischen Personen von iHerb zugute, und jede dieser Individuen oder Subjekte hat das Recht, diese Bestimmungen direkt gegen Sie in ihrem eigenen Namen geltend zu machen und durchzusetzen.
+    
+122. Kontaktieren Sie uns:
+    ---------------------
+    
+    Wenn Sie Fragen zu dieser Vereinbarung haben, kontaktieren Sie bitte unseren [Kundenservice.](https://secure.iherb.com/info/Contact)
     
 
   
 
-Recently viewed products
+Zuletzt angesehen
 
 [](#carousel-recently-viewed)[](#carousel-recently-viewed)
 
 [![](https://s3.images-iherb.com/cms/banners/Rewards_iHerb_Desktop.png)
 
-Extra Savings, Free Orders & More!](https://secure.iherb.com/rewards/rewards-program)
+Attraktive Deals, Gratisbestellungen und viele andere Vorteile!](https://secure.iherb.com/rewards/rewards-program)
 
-Be the first to get promo offers and reward perks straight to your inbox
+Bleiben Sie über Aktionsangebote und Prämien-Sonderdeals immer auf dem Laufenden
 
-Be the first to get promo offers and reward perks straight to your inbox
+Bleiben Sie über Aktionsangebote und Prämien-Sonderdeals immer auf dem Laufenden
 
-Sign up
+Anmelden
 
-Please enter a valid email address
+Geben Sie bitte eine gültige E-Mail-Adresse ein
 
-You are now subscribed to our emails
+Sie sind jetzt für unsere E-Mails angemeldet
 
-Your email address will be used to send you Health Newsletters and emails about iHerb’s products, services, sales, and special offers. You can unsubscribe at any time by clicking on the unsubscribe link in each email. For more information on our use of your personal information and your rights, see our [Privacy Policy.](https://www.iherb.com/info/privacy)
+Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails zu Produkten, Dienstleistungen, Vertrieb und Sonderangeboten von iHerb zu senden. Sie können sich jederzeit abmelden, indem Sie auf den Abmeldelink klicken, den Sie in jeder E-Mail finden. Weitere Informationen zur Verwendung Ihrer persönlichen Daten und Ihrer Rechte finden Sie in unserer [Datenschutzrichtlinie.](https://de.iherb.com/info/privacy)
 
-* About
-* [About Us](https://www.iherb.com/info/about)
-* [New! Store Reviews](https://www.iherb.com/info/store-reviews)
-* [Rewards Program](https://secure.iherb.com/rewards/rewards-program)
-* [Affiliate Program](https://www.iherb.com/info/affiliates)
-* [New! Autoship & Save](https://www.iherb.com/info/autoship-save)
-* [We Give Back](https://www.iherb.com/info/donate)
+* Über uns
+* [Wer wir sind](https://de.iherb.com/info/about)
+* [Neu! Shop-Bewertungen](https://de.iherb.com/info/store-reviews)
+* [Prämienprogramm](https://secure.iherb.com/rewards/rewards-program)
+* [Partnerprogramm](https://de.iherb.com/info/affiliates)
+* [Wohltätigkeit](https://de.iherb.com/info/donate)
 
-* Company
-* [Corporate](https://corporate.iherb.com/)
-* [Careers](https://careers.iherb.com/global/en)
-* [Press](https://www.iherb.com/pressreleases)
-* [Partner with iHerb](https://www.iherb.com/info/suppliers)
+* Unternehmen
+* [Corporate Governance](https://corporate.iherb.com/)
+* [Presse](https://de.iherb.com/pressreleases)
+* [Kooperationspartner werden](https://de.iherb.com/info/suppliers)
 
-* Resources
-* [Wellness Hub](https://www.iherb.com/blog)
-* [iHerb Community](https://www.iherb.com/ugc/community)
-* [Accessibility View](#)
-* [Sales & Offers](https://www.iherb.com/info/sales-and-offers)
-* [New! EGift Card](https://www.iherb.com/lp/gift-cards)
+* Ressourcen
+* [Gesundheitsportal](https://de.iherb.com/blog)
+* [iHerb-Community](https://de.iherb.com/ugc/community)
+* [Angebote und Aktionen](https://de.iherb.com/info/sales-and-offers)
 
-* Customer Service
-* [Contact Us](https://www.iherb.com/help/contact)
-* [Suggest a Product](https://www.iherb.com/css/request-product)
-* [Order Status](https://secure.iherb.com/orders/gc-tracking)
-* [Shipping](https://www.iherb.com/shipping)
-* [Communication Preferences](https://secure.iherb.com/communications/preferences)
+* Kundenservice
+* [Kontaktieren Sie uns](https://de.iherb.com/help/contact)
+* [Produkt vorschlagen](https://de.iherb.com/css/request-product)
+* [Bestellstatus](https://secure.iherb.com/orders/gc-tracking)
+* [Versand](https://de.iherb.com/shipping)
+* [Benachrichtigungen](https://secure.iherb.com/communications/preferences)
 
 * MOBILE APPS
 
-![QR Code App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
+![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
 
 [![iHerb App on Google Play Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/google-play-badge.jpg)](https://play.google.com/store/apps/details?id=com.iherb)
 
-[![iHerb App on Apple App Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/ios_app_store_us.jpg)](https://itunes.apple.com/us/app/iherb/id636609212?mt=8)
+[![iHerb App on Apple iTune Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/ios_app_store_de.jpg)](https://itunes.apple.com/de/app/iherb/id636609212?mt=8)
 
-Be the first to get promo offers and reward perks straight to your inbox
+Bleiben Sie über Aktionsangebote und Prämien-Sonderdeals immer auf dem Laufenden
 
-Be the first to get promo offers and reward perks straight to your inbox
+Bleiben Sie über Aktionsangebote und Prämien-Sonderdeals immer auf dem Laufenden
 
-Sign up
+Anmelden
 
-Please enter a valid email address
+Geben Sie bitte eine gültige E-Mail-Adresse ein
 
-You are now subscribed to our emails
+Sie sind jetzt für unsere E-Mails angemeldet
 
-Your email address will be used to send you Health Newsletters and emails about iHerb’s products, services, sales, and special offers. You can unsubscribe at any time by clicking on the unsubscribe link in each email. For more information on our use of your personal information and your rights, see our [Privacy Policy.](https://www.iherb.com/info/privacy)
+Ihre E-Mail-Adresse wird verwendet, um Ihnen Gesundheits-Newsletter und E-Mails zu Produkten, Dienstleistungen, Vertrieb und Sonderangeboten von iHerb zu senden. Sie können sich jederzeit abmelden, indem Sie auf den Abmeldelink klicken, den Sie in jeder E-Mail finden. Weitere Informationen zur Verwendung Ihrer persönlichen Daten und Ihrer Rechte finden Sie in unserer [Datenschutzrichtlinie.](https://de.iherb.com/info/privacy)
 
-This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
+Diese Website ist durch reCAPTCHA geschützt und es gelten die [Datenschutzrichtlinien](https://policies.google.com/privacy) und [Nutzungsbedingungen](https://policies.google.com/terms) von Google.
 
 * [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/facebook-logo.png)](https://www.facebook.com/iHerb)
 * [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/twitter-x-logo.png)](https://twitter.com/iherb)
 * [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/youtube-logo.png)](https://www.youtube.com/c/iherb)
 * [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/pinterest-logo.png)](http://www.pinterest.com/iherb/)
 * [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/instagram-logo.png)](http://instagram.com/iherb)
-* [![](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/logos/social-media/Tiktok-icon.png)](https://www.tiktok.com/@iherb)
 
 * MOBILE APPS
 
-![QR Code App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
+![QR-Code-App](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/cms/static/Sitefooter_download_App_QRcode_9_24_24.png)
 
 [![iHerb App on Google Play Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/google-play-badge.jpg)](https://play.google.com/store/apps/details?id=com.iherb)
 
-[![iHerb App on Apple App Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/ios_app_store_us.jpg)](https://itunes.apple.com/us/app/iherb/id636609212?mt=8)
+[![iHerb App on Apple iTune Store](https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/static/i/qr-code/ios_app_store_de.jpg)](https://itunes.apple.com/de/app/iherb/id636609212?mt=8)
 
-[iHerb.com](https://www.iherb.com/) © Copyright 1997-2024 iHerb, LLC. All rights reserved. iHerb® is a registered trademark of iHerb, LLC. \*Disclaimer: Statements made, or products sold through this website, have not been evaluated by the United States Food and Drug Administration. They are not intended to diagnose, treat, cure or prevent any disease. PLEASE NOTE that iHerb, LLC is not affiliated with or in any way or manner related to websites that are not specifically iHerb.com.  iHerb, LLC is not responsible or liable for products sold or shipped from unauthorized sources. [Read more »](https://www.iherb.com/info/disclaimer)
+[iHerb.com](https://de.iherb.com/) © Copyright 1997-2024 iHerb, LLC. Alle Rechte vorbehalten. iHerb® ist ein eingetragenes Markenzeichen von iHerb, LLC. \*Haftungsausschluss: Die auf dieser Website aufgeführten Aussagen und verkauften Produkte wurden nicht von der US-amerikanischen Food and Drug Administration geprüft. Sie eignen sich nicht zur Diagnose, Behandlung, Heilung oder Vorbeugung von Krankheiten. HINWEIS: iHerb, LLC ist in keiner Weise mit Websites verbunden, die nicht speziell iHerb.com sind. iHerb, LLC haftet nicht für Produkte, die von nicht autorisierten Seiten und Anbietern verkauft oder versandt werden. [Mehr erfahren »](https://de.iherb.com/info/disclaimer)
 
-[Privacy Policy | iHerb](https://www.iherb.com/info/privacy) [Supply Chains Act](https://www.iherb.com/info/supplychainsact) [](#)[Terms of Use | iHerb](https://www.iherb.com/info/terms-of-use) [Accessibility](https://www.iherb.com/info/accessibility) California: [Privacy](https://www.iherb.com/info/privacy#cali-notice) / [Do Not Sell or Share My Personal Information](https://secure.iherb.com/privacy/managemydata/account?origin=0)
+[Datenschutzerklärung | iHerb](https://de.iherb.com/info/privacy) [](#)[Nutzungsbedingungen | iHerb](https://de.iherb.com/info/terms-of-use) [Barrierefreie Ansicht](https://de.iherb.com/info/accessibility)
 
-Browser Upgrade Notice
+Browser-Upgrade-Benachrichtigung
 
-As part of our ongoing efforts to improve security for our customers, your current browser version will no longer be supported for iHerb starting 7/1/2018. Upgrade your existing browser using links below.
+Im Rahmen unserer fortwährenden Bemühungen, die Sicherheit für unsere Kunden zu verbessern, wird Ihre aktuelle Browserversion ab dem 1. Juli 2018 nicht mehr für iHerb unterstützt. Aktualisieren Sie Ihren vorhandenen Browser mithilfe der folgenden Links.
 
 [FireFox](https://www.mozilla.org/firefox/new/)
 
@@ -1715,4 +1689,4 @@ As part of our ongoing efforts to improve security for our customers, your curre
 
 **Remind me later**
 
-[Do not show again](https://de.iherb.com/)
+[Nicht erneut anzeigen](https://de.iherb.com/)
