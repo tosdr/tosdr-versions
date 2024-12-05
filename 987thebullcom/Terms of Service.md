@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Am I OkMegan Moroney<br><br>3:41pm |
-| Pink SkiesZach Bryan<br><br>3:37pm |
-| Thought You Should KnowMorgan Wallen<br><br>3:10pm |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>3:07pm |
-| Honey BeeBlake Shelton<br><br>3:03pm |
+| Angel EyesLove And Theft<br><br>10:39pm |
+| Where The Wild Things AreLuke Combs<br><br>10:35pm |
+| Think I'M In Love With YouChris Stapleton<br><br>10:32pm |
+| Bigger HousesDan Shay<br><br>10:20pm |
+| Wind Up Missing YouTucker Wetmore<br><br>10:17pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Sports • Midwest
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
