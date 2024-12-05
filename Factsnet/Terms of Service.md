@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Pancreatic Neuroendocrine Tumors Islet Cell Tumors ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-pancreatic-neuroendocrine-tumors-islet-cell-tumors/)
+[![30 Facts About Precursor B Lymphoblastic Leukemia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-precursor-b-lymphoblastic-leukemia/)
 
 Health Science
 
-04 Dec 2024
+05 Dec 2024
 
-[25 Facts About Pancreatic Neuroendocrine Tumors Islet Cell Tumors](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-pancreatic-neuroendocrine-tumors-islet-cell-tumors/)
+[30 Facts About Precursor B Lymphoblastic Leukemia](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-precursor-b-lymphoblastic-leukemia/)
 
-[![35 Facts About Bronze Age Ax Heads Ireland ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-bronze-age-ax-heads-ireland/)
+[![22 Facts About Mentorship Programs ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/society/22-facts-about-mentorship-programs/)
 
-Historical Events
+Society
 
-04 Dec 2024
+05 Dec 2024
 
-[35 Facts About Bronze Age Ax Heads Ireland](https://facts.net/history/historical-events/35-facts-about-bronze-age-ax-heads-ireland/)
+[22 Facts About Mentorship Programs](https://facts.net/society-and-social-sciences/society/22-facts-about-mentorship-programs/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
