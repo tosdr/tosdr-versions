@@ -5,7 +5,7 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
       
 
 New Customers Save 40% With Autoship:  
-Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
+Use Code: NEW40 (Up to $40 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
 [![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw57729b0a/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
@@ -223,16 +223,6 @@ Products Education
         ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw880ec37b/brand-oh-norman.png) ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf6e9d13c/Kaley-White.png)](https://www.1800petmeds.com/oh-norman.html) 
     
 
-* [Holiday](#)
-    
-    * [Back Holiday](#)
-    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw19423c73/holiday-menu.png "Team Godwin")
-        
-        ###### My Paws, My Cleats
-        
-        In Partnership with Team Godwin Foundation](https://www.1800petmeds.com/team-godwin.html)
-    
-
 * [Pet health resources](#)
     * [Back Pet health resources](#)
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwe901e589/Pet%20Health%20Advice.png "Advice")](https://www.1800petmeds.com/education)
@@ -424,16 +414,6 @@ Navigation [×](javascript:void(0))
         BY
         
         ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw880ec37b/brand-oh-norman.png) ![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwf6e9d13c/Kaley-White.png)](https://www.1800petmeds.com/oh-norman.html) 
-    
-
-* [Holiday](#)
-    
-    * [Back Holiday](#)
-    * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw19423c73/holiday-menu.png "Team Godwin")
-        
-        ###### My Paws, My Cleats
-        
-        In Partnership with Team Godwin Foundation](https://www.1800petmeds.com/team-godwin.html)
     
 
 * [Pet health resources](#)
