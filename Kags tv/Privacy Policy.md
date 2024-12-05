@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KARE/images/a0bde2bc-640c-4d6c-a666-45cad7f5e470/a0bde2bc-640c-4d6c-a666-45cad7f5e470_16x9.jpg) ![](https://media.kagstv.com/assets/KARE/images/a0bde2bc-640c-4d6c-a666-45cad7f5e470/a0bde2bc-640c-4d6c-a666-45cad7f5e470_360x203.jpg)](https://www.kagstv.com/article/news/local/texas/texas-tribune-copy-texas-ban-social-media-as-schools-struggle/500-1652ae11-41a3-4272-8342-b37f0e8cb5d4)
+        
+        #### [Texas weighs social media bans for minors as schools and police face challenges](https://www.kagstv.com/article/news/local/texas/texas-tribune-copy-texas-ban-social-media-as-schools-struggle/500-1652ae11-41a3-4272-8342-b37f0e8cb5d4)
+        
     *  [![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_360x203.jpg)](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
         
         #### [Three juveniles arrested for alleged vehicle burglaries in Bryan](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
-        
-    *  [![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_360x203.jpg)](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
-        
-        #### [Juvenile that escaped Brazos County Detention Center has been captured, officials say](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,9 +50,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/b90bc5da-dce6-49b2-bccd-191343867dd5/20241205T003039/b90bc5da-dce6-49b2-bccd-191343867dd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b90bc5da-dce6-49b2-bccd-191343867dd5/20241205T003039/b90bc5da-dce6-49b2-bccd-191343867dd5_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Rain back in the forecast today | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Cool weather and rain chances incoming | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     *  [![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-57°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
