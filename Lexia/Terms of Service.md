@@ -272,7 +272,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 * [Awards](https://www.lexialearning.com/why-lexia/awards)
 * [The Future of Literacy](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
 
-[Research](https://www.lexialearning.com/research/)
+[Research](https://www.lexialearning.com/Research/)
 
 * * *
 
@@ -293,7 +293,7 @@ Copyright© 2023 Lexia, a Cambium Learning Group company. All Rights Reserved.
 * [Blog Posts](https://www.lexialearning.com/resources/?resourcetype=124)
 * [Videos](https://www.lexialearning.com/resources/?resourcetype=169)
 
-[Company](https://www.lexialearning.com/company/)
+[Company](https://www.lexialearning.com/Company/)
 
 * * *
 
@@ -330,7 +330,7 @@ For product help and technical assistance.
 * [Facebook](https://www.facebook.com/lexialearning)
 * [Twitter](https://www.twitter.com/lexialearning)
 * [Linkedin](https://www.linkedin.com/company/lexia-learning-systems)
-* [YouTube](https://www.youtube.com/user/LexiaLearning)
+* [YouTube](https://www.youtube.com/user/lexialearning)
 * [Instagram](https://www.instagram.com/lexialearning/?hl=en)
 
 A Cambium Learning® Group Brand
