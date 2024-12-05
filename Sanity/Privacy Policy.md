@@ -247,8 +247,11 @@ _Manage Your Cookie Settings_
 Browser manufacturers provide help pages relating to cookie management in their products. Please see the links below for more information about how to manage your cookie settings:
 
 * [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+    
 * [Internet Explorer](https://support.microsoft.com/en-us/topic/description-of-cookies-ad01aa7e-66c9-8ab2-7898-6652c100999d)
+    
 * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+    
 
 For other browsers, please consult the documentation that your browser manufacturer provides. You can opt out of interest-based targeting provided by participating ad servers through the Digital Advertising Alliance (https://optout.aboutads.info/). In addition, on your device, you can change your device settings to control whether you see online interest-based ads.
 
@@ -271,21 +274,37 @@ Sanity also offers a free newsletter service. In its newsletter, Sanity informs 
 Sanity processes your personal data as described in this Privacy Policy for the following purposes:
 
 * To provide services and information to our Customers
+    
 * To handle inquiries and requests from our Customers
+    
 * To create and administer records about an account that you register with us
+    
 * To give our Customers information and updates about their orders.
+    
 * To provide access to resources and information that you have requested from us
+    
 * To provide you with technical support based on your individual needs
+    
 * To improve our website, like the navigation and content of our sites
+    
 * For website and system administration and security
+    
 * To process transactions from our Customers
+    
 * To fulfil our legal obligations regarding financial transactions
+    
 * For general business purposes, including improving customer service
+    
 * To help us improve the content and functionality of the Sanity Services
+    
 * To deidentify you before posting your feedback about the Sanity Services on our website
+    
 * To better understand our users and protect against wrongdoing
+    
 * To enforce our Terms of Service, and to generally manage our business
+    
 * For recruitment purposes, if you apply for a job at Sanity
+    
 
 **2.2. Third Parties/Service Providers We Share Personal Data With**
 
@@ -363,9 +382,13 @@ _Legal Bases for Processing Personal Data_
 If you are an individual located in the European Union (EU), European Economic Area (EEA) or United Kingdom (UK), we collect and process Personal Data about you where we have a legal basis for doing so under the General Data Protection Regulation (GDPR) and UK GDPR, where “Personal Data” has the definition set forth in the GDPR and UK GDPR. This means we collect and process your Personal Data only when:
 
 * it is necessary for a legitimate interest (which is not overridden by your individual privacy interests),
+    
 * you have consented to this collection and processing for a specific purpose;
+    
 * it is necessary to fulfil our contractual obligations; or
+    
 * it is necessary to comply with a legal obligation.
+    
 
 Where we rely on your consent to process your Personal Data, you have the right to withdraw or decline consent at any time.
 
@@ -403,7 +426,9 @@ To exercise your rights under applicable data protection law, please submit a re
 Only you or an authorized agent may make a verifiable consumer request. You may only make a verifiable consumer request for access twice within a 12-month period. The request must:
 
 * Provide sufficient information that allows us to reasonably verify you are the person about whom we collected Personal Information/Personal Data or an authorized representative of that person; and
+    
 * Describe your request with sufficient detail that allows us to properly understand, evaluate and respond to it.
+    
 
 We must verify your identity before fulfilling your requests. If we cannot initially verify your identity, we may request additional information to complete the verification process. We will only use Personal Information/Personal Data provided in a request to verify the requestor’s identity. If you are an authorized agent making a request on someone else’s behalf, we will also need to verify your identity, which may require proof of your written authorization or evidence of a power of attorney.
 
