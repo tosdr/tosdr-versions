@@ -325,7 +325,7 @@ Subscribe Now
 Latest Magazine Issue
 ---------------------
 
-[![Visionaries Colman Domingo Cover](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/11/FC_OS_RB_112524-1.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_643157)
+[![](https://i0.wp.com/www.thewrap.com/wp-content/uploads/2024/11/SN_COVER_IR2_X.jpg?fit=250%2C300&ssl=1)](https://view.flipdocs.com/?ID=10004691_161651)
 
 TheWrap
 -------
