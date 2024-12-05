@@ -308,7 +308,7 @@ Search Search Close
     * [Accreditation](https://www.waldenu.edu/about/accreditation)
     * [Testimonials](https://www.waldenu.edu/why-walden/testimonials)
 
-      ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
+      ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=C0cxmIm0)
 
 ### Ready to get started?
 
@@ -773,7 +773,7 @@ Call Us: [**8556465286**](tel:8556465286)
     
     Search Search Close 
     
-          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
+          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=C0cxmIm0)
     
     ### Ready to get started?
     
@@ -797,7 +797,7 @@ Call Us: [**8556465286**](tel:8556465286)
     
     Search Search Close 
     
-          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/financing_graphic_0.png?itok=dIwycUBW)
+          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/financing_graphic_0.png?itok=fE9Hkw0E)
     
     ### We’re Here to Help
     
@@ -821,7 +821,7 @@ Call Us: [**8556465286**](tel:8556465286)
     
     Search Search Close 
     
-          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=30C4sPl6)
+          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/programs-admission_graphic_1.png?itok=C0cxmIm0)
     
     ### Take the Next Step
     
@@ -848,7 +848,7 @@ Call Us: [**8556465286**](tel:8556465286)
     
     Search Search Close 
     
-          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/why-walden_graphic_0.png?itok=_OHqLFYj)
+          ![""](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-02/why-walden_graphic_0.png?itok=u3Kxqhym)
     
     ### Set Your Course
     
@@ -943,7 +943,7 @@ Related Information
 
 ![w background](/themes/custom/wal_base_2024/images/W.png)
 
-      ![Walden University logo](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-07/wu_global_footer_384x384.png?itok=HMY8CArZ)
+      ![Walden University logo](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-07/wu_global_footer_384x384.png?itok=E0DwB6EO)
 
 [Request Information](https://www.waldenu.edu/request-info)
 
@@ -984,7 +984,7 @@ Related Information
     * [Join a Local Chapter](https://alumni.waldenu.edu/alumni-chapters)
     * [Upcoming Alumni Events](https://alumni.waldenu.edu/events)
 
-### Secondary Footer Navigation
+Secondary Footer Navigation
 
 * [Catalog](https://academics.waldenu.edu/catalog)
 * [Legal & Consumer Info](https://www.waldenu.edu/legal)
@@ -1005,7 +1005,7 @@ Related Information
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| ![FPO HLC](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/hlc.png?itok=KAm717na) | ![FPO CCNE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ccne.png?itok=ZAF-CX9q) | ![FPO CSWE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/cswe.png?itok=kjmk9JEv) | ![FPO CACREP](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/CACREP.png?itok=jp25neQH) | ![FPO CEPH](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ceph.png?itok=vYk30YrM) |
+| ![FPO HLC](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/hlc.png?itok=NrtqNEFR) | ![FPO CCNE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ccne.png?itok=CpTLBUxF) | ![FPO CSWE](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/cswe.png?itok=5m_OEX5H) | ![FPO CACREP](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/CACREP.png?itok=5EwFtq-s) | ![FPO CEPH](/sites/g/files/krcnkv446/files/styles/atge_default_md/public/2024-05/ceph.png?itok=OK0ERxQN) |
 
 * [8556465286 8556465286](tel:8556465286 "Call us")
 
