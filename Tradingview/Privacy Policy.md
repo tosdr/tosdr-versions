@@ -13,7 +13,7 @@ Search
 
 EN 
 
-[Cyber Monday saleUp to 70% OFF](https://www.tradingview.com/black-friday/)
+[Get started](https://www.tradingview.com/pricing/?source=header_go_pro_button&feature=start_free_trial)
 
 Privacy Policy
 ==============
