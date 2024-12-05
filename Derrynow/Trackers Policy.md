@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-04 Dec 2024
+05 Dec 2024
 
 * [Home
     
@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![All-Ireland minor winner hangs up football boots after signing to LA record label](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "All-Ireland minor winner hangs up football boots after signing to LA record label")](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
-
-Lee Brady has hung up his football boots in a bid to pursue his music career.
-
-[Home](https://www.derrynow.com/)
-
-[All-Ireland minor winner hangs up football boots after signing to LA record label](https://www.derrynow.com/news/home/1671218/all-ireland-minor-winner-hangs-up-football-boots-after-signing-to-la-record-label.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: North West Cricket Union annual presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: North West Cricket Union annual presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671148/in-pictures-north-west-cricket-union-annual-presentations.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -289,6 +280,13 @@ Lee Brady has hung up his football boots in a bid to pursue his music career.
 [Derry Death Notices - Wednesday, December 4, 2024](https://www.derrynow.com/news/deaths/1672019/derry-death-notices-wednesday-december-4-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry brothers launch new 'home care' business venture](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry brothers launch new 'home care' business venture")](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
+
+[Business](https://www.derrynow.com/section/1339/business)
+
+[Derry brothers launch new 'home care' business venture](https://www.derrynow.com/news/business/1672987/derry-brothers-launch-new-home-care-business-venture.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man who has spent every Christmas for past 11 years in custody remanded](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who has spent every Christmas for past 11 years in custody remanded")](https://www.derrynow.com/news/local-news/1672629/man-who-has-spent-every-christmas-for-past-11-years-in-custody-remanded.html)
 
 Derry courthouse
@@ -307,6 +305,20 @@ Derry Magistrates' Court
 [Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Two men wanted in Italy to serve prison sentences arrested in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man who told police officer 'you should not be in this country' fined](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who told police officer 'you should not be in this country' fined")](https://www.derrynow.com/news/local-news/1672554/man-who-told-police-officer-you-should-not-be-in-this-country-fined.html)
 
 Derry Magistrate's Court
@@ -323,27 +335,18 @@ Derry Magistrate's Court
 [Police in Derry charge 36-year-old man to court in connection with drug-related offences](https://www.derrynow.com/news/local-news/1672412/police-in-derry-charge-36-year-old-man-to-court-in-connection-with-drug-related-offences.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry search in relation to illegal money laundering](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Street (Credit: Northern Ireland Water - Facebook)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Foyle Street (Credit: Northern Ireland Water - Facebook)")](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
-
-Foyle Street (Credit: Northern Ireland Water - Facebook)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Foyle Street to reopen on Friday December 6](https://www.derrynow.com/news/derry-news/1672476/foyle-street-to-reopen-on-friday-december-6.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore")](https://www.derrynow.com/story-telling/pictures---videos/1671657/in-pictures-reception-for-newly-appointed-ni-honorary-consul-to-ukraine-alan-moore.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore](https://www.derrynow.com/story-telling/pictures---videos/1671657/in-pictures-reception-for-newly-appointed-ni-honorary-consul-to-ukraine-alan-moore.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
 
@@ -407,13 +410,6 @@ Multimedia
 
 [IN PICTURES: Bishop Street Community Centre Christmas Family Fun Day](https://www.derrynow.com/story-telling/pictures---videos/1671595/in-pictures-bishop-street-community-centre-christmas-family-fun-day.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About @ Fallaghloon Hall’s 25th Anniversary (2014)](https://www.derrynow.com/story-telling/pictures---videos/1671009/throwback-tuesday-out-and-about-fallaghloon-halls-25th-anniversary-2014.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +513,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Keeper Arlo Doherty pens long-term Derry City deal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Keeper Arlo Doherty pens long-term Derry City deal")](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
+
+Derry City goalkeeper Arlo Doherty has signed a long term deal with the Candystripes. (PHOTO: Ramsey Cardy/Sportsfile)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Keeper Arlo Doherty pens long-term Derry City deal](https://www.derrynow.com/news/derry-sport/1673039/keeper-arlo-doherty-pens-long-term-derry-city-deal.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Two men wanted in Italy to serve prison sentences arrested in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two men wanted in Italy to serve prison sentences arrested in Derry")](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -524,7 +529,7 @@ Advertise with Us
 [Two men wanted in Italy to serve prison sentences arrested in Derry](https://www.derrynow.com/news/local-news/1673101/two-men-wanted-in-italy-to-serve-prison-sentences-arrested-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry search in relation to illegal money laundering](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
+[![Derry search in relation to illegal money laundering](https://www.derrynow.com/resizer/165/93/true/2024_12_04/PSNI_Derry-1733330850832.jpg--.jpg?1733330850862 "Derry search in relation to illegal money laundering")](https://www.derrynow.com/news/local-news/1672977/derry-search-in-relation-to-illegal-money-laundering.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,13 +560,6 @@ Derry Magistrates' Court
 
 [Derry man who damaged apartment block door fined](https://www.derrynow.com/news/local-news/1672677/derry-man-who-damaged-apartment-block-door-fined.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Exciting two-year initiative cricket initiative launched](https://www.derrynow.com/resizer/165/93/true/2024_12_02/Peaceplus_group_photos_-__11_FIXED2_30301243-1733156742586.jpg--.jpg?1733156749438 "Exciting two-year initiative cricket initiative launched")](https://www.derrynow.com/news/derry-sport/1671104/exciting-two-year-cricket-initiative-launched-in-derry.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Exciting two-year cricket initiative launched in Derry](https://www.derrynow.com/news/derry-sport/1671104/exciting-two-year-cricket-initiative-launched-in-derry.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
