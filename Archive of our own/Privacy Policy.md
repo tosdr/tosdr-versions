@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: katekyou "alternate universe" sort:>words 
+* Work Search  tip: words:100 
     
 
 Terms of Service
