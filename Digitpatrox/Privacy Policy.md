@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, December 4 2024
+Thursday, December 5 2024
 
 Latest
 
-* [GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
-* [All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
-* [New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
-* [How to upgrade Windows 10 PC without TPM or Secure Boot to Windows 11](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
-* [GM and EVgo Just Hit a Big Milestone With EV Chargers](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
-* [How to check the Microsoft Edge version you’re using](https://digitpatrox.com/how-to-check-the-microsoft-edge-version-youre-using/)
-* [Alder Hey Children’s Hospital confirms hackers gained access to patient data through digital gateway service](https://digitpatrox.com/alder-hey-childrens-hospital-confirms-hackers-gained-access-to-patient-data-through-digital-gateway-service/)
-* [Are Long-Lived Credentials the New Achilles’ Heel for Cloud Security?](https://digitpatrox.com/are-long-lived-credentials-the-new-achilles-heel-for-cloud-security/)
-* [OpenAI announces ’12 days of OpenAI’ with a new product or model every day](https://digitpatrox.com/openai-announces-12-days-of-openai-with-a-new-product-or-model-every-day/)
-* [Japan warns of IO-Data zero-day router flaws exploited in attacks](https://digitpatrox.com/japan-warns-of-io-data-zero-day-router-flaws-exploited-in-attacks/)
+* [Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
+* [Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
+* [I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
+* [8 Ways to Make Your PowerPoint Presentation Accessible to All](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
+* [How to open Photos in Windows (9 ways)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
+* [US energy contractor ENGlobal reveals ransomware attack](https://digitpatrox.com/us-energy-contractor-englobal-reveals-ransomware-attack/)
+* [7 Real Estate Marketing Calendar Templates \[Free & Paid\]](https://digitpatrox.com/7-real-estate-marketing-calendar-templates-free-paid/)
+* [Win! Best PS5 accessory deals I’d get right now](https://digitpatrox.com/win-best-ps5-accessory-deals-id-get-right-now/)
+* [FBI shares tips on how to tackle AI-powered fraud schemes](https://digitpatrox.com/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
+* [Peloton’s new audio-based app is like an invisible strength coach](https://digitpatrox.com/pelotons-new-audio-based-app-is-like-an-invisible-strength-coach/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617281-0-72223200-1733332147-exit_stairs_termination_fired-from-job_demotion_downhill-slide_yuvraj-singh-via-unsplash-100759065-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/ZuJetzHeasdfeKBru6ZW4W-1200-80.jpg)](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
     
-    [GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
+    [Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
     
-    13 minutes ago
+    46 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JE8G1J7FVDHY1V23QG50T80F/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
+* [![](https://us.resources.computerworld.com/wp-content/uploads/2024/11/default_image1731963795.4973.png)](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
     
-    [All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
+    [Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
     
-    41 minutes ago
+    1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/New-River-Electrical-notifies-10K-people-of-data-breach.jpg)](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
+* [![](https://lifehacker.com/imagery/articles/01JDAXXYCE5JAQHRKNX9ECG2G0/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
     
-    [New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
+    [I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
     
-    47 minutes ago
+    2 hours ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/12/windows-10-upgrade-no-tpm-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-powerpoint-presentation-with-some-accessibility-icons.jpg)](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
     
-    [How to upgrade Windows 10 PC without TPM or Secure Boot to Windows 11](https://digitpatrox.com/how-to-upgrade-windows-10-pc-without-tpm-or-secure-boot-to-windows-11/)
+    [8 Ways to Make Your PowerPoint Presentation Accessible to All](https://digitpatrox.com/8-ways-to-make-your-powerpoint-presentation-accessible-to-all/)
     
-    48 minutes ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/190.jpg)](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2022/01/win_photos_app.jpg)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
     
-    [GM and EVgo Just Hit a Big Milestone With EV Chargers](https://digitpatrox.com/gm-and-evgo-just-hit-a-big-milestone-with-ev-chargers/)
+    [How to open Photos in Windows (9 ways)](https://digitpatrox.com/how-to-open-photos-in-windows-9-ways/)
     
-    52 minutes ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [13 minutes ago
+* [46 minutes ago
     
-    ### GenAI is affecting jobs previously thought safe from automation – Computerworld](https://digitpatrox.com/genai-is-affecting-jobs-previously-thought-safe-from-automation-computerworld/)
-* [41 minutes ago
+    ### Microsoft hit with £1 billion lawsuit over claims it’s “punishing UK businesses” for using competitor cloud services](https://digitpatrox.com/microsoft-hit-with-1-billion-lawsuit-over-claims-its-punishing-uk-businesses-for-using-competitor-cloud-services/)
+* [1 hour ago
     
-    ### All the Gardening Tasks You Should Do in December](https://digitpatrox.com/all-the-gardening-tasks-you-should-do-in-december/)
-* [47 minutes ago
+    ### Download our Excel PivotTables and PivotCharts Cheat Sheet](https://digitpatrox.com/download-our-excel-pivottables-and-pivotcharts-cheat-sheet/)
+* [2 hours ago
     
-    ### New River Electrical notifies 10K people of data breach claimed by ransomware gang](https://digitpatrox.com/new-river-electrical-notifies-10k-people-of-data-breach-claimed-by-ransomware-gang/)
+    ### I’m a Tech Writer, and These Are My Favorite Extender Cyber Monday Laptop Sales](https://digitpatrox.com/im-a-tech-writer-and-these-are-my-favorite-extender-cyber-monday-laptop-sales/)
 
 Most Popular Topics
 
-* [August 20, 2024
+* [October 30, 2024
     
-    ### Microsoft Will Pay You to Use Bing: Here's How My Attempt to Cash-in Went](https://digitpatrox.com/microsoft-will-pay-you-to-use-bing-heres-how-my-attempt-to-cash-in-went/)
-* [August 13, 2024
+    ### How to show file extensions on Windows 11](https://digitpatrox.com/how-to-show-file-extensions-on-windows-11/)
+* [3 weeks ago
     
-    ### Google Pixel Watch 3: release date, price, and how to buy](https://digitpatrox.com/google-pixel-watch-3-release-date-price-and-how-to-buy/)
-* [September 4, 2024
+    ### NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
+* [October 5, 2024
     
-    ### OpenAI might use Apple’s TSMC for chips – Computerworld](https://digitpatrox.com/openai-might-use-apples-tsmc-for-chips-computerworld/)
+    ### Intel says its Raptor Lake crashing chip nightmare is over](https://digitpatrox.com/intel-says-its-raptor-lake-crashing-chip-nightmare-is-over/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Alder Hey Children’s Hospital confirms hackers gained access to patient data through digital gateway service](https://digitpatrox.com/alder-hey-childrens-hospital-confirms-hackers-gained-access-to-patient-data-through-digital-gateway-service/)
-* [2 hours ago
+    ### 7 Real Estate Marketing Calendar Templates \[Free & Paid\]](https://digitpatrox.com/7-real-estate-marketing-calendar-templates-free-paid/)
+* [3 hours ago
     
-    ### Are Long-Lived Credentials the New Achilles’ Heel for Cloud Security?](https://digitpatrox.com/are-long-lived-credentials-the-new-achilles-heel-for-cloud-security/)
-* [2 hours ago
+    ### Win! Best PS5 accessory deals I’d get right now](https://digitpatrox.com/win-best-ps5-accessory-deals-id-get-right-now/)
+* [4 hours ago
     
-    ### OpenAI announces ’12 days of OpenAI’ with a new product or model every day](https://digitpatrox.com/openai-announces-12-days-of-openai-with-a-new-product-or-model-every-day/)
+    ### FBI shares tips on how to tackle AI-powered fraud schemes](https://digitpatrox.com/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
