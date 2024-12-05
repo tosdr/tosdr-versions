@@ -452,10 +452,10 @@ Log in to order, manage your products and services, and track your orders.
             
         * Identity, Security & Operations Discover all our Identity, Security & Operations products
             
-            * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security/identity-access-management/) Secure your access management and improve your productivity
+            * [Identity and Access Management (IAM)](https://www.ovhcloud.com/en-ie/identity-security-operations/identity-access-management/) Secure your access management and improve your productivity
             * [Logs Data Platform](https://www.ovhcloud.com/en-ie/identity-security-operations/logs-data-platform/) Complete platform to collect, store and view your logs
+            * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security-operations/key-management-service/) Secure your data across all your OVHcloud services from one place
             * [Services Logs](https://www.ovhcloud.com/en-ie/identity-security-operations/service-logs/) Monitor the performance and security of your cloud environment
-            * [Key Management Service (KMS)](https://www.ovhcloud.com/en-ie/identity-security/key-management-service/) Secure your data across all your OVHcloud services from one place
 * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
     * Back to menu
     * [Hosted Private Cloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/)
