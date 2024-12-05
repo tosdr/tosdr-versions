@@ -111,25 +111,25 @@ Most recent
 
 [05-12-2024
 
+EU-supported NGOs push back on new lobbying restrictions](https://www.euractiv.com/section/eet/news/eu-supported-ngos-push-back-on-new-lobbying-restrictions/)[05-12-2024
+
+First wolves, now bears: EPP eyes further changes to nature protection](https://www.euractiv.com/section/eet/news/first-wolves-now-bears-epp-eyes-further-changes-to-nature-protection/)[05-12-2024
+
+MEPs clash over rejected smoke-free environments resolution](https://www.euractiv.com/section/health-consumers/news/meps-clash-over-rejected-smoke-free-environments-resolution/)[05-12-2024
+
+Inside the Commission’s first 100 days](https://www.euractiv.com/section/politics/news/inside-the-commissions-first-100-days/)[05-12-2024
+
+EPP internal draft unveils migration plans for new Commission](https://www.euractiv.com/section/politics/news/epp-internal-draft-unveils-migration-plans-for-new-commission/)[05-12-2024
+
+New defence commissioner teases much-expected future White Paper](https://www.euractiv.com/section/global-europe/news/new-defence-commissioner-teases-much-expected-future-white-paper/)[05-12-2024
+
+UK competition authority approves telecom merger, setting key precedent for EU merger reviews](https://www.euractiv.com/section/tech/news/uk-competition-authority-approves-telecom-merger-setting-key-precedent-for-eu-merger-reviews/)[05-12-2024
+
+French farmers call for civil disobedience against political instability, Mercosur deal](https://www.euractiv.com/section/agriculture-food/news/french-farmers-call-for-civil-disobedience-against-political-instability-mercosur-deal/)[05-12-2024
+
 WHO to investigate unknown disease in Democratic Republic of Congo](https://www.euractiv.com/section/health-consumers/news/who-to-investigate-unknown-disease-in-democratic-republic-of-congo/)[05-12-2024
 
-Commission orders TikTok to retain data related to elections in EU until March](https://www.euractiv.com/section/tech/news/commission-orders-tiktok-to-retain-data-related-to-elections-in-eu-until-march/)[05-12-2024
-
-EU-Mercosur deal ‘in sight’ as von der Leyen lands in Montevideo](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-deal-in-sight-as-von-der-leyen-lands-in-montevideo/)[05-12-2024
-
-NGO calls for sales ban on Norwegian salmon in Germany](https://www.euractiv.com/section/agriculture-food/news/ngo-calls-for-sales-ban-on-norwegian-salmon-in-germany/)[05-12-2024
-
-China automakers pivot to hybrids for Europe to counter EV tariffs](https://www.euractiv.com/section/eet/news/china-automakers-pivot-to-hybrids-for-europe-to-counter-ev-tariffs/)[05-12-2024
-
-EU should regulate land speculators of 4G, 5G antennas, towerco industry says](https://www.euractiv.com/section/tech/news/eu-should-regulate-land-speculators-of-4g-5g-antennas-towerco-industry-says/)[05-12-2024
-
-Bitcoin storms above $100,000 as bets on Trump fuel crypto euphoria](https://www.euractiv.com/section/economy-jobs/news/bitcoin-storms-above-100000-as-bets-on-trump-fuel-crypto-euphoria/)[05-12-2024
-
-Azerbaijan denounces Western criticism of human rights as foreign interference](https://www.euractiv.com/section/global-europe/news/azerbaijan-denounces-western-criticism-of-human-rights-as-foreign-interference/)[05-12-2024
-
-US, Britain disrupt global money laundering network used by Russians](https://www.euractiv.com/section/global-europe/news/us-britain-disrupt-global-money-laundering-network-used-by-russians/)[05-12-2024
-
-Slovakia doubts Ukraine military victory, communication channels with ‘nuclear’ Russia needed](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-doubts-ukraine-military-victory-communication-channels-with-nuclear-russia-needed/)
+Commission orders TikTok to retain data related to elections in EU until March](https://www.euractiv.com/section/tech/news/commission-orders-tiktok-to-retain-data-related-to-elections-in-eu-until-march/)
 
 ###### Advertisement
 
