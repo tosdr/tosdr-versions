@@ -261,8 +261,10 @@ YouTube[youtube](https://www.youtube.com/@codeiumdev)
 
 ### Company
 
-### Support
-
 * [Community](https://discord.gg/3XFf78nAx5)
+
+### Resources
+
+* [Docs](https://docs.codeium.com/)
 
 © 2024 Exafunction, Inc. All rights reserved.
