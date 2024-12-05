@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Wunder­sames aus dem Prüf­labor: Planschtest-Dummy](https://www.test.de/Wundersames-aus-dem-Prueflabor-Planschtest-Dummy-6119764-0/ "Wundersames aus dem Prüflabor - Planschtest-Dummy")
+* [Geldmarkt-Portfolio und Zins­Invest: Gute Idee, aber zu teuer](https://www.test.de/Geldmarkt-Portfolio-und-ZinsInvest-Die-Idee-ist-gut-aber-zu-teuer-5996542-0/ "Geldmarkt-Portfolio und ZinsInvest - Gute Idee, aber zu teuer")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [UV-Patches im Test: Achtung, Sonnenbrand! So verläss­lich sind UV-Warn-Sticker wirk­lich](https://www.test.de/UV-Patches-im-Test-Achtung-Sonnenbrand-So-verlaesslich-sind-UV-Warn-Sticker-wirklich-6105870-0/ "UV-Patches im Test - Achtung, Sonnenbrand! So verlässlich sind UV-Warn-Sticker wirklich")
+* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
+* [iShares Global Clean Energy: Rück­schläge für grüne Energien](https://www.test.de/iShares-Global-Clean-Energy-Rueckschlaege-fuer-gruene-Energien-6062471-0/ "iShares Global Clean Energy - Rückschläge für grüne Energien")
 
 Stiftung Warentest
 
