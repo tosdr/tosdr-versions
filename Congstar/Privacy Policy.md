@@ -35,7 +35,6 @@
     
     * [Tarife mit Vertrag](#)
         * [Tarife im Vergleich](https://www.congstar.de/handytarife/smartphone-tarife-im-vergleich/)
-        * [congstar X (200 GB)](https://www.congstar.de/congstar-x/)
         * [Allnet Flat L (55 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-l/)
         * [Allnet Flat M (35 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-m/)
         * [Allnet Flat S Extra (15 GB)](https://www.congstar.de/handytarife/allnet-flat-tarife/allnet-flat-s-extra/)
@@ -44,7 +43,7 @@
     
     * [Prepaid](#)
         * [Prepaid-Tarife im Vergleich](https://www.congstar.de/prepaid/)
-        * [Prepaid Jahrespaket (120 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
+        * [Prepaid Jahrespaket (140 GB/Jahr)](https://www.congstar.de/prepaid/tarife/prepaid-jahrespaket/)
         * [Prepaid Allnet XL (20 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-xl/)
         * [Prepaid Allnet L (15 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-l/)
         * [Prepaid Allnet M (10 GB)](https://www.congstar.de/prepaid/tarife/prepaid-allnet-m/)
@@ -100,10 +99,10 @@
         * [congstar Zuhause 100 Flex](https://www.congstar.de/internet/dsl/congstar-zuhause-100-flex/)
     
     * [Internet über LTE](#)
-        * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/congstar-homespot-im-vergleich/)
-        * [Homespot 200](https://www.congstar.de/internet/homespot/homespot-200/)
-        * [Homespot 100](https://www.congstar.de/internet/homespot/homespot-100/)
-        * [Homespot 30](https://www.congstar.de/internet/homespot/homespot-30/)
+        * [Homespot Tarife im Vergleich](https://www.congstar.de/internet/homespot/)
+        * [Homespot L (300 GB)](https://www.congstar.de/internet/homespot/homespot-l/)
+        * [Homespot M (150 GB)](https://www.congstar.de/internet/homespot/homespot-m/)
+        * [Homespot S (50 GB)](https://www.congstar.de/internet/homespot/homespot-s/)
     
 * [Hilfe & Service](https://www.congstar.de/hilfe-service/)
     
@@ -203,35 +202,6 @@ Downloads
 * [Datenschutzhinweise für das congstar Zuhause Leuchtturm-Gewinnspiel](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_Marketing_Consent_Leuchtturm_Gewinnspiel_August2024.pdf)  
      
 * [Wer oder was ist Utiq?](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_wer_oder_was_ist_utiq.pdf)
-
-Besser einkaufen
-
-Besser  
-einkaufen
-
-Mit echten Kundenbewertungen. [Details](https://www.trustedshops.de/bewertung/info_XD26E745AE43067B35326C90037A8D917.html&utm_source=shop&utm_medium=link&utm_content=trustcard&utm_campaign=trustbadge)
-
-Komfortable Finanzierung
-
-Komfortable  
-Finanzierung
-
-Auf Wunsch in 24 monatlichen Raten zahlen
-
-Sicherer Versand
-
-Sicherer & CO2-neutraler Versand
-
-Schneller, sicherer und klimaneutraler Versand mit GoGreen der Deutschen Post und DHL
-
-Kostenlose Rückgabe
-
-Kostenlose  
-Rückgabe
-
-14 Tage [Widerrufsrecht](https://www.congstar.de/widerruf/)
-
-* * *
 
 * [congstar Shop](https://www.congstar.de/)
 * [Lieferung & Zahlung](https://www.congstar.de/verbraucherinformation/#lieferung)
