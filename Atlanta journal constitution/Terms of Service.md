@@ -1,5 +1,7 @@
 error: no ad slot id exists: undefined
 
+[Breaking: Atlanta police shoot, kill man armed with knife on I-75, chief says](https://www.ajc.com/news/crime/i-75-south-closed-for-hours-amid-officer-involved-shooting-investigation/AZQHACDFRZBO3HLUU3PLX6MNWA/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
 
 Log In
@@ -16,6 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-a-healthy-harvest/ZKLRMA6NKRC4BA5FMTJWSHQJHQ/)
 * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
