@@ -22,7 +22,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)
 [**Euractiv Pro**  
 For policy professionals](https://www.euractiv.com/euractiv-pro)
 
-[The Capitals](https://www.euractiv.com/sections/the-capitals/)[Economy](https://www.euractiv.com/sections/economy-jobs/)[Politics](https://www.euractiv.com/sections/politics/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/)[Ukraine](https://www.euractiv.com/topics/ukraine0/) | [Newsletters](https://www.euractiv.com/newsletters/)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Advocacy Lab](https://www.euractiv.com/content_providers/euractivs-advocacy-lab/)
+[The Capitals](https://www.euractiv.com/sections/the-capitals/)[Economy](https://www.euractiv.com/sections/economy-jobs/)[Politics](https://www.euractiv.com/sections/politics/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/) | [Newsletters](https://www.euractiv.com/newsletters/)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Advocacy Lab](https://www.euractiv.com/content_providers/euractivs-advocacy-lab/)
 
 ![Logo](https://www.euractiv.com/wp-content/themes/euractiv-2024/logo.png)  [×](javascript:void(0))
 
@@ -36,7 +36,7 @@ For corporations](https://www.euractiv.com/euractiv-pro)
 
 Login My account
 
-[The Capitals](https://www.euractiv.com/sections/the-capitals/) [Economy](https://www.euractiv.com/sections/economy-jobs/) [Politics](https://www.euractiv.com/sections/politics/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/topics/enlargement0/) [Ukraine](https://www.euractiv.com/topics/ukraine0/)
+[The Capitals](https://www.euractiv.com/sections/the-capitals/) [Economy](https://www.euractiv.com/sections/economy-jobs/) [Politics](https://www.euractiv.com/sections/politics/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/topics/enlargement0/)
 
 [Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/tech) [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 
@@ -111,25 +111,25 @@ Most recent
 
 [05-12-2024
 
+WHO to investigate unknown disease in Democratic Republic of Congo](https://www.euractiv.com/section/health-consumers/news/who-to-investigate-unknown-disease-in-democratic-republic-of-congo/)[05-12-2024
+
+Commission orders TikTok to retain data related to elections in EU until March](https://www.euractiv.com/section/tech/news/commission-orders-tiktok-to-retain-data-related-to-elections-in-eu-until-march/)[05-12-2024
+
+EU-Mercosur deal ‘in sight’ as von der Leyen lands in Montevideo](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-deal-in-sight-as-von-der-leyen-lands-in-montevideo/)[05-12-2024
+
+NGO calls for sales ban on Norwegian salmon in Germany](https://www.euractiv.com/section/agriculture-food/news/ngo-calls-for-sales-ban-on-norwegian-salmon-in-germany/)[05-12-2024
+
+China automakers pivot to hybrids for Europe to counter EV tariffs](https://www.euractiv.com/section/eet/news/china-automakers-pivot-to-hybrids-for-europe-to-counter-ev-tariffs/)[05-12-2024
+
+EU should regulate land speculators of 4G, 5G antennas, towerco industry says](https://www.euractiv.com/section/tech/news/eu-should-regulate-land-speculators-of-4g-5g-antennas-towerco-industry-says/)[05-12-2024
+
 Bitcoin storms above $100,000 as bets on Trump fuel crypto euphoria](https://www.euractiv.com/section/economy-jobs/news/bitcoin-storms-above-100000-as-bets-on-trump-fuel-crypto-euphoria/)[05-12-2024
 
 Azerbaijan denounces Western criticism of human rights as foreign interference](https://www.euractiv.com/section/global-europe/news/azerbaijan-denounces-western-criticism-of-human-rights-as-foreign-interference/)[05-12-2024
 
 US, Britain disrupt global money laundering network used by Russians](https://www.euractiv.com/section/global-europe/news/us-britain-disrupt-global-money-laundering-network-used-by-russians/)[05-12-2024
 
-Slovakia doubts Ukraine military victory, communication channels with ‘nuclear’ Russia needed](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-doubts-ukraine-military-victory-communication-channels-with-nuclear-russia-needed/)[05-12-2024
-
-Czechs see Russian ‘games’ after Moscow halts oil supply](https://www.euractiv.com/section/politics/news/czechs-see-russian-games-after-moscow-halts-oil-supply/)[05-12-2024
-
-Polish MEP Jarubas likely to become head of new health committee](https://www.euractiv.com/section/politics/news/polish-mep-jarubas-likely-to-become-head-of-new-health-committee/)[05-12-2024
-
-Portuguese mayors urge Spain to press ahead with high-speed rail works](https://www.euractiv.com/section/politics/news/portuguese-mayors-urge-spain-to-press-ahead-with-high-speed-rail-works/)[05-12-2024
-
-Investigation into irregular party funding widened against SALF’s Pérez](https://www.euractiv.com/section/politics/news/investigation-into-irregular-party-funding-widened-against-salfs-perez/)[05-12-2024
-
-Meloni and Orbán strengthen ties amid growing European challenges](https://www.euractiv.com/section/politics/news/meloni-and-orban-strengthen-ties-amid-growing-european-challenges/)[05-12-2024
-
-Russian warship fires on German helicopter as tensions in Baltic Sea rise](https://www.euractiv.com/section/politics/news/russian-warship-fires-on-german-helicopter-as-tensions-in-baltic-sea-rise/)
+Slovakia doubts Ukraine military victory, communication channels with ‘nuclear’ Russia needed](https://www.euractiv.com/section/politics/news/the-capitals-slovakia-doubts-ukraine-military-victory-communication-channels-with-nuclear-russia-needed/)
 
 ###### Advertisement
 
