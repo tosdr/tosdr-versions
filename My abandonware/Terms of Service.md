@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Googol Math Games](https://www.myabandonware.com/game/googol-math-games-tfe)
+* [Cheezi](https://www.myabandonware.com/game/cheezi-tfd)
+* [Star Assault](https://www.myabandonware.com/game/star-assault-tdr)
 * [Hello Kitty: Big Fun Deluxe](https://www.myabandonware.com/game/hello-kitty-big-fun-deluxe-u0h)
 * [Hello Kitty: Roller Rescue](https://www.myabandonware.com/game/hello-kitty-roller-rescue-sah)
-* [Starship Conquer](https://www.myabandonware.com/game/starship-conquer-tdq)
-* [Knight Moves](https://www.myabandonware.com/game/knight-moves-tdn)
-* [Kaiser: Das Erbe](https://www.myabandonware.com/game/kaiser-das-erbe-tdm)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
