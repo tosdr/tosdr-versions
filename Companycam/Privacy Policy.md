@@ -250,13 +250,13 @@ Submit
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
+        
+        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_October-Craft.png?auto=format&w=280)
         
         [How to Become a CompanyCam Power User](https://companycam.com/classes/how-to-become-a-companycam-power-user)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-AI_Craft.png?auto=format&w=280)
-        
-        [Learn the AI Tools in CompanyCam](https://companycam.com/classes/learn-the-ai-tools-in-companycam)
         
     
     ### Contact Support
@@ -570,13 +570,13 @@ Menu
     
     [Explore All Classes](https://companycam.com/classes)
     
+    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_Desktop-CraftTile.png?auto=format&w=280)
+        
+        [CompanyCam on Desktop](https://companycam.com/classes/companycam-desktop)
+        
     * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_October-Craft.png?auto=format&w=280)
         
         [How to Become a CompanyCam Power User](https://companycam.com/classes/how-to-become-a-companycam-power-user)
-        
-    * ![advanced features thumbnail](https://companycam.imgix.net/images/Classes_2024_August-AI_Craft.png?auto=format&w=280)
-        
-        [Learn the AI Tools in CompanyCam](https://companycam.com/classes/learn-the-ai-tools-in-companycam)
         
     
     ### Contact Support
@@ -669,6 +669,8 @@ Menu
 ![close popup icon](https://companycam.imgix.net/icons-logos/icons/grey-close.png)
 
 [We'll Show You](https://companycam.com/demo)
+
+![image of construction worker](https://companycam.imgix.net/images/cta-luke.png)
 
 **CompanyCam Privacy Policy**
 =============================
