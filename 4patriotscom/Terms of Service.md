@@ -154,7 +154,7 @@ Search
     
     [![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-3MO-TABLESCAPE-704x1000.jpg)](https://4patriots.com/category/emergency-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-3MO-TABLESCAPE-854x674.jpg)](https://4patriots.com/category/emergency-food-kits)
     
-    ###### Unbeatable Variety. Maximum Flavor.
+    ###### Includes 2 FREE 72-Hour Food Kits
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
