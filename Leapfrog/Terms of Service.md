@@ -1,4 +1,4 @@
-[![LeapFrog Logo](https://shared.leapfrog.com/v27-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
+[![LeapFrog Logo](https://shared.leapfrog.com/v28-magento/assets/img/logo.svg)](https://www.leapfrog.com/en-us/home "LeapFrog Home")
 
 [![Search](https://t7.leapfrog.com/images/mobile-nav-icon/search_icon.png)](#)[![Cart](https://t7.leapfrog.com/images/mobile-nav-icon/cart_icon.png)](https://store.leapfrog.com/en-us/account/checkout)![Menu](https://t7.leapfrog.com/images/mobile-nav-icon/menu_icon.png)
 
@@ -183,6 +183,9 @@ As used in this Agreement, the term, "Software", includes, but is not limited to
 11\. SEVERABILITY. If any provision of this Agreement shall be unlawful, void or unenforceable in your jurisdiction, then that provision shall be deemed severed from this Agreement and shall not affect the validity or enforceability of the remaining provisions of this Agreement.
 
 12\. MISCELLANEOUS.This Agreement is the complete, final and exclusive statement of the agreement between you and LeapFrog with respect to the Software and supersedes any proposal or prior or contemporaneous agreement or communications between us, whether oral or written, relating to the subject matter hereof. This Agreement may only be modified in a writing signed by both parties. No failure or delay, in whole or in part, on the part of either party to exercise any right or remedy available under this Agreement shall operate as a waiver of such right or remedy, or affect any other right or remedy. Waiver of a breach shall not waive the right to enforce any subsequent breach under this Agreement.
+
+LeapFrog Footer
+---------------
 
 [![](https://t7.leapfrog.com/images/cq-png-alpha-no-resize/back-to-top-arrow.png)Back to Top](#pageTop)
 
