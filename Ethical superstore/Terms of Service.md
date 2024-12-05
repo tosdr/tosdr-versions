@@ -168,8 +168,8 @@ Customer Services Helpline
         
         * [Mens](https://www.ethicalsuperstore.com/category/fashion/mens/)
             * [Tops & T-Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/t_shirts/)
-            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Shirts](https://www.ethicalsuperstore.com/category/fashion/mens/shirts/)
+            * [Graphic Tees](https://www.ethicalsuperstore.com/category/fashion/mens/graphic-tees/)
             * [Trousers & Shorts](https://www.ethicalsuperstore.com/category/fashion/mens/trousers-and-shorts/)
             * [Jackets & Jumpers](https://www.ethicalsuperstore.com/category/fashion/mens/jackets-and-jumpers/)
             * [Pyjamas & Underwear](https://www.ethicalsuperstore.com/category/fashion/mens/underwear/)
