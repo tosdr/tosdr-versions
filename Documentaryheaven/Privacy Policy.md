@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Walt Disney](/wp-content/thumbnails/12936-100x70.jpg?x53432)
+* [![Gordon Ramsay: Boiling Point](/wp-content/thumbnails/14427-100x70.jpg?x53432)
     
-    Walt Disney
+    Gordon Ramsay: Boiling Point
     
-    Walt Disney is a two-part film which explores the life and legacy of the man responsible for making Disney the giant it is today. Using archival footage which is fresh from the vaults of Dis](https://documentaryheaven.com/walt-disney/ "Walt Disney")
-* [![David Bowie And The Story Of Ziggy Stardust](/wp-content/thumbnails/9553-100x70.jpg?x53432)
+    Boiling Point is a five part documentary miniseries which was released by Channel 4 back in 1999. It follows now celebrity chief Gordon Ramsay over the course of an eight month period, a period which](https://documentaryheaven.com/gordon-ramsay-boiling-point/ "Gordon Ramsay: Boiling Point")
+* [![Keith Allen Will Burn In Hell](/wp-content/thumbnails/4192-100x70.jpg?x53432)
     
-    David Bowie And The Story Of Ziggy Stardust
+    Keith Allen Will Burn In Hell
     
-    40 years ago in millions of living rooms located across the United Kingdom a strange being, not of this world was beamed onto television screens, with bright red hair and a multicoloured spacesuit, hi](https://documentaryheaven.com/david-bowie-story-ziggy-stardust/ "David Bowie And The Story Of Ziggy Stardust")
-* [![What Makes Art Valuable?](/wp-content/thumbnails/9441-100x70.jpg?x53432)
+    Keith Allen decides to pay a visit to one of Americas most hated family's.](https://documentaryheaven.com/keith-allen-will-burn-in-hell/ "Keith Allen Will Burn In Hell")
+* [![Janis Joplin: Her Final Hours](/wp-content/thumbnails/6960-100x70.jpg?x53432)
     
-    What Makes Art Valuable?
+    Janis Joplin: Her Final Hours
     
-    What would you buy if you happened to have 100 million dollars? perhaps a mansion, a fleet of private jets, your own personal submarine or would you put it all into a single piece of artwork? Some of](https://documentaryheaven.com/makes-art-valuable/ "What Makes Art Valuable?")
-* [![Who’s Afraid of Machiavelli?](/wp-content/thumbnails/8668-100x70.jpg?x53432)
+    Janis Joplin is the undisputed queen of rock and roll. It’s a fact that there had been no female superstar of rock before Janis came along. Her rule of thumb was if it feels good do it.Janis also hi](https://documentaryheaven.com/janis-joplin-her-final-hours/ "Janis Joplin: Her Final Hours")
+* [![Bowling for Columbine](/wp-content/thumbnails/1542-100x70.jpg?x53432)
     
-    Who’s Afraid of Machiavelli?
+    Bowling for Columbine
     
-    Niccolo Machiavelli, 16th century Italian diplomat, political thinker, arch bad guy, his name conjures up everything thats sly about human behavior. It's all because of his book entitled "The Prince",](https://documentaryheaven.com/whos-afraid-of-machiavelli/ "Who’s Afraid of Machiavelli?")
-* [![Future Weapons: Mission Invisible S2/E4](/wp-content/thumbnails/1905-100x70.jpg?x53432)
+    Filmmaker, author, and political activist Michael Moore trains his satirical eye on America's obsession with guns and violence in his third feature-length documentary, which gets its title from a pair](https://documentaryheaven.com/bowling-for-columbine/ "Bowling for Columbine")
+* [![The Polar Bear Family & Me](/wp-content/thumbnails/6958-100x70.jpg?x53432)
     
-    Future Weapons: Mission Invisible S2/E4
+    The Polar Bear Family & Me
     
-    Join Mack aboard the USS Texas – the first in a new class of super-silent multipurpose submarines. Catch sight of weapons that are so stealthy, you can't see them coming including the latest B2 'Spiri](https://documentaryheaven.com/future-weapons-mission-invisible-s2e4/ "Future Weapons: Mission Invisible S2/E4")
+    In "POLAR BEAR FAMILY AND ME", legendary wildlife filmmaker Gordon Buchanan travels deep into the Arctic for his greatest challenge yet - infiltrating a family of polar bears and documenting the cubs'](https://documentaryheaven.com/the-polar-bear-family-me/ "The Polar Bear Family & Me")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
