@@ -86,7 +86,7 @@ Download the Mega Seating Plan app to your phone to learn student names fast
 
  [![Download on the App Store](/static/img/app_icons/apple.svg)](https://apps.apple.com/us/app/mega-seating-plan/id6503652608)[![Get it on Google Play](/static/img/app_icons/google_play.png)](https://play.google.com/store/apps/details?id=com.robcowen.msp&pcampaignid=web_share)
 
-[Facebook](https://www.facebook.com/megaseatingplan) [BlueSky](https://bsky.app/profile/seatingplan.bsky.social) [X](https://www.twitter.com/megaseatingplan) [LinkedIn](https://www.linkedin.com/in/robcowen-teacher/) [Email](mailto:rob@seatingplan.com)
+[Facebook](https://www.facebook.com/megaseatingplan) [BlueSky](https://bsky.app/profile/seatingplan.bsky.social) [X/Twitter](https://www.twitter.com/megaseatingplan) [LinkedIn](https://www.linkedin.com/in/robcowen-teacher/) [Email](mailto:rob@seatingplan.com)
 
 Mega Seating Plan Ltd is registered as a company in England and Wales (registration number 10358390).
 
