@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Wife of UnitedHealthcare CEO says her husband had been receiving ‘some threats’ prior to fatal shooting](https://nypost.com/2024/12/04/us-news/wife-of-unitedhealthcare-ceo-brian-thompson-says-her-husband-had-been-receiving-some-threats-prior-to-fatal-shooting/)
-
 Terms Of Use
 ============
 
