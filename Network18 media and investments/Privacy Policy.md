@@ -128,11 +128,11 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Pushpa 2 First Review](https://www.news18.com/movies/pushpa-2-first-review-out-allu-arjun-delivers-mega-blockbuster-fahadh-faasil-face-off-steals-show-9145503.html)
+    * [Pushpa 2 Review](https://www.news18.com/movies/pushpa-2-movie-review-allu-arjun-and-fahadh-faasil-deliver-mass-entertainer-of-the-year-9145536.html)
+    * [Maharashtra CM](https://www.news18.com/politics/maharashtra-cm-swearing-in-live-updates-devendra-fadnavis-eknath-shinde-ajit-pawar-pm-modi-nda-leaders-mumbai-liveblog-9145584.html)
+    * [Heart Health](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
     * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-    * [Allu Arjun](https://www.news18.com/movies/allu-arjuns-pushpa-2-full-hd-movie-leaks-online-hours-after-its-release-9145557.html)
-    * [Pushpa 2 Live](https://www.news18.com/movies/pushpa-2-release-review-live-updates-allu-arjun-fahadh-faasil-rashmika-mandanna-box-office-liveblog-9145525.html)
-    * [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+    * [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-makes-rare-comment-about-aishwarya-rai-salman-khan-talks-about-abusive-love-your-breakup-9145847.html)
     * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
@@ -170,11 +170,11 @@ Follow us on
 
 In Trends:
 
-* [Pushpa 2 First Review](https://www.news18.com/movies/pushpa-2-first-review-out-allu-arjun-delivers-mega-blockbuster-fahadh-faasil-face-off-steals-show-9145503.html)
+* [Pushpa 2 Review](https://www.news18.com/movies/pushpa-2-movie-review-allu-arjun-and-fahadh-faasil-deliver-mass-entertainer-of-the-year-9145536.html)
+* [Maharashtra CM](https://www.news18.com/politics/maharashtra-cm-swearing-in-live-updates-devendra-fadnavis-eknath-shinde-ajit-pawar-pm-modi-nda-leaders-mumbai-liveblog-9145584.html)
+* [Heart Health](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
 * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
-* [Allu Arjun](https://www.news18.com/movies/allu-arjuns-pushpa-2-full-hd-movie-leaks-online-hours-after-its-release-9145557.html)
-* [Pushpa 2 Live](https://www.news18.com/movies/pushpa-2-release-review-live-updates-allu-arjun-fahadh-faasil-rashmika-mandanna-box-office-liveblog-9145525.html)
-* [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
+* [Vivek Oberoi](https://www.news18.com/movies/vivek-oberoi-makes-rare-comment-about-aishwarya-rai-salman-khan-talks-about-abusive-love-your-breakup-9145847.html)
 * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
