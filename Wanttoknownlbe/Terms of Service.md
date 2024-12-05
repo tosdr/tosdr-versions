@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mind-control/mind-controllers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/sabotage-indirecte-moordaanslag-op-flavio-pasquino/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
