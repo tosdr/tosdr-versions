@@ -20,7 +20,7 @@
 
 Englishالعربيةঅসমীয়াবাংলাEspañolFrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）Englishالعربيةঅসমীয়াবাংলাespañolfrançaisગુજરાતીעבריתहिन्दीBahasa Indonesia日本語ಕನ್ನಡ한국어മലയാളംमराठीनेपालीOriyaਪੰਜਾਬੀPortuguês (Brasil)русскийதமிழ்తెలుగుไทยFilipinoTürkçeاردو繁體中文（香港）
 
-[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v3/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg)](https://www.whatsapp.com/)
+[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/v4/yq/r/mdQNdcFMi0p.png)](https://www.whatsapp.com/)[![WhatsApp Main Page](https://static.whatsapp.net/rsrc.php/yZ/r/JvsnINJ2CZv.svg)](https://www.whatsapp.com/)
 
 * Features
     
