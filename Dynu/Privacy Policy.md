@@ -240,14 +240,19 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Find a domain, create a website, and get custom email
+### Why migrate to us?
+
+#### We guarantee our commitment to quality
 
   
 
-Search
+#### Performance
 
-  
-[#### I already have a domain name](https://www.dynu.com/ControlPanel/TransferDomainName)
+#### Support
+
+#### Security
+
+#### Uptime
 
 ### News
 
