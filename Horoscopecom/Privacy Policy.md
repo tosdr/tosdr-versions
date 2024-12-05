@@ -1,5 +1,3 @@
-Combat retrograde energy, find [Personalized Guidance](https://store.horoscope.com/reading/monthly-premium-horoscope/?utm_source=site&utm_medium=Acquisition&utm_campaign=SiteRibbon) for December! Combat retrograde energy, find [Personalized Guidance](https://store.horoscope.com/reading/monthly-premium-horoscope/?utm_source=site&utm_medium=Acquisition&utm_campaign=SiteRibbon) for December!
-
 [](javascript:void(0);)[![horoscope.com](/images-US/horoscope-logo.svg)](https://www.horoscope.com/us/index.aspx)
 
 [Horoscopes](https://www.horoscope.com/us/index.aspx)
