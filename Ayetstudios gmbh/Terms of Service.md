@@ -217,7 +217,7 @@ Copyright (c) ayeT-Studios GmbH, May 2018
 * [Careers](https://www.ayetstudios.com/careers)
 * [Open Positions](https://ayetstudios.careers.flair.hr/)
 * [RV Media Kit](https://www.ayetstudios.com/wp-content/uploads/2024/02/Rewarded-Video-Media-Kit-ayeT-Studios.pdf)
-* [OW Media Kit](https://www.ayetstudios.com/wp-content/uploads/2024/03/Offerwall-Media-Kit.pdf)
+* [OW Media Kit](https://www.ayetstudios.com/wp-content/uploads/2024/12/Offerwall-Media-Kit-2025.pdf)
 * [Panel Book](https://www.ayetstudios.com/wp-content/uploads/2024/02/Panel-Book.pdf)
 
 ### Legal
