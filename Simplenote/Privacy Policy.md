@@ -433,7 +433,7 @@ That’s it! Thanks for reading.
     
     *  [![](https://automattic.com/wp-content/uploads/2024/11/cropped-automattic-logo-square.png?w=50) Automattic](https://automattic.com/)
     
-    Join 10,468 other subscribers
+    Join 10,471 other subscribers
     
         
     
