@@ -2,7 +2,7 @@
 
 [![Logo](https://www.clapa.com/wp-content/themes/clapa/assets/images/logo.png)](https://www.clapa.com/)
 
-[Donate](https://www.committedgiving.uk.net/clapa/public/) [CLAPA Community](https://www.clapa.com/about-us/community/)
+[Donate](https://donate.biggive.org/campaign/a056900002TPVdwAAH?c=78520) [CLAPA Community](https://www.clapa.com/about-us/community/)
 
 [](#)
 
