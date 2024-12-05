@@ -1,6 +1,6 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-December 1, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 4, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
 
@@ -190,7 +190,7 @@ Today's Cache Your download of the top 5 technology stories of the day.](https:/
 
 Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
 
-December 1, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 4, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [Search for topics, people, articles...](https://www.thehindu.com/search/)
 
@@ -627,7 +627,7 @@ Effective Date - 18th January 2023
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [Tamil Nadu rains LIVE updates- Nov 29](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-live-cyclone-fengal-november-29-2024/article68925761.ece) [Maharashtra government formation LIVE - Nov 29](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-government-formation-live-updates-nov-29-2024/article68925778.ece) [World Chess Championship](https://www.thehindu.com/sport/other-sports/world-chess-championship-gukeshs-heist-in-third-game-should-keep-him-in-good-stead/article68924631.ece) [Chennai school holiday - 27 Nov 2024](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-holiday-for-schools-in-chennai-chengalpattu-and-kancheepuram/article68916348.ece) [Morning digest Nov 29](https://www.thehindu.com/news/morning-digest-november-29-2024/article68925574.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
+[News](https://www.thehindu.com/news/) [Parliament winter session day 8 LIVE](https://www.thehindu.com/news/national/parliament-winter-session-day-8-2024-live-updates-december-4/article68945106.ece) [Maharashtra CM, Govt formation LIVE](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-government-formation-chief-minister-live-updates-december-4/article68945075.ece) [World Chess Championship](https://www.thehindu.com/sport/other-sports/world-chess-championship-gukeshs-heist-in-third-game-should-keep-him-in-good-stead/article68924631.ece) [Chennai school holiday - 27 Nov 2024](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-holiday-for-schools-in-chennai-chengalpattu-and-kancheepuram/article68916348.ece) [Morning digest Nov 29](https://www.thehindu.com/news/morning-digest-november-29-2024/article68925574.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
 
 ##### Trending on Group sites
 
