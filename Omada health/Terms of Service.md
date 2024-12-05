@@ -1,12 +1,12 @@
 [![Omada Health logo](https://www.omadahealth.com/hs-fs/hubfs/omada_logo_horizontal.png?width=113&height=27&name=omada_logo_horizontal.png "Omada Health logo")](https://www.omadahealth.com/)
 
-   
+  
 
 * [For Individuals](https://www.omadahealth.com/)
 * [For Organizations](https://www.omadahealth.com/for-organizations)
 * 
 
-   
+  
 
  [![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_back-arrow.svg) Main Menu](#)
 
@@ -63,7 +63,7 @@
 
 [![Omada Health logo](https://www.omadahealth.com/hs-fs/hubfs/omada_logo_horizontal.png?width=113&height=27&name=omada_logo_horizontal.png "Omada Health logo")](https://www.omadahealth.com/)
 
-   
+  
 
 [![](https://www.omadahealth.com/hubfs/2024%20Assets/OH_Icons__Person_Black.svg)For Individuals ![](https://www.omadahealth.com/hubfs/2024%20Assets/nav_right%20caret.svg)](#) 
 
