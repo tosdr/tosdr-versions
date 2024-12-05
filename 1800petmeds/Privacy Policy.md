@@ -54,6 +54,8 @@ Products Education
 
  
 
+* [Shop Flea and Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Dog)
+
 * [Shop by pet](#)
     
     * **Shop Dog**
@@ -238,6 +240,8 @@ Products Education
     * [![img](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwb3b6843b/Pumpkin%20Insurance.png "Insurance")](https://www.1800petmeds.com/petmeds-insurance-services)
 
 Navigation [×](javascript:void(0))
+
+* [Shop Flea and Tick](https://www.1800petmeds.com/flea++ti+ck-cat10.html?prefn1=species&prefv1=Dog)
 
 * [Shop by pet](#)
     * [BackShop by pet](#)
