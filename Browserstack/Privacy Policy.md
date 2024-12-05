@@ -545,6 +545,7 @@ RESOURCES
 * [Guide](https://www.browserstack.com/guide)
 * [Partners](https://www.browserstack.com/partners)
 * [Find a partner](https://www.browserstack.com/partners/find-a-partner)
+* [Trust Center](https://www.browserstack.com/trust)
 * [Test University (Beta)](https://www.browserstack.com/test-university)
 
 COMPANY
