@@ -1,3 +1,5 @@
+string(7) "Not Set" string(7) "Not Set" CleanBrowsing Cookie Policy - DNS Filtering                             string(7) "Not Set" string(7) "Not Set"
+
 [![](/custom/images/cleanbrowsing-logo.png)](https://cleanbrowsing.org/)
 
 * [Schools](https://cleanbrowsing.org/solutions/schools/)
