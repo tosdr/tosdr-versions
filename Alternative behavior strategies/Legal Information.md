@@ -218,9 +218,9 @@ Find a Location
 
 Also of Interest:
 
-* [Autism Resources](https://www.abskids.com/resources/)
-* [Autism Spectrum Disorder & Preparing For A...](https://blog.abskids.com/natural-disaster-preparaton-autism)
-* [Hiring Scams Warning](https://blog.abskids.com/hiring-scams-warning)
+* [Non-discrimination](https://www.abskids.com/non-discrimination/)
+* [Support Spotlight on Carolina Insurriaga](https://blog.abskids.com/support-spotlight-on-carolina-insurriaga)
+* [Continuing Education: Multicultural Practices in ABA](https://www.abskids.com/events/continuing-education-multicultural-practices-in-aba/)
 
 © 2024 Alternative Behavior Strategies, LLC d/b/a ABS Kids. All rights reserved.
 
