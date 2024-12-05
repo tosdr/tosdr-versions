@@ -8,23 +8,23 @@ SearchCtrl + K
 
 * [Legal Resources](https://vidazoo.gitbook.io/vidazoo-legal)
     
-* [Publisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)
-    
-* [Vidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
-    
 * [Website Terms of Use](https://vidazoo.gitbook.io/vidazoo-legal/website-terms-of-use)
-    
-* [Cookies Policy](https://vidazoo.gitbook.io/vidazoo-legal/cookies-policy)
     
 * [Terms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
     
-* [Privacy Rights Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-rights-policy)
+* [Publisher Guidelines](https://vidazoo.gitbook.io/vidazoo-legal/publisher-guidelines)
     
 * [Data Processing Agreement - Publisher](https://vidazoo.gitbook.io/vidazoo-legal/data-protection-addendum)
     
+* [Data Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
+    
+* [Vidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)
+    
+* [Cookies Policy](https://vidazoo.gitbook.io/vidazoo-legal/cookies-policy)
+    
 * [Privacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
     
-* [Data Processing Agreement - Demand partner](https://vidazoo.gitbook.io/vidazoo-legal/data-processing-agreement-demand-partner)
+* [Privacy Rights Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-rights-policy)
     
 * [DMCA Policy](https://vidazoo.gitbook.io/vidazoo-legal/dmca-policy)
     
@@ -135,6 +135,6 @@ We may update this Cookie Policy from time to time. We encourage you to periodic
 
 If you have any questions about our use of cookies, please contact us at [dpo@vidazoo.com](mailto:dpo@vidazoo.com).
 
-[PreviousWebsite Terms of Use](https://vidazoo.gitbook.io/vidazoo-legal/website-terms-of-use)[NextTerms and Conditions](https://vidazoo.gitbook.io/vidazoo-legal/terms-and-conditions)
+[PreviousVidazoo Privacy Policy](https://vidazoo.gitbook.io/vidazoo-legal/privacy-policy)[NextPrivacy Notice For California Residents](https://vidazoo.gitbook.io/vidazoo-legal/privacy-notice-for-california-residents)
 
 Last updated 1 year ago
