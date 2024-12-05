@@ -47,13 +47,11 @@ You should read this privacy and cookie policy before providing us with any pers
 
 We will only collect information that is necessary and relevant to the proper undertaking of our business.
 
-The types of personal information we collect may include name, email address (including personal email, institution email and parental email), mobile phone number, year of study, date of birth, postcode, student status, entity/institution name, type of entity/institution (e.g. school, library, university), business address, ACN/ABN, details of sporting and other extra-curricular commitments (if required to assist with scheduling). We may also collect additional information from End-Users in order to improve our services and performance.
-
-Where our clients are students and their families, we will also collect credit card and/or other payment information (which may also include home address details).
+The types of personal information we collect may include name, email address, year of study, course of study, student status and entity/institution name. For business contacts interested in our service we may additionally collect type of entity/institution (e.g. school, library, university), business address and business number. We may also collect additional information from End-Users in order to improve our services and performance.
 
 The information we collect will depend on the exact nature of the services that we are providing and what information is reasonably required to provide those services.
 
-The Act places additional restrictions on us collecting sensitive information (which includes information about religion, political views, ethnicity, criminal records and sexual preferences). Generally we will not collect this type of information, however we may need to collect some sensitive information in circumstances where a person is applying for a job with us, and consent has been provided to us to do so.
+The Act places additional restrictions on us collecting sensitive information (which includes information about religion, political views, ethnicity, criminal records and sexual preferences). Generally we will not collect this type of information, however we may need to collect some sensitive information along with additional identifying information in circumstances where a person is applying for a job with us, and consent has been provided to us to do so.
 
 ### Why do we require personal information?
 
