@@ -14,6 +14,14 @@ Recommendations
 
 Audio
 
+* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
+    
+    How To Read More in 2024
+    
+    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+
+* * *
+
 * [![Books for the Christmas Romance Fan](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/10/13132423/PRH_site_1200x628_Christmas_Romance_Fan.jpg)
     
     Books for the Christmas Romance Fan
@@ -22,19 +30,11 @@ Audio
 
 * * *
 
-* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
+* [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25164626/Audio_December_1200x628.jpg)
     
-    New Releases
+    New Stories to Listen to
     
-    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
-
-* * *
-
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
-    
-    How To Read More in 2024
-    
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
 
 * <
     
