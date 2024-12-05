@@ -34,9 +34,9 @@ Your cart is empty
 
 [Start shopping](https://coromega.com/collections/all)
 
-✨ Black Friday is Here! Take 20% Off Everything ✨
+✨ TRY NEW MAX GOLD✨
 
-Code: Friday20
+**The highest daily Omega-3 dose on the planet**
 
 [![Coromega](//coromega.com/cdn/shop/files/2._Coromega_Omega-3Core_-970x300_Slctd_sachet_copy.psd_550x.png?v=1690833114)](https://coromega.com/ "Coromega")
 
