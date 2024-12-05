@@ -17,8 +17,6 @@
             White Eagle Hall](https://www.songkick.com/concerts/42285217-mekons-at-white-eagle-hall)
         *  [![Redd Kross Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Redd Kross  
             WFMU 91.1 FM](https://www.songkick.com/concerts/42282278-redd-kross-at-wfmu-911-fm)
-        *  [![Public Serpents Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Public Serpents  
-            The Log Cabin](https://www.songkick.com/concerts/42278444-public-serpents-at-log-cabin)
         *  [![Allie Sandt Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Allie Sandt](https://www.songkick.com/concerts/42294283-allie-sandt-at-unknown-venue)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
