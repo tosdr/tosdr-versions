@@ -83,15 +83,15 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: HowStuffWorks founder Marshall Brain sent final email before sudden death](https://cdn.arstechnica.net/wp-content/uploads/2024/12/ncsu_belltower-768x432.jpg)](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
+1. [![Listing image for first story in Most Read: Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2161596831-768x432.jpg)](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-    1. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
+    1. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-2. 2. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+2. 2. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
     
 3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-4. 4. [Splash pads really are fountains of fecal material; CDC reports 10K illnesses](https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/)
+4. 4. [Trump nominates Jared Isaacman to become the next NASA administrator](https://arstechnica.com/space/2024/12/jared-isaacman-entrepreneur-and-private-astronaut-is-trumps-choice-to-lead-nasa/)
     
 5. 5. [Microsoft reiterates “non-negotiable” TPM 2.0 requirement for Windows 11](https://arstechnica.com/gadgets/2024/12/microsoft-reiterates-non-negotiable-tpm-2-0-requirement-for-windows-11/)
     
