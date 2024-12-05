@@ -1,7 +1,3 @@
-[Expedia.ca: 25% or more off your dream stay + Up to 10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/expedia-ca?store=expedia-ca&sourceName=sitewide-sticky-header)
-
 [](https://www.rakuten.ca/)
 
 EN
@@ -127,7 +123,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
-        9% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
+        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)
         
@@ -255,7 +251,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
-        5% Cash Back](https://www.rakuten.ca/home-hardware)[Worx
+        1% Cash Back](https://www.rakuten.ca/home-hardware)[Worx
         
         2% Cash Back](https://www.rakuten.ca/worx)[eBay.ca
         
@@ -289,7 +285,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
-        8% Cash Back](https://www.rakuten.ca/aveda)[Clearly
+        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
@@ -319,7 +315,7 @@ FR
         
         [Home Hardware
         
-        5% Cash Back](https://www.rakuten.ca/home-hardware)[Dyson
+        1% Cash Back](https://www.rakuten.ca/home-hardware)[Dyson
         
         10% Cash Back](https://www.rakuten.ca/dyson)[TEMU
         
@@ -355,7 +351,7 @@ FR
         
         up to 10% Cash Back](https://www.rakuten.ca/brilliant-earth)[Michael Kors
         
-        6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -389,7 +385,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[Home Hardware
         
-        5% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
+        1% Cash Back](https://www.rakuten.ca/home-hardware)[Insurely
         
         Up to $25 Cash Back](https://www.rakuten.ca/insurely)[All-Purpose Realty
         
@@ -846,13 +842,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 10% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304825/en-stickyfooter-1170x60_dyson3.png "Dyson Coupons, Promo Codes")
+[![Earn 2% Cash Back from Rakuten.ca with Canadian Tire Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306303/en-stickyfooter-1170x60_canadian-tire2.png "Canadian Tire Coupons, Promo Codes")
 
-was 2.5%, now
+2% Cash Back
 
-10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/canadian-tire?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
