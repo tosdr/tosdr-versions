@@ -4,7 +4,7 @@ Sections
 
 [WATCH](https://www.actionnewsjax.com/video/)
 
-[44°
+[41°
 
 ![Fair](/pf/resources/images/weather/status-icons/33.png?d=943)](https://www.actionnewsjax.com/weather/)
 
