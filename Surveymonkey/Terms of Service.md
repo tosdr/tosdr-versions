@@ -391,7 +391,7 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![SurveyMonkey logo](https://prod.smassets.net/assets/website/2.289.1/images/legal_sidebar__badge.png)
+![SurveyMonkey logo](https://prod.smassets.net/assets/website/2.289.2/images/legal_sidebar__badge.png)
 
 * [Overview](https://www.surveymonkey.com/mp/legal/)
     
@@ -458,7 +458,7 @@ Did you know?
 
 63% of people consider a company's privacy and security history before using their products or services.
 
-![Legal sidebar stats](https://prod.smassets.net/assets/website/2.289.1/images/legal_sidebar__stats-image.png)
+![Legal sidebar stats](https://prod.smassets.net/assets/website/2.289.2/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
