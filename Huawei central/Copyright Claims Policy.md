@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei AI Messages smartwatches](https://www.huaweicentral.com/wp-content/uploads/2024/12/AI-Messages-400x240.jpg)
+        
+        Huawei announces AI Messages support for these 15 smartwatches](https://www.huaweicentral.com/huawei-announces-ai-messages-support-for-these-15-smartwatches/)
     * [![Huawei Watch D2 sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-sale-400x240.jpg)
         
         Huawei Watch D2 wearable enters first sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-enters-first-sale-in-china/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch D2 pre-sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-pre-sale-400x240.jpg)
         
         Huawei Watch D2 wearable open for pre-sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-open-for-pre-sale-in-china/)
-    * [![Huawei Watch D2 Malaysia](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-400x240.jpg)
-        
-        Huawei Watch D2 will launch in Malaysia on November 19](https://www.huaweicentral.com/huawei-watch-d2-will-launch-in-malaysia-on-november-19/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
