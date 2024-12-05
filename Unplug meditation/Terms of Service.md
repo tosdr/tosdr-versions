@@ -7,9 +7,7 @@
 
 [BOOK A CLASS](https://www.unplug.com/class-schedule)
 
-[BECOME A MEMBER](https://www.unplug.com/become-a-member-index)
-
-[PRICING](https://www.unplug.com/santa-monica)
+[PRICING](https://www.unplug.com/become-a-member-index)
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
 
@@ -32,9 +30,7 @@
 
 [BOOK A CLASS](https://www.unplug.com/class-schedule)
 
-[BECOME A MEMBER](https://www.unplug.com/become-a-member-index)
-
-[PRICING](https://www.unplug.com/santa-monica)
+[PRICING](https://www.unplug.com/become-a-member-index)
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
 
