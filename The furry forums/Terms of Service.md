@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-Join our chat room on [Discord](https://www.thefurryforum.com/forums/index.php?topic=38553.0)! We'd love to chat with you!
+**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
 
   
   
