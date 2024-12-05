@@ -15,56 +15,56 @@
     
     Trending
     
+    * [Russia](https://www.euronews.com/tag/russia)
+    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+    * [Didier Reynders](https://www.euronews.com/tag/didier-reynders)
+    * [French politics](https://www.euronews.com/tag/french-politics)
+    * [NATO](https://www.euronews.com/tag/nato)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
-    * [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-    * [Music](https://www.euronews.com/tag/music)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Italy](https://www.euronews.com/tag/italy)
     
     * * *
     
     Latest stories
     
-    [![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")
+    [![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")
     
-    ![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](https://static.euronews.com/articles/stories/08/88/98/52/368x207_cmsv2_25510a73-bb4f-5f62-9b90-49cbf7dd5573-8889852.jpg "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
-    
-    Now playing Next
-    
-    [Belgium](https://www.euronews.com/news/europe/belgium)
-    
-    ### [NATO's Rutte warns of Russian support for North Korean nuclear program](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
-    
-    [![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")
-    
-    ![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](https://static.euronews.com/articles/stories/08/89/00/70/368x207_cmsv2_bea31505-2ef2-5b49-ad34-df2447f2bc3b-8890070.jpg "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+    ![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](https://static.euronews.com/articles/stories/08/89/16/78/368x207_cmsv2_40eb6c96-a232-545d-aec7-a3eaa3ae09b5-8891678.jpg "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
     
     Now playing Next
     
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    [Georgia](https://www.euronews.com/news/europe/georgia)
     
-    ### [Germany open to sending peacekeeping troops to Ukraine](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+    ### [Zelenskyy sanctions Georgian government's pro-Russian elements](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
     
-    [![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")
+    [![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")
     
-    ![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](https://static.euronews.com/articles/stories/08/89/01/80/368x207_cmsv2_4bc3d7a5-002c-5dcd-b83a-7eac706a7077-8890180.jpg "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
-    
-    Now playing Next
-    
-    [Business](https://www.euronews.com/business/business)
-    
-    ### [General Motors takes billion-dollar hit over losses in China](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
-    
-    [![Sixth night of clashes in Georgian capital after EU talks suspended](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sixth night of clashes in Georgian capital after EU talks suspended")
-    
-    ![Sixth night of clashes in Georgian capital after EU talks suspended](https://static.euronews.com/articles/stories/08/88/93/44/368x207_cmsv2_fd345bac-64a2-5320-907f-1ecf6d9f63cd-8889344.jpg "Sixth night of clashes in Georgian capital after EU talks suspended")](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+    ![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](https://static.euronews.com/articles/stories/08/89/17/58/368x207_cmsv2_72c791af-a53b-514d-859a-3d393d774221-8891758.jpg "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
     
     Now playing Next
     
-    [No Comment](https://www.euronews.com/nocomment)
+    [Green News](https://www.euronews.com/green/green-news)
     
-    ### [Sixth night of clashes in Georgian capital after EU talks suspended](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+    ### [COP29: Which countries will foot the $300bn climate finance deal?](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
+    
+    [![Curators Blanca de la Torre and Kati Kivinen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Curators Blanca de la Torre and Kati Kivinen. ")
+    
+    ![Curators Blanca de la Torre and Kati Kivinen. ](https://static.euronews.com/articles/stories/08/89/17/30/368x207_cmsv2_da5e821f-9059-51b8-8fa9-9d7e4b02fb1e-8891730.jpg "Curators Blanca de la Torre and Kati Kivinen. ")](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
+    
+    Now playing Next
+    
+    [Art](https://www.euronews.com/culture/art)
+    
+    ### [Shelter: Helsinki Biennial 2025 asks humans to take a step back](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
+    
+    [![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")
+    
+    ![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](https://static.euronews.com/articles/stories/08/89/17/44/368x207_cmsv2_06b9173a-d3a4-5797-b573-8c8f32608b50-8891744.jpg "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
+    
+    Now playing Next
+    
+    [Mexico](https://www.euronews.com/news/america/mexico)
+    
+    ### [Mexico seizes record fentanyl haul after Trump’s tariff threat](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -362,62 +362,62 @@ Close menu sidebar
 
 Trending
 
+* [Russia](https://www.euronews.com/tag/russia)
+* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+* [Didier Reynders](https://www.euronews.com/tag/didier-reynders)
+* [French politics](https://www.euronews.com/tag/french-politics)
+* [NATO](https://www.euronews.com/tag/nato)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
-* [Israel Hamas war](https://www.euronews.com/tag/israel-hamas-war)
-* [Music](https://www.euronews.com/tag/music)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Italy](https://www.euronews.com/tag/italy)
 
 * * *
 
 Latest stories
 
-[![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")
+[![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")
 
-![NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024](https://static.euronews.com/articles/stories/08/88/98/52/368x207_cmsv2_25510a73-bb4f-5f62-9b90-49cbf7dd5573-8889852.jpg "NATO Secretary General Mark Rutte speaks during a media conference at the conclusion of a meeting of NATO foreign ministers in Brussels, 4 December 2024")](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
+![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](https://static.euronews.com/articles/stories/08/89/16/78/368x207_cmsv2_40eb6c96-a232-545d-aec7-a3eaa3ae09b5-8891678.jpg "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
 
 Now playing Next
 
-[Belgium](https://www.euronews.com/news/europe/belgium)
+[Georgia](https://www.euronews.com/news/europe/georgia)
 
-### [NATO's Rutte warns of Russian support for North Korean nuclear program](https://www.euronews.com/2024/12/04/natos-rutte-warns-of-russian-support-for-north-korean-nuclear-program)
+### [Zelenskyy sanctions Georgian government's pro-Russian elements](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
 
 * * *
 
-[![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")
+[![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")
 
-![German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.](https://static.euronews.com/articles/stories/08/89/00/70/368x207_cmsv2_bea31505-2ef2-5b49-ad34-df2447f2bc3b-8890070.jpg "German Foreign Minister Annalena Baerbock speaks during a press briefing at a hotel in Beijing, Monday, Dec. 2, 2024.")](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](https://static.euronews.com/articles/stories/08/89/17/58/368x207_cmsv2_72c791af-a53b-514d-859a-3d393d774221-8891758.jpg "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
 
 Now playing Next
 
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+[Green News](https://www.euronews.com/green/green-news)
 
-### [Germany open to sending peacekeeping troops to Ukraine](https://www.euronews.com/my-europe/2024/12/04/german-foreign-minister-open-to-sending-peacekeeping-troops-to-ukraine)
+### [COP29: Which countries will foot the $300bn climate finance deal?](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
 
 * * *
 
-[![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")
+[![Curators Blanca de la Torre and Kati Kivinen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Curators Blanca de la Torre and Kati Kivinen. ")
 
-![General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit](https://static.euronews.com/articles/stories/08/89/01/80/368x207_cmsv2_4bc3d7a5-002c-5dcd-b83a-7eac706a7077-8890180.jpg "General Motors' world HQ, the Renaissance Center, near the Detroit-Windsor tunnel plaza in Detroit")](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+![Curators Blanca de la Torre and Kati Kivinen. ](https://static.euronews.com/articles/stories/08/89/17/30/368x207_cmsv2_da5e821f-9059-51b8-8fa9-9d7e4b02fb1e-8891730.jpg "Curators Blanca de la Torre and Kati Kivinen. ")](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
 
 Now playing Next
 
-[Business](https://www.euronews.com/business/business)
+[Art](https://www.euronews.com/culture/art)
 
-### [General Motors takes billion-dollar hit over losses in China](https://www.euronews.com/business/2024/12/04/general-motors-takes-billion-dollar-hit-over-losses-in-china)
+### [Shelter: Helsinki Biennial 2025 asks humans to take a step back](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
 
 * * *
 
-[![Sixth night of clashes in Georgian capital after EU talks suspended](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Sixth night of clashes in Georgian capital after EU talks suspended")
+[![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")
 
-![Sixth night of clashes in Georgian capital after EU talks suspended](https://static.euronews.com/articles/stories/08/88/93/44/368x207_cmsv2_fd345bac-64a2-5320-907f-1ecf6d9f63cd-8889344.jpg "Sixth night of clashes in Georgian capital after EU talks suspended")](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](https://static.euronews.com/articles/stories/08/89/17/44/368x207_cmsv2_06b9173a-d3a4-5797-b573-8c8f32608b50-8891744.jpg "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Mexico](https://www.euronews.com/news/america/mexico)
 
-### [Sixth night of clashes in Georgian capital after EU talks suspended](https://www.euronews.com/video/2024/12/04/sixth-night-of-clashes-in-georgian-capital-after-eu-talks-suspended)
+### [Mexico seizes record fentanyl haul after Trump’s tariff threat](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
 
 [Europe](https://www.euronews.com/my-europe)
 
