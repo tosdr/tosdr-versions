@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 05, 2024](https://www.japantimes.co.jp/archive/2024/12/05/ "archive page")
+[December 06, 2024](https://www.japantimes.co.jp/archive/2024/12/06/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[South Korea's Yoon backs down after parliament rejects martial law](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
-
-  [![Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/437968.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Soldiers try to enter the National Assembly building in Seoul, after South Korea President Yoon Suk Yeol declared martial law late Tuesday evening.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/yoon-martial-law/ "South Korea's Yoon backs down after parliament rejects martial law")
-
-[BOJ weighs case for first triple hike since Japan’s bubble burst](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
-
-  [![Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437733.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Bank of Japan Gov. Kazuo Ueda reiterated in an interview published Saturday that authorities will raise rates if the economy performs in line with projections.")](https://www.japantimes.co.jp/business/2024/12/03/economy/boj-december-rate-hike-likely/ "BOJ weighs case for first triple hike since Japan’s bubble burst")
-
 [Tokyo government to introduce four-day workweek to empower women](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
 
   [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
 
-[Australian says romance scam tricked her into smuggling drugs into Japan](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
+[Yoon fights for political life as martial law repercussions reverberate](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
 
-  [![Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/03/437757.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Donna Nelson says her life was turned upside down when she learned that the man she was falling for had tricked her into smuggling 2 kilograms of methamphetamine into Japan.")](https://www.japantimes.co.jp/news/2024/12/03/japan/crime-legal/australian-romance-scam/ "Australian says romance scam tricked her into smuggling drugs into Japan")
+  [![A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438084.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
 
 [Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
   [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
+
+[Lightning strikes twice for Shun Ikeda at All Japan Championships](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
+
+  [![Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438172.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.")](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
+
+[Japan’s civic space status upgraded to highest tier](https://www.japantimes.co.jp/news/2024/12/04/japan/society/global-rights-index-upgrade/ "Japan’s civic space status upgraded to highest tier")
+
+  [![People gather in Hyogo Prefecture on Nov. 17, an election day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438080.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People gather in Hyogo Prefecture on Nov. 17, an election day.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/global-rights-index-upgrade/ "Japan’s civic space status upgraded to highest tier")
 
 [Lightning strikes twice for Shun Ikeda at All Japan Championships](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
 
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ex-Komeito chief Yamaguchi won't run for Upper House district seat](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/natsuo-yamaguchi-upper-house-district/ "Ex-Komeito chief Yamaguchi won't run for Upper House district seat")
+
+5 hours ago
+
+[Mammoths topped the menu for North American Ice Age people](https://www.japantimes.co.jp/news/2024/12/05/world/mammoth-top-ice-age-menu/ "Mammoths topped the menu for North American Ice Age people")
+
+5 hours ago
+
 [South Korea opposition chief says ousting Yoon will be difficult](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeachment-difficult/ "South Korea opposition chief says ousting Yoon will be difficult")
 
-45 mins ago
+6 hours ago
 
-[CDP and DPFP to coordinate basic policies](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/cdp-dpp-coordination/ "CDP and DPFP to coordinate basic policies")
+[CDP and DPP to coordinate basic policies](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/cdp-dpp-coordination/ "CDP and DPP to coordinate basic policies")
 
-52 mins ago
+7 hours ago
 
 [BOJ rate hike bets retreat as traders count down to key meeting](https://www.japantimes.co.jp/business/2024/12/05/boj-hike-bets-retreat/ "BOJ rate hike bets retreat as traders count down to key meeting")
 
-58 mins ago
-
-[Japan's police protected 'dark' job applicants in 125 cases](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/dark-job-police-protection/ "Japan's police protected 'dark' job applicants in 125 cases")
-
-1 hour ago
-
-[Manila to get more radars and boats from Tokyo under new military aid tranche](https://www.japantimes.co.jp/news/2024/12/05/japan/japan-philippines-security-assistance-deal/ "Manila to get more radars and boats from Tokyo under new military aid tranche")
-
-3 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
