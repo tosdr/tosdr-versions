@@ -213,9 +213,10 @@ This field is for validation purposes and should be left unchanged.
 
 Copyright © 2024 Densho
 
-Triple your impact on GivingTuesday!
+Make a year-end gift to Densho
 
-Your donation now through on December 3rd will be TRIPLED thanks to a matching grant.  
-[![](https://densho.org/wp-content/uploads/2023/05/Button-1-150x50.png)](https://densho.org/givingtuesday/)
+Donate to Densho today to keep Japanese American history accessible for generations to come.
+
+[![](https://densho.org/wp-content/uploads/2023/05/Button-Donate.png)](https://densho.org/?form=donate)
 
 x
