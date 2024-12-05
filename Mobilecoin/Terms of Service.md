@@ -70,31 +70,31 @@ Security
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
 
-35
+0
 
 Investors
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
 
-$80M
+$0M
 
 Raised to Date
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
 
-64k+
+0k+
 
 Wallets Created
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
 
-20+
+0+
 
 Partners
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
 
-180
+0
 
 Countries Reached
 
@@ -106,31 +106,31 @@ Security
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
 
-35
+0
 
 Investors
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
 
-$80M
+$0M
 
 Raised to Date
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
 
-64k+
+0k+
 
 Wallets Created
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
 
-20+
+0+
 
 Partners
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
 
-180
+0
 
 Countries Reached
 
@@ -142,31 +142,31 @@ Security
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fb21641a367e31642_investors_purple.svg)
 
-35
+0
 
 Investors
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fa6a869ad7e3ff8a7_raised_purple.svg)
 
-$80M
+$0M
 
 Raised to Date
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f214d07b77c198ed2_wallets_purple.svg)
 
-64k+
+0k+
 
 Wallets Created
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143fcda53bab1ce2f48c_partners_purple.svg)
 
-20+
+0+
 
 Partners
 
 ![](https://cdn.prod.website-files.com/652eb795295cf0f25eb7ab84/6694143f2a26757d5829dfa6_reach_purple.svg)
 
-180
+0
 
 Countries Reached
 
