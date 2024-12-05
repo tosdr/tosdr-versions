@@ -25,6 +25,7 @@ GO TO EUROPEAN SITE
     * [Fleece](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_family=Fleece&sort_by=manual)
     * [Bottoms](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_family=Bottoms&sort_by=manual)
     * [Outerwear](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_family=Outerwear&sort_by=manual)
+    * [Essentials](https://www.seekdiscomfort.com/collections/seeker-essentials)
     * [Headwear](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_family=Headwear&sort_by=manual)
     * [Accessories](https://www.seekdiscomfort.com/collections/all?filter.p.m.custom.filter_product_category_2=Homeware&filter.p.m.custom.filter_product_category_2=Accessories&sort_by=manual)
     
