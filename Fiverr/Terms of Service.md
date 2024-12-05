@@ -130,7 +130,7 @@
     * [Speed Optimization](https://www.fiverr.com/categories/programming-tech/website-maintenance/performance?source=category_tree)
     
     * [AI Development](https://www.fiverr.com/categories/programming-tech/ai-coding?source=category_tree)
-    * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
+    * [AI Websites & Software](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-software-website?source=category_tree)
     * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
@@ -138,10 +138,10 @@
     * [OpenAI GPT Storenew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
+    * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
+    * [Rules Based Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/rule-based-chatbots?source=category_tree)
     * [Discord](https://www.fiverr.com/categories/programming-tech/buy/chatbots/discord?source=category_tree&ref=messaging_platform%3Adiscord)
     * [Telegram](https://www.fiverr.com/categories/programming-tech/buy/chatbots/telegram?source=category_tree&ref=messaging_platform%3Atelegram)
-    * [TikTok](https://www.fiverr.com/categories/programming-tech/buy/chatbots/tiktok?source=category_tree&ref=messaging_platform%3Atiktok)
-    * [Facebook Messenger](https://www.fiverr.com/categories/programming-tech/buy/chatbots/facebook-messenger?source=category_tree&ref=messaging_platform%3Afacebook_messenger)
     
     * [Game Development](https://www.fiverr.com/categories/programming-tech/game-development?source=category_tree)
     * [Gameplay Experience & Feedbacknew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
@@ -171,6 +171,7 @@
     * [Software Development](https://www.fiverr.com/categories/programming-tech/software-development?source=category_tree)
     * [Web Applications](https://www.fiverr.com/categories/programming-tech/software-development/web-application?source=category_tree)
     * [Desktop Applications](https://www.fiverr.com/categories/programming-tech/software-development/desktop-applications?source=category_tree)
+    * [Automations & Workflows](https://www.fiverr.com/categories/programming-tech/software-development/automations-workflows?source=category_tree)
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
     * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
@@ -840,7 +841,7 @@ Browse categories
     * [Speed Optimization](https://www.fiverr.com/categories/programming-tech/website-maintenance/performance?source=category_tree)
     
     * [AI Development](https://www.fiverr.com/categories/programming-tech/ai-coding?source=category_tree)
-    * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
+    * [AI Websites & Software](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-software-website?source=category_tree)
     * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
@@ -848,10 +849,10 @@ Browse categories
     * [OpenAI GPT StoreNew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
+    * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
+    * [Rules Based Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/rule-based-chatbots?source=category_tree)
     * [Discord](https://www.fiverr.com/categories/programming-tech/buy/chatbots/discord?source=category_tree&ref=messaging_platform%3Adiscord)
     * [Telegram](https://www.fiverr.com/categories/programming-tech/buy/chatbots/telegram?source=category_tree&ref=messaging_platform%3Atelegram)
-    * [TikTok](https://www.fiverr.com/categories/programming-tech/buy/chatbots/tiktok?source=category_tree&ref=messaging_platform%3Atiktok)
-    * [Facebook Messenger](https://www.fiverr.com/categories/programming-tech/buy/chatbots/facebook-messenger?source=category_tree&ref=messaging_platform%3Afacebook_messenger)
     
     * [Game Development](https://www.fiverr.com/categories/programming-tech/game-development?source=category_tree)
     * [Gameplay Experience & FeedbackNew](https://www.fiverr.com/categories/lifestyle/game-testing?source=category_tree)
@@ -880,6 +881,7 @@ Browse categories
     * [Software Development](https://www.fiverr.com/categories/programming-tech/software-development?source=category_tree)
     * [Web Applications](https://www.fiverr.com/categories/programming-tech/software-development/web-application?source=category_tree)
     * [Desktop Applications](https://www.fiverr.com/categories/programming-tech/software-development/desktop-applications?source=category_tree)
+    * [Automations & Workflows](https://www.fiverr.com/categories/programming-tech/software-development/automations-workflows?source=category_tree)
     * [APIs & Integrations](https://www.fiverr.com/categories/programming-tech/software-development/api-integrations?source=category_tree)
     * [Databases](https://www.fiverr.com/categories/data/databases?source=category_tree)
     * [Scripting](https://www.fiverr.com/categories/programming-tech/software-development/scripting?source=category_tree)
