@@ -2,15 +2,15 @@ Ad
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1733195548/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1733358102/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1733195548/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1733358102/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1733195548/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1733358102/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1733195548/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1733358102/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -18,7 +18,7 @@ SectionsMy Region
 
 [News](https://www.canberratimes.com.au/news/)
 
-[Local News](https://www.canberratimes.com.au/news/local-news/)[Court and Crime](https://www.canberratimes.com.au/news/court-crime/)[Property and Development](https://www.canberratimes.com.au/news/property-development/)[ACT Politics](https://www.canberratimes.com.au/news/act-politics/)[Federal Politics](https://www.canberratimes.com.au/news/federal-politics/)[Transport](https://www.canberratimes.com.au/news/transport/)[National](https://www.canberratimes.com.au/news/national/)[Defence](https://www.canberratimes.com.au/news/defence/)[World](https://www.canberratimes.com.au/news/world/)[Business](https://www.canberratimes.com.au/news/business/)[Economics](https://www.canberratimes.com.au/news/economics/)[Health](https://www.canberratimes.com.au/news/health/)[Education](https://www.canberratimes.com.au/news/education/)[Science and technology](https://www.canberratimes.com.au/news/science-technology/)[Environment](https://www.canberratimes.com.au/news/environment/)[History](https://www.canberratimes.com.au/news/history/)[Obituaries](https://www.canberratimes.com.au/news/obituaries/)[Send Us Your News](https://www.canberratimes.com.au/news/send-us-your-news/)[Motoring News](https://www.canberratimes.com.au/news/car-expert/)[How Many More?](https://www.canberratimes.com.au/news/how-many-more/)[Cost of Living](https://www.canberratimes.com.au/news/cost-of-living/)[Young and Regional](https://www.canberratimes.com.au/news/young-and-regional-algorithm/)
+[Local News](https://www.canberratimes.com.au/news/local-news/)[Court and Crime](https://www.canberratimes.com.au/news/court-crime/)[What's On](https://www.canberratimes.com.au/news/whats-on/)[Property and Development](https://www.canberratimes.com.au/news/property-development/)[ACT Politics](https://www.canberratimes.com.au/news/act-politics/)[Federal Politics](https://www.canberratimes.com.au/news/federal-politics/)[Transport](https://www.canberratimes.com.au/news/transport/)[National](https://www.canberratimes.com.au/news/national/)[Defence](https://www.canberratimes.com.au/news/defence/)[World](https://www.canberratimes.com.au/news/world/)[Business](https://www.canberratimes.com.au/news/business/)[Economics](https://www.canberratimes.com.au/news/economics/)[Health](https://www.canberratimes.com.au/news/health/)[Education](https://www.canberratimes.com.au/news/education/)[Science and technology](https://www.canberratimes.com.au/news/science-technology/)[Environment](https://www.canberratimes.com.au/news/environment/)[History](https://www.canberratimes.com.au/news/history/)[Obituaries](https://www.canberratimes.com.au/news/obituaries/)[Send Us Your News](https://www.canberratimes.com.au/news/send-us-your-news/)[Motoring News](https://www.canberratimes.com.au/news/car-expert/)[How Many More?](https://www.canberratimes.com.au/news/how-many-more/)[Cost of Living](https://www.canberratimes.com.au/news/cost-of-living/)[Young and Regional](https://www.canberratimes.com.au/news/young-and-regional-algorithm/)
 
 [Public Service](https://www.canberratimes.com.au/public-service/)
 
@@ -26,9 +26,9 @@ SectionsMy Region
 
 [Live](https://www.canberratimes.com.au/sport/live/)[AFL Canberra](https://www.canberratimes.com.au/sport/local-afl/first-grade/)[Local Sport](https://www.canberratimes.com.au/sport/local-sport/)[Raiders](https://www.canberratimes.com.au/sport/raiders/)[Brumbies](https://www.canberratimes.com.au/sport/brumbies/)[NRL](https://www.canberratimes.com.au/sport/nrl/)[AFL](https://www.canberratimes.com.au/sport/afl/)[Rugby](https://www.canberratimes.com.au/sport/rugby/)[Soccer](https://www.canberratimes.com.au/sport/soccer/)[Cricket](https://www.canberratimes.com.au/sport/cricket/)[Capitals](https://www.canberratimes.com.au/sport/capitals/)[United](https://www.canberratimes.com.au/sport/united/)[Racing](https://www.canberratimes.com.au/sport/racing/)[Tennis](https://www.canberratimes.com.au/sport/tennis/)[Scores and Draws](https://www.canberratimes.com.au/scores-and-draws/)[A-League](https://www.canberratimes.com.au/sport/a-league/)[World Sport](https://www.canberratimes.com.au/sport/world/)
 
-[Community](https://www.canberratimes.com.au/community/)
+[Comment](https://www.canberratimes.com.au/comment/)
 
-[Things to do](https://www.canberratimes.com.au/whats-on/things-to-do/)[Competitions](https://www.canberratimes.com.au/whats-on/competitions/)[Social photos](https://www.canberratimes.com.au/community/photos/)
+[Letters to the Editor](https://www.canberratimes.com.au/comment/letters-to-the-editor/)[Editorial](https://www.canberratimes.com.au/comment/editorial/)[Opinion](https://www.canberratimes.com.au/comment/opinion/)[Cartoons](https://www.canberratimes.com.au/comment/cartoons/)
 
 [Entertainment](https://www.canberratimes.com.au/entertainment/)
 
@@ -41,10 +41,6 @@ SectionsMy Region
 [Video](https://www.canberratimes.com.au/video/)
 
 [Breaking](https://www.canberratimes.com.au/video/breaking/)[Local](https://www.canberratimes.com.au/video/local/)[National](https://www.canberratimes.com.au/video/national/)[Viral](https://www.canberratimes.com.au/video/viral/)[World](https://www.canberratimes.com.au/video/world/)[Animal](https://www.canberratimes.com.au/video/animal/)[Politics](https://www.canberratimes.com.au/video/politics/)[Crime](https://www.canberratimes.com.au/video/crime/)[Entertainment](https://www.canberratimes.com.au/video/entertainment/)[Sport](https://www.canberratimes.com.au/video/sport/)[Automotive](https://www.canberratimes.com.au/video/automotive/)
-
-[Comment](https://www.canberratimes.com.au/comment/)
-
-[Letters to the Editor](https://www.canberratimes.com.au/comment/letters-to-the-editor/)[Editorial](https://www.canberratimes.com.au/comment/editorial/)[Opinion](https://www.canberratimes.com.au/comment/opinion/)[Cartoons](https://www.canberratimes.com.au/comment/cartoons/)
 
 [Puzzles](https://www.canberratimes.com.au/puzzles/)
 
@@ -304,7 +300,7 @@ Tracking and Targeting
 
 [Tracking and Targeting Policy](https://www.canberratimes.com.au/tracking-and-targeting/)
 
-[![The Canberra Times](/static/1733195548/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1733358102/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
