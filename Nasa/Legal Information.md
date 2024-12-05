@@ -291,19 +291,19 @@ article 1 week ago](https://www.nasa.gov/general/nasas-commercial-partners-make-
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 15 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+article 16 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
 
 4 min read
 
 ### Expanded AI Model with Global Data Enhances Earth Science Applications 
 
-article 17 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
+article 18 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 75: New Opportunity: A.64 FORTE Science Team](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2024/fastestlake_oli_20240804.jpg)
 
 2 min read
 
 ### Amendment 75: New Opportunity: A.64 FORTE Science Team
 
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)
+article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-75-new-opportunity-a-64-forte-science-team/)
 
 ### Highlights
 
@@ -357,13 +357,13 @@ article 1 week ago](https://science.nasa.gov/mission/excite/)
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 15 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
+article 16 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
 
 4 min read
 
 ### Expanded AI Model with Global Data Enhances Earth Science Applications 
 
-article 17 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
+article 18 hours ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)[![Amendment 78: D.10 TESS General Investigator Program Final Text and Due Date](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/TESSLavaPlanet.jpg)
 
 1 min read
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA Flips Efficient Wing Concept for Testing
 
-article 9 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
+article 10 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
 
 2 min read
 
