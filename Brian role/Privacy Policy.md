@@ -31,7 +31,7 @@ Menu
 Magic and Illusion
 
 BRIAN ROLE\`
-============
+------------
 
 Your Wonderment Is Brian's Business
 
@@ -64,7 +64,7 @@ Your Wonderment Is Brian's Business
 Magic and Illusion
 
 BRIAN ROLE\`
-============
+------------
 
 Your Wonderment Is Brian's Business
 
