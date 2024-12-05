@@ -60,6 +60,11 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![無師自渡](https://www.pili.com.tw/img/role/240x278/wushizidu_1.jpg?v=1733364135)
+    
+    釋
+    
+    ###### 無師自渡](https://www.pili.com.tw/role-view/wushizidu/)
 * [![羴果佬](https://www.pili.com.tw/img/role/240x278/shanguolao_1.jpg?v=1727776849)
     
     雜學
@@ -80,11 +85,6 @@ Hello, 你好!
     雜學
     
     ###### 如果先生](https://www.pili.com.tw/role-view/ruguoxiansheng/)
-* [![無師自渡](https://www.pili.com.tw/img/role/240x278/wushizidu_1.jpg?v=1720519184)
-    
-    釋
-    
-    ###### 無師自渡](https://www.pili.com.tw/role-view/wushizidu/)
 * [![雨知儂](https://www.pili.com.tw/img/role/240x278/yuzhinong_1.jpg?v=1720518592)
     
     雜學
