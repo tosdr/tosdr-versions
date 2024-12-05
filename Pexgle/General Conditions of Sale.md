@@ -1,4 +1,4 @@
-[![Pexgle](//www.pexgle.com/wp-content/uploads/2019/01/logo.png)](https://www.pexgle.com/)
+[![Pexgle](//www.pexgle.com/wp-content/uploads/2019/01/xlogo.png.pagespeed.ic.V_lkQd-qs4.png)](https://www.pexgle.com/)
 
 * [Pricing](https://www.pexgle.com/pricing/)
 * [Picked By AI](https://www.pexgle.com/picked-by-ai/)
