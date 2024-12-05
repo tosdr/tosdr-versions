@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [Lead Exposure Widely Damaged Mental Health](https://www.sciencedaily.com/releases/2024/12/241204114237.htm)
-* [Tiny, Daily Bursts of Activity May Halve ...](https://www.sciencedaily.com/releases/2024/12/241203194357.htm)
-* [Countdown to an Ice-Free Arctic](https://www.sciencedaily.com/releases/2024/12/241203154440.htm)
-* [New Planet Discovered in Kepler-51 System](https://www.sciencedaily.com/releases/2024/12/241203153927.htm)
-* [Insect Fossil Find 'Extremely Rare'](https://www.sciencedaily.com/releases/2024/12/241202221905.htm)
-* [Visceral Fat Linked to Future Alzheimer's](https://www.sciencedaily.com/releases/2024/12/241202124520.htm)
-* [New 3D Printing Approach Means Better Devices](https://www.sciencedaily.com/releases/2024/12/241202124507.htm)
-* [AI Could Automate Genomics Research](https://www.sciencedaily.com/releases/2024/12/241202123918.htm)
-* [Self-Assembling Electronics](https://www.sciencedaily.com/releases/2024/12/241202123718.htm)
-* [Measuring Brainwaves: Temporary Tattoo On Scalp](https://www.sciencedaily.com/releases/2024/12/241202123531.htm)
+* [Culture and Emotional Experience in Humans](https://www.sciencedaily.com/releases/2024/12/241204113643.htm)
+* [Recovery from Trauma](https://www.sciencedaily.com/releases/2024/12/241204113527.htm)
+* [Manta Rays Inspire Fast Swimming Soft Robot](https://www.sciencedaily.com/releases/2024/12/241204145135.htm)
+* [Mammoth as Key Food Source for Ancient Americans](https://www.sciencedaily.com/releases/2024/12/241204145021.htm)
+* [How Did Humans and Dogs Become Friends?](https://www.sciencedaily.com/releases/2024/12/241204145004.htm)
+* [Lasting Effects of Common Herbicide On the Brain](https://www.sciencedaily.com/releases/2024/12/241204113640.htm)
+* [Plastic-Eating Bugs May Help With Microplastics](https://www.sciencedaily.com/releases/2024/12/241203194324.htm)
+* [Massive Asteroid Impacts and Earth's Climate](https://www.sciencedaily.com/releases/2024/12/241204114317.htm)
+* [The Heart Has Its Own 'Brain'](https://www.sciencedaily.com/releases/2024/12/241204114304.htm)
+* [Owning a Home in the US Linked to Longer Life](https://www.sciencedaily.com/releases/2024/12/241204114018.htm)
 
 Trending Topics
 ---------------
@@ -232,23 +232,23 @@ this week
 
 [Medical Devices](https://www.sciencedaily.com/news/health_medicine/medical_devices/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
-
-[Pluto](https://www.sciencedaily.com/news/space_time/pluto/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
+
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
-
 [Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+
+[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
 
   
 
