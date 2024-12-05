@@ -87,7 +87,7 @@ Legislation & Compliance 
 * [Features](https://wire.com/en/features)
 * [Security](https://wire.com/en/security)
 * [Plans & Pricing](https://wire.com/en/pricing)
-* [Deployment options](https://wire.com/en/deployment-options)
+* [Deployment Options](https://wire.com/en/deployment-options)
 
 ### Solutions
 
