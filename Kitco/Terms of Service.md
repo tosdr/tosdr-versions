@@ -173,7 +173,6 @@ Show More
     * [VaultChainTM Gold](https://online.kitco.com/vaultchain-digital-gold-silver-using-blockchain/ "VaultChain Gold")
     * [VaultChainTM Silver](https://online.kitco.com/vaultchain-digital-gold-silver-using-blockchain/ "VaultChain Silver")
     * [Kitco Allocated Storage Program](https://online.kitco.com/storage "Kitco Allocated Storage Program")
-    * [Cayman Storage Program](https://online.kitco.com/cayman-storage-program "Cayman Storage Program")
     * [IRA | RSP](https://online.kitco.com/ira-rsp/ "IRA RSP")
 * [Refining Services](https://online.kitco.com/refining "Refining Services")
     
