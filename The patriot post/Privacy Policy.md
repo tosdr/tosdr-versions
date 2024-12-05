@@ -114,26 +114,26 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112550-seriously-2024-12-04)
+     [](https://patriotpost.us/memes/112564-new-pronouns-2024-12-05)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34611)
+     [](https://patriotpost.us/cartoons/34615)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [The Babylon Bee Trump Announces Plan to Annex Canada and Rename It ‘Gay North Dakota’](https://patriotpost.us/opinion/112577-trump-announces-plan-to-annex-canada-and-rename-it-gay-north-dakota-2024-12-05)
+*      [Larry Elder Biden Breaks His Promise and Pardons His Son — Yeah, But Trump!](https://patriotpost.us/opinion/112554-biden-breaks-his-promise-and-pardons-his-son-yeah-but-trump-2024-12-05)
+*      [Gary Bauer Putting Angola First](https://patriotpost.us/opinion/112556-putting-angola-first-2024-12-05)
+*      [Armstrong Williams Robert F. Kennedy Jr.: Will He Make America Healthy Again?](https://patriotpost.us/opinion/112555-robert-f-kennedy-jr-dot-will-he-make-america-healthy-again-2024-12-05)
+*      [Cal Thomas The Hunter Biden Pardon](https://patriotpost.us/opinion/112549-the-hunter-biden-pardon-2024-12-05)
 *      [Ben Shapiro The Milei Revolution](https://patriotpost.us/opinion/112568-the-milei-revolution-2024-12-05)
-*      [Jeff Jacoby A student’s T-shirt says: ‘There are only two genders.’ What does the Constitution say?](https://patriotpost.us/opinion/112551-a-students-t-shirt-says-there-are-only-two-genders-dot-what-does-the-constitution-say-2024-12-04)
+*      [Jeff Jacoby A Student’s T-Shirt Says: ‘There Are Only Two Genders.’ What Does the Constitution Say?](https://patriotpost.us/opinion/112551-a-students-t-shirt-says-there-are-only-two-genders-dot-what-does-the-constitution-say-2024-12-04)
 *      [Mark Alexander Trump Day 2: Restore Freedom of Speech](https://patriotpost.us/alexander/112539-trump-day-2-restore-freedom-of-speech-2024-12-04)
-*      [The Babylon Bee 10 Drastic Changes Kash Patel Will Make To FBI](https://patriotpost.us/opinion/112536-10-drastic-changes-kash-patel-will-make-to-fbi-2024-12-04)
-*      [Star Parker Democratic Party Monopoly on the Black Vote Is Over](https://patriotpost.us/opinion/112519-democratic-party-monopoly-on-the-black-vote-is-over-2024-12-04)
-*      [Ian Haworth Joe Biden’s Legacy: Lies, Chaos and Blood](https://patriotpost.us/opinion/112518-joe-bidens-legacy-lies-chaos-and-blood-2024-12-04)
-*      [Tim Graham The Press Still Pretends the Justice Department Is Pristine](https://patriotpost.us/opinion/112517-the-press-still-pretends-the-justice-department-is-pristine-2024-12-04)
-*      [John Stossel Stone Age Ports](https://patriotpost.us/opinion/112516-stone-age-ports-2024-12-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,9 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
