@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Watch The Remastered Music Video For...](https://classiccountrymusic.com/remastered-music-video-for-george-straits-i-cross-my-heart/)
 * [Team Snoop’s Christina Eagle Fights For...](https://classiccountrymusic.com/team-snoops-christina-eagle-fights-for-finale-spot-with-energetic-shania-twain-cover/)
 * [Watch Toby Keith’s Brand-New Video For...](https://classiccountrymusic.com/watch-toby-keiths-brand-new-video-for-old-toy-trains/)
-* [Ned LeDoux To Release An Unheard...](https://classiccountrymusic.com/ned-ledoux-to-release-an-unheard-duet-with-his-late-dad-chris-ledoux/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
