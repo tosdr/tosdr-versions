@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Картофельная запеканка с морепродуктами](https://www.russianfood.com/recipes/recipe.php?rid=172790)
 * [Сдобные булочки с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=157565)
 * [Тёртый творожный пирог с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=160871)
 * [Котлеты "Пальчики" с сыром и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=160661)
@@ -176,6 +177,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) |     |
+
+[![Фото к рецепту: Шоколадный блинный торт с вишней и сметанным желе](//img1.russianfood.com/dycontent/images_upl/757/sm_756837.jpg "Фото к рецепту: Шоколадный блинный торт с вишней и сметанным желе")](https://www.russianfood.com/recipes/recipe.php?rid=175005)
+
+Восхитительно нежное лакомство из тонких блинчиков с какао, нарезанных полосками и перемешанных со сметанным желе. Ягоды вишни идеально дополняют шоколадно-сливочный вкус десерта. Сметанный торт-желе с шоколадными блинчиками и вишней прекрасно подойдет для любого праздника и романтического вечера.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175005)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175005#comments) | 05.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -315,7 +330,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174565#comments) | 02.12.24 |     |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174565#comments) | 02.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -372,20 +387,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22947#comments) | 02.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Спешите подкрепиться! Лучшие рецепты БЫСТРЕЕ! №24-49](https://www.russianfood.com/reading/?post_id=22946) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/745/sm_744001.jpg)](https://www.russianfood.com/reading/?post_id=22946)
-
-Закусочный пирог из лаваша с колбасой. Свинина с хурмой в томатном соусе. Куриный суп с тыквой и фасолью. Творожные оладьи с грушей. Кексы с рикоттой и черешней.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22946)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22946#comments) | 02.12.24 |     |
 
 |     |
 | --- |
@@ -456,10 +457,10 @@
 
 Новые рецепты:
 
-|     |     |     |
-| --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
-| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
+|     |     |     |     |
+| --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741205.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [![](//img1.russianfood.com/dycontent/images_upl/744/alt1_743339.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756837.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
+| [Рулетики-голубцы из пекинской капусты с фаршем, без риса](https://www.russianfood.com/recipes/recipe.php?rid=174425) | [Салат из цветной капусты и брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174016) | [Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -476,4 +477,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(101)
+(121)
