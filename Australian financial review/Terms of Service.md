@@ -297,7 +297,6 @@ Advertise
 
 ### [Not everyone likes this new watch CEO. He’s OK with that](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
 
-* 54 mins ago
 * Simon de Burton
 
 * ### [Here’s what’s ticking, according to the CEOs of three top watch brands](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-s-ticking-according-to-the-ceos-of-three-top-watch-brands-20241108-p5kp1h)
@@ -312,7 +311,6 @@ Advertise
 
 ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
 
-* 54 mins ago
 * Sally Patten
 
 * ### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
@@ -327,7 +325,6 @@ Advertise
 
 ### [For the wine-lover in your life, wrap up this literary treat](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
 
-* 54 mins ago
 * Max Allen
 
 * ### [Excess all areas – for those who prefer price on application](https://www.afr.com/life-and-luxury/fashion-and-style/excess-all-areas-for-those-who-prefer-price-on-application-20241105-p5kny8)
