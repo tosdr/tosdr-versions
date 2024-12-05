@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/38821079-9e13-4031-87ae-a84324ea1539/38821079-9e13-4031-87ae-a84324ea1539_360x203.jpg)](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
+        
+        #### [Three juveniles arrested for alleged vehicle burglaries in Bryan](https://www.kagstv.com/article/news/crime/three-juveniles-arrested-string-vehicle-burglaries-bryan/500-8d3303b8-3247-420b-bff0-1bbcc8bf3ae1)
+        
     *  [![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_16x9.jpg) ![](https://media.kagstv.com/assets/WTOL/images/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c/c10ad3a3-1eb9-42c5-89c3-2c9e2bce1e6c_360x203.jpg)](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
         
         #### [Juvenile that escaped Brazos County Detention Center has been captured, officials say](https://www.kagstv.com/article/news/local/escaped-juvenile-from-brazos-county-juvenile-detention-center/500-a2a29cb4-0a40-47d6-86c4-858ba7acd244)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/f6f3cd02-fee2-4034-9bc4-4b3073166481/f6f3cd02-fee2-4034-9bc4-4b3073166481_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/f6f3cd02-fee2-4034-9bc4-4b3073166481/f6f3cd02-fee2-4034-9bc4-4b3073166481_360x203.jpg)](https://www.kagstv.com/article/news/weird/fake-construction-workers-arrested-at-kyle-field-during-2024-lone-star-showdown/500-f6bf4344-f271-4d45-a6f8-9062a6cd2541)
-        
-        #### [Police arrest two men posing as construction workers attempting to enter Kyle Field for A&M-Texas game](https://www.kagstv.com/article/news/weird/fake-construction-workers-arrested-at-kyle-field-during-2024-lone-star-showdown/500-f6bf4344-f271-4d45-a6f8-9062a6cd2541)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -50,7 +50,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.kagstv.com/assets/KCEN/images/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee/20241204T105210/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee/20241204T105210/c8e0db5e-43a8-4c35-8fbb-8e271d5866ee_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/b90bc5da-dce6-49b2-bccd-191343867dd5/20241205T003039/b90bc5da-dce6-49b2-bccd-191343867dd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b90bc5da-dce6-49b2-bccd-191343867dd5/20241205T003039/b90bc5da-dce6-49b2-bccd-191343867dd5_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
         #### [Rain back in the forecast today | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-61°
+58°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
