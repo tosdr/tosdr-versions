@@ -1,3 +1,7 @@
+[Walmart: Canada’s #1 toy shop - every toy on their list + 1% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/walmart?store=walmart&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -157,7 +161,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/canadian-tire)[HelloFresh
         
-        7.5% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
+        15% Cash Back](https://www.rakuten.ca/hellofresh)[TEMU
         
         12% Cash Back](https://www.rakuten.ca/temu)
         
@@ -171,7 +175,7 @@ FR
         
         Chefs Plate
         
-        7.5% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
+        15% Cash Back](https://www.rakuten.ca/ticket/campaign/5CategoryFeaturedStores/store/chefsplate?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -285,7 +289,7 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
-        3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
+        8% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
         up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
