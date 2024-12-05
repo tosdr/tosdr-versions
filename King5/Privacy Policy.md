@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ea94505a-aed5-4f23-aa1c-76f17678b401/20241205T065458/ea94505a-aed5-4f23-aa1c-76f17678b401_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ea94505a-aed5-4f23-aa1c-76f17678b401/20241205T065458/ea94505a-aed5-4f23-aa1c-76f17678b401_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-investigate-mail-truck-break-in-during-busy-holiday-season/281-7dead6f6-f217-46ba-bbbb-cb2b59e361d5)
+    *  [![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_360x203.jpg)](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
         
-        #### [Seattle police investigate mail truck break-ins during the busy holiday season](https://www.king5.com/article/news/crime/seattle-police-investigate-mail-truck-break-in-during-busy-holiday-season/281-7dead6f6-f217-46ba-bbbb-cb2b59e361d5)
+        #### [Lynnwood driver dies after crashing into apartment building](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
         
-    *  [![](https://media.king5.com/assets/KING/images/364a7325-9a8f-40c6-98b7-9a97db3d6212/20241205T061530/364a7325-9a8f-40c6-98b7-9a97db3d6212_16x9.jpg) ![](https://media.king5.com/assets/KING/images/364a7325-9a8f-40c6-98b7-9a97db3d6212/20241205T061530/364a7325-9a8f-40c6-98b7-9a97db3d6212_360x203.jpg)](https://www.king5.com/article/news/local/police-respond-western-washington-schools-after-false-threats-reported/281-03c5a109-f38e-4c26-885e-5b110c20479d)
+    *  [![](https://media.king5.com/assets/KING/images/a21518c5-3d36-423f-8924-bd343da0434a/20241205T021702/a21518c5-3d36-423f-8924-bd343da0434a_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a21518c5-3d36-423f-8924-bd343da0434a/20241205T021702/a21518c5-3d36-423f-8924-bd343da0434a_360x203.jpg)](https://www.king5.com/article/news/local/bellevue/washington-states-largest-asian-supermarket-opens-bellevue/281-3370b00f-cf43-4590-a40f-773111f9179b)
         
-        #### ['Swatting calls' reported at several western Washington schools](https://www.king5.com/article/news/local/police-respond-western-washington-schools-after-false-threats-reported/281-03c5a109-f38e-4c26-885e-5b110c20479d)
+        #### [Largest Asian supermarket in Washington state opens Thursday](https://www.king5.com/article/news/local/bellevue/washington-states-largest-asian-supermarket-opens-bellevue/281-3370b00f-cf43-4590-a40f-773111f9179b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6567e79a-aa0a-432d-8c5f-d9b419285eb7/20241205T063308/6567e79a-aa0a-432d-8c5f-d9b419285eb7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6567e79a-aa0a-432d-8c5f-d9b419285eb7/20241205T063308/6567e79a-aa0a-432d-8c5f-d9b419285eb7_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae/20241205T125858/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae/20241205T125858/54d5b66c-5ad8-48fb-88e7-b6afdad2c5ae_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-35°
+34°
 
 ![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
