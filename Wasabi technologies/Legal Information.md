@@ -28,7 +28,7 @@ Wasabi Privacy Policy
 * [February 15, 2023](https://cdn.brandfolder.io/BFD8NB05/at/vnk93cwjbpq3v8p28r658/Wasabi_Technologies_Privacy_Policy_21523_REFERENCE_ONLY.pdf)
     
 
-[Company](https://wasabi.com/legal/privacy-policy?_gl=1*1d2ryra*_gcl_aw*R0NMLjE3MzMzNzA2OTkuRUFJYUlRb2JDaE1JX2F6aF9keVBpZ01WcGFUWUJSM2VNdzBhRUFFWUFTQUFFZ0xvN19EX0J3RQ..*_gcl_au*MTA3OTA2ODYyMS4xNzMzMzcwNjk4*_ga*MTgwMzQ0NTc0OC4xNzMzMzcwNjk5*_ga_8KLPMPWFPV*MTczMzM3MDcwMS4xLjAuMTczMzM3MDcwMi41OS4wLjA.#)
+[Company](https://wasabi.com/legal/privacy-policy#)
 
 * [About Wasabi](https://wasabi.com/company)
     
