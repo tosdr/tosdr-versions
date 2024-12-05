@@ -83,7 +83,7 @@ English
 Privacy Policy
 ==============
 
-Effective Date: July 25, 2024
+Effective Date: 25 July, 2024
 -----------------------------
 
 This Privacy Policy describes how KAYAK Software Corporation and its subsidiaries, or subsidiaries of our parent company Booking Holdings Inc. that we manage **“HotelsCombined”**, **“we”**, **“our”** or **“us”**) collect, use, process and share personal information. This Policy applies to visitors and users (individually, **“you”** of KAYAK's websites (including but not limited to KAYAK, momondo, HotelsCombined, SWOODOO, Cheapflights, checkfelix, Mundi and roomsearch), applications, social media accounts, and other services (collectively, our **“Services”**). You can identify the KAYAK company that hosts a particular Service and is responsible for your information under this Policy [here](https://www.hotelscombined.com/about/contacts). Please note that your use of our Services is additionally subject to the KAYAK [Terms and Conditions](https://www.hotelscombined.com/terms-of-use).
