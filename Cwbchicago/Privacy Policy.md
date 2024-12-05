@@ -243,35 +243,36 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Sidi-Mohamed-Abdallahi-326x245.jpg)](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Michael-Valentine-326x245.jpg)](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
 
-West Rogers Park
+Citywide
 
-### [Hate crime shooter is found dead inside Cook County jail](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
+### [Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
 
-[December 1, 2024 3:18 PM](https://cwbchicago.com/2024/12)
+[December 2, 2024 12:41 PM](https://cwbchicago.com/2024/12)
 
-Sidi Mohamed Abdallahi, the man accused of targeting Jews, Chicago Police Officers, and paramedics during a shooting spree in West Rogers Park, was found dead at the Cook County jail on Friday afternoon.[](https://cwbchicago.com/2024/12/breaking-chicago-hate-crime-shooter-is-found-dead-inside-cook-county-jail.html "Hate crime shooter is found dead inside Cook County jail")
+A man accused of robbing a U.S. Postal Service mail carrier has been given a four-year sentence. Michael Valentine, 38, received a concurrent four-year sentence for using the postal worker’s master key to steal mail in Rogers Park.[](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/01/Damian-Bello-Ronald-Benitez-Adrian-Hernandez-326x245.jpg)](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/JaimeMiller-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
 
-Lower West Side
+River North
 
-### [2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
+### [Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
 
-[December 1, 2024 11:19 AM](https://cwbchicago.com/2024/12)
+[December 2, 2024 7:25 AM](https://cwbchicago.com/2024/12)
 
-On the heels of last night’s double shooting involving men who attended a street takeover on the Southwest Side, we decided to check in on a trio of guys who were accused of having guns during an unrelated stunt-driving session late last year. Two had much better outcomes than the third.[](https://cwbchicago.com/2024/12/2-get-probation-1-gets-prison-for-having-guns-at-stunt-driving-takeover.html "2 get probation, 1 gets prison for having guns at stunt-driving ‘takeover’")
+It’s the hottest scam in years and there’s no indication that it’s gonna go away anytime soon. What is it? Schemers use the banking apps on their victims’ phones to transfer large sums of money to themselves.[](https://cwbchicago.com/2024/12/man-charged-with-fraudulently-transferring-1900-from-victims-phone-in-wrigleyville.html "Man charged with fraudulently transferring $1,900 from victim’s phone in Wrigleyville")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/BRITTNY-BROWN-326x245.jpg)](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Dioseneth-cortes-aka-jose-martinez-326x245.jpg)](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
 
-Loop
+Gold Coast
 
-### [Woman charged with setting merchandise on fire inside downtown Target store](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
+### [Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
 
-[December 1, 2024 8:15 AM](https://cwbchicago.com/2024/12)
+[December 2, 2024 6:32 AM](https://cwbchicago.com/2024/12)
 
-Prosecutors have charged a woman with setting fire to merchandise inside a downtown Target store. The same location was the scene of another arson fire last year that prosecutors say was designed to be a distraction for a robbery scheme.[](https://cwbchicago.com/2024/12/woman-charged-with-setting-merchandise-on-fire-inside-downtown-target-store.html "Woman charged with setting merchandise on fire inside downtown Target store")
+“Treatment, not trauma.” Local politicians love tossing that catchy phrase around, suggesting that many people who enter the criminal justice system for minor violations would be better served by receiving treatment for substance abuse or mental health issues rather than jail time. The problem is this: Those same politicians are minimizing or eliminating penalties for wrongdoing without providing the treatment they claim is needed.  
+[](https://cwbchicago.com/2024/12/migrant-arrested-6-times-in-6-months-now-faces-robbery-and-burglary-charges.html "Migrant, arrested 6 times in 6 months, now faces robbery and burglary charges")
 
 Search
 
