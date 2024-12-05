@@ -326,7 +326,7 @@ About us
 * [About SEEK](https://www.seek.com.au/about)
 * [Newsroom](https://www.seek.com.au/about/news)
 * [Investors](https://www.seek.com.au/about/investors)
-* [Careers](https://www.seek.com.au/work-for-seek)
+* [Careers](https://www.seek.com.au/careers)
 * International partners
     
     * [Bdjobs (Bangladesh)](https://www.bdjobs.com/)
