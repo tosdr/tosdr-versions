@@ -1,9 +1,9 @@
 [Skip to main content](#skipnav)
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-1. [Legal Notices](https://www.pinsentmasons.com/legal-notices) 
-2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings) 
+1. [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices) 
+2. Cookie Policy [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings) 
 
 [toggle menu](# "Menu")
 
@@ -335,7 +335,7 @@ Where we process 'personal data' using these essential cookies, we do so on the 
     | Purpose of essential cookies | The essential cookies that we use on our website are technically necessary for the site to function properly.<br><br>For example, essential cookies are required so that you can log into your account, set your preferences and complete forms. They remember you and your settings, and save you having to retype information when navigating between pages. They ensure our pages load quickly by distributing the workload. Essential cookies are also necessary for our site to distinguish between browsers, differentiate users behind a shared IP address so as to deliver correct content, and to recognise trusted traffic and apply security settings. |
     | Data processed by essential cookies | When you navigate to and around our website our essential cookies collect your session ID, a time stamp of your visit and log in, and session verification data. Our essential cookies may also collect information about your browser type and settings, device type and settings, operating system and mobile network. |
     | Recipients | We process data collected by essential cookies on our own servers. Data collected by certain essential cookies may be collected, in aggregate form only from which no one visitor to our site can be identified or distinguished from another, by our third party essential cookie providers such as Sitecore, for their own purposes. |
-    | Transfers | Our global presence means that your personal information may be transferred across the business worldwide due, for example, to our shared IT systems and datacentres, and cross-border working practices. For more information about such transfers across our business please see section 3 of our [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy). |
+    | Transfers | Our global presence means that your personal information may be transferred across the business worldwide due, for example, to our shared IT systems and datacentres, and cross-border working practices. For more information about such transfers across our business please see section 3 of our [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy). |
     | Duration | Certain of our essential cookies are session cookies, meaning they expire once you exit your session and close your browser.<br><br>Other of our essential cookies may last for six months or longer, for example to remember your cookie preferences for this period and to recognise trusted traffic, or for as long as you retain an online account with us. |
     
 
@@ -484,36 +484,36 @@ Other notices and information
     
     ### Sectors we work in
     
-    * [Energy](https://www.pinsentmasons.com/en-gb/sectors/energy)
-    * [Financial Services](https://www.pinsentmasons.com/en-gb/sectors/financial-services)
-    * [Infrastructure](https://www.pinsentmasons.com/en-gb/sectors/infrastructure)
-    * [Technology, Science & Industry](https://www.pinsentmasons.com/en-gb/sectors/technology-science-industry)
-    * [Real Estate](https://www.pinsentmasons.com/en-gb/sectors/real-estate)
+    * [Energy](https://www.pinsentmasons.com/sectors/energy)
+    * [Financial Services](https://www.pinsentmasons.com/sectors/financial-services)
+    * [Infrastructure](https://www.pinsentmasons.com/sectors/infrastructure)
+    * [Technology, Science & Industry](https://www.pinsentmasons.com/sectors/technology-science-industry)
+    * [Real Estate](https://www.pinsentmasons.com/sectors/real-estate)
     
     ### What we do
     
-    * [Your assets](https://www.pinsentmasons.com/en-gb/what-we-do/your-assets)
-    * [Your company](https://www.pinsentmasons.com/en-gb/what-we-do/your-company)
-    * [Your finance](https://www.pinsentmasons.com/en-gb/what-we-do/your-finance)
-    * [Your legal team and resource](https://www.pinsentmasons.com/en-gb/what-we-do/your-legal-team-and-resource)
-    * [Your people](https://www.pinsentmasons.com/en-gb/what-we-do/your-people)
-    * [Your risks and regulatory environment](https://www.pinsentmasons.com/en-gb/what-we-do/your-risks-and-regulatory-environment)
+    * [Your assets](https://www.pinsentmasons.com/what-we-do/your-assets)
+    * [Your company](https://www.pinsentmasons.com/what-we-do/your-company)
+    * [Your finance](https://www.pinsentmasons.com/what-we-do/your-finance)
+    * [Your legal team and resource](https://www.pinsentmasons.com/what-we-do/your-legal-team-and-resource)
+    * [Your people](https://www.pinsentmasons.com/what-we-do/your-people)
+    * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
+[](https://www.pinsentmasons.com/ "Pinsent Masons")
 
-* [Legal Notices](https://www.pinsentmasons.com/legal-notices)
-* [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
-* [Cookie Policy](https://www.pinsentmasons.com/legal-notices/cookie-settings)
-* [Accessibility](https://www.pinsentmasons.com/legal-notices/accessibility)
-* [Careers](https://www.pinsentmasons.com/careers)
-* [Modern Slavery](https://www.pinsentmasons.com/legal-notices/modern-slavery)
+* [Legal Notices](https://www.pinsentmasons.com/en-gb/legal-notices)
+* [Privacy Policy](https://www.pinsentmasons.com/en-gb/legal-notices/privacy-policy)
+* [Cookie Policy](https://www.pinsentmasons.com/en-gb/legal-notices/cookie-settings)
+* [Accessibility](https://www.pinsentmasons.com/en-gb/legal-notices/accessibility)
+* [Careers](https://www.pinsentmasons.com/en-gb/careers)
+* [Modern Slavery](https://www.pinsentmasons.com/en-gb/legal-notices/modern-slavery)
 
 ### We have over 27 offices across 4 continents
 
 ![carte du monde](/-/media/images/footer-map.png?h=308&w=597&rev=1a2a199976de4266b464b21b8b260f26&hash=08C7A71833F0A0B043FC2CC883536235)
 
-[Find your nearest office](https://www.pinsentmasons.com/office-finder)
+[Find your nearest office](https://www.pinsentmasons.com/en-gb/office-finder)
 
 2024 Copyright Pinsent Masons LLP
 
