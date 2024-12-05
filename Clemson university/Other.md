@@ -273,7 +273,7 @@ Forward Arrow Icon Back Arrow Icon Back
     * [College of Education](https://www.clemson.edu/education/index.html)
     * [College of Engineering, Computing and Applied Sciences](https://www.clemson.edu/cecas/)
     * [College of Science](https://www.clemson.edu/science/)
-    * [College of Veterinary Medicine](https://www.clemson.edu/veterinary-medicine/)
+    * [Harvey S. Peeler Jr. College of Veterinary Medicine](https://www.clemson.edu/veterinary-medicine/)
     * [Graduate School](https://www.clemson.edu/graduate/)
     
     Academic Resources
