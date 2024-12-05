@@ -96,7 +96,7 @@ Skip to main content
     
     Back
     
-    * Small Business
+    * Bank
         
         Back
         
@@ -108,16 +108,8 @@ Skip to main content
             
         * [CDs](https://www.fnbo.com/small-business/cds "CDs")
             
-        * [Loans](https://www.fnbo.com/small-business/loans "Loans")
-            
-        * [Lines of Credit](https://www.fnbo.com/small-business/loans "Lines of Credit")
-            
-        * [SBA Loans](https://www.fnbo.com/small-business/loans "SBA Loans")
-            
-        * [Merchant Services](https://www.fnbo.com/business-services/merchant-services "Merchant Services")
-            
         
-    * Commercial
+    * Borrow
         
         Back
         
@@ -136,61 +128,9 @@ Skip to main content
         * [Find a Banker](https://www.fnbo.com/commercial-banking/commercial-bankers "Find a Banker")
             
         
-    * Industries
+    * [Merchant Services](https://www.fnbo.com/business-services/merchant-services "Merchant Services")
         
-        Back
-        
-        * [Agribusiness](https://www.fnbo.com/commercial-banking/agribusiness "Agribusiness")
-            
-        * [Commercial Real Estate](https://www.fnbo.com/commercial-banking/commercial-real-estate "Commercial Real Estate")
-            
-        * [Community Association Banking](https://www.fnbo.com/commercial-banking/community-association-banking "Community Association Banking")
-            
-        * [Correspondent Banking](https://www.fnbo.com/commercial-banking/correspondent-banking "Correspondent Banking")
-            
-        * [Healthcare Banking](https://www.fnbo.com/commercial-banking/healthcare-banking "Healthcare Banking")
-            
-        * [Sponsor Finance](https://www.fnbo.com/commercial-banking/sponsor-finance "Sponsor Finance")
-            
-        * [Transportation Banking](https://www.fnbo.com/commercial-banking/transportation-logistics "Transportation Banking")
-            
-        * [Loan Syndications](https://www.fnbo.com/commercial-banking/loan-syndications "Loan Syndications")
-            
-        
-    * Services
-        
-        Back
-        
-        * [Business Online Banking](https://www.fnbo.com/business-online-banking "Business Online Banking")
-            
-        * [Business Owner Advisory Services](https://www.fnbo.com/commercial-banking/business-advisory "Business Owner Advisory Services")
-            
-        * [Employee Benefits](https://www.fnbo.com/business-services#employee-benefit-programs "Employee Benefits")
-            
-        * [Insurance](https://www.fnbo.com/insurance "Insurance")
-            
-        * [SCRA](https://www.fnbo.com/scra "SCRA")
-            
-        * [Business Help Center](https://www.fnbo.com/business-help-center "Business Help Center")
-            
-        
-    * Investments
-        
-        Back
-        
-        * [Northland](https://www.northlandsecurities.com/ "Northland")
-            
-        * [Institutional Asset Management](https://www.fnbo.com/investment-services/institutional-asset-management "Institutional Asset Management")
-            
-        
-    * Insights
-        
-        Back
-        
-        * [Small Business](https://www.fnbo.com/insights/small-business "Small Business")
-            
-        * [Commercial & Corporate](https://www.fnbo.com/insights/commercial-business "Commercial & Corporate")
-            
+    * [Small Business Insights](https://www.fnbo.com/insights/small-business "Small Business Insights")
         
     
 * About FNBO
