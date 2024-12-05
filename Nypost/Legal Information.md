@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[UnitedHealthcare CEO was facing DOJ insider trading probe when he was killed in targeted NYC shooting](https://nypost.com/2024/12/04/us-news/slain-unitedhealth-ceo-brian-thompson-was-facing-doj-probe-for-insider-trading-report/)
-
 Privacy Notice Highlights
 =========================
 
