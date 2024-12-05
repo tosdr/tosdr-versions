@@ -99,13 +99,12 @@
 * [![Support Independent Tech Journalism, Become A Patron!](/content/images/patreon-btn.svg)](https://www.patreon.com/HotHardware?fan_landing=true)
 
 * TRENDING:
+* [GeForce RTX 50 Series](https://hothardware.com/tags/geforce-rtx-50-series)
 * [Arc Battlemage](https://hothardware.com/reviews/intel-arc-b580-debut-battlemage-discrete-gpus-arrive)
-* [Cyber Monday 2024](https://hothardware.com/tags/cyber-monday-2024)
-* [Black Friday '24](https://hothardware.com/tags/black-friday-2024)
 * [ASUS ROG Phone 9](https://hothardware.com/reviews/asus-rog-phone-9-pro-review)
 * [AMD Ryzen 7 9800X3D](https://hothardware.com/reviews/amd-ryzen-7-9800x3d-processor-review)
+* [Snapdragon 8 Elite](https://hothardware.com/news/qualcomm-snapdragon-8-elite-oryon-for-phones)
 * [Arrow Lake Core Ultra 200S](https://hothardware.com/reviews/intel-core-ultra-200s-arrow-lake-cpu-review)
-* [Ryzen 9000](https://hothardware.com/reviews/amd-ryzen-9-9950x-and-9900x-review)
 
 Privacy, Terms, Conditions And Copyright
 ========================================
