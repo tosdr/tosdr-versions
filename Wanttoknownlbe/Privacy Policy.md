@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/%e2%80%98word-wakker-en-ga-op-zoek-naar-de-waarheid%e2%80%99/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/het-complot-van-de-complot-theorieen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
