@@ -98,7 +98,7 @@ Leverage our AI to get a high-quality furniture photo shoot in just a few simple
 
 Leverage our AI to get a high-quality jewelry photo shoot in just a few simple steps](https://www.domyshoot.com/productphotography/jewelry-photography)[Flatlay
 
-No more renting studios or buying props to get the best looking product photos](https://www.domyshoot.com/productphotography/flatlay-photography)
+No more renting studios or buying props to get the best looking product photos](https://www.domyshoot.com/productphotography/flat-lay-photography)
 
 [![](https://cdn.prod.website-files.com/66e28da2135dc201d50ee880/671cd7f2e5ee65bfdd3991fb_get_free_sampling_for_your_ecommerce_brand.webp)
 
