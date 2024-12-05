@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Gordon Ramsay: Boiling Point](/wp-content/thumbnails/14427-100x70.jpg?x53432)
+* [![Texas: America Supersized](/wp-content/thumbnails/13661-100x70.jpg?x53432)
     
-    Gordon Ramsay: Boiling Point
+    Texas: America Supersized
     
-    Boiling Point is a five part documentary miniseries which was released by Channel 4 back in 1999. It follows now celebrity chief Gordon Ramsay over the course of an eight month period, a period which](https://documentaryheaven.com/gordon-ramsay-boiling-point/ "Gordon Ramsay: Boiling Point")
-* [![Keith Allen Will Burn In Hell](/wp-content/thumbnails/4192-100x70.jpg?x53432)
+    The great John Steinbeck once described Texas as a state of mind and obsession as well as a nation in every other sense of the word. Texas is a huge compound of power and wealth and force and attitude](https://documentaryheaven.com/texas-america-supersized/ "Texas: America Supersized")
+* [![Life as an Illegal Immigrant in Greece](/wp-content/thumbnails/8765-100x70.jpg?x53432)
     
-    Keith Allen Will Burn In Hell
+    Life as an Illegal Immigrant in Greece
     
-    Keith Allen decides to pay a visit to one of Americas most hated family's.](https://documentaryheaven.com/keith-allen-will-burn-in-hell/ "Keith Allen Will Burn In Hell")
-* [![Janis Joplin: Her Final Hours](/wp-content/thumbnails/6960-100x70.jpg?x53432)
+    Vice News sends Alex Miller to Greece to cover the current situation for immigrants in search for a better life, they assume a European country such as Greece would hold better prospects for them and](https://documentaryheaven.com/life-as-an-illegal-immigrant-in-greece/ "Life as an Illegal Immigrant in Greece")
+* [![Kashmir The Story](/wp-content/thumbnails/14660-100x70.jpg?x53432)
     
-    Janis Joplin: Her Final Hours
+    Kashmir The Story
     
-    Janis Joplin is the undisputed queen of rock and roll. It’s a fact that there had been no female superstar of rock before Janis came along. Her rule of thumb was if it feels good do it.Janis also hi](https://documentaryheaven.com/janis-joplin-her-final-hours/ "Janis Joplin: Her Final Hours")
-* [![Bowling for Columbine](/wp-content/thumbnails/1542-100x70.jpg?x53432)
+    Kashmir has had a history of being an independent kingdom, a sovereign state in every sense and whosoever tried to control it whether it was the Mughals or the Afghans or the Sikhs or later the Dogras](https://documentaryheaven.com/kashmir-the-story/ "Kashmir The Story")
+* [![The Defectors](/wp-content/thumbnails/9493-100x70.jpg?x53432)
     
-    Bowling for Columbine
+    The Defectors
     
-    Filmmaker, author, and political activist Michael Moore trains his satirical eye on America's obsession with guns and violence in his third feature-length documentary, which gets its title from a pair](https://documentaryheaven.com/bowling-for-columbine/ "Bowling for Columbine")
-* [![The Polar Bear Family & Me](/wp-content/thumbnails/6958-100x70.jpg?x53432)
+    In this Sky News special reporter Mark Stone meets up with several North Korean defectors in order to give them a chance to be heard and tell their story of how life once was for them living in the No](https://documentaryheaven.com/defectors/ "The Defectors")
+* [![The Case for Christ](/wp-content/thumbnails/2200-100x70.jpg?x53432)
     
-    The Polar Bear Family & Me
+    The Case for Christ
     
-    In "POLAR BEAR FAMILY AND ME", legendary wildlife filmmaker Gordon Buchanan travels deep into the Arctic for his greatest challenge yet - infiltrating a family of polar bears and documenting the cubs'](https://documentaryheaven.com/the-polar-bear-family-me/ "The Polar Bear Family & Me")
+    The documentary The Case for Christ follows reporter Lee Strobel as he interviews a number of religious and historical scholars in order to find out if there is any proof of the resurrection, and to d](https://documentaryheaven.com/the-case-for-christ/ "The Case for Christ")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
