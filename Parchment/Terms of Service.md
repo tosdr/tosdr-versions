@@ -160,6 +160,9 @@
     * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
         
         IE](https://www.parchment.com/en-ie/)
+    * [![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+        
+        日本語](https://www.parchment.com/ja/)
     * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
         
         NZ](https://www.parchment.com/en-nz/)
@@ -535,6 +538,10 @@ Order & Status
 * ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
     
     [IE](https://www.parchment.com/en-ie/)
+    
+* ![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+    
+    [日本語](https://www.parchment.com/ja/)
     
 * ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
     
