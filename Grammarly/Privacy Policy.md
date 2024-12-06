@@ -4,7 +4,7 @@
     
     * Learn
         * [Features](https://www.grammarly.com/features)
-        * [Product Demo](https://demo.grammarly.com/)
+        * [Product Demo](https://app.grammarly.com/demo)
         * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
@@ -40,7 +40,7 @@
         * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
         * [Help Center](https://support.grammarly.com/hc/en-us)
     * Tools
-        * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
+        * [AI Writing Tools](https://www.grammarly.com/ai/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
         * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
         * [AI Detector](https://www.grammarly.com/ai-detector)
@@ -58,7 +58,7 @@
     
     * Learn
         * [Features](https://www.grammarly.com/features)
-        * [Product Demo](https://demo.grammarly.com/)
+        * [Product Demo](https://app.grammarly.com/demo)
         * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
@@ -94,7 +94,7 @@
         * [Education Events & Resources](https://www.grammarly.com/edu/events-resources)
         * [Help Center](https://support.grammarly.com/hc/en-us)
     * Tools
-        * [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
+        * [AI Writing Tools](https://www.grammarly.com/ai/ai-writing-tools)
         * [Grammar Checker](https://www.grammarly.com/grammar-check)
         * [Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
         * [AI Detector](https://www.grammarly.com/ai-detector)
@@ -415,7 +415,7 @@ Features
 * [Citation Generator](https://www.grammarly.com/citations)
 * [Essay Checker](https://www.grammarly.com/essay-checker)
 * [Paraphrasing Tool](https://www.grammarly.com/paraphrasing-tool)
-* [AI Writing Tools](https://www.grammarly.com/ai-writing-tools)
+* [AI Writing Tools](https://www.grammarly.com/ai/ai-writing-tools)
 * [Tone Detector](https://www.grammarly.com/tone)
 * [Style Guide](https://www.grammarly.com/business/styleguide)
 * [Snippets](https://www.grammarly.com/business/snippets)
@@ -426,7 +426,7 @@ Company
 
 * [About](https://www.grammarly.com/about)
 * [We Stand With Ukraine](https://www.grammarly.com/stand-with-ukraine)
-* [Responsible AI](https://www.grammarly.com/responsible-ai)
+* [Responsible AI](https://www.grammarly.com/ai/responsible-ai)
 * [Careers & Culture](https://www.grammarly.com/jobs)
 * [Press](https://www.grammarly.com/press)
 * [Affiliates](https://www.grammarly.com/affiliates)
