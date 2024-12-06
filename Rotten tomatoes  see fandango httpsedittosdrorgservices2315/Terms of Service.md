@@ -80,7 +80,7 @@ Offers
     
     [BUY TICKETS](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer)
     
-* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5140f690-acfd-11ef-a07e-5b03d6159fe4--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
+* [Jingle All The Way To The Theater image link ![Jingle All The Way To The Theater](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/e65207d0-b278-11ef-a588-3b078e6b3d8a--fan-globalofferunit-holidayexhibitoroffers-holidays-292x118-1.png)](https://www.fandangomovietickets.com/holiday_theater_deals/?cmp=TARS~FANDANGO~holiday_exhibitor_offers_Footer) 
     
     ### Jingle All The Way To The Theater
     
