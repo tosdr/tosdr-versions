@@ -10,6 +10,9 @@
 * [#### Plan for Workplace](https://www.knoll.com/design-plan "Plan for Workplace")
 
 * [Accessibility Statement](https://www.millerknoll.com/legal/accessibility-statement)
+* [International Site](http://knoll-int.com/)
+
+* [Accessibility Statement](https://www.millerknoll.com/legal/accessibility-statement)
 * [Locations](https://www.knoll.com/location)
 
 * [Dealer Portal](https://www.knoll.com/myaccount/signin)
