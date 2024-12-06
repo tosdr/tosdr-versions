@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/arlington-web-kidnap-cover.png?ve=1&tl=1)
+
+ ![Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/arlington-web-kidnap-cover.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pastran-hernandez-arlington-lyft-kidnapping)
+
+### [Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://www.fox4news.com/news/pastran-hernandez-arlington-lyft-kidnapping)
+
+ [![Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186442361.jpg?ve=1&tl=1)
+
+ ![Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186442361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/flight-passengers-can-be-denied-boarding-dont-follow-rules-travel-expert-warns)
+
+### [Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://www.fox4news.com/news/flight-passengers-can-be-denied-boarding-dont-follow-rules-travel-expert-warns)
+
  [![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1)
 
  ![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/toys-tots-toy-drive-heath-marks-first-event-rockwall-county)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
 
 ### [Ennis boil water notice lifted; classes resume Friday](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
-
- [![Texas' Bevo will not travel to Atlanta for SEC Championship game](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/gettyimages-2179649956.jpg?ve=1&tl=1)
-
- ![Texas' Bevo will not travel to Atlanta for SEC Championship game](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/gettyimages-2179649956.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-bevo-atlanta-sec-championship-game)
-
-### [Texas' Bevo will not travel to Atlanta for SEC Championship game](https://www.fox4news.com/sports/texas-bevo-atlanta-sec-championship-game)
-
- [![Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-471371482.jpg?ve=1&tl=1)
-
- ![Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-471371482.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chipotle-menu-price-increase-inflation-impact)
-
-### [Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://www.fox4news.com/news/chipotle-menu-price-increase-inflation-impact)
 
 ###### [News](https://www.fox4news.com/news)
 
