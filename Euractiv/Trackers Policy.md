@@ -111,6 +111,10 @@ Most recent
 
 [06-12-2024
 
+Virkkunen supports EU telecoms consolidation, gets mixed national responses](https://www.euractiv.com/section/tech/news/virkkunen-supports-eu-telecoms-consolidation-gets-mixed-national-responses/)[06-12-2024
+
+EU seals long-stalled Mercosur trade deal](https://www.euractiv.com/section/economy-jobs/news/eu-seals-long-stalled-mercosur-trade-deal/)[06-12-2024
+
 Foreign clients of Russian gas feel the heat of US Gazprombank sanctions](https://www.euractiv.com/section/eet/news/foreign-clients-of-russian-gas-feel-the-heat-of-us-gazprombank-sanctions/)[06-12-2024
 
 Romanians vote for president amid high political uncertainty](https://www.euractiv.com/section/politics/news/the-capitals-romanians-vote-for-president-amid-high-political-uncertainty/)[06-12-2024
@@ -125,11 +129,7 @@ Portugal busts one of Europe’s largest cocaine labs](https://www.euractiv.com/
 
 Pastorella’s plan to reunite Italian liberals](https://www.euractiv.com/section/politics/news/pastorellas-plan-to-reunite-italian-liberals/)[06-12-2024
 
-Italy’s Salvini warns of economic suicide over plans to overhaul EU car emission limits](https://www.euractiv.com/section/politics/news/italys-salvini-warns-of-economic-suicide-over-plans-to-overhaul-eu-car-emission-limits/)[06-12-2024
-
-Moldova sacks energy minister over failure to tackle crisis](https://www.euractiv.com/section/eet/news/moldova-sacks-energy-minister-over-failure-to-tackle-crisis/)[06-12-2024
-
-Sweden to track refugees travelling to their home countries](https://www.euractiv.com/section/politics/news/sweden-to-track-refugees-travelling-to-their-home-countries/)
+Italy’s Salvini warns of economic suicide over plans to overhaul EU car emission limits](https://www.euractiv.com/section/politics/news/italys-salvini-warns-of-economic-suicide-over-plans-to-overhaul-eu-car-emission-limits/)
 
 ###### Advertisement
 
