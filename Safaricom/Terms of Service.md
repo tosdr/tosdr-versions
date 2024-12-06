@@ -1,4 +1,4 @@
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)](https://www.safari.com/)
+[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)](https://www.safari.com/)
 
   
 
@@ -88,11 +88,11 @@ ABOUT US
 
 Start Planning
 
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673fc737a6ec1d43fb64226a_icons8-whatsapp-100%20(1).png)
+[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/673fc737a6ec1d43fb64226a_icons8-whatsapp-100%20(1).png)
 
 Chat now on WhatsApp](https://wa.me/27639006627?text=I%27d%20like%20help%20planning%20a%20safari%20trip)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673d14cebb5761e9953d9faa_icons8-search-96.png)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/673d14cebb5761e9953d9faa_icons8-search-96.png)
 
 Menu
 
@@ -219,7 +219,7 @@ VARIATION OF THESE TERMS
 Customer Testimonials
 ---------------------
 
-![Trustpilot Logo](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
+![Trustpilot Logo](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1292ed2fecfb_588-5885660_adding-trustpilot-image-next-to-logo-on-supply.png)
 
 4.9
 
@@ -227,7 +227,7 @@ out of 5 based on
 
 [789 reviews](https://www.trustpilot.com/review/www.safari.com)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 4, 2024
 
@@ -241,7 +241,7 @@ Scott Millar
 
 ZA
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 4, 2024
 
@@ -255,7 +255,7 @@ Noelene Hosking
 
 AU
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 4, 2024
 
@@ -269,7 +269,7 @@ SMK Thomas🌞🌞
 
 CA
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 2, 2024
 
@@ -283,7 +283,7 @@ JUDITH ANN
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 2, 2024
 
@@ -297,7 +297,7 @@ Nicholas Nelson
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 30, 2024
 
@@ -311,7 +311,7 @@ Rebecca Cauffman
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 29, 2024
 
@@ -325,7 +325,7 @@ Zadra Morgan
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 29, 2024
 
@@ -339,7 +339,7 @@ MARTY DIAMOND
 
 US
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Nov 29, 2024
 
@@ -371,11 +371,11 @@ Consultants available 24/7
 
 Contact a safari expert now
 
- [![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
+ [![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/638500515c3f6754a3924b53_WhatsApp%20icon.png)
 
- WhatsApp](https://go.wa.link/africansafari)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
+ WhatsApp](https://go.wa.link/africansafari)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd3dae70e909fa3afc073_Flag%20SA.png)
 
-+27 21 468 7255](tel:+27214687255)[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
++27 21 468 7255](tel:+27214687255)[![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
 
 (800) 854-1896](tel:(800)854-1896)
 
@@ -400,11 +400,15 @@ Contact a safari expert now
 * [Instagram](https://www.instagram.com/safaridotcom)
 * [LinkedIn](https://za.linkedin.com/company/safaridotcom)[YouTube](https://www.youtube.com/@safaridotcom)
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67432d918214d84174e76798_black_writing_no_margin.png)
 
 #### You are the Journey  
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/67132f71d8a5e523112b09ce_africas-leading-safari-company-2024-winner-shield-256.png)
+
+  
+
+__
 
 #### Voted **Africa's Leading Safari Company 2024** by the [World Travel Awards](https://www.worldtravelawards.com/award-africas-leading-safari-company-2024).  
 
@@ -416,7 +420,7 @@ Cape Town
 Southern Africa Tourism Services Association (SATSA) – Member No. #1680  
 African Travel & Tourism Association (ATTA) – Member No. #206430  
 
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a0ea20cf61c261c3c843_atta-100%20(1).png)![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/63d1a1a7574ba202acd54bab_satsa-100%20(1).png)
 
 [Terms of use](https://www.safari.com/terms-and-conditions)
 
