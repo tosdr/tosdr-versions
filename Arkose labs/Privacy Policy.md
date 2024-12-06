@@ -697,4 +697,4 @@ New Research: Benchmark your defensive AI maturity against peers
 
                                                
 
-https://www.adsimple.at
+https://www.arkoselabs.com/legal/privacy-policy
