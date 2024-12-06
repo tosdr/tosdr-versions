@@ -162,9 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
 
-**Adult student, USA**
+**Teacher, International School, Geneva**
 
 ### Curriculum...
 
