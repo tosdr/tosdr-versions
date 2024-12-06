@@ -14,6 +14,7 @@
 * [](https://www.pinterest.com/Womencom "Pinterest")
 * [](https://flipboard.com/@Womencom "Flipboard")
 * [](https://news.google.com/publications/CAAiEPdxUHjKA-bwKYZxJCsMAfkqFAgKIhD3cVB4ygPm8CmGcSQrDAH5 "Google")
+* [](https://bsky.app/profile/womendotcom.bsky.social "Bluesky")
 * [](https://www.women.com/feed/ "RSS")
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
@@ -37,24 +38,37 @@
 * [](https://www.pinterest.com/Womencom "Pinterest")
 * [](https://flipboard.com/@Womencom "Flipboard")
 * [](https://news.google.com/publications/CAAiEPdxUHjKA-bwKYZxJCsMAfkqFAgKIhD3cVB4ygPm8CmGcSQrDAH5 "Google")
+* [](https://bsky.app/profile/womendotcom.bsky.social "Bluesky")
 * [](https://www.women.com/feed/ "RSS")
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+*  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
     
     [Fashion](https://www.women.com/category/fashion/)
     
     [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
     
-    [Taylor Swift's Best Preppy In Plaid Looks](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
-    ================================================================================================================
+    [Zendaya's Style Transformation Is Jaw Dropping](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+    ==========================================================================================================================
     
-    Taylor Swift has experimented with different styles throughout her career, but has consistently rocked many looks that were preppy in plaid.
+    Zendaya has been a fashion icon since her Disney Channel days, but over the years, she's moved on to stun with method dressing and designer gowns.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
     
-* *  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+* *  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+        
+        ### [Taylor Swift's Best Preppy In Plaid Looks](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+        
+        Taylor Swift has experimented with different styles throughout her career, but has consistently rocked many looks that were preppy in plaid.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+        
+    *  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -66,22 +80,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
         
-    *  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Bernadette Roe
-        
-        ### [The Best Books Of 2024 For Every Genre & Interest](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
-        
-        There was a magnificent bounty of new book releases in 2024, and we've selected the best of each genre to help you enjoy the crème de la crème.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
-        
 
 More Stories
 ------------
 
+*  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Bernadette Roe
+    
+    ### [The Best Books Of 2024 For Every Genre & Interest](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+    
+    There was a magnificent bounty of new book releases in 2024, and we've selected the best of each genre to help you enjoy the crème de la crème.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
+    
 *  [![Woman looking at her phone in the bath](https://www.women.com/img/gallery/sex-in-a-long-distance-relationship-what-to-know-and-how-to-make-it-work/intro-1732636315.jpg)](https://www.women.com/1723224/sex-long-distance-relationship-what-know-how-make-work/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -393,18 +407,6 @@ More Stories
     Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
     
     By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-    
-*  [![Jennifer Lopez on the red carpet](https://www.women.com/img/gallery/5-jennifer-lopez-looks-that-show-off-her-killer-legs/intro-1730828602.jpg)](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [5 Jennifer Lopez Looks That Show Off Her Killer Legs](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
-    
-    Jennifer Lopez is known for her sexy red carpet looks, including many that show off her killer legs. Her mini dresses display the results of regular workouts.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
     
 
 Back
