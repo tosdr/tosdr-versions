@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![en partie ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez dégagé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Football](https://www.watson.ch/fr/football/)
+* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [route](https://www.watson.ch/fr/route/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
+* [People](https://www.watson.ch/fr/people/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [UDC](https://www.watson.ch/fr/udc/)
 * [Genève](https://www.watson.ch/fr/geneve/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
-* [océan](https://www.watson.ch/fr/ocean/)
 * [guerre](https://www.watson.ch/fr/guerre/)
-* [Enfants](https://www.watson.ch/fr/enfants/)
 * [Justice](https://www.watson.ch/fr/justice/)
+* [Italie](https://www.watson.ch/fr/italie/)
+* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
 * [voiture](https://www.watson.ch/fr/voiture/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [Météo](https://www.watson.ch/fr/meteo/)
 * [Musique](https://www.watson.ch/fr/musique/)
 * [Emmanuel Macron](https://www.watson.ch/fr/emmanuel-macron/)
-* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Police](https://www.watson.ch/fr/police/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Argent](https://www.watson.ch/fr/argent/)
 * [France](https://www.watson.ch/fr/france/)
+* [Argent](https://www.watson.ch/fr/argent/)
+* [Paris](https://www.watson.ch/fr/paris/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
