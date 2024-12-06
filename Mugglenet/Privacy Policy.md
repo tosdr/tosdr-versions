@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (23) October 2024  (27) Septembe
 
 ### December 2024
 
-#### Thu, Dec 5
-
-Benedict Clarke's birthday
-
-Recurs yearly
-
-Young Severus Snape (DH2)
-
 #### Fri, Dec 6
 
 Newt Scamander disembarks from a steamship in New York harbor
@@ -302,6 +294,18 @@ Recurs yearly
 
 1994
 
+#### Thu, Dec 12
+
+Bill Nighy's birthday
+
+Recurs yearly
+
+Rufus Scrimgeour
+
+Charlie Weasley's birthday
+
+Recurs yearly
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -312,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Minerva McGonagall had been briefly engaged to a Muggle at the age of 18 but broke off the engagement when she realized it would mean having to sacrifice her other ambitions.
+If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
 
 ### Potter History
 
-April 9-11, 2009 – StarKid performs A Very Potter Musical at the University of Michigan.
+August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
 
 ### Potter Quote
 
-“I can’t tell if you’re making a joke or if you’re just…French.”
+“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
 
 [](#)
 
