@@ -14,6 +14,7 @@
     * [Case Studies](https://setupad.com/blog/category/case-studies/ "Case Studies")
     * [Content Library](https://setupad.com/content-library/ "Content Library")
     * [Newsletter](https://setupad.com/sign-up-newsletter/ "Newsletter")
+    * [AdTech News](https://setupad.com/adtech-news/ "AdTech News")
 * [About](# "About")
     * [Our Story](https://setupad.com/about-us/ "Our Story")
     * [Careers](https://setupad.com/careers/ "Careers")
