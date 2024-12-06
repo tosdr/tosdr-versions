@@ -36,6 +36,7 @@ Artificial Intelligence
 * [AI Become an online zoom video director New](https://melobytes.com/en/app/ai_become_a_zoom_video_director)
 * [AI Celebrities recognition](https://melobytes.com/en/app/ai_celebrities_recognition)
 * [AI convert song to zoom video New](https://melobytes.com/en/app/ai_song2zoomvideo)
+* [AI generative image expansion](https://melobytes.com/en/app/ai_generative_image_expansion)
 * [AI generative zoom and pan video New](https://melobytes.com/en/app/ai_generative_zoom_video)
 * [ΑΙ image edit](https://melobytes.com/en/app/ai_image_edit)
 * [AI Image generator from text](https://melobytes.com/en/app/ai_text2image)
@@ -44,6 +45,7 @@ Artificial Intelligence
 * [AI Image recognition](https://melobytes.com/en/app/ai_image_recognize)
 * [AI Image to song](https://melobytes.com/en/app/ai_image2song)
 * [AI Image to sound](https://melobytes.com/en/app/ai_image2sound)
+* [ΑΙ image variation](https://melobytes.com/en/app/ai_image_variation)
 * [AI music generator from text New](https://melobytes.com/en/app/ai_text2music)
 * [AI place generator from text](https://melobytes.com/en/app/ai_3d_place)
 * [AI song from a text description](https://melobytes.com/en/app/chat_melobytes)
@@ -109,12 +111,6 @@ Image - Video
 
 * [AI Album Cover](https://melobytes.com/en/app/ai_album_cover)
 * [AI Comic](https://melobytes.com/en/app/ai_comic)
-* [Convert RGB color to image](https://melobytes.com/en/app/rgb2image)
-* [Convert text to image](https://melobytes.com/en/app/text2image)
-* [Random video files mix](https://melobytes.com/en/app/videomix)
-* [Video to ASCII Art](https://melobytes.com/en/app/video2ascii)
-* [Video to cartoon](https://melobytes.com/en/app/video2cartoon)
-* [Word cloud](https://melobytes.com/en/app/word_cloud)
 
 Melogames
 
@@ -147,18 +143,14 @@ Language
 
 File conversions
 
-* [Audio or image spectrogram](https://melobytes.com/en/app/spectrogram)
 * [Audio to video clip](https://melobytes.com/en/app/audio_to_video_clip)
 * [Convert any file to music](https://melobytes.com/en/app/anyfile2music)
 * [Convert SSML to xtiming New](https://melobytes.com/en/app/convert_ssml_to_xtiming)
-* [Raster to vector](https://melobytes.com/en/app/raster2vector)
 * [Remove vocals New](https://melobytes.com/en/app/remove_vocals)
 * [Simulate xtiming file New](https://melobytes.com/en/app/simulate_xtiming)
 * [Song to Karaoke (AI) New](https://melobytes.com/en/app/song2karaoke)
 * [Speech to text, subtiltes and subtitled video](https://melobytes.com/en/app/speech2text)
 * [Transcribe Audio / Video New](https://melobytes.com/en/app/transcription)
-* [Video files converter](https://melobytes.com/en/app/videoconvert)
-* [Vocoder effect](https://melobytes.com/en/app/vocoder)
 * [Zip files](https://melobytes.com/en/app/zip_files)
 
 Midi
@@ -205,6 +197,7 @@ Audio
 * [Reverb Effect](https://melobytes.com/en/app/reverb_effect)
 * [Reverse Video](https://melobytes.com/en/app/reverse_audio)
 * [Time Stretching](https://melobytes.com/en/app/time_stretching)
+* [Vocoder effect](https://melobytes.com/en/app/vocoder)
 
 Convert
 
@@ -282,11 +275,10 @@ Image
 * [Add vignette](https://melobytes.com/en/app/add_vignette)
 * [Adjust brightness/contrast](https://melobytes.com/en/app/adjust_brightness_contrast)
 * [Adjust Hue Saturation](https://melobytes.com/en/app/adjust_hue_saturation)
-* [AI generative image expansion](https://melobytes.com/en/app/ai_generative_image_expansion)
-* [ΑΙ image variation](https://melobytes.com/en/app/ai_image_variation)
 * [Apply Color Overlay](https://melobytes.com/en/app/apply_color_overlay)
 * [Apply grayscale](https://melobytes.com/en/app/apply_grayscale)
 * [Apply Sepia](https://melobytes.com/en/app/apply_sepia)
+* [Audio or image spectrogram](https://melobytes.com/en/app/spectrogram)
 * [Barcode Generator New](https://melobytes.com/en/app/bar_code_generator)
 * [Barcode Reader New](https://melobytes.com/en/app/bar_code_reader)
 * [Blur Image](https://melobytes.com/en/app/blur_image)
@@ -297,6 +289,8 @@ Image
 * [Colorize photo New](https://melobytes.com/en/app/colorize)
 * [Combine Images](https://melobytes.com/en/app/combine_images)
 * [Convert image into painting](https://melobytes.com/en/app/image2painting)
+* [Convert RGB color to image](https://melobytes.com/en/app/rgb2image)
+* [Convert text to image](https://melobytes.com/en/app/text2image)
 * [Crop image](https://melobytes.com/en/app/crop_image)
 * [Glass Effect](https://melobytes.com/en/app/glass_effect)
 * [Glitcher](https://melobytes.com/en/app/glitcher)
@@ -318,6 +312,7 @@ Image
 * [Posterize Effect](https://melobytes.com/en/app/posterize_effect)
 * [QR Code Generator New](https://melobytes.com/en/app/qr_code_generator)
 * [QR Code Reader New](https://melobytes.com/en/app/qr_code_reader)
+* [Raster to vector](https://melobytes.com/en/app/raster2vector)
 * [Red eyes fix](https://melobytes.com/en/app/red_eyes_fix)
 * [Resize image file](https://melobytes.com/en/app/resize_image)
 * [Rotate Image](https://melobytes.com/en/app/rotate_image)
@@ -328,6 +323,7 @@ Image
 * [Text to ASCII Art (ΑΙ)](https://melobytes.com/en/app/ai_text2ascii)
 * [Text to emojis (ΑΙ)](https://melobytes.com/en/app/ai_text2emojis)
 * [Watermarking](https://melobytes.com/en/app/watermarking)
+* [Word cloud](https://melobytes.com/en/app/word_cloud)
 
 Video
 
@@ -351,6 +347,7 @@ Video
 * [Format Conversion Optimization](https://melobytes.com/en/app/format_conversion_optimization)
 * [Looping Video Creator](https://melobytes.com/en/app/looping_video_creator)
 * [Old Film Effect](https://melobytes.com/en/app/old_film_effect)
+* [Random video files mix](https://melobytes.com/en/app/videomix)
 * [Replace Audio Track](https://melobytes.com/en/app/replace_audio_track)
 * [Resize Video](https://melobytes.com/en/app/resize_video)
 * [Reverse Video](https://melobytes.com/en/app/reverse_video)
@@ -361,13 +358,16 @@ Video
 * [Time Lapse Creator](https://melobytes.com/en/app/time_lapse_creator)
 * [Video Collage](https://melobytes.com/en/app/video_collage)
 * [Video Compression](https://melobytes.com/en/app/video_compression)
+* [Video files converter](https://melobytes.com/en/app/videoconvert)
 * [Video Mosaic Effect](https://melobytes.com/en/app/video_mosaic)
 * [Video Resolution Downscaler](https://melobytes.com/en/app/video_resolution_downscaler)
 * [Video Stabilization](https://melobytes.com/en/app/video_stabilization)
+* [Video to ASCII Art](https://melobytes.com/en/app/video2ascii)
 * [Video to Audio](https://melobytes.com/en/app/video_to_audio)
+* [Video to cartoon](https://melobytes.com/en/app/video2cartoon)
 * [Video to GIF](https://melobytes.com/en/app/video_to_gif)
 * [Video to Thumbnail](https://melobytes.com/en/app/video_to_thumbnail)
-* [Video transition effects New](https://melobytes.com/en/app/video_transition_effects)
+* [Video transition effects](https://melobytes.com/en/app/video_transition_effects)
 
 Terms of Use
 ============
