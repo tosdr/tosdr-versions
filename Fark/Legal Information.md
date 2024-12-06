@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more stories with less ads? Try
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's what the cool kids are doing.  
-It also helps us pay the bills.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Photoshop this gravity worshipper](https://www.fark.com/goto/13482214) ( [static.dw.com](https://www.fark.com/goto/13482214) ) » [(11 comments)](https://www.fark.com/comments/13482214/Photoshop-this-gravity-worshipper) |
-| [Discussion](https://www.fark.com/discussion/) | [Can Jordan Love and the Green Bay Packers take down the Detroit Lions? Or will Jared Goff and the boys in blue send the Pack back to Wisconsin with a L? Any fantasy implications here? Thursday Night Football is on at 8:15 PM ET on Prime Video](https://www.fark.com/goto/13484140) ( [espn.com](https://www.fark.com/goto/13484140) ) » [(72 comments)](https://www.fark.com/comments/13484140/Can-Jordan-Love-the-Green-Bay-Packers-take-down-Detroit-Lions-Or-will-Jared-Goff-the-boys-in-blue-send-Pack-back-to-Wisconsin-with-a-L-Any-fantasy-implications-here-Thursday-Night-Football-is-on-at-815-PM-ET-on-Prime-Video) |
-| [Sports](https://www.fark.com/sports/) | [Can Jordan Love and the Green Bay Packers take down the Detroit Lions? Or will Jared Goff and the boys in blue send the Pack back to Wisconsin with a L? Any fantasy implications here? Thursday Night Football is on at 8:15 PM ET on Prime Video](https://www.fark.com/goto/13484140) ( [espn.com](https://www.fark.com/goto/13484140) ) » [(72 comments)](https://www.fark.com/comments/13484140/Can-Jordan-Love-the-Green-Bay-Packers-take-down-Detroit-Lions-Or-will-Jared-Goff-the-boys-in-blue-send-Pack-back-to-Wisconsin-with-a-L-Any-fantasy-implications-here-Thursday-Night-Football-is-on-at-815-PM-ET-on-Prime-Video) |
-| [Business](https://www.fark.com/business/) | [CitiBank, American Airlines re-define the concept of "synergistic suck"](https://www.fark.com/goto/13484622) ( [cnbc.com](https://www.fark.com/goto/13484622) ) » [(1 comment)](https://www.fark.com/comments/13484622/CitiBank-American-Airlines-re-define-concept-of-synergistic-suck) |
-| [STEM](https://www.fark.com/stem/) | [Once again, GenX leads the way. Heh he heh, leads. Heh he heh](https://www.fark.com/goto/13485214) ( [nbcnews.com](https://www.fark.com/goto/13485214) ) » [(32 comments)](https://www.fark.com/comments/13485214/Once-again-GenX-leads-way-Heh-he-heh-leads-Heh-he-heh) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["Sorry. I thought you were Richard Pryor"](https://www.fark.com/goto/13484990) ( [cracked.com](https://www.fark.com/goto/13484990) ) » [(30 comments)](https://www.fark.com/comments/13484990/Sorry-I-thought-you-were-Richard-Pryor) |
-| [Fandom](https://www.fark.com/fandom/) | [Because they're cool](https://www.fark.com/goto/13484732) ( [news.northeastern.edu](https://www.fark.com/goto/13484732) ) » [(14 comments)](https://www.fark.com/comments/13484732/Because-theyre-cool) |
-| [D'awww](https://www.fark.com/dawww/) | [Last week, I owned a cat. Today, I own a turkey fiend](https://www.fark.com/goto/13485210) ( [defector.com](https://www.fark.com/goto/13485210) ) » [(0 comments)](https://www.fark.com/comments/13485210/Last-week-I-owned-a-cat-Today-I-own-a-turkey-fiend) |
-| [Food](https://www.fark.com/food/) | [Obviously the safest thing to do is just have beer on your cornflakes](https://www.fark.com/goto/13484850) ( [bbc.com](https://www.fark.com/goto/13484850) ) » [(4 comments)](https://www.fark.com/comments/13484850/Obviously-safest-thing-to-do-is-just-have-beer-on-your-cornflakes) |
-| [Politics](https://www.fark.com/politics/) | [Texas has 254 counties. Nearly half of them don't have maternity care available. Add in the highest uninsured rate in the US and it's clear the Texas GOP has done a marvelous job running the state these past decades](https://www.fark.com/goto/13485254) ( [texastribune.org](https://www.fark.com/goto/13485254) ) » [(31 comments)](https://www.fark.com/comments/13485254/Texas-has-254-counties-Nearly-half-of-them-dont-have-maternity-care-available-Add-in-highest-uninsured-rate-in-US-its-clear-Texas-GOP-has-done-a-marvelous-job-running-state-these-past-decades) |
+| [Main](https://www.fark.com/) | [For the rest of their marriage, "but honey, \*I\* wrestled a polar bear bare-handed to save you" will be how all their arguments end](https://www.fark.com/goto/13484766) ( [bbc.com](https://www.fark.com/goto/13484766) ) » [(1 comment)](https://www.fark.com/comments/13484766/For-rest-of-their-marriage-but-honey-I-wrestled-a-polar-bear-bare-handed-to-save-you-will-be-how-all-their-arguments-end) |
+| [Discussion](https://www.fark.com/discussion/) | [Is it hotter for you this year than in years past? Tag is for what I wish iat was](https://www.fark.com/goto/13485330) ( [abc.net.au](https://www.fark.com/goto/13485330) ) » [(1 comment)](https://www.fark.com/comments/13485330/Is-it-hotter-for-you-this-year-than-in-years-past-Tag-is-for-what-I-wish-iat-was) |
+| [Sports](https://www.fark.com/sports/) | [Eric Bieniemy axed after just one season at UCLA, but don't worry, his agent says the exit was "previously planned" and "the plan was always to return to the NFL in 2025"](https://www.fark.com/goto/13485126) ( [espn.com](https://www.fark.com/goto/13485126) ) » [(3 comments)](https://www.fark.com/comments/13485126/Eric-Bieniemy-axed-after-just-one-season-at-UCLA-but-dont-worry-his-agent-says-exit-was-previously-planned-the-plan-was-always-to-return-to-NFL-in-2025) |
+| [Business](https://www.fark.com/business/) | [Trump: Drill, baby, drill. Chevron: No thanks, we're good](https://www.fark.com/goto/13485338) ( [msn.com](https://www.fark.com/goto/13485338) ) » [(7 comments)](https://www.fark.com/comments/13485338/Trump-Drill-baby-drill-Chevron-No-thanks-were-good) |
+| [STEM](https://www.fark.com/stem/) | [Eli Lilly's drug Zepbound causes a whole lotta loss of fat compared to rivals, which is good news for sugar mamas who love some custard pies or candy store rock after they have a hot dog, 10 ribs and all, or just like to boogie with stew](https://www.fark.com/goto/13484836) ( [cnbc.com](https://www.fark.com/goto/13484836) ) » [(2 comments)](https://www.fark.com/comments/13484836/Eli-Lillys-drug-Zepbound-causes-a-whole-lotta-loss-of-fat-compared-to-rivals-which-is-good-news-for-sugar-mamas-who-love-some-custard-pies-candy-store-rock-after-they-have-a-hot-dog-10-ribs-all-just-like-to-boogie-with-stew) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Bill Murray Names the Only 'SNL' Host Who Blew Him](https://www.fark.com/goto/13485154) ( [thedailybeast.com](https://www.fark.com/goto/13485154) ) » [(7 comments)](https://www.fark.com/comments/13485154/Bill-Murray-Names-Only-SNL-Host-Who-Blew-Him) |
+| [Fandom](https://www.fark.com/fandom/) | [Foamstars, the Squeenix "Totally Not A Splatoon Ripoff" game, is reaching the "last drops in the shampoo bottle" stage](https://www.fark.com/goto/13485240) ( [kotaku.com](https://www.fark.com/goto/13485240) ) » [(1 comment)](https://www.fark.com/comments/13485240/Foamstars-Squeenix-Totally-Not-A-Splatoon-Ripoff-game-is-reaching-last-drops-in-shampoo-bottle-stage) |
+| [D'awww](https://www.fark.com/dawww/) | ["She's a very unusual looking cat. I'm not going to lie, she's ugly as sin"](https://www.fark.com/goto/13485180) ( [bbc.com](https://www.fark.com/goto/13485180) ) » [(2 comments)](https://www.fark.com/comments/13485180/Shes-a-very-unusual-looking-cat-Im-not-going-to-lie-shes-ugly-as-sin) |
+| [Food](https://www.fark.com/food/) | [We don't care what you do in the comfort of your own kitchen, but please don't store your lubricants next to the food at a public restaurant](https://www.fark.com/goto/13485110) ( [azfamily.com](https://www.fark.com/goto/13485110) ) » [(1 comment)](https://www.fark.com/comments/13485110/We-dont-care-what-you-do-in-comfort-of-your-own-kitchen-but-please-dont-store-your-lubricants-next-to-food-at-a-public-restaurant) |
+| [Politics](https://www.fark.com/politics/) | [Here's the group that will massively profit if Trump's mass deportation plan is set in motion (possible nsfw content on page)](https://www.fark.com/goto/13485192) ( [the-express.com](https://www.fark.com/goto/13485192) ) » [(4 comments)](https://www.fark.com/comments/13485192/Heres-group-that-will-massively-profit-if-Trumps-mass-deportation-plan-is-set-in-motion-possible-nsfw-content-on-page) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 05 2024 20:43:35  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 06 2024 02:43:23  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
