@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Johan Botha - Brand Xplosion
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=18699492)  
+![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=28314313)  
+Cooper Logistics (Pty) Ltd
+
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=210616662)  
+Moving Made Easy (PTY) Ltd
+
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=207790914)  
+BD Maintenance
+
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=27355313)  
+Xpress Designs
+
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=138631835)  
+Redlum Group (Pty) Ltd
+
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=164891606)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
+
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=51002677)  
+NIMAWELL
+
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=19013939)  
+CBR Verwe/Paints
+
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=70877141)  
+Karino Merinos ( PTY ) LTD
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=27418262)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=172811692)  
+M's Frozen Delights
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=164268952)  
 Enhle Oarabile Kea
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=187367992)  
-Roamfree Boerdery (PTY) LTD
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=184703914)  
+The Gourmet Artisans Ltd.
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=183809045)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=4019888)  
+FLIPS AUTO ELECTRICAL
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=36360194)  
-Moulded Wax SA - The Candle Store
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=36719907)  
-Creative Characters
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=150603589)  
-Tiny Cuddles Photography
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=62911824)  
-Wiselink Broadband Pty Ltd
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=173009959)  
-Qothiphango Mining
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=209909331)  
-ELLIE'S CLEANING CHICKS
-
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=148844927)  
-TIGERDSL
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=143009995)  
-Kinetic Power Solutions (Pty) Ltd.
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=86686064)  
-Imvubu General Trading
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=3665923)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=55419724)  
-Multi CNC Solutions CC
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=e30f75187bb13336c847d907812e5792141e2b7b485b0965ba8eadf034142219&c=176856839)  
-Goju Ryu Karate Centre
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=bfee8d85a0eeae67920b47ac8e6b7c3f67da5ef52722c6e1b00379b57c967265&c=124302945)  
+Druce Digital
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
