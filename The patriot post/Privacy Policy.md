@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,26 +114,26 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112564-new-pronouns-2024-12-05)
+     [](https://patriotpost.us/memes/112597-im-offended-2024-12-06)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34615)
+     [](https://patriotpost.us/cartoons/34620)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Josh Hammer In Transgender Case, Can SCOTUS Cut to the Moral Heart of the Issue?](https://patriotpost.us/opinion/112593-in-transgender-case-can-scotus-cut-to-the-moral-heart-of-the-issue-2024-12-06)
+*      [Victor Davis Hanson What the Trump nominees have not done — And will not do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
+*      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
+*      [Erick Erickson The Problemed Nominee](https://patriotpost.us/opinion/112590-the-problemed-nominee-2024-12-06)
+*      [David Harsanyi The Biden Crime Family Is Above the Law](https://patriotpost.us/opinion/112589-the-biden-crime-family-is-above-the-law-2024-12-06)
+*      [Michael Barone Politics of Economic Redistribution, RIP](https://patriotpost.us/opinion/112588-politics-of-economic-redistribution-rip-2024-12-06)
+*      [Gary Bauer Cautiously Optimistic](https://patriotpost.us/opinion/112587-cautiously-optimistic-2024-12-06)
 *      [The Babylon Bee Trump Announces Plan to Annex Canada and Rename It ‘Gay North Dakota’](https://patriotpost.us/opinion/112577-trump-announces-plan-to-annex-canada-and-rename-it-gay-north-dakota-2024-12-05)
-*      [Larry Elder Biden Breaks His Promise and Pardons His Son — Yeah, But Trump!](https://patriotpost.us/opinion/112554-biden-breaks-his-promise-and-pardons-his-son-yeah-but-trump-2024-12-05)
-*      [Gary Bauer Putting Angola First](https://patriotpost.us/opinion/112556-putting-angola-first-2024-12-05)
-*      [Armstrong Williams Robert F. Kennedy Jr.: Will He Make America Healthy Again?](https://patriotpost.us/opinion/112555-robert-f-kennedy-jr-dot-will-he-make-america-healthy-again-2024-12-05)
-*      [Cal Thomas The Hunter Biden Pardon](https://patriotpost.us/opinion/112549-the-hunter-biden-pardon-2024-12-05)
-*      [Ben Shapiro The Milei Revolution](https://patriotpost.us/opinion/112568-the-milei-revolution-2024-12-05)
-*      [Jeff Jacoby A Student’s T-Shirt Says: ‘There Are Only Two Genders.’ What Does the Constitution Say?](https://patriotpost.us/opinion/112551-a-students-t-shirt-says-there-are-only-two-genders-dot-what-does-the-constitution-say-2024-12-04)
-*      [Mark Alexander Trump Day 2: Restore Freedom of Speech](https://patriotpost.us/alexander/112539-trump-day-2-restore-freedom-of-speech-2024-12-04)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
