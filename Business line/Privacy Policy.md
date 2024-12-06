@@ -1,48 +1,48 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-##### SENSEX   80,816.70
+##### SENSEX   81,709.12
 
- -29.05
+ -56.74
 
-##### NIFTY   24,410.80
+##### NIFTY   24,677.80
 
- -46.35
+ -30.60
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,745.00
 
-+ 17.00
+ -60.00
 
-##### GOLD   76,055.00
+##### GOLD   76,168.00
 
-+ 89.00
++ 125.00
 
-##### SILVER   90,400.00
+##### SILVER   90,250.00
 
-+ 655.00
+ -452.00
 
-##### SENSEX   80,816.70
+##### SENSEX   81,709.12
 
- -29.05
+ -56.74
 
-##### NIFTY   24,410.80
+##### NIFTY   24,677.80
 
- -46.35
+ -30.60
 
-##### NIFTY   24,410.80
+##### NIFTY   24,677.80
 
- -46.35
+ -30.60
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,745.00
 
-+ 17.00
+ -60.00
 
-##### CRUDEOIL   5,946.00
+##### CRUDEOIL   5,745.00
 
-+ 17.00
+ -60.00
 
-##### GOLD   76,055.00
+##### GOLD   76,168.00
 
-+ 89.00
++ 125.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -707,6 +707,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on businessline
 
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting 2024](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-december-2024-live-news-shaktikanta-das-repo-rate-latest-updates/article68946864.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-3-december-2024/article68938705.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) C2C Advanced System IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/c2c-advanced-systems-ipo-gmp-listing-today-share-price-live-updates-3-dec-2024/article68941027.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Top Business News Live](https://www.thehindubusinessline.com/companies/latest-business-news-today-live-updates-3-december-2024/article68918965.ece)
@@ -716,7 +717,6 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Delhi Air Pollution Live](https://www.thehindubusinessline.com/news/national/delhi-weather-temperature-delhi-ncr-aqi-air-quality-pollution-live-updates-today-20-nov-2024/article68880880.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) IPL Auction 2025 Day 1 Live](https://www.thehindubusinessline.com/news/sports/ipl-2025-mega-auction-live-news-updates/article68902386.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI MPC Meeting Highlights](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-live-updates-and-news-august-2024/article68496081.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Nifty Prediction Today](https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-todaymarch-20-2024-bears-gain-traction-consider-shorts/article67971033.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Find Voter ID Number Online](https://www.thehindubusinessline.com/info-tech/how-to/how-to-find-voter-id-number-online/article66664192.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) SBI Share Price](https://www.thehindubusinessline.com/stocks/state-bank-of-india/)
