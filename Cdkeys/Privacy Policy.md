@@ -586,7 +586,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-64%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
+4.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 4. \-60%](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam)
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam "TEKKEN 8 PC")**
     
