@@ -1,4 +1,4 @@
-[![Simplify your links and manage them with cutt.ly - URL Shortener](img/cuttly.svg)](https://cutt.ly/)
+[![Cuttly - URL Shortener and Link Management Platform](img/cuttly.svg)](https://cutt.ly/)
 
 * [](#)
     
