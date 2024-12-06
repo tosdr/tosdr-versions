@@ -16,55 +16,55 @@
     Trending
     
     * [Russia](https://www.euronews.com/tag/russia)
-    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-    * [Didier Reynders](https://www.euronews.com/tag/didier-reynders)
-    * [French politics](https://www.euronews.com/tag/french-politics)
-    * [NATO](https://www.euronews.com/tag/nato)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [European Union](https://www.euronews.com/tag/european-union)
+    * [France](https://www.euronews.com/tag/france)
     
     * * *
     
     Latest stories
     
-    [![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")
+    [![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")
     
-    ![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](https://static.euronews.com/articles/stories/08/89/16/78/368x207_cmsv2_40eb6c96-a232-545d-aec7-a3eaa3ae09b5-8891678.jpg "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
-    
-    Now playing Next
-    
-    [Georgia](https://www.euronews.com/news/europe/georgia)
-    
-    ### [Zelenskyy sanctions Georgian government's pro-Russian elements](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
-    
-    [![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")
-    
-    ![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](https://static.euronews.com/articles/stories/08/89/17/58/368x207_cmsv2_72c791af-a53b-514d-859a-3d393d774221-8891758.jpg "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
+    ![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](https://static.euronews.com/articles/stories/08/89/37/94/368x207_cmsv2_6ff51c87-49d0-5c20-9adf-e90b9eee9f41-8893794.jpg "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
     
     Now playing Next
     
-    [Green News](https://www.euronews.com/green/green-news)
+    [South Korea](https://www.euronews.com/news/asia/south-korea)
     
-    ### [COP29: Which countries will foot the $300bn climate finance deal?](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
+    ### [South Korea's President a 'great danger' to citizens, his party says](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
     
-    [![Curators Blanca de la Torre and Kati Kivinen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Curators Blanca de la Torre and Kati Kivinen. ")
+    [![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")
     
-    ![Curators Blanca de la Torre and Kati Kivinen. ](https://static.euronews.com/articles/stories/08/89/17/30/368x207_cmsv2_da5e821f-9059-51b8-8fa9-9d7e4b02fb1e-8891730.jpg "Curators Blanca de la Torre and Kati Kivinen. ")](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
-    
-    Now playing Next
-    
-    [Art](https://www.euronews.com/culture/art)
-    
-    ### [Shelter: Helsinki Biennial 2025 asks humans to take a step back](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
-    
-    [![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")
-    
-    ![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](https://static.euronews.com/articles/stories/08/89/17/44/368x207_cmsv2_06b9173a-d3a4-5797-b573-8c8f32608b50-8891744.jpg "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
+    ![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](https://static.euronews.com/articles/stories/08/89/33/58/368x207_cmsv2_f6e037ff-512b-5a54-b31e-fbe2c067e3f3-8893358.jpg "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
     
     Now playing Next
     
-    [Mexico](https://www.euronews.com/news/america/mexico)
+    [France](https://www.euronews.com/news/europe/france)
     
-    ### [Mexico seizes record fentanyl haul after Trump’s tariff threat](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
+    ### [Macron receives politicians as France waits for new Prime Minister](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
+    
+    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    
+    ![Euronews](https://static.euronews.com/articles/stories/08/67/91/02/368x207_cmsv2_545118b7-d913-540c-9264-401e0e1b6a99-8679102.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
+    
+    Now playing Next
+    
+    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+    
+    ### [EU must decide what it wants from Georgia, says ex-Ambassador](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
+    
+    [![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")
+    
+    ![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](https://static.euronews.com/articles/stories/08/89/22/50/368x207_cmsv2_65333fc6-98a6-5816-914e-6e7117f38683-8892250.jpg "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
+    
+    Now playing Next
+    
+    [Economy](https://www.euronews.com/business/economy)
+    
+    ### [Chinese car makers turn to hybrids to avoid EV tariffs from the EU](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -363,61 +363,61 @@ Close menu sidebar
 Trending
 
 * [Russia](https://www.euronews.com/tag/russia)
-* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
-* [Didier Reynders](https://www.euronews.com/tag/didier-reynders)
-* [French politics](https://www.euronews.com/tag/french-politics)
-* [NATO](https://www.euronews.com/tag/nato)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [European Union](https://www.euronews.com/tag/european-union)
+* [France](https://www.euronews.com/tag/france)
 
 * * *
 
 Latest stories
 
-[![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")
+[![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")
 
-![Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ](https://static.euronews.com/articles/stories/08/89/16/78/368x207_cmsv2_40eb6c96-a232-545d-aec7-a3eaa3ae09b5-8891678.jpg "Demonstrators hold Georgian and Ukrainian national flags during anti-government protest in Tbilisi, Georgia, on Tuesday, Dec. 3, 2024. ")](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
+![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](https://static.euronews.com/articles/stories/08/89/37/94/368x207_cmsv2_6ff51c87-49d0-5c20-9adf-e90b9eee9f41-8893794.jpg "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
 
 Now playing Next
 
-[Georgia](https://www.euronews.com/news/europe/georgia)
+[South Korea](https://www.euronews.com/news/asia/south-korea)
 
-### [Zelenskyy sanctions Georgian government's pro-Russian elements](https://www.euronews.com/2024/12/05/zelenskyy-announces-sanctions-against-georgian-governments-pro-russian-elements)
+### [South Korea's President a 'great danger' to citizens, his party says](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
 
 * * *
 
-[![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")
+[![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")
 
-![An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.](https://static.euronews.com/articles/stories/08/89/17/58/368x207_cmsv2_72c791af-a53b-514d-859a-3d393d774221-8891758.jpg "An activist displays "pay" on their hand as they participate in a demonstration for climate finance at COP29.")](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
+![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](https://static.euronews.com/articles/stories/08/89/33/58/368x207_cmsv2_f6e037ff-512b-5a54-b31e-fbe2c067e3f3-8893358.jpg "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
 
 Now playing Next
 
-[Green News](https://www.euronews.com/green/green-news)
+[France](https://www.euronews.com/news/europe/france)
 
-### [COP29: Which countries will foot the $300bn climate finance deal?](https://www.euronews.com/green/2024/12/05/cop29-climate-finance-will-rich-countries-pay-the-300bn-a-year-they-have-promised)
+### [Macron receives politicians as France waits for new Prime Minister](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
 
 * * *
 
-[![Curators Blanca de la Torre and Kati Kivinen. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Curators Blanca de la Torre and Kati Kivinen. ")
+[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
 
-![Curators Blanca de la Torre and Kati Kivinen. ](https://static.euronews.com/articles/stories/08/89/17/30/368x207_cmsv2_da5e821f-9059-51b8-8fa9-9d7e4b02fb1e-8891730.jpg "Curators Blanca de la Torre and Kati Kivinen. ")](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
+![Euronews](https://static.euronews.com/articles/stories/08/67/91/02/368x207_cmsv2_545118b7-d913-540c-9264-401e0e1b6a99-8679102.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
 
 Now playing Next
 
-[Art](https://www.euronews.com/culture/art)
+[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
 
-### [Shelter: Helsinki Biennial 2025 asks humans to take a step back](https://www.euronews.com/culture/2024/12/05/shelter-helsinki-biennial-2025-asks-humans-to-take-a-step-back)
+### [EU must decide what it wants from Georgia, says ex-Ambassador](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
 
 * * *
 
-[![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")
+[![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")
 
-![Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.](https://static.euronews.com/articles/stories/08/89/17/44/368x207_cmsv2_06b9173a-d3a4-5797-b573-8c8f32608b50-8891744.jpg "Mexican President Claudia Sheinbaum, left, speaks with her Economy Secretary Marcelo Ebrard during a news conference at the National Palace in Mexico City.")](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
+![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](https://static.euronews.com/articles/stories/08/89/22/50/368x207_cmsv2_65333fc6-98a6-5816-914e-6e7117f38683-8892250.jpg "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
 
 Now playing Next
 
-[Mexico](https://www.euronews.com/news/america/mexico)
+[Economy](https://www.euronews.com/business/economy)
 
-### [Mexico seizes record fentanyl haul after Trump’s tariff threat](https://www.euronews.com/2024/12/05/mexico-seizes-record-fentanyl-haul-after-trumps-tariff-threat)
+### [Chinese car makers turn to hybrids to avoid EV tariffs from the EU](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
 
 [Europe](https://www.euronews.com/my-europe)
 
