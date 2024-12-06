@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-BEST QUICK SERVICE!! LOVE YOU GUYS!
+Its a good service. More expensive than going direct, but hey you guys gotta eat! Am renewing now.
 
-Natie Grossnass
+Gary Abel
