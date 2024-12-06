@@ -111,25 +111,25 @@ Most recent
 
 [06-12-2024
 
+EU-Mercosur trade deal: who wins and who loses in agri-food?](https://www.euractiv.com/section/agriculture-food/news/eu-mercosur-trade-deal-who-wins-and-who-loses-in-agri-food/)[06-12-2024
+
+EU-Mercosur deal likely to include ‘legally binding’ deforestation clampdown](https://www.euractiv.com/section/eet/news/eu-mercosur-deal-likely-to-include-legally-binding-deforestation-clampdown/)[06-12-2024
+
+Von der Leyen cancels Notre Dame trip as Paris in fury over Mercosur deal](https://www.euractiv.com/section/politics/news/von-der-leyen-cancels-notre-dame-trip-as-paris-in-fury-over-mercosur-deal/)[06-12-2024
+
+Hungary spied on EU officials, Belgian media reports](https://www.euractiv.com/section/politics/news/hungary-spied-on-eu-officials-belgian-media-reports/)[06-12-2024
+
+Irish fishermen pressure EU to exclude Norway from their waters](https://www.euractiv.com/section/agriculture-food/news/irish-fishermen-pressure-eu-to-exclude-norway-from-their-waters/)[06-12-2024
+
+EU-Mercosur: The global alliance of herbivores starts today](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-the-global-alliance-of-herbivores-starts-today/)[06-12-2024
+
+Romanian presidential elections cancelled by constitutional court](https://www.euractiv.com/section/politics/news/romanian-presidential-elections-canceled-by-constitutional-court/)[06-12-2024
+
 Virkkunen supports EU telecoms consolidation, gets mixed national responses](https://www.euractiv.com/section/tech/news/virkkunen-supports-eu-telecoms-consolidation-gets-mixed-national-responses/)[06-12-2024
 
 EU seals long-stalled Mercosur trade deal](https://www.euractiv.com/section/economy-jobs/news/eu-seals-long-stalled-mercosur-trade-deal/)[06-12-2024
 
-Foreign clients of Russian gas feel the heat of US Gazprombank sanctions](https://www.euractiv.com/section/eet/news/foreign-clients-of-russian-gas-feel-the-heat-of-us-gazprombank-sanctions/)[06-12-2024
-
-Romanians vote for president amid high political uncertainty](https://www.euractiv.com/section/politics/news/the-capitals-romanians-vote-for-president-amid-high-political-uncertainty/)[06-12-2024
-
-Slovak MEPs divided over EU-Mercosur deal](https://www.euractiv.com/section/politics/news/slovak-meps-divided-over-eu-mercosur-deal/)[06-12-2024
-
-Tusk, Metsola prepare EU presidency ahead of Trump’s return](https://www.euractiv.com/section/politics/news/tusk-metsola-prepare-eu-presidency-ahead-of-trumps-return/)[06-12-2024
-
-Sánchez, centre-right, failed to reach a deal on ‘solidarity sharing’ of migrant minors](https://www.euractiv.com/section/politics/news/sanchez-centre-right-failed-to-reach-a-deal-on-solidarity-sharing-of-migrant-minors/)[06-12-2024
-
-Portugal busts one of Europe’s largest cocaine labs](https://www.euractiv.com/section/politics/news/portugal-busts-one-of-europes-largest-cocaine-labs/)[06-12-2024
-
-Pastorella’s plan to reunite Italian liberals](https://www.euractiv.com/section/politics/news/pastorellas-plan-to-reunite-italian-liberals/)[06-12-2024
-
-Italy’s Salvini warns of economic suicide over plans to overhaul EU car emission limits](https://www.euractiv.com/section/politics/news/italys-salvini-warns-of-economic-suicide-over-plans-to-overhaul-eu-car-emission-limits/)
+Foreign clients of Russian gas feel the heat of US Gazprombank sanctions](https://www.euractiv.com/section/eet/news/foreign-clients-of-russian-gas-feel-the-heat-of-us-gazprombank-sanctions/)
 
 ###### Advertisement
 
