@@ -13,7 +13,7 @@ Friday, December 6 2024
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](https://fifthperson.com/wp-content/uploads/2023/06/BNR23-714-Strength-and-Security-SG.jpg)](https://www.interactivebrokers.com.sg/mkt/?src=fifth5)
+![](https://fifthperson.com/wp-content/uploads/2024/12/Expo2025-1456x180-1.jpg)](https://bit.ly/5thperson)
 
 * [Analysis](https://fifthperson.com/category/analysis/)
     
