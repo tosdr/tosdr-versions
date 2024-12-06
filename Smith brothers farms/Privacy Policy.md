@@ -196,9 +196,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (80)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (70)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (70)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (64)](https://www.smithbrothersfarms.com/on-special)
         
     * [Holiday (43)](https://www.smithbrothersfarms.com/holiday)
         
@@ -250,14 +250,14 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (62)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (63)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
             
         * [Sliced Cheese (4)](https://www.smithbrothersfarms.com/sliced-cheese)
             
-        * [Shreds & Crumbles (11)](https://www.smithbrothersfarms.com/shreds-crumbles)
+        * [Shreds & Crumbles (12)](https://www.smithbrothersfarms.com/shreds-crumbles)
             
         * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
             
@@ -268,12 +268,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (28)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
