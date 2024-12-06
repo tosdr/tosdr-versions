@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+[![Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/wp-content/uploads/2024/01/24016-Gysi-warweg.jpg "Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“")](https://www.nachdenkseiten.de/?p=109563)
 
-* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
+* [Florian Warweg im Gespräch mit Gabriele Gysi: „Die Macht muss hinterfragt werden“](https://www.nachdenkseiten.de/?p=109563)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
@@ -542,12 +542,12 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### Wichtige Artikel
 
-* [So sieht Krieg aus. Fürchterlich. Persönliche Erinnerungen](https://www.nachdenkseiten.de/?p=125316)
-* [Robert Habeck ist kein Schwachkopf](https://www.nachdenkseiten.de/?p=125329)
-* [Die SPD geht in den Wahlkampf – man kann nicht so viel fressen, wie man kotzen möchte](https://www.nachdenkseiten.de/?p=125309)
-* [Corona: E-Mail zeigt, wie sich „Ethikrat“ an die Politik angebiedert hat](https://www.nachdenkseiten.de/?p=125385)
-* [Denn es darf kein Stellvertreterkrieg sein – doch selbst Boris Johnson nennt nun das Teufelskind beim Namen](https://www.nachdenkseiten.de/?p=125458)
-* [Halt‘ du sie dumm, ich halt‘ sie arm](https://www.nachdenkseiten.de/?p=125236)
+* [APPELL DER 38. Eine Minute vor Zwölf – Einen großen europäischen Krieg verhindern!](https://www.nachdenkseiten.de/?p=125690)
+* [30 Jahre Budapester Memorandum: Die nukleare Abrüstung der Ukraine im Rückblick](https://www.nachdenkseiten.de/?p=125695)
+* [„Maidan“ in Georgien – Man fühlt sich (fast) wie 2014](https://www.nachdenkseiten.de/?p=125603)
+* [Wir dulden keinen Rassismus … und sind dabei selbst rassistisch](https://www.nachdenkseiten.de/?p=125680)
+* [„Die Wahrheit und nichts als die Wahrheit“ – US-Präsident Joe Biden, sein Sohn Hunter und Donald Trump](https://www.nachdenkseiten.de/?p=125739)
+* [NDR zensiert eigene Recherche zu Einflussnahme der US-Regierung auf „unabhängige“ Investigativplattform OCCRP](https://www.nachdenkseiten.de/?p=125647)
 
 ### Audioangebot
 
