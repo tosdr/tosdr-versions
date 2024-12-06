@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-olivia-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navratilova-1200x630.jpg)](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgender-issues/)
 
-[Kash Patel threatens suit, demands retraction from MSNBC for guest smearing him with lies](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
+[Tennis great Martina Navratilova ‘mad’ GOP is winning on women sports and transgender issues](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgender-issues/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-frum-mika-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fema-trailer-1200x630.jpg)](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
 
-[Morning Joe duo apologize for guest’s Hegseth smear on air, accused of fearing Trump](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
+[FEMA response to NC hurricane victims weathering snow and freezing temps is worse than you can imagine](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peter-hotez-1200x630.jpg)](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2187666149-1-1200x630.jpg)](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
 
-[Jab-pushing doc predicts plague of new viruses set to be unleashed as Trump takes office](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
+(Tom Williams/CQ-Roll Call, Inc via Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/police-sg-thompson-gunman-1200x630.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+[House committee chairman vows to ‘fight’ after docs reveal ‘disgusting’ sexual misconduct at VA facility](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
 
-[UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-oj-simpson-2-1200x630.jpg)](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/05/SG-youtube-Bezos-1200x630.png)](https://americanwirenews.com/jeff-bezos-excited-about-second-trump-term-im-going-to-help-him/)
+[Ex-OJ bodyguard claims he has murder confession recording … police have thumb drive, say no evidence](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
 
-[Jeff Bezos excited about second Trump term: ‘I’m going to help him’](https://americanwirenews.com/jeff-bezos-excited-about-second-trump-term-im-going-to-help-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-daniel-penny-2-470x260-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-epa-staffer-1200x630.jpg)](https://americanwirenews.com/project-veritas-undercover-finds-insurance-policy-against-trump-2-0-were-throwing-gold-bars-off-the-titanic-says-epa-staffer/)
+[Jordan Neely’s dad hits Daniel Penny with lawsuit as jury decides his fate](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
 
-[Project Veritas undercover finds ‘insurance policy against Trump’ 2.0: ‘We’re throwing gold bars off the Titanic,’ says EPA staffer](https://americanwirenews.com/project-veritas-undercover-finds-insurance-policy-against-trump-2-0-were-throwing-gold-bars-off-the-titanic-says-epa-staffer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trans-kids-1200x630.jpg)](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navarroview-1200-x-628-1200x630.jpg)](https://americanwirenews.com/ana-navarro-reports-made-up-person-hunter-debutts-was-pardoned-by-w-wilson-blames-chatgpt-for-stupidity/)
+[‘Trans’ child says they’re afraid of being ‘shot in the street’ after Trump’s win as mom weeps](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
 
-[Ana Navarro reports made-up person ‘Hunter deButts’ was pardoned by W. Wilson, blames ChatGPT for stupidity](https://americanwirenews.com/ana-navarro-reports-made-up-person-hunter-debutts-was-pardoned-by-w-wilson-blames-chatgpt-for-stupidity/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-todd-1200x630.jpg)](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bathroom-dance-party-1200x630.jpg)](https://americanwirenews.com/entitled-trans-and-queer-protestors-take-over-us-capitol-bathroom-film-painfully-cringe-music-video/)
+[Chuck Todd dismayed by irreparable ‘damage’ Hunter pardon will do to Dem Party, blasts ‘selfish’ Joe](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
 
-[Entitled trans and queer protestors take over US Capitol bathroom, film painfully cringe music video](https://americanwirenews.com/entitled-trans-and-queer-protestors-take-over-us-capitol-bathroom-film-painfully-cringe-music-video/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mika-and-joe-2-1200x630.jpg)](https://americanwirenews.com/funny-thing-hes-not-wrong-scarborough-eaten-alive-by-radicalized-base-after-defending-fox-apology/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mittgoodbye-1200-x-628-1200x630.jpg)
+[‘Funny thing he’s not wrong’: Scarborough eaten alive by radicalized base after defending Fox apology](https://americanwirenews.com/funny-thing-hes-not-wrong-scarborough-eaten-alive-by-radicalized-base-after-defending-fox-apology/)
 
-### ‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dan-bongino-2-1200x630.jpg)
+
+### Two GOP senators on defense after Bongino accuses them of sabotaging Pete Hegseth](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,51 +80,13 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2187666149-1-220x180.jpg)](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
-
-[House committee chairman vows to ‘fight’ after docs reveal ‘disgusting’ sexual misconduct at VA facility](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
-
-(Tom Williams/CQ-Roll Call, Inc via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-todd-220x180.jpg)](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
-
-[Chuck Todd dismayed by irreparable ‘damage’ Hunter pardon will do to Dem Party, blasts ‘selfish’ Joe](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-daniel-penny-2-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
-
-[Jordan Neely’s dad hits Daniel Penny with lawsuit as jury decides his fate](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dan-bongino-2-220x180.jpg)](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
-
-[Two GOP senators on defense after Bongino accuses them of sabotaging Pete Hegseth](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-taylor-lorenz-220x180.jpg)](https://americanwirenews.com/taylor-lorenz-seemingly-celebrates-death-of-unitedhealthcare-ceo-gets-defiant-in-face-of-backlash/)
 
 [Taylor Lorenz seemingly celebrates death of UnitedHealthcare CEO, gets defiant in face of backlash](https://americanwirenews.com/taylor-lorenz-seemingly-celebrates-death-of-unitedhealthcare-ceo-gets-defiant-in-face-of-backlash/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fema-trailer-220x180.jpg)](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
-
-[FEMA response to NC hurricane victims weathering snow and freezing temps is worse than you can imagine](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-oj-simpson-2-220x180.jpg)](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
-
-[Ex-OJ bodyguard claims he has murder confession recording … police have thumb drive, say no evidence](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mika-and-joe-2-220x180.jpg)](https://americanwirenews.com/funny-thing-hes-not-wrong-scarborough-eaten-alive-by-radicalized-base-after-defending-fox-apology/)
-
-[‘Funny thing he’s not wrong’: Scarborough eaten alive by radicalized base after defending Fox apology](https://americanwirenews.com/funny-thing-hes-not-wrong-scarborough-eaten-alive-by-radicalized-base-after-defending-fox-apology/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trans-kids-220x180.jpg)](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
-
-[‘Trans’ child says they’re afraid of being ‘shot in the street’ after Trump’s win as mom weeps](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pixabay-cereal-220x180.jpg)](https://americanwirenews.com/chemical-in-roundup-that-causes-brain-damage-found-in-common-cereals-new-study-finds/)
 
 [Chemical in Roundup that causes brain damage found in common cereals, new study finds](https://americanwirenews.com/chemical-in-roundup-that-causes-brain-damage-found-in-common-cereals-new-study-finds/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navratilova-220x180.jpg)](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgenders-issues/)
-
-[Tennis great Martina Navratilova ‘mad’ GOP is winning on women sports and transgenders issues](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgenders-issues/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jackson-sotomayor-220x180.jpg)](https://americanwirenews.com/leftist-justices-beclown-themselves-during-scotus-arguments-on-kids-trans-surgeries/)
 
@@ -139,6 +103,42 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-henyard-220x180.jpg)](https://americanwirenews.com/scandal-soaked-super-mayor-goes-into-meltdown-mode-after-losing-dem-primary/)
 
 [Scandal-soaked ‘super mayor’ goes into meltdown mode after losing Dem primary](https://americanwirenews.com/scandal-soaked-super-mayor-goes-into-meltdown-mode-after-losing-dem-primary/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bathroom-dance-party-220x180.jpg)](https://americanwirenews.com/entitled-trans-and-queer-protestors-take-over-us-capitol-bathroom-film-painfully-cringe-music-video/)
+
+[Entitled trans and queer protestors take over US Capitol bathroom, film painfully cringe music video](https://americanwirenews.com/entitled-trans-and-queer-protestors-take-over-us-capitol-bathroom-film-painfully-cringe-music-video/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navarroview-1200-x-628-220x180.jpg)](https://americanwirenews.com/ana-navarro-reports-made-up-person-hunter-debutts-was-pardoned-by-w-wilson-blames-chatgpt-for-stupidity/)
+
+[Ana Navarro reports made-up person ‘Hunter deButts’ was pardoned by W. Wilson, blames ChatGPT for stupidity](https://americanwirenews.com/ana-navarro-reports-made-up-person-hunter-debutts-was-pardoned-by-w-wilson-blames-chatgpt-for-stupidity/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-epa-staffer-220x180.jpg)](https://americanwirenews.com/project-veritas-undercover-finds-insurance-policy-against-trump-2-0-were-throwing-gold-bars-off-the-titanic-says-epa-staffer/)
+
+[Project Veritas undercover finds ‘insurance policy against Trump’ 2.0: ‘We’re throwing gold bars off the Titanic,’ says EPA staffer](https://americanwirenews.com/project-veritas-undercover-finds-insurance-policy-against-trump-2-0-were-throwing-gold-bars-off-the-titanic-says-epa-staffer/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2022/05/SG-youtube-Bezos-220x180.png)](https://americanwirenews.com/jeff-bezos-excited-about-second-trump-term-im-going-to-help-him/)
+
+[Jeff Bezos excited about second Trump term: ‘I’m going to help him’](https://americanwirenews.com/jeff-bezos-excited-about-second-trump-term-im-going-to-help-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/police-sg-thompson-gunman-220x180.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+
+[UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-peter-hotez-220x180.jpg)](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
+
+[Jab-pushing doc predicts plague of new viruses set to be unleashed as Trump takes office](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-frum-mika-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
+
+[Morning Joe duo apologize for guest’s Hegseth smear on air, accused of fearing Trump](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kash-olivia-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
+
+[Kash Patel threatens suit, demands retraction from MSNBC for guest smearing him with lies](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mittgoodbye-1200-x-628-220x180.jpg)](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
+
+[‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trump-briefing-220x180.jpeg)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
 
