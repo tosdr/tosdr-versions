@@ -204,7 +204,7 @@ Enter your email to get the latest Stonyfield happenings, promotions, recipes, a
     * [ ]  Yes! I wish to receive via email Stonyfield's newsletter and/or information related to our products, programs, and/or promotional activities.
     
 * 
-* Phone
+* Comments
     
     This field is for validation purposes and should be left unchanged.
     
