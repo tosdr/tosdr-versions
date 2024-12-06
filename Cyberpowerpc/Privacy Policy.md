@@ -1,4 +1,4 @@
-[![cyberpowerpc.com - Gaming Computers](/template/common/images/brand/brand_new2016.png)](https://www.cyberpowerpc.com/ "cyberpowerpc.com - Gaming Computers")
+[![CyberPowerPC.com - Gaming Computers](/template/common/images/brand/brand_chiristmas.png)](https://www.cyberpowerpc.com/ "cyberpowerpc.com - Gaming Computers")
 
 * [Gaming PCs](https://www.cyberpowerpc.com/category/gaming-pcs/)
 * [Gaming Laptops](https://www.cyberpowerpc.com/category/gaming-laptops/)
