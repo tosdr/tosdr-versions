@@ -112,7 +112,7 @@ Privacy Policy
 
 [Katso suomeksi](https://letsencrypt.org/fi/privacy/)
 
-[Voir en Français](https://letsencrypt.org/fr/privacy/)
+[Voir en français](https://letsencrypt.org/fr/privacy/)
 
 [לעבור לעברית](https://letsencrypt.org/he/privacy/)
 
@@ -243,7 +243,7 @@ For more information, or to report a privacy issue, please contact: [privacy@abe
 
 [Katso suomeksi](https://letsencrypt.org/fi/privacy/)
 
-[Voir en Français](https://letsencrypt.org/fr/privacy/)
+[Voir en français](https://letsencrypt.org/fr/privacy/)
 
 [לעבור לעברית](https://letsencrypt.org/he/privacy/)
 
