@@ -219,8 +219,8 @@ Ethereum
 
 [![](https://jarick.works/wp-content/uploads/beagle/svg/shell/switch-1.svg)](https://jarick.works/beagle/shell/switch/)
 
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/016.svg)](https://jarick.works/anaarkei/what-is-anarchism-04-14/)
+
 [![](https://jarick.works/wp-content/uploads/anaarkei/svg/010.svg)](https://jarick.works/anaarkei/theres-no-government-like-no-government/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/009.svg)](https://jarick.works/anaarkei/free-association/)
-
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/029.svg)](https://jarick.works/anaarkei/religion/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/multimedia/music-1.svg)](https://jarick.works/beagle/multimedia/music/)
