@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Doomsday Code](/wp-content/thumbnails/960-100x70.jpg?x53432)
+* [![Her Majesty’s Prison: Aylesbury](/wp-content/thumbnails/10085-100x70.png?x53432)
     
-    The Doomsday Code
+    Her Majesty’s Prison: Aylesbury
     
-    What is the real source of these ideas that so many people attribute to the book of Revelation? Whoever wrote it sheltered in a cave on the Greek island of Patmos, probably a refugee from Roman occupi](https://documentaryheaven.com/the-doomsday-code/ "The Doomsday Code")
-* [![Beautiful Young Minds](/wp-content/thumbnails/5797-100x70.jpg?x53432)
+    The authorities at Aylesbury prison in the United Kingdom, have to try and manage some of the most dangerous and disruptive 18 to 21 year olds in the country with one in five prisoners serving li](https://documentaryheaven.com/her-majestys-prison-aylesbury/ "Her Majesty’s Prison: Aylesbury")
+* [![Fighting Gaddafi](/wp-content/thumbnails/6152-100x70.jpg?x53432)
     
-    Beautiful Young Minds
+    Fighting Gaddafi
     
-    This documentary tells the story of some of the brightest mathematical brains of a generation. Each year, exceptionally gifted teenagers from over 90 countries compete for medals at the International](https://documentaryheaven.com/beautiful-young-minds/ "Beautiful Young Minds")
-* [![What You’ve Been Missing: Exposing The Noble Lie](/wp-content/thumbnails/5938-100x70.jpeg?x53432)
+    Paul Kenyon tells the story of the country's failing popular uprising, revealing the regime's alleged war crimes and uncovering how the Libyan military fired on seemingly unarmed protesters. He also t](https://documentaryheaven.com/fighting-gaddafi/ "Fighting Gaddafi")
+* [![Dispatches: The Data Theft Scandal](/wp-content/thumbnails/1233-100x70.jpg?x53432)
     
-    What You’ve Been Missing: Exposing The Noble Lie
+    Dispatches: The Data Theft Scandal
     
-    Exposing the Noble Lie is the first episode from What You’ve Been Missing and was created to fill the massive gap created by corporate media, between itself and reality. A virtual variety show with a](https://documentaryheaven.com/what-youve-been-missing-exposing-the-noble-lie/ "What You’ve Been Missing: Exposing The Noble Lie")
-* [![The Other Side of Dunkirk](/wp-content/thumbnails/13432-100x70.jpg?x53432)
+    In a 12-month undercover investigation, Sue Turton infiltrates criminal networks which trade British consumers' bank and other confidential information for huge profits in India, the world's new call](https://documentaryheaven.com/dispatches-the-data-theft-scandal/ "Dispatches: The Data Theft Scandal")
+* [![ZERO: An Investigation Into 9/11](/wp-content/thumbnails/4643-100x70.jpg?x53432)
     
-    The Other Side of Dunkirk
+    ZERO: An Investigation Into 9/11
     
-    On the morning of the 26th May, 1940, an order was transmitted from Admiralty building in London, to a secret headquarters in Dover. The order stated that the evacuation of the British Expeditionary F](https://documentaryheaven.com/other-side-of-dunkirk/ "The Other Side of Dunkirk")
-* [![How The Kids Took Over](/wp-content/thumbnails/1389-100x70.jpg?x53432)
+    ZERO: An Investigation into 9/11, has one central thesis - that the official version of the events surrounding the attacks on 9/11 can not be true. This brand new feature documentary from Italian prod](https://documentaryheaven.com/zero-an-investigation-into-911/ "ZERO: An Investigation Into 9/11")
+* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
     
-    How The Kids Took Over
+    The Death of Yugoslavia
     
-    In the last 10 years, corporations have doubled what they spend marketing to your children. It's no wonder. Children influence 62% of family purchases - everything from snack food to cameras to cars.](https://documentaryheaven.com/how-the-kids-took-over/ "How The Kids Took Over")
+    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
