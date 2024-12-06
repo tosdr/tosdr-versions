@@ -106,11 +106,11 @@ Search
     
     [Shop All](https://4patriots.com/category/solar-power)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2403-PPG-2KX-LIFESTYLE-INDOORS-680x680.jpg)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fa73a26e6b86a4041b75e11d9fdc18660)
     
     Solar Generators](https://4patriots.com/page/emergency-solar-power/portable-solar-generators-power-stations)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2403-100W-LIFESTYLE-SUN-CHARGING-680x680.jpg)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fdc51854a890d466b8c68d7130b2e5343)
     
     Solar Panels](https://4patriots.com/category/solar-power/solar-panels)
     
@@ -118,7 +118,7 @@ Search
     
     Upgrade & Expansion Packs](https://4patriots.com/category/solar-power/generator-upgrade-kits)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPS2-LIFESTYLE-LIVING-ROOM-SOLAR-PANEL-680x680.jpg)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088)
     
     Best Sellers](https://4patriots.com/category/solar-power/solar-power-best-sellers)
     
@@ -142,13 +142,13 @@ Search
     
     [Shop All](https://4patriots.com/category/emergency-food-kits)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F3c9ffb38d5044447bf6dd60a007322a3?width=343)
+    [![](https://assets.catsy.com/catsy.1040/F4P-2411-NONNAS-BEST-LASAGNA-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
-    Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea?width=343)
+    Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://assets.catsy.com/catsy.1040/MENU-2407-4WK-LIFESTYLE-TOTE-UNDER-BED-680x680.jpg)
     
-    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2403-CEK-LIFESTYLE-CHICKEN-680x680.jpg)
+    Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![A mother fills her daughter's plate with creamed corn for Christmas dinner.](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F122a72ee42e643489522d66a63059ad0)
     
-    Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F5c1b4cc4e4d04ab59815439d765ae793?width=343)
+    Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://assets.catsy.com/catsy.1040/72HR-2411-HOLIDAY-LIFESTYLE-CATEGORY-680x680.jpg)
     
     Best Sellers](https://4patriots.com/category/emergency-food-kits/emergency-food-best-sellers)
     
@@ -210,11 +210,13 @@ Search
     
     [Shop All](https://4patriots.com/category/air-filtration-climate)
     
-    [![](https://assets.catsy.com/catsy.1040/MENU-2410-AIR-ADV-LIFESTYLE-LIVING-ROOM-854x674.jpg)](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)[Air Filtration](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-AIR-ADV-LIFESTYLE-LIVING-ROOM-680x680.jpg)](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)[Air Filtration](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)
     
-    [![](https://assets.catsy.com/catsy.1040/MENU-2410-PAC-LIFESTYLE-SOLAR-PANEL-CHARGE-854x674.jpg)](https://4patriots.com/product/chillzone-portable-ac)[Portable A/C](https://4patriots.com/product/chillzone-portable-ac)
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-PAC-LIFESTYLE-BEDROOM-680x680.jpg)](https://4patriots.com/product/chillzone-portable-ac)[Portable A/C & Heat](https://4patriots.com/product/chillzone-portable-ac)
     
-    [![](https://assets.catsy.com/catsy.1040/MENU-2410-FAN-LIFESTYLE-GARAGE-854x674.jpg)](https://4patriots.com/category/air-filtration-climate/fans-misters)[Fans & Misters](https://4patriots.com/category/air-filtration-climate/fans-misters)
+    [![](https://assets.catsy.com/catsy.1040/RES-2411-LIFESTYLE-LIVING-ROOM-680x680.jpg)](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)[Heaters](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
+    
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-FAN-LIFESTYLE-GARAGE-680x680.jpg)](https://4patriots.com/category/air-filtration-climate/fans-misters)[Fans & Misters](https://4patriots.com/category/air-filtration-climate/fans-misters)
     
     [![](https://assets.catsy.com/catsy.1040/SITE-AD-2403-PAC-BEDROOM-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-PAC-BEDROOM-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)
     
