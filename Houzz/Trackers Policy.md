@@ -333,7 +333,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Bathroom Accessories](https://www.houzz.com/products/bathroom-accessories)
 
-* [Bathroom Storage](https://www.houzz.com/products/bathroom-storage-and-vanities)
+* [Bathroom Storage](https://www.houzz.com/products/bathroom-furniture-and-storage)
 
 * [Bath Sale](https://www.houzz.com/products/bath-products/on-sale)
 * [Trending in Bath](https://www.houzz.com/shop-houzz/bath)
