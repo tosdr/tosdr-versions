@@ -10,12 +10,12 @@
 * [Top-Seller](https://www.thomannmusic.com/topseller.html)
 * [Bargains](https://www.thomannmusic.com/blowouts.html)
 
-[![Thomann](https://images.static-thomann.de/pics//images/logos/thomann-cyan-black.svg)](https://www.thomannmusic.com/)
+[![Thomann](https://images.static-thomann.de/pics//images/logos/thomann-xmas-kugel-logo-v3.svg)](https://www.thomannmusic.com/)
 
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
+* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
