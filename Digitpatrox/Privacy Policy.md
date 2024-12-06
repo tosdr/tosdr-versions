@@ -20,16 +20,16 @@ Friday, December 6 2024
 
 Latest
 
-* [Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
-* [You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
-* [How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
-* [Google Wallet Brings Digital ID Support to Another US State](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
-* [ASUS ZenWiFi BQ16 review: The future of Wi-Fi is here!](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
-* [Regulatory uncertainty is holding back AI adoption – here’s what the industry needs going forward](https://digitpatrox.com/regulatory-uncertainty-is-holding-back-ai-adoption-heres-what-the-industry-needs-going-forward/)
-* [UK Cyber Risks Are ‘Widely Underestimated,’ Warns Security Chief](https://digitpatrox.com/uk-cyber-risks-are-widely-underestimated-warns-security-chief/)
-* [NYT Strands today — hints, spangram and answers for game #278 (Friday, December 6 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-278-friday-december-6-2024/)
-* [U.S. org suffered four month intrusion by Chinese hackers](https://digitpatrox.com/u-s-org-suffered-four-month-intrusion-by-chinese-hackers/)
-* [The PC Gaming Show 2024: all the best trailers](https://digitpatrox.com/the-pc-gaming-show-2024-all-the-best-trailers/)
+* [TPM 2.0 is a ‘non-negotiable’ requirement for Windows 11 – Computerworld](https://digitpatrox.com/tpm-2-0-is-a-non-negotiable-requirement-for-windows-11-computerworld/)
+* [Review: The Fender x Teufel Rockster Air 2 Speaker Is Ideal for Buskers and Musicians, but That’s Basically It](https://digitpatrox.com/review-the-fender-x-teufel-rockster-air-2-speaker-is-ideal-for-buskers-and-musicians-but-thats-basically-it/)
+* [13 Best Electric Cars of 2025](https://digitpatrox.com/13-best-electric-cars-of-2025/)
+* [Today’s NYT Connections Hints and Answer for December 5 (#543)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-5-543/)
+* [20 cute Christmas wallpapers for iPhone & Android in 2024](https://digitpatrox.com/20-cute-christmas-wallpapers-for-iphone-android-in-2024/)
+* [5 Reasons a Stateful Firewall Is a Must-Have for Business](https://digitpatrox.com/5-reasons-a-stateful-firewall-is-a-must-have-for-business/)
+* [Honda recalls over 200,000 SUVs due to fuel system issue that may cause fires — what you need to know](https://digitpatrox.com/honda-recalls-over-200000-suvs-due-to-fuel-system-issue-that-may-cause-fires-what-you-need-to-know/)
+* [Nebraska Man pleads guilty to $3.5 million cryptojacking scheme](https://digitpatrox.com/nebraska-man-pleads-guilty-to-3-5-million-cryptojacking-scheme/)
+* [Donald Trump says David Sacks will be the ‘White House A.I. & Crypto Czar’](https://digitpatrox.com/donald-trump-says-david-sacks-will-be-the-white-house-a-i-crypto-czar/)
+* [Marvel Rivals Codes (December 2024)](https://digitpatrox.com/marvel-rivals-codes-december-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3618060-0-45610900-1733426700-Apple-WWDC24-event-photos-developers-watch-keynote-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617946-0-85247200-1733403026-Windows-11-Update-Arger.png?w=1024)](https://digitpatrox.com/tpm-2-0-is-a-non-negotiable-requirement-for-windows-11-computerworld/)
     
-    [Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
+    [TPM 2.0 is a ‘non-negotiable’ requirement for Windows 11 – Computerworld](https://digitpatrox.com/tpm-2-0-is-a-non-negotiable-requirement-for-windows-11-computerworld/)
     
-    8 minutes ago
+    2 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JECCZ7R13TP2V7HDDDRX3AXM/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
+* [![](https://lifehacker.com/imagery/articles/01JD5VVTBDF91D7BV3FAH5T76G/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/review-the-fender-x-teufel-rockster-air-2-speaker-is-ideal-for-buskers-and-musicians-but-thats-basically-it/)
     
-    [You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
+    [Review: The Fender x Teufel Rockster Air 2 Speaker Is Ideal for Buskers and Musicians, but That’s Basically It](https://digitpatrox.com/review-the-fender-x-teufel-rockster-air-2-speaker-is-ideal-for-buskers-and-musicians-but-thats-basically-it/)
     
-    36 minutes ago
+    30 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028187/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-PHEV-vs-EV-vs-ICE-EVs-Are-Less-Reliable-Than-Conventional-Cars-1124)](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730916246/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-We-Test-About-50-EVs-Every-Year-Here-Are-the-13-Best-Electric-Cars-2025-1124)](https://digitpatrox.com/13-best-electric-cars-of-2025/)
     
-    [How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
+    [13 Best Electric Cars of 2025](https://digitpatrox.com/13-best-electric-cars-of-2025/)
     
-    46 minutes ago
+    40 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/15-2.png)](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-5-543/)
     
-    [Google Wallet Brings Digital ID Support to Another US State](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
+    [Today’s NYT Connections Hints and Answer for December 5 (#543)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-5-543/)
     
-    47 minutes ago
+    41 minutes ago
     
-* [![](https://www.digitalcitizen.life/wp-content/uploads/2024/11/asus_zenwifi_bq16.jpg)](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2019/12/christmas.png)](https://digitpatrox.com/20-cute-christmas-wallpapers-for-iphone-android-in-2024/)
     
-    [ASUS ZenWiFi BQ16 review: The future of Wi-Fi is here!](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
+    [20 cute Christmas wallpapers for iPhone & Android in 2024](https://digitpatrox.com/20-cute-christmas-wallpapers-for-iphone-android-in-2024/)
     
-    50 minutes ago
+    44 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 minutes ago
+* [2 minutes ago
     
-    ### Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
-* [36 minutes ago
+    ### TPM 2.0 is a ‘non-negotiable’ requirement for Windows 11 – Computerworld](https://digitpatrox.com/tpm-2-0-is-a-non-negotiable-requirement-for-windows-11-computerworld/)
+* [30 minutes ago
     
-    ### You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
-* [46 minutes ago
+    ### Review: The Fender x Teufel Rockster Air 2 Speaker Is Ideal for Buskers and Musicians, but That’s Basically It](https://digitpatrox.com/review-the-fender-x-teufel-rockster-air-2-speaker-is-ideal-for-buskers-and-musicians-but-thats-basically-it/)
+* [40 minutes ago
     
-    ### How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
+    ### 13 Best Electric Cars of 2025](https://digitpatrox.com/13-best-electric-cars-of-2025/)
 
 Most Popular Topics
 
+* [4 weeks ago
+    
+    ### 6 Ways to Automate Key Elements of a Call Center Workflow](https://digitpatrox.com/6-ways-to-automate-key-elements-of-a-call-center-workflow/)
+* [3 weeks ago
+    
+    ### How to Lease an EV or PHEV With a $7,500 Tax Credit](https://digitpatrox.com/how-to-lease-an-ev-or-phev-with-a-7500-tax-credit/)
 * [1 week ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-26/)
-* [September 1, 2024
-    
-    ### I have $250 to upgrade my bedding in the Labor Day sales — here’s what I’m buying](https://digitpatrox.com/i-have-250-to-upgrade-my-bedding-in-the-labor-day-sales-heres-what-im-buying/)
-* [August 29, 2024
-    
-    ### California’s contentious AI safety bill gets closer to becoming a law – Computerworld](https://digitpatrox.com/californias-contentious-ai-safety-bill-gets-closer-to-becoming-a-law-computerworld/)
+    ### Ninja Luxe Café Espresso Machine and Coffee Maker Review](https://digitpatrox.com/ninja-luxe-cafe-espresso-machine-and-coffee-maker-review/)
 
 Last Modified Topics
 
 * [1 hour ago
     
-    ### UK Cyber Risks Are ‘Widely Underestimated,’ Warns Security Chief](https://digitpatrox.com/uk-cyber-risks-are-widely-underestimated-warns-security-chief/)
-* [2 hours ago
-    
-    ### NYT Strands today — hints, spangram and answers for game #278 (Friday, December 6 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-278-friday-december-6-2024/)
+    ### Honda recalls over 200,000 SUVs due to fuel system issue that may cause fires — what you need to know](https://digitpatrox.com/honda-recalls-over-200000-suvs-due-to-fuel-system-issue-that-may-cause-fires-what-you-need-to-know/)
 * [3 hours ago
     
-    ### U.S. org suffered four month intrusion by Chinese hackers](https://digitpatrox.com/u-s-org-suffered-four-month-intrusion-by-chinese-hackers/)
+    ### Nebraska Man pleads guilty to $3.5 million cryptojacking scheme](https://digitpatrox.com/nebraska-man-pleads-guilty-to-3-5-million-cryptojacking-scheme/)
+* [3 hours ago
+    
+    ### Donald Trump says David Sacks will be the ‘White House A.I. & Crypto Czar’](https://digitpatrox.com/donald-trump-says-david-sacks-will-be-the-white-house-a-i-crypto-czar/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
