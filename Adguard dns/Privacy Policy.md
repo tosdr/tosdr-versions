@@ -170,7 +170,7 @@ Dansk Deutsch English Español Français Hrvatski Italiano Magyar Nederlands Pol
 
 AdGuard DNS Privacy Policy
 
-June 5, 2024
+August 6, 2024
 
 Summary
 
@@ -182,11 +182,13 @@ We do not share or sell your personal information. We are strongly committed to 
     
 3. When you sign up for our services or buy an AdGuard DNS subscription, you provide us with your email address. We’ll use it to notify you of changes to your AdGuard account. If you agree, we’ll also keep you informed about AdGuard DNS sales and news.
     
-4. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [](https://my.adguard.com/)[https://my.adguard.com](https://my.adguard.com/) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com). Below, we list all the information we may process via AdGuard DNS and explain why we do it and how we use this information. We do not collect anything for tracking purposes and take all necessary measures to protect the information you share with us.
+4. You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at my.adguard.com or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
+
+Below, we list all the information we may process via AdGuard DNS and explain why we do it and how we use this information. We do not collect anything for tracking purposes and take all necessary measures to protect the information you share with us.
 
 Who we are
 
-ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your personal data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy informs you of your rights and our obligations and explains how, why, and when we process your personal data. Our general principle is to collect only the information necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
+ADGUARD SOFTWARE LIMITED (“We”, “Our” or “Us”) collects and processes your data in accordance with this Privacy Policy and in compliance with the applicable data protection laws. This Policy informs you of your rights and our obligations and explains how, why, and when we process your personal data. Our general principle is to collect only the information necessary to provide you with full functionality of our products and services. We strictly follow the principle of “minimization” when processing your data.
 
 ADGUARD SOFTWARE LIMITED is a company registered in Limassol, Cyprus, registered office is at Anexartesias and Athinon 79, Nora Court Flat/Office 203-205, 3040 Limassol, Cyprus. ADGUARD SOFTWARE LIMITED acts as the data controller when processing your data.
 
@@ -208,7 +210,7 @@ AdGuard DNS operates as a DNS resolver that can block access to certain domains 
     
 * Private AdGuard DNS blocks DNS queries or modifies DNS responses in accordance with the user’s preferences. In addition to that, it displays the queries and statistics to the user via the AdGuard DNS dashboard. Registering an AdGuard account is required to use this type of DNS resolver.
 
-If you disagree with our classification of a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard-dns.io](mailto:support@adguard-dns.io).
+If you disagree with our classification of a certain domain as advertising, tracking, malicious, or adult one, or if you believe a certain domain should be blocked by one of AdGuard DNS servers, contact us at [support@adguard.com](mailto:support@adguard.com).
 
 What data we process and when
 
@@ -221,6 +223,7 @@ We do not collect anything about the user specifically, except where necessary t
 * We store aggregated performance metrics of our DNS servers, namely the number of complete requests to a particular server, the number of blocked requests, and the speed of processing requests.
     
 * We keep and store an anonymous database of domains requested in the last 24 hours. There is no information whatsoever that could link any of these domain names to the original user who sent the request. We need this information to identify and block new trackers and threats.
+    
 * We also log how many times this or that tracker has been blocked. We need this information to remove outdated rules from our filters.
 
 All this data that we process is not shared with any third parties. It is used solely for internal purposes such as performance analytics. The only information we may share is derivative information, i.e., lists of domains that our servers recognize as advertising, tracking, or malicious.
@@ -233,13 +236,11 @@ Sending messages. We can communicate with you using your email address when we h
 
 You can also provide us with your consent to process your email for sending marketing messages about our other software or services. You can withdraw your consent any time by unsubscribing from our newsletter via AdGuard Account or by clicking the “Unsubscribe” button or link in the email itself.
 
-Cookies. We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the Privacy Policy of AdGuard Websites for details: [](https://adguard.com/website-privacy.html)[https://adguard.com/website-privacy.html](https://adguard.com/website-privacy.html).
+Cookies. We use our cookies for personalizing the content of the AdGuard DNS website, such as setting the default language. None of the information we may acquire through the use of cookies is considered Personal Data as it does not allow us to identify you. You can always disable or clear cookies in your browser, but please note that some of our services may not function properly without the aid of cookies. Please refer to the [Privacy Policy of AdGuard Websites](https://adguard.com/website-privacy.html) for details.
 
 Buying a subscription. If you purchase a subscription to Private AdGuard DNS, we’ll use the email address you provide to send you information about your purchase. We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
 
-We’ll also use your email address to create an account for you. This account will allow you to manage your purchased subscription.
-
-We conduct all transactions via the Paddle payment provider [Paddle.com Inc.](https://www.paddle.com/) to enable payments if you purchase a subscription to use our software and services. The data processed depends on the payment provider and may include the following:
+We conduct all transactions via the Paddle payment provider [Paddle.com Market Ltd](https://www.paddle.com/) to enable payments if you purchase a subscription to use our software and services. The data processed depends on the payment provider and may include the following:
 
 * Email address
     
@@ -266,6 +267,7 @@ In this case, AdGuard DNS will block DNS queries or modify them according to the
 We process the following data to enable you to use private AdGuard DNS:
 
 * The email address you used to create your account.
+    
 * We store logs of DNS queries from connected devices in order to display it to you on the AdGuard DNS dashboard. Logs contain status and content of requests, names of companies who own the requested resources, names of connected devices, date of requests. Additionally, we will log anonymized IP addresses (limited to subnet) of connected devices from which incoming DNS requests are received, when this option is enabled by you. Users may opt to disable logging via the account settings. The log is only stored for a limited period of time which can also be configured via the account settings.
 
 What legal bases we use to process your Personal Data
@@ -314,7 +316,7 @@ You are entitled to exercise the following rights in relation to your Personal D
 
 Right of access: the right to obtain all your Personal Data we store. In some cases, the right of access may be limited for technical reasons, including if the data has been anonymized and cannot be linked to any data subject.
 
-Right to erasure or right to be forgotten: the right to completely delete your Personal Data. You can do this at will via AdGuard account, or by sending a request to [privacy@adguard.com](mailto:privacy@adguard.com).
+Right to erasure or right to be forgotten: the right to completely delete your Personal Data. You can do this at will via AdGuard account, or by sending a request to [privacy@adguard.com](https://adguard-dns.io/en/privacy@adguard.com).
 
 Right to rectification: the right to correct any incomplete or inaccurate Personal Data about you. We will do so as quickly as possible, unless there is a valid reason not to, in which case you will be notified.
 
@@ -322,7 +324,7 @@ Right to restriction: the right to impose restrictions on processing of your Per
 
 Right to object: the right to object to processing of your Personal Data.
 
-Right to data portability: the right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from the AdGuard account on [](https://my.adguard.com/)[https://my.adguard.com](https://my.adguard.com/).
+Right to data portability: the right to receive provided Personal Data in a structured, commonly used and machine-readable format and to transmit that data to another controller. You can export all Personal Data that we hold about you to a local file from the AdGuard account on [my.adguard.com](https://my.adguard.com/).
 
 Right not to be subject to a decision based solely on automated processing, including profiling.
 
