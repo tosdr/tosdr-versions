@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:40pm |
-| Wont Let GoRascal Flatts<br><br>3:58pm |
-| Pretty Little PoisonWarren Zeiders<br><br>3:39pm |
-| Crash My PartyLuke Bryan<br><br>3:35pm |
-| Prayed For YouMatt Stell<br><br>3:29pm |
+| Til You Can'TCody Johnson<br><br>10:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:33pm |
+| Famous FriendsChris Young And Kane Brown<br><br>10:22pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:19pm |
+| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>10:16pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 News Talk • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Spanish • Western
+Top 40 • Eastern
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
