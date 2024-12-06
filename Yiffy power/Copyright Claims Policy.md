@@ -75,7 +75,7 @@ Latest commented posts
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 794 1
+0 807 1
 
 November 18, 2024
 
@@ -83,23 +83,23 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 263 1
+0 273 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/cheedi-and-turquoise-created-by-ralek/)
+[](https://yiff-party.com/yiff/link-the-legend-of-zelda-and-etc-created-by-spectrumshift/)
 
-[cheedi and turquoise created by ralek](https://yiff-party.com/yiff/cheedi-and-turquoise-created-by-ralek/)
+[link (the legend of zelda and etc) created by spectrumshift](https://yiff-party.com/yiff/link-the-legend-of-zelda-and-etc-created-by-spectrumshift/)
 
-0 123 0
+0 66 0
 
 November 6, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-degenstoic-23/)
+[](https://yiff-party.com/yiff/caleb-and-cassandra-created-by-hicheeras/)
 
-[directed by degenstoic](https://yiff-party.com/yiff-ai-premium/directed-by-degenstoic-23/)
+[caleb and cassandra created by hicheeras](https://yiff-party.com/yiff/caleb-and-cassandra-created-by-hicheeras/)
 
-0 1 0
+0 3 0
 
 December 6, 2024
 
