@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nenad-bracic/man-ray-1.jpg?itok=Z2vyCUEC)](http://seecult.org/galerija/galerija-umetnika/nenad-bracic)
+[![Zoran Popovic's solo exhibition 'Time Based Works 1973-2006', Artget Gallery, Belgrade, 2007](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works/vremenski-radovi/zoran-popovic-na-svojoj-solo-izlozbi-vremenski-radovi-galerija-artget-12-04-2007-foto-latif-arif.jpg?itok=YTT3mLfI "Zoran Popovic at his solo exhibition 'Time Based Works 1973-2006', Artget Gallery, Belgrade, 2007")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works-vremenski-radovi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zaz/skoplje-008.jpg?itok=LRQAC__u)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zaz)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slobodna-zona/slatka-mala.jpg?itok=QXCG2-vi)](http://seecult.org/galerija/foto-galerija/foto-arhiva/slobodna-zona)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
 * [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
 * [Dražen u bioskopima](http://seecult.org/vest/drazen-u-bioskopima)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminuo Raša Todosijević](http://seecult.org/vest/preminuo-rasa-todosijevic)
 * [Ohrabrenje i ovacije za Mitrovića na kraju 28. FKM](http://seecult.org/vest/ohrabrenje-i-ovacije-za-mitrovica-na-kraju-28-fkm)
 * [VOĐENJE: Ana Knežević - Geometrija praznine](http://seecult.org/vest/vodenje-ana-knezevic-geometrija-praznine)
-* [Festival drugosti](http://seecult.org/vest/festival-drugosti)
 
 * [Konkursi](#tab1_1)
 
