@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Nelson Backes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1236629.thumb.jpeg.a93b971fa181802c55a4178521d4f2ac.jpeg)](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")
+    * [![TestePC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/cifra.thumb.jpg.b1fdf12858adcee64d87ac03a882d384.jpg)](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")
         
-        0
+        5
         
-        [Qual GPU devo trocar pela Rx 6600 XT ?](https://www.clubedohardware.com.br/forums/topic/1704673-qual-gpu-devo-trocar-pela-rx-6600-xt/?do=getNewComment "Qual GPU devo trocar pela Rx 6600 XT ?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Nelson Backes](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")  
-        32 minutos atrás
-        
-    * [![Um mano qualquer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46271%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EUM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257469-um-mano-qualquer/ "Ir ao perfil de Um mano qualquer")
-        
-        0
-        
-        [Cooler potente para xeon 2697 v3](https://www.clubedohardware.com.br/forums/topic/1704672-cooler-potente-para-xeon-2697-v3/?do=getNewComment "Cooler potente para xeon 2697 v3")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Um mano qualquer](https://www.clubedohardware.com.br/profile/1257469-um-mano-qualquer/ "Ir ao perfil de Um mano qualquer")  
-        1 hora atrás
-        
-    * [![Nascimento Silva7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257468.thumb.jpeg.2fa2a4ed0775a6a724ac0b2c19854757.jpeg)](https://www.clubedohardware.com.br/profile/1257468-nascimento-silva7/ "Ir ao perfil de Nascimento Silva7")
-        
-        1
-        
-        [placa-mãe ASUS Tuf Gaming b550m plus x compatibilidade memória ram](https://www.clubedohardware.com.br/forums/topic/1704671-placa-m%C3%A3e-asus-tuf-gaming-b550m-plus-x-compatibilidade-mem%C3%B3ria-ram/?do=getNewComment "placa-mãe ASUS Tuf Gaming b550m plus x compatibilidade memória ram")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Nascimento Silva7](https://www.clubedohardware.com.br/profile/1257468-nascimento-silva7/ "Ir ao perfil de Nascimento Silva7")  
-        2 horas atrás
-        
-    * [![Andrei Santos B.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1252415.thumb.jpeg.88becf55688f1b0c49fb30c7b8fc1130.jpeg)](https://www.clubedohardware.com.br/profile/1252415-andrei-santos-b/ "Ir ao perfil de Andrei Santos B.")
-        
-        1
-        
-        [Cooler ak400 digital pode interferir no slot do NVMe?](https://www.clubedohardware.com.br/forums/topic/1704670-cooler-ak400-digital-pode-interferir-no-slot-do-nvme/?do=getNewComment "Cooler ak400 digital pode interferir no slot do NVMe?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Andrei Santos B.](https://www.clubedohardware.com.br/profile/1252415-andrei-santos-b/ "Ir ao perfil de Andrei Santos B.")  
-        3 horas atrás
-        
-    * [![Sther](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/1719194859023.thumb.jpg.12d1278a55de10e607d2f9cdaef4a3a8.jpg)](https://www.clubedohardware.com.br/profile/1253001-sther/ "Ir ao perfil de Sther")
-        
-        2
-        
-        [Placa de vídeo RX 6750XT + B550M ASUS TUF](https://www.clubedohardware.com.br/forums/topic/1704669-placa-de-v%C3%ADdeo-rx-6750xt-b550m-asus-tuf/?do=getNewComment "Placa de vídeo RX 6750XT + B550M ASUS TUF")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Sther](https://www.clubedohardware.com.br/profile/1253001-sther/ "Ir ao perfil de Sther")  
-        3 horas atrás
-        
-    * [![soriel80](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1134449.thumb.jpeg.2eed8d7c7db07a2b636c4d7fbbe641cb.jpeg)](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")
-        
-        1
-        
-        [Como melhorar este pc da melhor forma](https://www.clubedohardware.com.br/forums/topic/1704668-como-melhorar-este-pc-da-melhor-forma/?do=getNewComment "Como melhorar este pc da melhor forma")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [soriel80](https://www.clubedohardware.com.br/profile/1134449-soriel80/ "Ir ao perfil de soriel80")  
-        4 horas atrás
-        
-    * [![THiAG0HN](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1232606.thumb.jpeg.c024328e00d64a98854504b9a478b32b.jpeg)](https://www.clubedohardware.com.br/profile/1232606-thiag0hn/ "Ir ao perfil de THiAG0HN")
-        
-        0
-        
-        [Recomendação de adaptador wifi](https://www.clubedohardware.com.br/forums/topic/1704667-recomenda%C3%A7%C3%A3o-de-adaptador-wifi/?do=getNewComment "Recomendação de adaptador wifi")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [THiAG0HN](https://www.clubedohardware.com.br/profile/1232606-thiag0hn/ "Ir ao perfil de THiAG0HN")  
-        4 horas atrás
-        
-    * [![Cfernandes](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/gueixa.thumb.jpg.32667ccf70c02fc3f61107e829501bed.jpg)](https://www.clubedohardware.com.br/profile/1079915-cfernandes/ "Ir ao perfil de Cfernandes")
-        
-        0
-        
-        Excel [Salvar individualmente MALA DIRETA](https://www.clubedohardware.com.br/forums/topic/1704666-salvar-individualmente-mala-direta/?do=getNewComment "Salvar individualmente MALA DIRETA")
-        
-        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
-        Por [Cfernandes](https://www.clubedohardware.com.br/profile/1079915-cfernandes/ "Ir ao perfil de Cfernandes")  
-        4 horas atrás
-        
-    * [![Gustavoff21](https://www.clubedohardware.com.br/uploads/members/monthly_2022_06/imported-photo-1198035.thumb.jpeg.4a6c5eb97e04a0a26eefcd99f550680c.jpeg)](https://www.clubedohardware.com.br/profile/1198035-gustavoff21/ "Ir ao perfil de Gustavoff21")
-        
-        2
-        
-        [Biostar A320M 2.0 aguenta o AMD Ryzen 5 2600 numa boa?](https://www.clubedohardware.com.br/forums/topic/1704665-biostar-a320m-20-aguenta-o-amd-ryzen-5-2600-numa-boa/?do=getNewComment "Biostar A320M 2.0 aguenta o AMD Ryzen 5 2600 numa boa?")
+        [Recomendação de placa-mãe para i3 3220 de até R$250,00.](https://www.clubedohardware.com.br/forums/topic/1704685-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-i3-3220-de-at%C3%A9-r25000/?do=getNewComment "Recomendação de placa-mãe para i3 3220 de até R$250,00.")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Gustavoff21](https://www.clubedohardware.com.br/profile/1198035-gustavoff21/ "Ir ao perfil de Gustavoff21")  
-        4 horas atrás
+        Por [TestePC](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")  
+        24 minutos atrás
         
-    * [![lucas2560](https://www.clubedohardware.com.br/uploads/members/monthly_2022_10/The-poetic-illustrations-of-a-Japanese-artist-will-make-us-see-our-daily-life-with-a-different-eye-5a868d12e2091__700.thumb.jpg.2320a0ff17a75ccd87fe00aac02764d9.jpg)](https://www.clubedohardware.com.br/profile/1086082-lucas2560/ "Ir ao perfil de lucas2560")
+    * [![Fantecele](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362aac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/769996-fantecele/ "Ir ao perfil de Fantecele")
+        
+        3
+        
+        [Recomendação de notebook para trabalho, estudos e jogos de até R$8.000](https://www.clubedohardware.com.br/forums/topic/1704684-recomenda%C3%A7%C3%A3o-de-notebook-para-trabalho-estudos-e-jogos-de-at%C3%A9-r8000/?do=getNewComment "Recomendação de notebook para trabalho, estudos e jogos de até R$8.000")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Fantecele](https://www.clubedohardware.com.br/profile/769996-fantecele/ "Ir ao perfil de Fantecele")  
+        31 minutos atrás
+        
+    * [![alissomrex](https://www.clubedohardware.com.br/uploads/members/monthly_2017_01/ALISSOM.thumb.jpg.ec54e982a3b56e67d82a3b083331ac91.jpg)](https://www.clubedohardware.com.br/profile/698005-alissomrex/ "Ir ao perfil de alissomrex")
+        
+        1
+        
+        [Indicação de notebook para Studio de música de até R$4.000](https://www.clubedohardware.com.br/forums/topic/1704683-indica%C3%A7%C3%A3o-de-notebook-para-studio-de-m%C3%BAsica-de-at%C3%A9-r4000/?do=getNewComment "Indicação de notebook para Studio de música de até R$4.000")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [alissomrex](https://www.clubedohardware.com.br/profile/698005-alissomrex/ "Ir ao perfil de alissomrex")  
+        1 hora atrás
+        
+    * [![skull10001](https://www.clubedohardware.com.br/uploads/members/profile/photo-397682.gif)](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")
+        
+        3
+        
+        [Onde conseguir bateria cr2016 do notebook positivo master n6240?](https://www.clubedohardware.com.br/forums/topic/1704681-onde-conseguir-bateria-cr2016-do-notebook-positivo-master-n6240/?do=getNewComment "Onde conseguir bateria cr2016 do notebook positivo master n6240?")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [skull10001](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")  
+        1 hora atrás
+        
+    * [![g43mer341](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240557.thumb.png.d1860e8ec0bb8c4c126629966f5c0933.png)](https://www.clubedohardware.com.br/profile/1240557-g43mer341/ "Ir ao perfil de g43mer341")
+        
+        3
+        
+        [Notebook fica com tela preta ao instalar memória RAM nova.](https://www.clubedohardware.com.br/forums/topic/1704680-notebook-fica-com-tela-preta-ao-instalar-mem%C3%B3ria-ram-nova/?do=getNewComment "Notebook fica com tela preta ao instalar memória RAM nova.")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [g43mer341](https://www.clubedohardware.com.br/profile/1240557-g43mer341/ "Ir ao perfil de g43mer341")  
+        1 hora atrás
+        
+    * [![João Sandri](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257370.thumb.jpeg.aa6c66f4a5dedc4622c550f09b544613.jpeg)](https://www.clubedohardware.com.br/profile/1257370-jo%C3%A3o-sandri/ "Ir ao perfil de João Sandri")
         
         0
         
-        [Recomendação roteador Gigabit para uso pessoal](https://www.clubedohardware.com.br/forums/topic/1704664-recomenda%C3%A7%C3%A3o-roteador-gigabit-para-uso-pessoal/?do=getNewComment "Recomendação roteador Gigabit para uso pessoal")
+        [AG400 é bom para Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1704679-ag400-%C3%A9-bom-para-ryzen-7-5700x3d/?do=getNewComment "AG400 é bom para Ryzen 7 5700X3D?")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [lucas2560](https://www.clubedohardware.com.br/profile/1086082-lucas2560/ "Ir ao perfil de lucas2560")  
-        4 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [João Sandri](https://www.clubedohardware.com.br/profile/1257370-jo%C3%A3o-sandri/ "Ir ao perfil de João Sandri")  
+        1 hora atrás
+        
+    * [![Samuel Mota](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/78683bd722bcc5b7ff23e480159c6200.thumb.jpg.66965bd7a98467a1f2d0695c4671ba00.jpg)](https://www.clubedohardware.com.br/profile/1105527-samuel-mota/ "Ir ao perfil de Samuel Mota")
+        
+        3
+        
+        [Opiniões e dicas de upgrade para i5 10400F, H410M S2H, RTX 4060 e 16Gb de RAM.](https://www.clubedohardware.com.br/forums/topic/1704678-opini%C3%B5es-e-dicas-de-upgrade-para-i5-10400f-h410m-s2h-rtx-4060-e-16gb-de-ram/?do=getNewComment "Opiniões e dicas de upgrade para i5 10400F, H410M S2H, RTX 4060 e 16Gb de RAM.")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Samuel Mota](https://www.clubedohardware.com.br/profile/1105527-samuel-mota/ "Ir ao perfil de Samuel Mota")  
+        1 hora atrás
+        
+    * [![thexgamer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46285%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/937132-thexgamer/ "Ir ao perfil de thexgamer")
+        
+        3
+        
+        [Fonte para kit Ryzen 5 5600 e 6700XT](https://www.clubedohardware.com.br/forums/topic/1704677-fonte-para-kit-ryzen-5-5600-e-6700xt/?do=getNewComment "Fonte para kit Ryzen 5 5600 e 6700XT")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [thexgamer](https://www.clubedohardware.com.br/profile/937132-thexgamer/ "Ir ao perfil de thexgamer")  
+        1 hora atrás
+        
+    * [![Alan Cerqueira de Santana](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")
+        
+        2
+        
+        [Fonte para Ryzen 7 9800X3D e GeForce RTX 4090 ASUS TUF](https://www.clubedohardware.com.br/forums/topic/1704675-fonte-para-ryzen-7-9800x3d-e-geforce-rtx-4090-asus-tuf/?do=getNewComment "Fonte para Ryzen 7 9800X3D e GeForce RTX 4090 ASUS TUF")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Alan Cerqueira de Santana](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")  
+        3 horas atrás
+        
+    * [![udanznh](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c493%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
+        
+        2
+        
+        [O cooler box da Intel resfria um i7 3770?](https://www.clubedohardware.com.br/forums/topic/1704674-o-cooler-box-da-intel-resfria-um-i7-3770/?do=getNewComment "O cooler box da Intel resfria um i7 3770?")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
+        3 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
