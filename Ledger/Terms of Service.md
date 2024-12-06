@@ -1,9 +1,6 @@
-[LAST CHANCE BLACK FRIDAY: Save now on Ledger hardware wallets and accessories.](https://shop.ledger.com/pages/black-friday)[Shop now](https://shop.ledger.com/pages/black-friday)
-
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Black Friday](https://shop.ledger.com/pages/black-friday "Black Friday")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -52,7 +49,6 @@
     * العربية
 
 * Products
-    * [Black Friday](https://shop.ledger.com/pages/black-friday "Black Friday")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -102,7 +98,6 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
-    * [Black Friday](https://shop.ledger.com/pages/black-friday "Black Friday")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -151,7 +146,6 @@
     * العربية
 
 * Products
-    * [Black Friday](https://shop.ledger.com/pages/black-friday "Black Friday")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
