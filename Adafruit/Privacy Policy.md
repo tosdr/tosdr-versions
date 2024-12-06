@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light”
+“ When you make a thing, a thing that is new, it is so complicated making it that it is bound to be ugly. But those that make it after you, they don’t have to worry about making it. And they can make it pretty, and so everybody can like it when others make it after you”
 
-[Isaac Newton](https://books.google.com/books?id=agI9AAAAIAAJ&pg=PA163&lpg=PA163&dq=isaac+newton+by+always+thinking+unto+them&source=bl&ots=0k_nBzZcqm&sig=3ARIEdz66ACinqE1KNi1Uh3sMMw&hl=en&sa=X&ved=0ahUKEwiIzfDIt8fJAhVF4CYKHadLCAsQ6AEINzAG#v=onepage&q=by%20always%20thin)
+[Pablo Picasso](http://en.wikipedia.org/wiki/Pablo_Picasso)
 
 [](https://www.adafruit.com/about)
 
