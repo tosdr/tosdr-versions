@@ -181,11 +181,11 @@ Just in
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Dutton, Harvey and Uhlmann's cooked advice](https://independentaustralia.net/article-display/dutton-harvey-and-uhlmanns-cooked-advice,19233 "Permanent Link : Dutton, Harvey and Uhlmann's cooked advice")
 * [CARTOONS: Trump's tariff talk is taking its toll](https://independentaustralia.net/article-display/cartoons-trumps-tariff-talk-is-taking-its-toll,19229 "Permanent Link : CARTOONS: Trump's tariff talk is taking its toll")
+* [The hunt is on for Biden to pardon press freedom's favourite son, Julian Assange](https://independentaustralia.net/article-display/the-hunt-is-on-for-biden-to-pardon-press-freedoms-favourite-son-julian-assange,19234 "Permanent Link : The hunt is on for Biden to pardon press freedom's favourite son, Julian Assange")
 * [Master Builders Association doing Australia no favours on immigration policy](https://independentaustralia.net/article-display/master-builders-association-doing-australia-no-favours-on-immigration-policy,19231 "Permanent Link : Master Builders Association doing Australia no favours on immigration policy")
 * [EDITORIAL: Wannabe overlord Dutton, Murdoch hack Uhlmann and heartless Harvey's warnings](https://independentaustralia.net/article-display/editorial-wannabe-overlord-dutton-murdoch-hack-uhlmann-and-heartless-harveys-warnings,19230 "Permanent Link : EDITORIAL: Wannabe overlord Dutton, Murdoch hack Uhlmann and heartless Harvey's warnings")
 * [AI Regulation in Australia: Understanding the mandatory guardrails](https://independentaustralia.net/article-display/ai-regulation-in-australia-understanding-the-mandatory-guardrails,19190 "Permanent Link : AI Regulation in Australia: Understanding the mandatory guardrails")
 * [There's something about Lidia](https://independentaustralia.net/article-display/theres-something-about-lidia,19228 "Permanent Link : There's something about Lidia")
-* [Dutton mimics Trump's tricks](https://independentaustralia.net/article-display/dutton-mimics-trumps-tricks,19226 "Permanent Link : Dutton mimics Trump's tricks")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
