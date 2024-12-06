@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/96761b8b-17cd-4d13-b8c8-be10caf87db3/20241206T062610/96761b8b-17cd-4d13-b8c8-be10caf87db3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/96761b8b-17cd-4d13-b8c8-be10caf87db3/20241206T062610/96761b8b-17cd-4d13-b8c8-be10caf87db3_360x203.jpg)](https://www.king5.com/article/news/community/more-than-a-number/whidbey-island-family-mourns-teen-daughter-killed-in-crash/281-f97ce706-7a63-48c7-9d03-da89de0957af)
+    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/shelton-police-officer-stabbed/281-76f43407-1c6e-4d1d-b273-279a475c1dab)
         
-        #### [Whidbey Island family mourns teen daughter killed in crash while driving in dense fog](https://www.king5.com/article/news/community/more-than-a-number/whidbey-island-family-mourns-teen-daughter-killed-in-crash/281-f97ce706-7a63-48c7-9d03-da89de0957af)
+        #### [Shelton police officer stabbed during arrest of felony suspect](https://www.king5.com/article/news/crime/shelton-police-officer-stabbed/281-76f43407-1c6e-4d1d-b273-279a475c1dab)
         
-    *  [![](https://media.king5.com/assets/KING/images/e35ca099-d4d4-412c-8a58-1cb549d985e7/20241206T052127/e35ca099-d4d4-412c-8a58-1cb549d985e7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e35ca099-d4d4-412c-8a58-1cb549d985e7/20241206T052127/e35ca099-d4d4-412c-8a58-1cb549d985e7_360x203.jpg)](https://www.king5.com/article/news/local/seattle-business-owners-hope-big-boost-as-pioneer-square-construction-ends/281-209bf451-fd07-4149-8f7e-c970cc36a805)
+    *  [![](https://media.king5.com/assets/KING/images/5492f0c8-0b7a-4808-b649-6213a9dfb265/5492f0c8-0b7a-4808-b649-6213a9dfb265_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5492f0c8-0b7a-4808-b649-6213a9dfb265/5492f0c8-0b7a-4808-b649-6213a9dfb265_360x203.jpg)](https://www.king5.com/article/news/local/seattle/new-years-at-the-needle-firework-drone-show-seattle/281-4cd54fe0-5c3a-4226-aeb0-63851ecce9c5)
         
-        #### [Seattle business owners hope for big boost as Pioneer Square construction wraps up](https://www.king5.com/article/news/local/seattle-business-owners-hope-big-boost-as-pioneer-square-construction-ends/281-209bf451-fd07-4149-8f7e-c970cc36a805)
+        #### [A firework and drone show set to ring in 2025 at the Space Needle](https://www.king5.com/article/news/local/seattle/new-years-at-the-needle-firework-drone-show-seattle/281-4cd54fe0-5c3a-4226-aeb0-63851ecce9c5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+49°
 
-![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
