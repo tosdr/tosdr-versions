@@ -161,13 +161,6 @@ External Links
 
 [Book a demo](https://www.snowsoftware.com/about-us/contact-us?C_Interest1=sales)
 
-Breadcrumb
-----------
-
-1.  [](https://www.flexera.com/)
-2. [Legal](https://www.flexera.com/legal)  
-3. Privacy Notice  
-
 Flexera Privacy Notice
 ----------------------
 
