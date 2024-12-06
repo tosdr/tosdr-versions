@@ -26,6 +26,8 @@
 * [Sign In](https://my.aspiration.com/auth/login/)
 * Get Started
 
+* Get Started
+
 Terms of Use
 ------------
 
