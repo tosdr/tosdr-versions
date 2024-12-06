@@ -265,4 +265,6 @@ YouTube[youtube](https://www.youtube.com/@codeiumdev)
 
 * [Docs](https://docs.codeium.com/)
 
+* [Feature Requests](https://codeium.canny.io/feature-requests)
+
 © 2024 Exafunction, Inc. All rights reserved.
