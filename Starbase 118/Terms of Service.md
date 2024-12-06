@@ -316,6 +316,16 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
+
+### [Lower Decks interview:  Lieutenant JG Sevantha Saa,  USS Astraeus.](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
+
+Lhandon Nilsen December 6, 2024
+
+We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
+
+[Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
 
 ### [Memories of Combat Fade, Bonds Strengthen for USS Khitomer](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
@@ -335,16 +345,6 @@ Federation News Service December 4, 2024
 Sol System – Starfleet Makes the Relaunch of the Chin’toka Official As previously reported, the “pirate” crew of the U.S.S. Chin’toka had been seen taking
 
 [Read More »](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
-
-### [Ship Out of Time](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
-
-Federation News Service December 3, 2024
-
-Unstable Temporal Wormhole, Gamma Quadrant – The crew of the USS Octavia E. Butler has returned after being flung through time. While her Captain was
-
-[Read More »](https://www.starbase118.net/2024/unstable-temporal-wormhole-gamma-quadrant-crew-flung-into-an-unknown-future/)
 
 Ready to get started?
 ---------------------
