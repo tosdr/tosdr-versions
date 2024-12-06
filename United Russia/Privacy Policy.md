@@ -305,7 +305,7 @@
 
 [#Двойных](https://er.ru/activity/news?tags%5B0%5D=44332) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#почтальоны](https://er.ru/activity/news?tags%5B0%5D=7918) [#почта](https://er.ru/activity/news?tags%5B0%5D=17973) [#сельскиетерритории](https://er.ru/activity/news?tags%5B0%5D=121383) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 14:10
+06.12.24
 
 [![«Единая Россия» инициирует внесение изменений в законодательство, направленное на формирование единой системы контроля качества медицинской помощи в системе ОМС и вне её](https://cdn.er.ru/media/news/December2024/534y8gAaHqzKP6T5fcp9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-iniciiruet-vnesenie-izmenenij-v-zakonodatelstvo-napravlennoe-na-formirovanie-edinoj-sistemy-kontrolya-kachestva-medicinskoj-pomoshi-v-sisteme-oms-i-vne-eyo)
 
@@ -313,7 +313,7 @@
 
 [#ОМС](https://er.ru/activity/news?tags%5B0%5D=6147) [#страхование](https://er.ru/activity/news?tags%5B0%5D=1224) [#Проценко](https://er.ru/activity/news?tags%5B0%5D=36534) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312)
 
-Сегодня 13:00
+06.12.24
 
 [![В Москве при поддержке «Единой России» прошёл Всероссийский фестиваль спортивной борьбы «Борьба — в школу»](https://cdn.er.ru/media/news/December2024/JMBMvUJNxj0W3qeKOTbS-small.JPG)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-vserossijskij-festival-sportivnoj-borby-borba-v-shkolu)
 
@@ -321,7 +321,7 @@
 
 [#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Детскийспорт](https://er.ru/activity/news?tags%5B0%5D=122062) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#спортивнаяборьба](https://er.ru/activity/news?tags%5B0%5D=124250) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 12:30
+06.12.24
 
 [![«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://cdn.er.ru/media/news/December2024/IHcLC8XqdSWpfHpsnyXO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
 
@@ -329,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
 
-Сегодня 11:10
+06.12.24
 
 [![«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://cdn.er.ru/media/news/December2024/UfUoOJWA18hAz9CZAMNy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
 
@@ -337,7 +337,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#семьивоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1095229) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#приемы](https://er.ru/activity/news?tags%5B0%5D=31258) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249)
 
-Сегодня 09:00
+06.12.24
 
 [![Владимир Якушев: Александр Хинштейн оправдает доверие Президента](https://cdn.er.ru/media/news/December2024/m4m7VjdziBnKe3DGpRM4-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-aleksandr-hinshtejn-opravdaet-doverie-prezidenta)
 
@@ -345,7 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579)
 
-Сегодня 08:00
+06.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
