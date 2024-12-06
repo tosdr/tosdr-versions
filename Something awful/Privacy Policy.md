@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Flaskfucker And The Fruit Hat](https://www.somethingawful.com/comedy-goldmine/flaskfucker-fruit-hat/1/)
-* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
-* [Bluelight, G4TechTV Forums, Favorite Teen and Young Starlets, and Supercars.net](https://www.somethingawful.com/weekend-web/bluelight-g4techtv-forums/1/)
-* [Monstergeddon 2014 Results!](https://www.somethingawful.com/news/monstergeddon-results-2014/)
+* [MosquitoMan](https://www.somethingawful.com/movie-reviews/mosquitoman/1/)
+* [Toilet Duck!](https://www.somethingawful.com/news/toilet-duck/)
+* [If That Dirt Fondler In Iraq Can Get 100% Of the Vote, Why the Hell Can't I Get Elected to the Goddamn PTA?!?](https://www.somethingawful.com/news/that-dirt-fondler/)
+* [I Hate You Page 80](https://www.somethingawful.com/cliff-yablonski/i-hate-you-80/)
+* [Something Awesome's 10 Hottest Celebrity Racks](https://www.somethingawful.com/feature-articles/stupid-sexy-list/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [This pig, he shit on his own balls](http://forums.somethingawful.com/showthread.php?threadid=4076923 "This pig, he shit on his own balls")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ITT we're boomers online](http://forums.somethingawful.com/showthread.php?threadid=4076894 "ITT we're boomers online")
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Our long national nightmare is finally over!](http://forums.somethingawful.com/showthread.php?threadid=4076896 "Our long national nightmare is finally over!")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh! No Tsunami!](http://forums.somethingawful.com/showthread.php?threadid=4076899 "Oh! No Tsunami!")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the strangest rule you've had to follow?](http://forums.somethingawful.com/showthread.php?threadid=4076880 "What's the strangest rule you've had to follow?")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [A thread about gift suggestions](http://forums.somethingawful.com/showthread.php?threadid=4076945 "A thread about gift suggestions")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Our long national nightmare is finally over!](http://forums.somethingawful.com/showthread.php?threadid=4076896 "Our long national nightmare is finally over!")
 
 ### Random Articles
 
-* [Cuddle Party](https://www.somethingawful.com/awful-links/awful-link-2284/)
-* [The Men Must Pay for What They Did to the Footballs](https://www.somethingawful.com/news/football-deflate-patriots/)
-* [And Now a Word For the Cyber Gravy Boat](https://www.somethingawful.com/news/fiverr-gravy-boat/1/)
-* [JASON'S DINOSAUR SITE!](https://www.somethingawful.com/awful-links/awful-link-968/)
+* [Everything We Know About The Nintendo NX](https://www.somethingawful.com/video-game-article/nintendo-nx-console/)
+* [A Little Advice For Astronauts](https://www.somethingawful.com/news/little-advice-astronauts/)
 * [Starwire '79! With Rocky French](https://www.somethingawful.com/news/starwire-79/)
+* [Bob and George, the Comic Strip!](https://www.somethingawful.com/awful-links/awful-link-2801/)
+* [John Cena's Face Superimposed on Cats](https://www.somethingawful.com/photoshop-phriday/feline-cena-animorphs/)
 
 [Random!](https://www.somethingawful.com/random/)
 
