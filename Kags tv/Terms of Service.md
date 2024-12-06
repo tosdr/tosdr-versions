@@ -50,13 +50,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+        
+        #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
         #### [Cool weather and rain chances incoming | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
-        
-    *  [![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_16x9.jpg) ![](https://media.kagstv.com/assets/CCT/images/ba7d2016-edeb-449f-901e-b97ec0d6ce44/20241130T192614/ba7d2016-edeb-449f-901e-b97ec0d6ce44_360x203.jpg)](https://www.kagstv.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
-        
-        #### [Heavy snow blankets parts of the US during busy holiday travel weekend](https://www.kagstv.com/article/news/nation-world/heavy-snow-blankets-parts-of-the-us/507-44798a84-f4e7-4d84-bf29-ebe649f73efb)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-63°
+54°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
