@@ -26,31 +26,31 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-navratilova-1200x630.jpg)](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgender-issues/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-muskinterview-1200-x-628-1200x630.jpg)](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
 
-[Tennis great Martina Navratilova ‘mad’ GOP is winning on women sports and transgender issues](https://americanwirenews.com/tennis-great-martina-navratilova-mad-gop-is-winning-on-women-sports-and-transgender-issues/)
+[Now the left is crying about Musk’s ‘taste for revenge’](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fema-trailer-1200x630.jpg)](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-ice-arrest-migrant-1200x630.jpg)](https://americanwirenews.com/deep-blue-boston-votes-unanimously-to-preserve-its-sanctuary-city-status/)
 
-[FEMA response to NC hurricane victims weathering snow and freezing temps is worse than you can imagine](https://americanwirenews.com/absolute-insanity-fema-response-to-nc-hurricane-victims-facing-freezing-temps-is-worse-than-you-can-imagine/)
+(Image: ICE)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2187666149-1-1200x630.jpg)](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
+[Deep blue Boston votes unanimously to preserve its sanctuary city status](https://americanwirenews.com/deep-blue-boston-votes-unanimously-to-preserve-its-sanctuary-city-status/)
 
-(Tom Williams/CQ-Roll Call, Inc via Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-will-cain-1200x630.jpg)](https://americanwirenews.com/will-cain-trump-leads-republicans-to-a-win-first-thing-they-do-is-start-handing-him-losses/)
 
-[House committee chairman vows to ‘fight’ after docs reveal ‘disgusting’ sexual misconduct at VA facility](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
+[Will Cain: Trump leads Republicans to a win, first thing they do is start handing him losses](https://americanwirenews.com/will-cain-trump-leads-republicans-to-a-win-first-thing-they-do-is-start-handing-him-losses/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-oj-simpson-2-1200x630.jpg)](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joyousreid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joy-reid-likens-gop-trans-ads-to-what-the-nazis-did/)
 
-[Ex-OJ bodyguard claims he has murder confession recording … police have thumb drive, say no evidence](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
+[Joy Reid likens GOP trans ads to what the Nazis did](https://americanwirenews.com/joy-reid-likens-gop-trans-ads-to-what-the-nazis-did/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-daniel-penny-2-470x260-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sharpton-harris-1200x630.png)](https://americanwirenews.com/black-churches-call-for-msnbc-to-dump-sharpton-over-moral-stain-of-pay-for-play/)
 
-[Jordan Neely’s dad hits Daniel Penny with lawsuit as jury decides his fate](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
+[Black churches call for MSNBC to dump Sharpton over ‘moral stain’ of pay-for-play](https://americanwirenews.com/black-churches-call-for-msnbc-to-dump-sharpton-over-moral-stain-of-pay-for-play/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trans-kids-1200x630.jpg)](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-david-hogg-1200x630.jpg)](https://americanwirenews.com/david-hogg-considers-serious-run-for-dnc-chair-republicans-cheer-him-on-hard/)
 
-[‘Trans’ child says they’re afraid of being ‘shot in the street’ after Trump’s win as mom weeps](https://americanwirenews.com/trans-child-says-theyre-afraid-of-being-shot-in-the-street-after-trumps-win-as-mom-weeps/)
+[David Hogg considers serious run for DNC chair, Republicans cheer him on hard](https://americanwirenews.com/david-hogg-considers-serious-run-for-dnc-chair-republicans-cheer-him-on-hard/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-todd-1200x630.jpg)](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
 
@@ -60,9 +60,9 @@ Search for:
 
 [‘Funny thing he’s not wrong’: Scarborough eaten alive by radicalized base after defending Fox apology](https://americanwirenews.com/funny-thing-hes-not-wrong-scarborough-eaten-alive-by-radicalized-base-after-defending-fox-apology/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dan-bongino-2-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-elonvivek1-split-1200-x-628-1200x630.jpg)
 
-### Two GOP senators on defense after Bongino accuses them of sabotaging Pete Hegseth](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
+### DOGE duo’s meeting with GOP lawmakers starts with ‘naughty’ or ‘nice’ list: ‘We’re going to gut the fish’](https://americanwirenews.com/doge-duos-meeting-with-gop-lawmakers-starts-with-naughty-or-nice-list-were-going-to-gut-the-fish/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
