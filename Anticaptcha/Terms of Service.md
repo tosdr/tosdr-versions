@@ -168,6 +168,6 @@ Create account
 
 ![Anti-Captcha mascot](/_ipx/s_325x327/landing/footer-ill.webp)
 
-[User agreement](https://anti-captcha.com/legal/tos)[Refund policy](https://anti-captcha.com/legal/tos/refunds)[Privacy policy](https://anti-captcha.com/legal/privacy)[Contacts](https://anti-captcha.com/legal/contacts)[Information for the visually impaired](https://anti-captcha.com/impaired)
+[Terms and Conditions](https://anti-captcha.com/legal/tos)[API service agreement](https://anti-captcha.com/legal/serviceagreement)[Refund policy](https://anti-captcha.com/legal/tos/refunds)[Privacy policy](https://anti-captcha.com/legal/privacy)[Contacts](https://anti-captcha.com/legal/contacts)[Information for the visually impaired](https://anti-captcha.com/impaired)
 
 © 2007 - 2024 Anti-Captcha.com
