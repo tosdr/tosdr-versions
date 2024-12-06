@@ -12,11 +12,11 @@
     
     By Role
     
-    [Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED teacher](https://www.kamiapp.com/sped-teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
+    [School leader](https://www.kamiapp.com/solutions/school-leader/)[Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED teacher](https://www.kamiapp.com/sped-teacher/)[English language learners](https://www.kamiapp.com/solutions/english-language-learners/)
     
     By Use Case
     
-    [AI powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)
+    [AI powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)
     
 * Resources
     
@@ -273,11 +273,11 @@ And **Kami Limited** in New Zealand
 
 ### Use Cases
 
-[AI-powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)
+[AI-powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)
 
 ### BY ROLES
 
-[Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED Teacher](https://www.kamiapp.com/sped-teacher/)[School leader](https://www.kamiapp.com/solutions/school-leader/)
+[School leader](https://www.kamiapp.com/solutions/school-leader/)[Teacher](https://www.kamiapp.com/solutions/teacher/)[SPED Teacher](https://www.kamiapp.com/sped-teacher/)[English language learners](https://www.kamiapp.com/solutions/english-language-learners/)
 
 ### Product comparison
 
