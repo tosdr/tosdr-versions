@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 559 utilisateurs actifs
+##### 172 utilisateurs actifs
 
 Chargement en cours
 
@@ -152,10 +152,10 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 011 membres
-* 963 articles
-* 27 036 commentaires
-* [2 674 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
+* 68 014 membres
+* 964 articles
+* 27 038 commentaires
+* [2 675 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [868 abonnés X](https://x.com/lecrabeinfo)
 * [67 511 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
