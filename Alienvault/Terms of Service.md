@@ -113,9 +113,9 @@
             
             Product Brief
             
-            ##### LevelBlue Managed Threat Detection and Response for Partners
+            ##### LevelBlue Malware Risk Assessment Services
             
-            [Learn more](https://cyber.levelblue.com/m/5419a206019796c7/original/PB-Managed-Threat-Detection-Response-Partners.pdf)
+            [Learn more](https://cyber.levelblue.com/m/79286dd4cc57dad3/original/PB-Malware-Risk-Assessment.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
