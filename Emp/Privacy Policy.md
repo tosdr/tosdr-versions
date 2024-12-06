@@ -152,13 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/bekleidung/?pmid=SAM-3242_INT_15per2999_EUR)
+[](https://www.emp.de/sale/ "Deals sichern!")
 
-Ran an die Plätzchen
+Wenn weg, dann weg!
 
-15% EXTRA auf (fast) ALLES\*
+Bis zu -70%
 
-[Jetzt sparen!](https://www.emp.de/bekleidung/?pmid=SAM-3242_INT_15per2999_EUR "Jetzt sparen!") Code **SAVE15** kopieren
+[Deals sichern!](https://www.emp.de/sale/ "Deals sichern!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
