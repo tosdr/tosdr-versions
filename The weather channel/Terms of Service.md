@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/news/trending/video/massive-waves-wipe-out-oahu-beachgoers)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/trending/video/massive-waves-wipe-out-oahu-beachgoers)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/news/climate/video/christmas-tree-farmers-climate-change-adapting)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/climate/video/christmas-tree-farmers-climate-change-adapting)[Bios](https://weather.com/bios)
 
 Products
 --------
