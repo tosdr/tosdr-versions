@@ -246,6 +246,7 @@ All rights reserved.
 * [](https://www.instagram.com/maketecheasier "Follow Make Tech Easier on Instagram")
 * [](https://www.youtube.com/maketecheasier "Follow Make Tech Easier on YouTube")
 * [](https://www.maketecheasier.com/newsletter/ "Subscribe to Make Tech Easier Newsletter")
+* [](https://bsky.app/profile/maketecheasier.com "Follow Make Tech Easier on Bluesky")
 
 * [About](https://www.maketecheasier.com/about/ "About Make Tech Easier")
 * [Contact](https://www.maketecheasier.com/contact/ "Contact Us")
