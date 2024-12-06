@@ -3,10 +3,10 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
-        *  [![Zach Bryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zach Bryan  
-            MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
-        *  [![The Goo Goo Dolls Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Goo Goo Dolls  
-            PNC Bank Arts Center](https://www.songkick.com/concerts/42279912-goo-goo-dolls-at-pnc-bank-arts-center)
+        *  [![Kendrick Lamar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kendrick Lamar  
+            MetLife Stadium](https://www.songkick.com/concerts/42310081-kendrick-lamar-at-metlife-stadium)
+        *  [![Vundabar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vundabar  
+            White Eagle Hall](https://www.songkick.com/concerts/42309197-vundabar-at-white-eagle-hall)
         *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
             White Eagle Hall](https://www.songkick.com/concerts/42281797-damned-at-white-eagle-hall)
         *  [![Mannequin Pussy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mannequin Pussy  
