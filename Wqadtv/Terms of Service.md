@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef456e33-26ea-49c1-bb50-3f3091c8759a/20241206T040711/ef456e33-26ea-49c1-bb50-3f3091c8759a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef456e33-26ea-49c1-bb50-3f3091c8759a/20241206T040711/ef456e33-26ea-49c1-bb50-3f3091c8759a_360x203.jpg)](https://www.wqad.com/article/news/local/struggling-agricultural-economy-local-farmers-river-valley-ag-outlook/526-5f6622cc-256b-4e44-a2e8-9825f2ba7acd)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
         
-        #### [Local farmers search for a silver lining in a struggling agricultural economy](https://www.wqad.com/article/news/local/struggling-agricultural-economy-local-farmers-river-valley-ag-outlook/526-5f6622cc-256b-4e44-a2e8-9825f2ba7acd)
+        #### [Man seriously injured in East Moline shooting](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8) [![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
+        #### [East Moline police investigating shooting that left a man seriously injured](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f5cde882-e265-4470-b8ee-0c80f802fd4d/20241205T230535/f5cde882-e265-4470-b8ee-0c80f802fd4d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5cde882-e265-4470-b8ee-0c80f802fd4d/20241205T230535/f5cde882-e265-4470-b8ee-0c80f802fd4d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/trailer-fire-colona-mobile-home-park/526-96069c2a-550c-4f42-9e98-c37f5dc33bf5)
         
-        #### [Hy-Vee stores seeing who can raise the most money for the Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
+        #### [Firefighters battle blaze at Colona mobile home park, 2 cats dead](https://www.wqad.com/article/news/local/public-safety/trailer-fire-colona-mobile-home-park/526-96069c2a-550c-4f42-9e98-c37f5dc33bf5)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fcda9de6-3389-413a-ba69-38b6f5203d03/20241206T042836/fcda9de6-3389-413a-ba69-38b6f5203d03_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fcda9de6-3389-413a-ba69-38b6f5203d03/20241206T042836/fcda9de6-3389-413a-ba69-38b6f5203d03_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b162f810-b8c7-4d01-b347-317a703f4a46/20241206T131521/b162f810-b8c7-4d01-b347-317a703f4a46_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b162f810-b8c7-4d01-b347-317a703f4a46/20241206T131521/b162f810-b8c7-4d01-b347-317a703f4a46_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Better temperatures return starting tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Nice warmup will bring widespread 50s for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
@@ -97,9 +98,9 @@ Navigation
 
 Davenport, IA »
 
-15°
+29°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
