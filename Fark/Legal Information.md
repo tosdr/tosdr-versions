@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want the rest of the Farking story? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More threads. More community. More Farking.
+More funny for your money.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [An interesting fact: UnitedHealthcare's stock actually went up significantly after its CEO was assassinated. You know what that means, folks. Be sure to invest in the company \*before\* you make your hit](https://www.fark.com/goto/13485758) ( [slate.com](https://www.fark.com/goto/13485758) ) » [(4 comments)](https://www.fark.com/comments/13485758/An-interesting-fact-UnitedHealthcares-stock-actually-went-up-significantly-after-its-CEO-was-assassinated-You-know-what-that-means-folks-Be-sure-to-invest-in-company-before-you-make-your-hit) |
-| [Discussion](https://www.fark.com/discussion/) | [Dear Spotify, can we agree this writer is insufferable?](https://www.fark.com/goto/13484692) ( [sfgate.com](https://www.fark.com/goto/13484692) ) » [(4 comments)](https://www.fark.com/comments/13484692/Dear-Spotify-can-we-agree-this-writer-is-insufferable) |
-| [Sports](https://www.fark.com/sports/) | [Talk about light reading: BYU Jewish QB gets NIL deal from Manischewitz](https://www.fark.com/goto/13485478) ( [nbcnews.com](https://www.fark.com/goto/13485478) ) » [(4 comments)](https://www.fark.com/comments/13485478/Talk-about-light-reading-BYU-Jewish-QB-gets-NIL-deal-from-Manischewitz) |
-| [Business](https://www.fark.com/business/) | [Tesla says the cybertruck will hold 70% of its value after being driven for three years. And subby says Scarlett Johansson will leave this unfunny loser Colin Jost for him within the next three years](https://www.fark.com/goto/13485608) ( [torquenews.com](https://www.fark.com/goto/13485608) ) » [(13 comments)](https://www.fark.com/comments/13485608/Tesla-says-cybertruck-will-hold-70-of-its-value-after-being-driven-for-three-years-And-subby-says-Scarlett-Johansson-will-leave-this-unfunny-loser-Colin-Jost-for-him-within-next-three-years) |
-| [STEM](https://www.fark.com/stem/) | ["Invisibility cloak" Lord Voldemort approves, Agent 86 wants Cone of Silence](https://www.fark.com/goto/13485256) ( [nypost.com](https://www.fark.com/goto/13485256) ) » [(1 comment)](https://www.fark.com/comments/13485256/Invisibility-cloak-Lord-Voldemort-approves-Agent-86-wants-Cone-of-Silence) |
-| [Entertainment](https://www.fark.com/entertainment/) | [After nearly 5 seasons, Star Trek: Lower Decks finally gives us an upper decker](https://www.fark.com/goto/13485702) ( [slashfilm.com](https://www.fark.com/goto/13485702) ) » [(1 comment)](https://www.fark.com/comments/13485702/After-nearly-5-seasons-Star-Trek-Lower-Decks-finally-gives-us-an-upper-decker) |
-| [Fandom](https://www.fark.com/fandom/) | [Nintendo repackages a seven-year-old mobile game for £8.99. It's like Marie Kondo for apps, if joy costs extra](https://www.fark.com/goto/13484798) ( [theguardian.com](https://www.fark.com/goto/13484798) ) » [(1 comment)](https://www.fark.com/comments/13484798/Nintendo-repackages-a-seven-year-old-mobile-game-for-899-Its-like-Marie-Kondo-for-apps-if-joy-costs-extra) |
-| [D'awww](https://www.fark.com/dawww/) | ["Set up feeding stations, shelters all around campus, and set up cameras and monitor the stations to see what cats were coming so that they could trap them, get them spayed and neutered, and then re-release them back outside"](https://www.fark.com/goto/13485186) ( [wnep.com](https://www.fark.com/goto/13485186) ) » [(2 comments)](https://www.fark.com/comments/13485186/Set-up-feeding-stations-shelters-all-around-campus-set-up-cameras-monitor-stations-to-see-what-cats-were-coming-so-that-they-could-trap-them-get-them-spayed-neutered-then-re-release-them-back-outside) |
-| [Food](https://www.fark.com/food/) | [Fried ice cream for the win](https://www.fark.com/goto/13485434) ( [msn.com](https://www.fark.com/goto/13485434) ) » [(1 comment)](https://www.fark.com/comments/13485434/Fried-ice-cream-for-win) |
-| [Politics](https://www.fark.com/politics/) | [Trump has assembled a never before seen cabinet of billionaires worth a combined $340 billion. What should we make of that?](https://www.fark.com/goto/13485740) ( [theguardian.com](https://www.fark.com/goto/13485740) ) » [(24 comments)](https://www.fark.com/comments/13485740/Trump-has-assembled-a-never-before-seen-cabinet-of-billionaires-worth-a-combined-$340-billion-What-should-we-make-of-that) |
+| [Main](https://www.fark.com/) | [Classroom's restroom pass goes missing. Oh well, hopefully the kids will still be able to use the bathroom and won't have accidents in class. Oh wait, no?](https://www.fark.com/goto/13486238) ( [click2houston.com](https://www.fark.com/goto/13486238) ) » [(9 comments)](https://www.fark.com/comments/13486238/Classrooms-restroom-pass-goes-missing-Oh-well-hopefully-kids-will-still-be-able-to-use-bathroom-wont-have-accidents-in-class-Oh-wait-no) |
+| [Discussion](https://www.fark.com/discussion/) | ["My husband discovered self-development and is no longer the same person. What do to get him back?" (possible nsfw content on page)](https://www.fark.com/goto/13486156) ( [thesun.co.uk](https://www.fark.com/goto/13486156) ) » [(4 comments)](https://www.fark.com/comments/13486156/My-husband-discovered-self-development-is-no-longer-same-person-What-do-to-get-him-back-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [Magic Joker](https://www.fark.com/goto/13486112) ( [espn.com](https://www.fark.com/goto/13486112) ) » [(7 comments)](https://www.fark.com/comments/13486112/Magic-Joker) |
+| [Business](https://www.fark.com/business/) | [83% of Gen Z workers would rather quit than work](https://www.fark.com/goto/13486200) ( [pedestrian.tv](https://www.fark.com/goto/13486200) ) » [(15 comments)](https://www.fark.com/comments/13486200/-83-of-Gen-Z-workers-would-rather-quit-than-work) |
+| [STEM](https://www.fark.com/stem/) | ["My feet are positively BOILING," or "How early humans experienced emotion"](https://www.fark.com/goto/13485948) ( [phys.org](https://www.fark.com/goto/13485948) ) » [(0 comments)](https://www.fark.com/comments/13485948/My-feet-are-positively-BOILING-How-early-humans-experienced-emotion) |
+| [Entertainment](https://www.fark.com/entertainment/) | [WXP Playing down the 885 best songs of the 21st Century. They are only at 754 as I write this and so far there has been very little crap](https://www.fark.com/goto/13485960) ( [xpn.org](https://www.fark.com/goto/13485960) ) » [(10 comments)](https://www.fark.com/comments/13485960/WXP-Playing-down-885-best-songs-of-21st-Century-They-are-only-at-754-as-I-write-this-so-far-there-has-been-very-little-crap) |
+| [Fandom](https://www.fark.com/fandom/) | [George RR Martin: "I'm working on the books, I swear." Narrator: He wasn't, and was engrossed with watching football on TV](https://www.fark.com/goto/13486072) ( [gizmodo.com](https://www.fark.com/goto/13486072) ) » [(9 comments)](https://www.fark.com/comments/13486072/George-RR-Martin-Im-working-on-books-I-swear-Narrator-He-wasnt-was-engrossed-with-watching-football-on-TV) |
+| [D'awww](https://www.fark.com/dawww/) | [How one cat keeps warm during the winter: "Another day, another fire for Mittens"](https://www.fark.com/goto/13485224) ( [abcnews.go.com](https://www.fark.com/goto/13485224) ) » [(4 comments)](https://www.fark.com/comments/13485224/How-one-cat-keeps-warm-during-winter-Another-day-another-fire-for-Mittens) |
+| [Food](https://www.fark.com/food/) | [When an all-you-can-eat sushi restaurant goes out of business, we all mourn](https://www.fark.com/goto/13485918) ( [masslive.com](https://www.fark.com/goto/13485918) ) » [(18 comments)](https://www.fark.com/comments/13485918/When-an-all-you-can-eat-sushi-restaurant-goes-out-of-business-we-all-mourn) |
+| [Politics](https://www.fark.com/politics/) | [Presidential election results annulled due to Russian influence, election will be re-run](https://www.fark.com/goto/13485872) ( [bbc.com](https://www.fark.com/goto/13485872) ) » [(3 comments)](https://www.fark.com/comments/13485872/Presidential-election-results-annulled-due-to-Russian-influence-election-will-be-re-run) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 06 2024 08:42:30  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 06 2024 14:42:47  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
