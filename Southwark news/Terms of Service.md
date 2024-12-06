@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Hilton 1751 Distillery Bar and Kitchen on Tooley Street, Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/12/More-London-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
+    
+    ### [Southwark launches specialist training for locals interested in hospitality industry](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
+    
     [![Lewisham Council's headquarters in Catford](https://southwarknews.co.uk/wp-content/uploads/2024/12/Lewisham-Council_s-headquaters-in-Catford-1-360x180.jpg)](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
     
     ### [Lewisham scraps Mayor’s personal driver in £25 million savings package](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
@@ -51,10 +55,6 @@
     [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
     ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
-    
-    [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
-    
-    ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The Hilton 1751 Distillery Bar and Kitchen on Tooley Street, Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/12/More-London-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
+    
+    ### [Southwark launches specialist training for locals interested in hospitality industry](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
+    
     [![Lewisham Council's headquarters in Catford](https://southwarknews.co.uk/wp-content/uploads/2024/12/Lewisham-Council_s-headquaters-in-Catford-1-360x180.jpg)](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
     
     ### [Lewisham scraps Mayor’s personal driver in £25 million savings package](https://southwarknews.co.uk/news/politics/lewisham-scraps-mayors-personal-driver-in-25-million-savings-package/)
@@ -136,10 +140,6 @@ View All Result
     [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
     ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
-    
-    [![Staff from Surrey Square Primary School collect their award.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Surrey-Square-Primary-School-4-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
-    
-    ### [Walworth school named UK Primary of the Year](https://southwarknews.co.uk/area/walworth/walworth-school-named-uk-primary-of-the-year/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
