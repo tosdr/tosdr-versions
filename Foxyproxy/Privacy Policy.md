@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Its a good service. More expensive than going direct, but hey you guys gotta eat! Am renewing now.
+I loved the proxy service, I could watch hulu from france at a good speed, which was great.
 
-Gary Abel
+Shelley MacDonald
