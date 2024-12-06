@@ -476,13 +476,17 @@ Revised June 1, 2022
 
   [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
 
-[Lightning strikes twice for Shun Ikeda at All Japan Championships](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
+[88 arrested for soliciting prostitution near Tokyo park so far this year](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
-  [![Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438172.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.")](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
+  [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
-[Japan’s civic space status upgraded to highest tier](https://www.japantimes.co.jp/news/2024/12/04/japan/society/global-rights-index-upgrade/ "Japan’s civic space status upgraded to highest tier")
+[South Korean ruling party opposes Yoon impeachment as defense minister quits](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
 
-  [![People gather in Hyogo Prefecture on Nov. 17, an election day.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438080.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People gather in Hyogo Prefecture on Nov. 17, an election day.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/global-rights-index-upgrade/ "Japan’s civic space status upgraded to highest tier")
+  [![Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438294.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
+
+[The Geisha bean is the leading lady of Tokyo's coffee scene](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
+
+  [![Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/29/436551.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Discovered in the 1930s, the Geisha coffee plant came to worldwide fame in the early 2000s and now represents some of the best coffee on the planet — Tokyo's top cafes included.")](https://www.japantimes.co.jp/life/2024/11/30/food-drink/coffee-geisha-tokyo-cafe/ "The Geisha bean is the leading lady of Tokyo's coffee scene")
 
 [Lightning strikes twice for Shun Ikeda at All Japan Championships](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
 
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
 
   [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
-
-[Europe eyes 'boots on the ground' in Ukraine as possible peace deal option](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
-
-  [![A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/02/437555.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A serviceman with the Ukrainian Army's 24th mechanized brigade fires a machine gun during an exercise, amid Russia's attack on Ukraine, in the country's Donetsk region on Friday.")](https://www.japantimes.co.jp/news/2024/12/02/world/politics/ukraine-europe-baltics-nordics-troops/ "Europe eyes 'boots on the ground' in Ukraine as possible peace deal option")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,19 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ex-Komeito chief Yamaguchi won't run for Upper House district seat](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/natsuo-yamaguchi-upper-house-district/ "Ex-Komeito chief Yamaguchi won't run for Upper House district seat")
+[Alleged operator of anonymous X account arrested over club assault](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/z-ri-members-arrest/ "Alleged operator of anonymous X account arrested over club assault")
 
-11 hours ago
+20 mins ago
 
-[Mammoths topped the menu for North American Ice Age people](https://www.japantimes.co.jp/news/2024/12/05/world/mammoth-top-ice-age-menu/ "Mammoths topped the menu for North American Ice Age people")
+[A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
-11 hours ago
+1 hour ago
 
-[South Korea opposition chief says ousting Yoon will be difficult](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/south-korea-president-impeachment-difficult/ "South Korea opposition chief says ousting Yoon will be difficult")
+[Former PM Kishida worried upheaval in Seoul may hurt ties](https://www.japantimes.co.jp/news/2024/12/06/japan/politics/kishida-japan-south-korea-relations/ "Former PM Kishida worried upheaval in Seoul may hurt ties")
 
-[CDP and DPP to coordinate basic policies](https://www.japantimes.co.jp/news/2024/12/05/japan/politics/cdp-dpp-coordination/ "CDP and DPP to coordinate basic policies")
+1 hour ago
 
-[BOJ rate hike bets retreat as traders count down to key meeting](https://www.japantimes.co.jp/business/2024/12/05/boj-hike-bets-retreat/ "BOJ rate hike bets retreat as traders count down to key meeting")
+[Syria rebels capture another key city in fresh blow to Assad](https://www.japantimes.co.jp/news/2024/12/06/world/politics/syria-rebels-capture-second-city/ "Syria rebels capture another key city in fresh blow to Assad")
+
+1 hour ago
+
+[Key ally of South Korea’s leader now wants him gone in shift](https://www.japantimes.co.jp/news/2024/12/06/asia-pacific/politics/yoon-party-leader-shift/ "Key ally of South Korea’s leader now wants him gone in shift")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
