@@ -64,13 +64,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
-* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
+* [Save $5 on the Sonic 3 Movie Collection image link ![Save $5 on the Sonic 3 Movie Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/32e66790-ad0f-11ef-8321-2b978811c524--fan-globalofferunit-homepage-sonic2-gwp-292x118-v2.png)](https://www.fandangomovietickets.com/Sonic3GWPOffer?cmp=TARS~FANDANGO~Sonic3TicketingOffer_Footer) 
     
-    ### Chance to win a vacation!
+    ### Save $5 on the Sonic 3 Movie Collection
     
-    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
+    Buy a Ticket, Save $5 on the Sonic 3 Movie Collection to watch at home.
     
-    [BUY TICKETS](https://www.fandangomovietickets.com/fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
+    [BUY TICKETS](https://www.fandangomovietickets.com/Sonic3GWPOffer?cmp=TARS~FANDANGO~Sonic3TicketingOffer_Footer)
     
 * [Save 15% off on the Moana 2 vinyl LP image link ![Save 15% off on the Moana 2 vinyl LP](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/5600fa30-acfe-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moana2-vinyl-gwp-292x118.png)](https://www.fandangomovietickets.com/Moana2VinylGWPOffer?cmp=TARS~FANDANGO~Moana2VinylTicketingOffer_Footer) 
     
