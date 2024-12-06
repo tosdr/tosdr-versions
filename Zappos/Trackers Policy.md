@@ -4,8 +4,6 @@ Cyber Week Sale: Up to 70% off! [Shop Our Sale](https://www.zappos.com/null/4AE
 
 Daily Deals: Get up to 50% off! [Shop Today's Deals](https://www.zappos.com/c/coupon)
 
-Zappos VIP: Earn 5x the Points Today!\* [Join VIP](https://www.zappos.com/c/vip-dash)
-
 Run faster in well-reviewed sneakers. [Shop Winter Running Shoes](https://www.zappos.com/c/top-10-running-sneakers-for-winter)
 
 [![Welcome! Go to the Zappos homepage!](https://m.media-amazon.com/images/G/01/Zappos/25th-birthday-logo/Zappos-25-Years-Logo-Site.svg)](https://www.zappos.com/)
