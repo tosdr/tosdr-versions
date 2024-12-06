@@ -49,8 +49,8 @@
 * [Änderungen an verlinkten Seiten](https://de.scratch-wiki.info/wiki/Spezial:%C3%84nderungen_an_verlinkten_Seiten/Scratch-Wiki:Impressum "Letzte Änderungen an Seiten, die von hier verlinkt sind [k]")
 * [Spezialseiten](https://de.scratch-wiki.info/wiki/Spezial:Spezialseiten "Liste aller Spezialseiten [q]")
 * [Druckversion](javascript:print(); "Druckansicht dieser Seite [p]")
-* [Permanenter Link](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=44775 "Dauerhafter Link zu dieser Seitenversion")
-* [Seiten­informationen](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&action=info "Weitere Informationen über diese Seite")
+* [Permanenter Link](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=47560 "Dauerhafter Link zu dieser Seitenversion")
+* [Seiten­­informationen](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&action=info "Weitere Informationen über diese Seite")
 
 #### Für Autoren
 
@@ -108,7 +108,7 @@ c/o Martin Wollenweber
 Kontaktadresse:
 
 **mse Software GmbH**  
-Lerchenweg 3  
+Rheinpromenade 13  
 40789 Monheim am Rhein
 
   
@@ -119,7 +119,7 @@ Martin Wollenweber
 
 ### Kontakt
 
-Telefon: + 49 (null)2173-99300-21 Durchwahl -zwei eins  
+Telefon: + 49 (null)2173-99300- Null bzw. Durchwahl zu Martin -zwei eins  
 E-Mail: info\[Ät\]scratch-dach\[dôt\]info
 
 ### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV
@@ -186,7 +186,7 @@ Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (
 
 Sie können die Erfassung durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, das die zukünftige Erfassung Ihrer Daten beim Besuch dieser Website verhindert: <html><a href="javascript: gaOptout();">Google Analytics deaktivieren</a></html> Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter [\[3\]](https://www.google.com/analytics/terms/de.html) bzw. unter [\[4\]](https://www.google.de/intl/de/policies/). Wir weisen Sie darauf hin, dass auf dieser Website Google Analytics um den Code "gat.\_anonymizeIp();" erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
 
-Abgerufen von „[https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=44775](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=44775)“
+Abgerufen von „[https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=47560](https://de.scratch-wiki.info/w/index.php?title=Scratch-Wiki:Impressum&oldid=47560)“
 
 Cookies helfen uns bei der Bereitstellung von Das deutschsprachige Scratch-Wiki. Durch die Nutzung von Das deutschsprachige Scratch-Wiki erklärst du dich damit einverstanden, dass wir Cookies speichern.
 
@@ -199,7 +199,7 @@ Cookies helfen uns bei der Bereitstellung von Das deutschsprachige Scratch-Wiki.
 
 The Wiki is working on a dark theme, and you're seeing it! Got feedback? Post on the [DACH Scratch Wiki Forum Thread](https://scratch.mit.edu/discuss/topic/1082/).
 
-* Diese Seite wurde zuletzt am 11. September 2020 um 10:21 Uhr bearbeitet.
+* Diese Seite wurde zuletzt am 6. Dezember 2024 um 09:25 Uhr bearbeitet.
 * Der Inhalt ist verfügbar unter der Lizenz [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), sofern nicht anders angegeben.
 * [Datenschutz](https://de.scratch-wiki.info/wiki/Scratch-Wiki:Datenschutz)
 * [Über Das deutschsprachige Scratch-Wiki](https://de.scratch-wiki.info/wiki/Scratch-Wiki:%C3%9Cber_Das_deutschsprachige_Scratch-Wiki)
@@ -221,9 +221,9 @@ The Wiki is working on a dark theme, and you're seeing it! Got feedback? Post on
 
 [Scratch Team](https://scratch.mit.edu/credits)
 
-[Scratch Spender](https://scratchfoundation.org/supporters)
+[Scratch Spender](https://www.scratchfoundation.org/supporters)
 
-[Arbeitsplätze bei Scratch](https://www.scratchfoundation.org/opportunities)
+[Arbeitsplätze bei Scratch](https://www.scratchfoundation.org/careers)
 
 [An Scratch spenden](https://www.scratchfoundation.org/donate)
 
