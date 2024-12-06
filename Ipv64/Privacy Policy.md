@@ -274,7 +274,7 @@ Ust-IdNr.: DE350434683
 
 Find us also on the following platforms
 
-[](https://v64.tech/ "IPv64 Support Forum")[](https://schroederdennis.de/ "Blog Schroederdennis.de")[](https://twitter.com/dennis_schroed "Twitter")[](https://youtube.com/c/RaspberryPiCloud "Youtube")[](https://discord.gg/rpicloud "Discord")[](https://www.linkedin.com/company/ipv64 "LinkedIn IPv64.net")[](https://www.instagram.com/schroederdennis_de/ "Instagram")[](https://geek64.de/ "Blog Blog Geek64.de")
+[](https://v64.tech/ "IPv64 Support Forum")[](https://schroederdennis.de/ "Blog Schroederdennis.de")[](https://twitter.com/dennis_schroed "Twitter")[](https://youtube.com/c/RaspberryPiCloud "Youtube")[](https://discord.gg/rpicloud "Discord")[](https://www.linkedin.com/company/ipv64 "LinkedIn IPv64.net")[](https://www.instagram.com/schroederdennis_de/ "Instagram")
 
 **Need Help? Hilfe nötig?**  
 [v64 Community Forum](https://v64.tech/ "IPv64.net Technik Forum")
