@@ -276,6 +276,7 @@ Subscribe
 * [Blog](https://www.understood.org/blog/)
 
 * [Donation and giving](https://www.understood.org/en/donate)
+* [Glossary](https://www.understood.org/en/glossary)
 * [Contact us](https://www.understood.org/en/contact-us)
 * [Editorial standards](https://www.understood.org/en/editorial-standards)
 * [Accessibility Standards](https://www.understood.org/en/accessibility)
