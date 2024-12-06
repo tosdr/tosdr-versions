@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![Zoran Popovic's solo exhibition 'Time Based Works 1973-2006', Artget Gallery, Belgrade, 2007](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works/vremenski-radovi/zoran-popovic-na-svojoj-solo-izlozbi-vremenski-radovi-galerija-artget-12-04-2007-foto-latif-arif.jpg?itok=YTT3mLfI "Zoran Popovic at his solo exhibition 'Time Based Works 1973-2006', Artget Gallery, Belgrade, 2007")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-time-based-works-vremenski-radovi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/rad-zirija.jpg?itok=LX5T_hL1)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-1)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/slobodna-zona/slatka-mala.jpg?itok=QXCG2-vi)](http://seecult.org/galerija/foto-galerija/foto-arhiva/slobodna-zona)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/omer-fast/omer-fast.jpg?itok=GYcEmT-R)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/omer-fast)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
