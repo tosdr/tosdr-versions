@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-2161596831-768x432.jpg)](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+1. [![Listing image for first story in Most Read: How did the CEO of an online payments firm become the nominee to lead NASA?](https://cdn.arstechnica.net/wp-content/uploads/2021/02/Jared_Isaacman_at_SpaceX_2-768x432.jpg)](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-    1. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+    1. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-2. 2. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
+2. 2. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-3. 3. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
+3. 3. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
     
-4. 4. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
+4. 4. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
     
-5. 5. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
+5. 5. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
     
 
 Customize
