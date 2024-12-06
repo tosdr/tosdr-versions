@@ -23,7 +23,7 @@
             Centralize, digitize, and securely send student and alumni credentials, from transcripts to verifications.](https://www.parchment.com/platform/k-12/)
             * [Parchment Award K-12](https://www.parchment.com/platform/k-12/award-k-12/)
             * [Diploma Services](https://www.parchment.com/platform/k-12/diploma-services/)
-            * [Records Digitization](https://www.parchment.com/platform/k-12/#records-digitization)
+            * [Records Digitization](https://www.parchment.com/platform/k-12/records-digitization/)
             * [District Transfer](https://www.parchment.com/platform/k-12/#district-transfer)
         * [SENDedu
             
@@ -597,8 +597,8 @@ K-12 Records Management
 
 * [Parchment Award K-12](https://www.parchment.com/platform/k-12/#parchment-award-k-12)
 * [Diploma Services](https://www.parchment.com/platform/k-12/diploma-services/)
+* [Records Digitization](https://www.parchment.com/platform/k-12/records-digitization/)
 * [District Transfers](https://www.parchment.com/platform/k-12/#district-transfer)
-* [Records Digitization](https://www.parchment.com/platform/k-12/#records-digitization)
 
 Higher Education
 
