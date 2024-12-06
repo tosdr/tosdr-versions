@@ -4,7 +4,7 @@
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112581-mid-day-digest-2024-12-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112611-mid-day-digest-2024-12-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112581-mid-day-digest-2024-12-05?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112611-mid-day-digest-2024-12-06?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -120,7 +120,7 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34620)
+     [](https://patriotpost.us/cartoons/34624)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -149,11 +149,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“All men are equally bound by the laws of nature, or to speak more properly, the laws of the Creator.” —Samuel Adams (1794)
+“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
