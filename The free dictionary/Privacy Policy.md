@@ -2,11 +2,11 @@
 
 https://www.thefreedictionary.com/privacy-policy.htm
 
-[Printer Friendly](https://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?155)
+[Printer Friendly](https://www.thefreedictionary.com/_/hp/Controls/printer-friendly.aspx?185)
 
 * * *
 
-**[Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](https://www.thefreedictionary.com/)** 13,850,895,202 visits served
+**[Dictionary, Encyclopedia and Thesaurus - The Free Dictionary](https://www.thefreedictionary.com/)** 13,850,990,659 visits served
 
 Search / Page tools
 
