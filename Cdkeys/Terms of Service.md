@@ -494,7 +494,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Destiny 2: The Final Shape + Annual Pass PC - DLC](https://www.cdkeys.com/black-friday-sale/destiny-2-the-final-shape-annual-pass-pc-dlc-steam "Destiny 2: The Final Shape + Annual Pass PC - DLC")**
     
-    Special Price $39.49 RRP $99.99
+    Special Price $38.89 RRP $99.99
     
     [Add to Wish List](# "Add to Wish List")
     
