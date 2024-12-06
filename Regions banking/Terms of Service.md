@@ -84,11 +84,11 @@ Menu [![Regions logo](/rdcresources/content/media/img/regions-logo-no-r.svg)](ht
         * [Debit Card](https://www.regions.com/small-business/business-checking/business-debit-card)
         * [Priority Banking for Business](https://www.regions.com/small-business/priority-banking-for-business)
         * [Retirement Services](https://www.regions.com/wealth-management/retirement-plan-services)
-        * [Online Business Services](https://www.regions.com/digital-banking/online-banking/business-services)
+        * [Online Business Services](https://www.regions.com/digital-banking/online-banking/business-services-remove)
         
     * [Business Services](#)
         
-        * [Online Business Services Overview](https://www.regions.com/digital-banking/online-banking/business-services)
+        * [Online Business Services Overview](https://www.regions.com/digital-banking/online-banking/business-services-remove)
         * [Online and Mobile Banking](https://www.regions.com/digital-banking)
         * [Wire Transfer](https://www.regions.com/treasury-management/managing-payments/wire-transfer)
         * [ACH Payments](https://www.regions.com/treasury-management/managing-payments/ach-payments)
