@@ -36,7 +36,7 @@ Menu icon Menu
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
-    * [Men's Haircare](https://www.soapboxsoaps.com/collections/mens-haircare)
+    * [Men's Hair Care](https://www.soapboxsoaps.com/collections/mens-haircare)
     * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     [Bath & Body Care](https://www.soapboxsoaps.com/collections/all-personal-care)
@@ -110,7 +110,7 @@ Search icon Search
     * [Conditioner Bars](https://www.soapboxsoaps.com/collections/conditioner-bars)
     * [Treatments](https://www.soapboxsoaps.com/collections/treatments)
     * [Stylers](https://www.soapboxsoaps.com/collections/stylers)
-    * [Men's Haircare](https://www.soapboxsoaps.com/collections/mens-haircare)
+    * [Men's Hair Care](https://www.soapboxsoaps.com/collections/mens-haircare)
     * [All Hair Care](https://www.soapboxsoaps.com/collections/haircare)
     
     Bath & Body Care
@@ -179,7 +179,7 @@ All Collections Chevron down icon
 * [Body Wash](https://www.soapboxsoaps.com/collections/body-wash)
 * [Deodorant](https://www.soapboxsoaps.com/collections/deodorant)
 * [Liquid Hand Soap](https://www.soapboxsoaps.com/collections/liquid-hand-soap)
-* [Foaming Hand Soap](https://www.soapboxsoaps.com/collections/foaming-hand-soap)
+* [Men's Hair Care](https://www.soapboxsoaps.com/collections/mens-haircare)
 
 Follow us
 ---------
@@ -236,7 +236,5 @@ Chevron down icon Chevron down icon
        
 
      
-
-      
 
 {"themeColor":"#574cd5","iconColor":"#574cd5","showLogo":true,"topBottomPosition":10,"rightLeftPosition":10,"iconSize":"small","iconCustomSize":64,"position":"bottom-right"}
