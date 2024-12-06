@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
-    * [Healthy Heart](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
-    * [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
     * [Vinod Kambli](https://www.news18.com/cricket/ailing-vinod-kambli-to-receive-financial-help-from-1983-world-cup-heroes-but-on-one-condition-ws-b-9146514.html)
-    * [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
-    * [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
+    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-confirms-bigg-boss-18-entry-says-falling-in-love-with-9146680.html)
+    * [Viral Hotel Video](https://www.news18.com/viral/in-viral-hotel-mix-up-2-men-shocked-to-discover-theyve-arrived-with-each-others-wives-watch-9146219.html)
+    * [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
+    * [Best K-Dramas](https://www.news18.com/web-stories/entertainment/lovely-runner-to-when-the-phone-rings-7-best-k-dramas-of-2024-to-watch-on-netflix-2661104/)
+    * [Diljit Dosanjh](https://www.news18.com/viral/chandigarh-school-kids-turn-born-to-shine-into-a-morning-anthem-diljit-youve-got-to-see-this-aa-9146457.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
-* [Healthy Heart](https://www.news18.com/india/carbohydrates-not-oil-the-villain-says-indias-top-cardiologist-shares-secrets-for-a-healthy-heart-9145985.html)
-* [Rozlyn Khan](https://www.news18.com/movies/cancer-survivor-rozlyn-khan-opens-up-on-sending-legal-notice-to-navjot-singh-sidhu-he-forgets-9143771.html)
 * [Vinod Kambli](https://www.news18.com/cricket/ailing-vinod-kambli-to-receive-financial-help-from-1983-world-cup-heroes-but-on-one-condition-ws-b-9146514.html)
-* [Shruti Haasan](https://www.news18.com/web-stories/celebrities/5-shruti-haasan-inspired-saree-blouses-for-the-wedding-season-2662558/)
-* [Delhi Airport](https://www.news18.com/india/all-chairs-vacant-why-some-passengers-at-delhi-airport-are-opting-for-the-floor-9145065.html)
+* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-confirms-bigg-boss-18-entry-says-falling-in-love-with-9146680.html)
+* [Viral Hotel Video](https://www.news18.com/viral/in-viral-hotel-mix-up-2-men-shocked-to-discover-theyve-arrived-with-each-others-wives-watch-9146219.html)
+* [Pushpa 2 Box-Office](https://www.news18.com/movies/pushpa-2-box-office-allu-arjun-film-shatters-records-on-day-1-collects-rs-50-cr-opening-in-less-than-24-hrs-9145958.html)
+* [Best K-Dramas](https://www.news18.com/web-stories/entertainment/lovely-runner-to-when-the-phone-rings-7-best-k-dramas-of-2024-to-watch-on-netflix-2661104/)
+* [Diljit Dosanjh](https://www.news18.com/viral/chandigarh-school-kids-turn-born-to-shine-into-a-morning-anthem-diljit-youve-got-to-see-this-aa-9146457.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
