@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing](https://illumin.com/wp-content/uploads/2024/12/sustainable-teaser-263x300.png)
+    * ![Are cookies on the menu in 2025?](https://illumin.com/wp-content/uploads/2024/12/cookies-2025-263x300.jpg)
         
-        Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing[Read More](https://illumin.com/insights/sustainable-programmatic-advertising-navigating-the-future-of-digital-marketing/)
+        Are cookies on the menu in 2025?[Read More](https://illumin.com/insights/blog/are-cookies-on-the-menu-in-2025/)
         
 * [Company](#)
     * [Company](#)
