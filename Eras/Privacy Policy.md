@@ -2,7 +2,7 @@
 
 [The Psychometric Portal](https://www.thepsychometricportal.com/) [+44 (0)1379 882279](tel:+441379882279)
 
-[eras ![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)](https://www.eras.co.uk/) 
+[eras ![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)](https://www.eras.co.uk/) 
 
 Psychometrics
 
@@ -26,7 +26,7 @@ Trusted
 
 by Major Brands
 
-[eras ![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)](https://www.eras.co.uk/) Close menu
+[eras ![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)](https://www.eras.co.uk/) Close menu
 
 [Psychometrics](https://www.eras.co.uk/psychometrics)[The Psychometric Portal®](https://www.eras.co.uk/psychometrics/portal)[Training](https://www.eras.co.uk/psychometrics/training)[Consultancy](https://www.eras.co.uk/consultancy)[About Us](https://www.eras.co.uk/about-us)[Blog](https://www.eras.co.uk/blog)[Accreditations](https://www.eras.co.uk/about-us/accreditations)[Best Employers Eastern Region](https://www.eras.co.uk/about-us/best-employers)[Customer Reviews](https://www.eras.co.uk/about-us/reviews)[International Partners](https://www.eras.co.uk/about-us/partners)[Our Values](https://www.eras.co.uk/about-us/our-values)
 
@@ -244,7 +244,7 @@ We keep this Policy under regular review. This Policy was last updated on 05/09/
 
 We reserve the right to update this privacy notice at any time, and we will provide you with a new privacy notice when we make any substantial updates. We may also notify you in other ways from time to time about the processing of your personal information.
 
-![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)
+![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)
 
 eras Ltd®,  
 105 Denmark Street,  
