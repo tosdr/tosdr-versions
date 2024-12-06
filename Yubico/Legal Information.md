@@ -1,3 +1,5 @@
+[Skip to content](#wp--skip-link--target)
+
 EnglishFrançaisDeutsch日本語EspañolSvenska
 
 * [Contact Sales](https://www.yubico.com/contact-us/)
@@ -33,31 +35,7 @@ Connect & learn
 * [Innovation history](https://www.yubico.com/why-yubico/yubico-innovation-history/)
 * [Secure it Forward](https://www.yubico.com/why-yubico/secure-it-forward/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-easy-to-use-1.jpg)
-
-Easy-to-use, secure authentication
-
-With YubiKey there’s no tradeoff between great security and usability
-
-Why YubiKey
-
-* terms and conditions](https://www.yubico.com/why-yubico/)[![](https://www.yubico.com/wp-content/uploads/2023/03/WhyY-nav-google-1.jpg)
-
-Proven at scale at Google
-
-Google defends against account takeovers and reduces IT costs
-
-Google Case Study
-
-* terms and conditions](https://www.yubico.com/resources/reference-customers/google/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
-
-Protecting vulnerable organizations
-
-Secure it Forward: Yubico matches up to 5% of the number of YubiKeys purchased on Yubico.com
-
-Secure it Forward
-
-* terms and conditions](https://www.yubico.com/industries/secure-it-forward/)
+Easy-to-use, secure authenticationWith YubiKey there’s no tradeoff between great security and usabilityWhy YubiKeyterms and conditions Proven at scale at GoogleGoogle defends against account takeovers and reduces IT costsGoogle Case Studyterms and conditions Protecting vulnerable organizationsSecure it Forward: Yubico matches up to 5% of the number of YubiKeys purchased on Yubico.comSecure it Forwardterms and conditions
 
 Productsexpand\_more
 
@@ -91,23 +69,7 @@ Discover the YubiKey
 * [Works with YubiKey](https://www.yubico.com/works-with-yubikey/catalog/)
 * [Compare YubiKeys](https://www.yubico.com/store/compare/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/img-hundreds-services-nav-3-1.jpg)
-
-One key for hundreds of apps and services
-
-YubiKey works out-of-the-box and has no client software or battery
-
-Yubico protects you
-
-* terms and conditions](https://www.yubico.com/products/how-the-yubikey-works/)[![See YubiKeys as a Service](https://www.yubico.com/wp-content/uploads/2023/03/img-YubiEnterprise-nav-3-1.jpg)
-
-YubiKey as a Service delivers scale and savings
-
-Gain a future-proofed solution and faster MFA rollouts
-
-YubiKey as a Service
-
-* terms and conditions](https://www.yubico.com/yubienterprise-subscription-calculator/)
+One key for hundreds of apps and servicesYubiKey works out-of-the-box and has no client software or batteryYubico protects youterms and conditions YubiKey as a Service delivers scale and savingsGain a future-proofed solution and faster MFA rolloutsYubiKey as a Serviceterms and conditions
 
 Solutionsexpand\_more
 
@@ -141,31 +103,7 @@ Technologies
 * [HYPR experience](https://www.yubico.com/solutions/hypr-and-yubico/)
 * [Okta identity solutions](https://www.yubico.com/solutions/okta-and-yubico/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/img-passwordless-nav-5-1.jpg)
-
-The Bridge to Passwordless
-
-Begin the journey to make your organization passwordless
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/bridge-to-passwordless-separating-fact-from-fiction/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-zero-trust-nav-3.jpg)
-
-Accelerate your Zero Trust Strategy
-
-7 best authentication practices to jumpstart your Zero Trust program
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/accelerate-zero-trust-with-strong-authentication/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-federal-nav-3.jpg)
-
-Federal cybersecurity requirements
-
-Guidance for leaders to prepare for the modern cyber threat era
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/phishing-resistant-mfa-federal-government/)
+The Bridge to PasswordlessBegin the journey to make your organization passwordless Get the white paperterms and conditions Accelerate your Zero Trust Strategy7 best authentication practices to jumpstart your Zero Trust programGet the white paperterms and conditions Federal cybersecurity requirements Guidance for leaders to prepare for the modern cyber threat eraGet the white paperterms and conditions
 
 Industriesexpand\_more
 
@@ -191,31 +129,7 @@ Industries
 * [Elections & campaigns](https://www.yubico.com/industries/political-campaigns/)
 * [Insurance organizations](https://www.yubico.com/industries/phishing-resistant-mfa-and-passwordless-for-insurance-organizations/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/img-mfg-nav.jpg)
-
-Manufacturing and supply chain security
-
-Authentication best practices for manufacturing
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/protecting-manufacturing-with-highest-assurance-security/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-phishing-nav.jpg)
-
-Phishing-resistant MFA: Fact vs. Fiction
-
-Meet requirements for phishing-resistant MFA in OMB M-22-09 guidelines
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/phishing-resistant-mfa-fact-vs-fiction/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-nat-resources-nav.jpg)
-
-Secure energy and natural resources from cyber threats
-
-Best practices for phishing-resistant MFA to protect infrastructure
-
-Get the white paper
-
-* terms and conditions](https://www.yubico.com/resource/securing-energy-and-natural-resources-against-modern-cyber-threats/)
+Manufacturing and supply chain security Authentication best practices for manufacturingGet the white paperterms and conditions Phishing-resistant MFA: Fact vs. FictionMeet requirements for phishing-resistant MFA in OMB M-22-09 guidelinesGet the white paperterms and conditions Secure energy and natural resources from cyber threats Best practices for phishing-resistant MFA to protect infrastructureGet the white paperterms and conditions
 
 Resourcesexpand\_more
 
@@ -239,31 +153,7 @@ Best practices
 * [White papers and reports](https://www.yubico.com/resource_categories/white-papers/)
 * [Webinars](https://www.yubico.com/resource_categories/webinars/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/img-beyondTrust-nav.jpg)
-
-BeyondTrust: secured with a subscription
-
-Privileged Access Management leader simplifies deployment
-
-See case study
-
-* terms and conditions](https://www.yubico.com/resources/reference-customers/beyondtrust/)[![](https://www.yubico.com/wp-content/uploads/2023/04/DCT-608-Navigation-promotional-image-for-451-webinar-390x216-1.jpg)
-
-S&P Global Market Intelligence report: old habits die hard
-
-Only 46% of orgs protect their applications with MFA. How about yours?
-
-Read the report
-
-* terms and conditions](https://www.yubico.com/resource/yubico-and-sp-global-market-intelligence-research-report/)[![](https://www.yubico.com/wp-content/uploads/2023/08/img-Ebook-nav.jpg)
-
-Considering Passkeys for your Enterprise?
-
-Learn how to avoid common passkey pitfalls
-
-Visit Passkey Hub
-
-* terms and conditions](https://www.yubico.com/passkeys/)
+BeyondTrust: secured with a subscriptionPrivileged Access Management leader simplifies deploymentSee case studyterms and conditions S&P Global Market Intelligence report: old habits die hardOnly 46% of orgs protect their applications with MFA. How about yours?Read the reportterms and conditions Considering Passkeys for your Enterprise?Learn how to avoid common passkey pitfallsVisit Passkey Hubterms and conditions
 
 Supportexpand\_more
 
@@ -290,31 +180,7 @@ Additional resources
 * [Security advisories](https://www.yubico.com/support/security-advisories/)
 * [Help center](https://support.yubico.com/hc/en-us/)
 
-[![](https://www.yubico.com/wp-content/uploads/2023/03/img-setup-nav-3.jpg)
-
-How to set up your YubiKey
-
-Follow our guided tutorials to start protecting your services
-
-Set up your YubiKey
-
-* terms and conditions](https://www.yubico.com/setup/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-find-nav-3.jpg)
-
-Find the best YubiKey for your needs
-
-Take the guided quiz and see which YubiKeys fit your needs
-
-Take the quiz
-
-* terms and conditions](https://www.yubico.com/quiz/)[![](https://www.yubico.com/wp-content/uploads/2023/03/img-accelerate-nav-3.jpg)
-
-Accelerate your YubiKey deployment
-
-Technical and operational guidance for your YubiKey rollout
-
-Professional Services
-
-* terms and conditions](https://www.yubico.com/support/yubico-for-professional-services/)
+How to set up your YubiKeyFollow our guided tutorials to start protecting your servicesSet up your YubiKeyterms and conditions Find the best YubiKey for your needsTake the guided quiz and see which YubiKeys fit your needsTake the quizterms and conditions Accelerate your YubiKey deploymentTechnical and operational guidance for your YubiKey rolloutProfessional Servicesterms and conditions
 
 Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/close.svg)[Subscribe](https://www.yubico.com/products/yubienterprise-subscription/)[Store](https://www.yubico.com/store/)
 
