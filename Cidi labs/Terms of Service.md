@@ -184,7 +184,7 @@ Cidi Labs, LLC
 
 #### CIDI LABS NEWSLETTER
 
-![](https://cidilabs.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-1.06.14-PM.png)
+![Name](https://cidilabs.com/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-1.06.14-PM.png)
 
 Name
 ----
@@ -193,6 +193,6 @@ Name
 
 Description
 
-                                                
+                                               
 
 ![](https://px.ads.linkedin.com/collect/?pid=6049940&fmt=gif)
