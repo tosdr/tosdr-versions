@@ -128,39 +128,39 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
     
-    The Fog of War
+    The Hour Of Our Time: The Legacy of William Cooper
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Secrets of a Psychopath: The Murder of Elaine O’Hara](/wp-content/thumbnails/14895-100x70.jpg?x53432)
+* [![The Doomsday Code](/wp-content/thumbnails/960-100x70.jpg?x53432)
     
-    Secrets of a Psychopath: The Murder of Elaine O’Hara
+    The Doomsday Code
     
-    Having shocked a nation, the murder of Elaine O’Hara, 36, was one of Irelands most high profile cases in recent years and in this three part documentary series we learn how Graham Dwyer, 42, stabbed](https://documentaryheaven.com/secrets-of-a-psychopath-the-murder-of-elaine-ohara/ "Secrets of a Psychopath: The Murder of Elaine O’Hara")
-* [![The Mariana Trench: Earth’s Deepest Place](/wp-content/thumbnails/13969-100x70.jpg?x53432)
+    What is the real source of these ideas that so many people attribute to the book of Revelation? Whoever wrote it sheltered in a cave on the Greek island of Patmos, probably a refugee from Roman occupi](https://documentaryheaven.com/the-doomsday-code/ "The Doomsday Code")
+* [![Beautiful Young Minds](/wp-content/thumbnails/5797-100x70.jpg?x53432)
     
-    The Mariana Trench: Earth’s Deepest Place
+    Beautiful Young Minds
     
-    Earth a 4.5 billion year old planet which is still very much evolving and as continents shift and clash due to tectonic plate movement volcanos erupt and glaciers grow and recede, the Earths crus](https://documentaryheaven.com/mariana-trench-earths-deepest-place/ "The Mariana Trench: Earth’s Deepest Place")
-* [![9/11 Revisited, Were Explosives Used?](/wp-content/thumbnails/1370-100x70.jpg?x53432)
+    This documentary tells the story of some of the brightest mathematical brains of a generation. Each year, exceptionally gifted teenagers from over 90 countries compete for medals at the International](https://documentaryheaven.com/beautiful-young-minds/ "Beautiful Young Minds")
+* [![What You’ve Been Missing: Exposing The Noble Lie](/wp-content/thumbnails/5938-100x70.jpeg?x53432)
     
-    9/11 Revisited, Were Explosives Used?
+    What You’ve Been Missing: Exposing The Noble Lie
     
-    September 11th Revisited is perhaps the most riveting film ever made about the destruction of the World Trade Center. This is a powerful documentary which features eyewitness accounts and archived new](https://documentaryheaven.com/911-revisited-were-explosives-used/ "9/11 Revisited, Were Explosives Used?")
-* [![Blood Diamond](/wp-content/thumbnails/9201-100x70.jpg?x53432)
+    Exposing the Noble Lie is the first episode from What You’ve Been Missing and was created to fill the massive gap created by corporate media, between itself and reality. A virtual variety show with a](https://documentaryheaven.com/what-youve-been-missing-exposing-the-noble-lie/ "What You’ve Been Missing: Exposing The Noble Lie")
+* [![The Other Side of Dunkirk](/wp-content/thumbnails/13432-100x70.jpg?x53432)
     
-    Blood Diamond
+    The Other Side of Dunkirk
     
-    Diamonds, timeless, beautiful, symbols of love, they come in different colors, shapes and sizes their value measured by carat, cut and clarity. They are the worlds most precious gem but in west and ce](https://documentaryheaven.com/blood-diamond/ "Blood Diamond")
-* [![Growing Up in the Universe](/wp-content/thumbnails/3316-100x70.jpg?x53432)
+    On the morning of the 26th May, 1940, an order was transmitted from Admiralty building in London, to a secret headquarters in Dover. The order stated that the evacuation of the British Expeditionary F](https://documentaryheaven.com/other-side-of-dunkirk/ "The Other Side of Dunkirk")
+* [![How The Kids Took Over](/wp-content/thumbnails/1389-100x70.jpg?x53432)
     
-    Growing Up in the Universe
+    How The Kids Took Over
     
-    Growing Up in the Universe was a series of lectures given by Richard Dawkins as part of the Royal Institution Christmas Lectures, in which he discussed the evolution of life in the universe. The lectu](https://documentaryheaven.com/growing-up-in-the-universe/ "Growing Up in the Universe")
+    In the last 10 years, corporations have doubled what they spend marketing to your children. It's no wonder. Children influence 62% of family purchases - everything from snack food to cameras to cars.](https://documentaryheaven.com/how-the-kids-took-over/ "How The Kids Took Over")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
