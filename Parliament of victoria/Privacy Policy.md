@@ -117,6 +117,10 @@ Main menu
     
     #### [Latest](https://parliament.vic.gov.au/link/c5bd7124b44e42c2929fdf47bfd51f6e.aspx)
     
+    * [Bill to abolish committal hearings debated](https://parliament.vic.gov.au/link/8b24ed84ac7e40d18f6542665c9ed5a1.aspx)
+        
+        06 December 2024
+        
     * [Budgeting for gender equality](https://parliament.vic.gov.au/link/96788f272c1c4985a3c68cb6ff1c7b2c.aspx)
         
         04 December 2024
@@ -124,10 +128,6 @@ Main menu
     * [Helping rural youth to thrive](https://parliament.vic.gov.au/link/a41bcf29ba864148a60d7c548fd695e1.aspx)
         
         29 November 2024
-        
-    * [A fairer share for cash-strapped councils](https://parliament.vic.gov.au/link/a956c472bf1943e7a01efecac566fe2c.aspx)
-        
-        28 November 2024
         
     
 * [Visit](https://parliament.vic.gov.au/visit/)Expand Visit
