@@ -111,6 +111,10 @@ Most recent
 
 [05-12-2024
 
+Hungarian education system is scarred by socio-economic divides, lack of infrastructure](https://www.euractiv.com/section/economy-jobs/news/hungarian-education-system-is-scarred-by-socio-economic-divides-lack-of-infrastructure/)[05-12-2024
+
+Macron blames far-left, far-right ‘chaos’ for government collapse](https://www.euractiv.com/section/politics/news/macron-blames-far-left-far-right-chaos-for-government-collapse/)[05-12-2024
+
 EU-supported NGOs push back on new lobbying restrictions](https://www.euractiv.com/section/eet/news/eu-supported-ngos-push-back-on-new-lobbying-restrictions/)[05-12-2024
 
 First wolves, now bears: EPP eyes further changes to nature protection](https://www.euractiv.com/section/eet/news/first-wolves-now-bears-epp-eyes-further-changes-to-nature-protection/)[05-12-2024
@@ -125,11 +129,7 @@ New defence commissioner teases much-expected future White Paper](https://www.eu
 
 UK competition authority approves telecom merger, setting key precedent for EU merger reviews](https://www.euractiv.com/section/tech/news/uk-competition-authority-approves-telecom-merger-setting-key-precedent-for-eu-merger-reviews/)[05-12-2024
 
-French farmers call for civil disobedience against political instability, Mercosur deal](https://www.euractiv.com/section/agriculture-food/news/french-farmers-call-for-civil-disobedience-against-political-instability-mercosur-deal/)[05-12-2024
-
-WHO to investigate unknown disease in Democratic Republic of Congo](https://www.euractiv.com/section/health-consumers/news/who-to-investigate-unknown-disease-in-democratic-republic-of-congo/)[05-12-2024
-
-Commission orders TikTok to retain data related to elections in EU until March](https://www.euractiv.com/section/tech/news/commission-orders-tiktok-to-retain-data-related-to-elections-in-eu-until-march/)
+French farmers call for civil disobedience against political instability, Mercosur deal](https://www.euractiv.com/section/agriculture-food/news/french-farmers-call-for-civil-disobedience-against-political-instability-mercosur-deal/)
 
 ###### Advertisement
 
