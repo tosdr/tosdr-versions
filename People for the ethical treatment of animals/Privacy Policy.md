@@ -2,7 +2,7 @@ Close Mobile Menu
 
 [](https://www.peta.org/)
 
-[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::mobile-donate-now-button)
+[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-donate-now-button)
 
 * [Help Animals](https://www.peta.org/action/ "Help Animals")
     
@@ -66,9 +66,9 @@ Close Mobile Menu
     * [FAQ](https://www.peta.org/about-peta/faq/ "FAQ")
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/ "Contact Us")
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/ "PETA Global")
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::mobile-top-donate-now-button "Donate Now")
+* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-top-donate-now-button "Donate Now")
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-subnav-donate-now-button?en_txn7=Navigation::mobile-top-subnav-donate-now "Donate Now")
+    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-top-subnav-donate-now "Donate Now")
     * [Vanguard Society](https://www.peta.org/donate/vanguard/ "Vanguard Society")
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/ "‘In Honor of’ and Memorial Gifts")
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/ "More Ways to Support")
@@ -83,7 +83,7 @@ Close Mobile Menu
 
 [](https://www.peta.org/)
 
-[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::mobile-donate-now-button)
+[Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::mobile-donate-now-button)
 
 [People for the Ethical Treatment of Animals](https://www.peta.org/ "PETA | People for the Ethical Treatment of Animals")
 
@@ -165,9 +165,9 @@ Close Mobile Menu
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/)
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/)
     
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::top-donate-now-button)
+* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-subnav-donate-now-button?en_txn7=Navigation::top-subnav-donate-now)
+    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-subnav-donate-now)
     * [Vanguard Society](https://www.peta.org/donate/vanguard/)
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/)
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/)
@@ -247,9 +247,9 @@ Close Mobile Menu
     * [Contact Us](https://www.peta.org/about-peta/contact-peta/)
     * [PETA Global](https://www.peta.org/magazine/issue-4-autumn-2024/)
     
-* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::top-donate-now-button)
+* [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button)
     
-    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-subnav-donate-now-button?en_txn7=Navigation::top-subnav-donate-now)
+    * [Donate Now](https://headlines.peta.org/donate/?en_txn7=Navigation::top-subnav-donate-now)
     * [Vanguard Society](https://www.peta.org/donate/vanguard/)
     * [‘In Honor of’ and Memorial Gifts](https://www.peta.org/donate/ways-to-support-peta/in-honor-of-and-memorial-gifts/)
     * [More Ways to Support](https://www.peta.org/donate/ways-to-support-peta/)
@@ -550,7 +550,7 @@ International Sites
 
 [Next Article »](https://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/)
 
-Share Post [Donate](https://headlines.peta.org/donate/?en_txn7=Navigation::top-donate-now-button?en_txn7=Navigation::sticky-footer-donate-button "Donate")
+Share Post [Donate](https://headlines.peta.org/donate/?en_txn7=Navigation::sticky-footer-donate-button "Donate")
 
 **[Click here](sms:73822?&body=OREO) [to text](sms:73822?&body=OREO) [OREO](sms:73822?&body=OREO) [to](sms:73822?&body=OREO) [73822](sms:73822?&body=OREO) [to tell the maker of Oreo cookies to stop paying for experiments on animals, like force-feeding mice human feces then killing them.](sms:73822?&body=OREO)**
 
