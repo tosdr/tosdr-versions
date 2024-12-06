@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/india-bill-gates-aangeklaagd-met-doodstraf/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hoe-nederland-als-pedoland-aan-faam-wint/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -183,6 +183,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Gedachtepolitie? Al actief in Engeland..!
+
+[https://www.nu.nl/media/6337971/40-uur-werkstraf-voor-on-pre…](https://www.wanttoknow.nl/overige/mind-control/gedachtepolitie-al-actief-in-engeland/comment-page-1/#comment-626377)
 
 ![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
 
@@ -431,14 +439,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### BEWIJS: grote schade zeeleven door windmolens…!!
 
 [https://groene-rekenkamer.nl/1795/windenergie-nederland-de-d…](https://www.wanttoknow.nl/wetenschap/klimaat/bewijs-grote-schade-zeeleven-door-windmolens/comment-page-1/#comment-626345)
-
-![Arend Zeevat](https://secure.gravatar.com/avatar/54f43225736f1bab22ea8f9a12c4d3a3?s=50&d=identicon&r=g)
-
-##### **Arend Zeevat** reacts on:
-
-##### De ‘gruwelijke’, volgende mRNA-ontwikkelingen!!
-
-[Bill Gates mag voor een Nederlandse rechter verschijnen om z…](https://www.wanttoknow.nl/hoofdartikelen/de-gruwelijke-volgende-mrna-ontwikkelingen/comment-page-1/#comment-626344)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
