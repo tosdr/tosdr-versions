@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/K365-USER-Webinar-Jeopardy-Dec5-1200x800-Events-300x200.jpg)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/11/Kaseya-365-USER-Webinar-Master-the-Tech-Optimising-MSP-Security-1200x800-px-1-300x200.png)
     
-    Cybersecurity Jeopardy
+    Master the Tech: Optimizing MSP Security with Kaseya 365 User
     
-    December 5
+    December 6
     
     [View All Events](https://www.kaseya.com/events/)
     
