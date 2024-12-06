@@ -2,7 +2,7 @@
 
 [The Psychometric Portal](https://www.thepsychometricportal.com/) [+44 (0)1379 882279](tel:+441379882279)
 
-[eras ![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)](https://www.eras.co.uk/) 
+[eras ![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)](https://www.eras.co.uk/) 
 
 Psychometrics
 
@@ -26,7 +26,7 @@ Trusted
 
 by Major Brands
 
-[eras ![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)](https://www.eras.co.uk/) Close menu
+[eras ![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)](https://www.eras.co.uk/) Close menu
 
 [Psychometrics](https://www.eras.co.uk/psychometrics)[The Psychometric Portal®](https://www.eras.co.uk/psychometrics/portal)[Training](https://www.eras.co.uk/psychometrics/training)[Consultancy](https://www.eras.co.uk/consultancy)[About Us](https://www.eras.co.uk/about-us)[Blog](https://www.eras.co.uk/blog)[Accreditations](https://www.eras.co.uk/about-us/accreditations)[Best Employers Eastern Region](https://www.eras.co.uk/about-us/best-employers)[Customer Reviews](https://www.eras.co.uk/about-us/reviews)[International Partners](https://www.eras.co.uk/about-us/partners)[Our Values](https://www.eras.co.uk/about-us/our-values)
 
@@ -140,7 +140,7 @@ If you would like any further information about the use of cookies on this websi
 
 We may make changes to this policy from time to time and the latest version of the policy will always be displayed on our website. You should check this policy from time to time to see any updates. This policy was last updated on 17/11/2023.
 
-![eras's logo](/_app/immutable/assets/eras-logo.958168d1.svg)
+![eras's logo](/_app/immutable/assets/eras-logo.BFO5sExG.svg)
 
 eras Ltd®,  
 105 Denmark Street,  
