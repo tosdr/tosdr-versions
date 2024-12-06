@@ -1,6 +1,6 @@
-[LAST CHANCE BLACK FRIDAY: Save now on Ledger hardware wallets and accessories.
+[Review and sign transactions from a single secure screen with Ledger Flex™
 
-Shop now](https://shop.ledger.com/pages/black-friday)
+Discover now](https://shop.ledger.com/pages/ledger-flex)
 
 Do you want to change language to ?
 
@@ -9,7 +9,6 @@ Yes, please No, thanks
   [![Ledger](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg)](https://www.ledger.com/ "Ledger")
 
 * [Products](# "Products")
-    * [Black Friday](https://shop.ledger.com/pages/black-friday "Black Friday")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
