@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [How the weight loss drug tirzepatide is also helping heart failure patients](https://www.sciencenews.org/article/weight-loss-drug-tirzepatide-heart)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")46 mins ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")7 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")21 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 5, 2024
             
         * [Humans](https://www.sciencenews.org/topic/humans)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")23 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -151,13 +151,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")21 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 5, 2024
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")23 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -173,6 +173,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Physics
         -----------------------
         
+        * [Physics](https://www.sciencenews.org/topic/physics)
+            
+            ### [Notre Dame is reopening. What does that mean for its acoustics?](https://www.sciencenews.org/article/notre-dame-reopening-acoustics-fire) 
+            
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")44 mins ago
+            
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
             
             ### [Starchy nanofibers shatter the record for world’s thinnest pasta](https://www.sciencenews.org/article/thinnest-pasta-nanofibers)
@@ -185,12 +191,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Cassie Martin](https://www.sciencenews.org/author/cassie-martin "Posts by Cassie Martin")November 29, 2024
             
-        * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-            
-            ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
-            
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 19, 2024
-            
 * [Space](https://www.sciencenews.org/topic/space)
     * [Space](https://www.sciencenews.org/topic/space)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
@@ -201,21 +201,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Space](https://www.sciencenews.org/topic/space)
             
-            ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
+            ### [Space missions spanned the solar system in 2024](https://www.sciencenews.org/article/space-missions-in-2024-recap)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 5, 2024
-            
-        * [Space](https://www.sciencenews.org/topic/space)
-            
-            ### [What will it take to defend the world from an asteroid?](https://www.sciencenews.org/article/robin-andrews-kill-asteroid-review)
-            
-            By [Shi En Kim](https://www.sciencenews.org/author/shi-en-kim "Posts by Shi En Kim")November 28, 2024
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")3 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
-            ### [This is the first close-up image of a star beyond our galaxy](https://www.sciencenews.org/article/first-close-image-star-beyond-galaxy)
+            ### [Astronomers detect the first astrosphere around a sunlike star](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
-            By [Sophie Hartley](https://www.sciencenews.org/author/sophie-hartley "Posts by Sophie Hartley")November 21, 2024
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")5 hours ago
+            
+        * [Space](https://www.sciencenews.org/topic/space)
+            
+            ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
+            
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 5, 2024
             
 
 Terms of Service
