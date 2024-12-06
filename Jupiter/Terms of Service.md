@@ -64,7 +64,7 @@ Jupiter Terms and Conditions
 
 These Terms and Conditions govern the access and use of the Jupiter app and the services provided by Jupiter. Please read these Terms and Conditions carefully before accepting. By accepting the Terms and Conditions you agree that you have read, understood, acknowledged and accepted these Terms and Conditions, Tariff of Schedule to access and use the Jupiter app and Jupiter product and Services.
 
-Last updated on 04 December, 2024
+Last updated on 06 December, 2024
 
 For ease of use, these terms and conditions have been divided into the following sections:
 
@@ -1319,8 +1319,8 @@ These “terms” and "Conditions of Use" (“Terms”) constitute an electronic
 48. You declare that you are not an unregistered dealer of Gold and silver or any other precious metal ornament or any related product.
 49. If found of any misrepresentation then you will be solely responsible for all applicable taxes, interest and penalty due to the government at any given point of time.
 
-**NetWorth**
-------------
+****Personal Finance Management - Money Tab (NetWorth, Cash Flow Tracking)****
+------------------------------------------------------------------------------
 
 These Terms and Conditions govern the access and use of the personal finance management  Service provided on the Jupiter App (“PFM Terms”). Please read these PFM Terms carefully before accepting. By using this  PFM Service (defined below), you agree that you have read, understood, acknowledged and accepted these PFM Terms. You also acknowledge that you have read, understood, acknowledged and accepted the Jupiter Terms and Conditions and Jupiter Privacy Policy available on Jupiter Platform. (“Jupiter Terms”). PFM Terms shall be read in conjunction to the FAQs related to the PFM Service.
 
