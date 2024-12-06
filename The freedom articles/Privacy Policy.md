@@ -2227,10 +2227,10 @@ Last updated on July 10, 2019
 * [Privacy Policy](https://thefreedomarticles.com/privacy-policy/)
 * [Contact](https://thefreedomarticles.com/contact/)
 
-[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20-%20The%20Freedom%20Articles "Facebook")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20-%20The%20Freedom%20Articles "Mastodon")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20-%20The%20Freedom%20Articles "Email")[](https://www.addtoany.com/share)
+[](https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20%20The%20Freedom%20Articles "Facebook")[](https://www.addtoany.com/add_to/mastodon?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20%20The%20Freedom%20Articles "Mastodon")[](https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fthefreedomarticles.com%2Fprivacy-policy%2F&linkname=Privacy%20Policy%20%20The%20Freedom%20Articles "Email")[](https://www.addtoany.com/share)
 
 [![web analytics](https://c.statcounter.com/12238001/0/7e594709/1/)](https://statcounter.com/ "web analytics")
 
 ×
 
-Thursday, December 5, 2024
+Friday, December 6, 2024
