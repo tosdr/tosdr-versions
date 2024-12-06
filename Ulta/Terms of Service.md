@@ -396,13 +396,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/acidic-bonding-concentrate-holiday-kit-pimprod2048032?sku=2627384)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
         
-        Redken
+        Drybar
         
-        New & exclusive! Acidic Bonding Concentrate Holiday Kit
+        You Had Me at Blowout Kit
         
-        [Shop now](https://www.ulta.com/p/acidic-bonding-concentrate-holiday-kit-pimprod2048032?sku=2627384)
+        [Shop now](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
         
     * Fragrance
         
