@@ -301,7 +301,7 @@ Audience
 
 Product
 
-[AMP Find](https://www.admarketplace.com/solutions)[AMP Suggest](https://www.admarketplace.com/solutions)[AMP Result](https://www.admarketplace.com/solutions)
+[Solutions](https://www.admarketplace.com/solutions)[AMP Find](https://www.admarketplace.com/solutions)[AMP Suggest](https://www.admarketplace.com/solutions)[AMP Result](https://www.admarketplace.com/solutions)
 
 Measurement
 
@@ -309,7 +309,7 @@ Measurement
 
 Resources
 
-[Blog](https://www.admarketplace.com/blog)[Insights & Research](https://www.admarketplace.com/insights-research)[Case Studies](https://www.admarketplace.com/case-studies)
+[Antitrust](https://www.admarketplace.com/search-antitrust-admarketplace)[Blog](https://www.admarketplace.com/blog)[Insights & Research](https://www.admarketplace.com/insights-research)[Case Studies](https://www.admarketplace.com/case-studies)
 
 About
 
