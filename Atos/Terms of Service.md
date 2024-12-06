@@ -204,6 +204,7 @@ Atos homepage](https://atos.net/en/)
         ---------------
         
         * [AWS re:Invent 2024](https://atos.net/en/events/aws-reivent-2024)
+        * [Unlocking GenAI: How Retrieval-Augmented Generation transforms business](https://atos.net/en/events/unlocking-genai-how-retrieval-augmented-generation-transforms-business)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
