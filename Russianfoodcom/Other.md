@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -150,7 +150,6 @@
 
 * [Варенье «Пятиминутка»](https://www.russianfood.com/recipes/recipe.php?rid=103343)
 * [Свинина, тушенная с черносливом и сельдереем, в томатно-винном соусе](https://www.russianfood.com/recipes/recipe.php?rid=158336)
-* [Сдобные булочки с заварным кремом](https://www.russianfood.com/recipes/recipe.php?rid=157565)
 * [Котлеты "Пальчики" с сыром и грецкими орехами](https://www.russianfood.com/recipes/recipe.php?rid=160661)
 * [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706)
 * [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571)
@@ -178,6 +177,20 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Всем, кто ищет что-то новое. Лучшие рецепты из ФАРША (30)](https://www.russianfood.com/reading/?post_id=22963) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/651/sm_650649.jpg)](https://www.russianfood.com/reading/?post_id=22963)
+
+Стожки из фарша с овощами и сыром. Зелёные блины с печенью. Рис с фаршем и баклажанами. Котлеты из свинины и капусты. Суп с фрикадельками и лапшой из блинчиков.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22963)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22963#comments) | 06.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Апельсиновые кексы на кефире](https://www.russianfood.com/recipes/recipe.php?rid=174640) |     |
 
 [![Фото к рецепту: Апельсиновые кексы на кефире](//img1.russianfood.com/dycontent/images_upl/755/sm_754976.jpg "Фото к рецепту: Апельсиновые кексы на кефире")](https://www.russianfood.com/recipes/recipe.php?rid=174640)
@@ -188,7 +201,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174640#comments) | 05.12.24 |     |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174640#comments) | 05.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -258,7 +271,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174962#comments) | 05.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174962#comments) | 05.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -372,20 +385,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22958#comments) | 05.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) |     |
-
-[![Фото к рецепту: Шоколадный блинный торт с вишней и сметанным желе](//img1.russianfood.com/dycontent/images_upl/757/sm_756837.jpg "Фото к рецепту: Шоколадный блинный торт с вишней и сметанным желе")](https://www.russianfood.com/recipes/recipe.php?rid=175005)
-
-Восхитительно нежное лакомство из тонких шоколадных блинчиков, нарезанных полосками и перемешанных со сметанным желе. Ягоды вишни идеально дополняют шоколадно-сливочный вкус десерта. Сметанный торт-желе с блинчиками и вишней прекрасно подойдет для любого праздника и романтического вечера.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175005)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175005#comments) | 05.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -457,10 +456,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751218.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174806) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755442.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174962) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756837.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755493.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174939) |
-| [Шоколадный бисквитный торт "Змея" с вишней и кремом из сгущёнки](https://www.russianfood.com/recipes/recipe.php?rid=174806) | [Блинные треугольники с куриным фаршем](https://www.russianfood.com/recipes/recipe.php?rid=174962) | [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Шоколадный блинный торт с вишней и сметанным желе](https://www.russianfood.com/recipes/recipe.php?rid=175005) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Рулетики из куриных бёдер, с картошкой, огурцами и луком](https://www.russianfood.com/recipes/recipe.php?rid=174939) |
-| [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736109.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173393) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174640) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757978.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172399) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756915.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174805) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758085.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174929) |
-| [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Рамен с курицей](https://www.russianfood.com/recipes/recipe.php?rid=173393) | [Апельсиновые кексы на кефире](https://www.russianfood.com/recipes/recipe.php?rid=174640) | [Мясная солянка с рисом](https://www.russianfood.com/recipes/recipe.php?rid=172399) | [Салат "Змея" с курицей, ананасами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174805) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Жареная цветная капуста под кунжутным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174929) |
+| [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757978.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172399) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755493.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174939) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756794.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175003) | [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174640) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751218.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174806) |
+| [Мясная солянка с рисом](https://www.russianfood.com/recipes/recipe.php?rid=172399) | [Рулетики из куриных бёдер, с картошкой, огурцами и луком](https://www.russianfood.com/recipes/recipe.php?rid=174939) | [Ягодно-сметанное желе](https://www.russianfood.com/recipes/recipe.php?rid=175003) | [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Апельсиновые кексы на кефире](https://www.russianfood.com/recipes/recipe.php?rid=174640) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Шоколадный бисквитный торт "Змея" с вишней и кремом из сгущёнки](https://www.russianfood.com/recipes/recipe.php?rid=174806) |
+| [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758085.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174929) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756915.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174805) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
+| [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Жареная цветная капуста под кунжутным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174929) | [Салат "Змея" с курицей, ананасами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174805) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -477,4 +476,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(97)
+(108)
