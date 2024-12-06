@@ -611,27 +611,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 Most recent
 -----------
 
-[05-12-2024
+[06-12-2024
 
-Hungarian education system is scarred by socio-economic divides, lack of infrastructure](https://www.euractiv.com/section/economy-jobs/news/hungarian-education-system-is-scarred-by-socio-economic-divides-lack-of-infrastructure/)[05-12-2024
+Foreign clients of Russian gas feel the heat of US Gazprombank sanctions](https://www.euractiv.com/section/eet/news/foreign-clients-of-russian-gas-feel-the-heat-of-us-gazprombank-sanctions/)[06-12-2024
 
-Macron blames far-left, far-right ‘chaos’ for government collapse](https://www.euractiv.com/section/politics/news/macron-blames-far-left-far-right-chaos-for-government-collapse/)[05-12-2024
+Romanians vote for president amid high political uncertainty](https://www.euractiv.com/section/politics/news/the-capitals-romanians-vote-for-president-amid-high-political-uncertainty/)[06-12-2024
 
-EU-supported NGOs push back on new lobbying restrictions](https://www.euractiv.com/section/eet/news/eu-supported-ngos-push-back-on-new-lobbying-restrictions/)[05-12-2024
+Slovak MEPs divided over EU-Mercosur deal](https://www.euractiv.com/section/politics/news/slovak-meps-divided-over-eu-mercosur-deal/)[06-12-2024
 
-First wolves, now bears: EPP eyes further changes to nature protection](https://www.euractiv.com/section/eet/news/first-wolves-now-bears-epp-eyes-further-changes-to-nature-protection/)[05-12-2024
+Tusk, Metsola prepare EU presidency ahead of Trump’s return](https://www.euractiv.com/section/politics/news/tusk-metsola-prepare-eu-presidency-ahead-of-trumps-return/)[06-12-2024
 
-MEPs clash over rejected smoke-free environments resolution](https://www.euractiv.com/section/health-consumers/news/meps-clash-over-rejected-smoke-free-environments-resolution/)[05-12-2024
+Sánchez, centre-right, failed to reach a deal on ‘solidarity sharing’ of migrant minors](https://www.euractiv.com/section/politics/news/sanchez-centre-right-failed-to-reach-a-deal-on-solidarity-sharing-of-migrant-minors/)[06-12-2024
 
-Inside the Commission’s first 100 days](https://www.euractiv.com/section/politics/news/inside-the-commissions-first-100-days/)[05-12-2024
+Portugal busts one of Europe’s largest cocaine labs](https://www.euractiv.com/section/politics/news/portugal-busts-one-of-europes-largest-cocaine-labs/)[06-12-2024
 
-EPP internal draft unveils migration plans for new Commission](https://www.euractiv.com/section/politics/news/epp-internal-draft-unveils-migration-plans-for-new-commission/)[05-12-2024
+Pastorella’s plan to reunite Italian liberals](https://www.euractiv.com/section/politics/news/pastorellas-plan-to-reunite-italian-liberals/)[06-12-2024
 
-New defence commissioner teases much-expected future White Paper](https://www.euractiv.com/section/global-europe/news/new-defence-commissioner-teases-much-expected-future-white-paper/)[05-12-2024
+Italy’s Salvini warns of economic suicide over plans to overhaul EU car emission limits](https://www.euractiv.com/section/politics/news/italys-salvini-warns-of-economic-suicide-over-plans-to-overhaul-eu-car-emission-limits/)[06-12-2024
 
-UK competition authority approves telecom merger, setting key precedent for EU merger reviews](https://www.euractiv.com/section/tech/news/uk-competition-authority-approves-telecom-merger-setting-key-precedent-for-eu-merger-reviews/)[05-12-2024
+Moldova sacks energy minister over failure to tackle crisis](https://www.euractiv.com/section/eet/news/moldova-sacks-energy-minister-over-failure-to-tackle-crisis/)[06-12-2024
 
-French farmers call for civil disobedience against political instability, Mercosur deal](https://www.euractiv.com/section/agriculture-food/news/french-farmers-call-for-civil-disobedience-against-political-instability-mercosur-deal/)
+Sweden to track refugees travelling to their home countries](https://www.euractiv.com/section/politics/news/sweden-to-track-refugees-travelling-to-their-home-countries/)
 
 ###### Advertisement
 
