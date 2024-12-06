@@ -20,7 +20,7 @@ English (United States)English (United Kingdom)English (Canada)English (Australi
 
 [Log in](https://command.verkada.com/) [Get demo](https://www.verkada.com/demo)
 
-Privacy Policy [Candidate Privacy Policy](https://www.verkada.com/privacy/candidate-privacy-policy/) [Cookie Policy](https://www.verkada.com/privacy/cookie-policy/) [Verkada Trust Hub](https://www.verkada.com/trust)
+Privacy Policy [Candidate Privacy Policy](https://www.verkada.com/privacy/candidate-privacy-policy/) [Cookie Policy](https://www.verkada.com/privacy/cookie-policy/) [Verkada Trust Hub](https://www.verkada.com/trust) [Data Subject Requests](https://verkada-privacy.relyance.ai/)
 
 Privacy Policy
 
