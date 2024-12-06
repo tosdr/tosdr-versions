@@ -107,7 +107,7 @@
 
 *   [0](javascript:void(0);)  
     
-    Recent Notifications
+    Recent notifications
     
 * [Sign up/Log in](https://www.carsales.com.au/auth)
 [Get an Instant Offer](https://www.carsales.com.au/instant-offer/?ret=internal-carsales-desktop-top-nav&driver_crosssell=carsales.sell_get_an_instant_offer_top_nav)
