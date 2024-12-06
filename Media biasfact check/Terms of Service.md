@@ -214,7 +214,7 @@ No related posts.
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Reuters - Bias and Credibility](https://mediabiasfactcheck.com/reuters/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
