@@ -40,6 +40,12 @@ Productchevron-down icon
 
 Solutionschevron-down icon
 
+### Company Type
+
+* [Enterprise](https://asana.com/enterprise)
+* [Small business](https://asana.com/small-business)
+* [Nonprofits](https://asana.com/industry/nonprofit)
+
 ### Teams
 
 * [Operations](https://asana.com/teams/operations)
@@ -52,7 +58,6 @@ Solutionschevron-down icon
 * [Healthcare](https://asana.com/industry/healthcare)
 * [Retail](https://asana.com/industry/retail)
 * [Education](https://asana.com/industry/education)
-* [Nonprofit](https://asana.com/industry/nonprofit)
 
 ### Use Cases
 
@@ -62,15 +67,6 @@ Solutionschevron-down icon
 * [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
 * [View all use casesarrow-right icon](https://asana.com/uses)
-
-### Featured Reads
-
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
-    
-    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 Resourceschevron-down icon
 
@@ -135,6 +131,12 @@ ALL PLANS
 * [premium iconStarter](https://asana.com/plan/starter)
 * [briefcase iconAdvanced](https://asana.com/plan/advanced)
 
+Company Type
+
+* [Enterprise](https://asana.com/enterprise)
+* [Small business](https://asana.com/small-business)
+* [Nonprofits](https://asana.com/industry/nonprofit)
+
 Teams
 
 * [Operations](https://asana.com/teams/operations)
@@ -147,7 +149,6 @@ Industries
 * [Healthcare](https://asana.com/industry/healthcare)
 * [Retail](https://asana.com/industry/retail)
 * [Education](https://asana.com/industry/education)
-* [Nonprofit](https://asana.com/industry/nonprofit)
 
 Use Cases
 
@@ -157,15 +158,6 @@ Use Cases
 * [Resource planning](https://asana.com/uses/resource-planning)
 * [Product launches](https://asana.com/uses/product-launch)
 * [View all use casesarrow-right icon](https://asana.com/uses)
-
-Featured Reads
-
-* [![](https://assets.asana.biz/m/3c783c71ef817d3e/original/WEBINAR-PNG-24AI-ON_DEMAND-800x512-v2.png)
-    
-    DemoAI has joined the teamWatch nowarrow-right icon](https://resources.asana.com/asana-intelligence-demo?utm_medium=web&utm_source=megamenu&utm_campaign=ai24-demo)
-* [![](https://assets.asana.biz/m/4bfad42502bff345/original/05-31-2024-State-of-AI-at-Work-Hero-Image.png)
-    
-    ReportThe State of AI at Work 2024 - The Work Innovation LabRead morearrow-right icon](https://asana.com/resources/state-of-ai-work?utm_medium=web&utm_source=nav&utm_campaign=soai25)
 
 Learn
 
@@ -451,7 +443,7 @@ If you have any questions about these Terms, please contact us at [terms-questi
 * [Customer Success](https://asana.com/customer-success)
 * [Developers and API](https://developers.asana.com/docs)
 * [Partners](https://asana.com/partners)
-* [Sitemap](https://asana.com/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/inside-asana/site-map)
+* [Sitemap](https://asana.com/site-map)
 
 * Company
 * [About us](https://asana.com/company)
