@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
-[Resilience
+[Generosity
 
-### As Syrian rebels advance, what can Iran and its tired allies do for Assad?](https://www.csmonitor.com/World/Middle-East/2024/1205/iran-syria-rebels-assad-axis-hezbollah "As Syrian rebels advance, what can Iran and its tired allies do for Assad?")
+### A peek into ‘boundless’ generosity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1206/A-peek-into-boundless-generosity "A peek into ‘boundless’ generosity")
 
-[Humility
+[Responsibility
 
-### The new stoic Argentine](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1205/The-new-stoic-Argentine "The new stoic Argentine")
+### Record drought and blazes? The US Northeast awakens to new wildfire risks.](https://www.csmonitor.com/Environment/2024/1206/northeast-drought-wildfires-climate "Record drought and blazes? The US Northeast awakens to new wildfire risks.")
 
-[Honesty
+[Joy
 
-### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
+### Five years after fire, a shining Notre Dame is ready to reopen its doors](https://www.csmonitor.com/World/Europe/2024/1206/notre-dame-cathedral-fire-paris "Five years after fire, a shining Notre Dame is ready to reopen its doors")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### As Syrian rebels advance, what can Iran and its tired allies do for Assad?](https://www.csmonitor.com/World/Middle-East/2024/1205/iran-syria-rebels-assad-axis-hezbollah "As Syrian rebels advance, what can Iran and its tired allies do for Assad?")
+[### Memphis police discriminate, protesters said. A new Justice Department report agrees.](https://www.csmonitor.com/USA/2024/1206/Memphis-Police-discrimination-Department-of-Justice-tyre-nichols-BLM "Memphis police discriminate, protesters said. A new Justice Department report agrees.")
 
-[### ‘Bonfire of the incumbents’ unseats governments worldwide in 2024](https://www.csmonitor.com/World/2024/1205/elections-defeat-incumbents "‘Bonfire of the incumbents’ unseats governments worldwide in 2024")
+[### South Korea’s president imposed martial law. Now comes a push to impeach him.](https://www.csmonitor.com/World/Asia-Pacific/2024/1206/seoul-impeachment-yoon-suk-yeol-martial-law "South Korea’s president imposed martial law. Now comes a push to impeach him.")
 
-[### He gunned down a CEO and escaped by bike. Who killed Brian Thompson?](https://www.csmonitor.com/USA/2024/1205/brian-thompson-masked-shooter-new-york-city-healthcare-ceo "He gunned down a CEO and escaped by bike. Who killed Brian Thompson?")
+[### Five years after fire, a shining Notre Dame is ready to reopen its doors](https://www.csmonitor.com/World/Europe/2024/1206/notre-dame-cathedral-fire-paris "Five years after fire, a shining Notre Dame is ready to reopen its doors")
 
 * * *
 
