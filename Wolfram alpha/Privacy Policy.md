@@ -256,6 +256,7 @@ _Effective January 1, 2023_
 
 * Terms of Service
 * * [Enterprise Support](http://www.wolframalpha.com/legal/terms-of-service/enterprise-support.html)
+    * [Notebook Assistant + LLM Kit](http://www.wolframalpha.com/legal/terms-of-service/notebook-assistant-llm-kit.html)
     * [Premier Support](http://www.wolframalpha.com/legal/terms-of-service/premier-support.html)
     * [Personal License Support](http://www.wolframalpha.com/legal/terms-of-service/personal-license-support.html)
     
