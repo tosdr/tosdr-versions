@@ -269,7 +269,7 @@ article 2 weeks ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mis
 
 ### Matt Dominick’s X Account: A Visual Journey from Space
 
-article 23 hours ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article 1 day ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -285,13 +285,13 @@ article 4 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-mee
 
 ### Highlights
 
-[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/ER2%20over%20Sierras.jpeg)
+[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20map%202024-12-06%20114340.jpg)
 
 6 min read
 
 ### NASA Flights Map Critical Minerals from Skies Above Western US
 
-article 20 hours ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 24 hours ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
@@ -335,13 +335,13 @@ article 4 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-d
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
+article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
 ### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
 
-article 20 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
 
 4 min read
 
@@ -357,13 +357,13 @@ article 1 week ago](https://science.nasa.gov/universe/exoplanets/discovery-alert
 
 ### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
 
-article 20 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
 
 1 min read
 
 ### Fresh Eyes on Ice Project Wins Award
 
-article 21 hours ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
@@ -467,7 +467,7 @@ article 1 week ago](https://www.nasa.gov/general/nasa-plane-supported-innovative
 
 ### El X-59 enciende su motor por primera vez rumbo al despegue
 
-article 4 weeks ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+article 1 month ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 3 min read
 
