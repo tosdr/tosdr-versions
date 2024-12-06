@@ -2,7 +2,7 @@ THE UK's **NO.1** GUN MARKETPLACE Buy or sell new and used shotguns, rifles, and
 
 [Place an advert](#) [find a dealer](https://www.guntrader.uk/find-dealer)
 
-Boost Your Adverts By Adding Images
+Merry Christmas From everyone at Guntrader
 
 [![](https://www.guntrader.uk/assets/guntrader_logo.svg)](https://www.guntrader.uk/)
 
