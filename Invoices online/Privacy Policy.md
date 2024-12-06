@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=62666371)  
-Mountain Lion Properties
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=116877777)  
+Lizzy Pop PTY(Ltd)
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=105105177)  
-NJR ICT Services (Pty) Ltd
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=9826430)  
+MONSTER SECURITY SERVICES
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=39220646)  
-Gemini-IT Group
-
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=165793735)  
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=83260244)  
 CHARLIEX CONSTRUCTIONS
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=38190428)  
-Little Nutty Professors
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=35738385)  
+Konsortium Operations (PTY) LTD
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=140297380)  
-UMVIKELI PRIVATE SECURITY
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=80649213)  
+OrgChart Hosting Pty Ltd
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=130368532)  
-Wiselink Broadband Pty Ltd
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=113994392)  
+Blue Sky Solar Services
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=184763878)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=80512437)  
+Oukraal Merino's
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=37211831)  
-Printo
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=33805562)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=28178849)  
-Highlands Auto Engineering
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=103518694)  
+Creative Characters
 
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=62479080)  
-Itroniq (Pty) Ltd
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=194587511)  
+TechnoDezi PTY(LTD)
 
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=197169315)  
-Digifax (Pty) Ltd trading as Digirent
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=44881463)  
+Well Hung Art
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=19460498)  
-MSPCloud (Pty) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=163101945)  
+MONSTER SECURITY GUARDING
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=101811505)  
-IEMS (PTY) ltd
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=164143556)  
+Kaylas Creations
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=5d4394518579c78dc530eb72f6faf0119a8864f944303ffc5fbce8d636b84b98&c=77519114)  
-Sarabi
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=76793486)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=169894104)  
+Moremi Kitchens Rustenburg
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
