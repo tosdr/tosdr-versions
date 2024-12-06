@@ -14,7 +14,7 @@
 
 search  
 
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
 * [Payment Security](https://www.thomannmusic.com/helpdesk_paymentsecurity.html)
 
 en · $
@@ -502,9 +502,11 @@ Conversion tracking allows us and Google to identify the Ads advertisements you 
 
 Google Ireland Ltd. is a subsidiary of Google LLC, based in the USA. It cannot be excluded that the data collected by Google will also be sent to the USA.
 
-#### **DoubleClick and Google Ads Remarketing or “Similar Audiences”**
+You can find more information on how Google uses your data, how the various Google technologies work and Google's privacy policy at [https://business.safety.google/privacy/](https://business.safety.google/privacy/).
 
-Our website utilises the DoubleClick Remarketing Pixel and Google Ads Remarketing or “Similar Audiences”. The provider of both services is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”). Using these services, we can show you advertisements associated with our online shop (e.g. interesting product offers) on the websites of other service providers that also use these Google services (“partners” in the Google Display network). Furthermore, we can use Google Ads Remarketing to place a message on the websites of other providers in the Google Display Network reminding you to complete your order if you have recently abandoned an order on our online shop. This requires the use of cookie technology.
+#### **Google Marketing Platform and Google Ads Remarketing**
+
+Our website utilises Remarketing Services of the Google Marketing Platform and Google Ads Remarketing. The provider of both services is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland (“Google”). Using these services, we can show you advertisements associated with our online shop (e.g. interesting product offers) on the websites of other service providers that also use these Google services (“partners” in the Google Display network). Furthermore, we can use Google Ads Remarketing to place a message on the websites of other providers in the Google Display Network reminding you to complete your order if you have recently abandoned an order on our online shop. This requires the use of cookie technology.
 
 To this end, Google stores a small file containing a sequence of numbers (“cookie ID”) in your browser to identify you as a visitor to our website and collect other anonymous data about the use of our website. The cookie ID is stored by us and used only to explicitly identify your browser and not to identify you as a person. These services are not used to collect or store your personal data.
 
@@ -524,7 +526,7 @@ No personal data will be transmitted to Google for the purpose of displaying a m
 
 Google Ireland Ltd. is a subsidiary of Google LLC, based in the USA. It cannot be excluded that the data collected by Google will also be sent to the USA.
 
-Further information about Google’s remarketing services, the details of data processing through these services and Google’s privacy policy can be found under [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/).
+Further information about Google’s remarketing services, the details of data processing through these services and Google’s privacy policy can be found under [http://www.google.com/policies/technologies/ads/](http://www.google.com/policies/technologies/ads/) as also as under [https://business.safety.google/privacy/](https://business.safety.google/privacy/).
 
 #### **Bing Ads**
 
@@ -692,7 +694,7 @@ The supervisory authority with which the complaint has been lodged will inform t
 
 Musikhaus Thomann may update this Privacy Notice from time to time. Any changes will be displayed on the website. If you have any comments or questions regarding this Privacy Notice or any other guidelines on this website, please contact us in writing.
 
-08/2022
+12/2024
 
 This is how you can reach us
 ----------------------------
