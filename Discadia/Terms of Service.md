@@ -120,6 +120,8 @@ Links [Discord Servers](https://discadia.com/) [Discord Emojis](https://discadia
 
 Resources [Guidelines](https://discadia.com/guidelines/) [Privacy](https://discadia.com/privacy/) [Terms](https://discadia.com/terms/)
 
+[Advertise on Discadia](https://discadia.com/advertise-and-grow)
+
 Browse the best [Minecraft Servers](https://best-minecraft-servers.co/)
 
 [Discadia](https://discadia.com/) is not affiliated or endorsed with/by [Discord](https://discord.com/)
