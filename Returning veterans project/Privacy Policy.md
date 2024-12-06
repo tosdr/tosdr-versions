@@ -185,11 +185,10 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![LT H. David Silverman](https://cdn.returningveterans.org/images/honor/David_Silverman.jpg)  
+![Ed Gaffigan](https://cdn.returningveterans.org/images/honor/Ed_Gaffigan_USMC_Reserves_1961_%281%29.jpg)  
 
-**In Honor of LT H. David Silverman**  
-United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Ed Gaffigan**  
+Submitted by Catherine Gaffigan](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +231,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/05/24 - 7:26:16  
+Printed 12/06/24 - 1:21:06  
 © 2024 Returning Veterans Project
