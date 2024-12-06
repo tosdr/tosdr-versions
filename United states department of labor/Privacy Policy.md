@@ -22,7 +22,7 @@ The **https://** ensures that you are connecting to the official website and tha
 
 U.S. Department of Labor](https://www.dol.gov/)
 
-[FAQ](https://webapps.dol.gov/dolfaq/) [Contact Us](https://www.dol.gov/general/contact)
+[FAQ](https://www.dol.gov/general/faq) [Contact Us](https://www.dol.gov/general/contact)
 
 * Menu
     
