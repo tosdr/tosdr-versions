@@ -23,31 +23,31 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![BT unit took servers offline after Black Basta ransomware breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        BT unit took servers offline after Black Basta ransomware breach](https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/)
-    * [![Solana Web3.js library backdoored to steal secret, private keys](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Solana Web3.js library backdoored to steal secret, private keys](https://www.bleepingcomputer.com/news/security/solana-web3js-library-backdoored-to-steal-secret-private-keys/)
-    * [![Vodka maker Stoli files for bankruptcy in US after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
-    * [![US shares tips to block hackers behind recent telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
-    
-    * [![Police shuts down Manson cybercrime market, arrests key suspects](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Police shuts down Manson cybercrime market, arrests key suspects](https://www.bleepingcomputer.com/news/security/police-shuts-down-manson-cybercrime-market-fake-shops-arrests-key-suspects/)
     * [![New Android spyware found on phone seized by Russian FSB](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         New Android spyware found on phone seized by Russian FSB](https://www.bleepingcomputer.com/news/security/new-android-spyware-found-on-phone-seized-by-russian-fsb/)
-    * [![Latrodectus malware and how to defend against it with Wazuh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft says having a TPM is ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Latrodectus malware and how to defend against it with Wazuh](https://www.bleepingcomputer.com/news/security/latrodectus-malware-and-how-to-defend-against-it-with-wazuh/)
-    * [![Create clear and concise diagrams with this Microsoft Visio deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
+    * [![White House: Salt Typhoon hacked telcos in dozens of countries](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Create clear and concise diagrams with this Microsoft Visio deal](https://www.bleepingcomputer.com/offer/deals/create-clear-and-concise-diagrams-with-this-microsoft-visio-deal/)
+        White House: Salt Typhoon hacked telcos in dozens of countries](https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/)
+    * [![Vodka maker Stoli files for bankruptcy in US after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
+    
+    * [![Nebraska Man pleads guilty to dumb cryptojacking operation](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Nebraska Man pleads guilty to dumb cryptojacking operation](https://www.bleepingcomputer.com/news/security/nebraska-man-cp3o-pleads-guilty-to-dumb-cryptojacking-operation/)
+    * [![Romania's election systems targeted in over 85,000 cyberattacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
+    * [![U.S. org suffered four month intrusion by Chinese hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        U.S. org suffered four month intrusion by Chinese hackers](https://www.bleepingcomputer.com/news/security/us-org-suffered-four-month-intrusion-by-chinese-hackers/)
+    * [![US arrests Scattered Spider suspect linked to telecom hacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        US arrests Scattered Spider suspect linked to telecom hacks](https://www.bleepingcomputer.com/news/security/us-arrests-scattered-spider-suspect-linked-to-telecom-hacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
