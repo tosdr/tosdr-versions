@@ -85,6 +85,7 @@
     [Newsroom](http://corporate.exxonmobil.com/news)
     
     * * [News releases](http://corporate.exxonmobil.com/news/news-releases)
+        * [Publications](http://corporate.exxonmobil.com/sustainability-and-reports)
         * [Viewpoints](http://corporate.exxonmobil.com/news/viewpoints)
         * [Subscription center](http://corporate.exxonmobil.com/news/subscribe)
     
@@ -330,7 +331,7 @@ We reserve the right to change this Privacy Policy at any time without notice. W
 * [Subscribe](http://corporate.exxonmobil.com/news/subscribe)
 
 *   [![Facebook](/-/media/global/icons/footer/social/fb-gray.svg) ![Facebook](/-/media/global/icons/footer/social/fb-white.svg) Facebook](https://www.facebook.com/ExxonMobil/)
-*   [![Twitter](/-/media/global/icons/footer/social/tw-gray.svg) ![Twitter](/-/media/global/icons/footer/social/tw-white.svg) Twitter](https://twitter.com/exxonmobil)
+*   [![X logo](/-/media/global/icons/footer/social/x-logo-gray.png) ![X logo](/-/media/global/icons/footer/social/x-logo-white.png) X logo](https://twitter.com/exxonmobil)
 *   [![LinkedIn](/-/media/global/icons/footer/social/in-gray.svg) ![LinkedIn](/-/media/global/icons/footer/social/in-white.svg) LinkedIn](https://www.linkedin.com/company/exxonmobil/)
 *   [![Instagram](/-/media/global/icons/footer/social/ig-gray.svg) ![Instagram](/-/media/global/icons/footer/social/ig-white.svg) Instagram](https://www.instagram.com/exxonmobil/)
 *   [![YouTube](/-/media/global/icons/footer/social/yt-gray.svg) ![YouTube](/-/media/global/icons/footer/social/yt-white.svg) YouTube](http://www.youtube.com/user/exxonmobil)
