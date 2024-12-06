@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/fe641c5b-7479-4c0c-a54a-46cceffe1564/20241205T121043/fe641c5b-7479-4c0c-a54a-46cceffe1564_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Cool weather and rain chances incoming | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Cool Weather and Rain Chances Last into the Weekend | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,7 +97,7 @@ Navigation
 
 Bryan, TX »
 
-54°
+46°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
