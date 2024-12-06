@@ -8,16 +8,16 @@ Most popular programs
 
 * [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75)
     
-    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=2ae597ff-aef6-44aa-a6c9-6bd5ed84a518)
+    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=9b28b2df-5b6b-4a0f-8b0d-4d823a68e143)
 * [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75)
     
-    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=fdea7293-0aeb-46de-847b-0a52f1810229)
+    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=52d6e596-4ae6-4a39-9d10-7c427f2ab5a8)
 * [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75)
     
-    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=7d10ec9e-5c41-41da-9556-696b602f11e1)
+    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=8e44bf78-6785-43d0-8d9c-e081ce68514c)
 * [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75)
     
-    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=96797f96-608a-4eab-b85f-e82a2ab38997)
+    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=3d02f13c-6c1d-41b2-b14e-c8b7133d12d0)
 
 Trending now
 
@@ -251,7 +251,7 @@ Welcome, and thank you for your interest in edX LLC (a [2U, LLC](https://2u.com/
     edX LLC  
     Attn: edX Legal Department  
     2345 Crystal Drive  
-    Suite 100  
+    Suite 1100  
     Arlington, VA 22202  
     Email: legal@edx.org  
     
@@ -270,7 +270,7 @@ Welcome, and thank you for your interest in edX LLC (a [2U, LLC](https://2u.com/
     
     12.4
     
-    Repeat Infringers. edX's policy is to: (a)remove or disable access to material that edX believes in good faith, upon notice from an intellectual property rights owner or authorized agent, is infringing the intellectual property rights of a third party by being made available through the Service; and (b) in appropriate circumstances, to terminate the Account of and block access to the Service by any user who repeatedly or egregiously infringes other people's copyright or other intellectual property rights. edX will terminate the Account of any user that is determined by edX to be repeat infringers. edX reserves the right, however, to suspend or terminate Accounts of users in our sole discretion.
+    Repeat Infringers. edX's policy is to: (a) remove or disable access to material that edX believes in good faith, upon notice from an intellectual property rights owner or authorized agent, is infringing the intellectual property rights of a third party by being made available through the Service; and (b) in appropriate circumstances, to terminate the Account of and block access to the Service by any user who repeatedly or egregiously infringes other people's copyright or other intellectual property rights. edX will terminate the Account of any user that is determined by edX to be repeat infringers. edX reserves the right, however, to suspend or terminate Accounts of users in our sole discretion.
     
     12.5
     
