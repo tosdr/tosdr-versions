@@ -595,6 +595,7 @@ Browse
         * [Shop by Brand](https://www.maplin.co.uk/collections/car)
         * [Maplin](https://www.maplin.co.uk/collections/maplin)
         * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+        * [Road Angel](https://www.maplin.co.uk/collections/road-angel)
         * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
         * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
         * [Transcend](https://www.maplin.co.uk/collections/transcend)
@@ -1393,6 +1394,7 @@ Browse
     
     * [Maplin](https://www.maplin.co.uk/collections/maplin)
     * [Ring Automotive](https://www.maplin.co.uk/collections/ring-automotive)
+    * [Road Angel](https://www.maplin.co.uk/collections/road-angel)
     * [ALOGIC](https://www.maplin.co.uk/collections/alogic)
     * [OtterBox](https://www.maplin.co.uk/collections/otterbox)
     * [Transcend](https://www.maplin.co.uk/collections/transcend)
