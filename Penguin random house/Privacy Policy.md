@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
-    
-    Browse All Our Lists, Essays, and Interviews
-    
-    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
-
-* * *
-
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
-    
-    How To Read More in 2024
-    
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
-
-* * *
-
 * [![New Stories to Listen to](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/25164626/Audio_December_1200x628.jpg)
     
     New Stories to Listen to
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-in-audio/)
+
+* * *
+
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2023/12/08132549/PRH_Site_1200x628_DEC2024.jpg)
+    
+    New Releases
+    
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-december/)
+
+* * *
+
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
