@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:40pm |
-| Wont Let GoRascal Flatts<br><br>3:58pm |
-| Pretty Little PoisonWarren Zeiders<br><br>3:39pm |
-| Crash My PartyLuke Bryan<br><br>3:35pm |
-| Prayed For YouMatt Stell<br><br>3:29pm |
+| Til You Can'TCody Johnson<br><br>10:37pm |
+| Ain'T No Love In OklahomaLuke Combs<br><br>10:33pm |
+| Famous FriendsChris Young And Kane Brown<br><br>10:22pm |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:19pm |
+| Friends Like ThatJohn Morgan Ft Jason Aldean<br><br>10:16pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-Sports • Midwest
+Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
+News Talk • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
