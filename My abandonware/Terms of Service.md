@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Wolfie's Music Games](https://www.myabandonware.com/game/wolfie-s-music-games-tfk)
+* [Salad Scribble](https://www.myabandonware.com/game/salad-scribble-tfj)
+* [Paul's Classroom Math](https://www.myabandonware.com/game/paul-s-classroom-math-tfi)
 * [Lugnut Math City](https://www.myabandonware.com/game/lugnut-math-city-tfh)
 * [Googolpede](https://www.myabandonware.com/game/googolpede-tfg)
-* [Googol Review](https://www.myabandonware.com/game/googol-review-tff)
-* [Googol Math Games](https://www.myabandonware.com/game/googol-math-games-tfe)
-* [Cheezi](https://www.myabandonware.com/game/cheezi-tfd)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
