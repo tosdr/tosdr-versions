@@ -11,7 +11,7 @@ EMEA EN
 
 EMEA EN
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/02/Printronix-Logo-white.png)](https://printronix.com/emea/)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzODkgNjInPjwvc3ZnPg==)](https://printronix.com/emea/)
 
 * [Printers](#)
     * [Printer Consumables](https://printronix.com/emea/printer-consumables/)
@@ -252,7 +252,7 @@ PCM eCOS 2.0+
 [**EMEA Ordering Terms and Conditions**](https://printronix.com/legal-compliance/emea-terms-of-sale/)  
 [**Asia Pacific Ordering Terms and Conditions**](https://printronix.com/legal-compliance/asia-pacific-terms-of-sale/)
 
-[![Logo](https://printronix.com/emea/wp-content/uploads/sites/2/2023/03/Printronix-logo.png)](https://printronix.com/emea)
+[![Logo](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzODkgNjInPjwvc3ZnPg==)](https://printronix.com/emea)
 
 [](https://fb.openinapp.co/printronix)
 
@@ -321,11 +321,11 @@ SearchSubmitClear
 
 ###### Americas
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/USA-.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-English](https://printronix.com/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Mexico.png)
+English](https://printronix.com/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Español](https://printronix.com/es/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Brazil1.png)
+Español](https://printronix.com/es/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjYgMTI2Jz48L3N2Zz4=)
 
 Português](https://printronix.com/pt-br/)
 
@@ -333,7 +333,7 @@ Português](https://printronix.com/pt-br/)
 
 ###### Asia
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/earth-asia-1.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjggMTI4Jz48L3N2Zz4=)
 
 English](https://printronix.com/asia/)
 
@@ -341,7 +341,7 @@ English](https://printronix.com/asia/)
 
 ###### INDIA
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/India.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 English](https://printronix.com/india/)
 
@@ -349,19 +349,19 @@ English](https://printronix.com/india/)
 
 ###### China
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/China.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 中文](http://printronix.cn/)
 
 ###### EMEA
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/united-kingdom-1.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNTYgMjU2Jz48L3N2Zz4=)
 
-English](https://printronix.com/emea/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/France.png)
+English](https://printronix.com/emea/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Français](https://printronix.com/emea/fr/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Germany.png)
+Français](https://printronix.com/emea/fr/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Deutsch](https://printronix.com/emea/de/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Italy.png)
+Deutsch](https://printronix.com/emea/de/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 Italiano](https://printronix.com/emea/it/)
 
@@ -369,11 +369,11 @@ SearchSubmitClear
 
 ###### Americas
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/USA-.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-English](https://printronix.com/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Mexico.png)
+English](https://printronix.com/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Español](https://printronix.com/es/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Brazil.png)
+Español](https://printronix.com/es/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjYgMTI2Jz48L3N2Zz4=)
 
 Português](https://printronix.com/pt-br/)
 
@@ -381,13 +381,13 @@ Português](https://printronix.com/pt-br/)
 
 ###### EMEA
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/united-kingdom.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNTYgMjU2Jz48L3N2Zz4=)
 
-English](https://printronix.com/emea/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/France.png)
+English](https://printronix.com/emea/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Français](https://printronix.com/emea/fr/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Germany.png)
+Français](https://printronix.com/emea/fr/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
-Deutsch](https://printronix.com/emea/de/)[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/Italy.png)
+Deutsch](https://printronix.com/emea/de/)[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 Italiano](https://printronix.com/emea/it/)
 
@@ -395,7 +395,7 @@ Italiano](https://printronix.com/emea/it/)
 
 ###### Asia
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/earth-asia.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMjggMTI4Jz48L3N2Zz4=)
 
 English](https://printronix.com/asia/)
 
@@ -403,7 +403,7 @@ English](https://printronix.com/asia/)
 
 ###### INDIA
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/India.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 English](https://printronix.com/india/)
 
@@ -411,11 +411,11 @@ English](https://printronix.com/india/)
 
 ###### CHINA
 
-[![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/12/China.png)
+[![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCA1MiA1Mic+PC9zdmc+)
 
 中文](http://printronix.cn/)
 
-![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/03/Printronix-logo.png)
+![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzODkgNjInPjwvc3ZnPg==)
 
 * * *
 
@@ -483,7 +483,7 @@ English](https://printronix.com/india/)
 
 * * *
 
-![Image](https://printronix.com/emea/wp-content/uploads/sites/2/2023/03/Printronix-logo.png)
+![Image](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzODkgNjInPjwvc3ZnPg==)
 
 * * *
 
@@ -549,4 +549,4 @@ English](https://printronix.com/india/)
     * [Contact Us](https://printronix.com/emea/contact-us/)
 * [Store](https://eu-store.printronix.com/)
 
-* [![](https://printronix.com/emea/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.svg)English](https://printronix.com/emea/legal-compliance/)
+* [![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAwIDAnPjwvc3ZnPg==)English](https://printronix.com/emea/legal-compliance/)
