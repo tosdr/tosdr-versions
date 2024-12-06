@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/02/James-Tolbert-326x245.jpg)](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
-
-Loop
-
-### [Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
-
-[December 3, 2024 11:08 AM](https://cwbchicago.com/2024/12)
-
-A serial shoplifter accused of stealing merchandise 12 times after being released from jail when Illinois eliminated cash bail last year has been given a nine-year prison sentence.[](https://cwbchicago.com/2024/12/man-who-shoplifted-12-times-after-being-freed-by-safe-t-act-gets-9-year-sentence.html "Man who shoplifted 12 times after being freed by SAFE-T Act gets 9-year sentence")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/JH523475-2400-blk-north-clark-041A-326x245.jpg)](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
-
-Lincoln Park
-
-### [Man shot in Lincoln Park last week has died](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
-
-[December 3, 2024 4:16 AM](https://cwbchicago.com/2024/12)
-
-The man shot on a busy Lincoln Park street last week died on Monday afternoon, according to the Cook County Medical Examiner’s Office, which identified the victim as Alexander Nesteruk, 34, of Wheaton.[](https://cwbchicago.com/2024/12/man-shot-in-lincoln-park-last-week-has-died.html "Man shot in Lincoln Park last week has died")
-
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Michael-Valentine-326x245.jpg)](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Diante-Speed-and-Shane-Colombo-326x245.jpg)](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
 
 Citywide
 
-### [Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
+### [60 years for murdering Northwestern student who had only been in Chicago 4 hours](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
 
-[December 2, 2024 12:41 PM](https://cwbchicago.com/2024/12)
+[December 3, 2024 6:45 PM](https://cwbchicago.com/2024/12)
 
-A man accused of robbing a U.S. Postal Service mail carrier has been given a four-year sentence. Michael Valentine, 38, received a concurrent four-year sentence for using the postal worker’s master key to steal mail in Rogers Park.[](https://cwbchicago.com/2024/12/man-get-4-years-for-robbing-postal-worker-of-master-key-and-using-it-to-steal-mail-in-rogers-park.html "Man gets 4 years for robbing postal worker of master key and using it to steal mail in Rogers Park")
+A judge on Tuesday sentenced a man to 60 years in prison for murdering a Northwestern University doctoral student just six hours after the victim moved to Chicago on September 2, 2018.[](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/JH523475-suspect-326x245.jpg)](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+
+Lincoln Park
+
+### [Recognize him? Police release photos of gunman in fatal Lincoln Park shooting](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+
+[December 3, 2024 6:01 PM](https://cwbchicago.com/2024/12)
+
+Police on Tuesday evening released surveillance images of the man suspected of fatally shooting another man on a Lincoln Park sidewalk last week.[](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Whitney-Wilcox-326x245.jpg)](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
+
+West Rogers Park
+
+### [Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
+
+[December 3, 2024 4:25 PM](https://cwbchicago.com/2024/12)
+
+A North Side woman, handcuffed by Chicago cops after fatally stabbing her boyfriend, ordered her Google device to play several songs so she could dance in the couple’s living room while waiting to be taken to Area Three police headquarters, prosecutors alleged Tuesday.[](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
 
 Search
 
