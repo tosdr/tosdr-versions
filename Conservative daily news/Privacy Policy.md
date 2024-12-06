@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Michigan Man Mistakes Special Needs Granddaughter For Burglar And Shoots Her](https://www.thegunpage.com/michigan-man-mistakes-special-needs-granddaughter-for-burglar-and-shoots-her/10612328)
+* [Velocity Systems Reintroduces HK417 Chest Rig](https://www.thegunpage.com/velocity-systems-reintroduces-hk417-chest-rig/10612329)
+* [Why Are Gun-Ban Groups Embracing The Radical Trans Agenda?](https://www.thegunpage.com/why-are-gun-ban-groups-embracing-the-radical-trans-agenda/10612325)
+* [Army Ups Reward For Stolen Pistols, NVG, To $15,000](https://www.thegunpage.com/army-ups-reward-for-stolen-pistols-nvg-to-15000/10612330)
+* [CRPA Legal Update: Oral Arguments Heard in Rhode v. Bonta Case](https://www.thegunpage.com/crpa-legal-update-oral-arguments-heard-in-rhode-v-bonta-case/10612324)
 * [Skilled Assassin or Lucky Killer? LE and Experienced Shooters Aren’t Sure](https://www.thegunpage.com/skilled-assassin-or-lucky-killer-le-and-experienced-shooters-arent-sure/10612321)
 * [WATCH: Labradar LX Compact Shooting Chronograph](https://www.thegunpage.com/watch-labradar-lx-compact-shooting-chronograph/10612309)
 * [All About The 2024 Area 7 Steel Challenge Championship](https://www.thegunpage.com/all-about-the-2024-area-7-steel-challenge-championship/10612323)
 * [Best Hunting Shotguns For Every Hunter](https://www.thegunpage.com/best-hunting-shotguns-for-every-hunter/10612319)
 * [POTD: Kenya Defence Forces With FN SCAR](https://www.thegunpage.com/potd-kenya-defence-forces-with-fn-scar/10612320)
-* [Concealed Carry Corner: Gift Ideas For Concealed Carriers](https://www.thegunpage.com/concealed-carry-corner-gift-ideas-for-concealed-carriers/10612317)
-* [A Closer Look At The Murder Of Brian Thompson](https://www.thegunpage.com/a-closer-look-at-the-murder-of-brian-thompson/10612318)
-* [Hawke Adds Frontier 30 FD L4A and LRX Optics](https://www.thegunpage.com/hawke-adds-frontier-30-fd-l4a-and-lrx-optics/10612315)
-* [Doctors’ Voices Could Be Loudest Ones Yet in Move to Deregulate Suppressors](https://www.thegunpage.com/doctors-voices-could-be-loudest-ones-yet-in-move-to-deregulate-suppressors/10612310)
-* [Beretta Launches A300 Ultima Snow Goose](https://www.thegunpage.com/beretta-launches-a300-ultima-snow-goose/10612316)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
