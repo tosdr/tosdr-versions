@@ -183,6 +183,7 @@ Recent Posts
 
 * [Skilled Assassin or Lucky Killer? LE and Experienced Shooters Aren’t Sure](https://www.thegunpage.com/skilled-assassin-or-lucky-killer-le-and-experienced-shooters-arent-sure/10612321)
 * [WATCH: Labradar LX Compact Shooting Chronograph](https://www.thegunpage.com/watch-labradar-lx-compact-shooting-chronograph/10612309)
+* [All About The 2024 Area 7 Steel Challenge Championship](https://www.thegunpage.com/all-about-the-2024-area-7-steel-challenge-championship/10612323)
 * [Best Hunting Shotguns For Every Hunter](https://www.thegunpage.com/best-hunting-shotguns-for-every-hunter/10612319)
 * [POTD: Kenya Defence Forces With FN SCAR](https://www.thegunpage.com/potd-kenya-defence-forces-with-fn-scar/10612320)
 * [Concealed Carry Corner: Gift Ideas For Concealed Carriers](https://www.thegunpage.com/concealed-carry-corner-gift-ideas-for-concealed-carriers/10612317)
@@ -190,7 +191,6 @@ Recent Posts
 * [Hawke Adds Frontier 30 FD L4A and LRX Optics](https://www.thegunpage.com/hawke-adds-frontier-30-fd-l4a-and-lrx-optics/10612315)
 * [Doctors’ Voices Could Be Loudest Ones Yet in Move to Deregulate Suppressors](https://www.thegunpage.com/doctors-voices-could-be-loudest-ones-yet-in-move-to-deregulate-suppressors/10612310)
 * [Beretta Launches A300 Ultima Snow Goose](https://www.thegunpage.com/beretta-launches-a300-ultima-snow-goose/10612316)
-* [New Jersey Police May Be Required To Alert Feds When Illegal Immigrants Apply For Gun Permits](https://www.thegunpage.com/new-jersey-police-may-be-required-to-alert-feds-when-illegal-immigrants-apply-for-gun-permits/10612305)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
