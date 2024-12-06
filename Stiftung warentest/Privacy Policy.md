@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 
 test.de entdecken
 
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Warn­liste: Van Tilburg Consultancy ist Fake](https://www.test.de/Warnliste-Van-Tilburg-Consultancy-ist-Fake-5964196-0/ "Warnliste - Van Tilburg Consultancy ist Fake")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 
 test.de entdecken
 
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Warn­liste: Van Tilburg Consultancy ist Fake](https://www.test.de/Warnliste-Van-Tilburg-Consultancy-ist-Fake-5964196-0/ "Warnliste - Van Tilburg Consultancy ist Fake")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 
 test.de entdecken
 
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Warn­liste: Van Tilburg Consultancy ist Fake](https://www.test.de/Warnliste-Van-Tilburg-Consultancy-ist-Fake-5964196-0/ "Warnliste - Van Tilburg Consultancy ist Fake")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Neueste Tests
 
+* [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
 
 test.de entdecken
 
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Milch­aufschäumer im Test: Gute und schlechte Schaum­schläger](https://www.test.de/Milchaufschaeumer-im-Test-Gute-und-schlechte-Schaumschlaeger-6166383-0/ "Milchaufschäumer im Test - Gute und schlechte Schaumschläger")
-* [bel-finanz.de: Dubioses Fest­geld](https://www.test.de/bel-finanzde-Dubioses-Festgeld-6051673-0/ "bel-finanz.de - Dubioses Festgeld")
-* [Warn­liste: Van Tilburg Consultancy ist Fake](https://www.test.de/Warnliste-Van-Tilburg-Consultancy-ist-Fake-5964196-0/ "Warnliste - Van Tilburg Consultancy ist Fake")
-* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
-* [Gut essen mit der Stiftung Warentest: Côte de Bœuf mit Pilzen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Cte-de-Buf-mit-Pilzen-5991048-0/ "Gut essen mit der Stiftung Warentest - Côte de Bœuf mit Pilzen")
+* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
+* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
+* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Stiftung Warentest
 
