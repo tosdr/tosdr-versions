@@ -1199,6 +1199,7 @@
                     * [ ]  [US Public Sector Services team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services/)
                 * [ ]  [Production Engineering Foundations Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/foundations/)
                 * [ ]  [Production Engineering Ops Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/)
+                    * [ ]  [Disaster Recovery Practice (DR Gamedays)](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/dr-practice/)
                     * [ ]  [EOC Onboarding Buddies](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/sre-oncall-onboarding-buddy/)
                     * [ ]  [EOC Shadow and EOC Buddy Expectations](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/on-call-shadowing/)
                     * [ ]  [On-call handover](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/on-call-handover/)
