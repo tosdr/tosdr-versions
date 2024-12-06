@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=116877777)  
-Lizzy Pop PTY(Ltd)
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=9615505)  
+TIGERDSL
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=9826430)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=118376317)  
+Bchange Online CC
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=164157364)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=34791044)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=38162922)  
+Wiselink Broadband Vryheid
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=155629119)  
+Tiny Cuddles Photography
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=81570327)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=205359666)  
+Dombieterfontein (PTY) LTD
+
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=45421301)  
+Sarabi
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=69028826)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=69827408)  
 MONSTER SECURITY SERVICES
 
-![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=83260244)  
-CHARLIEX CONSTRUCTIONS
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=59423785)  
+LEO DEVELOPMENT GROUP
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=35738385)  
-Konsortium Operations (PTY) LTD
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=206097100)  
+AquariumSmiths
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=80649213)  
-OrgChart Hosting Pty Ltd
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=11117742)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=113994392)  
-Blue Sky Solar Services
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=80512437)  
-Oukraal Merino's
-
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=33805562)  
-BEE SURE CONSULTING (PTY) LTD
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=103518694)  
-Creative Characters
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=194587511)  
-TechnoDezi PTY(LTD)
-
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=44881463)  
-Well Hung Art
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=163101945)  
-MONSTER SECURITY GUARDING
-
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=164143556)  
-Kaylas Creations
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=76793486)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=7d30bcff52c5fdbcdb3cb1990b113bc48c9ec7b00577db56d70b51605199a25a&c=169894104)  
-Moremi Kitchens Rustenburg
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=0e6b04b082e03d3f3dedd454e83e370205bc0f93fbe41f180461015808cecbc3&c=177241475)  
+Abandoned Vehicle and Truck Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
