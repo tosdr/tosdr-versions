@@ -20,6 +20,26 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+    
+    ### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+    
+    ### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+    
+    [![Cherry Gardens residents enjoying the annual outing.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_9564-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
+    
+    ### [Bermondsey residents enjoy free pantomime trip](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
+    
+    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/comment-anti-social-behaviour-is-a-police-numbers-game/)
+    
+    ### [Comment: Anti-social behaviour is a police numbers game](https://southwarknews.co.uk/area/southwark/comment-anti-social-behaviour-is-a-police-numbers-game/)
+    
+    [![The 'very thin' dog was found dead at Whitehorse Road Recreation Ground in Croydon (RSPCA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-13.12-360x180.jpg)](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+    
+    ### [RSPCA appeals for information after ‘very thin’ dog found dead in a south London park](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+    
     [![The Hilton 1751 Distillery Bar and Kitchen on Tooley Street, Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/12/More-London-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
     
     ### [Southwark launches specialist training for locals interested in hospitality industry](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
@@ -35,26 +55,6 @@
     [![Camberwell Old Cemetery](https://southwarknews.co.uk/wp-content/uploads/2024/12/camberwelll-cemetery-360x180.jpg)](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
     
     ### [Cost of dying to increase as Southwark Council looks at burial charges](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
-    
-    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-Walworth-Society-excitedly-posted-this-photo-of-the-coverings-removed-from-the-historic-building.-Credit-The-Walworth-Society-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
-    
-    ### [Walworth history to be told through song and entertainment at free event tomorrow](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
-    
-    [![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
-    
-    ### [‘I can’t believe it’s still going’: Locals share their love for the famous Christmas lights house in Walworth](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
-    
-    [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
-    
-    ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
-    
-    [![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-360x180.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
-    
-    ### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
-    
-    [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
-    
-    ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,26 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+    
+    ### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+    
+    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+    
+    ### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+    
+    [![Cherry Gardens residents enjoying the annual outing.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_9564-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
+    
+    ### [Bermondsey residents enjoy free pantomime trip](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
+    
+    [![Police responding to an incident in Burgess Park](https://southwarknews.co.uk/wp-content/uploads/2024/10/WhatsApp-Image-2024-09-06-at-11.41.35-e1728900286598-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/comment-anti-social-behaviour-is-a-police-numbers-game/)
+    
+    ### [Comment: Anti-social behaviour is a police numbers game](https://southwarknews.co.uk/area/southwark/comment-anti-social-behaviour-is-a-police-numbers-game/)
+    
+    [![The 'very thin' dog was found dead at Whitehorse Road Recreation Ground in Croydon (RSPCA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-13.12-360x180.jpg)](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+    
+    ### [RSPCA appeals for information after ‘very thin’ dog found dead in a south London park](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+    
     [![The Hilton 1751 Distillery Bar and Kitchen on Tooley Street, Bermondsey](https://southwarknews.co.uk/wp-content/uploads/2024/12/More-London-1-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
     
     ### [Southwark launches specialist training for locals interested in hospitality industry](https://southwarknews.co.uk/area/southwark/southwark-launches-specialist-training-for-locals-interested-in-hospitality-industry/)
@@ -120,26 +140,6 @@ View All Result
     [![Camberwell Old Cemetery](https://southwarknews.co.uk/wp-content/uploads/2024/12/camberwelll-cemetery-360x180.jpg)](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
     
     ### [Cost of dying to increase as Southwark Council looks at burial charges](https://southwarknews.co.uk/area/southwark/cost-of-dying-to-increase-as-southwark-council-looks-at-burial-charges/)
-    
-    [![The Walworth Society excitedly posted this photo of the coverings removed from the historic building. Credit: The Walworth Society](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-Walworth-Society-excitedly-posted-this-photo-of-the-coverings-removed-from-the-historic-building.-Credit-The-Walworth-Society-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
-    
-    ### [Walworth history to be told through song and entertainment at free event tomorrow](https://southwarknews.co.uk/area/walworth/walworth-history-to-be-told-through-song-and-entertainment-at-free-event-tomorrow/)
-    
-    [![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
-    
-    ### [‘I can’t believe it’s still going’: Locals share their love for the famous Christmas lights house in Walworth](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
-    
-    [![British Transport Police would like to speak with this man in connection with an incident at Waterloo station](https://southwarknews.co.uk/wp-content/uploads/2024/12/Waterloo-appeal-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/)
-    
-    ### [Police tracing man after alleged sexual assault in Waterloo](https://southwarknews.co.uk/area/waterloo/police-tracing-man-after-alleged-sexual-assault-in-waterloo/) 
-    
-    [![Lilyanne Hook (MPS Lewisham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-14.55-360x180.jpg)](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
-    
-    ### [Lewisham teenage girl with links to Peckham missing for over two weeks](https://southwarknews.co.uk/area/peckham/lewisham-teenage-girl-with-links-to-peckham-missing-for-over-two-weeks/)
-    
-    [![The judgement was handed down at Clerkenwell and Shoreditch County Court and Family Court (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-04-12-2024-at-12.37-360x180.jpg)](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
-    
-    ### [Walworth tenant ordered to repay £40k after decade-long illegal subletting scam](https://southwarknews.co.uk/area/walworth/walworth-tenant-ordered-to-repay-40k-after-decade-long-illegal-subletting-scam/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -223,17 +223,17 @@ Terms of Use
 
 [3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-[![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
-### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
-[1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
-
 [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 [2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
+
+### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
+
+[1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 [![Hutchinson limps off the field against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/S-Hutchinson-2828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
 
@@ -242,6 +242,24 @@ Terms of Use
 [30th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
 
 ### Featured Articles
+
+[![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+
+### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+
+[6th December 2024](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+
+### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+
+[6th December 2024](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
+
+[![The 'very thin' dog was found dead at Whitehorse Road Recreation Ground in Croydon (RSPCA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-13.12-120x86.jpg)](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+
+### [RSPCA appeals for information after ‘very thin’ dog found dead in a south London park](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
+
+[6th December 2024](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
 
 [![Gunaltay, Alex and Donna Mustafa. (credit: Isabel Ramirez)](https://southwarknews.co.uk/wp-content/uploads/2024/12/dji_mimo_20241203_171014_20241203171014_1733317914879_photo-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/i-cant-believe-its-still-going-locals-share-their-love-for-the-famous-christmas-lights-house-in-walworth/)
 
@@ -260,24 +278,6 @@ Terms of Use
 ### [Acclaimed funeral directors to host heartwarming annual Christmas service this evening](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
 
 [4th December 2024](https://southwarknews.co.uk/area/rotherhithe/acclaimed-funeral-directors-to-host-heartwarming-annual-christmas-service-tomorrow/)
-
-[![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-[3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
-
-[![The Disused flats on Newcomen Street.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-03-12-2024-at-10.48-120x86.jpg)](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-
-### [Five people taken to hospital after fire ‘destroys’ flats in Borough](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-
-[3rd December 2024](https://southwarknews.co.uk/area/borough/five-people-taken-to-hospital-after-fire-destroys-flats-in-borough/)
-
-[![Liz Sanya, 21, surrounded by her fluffy creations.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_0635-3-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-
-### [Walworth girl’s viral fluffy clogs catch the attention of retail giant ASOS](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
-
-[2nd December 2024](https://southwarknews.co.uk/area/walworth/walworth-girls-viral-fluffy-clogs-catch-the-attention-of-retail-giant-asos/)
 
 ### USEFUL PAGES
 
