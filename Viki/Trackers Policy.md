@@ -2,115 +2,115 @@
 * * [Community](https://contribute.viki.com/)
     * [Apps](https://www.viki.com/apps)
     
-    [Sign up](https://www.viki.com/sign-up)[Log in](https://www.viki.com/sign-in)
+    Sign upLog in
     
 
 * 
 
-* [Log in](https://www.viki.com/sign-in)
-* [Create Account](https://www.viki.com/sign-up)
-* [](https://www.viki.com/sign-in)
+* Log in
+* Create Account
+
 * 
 
-Cookie Policy
--------------
+Politique relative aux cookies
+------------------------------
 
-Last updated: 1 April 2021
+Dernière mise à jour: 1 avril 2021
 
-Thank you for using **Rakuten Viki**!
+Merci d’utiliser **Rakuten Viki**!
 
-Viki, Inc. provides you with an interactive platform that allows you to access television shows, movies and other content, interact with other users and be part of an online community where you may provide subtitles for our content (“**Rakuten Viki**”, “**We**”, “**Our**” and/or “**Us**”).
+Viki, Inc. vous propose une plateforme interactive qui vous permet d’accéder à des émissions télévisées, des films et autres contenus, d’interagir avec d’autres utilisateurs et de faire partie d’une communauté en ligne au sein de laquelle vous pouvez fournir des sous-titres pour nos contenus («**Rakuten Viki**», «**Nous**», «**Notre**» et/ou «**Nos**»).
 
-Rakuten Viki is part of the Rakuten group, which includes the affiliates and subsidiaries of Our parent company Rakuten Group, Inc., based in Tokyo, Japan. More information about Rakuten is available at [https://global.rakuten.com/corp/about/company](https://global.rakuten.com/corp/about/company) (“**Rakuten Group**”).
+Rakuten Viki appartient au groupe Rakuten, qui comprend les filiales et affiliées de notre société mère Rakuten Group, Inc., basée à Tokyo, au Japon. Vous trouverez plus d’informations sur Rakuten à l’adresse [https://global.rakuten.com/corp/about/company](https://global.rakuten.com/corp/about/company) («**Groupe Rakuten**»).
 
-This Cookie Policy describes what cookies are used on the [www.viki.com](https://www.viki.com/) domain operated by Rakuten Viki (the “**Site**”), why they are used and how you can control their use.
+La présente Politique relative aux cookies décrit les cookies utilisés sur le domaine [www.viki.com](https://www.viki.com/legal/www.viki.com) exploité par Rakuten Viki (le «**Site**»), les raisons pour lesquelles ils sont utilisés et la manière dont vous pouvez contrôler leur utilisation.
 
-Please read this Cookie Policy, Our [Privacy Policy](https://www.viki.com/legal/privacy) and Our [Terms Of Use](https://www.viki.com/legal/terms_of_use) carefully (collectively, Our “**Agreements**”). By accessing or using the Site, you acknowledge and agree you have read and understood Our Agreements.
+Veuillez lire la présente Politique relative aux cookies, notre [Politique de confidentialité](https://www.viki.com/legal/privacy) et nos [Conditions d’utilisation](https://www.viki.com/legal/terms_of_use) avec attention (collectivement, nos «**Conditions**»). En accédant ou en utilisant le Site, vous reconnaissez avoir lu et compris nos Conditions.
 
-1. **WHAT ARE COOKIES?**
+1. **QUE SONT LES COOKIES ?**
     
-    Cookies are small text files that websites often store on computer hard drives or mobile devices of visitors. Cookies are used to recognize visitors, enhance your user experience, personalize users' experience if you return to the Site, deliver and tailor marketing and advertising, and generally to improve the Sites and the services provided.
+    Les cookies sont de petits fichiers texte que les sites Internet stockent souvent sur les disques durs ou les appareils mobiles des visiteurs. Les cookies sont utilisés pour identifier les visiteurs, améliorer votre expérience utilisateur et la personnaliser si vous revenez sur le Site, pour livrer et adapter aussi bien le marketing que la publicité, ainsi que généralement pour améliorer les Sites et les services fournis.
     
-2. **WHAT TYPE OF COOKIES DOES RAKUTEN VIKI USE?**
+2. **QUEL TYPE DE COOKIES RAKUTEN VIKI UTILISE-T-ELLE ?**
     
-    **Strictly necessary cookies:**
+    **Les cookies strictement nécessaires :**
     
-    Our Site uses first party cookies (i.e. cookies set directly by Us to your device) as well as cookies served by third parties that are strictly necessary. These are essential cookies providing authentication and let you move around the Site and use its features, such as accessing secure areas of the Site. You cannot object to these cookies as certain services cannot be provided to you without these cookies.
+    Notre Site utilise des cookies internes (c.-à-d. des cookies placés directement par Nous sur votre appareil) ainsi que des cookies de tierces parties qui sont strictement nécessaires. Ce sont des cookies essentiels qui vous identifient et vous permettent de vous déplacer sur le Site et d’utiliser ses fonctionnalités, par exemple en accédant aux zones sécurités du Site. Vous ne pouvez pas vous opposer à ces cookies, car ils sont indispensables à la fourniture de certains services.
     
-    **Cookies to improve your user experience:**
+    **Les cookies qui améliorent votre expérience utilisateur :**
     
-    Our Site uses first party cookies as well as cookies served by third parties and can be used to recognize your computer or mobile device when it visits other websites. Third party cookies are most commonly used for website analytics or advertising purposes. Some of the cookies the Site uses only remain on your device while your browser is open (these cookies are known as 'session cookies'), while others remain for longer periods (these are known as 'permanent cookies').
+    Notre site emploie des cookies internes, ainsi que des cookies fournis par des tierces parties, qui peuvent être employés pour reconnaître votre ordinateur ou appareil mobile lors de la consultation d’autres sites. Les cookies de tierces parties sont le plus souvent utilisés à des fins d’analyse de sites ou de publicité. Certains des cookies que le Site utilise ne restent sur votre appareil que lorsque votre navigateur est ouvert (ces cookies sont désignés comme des ‘cookies de session’), tandis que d’autres y restent pour des périodes plus longues (ils sont désignés comme des ‘cookies permanents’).
     
-3. **HOW IS RAKUTEN VIKI USING COOKIES?**
+3. **COMMENT RAKUTEN VIKI UTILISE-T-ELLE LES COOKIES ?**
     
-    The table below describes what cookies are used on Our Site. The cookies that We use may change from time to time as Our Site evolves. However, they generally fall into the below categories of use:
+    Le tableau ci-dessous décrit les cookies qui sont utilisés sur notre Site. Les cookies que Nous utilisons peuvent changer de temps à autre en raison de la modification de Notre Site. Cependant, ils appartiennent généralement aux catégories d’utilisation suivantes :
     
-    | Category of Use | Description |
+    | Catégorie d’utilisation | Description |
     | --- | --- |
-    | Authentication | We use cookies to verify your account and personalize your experience (e.g. these cookies can help Us keep you logged in as you navigate between webpages). |
-    | Security | We use cookies to enable Our security features and to help Us detect activities that violate Our policies (e.g. these cookies can help Us prevent spam and fraud, and maintain the security of our Site). |
-    | Site Preferences, Features and Provision of Services | We use cookies to provide you with the features and intended user experience of the Site (e.g. these cookies can help Us with user language preferences, video watch markers, video player setting and preferences, and payment). |
-    | Advertising and Remarketing | We and Our advertising partners may collect information using cookies to help make the advertising you see on the Site and elsewhere on the internet more relevant to you, and to measure the effectiveness of the advertising on the Site (e.g. these cookies can help Us and Our advertising partners show you useful and relevant ads more effectively). |
-    | Social Media | We use cookies that are set by a range of social media services that We have added to Our Site to enable you to share Our content with your friends and networks. They are capable of tracking your browser across other sites. This may impact the content and messages you see on other websites you visit (e.g. these cookies can help the social media services build a profile of your interests). |
-    | Performance, Analytics and Research | We use cookies to collect information on how the Site is used and to report on the Site usage statistics for the improvement of Our services (e.g. these cookies can help Us count visits, page views, traffic sources, and better understand how you and other users use Our Site, and identify features that could be improved). |
+    | Authentification | Nous utilisons des cookies pour vérifier votre compte et personnaliser votre expérience (par ex., ces cookies Nous permettent de maintenir votre compte connecté lorsque vous naviguez entre les pages du Site). |
+    | Sécurité | Nous utilisons des cookies pour activer Nos fonctionnalités de sécurité et Nous aider à détecter des activités qui enfreignent Nos politiques (par ex., ces cookies peuvent Nous permettre d’empêcher le spam, la fraude et de maintenir la sécurité du Site). |
+    | Préférences du site, fonctionnalités et prestation de Services | Nous utilisons des cookies pour vous fournir les fonctionnalités et l’expérience utilisateur souhaitée sur le Site (par ex., ces cookies peuvent Nous aider avec les préférences de langage de l’utilisateur, les marqueurs de visionnage de vidéo, le réglage et les préférences de lecteur vidéo et le paiement). |
+    | Publicité et Reciblage | Nous et Nos partenaires publicitaires pouvons collecter des informations grâce à des cookies pour rendre la publicité que vous voyez sur le Site et ailleurs sur Internet plus pertinente pour vous et pour mesurer l’efficacité de la publicité sur le Site (par ex., ces cookies Nous permettent, à nous et à nos partenaires publicitaires, de vous montrer des publicités utiles et pertinentes plus efficacement). |
+    | Réseaux sociaux | Nous utilisons des cookies définis par une gamme de services de réseaux sociaux que Nous avons ajoutés à Notre Site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils peuvent suivre votre navigateur sur d’autres sites, ce qui peut avoir un impact sur le contenu et les messages que vous voyez sur d’autres sites Web que vous consultez (par ex., ces cookies peuvent aider les services des réseaux sociaux à établir un profil de vos intérêts). |
+    | Performance, analyse et recherche | Nous utilisons des cookies pour collecter des informations sur la manière dont le Site est utilisé et pour établir des rapports concernant les statistiques d’utilisation du Site en vue d’améliorer Nos services (par ex., ces cookies Nous permettent de compter les visites, les affichages de pages et les sources de trafic, de mieux comprendre comment vous et d’autres utilisateurs utilisez Notre Site, ainsi que d’identifier les fonctionnalités à améliorer). |
     
-    Please find below a table describing some of the third-party cookies on Our Site (the “Table”).
+    Vous trouverez ci-dessous un tableau décrivant certains des cookies tiers sur nos Sites (le «**Tableau**»).
     
-    Please note, We are not responsible for third-party sites and their privacy practices; however, you may obtain information on their policies and practices, and in some instances opt-out of certain activities, as shown in the Table.
+    Veuillez noter que Nous ne sommes pas responsables des sites tiers et de leurs pratiques en matière de confidentialité. Cependant, vous pouvez obtenir des informations sur leurs politiques et pratiques présentées dans le Tableau et, dans certains cas, refuser certaines activités.
     
-    The Table may be updated from time to time, as the number and names of cookies may change.
+    Le Tableau peut être mis à jour de temps à autre, car le nombre et les noms des cookies peuvent changer.
     
-    | Cookie Name | Expiration | Service | Purpose | Opt-Out |
+    | Nom du cookie | Expiration | Service | Objet | De désengager |
     | --- | --- | --- | --- | --- |
-    | fbsr\_145730428798132;<br><br>fr;<br><br>\_fbp | 365 days;<br><br>3 months;<br><br>90 days | Facebook, Facebook In-Stream Video Ads, Facebook Native Ads | Login Functionality, Advertising and Remarketing | [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) |
-    | G\_AUTHUSER\_H;<br><br>G\_ENABLED\_IDPS;<br><br>\_ga;<br><br>\_gat\_\*;<br><br>\_gid;<br><br>\_gcl\_au;<br><br>cto\_bundle;<br><br>cto\_tld\_test;<br><br>NID;<br><br>cto\_write\_test;<br><br>test\_cookie;<br><br>IDE;<br><br>\_gat\_\*;<br><br>S;<br><br>GoogleAdServingTest;<br><br>\_\_Secure-3PSIDCC;<br><br>\_\_Secure-3PAPISID;<br><br>SAPISID;<br><br>APISID;<br><br>SSID;<br><br>HSID;<br><br>SIDCC;<br><br>SID;<br><br>\_\_Secure-3PSID;<br><br>\_GRECAPTCHA;<br><br>GED\_PLAYLIST\_ACTIVITY;<br><br>\_\_gads;<br><br>DSID;<br><br>\_\_ar\_v4 | Session;<br><br>8 years;<br><br>2 years;<br><br>1 min;<br><br>24 hours;<br><br>90 days;<br><br>390 days;<br><br>1 day;<br><br>2 years;<br><br>1 day;<br><br>2914647 days;<br><br>365 days;<br><br>1 min;<br><br>1 hour;<br><br>Session;<br><br>1 year;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>2 years;<br><br>1 year;<br><br>2 years;<br><br>2 years;<br><br>180 days;<br><br>Session;<br><br>\_\_gads;<br><br>2 weeks;<br><br>1 year | Google; Google Analytics | Login Functionality, Performance Analytics and Research, Advertising and Remarketing | [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
-    | muxData | 7300 days | Mux | Content streaming | [https://mux.com/privacy](https://mux.com/privacy) |
-    | \_\_stripe\_sid;<br><br>\_\_stripe\_mid;<br><br>m | 30 mins;<br><br>365 days;<br><br>2 years | Stripe | Payment processing | [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal) |
-    | gtm\_id | 365 days | Intercom | Performance Analytics and Research | [https://www.intercom.com/legal/cookie-policy](https://www.intercom.com/legal/cookie-policy) |
-    | browser\_data | 390 days | dnacdn.net | Performance Analytics and Research |     |
-    | personalization\_id;<br><br>lang | 2 years;<br><br>1 year | Twitter | Social Media | [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
-    | disqus\_unique;<br><br>\_\_jid | 1 year;<br><br>30 mins | Disqus | Social Media | [https://help.disqus.com/en/articles/1717155-use-of-cookies](https://help.disqus.com/en/articles/1717155-use-of-cookies) |
-    | ab.storage.sessionId.<api\_key>;<br><br>ab.storage.userId.<api\_key> | 365 days;<br><br>365 days | Braze | Advertising and Remarketing | [https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.](https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.) |
-    | uuid2;<br><br>anj;<br><br>icu; | 90 days;<br><br>90 days;<br><br>90 days; | Xandr (AppNexus) | Advertising and Remarketing | [https://www.xandr.com/privacy/cookie-policy/](https://www.xandr.com/privacy/cookie-policy/) |
-    | tluid | 90 days | TripleLift | Advertising and Remarketing | [https://triplelift.com/cookie-policy/](https://triplelift.com/cookie-policy/) |
-    | \_\_adroll\_shared;<br><br>\_\_adroll\_fpc;<br><br>\_\_adroll | 395 days;<br><br>365 days;<br><br>395 days | AdRoll | Advertising and Remarketing | [https://www.nextroll.com/privacy](https://www.nextroll.com/privacy) |
-    | APID | 365 days | VerizonMedia | Advertising and Remarketing | [https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.](https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.) |
-    | tuuid\_lu;<br><br>tuuid;<br><br>c | 365 days;<br><br>365 days;<br><br>365 days | Bidswitch | Advertising and Remarketing | [https://www.bidswitch.com/cookie-statement/](https://www.bidswitch.com/cookie-statement/) |
-    | CMID;<br><br>CMST;<br><br>CMDD;<br><br>CMPS;<br><br>CMRUM3;<br><br>CMPRO | 365 days;<br><br>24 hours;<br><br>24 hours;<br><br>90 days;<br><br>365 days;<br><br>90 days | Casale Media | Advertising and Remarketing | [https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.](https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.) |
-    | rmuid;<br><br>Icts | 365 days;<br><br>365 days | Rakuten Advertising | Advertising and Remarketing | [https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.](https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.) |
-    | i;<br><br>pd;<br><br>univ\_id | 365 days;<br><br>15 days;<br><br>15 days | OpenX | Advertising and Remarketing | [https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.](https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.) |
-    | adrl;<br><br>obuid;<br><br>cookieJartestCookie | 30 days;<br><br>90 days;<br><br>1 day | Outbrain | Advertising and Remarketing | [https://www.outbrain.com/legal/privacy#cookies](https://www.outbrain.com/legal/privacy#cookies) |
-    | PugT;<br><br>SPugT;<br><br>PUBMDCID;<br><br>KADUSERCOOKIE;<br><br>KTPCACOOKIE;<br><br>chkChromeAb67Sec;<br><br>DPSync3;<br><br>SyncRTB3;<br><br>KRTBCOOKIE\_\* | 30 days;<br><br>30 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>90 days;<br><br>30 days, 400 days | Pubmatic | Advertising and Remarketing | [https://pubmatic.com/legal/platform-cookie-policy/](https://pubmatic.com/legal/platform-cookie-policy/) |
-    | mc;<br><br>d;<br><br>\_\_qca | 395 days;<br><br>90 days;<br><br>392 days | Quantcast | Advertising and Remarketing | [https://www.quantcast.com/faq/quantcast-services/](https://www.quantcast.com/faq/quantcast-services/) |
-    | rlas3;<br><br>pxrc | 365 days;<br><br>60 days | TowerData (pka Rapleaf) | Advertising and Remarketing | [https://www.towerdata.com/privacy-policy](https://www.towerdata.com/privacy-policy) |
-    | audit;<br><br>khaos;<br><br>rsid;<br><br>ses15;<br><br>vis15 | 365 days;<br><br>365 days;<br><br>Session;<br><br>10 mins;<br><br>10 mins | Rubicon Project | Advertising and Remarketing | [https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/](https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/) |
-    | t\_gid | 365 days | Taboola | Advertising and Remarketing | [https://www.taboola.com/policies/cookie-policy](https://www.taboola.com/policies/cookie-policy) |
-    | APIDTS;<br><br>APID;<br><br>A3;<br><br>IDSYNC | 24 hours;<br><br>288 days;<br><br>365 days;<br><br>365 days | Yahoo | Advertising and Remarketing | [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.) |
-    | \_\_cfduid;<br><br>\_\_cf\_bm;<br><br>\_\_cfruid;<br><br>\_zendesk\_session;<br><br>\_help\_center\_session;<br><br>\_zendesk\_authenticated;<br><br>\_zendesk\_shared\_session;<br><br>\_zendesk\_cookie | 30 days;<br><br>30 days;<br><br>Session;<br><br>Session;<br><br>Session;<br><br>8 hours;<br><br>8 hours;<br><br>20 years | Zendesk | Customer Support | [https://www.zendesk.com/company/policies-procedures/cookie-policy/](https://www.zendesk.com/company/policies-procedures/cookie-policy/) |
+    | fbsr\_145730428798132;<br><br>fr;<br><br>\_fbp | 365 jours ;<br><br>3 months ;<br><br>90 jours | Facebook, Facebook In-Stream Video Ads, Facebook Native Ads | Fonctionnalité de connexion, Publicité et Ciblage | [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) |
+    | G\_AUTHUSER\_H;<br><br>G\_ENABLED\_IDPS ;<br><br>\_ga;<br><br>\_gat\_\*;<br><br>\_gid;<br><br>\_gcl\_au;<br><br>cto\_bundle;<br><br>cto\_tld\_test;<br><br>NID;<br><br>cto\_write\_test;<br><br>test\_cookie;<br><br>IDE;<br><br>\_gat\_\*;<br><br>S ;<br><br>GoogleAdServingTest;<br><br>\_\_Secure-3PSIDCC;<br><br>\_\_Secure-3PAPISID;<br><br>SAPISID;<br><br>APISID;<br><br>SSID;<br><br>HSID;<br><br>SIDCC;<br><br>SID;<br><br>\_\_Secure-3PSID;<br><br>\_GRECAPTCHA;<br><br>GED\_PLAYLIST\_ACTIVITY;<br><br>\_\_gads ;<br><br>DSID;<br><br>\_\_ar\_v4 | Session ;<br><br>8 années ;<br><br>2 années ;<br><br>1 min ;<br><br>24 heures ;<br><br>90 jours ;<br><br>390 jours ;<br><br>1 jour ;<br><br>2 années ;<br><br>1 jour ;<br><br>2914647 jours ;<br><br>365 jours ;<br><br>1 min ;<br><br>1 hour;<br><br>Session ;<br><br>1 année ;<br><br>2 années ;<br><br>2 années ;<br><br>2 années ;<br><br>2 années ;<br><br>2 années ;<br><br>1 année ;<br><br>2 années ;<br><br>2 années ;<br><br>180 jours ;<br><br>Session ;<br><br>390 jours;<br><br>2 semaines ;<br><br>1 année | Google; Google Analytics | Fonctionnalité de connexion, Performance, analyse et recherche, Publicité et Ciblage | [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads) |
+    | muxData | 7300 jours | Mux | Streaming de contenu | [https://mux.com/privacy](https://mux.com/privacy) |
+    | \_\_stripe\_sid;<br><br>\_\_stripe\_mid;<br><br>m | 30 mins ;<br><br>365 jours ;<br><br>2 années | Stripe | Prise en charge des paiements | [https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal) |
+    | gtm\_id | 365 jours | Intercom | Performance, analyse et recherche | [https://www.intercom.com/legal/cookie-policy](https://www.intercom.com/legal/cookie-policy) |
+    | browser\_data | 390 jours | dnacdn.net | Performance, analyse et recherche |     |
+    | personalization\_id;<br><br>lang | 2 années ;<br><br>1 année | Twitter | Réseaux sociaux | [https://help.twitter.com/en/rules-and-policies/twitter-cookies](https://help.twitter.com/en/rules-and-policies/twitter-cookies) |
+    | disqus\_unique;<br><br>\_\_jid | 1 année ;<br><br>30 mins | Disqus | Réseaux sociaux | [https://help.disqus.com/en/articles/1717155-use-of-cookies](https://help.disqus.com/en/articles/1717155-use-of-cookies) |
+    | ab.storage.sessionId.<api\_key>;<br><br>ab.storage.userId.<api\_key> | 365 jours ;<br><br>365 jours | Braze | Publicité et Ciblage | [https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.](https://www.braze.com/company/legal/cookies#:~:text=At%20Braze%2C%20some%20cookies%20are,website%20and%20support%20our%20business.) |
+    | uuid2;<br><br>anj;<br><br>icu; | 90 jours ;<br><br>90 jours ;<br><br>90 jours ; | Xandr (AppNexus) | Publicité et Ciblage | [https://www.xandr.com/privacy/cookie-policy/](https://www.xandr.com/privacy/cookie-policy/) |
+    | tluid | 90 jours | TripleLift | Publicité et Ciblage | [https://triplelift.com/cookie-policy/](https://triplelift.com/cookie-policy/) |
+    | \_\_adroll\_shared;<br><br>\_\_adroll\_fpc;<br><br>\_\_adroll | 395 jours ;<br><br>365 jours ;<br><br>395 jours | AdRoll | Publicité et Ciblage | [https://www.nextroll.com/privacy](https://www.nextroll.com/privacy) |
+    | APID | 365 jours | VerizonMedia | Publicité et Ciblage | [https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.](https://www.verizonmedia.com/policies/ie/en/verizonmedia/privacy/cookies/index.html#:~:text=Verizon%20Media%20uses%20cookies%20and,for%20a%20range%20of%20purposes.) |
+    | tuuid\_lu;<br><br>tuuid;<br><br>c | 365 jours ;<br><br>365 jours ;<br><br>365 jours | Bidswitch | Publicité et Ciblage | [https://www.bidswitch.com/cookie-statement/](https://www.bidswitch.com/cookie-statement/) |
+    | CMID;<br><br>CMST;<br><br>CMDD;<br><br>CMPS ;<br><br>CMRUM3;<br><br>CMPRO | 365 jours ;<br><br>24 heures ;<br><br>24 heures ;<br><br>90 jours ;<br><br>365 jours ;<br><br>90 jours | Casale Media | Publicité et Ciblage | [https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.](https://casalemedia.com/#:~:text=The%20Casale%20Media%20Online%20Advertising%20Exchange%20(Index)%20uses%20cookies%20for,information%20about%20an%20Internet%20user.) |
+    | rmuid;<br><br>Icts | 365 jours ;<br><br>365 jours | Rakuten Advertising | Publicité et Ciblage | [https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.](https://rakutenadvertising.com/legal-notices/cookie-policy/#:~:text=Advertising%20cookies%20are%20used%20to,effectiveness%20of%20the%20advertising%20campaign.) |
+    | i;<br><br>pd;<br><br>univ\_id | 365 jours ;<br><br>15 jours ;<br><br>15 jours | OpenX | Publicité et Ciblage | [https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.](https://www.openx.com/legal/privacy-policy/#:~:text=Some%20browsers%20block%20third%2Dparty,party%20cookies%20before%20opting%20out.&text=Using%20the%20browser%20cache%20or,use%20of%20third%2Dparty%20cookies.) |
+    | adrl;<br><br>obuid;<br><br>cookieJartestCookie | 30 jours ;<br><br>90 jours ;<br><br>1 jour | Outbrain | Publicité et Ciblage | [https://www.outbrain.com/legal/privacy#cookies](https://www.outbrain.com/legal/privacy#cookies) |
+    | PugT;<br><br>SPugT;<br><br>PUBMDCID;<br><br>KADUSERCOOKIE;<br><br>KTPCACOOKIE;<br><br>chkChromeAb67Sec;<br><br>DPSync3;<br><br>SyncRTB3;<br><br>KRTBCOOKIE\_\* | 30 jours ;<br><br>30 jours ;<br><br>90 jours ;<br><br>90 jours ;<br><br>90 jours ;<br><br>90 jours ;<br><br>90 jours ;<br><br>90 jours ;<br><br>30 jours, 400 jours | Pubmatic | Publicité et Ciblage | [https://pubmatic.com/legal/platform-cookie-policy/](https://pubmatic.com/legal/platform-cookie-policy/) |
+    | mc;<br><br>d;<br><br>\_\_qca | 395 jours ;<br><br>90 jours ;<br><br>392 jours | Quantcast | Publicité et Ciblage | [https://www.quantcast.com/faq/quantcast-services/](https://www.quantcast.com/faq/quantcast-services/) |
+    | rlas3;<br><br>pxrc | 365 jours ;<br><br>60 jours | TowerData (pka Rapleaf) | Publicité et Ciblage | [https://www.towerdata.com/privacy-policy](https://www.towerdata.com/privacy-policy) |
+    | audit;<br><br>khaos ;<br><br>rsid;<br><br>ses15;<br><br>vis15 | 365 jours ;<br><br>365 jours ;<br><br>Session ;<br><br>10 mins ;<br><br>10 mins | Rubicon Project | Publicité et Ciblage | [https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/](https://rubiconproject.com/rubicon-project-advertising-technology-privacy-policy/platform-cookie-statement/) |
+    | t\_gid | 365 jours | Taboola | Publicité et Ciblage | [https://www.taboola.com/policies/cookie-policy](https://www.taboola.com/policies/cookie-policy) |
+    | APIDTS ;<br><br>APID;<br><br>A3;<br><br>IDSYNC | 24 heures ;<br><br>288 jours ;<br><br>365 jours ;<br><br>365 jours | Yahoo | Publicité et Ciblage | [https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.](https://policies.yahoo.com/ie/en/yahoo/privacy/topics/cookies/index.htm/#:~:text=Yahoo%20may%20use%20cookies%20and,a%20Yahoo%20product%20or%20service.) |
+    | \_\_cfduid;<br><br>\_\_cf\_bm;<br><br>\_\_cfruid;<br><br>\_zendesk\_session ;<br><br>\_help\_center\_session ;<br><br>\_zendesk\_authenticated;<br><br>\_zendesk\_shared\_session ;<br><br>\_zendesk\_cookie | 30 jours ;<br><br>30 jours ;<br><br>Session ;<br><br>Session ;<br><br>Session ;<br><br>8 heures ;<br><br>8 heures ;<br><br>20 années | Zendesk | Service client | [https://www.zendesk.com/company/policies-procedures/cookie-policy/](https://www.zendesk.com/company/policies-procedures/cookie-policy/) |
     
-4. **DOES RAKUTEN VIKI RESPOND TO 'DO NOT TRACK' SIGNALS?**
+4. **RAKUTEN VIKI RÉPOND-ELLE AUX SIGNAUX ‘NE PAS SUIVRE’ ?**
     
-    Rakuten Viki does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+    Rakuten Viki ne prend actuellement pas de mesures pour répondre aux signaux Ne pas suivre, car aucune norme technologique uniforme n’a encore été développée. Nous continuons à examiner de nouvelles technologies et pourrions adopter une norme une fois que celle-ci sera créée.
     
-5. **WHAT TO DO IF YOU DO NOT WANT COOKIES TO BE SET OR WANT THEM TO BE REMOVED?**
+5. **QUE FAIRE SI VOUS NE SOUHAITEZ PAS QUE LES COOKIES SOIENT MIS EN PLACE OU SOUHAITEZ QU’ILS SOIENT RETIRÉS ?**
     
-    If you do not want the Site to collect information through the use of cookies, you can set your web browser to reject cookies from the Site. Each browser is different, so you should check your browser or device's “Help” menu to learn how to change your cookie preferences.
+    Si vous ne voulez pas que le Site collecte des informations par le biais de l’utilisation de cookies, vous pouvez configurer votre navigateur pour rejeter les cookies du Site. Chaque navigateur est différent, aussi vous devriez vérifier le menu “Aide” de votre navigateur ou de votre appareil pour savoir comment modifier vos préférences de cookies.
     
-    You may also disable analytics for mobile applications from the settings screen on your mobile device. In addition, you can manage and delete cookies placed by internet based advertising companies through [Digital Advertising Alliance](http://optout.aboutads.info/?c=2#!/) in the US, or [All About Cookies](http://www.allaboutcookies.org/) or [Your Online Choices](https://www.youronlinechoices.eu/) in the EU. In addition, you can change your device settings, on your iPhone, iPad or Android, to control whether you see online internet based ads.
+    Vous pouvez également désactiver l’analyse des applications mobiles à partir de l’écran des paramètres sur votre appareil mobile. En outre, vous pouvez gérer et supprimer les cookies placés par des sociétés de publicité sur Internet via [l’Alliance pour l’éthique en publicité](http://optout.aboutads.info/?c=2#!/) aux États-Unis, ou via les sites [All about Cookies](http://www.allaboutcookies.org/) ou [Your Online Choices](https://www.youronlinechoices.eu/) au sein de l’UE. Enfin, vous pouvez modifier les paramètres de votre appareil sur votre iPhone, iPad ou Android pour contrôler l’affichage de publicités Internet en ligne.
     
-    You should note that if you reject or block cookies from the Site, the Site may not function as intended. For example, We may not be able to store your preferences or login information or customize the content to your viewing habits.
+    Veuillez noter que si vous rejetez ou bloquez des cookies du Site, celui-ci risque de ne pas fonctionner comme prévu. Par exemple, il se peut que Nous ne puissions pas stocker vos préférences ou informations de connexion ou adapter le contenu à vos habitudes d’affichage.
     
-6. **CHANGES TO THIS COOKIE POLICY**
+6. **MODIFICATIONS APPORTÉES À LA PRÉSENTE POLITIQUE RELATIVE AUX COOKIES**
     
-    From time to time, We may update this Cookie Policy in order to reflect changes, such as changes to the cookies We use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about Our use of cookies and related technologies.
+    De temps à autre, Nous pouvons mettre à jour la présente Politique relative aux cookies afin de refléter des changements, tels que les modifications apportées aux cookies que nous utilisons ou pour d’autres raisons opérationnelles, légales ou réglementaires. Veuillez consulter régulièrement la présente Politique relative aux cookies pour rester informé de Notre utilisation des cookies et des technologies de suivi.
     
-    The date at the top of this Cookie Policy indicates when it was last updated.
+    La date mentionnée au début de la présente Politique relative aux cookies indique la dernière mise à jour.
     
-7. **CONTACT US**
+7. **NOUS CONTACTER**
     
-    If you have questions or comments regarding this Cookie Policy, please contact Us at [https://support.viki.com/hc/en-us](https://support.viki.com/hc/en-us).
+    Si vous avez des questions ou des commentaires concernant la présente Politique relative aux cookies, veuillez Nous contacter à l’adresse : [https://support.viki.com/hc/fr](https://support.viki.com/hc/fr).
     
-    You may also reach Us by physical mail at the following address:
+    Vous pouvez également Nous contacter par courrier à l’adresse suivante :
     
     **Viki, Inc**  
     Attention: Cookie Policy/ Legal Department  
