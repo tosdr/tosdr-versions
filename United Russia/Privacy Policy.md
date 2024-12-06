@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://cdn.er.ru/media/news/December2024/dEQxMMIVrmP0NFSBgGq2-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
+
+[Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
+
+[#Двойных](https://er.ru/activity/news?tags%5B0%5D=44332) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#почтальоны](https://er.ru/activity/news?tags%5B0%5D=7918) [#почта](https://er.ru/activity/news?tags%5B0%5D=17973) [#сельскиетерритории](https://er.ru/activity/news?tags%5B0%5D=121383) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 14:10
+
+[![«Единая Россия» инициирует внесение изменений в законодательство, направленное на формирование единой системы контроля качества медицинской помощи в системе ОМС и вне её](https://cdn.er.ru/media/news/December2024/534y8gAaHqzKP6T5fcp9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-iniciiruet-vnesenie-izmenenij-v-zakonodatelstvo-napravlennoe-na-formirovanie-edinoj-sistemy-kontrolya-kachestva-medicinskoj-pomoshi-v-sisteme-oms-i-vne-eyo)
+
+[«Единая Россия» инициирует внесение изменений в законодательство, направленное на формирование единой системы контроля качества медицинской помощи в системе ОМС и вне её](https://er.ru/activity/news/edinaya-rossiya-iniciiruet-vnesenie-izmenenij-v-zakonodatelstvo-napravlennoe-na-formirovanie-edinoj-sistemy-kontrolya-kachestva-medicinskoj-pomoshi-v-sisteme-oms-i-vne-eyo)
+
+[#ОМС](https://er.ru/activity/news?tags%5B0%5D=6147) [#страхование](https://er.ru/activity/news?tags%5B0%5D=1224) [#Проценко](https://er.ru/activity/news?tags%5B0%5D=36534) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312)
+
+Сегодня 13:00
+
+[![В Москве при поддержке «Единой России» прошёл Всероссийский фестиваль спортивной борьбы «Борьба — в школу»](https://cdn.er.ru/media/news/December2024/JMBMvUJNxj0W3qeKOTbS-small.JPG)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-vserossijskij-festival-sportivnoj-borby-borba-v-shkolu)
+
+[В Москве при поддержке «Единой России» прошёл Всероссийский фестиваль спортивной борьбы «Борьба — в школу»](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-vserossijskij-festival-sportivnoj-borby-borba-v-shkolu)
+
+[#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Детскийспорт](https://er.ru/activity/news?tags%5B0%5D=122062) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#спортивнаяборьба](https://er.ru/activity/news?tags%5B0%5D=124250) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 12:30
+
 [![«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://cdn.er.ru/media/news/December2024/IHcLC8XqdSWpfHpsnyXO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
 
 [«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
@@ -322,30 +346,6 @@
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579)
 
 Сегодня 08:00
-
-[![Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://cdn.er.ru/media/news/December2024/roRgYs2ZLjACI4P1HggJ-small.jpg)](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
-
-[Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
-
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#губернатор](https://er.ru/activity/news?tags%5B0%5D=1092859)
-
-05.12.24
-
-[![«Единая Россия» организует постоянный мониторинг за исполнением новых национальных проектов на основе обратной связи от жителей](https://cdn.er.ru/media/news/December2024/n7lf97uAhsyqunwfxSGP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-organizuet-postoyannyj-monitoring-za-ispolneniem-novyh-nacionalnyh-proektov-na-osnove-obratnoj-svyazi-ot-zhitelej)
-
-[«Единая Россия» организует постоянный мониторинг за исполнением новых национальных проектов на основе обратной связи от жителей](https://er.ru/activity/news/edinaya-rossiya-organizuet-postoyannyj-monitoring-za-ispolneniem-novyh-nacionalnyh-proektov-na-osnove-obratnoj-svyazi-ot-zhitelej)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#мониторинг](https://er.ru/activity/news?tags%5B0%5D=5385) [#нацпроекты](https://er.ru/activity/news?tags%5B0%5D=127007) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
-
-05.12.24
-
-[![Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://cdn.er.ru/media/news/December2024/phm4ZEVADDq4NE6ArQK8-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
-
-[Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
-
-05.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
