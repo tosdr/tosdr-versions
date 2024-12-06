@@ -294,7 +294,7 @@ privacyquestions@cleanbrowsing.org
 
 [Chat with us](https://www.livechat.com/chat-with/11097037/), powered by [LiveChat](https://www.livechat.com/?welcome)
 
-We use anonymized analytics tools (Google Analytics and Plausible) to improve your experience and understand site usage. All data is anonymized. Learn more in our [Privacy Policy](https://cleanbrowsing.org/privacy-policy).
+We use anonymized analytics tools (Google Analytics and Plausible) to improve your experience and understand site usage. All data is anonymized. Learn more in our [Privacy Policy](https://cleanbrowsing.org/privacy).
 
 Accept All Manage Preferences
 
