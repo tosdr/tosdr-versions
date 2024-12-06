@@ -22,6 +22,7 @@ International Arcade Museum® — Killer List of Videogames®
         * [Trade Stim.](https://www.arcade-museum.com/game-list/A/Trade-Stim)
         * [Vending](https://www.arcade-museum.com/game-list/A/Vending)
         * [Unknown](https://www.arcade-museum.com/game-list/A/Unknown)
+    * [List by Genre](https://www.arcade-museum.com/genres)
     * [List by Manufacturers (A-Z)](https://www.arcade-museum.com/companies/0)
     * [List by Years](https://www.arcade-museum.com/decade/1970/All)
     * [Flyers](#)
