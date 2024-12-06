@@ -40,7 +40,7 @@ Search
     
     New: Bundle
     
-    [UGC](https://embedsocial.com/blog/what-is-user-generated-content/) and Reviews platform for only $64/month
+    Complete platform for only $64/month.
     
     [Explore](https://embedsocial.com/bundle/)
     
@@ -55,16 +55,17 @@ Search
     * [Squarespace](https://embedsocial.com/instagram-widget/squarespace/ "Squarespace")
     * [Webflow](https://embedsocial.com/instagram-widget/webflow/ "Webflow")
     * [Weebly](https://embedsocial.com/instagram-widget/weebly/ "Weebly")
+    * [Duda](https://embedsocial.com/blog/instagram-feed-duda/ "Duda")
     * [Wix](https://embedsocial.com/instagram-widget/wix/ "Wix")
     
-    Free widgets
+    [**Free widgets** ↗Browse free widgets](https://embedsocial.com/p/templates/feed/category/free)
     
     * [Free Instagram Stories Widget](https://embedsocial.com/free-instagram-stories-widget/ "Free Instagram Stories Widget")
     * [Free Instagram Feed Widget](https://embedsocial.com/free-instagram-widget/ "Free Instagram Feed Widget")
     * [Free Social Media Aggregator](https://embedsocial.com/products/free-social-media-aggregator/ "Free Social Media Aggregator")
     * [Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
-    [**Reviews widgets ↗**Reviews management](https://embedsocial.com/products/reviews/)
+    [**Reviews widgets ↗**Display social reviews](https://embedsocial.com/p/templates/reviews)
     
     *  [![google icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
@@ -99,9 +100,9 @@ Search
         ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews](https://embedsocial.com/trustpilot-reviews-widget/ "Trustpilot Reviews")
     * [![Tripadvisor logo](https://embedsocial.com/wp-content/uploads/2024/12/tripadvisor-logo.svg)Tripadvisor Reviews](https://embedsocial.com/help/en/articles/7986509-how-to-import-and-embed-tripadvisor-reviews "Tripadvisor Reviews")
     
-    [**Feed widgets ↗**Social media aggregator](https://embedsocial.com/social-media-aggregator/)
+    [**Feed widgets ↗**Display social media feeds](https://embedsocial.com/p/templates/feed)
     
-    * [Shoppable Widget](https://embedsocial.com/shoppable-widget/ "Shoppable Widget")
+    * [![Shoppable widget logo](https://embedsocial.com/wp-content/uploads/2024/12/shopping-logo.svg)Shoppable Widget](https://embedsocial.com/shoppable-widget/ "Shoppable Widget")
     *  [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![LinkedIn Widget](https://embedsocial.com/wp-content/uploads/2023/08/linkedin-logo-menu.png)LinkedIn Feed](https://embedsocial.com/linkedin-widget/ "LinkedIn Feed")
@@ -146,51 +147,55 @@ Search
     
 * [Templates](https://embedsocial.com/p/templates/ "Templates")
     
-    Story Widgets Templates
+    [**Instagram stories widgets ↗**Browse 10+ Instagram stories widgets](https://embedsocial.com/p/templates/feed/category/tiktok)
     
     * [Instagram Stories Slider](https://embedsocial.com/p/templates/classic-instagram-stories-and-posts-slider-widget "Instagram Stories Slider")
     * [Instagram Stories Popover](https://embedsocial.com/p/templates/instagram-stories-and-posts-popup-widget "Instagram Stories Popover")
     * [Instagram Stories Shop](https://embedsocial.com/p/templates/instagram-stories-shop-widget "Instagram Stories Shop")
     * [Instagram Posts & Stories Slider](https://embedsocial.com/p/templates/classic-instagram-stories-and-posts-slider-widget "Instagram Posts & Stories Slider")
-    * [More Stories Widgets ↗](https://embedsocial.com/p/templates/feed/category/instagram-stories "More Stories Widgets ↗")
+    * [Instagram Stories Autoplay Videos](https://embedsocial.com/p/templates/instagram-stories-autoplay-slider "Instagram Stories Autoplay Videos")
+    
+    [**Facebook reviews widgets ↗**Browse 18 Facebook reviews widgets](https://embedsocial.com/p/templates/reviews/category/facebook)
     
     * [Facebook Reviews Grid](https://embedsocial.com/p/templates/classic-facebook-reviews-feed-widget "Facebook Reviews Grid")
     * [Facebook Reviews Table](https://embedsocial.com/p/templates/facebook-testimonial-table-widget "Facebook Reviews Table")
     * [Facebook Reviews Slider](https://embedsocial.com/p/templates/classic-facebook-reviews-slider-widget "Facebook Reviews Slider")
     * [Facebook Wall of Love](https://embedsocial.com/p/templates/rainbow-wall-of-love "Facebook Wall of Love")
     * [Social Media Recommendations](https://embedsocial.com/p/templates/social-media-recommendations-widget "Social Media Recommendations")
-    * [Facebook Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/facebook "Facebook Reviews Widgets ↗")
     
-    [Reviews Widgets](https://embedsocial.com/reviews-badges/) Templates
+    [**Reviews feed templates ↗**Browse 60+ reviews widgets](https://embedsocial.com/p/templates/reviews)
     
-    * [Shoppable Google Reviews](http://Shoppable%20Google%20Reviews%20Widget "Shoppable Google Reviews")
     * [Google Reviews Grid](https://embedsocial.com/p/templates/classic-google-reviews-feed-widget "Google Reviews Grid")
     * [Google Reviews Slider](https://embedsocial.com/p/templates/modern-google-reviews-slider-widget "Google Reviews Slider")
-    * [Google Reviews Carousel](https://embedsocial.com/p/templates/classic-google-reviews-slider-widget "Google Reviews Carousel")
+    * [Google Reviews Photo Slider](https://embedsocial.com/p/templates/google-reviews-photo-slider "Google Reviews Photo Slider")
     * [Google Reviews Popup](https://embedsocial.com/p/templates/latest-google-reviews-popup-widget "Google Reviews Popup")
-    * [Google Reviews Drawer](https://embedsocial.com/p/templates/google-reviews-slider-with-drawer-popover "Google Reviews Drawer")
-    * [Google Reviews Wall of Love](https://embedsocial.com/p/templates/wall-of-love "Google Reviews Wall of Love")
-    * [Google Reviews Avatars Badge](https://embedsocial.com/p/templates/collect-google-reviews-badge "Google Reviews Avatars Badge")
     * [Google Reviews for Shops](https://embedsocial.com/p/templates/google-reviews-widget-for-shopify-shops "Google Reviews for Shops")
+    * [Shoppable Google Reviews](http://Shoppable%20Google%20Reviews%20Widget "Shoppable Google Reviews")
+    * [Google Reviews Drawer](https://embedsocial.com/p/templates/google-reviews-slider-with-drawer-popover "Google Reviews Drawer")
+    * [Google Reviews Avatars Badge](https://embedsocial.com/p/templates/collect-google-reviews-badge "Google Reviews Avatars Badge")
+    * [Dark Reviews Badge](https://embedsocial.com/p/templates/floating-dark-social-media-reviews-badge "Dark Reviews Badge")
     * [Leave a Review Button](https://embedsocial.com/p/templates/reviews-form "Leave a Review Button")
-    * [Dark Floating Reviews Badge](https://embedsocial.com/p/templates/floating-dark-social-media-reviews-badge "Dark Floating Reviews Badge")
-    * [All 50+ Google Reviews Widgets ↗](https://embedsocial.com/p/templates/reviews/category/google "All 50+ Google Reviews Widgets ↗")
+    * [Google Reviews Wall of Love](https://embedsocial.com/p/templates/wall-of-love "Google Reviews Wall of Love")
+    * [Google Reviews AI Filters](https://embedsocial.com/p/templates/google-reviews-widget-with-ai-filters "Google Reviews AI Filters")
+    * [Google Reviews AI Summary](https://embedsocial.com/p/templates/ai-google-reviews-widget-with-quotes "Google Reviews AI Summary")
     
-    Feed Widgets Templates
+    [**Social feed **templates** ↗**Browse 95+ Instagram widgets](https://embedsocial.com/p/templates/feed)
     
-    * [Instagram Collage](https://embedsocial.com/p/templates/classic-instagram-collage-widget "Instagram Collage")
-    * [Instagram Stories & Posts Slider](https://embedsocial.com/p/templates/classic-instagram-stories-and-posts-slider-widget "Instagram Stories & Posts Slider")
-    * [Instagram Carousel](https://embedsocial.com/p/templates/instagram-carousel-widget "Instagram Carousel")
     * [TikTok Slider](https://embedsocial.com/p/templates/tiktok-slider-widget "TikTok Slider")
-    * [Instagram Photo Grid](https://embedsocial.com/p/templates/instagram-grid-gallery-widget "Instagram Photo Grid")
     * [Modern Facebook Feed](https://embedsocial.com/p/templates/modern-facebook-feed-widget "Modern Facebook Feed")
-    * [Instagram Masonry Feed](https://embedsocial.com/p/templates/instagram-feed-masonry-widget "Instagram Masonry Feed")
+    * [Instagram Carousel](https://embedsocial.com/p/templates/instagram-carousel-widget "Instagram Carousel")
+    * [Instagram Collage](https://embedsocial.com/p/templates/classic-instagram-collage-widget "Instagram Collage")
+    * [Instagram Photo Grid](https://embedsocial.com/p/templates/instagram-grid-gallery-widget "Instagram Photo Grid")
     * [Instagram Shop Feed](https://embedsocial.com/p/templates/instagram-shop-widget "Instagram Shop Feed")
+    * [Instagram Masonry Feed](https://embedsocial.com/p/templates/instagram-feed-masonry-widget "Instagram Masonry Feed")
     * [Instagram & Google Reviews](https://embedsocial.com/p/templates/premium-ugc-widget-instagram-google-reviews "Instagram & Google Reviews")
-    * [LinkedIn Slider](https://embedsocial.com/p/templates/linkedin-feed-slider-widget "LinkedIn Slider")
-    * [All 70+ Feed Templates ↗](https://embedsocial.com/p/templates/feed "All 70+ Feed Templates ↗")
     
-    [UGC](https://embedsocial.com/blog/what-is-user-generated-content/) Widgets Templates
+    [**LinkedIn feed widgets ↗**Browse LinkedIn widgets](https://embedsocial.com/p/templates/feed/category/linkedin)
+    
+    * [LinkedIn Feed Slider](https://embedsocial.com/p/templates/linkedin-feed-slider-two-row-auto-scroll "LinkedIn Feed Slider")
+    * [LinkedIn Grid Widget](https://embedsocial.com/p/templates/linkedin-photo-grid--widget "LinkedIn Grid Widget")
+    
+    [**Shoppable widgets ↗**Browse UGC shoppable widgets](https://embedsocial.com/p/templates/feed/)
     
     * [Shop The Look Instagram Widget](https://embedsocial.com/p/templates/shop-the-look-instagram-slider "Shop The Look Instagram Widget")
     * [‘Shop My Feed’ Instagram Widget](https://embedsocial.com/p/templates/shop-my-feed-instagram-widget "'Shop My Feed' Instagram Widget")
@@ -200,7 +205,7 @@ Search
     * [Google Reviews Shoppable Slider](https://embedsocial.com/p/templates/shoppable-google-reviews-widget "Google Reviews Shoppable Slider")
     * [Shoppable Instagram Widget with Product Cards](https://embedsocial.com/p/templates/shoppable-instagram-widget-with-product-cards "Shoppable Instagram Widget with Product Cards")
     
-    Threads Widgets Templates
+    [**Threads feed widgets ↗**Browse Threads widgets](https://embedsocial.com/p/templates/feed/category/threads)
     
     * [Threads Posts Slider](https://embedsocial.com/p/templates/threads-posts-slider "Threads Posts Slider")
     * [Threads Popover Widget](https://embedsocial.com/p/templates/threads-popover-widget "Threads Popover Widget")
