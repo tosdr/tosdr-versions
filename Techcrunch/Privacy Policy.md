@@ -115,7 +115,7 @@
 Welcome to the Yahoo Privacy Policy
 ===================================
 
-_Last updated: September 2024_
+_Last updated: December 2024_
 
 1. **About Yahoo**
     1. Yahoo, previously known as Verizon Media, is a technology and media company that provides a range of services. We serve our consumers, partners, advertisers and talent through our portfolio of digital platforms, products and services offered under our AOL, Yahoo and other [brands](https://www.yahooinc.com/our-brands).
@@ -154,7 +154,7 @@ _Last updated: September 2024_
         
         1. We collect information when you access content, [advertising](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/adserving/index.html), sites, interactive widgets, applications, and other products (both on and off of our Services) where Yahoo data collection technologies (such as [web beacons](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/webbeacons/index.html), development tools, [cookies and other technologies](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/cookies/index.html), etc.) are present. These data collection technologies allow us to understand your activity on and off our Services and to collect and store information when you interact with Services we offer to partners.
             
-        2. This information also includes the kind of content or ads served, viewed or clicked on; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
+        2. This information also includes the content or ads served, viewed or clicked on; cursor and scroll movements on our Services; certain screen interactions and content you input on the Services; the frequency and duration of your activities; the sites or apps you used before accessing our Services and where you went next; whether you engaged with specific content or ads; and whether you went on to visit an advertiser's website, downloaded an advertiser’s app, purchased a product or service advertised, or took other actions. 
             
     6. **Information from Others.** We collect information about you when we receive it from other users, third-parties, and affiliates, such as: 
         
@@ -207,7 +207,7 @@ _Last updated: September 2024_
             
         3. **With Partners.** We may share your information with nonaffiliated companies who are:
             
-            * **Trusted Partners.** We provide user information to trusted partners who work on behalf of or with Yahoo based on our directions and in compliance with appropriate confidentiality measures.
+            * **Trusted Partners.** We provide user information to or enable the collection of user information by trusted partners who work on behalf of or with Yahoo based on our directions and in compliance with appropriate confidentiality measures.
                 
             * **Advertising, Analytics and Business Partners (Limited to Non-Personally Identifiable Information).** We may share aggregated or pseudonymous information (including demographic information) with partners, such as publishers, advertisers, measurement analytics, apps, or [other companies](https://www.verizonmedia.com/us/en/yahoo/privacy/topics/thirdparties/index.html). For example, we may tell an advertiser how its ads performed or report how many people installed an app after seeing a promotion. We do not share personally identifiable information (like phone number or email address) with these partners, such as publishers, advertisers, ad agencies, or analytics partners.
                 
@@ -278,6 +278,8 @@ _Last updated: September 2024_
     4. September 2021 - updates to reflect name change; additional information added regarding data retention;
         
     5. September 2024 - updates to data transfers.
+        
+    6. December 2024 - updates to Information from Cookies and Other Technologies; additional information added regarding data sharing with trusted partners.
         
 
 ©2024 Yahoo. All Rights Reserved.
