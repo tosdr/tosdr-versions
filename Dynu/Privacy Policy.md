@@ -240,24 +240,10 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### DNSSEC
+#### Launch and scale compute workloads on KVM instances featuring hyperfast NVMe SSD storage and best price-to-performance ratio!
 
   
-
-#### Our redundant DNS solution is fully supported with DNSSEC
-
-  
-
-  
-
-[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
-  
-
-  
-
-[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
-  
-
+[Get Started](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
   
 
 ### News
