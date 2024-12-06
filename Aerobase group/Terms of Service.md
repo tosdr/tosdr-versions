@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Air Force defers NGAD decision to Trump administration](https://www.defensenews.com/breaking-news/2024/12/05/air-force-defers-ngad-decision-to-trump-administration/)  
+    12/05/24 03:50pm  
+    
+    The Air Force will keep maturing the technology for a potential sixth-generation NGAD fighter, but will let the Trump administration decide how to proceed. (U.S. Air Force)
+    
 * [A-10s are being spotted in Syria. Here’s how they’re being used.](https://www.defensenews.com/air/2024/12/04/a-10s-are-being-spotted-in-syria-heres-how-theyre-being-used/)  
     12/04/24 04:00pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     12/02/24 04:30pm  
     
     The Air Force is changing how it deploys airmen, but government auditors warn that sending large units of airmen overseas could risk leaving their home bases vulnerable. (Senior Airman Luis Calderon/Air Force)
-    
-* [Russian jets intercept B-52s during Baltic training flight](https://www.defensenews.com/news/your-air-force/2024/11/27/russian-jets-intercept-b-52s-during-baltic-training-flight/)  
-    11/27/24 12:39pm  
-    
-    Two Russian fighters intercepted a pair of B-52H Stratofortresses near the Baltic Sea on Monday, a U.S. defense official confirmed. One of the Stratofortresses is shown here taking off from RAF Fairford on Monday. (Airman 1st Class Laiken King/U.S. Air Force)
     
 
 Recent parts by keyword  
