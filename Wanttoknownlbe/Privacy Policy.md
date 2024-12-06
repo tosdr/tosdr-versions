@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/hoe-het-vrije-woord-vermorzeld-wordt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-verborgen-agenda-van-genetische-manipulatie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
