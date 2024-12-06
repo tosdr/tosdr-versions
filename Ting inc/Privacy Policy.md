@@ -10,7 +10,7 @@ We apologize for the inconvenience...
 1. If you are attempting to access this site using an anonymous Private/Proxy network, please disable that and try accessing site again.
 2. Due to previously detected malicious behavior which originated from the network you're using, please request unblock to site.
 
-**Incident ID:** 17655b44-cs03-408e-8529-c4643dfdc540
+**Incident ID:** 64d5ecbc-cs03-4a25-b16d-a5bdf22945d4
 
   
 
@@ -23,4 +23,4 @@ We apologize for the inconvenience...
   
   
 
-You reached this page when trying to access **https://www.ting.com/privacy\_policy** from **159.223.154.84** on **December 06 2024, 04:04:27 UTC**
+You reached this page when trying to access **https://www.ting.com/privacy\_policy** from **159.223.154.84** on **December 06 2024, 09:56:49 UTC**
