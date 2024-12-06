@@ -266,6 +266,7 @@ Follow @Firefox
 * [X (formerly Twitter) (@firefox)](https://twitter.com/firefox)
 * [Instagram (@firefox)](https://www.instagram.com/firefox/)
 * [YouTube (@firefoxchannel)](https://www.youtube.com/user/firefoxchannel)
+* [TikTok (@firefox)](https://www.tiktok.com/@firefox)
 
 [Donate](https://foundation.mozilla.org/?form=moco-donate-footer)
 
