@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 6, 2024
+    
+    [Financial Stability Oversight Council Releases 2024 Annual Report](https://home.treasury.gov/news/press-releases/jy2738)
+    
     December 4, 2024
     
     [U.S. Department of the Treasury Releases Final Rules on Investment Tax Credit to Produce Clean Power, Strengthen Clean Energy Economy](https://home.treasury.gov/news/press-releases/jy2736)
@@ -583,14 +587,14 @@ MENU MENU
     
     [Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions](https://home.treasury.gov/news/press-releases/jy2735)
     
-    December 3, 2024
-    
-    [Treasury Intensifies Pressure on Iranian Shadow Fleet](https://home.treasury.gov/news/press-releases/jy2734)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    December 6, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Open Session of the Meeting of the Financial Stability Oversight Council](https://home.treasury.gov/news/press-releases/jy2737)
     
     November 21, 2024
     
@@ -599,10 +603,6 @@ MENU MENU
     November 19, 2024
     
     [Remarks by Assistant Secretary for Investment Security Paul Rosen at the Third Annual CFIUS Conference](https://home.treasury.gov/news/press-releases/jy2723)
-    
-    November 19, 2024
-    
-    [Remarks by Assistant Secretary for International Finance Brent Neiman on the U.S. Cross-Border Payments Agenda](https://home.treasury.gov/news/press-releases/jy2722)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
