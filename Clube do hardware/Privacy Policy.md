@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![TestePC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/cifra.thumb.jpg.b1fdf12858adcee64d87ac03a882d384.jpg)](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")
-        
-        5
-        
-        [Recomendação de placa-mãe para i3 3220 de até R$250,00.](https://www.clubedohardware.com.br/forums/topic/1704685-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-i3-3220-de-at%C3%A9-r25000/?do=getNewComment "Recomendação de placa-mãe para i3 3220 de até R$250,00.")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [TestePC](https://www.clubedohardware.com.br/profile/1249698-testepc/ "Ir ao perfil de TestePC")  
-        24 minutos atrás
-        
-    * [![Fantecele](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362aac4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/769996-fantecele/ "Ir ao perfil de Fantecele")
-        
-        3
-        
-        [Recomendação de notebook para trabalho, estudos e jogos de até R$8.000](https://www.clubedohardware.com.br/forums/topic/1704684-recomenda%C3%A7%C3%A3o-de-notebook-para-trabalho-estudos-e-jogos-de-at%C3%A9-r8000/?do=getNewComment "Recomendação de notebook para trabalho, estudos e jogos de até R$8.000")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Fantecele](https://www.clubedohardware.com.br/profile/769996-fantecele/ "Ir ao perfil de Fantecele")  
-        31 minutos atrás
-        
-    * [![alissomrex](https://www.clubedohardware.com.br/uploads/members/monthly_2017_01/ALISSOM.thumb.jpg.ec54e982a3b56e67d82a3b083331ac91.jpg)](https://www.clubedohardware.com.br/profile/698005-alissomrex/ "Ir ao perfil de alissomrex")
-        
-        1
-        
-        [Indicação de notebook para Studio de música de até R$4.000](https://www.clubedohardware.com.br/forums/topic/1704683-indica%C3%A7%C3%A3o-de-notebook-para-studio-de-m%C3%BAsica-de-at%C3%A9-r4000/?do=getNewComment "Indicação de notebook para Studio de música de até R$4.000")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [alissomrex](https://www.clubedohardware.com.br/profile/698005-alissomrex/ "Ir ao perfil de alissomrex")  
-        1 hora atrás
-        
-    * [![skull10001](https://www.clubedohardware.com.br/uploads/members/profile/photo-397682.gif)](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")
-        
-        3
-        
-        [Onde conseguir bateria cr2016 do notebook positivo master n6240?](https://www.clubedohardware.com.br/forums/topic/1704681-onde-conseguir-bateria-cr2016-do-notebook-positivo-master-n6240/?do=getNewComment "Onde conseguir bateria cr2016 do notebook positivo master n6240?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [skull10001](https://www.clubedohardware.com.br/profile/397682-skull10001/ "Ir ao perfil de skull10001")  
-        1 hora atrás
-        
-    * [![g43mer341](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1240557.thumb.png.d1860e8ec0bb8c4c126629966f5c0933.png)](https://www.clubedohardware.com.br/profile/1240557-g43mer341/ "Ir ao perfil de g43mer341")
-        
-        3
-        
-        [Notebook fica com tela preta ao instalar memória RAM nova.](https://www.clubedohardware.com.br/forums/topic/1704680-notebook-fica-com-tela-preta-ao-instalar-mem%C3%B3ria-ram-nova/?do=getNewComment "Notebook fica com tela preta ao instalar memória RAM nova.")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [g43mer341](https://www.clubedohardware.com.br/profile/1240557-g43mer341/ "Ir ao perfil de g43mer341")  
-        1 hora atrás
-        
-    * [![João Sandri](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257370.thumb.jpeg.aa6c66f4a5dedc4622c550f09b544613.jpeg)](https://www.clubedohardware.com.br/profile/1257370-jo%C3%A3o-sandri/ "Ir ao perfil de João Sandri")
+    * [![PeoGabi](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/HPhudcritical.thumb.png.266a70655bad758575bb0f238921508a.png)](https://www.clubedohardware.com.br/profile/1187052-peogabi/ "Ir ao perfil de PeoGabi")
         
         0
         
-        [AG400 é bom para Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1704679-ag400-%C3%A9-bom-para-ryzen-7-5700x3d/?do=getNewComment "AG400 é bom para Ryzen 7 5700X3D?")
+        [BIOS do TUF GAMING B450M-PRO II com artefatos](https://www.clubedohardware.com.br/forums/topic/1704735-bios-do-tuf-gaming-b450m-pro-ii-com-artefatos/?do=getNewComment "BIOS do TUF GAMING B450M-PRO II com artefatos")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [João Sandri](https://www.clubedohardware.com.br/profile/1257370-jo%C3%A3o-sandri/ "Ir ao perfil de João Sandri")  
-        1 hora atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [PeoGabi](https://www.clubedohardware.com.br/profile/1187052-peogabi/ "Ir ao perfil de PeoGabi")  
+        7 minutos atrás
         
-    * [![Samuel Mota](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/78683bd722bcc5b7ff23e480159c6200.thumb.jpg.66965bd7a98467a1f2d0695c4671ba00.jpg)](https://www.clubedohardware.com.br/profile/1105527-samuel-mota/ "Ir ao perfil de Samuel Mota")
+    * [![BIG JAKE](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362a6c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EBJ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1135008-big-jake/ "Ir ao perfil de BIG JAKE")
         
-        3
+        0
         
-        [Opiniões e dicas de upgrade para i5 10400F, H410M S2H, RTX 4060 e 16Gb de RAM.](https://www.clubedohardware.com.br/forums/topic/1704678-opini%C3%B5es-e-dicas-de-upgrade-para-i5-10400f-h410m-s2h-rtx-4060-e-16gb-de-ram/?do=getNewComment "Opiniões e dicas de upgrade para i5 10400F, H410M S2H, RTX 4060 e 16Gb de RAM.")
+        [Gabinete Watercooler 420mm custo-benefício](https://www.clubedohardware.com.br/forums/topic/1704734-gabinete-watercooler-420mm-custo-benef%C3%ADcio/?do=getNewComment "Gabinete Watercooler 420mm custo-benefício")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Samuel Mota](https://www.clubedohardware.com.br/profile/1105527-samuel-mota/ "Ir ao perfil de Samuel Mota")  
-        1 hora atrás
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [BIG JAKE](https://www.clubedohardware.com.br/profile/1135008-big-jake/ "Ir ao perfil de BIG JAKE")  
+        7 minutos atrás
         
-    * [![thexgamer](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46285%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ET%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/937132-thexgamer/ "Ir ao perfil de thexgamer")
+    * [![samvini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257481.thumb.png.18d62fe6da5143a142eeef9c7a8f58d8.png)](https://www.clubedohardware.com.br/profile/1257481-samvini/ "Ir ao perfil de samvini")
         
-        3
+        1
         
-        [Fonte para kit Ryzen 5 5600 e 6700XT](https://www.clubedohardware.com.br/forums/topic/1704677-fonte-para-kit-ryzen-5-5600-e-6700xt/?do=getNewComment "Fonte para kit Ryzen 5 5600 e 6700XT")
+        [Ate que valor ainda vale a pena comprar RX 580 8gb?](https://www.clubedohardware.com.br/forums/topic/1704733-ate-que-valor-ainda-vale-a-pena-comprar-rx-580-8gb/?do=getNewComment "Ate que valor ainda vale a pena comprar RX 580 8gb?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [samvini](https://www.clubedohardware.com.br/profile/1257481-samvini/ "Ir ao perfil de samvini")  
+        18 minutos atrás
+        
+    * [![M4ylon77](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257499.thumb.jpeg.0378f52811b5a0f40b437e4be299ac1d.jpeg)](https://www.clubedohardware.com.br/profile/1257499-m4ylon77/ "Ir ao perfil de M4ylon77")
+        
+        0
+        
+        [Meu pc não da Vídeo](https://www.clubedohardware.com.br/forums/topic/1704732-meu-pc-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Meu pc não da Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [M4ylon77](https://www.clubedohardware.com.br/profile/1257499-m4ylon77/ "Ir ao perfil de M4ylon77")  
+        19 minutos atrás
+        
+    * [![Luis Felipe754](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/imported-photo-1173410.thumb.png.d301bcfd75dbb4742f480450c962478b.png)](https://www.clubedohardware.com.br/profile/1173410-luis-felipe754/ "Ir ao perfil de Luis Felipe754")
+        
+        1
+        
+        [Monitor aparecendo "Entrada não suportada" na hora de ligar o pc](https://www.clubedohardware.com.br/forums/topic/1704731-monitor-aparecendo-entrada-n%C3%A3o-suportada-na-hora-de-ligar-o-pc/?do=getNewComment "Monitor aparecendo "Entrada não suportada" na hora de ligar o pc")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Luis Felipe754](https://www.clubedohardware.com.br/profile/1173410-luis-felipe754/ "Ir ao perfil de Luis Felipe754")  
+        23 minutos atrás
+        
+    * [![BILIO](https://www.clubedohardware.com.br/uploads/members/monthly_2024_03/imported-photo-1241893.thumb.png.79d2f4f9a1cf2b44ab0ef4ce7584401c.png)](https://www.clubedohardware.com.br/profile/1241893-bilio/ "Ir ao perfil de BILIO")
+        
+        0
+        
+        [latencia microfone de app de caraoke](https://www.clubedohardware.com.br/forums/topic/1704730-latencia-microfone-de-app-de-caraoke/?do=getNewComment "latencia microfone de app de caraoke")
+        
+        [Smartphones, celulares, tablets e apps](https://www.clubedohardware.com.br/forums/forum/195-smartphones-celulares-tablets-e-apps/ "Smartphones, celulares, tablets e apps")  
+        Por [BILIO](https://www.clubedohardware.com.br/profile/1241893-bilio/ "Ir ao perfil de BILIO")  
+        24 minutos atrás
+        
+    * [![Bruno Henrique Mendes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254913.thumb.png.29c306ac0b978761ff603a72a580ab25.png)](https://www.clubedohardware.com.br/profile/1254913-bruno-henrique-mendes/ "Ir ao perfil de Bruno Henrique Mendes")
+        
+        1
+        
+        [Fonte para Xeon 2640v3 + RX 5700XT](https://www.clubedohardware.com.br/forums/topic/1704729-fonte-para-xeon-2640v3-rx-5700xt/?do=getNewComment "Fonte para Xeon 2640v3 + RX 5700XT")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [thexgamer](https://www.clubedohardware.com.br/profile/937132-thexgamer/ "Ir ao perfil de thexgamer")  
-        1 hora atrás
+        Por [Bruno Henrique Mendes](https://www.clubedohardware.com.br/profile/1254913-bruno-henrique-mendes/ "Ir ao perfil de Bruno Henrique Mendes")  
+        26 minutos atrás
         
-    * [![Alan Cerqueira de Santana](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")
+    * [![Henrique Siqueira Lima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257498.thumb.jpeg.e6e019ea4ec8c45d00f3e75d2e3ffed3.jpeg)](https://www.clubedohardware.com.br/profile/1257498-henrique-siqueira-lima/ "Ir ao perfil de Henrique Siqueira Lima")
         
         2
         
-        [Fonte para Ryzen 7 9800X3D e GeForce RTX 4090 ASUS TUF](https://www.clubedohardware.com.br/forums/topic/1704675-fonte-para-ryzen-7-9800x3d-e-geforce-rtx-4090-asus-tuf/?do=getNewComment "Fonte para Ryzen 7 9800X3D e GeForce RTX 4090 ASUS TUF")
+        [Qual fonte custo-benefício devo escolher?](https://www.clubedohardware.com.br/forums/topic/1704728-qual-fonte-custo-benef%C3%ADcio-devo-escolher/?do=getNewComment "Qual fonte custo-benefício devo escolher?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Alan Cerqueira de Santana](https://www.clubedohardware.com.br/profile/1256845-alan-cerqueira-de-santana/ "Ir ao perfil de Alan Cerqueira de Santana")  
-        3 horas atrás
+        Por [Henrique Siqueira Lima](https://www.clubedohardware.com.br/profile/1257498-henrique-siqueira-lima/ "Ir ao perfil de Henrique Siqueira Lima")  
+        26 minutos atrás
         
-    * [![udanznh](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c493%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
+    * [![El Nunez](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEN%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257354-el-nunez/ "Ir ao perfil de El Nunez")
         
-        2
+        3
         
-        [O cooler box da Intel resfria um i7 3770?](https://www.clubedohardware.com.br/forums/topic/1704674-o-cooler-box-da-intel-resfria-um-i7-3770/?do=getNewComment "O cooler box da Intel resfria um i7 3770?")
+        [16GB, 32GB ou 48GB?](https://www.clubedohardware.com.br/forums/topic/1704727-16gb-32gb-ou-48gb/?do=getNewComment "16GB, 32GB ou 48GB?")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
-        3 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [El Nunez](https://www.clubedohardware.com.br/profile/1257354-el-nunez/ "Ir ao perfil de El Nunez")  
+        28 minutos atrás
+        
+    * [![Pedrovsky83](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257255.thumb.png.741f312c8f577ed5bf625ba7856eac3e.png)](https://www.clubedohardware.com.br/profile/1257255-pedrovsky83/ "Ir ao perfil de Pedrovsky83")
+        
+        4
+        
+        [Nova placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1704725-nova-placa-de-v%C3%ADdeo/?do=getNewComment "Nova placa de Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pedrovsky83](https://www.clubedohardware.com.br/profile/1257255-pedrovsky83/ "Ir ao perfil de Pedrovsky83")  
+        51 minutos atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
