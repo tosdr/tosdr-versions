@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Chimps Use Tools in Flexible, Highly Complex Way](https://www.sciencedaily.com/releases/2024/12/241205142736.htm)
 * ['Zip Code' Draws Killer T Cells to Brain Tumors](https://www.sciencedaily.com/releases/2024/12/241205184621.htm)
 * [Cause of Global Warming Surge: Change in Clouds](https://www.sciencedaily.com/releases/2024/12/241205184615.htm)
 * [Why We're Here](https://www.sciencedaily.com/releases/2024/12/241205184326.htm)
@@ -238,7 +239,6 @@ this hour
 * [H5N1 'Bird Flu' Transmission in Humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm)
 * [18 of 19 NHL Players Had CTE](https://www.sciencedaily.com/releases/2024/12/241204113518.htm)
 * [Tyrannosaurs Once Roamed East Sussex, England](https://www.sciencedaily.com/releases/2024/12/241205142905.htm)
-* [How Universe's Giant Galaxies Formed](https://www.sciencedaily.com/releases/2024/12/241204113515.htm)
 
 Trending Topics
 ---------------
@@ -251,25 +251,25 @@ this week
 
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
-
 [Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
+[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
 [Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
