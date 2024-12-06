@@ -45,7 +45,7 @@ account
 
 close
 
-[THE BEST DEAL in digital Bible study IS HERE! Access $3,100 worth of premium resources to help understand Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_BestDeal3100_20241111)
+[GO AD-FREE for AS LOW AS $3.33/mo! ACCESS $3,100 worth of premium resources to enhance your Biblical studies. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_goadfreeaslowas333_20241111)
 
 close
 
