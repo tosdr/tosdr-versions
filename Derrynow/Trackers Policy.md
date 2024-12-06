@@ -275,13 +275,6 @@ Met Office issue yellow weather warning for Derry
 [Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, December 5, 2024](https://www.derrynow.com/news/deaths/1672895/derry-death-notices-thursday-december-5-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man charged series of domestic abuse and assault offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged series of domestic abuse and assault offences returned for trial")](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
 
 Derry Magistrates' Court
@@ -298,14 +291,12 @@ Derry Magistrates' Court
 [Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested and quantity of drugs seized in Derry's Waterside area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and quantity of drugs seized in Derry's Waterside area")](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
+[![IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School")](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
 
-PSNI
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man arrested and quantity of drugs seized in Derry's Waterside area](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 
@@ -314,12 +305,14 @@ PSNI
 [IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican")](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+[![Man arrested and quantity of drugs seized in Derry's Waterside area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and quantity of drugs seized in Derry's Waterside area")](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested and quantity of drugs seized in Derry's Waterside area](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Winter Wonderland at Gelvin Road, Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Winter Wonderland at Gelvin Road, Dungiven")](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
 
@@ -330,12 +323,19 @@ Winter Wonderland at Gelvin Road, Dungiven
 [Dungiven family set to switch on Christmas lights as a fundraiser for local school](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "25-year-old man charged with driving offences to appear before Derry Magistrates’ Court")](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
+[![Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican")](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,6 +515,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, December 6, 2024](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Winter Wonderland at Gelvin Road, Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Winter Wonderland at Gelvin Road, Dungiven")](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
 
 Winter Wonderland at Gelvin Road, Dungiven
@@ -524,7 +531,7 @@ Winter Wonderland at Gelvin Road, Dungiven
 [Dungiven family set to switch on Christmas lights as a fundraiser for local school](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Storm Darragh: Council issues update on services across Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
+[![Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/resizer/165/93/true/2024_12_05/OrangeWeather_Alert-1733420337644.jpg--.jpg?1733420337769 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -557,13 +564,6 @@ Derry Magistrates' Court
 
 [Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/resizer/165/93/true/1566308190055.jpg--.jpg?1566308190063 "Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican")](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
