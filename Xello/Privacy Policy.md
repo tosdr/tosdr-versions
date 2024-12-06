@@ -1,4 +1,4 @@
-Contact Sales
+Demo Request
 
 Tell us a bit more so we can match you to a state-level expert who'll tailor a conversation to meet your needs. All fields required\*
 
@@ -62,7 +62,7 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -115,10 +115,8 @@ Effective Date: July 11, 2023
 Welcome to Xello!
 -----------------
 
-The Xello websites, applications, and services (collectively, “Services”) are provided by Xello Inc., located at 1867 Yonge Street, Suite 700, Toronto, Ontario, M5S 1Y5, Canada or CASCAID Ltd, located at Dock, 75 Exploration Drive, Leicester, LE4 5NU, a subsidiary of Xello Inc. (hereinafter collectively “Xello,” “we,” “our”). This Privacy Policy applies to the information we collect about you through the Services operated by or on behalf of Xello, including the products specified in the quote or purchase order (“Order”) with the school or educational establishment (“School”) or other entity who has signed the Order. It does not apply to information collected about employees, former employees, job candidates, or independent contractors.
-
-In the context of this Privacy Policy, if you are in the United Kingdom or European Economic Area, CASCAID acts as a data controller for the information we process and in all other jurisdictions, Xello Inc. is the data controller of the information we process, with the exception of information processed solely pursuant at the instruction of Xello customers, including your institution, business organization, or another controller, in which case Xello Inc. and CASCAID each act as a data processor.
-
+The Xello websites, applications, and services (collectively, “Services”) are provided by Xello Inc., located at 1867 Yonge Street, Suite 502, Toronto, Ontario, M5S 1Y5, Canada or CASCAID Ltd, located at Dock, 75 Exploration Drive, Leicester, LE4 5NU, a subsidiary of Xello Inc. (hereinafter collectively “Xello,” “we,” “our”). This Privacy Policy applies to the information we collect about you through the Services operated by or on behalf of Xello, including the products specified in the quote or purchase order (“Order”) with the school or educational establishment (“School”) or other entity who has signed the Order. It does not apply to information collected about employees, former employees, job candidates, or independent contractors.  
+In the context of this Privacy Policy, if you are in the United Kingdom or European Economic Area, CASCAID acts as a data controller for the information we process and in all other jurisdictions, Xello Inc. is the data controller of the information we process, with the exception of information processed solely pursuant at the instruction of Xello customers, including your institution, business organization, or another controller, in which case Xello Inc. and CASCAID each act as a data processor.  
 We are committed to protecting your personal information and satisfying legal requirements such as the Children’s Online Privacy Protection Act (“COPPA”), the Personal Information Protection and Electronic Documents Act (“PIPEDA”), the Family Educational Rights and Privacy Act (“FERPA”) and the General Data Protection Regulation (“GDPR”) through our compliance with this Privacy Policy. If any translated version of this policy conflicts with the English version, the English version shall prevail.
 
 For purposes of this Privacy Policy and our [Terms of Service](https://xello.world/en/terms/):
@@ -152,6 +150,8 @@ We may collect the following information from a School or Authorized Administrat
 * Authorized Administrator contact information as well as information about his/her School relevant to purchasing and setting up accounts such as School’s name, address, billing address, and number of students.
 * Support requests and any other information submitted by a School or Authorized Administrators.
 
+Schools or Authorized Administrators or Educators may also provide comments, suggestions for improvements to the Service, responses to surveys or similar feedback (collectively, “Feedback”).
+
 **Information Provided by Higher Education Institutions**
 
 Colleges and universities and other higher education institutions (“Post-Secondary Schools”) that use the Services as part of Xello for Higher Education Platform (“Higher Ed Platform”), provide certain information about their Authorized Administrators, counselors, staff or faculty who are authorized to participate in Higher Ed Platform (“Post-Secondary Staff” or “Staff”) and students who are authorized serve as ambassadors to the Post-Secondary School in the Higher Ed Platform. (“Ambassadors”). Ambassadors and Staff are also “Users”.
@@ -160,6 +160,7 @@ We may collect the following information from a Post-Secondary School or Authori
 
 * Authorized Administrator contact information as well as information about his/her Post-Secondary School relevant to purchasing and setting up accounts such as Post-Secondary School’s name, address, billing address, and number of students.
 * Support requests and any other information submitted by a School or Authorized Administrators.
+* Feedback, as described above.
 
 Post-Secondary Schools and their Authorized Administrators may provide the following information about Ambassadors or other Post-Secondary Staff:
 
@@ -171,7 +172,7 @@ Post-Secondary Schools and their Authorized Administrators may provide the follo
 
 With the Services, Students discover the unique pathway that’s right for them using an investigative, discovery-based learning process. As they gain self-knowledge through assessments and reflection, Students can save careers, schools, programs, and experiences to form a vibrant, visual roadmap that’s easy to update and share.
 
-Given the purpose of the Services, Students may provide a variety of information including certain Student Personal Information in the Services. Students may provide information such as email address, phone number, mailing address, personal avatar, education goal, favorite clusters, interests, skills, test scores, work experiences, volunteer experiences, high school course plan, future readiness plans, and any other information or User Content that Students choose to provide.Students who are in Schools that have turned on access to the Higher Ed Platform, can post User Content, including comments and questions on Post-Secondary School pages and participate in one-to-one chats with Ambassadors and Staff. Ambassadors and Staff can post User Content on Post-Secondary School pages, including answers to questions and information about their Post-Secondary School. They can also participate in one-to-one chats with Students.
+Given the purpose of the Services, Students may provide a variety of information including certain Student Personal Information in the Services. Students may provide information such as email address, phone number, mailing address, personal avatar, education goal, favorite clusters, interests, skills, test scores, work experiences, volunteer experiences, high school course plan, future readiness plans, Feedback, and any other information or User Content that Students choose to provide. Students who are in Schools that have turned on access to the Higher Ed Platform, can post User Content, including comments and questions on Post-Secondary School pages and participate in one-to-one chats with Ambassadors and Staff. Ambassadors and Staff can post User Content on Post-Secondary School pages, including answers to questions and information about their Post-Secondary School. They can also participate in one-to-one chats with Students.
 
 **Information Provided by Work-Based Learning Administrators & Employers**
 
@@ -179,6 +180,7 @@ Schools and Districts may offer student users the ability to find and participat
 
 * Work-Based Learning Administrator and employee administrator and authorized personnel contact information.
 * Support requests and any other information submitted by such individuals.
+* Feedback as described above.
 
 **Information Provided by Visitors**
 
@@ -186,6 +188,7 @@ We may collect the following information directly from Users and other visitors:
 
 * Requests for Information: If you submit a request for information or otherwise contact us, we collect your request and your identifying contact information (including name, email address, phone number and address).
 * Support Requests: If you submit a support request or question, we receive your request/question and your associated identifying contact information.
+* Feedback as described above.
 
 **Automatically Collected Information**
 
@@ -266,7 +269,7 @@ Users can update their individual notification preferences for the Services to c
 
 **Automatically Collected Information** 
 
-You can manage your cookie preferences and disable targeted advertising using cookies on our business information websites. If you reside in the United States you can change cookie preference using the “Change Cookie Preferences” link in our [website footer](https://xello.world/en-gb/privacy/#footer). If you reside outside of the United States a banner will be displayed on your first visit to the site, prompting you to change or accept default cookie settings.
+You can manage your cookie preferences and disable targeted advertising using cookies on our business information websites [here](#).
 
 If you do not want Google Analytics to collect and use information about your use of our websites, then you can install an opt-out in your web browser at: [tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
@@ -334,7 +337,8 @@ If you are a California resident, California law requires us to provide you with
 
 For more information about each category, purpose of use, and the third parties to which we disclose, “sell,” or “share” information, please see the sections “How We Collect Information,” “How We Use Information,” and “How We Share Information” above.
 
-**Your Choices Regarding “Sales” and “Sharing.”** To opt out of our “sales” of your personal information or our “sharing” of your personal information for purposes of cross-context behavioral advertising, click the ‘changes Cookie Preferences’ link in our [website footer](https://xello.world/en-gb/privacy/#footer).
+**Your Choices Regarding “Sales” and “Sharing.”**  
+To opt out of our “sales” of your personal information or our “sharing” of your personal information for purposes of cross-context behavioral advertising, please [click here](#).
 
 **Other CCPA Rights.**  The CCPA also allows you to limit the use or disclosure of your “sensitive personal information” (as defined in the CCPA) if your sensitive personal information is used for certain purposes.  Please note that we do not use or disclose sensitive personal information as defined by the CCPA.
 
@@ -427,8 +431,8 @@ Phone [\+ 44 (0)1509 381070](tel:++ 44 (0)1509 381070)
 
 © 2024 Xello Inc.
 
-* [Privacy Policy](https://xello.world/en-gb/privacy/)
 * [Terms of Service](https://xello.world/en-gb/terms/)
+* [Privacy Policy](https://xello.world/en-gb/privacy/)
 * [Privacy & Security](https://xello.world/en-gb/privacy-security/)
 
 Change Cookie Preferences ![privacy_options](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
