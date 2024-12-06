@@ -1361,7 +1361,7 @@ Der tatsächliche Betrag des verdienten Prämienguthabens durch Empfehlungen wir
 
 **Prämienguthaben, das durch Empfehlungen verdient wird,** wird in der Regel fünfunddreißig (35) Tage nach der berechtigten Transaktion, die von einem angeworbenen Kunden ausgeführt wurde („Ausstehendes Guthaben“), auf Ihrem Account gutgeschrieben. Werbeprämienguthaben wird je nach den AGB des jeweiligen Wettbewerbs, Gewinnspiels oder der Werbeaktion in Ihrem Account verfügbar. Dieser Zeitraum ist erforderlich, um alle stornierten Bestellungen zu bearbeiten und Probleme bei der Rückerstattung, zurückgegebene Produkte oder andere damit zusammenhängende Probleme zu beheben. Für Prämienguthaben, das durch Empfehlungen verdient worden ist, ist ausstehendes Guthaben, das für zukünftige Käufe verwendet werden kann, nach dem oben genannten Zeitraum von 35 Tagen auf Ihrem Account verfügbar („Verfügbares Guthaben“).
 
-**Sämtliches verdientes Prämienguthaben wird Ihrem Account gutgeschrieben und steht somit sofort zur Verwendung zur Verfügung**
+**Sämtliches Prämienguthaben, dass durch die Einreichung von Bewertungen verdient wurde, wird Ihrem Account gutgeschrieben und steht somit sofort zur Verwendung zur Verfügung**
 
 Prämienguthaben ist ein Anreiz für zukünftige Einkäufe. Als Voraussetzung für die Aufrechterhaltung von Prämienguthaben muss dieses innerhalb von neunzig (90) Tagen nach dem Verfügbarkeitsdatum in Ihrem Account verwendet werden. Daher verfällt das verfügbare Prämienguthaben neunzig (90) Tage nach dem Verfügbarkeitsdatum in Ihrem Account. Der Ablaufzeitraum von 90 Tagen wird jedoch zurückgesetzt, wenn Sie neues Prämienguthaben in diesem Zeitraum verdienen.
 
@@ -1371,11 +1371,11 @@ Sobald verfügbares Guthaben verwendet wurde, wird dieser Betrag von Ihrem Accou
 
 Ausstehendes Guthaben oder verfügbares Guthaben kann entsprechend angepasst werden, wenn ein angeworbener Kunde eine zuvor platzierte Bestellung zurücksendet oder ablehnt („Storniertes Guthaben“) aufgrund von technischen Fehlern oder Korrekturen.
 
-Auszahlung von Prämienguthaben
+Auszahlung von Prämienguthaben: nur anwendbar vor dem 5. Dezember 2024
 
 Nach dem 5. November 2024 kann Prämienguthaben nicht mehr für eine Auszahlungsoption gesammelt werden. Anfragen zur Auszahlung von Prämienguthaben (für einen Account mit einem Prämienguthaben von mindestens 300$) werden bearbeitet, wenn sie vor dem 10. Dezember 2024 eingereicht wurden.
 
-iHerb arbeitet mit Hyperwallet (powered by PayPal) zusammen, um Prämienguthaben auszuzahlen. Sie können Prämienguthaben nur auszahlen, wenn Hyperwallet Ihr Land unterstützt. Wenn Hyperwallet Ihr Land nicht unterstützt, sind Sie nicht berechtigt, Prämienguthaben auszuzahlen. Eine Liste der derzeit von Hyperwallet unterstützten Länder finden Sie in den [FAQs zu Prämien](https://secure.iherb.com/info/rewardsfaq). Die Zahlung wird innerhalb von vierzehn (14) Werktagen übermittelt, nachdem der Kunde die Option zur Auszahlung gewählt hat. Nach dem 10\. Dezember 2024 werden keine Anfragen zur Auszahlung von Prämienguthaben mehr bearbeitet.
+Nach dem 5\. Dezember 2024 wird kein Antrag auf Auszahlung von Prämienguthaben mehr berücksichtigt. iHerb arbeitet mit Hyperwallet (powered by PayPal) zusammen, um Prämienguthaben auszuzahlen. Sie können bis zum 24. Dezember 2024 jederzeit auf Ihr Hyperwallet-Konto zugreifen, wenn Hyperwallet Ihr Land unterstützt. Der 24. Dezember 2024 ist der letzte Tag, an dem das gesamte verdiente Guthaben von Hyperwallet im Rahmen der in Ihrem Land verfügbaren Auszahlungsoptionen überwiesen werden kann. Auszahlungsanträge, die vor dem 5. Dezember 2024 gestellt wurden, werden innerhalb von vierzehn (14) Werktagen ausgezahlt, wenn der Kunde die Option zur Auszahlung gewählt hat.
 
 Steuerinformationen
 
