@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/principles-of-transformation/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/alien-of-onbekende-aardling/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
