@@ -22,13 +22,13 @@
     
 * [Education](https://www.atlantafed.org/education)
     
-    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/education/learn) [Visit](https://www.atlantafed.org/education/visit) [Contact](https://www.atlantafed.org/education/contact)
+    [Teach](https://www.atlantafed.org/education/teach) [Learn](https://www.atlantafed.org/about/federal-reserve-system) [Visit](https://www.atlantafed.org/about/holidays) [Contact](https://www.atlantafed.org/education/contact)
     
 * [Community Development](https://www.atlantafed.org/community-development)
     
     [About Us](https://www.atlantafed.org/community-development/about-us) [Data & Tools](https://www.atlantafed.org/community-development/data-and-tools) [Events](https://www.atlantafed.org/community-development/events) [Infographics](https://www.atlantafed.org/community-development/infographics) [Podcasts](https://www.atlantafed.org/community-development/podcasts) [Publications](https://www.atlantafed.org/community-development/publications) [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
     
-* [About the Fed](https://www.atlantafed.org/about)
+* [About the Fed](https://www.atlantafed.org/cenfis)
     
     [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed) [Careers](https://www.atlantafed.org/about/careers) [FAQ](https://www.atlantafed.org/about/faq) [The Fed Explained](https://www.atlantafed.org/education/teach/infographic-posters/the-fed-explained) [Federal Reserve System](https://www.atlantafed.org/about/federal-reserve-system) [Holidays](https://www.atlantafed.org/about/holidays) [Diversity, Equity, & Inclusion](https://www.atlantafed.org/about/atlantafed/diversity-and-inclusion) [Transparency](https://www.atlantafed.org/about/atlantafed/transparency) [Publications](https://www.atlantafed.org/about/publications) [Visit](https://www.atlantafed.org/about/visit)
     
@@ -184,7 +184,7 @@ Menutoggle menu
         * [_Partners Update_](https://www.atlantafed.org/community-development/publications/partners-update)
         * [Special Publications](https://www.atlantafed.org/community-development/publications/special)
     * [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
-* [About the Fed](https://www.atlantafed.org/about)
+* [About the Fed](https://www.atlantafed.org/cenfis)
     * [The Atlanta Fed](https://www.atlantafed.org/about/atlantafed)
         * [Advisory Groups](https://www.atlantafed.org/about/atlantafed/advisory-groups)
         * [Annual Reports](https://www.atlantafed.org/about/publications/annual-reports)
