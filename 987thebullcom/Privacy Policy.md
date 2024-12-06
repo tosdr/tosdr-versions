@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Damn Good Day To LeaveRiley Green<br><br>4:39am |
-| Memory I Don'T Mess WithLee Brice<br><br>4:36am |
-| Lies, Lies, LiesMorgan Wallen<br><br>4:32am |
-| Wind Up Missing YouTucker Wetmore<br><br>4:30am |
-| Fast CarLuke Combs<br><br>4:23am |
+| What We Aint GotJake Owen<br><br>10:40am |
+| Am I OkMegan Moroney<br><br>10:35am |
+| Love SomebodyMorgan Wallen<br><br>10:31am |
+| Most People Are GoodLuke Bryan<br><br>10:25am |
+| Pretty Little PoisonWarren Zeiders<br><br>10:20am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -501,17 +501,17 @@ Featured Brands
 
 Sports • Midwest
 
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Country • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
