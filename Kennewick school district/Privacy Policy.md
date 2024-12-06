@@ -66,7 +66,7 @@
     * [School Supplies(opens in new window/tab)](https://www.ksd.org/departments/k-12-services/school-supplies)
     * [Sports Registration & Physicals](https://www.ksd.org/students-families/sports)
     * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
-    * [Transfer Requests(opens in new window/tab)](https://www.ksd.org/departments/k-12-services)
+    * [Transfer Requests(opens in new window/tab)](https://www.ksd.org/departments/k-12-services/transfer)
     
 * [Community](https://www.ksd.org/community)
     
@@ -190,7 +190,7 @@ toggle mobile menu
     * [School Supplies(opens in new window/tab)](https://www.ksd.org/departments/k-12-services/school-supplies)
     * [Sports Registration & Physicals](https://www.ksd.org/students-families/sports)
     * [Transcript Request](https://www.ksd.org/students-families/transcript-request)
-    * [Transfer Requests(opens in new window/tab)](https://www.ksd.org/departments/k-12-services)
+    * [Transfer Requests(opens in new window/tab)](https://www.ksd.org/departments/k-12-services/transfer)
     
 * [Community](https://www.ksd.org/community)
     
