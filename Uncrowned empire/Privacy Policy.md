@@ -184,15 +184,15 @@ This site uses a CAPTCHA to ensure humans are performing certain actions. The CA
 
 #### Sponsor
 
-* [![Uncrowned Addiction](https://uncrownedempire.com/uploads/monthly_2024_02/AddictionTextAd-300x250.png.cbde52a225286e0a154ddfb6657ef1ad.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=19&key=fa51441e64e3d76580462e5576328fd2dc31a7e1916179703c30e687657feb52)
-* [![Uncrowned Addiction](https://uncrownedempire.com/uploads/monthly_2024_02/AddictionTextAd-300x250.png.cbde52a225286e0a154ddfb6657ef1ad.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=19&key=fa51441e64e3d76580462e5576328fd2dc31a7e1916179703c30e687657feb52)
-* [![Uncrowned Addiction](https://uncrownedempire.com/uploads/monthly_2024_02/AddictionTextAd-300x250.png.cbde52a225286e0a154ddfb6657ef1ad.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=19&key=fa51441e64e3d76580462e5576328fd2dc31a7e1916179703c30e687657feb52)
+* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
+* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
+* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
 
 #### Sponsor
 
-* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
-* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
-* [![Uncrowned Gaming](https://uncrownedempire.com/uploads/monthly_2024_02/GamingTextAd-300x250.png.63b93604d97916a1a322ed320b50d9d8.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=20&key=5a7acc7dbec87fe5b4d5fd118e7ad5af141ff292e1945b6a819a24300286c436)
+* [![Uncrowned Armory](https://uncrownedempire.com/uploads/monthly_2024_02/ArmoryTextAd-300x250.png.2a7088c9e9d7a4d5686e3f949c0eaf18.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=26&key=20050be59664ef941d4ae73fe8378e524e53093e2febb9f9377630ec87538701)
+* [![Uncrowned Armory](https://uncrownedempire.com/uploads/monthly_2024_02/ArmoryTextAd-300x250.png.2a7088c9e9d7a4d5686e3f949c0eaf18.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=26&key=20050be59664ef941d4ae73fe8378e524e53093e2febb9f9377630ec87538701)
+* [![Uncrowned Armory](https://uncrownedempire.com/uploads/monthly_2024_02/ArmoryTextAd-300x250.png.2a7088c9e9d7a4d5686e3f949c0eaf18.png)](https://uncrownedempire.com/index.php?app=core&module=system&controller=redirect&do=advertisement&ad=26&key=20050be59664ef941d4ae73fe8378e524e53093e2febb9f9377630ec87538701)
 
 * [Terms of Use](https://uncrownedempire.com/terms/)
 * [Privacy Policy](https://uncrownedempire.com/privacy/)
