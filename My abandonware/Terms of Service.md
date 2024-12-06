@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Lugnut Math City](https://www.myabandonware.com/game/lugnut-math-city-tfh)
 * [Googolpede](https://www.myabandonware.com/game/googolpede-tfg)
 * [Googol Review](https://www.myabandonware.com/game/googol-review-tff)
 * [Googol Math Games](https://www.myabandonware.com/game/googol-math-games-tfe)
 * [Cheezi](https://www.myabandonware.com/game/cheezi-tfd)
-* [Star Assault](https://www.myabandonware.com/game/star-assault-tdr)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Come On Baby](https://www.myabandonware.com/game/come-on-baby-t93)
-* [Premier Picks](https://www.myabandonware.com/game/premier-picks-7jx)
-* [Sky Kid Deluxe](https://www.myabandonware.com/game/sky-kid-deluxe-rn1)
+* [Wangan Midnight](https://www.myabandonware.com/game/wangan-midnight-t4o)
+* [The Bradley Trainer](https://www.myabandonware.com/game/the-bradley-trainer-rk7)
+* [Gōketsuji Ichizoku: Senzo Kuyō](https://www.myabandonware.com/game/goketsuji-ichizoku-senzo-kuyo-t88)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
