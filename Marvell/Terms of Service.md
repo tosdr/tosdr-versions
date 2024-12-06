@@ -42,14 +42,14 @@ English
 #### Networking
 
 * [Automotive](https://www.marvell.com/products/automotive.html)
-* [Coherent DSP](https://www.marvell.com/products/coherent-dsp.html)
+* [Coherent DSPs](https://www.marvell.com/products/coherent-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
 * [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [Ethernet Controllers](https://www.marvell.com/products/ethernet-adapters-and-controllers.html)
 * [Ethernet PHYs](https://www.marvell.com/products/ethernet-phys.html)
-* [Linear Driver](https://www.marvell.com/products/linear-driver.html)
-* [PAM DSP](https://www.marvell.com/products/pam-dsp.html)
+* [Linear Drivers](https://www.marvell.com/products/linear-driver.html)
+* [PAM DSPs](https://www.marvell.com/products/pam-dsp.html)
 * [PCIe Retimers](https://www.marvell.com/products/pcie-retimers.html)
 * [Transimpedance Amplifiers](https://www.marvell.com/products/transimpedance-amplifiers.html)
 
@@ -57,8 +57,8 @@ English
 
 * [Fibre Channel](https://www.marvell.com/products/fibre-channel-adapters-and-controllers.html)
 * [HDD](https://www.marvell.com/products/hdd.html)
-* [SSD Controller](https://www.marvell.com/products/ssd-controllers.html)
 * [Storage Accelerators](https://www.marvell.com/products/system-solutions.html)
+* [SSD Controllers](https://www.marvell.com/products/ssd-controllers.html)
 
 #### Custom
 
@@ -132,14 +132,14 @@ Compute
 Networking
 
 * [Automotive](https://www.marvell.com/products/automotive.html)
-* [Coherent DSP](https://www.marvell.com/products/coherent-dsp.html)
+* [Coherent DSPs](https://www.marvell.com/products/coherent-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
 * [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
 * [Ethernet Controllers](https://www.marvell.com/products/ethernet-adapters-and-controllers.html)
 * [Ethernet PHYs](https://www.marvell.com/products/ethernet-phys.html)
-* [Linear Driver](https://www.marvell.com/products/linear-driver.html)
-* [PAM DSP](https://www.marvell.com/products/pam-dsp.html)
+* [Linear Drivers](https://www.marvell.com/products/linear-driver.html)
+* [PAM DSPs](https://www.marvell.com/products/pam-dsp.html)
 * [PCIe Retimers](https://www.marvell.com/products/pcie-retimers.html)
 * [Transimpedance Amplifiers](https://www.marvell.com/products/transimpedance-amplifiers.html)
 
@@ -147,8 +147,8 @@ Storage
 
 * [Fibre Channel](https://www.marvell.com/products/fibre-channel-adapters-and-controllers.html)
 * [HDD](https://www.marvell.com/products/hdd.html)
-* [SSD Controller](https://www.marvell.com/products/ssd-controllers.html)
 * [Storage Accelerators](https://www.marvell.com/products/system-solutions.html)
+* [SSD Controllers](https://www.marvell.com/products/ssd-controllers.html)
 
 Custom
 
@@ -164,7 +164,7 @@ BY MARKET
 
 [Watch the latest
 
-Marvell Essential Technology Videos
+**Marvell Essential Technology Videos**
 
 WATCH NOW](https://videos.marvell.com/)
 
@@ -194,7 +194,7 @@ Contact
 
 [Watch the latest
 
-Marvell Essential Technology Videos
+**Marvell Essential Technology Videos**
 
 WATCH NOW](https://videos.marvell.com/)
 
