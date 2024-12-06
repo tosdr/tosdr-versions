@@ -1,7 +1,7 @@
 **Terms Of Service** 
 ---------------------
 
-_**Last Modified: July 31, 2024**_
+_**Last Modified: December 06, 2024**_
 
  **NOTE:** These Terms of Service were drafted in English. If these Terms of Service are offered in any language other than English it shall be for information purposes only and, in case of conflict between the English-language version and any translation thereof, the English-language version will prevail.
 
@@ -45,11 +45,13 @@ _**NOTE :** Any capitalized terms not defined herein shall bear the meaning attr
     
     In addition, there are further requirements in our Terms, including special terms for models and content partners, that must be accepted by joining our model or content partner program.
     
-9. **Prohibited Use:** All Content uploaded to, and use of, the Website must be legal and follow our Terms and must, in particular, respect the section “Prohibited Uses and Reporting” of our Terms. 
+9. **Online Safety Act (Australia):** This Website prohibits uploading content that includes or contains illicit materials, specifically those related to child sexual exploitation, extreme crime, violence, terrorism, and certain drug-related materials. Content Partners, Models, and Verified Uploaders must not upload such material, as we have the right to immediately remove and report it. 
     
-10. **Reporting**: Users are urged to report Content they suspect of being illegal or in violation of our Terms.
+10. **Prohibited Use:** All Content uploaded to, and use of, the Website must be legal and follow our Terms and must, in particular, respect the section “Prohibited Uses and Reporting” of our Terms. 
     
-11. **Monitoring and Enforcement; Termination:** We have the right to enforce our Terms through appropriate measures we deem appropriate, which may include: 
+11. **Reporting**: Users are urged to report Content they suspect of being illegal or in violation of our Terms.
+    
+12. **Monitoring and Enforcement; Termination:** We have the right to enforce our Terms through appropriate measures we deem appropriate, which may include: 
     
     \- Written warnings
     
@@ -59,29 +61,29 @@ _**NOTE :** Any capitalized terms not defined herein shall bear the meaning attr
     
     You may lodge a complaint within 6 months of being notified of our decision. You may not misuse this procedure. If you believe that any Content violates your copyright, you may also refer to our [Copyright Policy](https://www.pornhub.com/information/dmca) for instructions on sending us a notice of copyright infringement.
     
-12. **Information about You and Your Visits:** All information we collect on the Website is subject to our [Privacy Notice.](https://www.pornhub.com/information/privacy) The Cookie Banner can be utilized to customize your cookie preferences. You can access the Cookie Banner anytime by clicking on the 'Manage cookies' option that is located at the footer of the Website.
+13. **Information about You and Your Visits:** All information we collect on the Website is subject to our [Privacy Notice.](https://www.pornhub.com/information/privacy) The Cookie Banner can be utilized to customize your cookie preferences. You can access the Cookie Banner anytime by clicking on the 'Manage cookies' option that is located at the footer of the Website.
     
-13. **Collection and Use of Your Usage Information by Advertisers and Others:** Third parties that place advertising on this Website may have the ability to use cookies and/or web beacons to collect information, including information about your usage of this Website. We do not control the processes that advertisers may use to collect such information.
+14. **Collection and Use of Your Usage Information by Advertisers and Others:** Third parties that place advertising on this Website may have the ability to use cookies and/or web beacons to collect information, including information about your usage of this Website. We do not control the processes that advertisers may use to collect such information.
     
-14. **Linking to this Website and Social Media Features:** You may link to this Website and use certain social media features, but always subject to the Terms.
+15. **Linking to this Website and Social Media Features:** You may link to this Website and use certain social media features, but always subject to the Terms.
     
-15. **Collection and Permitted Disclosure of Personal Information:** This Website will not disclose any personally identifiable information we collect or obtain, except in the cases expressly provided in our Terms.
+16. **Collection and Permitted Disclosure of Personal Information:** This Website will not disclose any personally identifiable information we collect or obtain, except in the cases expressly provided in our Terms.
     
-16. **Indemnification:** To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless this Website, us as its operator, and others as detailed in the Terms.
+17. **Indemnification:** To the extent permitted by applicable law, you agree to defend, indemnify, and hold harmless this Website, us as its operator, and others as detailed in the Terms.
     
-17. **Disclaimer:** You use the Website at your sole risk. We provide the Website “as is” and “as available”. Further details are provided in our Terms.
+18. **Disclaimer:** You use the Website at your sole risk. We provide the Website “as is” and “as available”. Further details are provided in our Terms.
     
-18. **Limitation of Liability:** Our liability is limited, as provided in our Terms.
+19. **Limitation of Liability:** Our liability is limited, as provided in our Terms.
     
-19. **Limitation on Time to File Claims:** Any cause of action or claim must be commenced within a maximum of one (1) year after the cause.
+20. **Limitation on Time to File Claims:** Any cause of action or claim must be commenced within a maximum of one (1) year after the cause.
     
-20. **Arbitration and Waiver of Certain Rights (US):** Users located in the United States of America will resolve any disputes between us through binding and final arbitration instead of through court proceedings, as provided in more detail in our Terms.
+21. **Arbitration and Waiver of Certain Rights (US):** Users located in the United States of America will resolve any disputes between us through binding and final arbitration instead of through court proceedings, as provided in more detail in our Terms.
     
-21. **Arbitration and Waiver of Certain Rights (EU):** If you or your place of establishment is in the European Union, you may have the right to select a Dispute Settlement Body to assist in resolving any disputes with us. We are neither willing nor obligated to participate in dispute resolution proceedings with consumers before a consumer arbitration board under the EU Directive on Consumer ADR.
+22. **Arbitration and Waiver of Certain Rights (EU):** If you or your place of establishment is in the European Union, you may have the right to select a Dispute Settlement Body to assist in resolving any disputes with us. We are neither willing nor obligated to participate in dispute resolution proceedings with consumers before a consumer arbitration board under the EU Directive on Consumer ADR.
     
-22. **Law and Jurisdiction:** Our Terms, your use of this Website, and the relationship between you and us shall be governed by the laws of the Republic of Cyprus. The sole and exclusive jurisdiction and venue for any action or proceeding arising out of or related to our Terms shall be in a competent court located in the Republic of Cyprus.
+23. **Law and Jurisdiction:** Our Terms, your use of this Website, and the relationship between you and us shall be governed by the laws of the Republic of Cyprus. The sole and exclusive jurisdiction and venue for any action or proceeding arising out of or related to our Terms shall be in a competent court located in the Republic of Cyprus.
     
-23. **Termination:** We may terminate our Terms for any or no reason at any time by notifying you through a notice on this Website, by email, or by any other method of communication.
+24. **Termination:** We may terminate our Terms for any or no reason at any time by notifying you through a notice on this Website, by email, or by any other method of communication.
     
 
 The full Terms of Service can be found below and you are advised to read them before using the Website and accessing any of its Content, functionalities and services.
@@ -251,6 +253,29 @@ You represent and warrant that with respect to all Content you will upload on th
     
 
 Failure to comply with these Terms of Service or any related contracts you will enter into with us, or should we determine that any of the statements above is untrue, or not complied with, we may, in our sole discretion, refuse to include the Content or any part thereof or any references to such Content on this Website, remove the Content in question from this Website, forfeit all accrued or pending earnings, cancel all current or pending payouts, terminate your account and take any measures necessary to minimize or eliminate any liability.
+
+Online Safety Act - Rules Applicable to Australian Users
+--------------------------------------------------------
+
+For the purposes of this section:
+
+* **“Class 1A Material”** shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
+    
+* **“Class 1B Material”** shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
+    
+
+Class 1A Material and Class 1B Material may hereinafter collectively be referred to as “Illicit Material”.
+
+Per the provisions of the Online Safety Act (2021) (the **“OSA”**) Content Partners, Models, and Verified Uploaders hereby must ensure and subsequently warrants that:
+
+* The Content uploaded or attempted to be uploaded to this Website is in adherence to our Terms described herein.
+    
+* Any audiovisual Content uploaded or attempted to be uploaded to this Website does not contain Illicit Material.
+    
+* Content Partners, Models, and Verified Uploaders reserves the right to and shall take any action it deems necessary in order to limit, prevent, remove, or otherwise moderate any Content which infringes the provisions of this section and/or any other, applicable terms. Content Partners, Models, and Verified Uploaders shall also ensure, to the extent possible, that you comply with the provisions of this section.
+    
+* We have a zero-tolerance policy towards the solicitation, access, generation, distribution, or storage of any Content that involves the depiction of children or features Class 1A Material in any capacity. All child sexual exploitation/abuse material that we identify or are made aware of will result in the immediate removal of the Content in question as well as the immediate removal of its uploader from this Website. Without prejudice to all other rights reserved for action against the above (including account suspension, removal of infringing content etc.), we report all cases of apparent child sexual exploitation/abuse material to the National Center for Missing and Exploited Children.
+    
 
 Additional Information Applicable to All Users
 ----------------------------------------------
