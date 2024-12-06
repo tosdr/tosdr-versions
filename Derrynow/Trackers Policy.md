@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-05 Dec 2024
+06 Dec 2024
 
 * [Home
     
@@ -291,6 +291,13 @@ Derry Magistrates' Court
 [Man charged series of domestic abuse and assault offences returned for trial](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Storm Darragh: Council issues update on services across Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man arrested and quantity of drugs seized in Derry's Waterside area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and quantity of drugs seized in Derry's Waterside area")](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
 
 PSNI
@@ -314,28 +321,21 @@ PSNI
 [Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Winter Wonderland at Gelvin Road, Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Winter Wonderland at Gelvin Road, Dungiven")](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
+
+Winter Wonderland at Gelvin Road, Dungiven
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Dungiven family set to switch on Christmas lights as a fundraiser for local school](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "25-year-old man charged with driving offences to appear before Derry Magistrates’ Court")](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [25-year-old man charged with driving offences to appear before Derry Magistrates’ Court](https://www.derrynow.com/news/local-news/1673502/25-year-old-man-charged-with-driving-offences-to-appear-before-derry-magistrates-court.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police appealing for information following vehicle seen driving erratically in Castledawson](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police appealing for information following vehicle seen driving erratically in Castledawson")](https://www.derrynow.com/news/local-news/1673392/police-appealing-for-information-following-vehicle-seen-driving-erratically-in-castledawson.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police appealing for information following vehicle seen driving erratically in Castledawson](https://www.derrynow.com/news/local-news/1673392/police-appealing-for-information-following-vehicle-seen-driving-erratically-in-castledawson.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry man jailed for breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed for breaching non-molestation order")](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry man jailed for breaching non-molestation order](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
