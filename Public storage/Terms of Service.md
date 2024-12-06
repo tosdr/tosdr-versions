@@ -85,7 +85,7 @@
 
 Your Account
 
-* [Log In](https://www.publicstorage.com/lease/sign-elease)
+* [Log In](https://www.publicstorage.com/myaccount/identity/login)
 * [Create an Account](https://www.publicstorage.com/myaccount/identity/create-account)
 * [Your Reservation](https://www.publicstorage.com/access-reservation)
 * [Download App](https://www.publicstorage.com/app)
@@ -125,7 +125,7 @@ Pay Bill
 
 Your Account
 
-* [Log In](https://www.publicstorage.com/lease/sign-elease)
+* [Log In](https://www.publicstorage.com/myaccount/identity/login)
 * [Create an Account](https://www.publicstorage.com/myaccount/identity/create-account)
 * [Your Reservation](https://www.publicstorage.com/access-reservation)
 * [Download App](https://www.publicstorage.com/app)
