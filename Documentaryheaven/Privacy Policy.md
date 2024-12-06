@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
-    
-    The Fog of War
-    
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+    
+    The Fog of War
+    
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
 
 ###### Throwback Documentaries
 
-* [![Bazaar Bizarre: The Strange Case of Bob Berdella](/wp-content/thumbnails/6000-100x70.jpg?x53432)
+* [![Secrets of a Psychopath: The Murder of Elaine O’Hara](/wp-content/thumbnails/14895-100x70.jpg?x53432)
     
-    Bazaar Bizarre: The Strange Case of Bob Berdella
+    Secrets of a Psychopath: The Murder of Elaine O’Hara
     
-    In 1988, Chris Bryson was found running down a Kansas City street naked, beaten, and bloody wearing nothing but a dog collar and a leash. He told police about Bob Berdella, a local business man and ho](https://documentaryheaven.com/bazaar-bizarre-the-strange-case-of-bob-berdella/ "Bazaar Bizarre: The Strange Case of Bob Berdella")
-* [![The Last Rhino](/wp-content/thumbnails/6858-100x70.jpg?x53432)
+    Having shocked a nation, the murder of Elaine O’Hara, 36, was one of Irelands most high profile cases in recent years and in this three part documentary series we learn how Graham Dwyer, 42, stabbed](https://documentaryheaven.com/secrets-of-a-psychopath-the-murder-of-elaine-ohara/ "Secrets of a Psychopath: The Murder of Elaine O’Hara")
+* [![The Mariana Trench: Earth’s Deepest Place](/wp-content/thumbnails/13969-100x70.jpg?x53432)
     
-    The Last Rhino
+    The Mariana Trench: Earth’s Deepest Place
     
-    It’s a creature from a bygone age, older than mankind itself. Greed and corruption, myth and superstition, had brought the rhino to the brink of extinction. For millenia its best protection, the rhin](https://documentaryheaven.com/the-last-rhino/ "The Last Rhino")
-* [![Apple’s Broken Promises](/wp-content/thumbnails/9465-100x70.jpg?x53432)
+    Earth a 4.5 billion year old planet which is still very much evolving and as continents shift and clash due to tectonic plate movement volcanos erupt and glaciers grow and recede, the Earths crus](https://documentaryheaven.com/mariana-trench-earths-deepest-place/ "The Mariana Trench: Earth’s Deepest Place")
+* [![9/11 Revisited, Were Explosives Used?](/wp-content/thumbnails/1370-100x70.jpg?x53432)
     
-    Apple’s Broken Promises
+    9/11 Revisited, Were Explosives Used?
     
-    In this Panorama special the truth about Apple and your iPhone is revealed, for the first time secret filming from inside the high security Chinese factories where Apples products are made show the re](https://documentaryheaven.com/apples-broken-promises/ "Apple’s Broken Promises")
-* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
+    September 11th Revisited is perhaps the most riveting film ever made about the destruction of the World Trade Center. This is a powerful documentary which features eyewitness accounts and archived new](https://documentaryheaven.com/911-revisited-were-explosives-used/ "9/11 Revisited, Were Explosives Used?")
+* [![Blood Diamond](/wp-content/thumbnails/9201-100x70.jpg?x53432)
     
-    The Nine Months That Made You
+    Blood Diamond
     
-    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
-* [![Syria: Inside the Secret Revolution](/wp-content/thumbnails/6092-100x70.jpg?x53432)
+    Diamonds, timeless, beautiful, symbols of love, they come in different colors, shapes and sizes their value measured by carat, cut and clarity. They are the worlds most precious gem but in west and ce](https://documentaryheaven.com/blood-diamond/ "Blood Diamond")
+* [![Growing Up in the Universe](/wp-content/thumbnails/3316-100x70.jpg?x53432)
     
-    Syria: Inside the Secret Revolution
+    Growing Up in the Universe
     
-    After Libya, will Syria be the next Arab dictatorship to fall to people power? For months, a popular uprising has been fighting an unseen and bloody battle against the Syrian regime.Panorama has b](https://documentaryheaven.com/syria-inside-the-secret-revolution/ "Syria: Inside the Secret Revolution")
+    Growing Up in the Universe was a series of lectures given by Richard Dawkins as part of the Royal Institution Christmas Lectures, in which he discussed the evolution of life in the universe. The lectu](https://documentaryheaven.com/growing-up-in-the-universe/ "Growing Up in the Universe")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
