@@ -321,6 +321,12 @@ We are migrating your Account information.
 
 ###### Attention
 
+Unable to update shopping cart information. Please refresh the page to resolve the issue. If this issue persists, please [contact Trimble support.](http://help.trimble.com/)
+
+Refresh Page
+
+###### Attention
+
 We tried to combine the products in your guest cart with your saved cart, but we encountered an issue while merging them. When choosing a subscription, please select either monthly or yearly as they cannot be combined. Kindly review your cart before proceeding to checkout.
 
 Continue
