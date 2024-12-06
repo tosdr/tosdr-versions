@@ -108,11 +108,6 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
     
     The new world order – Illuminati, Freemasons and other secret societies
@@ -123,6 +118,11 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
     The Fog of War
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Iraqs Missing Billions](/wp-content/thumbnails/47-100x70.jpg?x53432)
+* [![Bazaar Bizarre: The Strange Case of Bob Berdella](/wp-content/thumbnails/6000-100x70.jpg?x53432)
     
-    Iraqs Missing Billions
+    Bazaar Bizarre: The Strange Case of Bob Berdella
     
-    Dispatches investigats Iraqs missing money.](https://documentaryheaven.com/iraqs-missing-billions/ "Iraqs Missing Billions")
-* [![World Cup’s Most Shocking Moments](/wp-content/thumbnails/5911-100x70.jpg?x53432)
+    In 1988, Chris Bryson was found running down a Kansas City street naked, beaten, and bloody wearing nothing but a dog collar and a leash. He told police about Bob Berdella, a local business man and ho](https://documentaryheaven.com/bazaar-bizarre-the-strange-case-of-bob-berdella/ "Bazaar Bizarre: The Strange Case of Bob Berdella")
+* [![The Last Rhino](/wp-content/thumbnails/6858-100x70.jpg?x53432)
     
-    World Cup’s Most Shocking Moments
+    The Last Rhino
     
-    Richard Bacon and guest presenter Peter Crouch look back on the 50 greatest shocks in the history of the World Cup, covering the last six tournaments and including moments such as Maradona’s Hand of G](https://documentaryheaven.com/world-cups-most-shocking-moments/ "World Cup’s Most Shocking Moments")
-* [![The Ring of Fire](/wp-content/thumbnails/6778-100x70.jpg?x53432)
+    It’s a creature from a bygone age, older than mankind itself. Greed and corruption, myth and superstition, had brought the rhino to the brink of extinction. For millenia its best protection, the rhin](https://documentaryheaven.com/the-last-rhino/ "The Last Rhino")
+* [![Apple’s Broken Promises](/wp-content/thumbnails/9465-100x70.jpg?x53432)
     
-    The Ring of Fire
+    Apple’s Broken Promises
     
-    Broadcast (1998) The Pacific Ocean is rimmed by a chain of active volcanoes, arranged in a series of graceful arcs and extending 30,000 kilometres from New Zealand through Fiji, New Guinea, the Philip](https://documentaryheaven.com/the-ring-of-fire/ "The Ring of Fire")
-* [![Behind Blue Eyes](/wp-content/thumbnails/3555-100x70.jpg?x53432)
+    In this Panorama special the truth about Apple and your iPhone is revealed, for the first time secret filming from inside the high security Chinese factories where Apples products are made show the re](https://documentaryheaven.com/apples-broken-promises/ "Apple’s Broken Promises")
+* [![The Nine Months That Made You](/wp-content/thumbnails/6030-100x70.jpg?x53432)
     
-    Behind Blue Eyes
+    The Nine Months That Made You
     
-    There are only thirteen known Leucistic alligators in the world. Gatorland located in Orlando, Florida is home to four of the thirteen Leucistic and is the biggest collection in the world. This short](https://documentaryheaven.com/behind-blue-eyes/ "Behind Blue Eyes")
-* [![PT 2/2 On Piracy And The Future Of Media](/wp-content/thumbnails/2193-100x70.jpg?x53432)
+    Horizon explores the secrets of what makes a long, healthy and happy life. It turns out that a time you can’t remember – the nine months you spend in the womb – could have more lasting effects on you](https://documentaryheaven.com/the-nine-months-that-made-you/ "The Nine Months That Made You")
+* [![Syria: Inside the Secret Revolution](/wp-content/thumbnails/6092-100x70.jpg?x53432)
     
-    PT 2/2 On Piracy And The Future Of Media
+    Syria: Inside the Secret Revolution
     
-    Each day, millions of youths from Canada and around the world download music and movies off of the Internet. This epidemic of “unauthorized” downloading has been cited by the record and film industrie](https://documentaryheaven.com/pt-22-on-piracy-and-the-future-of-media/ "PT 2/2 On Piracy And The Future Of Media")
+    After Libya, will Syria be the next Arab dictatorship to fall to people power? For months, a popular uprising has been fighting an unseen and bloody battle against the Syrian regime.Panorama has b](https://documentaryheaven.com/syria-inside-the-secret-revolution/ "Syria: Inside the Secret Revolution")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
