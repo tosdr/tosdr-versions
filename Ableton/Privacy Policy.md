@@ -527,7 +527,7 @@ Ableton does not knowingly collect or use personal data from children under 13 y
 
 Sign up to our newsletter Enter your email address to stay up to date with the latest offers, tutorials, downloads, surveys and more.
 
-* [Register Live or Push](https://www.ableton.com/en/account/add_license/)
+* [Register Live, Push or Move](https://www.ableton.com/en/account/add_license/)
 * [About Ableton](https://www.ableton.com/en/about/)
 * [Jobs](https://www.ableton.com/en/jobs/)
 
