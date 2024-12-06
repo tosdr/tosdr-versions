@@ -28,6 +28,7 @@ Menu
     * [For Son](https://www.moonpig.com/uk/personalised-cards/christmas/for-son/)
     * [For Daughter](https://www.moonpig.com/uk/personalised-cards/christmas/for-daughter/)
     * [For Couple](https://www.moonpig.com/uk/personalised-cards/christmas/for-couple/)
+    * [For Partner](https://www.moonpig.com/uk/personalised-cards/christmas/for-partner/)
     
     ### Cards by Theme
     
@@ -44,10 +45,11 @@ Menu
     
     ### Gifts by Type
     
-    * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/)
+    * [Balloons](https://www.moonpig.com/uk/gifts/balloons/christmas/)
     * [Beauty & Fragrance](https://www.moonpig.com/uk/gifts/christmas/beauty-grooming/)
     * [Champagne & Prosecco](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/champagne-prosecco/)
     * [Chocolate & Sweets](https://www.moonpig.com/uk/gifts/christmas/chocolate-sweets/)
+    * [Drink Gifts](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/all/)
     * [Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
     * [Hampers](https://www.moonpig.com/uk/gifts/christmas/hampers/)
@@ -130,7 +132,7 @@ Menu
     * [Trending Cards](https://www.moonpig.com/uk/personalised-cards/birthday/trending/)
     * [Flower & Plant Gift Sets](https://www.moonpig.com/uk/flowers-and-plants/gift-sets/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/birthday/)
-    * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
+    * [Drink Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
     
 * Open Cards dropdown[![Cards](https://static.web-explore.prod.moonpig.net/_next/static/images/cards-1216848fbcfa3b9ed73fa8e0965c9adc.svg)
@@ -263,7 +265,7 @@ Menu
     * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/)
     * [Hampers](https://www.moonpig.com/uk/gifts/hampers/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/)
-    * [Alcohol Gifts](https://www.moonpig.com/uk/gifts/alcohol/all/)
+    * [Drink Gifts](https://www.moonpig.com/uk/gifts/alcohol/all/)
     * [Balloons](https://www.moonpig.com/uk/gifts/balloons/)
     * [Fun & Novelty](https://www.moonpig.com/uk/gifts/fun-novelty/all/)
     * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/chocolate-sweets/)
@@ -331,7 +333,7 @@ Menu
     * [Red Wine](https://www.moonpig.com/uk/gifts/alcohol/red-wine/)
     * [White Wine](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/white/)
     * [Rosé Wine](https://www.moonpig.com/uk/gifts/alcohol/rose-wine/)
-    * [Personalised Alcohol](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/)
+    * [Personalised Drinks](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/)
     * [Spirits & Whiskey](https://www.moonpig.com/uk/gifts/alcohol/spirits-whiskey/)
     * [Beer & Cider](https://www.moonpig.com/uk/gifts/alcohol/beer-cider/)
     
