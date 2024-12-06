@@ -1420,7 +1420,7 @@ Your Cart is empty.
 * [RazerStore Rewards](https://www.razer.com/store/rewards)
 * [Log In](#)
 
-Pick the perfect gifts for every kind of gamer with our Razer Holiday Gift Guide. [Shop Now \>](https://www.razer.com/campaigns/year-end-gift-guide)
+Order by December 15, 2024 to ensure your orders arrive before December 25, 2024. The cut off does not apply to Razer Customs products & Gaming Chairs. [Shop Now \>](https://www.razer.com/campaigns/year-end-gift-guide)
 
 RAZER CUSTOMER PRIVACY POLICY
 =============================
