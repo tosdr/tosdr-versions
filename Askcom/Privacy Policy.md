@@ -1,4 +1,4 @@
-[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=7123f7f0-dffc-4fbe-8aba-a0f06045e25e&ad=dirN "https://www.ask.com/?ueid=7123f7f0-dffc-4fbe-8aba-a0f06045e25e&ad=dirN")
+[![](/static/logos/ask.com.svg)](https://www.ask.com/?ueid=8bcd34f4-ea3e-4b76-ad2d-407183c394b6&ad=dirN "https://www.ask.com/?ueid=8bcd34f4-ea3e-4b76-ad2d-407183c394b6&ad=dirN")
 
 Ask Media Group Privacy Policy
 
@@ -302,7 +302,7 @@ Data Protection Officer
 1955 Broadway, Suite 350  
 Oakland, CA 94612
 
-* [Privacy Policy](https://www.ask.com/privacy?ueid=7123f7f0-dffc-4fbe-8aba-a0f06045e25e&ad=dirN "Privacy Policy")
-* [Terms of Service](https://www.ask.com/terms?ueid=7123f7f0-dffc-4fbe-8aba-a0f06045e25e&ad=dirN "Terms of Service")
+* [Privacy Policy](https://www.ask.com/privacy?ueid=8bcd34f4-ea3e-4b76-ad2d-407183c394b6&ad=dirN "Privacy Policy")
+* [Terms of Service](https://www.ask.com/terms?ueid=8bcd34f4-ea3e-4b76-ad2d-407183c394b6&ad=dirN "Terms of Service")
 * [Help](https://help.askmediagroup.com/hc/en-us?domain={SITE_NAME}&u={CID} "Help")
 * © 2024 Ask Media Group, LLC
