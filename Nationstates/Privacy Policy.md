@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What triggers you about the AN? (11,329)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (11,329 posts)")
-* [Tiami's Endless Tacos (2,163)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (2,163 posts)")
-* [PC Discussion Thread (62)](https://forum.nationstates.net/viewtopic.php?t=556720&f=20&view=unread#unread ""PC Discussion Thread" (62 posts)")
-* [Syrian Civil War: 3-Day Special Milit… (227)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: 3-Day Special Military Op For Aleppo" (227 posts)")
-* [Say a random sentence (9,770)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,770 posts)")
+* [Aircraft of your nation's leader (MT-… (10)](https://forum.nationstates.net/viewtopic.php?t=559132&f=23&view=unread#unread ""Aircraft of your nation's leader (MT-PMT, open)" (10 posts)")
+* [UnitedHealthcare CEO Assassinated (322)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (322 posts)")
+* [Rate the AN's Chosen Factbook! (1,756)](https://forum.nationstates.net/viewtopic.php?t=532319&f=25&view=unread#unread ""Rate the AN's Chosen Factbook!" (1,756 posts)")
+* [The Solitary Throne \[IC | Closed\] (93)](https://forum.nationstates.net/viewtopic.php?t=555919&f=31&view=unread#unread ""The Solitary Throne [IC | Closed]" (93 posts)")
+* [Out of the 2 AN’s: Which one has the… (5,080)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,080 posts)")
 
 Advertisement
 
