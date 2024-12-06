@@ -53,7 +53,7 @@ Powered By ![](https://www.myfibroteam.com/assets/mht/mht_text-f99bc3e4bd3961a44
 
 Want the latest fibromyalgia info & tips?
 
-* [![](https://www.myfibroteam.com/assets/default_avatars/silhouettes/avatar_profile0-23ca04cdd95ff55608633895b51ec9464a7f87d7964a65960c21740e232861c0.png)](https://www.myfibroteam.com/users/sign_up)
+* [![](https://www.myfibroteam.com/assets/default_avatars/silhouettes/0-23ca04cdd95ff55608633895b51ec9464a7f87d7964a65960c21740e232861c0.png)](https://www.myfibroteam.com/users/sign_up)
     
 
 [Yes!](https://www.myfibroteam.com/email_users)
