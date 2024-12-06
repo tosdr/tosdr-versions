@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")9 hours ago
             
         * [Humans](https://www.sciencenews.org/topic/humans)
             
@@ -124,13 +124,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")5 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")11 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")7 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")13 hours ago
             
         * [Life](https://www.sciencenews.org/topic/life)
             
@@ -151,19 +151,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")3 hours ago
+            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")9 hours ago
             
         * [Plants](https://www.sciencenews.org/topic/plants)
             
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
-            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")5 hours ago
+            By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")11 hours ago
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
             
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")7 hours ago
+            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")13 hours ago
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A spacecraft duo will fly in formation to create artificial solar eclipses](https://www.sciencenews.org/article/artificial-solar-eclipse-satellites)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")10 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")16 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
