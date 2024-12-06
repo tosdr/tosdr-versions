@@ -60,7 +60,7 @@ For more than 50 years, we have been building innovative solutions to the bigges
 
 * [2023 impact report](https://impact2023.edf.org/)
 
-* [Vision 2030, our strategic plan](https://www.edf.org/vision-2030)
+* [50+ years of wins for the planet](https://www.edf.org/impact)
 
 Close Featured
 
