@@ -1,4 +1,4 @@
-[![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-logo.svg)](https://sell.g2.com/)
+[![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-logo.svg)](https://sell.g2.com/?hsLang=en)
 
 * Marketing Solutions
     
@@ -6,40 +6,40 @@
     
     Products
     
-    * [](https://sell.g2.com/profiles)Profiles
+    * [](https://sell.g2.com/profiles?hsLang=en)Profiles
         
         Build your brand and capture demand.
         
-    * [](https://sell.g2.com/data)Buyer Intent
+    * [](https://sell.g2.com/data?hsLang=en)Buyer Intent
         
         Find customers primed to purchase.
         
-    * [](https://sell.g2.com/review-generation)Reviews
+    * [](https://sell.g2.com/review-generation?hsLang=en)Reviews
         
         Get feedback and inspire buyer confidence.
         
-    * [](https://sell.g2.com/content)Content Marketing Subscription
+    * [](https://sell.g2.com/content?hsLang=en)Content Marketing Subscription
         
         Drive demand with licensed G2 Reports.
         
-    * [](https://sell.g2.com/market-intelligence)Market Intelligence
+    * [](https://sell.g2.com/market-intelligence?hsLang=en)Market Intelligence
         
         Make data-driven decisions with insider intel.
         
     
     Solutions
     
-    * [G2 for Marketing](https://sell.g2.com/g2-for-marketing)
-    * [G2 for Sales](https://sell.g2.com/g2-for-sales)
-    * [G2 for Services](https://sell.g2.com/g2-for-services)
+    * [G2 for Marketing](https://sell.g2.com/g2-for-marketing?hsLang=en)
+    * [G2 for Sales](https://sell.g2.com/g2-for-sales?hsLang=en)
+    * [G2 for Services](https://sell.g2.com/g2-for-services?hsLang=en)
     
     Get Started with G2
     
-    * [](https://sell.g2.com/create-a-profile)Create a Profile
+    * [](https://sell.g2.com/create-a-profile?hsLang=en)Create a Profile
         
         List your product or service on G2 and get your name in front of millions.
         
-    * [](https://sell.g2.com/claim-your-profile)Claim Your Profile
+    * [](https://sell.g2.com/claim-your-profile?hsLang=en)Claim Your Profile
         
         Take control of your company’s profile to start building brand and demand.
         
@@ -94,34 +94,34 @@
     * [](https://partnerhub.g2.com/integrations/salesloft)
         
     
-    Join the thousands of vendors who work with G2 and enhance your strategies in a snap. [Learn more](https://partner.g2.com/)
+    Join the thousands of vendors who work with G2 and enhance your strategies in a snap. [Learn more](https://partner.g2.com/?hsLang=en)
     
-* [Customer Stories](https://sell.g2.com/customers)
+* [Customer Stories](https://sell.g2.com/customers?hsLang=en)
 * Customer Stories
     
     Main Menu
     
-    * [![](https://legal.g2.com/hubfs/CustomerStory-ZoomInfo.svg)](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate)
+    * [![](https://legal.g2.com/hubfs/CustomerStory-ZoomInfo.svg)](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate?hsLang=en)
         
-        [ZoomInfo](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate)
+        [ZoomInfo](https://sell.g2.com/case-studies/zoominfo-buyer-intent-conversion-rate?hsLang=en)
         
         Pipeline generation, buyer intent, integration
         
-    * [![](https://legal.g2.com/hubfs/customer-story-tile-salesloft.png)](https://learn.g2.com/case-study-salesloft-drives-pipeline)
+    * [![](https://legal.g2.com/hubfs/customer-story-tile-salesloft.png)](https://learn.g2.com/case-study-salesloft-drives-pipeline?hsLang=en)
         
-        [Salesloft](https://learn.g2.com/case-study-salesloft-drives-pipeline)
+        [Salesloft](https://learn.g2.com/case-study-salesloft-drives-pipeline?hsLang=en)
         
         Pipeline generation, review generation, content production
         
-    * [Read all customer stories](https://sell.g2.com/customers)
+    * [Read all customer stories](https://sell.g2.com/customers?hsLang=en)
     
     Our Customers Inspire Us
     
-    * [BetterCloud Sees 81% Increase in Deal Size](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent) [Read now](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent)
+    * [BetterCloud Sees 81% Increase in Deal Size](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent?hsLang=en) [Read now](https://sell.g2.com/case-studies/bettercloud-rollworks-buyer-intent?hsLang=en)
         
-    * [85% of Highspot’s Closed Won Opportunities Influenced by G2](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities) [Read now](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities)
+    * [85% of Highspot’s Closed Won Opportunities Influenced by G2](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities?hsLang=en) [Read now](https://sell.g2.com/case-studies/case-study-highspot-closed-won-opportunities?hsLang=en)
         
-    * [Reputation Sees 174% Increase in ARR](https://sell.g2.com/case-studies/reputation-increases-arr) [Read now](https://sell.g2.com/case-studies/reputation-increases-arr)
+    * [Reputation Sees 174% Increase in ARR](https://sell.g2.com/case-studies/reputation-increases-arr?hsLang=en) [Read now](https://sell.g2.com/case-studies/reputation-increases-arr?hsLang=en)
         
     
     G2 Marketing Solutions Reviews
@@ -141,42 +141,42 @@
     
     Learn G2
     
-    * [](https://sell.g2.com/resources)Resource Hub
+    * [](https://sell.g2.com/resources?hsLang=en)Resource Hub
         
         Our collection of content so you can thrive on G2.
         
-    * [](https://sell.g2.com/g2-university)G2 University
+    * [](https://sell.g2.com/g2-university?hsLang=en)G2 University
         
         On-demand certs for marketing and sales.
         
-    * [](https://sell.g2.com/webinars)Webinars
+    * [](https://sell.g2.com/webinars?hsLang=en)Webinars
         
         Learn from the experts. Sell more, grow more.
         
-    * [](https://learn.g2.com/)Learn Hub
+    * [](https://learn.g2.com/?hsLang=en)Learn Hub
         
         Keep a finger on the tech pulse.
         
     
     Research
     
-    * [](https://research.g2.com/)Research Hub
+    * [](https://research.g2.com/?hsLang=en)Research Hub
         
         Content you need to make better technology decisions.
         
-    * [](https://research.g2.com/analysts)Our Analysts
+    * [](https://research.g2.com/analysts?hsLang=en)Our Analysts
         
         Over 30 analysts across industries and sectors.
         
-    * [](https://research.g2.com/insights)Research Insights
+    * [](https://research.g2.com/insights?hsLang=en)Research Insights
         
         From cloud, ERP, HR, AI, and more.
         
-    * [](https://research.g2.com/reports)Our Reports
+    * [](https://research.g2.com/reports?hsLang=en)Our Reports
         
         Info to solve your real-world business problems.
         
-    * [](https://research.g2.com/methodology)Research Methodology
+    * [](https://research.g2.com/methodology?hsLang=en)Research Methodology
         
         A robust method to bring transparency to B2B buying.
         
@@ -187,21 +187,21 @@
     
     Download latest reports
     
-    * [](https://research.g2.com/2024-buyer-behavior-report)2024 Software Buyer Behavior Report
+    * [](https://research.g2.com/2024-buyer-behavior-report?hsLang=en)2024 Software Buyer Behavior Report
         
         Navigate a new software buying reality.
         
-    * [](https://sell.g2.com/reports)G2 Grid & Index Reports
+    * [](https://sell.g2.com/reports?hsLang=en)G2 Grid & Index Reports
         
         Discover high performing and top software across G2 cateogries.
         
-    * [](https://research.g2.com/2024-trends)2024 Trends
+    * [](https://research.g2.com/2024-trends?hsLang=en)2024 Trends
         
         G2 analysts lay out the industry trends you need to know to ride change to growth.
         
-    * [See all reports](https://research.g2.com/reports)
+    * [See all reports](https://research.g2.com/reports?hsLang=en)
     
-* [Pricing](https://sell.g2.com/plans)
+* [Pricing](https://sell.g2.com/plans?hsLang=en)
 
 * Company
     
@@ -209,38 +209,38 @@
     
     Join Us
     
-    * [](https://company.g2.com/careers)Careers
+    * [](https://company.g2.com/careers?hsLang=en)Careers
         
         Find your next career peak with us.
         
-    * [](https://company.g2.com/commitments)Our Commitments
+    * [](https://company.g2.com/commitments?hsLang=en)Our Commitments
         
         We’re creating a place where every you can be you.
         
-    * [](https://company.g2.com/life)Life @ G2
+    * [](https://company.g2.com/life?hsLang=en)Life @ G2
         
         Read how our values come together at work.
         
-    * [](https://company.g2.com/locations)Locations
+    * [](https://company.g2.com/locations?hsLang=en)Locations
         
         Work in personalized and flexible ways.
         
-    * [](https://company.g2.com/teams)Teams
+    * [](https://company.g2.com/teams?hsLang=en)Teams
         
         Join a team where growth happens together.
         
     
     About us
     
-    * [G2 Story](https://company.g2.com/about)
-    * [G2 News](https://company.g2.com/news)
-    * [G2 Culture](https://company.g2.com/culture)
-    * [G2 Gives](https://company.g2.com/gives)
-    * [G2 Philanthropy](https://company.g2.com/philanthropy)
+    * [G2 Story](https://company.g2.com/about?hsLang=en)
+    * [G2 News](https://company.g2.com/news?hsLang=en)
+    * [G2 Culture](https://company.g2.com/culture?hsLang=en)
+    * [G2 Gives](https://company.g2.com/gives?hsLang=en)
+    * [G2 Philanthropy](https://company.g2.com/philanthropy?hsLang=en)
     
     Connect with us
     
-    * [](https://sell.g2.com/request-a-demo)Contact Sales
+    * [](https://sell.g2.com/request-a-demo?hsLang=en)Contact Sales
         
         Have your sales questions answered.
         
@@ -248,36 +248,36 @@
         
         Commonly asked questions and answers get you on your way fast.
         
-    * [](https://sell.g2.com/create-a-profile)Create a Profile
+    * [](https://sell.g2.com/create-a-profile?hsLang=en)Create a Profile
         
         Set up your profile and put yourself in front of millions.
         
-    * [More ways to connect](https://company.g2.com/contact)
+    * [More ways to connect](https://company.g2.com/contact?hsLang=en)
     
 * Get Started
     
     Main Menu
     
-    * [](https://sell.g2.com/create-a-profile)Create a Profile
+    * [](https://sell.g2.com/create-a-profile?hsLang=en)Create a Profile
         
         Set up your profile and put yourself in front of millions.
         
-    * [](https://learn.g2.com/hub/g2-success-hub)Success with G2
+    * [](https://learn.g2.com/hub/g2-success-hub?hsLang=en)Success with G2
         
         Take your brand up-and-to-the-right in record time.
         
-    * [](https://sell.g2.com/claim-your-profile)Claim Your Profile
+    * [](https://sell.g2.com/claim-your-profile?hsLang=en)Claim Your Profile
         
         Generate brand awareness and capture demand.
         
     
 
 * [![](https://legal.g2.com/hubfs/site-refresh/g2-profile-icon-v2.svg)](https://my.g2.com/)
-* [Request a demo](https://sell.g2.com/request-a-demo)
+* [Request a demo](https://sell.g2.com/request-a-demo?hsLang=en)
 
-[Request a demo](https://sell.g2.com/request-a-demo)
+[Request a demo](https://sell.g2.com/request-a-demo?hsLang=en)
 
-[Contact us](https://company.g2.com/contact)
+[Contact us](https://company.g2.com/contact?hsLang=en)
 
 Cookie Policy
 =============
@@ -288,7 +288,7 @@ We use cookies for a variety of purposes. Essential cookies are used for authent
 
 ### What is a cookie?
 
-A cookie is a small text file placed onto your device that helps us recognize you on the Site and remembers your preferences. Cookies may also be set by other websites or services that run content on the specific page you’re visiting. We work with various partners for advertising, marketing, and analytics (“G2.com Partners”), and you can [learn more about these partners](https://legal.g2.com/advertising) in our Advertising section.
+A cookie is a small text file placed onto your device that helps us recognize you on the Site and remembers your preferences. Cookies may also be set by other websites or services that run content on the specific page you’re visiting. We work with various partners for advertising, marketing, and analytics (“G2.com Partners”), and you can [learn more about these partners](https://legal.g2.com/advertising?hsLang=en) in our Advertising section.
 
 ### What types of cookies does G2 use?
 
@@ -378,7 +378,7 @@ Last Updated: Jan 10, 2023
 
  ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Buyers
 
-* [G2 Track](https://track.g2.com/)
+* [G2 Track](https://track.g2.com/?hsLang=en)
 * [Software Reviews](https://www.g2.com/categories)
 * [Products](https://www.g2.com/products)
 * [Best Software Companies](https://www.g2.com/best-software-companies)
@@ -386,22 +386,22 @@ Last Updated: Jan 10, 2023
 
 ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) For Sellers
 
-* [Market Profiles](https://sell.g2.com/profiles)
-* [Review Generation](https://sell.g2.com/review-generation)
-* [Buyer Intent Data](https://sell.g2.com/data)
-* [Content Creation](https://sell.g2.com/content)
-* [Competitive Insights](https://sell.g2.com/competitive-insights)
+* [Market Profiles](https://sell.g2.com/profiles?hsLang=en)
+* [Review Generation](https://sell.g2.com/review-generation?hsLang=en)
+* [Buyer Intent Data](https://sell.g2.com/data?hsLang=en)
+* [Content Creation](https://sell.g2.com/content?hsLang=en)
+* [Competitive Insights](https://sell.g2.com/competitive-insights?hsLang=en)
 * [Add Your Product/Service](https://www.g2.com/products/new)
 
 ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) Company
 
-* [About](https://culture.g2.com/about)
-* [Leadership](https://culture.g2.com/leadership)
-* [Careers](https://culture.g2.com/careers)
-* [Gives](https://culture.g2.com/gives)
-* [News](https://culture.g2.com/news)
-* [Brand Resources](https://culture.g2.com/brand-resources)
-* [Contact](https://culture.g2.com/contact)
+* [About](https://culture.g2.com/about?hsLang=en)
+* [Leadership](https://culture.g2.com/leadership?hsLang=en)
+* [Careers](https://culture.g2.com/careers?hsLang=en)
+* [Gives](https://culture.g2.com/gives?hsLang=en)
+* [News](https://culture.g2.com/news?hsLang=en)
+* [Brand Resources](https://culture.g2.com/brand-resources?hsLang=en)
+* [Contact](https://culture.g2.com/contact?hsLang=en)
 
 * [](https://twitter.com/g2dotcom)
 * [](https://www.facebook.com/g2dotcom)
@@ -409,23 +409,23 @@ Last Updated: Jan 10, 2023
 
 ![](//legal.g2.com/hubfs/raw_assets/public/apex/base/img/g2-chev-red.svg) Resources
 
-* [Sell](https://sell.g2.com/)
-* [Learn](https://learn.g2.com/)
-* [Research](https://research.g2.com/)
-* [Partner](https://partner.g2.com/)
+* [Sell](https://sell.g2.com/?hsLang=en)
+* [Learn](https://learn.g2.com/?hsLang=en)
+* [Research](https://research.g2.com/?hsLang=en)
+* [Partner](https://partner.g2.com/?hsLang=en)
 * [Documentation](https://documentation.g2.com/?utm_source=global+footer&utm_medium=web&utm_campaign=homepage)
 
 * * *
 
 * [Community Guidelines](https://www.g2.com/static/community_guidelines)
-* [G2 Scoring Methodologies](https://research.g2.com/g2-scoring-methodologies)
-* [Terms of Use](https://legal.g2.com/terms-of-use)
-* [Privacy Policy](https://legal.g2.com/privacy-policy)
+* [G2 Scoring Methodologies](https://research.g2.com/g2-scoring-methodologies?hsLang=en)
+* [Terms of Use](https://legal.g2.com/terms-of-use?hsLang=en)
+* [Privacy Policy](https://legal.g2.com/privacy-policy?hsLang=en)
 * [Cookie Policy](https://legal.g2.com/cookie-policy)
 * Cookie Preferences
-* [Copyright Complaint Policy](https://legal.g2.com/copyright-complaint-policy)
-* [Content Usage Guidelines](https://sell.g2.com/content-usage-guidelines)
-* [Your Privacy Choices](https://legal.g2.com/privacy-request)
+* [Copyright Complaint Policy](https://legal.g2.com/copyright-complaint-policy?hsLang=en)
+* [Content Usage Guidelines](https://sell.g2.com/content-usage-guidelines?hsLang=en)
+* [Your Privacy Choices](https://legal.g2.com/privacy-request?hsLang=en)
 
 [](https://www.g2.com/)100 S. Wacker Dr.  
 Ste. 600  
