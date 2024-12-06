@@ -7,7 +7,7 @@
 * [Sorteo Mundial de Clubes](https://www.marca.com/futbol/mundial-de-clubes/2024/12/05/6751c792f49425d14d2168b9-directo.html)
 * [Terremoto California](https://www.marca.com/tiramillas/actualidad/2024/12/05/6751fe71e2704e85688b4593.html)
 * [Atlético de Madrid](https://www.marca.com/futbol/atletico/2024/12/05/atletico-equipo-nunca-deja-creer-ganar.html)
-* [Cacereño - Atlético de Madrid](https://www.marca.com/futbol/copa-del-rey/cacereno-atletico/2024/12/05/01_0105_20241205_5724_175-directo.html)
+* [Equipos clasificados Copa del Rey](https://www.marca.com/futbol/copa-rey/2024/12/04/lunes-9-diciembre-sorteo-1-16-final-copa-equipos-clasificados.html)
 * [Olot - Sevilla](https://www.marca.com/futbol/copa-del-rey/olot-sevilla/2024/12/05/01_0105_20241205_8999_179-directo.html)
 * [AD Ceuta - Osasuna](https://www.marca.com/futbol/copa-del-rey/ad-ceuta-osasuna/2024/12/05/01_0105_20241205_14705_450-directo.html)
 * [Orihuela - Getafe](https://www.marca.com/futbol/copa-del-rey/orihuela-getafe/2024/12/05/01_0105_20241205_3088_1450-directo.html)
