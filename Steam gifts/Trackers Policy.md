@@ -4,6 +4,12 @@ Search for new games to share.](https://www.steamgifts.com/giveaways/wishlist)
 
 [Giveaways](https://www.steamgifts.com/)
 
+[Learn More
+
+Find out more information.](https://www.steamgifts.com/discussion/9jPml/)
+
+[Holiday Event](https://www.steamgifts.com/happy-holidays)
+
 [Deals](https://www.steamgifts.com/discussions/deals)
 
 [Discussions](https://www.steamgifts.com/discussions)
