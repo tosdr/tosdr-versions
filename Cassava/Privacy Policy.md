@@ -2,7 +2,7 @@
 
 Intelligent Workplace Training
 
-[What is Cassava](https://gocassava.com/) [Who Cassava benefits](https://gocassava.com/who-cassava-benefits) [Why Cassava works](https://gocassava.com/why-it-works) [Cassava Fundamentals 101](https://gocassava.com/getting-up-and-running)
+[What is Cassava](https://gocassava.com/) [Who Cassava benefits](https://gocassava.com/who-cassava-benefits) [Why Cassava works](https://gocassava.com/why-it-works) [Cassava Fundamentals 101](https://gocassava.com/getting-up-and-running) [Explore Live Playgrounds](https://gocassava.com/playgrounds)
 
 Integrations
 
@@ -235,11 +235,11 @@ Submit
 
 [Back to top](#top)
 
-v3.1.2.bbc0f00© 2024 Cassavarose LLC. All rights reserved
-
- [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
+v3.2.0.9b5e8fc© 2024 Cassavarose LLC. All rights reserved
 
  [![Why Compliance Training Sucks and How You can Fix It](https://assets.gocassava.com/assets/blog/compliance_training_400x400.png)](https://gocassava.com/blog/why-compliance-training-sucks)Why Compliance Training Sucks and How You can Fix It
+
+ [![3 Fantastic Techniques to Quickly Learn Anything](https://assets.gocassava.com/assets/blog/dont_just_learn_experience_400x400.png)](https://gocassava.com/blog/three-fantastic-techniques-to-quickly-learn-anything)3 Fantastic Techniques to Quickly Learn Anything
 
  [![Supercharge the Creation of Training Modules with Mind Maps and Cassava](https://assets.gocassava.com/assets/blog/brainstorm_v2_400x400.png)](https://gocassava.com/blog/supercharge-creation-training-modules-mind-maps-cassava)Supercharge the Creation of Training Modules with Mind Maps and Cassava
 
@@ -249,7 +249,7 @@ Company
 
 Overview
 
-[What is Cassava](https://gocassava.com/?force=true) [Who Cassava benefits](https://gocassava.com/who-cassava-benefits) [Why Cassava works](https://gocassava.com/why-it-works) [Cassava Fundamentals 101](https://gocassava.com/getting-up-and-running) [Business Coach Value Proposition](https://gocassava.com/blog/cassava-for-business-coaches) [Slack Integration](https://gocassava.com/slack) [Microsoft Teams Integration](https://gocassava.com/teams) [Webex Integration](https://gocassava.com/webex) [Email Integration](https://gocassava.com/email)
+[What is Cassava](https://gocassava.com/?force=true) [Who Cassava benefits](https://gocassava.com/who-cassava-benefits) [Why Cassava works](https://gocassava.com/why-it-works) [Explore Live Playgrounds](https://gocassava.com/playgrounds) [Cassava Fundamentals 101](https://gocassava.com/getting-up-and-running) [Business Coach Value Proposition](https://gocassava.com/blog/cassava-for-business-coaches) [Slack Integration](https://gocassava.com/slack) [Microsoft Teams Integration](https://gocassava.com/teams) [Webex Integration](https://gocassava.com/webex) [Email Integration](https://gocassava.com/email)
 
 Contact
 
