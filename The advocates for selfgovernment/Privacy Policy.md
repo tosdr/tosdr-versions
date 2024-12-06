@@ -370,7 +370,7 @@ Enable Dark Mode
         
         Our Mission
         
-        Read more](https://www.theadvocates.org/libertarian/)
+        Read more](https://www.theadvocates.org/about/)
         
     *    [![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg) ![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg)
         
