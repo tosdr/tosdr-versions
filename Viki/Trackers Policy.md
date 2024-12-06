@@ -2,14 +2,14 @@
 * * [Community](https://contribute.viki.com/)
     * [Apps](https://www.viki.com/apps)
     
-    Sign upLog in
+    [Sign up](https://www.viki.com/sign-up)[Log in](https://www.viki.com/sign-in)
     
 
 * 
 
-* Log in
-* Create Account
-
+* [Log in](https://www.viki.com/sign-in)
+* [Create Account](https://www.viki.com/sign-up)
+* [](https://www.viki.com/sign-in)
 * 
 
 Cookie Policy
