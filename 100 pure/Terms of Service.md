@@ -699,7 +699,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     
 
 * [FEATURED](#)
-* [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
 * [New](https://www.100percentpure.com/collections/new)
 * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
 * [Award Winners](https://www.100percentpure.com/collections/award)
@@ -753,8 +752,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Enlarged Pores](https://www.100percentpure.com/collections/natural-pore-treatment)
 
 * [FEATURED](#)
-    
-* [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
     
 * [New](https://www.100percentpure.com/collections/new)
     
