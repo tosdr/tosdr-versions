@@ -157,69 +157,60 @@ Select Policy
 Algolia Service Level Agreement
 -------------------------------
 
-Latest update: December 9th, 2024
+Latest update: May 1st, 2023
 
 ### _ALGOLIA PROVIDES THE FOLLOWING GUARANTEES FOR THE AVAILABILITY OF ALGOLIA'S HOSTED SEARCH & RECOMMEND SERVICES_
 
-If Algolia does not meet this Service Level Agreement ("SLA") for its hosted search and recommend services under a subscribed plan, and if Subscriber meets its obligations under this SLA, Subscriber will be eligible to receive the service credits described below (“Service Credits”). This SLA states Subscriber's sole and exclusive remedy for any failure by Algolia to meet the SLA.
+If Algolia does not meet this Service Level Agreement ("SLA") for its hosted search & recommend services under a Plan, and if Subscriber meets its obligations under this SLA, Subscriber will be eligible to receive the invoice credits described below. This SLA states Subscriber's sole and exclusive remedy for any failure by Algolia to meet the SLA.
 
-Service Credits are calculated as follows:
+Invoice credits are calculated as follows:  
+_Credit = (Subscription Price × Outage Period Minutes × Acceleration Ratio) ÷ Minutes in the applicable service month_
 
-**Service Credit** \= (Subscription Price × Outage Period Minutes × Acceleration Ratio) ÷ minutes in the applicable Service month. 
+The subscriptions covered by this SLA, the Monthly Guaranteed Uptime, the Acceleration Ratio, and maximum invoice credit available for each covered Algolia subscription are as follows:
 
-The Algolia subscription plans covered by this SLA, the Monthly Guaranteed Uptime, the Acceleration Ratio, and maximum Service Credits available for each covered Algolia subscription plan are as follows:
-
-* Essential, Core and Enterprise Foundation (plans available for subscription):
+* Essential, Core and Enterprise Foundation (available for subscription):
     * Monthly Guaranteed Uptime = 99.99%
     * Acceleration Ratio = 100
     * Monthly Cap = 25% of the Subscription Price for the applicable month
-* Premier Platform Availability SLA (available for subscription only on Algolia KeywordSearch plans):
+* Premier Platform Availability SLA (available for subscription only on Keyword plans):
     * Monthly Guaranteed Uptime = 99.999%
     * Acceleration Ratio = 1,000
-    * Monthly Cap = 50% of the Subscription Price for the applicable month
+    * Monthly Cap = 50% of the Plan Price for the applicable month
 
-**Service Credits Terms and Conditions:**
+**Invoice Credits Terms and Conditions:**
 
-Service Credits will be made in the form of a monetary credit applied towards future use of the Service. A pending Service Credit does not release a Subscriber from its obligation to pay Algolia invoices submitted for payment in full when due. Service Credits may not be exchanged for, or converted to, monetary compensation.
+Credits will be made in the form of a monetary credit applied to future use of the Service. A pending credit does not release a Subscriber from its obligation to pay Algolia invoices submitted for payment in full when due.
 
-SLA Eligibility
+In order for a Subscriber to be eligible to receive a credit under this SLA, the Subscriber must use the latest version of Algolia API Clients and ensure that the retry strategy is implemented strictly following the guidelines of Algolia’s REST API documentation located at [https://www.algolia.com/doc/rest-api/search/](https://www.algolia.com/doc/rest-api/search/).
 
-In order for a Subscriber to be eligible to receive Service Credits under this SLA, the Subscriber must either use (i) the latest major version of the Algolia API Client, including any minor updates to such version, or (ii) the previous major version of the Algolia API Client, including any minor updates to such version, provided that the use of the previous version remains within a period of two (2) years from the release of the latest major version of the API Client, as set forth in the Algolia API Client version Documentation [https://www.algolia.com/doc/libraries/versions/](https://www.algolia.com/doc/libraries/versions/).  
+Service Credits may not be exchanged for, or converted to, monetary compensation.
 
-Example: 
+Service degradation or suspension as a result of a Subscriber exceeding limits under an applicable Algolia subscription is not considered as an Outage covered by this SLA. Additional conditions apply as defined in Algolia's Terms of Service or Subscriber's subscription agreement.
 
-* Previous API Client is version 4.x.y 
-* API Client version 5.0.0 is released on August 14, 2024
-* Eligible Subscribers are:
-    * Subscribers using version 5.0.0. And all subsequent minor updates
-    * Subscribers using version 4.0.0 and all subsequent minor updates until August 13, 2026 (2 years from the date of release of the latest major release of version 5.0.0)
-* Versions prior to 4.x.y are not eligible for SLA credits
+**Definitions**
 
-Service degradation or suspension as a result of a Subscriber exceeding limits under an applicable Algolia subscription plan is not considered as an Outage covered by this SLA. Additional conditions apply as defined in Algolia's Terms of Service or Subscriber's subscription agreement.
+"_Acceleration Ratio_" means the acceleration multiplier Algolia offers for each Algolia subscription covered by this SLA.
 
-**Definitions**  
-**"Acceleration Ratio"** means the acceleration multiplier Algolia offers for each Algolia subscription plan covered by this SLA.
+"_Monthly Cap_" means the maximum aggregate number of invoice credits issued by Algolia to Subscriber for all Outages in a single billing month.
 
-**"Monthly Cap"** means the maximum aggregate number of invoice credits issued by Algolia to Subscriber for all Outages in a single billing month.
+"_Monthly Guaranteed Uptime_" means the total number of minutes in a month, minus the number of minutes of Outage suffered from all Outages in a month, divided by the total number of minutes in a month and expressed as a percentage.
 
-**"Monthly Guaranteed Uptime"** means the total number of minutes in a month, minus the number of minutes of Outage suffered from all Outages in a month, divided by the total number of minutes in a month and expressed as a percentage.
+"_Outage_" means the hosted search API of the Services is unavailable for the applicable subscription.
 
-**"Outage"** means the Algolia Search API is unavailable for the applicable subscription.
+"_Subscription Price_" means the base monthly subscription fee for the applicable Algolia Search Plan and Recommend Request Committed Amount, exclusive of any fees related to add-ons or excess usage.
 
-**"Subscription Price"** means the base monthly subscription fee for the applicable Algolia Search and/or Recommend subscription plan Committed Amount, exclusive of any fees related to add-ons or excess usage.
-
-**"SLA"** means this Service Level Agreement.
+"_SLA_" means this Service Level Agreement.
 
 Algolia will provide at least thirty (30) days' advance notice for changes to the SLA that affect a Subscriber's Algolia subscription by either: (i) sending an email to Subscriber's point of contact for notices; (ii) posting a notice in the Algolia Dashboard; or (iii) posting a notice to the applicable SLA webpage. If a change to the SLA has a material adverse impact on Subscriber and Subscriber does not agree to the change, Subscriber has the right to terminate the corresponding service order within thirty (30) days of notice of such change from Algolia.
 
-This SLA applies to Subscribers who subscribe to the listed Algolia subscription plans on or after the date of last update. The changes are not retroactive. If you are an existing Subscriber prior to the date of last update, a description of your service level agreement may be found below.
+This SLA applies to Subscribers who subscribe to the listed Algolia Plans on or after the date of last update. The changes are not retroactive. If you are an existing Subscriber as of that date, a description of your service level agreement may be found below.
 
 ### Previous Versions:
 
 * [Version 1 (Before August 17, 2017)](https://www.algolia.com/policies/old/sla-before-2017-08-17)
 * [Version 2 (August 17, 2017)](https://www.algolia.com/policies/old/sla-2017-08-17)
 * [Version 3 (January 31, 2019)](https://www.algolia.com/policies/old/sla-2019-01-31)
-* [Version 5 (May 1, 2023)](https://www.algolia.com/policies/old/sla-2023-05-01)
+* [Version 5 (April 30, 2023)](https://www.algolia.com/policies/old/sla-2023-05-01)
 * [Version 4 (February 12, 2021)](https://www.algolia.com/policies/old/sla-2021-02-12)
 
 #### Solutions
