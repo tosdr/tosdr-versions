@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef456e33-26ea-49c1-bb50-3f3091c8759a/20241206T040711/ef456e33-26ea-49c1-bb50-3f3091c8759a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef456e33-26ea-49c1-bb50-3f3091c8759a/20241206T040711/ef456e33-26ea-49c1-bb50-3f3091c8759a_360x203.jpg)](https://www.wqad.com/article/news/local/struggling-agricultural-economy-local-farmers-river-valley-ag-outlook/526-5f6622cc-256b-4e44-a2e8-9825f2ba7acd)
+        
+        #### [Local farmers search for a silver lining in a struggling agricultural economy](https://www.wqad.com/article/news/local/struggling-agricultural-economy-local-farmers-river-valley-ag-outlook/526-5f6622cc-256b-4e44-a2e8-9825f2ba7acd)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
         
-        #### [QC Hy-Vee stores compete in Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7) [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
-        
-        #### [Hy-Vee stores seeing who can raise the most money for the Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7) [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
-        
-        #### [Salvation Army's Red Kettle Campaign kicks off at Hy-Vee stores in the Quad Cities](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/109560d8-ed36-4549-9ef3-680fe71cf194/20241205T220744/109560d8-ed36-4549-9ef3-680fe71cf194_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/109560d8-ed36-4549-9ef3-680fe71cf194/20241205T220744/109560d8-ed36-4549-9ef3-680fe71cf194_360x203.jpg)](https://www.wqad.com/article/news/local/fci-thomson-inmates-to-train-service-dogs-for-veterans/526-33b15117-9a0a-4b9f-8a98-05c61f611376)
-        
-        #### [New program pairs service dogs in training with inmates at FCI Thomson](https://www.wqad.com/article/news/local/fci-thomson-inmates-to-train-service-dogs-for-veterans/526-33b15117-9a0a-4b9f-8a98-05c61f611376)
+        #### [Hy-Vee stores seeing who can raise the most money for the Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -100,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-11°
+15°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
