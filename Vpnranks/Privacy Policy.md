@@ -1,4 +1,4 @@
-**$4.99/mo - Cyber Monday Deal: 2 Years + 6 Months Free—Save Up to 61% Now**[Claim Now](https://www.vpnranks.com/visit-provider/expressvpn-generic-VR/?subID3=privacy-policy/)
+**$4.99/mo - Save 61% With Exclusive 2-Year Plan + 4 Months Free!**[Claim Now](https://www.vpnranks.com/visit-provider/expressvpn-generic-VR/?subID3=privacy-policy/)
 
 [](https://www.vpnranks.com/)
 
