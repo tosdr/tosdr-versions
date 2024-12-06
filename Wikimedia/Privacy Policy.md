@@ -61,12 +61,12 @@ Search
 
  Appearance
 
-* [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=Policy:Privacy_policy&utm_medium=pagelink&utm_campaign=C13_foundation.wikimedia.org?uselang=en)
+* [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=foundation.wikimedia.org&uselang=en)
 * [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Policy%3APrivacy+policy "You are encouraged to log in; however, it is not mandatory [o]")
 
  Personal tools
 
-* [Donate](https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=Policy:Privacy_policy&utm_medium=pagelink&utm_campaign=C13_foundation.wikimedia.org?uselang=en)
+* [Donate](https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=foundation.wikimedia.org&uselang=en)
 * [Log in](https://foundation.wikimedia.org/w/index.php?title=Special:UserLogin&returnto=Policy%3APrivacy+policy "You are encouraged to log in; however, it is not mandatory [o]")
 
 Contents
