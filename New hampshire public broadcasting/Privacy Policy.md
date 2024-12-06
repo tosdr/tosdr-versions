@@ -189,10 +189,10 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Trailer** | Violent Femmes: 40th Anniversary with the Milwaukee Symphony](https://video.nhpbs.org/video/trailer-umwskj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**December 5, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-5-2024-pbs-news-hour-full-episode-1733374801?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Winter Skiing** | The State We're In](https://video.nhpbs.org/video/winter-skiing-g0cglw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Henry Ford Museum** | Radical Restoration](https://video.nhpbs.org/video/henry-ford-museum-ssgdpx?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Lucy Worsley Investigates](https://video.nhpbs.org/video/preview-e9b1hk?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Guerdy Abraira I With Whit** | The Whitney Reynolds Show](https://video.nhpbs.org/video/guerdy-abraira-i-with-whit-zgbgsp?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Bread and Roses** | Flicks](https://video.nhpbs.org/video/bread-and-roses-vld1oo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**America's Lonely Future: David Frum on Trump's "Predatory" Foreign Policy** | Amanpour and Company](https://video.nhpbs.org/video/americas-lonely-future-david-frum-on-trumps-predatory-foreign-policy-tj3ywm?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
