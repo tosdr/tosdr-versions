@@ -26,95 +26,97 @@ Categories
         
     * [3D2,122](https://www.thumbzilla.com/categories/3d)
         
-    * [60FPS30,037](https://www.thumbzilla.com/categories/60fps-1)
+    * [60FPS30,044](https://www.thumbzilla.com/categories/60fps-1)
         
-    * [Amateur91,794](https://www.thumbzilla.com/categories/amateur)
+    * [Amateur91,781](https://www.thumbzilla.com/categories/amateur)
         
-    * [Anal39,773](https://www.thumbzilla.com/categories/anal)
+    * [Anal39,776](https://www.thumbzilla.com/categories/anal)
         
-    * [Arab935](https://www.thumbzilla.com/categories/arab)
+    * [Arab936](https://www.thumbzilla.com/categories/arab)
         
-    * [Asian15,632](https://www.thumbzilla.com/categories/asian)
+    * [Asian15,633](https://www.thumbzilla.com/categories/asian)
         
-    * [Babe97,375](https://www.thumbzilla.com/categories/babe)
+    * [Babe97,381](https://www.thumbzilla.com/categories/babe)
         
     * [BBW4,532](https://www.thumbzilla.com/categories/bbw)
         
     * [Behind The Scenes2,174](https://www.thumbzilla.com/categories/behind-the-scenes)
         
-    * [Big Dick77,853](https://www.thumbzilla.com/categories/big-dick)
+    * [Big Ass76,448](https://www.thumbzilla.com/categories/big-ass)
         
-    * [Bisexual Male3,064](https://www.thumbzilla.com/categories/bisexual-male)
+    * [Big Dick77,864](https://www.thumbzilla.com/categories/big-dick)
         
-    * [Blonde65,521](https://www.thumbzilla.com/categories/blonde)
+    * [Bisexual Male3,065](https://www.thumbzilla.com/categories/bisexual-male)
         
-    * [Blowjob93,394](https://www.thumbzilla.com/categories/blowjob)
+    * [Blonde65,526](https://www.thumbzilla.com/categories/blonde)
         
-    * [Bondage4,353](https://www.thumbzilla.com/categories/bondage)
+    * [Blowjob93,392](https://www.thumbzilla.com/categories/blowjob)
         
-    * [British4,696](https://www.thumbzilla.com/categories/british)
+    * [Bondage4,355](https://www.thumbzilla.com/categories/bondage)
         
-    * [Brunette90,705](https://www.thumbzilla.com/categories/brunette)
+    * [British4,695](https://www.thumbzilla.com/categories/british)
+        
+    * [Brunette90,692](https://www.thumbzilla.com/categories/brunette)
         
     * [Cartoon1,159](https://www.thumbzilla.com/categories/cartoon)
         
-    * [Casting5,836](https://www.thumbzilla.com/categories/casting)
+    * [Casting5,837](https://www.thumbzilla.com/categories/casting)
         
     * [Celebrity447](https://www.thumbzilla.com/categories/celebrity)
         
     * [Closed Captions1,302](https://www.thumbzilla.com/categories/closed-captions)
         
-    * [College (18+)4,227](https://www.thumbzilla.com/categories/college-18-1)
+    * [College (18+)4,224](https://www.thumbzilla.com/categories/college-18-1)
         
-    * [Compilation7,953](https://www.thumbzilla.com/categories/compilation)
+    * [Compilation7,954](https://www.thumbzilla.com/categories/compilation)
         
-    * [Creampie27,358](https://www.thumbzilla.com/categories/creampie)
+    * [Creampie27,349](https://www.thumbzilla.com/categories/creampie)
         
-    * [Cuckold2,839](https://www.thumbzilla.com/categories/cuckold)
+    * [Cuckold2,840](https://www.thumbzilla.com/categories/cuckold)
         
     * [Cumshot57,930](https://www.thumbzilla.com/categories/cumshot)
         
-    * [Czech4,164](https://www.thumbzilla.com/categories/czech)
+    * [Czech4,163](https://www.thumbzilla.com/categories/czech)
         
     * [Described Video31](https://www.thumbzilla.com/categories/described-video)
         
-    * [Double Penetration4,857](https://www.thumbzilla.com/categories/double-penetration)
+    * [Double Penetration4,858](https://www.thumbzilla.com/categories/double-penetration)
         
-    * [Ebony11,875](https://www.thumbzilla.com/categories/ebony)
+    * [Ebony11,876](https://www.thumbzilla.com/categories/ebony)
         
     * [Euro3,669](https://www.thumbzilla.com/categories/euro)
         
-    * [Exclusive41,574](https://www.thumbzilla.com/categories/exclusive)
+    * [Exclusive41,524](https://www.thumbzilla.com/categories/exclusive)
         
-    * [Feet5,534](https://www.thumbzilla.com/categories/feet)
+    * [Feet5,536](https://www.thumbzilla.com/categories/feet)
         
-    * [Female Orgasm27,306](https://www.thumbzilla.com/categories/female-orgasm)
+    * [Female Orgasm27,294](https://www.thumbzilla.com/categories/female-orgasm)
         
-    * [Fetish26,198](https://www.thumbzilla.com/categories/fetish)
+    * [Fetish26,196](https://www.thumbzilla.com/categories/fetish)
         
     * [FFM5,786](https://www.thumbzilla.com/categories/ffm)
         
-    * [Fingering4,949](https://www.thumbzilla.com/categories/fingering)
+    * [Fingering4,950](https://www.thumbzilla.com/categories/fingering)
         
-    * [Fisting1,785](https://www.thumbzilla.com/categories/fisting)
+    * [Fisting1,767](https://www.thumbzilla.com/categories/fisting)
         
-    * [FMM3,808](https://www.thumbzilla.com/categories/fmm)
-        
-    * [French2,124](https://www.thumbzilla.com/categories/french)
+    * [FMM3,811](https://www.thumbzilla.com/categories/fmm)
         
 * More\>
     
+    * [French2,115](https://www.thumbzilla.com/categories/french)
+        
     * [Funny459](https://www.thumbzilla.com/categories/funny)
         
     * [Gaming66](https://www.thumbzilla.com/categories/gaming)
         
-    * [German4,956](https://www.thumbzilla.com/categories/german)
+    * [German4,958](https://www.thumbzilla.com/categories/german)
         
-    * [Handjob18,614](https://www.thumbzilla.com/categories/handjob)
+    * [Handjob18,616](https://www.thumbzilla.com/categories/handjob)
         
-    * [Hardcore114,588](https://www.thumbzilla.com/categories/hardcore)
+    * [Hardcore114,600](https://www.thumbzilla.com/categories/hardcore)
         
-    * [Hentai645](https://www.thumbzilla.com/categories/hentai)
+    * [Hentai646](https://www.thumbzilla.com/categories/hentai)
         
     * [Indian1,415](https://www.thumbzilla.com/categories/indian)
         
@@ -124,25 +126,25 @@ Categories
         
     * [Italian2,117](https://www.thumbzilla.com/categories/italian)
         
-    * [Japanese14,296](https://www.thumbzilla.com/categories/japanese)
+    * [Japanese14,298](https://www.thumbzilla.com/categories/japanese)
         
     * [Korean219](https://www.thumbzilla.com/categories/korean)
         
-    * [Latina18,836](https://www.thumbzilla.com/categories/latina)
+    * [Latina18,840](https://www.thumbzilla.com/categories/latina)
         
-    * [Lesbian21,536](https://www.thumbzilla.com/categories/lesbian)
+    * [Lesbian21,537](https://www.thumbzilla.com/categories/lesbian)
         
-    * [Massage6,374](https://www.thumbzilla.com/categories/massage)
+    * [Massage6,372](https://www.thumbzilla.com/categories/massage)
         
-    * [Masturbation35,781](https://www.thumbzilla.com/categories/masturbation)
+    * [Masturbation35,774](https://www.thumbzilla.com/categories/masturbation)
         
-    * [Mature7,757](https://www.thumbzilla.com/categories/mature)
+    * [Mature7,756](https://www.thumbzilla.com/categories/mature)
         
-    * [MILF50,837](https://www.thumbzilla.com/categories/milf)
+    * [MILF50,825](https://www.thumbzilla.com/categories/milf)
         
     * [Music648](https://www.thumbzilla.com/categories/music)
         
-    * [Old/Young (18+)7,119](https://www.thumbzilla.com/categories/old-young-18)
+    * [Old/Young (18+)7,117](https://www.thumbzilla.com/categories/old-young-18)
         
     * [Orgy5,706](https://www.thumbzilla.com/categories/orgy)
         
@@ -156,69 +158,69 @@ Categories
         
     * [Popular With Women9,493](https://www.thumbzilla.com/categories/popular-with-women)
         
-    * [Pornstar156,744](https://www.thumbzilla.com/categories/pornstar)
+    * [Pornstar156,802](https://www.thumbzilla.com/categories/pornstar)
         
-    * [POV47,748](https://www.thumbzilla.com/categories/pov)
+    * [POV47,753](https://www.thumbzilla.com/categories/pov)
         
-    * [Public14,199](https://www.thumbzilla.com/categories/public)
+    * [Public14,200](https://www.thumbzilla.com/categories/public)
         
-    * [Reality25,987](https://www.thumbzilla.com/categories/reality)
+    * [Reality25,985](https://www.thumbzilla.com/categories/reality)
         
-    * [Red Head14,721](https://www.thumbzilla.com/categories/red-head)
+    * [Red Head14,722](https://www.thumbzilla.com/categories/red-head)
         
-    * [Role Play11,688](https://www.thumbzilla.com/categories/role-play)
+    * [Role Play11,684](https://www.thumbzilla.com/categories/role-play)
         
-    * [Romantic8,434](https://www.thumbzilla.com/categories/romantic)
+    * [Romantic8,428](https://www.thumbzilla.com/categories/romantic)
         
-    * [Rough Sex24,693](https://www.thumbzilla.com/categories/rough-sex)
+    * [Rough Sex24,688](https://www.thumbzilla.com/categories/rough-sex)
         
-    * [Russian10,532](https://www.thumbzilla.com/categories/russian)
+    * [Russian10,529](https://www.thumbzilla.com/categories/russian)
         
-    * [School (18+)2,240](https://www.thumbzilla.com/categories/school-18)
+    * [School (18+)2,237](https://www.thumbzilla.com/categories/school-18)
         
-    * [Scissoring5,620](https://www.thumbzilla.com/categories/scissoring)
+    * [Scissoring2,154](https://www.thumbzilla.com/categories/scissoring)
         
     * [SFW126](https://www.thumbzilla.com/categories/sfw)
         
-    * [Small Tits56,139](https://www.thumbzilla.com/categories/small-tits)
+    * [Small Tits56,137](https://www.thumbzilla.com/categories/small-tits)
         
     * [Smoking741](https://www.thumbzilla.com/categories/smoking)
         
-    * [Solo Female28,080](https://www.thumbzilla.com/categories/solo-female)
+    * [Solo Female28,069](https://www.thumbzilla.com/categories/solo-female)
         
-    * [Solo Male5,856](https://www.thumbzilla.com/categories/solo-male)
+    * [Solo Male5,857](https://www.thumbzilla.com/categories/solo-male)
         
-    * [Squirt9,842](https://www.thumbzilla.com/categories/squirt)
+    * [Squirt9,847](https://www.thumbzilla.com/categories/squirt)
         
-    * [Step Fantasy25,046](https://www.thumbzilla.com/categories/step-fantasy)
+    * [Step Fantasy25,047](https://www.thumbzilla.com/categories/step-fantasy)
         
     * [Strap On1,105](https://www.thumbzilla.com/categories/strap-on)
         
     * [Striptease2,522](https://www.thumbzilla.com/categories/striptease)
         
-    * [Tattooed Women13,270](https://www.thumbzilla.com/categories/tattooed-women)
+    * [Tattooed Women13,271](https://www.thumbzilla.com/categories/tattooed-women)
         
-    * [Teen (18+)96,239](https://www.thumbzilla.com/categories/teen-18-1)
+    * [Teen (18+)96,214](https://www.thumbzilla.com/categories/teen-18-1)
         
-    * [Threesome25,933](https://www.thumbzilla.com/categories/threesome)
+    * [Threesome25,936](https://www.thumbzilla.com/categories/threesome)
         
-    * [Toys32,239](https://www.thumbzilla.com/categories/toys)
+    * [Toys32,237](https://www.thumbzilla.com/categories/toys)
         
     * [Trans Male1,153](https://www.thumbzilla.com/categories/trans-male)
         
-    * [Trans With Girl2,451](https://www.thumbzilla.com/categories/trans-with-girl)
+    * [Trans With Girl2,452](https://www.thumbzilla.com/categories/trans-with-girl)
         
     * [Trans With Guy8,682](https://www.thumbzilla.com/categories/trans-with-guy)
         
-    * [Transgender36,672](https://www.thumbzilla.com/categories/transgender)
+    * [Transgender36,677](https://www.thumbzilla.com/categories/transgender)
         
     * [Uncensored154](https://www.thumbzilla.com/categories/uncensored)
         
     * [Uncensored114](https://www.thumbzilla.com/categories/uncensored-1)
         
-    * [Verified Amateurs75,856](https://www.thumbzilla.com/categories/verified-amateurs)
+    * [Verified Amateurs75,816](https://www.thumbzilla.com/categories/verified-amateurs)
         
-    * [Verified Couples15,606](https://www.thumbzilla.com/categories/verified-couples)
+    * [Verified Couples15,594](https://www.thumbzilla.com/categories/verified-couples)
         
     * [Verified Models19,816](https://www.thumbzilla.com/categories/verified-models)
         
@@ -226,7 +228,7 @@ Categories
         
     * [Virtual Reality3,068](https://www.thumbzilla.com/categories/vr)
         
-    * [Voyeur147](https://www.thumbzilla.com/categories/voyeur)
+    * [Voyeur137](https://www.thumbzilla.com/categories/voyeur)
         
     * [Webcam3,582](https://www.thumbzilla.com/categories/webcam)
         
@@ -241,7 +243,7 @@ Categories
 TERMS OF SERVICE
 ----------------
 
-_Last Modified: June 19, 2024_
+_Last Modified: December 06, 2024_
 
 Acceptance of the Terms of Service
 ----------------------------------
@@ -316,6 +318,29 @@ Certain materials available on or through this Website are content we purchased 
 Thumbzilla provides an “embeddable player” feature, which you may incorporate into your own websites for use in viewing the content on this Website. You may not modify, build upon or block any portion or functionality of the embeddable player in any way, including but not limited to links back to Thumbzilla.
 
 The above-described license is conditioned on your compliance with these Terms of Service and shall terminate upon termination of these Terms of Service. If you breach any provision of these Terms of Service, any license you have obtained will be automatically rescinded and terminated. In order to protect our rights some content made available on this Website may be controlled by digital rights management technologies, which will restrict how you may use the content. You must not circumvent, remove, delete, disable, alter, or otherwise interfere with any digital rights management technology. Such conduct is prohibited by law.
+
+Online Safety Act - Rules Applicable to Australian Users, If Any
+----------------------------------------------------------------
+
+For the purposes of this section:
+
+* **“Class 1A Material”** shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
+    
+* **“Class 1B Material”** shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
+    
+
+Class 1A Material and Class 1B Material may hereinafter collectively be referred to as “Illicit Material”.
+
+Per the provisions of the Online Safety Act (2021) (the **“OSA”**) Australian Users hereby must ensure and subsequently warrants that:
+
+* Any content uploaded or attempted to be uploaded to this Website is in adherence to our Terms described herein.
+    
+* Any audiovisual content uploaded or attempted to be uploaded to this Website does not contain Illicit Material.
+    
+* You reserve the right to and shall take any action it deems necessary in order to limit, prevent, remove, or otherwise moderate any content which infringes the provisions of this section and/or any other, applicable terms. You shall also ensure, to the extent possible, that you comply with the provisions of this section.
+    
+* We have a zero-tolerance policy towards the solicitation, access, generation, distribution, or storage of any content that involves the depiction of children or features Class 1A Material in any capacity. All child sexual exploitation/abuse material that we identify or are made aware of will result in the immediate removal of the content in question as well as the immediate removal of its uploader from this Website. Without prejudice to all other rights reserved for action against the above (including account suspension, removal of infringing content etc.), we report all cases of apparent child sexual exploitation/abuse material to the National Center for Missing and Exploited Children.
+    
 
 Prohibited Uses
 ---------------
