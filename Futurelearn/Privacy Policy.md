@@ -716,6 +716,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Commemorates Two Years Of Its Higher Education Initiative For Women And Girls In Afghanistan](https://www.futurelearn.com/info/press/futurelearn-commemorates-two-years-of-its-higher-education-initiative-for-women-and-girls-in-afghanistan)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    As the world observes Human Rights Day on 10 December, FutureLearn, the UK’s leading platform …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [![student researching master's vs bachelor's degrees](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/GettyImages-1243744124-150x150.jpg.optimal.jpg)](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
     
     [Master’s Degrees vs Bachelor’s Degrees](https://www.futurelearn.com/info/blog/masters-degrees-vs-bachelors-degrees)
@@ -736,13 +743,6 @@ Powered By
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     As COP29 gets underway in Baku, Azerbaijan, the UK-based online learning platform FutureLearn is demonstrating …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [FutureLearn Partners With Uptime To Launch FutureLearn Shorts](https://www.futurelearn.com/info/press/futurelearn-partners-with-uptime-to-launch-futurelearn-shorts)
-    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    FutureLearn, the leading UK-based online learning platform, has partnered with Uptime, the knowledge-hacking app, to …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
