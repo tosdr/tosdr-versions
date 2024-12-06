@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26/20241206T210350/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26/20241206T210350/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26_360x203.jpg)](https://www.wqad.com/article/news/crime/rock-island-county-guns-burglary-vehicle-garage/526-d421cf80-8f25-4fe3-aad7-2e2af9356749)
+        
+        #### [Multiple firearms stolen from Rock Island County vehicles and garages](https://www.wqad.com/article/news/crime/rock-island-county-guns-burglary-vehicle-garage/526-d421cf80-8f25-4fe3-aad7-2e2af9356749)
+        
     *  [![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
         
-        #### [Man seriously injured in East Moline shooting](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8) [![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
-        
-        #### [East Moline police investigating shooting that left a man seriously injured](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f5cde882-e265-4470-b8ee-0c80f802fd4d/20241205T230535/f5cde882-e265-4470-b8ee-0c80f802fd4d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f5cde882-e265-4470-b8ee-0c80f802fd4d/20241205T230535/f5cde882-e265-4470-b8ee-0c80f802fd4d_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/trailer-fire-colona-mobile-home-park/526-96069c2a-550c-4f42-9e98-c37f5dc33bf5)
-        
-        #### [Firefighters battle blaze at Colona mobile home park, 2 cats dead](https://www.wqad.com/article/news/local/public-safety/trailer-fire-colona-mobile-home-park/526-96069c2a-550c-4f42-9e98-c37f5dc33bf5)
+        #### [Man seriously injured in East Moline shooting](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -61,9 +60,9 @@ Navigation
         
         #### [Nice warmup will bring widespread 50s for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c75964fa-b7bf-4bd1-8d66-bfeae9561721/20241206T142231/c75964fa-b7bf-4bd1-8d66-bfeae9561721_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c75964fa-b7bf-4bd1-8d66-bfeae9561721/20241206T142231/c75964fa-b7bf-4bd1-8d66-bfeae9561721_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/fall-sky-is-more-blue/526-ad241b21-7038-4434-93f8-361f80930804)
         
-        #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+        #### [Fall's Hidden Sky Secret: Why it's more blue than ever](https://www.wqad.com/article/weather/ask-andrew/fall-sky-is-more-blue/526-ad241b21-7038-4434-93f8-361f80930804)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -98,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-28°
+34°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
