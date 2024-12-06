@@ -360,7 +360,7 @@ _s_
 
 |     |     |
 | --- | --- |
-| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=164744442)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=164744442)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=164744442)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=164744442) |     |
+| [Mail](https://r.mail.ru/n154506914?sz=36&rnd=59796614)[О компании](https://r.mail.ru/n382470674?sz=36&rnd=59796614)[Реклама](https://r.mail.ru/n309433544?sz=36&rnd=59796614)[Вакансии](https://r.mail.ru/n382470675?sz=36&rnd=59796614) |     |
 
             
 
