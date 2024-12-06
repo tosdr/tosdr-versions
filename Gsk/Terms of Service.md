@@ -69,7 +69,6 @@ Location
         Innovation [Our leading scientists](https://www.gsk.com/en-gb/innovation/our-leading-scientists/)
         
         * [Dr Tony Wood](https://www.gsk.com/en-gb/innovation/our-leading-scientists/tony-wood/)
-        * [Dr Philip Dormitzer](https://www.gsk.com/en-gb/innovation/our-leading-scientists/philip-dormitzer/)
         * [Dr Sabine Luik](https://www.gsk.com/en-gb/innovation/our-leading-scientists/sabine-luik/)
         * [Dr Hesham Ahmed Abdullah](https://www.gsk.com/en-gb/innovation/our-leading-scientists/hesham-abdullah/)
         
