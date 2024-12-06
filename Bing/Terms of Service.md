@@ -4,7 +4,7 @@ Trace Id is missing
 
 [Skip to main content](javascript:void(0))
 
- [![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft](https://www.microsoft.com/)
+ [![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/UHFbanner-MSlogo?fmt=png-alpha&bfc=off&qlt=100,1) Microsoft](https://www.microsoft.com/)
 
 Microsoft Services Agreement
 
