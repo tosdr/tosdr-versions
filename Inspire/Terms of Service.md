@@ -2,9 +2,7 @@
 
 [Plans](https://www.inspirecleanenergy.com/plans)
 
-[Impact](https://www.inspirecleanenergy.com/your-impact)
-
-[Social Impact](https://www.inspirecleanenergy.com/your-impact/social-impact)[Sustainability](https://www.inspirecleanenergy.com/about-us/sustainability)
+[Impact](https://www.inspirecleanenergy.com/impact)
 
 [About](https://www.inspirecleanenergy.com/our-story)
 
@@ -22,10 +20,7 @@
 
 [Plans](https://www.inspirecleanenergy.com/plans)
 
-[Impact](https://www.inspirecleanenergy.com/your-impact)
-
-* [Social Impact](https://www.inspirecleanenergy.com/your-impact/social-impact)
-* [Sustainability](https://www.inspirecleanenergy.com/about-us/sustainability)
+[Impact](https://www.inspirecleanenergy.com/impact)
 
 [About](https://www.inspirecleanenergy.com/our-story)
 
