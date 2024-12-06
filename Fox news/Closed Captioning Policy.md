@@ -80,11 +80,11 @@
 ###### [Entertainment](http://www.foxnews.com/entertainment)
 
 * [Celebrity News](http://www.foxnews.com/category/entertainment/celebrity-news)
-* [Movies](http://www.foxnews.com/category/entertainment/movies)
-* [TV News](http://www.foxnews.com/category/entertainment/tv)
-* [Music News](http://www.foxnews.com/category/entertainment/music)
-* [Style News](http://www.foxnews.com/category/entertainment/style)
-* [Entertainment Video](http://www.foxnews.com/video/topics/entertainment)
+* [Country Music](http://www.foxnews.com/category/entertainment/genres/country)
+* [Royals](http://www.foxnews.com/category/world/personalities/british-royals)
+* [Game Shows](http://www.foxnews.com/category/entertainment/game-shows)
+* [Couples](http://www.foxnews.com/category/entertainment/events/couples)
+* [Exclusives](http://www.foxnews.com/category/entertainment/features/exclusive)
 
 ###### [Sports](http://www.foxnews.com/sports)
 
@@ -249,11 +249,11 @@ Written complaints concerning captioning on Fox News programs made available onl
 ###### [Entertainment](http://www.foxnews.com/entertainment)
 
 * [Celebrity News](http://www.foxnews.com/category/entertainment/celebrity-news)
-* [Movies](http://www.foxnews.com/category/entertainment/movies)
-* [TV News](http://www.foxnews.com/category/entertainment/tv)
-* [Music News](http://www.foxnews.com/category/entertainment/music)
-* [Style News](http://www.foxnews.com/category/entertainment/style)
-* [Entertainment Video](http://www.foxnews.com/video/topics/entertainment)
+* [Country Music](http://www.foxnews.com/category/entertainment/genres/country)
+* [Royals](http://www.foxnews.com/category/world/personalities/british-royals)
+* [Game Shows](http://www.foxnews.com/category/entertainment/game-shows)
+* [Couples](http://www.foxnews.com/category/entertainment/events/couples)
+* [Exclusives](http://www.foxnews.com/category/entertainment/features/exclusive)
 
 ###### [Sports](http://www.foxnews.com/sports)
 
