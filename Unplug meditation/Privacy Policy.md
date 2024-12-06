@@ -7,7 +7,7 @@
 
 [BOOK A CLASS](https://www.unplug.com/class-schedule)
 
-[PRICING](https://www.unplug.com/become-a-member-index)
+[RATES & MEMBERSHIPS](https://www.unplug.com/become-a-member-index)
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
 
@@ -30,7 +30,7 @@
 
 [BOOK A CLASS](https://www.unplug.com/class-schedule)
 
-[PRICING](https://www.unplug.com/become-a-member-index)
+[RATES & MEMBERSHIPS](https://www.unplug.com/become-a-member-index)
 
 [EVENTS CALENDAR](https://www.unplug.com/special-events)
 
