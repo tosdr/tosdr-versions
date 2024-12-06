@@ -19,7 +19,7 @@ HOLIDAY SALE: Buy one Sleep Pod, get another 50% OFF!
 
 [![mother tucking in son in sleep pod](//hugsleep.com/cdn/shop/files/SquarePDPs.001.jpg?v=1709244147&width=533)
 
-427 reviews
+429 reviews
 
 ### Kids - Hooded Sleep Pod Move
 
@@ -31,7 +31,7 @@ Unit price /  per](https://hugsleep.com/products/kids-hooded-sleep-pod-move) 
 
 [![woman laying in bed with sleep pod asleep](//hugsleep.com/cdn/shop/products/download.jpg?v=1659988966&width=533)
 
-427 reviews
+429 reviews
 
 ### Sleep Pod Move
 
@@ -43,7 +43,7 @@ Unit price /  per](https://hugsleep.com/products/sleep-pod-move-adult) 
 
 [![man in bed with hooded sleep pod move](//hugsleep.com/cdn/shop/files/Untitled5.007.jpg?v=1695958490&width=533)
 
-427 reviews
+429 reviews
 
 ### Hooded Sleep Pod Move
 
@@ -288,6 +288,18 @@ Continue shopping
 400,000+ happy customers
 
 ![](//hugsleep.com/cdn/shop/files/rating-stars.svg?v=1693602297&width=121)
+
+* ![](//hugsleep.com/cdn/shop/files/solar_moon-sleep-broken.svg?crop=center&height=24&v=1733164937&width=24)
+    
+    Sleep Guarantee
+* ![](//hugsleep.com/cdn/shop/files/ion_happy-outline.svg?crop=center&height=24&v=1733164954&width=24)
+    
+    400,000+ Happy Customers
+* ![](//hugsleep.com/cdn/shop/files/hugeicons_truck-return.svg?crop=center&height=24&v=1733164967&width=24)
+    
+    Hassle-Free Returns
+
+1 / of 3
 
 Shopping Cart
 
