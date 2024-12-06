@@ -4,63 +4,173 @@
 
 Platform
 
-Create
+All Features
 
-[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing)[AI Dubbing
+Templates
 
-New](https://www.synthesia.io/features/ai-dubbing)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)[All Features](https://www.synthesia.io/features)
+[Integrations](https://www.synthesia.io/integrations)[API](https://docs.synthesia.io/reference/synthesia-api-quickstart)
 
-Collaborate
+Video Creation
 
-[Live Collaboration](https://www.synthesia.io/features#collaboration)[Teams & Organizations](https://www.synthesia.io/features#collaboration)[Brand Kit](https://www.synthesia.io/features#collaboration)[Enterprise Readiness](https://www.synthesia.io/enterprise)[Integrations](https://www.synthesia.io/integrations)
+[AI Screen Recorder](https://www.synthesia.io/features/ai-screen-recorder)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[Brand Kits](https://www.synthesia.io/features#brand-kit-card)[Media Library](https://www.synthesia.io/features#media-library-card)
 
-Share
+Localization
 
-[Video Player](https://www.synthesia.io/features#video-player)[1-Click Translations](https://www.synthesia.io/features/video-translator)[Smart Updates](https://www.synthesia.io/features#video-player)[Analytics](https://www.synthesia.io/features#video-player)
+[1-Click Translations](https://www.synthesia.io/features/video-translator)[AI Video Dubbing
 
-[All features
+New](https://www.synthesia.io/features/ai-dubbing)[Closed Captions](https://www.synthesia.io/features#video-player)[Review Workflow](https://www.synthesia.io/features#collaboration)
 
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66cdd098a788f0f8a7e805d5_Nav-video-poster.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66cdd098a788f0f8a7e805d5_Nav-video-poster.webp "Your browser does not support the <video> tag")
+Collaboration
 
-The #1 AI Video Platform
+[Workspaces](https://www.synthesia.io/features#workspaces-and-organizations-card)[Live Collaboration](https://www.synthesia.io/features#live-collaboration-card)[Commenting](https://www.synthesia.io/features#collaboration)[Version Control](https://www.synthesia.io/features#smart-updates-card)
 
-Explore all the Synthesia features to easily produce your training, marketing and internal videos.
+AI Avatars & Voices
 
-Explore all features](https://www.synthesia.io/features)
+[240+ AI Avatars](https://www.synthesia.io/features/avatars)[Personal Avatars](https://www.synthesia.io/features/custom-avatar)[140+ Languages](https://www.synthesia.io/features/languages)[Voice Cloning](https://www.synthesia.io/features/ai-voice-cloning)
+
+Video Player
+
+[Multilingual Player](https://www.synthesia.io/features/video-localization)[Analytics](https://www.synthesia.io/features#analytics-card)[Video Embeds](https://www.synthesia.io/features#video-embeds-card)[SCORM Export](https://www.synthesia.io/features#video-player)
+
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/67482db6e19d4f5da5735c55_Features-card-bg.webp)![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/67482d57de180fc12ed62505_features-card-img.webp)
+
+All Features
+
+Create, translate, and share videos at scale.](https://www.synthesia.io/features)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/67482db6d1c8404aba6b379e_ai-safety-bg.webp)
+
+SOC 2 Type II compliant
+
+GDPR compliant
+
+ISO 42001 compliant
+
+AI Safety & Security
+
+The most secure AI video platform in the world.](https://security.synthesia.io/)
+
+[Training Templates
+
+Teach skills and processes with videos that engage.
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673ca68f27f5c45eca285a7d_Traning-card-img.webp)](https://www.synthesia.io/video-templates/training)[Sales Templates
+
+Use video to pitch and close deals faster.
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673ca68fd6641b77961b7053_Sales-card-img.webp)](https://www.synthesia.io/video-templates/training/sales)[Marketing Templates
+
+Show your product’s value with videos that stand out.
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673ca68fe911fac31705a316_Marketing-card-img.webp)](https://www.synthesia.io/video-templates/marketing)
+
+[See all templates](https://www.synthesia.io/video-templates)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/674743433e419d78964b9c66_Footer-bg.webp)
 
 [Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
-[Create account](https://www.synthesia.io/pricing)
-
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66227eae476ce2ae8540d7d4_navbar-cta-footer-bg.webp)
+[Get started](https://www.synthesia.io/pricing)
 
 Solutions
 
-[Learning & Development](https://www.synthesia.io/learning-and-development)[Sales Enablement](https://www.synthesia.io/sales-enablement)[Marketing](https://www.synthesia.io/marketing)
+Team
 
-[Information Technology](https://www.synthesia.io/information-technology)[AI Dubbing
+Use Case
 
-New](https://www.synthesia.io/features/ai-dubbing)[Business Operations](https://www.synthesia.io/business-operations)
+Team
 
-[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6627895b47979d86be56c416_features-card-case-study.webp)
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320d61a1d0efd620c0c_BG-indigo.webp)
 
-Learn how Heineken embraces video transformation](https://www.synthesia.io/case-studies/heineken)
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673da83d5637ff0c1db5d753_Books.svg)
+
+Learning & Development
+
+Scale skills with multilingual training videos.](https://www.synthesia.io/learning-and-development)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e32086a183f92dec34bd_BG-teal.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673da83dc09880db8ca00312_PresentationChart.svg)
+
+Sales Enablement
+
+Train your sales reps and help them close more deals.](https://www.synthesia.io/sales-enablement)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320504fc91932fea530_BG-pink.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947a4ae17dd06543bc0a_MegaphoneSimple-1.svg)
+
+Marketing
+
+Produce branded product videos in minutes.](https://www.synthesia.io/marketing)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e321544293861dccbb25_BG-Lime.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947b768bbdec4a05f2a9_Buildings.svg)
+
+Business Operations
+
+Deliver consistent updates with video templates.](https://www.synthesia.io/business-operations)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e3206a0f45e67f10bcd0_BG-orange.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/673da83d835f079c65579555_Monitor.svg)
+
+Knowledge Management
+
+Turn your knowledge bases into engaging videos.](https://www.synthesia.io/knowledge-managers)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320dd44addcf0f2fc20_BG-yellow.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947bdb0d3c51f938acc8_ShieldCheck-Black-1.svg)
+
+IT & Cybersecurity
+
+Train employees on security and compliance with videos.](https://www.synthesia.io/information-technology)
+
+Use case
+
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320d61a1d0efd620c0c_BG-indigo.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947a5edd57fb078acecc_TerminalWindow-Black.svg)
+
+Technical Training
+
+Create engaging technical videos in minutes.](https://www.synthesia.io/use-case/technical-training)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e32086a183f92dec34bd_BG-teal.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947b08c659b78313c897_Translate-Black.svg)
+
+AI Video Dubbing
+
+Translate any video into 29+ languages instantly.](https://www.synthesia.io/features/ai-dubbing)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320504fc91932fea530_BG-pink.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947bee1c9c91f4a2aa6e_ShieldCheck-Black.svg)
+
+Compliance Training
+
+Lower compliance risks with clear training videos.](https://www.synthesia.io/use-case/compliance-training)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e321544293861dccbb25_BG-Lime.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/675194f9197860cd4814622e_PresentationChart.svg)
+
+Sales Training
+
+Provide video training tailored to your sales team.](https://www.synthesia.io/use-case/sales-training-enablement)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e3206a0f45e67f10bcd0_BG-orange.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947bbf50b21cfd6a190f_UsersThree.svg)
+
+Employee Development
+
+Build skills with video training programs.](https://www.synthesia.io/use-case/employee-development)[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6752e320dd44addcf0f2fc20_BG-yellow.webp)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6751947ae15e81739b28c56d_MegaphoneSimple.svg)
+
+Internal Communications
+
+Share updates through clear and quick videos.](https://www.synthesia.io/use-case/internal-communications)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/674743433e419d78964b9c66_Footer-bg.webp)
 
 [Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
-[Create account](https://www.synthesia.io/pricing)
-
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66227eae476ce2ae8540d7d4_navbar-cta-footer-bg.webp)
+[Get started](https://www.synthesia.io/pricing)
 
 Resources
 
-Customers
+Resources
 
-[Video templates](https://www.synthesia.io/video-templates)[Case Studies](https://www.synthesia.io/case-studies)[Customer Reviews](https://www.synthesia.io/reviews)
+[Video Templates](https://www.synthesia.io/video-templates)[Case Studies](https://www.synthesia.io/case-studies)[Customer Reviews](https://www.synthesia.io/reviews)
 
 Learn
 
@@ -68,15 +178,21 @@ Learn
 
 Company
 
-[Careers](https://www.synthesia.io/careers)[AI Ethics](https://www.synthesia.io/ethics)[AI Research](https://www.synthesia.io/research)
+[Careers](https://www.synthesia.io/careers)[AI Ethics](https://www.synthesia.io/ethics)[AI Research](https://www.synthesia.io/research)
+
+[![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6746fba5c50d4684931aa5fe_nav-case-study-heineken.webp)
+
+case study
+
+How Heineken embraces video transformation](https://www.synthesia.io/case-studies/heineken)
+
+![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/674743433e419d78964b9c66_Footer-bg.webp)
 
 [Create free AI video](https://www.synthesia.io/#free-ai-video)
 
 [Book demo](https://www.synthesia.io/book-a-demo)
 
-[Create account](https://www.synthesia.io/pricing)
-
-![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/66227eae476ce2ae8540d7d4_navbar-cta-footer-bg.webp)
+[Get started](https://www.synthesia.io/pricing)
 
 [Pricing](https://www.synthesia.io/pricing)
 
