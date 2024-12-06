@@ -107,65 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-That's true 😂  [more](https://lyricstranslate.com/en/comment/1179640#comment-1179640)
-
-[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
+[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
 
 New song
 
-[The Dubliners - The Blantyre Explosion](https://lyricstranslate.com/en/dubliners-blantyre-explosion-lyrics)
+[Mahasti - بیگانه](https://lyricstranslate.com/en/mahasti-biganeh-lyrics)
 
-English
+Persian
 
-[![Sakuchan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1624467-1732683582.jpg)](https://lyricstranslate.com/en/translator/sakuchan "Sakuchan")
+[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+
+New comment
+
+Samurai Ondo (Original Edition) : \[video:https://...  [more](https://lyricstranslate.com/en/comment/1179983#comment-1179983)
+
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
 
 New translation
 
-[Michiko Shimazaki - いつか見たそよ風 (Itsuka Mita Soyokaze)](https://lyricstranslate.com/en/michiko-shimazaki-itsuka-mita-soyokaze-english)
+[Nikolaus Lenau - Himmelstrauer](https://lyricstranslate.com/en/nikolaus-lenau-himmelstrauer-russian)
 
-Japanese → English
+German → Russian
 
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
+
+New translation
+
+[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorc-madrigal-cibda-de-santi-russian)
+
+Galician → Russian
+
+[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
+
+New song
+
+[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorca-madrigal-cibda-de-santi-lyrics)
+
+Galician
+
+[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
+
+New song
+
+[Mahasti - مگیرش از من](https://lyricstranslate.com/en/mahasti-magirash-az-man-lyrics)
+
+Persian
+
+[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
+
+New translation
+
+[Federico García Lorca - Arqueros](https://lyricstranslate.com/en/federico-garcia-lorc-arqueros-romanian)
+
+Spanish → Romanian
+
+[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
 
 New comment
 
-A lot of other singers  [more](https://lyricstranslate.com/en/comment/1179639#comment-1179639)
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-Transcription request fulfilled
-
-[Wonderful Christmas Time](https://lyricstranslate.com/en/clay-aiken-wonderful-christmas-time-lyrics)
-
-English
-
-[![Joseph Unicornvault](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1600574-1731910325.jpg)](https://lyricstranslate.com/en/translator/joseph3101 "Joseph Unicornvault")
-
-New song
-
-[Clay Aiken - Wonderful Christmas Time](https://lyricstranslate.com/en/clay-aiken-wonderful-christmas-time-lyrics)
-
-English
-
-[![Turbonorm](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1620552-1725868199.jpg)](https://lyricstranslate.com/en/translator/turbonorm "Turbonorm")
-
-New song
-
-[Buba Espinho - É Tão Grande o Alentejo](https://lyricstranslate.com/en/buba-espinho-e-tao-grande-o-alentejo-lyrics)
-
-Portuguese
-
-[![Ita Mockin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1577624-1683671237.jpg)](https://lyricstranslate.com/en/translator/ita-mockin "Ita Mockin")
-
-New request
-
-[Benaia Barabi - מדינה בסחרחורת (Medina B'Sharhoret)](https://lyricstranslate.com/en/request/%D7%9E%D7%93%D7%99%D7%A0%D7%94-%D7%91%D7%A1%D7%97%D7%A8%D7%97%D7%95%D7%A8%D7%AA)
-
-Hebrew → English
+Dacă iubești poezia ... Arcașii | Arqueros de ...  [more](https://lyricstranslate.com/en/comment/1179982#comment-1179982)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
