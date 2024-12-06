@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japanese companies weigh impact of South Korea's martial law chaos](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
+
+  [![Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438314.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
+
 [Tokyo government to introduce four-day workweek to empower women](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
 
   [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
@@ -147,12 +151,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
-[South Korean ruling party opposes Yoon impeachment as defense minister quits](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
-
-  [![Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438294.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japanese companies weigh impact of South Korea's martial law chaos](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
+
+  [![Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438314.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -184,14 +190,6 @@ By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-niniva
 
   [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[South Korean ruling party opposes Yoon impeachment as defense minister quits](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
-
-By [Joyce Lee](https://www.japantimes.co.jp/author/1791/joyce-lee/ "Joyce Lee") and [Hyunjoo Jin](https://www.japantimes.co.jp/author/1977/hyunjoo-jin/ "Hyunjoo Jin")  
-
-  [![Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438294.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters call for the resignation of South Korean President Yoon Suk Yeol during a demonstration in Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/asia-pacific/politics/yoon-party-oppose-impeachment/ "South Korean ruling party opposes Yoon impeachment as defense minister quits")
-
 Podcast
 -------
 
@@ -202,18 +200,18 @@ Podcast
 Longform
 --------
 
-  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+  [![People in cities across Japan will pop into their local convenience store for any number of products they believe will help them with a night of drinking. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437913.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People in cities across Japan will pop into their local convenience store for any number of products they believe will help them with a night of drinking. ")](https://www.japantimes.co.jp/life/2024/12/06/lifestyle/effective-hangover-drinks-japan/ "Hangover cures are everywhere in Japan — but do they work?")
 
-[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
+[Hangover cures are everywhere in Japan — but do they work?](https://www.japantimes.co.jp/life/2024/12/06/lifestyle/effective-hangover-drinks-japan/ "Hangover cures are everywhere in Japan — but do they work?")
 
-By [Tomoko Otake](https://www.japantimes.co.jp/author/3264/tomoko-otake/ "Tomoko Otake")  
+By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Huong Ha")  
 
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Alleged operator of anonymous X account arrested over club assault](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/z-ri-members-arrest/ "Alleged operator of anonymous X account arrested over club assault")
+[CDP leader calls for gradual BOJ rate hikes](https://www.japantimes.co.jp/business/2024/12/06/economy/noda-cdp-gradual-boj-hikes/ "CDP leader calls for gradual BOJ rate hikes")
 
-19 mins ago
+7 mins ago
 
-[A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
+[Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
 
-1 hour ago
+33 mins ago
 
-[Former PM Kishida worried upheaval in Seoul may hurt ties](https://www.japantimes.co.jp/news/2024/12/06/japan/politics/kishida-japan-south-korea-relations/ "Former PM Kishida worried upheaval in Seoul may hurt ties")
+[Japan's top court finalizes order to erase feudal outcast area lists](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/supreme-court-feudal-outcast-finalization/ "Japan's top court finalizes order to erase feudal outcast area lists")
 
-1 hour ago
+51 mins ago
 
-[Syria rebels capture another key city in fresh blow to Assad](https://www.japantimes.co.jp/news/2024/12/06/world/politics/syria-rebels-capture-second-city/ "Syria rebels capture another key city in fresh blow to Assad")
+[Crown prince and crown princess mark Japan-Turkey diplomatic ties](https://www.japantimes.co.jp/news/2024/12/06/japan/crown-prince-event-turkey/ "Crown prince and crown princess mark Japan-Turkey diplomatic ties")
 
-1 hour ago
+3 hours ago
 
-[Key ally of South Korea’s leader now wants him gone in shift](https://www.japantimes.co.jp/news/2024/12/06/asia-pacific/politics/yoon-party-leader-shift/ "Key ally of South Korea’s leader now wants him gone in shift")
+[In South Korea's crisis playbook, currency stability is paramount](https://www.japantimes.co.jp/business/2024/12/06/markets/south-korea-currency-stability/ "In South Korea's crisis playbook, currency stability is paramount")
 
-2 hours ago
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
