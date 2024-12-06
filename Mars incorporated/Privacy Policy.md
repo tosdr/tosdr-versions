@@ -668,351 +668,372 @@ English
 * [Vietnamese](https://www.mars.com/privacy-policy-vietnamese)
     
 
-###### This Privacy Statement applies to [all Mars brands](https://www.mars.com/our-brands), including Mars veterinary health and diagnostic services brands, listed [here](https://www.mars.com/our-brands/petcare#VeterinaryAndDiagnosticServices).
+###### This Privacy Statement applies to [all Mars brands](https://www.mars.com/our-brands "Our Brands"), including Mars veterinary health and diagnostic services brands, listed [here](https://www.mars.com/our-brands/petcare#VeterinaryAndDiagnosticServices).
 
 OUR PRIVACY STATEMENT
 =====================
 
-#### Last Updated: December 2, 2022 
+#### Last Updated: November 2024 
+
+To print this Privacy Statement, please [click here(Opens a new window)](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-12/Mars%20Privacy%20Statement_November%202024_Final_Clean%20for%20Printing.pdf).
 
 Overview
 --------
 
-Mars has been proudly family owned for over 100 years. It’s this independence that gives us the gift of freedom to think in generations, not quarters, so we can invest in the long-term future of our business, our people, our consumers and the planet — all guided by our enduring Principles. We believe the world we want tomorrow starts with how we do business today. 
+Mars has been proudly family owned for over 100 years. It’s this independence that gives us the gift of freedom to think in generations, not quarters, so we can invest in the long-term future of our business, our people, our consumers and the planet — all guided by our enduring Principles. We believe the world we want tomorrow starts with how we do business today.  
 
-To print this Privacy Statement, please [click here](https://www.mars.com/sites/g/files/dfsbuz106/files/2023-11/Mars%20Privacy%20Statement%20Dec%202022.pdf "https://www.mars.com/sites/g/files/dfsbuz106/files/2023-11/Mars%20Privacy%20Statement%20Dec%202022.pdf").
+Our Data Privacy Principles:  
 
-Our Data Privacy Principles: 
-
-1. We value and respect the personal data entrusted to us. 
-2. We aim to be transparent and responsible about how we handle the personal data in our care, guided by our Five Principles and the law. 
-3. We adhere and respect the privacy rights afforded to our consumers, customers and job applicants. 
-4. We are committed to the continual improvement of our privacy and security practices. 
-
-This Privacy Statement provides you with information about how we collect, use, and share personal data at [Mars, Incorporated and its family of companies(Opens a new window)](https://www.mars.com/made-by-mars), which includes subsidiaries and affiliates (collectively, “Mars,” “we,” “us” or “our”), through our websites, products, mobile applications, or other sites that display this Privacy Statement (collectively, the “Sites”).  This Privacy Statement will also apply to data gathered from you in person, through our products, and at any of our retail or veterinary hospitals and clinics (also, the “Sites”) and when you apply for a job at Mars. One or more of our brands sell franchises. This Privacy Statement does not apply to information gathered from you at independently owned and operated franchise locations. 
+1. We value and respect the personal data people give to us.  
+2. We are clear and responsible about how we handle the personal data in our care, guided by our Five Principles and the law.  
+3. We respect the privacy rights people have.  
+4. We are committed to the continual improvement of our privacy and security practices.  
 
  Contact Us
 
-We are committed to working with you to promptly respond to any questions or concerns you may have. 
+The data controller for processing personal data on our Sites as defined below as set out in this Privacy Statement is Mars Inc, and/or the Mars affiliate group company in your region. Contact details are as follows:  
 
-If you have a general question, want to contact the global privacy team and/or Mars Data Protection Officer, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/52a0b366-5dde-4e9c-8c03-72676aac0cb7.html). If you have a request regarding your data and would like to exercise your rights under applicable law, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html).
+Mars, Incorporated    
+c/o: Chief Privacy Officer    
+1676 International Drive, 10th Floor  
+McLean, Virginia 22102  
+Contact: [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection)   
 
-For United States residents, to exercise your right to ask that we do not sale, share, or use your personal data for targeted advertising or to limit the use of your sensitive personal data, please click:
+The Mars representative in the EU is:
 
-* [Your Privacy Choices](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8) ![CCPA Opt-Out Icon](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-10/privacy-choices-icon.png)
+Mars Netherlands B.V.   
+c/o: Chief Privacy Officer   
+Taylorweg 5, 5466 AE Veghel   
+Noord-Brabant Netherlands   
+Contact: [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection)   
 
-We also recognize the Global Privacy Control for consumers who utilize that signal to exercise their privacy rights. You may also make a request by calling 1-844-316-5985, or by contacting a specific Mars entity with whom you have a relationship, including: 
+If you apply for a job at Mars, the data controller is the Mars affiliate group company to which you applied.
 
-* Banfield Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/0dc4c871-2bc5-4cd4-9bd0-9a1fcda6a4da.html) or by calling 888-899-7071 
-* BluePearl Specialty + Emergency Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/8edb85a7-4d33-4cc0-a790-a39c24788247) or by calling 855-900-8444 
-* VCA Animal Hospitals: by clicking [here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/f4834499-a0ae-4ad0-969c-e84ddc1ef86d.html) or by calling 844-276-5786. 
+We are committed to promptly responding to any questions or concerns you may have.  
 
-For Russian residents wishing to contact us regarding enquiries or requests regarding their personal information, please contact our Russian Privacy Team by clicking [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection).  
+If you have a general question about our personal data practices or want to contact the global privacy team or the Mars Data Protection Officer, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/52a0b366-5dde-4e9c-8c03-72676aac0cb7.html). If you have a request regarding your data and would like to exercise your rights under applicable law, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). 
 
- What does this Privacy Statement apply to?
+ When does this Privacy Statement apply?
 
-This Privacy Statement applies to Personal Data collected or processed by [Mars, Incorporated and its family of companies(Opens a new window)](https://www.mars.com/made-by-mars). The Privacy Statement applies if we collect Personal Data in-person, through our websites, mobile applications, email, veterinary hospitals and clinics, social media and other sites that display this Privacy Statement (the “Sites”).  Your Personal Data includes information or a combination of information that could directly or indirectly be used to identify you (“Personal Data”).  This includes identifiers like a name, ID number, location data, online identifier or to factors about physical, physiological, genetic, mental, economic, cultural or social identity. In some areas certain types of Personal Data might be deemed Sensitive Personal Data (like precise geolocation data, biometric data, racial or ethnic origin, health information, or financial information). The definitions of Personal Data and Sensitive Personal Data can vary by region. If we collect data that is considered Personal Data or Sensitive Personal Data in your region, we will treat it as such in accordance with this Privacy Statement and applicable local law.    
+This Privacy Statement tells you how we collect, use, communicate, disclose and otherwise process personal data at [Mars, Incorporated and its family of companies](https://www.mars.com/our-brands "Our Brands") (which includes subsidiaries and affiliates), through our websites, products, mobile apps, or other sites that display this Privacy Statement, or related to the provision of services that you obtain from us, which we will refer to collectively as our “Sites.” This Privacy Statement will also apply to personal data you give us in person, through our products, and at any of our retail or vet hospitals and clinics.  
 
-Please read this Privacy Statement carefully to understand our policies and practices for your Personal Data. This Privacy Statement may change from time to time. We will tell you about material changes by posting a notice on our home page for a reasonable period and changing the “Last Updated” date. Please check back for updates. 
+_**When does this Privacy Statement not apply?**_  
 
-We follow country and state data protection laws, and we cooperate with data protection authorities. 
+This Privacy Statement only applies to Mars Associates when they interact with the Sites outside the scope of their employment.
 
-If you are in a jurisdiction that recognizes the concept of a “data controller” or similar, the data controller is: 
+Our Sites might have links or refer you to sites that don’t belong to Mars and might treat your personal data differently. If you give these sites your personal data, their policy will apply so you should look at the privacy policy of any site you go to; Mars isn’t responsible for the privacy practices of other sites you might visit.  
 
-Mars, Incorporated   
-c/o: Chief Data Protection and Chief Privacy Officer   
-Dundee Road    
-Slough, Berkshire SL1 4LG   
-Contact: [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection) 
+This Privacy Statement also does not apply to third-party video content on our Sites. Please review the privacy policies of those third parties to understand their information practices.    
 
  Notice At Collection
 
-We may collect or process various categories of Personal Data.  The section directly below titled “What categories of Personal Data do we collect and process?” contains information on the categories of Personal Data collected and/or whether we sell or share the Personal Data. The section titled “Third Party Collection & Service Providers” contains information about third parties that control the collection of Personal Data on our behalf. Note that all such third parties are bound to data processing terms in compliance with applicable law.  
+We may collect or process different kinds of personal data, depending on how you interact with our Sites, products, and services. We retain and store your personal data as long as necessary for the intended purposes and in line with our data retention policy. Clicking on the sections below will take you to the parts of the Privacy Statement  that tell you more specific information about what kinds of data we collect and how we use it, whether we sell or share your personal data, how we use, communicate, disclose and otherwise process your personal data, what rights you may have and how to contact us.  
 
-If you have a general question or want to contact the global privacy team or Mars Chief Data Protection Officer, please see the Contact Us section above. If you have a request regarding your data and would like to exercise your rights under applicable law, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html).  For United States residents, to exercise your right to ask that we do not sell, share, or use your Personal Data for targeted advertising or to limit the use of your Sensitive Personal Data, please click the “Your Privacy Choices” link in the footer. We also recognize the Global Privacy Control opt-out preference signal in a frictionless manner. The Global Privacy Control is available [here(Opens a new window)](https://globalprivacycontrol.org/). The Global Privacy Control applies to devices and individual browsers, so additional devices and browsers may need to have the Global Privacy Control activated. 
+We may collect: Identifiers; Customer Records; Financial Information; Internet or Other Network Activity; Audio, Electronic, or Similar Information; Location Information; Content of Communications; Demographic Data; Video Viewing History; and any other personal data you provide to us or we and third parties collect when you interact with us. For job applicants, we may also collect Professional or Employment Data; Education Information; and any other personal data you provide to us during the application process. We may also collect Sensitive Personal Data, such as geolocation information, and from job applicants, we may also collect protected classification characteristics such as race, ethnicity, gender identity, sexual orientation, or criminal history. We may use any of the data collected to create inferences about you.  
 
- What Personal Data do we collect and process and why?
+Personal data collected is used for: internal business purposes; basic business operations; Site, service, or product improvement; advertising and marketing; security; and legal compliance. Job applicant personal data is also used to manage your application, for pre-employment screening, and to provide information to you about additional career opportunities.  
 
-We collect or process various categories of Personal Data as part of running our business. Below is a description of the types of Personal Data we collect and process, where we collect it from, and why. We also describe whether or not we “sell” or “share” certain categories of personal information.  For reference, the term “sell” means to exchange personal information for monetary or non-monetary value.  Mars does use vendors, such as analytics providers, that do use information in such a way to create a “sale” as that term is defined under the law.  Further, we “share” information as that term is generally defined to refer to targeted advertising.
+We may share the personal data collected from you: within Mars and the Mars family of companies; with service providers, vendors or agents; to third parties during a change in ownership, such as a merger or bankruptcy; with law enforcement agencies, courts, regulators, government authorities; with our social media partners; or where we have received your direction or consent to the disclosure of your personal data.  
 
-Category of Personal Data: **Identifiers**
+For US residents, the “Sale or Sharing of Personal Data” section tells you how we may sell or share personal data. You can click on the “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link to ask that we don’t sell or share your personal data for targeted advertising or call us at 1-844-316-5985. If you have a general question, including about our collection of your personal data, please see the “Contact Us” section above. If you want to make a request about your data, please [click here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). If it applies to your location, the data controller is:  
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Name  <br>• Contact information like email or physical address  <br>• Account username | Business Purposes:  <br>• To provide products and services you request  <br>• For registration, contests and promotions  <br>• To communicate with you, to respond to your questions or comments  <br>or to provide you with updates and news  <br>• To provide personalized content, information, and to send you  <br>brochures, coupons, samples, offers and other information on our products or our family of companies  <br>• To  <br>perform a contract with you  <br>• To deliver relevant advertising  <br>• For research. Commercial Purposes:  <br>• Auditing relating to counting ad impressions,  <br>• Helping ensure security and integrity of our systems  <br>• Debugging and repairing errors  <br>• Short-term transient use • Performing services on behalf of Mars • Providing advertising and marketing services • Internal research • Verifying or maintaining the quality or safety or a service within the Mars family of companies and with service providers. | • Directly from you; depending on where you live, you might be asked to opt-in to receiving certain communication from us. You can always opt out of receiving communications from us. • From third parties like data brokers or social media platforms. We may purchase and use opt-in email lists to contact potential customers. We ask those providing the lists to confirm that contact data is provided only for those who want to receive offers and information by email. | • With your consent where applicable, we sell and share identifiers with third-parties like advertising networks, data analytics providers, operating systems and platforms, and social networks for the business and commercial purposes provided herein. • We disclose identifiers within the Mars family of companies.  <br>• We may exchange names and addresses with other companies who may contact you by mail to provide offers. |
+Mars, Incorporated    
+c/o: Chief Privacy Officer    
+6885 Elm Street  
+McLean, Virginia 22101  
+Contact: [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection)    
 
-Category of Personal Data: **Customer records**
+ What Personal Data we collect and from where
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Purchase history  <br>• Billing and shipping information  <br>• Payment information, like your credit card number  <br>• Other data about your transactions with us | • To provide and improve the features, products and services you request;  <br>• To provide you with personalized content, information, and to send you brochures, coupons, samples, offers and other data on our products or our family of companies  <br>• To perform a contract with you  <br>• For processing of Personal Data needed for the assessment and acceptance of customers or vendors  <br>• To secure, audit, or repair our Sites  <br>• For research advertising, and marketing | • Directly from you when you purchase goods and services at any of our retail locations, including our veterinary hospitals and clinics or online | • With your consent where applicable, we do sell and share customer records.  <br>• We share customer records with third parties like advertising networks, data analytics providers, operating systems and platforms, and social networks for the business and commercial purposes provided herein, namely, for purposes of targeted advertising.  <br>• We disclose customer records within the Mars family of companies and with service providers for the business and commercial purposes provided herein. |
+In most cases, you won’t have to share specific details about yourself with us, but there might be times   when we are required to collect certain personal data about you by law or to fulfill a contract with you. Failure to provide this information may prevent or delay the fulfillment of these obligations. We will inform you at the time your information is collected whether certain data is required and the consequences of the failure to provide such data.
 
-Category of Personal Data: **Commercial Data**
+Where the law allows it, we collect or process different kinds of personal data as part of our business, as described below.
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Contact information for employees of our commercial partners and service providers  <br>• Credit status of our business customers  <br>• Data publicly available related to sanctions or watch lists | • To assess or accept a customer or vendor  <br>• To perform a contract with you  <br>• For research, advertising, and marketing | • Directly from you  <br>• From third-party service providers like credit agencies  <br>• From public sources | • We do not sell commercial data.  <br>• We share commercial data with third parties like advertising networks, data analytics providers, operating systems and platforms, and social networks for the business and commercial purposes provided herein.  <br>• We disclose commercial data within the Mars family of companies and with service providers for the business and commercial purposes provided herein. |
+* **Identifiers:** name; contact information (like email or physical address); and account username. This data is collected **directly from you**, **from other parties** like data brokers or social media platforms or from data analytics providers when you interact with our Sites. For job applicants, we may also collect this information about you **from third-party career sites or platforms**, like LinkedIn; or **from service providers**, like recruitment agencies.  
+* **Customer Records:** purchase history; billing and shipping information; and any other personal data about your transactions with us. This data is collected **directly from you** when you buy something from us, **from data analytics providers** when you interact with our Sites, or **from service providers**, like vendors who process payments on our behalf.  
+* **Financial Information:** payment card information; and credit status of our business customers. This data is collected **directly from you** when you buy something from us or **from service providers**, like credit reporting agencies.
+* **Internet or Other Network Activity:** device ID and operating system; browser information; IP address; internet activity or social media activity; information about how you interact with our Sites. This data is collected **from data analytics providers** or **from other parties** like data brokers, social media platforms, or third-party cookies. For job applicants, this data is collected **from third-party career sites or platforms**.  
+* **Audio, Electronic, or Similar Information:** videos, recordings or electronic artificial intelligence generated speech to text transcripts of customer support calls; videos or images you submit to us (e.g., for a video competition). This data is collected **directly from you** when you contact us, interact with certain features of our Sites, or visit one of our physical locations. We may also collect this data **from service providers** when you contact customer support. If you are a job applicant, we may collect this data when you when you use a third-party platform, such as Zoom or **from third-party career sites or platforms**.
+* **Location Information:** location information, such as IP address, that describes your general location; precise geolocation information, such as GPS data. This data is collected **directly from you** when you use an app or feature that collects GPS data, and general location information is collected **directly from you**, **from data analytics providers**, or **from other parties** like data brokers, social media platforms, or third-party cookies. We may obtain this data from job applicants via **third-party career sites or platforms**.
+* **Content of Communications:** contents of phone calls, texts, or chats; any audiovisual information provided in your communications. This data is collected **directly from you** when you contact us or interact with our Sites, or **from service providers** when you contact customer support.  
+* **Demographic Data:** gender or age. This data is collected **directly from you** if you choose to provide this data when you contact us or interact with our Sites.
+* **Video Viewing History:** personal data relating to your interactions with any video content, audiovisual content, or similar content on our Sites. This data is collected **directly from you** when you interact with our Sites or **from data analytics providers** via pixels or similar technologies when you interact with our Sites.
+* **Inferences from Other Related Data:** new information that we generate about your likely preferences, hobbies, interests, or other characteristics from any of the categories of personal data outlined above. For example, we would combine your **Geolocation Information** from your device and **Internet or Other Network Activity** from your interaction with the M&Ms website to infer that you are a California resident who enjoys chocolate. This data is collected **directly from you** when you interact with our Sites or **from data analytics providers** via pixels or similar technologies when you interact with our Sites.
+* **Sensitive Personal Data:** precise geolocation information. This data is collected **directly from you** when you share your precise geolocation. From job applicants, we may also collect protected classification characteristics such as race, ethnicity, gender identity, sexual orientation, or criminal history. This data is collected **directly from you** when you provide this information in connection with a job application or **from service providers** who support the hiring process.
 
-Category of Personal Data: **Internet or Other Network Activity**
+_**Additional Data Collected from Job Applicants**_  
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Device identifier and operating system  <br>• Browser information  <br>• IP address  <br>• Internet activity, social media activity  <br>• Activity at our Sites | • To provide you with personalized content, information, and to send you brochures, coupons, samples, offers and other information on our products or our family of companies  <br>• To deliver relevant advertising  <br>• To secure and repair our Sites  <br>• For research, advertising, and marketing | • Indirectly from you (for example from observing your actions on our Sites or through first-party cookies)  <br>• From third parties like data analytics providers | • With consent where applicable, we sell and share internet or other network activity information (cookie data) with third parties like advertising networks, data analytics providers, operating systems and platforms, and social networks for the business and commercial purposes provided herein.  <br>• We disclose this Personal Data within the Mars family of companies and with service providers. |
+* **Professional or Employment-Related Data:** professional licensing information; work history; current employer; personal references. This data is collected **directly from you** when you apply for a job with us; **from service providers** like recruitment agencies or **from third party career sites or platforms**.  
+* **Education Information:** education history; transcripts; level of education; certificates; language and computer skills. This data is collected **directly from you** when you apply for a job with us; **from service providers** or **from third party career sites or platforms**.
+* **General Personal Data:** Any other personal data provided during the application process, such as details about the type of employment you are seeking, current or desired salary, information about compensation of benefits packages, and willingness to relocate. We may also collect information related to any assessments you may take as part of the applicant screening process. We collect this information **directly from you**, **from service providers**, or **from third party career sites or platforms**.
 
-Category of Personal Data: **Professional or Employment-Related Data**
+Other companies may collect data automatically through cookies on our Sites. Please see the “How We Use Cookies and Similar Technologies” section below.  
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Work history  <br>• Personal Data provided on a job application | • To process employment applications  <br>• To perform a contract with you  <br>• For security, auditing, hiring and research | • Directly from you  <br>• From third parties (like a background check provider). | • We do not sell or share professional or employment-related data.  <br>• We disclose this Personal Data within the Mars family of companies and with service providers for the business and commercial purposes provided herein. |
+_**Other Data We May Collect and Sources of that Data**_  
 
-Category of Personal Data: **Inferences from Other Personal Data**
+* **Pet Data:** We may collect data about your pet. Privacy laws relate to personal data about a human. Information about pets, by itself is not personal data and is outside the scope of privacy laws and this Privacy Statement. We collect pet data directly from you when you visit our vets, purchase our pet products or interact with our Sites.  
+* **Children’s personal data:** Our websites are designed and intended for adults. You can read the [Mars Marketing Code](https://www.mars.com/about/policies-and-practices/marketing-code "Responsible Marketing and Our Marketing Code") for more information. If you learn that a child has given us their personal data, please report it to [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection). If we learn that a child has provided personal data, we will delete the account and any personal data we can. We don’t sell or share the personal data of children under the age of 16.  
+* **Non-personal data:** Data that is anonymized so that it can’t identify a person isn’t personal data. Data can also be made partly anonymous by removing enough data to make it hard to identify a person. Where the law allows it, we may sell or share this kind of data with third parties, or combine these kinds of data with other similar data from other sources. We don’t try to reidentify it unless the law allows it. We also may share aggregated data with third parties like telling our advertisers the number of visitors to our Sites. This sharing excludes text messaging originator opt-in data and consent. That data is not shared with any third parties. 
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Demographic data such as age, gender, hobbies or interests | • To provide and improve the features, products and services you request  <br>• For advertising to target users for whom ads are most relevant. This way, users will see advertising that is most likely to interest them. We honor opt-out requests. For more information about our advertising practices, [see our policy](https://www.mars.com/mars-incorporated-adchoices-united-states "https://www.mars.com/mars-incorporated-adchoices-united-states") on online interest-based advertising.  <br>• For automated profiling (please see below for more information) | • From third parties, such as a data analytics provider or social media site.  <br>• Indirectly from you (from observing your actions on our Sites, including which links you click on and data that you type into our online forms and chat boxes  <br>• With your consent, we may use session replay technology to monitor and record mouse clicks and movements, keystrokes, and pages and content viewed by you. Please discontinue use of the Sites if you do not consent to our collection of such data. | • We do not sell inferences from other Personal Data.  <br>• We share and disclose inferences within the Mars family of companies, with service providers, and with third parties like advertising networks, data analytics providers, operating systems and platforms, and social networks for the business and commercial purposes provided herein. |
+ How we use Cookies and similar technologies
 
-Note: [Our policy](https://www.mars.com/mars-incorporated-adchoices-united-states "https://www.mars.com/mars-incorporated-adchoices-united-states")
+This section provides information about how your data is automatically processed by us and our third-party partners through the use of log files and cookies (collectively, “cookies”) as well as web beacons, pixels, or other digital tracking technologies when you visit or interact with our website and other online properties, the “Sites.” You will also find information about these tools, such as how they are used, when they are set, and how you can reject or delete them.  
 
-Category of Personal Data: **Sensitive Personal Data**
+_**What are cookies?**_  
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-| Examples of Personal Data | Business or Commercial Purpose | Categories of Sources | Is this data sold, shared or disclosed? To whom it is sold, shared, or disclosed and for what purpose? |
-| • Precise geolocation  <br>• Protected classification characteristics such as race, ethnicity, sexual orientation, or criminal history | • To process employment applications  <br>• To perform a contract with you  <br>• For security, auditing, hiring and research  <br>• To deliver relevant advertising, if you allow precise geolocation through your device settings. | • Directly from you  <br>• Indirectly from you (like if you allow location services when using one of our apps)  <br>• From third parties such as background check providers if you apply for a job with us, or others who partner with us to process your Personal Data | • We do not sell or share Sensitive Personal Data.  <br>• We disclose sensitive Personal Data within the Mars family of companies and with service providers, such as when you apply for a job, and we rely upon a service provider to assist with background checks.  <br>• We may also disclose this information to service providers or other third parties for additional, specified purposes provided at the time of collection. You have the right to limit the use or disclosure of your Sensitive Personal Data via the “Your Privacy Choices” option though it may still be used for the purpose for which you consented. |
+“Cookies” are data files that a website sends to your device when you are using that site. These files help the website remember important things to make your experience better and more efficient. Our Sites use cookies for many reasons. We use cookies and IP addresses to obtain personal data from online visitors, and also to give them the best possible personalized online experience. With these cookies we may collect certain information about you, such as user interactions, device information, and browsing behavior.  
 
-**Retention:** We retain all categories of Personal Data for as long as needed to meet the purpose of processing and in accordance with this Privacy Statement.
+How long these cookies stay on your device depends on what they need to do. For example, some cookies only work while you're using the Sites and get deleted when you're done (session cookies). Others may stay on your device unless you choose to delete them (persistent cookies). Cookies may be placed by us (first party cookies) or by other businesses (third party cookies) when you visit our Sites or use our app. Those third parties are listed in our Privacy Preference Center on each Site.
 
-**Your Choices:** Please note that you have choices about the information we collect. When you are asked to provide Personal Data, you may decline. However, if you choose not to provide information that is necessary to provide a product or service, you may not be able to use some of our features, products or services.
+Cookie technology helps us show advertising and content tailored to a visitor’s interests. Where you have provided your consent to cookies, we and third parties such as social media partners may use the data collected across our Sites for insights, data matching and where you have provided your consent to receive direct advertising, to provide you with personalized recommendations and ads.  It also makes it easier for our visitors to order products, join sweepstakes and contests, and use other features on our Sites. Sites that offer online shopping use cookies to remember and process the items in your shopping cart. When allowed, we may link personal data with a cookie file. We also use cookies to stop children from going into areas or features meant only for adults or teens
 
-**Sharing with the Mars family:** We may combine Personal Data legally collected by other companies within the Mars family to create a single view of our customers, for internal market research and/or measuring the effectiveness of our campaigns and based on our legitimate interest. This enables us to understand where customers exist across our different brands and business divisions within the Mars family and will support us in improving our products and services.
+_**Different types of cookies used by us**_
 
-**Pet Data:** Data we collect about your pet – like your pet’s species, breed, birthday, or treatment history – is not considered Personal Data.
+The cookies used by us are based on the International Chamber of Commerce guide for cookie categories: Strictly Necessary, Performance, Functional, and Targeting. The cookies we use on our Sites are listed and explained (including their duration and type) in our Privacy Preference Center via the Cookie Settings link in the footer of each Site.  
 
- Third Party Collection & Service Providers
+**“Strictly Necessary” cookies** let you move around the Sites and use essential features like secure areas, shopping baskets and online billing. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Internet or Other Network Activity, and Sensitive Personal Data.  
 
-Our advertising partners and third-parties may also collect data automatically when you visit our websites through the use of cookies. For information on the service providers with whom we work or third parties that assist with collection, please see our Cookies Notice [here(Opens a new window)](https://www.mars.com/cookies-english).
+**“Performance” cookies**, which are also known as “analytics cookies,” collect details about how you use our Sites. For instance, they track which pages you visit, whether you run into problems, and your interaction with our advertising. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data. These cookies may be controlled by third parties who provide web measurement services to us and may persist on your device once your session is closed. An example of performance cookies would include Google web measurement and pixel tag services from Google Inc and/or Google Ireland Limited ("Google"). For more information about how Google uses your personal data, including the legal basis that Google relied on and the way to exercise your privacy  rights requests against Google with regard to the personal data stored by Google, can be found at: [Business Data Responsibility (safety.google)(Opens a new window)](https://business.safety.google/privacy/). The general privacy policy from Google can be found at: [https://policies.google.com/privacy(Opens a new window)](https://policies.google.com/privacy).
 
- What are the lawful bases on which we may process your Personal Data?
+**“Functional” cookies** are used to provide services or to remember settings to improve your visit. The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data.
 
-* **To protect your vital interests.** We may, for example, process Personal Data for health and safety reasons if you are at a Mars facility or, for job applicants, to further agreements with employee representations in some jurisdictions, and to protect the public interest. 
-* **At your direction and with your consent.** 
-* **For scientific research purposes.** 
-* **For other legitimate business purposes.** We may also rely on our legitimate interest to improve business and marketing practices. This includes but is not limited to legal compliance, research and analysis, combining data, clinical studies, evaluating diagnosis, treatment of pets and other purposes described above. When we rely on our legitimate interest, we’ll carry out a legitimate interest assessment to ensure we consider and balance any potential impact to your rights under applicable data protection laws before we carry out any data processing. We won’t use your Personal Data for activities where our interests are overridden by the impact on you, unless we have your consent or are otherwise required or permitted to by law. 
+**“Targeting” cookies**, also known as “advertising cookies” are used to track and store data when you and others see and interact with our Sites, marketing communications and advertisements on our Sites and third-party websites. The aim is to show you relevant products and services defined by what you have previously viewed, searched or clicked when you interacted with our Sites, services or advertising. The cookies are linked to services offered by third parties, such as “Like” and “Share” buttons and may persist on your device once your session is closed. The third party provides these services in return for recognizing that you have visited our Sites.  
 
- How do we share and disclose your Personal Data?
+Our sites may also use Web Audience Measurement Cookies. These cookies enable us to track when you and others see and interact with our Sites, marketing communications and advertisements and on third party websites. The information we record includes mouse actions and scrolling movement, as well as basic interactions with website forms and other content. In promotional e-mails or newsletters, they help us to count how many people have read them.
 
-In addition to the sharing described above, we may share or disclose your Personal Data for purposes consistent with this Privacy Statement in the following situations. 
+The categories of personal data collected by these cookies may include Identifiers, Customer Records, Inferences from other personal data, Internet or Other Network Activity, and Sensitive Personal Data like your exact location, if you have location services turned on.  
 
-* Within Mars and the Mars family of companies. For instance, to combine the Personal Data collected about you. 
-* With vendors or agents. We may share your Personal Data with companies we have hired to provide services for us. When we share Personal Data with companies to provide services for us, they are not allowed to use it for any other purpose. They must keep your Personal Data confidential unless you otherwise consent. 
-* Where your Personal Data may be transferred along with other business assets. In such cases, Personal Data may also be shared during any assessment process, subject to confidentiality and non-disclosure requirements. 
-* Where we have received your direction or consent to the disclosure of your Personal Data. 
-* To fulfill a service to you.  
-* To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies. 
-* To investigate consumer complaints or possible breaches of law, to protect the integrity of the website, to fulfill your requests, or to cooperate in any legal investigation. 
-* To protect the rights or property of the Mars family of companies or our customers, including enforcing the terms governing your use of the services. 
-* To act on a good faith belief that access or disclosure is necessary to protect the health and / or safety of our associates, customers, the public, and pets. 
-* To support other legitimate business purposes. This includes but is not limited to legal compliance, furthering clinical studies, evaluating diagnosis and treatment of pets. 
+These cookies also allow you to share content across social media via the use of sharing settings and may allow the social networking website to track your activity. They may be set when you visit our Sites and when you visit third party websites showing our advertisements.  
 
-Please note that the Sites may include links or refer to third party websites whose privacy practices may differ from ours. If you submit Personal Data to any of those websites, your data is governed by their privacy policies. We encourage you to review the privacy policy of any website you visit. We are not responsible for the practices employed by third party websites linked to/from our Sites nor the information contained therein.  
+Third party cookies that we use include: “Like” and “Share” buttons from Meta Platforms Ireland Ltd (“Meta”), owner of e.g. Facebook and Instagram, is a joint data controller with us of the personal data that is collected via Meta cookies. We have entered in a Controller Addendum with Meta to determine the respective responsibilities for compliance with the obligations under the privacy laws with regard to the joint processing. Meta is responsible for enabling rights requests under privacy laws with regard to the personal data stored by Meta after the joint processing. More information about how Meta processes your personal data, including the legal basis Meta relies on and the ways to exercise your privacy rights requests against Meta with regard to the personal data stored by Meta, can be found in Meta’s privacy policy at [https://www.facebook.com/privacy/policy(Opens a new window)](https://www.facebook.com/privacy/policy).
 
-We may sell anonymized data to third parties, and we may share anonymized or non-personally identifying data as described above. We may combine anonymized or de-identified data with other anonymized or de-identified data from other sources; however, we maintain and use all deidentified data in de-identified form. We do not attempt to reidentify it except to ensure our deidentification processes are in compliance with applicable data protection laws. We also may share aggregated and anonymized data with third parties, including for example advisors, advertisers, and investors, for general business analysis. For example, we may tell our advertisers the number of visitors to our Sites and the most popular features or services. All above sharing exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties. 
+_**What are web beacons and how do we use them?**_  
 
- Applying for a job at Mars
+Some of our web pages and e-mail updates may contain electronic images called web beacons, sometimes known as one-pixel GIFs, clear GIFs, or pixel tags. Web beacons allow us to gather statistical information about the activities and features that most interest our users. This helps us provide more personalized content. These web beacons will appear on your browser regardless of your cookie settings but will not process your personal data if you decline cookies or change your browser settings.  
 
-When you apply for a position with the Mars family of companies, we will process your Personal Data as described here, in compliance with applicable data protection laws. Mars respects your privacy and will treat your Personal Data as a job applicant as confidential. We will use and share your Personal Data as described in this Privacy Statement, and as described below as it relates to you as a job applicant. 
+_**Mobile location analytics data**_
 
-**Personal Data we collect about you as a job applicant** 
+When allowed by law, we may use tracking tools to collect certain data about your Wi-Fi enabled mobile device, which includes the presence of your device in our stores, its signal strength, its brand, and a unique identifier known as its Media Access Control (“MAC”) address (collectively, “Customer Mobile Device Data”). This data may be collected to determine the amount, location, and frequency of customer visits to our stores. A mobile device’s MAC address identifies a specific device to the surrounding Wi-Fi networks.  
 
-When you apply for a job at Mars, we ask you to provide Personal Data to evaluate your application. You may also choose to provide additional Personal Data (for example, data about hobbies and social preferences or Sensitive Personal Data like your race, ethnicity or disability status). All data is provided on a voluntarily basis and you choose what Personal Data you want to provide. Please note, if you choose not to provide requested Personal Data, our ability to consider you for a position may be limited. 
+You may opt-out of having your MAC address recorded by visiting the following link and entering your mobile device’s MAC address: [https://optout.smart-places.org/(Opens a new window)](https://optout.smart-places.org/). To learn more about the use of Customer Mobile Device Data and your choices, please visit: [https://smart-places.org/(Opens a new window)](https://smart-places.org/).  
 
-**Data from third parties** 
+_**AdChoices Notice**_
 
-We may also get data about you from public sources or third parties. For example, to verify data in your application or conduct background screenings through a third party, as allowed by applicable law. If you choose, you may provide us with Personal Data on third party sites like LinkedIn, if applicable in your market. If you choose to authorize Mars to access this Personal Data, you agree that Mars may collect, store and use this data in accordance with this Privacy Statement. 
+At times we display ads both on our Sites and on the websites of third parties. When you visit one of our Sites or view ads that we serve elsewhere online, you may see different kinds of ads, such as text ads next to search results or video ads on web pages. Sometimes, these ads are based on the content of the pages on which they appear. Other times, these ads are generated by matching that ad to your interests, based on your online activities collected over time. With interest-based advertising, the goal is to show you the most relevant ads.
 
-**How Mars uses your Personal Data as a job applicant** 
+We support the [Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance(Opens a new window)](http://www.aboutads.info/obaprinciples). Ads that we place online using interest-based data are expected to be delivered with the Advertising Option Icon to help you understand how your data is being collected and used and to provide choices for people who want more control. The Icon looks like this:
 
-Mars will use your Personal Data to process your application, including for the below purposes. 
+![](https://www.mars.com/sites/g/files/dfsbuz106/files/2024-11/advertisting-options-icon.png)
 
-* Recruitment, evaluation and selection of job candidates 
-* General, human resources administration and management 
-* Conducting satisfaction surveys (for example, to manage and improve the recruitment process) 
-* Verifying your employment reference(s), conducting background checks and related assessments 
-* Compliance with legal and company requirements (for example, to monitor diversity) 
-* Communicating with you regarding your application and interest in Mars 
-* Future job opportunities if you allow this use 
+By clicking on the Icon when it appears, you can review and follow information about online interest-based ads, including who is collecting and using your online data, how you can opt-out from these ads, and more. To stop receiving interest-based ads from any of our Sites, you can also opt-out by <a href=" https:="" privacyportal-eu-cdn.onetrust.com="" dsarwebform="" draft="" target="\_blank">clicking here. Opting out does not mean you will no longer see ads from us online, just that the online ads from us you do see will not be based on your specific interests.
 
-**Profiling and automated decision-making** 
+Depending on where you live, you may be able to access one convenient place to indicate your preferences, including the option to make one “universal” opt-out of interest-based advertising with participating entities:
 
-Mars may also process your Personal Data for data and statistical analysis. To comply with legal requirements or for Mars’ legitimate interests, we may deploy global-level recruiting analysis and diversity monitoring, with your consent and where permitted by applicable law. You have the right not to have a decision made about you that is based solely on automated processing, including profiling if that decision produces legal effects about you or significantly affects you. Mars does not, as part of its recruitment process, make solely automated decisions about candidates. 
+In the United States, visit this site: [Ad Choices(Opens a new window)](http://www.aboutads.info/choices/).    
+In Canada, visit this site: [Your Ad Choices(Opens a new window)](http://youradchoices.ca/).   
+In the EU, visit this site: [Your Online Choices(Opens a new window)](http://www.youronlinechoices.eu/).
 
-**With whom will Mars share your Personal Data as a job applicant?** 
+When you opt-out using these methods, a cookie will be placed on your device indicating that you have opted-out of interest-based advertising. If you delete your cookies, you will need to opt-out again.
 
-Your Personal Data will be shared among Mars entities in the Mars family and only with those Mars associates who really need it to perform their tasks and duties, and to third parties with a legitimate business need. Third parties specific to job applicants include recruitment agencies, consultants, background service providers and attorneys. These service providers may change depending on the Mars entity that employs you and may change over time. We always seek to ensure that third parties handling Personal Data do so in a manner consistent with this Privacy Statement and in accordance with applicable law. 
+_**What if you don't want cookies?**_
 
- How do we communicate with you?
+**1.** **Privacy Preference Center**
 
-If you no longer want us to use your contact information to promote Mars’ or third parties’ products or services, please reach out to us using the contact information provided above. 
+You can manage your consent for all but Strictly Necessary cookies in our Privacy Preference Center via the Cookies Settings link (available in the footer of each Site). If you don’t consent to some types of cookies, it might impact your use of the Sites and the services we can offer.  
 
-If we send you a promotional email, you may also unsubscribe at the bottom of the email to opt-out of future promotional emails. In some instances, in compliance with applicable law, we may request your consent before sending you promotional emails. By declining to provide consent, you will not receive certain emails from us. 
+To see which cookies are on our Sites and how these third parties use your personal data, go to the Privacy Preference Center via the Cookies Settings link (available in the footer of each Site), choose the type of cookies from the menu on the left, then click on “Cookies Details.” For example, to see how Google will use your personal data, visit [Google’s Privacy & Terms site(Opens a new window)](https://policies.google.com/technologies/partner-sites).
 
-Even if you choose not to receive promotional emails, you may still receive transactional emails that facilitate, complete or confirm a commercial transaction that you have already agreed to enter with us. These include communications about your pet’s health, appointment reminders, completion of your registration, correction of user data, password reset requests, transaction confirmations, shipping notices, and other communications essential to your transactions with us. 
+**2\. Your browser settings**
 
-We may also offer text/SMS messaging to you. In some circumstances, in compliance with applicable law, we might require you to opt-in to receive text messages from us. At any time, you may opt-out of receiving particular text messages from us (other than text appointment reminders) by texting STOP in response to any text message.  
+Another way to control cookies it to set your computer to warn you when a cookie is being set, or to turn off all cookies through your browser (e.g., Internet Explorer or Firefox). Check your browser’s HELP menu to learn the correct way to change or update your cookies.
 
-Unless expressly noted, all text messaging services are offered without charge to you. Message, data rates and other charges may apply. You are liable for any mobile phone charges incurred (usage, subscription, etc.) as a result of using any of our products or services. Please consult your mobile service carrier’s pricing plan to determine the charges for sending and receiving text messages. 
+|     |     |
+| --- | --- |
+| **Browser** | **Cookies Management Link** |
+| Google Chrome | [https://support.google.com/chrome/answer/95647?hl=en(Opens a new window)](https://support.google.com/chrome/answer/95647?hl=en) |
+| Firefox | [https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US(Opens a new window)](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectslug=enable-and-disable-cookies-website-preferences&redirectlocale=en-US) |
+| Opera | [https://help.opera.com/en/latest/security-and-privacy/(Opens a new window)](https://help.opera.com/en/latest/security-and-privacy/) |
+| Microsoft Internet Explorer | [https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d(Opens a new window)](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d) |
+| Apple Safari | [https://support.apple.com/en-il/guide/safari/sfri11471/mac(Opens a new window)](https://support.apple.com/en-il/guide/safari/sfri11471/mac) |
+| Microsoft Edge | [https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09(Opens a new window)](https://support.microsoft.com/en-us/microsoft-edge/delete-cookies-in-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09) |
 
- Children
+You can also visit [www.aboutcookies.org(Opens a new window)](https://www.aboutcookies.org/) which contains more information on how to do this on many different browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. Please see your mobile phone’s manual for information on how to do this on your phone’s browser. Please be aware that restricting cookies may impact on the functionality of Mars Sites. 
 
-Most of our websites are designed and intended for adults. Where one of our websites is intended for a younger audience, we get consent from a parent or guardian in accordance with local law.   
+ How do we use your Personal Data and on which legal basis?
 
-For more information, please read the [Mars Marketing Code(Opens a new window)](https://www.mars.com/global/about-us/policies-and-practices/marketing-code). If you learn that a child has, in violation of this policy, registered for email newsletters, or otherwise provided their Personal Data, please report it to us using the contact information provided at the top of this Privacy Statement. If we become aware that an underage user has provided Personal Data without parental permission, we will terminate that account and delete all Personal Data provided by that user to the extent feasible. 
+_**Our purposes for processing**_
 
- Advertising and Cookies
+We may process any of the data we describe above for these purposes:  
 
-**What are our policies regarding online interest-based advertising?** 
+* **Internal business purposes.** To pool within our family of brands. This helps us understand our customers and do market research. That lets us improve our products and services. This also helps us understand our staffing needs and how we can write better job descriptions. The legal basis for processing your personal data for these purposes is mainly our **legitimate interest**.  
+* **Basic business operations**. To sell you our products and services, like processing payments, shipping products, sending appointment reminders, and accounting. The legal basis for processing your personal data for these purposes is mainly **contractual necessity** or our **legitimate interest**.  
+* **Site, service, or product improvement.** To improve and grow our Sites, products, and services, including to develop new products and services and understand how our Sites, products, and services are being used, our customer base and purchasing trends, and the effectiveness of our marketing. We also use this data to improve and grow our Sites and understand how our Sites are being used, our job applicant pool, and the effectiveness of our career postings. The legal basis for processing your personal data for these purposes is mainly our **legitimate interest**, including for scientific research purposes or your **consent**.
+* **Advertising and Marketing.** To build insights, data matching in order to send you targeted marketing communications, to personalize the ads you see on our Sites or other sites, such as on social media platforms (including using  ‘Custom Audiences’ (where targeted ads are sent to users on Facebook or other social media sites) and to see how well our ads work. The legal basis for processing your personal data for these purposes is mainly your consent or our **legitimate interest**.  
+* **Security.** To protect our Sites, network, and business operations, and to stop activities that may violate our policies or be fraudulent or illegal. The legal basis for processing your personal data for these purposes is mainly our **legitimate interest**. 
+* **Legal compliance.** To comply with legal process like warrants or court orders, and to comply with law. The legal basis for processing your personal data for these purposes is mainly for our **compliance with our legal obligations**.  
 
-Please see our [Ad Choices Notice(Opens a new window)](https://www.mars.com/mars-incorporated-adchoices-united-states) and [Cookies Notice(Opens a new window)](https://www.mars.com/cookies-english) for detailed information on our practices around online interest-based advertising and the use of cookies. 
+_**Additional purposes of processing for job applicants**_  
 
- Additional Helpful Information: What else do you need to know? Where is your data stored and processed?
+Notwithstanding the legal bases described above, in jurisdictions in which consent is required to conduct the relevant type of processing activity, we rely on your consent (express or implied). 
 
-Personal Data we collect or receive may be stored and processed in the United States or any other country where we or our service providers have facilities. 
+ In which situations do we disclose your Personal Data and to whom?
 
-The servers and databases storing Personal Data may be located outside the country from which you accessed the Site and in a country that does not have the same privacy laws as your country of residence. The Personal Data you provide to us may be sent abroad in accordance with legal requirements. We will collect, process and use Personal Data only in accordance with this Privacy Statement. 
+We may share or disclose your personal data in the following situations:
 
-**How long do we store your Personal Data?** 
+* To fulfill a service to you or to respond to communications from you.  
+* To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.  
+* To investigate consumer complaints or possible breaches of law, to protect the integrity of the Sites, to fulfill your requests, or to cooperate in any legal investigation.  
+* To protect the rights or property of the Mars family of companies or our customers, including enforcing the terms governing your use of the services.  
+* To act on a good faith belief that access, communication or disclosure is necessary to protect the health or safety of our associates, customers, the public, and pets.  
+* To create tailored content and advertisements that are relevant to your interests, for the purpose of targeted advertising, promotional campaigns, and enhancing your experience on these platforms.
+* To support other legitimate business purposes, as permitted by applicable law. This includes but is not limited to legal compliance, furthering clinical studies, evaluating diagnosis and treatment of pets.  
 
-We retain and store your Personal Data only for as long as we have a legitimate business purpose and in accordance with our data retention policies unless a longer retention period is required or permitted by law. 
+We may disclose your personal data to the following recipients:  
 
-**What about Personal Data that is publicly available (such as in chat rooms, message boards, or other interactive forums)?** 
+* Within Mars and the Mars family of companies. Mars also uses global systems as well as group-wide integrated business services and functions provided by employees in various companies of the Mars group. For this purpose, we may share your data with the other Mars group companies.
+* With service providers, vendors or agents, which have been carefully selected beforehand. For instance, we may share your personal data with our service providers that perform marketing services and other business operations for us. These companies may only use your personal data to the extent necessary to provide the services requested by us, and are not allowed to use it for any other purpose. They must keep your personal data confidential unless you otherwise consent.  
+* During a change in ownership, such as a merger or bankruptcy, your personal data may be reviewed and transferred along with other business assets, subject to applicable law.
+* With law enforcement agencies, courts, regulators, government authorities or other third parties when required by law (like during an investigation) or to protect our rights or the rights of any third party. Whenever possible, we will attempt to notify you of such requirements.
+* With our social media partners, to help us deliver personalized content, promotional messages, and advertisements that align with your interests and preferences, such as for the purpose of creating ‘Custom Audiences’ (where targeted ads are sent to users on Facebook).  
+* Where we have received your direction or consent to the disclosure of your personal data.  
 
-We may offer chat rooms, message or bulletin boards, or interactive areas where visitors may publish comments or information. If there is a chat room, bulletin or message board, social networking opportunities or other interactive areas, be sure to check posted rules. You will be bound by posted rules, as well as our Site Terms of Use. Rules for participation may establish age and other restrictions, such as posting abusive, offensive or inflammatory content. Anything you post online is public information. We are not responsible for anything you voluntarily post online. Users should use caution when disclosing Personal Data online. 
+ Sale or sharing of Personal Data
 
-**Assignment**
+To personalize our ads and marketing experiences, or to personalize our ads for current job openings, we work with ad and analytics partners, ad networks, and social media sites. These partnerships may be considered a ”sale” or “sharing” under some US laws, even when no money changes hands.  
 
-We may share or transfer your Personal Data in the course of any direct or indirect reorganization process including, but not limited to, mergers, acquisitions, divestitures, bankruptcies, and sales of all or part of our assets.  Your Personal Data may be shared following the completion of such transaction and/or during the assessment processing pending transfer (subject to confidentiality requirements).  If transferred, your Personal Data will remain subject to this Privacy Statement or a policy that, at a minimum, protects your privacy to an equal degree as this Privacy Statement unless you otherwise consent. 
+The personal data we might “sell” or “share” includes your basic name and contact information, online activity information, customer records, and sales data. When you login to your account on a web page where cookies are present, that may be considered a “sale” or “sharing” of your personal data. If you want to opt out of this use, click on this the “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
 
-**How do we safeguard your Personal Data?** 
+Mars does not sell or share the personal data of children under the age of 16.  
 
-We maintain (and require our service providers to maintain) appropriate organizational and technical measures to protect the security of your Personal Data. Please understand, however, that no data transmissions over the Internet can be guaranteed to be 100% secure due to the inherent risks of data transmission. Consequently, we cannot ensure or warrant the security of any data you transmit to us, and you understand that any data that you transfer to us is done at your own risk. We recommend that you also take additional measures to protect your Personal Data. For example, install up-to-date anti-virus software, close browsers after use, keep confidential your login credentials and passwords, and regularly update software and apps to ensure you have the latest security features. 
+ Your options and rights regarding your Personal Data
 
-If we learn of a security system breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the Sites or providing Personal Data to us, you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of the Sites. We may post a notice via our Sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. If you have any questions on the security measures we use, you may contact us using the contact information provided at the top of this Privacy Statement. 
+* **Your Account:** Please log in to update your account information.
+* **Email Unsubscribe:** If you don’t want to receive marketing emails from us or emails about open jobs, please use the Unsubscribe link in any email you’ve received or make a request at Your Privacy Choices. Even if you opt out of marketing emails, you may still get emails to complete a transaction that you have already entered with us. When you opt out of job opportunity emails, you may still get emails about completing an application you have already started with us.  
+* **Contact Us Section:** You can exercise your rights by [clicking here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html).  
+* **Text or SMS Messaging:** We may also offer text/SMS messaging to you. In some circumstances, we might require you to opt-in to receive text messages from us. At any time, you may opt out of receiving particular text messages from us (other than text appointment reminders) by texting STOP in response to any text message.  
+* By Telephone: If you are in the United States, you may make a request by calling 1-844-316-5985, or by contacting a specific Mars entity with whom you have a relationship, including:  
+    * Banfield Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/0dc4c871-2bc5-4cd4-9bd0-9a1fcda6a4da.html) or by calling 1-888-899-7071  
+    * BluePearl Specialty + Emergency Pet Hospital: by clicking [here(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/8edb85a7-4d33-4cc0-a790-a39c24788247) or by calling 1-855-900-8444  
+    * VCA Animal Hospitals: by clicking [here(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/ee429be4-395b-4009-bb73-51cf9babd6c6) or by calling 1-844-276-5786.  
 
-**International Transfer of Personal Data** 
+_**Depending on your location, you might have different rights. Mars responds to rights requests according to local law.**_  
 
-If you choose to provide us with Personal Data, we may transfer that Personal Data to our affiliates and subsidiaries or to other third parties, in accordance with local law. We may also transfer your Personal Data across borders, from your country or jurisdiction to other countries or jurisdictions in accordance with legal requirements. Mars primarily uses European Union Commission Standard Contractual Clauses for data transfers from the European Union, the EEA, and Switzerland where required by law. Where necessary, Mars uses the UK International Data Transfer Agreement for data transfers from the UK. For transfers between other jurisdictions, Mars may rely on other legal mechanisms for international transfer, as appropriate under the relevant law. 
+_**Residents of the EEA, UK, Switzerland, Canada, California, Colorado, Connecticut, Oregon, Montana, Texas, Utah and Virginia, as well as other jurisdictions, may have the following rights:**_
 
- Laws and Rights that May Apply to You
+* **Right to access:** You may have the right to confirm whether your personal data is being processed and to get access to it and other information.    
+      
+    You may have the right to get a copy of your personal data. Where possible and allowed by law, we will provide a copy of the personal data we are processing. For more copies, we may charge a reasonable fee. If you make the request by electronic means, and unless otherwise requested, the data shall be provided in electronic form. Residents of Oregon may also request a list of specific third parties, other than individuals, to which Mars has disclosed your personal data.
+* **Right to correction, rectification, and completion:** You may have the right to correct, rectify, or complete your personal data if inaccurate or incomplete.  
+* **Right to deletion or erasure (“right to be forgotten”):** You may have the right to the deletion or erasure of your personal data.
+* **Right to restriction of processing:** You may have the right to request that we restrict our processing of personal data.
+* **Right to data portability:** You may have the right to receive your personal data in a structured, commonly used and machine-readable format or where technically feasible to have it directly transferred to another controller.
+* **Right to object to processing:** You may have the right to object to processing of your personal data which is based on our legitimate purposes.  
+* **Right to withdraw consent:** where consent is relied upon to process your personal data, you have the right to withdraw consent, subject to legal restrictions.
+* **Right to provide instructions:** in some restricted jurisdictions, you have the right to provide instructions regarding the use of your personal data after death.
+* **Right to lodge a complaint with a supervisory authority:** Users who are located in the EEA, UK, Switzerland or other countries that may offer this recourse have the right to lodge a complaint about our privacy practices with a supervisory authority.  
 
-Depending on your residence, the rights available to you may differ in some respects. Mars will respond to any rights request in accordance with local legal regulations. 
+**Residents of California, Colorado, Connecticut, Oregon, Montana, Texas, Utah and Virginia may have the following additional rights:**
 
-If you, or an authorized agent acting on your behalf, wish to: (1) make a request related to any of the rights set forth below; (2) appeal a decision we made regarding a request; or (3) appeal our refusal to act within a reasonable time, please reach out to us using the contact information provided above.  We may need to verify your request before completing it. For example, we may ask you to confirm data points we already have about you. We will only use Personal Data provided in a request to verify the requestor’s identity or authority. Note that we may deny a request from an authorized agent that does not submit sufficient proof that they have been authorized to act on behalf of another individual. 
+* **Right to opt-out of profiling:** If we base decisions solely on profiling or automated decision-making that may result in important legal or other effects, you may have the right to opt-out.  
+* **Right to opt-out of sale, sharing, and targeted advertising:** You may have the right to opt-out of the sale or sharing of your personal data to third parties for targeted advertising. To exercise this right, you may submit a request by [clicking here(Opens a new window)](https://privacyportal-eu-cdn.onetrust.com/dsarwebform/5f2759ff-9efe-412c-a3be-f13092d2c945/draft/9a93104f-e847-4c4b-85e8-dc821086d0cf.html). Note that we do not sell or share the personal data of individuals under 16 years old. Please also note that in some jurisdictions, this is an opt-in right to which we comply by obtaining express consent at our points of collection.  
+* **Right to limit the use and disclosure of sensitive personal data:** You may have the right to limit the use and disclosure of your sensitive personal data if we use such information to infer characteristics about you. 
+* **Right to Nondiscrimination:** We will not discriminate against you for exercising any of these rights.
 
-**Right to know or access** 
+**In other jurisdictions, including Australia, you may have different or additional rights, like the following:**
 
-You may have the right to get confirmation about whether or not your Personal Data is being processed. If so, you may have the right to access the Personal Data and other information, such as the purposes, the categories of Personal Data, the recipients (or categories of recipients) to whom the Personal Data have been or will be disclosed, for particular recipients in third countries or international organizations, where possible, the predicted period that the Personal Data will be stored, or, if not possible, the criteria used to determine that period, your rights, etc. 
+* **Right to anonymity:** You may also have a right to request anonymity. If you choose to exercise this right, we may not be able to provide you with your requested goods or services.  
 
-Where feasible and permitted by law, we will provide a copy of the Personal Data we are processing. For any further copies, we may charge a reasonable fee based on administrative costs. If you make the request by electronic means, and unless otherwise requested, the data shall be provided in electronic form. 
+**In other jurisdictions, including Mainland China, you may have different or additional rights, like the following:**
 
-**Right to correction, rectification, and completion** 
+* **Third Party Disclosures:** You may have the right to request a complete list of third parties with whom Mars shares your personal data, including detailed information such as their names, contact details, purpose of processing, type of information processed and so on.
 
-You may have the right to correct, rectify, or complete your Personal Data if inaccurate or incomplete. 
+**Making Rights Requests and Submitting Appeals**  
 
-**Right to delete or erasure (‘right to be forgotten’)** 
+You may under certain circumstances authorize another individual or a business, called an authorized agent, to make requests on your behalf.
 
-You may have the right to the deletion or erasure of your Personal Data in certain circumstances. For examples, see below. 
+We must verify your identity before responding to your request. We do this by asking you to provide information that we can match against information we may have about you already. We may need to follow up with you to request more information to verify your identity. We will not use personal data we collect in connection with verifying or responding to your request for any purpose other than responding to your request.
 
-* Your Personal Data are no longer necessary for the purposes for which they were processed
-* You withdraw your consent on which the processing is based, and we have no other legal ground for the processing 
-* You object to the processing and there are no overriding legitimate grounds for the processing 
-* Your Personal Data have been unlawfully processed 
-* Your Personal Data have to be erased for compliance with a legal obligation to which we are subject 
+We may have a reason under the law why we do not have to comply with your request, or why we may comply with it in a more limited way than you anticipated. If we do, we will explain that to you in our response. You may have the right to appeal a denial of their request by contacting us as described in the notice of denial.  
 
-This right shall not apply to the extent that processing is necessary for the below purposes. 
+See [here](https://www.mars.com/about/policies-and-practices/ccpa-rights-metrics "CCPA Rights Metrics") for metrics regarding Access, Delete, and Do Not Sell My Personal Information requests submitted pursuant to California law that Mars received, fulfilled (in whole or in part), and denied in the last full calendar year.  
 
-* For exercising the right of freedom of expression and information 
-* For compliance with a legal obligation which requires processing by a law to which we are subject 
-* For the performance of a task carried out in the public interest 
-* For reasons of public interest in the area of public health 
-* For archiving purposes in the public interest, scientific or historical research purposes or statistical purposes 
-* For the establishment, exercise or defense of our legal claims 
+For Russian residents wishing to contact us regarding enquiries or requests regarding their personal data, please contact our Russian Privacy Team by clicking [\[email protected\]](https://www.mars.com/cdn-cgi/l/email-protection).
 
-**Right to restriction of processing**
+_**The California “Shine the Light” Law**_  
 
-You may have the right to restrict the processing for the below reasons. 
+California law allows California residents to request certain information regarding our disclosure of personal data to third parties for their direct marketing purposes. To make such a request, please put “Shine the Light” in the ”Request Details” portion of your request on the form above or in the subject line, if submitted by e-mail.  
 
-* You contest the accuracy of your Personal Data, for a period enabling us to verify the accuracy of the Personal Data 
-* The processing is unlawful and you oppose the erasure of the Personal Data and request the restriction of their use   
-* We no longer need the Personal Data for the purposes of the processing, but they are required by you for the establishment, exercise or defense of legal claims 
-* You exercised your right to object to processing pending the verification whether our legitimate grounds override yours 
+Note that there are restrictions on the number of times you can exercise some of these rights. You may designate an authorized agent to make a request on your behalf. The agent must provide proof of your authorization. We may deny a request from an agent that does not submit proof that they have been authorized by you to act on your behalf.   
 
-**Right to data portability** 
+ Financial incentives, offers or bona-fide loyalty programs
 
-You may have the right to receive the Personal Data that you have given us, in a structured, commonly used and machine-readable format. You have the right to send that Personal Data to another controller if the processing is based on appropriate consent or contract and is carried out by automated means. 
+This section applies to residents of the U.S. when we offer you financial incentive programs or bona fide loyalty programs like discounts and special offers in exchange for your personal data. The personal data requested in connection with the offer, as well as other terms, will be provided at the time you sign up. We may share your data with service providers and marketing partners to provide the program. We will provide the name of any program partners at the time you sign up. In calculating these offers, we consider the expenses related to the offer and the value of your data.
 
-**Right to object**
+You may withdraw from any of the programs at any time by following the instructions provided. Please note that if you opt out or request to delete your data, we may no longer be able to provide you with the benefits. For offers involving your e-mail, you may unsubscribe via the “unsubscribe” link in any marketing email you have received. For offers involving text messaging, you may text STOP. For all other offers, you may follow the instructions provided with the offer.  
 
-You may have the right to object, on grounds relating to your particular situation, to processing of your Personal Data which is based on our legitimate purposes. In particular, you may have the right to object to your Personal Data being combined across the Mars family on the basis of our legitimate interest. We will stop processing the Personal Data unless we have compelling legitimate grounds for the processing which override the interests, rights and freedoms of the data subject or for the establishment, exercise or defense of legal claims. If Personal Data is processed for direct marketing purposes, including profiling, you may object at any time.
+ Storage and international transfers, retention and security
 
-**Right to Opt-out of Profiling and Automated individual decision-making** 
+_**Storage and transfer of your Personal Data**_  
 
-You may have the right not to be subject to a decision based solely on automated processing, including profiling, except under certain exceptions under local law.  
+Within our enterprise, employees may need to access your personal data to perform their duties. Depending on the type of personal data handled, this may include employees in customer support and service, IT and security, legal and compliance, management and administration, marketing and content creation and finance roles.
 
-**Right to withdraw consent** 
+Your personal data may also be processed outside your country or jurisdiction, in particular if we engage service providers and distribution partners for the provision of our services, the provision and maintenance of our products, as well as distribution and marketing. The processing of your personal data may take place worldwide but will occur primarily in countries in which we have subsidiaries or our service providers located in the EU and the USA.  This means personal data we collect or receive may be stored and processed in a country or jurisdiction that does not have the same privacy laws as your area, and may be accessed by courts, law enforcement or national security entities in these jurisdictions.  If you have any questions or would like written information about our policies and practices with respect to the processing or storage of personal data by foreign service providers or affiliates on our behalf, please contact us at the information provided at the Contact Us section above.
 
-Where the processing of Personal Data is based on your consent, you may have the right to withdraw consent at any time, without affecting the lawfulness of processing based on consent before withdrawal. 
+For Mainland China, Mars transfers fourteen different fields of personal data overseas:
 
-**Right to anonymity** 
+* **Contractor Personal Data:** Name (with and only in Pingyin), email address, date of birth (month and date), name (English name or Pingyin) of the direct manager of the contractor, and department of the contractor;
+* **Supplier Personal Data:** Supplier name, supplier contact name, supplier phone number, supplier contact email address
+* **Customer Personal Data:** Customer code, customer name, customer mobile number, customer phone number, customer email address
 
-You may also have a right to request anonymity. This means that your Personal Data would not be collected or processed. If you choose to exercise this right, we may not be able to provide you with your requested goods or services. 
+Mars takes the security and protection of your personal data very seriously. To the extent we transfer or store your personal data to/in countries outside your jurisdiction that do not ensure a level of data protection considered adequate by competent authorities, we have put into place appropriate safeguards (such as the standard contractual clauses approved by relevant jurisdictions or other cross border mechanisms as prescribed by relevant jurisdictions) to ensure that your personal data will always be protected adequately and as required by imminent risks. For more information on the appropriate safeguards in place, please contact us under the Contact Us section above.  
 
-**Right to lodge a complaint with a supervisory authority** 
+_**How long do we store your Personal Data?**_  
 
-You may have the right to lodge a complaint with a supervisory authority. 
+We retain and store your personal data as long as necessary for the intended purposes and in line with our data retention policy. When personal data is no longer required for legal or other business purposes, we will delete, destroy or anonymize it in accordance with legal requirements.
 
- **Right to opt-out of sale, sharing, and targeted advertising of your Personal Data** 
+_**How do we safeguard your Personal Data?**_  
 
-You may have the right to “opt-out” of the sale or sharing of your Personal Data to third parties (or, for consumers who are under 16 years old, the right not to have Personal Data sold absent your, or your parent’s, opt-in), or the right to opt out of the use of your Personal Data for purposes of targeted advertising. To exercise these rights, you may submit a request using the Your Privacy Choices link provided in the footer. We also recognize the Global Privacy Control opt-out preference signal. The Global Privacy Control is available [here(Opens a new window)](https://globalprivacycontrol.org/). The Global Privacy Control applies to devices and individual browsers, so additional devices and browsers may need to have the Global Privacy Control activated. 
+We maintain (and require our service providers to maintain) appropriate organizational, administrative and technical measures to protect the security of your Personal Data. No data transmissions can be guaranteed to be 100% secure. We can’t ensure the security of any data you send us. You understand that any data that you send is at your own risk.  
 
-**Right to Consent and/or Limit the Use and Disclosure of Your Sensitive Personal Data** 
+If we learn of a security breach, we may try to notify you electronically, when allowed by law. We may post a notice on our Sites if a security breach occurs. We may also send an email to you. If you have any questions on the security measures we use, you may contact us using the contact information provided at the top of this Privacy Statement.  
 
-If you are a United States resident, you may have the right to consent and/or limit our use of your Sensitive Personal Data to that which is necessary to perform services, provide the goods reasonably expected, or as authorized under applicable regulations. To exercise this right, you may select the Your Privacy Choices link in the footer. To stop sharing precise geolocation: 
+_**For residents of Quebec, in compliance with data protection law,**_ we disclose that our personnel have the following roles and responsibilities when handling personal data from its collection to its deletion.  
 
-* Through a mobile app, please update your mobile device settings; 
-* On an iPhone, go to Settings > Privacy > Location Services > and choose an app. Select the app > tap on "location.” Scroll down and slide the "Precise Location" toggle to Off. 
-* On an Android, go to Location Services > Google Location Accuracy. Toggle Improve Location Accuracy to off. 
+* The Data Protection Officer handles everyday tasks relating to Mars’s privacy and data protection. This includes responding to rights requests, creating rules and policies, and creating and providing privacy training.
+* The security team’s job is to make, put in place, and manage Mars’s data security measures.
+* Business leaders are responsible for ensuring that the company and its personnel are meeting their legal obligations related to privacy matters.
 
-**Right to Non-Discrimination** 
+All other employees must follow our company policies about privacy and data security when doing their jobs. 
 
-You may have the right to non-discrimination, to receive equal service and pricing from a business, even after exercising your rights. 
+ Other important information
 
-**Shine the Light Disclosure** 
+ _**Do Not Track and Opt-Out Preference Signals**_  
 
-California law allows California residents to request certain information regarding our disclosure of Personal Data to third parties for their direct marketing purposes. To make such a request, please put “Shine the Light” in the ”Request Details” portion of your request on the form above or in the subject line, if submitted by e-mail. 
+The “Do Not Track” privacy preference may be available in some web browsers. It allows you to opt-out of tracking by websites. We try to honor Do Not Track settings; we may not be able to respond to all user settings or signals.  
 
-Note that there are restrictions on the number of times you can exercise some of these rights. You may designate an authorized agent to make a request on your behalf. The agent must provide proof of your authorization. We may deny a request from an agent that does not submit proof that they have been authorized by you to act on your behalf. 
+We honor the Global Privacy Control as another way to opt out of the sale of your personal data or the sharing of it for targeted advertising purposes. The GPC is available [here(Opens a new window)](https://globalprivacycontrol.org/). GPC only works on your browser ID. If you have an account with us, we can’t tell based on your browser ID as it is not linked to your account. In that case, please click this “[Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)” link.
 
-**Metrics** 
+_**Chatbot Features and Session Replay Technology**_  
 
-See [here(Opens a new window)](https://www.mars.com/about/policies-and-practices/ccpa-rights-metrics) for metrics regarding Access, Delete, and Do Not Sell My Personal Information requests submitted pursuant to California law that Mars received, fulfilled (in whole or in part), and denied in the last full calendar year. 
+We may use session replay technology to monitor how you interact with our Sites or services. The personal data collected by this technology may include which links you click on, pages and content you view, information that you type into our online forms, recordings of mouse clicks and movements, and information about your device or browser.  
 
-**How We Respond to Do-Not-Track Disclosures** 
+Our Sites may also have chatbot features for customer support purposes. These features may collect the content of your communications and other personal data you provide while interacting with the chatbot. Please discontinue use of the Sites if you do not consent to the collection of such information by us and our vendors.
 
-We make best efforts to action browser settings requesting that we do not track your Personal Data, subject to technical limitations; we may not be able to respond to all user settings or signals. 
+_**Public Posting Areas and Social Media Pages**_  
 
- Financial Incentives
+We may offer chat rooms, message or bulletin boards, or interactive areas where visitors may publish comments or information. If there is a chat room, bulletin or message board, social networking opportunities or other interactive areas, be sure to check posted rules. You will be bound by posted rules, as well as our Site Terms of Use. Rules for participation may establish age and other restrictions, such as posting abusive, offensive or inflammatory content. Anything you post online is public information. We are not responsible for anything you voluntarily post online. Users should use caution when disclosing personal data online. 
 
-We may offer various financial incentives from time to time, primarily requesting Identifiers and contact information as part of an offer, though we may also request information from your Customer Records. The terms of the financial incentive, including the Personal Data requested in connection with the offer will be provided at the time you sign up for the financial incentive. In calculating these offers, we consider the expenses related to the offer and the value of your data. You may withdraw from any of the financial incentives at any time by following the instructions provided.  For offers involving your e-mail, you may unsubscribe via the “unsubscribe” link in any marketing email you have received.  For offers involving text messaging, you may text STOP.  For all other offers, you may follow the instructions provided with the offer. 
+_**Disclaimer Regarding Video Content**_  
+
+The Sites may contain social media pixels, cookies, or other similar tools which provide us and third parties with analytics regarding how website visitors interact with video content, audiovisual content, or content of a like nature. You may see targeted advertising on third-party websites or platforms because of these tools. Video content is provided to enhance the user experience on the sites. You understand that your personal data, including your video viewing history, may be processed according to this Privacy Statement.  
+
+Please note that this Mars Privacy Statement does not apply to third-party video content on our Sites. Please review the privacy policies of those third parties to understand their information practices. You may visit the Privacy Preference Center via the Cookies Settings link available in the footer of each website to review specific cookies in use and to update your settings. 
 
 **Changes to this Privacy Statement**
 
-We will only use your Personal Data in the manner described in this Privacy Statement. If we decide to use your Personal Data in a manner that is different from that stated at the time it was collected, you will be given notice. If there is any conflict between the English version of our Privacy Statement and a translated version, the English version controls.
+We will only use your personal data in the manner described in this Privacy Statement. We may make changes to this Privacy Statement from time to time. We will tell you about important changes by posting a notice and changing the date on the Privacy Statement. Please check back for updates. Where required by law, we will also obtain consent or make reasonable efforts to provide at least 30 days’ notice prior to any material revisions taking effect. What constitutes a material change will be determined at our sole discretion.
+
+If we decide to use your personal data in a manner that is different from that stated at the time it was collected, you will be given notice. Where allowed by law, if there is any conflict between the English version of our Privacy Statement and a translated version, the English version controls. 
 
 ![m-logo](/themes/custom/mars_acss/assets/images/logo-mars-m-blue-green.svg)
 
@@ -1046,7 +1067,7 @@ Follow Us
 
 * [Privacy Policy(Opens a new window)](https://www.mars.com/privacy)
     
-* [Cookies Notice](https://www.mars.com/cookies-english)
+* [Cookies Notice](https://www.mars.com/privacy#cookies)
     
 * [Legal](https://www.mars.com/legal)
     
