@@ -28,13 +28,12 @@
     * [Mysteries of Matter](https://www.lbl.gov/research/mysteries-of-matter/)
     * [Quantum Science](https://www.lbl.gov/research/quantum/)
     
-    ### Clean Energy
+    ### Energy
     
     * [Alternative Energy](https://www.lbl.gov/research/alternative-energy/)
     * [Bioenergy and Biofuels](https://www.lbl.gov/research/bioenergy-biofuels/)
     * [Biomanufacturing](https://www.lbl.gov/research/biomanufacturing/)
     * [Carbon Management](https://www.lbl.gov/research/carbon-management/)
-    * [Community Engaged Research](https://www.lbl.gov/research/community-engaged-research/)
     * [Energy Efficiency](https://www.lbl.gov/research/energy-efficiency/)
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
@@ -42,7 +41,7 @@
     * [Manufacturing Decarbonization](https://www.lbl.gov/research/manufacturing-decarbonization/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
     
-    ### Healthy Earth Systems
+    ### Earth Systems
     
     * [Clean and Affordable Water](https://www.lbl.gov/research/clean-affordable-water/)
     * [Climate](https://www.lbl.gov/research/climate/)
@@ -52,6 +51,7 @@
     
     ### Future Science
     
+    * [Community Partnerships](https://www.lbl.gov/research/community-partnerships/)
     * [Emerging Ideas](https://www.lbl.gov/research/emerging-ideas/)
     * [Scientists of Tomorrow](https://www.lbl.gov/research/scientists-of-tomorrow/)
     * [Emerging Capabilities](https://www.lbl.gov/research/emerging-capabilities/)
@@ -133,23 +133,23 @@
     * [Microelectronics and Beyond](https://www.lbl.gov/research/microelectronics-and-beyond/)
     * [Mysteries of Matter](https://www.lbl.gov/research/mysteries-of-matter/)
     * [Quantum Science](https://www.lbl.gov/research/quantum/)
-    Clean Energy* [Alternative Energy](https://www.lbl.gov/research/alternative-energy/)
+    Energy* [Alternative Energy](https://www.lbl.gov/research/alternative-energy/)
     * [Bioenergy and Biofuels](https://www.lbl.gov/research/bioenergy-biofuels/)
     * [Biomanufacturing](https://www.lbl.gov/research/biomanufacturing/)
     * [Carbon Management](https://www.lbl.gov/research/carbon-management/)
-    * [Community Engaged Research](https://www.lbl.gov/research/community-engaged-research/)
     * [Energy Efficiency](https://www.lbl.gov/research/energy-efficiency/)
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
     * [Hydrogen](https://www.lbl.gov/research/hydrogen/)
     * [Manufacturing Decarbonization](https://www.lbl.gov/research/manufacturing-decarbonization/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
-    Healthy Earth Systems* [Clean and Affordable Water](https://www.lbl.gov/research/clean-affordable-water/)
+    Earth Systems* [Clean and Affordable Water](https://www.lbl.gov/research/clean-affordable-water/)
     * [Climate](https://www.lbl.gov/research/climate/)
     * [Earth and Ecological Systems](https://www.lbl.gov/research/earth-ecological-systems/)
     * [Human Health](https://www.lbl.gov/research/human-health/)
     * [Microbes to Ecosystems](https://www.lbl.gov/research/microbes-to-ecosystems/)
-    Future Science* [Emerging Ideas](https://www.lbl.gov/research/emerging-ideas/)
+    Future Science* [Community Partnerships](https://www.lbl.gov/research/community-partnerships/)
+    * [Emerging Ideas](https://www.lbl.gov/research/emerging-ideas/)
     * [Scientists of Tomorrow](https://www.lbl.gov/research/scientists-of-tomorrow/)
     * [Emerging Capabilities](https://www.lbl.gov/research/emerging-capabilities/)
 * [Capabilities](https://www.lbl.gov/capabilities/)
