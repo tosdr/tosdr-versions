@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing](https://illumin.com/wp-content/uploads/2024/12/sustainable-teaser-263x300.png)
+    * ![Are cookies on the menu in 2025?](https://illumin.com/wp-content/uploads/2024/12/cookies-2025-263x300.jpg)
         
-        Sustainable Programmatic Advertising: Navigating the Future of Digital Marketing[Read More](https://illumin.com/insights/sustainable-programmatic-advertising-navigating-the-future-of-digital-marketing/)
+        Are cookies on the menu in 2025?[Read More](https://illumin.com/insights/blog/are-cookies-on-the-menu-in-2025/)
         
 * [Company](#)
     * [Company](#)
@@ -149,7 +149,3 @@ Newsletter signup
 * [Data Subject Access Request](https://illumin.com/legal/subject-access-request/)
 * [Privacy Policy](https://illumin.com/legal/privacy/)
 * [Opt Out/Do Not Sell or Share My Info](https://illumin.com/opt-out.html)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=ViewContent&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
-
-![](https://www.facebook.com/tr?id=791746128738564&ev=PageView&noscript=1&cd%5Bpage_title%5D=Cookie+Policy&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=1648&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=illumin.com%2Flegal%2Fprivacy%2Fcookie%2F)
