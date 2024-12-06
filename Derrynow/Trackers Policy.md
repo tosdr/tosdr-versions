@@ -259,31 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Thursday: Partytime out and about Derry (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about Derry (2007)](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Met Office issue yellow weather warning to Derry ahead of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Office issue yellow weather warning to Derry ahead of Storm Darragh")](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
-
-Met Office issue yellow weather warning for Derry
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Met Office issue yellow weather warning to Derry ahead of Storm Darragh](https://www.derrynow.com/news/derry-news/1673563/met-office-issue-yellow-weather-warning-to-derry-ahead-of-storm-darragh.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man charged series of domestic abuse and assault offences returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man charged series of domestic abuse and assault offences returned for trial")](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man charged series of domestic abuse and assault offences returned for trial](https://www.derrynow.com/news/local-news/1673621/man-charged-series-of-domestic-abuse-and-assault-offences-returned-for-trial.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Storm Darragh: Council issues update on services across Derry this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -297,13 +272,6 @@ Derry Magistrates' Court
 
 [IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested and quantity of drugs seized in Derry's Waterside area](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested and quantity of drugs seized in Derry's Waterside area")](https://www.derrynow.com/news/local-news/1673741/man-arrested-and-quantity-of-drugs-seized-in-derry-s-waterside-area.html)
 
@@ -330,18 +298,84 @@ Winter Wonderland at Gelvin Road, Dungiven
 [Concern for local Church leaders over merger of Raphoe and Derry Diocese by Vatican](https://www.derrynow.com/news/local-news/1673862/concern-for-local-church-leaders-over-possible-merger-of-raphoe-and-derry-diocese-by-vatican.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations")](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Friday, December 6, 2024](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry man jailed for breaching non-molestation order](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry man jailed for breaching non-molestation order")](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry man jailed for breaching non-molestation order](https://www.derrynow.com/news/local-news/1673625/county-derry-man-jailed-for-breaching-non-molestation-order.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced")](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
+
+Apprentice Boys marching in Derry
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man returned for trial to Derry Crown Court on drug charges](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Worry and concern raised over tents in Dublin as Storm Darragh approaches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Worry and concern raised over tents in Dublin as Storm Darragh approaches")](https://www.derrynow.com/news/national-news/1673990/worry-and-concern-raised-over-tents-in-dublin-as-storm-darragh-approaches.html)
+
+Tents erected outside Department of Agriculture on Kildare Street in Dublin
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Worry and concern raised over tents in Dublin as Storm Darragh approaches](https://www.derrynow.com/news/national-news/1673990/worry-and-concern-raised-over-tents-in-dublin-as-storm-darragh-approaches.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Derry's inspirational nurses honoured by Ulster University](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's inspirational nurses honoured by Ulster University")](https://www.derrynow.com/video/local-news/1674005/derry-s-inspirational-nurses-honoured-by-ulster-university.html)
+
+Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[WATCH: Derry's inspirational nurses honoured by Ulster University](https://www.derrynow.com/video/local-news/1674005/derry-s-inspirational-nurses-honoured-by-ulster-university.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1674348/in-pictures-all-smiles-at-holy-child-ps-christmas-extravaganza-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry](https://www.derrynow.com/story-telling/pictures---videos/1674348/in-pictures-all-smiles-at-holy-child-ps-christmas-extravaganza-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort")](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Vertiv Recruitment host Open Evening in Campsie")](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
 
@@ -384,34 +418,6 @@ Multimedia
 
 [IN PICTURES: Night of celebrations for Eoghan Rua end of year presentations](https://www.derrynow.com/story-telling/pictures---videos/1671672/in-pictures-night-of-celebrations-for-eoghan-rua-end-of-year-presentations.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Throwback Thursday: Partytime out and about Derry (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about Derry (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Thursday: Partytime out and about Derry (2007)](https://www.derrynow.com/story-telling/pictures---videos/1672894/throwback-thursday-partytime-out-and-about-derry-2007.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore")](https://www.derrynow.com/story-telling/pictures---videos/1671657/in-pictures-reception-for-newly-appointed-ni-honorary-consul-to-ukraine-alan-moore.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Reception for newly appointed NI Honorary Consul to Ukraine, Alan Moore](https://www.derrynow.com/story-telling/pictures---videos/1671657/in-pictures-reception-for-newly-appointed-ni-honorary-consul-to-ukraine-alan-moore.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition")](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Opening of Danny McGilloway's 'Natures Fire' exhibition](https://www.derrynow.com/story-telling/pictures---videos/1672997/in-pictures-opening-of-danny-mcgilloway-s-natures-fire-exhibition.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on")](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Shantallow Community Centre Christmas Craft Fair and Lights Switch-on](https://www.derrynow.com/story-telling/pictures---videos/1672893/in-pictures-shantallow-community-centre-christmas-craft-fair-and-lights-switch-on.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -515,55 +521,53 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, December 6, 2024](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Winter Wonderland at Gelvin Road, Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Winter Wonderland at Gelvin Road, Dungiven")](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
-
-Winter Wonderland at Gelvin Road, Dungiven
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Dungiven family set to switch on Christmas lights as a fundraiser for local school](https://www.derrynow.com/news/county-derry-post/1673860/dungiven-family-set-to-switch-on-christmas-lights-as-a-fundraiser-for-local-school.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/resizer/165/93/true/2024_12_05/OrangeWeather_Alert-1733420337644.jpg--.jpg?1733420337769 "Storm Darragh: Council issues update on services across Derry this weekend")](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
+[![SOS Causeway Hospital community rally postponed until next weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SOS Causeway Hospital community rally postponed until next weekend")](https://www.derrynow.com/news/local-news/1674478/sos-causeway-hospital-community-rally-postponed-until-next-weekend.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Storm Darragh: Council issues update on services across Derry this weekend](https://www.derrynow.com/news/local-news/1674044/storm-darragh-council-issues-update-on-services-across-derry-this-weekend.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[SOS Causeway Hospital community rally postponed until next weekend](https://www.derrynow.com/news/local-news/1674478/sos-causeway-hospital-community-rally-postponed-until-next-weekend.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Tandem Twins discuss sports psychology with Derry students](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IDNM_9-12-24_PRESS_NWRC05122412-1733412967986.jpg--.jpg?1733412968560 "Tandem Twins discuss sports psychology with Derry students")](https://www.derrynow.com/news/local-news/1673902/tandem-twins-discuss-sports-psychology-with-derry-students.html)
+[![Mickey McKinney](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mickey McKinney")](https://www.derrynow.com/news/derry-news/1674589/brother-of-bloody-sunday-victim-welcomes-the-judge-s-decision-on-soldier-f.html)
 
-Claudy para-triathletes Chloe and Judith MacCombe
+Mickey McKinney
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Tandem Twins discuss sports psychology with Derry students](https://www.derrynow.com/news/local-news/1673902/tandem-twins-discuss-sports-psychology-with-derry-students.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Brother of Bloody Sunday victim welcomes the judge's decision on 'Soldier F'](https://www.derrynow.com/news/derry-news/1674589/brother-of-bloody-sunday-victim-welcomes-the-judge-s-decision-on-soldier-f.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](https://www.derrynow.com/resizer/165/93/true/2023_08_13/Apprentice_Boys-1691965842108.jpg--.jpg?1691965842198 "Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced")](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
-
-Apprentice Boys marching in Derry
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Traffic information ahead of Apprentice Boys 336th ‘Shutting of the Gates’ announced](https://www.derrynow.com/news/local-news/1673844/traffic-information-ahead-of-apprentice-boys-336th-shutting-of-the-gates-announced.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Man returned for trial to Derry Crown Court on drug charges")](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
+[![Derry woman charged with possession of an offensive weapon returned for trial](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry woman charged with possession of an offensive weapon returned for trial")](https://www.derrynow.com/news/local-news/1674429/derry-woman-charged-with-possession-of-an-offensive-weapon-returned-for-trial.html)
 
 Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man returned for trial to Derry Crown Court on drug charges](https://www.derrynow.com/news/local-news/1673651/man-returned-for-trial-to-derry-crown-court-on-drug-charges.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman charged with possession of an offensive weapon returned for trial](https://www.derrynow.com/news/local-news/1674429/derry-woman-charged-with-possession-of-an-offensive-weapon-returned-for-trial.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Foyle MP Colum Eastwood welcomes court ruling on Soldier F](https://www.derrynow.com/resizer/165/93/true/2019/01/03084203/Colum-Eastwood.jpg--.jpg "Foyle MP Colum Eastwood welcomes court ruling on Soldier F")](https://www.derrynow.com/news/local-news/1674521/foyle-mp-colum-eastwood-welcomes-court-ruling-on-soldier-f.html)
+
+Foyle MP Colum Eastwood
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Foyle MP Colum Eastwood welcomes court ruling on Soldier F](https://www.derrynow.com/news/local-news/1674521/foyle-mp-colum-eastwood-welcomes-court-ruling-on-soldier-f.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Former soldier accused of two murders on Bloody Sunday pleads not guilty](https://www.derrynow.com/resizer/165/93/true/1616093869370.jpg--.jpg?1616093869000 "Former soldier accused of two murders on Bloody Sunday pleads not guilty")](https://www.derrynow.com/news/local-news/1674504/former-soldier-accused-of-two-murders-on-bloody-sunday-pleads-not-guilty.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Former soldier accused of two murders on Bloody Sunday pleads not guilty](https://www.derrynow.com/news/local-news/1674504/former-soldier-accused-of-two-murders-on-bloody-sunday-pleads-not-guilty.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Guinness drinkers of Derry need not worry](https://www.derrynow.com/resizer/165/93/true/upload/1498914030824_1733383573.jpg--.jpg "Guinness drinkers of Derry need not worry")](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Guinness drinkers of Derry need not worry](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
