@@ -12,18 +12,28 @@ Get started
 
 [Documents](https://www.tricount.com/documents)
 
-Privacy
-=======
+Privacy Policy
+==============
+
+Learn how Tricount safeguards your privacy, ensuring your data is managed securely and transparently.
 
 [Documents](https://www.tricount.com/documents)
 
-Privacy
-=======
+Privacy Policy
+==============
+
+Learn how Tricount safeguards your privacy, ensuring your data is managed securely and transparently.
 
 [Documents](https://www.tricount.com/documents)
 
-Privacy
-=======
+Privacy Policy
+==============
+
+Learn how Tricount safeguards your privacy, ensuring your data is managed securely and transparently.
+
+[![Download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://static.bunq.com/framer/documents/tricount/Policy-Privacy-EN-202408.pdf "Download File")
+
+[![Download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://static.bunq.com/framer/documents/tricount/Policy-Privacy-EN-202408.pdf "Download File")
 
 Title
 
