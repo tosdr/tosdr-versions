@@ -15,7 +15,7 @@
 * [Seks dating](https://welkeonlinedatingsite.nl/seksdating/)
 
 * 100% Actueel
-* 517 Datingsites & dating apps
+* 515 Datingsites & dating apps
 * 4942 Ervaringen
 
 [![Welke Online Datingsite](https://welkeonlinedatingsite.nl/wp-content/themes/welke-online-datingsite/images/welke-online-datingsite.svg)](https://welkeonlinedatingsite.nl/)
@@ -120,7 +120,7 @@ Op Welkeonlinedatingsite.nl vind je reviews van de populairste en beste datingsi
 De nummer 1 datingsite vergelijker!
 
 * 100% Actueel
-* 517 Datingsites & dating apps
+* 515 Datingsites & dating apps
 * 4942 Ervaringen
 
 [](#page)
