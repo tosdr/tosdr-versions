@@ -30,16 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
         
-        #### [Moline high schoolers devour donuts to raise money for Quad Cities children during Share Joys](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe) [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
+        #### [QC Hy-Vee stores compete in Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7) [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
         
-        #### [Moline high schoolers devour donuts during Share Joys to raise money for QC children](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe) [![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a2ae76f9-48a9-41ae-84d3-3674b8249bf3/20241205T185006/a2ae76f9-48a9-41ae-84d3-3674b8249bf3_360x203.jpg)](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
+        #### [Hy-Vee stores seeing who can raise the most money for the Red Kettle Campaign](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7) [![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf/20241206T041801/8fb22f0d-a0b3-400a-a0f8-ca1a8b3c15bf_360x203.jpg)](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
         
-        #### [Moline high schoolers devour Share Joys donuts to raise money for Quad Cities children](https://www.wqad.com/article/news/local/moline-high-school-donuts-share-joys-money-quad-cities-children/526-8b987870-b39f-4a66-9a02-ec5744eea4fe)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        #### [Salvation Army's Red Kettle Campaign kicks off at Hy-Vee stores in the Quad Cities](https://www.wqad.com/article/news/local/quad-cities-hy-vee-stores-red-kettle-competition/526-a9301e2b-e644-424f-923b-0b0f6bb178d7)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/109560d8-ed36-4549-9ef3-680fe71cf194/20241205T220744/109560d8-ed36-4549-9ef3-680fe71cf194_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/109560d8-ed36-4549-9ef3-680fe71cf194/20241205T220744/109560d8-ed36-4549-9ef3-680fe71cf194_360x203.jpg)](https://www.wqad.com/article/news/local/fci-thomson-inmates-to-train-service-dogs-for-veterans/526-33b15117-9a0a-4b9f-8a98-05c61f611376)
         
-        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        #### [New program pairs service dogs in training with inmates at FCI Thomson](https://www.wqad.com/article/news/local/fci-thomson-inmates-to-train-service-dogs-for-veterans/526-33b15117-9a0a-4b9f-8a98-05c61f611376)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/CCT/images/510753276/510753276_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/510753276/510753276_360x203.jpg)](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fcda9de6-3389-413a-ba69-38b6f5203d03/20241206T042836/fcda9de6-3389-413a-ba69-38b6f5203d03_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fcda9de6-3389-413a-ba69-38b6f5203d03/20241206T042836/fcda9de6-3389-413a-ba69-38b6f5203d03_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Tsunami warning lifted after strong earthquakes hit off Northern California coast](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
+        #### [Better temperatures return starting tomorrow](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01/20241205T131343/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01/20241205T131343/d7347e82-53bb-4f7a-a2c3-dfb8c8038d01_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fad0fab5-244c-46a0-b557-991936b12207/20241205T231747/fad0fab5-244c-46a0-b557-991936b12207_360x203.jpg)](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-        #### [Arctic air returns Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.wqad.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -100,9 +100,9 @@ Navigation
 
 Davenport, IA »
 
-20°
+11°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
