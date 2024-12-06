@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Rangers trade Jacob Trouba in end to captain's divisive tenure](https://nypost.com/2024/12/06/sports/rangers-trade-jacob-trouba-to-ducks-to-captains-divisive-tenure/)
+
 Privacy Notice Highlights
 =========================
 
