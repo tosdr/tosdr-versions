@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Pixilated History](https://www.somethingawful.com/photoshop-phriday/pixilated-history/1/)
-* [Blue Stripe: The Life and Times of a Holodeck Janitor](https://www.somethingawful.com/news/blue-stripe-life-4/)
-* [PeeSearch](https://www.somethingawful.com/weekend-web/peesearch/1/)
-* [GI Army Funnies](https://www.somethingawful.com/news/army-funnies-debut/1/)
-* [Cuckold Place](https://www.somethingawful.com/weekend-web/cuckold-place/1/)
+* [The Flaskfucker And The Fruit Hat](https://www.somethingawful.com/comedy-goldmine/flaskfucker-fruit-hat/1/)
+* [Children's Books](https://www.somethingawful.com/photoshop-phriday/childrens-books/1/)
+* [Bluelight, G4TechTV Forums, Favorite Teen and Young Starlets, and Supercars.net](https://www.somethingawful.com/weekend-web/bluelight-g4techtv-forums/1/)
+* [Monstergeddon 2014 Results!](https://www.somethingawful.com/news/monstergeddon-results-2014/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [This pig, he shit on his own balls](http://forums.somethingawful.com/showthread.php?threadid=4076923 "This pig, he shit on his own balls")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ITT we're boomers online](http://forums.somethingawful.com/showthread.php?threadid=4076894 "ITT we're boomers online")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/cars.png) [Holiday travel thread](http://forums.somethingawful.com/showthread.php?threadid=4076863 "Holiday travel thread")
 * ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Our long national nightmare is finally over!](http://forums.somethingawful.com/showthread.php?threadid=4076896 "Our long national nightmare is finally over!")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh! No Tsunami!](http://forums.somethingawful.com/showthread.php?threadid=4076899 "Oh! No Tsunami!")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [What's the strangest rule you've had to follow?](http://forums.somethingawful.com/showthread.php?threadid=4076880 "What's the strangest rule you've had to follow?")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh no! Tsunami!](http://forums.somethingawful.com/showthread.php?threadid=4076899 "Oh no!  Tsunami!")
 
 ### Random Articles
 
-* [Murder Time!](https://www.somethingawful.com/news/murder-time/)
-* [Grandpa didn't die flamethrowering the Vietcong so the wrong gender could gas up a helicopter](https://www.somethingawful.com/news/grandpa-warcrimes-good/)
-* [Suicide Silence](https://www.somethingawful.com/garbage-day/suicide-silence-deathcore/)
-* [Gifts of the Damned and Stupid](https://www.somethingawful.com/news/taylor-gifts-catalog/1/)
-* [3D Emoticons Redux!](https://www.somethingawful.com/comedy-goldmine/forums-emoticons-3d/1/)
+* [Cuddle Party](https://www.somethingawful.com/awful-links/awful-link-2284/)
+* [The Men Must Pay for What They Did to the Footballs](https://www.somethingawful.com/news/football-deflate-patriots/)
+* [And Now a Word For the Cyber Gravy Boat](https://www.somethingawful.com/news/fiverr-gravy-boat/1/)
+* [JASON'S DINOSAUR SITE!](https://www.somethingawful.com/awful-links/awful-link-968/)
+* [Starwire '79! With Rocky French](https://www.somethingawful.com/news/starwire-79/)
 
 [Random!](https://www.somethingawful.com/random/)
 
