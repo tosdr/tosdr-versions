@@ -716,6 +716,15 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [![Gen Aii Blog Header 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Gen_AII_Blog_Header_1500x750-150x150.png "Gen Aii Blog Header 1500x750")](https://www.futurelearn.com/info/blog/generative-ai-a-game-changer-in-marketing-strategy-by-sven-van-stichel)
+    
+    [Generative AI: A game-changer in marketing and strategy by Sven Van Stichel](https://www.futurelearn.com/info/blog/generative-ai-a-game-changer-in-marketing-strategy-by-sven-van-stichel)
+    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    Discover how to use generative AI to maximise marketing campaigns with Sven Van Stichel, COO/CMO …
+    
+    Category: [Career Development](https://www.futurelearn.com/info/blog/careers), [Digital Skills](https://www.futurelearn.com/info/blog/digitalskills), [General](https://www.futurelearn.com/info/blog/general)
+    
 * [FutureLearn Commemorates Two Years Of Its Higher Education Initiative For Women And Girls In Afghanistan](https://www.futurelearn.com/info/press/futurelearn-commemorates-two-years-of-its-higher-education-initiative-for-women-and-girls-in-afghanistan)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -736,13 +745,6 @@ Powered By
     ---------------------------------------------------------------------------------------------------------------------------------------------------------
     
     FutureLearn, the UK’s leading online learning platform, is proud to announce it has won an …
-    
-    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [COP29: FutureLearn Encourages Learners To Be A Force For Good](https://www.futurelearn.com/info/press/cop29-futurelearn-encourages-learners-to-be-a-force-for-good)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    As COP29 gets underway in Baku, Azerbaijan, the UK-based online learning platform FutureLearn is demonstrating …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
     
