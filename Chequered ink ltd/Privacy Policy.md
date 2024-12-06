@@ -5,31 +5,23 @@
 * Search for:  
     
 
-* [Home](https://chequered.ink/)
 * [Games](https://chequered.ink/games/)
 * [Fonts](https://chequered.ink/fonts/)
     * [Full Listing](https://www.fontspace.com/chequered-ink)
     * [Font Licenses](https://chequered.ink/font-license/)
+* [Game Assets](https://chequered.ink/category/game-assets/)
+    * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
+    * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
-* [About](https://chequered.ink/about/)
-    * [Elsewhere](https://chequered.ink/elsewhere/)
-    * [Press](https://chequered.ink/press/)
-    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
-    * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
-* [Contact](https://chequered.ink/contact/)
 
-* [Home](https://chequered.ink/)
 * [Games](https://chequered.ink/games/)
 * [Fonts](https://chequered.ink/fonts/)
     * [Full Listing](https://www.fontspace.com/chequered-ink)
     * [Font Licenses](https://chequered.ink/font-license/)
+* [Game Assets](https://chequered.ink/category/game-assets/)
+    * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
+    * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
-* [About](https://chequered.ink/about/)
-    * [Elsewhere](https://chequered.ink/elsewhere/)
-    * [Press](https://chequered.ink/press/)
-    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
-    * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
-* [Contact](https://chequered.ink/contact/)
 
 Search for:  
 
@@ -51,13 +43,7 @@ We are Chequered Ink Ltd, a limited company based in the United Kingdom. Our reg
 
 When you write to us via post or email, any personal information you send such as your contact details will be stored in order to help you with your query. This information will only be kept for as long as needed to help you and then it will be deleted. We will never use this information for any purpose other than helping with your query.
 
-We collect information about you during the checkout process on our store, and we also have access to the information you provide to itch.io when you purchase our products from there. This information is collected to fulfil orders and for legal and administrative purposes only.
-
-While you visit our site, we’ll track:
-
-* Products you’ve viewed: we’ll use this to, for example, show you products you’ve recently viewed
-* Location, IP address and browser type: we’ll use this for purposes like estimating taxes and shipping
-* Shipping address: we’ll ask you to enter this so we can, for instance, estimate shipping before you place an order, and send you the order!
+We also have access to the information you provide to itch.io when you purchase our products from there. This information is collected to fulfil orders and for legal and administrative purposes only.
 
 Cookies
 -------
@@ -65,8 +51,6 @@ Cookies
 If you visit the login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.
 
 When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select “Remember Me”, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.
-
-We’ll also use cookies to keep track of shopping cart contents while you’re browsing our site.
 
 **Local Storage**
 -----------------
@@ -121,6 +105,13 @@ We do not use customer data to profile our users.
 
 If you have any further questions or comments about the privacy policy, please [get in touch](page:86F53D6E-5325-4D54-9C2B-D1D3F8BEEBF6). We’re happy to answer any questions you have.
 
+* [About](https://chequered.ink/about/)
+* [Contact](https://chequered.ink/contact/)
+* [Terms and Conditions](https://chequered.ink/terms-of-use/)
+* [Privacy Policy](https://chequered.ink/privacy-policy-2/)
+* [Press](https://chequered.ink/press/)
+* [Elsewhere](https://chequered.ink/elsewhere/)
+
 [](#)
 
 Chequered Ink © 2015-2024. All Rights Reserved.
@@ -128,5 +119,3 @@ Chequered Ink © 2015-2024. All Rights Reserved.
 * [](https://facebook.com/chequeredink "Follow us on Facebook")
 * [](https://www.youtube.com/channel/UCK-YdecrUDQd5Fmi7-ooUlA "Follow us on Youtube")
 * [](https://www.instagram.com/chequeredinkltd/ "Follow us on Instagram")
-* [](https://www.tiktok.com/@chequeredink "Follow us on Tiktok")
-* [](https://chequeredink.tumblr.com/ "Follow us on Tumblr")
