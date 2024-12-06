@@ -19,6 +19,7 @@
 
 * [Join & Give](https://www.bellevuearts.org/save-bam-join-and-give)
 * [Donate To BAM](https://www.bellevuearts.org/save-bam-join-and-give/donate-to-bam)
+* [Memberships](https://www.bellevuearts.org/save-bam-join-and-give/memberships)
 * [Volunteers & Docents](https://www.bellevuearts.org/save-bam-join-and-give/volunteers-docents)
 * [Corporate Giving](https://www.bellevuearts.org/save-bam-join-and-give/corporate-giving)
 
@@ -180,6 +181,7 @@ latest from BAM.
         * [All Events](https://www.bellevuearts.org/programs-events/all)
     * [Join & Give](https://www.bellevuearts.org/save-bam-join-and-give)
         * [Donate To BAM](https://www.bellevuearts.org/save-bam-join-and-give/donate-to-bam)
+        * [Memberships](https://www.bellevuearts.org/save-bam-join-and-give/memberships)
         * [Volunteers & Docents](https://www.bellevuearts.org/save-bam-join-and-give/volunteers-docents)
         * [Corporate Giving](https://www.bellevuearts.org/save-bam-join-and-give/corporate-giving)
     * [Visit](https://www.bellevuearts.org/visit)
