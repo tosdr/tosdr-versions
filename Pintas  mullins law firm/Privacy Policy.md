@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
+[![How much does it cost to hire a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-much-does-it-cost-to-hire-a-mesothelioma-lawyer.jpg "How Much Does It Cost to Hire a Mesothelioma Lawyer?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/ "How Much Does It Cost to Hire a Mesothelioma Lawyer?")
 
-[#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
+[#### How Much Does It Cost to Hire a Mesothelioma Lawyer?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-much-does-it-cost-to-hire-a-mesothelioma-lawyer/)
 
-[![How do you file a lawsuit against a nursing home for abuse or neglect?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect.jpg "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/ "How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?")
+[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
 
-[#### How Do You File a Lawsuit Against a Nursing Home For Abuse Or Neglect?](https://www.pintas.com/faq/how-do-you-file-a-lawsuit-against-a-nursing-home-for-abuse-or-neglect/)
+[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
 
-[![What are the rights of assisted living residents?](https://www.pintas.com/wp-content/uploads/2021/03/happy-elderly-patient-sitting-with-happy-nurse-300x200.jpg "What are the Rights of Assisted Living Residents?")](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/ "What are the Rights of Assisted Living Residents?")
+[![How long can you live with stage 4 cancer without treatment?](https://www.pintas.com/wp-content/uploads/2020/11/how-long-can-you-live-with-stage-4-cancer-without-treatment.jpg "How Long Can You Live with Stage 4 Cancer without Treatment?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/ "How Long Can You Live with Stage 4 Cancer without Treatment?")
 
-[#### What are the Rights of Assisted Living Residents?](https://www.pintas.com/faq/what-are-the-rights-of-assisted-living-residents/)
+[#### How Long Can You Live with Stage 4 Cancer without Treatment?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-stage-4-cancer-without-treatment/)
 
 ### Injured?  
 Tell Us What Happened.
