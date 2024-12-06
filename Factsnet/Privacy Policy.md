@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![40 Facts About Klumpke Paralysis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-klumpke-paralysis/)
+[![35 Facts About PSMB8 Gene ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/35-facts-about-psmb8-gene/)
 
-Health Science
+Biology
 
-05 Dec 2024
+06 Dec 2024
 
-[40 Facts About Klumpke Paralysis](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-klumpke-paralysis/)
+[35 Facts About PSMB8 Gene](https://facts.net/earth-and-life-science/biology-earth-and-life-science/35-facts-about-psmb8-gene/)
 
-[![50 Facts About The View TV Series ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22101%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-the-view-tv-series/)
+[![50 Facts About Matty Healy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-matty-healy/)
 
-Mass Media
+Celebrity
 
-05 Dec 2024
+06 Dec 2024
 
-[50 Facts About The View TV Series](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-the-view-tv-series/)
+[50 Facts About Matty Healy](https://facts.net/celebrity/50-facts-about-matty-healy/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
