@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Sexy Beach 2](https://www.somethingawful.com/hentai-game-reviews/sexy-beach-2/)
-* [Breeders](https://www.somethingawful.com/movie-reviews/breeders-1997/)
-* [Kango Shicyauzo 2](https://www.somethingawful.com/hentai-game-reviews/kango-shicyauzo-2/)
-* [Cage Match: Port of Call Photoshop Phriday](https://www.somethingawful.com/photoshop-phriday/nicolas-cage-head/1/)
-* [Water Closet](https://www.somethingawful.com/hentai-game-reviews/water-closet/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Variety Pack #14: Whose Portrait Hangs in Tiananmen Square? Also: Animes and Grindhouse Video Games!](https://www.somethingawful.com/photoshop-phriday/variety-pack-tiananmen/1/)
+* [May 21, 2007](https://www.somethingawful.com/forum-fridays/ff05-21-2007/1/)
+* [Peach Paradise](https://www.somethingawful.com/weekend-web/peach-paradise/1/)
+* [The Reificant: Brave](https://www.somethingawful.com/news/reificant-pueblo-brave/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [A thread about gift suggestions](http://forums.somethingawful.com/showthread.php?threadid=4076945 "A thread about gift suggestions")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [This pig, he shit on his own balls](http://forums.somethingawful.com/showthread.php?threadid=4076923 "This pig, he shit on his own balls")
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Our long national nightmare is finally over!](http://forums.somethingawful.com/showthread.php?threadid=4076896 "Our long national nightmare is finally over!")
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh! No Tsunami!](http://forums.somethingawful.com/showthread.php?threadid=4076899 "Oh! No Tsunami!")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [ITT we're boomers online](http://forums.somethingawful.com/showthread.php?threadid=4076894 "ITT we're boomers online")
+* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [\[Request\] Can Lily Phillips sleep with 1000 men in 24 hours?](http://forums.somethingawful.com/showthread.php?threadid=4076972 "[Request] Can Lily Phillips sleep with 1000 men in 24 hours?")
 
 ### Random Articles
 
-* [Things To Shout From The Top Of Mount Everest](https://www.somethingawful.com/news/mount-everest-shout/)
-* [Cats in Space](https://www.somethingawful.com/awful-links/awful-link-2617/)
-* [Bridge XYZ](https://www.somethingawful.com/comedy-goldmine/bridge-xyz/1/)
-* [My Tank Has Hugest Treads](https://www.somethingawful.com/news/my-tank-has-3/)
-* [Adult Themes In Children's Drawings, Part 2](https://www.somethingawful.com/comedy-goldmine/adult-themes-childrens-2/1/)
+* [The Apple iLive](https://www.somethingawful.com/flash-tub/apple-ilive-cartoon/)
+* [Toilet Duck!](https://www.somethingawful.com/news/toilet-duck/)
+* [Pampered Whiskers](https://www.somethingawful.com/awful-links/pampered-whiskers-cathats/)
+* [Tails Gets Trolled](https://www.somethingawful.com/comedy-goldmine/tails-trolled-fanart/1/)
+* [Wattlegrower's Vs Thanksgiving Warehouse](https://www.somethingawful.com/flash-tub/thanksgiving-cartoon-4/)
 
 [Random!](https://www.somethingawful.com/random/)
 
