@@ -52,7 +52,7 @@ I tillegg innhenter vi følgende informasjon fra ulike registre for å sikre at 
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 ### 1.2 Når du sender og mottar penger
 
@@ -68,7 +68,7 @@ I tillegg vil motpart se følgende informasjon:
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 **For pengegaver til enkelte ideelle organisasjoner**
 
@@ -115,7 +115,7 @@ For å levere Vipps Hurtigkasse eller Vipps Checkout behandler vi de samme perso
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 **Overføring til andre bedrifter**
 
@@ -157,7 +157,7 @@ For å gi deg mulighet til å skanne og betale regningene dine, behandler vi fø
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 **Visste du at?** For å benytte deg av Vipps Regningsskanner trenger Vipps tilganger til kamera, lagring av bilder og velge bilder på din telefon, se 1.11.
 
@@ -174,7 +174,7 @@ For å vise dine personlige medlemsskap og alle fordeler du har gjennom utvalgte
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 ### 1.7 Når du bruker oppgjør eller kasse
 
@@ -192,7 +192,7 @@ For å regne ut og fordele utgiftene i en gruppe brukere, behandler vi følgende
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 ### **Kasse**
 
@@ -220,7 +220,7 @@ I tillegg til dine transaksjonsdata, se 1.2, kan vi vise deg varelinjeinformasjo
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 **Visste du at?** Du kan velge om du vil se varelinjer i appen eller ikke. Dette kan du gjøre ved å gå til Profil -> Innstillinger og skru på/av "Vis digitale kvitteringer"
 
@@ -235,7 +235,7 @@ For å levere betaling av bruktbil med NAF og Finn, behandler vi følgende infor
 
 ### Hva gir oss lov til dette?
 
-[Avtalen vi har med deg, se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+[Avtalen vi har med deg, se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 ### 1.10 Til deg som er under 15 år
 
@@ -258,7 +258,7 @@ I tillegg til de personopplysningene som fremgår av punkt 1.2 (for betalinger m
 
 ### Hvorfor har vi lov til dette?
 
-For å oppfylle avtalen vi har med dine foreldre/verge og deg, [se vilkårene](https://www.vipps.no/personvern-og-vilkar/vilkar-privat/)
+For å oppfylle avtalen vi har med dine foreldre/verge og deg, [se vilkårene](https://vipps.no/personvern-og-vilkar/vilkar-privat/)
 
 ### 1.11 Når du åpner for tilleggsfunksjoner i appen
 
@@ -338,7 +338,7 @@ For onboarding, administrasjon av kundeforhold, kommunikasjon og sikkerhet for V
 
 ### **Hva gir oss lov til dette?**
 
-[Avtalen vi har mellom Vipps og ditt brukersted](https://www.vipps.no/vilkar/vilkar-bedrift/).
+[Avtalen Vipps har med brukerstedet](https://www.vipps.no/vilkar/vilkar-bedrift/)
 
 ### 1.14 Når du bruker Ønskeliste
 
@@ -353,7 +353,7 @@ Når du oppretter en ønskeliste, behandler vi informasjonen du legger inn. Hvis
 
 ### **Hva gir oss lov til dette?**
 
-[Avtalen vi har med deg](https://www.vipps.no/vilkar/).
+[Avtalen vi har med deg](https://vipps.no/personvern-og-vilkar/vilkar-privat/).
 
 **Anbefalinger og inspirasjonslister**
 --------------------------------------
@@ -370,6 +370,21 @@ Enkel segmentering er basert på vår legitime interesse. 
 
   
 Personlig tilpasset markedsføring er basert på ditt samtykke, og kan trekkes tilbake i appen -> Profil -> Personverninnstillinger.
+
+### 1.15 Når du bruker Tæpp med Vipps
+
+### **Hvorfor og hvordan behandler vi dine personopplysninger?**
+
+Når du aktiverer eller betaler med Tæpp med Vipps behandler vi følgende opplysninger:
+
+* Fødselsnummer
+* Bankkontonummer
+* Referanse til dine digitale kort
+* Transaksjonsdetaljer (dato og tid, navn på brukerstedets terminal, beløp)
+
+### **Hva gir oss lov til dette?**
+
+[Avtalen vi har med deg](https://vipps.no/personvern-og-vilkar/vilkar-privat/).
 
 2\. Ellers i Vipps
 ------------------
@@ -621,7 +636,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.21. Oppdatert 28.10.2024**
+**Versjon 1.22. Oppdatert 06.12.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
