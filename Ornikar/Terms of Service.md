@@ -1,5 +1,7 @@
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/674988ce89c36feadba10771_Miniature%20bandeau%20promo.png)
 
+Prix le plus bas de l'année : votre permis dès 489,99€ \* ! [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+
 0
 
 3
@@ -12,7 +14,17 @@ Jours
 
 Heures
 
-Jusqu'à -70€ sur les packs permis : votre permis dès 489,99€ \* ! Du 02 au 09/12. [J'en profite](https://app.ornikar.com/inscription?redirect=%2Fboutique)
+1
+
+5
+
+MIN
+
+1
+
+5
+
+sec
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/65def2364a136ea2280a63c2_logo-ornikar.svg)](https://www.ornikar.com/)
 
@@ -1554,7 +1566,7 @@ Versions précédentes
 
 Le contenu dans cet article présente uniquement un caractère informatif et n’engage pas contractuellement Ornikar (à savoir les entités Marianne Formation SAS et Ornikar Assurances). Cette dernière décline toute responsabilité sur les décisions et conséquences qui pourraient en découler.
 
-[CYBER WEEK
+[PRIX LE + BAS DE L'ANNÉE
 
 Jusqu'à -70€ sur les packs permis !
 
@@ -1562,7 +1574,7 @@ Jusqu'à -70€ sur les packs permis !
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-Je découvre](https://www.ornikar.com/)[CYBER WEEK
+Je découvre](https://www.ornikar.com/)[PRIX LE + BAS DE L'ANNÉE
 
 Jusqu'à -70€ sur les packs permis !
 
@@ -1644,7 +1656,7 @@ adaptée à votre profil de conducteur.
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/66cf30cfc2183091589f6b9e_parents-hero.webp)
 
-J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[CYBER WEEK
+J'obtiens mon tarif](https://www.ornikar.com/assurance-auto-jeune-conducteur)[PRIX LE + BAS DE L'ANNÉE
 
 Jusqu'à -70€ sur les packs permis !
 
