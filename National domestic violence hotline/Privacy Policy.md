@@ -1,7 +1,7 @@
 Hope Starts Here
 ----------------
 
-You Can Double Your Impact! Every contribution made by December 31 will be MATCHED up to $75,000! Your generosity brings hope and safety to victims and survivors, creating lasting change for them and their families.
+You Can Double Your Impact! Every contribution made by December 31st will be MATCHED up to $75,000! Your generosity brings hope and safety to victims and survivors and their families.
 
 [Double My Donation!](https://www.thehotline.org/2024ye-h)
 
