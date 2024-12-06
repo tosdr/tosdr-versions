@@ -265,7 +265,7 @@ San Antonio, Texas 78229
 
 [Careers](https://www.universityhealth.com/careers)
 
-* [Search for a Job](https://careers.universityhealth.com/)
+* [Search for a Job](https://careers.universityhealth.com/?utm_source=uh_website&utm_medium=referral&utm_campaign=uh_careers_microsite&utm_content=uh_footer_120624)
 * [Featured Jobs](https://www.universityhealth.com/careers/featured-jobs)
 * [Benefits](https://careers.universityhealth.com/benefits)
 * [Nursing](https://www.universityhealth.com/healthcare-professionals/nurses)
