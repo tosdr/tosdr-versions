@@ -9,7 +9,6 @@
 [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
 
 * [Home](https://pingperfect.com/)
-* [Blog](https://blog.pingperfect.com/)
 * [Rent a game server](https://pingperfect.com/game)
     * [| Choose a game...](https://pingperfect.com/game)
     * [| Location](https://pingperfect.com/locations)
@@ -51,9 +50,6 @@
 
 * [Home](https://pingperfect.com/)[](https://pingperfect.com/)
     ------------------------------------------------------------
-    
-    [Blog](https://blog.pingperfect.com/)[](https://blog.pingperfect.com/)
-    ----------------------------------------------------------------------
     
     Game Servers
     ------------
