@@ -114,7 +114,7 @@ Password
 
 #### CURRENT AFP ISSUE
 
-[![American Free Press](https://americanfreepress.net/assets/images/47&48_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/47&48_AFP_2024_FP.pdf)  
+[![American Free Press](https://americanfreepress.net/assets/images/49&50_2024_AFP_Front_page_pic.jpg "American Free Press")](https://americanfreepress.net/Issue_49_50_AFP_2024_FP.pdf)  
 
 #### ADVERTISING
 
@@ -136,10 +136,10 @@ Categories Select Category Ad Alternative Health Archive Audio Bookstore Conspir
 
 ###### Recent Comments
 
+* [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Longshoremen’s Strike Sparks Debate Over the Future Use of Automation](https://americanfreepress.net/longshoremens-strike-sparks-debate-over-the-future-use-of-automation/#comment-55445)
+* [Wesley Mcgranor](https://www.tumblr.com/american-protestant) on [Illegal Immigrants Using Biden Phone App to Enter the U.S.](https://americanfreepress.net/illegal-immigrants-using-biden-phone-app-to-enter-the-u-s/#comment-55444)
 * KarlitosV on [‘Hefty’ Wins the Day—and Many People Are ‘Glad’ to See It](https://americanfreepress.net/hefty-wins-the-day-and-many-people-are-glad-to-see-it/#comment-55414)
 * [Dean Jackson](https://djdnotice.blogspot.com/2018/09/d-notice-articles-article-55-7418.html) on [Issue 45/46 20204 News You May Have Missed](https://americanfreepress.net/issue-45-46-20204-news-you-may-have-missed/#comment-55411)
-* [Dean Jackson](https://djdnotice.blogspot.com/2018/09/d-notice-articles-article-55-7418.html) on [Presidents Shouldn’t Mess With Interest Rates](https://americanfreepress.net/presidents-shouldnt-mess-with-interest-rates/#comment-55410)
-* [Dean Jackson](https://djdnotice.blogspot.com/2018/09/d-notice-articles-article-55-7418.html) on [Does Anyone Believe $200 billion We Spent on Ukraine Went to Ukraine?](https://americanfreepress.net/does-anyone-believe-200-billion-we-spent-on-ukraine-went-to-ukraine/#comment-55409)
 
 * [Home](https://americanfreepress.net/)
 * [ABOUT](https://americanfreepress.net/about-afp/)
@@ -178,4 +178,4 @@ Any cookies that may not be particularly necessary for the website to function a
 
 SAVE & ACCEPT
 
-![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=1317170256)
+![css.php](https://americanfreepress.net/wp-content/plugins/cookies-for-comments/css.php?k=8a9b2c33f69fe9773bed4bd13516bab6&o=i&t=2010915249)
