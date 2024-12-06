@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Message on bullets fired by healthcare CEO's assassin bear eerie link to book condemning insurance companies](https://nypost.com/2024/12/05/us-news/unitedhealthcare-ceo-brian-thompsons-assassin-may-have-left-message-on-bullets-used-in-murder-sources/)
+[Suspect seen casually strolling through NYC subway station shortly before executing UnitedHealthcare CEO: new video](https://nypost.com/2024/12/05/us-news/suspect-seen-casually-strolling-through-nyc-subway-station-just-30-minutes-before-executing-unitedhealthcare-ceo-brian-thompson-new-video/)
 
 Privacy Notice Highlights
 =========================
