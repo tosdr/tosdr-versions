@@ -299,11 +299,35 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://cdn.er.ru/media/news/December2024/IHcLC8XqdSWpfHpsnyXO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
+
+[«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
+
+Сегодня 11:10
+
+[![«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://cdn.er.ru/media/news/December2024/UfUoOJWA18hAz9CZAMNy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
+
+[«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#семьивоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1095229) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#приемы](https://er.ru/activity/news?tags%5B0%5D=31258) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249)
+
+Сегодня 09:00
+
+[![Владимир Якушев: Александр Хинштейн оправдает доверие Президента](https://cdn.er.ru/media/news/December2024/m4m7VjdziBnKe3DGpRM4-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-aleksandr-hinshtejn-opravdaet-doverie-prezidenta)
+
+[Владимир Якушев: Александр Хинштейн оправдает доверие Президента](https://er.ru/activity/news/vladimir-yakushev-aleksandr-hinshtejn-opravdaet-doverie-prezidenta)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579)
+
+Сегодня 08:00
+
 [![Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://cdn.er.ru/media/news/December2024/roRgYs2ZLjACI4P1HggJ-small.jpg)](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
 
 [Президент Владимир Путин назначил Александра Хинштейна врио губернатора Курской области](https://er.ru/activity/news/prezident-vladimir-putin-naznachil-aleksandra-hinshtejna-vrio-gubernatora-kurskoj-oblasti)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314)
+[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#губернатор](https://er.ru/activity/news?tags%5B0%5D=1092859)
 
 05.12.24
 
@@ -320,30 +344,6 @@
 [Владимир Якушев: Чувство сопричастности, стремление помочь в трудный час – часть нашей национальной культуры](https://er.ru/activity/news/vladimir-yakushev-chuvstvo-soprichastnosti-stremlenie-pomoch-v-trudnyj-chas-chast-nashej-nacionalnoj-kultury)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#добровольцы](https://er.ru/activity/news?tags%5B0%5D=9192) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172)
-
-05.12.24
-
-[![«Единая Россия» подвела итоги работы партпроекта «Крепкая семья» за 2024 год](https://cdn.er.ru/media/news/December2024/qsi2o6pSVYjcP2JzLyg6-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-raboty-partproekta-krepkaya-semya-za-2024-god)
-
-[«Единая Россия» подвела итоги работы партпроекта «Крепкая семья» за 2024 год](https://er.ru/activity/news/edinaya-rossiya-podvela-itogi-raboty-partproekta-krepkaya-semya-za-2024-god)
-
-[#Буцкая](https://er.ru/activity/news?tags%5B0%5D=83163) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#КрепкаяСемья](https://er.ru/activity/news?tags%5B0%5D=1091221) [#итогиработы](https://er.ru/activity/news?tags%5B0%5D=111531)
-
-05.12.24
-
-[![«Молодая Гвардия Единой России» организовала цикл мероприятий ко Дню волонтёра](https://cdn.er.ru/media/news/December2024/bwzGL6cD42GIFQH45RVh-small.JPG)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-organizovala-cikl-meropriyatij-ko-dnyu-volontyora)
-
-[«Молодая Гвардия Единой России» организовала цикл мероприятий ко Дню волонтёра](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-organizovala-cikl-meropriyatij-ko-dnyu-volontyora)
-
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#деньволонтера](https://er.ru/activity/news?tags%5B0%5D=114133) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#ветераны](https://er.ru/activity/news?tags%5B0%5D=40)
-
-05.12.24
-
-[![«Единая Россия» возьмет на контроль создание промышленной инфраструктуры для субъектов МСП в области национальных технологических приоритетов](https://cdn.er.ru/media/news/December2024/tjsBnnzussbsPU4kyBIi-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vozmet-na-kontrol-sozdanie-promyshlennoj-infrastruktury-dlya-subektov-msp-v-oblasti-nacionalnyh-tehnologicheskih-prioritetov)
-
-[«Единая Россия» возьмет на контроль создание промышленной инфраструктуры для субъектов МСП в области национальных технологических приоритетов](https://er.ru/activity/news/edinaya-rossiya-vozmet-na-kontrol-sozdanie-promyshlennoj-infrastruktury-dlya-subektov-msp-v-oblasti-nacionalnyh-tehnologicheskih-prioritetov)
-
-[#Когогина](https://er.ru/activity/news?tags%5B0%5D=10885) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#Предпринимательство](https://er.ru/activity/news?tags%5B0%5D=1092796) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#инфраструктура](https://er.ru/activity/news?tags%5B0%5D=1129)
 
 05.12.24
 
