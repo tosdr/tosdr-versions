@@ -48,13 +48,9 @@ Terms of Use
 
 Browse
 
-### Terms of Use
-
-_Last Updated: May, 2022_
-
 Voxy, Inc. (“Voxy,” “we,” or “us”), welcomes you to its website, www.voxy.com, and any and all applications or mobile applications offered by Voxy, Inc. (the “Site”). Use of the Site is subject to the following Terms of Use (“Terms”), together with the Privacy Policy.
 
-### 1              Acceptance of Terms of Use
+### 1 Acceptance of Terms of Use
 
 1.1          By accessing and using the Site, you acknowledge that you have read, understood and agree to be bound by these Terms which form an agreement that is effective as if you had signed it. If at any time you do not agree to these Terms, please do not access or use the Site or any of its content. These Terms exist in English and other translations. In the event of inconsistencies between versions, the English version will prevail.
 
@@ -62,23 +58,23 @@ Voxy, Inc. (“Voxy,” “we,” or “us”), welcomes you to its website, www
 
 1.3          Please see our [Privacy Policy](https://voxy.com/privacy-policy/) for details on the personal data we collect and process and our [Cookie Policy](https://voxy.com/privacy-policy/) for information in relation to our use of cookies and similar technologies.
 
-### 2              Changes to the Terms of Use
+### 2 Changes to the Terms of Use
 
 2.1          These Terms may be revised or updated from time to time. Accordingly, you should check the Terms regularly for updates. You can determine when the Terms were last revised by referring to the “Last Updated” legend at the top of this page. Each time you access, use or browse the Site, you signify your acceptance of the then-current Terms. Any material changes in these Terms take effect upon posting and apply only to your use of the Site and information collected from you on and after Last Updated date, unless we have other communications with you.
 
 2.2          Voxy may make changes to the Site, content, products, services or features of the Site at any time. You understand and agree that Voxy may discontinue or restrict your use of the Site at any time for any reason or no reason with or without notice.
 
-### 3              Permitted Users of the Site
+### 3 Permitted Users of the Site
 
 3.1          In consideration of your use of the Site, you represent that you are of an age to form a legally binding contract (except as provided in the following paragraph) and you are not prohibited from receiving services under the laws of the United States or any other applicable jurisdiction. Use of the Site, Services or Content is void where prohibited by applicable law, and the right to access the Site, Content or Services is revoked in such jurisdictions.
 
 3.2          The Site is directed to persons 15 years of age or older. Voxy and the Site do not knowingly collect information from children under age 15. If you are under age 15, you are not permitted to use the Site or to submit any personally identifiable information to Voxy on the Site or offline. If you provide information to Voxy through the Site, you represent that you are 15 years of age or older. If you are between 15 and 17 years of age, when you visit, browse, use, or submit personal information to the Site, you represent that you have the permission of a parent or guardian to do so and who agrees to these Terms on your behalf. If you are a parent or guardian and believe Voxy may have inadvertently collected personal information from your child, please notify Voxy immediately by sending an email to: legal@voxy.com detailing the basis of your belief and your request.
 
-### 4              Privacy Policy
+### 4 Privacy Policy
 
 4.1          Please review the [Privacy Policy](https://voxy.com/privacy-policy/) for the Site for information regarding our collection, processing and use of your personal data. For users residing in Brazil, the Privacy Policy contains the provisions relating to compliance with Law 13.709/2018.
 
-### 5              Site Content and Services
+### 5 Site Content and Services
 
 5.1          On, through or in connection with the Site, we may offer contextual lessons, quizzes, games, questions, practice exercises and similar services designed to help users learn new languages and enhance their foreign language proficiencies (the “**Services**”). We also provide content available through the Site, including without limitation text, graphics, audio, animation, videos, logos, icons, images, media, data, charts, maps, software and other information and materials (the “**Content**”). Some of the Services and Content are accessible without registering with us, but other Services and Content may require registration and the payment of fees by users. The Content and Services are the sole and exclusive property of Voxy, its licensors, or other content providers.
 
@@ -86,17 +82,17 @@ Voxy, Inc. (“Voxy,” “we,” or “us”), welcomes you to its website, www
 
 5.3          Special terms may apply to some products, services or features offered on the Site, or to any events, promotions, sweepstakes, contests, surveys, questionnaires, or other activities (collectively, “**Activities**”) that may be offered on the Site or offline. Such special terms or rules (which may include official rules and expiration dates) may be posted in connection with the applicable Activity. By participating in any Activity you will become subject to those terms or rules. We urge you to read the applicable terms or rules which are linked from the particular Activity, and to review our Privacy Policy which, as part of these Terms, governs any information you submit in connection with such Activities. Any special terms or rules are in addition to these Terms and, in the event of a conflict, any such terms or rules shall prevail over these Terms.
 
-### 6              Error, Inaccuracies, and Omissions
+### 6 Error, Inaccuracies, and Omissions
 
 6.1          Occasionally there may be information on our Site, in our Content or Services that contains typographical errors, inaccuracies, or omissions that may relate to product descriptions, pricing, promotions, offers, availability, and other content provided on behalf of Voxy or its partners and affiliates. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update information if any information is inaccurate at any time without prior notice and without liability to Voxy.
 
-### 7              Modifications, Suspension and Termination
+### 7 Modifications, Suspension and Termination
 
 7.1          Voxy reserves the right at any time to modify, suspend or discontinue, temporarily or permanently, the Site, Services, Content or Activities, or any portion or portions thereof, with or without notice. You agree that Voxy will not be liable to you or to any third party for any modification, suspension or discontinuance of the Site, Services, Content or Activities for more than the pro rata amount remaining for your Subscription.
 
 7.2          Voxy reserves the right, at its sole discretion, immediately and without notice, to suspend, discontinue, or terminate your access to the Site, Services, Content, Activities or any part thereof for any reason or no reason at all, including without limitation any breach by you of these Terms. You agree that Voxy shall not be liable to you or any third party for any such suspension, discontinuance or termination for more than the pro rata amount remaining for your Subscription.
 
-### 8              Registration and Your Personal Information
+### 8 Registration and Your Personal Information
 
 8.1          Some areas of or benefits provided by the Site may require you to register an account with us and provide us with certain information including but not limited to your name, valid email address, and profile information. Your registration is subject to our review and approval and we reserve the right not to approve, or withdraw our approval of, once given, your registration for any reason or no reason at any time and from time to time. In registering or using the Site, you agree to provide, maintain, and update information that is true, accurate, current, and complete about yourself when registering and on an ongoing basis. You acknowledge that, if any information provided by you is untrue, inaccurate, not current, or incomplete, or if we suspect that any information provided by you is untrue, inaccurate, not current, or incomplete, we reserve the right to terminate your use of the Sites or your account with or without reasons or notice to you.
 
@@ -106,7 +102,7 @@ Voxy, Inc. (“Voxy,” “we,” or “us”), welcomes you to its website, www
 
 8.3          If you schedule a live class with a teacher, we may film or photograph portions of the class. By remaining in the class when such filming or photography is going on, you acknowledge that we may use your name, voice, likeness included in such footage and images for promotional purposes, including without limitation for advertising, publicity, marketing, and other promotional uses such as on our website or social media. We will obtain your consent for such use where required by applicable law. In addition, by remaining in the class, YOU RELEASE VOXY, ITS EMPLOYEES, CONTRACTORS, LICENSEES AND ASSIGNS, FROM ANY LIABILITY OF ANY KIND WHATSOEVER IN CONNECTION WITH SUCH FILMING OR PHOTOGRAPHY OR ANY USE IN ANY WAY OF THAT FILMING OR PHOTOGRAPHY.
 
-### 9              Subscriptions & Payments
+### 9 Subscriptions & Payments
 
 **(a) Subscription**
 
@@ -124,19 +120,19 @@ iii. Automatic Renewal. In order to provide continuous service, Voxy automatical
 
 IF YOU WISH TO CANCEL YOUR AUTOMATIC SUBSCRIPTION RENEWAL, YOU MAY DO SO BY sending an email request, along with your reason for cancellation, to support@voxy.com. Voxy will make reasonable efforts to process cancellation requests within two business days from the receipt of the cancellation request. In cases where the signature is linked to a corporate contract, the provisions of this contract will apply.
 
-### 10          Cancellation Policy
+### 10 Cancellation Policy
 
 The Cancellation Policy is set out in the Terms and Conditions of each contract between Voxy and its Customers. Please contact your program administrator for more information.
 
-### 11           Proficiency Guarantee
+### 11 Proficiency Guarantee
 
 11.1        Voxy guarantees improved proficiency for all Users that (i) sign up for a twelve (12) month course (ii) practice a minimum of three (3) hours per week for each week of a 12-month course and (iii) use all Private Class Credits provided with the Subscription. A user that does not experience an improved proficiency score will be granted a one time subsequent twelve (12) month course for free. Improved proficiency is measured by Voxy’s proprietary exam, the “Voxy Proficiency Assessment.” Test scores from third party sources will not be considered a valid measurement of proficiency improvement.
 
-### 12           Live Instruction and Private Class Credits
+### 12 Live Instruction and Private Class Credits
 
 12.1        In connection with the Site and subject to certain restrictions, such as a Subscription purchase, you may be able to purchase or be may be provided with live Private Class Credits (“Credits”) to schedule a private class with a live teacher. All Credits expire one year from the date of purchase and are subject to the requirements set forth in Section 10 of these Terms. You may cancel or reschedule a scheduled private class up to 24 hours before the class start time and receive a full refund in Class Credits. No Credit refund will be provided for a cancellation or rescheduling made less than 24 hours before the class start time. These Credits are not transferrable in any way and are not recognized as academic credits that may be used with any other educational provider.
 
-### 13           Permitted Uses
+### 13 Permitted Uses
 
 13.1        You may use the Site, Content and Services for lawful, non-commercial purposes only. You may not use the Site, Content or Services in any manner that could damage, disable, overburden, or impair our servers or networks, or interfere with any other party’s use and enjoyment of the Site, Content, or Services. You may not attempt to gain unauthorized access to the Site or any of the Content or Services, user accounts or computer or mobile systems or networks, through hacking, password mining or by any other means. Without limiting anything else contained herein, you agree that you shall not (and you agree not to allow any third party to):
 
@@ -154,7 +150,7 @@ The Cancellation Policy is set out in the Terms and Conditions of each contract 
 
 13.2        We may take any legal action and implement any technical remedies to prevent the violation of this provision and to enforce the Terms of Use.
 
-### 14           Postings and Comments
+### 14 Postings and Comments
 
 14.1        The Site may contain areas for you to post messages, feedback, listings, comments, photos, sounds, images, text, files, video, post reviews, share your story, and submit comments and other content, and message or communication facilities to enable you to communicate with other users, suppliers of Services or Content, the Site, and Voxy (collectively, “Submissions”). You acknowledge that your submissions may become available to others on the website and elsewhere. You agree to post only submissions or materials that are appropriate for general audiences and are not confidential or private. You agree that you are entirely responsible and liable for any Submissions you post, if you create an account, you are responsible for all content posted or transmitted through or by use of your account, you are the sole and exclusive owner of any submissions or materials you post and that by posting such submissions or materials, you are representing and warranting to Voxy and its affiliates, suppliers, vendors, merchants, licensors, and other partners, that you either own or control the said submissions or materials and that no other party has any claim of ownership to any part of the said submissions or materials.
 
@@ -180,7 +176,7 @@ The Cancellation Policy is set out in the Terms and Conditions of each contract 
 
 14.4        Voxy may, but is under no obligation to, monitor and edit or remove any activity or content at its sole discretion. We take no responsibility and assume no liability for any content posted by you or any third party. Voxy does not necessarily endorse any opinion or statement contained in any submission.
 
-### 15           Group Classes Code of Conduct
+### 15 Group Classes Code of Conduct
 
 15.1        As a learner participating in Voxy’s group classes, in addition to the other provisions of these Terms, you agree to be respectful of the teacher and your fellow learners by following this code of conduct:
 
@@ -202,7 +198,7 @@ The Cancellation Policy is set out in the Terms and Conditions of each contract 
 
 15.1.9    The classroom is a place to learn and practice English, so please only use English during classes for both speaking and writing.
 
-### 16           Proprietary Rights
+### 16 Proprietary Rights
 
 You acknowledge and agree that, as between Voxy and you, all right, title, and interest in and to the Site, Services, and the Content, including without limitation any patents, copyrights, trademarks, brands, trade secrets, inventions, know-how, and all other intellectual property rights, are owned exclusively by Voxy or its affiliates, suppliers, vendors, merchants, licensors, or Activities partners or sponsors, and are protected by United States intellectual property and other applicable laws. You do not have and cannot claim any intellectual property rights or ownership, in whole or in part, to any of the Site, Content, or Services, whether modified or unmodified.
 
@@ -218,7 +214,7 @@ The trademarks, service marks, logos, trade names, and trade dress (collectively
 
 If applicable, one or more patents may apply to the Site, Services, Content and to the products, features, and services accessible via the Site (collectively, “Patents”). Such Patents, when they exist, are the property of Voxy or its affiliates, suppliers, vendors, merchants, licensors, or other partners.
 
-### 17           Notice and Procedures for Making Claims of Copyright or Intellectual Property Infringement
+### 17 Notice and Procedures for Making Claims of Copyright or Intellectual Property Infringement
 
 17.1        Voxy in its sole discretion may disable and/or terminate use by users who infringe the intellectual property rights of others. If you believe that your work has been copied in a way that constitutes copyright infringement, or that your intellectual property rights have been otherwise violated, please provide to Voxy a notice containing the following information:
 
@@ -242,19 +238,19 @@ Voxy, Inc.
 New York, NY 10012-2410  
 USA
 
-### 18           Links to Other Websites
+### 18 Links to Other Websites
 
 18.1        The Site may contain advertisements, postings and links to websites operated by other parties. The Site provides these advertisements, postings and links as a convenience, and your use of other websites is at your own risk. The advertisements, postings and linked sites are not under the control of Voxy, which is not responsible for their content or privacy practices. Such advertisements, postings, links, or references to other parties’ products or services do not imply Voxy’s endorsement of information, material, products or services of any other party or any other website, or by any other party of Voxy. Voxy disclaims all liability with regard to your access to and use of such information, material, products or services or transactions with such linked websites or other parties. You acknowledge and agree that Voxy is not responsible or liable, directly or indirectly, for any damage, loss or other claim caused or alleged to be caused by or in connection with, access to, use of or reliance on any content available on or through any other site or resource.
 
-### 19           User Representations and Warranty
+### 19 User Representations and Warranty
 
 19.1        You represent and warrant that (i) your use of the Site will be in strict accordance with the Term of Use and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the country in which you reside) and (ii) your use of the Site will not infringe or misappropriate the intellectual property rights of any third party.
 
-### 20           User Indemnity of Voxy
+### 20 User Indemnity of Voxy
 
 20.1        YOU AGREE TO INDEMNIFY, DEFEND, AND HOLD HARMLESS VOXY AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBSIDIARIES, AFFILIATES, PARTNERS, LICENSORS, LICENSEES, SERVICE PROVIDERS, SUPPLIERS, VENDORS, ACTIVITIES PARTNERS OR SPONSORS, MERCHANTS, ADVERTISERS, AND OTHERS ACTING IN CONCERT WITH THEM, FROM AND AGAINST ANY LOSS, LIABILITY, CLAIM, OR DEMAND, INCLUDING WITHOUT LIMITATION REASONABLE ATTORNEYS’ FEES, MADE BY YOU OR ON YOUR BEHALF OR BY ANY THIRD PARTY DUE TO OR ARISING OUT OF (A) YOUR USE OF OR RELIANCE ON THE SITE, SERVICES, OR ANY CONTENT, PRODUCTS, BRANDS, OR ACTIVITY, YOUR DEALINGS IN CONNECTION WITH THE SITES OR VOXY, OR YOUR SUBMISSION(S) OR ANY MATERIALS YOU SUBMIT OR TRANSMIT TO THE SITES OR VOXY; (B) YOUR VIOLATION OF THESE TERMS, ANY APPLICABLE LAWS, OR THE RIGHTS OF VOXY OR ANY THIRD PARTY; (C) ANY ACTIVITY RELATED TO YOUR ACCOUNT OR PASSWORD, IF ANY; OR (D) YOUR USE OF OR RELIANCE ON ANY USER SUBMISSIONS.
 
-### 21           Disclaimer of Warranties and Limitation of Liability
+### 21 Disclaimer of Warranties and Limitation of Liability
 
 21.1        WE PROVIDE THE SITE, CONTENT AND SERVICES “AS IS,” “WITH ALL FAULTS” AND “AS AVAILABLE” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. VOXY MAKES NO WARRANTY AS TO THE ACCURACY, COMPLETENESS, OR RELIABILITY OF THE SITE OR ANY SERVICES OR CONTENT AVAILABLE THROUGH THE SITE. WE DO NOT GUARANTEE THAT THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SITE, SERVICES OR CONTENT WILL BE EFFECTIVE, RELIABLE OR ACCURATE OR WILL MEET YOUR REQUIREMENTS.
 
@@ -266,7 +262,7 @@ USA
 
 21.5        IF YOU ARE A CALIFORNIA RESIDENT, YOU WAIVE YOUR RIGHTS WITH RESPECT TO CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH, IF KNOWN BY HIM MUST HAVE MATERIALLY AFFECTED HIS SETTLEMENT WITH THE DEBTOR.”
 
-### 22           Notice Required by California Law
+### 22 Notice Required by California Law
 
 22.1        Pursuant to California Civil Code Section 1789.3, California residents are entitled to the following specific consumer rights notice:
 
@@ -274,25 +270,25 @@ USA
 
 22.3        The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Boulevard, Suite S202, Sacramento, CA 95834 or by telephone at (916) 574-7950 or (800) 952-5210
 
-### 23           Choice of Law and Dispute Resolution
+### 23 Choice of Law and Dispute Resolution
 
 23.1        You agree that any dispute between you and Voxy arising out of or relating to these Terms of Use, the Privacy Policy, the Site, Services or Content will be decided only by arbitration, individually, and not on a class-wide basis. You knowingly waive any right to participate in any form of “class,” “joint”, or “representative” litigation (including in any “private attorney general capacity”) against Voxy. YOU AGREE THAT YOU MAY BRING CLAIMS AGAINST US ONLY IN YOUR INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. The laws of the State of New York, U.S.A., without regard to choice of law principles, shall apply to any dispute between us, except as to matters relating to arbitration, which shall be governed by the Federal Arbitration Act. The arbitration tribunal shall consist of one (1) arbitrator. The decision or award of the arbitrator shall be final, and judgment upon such decision or award may be entered in any competent court or application may be made to any competent court for judicial acceptance of such decision or award and an order of enforcement. The arbitrator shall have the authority to impose equitable and injunctive relief, as well as to award monetary relief, as the arbitrator deems appropriate. Any arbitration will be administered by the American Arbitration Association, using its Commercial Arbitration Rules, and will take place in the State, City and County of New York, USA, and must be commenced within six (6) months after the dispute arises or any claim arising from the dispute shall be barred.
 
 23.2        If you reside in Brazil, you agree that any dispute between you and Voxy arising out of services related to these Terms of Use, Privacy Policy, the Site, the Services or the Content will be decided in the central forum of the district of the capital of the state of residence of the claimant, excluding any others, however privileged they are or come to be.
 
-### 24           Control of Site
+### 24 Control of Site
 
 24.1        The Site is controlled within the United States of America and is directed to individuals residing in the United States. Those who choose to access the Site from locations outside of the United States do so on their own initiative, and are responsible for compliance with local laws if and to the extent local laws are applicable. Voxy does not represent that the Site, Services or Content is appropriate outside the United States of America. Voxy reserves the right to limit the availability of the Site for any person, geographic area, or jurisdiction at any time in its sole discretion.
 
-### 25           Termination
+### 25 Termination
 
 25.1        We may terminate and/or suspend your registration immediately, without notice, if there has been a violation of the Terms of Use or other policies and terms posted on the Site or in connection with the Services by you or by someone using your Credentials, as determined in our sole discretion, and Voxy shall not be liable to you or any third party for any such termination. In the event we so terminate your account, we will not render, you are not entitled to, and you hereby waive any and all right to receive a refund of any fees paid to Voxy or any portions thereof. Further, you agree not to attempt to use the Site and/or the Services or Content after any such deletion, deactivation or termination. You may terminate your Voxy account at any time by contacting the address at the end of these Terms of Use; provided however, that voluntary termination shall in no way relieve you of your responsibility to remit payment for all fees associated with your purchased Services or Content or entitle you to a refund of any payments remitted to Voxy.
 
-### 26           Miscellaneous
+### 26 Miscellaneous
 
 26.1        The Terms of Use and any supplemental terms, policies, rules and guidelines posted on the Site or in connection with the Content or Services, constitute the entire agreement between you and us and supersede all previous written or oral agreements. If any part of the Terms and any supplemental terms, policies, rules and guidelines posted on the Site or in connection with the Content or Services is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining portions shall remain in full force and effect. The failure of Voxy to exercise or enforce any right or provision of the Terms and any supplemental terms, policies, rules and guidelines posted on the Site or in connection with the Content or Services, shall not constitute a waiver of such right or provision. You may not assign or transfer your rights or obligations under the Terms and any supplemental terms, policies, rules and guidelines posted on the Site or in connection with the Content or Services, without the prior written consent of Voxy, and any assignment or transfer in violation of this provision shall be null and void. Voxy reserves the right to seek all remedies available at law and in equity for violations of these Terms and any supplemental terms, policies, rules and guidelines posted on the Site or in connection with the Content or Services, set forth on the Site, including without limitation the right to block access from a particular internet address. The relationship between you and Voxy is one of independent contractors. Neither you nor Voxy will represent that you or it has any authority to assume or create any obligation, express or implied, on behalf of the other party or represent the other party as agent, employee or in any other capacity, except as specifically provided herein.
 
-### 27           Questions?
+### 27 Questions?
 
 27.1        If there are any questions regarding these Terms, you may contact us at [support@voxy.com](mailto:support@voxy.com) or by using the information below.
 
