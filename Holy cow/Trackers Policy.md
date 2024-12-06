@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=1165922387112052&ev=PageView&noscript=1)  Privacy & Cookies Policy | Holy Cow Fine Indian Food                        
+![](https://www.facebook.com/tr?id=1165922387112052&ev=PageView&noscript=1)  Privacy & Cookies Policy | Holy Cow Fine Indian Food                     
 
 [Covid-19](https://holycowonline.com/covid-19/) [Allergy Advice](https://holycowonline.com/allergy-advice/) [info@holycowonline.com](mailto:info@holycowonline.com)
 
