@@ -339,7 +339,6 @@ Advertise
 
 ### [$3 hot dogs and a mini-shop behind $1.2b petrol bet](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
 
-* 9 mins ago
 * Simon Evans
 
 * ### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
