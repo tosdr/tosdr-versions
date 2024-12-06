@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 804 active visitors** | **Thursday, December 05, 2024** |
+| **You are 1 of 923 active visitors** | **Friday, December 06, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**Our Founding Fathers were proud that Americans were trusted with arms because they knew that only when people are armed could they truly be thought of as free citizens. And that's where the circle closes. Those who want to deprive you of your right to keep and bear arms are intending to deprive you of your freedom, period. Like the criminals their policies encourage, these elitists know that it is always best to disarm victims before you enslave them. � Charley Reese
+ **QUOTES TO REMEMBER**There is no worse tyranny than to force a man to pay for what he does not want merely because you think it would be good for him. � ROBERT HEINLEIN
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
