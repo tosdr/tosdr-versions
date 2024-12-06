@@ -185,10 +185,12 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Ed Gaffigan](https://cdn.returningveterans.org/images/honor/Ed_Gaffigan_USMC_Reserves_1961_%281%29.jpg)  
+![Beth Blevens](https://cdn.returningveterans.org/images/honor/Blevens%2C_Beth.jpg)  
 
-**In Honor of Ed Gaffigan**  
-Submitted by Catherine Gaffigan](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Beth Blevens**  
+United States Air Force  
+United States Air National Guard  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -231,5 +233,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/06/24 - 1:21:06  
+Printed 12/06/24 - 7:34:22  
 © 2024 Returning Veterans Project
