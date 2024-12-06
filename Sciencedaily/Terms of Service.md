@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [H5N1 'Bird Flu' Transmission in Humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm)
 * [18 of 19 NHL Players Had CTE](https://www.sciencedaily.com/releases/2024/12/241204113518.htm)
 * [Tyrannosaurs Once Roamed East Sussex, England](https://www.sciencedaily.com/releases/2024/12/241205142905.htm)
 * [How Universe's Giant Galaxies Formed](https://www.sciencedaily.com/releases/2024/12/241204113515.htm)
@@ -238,7 +239,6 @@ this hour
 * [Manta Rays Inspire Fast Swimming Soft Robot](https://www.sciencedaily.com/releases/2024/12/241204145135.htm)
 * [Mammoth as Key Food Source for Ancient Americans](https://www.sciencedaily.com/releases/2024/12/241204145021.htm)
 * [How Did Humans and Dogs Become Friends?](https://www.sciencedaily.com/releases/2024/12/241204145004.htm)
-* [Lasting Effects of Common Herbicide On the Brain](https://www.sciencedaily.com/releases/2024/12/241204113640.htm)
 
 Trending Topics
 ---------------
@@ -249,19 +249,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
-
 [Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
-[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
+[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
+
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
-[Extrasolar Planets](https://www.sciencedaily.com/news/space_time/extrasolar_planets/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -269,7 +269,7 @@ this week
 
 [Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
