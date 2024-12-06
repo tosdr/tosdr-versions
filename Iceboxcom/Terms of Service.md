@@ -6,7 +6,7 @@ CYBER WEEK EVENT
 
 Sale Ends In
 
-00 days 00 hours](https://www.icebox.com/sale)
+00 days 00 hours](https://www.icebox.com/cyber-week)
 
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
