@@ -212,7 +212,7 @@ Search
     
     [![](https://assets.catsy.com/catsy.1040/MENU-2403-AIR-ADV-LIFESTYLE-LIVING-ROOM-680x680.jpg)](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)[Air Filtration](https://4patriots.com/category/air-filtration-climate/air-filtration-systems)
     
-    [![](https://assets.catsy.com/catsy.1040/MENU-2403-PAC-LIFESTYLE-BEDROOM-680x680.jpg)](https://4patriots.com/product/chillzone-portable-ac)[Portable A/C & Heat](https://4patriots.com/product/chillzone-portable-ac)
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-PAC-LIFESTYLE-BEDROOM-680x680.jpg)](https://4patriots.com/product/chillzone-portable-ac)[Portable A/C](https://4patriots.com/product/chillzone-portable-ac)
     
     [![](https://assets.catsy.com/catsy.1040/RES-2411-LIFESTYLE-LIVING-ROOM-680x680.jpg)](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)[Heaters](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
     
