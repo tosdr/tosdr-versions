@@ -589,7 +589,6 @@ No
 * [Become an Affiliate](https://store.insta360.com/reseller/intro)
 * [Become a Rising Talent](https://www.insta360.com/rising-talents)
 * [Become a Reseller](https://www.insta360.com/reseller_application)
-* [Invite Friends for Vouchers](https://www.insta360.com/email_referral)
 * [SDK Application](https://www.insta360.com/sdk/home)
 * [Enterprise](https://www.insta360.com/enterprise)
 
@@ -625,6 +624,10 @@ English![insta360](https://res.insta360.com/static/ccaff183a64761d3eee581198d342
 Copyright © ARASHI VISION INC. All Rights Reserved.
 
 Guang Dong ICP No. 16095556.
+
+Questions about products? Chat with us now.![guide](https://res.insta360.com/static/09e3b94fe41c54a1683b5d7bee6a5313/icon.png)
+
+![close](https://res.insta360.com/static/ef477b74db3890992dea417c76b4f785/ic-close.svg)
 
 ![](https://res.insta360.com/static/15de494c616f82440df402317a4f1352/feedback.svg)
 
