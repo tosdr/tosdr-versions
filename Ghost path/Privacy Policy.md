@@ -151,7 +151,6 @@ You agree to the Privacy policy and the Terms of Service
 * [Pricing](https://ghostpath.com/pricing)
 * [Server Locations](https://ghostpath.com/servers)
 * [VPN Blog](https://ghostpath.com/blog)
-* [VPN Affiliate Program](https://ghostpath.refersion.com/)
 * [VPN Reseller Program](https://ghostpath.com/resellers)
 * [Login to Your Account](https://ghostpath.com/members/login)
 
