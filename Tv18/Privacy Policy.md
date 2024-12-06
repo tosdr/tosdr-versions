@@ -12,7 +12,7 @@ Language
 
 [Markets](https://www.cnbctv18.com/market/ "Markets")
 
-[Business](https://www.cnbctv18.com/https://www.cnbctv18.com/business/ "Business")
+[Business](https://www.cnbctv18.com/business/ "Business")
 
 [Personal Finance](https://www.cnbctv18.com/personal-finance/ "Personal Finance")
 
