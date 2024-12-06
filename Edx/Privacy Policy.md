@@ -8,16 +8,16 @@ Most popular programs
 
 * [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75)
     
-    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=2f43ba29-bfa9-45f4-a06a-5b4c9e451b3a)
+    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=691e4f3f-bea0-4da5-b794-c00287660fb3)
 * [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75)
     
-    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=3f4fdfa0-df5e-4b87-82b1-c5c7b342ae53)
+    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=0ecc92a9-f1e6-4425-94bc-a2f543865c67)
 * [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75)
     
-    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=326f153a-f9d7-471e-afd9-d2a944414825)
+    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=437df7eb-f20e-40f2-b9f0-fc819413ced6)
 * [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75)
     
-    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=160a4b9d-cfa2-4333-852a-75f8061df2f2)
+    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=dda095f3-6199-4f27-a4fa-9d1838fb26c6)
 
 Trending now
 
