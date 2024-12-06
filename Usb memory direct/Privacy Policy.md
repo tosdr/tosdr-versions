@@ -47,9 +47,17 @@ We may share personal information and any other additional data available in ord
 
 When using USB Memory Direct's website(s) you may be directed to content or functionality that is hosted by a third-party entity. This is usually part of hosting a special event, such as contests. When your information is gathered on behalf of USB Memory Direct exclusively, our privacy policy will be referenced on the site to define how your data is used. For other, non-USB Memory Direct sites, the privacy policy of that site will be referenced. Our policy is to require that information handling from these suppliers be consistent with our privacy and security procedures.
 
-We will never sell or rent any customer's personal information to third parties for marketing purposes unless that customer has given us express authorization to do so. We may use cookies in collaboration with Google for internal remarketing and advertising purposes. By using our website, you consent to the use of these cookies for these purposes. For more information on how your information is stored within the Google suite, please see [Google's Privacy & Terms.](https://policies.google.com/privacy#infocollect).
+We will never sell or rent any customer's personal information to third parties for marketing purposes unless that customer has given us express authorization to do so. We will ask for consent by you before we use or share your personal information for any other purpose other than the reason you gave or as otherwise noted in this privacy policy. So that we may know your preferences, we require your action and responsibility, such as choosing an appropriate option, indicating your consent.
 
-We will ask for consent by you before we use or share your personal information for any other purpose other than the reason you gave or as otherwise noted in this privacy policy. So that we may know your preferences, we require your action and responsibility, such as choosing an appropriate option, indicating your consent.
+Google: We may use cookies in collaboration with Google for internal remarketing and advertising purposes. By using our website, you consent to the use of these cookies for these purposes within Google Ads, Google Analytics and Google reCAPTCHA. For more information on how your information is stored within the Google suite, please see [Google's Privacy & Terms.](https://policies.google.com/privacy#infocollect)
+
+Microsoft Ads: We may use cookies in collaboration with Microsoft for internal remarketing and advertising purposes. By using our website, you consent to the use of these cookies for these purposes. For more information on how your information is stored within the Microsoft suite, please see [Microsoft's Privacy & Terms.](https://www.microsoft.com/en-us/privacy/)
+
+Meta: We may use cookies in collaboration with Meta for internal remarketing and advertising purposes. By using our website, you consent to the use of these cookies for these purposes. For more information on how your information is stored within Meta, please see [Meta's Privacy & Terms.](https://www.facebook.com/privacy/policy/)
+
+LiveChat: We may utilize cookies for our LiveChat feature, which gives us the ability to help website users in real time. For information on the cookies used by this widget, visit [LiveChat's privacy policy.](https://www.livechat.com/legal/privacy-policy/)
+
+Session Tracking: We may use cookies to analyze website interaction, such as how you move and engage within our website. This information helps us identify and fix technical issues visitors may have. For more information on session tracking and how it is used, please see [HotJar's privacy policy.](https://www.hotjar.com/privacy/)
 
 **Personal Data Security**
 
@@ -73,7 +81,7 @@ A cookie will not read personal data found on the hard disk or from cookies made
 
 The websites of USB Memory Direct and its subsidiaries may have links to third-party sites that we have no control over and are not covered by this privacy policy. It is advised to review the privacy policy of any sites you visit.
 
-**Posting Information Publicaly**
+**Posting Information Publicly**
 
 Any information that you submit publicly, such as in a forum or chat room, will be available for others to see, which may possibly include individuals both internal and external to our company who visit such areas. Please be aware that these individual areas may contain additional rules and provisions. The information that individuals post in these areas is of their own opinion and should not be taken as the views of USB Memory Direct.
 
