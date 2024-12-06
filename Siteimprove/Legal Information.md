@@ -196,14 +196,14 @@ Close menu
         ![](/globalassets/media/redesign2024/digital_insights_report.png)
     
 
-[Check your site](https://siteimprove.com/website-checker/)
+[Request a demo](https://siteimprove.com/demo-request/)
 
 * [Company](https://siteimprove.com/about-us/)
 * [Contact us](https://siteimprove.com/get-in-touch/)
 * [Help Center](https://help.siteimprove.com/support/home)
 * [Login](https://my2.siteimprove.com/)
 
-[Check your site](https://siteimprove.com/website-checker/)
+[Request a demo](https://siteimprove.com/demo-request/)
 
 Search here 
 
