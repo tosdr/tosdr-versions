@@ -536,4 +536,17 @@ By subscribing, you agree to our Privacy Policy and consent to receive updates f
 
 [Facebook](https://www.facebook.com/choozle) [Instagram](https://www.instagram.com/choozle/) [X-twitter](https://twitter.com/choozle) [Linkedin](https://www.linkedin.com/company/choozle) [Youtube](https://www.youtube.com/@ChoozleDenver)
 
+![leadership headshot Tina Starr](https://choozle.com/wp-content/uploads/leadership-HEADSHOT-starr-314x314.png)
+
+Tina Star – VP Account Management and Strategy
+----------------------------------------------
+
+Tina Starr is a seasoned marketing and advertising strategist with a proven track record in agency leadership and strategic account management. As Vice President of Account Management and Strategy, she leverages her expertise in performance marketing to drive results, build high-performing teams, and lead successful client initiatives across diverse industries.
+
+Throughout her career, Tina has achieved notable success focusing on how to connect marketing efforts directly to measurable outcomes. Her leadership experience in various agency environments has allowed her to cultivate strong teams and foster a collaborative culture that encourages creativity and innovation.
+
+Before stepping into leadership roles, Tina gained valuable experience in digital marketing, advertising, communications and brand strategy. This diverse background has equipped her with a comprehensive understanding of the marketing and advertising landscape, enabling her to navigate challenges effectively and deliver impactful results that drive business growth and enhance client success.
+
+CLOSE
+
 Search for:
