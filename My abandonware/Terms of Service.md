@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Googolpede](https://www.myabandonware.com/game/googolpede-tfg)
+* [Googol Review](https://www.myabandonware.com/game/googol-review-tff)
 * [Googol Math Games](https://www.myabandonware.com/game/googol-math-games-tfe)
 * [Cheezi](https://www.myabandonware.com/game/cheezi-tfd)
 * [Star Assault](https://www.myabandonware.com/game/star-assault-tdr)
-* [Hello Kitty: Big Fun Deluxe](https://www.myabandonware.com/game/hello-kitty-big-fun-deluxe-u0h)
-* [Hello Kitty: Roller Rescue](https://www.myabandonware.com/game/hello-kitty-roller-rescue-sah)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
