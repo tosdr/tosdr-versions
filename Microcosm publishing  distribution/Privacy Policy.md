@@ -1,6 +1,6 @@
 [back to Microcosm Publishing homepage](https://microcosmpublishing.com/)
 
-* [cart](https://microcosmpublishing.com/cart)
+* [cart 0](https://microcosmpublishing.com/cart)
 * [blog](https://microcosmpublishing.com/blog/)
 * [wishlist](https://microcosmpublishing.com/wishlist)
 * [bff](https://microcosmpublishing.com/catalog/other/2240/)
