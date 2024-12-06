@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. digital marketing
     
-2. finance
+2. computer science
     
-3. French
+3. html
     
 
 Popular subjects
 
-1. [Cybersecurity
+1. [Artificial Intelligence
     
-    17,005 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Ethical Hacking
+    14,402 courses](https://www.classcentral.com/subject/ai)
+2. [Web Development
     
-    2,245 courses](https://www.classcentral.com/subject/ethical-hacking)
-3. [Graphic Design
+    13,895 courses](https://www.classcentral.com/subject/web-development)
+3. [Communication Skills
     
-    4,395 courses](https://www.classcentral.com/subject/graphic-design)
+    4,303 courses](https://www.classcentral.com/subject/communication-skills)
 
 Popular courses
 
-1. [Excel: Fundamentos y herramientas
+1. [Positive Psychiatry and Mental Health
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
-2. [Introducción a la Ciencia de Datos con Python
+    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
+2. [The Science of Happiness
     
-    Universidad Anáhuac](https://www.classcentral.com/course/python-universidades-anahuac-introduccion-a-la-ci-21169)
-3. [Making Successful Decisions through the Strategy, Law & Ethics Model
+    University of California, Berkeley](https://www.classcentral.com/course/happiness-university-of-california-berkeley-the-s-1781)
+3. [Critical Perspectives on Management
     
-    University of Michigan](https://www.classcentral.com/course/strategy-law-ethics-6195)
+    IE Business School](https://www.classcentral.com/course/criticalmanagement-714)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
