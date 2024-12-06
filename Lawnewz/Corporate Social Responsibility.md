@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Elena Kagan, on the left; Robert F. Kennedy Jr., in the center; Clarence Thomas, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kagan-RFKJr-Thomas-432x243.jpg)](https://lawandcrime.com/high-profile/very-unusual-thomas-overrides-kagan-in-covid-related-first-amendment-case-where-rfk-jr-serves-as-cocounsel-sends-dispute-to-full-court/)
+1. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-    ### ['Very unusual': Thomas overrides Kagan in COVID-related First Amendment case where RFK Jr. serves as cocounsel, sends dispute to full court](https://lawandcrime.com/high-profile/very-unusual-thomas-overrides-kagan-in-covid-related-first-amendment-case-where-rfk-jr-serves-as-cocounsel-sends-dispute-to-full-court/)
+    ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-2. [![Keith Agee (Escambia County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Keith-Agee-432x243.jpg)](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
+2. [![Brad Simpson appears inset on the left; Suzanne Simpson appears inset on the right – against an image of their residence.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Brad-Suzanne-Simpson-432x243.jpg)](https://lawandcrime.com/crime/husband-of-woman-who-disappeared-from-wealthy-neighborhood-allegedly-tried-to-hide-a-reciprocating-saw-from-investigators/)
+    
+    ### [Husband of woman who disappeared from wealthy neighborhood allegedly tried to hide a 'reciprocating saw' from investigators](https://lawandcrime.com/crime/husband-of-woman-who-disappeared-from-wealthy-neighborhood-allegedly-tried-to-hide-a-reciprocating-saw-from-investigators/)
+    
+3. [![Inset: Sen. Ken Yager (Glynn County Detention Center). Background: Sen. Ken Yager speaking (WATE/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Ken-Yager-432x243.jpg)](https://lawandcrime.com/crime/chair-of-senate-republican-caucus-busted-for-dui-hit-and-run-while-driving-campaign-funded-car-with-legislative-plates-police/)
+    
+    ### [Chair of Senate Republican Caucus busted for DUI hit-and-run while driving campaign-funded car with legislative plates: Police](https://lawandcrime.com/crime/chair-of-senate-republican-caucus-busted-for-dui-hit-and-run-while-driving-campaign-funded-car-with-legislative-plates-police/)
+    
+4. [![Rudy Giuliani](https://am22.mediaite.com/lc/cnt/uploads/2024/04/AP23349801870591-432x243.jpg)](https://lawandcrime.com/high-profile/severe-sanctions-are-warranted-defamed-election-workers-seek-double-whammy-against-giuliani-ask-judge-to-hold-him-in-contempt-for-violating-court-order-and-discovery-rules/)
+    
+    ### ['Severe sanctions are warranted': Defamed election workers seek double whammy against Giuliani — ask judge to hold him in contempt for violating court order and discovery rules](https://lawandcrime.com/high-profile/severe-sanctions-are-warranted-defamed-election-workers-seek-double-whammy-against-giuliani-ask-judge-to-hold-him-in-contempt-for-violating-court-order-and-discovery-rules/)
+    
+5. [![Keith Agee (Escambia County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Keith-Agee-432x243.jpg)](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
     
     ### [Bodycam: Deputies arrest man accused of murdering his ex in Home Depot over false STD suspicion](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
-    
-3. [![Inset: Jemma Allen (St. Claire, Missouri Police Dept.). Background: The bank where Allen allegedly ran over a bank worker putting up Christmas lights (Google Maps).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/adsfafadaf-432x243.jpg)](https://lawandcrime.com/crime/woman-accelerated-and-ran-over-bank-worker-putting-up-christmas-lights-because-drive-thru-was-closed-police/)
-    
-    ### [Woman 'accelerated' and ran over bank worker putting up Christmas lights because drive-thru was closed: Police](https://lawandcrime.com/crime/woman-accelerated-and-ran-over-bank-worker-putting-up-christmas-lights-because-drive-thru-was-closed-police/)
-    
-4. [![Dylan Moles faces charges of attempted murder, aggravated battery, domestic battery and strangulation for the alleged attack on his mother (Henry County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Dylan-Moses-432x243.jpg)](https://lawandcrime.com/crime/man-says-he-used-saran-wrap-to-try-and-suffocate-his-mom-because-he-wanted-to-convince-her-that-he-was-not-a-little-boy-and-that-she-couldnt-push-him-around-cops/)
-    
-    ### [Man says he used 'Saran wrap' to try and suffocate his mom because he wanted to 'convince her that he was not a little boy and that she couldn’t push him around': Cops](https://lawandcrime.com/crime/man-says-he-used-saran-wrap-to-try-and-suffocate-his-mom-because-he-wanted-to-convince-her-that-he-was-not-a-little-boy-and-that-she-couldnt-push-him-around-cops/)
-    
-5. [![Background: Reggie Brown's family (WUSA/YouTube). Inset: Reggie Brown (Brown family).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Reggie-Brown-and-family-432x243.jpg)](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
-    
-    ### ['No sympathy': Teen girl who took selfies after beating homeless man to death with friends tries apologizing to victim's family in court as she learns her fate](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
     
 
 [](http://eepurl.com/c89Jdb)
