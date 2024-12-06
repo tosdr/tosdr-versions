@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Think I'M In Love With YouChris Stapleton<br><br>10:40am |
-| Wont Let GoRascal Flatts<br><br>10:35am |
-| Ain'T No Love In OklahomaLuke Combs<br><br>10:30am |
-| What If I Never Get Over YouLady A<br><br>10:25am |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:20am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:40pm |
+| Wont Let GoRascal Flatts<br><br>3:58pm |
+| Pretty Little PoisonWarren Zeiders<br><br>3:39pm |
+| Crash My PartyLuke Bryan<br><br>3:35pm |
+| Prayed For YouMatt Stell<br><br>3:29pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,14 +360,6 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
@@ -375,6 +367,14 @@ News Talk • Eastern
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
