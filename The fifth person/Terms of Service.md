@@ -1,19 +1,15 @@
-Friday, December 6 2024
+Saturday, December 7 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
 * [Events](https://fifthperson.com/category/events/)
 * [Contact](https://fifthperson.com/contact/)
 
- [![The Fifth Person](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![The Fifth Person](https://fifthperson.com/wp-content/uploads/2020/01/The-Fifth-Person.png)](https://fifthperson.com/ "The Fifth Person")
+ [![The Fifth Person](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/ "The Fifth Person")
 
 * [Menu](#)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://fifthperson.com/wp-content/uploads/2024/12/Expo2025-1456x180-1.jpg)](https://bit.ly/5thperson)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://bit.ly/5thperson)
 
 * [Analysis](https://fifthperson.com/category/analysis/)
     
@@ -101,15 +97,11 @@ We may terminate these Terms of Use (including your access to and use of the Web
 
 When you visit the Website or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on the Website. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://fifthperson.com/wp-content/uploads/2023/08/BNR23-732-Expanded-Overnight-Stocks-and-ETFs-SG.jpg)](https://www.interactivebrokers.com.sg/mkt/?src=fifth5)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.interactivebrokers.com.sg/mkt/?src=fifth5)
 
 Newsletter
 
 ![Fifth Person Newsletter](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Fifth Person Newsletter](https://fifthperson.com/wp-content/uploads/2020/08/The-Fifth-Person-subscribe.png)
 
 Search
 
@@ -129,162 +121,122 @@ Quick Guides
 * [Popular](#widget_tabs-7-popular)
 * [Comments](#widget_tabs-7-comments)
 
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2016/12/SGX.jpg)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
     
     [How to open a brokerage account in Singapore and choose the right broker (updated 2024)](https://fifthperson.com/how-to-open-a-brokerage-account-in-singapore/)
     
     January 2, 2024
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2018/01/kuala-lumpur-1-220x150.jpg)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
     
     [How to buy shares in Malaysia and open a Malaysian brokerage account (Updated 2024)](https://fifthperson.com/buy-shares-malaysia-open-malaysian-brokerage-account/)
     
     February 2, 2024
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2019/10/usa.jpg)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
     
     [How to buy U.S. shares in Singapore and open a U.S. brokerage account (updated 2024)](https://fifthperson.com/how-to-buy-us-shares-in-singapore/)
     
     January 8, 2024
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2017/06/save.jpg)](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
     
     [How saving just $11 a day can make you a millionaire](https://fifthperson.com/saving-just-11-day-can-make-millionaire/)
     
     June 23, 2017
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2020/04/bull-bear.jpg)](https://fifthperson.com/invest-10000-covid-19-crash/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/invest-10000-covid-19-crash/)
     
     [Here’s how I’d invest $10,000 during this COVID-19 crash](https://fifthperson.com/invest-10000-covid-19-crash/)
     
     April 9, 2020
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2017/09/singapore.jpg)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
     
     [How to start investing in Singapore: A practical guide for beginners (updated 2024)](https://fifthperson.com/how-to-start-investing-in-singapore-a-practical-guide-for-beginners/)
     
     January 14, 2024
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2022/04/cimb-clicks-220x150.jpg)](https://fifthperson.com/open-singapore-bank-account-malaysians/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/open-singapore-bank-account-malaysians/)
     
     [How to open a Singapore bank account for Malaysians](https://fifthperson.com/open-singapore-bank-account-malaysians/)
     
     April 8, 2022
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2014/11/monopoly.jpg)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
     
     [7 quick steps to pick the best dividend stocks](https://fifthperson.com/7-quick-steps-to-pick-the-best-dividend-stocks/)
     
     November 24, 2014
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2017/04/meeting.jpg)](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
     
     [5 reasons why you should attend annual general meetings if you’re an investor](https://fifthperson.com/5-reasons-why-you-should-attend-annual-general-meetings/)
     
     April 23, 2019
     
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://fifthperson.com/wp-content/uploads/2019/02/Singapore-1.jpg)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
+* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
     
     [Top 10 Singapore REITs that made you money if you invested from their IPOs (updated 2020)](https://fifthperson.com/top-10-singapore-reits-that-made-you-money-if-you-invested-from-their-ipo/)
     
     February 18, 2020
     
 
-* [![Photo of JF](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of JF](https://secure.gravatar.com/avatar/c592392cfeef9c1ac901be3be32be46f?s=70&d=mm&r=g)](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
+* [![Photo of JF](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
     
     [JF](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
     
     Thanks for this article. I was trying to delve deeper into t...
     
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
     
     [Darren Yeo](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
     
     Thanks for sharing, Jonathan. You’re absolutely right, the l...
     
-* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Jonathan Lloyd](https://secure.gravatar.com/avatar/5175be3cf6b0cfb3c8c9a163bbd739b4?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
+* [![Photo of Jonathan Lloyd](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
     
     [Jonathan Lloyd](https://fifthperson.com/trump-us-economy-portfolio/#comment-677750)
     
     The mass deportations won't happen. The USA simply doesn't h...
     
-* [![Photo of Ahmad Shafi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Ahmad Shafi](https://secure.gravatar.com/avatar/2ed4b6108ff100fa0c5ebdc4014802ac?s=70&d=mm&r=g)](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
+* [![Photo of Ahmad Shafi](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
     
     [Ahmad Shafi](https://fifthperson.com/how-to-buy-us-shares-in-malaysia/#comment-676629)
     
     I am on learning state to know how that I can make money by...
     
-* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Adam Wong](https://secure.gravatar.com/avatar/1d16fe1e9cc5ddc7e4a6d7ea456395db?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
     
     [Adam Wong](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676596)
     
     Hi KK, 1. Singaporeans pay no dividend withholding tax on UK...
     
-* [![Photo of KK Ho](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of KK Ho](https://secure.gravatar.com/avatar/04f5ed1b386dc78fd87626ed86e0770c?s=70&d=mm&r=g)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676593)
+* [![Photo of KK Ho](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676593)
     
     [KK Ho](https://fifthperson.com/best-sp-500-etf-to-buy/#comment-676593)
     
     Hi there, The information provided is very useful and thank...
     
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676536)
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676536)
     
     [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676536)
     
     Hi Azreen, thank you for your kind words! I’ll drop you an e...
     
-* [![Photo of Azreen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Azreen](https://secure.gravatar.com/avatar/87595b37dcbca6630254cddd24cc0aff?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
+* [![Photo of Azreen](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
     
     [Azreen](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
     
     Hi Darren, thank you for your analysis. Very useful. How can...
     
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
+* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
     
     [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
     
     Thank you, Anna! I'm glad you found this article insightful,...
     
-* [![Photo of Anna Seow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Anna Seow](https://secure.gravatar.com/avatar/cda2bcc36ce6d63d392af7f317835fd6?s=70&d=mm&r=g)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
+* [![Photo of Anna Seow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
     
     [Anna Seow](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
     
@@ -294,8 +246,6 @@ Quick Guides
 Advertisement
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://fifthperson.com/wp-content/uploads/2020/08/The-Fifth-Person-white-300x73.png)
 
 Disclaimer
 
@@ -356,8 +306,6 @@ Search for:
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](//fifthperson.com/wp-content/uploads/2017/01/Animated_Progress_Bar-1.gif)
-
 Almost done! Please Select Your Region To Receive Customized Content  
 
 Select Your Region
@@ -372,13 +320,9 @@ Your information is safe and secure with us
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](//fifthperson.com/wp-content/uploads/2017/01/Animated_Progress_Bar-1.gif)
-
 Almost done! Please complete this form and click the button below to subscribe  
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](//fifthperson.com/wp-content/uploads/2017/01/newsletter.jpg)
 
 Enter your email address to receive FREE weekly investment insights, stock analysis, case studies & more!
 
@@ -390,13 +334,9 @@ Your information is safe and secure with us
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](//fifthperson.com/wp-content/uploads/2017/01/Animated_Progress_Bar-1.gif)
-
 Almost done! Please complete this form and click the button below to subscribe  
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](//fifthperson.com/wp-content/uploads/2017/01/newsletter.jpg)
 
 Enter your email address to receive FREE weekly investment insights, stock analysis, case studies & more!
 
