@@ -128,6 +128,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+Why a Data Lake or Data Warehouse Isn't a Reliable Backup and Recovery Solution](https://www.ownbackup.com/blog/why-a-data-lake-or-data-warehouse-isnt-a-backup-solution)
+
 [Data Archiving
 
 What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
@@ -135,10 +139,6 @@ What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
 [Company News
 
 10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
-
-[Microsoft Dynamics CRM
-
-Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
 
 Company
 
@@ -352,6 +352,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Backup and Recovery
+
+Why a Data Lake or Data Warehouse Isn't a Reliable Backup and Recovery Solution](https://www.ownbackup.com/blog/why-a-data-lake-or-data-warehouse-isnt-a-backup-solution)
+
 [Data Archiving
 
 What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
@@ -359,10 +363,6 @@ What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
 [Company News
 
 10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
-
-[Microsoft Dynamics CRM
-
-Why Back Up Microsoft Dynamics CRM and Power Apps?](https://www.ownbackup.com/blog/why-back-up-dynamics-365-and-power-platform)
 
 Company
 
