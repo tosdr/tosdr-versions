@@ -407,7 +407,7 @@ Exclusive Offers
 
 [Grammar Check API](https://linguix.com/grammar-check-api)
 
-Free Tools [Grammar Checker for English](https://linguix.com/grammar-check) [Grammar Checker for Spanish](https://linguix.com/grammar-check-spanish) [Grammar Checker for German](https://linguix.com/grammar-check-german) [Grammar Checker for Italian](https://linguix.com/grammar-check-italian) [Grammar Checker for French](https://linguix.com/grammar-check-french) [Grammar Checker for Portuguese](https://linguix.com/grammar-check-portuguese) [Grammar Checker for Polish](https://linguix.com/grammar-check-polish) [Grammar Checker for Opera](https://linguix.com/opera)
+Free Tools [AI Content Detector](https://linguix.com/ai-content-detector) [Grammar Checker for English](https://linguix.com/grammar-check) [Grammar Checker for Spanish](https://linguix.com/grammar-check-spanish) [Grammar Checker for German](https://linguix.com/grammar-check-german) [Grammar Checker for Italian](https://linguix.com/grammar-check-italian) [Grammar Checker for French](https://linguix.com/grammar-check-french) [Grammar Checker for Portuguese](https://linguix.com/grammar-check-portuguese) [Grammar Checker for Polish](https://linguix.com/grammar-check-polish) [Grammar Checker for Opera](https://linguix.com/opera)
 
 Company [Contacts](https://linguix.com/page/contacts) [About us](https://linguix.com/about)
 
