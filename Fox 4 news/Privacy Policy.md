@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Watch live: Tsunami warnings issued after earthquakes strike northern California](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/quakes-copy.jpg?ve=1&tl=1)
+ [![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1)
 
- ![Watch live: Tsunami warnings issued after earthquakes strike northern California](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/quakes-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tsunami-warnings-northern-california-earthquake-12052024)
+ ![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
 
-### [Watch live: Tsunami warnings issued after earthquakes strike northern California](https://www.fox4news.com/news/tsunami-warnings-northern-california-earthquake-12052024)
+### [Ennis boil water notice lifted; classes resume Friday](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
 
- [![North Texas CFO with past conviction sentenced after defrauding another company](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/9f043d16-1632528_G_1440119474968_115476_ver1.0_640_360.jpg?ve=1&tl=1)
+ [![Texas' Bevo will not travel to Atlanta for SEC Championship game](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/gettyimages-2179649956.jpg?ve=1&tl=1)
 
- ![North Texas CFO with past conviction sentenced after defrauding another company](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/9f043d16-1632528_G_1440119474968_115476_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/keller-cfo-jon-rush-sentenced-wire-fraud)
+ ![Texas' Bevo will not travel to Atlanta for SEC Championship game](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/gettyimages-2179649956.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texas-bevo-atlanta-sec-championship-game)
 
-### [North Texas CFO with past conviction sentenced after defrauding another company](https://www.fox4news.com/news/keller-cfo-jon-rush-sentenced-wire-fraud)
+### [Texas' Bevo will not travel to Atlanta for SEC Championship game](https://www.fox4news.com/sports/texas-bevo-atlanta-sec-championship-game)
 
- [![This kind of drinking is even worse than binge drinking](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/drinking-alcohol-getty.jpg?ve=1&tl=1)
+ [![Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-fw-animal-shelter-holiday-adoptions-530p_00.00.16.12.jpg?ve=1&tl=1)
 
- ![This kind of drinking is even worse than binge drinking](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/drinking-alcohol-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/high-intensity-drinking-even-worse-binge-drinking)
+ ![Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-fw-animal-shelter-holiday-adoptions-530p_00.00.16.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-animal-shelter-hold-home-paw-lidays-adoption-drive)
 
-### [This kind of drinking is even worse than binge drinking](https://www.fox4news.com/news/high-intensity-drinking-even-worse-binge-drinking)
+### [Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://www.fox4news.com/news/fort-worth-animal-shelter-hold-home-paw-lidays-adoption-drive)
 
- [![UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/suspect.jpg?ve=1&tl=1)
+ [![Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/farmers-branch-thc.jpg?ve=1&tl=1)
 
- ![UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/suspect.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-assassin-believed-have-left-message-scene-bullet-casings-report)
+ ![Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/farmers-branch-thc.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/farmers-branch-warehouse-thc-drugs-seized)
 
-### [UnitedHealthcare CEO shooting suspect, unmasked in new photos, believed to have left message on bullet casings](https://www.fox4news.com/news/unitedhealthcare-ceo-assassin-believed-have-left-message-scene-bullet-casings-report)
+### [Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://www.fox4news.com/news/farmers-branch-warehouse-thc-drugs-seized)
 
- [![Missing 80-year-old West Dallas woman found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/linda-missing.png?ve=1&tl=1)
+ [![WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/pat-fallon-secret-service.jpg?ve=1&tl=1)
 
- ![Missing 80-year-old West Dallas woman found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/linda-missing.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/linda-birdow-walker-missing-found)
+ ![WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/pat-fallon-secret-service.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-hearing-fight-video)
 
-### [Missing 80-year-old West Dallas woman found safe](https://www.fox4news.com/news/linda-birdow-walker-missing-found)
+### [WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://www.fox4news.com/news/trump-assassination-attempt-hearing-fight-video)
 
 ###### [News](https://www.fox4news.com/news)
 
