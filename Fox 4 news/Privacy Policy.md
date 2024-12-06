@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1)
+
+ ![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/toys-tots-toy-drive-heath-marks-first-event-rockwall-county)
+
+### [Toys for Tots toy drive in Heath marks first event in Rockwall County](https://www.fox4news.com/news/toys-tots-toy-drive-heath-marks-first-event-rockwall-county)
+
+ [![Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dart-suspect.jpeg?ve=1&tl=1)
+
+ ![Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dart-suspect.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mlk-jr-dart-station-shooting-suspect)
+
+### [Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://www.fox4news.com/news/dallas-mlk-jr-dart-station-shooting-suspect)
+
  [![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1)
 
  ![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
@@ -413,23 +425,11 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Texas' Bevo will not travel to Atlanta for SEC Championship game](https://www.fox4news.com/sports/texas-bevo-atlanta-sec-championship-game)
 
- [![Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-dionne-fw-animal-shelter-holiday-adoptions-530p_00.00.16.12.jpg?ve=1&tl=1)
+ [![Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-471371482.jpg?ve=1&tl=1)
 
- ![Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-dionne-fw-animal-shelter-holiday-adoptions-530p_00.00.16.12.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-animal-shelter-hold-home-paw-lidays-adoption-drive)
+ ![Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-471371482.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/chipotle-menu-price-increase-inflation-impact)
 
-### [Fort Worth animal shelter to hold 'Home for the PAW-lidays' adoption drive](https://www.fox4news.com/news/fort-worth-animal-shelter-hold-home-paw-lidays-adoption-drive)
-
- [![Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/farmers-branch-thc.jpg?ve=1&tl=1)
-
- ![Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/farmers-branch-thc.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/farmers-branch-warehouse-thc-drugs-seized)
-
-### [Farmers Branch warehouse repackaged hemp products with real marijuana, police say](https://www.fox4news.com/news/farmers-branch-warehouse-thc-drugs-seized)
-
- [![WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/pat-fallon-secret-service.jpg?ve=1&tl=1)
-
- ![WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/pat-fallon-secret-service.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-assassination-attempt-hearing-fight-video)
-
-### [WATCH: Frisco Congressman, acting Secret Service director get in shouting match at hearing](https://www.fox4news.com/news/trump-assassination-attempt-hearing-fight-video)
+### [Chipotle raises menu prices by 2%, blames inflation; what it means for customers](https://www.fox4news.com/news/chipotle-menu-price-increase-inflation-impact)
 
 ###### [News](https://www.fox4news.com/news)
 
