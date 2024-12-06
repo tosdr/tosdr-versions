@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-We have a data cleansing team in a different country and some of the systems they needed to work on will only allow local users. FoxyProxy allowed us to continue our work seamlessly.
+BEST QUICK SERVICE!! LOVE YOU GUYS!
 
-Mark Leroux
+Natie Grossnass
