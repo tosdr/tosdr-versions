@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/alien-of-onbekende-aardling/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/de-grote-machtsverschuiving/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
