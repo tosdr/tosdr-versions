@@ -350,7 +350,7 @@ Please read the [FAQ](https://www.binance.com/en/support/faq/how-to-delete-my-bi
 
 ### Community
 
-[](https://discord.gg/jE4wt8g2H2)[](https://www.binance.com/en/community)[](https://www.tiktok.com/@binance?lang=en)[](https://www.facebook.com/binance)[](https://twitter.com/binance)[](https://www.reddit.com/r/binance)[](https://www.instagram.com/Binance/)[](https://coinmarketcap.com/exchanges/binance/)[](https://www.youtube.com/binanceyoutube)[](https://www.binance.com/en/community)
+[](https://discord.gg/jE4wt8g2H2)[](https://www.binance.com/en/community)[](https://www.tiktok.com/@binance?lang=en)[](https://www.facebook.com/binance)[](https://twitter.com/binance)[](https://www.reddit.com/r/binance)[](https://www.instagram.com/Binance/)[](https://coinmarketcap.com/exchanges/binance/)[](https://www.youtube.com/binanceyoutube)[](https://www.whatsapp.com/channel/0029VarQ6LL6rsQq7nwhmn1y)[](https://www.binance.com/en/community)
 
 ### About Us
 
