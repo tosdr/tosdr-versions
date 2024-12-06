@@ -406,7 +406,7 @@ Website designed & built by [Twopence Digital](https://twopence.digital/)
 * [Contact](https://pridefoundation.org.au/contact/)
 * [Donate](https://pridefoundation.org.au/donate/)
 
-Humberger Toggle Menu
+Hamburger Toggle Menu
 
 Stay in the know
 ----------------
