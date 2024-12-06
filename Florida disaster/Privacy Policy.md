@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Thursday, December 5, 2024**
+**Friday, December 6, 2024**
 
-**...****Light to Moderate Showers Expected Along the Florida Panhandle Today and Across the Big Bend and Northern Peninsula Tonight Along and Ahead of An Advancing Cold Front...Mostly Dry Conditions Elsewhere...Locally Sensitive Wildfire Conditions Cannot Be Ruled Out In the Peninsula...Breezy Winds to Develop Later Today and Tonight Across North and Central Florida...Drought Conditions Continue to Worsen and Expand Across the State...Moderate to High Risk For Rip Currents Along Florida Panhandle and East Coast...Low Temperatures to Fall Into the Low to Middle 30s Along the Panhandle and Middle to Upper 30s Through the Big Bend and Suwannee Valley...Cold Weather Advisories Issued Along the Panhandle and Western Big Bend For the Early to Mid-Morning Hours Friday As Breezy Winds Will Create Wind Chills As Low As 20-25 Degrees...Wind Chills In the Upper 20s and 30s Through the Rest of the Big Bend Into the Suwannee Valley and Northeast Florida...**
+**...****Isolated Showers Remain Possibel Through the Peninsula Today As A Cold Front Sinks Southward...Mostly Dry and Sunny Conditions Elsewhere...Cool and Dry Conditions Expected Across North Florida Behind the Cold Front This Afternoon...Dry Air and Breezy Winds to Give Way to Sensitive to Elevated Wildfire Conditions Across North Florida This Afternoon; Some Areas May See Near Critical Conditions; Red Flag Criteria Is Not Expected At This Time But Conditions Will Continue to Be Monitored...Freeze Watches Issued Across the Interior Northern Peninsula for Temperatures As Low As 27-Degrees Tonight...Low Temperatures In the Upper 20s to Middle 30s Elsewhere Across North Florida and Through the Nature Coast Tonight...Lingering Breey Winds To Cause Temperatures to Feel Like They Are In the Low to Middle 20s Through the Suwannee Valley, Upper 20s to Low 30s Across North Florida, and Low to Middle 30s Through the Nature Coast Early Saturday Morning...Moderate to High Risk For Rip Currents Along Florida Panhandle and East Coast As Ocean Swells and Hazardous Beach and Boating Conditions Develop...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
