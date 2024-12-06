@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About Precursor B Lymphoblastic Leukemia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22112%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-precursor-b-lymphoblastic-leukemia/)
+[![22 Facts About Newbery Medal ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/culture/22-facts-about-newbery-medal/)
+
+Culture
+
+06 Dec 2024
+
+[22 Facts About Newbery Medal](https://facts.net/history/culture/22-facts-about-newbery-medal/)
+
+[![40 Facts About Filariasis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-filariasis/)
 
 Health Science
 
-05 Dec 2024
+06 Dec 2024
 
-[30 Facts About Precursor B Lymphoblastic Leukemia](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-precursor-b-lymphoblastic-leukemia/)
-
-[![22 Facts About Mentorship Programs ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/society/22-facts-about-mentorship-programs/)
-
-Society
-
-05 Dec 2024
-
-[22 Facts About Mentorship Programs](https://facts.net/society-and-social-sciences/society/22-facts-about-mentorship-programs/)
+[40 Facts About Filariasis](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-filariasis/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
