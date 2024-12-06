@@ -254,6 +254,48 @@ Sidebar
 LATEST NEWS
 -----------
 
+[![New Android Spyware Used by Russian State-Backed Spyware Found](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![New Android Spyware Used by Russian State-Backed Spyware Found](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Android-Spyware-Used-by-Russian-State-Backed-Spyware-Found-400x400.jpg)](https://cyberinsider.com/new-android-spyware-used-by-russian-state-backed-entities-found/)
+
+### [New Android Spyware Used by Russian State-Backed Entities Found](https://cyberinsider.com/new-android-spyware-used-by-russian-state-backed-entities-found/)
+
+[![Atrium Health Discloses Data Exposure Involving Patient Portal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Atrium Health Discloses Data Exposure Involving Patient Portal](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Atrium-Health-Discloses-Data-Exposure-Involving-Patient-Portal-400x400.png)](https://cyberinsider.com/atrium-health-discloses-data-exposure-involving-patient-portal/)
+
+### [Atrium Health Discloses Data Exposure Involving Patient Portal](https://cyberinsider.com/atrium-health-discloses-data-exposure-involving-patient-portal/)
+
+[![Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Tor-Project-Retires-BridgeDB-in-Favor-of-Rdsys-to-Fight-Censorship-400x400.jpg)](https://cyberinsider.com/tor-project-retires-bridgedb-in-favor-of-rdsys-to-fight-censorship/)
+
+### [Tor Project Retires BridgeDB in Favor of Rdsys to Fight Censorship](https://cyberinsider.com/tor-project-retires-bridgedb-in-favor-of-rdsys-to-fight-censorship/)
+
+[![Russia's Secret Blizzard Hacked Rival Hackers' Networks for Espionage](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Russia's Secret Blizzard Hacked Rival Hackers' Networks for Espionage](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Russias-Secret-Blizzard-Hacked-Rival-Hackers-Networks-for-Espionage-400x400.jpg)](https://cyberinsider.com/russias-secret-blizzard-hacked-rival-hackers-networks-for-espionage/)
+
+### [Russia’s Secret Blizzard Hacked Rival Hackers’ Networks for Espionage](https://cyberinsider.com/russias-secret-blizzard-hacked-rival-hackers-networks-for-espionage/)
+
+[![Supply Chain Attack Hits Solana Core Library, Wallets at Risk](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Supply Chain Attack Hits Solana Core Library, Wallets at Risk](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Supply-Chain-Attack-Hits-Solana-Core-Library-Wallets-at-Risk-400x400.jpg)](https://cyberinsider.com/supply-chain-attack-hits-solana-core-library-wallets-at-risk/)
+
+### [Supply Chain Attack Hits Solana Core Library, Wallets at Risk](https://cyberinsider.com/supply-chain-attack-hits-solana-core-library-wallets-at-risk/)
+
+[![New Android Malware DroidBot Targets Banking Users in Europe](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![New Android Malware DroidBot Targets Banking Users in Europe](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0743-400x400.png)](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
+
+### [New Android Malware DroidBot Targets Banking Users in Europe](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
+
+[![FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0742-400x400.png)](https://cyberinsider.com/fbi-criminals-exploit-generative-ai-for-sophisticated-fraud-schemes/)
+
+### [FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](https://cyberinsider.com/fbi-criminals-exploit-generative-ai-for-sophisticated-fraud-schemes/)
+
 [![Data Leak Exposes Millions of Top Corporations Employee Records](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![Data Leak Exposes Millions of Top Corporations Employee Records](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Data-Leak-Exposes-Millions-of-Top-Corporations-Employee-Records-400x400.jpg)](https://cyberinsider.com/data-leak-exposes-millions-of-top-corporations-employee-records/)
@@ -271,48 +313,6 @@ LATEST NEWS
 ![US Data Brokers Face FTC's Wrath Over Tracking Consumers Online](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Google-FLoC-privacy-Federated-Learning-of-Cohorts--400x400.jpg)](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
 
 ### [US Data Brokers Face FTC’s Wrath Over Tracking Consumers Online](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
-
-[![Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/1000069935-400x400.jpg)](https://cyberinsider.com/apple-faces-employee-lawsuit-over-alleged-surveillance-practices/)
-
-### [Apple Faces Employee Lawsuit Over Alleged Surveillance Practices](https://cyberinsider.com/apple-faces-employee-lawsuit-over-alleged-surveillance-practices/)
-
-[![Encrypted Communications Service' Matrix' Dismantled by the Police](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Encrypted Communications Service' Matrix' Dismantled by the Police](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Encrypted-Communications-Service-Matrix-Dismantled-by-the-Police-400x400.png)](https://cyberinsider.com/encrypted-communications-service-matrix-dismantled-by-the-police/)
-
-### [Encrypted Communications Service ‘Matrix’ Dismantled by the Police](https://cyberinsider.com/encrypted-communications-service-matrix-dismantled-by-the-police/)
-
-[![RestorePrivacy Merges with CyberInsider](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![RestorePrivacy Merges with CyberInsider](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/RestorePrivacy-Merges-with-CyberInsider-400x400.png)](https://cyberinsider.com/restoreprivacy-com-merges-with-cyberinsider-com/)
-
-### [RestorePrivacy.com Merges with CyberInsider.com](https://cyberinsider.com/restoreprivacy-com-merges-with-cyberinsider-com/)
-
-[![Korean Firm Busted for Selling DDoS-Enabled Satellite Receivers](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Korean Firm Busted for Selling DDoS-Enabled Satellite Receivers](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0740-400x400.jpeg)](https://cyberinsider.com/korean-firm-busted-for-selling-ddos-enabled-satellite-receivers/)
-
-### [Korean Firm Busted for Selling DDoS-Enabled Satellite Receivers](https://cyberinsider.com/korean-firm-busted-for-selling-ddos-enabled-satellite-receivers/)
-
-[![Hackers Announce 'Biggest Breakthrough' in Windows and Office Piracy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Hackers Announce 'Biggest Breakthrough' in Windows and Office Piracy](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0739-400x400.png)](https://cyberinsider.com/hackers-announce-biggest-breakthrough-in-windows-and-office-piracy/)
-
-### [Hackers Announce ‘Biggest Breakthrough’ in Windows and Office Piracy](https://cyberinsider.com/hackers-announce-biggest-breakthrough-in-windows-and-office-piracy/)
-
-[![Russian Authorities Arrest Infamous Ransomware Actor “Wazawaka”](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Russian Authorities Arrest Infamous Ransomware Actor “Wazawaka”](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0738-400x400.jpeg)](https://cyberinsider.com/russian-authorities-arrest-infamous-ransomware-actor-wazawaka/)
-
-### [Russian Authorities Arrest Infamous Ransomware Actor “Wazawaka”](https://cyberinsider.com/russian-authorities-arrest-infamous-ransomware-actor-wazawaka/)
-
-[![Bologna FC Hit by Ransomware Attack, Confidential Data Stolen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Bologna FC Hit by Ransomware Attack, Confidential Data Stolen](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/11/Bologna-FC-Hit-by-Ransomware-Attack-Confidential-Data-Stolen-400x400.png)](https://cyberinsider.com/bologna-fc-hit-by-ransomware-attack-confidential-data-stolen/)
-
-### [Bologna FC Hit by Ransomware Attack, Confidential Data Stolen](https://cyberinsider.com/bologna-fc-hit-by-ransomware-attack-confidential-data-stolen/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
