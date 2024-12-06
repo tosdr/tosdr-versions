@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, December 5 2024
+Friday, December 6 2024
 
 Latest
 
-* [Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
-* [Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
-* [Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
-* [Police shuts down Manson cybercrime market, arrests key suspects](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
-* [Android 15’s first major update has arrived](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
-* [One UI 7 Beta Is Now Rolling Out for Samsung Galaxy S24 Series](https://digitpatrox.com/one-ui-7-beta-is-now-rolling-out-for-samsung-galaxy-s24-series/)
-* [Vodafone–Three merger cleared to proceed with commitment to invest heavily in UK 5G rollout](https://digitpatrox.com/vodafone-three-merger-cleared-to-proceed-with-commitment-to-invest-heavily-in-uk-5g-rollout/)
-* [Google DeepMind and World Labs unveil AI tools to create 3D spaces from simple prompts – Computerworld](https://digitpatrox.com/google-deepmind-and-world-labs-unveil-ai-tools-to-create-3d-spaces-from-simple-prompts-computerworld/)
-* [Famous (and Infamous) Movie Passion Projects](https://digitpatrox.com/famous-and-infamous-movie-passion-projects/)
-* [streaming di ITV in Italia](https://digitpatrox.com/streaming-di-itv-in-italia/)
+* [Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
+* [You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
+* [How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
+* [Google Wallet Brings Digital ID Support to Another US State](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
+* [ASUS ZenWiFi BQ16 review: The future of Wi-Fi is here!](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
+* [Regulatory uncertainty is holding back AI adoption – here’s what the industry needs going forward](https://digitpatrox.com/regulatory-uncertainty-is-holding-back-ai-adoption-heres-what-the-industry-needs-going-forward/)
+* [UK Cyber Risks Are ‘Widely Underestimated,’ Warns Security Chief](https://digitpatrox.com/uk-cyber-risks-are-widely-underestimated-warns-security-chief/)
+* [NYT Strands today — hints, spangram and answers for game #278 (Friday, December 6 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-278-friday-december-6-2024/)
+* [U.S. org suffered four month intrusion by Chinese hackers](https://digitpatrox.com/u-s-org-suffered-four-month-intrusion-by-chinese-hackers/)
+* [The PC Gaming Show 2024: all the best trailers](https://digitpatrox.com/the-pc-gaming-show-2024-all-the-best-trailers/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/GeqLSHeTxNdGMyvmRTctje-1200-80.jpg)](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3618060-0-45610900-1733426700-Apple-WWDC24-event-photos-developers-watch-keynote-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
     
-    [Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
+    [Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
     
-    27 minutes ago
+    8 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_399295803.jpg)](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
+* [![](https://lifehacker.com/imagery/articles/01JECCZ7R13TP2V7HDDDRX3AXM/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
     
-    [Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
+    [You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
     
-    31 minutes ago
+    36 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/nkK45RmioRy3sBR2FBLSoc-1200-80.png)](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028187/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-PHEV-vs-EV-vs-ICE-EVs-Are-Less-Reliable-Than-Conventional-Cars-1124)](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
     
-    [Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
+    [How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
     
-    35 minutes ago
+    46 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/05/police_raid.jpg)](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/15-2.png)](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
     
-    [Police shuts down Manson cybercrime market, arrests key suspects](https://digitpatrox.com/police-shuts-down-manson-cybercrime-market-arrests-key-suspects/)
+    [Google Wallet Brings Digital ID Support to Another US State](https://digitpatrox.com/google-wallet-brings-digital-id-support-to-another-us-state/)
     
-    2 hours ago
+    47 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/Slbltj1n_UWkt8RcKa0S1iJoU-g=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24007892/acastro_STK112_android_01.jpg)](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
+* [![](https://www.digitalcitizen.life/wp-content/uploads/2024/11/asus_zenwifi_bq16.jpg)](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
     
-    [Android 15’s first major update has arrived](https://digitpatrox.com/android-15s-first-major-update-has-arrived/)
+    [ASUS ZenWiFi BQ16 review: The future of Wi-Fi is here!](https://digitpatrox.com/asus-zenwifi-bq16-review-the-future-of-wi-fi-is-here/)
     
-    2 hours ago
+    50 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [27 minutes ago
+* [8 minutes ago
     
-    ### Warning issued after Chinese hacker group breaches telco firms in “dozens of countries”](https://digitpatrox.com/warning-issued-after-chinese-hacker-group-breaches-telco-firms-in-dozens-of-countries/)
-* [31 minutes ago
+    ### Apple shops at Amazon for Apple Intelligence services – Computerworld](https://digitpatrox.com/apple-shops-at-amazon-for-apple-intelligence-services-computerworld/)
+* [36 minutes ago
     
-    ### Google Introduces Veo and Imagen 3 to AI Platform](https://digitpatrox.com/google-introduces-veo-and-imagen-3-to-ai-platform/)
-* [35 minutes ago
+    ### You Can Now Pay $200 a Month for a ‘Reasoning’ ChatGPT](https://digitpatrox.com/you-can-now-pay-200-a-month-for-a-reasoning-chatgpt/)
+* [46 minutes ago
     
-    ### Act fast! Save 25% on Autodesk’s top products](https://digitpatrox.com/act-fast-save-25-on-autodesks-top-products/)
+    ### How Electric Car, Plug-In Hybrid, Hybrid Reliability Compare](https://digitpatrox.com/how-electric-car-plug-in-hybrid-hybrid-reliability-compare/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [1 week ago
     
-    ### DoJ demands Google sells Chrome — and potentially Android too](https://digitpatrox.com/doj-demands-google-sells-chrome-and-potentially-android-too/)
-* [October 27, 2024
+    ### NYT Strands Today: Hints, Answers & Spangram for November 26](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-26/)
+* [September 1, 2024
     
-    ### Android 16 could get iPhone-like ‘ongoing’ notifications](https://digitpatrox.com/android-16-could-get-iphone-like-ongoing-notifications/)
-* [September 10, 2024
+    ### I have $250 to upgrade my bedding in the Labor Day sales — here’s what I’m buying](https://digitpatrox.com/i-have-250-to-upgrade-my-bedding-in-the-labor-day-sales-heres-what-im-buying/)
+* [August 29, 2024
     
-    ### British SMBs are glaringly unprotected – will the new Cyber Security and Resilience Bill be enough to raise the bar?](https://digitpatrox.com/british-smbs-are-glaringly-unprotected-will-the-new-cyber-security-and-resilience-bill-be-enough-to-raise-the-bar/)
+    ### California’s contentious AI safety bill gets closer to becoming a law – Computerworld](https://digitpatrox.com/californias-contentious-ai-safety-bill-gets-closer-to-becoming-a-law-computerworld/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### Vodafone–Three merger cleared to proceed with commitment to invest heavily in UK 5G rollout](https://digitpatrox.com/vodafone-three-merger-cleared-to-proceed-with-commitment-to-invest-heavily-in-uk-5g-rollout/)
-* [4 hours ago
+    ### UK Cyber Risks Are ‘Widely Underestimated,’ Warns Security Chief](https://digitpatrox.com/uk-cyber-risks-are-widely-underestimated-warns-security-chief/)
+* [2 hours ago
     
-    ### Google DeepMind and World Labs unveil AI tools to create 3D spaces from simple prompts – Computerworld](https://digitpatrox.com/google-deepmind-and-world-labs-unveil-ai-tools-to-create-3d-spaces-from-simple-prompts-computerworld/)
-* [5 hours ago
+    ### NYT Strands today — hints, spangram and answers for game #278 (Friday, December 6 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-278-friday-december-6-2024/)
+* [3 hours ago
     
-    ### Famous (and Infamous) Movie Passion Projects](https://digitpatrox.com/famous-and-infamous-movie-passion-projects/)
+    ### U.S. org suffered four month intrusion by Chinese hackers](https://digitpatrox.com/u-s-org-suffered-four-month-intrusion-by-chinese-hackers/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
