@@ -209,12 +209,6 @@ We reserve the right, in our sole discretion, to change, modify, add, remove, or
 
 If you have any questions or concerns about this Privacy Policy or the practices described herein, you may contact us by email at [ConsumerPrivacy@CVSHealth.com](mailto:ConsumerPrivacy@CVSHealth.com), by mail to CVS Pharmacy, Attn: Privacy Office, 1 CVS Drive, Woonsocket, R.I. 02895, or by phone at [1-800-SHOP-CVS (1-800-746-7287)](tel:1-800-746-7287 "call on 1-800-746-7287").
 
-* [![facebook logo](//images.ctfassets.net/nu3qzhcv2o1c/4lDnItYXzVHNIoNSLsYEvZ/0f634ddd94aaa4be75ff821982fc95c2/facebook.svg)](https://www.facebook.com/CVS)
-* [![](//images.ctfassets.net/nu3qzhcv2o1c/5vpxabCbVLw8PyVUnKDUQC/407386292d019f4528c3ecb71b5422d9/TikTok-Social-Icon-Mono-White.svg)](https://www.tiktok.com/@cvs?lang=en)
-* [![](//images.ctfassets.net/nu3qzhcv2o1c/28jo0EeKoYDCSd4aYsTDmj/b53c393b4c9148fee87699c8ca6e5b8c/Vector.svg)](https://www.instagram.com/cvspharmacy/?hl=en)
-* [![Linkedin logo](//images.ctfassets.net/nu3qzhcv2o1c/7iVpeVc0Bvpaa7If8qXuHw/2e07ea870af899a0ad93fa54d26613b3/Linkedin.svg)](https://www.linkedin.com/company/cvs-health)
-* [![Youtube logo](//images.ctfassets.net/nu3qzhcv2o1c/1v8ah8HEt5TpDpLgm86iTa/52d471e7efea263d4f7d0c9840db310c/youtube.svg)](https://www.youtube.com/cvspharmacyvideos)
-
 Services
 --------
 
@@ -295,16 +289,6 @@ Get the CVS app for convenient ways to refill prescriptions, save money, and mor
 * [Attain Health](https://www.attainhealth.com/?icid=AEP_ACQ_MULTI_CVSATTAIN_WEB_cvs.com_medicare_DEFAULT&tfn=8444770118)
 
 [Back to top](javascript:void(0);)
-
-* [Terms of use](https://www.cvs.com/help/terms_of_use.jsp)
-* [Accessibility](https://www.cvshealth.com/accessibility)
-* [In-Store WiFi Terms (PDF)](https://www.cvs.com/bizcontent/general/policy/pdf/instore_wifi_terms.pdf)
-* [Security](https://www.cvs.com/help/help_subtopic_details.jsp?subtopicName=Security&topicid=2400003)
-* [Sitemap](https://www.cvs.com/retail/help/sitemap)
-* [Privacy policy](https://www.cvs.com/retail/help/privacy_policy)
-* [WA privacy policy](https://www.cvs.com/retail/help/WA_consumer_health_privacy_policy)
-* [CA privacy notice](https://www.cvs.com/retail/help/ca_notice_collection)
-* [Your Privacy Choices](https://www.cvs.com/account/compliance/do-not-sell)
 
 © Copyright 1999-2024 CVS.com
 
