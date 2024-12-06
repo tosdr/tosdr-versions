@@ -1,6 +1,6 @@
 ![](https://q.quora.com/_/ad/9202237d25bb4ca8a992b693ab0a3541/pixel?tag=ViewContent&noscript=1)        
 
-[![Coinzilla Advertising Network](assets/images/coinzilla-logo.svg)](https://coinzilla.com/)
+[![Coinzilla Advertising Network](assets/images/christmas/christmas-logo.svg)](https://coinzilla.com/)
 
 * [Advertisers](https://coinzilla.com/advertisers/)
 * [Publishers](https://coinzilla.com/publishers/)
@@ -276,7 +276,7 @@ Contact Our Sales Team
 
 [Send us a message](https://coinzilla.com/contact/)
 
-![footer mobile](/assets/images/footer/footer-mobile-illustration.svg) ![footer mobile](/assets/images/footer/footer-illustration.svg)
+![footer mobile](/assets/images/christmas/footer-card-mobile.svg) ![footer mobile](/assets/images/christmas/footer-card-desktop.svg)
 
 About
 
