@@ -20,16 +20,16 @@ Friday, December 6 2024
 
 Latest
 
-* [Attack on Titan The Last Attack Receives a Worldwide Theatrical Release Window](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
-* [AWS sharpens sustainability focus as AI environmental concerns rise](https://digitpatrox.com/aws-sharpens-sustainability-focus-as-ai-environmental-concerns-rise/)
-* [What are AI agents and why are they now so pervasive? – Computerworld](https://digitpatrox.com/what-are-ai-agents-and-why-are-they-now-so-pervasive-computerworld/)
-* [Get a Government Permit to Cut Your Own Christmas Tree at a National Forest](https://digitpatrox.com/get-a-government-permit-to-cut-your-own-christmas-tree-at-a-national-forest/)
-* [Anker Soundcore Bluetooth Speaker Recall for Fire & Burn Hazards](https://digitpatrox.com/anker-soundcore-bluetooth-speaker-recall-for-fire-burn-hazards/)
-* [4K Blu-Rays Have an AI Upscaling Problem: Buyer Beware](https://digitpatrox.com/4k-blu-rays-have-an-ai-upscaling-problem-buyer-beware/)
-* [How to find my Apple device(s)](https://digitpatrox.com/how-to-find-my-apple-devices/)
-* [HP Envy x360 2-in-1 (14-FC0009NA) review](https://digitpatrox.com/hp-envy-x360-2-in-1-14-fc0009na-review/)
-* [7 Reasons to Not Use MPLS and 4 Better Alternatives](https://digitpatrox.com/7-reasons-to-not-use-mpls-and-4-better-alternatives/)
-* [Watch Australia vs India 2nd Test 2024 live stream](https://digitpatrox.com/watch-australia-vs-india-2nd-test-2024-live-stream/)
+* [Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
+* [Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
+* [Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
+* [Alteryx names Andy MacMillan as new CEO](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
+* [Microsoft moves to stop M365 Copilot from ‘oversharing’ data – Computerworld](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
+* [The Best Stocking Stuffers for Tech Nerds](https://digitpatrox.com/the-best-stocking-stuffers-for-tech-nerds/)
+* [Massachusetts hospital notifies 316,000 people of data breach that compromised SSNs, medical and financial info](https://digitpatrox.com/massachusetts-hospital-notifies-316000-people-of-data-breach-that-compromised-ssns-medical-and-financial-info/)
+* [How to create rules for emails in Outlook for Windows 11](https://digitpatrox.com/how-to-create-rules-for-emails-in-outlook-for-windows-11/)
+* [Popular Cars to Avoid and What to Buy Instead](https://digitpatrox.com/popular-cars-to-avoid-and-what-to-buy-instead/)
+* [Microsoft Ends Sale of Skype Numbers & Credits](https://digitpatrox.com/microsoft-ends-sale-of-skype-numbers-credits/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/12/Attack-on-Titan-the-Last-Attack-Poster.jpg)](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/06/BlueYonder-headpic.jpg)](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
     
-    [Attack on Titan The Last Attack Receives a Worldwide Theatrical Release Window](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
+    [Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
     
-    14 minutes ago
+    40 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/rDtMYAEUgVWrjxroxtxwTH-1200-80.jpg)](https://digitpatrox.com/aws-sharpens-sustainability-focus-as-ai-environmental-concerns-rise/)
+* [![](https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg)](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
     
-    [AWS sharpens sustainability focus as AI environmental concerns rise](https://digitpatrox.com/aws-sharpens-sustainability-focus-as-ai-environmental-concerns-rise/)
+    [Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
     
-    2 hours ago
+    57 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3617392-0-64563400-1733414884-shutterstock_2282770155.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/what-are-ai-agents-and-why-are-they-now-so-pervasive-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/fortnite-og-official-poster.jpg)](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
     
-    [What are AI agents and why are they now so pervasive? – Computerworld](https://digitpatrox.com/what-are-ai-agents-and-why-are-they-now-so-pervasive-computerworld/)
+    [Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://lifehacker.com/imagery/articles/01HGBSP17D7SA8YA6GSHCV0NBS/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/get-a-government-permit-to-cut-your-own-christmas-tree-at-a-national-forest/)
+* [![](https://cdn.mos.cms.futurecdn.net/yDJKgtuBwaxvZ7BZMsMee4-1200-80.jpg)](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
     
-    [Get a Government Permit to Cut Your Own Christmas Tree at a National Forest](https://digitpatrox.com/get-a-government-permit-to-cut-your-own-christmas-tree-at-a-national-forest/)
+    [Alteryx names Andy MacMillan as new CEO](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
     
     3 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733414848/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Anker-Recall-1224)](https://digitpatrox.com/anker-soundcore-bluetooth-speaker-recall-for-fire-burn-hazards/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616459-0-19569000-1733310408-stop_push-back_caution_man-holding-hand-up_binary-thinkstock-100819035-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
     
-    [Anker Soundcore Bluetooth Speaker Recall for Fire & Burn Hazards](https://digitpatrox.com/anker-soundcore-bluetooth-speaker-recall-for-fire-burn-hazards/)
+    [Microsoft moves to stop M365 Copilot from ‘oversharing’ data – Computerworld](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
     
     3 hours ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 minutes ago
+* [40 minutes ago
     
-    ### Attack on Titan The Last Attack Receives a Worldwide Theatrical Release Window](https://digitpatrox.com/attack-on-titan-the-last-attack-receives-a-worldwide-theatrical-release-window/)
-* [2 hours ago
+    ### Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
+* [57 minutes ago
     
-    ### AWS sharpens sustainability focus as AI environmental concerns rise](https://digitpatrox.com/aws-sharpens-sustainability-focus-as-ai-environmental-concerns-rise/)
-* [2 hours ago
+    ### Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
+* [1 hour ago
     
-    ### What are AI agents and why are they now so pervasive? – Computerworld](https://digitpatrox.com/what-are-ai-agents-and-why-are-they-now-so-pervasive-computerworld/)
+    ### Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
 
 Most Popular Topics
 
-* [November 2, 2024
+* [October 29, 2024
     
-    ### Snapdragon 8 Elite Overheating Issues Emerge During Early Testing](https://digitpatrox.com/snapdragon-8-elite-overheating-issues-emerge-during-early-testing/)
-* [October 3, 2024
+    ### Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
+* [August 16, 2024
     
-    ### What are transformers in AI?](https://digitpatrox.com/what-are-transformers-in-ai/)
-* [October 4, 2024
+    ### What Is Google’s AI Overviews?](https://digitpatrox.com/what-is-googles-ai-overviews/)
+* [August 11, 2024
     
-    ### Wordle Answer for Today, October 4, 2024](https://digitpatrox.com/wordle-answer-for-today-october-4-2024/)
+    ### 1080p vs. 1440p vs. 4K Monitors: How Big Is the Difference?](https://digitpatrox.com/1080p-vs-1440p-vs-4k-monitors-how-big-is-the-difference/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### How to find my Apple device(s)](https://digitpatrox.com/how-to-find-my-apple-devices/)
-* [3 hours ago
+    ### Massachusetts hospital notifies 316,000 people of data breach that compromised SSNs, medical and financial info](https://digitpatrox.com/massachusetts-hospital-notifies-316000-people-of-data-breach-that-compromised-ssns-medical-and-financial-info/)
+* [4 hours ago
     
-    ### HP Envy x360 2-in-1 (14-FC0009NA) review](https://digitpatrox.com/hp-envy-x360-2-in-1-14-fc0009na-review/)
-* [3 hours ago
+    ### How to create rules for emails in Outlook for Windows 11](https://digitpatrox.com/how-to-create-rules-for-emails-in-outlook-for-windows-11/)
+* [4 hours ago
     
-    ### 7 Reasons to Not Use MPLS and 4 Better Alternatives](https://digitpatrox.com/7-reasons-to-not-use-mpls-and-4-better-alternatives/)
+    ### Popular Cars to Avoid and What to Buy Instead](https://digitpatrox.com/popular-cars-to-avoid-and-what-to-buy-instead/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 11, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
