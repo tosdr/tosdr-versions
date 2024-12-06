@@ -490,19 +490,19 @@ Download the app today Get your own copy of the WestJet app, and enhance your ne
 
 [![Download on Google Play](/content/dam/westjet/images/branded/app/android-app-download-en.svg)](https://play.google.com/store/apps/details?id=com.westjet&referrer=utm_campaign=App%20Product%20Page&trackingcode=WSAPP&utm_source=Hero%20CTA&utm_medium=Internal)
 
-Booking Options
+Booking options
 ---------------
 
 * [Hold the fare](https://www.westjet.com/en-ca/flights/payment/hold-fare)
 * [Book with a companion voucher](https://www.westjet.com/en-ca/flights?=iscompanionvouchertrue)
-* [Book with WestJet Dollars](https://www.westjet.com/en-ca/flights?=iswestjetdollarstrue)
+* [Book with WestJet dollars](https://www.westjet.com/en-ca/flights?=iswestjetdollarstrue)
 * [Gift cards](https://www.westjet.com/en-ca/extras/gift-card)
 * [Fares, taxes and fees](https://www.westjet.com/en-ca/flights/fares)
-* [Car Rental](https://autos.westjet.com/)﻿
+* [Car rental](https://autos.westjet.com/)﻿
 * [Destinations](https://www.westjet.com/en-ca/destinations)
 * [Featured vacation packages](https://www.westjet.com/en-ca/vacations/featured)
 * [Groups and conventions](https://www.westjet.com/en-ca/flights/groups)
-* [Direct Flights](https://www.westjet.com/en-ca/flights/direct-flights)﻿
+* [Direct flights](https://www.westjet.com/en-ca/flights/direct-flights)﻿
 * [WestJet Biz](https://westjetbiz.westjet.com/login.html)﻿
 
 Before you go
