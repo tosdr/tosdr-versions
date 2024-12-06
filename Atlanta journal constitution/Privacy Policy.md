@@ -1,4 +1,4 @@
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1871)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1871)](https://www.ajc.com/)
 
 Log In
 
@@ -14,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-party-houses-and-indicted-parents/AZSLBWZEWZHBPOPI6I3QWVXRII/)
 * [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-dec-6-8/QKJTXRK5EVBBZJR3AW4M5HOZMQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
@@ -22,7 +21,7 @@ Log In
 * [UATL](https://www.ajc.com/uatl/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1864)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1871)
 
 * Quick Links
     
@@ -146,7 +145,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1864)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1871)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
