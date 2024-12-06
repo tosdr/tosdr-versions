@@ -159,6 +159,8 @@ Our Privacy Policy has been updated:
 * To provide details on how we use analytics to understand how people use our site and services, and to suggest content and reviews based on your past browsing.
 * To describe how we use artificial intelligence to improve your experience and help ensure that user-generated content follows our community guidelines.
 
+For summaries of changes to the [Children's Privacy Policy](https://www.commonsensemedia.org/about-us/our-mission/childrens-privacy-policy) and the [Cookie Policy](https://www.commonsensemedia.org/about-us/our-mission/cookie-policy), please click on the links to those documents.
+
 Our updated Privacy Policy will go into effect December 3, 2024
 
 Effective Date of Policy (Last Update): December 3, 2024
