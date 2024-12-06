@@ -105,6 +105,20 @@ Select your language English日本語
             
             [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
             
+            * [Resource Management and Mature Asset Solutions](https://www.bakerhughes.com/gaffneycline-energy-advisory/resource-management-and-mature-asset-solutions)
+                
+            * [Carbon Management and Energy Transition](https://www.bakerhughes.com/gaffneycline-energy-advisory/carbon-management-and-energy-transition)
+                
+            * [Gas and LNG](https://www.bakerhughes.com/gaffneycline-energy-advisory/gas-and-lng)
+                
+            * [Policy, Strategic and Commercial](https://www.bakerhughes.com/gaffneycline-energy-advisory/policy-strategic-commercial)
+                
+            * [Midstream and Downstream](https://www.bakerhughes.com/gaffneycline-energy-advisory/midstream-and-downstream)
+                
+            * [Geomechanics Studies](https://www.bakerhughes.com/gaffneycline-energy-advisory/geomechanics-studies)
+                
+            * [Permanent Monitoring](https://www.bakerhughes.com/gaffneycline-energy-advisory/permanent-monitoring)
+                
             * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
                 
             
@@ -1070,6 +1084,20 @@ Search
             
             [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
             
+            * [Resource Management and Mature Asset Solutions](https://www.bakerhughes.com/gaffneycline-energy-advisory/resource-management-and-mature-asset-solutions)
+                
+            * [Carbon Management and Energy Transition](https://www.bakerhughes.com/gaffneycline-energy-advisory/carbon-management-and-energy-transition)
+                
+            * [Gas and LNG](https://www.bakerhughes.com/gaffneycline-energy-advisory/gas-and-lng)
+                
+            * [Policy, Strategic and Commercial](https://www.bakerhughes.com/gaffneycline-energy-advisory/policy-strategic-commercial)
+                
+            * [Midstream and Downstream](https://www.bakerhughes.com/gaffneycline-energy-advisory/midstream-and-downstream)
+                
+            * [Geomechanics Studies](https://www.bakerhughes.com/gaffneycline-energy-advisory/geomechanics-studies)
+                
+            * [Permanent Monitoring](https://www.bakerhughes.com/gaffneycline-energy-advisory/permanent-monitoring)
+                
             * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
                 
             
