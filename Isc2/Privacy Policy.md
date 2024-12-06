@@ -200,7 +200,7 @@ That form may also be used to request information about the purpose of the proce
 
 Reasonable access to your personal information will be provided at no cost to ISC2 members, conference attendees and others upon request made to ISC2 through our Privacy Center Request Form. If access cannot be provided within a reasonable time frame, ISC2 will provide you with a date when the information will be provided. If for some reason access is denied, ISC2 will provide an explanation as to why access has been denied.
 
-For questions or complaints concerning the processing of your personal information, you can email the ISC2’s data protection officer at [dpo@ISC2.org](mailto:dpo@iapp.org). Alternatively, if you are located in the European Union, you can also have recourse to the European Data Protection Supervisor or with your nation’s data protection authority.
+For questions or complaints concerning the processing of your personal information, you can email the ISC2’s data protection officer at [dpo@ISC2.org](mailto:dpo@isc2.org). Alternatively, if you are located in the European Union, you can also have recourse to the European Data Protection Supervisor or with your nation’s data protection authority.
 
 **Changes to Our Privacy Policy**  
 It is our policy to post any changes we make to our privacy policy on this page. The date the privacy policy was last revised is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable email address for you, and for periodically visiting our Website and this privacy policy to check for any changes.
