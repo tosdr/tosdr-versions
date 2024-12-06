@@ -194,6 +194,7 @@
     * [Fashion & beauty](https://restless.co.uk/leisure-and-lifestyle/fashion-and-beauty/)
     * [Film and TV](https://restless.co.uk/leisure-and-lifestyle/film-and-tv/)
     * [Food & drink](https://restless.co.uk/leisure-and-lifestyle/food-drink/)
+    * [Gifts & products](https://restless.co.uk/leisure-and-lifestyle/gifts-and-products/)
     * [History](https://restless.co.uk/leisure-and-lifestyle/history/)
     * [Hobbies & activities](https://restless.co.uk/leisure-and-lifestyle/hobbies-activities/)
     * [Home & garden](https://restless.co.uk/leisure-and-lifestyle/home-garden/)
