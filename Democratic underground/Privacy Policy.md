@@ -56,24 +56,6 @@ Search](https://www.democraticunderground.com/?com=search)
 
 Welcome to DU! The truly grassroots left-of-center political community where regular people, not algorithms, drive the discussions and set the standards. Join the community: [Create a free account](https://www.democraticunderground.com/?com=login&create=1) Support DU (and get rid of ads!): [Become a Star Member](https://www.democraticunderground.com/star) [Latest Breaking News](https://www.democraticunderground.com/?com=forum&id=1014) [Editorials & Other Articles](https://www.democraticunderground.com/?com=forum&id=1016) [General Discussion](https://www.democraticunderground.com/?com=forum&id=1002) [The DU Lounge](https://www.democraticunderground.com/?com=forum&id=1018) [All Forums](https://www.democraticunderground.com/?com=forums) [Issue Forums](https://www.democraticunderground.com/?com=forum&id=1311) [Culture Forums](https://www.democraticunderground.com/?com=forum&id=1312) [Alliance Forums](https://www.democraticunderground.com/?com=forum&id=1313) [Region Forums](https://www.democraticunderground.com/?com=forum&id=1314) [Support Forums](https://www.democraticunderground.com/?com=forum&id=1315) [Help & Search](https://www.democraticunderground.com/?com=search)
 
-Ezoic Services
-==============
-
-This website has an exclusive advertising contract with Ezoic Inc. (âEzoicâ), a renowned leader in website optimization, enhancing user experiences, optimizing ad performance, and generating revenue through advanced AI-powered technology.  
-Ezoic Services  
-This website uses the services of Ezoic Inc. (âEzoicâ), including to manage third-party interest-based advertising. Ezoic may employ a variety of technologies on this website, including tools to serve content, display advertisements and enable advertising to visitors of this website, which may utilize first and third-party cookies.  
-A cookie is a small text file sent to your device by a web server that enables the website to remember information about your browsing activity. First-party cookies are created by the site you are visiting, while third-party cookies are set by domains other than the one you're visiting. Ezoic and our partners may place third-party cookies, tags, beacons, pixels, and similar technologies to monitor interactions with advertisements and optimize ad targeting. Please note that disabling cookies may limit access to certain content and features on the website, and rejecting cookies does not eliminate advertisements but will result in non-personalized advertising. You can find more information about cookies and how to manage them [here](https://allaboutcookies.org/). The following information may be collected, used, and stored in a cookie when serving personalized ads:  
-
-* IP address
-* Operating system type and version
-* Device type
-* Language preferences
-* Web browser type
-* Email (in a hashed or encrypted form)
-
-Ezoic and its partners may use this data in combination with information that has been independently collected to deliver targeted advertisements across various platforms and websites. Ezoicâs partners may also gather additional data, such as unique IDs, advertising IDs, geolocation data, usage data, device information, traffic data, referral sources, and interactions between users and websites or advertisements, to create audience segments for targeted advertising across different devices, browsers, and apps. You can find more information about interest-based advertising and how to manage them [here](https://youradchoices.com/).  
-You can view Ezoicâs privacy policy [here](https://ezoic.com/privacy/), or for additional information about Ezoicâs advertising and other partners, you can view Ezoicâs advertising partners [here](https://www.ezoic.com/privacy-policy/advertising-partners/).
-
 Privacy Policy
 ==============
 
