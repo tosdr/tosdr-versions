@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Suspect seen casually strolling through NYC subway station shortly before executing UnitedHealthcare CEO: new video](https://nypost.com/2024/12/05/us-news/suspect-seen-casually-strolling-through-nyc-subway-station-just-30-minutes-before-executing-unitedhealthcare-ceo-brian-thompson-new-video/)
-
 Privacy Notice Highlights
 =========================
 
