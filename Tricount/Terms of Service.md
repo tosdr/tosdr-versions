@@ -405,11 +405,11 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/)
+[Privacy](https://www.tricount.com/en/privacy-policy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
-[![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
 [![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
@@ -431,11 +431,11 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/)
+[Privacy](https://www.tricount.com/en/privacy-policy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
-[![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
 [![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
@@ -457,10 +457,10 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/)
+[Privacy](https://www.tricount.com/en/privacy-policy)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
-[![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
 
 ![](https://framerusercontent.com/images/pWN3YdYWMkLpNYY0OkHbNh5vTI.svg)
