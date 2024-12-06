@@ -1,6 +1,8 @@
 [Skip to content](#skip-content-target-id)
 
-Quick – it's the last few days of our Black Friday sale. [Shop up to 50% off](https://www.notonthehighstreet.com/sale/50-off-sale)
+[Last 24 hours of Black Friday. Shop now.](https://www.notonthehighstreet.com/sale/view-all-sale-items)
+
+Don’t miss the last 24 hours of up to 50% off. [Shop Black Friday now.](https://www.notonthehighstreet.com/sale/view-all-sale-items)
 
 [![](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
