@@ -175,7 +175,7 @@ About
 
 * [About Us](https://ticktick.com/about)
 * [Blog](https://blog.ticktick.com/)
-* [Media](https://s3-us-west-1.amazonaws.com/appest-public/download/press.zip)
+* [Media](https://d2atcrkye2ik4e.cloudfront.net/download/press.zip)
 
 Legal
 
