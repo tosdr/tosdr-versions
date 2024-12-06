@@ -253,6 +253,14 @@ Enable Dark Mode
     
     Latest Articles
     
+    * [![Oasis: Free Cities on the US-Mexico Border](https://www.theadvocates.org/wp-content/uploads/2024/12/Border-300x300.jpg)
+        
+        Underthrow Series
+        
+        Oasis: Free Cities on the US-Mexico Border
+        
+        by **Max Borders** • Dec 04 • 8 mins Read](https://www.theadvocates.org/oasis-free-cities-on-the-us-mexico-border/)
+        
     * [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
         
         Innovation
@@ -325,14 +333,6 @@ Enable Dark Mode
         
         by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
         
-    * [![Makers and Takers](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)
-        
-        Underthrow Series
-        
-        Makers and Takers
-        
-        by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
-        
     
     [](#)[](#)
     
@@ -370,7 +370,7 @@ Enable Dark Mode
         
         Our Mission
         
-        Read more](https://www.theadvocates.org/libertarian/)
+        Read more](https://www.theadvocates.org/about/)
         
     *    [![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg) ![](/wp-content/themes/yootheme/cache/17/pexels-photo-271168-17a00cfb.jpeg)
         
@@ -697,6 +697,14 @@ Quizzes & Apps
 Articles
 --------
 
+* [![Oasis: Free Cities on the US-Mexico Border](https://www.theadvocates.org/wp-content/uploads/2024/12/Border-300x300.jpg)
+    
+    Underthrow Series
+    
+    Oasis: Free Cities on the US-Mexico Border
+    
+    by **Max Borders** • Dec 04 • 8 mins Read](https://www.theadvocates.org/oasis-free-cities-on-the-us-mexico-border/)
+    
 * [![Disarming the Deep State: AI’s Role in Government Transparency](https://www.theadvocates.org/wp-content/uploads/2024/11/AdobeStock_231962136-300x200.jpeg)
     
     Innovation
@@ -768,14 +776,6 @@ Articles
     The A Word (Gasp) – Anarchy
     
     by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
-    
-* [![Makers and Takers](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)
-    
-    Underthrow Series
-    
-    Makers and Takers
-    
-    by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
     
 
 [](#)[](#)
