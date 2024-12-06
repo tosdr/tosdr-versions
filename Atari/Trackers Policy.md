@@ -150,9 +150,9 @@ Games
 
 #### Games
 
-* [PC & Console](https://atari.com/collections/games)
+* [Digital Games](https://atari.com/collections/games)
     
-    [Physical Console](https://www.atari.com/collections/physical-games)
+    [Physical Games](https://www.atari.com/collections/physical-games)
     
     [Atari Cartridges](https://www.atari.com/collections/physical-cartridges)
 
@@ -200,9 +200,9 @@ Featured
 
 Games
 
-* [PC & Console](https://atari.com/collections/games)
+* [Digital Games](https://atari.com/collections/games)
     
-    [Physical Console](https://www.atari.com/collections/physical-games)
+    [Physical Games](https://www.atari.com/collections/physical-games)
     
     [Atari Cartridges](https://www.atari.com/collections/physical-cartridges)
 
