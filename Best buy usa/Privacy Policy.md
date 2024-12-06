@@ -1,6 +1,6 @@
 None
 
-Your home for all the dealsShop new deals every day. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
+3-Day SaleEnds 12/8. Limited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
 
 [Skip to content](#headerskip "Skip to content")
 
