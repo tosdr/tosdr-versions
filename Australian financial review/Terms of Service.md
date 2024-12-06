@@ -297,7 +297,6 @@ Advertise
 
 ### [What to wear on your trip into space? This watch CEO has a suggestion](https://www.afr.com/life-and-luxury/fashion-and-style/what-to-wear-on-your-trip-into-space-this-watch-ceo-has-a-suggestion-20240922-p5kcfp)
 
-* 54 mins ago
 * Matthew Drummond
 
 * ### [Not everyone likes this new watch CEO. He’s OK with that](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
@@ -312,7 +311,6 @@ Advertise
 
 ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
 
-* 54 mins ago
 * Patrick Durkin
 
 * ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
@@ -327,7 +325,6 @@ Advertise
 
 ### [Make a fashionista’s dreams come true](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
 
-* 54 mins ago
 * Eugenie Kelly
 
 * ### [Why you’ll be eating KFC for Christmas in Japan](https://www.afr.com/life-and-luxury/travel/why-you-ll-be-eating-kfc-for-christmas-in-japan-20241018-p5kjdd)
@@ -338,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The late David Haines was a pioneering hedge fund manager and amassed a significant fortune before his death last year.](https://static.ffx.io/images/$zoom_0.6517%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_192%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/09c9e755431abaa1d2bf371465625b3e740ecfe6)](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
+[![Jevan Bouzo, CEO of Convenience & Mobility at Viva and Yasser Shahin.](https://static.ffx.io/images/$zoom_0.8628%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_993%2C$y_1443/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f6ad92fd443fbd38c5802a90d40e8153d2b88cdf)](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
 
-### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
+### [$3 hot dogs and a mini-shop behind $1.2b petrol bet](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
 
-* Primrose Riordan
+* 9 mins ago
+* Simon Evans
 
-* ### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
+* ### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
     
-* ### [Billionaire John Van Lieshout backs sustainability investor Infragreen](https://www.afr.com/companies/energy/billionaire-john-van-lieshout-backs-sustainability-investor-infragreen-20241129-p5kukg)
+* ### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
     
 
 [The Australian Financial Review](https://www.afr.com/)
