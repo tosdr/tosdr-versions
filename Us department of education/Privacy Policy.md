@@ -178,7 +178,6 @@ A **lock** ( Lock Locked padlock ) or **https://** means you’ve safely connect
     [Additional Laws and Policy](https://www2.ed.gov/laws-and-policy/adult-education-laws-and-policy)
     
     * [Student Records and Privacy](https://studentprivacy.ed.gov/)
-    * [Education Policy](https://www2.ed.gov/laws-and-policy/education-policy)
     
 
 * [Español](https://www2.ed.gov/espanol)
