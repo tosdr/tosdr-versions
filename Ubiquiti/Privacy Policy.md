@@ -212,6 +212,6 @@ Subscribe
 
 [](https://www.facebook.com/uieverywhere/)[](https://twitter.com/Ubiquiti)[](https://www.youtube.com/user/ubnt?feature=watch)[](https://www.instagram.com/ubiquiti)
 
-[Terms of Service](https://www.ui.com/legal/termsofservice/ "Terms of Service") | [Privacy Policy](https://www.ui.com/legal/privacypolicy/ "Privacy Policy") | [Legal](https://www.ui.com/legal/ "Legal")
+[Terms of Service](https://www.ui.com/legal/termsofservice/ "Terms of Service") | [Privacy Policy](https://www.ui.com/legal/privacypolicy/ "Privacy Policy") | [Legal](https://www.ui.com/legal/ "Legal") | Cookies Settings
 
 © 2024 Ubiquiti Inc. All rights reserved.
