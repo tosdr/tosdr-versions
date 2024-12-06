@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A Certain Darkness Is Needed to See the Stars”
+“ Seek freedom and become captive of your desires. Seek discipline and find your liberty”
 
-[Osho](https://en.wikipedia.org/wiki/Rajneesh)
+[Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)
 
 [](https://www.adafruit.com/about)
 
