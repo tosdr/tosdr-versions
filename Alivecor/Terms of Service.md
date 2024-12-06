@@ -8,11 +8,15 @@ Devices
 
 KardiaMobile](https://store.kardia.com/products/kardiamobile?_gl=1*mg9bej*_gcl_au*MTI5MzUwODAwOS4xNzI3MzQ4MzI4*_ga*NDUyMTI1NTkyLjE3MjczMjc2MDQ.*_ga_WHXPXB66N2*MTczMDcwMTg4MC4yMi4xLjE3MzA3MDI5ODIuNTYuMC4w)
 
-[![kardiaMobile6l](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkardiamobile_6L.67ee6e30.png&w=1080&q=75)
+[SALE
+
+![kardiaMobile6l](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fkardiamobile_6L.67ee6e30.png&w=1080&q=75)
 
 KardiaMobile 6L](https://store.kardia.com/products/kardiamobile6l?_gl=1*teg28d*_gcl_au*MTI5MzUwODAwOS4xNzI3MzQ4MzI4*_ga*NDUyMTI1NTkyLjE3MjczMjc2MDQ.*_ga_WHXPXB66N2*MTczMDcwMTg4MC4yMi4xLjE3MzA3MDMwMDguMzAuMC4w)
 
-[![kardiaMobileCard](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKMCard-diagonal-card.68e66244.png&w=3840&q=75)
+[SALE
+
+![kardiaMobileCard](/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FKMCard-diagonal-card.68e66244.png&w=3840&q=75)
 
 KardiaMobile Card](https://store.kardia.com/products/kardiamobile-card?_gl=1*17fu954*_gcl_au*MTI5MzUwODAwOS4xNzI3MzQ4MzI4*_ga*NDUyMTI1NTkyLjE3MjczMjc2MDQ.*_ga_WHXPXB66N2*MTczMDcwMTg4MC4yMi4xLjE3MzA3MDMwMjIuMTYuMC4w)
 
