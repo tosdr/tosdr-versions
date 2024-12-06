@@ -193,6 +193,10 @@ Address: Špitálska 53, Bratislava, 811 01, Slovakia
 Latest news
 -----------
 
+[![The Best Christmas Ads That Touched Our Hearts](/wp-content/uploads/2023/11/Christmas-ads.png)
+
+### The Best Christmas Ads That Touched Our Hearts](https://adlock.com//blog/best-christmas-ads/)
+
 [![How to Stop Automatic New Tabs Opening in Google Chrome](/wp-content/uploads/2020/08/Group-217.png)
 
 ### How to Stop Automatic New Tabs Opening in Google Chrome](https://adlock.com//blog/how-to-stop-automatic-tabs-opening-in-google-chrome/)
@@ -212,10 +216,6 @@ Latest news
 [![How Google Killing Ad-Blocking](/wp-content/uploads/2021/02/D9B0RFbXkAA3Hkh.jpg)
 
 ### How Google Killing Ad-Blocking](https://adlock.com//blog/chrome-killing-adblock/)
-
-[![How to Remove Lock Screen Ads on Android](/wp-content/uploads/2023/12/android-lock-screen.png)
-
-### How to Remove Lock Screen Ads on Android](https://adlock.com//blog/how-to-remove-ads-from-lock-screen/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
