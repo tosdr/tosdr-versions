@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/pro-vaccin-immunoloog-de-schokkende-waarheid-over-vaccins/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-penis-project/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
@@ -131,6 +131,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
+
+##### **arnold2** reacts on:
+
+##### Gedachtepolitie? Al actief in Engeland..!
+
+[https://www.nu.nl/politiek/6338120/jongen-die-baudet-met-bie…](https://www.wanttoknow.nl/overige/mind-control/gedachtepolitie-al-actief-in-engeland/comment-page-1/#comment-626378)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -379,14 +387,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Ontgifting van grafeenoxide, spike-eiwitten en magnetisme..!
 
 [Kijk goed hoe deze Harari uit zijn ogen kijkt .!! En je weet…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/ontgifting-van-grafeenoxide-spike-eiwitten-en-magnetisme/comment-page-1/#comment-626346)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### BEWIJS: grote schade zeeleven door windmolens…!!
-
-[https://groene-rekenkamer.nl/1795/windenergie-nederland-de-d…](https://www.wanttoknow.nl/wetenschap/klimaat/bewijs-grote-schade-zeeleven-door-windmolens/comment-page-1/#comment-626345)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
