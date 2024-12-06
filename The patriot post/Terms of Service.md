@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -207,14 +207,16 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
+*      [Mark Alexander Profiles of Valor: Capt Lance Sijan, USAF](https://patriotpost.us/alexander/112540-profiles-of-valor-capt-lance-sijan-usaf-2024-12-06)
+*      [The Babylon Bee 75% of Elves Laid Off After Elon Musk Visits North Pole](https://patriotpost.us/opinion/112606-75-percent-of-elves-laid-off-after-elon-musk-visits-north-pole-2024-12-06)
 *      [Josh Hammer In Transgender Case, Can SCOTUS Cut to the Moral Heart of the Issue?](https://patriotpost.us/opinion/112593-in-transgender-case-can-scotus-cut-to-the-moral-heart-of-the-issue-2024-12-06)
-*      [Victor Davis Hanson What the Trump nominees have not done — And will not do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
+*      [Victor Davis Hanson What The Trump Nominees Have Not Done — And Will Not Do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
 *      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
 *      [Erick Erickson The Problemed Nominee](https://patriotpost.us/opinion/112590-the-problemed-nominee-2024-12-06)
 *      [David Harsanyi The Biden Crime Family Is Above the Law](https://patriotpost.us/opinion/112589-the-biden-crime-family-is-above-the-law-2024-12-06)
 *      [Michael Barone Politics of Economic Redistribution, RIP](https://patriotpost.us/opinion/112588-politics-of-economic-redistribution-rip-2024-12-06)
 *      [Gary Bauer Cautiously Optimistic](https://patriotpost.us/opinion/112587-cautiously-optimistic-2024-12-06)
-*      [The Babylon Bee Trump Announces Plan to Annex Canada and Rename It ‘Gay North Dakota’](https://patriotpost.us/opinion/112577-trump-announces-plan-to-annex-canada-and-rename-it-gay-north-dakota-2024-12-05)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +230,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
