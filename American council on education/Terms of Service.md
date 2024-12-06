@@ -143,7 +143,7 @@ Contact Public Affairs
 
 * * *
 
-[Government Relations Staff](https://www.acenet.edu/Policy-Advocacy/Pages/GR-Staff.aspx)[Advocacy Library](https://www.acenet.edu/Pages/Advocacy-Documents.aspx)[2024 Policy Agenda](https://www.acenet.edu/News-Room/Pages/ACE-2024-Policy-Agenda.aspx)
+[Government Relations Staff](https://www.acenet.edu/Policy-Advocacy/Pages/GR-Staff.aspx)[Advocacy Library](https://www.acenet.edu/Pages/Advocacy-Documents.aspx)[2025 Policy Agenda](https://www.acenet.edu/News-Room/Pages/Legislative-Regulatory-Agenda.aspx)
 
 [Membership & Advancement](https://www.acenet.edu/Membership-Advancement)
 
