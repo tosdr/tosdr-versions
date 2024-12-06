@@ -41,7 +41,7 @@ Menu
         5. [**Harvard Faculty of Arts and Sciences**](https://www.fas.harvard.edu/)
         6. [**Harvard Kenneth C. Griffin Graduate School of Arts and Sciences**](https://gsas.harvard.edu/)
         7. [**Harvard Graduate School of Design**](https://www.gsd.harvard.edu/)
-        8. [**Harvard Graduate School of Education**](https://gse.harvard.edu/)
+        8. [**Harvard Graduate School of Education**](https://www.gse.harvard.edu/)
         9. [**Harvard John A. Paulson School of Engineering and Applied Sciences**](https://www.seas.harvard.edu/)
         10. [**Harvard Kennedy School**](https://www.hks.harvard.edu/)
         11. [**Harvard Law School**](https://hls.harvard.edu/)
@@ -74,7 +74,7 @@ Menu
         9. [**Fine Arts Library**](https://library.harvard.edu/libraries/fine-arts)
         10. [**Frances Loeb Library**](https://www.gsd.harvard.edu/frances-loeb-library/)
         11. [**Fung Library**](https://library.harvard.edu/libraries/fung)
-        12. [**Gutman Library**](https://gse.harvard.edu/community/library)
+        12. [**Gutman Library**](https://www.gse.harvard.edu/community/library)
         13. [**Harvard Divinity School Library**](https://library.hds.harvard.edu/)
         14. [**Harvard Film Archive**](https://harvardfilmarchive.org/)
         15. [**Harvard Law School Library**](https://hls.harvard.edu/library/)
@@ -209,9 +209,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**8 Harvard students named Rhodes Scholars** 5 in U.S. class, most for any institution, joined by 3 international recipients](https://news.harvard.edu/gazette/story/2024/11/8-harvard-students-named-rhodes-scholars/)
+        1. [**Score another point for the plants** Study finds 1:2 ratio of plant to animal protein lowers risk of heart disease](https://news.harvard.edu/gazette/story/2024/12/higher-plant-to-animal-protein-ratio-improves-heart-health/)
         2. [**Rhodes scholars share their Oxford ambitions**   8 students to pursue social, political, computational sciences](https://news.harvard.edu/gazette/story/2024/11/rhodes-scholars-share-their-oxford-ambitions/)
-        3. [**What Trump got right** Kellyanne Conway, president-elect’s 2016 campaign manager and former senior adviser, discusses election, what comes next](https://news.harvard.edu/gazette/story/2024/11/what-trump-got-right/)
+        3. [**How China tariffs could backfire on U.S.** Economists say there could be unintended consequences, including higher prices, supply chain disruptions, and possibly opening door to improving Beijing’s ties to American allies](https://news.harvard.edu/gazette/story/2024/12/how-china-tariffs-could-backfire-on-u-s/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
