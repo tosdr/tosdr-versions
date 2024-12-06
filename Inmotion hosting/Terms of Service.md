@@ -174,6 +174,12 @@ We take a proactive approach to responding to security threats and issues. In th
 
 [Read about our Incident Response](https://www.inmotionhosting.com/privacy/incident-response/)
 
+### SOC/ISO Report Requests
+
+Use this form to request SOC or ISO reports. These reports give our customers and their auditors an understanding of how we manage and support security, operations and compliance.
+
+[Submit a SOC/ISO Request](https://www.inmotionhosting.com/legal/soc-report-request-form/)
+
 ### Personal Data Requests
 
 Your data privacy is important, and we are committed to help you manage your personal information maintained by us. Customers can request access to, correction of, or deletion of their personal data in line with data protection laws.
