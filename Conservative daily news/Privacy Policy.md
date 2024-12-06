@@ -1,7 +1,8 @@
-Thursday, December 5 2024
+Friday, December 6 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
 * [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
 * [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
 * [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
@@ -9,7 +10,6 @@ Breaking News
 * [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
 * [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
 * [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
-* [US Steelmakers Back Trump’s Tariff Plans Amid Steep Foreign Competition](https://www.conservativedailynews.com/2024/12/us-steelmakers-back-trumps-tariff-plans-amid-steep-foreign-competition/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,12 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Biden-Lost-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
+    
+    December 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-kavahegs-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
     
     [By The Book](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
@@ -172,25 +178,19 @@ Recent Posts
     
     December 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/Head-Up-Ass-150x150.jpg)](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
-    
-    [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
-    
-    December 5, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Skilled Assassin or Lucky Killer? LE and Experienced Shooters Aren’t Sure](https://www.thegunpage.com/skilled-assassin-or-lucky-killer-le-and-experienced-shooters-arent-sure/10612321)
+* [WATCH: Labradar LX Compact Shooting Chronograph](https://www.thegunpage.com/watch-labradar-lx-compact-shooting-chronograph/10612309)
+* [Best Hunting Shotguns For Every Hunter](https://www.thegunpage.com/best-hunting-shotguns-for-every-hunter/10612319)
+* [POTD: Kenya Defence Forces With FN SCAR](https://www.thegunpage.com/potd-kenya-defence-forces-with-fn-scar/10612320)
+* [Concealed Carry Corner: Gift Ideas For Concealed Carriers](https://www.thegunpage.com/concealed-carry-corner-gift-ideas-for-concealed-carriers/10612317)
+* [A Closer Look At The Murder Of Brian Thompson](https://www.thegunpage.com/a-closer-look-at-the-murder-of-brian-thompson/10612318)
 * [Hawke Adds Frontier 30 FD L4A and LRX Optics](https://www.thegunpage.com/hawke-adds-frontier-30-fd-l4a-and-lrx-optics/10612315)
 * [Doctors’ Voices Could Be Loudest Ones Yet in Move to Deregulate Suppressors](https://www.thegunpage.com/doctors-voices-could-be-loudest-ones-yet-in-move-to-deregulate-suppressors/10612310)
 * [Beretta Launches A300 Ultima Snow Goose](https://www.thegunpage.com/beretta-launches-a300-ultima-snow-goose/10612316)
 * [New Jersey Police May Be Required To Alert Feds When Illegal Immigrants Apply For Gun Permits](https://www.thegunpage.com/new-jersey-police-may-be-required-to-alert-feds-when-illegal-immigrants-apply-for-gun-permits/10612305)
-* [New Details About the Magpul x ZEV FMG-9/FDC-9](https://www.thegunpage.com/new-details-about-the-magpul-x-zev-fmg-9-fdc-9/10612307)
-* [Why Hunter Biden’s Pardon is So Infuriating](https://www.thegunpage.com/why-hunter-bidens-pardon-is-so-infuriating/10612303)
-* [TFB Behind the Gun #143 Silver Screen Wheel Guns w/ Sam & Hop](https://www.thegunpage.com/tfb-behind-the-gun-143-silver-screen-wheel-guns-w-sam-hop/10612308)
-* [Michigan Gun Owners Under Increased Fire This Week](https://www.thegunpage.com/michigan-gun-owners-under-increased-fire-this-week/10612301)
-* [Unified Effort By Military And Civilians To Advance Marksmanship: 1962 National Matches](https://www.thegunpage.com/unified-effort-by-military-and-civilians-to-advance-marksmanship-1962-national-matches/10612300)
-* [Battle At The Peak: USPSA Colorado State Championship Beats Weather Again](https://www.thegunpage.com/battle-at-the-peak-uspsa-colorado-state-championship-beats-weather-again/10612299)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
