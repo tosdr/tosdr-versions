@@ -161,7 +161,6 @@ Lots of things can happen. We're not responsible.
 * [Pricing](https://ghostpath.com/pricing)
 * [Server Locations](https://ghostpath.com/servers)
 * [VPN Blog](https://ghostpath.com/blog)
-* [VPN Affiliate Program](https://ghostpath.refersion.com/)
 * [VPN Reseller Program](https://ghostpath.com/resellers)
 * [Login to Your Account](https://ghostpath.com/members/login)
 
