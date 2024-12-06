@@ -12,18 +12,18 @@ Get started
 
 [Documents](https://www.tricount.com/documents)
 
-Terms of Use
-============
+Terms & Conditions
+==================
 
 [Documents](https://www.tricount.com/documents)
 
-Terms of Use
-============
+Terms & Conditions
+==================
 
 [Documents](https://www.tricount.com/documents)
 
-Terms of Use
-============
+Terms & Conditions
+==================
 
 Title
 
@@ -395,7 +395,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)
+[Privacy](https://www.tricount.com/)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
@@ -421,7 +421,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)
+[Privacy](https://www.tricount.com/)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
@@ -447,7 +447,7 @@ Company
 
 Cookie Settings
 
-[Privacy](https://www.tricount.com/en/privacy)
+[Privacy](https://www.tricount.com/)
 
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
