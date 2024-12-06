@@ -15,15 +15,25 @@ Get started
 Terms & Conditions
 ==================
 
-[Documents](https://www.tricount.com/documents)
-
-Terms & Conditions
-==================
+Read the terms designed to keep your Tricount experience secure, simple, and stress-free.
 
 [Documents](https://www.tricount.com/documents)
 
 Terms & Conditions
 ==================
+
+Read the terms designed to keep your Tricount experience secure, simple, and stress-free.
+
+[Documents](https://www.tricount.com/documents)
+
+Terms & Conditions
+==================
+
+Read the terms designed to keep your Tricount experience secure, simple, and stress-free.
+
+[![Download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://static.bunq.com/framer/documents/tricount/Terms-Conditions-EN-20240827.pdf "Download File")
+
+[![Download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://static.bunq.com/framer/documents/tricount/Terms-Conditions-EN-20240827.pdf "Download File")
 
 Title
 
