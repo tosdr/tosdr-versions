@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 172 utilisateurs actifs
+##### 598 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Vivaldi, un autre navigateur qui révolutionne la navigation internet !](https://lecrabeinfo.net/vivaldi-un-autre-navigateur-qui-revolutionne-la-navigation-internet.html)
 * [Microsoft autorise Windows 11 sur les PC non compatibles, mais ce n'est pas sans risques](https://lecrabeinfo.net/microsoft-autorise-linstallation-de-windows-11-sur-les-pc-non-compatibles-mais-ce-nest-pas-sans-risques.html)
 * [Avec 24H2, Microsoft insiste encore plus sur la migration vers Windows 11](https://lecrabeinfo.net/avec-24h2-microsoft-insiste-encore-plus-sur-la-migration-vers-windows-11.html)
-* [Retour de MSN : Microsoft dévoile un logo tout neuf et met fin à "Microsoft Start"](https://lecrabeinfo.net/retour-de-msn-microsoft-devoile-un-logo-tout-neuf-et-met-fin-a-microsoft-start.html)
 
 ### Tendance
 
