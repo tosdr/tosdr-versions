@@ -16,6 +16,7 @@ Pinnalla nyt
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
 * [Linnan juhlat](https://yle.fi/t/18-362652/fi)
+* [Urheilustudio](https://yle.fi/a/74-20129682)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
