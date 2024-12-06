@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3/20241206T125537/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3/20241206T125537/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
         
         #### [Damage from bomb cyclone wind storm nearing $20 million in Snohomish County](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
-        
-    *  [![](https://media.king5.com/assets/KING/images/f6f71264-7852-42a0-b8c9-a08146734397/20241206T022555/f6f71264-7852-42a0-b8c9-a08146734397_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6f71264-7852-42a0-b8c9-a08146734397/20241206T022555/f6f71264-7852-42a0-b8c9-a08146734397_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+38°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
