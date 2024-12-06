@@ -123,12 +123,9 @@ TV & Streaming
 
 * [Programme TV](https://www.rts.ch/programme-tv/)
 
-### Streaming
-
 [](https://www.rts.ch/play)
 
 * [Replay émissions](https://www.rts.ch/play/tv/emissions)
-* [En direct](https://www.rts.ch/play/tv/direct)
 * [Séries & films](https://www.rts.ch/play/tv/categories/series-et-films)
 * [Documentaires](https://www.rts.ch/play/tv/categories/documentaires)
 * [Humour](https://www.rts.ch/play/tv/categories/humour)
@@ -146,13 +143,13 @@ Audio
 * [Émissions radio](https://www.rts.ch/audio/emissions/)
 * [Podcasts](https://www.rts.ch/audio-podcast/emissions/podcasts-originaux/)
 
-[Les directs](https://www.rts.ch/audio-podcast/)
+Les directs[](https://www.rts.ch/audio-podcast/)
 
 [](https://www.rts.ch/entreprise/ "RTS Entreprise")
 
 [](https://www.rts.ch/entreprise/ "RTS Entreprise")
 
-MENU
+Navigation
 
 * [Accueil](https://www.rts.ch/entreprise/)
 * [ ]  Qui nous sommes
