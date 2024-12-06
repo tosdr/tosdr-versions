@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 5, 2024**
+**December 6, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* ['Zip Code' Draws Killer T Cells to Brain Tumors](https://www.sciencedaily.com/releases/2024/12/241205184621.htm)
+* [Cause of Global Warming Surge: Change in Clouds](https://www.sciencedaily.com/releases/2024/12/241205184615.htm)
+* [Why We're Here](https://www.sciencedaily.com/releases/2024/12/241205184326.htm)
+* [Hummingbirds Evolved Surprisingly Flexible Bills](https://www.sciencedaily.com/releases/2024/12/241205184323.htm)
 * [Pregnancy, Nursing: 2X Intestinal Surface Area](https://www.sciencedaily.com/releases/2024/12/241205142959.htm)
 * [Prehistoric Archery from 7,000 Years Ago](https://www.sciencedaily.com/releases/2024/12/241205142749.htm)
 * [H5N1 'Bird Flu' Transmission in Humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm)
 * [18 of 19 NHL Players Had CTE](https://www.sciencedaily.com/releases/2024/12/241204113518.htm)
 * [Tyrannosaurs Once Roamed East Sussex, England](https://www.sciencedaily.com/releases/2024/12/241205142905.htm)
 * [How Universe's Giant Galaxies Formed](https://www.sciencedaily.com/releases/2024/12/241204113515.htm)
-* [How Did Human Brains Get So Big?](https://www.sciencedaily.com/releases/2024/12/241203154642.htm)
-* [Culture and Emotional Experience in Humans](https://www.sciencedaily.com/releases/2024/12/241204113643.htm)
-* [Recovery from Trauma](https://www.sciencedaily.com/releases/2024/12/241204113527.htm)
-* [Manta Rays Inspire Fast Swimming Soft Robot](https://www.sciencedaily.com/releases/2024/12/241204145135.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
+[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+
 [Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
-
-[Dementia](https://www.sciencedaily.com/news/mind_brain/dementia/)
-
-[Genes](https://www.sciencedaily.com/news/health_medicine/genes/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,15 +240,15 @@ this week
 
 [Solar Energy](https://www.sciencedaily.com/news/matter_energy/solar_energy/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+
 [Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Bacteria](https://www.sciencedaily.com/news/plants_animals/bacteria/)
-
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
   
 
