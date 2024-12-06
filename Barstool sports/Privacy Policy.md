@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Surviving Barstool](https://www.barstoolsports.com/video/3533046/surviving-barstool-s4-ep.-2-or-no-one-is-safe-with-survival-at-stake)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3533135/surviving-barstool-s4-ep.-3-or-shocking-betrayal-rocks-the-tribes)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Barstool Store NEW ARRIVALS](https://store.barstoolsports.com/collections/new-arrivals)
