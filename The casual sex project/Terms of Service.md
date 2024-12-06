@@ -90,19 +90,19 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/georgetown-university.jpg)[](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/protecting-the-liberal-arts-and-humanities-in-american-higher-education.jpg)[](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/ "Read More")
 
-Issue Brief Education, Governance
+Report Education Higher Ed
 
-Dec 03 2024
+Dec 05 2024
 
-Issue Brief Education, Governance
+Report Education Higher Ed
 
-Dec 03 2024
+Dec 05 2024
 
-### [Model Legislation to Track Foreign Funds to American Universities](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
+### [Protecting the Liberal Arts and Humanities in American Higher Education](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
 
-By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
+By **[Shannon Watkins](https://admin.mi52siterestore.com/person/shannon-watkins/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/donald-trump-vice-voters.jpg)[](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/ "Read More")
 
@@ -113,6 +113,16 @@ Dec 04 2024
 [What Will Trump Do for ‘Vice Voters’?](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/georgetown-university.jpg)[](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/ "Read More")
+
+Issue Brief Education, Governance
+
+Dec 03 2024
+
+[Model Legislation to Track Foreign Funds to American Universities](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
+
+By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids.jpg)[](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/ "Read More")
 
@@ -133,16 +143,6 @@ Dec 03 2024
 [Biden’s Midnight Spending Binge](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
 
 By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker-1.jpg)[](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/ "Read More")
-
-Commentary Cities, Public Safety New York, New York City, Children & Family
-
-Dec 01 2024
-
-[NYC Puts Social Justice over Child Safety with Deadly Results: ACS Caseworker](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
-
-By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **1 min** [Read More](https://admin.mi52siterestore.com/article/nyc-puts-social-justice-over-child-safety-with-deadly-results-acs-caseworker/)
 
 Our Policy Areas
 ----------------
