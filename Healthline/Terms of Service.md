@@ -6,7 +6,6 @@
     
     [All](https://www.healthline.com/directory/topics)
     
-    * [Anxiety and Depression](https://www.healthline.com/mental-health)
     * [Breast Cancer](https://www.healthline.com/breast-cancer)
     * [Cancer Care](https://www.healthline.com/cancer-care)
     * [Caregiving for Alzheimer's Disease](https://www.healthline.com/alzheimers-disease)
@@ -16,6 +15,7 @@
     * [Eye Health](https://www.healthline.com/eye-health)
     * [Heart Health](https://www.healthline.com/heart-health)
     * [Menopause](https://www.healthline.com/menopause)
+    * [Mental Health](https://www.healthline.com/mental-health)
     * [Migraine](https://www.healthline.com/migraine)
     * [Multiple Sclerosis (MS)](https://www.healthline.com/multiple-sclerosis)
     * [Psoriasis](https://www.healthline.com/psoriasis)
@@ -30,19 +30,16 @@
     
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_controlling-ulcerative-colitis-236x236_360.png)
         
-        Controlling Ulcerative Colitis
-        
-        Take back your life](https://www.healthline.com/program/controlling-uc)
+        Controlling Ulcerative Colitis](https://www.healthline.com/program/controlling-uc)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_navigating-life-with-biopolar-236x236-1.png)
         
-        Navigating Life with Bipolar Disorder
+        Navigating Life with Bipolar Disorder](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_mastering-your-geographic-atrophy-236x236_360.png)
         
-        You’re not alone](https://www.healthline.com/program/navigating-life-with-bipolar-disorder)
+        Mastering Geographic Atrophy (GA)](https://www.healthline.com/program/mastering-your-geographic-atrophy-care)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_managing-type-2-diabetes-236x236-1.png)
         
-        Managing Type 2 Diabetes
-        
-        Food, fitness, and glucose management](https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness)
+        Managing Type 2 Diabetes](https://www.healthline.com/program/managing-type-2-diabetes-with-food-and-fitness)
     
 * Wellness
     
@@ -52,7 +49,7 @@
     
     * [CBD](https://www.healthline.com/cbd)
     * [Fitness](https://www.healthline.com/fitness)
-    * [Hearing Health](https://www.healthline.com/hearing-health)
+    * [Hearing](https://www.healthline.com/hearing-health)
     * [Mental Well-Being](https://www.healthline.com/mental-health)
     * [Nutrition](https://www.healthline.com/nutrition)
     * [Parenthood](https://www.healthline.com/parenthood)
@@ -81,24 +78,16 @@
     
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_your-eczema-skincare-roadmap-236x236_360.png)
         
-        Your Eczema Skin Care Roadmap
-        
-        Resources for symptom prevention and relief](https://www.healthline.com/program/your-eczema-skin-care-roadmap)
+        Your Eczema Skin Care Roadmap](https://www.healthline.com/program/your-eczema-skin-care-roadmap)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_understanding-inflammation-and-aging-236x236_360.png)
         
-        Understanding Inflammation and Aging
-        
-        Your healthy aging guide](https://www.healthline.com/program/understanding-inflammation-and-aging)
+        Inflammation and Aging](https://www.healthline.com/program/understanding-inflammation-and-aging)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons-_cold-and-flu-236x236_360.png)
         
-        Cold & Flu Season Survival Guide
-        
-        A roadmap for you to beat the cold and flu](https://www.healthline.com/program/cold-flu-survival-guide)
+        Cold & Flu Season Survival Guide](https://www.healthline.com/program/cold-flu-survival-guide)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/12/navigation-icons_shes-good-for-real-236x236-1.png)
         
-        She’s Good for Real
-        
-        Meaningful holistic health care for Black women](https://www.healthline.com/program/shes-good-for-real)
+        She’s Good for Real](https://www.healthline.com/program/shes-good-for-real)
     
 * Tools
     
@@ -109,7 +98,7 @@
     * [FindCare](https://care.healthline.com/find-care)
     * [Drugs A-Z](https://www.healthline.com/drugs)
     
-    ### Healthline Lessons
+    ### Lessons
     
     [All](https://learn.healthline.com/)
     
@@ -123,7 +112,7 @@
     
     [All](https://www.healthline.com/newsletter-signup)
     
-    * [Anxiety and Depression](https://www.healthline.com/newsletter-anxiety-depression-personalization)
+    * [Anxiety and Depression](https://www.healthline.com/newsletter-signup/anxiety-and-depression)
     * [Digestive Health](https://www.healthline.com/newsletter-signup/ibd)
     * [Heart Health](https://www.healthline.com/newsletter-signup/heart-health)
     * [Migraine](https://www.healthline.com/newsletter-signup/migraine)
