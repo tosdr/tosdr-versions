@@ -18,6 +18,7 @@ New orders are expected to ship by
     
     * [Bottles](https://www.lttstore.com/bottles)
     * [Deskpads](https://www.lttstore.com/deskpads)
+    * [Electronic Accessories](https://www.lttstore.com/collections/electronic-accessories)
     * [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing)
     * [Other](https://www.lttstore.com/other-gear)
     * [Screwdrivers](https://www.lttstore.com/collections/screwdrivers)
@@ -66,7 +67,7 @@ Sign in
 * [Home](https://www.lttstore.com/)
 * [Gear](https://www.lttstore.com/collections/accessories)
     
-    [Bags](https://www.lttstore.com/bags) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing) [Other](https://www.lttstore.com/other-gear)
+    [Bags](https://www.lttstore.com/bags) [Bottles](https://www.lttstore.com/bottles) [Deskpads](https://www.lttstore.com/deskpads) [Electronic Accessories](https://www.lttstore.com/collections/electronic-accessories) [Magnetic Cable Management](https://www.lttstore.com/collections/mcm-landing) [Other](https://www.lttstore.com/other-gear)
     
     [![Collection Image](//www.lttstore.com/cdn/shop/collections/Header_Banner.png?v=1732510672&width=400)
     
