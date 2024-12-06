@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
+* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
+* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
+* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
-* [Alkoholfreier Sekt: Prosten ohne Promille kommt in Mode](https://www.test.de/Alkoholfreier-Sekt-Prosten-ohne-Promille-kommt-in-Mode-6178742-0/ "Alkoholfreier Sekt - Prosten ohne Promille kommt in Mode")
-* [Diät­konzepte im Test: Welche Diät beim Abnehmen hilft](https://www.test.de/Diaetkonzepte-im-Test-Welche-Diaet-beim-Abnehmen-hilft-6072458-0/ "Diätkonzepte im Test - Welche Diät beim Abnehmen hilft")
-* [Saft­konzentrat im Test: Nicht alle kriegen Frucht­saft hin](https://www.test.de/saftkonzentrat-im-test-6013457-0/ "Saftkonzentrat im Test - Nicht alle kriegen Fruchtsaft hin")
-* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
+* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
+* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
+* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
+* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
+* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
+* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
 
 Stiftung Warentest
 
