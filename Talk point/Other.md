@@ -1,10 +1,10 @@
 [Zu Inhalt springen](#site-main)
 
-[](https://www.twitch.tv/talkpointgmbh)
+[](https://www.instagram.com/talk_point_gmbh/)
 
-LIVE ab 11 Uhr | 📦💨Versandkosten sparen!!!
+ab 11-12 Uhr | 📦💨Versandkosten sparen!!! Instagram Story
 
-LIVE ab 11 Uhr | 📦💨Versandkosten sparen!!!
+ab 11-12 Uhr | 📦💨Versandkosten sparen!!! Instagram Story
 
 Menü
 
