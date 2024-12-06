@@ -8,7 +8,7 @@ Search
 
 * [Products](https://embedsocial.com/ "Products")
     
-    [GBP SoftwareGoogle business profile management](https://embedsocial.com/gbp/)
+    [**GBP Software** ↗Google business profile management](https://embedsocial.com/gbp/)
     
     * [GBP API Access](https://embedsocial.com/gbp/api/ "GBP API Access")
     * [GBP Business Hours Management](https://embedsocial.com/blog/change-business-hours-on-google/ "GBP Business Hours Management")
@@ -18,17 +18,17 @@ Search
     
     [FeedlinkPersonal website builder](https://feed.link/)
     
-    [EmbedFeedUGC Social media aggregator](https://embedsocial.com/social-media-aggregator/)
+    [**UGC Platform** ↗UGC Social media aggregator](https://embedsocial.com/ugc/)
     
-    * [Shoppable Feed](https://embedsocial.com/social-media-aggregator/shop/ "Shoppable Feed")
-    * [Hashtag Walls](https://embedsocial.com/instagram-hashtag-feed/ "Hashtag Walls")
-    * [Moderation](https://embedsocial.com/social-media-aggregator/moderation/ "Moderation")
+    * [Social Commerce](https://embedsocial.com/ugc/social-commerce/ "Social Commerce")
+    * [Social Media Aggregator](https://embedsocial.com/social-media-aggregator/ "Social Media Aggregator")
     * [Social Media Publishing](https://embedsocial.com/social-media-publishing/ "Social Media Publishing")
-    * [Rights Management](https://embedsocial.com/blog/ugc-rights-management/ "Rights Management")
     * [Social Media Widgets](https://embedsocial.com/p/templates/feed "Social Media Widgets")
-    * [Embed Facebook Albums](https://embedsocial.com/facebook-albums/ "Embed Facebook Albums")
+    * [UGC Analytics](https://embedsocial.com/ugc/analytics/ "UGC Analytics")
+    * [UGC Rights Management](https://embedsocial.com/blog/ugc-rights-management/ "UGC Rights Management")
+    * [Moderation](https://embedsocial.com/social-media-aggregator/moderation/ "Moderation")
     
-    [EmbedReviewsReviews management](https://embedsocial.com/products/reviews/)
+    [**Reviews Platform** ↗Reviews management](https://embedsocial.com/products/reviews/)
     
     * [Display Reviews](https://embedsocial.com/display-reviews/ "Display Reviews")
     * [AI Reviews](https://embedsocial.com/ai-reviews/ "AI Reviews")
@@ -38,18 +38,15 @@ Search
     * [Request Emails + SMS](https://embedsocial.com/products/reviews/email/ "Request Emails + SMS")
     * [Google Posts Scheduler](https://embedsocial.com/google-posts-scheduler/ "Google Posts Scheduler")
     
-    [EmbedStoriesInstagram stories platform](https://embedsocial.com/stories/)
+    New: Bundle
     
-    * [Analytics](https://embedsocial.com/stories/analytics/ "Analytics")
-    * [Highlights](https://embedsocial.com/stories/highlights/ "Highlights")
-    * [Story Ads](https://embedsocial.com/stories/ads/ "Story Ads")
-    * [Bookends](https://embedsocial.com/stories/bookends/ "Bookends")
+    UGC and Reviews platform for only $64/month
     
-    [BundleAll products for $64/month](https://embedsocial.com/bundle/)
+    [Explore](https://embedsocial.com/bundle/)
     
 * [Widgets](https://embedsocial.com/widgets/ "Widgets")
     
-    Tutorials & IntegrationsEmbed widgets in web builders
+    [**Integrations ↗**Embed widgets in web builders](https://embedsocial.com/integrations/)
     
     * [WordPress](https://embedsocial.com/instagram-widget/wordpress/ "WordPress")
     * [Shopify](https://embedsocial.com/instagram-widget/shopify/ "Shopify")
@@ -59,34 +56,35 @@ Search
     * [Webflow](https://embedsocial.com/instagram-widget/webflow/ "Webflow")
     * [Weebly](https://embedsocial.com/instagram-widget/weebly/ "Weebly")
     * [Wix](https://embedsocial.com/instagram-widget/wix/ "Wix")
-    * [All Integrations](https://embedsocial.com/integrations/ "All Integrations")
     
     Free widgets
     
-    * [Google Reviews Badge](https://embedsocial.com/google-reviews-badge/ "Google Reviews Badge")
     * [Free Instagram Stories Widget](https://embedsocial.com/free-instagram-stories-widget/ "Free Instagram Stories Widget")
     * [Free Instagram Feed Widget](https://embedsocial.com/free-instagram-widget/ "Free Instagram Feed Widget")
     * [Free Social Media Aggregator](https://embedsocial.com/products/free-social-media-aggregator/ "Free Social Media Aggregator")
     * [Free Google Reviews Widget](https://embedsocial.com/free-google-reviews-widget/ "Free Google Reviews Widget")
     
-    [Reviews widgetsReviews management](https://embedsocial.com/products/reviews/)
+    [**Reviews widgets ↗**Reviews management](https://embedsocial.com/products/reviews/)
     
     *  [![google icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![google icon](https://embedsocial.com/wp-content/uploads/2021/12/google-icon-36x36.png)Google Reviews Widget](https://embedsocial.com/google-reviews-widget/ "Google Reviews Widget")
+    * [![google reviews](https://embedsocial.com/wp-content/uploads/2021/04/google-logo-icon.svg)Google Reviews Badges](https://embedsocial.com/google-reviews-badge/ "Google Reviews Badges")
+    * [![google reviews](https://embedsocial.com/wp-content/uploads/2021/04/google-logo-icon.svg)Google Reviews Slider](https://embedsocial.com/google-reviews-slider/ "Google Reviews Slider")
     * [![google reviews](https://embedsocial.com/wp-content/uploads/2021/04/google-logo-icon.svg)Google Reviews NFC Card](https://embedsocial.com/google-reviews-nfc-card/ "Google Reviews NFC Card")
-    *  [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
-        
-        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)Facebook Reviews Widget](https://embedsocial.com/widgets/facebook-reviews/ "Facebook Reviews Widget")
     *  [![Yelp logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
-        ![Yelp logo](https://embedsocial.com/wp-content/uploads/2021/12/yelp-logo-36x36.png)Yelp Reviews Widget](https://embedsocial.com/yelp-reviews/ "Yelp Reviews Widget")
+        ![Yelp logo](https://embedsocial.com/wp-content/uploads/2021/12/yelp-logo-36x36.png)Yelp Reviews](https://embedsocial.com/yelp-reviews/ "Yelp Reviews")
+    *  [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
+        
+        ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)Facebook Reviews](https://embedsocial.com/widgets/facebook-reviews/ "Facebook Reviews")
     *  [![Reviews badges by EmbedSocial](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![Reviews badges by EmbedSocial](https://embedsocial.com/wp-content/uploads/2023/10/reviews-badge-embedsocial-36x36.png)Reviews Badges](https://embedsocial.com/reviews-badges/ "Reviews Badges")
     *  [![sms reviews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![sms reviews](https://embedsocial.com/wp-content/uploads/2021/12/sms-reviews-36x36.png)Email Reviews](https://embedsocial.com/email-reviews/ "Email Reviews")
+    * [![upload bulk reviews](https://embedsocial.com/wp-content/uploads/2021/02/import.svg)Import Reviews](https://embedsocial.com/help/en/articles/3871877-how-to-import-reviews "Import Reviews")
     *  [![shopify icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![shopify icon](https://embedsocial.com/wp-content/uploads/2021/12/shopify-icon-36x36.png)Shopify Reviews](https://embedsocial.com/verified-reviews/ "Shopify Reviews")
@@ -98,9 +96,10 @@ Search
         ![EmbedForms logo icon](https://embedsocial.com/wp-content/uploads/2022/01/forms-icon-36x36.png)Collect Reviews Forms](https://embedsocial.com/products/reviews/forms/ "Collect Reviews Forms")
     *  [![Trustpilot icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2035'%3E%3C/svg%3E)
         
-        ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews Widget](https://embedsocial.com/trustpilot-reviews-widget/ "Trustpilot Reviews Widget")
+        ![Trustpilot icon](https://embedsocial.com/wp-content/uploads/2024/10/trustpilot-logo-icon.png)Trustpilot Reviews](https://embedsocial.com/trustpilot-reviews-widget/ "Trustpilot Reviews")
+    * [![Tripadvisor logo](https://embedsocial.com/wp-content/uploads/2024/12/tripadvisor-logo.svg)Tripadvisor Reviews](https://embedsocial.com/help/en/articles/7986509-how-to-import-and-embed-tripadvisor-reviews "Tripadvisor Reviews")
     
-    [Feed widgetsSocial media aggregator](https://embedsocial.com/social-media-aggregator/)
+    [**Feed widgets ↗**Social media aggregator](https://embedsocial.com/social-media-aggregator/)
     
     * [Shoppable Widget](https://embedsocial.com/shoppable-widget/ "Shoppable Widget")
     *  [![LinkedIn Widget](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
@@ -115,10 +114,10 @@ Search
     *  [![Instagram widget logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![Instagram widget logo](https://embedsocial.com/wp-content/uploads/2024/03/instagram-logo-new.png)Instagram Reels](https://embedsocial.com/instagram-reels-widget/ "Instagram Reels")
+    * [![instagram logo](https://embedsocial.com/wp-content/uploads/2021/07/instagram-logo.svg)Instagram Hashtag Feed](https://embedsocial.com/instagram-hashtag-feed/ "Instagram Hashtag Feed")
     *  [![TikTok Icon](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![TikTok Icon](https://embedsocial.com/wp-content/uploads/2022/01/tiktok-icon-36x36.png)TikTok Feed](https://embedsocial.com/tiktok-widget/ "TikTok Feed")
-    * [![instagram logo](https://embedsocial.com/wp-content/uploads/2021/07/instagram-logo.svg)Instagram Hashtag Feed](https://embedsocial.com/instagram-hashtag-feed/ "Instagram Hashtag Feed")
     *  [![Facebook logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2036%2036'%3E%3C/svg%3E)
         
         ![Facebook logo](https://embedsocial.com/wp-content/uploads/2021/12/facebook-logo-36x36.png)Facebook Feed](https://embedsocial.com/facebook-widget/ "Facebook Feed")
