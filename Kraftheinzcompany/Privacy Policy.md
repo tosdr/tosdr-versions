@@ -407,17 +407,19 @@ E-mail us at [USprivacy@kraftheinz.com](mailto:USprivacy@kraftheinz.com). We wou
 * [![LinkedIn](images/social_linkedin.png)](https://www.linkedin.com/company/the-kraft-heinz-company/)
 * [![Twitter](images/social_twitter.png)](https://twitter.com/KraftHeinzCo)
 
-* [Privacy Policy](https://www.kraftheinzcompany.com/NewPrivacyPolicy.html)
+* [Privacy Policy](https://www.kraftheinz.com/privacy-policy)
 * [User Agreement](https://www.kraftheinzcompany.com/terms.html)
-* [Internet Based Ads](https://www.kraftheinzcompany.com/NewPrivacyPolicy.html#internetads)
+* [Internet Based Ads](https://www.kraftheinz.com/privacy-policy)
+* [Do Not Sell or Share My Personal Information](https://www.kraftheinz.com/privacy-policy#4IgUeOranNwIfErT1vWHSg)
+* [Limit the Use of My Sensitive Personal Information](https://www.kraftheinz.com/privacy-policy#ziVM4o0K571U71956c1VE)
 * [Global Websites](https://www.kraftheinzcompany.com/brands.html)
-* [Contact Us](http://ir.kraftheinzcompany.com/contact-us)
+* [Contact Us](https://ir.kraftheinzcompany.com/resources/contact-us)
 * [Phishing Alert](https://www.kraftheinzcompany.com/alert.html)
 * [EEO](https://www.kraftheinzcompany.com/eeo.html)
 * [Accessibility Assistance](https://www.kraftheinzcompany.com/accessibility.html)
 * [Political Activity](https://www.kraftheinzcompany.com/contributions.html)
 * [California Supply Chain Act](https://www.kraftheinzcompany.com/pdf/Supply_Chain_Transparency_and_Labor_Practices_Disclosures_FINALOct16.pdf)
-* [Do Not Sell My Personal Information](https://www.kraftheinzcompany.com/NewPrivacyPolicy.html#personalinformation)
+* [No Surprises Act Notice](https://www.kraftheinzcompany.com/pdf/NoSurpriseBillingNotice(879514.1).pdf)
 
 © 2024 The Kraft Heinz Company. All rights reserved.
 
