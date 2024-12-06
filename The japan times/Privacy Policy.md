@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,19 @@ Latest News
 
 [Ito-Yokado to reduce headcount of permanent employees by 1,000](https://www.japantimes.co.jp/business/2024/12/06/companies/ito-yokado-headcount-reduce/ "Ito-Yokado to reduce headcount of permanent employees by 1,000")
 
-3 hours ago
+9 hours ago
 
 [Taiwan's Lai says he is 'confident' of deeper cooperation with Trump](https://www.japantimes.co.jp/news/2024/12/06/asia-pacific/politics/taiwan-president-trump-confident/ "Taiwan's Lai says he is 'confident' of deeper cooperation with Trump")
 
-4 hours ago
+9 hours ago
 
 [JR East applies to raise fares by average of 7% in March 2026](https://www.japantimes.co.jp/business/2024/12/06/jr-east-applies-price-hike/ "JR East applies to raise fares by average of 7% in March 2026")
 
-4 hours ago
+10 hours ago
 
 [LDP to hold meeting on social media use in election campaigns](https://www.japantimes.co.jp/news/2024/12/06/japan/politics/ldp-social-media-elections-discussion/ "LDP to hold meeting on social media use in election campaigns")
 
-6 hours ago
-
 [CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes](https://www.japantimes.co.jp/business/2024/12/06/economy/noda-cdp-gradual-boj-hikes/ "CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes")
-
-6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
