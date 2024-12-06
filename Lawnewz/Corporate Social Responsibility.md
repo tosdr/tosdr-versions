@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Popular post image](https://am24.mediaite.com/lc/cnt/uploads/2024/01/Philip-Anschutz-Neil-Gorsuch-432x243.jpg)](https://lawandcrime.com/high-profile/gorsuch-recuses-from-environmental-case-before-scotus-after-alarm-raised-about-cozy-relationship-with-oil-billionaire/)
+1. [![Elena Kagan, on the left; Robert F. Kennedy Jr., in the center; Clarence Thomas, on the right.](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Kagan-RFKJr-Thomas-432x243.jpg)](https://lawandcrime.com/high-profile/very-unusual-thomas-overrides-kagan-in-covid-related-first-amendment-case-where-rfk-jr-serves-as-cocounsel-sends-dispute-to-full-court/)
     
-    ### [Gorsuch recuses from environmental case before SCOTUS after alarm raised about 'cozy relationship' with oil billionaire](https://lawandcrime.com/high-profile/gorsuch-recuses-from-environmental-case-before-scotus-after-alarm-raised-about-cozy-relationship-with-oil-billionaire/)
+    ### ['Very unusual': Thomas overrides Kagan in COVID-related First Amendment case where RFK Jr. serves as cocounsel, sends dispute to full court](https://lawandcrime.com/high-profile/very-unusual-thomas-overrides-kagan-in-covid-related-first-amendment-case-where-rfk-jr-serves-as-cocounsel-sends-dispute-to-full-court/)
     
-2. [![Inset: Kristopher Samaroo (Bri Thomas/Facebook). Background: The NYC apartment where Samaroo was allegedly beaten to death by his landlord and landlord's brother (LLN NYC).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/jeporgfjheroipuhjr-432x243.jpg)](https://lawandcrime.com/crime/landlord-and-brother-killed-tenant-in-front-of-family-during-dispute-over-hot-water-police/)
+2. [![Keith Agee (Escambia County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Keith-Agee-432x243.jpg)](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
     
-    ### [Landlord and brother killed tenant in front of family during dispute over hot water: Police](https://lawandcrime.com/crime/landlord-and-brother-killed-tenant-in-front-of-family-during-dispute-over-hot-water-police/)
+    ### [Bodycam: Deputies arrest man accused of murdering his ex in Home Depot over false STD suspicion](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
     
-3. [![Background: Reggie Brown's family (WUSA/YouTube). Inset: Reggie Brown (Brown family).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Reggie-Brown-and-family-432x243.jpg)](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
+3. [![Inset: Jemma Allen (St. Claire, Missouri Police Dept.). Background: The bank where Allen allegedly ran over a bank worker putting up Christmas lights (Google Maps).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/adsfafadaf-432x243.jpg)](https://lawandcrime.com/crime/woman-accelerated-and-ran-over-bank-worker-putting-up-christmas-lights-because-drive-thru-was-closed-police/)
+    
+    ### [Woman 'accelerated' and ran over bank worker putting up Christmas lights because drive-thru was closed: Police](https://lawandcrime.com/crime/woman-accelerated-and-ran-over-bank-worker-putting-up-christmas-lights-because-drive-thru-was-closed-police/)
+    
+4. [![Dylan Moles faces charges of attempted murder, aggravated battery, domestic battery and strangulation for the alleged attack on his mother (Henry County Sheriff's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Dylan-Moses-432x243.jpg)](https://lawandcrime.com/crime/man-says-he-used-saran-wrap-to-try-and-suffocate-his-mom-because-he-wanted-to-convince-her-that-he-was-not-a-little-boy-and-that-she-couldnt-push-him-around-cops/)
+    
+    ### [Man says he used 'Saran wrap' to try and suffocate his mom because he wanted to 'convince her that he was not a little boy and that she couldn’t push him around': Cops](https://lawandcrime.com/crime/man-says-he-used-saran-wrap-to-try-and-suffocate-his-mom-because-he-wanted-to-convince-her-that-he-was-not-a-little-boy-and-that-she-couldnt-push-him-around-cops/)
+    
+5. [![Background: Reggie Brown's family (WUSA/YouTube). Inset: Reggie Brown (Brown family).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Reggie-Brown-and-family-432x243.jpg)](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
     
     ### ['No sympathy': Teen girl who took selfies after beating homeless man to death with friends tries apologizing to victim's family in court as she learns her fate](https://lawandcrime.com/crime/no-sympathy-teen-girl-who-took-selfies-after-beating-homeless-man-to-death-with-friends-tries-apologizing-to-victims-family-in-court-as-she-learns-her-fate/)
-    
-4. [![Anindita Rao and Sophia Lekiachvili](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Anindita-Rao-and--432x243.jpg)](https://lawandcrime.com/crime/foreseeable-consequence-parents-known-for-having-a-party-house-arrested-for-allowing-teens-to-drink-booze-before-crash-that-killed-friend-prosecutors-say/)
-    
-    ### ['Foreseeable consequence': Parents known for having a 'party house' arrested for allowing teens to drink booze before crash that killed friend, prosecutors say](https://lawandcrime.com/crime/foreseeable-consequence-parents-known-for-having-a-party-house-arrested-for-allowing-teens-to-drink-booze-before-crash-that-killed-friend-prosecutors-say/)
-    
-5. [![Tina Peters in court.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/AP24277837455700-432x243.jpg)](https://lawandcrime.com/high-profile/treat-my-client-as-if-she-were-some-other-poor-person-tina-peters-appeals-contempt-conviction-in-ipad-recording-case-related-to-unauthorized-voting-machine-access-prosecution/)
-    
-    ### ['Treat my client as if she were some other poor person': Tina Peters appeals contempt conviction in iPad recording case related to unauthorized voting machine access prosecution](https://lawandcrime.com/high-profile/treat-my-client-as-if-she-were-some-other-poor-person-tina-peters-appeals-contempt-conviction-in-ipad-recording-case-related-to-unauthorized-voting-machine-access-prosecution/)
     
 
 [](http://eepurl.com/c89Jdb)
