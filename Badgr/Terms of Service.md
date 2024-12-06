@@ -185,7 +185,7 @@ Main
         
         [Canvas Studio](https://info.badgr.com/higher-education/products/canvas/canvas-studio)
         
-        [Canvas Credentials](https://info.badgr.com/higher-education/products/canvas/canvas-credentials/request-demo)
+        [Canvas Credentials](https://info.badgr.com/higher-education/products/canvas/canvas-credentials)
         
         Higher Education Solutions
         
@@ -300,6 +300,8 @@ Main
         [Ebooks & Buyer's Guides](https://info.badgr.com/resources/ebooks)
         
         [Infographics](https://info.badgr.com/resources/infographic)
+        
+        [InstructureCast](https://info.badgr.com/resources/instructurecast)
         
         [Research](https://info.badgr.com/resources/research)
         
