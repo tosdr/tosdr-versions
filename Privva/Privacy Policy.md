@@ -58,7 +58,7 @@ LOGIN Smarsh Central Connected Archive Professional Archive Vendor Risk Manageme
     
     [Smarsh Central](https://central.smarsh.com/s/)
     
-* [Company](https://www.privva.com/about-us/) [](#)
+* [Company](https://www.privva.com/about-us) [](#)
     
     [About Us](https://www.smarsh.com/about-us)
     
@@ -76,7 +76,7 @@ LOGIN Smarsh Central Connected Archive Professional Archive Vendor Risk Manageme
     
 
 Privacy Policy
---------------
+==============
 
 _\*Effective Date: February 21, 2024_
 
@@ -779,7 +779,7 @@ One Canada Square, Level 39 - London, E14 5AB
 * [Regulations & Laws](https://www.privva.com/compliance-regulations-and-laws/)
 * [Blog](https://www.smarsh.com/blog/)
 * [Product Spotlight](https://www.smarsh.com/product-spotlight/)
-* [Videos](https://www.privva.com/videos/)
+* [Videos](https://www.privva.com/videos-podcasts)
 * [All Resources](https://www.smarsh.com/all-resources/)
 
 ##### SUPPORT
