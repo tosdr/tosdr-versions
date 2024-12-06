@@ -1,6 +1,6 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-ECcZ/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-Qukw/)
 
-[Home](https://ytmp3.cc/en-ECcZ/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
+[Home](https://ytmp3.cc/en-Qukw/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)
 
 Privacy Policy
 ==============
