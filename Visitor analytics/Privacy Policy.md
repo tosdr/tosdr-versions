@@ -65,7 +65,7 @@
     
     * [Success Stories](https://www.visitor-analytics.io/en/success-stories "Success Stories")
         * [Technical University Munich](https://www.visitor-analytics.io/en/success-stories/technical-university-of-munich)
-        * [Gomag](https://www.visitor-analytics.io/en/gomag)
+        * [Gomag](https://www.visitor-analytics.io/en/success-stories/gomag)
     * [Privacy](https://www.visitor-analytics.io/en/privacy "Privacy")
     * [Glossary](https://www.visitor-analytics.io/en/glossary "Glossary")
     * [Guides](https://www.visitor-analytics.io/en/guides "Guides")
