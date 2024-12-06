@@ -368,14 +368,14 @@ Connect with us
 
 ×
 
-CYBER MONDAY MEGA SALE
+![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
 
-OFF
----
+### Time to Step up Your Digital Protection
 
-You don’t want to miss this sale:  
-**4 months FREE!**
+The 2-Year Plan Is Now  
+Available for only /mo
+-----------------------------------------------
 
-Get It Now | /mo
+**Save Now**
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/Custom-Checked-Shield.svg)45-Day Money-Back Guarantee
+![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
