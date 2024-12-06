@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_360x203.jpg)](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
+    *  [![](https://media.king5.com/assets/KING/images/218dedeb-a051-471e-8027-4188c56e15b4/20241205T201339/218dedeb-a051-471e-8027-4188c56e15b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/218dedeb-a051-471e-8027-4188c56e15b4/20241205T201339/218dedeb-a051-471e-8027-4188c56e15b4_360x203.jpg)](https://www.king5.com/article/news/local/how-why-officials-decide-issue-tsunami-warning/281-39756f26-87f8-40f4-b1b8-1120a142b9d6)
         
-        #### [Threat passes for West Coast Tsunami Warning that didn’t include Washington](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
+        #### [How, why and when officials decide to call a Tsunami Warning](https://www.king5.com/article/news/local/how-why-officials-decide-issue-tsunami-warning/281-39756f26-87f8-40f4-b1b8-1120a142b9d6)
         
-    *  [![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_360x203.jpg)](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
+    *  [![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_360x203.jpg)](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
         
-        #### [Tsunami warning canceled for Oregon coast south of Florence](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
+        #### [Lynnwood driver dies after crashing into apartment building](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ba66432b-b75d-4d5b-8888-87398c5a9058/20241205T194343/ba66432b-b75d-4d5b-8888-87398c5a9058_360x203.jpg)](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
+    *  [![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
         
-        #### [Threat passes for West Coast Tsunami Warning that didn’t include Washington](https://www.king5.com/article/news/local/washington-not-impacted-by-tsunami-warning-california-earthquake-oregon/281-8d75dcae-0900-44e4-966b-6b9f1225d0e7)
+        #### [Damage from bomb cyclone wind storm nearing $20 million in Snohomish County](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
         
-    *  [![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/b56ac076-e84a-4d72-b148-ff854eb3b588/20241205T190934/b56ac076-e84a-4d72-b148-ff854eb3b588_360x203.jpg)](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
+    *  [![](https://media.king5.com/assets/KING/images/d5b30a3d-0409-468c-882a-1cc592b4744f/20241205T203341/d5b30a3d-0409-468c-882a-1cc592b4744f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b30a3d-0409-468c-882a-1cc592b4744f/20241205T203341/d5b30a3d-0409-468c-882a-1cc592b4744f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-        #### [Tsunami warning canceled for Oregon coast south of Florence](https://www.king5.com/article/news/local/tsunami-warning-issued-southern-oregon-coast/283-98fe2303-d959-49a6-b51c-1bd8f43e62e8)
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd/20240908T043533/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd/20240908T043533/c8035593-b8de-40c8-a7d0-41a8fe4b0ffd_360x203.jpg)](https://www.king5.com/article/sports/wnba/storm/source-seattle-storm-jewell-loyd-requests-trade/281-6b20d8e4-454a-4b1f-bc63-4ba2f2c8958d)
+    *  [![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
         
-        #### [Report: Seattle Storm star Jewell Loyd requests trade](https://www.king5.com/article/sports/wnba/storm/source-seattle-storm-jewell-loyd-requests-trade/281-6b20d8e4-454a-4b1f-bc63-4ba2f2c8958d)
+        #### [WSU running back Wayshawn Parker entering transfer portal](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
         
-    *  [![](https://media.king5.com/assets/KING/images/b0578ab8-1c47-474d-bd64-1e4257a41932/20241205T053015/b0578ab8-1c47-474d-bd64-1e4257a41932_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b0578ab8-1c47-474d-bd64-1e4257a41932/20241205T053015/b0578ab8-1c47-474d-bd64-1e4257a41932_360x203.jpg)](https://www.king5.com/article/sports/mlb/mariners/south-korean-all-star-second-baseman-hyeseong-kim-posted-to-mlb-and-available-as-free-agent/281-23ae8970-2219-4d73-bbc3-93ace7f33965)
+    *  [![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
-        #### [South Korean All-Star second baseman Hyeseong Kim posted to MLB and available as free agent](https://www.king5.com/article/sports/mlb/mariners/south-korean-all-star-second-baseman-hyeseong-kim-posted-to-mlb-and-available-as-free-agent/281-23ae8970-2219-4d73-bbc3-93ace7f33965)
+        #### [Seahawks try to maintain series dominance against the Cardinals in vital NFC West showdown](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+48°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
