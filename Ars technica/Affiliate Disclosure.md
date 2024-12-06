@@ -53,7 +53,8 @@ Pin to story
 
 Theme
 
-* Light
+* HyperLight
+* Day & Night
 * Dark
 * System
 
@@ -87,20 +88,20 @@ Most Read
     
     1. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-2. 2. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+2. 2. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
     
-3. 3. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
+3. 3. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-4. 4. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
+4. 4. [AT&T says it won’t build fiber home Internet in half of its wireline footprint](https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/)
     
-5. 5. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
+5. 5. [$1 phone scanner finds seven Pegasus spyware infections](https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/)
     
 
 Customize
 
 Ars Technica has been separating the signal from the noise for over 25 years. With our unique combination of technical savvy and wide-ranging interest in the technological arts and sciences, Ars is the trusted source in a sea of information. After all, you don’t need to know everything, only what’s important.
 
-[](https://twitter.com/arstechnica)[](https://mastodon.social/@arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
+[](https://bsky.app/profile/arstechnica.com)[](https://mastodon.social/@arstechnica)[](https://www.facebook.com/arstechnica)[](https://www.youtube.com/@arstechnica)[](https://www.instagram.com/arstechnica/)
 
 More from Ars
 
