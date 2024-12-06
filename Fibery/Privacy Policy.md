@@ -112,7 +112,7 @@ Schedule a demo
 
 [Get started](https://fibery.io/sign-up)
 
-Policies
+All policies
 
 [Security Policy](https://fibery.io/security)
 
