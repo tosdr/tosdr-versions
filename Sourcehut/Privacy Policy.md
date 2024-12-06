@@ -86,11 +86,13 @@ We may make changes to this document with no less than 2 weeks notice. Notice of
 
 ### About this wiki
 
-commit [23592fd3f703a0d04a7ab6cf5b00ccaf027bf577](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/23592fd3f703a0d04a7ab6cf5b00ccaf027bf577)
-Author: Gary Kim <gary@garykim.dev>
-Date:   2024-11-30T00:14:06-05:00
+commit [776154680f960fbd4ab851ad685140e1d0cdb53a](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/776154680f960fbd4ab851ad685140e1d0cdb53a)
+Author: Willow Barraco <contact@willowbarraco.fr>
+Date:   2024-12-05T15:59:11+01:00
 
-builds.sr.ht: fedora: remove EOL versions
+builds.sr.ht/compatibility.md: update alpine details
+
+Signed-off-by: Willow Barraco <contact@willowbarraco.fr>
 
 **Clone this wiki**
 
