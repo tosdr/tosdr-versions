@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. digital marketing
+1. python
     
-2. computer science
+2. graphic design
     
-3. html
+3. trading
     
 
 Popular subjects
