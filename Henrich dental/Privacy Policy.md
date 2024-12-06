@@ -161,7 +161,7 @@ Last Update 02/03/2016
 
 ### From Our Blog
 
-[The Benefits of Dental Implants](https://www.henrichdental.com/2024/11/the-benefits-of-dental-implants/)[How Dentists Address Sleep Apnea](https://www.henrichdental.com/2024/10/how-dentists-address-sleep-apnea/)[Wisdom Tooth Removal: What to Expect](https://www.henrichdental.com/2024/09/wisdom-tooth-removal-what-to-expect/)
+[Understanding the Dangers of Bleeding Gums](https://www.henrichdental.com/2024/12/understanding-the-dangers-of-bleeding-gums/)[The Benefits of Dental Implants](https://www.henrichdental.com/2024/11/the-benefits-of-dental-implants/)[How Dentists Address Sleep Apnea](https://www.henrichdental.com/2024/10/how-dentists-address-sleep-apnea/)
 
 * * *
 
