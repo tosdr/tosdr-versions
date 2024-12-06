@@ -191,6 +191,7 @@ About Us
         
         [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
         
+        * [Quality Assurance Committee members](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/quality-assurance-committee-members)
         * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
         
     
@@ -284,6 +285,7 @@ Organization
     
     [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     
+    * [Quality Assurance Committee members](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/quality-assurance-committee-members)
     * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
     
 
