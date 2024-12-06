@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 06, 2024](https://www.japantimes.co.jp/archive/2024/12/06/ "archive page")
+[December 07, 2024](https://www.japantimes.co.jp/archive/2024/12/07/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,6 +131,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[88 arrested for soliciting prostitution near Tokyo park so far this year](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
+
+  [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
+
+[Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
+
+  [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
+
 [Japanese companies weigh impact of South Korea's martial law chaos](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
 
   [![Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438314.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
@@ -139,20 +147,26 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
 
-[Yoon fights for political life as martial law repercussions reverberate](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
+[Japanese sake brewing added to UNESCO intangible heritage list](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
 
-  [![A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438084.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
+  [![Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438363.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
 
-[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
+Editors' Picks
+--------------
 
-  [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [88 arrested for soliciting prostitution near Tokyo park so far this year](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
   [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
 
-Editors' Picks
---------------
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+
+[Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -168,27 +182,13 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Yoon fights for political life as martial law repercussions reverberate](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438084.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "A line of police officers stand guard as protesters gather at the edge of Gwanghwamun Square in central Seoul on Wednesday after President Yoon Suk Yeol formally lifted martial law earlier, six hours after having declared it.")](https://www.japantimes.co.jp/news/2024/12/04/asia-pacific/politics/south-korea-martial-law-analysis/ "Yoon fights for political life as martial law repercussions reverberate")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Tamaki suspended for three months as DPP leader following affair](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
+[Japanese sake brewing added to UNESCO intangible heritage list](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438224.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki speaks to reporters in Tokyo on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/04/japan/politics/tamaki-punishment/ "Tamaki suspended for three months as DPP leader following affair")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[88 arrested for soliciting prostitution near Tokyo park so far this year](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
-
-  [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
+  [![Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438363.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
 
 Podcast
 -------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[CDP leader calls for gradual BOJ rate hikes](https://www.japantimes.co.jp/business/2024/12/06/economy/noda-cdp-gradual-boj-hikes/ "CDP leader calls for gradual BOJ rate hikes")
-
-7 mins ago
-
-[Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
-
-33 mins ago
-
-[Japan's top court finalizes order to erase feudal outcast area lists](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/supreme-court-feudal-outcast-finalization/ "Japan's top court finalizes order to erase feudal outcast area lists")
-
-51 mins ago
-
-[Crown prince and crown princess mark Japan-Turkey diplomatic ties](https://www.japantimes.co.jp/news/2024/12/06/japan/crown-prince-event-turkey/ "Crown prince and crown princess mark Japan-Turkey diplomatic ties")
+[Ito-Yokado to reduce headcount of permanent employees by 1,000](https://www.japantimes.co.jp/business/2024/12/06/companies/ito-yokado-headcount-reduce/ "Ito-Yokado to reduce headcount of permanent employees by 1,000")
 
 3 hours ago
 
-[In South Korea's crisis playbook, currency stability is paramount](https://www.japantimes.co.jp/business/2024/12/06/markets/south-korea-currency-stability/ "In South Korea's crisis playbook, currency stability is paramount")
+[Taiwan's Lai says he is 'confident' of deeper cooperation with Trump](https://www.japantimes.co.jp/news/2024/12/06/asia-pacific/politics/taiwan-president-trump-confident/ "Taiwan's Lai says he is 'confident' of deeper cooperation with Trump")
 
-3 hours ago
+4 hours ago
+
+[JR East applies to raise fares by average of 7% in March 2026](https://www.japantimes.co.jp/business/2024/12/06/jr-east-applies-price-hike/ "JR East applies to raise fares by average of 7% in March 2026")
+
+4 hours ago
+
+[LDP to hold meeting on social media use in election campaigns](https://www.japantimes.co.jp/news/2024/12/06/japan/politics/ldp-social-media-elections-discussion/ "LDP to hold meeting on social media use in election campaigns")
+
+6 hours ago
+
+[CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes](https://www.japantimes.co.jp/business/2024/12/06/economy/noda-cdp-gradual-boj-hikes/ "CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes")
+
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
