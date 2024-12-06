@@ -181,7 +181,9 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Hawke Adds Frontier 30 FD L4A and LRX Optics](https://www.thegunpage.com/hawke-adds-frontier-30-fd-l4a-and-lrx-optics/10612315)
 * [Doctors’ Voices Could Be Loudest Ones Yet in Move to Deregulate Suppressors](https://www.thegunpage.com/doctors-voices-could-be-loudest-ones-yet-in-move-to-deregulate-suppressors/10612310)
+* [Beretta Launches A300 Ultima Snow Goose](https://www.thegunpage.com/beretta-launches-a300-ultima-snow-goose/10612316)
 * [New Jersey Police May Be Required To Alert Feds When Illegal Immigrants Apply For Gun Permits](https://www.thegunpage.com/new-jersey-police-may-be-required-to-alert-feds-when-illegal-immigrants-apply-for-gun-permits/10612305)
 * [New Details About the Magpul x ZEV FMG-9/FDC-9](https://www.thegunpage.com/new-details-about-the-magpul-x-zev-fmg-9-fdc-9/10612307)
 * [Why Hunter Biden’s Pardon is So Infuriating](https://www.thegunpage.com/why-hunter-bidens-pardon-is-so-infuriating/10612303)
@@ -189,8 +191,6 @@ Recent Posts
 * [Michigan Gun Owners Under Increased Fire This Week](https://www.thegunpage.com/michigan-gun-owners-under-increased-fire-this-week/10612301)
 * [Unified Effort By Military And Civilians To Advance Marksmanship: 1962 National Matches](https://www.thegunpage.com/unified-effort-by-military-and-civilians-to-advance-marksmanship-1962-national-matches/10612300)
 * [Battle At The Peak: USPSA Colorado State Championship Beats Weather Again](https://www.thegunpage.com/battle-at-the-peak-uspsa-colorado-state-championship-beats-weather-again/10612299)
-* [TFB Review: Meprolight MPO Pro-S vs MPO Pro-F](https://www.thegunpage.com/tfb-review-meprolight-mpo-pro-s-vs-mpo-pro-f/10612296)
-* [POTD: Troy Long Rifle – MK11 CSASS 308](https://www.thegunpage.com/potd-troy-long-rifle-mk11-csass-308/10612297)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
