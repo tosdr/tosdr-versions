@@ -5,31 +5,23 @@
 * Search for:  
     
 
-* [Home](https://chequered.ink/)
 * [Games](https://chequered.ink/games/)
 * [Fonts](https://chequered.ink/fonts/)
     * [Full Listing](https://www.fontspace.com/chequered-ink)
     * [Font Licenses](https://chequered.ink/font-license/)
+* [Game Assets](https://chequered.ink/category/game-assets/)
+    * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
+    * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
-* [About](https://chequered.ink/about/)
-    * [Elsewhere](https://chequered.ink/elsewhere/)
-    * [Press](https://chequered.ink/press/)
-    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
-    * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
-* [Contact](https://chequered.ink/contact/)
 
-* [Home](https://chequered.ink/)
 * [Games](https://chequered.ink/games/)
 * [Fonts](https://chequered.ink/fonts/)
     * [Full Listing](https://www.fontspace.com/chequered-ink)
     * [Font Licenses](https://chequered.ink/font-license/)
+* [Game Assets](https://chequered.ink/category/game-assets/)
+    * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
+    * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
-* [About](https://chequered.ink/about/)
-    * [Elsewhere](https://chequered.ink/elsewhere/)
-    * [Press](https://chequered.ink/press/)
-    * [Terms and Conditions](https://chequered.ink/terms-of-use/)
-    * [Privacy Policy](https://chequered.ink/privacy-policy-2/)
-* [Contact](https://chequered.ink/contact/)
 
 Search for:  
 
@@ -97,6 +89,13 @@ Last updated: 30/11/2024
 
 * The third parties described here have no official affiliation with the company unless stated otherwise.
 
+* [About](https://chequered.ink/about/)
+* [Contact](https://chequered.ink/contact/)
+* [Terms and Conditions](https://chequered.ink/terms-of-use/)
+* [Privacy Policy](https://chequered.ink/privacy-policy-2/)
+* [Press](https://chequered.ink/press/)
+* [Elsewhere](https://chequered.ink/elsewhere/)
+
 [](#)
 
 Chequered Ink © 2015-2024. All Rights Reserved.
@@ -104,5 +103,3 @@ Chequered Ink © 2015-2024. All Rights Reserved.
 * [](https://facebook.com/chequeredink "Follow us on Facebook")
 * [](https://www.youtube.com/channel/UCK-YdecrUDQd5Fmi7-ooUlA "Follow us on Youtube")
 * [](https://www.instagram.com/chequeredinkltd/ "Follow us on Instagram")
-* [](https://www.tiktok.com/@chequeredink "Follow us on Tiktok")
-* [](https://chequeredink.tumblr.com/ "Follow us on Tumblr")
