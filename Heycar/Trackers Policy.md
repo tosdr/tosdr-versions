@@ -134,7 +134,7 @@
 
 [Finanzierungsratgeber](https://hey.car/finanzierungsratgeber)[Kostenlose Beratung](https://hey.car/kostenlose-beratung)[FAQ](https://hey.car/faq)[Mein Auto verkaufen](https://hey.car/verkaufen)[Presse](https://hey.car/press)[heyMagazin](https://hey.car/magazine)[Händleranmeldung](https://hey.car/dealer/request-invite)
 
-[Verträge hier kündigen](https://online-kuendigung.vwfs.de/)[Über uns](https://hey.car/about)[Karriere](https://heycargroup.com/careers)[Cookie Richtlinie](https://hey.car/cookie-richtlinie)[AGB](https://hey.car/terms)[Datenschutz](https://hey.car/privacy)[Impressum](https://hey.car/imprint)[Kontakt](https://hey.car/contact)
+[Verträge hier kündigen](https://online-kuendigung.vwfs.de/)[Über uns](https://hey.car/about)[Karriere](https://heycargroup.com/careers)Cookie Richtlinie[AGB](https://hey.car/terms)[Datenschutz](https://hey.car/privacy)[Impressum](https://hey.car/imprint)[Kontakt](https://hey.car/contact)
 
 hey, profitiere von exklusiven Tipps und passenden Empfehlungen zu deinem Gebrauchtwagenkauf!
 
