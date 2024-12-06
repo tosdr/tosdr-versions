@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Why is talc bad for skin?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-why-is-talc-bad-for-skin-scaled.jpg "Why Is Talc Bad for Skin?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin "Why Is Talc Bad for Skin?")
+[![Why you shouldn’t use johnson and johnson baby products](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-you-shouldnt-use-johnson-and-johnson-baby-products.jpg "Why You Shouldn’t Use Johnson and Johnson Baby Products")](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/ "Why You Shouldn’t Use Johnson and Johnson Baby Products")
 
-[#### Why Is Talc Bad for Skin?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-bad-for-skin)
+[#### Why You Shouldn’t Use Johnson and Johnson Baby Products](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/)
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![What happens if a hip fracture goes untreated?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-happens-if-a-hip-fracture-goes-untreated-scaled.jpg "What Happens If a Hip Fracture Goes Untreated?")](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/ "What Happens If a Hip Fracture Goes Untreated?")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### What Happens If a Hip Fracture Goes Untreated?](https://www.pintas.com/faq/what-happens-if-a-hip-fracture-goes-untreated/)
 
-[![Is elder abuse punishable like child abuse?](https://www.pintas.com/wp-content/uploads/2020/09/child-abuse-is-elder-abuse-punishable-like-child-abuse.jpg "Is Elder Abuse Punishable Like Child Abuse?")](https://www.pintas.com/faq/child-abuse/ "Is Elder Abuse Punishable Like Child Abuse?")
+[![Suing for abuse at assisted living facilities](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility-300x200.jpg "Suing for Abuse at Assisted Living Facilities")](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/ "Suing for Abuse at Assisted Living Facilities")
 
-[#### Is Elder Abuse Punishable Like Child Abuse?](https://www.pintas.com/faq/child-abuse/)
+[#### Suing for Abuse at Assisted Living Facilities](https://www.pintas.com/faq/can-i-sue-someone-personally-for-the-abuse-and-neglect-of-a-loved-one-at-an-assisted-living-facility/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
