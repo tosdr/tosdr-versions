@@ -354,17 +354,14 @@ Your cart is empty[Return to Shop](https://mstechglobal.com/shop/)
 
 [Continue Shopping](#)
 
-Black
------
-
-FRIDAY
-------
+Cyber Week
+----------
 
 Exclusive Super Sale
 
 UP TO
 
-70%
+98%
 ---
 
 Get the exclusive Discount
