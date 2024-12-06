@@ -8,7 +8,7 @@
 
 * [Twitter](https://twitter.com/raindrop_io)
 * [GitHub](https://github.com/raindropio)
-* [Suggest new feature](https://better.raindrop.io/)
+* [Suggest new feature](https://raindropio.canny.io/)
 
 [Contact us](https://help.raindrop.io/contact-us)
 
