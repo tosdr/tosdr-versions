@@ -194,7 +194,7 @@ Email communication with us is, by default, unencrypted. If you send us an unenc
         
     * [Alumni](https://www.dfh-ufa.org/en/information-for/alumni)
         
-    * [Business Partner](https://www.dfh-ufa.org/en/information-for/unternehmen)
+    * [Business Partners](https://www.dfh-ufa.org/en/information-for/unternehmen)
         
 * [Downloads](https://www.dfh-ufa.org/en/news-and-press-releases/downloads)
     
