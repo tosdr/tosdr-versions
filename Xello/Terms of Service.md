@@ -62,7 +62,7 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -125,11 +125,10 @@ Xello also provides educators, including teachers, advisors, and administrators 
 Agreement to the Terms
 ----------------------
 
-These Terms of Service (“Terms”) are entered into by and between Xello Inc. or CASCAID Ltd, as specified in the Xello Quote or purchase order (“Quote”) and the school or educational establishment or other entity who has signed the Quote (collectively “Customer”) and the Students or Parents who use the Xello platform. These Terms govern Customer’s and administrators or educators who are acting on a Customer’s behalf (“Authorized Administrator”), Students,’ Parents,’ Ambassadors’, and work-based learning administrators’ and employers’ access to and use of the Xello platform, website, or any other website or application of Xello that link to or incorporate the Terms (collectively the “Services”). These Terms are effective: (i) as of the date the Customer accepts or agrees to these Terms, (ii) when a User uses the Services, or (iii) if these Terms are attached to a separate agreement such as a Quote, the date such separate agreement is accepted by you.
+These Terms of Service (“Terms”) are entered into by and between Xello Inc. or CASCAID Ltd, as specified in the Xello Quote or purchase order if applicable (“Quote”) and the school or educational establishment (“School”) or other entity who has signed the Quote (collectively “Customer”) and the Students, Parents, or Schools who use the Xello platform. These Terms govern Customer’s and administrators or educators who are acting on a Customer’s behalf (“Authorized Administrator”), Students,’ Parents,’ Ambassadors’, Schools, and work-based learning administrators’ and employers’ access to and use of the Xello platform, website, or any other website or application of Xello that link to or incorporate the Terms (collectively the “Services”). These Terms are effective: (i) as of the date the Customer accepts or agrees to these Terms, (ii) when a User (defined below) first uses the Services, or (iii) if these Terms are attached to a separate agreement such as a Quote, the date such separate agreement is accepted by you.
 
-In accepting these Terms on behalf of a Customer, you represent and agree that: (i) you have the legal authority to bind such Customer to these Terms; (ii) you have read and understand these Terms and any accompanying agreement such as a purchase order, subscription terms, or Quote; (iii) you agree, on behalf of the Customer, to these Terms and any accompanying agreement such as a purchase order or Quote; and (iv) Customer or any Authorized Administrator setting up user accounts is solely responsible for providing any legally required notices and obtaining any necessary permissions to use and share information in the Services and providing any legally required means for a parent or legal guardian to review or correct any student data. The term “you” as used herein shall refer to Customer or Authorized Administrator with respect to the Services.
-
-Educators, Students, Ambassadors, Parents, Authorized Administrators of a Customer account, work-based learning administrators and employers who offer work-based learning who use the Services through an account are each individually a “User” and collectively “Users.”
+In accepting these Terms on behalf of a Customer, you represent and agree that: (i) you have the legal authority to bind such Customer to these Terms; (ii) you have read and understand these Terms and, if applicable, any accompanying agreement such as a purchase order, subscription terms, or Quote; (iii) you agree, on behalf of the Customer, to these Terms and, if applicable, any accompanying agreement such as a purchase order or Quote; and (iv) Customer or any Authorized Administrator setting up user accounts is solely responsible for providing any legally required notices and obtaining any necessary permissions to use and share information in the Services and providing any legally required means for a parent or legal guardian to review or correct any student data. The term “you” as used herein shall refer to Customer or Authorized Administrator with respect to the Services.  
+Educators, Students, Ambassadors, Parents, Schools, Authorized Administrators of a Customer account, work-based learning administrators and employers who offer work-based learning who use the Services through an account are each individually a “User” and collectively “Users.”
 
 IMPORTANT: AS SET FORTH BELOW, THE SERVICES ARE PROVIDED “AS IS” AND XELLO’S TOTAL LIABILITY FOR ANY CLAIMS RELATED TO THE SERVICES IS LIMITED AS PROVIDED HEREIN.
 
@@ -199,7 +198,7 @@ Term and Renewal
 
 **(a) Term.** Unless otherwise set forth on the Quote, this Agreement commences on the date of Quote execution (“Effective Date”) and shall continue for the period of time set forth in the Quote (the “Term”), unless terminated earlier by either party pursuant to this Agreement.
 
-**(b) Intent to Not Renew Agreement.** In the event that Customer wishes to not renew the Agreement before the end of the Subscription Period, Term, or any renewal term of a Subscription Period or Term, an Authorized Administrator for the Customer must provide Xello with written notice of its intent not to renew at least at least ninety (90) days prior to the conclusion of the current Subscription Period or renewal Subscrption Period or Term . Failure to provide such notice will result in Customer being responsible for payment of all fees owed under any subsequent renewal Subscription Period or Term.
+**(b) Intent to Not Renew Agreement.** In the event that Customer wishes to not renew the Agreement before the end of the Subscription Period, Term, or any renewal term of a Subscription Period or Term, an Authorized Administrator for the Customer must provide Xello with written notice of its intent not to renew at least at least ninety (90) days prior to the conclusion of the current Subscription Period or renewal Subscription Period or Term . Failure to provide such notice will result in Customer being responsible for payment of all fees owed under any subsequent renewal Subscription Period or Term.
 
 Termination
 -----------
