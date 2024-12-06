@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [DORA Compliance Countdown: Are you ready?](https://www.onetrust.com/resources/dora-compliance-countdown-are-you-ready-webinar/)
+* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent--preferences-in-modern-marketing-webinar/)
 * [OneTrust named a Leader in Operational Resilience Software 2024](https://www.onetrust.com/resources/onetrust-named-a-leader-in-operational-resilience-software-2024-report/)
-* [Understanding the NIS 2 Directive: Compliance insights and best practices](https://www.onetrust.com/resources/understanding-the-nis-2-directive-compliance-insights-and-best-practices-webinar/)
-* [Emerging privacy laws in the Northeast: Key insights and compliance strategies](https://www.onetrust.com/resources/emerging-privacy-laws-in-the-northeast-key-insights-and-compliance-strategies-webinar/)
 
 ### Platform
 
