@@ -1,60 +1,101 @@
-[Skip to Main Content](#main-content)
+[Skip to content](#MainContent)
 
-**25% OFF FIRST ITEM & 35% OFF ADDITIONALS FOR SNUGGIE WEEK 12/2-12/8 + FREE SHIPPING & GIFT ON ORDERS OVER $60**
+[IT'S SNUGGIE WEEK! 25% OFF SITE WIDE + 35% OFF ADDITIONAL ITEMS!](https://snuggiestore.com/pages/snuggie-week-sale "SNUGGIE WEEK SALE!")
 
-[](#menu-mobile)
-
-[![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17_600x.png?v=1702394708)](https://snuggiestore.com/)
-
-[![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_87770c35-e0ab-49d1-8f46-265e60a4ced2_600x.png?v=1701723534)](https://snuggiestore.com/)
-
-WATCH VIDEO
-
-[](#)[](https://snuggiestore.com/cart)
-
-[Snuggie® Sherpa](https://snuggiestore.com/collections/snuggie-sherpa-1)
-
-[Snuggie® Original](https://snuggiestore.com/collections/snuggie-fleece)
-
-[Snuggie® + Pepsi®](https://snuggiestore.com/collections/snuggie-pepsi)
-
-[Snuggie® Reversible (NEW!)](https://snuggiestore.com/collections/snuggie-reversible)
-
-[Snuggie® Accessories (NEW!)](https://snuggiestore.com/collections/new-accessories)
-
-[Shop All](https://snuggiestore.com/collections/shop-all)
-
-[Wholesale/Bulk Inquiries](https://snuggiestore.com/pages/bulk-wholesale-orders)
-
-OUR BIGGEST SALE OF THE YEAR FOR SNUGGIE WEEK 12/2-12/8!
-
-**25% OFF FIRST ITEM & 35% OFF ADDITIONALS FOR SNUGGIE WEEK 12/2-12/8 + FREE SHIPPING & GIFT ON ORDERS OVER $60**
-
-[![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17_600x.png?v=1702394708)](https://snuggiestore.com/)
-
-WATCH VIDEO
-
-[](#)[](https://snuggiestore.com/cart)
-
-[**Snuggie® Sherpa**](https://snuggiestore.com/collections/snuggie-sherpa-1)
-
-[**Snuggie® Original**](https://snuggiestore.com/collections/snuggie-fleece)
-
-[**Snuggie® + Pepsi®**](https://snuggiestore.com/collections/snuggie-pepsi)
-
-[**Snuggie® Reversible (NEW!)**](https://snuggiestore.com/collections/snuggie-reversible)
-
-[**Snuggie® Accessories (NEW!)**](https://snuggiestore.com/collections/new-accessories)
-
-[**Shop All**](https://snuggiestore.com/collections/shop-all)
-
-[**Wholesale/Bulk Inquiries**](https://snuggiestore.com/pages/bulk-wholesale-orders)
-
-**WATCH VIDEO**
-
-[**CUSTOMER SERVICE**](#)
+Free Gift and Free Shipping on orders over $60!
 
  
+
+[![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=155)![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=230)](https://snuggiestore.com/)
+
+* [SNUGGIE WEEK SALE!](https://snuggiestore.com/pages/snuggie-week-sale)
+* Shop All
+    
+    [SNUGGIE](https://snuggiestore.com/collections/e-shop-all)
+    
+    * [The Original Snuggie](https://snuggiestore.com/collections/e-original-snuggie)
+    * [Snuggie Sherpa](https://snuggiestore.com/collections/e-snuggie-sherpa)
+    * [Snuggie Collaborations](https://snuggiestore.com/collections/e-pepsi-collection)
+    * [Snuggie Reversable](https://snuggiestore.com/collections/snuggie-reversible)
+    * [Snuggie Heated Shawl](https://snuggiestore.com/products/snuggie-shawl)
+    
+    [Accessories](https://snuggiestore.com/collections/new-accessories)
+    
+    * [Snuggie Slipper Socks](https://snuggiestore.com/products/snuggie-slipper-socks)
+    
+    [![](//snuggiestore.com/cdn/shop/files/4_944aa44b-f988-4f22-be37-bcd27cc1e842.png?v=1731960353&width=1100)](https://snuggiestore.com/products/snuggie-classic)
+    
+    [![](//snuggiestore.com/cdn/shop/files/10_7195b2f9-4cc7-4560-8825-9566cdf972d3.png?v=1731960353&width=1100)](https://snuggiestore.com/products/snuggie-shawl)
+    
+* Collections
+    
+    [![](//snuggiestore.com/cdn/shop/files/Shopify_setup_document_Marketing2023.png?v=1708620547&width=1100)
+    
+    The Original Snuggie](https://snuggiestore.com/collections/e-original-snuggie)
+    
+    [![](//snuggiestore.com/cdn/shop/files/MicrosoftTeams-image_363.jpg?v=1708621016&width=1100)
+    
+    Sherpa Snuggie](https://snuggiestore.com/collections/e-snuggie-sherpa)
+    
+    [![](//snuggiestore.com/cdn/shop/files/Snuggie_1_a3cb3526-fbc4-46b2-9a1a-f988b5ba9edc.png?v=1733507358&width=1100)
+    
+    Snuggie Accessories](https://snuggiestore.com/collections/new-accessories)
+    
+    [![Snuggie Pepsi / Cool Ranch Doritos](//snuggiestore.com/cdn/shop/files/MicrosoftTeams-image_299_6f935f16-74b3-4aff-b374-83baa52a4c27.jpg?v=1698976252&width=1100)
+    
+    Snuggie Collaborations](https://snuggiestore.com/collections/e-pepsi-collection)
+    
+
+[](https://snuggiestore.com/search)[Cart 0](https://snuggiestore.com/cart)
+
+[![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=155)](https://snuggiestore.com/)
+
+* [SNUGGIE WEEK SALE!](https://snuggiestore.com/pages/snuggie-week-sale)
+* Shop All
+    
+    Shop All
+    
+    * SNUGGIE
+        
+        SNUGGIE
+        
+        * [The Original Snuggie](https://snuggiestore.com/collections/e-original-snuggie)
+        * [Snuggie Sherpa](https://snuggiestore.com/collections/e-snuggie-sherpa)
+        * [Snuggie Collaborations](https://snuggiestore.com/collections/e-pepsi-collection)
+        * [Snuggie Reversable](https://snuggiestore.com/collections/snuggie-reversible)
+        * [Snuggie Heated Shawl](https://snuggiestore.com/products/snuggie-shawl)
+        
+    * Accessories
+        
+        Accessories
+        
+        * [Snuggie Slipper Socks](https://snuggiestore.com/products/snuggie-slipper-socks)
+        
+    
+    [![](//snuggiestore.com/cdn/shop/files/4_944aa44b-f988-4f22-be37-bcd27cc1e842.png?v=1731960353&width=1100)](https://snuggiestore.com/products/snuggie-classic)
+    
+    [![](//snuggiestore.com/cdn/shop/files/10_7195b2f9-4cc7-4560-8825-9566cdf972d3.png?v=1731960353&width=1100)](https://snuggiestore.com/products/snuggie-shawl)
+    
+* Collections
+    
+    Collections
+    
+    [![](//snuggiestore.com/cdn/shop/files/Shopify_setup_document_Marketing2023.png?v=1708620547&width=1100)
+    
+    The Original Snuggie](https://snuggiestore.com/collections/e-original-snuggie)
+    
+    [![](//snuggiestore.com/cdn/shop/files/MicrosoftTeams-image_363.jpg?v=1708621016&width=1100)
+    
+    Sherpa Snuggie](https://snuggiestore.com/collections/e-snuggie-sherpa)
+    
+    [![](//snuggiestore.com/cdn/shop/files/Snuggie_1_a3cb3526-fbc4-46b2-9a1a-f988b5ba9edc.png?v=1733507358&width=1100)
+    
+    Snuggie Accessories](https://snuggiestore.com/collections/new-accessories)
+    
+    [![Snuggie Pepsi / Cool Ranch Doritos](//snuggiestore.com/cdn/shop/files/MicrosoftTeams-image_299_6f935f16-74b3-4aff-b374-83baa52a4c27.jpg?v=1698976252&width=1100)
+    
+    Snuggie Collaborations](https://snuggiestore.com/collections/e-pepsi-collection)
+    
 
 Privacy Policy
 ==============
@@ -246,66 +287,61 @@ You can access, delete and control certain uses of your information as set forth
     **14\. Contact**  
     If you have any questions about your privacy or security at the Website, please write to Allstar Products Group, PO Box 241, Hawthorne NY 10532 and include your name, address and email address in the message. If you do not receive a response from us within 30 days, please send us another letter as your original correspondence may not have been received.
 
-HELPFUL LINKS & CUSTOMER SUPPORT
+© 2024 [Snuggie Store](https://snuggiestore.com/). [Powered by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-[Contact Us](https://snuggiestore.com/pages/contact-us)[FAQs](https://snuggiestore.com/pages/faqs)[Accessibility Statement](https://snuggiestore.com/pages/accessibility-statement)[Guarantee & Return Policy](https://snuggiestore.com/pages/guarantee-return-policy)[Bulk / Wholesale Order Inquiries](https://snuggiestore.com/pages/bulk-wholesale-orders)[Privacy Policy](https://snuggiestore.com/pages/privacy-policy-1)[Allstar Innovations™](https://snuggiestore.com/)[Cookie Policy](https://snuggiestore.com/pages/cookie-policy)
+* [Contact Us](https://snuggiestore.com/pages/contact-us)
+* [FAQs](https://snuggiestore.com/pages/faqs)
+* [Accessibility Statement](https://snuggiestore.com/pages/accessibility-statement)
+* [Guarantee & Return Policy](https://snuggiestore.com/pages/guarantee-return-policy)
+* [Bulk / Wholesale Order Inquiries](https://snuggiestore.com/pages/bulk-wholesale-orders)
+* [Privacy Policy](https://snuggiestore.com/pages/privacy-policy-1)
+* [Allstar Innovations™](https://snuggiestore.com/)
+* [Cookie Policy](https://snuggiestore.com/pages/cookie-policy)
 
-Sign up To Stay In Touch!
+[Home](https://snuggiestore.com/) [Shop All](https://snuggiestore.com/collections/all) [0 Cart](https://snuggiestore.com/cart)
 
-Thank You!
+Your cart 0
+-----------
 
-   
+You are eligible for free shipping. Spend **$0.00** more to reach free shipping!
 
-[](https://www.facebook.com/Snuggie "Opens new window")[](https://www.instagram.com/officialsnuggie/ "Opens new window")[](https://www.tiktok.com/@officialsnuggie "Opens new window")
+Your cart is currently empty.
 
-©2024 Snuggie. All rights reserved.
+Not sure where to start?  
+Try these collections:
 
-[Privacy & Accessibility](https://snuggiestore.com/pages/privacy-policy)
+* [![](//snuggiestore.com/cdn/shop/products/Snuggie-Sherpa-Charcoal-Main-Image_b04a6660-1672-449c-8f98-46092af3c98a.jpg?v=1663352637&width=3000)
+    
+    ### Shop All](https://snuggiestore.com/collections/e-shop-all)
 
-Your Cart
+Order note Estimate Shipping
 
-  
-Your cart is empty.
+#### Order note
 
-[sale
+Order note
 
-QUICK ADD
+Apply
 
-QUICK ADD
+#### Estimate Shipping
 
-This product is SOLD OUT.
+Country/region
 
-SNUGGIE® REVERSIBLE
+Province
 
-**$44.99**
+Postal/ZIP code 
 
-**$39.99**](https://snuggiestore.com/products/snuggie-reversible)
+Calculate
 
-Blue and Snuggie Logo / Grey and Plaid / Tie Dye and Purple
+Estimated total $0.00 USD
 
-ADDED TO CART!
+Taxes and shipping calculated at checkout
 
-Add 3 more items to get your free product discount at checkout
+[View cart](https://snuggiestore.com/cart) Check out
 
-Congratulations! You'll get your free product discount at checkout.
+Search
+------
 
-KEEP SHOPPING [CHECKOUT](https://snuggiestore.com/checkout)
+ Search Clear
 
-[sold  
-out
-
-SNUGGIE HEATED SHAWL
-
-**$89.99**
-
-**$79.99**](https://snuggiestore.com/products/snuggie-shawl)
-
-ADDED TO CART!
-
-Add 3 more items to get your free product discount at checkout
-
-Congratulations! You'll get your free product discount at checkout.
-
-KEEP SHOPPING [CHECKOUT](https://snuggiestore.com/checkout)
-
-[Start Shopping](https://snuggiestore.com/)
+* Choosing a selection results in a full page refresh.
+* Opens in a new window.
