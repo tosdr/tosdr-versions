@@ -1,8 +1,7 @@
 [Skip to content](#MainContent)
 
-### Pay as low as $20/month with ![Affirm logo](//www.xchair.com/cdn/shop/files/affirm-logo-2x.png?v=1689888394&width=1024) financing || [Shop Now](https://www.xchair.com/collections/office-chairs "Office Chairs")
-
-### 844-492-4247
+[SAVE AN EXTRA 10% ON SELECT OFFICE CHAIRS](https://www.xchair.com/pages/vip-holiday-sale "VIP Holiday Sale")
+-------------------------------------------------------------------------------------------------------------
 
 [](https://www.xchair.com/)
 
@@ -22,9 +21,9 @@ Menu
     * [All Office Chairs](https://www.xchair.com/collections/office-chairs)
     * [Office Chairs for Teams](https://www.xchair.com/pages/bulksales)
     
-    *       [![Woman in the office working at desk in X-tech ](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
+    *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Explore office chairs.](https://www.xchair.com/collections/office-chairs)
+        Save over $500 with all upgrades included](https://www.xchair.com/collections/office-chairs)
     *       [![Reef blue X-Tech chair at home office](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
         Featured: X-Tech Ultimate Executive Office Chair](https://www.xchair.com/products/xtech-ultimate-executive-office-chair)
@@ -72,10 +71,10 @@ Menu
     
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Upgrade with Cooling, Heating and Massaging ELEMAX™](https://www.xchair.com/products/elemax-cooling-heat-and-massage-unit)
+        Select upgrades are FREE with office chair purchase.](https://www.xchair.com/collections/accessories)
     *       [![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1 1'%3E%3C/svg%3E)
         
-        Featured: Monitor Arms](https://www.xchair.com/collections/monitor-arms)
+        Upgrade with Cooling, Heating and Massaging ELEMAX™](https://www.xchair.com/products/elemax-cooling-heat-and-massage-unit)
     
 * [Why X-Chair](https://www.xchair.com/pages/about-us)
     
@@ -94,7 +93,7 @@ Menu
         
         Learn About The Dynamic Variable Lumbar (DVL)® Support.](https://www.xchair.com/pages/ergonomics)
     
-* [Sale](https://www.xchair.com/collections/refurbished)
+* [Sale](https://www.xchair.com/collections/sale)
 
 * [BAG](https://www.xchair.com/cart)
 * [SIGN IN](https://www.xchair.com/account/login)
