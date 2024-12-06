@@ -4,15 +4,15 @@ Looks like you have Javascript turned off! Please enable it to improve your brow
 
 [Skip to main content](#main-content)
 
-Okta webinars on-demand. See what you missed!
+Okta Named a Leader in the 2024 Gartner® Magic Quadrant™
 
-Okta webinars on-demand. See what you missed!
+Okta Named a Leader in the 2024 Gartner® Magic Quadrant™
 
-[Watch Now](https://www.okta.com/webinars/hub/)
+[Download the Report](https://www.okta.com/resources/gartner-magic-quadrant-access-management/)
 
-[Watch Now](https://www.okta.com/webinars/hub/)
+[Download the Report](https://www.okta.com/resources/gartner-magic-quadrant-access-management/)
 
-[Okta webinars on-demand. See what you missed!](https://www.okta.com/webinars/hub/)
+[Okta Named a Leader in the 2024 Gartner® Magic Quadrant™](https://www.okta.com/resources/gartner-magic-quadrant-access-management/)
 
 [+1 (800) 425-1267](tel:+1-800-425-1267)
 
