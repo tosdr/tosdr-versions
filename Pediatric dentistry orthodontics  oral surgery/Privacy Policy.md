@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=2848108315341553&ev=PageView&noscript=1)          
+![](https://www.facebook.com/tr?id=2848108315341553&ev=PageView&noscript=1)           
 
 [Skip to content](#content)
 
@@ -33,6 +33,7 @@
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
     * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
+        * [Pediatric Dental Cleanings](https://www.dpdsmiles.com/pediatric-dental-cleanings/)
     * [Wisdom Teeth Removal](https://www.dpdsmiles.com/wisdom-teeth-removal/)
     * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
     * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
@@ -89,6 +90,7 @@ Menu
     * [Invisalign](https://www.dpdsmiles.com/invisalign/)
     * [Laser Dentistry](https://www.dpdsmiles.com/laser-dentistry/)
     * [Pediatric Dentistry](https://www.dpdsmiles.com/pediatric-dentistry/)
+        * [Pediatric Dental Cleanings](https://www.dpdsmiles.com/pediatric-dental-cleanings/)
     * [Wisdom Teeth Removal](https://www.dpdsmiles.com/wisdom-teeth-removal/)
     * [Sedation Dentistry](https://www.dpdsmiles.com/sedation-dentistry/)
     * [Special Needs Dentistry](https://www.dpdsmiles.com/special-needs-dentistry/)
