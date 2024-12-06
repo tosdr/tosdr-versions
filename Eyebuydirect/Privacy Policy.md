@@ -66,17 +66,17 @@
     
     [![Ray-Ban Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/ray_ban_updated_5a9ab94738.jpg?q=85&seo=ray-ban-sunglasses)
+    ![Ray-Ban Sunglasses](https://img.ebdcdn.com/cms/topp_nav_rb_sun_6d070533fe.jpg?q=85&seo=ray-ban-sunglasses)
     
     Ray-Ban Sunglasses](https://www.eyebuydirect.com/brands/ray-ban/sunglasses "Ray-Ban Sunglasses")[![Oakley Sunglasses](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/oakely_783e075bfa.jpg?q=85&seo=oakley-sunglasses)
+    ![Oakley Sunglasses](https://img.ebdcdn.com/cms/topp_nav_oak_sun_0ed9d64229.jpg?q=85&seo=oakley-sunglasses)
     
-    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Oakley Sunglasses](https://www.eyebuydirect.com/brands/oakley/sunglasses "Oakley Sunglasses")[![Eco Friendly](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_0eb15a07a3.jpg?q=85&seo=best-sellers)
+    ![Eco Friendly](https://img.ebdcdn.com/cms/topp_nav_CSR_501391cdf0.jpg?q=85&seo=eco-friendly)
     
-    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
+    Eco Friendly](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
 * Premium Brands
     
