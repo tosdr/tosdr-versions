@@ -427,15 +427,11 @@ All
 
 [![](https://framerusercontent.com/images/J4i5bKR08B4tTV2n6q0RO19A.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Pricing Sheet
 
 Get transparent, straightforward pricing on all bunq services, so you know exactly what to expect.](https://www.bunq.com/assets/media/legal/en/documents/pricing)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Personal Account T&C
 
@@ -443,15 +439,11 @@ Read the terms designed to keep your bunq Personal Account safe, easy, and hassl
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Business Account T&C
 
 Read the terms that keep your bunq Business Account efficient, clear, and ready to support your goals.](https://www.bunq.com/assets/media/legal/en/documents/business-account)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Privacy Policy
 
@@ -459,15 +451,11 @@ See how bunq protects your privacy, ensuring your data is handled safely and tra
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Cookie Statement
 
 Find out how bunq uses cookies to improve your experience while respecting your privacy.](https://www.bunq.com/assets/media/legal/en/documents/cookies)
 
 [![](https://framerusercontent.com/images/PlL8EXOrpUnCAigq8maiB7C4E.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### 2024 SREP Decision Statement
 
@@ -475,15 +463,11 @@ Read about the 2024 regulatory review of bunq’s strong, sustainable growth.](h
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Responsible Disclosure Policy
 
 bunq’s Responsible Disclosure Policy encourages safe, secure reporting of vulnerabilities.](https://www.bunq.com/assets/media/legal/en/documents/responsible-disclosure)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### API T&C
 
@@ -491,15 +475,11 @@ Access guidelines for using bunq’s secure API, empowering developers to create
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### App Directory T&C
 
 Learn about the terms for the bunq App Directory, your gateway to useful tools and enhancements.](https://www.bunq.com/assets/media/legal/en/documents/app-directory)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### bunq.com T&C
 
@@ -507,15 +487,11 @@ Read the terms for using bunq.com that provide you with a safe, smooth experienc
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### bunq.me T&C
 
 Read the terms for using bunq.me links, making sending and receiving payments simple and stress-free.](https://www.bunq.com/assets/media/legal/en/documents/bunq-me)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Developer Website T&C
 
@@ -523,15 +499,11 @@ Read the terms of use for bunq’s Developer Website to build securely and innov
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### iDIN T&C
 
 Read bunq’s iDIN terms of use for seamless and secure online identity verification.](https://www.bunq.com/assets/media/legal/en/documents/idin)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Mastercard Chargeback T&C
 
@@ -539,15 +511,11 @@ Read the terms for Mastercard Chargebacks with bunq, giving you extra protection
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Mobile Wallet T&C
 
 Read the terms of use for bunq’s Mobile Wallet, for fast, secure, and easy digital payments.](https://www.bunq.com/assets/media/legal/en/documents/mobile-wallet)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Purchase Protection & Extended Warranty T&C
 
@@ -555,15 +523,11 @@ Read the details of purchase protection and extended warranties with bunq, addin
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Switch Service T&C
 
 Learn how bunq’s Switch Service makes switching banks seamless and straightforward.](https://www.bunq.com/assets/media/legal/en/documents/switch-service)
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Travel Insurance T&C
 
@@ -571,15 +535,11 @@ Read bunq’s Travel Insurance terms for added security on your travels.](https:
 
 [![](https://framerusercontent.com/images/aCy9LjRkdr4DgnV7jLOmwa2L8.svg)
 
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
-
 ### Wheel of Fortune T&C
 
 Explore the terms of use for bunq’s Wheel of Fortune, where banking meets fun rewards.](https://www.bunq.com/assets/media/legal/en/documents/wheel-of-fortune)
 
 [![](https://framerusercontent.com/images/R0LcO6NqpZTJjHILi6boqxmLw.svg)
-
-![](https://framerusercontent.com/images/SMryyYe6l5qQvFLgWtjTDUnn0k.svg)
 
 ### Operational Resilience Policy
 
