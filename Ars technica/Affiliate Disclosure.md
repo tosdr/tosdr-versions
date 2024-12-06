@@ -87,13 +87,13 @@ Most Read
     
     1. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-2. 2. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
+2. 2. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
+3. 3. [HowStuffWorks founder Marshall Brain sent final email before sudden death](https://arstechnica.com/ai/2024/12/web-pioneer-marshall-brain-dies-suddenly-at-63-amid-ethics-battle/)
     
-4. 4. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
+4. 4. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-5. 5. [No more EV app folders: Universal plug-and-charge is due to launch in 2025](https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/)
+5. 5. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
     
 
 Customize
