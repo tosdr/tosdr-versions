@@ -4,9 +4,13 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Cyber Week Sale **Up to 50% off**](https://www.womanizer.com/eu/sale)
+[Xmas Deals - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
 
-[Cyber Week Sale **Up to 50% off**](https://www.womanizer.com/eu/sale)
+[Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
+
+[5-Year Warranty On All Womanizer Toys](https://www.womanizer.com/eu/5warranty)
+
+[100 day Pleasure Guaranteed](https://www.womanizer.com/eu/satisfaction-guaranteed)
 
 [](https://www.womanizer.com/eu/)
 
@@ -48,7 +52,7 @@ The store will not work correctly in the case when cookies are disabled.
     
     [All Bestsellers](https://www.womanizer.com/eu/bestseller)
     
-* [CYBER WEEK](https://www.womanizer.com/eu/sale)
+* [XMAS DEALS](https://www.womanizer.com/eu/sale)
     
     * [NEW
         
@@ -57,24 +61,14 @@ The store will not work correctly in the case when cookies are disabled.
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
-    * [Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
-    * [NEW
-        
-        Blend](https://www.womanizer.com/eu/blend)
-    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
-    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
-    * [CLASSIC 2](https://www.womanizer.com/eu/classic-2)
-    * [STARLET 3](https://www.womanizer.com/eu/starlet-3)
     * [Pro40](https://www.womanizer.com/eu/pro-40)
-    * [Wave](https://www.womanizer.com/eu/wave-womanizer)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
