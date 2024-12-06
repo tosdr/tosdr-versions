@@ -40,7 +40,7 @@ Search
     
     New: Bundle
     
-    UGC and Reviews platform for only $64/month
+    [UGC](https://embedsocial.com/blog/what-is-user-generated-content/) and Reviews platform for only $64/month
     
     [Explore](https://embedsocial.com/bundle/)
     
