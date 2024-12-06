@@ -1,10 +1,8 @@
 [Skip to content](#site-main)
 
-[](https://www.soapboxsoaps.com/pages/soapbox-gift-guide)
+FREE Shipping on all orders $50+
 
-CYBER WEEK DEALS: SAVE UP TO 30%
-
-CYBER WEEK DEALS: SAVE UP TO 30%
+FREE Shipping on all orders $50+
 
 Menu icon Menu
 
@@ -272,8 +270,6 @@ Close icon
 Chevron down icon Chevron down icon
 
        
-
-     
 
       
 
