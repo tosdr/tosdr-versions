@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Annual Review of Pharmacology and Toxicology – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-pharmacology-and-toxicology-bias/)
+    
+    December 6, 2024
+    
+* [The Winston Group – Bias and Credibility](https://mediabiasfactcheck.com/the-winston-group-bias-and-credibility/)
+    
+    December 6, 2024
+    
+* [Edinburgh Live – Bias and Credibility](https://mediabiasfactcheck.com/edinburgh-live-bias/)
+    
+    December 6, 2024
+    
+* [Accounting and Business Research – Bias and Credibility](https://mediabiasfactcheck.com/accounting-and-business-research-bias/)
+    
+    December 6, 2024
+    
 * [The Paper. (ABQ) – Bias and Credibility](https://mediabiasfactcheck.com/the-paper-abq-bias-and-credibility/)
     
     December 5, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     December 5, 2024
     
-* [Sustainable Earth Reviews – Bias and Credibility](https://mediabiasfactcheck.com/sustainable-earth-reviews-bias/)
-    
-    December 5, 2024
-    
-* [Amboy News – Bias and Credibility](https://mediabiasfactcheck.com/amboy-news-bias/)
-    
-    December 4, 2024
-    
-* [City Desk ABQ – Bias and Credibility](https://mediabiasfactcheck.com/city-desk-abq-bias-and-credibility/)
-    
-    December 4, 2024
-    
-* [Guymon Daily Herald – Bias and Credibility](https://mediabiasfactcheck.com/guymon-daily-herald-bias/)
-    
-    December 4, 2024
-    
 
 #### Recently Updated Pages
 
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 5, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 6, 2024
+    
+* [Annual Review of Pharmacology and Toxicology – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-pharmacology-and-toxicology-bias/ "View Annual Review of Pharmacology and Toxicology – Bias and Credibility") - December 6, 2024
+    
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 6, 2024
+    
+* [The Winston Group – Bias and Credibility](https://mediabiasfactcheck.com/the-winston-group-bias-and-credibility/ "View The Winston Group – Bias and Credibility") - December 6, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 6, 2024
+    
+* [Edinburgh Live – Bias and Credibility](https://mediabiasfactcheck.com/edinburgh-live-bias/ "View Edinburgh Live – Bias and Credibility") - December 6, 2024
+    
+* [Accounting and Business Research – Bias and Credibility](https://mediabiasfactcheck.com/accounting-and-business-research-bias/ "View Accounting and Business Research – Bias and Credibility") - December 6, 2024
     
 * [The Paper. (ABQ) – Bias and Credibility](https://mediabiasfactcheck.com/the-paper-abq-bias-and-credibility/ "View The Paper. (ABQ) – Bias and Credibility") - December 5, 2024
     
 * [KAXE – NPR – Grand Rapids – Bias and Credibility](https://mediabiasfactcheck.com/kaxe-npr-grand-rapids-bias/ "View KAXE – NPR – Grand Rapids – Bias and Credibility") - December 5, 2024
     
 * [WTIP – NPR – Grand Marais – Bias and Credibility](https://mediabiasfactcheck.com/wtip-npr-grand-marais-bias/ "View WTIP – NPR – Grand Marais – Bias and Credibility") - December 5, 2024
-    
-* [Braidwood Times – Bias and Credibility](https://mediabiasfactcheck.com/braidwood-times-bias/ "View Braidwood Times – Bias and Credibility") - December 5, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 5, 2024
-    
-* [1stHeadlines – Bias and Credibility](https://mediabiasfactcheck.com/1stheadlines-bias-and-credibility/ "View 1stHeadlines – Bias and Credibility") - December 5, 2024
-    
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 5, 2024
-    
-* [Sustainable Earth Reviews – Bias and Credibility](https://mediabiasfactcheck.com/sustainable-earth-reviews-bias/ "View Sustainable Earth Reviews – Bias and Credibility") - December 5, 2024
-    
-* [Breaking Wide – Bias and Credibility](https://mediabiasfactcheck.com/breaking-wide/ "View Breaking Wide – Bias and Credibility") - December 5, 2024
     
 
 #### Today’s Top Page Views
@@ -211,10 +211,10 @@ No related posts.
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [Search](https://mediabiasfactcheck.com/search/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [MBFC's Daily Vetted Fact Checks for 12/05/2024](https://mediabiasfactcheck.com/2024/12/05/mbfcs-daily-vetted-fact-checks-for-12-05-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
