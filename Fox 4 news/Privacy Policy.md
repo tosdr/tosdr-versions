@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/arlington-web-kidnap-cover.png?ve=1&tl=1)
+ [![NYC jury deadlocked in Daniel Penny subway chokehold trial](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/subway-chokehold-trial.jpg?ve=1&tl=1)
 
- ![Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/arlington-web-kidnap-cover.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pastran-hernandez-arlington-lyft-kidnapping)
+ ![NYC jury deadlocked in Daniel Penny subway chokehold trial](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/subway-chokehold-trial.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/daniel-penny-trial-jury-deadlocked)
 
-### [Arlington man pleads guilty to kidnapping Lyft driver at gunpoint, driving 1,300 miles to Florida](https://www.fox4news.com/news/pastran-hernandez-arlington-lyft-kidnapping)
+### [NYC jury deadlocked in Daniel Penny subway chokehold trial](https://www.fox4news.com/news/daniel-penny-trial-jury-deadlocked)
 
- [![Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186442361.jpg?ve=1&tl=1)
+ [![When is the first day of winter?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/a5e91215-winter-storm_1454972274553_820222_ver1.0.gif?ve=1&tl=1)
 
- ![Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186442361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/flight-passengers-can-be-denied-boarding-dont-follow-rules-travel-expert-warns)
+ ![When is the first day of winter?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/a5e91215-winter-storm_1454972274553_820222_ver1.0.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/first-day-winter-2024)
 
-### [Flight passengers can be denied boarding if they don't follow these rules, travel expert warns](https://www.fox4news.com/news/flight-passengers-can-be-denied-boarding-dont-follow-rules-travel-expert-warns)
+### [When is the first day of winter?](https://www.fox4news.com/weather/first-day-winter-2024)
 
- [![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1)
+ [![Missing 10-year-old girl in the Dallas/Richardson area found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dpd-critical-missing-dallas-rose.png?ve=1&tl=1)
 
- ![Toys for Tots toy drive in Heath marks first event in Rockwall County](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-steven-toys-for-tots-heath-9p_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/toys-tots-toy-drive-heath-marks-first-event-rockwall-county)
+ ![Missing 10-year-old girl in the Dallas/Richardson area found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dpd-critical-missing-dallas-rose.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/10-year-old-girl-missing-dallas-rose)
 
-### [Toys for Tots toy drive in Heath marks first event in Rockwall County](https://www.fox4news.com/news/toys-tots-toy-drive-heath-marks-first-event-rockwall-county)
+### [Missing 10-year-old girl in the Dallas/Richardson area found safe](https://www.fox4news.com/news/10-year-old-girl-missing-dallas-rose)
 
- [![Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dart-suspect.jpeg?ve=1&tl=1)
+ [![NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2038751390-scaled.jpg?ve=1&tl=1)
 
- ![Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dart-suspect.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-mlk-jr-dart-station-shooting-suspect)
+ ![NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2038751390-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-delays-artemis-moon-landing-2027)
 
-### [Surveillance photo shows South Dallas DART shooting suspect holding up long gun](https://www.fox4news.com/news/dallas-mlk-jr-dart-station-shooting-suspect)
+### [NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://www.fox4news.com/news/nasa-delays-artemis-moon-landing-2027)
 
- [![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1)
+ [![Biden is considering preemptive pardons for allies before he leaves office](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/joe-biden.jpg?ve=1&tl=1)
 
- ![Ennis boil water notice lifted; classes resume Friday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-ennis-water-boil-notice-9p_00.00.34.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
+ ![Biden is considering preemptive pardons for allies before he leaves office](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/joe-biden.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-considering-preemptive-pardons-allies)
 
-### [Ennis boil water notice lifted; classes resume Friday](https://www.fox4news.com/news/ennis-boil-water-notice-lifted-classes-resume-friday)
+### [Biden is considering preemptive pardons for allies before he leaves office](https://www.fox4news.com/news/biden-considering-preemptive-pardons-allies)
 
 ###### [News](https://www.fox4news.com/news)
 
