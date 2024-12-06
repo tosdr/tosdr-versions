@@ -275,6 +275,13 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
+![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
+
+GHSA Flag Football Playoffs Rnd 1 & 2: Featuring Valdosta, Cherokee, Central Gwinnett and Alexander at 5 P.M.
+-------------------------------------------------------------------------------------------------------------
+
+[WATCH LIVE!](https://www.gpb.org/events/sports/2024/12/05/2024-ghsa-flag-football-playoffs-round-one-two)
+
 Messages
 --------
 
