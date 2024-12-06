@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [China hits US with ban on critical minerals used in tech manufacturing](https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/)
     
-4. 4. [Trump nominates Jared Isaacman to become the next NASA administrator](https://arstechnica.com/space/2024/12/jared-isaacman-entrepreneur-and-private-astronaut-is-trumps-choice-to-lead-nasa/)
+4. 4. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-5. 5. [Microsoft reiterates “non-negotiable” TPM 2.0 requirement for Windows 11](https://arstechnica.com/gadgets/2024/12/microsoft-reiterates-non-negotiable-tpm-2-0-requirement-for-windows-11/)
+5. 5. [No more EV app folders: Universal plug-and-charge is due to launch in 2025](https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/)
     
 
 Customize
