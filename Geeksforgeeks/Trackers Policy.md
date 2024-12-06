@@ -925,7 +925,7 @@ For any query, you can reach out to our [help center](https://www.geeksforgeeks.
 
 [![geeksforgeeks-footer-logo](https://media.geeksforgeeks.org/auth-dashboard-uploads/gfgFooterLogo.png)](https://www.geeksforgeeks.org/)
 
-Corporate & Communications Address:- A-143, 9th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305) | Registered Address:- K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305
+Corporate & Communications Address:- A-143, 7th Floor, Sovereign Corporate Tower, Sector- 136, Noida, Uttar Pradesh (201305) | Registered Address:- K 061, Tower K, Gulshan Vivante Apartment, Sector 137, Noida, Gautam Buddh Nagar, Uttar Pradesh, 201305
 
 [](https://www.facebook.com/geeksforgeeks.org/)[](https://www.instagram.com/geeks_for_geeks/)[](https://in.linkedin.com/company/geeksforgeeks)[](https://twitter.com/geeksforgeeks)[](https://www.youtube.com/geeksforgeeksvideos)
 
