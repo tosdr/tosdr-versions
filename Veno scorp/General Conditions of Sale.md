@@ -89,8 +89,6 @@ Continue shopping
 Return Policy
 =============
 
-**Return Policy**
-
 At VenoScorp, we are committed to providing exceptional customer service. If you're not completely satisfied with your system, we encourage you to contact us so we can address any concerns and ensure a positive experience.
 
 **14-Day Money Back Guarantee**
@@ -120,6 +118,47 @@ We understand that purchasing online can be daunting. To offer peace of mind, we
 * Original Packaging: Items must be returned in their original packaging with all accessories. New items should be returned unopened and unused; otherwise, a 15% restocking fee applies.
 
 **Important Information:**
+
+* Packaging: Return items in their original box with all accessories. Ensure the item is securely packed to prevent damage, as this is not covered under warranty and may require you to cover replacement costs.
+* Return Sheet: Include the completed Return Sheet inside the box. Items returned without it will be rejected and sent back untested.
+* Labelling: Do not write directly on the product packaging. Use brown packing paper, an envelope, jiffy bag, or brown outer box.
+* Additional Items: Do not include items not purchased from us or not listed on the RMA, unless specifically advised.
+
+**Return Process:**
+
+1. Initiate Return: Email [support@veno-scorp.co.uk](mailto:support@veno-scorp.co.uk "mailto:support@veno-scorp.co.uk") within the returns period from the date of receipt to obtain a Return Material Authorisation (RMA) number and form. RMAs are valid for five days from issuance.
+2. Prepare Package: Place the item securely in its original packaging, include proof of purchase, and the completed Returns form.
+3. Shipping: Follow the provided instructions to ship the item back to us.
+
+**Outside the 14-Day Money Back Guarantee:**
+
+Once the 14 days are over, you will need to refer to your Warranty Policy or your Statutory Rights.
+
+* Refunds: Refunds are not valid past the 14-day period. After this, we can assist with repairs or replacements—no problem at all.
+* Replacements/Repairs: You will be covered for repairs or replacements up to your warranty period, so there’s nothing to worry about. Your warranty is clearly displayed on the product page and available on our [Warranty Policy page](https://veno-scorp.co.uk/pages/warranty "Warranty").
+
+**Your Statutory Rights**
+
+Our warranty and returns policy does not affect your statutory rights. For more information about your rights under UK law regarding returns and refunds, please visit the UK Government's official website at [https://www.gov.uk/accepting-returns-and-giving-refunds](https://www.gov.uk/accepting-returns-and-giving-refunds "https://www.gov.uk/accepting-returns-and-giving-refunds").  
+  
+We appreciate your understanding and cooperation in adhering to this policy, which helps us maintain high-quality service for all customers.
+
+**Your Consumer Rights**
+
+Our returns policy is designed to provide you with flexibility and convenience. However, it does not affect your statutory rights under the Consumer Rights Act 2015.  
+  
+Under the Consumer Rights Act 2015, you are entitled to a short-term right to reject goods within 30 days of delivery if they are:
+
+* Faulty (not of satisfactory quality).
+* Not fit for purpose (cannot be used for the intended purpose).
+* Not as described (does not match the description provided).
+
+If you exercise this right, you are entitled to a full refund. After the 30-day period, you can request a repair or replacement for any faulty or defective goods.  
+  
+To learn more about your consumer rights, please visit the UK Government's official website:  
+Consumer Rights Act 2015  
+  
+We are committed to honoring your rights and ensuring you receive the best service possible.
 
 ![](//veno-scorp.co.uk/cdn/shop/files/Logo-1_300x300.svg?v=1697263392)
 
