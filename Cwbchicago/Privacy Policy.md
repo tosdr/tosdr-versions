@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Diante-Speed-and-Shane-Colombo-326x245.jpg)](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/David-Atwater-usps-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
 
-Citywide
+Morgan Park
 
-### [60 years for murdering Northwestern student who had only been in Chicago 4 hours](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
+### [Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
 
-[December 3, 2024 6:45 PM](https://cwbchicago.com/2024/12)
+[December 4, 2024 5:39 AM](https://cwbchicago.com/2024/12)
 
-A judge on Tuesday sentenced a man to 60 years in prison for murdering a Northwestern University doctoral student just six hours after the victim moved to Chicago on September 2, 2018.[](https://cwbchicago.com/2024/12/60-years-for-murdering-northwestern-student-who-had-only-been-in-chicago-4-hours.html "60 years for murdering Northwestern student who had only been in Chicago 4 hours")
+Prosecutors have charged a man with robbing packages from a U.S. Postal Service mail carrier. The victim told police she recognized the robber because she had seen him in the neighborhood while making her rounds.[](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/JH523475-suspect-326x245.jpg)](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/bb19-326x245.jpg)](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
 
-Lincoln Park
+West Garfield Park
 
-### [Recognize him? Police release photos of gunman in fatal Lincoln Park shooting](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+### [Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
 
-[December 3, 2024 6:01 PM](https://cwbchicago.com/2024/12)
+[December 4, 2024 4:59 AM](https://cwbchicago.com/2024/12)
 
-Police on Tuesday evening released surveillance images of the man suspected of fatally shooting another man on a Lincoln Park sidewalk last week.[](https://cwbchicago.com/2024/12/recognize-him1-police-release-photos-of-gunman-in-fatal-lincoln-park-shooting.html "Recognize him? Police release photos of gunman in fatal Lincoln Park shooting")
+Around 8:47 p.m. Tuesday, somebody called 911 for a person down in the 4000 block of West Wilcox. Everybody thought he was yelling and screaming because he was drunk or high. In fact, he had been shot. It’s too bad the mayor removed ShotSpotter from that block in September. That man could have really used it.[](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Whitney-Wilcox-326x245.jpg)](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Maurice-Lowry-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
 
-West Rogers Park
+Chatham
 
-### [Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
+### [CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
 
-[December 3, 2024 4:25 PM](https://cwbchicago.com/2024/12)
+[December 3, 2024 8:28 PM](https://cwbchicago.com/2024/12)
 
-A North Side woman, handcuffed by Chicago cops after fatally stabbing her boyfriend, ordered her Google device to play several songs so she could dance in the couple’s living room while waiting to be taken to Area Three police headquarters, prosecutors alleged Tuesday.[](https://cwbchicago.com/2024/12/handcuffed-by-cops-after-murdering-boyfriend-woman-ordered-google-device-to-play-songs-so-she-could-dance-prosecutors-say.html "Handcuffed by cops after murdering boyfriend, woman ordered Google device to play songs so she could dance, prosecutors say")
+Remember the guy who prosecutors said “busjacked” a #67 CTA bus three years ago? Well, he’s now accused of beating and robbing a man while riding a Red Line train.[](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
 
 Search
 
