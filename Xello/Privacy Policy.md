@@ -62,11 +62,11 @@ If you have a specific question, fill in the comments box and our support team w
 
 What can we help you with today?\*
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
-        
+           
 
 [![xello-powered-by-cascaid](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
