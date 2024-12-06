@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [American Politics: Turnabout Trump (7,914)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (7,914 posts)")
-* [To Bury One's Youth\[Closed\]\[Ajax Only\] (5)](https://forum.nationstates.net/viewtopic.php?t=533363&f=4&view=unread#unread ""To Bury One's Youth[Closed][Ajax Only]" (5 posts)")
-* [Ukrainian War VII: Advent's Offspring (11,769)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Advent's Offspring" (11,769 posts)")
-* [NFL Football Thread 24-25: The Road t… (8,919)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,919 posts)")
-* [Guess AN's Gender (5,015)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (5,015 posts)")
+* [Guess The AN Ideology based on their… (2,684)](https://forum.nationstates.net/viewtopic.php?t=552241&f=25&view=unread#unread ""Guess The AN Ideology based on their flag (New)" (2,684 posts)")
+* [Say a random sentence (9,762)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,762 posts)")
+* [The International Incelosphere. (126)](https://forum.nationstates.net/viewtopic.php?t=559200&f=20&view=unread#unread ""The International Incelosphere." (126 posts)")
+* [What is your Opinion on the Suggested… (205)](https://forum.nationstates.net/viewtopic.php?t=555646&f=25&view=unread#unread ""What is your Opinion on the Suggested User?" (205 posts)")
 
 Advertisement
 
