@@ -6,7 +6,7 @@
 
 Features
 
-![Chevron pointing down to expand](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Identity Theft Protection](https://www.identityguard.com/identity-theft-protection)[Identity Theft Insurance](https://www.identityguard.com/identity-theft-insurance)[Financial Fraud Protection](https://www.identityguard.com/credit-monitoring)[VPN & Online Privacy](https://www.identityguard.com/vpn)
 
@@ -24,7 +24,7 @@ Take our simple quiz to discover the best plan for your needs.
 
 Resources
 
-![Chevron pointing down to expand](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
+![](https://cdn.prod.website-files.com/607724b2ae76e535db9552ff/6217a7163eefc57e4be4c560_chevron_down_small%20(1).svg)
 
 [Customer Service](https://www.identityguard.com/customer-service)[FAQ](https://www.identityguard.com/faq)[Help](https://help.aura.com/s/)[Resolution Resources](https://www.identityguard.com/resolution-resources)
 
