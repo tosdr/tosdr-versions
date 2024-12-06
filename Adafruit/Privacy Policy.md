@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Seek freedom and become captive of your desires. Seek discipline and find your liberty”
+“ Scientists investigate that which already is; engineers create that which has never been”
 
-[Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)
+[Albert Einstein](http://en.wikipedia.org/wiki/Albert_Einstein)
 
 [](https://www.adafruit.com/about)
 
