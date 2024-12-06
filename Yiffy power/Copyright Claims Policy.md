@@ -75,7 +75,7 @@ Latest commented posts
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 775 1
+0 785 1
 
 November 18, 2024
 
@@ -83,25 +83,25 @@ November 18, 2024
 
 [affax created by eihman and fumiko](https://yiff-party.com/yiff/affax-created-by-eihman-and-fumiko/)
 
-0 241 1
+0 254 1
 
 November 27, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-notevilfox/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-12/)
 
-[nintendo and etc created by notevilfox](https://yiff-party.com/yiff/nintendo-and-etc-created-by-notevilfox/)
+[directed by birdlover](https://yiff-party.com/yiff-ai-premium/directed-by-birdlover-12/)
 
-0 70 0
+0 32 0
 
 November 6, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-jirikdos-2/)
+[](https://yiff-party.com/yiff/rawaf-christmas-created-by-spuydjeks/)
 
-[directed by jirikdos](https://yiff-party.com/yiff-ai-premium/directed-by-jirikdos-2/)
+[rawaf (christmas) created by spuydjeks](https://yiff-party.com/yiff/rawaf-christmas-created-by-spuydjeks/)
 
-0 1 0
+0 0 0
 
-December 5, 2024
+December 6, 2024
 
 [Affiliation](https://yiff-party.com/yiff-party-affiliation/) / [Partner](https://yiff-party.com/website-yiff-partner/) / [DMCA](https://yiff-party.com/dmca-yiff-party-com/) / [Terms](https://yiff-party.com/terms-and-conditions/) / [Sitemap](https://yiff-party.com/sitemap/) / [Contact](https://yiff-party.com/Contact/)
 
