@@ -66,9 +66,11 @@ Accessories](https://www.tempurpedic.com/other-products/)
 Featured
 --------
 
-[![ProAdapt Hybrid Mattress](https://assets-www.tempurpedic.com/media/images/ProAdaptMedHybrid3Q.width-300.jpg)
+[Save 30%
 
-ProAdapt® Hybrid](https://www.tempurpedic.com/shop-mattresses/adapt-collection/v/2618/)
+![breeze° Closeout Mobile Shop Nav](https://assets-www.tempurpedic.com/media/images/061523_Breeze_Closeout_ShopNavTile-Mobile.width-300.jpg)
+
+2023 breeze° Closeout models](https://www.tempurpedic.com/shop-mattresses/breeze-closeouts/)
 
 * [![](https://assets-www.tempurpedic.com/media/images/OrdersNavVPV3_pRH2D75.original_1.original.png)
     
@@ -87,9 +89,9 @@ Special Offers
 
 ###### Extended Black Friday
 
-Save 30% + 2 Free Cloud Pillows
+Save 30%
 
-TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/cloud-sitebuster/v/3882/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
+TEMPUR-Cloud® Mattress](https://www.tempurpedic.com/shop-mattresses/tempur-cloud-mattress/)[![Two stacked Cloud Pillows](https://assets-www.tempurpedic.com/media/images/CloudOfferMobileNavV3.width-300.png)
 
 ###### Ends Monday
 
