@@ -655,21 +655,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Kamera­fehler beim iPhone 14 Plus: Vorschau geht nicht – was tun?](https://www.test.de/Kamerafehler-beim-iPhone-14-Plus-Vorschau-geht-nicht-was-tun-6173721-0/ "Kamerafehler beim iPhone 14 Plus - Vorschau geht nicht – was tun?")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
 
 Weitere Informationen
 
@@ -3073,21 +3073,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Kamera­fehler beim iPhone 14 Plus: Vorschau geht nicht – was tun?](https://www.test.de/Kamerafehler-beim-iPhone-14-Plus-Vorschau-geht-nicht-was-tun-6173721-0/ "Kamerafehler beim iPhone 14 Plus - Vorschau geht nicht – was tun?")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3129,39 +3129,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Kamera­fehler beim iPhone 14 Plus: Vorschau geht nicht – was tun?](https://www.test.de/Kamerafehler-beim-iPhone-14-Plus-Vorschau-geht-nicht-was-tun-6173721-0/ "Kamerafehler beim iPhone 14 Plus - Vorschau geht nicht – was tun?")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
 
 Neueste Tests
 
+* [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
 * [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
 * [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
 * [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 * [Kfz-Versicherung im Vergleich: Wechseln und sparen – hier finden Sie eine güns­tige Auto­versicherung](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Wechseln und sparen – hier finden Sie eine günstige Autoversicherung")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
-* [Primus-capital.net: Abzo­cker springen auf den KI-Hype auf](https://www.test.de/Primus-capitalnet-Abzocker-springen-auf-den-KI-Hype-auf-6144149-0/ "Primus-capital.net - Abzocker springen auf den KI-Hype auf")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Kamera­fehler beim iPhone 14 Plus: Vorschau geht nicht – was tun?](https://www.test.de/Kamerafehler-beim-iPhone-14-Plus-Vorschau-geht-nicht-was-tun-6173721-0/ "Kamerafehler beim iPhone 14 Plus - Vorschau geht nicht – was tun?")
+* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
+* [Mogel­packung und Verpackungs­ärger: Mit dieser Verpackung stimmt was nicht!](https://www.test.de/Mogelpackung-und-Verpackungsaerger-Mit-dieser-Verpackung-stimmt-was-nicht-6142434-0/ "Mogelpackung und Verpackungsärger - Mit dieser Verpackung stimmt was nicht!")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
 
 Stiftung Warentest
 
