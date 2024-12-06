@@ -1,7 +1,6 @@
  
 
 Main Navigation
-===============
 
 Open menu
 
