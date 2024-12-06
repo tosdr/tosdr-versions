@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                      
+Privacy policy – G FUEL                                                                                        
 
 [Skip to content](#MainContent)  
 
@@ -117,9 +117,9 @@ Close menu
 
  [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
 
- [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-183550_41d27ef1-c3ee-4452-b442-29be1fa39d18_medium.png?v=1733408488) Miami Nights](https://gfuel.com/products/miami-nights-tub)
+ [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-108238_medium.png?v=1733447356) Miami Nights](https://gfuel.com/products/miami-nights-tub)
 
- [![Bahama Mama](//gfuel.com/cdn/shop/files/bahama-mama-tub-g-fuel-gamer-drink-784981_0b8be80e-39c5-4810-8604-d346651cd527_medium.png?v=1733408451) Bahama Mama](https://gfuel.com/products/bahama-mama-tub-40-servings)
+ [![Bahama Mama](//gfuel.com/cdn/shop/files/bahama-mama-tub-g-fuel-gamer-drink-911629_medium.png?v=1733447296) Bahama Mama](https://gfuel.com/products/bahama-mama-tub-40-servings)
 
  [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
@@ -210,9 +210,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[30% off Fitness enthusiast collectionShop Energy + Protein](https://gfuel.com/collections/energy-protein)
+[g fuel x shadow the hedgehogJoin the Waitlist](https://gfuel.com/products/ultimate-chaos-collectors-box)
 
-[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
+[30% off Fitness enthusiast collectionShop Energy + Protein](https://gfuel.com/collections/energy-protein)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -596,7 +596,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/636/assets/app-store-badge.svg?v=123926581890561309811733260553)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/636/assets/google-play-badge.png?v=132395384020293405351733260553)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/638/assets/app-store-badge.svg?v=123926581890561309811733357605)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/638/assets/google-play-badge.png?v=132395384020293405351733357605)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
@@ -622,7 +622,7 @@ Rated 5.0 out of 5 stars
 
 Rated 5.0 out of 5 stars
 
-21 Reviews
+22 Reviews
 
 4.7
 
