@@ -175,7 +175,7 @@ Deployarr 5 Intro: Docker Homelab in Minutes🚀
 
 > **Be the 1 in 200,000. Help us sustain what we do.**
 > 
-> 113 / 150 by Dec 31, 2024
+> 119 / 150 by Dec 31, 2024
 > 
 > [Join the Geek Army!](https://www.smarthomebeginner.com/membership-account/memberships-products-services/)
 > 
@@ -232,12 +232,3 @@ All information on smarthomebeginner.com is for informational purposes only. No 
 * [Contact Us](https://www.smarthomebeginner.com/contact/)
 
 Copyright © 2024 HTPCBEGINNER LLC. All Rights Reserved · No reproduction without permission
-
-Black Friday Sale!
-------------------
-
-Limited Time 40% Off on [Platinum Memberships](https://www.smarthomebeginner.com/membership-account/join-the-geek-army/) (~$399.99~ $239.99).
-
-Code: **BF2024PL**
-
-Try Deployarr
