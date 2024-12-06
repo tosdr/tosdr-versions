@@ -159,7 +159,6 @@ If you have any questions or feedback regarding these terms, you can contact us 
 Information
 ===========
 
-* [Affiliate Program](https://whoer.net/affiliate)
 * [Blog](https://whoer.net/blog/)
 * [Recover access code](https://whoer.net/vpn/recovery)
 * [Terms of use](https://whoer.net/terms_of_use)
