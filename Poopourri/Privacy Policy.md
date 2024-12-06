@@ -4,7 +4,7 @@
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-              
+                  
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
@@ -45,6 +45,7 @@ shop
     * [Best Sellers](https://www.poopourri.com/collections/best-sellers)
     * [New!](https://www.poopourri.com/collections/new)
     * [Limited Time Scents](https://www.poopourri.com/collections/seasonal)
+    * [Holiday Gifts](https://www.poopourri.com/collections/holiday-gifts-that-sleigh)
     
     [](https://www.poopourri.com/collections/all-products)
     
@@ -129,6 +130,11 @@ X* [![cat-image](//pourri.com/cdn/shop/files/best-smeller-mob_small.jpg?v=180420
     ### New!
     
     The Latest & Greatest](https://www.poopourri.com/collections/new)
+* [![cat-image](//pourri.com/cdn/shop/files/Pet_1.4Box_FRT_small.jpg?v=640557179819009272)
+    
+    ### Holiday Gifts
+    
+    Presents at Every Price](https://www.poopourri.com/collections/holiday-gifts-that-sleigh)
 * [![cat-image](//pourri.com/cdn/shop/t/818/assets/bar-menu--all.jpg?v=127310225224191499861733419323)
     
     ### Shop All Products](https://www.poopourri.com/collections/all-products)
