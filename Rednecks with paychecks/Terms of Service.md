@@ -210,7 +210,7 @@ P.O. Box 443 • Saint Jo, Texas 76265
 
 877-RWP-4FUN
 
-©2024 by Rednecks With Paychecks.
+©2024 Rednecks With Paychecks Off-Road, LLC. Rednecks With Paychecks, Rednecks With Paychecks Off-Road, and RWP OFFROAD are registered trademarks of Rednecks With Paychecks Off-Road, LLC. All rights reserved.
 
 [Terms and Conditions •](https://www.redneckswithpaychecks.com/terms-and-conditions) [Privacy Policy](https://www.redneckswithpaychecks.com/privacy-policy)
 
