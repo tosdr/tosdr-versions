@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
-2. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
-3. [\[2024\] 140 IELTS Exam Preparation Resources](https://www.classcentral.com/report/ielts-preparation/)
-4. [10 Best Chess Courses for 2024](https://www.classcentral.com/report/best-chess-courses/)
-5. [Writing as Enchantment: Inside Alan Moore’s BBC Maestro Course](https://www.classcentral.com/report/review-bbc-maestro-alan-moore-course/)
+1. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
+2. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
+3. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
+4. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
+5. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. digital marketing
+1. python
     
-2. law
+2. finance
     
-3. trading
+3. French
     
 
 Popular subjects
 
-1. [Data Analysis
+1. [Cybersecurity
     
-    8,946 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Cybersecurity
+    17,005 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Ethical Hacking
     
-    17,003 courses](https://www.classcentral.com/subject/cybersecurity)
+    2,245 courses](https://www.classcentral.com/subject/ethical-hacking)
 3. [Graphic Design
     
-    4,405 courses](https://www.classcentral.com/subject/graphic-design)
+    4,395 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 
-1. [Marketing Digital: Content & Community Manager
+1. [Excel: Fundamentos y herramientas
     
-    Galileo University](https://www.classcentral.com/course/digital-marketing-universidad-galileo-marketing-d-10386)
-2. [Miracles of Human Language: An Introduction to Linguistics
+    Universitat Politècnica de València](https://www.classcentral.com/course/excel-universitat-politecnica-de-valencia-excel-f-2962)
+2. [Introducción a la Ciencia de Datos con Python
     
-    Leiden University](https://www.classcentral.com/course/humanlanguage-2940)
-3. [Terrorism and Counterterrorism: Comparing Theory and Practice
+    Universidad Anáhuac](https://www.classcentral.com/course/python-universidades-anahuac-introduccion-a-la-ci-21169)
+3. [Making Successful Decisions through the Strategy, Law & Ethics Model
     
-    Leiden University](https://www.classcentral.com/course/terrorism-701)
+    University of Michigan](https://www.classcentral.com/course/strategy-law-ethics-6195)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
