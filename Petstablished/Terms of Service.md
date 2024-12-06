@@ -55,7 +55,7 @@ Remember me
         Wagtopia MD
         ===========
         
-        Online Vet chat appointments 24/7](https://wagtopia.com/wagtopiamd)
+        Online Vet chat appointments 24/7](https://www.wagtopia.com/wagtopiamd)
     * [![microchip search icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Search.svg)
         
         Microchip Search
@@ -91,7 +91,7 @@ Remember me
         Community
         =========
         
-        Find answers to your burning pet health, training ...](https://wagtopia.com/blogs)
+        Find answers to your burning pet health, training ...](https://www.wagtopia.com/blogs)
 * [Testimonials](https://petlover.petstablished.com/testimonials)
 * [Contact](https://petlover.petstablished.com/contact_us)
 * [FAQ](https://petlover.petstablished.com/faq)
@@ -113,7 +113,7 @@ Remember me
         Wagtopia MD
         ===========
         
-        Online Vet chat appointments 24/7](https://wagtopia.com/wagtopiamd)
+        Online Vet chat appointments 24/7](https://www.wagtopia.com/wagtopiamd)
     * [![microchip search icon](https://s3.amazonaws.com/Petstablished/images/homepage/Menu+Icons/Microchip+Search.svg)
         
         Microchip Search
@@ -149,7 +149,7 @@ Remember me
         Community
         =========
         
-        Find answers to your burning pet health, training ...](https://wagtopia.com/blogs)
+        Find answers to your burning pet health, training ...](https://www.wagtopia.com/blogs)
 * [Testimonials](https://petlover.petstablished.com/testimonials)
 * [Contact](https://petlover.petstablished.com/contact_us)
 * [FAQ](https://petlover.petstablished.com/faq)
@@ -627,7 +627,7 @@ About Us
 Resources
 =========
 
-[Microchip Search](https://petlover.petstablished.com/microchip_search) [Register Microchips](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number) [Purchase Microchips](https://petlover.petstablished.com/microchip_order_public) [About Microchips](https://wagtopia.com/pages/microchip-order)
+[Microchip Search](https://petlover.petstablished.com/microchip_search) [Register Microchips](https://petlover.petstablished.com/microchip_registry_public/confirm_microchip_number) [Purchase Microchips](https://petlover.petstablished.com/microchip_order_public) [About Microchips](https://www.wagtopia.com/pages/microchip-order)
 
 Contact
 =======
