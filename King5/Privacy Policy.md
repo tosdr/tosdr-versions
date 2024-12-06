@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/218dedeb-a051-471e-8027-4188c56e15b4/20241205T201339/218dedeb-a051-471e-8027-4188c56e15b4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/218dedeb-a051-471e-8027-4188c56e15b4/20241205T201339/218dedeb-a051-471e-8027-4188c56e15b4_360x203.jpg)](https://www.king5.com/article/news/local/how-why-officials-decide-issue-tsunami-warning/281-39756f26-87f8-40f4-b1b8-1120a142b9d6)
+    *  [![](https://media.king5.com/assets/KING/images/96761b8b-17cd-4d13-b8c8-be10caf87db3/20241206T062610/96761b8b-17cd-4d13-b8c8-be10caf87db3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/96761b8b-17cd-4d13-b8c8-be10caf87db3/20241206T062610/96761b8b-17cd-4d13-b8c8-be10caf87db3_360x203.jpg)](https://www.king5.com/article/news/community/more-than-a-number/whidbey-island-family-mourns-teen-daughter-killed-in-crash/281-f97ce706-7a63-48c7-9d03-da89de0957af)
         
-        #### [How, why and when officials decide to call a Tsunami Warning](https://www.king5.com/article/news/local/how-why-officials-decide-issue-tsunami-warning/281-39756f26-87f8-40f4-b1b8-1120a142b9d6)
+        #### [Whidbey Island family mourns teen daughter killed in crash while driving in dense fog](https://www.king5.com/article/news/community/more-than-a-number/whidbey-island-family-mourns-teen-daughter-killed-in-crash/281-f97ce706-7a63-48c7-9d03-da89de0957af)
         
-    *  [![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b21705d6-4169-438e-a0f3-bb90412d7ab8/20241205T132157/b21705d6-4169-438e-a0f3-bb90412d7ab8_360x203.jpg)](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
+    *  [![](https://media.king5.com/assets/KING/images/e35ca099-d4d4-412c-8a58-1cb549d985e7/20241206T052127/e35ca099-d4d4-412c-8a58-1cb549d985e7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e35ca099-d4d4-412c-8a58-1cb549d985e7/20241206T052127/e35ca099-d4d4-412c-8a58-1cb549d985e7_360x203.jpg)](https://www.king5.com/article/news/local/seattle-business-owners-hope-big-boost-as-pioneer-square-construction-ends/281-209bf451-fd07-4149-8f7e-c970cc36a805)
         
-        #### [Lynnwood driver dies after crashing into apartment building](https://www.king5.com/article/news/local/driver-dies-lynnwood-crash-apartment-building/281-506d363b-8f62-4334-a3aa-71c6d0500e54)
+        #### [Seattle business owners hope for big boost as Pioneer Square construction wraps up](https://www.king5.com/article/news/local/seattle-business-owners-hope-big-boost-as-pioneer-square-construction-ends/281-209bf451-fd07-4149-8f7e-c970cc36a805)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,7 +60,7 @@ Navigation
         
         #### [Damage from bomb cyclone wind storm nearing $20 million in Snohomish County](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
         
-    *  [![](https://media.king5.com/assets/KING/images/d5b30a3d-0409-468c-882a-1cc592b4744f/20241205T203341/d5b30a3d-0409-468c-882a-1cc592b4744f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d5b30a3d-0409-468c-882a-1cc592b4744f/20241205T203341/d5b30a3d-0409-468c-882a-1cc592b4744f_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/f6f71264-7852-42a0-b8c9-a08146734397/20241206T022555/f6f71264-7852-42a0-b8c9-a08146734397_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f6f71264-7852-42a0-b8c9-a08146734397/20241206T022555/f6f71264-7852-42a0-b8c9-a08146734397_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d31760ac-4bf3-4554-a047-411bce200d25/20241206T032527/d31760ac-4bf3-4554-a047-411bce200d25_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d31760ac-4bf3-4554-a047-411bce200d25/20241206T032527/d31760ac-4bf3-4554-a047-411bce200d25_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/dunn-daccord-lead-kraken-to-5-2-win-over-islanders/281-5deecff7-cd4e-4a42-a079-3d39b5a53bce)
+        
+        #### [Dunn, Daccord lead Kraken to 5-2 win over Islanders](https://www.king5.com/article/sports/nhl/kraken/dunn-daccord-lead-kraken-to-5-2-win-over-islanders/281-5deecff7-cd4e-4a42-a079-3d39b5a53bce)
+        
     *  [![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
         
         #### [WSU running back Wayshawn Parker entering transfer portal](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
-        
-        #### [Seahawks try to maintain series dominance against the Cardinals in vital NFC West showdown](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+42°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
