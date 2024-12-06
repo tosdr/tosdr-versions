@@ -44,7 +44,7 @@ SUPPORT
 * [MY ACCOUNT](https://my.eurodns.com/login)
 * [HELP](https://help.eurodns.com/)
 
-* [](https://my.eurodns.com/product/viewcart)
+* [](https://my.eurodns.com/checkout-cart)
 
 ENGLISHFRANÇAISDEUTSCHESPAÑOL
 
@@ -278,10 +278,10 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 
 #### Latest blog articles
 
+* 05.12.2024[How does a Web Application Firewall (WAF) protect your website?](https://www.eurodns.com/blog/how-web-application-firewall-works)
 * 28.11.2024[DNSSEC Basics: Secure Your Business Domain](https://www.eurodns.com/blog/dnssec-guide-secure-domain)
 * 20.11.2024[Istanbul Insights: Key Outcomes from ICANN 81](https://www.eurodns.com/blog/icann-81-istanbul-insights)
 * 15.11.2024[How to Resolve Common Domain Transfer Problems](https://www.eurodns.com/blog/resolve-common-domain-transfer-problems)
-* 08.11.2024[7 Top Domain Trends You Need To Know For 2025](https://www.eurodns.com/blog/top-domain-trends-for-2025)
 
 #### Domain Name Discounts
 
@@ -363,7 +363,6 @@ If you disagree with any changes to this privacy policy, you will need to stop u
 * #### [Information](https://www.eurodns.com/information)
     
 * [Cookie Policy](https://www.eurodns.com/use-of-cookies)
-* [Photo Credits](https://www.eurodns.com/photo-credits)
 * [Terms & Conditions](https://www.eurodns.com/terms-and-conditions)
 * [Privacy Policy](https://www.eurodns.com/privacy-policy)
 * [Report Abuse](https://www.eurodns.com/report-abuse)
