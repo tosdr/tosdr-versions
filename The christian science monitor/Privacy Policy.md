@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### As Syrian rebels advance, what can Iran and its tired allies do for Assad?](https://www.csmonitor.com/World/Middle-East/2024/1205/iran-syria-rebels-assad-axis-hezbollah "As Syrian rebels advance, what can Iran and its tired allies do for Assad?")
+
 [Humility
 
 ### The new stoic Argentine](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1205/The-new-stoic-Argentine "The new stoic Argentine")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
 
-[Innovation
-
-### On Ukraine’s homefront, a DIY drone industry helps fill military’s needs](https://www.csmonitor.com/World/Europe/2024/1204/ukraine-drones-war-russia-volunteer "On Ukraine’s homefront, a DIY drone industry helps fill military’s needs")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 04, 2024
+December 05, 2024
 
-Large challenges, larger thinking
+A guide to global tilts
 
-When Lenora Chu looked into the rise of the far right in the former East Germany, here’s what she found. A feeling that west Germany looks down on those in the east. A sense that no party looks out for “the people at the bottom.” The worry that “everything in Germany is going downhill.” We see these same patterns in the United States and elsewhere. Seeing things in these larger ways can sometimes awaken us and help us see from a fresh perspective. In that way, Lenora’s report isn’t just about a German state, but also about a deeper question of how to help restore hope and dignity to those feeling abandoned by a changing world.
+As the United States watches its next administration take shape, political game boards and subterfuge unfold in Syria, the Baltic Sea – and everywhere sitting governments have been unseated of late, something that has happened in more countries than you might think. Today, our writers unpack three stories of international risks and reactions. They weave a remarkable array of perspectives and motives.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### As Syrian rebels advance, what can Iran and its tired allies do for Assad?](https://www.csmonitor.com/World/Middle-East/2024/1205/iran-syria-rebels-assad-axis-hezbollah "As Syrian rebels advance, what can Iran and its tired allies do for Assad?")
+
 [### ‘Bonfire of the incumbents’ unseats governments worldwide in 2024](https://www.csmonitor.com/World/2024/1205/elections-defeat-incumbents "‘Bonfire of the incumbents’ unseats governments worldwide in 2024")
 
 [### He gunned down a CEO and escaped by bike. Who killed Brian Thompson?](https://www.csmonitor.com/USA/2024/1205/brian-thompson-masked-shooter-new-york-city-healthcare-ceo "He gunned down a CEO and escaped by bike. Who killed Brian Thompson?")
-
-[### In Malawi, sex and mental health can be taboo topics. Not on this radio show.](https://www.csmonitor.com/World/Making-a-difference/2024/1205/malawi-farm-radio-trust "In Malawi, sex and mental health can be taboo topics. Not on this radio show.")
 
 * * *
 
