@@ -1288,6 +1288,7 @@ Gå direkt till :
             * [Biomedicinsk analytiker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker-intermittent-anstallning/)
             * [Laboratorieassistent eller laboratorietekniker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieassistent-eller-laboratorietekniker/)
             * [Laboratorietekniker - intermittent anställning](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorietekniker-intermittent-anstallning/)
+            * [Biomedicinsk analytiker](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/biomedicinsk-analytiker/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
             * [Ylva, mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/ylva-mikrobiolog/)
