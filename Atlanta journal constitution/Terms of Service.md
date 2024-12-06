@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Prosecutors move to drop charges against six more defendants in YSL case](https://www.ajc.com/news/crime/six-more-ysl-defendants-may-slip-charges/CWUGV7CVHRCMZGDFSWEMQLLGWM/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1864)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1864)](https://www.ajc.com/)
 
 Log In
@@ -51,7 +49,6 @@ Log In
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Election 2024](https://www.ajc.com/politics/election/)
     * [Trump Transition](https://www.ajc.com/politics/trump-transition/)
-    * [Georgia Runoff Election Results](https://www.ajc.com/politics/election-results/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
     * [Legislative Navigator](https://www.ajc.com/politics/georgia-legislative-navigator/)
