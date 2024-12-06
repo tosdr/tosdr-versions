@@ -802,7 +802,7 @@ Follow Us
 
 * [Privacy Policy(Opens a new window)](https://www.mars.com/privacy)
     
-* [Cookies Notice](https://www.mars.com/cookies-english)
+* [Cookies Notice](https://www.mars.com/privacy#cookies)
     
 * [Legal](https://www.mars.com/legal)
     
