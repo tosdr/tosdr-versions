@@ -140,6 +140,8 @@ Sanofi Global Privacy Policy
 
 Please select the policy that applies to your situation. 
 
+[Read Sanofi’s 8 Golden Principles](https://www.sanofi.com/assets/dotcom/pages/docs/our-company/social-impact/responsible-business-values/Golden-Principles_EN_MR_0612.pdf)
+
 [This privacy policy concerns patients and consumers](https://www.sanofi.com/en/privacy-and-data-protection/patients-and-consumers "Patients and consumers")
 
 [This privacy policy concerns healthcare professionnals](https://www.sanofi.com/en/privacy-and-data-protection/healthcare-professionals "Healthcare professionals")
