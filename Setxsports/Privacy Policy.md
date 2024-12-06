@@ -11,6 +11,8 @@
 
 * [Facebook](https://www.facebook.com/setxsports1/)
 
+ [![Learn more at Eastex Credit Union!](https://www.setxsports.com/Ads/Eastex/eastex.gif)](https://eastexcu.org/)[![Discover Beaumont Tractor Company!](https://www.setxsports.com/bmttractor.gif)](https://www.beaumonttractor.com/)
+
 Privacy Policy
 ==============
 
