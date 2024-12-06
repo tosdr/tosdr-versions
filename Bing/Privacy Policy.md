@@ -1,10 +1,10 @@
-This is the Trace Id: 5825b641a83b7ec37cf99c24da5f896b
+This is the Trace Id: 2d1f66cd272b703d250ae612f4b0b138
 
    
 
 [Skip to main content](javascript:void(0))
 
- ![](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31) Microsoft
+ ![](https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/UHFbanner-MSlogo?fmt=png-alpha&bfc=off&qlt=100,1) Microsoft
 
 Privacy
 
