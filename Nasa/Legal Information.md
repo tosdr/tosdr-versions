@@ -269,7 +269,7 @@ article 1 week ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-miss
 
 ### Matt Dominick’s X Account: A Visual Journey from Space
 
-article 4 hours ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article 11 hours ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -291,7 +291,7 @@ article 3 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-mee
 
 ### NASA Flights Map Critical Minerals from Skies Above Western US
 
-article 34 mins ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 8 hours ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
@@ -329,13 +329,13 @@ article 3 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-d
 
 ### Featured
 
-[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_Quasar3C273_STScI-01JD58K5NSQX3PEWJ5R1MDG94D.png)
+[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
 ### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
 
-article 1 hour ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Discovery Alert: a ‘Hot Neptune’ in a Tight Orbit](https://science.nasa.gov/wp-content/uploads/2024/11/hotneptune-1280c.jpeg)
 
 4 min read
 
@@ -351,19 +351,19 @@ article 1 week ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Highlights
 
-[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_Quasar3C273_STScI-01JD58K5NSQX3PEWJ5R1MDG94D.png)
+[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
 ### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
 
-article 1 hour ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
 
 1 min read
 
 ### Fresh Eyes on Ice Project Wins Award
 
-article 2 hours ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
@@ -379,7 +379,7 @@ article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c
 
 ### NASA Flips Efficient Wing Concept for Testing
 
-article 20 hours ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-flips-efficient-wing-concept-for-testing/)[![An angled view of a large, long testbed setup featuring metal hardware, wires, cables, and testing machinery.](https://www.nasa.gov/wp-content/uploads/2024/11/1-speed.jpg?w=1024)
 
 2 min read
 
