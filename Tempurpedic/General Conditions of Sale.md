@@ -43,7 +43,7 @@ Pillows](https://www.tempurpedic.com/shop-pillows/)[Save 40%
 
 ![The corner of a mattress topper held up to show zipped cover](https://assets-www.tempurpedic.com/media/images/ToppersMobileNavV4.width-300.png)
 
-Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save up to 50%
+Toppers](https://www.tempurpedic.com/other-products/tempur-toppers/)[Save 25%
 
 ![Tempur Sheet sets](https://assets-www.tempurpedic.com/media/images/368x160_NavBedding.width-300.png)
 
