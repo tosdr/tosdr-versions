@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
@@ -146,28 +147,28 @@ Latest reactions
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SX-LITE and SX-E by 8bits4ever](https://www.msx.org/news/hardware/en/sx-lite-and-sx-e-by-8bits4ever "SX-LITE and SX-E by 8bits4ever")
-* [DSK Pro light](https://www.msx.org/news/development/en/disk-pro-light "DSK Pro light")
 
 Latest forum posts
 
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=9 "Christmas Quiz 2024")
+* [Three custom levels to Kings Valley 1 Plus](https://www.msx.org/forum/msx-talk/software/three-custom-levels-to-kings-valley-1-plus?page=1 "Three custom levels to Kings Valley 1 Plus")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
+* [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
+* [Yamaha YRM-103 compatibility](https://www.msx.org/forum/msx-talk/software/yamaha-yrm-103-compatibility "Yamaha YRM-103 compatibility")
+* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=28 "Vhd interface for victor hc90/95")
 * [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=9 "Christmas Quiz 2024")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
-* [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
-* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [MSX Omega cases](https://www.msx.org/forum/msx-talk/hardware/msx-omega-cases?page=2 "MSX Omega cases")
 * [Generate QR codes on your MSX](https://www.msx.org/forum/msx-talk/development/generate-qr-codes-on-your-msx?page=1 "Generate QR codes on your MSX")
-* [Games with procedural graphics?](https://www.msx.org/forum/msx-talk/software/games-with-procedural-graphics "Games with procedural graphics?")
-* [Word Processing.](https://www.msx.org/forum/msx-talk/software/word-processing "Word Processing.")
-* [Joy Kid - Sensor Kid on the Joystick port](https://www.msx.org/forum/msx-talk/development/joy-kid-sensor-kid-on-the-joystick-port "Joy Kid - Sensor Kid on the Joystick port")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [63rd Barcelona MSX users meeting](https://www.msx.org/news/events/en/63rd-barcelona-msx-users-meeting "63rd Barcelona MSX users meeting")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
@@ -180,7 +181,6 @@ News headlines
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
-* [MSXdev24 #11 The Curse Of Lies](https://www.msx.org/news/challenges/en/msxdev24-11-the-curse-of-lies "MSXdev24 #11 The Curse Of Lies")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
