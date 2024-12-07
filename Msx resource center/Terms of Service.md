@@ -140,8 +140,8 @@ MSX Music player
 
 Latest reactions
 
-* [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
+* [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
@@ -153,7 +153,10 @@ Latest reactions
 
 Latest forum posts
 
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=10 "Christmas Quiz 2024")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
+* [MegaDoom by FCS](https://www.msx.org/forum/msx-talk/software/megadoom-by-fcs "MegaDoom by FCS")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=11 "Christmas Quiz 2024")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st?page=1 "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
 * [Yamaha YRM-103 compatibility](https://www.msx.org/forum/msx-talk/software/yamaha-yrm-103-compatibility "Yamaha YRM-103 compatibility")
 * [Three custom levels to Kings Valley 1 Plus](https://www.msx.org/forum/msx-talk/software/three-custom-levels-to-kings-valley-1-plus?page=1 "Three custom levels to Kings Valley 1 Plus")
@@ -161,11 +164,8 @@ Latest forum posts
 * [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=28 "Vhd interface for victor hc90/95")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=1 "ZX Spectrum Convertions")
 * [Omega MSX 2 Power Supply suggestion](https://www.msx.org/forum/msx-talk/hardware/omega-msx-2-power-supply-suggestion "Omega MSX 2 Power Supply suggestion")
 * [MSX Omega cases](https://www.msx.org/forum/msx-talk/hardware/msx-omega-cases?page=2 "MSX Omega cases")
-* [Generate QR codes on your MSX](https://www.msx.org/forum/msx-talk/development/generate-qr-codes-on-your-msx?page=1 "Generate QR codes on your MSX")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
