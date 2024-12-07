@@ -177,7 +177,7 @@ On-demand webinar coming soon...
 ### Resources
 
 * [DORA Compliance Countdown: Are you ready?](https://www.onetrust.com/resources/dora-compliance-countdown-are-you-ready-webinar/)
-* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent--preferences-in-modern-marketing-webinar/)
+* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent-preferences-in-modern-marketing-webinar/)
 * [OneTrust named a Leader in Operational Resilience Software 2024](https://www.onetrust.com/resources/onetrust-named-a-leader-in-operational-resilience-software-2024-report/)
 
 ### Platform
