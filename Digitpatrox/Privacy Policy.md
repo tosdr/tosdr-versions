@@ -20,16 +20,16 @@ Saturday, December 7 2024
 
 Latest
 
+* [Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
+* [My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
+* [How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
+* [The Appeal is in Customization](https://digitpatrox.com/the-appeal-is-in-customization/)
+* [5 Best Business Smartphones – Top Picks for Every Professional](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
+* [How to protect your bird feeder from hungry squirrels in 5 steps](https://digitpatrox.com/how-to-protect-your-bird-feeder-from-hungry-squirrels-in-5-steps/)
+* [New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://digitpatrox.com/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
+* [What Arm’s CEO makes of the Intel debacle](https://digitpatrox.com/what-arms-ceo-makes-of-the-intel-debacle/)
+* [Marvel Rivals Tier List: The Best Characters, Ranked](https://digitpatrox.com/marvel-rivals-tier-list-the-best-characters-ranked/)
 * [OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
-* [Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
-* [The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
-* [Never Buy Tickets on Social Media—It’s Nearly Always a Scam](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
-* [Chief AI Officers Are Emerging as Lynchpin in AI Success](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
-* [Forget sit-ups — these 5 exercises blast your entire core and you don’t need any equipment](https://digitpatrox.com/forget-sit-ups-these-5-exercises-blast-your-entire-core-and-you-dont-need-any-equipment/)
-* [Ultralytics AI model hijacked to infect thousands with cryptominer](https://digitpatrox.com/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-* [The 36 best gifts for every type of dad in 2024](https://digitpatrox.com/the-36-best-gifts-for-every-type-of-dad-in-2024/)
-* [Marvel Rivals Season 0 Battle Pass: Prices, Rewards, and More](https://digitpatrox.com/marvel-rivals-season-0-battle-pass-prices-rewards-and-more/)
-* [BT Group’s Conferencing division attacked by Black Basta ransomware gang](https://digitpatrox.com/bt-groups-conferencing-division-attacked-by-black-basta-ransomware-gang/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619148-0-40736900-1733538707-OpenAI.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3618893-0-65159600-1733503118-Apple-WWDC24-Apple-Intelligence-Writing-Tools-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
     
-    [OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
+    [Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
     
-    45 seconds ago
+    23 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
+* [![](https://lifehacker.com/imagery/articles/01J8JHZDP8RCMSQCQRKQWNH7YG/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
     
-    [Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
+    [My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
     
-    29 minutes ago
+    51 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028184/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-Cars-by-Category-1124)](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730912387/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-How-to-Clean-Toys-Safely-1124)](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
     
-    [The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
-    
-    39 minutes ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/an-illustration-of-a-person-buying-a-ticket-from-a-scammer-through-their-phone-with-some-warning-tapes-around.jpg)](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
-    
-    [Never Buy Tickets on Social Media—It’s Nearly Always a Scam](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
-    
-    40 minutes ago
-    
-* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_315682413.jpg)](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
-    
-    [Chief AI Officers Are Emerging as Lynchpin in AI Success](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
+    [How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
     
     1 hour ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/12/govee-christmas-lights-feature.jpg)](https://digitpatrox.com/the-appeal-is-in-customization/)
+    
+    [The Appeal is in Customization](https://digitpatrox.com/the-appeal-is-in-customization/)
+    
+    1 hour ago
+    
+* [![](https://assets.techrepublic.com/uploads/2023/02/tr2323-Samsung-Galaxy-Z-Fold-4.png)](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
+    
+    [5 Best Business Smartphones – Top Picks for Every Professional](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [45 seconds ago
+* [23 minutes ago
     
-    ### OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
-* [29 minutes ago
+    ### Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
+* [51 minutes ago
     
-    ### Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
-* [39 minutes ago
+    ### My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
+* [1 hour ago
     
-    ### The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
+    ### How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [August 24, 2024
     
-    ### How to Compile the VMware Workstation Pro Kernel Modules on Ubuntu/Debian](https://digitpatrox.com/how-to-compile-the-vmware-workstation-pro-kernel-modules-on-ubuntu-debian/)
-* [2 weeks ago
+    ### NYT Connections today hints and answers — Saturday, August 25 (#440)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-august-25-440/)
+* [September 29, 2024
     
-    ### Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
-* [October 30, 2024
+    ### How to watch Vikings vs Packers live stream online 2024](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
+* [October 8, 2024
     
-    ### My favorite teen drama is now streaming on Netflix — and it’s an addictive binge](https://digitpatrox.com/my-favorite-teen-drama-is-now-streaming-on-netflix-and-its-an-addictive-binge/)
+    ### What Happened to All the Good Racing Games?](https://digitpatrox.com/what-happened-to-all-the-good-racing-games/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Ultralytics AI model hijacked to infect thousands with cryptominer](https://digitpatrox.com/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+    ### New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://digitpatrox.com/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
 * [3 hours ago
     
-    ### The 36 best gifts for every type of dad in 2024](https://digitpatrox.com/the-36-best-gifts-for-every-type-of-dad-in-2024/)
-* [3 hours ago
+    ### What Arm’s CEO makes of the Intel debacle](https://digitpatrox.com/what-arms-ceo-makes-of-the-intel-debacle/)
+* [4 hours ago
     
-    ### Marvel Rivals Season 0 Battle Pass: Prices, Rewards, and More](https://digitpatrox.com/marvel-rivals-season-0-battle-pass-prices-rewards-and-more/)
+    ### Marvel Rivals Tier List: The Best Characters, Ranked](https://digitpatrox.com/marvel-rivals-tier-list-the-best-characters-ranked/)
 
 Most Viewed Topics
 
