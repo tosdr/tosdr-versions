@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/) [Ancient Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/ancient-philosophy/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Relativistic Time](https://www.exactlywhatistime.com/physics-of-time/relativistic-time/) [Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [Psychology of Time](https://www.exactlywhatistime.com/psychology-of-time/) [The Arrow of Time](https://www.exactlywhatistime.com/physics-of-time/the-arrow-of-time/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/)
+[Time Percenption](https://www.exactlywhatistime.com/psychology-of-time/time-percenption/) [Temporal Illusions](https://www.exactlywhatistime.com/psychology-of-time/temporal-illusions/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Sources And References](https://www.exactlywhatistime.com/sources-and-references/) [Units of Measurement](https://www.exactlywhatistime.com/measurement-of-time/units-of-measurement/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
