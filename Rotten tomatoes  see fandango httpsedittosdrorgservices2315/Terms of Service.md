@@ -18,9 +18,9 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Popular Poster Pack** Get 2 movie tickets to Wicked, a limited edition
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Moana 2 Ticket to Adventure - Only $29.99!** Get the Disney pin set & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Grab This Peacock Black Friday Deal Now** Get a whole year of Peacock for just $19.99.\*
 
@@ -189,6 +189,16 @@ New & Coming soon
 
 Close
 
+![Moana 2 Ticket to Adventure - Only $29.99!](https://images.fandango.com/cms/assets/2240ad60-b359-11ef-a588-3b078e6b3d8a--fan-globalnavbar-moanaticket2adventurebundle-343x362.png)
+
+#### $29.99 is calling your name! Get 1 ticket to Moana 2, an exclusive limited release Disney pin set, and more.
+
+The Moana 2 Ticket 2 Adventure bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must have, and be logged into, a Fandango at Home account to buy your bundle. You must have a Fandango account to redeem your movie ticket and receive your 400 FanRewards Points, and you must buy your Moana 2 Ticket 2 Adventure bundle using the same email address used for your Fandango account to receive all components of the bundle. You must be 18 years of age or older to purchase a bundle. The exclusive limited release Disney Pin USA set will begin shipping at the end of November. Please use a physical address where the exclusive limited release Disney Pin USA set can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. The 400 Bonus FanRewards Points will be added to your Fandango account after the release of Moana 2. See https://www.fandangomovietickets.com/moana2ticket2adventurebundle/ for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moanasticket2adventure_MOPBanner)
+
+### SPECIAL OFFER
+
+Close
+
 ![Popular Poster Pack](https://images.fandango.com/cms/assets/351a2720-8db8-11ef-a588-3b078e6b3d8a--fan-globalnavbar-wickedbundle-343x362.png)
 
 #### Get 2 movie tickets to Wicked, a limited edition poster, and more!
@@ -204,16 +214,6 @@ Close
 #### Take a piece of history home with our Gladiator II Prop Auction. Check out the Auction for official props straight from the movie set!
 
 See https://www.fandango.com/fanstoreauction-gladiator2 for full terms and details. [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_promomodule)
-
-### SPECIAL OFFER
-
-Close
-
-![Moana 2 Ticket to Adventure - Only $29.99!](https://images.fandango.com/cms/assets/2240ad60-b359-11ef-a588-3b078e6b3d8a--fan-globalnavbar-moanaticket2adventurebundle-343x362.png)
-
-#### $29.99 is calling your name! Get 1 ticket to Moana 2, an exclusive limited release Disney pin set, and more.
-
-The Moana 2 Ticket 2 Adventure bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must have, and be logged into, a Fandango at Home account to buy your bundle. You must have a Fandango account to redeem your movie ticket and receive your 400 FanRewards Points, and you must buy your Moana 2 Ticket 2 Adventure bundle using the same email address used for your Fandango account to receive all components of the bundle. You must be 18 years of age or older to purchase a bundle. The exclusive limited release Disney Pin USA set will begin shipping at the end of November. Please use a physical address where the exclusive limited release Disney Pin USA set can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. The 400 Bonus FanRewards Points will be added to your Fandango account after the release of Moana 2. See https://www.fandangomovietickets.com/moana2ticket2adventurebundle/ for full terms and conditions. [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventurebundle/?cmp=TARS~FANDANGO~Moanasticket2adventure_MOPBanner)
 
 ### Special Offer
 
