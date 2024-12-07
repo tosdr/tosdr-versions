@@ -72,9 +72,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/visual-perception-toy-giveaway.jpg)](https://www.theottoolbox.com/toys-to-improve-visual-perception/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/handwriting-toy-giveaway.jpg)](https://www.theottoolbox.com/motivating-handwriting-activities-for/)
                 
-                #### [Visual Perception Toys](https://www.theottoolbox.com/toys-to-improve-visual-perception/)
+                #### [Writing Activities for Reluctant Writers](https://www.theottoolbox.com/motivating-handwriting-activities-for/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
