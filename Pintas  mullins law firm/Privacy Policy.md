@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
+[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
 
-[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
+[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
 
-[![How long can you live with asbestosis?](https://www.pintas.com/wp-content/uploads/2020/02/lung-cancer-how-long-can-you-live-with-asbestosis.jpg "How Long Can You Live With Asbestosis?")](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/ "How Long Can You Live With Asbestosis?")
+[![Evidence for neglect in memory care cases](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care-300x200.jpg "Evidence for Neglect in Memory Care Cases")](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/ "Evidence for Neglect in Memory Care Cases")
 
-[#### How Long Can You Live With Asbestosis?](https://www.pintas.com/lung-cancer/how-long-can-you-live-with-asbestosis/)
+[#### Evidence for Neglect in Memory Care Cases](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/)
 
-[![Can chemo and radiation cure stage 3 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-can-chemo-and-radiation-cure-stage-3-lung-cancer.jpg "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/ "Can Chemo and Radiation Cure Stage 3 Lung Cancer?")
+[![How dangerous is second-hand smoke?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-dangerous-is-second-hand-smoke.jpg "How Dangerous Is Second-hand Smoke?")](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/ "How Dangerous Is Second-hand Smoke?")
 
-[#### Can Chemo and Radiation Cure Stage 3 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/can-chemo-and-radiation-cure-stage-3-lung-cancer/)
+[#### How Dangerous Is Second-hand Smoke?](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
