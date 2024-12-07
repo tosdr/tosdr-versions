@@ -30,13 +30,10 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
         
-        #### [Davenport teenager named one of the top students in the country in a national Broadway competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c) [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
+        #### [Business owners in Davenport sound off about hotel proposal](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
         
-        #### [Davenport teenager named a finalist in a national Broadway competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c) [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
-        
-        #### [From community theater to Broadway dreams: Davenport teen becomes finalist in national competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_360x203.jpg)](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
         
         #### [Suspect arrested in connection to Burlington shooting that left 1 dead and 1 injured](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
@@ -100,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-26°
+25°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
