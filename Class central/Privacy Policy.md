@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. excel
     
-2. c
+2. data science
     
-3. graphic design
+3. flutter
     
 
 Popular subjects
@@ -424,24 +424,24 @@ Popular subjects
 1. [Artificial Intelligence
     
     14,412 courses](https://www.classcentral.com/subject/ai)
-2. [Communication Skills
+2. [Data Analysis
     
-    4,304 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Python
+    8,948 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Digital Marketing
     
-    10,044 courses](https://www.classcentral.com/subject/python)
+    6,326 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [El rol de la digitalización en la transición energética
+1. [Nutrition and Health: Human Microbiome
     
-    Galileo University](https://www.classcentral.com/course/energy-universidad-galileo-el-rol-de-la-digitaliz-48104)
-2. [Arab-Islamic History: From Tribes to Empires
+    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-9565)
+2. [Elements of AI
     
-    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
-3. [Introduction to Mathematical Thinking
+    University of Helsinki](https://www.classcentral.com/course/independent-elements-of-ai-12469)
+3. [Stanford Introduction to Food and Health
     
-    Stanford University](https://www.classcentral.com/course/maththink-370)
+    Stanford University](https://www.classcentral.com/course/food-and-health-5057)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
