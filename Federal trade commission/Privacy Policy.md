@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Dec06
+    Dec11
     
-    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Ferguson’s Office and The National Restaurant Association](https://www.ftc.gov/news-events/events/2024/12/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-fergusons-office-national)
+    ### [How To Bring National Consumer Protection Week to Your Library](https://www.ftc.gov/news-events/events/2024/12/how-bring-national-consumer-protection-week-your-library)
     
-    Friday, December 6, 2024 | 11:00AM
+    Wednesday, December 11, 2024 | 2:00PM - 3:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
