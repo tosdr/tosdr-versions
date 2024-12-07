@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was happy with the proxy subscription and intend to renew... thanks for a great service.
+Is there anyway to continue this service. For some reason the credit card I used is no longer doing foreign transactions. I will try with another card if Paypal will let me. I was very happy with your service.
 
-Richard Atcheson
+David Moran
