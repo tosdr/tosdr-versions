@@ -311,6 +311,14 @@ For the past twenty years, Autism Speaks has been more than just a voice—it ha
 
 Pamela Dixon, Director of Clinical Services and Inclusion, had the privilege of traveling to the country of Georgia as part of the Professional
 
+![Dome of US Capitol](/sites/default/files/styles/content_list/public/capitol.jpg.webp?itok=id64flWi)
+
+11.25.24
+
+[### Policy Pulse Newsletter - November 2024](https://guide.autismspeaks.org/advocacy-news/policy-pulse-newsletter-november-2024)
+
+This newsletter edition shares updates about the Autism CARES Act of 2024, support for caregivers, global autism efforts and 2025 state advocacy plans
+
 ![Vincent Feng standing in front of Capitol steps in DC](/sites/default/files/styles/content_list/public/Vincent-Feng-standing-in-front-of-Capitol-steps-in-DC_0.jpg.webp?itok=XOCZPihX)
 
 11.21.24
@@ -326,14 +334,6 @@ In a significant step forward for autism advocacy, the United States Senate has 
 [### Autism Speaks Chief Science Officer speaks at congressional hearing on global public health](https://guide.autismspeaks.org/advocacy-news/andy-shih-congressional-hearing-public-health)
 
 Autism Speaks Chief Science Officer Dr. Andy Shih was one of three individuals invited to testify before the Subcommittee on Global Health.
-
-![Three panelists watching TV for video of Former First Lady Rosalynn Carter speaking about caregivers](/sites/default/files/styles/content_list/public/Three-panelists-watching-TV-for-video-of-Former-First-Lady-Rosalynn-Carter-speaking-about-caregivers.jpg.webp?itok=nAMehgul)
-
-11.19.24
-
-[### Autism Speaks joins congressional briefing on family caregivers](https://guide.autismspeaks.org/advocacy-news/autism-speaks-joins-congressional-briefing-family-caregivers)
-
-Autism Speaks was grateful to join the Rosalynn Carter Institute for Caregivers, Elizabeth Dole Foundation and Caregiver Action Network for a
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
