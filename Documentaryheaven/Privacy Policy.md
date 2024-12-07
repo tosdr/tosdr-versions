@@ -128,39 +128,39 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
     
-    The Fog of War
+    September Clues
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
 
 ###### Throwback Documentaries
 
-* [![Of Two Minds](/wp-content/thumbnails/13737-100x70.jpg?x53432)
+* [![Frederick the Great and the Enigma of Prussia](/wp-content/thumbnails/12920-100x70.jpg?x53432)
     
-    Of Two Minds
+    Frederick the Great and the Enigma of Prussia
     
-    Of Two Minds is an intimate look into what it is like to live with bipolar disorder, through three unique cases we learn of the struggles and successes faced on a daily basis and how these people have](https://documentaryheaven.com/of-two-minds/ "Of Two Minds")
-* [![Hip Hop Legends](/wp-content/thumbnails/7090-100x70.jpg?x53432)
+    In the spring of 1945, Adolf Hitler retreated to the Fuhrerbunker located 16 meters below the streets of Berlin, the Russian army was closing in on the German capital and World War II was all but](https://documentaryheaven.com/frederick-great-enigma-prussia/ "Frederick the Great and the Enigma of Prussia")
+* [![The Polar Bear Family & Me](/wp-content/thumbnails/6958-100x70.jpg?x53432)
     
-    Hip Hop Legends
+    The Polar Bear Family & Me
     
-    In the tradition of "Scratch", HIP HOP LEGENDS tells the story of the genesis of hip hop through specific, in-depth exclusive interviews with legends such as DMC, DJ Skribble, and Affrika Bambaataa an](https://documentaryheaven.com/hip-hop-legends/ "Hip Hop Legends")
-* [![Fastwalkers](/wp-content/thumbnails/1165-100x70.jpg?x53432)
+    In "POLAR BEAR FAMILY AND ME", legendary wildlife filmmaker Gordon Buchanan travels deep into the Arctic for his greatest challenge yet - infiltrating a family of polar bears and documenting the cubs'](https://documentaryheaven.com/the-polar-bear-family-me/ "The Polar Bear Family & Me")
+* [![Valveman](/wp-content/thumbnails/2630-100x70.jpg?x53432)
     
-    Fastwalkers
+    Valveman
     
-    Mankind's most carefully guarded secret revealed! For the first time.... information that you were never meant to know. A documentary that offers amazing UFO photos and video footage you were never me](https://documentaryheaven.com/fastwalkers/ "Fastwalkers")
-* [![Lucent](/wp-content/thumbnails/11868-100x70.jpg?x53432)
+    Valveman is the story of one mans lifetime obsession vintage radio,told with warmth,humour and innovation. Gerald Wells is Valveman.his lifes work has been to amass one of the worlds largest collecti](https://documentaryheaven.com/valveman/ "Valveman")
+* [![The Untold Story of Otto Warmbier](/wp-content/thumbnails/16635-100x70.jpg?x53432)
     
-    Lucent
+    The Untold Story of Otto Warmbier
     
-    Pigs are one of the smartest animals on the planet, their intelligence surpasses that of 3 year old children, dogs and even some primates. Much like humans, pigs have their own individual personality,](https://documentaryheaven.com/lucent/ "Lucent")
-* [![Human Universe](/wp-content/thumbnails/9276-100x70.jpg?x53432)
+    Otto Warmbier was an American college student who went on a trip to Pyongyang, the capital city of North Korea back in 2016. On this trip he found himself caught up in some real trouble as he was put](https://documentaryheaven.com/untold-story-of-otto-warmbier/ "The Untold Story of Otto Warmbier")
+* [![El Chapo: CEO of Crime](/wp-content/thumbnails/10018-100x70.jpg?x53432)
     
-    Human Universe
+    El Chapo: CEO of Crime
     
-    Human Universe is a new five part series released by the BBC and narrated by professor and physicist Brian Cox, which sets about exploring one of the most precious things found in our u](https://documentaryheaven.com/human-universe/ "Human Universe")
+    Joaquín Guzmán, better known as El Chapo or Shorty is officially the worlds most powerful drug trafficker. From rags to riches in less than a decade, he managed to turn a startup operation into an int](https://documentaryheaven.com/el-chapo-ceo-of-crime/ "El Chapo: CEO of Crime")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
