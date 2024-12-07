@@ -441,7 +441,13 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[06-12-2024
+[07-12-2024
+
+Syrian rebels’ advance becomes threat to Assad’s rule](https://www.euractiv.com/section/global-europe/news/syrian-rebels-advance-becomes-threat-to-assads-rule/)[07-12-2024
+
+Germany’s far-right AfD nominates chancellor candidate ahead of election](https://www.euractiv.com/section/politics/news/germanys-far-right-afd-nominates-chancellor-candidate-ahead-of-election/)[07-12-2024
+
+Romania in institutional crisis after annulled election](https://www.euractiv.com/section/politics/news/romania-in-institutional-crisis-after-annulled-election/)[06-12-2024
 
 EU-Mercosur trade deal: who wins and who loses in agri-food?](https://www.euractiv.com/section/agriculture-food/news/eu-mercosur-trade-deal-who-wins-and-who-loses-in-agri-food/)[06-12-2024
 
@@ -455,13 +461,7 @@ Irish fishermen pressure EU to exclude Norway from their waters](https://www.eur
 
 EU-Mercosur: The global alliance of herbivores starts today](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-the-global-alliance-of-herbivores-starts-today/)[06-12-2024
 
-Romanian presidential elections cancelled by constitutional court](https://www.euractiv.com/section/politics/news/romanian-presidential-elections-canceled-by-constitutional-court/)[06-12-2024
-
-Virkkunen supports EU telecoms consolidation, gets mixed national responses](https://www.euractiv.com/section/tech/news/virkkunen-supports-eu-telecoms-consolidation-gets-mixed-national-responses/)[06-12-2024
-
-EU seals long-stalled Mercosur trade deal](https://www.euractiv.com/section/economy-jobs/news/eu-seals-long-stalled-mercosur-trade-deal/)[06-12-2024
-
-Foreign clients of Russian gas feel the heat of US Gazprombank sanctions](https://www.euractiv.com/section/eet/news/foreign-clients-of-russian-gas-feel-the-heat-of-us-gazprombank-sanctions/)
+Romanian presidential elections cancelled by constitutional court](https://www.euractiv.com/section/politics/news/romanian-presidential-elections-canceled-by-constitutional-court/)
 
 ###### Advertisement
 
