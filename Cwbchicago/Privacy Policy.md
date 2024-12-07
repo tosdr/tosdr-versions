@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/YENIFER-JOSEFINA-QUERALES-GARCIA-and-RAINER-DE-JESUS-ESCOBAR-TONA-326x245.jpg)](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+
+South Shore
+
+### [Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+
+[December 4, 2024 7:16 PM](https://cwbchicago.com/2024/12)
+
+Two migrants are facing felony charges after a South Shore woman allegedly found them in her apartment when she returned home from a Thanksgiving getaway. And, prosecutors say, one of them had a gun.[](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Julius-Reed-and-Dexter-Reed-326x245.jpg)](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
 
 West Town
@@ -262,16 +272,6 @@ Oakland
 [December 4, 2024 10:03 AM](https://cwbchicago.com/2024/12)
 
 A 16-year-old boy is one of the armed robbers who’ve lured people into a trap through social media marketplace ads, according to Chicago police.[](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/David-Atwater-usps-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
-
-Morgan Park
-
-### [Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
-
-[December 4, 2024 5:39 AM](https://cwbchicago.com/2024/12)
-
-Prosecutors have charged a man with robbing packages from a U.S. Postal Service mail carrier. The victim told police she recognized the robber because she had seen him in the neighborhood while making her rounds.[](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
 
 Search
 
