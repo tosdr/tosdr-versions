@@ -671,8 +671,6 @@ An electronic submission has the same force and effect as if you had submitted a
 * About
 * [Our Mission](https://pacificsource.com/mission)
 * [History](https://pacificsource.com/history)
-* [Executive Team](https://pacificsource.com/about/executive-team)
-* [Board of Directors](https://pacificsource.com/about/board)
 * [Company News](https://pacificsource.com/company-news)
 * [Office Locations](https://pacificsource.com/locations)
 * [Careers](https://pacificsource.com/careers)
