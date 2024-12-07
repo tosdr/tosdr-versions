@@ -1,75 +1,94 @@
- 
+Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name "Lato". This Font Software is licensed under the SIL Open Font License, Version 1.1.Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name "Lato". This Font Software is licensed under the SIL Open Font License, Version 1.1.[Skip to main content](#main-content)
 
- [![Filemail Logo](/images/logo/logo-horiz.svg) ![Filemail Logo](/images/logo/logo.svg)](https://www.filemail.com/)
+[![Filemail.com Help Center](https://downloads.intercomcdn.com/i/o/438626/69bbcc24ac57df2d8be20670/a30ffa9b406f147d1c394f97e11367e5.png)](https://www.filemail.com/en/)
 
-[Sign up](https://www.filemail.com/price-plans-comparison) [Log in](https://www.filemail.com/login)
+English;
 
-* Solutions
-    
-    File transfer apps
-    
-    * [Android](https://www.filemail.com/sharing-apps/android-file-transfer-app)
-    * [API](https://www.filemail.com/apps/file-sharing-api)
-    * [iPhone](https://www.filemail.com/sharing-apps/iphone-file-transfer-app)
-    * [Outlook](https://www.filemail.com/apps/outlook-add-in-to-send-large-files)
-    * [Mac](https://www.filemail.com/apps/mac)
-    * [Windows](https://www.filemail.com/apps/windows)
-    * [Linux](https://www.filemail.com/apps/linux)
-    
-    Products
-    
-    * [Pro](https://www.filemail.com/pro)
-    * [Business](https://www.filemail.com/plans/business)
-    * [Enterprise MFT](https://www.filemail.com/enterprise-managed-file-transfer-mft)
-    
-* Features
-    
-    Share
-    
-    * [Automatic Download](https://www.filemail.com/share/automatic-download)
-    * [Download files](https://www.filemail.com/share/download-files-any-way-you-like)
-    * [Filemail API](https://www.filemail.com/share/filemail-apis)
-    * [File request](https://www.filemail.com/share/file-request)
-    * [File tracking](https://www.filemail.com/share/keep-track-of-files-and-people)
-    * [Link Sharing](https://www.filemail.com/share/link-sharing)
-    * [Receive large files](https://www.filemail.com/share/receive-large-files)
-    * [UDP Transfer Acceleration](https://www.filemail.com/share/udp-transfer-acceleration)
-    * [Upload files](https://www.filemail.com/share/upload-file)
-    * [Upload form integration](https://www.filemail.com/share/upload-form-integration)
-    * [Upload Images](https://www.filemail.com/share/upload-images)
-    
-    Customize
-    
-    * [Customization And Branding](https://www.filemail.com/customize/customization-and-branding)
-    * [Custom Subdomain](https://www.filemail.com/customize/custom-subdomain)
-    
-    MFT Features
-    
-    * [Full audit trail and governance](https://www.filemail.com/mft-features/full-audit-trail-and-governance)
-    * [HIPAA compliant file sharing](https://www.filemail.com/mft-features/hipaa-compliant-file-sharing)
-    * [Pentest report access](https://www.filemail.com/mft-features/pentest-report-access)
-    * [SAML/SSO](https://www.filemail.com/mft-features/saml-sso)
-    * [Two factor authentication](https://www.filemail.com/mft-features/two-factor-authentication)
-    
-    Security
-    
-    * [Secure data transfer and storage](https://www.filemail.com/security/secure-data-transfer-and-storage)
-    * [GDPR](https://www.filemail.com/security/gdpr)
-    
+English
 
-* [Affiliate program](https://www.filemail.com/resources/affiliate-program)
-* [Blog](https://www.filemail.com/blog)
-* Help
-    
-    [Support](https://support.filemail.com/) [How to send large files](https://www.filemail.com/how-to-send-large-files)
-    
-* [Sign up](https://www.filemail.com/price-plans-comparison)
-* [Log in](https://www.filemail.com/login)
+English;
 
-Filemail.com - Terms and Conditions of Use
-==========================================
+English
+
+Table of contents
+
+[](#h_b11499f0dc)
+
+[](#h_fff9f43b7c)
+
+[](#h_dab09f0195)
+
+[](#h_687832d903)
+
+[](#h_690fd26c8f)
+
+[](#h_02f74dfc4f)
+
+[](#h_cb7ccff3fb)
+
+[](#h_24028471d9)
+
+[](#h_e4b6620af4)
+
+[](#h_0bb6077826)
+
+[](#h_4149ada203)
+
+[](#h_90f455c583)
+
+[](#h_8da2b0db45)
+
+[](#h_4d4d1be6e6)
+
+[](#h_b0ab8dd2f8)
+
+[](#h_9c9c568f36)
+
+[All Collections](https://www.filemail.com/en/)
+
+[Policy](https://support.filemail.com/en/collections/10230611-policy)
+
+Terms and Conditions of Use
+
+Terms and Conditions of Use
 
 This disclaimer/terms of service notification are subject to change without notice.
+
+Updated over 4 months ago
+
+Table of contents
+
+[](#h_b11499f0dc)
+
+[](#h_fff9f43b7c)
+
+[](#h_dab09f0195)
+
+[](#h_687832d903)
+
+[](#h_690fd26c8f)
+
+[](#h_02f74dfc4f)
+
+[](#h_cb7ccff3fb)
+
+[](#h_24028471d9)
+
+[](#h_e4b6620af4)
+
+[](#h_0bb6077826)
+
+[](#h_4149ada203)
+
+[](#h_90f455c583)
+
+[](#h_8da2b0db45)
+
+[](#h_4d4d1be6e6)
+
+[](#h_b0ab8dd2f8)
+
+[](#h_9c9c568f36)
 
 1\. Terms
 ---------
@@ -79,13 +98,16 @@ By accessing this web site, you are agreeing to be bound by these web site Terms
 2\. Use License
 ---------------
 
-1. Permission is granted to temporarily download one copy of the materials (information or software) on Filemail's website for personal, non-commercial transitory viewing only. This limitation does not apply for the files that are transferred using Filemail - only for the website itself. This is the grant of a license, not a transfer of title, and under this license you may not:modify or copy the materials;use the materials for any commercial purpose, or for any public display (commercial or non-commercial);attempt to decompile or reverse engineer any software contained on Filemail's web site;remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server.
+1. Permission is granted to temporarily download one copy of the materials (information or software) on Filemail's website for personal, non-commercial transitory viewing only. This limitation does not apply for the files that are transferred using Filemail - only for the website itself. This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials; use the materials for any commercial purpose, or for any public display (commercial or non-commercial);attempt to decompile or reverse engineer any software contained on Filemail's web site; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or "mirror" the materials on any other server.
+    
 2. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Filemail at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+    
 
 3\. Disclaimer
 --------------
 
 1. The materials on Filemail's web site are provided "as is". Filemail makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Filemail does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+    
 
 4\. Limitations
 ---------------
@@ -120,12 +142,12 @@ Filemail may not be used to transfer any illegal or copyrighted material.
 10\. Cookies
 ------------
 
-Filemail uses and stores cookies to improve user's experience. By using Filemail you accept such use. To read more about cookies please visit [our cookies policy.](https://www.filemail.com/cookies)
+Filemail uses and stores cookies to improve user's experience. By using Filemail you accept such use. To read more about cookies please visit [our cookies policy.](https://support.filemail.com/en/articles/9756667-cookies-policy)
 
 11\. General Data Protection Regulation (GDPR)
 ----------------------------------------------
 
-For proper functioning of Filemail service and website Filemail will store your personal information, specifically name, company name, emails, street addresses, organization numbers, phone numbers and IP addresses of all devices that are used for sending or receiving files through Filemail. To read more about this topic please visit our [GDPR article](https://www.filemail.com/Link.ashx?id=1093).
+For proper functioning of Filemail service and website Filemail will store your personal information, specifically name, company name, emails, street addresses, organization numbers, phone numbers and IP addresses of all devices that are used for sending or receiving files through Filemail. To read more about this topic please visit our [GDPR article](https://support.filemail.com/general/filemail-gdpr).
 
 12\. Responsibility
 -------------------
@@ -152,73 +174,16 @@ Filemail reserves the right to charge any account $ an extra 1 year fee, if the 
 
 Registered users will be charged on a monthly or yearly basis according to the interval which the user chose when registering. The free trial will automatically extend to a paid subscription if the trial is not cancelled before it expires; as explicitly stated on the trial signup page.
 
-English
+* * *
 
-Company
--------
+Related Articles
 
-* [About us](https://www.filemail.com/about-us)
-* [Terms of use](https://support.filemail.com/en/articles/9756527-terms-and-conditions-of-use)
-* [Privacy Policy](https://support.filemail.com/en/articles/9756652-privacy-policy)
-* [Cookie policy](https://support.filemail.com/en/articles/9756667-cookies-policy)
+[What is Filemail?](https://support.filemail.com/en/articles/354392-what-is-filemail)[Downloading Shared Files Using FTP](https://support.filemail.com/en/articles/1139568-downloading-shared-files-using-ftp)
 
-Secure File Sharing Apps & Plugins
-----------------------------------
+Did this answer your question?
 
-* [Filemail Windows](https://www.filemail.com/apps/windows-file-transfer-app-for-pc)
-* [Filemail Mac](https://www.filemail.com/apps/mac-file-transfer-app)
-* [Filemail Linux](https://www.filemail.com/apps/linux-file-transfer-app)
-* [Outlook Addin](https://www.filemail.com/apps/outlook-add-in-to-send-large-files)
-* [Filemail iOS](https://www.filemail.com/sharing-apps/iphone-file-transfer-app)
-* [Filemail Android](https://www.filemail.com/sharing-apps/android-file-transfer-app)
+😞😐😃
 
-Upgrade
--------
+[![Filemail.com Help Center](https://downloads.intercomcdn.com/i/o/438626/69bbcc24ac57df2d8be20670/a30ffa9b406f147d1c394f97e11367e5.png)](https://www.filemail.com/en/)
 
-* [Pro](https://www.filemail.com/signuppro)
-* [Business](https://www.filemail.com/signupbusiness)
-* [Enterprise](https://www.filemail.com/enterprise-managed-file-transfer-mft)
-* [Price Plans Comparison](https://www.filemail.com/price-plans-comparison)
-
-Filemail Alternatives
----------------------
-
-* [File Sharing Sites Compared](https://www.filemail.com/file-sharing-sites-compared)
-* [vs WeTransfer](https://www.filemail.com/file-sharing-sites-compared/wetransfer-alternative)
-* [vs TransferNow](https://www.filemail.com/file-sharing-sites-compared/transfernow-alternative)
-* [vs DropBox](https://www.filemail.com/file-sharing-sites-compared/dropbox-alternative)
-* [vs Masv.io](https://www.filemail.com/file-sharing-sites-compared/masv-io-alternative)
-
-MFT Comparison
---------------
-
-* [Filemail MFT Alternatives](https://www.filemail.com/managed-file-transfer-software-comparison)
-* [vs Signiant](https://www.filemail.com/managed-file-transfer-software-comparison/signiant-alternative)
-* [vs Accellion](https://www.filemail.com/managed-file-transfer-software-comparison/accellion-alternative)
-* [vs Aspera](https://www.filemail.com/managed-file-transfer-software-comparison/aspera-alternative)
-* [vs Global Scape](https://www.filemail.com/managed-file-transfer-software-comparison/global-scape-alternative)
-* [vs Box](https://www.filemail.com/managed-file-transfer-software-comparison/box-alternative)
-
-Resources
----------
-
-* [Blog](https://www.filemail.com/blog)
-* [File Transfer Time Calculator](https://www.filemail.com/file-transfer-time-calculator)
-* [How To Send Large Videos](https://www.filemail.com/the-ultimate-guide-on-how-to-send-large-videos)
-* [Affiliate program](https://www.filemail.com/resources/affiliate-program)
-* [Awards](https://www.filemail.com/resources/awards)
-* [Send Large Files Free](https://www.filemail.com/)
-
-Get Social
-----------
-
-[](https://www.facebook.com/Filemail)[](https://twitter.com/Filemail)
-
-[sales@filemail.com](mailto:sales@filemail.com)
-
-Language
---------
-
-English
-
-© Copyright 2024 Filemail AS. All Rights Reserved
+* [Filemail.com](https://www.filemail.com/)
