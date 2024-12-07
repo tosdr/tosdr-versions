@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Dallas weather: Rainy weekend ahead](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/snapshot-2024-12-07t074559.055.jpg?ve=1&tl=1)
+ [![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188570368-scaled.jpg?ve=1&tl=1)
 
- ![Dallas weather: Rainy weekend ahead](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/snapshot-2024-12-07t074559.055.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-weekend-rain-timeline)
-
-### [Dallas weather: Rainy weekend ahead](https://www.fox4news.com/weather/dallas-weather-weekend-rain-timeline)
-
- [![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1)
-
- ![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
-
-### [Lewisville police officer accused of sexually assaulting citizen while on duty](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
-
- [![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2187934094-scaled.jpg?ve=1&tl=1)
-
- ![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2187934094-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-reopens-live)
+ ![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188570368-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-reopens-live)
 
 ### [Notre Dame reopens 5 years after devastating fire](https://www.fox4news.com/news/notre-dame-reopens-live)
 
- [![Police: CEO killer likely left NYC on bus headed for Atlanta](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/gunamn-2box.jpg?ve=1&tl=1)
+ [![Timothée Chalamet is an SMU football fan, apparently](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188543138.jpg?ve=1&tl=1)
 
- ![Police: CEO killer likely left NYC on bus headed for Atlanta](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/gunamn-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ceo-killer-likely-left-nyc-possible-escape-route-revealed)
+ ![Timothée Chalamet is an SMU football fan, apparently](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188543138.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/timothee-chalamet-college-gameday-smu)
 
-### [Police: CEO killer likely left NYC on bus headed for Atlanta](https://www.fox4news.com/news/ceo-killer-likely-left-nyc-possible-escape-route-revealed)
+### [Timothée Chalamet is an SMU football fan, apparently](https://www.fox4news.com/sports/timothee-chalamet-college-gameday-smu)
 
- [![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/gunman-backpack.jpg?ve=1&tl=1)
+ [![Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1838214638-scaled.jpg?ve=1&tl=1)
 
- ![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/gunman-backpack.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
+ ![Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1838214638-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pearl-harbor-day-2024)
 
-### [CEO killing live updates: Backpack that may be linked to gunman found](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
+### [Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://www.fox4news.com/news/pearl-harbor-day-2024)
+
+ [![Klyde Warren Park tree lighting ceremony on Saturday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/V_KLYDE-WARREN-TREE-LIGHTING-4A_KDFW027c_146_mxf_00.00.28.16.jpg?ve=1&tl=1)
+
+ ![Klyde Warren Park tree lighting ceremony on Saturday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/V_KLYDE-WARREN-TREE-LIGHTING-4A_KDFW027c_146_mxf_00.00.28.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/klyde-warren-park-tree-lighting-ceremony-saturday)
+
+### [Klyde Warren Park tree lighting ceremony on Saturday](https://www.fox4news.com/news/klyde-warren-park-tree-lighting-ceremony-saturday)
+
+ [![Frisco Police: 3 found dead inside home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1)
+
+ ![Frisco Police: 3 found dead inside home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-3-dead-bancroft-lane)
+
+### [Frisco Police: 3 found dead inside home](https://www.fox4news.com/news/frisco-3-dead-bancroft-lane)
 
 ###### [News](https://www.fox4news.com/news)
 
