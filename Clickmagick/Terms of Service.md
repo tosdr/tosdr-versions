@@ -9,7 +9,7 @@
     * [Other ClickMagick Tools](https://www.clickmagick.com/product/?tab=tools)
     * [Connect & Share](https://www.clickmagick.com/product/?tab=connect)
     * [Support & Training](https://www.clickmagick.com/product/?tab=support)
-    * [Don't run paid ads?](https://www.clickmagick.com/faqs/?noads=1)
+    * [Frequently Asked Questions](https://www.clickmagick.com/faqs/)
 
 * [Compare](#)
     * [DIY/CRM Tracking vs. ClickMagick](https://www.clickmagick.com/compare/diy-crm-tracking/)
@@ -22,7 +22,6 @@
 * [Agencies](https://www.clickmagick.com/agencies/)
 * [Pricing](https://www.clickmagick.com/pricing/)
 * [Guarantee](https://www.clickmagick.com/guarantee/)
-* [FAQs](https://www.clickmagick.com/faqs/)
 
 [Sign in](https://www.clickmagick.com/login/) [Start for free](https://www.clickmagick.com/signup/)
 
@@ -225,11 +224,10 @@ Get it on
 * [Other ClickMagick Tools](https://www.clickmagick.com/product/?tab=tools)
 * [Connect & Share](https://www.clickmagick.com/product/?tab=connect)
 * [Support & Training](https://www.clickmagick.com/product/?tab=support)
-* [Don't run paid ads?](https://www.clickmagick.com/faqs/?noads=1)
+* [Frequently Asked Questions](https://www.clickmagick.com/faqs/)
 
 ###### Resources
 
-* [FAQs](https://www.clickmagick.com/faqs/)
 * [Agencies](https://www.clickmagick.com/agencies/)
 * [DIY/CRM Tracking](https://www.clickmagick.com/compare/diy-crm-tracking/)
 * [Facebook Pixel](https://www.clickmagick.com/compare/facebook-pixel/)
