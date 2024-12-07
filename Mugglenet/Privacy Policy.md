@@ -246,24 +246,6 @@ MuggleNet Archive Select Month December 2024  (1) November 2024  (23) October 
 
 ### December 2024
 
-#### Fri, Dec 6
-
-Newt Scamander disembarks from a steamship in New York harbor
-
-Recurs yearly
-
-1926
-
-Oliver Masucci's birthday
-
-Recurs yearly
-
-Head of International Confederation of Wizards -FB3
-
-Rubeus Hagrid's birthday
-
-Recurs yearly
-
 #### Sat, Dec 7
 
 Henry Shaw, Jr. is killed
@@ -306,6 +288,14 @@ Charlie Weasley's birthday
 
 Recurs yearly
 
+#### Fri, Dec 13
+
+The Tales of Beedle the Bard sells at auction for $4 million
+
+Recurs yearly
+
+2007
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -316,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Daniel Radcliffe’s ankle was shaved for the scene in Harry Potter and the Chamber of Secrets when he shows Lucius Malfoy his missing sock.
+Hermione Granger is an only child. She originally had a younger sister, but the storyline didn’t work out.
 
 ### Potter History
 
-July 7, 2009 – Harry Potter and the Deathly Hallows is released in paperback in the United States.
+June 5, 2005 – MuggleNet’s huge Harry Potter and the Half-Blood Prince book release party, “Spellbound 2005,” is officially announced.
 
 ### Potter Quote
 
-“Hogwash.”
+“Numbing the pain for a while will make it worse when you finally feel it.”
 
 [](#)
 
