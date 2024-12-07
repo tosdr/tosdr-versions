@@ -271,14 +271,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://dotsgallery.org/rs](https://dotsgallery.org/rs)
     
-    [10:00 Marie Hué, BG](javascript:void(0);)
-    
-    **25.09.2024 | 10:00**
-    
-    Klub književnika, Francuska 7, Beograd
-    
-    **MARIE HU****É** (Francuska): **FRAGILITIES** - izložba (24.9.-20.12.2024.)
-    
     [10:00 Vladimir R. Petković, BG](javascript:void(0);)
     
     **25.09.2024 | 10:00**
@@ -295,14 +287,22 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.sanu.ac.rs](https://www.sanu.ac.rs/)
     
+    [10:00 Marie Hué, BG](javascript:void(0);)
+    
+    **25.09.2024 | 10:00**
+    
+    Klub književnika, Francuska 7, Beograd
+    
+    **MARIE HU****É** (Francuska): **FRAGILITIES** - izložba (24.9.-20.12.2024.)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10/rad-zirija.jpg?itok=LX5T_hL1)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-10-art-klinike/perspektive-10-1)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/fotografije-nyc/nyc15.jpg?itok=e13SvCR_)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/fotografije-nyc)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/omer-fast/omer-fast.jpg?itok=GYcEmT-R)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/omer-fast)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/mermer-i-zvuci/tobias-putrih/arandjelovac.jpg?itok=jaVtXEDk)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/mermer-i-zvuci/tobias-putrih)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
 * [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [MSUB: Hvala Raši Todosijeviću!](http://seecult.org/vest/msub-hvala-rasi-todosijevicu)
 * [Preminuo Raša Todosijević](http://seecult.org/vest/preminuo-rasa-todosijevic)
 * [Ohrabrenje i ovacije za Mitrovića na kraju 28. FKM](http://seecult.org/vest/ohrabrenje-i-ovacije-za-mitrovica-na-kraju-28-fkm)
-* [VOĐENJE: Ana Knežević - Geometrija praznine](http://seecult.org/vest/vodenje-ana-knezevic-geometrija-praznine)
 
 * [Konkursi](#tab1_1)
 
