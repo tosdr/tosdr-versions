@@ -95,59 +95,61 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Back to Genesis
+More Creation Science Update
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/evolutionary_acceptance_misinformation_1400x1050.jpg)](https://www.icr.org/article/evolutionary-acceptance-and-misinformation)
+[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
 
-[Evolutionary Acceptance and Misinformation](https://www.icr.org/article/evolutionary-acceptance-and-misinformation/)
+[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
 
-A recent study claims that a majority (54%) of Americans now accept as true the statement “Human beings, as we know them today, developed from earlier...
+Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
 
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/intricate_animal_designs_demand_creator.jpg)](https://www.icr.org/article/intricate-animal-designs-demand-a-creator)
+[![](/i/Main%20Stage%20-%201400x1050/sharkjaws_1400x1050.jpg)](https://www.icr.org/article/shark-jaws)
 
-[Intricate Animal Designs Demand a Creator](https://www.icr.org/article/intricate-animal-designs-demand-a-creator/)
+[Shark Jaws](https://www.icr.org/article/shark-jaws/)
 
-Evidence of our Creator is all around us. Romans 1:19-20 states, “What may be known of God is manifest in \[people\], for God has shown it to them....
+Sharks are back in the news, and it’s in regard to their most formidable and fearsome structure—their jaws. Zoologists recently studied...
 
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/BuildingHumBody.jpg)](https://www.icr.org/article/building-a-human-body)
+[![](/i/Main%20Stage%20-%201400x1050/sunflowersees_1400x1050.jpg)](https://www.icr.org/article/sunflowers-see-sun)
 
-[Building a Human Body: Jesus Christ's Amazing Engineering](https://www.icr.org/article/building-a-human-body/)
+[How Sunflowers ''See'' the Sun](https://www.icr.org/article/sunflowers-see-sun/)
 
-When Charles Darwin formulated his theory of evolution, he appealed to the logic of ancestry, the evident diversity of species, and the magic of time....
+Sunflowers (Helianthus annuus) are not only big and beautiful, but they also have an amazing biomechanism called heliotropism. ICR’s Dr. Jim...
 
-BY: [GREGORY J. BREWER, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=113)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
 
-Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
 
-$29.99
+$12.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
 
-The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
 
-$19.99
+$16.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
 
-The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
 
-$14.99
+$4.99
 
-$19.99
+$9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
 
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
 
-$19.99
+$4.99
+
+$9.99
 
 [](https://store.icr.org/.html)
 
