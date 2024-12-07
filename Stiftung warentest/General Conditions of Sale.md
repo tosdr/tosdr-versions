@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
-* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
-* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
-* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
-* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
-* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
+* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
+* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
+* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
+* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
 
 Stiftung Warentest
 
