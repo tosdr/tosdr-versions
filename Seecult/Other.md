@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put/haos-011.jpg?itok=b-d-kD00)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-5/roboaction5-di.jpg?itok=hS3VcIJI)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-5)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zvono.jpg?itok=bup4caF1)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/messerchups.jpg?itok=oVKJ8c66)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,6 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Savremeni italijanski filmovi u Beogradu](http://seecult.org/vest/savremeni-italijanski-filmovi-u-beogradu)
 * [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
@@ -327,7 +328,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Marija Ručara u MPU](http://seecult.org/vest/marija-rucara-u-mpu)
 * [MSUB: Hvala Raši Todosijeviću!](http://seecult.org/vest/msub-hvala-rasi-todosijevicu)
 * [Preminuo Raša Todosijević](http://seecult.org/vest/preminuo-rasa-todosijevic)
-* [Ohrabrenje i ovacije za Mitrovića na kraju 28. FKM](http://seecult.org/vest/ohrabrenje-i-ovacije-za-mitrovica-na-kraju-28-fkm)
 
 * [Konkursi](#tab1_1)
 
