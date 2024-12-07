@@ -128,39 +128,39 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    The Fog of War
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
 
 ###### Throwback Documentaries
 
-* [![Her Majesty’s Prison: Aylesbury](/wp-content/thumbnails/10085-100x70.png?x53432)
+* [![Of Two Minds](/wp-content/thumbnails/13737-100x70.jpg?x53432)
     
-    Her Majesty’s Prison: Aylesbury
+    Of Two Minds
     
-    The authorities at Aylesbury prison in the United Kingdom, have to try and manage some of the most dangerous and disruptive 18 to 21 year olds in the country with one in five prisoners serving li](https://documentaryheaven.com/her-majestys-prison-aylesbury/ "Her Majesty’s Prison: Aylesbury")
-* [![Fighting Gaddafi](/wp-content/thumbnails/6152-100x70.jpg?x53432)
+    Of Two Minds is an intimate look into what it is like to live with bipolar disorder, through three unique cases we learn of the struggles and successes faced on a daily basis and how these people have](https://documentaryheaven.com/of-two-minds/ "Of Two Minds")
+* [![Hip Hop Legends](/wp-content/thumbnails/7090-100x70.jpg?x53432)
     
-    Fighting Gaddafi
+    Hip Hop Legends
     
-    Paul Kenyon tells the story of the country's failing popular uprising, revealing the regime's alleged war crimes and uncovering how the Libyan military fired on seemingly unarmed protesters. He also t](https://documentaryheaven.com/fighting-gaddafi/ "Fighting Gaddafi")
-* [![Dispatches: The Data Theft Scandal](/wp-content/thumbnails/1233-100x70.jpg?x53432)
+    In the tradition of "Scratch", HIP HOP LEGENDS tells the story of the genesis of hip hop through specific, in-depth exclusive interviews with legends such as DMC, DJ Skribble, and Affrika Bambaataa an](https://documentaryheaven.com/hip-hop-legends/ "Hip Hop Legends")
+* [![Fastwalkers](/wp-content/thumbnails/1165-100x70.jpg?x53432)
     
-    Dispatches: The Data Theft Scandal
+    Fastwalkers
     
-    In a 12-month undercover investigation, Sue Turton infiltrates criminal networks which trade British consumers' bank and other confidential information for huge profits in India, the world's new call](https://documentaryheaven.com/dispatches-the-data-theft-scandal/ "Dispatches: The Data Theft Scandal")
-* [![ZERO: An Investigation Into 9/11](/wp-content/thumbnails/4643-100x70.jpg?x53432)
+    Mankind's most carefully guarded secret revealed! For the first time.... information that you were never meant to know. A documentary that offers amazing UFO photos and video footage you were never me](https://documentaryheaven.com/fastwalkers/ "Fastwalkers")
+* [![Lucent](/wp-content/thumbnails/11868-100x70.jpg?x53432)
     
-    ZERO: An Investigation Into 9/11
+    Lucent
     
-    ZERO: An Investigation into 9/11, has one central thesis - that the official version of the events surrounding the attacks on 9/11 can not be true. This brand new feature documentary from Italian prod](https://documentaryheaven.com/zero-an-investigation-into-911/ "ZERO: An Investigation Into 9/11")
-* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
+    Pigs are one of the smartest animals on the planet, their intelligence surpasses that of 3 year old children, dogs and even some primates. Much like humans, pigs have their own individual personality,](https://documentaryheaven.com/lucent/ "Lucent")
+* [![Human Universe](/wp-content/thumbnails/9276-100x70.jpg?x53432)
     
-    The Death of Yugoslavia
+    Human Universe
     
-    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
+    Human Universe is a new five part series released by the BBC and narrated by professor and physicist Brian Cox, which sets about exploring one of the most precious things found in our u](https://documentaryheaven.com/human-universe/ "Human Universe")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
