@@ -1,6 +1,6 @@
 [Skip To Content](#page-content-section) [Skip To Navigation](#)
 
-[Shop Our Holiday Gift Guide >](https://www.shaneco.com/christmas-gift-ideas?promo_name=global&promo_id=holiday) [Free Express Shipping & Free 60-Day Returns](https://www.shaneco.com/customer-service/shipping?promo_name=global&promo_id=shipping)
+[Order by 12/19 for Delivery In Time for Christmas!](https://www.shaneco.com/christmas-gift-ideas?promo_name=global&promo_id=holiday_gg) [Get An Engagement Ring by Christmas! Shop Now >](https://www.shaneco.com/engagement-rings/c?promo_name=global&promo_id=holiday_ers)
 
 **Item**  has been added to your bag
 
