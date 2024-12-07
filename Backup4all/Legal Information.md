@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to install Backup4all using the main inte ...](https://www.backup4all.com/how-to-install-backup4all-using-the-main-interface-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
-* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
+* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
     
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
     
-* [How to back up data files from Cisco using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-cisco-using-backup4all-kb.html)  
+* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
     
-* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
+* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
     
 
 Choose language:
