@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Friday, December 6 2024
+Saturday, December 7 2024
 
 Latest
 
-* [Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
-* [Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
-* [Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
-* [Alteryx names Andy MacMillan as new CEO](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
-* [Microsoft moves to stop M365 Copilot from ‘oversharing’ data – Computerworld](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
-* [The Best Stocking Stuffers for Tech Nerds](https://digitpatrox.com/the-best-stocking-stuffers-for-tech-nerds/)
-* [Massachusetts hospital notifies 316,000 people of data breach that compromised SSNs, medical and financial info](https://digitpatrox.com/massachusetts-hospital-notifies-316000-people-of-data-breach-that-compromised-ssns-medical-and-financial-info/)
-* [How to create rules for emails in Outlook for Windows 11](https://digitpatrox.com/how-to-create-rules-for-emails-in-outlook-for-windows-11/)
-* [Popular Cars to Avoid and What to Buy Instead](https://digitpatrox.com/popular-cars-to-avoid-and-what-to-buy-instead/)
-* [Microsoft Ends Sale of Skype Numbers & Credits](https://digitpatrox.com/microsoft-ends-sale-of-skype-numbers-credits/)
+* [Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
+* [Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
+* [How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
+* [Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
+* [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
+* [Deadlock Patch Notes (December 6): Raven, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-december-6-raven-buffs-nerfs-other-changes/)
+* [Sharp continues European IT services push with latest acquisition](https://digitpatrox.com/sharp-continues-european-it-services-push-with-latest-acquisition/)
+* [ByteDance is about to learn a painful genAI lesson – Computerworld](https://digitpatrox.com/bytedance-is-about-to-learn-a-painful-genai-lesson-computerworld/)
+* [Seven Tricks to Help You Stop Losing Your Phone (and Wallet, and Keys)](https://digitpatrox.com/seven-tricks-to-help-you-stop-losing-your-phone-and-wallet-and-keys/)
+* [How to create email signature on new Outlook app for Windows 11](https://digitpatrox.com/how-to-create-email-signature-on-new-outlook-app-for-windows-11/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/12/06/BlueYonder-headpic.jpg)](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
+* [![](https://cdn.mos.cms.futurecdn.net/72k2PYYBXvAgZTnN2YvvFW-1200-80.jpg)](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
     
-    [Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
+    [Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
     
-    40 minutes ago
+    21 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg)](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
+* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_272603267.jpg)](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
     
-    [Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
+    [Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
     
-    57 minutes ago
+    25 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/fortnite-og-official-poster.jpg)](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
+* [![](https://cdn.mos.cms.futurecdn.net/5o6SVNJgCvNgBtT7dcjjC7-1200-80.jpg)](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
     
-    [Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
+    [How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
     
-    1 hour ago
+    29 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/yDJKgtuBwaxvZ7BZMsMee4-1200-80.jpg)](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/20/windows-11-recall.jpg)](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
     
-    [Alteryx names Andy MacMillan as new CEO](https://digitpatrox.com/alteryx-names-andy-macmillan-as-new-ceo/)
+    [Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616459-0-19569000-1733310408-stop_push-back_caution_man-holding-hand-up_binary-thinkstock-100819035-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/nWMQ2KnFoURalTiL_JTysCbLXCo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25503647/DSCF7835_Enhanced_NR.jpg)](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
     
-    [Microsoft moves to stop M365 Copilot from ‘oversharing’ data – Computerworld](https://digitpatrox.com/microsoft-moves-to-stop-m365-copilot-from-oversharing-data-computerworld/)
+    [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [40 minutes ago
+* [21 minutes ago
     
-    ### Blue Yonder SaaS giant breached by Termite ransomware gang](https://digitpatrox.com/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
-* [57 minutes ago
+    ### Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
+* [25 minutes ago
     
-    ### Google’s Pixel 9A looks destined to ditch the camera bar](https://digitpatrox.com/googles-pixel-9a-looks-destined-to-ditch-the-camera-bar/)
-* [1 hour ago
+    ### Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
+* [29 minutes ago
     
-    ### Fortnite OG Returns as Permanent Game Mode, Brings Back Original Map and Gameplay](https://digitpatrox.com/fortnite-og-returns-as-permanent-game-mode-brings-back-original-map-and-gameplay/)
+    ### How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
 
 Most Popular Topics
 
-* [October 29, 2024
+* [September 10, 2024
     
-    ### Sony’s noise-canceling XM5s have dropped to one of their best prices yet](https://digitpatrox.com/sonys-noise-canceling-xm5s-have-dropped-to-one-of-their-best-prices-yet/)
-* [August 16, 2024
+    ### Game Pass Standard Arrives With Lower Price and Fewer Games](https://digitpatrox.com/game-pass-standard-arrives-with-lower-price-and-fewer-games/)
+* [3 weeks ago
     
-    ### What Is Google’s AI Overviews?](https://digitpatrox.com/what-is-googles-ai-overviews/)
-* [August 11, 2024
+    ### Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://digitpatrox.com/apples-rumored-six-inch-ai-wall-tablet-could-control-your-smart-home-by-march-2025/)
+* [August 23, 2024
     
-    ### 1080p vs. 1440p vs. 4K Monitors: How Big Is the Difference?](https://digitpatrox.com/1080p-vs-1440p-vs-4k-monitors-how-big-is-the-difference/)
+    ### Microsoft confirms August updates break Linux boot in dual-boot systems](https://digitpatrox.com/microsoft-confirms-august-updates-break-linux-boot-in-dual-boot-systems/)
 
 Last Modified Topics
 
 * [4 hours ago
     
-    ### Massachusetts hospital notifies 316,000 people of data breach that compromised SSNs, medical and financial info](https://digitpatrox.com/massachusetts-hospital-notifies-316000-people-of-data-breach-that-compromised-ssns-medical-and-financial-info/)
+    ### Sharp continues European IT services push with latest acquisition](https://digitpatrox.com/sharp-continues-european-it-services-push-with-latest-acquisition/)
 * [4 hours ago
     
-    ### How to create rules for emails in Outlook for Windows 11](https://digitpatrox.com/how-to-create-rules-for-emails-in-outlook-for-windows-11/)
-* [4 hours ago
+    ### ByteDance is about to learn a painful genAI lesson – Computerworld](https://digitpatrox.com/bytedance-is-about-to-learn-a-painful-genai-lesson-computerworld/)
+* [5 hours ago
     
-    ### Popular Cars to Avoid and What to Buy Instead](https://digitpatrox.com/popular-cars-to-avoid-and-what-to-buy-instead/)
+    ### Seven Tricks to Help You Stop Losing Your Phone (and Wallet, and Keys)](https://digitpatrox.com/seven-tricks-to-help-you-stop-losing-your-phone-and-wallet-and-keys/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
