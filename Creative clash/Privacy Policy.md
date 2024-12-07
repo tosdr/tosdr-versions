@@ -43,6 +43,8 @@
 
 [ReverseClash is GO!](https://xcreativeclashx.net/announcement/28-reverseclash-is-go/) [×](#)
 
+[Quick ReverseClash Rules Update!](https://xcreativeclashx.net/forums/topic/1165-reverseclash-24-quick-rules-update/) [×](#)
+
 * **Privacy Policy**
     
     CreativeClash is committed to protecting and respecting your privacy. We collect only the personal information that we need from you to operate our website, and we do not divulge your personal information to anyone else unless we are ordered to do so by a court that has jurisdiction over us.
