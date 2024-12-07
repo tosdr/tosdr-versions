@@ -1,8 +1,5 @@
 [](https://frame.io/ "Homepage")
 
-Mobile navigation
------------------
-
 [Sign In](https://accounts.frame.io/welcome)
 
 * Features
