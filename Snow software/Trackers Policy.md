@@ -74,7 +74,7 @@ Main navigation
     * Column 1
         * [Customer success](https://www.flexera.com/customer-success)
             * Support
-                * [Flexera Community](https://community.flexera.com/)
+                * [Flexera support portal](https://community.flexera.com/s/support-hub)
                 * [Flexera product documentation](https://docs.flexera.com/)
                 * [Snow product documentation](https://docs.snowsoftware.io/)
             * Services and training
@@ -83,8 +83,7 @@ Main navigation
     * Column 2
         * Hide group
             * [Technology Intelligence Awards](https://www.flexera.com/customer-success/awards)
-            * [Flexera community](https://community.flexera.com/)
-            * [Snow community](https://community.snowsoftware.com/s/)
+            * [Flexera community](https://community.flexera.com/s/)
     
     ### Insights from Gartner®
     
