@@ -213,9 +213,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -257,23 +257,21 @@ Latest News
 
 [South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-3 hours ago
+9 hours ago
 
 [Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
 
-4 hours ago
+10 hours ago
 
 [Yoon impeachment vote puts focus on South Korea’s generational gap](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/south-korea-generational-divide/ "Yoon impeachment vote puts focus on South Korea’s generational gap")
 
-5 hours ago
+11 hours ago
 
 [Dozens arrested in overnight crackdown on Georgia pro-EU protests](https://www.japantimes.co.jp/news/2024/12/07/world/georgia-protesters-arrested/ "Dozens arrested in overnight crackdown on Georgia pro-EU protests")
 
-5 hours ago
+11 hours ago
 
 [Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
