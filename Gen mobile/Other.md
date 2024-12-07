@@ -117,7 +117,7 @@ Like all mobile wireless companies, we are required by law to provide informatio
 
 Gen Mobile also may, in its sole discretion, use reasonable network-based call analytics that incorporated caller ID authentication information to identify and block categories of calls that are highly likely to be illegal. As part of this program: 911 emergency calls are not blocked, blocking services are provided with no additional line-item charge, the network-based analytics are applied in a non-discriminatory, competitively neutral manner, all reasonable efforts are taken to ensure that calls from public safety answering points and government emergency numbers are not blocked, and we provide a system for redress, including a single point of contact, if you believe calls were inappropriately blocked.
 
-![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
+![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile_Horiz_Logo_Red_1.png?v=1728949498)
 
   Find out about our latest deals!  Right
 
