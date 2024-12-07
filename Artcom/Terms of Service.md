@@ -2,11 +2,11 @@ Shop Now
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS10HRS13MINS
+2DAYS4HRS9MINS
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS10HRS13MINS
+2DAYS4HRS9MINS
 
 Shop Now
 
@@ -691,7 +691,7 @@ If any of the terms or conditions herein shall be deemed invalid, void, or for a
 
 Updated: October 2018
 
-![Logo](/mobify/bundle/931/static/img/logo.svg)
+![Logo](/mobify/bundle/941/static/img/logo.svg)
 
 World's largest selection of art
 
