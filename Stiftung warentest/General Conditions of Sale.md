@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Pom-Bär Crizz­lies](https://www.test.de/Verpackungsaerger-Pom-Baer-Crizzlies-6084928-0/ "Verpackungsärger - Pom-Bär Crizzlies")
-* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
+* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
+* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
 
 Stiftung Warentest
 
