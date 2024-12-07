@@ -65,9 +65,9 @@ Rights in Accordance with the General Data Protection Regulation
 You are granted the following rights in accordance with the provisions of the [GDPR](https://gdpr-info.eu/) (General Data Protection Regulation) and the Dutch Algemene Verordening Gegevensbescherming (AVG):
 
 * right to rectification (article 16 GDPR)
-* right to erasure (“right to be forgotten“) (article 17 GDPR)
+* right to erasure (“right to be forgotten”) (article 17 GDPR)
 * right to restrict processing (article 18 GDPR)
-* righ to notification – notification obligation regarding rectification or erasure of personal data or restriction of processing (article 19 GDPR)
+* right to notification – notification obligation regarding rectification or erasure of personal data or restriction of processing (article 19 GDPR)
 * right to data portability (article 20 GDPR)
 * Right to object (article 21 GDPR)
 * right not to be subject to a decision based solely on automated processing – including profiling – (article 22 GDPR)
@@ -86,14 +86,12 @@ The following personal data will be processed when using the contact form:
 
 The information you provide in the contact form is stored in the recipient’s inbox and used to respond if necessary. The data will not be shared with third parties, unless you subscribe to our newsletter.
 
-If you indicate that you wish to subscribe to our newsletter, we will share your information with MailChimp with the sole purpose of sending you the newsletter. Your email address will not be added to our MailChimp email list by default.
-
 The Newsletter
 --------------
 
 Buddho.org uses Noptin to manage our newsletter from within the WordPress environment. This means that your data stays on our own server, without the intervention of a third party.
 
-We will use the email address provided to send you a monthly update on new posts and occasionally to send you a additional messages or information relating to the meditation system, Buddhism, the meditation group and/or the foundation.
+We will use the email address provided to send you a monthly update on new posts and occasionally to send you an additional messages or information relating to the meditation system, Buddhism, the meditation group and/or the foundation.
 
 After subscribing you have the option to unsubscribe using the link at the bottom of the newsletter, or you can unsubscribe by [contacting us](https://buddho.org/contact/) and making your wish known.
 
@@ -106,7 +104,7 @@ For credit card payments the privacy statement of the credit card company applie
 
 Your name and email address will be stored for administrative purposes in our secured database. We can also see your name permanently on our statements.
 
-We might use your email address to send a personal thank you note but will not do so more often then twice a year.
+We might use your email address to send a personal thank you note but will not do so more often than twice a year.
 
 Speed & Security
 ----------------
@@ -165,7 +163,7 @@ These websites may collect data about you, use cookies, track third parties and 
 How Long We Store Your Data
 ---------------------------
 
-Your email address will be saved via MailChimp until you unsubscribe or indicate that you wish to delete your data.
+Your email address will be saved in our database until you indicate that you wish to delete your data.
 
 You can read more about the data we collect for security and statistics purposes in the relevant sections.
 
