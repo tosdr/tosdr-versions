@@ -165,64 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/creeping-unawares)
-
-[Creeping in Unawares](https://www.icr.org/article/creeping-unawares/)
-
-“For there are certain men crept in unawares...ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God,...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/they-that-wait-upon-lord)
-
-[They That Wait upon the Lord](https://www.icr.org/article/they-that-wait-upon-lord/)
-
-“But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary;...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/water-spirit-conversion)
-
-[Water and Spirit Conversion](https://www.icr.org/article/water-spirit-conversion/)
-
-“Verily, verily, I say unto thee, except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.” (John...
-
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
-
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
-
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
-
-$24.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475587/file.jpg)
-
-The Remarkable Journey of Jonah](https://store.icr.org/dr-henry-morris-the-remarkable-journey-of-jonah.html)
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
-
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
-
-$16.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
