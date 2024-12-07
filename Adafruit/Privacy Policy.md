@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ When you make a thing, a thing that is new, it is so complicated making it that it is bound to be ugly. But those that make it after you, they don’t have to worry about making it. And they can make it pretty, and so everybody can like it when others make it after you”
+“ Get as much education as you can. Nobody can take that away from you”
 
-[Pablo Picasso](http://en.wikipedia.org/wiki/Pablo_Picasso)
+[Eben Upton](http://lifehacker.com/5978324/im-eben-upton-executive-director-of-the-raspberry-pi-foundation-and-this-is-how-i-work)
 
 [](https://www.adafruit.com/about)
 
