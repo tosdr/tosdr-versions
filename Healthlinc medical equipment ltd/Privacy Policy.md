@@ -42,7 +42,7 @@ MENUMENU
     * [Walker](https://www.hmebc.com/product-category/pediatrics/walker/)
 * [Access](https://www.hmeaccessibility.com/)
 * [HME E-Store](https://www.hmebc.com/shop/)
-* [Clearance Sale](https://www.hmebc.com/clearance-sale/)
+* [We Have Too Much!](https://www.hmebc.com/clearance-sale/)
 * Search
     
     Generic filters
