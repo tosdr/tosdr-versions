@@ -19,7 +19,7 @@ Log In
 * [Best Diners in Georgia](https://www.ajc.com/food-and-dining/best-diners-in-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
-* [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
+* [UGA](https://www.ajc.com/sports/georgia-bulldogs/)
 
 ![Search icon](/pf/resources/icons/search-burger.svg?d=1871)
 
