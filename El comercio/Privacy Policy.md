@@ -31,6 +31,531 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Vivir al día
+============
+
+Los estrategas políticos están aprovechando la fragilidad de las convicciones de los electores para manipular su comportamiento.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Sufrir la **experiencia** de la **contingencia** hasta el extremo de no poder asegurar la **supervivencia** es algo que estremece. No saber si mañana habrá alimento, salud, vida, es inimaginable para la mayoría de los ecuatorianos. Pensar en tal posibilidad nos espanta y, sin embargo, políticamente, vivimos al día.
+
+La sucesión de **situaciones dramáticas** es tan vertiginosa en nuestra **vida política** que resulta imposible pensar en el largo plazo. Asuntos intrascendentes se plantean con caracteres tan **melodramáticos** que parecería estar en juego la **supervivencia** de la nación. Si la **Asamblea Nacional** archiva un proyecto después del primer debate y no del segundo, se dice que la Asamblea le hace el juego al **narcotráfico**.
+
+En lugar de reconocer la **imprevisión** que ha llevado a los **racionamientos de energía eléctrica**, el gobierno acusa a la propia ministra de sabotaje, se lleva la denuncia a la fiscalía, se inicia un **juicio político** y la exministra asegura que no puede dar la **información** que tiene porque pondría en peligro su vida y a su familia.
+
+De la misma manera se han dramatizado todos los temas. **Tenemos una vicepresidente elegida y otra vicepresidente designada,** Una candidatura eliminada, **autoridades electorales** que concluyeron su período, los legisladores en campaña electoral, juicios políticos inconclusos y el país pendiente de los horarios de luz y de tinieblas.
+
+Entregados al drama de cada día, es imposible que las **autoridades y los ciudadanos** pensemos en el futuro. Los problemas que trascienden el **periodo presidencial** no tienen cabida en la actualidad. Temas como la **crisis de la seguridad** social se dejan siempre a gobiernos futuros.
+
+La **campaña electoral** y los **candidatos** son también prisioneros del corto plazo. Los **estrategas políticos** están aprovechando la fragilidad de las **convicciones** de los **electores** para manipular su **comportamiento**. Ni la verdad ni el futuro valen en tiempo de **campaña**; todos se dedican a crear **problemas ficticios** hoy para esconder los problemas reales de mañana.
+
+Quito necesita reorganización para la temporada decembrina
+==========================================================
+
+Compromiso ciudadano y autoridad son claves para un Quito más ordenado
+----------------------------------------------------------------------
+
+![Ciudadanos en la av. Naciones Unidas, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/QUITO-DICIEMBRE-2.jpg)
+
+La temporada decembrina en **Quito**, marcada por las **Fiestas de Fundación**, la **Navidad** y **Fin de Nuevo**, es un periodo que llena de alegría y tradición a la capital ecuatoriana. Sin embargo, año tras año, esta época evidencia una urgente necesidad de reorganización para enfrentar los desafíos que trae consigo.
+
+La ciudad, ya golpeada por problemas de movilidad en **horas pico y cortes de energía eléctrica** desde septiembre de 2024 debido a la sequía, ve agravada su situación con el aumento del movimiento urbano. Las chivas recorren las calles, animando con música y baile, mientras los conciertos gratuitos atraen a multitudes (como ocurrió la última semana), en medio de quienes se trasladan a sus sitios de trabajo, estudio u hogares. A esto se suma la alta concurrencia a centros comerciales y zonas de comercio, que experimentan un flujo elevado de personas en busca de regalos y celebraciones.
+
+Además, las obras públicas en curso, aunque necesarias y prometedoras, intensifican el caos. Calles cerradas, desvíos y deterioro en el pavimento convierten el desplazamiento en una odisea, mientras semáforos fuera de servicio por la falta de electricidad contribuyen a desordenar aún más el tráfico. La falta de una planificación urbana adecuada en estas fechas especiales resalta la necesidad de una acción inmediata y estratégica.
+
+> Es **imperativo que las autoridades locales asuman un rol más proactivo.** Quito necesita operativos de tránsito más efectivos, habilitación de rutas alternas y mayor presencia de agentes de control en puntos críticos. La coordinación con empresas de transporte público para ampliar los horarios y frecuencias también ayudaría. Esta es una historia que se repite cada año y no hay una medida que funcione realmente.
+
+Sin embargo, la responsabilidad no recae únicamente en las instituciones. Los ciudadanos debemos contribuir con pequeñas, pero significativas acciones: planificar salidas con anticipación, utilizar transporte público o compartir vehículos, y respetar las normas de tránsito. Cada decisión individual puede aliviar, aunque sea mínimamente, el peso del caos colectivo.
+
+Los diciembres pasados han dejado claras lecciones. Quito no solo necesita reorganización para superar este periodo, sino también un compromiso compartido entre autoridades y ciudadanía. Si logramos un esfuerzo conjunto, esta temporada podrá ser no solo un motivo de celebración, sino también una oportunidad para demostrar que la capital ecuatoriana puede afrontar sus retos con resiliencia y orden.
+
+Cartas a Quito / 7 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este sábado 7 de diciembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Falta empatía
+-------------
+
+En estos momentos aciagos en que las tinieblas nos acechan, tornándose en nuestras asiduas y casi permanentes compañeras, nos hace mucha falta concienciarnos y cuidar la poca energía  que nos queda. Por desgracias, esto no ocurre con frecuencia. Pues hay gente desconsiderada e insensible que poco o nada le importa esta situación y se envanece y presume de prender las luces de su casa, oficina, consultorio, negocio, rótulos luminosos, etc.  Más aún si nos referimos a  los centros comerciales, donde parece que se tratara de una competencia de cuantas luminarias se prenden en cada Centro y no solo durante las noches, sino que, en algunos casos, estas luces permanecen prendidas durante las 24 horas del día. Esto realmente es una tremenda desconsideración, inconsciencia y falta de empatía, habida cuenta de que, con plantas y generadores o no, el daño  resulta ser casi igual.
+
+Se acercan  importantes festividades como: Fiestas de Quito, Navidades, Año nuevo, etc.  Y, obviamente, es de vital importancia el ahorro de energía. Se hace necesario que, por esta vez, suspendamos las luces de los arbolitos, nacimientos y más adornos festivos y navideños; hagamos conciencia de que, la solidaridad y la empatía deben primar en estos momentos de crisis.  Pensemos que tan solo con este pequeño y temporal  sacrificio, los ecuatorianos estamos contribuyendo al bienestar de nuestros hermanos y haciendo Patria.
+
+Fabiola Carrera Alemán
+
+Irresistibles canelones de pollo
+================================
+
+Deléitate en familia con esta receta casera, fácil y deliciosa.
+---------------------------------------------------------------
+
+![Sorprende a tu familia con una receta clásica que combina cremosidad, jugosidad y el toque irresistible del queso gratinado.](https://www.elcomercio.com/wp-content/uploads/2024/12/2.jpg)
+
+Los **canelones** de **pollo** son una **opción deliciosa** y versátil que puede adaptarse a diferentes gustos y preferencias. Este plato, originario de la cocina italiana, se ha convertido en un favorito en muchas mesas alrededor del mundo. Con su pasta suave, un **relleno sabroso** y una **cremosa salsa bechamel**, los canelones son perfectos para cualquier ocasión, ya sea un almuerzo familiar o una cena especial con amigos. A continuación, te presentamos una **receta** **completa** para preparar **canelones de pollo**, incluyendo consejos útiles y opciones de acompañamiento.
+
+Ingredientes
+------------
+
+**Para el Relleno**
+
+400 g de carne picada de pollo
+
+1 cebolla pequeña
+
+2 dientes de ajo
+
+250 g de tomate frito
+
+1 cucharadita de orégano
+
+Sal y pimienta al gusto
+
+Aceite de oliva virgen extra
+
+**Para la salsa bechamel**
+
+1 litro de leche
+
+50 g de mantequilla
+
+50 g de harina
+
+Sal y nuez moscada al gusto
+
+Queso rallado para gratinar
+
+**Para los canelones**
+
+12 láminas de pasta para canelones (pueden ser precocidas)
+
+* * *
+
+> Disfruta de una comida casera llena de sabor y fácil de preparar con estos deliciosos canelones de pollo
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/3-1024x888.jpg)
+
+Convierte ingredientes sencillos en un plato espectacular que todos querrán repetir.
+
+Preparación de los canelones de pollo
+-------------------------------------
+
+**Preparación del relleno**
+
+* En una sartén grande, **calentar** a un chorro de aceite de oliva a fuego medio.
+* **Picar** finamente la cebolla y el ajo. **Sofreír** en la sartén hasta que estén dorados.
+* **Agregar** la carne picada de pollo a la sartén y cocina hasta que esté bien dorada.
+* **Incorporar** el tomate frito, el orégano, sal y pimienta al gusto. **Cocinar** a fuego lento durante unos 10 minutos, remover ocasionalmente.
+* **Retirar** la mezcla del fuego y **dejar** enfriar mientras preparas la salsa bechamel.
+
+**Hacer la bechamel**
+
+* En una cacerola, **derretir** la mantequilla a fuego medio.
+* **Añadir** la harina y mezclar bien con una cuchara de madera durante un par de minutos.
+* Poco a poco, **agregar** la leche mientras sigues mezclando para evitar grumos. Cocinar hasta que espese.
+* **Sazonar** con sal y nuez moscada al gusto. Retirar del fuego.
+
+**Rellenar los canelones**
+
+* **Precalentar** el horno a 180 °C (350 °F).
+* Si las láminas de pasta no son precocidas, hiérvelas en agua con sal durante unos minutos.
+* **Rellenar** cada lámina con la mezcla de pollo usando una cuchara o manga pastelera. Enrollar cada lámina formando un cilindro.
+* **Engrasar** una bandeja para hornear con un poco de aceite o mantequilla.
+* **Colocar** los canelones rellenos en la bandeja, uno al lado del otro.
+* **Verter** la salsa bechamel sobre los canelones asegurándote que queden bien cubiertos.
+* **Espolvorear** queso rallado por encima.
+* **Hornear** durante 25-30 minutos o hasta que estén dorados y burbujeantes.
+* Si deseas un gratinado más intenso, puedes **activar** el gratinador durante los últimos 5 minutos.
+
+**Consejos para realizar esta receta**
+
+* **Utilizar** láminas de canelones precocidos para ahorrar tiempo; solo necesitarás rellenarlos y hornearlos.
+* Para el relleno puedes **añadir** espinacas o champiñones para darle más sabor y nutrientes.
+* Si prefieres, puedes **usar** salsa de tomate en lugar de bechamel para un toque diferente.
+
+**Opciones para acompañar**
+
+* Una ensalada fresca con lechuga, tomate y aderezo ligero complementa perfectamente este plato.
+* Un pan tostado con ajo es ideal para acompañar y disfrutar cada bocado.
+* Un vino blanco seco es una excelente opción para realzar los sabores del plato.
+
+Los **canelones de pollo** son un plato reconfortante que seguramente deleitará a tus invitados o familiares. Con esta **receta fácil** y **deliciosa**, podrás disfrutar de una comida casera digna de cualquier ocasión especial. ¡Buen provecho!
+
+¿Qué es un nómada digital y qué se requiere para tener este estatus en Ecuador?
+===============================================================================
+
+Ecuador implementó la visa de residencia temporal rentista para nómadas digitales, en 2022.
+-------------------------------------------------------------------------------------------
+
+![Un nómada digital utiliza las nuevas tecnologías para desempeñar su trabajo de manera remota. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-65.jpg)
+
+El nomadismo digital despierta interés en todo el mundo, aunque su concepto no es nuevo. Hace 27 años se introdujo en el libro Nomad Digital. En ese entonces, sus autores, Tsugio Makimoto y David Manners explicaron cómo las posibilidades tecnológicas actuales y futuras- combinadas con la necesidad natural de viajar- permitirán que la humanidad vuelva a vivir, trabajar y existir en movimiento. 
+
+Ambos lo definieron como un nuevo modo de vida en el que, gracias a los avances tecnológicos, los profesionales trabajarían en cualquier lugar y en cualquier momento.
+
+Hoy, un nómada digital es una persona que utiliza las nuevas tecnologías para desempeñar su trabajo de manera remota, ya sea desde su casa, una cafetería, un espacio de coworking o una biblioteca pública. De esta manera, este estilo de vida permite a los profesionales disfrutar de una mayor libertad geográfica y flexibilidad laboral. En consecuencia, se rompen las estructuras tradicionales del trabajo.
+
+Más noticias
+------------
+
+* [En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes")
+* [Los trabajadores requieren más competencias y habilidades ‘verdes’. Cuatro testimonios](https://www.elcomercio.com/tendencias/ambiente/los-trabajadores-requieren-mas-competencias-y-habilidades-verdes-cuatro-testimonios.html "Los trabajadores requieren más competencias y habilidades ‘verdes’. Cuatro testimonios")
+
+Las características que definen a los nómadas digitales
+-------------------------------------------------------
+
+**Trabajo remoto.** Usan internet para realizar sus tareas laborales desde cualquier ubicación. Esto les permite ser móviles y adaptarse a diferentes entornos. Además, de concentrarse mejor.
+
+**Flexibilidad laboral.** Eligen cuándo y dónde trabajar, lo cual les proporciona un mayor equilibrio entre la vida personal y profesional. Esta flexibilidad, además, permite ahorrar tiempo y dinero.
+
+**Más profesiones se suman.** Muchos de los nómadas son freelancers, emprendedores o empleados remotos en empresas que permiten el trabajo a distancia. Las profesiones más comunes incluyen: programadores, diseñadores web, de software, copywriter, creadores de contenido, community manager, asistente virtual, blogueros, influencers, profesores de idiomas, traductores.
+
+**Un estilo de vida nómada.** No tienen una residencia fija y suelen viajar dentro o fuera de los países a donde van. Esto les permite explorar nuevas culturas y conocer distintos sitios.
+
+Los tipos de nómadas digitales en Latinoamérica
+-----------------------------------------------
+
+El 100% de 13 925 latinoamericanos encuestados en el estudio Nómadas Digitales del **portal de empleo** Bumeran expresó su deseo de contar con un trabajo flexible para laborar desde cualquier lugar. Pero, la encuesta de agosto del 2023 revela que solo uno de cada 10 trabajadores de Chile, Argentina, Ecuador, Panamá y Perú logró concretarlo. 
+
+En particular, la mayoría de los que alcanzaron este objetivo cuentan con un contrato laboral para trabajar de manera remota, siendo Panamá y Perú los líderes de esta modalidad. En Argentina, el 54% de los nómadas digitales son empleados fijos, 29% trabaja como freelancers y el 17% tiene su propio negocio. Por otro lado, en Ecuador, los nómadas autónomos representan el 53%, aunque se observa una mayor presencia de emprendedores que en los otros países.
+
+Para proporcionar a los extranjeros una base legal para trabajar mientras viajan, ahora más países emiten visas para nómadas digitales. Uno de estos países es Ecuador.
+
+¿Qué se requiere para ser nómada digital en Ecuador?
+----------------------------------------------------
+
+Ecuador implementó una visa para nómadas digitales, que se conoce como **visa de residencia temporal rentista para trabajo remoto**. Esta permite a los trabajadores remotos vivir y trabajar en el país por un periodo de hasta dos años. El art. 64 del reglamento a la Ley Orgánica de Movilidad Humana permite el otorgamiento de esta visa a extranjeros con empresa propia; trabajan para una o varias personas jurídicas o naturales con domicilio en el exterior, para que realicen actividades profesionales o de servicios, de manera remota, digital o teletrabajo.
+
+### Para solicitar esta visa, los solicitantes deben cumplir con estos requisitos:
+
+**Ingresos**. Demostrar ingresos de fuente extranjera de al menos tres salarios básicos unificados (SBU) por mes durante los tres meses previos a la solicitud, o contar con treinta y seis SBU por cada año. El SBU en este 2024 es de 460 dólares. Esto equivale a 4 140 dólares por el trimestre o 16 560 dólares anuales. El solicitante debe adjuntar copias de sus estados de cuenta internacional, que reflejen estos ingresos.
+
+**Documentación Laboral**: Adjuntar documentos que demuestren que el solicitante trabaja o presta servicios para un empleador, cliente o empresa domiciliada en el exterior, para realizar actividades profesionales autónomas o en dependencia de manera remota, digital o de teletrabajo. Esto incluye un contrato laboral o prueba de que se es propietario de una empresa registrada en el extranjero.
+
+**Nacionalidad**: Los solicitantes deben ser nacionales de 183 países incluidos en la lista elaborada por el Ministerio de Turismo.
+
+**Seguro de Salud**: Presentar un seguro médico para residentes temporales.
+
+**Certificado de antecedentes penales**: Proporcionar un certificado que acredite la ausencia de antecedentes penales.
+
+Los pasos para solicitar una visa nómada
+----------------------------------------
+
+No es necesario estar en Ecuador para realizar el trámite, se puede realizar desde las oficinas consulares en el exterior, o a través de la plataforma digital [eVisas](https://www.youtube.com/watch?v=3zTK3snjuS4&t=24s "https://www.youtube.com/watch?v=3zTK3snjuS4&t=24s"), según la Cancillería.
+
+* **Registro**: Crear un usuario y una contraseña en el portal web del consulado correspondiente.
+* **Ingreso al Sistema**: Seleccionar “Trámites consulares” e ingresar el país donde se encuentra el solicitante y el consulado al que se dirigirá.
+* **Solicitud de Visa**: Elegir la opción “Solicitud de visa” y completar todos los datos personales requeridos.
+* **Adjuntar Documentos**: Subir todos los documentos necesarios que validen el cumplimiento de los requisitos.
+* **Pagos.** Realizar los pagos correspondientes por tasas de forma electrónica.
+
+Países preferidos por los nómadas digitales
+-------------------------------------------
+
+El **Índice de Nómadas Digitales de VisaGuide**, sistema de clasificación de países en función de su idoneidad para nómadas digitales, ubica a **España** en primer lugar con una calificación de 4,50. El país ibérico exige un ingreso mínimo de 2 140 euros (2 244 dólares, al 4 de diciembre de 2024).
+
+Este índice toma en cuenta factores que afectan directamente el estilo de vida de un nómada digital. Entre los indicadores está la velocidad del internet, el período libre de impuestos; costo de vida; ingreso mínimo, la prestación de salud.
+
+En segundo lugar de la lista está **Argentina** con una puntuación de 3,72. En los siguientes tres puestos se encuentran: **Rumanía, Emiratos Árabes Unidos y Croacia**. Los cuatro países no cobran impuestos durante la duración de la visa nómada. Emiratos destaca con un ingreso mínimo de 5 000 euros (5 242 dólares).
+
+De los países latinoamericanos, **Uruguay** aparece en la séptima posición, seguido de **Costa Rica** (13º), **México** (14º) y **Panamá** (16º).
+
+**Ecuador** aparece en el puesto [31 de 38](https://visaguide.world/digital-nomad-visa/digital-nomad-index/ "https://visaguide.world/digital-nomad-visa/digital-nomad-index/") con una puntuación de 2,68; un ingreso mínimo de 1 350 dólares; 35% de impuestos. La velocidad de internet está entre las más bajas: 66,78 Mbps frente a 261 Mbps, que registra Rumanía, la más alta de la lista.
+
+EL COMERCIO consultó a los ministerios de Relaciones Exteriores y de Turismo de Ecuador si se aplican estrategias para atraer nómadas digitales al país en comparación con otros. Relaciones Exteriores contestó que no está en el ámbito de sus competencias y Turismo no contaba con información. Únicamente enviaron este link promocional de la visa nómada: [https://ecuador.travel/](https://ecuador.travel/digital-nomad/ "Visa nómada")
+
+  
+
+Gastando Suela, hacia la arqueología gamer en los ‘Cosmos’ de Quito
+===================================================================
+
+Los juegos electrónicos en Quito causaron furor en los años 80. Ahora, cada vez hay menos. Encontrarlos es como una arqueología gamer.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Los juegos electrónicos en los cosmos están en fase de extinción.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T191041.364.jpg)
+
+Había una vez cuando los jóvenes se reunían en cientos de locales, desplegados por la toda la ciudad, que tenían máquinas de **juegos electrónicos.** En Quito se los llamaba ‘Cosmos’ porque ese era el nombre del primer local -o el que se popularizó primero-, a principios de los 80 del siglo pasado. Sin embargo, cada vez hay menos de esos sitios. Por eso, **EL COMERCIO**, en su segmento **Gastando Suela**, salió en búsqueda de esos sitios, como si de una **arqueología gamer** se tratara.
+
+### Más noticias
+
+* [De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html "De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito ")
+* [Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación](https://www.elcomercio.com/opinion/editorial/quito-identidad-fundacion-celebracion.html "Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación")
+* [Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?](https://www.elcomercio.com/actualidad/quito/quito-arbol-natural-navidad-40-metros-ubicado.html "Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?")
+
+La arqueología del gamer en los ‘Cosmos’
+----------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T191929.025-1024x683.jpg)
+
+Hacia finales de los años 70 y principios de los 80, llegaron los juegos electrónicos en los que había que comprar una **ficha** y depositarla por una **ranura**. Eran cajas enormes como cubículos de biblioteca. Se los llamó **Cosmos**, porque en la avenida 10 de agosto y Carrión se abrió el más popular de todos los que había en ese tiempo y que tenía ese nombre.
+
+Pronto ese nombre propio se volvió genérico. Hasta ahora lo llaman así. En esta búsqueda por encontrar algunos locales donde aún se mantuvieran estos juegos, una joven dijo: “detrás de la facultad de Administración de la **Universidad Central** hay unos Cosmos”. Parecía contar algo serio, digno de saberse. Fue como escuchar la frase que motivó al argentino Rodolfo Walsh a escribir **Operación masacre:** **“hay un fusilado que vive”.**
+
+Allí estaban desplegadas y apagadas las máquinas en un **patio de comidas popular**, llamado **Central**. Están a la espera de que alguien les dé bola para que doña Bachita, que tiene un local de fritadas, decida encender las máquinas.
+
+Los jóvenes que entran para comer, miran las máquinas. Se sienten tentados. En estos lugares no hay fichas, sino que se usan monedas. Algunos deciden poner dos de cinco centavos para jugar **The King of Fighters**.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-76-1024x683.jpg)
+
+Allí nos encontramos con **Joel Parra**, estudiante de Administración. Dice que no va a Central a jugar porque tiene su propio Play Station. Sin embargo, lo retamos a jugar y él aceptó. Nos decidimos por **Street Fighters.** “Este es bueno”, dice. “Yo aplasto (las teclas) como loco”, añade. En el juego de combate fue un experto, aunque diga que juega como se pueda.
+
+La nostalgia del gamer de otros tiempos
+---------------------------------------
+
+El **Cosmos** de la avenida **10 de Agosto** tenía todo tipo de juego, pero eran más de estilo estadounidense. Algunos eran tridimensionales. Había el submarino, por ejemplo, que tenía un periscopio para apuntar y disparar torpedos hacia las naves enemigas.
+
+En cambio, en la esquina de las calles Santa María y Gangotena, quedaba **El Tornado**. Era una pista de patinaje y uno de los puntos de encuentro de los adolescentes y los jóvenes. Pero el patinaje no lo era todo, sino también los juegos electrónicos. Y el más importante de todos, por el que las personas se disputaban el turno, era **Night Rider,** que tenía un volante y a suma velocidad se manejaba en una ruta oscura que se delineaba apenas con unos puntos blancos. Era un juego casi imbatible.
+
+A **El Tornado** llegó una banda para dar un concierto. No fue llamativo, aunque después la gente se dio cuenta de lo que se perdió. Poca gente fue, según se recuerda. El grupo musical se llamaba **The Miami Sound Machine**, de la cantante **Gloria Estefan**. Pero en ese tiempo recién comenzaba la gran carrera que tuvo poco tiempo después.
+
+Los juegos de **estilo asiático** llegaron un poco más tarde y son los que se conservan hasta ahora. Uno de ellos quedaba en el subsuelo de las Torres de la Almagro, que fue, además, en esos años, la sensación arquitectónica de la ciudad.
+
+Literalmente **se gastaba fortunas** comprando fichas. Estas eran la solución en aquellos años, cuando la moneda era el Sucre y había temporadas en que las monedas escaseaban. En cambio, en buses y tiendas daban caramelos como vuelto.
+
+El clásico de los clásicos era **Space Invadors**. Otro que causaba sensación era **Moon Cresta** porque había que acoplar naves en el espacio para lograr una mayor potencia de ataque. A diferencia de las máquinas actuales, en esos lejanos años 80, **cada máquina tenía un solo juego**. Ahora, se puede seleccionar entre cientos de variedades.
+
+Uno de los Cosmos sobrevivientes
+--------------------------------
+
+Desde la década de los 90, fue en el **Centro Comercial Espiral** en donde se concentraban varios Cosmos. Pero con la llegada de los Play Station, Nintendo y los teléfonos, las computadoras de casa y los juegos en red, se han ido cerrando los locales. Sin embargo, hay un sobreviviente de aquellos años: **Play it Loud.**
+
+Allí nos recibe **Alexander**, que lleva 20 años trabajando en ese local. **“Ha cambiado mucho** desde el Supernintendo”, dice. El local se ha adecuado a los tiempos, porque tiene consolas, aseguradas en unas rejas metálicas, conectadas a televisores gigantes, en los que se juega mayormente al fútbol.
+
+Sin embargo, Alexander cuenta que aún **hay nostálgicos** que prefieren las máquinas de antes. “Hay dos s**eñores mayores que vienen para jugar Pac-Man**“[.](https://es.wikipedia.org/wiki/Arcade "https://es.wikipedia.org/wiki/Arcade")
+
+**Jonathan**, de 45 años, acepta el reto de **EL COMERCIO** para jugar. Dice que ya no va mucho, pero no ha perdido el talento. Es notorio durante las partidas. En las peleas, no permitió que le dieran un solo golpe y noqueaba de inmediato; en el fútbol, ganó por goleada, y en las carreras de autos llegó primero.
+
+Es que los juegos, además de **adictivos**, requieren **talento**. Estos locales son de los pocos que han sobrevivido. Sin embargo, por haber sido uno de los entretenimientos preferidos de los jóvenes quiteños desde la década de los 80, han dejado una marca que perdura en el imaginario. En español se los llama arcades, pero en **Quito** quedó para siempre como **Cosmos**.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Choque en Catamayo deja al menos 16 fallecidos, en Loja
+=======================================================
+
+Paramédicos atienen a ocho personas heridas en este choque en Catamayo que involucró a un bus interprovincial de pasajeros
+--------------------------------------------------------------------------------------------------------------------------
+
+![Personal de Bomberos y MSP atiende la emergencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-15.jpg)
+
+El Servicio de Emergencias ECU911 informó la noche de este 6 de diciembre sobre la atención a una emergencia por un **choque en la vía Loja-Catamayo.**
+
+### Más noticias
+
+* [Incendio en la vía a Daule deja un saldo mortal](https://www.elcomercio.com/actualidad/ecuador/incendio-en-la-via-a-daule-deja-un-saldo-mortal.html "Incendio en la vía a Daule deja un saldo mortal")
+* [Juez tomó decisión sobre presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Juez tomó decisión sobre presuntos implicados en secuestro de Pedro Pablo Perlaza")
+* [Auto de Pedro Pablo Perlaza fue hallado en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
+
+El fatal choque
+---------------
+
+Desde la Sala operativa del Centro Local de Loja ECU911 se informó de un **siniestro de tránsito** en la vía Loja-Catamayo.
+
+Este siniestro se trata de un **choque** en el que estuvieron involucrados un bus de pasajeros interprovincial y un auto liviano. El bus cubría **la ruta Piñas-Portovelo-Loja.**
+
+La ayuda a las personas afectadas se coordinó con personal y unidades del Cuerpo de Bomberos, Policía Nacional y Ministerio de **Salud Pública.**
+
+Según información preliminar, hasta el momento se registran **16 fallecidos** y ocho personas heridas. 15 de ellos fallecieron en el lugar y uno en el hospital Isidro Ayora de Loja.
+
+Los paramédicos brindan atención de primeros auxilios a las personas heridas y posteriormente se las trasladó a casas de salud para que recibieran atención especializada según su [estado de salud](https://es.wikipedia.org/wiki/Loja_(Ecuador) "https://es.wikipedia.org/wiki/Loja_(Ecuador)").
+
+No se conoce lo que ocasionó el siniestro; sin embargo, el impacto del bus contra un automóvil tipo sedán fue mortal.
+
+Un vehículo liviano terminó completamente aplastado por el bus y con su carrocería destruida.
+
+La Gobernadora de Loja acudió al **hospital Isidro Ayora,** donde se reforzó el personal médico para atender a las personas afectadas en el choque en la vía Catamayo.
+
+Seis de los heridos se encuentran estables y **uno, en estado crítico.**
+
+El personal médico trabaja en la atención prioritaria a los heridos. Las personas que necesitaron atención quirúrgica fueron trasladas de **inmediato a los quirófanos.**
+
+Las unidades de Laboratorio e Imagen potenciaron recursos para atender de inmediato a los pacientes que lo requieren.
+
+> Acciones Inmediatas  
+>   
+> La gobernadora, [@AlexandraMJaraM](https://twitter.com/AlexandraMJaraM?ref_src=twsrc%5Etfw), verificó personalmente el refuerzo del personal médico en el [@HIAyoraLoja](https://twitter.com/HIAyoraLoja?ref_src=twsrc%5Etfw), donde se brinda atención prioritaria a las personas heridas tras el accidente ocurrido en la vía [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw) – [#Catamayo](https://twitter.com/hashtag/Catamayo?src=hash&ref_src=twsrc%5Etfw).🧵 [pic.twitter.com/pvoTKZkDiX](https://t.co/pvoTKZkDiX)
+> 
+> — Gobernación de Loja (@GoberLoja) [December 7, 2024](https://twitter.com/GoberLoja/status/1865240918766366938?ref_src=twsrc%5Etfw)
+
+Corte federal ratifica la ley que puede prohibir TikTok en EE.UU. 
+==================================================================
+
+La aplicación TikTok para compartir videos tiene millones de usuarios en EE.UU.
+-------------------------------------------------------------------------------
+
+![El dictamen de la Corte Federal es una derrota para TikTok. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Tik-tok-efe.jpg)
+
+Un tribunal federal de apelaciones ratificó la ley que puede llevar a prohibir TikTok en pocos meses. Esto supone una estrepitosa derrota para la popular plataforma de redes sociales en su lucha por seguir activa en EE.UU.
+
+Más noticias
+------------
+
+* [Fybeca recibió un reconocimiento global de TikTok por su estrategia digital](https://www.elcomercio.com/empresariales/fybeca-recibio-reconocimiento-global-tiktok-estrategia-digital.html "Fybeca recibió un reconocimiento global de TikTok por su estrategia digital")
+* [Los colores que eligen las personas menos inteligentes para vestirse, según Chat GPT](https://www.elcomercio.com/tendencias/los-colores-que-eligen-las-personas-menos-inteligentes-para-vestirse-segun-chat-gpt.html "Los colores que eligen las personas menos inteligentes para vestirse, según Chat GPT")
+
+El Tribunal de Apelaciones para el Circuito del Distrito de Columbia dictaminó que la ley -que exige a TikTok romper los lazos con su empresa matriz ByteDance, con sede en China, para evitar una prohibición a mediados de enero- es constitucional.
+
+El dictamen es una derrota para TikTok, que alegó en la corte que la amenaza del Congreso entraba en conflicto con la Primera Enmienda. Además, argumentó que convertía injustamente a la plataforma en una diana.
+
+“La Primera Enmienda existe para proteger la libertad de expresión en Estados Unidos”, opinó el tribunal.
+
+“Aquí, el Gobierno actuó únicamente para proteger esa libertad de una nación adversaria extranjera. Y limitar la capacidad de ese enemigo para recopilar datos sobre personas en EE.UU.”.
+
+Según la cadena de noticias Telemundo se espera que TikTok y [ByteDance](https://www.bytedance.com/en/) —que también demandó al Gobierno por la ley— apelen.
+
+Argumentos contra TikTok
+------------------------
+
+EE.UU. ha manifestado su preocupación por el hecho de que TikTok recopile grandes cantidades de datos de usuarios. Incluso información confidencial sobre hábitos de visualización, que podrían caer en manos del Gobierno chino mediante coacción.
+
+Las autoridades advirtieron de que el algoritmo patentado que alimenta lo que los usuarios ven es vulnerable a la manipulación por las autoridades chinas. Ellos pudieran utilizarlo para dar forma a los contenidos de la plataforma de una manera difícil de detectar.
+
+Sin embargo, una parte significativa de la información del Gobierno en el caso se redactó y ocultó al público, así como a las dos empresas.
+
+¿A qué hora juegan Liga de Quito e IDV en la final de la Liga Pro 2024?
+=======================================================================
+
+LDU recibirá a Independiente del Valle en el estadio Rodrigo Paz Delgado. ¿A qué hora juegan Liga de Quito e IDV?
+-----------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Independiente del Valle que visitarán a Liga de Quito en la final de ida del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-10-1.jpg)
+
+La final de la Liga Pro 2024 se aproxima con el enfrentamiento entre los dos mejores equipos de la temporada: **Liga Deportiva Universitaria** e **Independiente del Valle**. ¿A qué hora juegan **Liga de Quito** e **IDV**?
+
+El 7 de diciembre del 2024, el estadio Rodrigo Paz Delgado de Quito será el escenario para el primer cotejo de esta esperada serie por el campeonato nacional.
+
+### más noticias:
+
+* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
+* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
+* [Álex Arce se perfila para romper el récord de goleo en Liga Pro](https://www.elcomercio.com/deportes/liga-pro-liga-quito-alex-arce.html "Álex Arce se perfila para romper el récord de goleo en Liga Pro")
+
+¿A qué hora juegan Liga de Quito e IDV?
+---------------------------------------
+
+El encuentro se jugará a las 15:30 y marcará el inicio de una nueva rivalidad entre estos clubes que, con diferentes historias y palmarés, se han ganado su lugar en la final de la Liga Pro.
+
+**Independiente del Valle**, ganador de la primera etapa del torneo, busca redimir la derrota sufrida en la final pasada de 2023, cuando cedió el título a **Liga de Quito** en una dramática tanda de penales.
+
+Mientras tanto, el equipo universitario llega con la confianza de su reciente título en 2023 y la motivación de buscar un nuevo campeonato que les permita consolidarse como uno de los clubes más exitosos del país.
+
+Independiente del Valle
+-----------------------
+
+En su palmarés, **Independiente del Valle** ha logrado títulos internacionales importantes, como la Copa Sudamericana y la **Recopa Sudamericana.** A nivel nacional, su único título de la Liga Pro fue en 2021, cuando derrotó a Emelec.
+
+Por su parte, Liga de Quito ha cosechado 12 títulos nacionales y cinco internacionales, incluyendo la Copa Libertadores de 2008.
+
+Un show previo
+--------------
+
+Además del espectáculo futbolístico, los asistentes a la final podrán disfrutar de un show artístico previo al partido, con la presencia de destacados artistas como José Pita, Tierra Canela y Sugar Rush.
+
+El espectáculo comenzará a las 12:45, ofreciendo a los hinchas una jornada completa de entretenimiento y emoción.
+
+El campeón de esta edición será el primer bicampeón de la Liga Pro, un título que tanto Liga de Quito como Independiente del Valle lucharán con todo para obtener.
+
+CAL decidió sobre reforma al financiamiento público de organizaciones políticas
+===============================================================================
+
+El CAL tomó una resolución sobre el proyecto de reforma parcial a la Constitución sobre el financiamiento del Estado a organizaciones políticas.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El CAL decidió sobre reforma a financiamiento de organizaciones políticas.](https://www.elcomercio.com/wp-content/uploads/2024/12/cal-reforma-financiamiento-organizaciones-politicas.jpg)
+
+El **Consejo de Administración Legislativa (CAL)** tomó una decisión sobre la reforma constitucional parcial que trata sobre el financiamiento estatal a las organizaciones políticas.
+
+El presidente **Daniel Noboa** es el autor de esta iniciativa que ya pasó el filtro de la **Corte Constitucional**.
+
+### Más noticias:
+
+* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
+* [Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?](https://www.elcomercio.com/actualidad/politica/gobierno-reforma-constitucional-que-pasa-financiamiento-ilicito.html "Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?")
+
+Decisión del CAL sobre reforma al financiamiento público de organizaciones políticas
+------------------------------------------------------------------------------------
+
+El proyecto de **reforma parcial a la Constitución** sobre el financiamiento público de organizaciones políticas es una iniciativa del presidente Daniel Noboa.
+
+El presidente busca que el Estado **no financie la publicidad electoral** de ninguna organización política.
+
+Noboa argumentó que el objetivo es un uso adecuado de los recursos públicos y su canalización a áreas como: **salud, seguridad y educación**. 
+
+La iniciativa ya pasó por el análisis de la **Corte Constitucional** que emitió un dictamen favorable.
+
+Este viernes, el **Consejo de Administración Legislativa (CAL)** conoció el proyecto y tomó una resolución.
+
+El CAL decidió remitir el proyecto de reforma parcial a los **artículos 110 y 115 de la Constitución**, al Pleno de la Asamblea Nacional.
+
+El **Pleno de la Asamblea Nacional** deberá crear una **Comisión Especializada Ocasional** que se encargará de su tratamiento.
+
+La resolución del CAL, respecto al proyecto sobre el financiamiento de partidos y movimientos políticos, será conocida por el Pleno **la próxima semana**.
+
+Este proyecto referente cuenta con la decisión favorable de la Corte Constitucional, que determinó su procedibilidad y tratamiento de conformidad con el **artículo 442 de la Constitución de la República**.
+
+Este artículo señala que la iniciativa de reforma constitucional será tramitada por la Asamblea Nacional en al menos **dos debates**.
+
+El **segundo debate** se realizará al menos noventa días después del primero.
+
+El proyecto de reforma se aprobará por la **Asamblea Nacional.**
+
+Una vez aprobado el proyecto de reforma constitucional se convocará a **referéndum** dentro de los cuarenta y cinco días siguientes.
+
+Para la aprobación en referéndum se requerirá al menos la mitad más uno de los **votos válidos** emitidos.
+
+Una vez aprobada la reforma en referéndum, y dentro de los siete días siguientes, el **Consejo Nacional Electoral (CNE)** dispondrá su publicación.
+
+Murió Ángela Álvarez, cantante cubana que ganó un Grammy latino a los 95 años
+=============================================================================
+
+La cantante cubana murió en Louisiana (EE.UU.) a los 97 años
+------------------------------------------------------------
+
+![El nieto de Álvarez informó de la muerte de la cantante a la revista Billboard. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo_20241206_224535_0000.jpg)
+
+Ángela Álvarez, la cantante cubana que sorprendió al mundo de la música al ganar en 2022, a los 95 años, un Grammy latino, murió este viernes en Louisiana (EE.UU.).
+
+Más noticias
+------------
+
+* [Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-premios-india-marc-anthony-reencuentro.html "Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’")
+* [Billboard incluyó a una ‘loba’ y un ‘conejo’ en su lista de 25 artistas más influyentes del siglo XXI](https://www.elcomercio.com/tendencias/entretenimiento/25-artistas-mas-influyentes-siglo-xxi-revista-billboard.html "Billboard incluyó a una ‘loba’ y un ‘conejo’ en su lista de 25 artistas más influyentes del siglo XXI")
+
+Ella ganó su primer disco homónimo, producido por su nieto, Carlos José Álvarez, quién informó a la revista Billboard de la muerte de su abuela a los 97 años.
+
+La cantante Ángela Álvarez hizo historia en la música y murió rodeada de su familia, que no informó la causa de su muerte.
+
+“Me siento muy afortunado de haber compartido a nuestra abuela con el mundo. Ella fue un regalo para mí”, dijo Álvarez a la revista.
+
+“Lo que logramos juntos fue extraordinario. Es un ejemplo de valentía, amor y la importancia de mantener vivos los sueños. Nos enseñó cómo el arte puede sanar en tiempos de adversidad”, afirmó el productor y compositor.
+
+Aseguró que trabajar junto a su abuela, a la que descubrió, cambió su vida. “Ella siempre decía: ‘Quiero dejar este mundo sabiendo que mi música seguirá viva’, y así será. Su vida fue plena y su legado sigue brillando”, recordó.
+
+La cantante cubana Ángela Álvarez (Camaguey, 1927) hizo historia al ganar el [Latin Grammy](https://www.latingrammy.com/premiacion/nominados-25a-entrega-anual-del-latin-grammy) a mejor artista nuevo en un renglón en que compitió con una decena de jóvenes revelaciones. En su mayoría de música urbana: Sofía Campos, Cande y Paulo, Clarissa, Silvana Estrada, Pol Granch, Nabález, Tiare, Vale, Yahritza y su esencia, y Nicole Zignago.
+
+Tras ser nominada al importante premio, “Nana”, como le llamaban, aseguró a EFE que estaba “soñando despierta” .
+
+Al descubrir el talento de su abuela, Carlos José comenzó el proyecto de grabar un disco independiente en un estudio en Los Ángeles, que luego se convirtió también en un documental, una primera presentación ante el público en el histórico teatro Avalon de Hollywood y la nominación al Latin Grammy.
+
+En el camino se unió a este proyecto fílmico el actor y director cubanoestadounidense Andy García y para 2021 “Nana” ya había lanzado el documental ‘Miss Angela’ y su primer y único disco. Sus temas, en su mayoría boleros y danzones fueron inspirados por el amor a su esposo y a Cuba, donde anhelaba volver.
+
+Álvarez ganó el Grammy con un álbum de 15 canciones con títulos como ‘Qué linda es Cuba’, ‘Mi gran amor’ y ‘Camino sin rumbo’, que su nieto descubrió entre más de cuarenta composiciones que tenía en sus cuadernos.
+
+El bolero es “algo que tú expresas, que sientes y si tú estás enamorado escribes”, dijo Álvarez en la entrevista con EFE y afirmó que su capacidad de componer es un regalo de Dios y que se sorprendía porque no le costaba trabajo escribir.
+
+Álvarez aprendió a cantar y tocar el piano a temprana edad y comenzó a escribir sus propias canciones. “Cuando yo era niña, tenía dos tías que tocaban el piano y ellas me enseñaron a cantar. Cuando había reunión de familia, yo era la artista; me hacían vestidos y siempre me gustó actuar”, dijo en una entrevista con Billboard en español, recordó hoy la revista.
+
 Jacqueline Factos gana medalla de oro para Ecuador en Juegos Bolivarianos 2024
 ==============================================================================
 
@@ -455,575 +980,3 @@ Sin embargo, **Mauricio Alarcón,** coordinador del proyecto **Quito Cómo Vamos
 Y es que “la gente parece que no asocia los problemas con su sentimiento por la ciudad”, dice, por su parte, Chacón.
 
 El informe de **Quito Cómo Vamos** pone en evidencia una ciudad donde el orgullo y el aprecio por lo local coexisten con importantes retos estructurales. De ese modo, es, a la vez, una invitación a las autoridades y a la ciudadanía quiteña a trabajar conjuntamente para mejorar la calidad de vida en la capital.
-
-Usuarios se quejan de la falta de ecopaís y diésel en las gasolineras de Guayaquil
-==================================================================================
-
-Los tanqueros llegan a las gasolineras con retrasos de la Terminal de Pascuales
--------------------------------------------------------------------------------
-
-![Los tanqueros tienen retrasos para abastecerse de ecopaís y diésel. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-67.jpg)
-
-Durante un recorrido la noche de este jueves 5 de diciembre en Guayaquil se constató que en varias gasolineras no había suficiente ecopaís ni diesel. Los despachadores aseguraron que los tanqueros están llegando con retrasos, desde la Terminal de Pascuales. Hay problemas en otras ciudades del país.
-
-Más noticias
-------------
-
-* [¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?](https://www.elcomercio.com/actualidad/negocios/como-vehiculos-gasolinas-inciden-inflacion-negativa-mensual-ecuador.html "¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?")
-
-En redes sociales, los usuarios se quejan del desabastecimiento de los combustibles, durante la jornada de hoy, 6 de diciembre.
-
-“He ido a tres gasolineras en el norte de Guayaquil y en todas los autos están haciendo columna para el despacho”, escribió uno de los usuarios en su cuenta de X.
-
-“No hay diésel en las gasolineras del norte de Guayaquil. Fui a la Shell, Garzota, Kennedy, Urdenor y otras de sector. Todas no tienen”, explicaba en tono de indignación otra persona.
-
-> He ido a 3 gasolineras en el norte de Guayaquil y en todas los autos están haciendo columna para el despacho [pic.twitter.com/nccL07ljSx](https://t.co/nccL07ljSx)
-> 
-> — david baldeon (@davidbaldeon20) [December 6, 2024](https://twitter.com/davidbaldeon20/status/1865111277292458102?ref_src=twsrc%5Etfw)
-
-Algunos se cuestionaron si se trata de un desabastecimiento local o nacional. El problema no es nuevo, pues en octubre pasado ocurrió algo similar en Cuenca, Riobamba, Ambato y en la Amazonía.
-
-Cada tanquero tiene una capacidad de hasta 10 000 galones de combustible. Pero se requieren de al menos dos viajes para solventar la necesidad que tienen las estaciones. La demora se produce en la Terminal Pascuales, en donde se abastecen de diésel y Ecopaís.
-
-Los distribuidores se quejan de que esto ocurre en otras ciudades
------------------------------------------------------------------
-
-Ivo Rosero, presidente de la Cámara Nacional de Distribuidores de Derivados de Petróleo, explicó que este problema no es solo de Guayaquil sino de varias ciudades del país. Explicó que Riobamba lleva dos meses con este problema y a los distribuidores les obligaron a abastecerse en Guayaquil, inicialmente. Lo mismo ocurrió con los de Ambato.
-
-Los distribuidores de El Oro, en cambio, deben ir a la Terminal Pascuales. Por su parte, los distribuidores de Santo Domingo también debían ir a Guayaquil a abastecerse, añadió.
-
-Los retrasos en el abastecimiento también se vivió en Quito, en octubre pasado. Esto ocasiona que en las estaciones se formen largas filas, porque los tanqueros llegan con demoras.
-
-Por otra parte, Rosero denuncia que el hecho de abastecerse en otras ciudades implica que incurran en mayores gastos y, en muchos de los casos, ya están trabajando a pérdida. Esto, debido a que su margen de comercialización que es de centavos, está congelado desde hace una década.
-
-Distribuidores exigen más transparencia a Petroecuador
-------------------------------------------------------
-
-Según la Cámara, las autoridades de [Petroecuador](https://www.eppetroecuador.ec/ "https://www.eppetroecuador.ec/") no han explicado con detalle el origen de estos retrasos en la entrega del combustible en los centros de abastecimiento, no solo de Pascuales.
-
-Rosero exige que Petroecuador explique qué está pasando con el diésel, que en un 73% es importado. Por otro lado, no se sabe si ya terminó el mantenimiento de la Refinería de Esmeraldas, que estuvo previsto que parara por 65 días. A esto suma que se conoce que hay una disminución de 11 mil barriles menos, en la producción de petróleo. Estos temas, añadió, exigen una mayor transparencia y no solo “comunicados escuetos”, en los que Petroecuador dice que hay combustible suficiente.
-
-Desde la crisis energética que vive el Ecuador, el consumo de diésel aumentó significativamente, pues se usa para los generadores de empresas y hogares. En el caso de la ecopaís y de la extra, cuyos precios incrementaron, el consumo más bien bajó en este año, de acuerdo con las cifras oficiales.
-
-Pep Guardiola pierde los estribos en video que se vuelve viral
-==============================================================
-
-La presión sobre Pep Guardiola sigue creciendo mientras el equipo busca recortar puntos con el líder Liverpool.
----------------------------------------------------------------------------------------------------------------
-
-![Pep Guardiola, DT del Manchester City.](https://www.elcomercio.com/wp-content/uploads/2024/12/pepguardiola.jpg)
-
-Un video de **Pep Guardiola** reaccionando enfurecido ante la burla de un aficionado se ha vuelto viral en las redes sociales, mostrando al entrenador del **Manchester City** fuera de sí.
-
-El técnico español, visiblemente alterado, intentó enfrentarse a un hincha que le gritó: “Llora, llora que perdiste”.
-
-### Más noticias:
-
-* [(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City](https://www.elcomercio.com/deportes/futbol/guardiola-enfurece-y-se-autolesiona-tras-el-empate-del-manchester-city.html "(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City")
-* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
-* [Alberto Spencer, el futbolista que puso a Ecuador en el mapa](https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html "Alberto Spencer, el futbolista que puso a Ecuador en el mapa")
-
-Personal de seguridad intervino rápidamente para calmar la situación, evitando un enfrentamiento físico.
-
-Pep Guardiola
--------------
-
-Este episodio se suma a una racha complicada para **Guardiola,** quien atraviesa uno de los peores momentos de su carrera al frente del **Manchester City.**
-
-El equipo ocupa la cuarta posición en la Premier League, cada vez más lejos del líder, Liverpool. La derrota reciente ante **Liverpool** (2-0) intensificó las críticas hacia el entrenador español y la presión sobre su proyecto.
-
-El desánimo de Guardiola también se reflejó en su aparición pública semanas atrás, cuando mostró varias heridas en su rostro tras un empate.
-
-Durante la rueda de prensa, el entrenador confesó que las lesiones se las había causado él mismo, asegurando que intentó autolesionarse al lastimarse con sus propios dedos y uñas. Este incidente dejó en evidencia el difícil momento emocional por el que atraviesa el técnico.
-
-Manchester City reacciona
--------------------------
-
-A pesar de estos altibajos, el City consiguió una victoria clave esta semana ante el **Nottingham Fores**t (3-0), un respiro tras siete partidos sin triunfos.
-
-La mejoría de **Kevin De Bruyne**, quien volvió a mostrar su mejor nivel, fue clave para que el equipo retomara la senda de la victoria.
-
-Sin embargo, las falencias defensivas aún persisten, y Guardiola sigue buscando soluciones tácticas, como colocar a Grealish de mediapunta y liberar a Doku por la izquierda.
-
-Próximo partido
----------------
-
-Este sábado 7 de diciembre, el **Manchester City** visitará al **Crystal Palace** en un partido crucial para sus aspiraciones en la Premier League.
-
-La presión sobre Guardiola sigue creciendo mientras el equipo busca recortar puntos con el líder Liverpool.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDP1jelpGLa/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DDP1jelpGLa/?utm_source=ig_embed&utm_campaign=loading)
-
-Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán
-===========================================================================
-
-Policías y militares demolieron las casas usadas para actividades delictivas.
------------------------------------------------------------------------------
-
-![Demolición de casas, en la mañana de este viernes 6 de diciembre, en Durán. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/12/image_720.png)
-
-Cerca de 100 uniformados del Bloque de Seguridad, conformado por policías y militares, realizaron un operativo en Fincas Delia, en la vía Durán-Tambo, la mañana de este viernes, 6 de diciembre.
-
-Más noticias
-------------
-
-* [Auto de Pedro Pablo Perlaza se halló en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
-* [Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza")
-
-Durante la intervención de los uniformados se identificaron 10 viviendas construidas de forma irregular. Los agentes demolieron estas estructuras, hechas de cemento y materiales mixtos, como caña y madera.
-
-Las autoridades señalaron que estas edificaciones no contaban con permisos legales y posiblemente servían para actividades delictivas, como secuestros o para esconder delincuentes.
-
-Mientras se demolían las casas, Roberto Santamaría, jefe de [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/") en Durán, explicó que la idea del operativo es ubicar estas viviendas “diseñadas para secuestrar”. En el interior de estas edificaciones se encontraron cuerdas y colchones listos para los supuestos secuestrados.
-
-El teniente coronel añadió que tienen varias denuncias de personas que secuestraron en Guayaquil y luego las llevaron a esta zona. Según las autoridades se trata de una invasión.
-
-Se coordinó con la Secretaría de Asentamientos para no dejar ni una sola casa, que se utilice para este tipo de delitos. “Si seguimos en la ilegalidad y en el desorden va a continuar la inseguridad. Por esto estamos decididos a derrocar todo esto que ha sido una invasión ilegal totalmente”.
-
-De ser necesario van a ir de casa en casa derrumbando hasta que parar con las muertes violentas. “Tenemos que devolver la paz al cantón”.
-
-También se está coordinando con la Judicatura y la Fiscalía para que esto no continúe.
-
-Este no es el primer operativo que se realiza con estos fines. Ya la Policía y los militares han dado a conocer otros operativos en Durán, con el fin de destruir este tipo de casas.
-
-Ecuador necesita cubrir un déficit de 152 mil toneladas de maíz para evitar escasez en 2025
-===========================================================================================
-
-El ministro de Agricultura, Danilo Palacios, explica las medidas ante la crisis agrícola, el déficit de maíz y otros desafíos.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Danilo Palacios se reunirá este mes con los productores de maíz para analizar precios y costos. Foto: MAG](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-66.jpg)
-
-El ministro de Agricultura de Ecuador, **Danilo Palacios Márquez**, aborda en esta entrevista cómo afronta la sequía, incendios y la crisis productiva en el sector agropecuario. Detalla las acciones de apoyo a los agricultores y ganaderos; los avances en sistemas de riego; la situación y déficit de la producción de maíz y los esfuerzos para mantener la sostenibilidad del sector. Además, explica los acuerdos con productores e industriales para enfrentar la escasez, regular los precios y mejorar la productividad.
-
-Más noticias
-------------
-
-* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
-* [La sequía impide el brote normal de las frutas en Ecuador](https://www.elcomercio.com/actualidad/negocios/la-sequia-impide-el-brote-normal-de-las-frutas.html "https://www.elcomercio.com/actualidad/negocios/la-sequia-impide-el-brote-normal-de-las-frutas.html")
-* [La crisis del maíz impacta en la producción de huevos, pollo y cerdos en Ecuador](https://www.elcomercio.com/actualidad/negocios/la-crisis-del-maiz-impacta-en-la-produccion-de-huevos-pollo-y-cerdos-en-ecuador.html "https://www.elcomercio.com/actualidad/negocios/la-crisis-del-maiz-impacta-en-la-produccion-de-huevos-pollo-y-cerdos-en-ecuador.html")
-
-### **¿Qué está haciendo para afrontar la triple crisis que afronta el agro y la ganadería?** 
-
-En sequía o incendios se identificó áreas afectadas. Luego se ha llegado con ayuda agropecuaria para alimentar al ganado. Entregamos vitaminas, desparasitantes para esté en mejor forma y resista.
-
-Hemos estado cerca y he pedido a nuestros técnicos distritales que estén pendientes y atendiendo al productor en territorio. Entregamos en Manabí, Cotopaxi, Loja, El Oro sistemas de riego. Para el próximo año hay **22 millones de dólares** para estos sistemas. 
-
-Desde BanEcuador hemos creado productos para atender y ayudar al productor. Si necesitan construir su pozo de riego, mejorar su sistema de riego con bomba o motor estamos atendiendo con créditos.
-
-### **Una queja de los productores es que el MAG no llega a todo el territorio para solventar con asistencia técnica y ayudas económicas…** 
-
-Sí. Identificamos y focalizamos donde tenemos mayor problema por incendios y sequía. Hay mayor presencia con **440 mil asistencias técnicas**. Ojalá pudiéramos estar en todos los lugares. 
-
-### **¿Qué porcentaje queda pendiente?**
-
-Estamos trabajando con autoridades locales. En Cotopaxi, por ejemplo, tenemos un convenio con la Prefectura para coordinar y asistir con acometidas de agua, acceso a tierras agrícolas. Con municipios entregamos cerca de **18 mil títulos de tierra**. Se contrasta la información y entregar títulos auténticos. Estamos entregando certificados del Registro de la Propiedad para que el productor tenga el bien para heredarlo u obtener un crédito.
-
-### **Un sector afectado es el maicero ¿En cuánto decreció la producción, cómo se perfila el ciclo agrícola a abril del 2025** ¿C**uál es la oferta y demanda y a qué acuerdos se ha llegado con este sector que tiene diversas posiciones?** 
-
-Hemos tenido afectación con menos rendimientos **del 20% al 40%**, no solo del maíz sino de todos los productos, por horas luz y temperaturas extremadamente altas. 
-
-Identificamos con base en auditorías de campo y una nueva herramienta de inteligencia artificial para tomas satelitales las zonas que aún tienen cultivo. También las que ya fueron cosechadas y las afectadas por rendimiento. Con base en eso decidimos importar 95 mil toneladas, que cubrirán la necesidad de diciembre y enero. 
-
-Y, como usted bien lo dijo ¿Qué va a pasar hasta abril? Ahora, la mayoría de productores, que no tienen un sistema de riego, esperan la llegada del invierno para la siembra. Estamos en la primera semana de diciembre y aún no se presentan lluvias. Normalmente, el ciclo del cultivo de maíz es de entre **120 a 130 días**. Es decir, una vez que se siembra la cosecha va a salir en abril. 
-
-### **¿Qué va a pasar entre marzo y abril y de cuánto es el déficit?** 
-
-Tenemos que hacer esa segunda reunión para analizar y autorizar una importación. Eso permitirá cubrir esos meses donde puede crearse un desabastecimiento.
-
-> Identificamos que hay un déficit de **152 mil toneladas** **de maíz**. La demanda que existe en el país es de **1,7 millones de toneladas**, mientras la producción que hemos calculado es de **1,5 millones**. También hay que considerar lo que se importó a inicios del año anterior que juega también en la oferta.
-
-### **¿Cuántos productores no tienen sistemas de riego?**
-
-Un 80% de productores pequeños no dependen o no tienen este sistema de las ocho provincias productoras de maíz. Esta situación hay que analizarla más: En cultivos históricos de arroz, banano, cacao, lamentablemente hay productores, que en épocas buenas (de precios), aprovecharon e instalaron su sistema de riego. Pero hay otros que no quisieron. 
-
-El Ministerio entra para ver cómo ayudar y  facilitar, ya sea un crédito o iniciar un proyecto de inversión para crear un sistema de riego que ayude a un sinnúmero de productores pequeños.
-
-Pero ¿a dónde quiero llegar? No solo es una responsabilidad del Estado sino del productor, de cuidar su negocio y tratar de ser eficiente. Por esto nos hemos enfocado en cómo preparar y enseñar a producir mejor; cómo manejar sus finanzas; enseñar a manejar el flujo del dinero y que sean sostenibles. 
-
-### **¿Cómo evalúan las asistencias técnicas?**  
-
-Damos seguimiento junto con las asociaciones para asegurar la producción y comercialización. Hemos realizado 300 enlaces comerciales con la Corporación Favorita; 2 050 encuentros comerciales con mayoristas beneficiando a 70 mil productores. Se generó un giro económico de 20 millones de dólares.
-
-En el programa de agricultura familiar campesina con los pequeños productores que atienden al 60% de la producción de la canasta básica, están registrados con carné y certificados 20 200 productores. Hemos realizado 335 circuitos alternativos de comercialización, que generaron seis millones de dólares en ventas.
-
-Si sumamos agricultura familiar campesina y el resto de programas generamos 27 millones de dólares de ventas de productos. Realizamos todas las semanas ferias en ministerios, prefecturas, Asamblea. El consumidor puede identificar los sellos AFC y ayudar a nuestros productores.  
-
-### **¿Qué hac**en **con los intermediarios de maíz**?**, ¿Por qué cada vez que hay anuncios de escasez, el precio supera al internacional?** 
-
-Tiene razón. Hablando de maíz lamentablemente hay intermediarios buenos y malos. En el análisis que he hecho, el mayor porcentaje está del lado que causa daño. En Pichincha están comprando maíz a 22 dólares cuando el precio referencial es de 16,50 dólares. 
-
-Siempre digo a los productores que denuncien. Ayúdennos a identificar a los intermediarios, que causan daño, para ir con intendencia, en operativos. Hemos tenido éxito, pero cambian el precio y luego vuelven.
-
-Vengo del sector privado y siempre he pensado que mientras menos intervenga el gobierno es más saludable. Son los actores que tienen que intervenir y empoderarse de su negocio. Deben activarse.
-
-Hemos logrado que se sientan en una sola mesa. Hemos hecho tres [ruedas de negocios](https://www.agricultura.gob.ec/mag-organiza-rueda-de-negocios-para-vender-maiz-duro-de-productores-de-napo-orellana-y-sucumbios/ "https://www.agricultura.gob.ec/mag-organiza-rueda-de-negocios-para-vender-maiz-duro-de-productores-de-napo-orellana-y-sucumbios/") entre productores, industriales y comerciantes para conectarlos.
-
-### **¿Por qué no se logra este equilibrio de precios?** 
-
-Falta producto y por otro lado existe un grupo de productores en Los Ríos, que dicen que hay suficiente. Les pregunto: ¿Dónde está y por qué no venden, cuando los precios están más altos que el referencial? 
-
-Dan a entender que se está especulando, tratando de vender al mayor precio posible. Lamentablemente con falta de visión, porque es importante tener un equilibrio en la cadena productiva del maíz.
-
-¿Qué gano como productor ocasionando un daño económico, provocando la quiebra de un actor de la cadena? Mañana no voy a tener quién me compre el producto.
-
-### ¿Se va a revisar los precios con el sector?
-
-Vamos a hacer la mesa técnica este mes (diciembre) para analizar el precio y costos del maíz. Hay un pedido de revisión y hemos actuado de manera transparente, responsable y realista. Una de las cosas que siempre he dicho a los productores: el mercado lo tenemos aquí nosotros somos los consumidores. Tenemos que ser conscientes de cuál es la capacidad de absorción del mercado. También vamos a hacer una mesa técnica del sector del arroz, pero ahí no hay mayor problema.
-
-### El sector avícola vive descontento por la escasez y el precio…
-
-Los pequeños productores de pollo y cerdo están desesperados porque no les da el precio y están a punto de salirse de los negocios. En huevos va a crearse un desabastecimiento porque como los costos no les da no llegan hasta que la gallina ponga; la venden antes para salir y no verse perjudicados. Entonces, la gallina ponedora no cumple su fin y es vendida para carne. De a poco se va a sentir el desabastecimiento sino se logra un equilibrio de costos que sostenga la cadena.
-
-### **¿A qué acuerdo llegó con el cluster cárnico, porque también tienen altos costos y eso afecta la posibilidad de exportar?** 
-
-Sí. Esa es una realidad que tenemos y estamos apuntando con asistencia técnica, porque tenemos que ser eficientes y productivos. Cuando mejora su  productividad mejora sus costos. La otra parte en donde tenemos que trabajar es en la calidad hablando de carne o leche. Para exportar tenemos que cumplir los parámetros de calidad, que exige el mercado. 
-
-En el sector cárnico hay un grupo que están preparados para exportar carne. Desde el sector industrial avícola se está exportando pollo a Bahamas y hubo una exportación de cerdo, que se realizó meses atrás. Tenemos abierto el mercado para exportar ganado en pie a Emiratos Árabes Unidos, pero tenemos que prepararnos.  Como usted bien dice y eso es una realidad tenemos que cambiar si queremos abrirnos al mercado. Tenemos que ser competitivos en costo de insumos, mejores prácticas agrícolas para ser productivos, mejorar la calidad de nuestros productos. 
-
-### ¿Qué ocurre con la leche, que también afronta inconvenientes?
-
-Personalmente me preocupa el producto de leche, donde siempre tenemos problemas. Meses atrás firmamos un reglamento con todos los actores en consenso. Recuerdo que en la primera reunión que tuve con ellos les dije: Señores, el reglamento no va a solucionar 100% el precio y la venta del producto.
-
-Tenemos que trabajar de manera conjunta abriendo mercados. La realidad es que la producción es superior a la demanda: producimos 5 millones de litros diarios y existe la industria formal e informal. El 40% de lo que producimos se vende a la industria formal, que fue la que estuvo dispuesta a firmar el reglamento. La industria informal no estuvo presente y hoy es la que está causando este problema, de que se está pagando precios que no corresponden.
-
-### ¿Qué van a hacer con este 60% de informales?
-
-Tenemos que hacer que se formalicen, identificar y exigir que cumplan lo que se ha establecido. Tenemos que trabajar con industria y productores, porque la industria también se ve afectada porque hay una competencia informal que le quita mercado.
-
-### Incluso llega leche de contrabando por las fronteras…
-
-Hay que abordarlo con todos los actores para encontrar una solución. Hemos venido trabajando en ese acuerdo que tuvimos, de encontrar nuevos mercados de nuestro lado. El propósito del tratado de libre comercio con China, donde se habla del producto lácteo y ya fueron calificadas las industrias por delegación china. Hemos empezado a hacer conexiones entre importadores y exportadores para empezar a vender nuestros productos. Estamos trabajando en un programa para vender de manera humanitaria a países como Haití, en acuerdos comerciales entre países para sacar la leche.
-
-Con FAO estamos apoyándonos para ver países como Angola, que importa el 98% del producto. Estamos tratando de ver si colocamos leche para generar mayor demanda y estabilizar los precios.
-
-### ¿Qué hacen frente al bajo consumo de leche y alta desnutrición infantil, sobre todo en la Amazonía?
-
-Trabajamos de manera articulada con ministerios. Hemos identificado que la cultura de alimentación en la Amazonía es diferente a la que hemos querido generalizar en nuestros programas. Estamos tratando de cambiar para poner otros productos para que los niños lo reciban con agrado y sea exitoso. Se va a bordar en las zonas de mayor desnutrición. No tengo el dato exacto, pero conozco que sí hemos disminuido, no significativamente.
-
-Mire lo que sucede en el campo, nuestros agricultores ganaderos prefieren vender su producto y no dar la leche a los niños. Esto tiene que ser diferente, primero guardo para alimentar a mis hijos y luego vendo el producto. Esto hay que trabajarlo.
-
-Su hoja de vida
----------------
-
-* Está al frente del Ministerio de Agricultura desde noviembre del 2023.
-* Tiene el título de agrónomo por la Escuela Agrícola Panamericana Zamorano.
-* Es accionista de la Industria de Plásticos Palacios Márquez (Palmaplast); Fertilizantes y Abonos (Fertipalma); el Holding Palmar; Agrícola Danilup; Corporación Internacional Palacios (Cipal).
-
-Victor Willis niega que ‘Y.M.C.A.’ sea himno gay
-================================================
-
-Victor Willis, líder de Village People, rechaza la creencia de que su éxito de 1978, 'Y.M.C.A.', sea un himno para la comunidad gay.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Victor Willis, vocalista y letrista de Village People (centro), desmintió enérgicamente que 'Y.M.C.A.' sea un "himno gay". Foto: FB de Village People](https://www.elcomercio.com/wp-content/uploads/2024/12/village-people-musica_720.jpg)
-
-Victor Willis, vocalista y letrista de Village People, desmintió enérgicamente que la canción ‘Y.M.C.A.’ sea un “himno gay”. A través de una publicación en Facebook, Willis explicó que la asociación con la comunidad LGBTQ se basa en la errónea suposición de que la YMCA servía como un punto de encuentro gay y porque algunos integrantes del grupo eran homosexuales. Sin embargo, aclaró que la letra no tiene ninguna referencia directa a esta comunidad.
-
-Más noticias
-------------
-
-* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "Quitofest, las bandas y cantantes nacionales que debutarán en 2024")
-* [Quito espera a los turistas en el feriado por las fiestas de fundación española](https://www.elcomercio.com/actualidad/quito/turismo-feriado-fiestas-quito.html "Quito espera a los turistas en el feriado por las fiestas de fundación española")
-
-Willis recordó que la canción habla de actividades cotidianas en las instalaciones de la YMCA, como nadar, hacer deportes y encontrar alojamiento barato, No tine connotaciones homosexuales. Señaló que la frase “pasar el rato con todos los chicos” se refería al argot afroamericano de los años 70. Añadió que no tiene ninguna relación con un mensaje gay.
-
-Aunque “Y.M.C.A.” ha sido interpretada como un símbolo de la comunidad LGBTQ, especialmente durante décadas, también fue usada por [Donald Trump](https://www.maynoothuniversity.ie/research/spotlight-research/why-donald-trump-dancing-ymca "https://www.maynoothuniversity.ie/research/spotlight-research/why-donald-trump-dancing-ymca") en sus mitines de campaña. Inicialmente, esto también generó el rechazo de Willis. Sin embargo, en su reciente declaración, el artista permitió el uso de la canción por parte del exmandatario. Reconoció el reciente éxito del tema, que ha vuelto a escalar en los listados de música electrónica.
-
-Willis advirtió que a partir de 2025 tomará medidas legales contra quienes sigan perpetuando la idea de que “Y.M.C.A.” es un himno gay. A esto lo considera que es difamatorio. Sin embargo, expresó que no le molesta que los miembros de la comunidad LGBTQ se identifiquen con la canción. Pero siempre y cuando no se asocie erróneamente a actividades ilícitas.
-
-Amnistía Internacional cataloga como genocidio los ataques a Gaza
-=================================================================
-
-El organismo determinó la “intención específica de destruir físicamente” a los palestinos de la Franja de Gaza.
----------------------------------------------------------------------------------------------------------------
-
-![Un desplazado interno palestino inspecciona los daños en un campamento de tiendas de campaña en la zona de Al-Mawasi tras un ataque aéreo israelí, cerca de Jan Yunis, sur de la Franja de Gaza, este jueves 5 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-13.jpg)
-
-Israel “ha cometido y sigue cometiendo un **genocidio” en Gaza,** según la conclusión “inequívoca” de Amnistía Internacional. El organismo determinó la “intención específica de **destruir físicamente**” a los palestinos de la Franja. Esto tras analizar el patrón general de conducta, las declaraciones “deshumanizadoras”, la ocupación militar y el “bloqueo inhumano” del territorio.
-
-### Más noticias
-
-* [La CPI dicta orden de arresto contra Netanyahu por](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza") [crímenes](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza") [de guerra en Gaza](https://www.elcomercio.com/actualidad/mundo/cpi-dicta-orden-de-arresto-contra-netanyahu-por-crimenes-de-guerra-en-gaza.html "La CPI dicta orden de arresto contra Netanyahu por crímenes de guerra en Gaza")
-* [Hizbulá compromete el alto el fuego con Israel al disparar dos misiles](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles")
-* [Al menos 44 palestinos muertos en Gaza en el último día; 43 552 en 400 días de guerra](https://www.elcomercio.com/actualidad/mundo/al-menos-44-palestinos-muertos-en-gaza-en-el-ultimo-dia-43-552-en-400-dias-de-guerra-2.html "Al menos 44 palestinos muertos en Gaza en el último día; 43 552 en 400 días de guerra")
-
-El informe que cataloga el genocidio
-------------------------------------
-
-Amnistía publicó este jueves 5 de diciembre un informe titulado “Es como si fuéramos seres infrahumanos: **El genocidio de Israel contra la población palestina de Gaza”.** Este asegura tener “elementos suficientes para concluir que Israel ha cometido y continúa cometiendo genocidio”.
-
-Este es un crimen difícil de **demostrar legalmente** porque requiere probar la “intencionalidad” de cometer una limpieza étnica parcial o total de una población.
-
-La abogada de derechos humanos Érika Guevara Rosas explicó a EFE que Amnistía “ha estado documentando l**os actos cometidos** por las autoridades israelíes en respuesta a los ataques de Hamas” del 7 de octubre de 2023, hasta julio. Y ha llevado a cabo un proceso de “análisis legal” e “investigación minuciosa” sobre cómo calificar “los múltiples crímenes que ha cometido y sigue cometiendo el Ejército israelí bajo las órdenes del Estado en su conjunto”.
-
-La investigación tiene como marco de referencia **“la responsabilidad estatal”.** No señala posibles responsables y se espera que contribuya al análisis de la Corte Internacional de Justicia (CIJ) en el procedimiento iniciado por Sudáfrica contra Israel.
-
-Pero también incluye recomendaciones para que la fiscalía de la Corte Penal Internacional (CPI) considere **el crimen de genocidio** dentro de sus investigaciones sobre Palestina. Estas condujeron a la emisión de una orden de arresto contra el primer ministro israelí, **Benjamín Netanyahu.**
-
-Los actos genocidas
--------------------
-
-La organización entrevistó a víctimas, testigos, autoridades locales y personal sanitario y analizó una variedad de datos visuales y digitales. Además, declaraciones de altos cargos israelíes y compartió sus conclusiones con Israel, **“sin ninguna respuesta sustantiva”.**
-
-“Hemos determinado que Israel ha cometido, con total intención, **tres actos prohibidos** por la Convención del Genocidio.
-
-Estos son la matanza de personas de un grupo protegido -palestinos de Gaza-, les ha causado serias lesiones físicas y mentales y los ha sometido intencionalmente a condiciones de existencia que acarrean su destrucción total o parcial”, explicó Guevara Rosas.
-
-La secretaria general de Amnistía, Agnès Callamard, advirtió de que Israel ha tratado a la población palestina de Gaza como “un grupo infrahumano que no merece derechos humanos ni dignidad”. Subrayó que el informe concluye “de forma inequívoca” **la intencionalidad genocida de Israel.**
-
-“Israel ha sostenido reiteradamente que sus **acciones en Gaza** son legítimas y están justificadas por su objetivo militar de erradicar a Hamas. Pero la intención genocida puede coexistir con los fines militares y no tiene por qué ser la única intención de Israel”, añadió Callamard.
-
-Israel, dice, **es “consciente del daño** irreparable que estaba causando” a los palestinos de Gaza.
-
-Además, les impuso unas condiciones de existencia que generaron “una mezcla mortal de desnutrición, hambre y enfermedades”. Y dejaron a la población palestina expuesta a **“sufrir una muerte lenta y** calculada”, subraya Amnistía. Además señala que también se sometió a “centenares de gazatíes a detención en régimen de incomunicación, tortura y [otros malos tratos”.](https://es.wikipedia.org/wiki/Gaza "https://es.wikipedia.org/wiki/Gaza")
-
-Auto de Pedro Pablo Perlaza fue hallado en Quito
-================================================
-
-El auto de Pedro Pablo Perlaza fue recuperado junto a otros tres y dos motos reportados como robados, en Zabala, norte de Quito
--------------------------------------------------------------------------------------------------------------------------------
-
-![El auto fue hallado junto a otros reportados como robados, en Zabala, norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-14.jpg)
-
-**Pedro Pablo Perlaza f**ue secuestrado el pasado 1 de diciembre junto a Juan Carlos Morales en el sector de Puerto Limón, Atacames. El exfutbolista **recuperó su libertad** el miércoles 4 de diciembre, luego de pasar cuatro días secuestrado en el cantón Atacames, provincia de Esmeraldas.
-
-### Más noticias
-
-* [Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza")
-* [Pedro Pablo Perlaza contó la experiencia de su secuestro](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-secuestro-experiencia.html "Pedro Pablo Perlaza contó la experiencia de su secuestro")
-* [Así fue la liberación de Pedro Pablo Perlaza tras su secuestro](https://www.elcomercio.com/deportes/futbol/asi-fue-la-liberacion-de-pedro-pablo-perlaza-tras-su-secuestro.html "Así fue la liberación de Pedro Pablo Perlaza tras su secuestro")
-
-Policía logró captura de secuestradores
----------------------------------------
-
-La **Unidad Antisecuestros y Extorsión** (Unase) lideró un operativo que culminó con la **liberación de las víctimas**. La noticia la confirmó la Policía Nacional a través de sus redes sociales, y posteriormente en una rueda de prensa en la que se entregaron los detalles del rescate y se reunieron a las víctimas con sus familiares.
-
-“Al acudir al sector de Taseche, en el cantón Atacames, **nuestras unidades recibieron bala por los delincuentes**. A pesar de ello, logramos liberar a las víctimas sin que resultaran heridas”, señaló Velasteguí.
-
-Posterior a la liberación, la **Policía Nacional** continuó con las labores de investigación para dar con los responsables del secuestro extorsivo, en Esmeraldas.
-
-Uniformados lograron aprehender a **tres presuntos responsables** del delito. Dos de ellos son colombianos y uno, ecuatoriano que cuenta con antecedentes.
-
-Los tres sujetos serán puestos a **órdenes de las autoridades.**
-
-Auto de Pedro Pablo Perlaza fue recuperado
-------------------------------------------
-
-La Policía Nacional informó
-
-En otro operativo realizado en el norte de Quito, en Calderón, **se encontró el auto del futbolista.** Son cuatro vehículos recuperados y dos motocicletas reportados como robados.
-
-En este operativo se **detuvo a dos personas,** una colombiana y una ecuatoriana. Ambos serán juzgados por robo pero también serán implicados en el [caso del secuestro.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-La Policía Nacional encontró los vehículos ocultos en una propiedad en la zona de Zabala, en el norte de Quito.
-
-Los aprehendidos fueron identificados como:
-
-* Kevin Daniel T. P., ciudadano colombiano, con antecedentes penales por tenencia de armas.
-* Wilson Valentín B. S., ciudadano ecuatoriano con antecedentes penales por tenencia de armas.
-* Juan Felipe B. A., ciudadano colombiano.
-* Nilson B. P., ciudadano colombiano.
-* Carlos Armando A. C. ciudadano ecuatoriano con antecedentes penales por extorsión y tenencia ilegal de sustancias estupefacientes y psicotrópicas.
-
-> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw) || TRAS ENFRENTAMIENTO ARMADO LIBERAMOS A 2 VÍCTIMAS DE SECUESTRO EXTORSIVO EN ESMERALDAS  
->   
-> Tras labores investigativas y enfrentamiento armado en [#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw), liberamos a Pedro P. y Juan M., víctimas de secuestro extorsivo, por quienes exigían dinero para su… [pic.twitter.com/UN8LAH8a4H](https://t.co/UN8LAH8a4H)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [December 5, 2024](https://twitter.com/PoliciaEcuador/status/1864501934322790717?ref_src=twsrc%5Etfw)
-
-Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV
-==================================================================
-
-La final del fútbol ecuatoriano tendrá a Liga de Quito vs. IDV como rivales. El juego de ida se disputará el 7 de diciembre del 2024.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Pablo 'Vitamina' Sánchez se refirió a la final Liga de Quito vs. IDV en el fútbol ecuatoriano. Valoró a los dos equipos.](https://www.elcomercio.com/wp-content/uploads/2024/12/liga-2.jpg)
-
-El entrenador **Pablo ‘Vitamina’ Sánchez** destacó las virtudes colectivas e individuales de los universitarios a pocas horas del inicio de la final **Liga de Quito vs. IDV**, por la ida del título de campeón en la **Liga Pro** 2024.
-
-En una rueda de prensa previa al enfrentamiento con **Independiente del Valle**, el técnico argentino de la ‘U’ expresó que espera un cotejo muy complicado y anticipó que ambos equipos lucharán con todo en busca del título.
-
-### Más noticias:
-
-* [Álex Arce se perfila para romper el récord de goleo en Liga Pro](https://www.elcomercio.com/deportes/liga-pro-liga-quito-alex-arce.html "Álex Arce se perfila para romper el récord de goleo en Liga Pro")
-* [Liga de Quito tendrá una dura baja para la primera final de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tendra-una-dura-baja-para-la-primera-final-de-la-liga-pro.html "Liga de Quito tendrá una dura baja para la primera final de la Liga Pro")
-* [Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo](https://www.elcomercio.com/deportes/futbol/dalo-bucaram-aclara-la-situacion-de-su-hijo-jugador-de-liga-de-portoviejo.html "Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo")
-
-“Será un partido muy difícil para ambos equipos. **Independiente del Valle** tiene jugadores desequilibrantes, especialmente por las bandas, y se asocia muy bien. Nosotros, de alguna manera, intentamos jugar de forma similar. Por eso, la dificultad será para los dos. Entendemos que será una final muy reñida”, comentó Sánchez.
-
-Liga de Quito vs. IDV
----------------------
-
-El partido **Liga de Quito vs. IDV** se disputará este sábado 7 de diciembre de 2024, en el estadio Rodrigo Paz Delgado, desde las 15:00. El encuentro de vuelta se jugará el 14 de diciembre en el estadio de Independiente del Valle.
-
-En este contexto, el equipo de la ‘U’ busca convertirse en bicampeón, tras haber ganado el torneo del 2023 en una final contra el mismo rival que enfrentarán esta vez.
-
-A pesar de las bajas, como la de **José ‘Choclo’ Quintero**, quien no estará en la final de ida debido a una lesión, el entrenador mantiene la esperanza y la convicción de que su equipo tiene lo necesario para lograr la victoria. Quintero ha jugado solo 60 minutos en las últimas siete fechas de la **Liga Pro** y, según el director deportivo de Liga, **Eduardo Álvarez,** su ausencia busca garantizar su recuperación para el encuentro de vuelta.
-
-**Liga de Quito**, con 12 títulos nacionales y cinco internacionales, buscará su título número 21, mientras que Independiente del Valle, campeón de tres títulos internacionales, intentará conquistar su segundo campeonato ecuatoriano.
-
-“Anímicamente el equipo está muy bien. Llegamos en un buen momento a la final, hemos pasado momentos de turbulencia. Pero venimos demostrado que somos un equipo competitivo”, añadió ‘Vitamina’ Sánchez.
-
-Feriado de Año Nuevo será extendido en Ecuador
-==============================================
-
-El feriado por Año Nuevo incluirá cinco días consecutivos en Ecuador, del 1 al 5 de enero de 2025, abarcando sectores públicos y privados.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![El Gobierno decretó 5 días de feriado en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/Feriado-2025.jpg)
-
-El presidente Daniel Noboa decretó la suspensión de la jornada laboral para los días jueves 2 y viernes 3 de enero de 2025. Esta medida fue oficializada el 6 de diciembre de 2024 mediante el **Decreto Ejecutivo No. 474,** permitirá que el feriado de Año Nuevo se extienda desde el miércoles 1 hasta el domingo 5 de enero de 2025.
-
-### Más noticias:
-
-* [Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?](https://www.elcomercio.com/actualidad/negocios/feriado-de-fiestas-de-quito-en-que-horario-atenderan-los-bancos.html "Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?")
-* [Ministro de Turismo anunciará ‘buenas noticias’ en las próximas horas sobre feriados](https://www.elcomercio.com/tendencias/turismo/ministro-de-turismo-anunciara-buenas-noticias-en-las-proximas-horas-sobre-feriados.html "Ministro de Turismo anunciará ‘buenas noticias’ en las próximas horas sobre feriados")
-
-La disposición abarca tanto al sector público como al privado y busca, según la información oficial, **fomentar el turismo interno y dinamizar la economía nacional.** El documento establece que el objetivo principal de esta decisión es permitir un mayor descanso para los ecuatorianos y, a la vez, incentivar el turismo interno durante el período. Las autoridades responsables señalan que esta extensión busca generar movimiento económico en actividades relacionadas con transporte, hospedaje, alimentación y turismo cultural, entre otras.
-
-> A la ciudadanía: [pic.twitter.com/78wUbdzd1b](https://t.co/78wUbdzd1b)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 6, 2024](https://twitter.com/Presidencia_Ec/status/1865075931196338259?ref_src=twsrc%5Etfw)
-
-Durante este período, el Gobierno garantiza el funcionamiento de servicios esenciales, como los de salud, bomberos, transporte y bancos, mediante la asignación de personal mínimo en las instituciones responsables.
-
-La extensión del feriado también responde, de acuerdo el anuncio oficial, a estrategias para dinamizar la economía en un momento en que sectores como el turístico buscan estabilizarse tras años de altibajos.
-
-Con esta disposición, el **Gobierno** espera un incremento en los desplazamientos hacia diversos destinos dentro del país.
-
-Alberto Spencer, el futbolista que puso a Ecuador en el mapa
-============================================================
-
-Si hablamos de historia del fútbol sudamericano, un ecuatoriano se inmortalizó como uno de los grandes referentes: Alberto Spencer.
------------------------------------------------------------------------------------------------------------------------------------
-
-![Alberto Spencer con la camiseta de Peñarol.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T181942.319.jpg)
-
-Un 6 de diciembre de 1937 nació en Ancón, un pequeño pueblo ecuatoriano que entonces pertenecía a la provincia de Guayas (hoy Santa Elena), **Alberto Pedro Spencer Herrera**.
-
-A 87 años de su nacimiento y más de 18 desde su fallecimiento el 3 de noviembre de 2006 en Cleveland, Estados Unidos, el legado de **‘Cabeza Mágica’** sigue vigente. Sus goles y momentos históricos lo inmortalizaron como una leyenda del fútbol.
-
-### Más noticias:
-
-* [Alberto Spencer, el mejor representante de Ecuador en la Libertadores](https://www.elcomercio.com/deportes/futbol/alberto-spencer-mejor-representante-ecuador-libertadores.html "Alberto Spencer, el mejor representante de Ecuador en la Libertadores")
-* [La final de la Liga Pro y otros partidos imperdibles de diciembre](https://www.elcomercio.com/deportes/futbol/final-liga-pro-partidos-diciembre.html "La final de la Liga Pro y otros partidos imperdibles de diciembre")
-* [Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros](https://www.elcomercio.com/deportes/futbol/ecuatorianos-triunfaron-libertadores-con-clubes-extranjeros.html "Ecuatorianos que triunfaron en la Libertadores con clubes extranjeros")
-
-Spencer y sus primeros pasos
-----------------------------
-
-Spencer inició su carrera en el **Everest** de Guayaquil en 1953. Fue en un Campeonato Sudamericano con la selección de Ecuador donde el técnico del **Peñarol** de Uruguay quedó sorprendido por su talento, lo que marcó el inicio de su leyenda.
-
-En la década de 1960, **Spencer lideró a Peñarol en una era dorada**, dominando tanto el fútbol uruguayo como el continental. Ganó ocho Campeonatos Uruguayos y dejó su huella en la **Copa Libertadores**, el torneo más importante de América.
-
-El ‘Señor Libertadores’
------------------------
-
-Spencer disputó seis finales de Copa Libertadores y anotó seis goles en ellas, levantando el título en 1960, 1961 y 1966. Es el **máximo goleador histórico del torneo**, con 54 goles (48 con Peñarol y 6 con Barcelona SC).
-
-Rompió récords significativos, incluyendo el primer triplete, póker y repóker en la historia del torneo. Además, logró el triplete más rápido de la competición.
-
-En el ámbito internacional, ganó dos **Copas Intercontinentales**. En 1961, marcó dos goles al Benfica en los tres partidos de la serie, y en 1966 anotó tres tantos contra el Real Madrid, consolidando su nombre en la élite del fútbol mundial.
-
-![Alberto Spencer ganó tres Copas Libertadores con Peñarol.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-29T131757.985-1024x683.jpg)
-
-Alberto Spencer ganó tres Copas Libertadores con Peñarol.
-
-Los últimos años de Spencer en el fútbol
-----------------------------------------
-
-Después de hacer historia con Peñarol, Spencer regresó a Ecuador en 1971 para jugar con Barcelona SC, donde disputó 37 partidos y anotó 19 goles.
-
-Posteriormente, ejerció como entrenador durante una década, dirigiendo clubes como Universidad Católica, Emelec, Liga de Portoviejo y Técnico Universitario en Ecuador; Huracán Buceo y Liverpool en Uruguay, y Guaraní en Paraguay, su último club.
-
-El legado de Spencer trasciende generaciones, y su impacto en el fútbol ecuatoriano y sudamericano es incuestionable. Su historia es la de un verdadero pionero que puso a Ecuador en el mapa del fútbol mundial.
-
-Autopista General Rumiñahui, cerrada este domingo 8 de diciembre
-================================================================
-
-Agentes de tránsito se ubicarán en la zona del cierre y vías aledañas en donde pudiera haber congestión vehicular para asistir a los conductores
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El montaje de las vigas de acero se realizará este domingo 8 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-12.jpg)
-
-La **Prefectura de Pichincha** informó sobre los trabajos de montaje del puente en la **autopista General Rumiñahui**, a la altura del puente 8. Este proceso requiere **el cierre total de esta autopista**.
-
-### Más noticias
-
-* [Una persona falleció tras caer en moto de un puente, en Quito](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito")
-* [Siniestro de tránsito causa congestión en la Panamericana Sur](https://www.elcomercio.com/actualidad/ecuador/siniestro-de-transito-causa-congestion-panamericana-sur.html "Siniestro de tránsito causa congestión en la Panamericana Sur")
-* [Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza")
-
-Operativo de tránsito en la autopista
--------------------------------------
-
-La Agencia Metropolitana de Tránsito (AMT) informó que ejecutará un **dispositivo de tránsito** desde las 04:00 hasta las 23:59 del domingo 8 de diciembre.
-
-Para estas labores, la AMT designó a **seis agentes de tránsito** para gestionar el flujo vehicular. Estos estarán distribuidos en toda la zona afectada, como Conocoto.
-
-Vías cerradas
--------------
-
-Debido a los trabajos de montajes del puente, se interrumpirá el paso en los seis carriles de la autopista General Rumiñahui, es decir, en ambos sentidos el paso estará bloqueado.
-
-Las calles que estarán cerradas son:
-
-* Av. Lola Quintana y 29 de Mayo
-* Alfredo Gangotena y Charles Darwin
-* Av. Lola Quintana y Alfredo Gangotena
-* Av. Río Amazonas y Río Coca
-* Av. Río Coca y Santiago
-* Av. Río Santiago y Río Amazonas
-* Juan Serafín y César Endara
-
-**Rutas alternas**
-
-* 29 de Mayo
-* Oriente
-* Simón Bolívar
-* Manuela Cañizares
-* Av. Camilo Ponce Enríquez
-* Av. Princesa Toa
-* Jaime Roldós Aguilera
-* Av. Ilaló
-
-**Desvíos**
-
-* 18 de Mayo
-* Juan José Izurieta
-
-La **logística** prevista por la **Prefectura de Pichincha** contempla la instalación de 30 conos, tres cintas y 14 barras New Jersey como parte de la señalética.
-
-Toma en cuenta que hay un cierre en **la Av. Nela Martínez, e**ntre la Camilo Ponce y la autopista General Rumiñahui, por trabajos de [la Epmmop.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 🚧 Este domingo, estará cerrada totalmente la Autopista General Rumiñahui por la colocación de vigas de acero en el sector del puente 8.  
->   
-> Revisa las vías alternas ⬇️ aquí.  
->   
-> ✅Con información oportuna ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/HtkaTfNPtR](https://t.co/HtkaTfNPtR)
-> 
-> — AMTQuito (@AMT\_Quito) [December 5, 2024](https://twitter.com/AMT_Quito/status/1864782183392559581?ref_src=twsrc%5Etfw)
-
-Montaje de puente
------------------
-
-La Prefectura construye un **paso elevado** a la altura de la entrada a Conocoto y este fin de semana se realizará la instalación del puente de la av. Lola Quintana.
-
-A través de esta obra circularán alrededor de **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños, como La Armenia.
-
-Estos trabajos se ejecutarán **desde las 05:00 del domingo 8 de diciembre hasta las 24:00** del mismo domingo. Para ello, se realizará el **cierre total de los seis carriles de la autopista.**
-
-Este puente tendrá una longitud **de 276 metros**, con un ancho de 3,5 metros. El proyecto también prevé la instalación de iluminación del puente y la señalización vertical.
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
