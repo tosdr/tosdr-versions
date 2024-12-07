@@ -60,11 +60,11 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Classic Pleasure Set](https://www.womanizer.com/eu/classic-pleasure-set)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
