@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Variety Pack #14: Whose Portrait Hangs in Tiananmen Square? Also: Animes and Grindhouse Video Games!](https://www.somethingawful.com/photoshop-phriday/variety-pack-tiananmen/1/)
-* [May 21, 2007](https://www.somethingawful.com/forum-fridays/ff05-21-2007/1/)
-* [Peach Paradise](https://www.somethingawful.com/weekend-web/peach-paradise/1/)
-* [The Reificant: Brave](https://www.somethingawful.com/news/reificant-pueblo-brave/1/)
+* [Diary of the 1000-Pound Man](https://www.somethingawful.com/news/fat-guy-diary/1/)
+* [Image Makeovers!](https://www.somethingawful.com/comedy-goldmine/misplaced-images/1/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [No Good Deed; The Drop; Dolphin Tale 2; Honeymoon](https://www.somethingawful.com/current-movie-reviews/no-good-deed/1/)
+* [Thor: The Dark World; Free Birds; About Time](https://www.somethingawful.com/current-movie-reviews/thor-dark-world/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [A thread about gift suggestions](http://forums.somethingawful.com/showthread.php?threadid=4076945 "A thread about gift suggestions")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [This pig, he shit on his own balls](http://forums.somethingawful.com/showthread.php?threadid=4076923 "This pig, he shit on his own balls")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
 * ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [\[Request\] Can Lily Phillips sleep with 1000 men in 24 hours?](http://forums.somethingawful.com/showthread.php?threadid=4076972 "[Request] Can Lily Phillips sleep with 1000 men in 24 hours?")
+* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [A thread about gift suggestions](http://forums.somethingawful.com/showthread.php?threadid=4076945 "A thread about gift suggestions")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What are your favorite and least favorite fast food restaurants?](http://forums.somethingawful.com/showthread.php?threadid=4077002 "What are your favorite and least favorite fast food restaurants?")
 
 ### Random Articles
 
-* [The Apple iLive](https://www.somethingawful.com/flash-tub/apple-ilive-cartoon/)
-* [Toilet Duck!](https://www.somethingawful.com/news/toilet-duck/)
-* [Pampered Whiskers](https://www.somethingawful.com/awful-links/pampered-whiskers-cathats/)
-* [Tails Gets Trolled](https://www.somethingawful.com/comedy-goldmine/tails-trolled-fanart/1/)
-* [Wattlegrower's Vs Thanksgiving Warehouse](https://www.somethingawful.com/flash-tub/thanksgiving-cartoon-4/)
+* [Fins, feathers and furverts!](https://www.somethingawful.com/daily-dirt/fins-feathers-furverts/)
+* [Paris Hilton's My New BFF](https://www.somethingawful.com/awful-links/paris-hilton-bff/)
+* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
+* [Minutes of the 2015 Unicode Emoji Meeting](https://www.somethingawful.com/news/unicode-emoji-meeting/)
+* [16 Hours of Sex in Witcher 3, Eurogamer Adopts One Sentence Reviews](https://www.somethingawful.com/video-game-article/witcher-sex-capture/)
 
 [Random!](https://www.somethingawful.com/random/)
 
