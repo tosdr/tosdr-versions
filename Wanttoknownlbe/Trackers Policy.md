@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/het-penis-project/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/een-stille-schreeuw-om-recht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
