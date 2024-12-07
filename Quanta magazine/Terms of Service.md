@@ -259,11 +259,11 @@ _By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 _By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
 
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Meet-Luca_crRobertNeubeker-Thumbnail.webp)](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[![A man in a blue suit sits in front of a red mechanical apparatus](https://www.quantamagazine.org/wp-content/uploads/2024/11/RajReddy-cr.ElliottCramer-Thumbnail.jpg)](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
 
-[#### All Life on Earth Today Descended From a Single Cell. Meet LUCA.](https://www.quantamagazine.org/all-life-on-earth-today-descended-from-a-single-cell-meet-luca-20241120/)
+[#### The AI Pioneer With Provocative Plans for Humanity](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
 
-_By_ [Jonathan Lambert](https://www.quantamagazine.org/authors/jonathan-lambert)
+_By_ [Susan D'Agostino](https://www.quantamagazine.org/authors/dagostino_susan)
 
 The Quanta Newsletter
 
