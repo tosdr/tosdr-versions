@@ -392,7 +392,7 @@ For legal help, call [(800) 995-1212](tel:+18009951212 "For legal help, click to
 * [Mesothelioma](https://www.sokolovelaw.com/mesothelioma/ "Mesothelioma")
 * [Lung Cancer](https://www.sokolovelaw.com/asbestos/asbestos-cancer/lung-cancer/)
 * [Birth Injuries](https://www.sokolovelaw.com/birth-injuries/)
-* [Products](https://www.sokolovelaw.com/product-liability/)
+* [Depo-Provera®](https://www.sokolovelaw.com/dangerous-drugs/depo-provera/)
 * [Nursing Home Abuse](https://www.sokolovelaw.com/nursing-home-abuse/)
 * [Other Practice Areas](https://www.sokolovelaw.com/all-case-types/)
 * [Our Firm](https://www.sokolovelaw.com/about-us/ "Our Firm")
