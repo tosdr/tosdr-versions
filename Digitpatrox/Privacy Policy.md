@@ -20,16 +20,16 @@ Saturday, December 7 2024
 
 Latest
 
-* [Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
-* [My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
-* [How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
-* [The Appeal is in Customization](https://digitpatrox.com/the-appeal-is-in-customization/)
-* [5 Best Business Smartphones – Top Picks for Every Professional](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
-* [How to protect your bird feeder from hungry squirrels in 5 steps](https://digitpatrox.com/how-to-protect-your-bird-feeder-from-hungry-squirrels-in-5-steps/)
-* [New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://digitpatrox.com/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
-* [What Arm’s CEO makes of the Intel debacle](https://digitpatrox.com/what-arms-ceo-makes-of-the-intel-debacle/)
-* [Marvel Rivals Tier List: The Best Characters, Ranked](https://digitpatrox.com/marvel-rivals-tier-list-the-best-characters-ranked/)
-* [OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
+* [7 Best Marvel Rivals Strategists, Ranked](https://digitpatrox.com/7-best-marvel-rivals-strategists-ranked/)
+* [Intel’s CEO, Pat Gelsinger, ‘retires’ — riiiiight – Computerworld](https://digitpatrox.com/intels-ceo-pat-gelsinger-retires-riiiiight-computerworld/)
+* [The Best Gifts for the Frequent Traveler in Your Life](https://digitpatrox.com/the-best-gifts-for-the-frequent-traveler-in-your-life/)
+* [6 Best Cloud VDI Solution for 2024](https://digitpatrox.com/6-best-cloud-vdi-solution-for-2024/)
+* [Best Storm Doors of 2024](https://digitpatrox.com/best-storm-doors-of-2024/)
+* [What Is ChatGPT Plus?](https://digitpatrox.com/what-is-chatgpt-plus/)
+* [The 6 Tradeoffs Between a Stateful vs Stateless Firewall](https://digitpatrox.com/the-6-tradeoffs-between-a-stateful-vs-stateless-firewall/)
+* [Apple ‘investigating’ this much-requested MacBook upgrade](https://digitpatrox.com/apple-investigating-this-much-requested-macbook-upgrade/)
+* [Crypto-stealing malware posing as a meeting app targets Web3 pros](https://digitpatrox.com/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
+* [How to stop the AI you’re using from training with your data](https://digitpatrox.com/how-to-stop-the-ai-youre-using-from-training-with-your-data/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3618893-0-65159600-1733503118-Apple-WWDC24-Apple-Intelligence-Writing-Tools-240610.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Marvel-Rivals-best-strategists-characters.jpg)](https://digitpatrox.com/7-best-marvel-rivals-strategists-ranked/)
     
-    [Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
+    [7 Best Marvel Rivals Strategists, Ranked](https://digitpatrox.com/7-best-marvel-rivals-strategists-ranked/)
     
-    23 minutes ago
+    8 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01J8JHZDP8RCMSQCQRKQWNH7YG/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3616580-0-42424500-1733310220-intro_breaches-getting-someone-fired-100743607-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/intels-ceo-pat-gelsinger-retires-riiiiight-computerworld/)
     
-    [My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
-    
-    51 minutes ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730912387/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-How-to-Clean-Toys-Safely-1124)](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
-    
-    [How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/12/govee-christmas-lights-feature.jpg)](https://digitpatrox.com/the-appeal-is-in-customization/)
-    
-    [The Appeal is in Customization](https://digitpatrox.com/the-appeal-is-in-customization/)
-    
-    1 hour ago
-    
-* [![](https://assets.techrepublic.com/uploads/2023/02/tr2323-Samsung-Galaxy-Z-Fold-4.png)](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
-    
-    [5 Best Business Smartphones – Top Picks for Every Professional](https://digitpatrox.com/5-best-business-smartphones-top-picks-for-every-professional/)
+    [Intel’s CEO, Pat Gelsinger, ‘retires’ — riiiiight – Computerworld](https://digitpatrox.com/intels-ceo-pat-gelsinger-retires-riiiiight-computerworld/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JEEXP0CWZ50FSR5N5K3PT9PZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-best-gifts-for-the-frequent-traveler-in-your-life/)
+    
+    [The Best Gifts for the Frequent Traveler in Your Life](https://digitpatrox.com/the-best-gifts-for-the-frequent-traveler-in-your-life/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/The-Best-Cloud-VDI-Solutions.jpeg)](https://digitpatrox.com/6-best-cloud-vdi-solution-for-2024/)
+    
+    [6 Best Cloud VDI Solution for 2024](https://digitpatrox.com/6-best-cloud-vdi-solution-for-2024/)
+    
+    3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729879119/prod/content/dam/CRO-Images-2024/Home/CR-AE-InlineHero-Storm-Doors-Pella-1124)](https://digitpatrox.com/best-storm-doors-of-2024/)
+    
+    [Best Storm Doors of 2024](https://digitpatrox.com/best-storm-doors-of-2024/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [23 minutes ago
+* [8 minutes ago
     
-    ### Apple is about to add seriously useful tools to Apple Intelligence – Computerworld](https://digitpatrox.com/apple-is-about-to-add-seriously-useful-tools-to-apple-intelligence-computerworld/)
-* [51 minutes ago
+    ### 7 Best Marvel Rivals Strategists, Ranked](https://digitpatrox.com/7-best-marvel-rivals-strategists-ranked/)
+* [2 hours ago
     
-    ### My Favorite Amazon Deal of the Day: Apple AirPods 4](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airpods-4/)
-* [1 hour ago
+    ### Intel’s CEO, Pat Gelsinger, ‘retires’ — riiiiight – Computerworld](https://digitpatrox.com/intels-ceo-pat-gelsinger-retires-riiiiight-computerworld/)
+* [2 hours ago
     
-    ### How to Safely Clean and Disinfect Your Baby’s Toys](https://digitpatrox.com/how-to-safely-clean-and-disinfect-your-babys-toys/)
+    ### The Best Gifts for the Frequent Traveler in Your Life](https://digitpatrox.com/the-best-gifts-for-the-frequent-traveler-in-your-life/)
 
 Most Popular Topics
 
-* [August 24, 2024
+* [2 weeks ago
     
-    ### NYT Connections today hints and answers — Saturday, August 25 (#440)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-saturday-august-25-440/)
-* [September 29, 2024
+    ### How to Make Sure Your Packages Don’t Get Stolen](https://digitpatrox.com/how-to-make-sure-your-packages-dont-get-stolen/)
+* [3 weeks ago
     
-    ### How to watch Vikings vs Packers live stream online 2024](https://digitpatrox.com/how-to-watch-vikings-vs-packers-live-stream-online-2024/)
-* [October 8, 2024
+    ### Department of Justice reportedly will seek to break up Google Search monopoly](https://digitpatrox.com/department-of-justice-reportedly-will-seek-to-break-up-google-search-monopoly/)
+* [August 18, 2024
     
-    ### What Happened to All the Good Racing Games?](https://digitpatrox.com/what-happened-to-all-the-good-racing-games/)
+    ### 10 New Movies to Stream This Weekend on Netflix, Hulu, Prime Video (August 17 – 18)](https://digitpatrox.com/10-new-movies-to-stream-this-weekend-on-netflix-hulu-prime-video-august-17-18/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://digitpatrox.com/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
+    ### The 6 Tradeoffs Between a Stateful vs Stateless Firewall](https://digitpatrox.com/the-6-tradeoffs-between-a-stateful-vs-stateless-firewall/)
 * [3 hours ago
     
-    ### What Arm’s CEO makes of the Intel debacle](https://digitpatrox.com/what-arms-ceo-makes-of-the-intel-debacle/)
-* [4 hours ago
+    ### Apple ‘investigating’ this much-requested MacBook upgrade](https://digitpatrox.com/apple-investigating-this-much-requested-macbook-upgrade/)
+* [5 hours ago
     
-    ### Marvel Rivals Tier List: The Best Characters, Ranked](https://digitpatrox.com/marvel-rivals-tier-list-the-best-characters-ranked/)
+    ### Crypto-stealing malware posing as a meeting app targets Web3 pros](https://digitpatrox.com/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
