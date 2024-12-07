@@ -2,7 +2,7 @@
 
 _menu_
 
-[![](https://static2.penana.com/img/logo_new.svg)
+[![](https://static2.penana.com/img/logo_cm2.svg)
 
 **Penana**
 
