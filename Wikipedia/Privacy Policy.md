@@ -34,7 +34,7 @@ Other languages:
 * [Soomaaliga](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/so "Policy:Privacy policy/so (4% translated)")
 * [Tiếng Việt](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/vi "Policy:Privacy policy/vi (96% translated)")
 * [Türkçe](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/tr "Policy:Privacy policy/tr (96% translated)")
-* [Yorùbá](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/yo "Policy:Privacy policy/yo (2% translated)")
+* [Yorùbá](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/yo "Policy:Privacy policy/yo (1% translated)")
 * [Zazaki](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/diq "Policy:Privacy policy/diq (17% translated)")
 * [asturianu](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/ast "Policy:Privacy policy/ast (5% translated)")
 * [azərbaycanca](https://wikimediafoundation.org/wiki/Policy:Privacy_policy/az "Policy:Privacy policy/az (16% translated)")
