@@ -277,13 +277,6 @@ Conor McGregor
 [Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool](https://www.derrynow.com/news/national-news/1674886/conor-mcgregor-wants-to-knock-lavish-home-to-build-mansion-with-cinema-and-swimming-pool.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, December 6, 2024](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed")](https://www.derrynow.com/news/local-news/1674566/man-who-carried-out-bizarre-theft-by-stealing-dog-leads-and-harnesses-valued-at-2-126-jailed.html)
 
 Derry Magistrates' Court
@@ -309,13 +302,6 @@ A number of severe weather warnings have been issued by Met Eireann
 [CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches](https://www.derrynow.com/news/national-news/1674645/cancelled-bus-eireann-services-significantly-impacted-as-storm-darragh-approaches.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Man who assaulted Translink staff member jailed for five months](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who assaulted Translink staff member jailed for five months")](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
 
 Derry Magistrates' Court
@@ -324,6 +310,22 @@ Derry Magistrates' Court
 
 [Man who assaulted Translink staff member jailed for five months](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend")](https://www.derrynow.com/news/local-news/1674421/derry-strabane-council-issues-update-on-services-in-relation-to-storm-darragh-this-weekend.html)
+
+Storm Darragh Weather Warning for dangerous winds for all of Ireland
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend](https://www.derrynow.com/news/local-news/1674421/derry-strabane-council-issues-update-on-services-in-relation-to-storm-darragh-this-weekend.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry woman charged with possession of an offensive weapon returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with possession of an offensive weapon returned for trial")](https://www.derrynow.com/news/local-news/1674429/derry-woman-charged-with-possession-of-an-offensive-weapon-returned-for-trial.html)
 
@@ -334,14 +336,12 @@ Derry Magistrates' Court
 [Derry woman charged with possession of an offensive weapon returned for trial](https://www.derrynow.com/news/local-news/1674429/derry-woman-charged-with-possession-of-an-offensive-weapon-returned-for-trial.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend")](https://www.derrynow.com/news/local-news/1674421/derry-strabane-council-issues-update-on-services-in-relation-to-storm-darragh-this-weekend.html)
+[![Guinness drinkers of Derry need not worry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Guinness drinkers of Derry need not worry")](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
 
-Storm Darragh Weather Warning for dangerous winds for all of Ireland
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend](https://www.derrynow.com/news/local-news/1674421/derry-strabane-council-issues-update-on-services-in-relation-to-storm-darragh-this-weekend.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Guinness drinkers of Derry need not worry](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, December 7, 2024](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Magherafelt designer Johnathan Anderson and Harry Styles. Credit: Instagram @Pleasing](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt designer Johnathan Anderson and Harry Styles. Credit: Instagram @Pleasing")](https://www.derrynow.com/news/county-derry-post/1674963/county-derry-born-fashion-designer-collaborating-with-one-direction-superstar.html)
 
 Magherafelt designer Johnathan Anderson and Harry Styles. Credit: Instagram @Pleasing
@@ -532,7 +539,7 @@ Magherafelt designer Johnathan Anderson and Harry Styles. Credit: Instagram @Ple
 [County Derry born fashion designer collaborating with One Direction superstar](https://www.derrynow.com/news/county-derry-post/1674963/county-derry-born-fashion-designer-collaborating-with-one-direction-superstar.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Festive fun for all family at Holy Child PS Christmas extravaganza](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Festive fun for all family at Holy Child PS Christmas extravaganza")](https://www.derrynow.com/news/local-news/1674430/festive-fun-for-all-family-at-holy-child-ps-christmas-extravaganza.html)
+[![Festive fun for all family at Holy Child PS Christmas extravaganza](https://www.derrynow.com/resizer/165/93/true/2024_12_06/05-12-24_Holy_Child_Xmas_04-1733483742799.jpg--.jpg?1733483743769 "Festive fun for all family at Holy Child PS Christmas extravaganza")](https://www.derrynow.com/news/local-news/1674430/festive-fun-for-all-family-at-holy-child-ps-christmas-extravaganza.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -565,15 +572,6 @@ Dr Mukesh Chugh was honored with the prestigious BB-Mahatma Gandhi Award 2024
 
 [Derry doctor honored with prestigious BB-Mahatma Gandhi Award](https://www.derrynow.com/news/local-news/1674503/derry-doctor-honored-with-prestigious-bb-mahatma-gandhi-award.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police increasingly concerned for welfare of missing County Derry man](https://www.derrynow.com/resizer/165/93/true/2024_12_06/William_Dickson_-1733497611456.jpg--.jpg?1733497611484 "Police increasingly concerned for welfare of missing County Derry man")](https://www.derrynow.com/news/local-news/1674709/police-increasingly-concerned-for-welfare-of-missing-county-derry-man.html)
-
-William Dickson
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police increasingly concerned for welfare of missing County Derry man](https://www.derrynow.com/news/local-news/1674709/police-increasingly-concerned-for-welfare-of-missing-county-derry-man.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
