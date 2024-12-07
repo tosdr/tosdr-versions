@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Amy Mason. Credit: Lucy Ridges](https://cdn.comedy.co.uk/images/library/people/300x200/a/amy_mason_2025.jpg "Amy Mason. Credit: Lucy Ridges")](https://www.comedy.co.uk/live/fgwg/amy-mason/) Live
+
+[First Gig, Worst Gig: Amy Mason](https://www.comedy.co.uk/live/fgwg/amy-mason/)
+
 [!['Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/allo_allo_crabtree.jpg "'Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC")](https://www.comedy.co.uk/quiz/335/) Quiz
 
 [British Comedy Quiz #335](https://www.comedy.co.uk/quiz/335/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Terry Wogan Screams](https://cdn.comedy.co.uk/images/library/misc/300x200/t/terry_wogan_screams.jpg "Terry Wogan Screams")](https://www.comedy.co.uk/live/random8/terry-wogan/) Live
 
 [Random 8: Terry Wogan](https://www.comedy.co.uk/live/random8/terry-wogan/)
-
-[![Gold Christmas Cracker Jokes. Copyright: UKTV](https://cdn.comedy.co.uk/images/library/comedies/300x200/g/gold_christmas_cracker_jokes_2016.jpg "Gold Christmas Cracker Jokes. Copyright: UKTV")](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/) Features
-
-[Top 10 Christmas cracker jokes 2024](https://www.comedy.co.uk/features/top-10-christmas-cracker-jokes-2024/)
 
 #### Subscribe to our newsletters
 
