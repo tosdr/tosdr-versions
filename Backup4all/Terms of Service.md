@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [General - FAQ](https://www.backup4all.com/general-faq-kb.html)  
+* [How to restore data files to Minio using Back ...](https://www.backup4all.com/how-to-restore-data-files-to-minio-using-backup4all-kb.html)  
     
-* [How to back up data files from HGST using Bac ...](https://www.backup4all.com/how-to-back-up-data-files-from-hgst-using-backup4all-kb.html)  
+* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
     
-* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
+* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
     
-* [How to back up data files from FTP using Back ...](https://www.backup4all.com/how-to-back-up-data-files-from-ftp-using-backup4all-kb.html)  
+* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
     
-* [Backup to Blu-ray](https://www.backup4all.com/backup-to-blu-ray-kb.html)  
+* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
     
 
 Choose language:
