@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/YENIFER-JOSEFINA-QUERALES-GARCIA-and-RAINER-DE-JESUS-ESCOBAR-TONA-326x245.jpg)](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/700-blk-n-mich-crash-citizen-326x245.jpg)](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
 
-South Shore
+Magnificent Mile
 
-### [Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+### [7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
 
-[December 4, 2024 7:16 PM](https://cwbchicago.com/2024/12)
+[December 5, 2024 6:35 AM](https://cwbchicago.com/2024/12)
 
-Two migrants are facing felony charges after a South Shore woman allegedly found them in her apartment when she returned home from a Thanksgiving getaway. And, prosecutors say, one of them had a gun.[](https://cwbchicago.com/2024/12/chicago-woman-returning-from-thanksgiving-trip-found-2-migrants-in-her-home-with-a-gun-officials-say.html "Chicago woman returning from Thanksgiving trip found 2 migrants in her home with a gun, officials say")
+The driver of a stolen car ran a red light and crashed on the Magnificent Mile on Wednesday night, sending seven people, including three young children, to hospitals, according to Chicago police.[](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Julius-Reed-and-Dexter-Reed-326x245.jpg)](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/JH523475-suspect-detaiend-326x245.jpg)](https://cwbchicago.com/2024/12/suspect-detained-in-fatal-lincoln-park-shooting.html "Suspect detained in fatal Lincoln Park shooting")
 
-West Town
+Lincoln Park
 
-### [Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+### [Suspect detained in fatal Lincoln Park shooting](https://cwbchicago.com/2024/12/suspect-detained-in-fatal-lincoln-park-shooting.html "Suspect detained in fatal Lincoln Park shooting")
 
-[December 4, 2024 2:21 PM](https://cwbchicago.com/2024/12)
+[December 5, 2024 5:47 AM](https://cwbchicago.com/2024/12)
 
-Last week, the city reached a settlement agreement with the estate of Dexter Reed, who was fatally shot by Chicago cops after he opened fire on them during a traffic stop. During a traffic stop three days later, officers allegedly found two guns in a car driven by Reed’s brother.[](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+Police have detained a “person of interest” in connection with last week’s fatal shooting on a sidewalk near Clark and Fullerton in Lincoln Park. Chicago police released surveillance images of a suspect on Tuesday evening, and that quickly generated leads for detectives. One tipster told CWBChicago that the man seen in the police[](https://cwbchicago.com/2024/12/suspect-detained-in-fatal-lincoln-park-shooting.html "Suspect detained in fatal Lincoln Park shooting")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/03/Facebook-Marketplace-326x245.jpg)](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Traivon-Dorsey-326x245.jpg)](https://cwbchicago.com/2024/12/serial-burglar-is-charged-with-breaking-into-bars-and-restaurants-across-chicago-again.html "Serial burglar is charged with breaking into bars and restaurants across Chicago (again)")
 
-Oakland
+Lincoln Square
 
-### [16-year-old was part of robbery crew lurking in online marketplaces, police say](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+### [Serial burglar is charged with breaking into bars and restaurants across Chicago (again)](https://cwbchicago.com/2024/12/serial-burglar-is-charged-with-breaking-into-bars-and-restaurants-across-chicago-again.html "Serial burglar is charged with breaking into bars and restaurants across Chicago (again)")
 
-[December 4, 2024 10:03 AM](https://cwbchicago.com/2024/12)
+[December 4, 2024 7:18 PM](https://cwbchicago.com/2024/12)
 
-A 16-year-old boy is one of the armed robbers who’ve lured people into a trap through social media marketplace ads, according to Chicago police.[](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+So far this year, more restaurants have been burglarized in Chicago than in any year since at least 2001. But there is some good news to report. Detectives have arrested and charged a man with committing six restaurant and bar burglaries since July, but he’s suspected of committing many more.[](https://cwbchicago.com/2024/12/serial-burglar-is-charged-with-breaking-into-bars-and-restaurants-across-chicago-again.html "Serial burglar is charged with breaking into bars and restaurants across Chicago (again)")
 
 Search
 
@@ -313,6 +313,7 @@ Thank you.
 * [Avalon Park](https://cwbchicago.com/category/avalon-park)
 * [Avondale](https://cwbchicago.com/category/avondale)
 * [Back of the Yards](https://cwbchicago.com/category/back-of-the-yards)
+* [Belmont Cragin](https://cwbchicago.com/category/belmont-cragin)
 * [Boystown](https://cwbchicago.com/category/lakeview/boystown)
 * [Bridgeport](https://cwbchicago.com/category/armour-square/bridgeport)
 * [Brighton Park](https://cwbchicago.com/category/brighton-park)
