@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e/20240603T222213/cdaa4d60-bcc2-4b2b-ae21-9a7a9779085e_360x203.jpg)](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
+        
+        #### [After many years, Texas A&M is moving sports ticket pulls online](https://www.kagstv.com/article/sports/tamu-moving-ticket-pulls-for-football-games-online/500-141583f8-1c33-4408-b66f-2265aa16c83a)
+        
     *  [![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_16x9.jpg) ![](https://media.kagstv.com/assets/WLTX/images/294696944/294696944_360x203.jpg)](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
         
         #### [Quick response prevents disaster at Brenham High School, classes remain unaffected](https://www.kagstv.com/article/news/local/dryer-fire-brenham-high-school-extinguished-quickly/500-c69d6393-c640-461c-afa7-29770c1dfdaa)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/66c1844b-29a1-41e2-bd53-5fc440d5ceea/66c1844b-29a1-41e2-bd53-5fc440d5ceea_360x203.jpg)](https://www.kagstv.com/article/news/crime/college-station-dominik-apartments-high-risk-narcotics-search-warrant-arrest/500-d886dea2-e074-4059-9ee8-aec1f520e80b)
-        
-        #### [One in custody after high-risk narcotics warrant executed in College Station, police say](https://www.kagstv.com/article/news/crime/college-station-dominik-apartments-high-risk-narcotics-search-warrant-arrest/500-d886dea2-e074-4059-9ee8-aec1f520e80b)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KCEN/images/bc555896-17b8-426c-90e0-371bdc37913c/20241206T103742/bc555896-17b8-426c-90e0-371bdc37913c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bc555896-17b8-426c-90e0-371bdc37913c/20241206T103742/bc555896-17b8-426c-90e0-371bdc37913c_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Cool Weather and Rain Chances Last into the Weekend | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [WEATHER IMPACT ALERT | Rainy & Cold Tomorrow; Outdoor Plans Could be Impacted | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-57°
+48°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
