@@ -31,6 +31,59 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?
+=============================================================================
+
+Los caudales de los ríos Tomebamba y Machángara fueron los que más crecieron. El ingreso de agua a la cuenca del río Paute subió más del doble.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![La central hidroeléctrica de Mazar, ubicada entre Azuay y Cañar. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/04/Mazar-Energia-.jpg)
+
+El caudal de la cuenca del **río Paute** mejoró en los últimos cuatro días, luego de que se reactivaron las **lluvias en Cuenca**.
+
+El promedio diario del 4 de diciembre fue de 23,6 metros cúbicos por segundo. Este sábado 7 es de 55, según los datos publicados por **Celec Sur**.
+
+Esta **cuenca hidrográfica** alimenta a los embalses de las centrales **Mazar y Paute** y sirve para la generación de **Sopladora**, ubicadas en los límites de **Azuay, Cañar y Morona Santiago**.
+
+Esta última hidroeléctrica no tiene embalse y funciona con las aguas usadas en la casa de máquinas de **Paute**.
+
+### Más noticias
+
+* [Así está el embalse de Mazar tras las lluvias en Cuenca](https://www.elcomercio.com/actualidad/negocios/asi-esta-embalse-mazar-tras-lluvias-cuenca.html "Así está el embalse de Mazar tras las lluvias en Cuenca")
+* [El caudal de los ríos de Cuenca mejoró y ¿qué pasó con Mazar?](https://www.elcomercio.com/actualidad/negocios/caudal-rios-cuenca-mejoro-mazar.html "El caudal de los ríos de Cuenca mejoró y ¿qué pasó con Mazar?")
+* [Cortes de luz en Quito del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-9-15-diciembre.html "Cortes de luz en Quito del 9 al 15 de diciembre")
+
+La generación eléctrica en Ecuador
+----------------------------------
+
+El **Operador Nacional de Electricidad (Cenace)** programó que **Paute, Sopladora y Mazar** aporten con 11%, 7% y 1%, respectivamente, para la generación hidrológica para este sábado 7 de diciembre de 2024.
+
+**Coca Codo Sinclair** generará el 29% y **Agoyán** el 5%.
+
+Hasta las 07:00 de este sábado, el 47% de la demanda fue cubierta con generación hidráulica, el 38% con térmica, eólica y gas natural y el 15% con la energía que llegó desde **Colombia.**
+
+Las lluvias en Cuenca
+---------------------
+
+**Cuenca** registra lluvias importantes desde hace cuatro días. Incluso, en la madrugada de este sábado hubo precipitaciones en algunos sectores de la ciudad.
+
+Los caudales de los ríos **Tomebamba y Machángara** fueron los que más crecieron en estos días. Están en niveles considerados como normales.
+
+El **Yanuncay y el Tarqui** aún están con caudales bajos, según las estadísticas de la **Red Hidrometereológica de la empresa Etapa.**
+
+Los embalses de Mazar y Paute
+-----------------------------
+
+El **embalse de Mazar** bordea los 2 113 metros sobre el nivel de mar. Es decir, está a 40 metros de su nivel máximo. Pero tiene un crecimiento en los últimos tres días, pese a que la hidroeléctrica ha operado durante horas.
+
+Además, Mazar ha alimentado de forma importante al **embalse de Amaluza (Paute)**, ubicado aguas abajo. Este último está en los 1 982 metros sobre el nivel del mar, a nueve del máximo.
+
+**Mazar y Paute** son complementarios. La principal función del primero es ser el reservorio de agua para el **complejo hidroeléctrico Mazar-Paute-Sopladora.**
+
+La **función de Central Paute**, en cambio, es la generación porque cuenta con 10 turbinas y una capacidad instalada de 1 100 megavatios. Es la segunda más grande de Ecuador, luego de **Coca Codo Sinclair.**
+
+Mazar solo tiene dos máquinas y una capacidad de 170. Sopladora tiene 487. 
+
 Vivir al día
 ============
 
@@ -924,59 +977,3 @@ Este viernes se suspendieron los cortes de energía eléctrica en la mayoría de
 Sin embargo, en los últimos días se han registrado más de una veintena de siniestros. Una de las causas es las precipitaciones.
 
 Las lluvias también se extendieron al valle de Cumbayá, en donde también se ha producido congestión vehicular.
-
-Quiteños están orgullosos de la ciudad, pero con miedo
-======================================================
-
-Los quiteños muestran un sentido de pertenencia con su ciudad; sin embargo, la inseguridad es una preocupación que afecta su calidad de vida.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los quiteños sienten un profundo sentido de pertenencia con la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T182946.484.jpg)
-
-Cuando se cumplen **490 años** de la f**undación española de Quito,** la **percepción** que tienen los **quiteños** de su ciudad tienen componentes **paradójicos**. Por una parte, están **orgullosos** de la ciudad, pero también tienen **miedo** por los niveles de inseguridad.
-
-### Más noticias
-
-* [¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/como-sera-atencion-registro-civil-fiestas-quito.html "¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?")
-* [Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?](https://www.elcomercio.com/actualidad/negocios/feriado-de-fiestas-de-quito-en-que-horario-atenderan-los-bancos.html "Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?")
-* [¿Cómo se juega 40? El popular juego de Fiestas de Quito](https://www.elcomercio.com/deportes/futbol/cuarenta-juego-cartas-fiestas-quito.html "¿Cómo se juega 40? El popular juego de Fiestas de Quito")
-
-Quiteños, con sentido de orgullo
---------------------------------
-
-Esta es la **quinta edición** de los estudios de **Quito Cómo Vamos**. Fue un trabajo realizado sobre 1 000 personas, a hombres y mujeres desde los 18 años en adelante. Trabajaron sobre **cuatro grupos socioeconómicos** de la ciudad y en todas las administraciones zonales.
-
-Las encuestas se realizaron entre el 26 de julio y el 2 de agosto de 2024. Tiene una fiabilidad del 95%. Las fundaciones **Tandem**, **Ciudadanía y Desarrollo**, con la Asociación de docentes de la **Universidad San Francisco de Quito**, **Universidad de las Américas**, **Ipsos**, **Consejo de Cámaras y Asociaciones de la Producción,** entre otros.
-
-En la última edición de la **Encuesta de Percepción Ciudadana** realizada por **Quito Cómo Vamos** revela una mezcla de **orgullo** y **preocupación** entre los habitantes de la capital ecuatoriana, incluso a pesar de las dificultades que enfrenta la capital.
-
-Según los indicadores, el sentimiento de **orgullo** va subiendo en la ciudad. Si en **2023,** solamente el **63**% de los encuestados sostenía que tenía ese sentimiento, para este 2024, subió hasta el 83% quienes estaban muy o algo orgullosos de Quito como ciudad.
-
-Estos guarismos coinciden con la categoría de la satisfacción sobre Quito como una ciudad para vivir para sus habitantes. El 2023, solo el 65% tenía ese sentimiento, mientras este año llegó al 80%. Para **Daniela Chacón**, de la fundación Tandem, la influencia del **Metro de Quito** explicaría este crecimiento.
-
-Vecinos están satisfechos con sus barrios y sus viviendas
----------------------------------------------------------
-
-Otros de los resultados alentadores los tuvieron los barrios y las viviendas de las personas consultadas. El **76% de los quiteños** está satisfecho con su barrio. Aunque la valoración positiva cae en cuanto a las áreas verdes cercanas: 58%.
-
-En el ámbito de la vivienda, un significativo **91%** de los ciudadanos se declara satisfecho con su hogar, lo que refleja una fuerte conexión con su entorno inmediato[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-El miedo es el punto negativo en la percepción ciudadana
---------------------------------------------------------
-
-En este aspecto también hubo crecimiento en las cifras. El 76% de los quiteños siente que el problema que más afecta su calidad de vida y la de su familia es la inseguridad. El año pasado fue el 75%.
-
-Muy lejos por debajo están las cuestiones económicas. Entre estas, la más importante es **la falta de oferta laboral,** que inquieta al 25%. El **tránsito**, la **movilidad** y **el arreglo de las calles** son preocupaciones menores en comparación, como se puede ver en el siguiente cuadro.
-
-En cambio, en el **espacio público**, sean parques, plazas o calles, apenas el **41% se siente seguro**, aunque mejora en sus barrios, con el **51%**.
-
-Otro indicador paradójico: la percepción del futuro
----------------------------------------------------
-
-Pese al orgullo por su ciudad, no son tantos los que ven un futuro promisorio. Tan solo el 48% cree que será mejor. Y los más escépticos creen son aquellos que tienen más de 46 años.
-
-Sin embargo, **Mauricio Alarcón,** coordinador del proyecto **Quito Cómo Vamos** como parte de la **Fundación Ciudadanía y Desarrollo**, piensa que tras cinco años de elaboración de las estadísticas, se pueden hacer comparaciones, llegar a conclusiones y pensar en propuestas. Sin embargo, si bien la inseguridad es la mayor demanda de atención que requieren los ciudadanos, “**no consideraría como una paradoja** el que haya un crecimiento del sentimiento de orgullo a pesar de todas las inquietudes, de la inseguridad y de lo económico. El quiteño siente cariño por su ciudad, más pertenencia. En ese sentido, no creo que son cifras que se deben poner en comparación”.
-
-Y es que “la gente parece que no asocia los problemas con su sentimiento por la ciudad”, dice, por su parte, Chacón.
-
-El informe de **Quito Cómo Vamos** pone en evidencia una ciudad donde el orgullo y el aprecio por lo local coexisten con importantes retos estructurales. De ese modo, es, a la vez, una invitación a las autoridades y a la ciudadanía quiteña a trabajar conjuntamente para mejorar la calidad de vida en la capital.
