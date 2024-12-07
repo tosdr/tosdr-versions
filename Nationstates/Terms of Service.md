@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [YL Reacts to above video. (65)](https://forum.nationstates.net/viewtopic.php?t=556619&f=25&view=unread#unread ""YL Reacts to above video." (65 posts)")
-* [UnitedHealthcare CEO Assassinated (409)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (409 posts)")
-* [911, what is your \[not\] emergency? (1,239)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,239 posts)")
-* [Wikipedia Game Vol. IV (1,210)](https://forum.nationstates.net/viewtopic.php?t=551271&f=25&view=unread#unread ""Wikipedia Game Vol. IV" (1,210 posts)")
+* [Give AN A Nickname! (1,477)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (1,477 posts)")
+* [F7 makes a sentence (438)](https://forum.nationstates.net/viewtopic.php?t=557888&f=25&view=unread#unread ""F7 makes a sentence" (438 posts)")
+* [Heirs Of Icarus | IC | Closed (30)](https://forum.nationstates.net/viewtopic.php?t=558375&f=31&view=unread#unread ""Heirs Of Icarus | IC | Closed" (30 posts)")
+* [The International Council of Nations:… (69)](https://forum.nationstates.net/viewtopic.php?t=559282&f=4&view=unread#unread ""The International Council of Nations: IC Thread" (69 posts)")
+* [NS Cliches II: Re-Rebooted (10,284)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (10,284 posts)")
 
 Advertisement
 
