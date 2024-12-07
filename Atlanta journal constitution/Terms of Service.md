@@ -1,7 +1,5 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Man who says he had 3 beers before hitting Cobb teen guilty of lesser charges](https://www.ajc.com/news/crime/man-who-says-he-had-3-beers-before-hitting-cobb-teen-guilty-of-lesser-charges/BSEV2FXNHVBX5GJF5R7THJQ3J4/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1871)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1871)](https://www.ajc.com/)
 
 Log In
