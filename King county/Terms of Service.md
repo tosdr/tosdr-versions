@@ -8,7 +8,7 @@ Dec
 
 * * *
 
-06](https://www.kingcounty.gov/en/calendar)
+07](https://www.kingcounty.gov/en/calendar)
 
 language English
 
