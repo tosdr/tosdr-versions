@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Abzo­cker von One Wall Street](https://www.test.de/Festgeld-Abzocker-von-One-Wall-Street-6077062-0/ "Festgeld - Abzocker von One Wall Street")
-* [Muttermale selbst entfernen: Ärzte warnen vor Selbst­behand­lung](https://www.test.de/Muttermale-selbst-entfernen-Aerzte-warnen-vor-Selbstbehandlung-6066465-0/ "Muttermale selbst entfernen - Ärzte warnen vor Selbstbehandlung")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Berg­wandern mit Hund: Auf vier Pfoten in die Berge](https://www.test.de/Bergwandern-mit-Hund-Auf-vier-Pfoten-in-die-Berge-6046949-0/ "Bergwandern mit Hund - Auf vier Pfoten in die Berge")
-* [Schön­heits­kosmetik für Kinder: Wenn Kinder Anti-Aging-Creme wollen](https://www.test.de/Schoenheitskosmetik-fuer-Kinder-Wenn-Kinder-Anti-Aging-Creme-wollen-6160123-0/ "Schönheitskosmetik für Kinder - Wenn Kinder Anti-Aging-Creme wollen")
-* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
+* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
+* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
+* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
 
 Stiftung Warentest
 
