@@ -702,7 +702,7 @@ If you are a Workday employee or job applicant or you visit a Workday facility, 
 Products Products
 -----------------
 
-* For Finance
+* [For Finance](https://www.workday.com/en-us/finance-solutions.html "For Finance ")
 * [For HR](https://www.workday.com/en-us/solutions/role/enterprise-hr/overview.html "For HR ")
 * [For Planning](https://www.workday.com/en-us/products/adaptive-planning/overview.html "For Planning ")
 * [Platform](https://www.workday.com/en-us/solutions/role/enterprise-technology/overview.html "Platform ")
