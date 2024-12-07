@@ -165,7 +165,7 @@ In an emergency situation involving danger of death or serious physical injury, 
 | **Indemnification**<br><br>I acknowledge this request is made solely as a result of immediate danger of death or serious physical injury, and that the information shall not be obtained, shared, or disseminated for any unlawful or harmful purpose. I affirm that I have the legal authority to execute this form and agree to defend, indemnify, and hold Gen Mobile, its parent company, affiliates, subsidiaries, employees, and agents harmless for any and all claims, demands, losses or injury, including reasonable attorneys’ fees brought against Gen Mobile by a third party, including the customer, as a result of Gen Mobile’s compliance with this request. |     |
 | I declare under penalty of perjury that the foregoing is true and correct.<br><br>\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br><br>Requestor’s Signature<br><br>                    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_      Date<br><br>Please send this completed and signed form, **on department letterhead**, to genmobilelegal@dish.com (with **“Emergency Disclosure Form”** in the subject line). |     |
 
-![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
+![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile_Horiz_Logo_Red_1.png?v=1728949498)
 
   Find out about our latest deals!  Right
 
