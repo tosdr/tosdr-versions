@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Frederick the Great and the Enigma of Prussia](/wp-content/thumbnails/12920-100x70.jpg?x53432)
+* [![100 Greatest Discoveries: Medicine](/wp-content/thumbnails/6027-100x70.jpg?x53432)
     
-    Frederick the Great and the Enigma of Prussia
+    100 Greatest Discoveries: Medicine
     
-    In the spring of 1945, Adolf Hitler retreated to the Fuhrerbunker located 16 meters below the streets of Berlin, the Russian army was closing in on the German capital and World War II was all but](https://documentaryheaven.com/frederick-great-enigma-prussia/ "Frederick the Great and the Enigma of Prussia")
-* [![The Polar Bear Family & Me](/wp-content/thumbnails/6958-100x70.jpg?x53432)
+    Bill Nye takes us through some of the most important discoveries in medicine throughout our history, Like Andreas Vesalias digging up bodies by cover of night to dissect and learn about our anatomy, o](https://documentaryheaven.com/100-greatest-discoveries-medicine/ "100 Greatest Discoveries: Medicine")
+* [![An Inconvenient Truth](/wp-content/thumbnails/764-100x70.png?x53432)
     
-    The Polar Bear Family & Me
+    An Inconvenient Truth
     
-    In "POLAR BEAR FAMILY AND ME", legendary wildlife filmmaker Gordon Buchanan travels deep into the Arctic for his greatest challenge yet - infiltrating a family of polar bears and documenting the cubs'](https://documentaryheaven.com/the-polar-bear-family-me/ "The Polar Bear Family & Me")
-* [![Valveman](/wp-content/thumbnails/2630-100x70.jpg?x53432)
+    “Director Davis Guggenheim eloquently weaves the science of global warming with Mr. Gore’s personal history and lifelong commitment to reversing the effects of global climate change. A longtime advoca](https://documentaryheaven.com/an-inconvenient-truth/ "An Inconvenient Truth")
+* [![Rising Gulf](/wp-content/thumbnails/5862-100x70.jpg?x53432)
     
-    Valveman
+    Rising Gulf
     
-    Valveman is the story of one mans lifetime obsession vintage radio,told with warmth,humour and innovation. Gerald Wells is Valveman.his lifes work has been to amass one of the worlds largest collecti](https://documentaryheaven.com/valveman/ "Valveman")
-* [![The Untold Story of Otto Warmbier](/wp-content/thumbnails/16635-100x70.jpg?x53432)
+    This Dutch documentary examines the silent revolution that is taking place in the United Arab Emirates (and the Gulf region in general) where Bedouin tents have been replaced by luxury and indulgence.](https://documentaryheaven.com/rising-gulf/ "Rising Gulf")
+* [![There’s Something Wrong With Aunt Diane](/wp-content/thumbnails/10022-100x70.jpg?x53432)
     
-    The Untold Story of Otto Warmbier
+    There’s Something Wrong With Aunt Diane
     
-    Otto Warmbier was an American college student who went on a trip to Pyongyang, the capital city of North Korea back in 2016. On this trip he found himself caught up in some real trouble as he was put](https://documentaryheaven.com/untold-story-of-otto-warmbier/ "The Untold Story of Otto Warmbier")
-* [![El Chapo: CEO of Crime](/wp-content/thumbnails/10018-100x70.jpg?x53432)
+    In July of 2009 there was a traffic collision which occurred on the Taconic State Parkway, in a town near Briarcliff Manor, New York. The crash happened shortly after 1:30pm on the 26th which was a Su](https://documentaryheaven.com/theres-something-wrong-with-aunt-diane/ "There’s Something Wrong With Aunt Diane")
+* [![A Brilliant Madness](/wp-content/thumbnails/6576-100x70.jpg?x53432)
     
-    El Chapo: CEO of Crime
+    A Brilliant Madness
     
-    Joaquín Guzmán, better known as El Chapo or Shorty is officially the worlds most powerful drug trafficker. From rags to riches in less than a decade, he managed to turn a startup operation into an int](https://documentaryheaven.com/el-chapo-ceo-of-crime/ "El Chapo: CEO of Crime")
+    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness.At the age of 30, John Forbes Nash, a stunningly original and famously eccentric MIT ma](https://documentaryheaven.com/a-brilliant-madness/ "A Brilliant Madness")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
