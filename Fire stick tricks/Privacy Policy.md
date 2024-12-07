@@ -204,11 +204,11 @@ Top VPNs
 
 #### Recent Posts
 
+* [How to Watch UFC 310 on Kodi (Best UFC Addons in 2024)](https://www.firesticktricks.com/watch-ufc-kodi-addons.html)
+* [How to Watch UFC 310 on FireStick for Free (Pantoja vs. Asakura)](https://www.firesticktricks.com/watch-ufc-on-firestick.html)
+* [How to Watch Emanuel Navarrete vs. Oscar Valdez on FireStick](https://www.firesticktricks.com/watch-emanuel-navarrete-vs-oscar-valdez-on-firestick.html)
 * [How to Install & Use Real Debrid on Kodi / FireStick (2024)](https://www.firesticktricks.com/real-debrid-kodi.html)
-* [How to Watch Free Live TV on FireStick (Best Live TV Apps)](https://www.firesticktricks.com/watch-live-tv-on-firestick-free-best-live-tv-apps.html)
-* [Xtreme HD IPTV Review \[20,000 Channels | $16\]](https://www.firesticktricks.com/xtremehd-iptv-review.html)
-* [How to Stop Kodi Buffering Issues (Updated: Dec 2024)](https://www.firesticktricks.com/fix-kodi-buffering.html)
-* [How to Install TVOne Kodi Addon for Live TV](https://www.firesticktricks.com/tvone-kodi-addon.html)
+* [Kodi vs. Plex – We Have a Clear Winner Here or Do We?](https://www.firesticktricks.com/kodi-vs-plex.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
