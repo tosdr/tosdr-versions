@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/musician-of-the-month-diverse-musicians/)
+ [](https://schoolsmusicmarket.com/product/using-a-graphics-score-composition-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
