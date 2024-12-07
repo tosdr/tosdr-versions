@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,13 +148,9 @@
 
 Сейчас читают
 
-* [Рулетики из бекона с сыром и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=164987)
-* [Салат "Змея" с курицей, ананасами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174805)
-* [Конвертики с курагой, изюмом и цедрой](https://www.russianfood.com/recipes/recipe.php?rid=174923)
-* [Рыба, запечённая с овощами в лодочках из пергамента](https://www.russianfood.com/recipes/recipe.php?rid=174908)
-* [Рулет из лаваша с морковью по-корейски, сыром и зеленью](https://www.russianfood.com/recipes/recipe.php?rid=174921)
 * [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904)
 * [Свинина, тушенная с черносливом и сельдереем, в томатно-винном соусе](https://www.russianfood.com/recipes/recipe.php?rid=158336)
+* [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803)
 
 |     |
 | --- |
@@ -176,6 +172,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) |     |
+
+[![Фото к рецепту: Закусочные шарики с крабовыми палочками, сыром и красной рыбой](//img1.russianfood.com/dycontent/images_upl/757/sm_756953.jpg "Фото к рецепту: Закусочные шарики с крабовыми палочками, сыром и красной рыбой")](https://www.russianfood.com/recipes/recipe.php?rid=174803)
+
+Закусочные шарики с крабовыми шариками, плавленым сыром и красной рыбой готовятся несложно, а их вкус невероятно нежный. Ингредиенты соединяются и перемешиваются, затем скатываются шарики и обваливаются в измельчённом укропе.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174803)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Ekaterina\_S](https://www.russianfood.com/blogs/?id=413691) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174803#comments) | 07.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Тесто чудесно, начинки с чудинкой. Лучшая ВЫПЕЧКА №24-49](https://www.russianfood.com/reading/?post_id=22968) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/711/sm_710152.jpg)](https://www.russianfood.com/reading/?post_id=22968)
+
+Песочные рогалики "Конфетки". Банановая шарлотка. Кексы "Тёмная ночь" с кремом. Булочки с творогом, сельдереем и огурцами. Чечевичная пицца с грибами и перцем. Мандариновый пирог. Творожная запеканка с маком.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22968)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22968#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -217,7 +241,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -231,7 +255,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -245,7 +269,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -359,34 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174939#comments) | 05.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты › [Курица - любовь моя](https://www.russianfood.com/themes/?theme_id=9)<br><br>[Блинные треугольники с куриным фаршем](https://www.russianfood.com/recipes/recipe.php?rid=174962) |     |
-
-[![Фото к рецепту: Блинные треугольники с куриным фаршем](//img1.russianfood.com/dycontent/images_upl/756/sm_755442.jpg "Фото к рецепту: Блинные треугольники с куриным фаршем")](https://www.russianfood.com/recipes/recipe.php?rid=174962)
-
-Тонкие блинчики сворачиваются в аппетитные треугольники с нежной и сочной начинкой из куриного фарша и лука. Затем обжариваются на малом огне, чтобы начинка успела полностью приготовиться. Получается аппетитно, сытно и очень вкусно.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174962)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174962#comments) | 05.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Разнообразие красок, вкусов и текстур. Лучшие СУПЫ №24-49](https://www.russianfood.com/reading/?post_id=22960) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/758/sm_757978.jpg)](https://www.russianfood.com/reading/?post_id=22960)
-
-Мясная солянка с рисом. Рамен с курицей. Суп из чечевицы с копчёными колбасками. Суп с рыбными фрикадельками и спагетти. Томатный суп с фасолью и кускусом. Куриный суп с рисовой лапшой и вешенками. Пряный суп с пельменями, помидорами и сладким перцем.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22960)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22960#comments) | 05.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -458,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752913.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755700.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
-| [Праздничный салат "Змейка" с огурцами, курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Жареные пирожки с мясом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) |
-| [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) |
+| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752913.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755700.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+| [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Праздничный салат "Змейка" с огурцами, курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [Жареные пирожки с мясом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+| [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
+| [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -478,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(176)
+(161)
