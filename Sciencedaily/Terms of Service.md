@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [U.S. Life Expectancy Increases to Stall](https://www.sciencedaily.com/releases/2024/12/241206002146.htm)
+* [Bird-Inspired Drone Can Jump for Take-Off](https://www.sciencedaily.com/releases/2024/12/241206111951.htm)
+* [How Ancient Indigenous Peoples Used the Land](https://www.sciencedaily.com/releases/2024/12/241206002149.htm)
+* [Mysteries of a Blue Low-Latitude Aurora](https://www.sciencedaily.com/releases/2024/12/241205143040.htm)
 * [Chimps Use Tools in Flexible, Highly Complex Way](https://www.sciencedaily.com/releases/2024/12/241205142736.htm)
 * ['Zip Code' Draws Killer T Cells to Brain Tumors](https://www.sciencedaily.com/releases/2024/12/241205184621.htm)
 * [Cause of Global Warming Surge: Change in Clouds](https://www.sciencedaily.com/releases/2024/12/241205184615.htm)
 * [Why We're Here](https://www.sciencedaily.com/releases/2024/12/241205184326.htm)
 * [Hummingbirds Evolved Surprisingly Flexible Bills](https://www.sciencedaily.com/releases/2024/12/241205184323.htm)
 * [Pregnancy, Nursing: 2X Intestinal Surface Area](https://www.sciencedaily.com/releases/2024/12/241205142959.htm)
-* [Prehistoric Archery from 7,000 Years Ago](https://www.sciencedaily.com/releases/2024/12/241205142749.htm)
-* [H5N1 'Bird Flu' Transmission in Humans](https://www.sciencedaily.com/releases/2024/12/241205142418.htm)
-* [18 of 19 NHL Players Had CTE](https://www.sciencedaily.com/releases/2024/12/241204113518.htm)
-* [Tyrannosaurs Once Roamed East Sussex, England](https://www.sciencedaily.com/releases/2024/12/241205142905.htm)
 
 Trending Topics
 ---------------
@@ -253,7 +253,7 @@ this week
 
 [Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
-[Skin Cancer](https://www.sciencedaily.com/news/health_medicine/skin_cancer/)
+[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -261,15 +261,15 @@ this week
 
 [Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
-[Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
   
 
