@@ -92,21 +92,21 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")4 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
             ### [How the weight loss drug tirzepatide is also helping heart failure patients](https://www.sciencenews.org/article/weight-loss-drug-tirzepatide-heart)
             
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")13 hours ago
+            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")7 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 5, 2024
+            
+        * [Humans](https://www.sciencenews.org/topic/humans)
+            
+            ### [Dietary evidence bolsters Clovis hunters’ reputation as mammoth killers](https://www.sciencenews.org/article/dietary-clovis-hunters-mammoth-killers)
+            
+            By [Anna Gibbs](https://www.sciencenews.org/author/anna-gibbs "Posts by Anna Gibbs")December 4, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Notre Dame is reopening. What does that mean for its acoustics?](https://www.sciencenews.org/article/notre-dame-reopening-acoustics-fire) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")7 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")55 mins ago
             
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
             
@@ -203,13 +203,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Space missions spanned the solar system in 2024](https://www.sciencenews.org/article/space-missions-in-2024-recap)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")9 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")3 hours ago
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [Astronomers detect the first astrosphere around a sunlike star](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")11 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")5 hours ago
             
         * [Space](https://www.sciencenews.org/topic/space)
             
