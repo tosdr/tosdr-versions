@@ -240,10 +240,11 @@ Follow @Firefox
 * [X (formerly Twitter) (@firefox)](https://twitter.com/firefox)
 * [Instagram (@firefox)](https://www.instagram.com/firefox/)
 * [YouTube (@firefoxchannel)](https://www.youtube.com/user/firefoxchannel)
+* [TikTok (@firefox)](https://www.tiktok.com/@firefox)
 
 [Donate](https://foundation.mozilla.org/?form=moco-donate-footer)
 
-Language [Language](https://www.mozilla.org/locales/) Čeština Deutsch English Español (de España) Français magyar Bahasa Indonesia Italiano 日本語 Nederlands Polski Português (do Brasil) Русский 中文 (简体)
+[All languages](https://www.mozilla.org/locales/) Language Čeština Deutsch English Español (de España) Français magyar Bahasa Indonesia Italiano 日本語 Nederlands Polski Português (do Brasil) Русский 中文 (简体)
 
 Visit [Mozilla Corporation’s](https://www.mozilla.org/en-US/) not-for-profit parent, the [Mozilla Foundation](https://foundation.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=footer).  
 Portions of this content are ©1998–2024 by individual mozilla.org contributors. Content available under a [Creative Commons license](https://www.mozilla.org/en-US/foundation/licensing/website-content/).
