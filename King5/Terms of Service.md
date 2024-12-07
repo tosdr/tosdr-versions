@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_16x9.jpg) ![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_360x203.jpg)](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
+        
+        #### [This is why flags will be flown at half-staff in Washington on Saturday](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
+        
     *  [![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
         
         #### [Boeing cancels employee surveillance pilot program](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
-        
-    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/speea-employees-receive-layoff-notices/281-053e6be8-dbca-4b68-8c54-31bfb0ce8c71)
-        
-        #### [Hundreds more SPEEA employees at Boeing receive layoff notices](https://www.king5.com/article/tech/science/aerospace/boeing/speea-employees-receive-layoff-notices/281-053e6be8-dbca-4b68-8c54-31bfb0ce8c71)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cd2adb31-9eb6-4d24-843d-ff20d784c817/20241207T034515/cd2adb31-9eb6-4d24-843d-ff20d784c817_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd2adb31-9eb6-4d24-843d-ff20d784c817/20241207T034515/cd2adb31-9eb6-4d24-843d-ff20d784c817_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/49df4f53-95fe-448c-92fe-be5f623e2ebc/20241207T155122/49df4f53-95fe-448c-92fe-be5f623e2ebc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49df4f53-95fe-448c-92fe-be5f623e2ebc/20241207T155122/49df4f53-95fe-448c-92fe-be5f623e2ebc_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -107,7 +107,7 @@ Seattle, WA »
 
 51°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
