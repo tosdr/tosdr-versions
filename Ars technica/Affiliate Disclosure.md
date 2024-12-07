@@ -92,9 +92,9 @@ Most Read
     
 3. 3. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
     
-4. 4. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+4. 4. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
     
-5. 5. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
+5. 5. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
     
 
 Customize
