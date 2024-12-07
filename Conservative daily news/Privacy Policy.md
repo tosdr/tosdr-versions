@@ -2,7 +2,7 @@ Friday, December 6 2024
 
 Breaking News
 
-* [President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
+* [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
 * [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
 * [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
 * [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
@@ -130,9 +130,27 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
+    
+    [Good Samaritan on Trial](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
+    
+    December 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz120624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/sold-out/)
+    
+    [Sold Out](https://www.conservativedailynews.com/2024/12/sold-out/)
+    
+    December 6, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/)
+    
+    [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/)
+    
+    December 6, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Biden-Lost-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
     
-    [President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
+    [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
     
     December 6, 2024
     
@@ -160,27 +178,12 @@ Recent Posts
     
     December 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/05/Creedit-cards-score-220x150.png)](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
-    
-    [How to Win the Balance Transfer Game](https://www.conservativedailynews.com/2024/12/how-to-win-the-balance-transfer-game/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/12/the-milei-revolution/)
-    
-    [The Milei Revolution](https://www.conservativedailynews.com/2024/12/the-milei-revolution/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5873-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
-    
-    [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
-    
-    December 5, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
+* [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
+* [TFB Podcast Roundup 158: The December 6th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-158-the-december-6th-roundup/10612345)
 * [7th Circuit Extends Stay; Gun Owners Stuck with Gun Ban Through State’s Appeal](https://www.thegunpage.com/7th-circuit-extends-stay-gun-owners-stuck-with-gun-ban-through-states-appeal/10612339)
 * [The New Q Southpaw](https://www.thegunpage.com/the-new-q-southpaw/10612341)
 * [S&W’s Strange On-Again, Off-Again Facebook Suspension](https://www.thegunpage.com/sws-strange-on-again-off-again-facebook-suspension/10612335)
@@ -188,9 +191,6 @@ Recent Posts
 * [Michigan Man Mistakes Special Needs Granddaughter For Burglar And Shoots Her](https://www.thegunpage.com/michigan-man-mistakes-special-needs-granddaughter-for-burglar-and-shoots-her/10612328)
 * [Velocity Systems Reintroduces HK417 Chest Rig](https://www.thegunpage.com/velocity-systems-reintroduces-hk417-chest-rig/10612329)
 * [Why Are Gun-Ban Groups Embracing The Radical Trans Agenda?](https://www.thegunpage.com/why-are-gun-ban-groups-embracing-the-radical-trans-agenda/10612325)
-* [Army Ups Reward For Stolen Pistols, NVG, To $15,000](https://www.thegunpage.com/army-ups-reward-for-stolen-pistols-nvg-to-15000/10612330)
-* [CRPA Legal Update: Oral Arguments Heard in Rhode v. Bonta Case](https://www.thegunpage.com/crpa-legal-update-oral-arguments-heard-in-rhode-v-bonta-case/10612324)
-* [Skilled Assassin or Lucky Killer? LE and Experienced Shooters Aren’t Sure](https://www.thegunpage.com/skilled-assassin-or-lucky-killer-le-and-experienced-shooters-arent-sure/10612321)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
