@@ -41,15 +41,7 @@ Search Close LoginClose
 
 Close Online Banking
 
-Welcome back!
-
-Log in to your account.
-
-&lt;a href=&quot;https://fsband.banking.apiture.com/start/FSBAND&quot; target=&quot;\_top&quot;&gt;&lt;b&gt;Click here to log in to Online Banking.&lt;/b&gt;&lt;/a&gt;
-
-* Banking from your phone?
-    * [Download our app for iOS](https://apps.apple.com/us/app/banknorth/id655044602)
-    * [Download our app for Android](https://play.google.com/store/apps/details?id=com.apiture.xpressmobile.fsband.sub&hl=en_US)
+**Due to our Digital Banking Upgrade, Online and Mobile Banking is temporarily unavailable until Monday, December 9th. At that time, you will be able to access the new digital banking platform and download the new BankNorth mobile app. For more information regarding the conversion process, [click here](https://www.banknorth.bank/digital-banking-platform-update).**
 
 Close Search
 
