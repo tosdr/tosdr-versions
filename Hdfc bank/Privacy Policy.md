@@ -1558,7 +1558,7 @@ We share the SDK Information with service providers, to perform any of the act
 * [Customer Care](https://www.hdfcbank.com/personal/need-help/customer-care)
 * [HDFC Bank Credit Card Customer Care](https://www.hdfcbank.com/personal/need-help/credit-card-customer-care)
 * [Grievance Redressal Officer](https://www.hdfcbank.com/personal/need-help/grievance-redressal-officer)
-* [Lodge a Complaint](https://www.hdfcbank.com/personal/need-help/contact-us)
+* [Lodge a Complaint/ Query/Request](https://www.hdfcbank.com/personal/need-help/contact-us)
 * [Use Of Unparliamentary Language By Customers](https://www.hdfcbank.com/htdocs/common/Unparliamentary_Language/index.html)
 * [Active Channel Partners](https://leads.hdfcbank.com/applications/webforms/apply/Unsecured-Loans-Channel-Partner/index.aspx)
 * [DNC Dedupe](https://dncdedupe.hdfcbank.com/dnc/login.htm)
