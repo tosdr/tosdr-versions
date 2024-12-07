@@ -111,11 +111,13 @@ Most recent
 
 [07-12-2024
 
+Like Europe, US military production needs ‘accelerating’, says top White House aide](https://www.euractiv.com/section/global-europe/news/like-europe-us-military-production-needs-accelerating-says-top-white-house-aide/)[07-12-2024
+
+Confidence in Romania’s democratic process hangs by a thread](https://www.euractiv.com/section/politics/news/confidence-in-romanias-democratic-process-hangs-by-a-thread/)[07-12-2024
+
 Syrian rebels’ advance becomes threat to Assad’s rule](https://www.euractiv.com/section/global-europe/news/syrian-rebels-advance-becomes-threat-to-assads-rule/)[07-12-2024
 
-Germany’s far-right AfD nominates chancellor candidate ahead of election](https://www.euractiv.com/section/politics/news/germanys-far-right-afd-nominates-chancellor-candidate-ahead-of-election/)[07-12-2024
-
-Romania in institutional crisis after annulled election](https://www.euractiv.com/section/politics/news/romania-in-institutional-crisis-after-annulled-election/)[06-12-2024
+Germany’s far-right AfD nominates chancellor candidate ahead of election](https://www.euractiv.com/section/politics/news/germanys-far-right-afd-nominates-chancellor-candidate-ahead-of-election/)[06-12-2024
 
 EU-Mercosur trade deal: who wins and who loses in agri-food?](https://www.euractiv.com/section/agriculture-food/news/eu-mercosur-trade-deal-who-wins-and-who-loses-in-agri-food/)[06-12-2024
 
@@ -127,9 +129,7 @@ Hungary spied on EU officials, Belgian media reports](https://www.euractiv.com/s
 
 Irish fishermen pressure EU to exclude Norway from their waters](https://www.euractiv.com/section/agriculture-food/news/irish-fishermen-pressure-eu-to-exclude-norway-from-their-waters/)[06-12-2024
 
-EU-Mercosur: The global alliance of herbivores starts today](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-the-global-alliance-of-herbivores-starts-today/)[06-12-2024
-
-Romanian presidential elections cancelled by constitutional court](https://www.euractiv.com/section/politics/news/romanian-presidential-elections-canceled-by-constitutional-court/)
+EU-Mercosur: The global alliance of herbivores starts today](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-the-global-alliance-of-herbivores-starts-today/)
 
 ###### Advertisement
 
