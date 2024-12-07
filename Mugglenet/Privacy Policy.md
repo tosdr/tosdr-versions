@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger’s last name was almost Puckle.
+Daniel Radcliffe’s ankle was shaved for the scene in Harry Potter and the Chamber of Secrets when he shows Lucius Malfoy his missing sock.
 
 ### Potter History
 
-October 25, 2006 – MuggleNet launches its very own MuggleShop.
+July 7, 2009 – Harry Potter and the Deathly Hallows is released in paperback in the United States.
 
 ### Potter Quote
 
-“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
+“Hogwash.”
 
 [](#)
 
