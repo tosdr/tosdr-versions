@@ -500,10 +500,6 @@ Revised June 1, 2022
 
   [![Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.")](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
 
-[Can Japan's scientific community rebound from a Nobel nosedive?](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
-
-  [![The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/01/436635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The National Museum of Emerging Science and Innovation in Tokyo is a popular place to foster curiosity in the natural sciences.")](https://www.japantimes.co.jp/news/2024/12/02/japan/science-health/japan-science-nobel-prize/ "Can Japan's scientific community rebound from a Nobel nosedive?")
-
 Podcast
 -------
 
@@ -523,9 +519,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,21 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ito-Yokado to reduce headcount of permanent employees by 1,000](https://www.japantimes.co.jp/business/2024/12/06/companies/ito-yokado-headcount-reduce/ "Ito-Yokado to reduce headcount of permanent employees by 1,000")
+[Incoming ADB chief Kanda keeping eye on U.S. policy as Trump looms](https://www.japantimes.co.jp/business/2024/12/07/economy/kanda-trump-policy-watch/ "Incoming ADB chief Kanda keeping eye on U.S. policy as Trump looms")
 
-9 hours ago
+29 mins ago
 
-[Taiwan's Lai says he is 'confident' of deeper cooperation with Trump](https://www.japantimes.co.jp/news/2024/12/06/asia-pacific/politics/taiwan-president-trump-confident/ "Taiwan's Lai says he is 'confident' of deeper cooperation with Trump")
+[South Korean President Yoon apologizes for martial law ahead of impeachment vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-apology/ "South Korean President Yoon apologizes for martial law ahead of impeachment vote")
 
-9 hours ago
+33 mins ago
 
-[JR East applies to raise fares by average of 7% in March 2026](https://www.japantimes.co.jp/business/2024/12/06/jr-east-applies-price-hike/ "JR East applies to raise fares by average of 7% in March 2026")
+[Trump's crypto team takes shape but questions remain over who will drive policy](https://www.japantimes.co.jp/business/2024/12/07/tech/trump-crypto-team/ "Trump's crypto team takes shape but questions remain over who will drive policy")
 
-10 hours ago
+1 hour ago
 
-[LDP to hold meeting on social media use in election campaigns](https://www.japantimes.co.jp/news/2024/12/06/japan/politics/ldp-social-media-elections-discussion/ "LDP to hold meeting on social media use in election campaigns")
+[Syrian rebels seize fourth city, close in on Homs in threat to Assad's rule](https://www.japantimes.co.jp/news/2024/12/07/world/politics/syria-extend-offensive/ "Syrian rebels seize fourth city, close in on Homs in threat to Assad's rule")
 
-[CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes](https://www.japantimes.co.jp/business/2024/12/06/economy/noda-cdp-gradual-boj-hikes/ "CDP leader calls for gradual BOJ rate hikesUPDATE 2-Japan's main opposition leader calls for gradual BOJ rate hikes")
+1 hour ago
+
+[U.S. appeals court upholds TikTok law forcing its sale](https://www.japantimes.co.jp/news/2024/12/07/world/crime-legal/us-court-tiktok-law/ "U.S. appeals court upholds TikTok law forcing its sale")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
