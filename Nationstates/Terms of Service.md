@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Aircraft of your nation's leader (MT-… (10)](https://forum.nationstates.net/viewtopic.php?t=559132&f=23&view=unread#unread ""Aircraft of your nation's leader (MT-PMT, open)" (10 posts)")
-* [UnitedHealthcare CEO Assassinated (322)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (322 posts)")
-* [Rate the AN's Chosen Factbook! (1,756)](https://forum.nationstates.net/viewtopic.php?t=532319&f=25&view=unread#unread ""Rate the AN's Chosen Factbook!" (1,756 posts)")
-* [The Solitary Throne \[IC | Closed\] (93)](https://forum.nationstates.net/viewtopic.php?t=555919&f=31&view=unread#unread ""The Solitary Throne [IC | Closed]" (93 posts)")
-* [Out of the 2 AN’s: Which one has the… (5,080)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (5,080 posts)")
+* [International Basketball Championship… (23)](https://forum.nationstates.net/viewtopic.php?t=559274&f=7&view=unread#unread ""International Basketball Championship 41 Signups (Open)" (23 posts)")
+* [What do you think of when you see the… (9,961)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,961 posts)")
+* [The New Order: Last Days of Europe (O… (206)](https://forum.nationstates.net/viewtopic.php?t=558570&f=31&view=unread#unread ""The New Order: Last Days of Europe (OOC|SIGN-UPS|OPEN)" (206 posts)")
+* [Guess Who BN Is! (8,314)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (8,314 posts)")
+* [December Giveaway (65)](https://forum.nationstates.net/viewtopic.php?t=559181&f=42&view=unread#unread ""December Giveaway" (65 posts)")
 
 Advertisement
 
