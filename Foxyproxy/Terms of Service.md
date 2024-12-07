@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Is there anyway to continue this service. For some reason the credit card I used is no longer doing foreign transactions. I will try with another card if Paypal will let me. I was very happy with your service.
+Thanks it was good, no problems.
 
-David Moran
+Rachel Cakebread
