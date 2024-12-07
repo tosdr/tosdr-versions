@@ -165,66 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/firevenusflytrap_1400x1050.jpg)](https://www.icr.org/article/fire-sensory-capabilities)
-
-[Fire Sensory Capabilities of the Venus Flytrap](https://www.icr.org/article/fire-sensory-capabilities/)
-
-Fascinating discoveries have been made regarding the amazing Venus flytrap (Dionaea muscipula).1 For example, all parts of this amazing plant...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/sharkjaws_1400x1050.jpg)](https://www.icr.org/article/shark-jaws)
-
-[Shark Jaws](https://www.icr.org/article/shark-jaws/)
-
-Sharks are back in the news, and it’s in regard to their most formidable and fearsome structure—their jaws. Zoologists recently studied...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/sunflowersees_1400x1050.jpg)](https://www.icr.org/article/sunflowers-see-sun)
-
-[How Sunflowers ''See'' the Sun](https://www.icr.org/article/sunflowers-see-sun/)
-
-Sunflowers (Helianthus annuus) are not only big and beautiful, but they also have an amazing biomechanism called heliotropism. ICR’s Dr. Jim...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
-
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
-
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
-
-The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
-
-$4.99
-
-$9.99
-
-[](https://store.icr.org/.html)
-
-$
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
