@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, December 6, 2024**
+**Saturday, December 7, 2024**
 
-**...****Isolated Showers Remain Possibel Through the Peninsula Today As A Cold Front Sinks Southward...Mostly Dry and Sunny Conditions Elsewhere...Cool and Dry Conditions Expected Across North Florida Behind the Cold Front This Afternoon...Dry Air and Breezy Winds to Give Way to Sensitive to Elevated Wildfire Conditions Across North Florida This Afternoon; Some Areas May See Near Critical Conditions; Red Flag Criteria Is Not Expected At This Time But Conditions Will Continue to Be Monitored...Freeze Watches Issued Across the Interior Northern Peninsula for Temperatures As Low As 27-Degrees Tonight...Low Temperatures In the Upper 20s to Middle 30s Elsewhere Across North Florida and Through the Nature Coast Tonight...Lingering Breey Winds To Cause Temperatures to Feel Like They Are In the Low to Middle 20s Through the Suwannee Valley, Upper 20s to Low 30s Across North Florida, and Low to Middle 30s Through the Nature Coast Early Saturday Morning...Moderate to High Risk For Rip Currents Along Florida Panhandle and East Coast As Ocean Swells and Hazardous Beach and Boating Conditions Develop...**
+**...****High Pressure Over the Southeast U.S. to Promote Dry and Cool Conditions Across the Sunshine State...Breezy Northerly to Northeasterly Winds With Gusts Near 10-20 MPH Persist Along the Peninsula...Elevated Fire Weather Concerns Along the Florida Panahndle and Across the Suwannee Valley Again This Afternoon...Radiational Cooling Giving Way to Low Temperatures In the 30s Across the Northern Peninsula and Through the Nature Coast Tonight Through Sunday Morning; Freeze Watches Issued For Interior Portions of the Suwannee Valley and Northeast Florida...Low Temperatures in the Upper 30s to Middle 40s Along the Florida Panhandle...Moderate to Locally High Risk for Rip Currents Along the Florida Panhandle and East Coast...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
