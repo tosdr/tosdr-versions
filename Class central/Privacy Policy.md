@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. sql
+1. English
     
-2. French
+2. c
     
-3. flutter
+3. graphic design
     
 
 Popular subjects
 
-1. [Web Development
+1. [Artificial Intelligence
     
-    13,896 courses](https://www.classcentral.com/subject/web-development)
-2. [Cybersecurity
+    14,412 courses](https://www.classcentral.com/subject/ai)
+2. [Communication Skills
     
-    17,005 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Project Management
+    4,304 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Python
     
-    4,280 courses](https://www.classcentral.com/subject/project-management)
+    10,044 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 
-1. [Improving Communication Skills
+1. [El rol de la digitalización en la transición energética
     
-    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
-2. [Introduction to Animal Behaviour
+    Galileo University](https://www.classcentral.com/course/energy-universidad-galileo-el-rol-de-la-digitaliz-48104)
+2. [Arab-Islamic History: From Tribes to Empires
     
-    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
-3. [Molecular Biology - Part 1: DNA Replication and Repair
+    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+3. [Introduction to Mathematical Thinking
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/molecular-biology-massachusetts-institute-of-tech-2907)
+    Stanford University](https://www.classcentral.com/course/maththink-370)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
