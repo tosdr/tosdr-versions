@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
             
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")17 hours ago
+            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")24 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Notre Dame is reopening. What does that mean for its acoustics?](https://www.sciencenews.org/article/notre-dame-reopening-acoustics-fire) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")19 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")December 6, 2024
             
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
             
@@ -203,13 +203,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Space missions spanned the solar system in 2024](https://www.sciencenews.org/article/space-missions-in-2024-recap)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")21 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
             ### [Astronomers detect the first astrosphere around a sunlike star](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")23 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
             
         * [Space](https://www.sciencenews.org/topic/space)
             
