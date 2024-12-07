@@ -348,11 +348,11 @@ Get in touch today.
 
 #### Company
 
-[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### Company
 
-[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers Soon](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
+[About us](https://www.gentlent.com/about)[Blog](https://www.gentlent.com/blog)[Careers](https://www.gentlent.com/careers)[Case Studies](https://www.gentlent.com/case-studies)[Contact us](https://www.gentlent.com/contact)[Peering](https://peering.gentlent.com/)[System Status](https://status.gentlent.com/)
 
 #### [![Gentlent](https://s1.gentcdn.com/images/branding/gentlentlogo/logo_white.svg)](https://www.gentlent.com/)
 
