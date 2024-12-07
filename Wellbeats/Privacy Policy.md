@@ -21,8 +21,6 @@
 
 * [Français](https://www.lifespeak.com/fr/politique-de-confidentialite/)
 
-🎧 New Podcast [Menopause Unfiltered! Myths, Hormones, and Empowering Women](https://www.lifespeak.com/resource/menopause-unfiltered-myths-hormones-and-empowering-women-a-conversation-with-shirley-weir/)
-
 [![LifeSpeak Logo - Employee wellbeing solutions](https://www.lifespeak.com/wp-content/themes/ls-theme/img/logo-navy.svg)](https://www.lifespeak.com/)
 
 * [Wellbeing Suite](https://www.lifespeak.com/wellbeing-suite/ "Wellbeing Suite of Solutions for Organizations")
@@ -369,7 +367,7 @@ We value your opinions and welcome your feedback.  To contact us about this Dis
 © 2024 LifeSpeak Inc. [Privacy Policy](https://www.lifespeak.com/privacy-policy/).  
 [Manage Cookie Settings](#)
 
-* [Get a free demo](https://www.lifespeak.com/book-a-demo/)
+* [Explore LifeSpeak](https://www.lifespeak.com/lp/request-a-demo/)
 
 X CLOSE
 
