@@ -219,17 +219,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
-[![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
-### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
-[2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
-
 [![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 ### [Teenage entrepreneur from Dulwich hopes business success will motivate schoolchildren uninspired by the education system](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
+
+[![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 [![Hutchinson limps off the field against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/S-Hutchinson-2828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
 
