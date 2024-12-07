@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22g%22%2C%22v%22%3A6%7D%7D&xhStatsUid=6753d24fd62d23.163841448d5&xhSessionToken=24de30806dc02801838996af7a805bd07af47b38&xhSessionStartedAt=1733546575)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22g%22%2C%22v%22%3A6%7D%7D&xhStatsUid=67547d9d72b232.708037272ee&xhSessionToken=c1891f1b9009abe768aa41768b147a6f3a52ca48&xhSessionStartedAt=1733590429)
 
 [Categories](https://xhamster.com/categories)
 
@@ -56,7 +56,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[Bored of PORN? 😈 Jerk off with REAL GIRLS in video chat TRY FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster-headline&utm_medium=all-pages)
+[CYBER WEEK SALE 💻 🌐 Limited-time offers on Faphouse ACTIVATE 50% OFF](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=cyber-week-2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
