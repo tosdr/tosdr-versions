@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/grenzeloos-vertrouwen-beleidsmakers-in-vaccinaties/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/je-zal-toch-een-wappie-zijn-falende-vaccins/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
