@@ -88,7 +88,7 @@ Nov **24**
 * [Nov 24, 2024](https://papermc.io/threads/1-21-3.1430/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 3,314
+* 3,321
 * 1
 
 ### The 1.21.3 Update​
@@ -204,7 +204,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,789
+* 11,804
 * 2
 
 ### The 1.21 Update​
@@ -320,7 +320,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,189
+* 9,194
 * 6
 
 ### The 1.20.5/6 Update​
@@ -418,7 +418,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,827
+* 18,831
 * 11
 
 Announcing the end of life of Waterfall​
@@ -456,7 +456,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,295
+* 15,298
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -554,7 +554,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 28,783
+* 28,797
 * 6
 
 Happy New Year from PaperMC!​
@@ -698,7 +698,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,332
+* 9,340
 * 1
 
 ### The 1.20.4 Update​
@@ -757,7 +757,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,392
+* 15,393
 * 1
 
 ### The 1.20.2 Update​
@@ -877,7 +877,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,481
+* 14,486
 * 9
 
 ### The 1.20(.1) Update​
@@ -998,7 +998,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,666
+* 8,667
 * 3
 
 ### The 1.19.4 Update​
@@ -1070,7 +1070,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,018
+* 14,021
 * 1
 
 ### The 1.19.3 Update​
@@ -1118,7 +1118,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,734
+* 35,738
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1167,7 +1167,7 @@ Jul **30**
 * [Jul 30, 2022](https://papermc.io/threads/paper-1-19-1.394/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,264
+* 15,266
 * 1
 
 ### The 1.19.1 Update​
@@ -1210,7 +1210,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,953
+* 37,960
 * 18
 
 ### The 1.19 Update​
@@ -1282,7 +1282,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,131
+* 24,132
 * 12
 
 ### The 1.18.2 Update​
@@ -1333,7 +1333,7 @@ Jan **04**
 * [Jan 4, 2022](https://papermc.io/threads/paper-1-18-and-more.6/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 24,564
+* 24,568
 * 17
 
 ### The 1.18 update​
@@ -1411,7 +1411,7 @@ Dec **14**
 * [Dec 14, 2021](https://papermc.io/threads/welcome-to-papermc.1/)
 * [kashike](https://papermc.io/home/authors/kashike.1/)
 
-* 8,971
+* 8,973
 * 2
 
 [![kashike](https://secure.gravatar.com/avatar/c50766d24721f3cdd0ff9e8ead43134b?s=48)](https://papermc.io/members/kashike.1/)
@@ -1432,9 +1432,9 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-* [CarmonRoll](https://papermc.io/members/carmonroll.12402/)
+No members online now.
 
-Total: 40 (members: 2, guests: 38)
+Total: 42 (members: 1, guests: 41)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1442,7 +1442,31 @@ Total: 40 (members: 2, guests: 38)
 
 * Question
 
-Question [Problem starting PaperMC RaspberryPi.](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/)
+Question [File Generation](https://papermc.io/threads/file-generation.1461/)
+
+* [Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
+* [Today at 4:23 PM](https://papermc.io/threads/file-generation.1461/)
+* [Help](https://papermc.io/forums/paper-help/)
+
+Replies
+
+0
+
+Views
+
+13
+
+[Help](https://papermc.io/forums/paper-help/) [Today at 4:23 PM](https://papermc.io/threads/file-generation.1461/latest)
+
+[Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
+
+[F](https://papermc.io/members/fabs_gb.12831/)
+
+[F](https://papermc.io/members/fabs_gb.12831/)
+
+* Solved
+
+Solved [Problem starting PaperMC RaspberryPi.](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/)
 
 * [Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
 * [Today at 10:04 AM](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/)
@@ -1450,17 +1474,17 @@ Question [Problem starting PaperMC RaspberryPi.](https://papermc.io/threads/prob
 
 Replies
 
-1
+4
 
 Views
 
-21
+40
 
-[Help](https://papermc.io/forums/paper-help/) [27 minutes ago](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/latest)
+[Help](https://papermc.io/forums/paper-help/) [Today at 4:13 PM](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/latest)
 
-[stefvanschie](https://papermc.io/members/stefvanschie.38/)
+[Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
 
-[S](https://papermc.io/members/stefvanschie.38/)
+[F](https://papermc.io/members/fabs_gb.12831/)
 
 [F](https://papermc.io/members/fdxminh.12836/)
 
@@ -1478,9 +1502,9 @@ Replies
 
 Views
 
-23
+24
 
-[Help](https://papermc.io/forums/paper-help/) [28 minutes ago](https://papermc.io/threads/crafting-guide-issue.1458/latest)
+[Help](https://papermc.io/forums/paper-help/) [Today at 2:48 PM](https://papermc.io/threads/crafting-guide-issue.1458/latest)
 
 [stefvanschie](https://papermc.io/members/stefvanschie.38/)
 
@@ -1502,7 +1526,7 @@ Replies
 
 Views
 
-2
+23
 
 [Help](https://papermc.io/forums/paper-help/) [Today at 2:15 PM](https://papermc.io/threads/turtle-die-under-water.1460/latest)
 
@@ -1514,7 +1538,7 @@ Views
 
 * Solved
 
-Question [PaperMC does not start linux](https://papermc.io/threads/papermc-does-not-start-linux.1457/)
+Solved [PaperMC does not start linux](https://papermc.io/threads/papermc-does-not-start-linux.1457/)
 
 * [Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
 * [Yesterday at 7:46 PM](https://papermc.io/threads/papermc-does-not-start-linux.1457/)
@@ -1526,7 +1550,7 @@ Replies
 
 Views
 
-25
+28
 
 [Help](https://papermc.io/forums/paper-help/) [Today at 7:14 AM](https://papermc.io/threads/papermc-does-not-start-linux.1457/latest)
 
@@ -1550,7 +1574,7 @@ Replies
 
 Views
 
-27
+33
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 8:56 PM](https://papermc.io/threads/my-server-doesnt-open.1456/latest)
 
@@ -1574,7 +1598,7 @@ Replies
 
 Views
 
-43
+44
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 1:30 AM](https://papermc.io/threads/paper-mc-not-working.1453/latest)
 
@@ -1651,30 +1675,6 @@ Views
 [electronicboy](https://papermc.io/members/electronicboy.2/)
 
 [![electronicboy](/data/avatars/s/0/2.jpg?1639525591)](https://papermc.io/members/electronicboy.2/)
-
-[P](https://papermc.io/members/palashverma.432/)
-
-* Question
-
-Question [Chunk loading not working (1.18.1)- Wither Mob Switch](https://papermc.io/threads/chunk-loading-not-working-1-18-1-wither-mob-switch.139/)
-
-* [palashverma](https://papermc.io/members/palashverma.432/)
-* [Feb 12, 2022](https://papermc.io/threads/chunk-loading-not-working-1-18-1-wither-mob-switch.139/)
-* [Help](https://papermc.io/forums/paper-help/)
-
-Replies
-
-3
-
-Views
-
-3K
-
-[Help](https://papermc.io/forums/paper-help/) [Nov 25, 2024](https://papermc.io/threads/chunk-loading-not-working-1-18-1-wither-mob-switch.139/latest)
-
-[ElShala](https://papermc.io/members/elshala.12680/)
-
-[E](https://papermc.io/members/elshala.12680/)
 
 [View more…](https://papermc.io/whats-new/posts/?skip=1)
 
