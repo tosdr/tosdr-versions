@@ -401,11 +401,23 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Dallas weather: Rainy weekend ahead](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/snapshot-2024-12-07t074559.055.jpg?ve=1&tl=1)
+
+ ![Dallas weather: Rainy weekend ahead](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/snapshot-2024-12-07t074559.055.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-weekend-rain-timeline)
+
+### [Dallas weather: Rainy weekend ahead](https://www.fox4news.com/weather/dallas-weather-weekend-rain-timeline)
+
  [![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1)
 
  ![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
 
 ### [Lewisville police officer accused of sexually assaulting citizen while on duty](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
+
+ [![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2187934094-scaled.jpg?ve=1&tl=1)
+
+ ![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2187934094-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-reopens-live)
+
+### [Notre Dame reopens 5 years after devastating fire](https://www.fox4news.com/news/notre-dame-reopens-live)
 
  [![Police: CEO killer likely left NYC on bus headed for Atlanta](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/gunamn-2box.jpg?ve=1&tl=1)
 
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/gunman-backpack.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
 
 ### [CEO killing live updates: Backpack that may be linked to gunman found](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
-
- [![City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-alex-dallas-4th-naturalization-ceremony-530p_00.01.48.32.jpg?ve=1&tl=1)
-
- ![City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-alex-dallas-4th-naturalization-ceremony-530p_00.01.48.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-welcomes-30-new-u-s-citizens-naturalization-oath-ceremony)
-
-### [City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://www.fox4news.com/news/city-dallas-welcomes-30-new-u-s-citizens-naturalization-oath-ceremony)
-
- [![High-fructose corn syrup could speed up tumor growth, study suggests](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/junk-food1.jpg?ve=1&tl=1)
-
- ![High-fructose corn syrup could speed up tumor growth, study suggests](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/junk-food1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
-
-### [Eating large amounts of foods that contain high-fructose corn syrup could speed up tumor growth, study suggests](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
 
 ###### [News](https://www.fox4news.com/news)
 
