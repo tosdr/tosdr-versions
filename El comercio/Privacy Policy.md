@@ -31,6 +31,563 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Jacqueline Factos gana medalla de oro para Ecuador en Juegos Bolivarianos 2024
+==============================================================================
+
+Jacqueline Factos sumó una medalla de oro para Ecuador. Cuatro disciplinas han logrado para el país preseas doradas en los Bolivarianos 2024
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Jacqueline Factos ganó la medalla de oro en karate de los Juegos Bolivarianos 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/factos.jpg)
+
+La karateca ecuatoriana **Jacqueline Factos** ganó este 6 de diciembre la medalla de oro en la categoría kumite -61 kg de los **Juegos Bolivarianos del Bicentenario Ayacucho 2024.**
+
+Factos venció a la chilena Valentina Vega con un contundente 8-0 en la final, logrando así la octava medalla de oro para el Team Ecuador en este certamen.
+
+### Más noticias:
+
+* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
+* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
+* [Pep Guardiola pierde los estribos en video que se vuelve viral](https://www.elcomercio.com/deportes/futbol/pep-guardiola-video-momentos-dificiles-manchester-city.html "Pep Guardiola pierde los estribos en video que se vuelve viral")
+
+Jacqueline Factos
+-----------------
+
+En su camino hacia la medalla dorada, **Jacqueline Factos** demostró su destreza al derrotar a sus rivales en los primeros combates.
+
+En la ronda inicial, se impuso 6-1 a la panameña Anaurys Díaz y, en la siguiente fase, superó 8-4 a la boliviana Briza Sandoval, avanzando con firmeza hasta la final.
+
+Mientras tanto, en la misma jornada, la karateca **Lili Alvarado** logró conquistar la medalla de bronce en la categoría kumite -55 kg, tras una impresionante remontada contra la dominicana Penélope Polanco. Alvarado ganó 10-5 en un combate que la catapultó al podio.  
+  
+El karateca Fred Proaño también se quedó con la medalla de bronce en su categoría.
+
+Ecuador también sumó más preseas en otras disciplinas. En la subsede Lima, Nicolás García y Fernanda Moncada obtuvieron sendas medallas de bronce en los 1000 metros sprint del **patinaje de velocidad**, destacándose por su rendimiento en una de las pruebas más exigentes.
+
+Además, en **efootball**, el ecuatoriano Jairo Caicedo se quedó con el cuarto lugar tras vencer a Javier Arévalo de Guatemala 2-0 (4-1, 4-0), avanzando hasta la semifinal, donde enfrentó al ganador entre Colombia y Chile.
+
+Ecuador en el medallero
+-----------------------
+
+En el medallero, Ecuador se ubica en el quinto lugar con un total de 8 medallas de oro, 10 de plata y 24 de bronce. Colombia lidera las justas con 36 oros, seguida por Perú, Chile y Venezuela.  
+  
+Ecuador ha logrado oro en karate, ciclismo downhill, levantamiento de pesas y levantamiento de potencia.
+
+> PREMIACIÓN  
+>   
+> Karate Kumite -61 kg  
+>   
+> 🥇Jacqueline Factos 🇪🇨  
+> 🥈Valentina Vega 🇨🇱  
+> 🥉Carla Cruces 🇻🇪  
+> 🥉Ámbar García 🇩🇴[#Ayacucho2024](https://twitter.com/hashtag/Ayacucho2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/03QOmzctJb](https://t.co/03QOmzctJb)
+> 
+> — Comite\_Olimpico\_Ecu (@ECUADORolimpico) [December 6, 2024](https://twitter.com/ECUADORolimpico/status/1865176447800741913?ref_src=twsrc%5Etfw)
+
+Shakira anunció el ganador del Lamborghini
+==========================================
+
+El anuncio de Shakira sobre el ganador del Lamborghini fue este viernes.
+------------------------------------------------------------------------
+
+![Shakira anunció el ganador del Lamborghini.](https://www.elcomercio.com/wp-content/uploads/2024/12/shakira-lamborghini.jpg)
+
+La cantante **Shakira** dio a conocer al ganador del automóvil de lujo de marca **Lamborghini**, este viernes 6 de diciembre de 2024.
+
+La artista colombiana convocó hace dos semanas al **concurso** en sus redes sociales.
+
+### Más noticias:
+
+* [Shakira sorteará entre sus fans un auto que alcanza los 305 km/h](https://www.elcomercio.com/tendencias/entretenimiento/shakira-auto-sorteo-lujo-miami-fans.html "Shakira sorteará entre sus fans un auto que alcanza los 305 km/h")
+* [Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica](https://www.elcomercio.com/tendencias/entretenimiento/shakira-taylor-swift-record-latinoamerica-gira.html "Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica")
+
+El ganador del Lamborghini de Shakira
+-------------------------------------
+
+Shakira anunció al ganador a través de un video que fue emitido en sus **redes sociales**, así como en el programa Despierta América de Univisión, cadena hispana que fue una de las organizadoras del certamen.
+
+El joven artista visual **Michael Mejía** se llevó de premio un automóvil de lujo de la colombiana.
+
+El próximo propietario del Lamborghini color púrpura envió un video en el que los dibujos de Shakira que hace cobran vida mientras suena de fondo el **sencillo “Soltera”**.
+
+Esta creación visual se posicionó entre los cinco finalistas del concurso, cuyo ganador fue elegido mediante **votación popular**.
+
+“El **primer carro de mi vida** va a ser el Lamborghini de Shakira”, dijo Mejía, emocionado y rodeado de su madre y vecinos.
+
+Esto, mientras se aprestaban a brindar con **aguardiente colombiano**, tal como se observa en un video colgado en su cuenta de Instagram.
+
+El certamen estaba dirigido para **residentes de Estados Unidos**, mayores de 18 años.
+
+“‘Soltera’ se ha convertido en un símbolo de una **actitud optimista** frente a la vida”, señaló este viernes la colombiana en un texto publicado en sus redes sociales.
+
+“El destino nos pone la realidad sin preguntarnos si estamos de acuerdo, pero **la actitud** la ponemos nosotros sin pedir perdón, ni permiso”, agregó la cantante.
+
+La barranquillera, el próximo 11 de febrero, comenzará en **Río de Janeiro** su gira mundial “Las mujeres ya no lloran”.
+
+La intérprete había anunciado el concurso a mediados de noviembre, por medio de un video que grabó junto a su compatriota **Sebastián Yatra**. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDPwupEPeSm/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Univision (@univision)](https://www.instagram.com/reel/DDPwupEPeSm/?utm_source=ig_embed&utm_campaign=loading)
+
+Incendio en la vía a Daule deja un saldo mortal
+===============================================
+
+El Cuerpo de Bomberos de Guayaquil atendió la emergencia por el incendio en la vía a Daule.
+-------------------------------------------------------------------------------------------
+
+![Imagen del incendio estructural en la vía a Daule.](https://www.elcomercio.com/wp-content/uploads/2024/12/incendio-via-daule.jpg)
+
+Un incendio en la vía a Daule deja un saldo mortal, este viernes 6 de diciembre de 2024.
+
+La tragedia ocurrió en un local de colchones, frente a una parada de la Metrovía.
+
+### Más noticias:
+
+* [Al menos 82 hectáreas consume el incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/al-menos-82-hectareas-consume-incendio-forestal-guayaquil.html "Al menos 82 hectáreas consume el incendio forestal en Guayaquil")
+* [Incendios forestales de 2024 en América, de los más intensos, según Copernicus](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-2024-america-mas-intensos-segun-copernicus.html "Incendios forestales de 2024 en América, de los más intensos, según Copernicus")
+
+El saldo mortal del incendio en la vía a Daule
+----------------------------------------------
+
+El **[](https://www.ecuavisa.com/noticias/guayaquil/fabrica-plasticos-incendio-via-daule-GF8421888)**incendio en un local de colchones, ubicado en el kilómetro 6.5 de la **vía a Daule**, norte de Guayaquil, dejó un saldo mortal.
+
+La emergencia ocurrió a las 15:00 y generó pánico en los **pasajeros** de la Metrovía. La categoría de la alarma fue 3.
+
+El **Cuerpo de Bomberos de Guayaquil** acudió a la emergencia con **20 unidades.**
+
+**Ocho de combate, cuatro tanqueros, dos camiones cisterna, tres ambulancias, dos vehículos de resc**ate y uno para recarga de equipos de respiración autónoma.
+
+El fuego se extendió a un **vehículo** estacionado frente al local **y a la segunda planta del inmueble**.
+
+La tragedia provocó la muerte de una **mujer y de una niña**.
+
+Luego de **las operaciones de mitigación, labores de sofocación y remoción de escombros**, el cuerpo bomberil brindó soporte psicológico a la familia.
+
+En el sitio se realizaron labores de **sofocación y remoción de escombros**, informaron los bomberos.
+
+La **causa** del incendio aún no está establecida.
+
+> [#BCBGInforma](https://twitter.com/hashtag/BCBGInforma?src=hash&ref_src=twsrc%5Etfw) | Atendemos alarma 3 de incendio estructural en el km 6.5 de la vía a Daule. 🚨  
+>   
+> Despachamos veinte unidades, entre ellas ocho de combate, cuatro tanqueros, dos camiones cisterna, tres ambulancias, dos vehículos de rescate y uno para recarga de equipos de respiración… [pic.twitter.com/nfk8zBoXYv](https://t.co/nfk8zBoXYv)
+> 
+> — Bomberos Guayaquil (@BomberosGYE) [December 6, 2024](https://twitter.com/BomberosGYE/status/1865160927726678489?ref_src=twsrc%5Etfw)
+
+Emmanuel Macron recibirá a Trump y Zelensky en el Elíseo antes de la reapertura de Notre Dame
+=============================================================================================
+
+La reunión de los mandatarios se produce en un momento decisivo para el futuro de la guerra en Ucrania.
+-------------------------------------------------------------------------------------------------------
+
+![El presidente reelecto de EE.UU.,Donald Trump, y los presidente de Francia y Ucrania, Emmanuel Macron y Volodímir Zelensky, respectivamente. Fotos: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/trump-macron-zelansky_720.jpg)
+
+El presidente de **Francia**, **Emmanuel Macron**, recibirá este sábado 7 de diciembre en el **Elíseo** al presidente electo de los **EE.UU**, **Donald Trump**, y al presidente de **Ucrania**, **Volodímir Zelensky**. Esto se dará en un día clave para la diplomacia internacional, antes de la gran reapertura de la catedral de **Notre Dame** a la que ambos están invitados.
+
+Más noticias
+------------
+
+* [Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN](https://www.elcomercio.com/actualidad/mundo/zelenski-sugiere-podria-poner-fin-guerra-ucrania-cambio-unirse-otan.html "Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN")
+* [Donald Trump nombra a Keith Kellogg como encargado para poner fin a la guerra de Ucrania](https://www.elcomercio.com/actualidad/mundo/donald-trump-nombra-keith-kellogg-encargado-poner-fin-guerra-ucrania.html "Donald Trump nombra a Keith Kellogg como encargado para poner fin a la guerra de Ucrania")
+
+La jornada comenzará con la llegada de Trump, quien realiza su primer viaje internacional tras ganar las elecciones presidenciales de noviembre pasado.
+
+Tras este encuentro, el mandatario francés se prepara para la llegada de **Zelensky**. El **Elíseo** no confirma si habrá un encuentro entre los dos mandatarios, **Trump** y **Zelensky**, durante su visita.
+
+Reunión decisiva para el futuro de Ucrania
+------------------------------------------
+
+Esta reunión de alto nivel se produce en un momento decisivo para el futuro de la guerra en Ucrania. Su conflicto con Rusia sigue siendo uno de los temas más críticos en la agenda internacional.
+
+El apoyo de Estados Unidos a Kiev es determinante para contrarrestar los avances rusos. Pero su continuidad dependerá, en gran medida, de la postura que adopte Trump en su regreso a la Casa Blanca. Esta postura podría redefinir las dinámicas de las alianzas internacionales y el rumbo del conflicto.
+
+El republicano declaró su intención de poner fin a la guerra en **Ucrania**. Afirmó ser capaz de alcanzar un acuerdo de paz en **24 horas**. Su equipo diseñó un plan que condiciona el envío de armamento a **Kiev** con el objetivo de presionar al **Zelensky**, para que entable negociaciones con **Putin**.
+
+Este enfoque generó gran preocupación en Ucrania y entre sus aliados europeos. Temen que un acuerdo bajo esos términos deje las líneas de combate actuales sin alteraciones. Esto, en la práctica podría traducirse en la anexión de los territorios ucranianos ocupados por las fuerzas rusas.
+
+En el caso de que se abrieran perspectivas de diálogo entre las partes, Ucrania y sus aliados occidentales insisten en que cualquier proceso de negociación debe basarse en una posición de fortaleza, no de debilidad. Esto con el fin de proteger la soberanía de Ucrania.
+
+En este escenario, el papael de Trump como presidente electo será crucial para determinar las condiciones en las que Kiev podría afrontar posibles negociaciones de paz, si es que se llegaran a dar en el futuro. Así lo reseña el portal de noticias Infobae.
+
+Trump y **Zelensky** estarán en la reapertura de Notre Dame
+-----------------------------------------------------------
+
+Tras las reuniones, ambos líderes se unirán a Macron en la catedral de Notre Dame para asistir a la gran reapertura del templo, que fue devastado por un incendio en 2019. Los tres mandatarios compartirán este evento solemne, que tendrá protocolos muy estrictos, marcando el final de una era para la catedral, y simbolizando el renacer de un monumento histórico para Francia y el mundo.
+
+[](https://www.infobae.com/america/mundo/2024/12/06/la-justicia-de-rumania-anulo-el-resultado-de-las-elecciones-presidenciales-por-sospechas-de-injerencia-rusa-y-convoco-una-nueva-votacion/)
+
+Liga de Quito anuncia un show artístico previo a la final con IDV
+=================================================================
+
+Liga de Quito e IDV jugarán la final de ida el 7 de diciembre del 2024, pero antes del cotejo de fútbol se realizará un show artístico
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito en una práctica previa a la final ante IDV.](https://www.elcomercio.com/wp-content/uploads/2024/12/LDU-2.jpg)
+
+La espera por la final de la Liga Pro 2024 entre **Liga de Quito** e **Independiente del Valle** está a punto de terminar. El 7 de diciembre, el estadio **Rodrigo Paz Delgado de Quito** albergará el esperado cotejo de ida desde las 15:30.
+
+Sin embargo, los asistentes que lleguen temprano al estadio tendrán la oportunidad de disfrutar de un **espectáculo artístico** previo al encuentro, como parte de las actividades organizadas por el club universitario.
+
+### Más noticias:
+
+* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
+* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
+* [Liga de Quito tendrá una dura baja para la primera final de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tendra-una-dura-baja-para-la-primera-final-de-la-liga-pro.html "Liga de Quito tendrá una dura baja para la primera final de la Liga Pro")
+
+Liga de Quito y el show
+-----------------------
+
+La **Liga de Quito** ha confirmado que el show artístico comenzará a las 12:45, brindando a los hinchas un repertorio especial para la ocasión.
+
+Entre los artistas anunciados por el club se encuentran el cantante José Pita, quien abrirá el espectáculo, seguido por las presentaciones de Tierra Canela y Sugar Rush.
+
+Este evento promete agregar emoción y color a la jornada.
+
+El partido, que es la primera de dos finales de la **Liga Pro**, enfrentará a los albos con Independiente del Valle, un rival que ha demostrado ser un competidor difícil.
+
+Los equipos lucharán por el título nacional en una serie de dos partidos, siendo la vuelta el 14 de diciembre en el estadio de Independiente.
+
+Liga de Quito vs. IDV
+---------------------
+
+En cuanto al equipo de **Liga de Quito**, el entrenador **Pablo ‘Vitamina’ Sánchez** destacó la fortaleza tanto colectiva como individual de su escuadra, aunque reconoció que será un enfrentamiento complicado.
+
+“Será un partido muy difícil para ambos equipos. Independiente tiene jugadores desequilibrantes, y nosotros intentamos jugar de forma similar. La final será muy reñida”, expresó el técnico argentino.
+
+Además, a pesar de las bajas, como la de José ‘Choclo’ Quintero, quien no podrá jugar en la final de ida debido a una lesión, la moral del equipo es alta.
+
+Liga de Quito buscará su título número 21, mientras que Independiente del Valle intentará conquistar su segundo campeonato ecuatoriano.
+
+La cita está hecha en el estadio Rodrigo Paz Delgado desde las 15:30.
+
+Metro de Quito: Pabel Muñoz y Daniel Noboa hicieron un compromiso
+=================================================================
+
+El Metro de Quito fue motivo de un acuerdo entre el presidente Daniel Noboa y el alcalde Pabel Muñoz.
+-----------------------------------------------------------------------------------------------------
+
+![Daniel Noboa y Pabel Muñoz hicieron un acuerdo sobre el Metro de Quito, en la sesión solemne por los 490 años de fundación.](https://www.elcomercio.com/wp-content/uploads/2024/12/metro-quito-daniel-noboa-pabel-munoz.jpg)
+
+El alcalde **Pabel Muñoz** y el presidente **Daniel Noboa** hicieron un compromiso respecto al **Metro de Quito**, este viernes 6 de diciembre de 2024.
+
+El anuncio se realizó en la **sesión solemne por los 490 años de fundación** de Quito, esta tarde.
+
+### Más noticias:
+
+* [El Metro de Quito celebra su aniversario con actividades en sus estaciones](https://www.elcomercio.com/actualidad/quito/el-metro-de-quito-celebra-su-aniversario-con-actividades-en-sus-estaciones.html "El Metro de Quito celebra su aniversario con actividades en sus estaciones")
+* [¿El Metro de Quito es seguro para la mujer?](https://www.elcomercio.com/actualidad/quito/metro-quito-seguro-para-mujer.html "¿El Metro de Quito es seguro para la mujer?")
+
+Compromiso de Muñoz y Noboa sobre el Metro
+------------------------------------------
+
+Quito celebró sus 490 años de fundación con una **sesión solemne** organizada por el Municipio de Quito en el **Teatro Sucre**, ubicado en el Centro Histórico.
+
+Al igual que la **Serenata Quiteña**, este evento también contó con la asistencia del presidente D**aniel Noboa**, quien llegó acompañado de su esposa **Lavinia Valbonesi.**
+
+Tras la entonación del **Himno a Quito** y la entrega de condecoraciones, Muñoz y Noboa realizaron sus intervenciones.
+
+El Alcalde se dirigió al Presidente por **tres temas:** inversiones público-privadas, el Metro de Quito y el ambiente político en el país.
+
+Muñoz le dijo a Noboa que debe mantenerse el apoyo recibido por la **Secretaría de Inversiones Público – Privadas**, porque Quito está generando confianza.
+
+Sobre el **Metro de Quito**, el burgomaestre pidió el apoyo para **financiar la ampliación**.
+
+“Señor presidente, quiero requerir su apoyo financiero para **extender el Metro de Quito, no solo hasta la Ofelia, sino hasta Calderón**“, dijo Muñoz.
+
+“Nosotros estamos listos, las líneas de crédito de BID, CAF, **Banco Mundial (BM)** y el Banco Europeo están también listas”, dijo Muñoz.
+
+El Alcalde recordó que Calderón es una **parroquia rural** con más población que varias ciudades de Ecuador.
+
+Entre los beneficios de la ampliación, Muñoz añadió que esta es una **inversión rentable** que significa menor consumo de combustible subsidiado, **menos emisiones de CO2** que pueden transformarse en bonos verdes, menos muertes en la vía, más productividad y competitividad.
+
+### Consenso y no confrontación
+
+En cuanto al ambiente político, Muñoz dijo a Noboa que es momento de **generar consenso** y no **confrontación** política.
+
+“Señor Presidente, (…) en su próxima condición de **candidato presidencial**, le reitero, si los ecuatorianos le confían la administración del país, tome este Acuerdo (el Acuerdo de Quito 2030) como una muestra de que **el camino hoy no es la confrontación, es la convergencia y la búsqueda de consensos mínimos**, el país está obligado a reencontrarse y desterrar el odio como forma de hacer política”, manifestó el Alcalde.
+
+Muñoz dijo que la sociedad debe reprochar la política mediocre que no se basa en construir, sino en destruir, por eso se enfocó en el **Acuerdo Quito 2030**, que hoy lo entregó al presidente Daniel Noboa.
+
+Respuesta de Daniel Noboa a Pabel Muñoz sobre el Metro de Quito
+---------------------------------------------------------------
+
+El presidente **Daniel Noboa** elogió la **historia de Quito**, como un legado de coraje, dignidad y solidaridad.
+
+Noboa destacó la respuesta solidaria de los quiteños durante los **incendios forestales** de este año y frente a la grave **sequía**.
+
+### Quito y la protesta social
+
+“Quito sufre amenazas constantes, cuando esos mismos **delincuentes** (refiriéndose a “terroristas” que asaltaron TC Televisión en enero) se pretenden **camuflar** dentro de una, muchas veces, legítima **protesta** para asaltar a Quito y **tratar de destruir ese Centro Histórico** que (…) todos los ecuatorianos hemos luchado por construir”, dijo.
+
+“Son muchos los retos que Ecuador debe afrontar y Quito es más grande que todos nosotros juntos, **Quito es eterno y a Quito hay que cuidarlo**“, agregó el Presidente.
+
+Daniel Noboa dijo que el Gobierno afronta tres graves crisis.
+
+Una **crisis económica** que tenía impagos a los trabajadores del Estado, municipio y proveedores, cuatro meses de deudas, eso recibieron de “regalito”.
+
+“Recibimos un país plagado de deudas, con obras inconclusas y corría riesgo la dolarización, a nosotros **nos tocó limpiar el desastre** que nos dejaron”, agregó, al tiempo de señalar que lo hicieron dialogando con los gobiernos descentralizados.
+
+El país ha enfrentado los efectos de la sequía con la crisis energética, los efectos de la delincuencia y el crimen transnacional y **“de ese grupo de personas que, sin el apoyo popular, quieren comandar y decidir sobre los ecuatorianos, eso jamás lo vamos a permitir”**.
+
+Noboa **recordó que se conoce con Muñoz desde la Asamblea**, han trabajado juntos en el pasado y pueden continuar haciéndolo en el futuro.
+
+### La respuesta sobre el Metro
+
+Como respuesta sobre el Metro, el presidente **Daniel Noboa** dijo que el Metro está “totalmente incompleto” sin una parada en Calderón.
+
+“Tenemos que hacerlo llegar hasta **Calderón** (…) tiene mi compromiso para trabajar y que Calderón tenga también acceso al metro y pueda gozar de una interconexión real”, agregó.
+
+PSG se mantiene líder con Willian Pacho como titular ante Auxerre
+=================================================================
+
+Willian Pacho sigue firme en la titularidad del PSG que pese a un empate y las críticas se mantiene líder en Francia
+--------------------------------------------------------------------------------------------------------------------
+
+![El ecuatoriano Willian Pacho (izq.) se destaca en el PSG de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/12/pacho.jpg)
+
+El Paris Saint-Germain (**PSG**) sigue liderando la Ligue 1 de Francia, tras un empate sin goles ante el Auxerre el 6 de diciembre de 2024. En este encuentro, que se disputó en el estadio de l’Abbé-Deschamps, el defensor ecuatoriano **Willian Pacho** fue titular y jugó los 90 minutos con su equipo.
+
+Con este empate, el PSG se mantiene en la cima de la clasificación con 34 puntos en 14 partidos.
+
+### Más noticias:
+
+* [Pep Guardiola pierde los estribos en video que se vuelve viral](https://www.elcomercio.com/deportes/futbol/pep-guardiola-video-momentos-dificiles-manchester-city.html "Pep Guardiola pierde los estribos en video que se vuelve viral")
+* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
+* [Alberto Spencer, el futbolista que puso a Ecuador en el mapa](https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html "Alberto Spencer, el futbolista que puso a Ecuador en el mapa")
+
+El Olympique de Marsella, que ha jugado un encuentro menos, sigue en la segunda posición con 26 puntos.
+
+Sin embargo, el empate ha generado críticas hacia el equipo dirigido por Luis Enrique Martínez, especialmente después de que el PSG también igualara en la fecha pasada contra el Nantes y cayera 1-0 ante el Bayern Múnich en la **Champions League.**
+
+Willian Pacho
+-------------
+
+A pesar de los altibajos en los resultados, **Willian Pacho** se ha consolidado como pieza clave en la defensa del PSG.
+
+El central de 23 años, originario de Quinindé, sigue gozando de la confianza del entrenador Luis Enrique, quien lo mantiene en la titularidad. Pacho, con una estatura de 1,87 metros, ha destacado por su solidez defensiva y liderazgo en el campo.
+
+El joven defensor **Willian Pacho** también es un pilar importante en la Selección ecuatoriana, con la que ha brillado en las eliminatorias sudamericanas.
+
+Su rendimiento ha sido tan destacado que su valor en el mercado ya supera los 42 millones de dólares, consolidándose como una de las promesas más grandes del fútbol ecuatoriano. En redes sociales, muchos lo apodan la ‘Muralla ecuatoriana’ por su impresionante capacidad para desbaratar los ataques rivales.
+
+Pacho sigue demostrando que su futuro en el fútbol europeo es brillante, mientras PSG busca retomar su nivel de juego con la vista puesta en los próximos desafíos en la Ligue 1 y la Champions League.
+
+Varios sectores de Quito, con lluvias intensas en la tarde de este 6 de diciembre
+=================================================================================
+
+Debido a las lluvias se registra tráfico vehicular en el distrito.
+------------------------------------------------------------------
+
+![Fuertes lluvias en el sur de Quito, en la tarde de este viernes 6 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/q-lluvias.jpg)
+
+La tarde de este viernes 6 de diciembre, al menos cuatro sectores del sur de Quito registran intensas lluvias. Esto genera tráfico vehicular en el distrito metropolitano.
+
+Más noticias
+------------
+
+* [Auto de Pedro Pablo Perlaza fue hallado en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
+* [Una persona falleció tras caer en moto de un puente, en Quito](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito")
+
+Según el Servicio Integrado de Seguridad ECU911 Quito, a través de las cámaras de videovigilancia se han observado precipitaciones de alta intensidad en diferentes sectores de la ciudad.
+
+Entre los sectores que el [ECU911](https://www.ecu911.gob.ec/ "https://www.ecu911.gob.ec/") informó que hay altas precipitaciones están: avenidas Ajaví, Pedro Vicente Maldonado, Mariscal Sucre y Rumichaca.
+
+Asimismo, mediante los dispositivos de monitoreo se registra tráfico vehicular, en varias zonas de la capital. En la avenida Mariscal Sucre y Huayapalcón, en el sur, se efectuó el cierre vial, debido a un atropello. Hasta las 16:30 de hoy, la Agencia Metropolitana de Tránsito (AMT) aún no comunicaba si ya está habilitada esta vía. Por esta razón hay tomar rutas alternas.
+
+Debido a las precipitaciones se recomienda conducir con precaución, activar las luces y limpiaparabrisas. Además es importante que reduzca la velocidad, sobre todo en las avenidas de alta siniestralidad.
+
+Este viernes se suspendieron los cortes de energía eléctrica en la mayoría de sectores de Quito, por sus fiestas. Esto permitió que los semáforos funcionen con normalidad.
+
+Sin embargo, en los últimos días se han registrado más de una veintena de siniestros. Una de las causas es las precipitaciones.
+
+Las lluvias también se extendieron al valle de Cumbayá, en donde también se ha producido congestión vehicular.
+
+Quiteños están orgullosos de la ciudad, pero con miedo
+======================================================
+
+Los quiteños muestran un sentido de pertenencia con su ciudad; sin embargo, la inseguridad es una preocupación que afecta su calidad de vida.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los quiteños sienten un profundo sentido de pertenencia con la ciudad.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T182946.484.jpg)
+
+Cuando se cumplen **490 años** de la f**undación española de Quito,** la **percepción** que tienen los **quiteños** de su ciudad tienen componentes **paradójicos**. Por una parte, están **orgullosos** de la ciudad, pero también tienen **miedo** por los niveles de inseguridad.
+
+### Más noticias
+
+* [¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/como-sera-atencion-registro-civil-fiestas-quito.html "¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?")
+* [Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?](https://www.elcomercio.com/actualidad/negocios/feriado-de-fiestas-de-quito-en-que-horario-atenderan-los-bancos.html "Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?")
+* [¿Cómo se juega 40? El popular juego de Fiestas de Quito](https://www.elcomercio.com/deportes/futbol/cuarenta-juego-cartas-fiestas-quito.html "¿Cómo se juega 40? El popular juego de Fiestas de Quito")
+
+Quiteños, con sentido de orgullo
+--------------------------------
+
+Esta es la **quinta edición** de los estudios de **Quito Cómo Vamos**. Fue un trabajo realizado sobre 1 000 personas, a hombres y mujeres desde los 18 años en adelante. Trabajaron sobre **cuatro grupos socioeconómicos** de la ciudad y en todas las administraciones zonales.
+
+Las encuestas se realizaron entre el 26 de julio y el 2 de agosto de 2024. Tiene una fiabilidad del 95%. Las fundaciones **Tandem**, **Ciudadanía y Desarrollo**, con la Asociación de docentes de la **Universidad San Francisco de Quito**, **Universidad de las Américas**, **Ipsos**, **Consejo de Cámaras y Asociaciones de la Producción,** entre otros.
+
+En la última edición de la **Encuesta de Percepción Ciudadana** realizada por **Quito Cómo Vamos** revela una mezcla de **orgullo** y **preocupación** entre los habitantes de la capital ecuatoriana, incluso a pesar de las dificultades que enfrenta la capital.
+
+Según los indicadores, el sentimiento de **orgullo** va subiendo en la ciudad. Si en **2023,** solamente el **63**% de los encuestados sostenía que tenía ese sentimiento, para este 2024, subió hasta el 83% quienes estaban muy o algo orgullosos de Quito como ciudad.
+
+Estos guarismos coinciden con la categoría de la satisfacción sobre Quito como una ciudad para vivir para sus habitantes. El 2023, solo el 65% tenía ese sentimiento, mientras este año llegó al 80%. Para **Daniela Chacón**, de la fundación Tandem, la influencia del **Metro de Quito** explicaría este crecimiento.
+
+Vecinos están satisfechos con sus barrios y sus viviendas
+---------------------------------------------------------
+
+Otros de los resultados alentadores los tuvieron los barrios y las viviendas de las personas consultadas. El **76% de los quiteños** está satisfecho con su barrio. Aunque la valoración positiva cae en cuanto a las áreas verdes cercanas: 58%.
+
+En el ámbito de la vivienda, un significativo **91%** de los ciudadanos se declara satisfecho con su hogar, lo que refleja una fuerte conexión con su entorno inmediato[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+El miedo es el punto negativo en la percepción ciudadana
+--------------------------------------------------------
+
+En este aspecto también hubo crecimiento en las cifras. El 76% de los quiteños siente que el problema que más afecta su calidad de vida y la de su familia es la inseguridad. El año pasado fue el 75%.
+
+Muy lejos por debajo están las cuestiones económicas. Entre estas, la más importante es **la falta de oferta laboral,** que inquieta al 25%. El **tránsito**, la **movilidad** y **el arreglo de las calles** son preocupaciones menores en comparación, como se puede ver en el siguiente cuadro.
+
+En cambio, en el **espacio público**, sean parques, plazas o calles, apenas el **41% se siente seguro**, aunque mejora en sus barrios, con el **51%**.
+
+Otro indicador paradójico: la percepción del futuro
+---------------------------------------------------
+
+Pese al orgullo por su ciudad, no son tantos los que ven un futuro promisorio. Tan solo el 48% cree que será mejor. Y los más escépticos creen son aquellos que tienen más de 46 años.
+
+Sin embargo, **Mauricio Alarcón,** coordinador del proyecto **Quito Cómo Vamos** como parte de la **Fundación Ciudadanía y Desarrollo**, piensa que tras cinco años de elaboración de las estadísticas, se pueden hacer comparaciones, llegar a conclusiones y pensar en propuestas. Sin embargo, si bien la inseguridad es la mayor demanda de atención que requieren los ciudadanos, “**no consideraría como una paradoja** el que haya un crecimiento del sentimiento de orgullo a pesar de todas las inquietudes, de la inseguridad y de lo económico. El quiteño siente cariño por su ciudad, más pertenencia. En ese sentido, no creo que son cifras que se deben poner en comparación”.
+
+Y es que “la gente parece que no asocia los problemas con su sentimiento por la ciudad”, dice, por su parte, Chacón.
+
+El informe de **Quito Cómo Vamos** pone en evidencia una ciudad donde el orgullo y el aprecio por lo local coexisten con importantes retos estructurales. De ese modo, es, a la vez, una invitación a las autoridades y a la ciudadanía quiteña a trabajar conjuntamente para mejorar la calidad de vida en la capital.
+
+Usuarios se quejan de la falta de ecopaís y diésel en las gasolineras de Guayaquil
+==================================================================================
+
+Los tanqueros llegan a las gasolineras con retrasos de la Terminal de Pascuales
+-------------------------------------------------------------------------------
+
+![Los tanqueros tienen retrasos para abastecerse de ecopaís y diésel. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-67.jpg)
+
+Durante un recorrido la noche de este jueves 5 de diciembre en Guayaquil se constató que en varias gasolineras no había suficiente ecopaís ni diesel. Los despachadores aseguraron que los tanqueros están llegando con retrasos, desde la Terminal de Pascuales. Hay problemas en otras ciudades del país.
+
+Más noticias
+------------
+
+* [¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?](https://www.elcomercio.com/actualidad/negocios/como-vehiculos-gasolinas-inciden-inflacion-negativa-mensual-ecuador.html "¿Por qué vehículos y gasolinas inciden en la inflación negativa en Ecuador?")
+
+En redes sociales, los usuarios se quejan del desabastecimiento de los combustibles, durante la jornada de hoy, 6 de diciembre.
+
+“He ido a tres gasolineras en el norte de Guayaquil y en todas los autos están haciendo columna para el despacho”, escribió uno de los usuarios en su cuenta de X.
+
+“No hay diésel en las gasolineras del norte de Guayaquil. Fui a la Shell, Garzota, Kennedy, Urdenor y otras de sector. Todas no tienen”, explicaba en tono de indignación otra persona.
+
+> He ido a 3 gasolineras en el norte de Guayaquil y en todas los autos están haciendo columna para el despacho [pic.twitter.com/nccL07ljSx](https://t.co/nccL07ljSx)
+> 
+> — david baldeon (@davidbaldeon20) [December 6, 2024](https://twitter.com/davidbaldeon20/status/1865111277292458102?ref_src=twsrc%5Etfw)
+
+Algunos se cuestionaron si se trata de un desabastecimiento local o nacional. El problema no es nuevo, pues en octubre pasado ocurrió algo similar en Cuenca, Riobamba, Ambato y en la Amazonía.
+
+Cada tanquero tiene una capacidad de hasta 10 000 galones de combustible. Pero se requieren de al menos dos viajes para solventar la necesidad que tienen las estaciones. La demora se produce en la Terminal Pascuales, en donde se abastecen de diésel y Ecopaís.
+
+Los distribuidores se quejan de que esto ocurre en otras ciudades
+-----------------------------------------------------------------
+
+Ivo Rosero, presidente de la Cámara Nacional de Distribuidores de Derivados de Petróleo, explicó que este problema no es solo de Guayaquil sino de varias ciudades del país. Explicó que Riobamba lleva dos meses con este problema y a los distribuidores les obligaron a abastecerse en Guayaquil, inicialmente. Lo mismo ocurrió con los de Ambato.
+
+Los distribuidores de El Oro, en cambio, deben ir a la Terminal Pascuales. Por su parte, los distribuidores de Santo Domingo también debían ir a Guayaquil a abastecerse, añadió.
+
+Los retrasos en el abastecimiento también se vivió en Quito, en octubre pasado. Esto ocasiona que en las estaciones se formen largas filas, porque los tanqueros llegan con demoras.
+
+Por otra parte, Rosero denuncia que el hecho de abastecerse en otras ciudades implica que incurran en mayores gastos y, en muchos de los casos, ya están trabajando a pérdida. Esto, debido a que su margen de comercialización que es de centavos, está congelado desde hace una década.
+
+Distribuidores exigen más transparencia a Petroecuador
+------------------------------------------------------
+
+Según la Cámara, las autoridades de [Petroecuador](https://www.eppetroecuador.ec/ "https://www.eppetroecuador.ec/") no han explicado con detalle el origen de estos retrasos en la entrega del combustible en los centros de abastecimiento, no solo de Pascuales.
+
+Rosero exige que Petroecuador explique qué está pasando con el diésel, que en un 73% es importado. Por otro lado, no se sabe si ya terminó el mantenimiento de la Refinería de Esmeraldas, que estuvo previsto que parara por 65 días. A esto suma que se conoce que hay una disminución de 11 mil barriles menos, en la producción de petróleo. Estos temas, añadió, exigen una mayor transparencia y no solo “comunicados escuetos”, en los que Petroecuador dice que hay combustible suficiente.
+
+Desde la crisis energética que vive el Ecuador, el consumo de diésel aumentó significativamente, pues se usa para los generadores de empresas y hogares. En el caso de la ecopaís y de la extra, cuyos precios incrementaron, el consumo más bien bajó en este año, de acuerdo con las cifras oficiales.
+
+Pep Guardiola pierde los estribos en video que se vuelve viral
+==============================================================
+
+La presión sobre Pep Guardiola sigue creciendo mientras el equipo busca recortar puntos con el líder Liverpool.
+---------------------------------------------------------------------------------------------------------------
+
+![Pep Guardiola, DT del Manchester City.](https://www.elcomercio.com/wp-content/uploads/2024/12/pepguardiola.jpg)
+
+Un video de **Pep Guardiola** reaccionando enfurecido ante la burla de un aficionado se ha vuelto viral en las redes sociales, mostrando al entrenador del **Manchester City** fuera de sí.
+
+El técnico español, visiblemente alterado, intentó enfrentarse a un hincha que le gritó: “Llora, llora que perdiste”.
+
+### Más noticias:
+
+* [(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City](https://www.elcomercio.com/deportes/futbol/guardiola-enfurece-y-se-autolesiona-tras-el-empate-del-manchester-city.html "(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City")
+* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
+* [Alberto Spencer, el futbolista que puso a Ecuador en el mapa](https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html "Alberto Spencer, el futbolista que puso a Ecuador en el mapa")
+
+Personal de seguridad intervino rápidamente para calmar la situación, evitando un enfrentamiento físico.
+
+Pep Guardiola
+-------------
+
+Este episodio se suma a una racha complicada para **Guardiola,** quien atraviesa uno de los peores momentos de su carrera al frente del **Manchester City.**
+
+El equipo ocupa la cuarta posición en la Premier League, cada vez más lejos del líder, Liverpool. La derrota reciente ante **Liverpool** (2-0) intensificó las críticas hacia el entrenador español y la presión sobre su proyecto.
+
+El desánimo de Guardiola también se reflejó en su aparición pública semanas atrás, cuando mostró varias heridas en su rostro tras un empate.
+
+Durante la rueda de prensa, el entrenador confesó que las lesiones se las había causado él mismo, asegurando que intentó autolesionarse al lastimarse con sus propios dedos y uñas. Este incidente dejó en evidencia el difícil momento emocional por el que atraviesa el técnico.
+
+Manchester City reacciona
+-------------------------
+
+A pesar de estos altibajos, el City consiguió una victoria clave esta semana ante el **Nottingham Fores**t (3-0), un respiro tras siete partidos sin triunfos.
+
+La mejoría de **Kevin De Bruyne**, quien volvió a mostrar su mejor nivel, fue clave para que el equipo retomara la senda de la victoria.
+
+Sin embargo, las falencias defensivas aún persisten, y Guardiola sigue buscando soluciones tácticas, como colocar a Grealish de mediapunta y liberar a Doku por la izquierda.
+
+Próximo partido
+---------------
+
+Este sábado 7 de diciembre, el **Manchester City** visitará al **Crystal Palace** en un partido crucial para sus aspiraciones en la Premier League.
+
+La presión sobre Guardiola sigue creciendo mientras el equipo busca recortar puntos con el líder Liverpool.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDP1jelpGLa/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DDP1jelpGLa/?utm_source=ig_embed&utm_campaign=loading)
+
+Demuelen 10 viviendas ‘diseñadas para secuestrar’, en un operativo en Durán
+===========================================================================
+
+Policías y militares demolieron las casas usadas para actividades delictivas.
+-----------------------------------------------------------------------------
+
+![Demolición de casas, en la mañana de este viernes 6 de diciembre, en Durán. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/12/image_720.png)
+
+Cerca de 100 uniformados del Bloque de Seguridad, conformado por policías y militares, realizaron un operativo en Fincas Delia, en la vía Durán-Tambo, la mañana de este viernes, 6 de diciembre.
+
+Más noticias
+------------
+
+* [Auto de Pedro Pablo Perlaza se halló en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
+* [Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza")
+
+Durante la intervención de los uniformados se identificaron 10 viviendas construidas de forma irregular. Los agentes demolieron estas estructuras, hechas de cemento y materiales mixtos, como caña y madera.
+
+Las autoridades señalaron que estas edificaciones no contaban con permisos legales y posiblemente servían para actividades delictivas, como secuestros o para esconder delincuentes.
+
+Mientras se demolían las casas, Roberto Santamaría, jefe de [Policía](https://noticias.policia.gob.ec/ "https://noticias.policia.gob.ec/") en Durán, explicó que la idea del operativo es ubicar estas viviendas “diseñadas para secuestrar”. En el interior de estas edificaciones se encontraron cuerdas y colchones listos para los supuestos secuestrados.
+
+El teniente coronel añadió que tienen varias denuncias de personas que secuestraron en Guayaquil y luego las llevaron a esta zona. Según las autoridades se trata de una invasión.
+
+Se coordinó con la Secretaría de Asentamientos para no dejar ni una sola casa, que se utilice para este tipo de delitos. “Si seguimos en la ilegalidad y en el desorden va a continuar la inseguridad. Por esto estamos decididos a derrocar todo esto que ha sido una invasión ilegal totalmente”.
+
+De ser necesario van a ir de casa en casa derrumbando hasta que parar con las muertes violentas. “Tenemos que devolver la paz al cantón”.
+
+También se está coordinando con la Judicatura y la Fiscalía para que esto no continúe.
+
+Este no es el primer operativo que se realiza con estos fines. Ya la Policía y los militares han dado a conocer otros operativos en Durán, con el fin de destruir este tipo de casas.
+
 Ecuador necesita cubrir un déficit de 152 mil toneladas de maíz para evitar escasez en 2025
 ===========================================================================================
 
@@ -470,651 +1027,3 @@ Descubre las historias de mujeres que rompieron el silencio frente a la violenci
 Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
 
 [ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Policía detiene a presuntos implicados en secuestro de Pedro Pablo Perlaza
-==========================================================================
-
-En el norte de Quito, en Calderón, se encontró el auto de Pedro Perlaza junto a otros tres autos reportados como robados
-------------------------------------------------------------------------------------------------------------------------
-
-![Los tres aprehendidos fueron puestos a órdenes de la autoridad.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-11.jpg)
-
-**Pedro Pablo Perlaza f**ue secuestrado el pasado 1 de diciembre junto a Juan Carlos Morales en el sector de Puerto Limón, Atacames. El exfutbolista **recuperó su libertad** el miércoles 4 de diciembre, luego de pasar cuatro días secuestrado en el cantón Atacames, provincia de Esmeraldas.
-
-### Más noticias
-
-* [Pedro Pablo Perlaza fue liberado tras su secuestro](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-fue-liberado-tras-su-secuestro.html "Pedro Pablo Perlaza fue liberado tras su secuestro")
-* [Pedro Pablo Perlaza contó la experiencia de su secuestro](https://www.elcomercio.com/deportes/pedro-pablo-perlaza-secuestro-experiencia.html "Pedro Pablo Perlaza contó la experiencia de su secuestro")
-* [Continúa la búsqueda del futbolista Pedro Pablo Perlaza](https://www.elcomercio.com/deportes/futbol/pedro-pablo-perlaza-detalles-secuestro.html "Continúa la búsqueda del futbolista Pedro Pablo Perlaza")
-
-La liberación
--------------
-
-La **Unidad Antisecuestros y Extorsión** (UNASE) lideró un operativo que culminó con la **liberación de las víctimas**. La noticia la confirmó la Policía Nacional a través de sus redes sociales, y posteriormente en una rueda de prensa en la que se entregaron los detalles del rescate y se reunieron a las víctimas con sus familiares.
-
-El coronel Diego Velasteguí, jefe de la Subzona Esmeraldas, explicó que la **operación involucró a equipos de investigación e inteligencia, coordinados por la UNASE**.
-
-“Al acudir al sector de Taseche, en el cantón Atacames, **nuestras unidades recibieron bala por los delincuentes**. A pesar de ello, logramos liberar a las víctimas sin que resultaran heridas”, señaló Velasteguí.
-
-El coronel también confirmó que los secuestradores lograron escapar tras el enfrentamiento, aunque es probable que algunos estén heridos. “Continuaremos con las investigaciones para dar con los responsables”, aseguró.
-
-Policía logra captura de secuestradores
----------------------------------------
-
-Posterior a la liberación, la **Policía Nacional** continuó con las labores de investigación para dar con los responsables del secuestro extorsivo, en Esmeraldas.
-
-Uniformados lograron aprehender a **tres presuntos responsables** del delito. Dos de ellos son colombianos y uno, ecuatoriano que cuenta con antecedentes.
-
-Los tres sujetos serán puestos a **órdenes de las autoridades.**
-
-En otro operativo realizado en el norte de Quito, en Calderón, **se encontró el auto del futbolista.** Son cuatro vehículos recuperados y dos motocicletas reportados como robados.
-
-En este operativo se **detuvo a dos personas,** una colombiana y una ecuatoriana. Ambos serán juzgados por robo pero también serán implicados en el [caso del secuestro.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Los aprehendidos fueron identificados como:
-
-* Wilson Valentín B. S., ciudadano ecuatoriano con antecedentes penales por tenencia de armas.
-* Juan Felipe B. A., ciudadano colombiano.
-* Nilson B. P., ciudadano colombiano.
-* Carlos Armando A. C. ciudadano ecuatoriano con antecedentes penales por extorsión y tenencia ilegal de sustancias estupefacientes y psicotrópicas.
-* Kevin Daniel T. P., ciudadano colombiano, con antecedentes penales por tenencia de armas.
-
-> [#CrnlLuisBarrionuevo](https://twitter.com/hashtag/CrnlLuisBarrionuevo?src=hash&ref_src=twsrc%5Etfw) [#CmdtZona1](https://twitter.com/hashtag/CmdtZona1?src=hash&ref_src=twsrc%5Etfw):  
->   
-> Ante el secuestro extorsivo de Pedro P. y Juan M. desde el 01 de diciembre en [#Esmeraldas](https://twitter.com/hashtag/Esmeraldas?src=hash&ref_src=twsrc%5Etfw), nuestras unidades especializadas de [#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw) activaron los protocolos correspondientes para recabar información entorno a este caso, posterior… [pic.twitter.com/mHGX49jRaH](https://t.co/mHGX49jRaH)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [December 6, 2024](https://twitter.com/PoliciaEcuador/status/1865057382901993890?ref_src=twsrc%5Etfw)
-
-Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?
-========================================================================================
-
-El Pleno de la Asamblea Nacional aprobó la Ley Orgánica para el alivio financiero, enviado como urgente por Daniel Noboa.
--------------------------------------------------------------------------------------------------------------------------
-
-![Pleno de la Asamblea en el tratamiento de la ley de alivio financiero.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-63.jpg)
-
-El presidente, Daniel Noboa, ordenó la publicación en el Registro Oficial de la Ley de alivio financiero y el fortalecimiento económico de las generaciones del Ecuador.
-
-Esto se da luego de que el Pleno de la **Asamblea Nacional** aprobara esta legislación. Esto ocurrió en segundo y definitivo debate, el jueves 5 de diciembre de 2024.
-
-La iniciativa legal fue enviada por el presidente **Daniel Noboa**, con el **carácter de urgente en materia económica**, el 7 de noviembre pasado[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate](https://www.elcomercio.com/actualidad/politica/asamblea-nacional-aprueba-avance-proyecto-alivio-financiero-segundo-debate.html "Asamblea Nacional aprobó avance del proyecto de alivio financiero a segundo debate")
-* [Daniel Noboa presentó proyecto de ley con siete medidas de alivio financiero](https://www.elcomercio.com/actualidad/politica/daniel-noboa-proyecto-ley-alivio-financiero.html "Daniel Noboa presentó proyecto de ley con siete medidas de alivio financiero")
-* [Daniel Noboa habló sobre los proyectos de ley económicos urgentes, ¿cuál es el proceso?](https://www.elcomercio.com/actualidad/politica/proyectos-ley-economicos-urgentes-daniel-noboa.html "Daniel Noboa habló sobre los proyectos de ley económicos urgentes, ¿cuál es el proceso?")
-
-Los puntos principales aprobados por la Asamblea en la Ley de alivio financiero
--------------------------------------------------------------------------------
-
-El proyecto de Ley busca otorgar paliativos para enfrentar los **problemas derivados de los cortes de luz.**
-
-El texto establece incentivos financieros para que exista un inmediato progreso económico y **mayor inserción laboral**.
-
-Además, estimulación del **emprendimiento** como sector fundamental para el desarrollo económico y social del país.
-
-La ley, aprobada con el voto favorable de **116 asambleístas**, se aplicará en el ámbito público y privado.
-
-Los textos aprobados en partes, incluyen **condonación de intereses**, reestructuraciones y refinanciamiento de los créditos.
-
-Además, extinciones de pagos con el **Servicio de Rentas Internas (SRI)** de hasta un salario básico unificado.
-
-Beneficios para los **créditos estudiantiles**, los beneficios en los créditos arrastrados desde el feriado bancario.
-
-El texto tiene más de 30 artículos, cuando el **Ejecutivo** lo envió con 12.
-
-### El alivio financiero
-
-Estos son los **alivios financieros** que propone el proyecto de Ley aprobado por el Pleno de la Asamblea:
-
-### En el sistema de seguridad social
-
-* Los afiliados del **IESS**, en relación de dependencia, que por causas ajenas a su voluntad, registren un aviso de salida en noviembre y diciembre de 2024, y enero y febrero de 2025. Ellos podrán acceder a la prestación del **seguro de desempleo** de inmediato y sin trámites.
-* El **incumplimiento de las obligaciones** por concepto de aportes de los meses de noviembre y diciembre de 2024 **no generará responsabilidad patronal** con el **IESS**. Pero siempre que sean canceladas hasta en 90 días de estar en mora y que se solicite por parte del empleador.
-* Los trabajadores, cuyos **empleadores se hayan acogido al alivio**, seguirán contando con la prestación de los servicios sociales de salud del IESS. También de los servicios del **BIESS**.
-* El BIESS refinanciará o reestructurará, por una ocasión adicional, a las **operaciones de crédito hipotecario reestructuradas o refinanciadas.** Deben estar vigentes hasta el 30 de septiembre de 2024, al otorgar un período de gracia de hasta 90 días plazo. **No se cobrará interés moratorio** de ese período ni gastos de cobranza, costos legales ni tarifas.
-
-### Internet, la banca y otros
-
-* Los prestadores de **servicio de acceso a internet (SAI) y de servicio móvil avanzado (SMA)**, implementarán medidas de remediación a sus usuarios, así como facilidades de **pago en las planillas de facturación**, mientras dure la emergencia a causa de la situación actual eléctrica producto del estiaje.
-* De forma temporal y mientras permanezca vigente la declaratoria de emergencia del sector eléctrico nacional, **no se incrementará el costo de arrendamiento**.
-* Las entidades del **sector financiero público y privado** podrán establecer **programas de diferimiento** extraordinario y temporal de las **obligaciones financieras**. La instrumentación del programa de diferimiento **no causará intereses moratorios,** gastos, recargos y multas. Estos programas serán regulados por la Junta de Política y Regulación Financiera.
-* La **banca** pública y privada aplicará alternativas de alivio financiero en favor de sus **deudores,** para ello se establece un término de quince días desde la publicación de esta ley.
-* Las entidades de servicio auxiliares del sistema financiero nacional especializadas en cobranzas de propiedad mayoritariamente pública; encargadas de la recuperación de cartera de la banca cerrada **condonarán las deudas existentes** en sus registros con un valor de capital inicial de $10.000 e inferior de deudores no vinculados.
-* En el caso de las **deudas de capital inicial** superior a 10 000 dólares, que asciendan a deudas de un capital inicial de hasta 50 000 dólares; se condonarán los intereses e intereses de mora de las mismas; y se extenderá el plazo para el pago de las obligaciones que por efecto de esta ley resulten reestructuradas.
-
-### ANT y otros
-
-* Se remitirá el 100% de los intereses, multas, recargos, costas y todos los accesorios derivados de los tributos cuya administración y recaudación corresponda a los GAD, así como sus empresas amparadas en la Ley Orgánica de Empresas Públicas, agencias, instituciones y entidades adscritas, inclusive respecto del **impuesto al rodaje**, siempre que los contribuyentes realicen el pago total o parcial de dichas obligaciones hasta el 30 de junio de 2025.
-* Se condonará el 100% de los intereses, multas por incumplimiento de pago en la fecha debida, recargos, costas y todos los accesorios derivados de los **tributos** cuya administración corresponda a la **Agencia Nacional de Tránsito (ANT) y al Servicio Público para Accidentes de Tránsito (SPPAT)**, siempre que los contribuyentes realicen el pago de al menos el 30% de dichas obligaciones hasta el 30 de junio de 2025.
-* No será requisito para la obtención y **renovación de licencias y matrículas**, el pago de los intereses moratorios, multas por incumplimiento en las fechas de pago debidas, recargos, o la firma de un convenio de pago hasta el 30 de junio de 2025. Esto no exime a los contribuyentes de sus obligaciones pendientes por multas y recargos.
-
-### Crédito educativo, empresas y otros
-
-* Se dispone la **remisión del 100% del interés y recargos** generados por las obligaciones de **crédito educativo** que hayan vencido o por convenios de pago; la condonación incluye interés por mora, multas y gastos administrativos que se hallen pendientes de pago.
-* En los **programas de becas y ayudas económicas** en los cuales se ha terminado de forma anticipada la relación contractual, procederá la remisión del 100% de los intereses que se hubieren generado hasta la vigencia de la presente ley.
-* Se dispone la **condonación del 100% de las deudas de los créditos educativos** para personas con discapacidad y personas con enfermedades catastróficas, huérfanas y raras, generados por las obligaciones de crédito educativo, en estado activo, vencido, en convenio de pago o que se encuentren en proceso coactivo.
-* Los **empleadores**, sean personas naturales o jurídicas, que no hayan desvinculado de su nómina a sus trabajadores durante los meses de octubre, noviembre y diciembre y que los mantengan en las mismas o mejores condiciones de su vinculación laboral inicial, gozarán de un **crédito tributario** para el ejercicio fiscal del año 2024.
-
-### Alivios tributarios
-
-* El **Servicio de Rentas Internas (SRI)** podrá aceptar un **plan excepcional de pagos** de hasta 12 meses de obligaciones fiscales que se encuentren en mora al 31 de octubre de 2024, respecto de impuestos retenidos o percibidos.
-* El Director General del SRI en la administración tributaria central y, de modo facultativo, prefectos provinciales y alcaldes, en la administración tributaria seccional y las máximas autoridades de la administración tributaria de excepción, declararán **extintas las obligaciones tributarias** contenidas en títulos de crédito, liquidaciones, resoluciones, actas de determinación y demás instrumentos de deudas firmes.
-* Se condona la obligación tributaria correspondiente al **Impuesto a la Renta de los ejercicios 2022 y 2023**, a cargo de los contribuyentes sujetos al **régimen RIMPE**– negocio popular.
-
-El **Ministerio de Economía, de Agricultura y Ganadería, y de Producción** crearán instrumentos que permitan superar la **crisis energética**, **reactivar sus actividades productivas** y **garantizar la estabilidad económica** en el mediano y largo plazo.
-
-La Asamblea remitirá el texto al presidente **Daniel Noboa** para su **objeción total o parcial**.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Ministro de Turismo anunciará ‘buenas noticias’ en las próximas horas sobre feriados
-====================================================================================
-
-El nuevo feriado de Año Nuevo en Ecuador será para incentivar el turismo interno.
----------------------------------------------------------------------------------
-
-![Baños es una de las localidades más visitadas en feriados. Foto: Archivo](https://www.elcomercio.com/wp-content/uploads/2024/12/feriado-turismo-ecuador-ba__os_720.jpg)
-
-Este 6 de diciembre, en el marco de fiestas de Quito, el ministro de Turismo de Ecuador, Mateo Estrella, anunció que implementan nuevas estrategias para reactivar la economía. Además, apoyarán al sector turístico, que ha enfrentado varios desafíos.
-
-Más noticias
-------------
-
-* [¿Cuántos feriados quedan tras las fiestas de Quito?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-quedan-tras-fiestas-quito.html "¿Cuántos feriados quedan tras las fiestas de Quito?")
-* [Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?](https://www.elcomercio.com/actualidad/negocios/feriado-de-fiestas-de-quito-en-que-horario-atenderan-los-bancos.html "Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?")
-
-En una entrevista con **Teleamazonas**, el ministro detalló que decidió declarar un feriado para el 1 de enero, comenzando con Año Nuevo, en lugar de en Navidad, como se sugirió en el pasado.
-
-Estrella destacó que este nuevo feriado tiene como objetivo incentivar el turismo interno. El objetivo es permitir que los ecuatorianos aprovechen el descanso para conocer más sobre su propio país.
-
-Adicionalmente, el ministro explicó que el gobierno está considerando otras medidas económicas. Entre ellas, la exoneración del IVA en ciertos días, lo que también contribuirá a la reactivación del sector turístico.
-
-El funcionario subrayó que, aunque aún se afinan detalles técnicos, los ecuatorianos podrán disfrutar de este descanso en el nuevo feriado del 1 de enero. Sin embargo, debido a que el 1 de enero cae en miércoles, el [descanso](https://www.turismo.gob.ec/wp-content/uploads/2023/12/CALENDARIO-FERIADOS-2023-2025-06-12-2022-.pdf "https://www.turismo.gob.ec/wp-content/uploads/2023/12/CALENDARIO-FERIADOS-2023-2025-06-12-2022-.pdf") será programado para después de esta fecha.
-
-> “Van a haber buenas noticias en las próximas horas sobre el tema de feriados. Se van a dar pronto las noticias para que pueda haber una planificación efectiva (…) Se están ultimando los detalles económicos”.
-
-Asimismo, Estrella afirmó que está en constante comunicación con las embajadas de diferentes países en Ecuador para mantener buenas relaciones diplomáticas. De esta manera promover al país como un destino turístico atractivo. Recordó que el turismo representa el 2,8% del Producto Interno Bruto (PIB) de Ecuador y es un sector crucial para el crecimiento económico.
-
-“Estamos al mismo nivel que otros países de Latinoamérica en cuanto a seguridad turística. Ecuador ha recibido más de un millón de visitantes hasta octubre de este año, y el sector continúa demostrando una gran resiliencia”, concluyó Estrella.
-
-Siniestro de tránsito causa congestión en la Panamericana Sur
-=============================================================
-
-Efectivos de la Policía asisten a las personas afectadas en el siniestro de tránsito en la Panamericana Sur. No se reportan heridos.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Congestión vehicular se registró por un siniestro de tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-10.jpg)
-
-Este viernes 6 de diciembre de 2024 se registran algunos siniestros de tránsito en Quito y sus alrededores. Así ocurrió también en la **zona de Tambillo,** en la Panamericana Sur.
-
-### Más noticias
-
-* [Una persona falleció tras caer en moto](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito") [](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito")[de un puente, en Quito](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito")
-* [¿A qué hora se va la luz en Quito este 6 de diciembre y el fin de semana?](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-se-mantienen-en-cinco-horas-hasta-el-domingo-8-de-diciembre.html "¿A qué hora se va la luz en Quito este 6 de diciembre y el fin de semana?")
-* [De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html "De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito ")
-
-Siniestro de tránsito en Tambillo
----------------------------------
-
-En este feriado por las fiestas de fundación de Quito, las personas aprovecharon para salir de la ciudad a distraerse, cumplir compromisos o visitar algún familiar.
-
-Los que tuvieron que salir por el **extremo sur de Quito** se toparon con una gran congestión vehicular en la zona.
-
-Según información del ECU911, aproximadamente a las **09:45 de este 6 de diciembre** ingresó a la central de ayuda u**na llamada con la alerta.**
-
-Esta llamada informaba sobre un **siniestro de tránsito** a la altura de la Escuela de Formación de la Policía Nacional, ubicada en la Panamericana Sur.
-
-Dese la Sala Operativa del ECU911 se coordinó la ayuda a esta emergencia con l**a Policía Nacional,** cuyos efectivos se acercaron al sito para brindar ayuda.
-
-Según se conoció, el siniestro se dio entre **dos vehículos pesados.** Al parecer uno de ellos perdió pista y se volcó y el otro lo impactó. Se trata de dos camiones.
-
-Según información preliminar, **no se reportan heridos** en esta emergencia.
-
-La vía está parcialmente cerrada mientras se solventa la emergencia. Agentes de la Policía Nacional asisten a los conductores para agilitar la circulación por el [carril habilitado.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Una persona falleció en siniestro en Quito
-------------------------------------------
-
-Aproximadamente a las 07:00 de este **viernes 6 de diciembre,** el Cuerpo de Bomberos acudió a esta emergencia en la **av. 10 de Agosto y Orellana.**
-
-En el lugar se encuentra u**n intercambiador.** Según el reporte de los Bomberos, una **motocicleta cayó** aproximadamente 10 metros de altura desde el puente.
-
-Como consecuencia de este percance, **una persona falleció** y otra resultó herida.
-
-Personal de la Agencia Metropolitana de Tránsito **(AMT)** y de la Policía Nacional acudieron a tomar procedimiento.
-
-Los agentes de tránsito **cerraron el paso de vehículos** en el intercambiador mientras se solventaba la emergencia. Los paramédicos asistieron a la persona herida y le dieron atención prehospitalalria de emergencia.
-
-Quito espera a los turistas en el feriado por las fiestas de fundación española
-===============================================================================
-
-La capital ecuatoriana espera que al menos el 80% de su capacidad hotelera se ocupe durante el feriado por las fiestas de Quito.
---------------------------------------------------------------------------------------------------------------------------------
-
-![El festival de la Sal Quiteña de gastronomía es uno de los eventos más importantes de la ciudad por sus fiestas.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-73.jpg)
-
-En las **fiestas** de su **fundación española**, **Quito** busca impulsar el **turismo** para que los visitantes disfruten de la ciudad. Para ello, el **Municipio** y **entidades privadas** han organizado diversos eventos para atraer a visitantes a la capital ecuatoriana, del 6 al 8 de diciembre del 2024, por sus 490 años de existencia.
-
-### Más noticias
-
-* [¿Cómo se juega 40? El popular juego de Fiestas de Quito](https://www.elcomercio.com/deportes/futbol/cuarenta-juego-cartas-fiestas-quito.html "¿Cómo se juega 40? El popular juego de Fiestas de Quito")
-* [¿Quién fundó Quito?](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-fiestas-sebastian-benalcazar.html "¿Quién fundó Quito? ")
-* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor")
-
-Altas expectativas de turistas en el feriado
---------------------------------------------
-
-La variedad de **eventos gastronómicos**, **culturales**, las **fiestas**, **chivas** e incluso los torneos de **40**, son un atractivo para llamar a los **turistas**. Las autoridades municipales esperan que se ocupen al menos un 80% de la capacidad hotelera que hay en Quito, que cuenta con más de 24 000 plazas.
-
-Las **expectativas** son altas no solo en la parte **urbana** de Quito, sino también en las zonas rurales alrededor de la ciudad. Las proyecciones sostienen que se puede tener un movimiento económico de alrededor de **60 millones de dólares.**
-
-Jorge Álvarez, gerente general del hotel Patio Andaluz, en el Centro Histórico, está optimista. “La **ocupación hotelera tiene un pico superior este fin de semana**, aunque el lunes podremos evaluar con más certeza. En ese sentido, en todos los hoteles hemos realizado **importantes promociones** y **estamos preparados y listos**“, sostiene.
-
-¿Qué hacer en Quito durante el feriado?
----------------------------------------
-
-Sin duda, visitar el **Centro Histórico** durante estas fiestas de Quito será uno de los mayores atractivos. Ahora, con el **Metro**, se ha facilitado el acceso a esta zona, por la cual se declaró a **Quito** como **Patrimonio Cultural de la Humanidad.**
-
-Allí podrá conocer de cerca las **iglesias** que son fuente fundamental de la **identidad** quiteña y la **arquitectura monumental** de origen colonial[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")[](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Sin duda, uno de los mayores atractivos será el **Quitofest**, en el **Parque Bicentenario,** que se llevará a cabo hasta el **7 de diciembre**. Participarán **bandas nacionales** y **extranjeras**, en uno de los festivales más importantes de la música contemporánea que se lleva a cabo en **Quito**.
-
-La sal quiteña y su gastronomía creciente
------------------------------------------
-
-Uno de los eventos de suma importancia es el **Festival Sal Quiteña de gastronomía**, organizado por Quito Turismo. La capital ha tenido un **crecimiento de su cocina** que impresiona a propios y extraños.
-
-De hecho, este año, por primera vez, hay **cuatro restaurantes quiteños** que están en la lista de **The World’s 50 Best,** uno de los ránkings más importantes de la gastronomía mundial.
-
-Este festival se llevó a cabo en el **Centro de Eventos Bicentenario**. Más de 150 stands, de restaurantes, parrillas, huecas, entre otros, ofrecerán sus propuestas gastronómicas hasta el **domingo 8 de diciembre** del **2024**. Se espera que en todo este festival acudan más de **100 000 personas.**
-
-* * *
-
-<div class=”row” style=”  
-    background: #EAE1F3;  
-    border-radius: 8px;  
-“><div class=”col-12″><div class=”layout-rev layout-rev–square d-md-none”><ned-ad ad-name=”ad-slot-single-content-mpu” ad-jacent=”ad-jacent” id=”ned-ad-7-1732904620313-21″ ad-devices=”\[&quot;mobile&quot;\]” ad-handles-cls=”” ad-placeholder=”” ad-refreshes=”” ad-refresh-interval=”30″ ad-threshold=”20″ ad-type=”Square” ad-unit=”elcomercio\_middel\_ec” ad-unit-child=”notafinal\_middel\_ec” ad-top=”20″></ned-ad><style ned-ad=””></style></div><div class=”single-layout\_\_article”>  
-<p> </p><div class=”row gy-2″>  
-<div class=”col-12 col-md-5 text-left mas-podcast-b”>  
-<h3 class=”podcast-ec\_\_title”>Esperanza</h3>  
-<p class=”podcast-ec\_\_excerpt”>Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en <a href=”mailto:[podcast@elcomercio.com](mailto:podcast@elcomercio.com)“>[podcast@elcomercio.com](mailto:podcast@elcomercio.com)</a></p>  
-<div class=”podcast-ec\_\_subscribe”>  
-<span>Suscríbete</span>  
-<a href=”[https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6)” target=”\_blank” class=”podcast-ec\_\_subscribe-link podcast-ec\_\_subscribe-link–spotify”>Spotify</a>  
-<!– <a href=”[https://podcasts.apple.com/podcast/id1755649074](https://podcasts.apple.com/podcast/id1755649074)” target=”\_blank” class=”podcast-ec\_\_subscribe-link podcast-ec\_\_subscribe-link–apple”>Apple</a> –>  
-<!– <a href=”[https://www.youtube.com/playlist?list=PLw45tVGaLEBsKGYiCUxKqeWKEFUp4f5yg](https://www.youtube.com/playlist?list=PLw45tVGaLEBsKGYiCUxKqeWKEFUp4f5yg)” target=”\_blank” class=”podcast-ec\_\_subscribe-link podcast-ec\_\_subscribe-link–youtube”>Youtube</a> –>  
-<a href=”[https://rss.com/es/podcasts/esperanza1/?listen-on=true](https://rss.com/es/podcasts/esperanza1/?listen-on=true)” target=”\_blank” class=”podcast-ec\_\_subscribe-apps”>+Apps</a>  
-</div>  
-<a href=”[https://www.elcomercio.com/podcasts/esperanza-2.html](https://www.elcomercio.com/podcasts/esperanza-2.html)” target=”\_blank” class=”podcast-ec\_\_subscribe-archive”>ESCUCHA TODOS LOS EPISODIOS</a>  
-</div>  
-<div class=”col-12 col-md-7 mas-podcast-bs”>  
-<iframe style=”border-radius:12px” src=”[https://open.spotify.com/embed/show/4xKCziuizfBHEQM5JeQTK6?utm\_source=generator&amp;theme=0](https://open.spotify.com/embed/show/4xKCziuizfBHEQM5JeQTK6?utm_source=generator&theme=0)” width=”100%” height=”152″ frameborder=”0″ allowfullscreen=”” allow=”autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture” loading=”lazy”></iframe>  
-</div>  
-</div><p></p>  
-</div></div></div>
-
-Álex Arce se perfila para romper el récord de goleo en Liga Pro
-===============================================================
-
-Álex Arce es el máximo goleador de la LIga Pro 2024 y está camino a romper un récord que le pertenece a Jonathan Bauman en el campeonato.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Álex Arce, goleador de Liga de Quito, en un partido de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241109136557-fbl-ligapro-ecuabet-liga-independiente-1-scaled.jpg)
-
-**Álex Arce**, delantero paraguayo de Liga de Quito, es una de las figuras de la Liga Pro y está cerca de romper una marca. El futbolista igualó el **récord histórico de goles** en el torneo, solo en su temporada regular, y aún le quedan dos finales para quebrarlo.
-
-A inicios de 2024, Arce llegó al cuadro azucena como reemplazo del romperredes peruano Paolo Guerrero. Pese a que había sido goleador del **Independiente Rivadavia** argentino, en la segunda división de aquel país, le quedaba por demostrarlo en primera.
-
-### Más noticias:
-
-* [Liga de Quito se prepara para la salida de Álex Arce en 2025](https://www.elcomercio.com/deportes/alex-arce-liga-quito-2025.html "Liga de Quito se prepara para la salida de Álex Arce en 2025")
-* [¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-corre-riesgo-de-perder-alex-arce-para-2025.html "¿Liga de Quito corre el riesgo de perder a Alex Arce para 2025?")
-* [Alex Arce está muy cerca de romper el récord de goles la Liga Pro](https://www.elcomercio.com/deportes/futbol/alex-arce-esta-muy-cerca-de-romper-el-record-de-goles-la-liga-pro.html "Alex Arce está muy cerca de romper el récord de goles la Liga Pro")
-
-Con la escuadra azucena, Arce tuvo una adaptación inmediata y no solo brilló a nivel local, sino en los demás torneos que estuvieron los albos. Además del campeonato nacional, el cuadro universitario estuvo presente en **Copa Libertadores y Sudamericana**, así como Copa Ecuador.
-
-Su alta capacidad goleadora lo convirtió al paraguayo en el máximo anotador del plantel de Ponceano y de la Liga Pro. Con la casaca blanca acumula **33 goles y cuatro asistencias**, mientras que en el torneo de Ecuador, los tantos son 26.
-
-Con aquellos números dentro del campeonato ecuatoriano, **Álex Arce** igualó a Jonathan Bauman como el máximo goleador histórico de la Liga Pro. Este también consiguió **26 anotaciones** en 2021, sin embargo, lo hizo con las dos finales de aquel año incluido.
-
-¿A qué equipos le marcó Álex Arce con Liga de Quito?
-----------------------------------------------------
-
-Para llegar a los 26 tantos, **Álex Arce** le marcó a casi todos los equipos que disputaron la Liga Pro en 2024. Únicamente hubo tres clubes que no sufrieron la efectividad del seleccionado paraguayo, quien también llegó a la escuadra de su nación a partir del rendimiento de **Liga de Quito**.
-
-De los **15 rivales** que tuvieron los azucenas en el año, Arce les marcó a 12. Estos fueron: Aucas, Cumbayá, Delfín, Deportivo Cuenca, El Nacional, Imbabura, Independiente del Valle, Libertad, Macará, Mushuc Runa, Técnico Universitario, Universidad Católica.
-
-Los clubes a los que más goles le anotó Arce fueron **Imbabura y Universidad Católica**. A ambas escuadras les propinó tres tantos. Los únicos clubes que resistieron los embates del guaraní fueron **Barcelona SC, Emelec y Orense**.
-
-El mejor promedio de goles en la Liga Pro
------------------------------------------
-
-El delantero de **Liga de Quito** consiguió un promedio de goles superior al de todos los demás goleadores previos de la Liga Pro, establecida en 2019. El paraguayo **promedio 0.89** **tantos** por partido, una cifra superior a sus cinco antecesores.
-
-**Miguel Parrales** logró un promedio de 0.61 con 16 tantos en 26 partidos en 2023; **Francisco Fydriszewski**, 0.57 con 15 en 26 en 2022; **Jonathan Bauman**, 0.83 con 26 en 31 en 2021; **Cristian Martínez Borja**, 0.77 con 24 en 31 en 2020 y **Luis Amarilla** con 0.79 con 19 en 24.
-
-La oportunidad del récord para Álex Arce
-----------------------------------------
-
-Los próximos partidos de **Álex Arce**, para que supere el récord de Jonathan Bauman en la Liga Pro, serán el 7 y el 14 de diciembre del 2024. Allí, Liga de Quito tendrán los partidos finales del torneo ante Independiente del Valle.
-
-Una persona falleció tras caer en moto de un puente, en Quito
-=============================================================
-
-Agentes de la Agencia Metropolitana de Tránsito cerraron la av. 10 de Agosto mientras se solventaba la emergencia
------------------------------------------------------------------------------------------------------------------
-
-![El paso en la av. 10 de Agosto se cerró al tránsito vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-9-1.jpg)
-
-El **Cuerpo de Bomberos Quito** informó la mañana de este 6 de diciembre de 2024 sobre los procedimientos que realizaron para atender una emergencia en Quito tras **la caída de una moto**.
-
-### Más noticias
-
-* [De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html "De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito ")
-* [Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación](https://www.elcomercio.com/opinion/editorial/quito-identidad-fundacion-celebracion.html "Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación")
-* [Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?](https://www.elcomercio.com/actualidad/quito/quito-arbol-natural-navidad-40-metros-ubicado.html "Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?")
-
-El siniestro de tránsito
-------------------------
-
-Aproximadamente a las 07:00 de este **viernes 6 de diciembre,** el Cuerpo de Bomberos acudió a esta emergencia en la **av. 10 de Agosto y Orellana.**
-
-En el lugar se encuentra u**n intercambiador.** Según el reporte de los Bomberos, una **motocicleta cayó** aproximadamente 10 metros de altura desde el puente.
-
-Como consecuencia de este percance, **una persona falleció** y otra resultó herida.
-
-Personal de la Agencia Metropolitana de Tránsito **(AMT)** y de la Policía Nacional acudieron a tomar procedimiento.
-
-Los agentes de tránsito **cerraron el paso de vehículos** en el intercambiador mientras se solventaba la emergencia. Los paramédicos asistieron a la persona herida y le dieron atención prehospitalalria de emergencia.
-
-Miembros del **SIAT** se acercaron también para tomar procedimiento y posteriormente una unidad de Medicina Legal llegó al lugar.
-
-La **vía permaneció cerrada** mientras todos los procedimientos se realizaban y **se la habilitó** alrededor de las 09:00 de este 6 de diciembre de 2024.
-
-El Cuerpo de Bomberos pide a la ciudadanía **circular con precaución** y respetar los [límites de velocidad](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 💥 [#EmergenciasUIO](https://twitter.com/hashtag/EmergenciasUIO?src=hash&ref_src=twsrc%5Etfw) | A esta hora nuestro equipo atiende una emergencia por un siniestro en la Av. 10 de Agosto y Orellana.  
->   
-> 🏍️ Una motocicleta cayó desde un puente, aproximadamente 10 metros de altura, dejando como resultado un herido y una persona fallecida.  
->   
-> 👩🏻‍🚒 La vía se… [pic.twitter.com/gxyPZvgZCn](https://t.co/gxyPZvgZCn)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 6, 2024](https://twitter.com/BomberosQuito/status/1865015173947220418?ref_src=twsrc%5Etfw)
-
-Controles de velocidad
-----------------------
-
-La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
-
-Los **controles preventivos de velocidad** se retomarán nuevamente en Quito y se harán de manera periódica. Este viernes 6 de diciembre se realizó un en la mañana.
-
-**Viernes 6 de diciembre:**
-
-* De 07:30 a 08:30, av. Mariscal Sucre y S 37 E, en sentido sur-norte
-
-¿A qué hora se va la luz en Quito este 6 de diciembre y el fin de semana?
-=========================================================================
-
-Hoy, solamente cinco sectores residenciales tendrán cortes de luz. El resto de Quito no tendrá racionamientos.
---------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz se mantienen en cinco horas hasta el 8 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T123838.211.jpg)
-
-La Empresa Eléctrica Quito publicó la programación **de cortes de luz** para jueves 5, viernes 6, sábado 7 y domingo 8 de diciembre. Solamente para este viernes 6 de diciembre hay variación.
-
-### Más noticias
-
-* [¿Cuántos feriados quedan tras las fiestas de Quito?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-quedan-tras-fiestas-quito.html "¿Cuántos feriados quedan tras las fiestas de Quito?")
-* [¿Quién fundó Quito?](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-fiestas-sebastian-benalcazar.html "¿Quién fundó Quito? ")
-* [Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-partido-futbol-sabado-7-de-diciembre.html "Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre")
-
-Cortes de luz en Quito
-----------------------
-
-Los cortes de luz en Quito en lo que queda de la semana tendrán variación solamente el viernes 6 de diciembre por las fiestas.
-
-### Jueves 5, sábado 7, domingo 8 de diciembre
-
-Los cortes de luz en Quito se mantienen en cinco horas para los **sectores residenciales** y de siete para el **sector industrial** durante esta semana, a excepción del viernes 6 de diciembre.
-
-La suspensión del servicio eléctrico en las viviendas se realizará en **dos franjas**, de dos y de tres horas el **jueves 5, sábado 7 y domingo 8 de diciembre.**
-
-Mientras que en los sectores industriales los apagones serán de **17:00 a 24:00**.
-
-La capital tuvo días con apagones de hasta 14 horas; la **reducción paulatina** se debe a la mejora en los caudales de los ríos en la Amazonía y del Austro; así como a la venta de energía desde **Colombia** y otros proyectos de estabilización energética.
-
-### Viernes 6 de diciembre
-
-Este **viernes 6 de diciembre,** solamente **cinco sectores residenciales** tendrán cortes de luz. El resto de Quito no tendrá racionamientos de energía eléctrica, por sus fiestas.
-
-En cambio, el **sector industrial** mantiene el racionamiento de siete horas este día.
-
-Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito para **jueves 5, viernes 6, sábado 7 y domingo 8 de diciembre:**
-
-Ministerio redujo los cortes de luz a tres horas
-------------------------------------------------
-
-La noche del miércoles 4 de diciembre, el **Ministerio de Energía y Minas** informó que los cortes programados de energía **se reducirán a tres horas diarias** a escala nacional. Esta reducción se aplicará **desde la semana del 9 al 15 de diciembre** de 2024.
-
-Esta disminución es posible debido a diversos factores que han potenciado el **Sistema Energético** ecuatoriano, señaló el Ministerio.
-
-Entre ellos, el mejoramiento de las **condiciones hídricas** en los ríos que abastecen a las hidroeléctricas, la transferencia de electricidad desde **Colombia** y la nueva generación termoeléctrica.
-
-La entidad se refiere a proyectos como **El Salitral,** que ya cuenta con 23 motores térmicos para su funcionamiento en **Guayaquil**.
-
-El Gobierno indicó que se informará, oportunamente, los nuevos horarios a través de los **canales oficiales** del Gobierno Nacional y las **empresas proveedoras** del [servicio](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 📍\[COMUNICADO OFICIAL\]  
->   
-> 📌Sobre la situación actual del Sistema Energético Nacional, informamos a la ciudadanía lo siguiente⤵️ [pic.twitter.com/rprmouwTDF](https://t.co/rprmouwTDF)
-> 
-> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [December 5, 2024](https://twitter.com/RecNaturalesEC/status/1864476346291830964?ref_src=twsrc%5Etfw)
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito 
-======================================================================
-
-La fundación de Quito refleja el encuentro entre culturas indígenas y colonizadores españoles.
-----------------------------------------------------------------------------------------------
-
-![La conquista de Quito, tras la caída de Atahualpa. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/%C2%BFQuien-fundo-Quito-1.jpg)
-
-La **fundación de Quito**, un hito en la **historia ecuatoriana**, refleja el encuentro entre **culturas indígenas y colonizadores españoles**. A continuación, los eventos que llevaron a la creación de esta emblemática ciudad, las **figuras clave** involucradas y el **contexto histórico** que rodeó su establecimiento. 
-
-### Más noticias
-
-* [¿Quién fundó Quito?](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-fiestas-sebastian-benalcazar.html "https://www.elcomercio.com/tendencias/cultura/fundacion-quito-fiestas-sebastian-benalcazar.html") 
-* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html")
-
-**Historia detrás de la fundación de Quito**  
-----------------------------------------------
-
-En el **siglo XVI**, el territorio que hoy conocemos como Quito estaba bajo la influencia del **Imperio Inca**. Durante este tiempo, **Atahualpa y Huáscar**, dos hermanos, luchaban por el **control del imperio**. Esta **guerra civil** atrajo la atención de los c**onquistadores españoles** que buscaban riquezas. En 1533, Atahualpa fue capturado por **Francisco Pizarro**, lo que abrió las puertas a la llegada de los españoles a Quito, de acuerdo con la página de la [Asamblea Nacional del Ecuador](https://www.asambleanacional.gob.ec/es/blogs/rosa-elizabeth-cerda/87837-fundacion-de-quito "https://www.asambleanacional.gob.ec/es/blogs/rosa-elizabeth-cerda/87837-fundacion-de-quito").  
-
-La conquista fue motivada por **rumores sobre el tesoro de Atahualpa**. Dos expediciones se formaron: una liderada por **Pedro de Alvarado** desde Guatemala y otra por **Sebastián de Benalcázar** desde el sur. Benalcázar llegó primero a Quito, a decir del [Parlamento Andino](https://www.parlamentoandino.org/index.php/actualidad/noticias/877-fundacion-de-quito-ecuador-2 "https://www.parlamentoandino.org/index.php/actualidad/noticias/877-fundacion-de-quito-ecuador-2").  
-
-**Los fundadores de Quito**  
------------------------------
-
-La **fundación de Quito** se atribuye tradicionalmente a **Sebastián de Benalcázar**, quien estableció oficialmente la ciudad el **6 de diciembre de 1534**. Sin embargo, **Diego de Almagro** había realizado una primera fundación el 28 de agosto de 1534, cerca de la **laguna de Colta**. Esta primera fundación fue invalidada por el **rey Carlos I** porque Almagro **no tenía autorización** para establecer ciudades en ese territorio, según la web [Educación Ecuador](https://educacionecuadorministerio.blogspot.com/2019/12/resumen-6-de-diciembre-de-1534-fundacion-de-quito.html#google_vignette "https://educacionecuadorministerio.blogspot.com/2019/12/resumen-6-de-diciembre-de-1534-fundacion-de-quito.html#google_vignette").  
-
-**Benalcázar** decidió establecer la ciudad sobre las **cenizas del antiguo asentamiento** indígena, incendiado por **Rumiñahui** para evitar que los españoles encontraran recursos. La **ubicación** fue estratégica debido a su potencial para convertirse en un centro político y cultural, siguiendo con la Asamblea Nacional.  
-
-**¿Qué personajes históricos jugaron un papel importante?** 
-------------------------------------------------------------
-
-### **Atahualpa** 
-
-Fue **el último emperador inca** y un personaje central en la historia de la **fundación de Quito**. Durante su reinado, el **Imperio Inca** se encontraba en medio de una **guerra civil** contra su hermano **Huáscar**, lo que debilitó su **control sobre la región**. En 1533, Atahualpa fue capturado por **Francisco Pizarro** durante una reunión que resultó fatal para él. Su captura y **posterior ejecución** facilitaron la **llegada de los conquistadores** españoles a Quito, ya que eliminaron la **resistencia indígena** organizada en esa área, a decir del Parlamento Andino.  
-
-### **Rumiñahui** 
-
-Un **líder indígena** y general inca, también tuvo un papel crucial en la **historia de Quito**. Conocido por su valentía y estrategia militar, **Rumiñahui incendió la ciudad de Quito** antes de la llegada de los españoles para evitar que encontraran **recursos valiosos**. Este acto dejó el lugar en cenizas cuando **Sebastián de Benalcázar** llegó a establecer la nueva ciudad, según la web [Go Raymi](https://www.goraymi.com/es-ec/pichincha/quito/fundaciones/fundacion-quito-aa34iuedh#google_vignette "https://www.goraymi.com/es-ec/pichincha/quito/fundaciones/fundacion-quito-aa34iuedh#google_vignette").  
-
-### **Francisco Pizarro** 
-
-Fue el **conquistador español** que lideró la expedición que resultó en la **captura y ejecución de Atahualp**a. Su ambición por las **riquezas del Imperio Inca** motivó las expediciones hacia el norte, incluyendo a Quito. Pizarro no solo **facilitó la llegada de otros conquistadores**, sino que también estableció las bases del dominio español en el territorio ecuatoriano, siguiendo con el Parlamento Andino.  
-
-### **Pedro de Alvarado** 
-
-Fue **otro conquistador español** que intentó establecerse en Quito. Proveniente de Guatemala, **lideró una expedición riva**l a la de Benalcázar. Aunque no logró fundar la ciudad, su presencia contribuyó a las **tensiones entre los conquistadores** y al apuro con el que Almagro y Benalcázar actuaron para asegurar sus territorios, a decir de Go Raymi. 
-
-**Celebraciones anuales** 
---------------------------
-
-Cada año, el 6 de diciembre se celebra el **aniversario de la fundación de Quito** con gran fervor. Las festividades incluyen desfiles, conciertos y actividades culturales que resaltan la **identidad quiteña**. Este evento no solo conmemora el pasado, sino que también invita a reflexionar sobre el presente y futuro de la ciudad en un mundo globalizado. 
-
-¿Qué se celebra este 6 de diciembre?
-====================================
-
-En su 490 aniversario, Quito se reafirma como un símbolo de encuentro cultural y una joya del patrimonio histórico del Ecuador.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Quito conmemora 490 años de su fundación.](https://www.elcomercio.com/wp-content/uploads/2024/12/Feriado-fiestas-de-Quito.jpg)
-
-Desde el viernes 22 de noviembre, **Quito** vive intensamente sus tradicionales **fiestas**, cuya apertura oficial se dio con el **pregón**, evento que marca el inicio de las festividades. La celebración incluye un feriado especial este viernes 6 de diciembre de 2024[.](https://es.wikipedia.org/wiki/Historia_de_Quito "https://es.wikipedia.org/wiki/Historia_de_Quito")
-
-Más noticias
-------------
-
-* [Eventos y cierres viales durante la última semana de fiestas de Quito](https://www.elcomercio.com/actualidad/quito/eventos-cierres-vias-fiestas-quito-ultima-semana.html "Eventos y cierres viales durante la última semana de fiestas de Quito")
-* [Cortes de luz tendrán modificaciones por fiestas de Quito](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-tendran-modificaciones-por-fiestas-de-quito.html "Cortes de luz tendrán modificaciones por fiestas de Quito")
-* [Fiestas de Quito, ¿cuál plato define a la quiteñidad?](https://www.elcomercio.com/actualidad/quito/locro-papa-gastronomia-quito.html "Fiestas de Quito, ¿cuál plato define a la quiteñidad?")
-
-Durante estos días, las calles de la capital se han llenado de vida con **desfiles**, **conciertos** y eventos culturales. Sin embargo, surge una pregunta: ¿por qué las fiestas de **Quito** incluyen un feriado?
-
-Feriado por las fiestas de Quito
---------------------------------
-
-Este viernes 6 de diciembre de 2024 es **feriado** en **Quito**, en conmemoración de los 490 años de su fundación española. Este día permitirá a los quiteños disfrutar de un descanso extendido, que se prolongará hasta el domingo 8 de diciembre.
-
-Historia de la fundación de Quito
----------------------------------
-
-El 6 de diciembre de 1534 marcó un momento clave en la historia de **Quito** con su fundación española, que selló el inicio de una transformación cultural, política y social en los Andes. Este acontecimiento, liderado por **Sebastián de Benalcázar**, estableció la ciudad en su ubicación actual.
-
-La fundación no fue un hecho aislado. Meses antes, el mariscal **Diego de Almagro** ordenó la creación de **Santiago de Quito** en la actual **Riobamba**, como detalla el historiador Diego Garrido.
-
-Más tarde, el 28 de agosto del mismo año, se consolidó la **Villa de San Francisco de Quito**, con el fin de afianzar la **autoridad española** en la región.
-
-Finalmente, el 6 de diciembre, **Benalcázar** formalizó la fundación tras enfrentarse a la resistencia indígena liderada por **Rumiñahui**, quien incendió el asentamiento para evitar su ocupación.
-
-A pesar de ello, el cabildo fundacional incluyó a 204 vecinos españoles, marcando el inicio de una estructura urbana y administrativa que haría de Quito un eje estratégico en los Andes, tanto en la colonia como en la lucha independentista.
-
-Agenda cultural por las fiestas de Quito
-----------------------------------------
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Así funciona el Pico y placa en Quito este viernes 6 de diciembre, en feriado
-=============================================================================
-
-Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito.
--------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T152646.852.jpg)
-
-El **Pico y placa** es una restricción vehicular que rige en todo el Distrito Metropolitano de **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
-
-Esta **restricción excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
-
-### Más noticias
-
-* [Cortes de luz en Quito se mantienen en cinco horas hasta el domingo 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-se-mantienen-en-cinco-horas-hasta-el-domingo-8-de-diciembre.html "Cortes de luz en Quito se mantienen en cinco horas hasta el domingo 8 de diciembre")
-* [Cierres viales por instalación de puente en la Autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/cierres-viales-instalacion-puente-autopista-general-ruminahui.html "Cierres viales por instalación de puente en la Autopista General Rumiñahui")
-* [Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre](https://www.elcomercio.com/actualidad/quito/cierres-viales-quito-partido-futbol-sabado-7-de-diciembre.html "Cierres viales en Quito por partido de fútbol el sábado 7 de diciembre")
-
-Horarios de Pico y placa
-------------------------
-
-El Pico y placa se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
-
-Estos son los horarios de aplicación:
-
-* En la **mañana**: de 06:00 a 09:30
-* En la **tarde**: de 16:00 a 20:00
-
-El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
-
-Este viernes 6 de diciembre, no se aplica el **Pico y placa en Quito** por ser un feriado local.
-
-Multas por infringir el Pico y placa
-------------------------------------
-
-La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
-
-Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
-
-Recuerda retirar tu auto de las plazas de parqueo
--------------------------------------------------
-
-Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
-
-Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
-
-Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
-> 
-> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
-
-Almacenamiento de energía 
-==========================
-
-La transición energética impulsa nuevas tecnologías de almacenamiento como sistemas gravitatorios, térmicos y baterías avanzadas, adaptadas a diversas necesidades.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
-
-Con la preocupación por la **transición energética** y el **aumento de energía renovable**, la necesidad de **almacenar energía eléctrica** ha aumentado en escala exponencial. Aunque existen **tecnologías** como las baterías de iones de litio, estas tecnologías tienen limitaciones en cuanto a la **cantidad de energía** que pueden almacenar, así como su vida útil. ¿Qué soluciones alternativas existen para un mejor almacenamiento de **energía eléctrica**?
-
-Igual como se comentó en una entrega anterior sobre el **procesamiento de datos,** su complemento por esta y muchas otras razones, una de las principales preocupaciones es el **almacenamiento de energía** renovable necesaria para el **procesamiento de datos** en alto volumen.
-
-La **innovación energética** está en permanente evolución, hay muchas organizaciones, **centros de investigación y empresas** trabajando en la búsqueda de nuevas tecnologías para reducción de costos en el almacenamiento de energía. Gracias al resultado de las múltiples investigaciones y experimentos hay un abanico de respuestas prometedoras entre **gravitatoria, cinética, térmica, química y mecánica**. No podemos decir en el momento que hay una **tecnología** que sea superior a las demás en todos los aspectos, pero cada una se adapta mejor a determinadas necesidades, lo que finalmente las hace complementarias.
-
-Para el **almacenamiento mecánico** de energía se utiliza aire comprimido, en gas o líquido, donde en ambos casos el aire también puede sustituirse por otros gases como el **dióxido de carbono**. Aquí la **energía** empleada para la compresión, se libera cuando el fluido se descarga a gran velocidad accionando una turbina; para mayor eficiencia también se puede almacenar el calor y frío que se desarrollan en las **fases de comprensión y expansión del aire.** Esta tecnología que ya se utiliza industrialmente se ha visto limitado por la necesidad de disponer de **depósitos naturales** como cada caverna subterránea cerca de la localidad de empleo, que tiene disponibilidad limitada y tampoco muy fáciles de usar.
-
-También se ha diseñado almacenamiento utilizando volantes de inercia, **la gravedad y energía térmica** en las que un **motor eléctrico** acciona un cilindro giratorio a gran velocidad y luego lo frena donde la energía liberada por el cilindro al frenar es absorbida por el propio motor y transportada a un **generador de electricidad** como el caso de los frenos en un vehículo híbrido. Estos al momento no son competitivos por su costo elevado
-
-El **almacenamiento** por gravedad puede considerarse en una variante del **almacenamiento hidroeléctrico**, en el que grandes masas de agua se bombean desde un reservorio inferior a otra superior y luego se **genera electricidad en una central hidroeléctrica**. Este es el sistema más utilizado en el mundo. También se ha desarrollado **sistemas electromecánicos de almacenamiento gravitatorio** con grandes bloques de concreto que se elevan acumulando energía potencial que luego cuando se la necesita descienden movilizando un **generador de energía eléctrica** en una forma continua y eficaz.
-
-Los sistemas térmicos donde la **energía solar** o la que se almacena y luego se convierte en electricidad mediante un **ciclo termodinámico** que impulsa el **generador**. Existen varias **tecnologías alternativas**, pero todos los sistemas se basan en el principio de la bomba de calor para aumentar su eficiencia. Estos varían como baterías térmicas basadas en sales fundidas, arena u otro tipo de leche fluido para este propósito.
-
-También podemos mencionar el **almacenamiento químico**, mediante baterías donde hay múltiples innovaciones basándose en la **ciencia de los materiales**; donde aparte de litio hay baterías de mayor duración que se basa en la oxidación del hierro o combinación de hierro – fosfato así como baterías basadas en sodio o en zinc, evitando el uso de **materiales críticos** y tierras raras.
-
-También podemos mencionar las **baterías de flujos,** una tecnología alternativa donde el electrolito líquido se bombea entre electrodos donde ocurren las cargas y descargas de **electricidad** la más avanzada de estas **tecnologías** utiliza vanadio, pero se está buscando materiales más comunes y sostenibles como el hierro o fluidos orgánicos. Estos **baterías** tienen una vida útil más larga que la de litio y el desafío está en aumentar su eficiencia y reducir los costes.
-
-También ha salido a luz el desarrollo de las **baterías** de diamantes radioactivas que se estiman con duración de hasta 28 milenios que podrían cambiar radicalmente desde los **dispositivos portátiles** que utilizamos a diario hasta los sensores remotos ubicados en los entornos más hostiles como son la **exploración espacial** ofreciendo **energía limpia** y de larga duración que supera a las baterías convencionales basadas en químicos. La esencia de estas baterías es el uso de isótopos radioactivos como el carbono 14 o el níquel 63 incorporados a los carbonos similares al diamante, donde este isótopo sufre una **descarga radioactiva** que se lo conoce como partículas beta, electrones de **alta energía** que son fácilmente controlables con unos pocos milímetros de material como la carcasa de una batería haciendo que las posibilidades de **contaminación radiación** sean muy bajas; lo que les hace convenientes para **almacenamiento de largo plazo** como es el caso de los marcapasos o los viajes espaciales.
-
-La necesidad de mejoras, seguridad **ciclo de vida y eficiencia de costos** hace que estos avances puedan incorporarse rápidamente en la movilidad humana por aire, mar y tierra, donde hay que procurar reducir significativamente los **costos de energéticos** y las emisiones de gases de efecto invernadero para que esto se convierta en una realidad tangible y medible. Todos estos sistemas tienen su mercado natural en el área comercial e industrial, residencial, aeroespacial, automoción, comunicación, etc.
