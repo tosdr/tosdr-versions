@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Shield](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![BT Group](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
-* [![Veeam](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    BT unit took servers offline after Black Basta ransomware breach](https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/)
+* [![Android](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Veeam warns of critical RCE bug in Service Provider Console](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-bug-in-service-provider-console/)
-* [![Cloudflare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    New DroidBot Android malware targets 77 banking, crypto apps](https://www.bleepingcomputer.com/news/security/new-droidbot-android-malware-targets-77-banking-crypto-apps/)
+* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Cloudflare’s developer domains increasingly abused by threat actors](https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
+    New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
 
 ##### Follow us:
 
