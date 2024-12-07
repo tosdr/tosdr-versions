@@ -1,3 +1,9 @@
+[Athleta: Up to 60% off new markdowns + 10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/athleta?store=athleta&sourceName=sitewide-sticky-header)[Lenovo Canada: Cyber Week is here! Hottest prices of the season on PCs, accessories & more + 10% Cash Back
+
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/lenovo-canada?store=lenovo-canada&sourceName=sitewide-sticky-header)
+
 [](https://www.rakuten.ca/)
 
 EN
@@ -7,7 +13,7 @@ FR
 [Sign In](https://www.rakuten.ca/login?form) [Join Now](https://www.rakuten.ca/login?form)
 
 * [All Stores](https://www.rakuten.ca/stores "All Stores at Rakuten.ca")
-    * [🎁 Holiday Gifting](https://www.rakuten.ca/holiday-gifting "🎁 Holiday Gifting at Rakuten.ca")
+    * [⚡️10% Cash Back](https://www.rakuten.ca/flash-event "⚡️10% Cash Back at Rakuten.ca")
     
     * [Baby, Kids & Toys](https://www.rakuten.ca/stores/baby-kids-toys "Baby, Kids & Toys Promo Codes and Coupons")
         
@@ -89,9 +95,9 @@ FR
         
         6% Cash Back](https://www.rakuten.ca/suzyshier)[Moores
         
-        7.5% Cash Back](https://www.rakuten.ca/moores)[Simons
+        10% Cash Back](https://www.rakuten.ca/moores)[Simons
         
-        2% Cash Back](https://www.rakuten.ca/simons)
+        10% Cash Back](https://www.rakuten.ca/simons)
         
         Featured Shops & Deals
         
@@ -123,7 +129,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
-        3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
+        10% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
         20% Cash Back](https://www.rakuten.ca/nordvpn)
         
@@ -219,7 +225,7 @@ FR
         
         9% Cash Back](https://www.rakuten.ca/vistaprint-canada)[TSC
         
-        4.5% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
+        10% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
         
         2% Cash Back](https://www.rakuten.ca/swarovski-ca)[Mejuri
         
@@ -281,13 +287,13 @@ FR
         
         [Clinique
         
-        6% Cash Back](https://www.rakuten.ca/clinique)[SkinCeuticals Canada
+        10% Cash Back](https://www.rakuten.ca/clinique)[SkinCeuticals Canada
         
         6% Cash Back](https://www.rakuten.ca/skinceuticals)[Aveda
         
         3% Cash Back](https://www.rakuten.ca/aveda)[Clearly
         
-        up to 5% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
+        up to 10% Cash Back](https://www.rakuten.ca/clearly)[Estee Lauder Canada
         
         6% Cash Back](https://www.rakuten.ca/esteelauder)
         
@@ -301,7 +307,7 @@ FR
         
         MAC Cosmetics Canada
         
-        2% Cash Back](https://www.rakuten.ca/ticket/campaign/10CategoryFeaturedStores/store/mac-cosmetics-ca?sourceName=nav-menu)
+        10% Cash Back](https://www.rakuten.ca/ticket/campaign/10CategoryFeaturedStores/store/mac-cosmetics-ca?sourceName=nav-menu)
         
         [![](//static.rakuten.ca//static/images/blank.1.0.0.gif)
         
@@ -417,7 +423,7 @@ FR
         
         [Chewy
         
-        6% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
+        10% Cash Back](https://www.rakuten.ca/chewy)[PetSmart
         
         10% Cash Back](https://www.rakuten.ca/petsmart)[TEMU
         
@@ -517,7 +523,7 @@ FR
         
         [Flight Centre
         
-        up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[Vrbo
+        up to 10% Cash Back](https://www.rakuten.ca/flight-centre)[Vrbo
         
         3% Cash Back](https://www.rakuten.ca/vrbo)[Hotels.com
         
@@ -525,7 +531,7 @@ FR
         
         2% Cash Back](https://www.rakuten.ca/bikini-village)[Holiday Inn
         
-        6% Cash Back](https://www.rakuten.ca/holiday-inn)
+        10% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
@@ -560,7 +566,7 @@ FR
         
     * [See All Stores](https://www.rakuten.ca/stores "See All Stores at Rakuten.ca")
 * [Cyber Week: 3X Cash Back](https://www.rakuten.ca/cyber-monday "Increased Cash Back Promo Codes and Coupons at Rakuten.ca")
-* [🎁 Holiday Gifting](https://www.rakuten.ca/holiday-gifting " at Rakuten.ca")
+* [⚡️10% Cash Back](https://www.rakuten.ca/flash-event " at Rakuten.ca")
 * [Hot Deals](https://www.rakuten.ca/hot-deals "Hot Deals")
 * [Travel](https://www.rakuten.ca/stores/travel-vacations "Travel")
 * [Gift Card Shop](https://www.rakuten.ca/giftcardshop "Gift Card Shop")
