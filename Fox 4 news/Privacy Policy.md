@@ -401,9 +401,21 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/clothes-bag-tn.jpg?ve=1&tl=1)
+ [![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1)
 
- ![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/clothes-bag-tn.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
+ ![Lewisville police officer accused of sexually assaulting citizen while on duty](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/lewisville-police-officer-charged-filemon-perez.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
+
+### [Lewisville police officer accused of sexually assaulting citizen while on duty](https://www.fox4news.com/news/filemon-perez-lewisville-pd-official-oppression-sex-assault-charges)
+
+ [![Police: CEO killer likely left NYC on bus headed for Atlanta](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/gunamn-2box.jpg?ve=1&tl=1)
+
+ ![Police: CEO killer likely left NYC on bus headed for Atlanta](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/gunamn-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ceo-killer-likely-left-nyc-possible-escape-route-revealed)
+
+### [Police: CEO killer likely left NYC on bus headed for Atlanta](https://www.fox4news.com/news/ceo-killer-likely-left-nyc-possible-escape-route-revealed)
+
+ [![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/gunman-backpack.jpg?ve=1&tl=1)
+
+ ![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/gunman-backpack.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
 
 ### [CEO killing live updates: Backpack that may be linked to gunman found](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
 
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![High-fructose corn syrup could speed up tumor growth, study suggests](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/junk-food1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
 
 ### [Eating large amounts of foods that contain high-fructose corn syrup could speed up tumor growth, study suggests](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
-
- [![Video captures chaos as Richardson ISD bus driver is attacked](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/395-430p-tz-risd-bus-driver-assault-_00.00.03.06.jpg?ve=1&tl=1)
-
- ![Video captures chaos as Richardson ISD bus driver is attacked](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/395-430p-tz-risd-bus-driver-assault-_00.00.03.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-isd-bus-driver-assault-video)
-
-### [Video captures chaos as Richardson ISD bus driver is attacked](https://www.fox4news.com/news/richardson-isd-bus-driver-assault-video)
-
- [![Texas House Speaker: What do they do?](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/gettyimages-1233873800.jpg?ve=1&tl=1)
-
- ![Texas House Speaker: What do they do?](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/gettyimages-1233873800.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-phelan-cook)
-
-### [Texas House Speaker: What do they do?](https://www.fox4news.com/news/texas-house-speaker-phelan-cook)
 
 ###### [News](https://www.fox4news.com/news)
 
