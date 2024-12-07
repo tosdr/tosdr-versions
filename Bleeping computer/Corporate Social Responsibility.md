@@ -36,18 +36,18 @@
         
         Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
     
+    * [![Anna Jaques Hospital ransomware breach exposed data of 300K patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Anna Jaques Hospital ransomware breach exposed data of 300K patients](https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/)
+    * [![Tackle 2025 like a pro with MS Office 2024 — $30 off for Cyber Week](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Tackle 2025 like a pro with MS Office 2024 — $30 off for Cyber Week](https://www.bleepingcomputer.com/offer/deals/tackle-2025-like-a-pro-with-ms-office-2024-30-off-for-cyber-week/)
     * [![Get started on holiday shopping with a Costco Gold Star Membership](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Get started on holiday shopping with a Costco Gold Star Membership](https://www.bleepingcomputer.com/offer/deals/get-started-on-holiday-shopping-with-a-costco-gold-star-membership/)
     * [![Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
-    * [![Ultralytics AI model hijacked to infect thousands with cryptominer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-    * [![Blue Yonder SaaS giant breached by Termite ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Blue Yonder SaaS giant breached by Termite ransomware gang](https://www.bleepingcomputer.com/news/security/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
