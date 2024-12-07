@@ -235,11 +235,11 @@ Terms of Use
 
 [1st December 2024](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
-[![Hutchinson limps off the field against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/S-Hutchinson-2828-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+[![Tanganga joined the Lions as free agent after getting released by Tottenham. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Tanganga-22299-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-tanganga-suspension-injuries-opens-door-for-others-against-coventry-city/)
 
-### [Millwall duo set for scan after limping off against Oxford United](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+### [Millwall boss: Tanganga suspension, injuries opens door for others against Coventry City](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-tanganga-suspension-injuries-opens-door-for-others-against-coventry-city/)
 
-[30th November 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-striker-set-for-scan-after-limping-off-against-oxford-united/)
+[2nd December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-tanganga-suspension-injuries-opens-door-for-others-against-coventry-city/)
 
 ### Featured Articles
 
