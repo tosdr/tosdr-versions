@@ -1,13 +1,5 @@
 ![theme placeholder](https://qodeinteractive.com/wp-content/themes/masterds/assets/img/theme-placeholder.png)
 
-Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024
-
-Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024 Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount code: BLACKFRIDAY2024
-
-[](https://qodeinteractive.com/products/plugins/)
-
-[](#)
-
   [![logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png) ![dark logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png) ![light logo](https://qodeinteractive.com/wp-content/uploads/2019/09/logo.png)](https://qodeinteractive.com/)
 
 * [Qode Plugins & Templates](https://qodeinteractive.com/products/plugins/)
@@ -728,10 +720,10 @@ Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount cod
         * [Marketing](https://qodeinteractive.com/theme-category/marketing-wordpress-themes/)14
         * [Law](https://qodeinteractive.com/theme-category/law-wordpress-themes/)13
     * [Online Store](https://qodeinteractive.com/theme-category/online-store-wordpress-themes/)187
-    * [Wellness & Lifestyle](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)111
-        * [All](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)111
+    * [Wellness & Lifestyle](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)112
+        * [All](https://qodeinteractive.com/theme-category/wellness-lifestyle-wordpress-themes/)112
         * [Sport & Fitness](https://qodeinteractive.com/theme-category/sport-fitness-wordpress-themes/)51
-        * [Wellness](https://qodeinteractive.com/theme-category/wellness-wordpress-themes/)19
+        * [Wellness](https://qodeinteractive.com/theme-category/wellness-wordpress-themes/)20
         * [Beauty](https://qodeinteractive.com/theme-category/beauty-wordpress-themes/)19
         * [Fashion](https://qodeinteractive.com/theme-category/fashion-wordpress-themes/)15
         * [Lifestyle](https://qodeinteractive.com/theme-category/lifestyle-wordpress-themes/)7
@@ -768,38 +760,38 @@ Black Friday SALE 50% OFF on the Qi product line & all QODE plugins Discount cod
         * [Grey](https://qodeinteractive.com/theme-color/grey-wordpress-themes/)696
         * [Black](https://qodeinteractive.com/theme-color/black-wordpress-themes/)455
         * [Brown](https://qodeinteractive.com/theme-color/brown-wordpress-themes/)261
-        * [Beige](https://qodeinteractive.com/theme-color/beige-wordpress-themes/)490
+        * [Beige](https://qodeinteractive.com/theme-color/beige-wordpress-themes/)491
         * [Yellow](https://qodeinteractive.com/theme-color/yellow-wordpress-themes/)190
         * [Orange](https://qodeinteractive.com/theme-color/orange-wordpress-themes/)182
         * [Red](https://qodeinteractive.com/theme-color/red-wordpress-themes/)176
         * [Pink](https://qodeinteractive.com/theme-color/pink-wordpress-themes/)210
         * [Purple](https://qodeinteractive.com/theme-color/purple-wordpress-themes/)137
-        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)334
+        * [Blue](https://qodeinteractive.com/theme-color/blue-wordpress-themes/)335
         * [Turquoise](https://qodeinteractive.com/theme-color/turquoise-wordpress-themes/)171
-        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)272
+        * [Green](https://qodeinteractive.com/theme-color/green-wordpress-themes/)273
         * [Multicolor](https://qodeinteractive.com/theme-color/multi-wordpress-themes/)291
     * [Styles](#)
         * [Modern](https://qodeinteractive.com/theme-style/modern-wordpress-themes/)873
         * [Creative](https://qodeinteractive.com/theme-style/creative-wordpress-themes/)431
         * [Clean](https://qodeinteractive.com/theme-style/clean-wordpress-themes/)354
         * [Colorful](https://qodeinteractive.com/theme-style/colorful-wordpress-themes/)335
-        * [Elegant](https://qodeinteractive.com/theme-style/elegant-wordpress-themes/)332
+        * [Elegant](https://qodeinteractive.com/theme-style/elegant-wordpress-themes/)333
         * [Bold](https://qodeinteractive.com/theme-style/bold-wordpress-themes/)282
         * [Pastel](https://qodeinteractive.com/theme-style/pastel-wordpress-themes/)301
         * [Urban](https://qodeinteractive.com/theme-style/urban-wordpress-themes/)271
-        * [Feminine](https://qodeinteractive.com/theme-style/feminine-wordpress-themes/)226
+        * [Feminine](https://qodeinteractive.com/theme-style/feminine-wordpress-themes/)227
         * [Minimal](https://qodeinteractive.com/theme-style/minimal-wordpress-themes/)204
         * [Digital](https://qodeinteractive.com/theme-style/digital-wordpress-themes/)187
         * [Vintage](https://qodeinteractive.com/theme-style/vintage-wordpress-themes/)150
         * [Alternative](https://qodeinteractive.com/theme-style/alternative-wordpress-themes/)148
-        * [Luxurious](https://qodeinteractive.com/theme-style/luxurious-wordpress-themes/)133
+        * [Luxurious](https://qodeinteractive.com/theme-style/luxurious-wordpress-themes/)134
     * [Effects](#)
-        * [Scroll Animations](https://qodeinteractive.com/theme-effect/scroll-animations-wordpress-themes/)246
-        * [Typography Effects](https://qodeinteractive.com/theme-effect/typography-effects-wordpress-themes/)219
-        * [Parallax Effects](https://qodeinteractive.com/theme-effect/parallax-effects-wordpress-themes/)169
+        * [Scroll Animations](https://qodeinteractive.com/theme-effect/scroll-animations-wordpress-themes/)247
+        * [Typography Effects](https://qodeinteractive.com/theme-effect/typography-effects-wordpress-themes/)220
+        * [Parallax Effects](https://qodeinteractive.com/theme-effect/parallax-effects-wordpress-themes/)170
         * [Split Slider](https://qodeinteractive.com/theme-effect/split-slider-wordpress-themes/)157
         * [Smooth Page Transitions](https://qodeinteractive.com/theme-effect/smooth-page-transitions-wordpress-themes/)77
-        * [Intro Section Effects](https://qodeinteractive.com/theme-effect/intro-section-effects-wordpress-themes/)80
+        * [Intro Section Effects](https://qodeinteractive.com/theme-effect/intro-section-effects-wordpress-themes/)81
         * [Special Hovers](https://qodeinteractive.com/theme-effect/special-hovers-wordpress-themes/)81
         * [Special Effect Sliders](https://qodeinteractive.com/theme-effect/special-effect-sliders-wordpress-themes/)65
         * [Horizontal Scroll](https://qodeinteractive.com/theme-effect/horizontal-scroll-wordpress-themes/)62
@@ -999,7 +991,7 @@ Powered by Qode Interactive 2024
 
 Your cart is currently empty
 
-Subtotal: ~$0~ $0.00
+Subtotal: $0
 
 \*Taxes are calculated at the checkout
 
