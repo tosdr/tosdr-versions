@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/vaticaan-zet-kardinaal-klokkenluider-uit-functie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/singapore-gaat-covid-19-als-gewone-griep-behandelen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
