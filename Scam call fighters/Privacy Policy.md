@@ -9,7 +9,7 @@
 
 [Cược Ngay](https://bet668607.com/registered) [Cược 6686](https://bet668607.com/registered)
 
-![logo](/themes/colatv/assets/image/svg/icon-menu-mb.svg)
+![logo](https://cdnabc.online/themes/colatv/assets/image/svg/icon-menu-mb.svg)
 
 Saoke TV - Link trực tiếp bóng đá sao ke không QC, full HD
 ==========================================================
@@ -337,15 +337,15 @@ Trang xem [trực tiếp bóng đá](https://anstad.com/) (anstad.com)
 
 \> Xem toàn bộ nội dung <
 
-[![Saoke](/themes/colatv/assets/image/Logo_white_cola.png?r=1)](http://www.scamcallfighters.com/ "Saoke")
+[![Saoke](https://cdnabc.online/themes/colatv/assets/image/Logo_white_cola.png?r=1)](http://www.scamcallfighters.com/ "Saoke")
 
 Giới thiệu trang phunucodon.me - Saoke. Saoke TV - Trang web xem bóng đá trực tiếp Saoke tốc độ cao mang đến cảm giác thoải mái cho anh em. Tại sao ke tv cung cấp link trực tiếp bóng đá chất lượng cao. An tâm tận hưởng thể thao hoàn toàn miễn phí saoke tv.
 
 .
 
-[![Fb](/themes/colatv/assets/image/Fb_cola.png)](#) [![yt](/themes/colatv/assets/image/youtube.png)](#) [![in](/themes/colatv/assets/image/instagram.png)](#) [![x](/themes/colatv/assets/image/twitter.png)](#)
+[![Fb](https://cdnabc.online/themes/colatv/assets/image/Fb_cola.png)](#) [![yt](https://cdnabc.online/themes/colatv/assets/image/youtube.png)](#) [![in](https://cdnabc.online/themes/colatv/assets/image/instagram.png)](#) [![x](https://cdnabc.online/themes/colatv/assets/image/twitter.png)](#)
 
-![protect](/themes/colatv/assets/image/CN_cola.png)
+![protect](https://cdnabc.online/themes/colatv/assets/image/CN_cola.png)
 
 Trang web saoketvxb.cc đang chờ đăng ký giấy phép hoạt động.
 
@@ -363,7 +363,7 @@ Copyright 2023 by [saoketvxb.cc](http://www.scamcallfighters.com/ana-cooljapan.c
 
 x
 
-[![logo-ft](/themes/colatv/assets/image/Logo_cola.png?r=1)](#)
+[![logo-ft](https://cdnabc.online/themes/colatv/assets/image/Logo_cola.png?r=1)](#)
 
 * [Trang chủ](http://www.scamcallfighters.com/ "Trang chủ")
 * [Top ghi bàn](http://www.scamcallfighters.com/top-ghi-ban/ "Top ghi bàn")
@@ -372,7 +372,7 @@ x
 * [Bảng xếp hạng](http://www.scamcallfighters.com/bang-xep-hang/ "Bảng xếp hạng")
 * [Tin tức](http://www.scamcallfighters.com/tin-tuc/ "Tin tức")
 
-![](/themes/colatv/assets/image/svg/icon-scroll-top.svg)    
+![](https://cdnabc.online/themes/colatv/assets/image/svg/icon-scroll-top.svg)    
 
 [![live](https://megalive.vip/live/assets/image/Live.png)
 
