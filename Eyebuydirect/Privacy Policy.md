@@ -28,19 +28,19 @@
     
     [Eco Friendly![Eco Friendly](https://img.ebdcdn.com/cms/eco_frindly_icon_update_66c789cf2e.gif)](https://www.eyebuydirect.com/collections/sustainability "Eco Friendly")
     
-    [![Cyber Monday Sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    [![Phenomena](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Cyber Monday Sale](https://img.ebdcdn.com/cms/cyber_monday_sale_updated_1718e7ecea.jpg?q=85&seo=cyber-monday-sale)
+    ![Phenomena](https://img.ebdcdn.com/cms/Top_Nav_320_424_ee616f7a67.jpg?q=85&seo=phenomena)
     
-    Cyber Monday Sale](https://www.eyebuydirect.com/offers "Cyber Monday Sale")[![Under $50](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Phenomena](https://www.eyebuydirect.com/collections/phenomena "Phenomena")[![Tan France x eyebuydirect](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Under $50](https://img.ebdcdn.com/cms/Top_Nav_CM_EN_7faa9c7a20.jpg?q=85&seo=under-$50)
+    ![Tan France x eyebuydirect](https://img.ebdcdn.com/cms/Top_Nav_320_424_72b63d1c13.jpg?q=85&seo=tan-france-x-eyebuydirect)
     
-    Under $50](https://www.eyebuydirect.com/campaign/glasses-20-49 "Under $50")[![Best Sellers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    Tan France x eyebuydirect](https://www.eyebuydirect.com/collections/tan-france "Tan France x eyebuydirect")[![Transitions® GEN S™](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
     
-    ![Best Sellers](https://img.ebdcdn.com/cms/best_sellers_1a600058cb.jpg?q=85&seo=best-sellers)
+    ![Transitions® GEN S™](https://img.ebdcdn.com/cms/Top_Nav_320_424_73b18d42b5.jpg?q=85&seo=transitions®-gen-s™)
     
-    Best Sellers](https://www.eyebuydirect.com/collections/best-sellers "Best Sellers")
+    Transitions® GEN S™](https://www.eyebuydirect.com/prescription-lens/transitions "Transitions® GEN S™")
     
 * Sunglasses
     
