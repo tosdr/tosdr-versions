@@ -152,13 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/sale/ "Deals sichern!")
+[](https://www.emp.de/promotion/EMP-gluecksrad.html)
 
-Wenn weg, dann weg!
+Dreh' am Rad!
 
-Bis zu -70%
+Jetzt Geschenke sichern!
 
-[Deals sichern!](https://www.emp.de/sale/ "Deals sichern!")
+[Schlag zu!](https://www.emp.de/promotion/EMP-gluecksrad.html "Schlag zu!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 09:00 Uhr bis 14:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
