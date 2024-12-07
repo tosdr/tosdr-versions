@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
-* [Schnell­test Sprach­verstärker Oskar: Sprache beim Fernsehen besser verstehen](https://www.test.de/Schnelltest-Sprachverstaerker-Oskar-Sprache-beim-Fernsehen-besser-verstehen-5992192-0/ "Schnelltest Sprachverstärker Oskar - Sprache beim Fernsehen besser verstehen")
-* [Verpackungs­ärger: Buiteman's Sun Dried Tomato Biscuits](https://www.test.de/Verpackungsaerger-Buitemans-Sun-Dried-Tomato-Biscuits-5986964-0/ "Verpackungsärger - Buiteman's Sun Dried Tomato Biscuits")
-* [Cybertrading: Milliarden­betrug mit Schein­geschäften](https://www.test.de/Cybertrading-Milliardenbetrug-mit-Scheingeschaeften-6030342-0/ "Cybertrading - Milliardenbetrug mit Scheingeschäften")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
+* [Smarte Lampen im Test: Licht auf Befehl – für unter 20 Euro](https://www.test.de/Smarte-Lampen-im-Test-6072402-0/ "Smarte Lampen im Test - Licht auf Befehl – für unter 20 Euro")
+* [Project-Pleite: Fünf Lehren aus geplatzten Immobilien-Investments](https://www.test.de/Riskante-Immobilieninvestments-Fuenf-Lehren-aus-der-Project-Pleite-6102378-0/ "Project-Pleite - Fünf Lehren aus geplatzten Immobilien-Investments")
+* [Mikro­plastik in Kosmetik: Glitzer­glanz wird umwelt­freundlicher](https://www.test.de/Mikroplastik-in-Kosmetik-Glitzerglanz-wird-umweltfreundlicher-6075504-0/ "Mikroplastik in Kosmetik - Glitzerglanz wird umweltfreundlicher")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Stiftung Warentest
 
