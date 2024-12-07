@@ -24,11 +24,11 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/3KUTasJ)
+[](https://drawabox.com/rec/proko/figuredrawing)
 
-[](https://drawabox.com/rec/proko/drawingbasics)
+[](https://drawabox.com/rec/zapata/shading)
 
-[](https://amzn.to/3KZMtFM)
+[](https://amzn.to/2BA10no)
 
 [](https://drawabox.com/rec/uncomfortable/whattodraw)
 
