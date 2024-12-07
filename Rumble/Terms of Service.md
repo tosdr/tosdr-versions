@@ -446,121 +446,111 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Power Slap
-
-50.1K](https://rumble.com/v5ti4fe-power-slap-10-the-bell-vs-perez-friday-december-6th-at-9pm-et6pm-pt.html "Power Slap")
-
-[Badlands Media
-
-8.03K](https://rumble.com/v5wjs65-the-liberty-den-ep.-121-1030-pm-et-.html "Badlands Media")
-
-[Akademiks
-
-2.93K](https://rumble.com/v5wszob-kendrick-lamar-adds-second-show-in-toronto-cardi-b-spends-3-mil-a-month-her.html "Akademiks")
-
 [NEWSMAX
 
-1.77K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Bannons War Room
-
-1.02K](https://rumble.com/v5wua2b-mexico-and-marxism-ep-230-christianity-and-citizenship-hebroes-royce-white-.html "Bannons War Room")
-
-[Drew Hernandez
-
-820](https://rumble.com/v5wr8yt-obama-projects-maga-will-steal-elections-as-radical-dems-double-down.html "Drew Hernandez")
+1.16K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
 [Lofi Girl
 
-189](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+144](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
 3](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
 
-[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
+[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
 
-[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
 
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
 
-[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
+[Jim Breuer](https://rumble.com/c/JimBreuer "Jim Breuer")
 
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+[Sundae Conversation](https://rumble.com/c/SundaeConversation "Sundae Conversation")
 
-[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[Howard Lutnick](https://rumble.com/c/HowardLutnick "Howard Lutnick")
+[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
 
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
 
-[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+[Dr Disrespect](https://rumble.com/c/DrDisrespect "Dr Disrespect")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
 
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+[Boho Beautiful Yoga](https://rumble.com/c/BohoBeautiful "Boho Beautiful Yoga")
 
-[TalismanTate by Tristan Tate](https://rumble.com/c/TalismanTate "TalismanTate by Tristan Tate")
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
 
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+[Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Shaun Attwood](https://rumble.com/c/ShaunAttwood "Shaun Attwood")
+[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
-
-[ItGirl](https://rumble.com/c/ItGirl "ItGirl")
-
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
-
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
-
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
-
-[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[The Dan Bongino Show](https://rumble.com/c/Bongino "The Dan Bongino Show")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
-
-[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
-
-[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
-
-[SB Mowing](https://rumble.com/c/SBMowing "SB Mowing")
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
 
 [Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
 
+[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+
+[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+
+[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
+
+[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
+
+[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
+
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
+
+[New York Post](https://rumble.com/c/NYPost "New York Post")
+
+[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+
 [Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
+
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
+
+[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
+
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[JustKiddingNews](https://rumble.com/c/JustKiddingNews "JustKiddingNews")
+
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
 ### Theme
 
