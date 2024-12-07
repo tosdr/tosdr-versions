@@ -1,4 +1,4 @@
-Friday, December 6 2024
+Saturday, December 7 2024
 
 Breaking News
 
@@ -115,17 +115,17 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5875.webp-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
+    
+    [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
+    
+    December 5, 2024
+    
 * [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
     
     [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
     
     December 3, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/jail.jpg)](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
-    
-    [Conservatives Come Out Against Trump’s DEA Pick Over What He Did During COVID](https://www.conservativedailynews.com/2024/12/conservatives-come-out-against-trumps-dea-pick-over-what-he-did-during-covid/)
-    
-    December 2, 2024
     
 
 Recent Posts
@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Review: SIG Sauer ROMEO3MAX PRO Reflex Sight](https://www.thegunpage.com/review-sig-sauer-romeo3max-pro-reflex-sight/10612346)
 * [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
 * [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
 * [TFB Podcast Roundup 158: The December 6th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-158-the-december-6th-roundup/10612345)
@@ -190,7 +191,6 @@ Recent Posts
 * [KommandoStore's New South African Niemoller Rigs](https://www.thegunpage.com/kommandostores-new-south-african-niemoller-rigs/10612337)
 * [Michigan Man Mistakes Special Needs Granddaughter For Burglar And Shoots Her](https://www.thegunpage.com/michigan-man-mistakes-special-needs-granddaughter-for-burglar-and-shoots-her/10612328)
 * [Velocity Systems Reintroduces HK417 Chest Rig](https://www.thegunpage.com/velocity-systems-reintroduces-hk417-chest-rig/10612329)
-* [Why Are Gun-Ban Groups Embracing The Radical Trans Agenda?](https://www.thegunpage.com/why-are-gun-ban-groups-embracing-the-radical-trans-agenda/10612325)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
