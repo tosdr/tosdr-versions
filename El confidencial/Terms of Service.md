@@ -537,6 +537,7 @@ Volver Arriba
 * [Finanzas personales](https://www.elconfidencial.com/finanzas-personales/ "Finanzas personales")
 * [Vivienda](https://www.elconfidencial.com/vivienda/ "Vivienda")
 * [Inmobiliario](https://www.elconfidencial.com/inmobiliario/ "Inmobiliario")
+* [Caso Samuel Luiz](https://www.elconfidencial.com/tags/personajes/samuel-luiz-21444/ "Caso Samuel Luiz")
 
 [Vanitatis](https://www.vanitatis.elconfidencial.com/ "Vanitatis")
 
@@ -561,6 +562,7 @@ Servicios
 * [Horóscopo](https://www.vanitatis.elconfidencial.com/horoscopo/ "Horóscopo")
 * [Tags](https://www.elconfidencial.com/tags/ "Tags")
 * [Cotizaciones bolsa](https://www.elconfidencial.com/mercados/indice/ "Cotizaciones bolsa")
+* [DANA](https://www.elconfidencial.com/espana/2024-11-12/dana-valencia-espana-ultima-hora-directo_4001855/ "DANA")
 
 [Lotería](https://www.elconfidencial.com/sorteos-y-loterias/ "Lotería")
 
