@@ -74,7 +74,7 @@ Search site
 ###### [About Us](https://www.fox4news.com/about-us)
 
 * [Contact Us](https://www.fox4news.com/contact-us)
-* [Anchors and Reporters](https://www.fox4news.com/person/all)
+* [Anchors and Reporters](https://www.fox4news.com/team)
 * [Station History](https://www.fox4news.com/station-history)
 * [FAQ](https://www.fox4news.com/frequently-asked-questions)
 * [How to Stream](https://www.fox4news.com/fox-local)
@@ -450,7 +450,7 @@ Please contact the Site Administrator with any questions regarding this Agreemen
 ###### [About Us](https://www.fox4news.com/about-us)
 
 * [Contact Us](https://www.fox4news.com/contact-us)
-* [Anchors and Reporters](https://www.fox4news.com/person/all)
+* [Anchors and Reporters](https://www.fox4news.com/team)
 * [Station History](https://www.fox4news.com/station-history)
 * [FAQ](https://www.fox4news.com/frequently-asked-questions)
 * [How to Stream](https://www.fox4news.com/fox-local)
