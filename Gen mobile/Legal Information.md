@@ -348,7 +348,7 @@ Gen Mobile will notify you if any change is made to your account by sending a no
 
 Gen Mobile is required to notify law enforcement if Gen Mobile becomes aware of a breach of customer CPNI. Gen Mobile will also notify you of the breach following notification to law enforcement unless directed otherwise by the United States Secret Service or the FBI.
 
-![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
+![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile_Horiz_Logo_Red_1.png?v=1728949498)
 
   Find out about our latest deals!  Right
 
