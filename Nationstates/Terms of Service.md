@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [International Basketball Championship… (23)](https://forum.nationstates.net/viewtopic.php?t=559274&f=7&view=unread#unread ""International Basketball Championship 41 Signups (Open)" (23 posts)")
-* [What do you think of when you see the… (9,961)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,961 posts)")
-* [The New Order: Last Days of Europe (O… (206)](https://forum.nationstates.net/viewtopic.php?t=558570&f=31&view=unread#unread ""The New Order: Last Days of Europe (OOC|SIGN-UPS|OPEN)" (206 posts)")
-* [Guess Who BN Is! (8,314)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (8,314 posts)")
-* [December Giveaway (65)](https://forum.nationstates.net/viewtopic.php?t=559181&f=42&view=unread#unread ""December Giveaway" (65 posts)")
+* [YL Reacts to above video. (65)](https://forum.nationstates.net/viewtopic.php?t=556619&f=25&view=unread#unread ""YL Reacts to above video." (65 posts)")
+* [UnitedHealthcare CEO Assassinated (409)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (409 posts)")
+* [911, what is your \[not\] emergency? (1,239)](https://forum.nationstates.net/viewtopic.php?t=554757&f=25&view=unread#unread ""911, what is your [not] emergency?" (1,239 posts)")
+* [Wikipedia Game Vol. IV (1,210)](https://forum.nationstates.net/viewtopic.php?t=551271&f=25&view=unread#unread ""Wikipedia Game Vol. IV" (1,210 posts)")
 
 Advertisement
 
