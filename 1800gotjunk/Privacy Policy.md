@@ -153,6 +153,8 @@ Sub Menu
 
 search
 
+Our call center is busier than usual at the moment. For immediate service, please complete your [booking online](#). If you have any questions, please check our [FAQ page](https://www.1800gotjunk.com/us_en/frequently-asked-questions). 
+
 ![1-800-GOT-JUNK? team with a junk removal customer](/sites/default/files/hero-banner.jpg)
 
 ![Spring Cleaning 2022 Giveaway](/sites/default/files/mobile_tom_0.jpg)
@@ -645,6 +647,22 @@ Hailey Lynn Calgary 29/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
+
+ZENA MITCHELL Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Wonderful work done, quick and efficient and I would strongly recommend them!
+
+Mapple Calgary 28/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 This is my second time using GotJUNK - both positive experiences! Excellent communication and professional staff.
 
 Bev R Calgary 28/11/2024
@@ -664,22 +682,6 @@ Lorna Myers Calgary 28/11/2024
 They did such an amazing work for us today, thanks!
 
 Wiley Wang Calgary 28/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great service fromTyler and his colleague very quick and efficient. Very reasonable rates.
-
-ZENA MITCHELL Calgary 28/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Wonderful work done, quick and efficient and I would strongly recommend them!
-
-Mapple Calgary 28/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,6 +887,22 @@ Melanie Carey Monteregie Metro 19/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Geo and Josh did a great job. Very personable young men!
+
+Pattie Miller Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Jordan and Alex did a great job!!! Very quick!!! Awesome work!
+
+Derek Naples 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Dillon and Antoine did an awesome job - friendly efficient on-time thorough and great communication. Recommend them highly.
 
 Jeff Card Seattle 30/11/2024
@@ -1008,22 +1026,6 @@ Missy Munyon Austin 30/11/2024
 John and Alex were professional, courteous, helpful and efficient. They did a great job!
 
 Bob H Wisconsin 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Geo and Josh did a great job. Very personable young men!
-
-Pattie Miller Naples 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Jordan and Alex did a great job!!! Very quick!!! Awesome work!
-
-Derek Naples 30/11/2024
 
 ### 
 
