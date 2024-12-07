@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,757 members - 452,758,669 ads shown  
+131,758 members - 452,760,627 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,757 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,758 MEMBERS!  
   
   
 
@@ -55,18 +55,18 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://imgallery.llsvr.com/jeffaman.665f8c470cd25.gif)](https://track.toprated.vip/maryanne450)
+[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
-[![](https://geniecoop.com/ban33.gif)](https://geniecoop.com/nightmagic)
+[![](https://freeadvertisingforyou.com/images/125System.gif)](https://trackerboard.com/go.php?id=14703)
 
-[![](https://ymcempire.com/ban22.gif)](https://ymcempire.com/gr8traffic)
+[![](https://boomerangblaster.com/ban34.gif)](https://boomerangblaster.com/kdominator)
 
-[![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
+[![](https://boomerangblaster.com/banner2.gif)](https://boomerangblaster.com/nightmagic)
 
 ![](26yrs0.gif)
 
   
-© 100% custom website by [Maryanne Myers - Webstars2k Advertising Network](https://webstars2k.com/)  
+© 100% custom website by [Maryanne Myers, Owner of Webstars2k Super-Network](https://webstars2k.com/)  
 PHP Programmer + Internet Marketer + Web Designer + Network Owner.  
 In online business since 1998  
 [\--> MEMBER LOGIN HERE](https://pangea.group/login.php)    [PRIVACY](https://pangea.group/privacy.php)    [TERMS/POLICIES](https://pangea.group/terms.php)
