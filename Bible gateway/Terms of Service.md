@@ -45,7 +45,7 @@ account
 
 close
 
-[GO AD-FREE for AS LOW AS $3.33/mo! ACCESS $3,100 worth of premium resources to enhance your Biblical studies. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_goadfreeaslowas333_20241111)
+[Our BEST DEAL is HERE! Start your Bible study with a Bible Gateway Plus 14-DAY FREE trial!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_bestdealishere_20241111)
 
 close
 
