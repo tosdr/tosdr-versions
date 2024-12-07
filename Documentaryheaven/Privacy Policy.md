@@ -128,39 +128,39 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![September Clues](/wp-content/thumbnails/1588-100x70.jpg?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    September Clues
+    The Beginning and the End of the Universe
     
-    This comprehensive analysis of the 9/11 broadcasts shows how the mainstream media actively participated in the 9/11 false-flag operation aimed at generating public support for illegal wars. This media...](https://documentaryheaven.com/september-clues/ "September Clues")
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
 
 ###### Throwback Documentaries
 
-* [![100 Greatest Discoveries: Medicine](/wp-content/thumbnails/6027-100x70.jpg?x53432)
+* [![School Boys to Soldiers](/wp-content/thumbnails/6435-100x70.jpg?x53432)
     
-    100 Greatest Discoveries: Medicine
+    School Boys to Soldiers
     
-    Bill Nye takes us through some of the most important discoveries in medicine throughout our history, Like Andreas Vesalias digging up bodies by cover of night to dissect and learn about our anatomy, o](https://documentaryheaven.com/100-greatest-discoveries-medicine/ "100 Greatest Discoveries: Medicine")
-* [![An Inconvenient Truth](/wp-content/thumbnails/764-100x70.png?x53432)
+    A short Documentary, following an 18 year old Soldier: Charlie Morris - Cook. As he is home for Christmas with his family before he gets deployed to Afghanistan for the first time.](https://documentaryheaven.com/school-boys-to-soldiers/ "School Boys to Soldiers")
+* [![Drugs, inc: Hash](/wp-content/thumbnails/6373-100x70.jpg?x53432)
     
-    An Inconvenient Truth
+    Drugs, inc: Hash
     
-    “Director Davis Guggenheim eloquently weaves the science of global warming with Mr. Gore’s personal history and lifelong commitment to reversing the effects of global climate change. A longtime advoca](https://documentaryheaven.com/an-inconvenient-truth/ "An Inconvenient Truth")
-* [![Rising Gulf](/wp-content/thumbnails/5862-100x70.jpg?x53432)
+    A British man, known as Dave Kent has experienced the dangers of hash first-hand. An ex-smuggler imprisoned in a tough North African prison for three years, Dave provides you with an insight into the](https://documentaryheaven.com/drugs-inc-hash/ "Drugs, inc: Hash")
+* [![Dispatches: Undercover Copper](/wp-content/thumbnails/454-100x70.png?x53432)
     
-    Rising Gulf
+    Dispatches: Undercover Copper
     
-    This Dutch documentary examines the silent revolution that is taking place in the United Arab Emirates (and the Gulf region in general) where Bedouin tents have been replaced by luxury and indulgence.](https://documentaryheaven.com/rising-gulf/ "Rising Gulf")
-* [![There’s Something Wrong With Aunt Diane](/wp-content/thumbnails/10022-100x70.jpg?x53432)
+    Using secret cameras, an experienced policewoman spent four months undercover while serving as a police officer to conduct this revelatory investigation. Gaining unprecedented behind-the-scenes access](https://documentaryheaven.com/dispatches-undercover-copper/ "Dispatches: Undercover Copper")
+* [![Louis and the Brothel](/wp-content/thumbnails/4942-100x70.jpg?x53432)
     
-    There’s Something Wrong With Aunt Diane
+    Louis and the Brothel
     
-    In July of 2009 there was a traffic collision which occurred on the Taconic State Parkway, in a town near Briarcliff Manor, New York. The crash happened shortly after 1:30pm on the 26th which was a Su](https://documentaryheaven.com/theres-something-wrong-with-aunt-diane/ "There’s Something Wrong With Aunt Diane")
-* [![A Brilliant Madness](/wp-content/thumbnails/6576-100x70.jpg?x53432)
+    Intrepid TV host Louis Theroux reveals the inside story of day-to-day life in one of America’s largest legal brothels. Over six weeks of a summer, Louis moved in with Lance and Susan, the brothel owne](https://documentaryheaven.com/louis-and-the-brothel/ "Louis and the Brothel")
+* [![EP 4/4 Time – Cosmictime](/wp-content/thumbnails/2287-100x70.jpg?x53432)
     
-    A Brilliant Madness
+    EP 4/4 Time – Cosmictime
     
-    A Brilliant Madness is the story of a mathematical genius whose career was cut short by a descent into madness.At the age of 30, John Forbes Nash, a stunningly original and famously eccentric MIT ma](https://documentaryheaven.com/a-brilliant-madness/ "A Brilliant Madness")
+    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/ep-44-time-cosmictime/ "EP 4/4 Time – Cosmictime")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
