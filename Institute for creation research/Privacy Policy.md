@@ -95,63 +95,63 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
+More Back to Genesis
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/creeping-unawares)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/evolutionary_acceptance_misinformation_1400x1050.jpg)](https://www.icr.org/article/evolutionary-acceptance-and-misinformation)
 
-[Creeping in Unawares](https://www.icr.org/article/creeping-unawares/)
+[Evolutionary Acceptance and Misinformation](https://www.icr.org/article/evolutionary-acceptance-and-misinformation/)
 
-“For there are certain men crept in unawares...ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God,...
+A recent study claims that a majority (54%) of Americans now accept as true the statement “Human beings, as we know them today, developed from earlier...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/they-that-wait-upon-lord)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/intricate_animal_designs_demand_creator.jpg)](https://www.icr.org/article/intricate-animal-designs-demand-a-creator)
 
-[They That Wait upon the Lord](https://www.icr.org/article/they-that-wait-upon-lord/)
+[Intricate Animal Designs Demand a Creator](https://www.icr.org/article/intricate-animal-designs-demand-a-creator/)
 
-“But they that wait upon the LORD shall renew their strength; they shall mount up with wings as eagles; they shall run, and not be weary;...
+Evidence of our Creator is all around us. Romans 1:19-20 states, “What may be known of God is manifest in \[people\], for God has shown it to them....
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/water-spirit-conversion)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/BuildingHumBody.jpg)](https://www.icr.org/article/building-a-human-body)
 
-[Water and Spirit Conversion](https://www.icr.org/article/water-spirit-conversion/)
+[Building a Human Body: Jesus Christ's Amazing Engineering](https://www.icr.org/article/building-a-human-body/)
 
-“Verily, verily, I say unto thee, except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.” (John...
+When Charles Darwin formulated his theory of evolution, he appealed to the logic of ancestry, the evident diversity of species, and the magic of time....
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [GREGORY J. BREWER, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=113)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474089/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
 
-Defending the Faith](https://store.icr.org/dr-henry-morris-defending-the-faith.html)
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
 
-$12.99
+$29.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
 
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
-
-$24.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
 
 $19.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475587/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
 
-The Remarkable Journey of Jonah](https://store.icr.org/dr-henry-morris-the-remarkable-journey-of-jonah.html)
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
 
-$9.99
+$14.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+$19.99
 
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
 
-$16.99
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
