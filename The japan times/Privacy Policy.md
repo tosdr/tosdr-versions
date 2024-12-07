@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 07, 2024](https://www.japantimes.co.jp/archive/2024/12/07/ "archive page")
+[December 08, 2024](https://www.japantimes.co.jp/archive/2024/12/08/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -464,25 +464,25 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[88 arrested for soliciting prostitution near Tokyo park so far this year](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
-
-  [![A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438313.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A woman is arrested for soliciting prostitution near Okubo Park in Tokyo's Shinjuku Ward in October.")](https://www.japantimes.co.jp/news/2024/12/05/japan/crime-legal/japan-prostitution-arrests/ "88 arrested for soliciting prostitution near Tokyo park so far this year")
-
 [Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
 
   [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
-
-[Japanese companies weigh impact of South Korea's martial law chaos](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
-
-  [![Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438314.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
 
 [A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
   [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
+[Japan's honorific language can be challenging for native speakers, too](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
+
+  [![People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437732.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ")](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
+
 [Police may be able to use fake IDs to investigate _yami baito_](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
 
   [![A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
+
+[Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
+
+  [![Starbucks Coffee Japan will replace paper straws with plant-based biomass plastic straws from next month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Starbucks Coffee Japan will replace paper straws with plant-based biomass plastic straws from next month.")](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
 
 [What constitutes fatal dangerous driving in Japan?](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-44 mins ago
-
-[K-pop, carols and guillotines at South Korea impeachment protests](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/society/south-korea-protests/ "K-pop, carols and guillotines at South Korea impeachment protests")
-
-1 hour ago
-
-[Iran begins to evacuate military officials and personnel from Syria](https://www.japantimes.co.jp/news/2024/12/07/world/iran-evacuation-syria/ "Iran begins to evacuate military officials and personnel from Syria")
+[South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
 3 hours ago
 
-[Chugoku Electric restarts Shimane reactor for first time in 13 years](https://www.japantimes.co.jp/news/2024/12/07/japan/shimane-reactor-restart/ "Chugoku Electric restarts Shimane reactor for first time in 13 years")
-
-3 hours ago
-
-[Sister of ex-death row inmate Iwao Hakamada wins human rights award](https://www.japantimes.co.jp/news/2024/12/07/japan/hideko-hakamada-human-rights-award/ "Sister of ex-death row inmate Iwao Hakamada wins human rights award")
+[Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
 
 4 hours ago
+
+[Yoon impeachment vote puts focus on South Korea’s generational gap](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/south-korea-generational-divide/ "Yoon impeachment vote puts focus on South Korea’s generational gap")
+
+5 hours ago
+
+[Dozens arrested in overnight crackdown on Georgia pro-EU protests](https://www.japantimes.co.jp/news/2024/12/07/world/georgia-protesters-arrested/ "Dozens arrested in overnight crackdown on Georgia pro-EU protests")
+
+5 hours ago
+
+[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
+
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
