@@ -99,44 +99,44 @@ Authors of the website:
     We are a queer collective dedicated to assembling, researching, shaping and promoting gender neutral and nonbinary language. We also support actions towards equality and social justice.
 * アンディ [@and.y](https://en.pronouns.page/@and.y)  
     Moderation, Sources, Reports
-* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
-    English, Swedish, Italian (work in progress), Upcoming language versions
-* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
-    Moderation, Bans, Terminology
 * Benjamin [@therealbenpai](https://en.pronouns.page/@therealbenpai)  
     Moderation, Development, Community Programs, Support Services
-* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
-    code, language, blog, project coordination, user support
-* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
-    Moderation, Technical
-* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
-    English, Spanish (Español), Design, Translation, Moderation
-* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
-    moderation, terminology
-* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
-    moderation
-* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
-    translation, moderation, administration
-* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
-    Moderation, Technical
-* Laker T. [@laker](https://en.pronouns.page/@laker)  
-    Moderation, Sources
-* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
-    moderation, technical
-* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
-    language, sources
-* tecc [@tecc](https://en.pronouns.page/@tecc)  
-    programming, sysadmin, nitpicking
-* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
-    Project manager, User support, social media, English, Polish
-* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
-    language, sources
 * Torryn June 🌟 [@torrynjune](https://en.pronouns.page/@torrynjune)  
     German (Deutsch), administration, moderation, terminology, language, support
-* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
-    moderation, english
+* Diego M. [@GreenWithin](https://en.pronouns.page/@GreenWithin)  
+    English, Spanish (Español), Design, Translation, Moderation
+* Szymon Misiek [@szymon](https://en.pronouns.page/@szymon)  
+    language, sources
+* Asher [@jerryv](https://en.pronouns.page/@jerryv)  
+    moderation
+* Kevin [@kevinn](https://en.pronouns.page/@kevinn)  
+    moderation, technical
 * Jacob [@Fishmael](https://en.pronouns.page/@Fishmael)  
     English, Russian, moderation
+* Paweł Dembowski [@ausir](https://en.pronouns.page/@ausir)  
+    language, sources
+* Laker T. [@laker](https://en.pronouns.page/@laker)  
+    Moderation, Sources
+* Avery (They/Them) [@realAvery](https://en.pronouns.page/@realAvery)  
+    Moderation, Technical
+* \- Juniper [@botanicalyhuman](https://en.pronouns.page/@botanicalyhuman)  
+    Moderation, Bans, Terminology
+* Thomas Vos [@T\_Vos](https://en.pronouns.page/@T_Vos)  
+    Project manager, User support, social media, English, Polish
+* Andrea Vos [@andrea](https://en.pronouns.page/@andrea)  
+    code, language, blog, project coordination, user support
+* faera ☆ [@celestialflowers](https://en.pronouns.page/@celestialflowers)  
+    moderation, english
+* Claudio Nicoli Pannacci [@kappanneo](https://en.pronouns.page/@kappanneo)  
+    English, Swedish, Italian (work in progress), Upcoming language versions
+* Wren [@wrac4242](https://en.pronouns.page/@wrac4242)  
+    Moderation, Technical
+* Kory [@kory\_warning](https://en.pronouns.page/@kory_warning)  
+    translation, moderation, administration
+* lucjan [@kaslucji](https://en.pronouns.page/@kaslucji)  
+    moderation, terminology
+* tecc [@tecc](https://en.pronouns.page/@tecc)  
+    programming, sysadmin, nitpicking
 
 Contact & social media:
 
@@ -193,9 +193,9 @@ Stats:
 **all language versions** | [only this version](#)
 
 * Cards: **1.1M**
-* Unique visitors: **147.9k** / month
-* Page views: **890k** / month
-* Currently online: **30**
+* Unique visitors: **149.2k** / month
+* Page views: **898.4k** / month
+* Currently online: **49**
 * Registered users: **1M**
 * [heartbeat](https://heartbeat.pronouns.page/)
 
