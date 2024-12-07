@@ -80,6 +80,28 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ocasio-cortez-commitee-hearing-2-220x180.jpg)](https://americanwirenews.com/aoc-roasted-over-bid-for-ranking-member-of-house-committee-way-above-her-competency-level/)
+
+[AOC roasted over bid for ranking member of House committee: ‘Way above her competency level’](https://americanwirenews.com/aoc-roasted-over-bid-for-ranking-member-of-house-committee-way-above-her-competency-level/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-sg-thompson-suspect-220x180.jpg)](https://americanwirenews.com/authorities-find-bag-believed-to-belong-to-brian-thompsons-killer-as-manhunt-continues/)
+
+[Authorities find bag believed to belong to Brian Thompson’s killer as manhunt continues](https://americanwirenews.com/authorities-find-bag-believed-to-belong-to-brian-thompsons-killer-as-manhunt-continues/)
+
+Images via NYPD
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-daniel-penny-3-220x180.jpg)](https://americanwirenews.com/judge-dismisses-manslaughter-charge-against-daniel-penny-sends-jury-to-deliberate-on-lesser-charge/)
+
+[Judge dismisses manslaughter charge against Daniel Penny, sends jury to deliberate on lesser charge](https://americanwirenews.com/judge-dismisses-manslaughter-charge-against-daniel-penny-sends-jury-to-deliberate-on-lesser-charge/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-carvillej-1200-x-628-220x180.jpg)](https://americanwirenews.com/carville-insists-dems-would-have-won-if-only-tragic-biden-had-quit-sooner/)
+
+[Carville insists Dems would have won if only ‘tragic’ Biden had quit sooner](https://americanwirenews.com/carville-insists-dems-would-have-won-if-only-tragic-biden-had-quit-sooner/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-clyburnjcnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/clyburn-suggests-trumps-election-could-lead-to-new-jim-crow-era-theres-a-danger/)
+
+[Clyburn suggests Trump’s election could lead to new Jim Crow era: ‘There’s a danger’](https://americanwirenews.com/clyburn-suggests-trumps-election-could-lead-to-new-jim-crow-era-theres-a-danger/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-eric-adams-220x180.png)](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
 
 [Eric Adams doesn’t rule out re-joining the GOP](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
@@ -159,28 +181,6 @@ CFOTO/Future Publishing via Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-muskinterview-1200-x-628-220x180.jpg)](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
 
 [Now the left is crying about Musk’s ‘taste for revenge’](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-elonvivek1-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/doge-duos-meeting-with-gop-lawmakers-starts-with-naughty-or-nice-list-were-going-to-gut-the-fish/)
-
-[DOGE duo’s meeting with GOP lawmakers starts with ‘naughty’ or ‘nice’ list: ‘We’re going to gut the fish’](https://americanwirenews.com/doge-duos-meeting-with-gop-lawmakers-starts-with-naughty-or-nice-list-were-going-to-gut-the-fish/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2187666149-1-220x180.jpg)](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
-
-[House committee chairman vows to ‘fight’ after docs reveal ‘disgusting’ sexual misconduct at VA facility](https://americanwirenews.com/house-committee-chairman-vows-to-fight-after-docs-reveal-disgusting-sexual-misconduct-at-va-facility/)
-
-(Tom Williams/CQ-Roll Call, Inc via Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-todd-220x180.jpg)](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
-
-[Chuck Todd dismayed by irreparable ‘damage’ Hunter pardon will do to Dem Party, blasts ‘selfish’ Joe](https://americanwirenews.com/chuck-todd-dismayed-by-irreparable-damage-of-hunter-pardon-realization-of-selfish-joe-biden-sets-in/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-daniel-penny-2-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
-
-[Jordan Neely’s dad hits Daniel Penny with lawsuit as jury decides his fate](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dan-bongino-2-220x180.jpg)](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
-
-[Two GOP senators on defense after Bongino accuses them of sabotaging Pete Hegseth](https://americanwirenews.com/two-gop-senators-now-on-defense-after-bongino-accuses-them-of-sabotaging-pete-hegseth/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
