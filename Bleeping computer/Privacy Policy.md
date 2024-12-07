@@ -36,18 +36,18 @@
         
         Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
     
+    * [![Get started on holiday shopping with a Costco Gold Star Membership](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get started on holiday shopping with a Costco Gold Star Membership](https://www.bleepingcomputer.com/offer/deals/get-started-on-holiday-shopping-with-a-costco-gold-star-membership/)
+    * [![Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
     * [![Ultralytics AI model hijacked to infect thousands with cryptominer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
     * [![Blue Yonder SaaS giant breached by Termite ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Blue Yonder SaaS giant breached by Termite ransomware gang](https://www.bleepingcomputer.com/news/security/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
-    * [![New Windows zero-day exposes NTLM credentials, gets unofficial patch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
-    * [![Connect to your PC from anywhere with this AnyViewer Cyber Week deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Connect to your PC from anywhere with this AnyViewer Cyber Week deal](https://www.bleepingcomputer.com/offer/deals/connect-to-your-pc-from-anywhere-with-this-anyviewer-cyber-week-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
