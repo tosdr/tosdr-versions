@@ -141,61 +141,63 @@ Site activity
 
 New song
 
-[K.d. Lang - Close Your Eyes](https://lyricstranslate.com/en/kd-lang-close-your-eyes-lyrics)
+[K.d. Lang - The Joker](https://lyricstranslate.com/en/kd-lang-joker-lyrics)
 
 English
 
-[![missterkat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1400334-1553104624.jpg)](https://lyricstranslate.com/en/translator/missterkat "missterkat")
+[![Ms.Kivi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611894-1725271189.jpg)](https://lyricstranslate.com/en/translator/mskivi "Ms.Kivi")
 
 New translation
 
-[Valery Meladze - Не купишь любовь (Ne kupish' lyubov')](https://lyricstranslate.com/en/valery-meladze-ne-kupish-lyubov-spanish)
+[V (BTS) - Winter Ahead](https://lyricstranslate.com/en/v-bts-winter-ahead-ukrainian-0)
 
-Russian → Spanish
+English → Ukrainian
 
-[![ginos132](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1234850-1715549073.jpg)](https://lyricstranslate.com/en/translator/ginos132 "ginos132")
+[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1733267457.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
+
+New transcription request
+
+[Wicked (ost) - Populair (Popular)](https://lyricstranslate.com/en/wicked-ost-populair-popular-0)
+
+Flemish
+
+[![WinterPebbles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397256-1719464977.jpg)](https://lyricstranslate.com/en/translator/winterpebbles "WinterPebbles")
 
 New translation
 
-[David Parejo - Tú](https://lyricstranslate.com/en/david-parejo-tu-occitan)
+[Rauw Alejandro - Mil Mujeres](https://lyricstranslate.com/en/rauw-alejandro-mil-mujeres-english)
 
-Spanish → Occitan
+Spanish → English
 
-[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1726075144.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
-
-New translation
-
-[Metallica - So What](https://lyricstranslate.com/en/metallica-so-what-romanian)
-
-English → Romanian
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New comment
-
-\[video:https://www.youtube.com/...  [more](https://lyricstranslate.com/en/comment/1180059#comment-1180059)
-
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1733199886.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
 
 New song
 
-[K.d. Lang - Sunday](https://lyricstranslate.com/en/kd-lang-sunday-lyrics)
+[Mario Merola - Serenata smargiassa](https://lyricstranslate.com/en/mario-merola-serenata-smargiassa-lyrics)
 
-English
+Neapolitan
 
-[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
+[![giabsiarz](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/giabsiarz "giabsiarz")
 
 New translation
 
-[3000 Leagues in Search of Mother (OST) - かあさんの子守唄 (Kāsan no komori uta)](https://lyricstranslate.com/en/3000-leagues-sear-kasan-no-komori-uta-english)
+[SadSvit - Прощавай (Proshchavay)](https://lyricstranslate.com/en/sadsvit-proshchavay-polish)
 
-Japanese → English
+Ukrainian → Polish
 
-[![Flopsi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1331196-1552841802.jpg)](https://lyricstranslate.com/en/translator/flopsi "Flopsi")
+[![Ms.Kivi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611894-1725271189.jpg)](https://lyricstranslate.com/en/translator/mskivi "Ms.Kivi")
+
+New translation
+
+[V (BTS) - White Christmas](https://lyricstranslate.com/en/v-bts-white-christmas-ukrainian)
+
+English → Ukrainian
+
+[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
 
 New comment
 
-Lieben Dank!  [more](https://lyricstranslate.com/en/comment/1180058#comment-1180058)
+Né ̶a̶v̶e̶c̶ le cœur brisé -> J'aurais enlevé ...  [more](https://lyricstranslate.com/en/comment/1180385#comment-1180385)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
