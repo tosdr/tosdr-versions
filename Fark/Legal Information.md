@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [USC warning international students to return before they are ICEd out by the incoming administration](https://www.fark.com/goto/13486188) ( [cbsnews.com](https://www.fark.com/goto/13486188) ) » [(10 comments)](https://www.fark.com/comments/13486188/USC-warning-international-students-to-return-before-they-are-ICEd-out-by-incoming-administration) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight's MSNBC Discussion Threadt at 7PM ET arrived precisely when it intended to, and not a moment later](https://www.fark.com/goto/13486652) ( [msnbc.com](https://www.fark.com/goto/13486652) ) » [(11 comments)](https://www.fark.com/comments/13486652/Tonights-MSNBC-Discussion-Threadt-at-7PM-ET-arrived-precisely-when-it-intended-to-not-a-moment-later) |
-| [Sports](https://www.fark.com/sports/) | [Tonight on Smackdown: Elektra vs Tiffany vs Naomi in the Women's U.S. title tourney. Plus more fall out from Survivor Series. Maybe we will even find out what's Punk's "favor" from Paul Heyman is. Find out starting at 8 PM ET on USA](https://www.fark.com/goto/13486234) ( [wwe.com](https://www.fark.com/goto/13486234) ) » [(34 comments)](https://www.fark.com/comments/13486234/Tonight-on-Smackdown-Elektra-vs-Tiffany-vs-Naomi-in-Womens-US-title-tourney-Plus-more-fall-out-from-Survivor-Series-Maybe-we-will-even-find-out-whats-Punks-favor-from-Paul-Heyman-is-Find-out-starting-at-8-PM-ET-on-USA) |
-| [Business](https://www.fark.com/business/) | [Probably ghosts. Better not go there](https://www.fark.com/goto/13486150) ( [asiaone.com](https://www.fark.com/goto/13486150) ) » [(10 comments)](https://www.fark.com/comments/13486150/Probably-ghosts-Better-not-go-there) |
-| [STEM](https://www.fark.com/stem/) | [Subby made his share of mistakes in math class, but hopefully not one that will be studied by scholars 4000 yeas later like this Sumerian student](https://www.fark.com/goto/13486316) ( [msn.com](https://www.fark.com/goto/13486316) ) » [(6 comments)](https://www.fark.com/comments/13486316/Subby-made-his-share-of-mistakes-in-math-class-but-hopefully-not-one-that-will-be-studied-by-scholars-4000-yeas-later-like-this-Sumerian-student) |
-| [Entertainment](https://www.fark.com/entertainment/) | [How's your Whamageddon going this Christmas season?](https://www.fark.com/goto/13486394) ( [northjersey.com](https://www.fark.com/goto/13486394) ) » [(16 comments)](https://www.fark.com/comments/13486394/Hows-your-Whamageddon-going-this-Christmas-season) |
-| [Fandom](https://www.fark.com/fandom/) | [Muppet history is generally uplifting, but Muppet History has taken a dark turn for the site runners](https://www.fark.com/goto/13486018) ( [theverge.com](https://www.fark.com/goto/13486018) ) » [(17 comments)](https://www.fark.com/comments/13486018/Muppet-history-is-generally-uplifting-but-Muppet-History-has-taken-a-dark-turn-for-site-runners) |
-| [D'awww](https://www.fark.com/dawww/) | [Guy who never wanted a cat won't leave home without him now](https://www.fark.com/goto/13485242) ( [thedodo.com](https://www.fark.com/goto/13485242) ) » [(4 comments)](https://www.fark.com/comments/13485242/Guy-who-never-wanted-a-cat-wont-leave-home-without-him-now) |
-| [Food](https://www.fark.com/food/) | [When an all-you-can-eat sushi restaurant goes out of business, we all mourn](https://www.fark.com/goto/13485918) ( [masslive.com](https://www.fark.com/goto/13485918) ) » [(48 comments)](https://www.fark.com/comments/13485918/When-an-all-you-can-eat-sushi-restaurant-goes-out-of-business-we-all-mourn) |
-| [Politics](https://www.fark.com/politics/) | [USC warning international students to return before they are ICEd out by the incoming administration](https://www.fark.com/goto/13486188) ( [cbsnews.com](https://www.fark.com/goto/13486188) ) » [(10 comments)](https://www.fark.com/comments/13486188/USC-warning-international-students-to-return-before-they-are-ICEd-out-by-incoming-administration) |
+| [Main](https://www.fark.com/) | [Hey, let's take a moment to summarize some of the major goings-on at the Supreme Court over the past few years, shall we? I mean, how bad could it actually be. \*reads TFA\* Oh, my](https://www.fark.com/goto/13485760) ( [slate.com](https://www.fark.com/goto/13485760) ) » [(1 comment)](https://www.fark.com/comments/13485760/Hey-lets-take-a-moment-to-summarize-some-of-major-goings-on-at-Supreme-Court-over-past-few-years-shall-we-I-mean-how-bad-could-it-actually-be-reads-TFA-Oh-my) |
+| [Discussion](https://www.fark.com/discussion/) | [The uplifting coming-of-age 1995 masterpiece: Major Payne](https://www.fark.com/goto/13486578) ( [awesometerriblemovie.com](https://www.fark.com/goto/13486578) ) » [(9 comments)](https://www.fark.com/comments/13486578/The-uplifting-coming-of-age-1995-masterpiece-Major-Payne) |
+| [Sports](https://www.fark.com/sports/) | [Is Oklahoma State finally going to jettison their Gundy problem?](https://www.fark.com/goto/13486634) ( [msn.com](https://www.fark.com/goto/13486634) ) » [(9 comments)](https://www.fark.com/comments/13486634/Is-Oklahoma-State-finally-going-to-jettison-their-Gundy-problem) |
+| [Business](https://www.fark.com/business/) | [You will surprised to learn that Black Friday deals are usually just a scam](https://www.fark.com/goto/13486550) ( [dailydot.com](https://www.fark.com/goto/13486550) ) » [(8 comments)](https://www.fark.com/comments/13486550/You-will-surprised-to-learn-that-Black-Friday-deals-are-usually-just-a-scam) |
+| [STEM](https://www.fark.com/stem/) | [Wuhan lab samples did not hold any close relatives to COVID-19. Sorry, lab leak theorists, it's back to the wild animal market](https://www.fark.com/goto/13486478) ( [nature.com](https://www.fark.com/goto/13486478) ) » [(13 comments)](https://www.fark.com/comments/13486478/Wuhan-lab-samples-did-not-hold-any-close-relatives-to-COVID-19-Sorry-lab-leak-theorists-its-back-to-wild-animal-market) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The "Year" means writer's sophomore year](https://www.fark.com/goto/13486486) ( [pastemagazine.com](https://www.fark.com/goto/13486486) ) » [(1 comment)](https://www.fark.com/comments/13486486/The-Year-means-writers-sophomore-year) |
+| [Fandom](https://www.fark.com/fandom/) | [Cybertruck to pothole: oh, snap](https://www.fark.com/goto/13486458) ( [torquenews.com](https://www.fark.com/goto/13486458) ) » [(60 comments)](https://www.fark.com/comments/13486458/Cybertruck-to-pothole-oh-snap) |
+| [D'awww](https://www.fark.com/dawww/) | [Police Officers rescue injured owl on the side of the road outside their office](https://www.fark.com/goto/13486480) ( [yahoo.com](https://www.fark.com/goto/13486480) ) » [(0 comments)](https://www.fark.com/comments/13486480/Police-Officers-rescue-injured-owl-on-side-of-road-outside-their-office) |
+| [Food](https://www.fark.com/food/) | [FDA and USDA tired of chaos over food date labeling, seek suggestions on terms such as 'Sell By,' 'Use By' and 'Best By' before Trump's people come in and declare date labeling a restriction on Americans' freedom to eat anything at any time](https://www.fark.com/goto/13486598) ( [foodprocessing.com](https://www.fark.com/goto/13486598) ) » [(1 comment)](https://www.fark.com/comments/13486598/FDA-USDA-tired-of-chaos-over-food-date-labeling-seek-suggestions-on-terms-such-as-Sell-By-Use-By-Best-By-before-Trumps-people-come-in-declare-date-labeling-a-restriction-on-Americans-freedom-to-eat-anything-at-any-time) |
+| [Politics](https://www.fark.com/politics/) | [Hey, let's take a moment to summarize some of the major goings-on at the Supreme Court over the past few years, shall we? I mean, how bad could it actually be. \*reads TFA\* Oh, my](https://www.fark.com/goto/13485760) ( [slate.com](https://www.fark.com/goto/13485760) ) » [(1 comment)](https://www.fark.com/comments/13485760/Hey-lets-take-a-moment-to-summarize-some-of-major-goings-on-at-Supreme-Court-over-past-few-years-shall-we-I-mean-how-bad-could-it-actually-be-reads-TFA-Oh-my) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 06 2024 20:43:00  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 07 2024 02:43:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
