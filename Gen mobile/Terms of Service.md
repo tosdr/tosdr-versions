@@ -245,7 +245,7 @@ Please send notifications of infringement and counter notifications to our desig
 
 42.            **GEN MOBILE’S COMMITMENT.** Gen Mobile is committed to consumer protection and service quality as stated in our policies and in CTIA Consumer Code of Conduct, as applicable.
 
-![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile-logo-red-v2_400x.png?v=1649179654)
+![](//cdn.shopify.com/s/files/1/2954/7774/files/GenMobile_Horiz_Logo_Red_1.png?v=1728949498)
 
   Find out about our latest deals!  Right
 
