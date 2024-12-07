@@ -107,65 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
+[![Lobolyrix](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1224978-1552832837.jpg)](https://lyricstranslate.com/en/translator/lobolyrix "Lobolyrix")
+
+New translation
+
+[Amaral - Los demonios del fuego](https://lyricstranslate.com/en/amaral-los-demonios-del-fuego-german)
+
+Spanish → German
+
+[![eleventhour11](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1545564-1690913604.jpg)](https://lyricstranslate.com/en/translator/eleventhour11 "eleventhour11")
+
+New translation
+
+[Elvana Gjata - KARNAVAL](https://lyricstranslate.com/en/elvana-gjata-karnaval-italian)
+
+English → Italian
+
+[![HinKyto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109319-1557258566.png)](https://lyricstranslate.com/en/translator/hinkyto "HinKyto")
 
 New song
 
-[Mahasti - بیگانه](https://lyricstranslate.com/en/mahasti-biganeh-lyrics)
+[APHACA - Synger Bare](https://lyricstranslate.com/en/aphaca-synger-bare-lyrics)
 
-Persian
+Danish
+
+[![HinKyto](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1109319-1557258566.png)](https://lyricstranslate.com/en/translator/hinkyto "HinKyto")
+
+New translation
+
+[APHACA - Synger Bare](https://lyricstranslate.com/en/aphaca-synger-bare-english)
+
+Danish → English
+
+[![wuhuahua089](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1176962-1730035239.png)](https://lyricstranslate.com/en/translator/wuhuahua089 "wuhuahua089")
+
+New translation
+
+[Chuop Saroeun - កុំតែចោលអូន (Kom Tae Caol Oun)](https://lyricstranslate.com/en/chuop-saroeun-kom-tae-caol-oun-transliteration)
+
+Khmer → Transliteration
+
+[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
+
+Transcription request fulfilled
+
+[ไกลโพ้น \[Beyond\]](https://lyricstranslate.com/en/moana-2-ost-aiklophn-beyond-lyrics)
+
+Thai
+
+[![SLOR](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1456124-1713023678.jpg)](https://lyricstranslate.com/en/translator/slor "SLOR")
+
+New song
+
+[Moana 2 (OST) - ไกลโพ้น \[Beyond\]](https://lyricstranslate.com/en/moana-2-ost-aiklophn-beyond-lyrics)
+
+Thai
 
 [![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
 
-New comment
-
-Samurai Ondo (Original Edition) : \[video:https://...  [more](https://lyricstranslate.com/en/comment/1179983#comment-1179983)
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
 New translation
 
-[Nikolaus Lenau - Himmelstrauer](https://lyricstranslate.com/en/nikolaus-lenau-himmelstrauer-russian)
+[Great Mazinger (OST) - ジュンの歌 (Jun no uta)](https://lyricstranslate.com/en/great-mazinger-ost-jun-no-uta-transliteration)
 
-German → Russian
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New translation
-
-[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorc-madrigal-cibda-de-santi-russian)
-
-Galician → Russian
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New song
-
-[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorca-madrigal-cibda-de-santi-lyrics)
-
-Galician
-
-[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
-
-New song
-
-[Mahasti - مگیرش از من](https://lyricstranslate.com/en/mahasti-magirash-az-man-lyrics)
-
-Persian
-
-[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
-
-New translation
-
-[Federico García Lorca - Arqueros](https://lyricstranslate.com/en/federico-garcia-lorc-arqueros-romanian)
-
-Spanish → Romanian
-
-[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
-
-New comment
-
-Dacă iubești poezia ... Arcașii | Arqueros de ...  [more](https://lyricstranslate.com/en/comment/1179982#comment-1179982)
+Japanese → Transliteration
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
