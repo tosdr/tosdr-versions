@@ -86,33 +86,6 @@ Learn more
 
 [Contact Us](https://www.admarketplace.com/contact-us)
 
-Contact us
-----------
-
-I am a/an
-
-Advertiser
-
-Publisher
-
-Agency
-
-First Name
-
-Last Name
-
-Work email
-
-Title
-
-Company
-
-Thank you! Your submission has been received!
-
-Oops! Something went wrong while submitting the form.
-
-![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/64f20ae9aff4ad96e13cf6c8_x1.svg)
-
 Oops!
 =====
 
