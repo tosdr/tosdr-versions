@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How early can mesothelioma be detected?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-how-early-can-mesothelioma-be-detected-scaled.jpg "How Early Can Mesothelioma Be Detected?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-early-can-mesothelioma-be-detected/ "How Early Can Mesothelioma Be Detected?")
+[![What are the symptoms of malignant mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/mesothelioma-lawyer-what-are-the-symptoms-of-malignant-mesothelioma-scaled.jpg "What Are the Symptoms of Malignant Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/ "What Are the Symptoms of Malignant Mesothelioma?")
 
-[#### How Early Can Mesothelioma Be Detected?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/how-early-can-mesothelioma-be-detected/)
+[#### What Are the Symptoms of Malignant Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-symptoms-of-malignant-mesothelioma/)
 
-[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
+[![What is worse, asbestos or smoking?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-is-worse-asbestos-or-smoking.jpg "What Is Worse, Asbestos or Smoking?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/ "What Is Worse, Asbestos or Smoking?")
 
-[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
+[#### What Is Worse, Asbestos or Smoking?](https://www.pintas.com/practice-areas/lung-cancer/what-is-worse-asbestos-or-smoking/)
 
-[![What is the safest herbicide?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-the-safest-herbicide-scaled.jpg "What Is the Safest Herbicide?")](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-the-safest-herbicide "What Is the Safest Herbicide?")
+[![Where does ovarian cancer spread first?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-where-does-ovarian-cancer-spread-first-scaled.jpg "Where Does Ovarian Cancer Spread First?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-does-ovarian-cancer-spread-first/ "Where Does Ovarian Cancer Spread First?")
 
-[#### What Is the Safest Herbicide?](https://www.pintas.com/lawsuit/roundup-weed-killer/what-is-the-safest-herbicide)
+[#### Where Does Ovarian Cancer Spread First?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-does-ovarian-cancer-spread-first/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
