@@ -227,6 +227,10 @@ Search for:
 Travel and holidays
 ===================
 
+All Holidays Cruises Tours Package Holidays Hotels & Resorts Experiences Active
+
+Search
+
 * [Travel deals](https://restless.co.uk/travel/top-travel-deals/)
 * [Destinations](https://restless.co.uk/leisure-and-lifestyle/travel/holiday-destinations/)
     * [Popular destinations](https://restless.co.uk/travel/holiday-destinations/)
@@ -381,25 +385,8 @@ Menu
 * [Travel guides](https://restless.co.uk/travel/travel-guides/)
 * [Competitions](https://restless.co.uk/travel/travel-competitions/)
 
-[Search holiday deals](https://restless.co.uk/travel/find-holiday-deals/)
-
 Featured travel offers
 ----------------------
-
-*   [![Ancient Ruins, Paros & Santorini](https://travelmedia.restless.co.uk/traveldeals/images/exoticca/4913e8b6-cdaf-480f-9652-3267022330d4/f731c610-37dc-4a25-9c43-6db135df85c3-1080x608.webp)](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
-    
-    ### Exoticca [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
-    
-    Acropolis of Athens - Meteora - Paros - Santorini
-    
-    30% off | Greece | 10 days | Accommodation, Flights & Transfers Included
-    
-    Travel Tuesday Sale: Get up to 70% off selected deals.
-    
-    From £1,299pp £1,859pp  
-    
-    [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
-    
 
 [See top travel deals](https://restless.co.uk/travel/top-travel-deals/)
 
