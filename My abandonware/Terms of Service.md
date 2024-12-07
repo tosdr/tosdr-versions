@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Master of Monsters Final: Rings of Twilight](https://www.myabandonware.com/game/master-of-monsters-final-rings-of-twilight-thn)
+* [South Park: Chef's Luv Shack](https://www.myabandonware.com/game/south-park-chef-s-luv-shack-thm)
 * [Wolfie's Music Games](https://www.myabandonware.com/game/wolfie-s-music-games-tfk)
 * [Salad Scribble](https://www.myabandonware.com/game/salad-scribble-tfj)
 * [Paul's Classroom Math](https://www.myabandonware.com/game/paul-s-classroom-math-tfi)
-* [Lugnut Math City](https://www.myabandonware.com/game/lugnut-math-city-tfh)
-* [Googolpede](https://www.myabandonware.com/game/googolpede-tfg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
