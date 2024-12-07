@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![Towards Autonomous Surface Missions on Ocean Worlds](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Figure1_EuropaSurfaceImage.jpg)
-
-9 min read
-
-### Towards Autonomous Surface Missions on Ocean Worlds
-
-article3 days ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)[![NASA-Led Team Links Comet Water to Earth’s Oceans](https://science.nasa.gov/wp-content/uploads/2024/12/comet-67p.jpg)
+[![This illustration shows NASA’s Imaging X-ray Polarimetry Explorer (IXPE) spacecraft, at lower left, observing the newly discovered binary system Swift J1727.8-1613 from a distance. At the center is a black hole surrounded by an accretion disk, shown in yellow and orange, and a hot, shifting corona, shown in blue. The black hole is siphoning off gas from its companion star, seen behind the black hole as an orange disk. Jets of fast-moving, superheated particles stream from both poles of the black hole.](https://www.nasa.gov/wp-content/uploads/2024/12/swiftj-new.jpg?w=1024)
 
 5 min read
 
-### NASA-Led Team Links Comet Water to Earth’s Oceans
+### NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
 
-article3 days ago](https://science.nasa.gov/solar-system/comets/nasa-led-team-links-comet-water-to-earths-oceans/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article6 hours ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/)[![](https://images-assets.nasa.gov/image/jsc2024e044990/jsc2024e044990~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+
+8 min read
+
+### NASA Identifies Cause of Artemis I Orion Heat Shield Char Loss
+
+article1 day ago](https://www.nasa.gov/missions/artemis/nasa-identifies-cause-of-artemis-i-orion-heat-shield-char-loss/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 4 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![You Are Now Arriving at ‘Pico Turquino’](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2024/perseverance-rover-updates/Mars_Perseverance_FLF_1332_0785188907_602ECM_N0620538FHAZ02418_01_295J.png)
+article 4 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![This illustration shows NASA’s Imaging X-ray Polarimetry Explorer (IXPE) spacecraft, at lower left, observing the newly discovered binary system Swift J1727.8-1613 from a distance. At the center is a black hole surrounded by an accretion disk, shown in yellow and orange, and a hot, shifting corona, shown in blue. The black hole is siphoning off gas from its companion star, seen behind the black hole as an orange disk. Jets of fast-moving, superheated particles stream from both poles of the black hole.](https://www.nasa.gov/wp-content/uploads/2024/12/swiftj-new.jpg?w=1024)
+
+5 min read
+
+### NASA’s IXPE Details Shapes of Structures at Newly Discovered Black Hole
+
+article 6 hours ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes-of-structures-at-newly-discovered-black-hole/)[![Hubble Spots a Spiral in the Celestial River](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/spiral/Hubble_NGC1637_potw2449a.jpg)
 
 2 min read
 
-### You Are Now Arriving at ‘Pico Turquino’
+### Hubble Spots a Spiral in the Celestial River
 
-article 4 days ago](https://science.nasa.gov/blog/you-are-now-arriving-at-pico-turquino/)[![NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/xrism/News/2024/cygnus-x-3/Cyg_X-3_illustration_AC.jpg)
-
-4 min read
-
-### NASA, JAXA XRISM Mission Looks Deeply Into ‘Hidden’ Stellar System
-
-article 2 weeks ago](https://science.nasa.gov/missions/xrism/nasa-jaxa-xrism-mission-looks-deeply-into-hidden-stellar-system/)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
 
 ### Highlights
 
@@ -285,13 +285,13 @@ article 4 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-mee
 
 ### Highlights
 
-[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20map%202024-12-06%20114340.jpg)
+[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20Map%20-%20no%20legend.png)
 
 6 min read
 
 ### NASA Flights Map Critical Minerals from Skies Above Western US
 
-article 24 hours ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 1 day ago](https://science.nasa.gov/earth/nasa-flights-map-critical-minerals-from-skies-above-western-us/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
 
 4 min read
 
@@ -335,7 +335,7 @@ article 4 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-d
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 6 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
+article 13 hours ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
@@ -351,25 +351,25 @@ article 1 week ago](https://science.nasa.gov/universe/exoplanets/discovery-alert
 
 ### Highlights
 
-[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/1-leshin-med.jpg?w=1024)
 
-4 min read
+5 min read
 
-### NASA’s Hubble Takes the Closest-Ever Look at a Quasar
+### NASA JPL Unveils the Dr. Edward Stone Exploration Trail
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-takes-the-closest-ever-look-at-a-quasar/)[![Fresh Eyes on Ice Project Wins Award](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/fresh-eyes-on-ice.png)
+article 4 hours ago](https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/)[![Amendment 81: D.17 XRISM General Observer Deferred to ROSES-25](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/417/XRISM.jpeg)
 
 1 min read
 
-### Fresh Eyes on Ice Project Wins Award
+### Amendment 81: D.17 XRISM General Observer Deferred to ROSES-25
 
-article 1 day ago](https://science.nasa.gov/get-involved/citizen-science/fresh-eyes-on-ice-project-wins-award/)[![NASA flew an aircraft equipped with Uninhabited Aerial Vehicle Synthetic Aperture Radar (UAVSAR) flew above California fires on Sept. 3 and 10.](https://www.nasa.gov/wp-content/uploads/2023/05/jpegpia24102.width-1280.jpg?w=1024)
+article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-81-d-17-xrism-general-observer-deferred-to-roses-25/)[![Amendment 80: D.12 Theoretical and Computational Astrophysics Networks Deferred to ROSES-25](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/general/images/2023/04/art_of_astrophysics_0.jpg)
 
-4 min read
+1 min read
 
-### NASA’s C-20A Studies Extreme Weather Events
+### Amendment 80: D.12 Theoretical and Computational Astrophysics Networks Deferred to ROSES-25
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)
+article 6 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-80-d-12-theoretical-and-computational-astrophysics-networks-deferred-to-roses-25/)
 
 ### Highlights
 
@@ -439,29 +439,35 @@ article 2 weeks ago](https://www.nasa.gov/learning-resources/launch-your-career/
 
 ### Featured
 
-[![Coming Spring 2025: Planetary Defenders Documentary](https://science.nasa.gov/wp-content/uploads/2024/12/planetary-defenders-promotional-photo-1.jpg)
+[![A woman with glasses holds up a NASA and Artemis sticker as she sits down.](https://www.nasa.gov/wp-content/uploads/2024/12/servir-ca-launch3.jpg?w=1024)
 
-1 min read
+3 min read
 
-### Coming Spring 2025: Planetary Defenders Documentary
+### NASA, USAID Launch SERVIR Central American Hub
 
-article 3 days ago](https://science.nasa.gov/science-research/planetary-science/planetary-defense/planetary-defenders/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
+article 6 hours ago](https://www.nasa.gov/missions/servir/nasa-usaid-launch-servir-central-american-hub/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
 
 5 min read
 
 ### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
 
-article 4 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A person in a green flight suit watches as blue fluid floats out of a bottle during a microgravity flight.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-1997-c-02184-e1732721530755.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)[![A spacecraft is launching from a launch pad. Fire and smoke billows around the rocket as it lifts into the air.](https://www.nasa.gov/wp-content/uploads/2024/12/orion-eft-1-2-launch-dec-5-2014-201412050003hq.jpg?w=853)
 
-4 min read
+6 min read
 
-### NASA Plane Supported Innovative Microgravity Research in ‘90s
+### 10 Years Ago: Orion Flies its First Mission
 
-article 1 week ago](https://www.nasa.gov/general/nasa-plane-supported-innovative-microgravity-research-in-90s/)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/10-years-ago-orion-flies-its-first-mission/)
 
 ### Highlights
 
-[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
+[![](https://www.nasa.gov/wp-content/uploads/2024/12/p1020320.jpg?w=1024)
+
+11 min read
+
+### La NASA identifica causa de pérdida de material del escudo térmico de Orion de Artemis I
+
+article 6 hours ago](https://www.nasa.gov/es/la-nasa-identifica-causa-de-perdida-de-material-del-escudo-termico-de-orion-de-artemis-i/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
 
 4 min read
 
@@ -473,13 +479,7 @@ article 1 month ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-prime
 
 ### La NASA lleva un dron y un rover espacial a un espectáculo aéreo
 
-article 1 month ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)[![A man wearing a gray NASA shirt posing to the left of a subscale model or an aircraft that is orange and white with the NASA meatball on it. In the background, there are aviation posters located on the wall and another subscale model on display that is yellow and red.](https://www.nasa.gov/wp-content/uploads/2024/10/felipe-valdez-afrc-.jpg?w=1024)
-
-4 min read
-
-### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
-
-article 1 month ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
+article 1 month ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-nasa-lleva-un-dron-y-un-rover-espacial-a-un-espectaculo-aereo/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
