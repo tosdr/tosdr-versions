@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/science/weather-explainers/video/watch-as-large-balls-of-ice-crash-against-wisconsins-shores)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/science/weather-explainers/video/watch-as-large-balls-of-ice-crash-against-wisconsins-shores)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/storms/winter/video/freezing-waves-coat-lighthouse-in-ice)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/winter/video/freezing-waves-coat-lighthouse-in-ice)[Bios](https://weather.com/bios)
 
 Products
 --------
