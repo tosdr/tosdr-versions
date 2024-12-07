@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
-* [Kaffee­mühlen im Test: Präzision hat ihren Preis](https://www.test.de/Kaffeemuehlen-im-Test-Praezision-hat-ihren-Preis-6173662-0/ "Kaffeemühlen im Test - Präzision hat ihren Preis")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
-* [Drucker im Test: Die Druck­kosten unterscheiden sich enorm](https://www.test.de/Drucker-im-Test-4339831-0/ "Drucker im Test - Die Druckkosten unterscheiden sich enorm")
-* [Deutsche Bahn: Sofort-Storno­frist jetzt kürzer](https://www.test.de/Deutsche-Bahn-Sofort-Stornofrist-jetzt-kuerzer-6154530-0/ "Deutsche Bahn - Sofort-Stornofrist jetzt kürzer")
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Zinsen: Erste Bank aus Tschechien mit im Vergleich](https://www.test.de/Zinsen-Erste-Bank-aus-Tschechien-5987319-0/ "Zinsen - Erste Bank aus Tschechien mit im Vergleich")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Online-Schlaf­programme im Test: Zum Einschlafen gut](https://www.test.de/Online-Programme-gegen-Schlafstoerungen-im-Test-6110382-0/ "Online-Schlafprogramme im Test - Zum Einschlafen gut")
+* [Notrufuhren im Test: Diese Uhren rufen zuver­lässig Hilfe](https://www.test.de/Notrufuhren-im-Test-Diese-Uhren-rufen-zuverlaessig-Hilfe-6090509-0/ "Notrufuhren im Test - Diese Uhren rufen zuverlässig Hilfe")
+* [Mineral­wasser-Skandal in Frank­reich: Was deutsche Verbraucher wissen sollten](https://www.test.de/Mineralwasser-Skandal-in-Frankreich-Was-deutsche-Verbraucher-wissen-sollten-6178548-0/ "Mineralwasser-Skandal in Frankreich - Was deutsche Verbraucher wissen sollten")
 
 Stiftung Warentest
 
