@@ -71,4 +71,4 @@ Please choose your prefered video player and we’ll save your selection:
 [Check Out Our Latest Book!
 ==========================
 
-![](https://storylineonline.net/wp-content/uploads/2024/09/FreshJuiceWebsiteBookThumbnailImage.png)](https://storylineonline.net/books/fresh-juice)
+![](https://storylineonline.net/wp-content/uploads/2024/11/SoMuchSlimeThumbnail.png)](https://storylineonline.net/books/so-much-slime)
