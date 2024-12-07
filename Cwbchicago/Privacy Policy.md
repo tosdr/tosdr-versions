@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Julius-Reed-and-Dexter-Reed-326x245.jpg)](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+
+West Town
+
+### [Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+
+[December 4, 2024 2:21 PM](https://cwbchicago.com/2024/12)
+
+Last week, the city reached a settlement agreement with the estate of Dexter Reed, who was fatally shot by Chicago cops after he opened fire on them during a traffic stop. During a traffic stop three days later, officers allegedly found two guns in a car driven by Reed’s brother.[](https://cwbchicago.com/2024/12/cops-allegedly-find-2-guns-in-car-operated-by-brother-of-dexter-reed-the-man-killed-after-opening-fire-on-chicago-cops-during-a-traffic-stop.html "Cops allegedly find 2 guns in car operated by brother of Dexter Reed, the man killed after opening fire on Chicago cops during a traffic stop")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/03/Facebook-Marketplace-326x245.jpg)](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+
+Oakland
+
+### [16-year-old was part of robbery crew lurking in online marketplaces, police say](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+
+[December 4, 2024 10:03 AM](https://cwbchicago.com/2024/12)
+
+A 16-year-old boy is one of the armed robbers who’ve lured people into a trap through social media marketplace ads, according to Chicago police.[](https://cwbchicago.com/2024/12/16-year-old-was-part-of-robbery-crew-lurking-in-online-marketplaces-police-say.html "16-year-old was part of robbery crew lurking in online marketplaces, police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/David-Atwater-usps-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
 
 Morgan Park
@@ -252,26 +272,6 @@ Morgan Park
 [December 4, 2024 5:39 AM](https://cwbchicago.com/2024/12)
 
 Prosecutors have charged a man with robbing packages from a U.S. Postal Service mail carrier. The victim told police she recognized the robber because she had seen him in the neighborhood while making her rounds.[](https://cwbchicago.com/2024/12/man-charged-with-robbing-postal-worker-at-gunpoint-wheres-the-phones-at-you-move-i-shoot.html "Man charged with robbing postal worker at gunpoint; ‘Where’s the phones at? You move, I shoot’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/bb19-326x245.jpg)](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
-
-West Garfield Park
-
-### [Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
-
-[December 4, 2024 4:59 AM](https://cwbchicago.com/2024/12)
-
-Around 8:47 p.m. Tuesday, somebody called 911 for a person down in the 4000 block of West Wilcox. Everybody thought he was yelling and screaming because he was drunk or high. In fact, he had been shot. It’s too bad the mayor removed ShotSpotter from that block in September. That man could have really used it.[](https://cwbchicago.com/2024/12/shooting-victims-screams-are-mistaken-for-drunken-behavior-on-a-block-that-used-to-have-shotspotter.html "Shooting victim’s screams are mistaken for drunken behavior on a block that used to have ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Maurice-Lowry-and-suspects-326x245.jpg)](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
-
-Chatham
-
-### [CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
-
-[December 3, 2024 8:28 PM](https://cwbchicago.com/2024/12)
-
-Remember the guy who prosecutors said “busjacked” a #67 CTA bus three years ago? Well, he’s now accused of beating and robbing a man while riding a Red Line train.[](https://cwbchicago.com/2024/12/cta-busjacker-now-charged-with-robbing-sleeping-passenger-on-the-red-line.html "CTA ‘busjacker’ now charged with robbing sleeping passenger on the Red Line")
 
 Search
 
