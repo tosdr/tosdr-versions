@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-1200x630.jpg)](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pixabay-arrest-1200x630.jpg)](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
 
-[Jury in Daniel Penny case reportedly deadlocked. Here’s what happens next…](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
+[Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-1200x630.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-njf-mugshots-1200x630.jpg)](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
 
-(Photo by Kevin Dietsch/Getty Images)
+[Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
 
-[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncharrison-1200-x-628-1200x630.jpg)](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tania-fernandes-anderson-1200x630.jpg)](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
+[Outgoing DNC chairman advises party to stick with losing narrative](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
 
-[‘Formerly undocumented immigrant’ who became Boston city councilor arrested on public corruption charges](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-olsonkennedy-1200x630.jpg)](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-blanche-1200x630.jpg)](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+[Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
 
-[Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetherston-1200x630.jpg)](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-melania-trump-1200x630.jpg)](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
+[Insider speaks out about child rape, violence at Massachusetts shelters for migrants](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
 
-[Melania dishes on Trump’s ‘unique’ dance, Barron and returning to the WH in wide-ranging Fox interview](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hcso-paul-1200x630.jpg)](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obamadnc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
+[Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
 
-[Obama accuses GOP of dirty deeds the Dems are doing, but something’s off with his delivery](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcdowell-1200x630.jpg)](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-jim-jordan-1200x630.jpg)](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
+[Fox Business anchor shreds James Carville: He’s not ‘some sort of wise southern soothsayer’](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
 
-[Fed law enforcement used banks to gain access to Americans’ financial info without warrants, House Judiciary finds](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-oreilly-1200x630.jpg)](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-2-1200x630.jpg)](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
+[O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
 
-[‘Pete is a WINNER!’ Trump posts full-throttled support behind Hegseth, blasts ‘Fake News’ saying otherwise](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-welker-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-1200x630.png)
-
-### Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
+### NBC’s Kristen Welker springs Hegseth drinking smear on Trump, he shuts her down with class](https://americanwirenews.com/nbcs-kristen-welker-springs-hegseth-drinking-smear-on-trump-he-shuts-her-down-with-class/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,26 @@ Search for:
 ### [‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
+
+[CNN panel devolves into chaos as host tries to break for commercials: ‘We got to go. Stop talking!’](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joy-rachel-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/more-bad-news-for-msnbc-as-ratings-enter-post-election-death-spiral/)
+
+[More bad news for MSNBC as ratings enter post-election death spiral](https://americanwirenews.com/more-bad-news-for-msnbc-as-ratings-enter-post-election-death-spiral/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-gregcasar-1200-x-628-220x180.jpg)](https://americanwirenews.com/defying-calls-to-moderate-house-dems-tap-anti-cop-firebrand-for-leadership-spot/)
+
+[Defying calls to moderate, House Dems tap anti-cop firebrand for leadership spot](https://americanwirenews.com/defying-calls-to-moderate-house-dems-tap-anti-cop-firebrand-for-leadership-spot/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tim-walz-6-220x180.jpg)](https://americanwirenews.com/tim-walz-cries-over-spilled-milk-in-first-interview-since-election-walloping/)
+
+[Tim Walz cries over spilled milk in first interview since election walloping](https://americanwirenews.com/tim-walz-cries-over-spilled-milk-in-first-interview-since-election-walloping/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jeanpierre-1-220x180.jpg)](https://americanwirenews.com/literally-got-a-poll-backwards-kjp-gets-lit-up-over-claim-64-of-americans-support-hunter-pardon/)
+
+[‘Literally got a poll backwards’: KJP gets lit up over claim 64% of Americans support Hunter pardon](https://americanwirenews.com/literally-got-a-poll-backwards-kjp-gets-lit-up-over-claim-64-of-americans-support-hunter-pardon/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ocasio-cortez-commitee-hearing-2-220x180.jpg)](https://americanwirenews.com/aoc-roasted-over-bid-for-ranking-member-of-house-committee-way-above-her-competency-level/)
 
@@ -102,9 +120,29 @@ Images via NYPD
 
 [Clyburn suggests Trump’s election could lead to new Jim Crow era: ‘There’s a danger’](https://americanwirenews.com/clyburn-suggests-trumps-election-could-lead-to-new-jim-crow-era-theres-a-danger/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
+
+[Melania dishes on Trump’s ‘unique’ dance, Barron and returning to the WH in wide-ranging Fox interview](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-jim-jordan-220x180.jpg)](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
+
+[Fed law enforcement used banks to gain access to Americans’ financial info without warrants, House Judiciary finds](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
+
+[Jury in Daniel Penny case reportedly deadlocked. Here’s what happens next…](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-eric-adams-220x180.png)](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
 
 [Eric Adams doesn’t rule out re-joining the GOP](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-2-220x180.jpg)](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
+
+[‘Pete is a WINNER!’ Trump posts full-throttled support behind Hegseth, blasts ‘Fake News’ saying otherwise](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obamadnc-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
+
+[Obama accuses GOP of dirty deeds the Dems are doing, but something’s off with his delivery](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1247549126-220x180.jpg)](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
 
@@ -112,75 +150,35 @@ Images via NYPD
 
 CFOTO/Future Publishing via Getty Images
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-blanche-220x180.jpg)](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+
+[Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-220x180.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+
+[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+
+(Photo by Kevin Dietsch/Getty Images)
+
 [![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Milley-220x180.jpg)](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
 
 [WH officials reportedly considering pre-emptive pardon for Gen. Milley and more](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
+
+[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
 [Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tania-fernandes-anderson-220x180.jpg)](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
+
+[‘Formerly undocumented immigrant’ who became Boston city councilor arrested on public corruption charges](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-burning-candles-220x180.jpg)](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
 
 [Air fresheners, candles, incense emit chemicals and ‘toxic gases’ linked to cancer, other diseases, study finds](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-patriot-award-220x180.png)](https://americanwirenews.com/trump-accepts-fox-nation-patriot-of-the-year-award-as-only-he-can/)
-
-[Trump accepts FOX Nation ‘Patriot of the Year’ award as only he can](https://americanwirenews.com/trump-accepts-fox-nation-patriot-of-the-year-award-as-only-he-can/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-ernst-220x180.jpg)](https://americanwirenews.com/joni-ernst-supports-transgender-inclusion-in-military-puts-political-career-in-serious-jeopardy/)
-
-[Joni Ernst supports transgender inclusion in military, puts political career in serious jeopardy](https://americanwirenews.com/joni-ernst-supports-transgender-inclusion-in-military-puts-political-career-in-serious-jeopardy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-health-insurance-220x180.jpg)](https://americanwirenews.com/insurance-giant-walks-back-controversial-new-policy-after-people-celebrate-unitedhealthcare-ceo-being-gunned-down/)
-
-[Insurance giant walks back controversial new policy after people celebrate UnitedHealthcare CEO being gunned down](https://americanwirenews.com/insurance-giant-walks-back-controversial-new-policy-after-people-celebrate-unitedhealthcare-ceo-being-gunned-down/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-220x180.jpg)](https://americanwirenews.com/scott-jennings-lays-out-specific-plan-to-hegseth-for-combating-smears/)
-
-[Scott Jennings lays out specific plan to Hegseth for combating smears](https://americanwirenews.com/scott-jennings-lays-out-specific-plan-to-hegseth-for-combating-smears/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-transcapitol-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/chelsea-manning-included-in-arrests-as-men-dressed-like-women-invaded-capitol-ladies-room/)
-
-[Chelsea Manning included in arrests as men dressed like women invaded Capitol ladies’ room](https://americanwirenews.com/chelsea-manning-included-in-arrests-as-men-dressed-like-women-invaded-capitol-ladies-room/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetterman-musk-220x180.jpg)](https://americanwirenews.com/bipartisanship-for-the-win-fetterman-praises-musk-says-hes-open-to-working-with-doge-heads/)
-
-[Bipartisanship for the win: Fetterman praises Musk, says he’s open to working with DOGE heads](https://americanwirenews.com/bipartisanship-for-the-win-fetterman-praises-musk-says-hes-open-to-working-with-doge-heads/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-220x180.png)](https://americanwirenews.com/kaitlan-collins-surprised-when-hegseths-attorney-said-his-accuser-is-free-to-speak/)
-
-[Kaitlan Collins surprised when Hegseth’s attorney said his accuser ‘is free to speak’](https://americanwirenews.com/kaitlan-collins-surprised-when-hegseths-attorney-said-his-accuser-is-free-to-speak/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kamala-call-her-daddy-220x180.jpg)](https://americanwirenews.com/call-her-daddy-host-says-kamalas-fake-set-was-more-than-real-studio-i-dont-know-how-cardboard-walls-could-cost-six-figures/)
-
-[‘Call Her Daddy’ host says Kamala’s fake set was more than real studio: ‘I don’t know how cardboard walls could cost six figures’](https://americanwirenews.com/call-her-daddy-host-says-kamalas-fake-set-was-more-than-real-studio-i-dont-know-how-cardboard-walls-could-cost-six-figures/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-david-hogg-220x180.jpg)](https://americanwirenews.com/david-hogg-considers-serious-run-for-dnc-chair-republicans-cheer-him-on-hard/)
-
-[David Hogg considers serious run for DNC chair, Republicans cheer him on hard](https://americanwirenews.com/david-hogg-considers-serious-run-for-dnc-chair-republicans-cheer-him-on-hard/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-sharpton-harris-220x180.png)](https://americanwirenews.com/black-churches-call-for-msnbc-to-dump-sharpton-over-moral-stain-of-pay-for-play/)
-
-[Black churches call for MSNBC to dump Sharpton over ‘moral stain’ of pay-for-play](https://americanwirenews.com/black-churches-call-for-msnbc-to-dump-sharpton-over-moral-stain-of-pay-for-play/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joyousreid-1200-x-628-220x180.jpg)](https://americanwirenews.com/joy-reid-likens-gop-trans-ads-to-what-the-nazis-did/)
-
-[Joy Reid likens GOP trans ads to what the Nazis did](https://americanwirenews.com/joy-reid-likens-gop-trans-ads-to-what-the-nazis-did/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-will-cain-220x180.jpg)](https://americanwirenews.com/will-cain-trump-leads-republicans-to-a-win-first-thing-they-do-is-start-handing-him-losses/)
-
-[Will Cain: Trump leads Republicans to a win, first thing they do is start handing him losses](https://americanwirenews.com/will-cain-trump-leads-republicans-to-a-win-first-thing-they-do-is-start-handing-him-losses/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-ice-arrest-migrant-220x180.jpg)](https://americanwirenews.com/deep-blue-boston-votes-unanimously-to-preserve-its-sanctuary-city-status/)
-
-[Deep blue Boston votes unanimously to preserve its sanctuary city status](https://americanwirenews.com/deep-blue-boston-votes-unanimously-to-preserve-its-sanctuary-city-status/)
-
-(Image: ICE)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-muskinterview-1200-x-628-220x180.jpg)](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
-
-[Now the left is crying about Musk’s ‘taste for revenge’](https://americanwirenews.com/now-the-left-is-crying-about-musks-taste-for-revenge/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
