@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112597-im-offended-2024-12-06)
+     [](https://patriotpost.us/memes/112619-remembering-pearl-harbor-2024-12-07)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
 *      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
 *      [Mark Alexander Profiles of Valor: Capt Lance Sijan, USAF](https://patriotpost.us/alexander/112540-profiles-of-valor-capt-lance-sijan-usaf-2024-12-06)
 *      [The Babylon Bee 75% of Elves Laid Off After Elon Musk Visits North Pole](https://patriotpost.us/opinion/112606-75-percent-of-elves-laid-off-after-elon-musk-visits-north-pole-2024-12-06)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Victor Davis Hanson What The Trump Nominees Have Not Done — And Will Not Do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
 *      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
 *      [Erick Erickson The Problemed Nominee](https://patriotpost.us/opinion/112590-the-problemed-nominee-2024-12-06)
-*      [David Harsanyi The Biden Crime Family Is Above the Law](https://patriotpost.us/opinion/112589-the-biden-crime-family-is-above-the-law-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,7 +147,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
