@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26/20241206T210350/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26/20241206T210350/c99a56ac-7e66-4a1e-aec4-bbe21ebb3f26_360x203.jpg)](https://www.wqad.com/article/news/crime/rock-island-county-guns-burglary-vehicle-garage/526-d421cf80-8f25-4fe3-aad7-2e2af9356749)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
         
-        #### [Multiple firearms stolen from Rock Island County vehicles and garages](https://www.wqad.com/article/news/crime/rock-island-county-guns-burglary-vehicle-garage/526-d421cf80-8f25-4fe3-aad7-2e2af9356749)
+        #### [Davenport teenager named one of the top students in the country in a national Broadway competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c) [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
         
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d6803c92-8861-4381-a925-deea0fae7b07/d6803c92-8861-4381-a925-deea0fae7b07_360x203.jpg)](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
+        #### [Davenport teenager named a finalist in a national Broadway competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c) [![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/cfffb862-e06c-401e-83fe-70b3b1b8ae80/20241206T232916/cfffb862-e06c-401e-83fe-70b3b1b8ae80_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
         
-        #### [Man seriously injured in East Moline shooting](https://www.wqad.com/article/news/crime/east-moline-shooting-man-wounded/526-ff614801-3dc6-42df-8f1e-d5360be1cec8)
+        #### [From community theater to Broadway dreams: Davenport teen becomes finalist in national competition](https://www.wqad.com/article/news/local/the-current/wrigley-mancha-davenport-central-teen-broadway-competition-finalist/526-7331a3dd-3418-47dc-b8bb-f586287ed52c)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_360x203.jpg)](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
+        
+        #### [Suspect arrested in connection to Burlington shooting that left 1 dead and 1 injured](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b162f810-b8c7-4d01-b347-317a703f4a46/20241206T131521/b162f810-b8c7-4d01-b347-317a703f4a46_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b162f810-b8c7-4d01-b347-317a703f4a46/20241206T131521/b162f810-b8c7-4d01-b347-317a703f4a46_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
+        
+        #### [Snowstar ski resort making snow ahead of opening day](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
+        
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/86317c0c-150b-4348-bd16-fec6e82c0170/20241206T225637/86317c0c-150b-4348-bd16-fec6e82c0170_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/86317c0c-150b-4348-bd16-fec6e82c0170/20241206T225637/86317c0c-150b-4348-bd16-fec6e82c0170_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Nice warmup will bring widespread 50s for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c75964fa-b7bf-4bd1-8d66-bfeae9561721/20241206T142231/c75964fa-b7bf-4bd1-8d66-bfeae9561721_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c75964fa-b7bf-4bd1-8d66-bfeae9561721/20241206T142231/c75964fa-b7bf-4bd1-8d66-bfeae9561721_360x203.jpg)](https://www.wqad.com/article/weather/ask-andrew/fall-sky-is-more-blue/526-ad241b21-7038-4434-93f8-361f80930804)
-        
-        #### [Fall's Hidden Sky Secret: Why it's more blue than ever](https://www.wqad.com/article/weather/ask-andrew/fall-sky-is-more-blue/526-ad241b21-7038-4434-93f8-361f80930804)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,7 +100,7 @@ Navigation
 
 Davenport, IA »
 
-34°
+26°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
