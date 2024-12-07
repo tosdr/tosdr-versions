@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
+1. [![Donald Trump in Wisconsin.](https://lawandcrime.com/wp-content/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
     ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-2. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
+2. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://lawandcrime.com/wp-content/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
     ### ['Expects your voluntary compliance': Jim Jordan gives Fani Willis a tight deadline to turn over Jack Smith documents](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
-3. [![Shane Lamond and Enrique Tarrio](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Shane-Lemond-and-Enrique-Tarrio-1-432x243.jpg)](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
+3. [![Shane Lamond and Enrique Tarrio](https://lawandcrime.com/wp-content/uploads/2024/12/Shane-Lemond-and-Enrique-Tarrio-1-432x243.jpg)](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
     
     ### ['You're not in charge': Judge shuts down Proud Boys leader serving Jan. 6 sentence at trial for cop accused of being 'double agent'](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
     
-4. [![Inset, top to bottom: Jon K. Ewing (Shawnee County Department of Corrections) and Deborah Ann Stephens (Dove Funeral Home). Background: The trailer where Ewing killed Stephens (WIBW).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/adfasdfadfa-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
+4. [![Inset, top to bottom: Jon K. Ewing (Shawnee County Department of Corrections) and Deborah Ann Stephens (Dove Funeral Home). Background: The trailer where Ewing killed Stephens (WIBW).](https://lawandcrime.com/wp-content/uploads/2024/12/adfasdfadfa-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
     
     ### [Man ambushed and killed ex-girlfriend with ax after threatening to 'cut her head clean off'](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
     
-5. [![Geoffrey Kay-Conway Sr. appears in a booking photo](https://am23.mediaite.com/lc/cnt/uploads/2023/11/Geoffrey-Kay-Conway-Sr-432x243.jpg)](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
+5. [![Geoffrey Kay-Conway Sr. appears in a booking photo](https://lawandcrime.com/wp-content/uploads/2023/11/Geoffrey-Kay-Conway-Sr-432x243.jpg)](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
     
     ### ['Could have Killed her 17 times if i wanted': Man who left a note prematurely bragging how his wife ‘totally underestimated' him sentenced for trying to kidnap, rape, and murder her](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
     
