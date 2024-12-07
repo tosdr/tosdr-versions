@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/singapore-gaat-covid-19-als-gewone-griep-behandelen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/hillary-e-mails-gadaffi-weg-om-gouden-dinarplan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
