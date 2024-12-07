@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Daniel Penny trial judge agrees to drop top manslaughter count after jury deadlocks twice](https://nypost.com/2024/12/06/us-news/daniel-penny-trial-judge-agrees-to-drop-top-manslaughter-count-after-jury-deadlocks-twice/)
-
 Terms Of Use
 ============
 
