@@ -108,8 +108,6 @@ Shop
 
 [* HP Online Store Homepage](https://www.hp.com/gb-en/shop/ "HP Online Store Homepage")
 
-[* Black Friday 2024](https://www.hp.com/gb-en/shop/offer.aspx?p=c-black-friday "Black Friday 2024")
-
 [* Discover our Laptops](https://www.hp.com/gb-en/shop/Offer.aspx?p=c-hp-home-laptops "Discover our Laptops")
 
 [* Discover our Printers](https://www.hp.com/gb-en/shop/Offer.aspx?p=hp-home-printers "Discover our Printers")
@@ -247,7 +245,7 @@ https://store.hp.com/UKStore/Merch/Cart.aspx
 
 * Featured
 
-[* HP Online Store Homepage](https://www.hp.com/gb-en/shop/)[* Black Friday 2024](https://www.hp.com/gb-en/shop/offer.aspx?p=c-black-friday)[* Discover our Laptops](https://www.hp.com/gb-en/shop/Offer.aspx?p=c-hp-home-laptops)[* Discover our Printers](https://www.hp.com/gb-en/shop/Offer.aspx?p=hp-home-printers)[* Discover our Gaming PCs](https://www.hp.com/gb-en/shop/Offer.aspx?p=hp-gaming)[* Discover our Workstations](https://www.hp.com/gb-en/shop/Offer.aspx?p=z-by-hp-workstations)[* Offers & Latest products](https://www.hp.com/gb-en/shop/Default.aspx)
+[* HP Online Store Homepage](https://www.hp.com/gb-en/shop/)[* Discover our Laptops](https://www.hp.com/gb-en/shop/Offer.aspx?p=c-hp-home-laptops)[* Discover our Printers](https://www.hp.com/gb-en/shop/Offer.aspx?p=hp-home-printers)[* Discover our Gaming PCs](https://www.hp.com/gb-en/shop/Offer.aspx?p=hp-gaming)[* Discover our Workstations](https://www.hp.com/gb-en/shop/Offer.aspx?p=z-by-hp-workstations)[* Offers & Latest products](https://www.hp.com/gb-en/shop/Default.aspx)
 
 * Products
 
