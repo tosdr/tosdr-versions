@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/zaak-demmink-opstelten-en-teeven-getuigen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/vaticaan-zet-kardinaal-klokkenluider-uit-functie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
