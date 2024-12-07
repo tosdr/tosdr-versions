@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Aktuelles Börsen­geschehen im Blick: Nach der US-Wahl – so entwickeln sich die Märkte](https://www.test.de/Aktuelles-Boersengeschehen-6142214-0/ "Aktuelles Börsengeschehen im Blick - Nach der US-Wahl – so entwickeln sich die Märkte")
-* [Investieren in Künst­liche Intelligenz: ETF oder Zertifikate – der Check](https://www.test.de/Investieren-in-Kuenstliche-Intelligenz-ETF-oder-Zertifikate-der-Check-5981554-0/ "Investieren in Künstliche Intelligenz - ETF oder Zertifikate – der Check")
-* [Teekannen im Test: Pannen bei den Kannen](https://www.test.de/Teekannen-im-Test-Pannen-bei-den-Kannen-5953366-0/ "Teekannen im Test - Pannen bei den Kannen")
-* [Schmierfilm auf Kunststoffen: So werden klebrige Oberflächen wieder glatt](https://www.test.de/Schmierfilm-auf-Kunststoffen-So-werden-klebrige-Oberflaechen-wieder-glatt-5952486-0/ "Schmierfilm auf Kunststoffen - So werden klebrige Oberflächen wieder glatt")
-* [Veganer Butter­ersatz: Es muss nicht immer Butter sein](https://www.test.de/Veganer-Butterersatz-Es-muss-nicht-immer-Butter-sein-6157799-0/ "Veganer Butterersatz - Es muss nicht immer Butter sein")
-* [Notebook-Reparatur­dienste im Test: Manchmal gut, selten schnell, mitunter preis­wert](https://www.test.de/notebook-reparaturdienste-im-test-6001209-0/ "Notebook-Reparaturdienste im Test - Manchmal gut, selten schnell, mitunter preiswert")
+* [Riester-Fonds­sparpläne: Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten](https://www.test.de/Riester-Vertraege-Riester-Fondssparplaene-im-Rendite-Check-6044518-0/ "Riester-Fondssparpläne - Viele Riester-Verträge laufen gut – doch am Ende drohen hohe Kosten")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Immobilien­projekte: One Group setzt Zins­zahlungen aus](https://www.test.de/Immobilienprojekte-One-Group-setzt-Zinszahlungen-aus-6081556-0/ "Immobilienprojekte - One Group setzt Zinszahlungen aus")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Laptop: 9 Tipps für ein langes Notebook-Leben](https://www.test.de/Laptop-9-Tipps-fuer-ein-langes-Notebook-Leben-5999514-0/ "Laptop - 9 Tipps für ein langes Notebook-Leben")
 
 Stiftung Warentest
 
