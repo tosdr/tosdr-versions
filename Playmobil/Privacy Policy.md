@@ -1,6 +1,6 @@
-["🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁"](https://www.playmobil.com/en-us/web-shop/sale/)
+[🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁](https://www.playmobil.com/en-us/web-shop/sale/)
 
-["🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁"](https://www.playmobil.com/en-us/web-shop/sale/)
+[🎁 Use code FROSTYFUN to Double the Fun, 30% OFF EXTRA on Top of Sales! 🎁](https://www.playmobil.com/en-us/web-shop/sale/)
 
 [](https://www.playmobil.us/en-us/)
 
