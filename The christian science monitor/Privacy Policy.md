@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Insurgents advance in Syria: Army Withdraws, Assad Denies Fleeing](https://www.csmonitor.com/World/Middle-East/2024/1207/Insurgents-advance-in-Syria-Army-Withdraws-Assad-Denies-Fleeing "Insurgents advance in Syria: Army Withdraws, Assad Denies Fleeing")
+
+[### South Korean President Avoids Impeachment: What’s Next?](https://www.csmonitor.com/World/Asia-Pacific/2024/1207/South-Korean-President-Avoids-Impeachment-What-s-Next "South Korean President Avoids Impeachment: What’s Next?")
+
 [### Memphis police discriminate, protesters said. A new Justice Department report agrees.](https://www.csmonitor.com/USA/2024/1206/Memphis-Police-discrimination-Department-of-Justice-tyre-nichols-BLM "Memphis police discriminate, protesters said. A new Justice Department report agrees.")
-
-[### South Korea’s president imposed martial law. Now comes a push to impeach him.](https://www.csmonitor.com/World/Asia-Pacific/2024/1206/seoul-impeachment-yoon-suk-yeol-martial-law "South Korea’s president imposed martial law. Now comes a push to impeach him.")
-
-[### Five years after fire, a shining Notre Dame is ready to reopen its doors](https://www.csmonitor.com/World/Europe/2024/1206/notre-dame-cathedral-fire-paris "Five years after fire, a shining Notre Dame is ready to reopen its doors")
 
 * * *
 
