@@ -155,11 +155,6 @@ Contact sales
 
 * [Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
-Log in
-======
-
-* [Log in](https://dash.cloudflare.com/login)
-
 Support
 =======
 
@@ -189,7 +184,7 @@ Support
 
 [Sign up](https://www.cloudflare.com/plans/)
 
-[Sign up](https://www.cloudflare.com/plans/)[Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)[Log in](https://dash.cloudflare.com/login?lang=en-US)
+[Sign up](https://www.cloudflare.com/plans/)[Contact sales](https://www.cloudflare.com/plans/enterprise/contact/)
 
 [](https://www.cloudflare.com/)
 
