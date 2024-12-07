@@ -1,6 +1,6 @@
-**Notice:** Due to a planned system upgrade, the online account opening application will be unavailable intermittently between the hours of approximately 11:00 pm – 12:30 am PT on Thursday December 5, 2024. We apologize for any inconvenience.
+**Notice:** Due to a planned system upgrade, online banking will be unavailable between 4:30 am – 8:30 am ET (1:30 am – 5:30 am PT) on Sunday December 08, 2024. We apologize for any inconvenience.
 
-**Attention:** En raison d'une mise à jour du système, l'application d'ouverture de compte en ligne sera indisponible par intermittence, entre 23 h 00 et 00 h 30 (heure du Pacifique), le Jeudi 5 Décembre 2024. Nous vous présentons toutes nos excuses pour ce désagrément.
+**Attention:** En raison d'une mise à jour de nos systèmes, les services bancaires en ligne seront interrompus entre 04h30 et 08h30 heure de l'Est (01h30 et 05h30 heure du Pacifique), le Dimanche 08 Décembre 2024. Nous vous prions de nous excuser pour tout désagrément occasionné.
 
 ### **Website Terms & Conditions of Use**
 
