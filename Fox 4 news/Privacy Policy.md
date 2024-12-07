@@ -74,7 +74,7 @@ Search site
 ###### [About Us](https://www.fox4news.com/about-us)
 
 * [Contact Us](https://www.fox4news.com/contact-us)
-* [Anchors and Reporters](https://www.fox4news.com/person/all)
+* [Anchors and Reporters](https://www.fox4news.com/team)
 * [Station History](https://www.fox4news.com/station-history)
 * [FAQ](https://www.fox4news.com/frequently-asked-questions)
 * [How to Stream](https://www.fox4news.com/fox-local)
@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![NYC jury deadlocked in Daniel Penny subway chokehold trial](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/subway-chokehold-trial.jpg?ve=1&tl=1)
+ [![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/clothes-bag-tn.jpg?ve=1&tl=1)
 
- ![NYC jury deadlocked in Daniel Penny subway chokehold trial](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/subway-chokehold-trial.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/daniel-penny-trial-jury-deadlocked)
+ ![CEO killing live updates: Backpack that may be linked to gunman found](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/clothes-bag-tn.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
 
-### [NYC jury deadlocked in Daniel Penny subway chokehold trial](https://www.fox4news.com/news/daniel-penny-trial-jury-deadlocked)
+### [CEO killing live updates: Backpack that may be linked to gunman found](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-midtown-shooting-suspect)
 
- [![When is the first day of winter?](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/a5e91215-winter-storm_1454972274553_820222_ver1.0.gif?ve=1&tl=1)
+ [![City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/p-alex-dallas-4th-naturalization-ceremony-530p_00.01.48.32.jpg?ve=1&tl=1)
 
- ![When is the first day of winter?](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/a5e91215-winter-storm_1454972274553_820222_ver1.0.gif?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/first-day-winter-2024)
+ ![City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/p-alex-dallas-4th-naturalization-ceremony-530p_00.01.48.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/city-dallas-welcomes-30-new-u-s-citizens-naturalization-oath-ceremony)
 
-### [When is the first day of winter?](https://www.fox4news.com/weather/first-day-winter-2024)
+### [City of Dallas welcomes 30 new US citizens with naturalization oath ceremony](https://www.fox4news.com/news/city-dallas-welcomes-30-new-u-s-citizens-naturalization-oath-ceremony)
 
- [![Missing 10-year-old girl in the Dallas/Richardson area found safe](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dpd-critical-missing-dallas-rose.png?ve=1&tl=1)
+ [![High-fructose corn syrup could speed up tumor growth, study suggests](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/junk-food1.jpg?ve=1&tl=1)
 
- ![Missing 10-year-old girl in the Dallas/Richardson area found safe](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dpd-critical-missing-dallas-rose.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/10-year-old-girl-missing-dallas-rose)
+ ![High-fructose corn syrup could speed up tumor growth, study suggests](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/junk-food1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
 
-### [Missing 10-year-old girl in the Dallas/Richardson area found safe](https://www.fox4news.com/news/10-year-old-girl-missing-dallas-rose)
+### [Eating large amounts of foods that contain high-fructose corn syrup could speed up tumor growth, study suggests](https://www.fox4news.com/news/high-fructose-corn-syrup-could-speed-up-tumor-growth-study-suggests)
 
- [![NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2038751390-scaled.jpg?ve=1&tl=1)
+ [![Video captures chaos as Richardson ISD bus driver is attacked](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/395-430p-tz-risd-bus-driver-assault-_00.00.03.06.jpg?ve=1&tl=1)
 
- ![NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2038751390-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nasa-delays-artemis-moon-landing-2027)
+ ![Video captures chaos as Richardson ISD bus driver is attacked](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/395-430p-tz-risd-bus-driver-assault-_00.00.03.06.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/richardson-isd-bus-driver-assault-video)
 
-### [NASA delays Artemis Moon landing to 2027 after Orion heat shield investigation](https://www.fox4news.com/news/nasa-delays-artemis-moon-landing-2027)
+### [Video captures chaos as Richardson ISD bus driver is attacked](https://www.fox4news.com/news/richardson-isd-bus-driver-assault-video)
 
- [![Biden is considering preemptive pardons for allies before he leaves office](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/joe-biden.jpg?ve=1&tl=1)
+ [![Texas House Speaker: What do they do?](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/gettyimages-1233873800.jpg?ve=1&tl=1)
 
- ![Biden is considering preemptive pardons for allies before he leaves office](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/joe-biden.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-considering-preemptive-pardons-allies)
+ ![Texas House Speaker: What do they do?](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/gettyimages-1233873800.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-phelan-cook)
 
-### [Biden is considering preemptive pardons for allies before he leaves office](https://www.fox4news.com/news/biden-considering-preemptive-pardons-allies)
+### [Texas House Speaker: What do they do?](https://www.fox4news.com/news/texas-house-speaker-phelan-cook)
 
 ###### [News](https://www.fox4news.com/news)
 
@@ -488,7 +488,7 @@ Please note that, in some instances, we may decline to honor your request where,
 ###### [About Us](https://www.fox4news.com/about-us)
 
 * [Contact Us](https://www.fox4news.com/contact-us)
-* [Anchors and Reporters](https://www.fox4news.com/person/all)
+* [Anchors and Reporters](https://www.fox4news.com/team)
 * [Station History](https://www.fox4news.com/station-history)
 * [FAQ](https://www.fox4news.com/frequently-asked-questions)
 * [How to Stream](https://www.fox4news.com/fox-local)
