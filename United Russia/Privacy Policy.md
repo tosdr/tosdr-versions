@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» дала старт программе поддержки участников СВО «Психологический наставник»](https://cdn.er.ru/media/news/December2024/cC4aucBgbYsLlnJzZA2Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-programme-podderzhki-uchastnikov-svo-psihologicheskij-nastavnik)
+
+[«Единая Россия» дала старт программе поддержки участников СВО «Психологический наставник»](https://er.ru/activity/news/edinaya-rossiya-dala-start-programme-podderzhki-uchastnikov-svo-psihologicheskij-nastavnik)
+
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#наставники](https://er.ru/activity/news?tags%5B0%5D=128153) [#психологическаяподдержка](https://er.ru/activity/news?tags%5B0%5D=148131) [#подготовкакадров](https://er.ru/activity/news?tags%5B0%5D=152262)
+
+Сегодня 12:00
+
 [![Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://cdn.er.ru/media/news/December2024/dEQxMMIVrmP0NFSBgGq2-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
 
 [Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
@@ -336,14 +344,6 @@
 [«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#семьивоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1095229) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#приемы](https://er.ru/activity/news?tags%5B0%5D=31258) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249)
-
-06.12.24
-
-[![Владимир Якушев: Александр Хинштейн оправдает доверие Президента](https://cdn.er.ru/media/news/December2024/m4m7VjdziBnKe3DGpRM4-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-aleksandr-hinshtejn-opravdaet-doverie-prezidenta)
-
-[Владимир Якушев: Александр Хинштейн оправдает доверие Президента](https://er.ru/activity/news/vladimir-yakushev-aleksandr-hinshtejn-opravdaet-doverie-prezidenta)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#Президент](https://er.ru/activity/news?tags%5B0%5D=50) [#назначение](https://er.ru/activity/news?tags%5B0%5D=314) [#Курская область](https://er.ru/activity/news?tags%5B0%5D=579)
 
 06.12.24
 
