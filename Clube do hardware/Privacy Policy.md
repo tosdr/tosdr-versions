@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Rafael Caceres](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255500.thumb.jpeg.d562fd2c15c16f6be1b67baff954047c.jpeg)](https://www.clubedohardware.com.br/profile/1255500-rafael-caceres/ "Ir ao perfil de Rafael Caceres")
+    * [![Cristhyan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255552.thumb.jpeg.65852170fcccd6dc2553e284e1d88783.jpeg)](https://www.clubedohardware.com.br/profile/1255552-cristhyan/ "Ir ao perfil de Cristhyan")
         
         1
         
-        [Placa de vídeo cabe no gabinete Mancer CV100?](https://www.clubedohardware.com.br/forums/topic/1704770-placa-de-v%C3%ADdeo-cabe-no-gabinete-mancer-cv100/?do=getNewComment "Placa de vídeo cabe no gabinete Mancer CV100?")
+        [Luz verde piscando na placa-mãe é normal ?](https://www.clubedohardware.com.br/forums/topic/1704787-luz-verde-piscando-na-placa-m%C3%A3e-%C3%A9-normal/?do=getNewComment "Luz verde piscando na placa-mãe é normal ?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Rafael Caceres](https://www.clubedohardware.com.br/profile/1255500-rafael-caceres/ "Ir ao perfil de Rafael Caceres")  
-        22 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Cristhyan](https://www.clubedohardware.com.br/profile/1255552-cristhyan/ "Ir ao perfil de Cristhyan")  
+        1 hora atrás
         
-    * [![xSt4rkz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46278%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EX%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257515-xst4rkz/ "Ir ao perfil de xSt4rkz")
+    * [![VictorLlamas](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1189810.thumb.png.f73dc676f7fa9ee4ea5c432c6374139f.png)](https://www.clubedohardware.com.br/profile/1189810-victorllamas/ "Ir ao perfil de VictorLlamas")
         
         0
         
-        [Montagem com Sincronia RGB Air cooler e fans](https://www.clubedohardware.com.br/forums/topic/1704769-montagem-com-sincronia-rgb-air-cooler-e-fans/?do=getNewComment "Montagem com Sincronia RGB Air cooler e fans")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [xSt4rkz](https://www.clubedohardware.com.br/profile/1257515-xst4rkz/ "Ir ao perfil de xSt4rkz")  
-        31 minutos atrás
-        
-    * [![Vinicius Moraes Antonio](https://www.clubedohardware.com.br/uploads/members/monthly_2021_04/foto.thumb.jpg.50602045a55565dad7793ed826f32315.jpg)](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")
-        
-        1
-        
-        [ps3 com a falha 8002f14e](https://www.clubedohardware.com.br/forums/topic/1704768-ps3-com-a-falha-8002f14e/?do=getNewComment "ps3 com a falha 8002f14e")
+        [Preciso salvar um Ps3 com HD ruim](https://www.clubedohardware.com.br/forums/topic/1704786-preciso-salvar-um-ps3-com-hd-ruim/?do=getNewComment "Preciso salvar um Ps3 com HD ruim")
         
         [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Vinicius Moraes Antonio](https://www.clubedohardware.com.br/profile/1127170-vinicius-moraes-antonio/ "Ir ao perfil de Vinicius Moraes Antonio")  
-        49 minutos atrás
-        
-    * [![Tais059](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254013.thumb.png.22c217c411eca3d01a266f4a59cdbdb9.png)](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")
-        
-        6
-        
-        [Quero saber como posso melhorar meu Pc ou se vale a pena trocar](https://www.clubedohardware.com.br/forums/topic/1704767-quero-saber-como-posso-melhorar-meu-pc-ou-se-vale-a-pena-trocar/?do=getNewComment "Quero saber como posso melhorar meu Pc ou se vale a pena trocar")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Tais059](https://www.clubedohardware.com.br/profile/1254013-tais059/ "Ir ao perfil de Tais059")  
-        1 hora atrás
-        
-    * [![Felkagrow](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1257117.thumb.png.42b33f57baa947fcbdbb4d1172e46c55.png)](https://www.clubedohardware.com.br/profile/1257117-felkagrow/ "Ir ao perfil de Felkagrow")
-        
-        0
-        
-        [Indicações de monitor custo-benefício](https://www.clubedohardware.com.br/forums/topic/1704766-indica%C3%A7%C3%B5es-de-monitor-custo-benef%C3%ADcio/?do=getNewComment "Indicações de monitor custo-benefício")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Felkagrow](https://www.clubedohardware.com.br/profile/1257117-felkagrow/ "Ir ao perfil de Felkagrow")  
-        1 hora atrás
-        
-    * [![BlackScreen](https://www.clubedohardware.com.br/uploads/members/monthly_2022_01/imported-photo-1186503.thumb.png.89a8160a7cfa5afeeda7f3b203a33505.png)](https://www.clubedohardware.com.br/profile/1186503-blackscreen/ "Ir ao perfil de BlackScreen")
-        
-        0
-        
-        [Queria saber se a placa-mãe Revenger A88 suporta um AMD A10 PRO-7800B](https://www.clubedohardware.com.br/forums/topic/1704765-queria-saber-se-a-placa-m%C3%A3e-revenger-a88-suporta-um-amd-a10-pro-7800b/?do=getNewComment "Queria saber se a placa-mãe Revenger A88 suporta um AMD A10 PRO-7800B")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [BlackScreen](https://www.clubedohardware.com.br/profile/1186503-blackscreen/ "Ir ao perfil de BlackScreen")  
-        1 hora atrás
-        
-    * [![Erchius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/FireShotCapture002-Netflix-www.netflix.thumb.jpg.75e117ee7df20d872ff7163654861904.jpg)](https://www.clubedohardware.com.br/profile/1257513-erchius/ "Ir ao perfil de Erchius")
-        
-        0
-        
-        [Pasta térmica em setup com Ryzen 7 5700X com um cooler Gamdias Boreas E1-410](https://www.clubedohardware.com.br/forums/topic/1704764-pasta-t%C3%A9rmica-em-setup-com-ryzen-7-5700x-com-um-cooler-gamdias-boreas-e1-410/?do=getNewComment "Pasta térmica em setup com Ryzen 7 5700X com um cooler Gamdias Boreas E1-410")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Erchius](https://www.clubedohardware.com.br/profile/1257513-erchius/ "Ir ao perfil de Erchius")  
-        1 hora atrás
-        
-    * [![rikawa](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/cute-ninja-cartoon-mascot-character-design-vector-48705759.thumb.jpg.a3c1b837652f4562457684e8510095ac.jpg)](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")
-        
-        0
-        
-        [Qual sensor vcs usam para as Fans do Watercooler? Deficiência na GPU](https://www.clubedohardware.com.br/forums/topic/1704759-qual-sensor-vcs-usam-para-as-fans-do-watercooler-defici%C3%AAncia-na-gpu/?do=getNewComment "Qual sensor vcs usam para as Fans do Watercooler? Deficiência na GPU")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [rikawa](https://www.clubedohardware.com.br/profile/944781-rikawa/ "Ir ao perfil de rikawa")  
+        Por [VictorLlamas](https://www.clubedohardware.com.br/profile/1189810-victorllamas/ "Ir ao perfil de VictorLlamas")  
         2 horas atrás
         
-    * [![Francisco Pereira08](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256608.thumb.png.a6db759ca3c62c7babbc5b2d78dc044c.png)](https://www.clubedohardware.com.br/profile/1256608-francisco-pereira08/ "Ir ao perfil de Francisco Pereira08")
+    * [![udanznh](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c493%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")
         
-        1
+        2
         
-        [Configuração adequada - AMD Ryzen 5 5600 + ASUS Prime a520 + AMD RX 6500 XT](https://www.clubedohardware.com.br/forums/topic/1704758-configura%C3%A7%C3%A3o-adequada-amd-ryzen-5-5600-asus-prime-a520-amd-rx-6500-xt/?do=getNewComment "Configuração adequada - AMD Ryzen 5 5600 + ASUS Prime a520 + AMD RX 6500 XT")
+        [Existe diferença do Full HD de 19 e o de 24 polegadas?](https://www.clubedohardware.com.br/forums/topic/1704785-existe-diferen%C3%A7a-do-full-hd-de-19-e-o-de-24-polegadas/?do=getNewComment "Existe diferença do Full HD de 19 e o de 24 polegadas?")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Francisco Pereira08](https://www.clubedohardware.com.br/profile/1256608-francisco-pereira08/ "Ir ao perfil de Francisco Pereira08")  
-        2 horas atrás
+        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
+        Por [udanznh](https://www.clubedohardware.com.br/profile/1233457-udanznh/ "Ir ao perfil de udanznh")  
+        3 horas atrás
         
-    * [![patriick](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2398c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256728-patriick/ "Ir ao perfil de patriick")
+    * [![LordViny](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257525.thumb.jpeg.76fe65de86ca3462c2c31690e0156520.jpeg)](https://www.clubedohardware.com.br/profile/1257525-lordviny/ "Ir ao perfil de LordViny")
         
-        1
+        5
         
-        [Indicação de fonte para Ryzen 7 5700X3D e GeForce RTX 4060Ti](https://www.clubedohardware.com.br/forums/topic/1704757-indica%C3%A7%C3%A3o-de-fonte-para-ryzen-7-5700x3d-e-geforce-rtx-4060ti/?do=getNewComment "Indicação de fonte para Ryzen 7 5700X3D e GeForce RTX 4060Ti")
+        [Mancer 400w aguenta rx580 + i3 9100?](https://www.clubedohardware.com.br/forums/topic/1704784-mancer-400w-aguenta-rx580-i3-9100/?do=getNewComment "Mancer 400w aguenta rx580 + i3 9100?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [patriick](https://www.clubedohardware.com.br/profile/1256728-patriick/ "Ir ao perfil de patriick")  
-        2 horas atrás
+        Por [LordViny](https://www.clubedohardware.com.br/profile/1257525-lordviny/ "Ir ao perfil de LordViny")  
+        3 horas atrás
+        
+    * [![DreadArcane](https://www.clubedohardware.com.br/uploads/members/monthly_2018_11/imported-photo-1016882.thumb.jpeg.c99b2f346f21fb5daec44c0f97093104.jpeg)](https://www.clubedohardware.com.br/profile/1016882-dreadarcane/ "Ir ao perfil de DreadArcane")
+        
+        0
+        
+        [Gostaria de saber o que preciso trocar para caber uma rx580](https://www.clubedohardware.com.br/forums/topic/1704783-gostaria-de-saber-o-que-preciso-trocar-para-caber-uma-rx580/?do=getNewComment "Gostaria de saber o que preciso trocar para caber uma rx580")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [DreadArcane](https://www.clubedohardware.com.br/profile/1016882-dreadarcane/ "Ir ao perfil de DreadArcane")  
+        3 horas atrás
+        
+    * [![alex wl](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c47b62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EAW%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/731954-alex-wl/ "Ir ao perfil de alex wl")
+        
+        2
+        
+        [Não consigo ativar o Resizable Bar na minha RTX 2060 12gb](https://www.clubedohardware.com.br/forums/topic/1704782-n%C3%A3o-consigo-ativar-o-resizable-bar-na-minha-rtx-2060-12gb/?do=getNewComment "Não consigo ativar o Resizable Bar na minha RTX 2060 12gb")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [alex wl](https://www.clubedohardware.com.br/profile/731954-alex-wl/ "Ir ao perfil de alex wl")  
+        3 horas atrás
+        
+    * [![ElGabs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257524.thumb.png.1ce462fd539b64108d30c3fe6a572f85.png)](https://www.clubedohardware.com.br/profile/1257524-elgabs/ "Ir ao perfil de ElGabs")
+        
+        2
+        
+        [9400 GT liga e não da Vídeo nem reconhece](https://www.clubedohardware.com.br/forums/topic/1704781-9400-gt-liga-e-n%C3%A3o-da-v%C3%ADdeo-nem-reconhece/?do=getNewComment "9400 GT liga e não da Vídeo nem reconhece")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [ElGabs](https://www.clubedohardware.com.br/profile/1257524-elgabs/ "Ir ao perfil de ElGabs")  
+        3 horas atrás
+        
+    * [![Cafundó](https://www.clubedohardware.com.br/uploads/members/monthly_2016_07/123.png.75e9f177c5dac8b310939fc5d4c81ae5.thumb.png.45026b9252ce7b8e8898c08cabf5d083.png)](https://www.clubedohardware.com.br/profile/830488-cafund%C3%B3/ "Ir ao perfil de Cafundó")
+        
+        0
+        
+        [RTX 2060 Super Dell - Esquenta demais](https://www.clubedohardware.com.br/forums/topic/1704780-rtx-2060-super-dell-esquenta-demais/?do=getNewComment "RTX 2060 Super Dell - Esquenta demais")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Cafundó](https://www.clubedohardware.com.br/profile/830488-cafund%C3%B3/ "Ir ao perfil de Cafundó")  
+        4 horas atrás
+        
+    * [![Rafael L.S.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/last.thumb.JPG.ed345c7531c9788ac57aca592d8d4d3a.JPG)](https://www.clubedohardware.com.br/profile/703635-rafael-ls/ "Ir ao perfil de Rafael L.S.")
+        
+        2
+        
+        [PC congela porém cursor do mouse continua se movendo](https://www.clubedohardware.com.br/forums/topic/1704779-pc-congela-por%C3%A9m-cursor-do-mouse-continua-se-movendo/?do=getNewComment "PC congela porém cursor do mouse continua se movendo")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [Rafael L.S.](https://www.clubedohardware.com.br/profile/703635-rafael-ls/ "Ir ao perfil de Rafael L.S.")  
+        4 horas atrás
+        
+    * [![Paulocostap](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257519.thumb.jpeg.5e4f68ffb2f4d10b9dde55d904a12680.jpeg)](https://www.clubedohardware.com.br/profile/1257519-paulocostap/ "Ir ao perfil de Paulocostap")
+        
+        0
+        
+        [Ryzen 5 5600H (Notebook)](https://www.clubedohardware.com.br/forums/topic/1704778-ryzen-5-5600h-notebook/?do=getNewComment "Ryzen 5 5600H (Notebook)")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Paulocostap](https://www.clubedohardware.com.br/profile/1257519-paulocostap/ "Ir ao perfil de Paulocostap")  
+        5 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
