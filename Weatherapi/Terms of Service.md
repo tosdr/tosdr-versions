@@ -228,6 +228,7 @@ WeatherAPI.com makes it super easy to integrate our realtime, daily, hourly and 
 * [Swagger](https://app.swaggerhub.com/apis-docs/WeatherAPI.com/WeatherAPI/1.0.2 "WeatherAPI.com Swagger")
 * [Weather](https://www.weatherapi.com/weather/)
 * [Blog](https://blog.weatherapi.com/ "Weather API Blog")
+* [Domaintify.com](https://www.domaintify.com/ "Premium Domain Names for Sale")
 * [Premium Weather API](https://www.worldweatheronline.com/weather-api/ "Premium Weather API")
 * [Weather History](https://www.worldweatheronline.com/hwd/ "Historical Weather")
 
@@ -244,4 +245,6 @@ Copyright © [Weather API](https://www.weatherapi.com/ "Weather API")
 
 * [](https://github.com/weatherapicom/)
 * [](https://twitter.com/weatherapidev/)
+* [](https://www.linkedin.com/company/weatherapi-com)
 * [](https://www.facebook.com/weatherapidev)
+* [](https://www.instagram.com/weatherapi/)
