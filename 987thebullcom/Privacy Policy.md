@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| I Love This LifeLocash<br><br>4:20pm |
-| One Hell Of An AmenBrantley Gilbert<br><br>4:14pm |
-| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:07pm |
-| Famous FriendsChris Young And Kane Brown<br><br>4:04pm |
-| Pink SkiesZach Bryan<br><br>3:33pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:41pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:38pm |
+| Sounds Like The RadioZach Top<br><br>10:35pm |
+| Single AgainJosh Ross<br><br>10:24pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>10:21pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,13 +497,9 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
-
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
-
-Spanish • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
@@ -512,6 +508,10 @@ Sports • Midwest
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
