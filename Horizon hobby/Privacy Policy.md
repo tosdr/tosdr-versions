@@ -2,25 +2,21 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Cyber Week Sale
+[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/cyber-week-sale/?cp_source=global&cp_medium=tippy-top)
+[Holiday Gift Guide
 
-[Doorbuster Deals
-
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Cyber Week Sale
+[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/cyber-week-sale/?cp_source=global&cp_medium=tippy-top)
+[Holiday Gift Guide
 
-[Doorbuster Deals
-
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
@@ -108,25 +104,21 @@ My store
 
 [](#)
 
-[Cyber Week Sale
+[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/cyber-week-sale/?cp_source=global&cp_medium=tippy-top)
+[Holiday Gift Guide
 
-[Doorbuster Deals
-
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
-[Cyber Week Sale
+[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/cyber-week-sale/?cp_source=global&cp_medium=tippy-top)
+[Holiday Gift Guide
 
-[Doorbuster Deals
-
-Lowest Prices Of The Season Guaranteed](https://www.horizonhobby.com/horizon-hobby-rc-sale/doorbusters/?cp_source=global&cp_medium=tippy-top)
+Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
 [Clearance Sale
 
