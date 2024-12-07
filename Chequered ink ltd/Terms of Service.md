@@ -12,7 +12,7 @@
 * [Game Assets](https://chequered.ink/category/game-assets/)
     * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
     * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
-* [Blog](https://chequered.ink/latest/)
+* [News](https://chequered.ink/category/news/)
 
 [![Chequered Ink](https://chequered.ink/wp-content/uploads/2024/05/cropped-web_logo.png)](https://chequered.ink/ "Chequered Ink | Home page")
 
@@ -23,7 +23,7 @@
 * [Game Assets](https://chequered.ink/category/game-assets/)
     * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
     * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
-* [Blog](https://chequered.ink/latest/)
+* [News](https://chequered.ink/category/news/)
 
 Terms and Conditions
 ====================
