@@ -626,8 +626,6 @@ In case of an emergency office closure at PacificSource, we will update our oper
 * About
 * [Our Mission](https://pacificsource.com/mission)
 * [History](https://pacificsource.com/history)
-* [Executive Team](https://pacificsource.com/about/executive-team)
-* [Board of Directors](https://pacificsource.com/about/board)
 * [Company News](https://pacificsource.com/company-news)
 * [Office Locations](https://pacificsource.com/locations)
 * [Careers](https://pacificsource.com/careers)
