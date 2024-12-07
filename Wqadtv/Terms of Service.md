@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_360x203.jpg)](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
+        
+        #### [Galesburg home invasion leads to firearms, cash, and family dog stolen](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
         
         #### [Business owners in Davenport sound off about hotel proposal](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/eaa90dd7-a08e-40df-ae90-95298f0fcb63/eaa90dd7-a08e-40df-ae90-95298f0fcb63_360x203.jpg)](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
-        
-        #### [Suspect arrested in connection to Burlington shooting that left 1 dead and 1 injured](https://www.wqad.com/article/news/crime/police-make-arrest-burlington-homicide/526-437fbe1f-3e8d-4403-86f5-649209af2310)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-42°
+53°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
