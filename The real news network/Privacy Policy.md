@@ -74,8 +74,8 @@ Follow Us
 Trending Posts
 --------------
 
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
@@ -138,8 +138,8 @@ Follow Us
 Trending Posts
 --------------
 
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
 * [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
