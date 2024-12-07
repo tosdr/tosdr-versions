@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,9 +148,16 @@
 
 Сейчас читают
 
-* [Конвертики из лаваша с яблоком и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174904)
-* [Свинина, тушенная с черносливом и сельдереем, в томатно-винном соусе](https://www.russianfood.com/recipes/recipe.php?rid=158336)
-* [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803)
+* [Салат с творогом и огурцами](https://www.russianfood.com/recipes/recipe.php?rid=282)
+* [Творог с колбасой или ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=5677)
+* [Творог с сыром](https://www.russianfood.com/recipes/recipe.php?rid=5679)
+* [Сладкий творог](https://www.russianfood.com/recipes/recipe.php?rid=5681)
+* [Бульбонай по-литовски](https://www.russianfood.com/recipes/recipe.php?rid=5874)
+* [Творог с молоком или сливками](https://www.russianfood.com/recipes/recipe.php?rid=6457)
+* [Салат из чеснока творога и петрушки](https://www.russianfood.com/recipes/recipe.php?rid=6521)
+* [Шницель морковный с изюмом](https://www.russianfood.com/recipes/recipe.php?rid=6966)
+* [Бутерброды с творогом («снежная баба»)](https://www.russianfood.com/recipes/recipe.php?rid=7150)
+* [Бутерброды с ягодами](https://www.russianfood.com/recipes/recipe.php?rid=7582)
 
 |     |
 | --- |
@@ -185,7 +192,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Ekaterina\_S](https://www.russianfood.com/blogs/?id=413691) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174803#comments) | 07.12.24 |     |
+|     | [Ekaterina\_S](https://www.russianfood.com/blogs/?id=413691) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174803#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -241,7 +248,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -255,7 +262,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -269,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_10 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_15 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -454,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752913.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755700.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
-| [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Праздничный салат "Змейка" с огурцами, курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [Жареные пирожки с мясом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174970) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
-| [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
-| [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) |
+| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [![](//img1.russianfood.com/dycontent/images_upl/678/alt1_677359.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750114.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/758/alt1_757976.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [![](//img1.russianfood.com/dycontent/images_upl/756/alt1_755700.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174970) |
+| [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [Суп с рыбными фрикадельками и спагетти](https://www.russianfood.com/recipes/recipe.php?rid=171076) | [Челагач, фаршированный сырной начинкой, с зелёным маслом](https://www.russianfood.com/recipes/recipe.php?rid=174772) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Суп из чечевицы с копчёными колбасками](https://www.russianfood.com/recipes/recipe.php?rid=172774) | [Жареные пирожки с мясом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174970) |
+| [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752913.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+| [Праздничный салат "Змейка" с огурцами, курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=174868) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(161)
+(111)
