@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The key to the future of the world is finding the optimistic stories and letting them be known”
+“ Meaning can easily be confused with structure. Structure is a good approximation, but not the same”
 
-[Pete Seeger](http://en.wikipedia.org/wiki/Pete_Seeger)
+[Claudia Perlich](http://people.stern.nyu.edu/cperlich/)
 
 [](https://www.adafruit.com/about)
 
