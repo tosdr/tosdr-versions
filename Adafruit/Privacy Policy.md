@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Meaning can easily be confused with structure. Structure is a good approximation, but not the same”
+“ You're only given one little spark of madness. You mustn't lose it”
 
-[Claudia Perlich](http://people.stern.nyu.edu/cperlich/)
+[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
 
 [](https://www.adafruit.com/about)
 
