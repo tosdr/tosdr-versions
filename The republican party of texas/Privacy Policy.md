@@ -45,6 +45,11 @@ Skip links
     
     Please use the following form for media requests and the appropriate staff with respond.](https://texasgop.org/media-requests/)
     
+    [Resolutions](https://texasgop.org/category/resolutions/)
+    
+    [Texas House GOP Caucus Resolution](https://texasgop.org/texas-house-gop-caucus-resolution/)
+    --------------------------------------------------------------------------------------------
+    
     [Press releases](https://texasgop.org/category/press-releases/)
     
     [Official Trump Statement](https://texasgop.org/official-trump-statement/)
@@ -54,11 +59,6 @@ Skip links
     
     [Official Cruz Statement](https://texasgop.org/official-cruz-statement/)
     ------------------------------------------------------------------------
-    
-    [Press releases](https://texasgop.org/category/press-releases/)
-    
-    [“Limited Term” Driver’s Licenses](https://texasgop.org/texas-gop-chair-abraham-george-limited-term-dl/)
-    --------------------------------------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
