@@ -240,7 +240,7 @@ November 2, 2024
 
 Since February 11, It has blocked 92 scam texts. Every day I would get at least 6 scam texts. Using a couple key words it blocked them and I have only received 2 in my inbox. So far I am loving this app. It is worth the one time fee. Update: Since August 16 the app has blocked 396 spam and scam messages. I am so happy I do not have to be irritated by those messages any more.
 
-4 people found this review helpful
+5 people found this review helpful
 
 Did you find this helpful?
 
@@ -266,7 +266,7 @@ October 24, 2024
 
 Mezo SMS is just the best. I had to buy it. Ive been using the app's "message content" feature to block tons of political ad texts and other spam. It just blocks them if theyre not in my contacts. So if i want to receive a message from someone i just add them to my contacts. Its pretty easy to use. Definitely recommend it.
 
-2 people found this review helpful
+3 people found this review helpful
 
 Did you find this helpful?
 
@@ -311,7 +311,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFQ3bExrKzgyTUNWS2RHQnlodWRoRUE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljJ9_04)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGGFPTnU5clhpc1VUZ0hKSi85eWZiUVE9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljIz6qM)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
