@@ -8,7 +8,7 @@
 /* [About Us](https://www.ricksteves.com/about-us/what-we-do)
 /* Privacy Policy
 
-[![Rick Steves' Europe](https://d2zwvgyp7l6t28.cloudfront.net/assets/ricksteves-europe-xmas-ead3e2d4c256892319183d692b3dfeac07192ba5abe9c6576773bb00c85e3c3c.svg)](https://www.ricksteves.com/ "Rick Steves' Europe")
+[![Rick Steves' Europe](//d2zwvgyp7l6t28.cloudfront.net/assets/ricksteves-europe-xmas-ead3e2d4c256892319183d692b3dfeac07192ba5abe9c6576773bb00c85e3c3c.svg)](https://www.ricksteves.com/ "Rick Steves' Europe")
 
 * [About Rick](https://www.ricksteves.com/about-rick)
 * [Explore Europe](https://www.ricksteves.com/europe)
