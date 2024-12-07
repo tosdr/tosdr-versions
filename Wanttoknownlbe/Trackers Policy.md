@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/een-stille-schreeuw-om-recht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-zoektocht-naar-liefde-de-feniks-ervaren/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
