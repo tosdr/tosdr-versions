@@ -243,6 +243,38 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[💫 Here’s my one-day bucket list itinerary for ![💫 Here’s my one-day bucket list itinerary for the PRESIDIO IN SAN FRANCISCO 💫
+👉 Save for your next trip to San Francisco, California 👈
+From iconic Golden Gate vistas to Eastern Mediterranean delights, here’s how to make the most of your visit to the @presidiosf National Park site:
+1️⃣ Start with a cozy breakfast @InnatthePresidio—coffee, pastries, and morning vibes by the fire pit 🔥 
+2️⃣ Explore Andy Goldsworthy’s stunning outdoor art installations that are scattered around the Presidio (Woodline, Spire & Earth Wall!).
+3️⃣  dive into the 10,000 years of Presidio history at the Presidio Heritage Gallery located at the Presidio Officers’ Club. (It’s free!)
+4️⃣ Check out the Walt Disney Family Museum for a little behind-the-scenes magic
+—a must for Disney fans! @wdfmuseum 
+5️⃣ For lunch, go to @Colibri.presidio whose trendy vibe and Mexican dishes won me over, especially the carnitas served in the cutest ceramic pig 🐷 
+6️⃣ Explore 14 acres the Tunnel Tops, a  national park space built by the community, for the community.
+7️⃣ Chase the perfect Golden Gate Bridge view (Battery Godfrey was my fave, but Fort Point was a close second).
+8️⃣ Unwind back at the Inn with their evening wine and cheese by the fire pit.
+9️⃣ Have an unforgettable Dinner at @Dalidasf, an eastern mediterranean restaurant where it’s mandatory to start your meal with their breaking bread pita and end it with their layered baklava.
+1️⃣0️⃣ End on a playful note @Presidio_Bowl, where your face turns into hilarious animations after every frame.
+1️⃣1️⃣ Go back to the @InnatthePresidio for a nightcap and some well-earned rest.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![💫 Here’s my one-day bucket list itinerary for the PRESIDIO IN SAN FRANCISCO 💫
+👉 Save for your next trip to San Francisco, California 👈
+From iconic Golden Gate vistas to Eastern Mediterranean delights, here’s how to make the most of your visit to the @presidiosf National Park site:
+1️⃣ Start with a cozy breakfast @InnatthePresidio—coffee, pastries, and morning vibes by the fire pit 🔥 
+2️⃣ Explore Andy Goldsworthy’s stunning outdoor art installations that are scattered around the Presidio (Woodline, Spire & Earth Wall!).
+3️⃣  dive into the 10,000 years of Presidio history at the Presidio Heritage Gallery located at the Presidio Officers’ Club. (It’s free!)
+4️⃣ Check out the Walt Disney Family Museum for a little behind-the-scenes magic
+—a must for Disney fans! @wdfmuseum 
+5️⃣ For lunch, go to @Colibri.presidio whose trendy vibe and Mexican dishes won me over, especially the carnitas served in the cutest ceramic pig 🐷 
+6️⃣ Explore 14 acres the Tunnel Tops, a  national park space built by the community, for the community.
+7️⃣ Chase the perfect Golden Gate Bridge view (Battery Godfrey was my fave, but Fort Point was a close second).
+8️⃣ Unwind back at the Inn with their evening wine and cheese by the fire pit.
+9️⃣ Have an unforgettable Dinner at @Dalidasf, an eastern mediterranean restaurant where it’s mandatory to start your meal with their breaking bread pita and end it with their layered baklava.
+1️⃣0️⃣ End on a playful note @Presidio_Bowl, where your face turns into hilarious animations after every frame.
+1️⃣1️⃣ Go back to the @InnatthePresidio for a nightcap and some well-earned rest.](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDPhGv9pW3d/) 
+
 [✨ Looking for a cozy holiday escape in San Franc ![✨ Looking for a cozy holiday escape in San Francisco? ✨ 
 I just had the perfect little getaway @innatthepresidio and it had everything I needed to get into the spirit.
 It was filled with twinkling holiday décor, a cozy room that was hard to leave, evening wine and cheese by the fire pit (my favorite time of the day!), and a breakfast that sets you up to explore the Presidio the way it deserves to be explored—enjoying the outdoors with friends and family 🥰
@@ -290,28 +322,6 @@ All aboard!!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/im
 🍗 @adhoc_addendum: Fried chicken so good it’ll make you cry.
 🐙 @northblockyountville: Trendy wine country eats like charred octopus & maple leaf duck breast
 🍣 @ro.lounge: Another Thomas Keller gem that draws from Asian culinary influences. If you love caviar, this is your place!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DC4VxoRPAHb/) 
-
-[Ever wonder what a perfect day in the Napa Valley ![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
-1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
-2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
-3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
-4️⃣ Take a break from eating and drinking (if you can!) and wander the Yountville Art Walk. 🎨 Over 30 sculptures, each with a QR code for all the artsy details. My fave? The Chef. 
-Plus, you’ll pass lots of shops for a little retail therapy. A couple of my favs are @KollarChocolates and the boutique @AlchemyWorks
-5️⃣ Now it’s time for a pre-dinner cocktail at @NorthBlockYountville. 🍸 Trendy, chic, and perfect for happy hour vibes. 
-6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
-7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
-What’s on your Yountville, CA Bucket List?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Ever wonder what a perfect day in the Napa Valley wine country looks like? Here’s my one-day bucket list itinerary for YOUNTVILLE, CALIFORNIA 🍷
-1️⃣ Start your day in #Yountville the only way you should—with pastries! @Bouchon_Bakery is tiny but mighty, serving up buttery scones, flaky croissants, and giant macarons 🥐 
-2️⃣ Next, hop aboard the Napa Valley @winetrain where you’ll be served a four course meal while riding through Napa valley Vineyards and sipping on local wine 🚂 They have plenty of experiences to choose from (we did the Vista Dome and loved it!)
-3️⃣ Head to @PriestRanchWines for wine AND bacon tasting. Yep, you heard me right—bacon. 🥓 It was six wines, four types of bacon, and one happy me. The mango mustard bacon was my favorite!
-4️⃣ Take a break from eating and drinking (if you can!) and wander the Yountville Art Walk. 🎨 Over 30 sculptures, each with a QR code for all the artsy details. My fave? The Chef. 
-Plus, you’ll pass lots of shops for a little retail therapy. A couple of my favs are @KollarChocolates and the boutique @AlchemyWorks
-5️⃣ Now it’s time for a pre-dinner cocktail at @NorthBlockYountville. 🍸 Trendy, chic, and perfect for happy hour vibes. 
-6️⃣ Dinner is at @BottegaNapaValley—Yountville’s foodie hotspot. Their Brodetto ai Frutti di Mare was the BEST thing I ate in Yountville 😋  It was so good I had to get the recipe from the Bottega cookbook!
-7️⃣ End your day with a nightcap in your room by the fireplace or next to the fire pits in the courtyard @NapaValleyLodge. 
-What’s on your Yountville, CA Bucket List?](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCwkMXdvIvW/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
