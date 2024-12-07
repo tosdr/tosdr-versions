@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/geld/hoe-de-rijken-rijker-en-de-armen-armer-worden/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/zaak-demmink-opstelten-en-teeven-getuigen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
