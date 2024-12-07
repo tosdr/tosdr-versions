@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-December 05, 2024
+December 06, 2024
 
-A guide to global tilts
+A writer’s bearings
 
-As the United States watches its next administration take shape, political game boards and subterfuge unfold in Syria, the Baltic Sea – and everywhere sitting governments have been unseated of late, something that has happened in more countries than you might think. Today, our writers unpack three stories of international risks and reactions. They weave a remarkable array of perspectives and motives.
+This fall’s significant, simultaneous wildfires were new to Massachusetts. We usually get our reds and golds in a gentler way. The Monitor’s Mackenzie Farkus until recently called the commonwealth’s heavily wooded west, where the Butternut Fire burned, home. So she hopped into her hatchback. “I immediately knew where to go and who might make for good interviews,” Mackenzie says. She drove out to the Berkshires, dodging eight deer and a porcupine, to lead a team report and help us find the broader story in a local event.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
