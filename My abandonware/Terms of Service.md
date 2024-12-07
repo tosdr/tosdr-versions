@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Douglas Circumstance](https://www.myabandonware.com/game/douglas-circumstance-tmn)
+* [Commando](https://www.myabandonware.com/game/commando-tmm)
+* [The Brick](https://www.myabandonware.com/game/the-brick-6y0)
 * [Master of Monsters Final: Rings of Twilight](https://www.myabandonware.com/game/master-of-monsters-final-rings-of-twilight-thn)
 * [South Park: Chef's Luv Shack](https://www.myabandonware.com/game/south-park-chef-s-luv-shack-thm)
-* [Wolfie's Music Games](https://www.myabandonware.com/game/wolfie-s-music-games-tfk)
-* [Salad Scribble](https://www.myabandonware.com/game/salad-scribble-tfj)
-* [Paul's Classroom Math](https://www.myabandonware.com/game/paul-s-classroom-math-tfi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
