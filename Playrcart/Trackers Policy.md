@@ -10,11 +10,11 @@ Close
 
 * Solutions
     
-    * [Advertisers](https://www.glui.io/advertisers)
+    * [Agencies](https://www.glui.io/advertisers)
         
     * [Publishers](https://www.glui.io/publishers)
         
-    * [Partners](https://www.glui.io/partners)
+    * [Brands](https://www.glui.io/partners)
         
 * Platform
     
