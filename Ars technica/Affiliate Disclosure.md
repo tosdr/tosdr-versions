@@ -88,11 +88,11 @@ Most Read
     
     1. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
     
-2. 2. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
+2. 2. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
     
-3. 3. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
+3. 3. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
     
-4. 4. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
+4. 4. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
 5. 5. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
     
