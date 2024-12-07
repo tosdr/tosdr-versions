@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Give AN A Nickname! (1,477)](https://forum.nationstates.net/viewtopic.php?t=553555&f=25&view=unread#unread ""Give AN A Nickname!" (1,477 posts)")
-* [F7 makes a sentence (438)](https://forum.nationstates.net/viewtopic.php?t=557888&f=25&view=unread#unread ""F7 makes a sentence" (438 posts)")
-* [Heirs Of Icarus | IC | Closed (30)](https://forum.nationstates.net/viewtopic.php?t=558375&f=31&view=unread#unread ""Heirs Of Icarus | IC | Closed" (30 posts)")
-* [The International Council of Nations:… (69)](https://forum.nationstates.net/viewtopic.php?t=559282&f=4&view=unread#unread ""The International Council of Nations: IC Thread" (69 posts)")
-* [NS Cliches II: Re-Rebooted (10,284)](https://forum.nationstates.net/viewtopic.php?t=520417&f=25&view=unread#unread ""NS Cliches II: Re-Rebooted" (10,284 posts)")
+* [UnitedHealthcare CEO Assassinated (447)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (447 posts)")
+* [Constitution Writing? (2)](https://forum.nationstates.net/viewtopic.php?t=559333&f=23&view=unread#unread ""Constitution Writing?" (2 posts)")
+* [Star Wars: This is The Way (7,031)](https://forum.nationstates.net/viewtopic.php?t=494102&f=19&view=unread#unread ""Star Wars: This is The Way" (7,031 posts)")
+* [UK Politics Thread: Don't Be So Nosey! (309)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (309 posts)")
 
 Advertisement
 
