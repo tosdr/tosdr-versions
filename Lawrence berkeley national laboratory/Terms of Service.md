@@ -13,7 +13,7 @@
 
 * [Research](https://www.lbl.gov/research/)
     
-    Our research focuses on discovery science and solutions for clean energy and a healthy planet.
+    Our research focuses on discovery science and solutions for abundant and reliable energy supplies.
     
     * [Research Overview](https://www.lbl.gov/research/)
     
@@ -30,7 +30,6 @@
     
     ### Energy
     
-    * [Alternative Energy](https://www.lbl.gov/research/alternative-energy/)
     * [Bioenergy and Biofuels](https://www.lbl.gov/research/bioenergy-biofuels/)
     * [Biomanufacturing](https://www.lbl.gov/research/biomanufacturing/)
     * [Carbon Management](https://www.lbl.gov/research/carbon-management/)
@@ -38,7 +37,7 @@
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
     * [Hydrogen](https://www.lbl.gov/research/hydrogen/)
-    * [Manufacturing Decarbonization](https://www.lbl.gov/research/manufacturing-decarbonization/)
+    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-decarbonization/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
     
     ### Earth Systems
@@ -133,15 +132,14 @@
     * [Microelectronics and Beyond](https://www.lbl.gov/research/microelectronics-and-beyond/)
     * [Mysteries of Matter](https://www.lbl.gov/research/mysteries-of-matter/)
     * [Quantum Science](https://www.lbl.gov/research/quantum/)
-    Energy* [Alternative Energy](https://www.lbl.gov/research/alternative-energy/)
-    * [Bioenergy and Biofuels](https://www.lbl.gov/research/bioenergy-biofuels/)
+    Energy* [Bioenergy and Biofuels](https://www.lbl.gov/research/bioenergy-biofuels/)
     * [Biomanufacturing](https://www.lbl.gov/research/biomanufacturing/)
     * [Carbon Management](https://www.lbl.gov/research/carbon-management/)
     * [Energy Efficiency](https://www.lbl.gov/research/energy-efficiency/)
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
     * [Hydrogen](https://www.lbl.gov/research/hydrogen/)
-    * [Manufacturing Decarbonization](https://www.lbl.gov/research/manufacturing-decarbonization/)
+    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-decarbonization/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
     Earth Systems* [Clean and Affordable Water](https://www.lbl.gov/research/clean-affordable-water/)
     * [Climate](https://www.lbl.gov/research/climate/)
