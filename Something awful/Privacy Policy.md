@@ -206,25 +206,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 ### What's Hot
 
 * [Diary of the 1000-Pound Man](https://www.somethingawful.com/news/fat-guy-diary/1/)
-* [Image Makeovers!](https://www.somethingawful.com/comedy-goldmine/misplaced-images/1/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [No Good Deed; The Drop; Dolphin Tale 2; Honeymoon](https://www.somethingawful.com/current-movie-reviews/no-good-deed/1/)
-* [Thor: The Dark World; Free Birds; About Time](https://www.somethingawful.com/current-movie-reviews/thor-dark-world/1/)
+* [Misinterpreted Items from the News!](https://www.somethingawful.com/comedy-goldmine/misinterpreted-items-from/1/)
+* [Anchorman 2: The Legend Continues; Inside Llewyn Davis; Her; Nebraska; Contracted](https://www.somethingawful.com/current-movie-reviews/anchorman-2/1/)
+* [Cakefartin' Steve And Me](https://www.somethingawful.com/news/cakefarts/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
 * ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [\[Request\] Can Lily Phillips sleep with 1000 men in 24 hours?](http://forums.somethingawful.com/showthread.php?threadid=4076972 "[Request] Can Lily Phillips sleep with 1000 men in 24 hours?")
-* ![](https://fi.somethingawful.com/forums/posticons/bss-swag.gif) [A thread about gift suggestions](http://forums.somethingawful.com/showthread.php?threadid=4076945 "A thread about gift suggestions")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What are your favorite and least favorite fast food restaurants?](http://forums.somethingawful.com/showthread.php?threadid=4077002 "What are your favorite and least favorite fast food restaurants?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
 
 ### Random Articles
 
-* [Fins, feathers and furverts!](https://www.somethingawful.com/daily-dirt/fins-feathers-furverts/)
-* [Paris Hilton's My New BFF](https://www.somethingawful.com/awful-links/paris-hilton-bff/)
-* [Hate Is A Strong Word](https://www.somethingawful.com/garbage-day/plain-white-ts/)
-* [Minutes of the 2015 Unicode Emoji Meeting](https://www.somethingawful.com/news/unicode-emoji-meeting/)
-* [16 Hours of Sex in Witcher 3, Eurogamer Adopts One Sentence Reviews](https://www.somethingawful.com/video-game-article/witcher-sex-capture/)
+* [Stupid Liches!](https://www.somethingawful.com/comedy-goldmine/undead-lich-idiot/)
+* [Awful Link Spotlight: Sam Sloan](https://www.somethingawful.com/news/awful-link-spotlight/)
+* [Somewhere There is a Crime Happening](https://www.somethingawful.com/news/somewhere-there-crime/)
+* [When Is It Okay to Call Someone a "Nazi?"](https://www.somethingawful.com/news/nazi-identification-questions/)
+* [House of Archangel](https://www.somethingawful.com/awful-links/awful-link-1174/)
 
 [Random!](https://www.somethingawful.com/random/)
 
