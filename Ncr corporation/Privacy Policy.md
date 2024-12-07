@@ -3,20 +3,52 @@
 NCR VOYIX CORPORATION
 =====================
 
-Privacy Policy
---------------
+NCR Voyix Customer Portal User Agreement
+----------------------------------------
 
-NCR Voyix Privacy Policy effective January 2024.
+NCR Voyix Customer Portal User Agreement effective October 2024.
 
 ![](https://cdn.prod.website-files.com/65b3ea55ed6b77d8d773168f/65b3ea55ed6b77d8d7731917_Patterns%20-%20Dark.svg)
 
-This NCR Voyix Corporation Privacy Policy (‘Privacy Policy’) provides information on the Processing (as defined below) of Personal Data (as defined below), including Personal Data to which NCR Voyix has access in connection with the provision of products and services to our customers. This policy governs NCR Voyix Corporation and its global subsidiaries worldwide for all operations where NCR Voyix is the Controller of Personal Data.
+‍
+
+By clicking “I Agree” or by using the NCR Voyix Customer Portal (“NCRV Customer Portal”), you agree to the terms and conditions of this User Agreement (“Agreement”). You further agree that this Agreement forms a legally binding contract between “you” and NCR Voyix Corporation (“NCR Voyix”), and that this Agreement constitutes a writing signed by you under applicable law. You represent that you have been authorized by NCR Voyix and your employer to access NCRV Customer Portal. This Agreement is subject to change by NCR Voyix without prior notice (unless prior notice is required by law), by posting of the revised Agreement on the NCR Voyix website where you access and use NCRV Customer Portal. Please carefully read these terms.
 
 ‍
 
-#### Definitions
+**1.** **Access to NCRV Customer Portal**
 
-“Contract Data” means any Personal Data about our customers, our customers’ customers, or our customers’ personnel that NCR Voyix Processes in connection with providing products or services to a customer under a contract.
+1.1   In order to use NCRV Customer Portal, you must have executed a legally binding agreement with NCR Voyix to purchase NCR Voyix products.
+
+1.2   You agree to provide true, accurate, and complete registration information and to maintain and promptly update your information as applicable.
+
+1.3   You authorize NCR Voyix, directly or through third parties, to make any inquiries NCR Voyix considers necessary to validate your registration. This may include verifying the information you provide against third party databases.
+
+1.4   NCR Voyix may assign multiple accounts when needed for proper system access, pilot programs, lab testing, or other purposes.
+
+1.5   You may not reveal your account password to anyone else, and you may not use anyone else’s password to access NCRV Customer Portal. NCR Voyix is not responsible for losses incurred by you resulting from the misuse of any account passwords.
+
+1.6   Your rights under this Agreement will continue so long as you remain an NCR Voyix customer or approved third party provider, unless they are earlier terminated pursuant to this Agreement. NCR Voyix may deny, restrict, suspend, or terminate your access to NCRV Customer Portal at any time, with or without notice, at its sole discretion.
+
+1.7   Upon termination, all rights and licenses granted by NCR Voyix to you will cease, and you will stop using NCRV Customer Portal.
+
+‍
+
+**2\. Electronic Communications**
+
+2.1   You agree and warrant that you have access to the Internet and a current functional e-mail address. Although NCR Voyix will take reasonable steps to contact you based on information that you have provided, NCR Voyix will not be liable for any undelivered e-mail communications or any costs you incur for maintaining Internet access and an e-mail account.
+
+2.2   You agree not to use NCRV Customer Portal to send unsolicited e-mail, usenet, message board postings, or similar methods of mass messaging.
+
+2.3   You will not use, nor will you permit any third party to use, the NCRV Customer Portal to upload, post, or otherwise transmit any data that (a) is deceptive, misleading, unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another’s privacy, or otherwise objectionable; (b) you do not have a right to transmit under any law or under contractual or fiduciary relationships; (c) infringes any patent, trademark, trade secret, copyright, or other proprietary rights of any party; (d) constitutes unsolicited or unauthorized advertising or promotional materials, including but not limited to junk mail, spam, chain letters, and pyramid schemes; (e) is designed to access or monitor any material or information on any NCR Voyix system using any manual process or robot, spider, scraper, or other automated means; (f) violates privacy or other laws; or (g) contains software viruses or any other computer code, files, or programs designed to interrupt, destroy, impose an unreasonable or disproportionately large load on, or limit the functionality of any computer hardware or software or telecommunications equipment.
+
+‍
+
+‍
+
+‍
+
+‍
 
 “Controller” means a natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the Processing of Personal Data.
 
@@ -120,9 +152,9 @@ NCR Voyix is a global company with global operations, partners and suppliers. Wh
 
 ##### Disclosure of Personal Data to Third Parties
 
-‍
-
 We may share your Personal Data (including Contract Data) with the following categories of third parties:
+
+‍
 
 ‍
 
