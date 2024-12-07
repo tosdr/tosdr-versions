@@ -55,13 +55,13 @@ Main navigation
             * [LGBTQ+](https://www.eatingrecoverycenter.com/resources/lgbtq)
     * Column Two
         * Our Approach
+            * [Treatment Outcomes](https://www.eatingrecoverycenter.com/erc-outcomes)
             * [Eating Disorder Therapy](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
             * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
-            * [Outcomes Report](https://www.eatingrecoverycenter.com/erc-outcomes)
         * Additional Services
             * [Travel Concierge](https://www.eatingrecoverycenter.com/concierge-service)
     * Get Matched to the Exact Support You Need
@@ -207,13 +207,13 @@ Main navigation
             * [LGBTQ+](https://www.eatingrecoverycenter.com/resources/lgbtq)
     * Column Two
         * Our Approach
+            * [Treatment Outcomes](https://www.eatingrecoverycenter.com/erc-outcomes)
             * [Eating Disorder Therapy](https://www.eatingrecoverycenter.com/eating-disorder-therapy)
             * [Insurance & Paying for Treatment](https://www.eatingrecoverycenter.com/insurance)
             * [Aftercare Support](https://www.eatingrecoverycenter.com/alumni-overview)
             * [Nutrition Program](https://www.eatingrecoverycenter.com/resources/nutrition-program)
             * [Alumni Testimonials](https://www.eatingrecoverycenter.com/alumni/success-stories)
             * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
-            * [Outcomes Report](https://www.eatingrecoverycenter.com/erc-outcomes)
         * Additional Services
             * [Travel Concierge](https://www.eatingrecoverycenter.com/concierge-service)
     * Get Matched to the Exact Support You Need
