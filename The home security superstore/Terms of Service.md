@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off All Home Safety Prodcts I Code: HOME15](https://www.thehomesecuritysuperstore.com/collections/home-safety?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+All+Home+Safety+Prodcts)
+[Early Holiday Sale | 15% Off Self-Defense w/ SD15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=Early+Holiday+Sale+15%25+Off+Self-Defense)
 
-TODAY'S OFFER: :: | 15% Off All Home Safety Prodcts I Code: HOME15
+TODAY'S OFFER: :: | Early Holiday Sale | 15% Off Self-Defense w/ SD15
 
 TODAY'S OFFER: : :
 
- 15% Off All Home Safety Prodcts I Code: HOME15
+ Early Holiday Sale 15% Off Self-Defense w/ SD15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
