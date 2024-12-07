@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/0141d79d-8d64-4d86-8808-3b80719efb0b/20241207T125128/0141d79d-8d64-4d86-8808-3b80719efb0b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0141d79d-8d64-4d86-8808-3b80719efb0b/20241207T125128/0141d79d-8d64-4d86-8808-3b80719efb0b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Warm up through the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
         
         #### [Snowstar ski resort making snow ahead of opening day](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/86317c0c-150b-4348-bd16-fec6e82c0170/20241206T225637/86317c0c-150b-4348-bd16-fec6e82c0170_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/86317c0c-150b-4348-bd16-fec6e82c0170/20241206T225637/86317c0c-150b-4348-bd16-fec6e82c0170_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [Nice warmup will bring widespread 50s for the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-25°
+42°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
