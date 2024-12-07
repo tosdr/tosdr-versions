@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» провела межрегиональный женский форум в Биробиджане](https://cdn.er.ru/media/news/December2024/ht7VIuSCLsnVRM0nBFFt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-mezhregionalnyj-zhenskij-forum-v-birobidzhane)
+
+[«Единая Россия» провела межрегиональный женский форум в Биробиджане](https://er.ru/activity/news/edinaya-rossiya-provela-mezhregionalnyj-zhenskij-forum-v-birobidzhane)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Харченко](https://er.ru/activity/news?tags%5B0%5D=13063) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#Стулова](https://er.ru/activity/news?tags%5B0%5D=1094161) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459)
+
+Сегодня 17:37
+
 [![«Единая Россия» дала старт программе поддержки участников СВО «Психологический наставник»](https://cdn.er.ru/media/news/December2024/cC4aucBgbYsLlnJzZA2Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-programme-podderzhki-uchastnikov-svo-psihologicheskij-nastavnik)
 
 [«Единая Россия» дала старт программе поддержки участников СВО «Психологический наставник»](https://er.ru/activity/news/edinaya-rossiya-dala-start-programme-podderzhki-uchastnikov-svo-psihologicheskij-nastavnik)
@@ -336,14 +344,6 @@
 [«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
-
-06.12.24
-
-[![«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://cdn.er.ru/media/news/December2024/UfUoOJWA18hAz9CZAMNy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
-
-[«Единая Россия» запустила серию мероприятий по поддержке жён и матерей участников СВО](https://er.ru/activity/news/edinaya-rossiya-zapustila-seriyu-meropriyatij-po-podderzhke-zhyon-i-materej-uchastnikov-svo)
-
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#женскоедвижениеединойроссии](https://er.ru/activity/news?tags%5B0%5D=1093285) [#семьивоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1095229) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#приемы](https://er.ru/activity/news?tags%5B0%5D=31258) [#Деньдобровольца](https://er.ru/activity/news?tags%5B0%5D=142249)
 
 06.12.24
 
