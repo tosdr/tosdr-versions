@@ -202,121 +202,121 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Dr Disrespect
+[Power Slap
 
-7.61K](https://rumble.com/v5wnx8t-live-dr-disrespect-og-fortnite-solo-victory-royales.html "Dr Disrespect")
-
-[The Jimmy Dore Show
-
-5.61K](https://rumble.com/v5wqtz8-assassin-left-cryptic-message-for-health-insurance-ceo-biden-moving-to-pard.html "The Jimmy Dore Show")
-
-[Nerdrotic
-
-3.08K](https://rumble.com/v5wqg6k-hbo-harry-potter-doa-war-of-the-rohirrim-cope-doctor-who-cringe-friday-nigh.html "Nerdrotic")
-
-[NEWSMAX
-
-3.05K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
-
-[Barry Cunningham
-
-797](https://rumble.com/v5wpzn5-trump-daily-briefing-joni-ernst-making-huge-mistake-with-pete-hegseth-and-n.html "Barry Cunningham")
+50.1K](https://rumble.com/v5ti4fe-power-slap-10-the-bell-vs-perez-friday-december-6th-at-9pm-et6pm-pt.html "Power Slap")
 
 [Badlands Media
 
-683](https://rumble.com/v5wjjyq-the-conscious-strength-show-ep.-24-400-pm-et-.html "Badlands Media")
+8.03K](https://rumble.com/v5wjs65-the-liberty-den-ep.-121-1030-pm-et-.html "Badlands Media")
+
+[Akademiks
+
+2.93K](https://rumble.com/v5wszob-kendrick-lamar-adds-second-show-in-toronto-cardi-b-spends-3-mil-a-month-her.html "Akademiks")
+
+[NEWSMAX
+
+1.77K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+
+[Bannons War Room
+
+1.02K](https://rumble.com/v5wua2b-mexico-and-marxism-ep-230-christianity-and-citizenship-hebroes-royce-white-.html "Bannons War Room")
+
+[Drew Hernandez
+
+820](https://rumble.com/v5wr8yt-obama-projects-maga-will-steal-elections-as-radical-dems-double-down.html "Drew Hernandez")
 
 [Lofi Girl
 
-227](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
+189](https://rumble.com/v2o2oe5-synthwave-radio-beats-to-chillgame-to.html "Lofi Girl")
 
 [Major League Fishing
 
-1](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
+3](https://rumble.com/v5pak3w-live-general-tire-team-series-summit-cup-day-6.html "Major League Fishing")
 
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
-
-[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
 
 [VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
 
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
-
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
-
-[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
-
-[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
-
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
-
-[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
-
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
 
 [Barstool Baseball](https://rumble.com/c/BarstoolBaseball "Barstool Baseball")
 
-[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
 
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
 
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Bitcoin.com](https://rumble.com/c/Bitcoincom "Bitcoin.com")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
-
-[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
 
 [Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
 
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
+
+[Sean Hannity](https://rumble.com/c/SeanHannity "Sean Hannity")
+
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+
+[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[Robert F. Kennedy Jr.](https://rumble.com/c/RFKjr "Robert F. Kennedy Jr.")
+
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+
+[Rubbin Is Racing](https://rumble.com/c/rubbinisracing "Rubbin Is Racing")
+
+[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+
+[CAMELOT331](https://rumble.com/c/CAMELOT331 "CAMELOT331")
+
+[Alex Zedra](https://rumble.com/c/AlexZedra "Alex Zedra")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
+
+[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
 [Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
 
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
 
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
 
-[Audit the Audit](https://rumble.com/c/JohnLang "Audit the Audit")
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
 
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
 
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
-
-[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
-
-[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
-
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
+[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
 
 ### Theme
 
