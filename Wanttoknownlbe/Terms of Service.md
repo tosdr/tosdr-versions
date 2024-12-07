@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/eindelijk-intelligente-kijk-op-klimaatverandering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/zo-mooi-is-vriendschap/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
