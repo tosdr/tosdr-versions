@@ -259,48 +259,12 @@ Advertise with Us
 
 Most Popular
 
-[![Derry man who sexually assaulted 16-year-old girl on a Christmas night out jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who sexually assaulted 16-year-old girl on a Christmas night out jailed")](https://www.derrynow.com/news/local-news/1674634/derry-man-who-sexually-assaulted-16-year-old-girl-on-a-christmas-night-out-jailed.html)
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
 
-Derry Magistrates' Court
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man who sexually assaulted 16-year-old girl on a Christmas night out jailed](https://www.derrynow.com/news/local-news/1674634/derry-man-who-sexually-assaulted-16-year-old-girl-on-a-christmas-night-out-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool")](https://www.derrynow.com/news/national-news/1674886/conor-mcgregor-wants-to-knock-lavish-home-to-build-mansion-with-cinema-and-swimming-pool.html)
-
-Conor McGregor
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool](https://www.derrynow.com/news/national-news/1674886/conor-mcgregor-wants-to-knock-lavish-home-to-build-mansion-with-cinema-and-swimming-pool.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed")](https://www.derrynow.com/news/local-news/1674566/man-who-carried-out-bizarre-theft-by-stealing-dog-leads-and-harnesses-valued-at-2-126-jailed.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed](https://www.derrynow.com/news/local-news/1674566/man-who-carried-out-bizarre-theft-by-stealing-dog-leads-and-harnesses-valued-at-2-126-jailed.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who assaulted Translink staff member jailed for five months](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who assaulted Translink staff member jailed for five months")](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who assaulted Translink staff member jailed for five months](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1671659/in-pictures-st-patrick-s-and-st-brigid-s-college-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1671659/in-pictures-st-patrick-s-and-st-brigid-s-college-annual-prizegiving.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, December 7, 2024](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![ALERT: Nearly 400,000 and businesses without power following Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Nearly 400,000 and businesses without power following Storm Darragh")](https://www.derrynow.com/news/national-news/1675203/alert-nearly-400-000-and-businesses-without-power-following-storm-darragh.html)
 
@@ -311,45 +275,84 @@ Damage assessments are being made and crews are restoring supply, where safe to 
 [ALERT: Nearly 400,000 and businesses without power following Storm Darragh](https://www.derrynow.com/news/national-news/1675203/alert-nearly-400-000-and-businesses-without-power-following-storm-darragh.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches")](https://www.derrynow.com/news/national-news/1674645/cancelled-bus-eireann-services-significantly-impacted-as-storm-darragh-approaches.html)
+[![Police end search for missing County Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police end search for missing County Derry man")](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
 
-A number of severe weather warnings have been issued by Met Eireann
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Police end search for missing County Derry man](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![70,000 still left in the dark as ESB repairs Storm Darragh damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "70,000 still left in the dark as ESB repairs Storm Darragh damage")](https://www.derrynow.com/news/national-news/1675367/lights-back-on-for-70-000-as-esb-begins-to-repair-storm-darragh-damage.html)
+
+All ESB Networks teams are mobilised and are continuing to closely monitor the storm impact on power supplies.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches](https://www.derrynow.com/news/national-news/1674645/cancelled-bus-eireann-services-significantly-impacted-as-storm-darragh-approaches.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Lights back on for 70,000 as ESB begins to repair Storm Darragh damage](https://www.derrynow.com/news/national-news/1675367/lights-back-on-for-70-000-as-esb-begins-to-repair-storm-darragh-damage.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
+[![Stay safe: Public advised to take care in the aftermath of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stay safe: Public advised to take care in the aftermath of Storm Darragh")](https://www.derrynow.com/news/national-news/1675308/stay-safe-public-advised-to-take-care-in-the-aftermath-of-storm-darragh.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+A Status Yellow Wind warning will remain in effect for all of Ireland until 3pm today. 
 
-[Derry Death Notices - Saturday, December 7, 2024](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Derry doctor honored with prestigious BB-Mahatma Gandhi Award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry doctor honored with prestigious BB-Mahatma Gandhi Award")](https://www.derrynow.com/news/local-news/1674503/derry-doctor-honored-with-prestigious-bb-mahatma-gandhi-award.html)
+[Stay safe: Public advised to take care in the aftermath of Storm Darragh](https://www.derrynow.com/news/national-news/1675308/stay-safe-public-advised-to-take-care-in-the-aftermath-of-storm-darragh.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Dr Mukesh Chugh was honored with the prestigious BB-Mahatma Gandhi Award 2024
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry doctor honored with prestigious BB-Mahatma Gandhi Award](https://www.derrynow.com/news/local-news/1674503/derry-doctor-honored-with-prestigious-bb-mahatma-gandhi-award.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police increasingly concerned for welfare of missing County Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police increasingly concerned for welfare of missing County Derry man")](https://www.derrynow.com/news/local-news/1674709/police-increasingly-concerned-for-welfare-of-missing-county-derry-man.html)
-
-William Dickson
+[![Trains and some buses suspended as Storm Darragh hits Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trains and some buses suspended as Storm Darragh hits Northern Ireland")](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police increasingly concerned for welfare of missing County Derry man](https://www.derrynow.com/news/local-news/1674709/police-increasingly-concerned-for-welfare-of-missing-county-derry-man.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Seven counties under red wind warning as Storm Darragh nears Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Seven counties under red wind warning as Storm Darragh nears Ireland")](https://www.derrynow.com/news/northern-ireland/1674938/seven-counties-under-red-wind-warning-as-storm-darragh-nears-ireland.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Seven counties under red wind warning as Storm Darragh nears Ireland](https://www.derrynow.com/news/northern-ireland/1674938/seven-counties-under-red-wind-warning-as-storm-darragh-nears-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tributes flood in following the death of iconic Irish singer Dickie Rock](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes flood in following the death of iconic Irish singer Dickie Rock")](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
+
+Pictured: Dickie Rock performing at the Millennium Forum for the last time in 2020.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[President Michael D Higgins leads tributes to 'iconic figure' Dickie Rock](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely")](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
+
+Even the smallest piece of information, which may seem insignificant, may assist the investigation.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Uisce Éireann activates emergency response amid impact of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann activates emergency response amid impact of Storm Darragh")](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
+
+There are some simple steps people can take to conserve water, such as avoiding the use of water-intensive appliances during this time.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Uisce Éireann activates emergency response amid impact of Storm Darragh](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Coleraine comes alive with festive cheer](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1671659/in-pictures-st-patrick-s-and-st-brigid-s-college-annual-prizegiving.html)
 
@@ -415,13 +418,6 @@ Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
 
 [IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary")](https://www.derrynow.com/story-telling/pictures---videos/1673585/in-pictures-rath-mor-50-+-club-celebrates-20th-anniversary.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Ráth Mór 50 + Club celebrates 20th anniversary](https://www.derrynow.com/story-telling/pictures---videos/1673585/in-pictures-rath-mor-50-+-club-celebrates-20th-anniversary.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,6 +521,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Hollybush Primary School invites prospective pupils and parents to their Open Morning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hollybush Primary School invites prospective pupils and parents to their Open Morning")](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -532,7 +535,7 @@ Advertise with Us
 [Hollybush Primary School invites prospective pupils and parents to their Open Morning](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Trains and some buses suspended as Storm Darragh hits Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trains and some buses suspended as Storm Darragh hits Northern Ireland")](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
+[![Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_07/1733567701432_0.jpg--.jpg?1733567701502 "Trains and some buses suspended as Storm Darragh hits Northern Ireland")](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -561,13 +564,6 @@ Aisling Byrne, director of Turnaround, was presented with the award for Best Iri
 
 [Foyle Film Festival’s Light in Motion Competition award winners 2024 announced](https://www.derrynow.com/news/local-news/1672018/foyle-film-festivals-light-in-motion-competition-award-winners-2024-announced.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, December 7, 2024](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
