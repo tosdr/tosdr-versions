@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [State Og Update: 01.11.03](https://www.somethingawful.com/state-og/state-og-update-6/)
-* [How to Build Your Own PC](https://www.somethingawful.com/guides/pc-building-guide/1/)
-* [Dancing Dogs](https://www.somethingawful.com/awful-links/awful-link-2151/)
-* [Fatal Relations](https://www.somethingawful.com/hentai-game-reviews/fatal-relations/)
+* [The 2007 Holiday Skymall Strategy Guide, Part 7](https://www.somethingawful.com/guides/skymall-guide-part7/1/)
+* [Where is Alec Baldwin now?](https://www.somethingawful.com/comedy-goldmine/alec-baldwin-adventures/1/)
+* [Mario Hits Hollywood!](https://www.somethingawful.com/comedy-goldmine/mario-hollywood/1/)
+* [The Questionable Art of BattleTechnology Magazine](https://www.somethingawful.com/dungeons-and-dragons/battletech-mechwarrior-magazine/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [\[Request\] Can Lily Phillips sleep with 1000 men in 24 hours?](http://forums.somethingawful.com/showthread.php?threadid=4076972 "[Request] Can Lily Phillips sleep with 1000 men in 24 hours?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [post your lights/trees/menorahs/other holiday decorations](http://forums.somethingawful.com/showthread.php?threadid=4077030 "post your lights/trees/menorahs/other holiday decorations")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
 
 ### Random Articles
 
-* [Dingo Pictures presents James Cameron's Titanic](https://www.somethingawful.com/flash-tub/dingo-pictures-titanic/)
-* [And When I Must be Clothed... (NOT SAFE FOR WORK!)](https://www.somethingawful.com/awful-links/awful-link-4243/)
-* [Jughead Fucks Now? How DARE You!](https://www.somethingawful.com/news/jughead-asexual-riverdale/)
-* [I Hate You Page 132](https://www.somethingawful.com/cliff-yablonski/i-hate-you-132/)
-* [Mega Spaz the Cat Update, First Backyard Love](https://www.somethingawful.com/news/mega-spaz-cat/)
+* [Order of the Black Eagle](https://www.somethingawful.com/movie-reviews/order-black-eagle/1/)
+* [Two weeks with a Canker Sore: A Journal](https://www.somethingawful.com/news/canker-sore/1/)
+* [Bagman Begins!](https://www.somethingawful.com/photoshop-phriday/sleeping-bag-legs/1/)
+* [Grading The Flags](https://www.somethingawful.com/awful-links/grading-flags/)
+* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
