@@ -1243,14 +1243,12 @@ Table of Contents Table of Contents Toggle navigation
 
 * [Security, privacy, and compliance](https://www.knowledgeowl.com/help/security-privacy-and-compliance)
 
-  
-
 ![](https://dyzz9obi78pm5.cloudfront.net/app/image/id/5b8747e36e121c8a6c56729b/n/knowledgeowllogo-mb1.png)
 
 Privacy policy[](https://www.knowledgeowl.com/help/pdfexport/id/65416cfb00d31b22877f7b54 "Download PDF")[](#)[](#)
 ==================================================================================================================
 
-Last Modified on 07/29/2024 2:22 pm EDT
+Last Modified on 12/06/2024 11:22 pm EST
 
 ![](https://dyzz9obi78pm5.cloudfront.net/app/image/id/5fcf35aaad121cf32879c0b4/n/privacy-policy.svg)
 
@@ -1425,7 +1423,7 @@ This document is based upon the [Automattic Privacy Policy](https://automattic.c
 
 Although most changes are likely to be minor, KnowledgeOwl may change its Privacy Policy from time to time. If we make changes, we will notify you by revising the change log below, and, in some cases, we may provide additional notice (such as adding a statement to our homepage or sending you a notification through e-mail or your dashboard). Your continued use of the Services after any change in this Privacy Policy will constitute your consent to such change.
 
-_July 29, 2024: Updated DPF language to reflect our commitment to cooperate with EU, UI, and Swiss data authorities as part of our DPF certification. Included additional language to ensure compliance with DPF principles around accountability of onward transfer of data._
+_July 29, 2024: Updated DPF language to reflect our commitment to cooperate with EU, UK, and Swiss data authorities as part of our DPF certification. Included additional language to ensure compliance with DPF principles around accountability of onward transfer of data._
 
 _March 27, 2024: Updated contact information to reflect our new compliance email and added language about the UK extension._
 
