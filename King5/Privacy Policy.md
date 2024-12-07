@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/shelton-police-officer-stabbed/281-76f43407-1c6e-4d1d-b273-279a475c1dab)
+    *  [![](https://media.king5.com/assets/KING/images/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae/20241207T000227/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae/20241207T000227/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/motorcyclist-killed-queen-anne-crash/281-7cfbba92-7243-4bae-aca8-0b73905f970c)
         
-        #### [Shelton police officer stabbed during arrest of felony suspect](https://www.king5.com/article/news/crime/shelton-police-officer-stabbed/281-76f43407-1c6e-4d1d-b273-279a475c1dab)
+        #### [Motorcyclist killed after crash in Queen Anne](https://www.king5.com/article/traffic/traffic-news/motorcyclist-killed-queen-anne-crash/281-7cfbba92-7243-4bae-aca8-0b73905f970c)
         
-    *  [![](https://media.king5.com/assets/KING/images/5492f0c8-0b7a-4808-b649-6213a9dfb265/5492f0c8-0b7a-4808-b649-6213a9dfb265_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5492f0c8-0b7a-4808-b649-6213a9dfb265/5492f0c8-0b7a-4808-b649-6213a9dfb265_360x203.jpg)](https://www.king5.com/article/news/local/seattle/new-years-at-the-needle-firework-drone-show-seattle/281-4cd54fe0-5c3a-4226-aeb0-63851ecce9c5)
+    *  [![](https://media.king5.com/assets/KING/images/e2bd7361-33b8-42ee-a937-09d0450d1462/e2bd7361-33b8-42ee-a937-09d0450d1462_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e2bd7361-33b8-42ee-a937-09d0450d1462/e2bd7361-33b8-42ee-a937-09d0450d1462_360x203.jpg)](https://www.king5.com/article/news/crime/man-sentenced-killing-man-complained-loud-party-lakewood/281-7f5cf99c-4f7d-46ed-aaf5-b2bfcefef9d2)
         
-        #### [A firework and drone show set to ring in 2025 at the Space Needle](https://www.king5.com/article/news/local/seattle/new-years-at-the-needle-firework-drone-show-seattle/281-4cd54fe0-5c3a-4226-aeb0-63851ecce9c5)
+        #### [Lakewood teen sentenced to 25 years in stabbing of man outside party](https://www.king5.com/article/news/crime/man-sentenced-killing-man-complained-loud-party-lakewood/281-7f5cf99c-4f7d-46ed-aaf5-b2bfcefef9d2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3/20241206T125537/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3/20241206T125537/ae30c4eb-8389-4cdd-a8fc-e2ea4a9ba6a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_360x203.jpg)](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
+        
+        #### [How does a cap cloud form?](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
+        
+    *  [![](https://media.king5.com/assets/KING/images/9b63801c-7e1e-4db2-80e5-3b303419c32c/20241206T202553/9b63801c-7e1e-4db2-80e5-3b303419c32c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9b63801c-7e1e-4db2-80e5-3b303419c32c/20241206T202553/9b63801c-7e1e-4db2-80e5-3b303419c32c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8/20241206T012620/cac192d8-acdb-4e57-9ad8-16bbf9b7eab8_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
-        
-        #### [Damage from bomb cyclone wind storm nearing $20 million in Snohomish County](https://www.king5.com/article/weather/severe-weather/damage-from-bomb-cyclone-wind-storm-nearing-20-million-snohomish/281-3b748c21-8d89-4078-a610-48911025f122)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+52°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
