@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2024/11/Kaseya-365-USER-Webinar-Master-the-Tech-Optimising-MSP-Security-1200x800-px-1-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2024/12/Security-Suite-Webinar-2025-Cybersecurity-Predictions-2-300x200.png)
     
-    Master the Tech: Optimizing MSP Security with Kaseya 365 User
+    2025 Cybersecurity Predictions: Insights to Stay Ahead of Emerging Threats
     
-    December 6
+    December 12
     
     [View All Events](https://www.kaseya.com/events/)
     
