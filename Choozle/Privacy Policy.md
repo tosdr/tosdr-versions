@@ -426,15 +426,27 @@ Join our mailing list to stay updated on news and releases.
 
 By subscribing, you agree to our Privacy Policy and consent to receive updates from us.
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2093%20121'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2094%20122'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
@@ -445,30 +457,69 @@ By subscribing, you agree to our Privacy Policy and consent to receive updates f
 * [Cookie Settings](https://choozle.com/opt-out)
 * [Data Processing Agreement](https://choozle.com/data-processing-agreement/)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/users-love-us.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/HighPerformerSummer2024.svg)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/BestROISummer2024.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/FastestImplementationSummer2024.svg)
 
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
+
 ![](https://choozle.com/wp-content/uploads/EasiesttoUseSummer2024.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20150%20150'%3E%3C/svg%3E)
 
 ![](https://choozle.com/wp-content/uploads/BestResultsSummer2024.svg)
 
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20638%20619'%3E%3C/svg%3E)
+
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_cion__1.png)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%203328%203328'%3E%3C/svg%3E)
 
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon2.png)
 
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20769%201000'%3E%3C/svg%3E)
+
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__3.png)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20770%201000'%3E%3C/svg%3E)
 
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon_4.png)
 
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20231%20300'%3E%3C/svg%3E)
+
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__5.png)
+
+![digital advertising solutions](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20116%20150'%3E%3C/svg%3E)
 
 ![digital advertising solutions](https://choozle.com/wp-content/uploads/2024/04/footer_icon__6.png)
 
 [Facebook](https://www.facebook.com/choozle) [Instagram](https://www.instagram.com/choozle/) [X-twitter](https://twitter.com/choozle) [Linkedin](https://www.linkedin.com/company/choozle) [Youtube](https://www.youtube.com/@ChoozleDenver)
+
+![leadership headshot Tina Starr](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20314%20314'%3E%3C/svg%3E)
+
+![leadership headshot Tina Starr](https://choozle.com/wp-content/uploads/leadership-HEADSHOT-starr-314x314.png)
+
+Tina Star – VP Account Management and Strategy
+----------------------------------------------
+
+Tina Starr is a seasoned marketing and advertising strategist with a proven track record in agency leadership and strategic account management. As Vice President of Account Management and Strategy, she leverages her expertise in performance marketing to drive results, build high-performing teams, and lead successful client initiatives across diverse industries.
+
+Throughout her career, Tina has achieved notable success focusing on how to connect marketing efforts directly to measurable outcomes. Her leadership experience in various agency environments has allowed her to cultivate strong teams and foster a collaborative culture that encourages creativity and innovation.
+
+Before stepping into leadership roles, Tina gained valuable experience in digital marketing, advertising, communications and brand strategy. This diverse background has equipped her with a comprehensive understanding of the marketing and advertising landscape, enabling her to navigate challenges effectively and deliver impactful results that drive business growth and enhance client success.
+
+CLOSE
 
 Search for:
