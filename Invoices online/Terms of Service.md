@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Anri van der Linde
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=18490020)  
-Gemini-IT Group
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=135342323)  
+Little Nutty Professors
 
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=22651042)  
-Iurus Inc
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=118596222)  
+Druce Digital
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=83142131)  
-Sonic Electrical Services PTY Ltd
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80320310)  
+MSPCloud (Pty) Ltd
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=203467705)  
-Roamfree Boerdery (PTY) LTD
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=167639922)  
+United Paintball Federation
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=122168418)  
-Moving Made Easy (PTY) Ltd
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=174207446)  
+MONSTER SECURITY SERVICES
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=84828713)  
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80123999)  
+Henry's Home Renovations
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=152527633)  
+Oukraal Merino's
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80020934)  
+Qothiphango Mining
+
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=127043749)  
 Digifax Pty) Ltd t/a Findfish
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=43247004)  
-SafeTclip
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=24941240)  
+Iurus Inc
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=136811029)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=31704519)  
+Xpress Designs
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=25449527)  
-Mountain Lion Properties
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=55871200)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=17974645)  
-Three Moons Emporium
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=169220384)  
+Lily Fern & Co
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=177754217)  
-VerdanTech Pty Ltd
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=70074395)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=126205994)  
-Bchange Online CC
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=77361359)  
-WIP Digital Solutions
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=150238657)  
-The Gourmet Artisans Ltd.
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=94705743)  
-Forgotten Goods (Pty) Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=1755034)  
+Brilliant Roof Products
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
