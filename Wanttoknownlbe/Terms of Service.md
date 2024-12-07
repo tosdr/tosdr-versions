@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/10-hogere-prijs-voor-n-duurzaam-product-geen-probleem/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/mh17-radarbeelden-onvindbaar-who-benefits/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
