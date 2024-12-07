@@ -136,21 +136,21 @@ All the issues and problems will be resolved pursuant to our Japanese Privacy Po
 
 [![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/04/ps5-ffxvi-limited-items-release-00-150x150.jpg "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
+* [![Review! the Feature-Rich ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/02/neogeo-arcade-stick-pro-unbox-00-1-150x150.jpg "Review! the Feature-Rich ")
     
-    New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!](https://saiganak.com/product/ps5-ffxvi-limited-items-release/ "New designs for DualSense and PS5 covers featuring FF XVI Available! Along with a bundle for PS5!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/05/neogeo-mini-samuraispirits-limited-edition-preorder00-150x150.jpg)
+    Review! the Feature-Rich "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-unbox/ "Review! the Feature-Rich ")
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/life-is-strange-2-00-150x150.jpg)
     
-    "NEOGEO mini Samurai Spirits Limited Set" is here!](https://saiganak.com/product/neogeo-mini-samuraispirits-limited-edition-preorder/)
+    "Life Is Strange 2" that walks a life full of regret](https://saiganak.com/review/life-is-strange-2/)
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
+    
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/05/ff35th-anniversary-ut-additional-production-00-150x150.jpg "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
+    
+    Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!](https://saiganak.com/product/ff35th-anniversary-ut-additional-production/ "Final Fantasy 35th Anniversary UNIQLO T-Shirts coming back in Late June!")
 * [!['SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
     
     'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
-    
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![【Sad News】 NEOGEO mini discontinued...](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/neogeo-mini-eol-00-150x150.jpg "【Sad News】 NEOGEO mini discontinued...")
-    
-    【Sad News】 NEOGEO mini discontinued...](https://saiganak.com/product/neogeo-mini-eol/ "【Sad News】 NEOGEO mini discontinued...")
 
 [](#top)
 
