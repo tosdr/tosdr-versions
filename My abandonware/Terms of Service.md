@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Wangan Midnight](https://www.myabandonware.com/game/wangan-midnight-t4o)
-* [The Bradley Trainer](https://www.myabandonware.com/game/the-bradley-trainer-rk7)
-* [Gōketsuji Ichizoku: Senzo Kuyō](https://www.myabandonware.com/game/goketsuji-ichizoku-senzo-kuyo-t88)
+* [Dora the Explorer: Wildlife Rescue](https://www.myabandonware.com/game/dora-the-explorer-wildlife-rescue-msm)
+* [Gizmondo Motocross 2005](https://www.myabandonware.com/game/gizmondo-motocross-2005-mtr)
+* [Fist of the North Star](https://www.myabandonware.com/game/fist-of-the-north-star-sqb)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
