@@ -565,25 +565,25 @@ Continue shopping
 
 [Hi ! You have   PTS](https://shop.angel.com/apps/bubblehouse/rewards/)
 
-![](https://cdn.shopify.com/extensions/25a85fd9-51eb-44e9-ab2d-a0d700fc2da1/gratify-29/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
 
 SPEND $50
 
 Free Gift ($9 Value)
 
-![](https://cdn.shopify.com/extensions/25a85fd9-51eb-44e9-ab2d-a0d700fc2da1/gratify-29/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
 
 SPEND $75
 
 Free Gift ($25 Value)
 
-![](https://cdn.shopify.com/extensions/25a85fd9-51eb-44e9-ab2d-a0d700fc2da1/gratify-29/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
 
 SPEND $100
 
 Free Gift ($90 Value)
 
-![](https://cdn.shopify.com/extensions/25a85fd9-51eb-44e9-ab2d-a0d700fc2da1/gratify-29/assets/free-gift_26x.png)
+![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
 
 SPEND $250
 
