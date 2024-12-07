@@ -12,7 +12,7 @@ Search
 
 Shop
 
-Moonboard [Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html "View All")
+Moonboard [Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html?p=2 "View All")
 
 Men's [Tops](https://moonclimbing.com/clothing/mens/tops.html "Tops") [Legwear](https://moonclimbing.com/mens-moon-climbing-clothes/bottoms.html "Legwear") [Accessories](https://moonclimbing.com/clothing/mens/accessories.html "Accessories") [Clearance](https://moonclimbing.com/clothing/mens/men-s-clearance.html "Clearance") [View All](https://moonclimbing.com/mens-moon-climbing-clothes.html "View All")
 
@@ -42,7 +42,7 @@ back
 
 Moonboard
 
-[Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html "View All")
+[Kits](https://moonclimbing.com/moonboard/kits-and-packages.html "Kits") [Hold Sets](https://moonclimbing.com/moonboard/holds-and-bolts.html "Hold Sets") [LEDs](https://moonclimbing.com/moonboard/led.html "LEDs") [Parts & Spares](https://moonclimbing.com/moonboard/parts-and-components.html "Parts & Spares") [View All](https://moonclimbing.com/moonboard.html?p=2 "View All")
 
 Men's
 
