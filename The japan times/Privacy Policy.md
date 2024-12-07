@@ -476,13 +476,17 @@ Revised June 1, 2022
 
   [![Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438314.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Passengers line up at Narita Airport to board a flight to Seoul on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/martial-law-companies-concern/ "Japanese companies weigh impact of South Korea's martial law chaos")
 
-[Tokyo government to introduce four-day workweek to empower women](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+[A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
-  [![Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Gov. Yuriko Koike says she will continue to review work styles flexibly to ensure that women do not have to sacrifice their careers due to life events.")](https://www.japantimes.co.jp/news/2024/12/04/japan/society/tokyo-four-day-work-week/ "Tokyo government to introduce four-day workweek to empower women")
+  [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
-[Japanese sake brewing added to UNESCO intangible heritage list](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
+[Police may be able to use fake IDs to investigate _yami baito_](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
 
-  [![Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/05/438363.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Sake bottles are displayed at the 19th World Cultural Heritage Conference, as sake was added to UNESCO'S Intangible Cultural Heritage list, in Asuncion, Paraguay on Wednesday.")](https://www.japantimes.co.jp/news/2024/12/05/japan/society/unesco-sake-brewing/ "Japanese sake brewing added to UNESCO intangible heritage list")
+  [![A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
+
+[What constitutes fatal dangerous driving in Japan?](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
+
+  [![Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
 [Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
 
@@ -519,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -561,25 +565,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Incoming ADB chief Kanda keeping eye on U.S. policy as Trump looms](https://www.japantimes.co.jp/business/2024/12/07/economy/kanda-trump-policy-watch/ "Incoming ADB chief Kanda keeping eye on U.S. policy as Trump looms")
+[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
 
-29 mins ago
+44 mins ago
 
-[South Korean President Yoon apologizes for martial law ahead of impeachment vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-apology/ "South Korean President Yoon apologizes for martial law ahead of impeachment vote")
-
-33 mins ago
-
-[Trump's crypto team takes shape but questions remain over who will drive policy](https://www.japantimes.co.jp/business/2024/12/07/tech/trump-crypto-team/ "Trump's crypto team takes shape but questions remain over who will drive policy")
+[K-pop, carols and guillotines at South Korea impeachment protests](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/society/south-korea-protests/ "K-pop, carols and guillotines at South Korea impeachment protests")
 
 1 hour ago
 
-[Syrian rebels seize fourth city, close in on Homs in threat to Assad's rule](https://www.japantimes.co.jp/news/2024/12/07/world/politics/syria-extend-offensive/ "Syrian rebels seize fourth city, close in on Homs in threat to Assad's rule")
+[Iran begins to evacuate military officials and personnel from Syria](https://www.japantimes.co.jp/news/2024/12/07/world/iran-evacuation-syria/ "Iran begins to evacuate military officials and personnel from Syria")
 
-1 hour ago
+3 hours ago
 
-[U.S. appeals court upholds TikTok law forcing its sale](https://www.japantimes.co.jp/news/2024/12/07/world/crime-legal/us-court-tiktok-law/ "U.S. appeals court upholds TikTok law forcing its sale")
+[Chugoku Electric restarts Shimane reactor for first time in 13 years](https://www.japantimes.co.jp/news/2024/12/07/japan/shimane-reactor-restart/ "Chugoku Electric restarts Shimane reactor for first time in 13 years")
 
-1 hour ago
+3 hours ago
+
+[Sister of ex-death row inmate Iwao Hakamada wins human rights award](https://www.japantimes.co.jp/news/2024/12/07/japan/hideko-hakamada-human-rights-award/ "Sister of ex-death row inmate Iwao Hakamada wins human rights award")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
