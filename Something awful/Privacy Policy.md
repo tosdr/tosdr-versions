@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Diary of the 1000-Pound Man](https://www.somethingawful.com/news/fat-guy-diary/1/)
-* [Misinterpreted Items from the News!](https://www.somethingawful.com/comedy-goldmine/misinterpreted-items-from/1/)
-* [Anchorman 2: The Legend Continues; Inside Llewyn Davis; Her; Nebraska; Contracted](https://www.somethingawful.com/current-movie-reviews/anchorman-2/1/)
-* [Cakefartin' Steve And Me](https://www.somethingawful.com/news/cakefarts/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [State Og Update: 01.11.03](https://www.somethingawful.com/state-og/state-og-update-6/)
+* [How to Build Your Own PC](https://www.somethingawful.com/guides/pc-building-guide/1/)
+* [Dancing Dogs](https://www.somethingawful.com/awful-links/awful-link-2151/)
+* [Fatal Relations](https://www.somethingawful.com/hentai-game-reviews/fatal-relations/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
 * ![](https://fi.somethingawful.com/forums/posticons/cspamkiddo.gif) [\[Request\] Can Lily Phillips sleep with 1000 men in 24 hours?](http://forums.somethingawful.com/showthread.php?threadid=4076972 "[Request] Can Lily Phillips sleep with 1000 men in 24 hours?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
 
 ### Random Articles
 
-* [Stupid Liches!](https://www.somethingawful.com/comedy-goldmine/undead-lich-idiot/)
-* [Awful Link Spotlight: Sam Sloan](https://www.somethingawful.com/news/awful-link-spotlight/)
-* [Somewhere There is a Crime Happening](https://www.somethingawful.com/news/somewhere-there-crime/)
-* [When Is It Okay to Call Someone a "Nazi?"](https://www.somethingawful.com/news/nazi-identification-questions/)
-* [House of Archangel](https://www.somethingawful.com/awful-links/awful-link-1174/)
+* [Dingo Pictures presents James Cameron's Titanic](https://www.somethingawful.com/flash-tub/dingo-pictures-titanic/)
+* [And When I Must be Clothed... (NOT SAFE FOR WORK!)](https://www.somethingawful.com/awful-links/awful-link-4243/)
+* [Jughead Fucks Now? How DARE You!](https://www.somethingawful.com/news/jughead-asexual-riverdale/)
+* [I Hate You Page 132](https://www.somethingawful.com/cliff-yablonski/i-hate-you-132/)
+* [Mega Spaz the Cat Update, First Backyard Love](https://www.somethingawful.com/news/mega-spaz-cat/)
 
 [Random!](https://www.somethingawful.com/random/)
 
