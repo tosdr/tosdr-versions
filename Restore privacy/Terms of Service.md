@@ -254,6 +254,30 @@ Sidebar
 LATEST NEWS
 -----------
 
+[![New Realst Stealer Campaign Targets Windows and macOS Systems](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![New Realst Stealer Campaign Targets Windows and macOS Systems](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Realst-Stealer-Campaign-Targets-Windows-and-macOS-Systems-400x400.jpg)](https://cyberinsider.com/new-realst-stealer-campaign-targets-windows-and-macos-systems/)
+
+### [New Realst Stealer Campaign Targets Windows and macOS Systems](https://cyberinsider.com/new-realst-stealer-campaign-targets-windows-and-macos-systems/)
+
+[![SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/SD-Express-Card-Flaw-Exposes-Laptops-and-Consoles-to-Memory-Attacks-400x400.jpg)](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
+
+### [SD Express Card Flaw Exposes Laptops and Consoles to Memory Attacks](https://cyberinsider.com/sd-express-card-flaw-exposes-laptops-and-consoles-to-memory-attacks/)
+
+[![Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Novel-C2-Technique-Exploits-QR-Codes-to-Bypass-Browser-Isolation-400x400.jpg)](https://cyberinsider.com/novel-c2-technique-exploits-qr-codes-to-bypass-browser-isolation/)
+
+### [Novel C2 Technique Exploits QR Codes to Bypass Browser Isolation](https://cyberinsider.com/novel-c2-technique-exploits-qr-codes-to-bypass-browser-isolation/)
+
+[![New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
+
+![New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-0-Day-NTLM-Hash-Disclosure-Vulnerability-in-Windows-7-to-11-400x400.jpg)](https://cyberinsider.com/new-0-day-ntlm-hash-disclosure-vulnerability-in-windows-7-to-11/)
+
+### [New 0-Day NTLM Hash Disclosure Vulnerability in Windows 7 to 11](https://cyberinsider.com/new-0-day-ntlm-hash-disclosure-vulnerability-in-windows-7-to-11/)
+
 [![New Android Spyware Used by Russian State-Backed Spyware Found](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
 
 ![New Android Spyware Used by Russian State-Backed Spyware Found](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/New-Android-Spyware-Used-by-Russian-State-Backed-Spyware-Found-400x400.jpg)](https://cyberinsider.com/new-android-spyware-used-by-russian-state-backed-entities-found/)
@@ -289,30 +313,6 @@ LATEST NEWS
 ![New Android Malware DroidBot Targets Banking Users in Europe](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0743-400x400.png)](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
 
 ### [New Android Malware DroidBot Targets Banking Users in Europe](https://cyberinsider.com/new-android-malware-droidbot-targets-banking-users-in-europe/)
-
-[![FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/IMG_0742-400x400.png)](https://cyberinsider.com/fbi-criminals-exploit-generative-ai-for-sophisticated-fraud-schemes/)
-
-### [FBI: Criminals Exploit Generative AI for Sophisticated Fraud Schemes](https://cyberinsider.com/fbi-criminals-exploit-generative-ai-for-sophisticated-fraud-schemes/)
-
-[![Data Leak Exposes Millions of Top Corporations Employee Records](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![Data Leak Exposes Millions of Top Corporations Employee Records](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Data-Leak-Exposes-Millions-of-Top-Corporations-Employee-Records-400x400.jpg)](https://cyberinsider.com/data-leak-exposes-millions-of-top-corporations-employee-records/)
-
-### [Data Leak Exposes Millions of Top Corporations Employee Records](https://cyberinsider.com/data-leak-exposes-millions-of-top-corporations-employee-records/)
-
-[![https://cyberinsider.com/wp-content/uploads/2024/10/Operation-Magnus-Update-Announces-Arrest-of-RedLine-Malware-Creator.jpg](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![https://cyberinsider.com/wp-content/uploads/2024/10/Operation-Magnus-Update-Announces-Arrest-of-RedLine-Malware-Creator.jpg](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/1000069940-400x400.jpg)](https://cyberinsider.com/new-celestial-stealer-javascript-maas-platform-springs-into-action/)
-
-### [New Celestial Stealer JavaScript MaaS Platform Springs into Action](https://cyberinsider.com/new-celestial-stealer-javascript-maas-platform-springs-into-action/)
-
-[![US Data Brokers Face FTC's Wrath Over Tracking Consumers Online](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20400%20400'%3E%3C/svg%3E)
-
-![US Data Brokers Face FTC's Wrath Over Tracking Consumers Online](https://mnwa9ap4czgf-u1335.pressidiumcdn.com/wp-content/uploads/2024/12/Google-FLoC-privacy-Federated-Learning-of-Cohorts--400x400.jpg)](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
-
-### [US Data Brokers Face FTC’s Wrath Over Tracking Consumers Online](https://cyberinsider.com/us-data-brokers-face-ftcs-wrath-over-tracking-consumers-online/)
 
 Copyright © 2024 · CyberInsider.com · All Rights Reserved · [Privacy Policy](https://cyberinsider.com/privacy-policy/) ·  [Terms of Use](https://cyberinsider.com//terms-of-use/) · [Contact](https://cyberinsider.com/contact/)
 
