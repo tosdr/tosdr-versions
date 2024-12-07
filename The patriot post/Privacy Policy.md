@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,8 +134,6 @@ Last Updated: November 15, 2011.
 *      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
 *      [Erick Erickson The Problemed Nominee](https://patriotpost.us/opinion/112590-the-problemed-nominee-2024-12-06)
 *      [David Harsanyi The Biden Crime Family Is Above the Law](https://patriotpost.us/opinion/112589-the-biden-crime-family-is-above-the-law-2024-12-06)
-*      [Michael Barone Politics of Economic Redistribution, RIP](https://patriotpost.us/opinion/112588-politics-of-economic-redistribution-rip-2024-12-06)
-*      [Gary Bauer Cautiously Optimistic](https://patriotpost.us/opinion/112587-cautiously-optimistic-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
