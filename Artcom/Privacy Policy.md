@@ -2,11 +2,11 @@ Shop Now
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS10HRS7MINS
+2DAYS4HRS9MINS
 
 20% Off on Orders $99+ Ends in..
 
-2DAYS10HRS7MINS
+2DAYS4HRS9MINS
 
 Shop Now
 
@@ -831,7 +831,7 @@ Art.com
 
 Indianapolis, IN 46268
 
-![Logo](/mobify/bundle/931/static/img/logo.svg)
+![Logo](/mobify/bundle/941/static/img/logo.svg)
 
 World's largest selection of art
 
