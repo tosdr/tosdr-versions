@@ -416,7 +416,7 @@ Use Cases
 
 * [Cloud Security](https://hostedscan.com/cloud-security-vulnerability-scanner)
 * [Vulnerability Management](https://hostedscan.com/vulnerability-management)
-* [DAST Scan](https://hostedscan.com/dast-scan)
+* [DAST Scanner](https://hostedscan.com/dast-scan)
 * [Online Port Scanner](https://hostedscan.com/online-port-scanner)
 * [Online Vulnerability Scanner](https://hostedscan.com/online-vulnerability-scanner)
 
@@ -538,7 +538,7 @@ Use Cases
 
 * [Cloud Security](https://hostedscan.com/cloud-security-vulnerability-scanner)
 * [Vulnerability Management](https://hostedscan.com/vulnerability-management)
-* [DAST Scan](https://hostedscan.com/dast-scan)
+* [DAST Scanner](https://hostedscan.com/dast-scan)
 * [Online Port Scanner](https://hostedscan.com/online-port-scanner)
 * [Online Vulnerability Scanner](https://hostedscan.com/online-vulnerability-scanner)
 
@@ -635,7 +635,7 @@ Use Cases
 * [Wordpress Vulnerability Scan](https://hostedscan.com/wordpress-vulnerability-scan)
 * [Cloud Security](https://hostedscan.com/cloud-security-vulnerability-scanner)
 * [Vulnerability Management](https://hostedscan.com/vulnerability-management)
-* [DAST Scan](https://hostedscan.com/dast-scan)
+* [DAST Scanner](https://hostedscan.com/dast-scan)
 * [Online Port Scanner](https://hostedscan.com/online-port-scanner)
 * [Online Vulnerability Scanner](https://hostedscan.com/online-vulnerability-scanner)
 * [Continuous Security Monitoring](https://hostedscan.com/continuous-security-monitoring)
