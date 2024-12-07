@@ -306,15 +306,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger is an only child. She originally had a younger sister, but the storyline didn’t work out.
+The Scholastic editor, Arthur Levine, suggested changing the title from “Harry Potter and the Philosopher’s Stone” to “Harry Potter and the School of Magic” so as not to confuse American readers.
 
 ### Potter History
 
-June 5, 2005 – MuggleNet’s huge Harry Potter and the Half-Blood Prince book release party, “Spellbound 2005,” is officially announced.
+June 30, 2004 – Harry Potter and the Prisoner of Azkaban DVD release date is announced for November 23, 2004.
 
 ### Potter Quote
 
-“Numbing the pain for a while will make it worse when you finally feel it.”
+“Fear of a name increases fear of the thing itself.”
 
 [](#)
 
