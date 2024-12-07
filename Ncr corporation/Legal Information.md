@@ -13,9 +13,32 @@ This website is owned and operated by NCR Voyix Corporation or its affiliated en
 Ownership and Intellectual Property
 -----------------------------------
 
-All materials available through this website and other websites owned or provided by NCR Voyix, including software, downloads, documentation, data, images, content, and other information (“Materials”), are owned by NCR Voyix, its suppliers or licensors. Materials are protected by United States and international intellectual property laws, including the intellectual property rights of NCR Voyix.
+All materials available through this website and other websites owned or provided by NCR Voyix, including information, data, software, documentation, images, content, downloads, and other information and works of authorship (“Materials”), are owned by NCR Voyix, its suppliers or licensors. Materials are protected by United States and international intellectual property laws, including the intellectual property rights of NCR Voyix.
 
-Material that infringes the intellectual property rights of any person will not be permitted. If you become aware of any such Material, provide [\[email protected\]](https://www.ncr.com/cdn-cgi/l/email-protection) in accordance with the requirements of the Digital Millennium Copyright Act, 17 U.S.C. 512(c)(3).
+Material that infringes the intellectual property rights of any person or entity will not be permitted. NCR Voyix is registered with the United States Copyright Office as an online service provider under the Digital Millenium Copyright Act, 17 U.S.C. § 512 (“DMCA”). If you become aware of any such Material, provide [\[email protected\]](https://www.ncr.com/cdn-cgi/l/email-protection) in accordance with the requirements of 17 U.S.C. 512(c)(3) of the DMCA. You can only make a DMCA complaint if you are the copyright owner (or are acting on behalf of the copyright owner). Please include:
+
+* A physical or electronic signature of the owner of the copyright (or a person authorized to act on behalf of the owner of the copyright) or an exclusive right that is allegedly infringed.  
+    ‍
+* Identification of the copyrighted work claimed to have been infringed or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.  
+    ‍
+* Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed (or access to which is to be disabled), and information reasonably sufficient to permit NCR Voyix to locate the material, such as the exact URL(s) where the allegedly infringing material is located.  
+    ‍
+* Information reasonably sufficient to permit NCR Voyix to contact you, the complaining party, such as your (or your company’s) name and email address and an address and telephone number at which you may be contacted.  
+    ‍
+* A statement that you, the complaining party, have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.  
+    ‍
+* A statement confirming your bona fide belief that the information in the notification of claimed infringement is accurate and complete and, under penalty of perjury, that you, the complaining party, are the copyright owner or authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+
+Once your complaint has been processed and reviewed, we will notify you by email of any action(s) we have taken, including possible redress. You can also send a DMCA complaint to our designated agent at the following mailing address:  
+  
+NCR Voyix  
+Attn: DMCA Agent  
+864 Spring Street NW  
+Atlanta, GA 30308  
+Tel: 1-800-225-5627  
+Email: [\[email protected\]](https://www.ncr.com/cdn-cgi/l/email-protection)    
+  
+NCR Voyix may, in its sole discretion, suspend, disable, and/or terminate the accounts of any users who have been identified as repeatedly engaging in allegedly infringing activities or for other related reasons.
 
 Use of Materials
 ----------------
