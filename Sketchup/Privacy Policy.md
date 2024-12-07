@@ -325,59 +325,61 @@ We tried to combine the products in your guest cart with your saved cart, but we
 
 Continue
 
-###### Cart Updated
+###### Cart updated
 
-undefined  
+Some items in your cart are not available for purchase in your region, so we removed them. Please review your cart before proceeding.  
   
-**undefined:**  
+**Items Removed:**  
 undefined
 
 OK
 
 ###### Attention
 
+The software you are trying to purchase is not available in your country or region.
+
 OK
 
-###### Cart Updated
+###### Cart updated
 
 The items in your cart have been updated for two reasons. Firstly, the prices now match the currency linked to your account address. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.  
   
-**undefined:**  
+**Items Removed:**  
 undefined
 
 OK
 
-###### Cart Updated
+###### Cart updated
 
 The items in your cart have been updated for two reasons. Firstly, you've added too many of one item to your cart. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.  
   
-**undefined:**  
+**Items Removed:**  
 undefined
 
 OK
 
-###### Cart Updated
+###### Cart updated
 
-The items in your cart have been updated for three reasons. Firstly, the prices now match the currency linked to your account address. Secondly, you've added too many of one item to your cart. Thirdly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding  
+The items in your cart have been updated for three reasons. Firstly, the prices now match the currency linked to your account address. Secondly, you've added too many of one item to your cart. Thirdly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.  
   
-**undefined:**  
+**Items Removed:**  
 undefined
 
 OK
 
-###### Cart Updated
+###### Cart updated
 
 Your currency has been changed to match the currency associated with your account address.
 
 Continue
 
-###### Cart Updated
+###### Cart updated
 
 Your cart has been updated for two reasons. First, the prices now reflect the currency associated with your account address. Second, you've added too many of one item to your cart. Please review your cart before proceeding.
 
 Continue
 
-###### Cart Updated
+###### Cart updated
 
 While combining the products in your guest cart with your saved cart, at least one item in your cart has exceeded the maximum allowable quantity. Please review and correct your cart before proceeding to checkout.
 
