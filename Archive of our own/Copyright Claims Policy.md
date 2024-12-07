@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: buffy gen teen AND "no archive warnings apply" 
+* Work Search  tip: hetalia f/f sort:kudos 
     
 
 DMCA Policy
@@ -181,6 +181,6 @@ AO3's DMCA policy is licensed under the [Creative Commons Attribution-ShareAlike
     * [Technical Support & Feedback](https://archiveofourown.org/support)
 * #### Development
     
-    * [otwarchive v0.9.383.1](https://github.com/otwcode/otwarchive/commits/v0.9.383.1)
+    * [otwarchive v0.9.384.9](https://github.com/otwcode/otwarchive/commits/v0.9.384.9)
     * [Known Issues](https://archiveofourown.org/known_issues)
     * [GPL-2.0-or-later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html "View License") by the [OTW](https://transformativeworks.org/ "Organization for Transformative Works")
