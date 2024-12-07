@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-zoektocht-naar-liefde-de-feniks-ervaren/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/grenzeloos-vertrouwen-beleidsmakers-in-vaccinaties/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
