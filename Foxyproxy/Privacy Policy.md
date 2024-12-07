@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You are amazing! This is honestly the best customer service I have experienced in a long time.
+Always amazing support. Thank you!
 
-Markus Ecker
+Adrian
