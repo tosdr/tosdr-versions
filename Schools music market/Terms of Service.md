@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/live-music-performance-how-to-get-a-festival-slot-presentation/)
+ [](https://schoolsmusicmarket.com/product/musician-of-the-month-diverse-musicians/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/a-musical-treasure-hunt-classroom-game/)
+ [](https://schoolsmusicmarket.com/product/a-musical-harvest-thanksgiving-music-worksheet/)
 
 ###### Browse By Year/Grade
 
