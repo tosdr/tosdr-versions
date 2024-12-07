@@ -585,6 +585,20 @@ Single - $8
 
 ADD TO TOTE
 
+[![lysine-+-herbs-lip-balm](https://www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_239x254.jpg?v=1730991455)](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
+
+![ Lysine + Herbs Lip Balm](//www.100percentpure.com/cdn/shop/files/Lysine_Herbslipbalm_220x.jpg?v=1730991455)
+
+### [Lysine + Herbs Lip Balm](https://www.100percentpure.com/products/lysine-herbs-healing-lip-balm)
+
+675 reviews (675)
+
+$8.00
+
+Default Title - $8
+
+ADD TO TOTE
+
 Subtotal
 
 $0.00
