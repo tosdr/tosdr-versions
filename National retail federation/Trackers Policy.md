@@ -1,170 +1,180 @@
-[Skip to main content](#main-content)
+[**NRF.**com](https://www.nrf.com/)[**NRF** Foundation](https://nrffoundation.org/)[**NRF** Jobs](https://jobs.nrf.com/)[**NRF 2025: Retail's Big Show** Jan 12-14 >](https://nrfbigshow.nrf.com/)
 
-NRF 2025: Retail's Big Show Jan 12-14, 2025
+[About NRF](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fnrf-cookie-policy%3F)
 
-[](https://nrfbigshow.nrf.com/)
+[![NRF Logo](https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg)](https://nrf.com/)
 
-Related Sites Menu
-------------------
+AboutAdvocacyEventsResearch & InsightsResourcesNews & Media
 
-* [NRF Foundation](https://nrf.com/who-we-are/nrf-foundation)
-* [NRF Job Board](https://jobs.nrf.com/)
+##### About Us
 
-[![National Retail Federation](/themes/custom/nrf_d8/svg/nrf-logo.svg)](https://nrf.com/)
+[Who We Are](https://nrf.com/about-us/about-us)[Management Team](https://nrf.com/about-us/nrf-staff/nrf-management-team)[Board of Directors](https://nrf.com/about-us/board-directors)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[Sponsor & Advertise](https://sponsorship.nrf.com/)
 
-[NRF Membership](https://nrf.com/about-us/become-nrf-member-today)[Login](https://nrf.com/user/login)
+##### Membership
 
-[Search ![](/themes/custom/nrf_d8/svg/icon-search.svg)](#) 
+[Become a Member](https://nrf.com/membership)[Committees & Councils](https://nrf.com/membership/committees-and-councils)[Member Login](https://account.nrf.com/)
 
-Search 
+[![Sponsor & Advertise](https://a-us.storyblok.com/f/1021220/1000x667/5607dedc61/2024nrf-nav-bigshow24expo2-1000x667.jpg)
 
- 
+Sponsor & Advertise
 
-[Explore](#)
+VIEW OPPORTUNITIES](https://sponsorship.nrf.com/)
 
-Search 
+##### Retail Advocacy
 
- 
+[Policy Priorities](https://nrf.com/advocacy/hill)[Action Center](https://nrf.com/advocacy/action-center)[Retail PAC](https://nrf.com/advocacy/retailpac)
 
-Main navigation
----------------
+##### Policy Issues
 
-* ADVOCACY
-    * [Policy Spotlight](https://nrf.com/advocacy/hill)
-    * [Action Center](https://nrf.com/takeaction)
-    * [Policy Committees](https://nrf.com/advocacy/nrf-policy-council-and-committees)
-    * [Policy Issues](https://nrf.com/advocacy/policy-issues)
-    * [RetailPAC](https://nrf.com/advocacy/retailpac)
-    * [Store Tours](https://nrf.com/advocacy/nrf-store-tours)
-* EVENTS
-    * [Calendar](https://nrf-org.my.site.com/communityhub/nc__upcomingevents)
-    * [Retail Events](https://nrf.com/events/retail-events)
-    * [Retail's Big Show](https://nrfbigshow.nrf.com/ "NRF's annual conference and expo unites the retail industry.")
-    * [State of Retail & the Consumer](https://nrf.com/state-retail-and-consumer-2024)
-    * [NRF Retail Law Summit](https://nrf.com/events/nrf-retail-law-summit)
-    * [NRF PROTECT](https://nrfprotect.nrf.com/ "Retail's loss prevention and cyber risk event.")
-    * [Retail's Big Show Asia Pacific](https://nrfbigshowapac.nrf.com/)
-    * [NRF Nexus](https://nexus.nrf.com/ "NRF Nexus is a three-day event bringing together the brightest minds in marketing, tech and digital innovation.")
-    * [Retail Advocates Summit](https://nrf.com/retail-advocates-summit-2024)
-* RESEARCH & INSIGHTS
-    * [Center for Retail & Consumer Insights](https://nrf.com/research-insights/center-retail-and-consumer-insights-crci)
-    * [Holiday Data and Trends](https://nrf.com/research-insights/retail-holiday-and-seasonal-trends)
-    * [Top Retailers](https://nrf.com/research-insights/top-retailers)
-    * [Economy](https://nrf.com/topics/economy)
-    * [Forecasts](https://nrf.com/research-insights/nrf-forecasts)
-    * [Retail’s Impact](https://nrf.com/research-insights/retails-impact)
-    * [State of Retail](https://nrf.com/research-insights/state-retail)
-    * [Member-Submitted Research](https://nrf.com/research-insights/member-submitted-research)
-    * [All Research](https://nrf.com/research-insights/nrf-research)
-* RESOURCES
-    * [NRF Blog](https://nrf.com/blog)
-    * [Retail Gets Real Podcast](https://nrf.com/resources/retail-gets-real-podcast)
-    * [4-5-4 Calendar](https://nrf.com/resources/4-5-4-calendar)
-    * [Job Board](https://jobs.nrf.com/)
-    * [NRF Center for Digital Risk & Innovation](https://nrf.com/resources/nrf-center-digital-risk-innovation)
-    * [Retail Law Resource Center](https://nrf.com/resources/retail-law-resource-center)
-    * [Center for Retail Sustainability](https://nrf.com/resources/nrf-center-retail-sustainability)
-* TOPICS
-    * [Economy](https://nrf.com/topics/economy)
-    * [Careers and Leadership](https://nrf.com/topics/careers-and-leadership)
-    * [Connected Commerce](https://nrf.com/topics/connected-commerce)
-    * [Consumer Trends](https://nrf.com/topics/consumer-trends)
-    * [Cybersecurity](https://nrf.com/topics/cybersecurity)
-    * [Loss Prevention](https://nrf.com/topics/loss-prevention)
-    * [Organized Retail Crime](https://nrf.com/advocacy/policy-issues/organized-retail-crime)
-    * [Retail Technology](https://nrf.com/topics/retail-technology)
-    * [Small Business](https://nrf.com/topics/small-business)
-    * [Supply Chain](https://nrf.com/topics/supply-chain)
-* MEMBERSHIP
-    * [Join](https://nrf.com/membership/nrf-membership)
-    * [Member Login](https://nrf.com/user/login)
-    * [Committees and Councils](https://nrf.com/membership/committees-and-councils)
-* ABOUT US
-    * [Who We Are](https://nrf.com/about-us/about-us)
-    * [Board of Directors](https://nrf.com/about-us/board-directors)
-    * [NRF Staff](https://nrf.com/about-us/nrf-staff)
-    * [Careers at NRF](https://nrf.com/about-us/careers-nrf)
-    * [Sponsor and Advertise](https://sponsorship.nrf.com/)
-* MEDIA CENTER
-    * [Media Contacts](https://nrf.com/media-center/media-contacts)
-    * [Press Releases](https://nrf.com/media-center/press-releases)
+[Organized Retail Crime](https://nrf.com/advocacy/policy-issues/organized-retail-crime)[Trade](https://nrf.com/advocacy/policy-issues/global-trade)[Swipe Fees](https://nrf.com/advocacy/policy-issues/swipe-fees)[View all policy issues...](https://nrf.com/advocacy/policy-issues)
 
-[NRF Membership](https://nrf.com/about-us/become-nrf-member-today)[Login](https://nrf.com/user/login)
+[![Pass the Credit Card Competition Act](https://a-us.storyblok.com/f/1021220/1000x667/9240f5ae81/2024nrf-nav-creditcard-1000x667.jpg)
 
-Follow us:
+Pass the Credit Card Competition Act
 
-* [![](/themes/custom/nrf_d8/svg/icon-linkedin.svg)](https://www.linkedin.com/company/23412/)
-* [![](/themes/custom/nrf_d8/svg/icon-facebook.svg)](https://www.facebook.com/NationalRetailFederation)
-* [![](/themes/custom/nrf_d8/svg/icon-twitter.svg)](https://twitter.com/NRFnews)
-* [![](/themes/custom/nrf_d8/svg/icon-instagram.svg)](https://www.instagram.com/nrf/)
-* [![](/themes/custom/nrf_d8/svg/icon-youtube.svg)](https://www.youtube.com/user/NRFInternet)
+LEARN MORE](https://nrf.com/advocacy/FedUpWithFees)
 
-We are undergoing site maintenance. You may experience intermittent issues while navigating the site. Thank you for your patience.
+##### Retail Events
 
-NRF Cookie Policy
-=================
+[Featured Events](https://nrf.com/events/retail-events)[Retail's Big Show](https://nrfbigshow.nrf.com/)[State of Retail & the Consumer](https://nrf.com/events/state-retail-and-consumer)[NRF Law Summit](https://nrf.com/events/nrf-retail-law-summit)[NRF PROTECT](https://nrfprotect.nrf.com/)[NRF Nexus](https://nexus.nrf.com/)[Full Event Calendar](https://nrf-org.my.site.com/communityhub/nc__upcomingevents)
 
-![LinkedIn ShareThis](/themes/custom/nrf_d8/svg/icon-linkedin.svg)
+##### Global Events
 
-![Facebook ShareThis](/themes/custom/nrf_d8/svg/icon-facebook.svg)
+[NRF Big Show APAC](https://nrfbigshowapac.nrf.com/)[Retail's Big Show Europe](https://nrf.com/events/nrfbigshoweurope)
 
-![Twitter ShareThis](/themes/custom/nrf_d8/svg/icon-twitter.svg)
+##### Sponsor and Exhibit
 
-![Email ShareThis](/themes/custom/nrf_d8/svg/icon-email.svg)
+[Sponsor & Exhibit Opportunities](https://sponsorship.nrf.com/)
 
-![ShareThis](/themes/custom/nrf_d8/svg/icon-share.svg)
+[![NRF 2025: Retail's Big Show](https://a-us.storyblok.com/f/1021220/1000x667/84d3c42b5c/2024nrf-nav-bigshow25-1000x667.jpg)
 
-**Information about our use of Cookies** 
+NRF 2025: Retail's Big Show
 
-The National Retail Federation (“NRF”) (referred to as “we,” “our,” or “us”) website (“Site”) uses cookies to distinguish you from other users of our web site. This helps us to provide you with a good experience when you browse our website and allows us to improve our Site. 
+REGISTER NOW](https://nrfbigshow.nrf.com/)
 
-Cookies are small files of letters and numbers that we send to your browser from a web server and then store on your computer’s hard drive, if you agree.
+##### Research & Insights
 
-We may use the following types of cookies on the Site: 
+[Retail Sales](https://nrf.com/research-insights/center-retail-consumer-insights/cnbc-nrf-retail-monitor)[Holiday Trends](https://nrf.com/research-insights/holiday-data-and-trends/winter-holidays)[Economic Forecasts & Trends](https://nrf.com/research-insights/nrf-forecasts)[Top Retailers Lists](https://nrf.com/research-insights/top-retailers/top-retailers)
 
-* **Strictly necessary cookies.**These are cookies required for the operation of our website. They include, for example, cookies that enable you to log into secure areas of our website or make use of e-billing services. 
-* **Analytical/performance cookies.**They allow us to recognize and count the number of Site visitors and to see how visitors move around our website when they are using it. These cookies help us to improve the way our website works, for example, by enabling users to find information more easily. 
-* **Functionality cookies.**These are used to recognize you when you make repeat visits to our website. These cookies enable us to allow you to avoid entering your log-in credentials every time you enter restricted-access areas of the Site, and they enable us to personalize our content for you and remember your preferences.
-* **Targeting cookies.**These cookies record your visit to our website, the pages you visit and the links you follow on the Site. We use this information to present Site content and communications that are more relevant to your interests. We may also share this information with third parties for this purpose.
+##### Topics
 
-At any time, you may block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our site. 
+[Loss Prevention](https://nrf.com/resources/retail-safety-and-security-resource)[Sustainability](https://nrf.com/resources/nrf-center-retail-sustainability)[Cybersecurity](https://nrf.com/resources/nrf-center-digital-risk-innovation)[Retail Law](https://nrf.com/resources/retail-law-resource-center)
 
-Except for essential cookies, all cookies will expire after sixty days.  
+[![Center for Retail and Consumer Insights](https://a-us.storyblok.com/f/1021220/1000x667/4f6ed0d787/2024nrf-nav-crci2-1000x667.jpg)
 
-_Effective September 6, 2018_
+Center for Retail and Consumer Insights
 
-![NRF logo](https://c77895a828035bee2535-5972a9a515905006cebe8c32531c69f0.ssl.cf5.rackcdn.com/NRF_horizontal_white_410x86.png)
+LEARN MORE](https://nrf.com/research-insights/center-retail-consumer-insights/)
 
-* 1101 New York Avenue NW Suite 1200
-    
-    Washington, DC 20005
-    
-* 1-202-626-8100
-    
-    1-800-673-4692
-    
-* [contact@nrf.com](mailto:contact@nrf.com)
+##### Resource Centers
 
-Helpful Links
+[Center for Retail & Consumer Insights](https://nrf.com/research-insights/center-retail-consumer-insights)[Center for Digital Risk & Innovation](https://nrf.com/resources/nrf-center-digital-risk-innovation)[Center for Retail Sustainability](https://nrf.com/resources/nrf-center-retail-sustainability)[Retail Law Resource Center](https://nrf.com/resources/retail-law-resource-center)
 
-Footer menu
------------
+##### Careers & Employment
 
-* [About Us](https://nrf.com/about-us/about-us)
-* [Media Center](https://nrf.com/media-center/press-releases)
-* [Membership](https://nrf.com/membership/nrf-membership)
-* [Newsletters](https://nrf.com/retail-newsletters)
+[Retail Employment Data](https://nrf.com/research-insights/retails-impact)[Job Board](https://jobs.nrf.com/)[Training & Credentials](https://nrffoundation.org/riseup/about)[Retailer Expert Network](https://nrffoundation.org/networks)
 
-Follow Us
+[![4-5-4 Calendar](https://a-us.storyblok.com/f/1021220/1000x667/03dd1471a2/2024nrf-nav-454calendar-1000x667.jpg)
 
-* [![LinkedIn](https://9950c069e8d921bbf4fb-515f4076c8534f7fe7676e07a614906c.ssl.cf1.rackcdn.com/f-icon-linkedin.svg)](https://www.linkedin.com/company/national-retail-federation/)
-* [![Facebook](https://9950c069e8d921bbf4fb-515f4076c8534f7fe7676e07a614906c.ssl.cf1.rackcdn.com/f-icon-facebook.svg)](https://www.facebook.com/NationalRetailFederation)
-* [![Twitter](https://9950c069e8d921bbf4fb-515f4076c8534f7fe7676e07a614906c.ssl.cf1.rackcdn.com/f-icon-twitter-x.svg)](https://twitter.com/NRFnews)
-* [![Instagram](https://9950c069e8d921bbf4fb-515f4076c8534f7fe7676e07a614906c.ssl.cf1.rackcdn.com/f-icon-instagram.svg)](https://www.instagram.com/nrf/)
-* [![YouTube](https://9950c069e8d921bbf4fb-515f4076c8534f7fe7676e07a614906c.ssl.cf1.rackcdn.com/f-icon-youtube.svg)](https://www.youtube.com/user/NRFInternet)
+4-5-4 Calendar
 
-* [Sponsor & Advertise](https://nrf.com/nrf-premier-sponsorships)
-* [Terms & Conditions](https://nrf.com/terms-and-conditions-nrfcom)
-* [Privacy Policy](https://nrf.com/privacy-policy)
+VIEW RESOURCE](https://nrf.com/resources/4-5-4-calendar)
 
-* © 1997 — National Retail Federation
+##### NRF News
+
+[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)[NRF Newsletters](https://nrf.com/retail-newsletters)
+
+##### Media Center
+
+[Press Releases](https://nrf.com/media-center/press-releases)[Media Contacts](https://nrf.com/media-center/press-releases/media-contacts)
+
+[![Holiday Headquarters](https://a-us.storyblok.com/f/1021220/1000x667/c7fd376116/2024nrf-nav-holidayhq-1000x667.jpg)
+
+Holiday Headquarters
+
+VIEW CONSUMER SPENDING DATA](https://nrf.com/research-insights/retail-holiday-and-seasonal-trends)
+
+##### About
+
+##### Advocacy
+
+##### Events
+
+##### Research & Insights
+
+##### Resources
+
+##### News & Media
+
+* * *
+
+[About NRF](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Login](https://account.nrf.com/?callbackUrl=https%3A%2F%2Fnrf.com%2Fnrf-cookie-policy%3F)
+
+  
+  
+404
+=========
+
+  
+**Page not found.**  
+It could be a bad link or this page has moved.  
+Please try searching our site or using the menu to find what you’re looking for.  
+  
+
+##### About Us
+
+[Who we are](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
+
+##### Advocacy
+
+[Policy Priorities](https://nrf.com/advocacy/hill)[Policy Issues](https://nrf.com/advocacy/policy-issues)[Action Center](https://nrf.com/advocacy/action-center)
+
+##### Events
+
+[Retail's Big Show](https://nrfbigshow.nrf.com/)[NRF PROTECT](https://nrfprotect.nrf.com/)[NRF Nexus](https://nexus.nrf.com/)[More NRF Events](https://nrf.com/events/retail-events)
+
+##### Top Resources
+
+[4-5-4 Calendar](https://nrf.com/resources/4-5-4-calendar)[Top Retailers Lists](https://nrf.com/research-insights/top-retailers/top-retailers)[Holiday and Seasonal Trends](https://nrf.com/research-insights/retail-holiday-and-seasonal-trends)
+
+##### News and Media
+
+[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)
+
+##### About Us
+
+[Who we are](https://nrf.com/about-us/about-us)[Membership](https://nrf.com/membership)[Careers at NRF](https://nrf.com/about-us/careers-nrf)[NRF Foundation](https://nrffoundation.org/)
+
+##### Advocacy
+
+[Policy Priorities](https://nrf.com/advocacy/hill)[Policy Issues](https://nrf.com/advocacy/policy-issues)[Action Center](https://nrf.com/advocacy/action-center)
+
+##### Events
+
+[Retail's Big Show](https://nrfbigshow.nrf.com/)[NRF PROTECT](https://nrfprotect.nrf.com/)[NRF Nexus](https://nexus.nrf.com/)[More NRF Events](https://nrf.com/events/retail-events)
+
+##### Top Resources
+
+[4-5-4 Calendar](https://nrf.com/resources/4-5-4-calendar)[Top Retailers Lists](https://nrf.com/research-insights/top-retailers/top-retailers)[Holiday and Seasonal Trends](https://nrf.com/research-insights/retail-holiday-and-seasonal-trends)
+
+##### News and Media
+
+[Media Center](https://nrf.com/media-center/press-releases)[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)
+
+[![NRF Logo](https://a-us.storyblok.com/f/1020215/300x61/dfd396fe44/nrf-logo.svg)](https://nrf.com/)
+
+1101 New York Avenue NW, Suite 1200
+
+Washington, DC 20005
+
+1-202-626-8100
+
+1-800-673-4692
+
+contact@nrf.com
+
+[![linkedin](/assets/footerLinkedin.svg)](https://www.linkedin.com/company/23412)[![facebook](/assets/footerFacebook.svg)](https://www.facebook.com/NationalRetailFederation/)[![x](/assets/footerX.svg)](https://x.com/nrfnews)[![email](/assets/footerMail.svg)](mailto:contact@nrf.com)
+
+[Terms and conditions](https://nrf.com/about-us/terms-and-conditions--nrfcom)[Privacy policy](https://nrf.com/about-us/privacy-policy)[Sponsor & advertise](https://sponsorship.nrf.com/)
+
+Copyright © 2024 National Retail Federation
