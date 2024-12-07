@@ -56,7 +56,7 @@
     * [Medisafe Maestro](https://www.medisafe.com/maestro)
     * [Real-World Data Insights](https://www.medisafe.com/data-insights)
     
-    ##### [Solutions](https://www.medisafe.com/solutions/ "Solutions ")
+    ##### [Solutions](https://www.medisafe.com/solutions/ "Solutions")
     
     * [Digital Drug Companion](https://www.medisafe.com/digital-drug-companion/)
     * [Adherence & Persistence](https://www.medisafe.com/adherence-and-persistence/)
