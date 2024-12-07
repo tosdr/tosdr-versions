@@ -227,9 +227,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [Creating your own traditions for a safe and joyous holiday](https://washingtonautismalliance.org/creating-your-own-traditions-for-a-safe-and-joyous-holiday/ "Creating your own traditions for a safe and joyous holiday")
 * [2024 Holiday Activities in Washington](https://washingtonautismalliance.org/2024-holiday-activities-in-washington/ "2024 Holiday Activities in Washington")
 * [Why We Say "Disability," Not "Special Needs"](https://washingtonautismalliance.org/why-we-say-disability-not-special-needs/ "Why We Say "Disability," Not "Special Needs"")
-* [National Disability Employment Awareness Month](https://washingtonautismalliance.org/national-disability-employment-awareness-month/ "National Disability Employment Awareness Month")
 
 #### QUICK LINKS
 
