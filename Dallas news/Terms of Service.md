@@ -6,11 +6,11 @@ Aug. 28, 2019
 
 |
 
-Updated Sep. 5, 2024 at 11:17 a.m. CDT
+Updated Dec. 6, 2024 at 4:42 p.m. CST
 
 |
 
-22 min. read
+23 min. read
 
 ![The Rock of Truth stands over the entrance to the former Dallas Morning News headquarters...](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/Q7EOMBJKY7VQLXJUINHW4XD3YQ.jpg?auth=d31281a70866e9cb7086e6fb880679e88416c252b48b3912040c7d71792963cd&height=553&width=830&smart=true&quality=80)
 
@@ -94,7 +94,7 @@ DallasNews Corporation Terms of Service
 
 (l). Additional Products or Services. We may choose – at no cost to you - to send you a copy of the print edition or a related print product on a particular day, or days on which you do not subscribe to the print edition, because you have a print or digital membership. We may also choose to offer additional or new products or editions for purchase.
 
-(m). Cancellation and Refunds. You can cancel your membership at any time by contacting Customer Service at 1-800-925-1500. Cancellations cannot be made via e-mail or chat, except as required by law. Residents of CA, VT, VA, and OR may email [customercare@dallasnews.com](mailto:customercare@dallasnews.com) to cancel their membership. When you cancel, you cancel only future charges associated with your membership. Cancellations are effective the following billing period. You will continue to have the same access and benefits of your product for the remainder of the current billing period. You may notify us of your intent to cancel at any time, however the cancellation will become effective at the end of your current billing period. Payments are non-refundable and there are no refunds or credits for partially used billing periods. We reserve the right to issue refunds or credits, or to permit print members who are moving to convert to digital memberships, at our sole discretion. If we issue a refund or credit, or permit a print member to convert to a digital membership, we are under no obligation to issue the same or similar refund, credit or conversion in the future. We reserve the right to make changes to print or digital memberships at any time. If we temporarily reduce or eliminate the charge for content or access that you are currently paying for under different terms, you will not receive a refund.
+(m). Cancellation and Refunds. You can cancel your membership at any time by contacting Customer Service at 1-800-925-1500. Cancellations cannot be made via e-mail or chat, except as required by law. Residents of CA, VT, VA, and OR may email customercare@dallasnews.com to cancel their membership. When you cancel, you cancel only future charges associated with your membership. Cancellations are effective the following billing period. You will continue to have the same access and benefits of your product for the remainder of the current billing period. You may notify us of your intent to cancel at any time, however the cancellation will become effective at the end of your current billing period. Payments are non-refundable and there are no refunds or credits for partially used billing periods. We reserve the right to issue refunds or credits, or to permit print members who are moving to convert to digital memberships, at our sole discretion. If we issue a refund or credit, or permit a print member to convert to a digital membership, we are under no obligation to issue the same or similar refund, credit or conversion in the future. We reserve the right to make changes to print or digital memberships at any time. If we temporarily reduce or eliminate the charge for content or access that you are currently paying for under different terms, you will not receive a refund.
 
 WE MAY CONTINUE YOUR PRINT MEMBERSHIP ON A DIGITAL-ONLY MEMBERSHIP BASIS OR A SUNDAY AND DIGITAL ONLY BASIS IN THE EVENT THAT THE PRINT EDITION OF THE DALLASNEWS NEWSPAPER IS REDUCED TO LESS DELIVERY DAYS OR NO LONGER PRINTED FOR ANY REASON AND FOR ANY LENGTH OF TIME, EITHER TEMPORARY OR PERMANENT. IN THE EVENT THAT YOUR PRINT MEMBERSHIP IS MODIFIED AS DISCUSSED IMMEDIATELY ABOVE, WE WILL NOTIFY YOU WITH THE NEW TERMS SURROUNDING THIS MODIFICATION.
 
@@ -106,21 +106,23 @@ We reserve the right to issue refunds or credits for non-membership purchases at
 
 3\. USER GENERATED CONTENT: SUBMISSIONS INCLUDING COMMENTS, PHOTOS, CONTEST ENTRIES AND MORE
 
-3.1 You will not upload to, or distribute or otherwise publish on to the Services any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material. You agree to be courteous when submitting any such user-generated content. You agree that you will not threaten or verbally abuse others using the Services (“Members”), use defamatory language, or deliberately disrupt discussions with repetitive messages, meaningless messages or “spam.”
+3.1 All user-generated content is the sole responsibility of the individual who submitted the content. You agree that DALN shall not be responsible or liable to you or any third party for any damages or harm resulting from your submission of any content on the Services, including, but not limited to, any defamatory, illegal, or other objectionable content. You will not upload to, or distribute or otherwise publish on to the Services any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material. You agree to be courteous when submitting any such user-generated content. You agree that you will not threaten or verbally abuse others using the Services (“Members”), use defamatory language, or deliberately disrupt discussions with repetitive messages, meaningless messages or “spam.”
 
 You will use respectful language when submitting user-generated content or interacting with others on the Services. Like any community, the online conversation flourishes only when our Members feel welcome and safe. You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. Hate speech of any kind is not tolerated by DALN and is grounds for immediate and permanent suspension of access to all or part of the Services.
 
-Debate, but don’t attack. In a community full of opinions and preferences, people always disagree. DALN encourages active discussions and welcomes heated debate on the Services, but personal attacks are a direct violation of these Terms of Service and are grounds for immediate and permanent suspension of access to all or part of the Service. If your attack contains a threat of violence or may incite violence or unlawful behavior, we may report it and you to law enforcement.
+Debate, but don’t attack. In a community full of opinions and preferences, people always disagree. DALN encourages active discussions and welcomes heated debate on the Services, but personal attacks are a direct violation of these Terms of Service. If your attack contains a threat of violence or may incite violence or unlawful behavior, we may report it and you to law enforcement.
 
 You may not impersonate another Member or a DALN staff member, including by choosing a similar screen name. You must disclose conflicts of interest in connection with your Submissions (defined below).
+
+Violations of these Terms of Service, including this section 3.1, is grounds for immediate and permanent suspension of access to all or part of the Service. DALN reserves the right to remove your content, suspend your account, and permanently prevent you from accessing the Services if you violate any of the terms in this Section 3.1.
 
 3.2 You may only use the Services for non-commercial purposes. You shall not, without the express approval of DALN, distribute or otherwise publish any material containing any solicitation of funds, advertising or solicitation for goods or services.
 
 3.3 You acknowledge that any submissions you make to the Services (i.e., user-generated content including but not limited to: comments, forum messages, reviews, text, video, audio and photographs, as well as computer code and applications) (each, a “Submission”) may be edited, removed, modified, published, transmitted, and displayed by DALN and you waive any rights you may have in having the material altered or changed in a manner not agreeable to you. You understand and agree that Submissions made to the Services may also be included in DALN’s RSS feeds, APIs and made available for republishing through other mediums now known or hereafter devised.
 
-3.4 You grant DALN a perpetual, nonexclusive, world-wide, royalty free, sub-licensable license to the Submissions, which includes without limitation the right for DALN or any third party it designates, to use, copy, transmit, excerpt, publish, distribute, publicly display, publicly perform, create derivative works of, host, index, cache, tag, encode, modify and adapt (including without limitation the right to adapt to streaming, downloading, broadcast, mobile, digital, thumbnail, scanning or other technologies) in any form or media now known or hereinafter developed, any Submission posted by you on or to the Services or any other Web site owned by DALN, including any Submission posted on or to the Services through a third party.
+3.4 You represent and warrant that you own or control all rights in and to any Submissions. You grant DALN a perpetual, nonexclusive, world-wide, royalty free, sub-licensable license to the Submissions, which includes without limitation the right for DALN or any third party it designates, to use, copy, transmit, excerpt, publish, distribute, publicly display, publicly perform, create derivative works of, host, index, cache, tag, encode, modify and adapt (including without limitation the right to adapt to streaming, downloading, broadcast, mobile, digital, thumbnail, scanning or other technologies) in any form or media now known or hereinafter developed, any Submission posted by you on or to the Services or any other Web site owned by DALN, including any Submission posted on or to the Services through a third party.
 
-3.5 You are solely responsible for the content of your Submissions. However, while DALN does not and cannot review every Submission and is not responsible for the content of these messages, DALN reserves the right to delete, move, or edit Submissions that it, in its sole discretion, deems abusive, defamatory, obscene, in violation of copyright or trademark laws, or otherwise unacceptable.
+3.5 You are solely responsible for the content of your Submissions and you acknowledge and understand that you have full responsibility for your Submissions, including their legality,. However, while DALN does not and cannot review every Submission and is not responsible for the content of these messages, DALN reserves the right to delete, move, or edit Submissions that it, in its sole discretion, deems abusive, defamatory, obscene, in violation of copyright or trademark laws, or otherwise unacceptable.
 
 3.6 By making a Submission, you are consenting to its display and publication on the Site and in the Services and for related online and offline promotional uses.
 
@@ -128,7 +130,7 @@ You may not impersonate another Member or a DALN staff member, including by choo
 
 3.8 No compensation of any kind will be owed or paid to you or any other third party with respect to any Submissions submitted or used.
 
-Additional information about User Generated Content guidelines is available in the Posting Policy.
+3.9 To post comments or make a Submission, you are required to register with DALN. Should you choose to register, you agree to provide accurate, complete and current information about yourself as required by the registration process, and to promptly update such information as necessary to ensure that it is kept accurate and complete.
 
 4\. ACCESS AND AVAILABILITY OF SERVICES AND LINKS
 
@@ -154,7 +156,7 @@ Additional information about User Generated Content guidelines is available in t
 
 5\. REPRESENTATIONS AND WARRANTIES
 
-5.1 You represent, warrant and covenant (a) that no Submissions or other materials of any kind submitted through your account will (i) violate, plagiarize, or infringe upon the rights of any third party, including copyright, trademark, privacy or other personal or proprietary rights; or (ii) contain libelous or otherwise unlawful material; and (b) that you are at least thirteen years old. You hereby indemnify, defend and hold harmless DALN and all officers, directors, owners, agents, information providers, affiliates, licensors and licensees (collectively, the “Indemnified Parties”) from and against any and all liability and costs, including, without limitation, reasonable attorneys’ fees, incurred by the Indemnified Parties in connection with any claim arising out of any breach by you or any user of your account of these Terms of Service or the foregoing representations, warranties and covenants. You shall cooperate as fully as reasonably required in the defense of any such claim. DALN reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
+5.1 You represent, warrant and covenant (a) that no Submissions or other materials of any kind submitted through your account will (i) violate, plagiarize, or infringe upon the rights of any third party, including copyright, trademark, privacy or other personal or proprietary rights; or (ii) contain libelous or otherwise unlawful material; and (b) that you are at least thirteen years old. You hereby indemnify, defend and hold harmless DALN and all officers, directors, owners, agents, information providers, affiliates, licensors and licensees (collectively, the “Indemnified Parties”) from and against any and all liability and costs, including, without limitation, reasonable attorneys’ fees, incurred by the Indemnified Parties in connection with any claim arising out of or in relation to any Submission(s) or any breach by you or any user of your account of these Terms of Service or the foregoing representations, warranties and covenants. You shall cooperate as fully as reasonably required in the defense of any such claim. DALN reserves the right, at its own expense, to assume the exclusive defense and control of any matter subject to indemnification by you.
 
 5.2 DALN does not represent or endorse the accuracy or reliability of any advice, opinion, statement, or other information displayed, uploaded, or distributed through the Services by any user, information provider or any other person or entity. You acknowledge that any reliance upon any such opinion, advice, statement, memorandum, or information shall be at your sole risk. THE SERVICES, CONTENT AND ALL DOWNLOADABLE SOFTWARE ARE DISTRIBUTED ON AN “AS IS” BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. YOU HEREBY ACKNOWLEDGE THAT USE OF THE SERVICES IS AT YOUR SOLE RISK.
 
@@ -162,9 +164,9 @@ Additional information about User Generated Content guidelines is available in t
 
 6.1 As part of the registration or account creation process, you will create login credentials by selecting a password and providing an email address. You also have to give us certain registration information, all of which must be accurate and updated. (a) You may not (i) select or use the login credentials of another person with the intent to impersonate that person; (ii) use login credentials in which another person has rights without such person’s authorization; or (iii) use login credentials that we, in our sole discretion, deem offensive. Failure to comply with the foregoing shall constitute a breach of these Terms of Service, which may result in immediate termination of your account. (b) You shall be responsible for maintaining the confidentiality of your password.
 
-6.2 You will notify [customercare@dallasnews.com](mailto:customercare@dallasnews.com) of any known or suspected unauthorized use(s) of your account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or credit card information.
+6.2 You will notify customercare@dallasnews.com of any known or suspected unauthorized use(s) of your account, or any known or suspected breach of security, including loss, theft, or unauthorized disclosure of your password or credit card information.
 
-6.3 You must be 13 years or older to use or subscribe to all parts of the Services.
+6.3 You must be 18 years or older to use or subscribe to all parts of the Services.
 
 6.4 You are responsible for all usage or activity on your DALN account, including use of the account by any third party authorized by you to use your login credentials. Any fraudulent, abusive, or otherwise illegal activity may be grounds for termination of your account, at our sole discretion, and we may refer you to appropriate law enforcement agencies. It is DALN’s policy, in appropriate circumstances, to terminate the accounts of users who are repeat infringers of third parties’ intellectual property rights or who are repeatedly accused of infringement.
 
@@ -188,7 +190,7 @@ Additional information about User Generated Content guidelines is available in t
 
 10\. TERMINATION
 
-10.1 You can cancel your membership at any time by contacting Customer Service at 1-800-925-1500. Cancellations cannot be made via e-mail or chat, except as required by law. Residents of CA, VT, VA, and OR may email [customercare@dallasnews.com](mailto:customercare@dallasnews.com) to cancel their memberships. For more detailed information regarding cancellation of memberships, please see Section 2.6(m) above.
+10.1 You can cancel your membership at any time by contacting Customer Service at 1-800-925-1500. Cancellations cannot be made via e-mail or chat, except as required by law. Residents of CA, VT, VA, and OR may email customercare@dallasnews.com to cancel their memberships. For more detailed information regarding cancellation of memberships, please see Section 2.6(m) above.
 
 10.2 DALN may, in its sole discretion, terminate or suspend your access to all or part of the Services for any reason, including, without limitation, breach or assignment of these Terms of Service.
 
@@ -198,9 +200,9 @@ Additional information about User Generated Content guidelines is available in t
 
 11.2 Notwithstanding any of the foregoing, nothing in these Terms of Service will serve to preempt our [Privacy Policy](http://dallasnews.com/privacy-policy).
 
-11.3 Questions regarding these Terms of Service should be sent to [customercare@dallasnews.com](mailto:customercare@dallasnews.com).
+11.3 Questions regarding these Terms of Service should be sent to customercare@dallasnews.com.
 
-11.4 You agree to report any violations of the Terms of Service to DallasNews Corporation as soon as you become aware of them. In the event you have a claim of copyright infringement with respect to material that is contained in the Services, please notify [customercare@dallasnews.com](mailto:customercare@dallasnews.com). (You may use this email address for general questions as well.)
+11.4 You agree to report any violations of the Terms of Service to DallasNews Corporation as soon as you become aware of them. In the event you have a claim of copyright infringement with respect to material that is contained in the Services, please notify customercare@dallasnews.com. (You may use this email address for general questions as well.)
 
 11.5 If you believe that your work has been copied on one of the Sites in a way that constitutes copyright infringement, please provide us with all of the following information:
 
@@ -230,7 +232,7 @@ Dallas, TX 75201
 
 Attn: Katy Murray
 
-Email: [DMCA@dallasnews.com](mailto:DMCA@dallasnews.com)
+Email: DMCA@dallasnews.com
 
 [](http://www.facebook.com/sharer/sharer.php?u=https://www.dallasnews.com/help/terms-of-service/&title=Terms%20of%20Service "Share on Facebook")[](https://twitter.com/intent/tweet?text=Terms%20of%20Service&url=https://www.dallasnews.com/help/terms-of-service/ "Share on Twitter")[](mailto:?subject=DallasNews.com%3A%20Terms%20of%20Service&body=From%20The%20Dallas%20Morning%20News%3A%0A%0ATerms%20of%20Service%0A%0Ahttps://www.dallasnews.com/help/terms-of-service/ "Share via Email")[](javascript:window.print() "Print")
 
