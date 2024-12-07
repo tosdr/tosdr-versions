@@ -147,6 +147,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [PCMag – Bias and Credibility](https://mediabiasfactcheck.com/pcmag-bias-and-credibility/)
+    
+    December 7, 2024
+    
+* [Santa Fe Reporter – Bias and Credibility](https://mediabiasfactcheck.com/santa-fe-reporter-bias-and-credibility/)
+    
+    December 7, 2024
+    
 * [Der Status – Bias and Credibility](https://mediabiasfactcheck.com/der-status-bias-and-credibility/)
     
     December 7, 2024
@@ -171,17 +179,15 @@ No related posts.
     
     December 6, 2024
     
-* [Edinburgh Live – Bias and Credibility](https://mediabiasfactcheck.com/edinburgh-live-bias/)
-    
-    December 6, 2024
-    
-* [Accounting and Business Research – Bias and Credibility](https://mediabiasfactcheck.com/accounting-and-business-research-bias/)
-    
-    December 6, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 7, 2024
+    
+* [PCMag – Bias and Credibility](https://mediabiasfactcheck.com/pcmag-bias-and-credibility/ "View PCMag – Bias and Credibility") - December 7, 2024
+    
+* [Santa Fe Reporter – Bias and Credibility](https://mediabiasfactcheck.com/santa-fe-reporter-bias-and-credibility/ "View Santa Fe Reporter – Bias and Credibility") - December 7, 2024
+    
 * [Der Status – Bias and Credibility](https://mediabiasfactcheck.com/der-status-bias-and-credibility/ "View Der Status – Bias and Credibility") - December 7, 2024
     
 * [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 7, 2024
@@ -196,25 +202,19 @@ No related posts.
     
 * [About](https://mediabiasfactcheck.com/about/ "View About") - December 7, 2024
     
-* [Newark Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/newark-advertiser-bias/ "View Newark Advertiser – Bias and Credibility") - December 7, 2024
-    
-* [The Economic Times – Bias and Credibility](https://mediabiasfactcheck.com/the-economic-times/ "View The Economic Times – Bias and Credibility") - December 6, 2024
-    
-* [Propublica – Bias and Credibility](https://mediabiasfactcheck.com/propublica/ "View Propublica – Bias and Credibility") - December 6, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [MBFC's Daily Vetted Fact Checks for 12/06/2024](https://mediabiasfactcheck.com/2024/12/06/mbfcs-daily-vetted-fact-checks-for-12-06-2024/)
-* [Search](https://mediabiasfactcheck.com/search/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
