@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Anri van der Linde
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=106839774)  
-Little Nutty Professors
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=18490020)  
+Gemini-IT Group
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=161590262)  
-MONSTER SECURITY GUARDING
+![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=22651042)  
+Iurus Inc
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=27142504)  
-Website Café (PTY) LTD
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=83142131)  
+Sonic Electrical Services PTY Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=100377159)  
-Alliance Energy
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=203467705)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=121912980)  
-Moulded Wax SA - The Candle Store
-
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=148464474)  
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=122168418)  
 Moving Made Easy (PTY) Ltd
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=143691400)  
-MONSTER SECURITY SERVICES
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=84828713)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=123443409)  
-Know Informatics
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=43247004)  
+SafeTclip
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=163319886)  
-Fox Alarms & Security
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=136811029)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=110270399)  
-Tagline Brands
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=25449527)  
+Mountain Lion Properties
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=57403082)  
-MSPCloud (Pty) Ltd
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=17974645)  
+Three Moons Emporium
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=48378914)  
-Vplay Grafix
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=177754217)  
+VerdanTech Pty Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=185006867)  
-Konsortium Operations (PTY) LTD
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=126205994)  
+Bchange Online CC
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=189810269)  
-OptaServ
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=77361359)  
+WIP Digital Solutions
 
-![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=4345a25d6732d568fcd1d3cee25482e8922a0e2547d9d250d6e0fd2402221d17&c=30971942)  
-Digifax (Pty) Ltd T/A SecurityHyper
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=150238657)  
+The Gourmet Artisans Ltd.
+
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=6433093e5e2c13c0fc271a6ba2e2d97b8259cf070cd37c115527f32061cad58a&c=94705743)  
+Forgotten Goods (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
