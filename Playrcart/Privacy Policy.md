@@ -16,6 +16,8 @@ Close
         
     * [Brands](https://www.glui.io/partners)
         
+    * [Partners](https://www.glui.io/copy-of-partners)
+        
 * Platform
     
     * [About Us](https://www.glui.io/about-us)
