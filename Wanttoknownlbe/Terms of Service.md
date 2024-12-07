@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/shell-wint-groene-zeepbel-amnesty-vraagt-je-hulp/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/eindelijk-intelligente-kijk-op-klimaatverandering/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
