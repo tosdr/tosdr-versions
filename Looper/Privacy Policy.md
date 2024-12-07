@@ -8,7 +8,7 @@
 * [REVIEWS](https://www.looper.com/category/reviews/)
 * [NEWS](https://www.looper.com/category/news/)
 * [FEATURES](https://www.looper.com/category/features/)
-* [](http://www.facebook.com/LooperMoviesTV "Facebook")[](https://www.youtube.com/c/looper "YouTube")[](https://www.instagram.com/looperhq "Instagram")[](https://flipboard.com/@Looper "Flipboard")[](https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462 "Snapchat")[](https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw "Google")[](https://www.looper.com/feed/ "RSS")
+* [](http://www.facebook.com/LooperMoviesTV "Facebook")[](https://www.youtube.com/c/looper "YouTube")[](https://www.instagram.com/looperhq "Instagram")[](https://flipboard.com/@Looper "Flipboard")[](https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462 "Snapchat")[](https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw "Google")[](https://bsky.app/profile/looperhq.bsky.social "Bluesky")[](https://www.looper.com/feed/ "RSS")
 * [Advertise](https://static.com/advertise "Advertise")
     
 * [About](https://www.looper.com/about/)
@@ -27,7 +27,7 @@ Privacy Policy
 
 [EXCLUSIVES](https://www.looper.com/category/exclusives/) [MOVIES](https://www.looper.com/category/movies/) [TV](https://www.looper.com/category/television/) [STREAMING](https://www.looper.com/category/streaming/) [COMICS](https://www.looper.com/category/comics/) [REVIEWS](https://www.looper.com/category/reviews/) [NEWS](https://www.looper.com/category/news/) [FEATURES](https://www.looper.com/category/features/)
 
-[](http://www.facebook.com/LooperMoviesTV "Facebook")[](https://www.youtube.com/c/looper "YouTube")[](https://www.instagram.com/looperhq "Instagram")[](https://flipboard.com/@Looper "Flipboard")[](https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462 "Snapchat")[](https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw "Google")[](https://www.looper.com/feed/ "RSS")
+[](http://www.facebook.com/LooperMoviesTV "Facebook")[](https://www.youtube.com/c/looper "YouTube")[](https://www.instagram.com/looperhq "Instagram")[](https://flipboard.com/@Looper "Flipboard")[](https://story.snapchat.com/p/94e00f7f-3dd0-4ebf-9d73-e13e781b2462 "Snapchat")[](https://news.google.com/publications/CAAqBwgKMPuphAsw6uaAAw "Google")[](https://bsky.app/profile/looperhq.bsky.social "Bluesky")[](https://www.looper.com/feed/ "RSS")
 
 [Advertise](https://static.com/advertise "Advertise")
 
