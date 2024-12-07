@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: How did the CEO of an online payments firm become the nominee to lead NASA?](https://cdn.arstechnica.net/wp-content/uploads/2021/02/Jared_Isaacman_at_SpaceX_2-768x432.jpg)](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
+1. [![Listing image for first story in Most Read: Broadcom reverses controversial plan in effort to cull VMware migrations](https://cdn.arstechnica.net/wp-content/uploads/2023/12/GettyImages-1247615915-768x432-1733429422.jpg)](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
     
-    1. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
+    1. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
     
-2. 2. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
+2. 2. [How did the CEO of an online payments firm become the nominee to lead NASA?](https://arstechnica.com/space/2024/12/how-did-the-ceo-of-an-online-payments-firm-become-the-nominee-to-lead-nasa/)
     
-3. 3. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+3. 3. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
     
-4. 4. [AT&T says it won’t build fiber home Internet in half of its wireline footprint](https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/)
+4. 4. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
     
-5. 5. [$1 phone scanner finds seven Pegasus spyware infections](https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/)
+5. 5. [Backdoor slipped into popular code library, drains ~$155k from digital wallets](https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/)
     
 
 Customize
