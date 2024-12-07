@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-06 Dec 2024
+07 Dec 2024
 
 * [Home
     
@@ -268,6 +268,15 @@ Derry Magistrates' Court
 [Derry man who sexually assaulted 16-year-old girl on a Christmas night out jailed](https://www.derrynow.com/news/local-news/1674634/derry-man-who-sexually-assaulted-16-year-old-girl-on-a-christmas-night-out-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool")](https://www.derrynow.com/news/national-news/1674886/conor-mcgregor-wants-to-knock-lavish-home-to-build-mansion-with-cinema-and-swimming-pool.html)
+
+Conor McGregor
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Conor McGregor wants to knock lavish home to build mansion with cinema and swimming pool](https://www.derrynow.com/news/national-news/1674886/conor-mcgregor-wants-to-knock-lavish-home-to-build-mansion-with-cinema-and-swimming-pool.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1673825/derry-death-notices-friday-december-6-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -283,6 +292,13 @@ Derry Magistrates' Court
 
 [Man who carried out 'bizarre' theft by stealing dog leads and harnesses valued at £2,126 jailed](https://www.derrynow.com/news/local-news/1674566/man-who-carried-out-bizarre-theft-by-stealing-dog-leads-and-harnesses-valued-at-2-126-jailed.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort")](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "CANCELLED! Bus Eireann services significantly impacted as Storm Darragh approaches")](https://www.derrynow.com/news/national-news/1674645/cancelled-bus-eireann-services-significantly-impacted-as-storm-darragh-approaches.html)
 
@@ -300,12 +316,14 @@ A number of severe weather warnings have been issued by Met Eireann
 [IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort")](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
+[![Man who assaulted Translink staff member jailed for five months](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who assaulted Translink staff member jailed for five months")](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+Derry Magistrates' Court
 
-[IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man who assaulted Translink staff member jailed for five months](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry woman charged with possession of an offensive weapon returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry woman charged with possession of an offensive weapon returned for trial")](https://www.derrynow.com/news/local-news/1674429/derry-woman-charged-with-possession-of-an-offensive-weapon-returned-for-trial.html)
 
@@ -324,22 +342,6 @@ Storm Darragh Weather Warning for dangerous winds for all of Ireland
 
 [Derry & Strabane Council issues update on services in relation to Storm Darragh this weekend](https://www.derrynow.com/news/local-news/1674421/derry-strabane-council-issues-update-on-services-in-relation-to-storm-darragh-this-weekend.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Guinness drinkers of Derry need not worry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Guinness drinkers of Derry need not worry")](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Guinness drinkers of Derry need not worry](https://www.derrynow.com/news/derry-news/1674492/guinness-drinkers-of-derry-need-not-worry.html)
---------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who assaulted Translink staff member jailed for five months](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who assaulted Translink staff member jailed for five months")](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
-
-Derry Magistrates' Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who assaulted Translink staff member jailed for five months](https://www.derrynow.com/news/local-news/1674632/man-who-assaulted-translink-staff-member-jailed-for-five-months.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
