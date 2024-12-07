@@ -20,16 +20,16 @@ Saturday, December 7 2024
 
 Latest
 
-* [Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
-* [Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
-* [How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
-* [Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
-* [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
-* [Deadlock Patch Notes (December 6): Raven, Buffs, Nerfs & Other Changes](https://digitpatrox.com/deadlock-patch-notes-december-6-raven-buffs-nerfs-other-changes/)
-* [Sharp continues European IT services push with latest acquisition](https://digitpatrox.com/sharp-continues-european-it-services-push-with-latest-acquisition/)
-* [ByteDance is about to learn a painful genAI lesson – Computerworld](https://digitpatrox.com/bytedance-is-about-to-learn-a-painful-genai-lesson-computerworld/)
-* [Seven Tricks to Help You Stop Losing Your Phone (and Wallet, and Keys)](https://digitpatrox.com/seven-tricks-to-help-you-stop-losing-your-phone-and-wallet-and-keys/)
-* [How to create email signature on new Outlook app for Windows 11](https://digitpatrox.com/how-to-create-email-signature-on-new-outlook-app-for-windows-11/)
+* [OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
+* [Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
+* [The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
+* [Never Buy Tickets on Social Media—It’s Nearly Always a Scam](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
+* [Chief AI Officers Are Emerging as Lynchpin in AI Success](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
+* [Forget sit-ups — these 5 exercises blast your entire core and you don’t need any equipment](https://digitpatrox.com/forget-sit-ups-these-5-exercises-blast-your-entire-core-and-you-dont-need-any-equipment/)
+* [Ultralytics AI model hijacked to infect thousands with cryptominer](https://digitpatrox.com/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+* [The 36 best gifts for every type of dad in 2024](https://digitpatrox.com/the-36-best-gifts-for-every-type-of-dad-in-2024/)
+* [Marvel Rivals Season 0 Battle Pass: Prices, Rewards, and More](https://digitpatrox.com/marvel-rivals-season-0-battle-pass-prices-rewards-and-more/)
+* [BT Group’s Conferencing division attacked by Black Basta ransomware gang](https://digitpatrox.com/bt-groups-conferencing-division-attacked-by-black-basta-ransomware-gang/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/72k2PYYBXvAgZTnN2YvvFW-1200-80.jpg)](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619148-0-40736900-1733538707-OpenAI.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
     
-    [Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
+    [OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
     
-    21 minutes ago
+    45 seconds ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_272603267.jpg)](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
+* [![](https://lifehacker.com/imagery/articles/01HN0ZP8S1KSR9CY579D4F5JF6/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
     
-    [Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
-    
-    25 minutes ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/5o6SVNJgCvNgBtT7dcjjC7-1200-80.jpg)](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
-    
-    [How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
+    [Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
     
     29 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/20/windows-11-recall.jpg)](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732028184/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Most-Reliable-Cars-by-Category-1124)](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
     
-    [Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://digitpatrox.com/microsoft-expands-recall-preview-to-intel-and-amd-copilot-pcs/)
+    [The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
     
-    2 hours ago
+    39 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/nWMQ2KnFoURalTiL_JTysCbLXCo=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25503647/DSCF7835_Enhanced_NR.jpg)](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/an-illustration-of-a-person-buying-a-ticket-from-a-scammer-through-their-phone-with-some-warning-tapes-around.jpg)](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
     
-    [Microsoft Surface rumors point to a big Copilot Plus refresh next year](https://digitpatrox.com/microsoft-surface-rumors-point-to-a-big-copilot-plus-refresh-next-year/)
+    [Never Buy Tickets on Social Media—It’s Nearly Always a Scam](https://digitpatrox.com/never-buy-tickets-on-social-media-its-nearly-always-a-scam/)
     
-    2 hours ago
+    40 minutes ago
+    
+* [![](https://assets.techrepublic.com/uploads/2024/12/AdobeStock_315682413.jpg)](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
+    
+    [Chief AI Officers Are Emerging as Lynchpin in AI Success](https://digitpatrox.com/chief-ai-officers-are-emerging-as-lynchpin-in-ai-success/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [21 minutes ago
+* [45 seconds ago
     
-    ### Meta just unveiled plans to spend $10 billion on its largest-ever data center](https://digitpatrox.com/meta-just-unveiled-plans-to-spend-10-billion-on-its-largest-ever-data-center/)
-* [25 minutes ago
-    
-    ### Employee Data Access Behaviors Hurting Australian Employers](https://digitpatrox.com/employee-data-access-behaviors-hurting-australian-employers/)
+    ### OpenAI announces ChatGPT Pro, priced at $200 per month – Computerworld](https://digitpatrox.com/openai-announces-chatgpt-pro-priced-at-200-per-month-computerworld/)
 * [29 minutes ago
     
-    ### How to watch WWE Bad Blood 2024 live stream anywhere](https://digitpatrox.com/how-to-watch-wwe-bad-blood-2024-live-stream-anywhere/)
+    ### Amazon Prime Members Can Get Two of These E-Books Free in December](https://digitpatrox.com/amazon-prime-members-can-get-two-of-these-e-books-free-in-december/)
+* [39 minutes ago
+    
+    ### The Most and Least Reliable Cars, Trucks, and SUVs](https://digitpatrox.com/the-most-and-least-reliable-cars-trucks-and-suvs/)
 
 Most Popular Topics
 
-* [September 10, 2024
+* [August 13, 2024
     
-    ### Game Pass Standard Arrives With Lower Price and Fewer Games](https://digitpatrox.com/game-pass-standard-arrives-with-lower-price-and-fewer-games/)
-* [3 weeks ago
+    ### How to Compile the VMware Workstation Pro Kernel Modules on Ubuntu/Debian](https://digitpatrox.com/how-to-compile-the-vmware-workstation-pro-kernel-modules-on-ubuntu-debian/)
+* [2 weeks ago
     
-    ### Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://digitpatrox.com/apples-rumored-six-inch-ai-wall-tablet-could-control-your-smart-home-by-march-2025/)
-* [August 23, 2024
+    ### Is It Still Reliable in 2024?](https://digitpatrox.com/is-it-still-reliable-in-2024/)
+* [October 30, 2024
     
-    ### Microsoft confirms August updates break Linux boot in dual-boot systems](https://digitpatrox.com/microsoft-confirms-august-updates-break-linux-boot-in-dual-boot-systems/)
+    ### My favorite teen drama is now streaming on Netflix — and it’s an addictive binge](https://digitpatrox.com/my-favorite-teen-drama-is-now-streaming-on-netflix-and-its-an-addictive-binge/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [3 hours ago
     
-    ### Sharp continues European IT services push with latest acquisition](https://digitpatrox.com/sharp-continues-european-it-services-push-with-latest-acquisition/)
-* [4 hours ago
+    ### Ultralytics AI model hijacked to infect thousands with cryptominer](https://digitpatrox.com/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+* [3 hours ago
     
-    ### ByteDance is about to learn a painful genAI lesson – Computerworld](https://digitpatrox.com/bytedance-is-about-to-learn-a-painful-genai-lesson-computerworld/)
-* [5 hours ago
+    ### The 36 best gifts for every type of dad in 2024](https://digitpatrox.com/the-36-best-gifts-for-every-type-of-dad-in-2024/)
+* [3 hours ago
     
-    ### Seven Tricks to Help You Stop Losing Your Phone (and Wallet, and Keys)](https://digitpatrox.com/seven-tricks-to-help-you-stop-losing-your-phone-and-wallet-and-keys/)
+    ### Marvel Rivals Season 0 Battle Pass: Prices, Rewards, and More](https://digitpatrox.com/marvel-rivals-season-0-battle-pass-prices-rewards-and-more/)
 
 Most Viewed Topics
 
-* [August 12, 2024
+* [August 13, 2024
     
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
