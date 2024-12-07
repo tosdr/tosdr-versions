@@ -43,6 +43,6 @@ Some of our business partners may use cookies on our site (for example, advertis
 
 This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information.
 
-**If you feel that we are not abiding by this privacy policy or if you have questions about this policy or suggestions on how to make it better, please [contact us](https://flamingtext.com/contactus/).**
+**If you feel that we are not abiding by this privacy policy or if you have questions about this policy or suggestions on how to make it better, please [contact us](https://www.flamingtext.com/contactus/).**
 
 [Back to top](#top "Jump to the top of the page")
