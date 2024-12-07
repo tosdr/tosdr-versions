@@ -196,59 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=135342323)  
-Little Nutty Professors
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=85295928)  
+High Point Marketing CC t/a Leads For Africa
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=118596222)  
-Druce Digital
-
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80320310)  
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=103635553)  
 MSPCloud (Pty) Ltd
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=167639922)  
-United Paintball Federation
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=174207446)  
-MONSTER SECURITY SERVICES
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80123999)  
-Henry's Home Renovations
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=152527633)  
-Oukraal Merino's
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=80020934)  
-Qothiphango Mining
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=127043749)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=24941240)  
-Iurus Inc
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=31704519)  
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=99123256)  
 Xpress Designs
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=55871200)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=63070404)  
+West Coast Horse Trails
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=169220384)  
+![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=127502296)  
 Lily Fern & Co
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=70074395)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=46501846)  
+Nogana Events and Decor
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=68172269)  
+Goju Ryu Karate Centre
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=99185655)  
+Chiron Medical Solutions
+
+![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=63889005)  
+Mmakoma projects
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=147929427)  
+NWET Pty LTD
+
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=116044996)  
 MONSTER CONNECT (PTY) LTD
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=a8a58029d52e0822c16be86a12760a2452374b63a3f4060d60eb029ac5e31d27&c=1755034)  
-Brilliant Roof Products
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=155355295)  
+KTEN PARTS
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=158279793)  
+Westside Car Audio CC
+
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=60626967)  
+Creative Characters
+
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=109113400)  
+Tracknetics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
