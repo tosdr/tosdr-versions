@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| What We Aint GotJake Owen<br><br>10:40am |
-| Am I OkMegan Moroney<br><br>10:35am |
-| Love SomebodyMorgan Wallen<br><br>10:31am |
-| Most People Are GoodLuke Bryan<br><br>10:25am |
-| Pretty Little PoisonWarren Zeiders<br><br>10:20am |
+| I Love This LifeLocash<br><br>4:20pm |
+| One Hell Of An AmenBrantley Gilbert<br><br>4:14pm |
+| I Remember EverythingZach Bryan Ft Kacey Musgraves<br><br>4:07pm |
+| Famous FriendsChris Young And Kane Brown<br><br>4:04pm |
+| Pink SkiesZach Bryan<br><br>3:33pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
+Top 40 • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Top 40 • Pacific NW
+Sports • Midwest
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
