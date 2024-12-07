@@ -112,25 +112,25 @@ This information should not be construed as legal advice, for further details on
 
 ### Share this page
 
-[WhatsApp](#_xfUid-1-1733562680) [Email](#_xfUid-1-1733562680) [Share](#_xfUid-1-1733562680) [Link](#_xfUid-1-1733562680)
+[WhatsApp](#_xfUid-1-1733584995) [Email](#_xfUid-1-1733584995) [Share](#_xfUid-1-1733584995) [Link](#_xfUid-1-1733584995)
 
 ### Forum statistics
 
 Threads
 
-68,941
+68,957
 
 Messages
 
-3,047,909
+3,048,942
 
 Members
 
-4,792,387
+4,793,594
 
 Latest member
 
-[oldspicechungus](https://platinmods.com/members/oldspicechungus.5122391/)
+[qaz2148](https://platinmods.com/members/qaz2148.5123607/)
 
 * [Platinmods.com - Futuristic S-Dark](https://platinmods.com/misc/style "Style chooser")
 
