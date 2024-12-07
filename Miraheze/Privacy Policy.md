@@ -20,12 +20,14 @@ Requests
 * [Request to reopen a wiki](https://meta.miraheze.org/wiki/Steward_requests/Requests_for_reopening_wikis)
 * [Requests for Comment](https://meta.miraheze.org/wiki/Requests_for_Comment)
 
-Noticeboards
+Help/Requests/Notices
 
 * [Community portal](https://meta.miraheze.org/wiki/Community_portal)
+* [Help desk](https://meta.miraheze.org/wiki/Help_desk)
 * [Steward requests](https://meta.miraheze.org/wiki/Steward_requests)
 * [Meta administrators' noticeboard](https://meta.miraheze.org/wiki/Meta:Administrators%27_noticeboard)
 * [Meta community portal](https://meta.miraheze.org/wiki/Meta:Community_portal)
+* [SRE noticeboard](https://meta.miraheze.org/wiki/Tech:SRE_noticeboard)
 
 Miraheze
 
