@@ -305,7 +305,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#Костюк](https://er.ru/activity/news?tags%5B0%5D=19523) [#Стенякина](https://er.ru/activity/news?tags%5B0%5D=26293) [#Харченко](https://er.ru/activity/news?tags%5B0%5D=13063) [#Власова](https://er.ru/activity/news?tags%5B0%5D=26580) [#Стулова](https://er.ru/activity/news?tags%5B0%5D=1094161) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Еврейская автономная область](https://er.ru/activity/news?tags%5B0%5D=8459)
 
-Сегодня 17:37
+07.12.24
 
 [![«Единая Россия» дала старт программе поддержки участников СВО «Психологический наставник»](https://cdn.er.ru/media/news/December2024/cC4aucBgbYsLlnJzZA2Y-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-dala-start-programme-podderzhki-uchastnikov-svo-psihologicheskij-nastavnik)
 
@@ -313,7 +313,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#Республика Татарстан](https://er.ru/activity/news?tags%5B0%5D=2434) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#наставники](https://er.ru/activity/news?tags%5B0%5D=128153) [#психологическаяподдержка](https://er.ru/activity/news?tags%5B0%5D=148131) [#подготовкакадров](https://er.ru/activity/news?tags%5B0%5D=152262)
 
-Сегодня 12:00
+07.12.24
 
 [![Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://cdn.er.ru/media/news/December2024/dEQxMMIVrmP0NFSBgGq2-small.jpg)](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
 
