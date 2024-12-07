@@ -279,7 +279,8 @@ Share This Article
 * [How to Speak Your Child’s Love Language](https://www.safesearchkids.com/how-to-speak-your-childs-love-language-tips-and-techniques/)
 * [What Sensory Activities Can Be Used In Listening Therapy?](https://www.safesearchkids.com/what-sensory-activities-can-be-used-in-listening-therapy/)
 * [Is Mastodon Safe? | Social Media Safety](https://www.safesearchkids.com/is-mastodon-safe/)
-* [Unplug and Play: A World of Offline Strategy Games for iPhone](https://www.safesearchkids.com/discovering-a-world-of-offline-strategy-games-for-iphone/)
+* [A World of Offline Strategy Games for iPhone](https://www.safesearchkids.com/discovering-a-world-of-offline-strategy-games-for-iphone/)
+* [Reading Program: Beyond the School Curriculum](https://www.safesearchkids.com/how-can-a-reading-program-help-your-child-advance-beyond-the-school-curriculum/)
 
 ### Articles on Education
 
@@ -291,6 +292,7 @@ Share This Article
 * [Must Reads Before Starting High School Chemistry](https://www.safesearchkids.com/3-key-concepts-your-child-should-read-before-starting-high-school-chemistry/)
 * [How to Cite Sources in Essays and Research Papers](https://www.safesearchkids.com/how-to-cite-sources-in-essays-and-research-papers/)
 * [Differences between Formative Summative Assessment](https://www.safesearchkids.com/the-differences-between-formative-assessment-and-summative-assessment/)
+* [Science Activities for Third Grade](https://www.safesearchkids.com/science-activities-for-third-grade-engaging-experiments-for-curious-minds/)
 * [Comprehensive Guide to Inclusive Teaching](https://www.safesearchkids.com/comprehensive-guide-to-inclusive-teaching-with-examples/)
 * [Integrating Social Media Safety in School Curriculum](https://www.safesearchkids.com/teaching-digital-citizenship-integrating-social-media-safety-in-middle-school-curriculum/)
 * [Project-Based Learning Among Kids](https://www.safesearchkids.com/project-based-learning-among-kids-all-you-need-to-know/)
