@@ -630,7 +630,7 @@
 
    [](javascript:;)
 
-[Locations](https://www.knoll.com/location) [Dealer Portal](https://www.knoll.com/myaccount/signin)
+[International Site](http://knoll-int.com/) [Locations](https://www.knoll.com/location) [Dealer Portal](https://www.knoll.com/myaccount/signin)
 
 Featured Products
 -----------------
