@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch 5 design](https://www.huaweicentral.com/wp-content/uploads/2024/12/Watch4-400x240.jpg)
+        
+        Leak suggests Huawei Watch 5 series to bring lightweight design](https://www.huaweicentral.com/leak-suggests-huawei-watch-5-series-to-bring-lightweight-design/)
     * [![Huawei AI Messages smartwatches](https://www.huaweicentral.com/wp-content/uploads/2024/12/AI-Messages-400x240.jpg)
         
         Huawei announces AI Messages support for these 15 smartwatches](https://www.huaweicentral.com/huawei-announces-ai-messages-support-for-these-15-smartwatches/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch Ultimate Sapphire Gold](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-Ultimate-Gold-Edition-400x240.jpg)
         
         Huawei introduces Watch Ultimate Design Sapphire Gold Edition](https://www.huaweicentral.com/huawei-introduces-watch-ultimate-design-sapphire-gold-edition/)
-    * [![Huawei Watch D2 pre-sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-pre-sale-400x240.jpg)
-        
-        Huawei Watch D2 wearable open for pre-sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-open-for-pre-sale-in-china/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
