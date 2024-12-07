@@ -14,6 +14,8 @@
     * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
 
+[![Chequered Ink](https://chequered.ink/wp-content/uploads/2024/05/cropped-web_logo.png)](https://chequered.ink/ "Chequered Ink | Home page")
+
 * [Games](https://chequered.ink/games/)
 * [Fonts](https://chequered.ink/fonts/)
     * [Full Listing](https://www.fontspace.com/chequered-ink)
@@ -22,10 +24,6 @@
     * [Free](https://chequered.ink/category/game-assets/free-game-assets/)
     * [Paid](https://chequered.ink/category/game-assets/paid-game-assets/)
 * [Blog](https://chequered.ink/latest/)
-
-Search for:  
-
-[![Chequered Ink](https://chequered.ink/wp-content/uploads/2024/05/cropped-web_logo.png)](https://chequered.ink/ "Chequered Ink | Home page")
 
 Terms and Conditions
 ====================
