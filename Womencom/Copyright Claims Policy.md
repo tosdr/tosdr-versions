@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+*  [![Aric Avedissian talking about Rareform bags](https://www.women.com/img/gallery/heres-what-went-down-with-rareform-bags-after-shark-tank/intro-1733246794.jpg)](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Living](https://www.women.com/category/living/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    [Living](https://www.women.com/category/living/) By Mila Williams
     
-    [Zendaya's Style Transformation Is Jaw Dropping](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
-    ==========================================================================================================================
+    [Here's What Went Down With Rareform Bags After Shark Tank](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
+    =========================================================================================================================================
     
-    Zendaya has been a fashion icon since her Disney Channel days, but over the years, she's moved on to stun with method dressing and designer gowns.
+    Rareform Bags was started by two Californian brothers, with the goal of hoping to improve the environment one billboard at a time.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+    By Mila Williams [Read More](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
     
-* *  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+* *  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+        
+        [Fashion](https://www.women.com/category/fashion/)
+        
+        [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+        
+        ### [Zendaya's Style Transformation Is Jaw Dropping](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+        
+        Zendaya has been a fashion icon since her Disney Channel days, but over the years, she's moved on to stun with method dressing and designer gowns.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+        
+    *  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -68,22 +80,34 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
         
-    *  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
-        
-        ### [How Compatible Are Selena Gomez And Benny Blanco, According To Astrology?](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
-        
-        Selena Gomez and Benny Blanco give us major couple goals. Both of their zodiac signs are true romantics at heart but, are they truly compatible?
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
-        
 
 More Stories
 ------------
 
+*  [![Pink white ombre nails with sparkles](https://www.women.com/img/gallery/8-new-years-eve-2024-manicure-ideas-more-dazzling-than-the-ball-drop/intro-1733249292.jpg)](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Mila Williams
+    
+    ### [8 New Years Eve 2024 Manicure Ideas More Dazzling Than The Ball Drop](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
+    
+    Whether you're ringing in the New Year at Times Square or watching the fireworks from your couch, a dazzling manicure is the perfect way to celebrate.
+    
+    By Mila Williams [Read More](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
+    
+*  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
+    
+    ### [How Compatible Are Selena Gomez And Benny Blanco, According To Astrology?](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+    
+    Selena Gomez and Benny Blanco give us major couple goals. Both of their zodiac signs are true romantics at heart but, are they truly compatible?
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
+    
 *  [![A woman reading a book on a sofa](https://www.women.com/img/gallery/the-best-books-of-2024-for-every-genre-interest/intro-1733166416.jpg)](https://www.women.com/1726951/best-books-2024-every-genre-interest/)
     
     [Living](https://www.women.com/category/living/)
@@ -383,30 +407,6 @@ More Stories
     If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
     
     By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-    
-*  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Madison Emily Whisenand
-    
-    ### [The People's Librarian: Dolly Parton Is Bringing Books To Your Community](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-    
-    Dolly's Parton Imagination Library is just as relevant as it was in 1995. She may be childfree, but she's truly become the people's librarian.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
-    
-*  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-    
-    Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
     
 
 Back
