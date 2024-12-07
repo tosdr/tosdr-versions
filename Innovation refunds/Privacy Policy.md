@@ -246,7 +246,7 @@ This privacy policy replaces all previous privacy policies and cannot be modifie
 
 [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/svg/Innovation-Refunds-Logo_Black.svg)](https://www.innovationrefunds.com/)
 
-[](https://www.trustpilot.com/review/innovationrefunds.com "trustpilot")
+[](https://www.trustpilot.com/review/innovationrefunds.com)
 
 [](https://www.trustpilot.com/review/innovationrefunds.com "trustpilot")
 
