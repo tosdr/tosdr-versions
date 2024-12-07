@@ -8,11 +8,11 @@
     
     [About Us](https://www.atlantafed.org/research/economists) [Data & Tools](https://www.atlantafed.org/research/data-and-tools) [Economic Mobility & Resilience](https://www.atlantafed.org/economic-mobility-and-resilience) [Inflation Project](https://www.atlantafed.org/research/inflationproject) [Events](https://www.atlantafed.org/research/events) [Publications](https://www.atlantafed.org/research/publications) [Research Centers](https://www.atlantafed.org/research/centers) [Regional Economy](https://www.atlantafed.org/rein) [Surveys](https://www.atlantafed.org/research/surveys)
     
-* [Economy Matters](https://www.atlantafed.org/americascenter/publications/portugues)
+* [Economy Matters](https://www.atlantafed.org/economy-matters)
     
     [Annual Report](https://www.atlantafed.org/economy-matters/annual-report/2023) [Economic Research](https://www.atlantafed.org/economy-matters/economic-research) [Banking & Finance](https://www.atlantafed.org/economy-matters/banking-and-finance) [Regional Economics](https://www.atlantafed.org/economy-matters/regional-economics) [Community & Economic Development](https://www.atlantafed.org/economy-matters/community-and-economic-development) [Inside the Fed](https://www.atlantafed.org/economy-matters/inside-the-fed) [Financial Tips](https://www.atlantafed.org/economy-matters/financial-tips) [Podcast](https://www.atlantafed.org/podcasts/transcripts/economy-matters) [Quizzes](https://www.atlantafed.org/economy-matters/quiz) [Staff & Credits](https://www.atlantafed.org/economy-matters/staff) [Departments](https://www.atlantafed.org/economy-matters/departments)
     
-* [Banking & Payments](https://www.atlantafed.org/americascenter/resources)
+* [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
     
     [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision) [Business Continuity](https://www.atlantafed.org/banking-and-payments/business-continuity) [Consumer Payments](https://www.atlantafed.org/banking-and-payments/consumer-payments) [Lending](https://www.atlantafed.org/banking-and-payments/lending) [Payments Inclusion](https://www.atlantafed.org/banking-and-payments/payments-inclusion) [Payments Forum](https://www.atlantafed.org/payments-forum) [Publications](https://www.atlantafed.org/banking-and-payments/publications) [Reporting](https://www.atlantafed.org/banking-and-payments/reporting)
     
@@ -95,7 +95,7 @@ Menutoggle menu
         * [About Us](https://www.atlantafed.org/research/surveys/about-us)
         * [Outreach Lab](https://www.atlantafed.org/research/surveys/outreach-lab)
         * [Publications & Resources](https://www.atlantafed.org/research/surveys/publications-and-research)
-* [Economy Matters](https://www.atlantafed.org/americascenter/publications/portugues)
+* [Economy Matters](https://www.atlantafed.org/economy-matters)
     * [Annual Report](https://www.atlantafed.org/economy-matters/annual-report/2023)
     * [Economic Research](https://www.atlantafed.org/economy-matters/economic-research)
     * [Banking & Finance](https://www.atlantafed.org/economy-matters/banking-and-finance)
@@ -107,7 +107,7 @@ Menutoggle menu
         * [Podcast](https://www.atlantafed.org/podcasts/transcripts/economy-matters)
         * [Quizzes](https://www.atlantafed.org/economy-matters/quiz)
         * [Staff & Credits](https://www.atlantafed.org/economy-matters/staff)
-* [Banking & Payments](https://www.atlantafed.org/americascenter/resources)
+* [Banking & Payments](https://www.atlantafed.org/banking-and-payments)
     * [Banking Supervision](https://www.atlantafed.org/banking-and-payments/banking-supervision)
         * [About Us](https://www.atlantafed.org/banking-and-payments/banking-supervision/about-us)
         * [Appeals](https://www.atlantafed.org/banking-and-payments/banking-supervision/appeals)
