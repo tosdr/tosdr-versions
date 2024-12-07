@@ -31,6 +31,874 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Vinotinto y 22 de Julio ascendieron a la Serie B
+================================================
+
+Dos equipos harán su debut en la primera categoría del fútbol ecuatoriano tras clasificarse a la final del Torneo de Ascenso de la Segunda Categoría.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Vinotinto y 22 de Julio son los equipos que ascendieron a la Liga Pro Serie B de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T140808.304.jpg)
+
+Este sábado 7 de diciembre se disputaron las **semifinales de vuelta del Torneo de Ascenso** de la **Segunda** **Categoría**, donde se conocieron los dos equipos que ascenderán a la Serie B para el próximo año: **22 de Julio y el Club Atlético Vinotinto.**
+
+En la primera semifinal, el Club Atlético Vinotinto se enfrentó a **CD La Unión** en el Estadio El Horno de Pujilí, después de un empate 2-2 en el partido de ida. A pesar de jugar más de media hora con diez jugadores, Vinotinto logró mantener el empate 2-2 y forzó la definición por penales.
+
+### Más noticias:
+
+* [Las sanciones que apresuraron el descenso del Deportivo Quito en 2016](https://www.elcomercio.com/deportes/futbol/liga-quito-deportivo-sanciones-fef.html "Las sanciones que apresuraron el descenso del Deportivo Quito en 2016")
+* [Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo](https://www.elcomercio.com/deportes/futbol/dalo-bucaram-aclara-la-situacion-de-su-hijo-jugador-de-liga-de-portoviejo.html "Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo")
+* [Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram](https://www.elcomercio.com/deportes/futbol/liga-de-portoviejo-denuncia-intento-de-secuestro-contra-dalo-bucaram.html "Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram")
+
+En esta instancia, el conjunto **visitante se impuso 4-5**, logrando su ascenso a la Serie B. Sin embargo, jugará como equipo filial, ya que los mismos dueños del club también tienen a **Cuniburo**, que competirá en la Serie A bajo el nombre de Vinotinto.
+
+> 🙌 ¡Un club de Primera!  
+>   
+> Felicitamos al club Atl. Vino Tinto por su clasificación a la Final Única del Ascenso Nacional Ecuabet 2024 y su consecuente paso a la Primera Categoría LigaPro Ecuabet Serie B 2025. [pic.twitter.com/k2gR4IwcEp](https://t.co/k2gR4IwcEp)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [December 7, 2024](https://twitter.com/FEFecuador/status/1865469550302573044?ref_src=twsrc%5Etfw)
+
+La segunda semifinal enfrentó a **Liga de Portoviejo** y 22 de Julio en el Estadio Folke Anderson. En el partido de ida, los manabitas no pudieron aprovechar su localía y terminaron empatando 0-0.
+
+El partido de vuelta fue igual de equilibrado, con pocas ocasiones claras, y también terminó 0-0, por lo que la llave se resolvió en penales. 22 de Julio se impuso desde los once pasos y eliminó a uno de los equipos históricos del fútbol ecuatoriano.
+
+> 🙌 ¡Un club de Primera!  
+>   
+> Felicitamos al club 22 de Julio F.C. por su clasificación a la Final Única del Ascenso Nacional Ecuabet 2024 y su consecuente paso a la Primera Categoría LigaPro Ecuabet Serie B 2025. [pic.twitter.com/VgRHOFft8c](https://t.co/VgRHOFft8c)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [December 7, 2024](https://twitter.com/FEFecuador/status/1865475865296957500?ref_src=twsrc%5Etfw)
+
+La final de la Segunda Categoría
+--------------------------------
+
+Este martes 3 de diciembre de 2024 se conoció que el e**stadio Etho Vega de Santo Domingo** de los Tsáchilas fue escogido por la FEF para las finales femenina y masculina del Ascenso Nacional.
+
+Las finales están programadas para el **domingo 15 de diciembre**. Desde las 15:00 será la masculina y a su término se entregará las medallas y trofeos a los equipos ganadores.
+
+La **final única se implementó en el 2020**. La primera edición fue el 19 de diciembre en el Municipal  
+de Otavalo entre Cumbayá y Guayaquil Sport.
+
+Donald Trump y Volodímir Zelenski se encontraron en París
+=========================================================
+
+El jefe de Estado francés, Emmanuel Macron, destacó la presencia de ambos líderes. Ellos están en París por la reapertura de la catedral de Notre Dame.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente francés Emmanuel Macron (C), el presidente electo de Estados Unidos, Donald J. Trump (der.) y el presidente ucraniano Volodymyr Zelensky (izq.) abandonan el Palacio del Elíseo para asistir a la ceremonia de reapertura de la Catedral de Notre Dame de París. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/TRump.jpg)
+
+##### Agencia EFE
+
+El j**efe del Estado francés, Emmanuel Macron,** ha considerado que este sábado 7 de diciembre ha sido un “día histórico” tras haber reunido al presidente electo de **Estados Unidos, Donald Trump**, con el **presidente ucraniano, Volodímir Zelenski,** a los que ha pedido continuar “la acción común por la paz y la seguridad”.
+
+En un mensaje en su cuenta de X, **Macron** se ha felicitado del encuentro que ha propiciado en el Palacio del Elíseo entre los tres: “**Estados Unidos, Ucrania y Francia**. Juntos en este día histórico. Reunidos por Notre Dame. Continuemos la acción común por la paz y la seguridad”.
+
+Ese texto va acompañado de una imagen de los tres, que han estado durante algo más de media hora hablando, antes de participar en la ceremonia de reapertura de la catedral de Notre Dame, tras cinco años de restauración por el incendio que sufrió en abril de 2019.
+
+La reunión entre Macron y Trump
+-------------------------------
+
+En otro mensaje previo, **Macron** se ha referido a su entrevista cara a cara con **Trump** y ha insistido en los “desafíos” que tienen que superar juntos y en el “orgullo por la amistad” entre sus dos países.
+
+El mensaje incluye también un breve vídeo del comienzo de la reunión de ambos dirigentes en el Palacio del Elíseo, que se ha desarrollado unas decenas de minutos antes del inicio de la ceremonia de reapertura de la catedral de **Notre Dame de París**, que es la razón de la presencia del presidente electo de Estados Unidos en Francia.
+
+En ese vídeo, **Macron** decía estar “feliz de acoger en París al presidente electo, Donald Trump para la reapertura de Notre Dame cinco años después. Era presidente cuando la catedral se incendió”.  
+“Es un gran honor para los franceses”, añadía, antes de hacer notar la “solidaridad” que Trump había manifestado por el incendio de **Notre Dame**.
+
+La reacción de Donald Trump
+---------------------------
+
+**Trump**, por su parte, ha destacado la “muy buena relación” que ha tenido con el presidente francés y explicado cómo los estadounidenses quieren y respetan a los franceses.
+
+“Muy honrado de estar aquí”, le ha dicho a Macron, que también ha manifestado su voluntad de trabajar con él y ha hecho notar que “el mundo parece que se está volviendo loco”.
+
+Tras tres cuartos de hora de cara a cara, a la entrevista entre ambos se ha añadido el presidente ucraniano, que es también uno de los dirigentes que se encuentran en París para asistir a las ceremonias de la reapertura de Notre Dame.
+
+Las sequías dejan efectos devastadores en el mundo desde 2022
+=============================================================
+
+Las sequías en el mundo han afectado a cuatro continentes, desde 2022.
+----------------------------------------------------------------------
+
+![Los efectos devastadores de las sequías en el mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/sequias-mundo.jpg)
+
+Las **sequías** dejan **efectos devastadores** en el **mundo** desde 2022 hasta la actualidad.
+
+**Cuatro continentes** han sido afectados, de acuerdo a información recolectada por la Agencia Efe.
+
+### Más noticias:
+
+* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
+* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
+
+Efectos de las sequías en el mundo desde 2022
+---------------------------------------------
+
+De 2022 a 2024, se han dado grandes episodios de **sequía** en el mundo.
+
+Estos fenómenos han afectado a **cuatro continentes y diversos sistemas**.
+
+En 2022, las sequías afectaron a tres sectores de **Asia**: central, este, sudeste.
+
+La agricultura, el abastecimiento de agua, la navegación interior, **la industria y las manufacturas** sufrieron cambios y repercutieron en la población asiática.
+
+Además, **Afganistán**, en 2024, también tuvo una fuerte sequía, que impactó, principalmente, en la agricultura y el abastecimiento de agua.
+
+En el **continente africano**, entre 2022 y 2024, tres regiones fueron afectadas por las sequías: occidente, oriental y austral.
+
+Aparte de la **agricultura y el abastecimiento de agua**, también se dieron problemas de seguridad alimentaria, desplazamientos humanos, energía hidráulica, escasez de agua y ecosistemas.
+
+También, en el **Mediterráneo**, en 2024, las sequías impactaron a la agricultura y el abastecimiento de agua.
+
+En tanto, en **Europa**, entre 2022 y 2023, repercutió en seis sistemas: navegación interior, hidroelectricidad, agricultura, abastecimiento de agua, ecosistemas y salud.
+
+Los efectos de las sequías en América y el mundo
+------------------------------------------------
+
+Cuatro zonas del c**ontinente americano** han sido afectadas por las sequías, desde 2022.
+
+Estos son: el oeste de **Estados Unidos, América Central y el norte de Suramérica, la Cuenca amazónica de Brasil y Andes extratropicales.**
+
+La sequía impactó el oeste de **Estados Unidos** en 2022, afectando ecosistemas, agricultura, energía hidráulica y abastecimiento de agua.
+
+En **América Central y el norte de Suramérica**, entre 2023 y 2024, la agricultura y el abastecimiento de agua sufrieron cambios por las sequías.
+
+La sequía de mayor magnitud en este continente se dio en la **cuenca amazónica de Brasil**, entre 2023 y 2024.
+
+Las sequías impactaron la navegación interior, los **ecosistemas** y la energía hidráulica.
+
+La **Amazonía de Brasil** perdió el 5,4 % de su superficie de agua en 2023 con respecto al año anterior debido a la sequía en la región.
+
+Finalmente, los **Andes extratropicales y La Plata**, entre 2022 y 2023, presentaron escasez de agua, agricultura y navegación interior.
+
+### La sequía en Ecuador
+
+La sequía que afecta a **Ecuador** en este 2024, es la peor que ha sufrido el país en los últimos 61 años.
+
+Esto ha provocado una crisis energética por la dependencia del sistema interconectado a las **lluvias**.
+
+Los ecuatorianos tuvieron que adaptar sus actividades cotidianas a **cortes de luz** de hasta **14 horas** diarias.
+
+La crisis energética aún no termina, aunque el **Gobierno de Daniel Noboa** ofreció que los cortes terminarían en diciembre.
+
+Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre
+=============================================================================
+
+Cortes de luz en Guayaquil continúan este domingo, 8 de diciembre de 2024.
+--------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil se mantienen para este domingo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-9.jpg)
+
+Los **cortes de luz en Guayaquil** para este domingo, 8 de diciembre de 2024, se mantienen y hay una programación definida, que contempla a las áreas residenciales.
+
+La **Corporación Nacional de Electricidad (CNEL)**, empresa proveedora del servicio, difundió los detalles de los **apagones** en la ciudad costera.
+
+### Más noticias
+
+* [Cortes de luz en Quito están definidos para este 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-regresan-7-diciembre.html "Cortes de luz en Quito están definidos para este 8 de diciembre")
+* [Cortes de luz en Guayaquil del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-9-15-diciembre.html "Cortes de luz en Guayaquil del 9 al 15 de diciembre")
+* [Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html "Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre")
+
+Cortes de luz en Guayaquil
+--------------------------
+
+En principio, el anuncio para este 8 de diciembre fue de **suspensión de energía** de hasta siete horas diarias. No obstante, luego se detalló que serían de hasta cinco.
+
+La reducción de los **racionamientos de energía eléctrica** responden a las lluvias y, por ende, a las mejoras en las condiciones hídricas en los ríos que abastecen a las hidroeléctricas. Así se informó desde el **Ministerio de Energía y Minas**.
+
+Por su parte, la titular de la Cartera de Estado, **Inés Manzano**, aseguró que Ecuador terminará el año sin cortes de luz.
+
+En el caso de **Guayaquil**, los **cortes de luz** son en dos franjas horarias. En cambio, del 9 al 15 de diciembre, estos se desarrollarán por hasta tres, en el sector residencial, en un solo horario.
+
+Furukawa responde a Corte Constitucional sobre prácticas similares a la esclavitud
+==================================================================================
+
+Corte Constitucional emitió dictamen sobre caso de empresa Furukawa. Se señaló una práctica análoga a la esclavitud.
+--------------------------------------------------------------------------------------------------------------------
+
+![Corte Constitucional emitió dictamen sobre caso de empresa Furukawa.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-8.jpg)
+
+La **Corte Constitucional** definió que en propiedades de la empresa japonesa **Furukawa** en Ecuador hubo prácticas semejantes a la esclavitud.
+
+La empresa se pronunció luego del dictamen de la instancia de justicia. El caso escaló hasta pedidos en organismo internacionales, como la **Organización de las Naciones Unidas (ONU)**.
+
+### Más noticias
+
+* [Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad](https://www.elcomercio.com/actualidad/politica/corte-constitucional-tramita-solicitud-relacionada-veronica-abad.html "Corte Constitucional admite a trámite solicitud relacionada con Verónica Abad")
+* [Corte Constitucional habilita trámite de reforma parcial a la Asamblea](https://www.elcomercio.com/actualidad/politica/corte-constitucional-habilita-tramite-reforma-parcial-asamblea-nacional.html "Corte Constitucional habilita trámite de reforma parcial a la Asamblea")
+* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
+
+Corte Constitucional y Furukawa
+-------------------------------
+
+La Corte emitió el fallo el **5 de diciembre de 2024** y la empresa reaccionó este 7 de diciembre, a través de un comunicado en redes sociales.
+
+Según la entidad de justicia, en el proceso se aceptaron las acciones de protección por hallarse que la empresa sí fue responsable de la práctica hasta 2019. Es decir, que **Furukawa** violó la prohibición de esclavitud, afectado a abacaleros de sus haciendas.
+
+La situación aludida
+--------------------
+
+Las **personas** que se contemplan como afectadas se encontraban en condiciones de extrema vulnerabilidad y vivían en campamentos instalados en las haciendas, sin servicios básico.
+
+Ellas cosechaban **abacá**. Más de una generación habría sido parte de la dinámica abordada por la institución.
+
+Las haciendas se encontraban en **Esmeraldas, Santo Domingo de los Tsáchilas y Los Ríos**.
+
+La Corte, a su vez, estableció la reparación integral, con rubros por daño inmaterial a **342 personas**, así como un acto público de reconocimiento de responsabilidad y disculpas.
+
+Del mismo modo, se detalló que antes de 2018, los ministerios de **Trabajo y de Salud** debían saber sobre esa situación y emprender acciones.
+
+Reacción de Furukawa
+--------------------
+
+De acuerdo con la empresa **Furukawa**, la sentencia se basa en prácticas ocurridas antes de 2019, cuando supuestamente la entidad solo arrendaba los predios a productores independientes de abacá, sin intervenir en la gestión de trabajadores ni producción.
+
+La firma indicó que, a finales de 2018, terminó los contratos de arrendamiento y tomó control total de la producción y la administración, incluyendo el talento humano, contratando al personal con todos los **beneficios** correspondientes a las normativas.
+
+> [#ComunicadoOficial](https://twitter.com/hashtag/ComunicadoOficial?src=hash&ref_src=twsrc%5Etfw) | Furukawa se pronuncia ante la sentencia emitida en la Corte Constitucional [pic.twitter.com/sKp3QNkrp1](https://t.co/sKp3QNkrp1)
+> 
+> — Furukawa Plantaciones C.A. del Ecuador (@FurukawaEcuador) [December 7, 2024](https://twitter.com/FurukawaEcuador/status/1865391726300389378?ref_src=twsrc%5Etfw)
+
+¿Cuántos feriados hay en diciembre de 2024?
+===========================================
+
+Luego del feriado local por la fundación de Quito, Ecuador tendrá un último asueto en Navidad. El siguiente festivo será el 1 de enero de 2025
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ecuador se prepara para su siguiente feriado.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T164522.738.jpg)
+
+**Diciembre** es considerado uno de los meses **más festivos** por las fiestas navideñas y de fin de año que se celebran en todo el mundo. Sin embargo, **¿cuántos feriados hay en diciembre?**
+
+### Más noticias
+
+* [Es necesaria una solución al caos vehicular en los feriados](https://www.elcomercio.com/opinion/editorial/urgente-necesaria-solucion-caos-vehicular-feriados-transito.html "Es necesaria una solución al caos vehicular en los feriados")
+* [Cortes de luz en Quito se mantienen en cinco horas hasta el domingo 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-se-mantienen-en-cinco-horas-hasta-el-domingo-8-de-diciembre.html "Cortes de luz en Quito se mantienen en cinco horas hasta el domingo 8 de diciembre")
+* [Cierres viales por instalación de puente en la Autopista General Rumiñahui](https://www.elcomercio.com/actualidad/quito/cierres-viales-instalacion-puente-autopista-general-ruminahui.html "Cierres viales por instalación de puente en la Autopista General Rumiñahui")
+
+Feriados de diciembre
+---------------------
+
+Con base en la **Ley Orgánica de Servicio Público** y su calendario oficial, Ecuador disfruta de varios días de descanso obligatorio cada año.
+
+Las **fiestas de Quito** son el inicio de las celebraciones decembrinas, sobre todo para los quiteños. Por la conmemoración de su fundación, el 6 de diciembre es feriado local, es decir solo rige para Quito y no es recuperable.
+
+Le siguen dos de las celebraciones más importantes del **calendario ecuatoriano** y del mundo.
+
+Se trata del **25 de diciembre**, la celebración de Navidad y la **única fecha de feriado nacional de diciembre**. Esta fecha es inamovible y se debe descansar el mismo día que cae. No es recuperable.
+
+Luego viene la celebración de **año viejo;** sin embargo, este no constituye un feriado.
+
+Estas fechas están fijadas como un día de descanso por el **Gobierno Nacional** y representan una oportunidad para el turismo y el descanso familiar.
+
+El siguiente feriado nacional corresponde al próximo 2025 y se trata del 1 de enero, fecha en que las familias aprovechan para recibir juntas el nuevo año. Este día también se celebra un feriado nacional inamovible y no es [recuperable.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+Estas fechas son esperadas por las familias ecuatorianas para viajar, visitar familiares y compartir momentos juntos. Uno de los lugares más visitados en el país son las playas de Manabí y Esmeraldas.
+
+Las playas de Santa Elena son las preferidas para las ciudades cercanas
+
+Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado
+=============================================================================
+
+El Bayer Leverkusen amplió su racha de victorias en la Bundesliga y se mantiene en el podio del torneo.
+-------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié disputando el balón en la victoria del Bayer Leverkusen sobre el ST Pauli.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T115655.136.jpg)
+
+El **Bayer** **Leverkusen** logró una victoria clave en un partido que, aunque parecía fácil, terminó siendo más complicado de lo esperado. Con **Piero** **Hincapié** como titular, los farmacéuticos derrotaron al St. Pauli, uno de los colistas de la Bundesliga.
+
+El partido finalizó 2-1 a favor del equipo de **Xabi Alonso**, con goles de la **estrella Florian Wirtz** y el líder defensivo Jonathan Tah. El encuentro, correspondiente a la jornada 13 de la **Bundesliga**, se disputó el sábado 7 de diciembre.
+
+### Más noticias:
+
+* [Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania](https://www.elcomercio.com/deportes/piero-hincapie-bauyer-leverkusen-eliminacion-bayern.html "Piero Hincapié y Leverkusen eliminan a Bayern Múnich en Copa de Alemania")
+* [El Leverkusen vence a Union Berlin con un destacado Piero Hincapié](https://www.elcomercio.com/deportes/bayer-leverkusen-piero-hincapie-union-berlin.html "El Leverkusen vence a Union Berlin con un destacado Piero Hincapié")
+* [Piero Hincapié se redime con victoria en el Bayer Leverkusen](https://www.elcomercio.com/deportes/futbol/piero-hincapie-victoria-bayer-leverkusen-heidenheim.html "Piero Hincapié se redime con victoria en el Bayer Leverkusen")
+
+En plena efervescencia, hacia arriba en todas las competiciones tras acumular **cuatro victorias consecutivas** (dos en la Bundesliga frente al Heiddenheim (5-2) y el Unión Berlín (1-2), una en Copa frente al Bayern Múnich (0-1) y otra en la Liga de Campeones contra el Salzburgo (5-0), el equipo dirigido por Xabi Alonso se enfrentó a un rival a priori perfecto para prolongar su buena racha.
+
+Una victoria difícil para Piero y el Leverkusen
+-----------------------------------------------
+
+El St. Pauli, en la frontera de los puestos peligrosos, tenía todas las papeletas para ser la víctima de un equipo al que no le afectó tener en la enfermería a tres de sus atacantes más importantes: Victor Boniface, Jonas Hoffman y Patrik Schick. **Xabi Alonso**, sin sus referencias más ofensivas, apostó por un once sin delanteros con Wirtz como hombre diferencial para agitar el choque.
+
+Y a la joya del **Bayer Leverkusen** no le costó casi nada accionar la varita mágica para generar una pequeña obra de arte muy pronto, cuando sus aficionados prácticamente se habían acomodado en sus asientos del Bay Arena.
+
+El joven internacional alemán hace las cosas difíciles de forma aparentemente sencilla y a los seis minutos sacó todo su talento a relucir con un túnel descomunal a Eric Smith que le permitió batir en un mano a mano a Nikola Vasilj.
+
+El **golazo de Wirtz cambió los planes** del partido para el St. Pauli, obligado a desterrar su conservadurismo para buscar como mínimo un empate y por qué no una victoria en una jugada aislada. Ya estaba obligado a buscar el empate, mientras que el Bayer Leverkusen se acomodó sobre el césped para dominar toda la primera parte con una facilidad pasmosa.
+
+De hecho, durmió el partido y solo recibiría un disparo, muy inocente y manso, de Oladapo Afolayan que detuvo sin ningún tipo de problema Lukas Hradecky. Y tampoco se prodigó mucho más en ataque, porque además del tanto de **Wirtz**, apenas disparó en una segunda ocasión entre los tres palos para volver a marcar con una efectividad total. En esta ocasión, fue Jonathan Tah quien dio en la diana tras rematar en el segundo palo un córner lanzado por Aleix García.
+
+El tanto del central del **Leverkusen** convirtió la segunda parte en un aparente trámite, en el que el equipo de Xabi Alonso se dedicó a mantener el resultado, una peligrosa decisión que estimuló al St. Pauli a salir del letargo para creer en sí mismo, reducir distancias y generar inquietud en su rival.
+
+Los rivales complicaron más de lo esperado
+------------------------------------------
+
+Fue Morgan Guilavogui quien avisó en dos ocasiones antes de dar en la diana: primero, cuando estuvo a punto de empujar la pelota a la red con la cabeza y, después, cuando firmó un remate desde el corazón del área que se marchó fuera por muy poco. A la tercera fue la vencida y a falta de cinco minutos para el final se **marcó un golazo** tras sentar con un recorte a Arthur que cerró con un zurdazo teledirigido a la escuadra de Hradecky.
+
+El **Bayer** **Leverkusen** acabó pidiendo la hora. Sufrió hasta pasados cuatro minutos del tiempo añadido, momento en el que el árbitro pitó el final y calmó la ansiedad del equipo de Xabi Alonso, que alargó su buena racha de resultados con su quinta victoria consecutiva que le sirvió para mantenerse cómodo en la tercera plaza de la Bundesliga.
+
+Narcos se interesan por los mecánicos hidráulicos en Manabí
+===========================================================
+
+La Fiscalía de Manta determinó que el narcotráfico busca a técnicos hidráulicos para ayuden en el transporte de la droga a Centroamérica y México.
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente, Daniel Noboa, supervisa la captura de tres hombres con una carga de droga en altamar. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/12/Manabi.jpg)
+
+Las **redes del narcotráfico** no sólo se interesan por los lancheros y pescadores artesanales de **Manabí**, ahora reclutan en otros oficios.
+
+La **Fiscalía de Manta** ha descubierto que los narcos buscan a **técnicos hidráulicos** para enviar la droga con éxito desde las costas de **Ecuador hacia México, El Salvador y otros países de Centroamérica.**
+
+El fi**scal Paco Delgado**, quien lleva una década investigando los hallazgos de droga en **Manta**, reveló que los narcotraficantes buscan a profesionales con experiencia.
+
+“Dentro de la elaboración y envíos de cocaína al extranjero por vía marítima, se requieren distintos roles de participación y ahí surge el reclutamiento de los mecánicos hidráulicos con pagos van desde los cinco y hasta 25 mil dólares”.
+
+Buscan los conocimientos que tienen los mecánicos en la **reparación de los motores, lanchas y semisumergibles** en caso de algún daño durante la travesía por el mar. “Es sorprendente que busquen perfiles profesionales con experiencia” añadió el **fiscal**.
+
+### Más noticias
+
+* [Cierran sectores estratégicos por seguridad en fiestas de Quito](https://www.elcomercio.com/actualidad/quito/fiestas-quito-vallado-sectores-municipio.html "Cierran sectores estratégicos por seguridad en fiestas de Quito")
+* [Bases militares extranjeras, ¿un nuevo capítulo para la seguridad y soberanía en Ecuador?](https://www.elcomercio.com/actualidad/politica/funcionario-daniel-noboa-bases-militares-extranjeras-asamblea.html "Bases militares extranjeras, ¿un nuevo capítulo para la seguridad y soberanía en Ecuador?")
+* [Día Internacional de la Seguridad de la Información](https://www.elcomercio.com/opinion/dia-internacional-seguridad-informacion-lorena-naranjo-columnista.html "Día Internacional de la Seguridad de la Información")
+
+Las incautaciones de droga
+--------------------------
+
+En junio de 2024 incautaron una lancha con una carga de droga a 169 millas náuticas del **puerto de Manta.**
+
+Fueron detenidos tres hombres y uno de ellos era **mecánico hidráulico**, confirmó la **Fiscalía**.
+
+La operación antidroga fue supervisada por el presidente, **Daniel Noboa**, quien dispuso que el **Bloque de Seguridad** se traslade a **Manta** para tratar de reducir los niveles de violencia en Manabí.
+
+Eso ocurrió después de que el domingo 2 de junio Cristhian Nieto, **asambleísta alterno** de la Revolución Ciudadana, fuera asesinado por sicarios en un circo junto a su esposa y un joven. Actualmente, el **Bloque de Seguridad** opera en **Manta y Durán.**
+
+Las operaciones de lanchas y sumergibles
+----------------------------------------
+
+La navegación de un cargamento de droga en una lancha tipo fibra, adaptada con tres motores fuera de borda, tarda entre 10 a 13 días desde las costas de **Ecuador hasta México, Guatemala, El Salvador y Costa Rica**, según la Fiscalía.
+
+Mientras que la travesía de los **semisumergibles** van desde los 5 a 7 días. Cada nave lleva tres tripulantes: el **experto en mecánica**, un pescador con conocimientos ancestrales de navegación y el jefe de tripulación que supervisa la entrega de la cocaína.
+
+Este 2024 se han sentenciado a más de 60 personas por narcotráfico a gran escala en **Manta** mientras que el 2023r hubo 80 condenas.
+
+El 99% de los capturados estuvieron en delito flagrante, transportando, custodiando o navegando con las cargas de droga. Sin embargo, en las investigaciones judiciales nunca se descubrió quiénes reclutaron a los investigados ni se pudo establecer a qué organización pertenecían los cargamentos, informó el **fiscal Delgado**.
+
+Él manifestó que es difícil probar quienes son los dueños de la droga porque los detenidos se acogen al **Derecho del Silencio**. “Por esa misma razón también es complicado conocer la identidad de las personas encargadas del reclutamiento” agregó el funcionario.
+
+Los casos de sicariato en Manabí
+--------------------------------
+
+Las autoridades han revelado que después de incautar droga ya sea en tierra o en mar, en Manta se registran matanzas, atentados, balaceras y enfrentamientos armados entre miembros de distintos grupos delictivos.
+
+En este 2024 se han registrado 296 muertes violentas en Manta y sus alrededores.
+
+El coronel **Emerson Luna, jefe de la Policía de Manta**, informó que el 99% de las muertes violentas registradas en la ciudad surgen por el tráfico internacional de drogas. “Las bandas se pelean el territorio por las rutas del envió de droga. Esa es la base fundamental de lo que sucede con la violencia en Manta” reveló Luna.
+
+Ahora, la Policía sostiene que del narcotráfico se desprenden otros delitos como el secuestro, extorsión, robo de vehículos y tráfico de armas con municiones.
+
+Calendario de los ecuatorianos en el Mundial de Clubes 2025
+===========================================================
+
+El nuevo formato del Mundial de Clubes 2025 contará con la participación de siete ecuatorianos y promete ser uno de los torneos más emocionantes del año.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo es uno de los ecuatorianos que participarán en el Mundial de Clubes 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T113519.875.jpg)
+
+El 5 de diciembre se llevó a cabo el sorteo del **Mundial de Clubes 2025** en Miami, donde se definieron los grupos y los enfrentamientos de los equipos. Con ello, ya se conocen las fechas y horarios de los partidos en los que participarán los futbolistas **ecuatorianos**.
+
+El nuevo formato contará con la participación de siete ecuatorianos: **Moisés** **Caicedo** (Chelsea), Willian Pacho (París Saint-Germain), **Gonzalo** **Plata** (Flamengo), Leonardo Campana (Inter Miami), Jordy Alcívar (León), Ángel Mena y Andrés Micolta (Pachuca).
+
+### Más noticias:
+
+* [Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/real-madrid-chelsea-boca-juniors-los-duelos-imperdibles-del-mundial-de-clubes.html "Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes")
+* [Los grupos del Mundial de Clubes quedaron definidos](https://www.elcomercio.com/deportes/mundial-clubes-grupos-2025-equipos.html "Los grupos del Mundial de Clubes quedaron definidos")
+* [Moisés Caicedo y Gonzalo Plata se enfrentarán en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gonzalo-plata-mundial-clubes.html "Moisés Caicedo y Gonzalo Plata se enfrentarán en el Mundial de Clubes 2025")
+
+Un dato destacado es que **Inter Miami**, con **Leo Campana**, será el encargado de jugar el partido inaugural, junto a **Lionel Messi**, por ser el club invitado. Además, en el **Grupo D** coinciden tres ecuatorianos: Gonzalo Plata, Moisés Caicedo y Jordy Alcívar, quienes competirán en la fase de grupos.
+
+Calendario de partidos
+----------------------
+
+### Sábado 14 de junio
+
+Inter Miami vs. Al Ahly
+
+**Hora**: 19:00
+
+**Estadio**: Hard Rock Stadium
+
+### Domingo 15 de junio
+
+París Saint-Germain vs. Atlético de Madrid
+
+**Hora**: 14:00
+
+**Estadio**: Rose Bowl Stadium
+
+### Lunes 16 de junio
+
+Chelsea vs. León
+
+**Hora**: 14:00
+
+**Estadio**: Mercedes-Benz Stadium
+
+Flamengo vs. Espérance Sportive de Tunis
+
+**Hora**: 20:00
+
+**Estadio**: Lincoln Financial Field
+
+### Miércoles 18 de junio
+
+Pachuca vs. FC Salzburgo
+
+**Hora**: 14:00
+
+**Estadio**: TQL Stadium
+
+### **Jueves 19 de junio**
+
+**Inter Miami vs. Porto**
+
+**14:00 (hora de Ecuador)**
+
+Miami, Hard Rock Stadium
+
+**PSG vs. Botafogo**
+
+Hora: 15:00
+
+**Estadio**: Rose Bowl Stadium
+
+### Viernes 20 de junio
+
+Flamengo vs. Chelsea
+
+**Hora**: 13:00
+
+**Estadio**: Lincoln Financial Field
+
+León vs. Espérance Sportive de Tunis
+
+**Hora**: 16:00
+
+**Estadio**: Nashville, GEODIS Park
+
+### Domingo 22 de junio
+
+Real Madrid vs. Pachuca
+
+**Hora**: 14:00
+
+**Estadio:** Bank of America Stadium
+
+### Lunes 23 de junio
+
+Seattle Sounders vs. París Saint-Germain
+
+**Hora**: 14:00
+
+**Estadio**: Seattle Lumen Field
+
+Inter Miami vs. Palmeiras
+
+**Hora**: 20:00
+
+**Estadio**: Hard Rock Stadium
+
+### Martes 24 de junio
+
+León vs. Flamengo
+
+**Hora**: 20:00
+
+**Estadio**: Camping World Stadium
+
+Espérance Sportive de Tunis vs. Chelsea
+
+**Hora**: 20:00
+
+**Estadio**: Lincoln Financial Field
+
+### Jueves 26 de junio
+
+Al Hilal vs. Pachuca
+
+Hora: 20:00
+
+Estadio: Nasville GEODIS Park
+
+Cortes de luz en Quito están definidos para este 8 de diciembre
+===============================================================
+
+Quito tiene dos franjas horarias para los cortes de luz.
+--------------------------------------------------------
+
+![Cortes de luz en Quito se aplican este 7 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-7.jpg)
+
+La **Empresa Eléctrica Quito** definió los horarios para los cortes de luz para este sábado 7 y domingo 8 de diciembre.
+
+Los **apagones** en **[Quito](https://www.eeq.com.ec/)** se mantienen para los sectores residenciales e industriales durante esta semana.
+
+### Más noticias
+
+* [Cortes de luz en Guayaquil del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-9-15-diciembre.html "Cortes de luz en Guayaquil del 9 al 15 de diciembre")
+* [Cortes de luz en Quito para este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-5-diciembre.html "Cortes de luz en Quito para este jueves 5 de diciembre")
+* [Cortes de luz en Quito para este jueves 5 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-5-diciembre.html "Cortes de luz en Quito para este jueves 5 de diciembre")
+
+> 📍\[COMUNICADO OFICIAL\]  
+>   
+> 📌Sobre la situación actual del Sistema Energético Nacional, informamos a la ciudadanía lo siguiente⤵️ [pic.twitter.com/rprmouwTDF](https://t.co/rprmouwTDF)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [December 5, 2024](https://twitter.com/RecNaturalesEC/status/1864476346291830964?ref_src=twsrc%5Etfw)
+
+Cortes de luz en Quito
+----------------------
+
+La suspensión del **servicio eléctrico** en las viviendas se realizará en dos franjas, de dos y de tres horas este sábado 7 y domingo 8 de diciembre.
+
+Mientras que en los sectores industriales los racionamientos serán de **17:00 a 24:00**.
+
+El mejoramiento de las condiciones hídricas en los ríos que abastecen a las centrales, la transferencia de electricidad desde **Colombia** y la nueva generación termoeléctrica.
+
+Esas son algunas de las razones para la reducción de los **racionamientos eléctricos**, así lo informó el **Ministerio de Energía.**
+
+Según el Gobierno, se informará sobre los nuevos horarios de **cortes de luz** a través de los canales oficiales de las institución y las empresas proveedoras del servicio.
+
+Por la celebración de la fundación española de **Quito**, el Gobierno dispuso que el 6 de diciembre no haya cortes de luz en la capital.
+
+Aún hay actividades por las Fiestas de Quito este 7 de diciembre
+================================================================
+
+Las Fiestas de Quito siguen durante este fin de semana, con arte y comercio.
+----------------------------------------------------------------------------
+
+![El Quitofest es uno de los eventos por Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-5.jpg)
+
+Entradas a museos por un dólar, ferias y conciertos están entre las opciones que quedan para este fin de semana por las **Fiestas de Quito**.
+
+El **Quitofest** es uno de los eventos con mayor cartelera en este sábado, 7 de diciembre de 2024. También hay alternativas para apoyar los emprendimientos.
+
+### Más noticias
+
+* [¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?](https://www.elcomercio.com/actualidad/quito/como-sera-atencion-registro-civil-fiestas-quito.html "¿Cómo será la atención en el Registro Civil en las Fiestas de Quito?")
+* [¿Cómo se juega 40? El popular juego de Fiestas de Quito](https://www.elcomercio.com/deportes/futbol/cuarenta-juego-cartas-fiestas-quito.html "¿Cómo se juega 40? El popular juego de Fiestas de Quito")
+* [Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?](https://www.elcomercio.com/actualidad/negocios/feriado-de-fiestas-de-quito-en-que-horario-atenderan-los-bancos.html "Feriado de fiestas de Quito ¿En qué horario atenderán los bancos?")
+
+Fiestas de Quito y las actividades
+----------------------------------
+
+Este **sábado, 7 de diciembre**, de 09:00 a 17:00, el **Museo Interactivo de Ciencia (MIC)** incluye en su programación **¡CataPLUM!**, un espacio de experimentación.
+
+Con palos de madera y bandas elásticas, grandes y chicos pueden usar las catapultas del museo y descubrir sobre los principios físicos de la energía, la fuerza y el movimiento como jamás lo habían hecho.
+
+En el Centro de Arte Contemporáneo
+----------------------------------
+
+El **Centro de Arte Contemporáneo**, está la **exposición Afrofuturismo**, de 10:00 a 17:30. Se trata del trabajo de 10 artistas con diversas trayectorias.
+
+También están las tiendas de los museos del **Carmen Alto y de la Ciudad**, recientemente inauguradas. El objetivo es acercar el arte, la historia y la cultura de [Quito](https://www.quitoinforma.gob.ec/) a la ciudadanía, a través de productos que llevan consigo la esencia de nuestros museos.
+
+Megaferias y artistas
+---------------------
+
+Las **Fiestas de Quito** también se celebran con productos de emprendedores, en las denominadas megaferias. Este fin de semana del 7 y 8 de diciembre, los encuentros son en la Pampa de Calderón.
+
+ Las ferias atienden de 10:00 a 18:00. Este sábado, los artistas que se presentarán son: **Jecckco, Orquesta The Royal Band, Trío Los Brillantes y San Andrés Carlitos Valdivieso**.
+
+El domingo, en cambio, será el turno de **Gary Galáctico, Los Caballeros, Proyecto Coraza, Hipatía Balseca**.
+
+Quitofest y el cierre
+---------------------
+
+Este sábado, 7 de diciembre, se desarrollará el cierre del **Quitofest**. En esta edición 2024 se desarrolla en el parque Bicentenario, en el norte de Quito.
+
+La jornada artística empieza a las 13:00 y se extenderá hasta las 21:00. En el cartel oficial constan **12 bandas**.
+
+El evento empezará con la presentación de **Prevalecer**. En la lista también están grupos como Tres Pidras, **Curare y Malón**. Esta última, proveniente desde Argentina, cerrará el evento.
+
+En el festival se desarrolla la campaña **Dona con Corazón**, en la que los asistentes pueden colaborar con la recolección de artículos para entregar a familias en situación de vulnerabilidad. A cambio, las personas pueden ingresar de forma más rápida.
+
+Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea
+=====================================================================
+
+Moisés Caicedo recibe un reconocimiento especial en el Chelsea
+--------------------------------------------------------------
+
+![Moisés Caicedo ganó el premio al gol del mes en el Chelsea FC.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T101735.714.jpg)
+
+El mediocampista ecuatoriano **Moisés Caicedo** recibió el premio al mejor gol del mes de noviembre en el **Chelsea**. Su espectacular anotación contra el Manchester United, el pasado 3 de noviembre durante la décima jornada de la Premier League, destacó por su calidad y precisión.
+
+El gol, una impresionante volea desde el borde del área tras un rechace, permitió a los ‘Blues’ empatar 1-1 en Old Trafford, un punto clave para su equipo. En su página oficial, el Chelsea describió el tanto como un “**disparo impresionante**, observando atentamente el balón en el aire antes de lanzar una volea que voló hacia la esquina inferior”.
+
+### Más noticias:
+
+* [Moisés Caicedo y Gonzalo Plata se enfrentarán en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gonzalo-plata-mundial-clubes.html "Moisés Caicedo y Gonzalo Plata se enfrentarán en el Mundial de Clubes 2025")
+* [Moisés Caicedo compite por el Gol del Mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gol-mes-chelsea-votacion.html "Moisés Caicedo compite por el Gol del Mes en el Chelsea")
+* [Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-apunta-a-cerrar-el-ano-zona-champions-league.html "Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions")
+
+En la votación organizada por el club, **Caicedo superó a otros cuatro compañeros del primer equipo**, además de representantes de las categorías sub-21 y femenina.
+
+Este reconocimiento resalta el impacto del ecuatoriano en el Chelsea, **consolidándolo como uno de los referentes del equipo** en su segunda temporada en la Premier League con los ‘Blues’.
+
+> Your Chelsea Goal of the Month winner for November: Moises Caicedo. 🫡🇪🇨
+> 
+> — Chelsea FC (@ChelseaFC) [December 7, 2024](https://twitter.com/ChelseaFC/status/1865365642624606236?ref_src=twsrc%5Etfw)
+
+Nombrado entre los mejores de la Premier League
+-----------------------------------------------
+
+Caicedo figura entre los nominados al premio de Mejor Jugador del Mes en la Premier League. Este galardón reconoce al futbolista con mejor desempeño en noviembre, y el ecuatoriano compite con figuras como Mohamed Salah (Liverpool) y James Madison (Tottenham). La votación está abierta a los aficionados, quienes podrán elegir al vencedor.
+
+Un mes de logros personales y profesionales
+-------------------------------------------
+
+Este noviembre fue aún más especial para **Caicedo**, quien celebró el nacimiento de su hija, consolidando una etapa feliz en su vida personal. En el ámbito deportivo, su aporte al **Chelsea** fue clave: jugó en cinco de los seis partidos de la Premier League y anotó su primer gol de la temporada. Además, con la selección ecuatoriana, contribuyó a una histórica victoria contra Colombia en las eliminatorias rumbo al Mundial 2026.
+
+Turismo comunitario en el plan para cerrar las fiestas de Quito
+===============================================================
+
+El feriado por Fiestas de Quito es una razón para conocer el Distrito a través del turismo comunitario.
+-------------------------------------------------------------------------------------------------------
+
+![Las actividades con las comunidades en Quito son una opción para conocer el Distrito Metropolitano.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-26.jpg)
+
+Las f**iestas de Quito** se festejan conociendo a la capital. El turismo comunitario es una alternativa para lograrlo en los últimos días del feriado del 6 de diciembre de 2024.
+
+Las **33 parroquias rurales** son una de las alternativas para visitar, empaparse de la historia y los atractivos de la mano de los moradores. **Quito Turismo** detalla algunas rutas.
+
+### Más noticias
+
+* [¿Cómo se juega 40? El popular juego de Fiestas de Quito](https://www.elcomercio.com/deportes/futbol/cuarenta-juego-cartas-fiestas-quito.html "¿Cómo se juega 40? El popular juego de Fiestas de Quito")
+* [¿Cuántos feriados quedan tras las fiestas de Quito?](https://www.elcomercio.com/actualidad/ecuador/cuantos-feriados-quedan-tras-fiestas-quito.html "¿Cuántos feriados quedan tras las fiestas de Quito?")
+* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor")
+
+Turismo comunitario para seguir las fiestas de Quito
+----------------------------------------------------
+
+Aunque las f**iestas de Quito** son una oportunidad para recorrer la ciudad, las parroquias rurales tienen una oferta turística permanente, con gastronomía típica y la oportunidad de compartir oficios tradicionales.
+
+Si de turismo comunitario se trata, uno de los puntos fijos es la comunidad **Yunguilla**. Los moradores le apuestan a este giro para, además de sostener la economía, proteger los **recursos naturales** de la zona.
+
+En este 2024, en Berlín, el **Centro de Turismo Comunitario de Yunguilla** ganó un premio por sus prácticas sostenibles.
+
+Se trata del To Do Award, que es un concurso internacional establecido desde 1995, otorgado por la organización to award **International Contest Socially Responsible Tourism**, cuya sede es en Seefeld, Alemania.
+
+**Yunguilla** es una comunidad ubicada a una hora en el noroccidente de la urbe, en la parroquia Calacalí. Está compuesta por 55 familias y 166 habitantes.
+
+Son **3 636,84 hectáreas** de conservación y uso sustentable. Es un valle entre los **1 572** y los 3 150 metros sobre el nivel del mar.
+
+Yunguilla y las actividades
+---------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/turismo-Yunguilla-1024x683.jpg)
+
+Yunguilla tiene actividades para que visitantes compartan con los habitantes. Foto: Comunidad Yunguilla.
+
+En **Yunguilla** hay opciones con guía y sin guía. Eso sí, con reservación, que puede ser a través de [yunguilla.org.ec.](https://www.yunguilla.org.ec/) Cuentan con hospedaje.
+
+Hay **recorridos**: educación ambiental, camino de los Yumbos, convivencia en la comunidad y Yunguilla-Maquipucuna, así como el restaurante mirador.
+
+La Ruta Escondida
+-----------------
+
+La **Ruta Escondida comprende cinco parroquias,** se puede acceder por la vía junto al río Pisque, pasando Guayllabamba, o por la ruta **Culebrillas**.
+
+**Perucho:** la tierra del cultivo de mandarinas, con una gastronomía típica (como el sancocho peruchano) y la opción de compartir la elaboración de vinos a base de la fruta, mermeladas, etc.
+
+**Puéllaro:** uno de los atractivos es la iglesia antigua, así como el Cerro de la Luz y la opción de compartir los emprendimientos de sus moradores, quienes preparan pan de café, galletas, salsas y tienen avícolas. La organización Mirador Torres San Pedro y Cerro La Luz están entre las guías.
+
+**Atahualpa:** se destaca abundante producción de leche y frutas. Se puede recorrer fincas agrícolas y ganaderas.
+
+**Chavezpamba:** es un mirador natural desde donde se puede divisar el Nudo Mojanda Cajas y Fuya Fuya.
+
+**San José de Minas:** cuenta con ruta de las cascadas, el santuario de la Virgen de la Caridad y Jatumpamba.
+
+Llano Grande y sus saberes
+--------------------------
+
+La comuna **Llano Grande** combina la identidad y evolución de la cultura **Quitu-Cara**. Además, está la alternativa de visita el taller **ArtEucalipto**. En el sito se puede, junto a artesanos, elaborar artículos en masapán.
+
+En huerto **Alli Allpa**, en cambio, es un destino para aprender la preparación de chicha de jora y se ofrece una degustación.
+
+**Nari Cosmética Natural** **y Sacha** Loma también están entre los puntos de turismo comunitario. Los visitantes pueden ver el cultivo de hierbas medicinales y la producción de cosméticos naturales.
+
+Otro lugar en la ruta es la finca Algarrobo ver de cerca los bordados artesanales y compartir la experiencia con las creadoras.
+
+Reservas naturales
+------------------
+
+Amagusa se encuentra en el Chocó Andino, parroquia de Pacto, junto al Mashpi Lodge. Este es un destino ideal para la observación de aves.
+
+Además, la zona cuenta con un diverso ecosistema de bosque nublado, con una variedad de especies de aves y animales. La reserva constituye, como refieren desde Quito Turismo, un esfuerzo de conservación.
+
+En Nono está la reserva Pahuma, con bosques nublados del Chocó Andino. La pesca deportiva es una de las actividades para realizar solo o en familia. A su vez, conocer el parque central de la localidad y degustar humitas, chocolate caliente, entre otros platillos.
+
+La parroquia de Nono es conocida por su biodiversidad de orquídeas y sus senderos hacia las cascadas de Gallo de la Peña y Pacaya.
+
+En Píntag
+---------
+
+Píntag, avanzando por el valle de **Los Chillos**, pasando el redondel conocido como El Colibr**í**, es una parroquia donde el recorrido empieza por el parque central, con la degustación del pan Carlitos.
+
+Una parada fija es en el mirador de Chakana. En este hay una vista panorámica del Peñón del Isco, un importante sitio de anidación del cóndor andino.
+
+Se suman las lagunas de **Secas, Muerte Pungo** y de la **Mica** ofrecen varias actividades al aire libre, entre estas, el senderismo mientras se disfruta de un paisaje único del páramo.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Quitofest fue escenario para una manifestación contra Daniel Noboa
+==================================================================
+
+El Quitofest contó con una escena que aludió al presidente Daniel Noboa. El Ministerio de Cultura respondió.
+------------------------------------------------------------------------------------------------------------
+
+![Figuras de cartón con la imagen del actual presidente Daniel Noboa se usaron en la campaña 2023.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-4.jpg)
+
+El **Quitofest 2024**, que se realiza por las **Fiestas de Quito**, incluyó una escena que tuvo como protagonista a una de las figuras de cartón con la imagen del presidente, **Daniel Noboa**.
+
+El hecho se dio durante el primer día del evento, este 5 de diciembre, cuando se presentó el grupo **Mugre Sur**.
+
+### Más noticias
+
+* [El Quitofest no es solo rock, también es…](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-musica-rock-metal-cumbia-quito.html "El Quitofest no es solo rock, también es…")
+* [Quitofest, las bandas y cantantes nacionales que debutarán en 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-bandas-nacionales-debutantes.html "Quitofest, las bandas y cantantes nacionales que debutarán en 2024")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
+
+Daniel Noboa y el Quitofest
+---------------------------
+
+Los integrantes del grupo **Mugre Sur** presentaron la figura de cartón de las usadas durante la campaña de **Noboa**. Tenía la cabeza cubierta con una funda negra y una soga atada al cuello, a manera de un ahorcamiento.
+
+El video del hecho se difundió en las redes sociales. En X, por ejemplo, este sábado, 7 de diciembre, la agrupación es **tendencia**.
+
+Pronunciamiento del Ministerio de Cultura
+-----------------------------------------
+
+Tras la situación ocurrida en el parque **Bicentenario**, donde se desarrolla el festival, el **Ministerio de Cultura** y Patrimonio emitió un comunicado.
+
+El documento circuló este 6 de diciembre y se indicó que la institución defiende la libertad de expresión en todas sus formas. No obstante, **“ve con preocupación cualquier incitación a la violencia”**.
+
+En el comunicado, la institución añadió que los espacios culturales deben ser escenarios de diálogo y difusión, en el marco de una **convivencia respetuosa**.
+
+“Los espectáculos públicos, como el **Quitofest**, no deben ser utilizados para fomentar odio y la división entre ciudadanos”.
+
+> [#COMUNICADO](https://twitter.com/hashtag/COMUNICADO?src=hash&ref_src=twsrc%5Etfw) | En relación al evento organizado por la Secretaría de Cultura de Quito. [pic.twitter.com/U4ZC4zz8KW](https://t.co/U4ZC4zz8KW)
+> 
+> — Ministerio de Cultura y Patrimonio 🇪🇨 (@Cultura\_Ec) [December 7, 2024](https://twitter.com/Cultura_Ec/status/1865190914722767094?ref_src=twsrc%5Etfw)
+
+Reacción de concejal de Quito
+-----------------------------
+
+El concejal Michael Aulestia difundió una carta en la que solicita al secretario de Cultura del Municipio, **Jorge Cisneros**, que comparezca al Concejo Metropolitano de Quito.
+
+El motivo de la convocatoria es para que dé explicaciones sobre los **“eventos que, organizados con fondos públicos, incitan a la violencia, odio y discriminación”**.
+
+> [#ATENCIÓN](https://twitter.com/hashtag/ATENCI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | He solicitado que, comparezca el Secretario de Cultura del Municipio de Quito a sesión de Concejo, debe dar explicaciones sobre los eventos que, organizados con fondos públicos, incitan a la violencia, odio y discriminación.  
+> ¡Basta! [pic.twitter.com/9QCuloW8Ca](https://t.co/9QCuloW8Ca)
+> 
+> — Michael Aulestia 🇪🇨 (@mikeaulestia) [December 6, 2024](https://twitter.com/mikeaulestia/status/1865162581024862673?ref_src=twsrc%5Etfw)
+
+Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja
+======================================================================================
+
+En el choque entre el bus de la empresa TAC y un automóvil hubo 16 muertos y ocho heridos. Estos últimos son atendidos en el Hospital Isidro Ayora.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los familiares de los 16 fallecidos permanecen en los exteriores del Centro de Medicina Legal de Loja. Cortesía Lindon Sanmartín](https://www.elcomercio.com/wp-content/uploads/2024/12/LOja.jpeg)
+
+En el **Hospital Isidro Ayora, en Loja**, son atendidos ocho heridos del siniestro de tránsito ocurrido en el **cantón Catamayo**. El hecho ocurrió cerca de las 18:00 del viernes 6 de diciembre de 2024, en el sector **Loma Sagrada.**
+
+El siniestro ocurrió entre un bus de la cooperativa TAC y un automóvil Suzuki Forsa. Hubo 16 fallecidos, entre ellos el conductor del Suzuki, el médico lojano Carlos Vélez Sarango.
+
+La **Gobernación de Loja** activó un operativo de emergencia para atender a los pasajeros. Se reforzó el personal en el **Centro de Salud de Catamayo** y en el **Hospital Isidro Ayora, en Loja**.
+
+El bus disco de placas OAM-0079 modelo 2007, de disco número 24, que cubría la ruta **Loja–El Oro.** Desde la **terminal terrestre de Loja**, la unidad salió con 14 pasajeros, más el chofer y un ayudante. 11 pasajeros viajaban hacia el cantón orense de **Portovelo**, dos a **Piñas** y uno a **Zambi**.
+
+### Más noticias
+
+* [Choque en Catamayo deja al menos 16 fallecidos, en Loja](https://www.elcomercio.com/actualidad/ecuador/choque-catamayo-deja-al-menos-16-fallecidos-loja.html "Choque en Catamayo deja al menos 16 fallecidos, en Loja")
+* [Riesgos reporta 18 500 hectáreas afectadas por los incendios en Azuay y Loja](https://www.elcomercio.com/actualidad/ecuador/riesgos-18-500-hectareas-afectadas-incendios-azuay-loja.html "Riesgos reporta 18 500 hectáreas afectadas por los incendios en Azuay y Loja")
+* [Siniestro de tránsito causa congestión en la Panamericana Sur](https://www.elcomercio.com/actualidad/ecuador/siniestro-de-transito-causa-congestion-panamericana-sur.html "Siniestro de tránsito causa congestión en la Panamericana Sur")
+
+La atención de los heridos en Loja y Catamayo
+---------------------------------------------
+
+Al **Hospital Isidro Ayora, en Loja** llegaron nueve pacientes, uno falleció en esa casa de salud.
+
+De los ocho heridos, uno permanece en estado crítico, seis están en condiciones estables y uno en observación.
+
+La **Gobernación de Loja** indicó que quienes requirieron atención quirúrgica fueron intervenidos.
+
+La **vía Loja-Catamayo** estuvo cerrada durante cinco horas. Quienes viajaban entre las provincias de El Oro y Loja usaron la carretera **Malacatos-El Tambo-Catamayo.** 
+
+Los pacientes atendidos en el **hospital Isidro Ayora** son Álex Darío, Tomás Jiménez, Wilmer Guansaqui, Cristian Jiménez, Fabián Cabrera, Yadira Pereira, Matías Cabrera y Fabricio Aguilar.
+
+Los **familiares de los fallecidos** permanecen este sábado 7 de diciembre de 2024 en los exteriores del **Centro Forense y Medicina Legal de Loja** para retirar los cuerpos, luego que se practiquen las autopsias.
+
+De azúcar a hilo y luego al paladar… curiosidades del algodón de azúcar 
+========================================================================
+
+El Día Mundial del Algodón de Azúcar celebra la alegría infantil.
+-----------------------------------------------------------------
+
+![El algodón de azúcar nació como un lujo italiano. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/algodon-de-azucar.jpg)
+
+El 7 de diciembre se celebra el **Día Mundial del Algodón de Azúcar**, una fecha que nos invita a recordar la alegría de la infancia y las festividades familiares. Este dulce, conocido por su textura esponjosa y su sabor dulce, **evoca momentos nostálgicos** en ferias y celebraciones.  
+
+### Más noticias
+
+* [¿Blancanieves y Mickey fueron las claves del imperio que creó Walt Disney?](https://www.elcomercio.com/tendencias/curiosidades/walt-disney-biografia-mickey-mouse.html "https://www.elcomercio.com/tendencias/curiosidades/walt-disney-biografia-mickey-mouse.html") 
+* [La fruta secreta para un sueño reparador](https://www.elcomercio.com/tendencias/salud/fruta-sueno-insomnio-alimentos.html "https://www.elcomercio.com/tendencias/salud/fruta-sueno-insomnio-alimentos.html") 
+
+**Orígenes del algodón de azúcar** 
+-----------------------------------
+
+La historia del **algodón de azúcar** se remonta al siglo XV en Italia. Los reposteros de esa época calentaban azúcar hasta convertirla en **caramelo líquido**, lo que creaba finos hilos que **decoraban pasteles**. Esta técnica fue laboriosa y solo accesible para unos pocos, de acuerdo con [20 Minutos](https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabias-que-7-diciembre-se-celebra-dia-mundial-algodon-azucar-5626358/ "https://www.20minutos.es/cultura/blogs/yaestaellistoquetodolosabe/sabias-que-7-diciembre-se-celebra-dia-mundial-algodon-azucar-5626358/").  
+
+Sin embargo, el **algodón de azúcar** moderno comenzó a tomar forma en 1897, cuando los dentistas **William Morrison y John C. Wharton** patentaron una máquina para su producción, según [Día Internacional De](https://www.diainternacionalde.com/dias-raros/dia-mundial-algodon-azucar "https://www.diainternacionalde.com/dias-raros/dia-mundial-algodon-azucar").  
+
+La primera **presentación pública** del algodón de azúcar ocurrió en la **Exposición Universal de París** en 1900, donde fue conocido como “Fairy Floss” o “seda de hadas”. Este invento revolucionó la forma en que se consumía el dulce, ya que permitía que se produjera a gran escala y a un costo accesible, siguiendo con 20 Minutos.  
+
+En 1904, su popularidad creció tras ser presentado en la **Feria Mundial de San Luis**, donde se vendió a 25 centavos por porción. 
+
+**Proceso de elaboración** 
+---------------------------
+
+La fabricación del **algodón de azúcar** es un proceso fascinante y relativamente simple. Se inicia al **verter azúcar** en una tolva con un **calentador eléctrico**. El calor derrite el azúcar, convirtiéndolo en un líquido que sale por pequeños orificios debido a la fuerza centrífuga. Al entrar en contacto con el aire, **el azúcar se solidifica** y forma hilos finos que se recogen con un cono o palo, según Día Internacional De.  
+
+Generalmente, **se** **añaden colorantes** alimentarios para darle un aspecto vibrante. Este proceso no solo es **visualmente atractivo**, sino que también permite experimentar con diferentes sabores y colores, lo que hace del algodón de azúcar una **golosina versátil**, a decir de [Aragón Digital](https://www.aragondigital.es/articulo/sociedad/dulzura-global-para-celebrar-el-dia-mundial-del-algodon-de-azucar/20231207093000855768.html "https://www.aragondigital.es/articulo/sociedad/dulzura-global-para-celebrar-el-dia-mundial-del-algodon-de-azucar/20231207093000855768.html"). 
+
+**Curiosidades sobre el algodón de azúcar** 
+--------------------------------------------
+
+* **Nombres internacionales:** El algodón de azúcar recibe diferentes nombres alrededor del mundo. En países anglosajones se le llama **“Cotton Candy”**, mientras que en Francia es conocido como “Barba de Papá”, de acuerdo con Día Internacional De.  
+
+* **Bajo contenido calórico:** A pesar de su dulzura, cada porción de 100 gramos contiene aproximadamente **643 kilocalorías**, siguiendo con la misma fuente.  
+
+* **Sin olor:** Aunque las máquinas producen un fuerte aroma a caramelo durante su funcionamiento, el algodón de azúcar en sí no tiene olor. 
+
+* **Innovaciones gastronómicas:** En la actualidad, chefs experimentan con el algodón de azúcar creando postres innovadores como **helados o pizzas con este dulce**, según Aragón Digital.  
+
+* **Presencia global:** Este dulce es un elemento esencial en ferias y festivales alrededor del mundo. En América Latina y Europa, es común encontrar **vendedores ambulantes** ofreciendo esta golosina durante eventos públicos, a decir de [Gran Casa](https://www.grancasa.es/lifestyle/articles/hoy-es-el-dia-mundial-del-algodon-de-azucar/ "https://www.grancasa.es/lifestyle/articles/hoy-es-el-dia-mundial-del-algodon-de-azucar/").  
+
+**Relevancia cultural** 
+------------------------
+
+El **Día Mundial del Algodón de Azúcar** no solo celebra un dulce; también revive memorias colectivas de **alegría infantil y tradiciones familiares**. Su presencia constante en festividades refuerza su papel como **símbolo de felicidad** y unión familiar 
+
+En un mundo donde las experiencias compartidas son cada vez más valoradas, el algodón de azúcar se presenta como un **elemento que une a las familias**. La tendencia hacia la nostalgia en la cultura contemporánea hace que este dulce sea aún más pertinente. Muchas personas buscan revivir **momentos felices de su niñez** a través del sabor y la experiencia del algodón de azúcar. 
+
+### Te recomendamos:
+
 Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?
 =============================================================================
 
@@ -67,9 +935,11 @@ Las lluvias en Cuenca
 
 **Cuenca** registra lluvias importantes desde hace cuatro días. Incluso, en la madrugada de este sábado hubo precipitaciones en algunos sectores de la ciudad.
 
-Los caudales de los ríos **Tomebamba y Machángara** fueron los que más crecieron en estos días. Están en niveles considerados como normales.
+Los caudales de los ríos **Tomebamba y Machángara** fueron los que más crecieron en estos días. Este sábado están con 6,28 y 4,70 metros cúbicos por segundo. El **Yanuncay** tiene 2,50. Están en niveles considerados como normales.
 
-El **Yanuncay y el Tarqui** aún están con caudales bajos, según las estadísticas de la **Red Hidrometereológica de la empresa Etapa.**
+**El Tarqui** aún está con caudales bajos, según las estadísticas de la **Red Hidrometereológica de la empresa Etapa.**
+
+Las probabilidades de lluvias para este sábado es del 90% y en la noche baja al 64%.
 
 Los embalses de Mazar y Paute
 -----------------------------
@@ -83,63 +953,6 @@ Además, Mazar ha alimentado de forma importante al **embalse de Amaluza (Paute)
 La **función de Central Paute**, en cambio, es la generación porque cuenta con 10 turbinas y una capacidad instalada de 1 100 megavatios. Es la segunda más grande de Ecuador, luego de **Coca Codo Sinclair.**
 
 Mazar solo tiene dos máquinas y una capacidad de 170. Sopladora tiene 487. 
-
-Vivir al día
-============
-
-Los estrategas políticos están aprovechando la fragilidad de las convicciones de los electores para manipular su comportamiento.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
-
-Sufrir la **experiencia** de la **contingencia** hasta el extremo de no poder asegurar la **supervivencia** es algo que estremece. No saber si mañana habrá alimento, salud, vida, es inimaginable para la mayoría de los ecuatorianos. Pensar en tal posibilidad nos espanta y, sin embargo, políticamente, vivimos al día.
-
-La sucesión de **situaciones dramáticas** es tan vertiginosa en nuestra **vida política** que resulta imposible pensar en el largo plazo. Asuntos intrascendentes se plantean con caracteres tan **melodramáticos** que parecería estar en juego la **supervivencia** de la nación. Si la **Asamblea Nacional** archiva un proyecto después del primer debate y no del segundo, se dice que la Asamblea le hace el juego al **narcotráfico**.
-
-En lugar de reconocer la **imprevisión** que ha llevado a los **racionamientos de energía eléctrica**, el gobierno acusa a la propia ministra de sabotaje, se lleva la denuncia a la fiscalía, se inicia un **juicio político** y la exministra asegura que no puede dar la **información** que tiene porque pondría en peligro su vida y a su familia.
-
-De la misma manera se han dramatizado todos los temas. **Tenemos una vicepresidente elegida y otra vicepresidente designada,** Una candidatura eliminada, **autoridades electorales** que concluyeron su período, los legisladores en campaña electoral, juicios políticos inconclusos y el país pendiente de los horarios de luz y de tinieblas.
-
-Entregados al drama de cada día, es imposible que las **autoridades y los ciudadanos** pensemos en el futuro. Los problemas que trascienden el **periodo presidencial** no tienen cabida en la actualidad. Temas como la **crisis de la seguridad** social se dejan siempre a gobiernos futuros.
-
-La **campaña electoral** y los **candidatos** son también prisioneros del corto plazo. Los **estrategas políticos** están aprovechando la fragilidad de las **convicciones** de los **electores** para manipular su **comportamiento**. Ni la verdad ni el futuro valen en tiempo de **campaña**; todos se dedican a crear **problemas ficticios** hoy para esconder los problemas reales de mañana.
-
-Quito necesita reorganización para la temporada decembrina
-==========================================================
-
-Compromiso ciudadano y autoridad son claves para un Quito más ordenado
-----------------------------------------------------------------------
-
-![Ciudadanos en la av. Naciones Unidas, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/QUITO-DICIEMBRE-2.jpg)
-
-La temporada decembrina en **Quito**, marcada por las **Fiestas de Fundación**, la **Navidad** y **Fin de Nuevo**, es un periodo que llena de alegría y tradición a la capital ecuatoriana. Sin embargo, año tras año, esta época evidencia una urgente necesidad de reorganización para enfrentar los desafíos que trae consigo.
-
-La ciudad, ya golpeada por problemas de movilidad en **horas pico y cortes de energía eléctrica** desde septiembre de 2024 debido a la sequía, ve agravada su situación con el aumento del movimiento urbano. Las chivas recorren las calles, animando con música y baile, mientras los conciertos gratuitos atraen a multitudes (como ocurrió la última semana), en medio de quienes se trasladan a sus sitios de trabajo, estudio u hogares. A esto se suma la alta concurrencia a centros comerciales y zonas de comercio, que experimentan un flujo elevado de personas en busca de regalos y celebraciones.
-
-Además, las obras públicas en curso, aunque necesarias y prometedoras, intensifican el caos. Calles cerradas, desvíos y deterioro en el pavimento convierten el desplazamiento en una odisea, mientras semáforos fuera de servicio por la falta de electricidad contribuyen a desordenar aún más el tráfico. La falta de una planificación urbana adecuada en estas fechas especiales resalta la necesidad de una acción inmediata y estratégica.
-
-> Es **imperativo que las autoridades locales asuman un rol más proactivo.** Quito necesita operativos de tránsito más efectivos, habilitación de rutas alternas y mayor presencia de agentes de control en puntos críticos. La coordinación con empresas de transporte público para ampliar los horarios y frecuencias también ayudaría. Esta es una historia que se repite cada año y no hay una medida que funcione realmente.
-
-Sin embargo, la responsabilidad no recae únicamente en las instituciones. Los ciudadanos debemos contribuir con pequeñas, pero significativas acciones: planificar salidas con anticipación, utilizar transporte público o compartir vehículos, y respetar las normas de tránsito. Cada decisión individual puede aliviar, aunque sea mínimamente, el peso del caos colectivo.
-
-Los diciembres pasados han dejado claras lecciones. Quito no solo necesita reorganización para superar este periodo, sino también un compromiso compartido entre autoridades y ciudadanía. Si logramos un esfuerzo conjunto, esta temporada podrá ser no solo un motivo de celebración, sino también una oportunidad para demostrar que la capital ecuatoriana puede afrontar sus retos con resiliencia y orden.
-
-Cartas a Quito / 7 de diciembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este sábado 7 de diciembre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Falta empatía
--------------
-
-En estos momentos aciagos en que las tinieblas nos acechan, tornándose en nuestras asiduas y casi permanentes compañeras, nos hace mucha falta concienciarnos y cuidar la poca energía  que nos queda. Por desgracias, esto no ocurre con frecuencia. Pues hay gente desconsiderada e insensible que poco o nada le importa esta situación y se envanece y presume de prender las luces de su casa, oficina, consultorio, negocio, rótulos luminosos, etc.  Más aún si nos referimos a  los centros comerciales, donde parece que se tratara de una competencia de cuantas luminarias se prenden en cada Centro y no solo durante las noches, sino que, en algunos casos, estas luces permanecen prendidas durante las 24 horas del día. Esto realmente es una tremenda desconsideración, inconsciencia y falta de empatía, habida cuenta de que, con plantas y generadores o no, el daño  resulta ser casi igual.
-
-Se acercan  importantes festividades como: Fiestas de Quito, Navidades, Año nuevo, etc.  Y, obviamente, es de vital importancia el ahorro de energía. Se hace necesario que, por esta vez, suspendamos las luces de los arbolitos, nacimientos y más adornos festivos y navideños; hagamos conciencia de que, la solidaridad y la empatía deben primar en estos momentos de crisis.  Pensemos que tan solo con este pequeño y temporal  sacrificio, los ecuatorianos estamos contribuyendo al bienestar de nuestros hermanos y haciendo Patria.
-
-Fabiola Carrera Alemán
 
 Irresistibles canelones de pollo
 ================================
@@ -238,742 +1051,39 @@ Preparación de los canelones de pollo
 
 Los **canelones de pollo** son un plato reconfortante que seguramente deleitará a tus invitados o familiares. Con esta **receta fácil** y **deliciosa**, podrás disfrutar de una comida casera digna de cualquier ocasión especial. ¡Buen provecho!
 
-¿Qué es un nómada digital y qué se requiere para tener este estatus en Ecuador?
-===============================================================================
+Quito necesita reorganización para la temporada decembrina
+==========================================================
 
-Ecuador implementó la visa de residencia temporal rentista para nómadas digitales, en 2022.
--------------------------------------------------------------------------------------------
+Compromiso ciudadano y autoridad son claves para un Quito más ordenado
+----------------------------------------------------------------------
 
-![Un nómada digital utiliza las nuevas tecnologías para desempeñar su trabajo de manera remota. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-65.jpg)
+![Ciudadanos en la av. Naciones Unidas, en el norte de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/QUITO-DICIEMBRE-2.jpg)
 
-El nomadismo digital despierta interés en todo el mundo, aunque su concepto no es nuevo. Hace 27 años se introdujo en el libro Nomad Digital. En ese entonces, sus autores, Tsugio Makimoto y David Manners explicaron cómo las posibilidades tecnológicas actuales y futuras- combinadas con la necesidad natural de viajar- permitirán que la humanidad vuelva a vivir, trabajar y existir en movimiento. 
+La temporada decembrina en **Quito**, marcada por las **Fiestas de Fundación**, la **Navidad** y **Fin de Nuevo**, es un periodo que llena de alegría y tradición a la capital ecuatoriana. Sin embargo, año tras año, esta época evidencia una urgente necesidad de reorganización para enfrentar los desafíos que trae consigo.
 
-Ambos lo definieron como un nuevo modo de vida en el que, gracias a los avances tecnológicos, los profesionales trabajarían en cualquier lugar y en cualquier momento.
+La ciudad, ya golpeada por problemas de movilidad en **horas pico y cortes de energía eléctrica** desde septiembre de 2024 debido a la sequía, ve agravada su situación con el aumento del movimiento urbano. Las chivas recorren las calles, animando con música y baile, mientras los conciertos gratuitos atraen a multitudes (como ocurrió la última semana), en medio de quienes se trasladan a sus sitios de trabajo, estudio u hogares. A esto se suma la alta concurrencia a centros comerciales y zonas de comercio, que experimentan un flujo elevado de personas en busca de regalos y celebraciones.
 
-Hoy, un nómada digital es una persona que utiliza las nuevas tecnologías para desempeñar su trabajo de manera remota, ya sea desde su casa, una cafetería, un espacio de coworking o una biblioteca pública. De esta manera, este estilo de vida permite a los profesionales disfrutar de una mayor libertad geográfica y flexibilidad laboral. En consecuencia, se rompen las estructuras tradicionales del trabajo.
+Además, las obras públicas en curso, aunque necesarias y prometedoras, intensifican el caos. Calles cerradas, desvíos y deterioro en el pavimento convierten el desplazamiento en una odisea, mientras semáforos fuera de servicio por la falta de electricidad contribuyen a desordenar aún más el tráfico. La falta de una planificación urbana adecuada en estas fechas especiales resalta la necesidad de una acción inmediata y estratégica.
 
-Más noticias
-------------
+> Es **imperativo que las autoridades locales asuman un rol más proactivo.** Quito necesita operativos de tránsito más efectivos, habilitación de rutas alternas y mayor presencia de agentes de control en puntos críticos. La coordinación con empresas de transporte público para ampliar los horarios y frecuencias también ayudaría. Esta es una historia que se repite cada año y no hay una medida que funcione realmente.
 
-* [En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes](https://www.elcomercio.com/tendencias/ambiente/en-ecuador-12-mil-puestos-de-trabajo-que-se-llenaron-en-2023-fueron-considerados-verdes.html "En Ecuador, 12 mil puestos de trabajo que se llenaron en 2023 fueron considerados verdes")
-* [Los trabajadores requieren más competencias y habilidades ‘verdes’. Cuatro testimonios](https://www.elcomercio.com/tendencias/ambiente/los-trabajadores-requieren-mas-competencias-y-habilidades-verdes-cuatro-testimonios.html "Los trabajadores requieren más competencias y habilidades ‘verdes’. Cuatro testimonios")
+Sin embargo, la responsabilidad no recae únicamente en las instituciones. Los ciudadanos debemos contribuir con pequeñas, pero significativas acciones: planificar salidas con anticipación, utilizar transporte público o compartir vehículos, y respetar las normas de tránsito. Cada decisión individual puede aliviar, aunque sea mínimamente, el peso del caos colectivo.
 
-Las características que definen a los nómadas digitales
--------------------------------------------------------
+Los diciembres pasados han dejado claras lecciones. Quito no solo necesita reorganización para superar este periodo, sino también un compromiso compartido entre autoridades y ciudadanía. Si logramos un esfuerzo conjunto, esta temporada podrá ser no solo un motivo de celebración, sino también una oportunidad para demostrar que la capital ecuatoriana puede afrontar sus retos con resiliencia y orden.
 
-**Trabajo remoto.** Usan internet para realizar sus tareas laborales desde cualquier ubicación. Esto les permite ser móviles y adaptarse a diferentes entornos. Además, de concentrarse mejor.
+Cartas a Quito / 7 de diciembre de 2024
+=======================================
 
-**Flexibilidad laboral.** Eligen cuándo y dónde trabajar, lo cual les proporciona un mayor equilibrio entre la vida personal y profesional. Esta flexibilidad, además, permite ahorrar tiempo y dinero.
-
-**Más profesiones se suman.** Muchos de los nómadas son freelancers, emprendedores o empleados remotos en empresas que permiten el trabajo a distancia. Las profesiones más comunes incluyen: programadores, diseñadores web, de software, copywriter, creadores de contenido, community manager, asistente virtual, blogueros, influencers, profesores de idiomas, traductores.
-
-**Un estilo de vida nómada.** No tienen una residencia fija y suelen viajar dentro o fuera de los países a donde van. Esto les permite explorar nuevas culturas y conocer distintos sitios.
-
-Los tipos de nómadas digitales en Latinoamérica
------------------------------------------------
-
-El 100% de 13 925 latinoamericanos encuestados en el estudio Nómadas Digitales del **portal de empleo** Bumeran expresó su deseo de contar con un trabajo flexible para laborar desde cualquier lugar. Pero, la encuesta de agosto del 2023 revela que solo uno de cada 10 trabajadores de Chile, Argentina, Ecuador, Panamá y Perú logró concretarlo. 
-
-En particular, la mayoría de los que alcanzaron este objetivo cuentan con un contrato laboral para trabajar de manera remota, siendo Panamá y Perú los líderes de esta modalidad. En Argentina, el 54% de los nómadas digitales son empleados fijos, 29% trabaja como freelancers y el 17% tiene su propio negocio. Por otro lado, en Ecuador, los nómadas autónomos representan el 53%, aunque se observa una mayor presencia de emprendedores que en los otros países.
-
-Para proporcionar a los extranjeros una base legal para trabajar mientras viajan, ahora más países emiten visas para nómadas digitales. Uno de estos países es Ecuador.
-
-¿Qué se requiere para ser nómada digital en Ecuador?
-----------------------------------------------------
-
-Ecuador implementó una visa para nómadas digitales, que se conoce como **visa de residencia temporal rentista para trabajo remoto**. Esta permite a los trabajadores remotos vivir y trabajar en el país por un periodo de hasta dos años. El art. 64 del reglamento a la Ley Orgánica de Movilidad Humana permite el otorgamiento de esta visa a extranjeros con empresa propia; trabajan para una o varias personas jurídicas o naturales con domicilio en el exterior, para que realicen actividades profesionales o de servicios, de manera remota, digital o teletrabajo.
-
-### Para solicitar esta visa, los solicitantes deben cumplir con estos requisitos:
-
-**Ingresos**. Demostrar ingresos de fuente extranjera de al menos tres salarios básicos unificados (SBU) por mes durante los tres meses previos a la solicitud, o contar con treinta y seis SBU por cada año. El SBU en este 2024 es de 460 dólares. Esto equivale a 4 140 dólares por el trimestre o 16 560 dólares anuales. El solicitante debe adjuntar copias de sus estados de cuenta internacional, que reflejen estos ingresos.
-
-**Documentación Laboral**: Adjuntar documentos que demuestren que el solicitante trabaja o presta servicios para un empleador, cliente o empresa domiciliada en el exterior, para realizar actividades profesionales autónomas o en dependencia de manera remota, digital o de teletrabajo. Esto incluye un contrato laboral o prueba de que se es propietario de una empresa registrada en el extranjero.
-
-**Nacionalidad**: Los solicitantes deben ser nacionales de 183 países incluidos en la lista elaborada por el Ministerio de Turismo.
-
-**Seguro de Salud**: Presentar un seguro médico para residentes temporales.
-
-**Certificado de antecedentes penales**: Proporcionar un certificado que acredite la ausencia de antecedentes penales.
-
-Los pasos para solicitar una visa nómada
-----------------------------------------
-
-No es necesario estar en Ecuador para realizar el trámite, se puede realizar desde las oficinas consulares en el exterior, o a través de la plataforma digital [eVisas](https://www.youtube.com/watch?v=3zTK3snjuS4&t=24s "https://www.youtube.com/watch?v=3zTK3snjuS4&t=24s"), según la Cancillería.
-
-* **Registro**: Crear un usuario y una contraseña en el portal web del consulado correspondiente.
-* **Ingreso al Sistema**: Seleccionar “Trámites consulares” e ingresar el país donde se encuentra el solicitante y el consulado al que se dirigirá.
-* **Solicitud de Visa**: Elegir la opción “Solicitud de visa” y completar todos los datos personales requeridos.
-* **Adjuntar Documentos**: Subir todos los documentos necesarios que validen el cumplimiento de los requisitos.
-* **Pagos.** Realizar los pagos correspondientes por tasas de forma electrónica.
-
-Países preferidos por los nómadas digitales
--------------------------------------------
-
-El **Índice de Nómadas Digitales de VisaGuide**, sistema de clasificación de países en función de su idoneidad para nómadas digitales, ubica a **España** en primer lugar con una calificación de 4,50. El país ibérico exige un ingreso mínimo de 2 140 euros (2 244 dólares, al 4 de diciembre de 2024).
-
-Este índice toma en cuenta factores que afectan directamente el estilo de vida de un nómada digital. Entre los indicadores está la velocidad del internet, el período libre de impuestos; costo de vida; ingreso mínimo, la prestación de salud.
-
-En segundo lugar de la lista está **Argentina** con una puntuación de 3,72. En los siguientes tres puestos se encuentran: **Rumanía, Emiratos Árabes Unidos y Croacia**. Los cuatro países no cobran impuestos durante la duración de la visa nómada. Emiratos destaca con un ingreso mínimo de 5 000 euros (5 242 dólares).
-
-De los países latinoamericanos, **Uruguay** aparece en la séptima posición, seguido de **Costa Rica** (13º), **México** (14º) y **Panamá** (16º).
-
-**Ecuador** aparece en el puesto [31 de 38](https://visaguide.world/digital-nomad-visa/digital-nomad-index/ "https://visaguide.world/digital-nomad-visa/digital-nomad-index/") con una puntuación de 2,68; un ingreso mínimo de 1 350 dólares; 35% de impuestos. La velocidad de internet está entre las más bajas: 66,78 Mbps frente a 261 Mbps, que registra Rumanía, la más alta de la lista.
-
-EL COMERCIO consultó a los ministerios de Relaciones Exteriores y de Turismo de Ecuador si se aplican estrategias para atraer nómadas digitales al país en comparación con otros. Relaciones Exteriores contestó que no está en el ámbito de sus competencias y Turismo no contaba con información. Únicamente enviaron este link promocional de la visa nómada: [https://ecuador.travel/](https://ecuador.travel/digital-nomad/ "Visa nómada")
-
-  
-
-Gastando Suela, hacia la arqueología gamer en los ‘Cosmos’ de Quito
-===================================================================
-
-Los juegos electrónicos en Quito causaron furor en los años 80. Ahora, cada vez hay menos. Encontrarlos es como una arqueología gamer.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Los juegos electrónicos en los cosmos están en fase de extinción.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T191041.364.jpg)
-
-Había una vez cuando los jóvenes se reunían en cientos de locales, desplegados por la toda la ciudad, que tenían máquinas de **juegos electrónicos.** En Quito se los llamaba ‘Cosmos’ porque ese era el nombre del primer local -o el que se popularizó primero-, a principios de los 80 del siglo pasado. Sin embargo, cada vez hay menos de esos sitios. Por eso, **EL COMERCIO**, en su segmento **Gastando Suela**, salió en búsqueda de esos sitios, como si de una **arqueología gamer** se tratara.
-
-### Más noticias
-
-* [De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html "De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito ")
-* [Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación](https://www.elcomercio.com/opinion/editorial/quito-identidad-fundacion-celebracion.html "Quito y su necesidad de renovar su visión de futuro en sus 490 años de fundación")
-* [Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?](https://www.elcomercio.com/actualidad/quito/quito-arbol-natural-navidad-40-metros-ubicado.html "Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?")
-
-La arqueología del gamer en los ‘Cosmos’
-----------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T191929.025-1024x683.jpg)
-
-Hacia finales de los años 70 y principios de los 80, llegaron los juegos electrónicos en los que había que comprar una **ficha** y depositarla por una **ranura**. Eran cajas enormes como cubículos de biblioteca. Se los llamó **Cosmos**, porque en la avenida 10 de agosto y Carrión se abrió el más popular de todos los que había en ese tiempo y que tenía ese nombre.
-
-Pronto ese nombre propio se volvió genérico. Hasta ahora lo llaman así. En esta búsqueda por encontrar algunos locales donde aún se mantuvieran estos juegos, una joven dijo: “detrás de la facultad de Administración de la **Universidad Central** hay unos Cosmos”. Parecía contar algo serio, digno de saberse. Fue como escuchar la frase que motivó al argentino Rodolfo Walsh a escribir **Operación masacre:** **“hay un fusilado que vive”.**
-
-Allí estaban desplegadas y apagadas las máquinas en un **patio de comidas popular**, llamado **Central**. Están a la espera de que alguien les dé bola para que doña Bachita, que tiene un local de fritadas, decida encender las máquinas.
-
-Los jóvenes que entran para comer, miran las máquinas. Se sienten tentados. En estos lugares no hay fichas, sino que se usan monedas. Algunos deciden poner dos de cinco centavos para jugar **The King of Fighters**.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-76-1024x683.jpg)
-
-Allí nos encontramos con **Joel Parra**, estudiante de Administración. Dice que no va a Central a jugar porque tiene su propio Play Station. Sin embargo, lo retamos a jugar y él aceptó. Nos decidimos por **Street Fighters.** “Este es bueno”, dice. “Yo aplasto (las teclas) como loco”, añade. En el juego de combate fue un experto, aunque diga que juega como se pueda.
-
-La nostalgia del gamer de otros tiempos
----------------------------------------
-
-El **Cosmos** de la avenida **10 de Agosto** tenía todo tipo de juego, pero eran más de estilo estadounidense. Algunos eran tridimensionales. Había el submarino, por ejemplo, que tenía un periscopio para apuntar y disparar torpedos hacia las naves enemigas.
-
-En cambio, en la esquina de las calles Santa María y Gangotena, quedaba **El Tornado**. Era una pista de patinaje y uno de los puntos de encuentro de los adolescentes y los jóvenes. Pero el patinaje no lo era todo, sino también los juegos electrónicos. Y el más importante de todos, por el que las personas se disputaban el turno, era **Night Rider,** que tenía un volante y a suma velocidad se manejaba en una ruta oscura que se delineaba apenas con unos puntos blancos. Era un juego casi imbatible.
-
-A **El Tornado** llegó una banda para dar un concierto. No fue llamativo, aunque después la gente se dio cuenta de lo que se perdió. Poca gente fue, según se recuerda. El grupo musical se llamaba **The Miami Sound Machine**, de la cantante **Gloria Estefan**. Pero en ese tiempo recién comenzaba la gran carrera que tuvo poco tiempo después.
-
-Los juegos de **estilo asiático** llegaron un poco más tarde y son los que se conservan hasta ahora. Uno de ellos quedaba en el subsuelo de las Torres de la Almagro, que fue, además, en esos años, la sensación arquitectónica de la ciudad.
-
-Literalmente **se gastaba fortunas** comprando fichas. Estas eran la solución en aquellos años, cuando la moneda era el Sucre y había temporadas en que las monedas escaseaban. En cambio, en buses y tiendas daban caramelos como vuelto.
-
-El clásico de los clásicos era **Space Invadors**. Otro que causaba sensación era **Moon Cresta** porque había que acoplar naves en el espacio para lograr una mayor potencia de ataque. A diferencia de las máquinas actuales, en esos lejanos años 80, **cada máquina tenía un solo juego**. Ahora, se puede seleccionar entre cientos de variedades.
-
-Uno de los Cosmos sobrevivientes
---------------------------------
-
-Desde la década de los 90, fue en el **Centro Comercial Espiral** en donde se concentraban varios Cosmos. Pero con la llegada de los Play Station, Nintendo y los teléfonos, las computadoras de casa y los juegos en red, se han ido cerrando los locales. Sin embargo, hay un sobreviviente de aquellos años: **Play it Loud.**
-
-Allí nos recibe **Alexander**, que lleva 20 años trabajando en ese local. **“Ha cambiado mucho** desde el Supernintendo”, dice. El local se ha adecuado a los tiempos, porque tiene consolas, aseguradas en unas rejas metálicas, conectadas a televisores gigantes, en los que se juega mayormente al fútbol.
-
-Sin embargo, Alexander cuenta que aún **hay nostálgicos** que prefieren las máquinas de antes. “Hay dos s**eñores mayores que vienen para jugar Pac-Man**“[.](https://es.wikipedia.org/wiki/Arcade "https://es.wikipedia.org/wiki/Arcade")
-
-**Jonathan**, de 45 años, acepta el reto de **EL COMERCIO** para jugar. Dice que ya no va mucho, pero no ha perdido el talento. Es notorio durante las partidas. En las peleas, no permitió que le dieran un solo golpe y noqueaba de inmediato; en el fútbol, ganó por goleada, y en las carreras de autos llegó primero.
-
-Es que los juegos, además de **adictivos**, requieren **talento**. Estos locales son de los pocos que han sobrevivido. Sin embargo, por haber sido uno de los entretenimientos preferidos de los jóvenes quiteños desde la década de los 80, han dejado una marca que perdura en el imaginario. En español se los llama arcades, pero en **Quito** quedó para siempre como **Cosmos**.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Choque en Catamayo deja al menos 16 fallecidos, en Loja
-=======================================================
-
-Paramédicos atienen a ocho personas heridas en este choque en Catamayo que involucró a un bus interprovincial de pasajeros
---------------------------------------------------------------------------------------------------------------------------
-
-![Personal de Bomberos y MSP atiende la emergencia.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-15.jpg)
-
-El Servicio de Emergencias ECU911 informó la noche de este 6 de diciembre sobre la atención a una emergencia por un **choque en la vía Loja-Catamayo.**
-
-### Más noticias
-
-* [Incendio en la vía a Daule deja un saldo mortal](https://www.elcomercio.com/actualidad/ecuador/incendio-en-la-via-a-daule-deja-un-saldo-mortal.html "Incendio en la vía a Daule deja un saldo mortal")
-* [Juez tomó decisión sobre presuntos implicados en secuestro de Pedro Pablo Perlaza](https://www.elcomercio.com/actualidad/seguridad/policia-detiene-a-presuntos-implicados-en-secuestro-pedro-pablo-perlaza.html "Juez tomó decisión sobre presuntos implicados en secuestro de Pedro Pablo Perlaza")
-* [Auto de Pedro Pablo Perlaza fue hallado en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
-
-El fatal choque
----------------
-
-Desde la Sala operativa del Centro Local de Loja ECU911 se informó de un **siniestro de tránsito** en la vía Loja-Catamayo.
-
-Este siniestro se trata de un **choque** en el que estuvieron involucrados un bus de pasajeros interprovincial y un auto liviano. El bus cubría **la ruta Piñas-Portovelo-Loja.**
-
-La ayuda a las personas afectadas se coordinó con personal y unidades del Cuerpo de Bomberos, Policía Nacional y Ministerio de **Salud Pública.**
-
-Según información preliminar, hasta el momento se registran **16 fallecidos** y ocho personas heridas. 15 de ellos fallecieron en el lugar y uno en el hospital Isidro Ayora de Loja.
-
-Los paramédicos brindan atención de primeros auxilios a las personas heridas y posteriormente se las trasladó a casas de salud para que recibieran atención especializada según su [estado de salud](https://es.wikipedia.org/wiki/Loja_(Ecuador) "https://es.wikipedia.org/wiki/Loja_(Ecuador)").
-
-No se conoce lo que ocasionó el siniestro; sin embargo, el impacto del bus contra un automóvil tipo sedán fue mortal.
-
-Un vehículo liviano terminó completamente aplastado por el bus y con su carrocería destruida.
-
-La Gobernadora de Loja acudió al **hospital Isidro Ayora,** donde se reforzó el personal médico para atender a las personas afectadas en el choque en la vía Catamayo.
-
-Seis de los heridos se encuentran estables y **uno, en estado crítico.**
-
-El personal médico trabaja en la atención prioritaria a los heridos. Las personas que necesitaron atención quirúrgica fueron trasladas de **inmediato a los quirófanos.**
-
-Las unidades de Laboratorio e Imagen potenciaron recursos para atender de inmediato a los pacientes que lo requieren.
-
-> Acciones Inmediatas  
->   
-> La gobernadora, [@AlexandraMJaraM](https://twitter.com/AlexandraMJaraM?ref_src=twsrc%5Etfw), verificó personalmente el refuerzo del personal médico en el [@HIAyoraLoja](https://twitter.com/HIAyoraLoja?ref_src=twsrc%5Etfw), donde se brinda atención prioritaria a las personas heridas tras el accidente ocurrido en la vía [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw) – [#Catamayo](https://twitter.com/hashtag/Catamayo?src=hash&ref_src=twsrc%5Etfw).🧵 [pic.twitter.com/pvoTKZkDiX](https://t.co/pvoTKZkDiX)
-> 
-> — Gobernación de Loja (@GoberLoja) [December 7, 2024](https://twitter.com/GoberLoja/status/1865240918766366938?ref_src=twsrc%5Etfw)
-
-Corte federal ratifica la ley que puede prohibir TikTok en EE.UU. 
-==================================================================
-
-La aplicación TikTok para compartir videos tiene millones de usuarios en EE.UU.
--------------------------------------------------------------------------------
-
-![El dictamen de la Corte Federal es una derrota para TikTok. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Tik-tok-efe.jpg)
-
-Un tribunal federal de apelaciones ratificó la ley que puede llevar a prohibir TikTok en pocos meses. Esto supone una estrepitosa derrota para la popular plataforma de redes sociales en su lucha por seguir activa en EE.UU.
-
-Más noticias
-------------
-
-* [Fybeca recibió un reconocimiento global de TikTok por su estrategia digital](https://www.elcomercio.com/empresariales/fybeca-recibio-reconocimiento-global-tiktok-estrategia-digital.html "Fybeca recibió un reconocimiento global de TikTok por su estrategia digital")
-* [Los colores que eligen las personas menos inteligentes para vestirse, según Chat GPT](https://www.elcomercio.com/tendencias/los-colores-que-eligen-las-personas-menos-inteligentes-para-vestirse-segun-chat-gpt.html "Los colores que eligen las personas menos inteligentes para vestirse, según Chat GPT")
-
-El Tribunal de Apelaciones para el Circuito del Distrito de Columbia dictaminó que la ley -que exige a TikTok romper los lazos con su empresa matriz ByteDance, con sede en China, para evitar una prohibición a mediados de enero- es constitucional.
-
-El dictamen es una derrota para TikTok, que alegó en la corte que la amenaza del Congreso entraba en conflicto con la Primera Enmienda. Además, argumentó que convertía injustamente a la plataforma en una diana.
-
-“La Primera Enmienda existe para proteger la libertad de expresión en Estados Unidos”, opinó el tribunal.
-
-“Aquí, el Gobierno actuó únicamente para proteger esa libertad de una nación adversaria extranjera. Y limitar la capacidad de ese enemigo para recopilar datos sobre personas en EE.UU.”.
-
-Según la cadena de noticias Telemundo se espera que TikTok y [ByteDance](https://www.bytedance.com/en/) —que también demandó al Gobierno por la ley— apelen.
-
-Argumentos contra TikTok
-------------------------
-
-EE.UU. ha manifestado su preocupación por el hecho de que TikTok recopile grandes cantidades de datos de usuarios. Incluso información confidencial sobre hábitos de visualización, que podrían caer en manos del Gobierno chino mediante coacción.
-
-Las autoridades advirtieron de que el algoritmo patentado que alimenta lo que los usuarios ven es vulnerable a la manipulación por las autoridades chinas. Ellos pudieran utilizarlo para dar forma a los contenidos de la plataforma de una manera difícil de detectar.
-
-Sin embargo, una parte significativa de la información del Gobierno en el caso se redactó y ocultó al público, así como a las dos empresas.
-
-¿A qué hora juegan Liga de Quito e IDV en la final de la Liga Pro 2024?
-=======================================================================
-
-LDU recibirá a Independiente del Valle en el estadio Rodrigo Paz Delgado. ¿A qué hora juegan Liga de Quito e IDV?
------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Independiente del Valle que visitarán a Liga de Quito en la final de ida del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-10-1.jpg)
-
-La final de la Liga Pro 2024 se aproxima con el enfrentamiento entre los dos mejores equipos de la temporada: **Liga Deportiva Universitaria** e **Independiente del Valle**. ¿A qué hora juegan **Liga de Quito** e **IDV**?
-
-El 7 de diciembre del 2024, el estadio Rodrigo Paz Delgado de Quito será el escenario para el primer cotejo de esta esperada serie por el campeonato nacional.
-
-### más noticias:
-
-* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
-* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
-* [Álex Arce se perfila para romper el récord de goleo en Liga Pro](https://www.elcomercio.com/deportes/liga-pro-liga-quito-alex-arce.html "Álex Arce se perfila para romper el récord de goleo en Liga Pro")
-
-¿A qué hora juegan Liga de Quito e IDV?
----------------------------------------
-
-El encuentro se jugará a las 15:30 y marcará el inicio de una nueva rivalidad entre estos clubes que, con diferentes historias y palmarés, se han ganado su lugar en la final de la Liga Pro.
-
-**Independiente del Valle**, ganador de la primera etapa del torneo, busca redimir la derrota sufrida en la final pasada de 2023, cuando cedió el título a **Liga de Quito** en una dramática tanda de penales.
-
-Mientras tanto, el equipo universitario llega con la confianza de su reciente título en 2023 y la motivación de buscar un nuevo campeonato que les permita consolidarse como uno de los clubes más exitosos del país.
-
-Independiente del Valle
------------------------
-
-En su palmarés, **Independiente del Valle** ha logrado títulos internacionales importantes, como la Copa Sudamericana y la **Recopa Sudamericana.** A nivel nacional, su único título de la Liga Pro fue en 2021, cuando derrotó a Emelec.
-
-Por su parte, Liga de Quito ha cosechado 12 títulos nacionales y cinco internacionales, incluyendo la Copa Libertadores de 2008.
-
-Un show previo
---------------
-
-Además del espectáculo futbolístico, los asistentes a la final podrán disfrutar de un show artístico previo al partido, con la presencia de destacados artistas como José Pita, Tierra Canela y Sugar Rush.
-
-El espectáculo comenzará a las 12:45, ofreciendo a los hinchas una jornada completa de entretenimiento y emoción.
-
-El campeón de esta edición será el primer bicampeón de la Liga Pro, un título que tanto Liga de Quito como Independiente del Valle lucharán con todo para obtener.
-
-CAL decidió sobre reforma al financiamiento público de organizaciones políticas
-===============================================================================
-
-El CAL tomó una resolución sobre el proyecto de reforma parcial a la Constitución sobre el financiamiento del Estado a organizaciones políticas.
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El CAL decidió sobre reforma a financiamiento de organizaciones políticas.](https://www.elcomercio.com/wp-content/uploads/2024/12/cal-reforma-financiamiento-organizaciones-politicas.jpg)
-
-El **Consejo de Administración Legislativa (CAL)** tomó una decisión sobre la reforma constitucional parcial que trata sobre el financiamiento estatal a las organizaciones políticas.
-
-El presidente **Daniel Noboa** es el autor de esta iniciativa que ya pasó el filtro de la **Corte Constitucional**.
-
-### Más noticias:
-
-* [Corte Constitucional da paso a propuesta sobre financiamiento público a organizaciones políticas](https://www.elcomercio.com/actualidad/politica/corte-constitucional-paso-propuesta-financiamiento-publico-organizaciones-politicas.html "Corte Constitucional da paso a propuesta sobre  financiamiento público a organizaciones políticas")
-* [Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?](https://www.elcomercio.com/actualidad/politica/gobierno-reforma-constitucional-que-pasa-financiamiento-ilicito.html "Gobierno impulsa reforma constitucional, ¿qué pasa con el financiamiento ilícito?")
-
-Decisión del CAL sobre reforma al financiamiento público de organizaciones políticas
-------------------------------------------------------------------------------------
-
-El proyecto de **reforma parcial a la Constitución** sobre el financiamiento público de organizaciones políticas es una iniciativa del presidente Daniel Noboa.
-
-El presidente busca que el Estado **no financie la publicidad electoral** de ninguna organización política.
-
-Noboa argumentó que el objetivo es un uso adecuado de los recursos públicos y su canalización a áreas como: **salud, seguridad y educación**. 
-
-La iniciativa ya pasó por el análisis de la **Corte Constitucional** que emitió un dictamen favorable.
-
-Este viernes, el **Consejo de Administración Legislativa (CAL)** conoció el proyecto y tomó una resolución.
-
-El CAL decidió remitir el proyecto de reforma parcial a los **artículos 110 y 115 de la Constitución**, al Pleno de la Asamblea Nacional.
-
-El **Pleno de la Asamblea Nacional** deberá crear una **Comisión Especializada Ocasional** que se encargará de su tratamiento.
-
-La resolución del CAL, respecto al proyecto sobre el financiamiento de partidos y movimientos políticos, será conocida por el Pleno **la próxima semana**.
-
-Este proyecto referente cuenta con la decisión favorable de la Corte Constitucional, que determinó su procedibilidad y tratamiento de conformidad con el **artículo 442 de la Constitución de la República**.
-
-Este artículo señala que la iniciativa de reforma constitucional será tramitada por la Asamblea Nacional en al menos **dos debates**.
-
-El **segundo debate** se realizará al menos noventa días después del primero.
-
-El proyecto de reforma se aprobará por la **Asamblea Nacional.**
-
-Una vez aprobado el proyecto de reforma constitucional se convocará a **referéndum** dentro de los cuarenta y cinco días siguientes.
-
-Para la aprobación en referéndum se requerirá al menos la mitad más uno de los **votos válidos** emitidos.
-
-Una vez aprobada la reforma en referéndum, y dentro de los siete días siguientes, el **Consejo Nacional Electoral (CNE)** dispondrá su publicación.
-
-Murió Ángela Álvarez, cantante cubana que ganó un Grammy latino a los 95 años
-=============================================================================
-
-La cantante cubana murió en Louisiana (EE.UU.) a los 97 años
-------------------------------------------------------------
-
-![El nieto de Álvarez informó de la muerte de la cantante a la revista Billboard. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo_20241206_224535_0000.jpg)
-
-Ángela Álvarez, la cantante cubana que sorprendió al mundo de la música al ganar en 2022, a los 95 años, un Grammy latino, murió este viernes en Louisiana (EE.UU.).
-
-Más noticias
-------------
-
-* [Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-premios-india-marc-anthony-reencuentro.html "Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’")
-* [Billboard incluyó a una ‘loba’ y un ‘conejo’ en su lista de 25 artistas más influyentes del siglo XXI](https://www.elcomercio.com/tendencias/entretenimiento/25-artistas-mas-influyentes-siglo-xxi-revista-billboard.html "Billboard incluyó a una ‘loba’ y un ‘conejo’ en su lista de 25 artistas más influyentes del siglo XXI")
-
-Ella ganó su primer disco homónimo, producido por su nieto, Carlos José Álvarez, quién informó a la revista Billboard de la muerte de su abuela a los 97 años.
-
-La cantante Ángela Álvarez hizo historia en la música y murió rodeada de su familia, que no informó la causa de su muerte.
-
-“Me siento muy afortunado de haber compartido a nuestra abuela con el mundo. Ella fue un regalo para mí”, dijo Álvarez a la revista.
-
-“Lo que logramos juntos fue extraordinario. Es un ejemplo de valentía, amor y la importancia de mantener vivos los sueños. Nos enseñó cómo el arte puede sanar en tiempos de adversidad”, afirmó el productor y compositor.
-
-Aseguró que trabajar junto a su abuela, a la que descubrió, cambió su vida. “Ella siempre decía: ‘Quiero dejar este mundo sabiendo que mi música seguirá viva’, y así será. Su vida fue plena y su legado sigue brillando”, recordó.
-
-La cantante cubana Ángela Álvarez (Camaguey, 1927) hizo historia al ganar el [Latin Grammy](https://www.latingrammy.com/premiacion/nominados-25a-entrega-anual-del-latin-grammy) a mejor artista nuevo en un renglón en que compitió con una decena de jóvenes revelaciones. En su mayoría de música urbana: Sofía Campos, Cande y Paulo, Clarissa, Silvana Estrada, Pol Granch, Nabález, Tiare, Vale, Yahritza y su esencia, y Nicole Zignago.
-
-Tras ser nominada al importante premio, “Nana”, como le llamaban, aseguró a EFE que estaba “soñando despierta” .
-
-Al descubrir el talento de su abuela, Carlos José comenzó el proyecto de grabar un disco independiente en un estudio en Los Ángeles, que luego se convirtió también en un documental, una primera presentación ante el público en el histórico teatro Avalon de Hollywood y la nominación al Latin Grammy.
-
-En el camino se unió a este proyecto fílmico el actor y director cubanoestadounidense Andy García y para 2021 “Nana” ya había lanzado el documental ‘Miss Angela’ y su primer y único disco. Sus temas, en su mayoría boleros y danzones fueron inspirados por el amor a su esposo y a Cuba, donde anhelaba volver.
-
-Álvarez ganó el Grammy con un álbum de 15 canciones con títulos como ‘Qué linda es Cuba’, ‘Mi gran amor’ y ‘Camino sin rumbo’, que su nieto descubrió entre más de cuarenta composiciones que tenía en sus cuadernos.
-
-El bolero es “algo que tú expresas, que sientes y si tú estás enamorado escribes”, dijo Álvarez en la entrevista con EFE y afirmó que su capacidad de componer es un regalo de Dios y que se sorprendía porque no le costaba trabajo escribir.
-
-Álvarez aprendió a cantar y tocar el piano a temprana edad y comenzó a escribir sus propias canciones. “Cuando yo era niña, tenía dos tías que tocaban el piano y ellas me enseñaron a cantar. Cuando había reunión de familia, yo era la artista; me hacían vestidos y siempre me gustó actuar”, dijo en una entrevista con Billboard en español, recordó hoy la revista.
-
-Jacqueline Factos gana medalla de oro para Ecuador en Juegos Bolivarianos 2024
-==============================================================================
-
-Jacqueline Factos sumó una medalla de oro para Ecuador. Cuatro disciplinas han logrado para el país preseas doradas en los Bolivarianos 2024
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Jacqueline Factos ganó la medalla de oro en karate de los Juegos Bolivarianos 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/factos.jpg)
-
-La karateca ecuatoriana **Jacqueline Factos** ganó este 6 de diciembre la medalla de oro en la categoría kumite -61 kg de los **Juegos Bolivarianos del Bicentenario Ayacucho 2024.**
-
-Factos venció a la chilena Valentina Vega con un contundente 8-0 en la final, logrando así la octava medalla de oro para el Team Ecuador en este certamen.
-
-### Más noticias:
-
-* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
-* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
-* [Pep Guardiola pierde los estribos en video que se vuelve viral](https://www.elcomercio.com/deportes/futbol/pep-guardiola-video-momentos-dificiles-manchester-city.html "Pep Guardiola pierde los estribos en video que se vuelve viral")
-
-Jacqueline Factos
------------------
-
-En su camino hacia la medalla dorada, **Jacqueline Factos** demostró su destreza al derrotar a sus rivales en los primeros combates.
-
-En la ronda inicial, se impuso 6-1 a la panameña Anaurys Díaz y, en la siguiente fase, superó 8-4 a la boliviana Briza Sandoval, avanzando con firmeza hasta la final.
-
-Mientras tanto, en la misma jornada, la karateca **Lili Alvarado** logró conquistar la medalla de bronce en la categoría kumite -55 kg, tras una impresionante remontada contra la dominicana Penélope Polanco. Alvarado ganó 10-5 en un combate que la catapultó al podio.  
-  
-El karateca Fred Proaño también se quedó con la medalla de bronce en su categoría.
-
-Ecuador también sumó más preseas en otras disciplinas. En la subsede Lima, Nicolás García y Fernanda Moncada obtuvieron sendas medallas de bronce en los 1000 metros sprint del **patinaje de velocidad**, destacándose por su rendimiento en una de las pruebas más exigentes.
-
-Además, en **efootball**, el ecuatoriano Jairo Caicedo se quedó con el cuarto lugar tras vencer a Javier Arévalo de Guatemala 2-0 (4-1, 4-0), avanzando hasta la semifinal, donde enfrentó al ganador entre Colombia y Chile.
-
-Ecuador en el medallero
------------------------
-
-En el medallero, Ecuador se ubica en el quinto lugar con un total de 8 medallas de oro, 10 de plata y 24 de bronce. Colombia lidera las justas con 36 oros, seguida por Perú, Chile y Venezuela.  
-  
-Ecuador ha logrado oro en karate, ciclismo downhill, levantamiento de pesas y levantamiento de potencia.
-
-> PREMIACIÓN  
->   
-> Karate Kumite -61 kg  
->   
-> 🥇Jacqueline Factos 🇪🇨  
-> 🥈Valentina Vega 🇨🇱  
-> 🥉Carla Cruces 🇻🇪  
-> 🥉Ámbar García 🇩🇴[#Ayacucho2024](https://twitter.com/hashtag/Ayacucho2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/03QOmzctJb](https://t.co/03QOmzctJb)
-> 
-> — Comite\_Olimpico\_Ecu (@ECUADORolimpico) [December 6, 2024](https://twitter.com/ECUADORolimpico/status/1865176447800741913?ref_src=twsrc%5Etfw)
-
-Shakira anunció el ganador del Lamborghini
-==========================================
-
-El anuncio de Shakira sobre el ganador del Lamborghini fue este viernes.
-------------------------------------------------------------------------
-
-![Shakira anunció el ganador del Lamborghini.](https://www.elcomercio.com/wp-content/uploads/2024/12/shakira-lamborghini.jpg)
-
-La cantante **Shakira** dio a conocer al ganador del automóvil de lujo de marca **Lamborghini**, este viernes 6 de diciembre de 2024.
-
-La artista colombiana convocó hace dos semanas al **concurso** en sus redes sociales.
-
-### Más noticias:
-
-* [Shakira sorteará entre sus fans un auto que alcanza los 305 km/h](https://www.elcomercio.com/tendencias/entretenimiento/shakira-auto-sorteo-lujo-miami-fans.html "Shakira sorteará entre sus fans un auto que alcanza los 305 km/h")
-* [Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica](https://www.elcomercio.com/tendencias/entretenimiento/shakira-taylor-swift-record-latinoamerica-gira.html "Shakira rompe el récord de Taylor Swift en el tercer país más grande de Latinoamérica")
-
-El ganador del Lamborghini de Shakira
--------------------------------------
-
-Shakira anunció al ganador a través de un video que fue emitido en sus **redes sociales**, así como en el programa Despierta América de Univisión, cadena hispana que fue una de las organizadoras del certamen.
-
-El joven artista visual **Michael Mejía** se llevó de premio un automóvil de lujo de la colombiana.
-
-El próximo propietario del Lamborghini color púrpura envió un video en el que los dibujos de Shakira que hace cobran vida mientras suena de fondo el **sencillo “Soltera”**.
-
-Esta creación visual se posicionó entre los cinco finalistas del concurso, cuyo ganador fue elegido mediante **votación popular**.
-
-“El **primer carro de mi vida** va a ser el Lamborghini de Shakira”, dijo Mejía, emocionado y rodeado de su madre y vecinos.
-
-Esto, mientras se aprestaban a brindar con **aguardiente colombiano**, tal como se observa en un video colgado en su cuenta de Instagram.
-
-El certamen estaba dirigido para **residentes de Estados Unidos**, mayores de 18 años.
-
-“‘Soltera’ se ha convertido en un símbolo de una **actitud optimista** frente a la vida”, señaló este viernes la colombiana en un texto publicado en sus redes sociales.
-
-“El destino nos pone la realidad sin preguntarnos si estamos de acuerdo, pero **la actitud** la ponemos nosotros sin pedir perdón, ni permiso”, agregó la cantante.
-
-La barranquillera, el próximo 11 de febrero, comenzará en **Río de Janeiro** su gira mundial “Las mujeres ya no lloran”.
-
-La intérprete había anunciado el concurso a mediados de noviembre, por medio de un video que grabó junto a su compatriota **Sebastián Yatra**. 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDPwupEPeSm/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Univision (@univision)](https://www.instagram.com/reel/DDPwupEPeSm/?utm_source=ig_embed&utm_campaign=loading)
-
-Incendio en la vía a Daule deja un saldo mortal
-===============================================
-
-El Cuerpo de Bomberos de Guayaquil atendió la emergencia por el incendio en la vía a Daule.
--------------------------------------------------------------------------------------------
-
-![Imagen del incendio estructural en la vía a Daule.](https://www.elcomercio.com/wp-content/uploads/2024/12/incendio-via-daule.jpg)
-
-Un incendio en la vía a Daule deja un saldo mortal, este viernes 6 de diciembre de 2024.
-
-La tragedia ocurrió en un local de colchones, frente a una parada de la Metrovía.
-
-### Más noticias:
-
-* [Al menos 82 hectáreas consume el incendio forestal en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/al-menos-82-hectareas-consume-incendio-forestal-guayaquil.html "Al menos 82 hectáreas consume el incendio forestal en Guayaquil")
-* [Incendios forestales de 2024 en América, de los más intensos, según Copernicus](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-2024-america-mas-intensos-segun-copernicus.html "Incendios forestales de 2024 en América, de los más intensos, según Copernicus")
-
-El saldo mortal del incendio en la vía a Daule
-----------------------------------------------
-
-El **[](https://www.ecuavisa.com/noticias/guayaquil/fabrica-plasticos-incendio-via-daule-GF8421888)**incendio en un local de colchones, ubicado en el kilómetro 6.5 de la **vía a Daule**, norte de Guayaquil, dejó un saldo mortal.
-
-La emergencia ocurrió a las 15:00 y generó pánico en los **pasajeros** de la Metrovía. La categoría de la alarma fue 3.
-
-El **Cuerpo de Bomberos de Guayaquil** acudió a la emergencia con **20 unidades.**
-
-**Ocho de combate, cuatro tanqueros, dos camiones cisterna, tres ambulancias, dos vehículos de resc**ate y uno para recarga de equipos de respiración autónoma.
-
-El fuego se extendió a un **vehículo** estacionado frente al local **y a la segunda planta del inmueble**.
-
-La tragedia provocó la muerte de una **mujer y de una niña**.
-
-Luego de **las operaciones de mitigación, labores de sofocación y remoción de escombros**, el cuerpo bomberil brindó soporte psicológico a la familia.
-
-En el sitio se realizaron labores de **sofocación y remoción de escombros**, informaron los bomberos.
-
-La **causa** del incendio aún no está establecida.
-
-> [#BCBGInforma](https://twitter.com/hashtag/BCBGInforma?src=hash&ref_src=twsrc%5Etfw) | Atendemos alarma 3 de incendio estructural en el km 6.5 de la vía a Daule. 🚨  
->   
-> Despachamos veinte unidades, entre ellas ocho de combate, cuatro tanqueros, dos camiones cisterna, tres ambulancias, dos vehículos de rescate y uno para recarga de equipos de respiración… [pic.twitter.com/nfk8zBoXYv](https://t.co/nfk8zBoXYv)
-> 
-> — Bomberos Guayaquil (@BomberosGYE) [December 6, 2024](https://twitter.com/BomberosGYE/status/1865160927726678489?ref_src=twsrc%5Etfw)
-
-Emmanuel Macron recibirá a Trump y Zelensky en el Elíseo antes de la reapertura de Notre Dame
-=============================================================================================
-
-La reunión de los mandatarios se produce en un momento decisivo para el futuro de la guerra en Ucrania.
--------------------------------------------------------------------------------------------------------
-
-![El presidente reelecto de EE.UU.,Donald Trump, y los presidente de Francia y Ucrania, Emmanuel Macron y Volodímir Zelensky, respectivamente. Fotos: Archivo EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/trump-macron-zelansky_720.jpg)
-
-El presidente de **Francia**, **Emmanuel Macron**, recibirá este sábado 7 de diciembre en el **Elíseo** al presidente electo de los **EE.UU**, **Donald Trump**, y al presidente de **Ucrania**, **Volodímir Zelensky**. Esto se dará en un día clave para la diplomacia internacional, antes de la gran reapertura de la catedral de **Notre Dame** a la que ambos están invitados.
-
-Más noticias
-------------
-
-* [Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN](https://www.elcomercio.com/actualidad/mundo/zelenski-sugiere-podria-poner-fin-guerra-ucrania-cambio-unirse-otan.html "Zelenski sugiere que podría poner fin a la guerra en Ucrania a cambio de unirse a la OTAN")
-* [Donald Trump nombra a Keith Kellogg como encargado para poner fin a la guerra de Ucrania](https://www.elcomercio.com/actualidad/mundo/donald-trump-nombra-keith-kellogg-encargado-poner-fin-guerra-ucrania.html "Donald Trump nombra a Keith Kellogg como encargado para poner fin a la guerra de Ucrania")
-
-La jornada comenzará con la llegada de Trump, quien realiza su primer viaje internacional tras ganar las elecciones presidenciales de noviembre pasado.
-
-Tras este encuentro, el mandatario francés se prepara para la llegada de **Zelensky**. El **Elíseo** no confirma si habrá un encuentro entre los dos mandatarios, **Trump** y **Zelensky**, durante su visita.
-
-Reunión decisiva para el futuro de Ucrania
-------------------------------------------
-
-Esta reunión de alto nivel se produce en un momento decisivo para el futuro de la guerra en Ucrania. Su conflicto con Rusia sigue siendo uno de los temas más críticos en la agenda internacional.
-
-El apoyo de Estados Unidos a Kiev es determinante para contrarrestar los avances rusos. Pero su continuidad dependerá, en gran medida, de la postura que adopte Trump en su regreso a la Casa Blanca. Esta postura podría redefinir las dinámicas de las alianzas internacionales y el rumbo del conflicto.
-
-El republicano declaró su intención de poner fin a la guerra en **Ucrania**. Afirmó ser capaz de alcanzar un acuerdo de paz en **24 horas**. Su equipo diseñó un plan que condiciona el envío de armamento a **Kiev** con el objetivo de presionar al **Zelensky**, para que entable negociaciones con **Putin**.
-
-Este enfoque generó gran preocupación en Ucrania y entre sus aliados europeos. Temen que un acuerdo bajo esos términos deje las líneas de combate actuales sin alteraciones. Esto, en la práctica podría traducirse en la anexión de los territorios ucranianos ocupados por las fuerzas rusas.
-
-En el caso de que se abrieran perspectivas de diálogo entre las partes, Ucrania y sus aliados occidentales insisten en que cualquier proceso de negociación debe basarse en una posición de fortaleza, no de debilidad. Esto con el fin de proteger la soberanía de Ucrania.
-
-En este escenario, el papael de Trump como presidente electo será crucial para determinar las condiciones en las que Kiev podría afrontar posibles negociaciones de paz, si es que se llegaran a dar en el futuro. Así lo reseña el portal de noticias Infobae.
-
-Trump y **Zelensky** estarán en la reapertura de Notre Dame
------------------------------------------------------------
-
-Tras las reuniones, ambos líderes se unirán a Macron en la catedral de Notre Dame para asistir a la gran reapertura del templo, que fue devastado por un incendio en 2019. Los tres mandatarios compartirán este evento solemne, que tendrá protocolos muy estrictos, marcando el final de una era para la catedral, y simbolizando el renacer de un monumento histórico para Francia y el mundo.
-
-[](https://www.infobae.com/america/mundo/2024/12/06/la-justicia-de-rumania-anulo-el-resultado-de-las-elecciones-presidenciales-por-sospechas-de-injerencia-rusa-y-convoco-una-nueva-votacion/)
-
-Liga de Quito anuncia un show artístico previo a la final con IDV
-=================================================================
-
-Liga de Quito e IDV jugarán la final de ida el 7 de diciembre del 2024, pero antes del cotejo de fútbol se realizará un show artístico
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito en una práctica previa a la final ante IDV.](https://www.elcomercio.com/wp-content/uploads/2024/12/LDU-2.jpg)
-
-La espera por la final de la Liga Pro 2024 entre **Liga de Quito** e **Independiente del Valle** está a punto de terminar. El 7 de diciembre, el estadio **Rodrigo Paz Delgado de Quito** albergará el esperado cotejo de ida desde las 15:30.
-
-Sin embargo, los asistentes que lleguen temprano al estadio tendrán la oportunidad de disfrutar de un **espectáculo artístico** previo al encuentro, como parte de las actividades organizadas por el club universitario.
-
-### Más noticias:
-
-* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
-* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
-* [Liga de Quito tendrá una dura baja para la primera final de la Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-tendra-una-dura-baja-para-la-primera-final-de-la-liga-pro.html "Liga de Quito tendrá una dura baja para la primera final de la Liga Pro")
-
-Liga de Quito y el show
------------------------
-
-La **Liga de Quito** ha confirmado que el show artístico comenzará a las 12:45, brindando a los hinchas un repertorio especial para la ocasión.
-
-Entre los artistas anunciados por el club se encuentran el cantante José Pita, quien abrirá el espectáculo, seguido por las presentaciones de Tierra Canela y Sugar Rush.
-
-Este evento promete agregar emoción y color a la jornada.
-
-El partido, que es la primera de dos finales de la **Liga Pro**, enfrentará a los albos con Independiente del Valle, un rival que ha demostrado ser un competidor difícil.
-
-Los equipos lucharán por el título nacional en una serie de dos partidos, siendo la vuelta el 14 de diciembre en el estadio de Independiente.
-
-Liga de Quito vs. IDV
----------------------
-
-En cuanto al equipo de **Liga de Quito**, el entrenador **Pablo ‘Vitamina’ Sánchez** destacó la fortaleza tanto colectiva como individual de su escuadra, aunque reconoció que será un enfrentamiento complicado.
-
-“Será un partido muy difícil para ambos equipos. Independiente tiene jugadores desequilibrantes, y nosotros intentamos jugar de forma similar. La final será muy reñida”, expresó el técnico argentino.
-
-Además, a pesar de las bajas, como la de José ‘Choclo’ Quintero, quien no podrá jugar en la final de ida debido a una lesión, la moral del equipo es alta.
-
-Liga de Quito buscará su título número 21, mientras que Independiente del Valle intentará conquistar su segundo campeonato ecuatoriano.
-
-La cita está hecha en el estadio Rodrigo Paz Delgado desde las 15:30.
-
-Metro de Quito: Pabel Muñoz y Daniel Noboa hicieron un compromiso
-=================================================================
-
-El Metro de Quito fue motivo de un acuerdo entre el presidente Daniel Noboa y el alcalde Pabel Muñoz.
------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa y Pabel Muñoz hicieron un acuerdo sobre el Metro de Quito, en la sesión solemne por los 490 años de fundación.](https://www.elcomercio.com/wp-content/uploads/2024/12/metro-quito-daniel-noboa-pabel-munoz.jpg)
-
-El alcalde **Pabel Muñoz** y el presidente **Daniel Noboa** hicieron un compromiso respecto al **Metro de Quito**, este viernes 6 de diciembre de 2024.
-
-El anuncio se realizó en la **sesión solemne por los 490 años de fundación** de Quito, esta tarde.
-
-### Más noticias:
-
-* [El Metro de Quito celebra su aniversario con actividades en sus estaciones](https://www.elcomercio.com/actualidad/quito/el-metro-de-quito-celebra-su-aniversario-con-actividades-en-sus-estaciones.html "El Metro de Quito celebra su aniversario con actividades en sus estaciones")
-* [¿El Metro de Quito es seguro para la mujer?](https://www.elcomercio.com/actualidad/quito/metro-quito-seguro-para-mujer.html "¿El Metro de Quito es seguro para la mujer?")
-
-Compromiso de Muñoz y Noboa sobre el Metro
-------------------------------------------
-
-Quito celebró sus 490 años de fundación con una **sesión solemne** organizada por el Municipio de Quito en el **Teatro Sucre**, ubicado en el Centro Histórico.
-
-Al igual que la **Serenata Quiteña**, este evento también contó con la asistencia del presidente D**aniel Noboa**, quien llegó acompañado de su esposa **Lavinia Valbonesi.**
-
-Tras la entonación del **Himno a Quito** y la entrega de condecoraciones, Muñoz y Noboa realizaron sus intervenciones.
-
-El Alcalde se dirigió al Presidente por **tres temas:** inversiones público-privadas, el Metro de Quito y el ambiente político en el país.
-
-Muñoz le dijo a Noboa que debe mantenerse el apoyo recibido por la **Secretaría de Inversiones Público – Privadas**, porque Quito está generando confianza.
-
-Sobre el **Metro de Quito**, el burgomaestre pidió el apoyo para **financiar la ampliación**.
-
-“Señor presidente, quiero requerir su apoyo financiero para **extender el Metro de Quito, no solo hasta la Ofelia, sino hasta Calderón**“, dijo Muñoz.
-
-“Nosotros estamos listos, las líneas de crédito de BID, CAF, **Banco Mundial (BM)** y el Banco Europeo están también listas”, dijo Muñoz.
-
-El Alcalde recordó que Calderón es una **parroquia rural** con más población que varias ciudades de Ecuador.
-
-Entre los beneficios de la ampliación, Muñoz añadió que esta es una **inversión rentable** que significa menor consumo de combustible subsidiado, **menos emisiones de CO2** que pueden transformarse en bonos verdes, menos muertes en la vía, más productividad y competitividad.
-
-### Consenso y no confrontación
-
-En cuanto al ambiente político, Muñoz dijo a Noboa que es momento de **generar consenso** y no **confrontación** política.
-
-“Señor Presidente, (…) en su próxima condición de **candidato presidencial**, le reitero, si los ecuatorianos le confían la administración del país, tome este Acuerdo (el Acuerdo de Quito 2030) como una muestra de que **el camino hoy no es la confrontación, es la convergencia y la búsqueda de consensos mínimos**, el país está obligado a reencontrarse y desterrar el odio como forma de hacer política”, manifestó el Alcalde.
-
-Muñoz dijo que la sociedad debe reprochar la política mediocre que no se basa en construir, sino en destruir, por eso se enfocó en el **Acuerdo Quito 2030**, que hoy lo entregó al presidente Daniel Noboa.
-
-Respuesta de Daniel Noboa a Pabel Muñoz sobre el Metro de Quito
----------------------------------------------------------------
-
-El presidente **Daniel Noboa** elogió la **historia de Quito**, como un legado de coraje, dignidad y solidaridad.
-
-Noboa destacó la respuesta solidaria de los quiteños durante los **incendios forestales** de este año y frente a la grave **sequía**.
-
-### Quito y la protesta social
-
-“Quito sufre amenazas constantes, cuando esos mismos **delincuentes** (refiriéndose a “terroristas” que asaltaron TC Televisión en enero) se pretenden **camuflar** dentro de una, muchas veces, legítima **protesta** para asaltar a Quito y **tratar de destruir ese Centro Histórico** que (…) todos los ecuatorianos hemos luchado por construir”, dijo.
-
-“Son muchos los retos que Ecuador debe afrontar y Quito es más grande que todos nosotros juntos, **Quito es eterno y a Quito hay que cuidarlo**“, agregó el Presidente.
-
-Daniel Noboa dijo que el Gobierno afronta tres graves crisis.
-
-Una **crisis económica** que tenía impagos a los trabajadores del Estado, municipio y proveedores, cuatro meses de deudas, eso recibieron de “regalito”.
-
-“Recibimos un país plagado de deudas, con obras inconclusas y corría riesgo la dolarización, a nosotros **nos tocó limpiar el desastre** que nos dejaron”, agregó, al tiempo de señalar que lo hicieron dialogando con los gobiernos descentralizados.
-
-El país ha enfrentado los efectos de la sequía con la crisis energética, los efectos de la delincuencia y el crimen transnacional y **“de ese grupo de personas que, sin el apoyo popular, quieren comandar y decidir sobre los ecuatorianos, eso jamás lo vamos a permitir”**.
-
-Noboa **recordó que se conoce con Muñoz desde la Asamblea**, han trabajado juntos en el pasado y pueden continuar haciéndolo en el futuro.
-
-### La respuesta sobre el Metro
-
-Como respuesta sobre el Metro, el presidente **Daniel Noboa** dijo que el Metro está “totalmente incompleto” sin una parada en Calderón.
-
-“Tenemos que hacerlo llegar hasta **Calderón** (…) tiene mi compromiso para trabajar y que Calderón tenga también acceso al metro y pueda gozar de una interconexión real”, agregó.
-
-PSG se mantiene líder con Willian Pacho como titular ante Auxerre
-=================================================================
-
-Willian Pacho sigue firme en la titularidad del PSG que pese a un empate y las críticas se mantiene líder en Francia
---------------------------------------------------------------------------------------------------------------------
-
-![El ecuatoriano Willian Pacho (izq.) se destaca en el PSG de Francia.](https://www.elcomercio.com/wp-content/uploads/2024/12/pacho.jpg)
-
-El Paris Saint-Germain (**PSG**) sigue liderando la Ligue 1 de Francia, tras un empate sin goles ante el Auxerre el 6 de diciembre de 2024. En este encuentro, que se disputó en el estadio de l’Abbé-Deschamps, el defensor ecuatoriano **Willian Pacho** fue titular y jugó los 90 minutos con su equipo.
-
-Con este empate, el PSG se mantiene en la cima de la clasificación con 34 puntos en 14 partidos.
-
-### Más noticias:
-
-* [Pep Guardiola pierde los estribos en video que se vuelve viral](https://www.elcomercio.com/deportes/futbol/pep-guardiola-video-momentos-dificiles-manchester-city.html "Pep Guardiola pierde los estribos en video que se vuelve viral")
-* [Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-pablo-vitamina-sanchez.html "Pablo ‘Vitamina’ Sánchez y la ‘reñida’ final Liga de Quito vs. IDV")
-* [Alberto Spencer, el futbolista que puso a Ecuador en el mapa](https://www.elcomercio.com/deportes/futbol/alberto-spencer-el-futbolista-que-puso-a-ecuador-en-el-mapa.html "Alberto Spencer, el futbolista que puso a Ecuador en el mapa")
-
-El Olympique de Marsella, que ha jugado un encuentro menos, sigue en la segunda posición con 26 puntos.
-
-Sin embargo, el empate ha generado críticas hacia el equipo dirigido por Luis Enrique Martínez, especialmente después de que el PSG también igualara en la fecha pasada contra el Nantes y cayera 1-0 ante el Bayern Múnich en la **Champions League.**
-
-Willian Pacho
--------------
-
-A pesar de los altibajos en los resultados, **Willian Pacho** se ha consolidado como pieza clave en la defensa del PSG.
-
-El central de 23 años, originario de Quinindé, sigue gozando de la confianza del entrenador Luis Enrique, quien lo mantiene en la titularidad. Pacho, con una estatura de 1,87 metros, ha destacado por su solidez defensiva y liderazgo en el campo.
-
-El joven defensor **Willian Pacho** también es un pilar importante en la Selección ecuatoriana, con la que ha brillado en las eliminatorias sudamericanas.
-
-Su rendimiento ha sido tan destacado que su valor en el mercado ya supera los 42 millones de dólares, consolidándose como una de las promesas más grandes del fútbol ecuatoriano. En redes sociales, muchos lo apodan la ‘Muralla ecuatoriana’ por su impresionante capacidad para desbaratar los ataques rivales.
-
-Pacho sigue demostrando que su futuro en el fútbol europeo es brillante, mientras PSG busca retomar su nivel de juego con la vista puesta en los próximos desafíos en la Ligue 1 y la Champions League.
-
-Varios sectores de Quito, con lluvias intensas en la tarde de este 6 de diciembre
-=================================================================================
-
-Debido a las lluvias se registra tráfico vehicular en el distrito.
+Estas son las cartas a Quito de este sábado 7 de diciembre de 2024
 ------------------------------------------------------------------
 
-![Fuertes lluvias en el sur de Quito, en la tarde de este viernes 6 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/q-lluvias.jpg)
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-La tarde de este viernes 6 de diciembre, al menos cuatro sectores del sur de Quito registran intensas lluvias. Esto genera tráfico vehicular en el distrito metropolitano.
+Falta empatía
+-------------
 
-Más noticias
-------------
+En estos momentos aciagos en que las tinieblas nos acechan, tornándose en nuestras asiduas y casi permanentes compañeras, nos hace mucha falta concienciarnos y cuidar la poca energía  que nos queda. Por desgracias, esto no ocurre con frecuencia. Pues hay gente desconsiderada e insensible que poco o nada le importa esta situación y se envanece y presume de prender las luces de su casa, oficina, consultorio, negocio, rótulos luminosos, etc.  Más aún si nos referimos a  los centros comerciales, donde parece que se tratara de una competencia de cuantas luminarias se prenden en cada Centro y no solo durante las noches, sino que, en algunos casos, estas luces permanecen prendidas durante las 24 horas del día. Esto realmente es una tremenda desconsideración, inconsciencia y falta de empatía, habida cuenta de que, con plantas y generadores o no, el daño  resulta ser casi igual.
 
-* [Auto de Pedro Pablo Perlaza fue hallado en Quito](https://www.elcomercio.com/actualidad/quito/auto-pedro-pablo-perlaza-hallado-quito.html "Auto de Pedro Pablo Perlaza fue hallado en Quito")
-* [Una persona falleció tras caer en moto de un puente, en Quito](https://www.elcomercio.com/actualidad/una-persona-fallecio-tras-caer-en-moto-de-un-puente-quito.html "Una persona falleció tras caer en moto de un puente, en Quito")
+Se acercan  importantes festividades como: Fiestas de Quito, Navidades, Año nuevo, etc.  Y, obviamente, es de vital importancia el ahorro de energía. Se hace necesario que, por esta vez, suspendamos las luces de los arbolitos, nacimientos y más adornos festivos y navideños; hagamos conciencia de que, la solidaridad y la empatía deben primar en estos momentos de crisis.  Pensemos que tan solo con este pequeño y temporal  sacrificio, los ecuatorianos estamos contribuyendo al bienestar de nuestros hermanos y haciendo Patria.
 
-Según el Servicio Integrado de Seguridad ECU911 Quito, a través de las cámaras de videovigilancia se han observado precipitaciones de alta intensidad en diferentes sectores de la ciudad.
-
-Entre los sectores que el [ECU911](https://www.ecu911.gob.ec/ "https://www.ecu911.gob.ec/") informó que hay altas precipitaciones están: avenidas Ajaví, Pedro Vicente Maldonado, Mariscal Sucre y Rumichaca.
-
-Asimismo, mediante los dispositivos de monitoreo se registra tráfico vehicular, en varias zonas de la capital. En la avenida Mariscal Sucre y Huayapalcón, en el sur, se efectuó el cierre vial, debido a un atropello. Hasta las 16:30 de hoy, la Agencia Metropolitana de Tránsito (AMT) aún no comunicaba si ya está habilitada esta vía. Por esta razón hay tomar rutas alternas.
-
-Debido a las precipitaciones se recomienda conducir con precaución, activar las luces y limpiaparabrisas. Además es importante que reduzca la velocidad, sobre todo en las avenidas de alta siniestralidad.
-
-Este viernes se suspendieron los cortes de energía eléctrica en la mayoría de sectores de Quito, por sus fiestas. Esto permitió que los semáforos funcionen con normalidad.
-
-Sin embargo, en los últimos días se han registrado más de una veintena de siniestros. Una de las causas es las precipitaciones.
-
-Las lluvias también se extendieron al valle de Cumbayá, en donde también se ha producido congestión vehicular.
+Fabiola Carrera Alemán
