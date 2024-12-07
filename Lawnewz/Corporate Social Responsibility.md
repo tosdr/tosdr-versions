@@ -103,21 +103,21 @@ Top of Today
     
     ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-2. [![Brad Simpson appears inset on the left; Suzanne Simpson appears inset on the right – against an image of their residence.](https://am23.mediaite.com/lc/cnt/uploads/2024/10/Brad-Suzanne-Simpson-432x243.jpg)](https://lawandcrime.com/crime/husband-of-woman-who-disappeared-from-wealthy-neighborhood-allegedly-tried-to-hide-a-reciprocating-saw-from-investigators/)
+2. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
-    ### [Husband of woman who disappeared from wealthy neighborhood allegedly tried to hide a 'reciprocating saw' from investigators](https://lawandcrime.com/crime/husband-of-woman-who-disappeared-from-wealthy-neighborhood-allegedly-tried-to-hide-a-reciprocating-saw-from-investigators/)
+    ### ['Expects your voluntary compliance': Jim Jordan gives Fani Willis a tight deadline to turn over Jack Smith documents](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
-3. [![Inset: Sen. Ken Yager (Glynn County Detention Center). Background: Sen. Ken Yager speaking (WATE/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Ken-Yager-432x243.jpg)](https://lawandcrime.com/crime/chair-of-senate-republican-caucus-busted-for-dui-hit-and-run-while-driving-campaign-funded-car-with-legislative-plates-police/)
+3. [![Shane Lamond and Enrique Tarrio](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Shane-Lemond-and-Enrique-Tarrio-1-432x243.jpg)](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
     
-    ### [Chair of Senate Republican Caucus busted for DUI hit-and-run while driving campaign-funded car with legislative plates: Police](https://lawandcrime.com/crime/chair-of-senate-republican-caucus-busted-for-dui-hit-and-run-while-driving-campaign-funded-car-with-legislative-plates-police/)
+    ### ['You're not in charge': Judge shuts down Proud Boys leader serving Jan. 6 sentence at trial for cop accused of being 'double agent'](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
     
-4. [![Rudy Giuliani](https://am22.mediaite.com/lc/cnt/uploads/2024/04/AP23349801870591-432x243.jpg)](https://lawandcrime.com/high-profile/severe-sanctions-are-warranted-defamed-election-workers-seek-double-whammy-against-giuliani-ask-judge-to-hold-him-in-contempt-for-violating-court-order-and-discovery-rules/)
+4. [![Inset, top to bottom: Jon K. Ewing (Shawnee County Department of Corrections) and Deborah Ann Stephens (Dove Funeral Home). Background: The trailer where Ewing killed Stephens (WIBW).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/adfasdfadfa-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
     
-    ### ['Severe sanctions are warranted': Defamed election workers seek double whammy against Giuliani — ask judge to hold him in contempt for violating court order and discovery rules](https://lawandcrime.com/high-profile/severe-sanctions-are-warranted-defamed-election-workers-seek-double-whammy-against-giuliani-ask-judge-to-hold-him-in-contempt-for-violating-court-order-and-discovery-rules/)
+    ### [Man ambushed and killed ex-girlfriend with ax after threatening to 'cut her head clean off'](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
     
-5. [![Keith Agee (Escambia County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Keith-Agee-432x243.jpg)](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
+5. [![Geoffrey Kay-Conway Sr. appears in a booking photo](https://am23.mediaite.com/lc/cnt/uploads/2023/11/Geoffrey-Kay-Conway-Sr-432x243.jpg)](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
     
-    ### [Bodycam: Deputies arrest man accused of murdering his ex in Home Depot over false STD suspicion](https://lawandcrime.com/video/bodycam-deputies-arrest-man-accused-of-murdering-his-ex-in-home-depot-over-false-std-suspicion/)
+    ### ['Could have Killed her 17 times if i wanted': Man who left a note prematurely bragging how his wife ‘totally underestimated' him sentenced for trying to kidnap, rape, and murder her](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
     
 
 [](http://eepurl.com/c89Jdb)
