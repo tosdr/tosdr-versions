@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About PSMB8 Gene ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/biology-earth-and-life-science/35-facts-about-psmb8-gene/)
+[![50 Facts About Luke Getsy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/50-facts-about-luke-getsy/)
 
-Biology
+Sports
 
-06 Dec 2024
+07 Dec 2024
 
-[35 Facts About PSMB8 Gene](https://facts.net/earth-and-life-science/biology-earth-and-life-science/35-facts-about-psmb8-gene/)
+[50 Facts About Luke Getsy](https://facts.net/lifestyle/sports/50-facts-about-luke-getsy/)
 
-[![50 Facts About Matty Healy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-matty-healy/)
+[![15 Facts About Historic Election Night Upsets ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/15-facts-about-historic-election-night-upsets/)
 
-Celebrity
+Historical Events
 
-06 Dec 2024
+07 Dec 2024
 
-[50 Facts About Matty Healy](https://facts.net/celebrity/50-facts-about-matty-healy/)
+[15 Facts About Historic Election Night Upsets](https://facts.net/history/historical-events/15-facts-about-historic-election-night-upsets/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
