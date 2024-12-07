@@ -1,4 +1,4 @@
-[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713501412&v=PX-405)](https://www.play-asia.com/)
+[![Playsia Logo](//s.pacn.ws/1/gallery/large/GA.07993.0001.svg?1713530212&v=PX-405)](https://www.play-asia.com/)
 
 View All
 
@@ -6,7 +6,7 @@ Search 
 
 everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movies Music Books
 
- [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1606996510&v=PX-405) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
+ [![Free Delivery on select items!](//s.pacn.ws/1/gallery/large/GA.06771.0233.svg?1607025310&v=PX-405) FREE WORLDWIDE DELIVERY when spending over US$ 99.99 on select items!](https://www.play-asia.com/blog/2022/06/01/freeshippingplayasia/)
 
 [](https://www.play-asia.com/account/)
 
@@ -18,7 +18,7 @@ everything PLAY Exclusives Games Gaming Peripherals Digital Toys Lifestyle Movie
 
 Help](https://www.play-asia.com/help/)
 
-[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708666189&v=PX-405)  
+[![](//s.pacn.ws/1/gallery/large/GA.07871.0186.svg?1708694989&v=PX-405)  
 EN | USD](#)
 
 ✖ theme
@@ -63,4 +63,4 @@ Be sure to visit our social media pages !
   
 Playasia and its logo are trademarks of Playasia. Website & content copyright 2002-2024 Playasia.
 
-SN: 115 | 1007 { 58 } | A: | WS: 1 | PT: 0.019 | CDN: | Ro: , Cl: 1 | Q: 20 | T: | Cf: | CO: | bot:
+SN: 115 | 1007 { 58 } | A: | WS: 1 | PT: 0.015 | CDN: | Ro: , Cl: 1 | Q: 20 | T: | Cf: | CO: | bot:
