@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
-2. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
-3. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
-4. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
-5. [\[2024\] 80+ GRE Exam Preparation Resources](https://www.classcentral.com/report/gre-preparation/)
+1. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
+2. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
+3. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
+4. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
+5. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. digital marketing
+1. sql
     
-2. law
+2. French
     
-3. French
+3. flutter
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Web Development
     
-    14,402 courses](https://www.classcentral.com/subject/ai)
-2. [Web Development
+    13,896 courses](https://www.classcentral.com/subject/web-development)
+2. [Cybersecurity
     
-    13,895 courses](https://www.classcentral.com/subject/web-development)
-3. [Communication Skills
+    17,005 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Project Management
     
-    4,303 courses](https://www.classcentral.com/subject/communication-skills)
+    4,280 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 
-1. [Positive Psychiatry and Mental Health
+1. [Improving Communication Skills
     
-    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
-2. [The Science of Happiness
+    University of Pennsylvania](https://www.classcentral.com/course/wharton-communication-skills-8235)
+2. [Introduction to Animal Behaviour
     
-    University of California, Berkeley](https://www.classcentral.com/course/happiness-university-of-california-berkeley-the-s-1781)
-3. [Critical Perspectives on Management
+    Wageningen University](https://www.classcentral.com/course/animal-behavior-wageningen-university-research-in-6033)
+3. [Molecular Biology - Part 1: DNA Replication and Repair
     
-    IE Business School](https://www.classcentral.com/course/criticalmanagement-714)
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/molecular-biology-massachusetts-institute-of-tech-2907)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
