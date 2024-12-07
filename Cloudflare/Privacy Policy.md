@@ -155,6 +155,11 @@ Under attack?
 
 * [Under attack?](https://www.cloudflare.com/under-attack-hotline/)
 
+Log in
+======
+
+* [Log in](https://dash.cloudflare.com/login)
+
 Support
 =======
 
@@ -184,7 +189,7 @@ Support
 
 [Sign up](https://www.cloudflare.com/plans/)
 
-[Sign up](https://www.cloudflare.com/plans/)[Under attack?](https://www.cloudflare.com/under-attack-hotline/)
+[Sign up](https://www.cloudflare.com/plans/)[Under attack?](https://www.cloudflare.com/under-attack-hotline/)[Log in](https://dash.cloudflare.com/login?lang=en-US)
 
 [](https://www.cloudflare.com/)
 
