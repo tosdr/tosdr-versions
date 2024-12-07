@@ -10,6 +10,8 @@
 
 [ReverseClash is GO!](https://xcreativeclashx.net/announcement/28-reverseclash-is-go/) [×](#)
 
+[Quick ReverseClash Rules Update!](https://xcreativeclashx.net/forums/topic/1165-reverseclash-24-quick-rules-update/) [×](#)
+
 Registration Terms
 ==================
 
