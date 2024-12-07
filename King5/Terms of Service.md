@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae/20241207T000227/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae/20241207T000227/8c08887b-fd23-474b-9a1e-1bdfe7dd8cae_360x203.jpg)](https://www.king5.com/article/traffic/traffic-news/motorcyclist-killed-queen-anne-crash/281-7cfbba92-7243-4bae-aca8-0b73905f970c)
+    *  [![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
         
-        #### [Motorcyclist killed after crash in Queen Anne](https://www.king5.com/article/traffic/traffic-news/motorcyclist-killed-queen-anne-crash/281-7cfbba92-7243-4bae-aca8-0b73905f970c)
+        #### [Boeing cancels employee surveillance pilot program](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
         
-    *  [![](https://media.king5.com/assets/KING/images/e2bd7361-33b8-42ee-a937-09d0450d1462/e2bd7361-33b8-42ee-a937-09d0450d1462_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e2bd7361-33b8-42ee-a937-09d0450d1462/e2bd7361-33b8-42ee-a937-09d0450d1462_360x203.jpg)](https://www.king5.com/article/news/crime/man-sentenced-killing-man-complained-loud-party-lakewood/281-7f5cf99c-4f7d-46ed-aaf5-b2bfcefef9d2)
+    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/speea-employees-receive-layoff-notices/281-053e6be8-dbca-4b68-8c54-31bfb0ce8c71)
         
-        #### [Lakewood teen sentenced to 25 years in stabbing of man outside party](https://www.king5.com/article/news/crime/man-sentenced-killing-man-complained-loud-party-lakewood/281-7f5cf99c-4f7d-46ed-aaf5-b2bfcefef9d2)
+        #### [Hundreds more SPEEA employees at Boeing receive layoff notices](https://www.king5.com/article/tech/science/aerospace/boeing/speea-employees-receive-layoff-notices/281-053e6be8-dbca-4b68-8c54-31bfb0ce8c71)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/cd2adb31-9eb6-4d24-843d-ff20d784c817/20241207T034515/cd2adb31-9eb6-4d24-843d-ff20d784c817_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd2adb31-9eb6-4d24-843d-ff20d784c817/20241207T034515/cd2adb31-9eb6-4d24-843d-ff20d784c817_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_360x203.jpg)](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
         
         #### [How does a cap cloud form?](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
-        
-    *  [![](https://media.king5.com/assets/KING/images/9b63801c-7e1e-4db2-80e5-3b303419c32c/20241206T202553/9b63801c-7e1e-4db2-80e5-3b303419c32c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9b63801c-7e1e-4db2-80e5-3b303419c32c/20241206T202553/9b63801c-7e1e-4db2-80e5-3b303419c32c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -82,9 +82,9 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d31760ac-4bf3-4554-a047-411bce200d25/20241206T032527/d31760ac-4bf3-4554-a047-411bce200d25_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d31760ac-4bf3-4554-a047-411bce200d25/20241206T032527/d31760ac-4bf3-4554-a047-411bce200d25_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/dunn-daccord-lead-kraken-to-5-2-win-over-islanders/281-5deecff7-cd4e-4a42-a079-3d39b5a53bce)
+    *  [![](https://media.king5.com/assets/KING/images/e1beec90-bc59-4d75-93c3-3912a39ecbd0/20241207T031734/e1beec90-bc59-4d75-93c3-3912a39ecbd0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1beec90-bc59-4d75-93c3-3912a39ecbd0/20241207T031734/e1beec90-bc59-4d75-93c3-3912a39ecbd0_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/meier-scores-tiebreaking-goal-early-in-3rd-period-as-devils-beat-kraken-3-2/281-5d88eec7-be17-4fae-99d4-c8ad49436f61)
         
-        #### [Dunn, Daccord lead Kraken to 5-2 win over Islanders](https://www.king5.com/article/sports/nhl/kraken/dunn-daccord-lead-kraken-to-5-2-win-over-islanders/281-5deecff7-cd4e-4a42-a079-3d39b5a53bce)
+        #### [Meier scores tiebreaking goal early in 3rd period as Devils beat Kraken 3-2](https://www.king5.com/article/sports/nhl/kraken/meier-scores-tiebreaking-goal-early-in-3rd-period-as-devils-beat-kraken-3-2/281-5d88eec7-be17-4fae-99d4-c8ad49436f61)
         
     *  [![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
         
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+49°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
