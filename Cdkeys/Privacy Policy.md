@@ -590,7 +590,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[TEKKEN 8 PC](https://www.cdkeys.com/black-friday-sale/tekken-8-pc-steam "TEKKEN 8 PC")**
     
-    Special Price $25.49 RRP $70.09
+    Special Price $27.99 RRP $70.09
     
     [Add to Wish List](# "Add to Wish List")
     
