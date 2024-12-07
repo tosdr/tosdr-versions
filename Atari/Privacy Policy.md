@@ -470,9 +470,9 @@ Regular price $131.73
 
 Unit price /  per](https://www.atari.com/products/black-friday-exclusive-2600-console-w-2-joysticks) 
 
-[![Jaguar Hoodie](files/unisex-oversized-hoodie-black-front-6738b39c5597fcopy.jpg)
+[![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
 
-![Jaguar Hoodie](files/atari_merch_nov2024-300.jpg)
+![Oversized Fuji Hoodie](files/7fd0d636-7aef-475f-8165-f373222012f0copy.jpg)
 
 Add to cart
 
@@ -490,13 +490,13 @@ Add to cart
 
 20% OFF
 
-##### Jaguar Hoodie
+##### Oversized Fuji Hoodie
 
 Regular price $50 Sale price $40.00
 
 Regular price $40
 
-Unit price /  per](https://www.atari.com/products/unisex-oversized-hoodie) 
+Unit price /  per](https://www.atari.com/products/oversized-fuji-hoodie)         
 
 [![7800+ Controller Mega Bundle](files/7800bundle.jpg)
 
