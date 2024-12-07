@@ -330,9 +330,9 @@ New
 
 ###### New Arrivals
 
-[![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
+[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
 
-Holiday Collection](https://www.atari.com/collections/holiday-collection)
+Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
@@ -352,9 +352,9 @@ Menu
 
 ###### New Arrivals
 
-[![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
+[![](files/RB_Gaming-Blend_combo_beanpile_02_1.jpg)
 
-Holiday Collection](https://www.atari.com/collections/holiday-collection)
+Roasty Buds](https://www.atari.com/collections/roasty-buds-x-atari-vcs)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
