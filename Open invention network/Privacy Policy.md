@@ -210,45 +210,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
+> We continuously look for ways to integrate the best technologies in our appliances, which helps to shape living for the better. It also helps us achieve our goal of continuous improvement in appliance sustainability. We are pleased to join the Open Invention Network and support its role in protecting open source software.
+
+ElectroluxFabio Albanese, Head of Engineering, Connected Electronics Platform
+
+> For some time, Groupe Renault has invested in developing the innovations and technologies that will enable sustainable transportation that excels in urban and rural environments and brings connected services in the vehicle. With our rapid pace of development coupled with our passion for precision, quality and interoperability, we see leveraging open source software as an important part of our strategy.  
+
+Groupe Renault
+
+> We applaud OIN’s efforts to promote patent non-aggression in the cloud by adding the OpenStack packages to its Linux System definition. The OpenStack Foundation Board of Directors appreciates that the rapidly-growing OIN community has been, and is now explicitly, supporting freedom of action in the cloud of the future that OpenStack has been formed to enable.  
+
+Alan ClarkChairman of the BoardOpenStack Foundation
+
+> We remain focused on leveraging the best technologies for our platforms and are excited to join the Open Invention Network (OIN), that supports protection from patent infringement claims for the greater good of the wider innovation community.  
+
+Josh DeathIP & Patentable Innovations LeadTD Bank
+
+> Foxconn continuously looks for ways to integrate advances into the design and manufacturing of smart consumer electronics, cloud and networking equipment, computing devices and components, among others. We are pleased to join the Open Invention Network and support its role in protecting open source.
+
+Mick LimDirector, Foxconn IP Affairs Division
+
+> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+
+Lynn WuChief IP CounselByteDance
+
+> Hyundai Kia Motors are both committed to offering the highest-quality, intelligent vehicle platforms that leverage Linux and open source technologies. By joining the Open Invention Network, we will use the opportunity to further develop its infotainment platform. Moreover, we will help to ensure the ongoing development of open solutions that stimulate growth in the automotive industry.  
+
+Eon Youl ShinDirector of Intellectual Property Development GroupHyundai Motor Company
+
+> Open source technology enables new levels of innovation and helps to underpin our ongoing growth, as we fuse physical and digital technologies in cyber-physical systems. By joining OIN, we are demonstrating our commitment to contribute to open source technology and supporting it with patent non-aggression in Linux.  
+
+Dr. Shiro SaitoExecutive Officer, Corporate EVP, General Executive for TechnologyToshiba
+
 > The OpenWrt developers believe that openness and collaboration across domains is the groundwork which nurtures Linux development. The new partnership with Open Invention Network will be one of the building blocks pushing OpenWrt forward and advance Linux innovation in general.  
 
 Gregers PetersenRelationship Manager and DeveloperOpenWrt
 
-> By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
-
-Donny ZhangVPInspur
-
-> _RBC recognizes open source as a significant enabler of innovation and it was important for us to join the Open Invention Network and support its role in protecting Linux system open source software from patent litigation risk._
-
-Lucille D’SouzaVP & Associate General Counsel, RBC Strategy & Operations
-
-> Openness and sharing are the sources of innovation. Alibaba is excited to join Open Invention Network and share our cutting edge innovations with industry leaders.  
-
-Jiangwei JiangAlgorithm EngineerAlibaba Cloud Computing
-
-> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
-
-Keith BergeltCEOOpen Invention Network
-
-> For more than 160 years, Heidelberg has been a leading provider of a spectrum of printing technologies used by the most respected print shops in the industry. We recognize the value of open source innovation in our firmware and increasingly sophisticated document management systems. By joining OIN, we are demonstrating our continued commitment to innovation and supporting it with patent non-aggression in Linux and adjacent technologies.  
-
-Christof HaustHeidelberger Drucksmachinen, AG
-
-> Bilibili is a diverse, open, and innovative cultural platform. All the time, we are committed to opening and sharing technologies and providing positive motivation in the innovation field of playback transmission, interactive entertainment, and cloud-native ecology through open source projects. Linux System software and open source technologies are important software infrastructures that promote business developments. Our participation in the OIN community demonstrates our consistent and ongoin… [Read more](https://openinventionnetwork.com/testimonial/bilibili/ "Complete testimonial by Wang Hao")
-
-Wang HaoVice President, Bilibili
-
-> UNISOC is committed to the independent development and design of core chips in the field of mobile communications and AIoT, and Linux and open source software are the key elements of our technology development. By joining the OIN community, Zhanrui demonstrates its strong commitment to innovation and will continue to support patent protection for projects such as Linux.  
-
-Yang JiejingHead of Legal DepartmentUNISOC
-
 > _We have an unrelenting focus to put customers at the center of what we do. Incorporating Open Source software is one of the ways we implement the best technologies in our systems to deliver services and experiences that our customers value and trust. At U.S. Bank, we are committed to technology innovation, and we are proud to join the Open Invention Network and support its role in protecting Open Source software._
 
 Don RelyeaChief Innovation Officer, U.S. Bank
-
-> _We continuously look for ways to integrate the best technologies in our payment solutions, which helps to deliver capabilities and services that our merchant and bank customers value and trust. We provide our customers safer and faster digital transaction services, and open source is a significant innovation driver in these offerings. We are pleased to join the Open Invention Network and support its role in protecting Open Source software._
-
-Christophe DuquenneGroup Chief Technology & Operations Officer, Worldline
 
 [![Open Invention Network](https://openinventionnetwork.com/wp-content/uploads/2024/01/oin-website-logo.png)](https://openinventionnetwork.com/)
 
@@ -264,7 +264,7 @@ Your Name\*
 
 Email\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
