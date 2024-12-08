@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, December 7, 2024](https://www.derrynow.com/news/deaths/1674948/derry-death-notices-saturday-december-7-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![ALERT: Nearly 400,000 and businesses without power following Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Nearly 400,000 and businesses without power following Storm Darragh")](https://www.derrynow.com/news/national-news/1675203/alert-nearly-400-000-and-businesses-without-power-following-storm-darragh.html)
 
 Damage assessments are being made and crews are restoring supply, where safe to do so.
@@ -340,6 +333,13 @@ Even the smallest piece of information, which may seem insignificant, may assist
 
 [Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +521,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -528,7 +535,7 @@ Advertise with Us
 [Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Hollybush Primary School invites prospective pupils and parents to their Open Morning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Hollybush Primary School invites prospective pupils and parents to their Open Morning")](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
+[![Hollybush Primary School invites prospective pupils and parents to their Open Morning](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Screenshot_%28230%29-1733230732892.png--.png?1733230732977 "Hollybush Primary School invites prospective pupils and parents to their Open Morning")](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,15 +562,6 @@ Advertise with Us
 
 [Rural Village / Town Centres Facade Painting Regeneration Scheme completed within the Derry Council area](https://www.derrynow.com/news/local-news/1674569/rural-village-town-centres-facade-painting-regeneration-scheme-completed-within-the-derry-council-area.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Foyle Film Festival’s Light in Motion Competition award winners 2024 announced](https://www.derrynow.com/resizer/165/93/true/2024_12_03/1._Director_-_Aisling_Byrne-1733243922544.JPG--.JPG?1733243923861 "Foyle Film Festival’s Light in Motion Competition award winners 2024 announced")](https://www.derrynow.com/news/local-news/1672018/foyle-film-festivals-light-in-motion-competition-award-winners-2024-announced.html)
-
-Aisling Byrne, director of Turnaround, was presented with the award for Best Irish Short Film. (Photo: Lorcan Doherty)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Foyle Film Festival’s Light in Motion Competition award winners 2024 announced](https://www.derrynow.com/news/local-news/1672018/foyle-film-festivals-light-in-motion-competition-award-winners-2024-announced.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
