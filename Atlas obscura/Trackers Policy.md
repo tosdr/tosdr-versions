@@ -14,78 +14,15 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![The Jaipur City Palace remains the home of the Jaipur royal family to this day.](https://img.atlasobscura.com/9pV3MWxKlyRT3RSEvi78iDeJZMtdindMztFMX54ftOQ/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy83OGU2/Yzc3Yi0zMzQwLTRj/M2QtOThkMC1iYzhh/MDk2YWJmNmQ1ZjJj/NTZlMTIzZGM1YmY5/NWJfc2h1dHRlcnN0/b2NrXzEyMjA2Njc1/NDcuanBn.jpg)](https://www.atlasobscura.com/adventures/trips/india-rajasthan-trip)
-
-India • 14 days, 13 nights
-
-[Delhi and Rajasthan: Colors of India](https://www.atlasobscura.com/adventures/trips/india-rajasthan-trip)
-
-from
-
-   [![Wadi Rum desert.](https://img.atlasobscura.com/AR1Qu__IRMTOQwA-NbRv2rXX-OA8k9B1HtGSrsctulI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy84MGI3/NzQ1NS0wMjA1LTQw/OWMtODM1ZC1kM2Mz/YTFmN2E2ZDU1Njhh/ODkzNDYwMDFmY2Vm/MWJfa29uc3RhbnRp/bm9zLWthc2thbmlz/LUpfdHBnOWNsb1Bn/LXVuc3BsYXNoLmpw/Zw.jpg)](https://www.atlasobscura.com/adventures/trips/jordan)
-
-Jordan • 10 days, 9 nights
-
-[Ancient Ruins & Legendary Landmarks of Jordan](https://www.atlasobscura.com/adventures/trips/jordan)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/_gEQhpzCYj1bpFZQsmEFRKDiEaWOzvtRpZPqXCAoRHI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9hYzJk/MTg2Ny0yNWFjLTQ1/YzEtYmVmZC1iMzk0/NDgwZTA0N2I3NGE3/NzkxY2Q4NWY2NjI2/NTlfYWxlc3Npby16/YWNjYXJpYS1wbzFm/Zks0bExNdy11bnNw/bGFzaC5qcGc.jpg)
-
-A Cup of Yuletide Fear: Monsters of the Holiday Season With Cory Hutcheson](https://www.atlasobscura.com/experiences/christmas-monsters-course)
-
-   [![](https://img.atlasobscura.com/PCiomw6i8vpX9zHqcNe3XkgpCYCdBse2VaSg_VdbnaI/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9iNWI2/NzljNC04Zjc1LTQ2/NTYtYmUxMi1mNWZh/ZjAzZjQ5ZTk5ZjNm/OTAzMDYwNjA5MDM5/NTlfRFAxNzAzODYu/anBn.jpg)
-
-Navigating the Stars: How to Use an Astrolabe With Alexander Boxer](https://www.atlasobscura.com/experiences/astrolabe-online-course)
-
-   [![](https://img.atlasobscura.com/TyL2KSoFFUjWPbyVG5J99Z3rivz4mBt1OORqsZ5sw0g/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MzU2/ODVlMy0zNzlmLTQx/MzMtODgyMC1lMzIy/ZjYyZjZlMTY0ZDk3/YjdmMDc1OWQyMzFm/NGFfQW5naWUgU21p/dGhfRGFuY2VfR3Jv/dXBfTGF3bl8yMDI0/XzA3LmpwZw.jpg)
-
-Altered States & Expanding Horizons: Exploring the Legacy of Esalen](https://www.atlasobscura.com/experiences/into-to-esalen-course)
+Loading...
 
 Loading...
 
-Latest Places to Eat & Drink
-
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![The Coney Island Cafe opened in 1923 and has become a legendary locale in Hattiesburg, Mississippi.](https://img.atlasobscura.com/vtpVV1-VJEmCPrxmdhwx5xsONNfFkyTgDTDgqqNRV9E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYjE1/ZTI2OTZhNmMyZGVi/ZmFfQ29uZXkxLmpw/ZWc.jpg)
-
-Coney Island Cafe](https://www.atlasobscura.com/places/coney-island-cafe)
-
-   [![The Bard is represented on the sign. ](https://img.atlasobscura.com/lmz1WtREnqQNm4zCQiaCAK8jJCi_VV_CR-wh9rsmVtY/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMTZj/MjMzMS0xNzhkLTQ1/NjYtYjI1My0wMmEx/ZDRhOGU1NjY3NDlm/Y2JhNjFkZTI4ZmI5/NTBfVFMgMS5qcGc.jpg)
-
-The Shakespeare](https://www.atlasobscura.com/places/the-shakespeare)
-
-   [![This restaurant celebrates a country that only existed for a few weeks.](https://img.atlasobscura.com/3IgY-phtVMpk3cy22ys000wn6rivYydZ2_e_qjy28YU/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS9h/cHBfdXBsb2Fkcy9w/bGFjZV9pbWFnZXMv/dXNlcl8zMDI1MjM2/X2M1YzI1NjA0LWM1/NTQtNDU5ZC05NWU1/LTFiNzg5NjFmZmQ1/Mg.jpg)
-
-The Republic of the East](https://www.atlasobscura.com/places/the-republic-of-the-east)
-
-   [![Introducing one of the only train station lobsters that won't leave you filled with regret](https://img.atlasobscura.com/w49Xe6XCTdMwAT4MMZKCaMVRMQ0QYIYwTUIARW4IXYM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83NmUz/MzYwNy0yNWY2LTQ0/YzktYThiMC04YjI4/MDQ3OWQ5NjIyMWI1/ZWNmNzExMjQ0NjNj/ZjVfR3JhbmRCcmFz/c2VyaWVfMDkyNF9K/b3ZhbmlEZW1ldHJp/ZV82Mi5qcGVn.jpg)
-
-Grand Brasserie](https://www.atlasobscura.com/places/grand-brasserie-new-york)
-
-   [![A simple box of soba noodles with aburaage (fried tofu), the foxes’ favorite food.](https://img.atlasobscura.com/uHXhNet6_FYjj3PEPq9AFApvObg3wV2cShSH0pDsKGM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNDZh/Zjg2ZS05NWNiLTQw/OTgtODcxNS0zODVl/YzdlMTQ1OGMwMjAy/YzQzNTcyOTFhNjYz/NGVfRFNDXzAwNzEu/anBlZw.jpg)
-
-Inari Soba Mansei](https://www.atlasobscura.com/places/inari-soba-mansei)
+Loading...
 
 Recent Stories
 
