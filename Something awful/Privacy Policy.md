@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Square's Tom Sawyer](https://www.somethingawful.com/rom-pit/squares-tom-sawyer/)
-* [What Size of Flag Does Each Presidential Candidate Prefer?](https://www.somethingawful.com/news/flag-size-matters/)
-* [The Scary Zombie Journals](https://www.somethingawful.com/news/scary-zombie-journals/1/)
-* [In Space No One Can Hear the Music Die](https://www.somethingawful.com/news/scifi-music-movies/1/)
+* [Anagrammed Movies 2 (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies-part/1/)
+* [Dungeons & Dragons Module B1: "In Search of the Unknown" - Part 1](https://www.somethingawful.com/dungeons-and-dragons/search-unknown-wizards/1/)
+* [Stories from Rent-to-Own](https://www.somethingawful.com/comedy-goldmine/stories-from-renttoown/1/)
+* [Blue Stripe - The Life and Times of a Cyberdyne Systems Model-66 "Assembler"](https://www.somethingawful.com/news/terminator-connor-cyberdyne/1/)
+* [Every Review Of Ghostbusters You Will Read This Week](https://www.somethingawful.com/news/every-ghostbusters-review/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Robocop: Original Soylent influencer?](http://forums.somethingawful.com/showthread.php?threadid=4077051 "Robocop: Original Soylent influencer?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [I've found a promising new musician](http://forums.somethingawful.com/showthread.php?threadid=4077038 "I've found a promising new musician")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Connecticut fucking with neighbors w/highway signage MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4077042 "Connecticut fucking with neighbors w/highway signage MEGATHREAD")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [Name some favorite banner pets (Desktop Only?)](http://forums.somethingawful.com/showthread.php?threadid=4077052 "Name some favorite banner pets (Desktop Only?)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [post your lights/trees/menorahs/other holiday decorations](http://forums.somethingawful.com/showthread.php?threadid=4077030 "post your lights/trees/menorahs/other holiday decorations")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Connecticut fucking with neighbors w/highway signage MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4077042 "Connecticut fucking with neighbors w/highway signage MEGATHREAD")
 
 ### Random Articles
 
-* [The Big Hack Attack](https://www.somethingawful.com/icq-pranks/icq-transcript-big/1/)
-* [The Ultimate Bernie/Hillary Meme](https://www.somethingawful.com/news/sanders-hillary-meme/)
-* [For My Money, I Spit On Your Grave 23 Is Where The Franchise Began To Lose Steam](https://www.somethingawful.com/news/spit-grave-sequels/)
-* [AT-AT Attack!](https://www.somethingawful.com/photoshop-phriday/star-wars-walker/1/)
-* [Watching the Olymbics From Home](https://www.somethingawful.com/news/imperial-island-skeleton/1/)
+* [Darkfurr](https://www.somethingawful.com/awful-links/awful-link-2238/)
+* [Videogame Mix-Ups](https://www.somethingawful.com/comedy-goldmine/videogame-mixups/1/)
+* [wAREZ](https://www.somethingawful.com/awful-links/awful-link-545/)
+* [Secret Service: Security Beach](https://www.somethingawful.com/game-reviews/secret-service-security/1/)
+* [Party Time](https://www.somethingawful.com/daily-dirt/party-time/)
 
 [Random!](https://www.somethingawful.com/random/)
 
