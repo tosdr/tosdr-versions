@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[NYPD releases new photos of UnitedHealthcare CEO Brian Thompson's alleged assassin](https://nypost.com/2024/12/07/us-news/united-healthcare-ceo-brian-thompsons-alleged-assassin-seen-in-new-photos-nypd/)
-
 Privacy Notice Highlights
 =========================
 
