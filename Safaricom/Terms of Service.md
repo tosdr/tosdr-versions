@@ -229,6 +229,30 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 7, 2024
+
+> Went through Newmarket travel and Hays…
+
+> Went through Newmarket travel and Hays travel ..information about flight changes hard to get..but on arrival the holiday was taken over Safari.com..amazing ..experience everything was fine tuned and the staff ..guides drivers fabulous and friendly ..lots of knowledge..lots of fun and the surprises they did was so lovely ...loved every minute ..Paris our guide was amazing..10/10 and Eric driver ..the waiters and waitress every and everyone in the hotels .smiling and friendly..Best holiday of my life
+
+Gillian Dodsworth
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 7, 2024
+
+> Anja at Safari.com was a great partner to work with!
+
+> Working with Anja at Safari.com was great. She was able to work some magic and got us a few nights at the safari lodge we really wanted, Ngoma. Unfortunately, our flight from the USA to South Africa was canceled and we were rebooked a day later but Anja was great about making sure our lodge and the transports knew about the change in plans and made sure we got to our trip as soon as we could. She was a great partner to have and communicated quickly whenever we reached out. I would highly recommend using her when planning a trip to Africa!
+
+Joanna
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 4, 2024
 
 > Prompt & knowledgeable
@@ -320,34 +344,6 @@ US
 > Fast responses and informative answers.
 
 Zadra Morgan
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 29, 2024
-
-> Nicole was amazing and dealt with all…
-
-> Nicole was amazing and dealt with all my requests and changes in a timely manner
-
-MARTY DIAMOND
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 29, 2024
-
-> Mel du Toit
-
-> Mel du Toit, gave us excellent service and was so quick to respond to our request!! We are looking to return to Simbavati, because of our previous experience there, and Mel has shown that we may continue to expect this !!! Thank you !!!
-
-JUDITH ANN
 
 ,
 
