@@ -26,51 +26,63 @@
 Terms of Use
 ============
 
-**Last revised 2018/05/24**
+\[Last Updated: November 21, 2024\]
 
-NitroPay is owned and operated by GG Software, LP.
+Welcome to https://nitropay.com/ (together with associated lending pages the “**Website**”). The Website is owned and operated by Overwolf Ltd. d/b/a Nitro and its affiliated companies (collectively “**Company**”). Please read these Terms of Use(“**Terms**”) carefully before using the Website. 
 
-GG Software LP., a Washington limited partnership, (“GG Software”) operates a suite of online advertising products (collectively, “Platform”). You may only use the Platform pursuant to the following terms and conditions, which you accept by your use of the Platform. GG Software, reserves the right to modify or revise these Terms of Use and/or Privacy Policy or its other policies at any time at its sole discretion. You should visit this page frequently to review the terms, as you are bound by them. Continued use of the Platform following GG Software’s posting of adjustments to these Terms of Use and/or Privacy Policy will constitute your acceptance of such changes or modifications. In the event that you do not agree to any adjustments of these Terms of Use and/or Privacy Policy, you should not continue to use the Platform.
+BY ACCESSING OR USING THE WEBSITE OR ANY PART THEREIN YOU AGREE TO BE LEGALLY BOUND BY THESE TERMS. IF YOU DO NOT ACCEPT THESE TERMS, DO NOT ACCESS TO OR USE IN ANY MANNER THE WEBSITE.
 
-License and Access
-------------------
+IF YOU ARE A PUBLISHER OR ADVERTISER THAT WISH TO USE OUR PLATFORM, PLEASE REFER TO OUR ADVERTISING REPRESENTATIVE AGREEMENT THAT GOVERNS YOUR USAGE OF THE PLATFORM AND ALL RELATED SERVICES
 
-GG Software grants you a non-exclusive right and license to access and use the Platform. This license does not include and strictly prohibits, without prior written consent, any resale of the Platform or its contents; any derivative use of the Platform or its contents; or any use of data mining, robots, or similar data gathering and extraction tools. The Platform, including its operation, interface and contents, are covered by international laws and treaties, and may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any unauthorized commercial purpose without the express prior written consent of GG Software.
+1. **Amendments To the Terms**
 
-Any unauthorized use shall immediately terminate the licenses and rights granted by GG Software and any Licensors hereunder, and may subject you to civil and/or criminal prosecution.
+The Company reserves the right to periodically amend or revise these Terms at our sole discretion; such changes will be effective immediately upon the display of the revised Terms. The last revision date will be reflected in the “Last Updated” header above. When material changes to these Terms occur, we will provide you with prior notice. Unless otherwise stated in such notice, the updated version of these Terms will become effective immediately upon such notice.
 
-You may not use any GG Software, Licensor, subsidiary, affiliate, co-brand partner, or other partner logo or other proprietary graphic or trademark as part of a link to the Site without first obtaining the express written consent of GG Software, the subsidiary, affiliate, co-brand partner or other partner or Licensor (as applicable).
+2. **The Services**
 
-GG Software does not guarantee continuous, uninterrupted or secure access to its services or the Site, and the operation of the Site may be interfered with by numerous factors outside or within GG Software’s control.
+The Website provides information and resources about our business, services, and other content related thereto, including without limitation, contact information, images, text, logos, icons, articles, videos, and other features (collectively “**Content**”). In addition, the Website provides you with means of communication which you can use to contact Company, request for a services, or otherwise (collectively, together with the Content shall be referred as the “**Services**”). Any information processed through such channels shall be subject to our [Privacy Policy](https://nitropay.com/privacy).
 
-Publisher Payments
-------------------
+The Company reserves the right to change, modify, suspend, or discontinue any aspect of the Services, at any time without notice to you and without any liability to you whatsoever in connection therewith.
 
-GG Software will pay the Publisher based on the net term outlined in their contract. Payment amounts shall be determined when final remittance notification is received by the Publisher. Any other revenue amounts are good-faith estimates by the Advertising Representative and should not be construed as final amounts.
+THE CONTENT IS INTENDED SOLELY FOR INFORMATIONAL AND BUSINESS PURPOSES. THE CONTENT IS NOT, NOR SHALL IT BE TAKEN AS PROFESSIONAL OR MEDICAL SERVICE OR ADVICE. COMPANY EXPRESSLY DISCLAIMS ALL LIABILITY IN RESPECT OF ANY ACTIONS TAKEN OR NOT TAKEN BASED ON ANY CONTENT AVAILABLE ON THE WEBSITE, WHICH ARE DONE AT YOUR OWN RESPONSIBILITY AND RISK.
 
-DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
-----------------------------------------------------
+3. **Representation, Warranties & Restriction of Use**
 
-THE SITE IS PROVIDED BY GG SOFTWARE ON AN “AS IS” AND ON AN “AS AVAILABLE” BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GG SOFTWARE MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THE SITE OR THE INFORMATION, CONTENT, GRAPHICS, LINKS, MATERIALS, PRODUCTS, OR SERVICES INCLUDED ON THE SITE, OR THEIR ACCURACY, RELIABILITY, COMPLETENESS OR TIMELINESS. IN ADDITION, THIRD PARTIES PROVIDE SOME OF THE MATERIAL ON THE SITE; TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GG SOFTWARE SHALL NOT BE RESPONSIBLE FOR ANY SUCH THIRD PARTY MATERIAL. YOU EXPRESSLY AGREE THAT YOUR USE OF THE SITE OR ANY TRANSACTION RESULTING THEREOF IS SOLELY AT YOUR OWN RISK. GG SOFTWARE DOES NOT GUARANTEE CONTINUOUS, UNINTERRUPTED OR SECURE ACCESS TO THE SITE OR THE SERVICES. OPERATION OF THE SITE MAY BE INTERFERED WITH BY NUMEROUS FACTORS OUTSIDE OF GG SOFTWARE’S CONTROL.
+You hereby represent and warrant: (i) that you are eligible to enter into these Terms, or, where applicable, you have all proper authorization to enter into these Terms; (ii) that you are not considered to be a “child,” “minor” or any other similar term, in your jurisdiction and that you are not under the age of 18; and (iii) to comply with all applicable laws regarding you access to the Website, including any intellectual property law.
 
-TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, GG Software DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY OR THIRD PARTY RIGHTS REGARDING THE SITE. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, MAKES NO WARRANTIES OR REPRESENTATIONS REGARDING ANY PRODUCTS OR SERVICES REVIEWED ON THE SITE OR BOUGHT AND/OR SOLD USING THE SITE, OR THAT SELLERS OR BUYERS WILL PERFORM AS PROMISED BY THEM, OR THAT THE SITE, ITS SERVERS, OR E-MAIL SENT FROM GG Software ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, GG Software WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THE SITE, INCLUDING, BUT NOT LIMITED TO, DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES, OR ANY DAMAGES RELATED TO LOSS OF BUSINESS OR BUSINESS OPPORTUNITIES.
+You further represent and warrant to not, and to authorize or encourage any third party to: (i) use the Services in a non-compliant, unlawful, illegal, fraudulent, inappropriate, or unauthorized manner (including that which would infringe upon the rights of a third party) or that is in breach of applicable law; (ii) circumvent, disable or otherwise interfere with security-related features of the Services or prevent others from using the Services; (iii) copy, modify, or create a derivative work of the Services, in whole or in part; (iv) reverse engineer, disassemble, decompile, decode, adapt, or otherwise attempt to derive or gain access to any software component of the Services in whole or in part; (v) remove, deface, obscure, or alter the Services, including any copyright notices, trademarks, other proprietary rights or disclaimers provided as part of the Services; (vi) create a database by systematically downloading and storing all or any Content; or (vii) use, access or attempt to access the Website with any automated means (including robots, scrapers, etc.).
 
-CERTAIN STATE LAWS IN THE UNITED STATES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS. IF YOU ARE DISSATISFIED WITH ANY OF THE CONTENTS OF THE SITE, OR DO NOT AGREE WITH THESE TERMS AND CONDITIONS, WITH GG Software’S PRIVACY POLICY OR ANY OTHER POLICIES OF THE SITE, YOUR SOLE REMEDY IS TO DISCONTINUE YOUR USE OF THE SITE.
+4. **Intellectual Property**
 
-Indemnity
----------
+The Services are exclusively owned by Company or its licensors. Except as explicitly provided herein, no license, right, title or interest to the Services shall be granted to you, and Company or its licensors reserve any and all rights, title and ownership to the Services (“**Company** **Intellectual Property**”). You shall not use any of Company Intellectual Property including copyrights, trademarks, trade names, logo or other intellectual property rights in any way except to the limited extent as may be expressly agreed in these Terms or subject to our prior written consent.
 
-To the maximum extent permitted by applicable law, you agree to defend, indemnify and hold GG Software, its subsidiaries, affiliates, co-brand partners, and other parties with which GG Software is under contract, and their respective officers, directors, employees and agents free and harmless from and against any claims, actions and demands, including, without limitation, any legal and accounting fees resulting from your use of the Platform and/or your breach of the Terms of Use and Privacy Policy and/or resulting from any and all content you submit to GG Software and/or the Platform. GG Software shall provide notice to you of any such claim, suit or proceeding.
+5. **Linked Sites**
 
-Governing Law
--------------
+The Website may contain features that may link you to third parties’ websites (“**Linked Sites**”). These features are provided by Company only as a convenience. The Linked Sites are not reviewed, owned, controlled or examined by us in any way. Company has no control over those Linked Sites, and assumes no responsibility for the content, privacy policies, or practices of any of those Linked Sites, or any additional links contained therein. In addition, Company will not and cannot censor or edit the content of any Linked Sites. The offering of these features does not imply Company’s endorsement of, or association with, the Linked Sites and by using the Website, You expressly release Company from any and all liability arising from your use of any Linked Sites. It is your sole responsibility to comply with the appropriate terms of service of the Linked Sites as well as with any other obligation under copyright, secrecy, defamation, decency, privacy, security and export laws related to the use of such Linked Sites and any content contained thereon. We encourage you to be aware when you have left the Website, read the terms and conditions and privacy policy of each other website that you visit, including the Linked Sites. In no event shall Company be liable to anyone for any damage arising from or occasioned by the creation or use of the Linked Sites or the information or material accessed-through these Linked Sites.
 
-These Terms of Use and Privacy Statement will be governed by and construed in accordance with the laws of the State of Washington, without regard to principles of conflicts or choice of law.
+6. **Disclaimer of Warranties**
 
-General
--------
+EXCEPT AS PROVIDED HEREIN, THE SERVICES ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, REPRESENTATIONS, WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, AND THOSE ARISING BY STATUTE OR FROM A COURSE OF DEALING OR USAGE OF TRADE, MARKETABILITY, SUITABILITY, INCOMPLETENESS, APPLICABILITY OR RELEVANCE OF THE CONTENT. YOU AGREE THAT COMPANY WILL NOT BE HELD RESPONSIBLE FOR ANY DECISION MADE OR ACTION TAKEN OR NOT TAKEN IN RELIANCE ON THE SERVICES NOR DOES IT ASSUMES ANY RESPONSIBILITY FOR ANY LOSS, INJURY OR DAMAGES INCURRED AS A RESULT OR IN CONNECTION WITH SUCH ACTIONS. COMPANY MAKES NO REPRESENTATION OR WARRANTIES THAT THE SERVICES ARE OR WILL BE AVAILABLE FOR USE IN ANY PARTICULAR LOCATION OR AT ANY SPECIFIC TIME. EXCEPT AS EXPRESSLY STATED HEREIN, COMPANY DOES NOT MAKE ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE SECURITY OF ANY INFORMATION YOU MAY PROVIDE OR ACTIVITIES YOU ENGAGE IN DURING THE COURSE OF YOUR USE OF THE SERVICES. YOUR USE OF THE SERVICES IS AT YOUR OWN RISK AND RESPONSIBILITY. APPLICABLE LAW MAY NOT ALLOW THE EXCLUSION OF CERTAIN WARRANTIES, SO TO THAT EXTENT CERTAIN EXCLUSIONS SET FORTH HEREIN MAY NOT APPLY.
 
-If any provision of these Terms of Use and Privacy Policy is held to be invalid, void or unenforceable for any reason, such provision shall be struck and the remaining provisions shall remain enforceable. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. You agree that these Terms of Use and Privacy Policy and all agreements and notices incorporated herein may be automatically assigned by GG Software, in our sole discretion, to a third party. You may not assign your obligations to any other entity.
+7. **Limitation of Liabilities**
+
+YOU ACKNOWLEDGE AND AGREE THAT TO THE FULLEST EXTENT PERMITTED BY LAW, COMPANY AND EACH OF COMPANY’S RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES AND AGENTS (COLLECTIVELY “**COMPANY** **GROUP**”), SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, OR EXEMPLARY DAMAGES OR DAMAGES FOR LOST PROFITS, INTERRUPTION, LOSS OF DATA, LOSS OF GOODWILL, WORK STOPPAGE, DEVICE FAILURE, OR MALFUNCTION, OR DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SERVICES, EVEN IF UDARAD HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+8. **Indemnification**
+
+You agree to defend, indemnify and hold the Company Group harmless from any third party claims, damages, liabilities and expenses (including reasonable attorney’s fees) arising from (i) your use of and interaction with the Services in a manner infringing these Terms, and any other applicable laws governing such access and use, including by negligence and any wrongful act; and (ii) your abuse or infringement of third party rights through the Services.
+
+9. **Termination**
+
+You can terminate these Terms at any time by ceasing your access to and use of the Services. Company may terminate these Terms at any time, with or without cause, effective immediately.
+
+10. **Jurisdiction**
+
+These Terms shall be governed by and construed in accordance with the laws of the State of Israel without giving rise to any conflict of law principals therein. You hereby agree to resolve any dispute you have exclusively in the competent courts in the state of Tel-Aviv, Israel.
+
+11. **Miscellaneous**
+
+These Terms constitute the entire understanding between you and Company with respect to your use of the Services. Your relationship with Company is that of an independent contractor, and nothing in these Terms is intended to, or should be construed to create a partnership, agency, joint venture or employment relationship. If any provision of these Terms is held to be unenforceable, such provision shall be reformed only to the extent necessary to make it enforceable and such decision shall not affect the enforceability of such provision under other circumstances, or of the remaining provisions hereof under all circumstances. Failure by Company to enforce any rights or to take action against you in the event of any breach hereunder shall not be deemed as a waiver of such rights or of subsequent actions in the event of future breaches. These Terms and any right granted herein may not be assigned by you without the prior written consent of Company.
 
 We use cookies to improve your experience and increase the relevancy of content when using Nitro. Our cookies are used for analytics, optimization, and advertising operations. [Learn more](https://nitropay.com/privacy).[Got it](#)
 
