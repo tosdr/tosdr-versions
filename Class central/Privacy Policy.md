@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. javascript
     
-2. cyber security
+2. project management
     
-3. flutter
+3. French
     
 
 Popular subjects
 
-1. [Cybersecurity
+1. [Web Development
     
-    17,012 courses](https://www.classcentral.com/subject/cybersecurity)
-2. [Accounting
+    13,901 courses](https://www.classcentral.com/subject/web-development)
+2. [Graphic Design
     
-    1,256 courses](https://www.classcentral.com/subject/accounting)
-3. [Python
+    4,410 courses](https://www.classcentral.com/subject/graphic-design)
+3. [Business Management
     
-    10,055 courses](https://www.classcentral.com/subject/python)
+    563 courses](https://www.classcentral.com/subject/business-management)
 
 Popular courses
 
-1. [Introducción a la genética y la evolución
+1. [Education for All: Disability, Diversity and Inclusion
     
-    Universidad Autónoma de Madrid](https://www.classcentral.com/course/genetics-universidad-autonoma-de-madrid-introducc-8591)
-2. [Introduction to Linux
+    University of Cape Town](https://www.classcentral.com/course/education-for-all-5664)
+2. [Mining Massive Datasets
     
-    Linux Foundation](https://www.classcentral.com/course/linux-the-linux-foundation-introduction-to-linux-1857)
-3. [End of Life Care: Challenges and Innovation
+    Stanford University](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406)
+3. [Gamification
     
-    University of Glasgow](https://www.classcentral.com/course/end-of-life-care-16932)
+    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
