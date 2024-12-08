@@ -1,3 +1,5 @@
+Terms of use | Paycom                                                                
+
 [](#)[Skip to Main Content](#skip-nav-target)
 
 [Client](https://www.paycomonline.net/v4/cl/cl-login.php) [Employee](https://www.paycomonline.net/v4/ee/ee-login.php) [Accountant](https://www.paycomonline.net/v4/cl/cl-login.php?ftype=2)
