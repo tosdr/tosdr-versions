@@ -259,21 +259,21 @@ Advertise with Us
 
 Most Popular
 
-[![ALERT: Nearly 400,000 and businesses without power following Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Nearly 400,000 and businesses without power following Storm Darragh")](https://www.derrynow.com/news/national-news/1675203/alert-nearly-400-000-and-businesses-without-power-following-storm-darragh.html)
+[![Teenage e-scooter user critically injured in 'serious road traffic incident'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenage e-scooter user critically injured in 'serious road traffic incident'")](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
 
-Damage assessments are being made and crews are restoring supply, where safe to do so.
+The scene of the incident on Saint Brendan's Road remains preserved for a technical examination.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[ALERT: Nearly 400,000 and businesses without power following Storm Darragh](https://www.derrynow.com/news/national-news/1675203/alert-nearly-400-000-and-businesses-without-power-following-storm-darragh.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Teenage e-scooter user critically injured in 'serious road traffic incident'](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Police end search for missing County Derry man](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police end search for missing County Derry man")](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Police end search for missing County Derry man](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![70,000 still left in the dark as ESB repairs Storm Darragh damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "70,000 still left in the dark as ESB repairs Storm Darragh damage")](https://www.derrynow.com/news/national-news/1675367/lights-back-on-for-70-000-as-esb-begins-to-repair-storm-darragh-damage.html)
 
@@ -293,21 +293,14 @@ A Status Yellow Wind warning will remain in effect for all of Ireland until 3pm 
 [Stay safe: Public advised to take care in the aftermath of Storm Darragh](https://www.derrynow.com/news/national-news/1675308/stay-safe-public-advised-to-take-care-in-the-aftermath-of-storm-darragh.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Trains and some buses suspended as Storm Darragh hits Northern Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Trains and some buses suspended as Storm Darragh hits Northern Ireland")](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
+[![120,000 still without power as Storm Darragh aftermath kicks in](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "120,000 still without power as Storm Darragh aftermath kicks in")](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Tributes flood in following the death of iconic Irish singer Dickie Rock](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes flood in following the death of iconic Irish singer Dickie Rock")](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
-
-Pictured: Dickie Rock performing at the Millennium Forum for the last time in 2020.
+ESB Networks thanks customers, especially those who will remain without power over the coming days, for their patience as their crews work to safely restore power.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[President Michael D Higgins leads tributes to 'iconic figure' Dickie Rock](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[120,000 still without power as Storm Darragh aftermath kicks in](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
 
@@ -315,6 +308,15 @@ Pictured: Dickie Rock performing at the Millennium Forum for the last time in 20
 
 [IN PICTURES: Coleraine comes alive with festive cheer](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![ALERT: Gardaí launch investigation following discovery of man's body in Cork](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí launch investigation following discovery of man's body in Cork")](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
+
+The Coroner has been notified and a post mortem will take place in due course.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[ALERT: Gardaí launch investigation following discovery of man's body in Cork](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Uisce Éireann activates emergency response amid impact of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann activates emergency response amid impact of Storm Darragh")](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
 
@@ -325,21 +327,19 @@ There are some simple steps people can take to conserve water, such as avoiding 
 [Uisce Éireann activates emergency response amid impact of Storm Darragh](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely")](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
-
-Even the smallest piece of information, which may seem insignificant, may assist the investigation.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man dies after tree falls on van as Storm Darragh lashes UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man dies after tree falls on van as Storm Darragh lashes UK")](https://www.derrynow.com/news/northern-ireland/1675342/man-dies-after-tree-falls-on-van-as-storm-darragh-lashes-uk.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man dies after tree falls on van as Storm Darragh lashes UK](https://www.derrynow.com/news/northern-ireland/1675342/man-dies-after-tree-falls-on-van-as-storm-darragh-lashes-uk.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -409,7 +409,7 @@ Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
+[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mac Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training")](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
@@ -521,6 +521,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
+
+Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -528,7 +537,7 @@ Advertise with Us
 [Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IMG_1601-1733400881733.jpg--.jpg?1733400882937 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -555,13 +564,6 @@ Advertise with Us
 
 [Police end search for missing County Derry man](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Rural Village / Town Centres Facade Painting Regeneration Scheme completed within the Derry Council area](https://www.derrynow.com/resizer/165/93/true/2024_12_06/Covid_Small_Settlement_Recovery_%284%29-1733489066254.jpg--.jpg?1733489066724 "Rural Village / Town Centres Facade Painting Regeneration Scheme completed within the Derry Council area")](https://www.derrynow.com/news/local-news/1674569/rural-village-town-centres-facade-painting-regeneration-scheme-completed-within-the-derry-council-area.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Rural Village / Town Centres Facade Painting Regeneration Scheme completed within the Derry Council area](https://www.derrynow.com/news/local-news/1674569/rural-village-town-centres-facade-painting-regeneration-scheme-completed-within-the-derry-council-area.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
