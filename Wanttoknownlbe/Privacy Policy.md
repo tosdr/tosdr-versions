@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kalfjes-doen-niet-aan-zelf-suggestie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/pokken-en-vaccinaties-het-echte-verhaal/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -180,15 +180,15 @@ Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](h
 
 #### Meelezen, meeleven
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/Judith-Moore-artikel-banner-afgescheidenheid-en-illusie.jpg?fit=730%2C422&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/olifant-oversterfte-1.jpg?fit=628%2C440&ssl=1)
 
-### [Kosmische info via Judith Moore..!](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
+### [Eerst toch de oorzaak oversterfte boven water??!!](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
-by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [31 oktober 2024](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
+by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [8 december 2024](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
-[Judith Moore reikt je in deze column diep-fundamentele informatie aan, vanuit een kosmisch perspectief, over de huidige situatie op Aarde. Meer dan lezenswaardige info, die we in deze tijd mogen gebruiken om de situatie op Aarde te duiden. Niet alleen zitten we in een mega-transformatie van ongekende omvang; de duistere krachten, die deze Aarde en de mensheid zó lang hebben geknecht, gemanipuleerd en tot slaaf gemaakt, proberen wanhopig het tij te keren. Het is een onbegonnen zaak, deze lichtvloed te keren. Ieder mensenhart wordt aangeraakt en reageert op ‘eigen wijze’.. …](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/)
+[Dat de ’herhaalprik’-campagne tegen corona in volle gang is, is feitelijk bizar. Ruim 1 miljoen mensen die in de rij gaan staan voor een mRNA-injectie, die feitelijk nog NOOIT is geëvalueerd. Medische wetenschappers en gerenommeerde artsen wereldwijd, delen hun diepe, diepe ongerustheid. Zo ook in Nederland, waar het de artsen Jorine Hammink en Felix van der Wissel grote zorgen baart. Voor hen beginnen we bij het begin: “Een belangrijke vraag hangt immers nog altijd boven de markt, namelijk of er een mogelijke link is tussen de aanhoudende oversterfte en de mRNA-corona-injecties?” Hier hun verhaal/column. …](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/)
 
-Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) Tagged [buitenaards](https://www.wanttoknow.nl/trefwoorden/buitenaards/), [geloof](https://www.wanttoknow.nl/trefwoorden/geloof/), [God](https://www.wanttoknow.nl/trefwoorden/god/), [hemelse boodschappen](https://www.wanttoknow.nl/trefwoorden/hemelse-boodschappen/), [Inspiratie](https://www.wanttoknow.nl/trefwoorden/inspiratie/), [nieuw tijdperk](https://www.wanttoknow.nl/trefwoorden/nieuw-tijdperk/), [nieuwe aarde](https://www.wanttoknow.nl/trefwoorden/nieuwe-aarde/), [scheppingskracht](https://www.wanttoknow.nl/trefwoorden/scheppingskracht/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/kosmische-info-via-judith-moore/#respond)
+Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/meelezen/) [Laat een reactie achter](https://www.wanttoknow.nl/inspiratie/meelezen/eerst-toch-de-oorzaak-oversterfte-boven-water/#respond)
 
 [![Banner Bookshop WantToKnow](https://www.wanttoknow.nl/wp-content/uploads/banner-bookshop-WantToKnow.png)](https://bookshop.wanttoknow.nl/)
 
