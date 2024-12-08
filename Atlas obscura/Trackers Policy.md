@@ -24,29 +24,7 @@ Loading...
 
 Loading...
 
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [!["The Travellers’ Tour Through the United States" is the earliest known board game to depict a map of the U.S.](https://img.atlasobscura.com/_mi45_ixBF4PPtkB2S6uPY1lMebngexwsRKlwx8Gk8o/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81NjA3NzQxZi1k/ZTNjLTQ1MDgtOTg4/Mi1kMzEzYWQ2MDFh/N2VmMTM0Nzg3ZGJh/NjI4N2NkMTNfZjY5/NmFhODY2OTY0NjA2/Yzc2X1RyYXZlbGxl/cnNfVG91ci5wbmc.png)
-
-5 Tales of Bizarre Holiday Gift-Giving](https://www.atlasobscura.com/articles/bizarre-holiday-gifts)
-
-   [![Because chimpanzees primarily eat fruit, they also ingest a lot of alcohol.](https://img.atlasobscura.com/CLIRvztnSuFTLZYXvS6IzYgQq32Y82tipOVlLrk1M8A/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mOTUyZjBiYi01/MjQ3LTQ5MWYtODRk/Yi1kOTQwY2NhM2M0/NjZhZGNmYjdmYzFh/Y2NlZDM1MWNfR2V0/dHlJbWFnZXMtMTM5/ODI1MjI0LmpwZw.jpg)
-
-The Booze-Soaked Lives of Wild Animals](https://www.atlasobscura.com/articles/do-animals-get-drunk)
-
-   [![The Global Seed Vault in Svalbard, Norway, photographed at dusk.](https://img.atlasobscura.com/eDNz3xoO3xcwgPqyKbds0pkKLk87O3tQ88lJdjcLI0w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mZjhhMjNlM2Mx/MGNkMjc2MjFfU3Zh/bGJhcmRfR2xvYmFs/X1NlZWRfVmF1bHRf/KDIzMjczMjgxOTcy/KS5qcGc.jpg)
-
-Svalbard's Global Seed Vault Banks Biodiversity and Sprouts Controversy](https://www.atlasobscura.com/articles/svalbard-global-seed-vault-purpose)
-
-   [![Developed by Farrell Monaco, our Black Banquet included dark loaves of bread, beans, dates, and fish—all inspired by an ancient tombstone.](https://img.atlasobscura.com/G4oiBv5nxaAh4gMwuekEdiyM8PlNECpL5HdX8Bnydsc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy84MTA1ODU3YzI3/YWU5Y2JjNWVfUGhv/dG8gU2VwIDI0IDIw/MjIsIDUgMjAgMjcg/UE0uanBn.jpg)
-
-Recreating an Ancient Roman Dinner of Death](https://www.atlasobscura.com/articles/how-to-make-death-dinner-black-banquet)
+Loading...
 
 No search results found for  
 “”
