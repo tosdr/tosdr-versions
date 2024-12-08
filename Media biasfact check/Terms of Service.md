@@ -147,6 +147,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/)
+    
+    December 8, 2024
+    
 * [Univision – Bias and Credibility](https://mediabiasfactcheck.com/univision-bias-and-credibility/)
     
     December 8, 2024
@@ -175,13 +179,13 @@ No related posts.
     
     December 7, 2024
     
-* [Luton News – Bias and Credibility](https://mediabiasfactcheck.com/luton-news-bias/)
-    
-    December 7, 2024
-    
 
 #### Recently Updated Pages
 
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 8, 2024
+    
+* [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/ "View Warsaw Voice – Bias and Credibility") - December 8, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 8, 2024
     
 * [Univision – Bias and Credibility](https://mediabiasfactcheck.com/univision-bias-and-credibility/ "View Univision – Bias and Credibility") - December 8, 2024
@@ -198,23 +202,19 @@ No related posts.
     
 * [PCMag – Bias and Credibility](https://mediabiasfactcheck.com/pcmag-bias-and-credibility/ "View PCMag – Bias and Credibility") - December 7, 2024
     
-* [Santa Fe Reporter – Bias and Credibility](https://mediabiasfactcheck.com/santa-fe-reporter-bias-and-credibility/ "View Santa Fe Reporter – Bias and Credibility") - December 7, 2024
-    
-* [Der Status – Bias and Credibility](https://mediabiasfactcheck.com/der-status-bias-and-credibility/ "View Der Status – Bias and Credibility") - December 7, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [The Hill - Bias and Credibility](https://mediabiasfactcheck.com/the-hill/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [MBFC's Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/07/mbfcs-daily-vetted-fact-checks-for-12-07-2024-weekend-edition/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
+* [MBFC's Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/07/mbfcs-daily-vetted-fact-checks-for-12-07-2024-weekend-edition/)
 
 #### Subscribe via Email
 
