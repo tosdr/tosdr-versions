@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Dave has a unique ability to create a safe, non-judgmental space where I felt comfortable sharing my deepest fears and vulnerabilities. His guidance and support have been invaluable in helping me navigate a difficult period in my life. I’m grateful for his expertise and compassion.”_
+_“At first I thought I had to do what everyone else wanted and that I just had to get through the day meeting everyone’s demands. Then I learned that I can state my boundaries and what I will and won’t do and what I do and don’t want to do. And people actually respected that (the majority of people, there’s still people who try to push and get what they want more than anything).”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
