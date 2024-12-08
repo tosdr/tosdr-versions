@@ -26,9 +26,9 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joeyshadesmyers-1200-x-628-1200x630.jpg)](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
-[Media pushing Biden ‘preventive’ pardons but some Dems cool on idea](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
+[Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-assad-1200x630.jpg)](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
 
@@ -42,25 +42,29 @@ Search for:
 
 [Fetterman rips ‘sh\*tty’ left-wing rag’s ‘inevitable’ spin on the murder of CEO](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetherston-1200x630.jpg)](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joeyshadesmyers-1200-x-628-1200x630.jpg)](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
 
-[Insider speaks out about child rape, violence at Massachusetts shelters for migrants](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
+[Media pushing Biden ‘preventive’ pardons but some Dems cool on idea](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hcso-paul-1200x630.jpg)](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogancovid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
 
-[Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+[Joe Rogan responds to House COVID report: ‘ALL the conspiracy theorists were correct’](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcdowell-1200x630.jpg)](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nbc-1200x630.png)](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
 
-[Fox Business anchor shreds James Carville: He’s not ‘some sort of wise southern soothsayer’](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
+[Trump talks Day One pardon for J6ers, says of Biden payback: ‘Retribution will be through success’](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-oreilly-1200x630.jpg)](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-litton-sg-featherriver-1200x630.jpg)](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
 
-[O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+Images via Butte County Sheriff's Office
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-1200x630.jpg)
+[Two Calif. kindergartners shot at Christian school over alleged Gaza ‘genocide’](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
 
-### Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-1200x630.jpeg)
+
+(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)
+
+### Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,15 +82,33 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogancovid-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tapper-mullin-220x180.jpg)](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
 
-[Joe Rogan responds to House COVID report: ‘ALL the conspiracy theorists were correct’](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[CNN’s Jake Tapper shut down by GOP senator when he peddles Hegseth ‘drinking problem’ narrative](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-220x180.jpeg)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-220x180.jpg)](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
 
-[Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+[Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
 
-(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-220x180.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+
+[‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-220x180.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+
+[Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-austinlloyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
+
+[Biden regime emptying wallet with another $988M earmarked for Ukraine](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-boltoncnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
+
+[‘He’s lying’: Slimeball John Bolton insinuates Syrian intrigue with Tulsi Gabbard](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
+
+[Megyn Kelly sets record straight on rumors of new CBS show challenging ‘The View’](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
 
@@ -159,28 +181,6 @@ Images via NYPD
 [As China floods U.S. market with illegal vapes, the International Trade Commission is poised to make it worse](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
 
 CFOTO/Future Publishing via Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-blanche-220x180.jpg)](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
-
-[Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-220x180.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
-
-[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
-
-(Photo by Kevin Dietsch/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Milley-220x180.jpg)](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
-
-[WH officials reportedly considering pre-emptive pardon for Gen. Milley and more](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
-
-[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
-
-[Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
