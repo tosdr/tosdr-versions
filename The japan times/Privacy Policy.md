@@ -500,6 +500,10 @@ Revised June 1, 2022
 
   [![Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
+[Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+
+  [![Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438252.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.")](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+
 Podcast
 -------
 
@@ -519,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -563,23 +567,13 @@ Latest News
 
 [Ishiba vows to show resolve in run-up to Upper House poll](https://www.japantimes.co.jp/news/2024/12/08/japan/politics/ishiba-upper-house-poll-resolve/ "Ishiba vows to show resolve in run-up to Upper House poll")
 
-7 hours ago
-
 [South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
-
-8 hours ago
 
 [South Korea’s ex-defense chief is detained over martial law episode](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/south-koreas-ex-defense-chief-detained/ "South Korea’s ex-defense chief is detained over martial law episode")
 
-9 hours ago
-
 [Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
 
-9 hours ago
-
 [Japan's crown prince and crown princess return from visit to Turkey](https://www.japantimes.co.jp/news/2024/12/08/japan/japan-crown-prince-turkey-trip/ "Japan's crown prince and crown princess return from visit to Turkey")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
