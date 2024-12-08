@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
+1. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Pamela-Monslave-BWC-432x243.jpg)](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
+    
+    ### ['I gave it back': Florida woman explains alleged kidnapping of 3-year-old, says 'everybody was like don't get the little boy'](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
+    
+2. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
     ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-2. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
+3. [![Philip Sean Grillo (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/j6-432x243.jpg)](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
+    
+    ### ['Trump's gonna pardon me': Jan. 6 rioter who smoked marijuana in the Capitol defiantly tells off judge at his sentencing](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
+    
+4. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
     ### ['Expects your voluntary compliance': Jim Jordan gives Fani Willis a tight deadline to turn over Jack Smith documents](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
-3. [![Shane Lamond and Enrique Tarrio](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Shane-Lemond-and-Enrique-Tarrio-1-432x243.jpg)](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
+5. [![Left to right: Sintia Perez and Jace Hirschy appear in booking photos.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Perez-Hirschy-432x243.jpg)](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
     
-    ### ['You're not in charge': Judge shuts down Proud Boys leader serving Jan. 6 sentence at trial for cop accused of being 'double agent'](https://lawandcrime.com/high-profile/youre-not-in-charge-judge-shuts-down-proud-boys-leader-serving-jan-6-sentence-at-trial-for-cop-accused-of-being-double-agent/)
-    
-4. [![Inset, top to bottom: Jon K. Ewing (Shawnee County Department of Corrections) and Deborah Ann Stephens (Dove Funeral Home). Background: The trailer where Ewing killed Stephens (WIBW).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/adfasdfadfa-432x243.jpg)](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
-    
-    ### [Man ambushed and killed ex-girlfriend with ax after threatening to 'cut her head clean off'](https://lawandcrime.com/crime/man-ambushed-and-killed-ex-girlfriend-with-ax-after-threatening-to-cut-her-head-clean-off/)
-    
-5. [![Geoffrey Kay-Conway Sr. appears in a booking photo](https://am23.mediaite.com/lc/cnt/uploads/2023/11/Geoffrey-Kay-Conway-Sr-432x243.jpg)](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
-    
-    ### ['Could have Killed her 17 times if i wanted': Man who left a note prematurely bragging how his wife ‘totally underestimated' him sentenced for trying to kidnap, rape, and murder her](https://lawandcrime.com/crime/could-have-killed-her-17-times-if-i-wanted-man-who-left-a-note-prematurely-bragging-how-his-wife-totally-underestimated-him-sentenced-for-trying-to-kidnap-rape-and-murder-her/)
+    ### ['Darkly discolored': Parents allegedly left 2-year-old girl in closet with space heater overnight until she died with an internal body temperature over 109 degrees](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
     
 
 [](http://eepurl.com/c89Jdb)
