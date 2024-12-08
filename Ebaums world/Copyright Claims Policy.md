@@ -197,13 +197,13 @@ Advertisement
 
 * ### eBaum's Picks
     
-    [![scared straight](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/) [The Most Terrifying 7 Seconds of Scared Straight](https://www.ebaumsworld.com/videos/the-most-terrifying-7-seconds-of-scared-straight/85155945/)
+    [![behind the scene pic pf NPR's tiny desk](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/) [18 Fascinating Photos That Offer a Unique Perspective](https://trending.ebaumsworld.com/pictures/18-things-seen-from-a-different-perspective/87496175/)
     
-    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/) [‘You Got Lamb Chops, You Got Steak!’ Guy Refuses to Split $4,600 Bill Just Because It’s Somebody's Birthday](https://www.ebaumsworld.com/videos/guy-refuses-to-split-4600-bill-just-because-its-somebodys-birthday/87423166/)
+    [![elevangelist Kenneth Copeland defends his lavish lifestyle](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/) [Megachurch Pastor Tries To Justify His Lavish Lifestyle](https://www.ebaumsworld.com/videos/megachurch-pastor-tries-to-justify-his-lavish-lifestyle/85973301/)
     
-    [![Guy playing a guitar](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/) [Heavy Metal Without Distortion Is Basically Surf Rock From Hell](https://www.ebaumsworld.com/videos/heavy-metal-without-distortion-is-basically-surf-music-from-hell/85155941/)
+    [![james corden](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/) [James Corden Once Stole a Joke From Ricky Gervais Word for Word](https://www.ebaumsworld.com/videos/james-corden-ripps-a-joke-off-of-ricky-gervais-word-for-word/87297984/)
     
-    [![22 Bits of Twitter Cringe That Should Get Off the App](https://cdn.ebaumsworld.com/img/blank.gif)](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/) [22 Bits of Twitter Cringe That Should Get Off the App](https://trending.ebaumsworld.com/pictures/24-bits-of-twitter-cringe-that-should-get-off-the-app/87505567/)
+    [![](https://cdn.ebaumsworld.com/img/blank.gif)](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/) [Russian Man With Balls of Steel Doesn't Shoot Mama Bear that Charges Him](https://www.ebaumsworld.com/videos/bear-charges-at-russian-hunter/87310903/)
     
 
 * Advertisement
