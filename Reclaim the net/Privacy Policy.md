@@ -14,14 +14,14 @@
     
 * [Big Tech Alternatives](https://reclaimthenet.org/category/tools)
     
-* [Merch](https://shop.reclaimthenet.org/)
+* [Shop](https://shop.reclaimthenet.org/)
     
 * [Donate](https://donorbox.org/reclaim-the-net)
     
 
 [![Reclaim The Net Logo](https://reclaimthenet.org/wp-content/uploads/2020/04/reclaim-the-net-logo.png)](https://reclaimthenet.org/)
 
-[Subscribe](https://reclaimthenet.org/join)
+[Subscribe](https://reclaimthenet.org/go/subscribe-reclaim)
 
 [Sign In](https://members.reclaimthenet.org/auth/sign_in)
 
@@ -136,9 +136,9 @@ If you have any questions about this privacy policy, the Platform, or your deali
 
 Updated September 10, 2019.
 
-* [Login](https://reclaimthenet.org/?memberful_endpoint=auth)
+* [Login](https://members.reclaimthenet.org/auth/sign_in)
 * [Home](https://reclaimthenet.org/)
-* [Merch](https://shop.reclaimthenet.org/)
+* [Shop](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 * [Donate Crypto](https://reclaimthenet.org/donate-cryptocurrency)
 * [Contact](https://reclaimthenet.org/contact)
@@ -156,13 +156,13 @@ Updated September 10, 2019.
 Search  Search
 
 * [Home](https://reclaimthenet.org/)
-* [Subscribe](https://reclaimthenet.org/join)
-* [Merch](https://shop.reclaimthenet.org/)
+* [Subscribe](https://reclaimthenet.org/go/subscribe-menu)
+* [Shop](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 
 * [Home](https://reclaimthenet.org/)
-* [Subscribe](https://reclaimthenet.org/join)
-* [Merch](https://shop.reclaimthenet.org/)
+* [Subscribe](https://reclaimthenet.org/go/subscribe-menu)
+* [Shop](https://shop.reclaimthenet.org/)
 * [Donate](https://donorbox.org/reclaim-the-net)
 
 SUPPORTERS:
@@ -177,16 +177,6 @@ SUPPORTERS:
 * [Merch Discount](https://reclaimthenet.org/merch-discount/)
 * [Resources](https://reclaimthenet.org/resources/)
 
-Share
+Share this post
 
-[![](https://reclaimthenet.org/wp-content/uploads/2023/06/telegram-icon.png)](https://t.me/share/url?url=https://reclaimthenet.org/privacy)
-
-[![](https://reclaimthenet.org/wp-content/uploads/2023/06/fb-icon.png)](https://www.facebook.com/sharer/sharer.php?u=https://reclaimthenet.org/privacy)
-
-[![](https://reclaimthenet.org/wp-content/uploads/2020/07/x-share-white.jpg)](https://twitter.com/share?&url=https://reclaimthenet.org/privacy)
-
-[![](https://reclaimthenet.org/wp-content/uploads/2023/06/gab-icon2.png)](https://gab.com/compose?url=https://reclaimthenet.org/privacy)
-
-[![](https://reclaimthenet.org/wp-content/uploads/2023/06/gettr-icon.png)](https://gettr.com/share?url=https://reclaimthenet.org/privacy)
-
-[![](https://reclaimthenet.org/wp-content/uploads/2023/06/minds-icon.png)](https://www.minds.com/newsfeed/subscriptions/latest?intentUrl=https://reclaimthenet.org/privacy)
+[](https://t.me/share/url?url=https://reclaimthenet.org/privacy)[](https://x.com/share?&url=https://reclaimthenet.org/privacy)[](https://truthsocial.com/share?&url=https://reclaimthenet.org/privacy)[](https://www.facebook.com/sharer/sharer.php?u=https://reclaimthenet.org/privacy)[](https://gab.com/compose?url=https://reclaimthenet.org/privacy)[](https://www.minds.com/newsfeed/subscriptions/latest?intentUrl=https://reclaimthenet.org/privacy)[](https://gettr.com/share?url=https://reclaimthenet.org/privacy)[](https://bsky.app/intent/compose?text=https://reclaimthenet.org/privacy)
