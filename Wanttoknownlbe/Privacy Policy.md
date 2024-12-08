@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/pokken-en-vaccinaties-het-echte-verhaal/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/professor-zuboff-over-de-fb-google-dataroof/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
