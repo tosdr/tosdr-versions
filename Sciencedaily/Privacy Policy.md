@@ -230,9 +230,9 @@ this week
 
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
+[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Immune System](https://www.sciencedaily.com/news/health_medicine/immune_system/)
+[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -240,7 +240,7 @@ this week
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
+[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
