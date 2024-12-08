@@ -31,6 +31,134 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Pilotos de narcos usan visores nocturnos para aterrizar en Manabí
+=================================================================
+
+Este 2024 se han destruido siete pistas en Manabí que eran usadas para el envío de droga a México y Centroamérica. Usan avionetas Cessna.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![La última pista inhabilitada en Manabí fue en el sitio Manantiales de Montecristi. Medía 1,5 kilómetros de longitud. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/12/Pistas-1.jpg)
+
+Las **Fuerzas Armadas** han detectado que las **avionetas** aterrizan en caminos aplanados de tan solo **300 metros de largo en Ecuador.**
+
+Incluso, los **pilotos** **ya no requieren de luces** para sus maniobras de aproximación durante el arribo.
+
+“Ahora los narcos han apostado a la tecnología y los tripulantes de las avionetas usan visores nocturnos sin la necesidad de ubicar mecheros artesanales a lo largo de las pistas clandestinas” expresó **Carlos Yánez, comandante de la Fuerza Aérea Ecuatoriana (FAE).**
+
+Él manifestó que los pilotos también portan **radios portátiles** para establecer contacto durante el vuelo sin que requieran una torre de control improvisada para coordinar el aterrizaje o despegue.
+
+**Yánez** dijo que ha identificado varias **pistas clandestinas en Manabí** y todas están ubicadas a cinco kilómetros de la orilla del mar.
+
+“Por seguridad no puedo decir cuántas existen, pero todas han sido estudiadas y las mantenemos bajo supervisión para ser inhabilitadas en los próximos días” anunció.
+
+### Más noticias
+
+* [Narcos se interesan por los mecánicos hidráulicos en Manabí](https://www.elcomercio.com/actualidad/seguridad/narcos-se-interesan-por-los-mecanicos-hidraulicos-en-manabi.html "Narcos se interesan por los mecánicos hidráulicos en Manabí")
+* [Ecuador supera las 269 toneladas de drogas incautadas durante 2024](https://www.elcomercio.com/actualidad/ecuador/ecuador-supera-269-toneladas-drogas-incautadas-durante-2024.html "Ecuador supera las 269 toneladas de drogas incautadas durante 2024")
+* [Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga](https://www.elcomercio.com/actualidad/seguridad/extranjeros-ecuatoriano-fueron-detenidos-manabi-droga.html "Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga")
+
+La destrucción de pistas clandestinas
+-------------------------------------
+
+En este 2024 han destruido **siete pistas en Manabí** que eran usadas para el envío de **droga a México**, **El** **Salvador, Guatemala y Costa Rica.** Emplean **avionetas Cessna**.
+
+Las pistas estaban ubicadas en los cantones de **Pedernales, Rocafuerte, Montecristi, Jama y Jipijapa**.
+
+La última narcopista fue destruida el 13 de junio de 2024, en el sitio **Manantiales de Montecristi**.
+
+Es una comunidad rural donde han encontrado avionetas estrelladas, abandonadas e incineradas con sus pilotos a bordo.
+
+También, han descubierto cargas de droga enterradas dentro de fincas y haciendas.
+
+Yánez presume que los narcos prefieren **Manantiales por su geografía**. Tiene un suelo plano y cercanía al mar. Eso facilita las operaciones aéreas de las redes narco delictivas, agregó.
+
+“La pista inhabilitada en **Montecristi** medía 1,5 kilómetros de largo por 10 de ancho. Lo curioso es que ya había sido destruida hace cuatro años cuando hicieron el hallazgo de una avioneta tipo Jet con matrícula mexicana. Es decir, volvieron a habilitarla con maquinarias pesadas para compactar el suelo” añadió.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Pista-2-1024x683.jpg)
+
+  
+
+En la primera intervención hicieron excavaciones a lo largo de la pista, pero ahora usaron dinamita para impedir que el suelo siga firme.
+
+El estallido hizo que la tierra quedará frágil. En la destrucción participaron militares del **Comando Operacional Aéreo, Agentes de Inteligencia, Pilotos de Seguridad y Especialistas en Neutralización de Material Explosivo** (EOD, por sus siglas en inglés). La pista estaba ubicada en medio de un cultivo de maíz.
+
+Los controles aéreos
+--------------------
+
+El **Ministerio de Defensa** de Ecuador cuenta con un **Sistema Aéreo** que detecta vuelos irregulares en todo el país con radares ubicados en distintas provincias.
+
+El 2023 detectaron **seis vuelos clandestinos en Manabí** y ninguna aeronave logró ser interceptada.E
+
+Este 2024 no han reportado ninguna **operación ilícita de avionetas**, pese al hallazgo de las seis pistas clandestinas en terrenos ubicados en zonas agrícolas y despobladas.
+
+En la **Fiscalía de Montecristi** se informó que cuando la **Policía** descubre las avionetas en las narcopistas no pueden investigar a los propietarios de aquellos terrenos porque no están legalizadas.
+
+En otras ocasiones las investigaciones determinan que son tierras comunales que han sido invadidas por narcos que no son identificados.
+
+La entidad judicial ha establecido que las pistas, además de ser usadas para exportar droga, también sirven para importar armamento y traer dinero.
+
+Bachar al Asad abandonó el poder en Siria y huyó
+================================================
+
+El presidente electo de EE.UU., Donald Trump, aseguró que Bachar al Asad huyó porque Rusia ya no está interesada en protegerlo.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![La gente celebra en la calle después de que los rebeldes sirios capturaron la ciudad de Damasco, en Damasco, Siria, este 8 de diciembre de 2024. EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Siria.jpg)
+
+Luego de 24 años aferrado al poder en la **Siria** que heredó de su padre, **Hafez**, quien a su vez lo tomó en 1971, el **presidente Bachar al Asad** cayó este domingo 8 de diciembre de 2024.
+
+Abandonó el cargo tras 12 días de una vertiginosa ofensiva de una **coalición islamista rebelde,** que asegura haber “liberado” al **país árabe** de sus “garras”.
+
+Hasta el momento, se desconoce el paradero del que muchos consideran un “dictador” y, quien según el **Observatorio Sirio de Derechos Humanos** habría terminado sus días como presidente sirio embarcado en un avión con rumbo desconocido tras la toma de **Damasco** por parte de la **alianza islamista Hayat Tahrir al Sham (HTS, o Organismo de Liberación del Levante).**
+
+### Más noticias
+
+* [Irán acusa a EE.UU. e Israel de respaldar a ‘terroristas’ para desestabilizar Siria](https://www.elcomercio.com/actualidad/mundo/iran-acusa-a-ee-uu-e-israel-de-respaldar-a-terroristas-para-desestabilizar-siria.html "Irán acusa a EE.UU. e Israel de respaldar a ‘terroristas’  para desestabilizar Siria")
+* [Irán pone en libertad temporal a la Nobel Mohammadi por este motivo](https://www.elcomercio.com/actualidad/mundo/iran-pone-en-libertad-temporal-a-nobel-mohammadi-por-este-motivo.html "Irán pone en libertad temporal a la Nobel Mohammadi por este motivo")
+* [Hizbulá compromete el alto el fuego con Israel al disparar dos misiles](https://www.elcomercio.com/actualidad/mundo/hizbula-compromete-alto-el-fuego-israel-misiles.html "Hizbulá compromete el alto el fuego con Israel al disparar dos misiles")
+
+Oftalmólogo formado en Londres
+------------------------------
+
+Al Asad, nacido en Damasco en 1965, estudió Medicina y se especializó en oftalmología en la capital siria, donde al acabar sus estudios ejerció como médico militar por un tiempo.
+
+El joven, al que no se le atribuían **aspiraciones políticas**, se marchó luego a **Londres** para continuar con su formación profesional.
+
+Sin embargo, dos años más tarde, en 1994, una **fortuita tragedia familiar cambiaría** el curso de su vida para siempre: el **accidente de tráfico** que acabó con la vida de su **hermano Basel,** el hijo mayor y presumible heredero en el poder del entonces presidente sirio, Hafez al Asad.
+
+**Bachar** fue llamado a **Siria** por su padre y se embarcó en un lustro de preparación para eventualmente tomar la batuta del país, al igual que había hecho el primogénito los años previos a su muerte, ganando experiencia en las filas castrenses y peso en la vida pública.
+
+El momento llegó en 2000 cuando **Hafez al Asad falleció** tras casi tres décadas en el poder, al que había accedido por un golpe de Estado.
+
+Trump dijo que Rusia ya no protegía a Bachar Al Asad
+----------------------------------------------------
+
+El **presidente electo de EE.UU., Donald Trump**, aseguró que Bachar al Asad huyó porque su aliado, el **presidente ruso, Vladimir Putin,** ya “no está interesado en protegerlo”.
+
+“Asad se ha ido. Ha huido de su país. Su protector, Rusia, liderada por Vladimir Putin, ya no estaba interesada en protegerlo. No había ninguna razón para que Rusia estuviera allí en primer lugar. Perdieron todo interés en **Siria debido a Ucrani**a, donde cerca de 600 000 soldados rusos yacen heridos o muertos, en una guerra que nunca debió haber comenzado”, **escribió Trump en la red social Truth Social.**
+
+Rebeldes sirios asaltaron embajada iraní
+----------------------------------------
+
+La **Embajada de Irán en Damasco** fue asaltada este domingo 8 de diciembre por los rebeldes que han tomado la **capital siria**, aunque la legación diplomática ya había sido evacuada, informaron fuentes oficiales del país persa.
+
+“Los diplomáticos iraníes habían evacuado la legación antes del asalto de los terroristas de Hayat Tahrir al Sham ( HTS o el Organismo de Liberación del Levante, en español), dijo el portavoz del **Ministerio de Exteriores iraní, Ismail Baghaei, al diario Tehran Times.**
+
+**Baghaei** aseguró que “todo el personal iraní se encuentra a salvo”.
+
+**Medios iraníes** mostraron vídeos en árabe de la embajada con fotografías en su fachada destrozadas del fallecido líder de **Hizbulá Hasan Nasrala o el general de la Guardia Revolucionaria iraní Qasem Soleimaní,** así como el interior de la legación con numerosos destrozos.
+
+Alemania pide que Siria no caiga en manos de radicales
+------------------------------------------------------
+
+La **ministra de Asuntos Exteriores alemana, Annalena Baerbock**, celebró el colapso del régimen en Siria, pero advirtió de que el país no debe caer ahora en **manos de “radicales”.**
+
+Llamó a proteger a las **minorías étnicas y religiosas** y a poner en marcha un proceso político inclusivo.
+
+“No se puede decir con certeza qué pasará ahora en Siria. Pero está claro que el final de (Bachar al) Asad significa para millones de personas en Siria un primer respiro de alivio tras una eternidad de horrores por parte del régimen”, escribió en un hilo en la **red social X.**
+
+La ministra verde recordó que cientos de miles de personas han muerto en la guerra civil desde 2011 y millones han huido y enfatizó que el presidente sirio debe rendir cuentas ante la justicia por haber “asesinado, torturado y usado armas químicas contra la propia población”.
+
 Cartas a Quito / 8 de diciembre de 2024
 =======================================
 
@@ -64,6 +192,24 @@ Ecuador tiene una alta **productividad** en muchos bienes primarios que necesita
 
 Los **migrantes ecuatorianos** ya son una parte vital de la **economía** de nuestro país. Aprovechar al máximo su potencial, es crucial y que los **políticos**, así como cada ecuatoriano, vean a los **migrantes** como **emprendedores**, mostrando la migración en forma positiva, como **ecuatorianos** de vanguardia, que ensanchan el productivo y amado **Ecuador** a todos los confines del planeta.
 
+Adriano: la novela histórica
+============================
+
+Yourcenar mostró rigor y pasión en recrear el mundo clásico.
+------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Un espacio en el que la **literatura y la historia** se tocan, no siempre con éxito, es la **novela histórica**, donde se pretende recrear no solo los hechos sino también la subjetividad de los **personajes históricos.** Y aunque la objetividad de historia ha sido cuestionada desde los años noventa, sobre todo por el movimiento relacionado con el **giro lingüístico**, hay obras que son incuestionablemente superiores en el género.
+
+Uno de esos casos es ‘Memorias de Adriano’, de Marguerite Yourcenar, quien en las cartas a sus amigos dejó **testimonio de la rigurosidad** con que emprendió la obra. En distintas misivas relata que fue escrita entre 1949 y 1951, aunque una década antes ya tenía sus primeras quince páginas y había concebido la forma en que la relataría: serían las **memorias del emperador romano**, quien analizaba su vida desde la perspectiva de la muerte que lo acechaba.
+
+De todas maneras, había perdido el proyecto de vista y solo lo retomó cuando redescubrió el manuscrito en el fondo de un baúl que le fue enviado de Europa a Estados Unidos, donde residía, cuando retomó su escritura, que le tomó dos años y medio.
+
+La rigurosidad de Yourcenar le hizo cuestionar incluso a historiadores cualificados, quienes presentaban hipótesis como hechos y hacían decir a Adriano lo que querían, mediante interpretaciones forzadas. Esto llevó a la autora a adquirir lo que llamaba una ‘pasión seca por la exactitud’, un afán de sinceridad para **superar el desorden, la confusión y la falta de rigor intelectual.**
+
+Prescindió de un sistema deliberado de estilo, en aras de la exactitud. Por ello, en la revisión del libro hecha en 1958, el único añadido significativo que hizo fue agregar la bibliografía con la que había trabajado, pese a la **hostilidad de los editores franceses** de colocar ese complemento en una novela histórica, por considerarlo ‘pura y simple erudición’, pero insistió porque creía indispensable atacar la creciente **ignorancia del público moderno sobre el mundo clásico**.
+
 Batalla sin ganadores 
 ======================
 
@@ -85,24 +231,6 @@ Vale reflexionar con tranquilidad en el sentido de que, en el difícil escenario
 Está claro que, la resolución de la jueza N. Vera a cargo de atender la **acción de protección planteada y/o en su momento de la Corte Constitucional**, lo que se estaría jugando no serían las pretensiones de Abad, sino, propiamente cimientos importantes  de la democracia e institucionalidad del Estado de derecho.
 
 Pero, lo que no está claro aún y sigue siendo un misterio es ¿cuáles son las razones, que se entendería son de fondo, del irreconciliable distanciamiento de Noboa frente a Abad? La respuesta, sin duda, solo la tiene el presidente y, la ciudadanía, el justo derecho de conocerlas. 
-
-Adriano: la novela histórica
-============================
-
-Yourcenar mostró rigor y pasión en recrear el mundo clásico.
-------------------------------------------------------------
-
-![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
-
-Un espacio en el que la **literatura y la historia** se tocan, no siempre con éxito, es la **novela histórica**, donde se pretende recrear no solo los hechos sino también la subjetividad de los **personajes históricos.** Y aunque la objetividad de historia ha sido cuestionada desde los años noventa, sobre todo por el movimiento relacionado con el **giro lingüístico**, hay obras que son incuestionablemente superiores en el género.
-
-Uno de esos casos es ‘Memorias de Adriano’, de Marguerite Yourcenar, quien en las cartas a sus amigos dejó **testimonio de la rigurosidad** con que emprendió la obra. En distintas misivas relata que fue escrita entre 1949 y 1951, aunque una década antes ya tenía sus primeras quince páginas y había concebido la forma en que la relataría: serían las **memorias del emperador romano**, quien analizaba su vida desde la perspectiva de la muerte que lo acechaba.
-
-De todas maneras, había perdido el proyecto de vista y solo lo retomó cuando redescubrió el manuscrito en el fondo de un baúl que le fue enviado de Europa a Estados Unidos, donde residía, cuando retomó su escritura, que le tomó dos años y medio.
-
-La rigurosidad de Yourcenar le hizo cuestionar incluso a historiadores cualificados, quienes presentaban hipótesis como hechos y hacían decir a Adriano lo que querían, mediante interpretaciones forzadas. Esto llevó a la autora a adquirir lo que llamaba una ‘pasión seca por la exactitud’, un afán de sinceridad para **superar el desorden, la confusión y la falta de rigor intelectual.**
-
-Prescindió de un sistema deliberado de estilo, en aras de la exactitud. Por ello, en la revisión del libro hecha en 1958, el único añadido significativo que hizo fue agregar la bibliografía con la que había trabajado, pese a la **hostilidad de los editores franceses** de colocar ese complemento en una novela histórica, por considerarlo ‘pura y simple erudición’, pero insistió porque creía indispensable atacar la creciente **ignorancia del público moderno sobre el mundo clásico**.
 
 Pablo ‘Vitamina’ Sánchez busca el título con el apoyo de su familia
 ===================================================================
@@ -922,93 +1050,3 @@ Es **14,4%** si se compara con el 2023. Solo en noviembre, el IVA generó **88
 -----------------------------
 
 De enero a octubre de 2024, el total de ventas en Ecuador alcanzó los **190 507 millones**, un crecimiento del **1,6%** frente al mismo periodo de 2023, informó el **Servicio de Rentas Internas.**
-
-Los guardianes de las montañas y su lucha contra la minería ilegal en Colombia
-==============================================================================
-
-Desde hace seis décadas esta cordillera era explotada por mineros ilegales que, para extraer el oro de sus entrañas.
---------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de un militar observando una herramienta de minería ilegal durante un operativo de seguridad en el parque nacional Los Farallones, en Cali (Colombia).](https://www.elcomercio.com/wp-content/uploads/2024/12/mineria-colombia.jpg)
-
-Quienes custodian las montañas del **Parque Nacional Natural Los Farallones**, situado en el suroeste de Colombia, a más de **3 400 metros sobre el nivel del mar**, saben que vivir en condiciones casi inhóspitas y expuestos a ataques armados es **difícil pero tiene su recompensa.**
-
-### Más noticias
-
-* [Ministro de Hacienda de Colombia renuncia tras revelar posible escándalo para Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/ministro-hacienda-colombia-renuncia-tras-revelar-posible-nuevo-escandalo-para-petro.html "Ministro de Hacienda de Colombia renuncia tras revelar posible escándalo para Gustavo Petro")
-* [En Colombia tramitan una ley para regular el uso de redes sociales en menores de 14 años](https://www.elcomercio.com/actualidad/mundo/colombia-tramitan-ley-regular-uso-redes-sociales-menores-14-anos.html "En Colombia tramitan una ley para regular el uso de redes sociales en menores de 14 años")
-* [Colombia pide indulto para Simón Trinidad, guerrillero de las FARC atrapado en Ecuador](https://www.elcomercio.com/actualidad/mundo/colombia-pide-indulto-a-ee-uu-a-simon-trinidad-guerrillero-de-las-farc-atrapado-en-ecuador.html "Colombia pide indulto para Simón Trinidad, guerrillero de las FARC atrapado en Ecuador")
-
-Desde hace seis décadas esta cordillera era **explotada por mineros ilegales** que, para extraer el oro de sus entrañas, habían armado su **imperio en empinadas laderas** hasta que comandos de la Policía y el Ejército retomaron el control de la zona para proteger su biodiversidad.
-
-Para ascender hasta el punto donde los guardianes tienen sus **tres campamentos** es necesario caminar entre nueve y doce horas, dependiendo de las condiciones del clima, y cargando más de 40 kilos de equipaje y armamento.
-
-Al comenzar el recorrido llenan las **cantimploras de agua** porque solo podrán volver a hacerlo cinco horas después, cuando el ascenso los lleve a una quebrada que está a pocos kilómetros de un punto conocido como Alto del Buey.
-
-Uno de ellos es el capitán **Andrés Mauricio Portilla, de los Carabineros de la Policía Metropolitana de Cali,** quien ha hecho decenas de veces el mismo trayecto desde el año pasado y hasta parece disfrutar cada vez que lo envían con sus hombres a la ‘Misión Farallones’.
-
-“Veo en las montañas de Cali un trabajo que no quiero abandonar hasta tener la satisfacción del deber cumplido”, asegura el oficial mientras patrullaba la mina conocida como ‘El Feo’.
-
-Según las autoridades, los **ilegales obtuvieron en 2023 ganancias de hasta 36 millones de dólares** en las minas de la zona, dejando toneladas de residuos sólidos como **latas, botellas y plástico**. Además vertieron hasta una tonelada de mercurio en la montaña.
-
-Un mundo aparte en la montaña
------------------------------
-
-Las operaciones para expulsarlos fueron intensas. En la **mina ‘Patequeso’,** por ejemplo, había hectáreas de selva deforestadas, cerca de **800 personas hacinadas**, maquinaria para triturar piedra y hasta contaban con un prostíbulo en el que las mujeres **cobraban por sus servicios gramos de oro.**
-
-“Hicimos el cierre de más de **20 bocaminas en seis sectores** (…) Acompañamos al personal de la empresa que iba a realizar la implosión, verificamos las minas con el fin de garantizar que no hubiese personas dentro y brindamos seguridad las 24 horas”, afirma el **mayor Gustavo Escobar,** comandante del Grupo de Operaciones Especiales Contra la Explotación Ilícita de Minerales No. 4 de la Policía.
-
-En las operaciones participaron los **mejores hombres contra la minería ilegal de Colombia**, procedentes de distintas regiones del país, resguardados bajo carpas para soportar temperaturas de entre cero y **cuatro grados centígrados** en las noches y pendientes de los radioteléfonos.
-
-En el horizonte se ven las luces de Cali -ciudad que se abastece del **agua que nace en Los Farallones**\-, y en el cielo millones de estrellas. La camaradería es única, todos tienen labores específicas y se cuidan como una familia.
-
-“Aquí nadie baja la guardia, somos un **grupo de hermanos que amamos lo que hacemos.** Puede ser duro estar lejos de la familia en estas misiones, pero para esto estamos entrenados, para cuidar los recursos y nuestra gente”, asegura Cristian Camilo Cuervo, intendente de la Unidad Nacional contra Minería Ilegal de la Policía.
-
-Las caminatas entre una mina y otra pueden durar horas. Por seguridad, siempre va un oficial abriendo el paso y otro lo cierra. En la reciente **‘Operación Farallones’** también estuvo el intendente Bernardo Grisales, quien hace seis años hace un dúo con ‘Otto’, un perro de la raza pastor belga malinois que no lo desampara.
-
-“Mi compañero de cuatro patas se convirtió en el **terror de los ilegales** y en todo el país le tienen respeto. Aquí lo cuidamos entre todos, es un oficial más de la misión”, indica.
-
-En la montaña hay que estar alerta las 24 horas. El patrullero Freddy Cabrera, que hace guardia mientras sus colegas desayunan, almuerzan o duermen, recuerda que nunca hay oportunidad para quedarse quieto. “Aquí todos somos guardianes de los Farallones”, dice.
-
-Junto al Ejército, en una acción coordinada con la **Alcaldía de Cali, Parques Nacionales, la Gobernación del Valle y el Ministerio de Ambiente**, lograron cerrar once minas que permanecían abiertas y la misión ahora es vigilar la cordillera para que los ilegales no vuelvan a devastar el bosque.
-
-“Me gusta venir acá, escalar la montaña y asegurar que el agua que toma la gente está libre de contaminación. Esta misión me confirmó que **cuidamos miles de vidas, miles de niños, miles de familias**“, concluye Edinson Berrío, intendente de los Carabineros de la Policía de Cali. 
-
-Michail Antonio, jugador del West Ham, está “estable” tras un siniestro de tránsito
-===================================================================================
-
-Michail Antonio enfrentó a la Selección de Ecuador en la Copa América 2024, con la Selección de Jamaica.
---------------------------------------------------------------------------------------------------------
-
-![Michail Antonio sufrió un fuerte siniestro de tránsito en Inglaterra.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T152330.396.jpg)
-
-El futbolista británico-jamaicano **Michail Antonio**, jugador del **West Ham United**, está “estable” y “consciente” tras haber protagonizado un accidente de tráfico este sábado en una zona del condado de Essex, Inglaterra, según informó el club londinense.
-
-La entidad de la **Premier** emitió un primer comunicado en el que corroboraba que el delantero internacional, de 34 años, “se vio **involucrado hoy en un accidente de tráfico en carretera**“, sin proporcionar, entonces, pormenores de lo sucedido.
-
-### Más noticias:
-
-* [El fútbol inglés navega en medio de cinco polémicas](https://www.elcomercio.com/deportes/futbol/inglaterra-campana-hosexualidad-religion-polemica.html "El fútbol inglés navega en medio de cinco polémicas")
-* [Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-golean-se-afianzan-como-sublideres-de-la-premier.html "Chelsea y Moisés Caicedo golean y se afianzan como sublíderes de la Premier")
-* [Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier](https://www.elcomercio.com/deportes/pervis-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier")
-
-“Los **pensamientos y oraciones de todo el mundo en el club están con Michail**, su familia y amigos en estos momentos”, agregaba el West Ham en esa primera nota.
-
-Michail Antonio está estable
-----------------------------
-
-Posteriormente, el club divulgó una nueva notificación para informar de que el internacional **“está estable y se comunica”.**
-
-“El West Ham United puede confirmar que Michail Antonio se encuentra en condición estable tras sufrir un accidente de tráfico ocurrido esta tarde en la zona de Essex”, apuntó la entidad.
-
-Agregó que “Michail está consciente y se comunica y actualmente se encuentra bajo estrecha supervisión en un hospital del centro de Londres”.
-
-“En este difícil momento, pedimos amablemente a todo el mundo que respete la privacidad de Michail y su familia. El club no hará más comentarios esta tarde, pero emitirá una nueva actualización a su debido tiempo”, señala el West Ham.
-
-El club de Londres se pronunció, en un principio, sobre lo ocurrido después de que comenzaran a circular por internet imágenes sin verificar que mostraban un **Ferrari** **destrozado** y apuntaban a un accidente supuestamente grave, si bien estos extremos no habían sido confirmados.
-
-Tras difundirse la noticia del accidente, varios clubes rivales empezaron a publicar mensajes en los que enviaban “buenos deseos” para el jugador y sus allegados.
-
-“Todas las p**ersonas del Arsenal envían su cariño, apoyo y buenos deseos a Michail**, su familia y el West Ham United”, según un mensaje colgado en redes sociales del Arsenal, mientras que el Chelsea dedicó sus “pensamientos a Michail y su familia”.
-
-El atacante para la selección de Jamaica juega por **décima temporada con los “hammers”** tras haberse unido al equipo inglés procedente del Nottingham Forest en 2015 y en sus 323 intervenciones para la plantilla ha marcado 83 goles.
