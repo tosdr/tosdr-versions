@@ -1,8 +1,9 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1SlAwoAAbQAAABcEQE)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1T5jQoAAbQAAABcZ3g)
 
 Es noticia
 
 * [Lotería Navidad](https://www.elmundo.es/loterias/loteria-navidad/comprobar-loteria.html)
+* [Girona-Real Madrid](https://www.elmundo.es/deportes/futbol/primera-division/2024/12/07/6754a374e4d4d8e4508b458e.html)
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
 * [Guerra Ucrania Rusia](https://www.elmundo.es/internacional/2024/12/07/6753f065a75cca89413d24b1-directo.html)
 * [Aldama](https://www.elmundo.es/espana/2024/12/06/67536cbe21efa054778b45a6.html)
