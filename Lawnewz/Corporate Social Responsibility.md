@@ -99,23 +99,23 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Popular post image](https://lawandcrime.com/wp-content/uploads/2024/12/Pamela-Monslave-BWC-432x243.jpg)](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
+1. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Pamela-Monslave-BWC-432x243.jpg)](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
     
     ### ['I gave it back': Florida woman explains alleged kidnapping of 3-year-old, says 'everybody was like don't get the little boy'](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
     
-2. [![Donald Trump in Wisconsin.](https://lawandcrime.com/wp-content/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
+2. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
     ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
     
-3. [![Philip Sean Grillo (U.S. Attorney's Office).](https://lawandcrime.com/wp-content/uploads/2024/12/j6-432x243.jpg)](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
+3. [![Philip Sean Grillo (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/j6-432x243.jpg)](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
     
     ### ['Trump's gonna pardon me': Jan. 6 rioter who smoked marijuana in the Capitol defiantly tells off judge at his sentencing](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
     
-4. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://lawandcrime.com/wp-content/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
+4. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
     ### ['Expects your voluntary compliance': Jim Jordan gives Fani Willis a tight deadline to turn over Jack Smith documents](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
     
-5. [![Left to right: Sintia Perez and Jace Hirschy appear in booking photos.](https://lawandcrime.com/wp-content/uploads/2024/12/Perez-Hirschy-432x243.jpg)](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
+5. [![Left to right: Sintia Perez and Jace Hirschy appear in booking photos.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Perez-Hirschy-432x243.jpg)](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
     
     ### ['Darkly discolored': Parents allegedly left 2-year-old girl in closet with space heater overnight until she died with an internal body temperature over 109 degrees](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
     
