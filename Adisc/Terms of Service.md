@@ -239,7 +239,7 @@ Last edited: Nov 8, 2024
 
 * ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
 
-Reactions: abdllfc, Gaz, WaffleTear and 151 others
+Reactions: StarKiddo, abdllfc, Gaz and 152 others
 
 Status
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1733661916) [LinkedIn](#_xfUid-1-1733661916) [Reddit](#_xfUid-1-1733661916) [Pinterest](#_xfUid-1-1733661916) [Tumblr](#_xfUid-1-1733661916) [WhatsApp](#_xfUid-1-1733661916) [Email](#_xfUid-1-1733661916) [Share](#_xfUid-1-1733661916) [Link](#_xfUid-1-1733661916)
+[X (Twitter)](#_xfUid-1-1733683479) [LinkedIn](#_xfUid-1-1733683479) [Reddit](#_xfUid-1-1733683479) [Pinterest](#_xfUid-1-1733683479) [Tumblr](#_xfUid-1-1733683479) [WhatsApp](#_xfUid-1-1733683479) [Email](#_xfUid-1-1733683479) [Share](#_xfUid-1-1733683479) [Link](#_xfUid-1-1733683479)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1733661916%2C7de5bdaef8749f0837dac49dc3dd7706) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1733661916%2C7de5bdaef8749f0837dac49dc3dd7706)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1733683479%2C22f5898a309cff7e8bc5593b0485858b) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1733683479%2C22f5898a309cff7e8bc5593b0485858b)
     
     * Essential cookies
     
