@@ -255,15 +255,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
+[Ishiba vows to show resolve in run-up to Upper House poll](https://www.japantimes.co.jp/news/2024/12/08/japan/politics/ishiba-upper-house-poll-resolve/ "Ishiba vows to show resolve in run-up to Upper House poll")
 
-[Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
+1 hour ago
 
-[Yoon impeachment vote puts focus on South Korea’s generational gap](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/south-korea-generational-divide/ "Yoon impeachment vote puts focus on South Korea’s generational gap")
+[South Korea’s ruling party vows ‘orderly exit’ for Yoon](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea’s ruling party vows ‘orderly exit’ for Yoon")
 
-[Dozens arrested in overnight crackdown on Georgia pro-EU protests](https://www.japantimes.co.jp/news/2024/12/07/world/georgia-protesters-arrested/ "Dozens arrested in overnight crackdown on Georgia pro-EU protests")
+2 hours ago
 
-[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
+[South Korea’s ex-defense chief is detained over martial law episode](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/south-koreas-ex-defense-chief-detained/ "South Korea’s ex-defense chief is detained over martial law episode")
+
+3 hours ago
+
+[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
+3 hours ago
+
+[Japan's crown prince and crown princess return from visit to Turkey](https://www.japantimes.co.jp/news/2024/12/08/japan/japan-crown-prince-turkey-trip/ "Japan's crown prince and crown princess return from visit to Turkey")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
