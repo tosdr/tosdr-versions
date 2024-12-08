@@ -598,13 +598,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/8dd11721074f6e34_8806-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
-[![The Ultimate Lighting Sale Under $199](https://st.hzcdn.com/fimgs/45011887074d0596_0951-w150-h150-b4-p0--home-design.jpg)
-
-The Ultimate Lighting Sale Under $199Up to 80% off](https://www.houzz.com/ideabooks/178986219)[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/27b1951e074d058f_0945-w150-h150-b4-p0--home-design.jpg)
-
-The Ultimate Rug SaleUp to 80% off](https://www.houzz.com/ideabooks/179046299)[![The Ultimate Furniture Sale](https://st.hzcdn.com/fimgs/5d219152074d0594_0949-w150-h150-b4-p0--home-design.jpg)
-
-The Ultimate Furniture SaleUp to 80% off](https://www.houzz.com/ideabooks/179063691)[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/fe7185ef074d0595_0949-w150-h150-b4-p0--home-design.jpg)
+[![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/fe7185ef074d0595_0949-w150-h150-b4-p0--home-design.jpg)
 
 Cyber Bestsellers Under $299Up to 80% off](https://www.houzz.com/ideabooks/178967095)
 
@@ -619,24 +613,6 @@ Cancel
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
 [Cyber Week Sale](https://www.houzz.com/products/sale-event--cyber-monday-sale)
-
-[![The Ultimate Lighting Sale Under $199](https://st.hzcdn.com/fimgs/45011887074d0596_0951-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 80% OFF
-
-The Ultimate Lighting Sale Under $199](https://www.houzz.com/ideabooks/178986219) 
-
-[![The Ultimate Rug Sale](https://st.hzcdn.com/fimgs/27b1951e074d058f_0945-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 80% OFF
-
-The Ultimate Rug Sale](https://www.houzz.com/ideabooks/179046299) 
-
-[![The Ultimate Furniture Sale](https://st.hzcdn.com/fimgs/5d219152074d0594_0949-w150-h150-b0-p0--home-design.jpg)
-
-UP TO 80% OFF
-
-The Ultimate Furniture Sale](https://www.houzz.com/ideabooks/179063691) 
 
 [![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/fe7185ef074d0595_0949-w150-h150-b0-p0--home-design.jpg)
 
