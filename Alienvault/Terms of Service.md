@@ -1,3 +1,9 @@
+be\_ixf;ym\_202412 d\_07; ct\_50
+
+* be\_ixf; php\_sdk; php\_sdk\_1.4.26
+* https://cybersecurity.att.com/terms/website
+* https://cybersecurity.att.com/terms/website
+
 [Welcome to LevelBlue](https://www.alienvault.com/newsroom/press-releases/levelblue-launches-at-rsa)
 
 *     
@@ -7,7 +13,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue logo](https://cdn.levelblue.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/ "LevelBlue logo")
+[![LevelBlue logo](https://cdn-cybersecurity.att.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
 
 * Products & Services
     
@@ -113,9 +119,9 @@
             
             Product Brief
             
-            ##### LevelBlue Malware Risk Assessment Services
+            ##### LevelBlue API Security is the Intelligent Way to Protect Your APIs from Business Logic Abuse and Data Theft
             
-            [Learn more](https://cyber.levelblue.com/m/79286dd4cc57dad3/original/PB-Malware-Risk-Assessment.pdf)
+            [Learn more](https://cyber.levelblue.com/m/a4ce2dcca22a5bd/original/PB-API-Security.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -123,9 +129,9 @@
             
             Solution Brief
             
-            ##### Protect External-Facing Services Against DDoS Attacks and Keep Your Agency Running
+            ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://cyber.levelblue.com/m/66f6e8d3b7a54d12/original/SB-Protect-External-Facing-From-DDOS-Public-Sector.pdf)
+            [Learn more](https://cyber.levelblue.com/m/740b863bacd986b2/original/SB-Managed-Detection-Response.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -133,9 +139,9 @@
             
             video
             
-            ##### LevelBlue Network Security
+            ##### LevelBlue Managed Detection and Response
             
-            [Learn more](https://levelblue.com/resource-center/videos/levelblue-network-security)
+            [Learn more](https://cybersecurity.att.com/resource-center/videos/levelblue-managed-detection-and-response)
             
             [View all Videos](https://www.alienvault.com/resource-center#content_video)
             
@@ -143,9 +149,9 @@
             
             Customer Story
             
-            ##### Simplifying Security and Rapid Response for Providers
+            ##### Federal Agency Protected with LevelBlue DDoS Defense
             
-            [Learn more](https://cyber.levelblue.com/m/2a62d94a4fb431a0/original/CS-Simplifying-Security-for-Healthcare-Providers.pdf)
+            [Learn more](https://cyber.levelblue.com/m/585ce384c5ca0b5a/original/CS-Federal-Agency-Protected-with-DDoS-Defense.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
@@ -157,17 +163,17 @@
             
             ##### Frost Radar: Americas Managed Security Services 2024
             
-            [Learn more](https://levelblue.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
+            [Learn more](https://cybersecurity.att.com/resource-center/analyst-reports/frost-radar-americas-managed-security-services-2024)
             
             [View all Analyst Reports](https://www.alienvault.com/resource-center#content_analyst-reports)
             
         * [Blog Read the latest coverage on security matters](https://www.alienvault.com/blogs)
             
-            Blog: Security Essentials
+            blog
             
-            ##### How Regional Service Providers Can Grab a Larger Share of the Cybersecurity Market
+            ##### Ngioweb Remains Active 7 Years Later
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/how-regional-service-providers-can-grab-a-larger-share-of-the-cybersecurity-market)
+            [Learn more](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -175,9 +181,9 @@
             
             ebook
             
-            ##### Your Guide to Zero Trust and Endpoint Security
+            ##### Secure Your Inbox, Accelerate Compliance: LevelBlue Email Security with Check Point
             
-            [Learn more](https://levelblue.com/resource-center/ebook/your-guide-to-zero-trust-and-endpoint-security)
+            [Learn more](https://cybersecurity.att.com/resource-center/ebook/secure-your-inbox-with-check-point)
             
             [View all eBooks](https://www.alienvault.com/resource-center#content_ebook)
             
@@ -187,7 +193,7 @@
             
             ##### Elevate Your GRC Game: A Collaborative Approach with LevelBlue and OneTrust
             
-            [Learn more](https://levelblue.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
+            [Learn more](https://cybersecurity.att.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
@@ -197,7 +203,7 @@
             
             ##### Why Organizations Are Prioritizing Incident Readiness and Response in the Face of Regulatory Scrutiny
             
-            [Learn more](https://levelblue.com/resource-center/white-papers/orgs-prioritize-incident-response)
+            [Learn more](https://cybersecurity.att.com/resource-center/white-papers/orgs-prioritize-incident-response)
             
             [View all Whitepapers](https://www.alienvault.com/resource-center#content_white-paper)
             
@@ -205,7 +211,7 @@
         * [Support Overview Access area for all support queries](https://www.alienvault.com/support)
         * [Success Center Find answers to USM questions](https://success.alienvault.com/) 
         * [Certification Become security certified](https://www.alienvault.com/certification) 
-        * [Documentation Discover technical support documentation](https://www.alienvault.com/documentation/)
+        * [Documentation Discover technical support documentation](https://www.alienvault.com/documentation)
         * [Training Get expert instruction and hands-on practice](https://www.alienvault.com/training)
     
 * [Contact](https://www.alienvault.com/contact)
@@ -373,7 +379,7 @@ Customer Resources
 * [Support Overview](https://www.alienvault.com/support)
 * [Success Center](https://success.alienvault.com/)
 * [Certification](https://www.alienvault.com/certification)
-* [Documentation](https://www.alienvault.com/documentation/)
+* [Documentation](https://www.alienvault.com/documentation)
 * [Training](https://www.alienvault.com/training)
 
 WEBSITE TERMS OF USE
@@ -499,19 +505,19 @@ We exclude liability for actions taken in response to breaches of this Code of C
 
 Our failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice shall act to modify any provision of these Terms of Use. We may change, suspend or discontinue any aspect of our Site or service at any time. LevelBlue reserves the right to change system configurations, product specifications, upgrades, pricing, layouts, options and any other specifications at any time without notice. We may also impose limits or restrictions on certain services, features or content or restrict your access to parts or all of our Site without notice or liability.
 
-We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [cyberweb@levelblue.com](mailto:cyberweb@levelblue.com?subject=WEBSITE%20TERMS%20OF%20USE)
+We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [dl-cyberweb@att.com](mailto:dl-cyberweb@att.com?subject=WEBSITE%20TERMS%20OF%20USE%20-%20Date%20%2F%20Version%3A%2007%20May%202018)
 
-[LevelBlue logo LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
+[](https://www.alienvault.com/)
 
 From the Blog
 
-![Tawnya Lancaster](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Fernando Martinez](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Tawnya Lancaster
+#### Fernando Martinez
 
-Dec 4, 2024
+Nov 1, 2024
 
-### [How Regional Service Providers Can Grab a Larger Share of the Cybersecurity Market](https://levelblue.com/blogs/security-essentials/how-regional-service-providers-can-grab-a-larger-share-of-the-cybersecurity-market)
+### [Ngioweb Remains Active 7 Years Later](https://cybersecurity.att.com/blogs/labs-research/ngioweb-remains-active-7-years-later)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
@@ -541,6 +547,7 @@ Products
 * [USM Anywhere](https://www.alienvault.com/xdr)
 * [XDR for MSSPs](https://www.alienvault.com/products/usm-for-mssp)
 * [Open Threat Exchange (OTX)](https://www.alienvault.com/open-threat-exchange)
+* [OSSIM](https://www.alienvault.com/products/ossim)
 
 Solutions
 
@@ -560,7 +567,7 @@ Customer Success
 
 * [Support & Services](https://www.alienvault.com/support)
 * [Success Center](https://success.alienvault.com/)
-* [Documentation Center](https://www.alienvault.com/documentation/)
+* [Documentation Center](https://www.alienvault.com/documentation)
 * [Training](https://www.alienvault.com/training)
 * [Certification](https://www.alienvault.com/certification)
 
@@ -572,4 +579,8 @@ Customer Success
 * [Website Terms of Use](https://www.alienvault.com/terms/website)
 * [GDPR](https://www.alienvault.com/legal/gdpr)
 * [Cookie Policy](https://www.alienvault.com/legal/cookie-policy)
-* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn.levelblue.com/images/uploads/icons/privacyoptions.svg)
+* [Your Privacy Choices](https://about.att.com/privacy/choices-and-controls.html)![California Consumer Privacy Act (CCPA) Opt-Out Icon](https://cdn-cybersecurity.att.com/images/uploads/icons/privacyoptions.svg)
+
+We use cookies to provide you with a great user experience. By using our website, you agree to our [Privacy Policy](https://www.alienvault.com/legal/privacy-policy) and [Website Terms of Use](https://www.alienvault.com/terms/website).
+
+[](#)
