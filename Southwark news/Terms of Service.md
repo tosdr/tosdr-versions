@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
+    
+    ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
+    
+    [![South Western Railway (Flickr @MangopearUK)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-15.08-360x180.jpg)](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
+    
+    ### [Rail firm with services from London Bridge first to be nationalised next year](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
+    
+    [![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-360x180.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+    
+    ### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+    
     [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
     ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
@@ -43,18 +55,6 @@
     [![Gary Edwards, London Ambulance Service paramedic who was among first on the scene in the London Bridge Attack in 2017](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screengrab-1-CTM-Gary-360x180.jpg)](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
     
     ### [Paramedic first on scene in London Bridge terror attack recounts treating victims as gunshots fired around him](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-    
-    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-    
-    ### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-    
-    ### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-    
-    [![Cherry Gardens residents enjoying the annual outing.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_9564-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
-    
-    ### [Bermondsey residents enjoy free pantomime trip](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
+    
+    ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
+    
+    [![South Western Railway (Flickr @MangopearUK)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-15.08-360x180.jpg)](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
+    
+    ### [Rail firm with services from London Bridge first to be nationalised next year](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
+    
+    [![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-360x180.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+    
+    ### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+    
     [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
     ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
@@ -128,18 +140,6 @@ View All Result
     [![Gary Edwards, London Ambulance Service paramedic who was among first on the scene in the London Bridge Attack in 2017](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screengrab-1-CTM-Gary-360x180.jpg)](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
     
     ### [Paramedic first on scene in London Bridge terror attack recounts treating victims as gunshots fired around him](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-    
-    [![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-360x180.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-    
-    ### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-    
-    [![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-    
-    ### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-    
-    [![Cherry Gardens residents enjoying the annual outing.](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG_9564-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
-    
-    ### [Bermondsey residents enjoy free pantomime trip](https://southwarknews.co.uk/area/bermondsey/bermondsey-residents-enjoy-free-pantomime-trip/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -243,6 +243,12 @@ Terms of Use
 
 ### Featured Articles
 
+[![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-120x86.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+
+### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+
+[8th December 2024](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
+
 [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-120x86.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
 
 ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
@@ -272,12 +278,6 @@ Terms of Use
 ### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
 
 [6th December 2024](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-
-[![The 'very thin' dog was found dead at Whitehorse Road Recreation Ground in Croydon (RSPCA)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-13.12-120x86.jpg)](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
-
-### [RSPCA appeals for information after ‘very thin’ dog found dead in a south London park](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
-
-[6th December 2024](https://southwarknews.co.uk/area/south-london/rspca-appeals-for-information-after-very-thin-dog-found-dead-in-a-south-london-park/)
 
 ### USEFUL PAGES
 
