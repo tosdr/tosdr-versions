@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/George-Reyes-326x245.jpg)](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
+
+Gage Park
+
+### [22 years for gunman who killed key witness in a friend’s murder case](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
+
+[December 5, 2024 7:15 PM](https://cwbchicago.com/2024/12)
+
+A judge has sentenced a man to 22 years in prison for killing a key witness in a murder case pending against his friend. George Reyes, 22, pleaded guilty to murder in exchange for the sentence from Judge James Obbish on Wednesday, according to court records.[](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Stephen-Habel-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-setting-large-volumes-of-propane-ablaze-outside-lincoln-park-restaurant.html "Man charged with setting ‘large volumes’ of propane ablaze outside Lincoln Park restaurant")
 
 Lincoln Park
@@ -262,16 +272,6 @@ Rogers Park
 [December 5, 2024 10:41 AM](https://cwbchicago.com/2024/12)
 
 A secret GPS tracker allowed a Chicago police helicopter to locate and follow a carload of armed robbers for more than 25 miles across the city, resulting in one arrest, according to prosecutors.[](https://cwbchicago.com/2024/12/police-helicopter-tracks-gamestop-robbers-from-rogers-park-to-the-far-south-side.html "Police helicopter tracks GameStop robbers from Rogers Park to the Far South Side")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/700-blk-n-mich-crash-citizen-326x245.jpg)](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
-
-Magnificent Mile
-
-### [7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
-
-[December 5, 2024 6:35 AM](https://cwbchicago.com/2024/12)
-
-The driver of a stolen car ran a red light and crashed on the Magnificent Mile on Wednesday night, sending seven people, including three young children, to hospitals, according to Chicago police.[](https://cwbchicago.com/2024/12/7-injured-when-stolen-jeep-pursued-by-police-barrels-through-red-light-on-magnificent-mile.html "7 injured when stolen Jeep, pursued by police, barrels through red light on Magnificent Mile")
 
 Search
 
