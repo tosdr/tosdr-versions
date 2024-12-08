@@ -1,3 +1,5 @@
+[Breaking: Georgia football moves to No. 2 in CFP ranking, will rest up for Sugar Bowl](https://www.ajc.com/sports/georgia-bulldogs/georgia-bulldogs-move-to-no-2-will-rest-up-for-sugar-bowl/OLW5KZTZKVBDLIBYWMLHCHWFVY/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1871)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1871)](https://www.ajc.com/)
 
 Log In
