@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Insurgents advance in Syria: Army Withdraws, Assad Denies Fleeing](https://www.csmonitor.com/World/Middle-East/2024/1207/Insurgents-advance-in-Syria-Army-Withdraws-Assad-Denies-Fleeing "Insurgents advance in Syria: Army Withdraws, Assad Denies Fleeing")
+[### Ousted Syrian President reportedly in Moscow after rebel takeover](https://www.csmonitor.com/World/Middle-East/2024/1208/Ousted-Syrian-President-reportedly-in-Moscow-after-rebel-takeover "Ousted Syrian President reportedly in Moscow after rebel takeover")
 
-[### South Korean President Avoids Impeachment: What’s Next?](https://www.csmonitor.com/World/Asia-Pacific/2024/1207/South-Korean-President-Avoids-Impeachment-What-s-Next "South Korean President Avoids Impeachment: What’s Next?")
+[### UnitedHealthcare tragedy sparks conversations about insurance reform](https://www.csmonitor.com/USA/Society/2024/1208/UnitedHealthcare-tragedy-sparks-conversations-about-insurance-reform "UnitedHealthcare tragedy sparks conversations about insurance reform")
 
-[### Memphis police discriminate, protesters said. A new Justice Department report agrees.](https://www.csmonitor.com/USA/2024/1206/Memphis-Police-discrimination-Department-of-Justice-tyre-nichols-BLM "Memphis police discriminate, protesters said. A new Justice Department report agrees.")
+[### How farming is transforming lives for South Africa’s deaf population](https://www.csmonitor.com/World/Africa/2024/1208/How-farming-is-transforming-lives-for-South-Africa-s-deaf-population "How farming is transforming lives for South Africa’s deaf population")
 
 * * *
 
