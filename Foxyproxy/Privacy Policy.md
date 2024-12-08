@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I congratulate you to foxy proxy! It is a great tool and I love to use it :)
+I created a new subscription with the auto renewal option. I have had very good service from the existing subscription with a few exceptions when it seemed not to be fast enough to handle the video feed from the BBC Iplayer. Not a big deal, though. BBC is the primary reason I got the subscription and it has been nice to have. Thanks for the great service. It is well worth the price to have a proxy you can count on.
 
-Sara Kovacs
+Peter May
