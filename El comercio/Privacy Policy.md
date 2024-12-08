@@ -31,8 +31,131 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-El exministro de Corea del Sur fue arrestado por orden la fiscalía
-==================================================================
+Cartas a Quito / 8 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este domingo 8 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Muerte e inseguridad en 2 ruedas
+--------------------------------
+
+En todo vamos camino a Madurozuela y Correazuela. Nadie controla a las temerarias motos que invaden las calles y carreteras del país: GADs, Policía y ANT. Los de la Policía Nacional y de tránsito de los municipios que deben controlarlos, en Venezuela llaman motorizados, irrespetan igual los límites de velocidad, rebasan en zigzag, por izquierda, derecha, en medio, veredas, plazas, parques, ciclovías, en contra vía, sin placas, se pasan semáforos, etc. Con el cuidado y estrés de mirar a los temibles artefactos por los retrovisores y delante del carro, su imprudencia pone en peligro sus vidas y la de otros, de ocurrir un accidente, “la culpa es del automotor”. Los delivery-venezolanos-amenazantes son dueños de la vía. Delincuencia criminal y fallida norma de uno solo en moto. Debería haber un grupo grande especializado para el control de papeles, armas, placas, funcionamiento, etc. En Venezuela son un peligro, miles de miles en las vías van rompiendo los retrovisores de los carros sin que se pueda reclamar y son grupos armados al servicio de los narco-dictadores. ¿Alguna solución para disminuir sus abusos y proliferación? ¿Licencia más estricta y cara, una persona por registro de moto, pico y placa estricto, sanción a su mal manejo, altas velocidades, etc.? Si no en pocos años lo lamentaremos. Sin control, motonetas y scooters eléctricos, motos-carga, etc.  A estos conductores les importa poco sus vidas y menos las del resto: peatones, bicis y autos. Y ávidos de sacarle dinero a los ciudadanos, vuelven al control de velocidad de hace 14 años antitécnico en las “avenidas de 50 Km”, imposible de transitar hasta por la inseguridad que vive el país, se debería considerar un límite de velocidad de 65 o 70 Km.
+
+Juan Carlos Cobo Rueda
+
+Turismo migrante
+================
+
+La migración debe ser vista como un desafío emprendedor y una oportunidad para crecer y desarrollarse.
+------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+Las **remesas** enviadas por nuestros **migrantes ecuatorianos** no solo representan una **fuente vital** de ingresos para cada vez más familias en el **Ecuador**, sino un **testimonio** del amor y la lealtad que llevan en sus corazones. En 2022, estas remesas alcanzaron la cifra impresionante de 3.500 millones de dólares, casi el 5% del **Producto Interno Bruto** de nuestro país. Este flujo de recursos no solo impulsa el consumo interno y estimula nuestra economía local, sino que también financia **educación, salud, turismo y vivienda** de miles de hogares, transformándose también en impuestos que fortalecen al **Estado**.
+
+A pesar de los obstáculos que enfrentan en países como España y Estados Unidos, debido al narcotráfico, **nuestros compatriotas** muestran una resistencia y un espíritu emprendedor inquebrantables. Muchos trabajan en **condiciones laborales precarias**, con salarios bajos y sin **derechos laborales plenos**, pero su determinación no se desvanece. Enfrentan dificultades para obtener **visas de trabajo y permanencia legal**, y el **aislamiento social y cultural** es un problema común, especialmente en países donde la comunidad ecuatoriana es pequeña. Sin embargo, su amor por la patria y su deseo de superación los mantienen firmes.
+
+Los sucesivos gobiernos han fallado en **implementar políticas efectivas** para apoyar a estos héroes de la diáspora. No hay una representación adecuada de los intereses de los migrantes en el gobierno, y la falta de **créditos accesibles** para los ecuatorianos residentes en el extranjero limita su **capacidad para emprender negocios.** Este desperdicio de potencial es terrible, ya que podrían crearse nuevas actividades comerciales y empresariales que agranden nuestra economía. Se necesitan **canales financieros** que faciliten el traslado de las **tecnologías** del primer mundo a nuestro país, para que podamos crecer y desarrollarnos juntos.
+
+Ecuador tiene una alta **productividad** en muchos bienes primarios que necesitan **nuevos mercados**. Nuestros **migrantes** pueden abrirlos. La migración debe ser vista como un **desafío emprendedor** y una oportunidad para crecer y desarrollarse. Los **políticos ecuatorianos** deben respaldar y alentar a los **migrantes** a emprender negocios en el extranjero, viéndolos como potenciales empresarios, no solo como mano de obra barata. Las **ideologías** que incitan el odio hacia los países desarrollados deben cambiar su narrativa, mostrando la **migración** como una victoria, un desafío que pocos asumen con el **positivismo** y **optimismo** que debe ser respaldado y respetado.
+
+Los **migrantes ecuatorianos** ya son una parte vital de la **economía** de nuestro país. Aprovechar al máximo su potencial, es crucial y que los **políticos**, así como cada ecuatoriano, vean a los **migrantes** como **emprendedores**, mostrando la migración en forma positiva, como **ecuatorianos** de vanguardia, que ensanchan el productivo y amado **Ecuador** a todos los confines del planeta.
+
+Batalla sin ganadores 
+======================
+
+La lucha entre Noboa y Abad amenaza la estabilidad y favorece al correísmo. La resolución judicial es clave.
+------------------------------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+En estos días, el **escenario político** ha continuado oscurecido y amenazado por la **inestabilidad**, afectado por la contienda entre Noboa y Abad, dentro de la cual, lo que al parecer han primado entre ambos oponentes, son sus particulares intereses y no necesariamente la tranquilidad del país. Así, vemos dentro de esta suerte de cuadrilátero político, **el ego del poder vs. el ansia vengativa de poder**, ambos motivados por la insensatez y, por ende, perniciosos para el país.
+
+En cuanto al ego del poder, este se ha enfocado en no dar paso a como dé lugar, al reemplazo que – nos guste o no –  por **disposición constitucional** le correspondería a Abad;  y, en relación con el afán de poder, parecería que ahora también estaría avivado por la sed de **venganza** no solo en contra de Noboa, sino también de la **canciller y de la ministra del trabajo,** esta última por cierto, que siendo una destacada abogada, ha expuesto su prestigio al prestarse para **semejante desatino jurídico**; sin perjuicio de las latentes y preocupantes intenciones de Abad, de “eliminar” el incremento del IVA y volver atrás el precio de la gasolina extra y eco país; y, pese a que, últimamente lo ha negado expresamente, esto es indultar a Glas, quien sabe, rebajar las penas esté dentro del ajedrez  (facultad constitucional que tendría también de asumir la presidencia), lo cual no le han preguntado ni se ha pronunciado y, que, de plantearlos,  sería un **grave golpe a la justicia y espaldarazo a la corrupción e impunidad**, que esperemos no sea el caso.
+
+Resulta preocupante que dichos personeros, que deberían dar y ser ejemplo de respeto a la institucionalidad y estabilidad, se enreden en semejante batalla, en la cual no habría ganadores, sino solo perdedores, incluido el Ecuador; y, como único beneficiario el correísmo.
+
+Por otro lado, no sorprende la **pobre defensa del abogado del Ministerio del Trabajo** en la primera audiencia por la **acción de protección planteada por Abad**, el mismo que no pudo argumentar con solvencia la **base jurídica de la resolución administrativa** que sacó del camino a Abad, evidentemente, porque no la hay; así como despierta inquietud por decir lo menos, escuchar a Abad en una reciente entrevista con L. Artieda, en la que, con peculiar tono de “**campaña y aire populista**”, dejó entrever su personalidad e intenciones. Es comprensible que se sienta perseguida y herida, lo que sorprende  es que confunda su malestar, tratando de hacerlo propio del resto de ciudadanos y con ello pretenda justificar su actuar, sin medir las **consecuencias de sus potenciales acciones de llegar a la presidencia**, en la que no cabe por ningún motivo, por ser algo circunstancial y temporal, que pretenda echar abajo lo avanzado y tratar partir desde cero.
+
+Vale reflexionar con tranquilidad en el sentido de que, en el difícil escenario de llegar Abad a la presidencia mientras se ausente por licencia Noboa para realizar campaña, ¿qué tanto realmente podría realizar entre el 5 de enero al 6 de febrero del 2025 y,  de pasar Noboa a segunda vuelta, entre el 24 de marzo al 10 de abril, que le permita el tiempo y que no sea reversible?
+
+Está claro que, la resolución de la jueza N. Vera a cargo de atender la **acción de protección planteada y/o en su momento de la Corte Constitucional**, lo que se estaría jugando no serían las pretensiones de Abad, sino, propiamente cimientos importantes  de la democracia e institucionalidad del Estado de derecho.
+
+Pero, lo que no está claro aún y sigue siendo un misterio es ¿cuáles son las razones, que se entendería son de fondo, del irreconciliable distanciamiento de Noboa frente a Abad? La respuesta, sin duda, solo la tiene el presidente y, la ciudadanía, el justo derecho de conocerlas. 
+
+Adriano: la novela histórica
+============================
+
+Yourcenar mostró rigor y pasión en recrear el mundo clásico.
+------------------------------------------------------------
+
+![Katerinne Orquera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Katerinne-Orquera-1.jpg)
+
+Un espacio en el que la **literatura y la historia** se tocan, no siempre con éxito, es la **novela histórica**, donde se pretende recrear no solo los hechos sino también la subjetividad de los **personajes históricos.** Y aunque la objetividad de historia ha sido cuestionada desde los años noventa, sobre todo por el movimiento relacionado con el **giro lingüístico**, hay obras que son incuestionablemente superiores en el género.
+
+Uno de esos casos es ‘Memorias de Adriano’, de Marguerite Yourcenar, quien en las cartas a sus amigos dejó **testimonio de la rigurosidad** con que emprendió la obra. En distintas misivas relata que fue escrita entre 1949 y 1951, aunque una década antes ya tenía sus primeras quince páginas y había concebido la forma en que la relataría: serían las **memorias del emperador romano**, quien analizaba su vida desde la perspectiva de la muerte que lo acechaba.
+
+De todas maneras, había perdido el proyecto de vista y solo lo retomó cuando redescubrió el manuscrito en el fondo de un baúl que le fue enviado de Europa a Estados Unidos, donde residía, cuando retomó su escritura, que le tomó dos años y medio.
+
+La rigurosidad de Yourcenar le hizo cuestionar incluso a historiadores cualificados, quienes presentaban hipótesis como hechos y hacían decir a Adriano lo que querían, mediante interpretaciones forzadas. Esto llevó a la autora a adquirir lo que llamaba una ‘pasión seca por la exactitud’, un afán de sinceridad para **superar el desorden, la confusión y la falta de rigor intelectual.**
+
+Prescindió de un sistema deliberado de estilo, en aras de la exactitud. Por ello, en la revisión del libro hecha en 1958, el único añadido significativo que hizo fue agregar la bibliografía con la que había trabajado, pese a la **hostilidad de los editores franceses** de colocar ese complemento en una novela histórica, por considerarlo ‘pura y simple erudición’, pero insistió porque creía indispensable atacar la creciente **ignorancia del público moderno sobre el mundo clásico**.
+
+Pablo ‘Vitamina’ Sánchez busca el título con el apoyo de su familia
+===================================================================
+
+La familia de Pablo'Vitamina' Sánchez lo acompaña en un momento decisivo con Liga de Quito. La 'U' definirá con IDV al campeón ecuatoriano.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Pablo 'Vitamina' Sánchez en el partido entre Liga de Quito e IDV en la final de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-11-1.jpg)
+
+El entrenador **Pablo ‘Vitamina’ Sánchez** está a punto de obtener el primer título de su carrera en máxima división. Este 7 de diciembre del 2024 dio un paso trascendental al ganar la final de ida de la Liga Pro y tuvo un emotivo reencuentro con su familia.
+
+Como si el triunfo de **Liga de Quito** por 3-0 sobre **Independiente del Valle** no hubiese sido suficiente, **Carolina Villarroel**, esposa del ‘Vita’ ingresó a la rueda de prensa pospartido para sorprenderlo. Junto a sus dos hijas y con una sonrisa en el rostro, se acomodó en los asientos para la intervención de Sánchez.
+
+### Más noticias:
+
+* [Hinchas de Liga de Quito festejan victoria en Fiestas de Quito](https://www.elcomercio.com/deportes/liga-quito-idv-goleada-fiestas-quito-hinchas.html "Hinchas de Liga de Quito festejan victoria en Fiestas de Quito")
+* [¿Cuándo vuelven a jugar Liga de Quito e IDV la final?](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-cuando-vuelven-jugar.html "¿Cuándo vuelven a jugar Liga de Quito e IDV la final?")
+* [Liga de Quito goleó a Independiente en la primera final de Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "Liga de Quito goleó a Independiente en la primera final de Liga Pro")
+
+Pablo ‘Vitamina’ Sánchez
+------------------------
+
+Apenas salió a brindar sus reacciones sobre el partido, **Sánchez** se percató de los suyos, aunque ya sabía de su llegada. Durante el mismo 7 de diciembre, Villarroel había aterrizado en Quito con su familia a las 11:00.
+
+Está iba a ser la primera vez en la que el argentino podía contar con su hija menor desde que arribó para hacerse cargo del equipo, aunque aún no con su familia completa.
+
+Antes, la aventura previa en la que lo acompañaron fue en el P**alestino de Chile**, país en el que había realizado la mayoría de su carrera al dirigir seis clubes.
+
+El estratega no se refirió al suceso sino hasta que se lo hicieron mención. Allí, relató lo que significó la llegada de sus afectos y la importancia que adquiere debido al momento en el que se produjo.
+
+La familia del **‘Vitamina’ Sánchez**, clave en un momento decisivo con Liga de Quito
+
+Pablo Sánchez se mostró agradecido con su esposa y con su familia por haber llegado hacia la final y acompañarlo. Asimismo, disfrutaba del momento, pues aquello le daba un plus al goce que experimentaba.
+
+“Mi mujer me acompañó en todos los partidos. Tengo la fortuna de que también esté mi hija menor, que hacía mucho tiempo que no la veía. Desde nuestra visita a Lanús, cuando estuvimos (con Liga de Quito) en Buenos Aires, no la veía. Compartir con la gente que amas es una de las cosas más lindas que le pueden ocurrir a un ser humano. Estoy muy agradecido” señaló.
+
+‘Vitamina’ también sostuvo que no pudo contar con la presencia de su otra hija. Pese a ello, también le dedicó su triunfo y le brindó un rol preponderante en el momento en el que vive.
+
+El reencuentro de Pablo ‘Vitamina’ Sánchez
+------------------------------------------
+
+Al finalizar el evento, ‘Vitamina’ prefirió no dirigirse hacia el camerino con Gabriel Villamil, volante que lo acompañó en la rueda de prensa. Este se levantó y se encaminó hacia Villarroel, quien lo esperaba de pie junto a su hija.
+
+Un intenso abrazo y un beso selló el recuentro entre ‘Vitamina’ y su pareja. Asimismo, su hija se unió al gesto.
+
+Después de intercambiar un ligero diálogo, Sánchez tomó de la mano a su esposa. Arrancaron para el camerino con la alegría del momento y la mira en la final de vuelta, que será el 14 de diciembre del 2024 en el estadio de Independiente del Valle.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDTLcCvvbE4/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DDTLcCvvbE4/?utm_source=ig_embed&utm_campaign=loading)
+
+El exministro de Corea del Sur fue arrestado por orden de la fiscalía
+=====================================================================
 
 El exministro surcoreano de Defensa, Kim Yong-hyu, dimitió de su puesto el pasado 5 de diciembre. Es la mayor crisis política de los últimos años en ese país.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -888,263 +1011,4 @@ Tras difundirse la noticia del accidente, varios clubes rivales empezaron a publ
 
 “Todas las p**ersonas del Arsenal envían su cariño, apoyo y buenos deseos a Michail**, su familia y el West Ham United”, según un mensaje colgado en redes sociales del Arsenal, mientras que el Chelsea dedicó sus “pensamientos a Michail y su familia”.
 
-El atacante para la selección de Jamaica juega por **décima temporada con los “hammers”** tras haberse unido al equipo inglés procedente del Nottingham Forest en 2015 y en sus 323 intervenciones para la plantilla ha marcado 83 goles. 
-
-Dos de los 16 fallecidos en el choque de Catamayo no han sido identificados
-===========================================================================
-
-Los representantes de la cooperativa TAC se pronunciaron sobre el siniestro registrado el viernes de 6 de diciembre, en la vía Loja-Catamayo.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El hecho ocurrió cerca de las 18:00 entre un bus de la cooperativa TAC y un automóvil Suzuki Forsa. Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/12/Loja.jpg)
-
-El **comandante de la Subzona de la Policía en Loja, Carlos Ortega**, se pronunció sobre el siniestro de **tránsito** ocurrido del viernes 6 de diciembre de 2024, en Catamayo**.**
-
-El hecho ocurrió cerca de las 18:00 entre un bus de la **cooperativa TAC y un automóvil Chevrolet Forsa.** 
-
-Hubo 16 fallecidos, entre ellos el conductor del Suzuki, el **médico lojano Carlos Vélez Sarango**.
-
-Otro de los fallecidos confirmados es el **cabo segundo de Policía, Jairo Sanmartín.**
-
-### Más noticias
-
-* [Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja](https://www.elcomercio.com/actualidad/ecuador/familiares-fallecidos-siniestro-catamayo-esperan-centro-forense-loja.html "Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja")
-* [Choque en Catamayo deja al menos 16 fallecidos, en Loja](https://www.elcomercio.com/actualidad/ecuador/choque-catamayo-deja-al-menos-16-fallecidos-loja.html "Choque en Catamayo deja al menos 16 fallecidos, en Loja")
-
-Los detalles del siniestro de tránsito
---------------------------------------
-
- “Este accidente se conoce como pérdida de carril de circulación normal con un choque angular…”. El hecho ocurrió en la vía Loja-Catamayo, en el sector **Loma Sagrad**a. 
-
-El bus de la **Cooperativa de Transporte “TAC” de placas OAM-00**79, de disco número24, pertenece a Julio César T. Es un **Mercedes Benz** del 2007.
-
-El comandante Ortega indicó que el propietario no conducía la unidad. Se presume que lo hacía Dany Al, de 37 años, dijo el uniformado.
-
-Ortega dijo que, de acuerdo con las **verificaciones realizadas por la Policía,** el conductor del bus no se encuentra ni entre los fallecidos, ni los heridos. “Se presume que abandonó el lugar de los hechos”.
-
-El segundo vehículo involucrado es un **Chevrolet Forsa de placas TCF-0567**. El conductor era el médico Carlos Vélez, de 46 años, quien murió en el siniestro.
-
-Los representantes de la c**ooperativa de transportes TAC** emitieron un comunicado público:
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/PHOTO-2024-12-07-14-09-50-1.jpg)
-
-Dos fallecidos no ha sido identificados
----------------------------------------
-
-Según las primeras verificaciones de la **Policía**, que se han realizado desde la tarde y noche del viernes 6 de diciembre, se confirmaron 16 personas fallecidas. 
-
-**14 cuerpos ya fueron identificados en el Centro de Medicina Legal de Loja** y dos no pueden ser identificadas lamentablemente por el estado en el que quedaron sus cuerpos. Es una mujer y un varón, dijo el comandante Ortega.
-
-“Se está trabajando con **Criminalística**, el estudio **necrodactilar para identificarlos**”, agregó Ortega.
-
-Los heridos fueron atendidos en casas de salud públicas y privadas de Loja. Ortega dijo que paulatinamente se informará sobre los avances del caso y sobre estado de salud de los heridos. “Se han realizado entrevistas preliminares para determinar el hecho”. 
-
-Guía para usar WhatsApp en un televisor con estos sencillos pasos 
-==================================================================
-
-Usar WhatsApp en un televisor ofrece múltiples ventajas.
---------------------------------------------------------
-
-![WhatsApp en el televisor: comodidad para compartir contenido fácilmente. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/WhatsApp-television.jpg)
-
-**WhatsApp** se ha convertido en una de las **aplicaciones más utilizadas** a nivel mundial. Su versatilidad permite que los usuarios se comuniquen de diversas formas. Sin embargo, muchos usuarios no saben que también es posible **utilizar WhatsApp en la televisión**. Esta guía explica cómo hacerlo, al facilitar el uso del chat y permitir disfrutar de las **conversaciones** en una pantalla más grande. 
-
-### Más noticias
-
-* [WhatsApp lanza el modo ‘Walkie Talkie’ para comunicación instantánea](https://www.elcomercio.com/tecnologia/whatsapp-modo-walkie-talkie-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-modo-walkie-talkie-tutorial.html") 
-* [Guía para activar el ‘modo Windows’ en WhatsApp](https://www.elcomercio.com/tecnologia/whatsapp-listas-modo-windows.html "https://www.elcomercio.com/tecnologia/whatsapp-listas-modo-windows.html") 
-
-**¿Por qué usar WhatsApp en la televisión?** 
----------------------------------------------
-
-El uso de **WhatsApp en un televisor** puede parecer innecesario, pero ofrece ciertas ventajas. Permite **visualizar fotos y videos** enviados por los contactos en una pantalla más grande. También resulta una opción práctica para **compartir contenido con amigos y familiares** sin la necesidad de pasar el teléfono. A continuación, se describen las diferentes formas de acceder a WhatsApp desde un televisor. 
-
-**Opciones para usar WhatsApp en tu televisor** 
-------------------------------------------------
-
-1. **Duplicar la pantalla del móvil** 
-
-Una forma sencilla de **utilizar WhatsApp en un televisor** es **duplicar la pantalla** del teléfono móvil, según [Xataka](https://www.xatakandroid.com/tutoriales/como-tener-whatsapp-tele-android-tv "https://www.xatakandroid.com/tutoriales/como-tener-whatsapp-tele-android-tv"). Este método es compatible con televisores que cuentan con **Android TV** y utilizan **Google Chromecast**. El proceso se realiza de la siguiente manera: 
-
-* **Descargar la aplicación Google Home**: Si no está instalada, se puede obtener desde Google Play Store. 
-
-* **Conectar el móvil al televisor**: Abrir Google Home y seleccionar el nombre del televisor. 
-
-* **Enviar la pantalla**: Pulsar el icono de Chromecast y elegir la opción “Enviar mi pantalla”. De este modo, todo lo que se realiza en el móvil, incluido WhatsApp, se mostrará en la pantalla grande. 
-
-2. **Usar WhatsApp Web** 
-
-Otra alternativa, siguiendo con Xataka, es acceder a **WhatsApp Web desde un navegador en el televisor**. Aunque **Android TV** no incluye navegadores por defecto, se puede instalar uno siguiendo estos pasos: 
-
-* **Instalar un administrador de archivos**: Buscar “TV File Commander” en Google Play Store e instalarlo. 
-
-* **Descargar Google Chrome**: Obtener la última versión de Google Chrome desde Apk Mirror y subirla a Google Drive. 
-
-* **Instalar Chrome en el televisor**: Abrir TV File Commander, conectar con Google Drive e instalar el archivo APK de Chrome. 
-
-* **Configurar el acceso**: Utilizar un lanzador como Sideload Launcher para abrir Chrome. Luego, ingresar a web.whatsapp.com y escanear el código QR desde el móvil para iniciar sesión. 
-
-3. **Instalar el APK de WhatsApp** 
-
-Otra opción es **instalar directamente la aplicación nativa** de WhatsApp en el televisor mediante un **archivo APK**. Este método requiere los siguientes pasos: 
-
-* **Descargar el APK**: Obtener el archivo APK de WhatsApp desde Apk Mirror. 
-
-* **Utilizar TV File Commander**: Emplear TV File Commander para instalar el archivo APK en el dispositivo Android TV. 
-
-* **Abrir WhatsApp**: Acceder a la aplicación con la ayuda de Sideload Launcher e iniciar sesión como se haría en un dispositivo móvil. 
-
-**Consejos para una mejor experiencia** 
-----------------------------------------
-
-Para **simplificar la escritura y la navegación** en WhatsApp desde un televisor, se recomienda utilizar un **teclado inalámbrico** conectado por Bluetooth, lo que permite mayor comodidad al redactar mensajes. También es posible emplear la aplicación **Android TV** en un dispositivo móvil para enviar mensajes de forma directa. 
-
-### Te recomendamos:
-
-Vinotinto y 22 de Julio ascendieron a la Serie B
-================================================
-
-Dos equipos harán su debut en la primera categoría del fútbol ecuatoriano tras clasificarse a la final del Torneo de Ascenso de la Segunda Categoría.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Vinotinto y 22 de Julio son los equipos que ascendieron a la Liga Pro Serie B de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T140808.304.jpg)
-
-Este sábado 7 de diciembre se disputaron las **semifinales de vuelta del Torneo de Ascenso** de la **Segunda** **Categoría**, donde se conocieron los dos equipos que ascenderán a la Serie B para el próximo año: **22 de Julio y el Club Atlético Vinotinto.**
-
-En la primera semifinal, el Club Atlético Vinotinto se enfrentó a **CD La Unión** en el Estadio El Horno de Pujilí, después de un empate 2-2 en el partido de ida. A pesar de jugar más de media hora con diez jugadores, Vinotinto logró mantener el empate 2-2 y forzó la definición por penales.
-
-### Más noticias:
-
-* [Las sanciones que apresuraron el descenso del Deportivo Quito en 2016](https://www.elcomercio.com/deportes/futbol/liga-quito-deportivo-sanciones-fef.html "Las sanciones que apresuraron el descenso del Deportivo Quito en 2016")
-* [Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo](https://www.elcomercio.com/deportes/futbol/dalo-bucaram-aclara-la-situacion-de-su-hijo-jugador-de-liga-de-portoviejo.html "Dalo Bucaram aclara la situación de su hijo, jugador de Liga de Portoviejo")
-* [Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram](https://www.elcomercio.com/deportes/futbol/liga-de-portoviejo-denuncia-intento-de-secuestro-contra-dalo-bucaram.html "Liga de Portoviejo denuncia intento de secuestro contra Dalo Bucaram")
-
-En esta instancia, el conjunto **visitante se impuso 4-5**, logrando su ascenso a la Serie B. Sin embargo, jugará como equipo filial, ya que los mismos dueños del club también tienen a **Cuniburo**, que competirá en la Serie A bajo el nombre de Vinotinto.
-
-> 🙌 ¡Un club de Primera!  
->   
-> Felicitamos al club Atl. Vino Tinto por su clasificación a la Final Única del Ascenso Nacional Ecuabet 2024 y su consecuente paso a la Primera Categoría LigaPro Ecuabet Serie B 2025. [pic.twitter.com/k2gR4IwcEp](https://t.co/k2gR4IwcEp)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [December 7, 2024](https://twitter.com/FEFecuador/status/1865469550302573044?ref_src=twsrc%5Etfw)
-
-La segunda semifinal enfrentó a **Liga de Portoviejo** y 22 de Julio en el Estadio Folke Anderson. En el partido de ida, los manabitas no pudieron aprovechar su localía y terminaron empatando 0-0.
-
-El partido de vuelta fue igual de equilibrado, con pocas ocasiones claras, y también terminó 0-0, por lo que la llave se resolvió en penales. 22 de Julio se impuso desde los once pasos y eliminó a uno de los equipos históricos del fútbol ecuatoriano.
-
-> 🙌 ¡Un club de Primera!  
->   
-> Felicitamos al club 22 de Julio F.C. por su clasificación a la Final Única del Ascenso Nacional Ecuabet 2024 y su consecuente paso a la Primera Categoría LigaPro Ecuabet Serie B 2025. [pic.twitter.com/VgRHOFft8c](https://t.co/VgRHOFft8c)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [December 7, 2024](https://twitter.com/FEFecuador/status/1865475865296957500?ref_src=twsrc%5Etfw)
-
-La final de la Segunda Categoría
---------------------------------
-
-Este martes 3 de diciembre de 2024 se conoció que el e**stadio Etho Vega de Santo Domingo** de los Tsáchilas fue escogido por la FEF para las finales femenina y masculina del Ascenso Nacional.
-
-Las finales están programadas para el **domingo 15 de diciembre**. Desde las 15:00 será la masculina y a su término se entregará las medallas y trofeos a los equipos ganadores.
-
-La **final única se implementó en el 2020**. La primera edición fue el 19 de diciembre en el Municipal  
-de Otavalo entre Cumbayá y Guayaquil Sport.
-
-Donald Trump y Volodímir Zelenski se encontraron en París
-=========================================================
-
-El jefe de Estado francés, Emmanuel Macron, destacó la presencia de ambos líderes. Ellos están en París por la reapertura de la catedral de Notre Dame.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente francés Emmanuel Macron (C), el presidente electo de Estados Unidos, Donald J. Trump (der.) y el presidente ucraniano Volodymyr Zelensky (izq.) abandonan el Palacio del Elíseo para asistir a la ceremonia de reapertura de la Catedral de Notre Dame de París. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/TRump.jpg)
-
-##### Agencia EFE
-
-El j**efe del Estado francés, Emmanuel Macron,** ha considerado que este sábado 7 de diciembre ha sido un “día histórico” tras haber reunido al presidente electo de **Estados Unidos, Donald Trump**, con el **presidente ucraniano, Volodímir Zelenski,** a los que ha pedido continuar “la acción común por la paz y la seguridad”.
-
-En un mensaje en su cuenta de X, **Macron** se ha felicitado del encuentro que ha propiciado en el Palacio del Elíseo entre los tres: “**Estados Unidos, Ucrania y Francia**. Juntos en este día histórico. Reunidos por Notre Dame. Continuemos la acción común por la paz y la seguridad”.
-
-Ese texto va acompañado de una imagen de los tres, que han estado durante algo más de media hora hablando, antes de participar en la ceremonia de reapertura de la catedral de Notre Dame, tras cinco años de restauración por el incendio que sufrió en abril de 2019.
-
-La reunión entre Macron y Trump
--------------------------------
-
-En otro mensaje previo, **Macron** se ha referido a su entrevista cara a cara con **Trump** y ha insistido en los “desafíos” que tienen que superar juntos y en el “orgullo por la amistad” entre sus dos países.
-
-El mensaje incluye también un breve vídeo del comienzo de la reunión de ambos dirigentes en el Palacio del Elíseo, que se ha desarrollado unas decenas de minutos antes del inicio de la ceremonia de reapertura de la catedral de **Notre Dame de París**, que es la razón de la presencia del presidente electo de Estados Unidos en Francia.
-
-En ese vídeo, **Macron** decía estar “feliz de acoger en París al presidente electo, Donald Trump para la reapertura de Notre Dame cinco años después. Era presidente cuando la catedral se incendió”.  
-“Es un gran honor para los franceses”, añadía, antes de hacer notar la “solidaridad” que Trump había manifestado por el incendio de **Notre Dame**.
-
-La reacción de Donald Trump
----------------------------
-
-**Trump**, por su parte, ha destacado la “muy buena relación” que ha tenido con el presidente francés y explicado cómo los estadounidenses quieren y respetan a los franceses.
-
-“Muy honrado de estar aquí”, le ha dicho a Macron, que también ha manifestado su voluntad de trabajar con él y ha hecho notar que “el mundo parece que se está volviendo loco”.
-
-Tras tres cuartos de hora de cara a cara, a la entrevista entre ambos se ha añadido el presidente ucraniano, que es también uno de los dirigentes que se encuentran en París para asistir a las ceremonias de la reapertura de Notre Dame.
-
-Las sequías dejan efectos devastadores en el mundo desde 2022
-=============================================================
-
-Las sequías en el mundo han afectado a cuatro continentes, desde 2022.
-----------------------------------------------------------------------
-
-![Los efectos devastadores de las sequías en el mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/sequias-mundo.jpg)
-
-Las **sequías** dejan **efectos devastadores** en el **mundo** desde 2022 hasta la actualidad.
-
-**Cuatro continentes** han sido afectados, de acuerdo a información recolectada por la Agencia Efe.
-
-### Más noticias:
-
-* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
-* [Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración](https://www.elcomercio.com/opinion/editorial/compromiso-g-20-de-mitigar-cambio-climatico-no-sea-solo-declaracion.html "Que el compromiso del G-20 de mitigar el cambio climático no sea solo una declaración")
-
-Efectos de las sequías en el mundo desde 2022
----------------------------------------------
-
-De 2022 a 2024, se han dado grandes episodios de **sequía** en el mundo.
-
-Estos fenómenos han afectado a **cuatro continentes y diversos sistemas**.
-
-En 2022, las sequías afectaron a tres sectores de **Asia**: central, este, sudeste.
-
-La agricultura, el abastecimiento de agua, la navegación interior, **la industria y las manufacturas** sufrieron cambios y repercutieron en la población asiática.
-
-Además, **Afganistán**, en 2024, también tuvo una fuerte sequía, que impactó, principalmente, en la agricultura y el abastecimiento de agua.
-
-En el **continente africano**, entre 2022 y 2024, tres regiones fueron afectadas por las sequías: occidente, oriental y austral.
-
-Aparte de la **agricultura y el abastecimiento de agua**, también se dieron problemas de seguridad alimentaria, desplazamientos humanos, energía hidráulica, escasez de agua y ecosistemas.
-
-También, en el **Mediterráneo**, en 2024, las sequías impactaron a la agricultura y el abastecimiento de agua.
-
-En tanto, en **Europa**, entre 2022 y 2023, repercutió en seis sistemas: navegación interior, hidroelectricidad, agricultura, abastecimiento de agua, ecosistemas y salud.
-
-Los efectos de las sequías en América y el mundo
-------------------------------------------------
-
-Cuatro zonas del c**ontinente americano** han sido afectadas por las sequías, desde 2022.
-
-Estos son: el oeste de **Estados Unidos, América Central y el norte de Suramérica, la Cuenca amazónica de Brasil y Andes extratropicales.**
-
-La sequía impactó el oeste de **Estados Unidos** en 2022, afectando ecosistemas, agricultura, energía hidráulica y abastecimiento de agua.
-
-En **América Central y el norte de Suramérica**, entre 2023 y 2024, la agricultura y el abastecimiento de agua sufrieron cambios por las sequías.
-
-La sequía de mayor magnitud en este continente se dio en la **cuenca amazónica de Brasil**, entre 2023 y 2024.
-
-Las sequías impactaron la navegación interior, los **ecosistemas** y la energía hidráulica.
-
-La **Amazonía de Brasil** perdió el 5,4 % de su superficie de agua en 2023 con respecto al año anterior debido a la sequía en la región.
-
-Finalmente, los **Andes extratropicales y La Plata**, entre 2022 y 2023, presentaron escasez de agua, agricultura y navegación interior.
-
-### La sequía en Ecuador
-
-La sequía que afecta a **Ecuador** en este 2024, es la peor que ha sufrido el país en los últimos 61 años.
-
-Esto ha provocado una crisis energética por la dependencia del sistema interconectado a las **lluvias**.
-
-Los ecuatorianos tuvieron que adaptar sus actividades cotidianas a **cortes de luz** de hasta **14 horas** diarias.
-
-La crisis energética aún no termina, aunque el **Gobierno de Daniel Noboa** ofreció que los cortes terminarían en diciembre.
+El atacante para la selección de Jamaica juega por **décima temporada con los “hammers”** tras haberse unido al equipo inglés procedente del Nottingham Forest en 2015 y en sus 323 intervenciones para la plantilla ha marcado 83 goles.
