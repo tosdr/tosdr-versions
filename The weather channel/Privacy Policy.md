@@ -52,7 +52,7 @@ Radar & Maps
 News & Media
 ------------
 
-[Top Weather Stories](https://weather.com/storms/winter/video/freezing-waves-coat-lighthouse-in-ice)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/storms/winter/video/freezing-waves-coat-lighthouse-in-ice)[Bios](https://weather.com/bios)
+[Top Weather Stories](https://weather.com/news/trending/video/california-earthquake-rocks-only-home-of-devils-hole-pupfish)[Hurricane Central](https://weather.com/storms/hurricane-central)[Science & Environment](https://weather.com/science/environment)[Space & Skywatching](https://weather.com/science/space)[Safety & Prep](https://weather.com/safety/index)[Videos](https://weather.com/news/trending/video/california-earthquake-rocks-only-home-of-devils-hole-pupfish)[Bios](https://weather.com/bios)
 
 Products
 --------
