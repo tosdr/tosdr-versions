@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![CA Health Industry Giving 2002-2012](/assets/Images/teasers/full/CAHealthIndGvg2002-2012.png)](http://www.followthemoney.org/ca-localelections/health-industry-ca-infographic)
+[![2011-12 Ballot Measures](/assets/Images/teasers/small/SameSexMarriage.png)](http://www.followthemoney.org/research/institute-reports/2011-2012-ballot-measure-overview/)
 
-CA Health Industry Giving 2002-2012
+2011-12 same-sex marriage ballots in 5 states.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
