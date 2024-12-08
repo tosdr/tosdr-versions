@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You're only given one little spark of madness. You mustn't lose it”
+“ Simplicity is a great virtue but it requires hard work to achieve it and education to appreciate it. And to make matters worse: complexity sells better”
 
-[Robin Williams](http://en.wikipedia.org/wiki/Robin_Williams)
+[Edsger W. Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 [](https://www.adafruit.com/about)
 
