@@ -139,25 +139,24 @@ Save settings
 
 ### Featured Articles
 
+[![Deal With a Friend Who Has Changed](https://www.wikihow.com/images/thumb/d/d8/Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg/-crop-126-120-126px-Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg)
+
+How to  
+Deal With a Friend Who Has Changed](https://www.wikihow.com/Deal-With-a-Friend-Who-Has-Changed)
+
+[![Mental Age Test](https://www.wikihow.com/images/thumb/d/d0/Mental_age_test.png/-crop-126-120-126px-Mental_age_test.png)
+
+What Is My Mental Age Quiz](https://www.wikihow.com/Mental-Age-Test)
+
+[![Get to Know Yourself](https://www.wikihow.com/images/thumb/2/28/Get-to-Know-Yourself-Step-14.jpg/-crop-126-120-126px-Get-to-Know-Yourself-Step-14.jpg)
+
+How to  
+Get to Know Yourself: A Guide to Self-Discovery](https://www.wikihow.com/Get-to-Know-Yourself)
+
 [![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
 
 How to  
 Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
-
-[![Remove Blackheads](https://www.wikihow.com/images/thumb/9/9c/Remove-Blackheads-Step-24-Version-5.jpg/-crop-126-120-126px-Remove-Blackheads-Step-24-Version-5.jpg)
-
-How to  
-Remove Blackheads](https://www.wikihow.com/Remove-Blackheads)
-
-[![Gain Leg Muscle Without Weights](https://www.wikihow.com/images/thumb/f/fe/Gain-Leg-Muscle-Without-Weights-Step-9.jpg/-crop-126-120-126px-Gain-Leg-Muscle-Without-Weights-Step-9.jpg)
-
-How to  
-Build Muscle on Your Legs Without Weights](https://www.wikihow.com/Gain-Leg-Muscle-Without-Weights)
-
-[![Be Who You Want to Be](https://www.wikihow.com/images/thumb/b/b9/Be-Who-You-Want-to-Be-Step-15.jpg/-crop-126-120-126px-Be-Who-You-Want-to-Be-Step-15.jpg)
-
-How to  
-Be Who You Want to Be](https://www.wikihow.com/Be-Who-You-Want-to-Be)
 
   
 
@@ -200,4 +199,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-174
+151
