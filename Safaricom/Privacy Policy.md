@@ -58,27 +58,27 @@ EXPERIENCES
 
 HOLIDAY TYPES
 
-[Hot Air Ballooning Tours & Safaris](https://www.safari.com/holidays/hot-air-ballooning)
-
-[Luxury Rail Journeys](https://www.safari.com/holidays/rail-journeys)
-
-[Walking Safaris](https://www.safari.com/holidays/mobile-and-walking-safaris)
-
-[Family Safaris](https://www.safari.com/holidays/family-safaris)
-
-[Bush & Beach Safaris](https://www.safari.com/holidays/bush-and-beach-safaris)
+[Big 5 Safaris](https://www.safari.com/holidays/big-5-safaris)
 
 [Great Migration](https://www.safari.com/holidays/great-migration)
 
-[Big 5 Safaris](https://www.safari.com/holidays/big-5-safaris)
+[Gorilla & Chimp Trekking](https://www.safari.com/holidays/gorilla-trekking)
 
 [Luxury Safaris](https://www.safari.com/holidays/luxury-safaris)
 
 [Honeymoon Safaris](https://www.safari.com/holidays/honeymoon-safaris)
 
-[Gorilla & Chimp Trekking](https://www.safari.com/holidays/gorilla-trekking)
+[Family Safaris](https://www.safari.com/holidays/family-safaris)
+
+[Bush & Beach Safaris](https://www.safari.com/holidays/bush-and-beach-safaris)
+
+[Walking Safaris](https://www.safari.com/holidays/mobile-and-walking-safaris)
 
 [Photographic Safaris](https://www.safari.com/holidays/photographic-safaris)
+
+[Hot Air Ballooning Tours & Safaris](https://www.safari.com/holidays/hot-air-ballooning)
+
+[Luxury Rail Journeys](https://www.safari.com/holidays/rail-journeys)
 
 [BLOG](https://www.safari.com/blog)[TESTIMONIALS](https://www.safari.com/testimonials)[CONTACT US](https://www.safari.com/contact)
 
