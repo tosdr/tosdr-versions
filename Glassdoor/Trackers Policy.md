@@ -296,6 +296,6 @@ You may reach our Data Protection Officer at DPO @ glassdoor.com. This email is 
 * [About HR Tech](https://hrtechprivacy.com/)
 * [Indeed Sites](https://hrtechprivacy.com/indeed-sites)
 * [Glassdoor Sites](https://hrtechprivacy.com/glassdoor-sites)
-* [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor)
-* [Cookies Policy](https://hrtechprivacy.com/brands/glassdoor#Cookies)
+* [Privacy Policy](https://hrtechprivacy.com/brands/indeed#privacypolicy)
+* [Cookies Policy](https://hrtechprivacy.com/brands/indeed#Cookies)
 * [Ad Choices](https://hrtechprivacy.com/ad-choices)
