@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Dora the Explorer: Wildlife Rescue](https://www.myabandonware.com/game/dora-the-explorer-wildlife-rescue-msm)
-* [Gizmondo Motocross 2005](https://www.myabandonware.com/game/gizmondo-motocross-2005-mtr)
-* [Fist of the North Star](https://www.myabandonware.com/game/fist-of-the-north-star-sqb)
+* [Xplora 1: Peter Gabriel's Secret World](https://www.myabandonware.com/game/xplora-1-peter-gabriel-s-secret-world-eyy)
+* [Alien Breed 3D 2: The Killing Grounds](https://www.myabandonware.com/game/alien-breed-3d-2-the-killing-grounds-6r3)
+* [Arcade Force Four](https://www.myabandonware.com/game/arcade-force-four-kmk)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
