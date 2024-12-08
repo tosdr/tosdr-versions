@@ -90,11 +90,11 @@ Most Read
     
 2. 2. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
     
-3. 3. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
+3. 3. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
     
-4. 4. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
+4. 4. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
     
-5. 5. [Broadcom reverses controversial plan in effort to cull VMware migrations](https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/)
+5. 5. [Your AI clone could target your family, but there’s a simple defense](https://arstechnica.com/ai/2024/12/your-ai-clone-could-target-your-family-but-theres-a-simple-defense/)
     
 
 Customize
