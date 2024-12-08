@@ -29,15 +29,15 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![Los](plugins/MineCraft/icons/25x25xLos_1733645587.png.pagespeed.ic.-hmGP2q6-z.png)
+[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-Best Public Survival Server](https://minecraft-server.net/details/Los/ "Best Public Survival Server") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![IllusiveMC](plugins/MineCraft/icons/IllusiveMC_1681214308.png)
+NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!](https://minecraft-server.net/details/whoocraft/ "NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!")[![LifeSteal-SMP](plugins/MineCraft/icons/LifeSteal-SMP_1733668686.png.pagespeed.ce.z7NfVfgPIC.png)
 
-IllusiveMC Survival](https://minecraft-server.net/details/IllusiveMC/ "IllusiveMC Survival")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
+LifeSteal SMP](https://minecraft-server.net/details/LifeSteal-SMP/ "LifeSteal SMP")[![FlowSurvival](plugins/MineCraft/icons/25x25xFlowSurvival_1733102043.png.pagespeed.ic.SOPm9_oJ8W.jpg)
 
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![INFISAMNETWORK](plugins/MineCraft/icons/25x25xINFISAMNETWORK_1733636922.png.pagespeed.ic.hEgowr4G90.png)
+FlowSurvival](https://minecraft-server.net/details/FlowSurvival/ "FlowSurvival")[![INFISAMNETWORK](plugins/MineCraft/icons/25x25xINFISAMNETWORK_1733636922.png.pagespeed.ic.hEgowr4G90.png)
 
-INFISAM NETWORK](https://minecraft-server.net/details/INFISAMNETWORK/ "INFISAM NETWORK ")
+INFISAM NETWORK](https://minecraft-server.net/details/INFISAMNETWORK/ "INFISAM NETWORK ") [Mastercraft Network](https://minecraft-server.net/details/Mastercraftph/ "Mastercraft Network")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06265 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06207 - Created by [Debaucus](https://debauc.us/)
