@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![22 Facts About Newbery Medal ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/culture/22-facts-about-newbery-medal/)
+[![35 Facts About Knights Of The Golden Circle ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-knights-of-the-golden-circle/)
 
-Culture
+Historical Events
 
-06 Dec 2024
+08 Dec 2024
 
-[22 Facts About Newbery Medal](https://facts.net/history/culture/22-facts-about-newbery-medal/)
+[35 Facts About Knights Of The Golden Circle](https://facts.net/history/historical-events/35-facts-about-knights-of-the-golden-circle/)
 
-[![40 Facts About Filariasis ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-filariasis/)
+[![40 Facts About John James ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-john-james/)
 
-Health Science
+People
 
-06 Dec 2024
+08 Dec 2024
 
-[40 Facts About Filariasis](https://facts.net/fitness-and-wellbeing/health-science/40-facts-about-filariasis/)
+[40 Facts About John James](https://facts.net/history/people/40-facts-about-john-james/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
