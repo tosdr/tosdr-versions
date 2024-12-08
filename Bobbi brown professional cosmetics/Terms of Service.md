@@ -2,6 +2,8 @@
 
 Previous
 
+[Today only 50% off Dazzle & Glow 12-Day Advent Calendar. Use code: **DAY1** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
 Enjoy Free Standard Shipping on any $65+ order.
@@ -283,6 +285,8 @@ HOLIDAY GIFT GUIDE
 Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
+
+[10 Days of Bobbi Brown](https://www.bobbibrowncosmetics.com/advent-calendar "10 Days of Bobbi Brown")
 
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
