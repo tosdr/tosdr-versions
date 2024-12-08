@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Be quick, but don't hurry”
+“ When you destroy art, you make it stronger”
 
-[John Wooden](http://en.wikipedia.org/wiki/John_Wooden)
+[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
 
 [](https://www.adafruit.com/about)
 
