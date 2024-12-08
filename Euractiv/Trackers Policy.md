@@ -111,6 +111,8 @@ Most recent
 
 [08-12-2024
 
+EU eyes more pragmatic enlargement approach](https://www.euractiv.com/section/global-europe/news/eu-eyes-more-pragmatic-enlargement-approach/)[08-12-2024
+
 Macron brings together Trump, Zelenskyy ahead of Notre-Dame ceremony](https://www.euractiv.com/section/global-europe/news/macron-brings-together-trump-zelenskyy-ahead-of-notre-dame-ceremony/)[08-12-2024
 
 Syrian army command tells its officers that Assad’s rule has ended](https://www.euractiv.com/section/global-europe/news/syrian-army-command-tells-its-officers-that-assads-rule-has-ended/)[07-12-2024
@@ -127,9 +129,7 @@ EU-Mercosur trade deal: who wins and who loses in agri-food?](https://www.euract
 
 EU-Mercosur deal likely to include ‘legally binding’ deforestation clampdown](https://www.euractiv.com/section/eet/news/eu-mercosur-deal-likely-to-include-legally-binding-deforestation-clampdown/)[06-12-2024
 
-Von der Leyen cancels Notre Dame trip as Paris in fury over Mercosur deal](https://www.euractiv.com/section/politics/news/von-der-leyen-cancels-notre-dame-trip-as-paris-in-fury-over-mercosur-deal/)[06-12-2024
-
-Hungary spied on EU officials, Belgian media reports](https://www.euractiv.com/section/politics/news/hungary-spied-on-eu-officials-belgian-media-reports/)
+Von der Leyen cancels Notre Dame trip as Paris in fury over Mercosur deal](https://www.euractiv.com/section/politics/news/von-der-leyen-cancels-notre-dame-trip-as-paris-in-fury-over-mercosur-deal/)
 
 ###### Advertisement
 
