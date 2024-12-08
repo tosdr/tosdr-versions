@@ -54,12 +54,11 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
-* [Healthcare CEO Killed](https://www.breitbart.com/tag/unitedhealthcare/)
+* [Assad Regime Falls](https://www.breitbart.com/tag/syria/)
+* [CEO Assassin Manhunt](https://www.breitbart.com/tag/unitedhealthcare/)
 * [Hegseth Fight](https://www.breitbart.com/tag/pete-hegseth/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
-* [French Gov’t Collapse](https://www.breitbart.com/tag/france/)
 * [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
-* [Israel vs Hamas](https://www.breitbart.com/tag/israel/)
 
 Terms of Use
 ============
