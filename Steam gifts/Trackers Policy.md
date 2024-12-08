@@ -80,7 +80,7 @@ Last modified 6 years ago by [cg](https://www.steamgifts.com/user/cg).
 
 SteamGifts
 
-[Giveaways](https://www.steamgifts.com/) [Steam Deals and Sales](https://www.steamgifts.com/discussions/deals) [Discussions](https://www.steamgifts.com/discussions)
+[Giveaways](https://www.steamgifts.com/) [Deals](https://www.steamgifts.com/discussions/deals) [Discussions](https://www.steamgifts.com/discussions)
 
 Browse
 
