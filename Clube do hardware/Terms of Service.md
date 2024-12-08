@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_125477042_menu)
+ [Compartilhar](#elShareItem_2073049135_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -150,7 +150,7 @@ Posts recomendados
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
 * * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.991 posts")
-* 13.130
+* 13.131
 * 16/01/2002
 *  Offline
 
@@ -308,7 +308,7 @@ As regras do Clube do Hardware poderão ser atualizadas periodicamente, sem avis
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_859439352_menu)
+ [Compartilhar](#elShareItem_1574024384_menu)
 
 [https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/](https://www.clubedohardware.com.br/forums/topic/690576-regras-do-clube-do-hardware/ "Copiar link para a área de transferência")
 
@@ -351,104 +351,104 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![PernaDaCobra](https://lh3.googleusercontent.com/-G5fCVeFnqB4/AAAAAAAAAAI/AAAAAAAAACc/0pYlcecRJdI/photo.jpg)](https://www.clubedohardware.com.br/profile/990726-pernadacobra/ "Ir ao perfil de PernaDaCobra")
+    * [![Cristhyan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255552.thumb.jpeg.65852170fcccd6dc2553e284e1d88783.jpeg)](https://www.clubedohardware.com.br/profile/1255552-cristhyan/ "Ir ao perfil de Cristhyan")
         
-        0
+        2
         
-        [O serviço "Monte seu PC" na Pichau, oferece montagem completa do PC?](https://www.clubedohardware.com.br/forums/topic/1704814-o-servi%C3%A7o-monte-seu-pc-na-pichau-oferece-montagem-completa-do-pc/?do=getNewComment "O serviço "Monte seu PC" na Pichau, oferece montagem completa do PC?")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [PernaDaCobra](https://www.clubedohardware.com.br/profile/990726-pernadacobra/ "Ir ao perfil de PernaDaCobra")  
-        13 minutos atrás
-        
-    * [![pimpolhoo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257543.thumb.jpeg.afa9f330aef84da789986264977265ba.jpeg)](https://www.clubedohardware.com.br/profile/1257543-pimpolhoo/ "Ir ao perfil de pimpolhoo")
-        
-        3
-        
-        [Ryzen 5 5500 ou 4500 são boas opções para Radeon RX 570?](https://www.clubedohardware.com.br/forums/topic/1704813-ryzen-5-5500-ou-4500-s%C3%A3o-boas-op%C3%A7%C3%B5es-para-radeon-rx-570/?do=getNewComment "Ryzen 5 5500 ou 4500 são boas opções para Radeon RX 570?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [pimpolhoo](https://www.clubedohardware.com.br/profile/1257543-pimpolhoo/ "Ir ao perfil de pimpolhoo")  
-        48 minutos atrás
-        
-    * [![theLucasXimenes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/imported-photo-1239652.thumb.jpeg.be3c6ababe9c662590a9f81eca7f10db.jpeg)](https://www.clubedohardware.com.br/profile/1239652-thelucasximenes/ "Ir ao perfil de theLucasXimenes")
-        
-        0
-        
-        [Gabinete Pichau Kazan 2 é bem arejado para Radeon RX 6750 FOUNDERS EDITION?](https://www.clubedohardware.com.br/forums/topic/1704812-gabinete-pichau-kazan-2-%C3%A9-bem-arejado-para-radeon-rx-6750-founders-edition/?do=getNewComment "Gabinete Pichau Kazan 2 é bem arejado para Radeon RX 6750 FOUNDERS EDITION?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [theLucasXimenes](https://www.clubedohardware.com.br/profile/1239652-thelucasximenes/ "Ir ao perfil de theLucasXimenes")  
-        1 hora atrás
-        
-    * [![Generoso](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236299c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/956960-generoso/ "Ir ao perfil de Generoso")
-        
-        4
-        
-        [Comprei o Ryzen 5 7600 e recebi o Ryzen 5 7600x, devo ficar com ele ou devolver?](https://www.clubedohardware.com.br/forums/topic/1704811-comprei-o-ryzen-5-7600-e-recebi-o-ryzen-5-7600x-devo-ficar-com-ele-ou-devolver/?do=getNewComment "Comprei o Ryzen 5 7600 e recebi o Ryzen 5 7600x, devo ficar com ele ou devolver?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Generoso](https://www.clubedohardware.com.br/profile/956960-generoso/ "Ir ao perfil de Generoso")  
-        1 hora atrás
-        
-    * [![Vinicius Kataoka](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c48a62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EVK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257542-vinicius-kataoka/ "Ir ao perfil de Vinicius Kataoka")
-        
-        0
-        
-        [PC completo R$ 14.000,00: Ryzen 9 7900X3D, 32GB Radeon RX 7800XT, valeu?](https://www.clubedohardware.com.br/forums/topic/1704810-pc-completo-r-1400000-ryzen-9-7900x3d-32gb-radeon-rx-7800xt-valeu/?do=getNewComment "PC completo R$ 14.000,00: Ryzen 9 7900X3D, 32GB Radeon RX 7800XT, valeu?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Vinicius Kataoka](https://www.clubedohardware.com.br/profile/1257542-vinicius-kataoka/ "Ir ao perfil de Vinicius Kataoka")  
-        1 hora atrás
-        
-    * [![Henrique Siqueira Lima](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257498.thumb.jpeg.e6e019ea4ec8c45d00f3e75d2e3ffed3.jpeg)](https://www.clubedohardware.com.br/profile/1257498-henrique-siqueira-lima/ "Ir ao perfil de Henrique Siqueira Lima")
-        
-        1
-        
-        [Fonte Rise Mode Zeus 500W aguenta Core i7-4790 e Radeon RX 550 4GB?](https://www.clubedohardware.com.br/forums/topic/1704809-fonte-rise-mode-zeus-500w-aguenta-core-i7-4790-e-radeon-rx-550-4gb/?do=getNewComment "Fonte Rise Mode Zeus 500W aguenta Core i7-4790 e Radeon RX 550 4GB?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Henrique Siqueira Lima](https://www.clubedohardware.com.br/profile/1257498-henrique-siqueira-lima/ "Ir ao perfil de Henrique Siqueira Lima")  
-        1 hora atrás
-        
-    * [![Ricardo hosken](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257507.thumb.jpeg.6244dbf6ab3a0e21f82457d1d68e42c2.jpeg)](https://www.clubedohardware.com.br/profile/1257507-ricardo-hosken/ "Ir ao perfil de Ricardo hosken")
-        
-        1
-        
-        [Fonte PCYes 430W aguenta PC com GeForce RTX 3060 e Core i3 4ª geração?](https://www.clubedohardware.com.br/forums/topic/1704808-fonte-pcyes-430w-aguenta-pc-com-geforce-rtx-3060-e-core-i3-4%C2%AA-gera%C3%A7%C3%A3o/?do=getNewComment "Fonte PCYes 430W aguenta PC com GeForce RTX 3060 e Core i3 4ª geração?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Ricardo hosken](https://www.clubedohardware.com.br/profile/1257507-ricardo-hosken/ "Ir ao perfil de Ricardo hosken")  
-        2 horas atrás
-        
-    * [![Cláudio Piansky](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/s1-bp-items-carousel-stitch-operator-skin.thumb.jpg.ff2754925e3f3133d799923459d99302.jpg)](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")
-        
-        0
-        
-        [SSD NVMe não detectado](https://www.clubedohardware.com.br/forums/topic/1704807-ssd-nvme-n%C3%A3o-detectado/?do=getNewComment "SSD NVMe não detectado")
+        [Recomendações de SSD (NVMe ou sata)](https://www.clubedohardware.com.br/forums/topic/1704849-recomenda%C3%A7%C3%B5es-de-ssd-nvme-ou-sata/?do=getNewComment "Recomendações de SSD (NVMe ou sata)")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Cláudio Piansky](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")  
-        2 horas atrás
+        Por [Cristhyan](https://www.clubedohardware.com.br/profile/1255552-cristhyan/ "Ir ao perfil de Cristhyan")  
+        57 minutos atrás
         
-    * [![Brghoulzin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1240291.thumb.jpeg.ade1cc60c1ef8b7e37b2d7248859238d.jpeg)](https://www.clubedohardware.com.br/profile/1240291-brghoulzin/ "Ir ao perfil de Brghoulzin")
+    * [![Gabriel Gouveia](https://www.clubedohardware.com.br/uploads/members/monthly_2022_02/H2.thumb.png.8512829907672b881b57e813725429e9.png)](https://www.clubedohardware.com.br/profile/857930-gabriel-gouveia/ "Ir ao perfil de Gabriel Gouveia")
         
         5
         
-        [PEGAR VIRUS USANDO UMA CHAVE DO WINDOWS EH possível?](https://www.clubedohardware.com.br/forums/topic/1704806-pegar-virus-usando-uma-chave-do-windows-eh-poss%C3%ADvel/?do=getNewComment "PEGAR VIRUS USANDO UMA CHAVE DO WINDOWS EH possível?")
+        [Posso usar a Redragon RGPS 600W com uma RX 6750XT temporariamente?](https://www.clubedohardware.com.br/forums/topic/1704847-posso-usar-a-redragon-rgps-600w-com-uma-rx-6750xt-temporariamente/?do=getNewComment "Posso usar a Redragon RGPS 600W com uma RX 6750XT temporariamente?")
         
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [Brghoulzin](https://www.clubedohardware.com.br/profile/1240291-brghoulzin/ "Ir ao perfil de Brghoulzin")  
-        3 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Gabriel Gouveia](https://www.clubedohardware.com.br/profile/857930-gabriel-gouveia/ "Ir ao perfil de Gabriel Gouveia")  
+        1 hora atrás
         
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
+        
+        0
+        
+        [Melhor placa-mãe para minha configuração AM5](https://www.clubedohardware.com.br/forums/topic/1704846-melhor-placa-m%C3%A3e-para-minha-configura%C3%A7%C3%A3o-am5/?do=getNewComment "Melhor placa-mãe para minha configuração AM5")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
+        1 hora atrás
+        
+    * [![EmersonZx989](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257557.thumb.jpeg.5d305f132e6926d33b93a778f80a1fd9.jpeg)](https://www.clubedohardware.com.br/profile/1257557-emersonzx989/ "Ir ao perfil de EmersonZx989")
+        
+        17
+        
+        [Qual é a melhor placa custo-benefício atualmente?](https://www.clubedohardware.com.br/forums/topic/1704845-qual-%C3%A9-a-melhor-placa-custo-benef%C3%ADcio-atualmente/?do=getNewComment "Qual é a melhor placa custo-benefício atualmente?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [EmersonZx989](https://www.clubedohardware.com.br/profile/1257557-emersonzx989/ "Ir ao perfil de EmersonZx989")  
+        1 hora atrás
+        
+    * [![Kauêsch](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247131.thumb.jpeg.f8332d9bb448746e38bd90c94494542a.jpeg)](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")
         
         3
         
-        [hdd do Aliexpress usado](https://www.clubedohardware.com.br/forums/topic/1704805-hdd-do-aliexpress-usado/?do=getNewComment "hdd do Aliexpress usado")
+        [Qual placa de vídeo vcs me recomendam para um Ryzen 7 5700g](https://www.clubedohardware.com.br/forums/topic/1704844-qual-placa-de-v%C3%ADdeo-vcs-me-recomendam-para-um-ryzen-7-5700g/?do=getNewComment "Qual placa de vídeo vcs me recomendam para um Ryzen 7 5700g")
         
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Kauêsch](https://www.clubedohardware.com.br/profile/1247131-kau%C3%AAsch/ "Ir ao perfil de Kauêsch")  
+        1 hora atrás
+        
+    * [![FrostX](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257453.thumb.jpeg.afad70a9158869413761a4265effab48.jpeg)](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")
+        
+        1
+        
+        [É possível montar um pc bom com R$1.000?](https://www.clubedohardware.com.br/forums/topic/1704843-%C3%A9-poss%C3%ADvel-montar-um-pc-bom-com-r1000/?do=getNewComment "É possível montar um pc bom com R$1.000?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [FrostX](https://www.clubedohardware.com.br/profile/1257453-frostx/ "Ir ao perfil de FrostX")  
+        1 hora atrás
+        
+    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+        
+        1
+        
+        [não consigo baixar no internet archive](https://www.clubedohardware.com.br/forums/topic/1704842-n%C3%A3o-consigo-baixar-no-internet-archive/?do=getNewComment "não consigo baixar no internet archive")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
         Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        2 horas atrás
+        
+    * [![nulopcs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/rei.thumb.jpg.72748e91c93363385ecb690882d9c062.jpg)](https://www.clubedohardware.com.br/profile/1257099-nulopcs/ "Ir ao perfil de nulopcs")
+        
+        1
+        
+        [Indicação de monitor até R$ 1.000,00 de preferência 27''](https://www.clubedohardware.com.br/forums/topic/1704841-indica%C3%A7%C3%A3o-de-monitor-at%C3%A9-r-100000-de-prefer%C3%AAncia-27/?do=getNewComment "Indicação de monitor até R$ 1.000,00 de preferência 27''")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [nulopcs](https://www.clubedohardware.com.br/profile/1257099-nulopcs/ "Ir ao perfil de nulopcs")  
+        2 horas atrás
+        
+    * [![FoxBlack](https://www.clubedohardware.com.br/uploads/members/monthly_2023_04/1684354289_MariaNavalhaII.thumb.jpg.c1007b9d8525d19d42ad1739d0a1b002.jpg)](https://www.clubedohardware.com.br/profile/1150012-foxblack/ "Ir ao perfil de FoxBlack")
+        
+        3
+        
+        [Ryzen 5 5600GT não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1704840-ryzen-5-5600gt-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Ryzen 5 5600GT não dá vídeo")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [FoxBlack](https://www.clubedohardware.com.br/profile/1150012-foxblack/ "Ir ao perfil de FoxBlack")  
+        3 horas atrás
+        
+    * [![rickgui](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236ac462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257554-rickgui/ "Ir ao perfil de rickgui")
+        
+        1
+        
+        [Radeon RX 6600 com 1 ano de uso vale R$ 800,00?](https://www.clubedohardware.com.br/forums/topic/1704839-radeon-rx-6600-com-1-ano-de-uso-vale-r-80000/?do=getNewComment "Radeon RX 6600 com 1 ano de uso vale R$ 800,00?")
+        
+        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
+        Por [rickgui](https://www.clubedohardware.com.br/profile/1257554-rickgui/ "Ir ao perfil de rickgui")  
         3 horas atrás
         
     
