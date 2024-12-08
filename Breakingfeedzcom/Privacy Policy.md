@@ -83,7 +83,7 @@ We reserve the right, at any time, to add to, change, update, or modify this Pol
 Random
 ------
 
-[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](https://breakingfeedz.com/img/default.png)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
+[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](//news.littlecdn.com/360x240/1567505880_5d6e3dd8ac9967.00824352.jpeg)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
 
 [Travel](https://breakingfeedz.com/categories/travel)
 
@@ -113,7 +113,7 @@ Random
 
 ### [UK harvests its first crop of chickpeas](https://breakingfeedz.com/posts/uk-harvests-its-first-crop-of-chickpeas "UK harvests its first crop of chickpeas")
 
-[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](https://breakingfeedz.com/img/default.png)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
+[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](//news.littlecdn.com/360x240/1567505880_5d6e3dd8ac9967.00824352.jpeg)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
 
 [Travel](https://breakingfeedz.com/categories/travel)
 
@@ -143,7 +143,7 @@ Random
 
 ### [UK harvests its first crop of chickpeas](https://breakingfeedz.com/posts/uk-harvests-its-first-crop-of-chickpeas "UK harvests its first crop of chickpeas")
 
-[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](https://breakingfeedz.com/img/default.png)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
+[![Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know](//news.littlecdn.com/360x240/1567505880_5d6e3dd8ac9967.00824352.jpeg)](https://breakingfeedz.com/posts/yes-youre-allowed-to-bring-your-sex-toy-on-an-airplane-heres-what-you-should-know "Yes, You're Allowed to Bring Your Sex Toy on an Airplane - Here's What You Should Know")
 
 [Travel](https://breakingfeedz.com/categories/travel)
 
