@@ -20,7 +20,7 @@
     * [Adventure (261)](https://an1.com/games/adventure/)
     * [Music (30)](https://an1.com/games/music/)
     * [Role Playing (254)](https://an1.com/games/role-playing/)
-    * [Puzzle (162)](https://an1.com/games/puzzle/)
+    * [Puzzle (163)](https://an1.com/games/puzzle/)
     
 * [Programs](https://an1.com/programmy/)
     
