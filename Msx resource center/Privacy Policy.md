@@ -150,10 +150,11 @@ Latest reactions
 
 Latest forum posts
 
-* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
+* [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=11 "Christmas Quiz 2024")
+* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [MO5.com is making a MSX game](https://www.msx.org/forum/msx-talk/development/mo5com-is-making-a-msx-game?page=1 "MO5.com is making a MSX game")
 * [MegaDoom by FCS](https://www.msx.org/forum/msx-talk/software/megadoom-by-fcs "MegaDoom by FCS")
 * [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st?page=1 "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
@@ -162,7 +163,6 @@ Latest forum posts
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
 * [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=28 "Vhd interface for victor hc90/95")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
