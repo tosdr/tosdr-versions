@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [You can call me Sparkles!](https://www.somethingawful.com/awfulvision/goulet-b-twiztid/1/)
-* [The 7 Most Awful Wastes of US Taxpayer Money (Part 1)](https://www.somethingawful.com/most-awful/government-waste-1/1/)
-* [Furry Forums](https://www.somethingawful.com/weekend-web/furry-forums/1/)
-* [Educational Posters](https://www.somethingawful.com/photoshop-phriday/educational-posters/1/)
+* [Bioshock Review](https://www.somethingawful.com/game-reviews/bioshock-review/1/)
+* [Slurmania](https://www.somethingawful.com/weekend-web/slurmania/)
+* [GI Army Funnies: The New Assignment](https://www.somethingawful.com/news/military-comic-afghanistan/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Careers for Kids!](https://www.somethingawful.com/comedy-goldmine/careers-kids-mspaint/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [Name some favorite banner pets (Desktop Only?)](http://forums.somethingawful.com/showthread.php?threadid=4077052 "Name some favorite banner pets (Desktop Only?)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [I've found a promising new musician](http://forums.somethingawful.com/showthread.php?threadid=4077038 "I've found a promising new musician")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Have you ever gotten drunk and put a lampshade on your head?](http://forums.somethingawful.com/showthread.php?threadid=4077085 "Have you ever gotten drunk and put a lampshade on your head?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Robocop: Original Soylent influencer?](http://forums.somethingawful.com/showthread.php?threadid=4077051 "Robocop: Original Soylent influencer?")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Connecticut fucking with neighbors w/highway signage MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4077042 "Connecticut fucking with neighbors w/highway signage MEGATHREAD")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [Name some favorite banner pets (Desktop Only?)](http://forums.somethingawful.com/showthread.php?threadid=4077052 "Name some favorite banner pets (Desktop Only?)")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [post your lights/trees/menorahs/other holiday decorations](http://forums.somethingawful.com/showthread.php?threadid=4077030 "post your lights/trees/menorahs/other holiday decorations")
 
 ### Random Articles
 
-* [Sobriety vs. Demonic Toys](https://www.somethingawful.com/news/demonic-toys-vhs/)
-* [Jesus is Savior](https://www.somethingawful.com/awful-links/awful-link-1743/)
-* [ArdPark Cabins (Thanks, John!)](https://www.somethingawful.com/awful-links/ardpark-cabins/)
-* [Internet FAQ Archives](https://www.somethingawful.com/awful-links/awful-link-3038/)
-* [Pitfall!: The Movie Part II](https://www.somethingawful.com/news/pitfall-movie-part/)
+* [In The Grim Future Of Terminator 2, There Are No Google Maps](https://www.somethingawful.com/news/terminator-party-directions/)
+* [A Seven-Year Old's Guide to Minecraft (Mindcraft 3?)](https://www.somethingawful.com/feature-articles/guide-minecraft-3/1/)
+* [Reunionmania!](https://www.somethingawful.com/your-band-sucks/band-reunions-2007/)
+* [Mike4Fun's homepage!](https://www.somethingawful.com/awful-links/awful-link-964/)
+* [Runner](https://www.somethingawful.com/news/runner-syndrome/)
 
 [Random!](https://www.somethingawful.com/random/)
 
