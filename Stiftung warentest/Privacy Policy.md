@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
-* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
-* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
-* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
+* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
+* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
+* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
 
 Stiftung Warentest
 
