@@ -141,7 +141,7 @@ Footer
 
 High quality coding education maintained by an open source community.
 
-[GitHub GitHub GitHub logo](https://github.com/TheOdinProject) [Discord Discord Discord logo](https://discord.gg/fbFCkYabZB) [Facebook Facebook Facebook logo](https://www.facebook.com/theodinproject/) [Twitter Twitter Twitter logo](https://twitter.com/TheOdinProject)
+[GitHub GitHub GitHub logo](https://github.com/TheOdinProject) [Discord Discord Discord logo](https://discord.gg/fbFCkYabZB) [Facebook Facebook Facebook logo](https://www.facebook.com/theodinproject/) [Twitter TwitterTwitter logo](https://twitter.com/TheOdinProject)
 
 ### About us
 
