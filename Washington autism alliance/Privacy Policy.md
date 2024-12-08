@@ -227,9 +227,9 @@ Kirkland, WA 98033
 
 #### LATEST POSTS
 
+* [New Federal Guidance on Functional Behavioral Assessments (FBAs) and Behavioral Intervention Plans (BIPs)](https://washingtonautismalliance.org/new-federal-guidance-on-functional-behavioral-assessments-fbas-and-behavioral-intervention-plans-bips/ "New Federal Guidance on Functional Behavioral Assessments (FBAs) and Behavioral Intervention Plans (BIPs)")
 * [Creating your own traditions for a safe and joyous holiday](https://washingtonautismalliance.org/creating-your-own-traditions-for-a-safe-and-joyous-holiday/ "Creating your own traditions for a safe and joyous holiday")
 * [2024 Holiday Activities in Washington](https://washingtonautismalliance.org/2024-holiday-activities-in-washington/ "2024 Holiday Activities in Washington")
-* [Why We Say "Disability," Not "Special Needs"](https://washingtonautismalliance.org/why-we-say-disability-not-special-needs/ "Why We Say "Disability," Not "Special Needs"")
 
 #### QUICK LINKS
 
