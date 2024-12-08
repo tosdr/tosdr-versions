@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Henry Venter
+Hugo van Sittert
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=46786252)  
-UMVIKELI PRIVATE SECURITY
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=40565056)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=120638115)  
-Imvubu General Trading
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=34362436)  
+MONSTER SECURITY SERVICES
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=132056384)  
-APTV Telecoms CC
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=136752164)  
+West Coast Horse Trails
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=182945195)  
-Multi CNC Solutions CC
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=147809363)  
+Forgotten Goods (Pty) Ltd
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=146284977)  
-CGHK Enterprises (PTY) LTD
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=72568346)  
+NWET Pty LTD
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=184062719)  
-Vplay Letsheng Mall
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=172288703)  
+CLEVER STUDENTS
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=136930135)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=202582892)  
+Leef in Afrikaans
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=127272505)  
-Cooper Power
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=122442719)  
+All Trucking Solutions
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=4471812)  
-Lemba Truck Stop
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=98191369)  
+Website Café (PTY) LTD
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=129958952)  
-Safe-Train Consulting (PTY) Ltd
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=90977566)  
+FLIPS AUTO ELECTRICAL
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=149907239)  
-Three Moons Emporium
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=162136362)  
+Roekeloos Group
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=163195665)  
-Know Informatics
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=133737131)  
+Itroniq (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=149957459)  
-LEONARD
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=82577382)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=24868924)  
-OrgChart Hosting Pty Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=17885536)  
+Brilliant Roof Products
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=a158bec06ce33b1bde09b8271a987e1376f5de8eb660799265511af788ef7e6e&c=68378521)  
-United Paintball Federation
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=54a970d7a3fb92b9b1701129e5a67ab1674e749ee47028e8f87ecb7c49104a85&c=190069103)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
