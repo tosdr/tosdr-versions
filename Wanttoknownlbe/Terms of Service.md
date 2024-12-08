@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/zo-mooi-is-vriendschap/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-kamervragen-inzake-de-rivm-rechtszaak/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
