@@ -183,20 +183,27 @@ _A comprehensive suite of online tools for converting, editing, and enhancing au
 
 Audio
 
+* [Audio Channel Separator New](https://melobytes.com/en/app/audio_channel_separator)
 * [Audio Denoiser](https://melobytes.com/en/app/audio_denoiser)
 * [Audio Enhancer](https://melobytes.com/en/app/audio_enhancer)
 * [Audio Equalizer](https://melobytes.com/en/app/audio_equalizer)
 * [Audio files converter](https://melobytes.com/en/app/audioconvert)
+* [Audio Glitch Effect New](https://melobytes.com/en/app/audio_glitch_effect)
 * [Audio Noise Reduction](https://melobytes.com/en/app/audio_noise_reduction)
 * [Audio Speed Changer](https://melobytes.com/en/app/audio_speed_changer)
 * [Audio tracks mix](https://melobytes.com/en/app/audio_tracks_mix)
 * [Audio Volume Adjuster](https://melobytes.com/en/app/audio_volume_adjuster)
+* [Background Music Inserter New](https://melobytes.com/en/app/background_music_inserter)
 * [Convert any file to music](https://melobytes.com/en/app/m_anyfile2music)
 * [Echo Effect](https://melobytes.com/en/app/echo_effect)
+* [Extract MP3 Metadata and Album Art New](https://melobytes.com/en/app/extract_mp3_metadata)
+* [Old Radio Effect New](https://melobytes.com/en/app/old_radio_effect)
 * [Pitch Shifter](https://melobytes.com/en/app/pitch_shifter)
 * [Reverb Effect](https://melobytes.com/en/app/reverb_effect)
-* [Reverse Video](https://melobytes.com/en/app/reverse_audio)
+* [Reverse Audio](https://melobytes.com/en/app/reverse_audio)
+* [Silent Sections Trimmer New](https://melobytes.com/en/app/silent_sections_trimmer)
 * [Time Stretching](https://melobytes.com/en/app/time_stretching)
+* [Underwater Sound Effect New](https://melobytes.com/en/app/underwater_sound_effect)
 * [Vocoder effect](https://melobytes.com/en/app/vocoder)
 
 Convert
