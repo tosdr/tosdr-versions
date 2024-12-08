@@ -196,61 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=61455071)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=75116095)  
+Electro-Heat
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=63666425)  
-van Schaik rentals
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=202954083)  
+KTEN PARTS
 
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=81483658)  
-Sonic Electrical Services PTY Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=162116228)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=159897304)  
-Cooper Power
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=205535249)  
+Baby Toddles Infant Care
 
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=93012878)  
-WIP Digital Solutions
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=117910943)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=38558737)  
-TurboFibre
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=149185759)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=192644995)  
-Roamfree Boerdery (PTY) LTD
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=48542936)  
+Fox Alarms & Security
 
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=112061684)  
-AquariumSmiths
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=26087856)  
+Itroniq (Pty) Ltd
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=156152082)  
-TIGERDSL
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=95965127)  
+Goju-Ryu Pretoria East
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=62645942)  
-Skinz Printing & Branding
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=198547203)  
+NWET Pty LTD
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=122196520)  
-Blue Sky Solar Services
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=203543076)  
+Cape Adventure Zone
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=203251052)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=83946966)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=5047767)  
-Leef in Afrikaans
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=161596951)  
+Peter Salvage Pty Ltd
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=105426011)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=183147658)  
+Know Informatics
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=3489417)  
-NIMAWELL
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=114456758)  
+Import Maaw
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
