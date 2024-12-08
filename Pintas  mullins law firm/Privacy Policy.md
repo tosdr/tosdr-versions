@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![St. Louis personal injury lawyers](https://www.pintas.com/wp-content/uploads/2020/05/rockford-personal-injury-lawyer.jpg "St. Louis Personal Injury Lawyers")](https://www.pintas.com/near-me/missouri/st-louis/personal-injury-lawyer "St. Louis Personal Injury Lawyers")
+[![What are the stages of mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-what-are-the-stages-of-mesothelioma.jpg "What Are the Stages of Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/ "What Are the Stages of Mesothelioma?")
 
-[#### St. Louis Personal Injury Lawyers](https://www.pintas.com/near-me/missouri/st-louis/personal-injury-lawyer)
+[#### What Are the Stages of Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-are-the-stages-of-mesothelioma/)
 
-[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
+[![What is a lesion on the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-a-lesion-on-the-lung.jpg "What Is a Lesion on the Lung?")](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/ "What Is a Lesion on the Lung?")
 
-[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
+[#### What Is a Lesion on the Lung?](https://www.pintas.com/practice-areas/lung-cancer/what-is-a-lesion-on-the-lung/)
 
-[![What are the effects of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-effects-of-elder-abuse-scaled.jpg "What Are the Effects of Elder Abuse?")](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/ "What Are the Effects of Elder Abuse?")
+[![Does roundup poison the soil?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-does-roundup-poison-the-soil-scaled.jpg "Does Roundup Poison the Soil?")](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/ "Does Roundup Poison the Soil?")
 
-[#### What Are the Effects of Elder Abuse?](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/)
+[#### Does Roundup Poison the Soil?](https://www.pintas.com/lawsuit/roundup-weed-killer/does-roundup-poison-the-soil/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
