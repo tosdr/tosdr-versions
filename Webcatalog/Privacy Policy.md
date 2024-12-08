@@ -215,9 +215,9 @@ Support
 
 Company
 
-[About](https://webcatalog.io/en/about)
+[About](https://about.webcatalog.io/)
 
-[Careers](https://www.linkedin.com/company/webcatalogapp/jobs/?viewAsMember=true)
+[Careers](https://about.webcatalog.io/careers)
 
 [Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
 
@@ -232,28 +232,6 @@ Legal
 [Impressum](https://webcatalog.io/en/legal/impressum)
 
 [X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
-
-WebCatalog is part of the [WebCatalog](https://webcatalog.io/en/about) family of products:
-
-[WebCatalog
-
-WebCatalog](https://webcatalog.io/)
-
-[WebCatalog
-
-WebCatalog Desktop](https://desktop.webcatalog.io/)
-
-[Singlebox
-
-Singlebox](https://singlebox.app/)
-
-[Switchbar
-
-Switchbar](https://switchbar.com/)
-
-[Translatium
-
-Translatium](https://translatium.app/)
 
 © 2024 WebCatalog, Inc.
 
