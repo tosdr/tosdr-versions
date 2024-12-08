@@ -29,15 +29,17 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
 
-NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!](https://minecraft-server.net/details/whoocraft/ "NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!")[![LifeSteal-SMP](plugins/MineCraft/icons/LifeSteal-SMP_1733668686.png.pagespeed.ce.z7NfVfgPIC.png)
+TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
 
-LifeSteal SMP](https://minecraft-server.net/details/LifeSteal-SMP/ "LifeSteal SMP")[![FlowSurvival](plugins/MineCraft/icons/25x25xFlowSurvival_1733102043.png.pagespeed.ic.SOPm9_oJ8W.jpg)
+Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")[![menacecraft](plugins/MineCraft/icons/25x25xmenacecraft_1652138567.png.pagespeed.ic.HfOnkxYpBG.png)
 
-FlowSurvival](https://minecraft-server.net/details/FlowSurvival/ "FlowSurvival")[![INFISAMNETWORK](plugins/MineCraft/icons/25x25xINFISAMNETWORK_1733636922.png.pagespeed.ic.hEgowr4G90.png)
+Menacecraft Survival Server \[Java and Bedrock\]](https://minecraft-server.net/details/menacecraft/ "Menacecraft Survival Server [Java and Bedrock]")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1731249997.png.pagespeed.ic.8gG4GL2OZk.png)
 
-INFISAM NETWORK](https://minecraft-server.net/details/INFISAMNETWORK/ "INFISAM NETWORK ") [Mastercraft Network](https://minecraft-server.net/details/Mastercraftph/ "Mastercraft Network")
+Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")[![Phoenix-Network](plugins/MineCraft/icons/25x25xPhoenix-Network_1727981381.png.pagespeed.ic.Repj3BU9ZK.png)
+
+Phoenix Network](https://minecraft-server.net/details/Phoenix-Network/ "Phoenix Network")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.05952 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06511 - Created by [Debaucus](https://debauc.us/)
