@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UnitedHealthcare CEO Assassinated (447)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (447 posts)")
-* [Constitution Writing? (2)](https://forum.nationstates.net/viewtopic.php?t=559333&f=23&view=unread#unread ""Constitution Writing?" (2 posts)")
-* [Star Wars: This is The Way (7,031)](https://forum.nationstates.net/viewtopic.php?t=494102&f=19&view=unread#unread ""Star Wars: This is The Way" (7,031 posts)")
-* [UK Politics Thread: Don't Be So Nosey! (309)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (309 posts)")
+* [What triggers you about the AN? (11,390)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (11,390 posts)")
+* [Geography Game II (11,694)](https://forum.nationstates.net/viewtopic.php?t=529733&f=25&view=unread#unread ""Geography Game II" (11,694 posts)")
+* [Draft: Supporting Marijuana Smokers (21)](https://forum.nationstates.net/viewtopic.php?t=559326&f=9&view=unread#unread ""Draft: Supporting Marijuana Smokers" (21 posts)")
+* [2023-24 Israel-Iran proxy conflict (2,656)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (2,656 posts)")
 
 Advertisement
 
