@@ -8,7 +8,7 @@
 
 |     |     |
 | --- | --- |
-| **You are 1 of 1091 active visitors** | **Sunday, December 08, 2024** |
+| **You are 1 of 965 active visitors** | **Sunday, December 08, 2024** |
 
 **EMAIL NEWS**![](/images/clear.gif)
 
@@ -109,7 +109,7 @@ Should you have questions or concerns relating to this Privacy Statement or comp
 |     |     |
 |     |     |    
 
- **QUOTES TO REMEMBER**They that can give up essential liberty to obtain a little temporary safety deserve neither liberty nor safety.� Benjamin Franklin Historical Review of Pennsylvania. \[Note: This sentence was often quoted in the Revolutionary period. It occurs even so early as November, 1755, in an answer by the Assembly of Pennsylvania to the Governor, and forms the motto of Franklin's "Historical Review," 1759, appearing also in the body of the work. � Frothingham: Rise of the Republic of the United States, p. 413. \]
+ **QUOTES TO REMEMBER**The threat posed by humans to the natural environment is nothing compared to the threat to humans posed by global environmental policy. � FRED L. SMITH (1992)
 
 **COPYRIGHT POLICY:** The posting of copyrighted articles and other content, in whole or in part, is not allowed here. We have made an effort to educate our users about this policy and we are extremely serious about this. Users who are caught violating this rule will be warned and/or banned.  
 If you are the owner of content that you believe has been posted on this site without your permission, [please contact our webmaster by following this link](http://keepandbeararms.com/about/contact_us.asp). Please include with your message: (1) the particulars of the infringement, including a description of the content, (2) a link to that content here and (3) information concerning where the content in question was originally posted/published. We will address your complaint as quickly as possible. Thank you.
