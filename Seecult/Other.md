@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-zavrsna-izlozba/direktor-castrixa-stevan-stanojkovich.jpg?itok=srhk6rqr)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-zavrsna-izlozba)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-hollywood/california-001.jpg?itok=wOgOvdmH)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/people-i-dont-no-20-something/people-i-dont-hollywood)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet/trib8.jpg?itok=ZKbKRjWc)](http://seecult.org/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/randybrecker3.jpg?itok=ruV9sMzc)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
