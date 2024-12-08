@@ -107,65 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
-
-New song
-
-[Mahasti - بیگانه](https://lyricstranslate.com/en/mahasti-biganeh-lyrics)
-
-Persian
-
-[![Natalia Arlovskaya](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1392475-1706287626.jpg)](https://lyricstranslate.com/en/translator/natalia-arlovskaya "Natalia Arlovskaya")
-
-New comment
-
-Samurai Ondo (Original Edition) : \[video:https://...  [more](https://lyricstranslate.com/en/comment/1179983#comment-1179983)
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
+[![Mario Hrvat](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/mario-hrvat "Mario Hrvat")
 
 New translation
 
-[Nikolaus Lenau - Himmelstrauer](https://lyricstranslate.com/en/nikolaus-lenau-himmelstrauer-russian)
+[Zera (Serbia) - Četvrtak](https://lyricstranslate.com/en/zera-serbia-cetvrtak-german)
 
-German → Russian
+Serbian → German
 
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New translation
-
-[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorc-madrigal-cibda-de-santi-russian)
-
-Galician → Russian
-
-[![Алексей Чиванков](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1531373-1676917530.jpg)](https://lyricstranslate.com/en/translator/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%87%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2 "Алексей Чиванков")
-
-New song
-
-[Federico García Lorca - Madrigal á cibdá de Santiago](https://lyricstranslate.com/en/federico-garcia-lorca-madrigal-cibda-de-santi-lyrics)
-
-Galician
-
-[![Farhang](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1612297-1710794005.jpg)](https://lyricstranslate.com/en/translator/farhang "Farhang")
-
-New song
-
-[Mahasti - مگیرش از من](https://lyricstranslate.com/en/mahasti-magirash-az-man-lyrics)
-
-Persian
-
-[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
+[![chatterbox](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298088-1589493899.jpg)](https://lyricstranslate.com/en/translator/chatterbox "chatterbox")
 
 New translation
 
-[Federico García Lorca - Arqueros](https://lyricstranslate.com/en/federico-garcia-lorc-arqueros-romanian)
+[Perfect Family (OST) - 혼자 사랑 (Unrequited Love) (honja salang)](https://lyricstranslate.com/en/perfect-family-ost-honja-salang-russian)
 
-Spanish → Romanian
+Korean → Russian
 
-[![ioan.transylvania](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1444866-1696727777.png)](https://lyricstranslate.com/en/translator/ioantransylvania "ioan.transylvania")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
-New comment
+New translation
 
-Dacă iubești poezia ... Arcașii | Arqueros de ...  [more](https://lyricstranslate.com/en/comment/1179982#comment-1179982)
+[Navai - Не приму и даром (Ne primu i darom)](https://lyricstranslate.com/en/navai-ne-primu-i-darom-english)
+
+Russian → English
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New translation
+
+[Navai - Есенин (Yesenin)](https://lyricstranslate.com/en/navai-yesenin-arabic)
+
+Russian → Arabic
+
+[![100wka](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/100wka "100wka")
+
+New song
+
+[Farya Faraji - Entre Le Boeuf Et l'Âne Gris](https://lyricstranslate.com/en/farya-faraji-entre-le-boeuf-et-lane-g-lyrics)
+
+French
+
+[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1733490816.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
+
+New transcription request
+
+[Sesu - Personaje](https://lyricstranslate.com/en/sesu-personaje)
+
+Romanian
+
+[![Mladen Racic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1584085-1690521459.jpg)](https://lyricstranslate.com/en/translator/mladen-racic "Mladen Racic")
+
+New translation
+
+[The Cure - Plainsong](https://lyricstranslate.com/en/cure-plainsong-serbian)
+
+English → Serbian
+
+[![chatterbox](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298088-1589493899.jpg)](https://lyricstranslate.com/en/translator/chatterbox "chatterbox")
+
+New translation
+
+[Perfect Family (OST) - 나는 반딧불 (I am firefly) (naneun bandisbul)](https://lyricstranslate.com/en/perfect-family-ost-naneun-bandisbul-russian)
+
+Korean → Russian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
