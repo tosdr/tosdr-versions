@@ -97,6 +97,7 @@ You can search things like: Games, Franchises, DLC
     * [PC Games](https://www.greenmangaming.com/all-games/platforms-os/pc/)
     * [On Sale](https://www.greenmangaming.com/all-games/on-sale/)
     * [All Games](https://www.greenmangaming.com/all-games/)
+    * [XBOX](https://www.greenmangaming.com/xbox/)
 * [Hot Deals](https://www.greenmangaming.com/hot-deals/)
 * [Sales](https://www.greenmangaming.com/sales/)
 * [Coming Soon](https://www.greenmangaming.com/top-upcoming-games/)
