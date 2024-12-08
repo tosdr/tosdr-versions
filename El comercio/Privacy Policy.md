@@ -31,6 +31,909 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Independiente se disculpó por la derrota ante Liga de Quito
+===========================================================
+
+Independiente del Valle enfrenta un desafío monumental en la final de vuelta de la Liga Pro Serie A 2024.
+---------------------------------------------------------------------------------------------------------
+
+![Independiente del Valle perdió la final de ida de la Liga Pro contra Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T135550.486.jpg)
+
+**Liga de Quito** consiguió una contundente victoria sobre **Independiente del Valle** en la final de ida de la Liga Pro 2024. Los rayados cayeron 3-0 en su visita al Rodrigo Paz Delgado el pasado sábado 7 de diciembre de 2024.
+
+Este duro revés coloca a Liga muy cerca del título, mientras que **Independiente** apela a un milagro futbolístico para revertir el marcador y hacer historia.
+
+### Más noticias:
+
+* [¿Cuándo vuelven a jugar Liga de Quito e IDV la final?](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-cuando-vuelven-jugar.html "¿Cuándo vuelven a jugar Liga de Quito e IDV la final?")
+* [Liga de Quito goleó a Independiente en la primera final de Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "Liga de Quito goleó a Independiente en la primera final de Liga Pro")
+* [Liga de Quito va a la final de la Liga Pro ante Independiente del Valle](https://www.elcomercio.com/deportes/liga-quito-cuenca-liga-pro-final-etapa-2.html "Liga de Quito va a la final de la Liga Pro ante Independiente del Valle")
+
+Tras la derrota, el club de **Sangolquí emitió un comunicado oficial dirigido a sus fanáticos**, disculpándose por el resultado y comprometiéndose a luchar hasta el final.
+
+Independiente del Valle se disculpa con su hinchada
+---------------------------------------------------
+
+“**Lamentamos profundamente que los primeros 90 minutos no hayan sido como esperábamos.** Hoy es un día de reflexión, y este reto solo nos compromete aún más”, expresó el club en sus redes sociales oficiales.
+
+El comunicado también destacó que el equipo luchará con todo en el partido de vuelta, pese a las adversidades.
+
+> Familia [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw):  
+> Lamentamos profundamente que los primeros 90 min no hayan sido como esperábamos. Hoy es un día de reflexión y este reto solo nos compromete y une más. Los últimos 90 vienen con el doble de esfuerzo y unión.  
+> Tenemos una oportunidad más y la vamos a pelear 🫶,… [pic.twitter.com/ucOtXUKCo2](https://t.co/ucOtXUKCo2)
+> 
+> — Independiente del Valle (@IDV\_EC) [December 8, 2024](https://twitter.com/IDV_EC/status/1865815055335342128?ref_src=twsrc%5Etfw)
+
+El duelo decisivo se jugará el próximo sábado 14 de diciembre en el Estadio de Independiente del Valle, ubicado en **Chillo Jijón, Valle de los Chillos.**
+
+El encuentro está programado para las 15:30, en lo que promete ser un choque emocionante con mucho en juego para ambos equipos.
+
+El resumen de la final de ida
+-----------------------------
+
+El encuentro comenzó con una propuesta ofensiva de los locales, que no tardaron en generar peligro con las llegadas por las bandas de **Bryan Ramírez y Jhojan Julio**.
+
+Independiente del Valle, por su parte, adoptó un planteamiento más conservador, buscando evitar los errores en su defensa ante la presión de **Liga**.
+
+A los 19 minutos, **Daniel de la Cruz estrelló un potente remate en el travesaño** y, en la siguiente jugada, Arce tuvo una clara oportunidad, pero el arquero visitante, Guido Villar, logró evitar el gol con una gran intervención.
+
+Aunque los rayados tuvieron su mejor ocasión a los 25 minutos con un tiro libre de Yaimar Medina, el primer tiempo terminó con la ventaja parcial para Liga de Quito, gracias a un cabezazo de **Alex Arce** tras un gran centro de Julio.
+
+La segunda mitad comenzó con Independiente del Valle intentando controlar el juego, pero fue Liga quien amplió su ventaja.
+
+A los 57 minutos, Arce anotó su segundo gol al desviar un disparo de Bryan Ramírez, y a los 72, **Gabriel** **Villamil** selló el 3-0 con un potente disparo desde fuera del área.
+
+Ecuador, como destino emergente de nómadas digitales, afronta desafíos ¿Cuáles son?
+===================================================================================
+
+Ecuador implementó la visa de residencia temporal rentista para trabajo remoto en 2022. Desde entonces hasta este 2024 se ha otorgado 259 visas a nómadas digitales. El promedio anual es de 86. Pero actualmente, la posibilidad de que Ecuador se posicioné como destino emergente de este tipo de trabajadores se ha visto impactada por los \[…\]
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La crisis energética y de inseguridad impacta en la llegada de más nómadas digitales. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-68.jpg)
+
+Ecuador implementó la visa de residencia temporal rentista para trabajo remoto en 2022. Desde entonces hasta este 2024 se ha otorgado 259 visas a nómadas digitales. El promedio anual es de 86. Pero actualmente, la posibilidad de que Ecuador se posicioné como destino emergente de este tipo de trabajadores se ha visto impactada por los problemas que afronta el país internamente.
+
+Más noticias
+------------
+
+* [Ecuador ganó seis premios en los ‘Óscar de turismo’ 2024](https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html "https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html")
+* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
+
+![visualization](https://public.flourish.studio/story/2756105/thumbnail)
+
+En los últimos tres años, el pico más alto de visas emitidas fue el 2023 con un pico de 128, mientras que este año se registran 95. Los beneficiarios de manera general provienen mayoritariamente de Estados Unidos, Canadá, España, Rusia y Alemania. En total, la Cancillería ha tramitado este tipo de visas para extranjeros de 38 países de los cinco continente.
+
+Este flujo es un reflejo del creciente interés global por trabajar remotamente. Este tipo de trabajadores buscan un estilo de vida, en el que se equilibre lo laboral con la posibilidad de moverse y viajar. Pero toman atención en que sean lugares que ofrezcan calidad de vida, costos razonables, buena velocidad a Internet. Este último punto es clave, debido a que su trabajo se concentra en el mundo digital.
+
+Quienes cuentan con una visa nómada de Ecuador se caracterizan por ser jóvenes, de entre 18 y 55 años de edad, principalmente. Los hombres tienen una mayor presencia que las mujeres. Esto, según los registros del Ministerio de Relaciones Exteriores.
+
+Hay una presencia marcada de solteros y muy por debajo están los casados, divorciados o en unión libre (ver visualización interactiva).
+
+![visualization](https://public.flourish.studio/story/2756101/thumbnail)
+
+**Tres factores a favor de Ecuador**
+------------------------------------
+
+Ecuador se ha convertido en un destino atractivo para los nómadas digitales gracias a su **biodiversidad**. El portal especializado [Lonely Planet](https://www.lonelyplanet.com/ "https://www.lonelyplanet.com/") colocó al país como el mejor destino de turismo sostenible, responsable y amigable con medio ambiente. Este tipo de turismo es posible vivirlo en las playas del Pacífico, en la Sierra y la Amazonía, sin necesidad de hacer viajes que ocupen largos traslados.
+
+El **costo de vida** es otro factor a favor, pues el gobierno solo exige un ingreso mínimo mensual de 1 380 dólares, que equivale a tres salarios básicos. El costo de vivir en Ecuador se puede considerar a partir de la canasta básica. Ambato, Loja, Santo Domingo y Machala tienen una canasta inferior a los 800 dólares. En cambio, Quito, Cuenca y Manta no superan los 900 dolares.
+
+Un tercer elemento que distingue al Ecuador es su **riqueza cultural**. Entre los patrimonios de la humanidad, catalogados por la Unesco, están: Quito, Galápagos, Parque Nacional Sangay, Centro Histórico de Cuenca y el sistema vial andino Qhapaq Ñhan.
+
+**Comparación con otros destinos latinoamericanos**
+---------------------------------------------------
+
+El Índice Global de Trabajo Remoto evalúa el potencial de 108 países para ser considerados los mejores destinos para trabajar de forma remota. Este índice mide cuatro parámetros: ciberseguridad, economía, infraestructura digital y física. El último indicador es la seguridad social, con el que se mide qué tanto un país garantiza la calidad de vida a distancia y en el trabajo.
+
+Ecuador se ubicó en el puesto 80 en este listado de 2023, por lo que aún tiene que trabajar en mejorar estas variables. Al comparar con otros países latinoamericanos se ve que se posicionó por encima de Bolivia, El Salvador, Guatemala y Honduras. Pero hay una docena de países que están en [posiciones superiores](https://nordlayer.com/global-remote-work-index/ "https://nordlayer.com/global-remote-work-index/"). Estos son: Uruguay, Chile, Costa Rica, Argentina, Perú, Brasil, México, Panamá, Colombia, República Dominicana, Paraguay y Jamaica.
+
+Por otra parte, Ecuador se encuentra en el puesto 31 de 38, en el ranking de países preferidos por los nómadas digitales. En este listado, liderado por España, Argentina y Rumanía, el país destaca por un bajo ingreso mínimo requerido al mes. Pero enfrenta desventajas en cuanto a velocidad de internet y el cobro de impuestos. A diferencia de otros países que no tienen carga impositiva a los nómadas, Ecuador aplica un 35%. Esto influye en la decisión de quienes buscan un destino fiscalmente más favorable.
+
+**Mejor conectividad en áreas urbanas** que rurales
+---------------------------------------------------
+
+Las áreas urbanas de las ciudades grandes de Ecuador cuentan con una mejor conectividad digital, aunque de manera general está en una posición inferior a otros países preferidos por nómadas.
+
+En las zonas rurales hay avances, pero aún hay un camino por recorrer para conectar a nacionales y extranjeros. El porcentaje de parroquias rurales y cabeceras cantonales con servicio de internet fijo, a través de enlaces de fibra óptica es de 80,8%, al primer trimestre del 2024, según el Ministerio de Telecomunicaciones. Esto representa un total de 846 parroquias rurales y cabeceras cantonales con acceso al servicio de un total de 1 047 localidades.
+
+**Desventajas: crisis energética** y de seguridad
+-------------------------------------------------
+
+Ecuador enfrenta desafíos importantes por las crisis de energía eléctrica y de inseguridad. Esto ha provocado, incluso, que el número de turistas extranjeros caiga significativamente.
+
+Los ecuatorianos han afrontado cortes de luz de hasta 14 horas y actualmente han bajado a cinco. Los trabajadores digitales recurren a soluciones como UPS para mantener su trabajo, pero esto no deja de ser un factor que detiene a los nómadas que quieren venir al país.
+
+Ecuador es dependiente de la energía hidroeléctrica que fue impactada por una sequía, que no se ha visto en los últimos 15 años. Para superar esta crisis se requiere [inversión privada](https://www.elcomercio.com/opinion/editorial/crisis-energetica-dos-problemas-a-solucionar-en-ecuador.html "https://www.elcomercio.com/opinion/editorial/crisis-energetica-dos-problemas-a-solucionar-en-ecuador.html"), pero esta solo llegará si el país ofrece un entorno regulatorio y tarifario que permita competir de manera justa.
+
+Los niveles de inseguridad y violencia también juegan en contra. Entre enero y septiembre de este 2024, el país registra 4 845 homicidios intencionales, según el Ministerio del Interior. Esto significa que la tasa de homicidios es de 28,6 por cada 100 mil habitantes, superior a la media regional. Al comparar con igual periodo del 2023 hay una caída de 1 030 muertes violentas.
+
+**La llegada extranjeros al Ecuador ha ido en descenso**
+--------------------------------------------------------
+
+El impacto económico que generan los nómadas digitales pudiera ser significativo. Con su llegada, sectores como el turismo y el alojamiento pueden verse beneficiados. Pero, Ecuador afronta un descenso en el número de personas que llegan al país, ya sea por turismo u otros motivos. Las cifras del Ministerio de Gobierno muestran que este 2024 han entrado al país 1,1 millones de ciudadanos. Esta cifra es menos de la mitad de los que llegaron en 2018, en el que se registró el ingreso de 2,5 millones. Por otra parte, salen más ecuatorianos de los que llegan del extranjero.
+
+Otro indicador de referencia es la apertura turística, que muestra la importancia del gasto turístico internacional en la economía del país. Según el Banco Central, mientras en 2018 este indicador fue de 3,5%, en el segundo trimestre de este 2024 fue de 2,8%. Mientras más alto es este indicador más relevante es en términos económicos, pero este no es el caso.
+
+Sofía Selina, del Hotel Selina, un sitio que acogía a nómadas digitales en Quito, confirma que hace mucho tiempo que este tipo de trabajadores no llegan “por la situación del país”. Espera que el 2025 sea un mejor año.
+
+Los nómadas suelen alojarse en hoteles boutique, alquileres temporales y van a espacios de coworking, lo que dinamiza estos sectores. Este medio consultó al personal de dos coworking, pero afirmaron que no conocían a ningún nómada.
+
+**Testimonio: Gerardine Bracho**
+--------------------------------
+
+Gerardine Bracho, asistente virtual y project manager con casi dos años en Ecuador, comparte su experiencia:
+
+  
+_“_El trabajo remoto me da libertad de tiempo y espacio. Puedo disfrutar de eventos familiares, como las fiestas de Quito de mi hijo, sin que mis clientes sepan dónde estoy. Sin embargo, los apagones recientes me han complicado; uso un UPS para mitigar el impacto, pero no siempre es suficiente. La inseguridad es otro factor. Antes llevaba mi laptop a todas partes, pero ahora prefiero no arriesgarme. A pesar de esto, sigo viajando dentro del país y disfruto de la flexibilidad que me ofrece este estilo de vida.”
+
+Personas fallecieron en siniestros de tránsito durante el feriado por Fiestas de Quito
+======================================================================================
+
+Siniestros de tránsito se registraron en el feriado por las Fiestas de Quito.
+-----------------------------------------------------------------------------
+
+![Un siniestro de tránsito se produjo en Pifo durante el feriado de Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-14.jpg)
+
+El feriado por las **Fiestas de Quito 2024** dejó víctimas mortales por siniestros de tránsito. El Cuerpo de Bomberos dio un reporte.
+
+La entidad reportó **18 sucesos** en distintos puntos de la capital. Además, se registraron personas heridas durante los hechos.
+
+### Más noticias
+
+* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
+* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+* [Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja](https://www.elcomercio.com/actualidad/ecuador/familiares-fallecidos-siniestro-catamayo-esperan-centro-forense-loja.html "Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja")
+
+> 🔸[#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en el sector del redondel de Pifo – Papallacta.  
+>   
+> 🚑 Dos personas resultaron afectadas y reciben atención prehospitalaria por parte de nuestros paramédicos.  
+>   
+> 👨🏻‍🚒 Conduce con precaución. No arriesgues tu… [pic.twitter.com/eG2kYuEUJu](https://t.co/eG2kYuEUJu)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 8, 2024](https://twitter.com/BomberosQuito/status/1865798665404547517?ref_src=twsrc%5Etfw)
+
+Siniestros de tránsito en Fiestas de Quito
+------------------------------------------
+
+Según la institución, durante el feriado por el 6 de diciembre se evidenció una alta incidencia de **siniestros de tránsito**.
+
+En el sector de **Inguiñaro**, en la vía E-35, un vehículo liviano cayó a una quebrada y se incendió. Una mujer falleció.
+
+Además, en **Zambiza**, en la av. Simón Bolívar, se produjo un choque de un automotor contra un poste.
+
+En cambio, en el sector **Quito Sur**, a la altura de la parada España del Trole, se reportó el impacto de un vehículo contra un cerramiento. Una persona resultó herida.
+
+Emergencias en otros punto
+--------------------------
+
+En las avenidas **10 de Agosto y Orellana**, un motociclista protagonizó el siniestro. Una personas falleció y otra fue trasladada a una casa de salud, en estado crítico.
+
+Otro hecho se dio en Miravalle, en las avenidas **Simón Bolívar** e Interoceánica. Se trató de un choque múltiple de tres vehículos. Una persona fue atendida debido al hecho. En la zona, además, un vehículo se volcó.
+
+Hacia el norte de Quito, en **El Condado** se produjo un choque frontal de vehículo contra una baranda. Dos personas fueron extraídas del vehículo y atendidas por paramédicos.
+
+Más fallecidos
+--------------
+
+En el sector de Pifo, en cambio, el **Cuerpo de Bomberos de Quito** reportó un choque de un vehículo. El saldo fue un hombre de 32 años sin vida.
+
+Otra persona falleció en la **Ruta Viva**, antes del intercambiador de la Intervalles. Se registró un choque, luego de una pérdida de pista y el impacto contra un poste.
+
+Siniestros en múltiples sitios
+------------------------------
+
+En el sector de **La Magdalena** alta, en el barrio Paraíso, un vehículo pequeño cayó a una quebrada. No hubo personas atrapadas.
+
+Por otro lado, en Pifo, en el barrio **La Isla**, se dio un atropello a un menor de edad y su madre. Ellos aparentemente se encontraban cruzando la vía E-35. Ambos fueron llevados a una casa de salud.
+
+En el redondel de **Pifo**, vía a Papallacta, hubo un volcamiento de un taxi y hubo personas heridas y llevadas a una casa de salud. Otros hechos ocurrieron en Pomasqui, Ferroviaria, Amaguaña, entre otros sitios.
+
+Chelsea y Moisés Caicedo le remontaron a los Spurs
+==================================================
+
+El Chelsea continúa con su gran momento en la Premier League y suma su cuarta victoria consecutiva.
+---------------------------------------------------------------------------------------------------
+
+![Moisés Caicedo durante el partido entre el Tottenham y el Chelsea por la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T124615.879.jpg)
+
+El **Chelsea** consiguió una importante victoria frente al Tottenham, uno de sus clásicos rivales, en la jornada 15 de la Premier League. **Moisés Caicedo**, quien disputó los 90 minutos, fue clave en el triunfo.
+
+Los **‘Blues’ remontaron un 2-0** inicial para imponerse 3-4 este domingo 8 de diciembre en el estadio de los Spurs, consolidando el alto nivel mostrado en los últimos meses.
+
+### Más noticias:
+
+* [Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-conquista-el-premio-al-mejor-gol-del-mes-en-el-chelsea.html "Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea")
+* [Moisés Caicedo compite por el Gol del Mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gol-mes-chelsea-votacion.html "Moisés Caicedo compite por el Gol del Mes en el Chelsea")
+* [Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-apunta-a-cerrar-el-ano-zona-champions-league.html "Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions")
+
+Con este resultado, el **Chelsea se mantiene en la segunda posición de la Premier League** con 31 puntos, solo por detrás del líder Liverpool, que acumula 35 unidades y cuenta con un partido pendiente.
+
+Tottenham golpeó temprano al Chelsea
+------------------------------------
+
+El Tottenham se adelantó rápidamente en el marcador. A los 5 minutos, **Dominic Solanke** abrió la cuenta tras un error de **Marc Cucurella**, quien perdió el equilibrio y entregó el balón a **Brennan Johnson**.
+
+> ¡GOL DEL TOTTENHAM! Error de Cucurella y definición de Solanke para el 1-0 ante Chelsea en la [#PREMIERxESPN](https://twitter.com/hashtag/PREMIERxESPN?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/2xJB1zLm8p](https://t.co/2xJB1zLm8p)
+> 
+> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865797755198640320?ref_src=twsrc%5Etfw)
+
+El inglés condujo por la banda derecha hasta la línea de fondo y envió un centro preciso para que Solanke definiera con un remate certero.
+
+Los ‘Spurs’ ampliaron su ventaja al minuto 11. Nuevamente, Cucurella se resbaló, permitiendo que el balón quedara en posesión del rival. Tras una jugada rápida, **Dejan Kulusevski** recibió el esférico en el área, enganchó hacia el centro y disparó un potente remate esquinado para poner el 2-0.
+
+> ¡SEGUNDO DEL TOTTENHAM EN LONDRES! Ahora es Dejan Kulusevski quien aprovecha OTRO ERROR de Cucurella para el 2-0 ante Chelsea.  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DaRJThOTOd](https://t.co/DaRJThOTOd)
+> 
+> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865799341929054271?ref_src=twsrc%5Etfw)
+
+El Chelsea descontó al minuto 21 gracias a **Jadon Sancho**, quien desde el sector izquierdo sacó un potente remate cruzado desde fuera del área, dejando sin opciones al arquero Fraser Forster.
+
+Los ‘Blues’ estuvieron cerca de empatar a la media hora de juego. **Cole Palmer** intentó con un disparo que Forster rechazó; en el rebote, el portero del Tottenham volvió a lucirse al atajar el remate del portugués **Pedro Neto**.
+
+> ¡GOLAZO de Chelsea! Espectacular lo de Jadon Sancho para descontar vs. Tottenham en la [#PREMIERxESPN](https://twitter.com/hashtag/PREMIERxESPN?src=hash&ref_src=twsrc%5Etfw).  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/IXFiIKL2o0](https://t.co/IXFiIKL2o0)
+> 
+> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865800893297205723?ref_src=twsrc%5Etfw)
+
+Moisés Caicedo generó el penal del empate
+-----------------------------------------
+
+En la segunda mitad, el Chelsea salió con intensidad en busca del empate. Al minuto 48, Jadon Sancho tuvo una oportunidad clara frente al arco, pero otra vez Fraser Forster se interpuso con una gran atajada, frustrando los intentos de los visitantes.
+
+El Chelsea dominó por completo la segunda mitad y encontró su recompensa a los 58 minutos. **Moisés Caicedo**, quien arrancó el partido como lateral, mostró también su faceta ofensiva al aparecer dentro del área y provocar un penal para su equipo tras una dura falta de **Yves Bissouma**.
+
+> PENAL PARA CHELSEA.  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bkjhBmbZ3P](https://t.co/bkjhBmbZ3P)
+> 
+> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865815641296408949?ref_src=twsrc%5Etfw)
+
+El encargado de ejecutar la pena máxima fue **Cole Palmer**, quien, con mucha calma, transformó el penal en gol, igualando el marcador.
+
+El Chelsea completó la remontada a los 72 minutos. **Enzo Fernández**, el capitán que ha mostrado un nivel excepcional en el último mes, fue el autor del gol que selló el 3-2.
+
+El argentino aprovechó un balón suelto dentro del área y, con un **potente zurdazo, venció al portero**, desatando la euforia de los aficionados.
+
+> ¡PEGALE DE PRIMERA, ENZO! ¡GOLAZO DEL CAMPEÓN DEL MUNDO ANTE TOTTENHAM!  
+>   
+> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xSuPj6LkM4](https://t.co/xSuPj6LkM4)
+> 
+> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865819381470576707?ref_src=twsrc%5Etfw)
+
+En los minutos finales, **Cole** **Palmer** selló su doblete tras convertir otro penal cometido por los Spurs, sentenciando el partido con un marcador de 2-4.
+
+Ya en el agregado, Heung-Min Son, el capitán de los locales, anotó a los 90+6′ para que el partido finalice 3-4
+
+El Mundial de Clubes 2025 promete ser histórico para Ecuador
+============================================================
+
+El nuevo formato del Mundial de Clubes contará con una notable representación ecuatoriana, marcando un hito en la historia del fútbol del país.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Willian Pacho, Moisés Caicedo y Gonzalo Plata son tres de lo sisete ecuatorianos presentes en el Mundial de Clubes 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T122429.086.jpg)
+
+Hasta ahora, la mayor presencia ecuatoriana en el **Mundial de Clubes** se había dado en 2008, cuando **Liga de Quito** disputó la competición con más de 10 jugadores nacionales en su plantel.
+
+Desde entonces, lo máximo que **Ecuador** había aportado eran dos futbolistas en una misma edición. Sin embargo, esto cambiará radicalmente en 2025, cuando siete ecuatorianos formen parte de uno de los torneos más prestigiosos del mundo.
+
+### Más noticias:
+
+* [Calendario de los ecuatorianos en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/calendario-de-los-ecuatorianos-en-el-mundial-de-clubes-2025.html "Calendario de los ecuatorianos en el Mundial de Clubes 2025")
+* [Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/real-madrid-chelsea-boca-juniors-los-duelos-imperdibles-del-mundial-de-clubes.html "Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes")
+* [Los grupos del Mundial de Clubes quedaron definidos](https://www.elcomercio.com/deportes/mundial-clubes-grupos-2025-equipos.html "Los grupos del Mundial de Clubes quedaron definidos")
+
+Una edición histórica para los ecuatorianos
+-------------------------------------------
+
+El renovado **Mundial de Clubes**, que adoptará un formato similar al de la Copa del Mundo de selecciones y s**e jugará cada cuatro años**, contará con la participación de los siguientes ecuatorianos:
+
+* **Moisés Caicedo** (Chelsea)
+* **Willian Pacho** (París Saint-Germain)
+* **Gonzalo Plata** (Flamengo)
+* **Leonardo Campana** (Inter Miami)
+* **Jordy Alcívar** (León)
+* **Ángel Mena** y **Andrés Micolta** (Pachuca)
+
+Además, existe la posibilidad de que **Kendry Páez**, adquirido por el Chelsea por 20 millones de dólares, se sume al plantel de los ‘Blues’ para este torneo, lo que elevaría a **ocho el número de ecuatorianos** en esta edición.
+
+Este evento será histórico no solo por la cantidad de jugadores ecuatorianos, sino también por el nivel de competencia y complejidad que representa. Los mejores clubes del mundo **lucharán por la primera estrella de este nuevo formato**, consolidando al Mundial de Clubes como un escenario de élite.
+
+Para Ecuador, este torneo simboliza un avance significativo, resaltando el crecimiento y la influencia del talento nacional en el panorama **futbolístico** **internacional**.
+
+### Calendario de partidos
+
+### Sábado 14 de junio
+
+Inter Miami vs. Al Ahly
+
+**Hora**: 19:00
+
+**Estadio**: Hard Rock Stadium
+
+### Domingo 15 de junio
+
+París Saint-Germain vs. Atlético de Madrid
+
+**Hora**: 14:00
+
+**Estadio**: Rose Bowl Stadium
+
+### Lunes 16 de junio
+
+Chelsea vs. León
+
+**Hora**: 14:00
+
+**Estadio**: Mercedes-Benz Stadium
+
+Flamengo vs. Espérance Sportive de Tunis
+
+**Hora**: 20:00
+
+**Estadio**: Lincoln Financial Field
+
+### Miércoles 18 de junio
+
+Pachuca vs. FC Salzburgo
+
+**Hora**: 14:00
+
+**Estadio**: TQL Stadium
+
+### Jueves 19 de junio
+
+Inter Miami vs. Porto
+
+**Hora**: 14:00
+
+**Estadio**: Hard Rock Stadium
+
+PSG vs. Botafogo
+
+**Hora**: 15:00
+
+**Estadio**: Rose Bowl Stadium
+
+### Viernes 20 de junio
+
+Flamengo vs. Chelsea
+
+**Hora**: 13:00
+
+**Estadio**: Lincoln Financial Field
+
+León vs. Espérance Sportive de Tunis
+
+**Hora**: 16:00
+
+**Estadio**: Nashville, GEODIS Park
+
+### Domingo 22 de junio
+
+Real Madrid vs. Pachuca
+
+**Hora**: 14:00
+
+**Estadio**: Bank of America Stadium
+
+### Lunes 23 de junio
+
+Seattle Sounders vs. París Saint-Germain
+
+**Hora**: 14:00
+
+**Estadio**: Seattle Lumen Field
+
+Inter Miami vs. Palmeiras
+
+**Hora**: 20:00
+
+**Estadio**: Hard Rock Stadium
+
+### Martes 24 de junio
+
+León vs. Flamengo
+
+**Hora**: 20:00
+
+**Estadio**: Camping World Stadium
+
+Espérance Sportive de Tunis vs. Chelsea
+
+**Hora**: 20:00
+
+**Estadio**: Lincoln Financial Field
+
+### Jueves 26 de junio
+
+Al Hilal vs. Pachuca
+
+**Hora**: 20:00
+
+**Estadio**: Nasville GEODIS Park
+
+Formulario de registro aduanero tendrá una variación desde este 9 de diciembre
+==============================================================================
+
+Una nueva modalidad se implementará para el formulario de registro aduanero.
+----------------------------------------------------------------------------
+
+![Una nueva modalidad se implementa en la Aduana.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-13.jpg)
+
+Desde este lunes, 9 de diciembre de 2024, el formulario de registro aduanero tiene una novedad. Este es un paso que deben cumplir las personas que ingresan o salen de **Ecuador**.
+
+En el documento se debe declarar el dinero en efectivo con el que se movilizan los **pasajeros**.
+
+### Más noticias
+
+* [Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia](https://www.elcomercio.com/actualidad/seguridad/agentes-aduana-implicados-ingreso-2-millones-de-dolares-senae-denuncia.html "Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia")
+* [ANT trabaja en reglamento para regular motos eléctricas y scooters en Ecuador](https://www.elcomercio.com/actualidad/ecuador/ant-reglamento-regulacion-motos-scooter.html "ANT trabaja en reglamento para regular motos eléctricas y scooters en Ecuador")
+* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
+
+Formulario de registro aduanero y los cambios
+---------------------------------------------
+
+El formulario va dirigido para personas que cuentan con dinero en efectivo igual o superior a **10 000 dólares** o su equivalente en otras monedas. Los montos deben declararse también en la salida del país.
+
+El **Servicio Nacional de Aduana del Ecuador (Senae)** informó que ese proceso se podrá hacer en línea, desde este 9 de diciembre de 2024.
+
+> !Atención! 📣  
+>   
+> Puedes realizar el Formulario de Registro Aduanero de manera electronica desde tu computadora 💻 o dispositivo movil 📱  
+>   
+> Visita nuestra pagina web ➡️ [https://t.co/bPkcxRhIVN](https://t.co/bPkcxRhIVN)[#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wyMxjsqSyc](https://t.co/wyMxjsqSyc)
+> 
+> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 8, 2024](https://twitter.com/SENAE_Aduana/status/1865562741907304468?ref_src=twsrc%5Etfw)
+
+El proceso de registro
+----------------------
+
+Para llenar el **formulario en línea**, las personas que requieran el trámite deben ingresar al sitio web de la aduana del Ecuador.
+
+El siguiente paso es crear una cuenta con **usuario y contraseña**. Luego ya se puede llenar el formulario, con los datos requeridos.
+
+Al completar el documento se debe generar un **código QR**, para presentar en el control aduanero. Se puede cumplir con este trámite hasta tres días antes del viaje.
+
+Las sanciones
+-------------
+
+Los viajeros que no cumplan con el proceso pueden enfrentar sanciones legales, como **multas y la confiscación de bienes**.
+
+Desde el 29 de julio de 2025, el trámite será obligatorio para todos y solo se presentará de forma **digital**. En la actualidad, el trámite se cumple en los aeropuertos, solicitando el formulario físico.
+
+Horarios de cortes de luz en Guayaquil están listos para este 9 de diciembre
+============================================================================
+
+Cortes de luz en Guayaquil se ejecutarán este 9 de diciembre. Hay horarios definidos.
+-------------------------------------------------------------------------------------
+
+![Los cortes de luz en Guayaquil y el resto de Ecuador se mantienen.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-12.jpg)
+
+Los **cortes de luz** en Guayaquil están definidos para la semana del 9 al 15 de diciembre de 2024. Estos durarán tres horas continuas para el sector residencial. Al menos así lo publicó la empresa proveedora del servicio[.](https://es.wikipedia.org/wiki/Guayaquil)[](https://es.wikipedia.org/wiki/Guayaquil)
+
+La **Corporación Nacional de Electricidad (CNEL)** definió una programación de lunes a viernes 13 y otra, para el sábado y domingo.
+
+### Más noticias
+
+* [Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-8-de-diciembre.html "Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre")
+* [¿Cuáles son los horarios de cortes de luz en Quito para este 9 de diciembre?](https://www.elcomercio.com/actualidad/quito/cuales-son-los-horarios-de-cortes-de-luz-en-quito-para-este-9-de-diciembre.html "¿Cuáles son los horarios de cortes de luz en Quito para este 9 de diciembre?")
+* [Cortes de luz en Guayaquil del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-9-15-diciembre.html "Cortes de luz en Guayaquil del 9 al 15 de diciembre")
+
+Cortes de luz en Guayaquil
+--------------------------
+
+La ministra de Energía y Minas, **Inés Manzano**, ofreció que Ecuador terminará el 2024 sin apagones.
+
+Ese anuncio se dio luego de que el presidente **Daniel Noboa** aseguró que los racionamientos terminarían en este diciembre.
+
+En el caso de Guayaquil, en el cronograma de suspensión de **energía eléctrica** hay períodos, por ejemplo, de 08:00 a 11:00, en sitios como Venecia, San Pedro, San Jacinto, entre otros.
+
+También se contemplan horarios en la madrugada, como de 00:00 a 03:00, en sectores como **Villa Brisas del Mar**.
+
+Brighton de Pervis Estupiñán dejó escapar una importante victoria
+=================================================================
+
+El Brighton & Hove Albion sigue sin poder levantar cabeza y se aleja de los puestos de clasificación a la Champions League.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán en un partido con el Brighton por la Premier League 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T112218.565.jpg)
+
+El **Brighton de Pervis Estupiñán** dejó escapar otra gran oportunidad de sumar tres puntos, esta vez frente al Leicester City. Las ‘Gaviotas’, que ganaban por dos goles hasta el minuto 85, permitieron que el rival empatara el encuentro 2-2.
+
+Este partido, jugado el domingo 8 de diciembre por la jornada 15 de la **Premier League**, extendió a tres los partidos consecutivos del Brighton sin conocer la victoria, alejándolos de los puestos europeos.
+
+### Más noticias:
+
+* [Brighton perdió y se aleja de los puestos de Champions](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-fulham-resultado.html "Brighton perdió y se aleja de los puestos de Champions")
+* [Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier](https://www.elcomercio.com/deportes/pervis-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier")
+* [Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder](https://www.elcomercio.com/deportes/futbol/brighton-dejo-escapar-la-victoria-liverpool-nuevo-lider-premier-leauge.html "Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder")
+
+Actualmente, el equipo de **Pervis** **Estupiñán** ocupa la séptima posición de la tabla con 24 puntos, gracias a seis victorias, seis empates y tres derrotas en lo que va del campeonato.
+
+### Brighton dejó escapar otra oportunidad
+
+El conjunto dirigido por Fabian Hürzeler no pudo contrarrestar el impacto que ha tenido **Ruud** **van** **Nistelrooy** en el Leicester City.
+
+Desde su llegada, el técnico neerlandés ha revitalizado a los ‘Foxes’, logrando cortar una racha negativa de cinco partidos sin victorias en **Premier** **League**. Tras debutar con un triunfo por 3-1 sobre el West Ham, Van Nistelrooy sumó otro buen resultado al empatar ante el Brighton en un emocionante desenlace.
+
+En el duelo, el Brighton se adelantó con un golazo de **Tariq Lamptey** al minuto 37, quien sacó un potente zurdazo desde fuera del área. Ya en la segunda parte, Yankuba Minteh amplió la ventaja en el 79 tras una brillante jugada individual en la que dejó atrás a dos defensores antes de definir frente al arquero Bart Verbruggen.
+
+Sin embargo, la reacción del Leicester fue impresionante. Apenas un minuto después, **Jamie** **Vardy** acortó distancias con un remate a quemarropa, y en el tiempo de descuento, Bobby De Cordova-Reid selló el empate con un disparo tras una asistencia del propio **Vardy**.
+
+El efecto Van Nistelrooy
+------------------------
+
+Con este empate, el **Leicester** **City** continúa beneficiándose del llamado “efecto Van Nistelrooy”, que ha revitalizado al equipo, aun en la lucha por alejarse de la zona baja de la tabla.
+
+Mientras tanto, el Brighton, que llegó a estar cerca de la quinta posición, ve cómo sus esperanzas de alcanzar puestos europeos se complican. Su alegría por una aparente victoria se desvaneció en apenas once minutos, dejando a las ‘**Gaviotas**‘ fuera de los primeros lugares de la Premier League.
+
+Trump quiere que los soñadores se queden en Estados Unidos
+==========================================================
+
+El presidente electo de EE.UU., Donald Trump, ratificó que eliminará la ciudadanía por derecho de nacimiento.
+-------------------------------------------------------------------------------------------------------------
+
+![El presidente electo Donald Trump en una reunión en Washington. Archivo](https://www.elcomercio.com/wp-content/uploads/2024/11/Trump-1.jpg)
+
+##### Agencia EFE
+
+El presidente electo de Estados Unidos, **Donald Trump,** dijo en una **entrevista a NBC** que quiere que los **“dreamers” (soñadores)**, beneficiarios del programa de **Acción Diferida para los Llegados en la Infancia** (DACA) a Estados Unidos, puedan quedarse en el país.
+
+En su primera entrevista televisiva tras su **victoria en las elecciones** del 5 de noviembre, el magnate dijo que su “plan” es trabajar con los demócratas para hacer que esto sea posible.
+
+“Algunos de ellos ya no son jóvenes. Y en muchos casos, han tenido éxito. Tienen buenos trabajos. En algunos casos tienen pequeñas empresas. En otros casos, pueden tener grandes empresas. Y vamos a tener que hacer algo con ellos”.
+
+### Más noticias
+
+* [Donald Trump y Volodímir Zelenski se encontraron en París](https://www.elcomercio.com/actualidad/mundo/donald-trump-volodimir-zelenski-se-encontraron-paris.html "Donald Trump y Volodímir Zelenski se encontraron en París")
+* [Emmanuel Macron recibirá a Trump y Zelensky en el Elíseo antes de la reapertura de Notre Dame](https://www.elcomercio.com/actualidad/mundo/emmanuel-macron-recibira-a-trump-y-zelensky-en-el-eliseo-antes-de-la-reapertura-de-notre-dame.html "Emmanuel Macron recibirá a Trump y  Zelensky en el Elíseo antes de la reapertura de Notre Dame")
+* [Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden](https://www.elcomercio.com/actualidad/mundo/defensa-de-trump-pide-desestimar-su-caso-en-nueva-york-tras-indulto-al-hijo-de-biden.html "Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden")
+
+Ciudadanía por derecho de nacimiento en EE.UU.
+----------------------------------------------
+
+**Trump** también señaló que, como prometió en su **campaña electora**l, quiere poner fin a la **ciudadanía por derecho de nacimiento**, algo que está proseguido por la **14ª Enmienda** y solo se podría modificar con una orden ejecutiva. “Le tenemos que poner fin”, dijo.
+
+El presidente electo de los **Estados Unidos, Donald Trump**, aseguró que intentará desde el día uno de su presidencia acabar con el derecho a la ciudadanía por nacimiento, aunque para ello tendría que cambiar una de las enmiendas de la Constitución.
+
+En la entrevista, Trump contestó afirmativamente sobre si tiene planes de acabar el primer día con ese derecho de ciudadanía y sobre la enmienda 14 que consagra ese derecho aseguró: “la vamos a tener que cambiar. Vamos a tener que volver al pueblo y la tenemos que terminar (la enmienda). Somos el único país que la tiene”.
+
+Trump señaló que durante su primer mandato en la Casa Blanca (2017-2021), hubiese querido poner fin a la ciudadanía por derecho de nacimiento mediante una orden ejecutiva, pero la llegada de la pandemia modificó sus planes.
+
+¿Quedan feriados recuperables en 2024 en Ecuador?
+=================================================
+
+Los ecuatorianos tienen 10 feriados nacionales por año; en 2024, resta uno por celebrarse.
+------------------------------------------------------------------------------------------
+
+![Los feriados nacionales y locales son aprovechados para descansar y viajar](https://www.elcomercio.com/wp-content/uploads/2024/12/feriado-ecuador-2024-recuperable.jpg)
+
+Ecuador celebra **10 feriados nacionales** por año según la **Ley Orgánica de Servicio Público**. Estos **descansos obligatorios** son aprovechados para impulsar la economía local a través del **turismo**.
+
+### Más noticias
+
+* [Turismo comunitario en el plan para cerrar las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/turismo-comunitario-ruta-para-cerrar-fiestas-quito.html "Turismo comunitario en el plan para cerrar las fiestas de Quito")
+* [Metro de Quito: Pabel Muñoz y Daniel Noboa hicieron un compromiso](https://www.elcomercio.com/actualidad/quito/metro-quito-pabel-munoz-daniel-noboa-hicieron-compromiso.html "Metro de Quito: Pabel Muñoz y Daniel Noboa hicieron un compromiso")
+* [Feriado de Año Nuevo será extendido en Ecuador](https://www.elcomercio.com/actualidad/feriado-nacional-de-ano-nuevo-sera-extendido.html "Feriado de Año Nuevo será extendido en Ecuador")
+
+De estos asuetos, los ecuatorianos festejaron **nueve**; queda un feriado por conmemorarse en **2024**.
+
+Feriado de Navidad
+------------------
+
+El último feriado que le resta a Ecuador es el de **Navidad**. La celebración religiosa coincidió este año en miércoles.
+
+Navidad conmemora el nacimiento de **Jesucristo**. En los días previos y posteriores a esta fecha se realizan varias actividades familiares y sociales.
+
+Una de las tradiciones más importantes es la **Misa del Gallo**, que se realiza la noche del 24 de diciembre.
+
+Justamente, en la **Nochebuena**, las familiares se reúnen para compartir una **cena** e intercambiar regalos. Otras de las tradiciones propia de esta época es la **novena**, donde las personas se reúnen para rezar y cantar villancicos.
+
+El feriado de Navidad **no es recuperable**, por lo que los trabajadores no están obligados a devolver su jornada laboral[.](https://es.wikipedia.org/wiki/Tradiciones_navide%C3%B1as#:~:text=La%20Navidad%20se%20celebra%20el,territorios%20dependientes%20de%20estos%20pa%C3%ADses. "https://es.wikipedia.org/wiki/Tradiciones_navide%C3%B1as#:~:text=La%20Navidad%20se%20celebra%20el,territorios%20dependientes%20de%20estos%20pa%C3%ADses.")
+
+Para este 2024, a los ecuatorianos no les queda ningún asueto recuperable.
+
+Feriados locales en diciembre:
+------------------------------
+
+Además de los feriados nacionales, las ciudades celebran sus propios **días de descanso locales**.
+
+Luego del puente vacacional que tuvieron los quiteños por los **490 años de la fundación** de la capital, que se festejó el viernes 6, sábado 7 y domingo 8 de diciembre, otros **tres cantones** tendrán feriados locales este mes.:
+
+* Fundación de **Loja**: domingo 8 de diciembre (se traslada al lunes 9):
+* Cantonización de **Baños**: lunes 16 de diciembre:
+* Cantonización de **Salinas**: domingo 22 de diciembre (se traslada al lunes 23):
+
+Feriado extendido en Año Nuevo
+------------------------------
+
+El miércoles **1 de enero** los ecuatorianos tienen el primer feriado de 2025 por las celebraciones de **Año Nuevo**.
+
+El presidente D**aniel Noboa** decretó que a esta fecha se le sumarán **cuatro días** de descanso. El feriado extendido comprende la suspensión de la jornada laboral para el **jueves 2 y viernes 3 de enero**; que se suman al sábado 4 y domingo de enero.
+
+Esta medida fue oficializada el 6 de diciembre de 2024 mediante el **Decreto Ejecutivo No. 474**.
+
+Cuenca usa paneles solares para iluminar su árbol de Navidad
+============================================================
+
+El encendido está previsto para las 18:45 de este domingo 8 de diciembre de 2024
+--------------------------------------------------------------------------------
+
+![El árbol de Navidad y los paneles solares fueron colocados en la plazoleta de San Francisco, en el centro de Cuenca. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/12/Cuenca.jpg)
+
+La noche de este 8 de diciembre se encenderá el árbol de **Navidad en Cuenca**, que tiene 32 metros de altura. Fue instalado en la céntrica plaza de San Francisco, que es uno de los sitios más visitados por los turistas nacionales y extranjeros.
+
+Debido a los cortes de luz en **Ecuador**, la **Fundación Iluminar**, que pertenece al **Municipio**, optó por instalar paneles solares la iluminación de este árbol.
+
+El encendido está previsto para las 18:45 de este domingo 8 de diciembre de 2024. Habrá fuegos artificiales, show musical de Coro Upam y otros artistas.
+
+### Más noticias
+
+* [Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?](https://www.elcomercio.com/actualidad/quito/quito-arbol-natural-navidad-40-metros-ubicado.html "Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?")
+* [Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil](https://www.elcomercio.com/actualidad/ecuador/aquiles-alvarez-dice-que-no-permitira-que-se-apague-espiritu-navidad-guayaquil.html "Aquiles Alvarez dice que no permitirá que se apague ‘el espíritu de la Navidad’ en Guayaquil")
+* [Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?](https://www.elcomercio.com/actualidad/quito/solidaridad-fiestas-quito-navidad-donde-donar.html "Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?")
+
+La iluminación del árbol de Navidad
+-----------------------------------
+
+Esta **árbol de Navidad** cuenta con 22 000 píxeles de luz y más de 100 elementos ornamentales, que cubrenla estructura.
+
+Los paneles solares se ubicaron en la plaza y en en dos casetas comerciales del mismo lugar.
+
+Según el **alcade de Cuenca, Cristian Zamora**, el **árbol de Navidad** consumirá cerca de 1 330 kilovatios/hora, lo que equivale al consumo de ocho hogares. “Empleamos luces LED de bajo consumo”.
+
+Los adornos navideños en Cuenca
+-------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/1-1-1024x683.jpg)
+
+La estrella del árbol de Navidad de Cuenca tiene 11 puntas y cuenta con 3,5 metros de diámetro. Será iluminada con reflectores LED de bajo consumo. 
+
+Su diseño está inspirado en las obras del **arquitecto catalán, Antonio Guadí.**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/2-1-1024x683.jpg)
+
+A más del árbol de **Navidad**, en **Cuenca** se instaló un pesebre gigante en la plazoleta de El Otorongo.
+
+También serán usarán fuentes alternativas de energía para su iluminación, al igual que en los otros adornos que se colocarán en la ciudad como avenida Solano.
+
+¿Cuáles son los horarios de cortes de luz en Quito para este 9 de diciembre?
+============================================================================
+
+Los cortes de luz se mantienen para la semana del 9 de diciembre en Quito.
+--------------------------------------------------------------------------
+
+![Cortes de luz se mantienen en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-11.jpg)
+
+Los **cortes de luz** en Quito para este lunes, 9 de diciembre 2024, durarán tres horas continuas para el sector residencial.
+
+La **Empresa Eléctrica Quito (EEQ)** detalló la programación de la suspensión del suministro de **energía eléctrica**.
+
+### Más noticias
+
+* [Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-8-de-diciembre.html "Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre")
+* [Cortes de luz en Quito están definidos para este 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-regresan-7-diciembre.html "Cortes de luz en Quito están definidos para este 8 de diciembre")
+* [Cortes de luz en Guayaquil del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-9-15-diciembre.html "Cortes de luz en Guayaquil del 9 al 15 de diciembre")
+
+Cortes de luz en Quito
+----------------------
+
+La **EEQ** difundió los horarios para la semana del 9 al 15 de diciembre de 2024. El detalle se dio luego del anuncio del Gobierno de que los cortes se reducirían de cinco a tres horas.
+
+Claro que el presidente **Daniel Noboa** anunció que en diciembre terminarían los apagones.
+
+Ese anuncio lo reiteró la ministra de Energía y Minas, **Inés Manzano**. No obstante, hasta este domingo, 8 de diciembre, aún no se cumple.
+
+Ya en noviembre se ofreció la reducción de horas de los apagones. Sin embargo, no se logró cumplir.
+
+Las condiciones mejoraron
+-------------------------
+
+Las condiciones meteorológicas han contribuido para la reducción del número de horas de suspensión del servicio de **energía eléctrica**. De igual forma, la generación de la activación o reactivación de los proyectos energéticos.
+
+Lando Norris ganó en Abu Dabi y McLaren captura el Mundial de constructores
+===========================================================================
+
+McLaren sumó su noveno título en el Mundial de constructores de la Fórmula 1 y el primero en el siglo XXI.
+----------------------------------------------------------------------------------------------------------
+
+![Lando Norris (der.) celebra junto con su equipo la victoria en Abu Dabi y el título en el Mundial de Constructores.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T102354.677.jpg)
+
+**Lando Norris**, al volante de McLaren, se llevó la victoria en el Gran Premio de Abu Dabi, la última cita del Mundial de **Fórmula Uno** 2024. El campeonato ya había sido asegurado hace dos semanas por Max Verstappen, piloto de Red Bull, quien este domingo 8 de diciembre terminó en la sexta posición.
+
+La carrera, que se disputó en el circuito de Yas Marina, donde el español Carlos Sainz se despidió de Ferrari con un segundo puesto y la escudería de **Woking se alzó con el título de constructores**.
+
+### Más noticias:
+
+* [La Fórmula 1 contará con un nuevo equipo en 2026](https://www.elcomercio.com/deportes/formula-1/formula1-nuevo-equipo-mundial-2026-f1.html "La Fórmula 1 contará con un nuevo equipo en 2026")
+* [Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/max-verstappen-arraso-gran-premio-de-sao-paulo-de-la-formula-uno.html "Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1")
+* [McLaren y Ferrari definen el Mundial de constructores de F1](https://www.elcomercio.com/deportes/formula-1/formula-uno-mundial-constructores-f1.html "McLaren y Ferrari definen el Mundial de constructores de F1")
+
+Lando Norris, a sus 25 años, sumó su cuarta victoria en la **Fórmula 1**, todas conseguidas esta temporada, consolidándose como subcampeón del Mundial de Pilotos. El británico lideró la carrera por delante de Carlos Sainz, quien alcanzó su vigésimo séptimo podio en la categoría y el vigésimo quinto con Ferrari.
+
+A pesar de colocar a sus dos pilotos en el podio, Ferrari no logró arrebatarle el título de constructores a **McLaren**, que confirmó su dominio en la última prueba de la temporada. Esta victoria selló un año brillante para Lando Norris y su escudería.
+
+McLaren regresa al trono de los constructores
+---------------------------------------------
+
+**McLaren** se anotó de esta forma su noveno título de constructores, el **primero desde 1998**, tras una carrera que el otro español, el doble campeón mundial asturiano Fernando Alonso (Aston Martin) concluyó noveno; y que abandonaron tanto el mexicano Sergio Pérez (Red Bull) como el argentino **Franco** **Colapinto** (Williams).
+
+El séptuple campeón del mundo inglés **Lewis Hamilton** -que sustituirá el año que viene a Sainz (que se va a Williams) en **Ferrari**– acabó cuarto su última carrera con Mercedes, escudería con la que festejó seis de sus títulos. Sir Lewis cruzó la meta por delante de su compatriota George Russell, su compañero hasta este domingo.
+
+Séptimo, un puesto por detrás de **Verstappen**, concluyó el francés Pierre Gasly (Alpine).
+
+El alemán Nico Hülkenberg -que el año que viene pilotará en Sauber- concluyó octavo su última carrera con Haas, junto por delante de Alonso y del otro McLaren, el del australiano Oscar Piastri, que había salido segundo, pero, tras tocarse con Verstappen en la primera curva, vio comprometida su carrera y remontó desde el fondo de la parrilla hasta el décimo puesto final.
+
+Daniel Noboa cambió al gobernador de Napo en medio de protestas por nueva cárcel
+================================================================================
+
+El presidente Daniel Noboa emitió el Decreto Ejecutivo 476 con el que se ordenó el cambio de autoridades en la provincia de Napo. En esa localidad se han presentado protestas en contra de la construcción de una cárcel de máxima seguridad. Más noticias Daniel Noboa y nuevo gobernador de Napo En esa localidad, personas han quemado \[…\]
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La construcción de una cárcel genera cuestionamientos en Napo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-10.jpg)
+
+El presidente **Daniel Noboa** emitió el Decreto Ejecutivo 476 con el que se ordenó el cambio de autoridades en la **provincia de Napo**[.](https://es.wikipedia.org/wiki/Provincia_de_Napo)
+
+En esa localidad se han presentado protestas en contra de la construcción de una cárcel de **máxima seguridad**.
+
+### Más noticias
+
+* [Procesan por terrorismo a presos y guardias por ataque con granadas en cárcel de Ecuador](https://www.elcomercio.com/actualidad/procesan-terrorismo-presos-guardias-ataque-granadas-carcel-ecuador.html "Procesan por terrorismo a presos y guardias por ataque con granadas en cárcel de Ecuador")
+* [Fuerzas Armadas encontraron celulares y otros objetos prohibidos en dos cárceles](https://www.elcomercio.com/actualidad/seguridad/militares-encontraron-celulares-objetos-prohibidos-carceles.html "Fuerzas Armadas encontraron celulares y otros objetos prohibidos en dos cárceles")
+* [Hermanos Menéndez afrontarán una audiencia en su lucha por salir de la cárcel](https://www.elcomercio.com/actualidad/mundo/hermanos-menendez-afrontaran-una-audiencia-en-su-lucha-por-salir-de-la-carcel.html "Hermanos Menéndez afrontarán una audiencia en su lucha por salir de la cárcel")
+
+Daniel Noboa y nuevo gobernador de Napo
+---------------------------------------
+
+En esa localidad, personas han quemado llantas para manifestar el rechazo a la obra anunciada por el Primer Mandatario.
+
+En ese marco, en el Decreto Ejecutivo se establece que **Gary Patricio Rivadeneyra Olalla** es el nuevo Gobernador, en reemplazo de **María Marlene Cabrera Ureña**.
+
+En el documento, del 7 de diciembre de 2024, se define que se terminan las labores de la funcionaria, quien estaba en funciones desde diciembre de 2023.
+
+Los antecedentes de la cárcel
+-----------------------------
+
+El pasado 3 de diciembre, manifestantes bloquearon el paso en la carretera **Coca-Quito**, en el sector 24 de Mayo.
+
+Las personas trataron de, además, suspender el transporte público, la jornada en locales comerciales y otros negocios.
+
+Los manifestantes también exigieron que los **52 millones** de inversión que corresponden a la cárcel se direccionen al nuevo hospital de Archidona, el asfaltado de 24 kilómetros de la vía Loreto y la construcción de la carretera a Chonta Punta.
+
+Dos semanas faltan para el próximo feriado en Ecuador
+=====================================================
+
+Los ecuatorianos disfrutarán de un último feriado a nivel nacional en las próximas semanas.
+-------------------------------------------------------------------------------------------
+
+![Dos semanas faltan para el último feriado. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-05T134753.118.jpg)
+
+Un solo feriado les resta a los **[ecuatorianos](https://www.elcomercio.com/actualidad/ecuador/proximo-feriado-ecuador-festivo-2024.html "https://www.elcomercio.com/actualidad/ecuador/proximo-feriado-ecuador-festivo-2024.html")** en este 2024; será a nivel **nacional**. Te contamos cuándo será y cómo funcionará.
+
+### **Más noticias:**
+
+* [Cuántos feriados faltan en Ecuador en lo que resta del 2024](https://www.elcomercio.com/actualidad/ecuador/feriados-quedan-2024-ecuador-quito.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/ecuador/feriados-quedan-2024-ecuador-quito.html?source=Internal&ref=Single+Content+Link")
+* [Ministerio de Energía anunció reducción de cortes de luz para semana del 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html "https://www.elcomercio.com/actualidad/ecuador/ministerio-de-energia-anuncio-reduccion-de-cortes-de-luz-para-semana-del-9-de-diciembre.html")
+* [La Empresa Eléctrica Quito definió cortes de luz para estos 5 y 6 de diciembre](https://www.elcomercio.com/actualidad/quito/empresa-electrica-quito-cortes-luz-5-6-diciembre.html)
+
+**Dos semanas faltan para el próximo feriado en Ecuador**
+---------------------------------------------------------
+
+Los **ecuatorianos** disfrutarán de un último feriado a nivel nacional el próximo 25 de diciembre, que caerá en miércoles.
+
+Este día, destinado a celebrar la **[Navidad](https://www.presidencia.gob.ec/ "https://www.presidencia.gob.ec/")**, es de carácter obligatorio y no recuperable. Es importante señalar que la **Noche Buena** del 24 de diciembre no contará con un día adicional de descanso.
+
+Este feriado llegará, para los quiteños, después del descanso por Fiestas de Quito. Los capitalinos gozaron de un feriado más en este 2024.
+
+El 6 de diciembre fue la fiesta por la fundación española de la ciudad de Quito, ocurrido en 1534. Por lo tanto, fueron 490 años desde que los conquistadores españoles establecieron la Villa de San Francisco de Quito.
+
+**¿Qué pasará con la Noche Vieja?**
+-----------------------------------
+
+La **Noche Vieja**, que se celebrará el 31 de diciembre, también será un día laboral, ya que corresponde a un martes.
+
+**¿Cuándo será el primer feriado de 2025?**
+-------------------------------------------
+
+El primer feriado de **2025** llegará el 1 de enero, un miércoles. Sin embargo, el **Gobierno** tiene la opción de decretar puentes adicionales.
+
+  
+
+Brenda es la joven artista ecuatoriana que rinde homenaje a sus raíces
+======================================================================
+
+El más reciente sencillo de Brenda se llama En la Tierra.
+---------------------------------------------------------
+
+![Brenda abrió los conciertos de Juan Fernando Velasco de su gira 'En Primer Plano', en junio pasado. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo205.jpg)
+
+Brenda es la joven artista ecuatoriana que rinde homenaje a sus raíces. La cantautora ecuatoriana **Brenda** lanzó su más reciente tema, En la Tierra (‘Fuerza Natural’), una canción que refleja su deseo de integrar ritmos autóctonos en su **música**.
+
+Esta nueva propuesta artística es un homenaje a sus raíces, pues la mezcla de influencias culturales siempre ha sido parte de su vida.
+
+### **Más noticias:**
+
+* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html")
+* [La coreana que conquista Ecuador con su voz en coreano, inglés y español](https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html "https://www.elcomercio.com/tendencias/entretenimiento/yulia-song-coreana-ecuador-musica-artista-emergente.html")
+* [Huda es la voz de un rap sincero y punzante](https://www.elcomercio.com/tendencias/entretenimiento/huda-artista-espanola-rap-trap.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/huda-artista-espanola-rap-trap.html?source=Internal&ref=Single+Content+Link")
+
+**Brenda es la joven artista ecuatoriana que rinde homenaje a sus raíces**
+--------------------------------------------------------------------------
+
+Brenda, nacida en Ecuador, tiene una herencia diversa que marca su estilo musical. Su padre, oriundo de Otavalo, y su madre, guayaquileña, fueron factores clave en la incorporación de sonidos autóctonos a sus composiciones.
+
+En su infancia, Brenda vivió entre la Sierra y la Costa, lo que la sumergió en un contraste de tradiciones y sabores: desde la máchica de los Andes hasta el ceviche de la Costa. Esta dualidad, según la cantante, es la esencia de su inspiración para este nuevo tema.
+
+> [View this post on Instagram](https://www.instagram.com/reel/C6NXgtQsnOv/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by BRENDA (@brendamusica)](https://www.instagram.com/reel/C6NXgtQsnOv/?utm_source=ig_embed&utm_campaign=loading)
+
+**Brenda apuesta por la fusión de melodías**
+--------------------------------------------
+
+En En la Tierra, Brenda fusiona sonidos indígenas con melodías modernas, creando un ambiente único que conecta a las nuevas generaciones con la riqueza cultural del **Ecuador**.
+
+La canción resalta su identidad como ecuatoriana, pero también reconoce y celebra las tradiciones autóctonas, muchas veces opacadas por la globalización.
+
+Brenda expresó que uno de sus mayores sueños como artista es poder mostrar al mundo la diversidad de la música ecuatoriana, un país con una gran riqueza cultural y musical.
+
+El embalse de la central Mazar subió dos metros en una semana
+=============================================================
+
+La Red Hidrometereológica se pronunció sobre la sequía hidrológica en Cuenca. Determinó cuáles son las condiciones para salir del estiaje.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![El embalse de Mazar tiene una capacidad para 410 millones de metros cúbicos. Archivo/ EFE](https://www.elcomercio.com/wp-content/uploads/2024/04/mazar-electricidad-Ecuador-.jpg)
+
+**Mazar** superó la barrera de los 2 113 metros sobre el nivel del mar. Esta cota, que alcanzó este domingo 8 de diciembre de 2024, no se alcanzaba desde el pasado 7 de noviembre.
+
+Si bien es un nivel bajo, pero representa un crecimiento de dos metros si se compara con el fin de semana pasado. El aumento se debe a las **lluvias registradas en Cuenca**, que mejoraron los caudales de los ríos **Yanuncay, Tomebamba y Machángara**.
+
+A las 08:00 de este domingo, el embalse de Mazar se ubicó en los 2 113,21 metros cúbicos por segundo, según los datos publicados por **Celec Sur**. Aún está a 40 metros del máximo.
+
+### Más noticias
+
+* [Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?](https://www.elcomercio.com/actualidad/negocios/cuatro-dias-seguidos-lluvias-cuenca-como-mejorado-paute-mazar.html "Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?")
+* [Cortes de luz en Quito están definidos para este 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-regresan-7-diciembre.html "Cortes de luz en Quito están definidos para este 8 de diciembre")
+* [Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-8-de-diciembre.html "Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre")
+
+El caudal en la cuenca del río Paute
+------------------------------------
+
+El sábado 7 de diciembre de 2024, el caudal promedio en la **cuenca del río Paut**e, que alimenta a las hidroeléctricas **Mazar, Paute y Sopladora**, fue de 75,89 metros cúbicos por segundo.
+
+Fue el segundo promedio diario más alto desde que se iniciaron l**os cortes de luz en Ecuador** en septiembre de 2024. Solo le superó los 106,73 metros cúbicos por segundo registrados el pasado 15 de noviembre.
+
+El caudal promedio de este domingo 8 es de 66,95 metros cúbicos por segundo. Ese dato está contabilizado hasta las 08:00, de acuerdo con la **Celec Sur.**
+
+Incluso, es un menor promedio al registrado el 8 de diciembre de 2023, que fue de 35,62. En ese período, **Cuenca** también atravesó por un período de sequía hidrológica que duró 117 días.
+
+En la actualidad, **la Red Hidrometereológica** ya contabiliza 149 días.
+
+La sequía en Cuenca persiste
+----------------------------
+
+Si bien las lluvias de la última semana en Cuenca mejoraron los caudales en los ríos **Tomebamba, Yanuncay, Machángara y Tarqu**i, la Red **Hidrometereológica** aún mantiene la **sequía hidrológic**a.
+
+La explicación es que esta condición se mantendrá hasta que los **cuatro ríos de Cuenca** alcancen y mantengan caudales normales de manera sostenida. Además, que las lluvias sean constantes en la ciudad.
+
+La **Red Hidrometereológica** determinó que se requieren de 15 a 20 días de lluvias para finalizar la sequía hidrológica. Eso no significa que se podría llenar el **embalse de Maza**r por su magnitud de 410 millones de metros cúbicos. Para cumplir ese objetivo se requería más de un mes, estimó esta Red.
+
+La generación eléctrica en Ecuador
+----------------------------------
+
+El **Operador Nacional de Electricidad (Cenace)** estima que este domingo 8 de diciembre se requerirán 70 568 megavatios/hora para satisfacer la demanda nacional, con cinco horas de corte de luz.
+
+De esa cantidad, 33 722 serán cubierto con **generación hidráulica,** 23 872 con **térmica** y el resto con **gas natural, eólica**, **importación** desde **Colombia**…
+
+**Coca Codo Sinclair** aportará con el 33% de la **producción hidroeléctrica**, **San Francisco** con el 11%, Paute con el 4%, Sopladora con el 2% y Mazar será prendida por horas.
+
+**Mazar** generó con una máquina a las 01:00 y entre 05:00 y 07:00. Su aporte osciló entre los 3,71 megavatios/hora y 55,03.
+
 Pilotos de narcos usan visores nocturnos para aterrizar en Manabí
 =================================================================
 
@@ -159,39 +1062,6 @@ Llamó a proteger a las **minorías étnicas y religiosas** y a poner en marcha 
 
 La ministra verde recordó que cientos de miles de personas han muerto en la guerra civil desde 2011 y millones han huido y enfatizó que el presidente sirio debe rendir cuentas ante la justicia por haber “asesinado, torturado y usado armas químicas contra la propia población”.
 
-Cartas a Quito / 8 de diciembre de 2024
-=======================================
-
-Estas son las cartas a Quito de este domingo 8 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Muerte e inseguridad en 2 ruedas
---------------------------------
-
-En todo vamos camino a Madurozuela y Correazuela. Nadie controla a las temerarias motos que invaden las calles y carreteras del país: GADs, Policía y ANT. Los de la Policía Nacional y de tránsito de los municipios que deben controlarlos, en Venezuela llaman motorizados, irrespetan igual los límites de velocidad, rebasan en zigzag, por izquierda, derecha, en medio, veredas, plazas, parques, ciclovías, en contra vía, sin placas, se pasan semáforos, etc. Con el cuidado y estrés de mirar a los temibles artefactos por los retrovisores y delante del carro, su imprudencia pone en peligro sus vidas y la de otros, de ocurrir un accidente, “la culpa es del automotor”. Los delivery-venezolanos-amenazantes son dueños de la vía. Delincuencia criminal y fallida norma de uno solo en moto. Debería haber un grupo grande especializado para el control de papeles, armas, placas, funcionamiento, etc. En Venezuela son un peligro, miles de miles en las vías van rompiendo los retrovisores de los carros sin que se pueda reclamar y son grupos armados al servicio de los narco-dictadores. ¿Alguna solución para disminuir sus abusos y proliferación? ¿Licencia más estricta y cara, una persona por registro de moto, pico y placa estricto, sanción a su mal manejo, altas velocidades, etc.? Si no en pocos años lo lamentaremos. Sin control, motonetas y scooters eléctricos, motos-carga, etc.  A estos conductores les importa poco sus vidas y menos las del resto: peatones, bicis y autos. Y ávidos de sacarle dinero a los ciudadanos, vuelven al control de velocidad de hace 14 años antitécnico en las “avenidas de 50 Km”, imposible de transitar hasta por la inseguridad que vive el país, se debería considerar un límite de velocidad de 65 o 70 Km.
-
-Juan Carlos Cobo Rueda
-
-Turismo migrante
-================
-
-La migración debe ser vista como un desafío emprendedor y una oportunidad para crecer y desarrollarse.
-------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-Las **remesas** enviadas por nuestros **migrantes ecuatorianos** no solo representan una **fuente vital** de ingresos para cada vez más familias en el **Ecuador**, sino un **testimonio** del amor y la lealtad que llevan en sus corazones. En 2022, estas remesas alcanzaron la cifra impresionante de 3.500 millones de dólares, casi el 5% del **Producto Interno Bruto** de nuestro país. Este flujo de recursos no solo impulsa el consumo interno y estimula nuestra economía local, sino que también financia **educación, salud, turismo y vivienda** de miles de hogares, transformándose también en impuestos que fortalecen al **Estado**.
-
-A pesar de los obstáculos que enfrentan en países como España y Estados Unidos, debido al narcotráfico, **nuestros compatriotas** muestran una resistencia y un espíritu emprendedor inquebrantables. Muchos trabajan en **condiciones laborales precarias**, con salarios bajos y sin **derechos laborales plenos**, pero su determinación no se desvanece. Enfrentan dificultades para obtener **visas de trabajo y permanencia legal**, y el **aislamiento social y cultural** es un problema común, especialmente en países donde la comunidad ecuatoriana es pequeña. Sin embargo, su amor por la patria y su deseo de superación los mantienen firmes.
-
-Los sucesivos gobiernos han fallado en **implementar políticas efectivas** para apoyar a estos héroes de la diáspora. No hay una representación adecuada de los intereses de los migrantes en el gobierno, y la falta de **créditos accesibles** para los ecuatorianos residentes en el extranjero limita su **capacidad para emprender negocios.** Este desperdicio de potencial es terrible, ya que podrían crearse nuevas actividades comerciales y empresariales que agranden nuestra economía. Se necesitan **canales financieros** que faciliten el traslado de las **tecnologías** del primer mundo a nuestro país, para que podamos crecer y desarrollarnos juntos.
-
-Ecuador tiene una alta **productividad** en muchos bienes primarios que necesitan **nuevos mercados**. Nuestros **migrantes** pueden abrirlos. La migración debe ser vista como un **desafío emprendedor** y una oportunidad para crecer y desarrollarse. Los **políticos ecuatorianos** deben respaldar y alentar a los **migrantes** a emprender negocios en el extranjero, viéndolos como potenciales empresarios, no solo como mano de obra barata. Las **ideologías** que incitan el odio hacia los países desarrollados deben cambiar su narrativa, mostrando la **migración** como una victoria, un desafío que pocos asumen con el **positivismo** y **optimismo** que debe ser respaldado y respetado.
-
-Los **migrantes ecuatorianos** ya son una parte vital de la **economía** de nuestro país. Aprovechar al máximo su potencial, es crucial y que los **políticos**, así como cada ecuatoriano, vean a los **migrantes** como **emprendedores**, mostrando la migración en forma positiva, como **ecuatorianos** de vanguardia, que ensanchan el productivo y amado **Ecuador** a todos los confines del planeta.
-
 Adriano: la novela histórica
 ============================
 
@@ -209,844 +1079,3 @@ De todas maneras, había perdido el proyecto de vista y solo lo retomó cuando r
 La rigurosidad de Yourcenar le hizo cuestionar incluso a historiadores cualificados, quienes presentaban hipótesis como hechos y hacían decir a Adriano lo que querían, mediante interpretaciones forzadas. Esto llevó a la autora a adquirir lo que llamaba una ‘pasión seca por la exactitud’, un afán de sinceridad para **superar el desorden, la confusión y la falta de rigor intelectual.**
 
 Prescindió de un sistema deliberado de estilo, en aras de la exactitud. Por ello, en la revisión del libro hecha en 1958, el único añadido significativo que hizo fue agregar la bibliografía con la que había trabajado, pese a la **hostilidad de los editores franceses** de colocar ese complemento en una novela histórica, por considerarlo ‘pura y simple erudición’, pero insistió porque creía indispensable atacar la creciente **ignorancia del público moderno sobre el mundo clásico**.
-
-Batalla sin ganadores 
-======================
-
-La lucha entre Noboa y Abad amenaza la estabilidad y favorece al correísmo. La resolución judicial es clave.
-------------------------------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-En estos días, el **escenario político** ha continuado oscurecido y amenazado por la **inestabilidad**, afectado por la contienda entre Noboa y Abad, dentro de la cual, lo que al parecer han primado entre ambos oponentes, son sus particulares intereses y no necesariamente la tranquilidad del país. Así, vemos dentro de esta suerte de cuadrilátero político, **el ego del poder vs. el ansia vengativa de poder**, ambos motivados por la insensatez y, por ende, perniciosos para el país.
-
-En cuanto al ego del poder, este se ha enfocado en no dar paso a como dé lugar, al reemplazo que – nos guste o no –  por **disposición constitucional** le correspondería a Abad;  y, en relación con el afán de poder, parecería que ahora también estaría avivado por la sed de **venganza** no solo en contra de Noboa, sino también de la **canciller y de la ministra del trabajo,** esta última por cierto, que siendo una destacada abogada, ha expuesto su prestigio al prestarse para **semejante desatino jurídico**; sin perjuicio de las latentes y preocupantes intenciones de Abad, de “eliminar” el incremento del IVA y volver atrás el precio de la gasolina extra y eco país; y, pese a que, últimamente lo ha negado expresamente, esto es indultar a Glas, quien sabe, rebajar las penas esté dentro del ajedrez  (facultad constitucional que tendría también de asumir la presidencia), lo cual no le han preguntado ni se ha pronunciado y, que, de plantearlos,  sería un **grave golpe a la justicia y espaldarazo a la corrupción e impunidad**, que esperemos no sea el caso.
-
-Resulta preocupante que dichos personeros, que deberían dar y ser ejemplo de respeto a la institucionalidad y estabilidad, se enreden en semejante batalla, en la cual no habría ganadores, sino solo perdedores, incluido el Ecuador; y, como único beneficiario el correísmo.
-
-Por otro lado, no sorprende la **pobre defensa del abogado del Ministerio del Trabajo** en la primera audiencia por la **acción de protección planteada por Abad**, el mismo que no pudo argumentar con solvencia la **base jurídica de la resolución administrativa** que sacó del camino a Abad, evidentemente, porque no la hay; así como despierta inquietud por decir lo menos, escuchar a Abad en una reciente entrevista con L. Artieda, en la que, con peculiar tono de “**campaña y aire populista**”, dejó entrever su personalidad e intenciones. Es comprensible que se sienta perseguida y herida, lo que sorprende  es que confunda su malestar, tratando de hacerlo propio del resto de ciudadanos y con ello pretenda justificar su actuar, sin medir las **consecuencias de sus potenciales acciones de llegar a la presidencia**, en la que no cabe por ningún motivo, por ser algo circunstancial y temporal, que pretenda echar abajo lo avanzado y tratar partir desde cero.
-
-Vale reflexionar con tranquilidad en el sentido de que, en el difícil escenario de llegar Abad a la presidencia mientras se ausente por licencia Noboa para realizar campaña, ¿qué tanto realmente podría realizar entre el 5 de enero al 6 de febrero del 2025 y,  de pasar Noboa a segunda vuelta, entre el 24 de marzo al 10 de abril, que le permita el tiempo y que no sea reversible?
-
-Está claro que, la resolución de la jueza N. Vera a cargo de atender la **acción de protección planteada y/o en su momento de la Corte Constitucional**, lo que se estaría jugando no serían las pretensiones de Abad, sino, propiamente cimientos importantes  de la democracia e institucionalidad del Estado de derecho.
-
-Pero, lo que no está claro aún y sigue siendo un misterio es ¿cuáles son las razones, que se entendería son de fondo, del irreconciliable distanciamiento de Noboa frente a Abad? La respuesta, sin duda, solo la tiene el presidente y, la ciudadanía, el justo derecho de conocerlas. 
-
-Pablo ‘Vitamina’ Sánchez busca el título con el apoyo de su familia
-===================================================================
-
-La familia de Pablo'Vitamina' Sánchez lo acompaña en un momento decisivo con Liga de Quito. La 'U' definirá con IDV al campeón ecuatoriano.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Pablo 'Vitamina' Sánchez en el partido entre Liga de Quito e IDV en la final de la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-11-1.jpg)
-
-El entrenador **Pablo ‘Vitamina’ Sánchez** está a punto de obtener el primer título de su carrera en máxima división. Este 7 de diciembre del 2024 dio un paso trascendental al ganar la final de ida de la Liga Pro y tuvo un emotivo reencuentro con su familia.
-
-Como si el triunfo de **Liga de Quito** por 3-0 sobre **Independiente del Valle** no hubiese sido suficiente, **Carolina Villarroel**, esposa del ‘Vita’ ingresó a la rueda de prensa pospartido para sorprenderlo. Junto a sus dos hijas y con una sonrisa en el rostro, se acomodó en los asientos para la intervención de Sánchez.
-
-### Más noticias:
-
-* [Hinchas de Liga de Quito festejan victoria en Fiestas de Quito](https://www.elcomercio.com/deportes/liga-quito-idv-goleada-fiestas-quito-hinchas.html "Hinchas de Liga de Quito festejan victoria en Fiestas de Quito")
-* [¿Cuándo vuelven a jugar Liga de Quito e IDV la final?](https://www.elcomercio.com/deportes/futbol/liga-quito-idv-final-cuando-vuelven-jugar.html "¿Cuándo vuelven a jugar Liga de Quito e IDV la final?")
-* [Liga de Quito goleó a Independiente en la primera final de Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "Liga de Quito goleó a Independiente en la primera final de Liga Pro")
-
-Pablo ‘Vitamina’ Sánchez
-------------------------
-
-Apenas salió a brindar sus reacciones sobre el partido, **Sánchez** se percató de los suyos, aunque ya sabía de su llegada. Durante el mismo 7 de diciembre, Villarroel había aterrizado en Quito con su familia a las 11:00.
-
-Está iba a ser la primera vez en la que el argentino podía contar con su hija menor desde que arribó para hacerse cargo del equipo, aunque aún no con su familia completa.
-
-Antes, la aventura previa en la que lo acompañaron fue en el P**alestino de Chile**, país en el que había realizado la mayoría de su carrera al dirigir seis clubes.
-
-El estratega no se refirió al suceso sino hasta que se lo hicieron mención. Allí, relató lo que significó la llegada de sus afectos y la importancia que adquiere debido al momento en el que se produjo.
-
-La familia del **‘Vitamina’ Sánchez**, clave en un momento decisivo con Liga de Quito
-
-Pablo Sánchez se mostró agradecido con su esposa y con su familia por haber llegado hacia la final y acompañarlo. Asimismo, disfrutaba del momento, pues aquello le daba un plus al goce que experimentaba.
-
-“Mi mujer me acompañó en todos los partidos. Tengo la fortuna de que también esté mi hija menor, que hacía mucho tiempo que no la veía. Desde nuestra visita a Lanús, cuando estuvimos (con Liga de Quito) en Buenos Aires, no la veía. Compartir con la gente que amas es una de las cosas más lindas que le pueden ocurrir a un ser humano. Estoy muy agradecido” señaló.
-
-‘Vitamina’ también sostuvo que no pudo contar con la presencia de su otra hija. Pese a ello, también le dedicó su triunfo y le brindó un rol preponderante en el momento en el que vive.
-
-El reencuentro de Pablo ‘Vitamina’ Sánchez
-------------------------------------------
-
-Al finalizar el evento, ‘Vitamina’ prefirió no dirigirse hacia el camerino con Gabriel Villamil, volante que lo acompañó en la rueda de prensa. Este se levantó y se encaminó hacia Villarroel, quien lo esperaba de pie junto a su hija.
-
-Un intenso abrazo y un beso selló el recuentro entre ‘Vitamina’ y su pareja. Asimismo, su hija se unió al gesto.
-
-Después de intercambiar un ligero diálogo, Sánchez tomó de la mano a su esposa. Arrancaron para el camerino con la alegría del momento y la mira en la final de vuelta, que será el 14 de diciembre del 2024 en el estadio de Independiente del Valle.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDTLcCvvbE4/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DDTLcCvvbE4/?utm_source=ig_embed&utm_campaign=loading)
-
-El exministro de Corea del Sur fue arrestado por orden de la fiscalía
-=====================================================================
-
-El exministro surcoreano de Defensa, Kim Yong-hyu, dimitió de su puesto el pasado 5 de diciembre. Es la mayor crisis política de los últimos años en ese país.
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El exministro surcoreano de Defensa Kim Yong-hyun en una foto de archivo. EFE](https://www.elcomercio.com/wp-content/uploads/2024/12/Corea-1.jpg)
-
-El **exministro surcoreano de Defensa Kim Yong-hyun** fue detenido por orden de la fiscalía, en el marco de la investigación sobre la **ley marcial decretada** el pasado martes 3 de diciembre de 2024 por el presidente del país, **Yoon Suk-yeol**.
-
-Kim, cuya dimisión se hizo efectiva el pasado jueves 5 de diciembre, fue arrestado tras ser interrogado por la fiscalía dentro de las pesquisas sobre el estado de excepción que conmocionó al país y ante las sospechas de que esa medida supusiera un delito de traición o de sedición, entre otros.
-
-La unidad especial de investigación de la fiscalía designada para el caso de la ley marcial anunció la detención del exministro y la confiscación de su teléfono, después de que Kim compareciera unas horas antes ante los medios para expresar su deseo de cooperar con las autoridades surcoreanas.
-
-### Más noticias
-
-* [Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/tropas-parlamento-protestas-generan-horas-jaque-democracia-surcoreana.html "Tropas en el parlamento y protestas generan inestabilidad en Corea del Sur")
-* [Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/piezas-clave-decision-yoon-aplicar-ley-marcial-pesimas-consecuencias.html "Piezas clave tras la decisión de Yoon de aplicar ley marcial en Corea del Sur")
-* [Naciones Unidas sigue de cerca la inesperada declaración de la ley marcial en Corea del Sur](https://www.elcomercio.com/actualidad/mundo/naciones-unidas-sigue-cerca-inesperada-declaracion-ley-marcial-corea-sur.html "Naciones Unidas sigue de cerca la inesperada declaración de la ley marcial en Corea del Sur")
-
-La detención de Yoon Suk-yeol
------------------------------
-
-El arresto se produce después de que en la víspera fracasara la moción para destituir al presidente surcoreano en la Asamblea Nacional, debido al boicot del partido gobernante de Yoon a la votación.
-
-La fiscalía ha determinado el arresto por la vía de emergencia de Kim al considerar que existe el riesgo de destrucción de pruebas sobre los posibles delitos de traición o de sedición, para los que se contemplan penas como la cadena perpetua en el código penal surcoreano.
-
-Kim, una figura muy cercana al presidente surcoreano, es considerado como uno de los altos cargos que sugirió a Yoon recurrir a la ley marcial y que lideró su aplicación.
-
-El **exministro presentó su dimisión ante Yoon** el pasado miércoles 4 de diciembre por su responsabilidad en la aplicación del estado de excepción y el caos desencadenado por la misma, y el presidente la aceptó al día siguiente, quedando Kim señalado por la medida que ha derivado en la **mayor crisis política de Corea del Sur en su historia reciente.**
-
-Cronología del caso Independencia Judicial investigado por Fiscalía
-===================================================================
-
-Fiscalía investiga el presunto tráfico de influencias sobre exvocales del Consejo de la Judicatura en el caso Independencia Judicial.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Audiencia del caso Independencia Judicial en la Corte Nacional de Justicia.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-97.jpg)
-
-La investigación del **caso Independencia Judicial** comenzó en 2022, tras denuncias de presunto **tráfico de influencias** que involucraban a los exvocales del Consejo de la Judicatura, **Juan José M. y Maribel B**.
-
-### Más noticias
-
-* [Caso Independencia Judicial inició con la audiencia de juicio](https://www.elcomercio.com/actualidad/seguridad/caso-independencia-judicial-inicio-con-audiencia-de-juicio.html "Caso Independencia Judicial inició con la audiencia de juicio")
-* [Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión](https://www.elcomercio.com/actualidad/seguridad/caso-metastasis-evidencias-revelaron-red-criminal-liderada-prision.html "Caso Metástasis, evidencias que revelaron la red criminal liderada desde prisión")
-* [¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?](https://www.elcomercio.com/actualidad/politica/tribunal-cnj-puede-pedir-nuevas-investigaciones-fiscalia-caso-metastasis.html "¿Tribunal de la CNJ puede pedir nuevas investigaciones a Fiscalía sobre caso Metástasis?")
-
-Posteriormente, la **Fiscalía solicitó una audiencia para la formulación de cargos ante la Corte Nacional de Justicia**.
-
-El caso asignado al **juez Walter Macías Fernández** sufrió retrasos debido a una recusación presentada por Maribel B. el día previo a la audiencia programada para el **4 de mayo de 2023**.
-
-El 11 de mayo de 2023, el pleno del **Consejo de la Judicatura suspendió al juez Macías** basándose en informes internos, a pesar de que la recusación **fue rechazada horas antes**.
-
-Este hecho generó controversia, ya que Macías enfrentaba una denuncia administrativa en el marco del **caso ‘Las Torres’**, donde se le acusó de no informar adecuadamente sobre una demanda de recusación contra otro juez.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): concluye la presentación de los alegatos de apertura de las partes procesales. Ahora, [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) comienza con la exposición de sus pruebas de cargo contra los 11 procesados en esta causa. [pic.twitter.com/AgTGKlrmGD](https://t.co/AgTGKlrmGD)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 4, 2024](https://twitter.com/FiscaliaEcuador/status/1864342229247984107?ref_src=twsrc%5Etfw)
-
-Finalmente, el Consejo de la Judicatura consideró esta conducta **como una infracción gravísima y lo destituyó con solo dos votos favorables de los cinco posibles**.
-
-Formulación de cargos y primeras medidas cautelares
----------------------------------------------------
-
-En agosto de 2023, la Fiscalía solicitó la formulación de **cargos contra siete personas por presunta obstrucción de la justicia**. El 28 de diciembre de 2023, se formularon cargos contra **Wilman T., expresidente del Consejo de la Judicatura**; Xavier M. y Maribel B., exvocales; además de otros implicados como Andrés J., Marcela V., Carlos G., y Katherine L.
-
-Se dictó prisión preventiva para los **dos primeros y medidas cautelares** como prohibición de salida del país y uso de grillete electrónico para los demás.
-
-En marzo de 2024, los recursos de apelación presentados por **Wilman T. y Xavier M.** fueron rechazados por un juez nacional, manteniendo la prisión preventiva.
-
-Posteriormente, en abril del mismo año, **seis personas más fueron vinculadas al caso como presuntos cómplices,** con similares medidas cautelares y la retención de cuentas bancarias.
-
-Avances judiciales y primeros testimonios
------------------------------------------
-
-Los testimonios anticipados comenzaron el 10 de abril de 2024 en la **Corte Nacional de Justicia**. Entre los declarantes estuvieron **Xavier M., Álex P. y Marcela V.**, quienes expusieron información clave sobre los hechos investigados.
-
-Estos testimonios permitieron a la **Fiscalía** consolidar su teoría del caso y preparar las siguientes etapas procesales.
-
-> [#ACTUALIZACIÓN](https://twitter.com/hashtag/ACTUALIZACI%C3%93N?src=hash&ref_src=twsrc%5Etfw) | Caso [#IndependenciaJudicial](https://twitter.com/hashtag/IndependenciaJudicial?src=hash&ref_src=twsrc%5Etfw): Tribunal acoge el pedido de [#FiscalíaEc](https://twitter.com/hashtag/Fiscal%C3%ADaEc?src=hash&ref_src=twsrc%5Etfw) y –por incumplimiento– sustituye las medidas cautelares alternativas por prisión preventiva para Santiago C. y Milton H., procesados también en el [#CasoPantalla](https://twitter.com/hashtag/CasoPantalla?src=hash&ref_src=twsrc%5Etfw). [pic.twitter.com/IpRgBLTvXd](https://t.co/IpRgBLTvXd)
-> 
-> — Fiscalía Ecuador (@FiscaliaEcuador) [December 3, 2024](https://twitter.com/FiscaliaEcuador/status/1864053552080883831?ref_src=twsrc%5Etfw)
-
-En junio de 2024, Xavier M. se acogió a un **procedimiento abreviado, reconociendo su responsabilidad en los hechos**.
-
-El juez dictó sentencia en su contra el 20 de junio, declarándolo culpable del delito de **obstrucción de la justicia**. Esta acción marcó un hito en el proceso, al ser la primera condena en el marco de este caso.
-
-Dificultades en la preparación del juicio
------------------------------------------
-
-A pesar de los avances, la **audiencia preparatoria de juicio** enfrentó repetidos diferimientos. Hasta el 26 de junio de 2024, se había postergado en cinco ocasiones debido a solicitudes de los procesados, lo que generó críticas de la Fiscalía.
-
-Finalmente, el 5 de julio se instaló la **audiencia de evaluación y preparatoria** de juicio contra 11 personas.
-
-El 29 de julio de 2024, el juez de la Corte Nacional llamó a juicio a **Wilman T. y Maribel B.**, calificándolos como autores directos del delito, mientras que a otros **cuatro funcionarios los vinculó en calidad de cómplices**. Esta decisión se basó en 165 elementos de convicción presentados por la Fiscalía.
-
-> Audiencia de juicio por obstrucción a la justicia expone irregularidades en el Consejo de la Judicatura. Detalles 👇[https://t.co/1VYM5HOjH0](https://t.co/1VYM5HOjH0) [pic.twitter.com/fpnGdOtFYZ](https://t.co/fpnGdOtFYZ)
-> 
-> — El Comercio (@elcomerciocom) [December 4, 2024](https://twitter.com/elcomerciocom/status/1864450941417615382?ref_src=twsrc%5Etfw)
-
-Hechos investigados por la Fiscalía en el caso Independencia Judicial
----------------------------------------------------------------------
-
-La Fiscalía identificó varios hechos que forman parte del caso:
-
-1. La suspensión de un **juez nacional** con dos votos afirmativos frente a dos abstenciones, lo que habría contravenido el **artículo 263** del [**Código Orgánico de la Función Judicial (COFJ**)](https://es.wikipedia.org/wiki/C%C3%B3digo_Org%C3%A1nico_de_la_Funci%C3%B3n_Judicial "https://es.wikipedia.org/wiki/C%C3%B3digo_Org%C3%A1nico_de_la_Funci%C3%B3n_Judicial") y disposiciones constitucionales.
-2. La toma de **decisiones sin haber recibido información** completa y adecuada sobre expedientes disciplinarios.
-3. La destitución de un **juez nacional con votos insuficientes** para cumplir con las normas legales vigentes.
-4. La subsunción de **actuaciones judiciales** a causales que no guardaban relación con los hechos administrativos denunciados.
-5. La intervención directa de vocales y **asesores en expedientes disciplinarios**, incluyendo revisiones y correcciones de documentos.
-6. La emisión de **decisiones basadas en procedimientos cuestionables**, como votaciones que no contaron con el quorum requerido o conflictos de interés.
-
-Presuntas irregularidades
--------------------------
-
-Entre las irregularidades detectadas se encuentran:
-
-* La aprobación de reconsideraciones con **votos que podrían haberse visto influenciados** por conflictos de interés.
-* La **destitución de un juez** con base en una mayoría ajustada, sin considerar votos de abstención o la falta de cuórum requerido.
-* Declaraciones de falta de mayoría en **decisiones clave**, lo que generó incertidumbre y cuestionamientos sobre la legalidad de los procedimientos.
-* La intervención de vocales para **influir en las recomendaciones de suspensión y destitución del juez** **Walter Macías**.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-¿Cuándo vuelven a jugar Liga de Quito e IDV la final?
-=====================================================
-
-Liga de Quito tomó ventaja en la final de ida de la Liga Pro 2024 con una contundente victoria 3-0 sobre Independiente del Valle
---------------------------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito ganó a IDV en la final de ida del fútbol ecuatoriano. ¿Cuándo volverán a jugar?](https://www.elcomercio.com/wp-content/uploads/2024/12/ldu-3.jpg)
-
-**Liga de Quito** dio un paso importante hacia la conquista del título de la **Liga Pro 2024** al imponerse 3-0 a **Independiente del Valle** en el partido de ida de la final, disputado este sábado 7 de diciembre en el Estadio Rodrigo Paz Delgado.
-
-La figura del encuentro fue el paraguayo **Álex Arce**, quien anotó un doblete y rompió el récord de goles en la historia de la Liga Pro, alcanzando los 28 tantos.
-
-### Más noticias:
-
-* [Hinchas de Liga de Quito festejan victoria en Fiestas de Quito](https://www.elcomercio.com/deportes/liga-quito-idv-goleada-fiestas-quito-hinchas.html "Hinchas de Liga de Quito festejan victoria en Fiestas de Quito")
-* [Liga de Quito goleó a Independiente en la primera final de Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "Liga de Quito goleó a Independiente en la primera final de Liga Pro")
-* [Medallistas olímpicos fueron protagonistas en la final entre Liga de Quito e IDV](https://www.elcomercio.com/deportes/futbol/medallistas-olimpicos-protagonizan-la-final-entre-liga-de-quito-e-idv.html "Medallistas olímpicos fueron protagonistas en la final entre Liga de Quito e IDV")
-
-Liga de Quito IDV
------------------
-
-El encuentro comenzó con una propuesta ofensiva de los locales, que no tardaron en generar peligro con las llegadas por las bandas de **Bryan Ramírez** y Jhojan Julio.
-
-Independiente del Valle, por su parte, adoptó un planteamiento más conservador, buscando evitar los errores en su defensa ante la presión de Liga.
-
-A los 19 minutos, **Daniel de la Cruz** estrelló un potente remate en el travesaño y, en la siguiente jugada, Arce tuvo una clara oportunidad, pero el arquero visitante, Guido Villar, logró evitar el gol con una gran intervención.
-
-Aunque los rayados tuvieron su mejor ocasión a los 25 minutos con un tiro libre de Yaimar Medina, el primer tiempo terminó con la ventaja parcial para Liga de Quito, gracias a un cabezazo de Arce tras un gran centro de Julio.
-
-La segunda mitad comenzó con **Independiente del Valle** intentando controlar el juego, pero fue Liga quien amplió su ventaja.
-
-A los 57 minutos, Arce anotó su segundo gol al desviar un disparo de [Bryan Ramírez,](https://es.wikipedia.org/wiki/Bryan_Ram%C3%ADrez) y a los 72, Gabriel Villamil selló el **3-0** con un potente disparo desde fuera del área.
-
-¿Cuándo vuelven a jugar Liga de Quito e IDV en la final?
---------------------------------------------------------
-
-Con este resultado, Liga de Quito tiene una ventaja casi insuperable de cara al partido de vuelta, que se jugará el 14 de diciembre en el Estadio de Independiente del Valle. Los dirigidos por Pablo Sánchez deberán remontar una diferencia de tres goles si desean consagrarse campeones.
-
-Reloj que predice terremotos y otros secretos fueron publicados en un libro peruano
-===================================================================================
-
-El periodista Ítalo Sifuentes incluyó ocho nuevos hallazgos en su libro denominado Historias Ocultas.
------------------------------------------------------------------------------------------------------
-
-![Imagen referencia. El periodista Ítalo Sifuentes publicó un libro en el que consta la historia de un reloj que podía "predecir" los terremotos. Cortesía Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/Terremoto.jpg)
-
-##### Agencia EFE
-
-Un **reloj construido en 1725** por un científico español para ‘**predecir’ terremotos**, la **primera publicidad del pisco** en el extranjero y cómo se evitó que los restos del poeta **César Vallejo** fueran enviados a una fosa común, son algunas de las **nuevas ‘historias ocultas’** de Perú.
-
-Fueron rescatadas por el periodista **Ítalo Sifuentes.** El investigador peruano señaló que incluyó ocho nuevos hallazgos en su **libro ‘Historias ocultas’**.
-
-Este texto reúne más de **200 hechos históricos** y ahora ha aparecido en una tercera edición a cargo del sello Revuelta Editores.
-
-Entre estos temas se informa que “el más adelantado de los inventos para pronosticar terremotos y temblores en el mundo se hizo en Perú en 1725” y **fue un reloj astronómi**co creado por el científico español y profesor de matemáticas en la **Real Universidad de San Marcos**, de Lima, **Juan de Barrenechea.**
-
-Un antiguo reloj para “predecir” terremotos
--------------------------------------------
-
-**San Marcos** “publicó en 16 páginas su revolucionara obra ‘**Relox** astronómico de temblores de la tierra, secreto maravilloso de la naturaleza'”, explicó el autor antes de indicar que en 1734 apareció la demostración del invento en la obra ‘Nueva observación astronómica del periodo trágico de los temblores grandes de la tierra.
-
-Exactamente arreglada a **Europa, y Asia, y de la América,** a los reinos del Perú, Chile, y Guatemala’.
-
-Ahí, **De Barrenechea** aseguró que había hallado, “el secreto maravilloso” de que “siempre que ha temblado la **Tierra en Lima y en otras partes**, ha sido en las 12 horas, y 24 minutos, que nuestro Reloj Astronómico señala”.
-
-La primera publicidad del pisco
--------------------------------
-
-**Sifuentes** también ha encontrado que en 1904 se publicaron en **Argentina** dos avisos en la revista ‘Caras y Caretas’ referidos al ‘**Pisco Superior Pinganilla**‘, elaborado en la localidad sureña peruana de **Locumba,** y sobre el ‘Pisco Perú’.
-
-“Vienen a constituir las evidencias de las marcas más antiguas de este producto peruano de exportación hasta ahora encontradas”, sostuvo tras decir que se conocía publicidad de 1919 y de 1922, que consta en el **Archivo General de la Nación.**
-
-Precisamente, **Sifuentes** entregó este jueves al archivo nacional dos ejemplares de 1904 y 1905 de la revista, en los que figuran los avisos impresos del pisco peruano.
-
-Los restos del poeta César Vallejo
-----------------------------------
-
-Sus investigaciones, que comenzaron hace 15 años, le han permitido hallar, además, información publicada en la prensa de **Estados Unidos** entre 1929 y 1960 sobre el **poeta peruano César Vallejo,** quien falleció en París en 1938.
-
-En esta aparece un artículo titulado ‘**Evitan una exhumación**‘, publicado en 1960 y que señala que el entonces **ministro peruano de Educación, Alfredo Parra**, alertó que los restos de Vallejo “estaban en peligro de pasar a la fosa común” por falta de pago de su tumba temporal.
-
-Parra informó a la Cámara de Diputados que “el gobierno había decidido renovar por 30 años más la tumba del **poeta Vallejo** en el cementerio” **parisino de Mount Rouge**, de donde años después fueron trasladados al cementerio de Montparnasse por decisión de su viuda, la francesa Georgette Philippart.
-
-Sifuentes se mostró satisfecho de haber concluido esta etapa de su investigación cuando se recuerda el bicentenario de la consolidación de la **independencia de Perú**, con la conmemoración de la batalla de Ayacucho, este 9 de diciembre.
-
-Ecuatorianos ya no requieren visa para ir a Emiratos Árabes Unidos
-==================================================================
-
-Los representantes de ambos países firmaron este acuerdo. Además, suscribieron un convenio de Servicios Aéreos.
----------------------------------------------------------------------------------------------------------------
-
-![El acuerdo de Exención de Visas exime de este requisito por un período máximo de 90 días. Cortesía: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/Emiratos-Arabes.jpg)
-
-##### Agencia EFE
-
-**Ecuador y Emiratos Árabes Unidos f**irmaron dos acuerdos para impulsar la conectividad, el turismo y la seguridad, informó el Ministerio de Relaciones Exteriores y Movilidad Humana.
-
-La **canciller ecuatoriana, Gabriela Sommerfeld**, y la **ministra de Estado para la Cooperación Internacional de Emiratos Árabes Unidos, Reem Ebrahim Al Hashimy**, suscribieron dos acuerdos que impulsarán la cooperación entre ambas naciones.
-
-### Más noticias
-
-* [Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales](https://www.elcomercio.com/actualidad/seguridad/cancilleria-confirma-muerte-diplomatico-ecuatoriano-edmundo-morales.html "Cancillería confirma muerte del diplomático ecuatoriano Edmundo Morales")
-* [Dos de los 16 fallecidos en el choque de Catamayo no han sido identificados](https://www.elcomercio.com/actualidad/ecuador/dos-16-fallecidos-choque-catamayo-identificados.html "Dos de los 16 fallecidos en el choque de Catamayo no han sido identificados")
-* [Furukawa responde a Corte Constitucional sobre prácticas similares a la esclavitud](https://www.elcomercio.com/actualidad/ecuador/corte-constitucional-practicas-similares-esclavitud-furukawa-empresa-responde.html "Furukawa responde a Corte Constitucional sobre prácticas similares a la esclavitud")
-
-Exención de visas entre Ecuador y Emiratos Árabes Unidos
---------------------------------------------------------
-
-En el primer acuerdo de **Exención de Visas**, ambos países, en reciprocidad, **eximen del uso de la visa**, por un periodo máximo de 90 días, a los titulares de pasaportes ordinarios, oficiales y diplomáticos.
-
-Este acuerdo **facilita el turismo**, promueve los viajes de negocios e incentiva el intercambio académico por periodos de corta duración, indicó el Ministerio en un comunicado.
-
-Acuerdo de servicios aéreos
----------------------------
-
-El segundo es el **Acuerdo de Servicios Aéreos**. Busca mejorar la conectividad entre Ecuador y Emiratos Árabes Unidos.
-
-La intención es aprovechar la experiencia y capacidad de **Emiratos Árabes Unidos** como un centro logístico multimodal estratégico para el comercio y las inversiones en **Medio Oriente**.
-
-A más de la firma de estos acuerdos, las autoridades acordaron desarrollar una agenda de cooperación centrada en el desarrollo y la seguridad ciudadana.
-
-Como parte de este compromiso, se organizarán diálogos sectoriales enfocados en crear un entorno favorable para la inversión e incorporar tecnología avanzada para el control de fronteras y la seguridad ciudadana.
-
-Además de financiar proyectos orientados al desarrollo, estos compromisos refuerzan los lazos bilaterales entre **Ecuador y Emiratos.**
-
-¿Cómo lograr el estilo de Sabrina Carpenter?
-============================================
-
-Sabrina Carpenter mezcla la estética Y2K y modernidad femenina.
----------------------------------------------------------------
-
-![Sabrina Annlynn Carpenter es una cantante, compositora y actriz estadounidense de 25 años.](https://www.elcomercio.com/wp-content/uploads/2024/12/sabrina-El-Comercio.jpg)
-
-**Sabrina Carpenter** no solo conquista con su música —su tema [_Espresso_](https://www.youtube.com/watch?v=eVli-tstM5E) está en el top global de Spotify Wrapped 2024—, sino también con su estilo impecable que combina elementos de la **moda Y2K** y toques _coquette_.
-
-En **Ecuador**, las publicaciones de la prensa sobre la cantante y actriz son ampliamente acogidas por su gran base de fans, quienes no dudan en comentar y compartir cualquier noticia relacionada con ella. Es una figura con relevancia entre los jóvenes, especialmente en redes sociales y plataformas como Instagram y TikTok.
-
-Este fenómeno refleja el creciente interés que la artista despierta en el país, no solo por su música, sino también por su estilo, sus proyectos y su presencia en redes sociales.
-
-En diciembre de 2024, la cantante atraviesa un momento personal y profesional lleno de giros que también te contamos antes de hablarte de su estilo.
-
-### Más noticias
-
-* **[Incorpora el estilo de Sabrina, la bruja adolescente, a tu armario con estas ideas](https://www.elcomercio.com/afull/ropa-vestuario-vestidos-moda-sabrina-bruja-adolescente-serie-juvenil.html "https://www.elcomercio.com/afull/ropa-vestuario-vestidos-moda-sabrina-bruja-adolescente-serie-juvenil.html")**
-* **[La camisa blanca es tu aliada para crear outfits en climas impredecibles como el de Quito](https://www.elcomercio.com/tendencias/outfits-camisa-blanca.html "https://www.elcomercio.com/tendencias/outfits-camisa-blanca.html")**
-
-**Ruptura con Barry Keoghan**
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/sabrina-El-Comercio-1-1024x683.jpg)
-
-El fin de su relación con el **[actor Barry Keoghan](https://www.instagram.com/keoghan92/?hl=es)**, con quien estuvo un año, ha sido tema de conversación. Según _People_, la pareja decidió separarse debido a conflictos de agenda, pero mantiene una buena relación.
-
-Sabrina ha mencionado en entrevistas que este proceso le permitió redescubrirse y enfocarse en sus proyectos creativos, como su especial navideño.
-
-**Un regalito de Navidad en Netflix**
--------------------------------------
-
-En diciembre de 2024, **Sabrina debuta en Netflix** con ‘**[A Nonsense Christmas with Sabrina Carpenter](https://www.netflix.com/ec/title/81912861 "https://www.netflix.com/ec/title/81912861")**‘. Según Variety, este especial promete canciones navideñas clásicas y originales, duetos inesperados y cameos de estrellas. “Es mi carta de amor a la temporada navideña”, dijo Sabrina en un comunicado.
-
-**Moda adaptada a su estatura**
--------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/sabrina-El-Comercio-2-1024x683.jpg)
-
-Con su 1,52 m, **Sabrina** aprovecha los **crop tops** y **vestidos cortos** para alargar visualmente su figura. Vogue ha señalado que estas prendas destacan en su estilo por su capacidad para estilizar a mujeres _petite_.
-
-Sabrina también apostó por pantalones de tiro alto, que crean la ilusión de piernas más largas. Su amor por las **lentejuelas** y **telas brillantes**, como se vio en los **MTV VMAs 2023**, refleja su personalidad audaz y energética.
-
-**Calzado con plataformas: su aliado**
---------------------------------------
-
-El **calzado de plataformas es un sello de Sabrina**, no solo por ser tendencia Y2K, sino porque aporta altura y confianza. Durante su gira _Emails I Can’t Send_, usó botas altas de Naked Wolfe que fusionaban funcionalidad y estilo. Este tipo de zapatos se complementan perfectamente con faldas mini y vestidos ajustados, esenciales en su guardarropa.
-
-**El maquillaje de Sabrina Carpenter**
---------------------------------------
-
-Su maquillaje equilibra lo natural con lo glamuroso. Según Harper’s Bazaar, Sabrina prefiere bases ligeras con un acabado luminoso. Iluminador en pómulos y sombras en tonos neutros como dorados y marrones son esenciales para su mirada. Para eventos, añade **delineados _cat eye_** y labios rosados ​​o _nude_. Este enfoque resalta su juventud y carisma, sin resultar exagerado.
-
-**Cabello brillante y versátil**
---------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/sabrina-El-Comercio-4-1024x683.jpg)
-
-La **melena rubia de Sabrina Carpenter** es parte crucial de su imagen. Usa tonos cálidos que resaltan su piel clara, como explica _Allure_. Prefiere ondas suaves o peinados voluminosos que añaden un aire cómodo a su presencia. En ocasiones, complementa con **flequillos** para darle un toque juvenil.
-
-**Inspiración en la tendencia Y2K y _coquette_**
-------------------------------------------------
-
-La **estética Y2K** toma su nombre del “Año 2000”, una época marcada por la moda futurista y el auge de la tecnología. **Britney Spears** y **Christina Aguilera**, entre otras cantantes, fueron las representantes de ese estilo que fue acogido por las jóvenes ecuatorianas de esa época.
-
-Con tonos metálicos, telas brillantes y piezas icónicas como los minivestidos y los pantalones cargo, evoca la estética de los años finales de los 90 y los primeros 2000. En 2024, este estilo renace como un homenaje nostálgico con un toque contemporáneo. Mientas la tendencia _coquette_ enfatiza lo femenino.
-
-Sabrina adopta el estilo Y2K con prendas como minivestidos, pantalones cargo y tops ajustados. La rubia reinventa estas piezas con un toque _coquette_, añadiendo detalles femeninos como lazos y telas brillantes. Así, logra un equilibrio entre lo retro y lo moderno, como mencionó Teen Vogue.
-
-Hinchas de Liga de Quito festejan victoria en Fiestas de Quito
-==============================================================
-
-Liga goleó a IDV y los hinchas albos salieron contentos del estadio Rodrigo Paz Delgado en plenas Fiestas de Quito.
--------------------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito festejan uno de los goles en el triunfo ante IDV, en la final de ida de la Liga Pro en plenas Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/LigaQuito.jpg)
-
-Los hinchas de **Liga de Quito** llegaron con la confianza de llevarse una victoria ante **Independiente del Valle** en la final de ida de la **Liga Pro 2024**. Desde la previa del partido, estos mostraron motivación en torno al resultado y al final lo consiguieron en plenas **Fiestas de Quito.**
-
-Tras el partido, los hinchas albos salieron contentos luego de la goleada de [LDU en la final de ida](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html) por el campeonato.
-
-### Más noticias:
-
-* [Liga de Quito goleó a Independiente en la primera final de Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "Liga de Quito goleó a Independiente en la primera final de Liga Pro")
-* [Medallistas olímpicos protagonizan la final entre Liga de Quito e IDV](https://www.elcomercio.com/deportes/futbol/medallistas-olimpicos-protagonizan-la-final-entre-liga-de-quito-e-idv.html "Medallistas olímpicos protagonizan la final entre Liga de Quito e IDV")
-* [Vinotinto y 22 de Julio ascendieron a la Serie B](https://www.elcomercio.com/deportes/futbol/vinotinto-y-22-de-julio-ascendieron-a-la-serie-b.html "Vinotinto y 22 de Julio ascendieron a la Serie B")
-
-Liga de Quito
--------------
-
-Las calles aledañas al estadio **Rodrigo Paz Delgado** se inundaron durante este sábado 7 de diciembre del 2024.
-
-Antes de las 15:30, hora de inicio del partido, los aficionados ingresaron de a poco al reducto, que terminó copado, salvo por las zonas destinadas a los visitantes y claros excepcionales.
-
-Cobijados en banderas, con réplicas de la **Copa Libertadores** que Liga obtuvo en 2008 o con pintura en el rostro, estos se dirigieron. Familias enteras o hinchas envueltos en un solitario nerviosismo y soledad se daban cita.
-
-Ni siquiera la lluvia previa al cotejo frenó la llegada de los aficionados albos. Los souvenirs, la mercancía y los materiales alusivos a la escuadra universitaria en exteriores daban color a granel y complementaban la camaradería de esos extraños unidos por el blanco.
-
-Los hinchas de Liga predicen su campeonato
-------------------------------------------
-
-Si algo en común tenían todos los hinchas de **Liga de Quito** era la confianza en su equipo. Estos conversaron con EL COMERCIO y mostraron seguridad al momento de firmar un resultado favorable para encarar la vuelta.
-
-El nombre de **Álex Arce** también fue un común denominador. La confianza en el delantero albo estaba depositada y este no decepcionó al marcar un doblete al momento del compromiso.
-
-Aficionados como **Cristian Zurita** aseguraron un marcador de 2-0 y un doblete del arponero paraguayo. “Hoy no pierde Liga de Quito, doblete y a dormir”, señaló.
-
-Otros aficionados, a su vez, eran más optimistas y veían una goleada de mínimo tres tantos, que al final se cumplió. Al final eso se cumplió en plenas Fiestas de Quito.
-
-¿Cómo llega Liga de Quito para la vuelta con Independiente del Valle?
----------------------------------------------------------------------
-
-Liga de Quito se impuso por 3-0 en la ida ante Independiente del Valle y deja el marcador casi sentenciado de cara al siguiente cotejo.
-
-**Álex Arce** marcó un doblete y Gabriel Villamil sentenció el marcador para el conjunto azucena en la primera final.
-
-En el partido de vuelta, los rayados tendrán que imponerse por un marcador superior a los tres tantos para coronarse campeones. Este duelo se llevará a cabo el 14 de septiembre del 2024 en el Estadio de Independiente del Valle.
-
-P. Diddy cambió nueve veces de nombre hasta 2021
-================================================
-
-Uno de sus nombres le duró solo una semana. ¿A qué se deben tantos cambios?
----------------------------------------------------------------------------
-
-![Diddy Combs fue detenido en septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/diddy-El-Comercio-12.jpg)
-
-**P. Diddy o Sean Combs**, nacido el 4 de noviembre de 1969 en Harlem, es una figura icónica de la música, los negocios y la cultura pop.
-
-Hasta 2021, el artista ha utilizado nueve nombres artísticos. Cada uno ha reflejado un momento de reinvención.
-
-### Más noticias
-
-* **[¿Blancanieves y Mickey fueron las claves del imperio que creó Walt Disney?](https://www.elcomercio.com/tendencias/curiosidades/walt-disney-biografia-mickey-mouse.html "https://www.elcomercio.com/tendencias/curiosidades/walt-disney-biografia-mickey-mouse.html")** 
-* **[Actriz de ‘Pedro el Escamoso’ habló en vida de un supuesto encuentro con ovnis](https://www.elcomercio.com/afull/actriz-pedro-el-escamoso-ovnis.html "https://www.elcomercio.com/afull/actriz-pedro-el-escamoso-ovnis.html")**
-
-En 2024, **Diddy** fue detenido por múltiples demandas legales relacionadas con acusaciones de agresión sexual y tráfico sexual.
-
-**Puffy**
----------
-
-* Es su primer apodo, originado en su infancia porque resoplaba cuando estaba enojado. Fue el nombre que usó al iniciar su carrera musical. En inglés informal puff puede referirse a una pequeña explosión de aire, humo, vapor o gas. Por ejemplo, un “puff of smoke” significa “una bocanada de humo”.
-
-**Puff Daddy**
---------------
-
-* Su nombre artístico más conocido en los años noventa. Lo usó para lanzar su álbum debut, No Way Out, y se convirtió en un ícono del hip-hop bajo este seudónimo.
-
-**P. Diddy**
-------------
-
-* Adoptado en 2001 después de un juicio por un **tiroteo** en el que estuvo involucrada **JLo** cuando era pareja del rapero. Fue un intento de reinventarse tras momentos difíciles en su vida personal.
-
-**Diddy**
----------
-
-* Simplificación del anterior para facilitar la conexión con sus fans. Lo introdujo en 2005, aunque no puede usarlo en el Reino Unido por problemas legales.
-
-**Sean John**
--------------
-
-* Usado brevemente en 2008, derivado de su nombre de nacimiento. Este apodo se vinculó con la promoción de su línea de ropa del mismo nombre.
-
-**Swag**
---------
-
-* Nombre temporal en 2011 que duró solo una semana, según él, como una declaración de confianza y estilo.
-
-**Puff Daddy** (**regreso**)
-----------------------------
-
-* En 2014, volvió a usar este nombre para lanzar su mixtape MMM (Money Making Mitch), declarando que nunca lo abandonó oficialmente.
-
-**Love**
---------
-
-* Adoptado en 2017 como parte de una nueva etapa centrada en el amor y la espiritualidad. Según Combs, simboliza su transformación personal. Aunque inicialmente lo presentó como una broma, en 2022 hizo oficial el nombre “Sean Love Combs” en su licencia de conducir.
-
-**Brother Love**
-----------------
-
-Variante de “Love”, presentada al mismo tiempo, inspirada en el concepto de hermandad y unidad.
-
-### Más del tema
-
-* **[Nueva polémica para Diddy: lo acusan de querer matar a una diseñadora](https://www.elcomercio.com/afull/diddy-homicidio-demanda.html)**
-* **[Un organizador de las fiestas de P. Diddy detalló los excesos de los eventos](https://www.elcomercio.com/afull/diddy-rapero-fiestas.html)**
-
-Las Fiestas de Quito continúan este 8 de diciembre 
-===================================================
-
-Las Fiestas de Quito este fin de semana ofrecen una agenda cultural vibrante.
------------------------------------------------------------------------------
-
-![Agenda para el último día de las Fiestas de Quito. Foto: Archivo/EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/12/Fiestas-de-Quito.jpg)
-
-Las **Fiestas de Quito** continúan con una agenda cargada de **actividades culturales**, gastronómicas y conciertos imperdibles para disfrutar de los **últimos días de celebración** en honor a la capital de los ecuatorianos. ¡No te los pierdas! 
-
-### Más noticias
-
-* [Aún hay actividades por las Fiestas de Quito este 7 de diciembre](https://www.elcomercio.com/actualidad/quito/aun-hay-actividades-por-las-fiestas-de-quito-este-7-de-diciembre.html "https://www.elcomercio.com/actualidad/quito/aun-hay-actividades-por-las-fiestas-de-quito-este-7-de-diciembre.html")
-* [De Atahualpa a Benalcázar, los protagonistas de la fundación de Quito](https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html "https://www.elcomercio.com/tendencias/cultura/fundacion-quito-historia-sebastian-benalcazar.html") 
-
-Las **Fiestas de Quito** son una celebración emblemática que conmemora el 490 aniversario de la **fundación de la ciudad**. Este año, las festividades se extienden del 6 al 8 de diciembre, y ofrecen una rica **agenda cultural**. La ciudad se llena de vida y color, e invita tanto a los quiteños como a los visitantes a participar en esta gran celebración. 
-
-**Agenda cultural de las Fiestas de Quito** 
---------------------------------------------
-
-### **Sábado 7 de diciembre – Noche:** 
-
-* **Teatro en Quito:** 
-
-* **‘Ñaños Viejos’**: Protagonizada por Pancho Viñachi y Ave Jaramillo. La obra se representará el sábado, a las 20:00, en el Centro Cultural Casa Toledo. **Entradas disponibles en línea y boletería.** 
-
-### **Domingo 8 de diciembre:** 
-
-* **Ciudad Mitad del Mundo:** 
-
-* **Desfile de bastoneras**: De 09:00 a 13:00. 
-
-* **Rescate de oficios quiteños**: Hojalatería, bargueños, trompos, gastronomía tradicional, jugos, dulces tradicionales y poncheros en el Mercado Central. De 10:00 a 17:00. 
-
-* **Interpretación de Don Evaristo**: De 12:00 a 14:00. 
-
-* **Presentación de Orquesta**: De 14:00 a 15:00. 
-
-* **Banda de pueblo**: De 15:00 a 16:00. 
-
-* **Fotos con Chullitas y Chiva**: De 16:15 a 17:00. 
-
-* **Parque Bicentenario:** 
-
-* **Mega feria metropolitana norte / Navidad Quiteña**: A partir de las 10:00. 
-
-* **Sal Quiteña**: A las 11:30. 
-
-* **Teatro México** (sur de la ciudad): 
-
-* **Espectáculo de danzas quiteñas tradicionales**: A las 12:00. 
-
-* **Parque El Arbolito:** 
-
-* **Encuentro dedicado al ska**: Organizado por el colectivo Ska Society, de 11:00 a 18:00. 
-
-* **Centro de Arte Contemporáneo:** 
-
-* **Pareídolia de una grieta en la acera: Caminata dibujada**: A las 11:00. 
-
-Las **Fiestas de Quito** no solo representan una oportunidad para **celebrar la historia y cultura quiteña**, sino también un momento para reflexionar sobre la identidad y el futuro de la ciudad. Este fin de semana, la capital ecuatoriana se transforma en un **centro cultural vibrante** lleno de actividades para todos los gustos. Desde ferias gastronómicas hasta conciertos en vivo, cada evento contribuye a fortalecer el sentido de comunidad y pertenencia entre los quiteños. 
-
-Liga de Quito goleó a Independiente en la primera final de Liga Pro
-===================================================================
-
-El torneo ecuatoriano llegó a su etapa final, donde se definirán al nuevo monarca de la Liga Pro.
--------------------------------------------------------------------------------------------------
-
-![Alex Arce fue la figura de Liga de Quito en la final de Liga Pro con dos goles.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T165654.936.jpg)
-
-**Liga de Quito** no tuvo piedad en la final de ida de la Liga Pro 2024, al **golear 3-0 a Independiente del Valle** este sábado 7 de diciembre en el Estadio Rodrigo Paz Delgado.
-
-La gran figura de la **jornada fue el paraguayo Alex Arce**, quien anotó un doblete y, con sus 28 goles, rompió el récord de tantos en la era de la Liga Pro.
-
-Los rayados llegaron a la final como campeones de la primera etapa, mientras que el **‘Rey de Copas’** fue el mejor equipo de la segunda parte del torneo.
-
-### Más noticias:
-
-* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
-* [Las tres piezas clave de Liga de Quito para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-de-liga-de-quito-para-final-liga-pro.html "Las tres piezas clave de Liga de Quito para la final de Liga Pro")
-* [Las tres piezas clave de Independiente del Valle para la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/tres-piezas-clave-independiente-del-valle-para-final-liga-pro.html "Las tres piezas clave de Independiente del Valle para la final de Liga Pro")
-
-Este encuentro será una reedición de la final del año pasado, donde también se enfrentaron ambos equipos. En esa ocasión, el partido se definió en penales, con Alexander Domínguez como figura destacada, dándole a **Liga de Quito** su doceavo título y el primero bajo el formato de la Liga Pro.
-
-El ganador de esta final se convertirá en el primer **equipo en conseguir dos títulos** desde que la Liga Profesional de Fútbol asumió la organización del torneo ecuatoriano.
-
-Alex Arce y otro gol más
-------------------------
-
-En los primeros 10 minutos, Liga de Quito mostró una propuesta ofensiva, destacando por generar peligro desde los costados con **Bryan Ramírez** y **Jhojan Julio**.
-
-Por su parte, **Independiente** **del** **Valle** adoptó un enfoque más cauteloso, priorizando evitar errores en su zona defensiva frente a la presión ejercida por el equipo local.
-
-Cuando parecía que los rayados comenzaban a tomar el ritmo del partido, la **‘U’ volvió a generar peligro por los costados.**
-
-A los 19 minutos, **Daniel de la Cruz impactó un potente remate que se estrelló en el travesaño**. En la jugada siguiente, **Alex Arce** tuvo una clara oportunidad de gol. El paraguayo sacó un disparo a quemarropa que Guido Villar logró detener con grandes reflejos.
-
-La más clara de la visita fue a los 25 minutos con un tiro libre de **Yaimar** **Medina**, que se fue por encima del travesaño.
-
-Con el pasar de los minutos y al llegar a la media hora del encuentro en ‘Casa Blanca’, ambos equipos redujeron la intensidad de sus acciones. **Liga de Quito**, que estuvo muy cerca de abrir el marcador, bajó el ritmo y dejó de presionar con la misma agresividad que en los primeros minutos.
-
-Independiente del Valle casi sorprende a los 40 minutos. Un disparo con un desvío inesperado casi complica a **Alexander** **Domínguez**.
-
-En el agregado, **Jhojan** **Julio** sacó una gran jugada individual por el sector derecho y sacó un gran centro para Alex Arce. El paraguayo se impuso por los aires y con un potente cabezazo puso a ganar a la ‘U’.
-
-> ArceArceArceArce ✈️⚽️  
->   
-> Justo antes del descanso y tras gran jugada de Julio, el delantero paraguayo conectó de cabeza para el 1-0 de [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw).[#LaGranFinal](https://twitter.com/hashtag/LaGranFinal?src=hash&ref_src=twsrc%5Etfw) 🏆 [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/ExptmlSE9D](https://t.co/ExptmlSE9D)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [December 7, 2024](https://twitter.com/zapping_ecu/status/1865509317081756020?ref_src=twsrc%5Etfw)
-
-Liga de Quito se encaminó al triunfo
-------------------------------------
-
-En la segunda mitad, los papeles se invirtieron. Durante los primeros 10 minutos, **Independiente del Valle** tomó el control del esférico, imponiendo su ritmo con presión alta e intensidad para buscar errores en la defensa rival.
-
-Sin embargo, cuando mejor jugaban los rayados, llegó el segundo gol de Liga de Quito. Al minuto 57, Bryan Ramírez intentó con un disparo mordido que **Alex Arce**, mostrando su olfato goleador, desvió para firmar su **doblete** y ampliar la ventaja del ‘Rey de Copas’. Con ese gol, el paraguayo alcanzó los 28 tantos.
-
-> Una máquina goleadora 🤖🔥  
->   
-> ÁLEX ARCE, no importa cuándo lo leas. Estuvo donde debía y la empujó para el 2-0 de [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw).[#LaGranFinal](https://twitter.com/hashtag/LaGranFinal?src=hash&ref_src=twsrc%5Etfw) 🏆 [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wa5oeKiVyK](https://t.co/wa5oeKiVyK)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [December 7, 2024](https://twitter.com/zapping_ecu/status/1865516170587021388?ref_src=twsrc%5Etfw)
-
-A los 72 minutos, Liga de Quito sentenció el partido. **Gabriel Villamil** sacó un potente derechazo desde el borde del área imposible de atajar para Villar. El boliviano puso el 3-0 parcial en ‘Casa Blanca’.
-
-> ¡YA ES GOLEADA! 🤯  
->   
-> Villamil recibió al borde del área y no dudó en sacar el remate que venció a Villar.  
->   
-> ¿Liquidado? 🫢 [#LaGranFinal](https://twitter.com/hashtag/LaGranFinal?src=hash&ref_src=twsrc%5Etfw) 🏆 [#ZappingSports](https://twitter.com/hashtag/ZappingSports?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/JJNmWsZvdE](https://t.co/JJNmWsZvdE)
-> 
-> — Zapping Ecuador (@zapping\_ecu) [December 7, 2024](https://twitter.com/zapping_ecu/status/1865520558944743563?ref_src=twsrc%5Etfw)
-
-Alineaciones para la final
---------------------------
-
-**Pablo ‘Vitamina’ Sánchez** contará con todos los jugadores que cerraron la segunda etapa, con la única baja sensible de José Quintero, quien se recupera de una lesión para estar disponible para la vuelta.
-
-### Liga de Quito
-
-**Portero**: Alexander Domínguez
-
-**Defensas**: Daniel de la Cruz, Ricardo Adé, Richard Mina y Leonel Quiñónez
-
-**Volantes**: Ezequiel Piovi, Fernando Cornejo, Gabriel Villamil
-
-**Delanteros**: Bryan Ramírez, Alex Arce, Jhojan Julio
-
-> ¡El XI inicial para la primera final! ¡VAMOS EQUIPO! 👊🤩  
-> 🆚 [#LIGAIDV](https://twitter.com/hashtag/LIGAIDV?src=hash&ref_src=twsrc%5Etfw)  
-> 🏆 Final IDA [#LigaProEcuabet2024](https://twitter.com/hashtag/LigaProEcuabet2024?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/jIGKXNb198](https://t.co/jIGKXNb198)
-> 
-> — LDU Oficial (@LDU\_Oficial) [December 7, 2024](https://twitter.com/LDU_Oficial/status/1865478887276204421?ref_src=twsrc%5Etfw)
-
-### Independiente del Valle
-
-**Portero**: Guido Villar
-
-**Defensas**: Anthony Landázuri, Luis Zárate, Richard Schunke y Beder Caicedo
-
-**Volantes**: Joao Ortiz, Cristian Zabala y Bryan García
-
-**Delanteros**: Keny Arroyo, Jeison Medina y Yaimar Medina
-
-> 🚨 [@BancoGuayaquil](https://twitter.com/BancoGuayaquil?ref_src=twsrc%5Etfw) presenta:  
-> 1⃣1⃣ 📝Alineación [#IDV](https://twitter.com/hashtag/IDV?src=hash&ref_src=twsrc%5Etfw) ⚽🏃🆚 [@LDU\_Oficial](https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw) [#UnClubDiferente](https://twitter.com/hashtag/UnClubDiferente?src=hash&ref_src=twsrc%5Etfw) Encuentra la camiseta oficial de Independiente Del Valle en [https://t.co/3S5mXN16vc](https://t.co/3S5mXN16vc) [pic.twitter.com/eIZZT4eHZL](https://t.co/eIZZT4eHZL)
-> 
-> — Independiente del Valle (@IDV\_EC) [December 7, 2024](https://twitter.com/IDV_EC/status/1865480106371608652?ref_src=twsrc%5Etfw)
-
-¿Cuándo se juega la revancha?
------------------------------
-
-La final de vuelta se jugará el próximo sábado 14 de diciembre. El partido iniciará a las 15:30 y se llevará a cabo en el Estadio de Independiente del Valle, en el sector de Chillo Jijón, en el Valle de los Chillos.
-
-Medallistas olímpicos fueron protagonistas en la final entre Liga de Quito e IDV
-================================================================================
-
-La organización de la Liga Pro tuvo un lindo geste con los medallistas olímpicos de Ecuador.
---------------------------------------------------------------------------------------------
-
-![Neisi Dajomes y Richard Carapaz con el trofeo de la Liga Pro en la previa de la final entre Liga de Quito e Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-07T163758.450.jpg)
-
-Los momentos previos a la **final** entre **Liga de Quito** e Independiente del Valle estuvieron marcados por la presencia de grandes figuras del deporte ecuatoriano. **Richard Carapaz, Neisi Dájomes y Jefferson Pérez**, medallistas olímpicos, realizaron actos especiales antes del inicio del partido.
-
-El enfrentamiento, programado para el 7 de diciembre de 2024 a las 15:30 en el **Estadio Rodrigo Paz Delgado**, tuvo como protagonistas a Liga de Quito, que clasificó como ganadora de la segunda etapa, e Independiente del Valle, campeón de la primera fase.
-
-### Más noticias:
-
-* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
-* [(En vivo) Liga de Quito vence a Independiente en la final de la Liga Pro](https://www.elcomercio.com/deportes/futbol/en-vivo-liga-de-quito-independiente-final-liga-pro-resultado.html "(En vivo) Liga de Quito vence a Independiente en la final de la Liga Pro")
-* [Liga de Quito anuncia un show artístico previo a la final con IDV](https://www.elcomercio.com/deportes/futbol/liga-quito-final-idv-show-artistico-cuando.html "Liga de Quito anuncia un show artístico previo a la final con IDV")
-
-Un espectáculo previo al partido
---------------------------------
-
-Antes del puntapié inicial, la **Liga** **Pro** organizó un show que incluyó la participación de los deportistas olímpicos, quienes representaron disciplinas ajenas al fútbol.
-
-**Richard** **Carapaz** y Neisi Dájomes fueron los encargados de portar el trofeo de la Liga Pro. Ingresaron juntos desde el túnel central y lo presentaron a las hinchadas, dejando el trofeo en el centro de la cancha mientras recibían el aplauso del público.
-
-Carapaz destacó como reciente ganador del liderato de montaña en el Tour de Francia y campeón del Giro de Italia 2019, además de haber obtenido la medalla de oro en los **Juegos Olímpicos de Tokio 2020+1.**
-
-Por su parte, **Neisi Dájomes brilló** con su medalla de bronce en París 2024, sumándola a su histórica medalla de oro en la cita paralímpica Tokio 2020+1.
-
-> 📍¡Nuestros héroes y glorias ecuatorianas! 🏆🏟️  
->   
-> Neisi Dajomes y [@RichardCarapazM](https://twitter.com/RichardCarapazM?ref_src=twsrc%5Etfw) ingresaron la Copa del Campeón de la LigaPro Ecuabet 2024 💪🏻⚽️  
->   
-> Mientras que [@jeffersonperezq](https://twitter.com/jeffersonperezq?ref_src=twsrc%5Etfw) entregó el balón oficial y nos hizo emocionar con su marcha en el campo de juego❤️  
->   
-> ¡Siempre… [pic.twitter.com/93oktg5m5n](https://t.co/93oktg5m5n)
-> 
-> — LigaPro (@LigaProEC) [December 7, 2024](https://twitter.com/LigaProEC/status/1865508763261665470?ref_src=twsrc%5Etfw)
-
-El puntapié inicial a cargo de Jefferson Pérez
-----------------------------------------------
-
-**Jefferson** **Pérez**, el único ecuatoriano con dos medallas olímpicas en dos citas distintas, fue invitado especial y realizó el puntapié inicial. Con su característico estilo, llevó la pelota al borde del círculo central, dando inicio a la gran final tras un breve gesto simbólico con el balón.
-
-Este emotivo preludio no solo resaltó el talento **futbolístico**, sino también el orgullo de un país por sus deportistas más destacados.
-
-ChatGPT lanza la versión o1 con innovaciones sorprendentes 
-===========================================================
-
-ChatGPT presenta su nueva versión para revolucionar la inteligencia artificial.
--------------------------------------------------------------------------------
-
-![ChatGPT o1 mejora el análisis de texto, imágenes y datos con precisión avanzada. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/12/ChatGPT.jpg)
-
-**OpenAI** ha lanzado recientemente la **versión o1 de ChatGPT**, una actualización que promete transformar la interacción con la **inteligencia artificial**.  
-
-### Más noticias
-
-* [Guía para usar WhatsApp en un televisor con estos sencillos pasos](https://www.elcomercio.com/tecnologia/whatsapp-television-aplicacion-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-television-aplicacion-tutorial.html")
-* [Cómo funciona Spotify Wrapped, de qué se trata y cuándo sale](https://www.elcomercio.com/tecnologia/spotify-wrapped-funcionamiento-musica.html "https://www.elcomercio.com/tecnologia/spotify-wrapped-funcionamiento-musica.html") 
-
-Este nuevo modelo se destaca por su **capacidad para resolver problemas complejos** con un razonamiento más profundo y preciso. La llegada de o1 marca un hito importante en el desarrollo de tecnologías de **inteligencia artificial** generativa, lo que amplía las posibilidades para usuarios y desarrolladores. 
-
-**¿Qué es ChatGPT o1?** 
-------------------------
-
-**ChatGPT o1** es una evolución del modelo original de **ChatGPT**. Utiliza una arquitectura avanzada que permite un análisis más detallado de texto, imágenes y datos. Según **OpenAI**, este modelo puede abordar **tareas complejas** con una precisión sin precedentes, similar a la de estudiantes de doctorado en áreas como física y matemáticas, de acuerdo con [EuroNews](https://es.euronews.com/next/2024/09/15/o1-de-openai-es-una-inteligencia-artificial-capaz-de-razonar-al-nivel-de-estudiantes-de-do "https://es.euronews.com/next/2024/09/15/o1-de-openai-es-una-inteligencia-artificial-capaz-de-razonar-al-nivel-de-estudiantes-de-do"). Este avance se traduce en una **mejora notabl**e en la calidad de las respuestas generadas. 
-
-**Características principales de ChatGPT o1** 
-----------------------------------------------
-
-* **Razonamiento avanzado:** La nueva versión presenta un mecanismo de **razonamiento** que simula el proceso de **pensamiento humano**. Esto permite a ChatGPT o1 analizar información más compleja y ofrecer respuestas más coherentes y relevantes. 
-
-* **Velocidad mejorada:** Aunque el modelo requiere más tiempo para procesar información, los **tiempos de respuesta** han disminuido en comparación con versiones anteriores. Esto significa que los usuarios experimentarán una interacción más fluida y eficiente. 
-
-* **Acceso exclusivo:** Actualmente, el acceso a **ChatGPT o1** está limitado a **suscriptores de pago**, específicamente aquellos que utilizan **ChatGPT Plus y Team**. Se espera que pronto esté disponible para usuarios de versiones **Enterprise y Edu**. 
-
-**Impacto en el periodismo y la creación de contenido** 
---------------------------------------------------------
-
-La introducción de **ChatGPT o1** tiene **implicaciones significativas para el periodismo**. Las organizaciones pueden utilizar esta herramienta para **mejorar la entrega de noticias** personalizadas. Al analizar las **preferencias del usuario**, ChatGPT puede generar resúmenes adaptados a intereses específicos, lo que aumenta así la participación del público, a decir de FasterCapital. 
-
-Además, los periodistas pueden beneficiarse de la capacidad de **ChatGPT** para v**erificar hechos rápidamente.** Esta función permite a los medios asegurar la precisión en sus informes, lo cual es crucial en un entorno informativo saturado. 
-
-**Comparativa con versiones anteriores** 
------------------------------------------
-
-![Foto: Perplexity Ai.](https://www.elcomercio.com/wp-content/uploads/2024/12/ChatGPT-1-1024x683.jpg)
-
-Foto: Perplexity Ai.
-
-**Desafíos y limitaciones** 
-----------------------------
-
-A pesar de sus avances, **ChatGPT o1 enfrenta desafíos**. Algunas **funciones clave** del modelo anterior no están disponibles en esta **versión preliminar**. Por ejemplo, la capacidad para **navegar por Internet** y analizar imágenes ha sido desactivada temporalmente mientras se realizan pruebas adicionales, según EuroNews. 
-
-Además, el **costo del uso del modelo** es considerablemente más alto que el de sus predecesores, lo que podría **limitar su accesibilidad.** 
-
-### Te recomendamos:
-
-Esta cantidad se vendió en Ecuador en Black Friday, Black Week y Ciber Monday
-=============================================================================
-
-El Servicio de Rentas Internas estima un crecimiento del 9,6% en comparación con la misma semana del 2023.
-----------------------------------------------------------------------------------------------------------
-
-![El Cyber Monday generó ingresos de 1 000 millones de dólares en Ecuador. Foto: Pexels.](https://www.elcomercio.com/wp-content/uploads/2022/10/Black-Friday-Ecuador.jpg)
-
-El **director del Servicio de Rentas Internas (SRI)**, **Damián Larco**, aseguró que hubo un incremento significativo en las ventas durante el denominado **Black Week 2024**.
-
-Según datos preliminares del SRI, las ventas superaron los **5 300 millones** de dólares, un **9,6% más** en comparación con la misma semana del 2023.
-
-El **Black Friday** marcó un hito al alcanzar ventas por **1 231 millones**, un aumento del **46%** frente al mismo día del 2023.
-
-Por su parte, el **Cyber Monday** generó ingresos de **1 000 millones**, un **30% más** que en 2023, según el SRI.
-
-### Más noticias
-
-* [Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?](https://www.elcomercio.com/actualidad/negocios/ley-alivio-financiero-trata-segundo-debate-estas-son-las-principales-propuestas.html "Presidente Daniel Noboa envía Ley de alivio financiero al Registro Oficial ¿Qué propone?")
-* [Daniel Noboa firmó un decreto ejecutivo sobre el IVA para 2025](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-decreto-ejecutivo-iva-2025.html "Daniel Noboa firmó un decreto ejecutivo sobre el IVA para 2025")
-
-Balance de la **recaudación tributaria**
-----------------------------------------
-
-Entre enero y noviembre de 2024, el **SRI recaudó 18 537 millones**. Esa cantidad representó un crecimiento del **15,7%** respecto al mismo periodo del 2023, informó Larco.
-
-Este incremento representa **2 518 millones adicionales** en ingresos fiscales.
-
-Impuesto a la Renta y autorretenciones
---------------------------------------
-
-El **Impuesto a la Renta (IR)** lidera el crecimiento con una recaudación de **6 170 millones**, un aumento del **16,6%** comparado con 2023.
-
-Este crecimiento se atribuye a la implementación de autorretenciones para Grandes Contribuyentes y a la recaudación por remisión registrada entre enero y julio de 2024, dijo Larco.
-
-En noviembre de 2024, la recaudación mensual de IR alcanzó los **445 millones**, **30,9%** de aumento frente al mismo mes de 2023.
-
-Impuesto al Valor Agregado (IVA) en ascenso
--------------------------------------------
-
-El **IVA** también registró un crecimiento significativo, con una recaudación acumulada de **8 877 millones,** entre enero y noviembre.
-
-Es **14,4%** si se compara con el 2023. Solo en noviembre, el IVA generó **880 millones**.
-
-**Ventas anuales en Ecuador**
------------------------------
-
-De enero a octubre de 2024, el total de ventas en Ecuador alcanzó los **190 507 millones**, un crecimiento del **1,6%** frente al mismo periodo de 2023, informó el **Servicio de Rentas Internas.**
