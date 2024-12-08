@@ -307,6 +307,7 @@ INFORMATION
 * [Rewards Program](https://northwoodcandlesupply.com/#smile-home)
 * [Affiliate Program](https://northwoodcandlesupply.com/pages/collab)
 * [Gift Card](https://northwoodcandlesupply.com/products/northwood-candle-gift-card)
+* [Coupons & Deals](https://northwoodcandlesupply.com/pages/coupons)
 * [Wishlist](https://northwoodcandlesupply.com/pages/wishlist)
 * [Contact Us](https://northwoodcandlesupply.com/pages/contact-northwood)
 
