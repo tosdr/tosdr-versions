@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
-* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
-* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
-* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Verpackungs­ärger: Mentos Pure Fresh Kaugummi](https://www.test.de/Verpackungsaerger-Mentos-Pure-Fresh-Kaugummi-6119690-0/ "Verpackungsärger - Mentos Pure Fresh Kaugummi")
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Solar­thermiekollektoren im Test: Wärme vom Dach](https://www.test.de/solarthermie-flach-und-roehrenkollektoren-test-6011149-0/ "Solarthermiekollektoren im Test - Wärme vom Dach")
-* [Centerbridge Part­ners: Handel übers Fake-Depot](https://www.test.de/Warnliste-Handel-uebers-Fake-Depot-5991527-0/ "Centerbridge Partners - Handel übers Fake-Depot")
-* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Tipps vom Tier­arzt: Den Hund bei Eis und Schnee schützen](https://www.test.de/Tipps-vom-Tierarzt-Den-Hund-bei-Eis-und-Schnee-schuetzen-6178300-0/ "Tipps vom Tierarzt - Den Hund bei Eis und Schnee schützen")
+* [Das Geld­anlage-Set: Die Check­listen zum Herunter­laden](https://www.test.de/Das-Geldanlage-Set-Die-Checklisten-zum-Herunterladen-6083007-0/ "Das Geldanlage-Set - Die Checklisten zum Herunterladen")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Verpackungs­ärger: Nature Bakes Kekse von Aldi](https://www.test.de/Verpackungsaerger-Nature-Bakes-Kekse-von-Aldi-5956886-0/ "Verpackungsärger - Nature Bakes Kekse von Aldi")
 
 Stiftung Warentest
 
