@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore data files to Minio using Back ...](https://www.backup4all.com/how-to-restore-data-files-to-minio-using-backup4all-kb.html)  
+* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
     
-* [How to back up data files from Scaleway using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scaleway-using-backup4all-kb.html)  
+* [Network backup](https://www.backup4all.com/network-backup-kb.html)  
     
-* [Backup music with Backup4all](https://www.backup4all.com/backup-music-with-backup4all-kb.html)  
+* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
     
-* [How to backup your data to Numergy](https://www.backup4all.com/how-to-backup-your-data-to-numergy-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [What is a Mirror Backup?](https://www.backup4all.com/mirror-backup-kb.html)  
+* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
     
 
 Choose language:
