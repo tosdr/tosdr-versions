@@ -207,6 +207,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau
+
+Russische Agenturen melden: Ex-Syrien-Diktator Assad ist in Moskau](https://www.bild.de/politik/russische-agentur-meldet-assad-soll-bei-seiner-familie-in-moskau-sein-6755dd409258742b373c7d23)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
