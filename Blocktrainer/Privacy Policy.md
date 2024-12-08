@@ -590,7 +590,7 @@ Kopieren
 
 [](#)
 
-![Blocktrainer Broken Money](/fileadmin/_processed_/8/3/csm_Buch-Broken_Money_390x615px_43bf42e18c.jpg)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
