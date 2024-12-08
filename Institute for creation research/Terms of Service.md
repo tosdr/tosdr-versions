@@ -165,67 +165,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Back to Genesis
+More Apologetics
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/texas_sized_spider.jpg)](https://www.icr.org/article/a-texas-size-spider-mystery)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/seaturtlescry_1400x1050.jpg)](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty)
 
-[A Texas-Size Spider Mystery](https://www.icr.org/article/a-texas-size-spider-mystery/)
+[Why Do Female Sea Turtles Cry Salty Tears?](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty/)
 
-The delightfully creepy spider belongs to a class called Arachnida—which is distinct from the “bug” class Insecta. Not surprisingly,...
+Life on a cruise ship can be wonderfully relaxing, but perpetually living at sea has dangerous challenges—just ask a female sea turtle.1...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/vertebrate_origins_ropes.jpg)](https://www.icr.org/article/vertebrate-origins-on-the-ropes-again)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/eating_bugs_isnt_simple.jpg)](https://www.icr.org/article/eating-bugs-isnt-always-so-simple)
 
-[Vertebrate Origins on the Ropes...Again](https://www.icr.org/article/vertebrate-origins-on-the-ropes-again/)
+[Eating Bugs Isn't Always So Simple](https://www.icr.org/article/eating-bugs-isnt-always-so-simple/)
 
-In 1859, the Western world was turned upside down by the publication of Charles Darwin’s The Origin of Species by Means of Natural Selection or...
+The Lord Jesus Christ deserves glory for why He made Earth’s diverse creatures, and He also deserves glory for the complicated details of how...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/toe_yoga.jpg)](https://www.icr.org/article/toe-yoga-and-genesis-3)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/lobster-new-skin.jpg)](https://www.icr.org/article/lobsters-get-comfortable-in-their-new-skin)
 
-[Toe Yoga and Genesis 3](https://www.icr.org/article/toe-yoga-and-genesis-3/)
+[Lobsters Get Comfortable in Their New Skin](https://www.icr.org/article/lobsters-get-comfortable-in-their-new-skin/)
 
-I’ve suffered from heel pain for over a decade. I just want to be able to run, but sometimes I can barely even walk. I learned that I need to...
+Have you ever dreamed that you were squeezing yourself out of a giant toothpaste tube as the tube slowly tightened around your body? Something similar...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
-
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
-
-$9.99
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
-
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
-
-$2.99
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
-
-Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
-
-$29.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
-
-Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
-
-$4.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
-
-Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
-
-$16.99
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
