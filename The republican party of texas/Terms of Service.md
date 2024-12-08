@@ -47,6 +47,11 @@ Skip links
     
     [Resolutions](https://texasgop.org/category/resolutions/)
     
+    [Resolution Urging GOP Caucus Unity](https://texasgop.org/urging-gop-caucus-unity-resolution/)
+    ----------------------------------------------------------------------------------------------
+    
+    [Resolutions](https://texasgop.org/category/resolutions/)
+    
     [Texas House GOP Caucus Resolution](https://texasgop.org/texas-house-gop-caucus-resolution/)
     --------------------------------------------------------------------------------------------
     
@@ -54,11 +59,6 @@ Skip links
     
     [Official Trump Statement](https://texasgop.org/official-trump-statement/)
     --------------------------------------------------------------------------
-    
-    [Press releases](https://texasgop.org/category/press-releases/)
-    
-    [Official Cruz Statement](https://texasgop.org/official-cruz-statement/)
-    ------------------------------------------------------------------------
     
     ###### Contact Us for Latest Updates
     
