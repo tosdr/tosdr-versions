@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2011-12 Ballot Measures](/assets/Images/teasers/small/SameSexMarriage.png)](http://www.followthemoney.org/research/institute-reports/2011-2012-ballot-measure-overview/)
-
-2011-12 same-sex marriage ballots in 5 states.
+[![Direct Contributions from the Koch Network to State and Federal Candidates, by Party Affiliation, 2010-2016](/assets/Images/teasers/small/Koch-by-party.JPG)](https://www.followthemoney.org/research/blog/a-koch-fueled-blue-wave-not-likely)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
