@@ -441,7 +441,11 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[07-12-2024
+[08-12-2024
+
+Macron brings together Trump, Zelenskyy ahead of Notre-Dame ceremony](https://www.euractiv.com/section/global-europe/news/macron-brings-together-trump-zelenskyy-ahead-of-notre-dame-ceremony/)[08-12-2024
+
+Syrian army command tells its officers that Assad’s rule has ended](https://www.euractiv.com/section/global-europe/news/syrian-army-command-tells-its-officers-that-assads-rule-has-ended/)[07-12-2024
 
 Like Europe, US military production needs ‘accelerating’, says top White House aide](https://www.euractiv.com/section/global-europe/news/like-europe-us-military-production-needs-accelerating-says-top-white-house-aide/)[07-12-2024
 
@@ -457,11 +461,7 @@ EU-Mercosur deal likely to include ‘legally binding’ deforestation clampdown
 
 Von der Leyen cancels Notre Dame trip as Paris in fury over Mercosur deal](https://www.euractiv.com/section/politics/news/von-der-leyen-cancels-notre-dame-trip-as-paris-in-fury-over-mercosur-deal/)[06-12-2024
 
-Hungary spied on EU officials, Belgian media reports](https://www.euractiv.com/section/politics/news/hungary-spied-on-eu-officials-belgian-media-reports/)[06-12-2024
-
-Irish fishermen pressure EU to exclude Norway from their waters](https://www.euractiv.com/section/agriculture-food/news/irish-fishermen-pressure-eu-to-exclude-norway-from-their-waters/)[06-12-2024
-
-EU-Mercosur: The global alliance of herbivores starts today](https://www.euractiv.com/section/economy-jobs/news/eu-mercosur-the-global-alliance-of-herbivores-starts-today/)
+Hungary spied on EU officials, Belgian media reports](https://www.euractiv.com/section/politics/news/hungary-spied-on-eu-officials-belgian-media-reports/)
 
 ###### Advertisement
 
