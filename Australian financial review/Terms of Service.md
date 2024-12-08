@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2023%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_107/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a8d90739ed2a8508db63ace4d07ee33b2312160f)](https://www.afr.com/life-and-luxury/fashion-and-style/what-to-wear-on-your-trip-into-space-this-watch-ceo-has-a-suggestion-20240922-p5kcfp)
+[![ ](https://static.ffx.io/images/$zoom_0.4788%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_669%2C$y_617/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a96615885fd8cb0aa88f102141467f171419f584)](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
 
-### [What to wear on your trip into space? This watch CEO has a suggestion](https://www.afr.com/life-and-luxury/fashion-and-style/what-to-wear-on-your-trip-into-space-this-watch-ceo-has-a-suggestion-20240922-p5kcfp)
+### [Monocle magazine’s Tyler Brûlé: Melbourne needs a good scrub down](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
 
+* 39 mins ago
 * Matthew Drummond
 
-* ### [Not everyone likes this new watch CEO. He’s OK with that](https://www.afr.com/life-and-luxury/fashion-and-style/not-everyone-likes-this-new-watch-ceo-he-s-ok-with-that-20241113-p5kqav)
+* ### [2024 changed the watch world. What will 2025 bring?](https://www.afr.com/life-and-luxury/fashion-and-style/2024-changed-the-watch-world-what-will-2025-bring-20241118-p5krhy)
     
-* ### [Here’s what’s ticking, according to the CEOs of three top watch brands](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-what-s-ticking-according-to-the-ceos-of-three-top-watch-brands-20241108-p5kp1h)
+* ### [A toast to the five best champagnes of 2024](https://www.afr.com/life-and-luxury/food-and-wine/a-toast-to-the-five-best-champagnes-of-2024-20241113-p5kqcs)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,15 +322,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4604%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_136%2C$y_330/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a973c9d004394338a58b82e1c14f3fcc1c19f560)](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
+[![ ](https://static.ffx.io/images/$zoom_0.4082%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_514%2C$y_114/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6df2116509dd34cfe7be3dd342d3c795a3e7dc6c)](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-how-succession-planning-works-at-patek-philippe-20241202-p5kv4y)
 
-### [Make a fashionista’s dreams come true](https://www.afr.com/life-and-luxury/fashion-and-style/make-a-fashionista-s-dreams-come-true-20241105-p5kny4)
+### [Here’s how succession planning works at Patek Philippe](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-how-succession-planning-works-at-patek-philippe-20241202-p5kv4y)
 
-* Eugenie Kelly
+* 54 mins ago
+* Bani McSpedden
 
-* ### [Why you’ll be eating KFC for Christmas in Japan](https://www.afr.com/life-and-luxury/travel/why-you-ll-be-eating-kfc-for-christmas-in-japan-20241018-p5kjdd)
+* ### [Why this executive finds diving so addictive](https://www.afr.com/life-and-luxury/health-and-wellness/why-this-executive-finds-diving-so-addictive-20241127-p5ku0a)
     
-* ### [For the wine-lover in your life, wrap up this literary treat](https://www.afr.com/life-and-luxury/food-and-wine/for-the-wine-lover-in-your-life-wrap-up-this-literary-treat-20241105-p5ko1r)
+* ### [How Sydney’s landmark Wentworth hotel rates after a $70m refurb](https://www.afr.com/life-and-luxury/travel/how-sydney-s-landmark-wentworth-hotel-rates-after-a-70m-refurb-20241114-p5kqqu)
     
 
 [Rich List](https://www.afr.com/rich-list)
