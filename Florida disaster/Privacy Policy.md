@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Saturday, December 7, 2024**
+**Sunday, December 8, 2024**
 
-**...****High Pressure Over the Southeast U.S. to Promote Dry and Cool Conditions Across the Sunshine State...Breezy Northerly to Northeasterly Winds With Gusts Near 10-20 MPH Persist Along the Peninsula...Elevated Fire Weather Concerns Along the Florida Panahndle and Across the Suwannee Valley Again This Afternoon...Radiational Cooling Giving Way to Low Temperatures In the 30s Across the Northern Peninsula and Through the Nature Coast Tonight Through Sunday Morning; Freeze Watches Issued For Interior Portions of the Suwannee Valley and Northeast Florida...Low Temperatures in the Upper 30s to Middle 40s Along the Florida Panhandle...Moderate to Locally High Risk for Rip Currents Along the Florida Panhandle and East Coast...**
+**...****Freeze Warnings and Frost Advisories Throughout Suwannee Valley and Interior Northeast Florida to Expire Mid-Morning...High Pressure to Continue To Dominate Bringing Dry Conditions Statewide...Sensitive Wildfire Conditions Across Suwannee Valley and Interior Northeast Florida...High Temperatures Near Normal for this Time of Year...Increasing Cloud Cover Ovenright Across Panhandle...Isolated Showers to Move Eastward into Western Panhandle Overnight/Early Monday Morning...Patchy Fog Possible Along Coastal Big Bend During Predawn Hours...Low Temperatures to Remain Well Above Freezing Tonight...Moderate to Locally High Risk for Rip Currents Along the Florida Panhandle and East Coast...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
