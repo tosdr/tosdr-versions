@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Not everything that is faced can be changed. But nothing can be changed until it is faced”
+“ Be quick, but don't hurry”
 
-[James Baldwin](https://en.wikipedia.org/wiki/James_Baldwin)
+[John Wooden](http://en.wikipedia.org/wiki/John_Wooden)
 
 [](https://www.adafruit.com/about)
 
