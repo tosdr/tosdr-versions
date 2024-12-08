@@ -205,24 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The 2007 Holiday Skymall Strategy Guide, Part 7](https://www.somethingawful.com/guides/skymall-guide-part7/1/)
-* [Where is Alec Baldwin now?](https://www.somethingawful.com/comedy-goldmine/alec-baldwin-adventures/1/)
-* [Mario Hits Hollywood!](https://www.somethingawful.com/comedy-goldmine/mario-hollywood/1/)
-* [The Questionable Art of BattleTechnology Magazine](https://www.somethingawful.com/dungeons-and-dragons/battletech-mechwarrior-magazine/1/)
+* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
+* [Square's Tom Sawyer](https://www.somethingawful.com/rom-pit/squares-tom-sawyer/)
+* [What Size of Flag Does Each Presidential Candidate Prefer?](https://www.somethingawful.com/news/flag-size-matters/)
+* [The Scary Zombie Journals](https://www.somethingawful.com/news/scary-zombie-journals/1/)
+* [In Space No One Can Hear the Music Die](https://www.somethingawful.com/news/scifi-music-movies/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [I've found a promising new musician](http://forums.somethingawful.com/showthread.php?threadid=4077038 "I've found a promising new musician")
+* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Connecticut fucking with neighbors w/highway signage MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4077042 "Connecticut fucking with neighbors w/highway signage MEGATHREAD")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photos.png) [post your lights/trees/menorahs/other holiday decorations](http://forums.somethingawful.com/showthread.php?threadid=4077030 "post your lights/trees/menorahs/other holiday decorations")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [Post your dumb end of year music app lists](http://forums.somethingawful.com/showthread.php?threadid=4077010 "Post your dumb end of year music app lists")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/event.png) [thinkin to post a thread](http://forums.somethingawful.com/showthread.php?threadid=4076997 "thinkin to post a thread")
 
 ### Random Articles
 
-* [Order of the Black Eagle](https://www.somethingawful.com/movie-reviews/order-black-eagle/1/)
-* [Two weeks with a Canker Sore: A Journal](https://www.somethingawful.com/news/canker-sore/1/)
-* [Bagman Begins!](https://www.somethingawful.com/photoshop-phriday/sleeping-bag-legs/1/)
-* [Grading The Flags](https://www.somethingawful.com/awful-links/grading-flags/)
-* [Doorknob Signs](https://www.somethingawful.com/photoshop-phriday/doorknob-warning-signs/1/)
+* [The Big Hack Attack](https://www.somethingawful.com/icq-pranks/icq-transcript-big/1/)
+* [The Ultimate Bernie/Hillary Meme](https://www.somethingawful.com/news/sanders-hillary-meme/)
+* [For My Money, I Spit On Your Grave 23 Is Where The Franchise Began To Lose Steam](https://www.somethingawful.com/news/spit-grave-sequels/)
+* [AT-AT Attack!](https://www.somethingawful.com/photoshop-phriday/star-wars-walker/1/)
+* [Watching the Olymbics From Home](https://www.somethingawful.com/news/imperial-island-skeleton/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
