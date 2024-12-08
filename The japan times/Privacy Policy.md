@@ -472,6 +472,10 @@ Revised June 1, 2022
 
   [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
+[Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+
+  [![Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438252.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.")](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+
 [Japan's honorific language can be challenging for native speakers, too](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
 
   [![People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437732.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ")](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
@@ -479,10 +483,6 @@ Revised June 1, 2022
 [Police may be able to use fake IDs to investigate _yami baito_](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
 
   [![A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
-
-[Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
-
-  [![Starbucks Coffee Japan will replace paper straws with plant-based biomass plastic straws from next month.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438622.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Starbucks Coffee Japan will replace paper straws with plant-based biomass plastic straws from next month.")](https://www.japantimes.co.jp/business/2024/12/06/companies/starbucks-biomass-plastic-straw/ "Starbucks in Japan to ditch paper straws for plant-based biomass plastic in 2025")
 
 [What constitutes fatal dangerous driving in Japan?](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
@@ -567,19 +567,11 @@ Latest News
 
 [South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-9 hours ago
-
 [Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
-
-10 hours ago
 
 [Yoon impeachment vote puts focus on South Korea’s generational gap](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/south-korea-generational-divide/ "Yoon impeachment vote puts focus on South Korea’s generational gap")
 
-11 hours ago
-
 [Dozens arrested in overnight crackdown on Georgia pro-EU protests](https://www.japantimes.co.jp/news/2024/12/07/world/georgia-protesters-arrested/ "Dozens arrested in overnight crackdown on Georgia pro-EU protests")
-
-11 hours ago
 
 [Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
 
