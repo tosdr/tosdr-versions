@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![World War II in Colour](/wp-content/thumbnails/6231-100x70.png?x53432)
+* [![Skinheads USA: Soldiers of the Race War](/wp-content/thumbnails/888-100x70.jpg?x53432)
     
-    World War II in Colour
+    Skinheads USA: Soldiers of the Race War
     
-    A collection of rare and unseen footage of World War II and the very latest colorization techniques come together in World War II in Colour.With satellite-delivered terrain mapping and state-of](https://documentaryheaven.com/world-war-ii-in-colour/ "World War II in Colour")
-* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
+    "This documentary takes you inside to an actual neo-Nazi Skinhead organization for a extended look at the methods and mentality that fuel the White Power youth movement in America. Focusing on the Ala](https://documentaryheaven.com/skinheads-usa-soldiers-of-the-race-war/ "Skinheads USA: Soldiers of the Race War")
+* [![B.T.K.: The Worlds Most Elusive Serial Killer](/wp-content/thumbnails/4393-100x70.jpg?x53432)
     
-    Who Gets the Best Jobs?
+    B.T.K.: The Worlds Most Elusive Serial Killer
     
-    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
-* [![Her War: Women vs ISIS](/wp-content/thumbnails/9952-100x70.jpg?x53432)
+    n 1974, the BTK serial killer terrorised the people of Kansas. Known for binding, torturing and killing men, women and children, he taunted police with his letters for 5 years before mysteriously disa](https://documentaryheaven.com/the-worlds-most-elusive-serial-killer/ "B.T.K.: The Worlds Most Elusive Serial Killer")
+* [![Before the Flood](/wp-content/thumbnails/12694-100x70.jpg?x53432)
     
-    Her War: Women vs ISIS
+    Before the Flood
     
-    ISIS is currently the most brutal terror group in modern history and they now control large portions of land in Iraq and Syria, and oversee an estimated six million people. The Islamic State have also](https://documentaryheaven.com/her-war-women-vs-isis/ "Her War: Women vs ISIS")
-* [![Losing Sleep](/wp-content/thumbnails/16507-100x70.jpg?x53432)
+    Before The Flood is a documentary brought to us by the Academy Award-winning filmmaker Fisher Stevens and the Academy Award-winning actor, and environmental activist Leonardo DiCaprio. It was filmed o](https://documentaryheaven.com/before-flood/ "Before the Flood")
+* [![Elliot Rodger: The Virgin Killer](/wp-content/thumbnails/9621-100x70.jpg?x53432)
     
-    Losing Sleep
+    Elliot Rodger: The Virgin Killer
     
-    We spend one-third of our lives sleeping and still we don't fully understand why it is we sleep. We know some of the functions that lie behind it but overall it's still very much a mystery. From the](https://documentaryheaven.com/losing-sleep/ "Losing Sleep")
-* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
+    Friday May 23rd 2014, a night of horror in the small west coast community of Isla Vista, using a knife, machetes and three semi-automatic hand guns, Eliot Rodger goes on a hate filled killin](https://documentaryheaven.com/elliot-rodger-virgin-killer/ "Elliot Rodger: The Virgin Killer")
+* [![Spell of the Albino](/wp-content/thumbnails/6256-100x70.jpg?x53432)
     
-    Twist of Faith (2004)
+    Spell of the Albino
     
-    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
+    Albinism is a non-contagious, genetically inherited disorder, affecting about 1 in 20,000 men and women around the world, regardless of ethnicity and geographical location. Sufferers are afflicted by](https://documentaryheaven.com/spell-of-the-albino/ "Spell of the Albino")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
