@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. computer science
+1. java
     
-2. harvard
+2. cyber security
     
 3. flutter
     
 
 Popular subjects
 
-1. [Artificial Intelligence
+1. [Cybersecurity
     
-    14,412 courses](https://www.classcentral.com/subject/ai)
-2. [Data Analysis
+    17,012 courses](https://www.classcentral.com/subject/cybersecurity)
+2. [Accounting
     
-    8,948 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Digital Marketing
+    1,256 courses](https://www.classcentral.com/subject/accounting)
+3. [Python
     
-    6,326 courses](https://www.classcentral.com/subject/digital-marketing)
+    10,055 courses](https://www.classcentral.com/subject/python)
 
 Popular courses
 
-1. [Nutrition and Health: Human Microbiome
+1. [Introducción a la genética y la evolución
     
-    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-9565)
-2. [Elements of AI
+    Universidad Autónoma de Madrid](https://www.classcentral.com/course/genetics-universidad-autonoma-de-madrid-introducc-8591)
+2. [Introduction to Linux
     
-    University of Helsinki](https://www.classcentral.com/course/independent-elements-of-ai-12469)
-3. [Stanford Introduction to Food and Health
+    Linux Foundation](https://www.classcentral.com/course/linux-the-linux-foundation-introduction-to-linux-1857)
+3. [End of Life Care: Challenges and Innovation
     
-    Stanford University](https://www.classcentral.com/course/food-and-health-5057)
+    University of Glasgow](https://www.classcentral.com/course/end-of-life-care-16932)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
