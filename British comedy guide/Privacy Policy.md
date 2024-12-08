@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300/g/george_and_mildred.jpg "George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/) Features
+
+[Comedy Rewind: George & Mildred - A classy sitcom all about class](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/)
+
 [![Amy Mason. Credit: Lucy Ridges](https://cdn.comedy.co.uk/images/library/people/300x200/a/amy_mason_2025.jpg "Amy Mason. Credit: Lucy Ridges")](https://www.comedy.co.uk/live/fgwg/amy-mason/) Live
 
 [First Gig, Worst Gig: Amy Mason](https://www.comedy.co.uk/live/fgwg/amy-mason/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/red_dwarf_series6.jpg "Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/) TV
 
 [Red Dwarf VI retrospective: Cowboys and Emmys](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/)
-
-[![Terry Wogan Screams](https://cdn.comedy.co.uk/images/library/misc/300x200/t/terry_wogan_screams.jpg "Terry Wogan Screams")](https://www.comedy.co.uk/live/random8/terry-wogan/) Live
-
-[Random 8: Terry Wogan](https://www.comedy.co.uk/live/random8/terry-wogan/)
 
 #### Subscribe to our newsletters
 
