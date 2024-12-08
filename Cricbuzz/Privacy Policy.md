@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[RSA vs SL - Live](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 2nd Test - Live")[WI vs BAN - Toss](https://www.cricbuzz.com/live-cricket-scores/95218/wi-vs-ban-1st-odi-bangladesh-tour-of-west-indies-2024 "West Indies v Bangladesh, 1st ODI - Toss")[IND vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-india-tour-of-australia-2024-25 "India v Australia, 2nd Test - AUS Won")[AUSW vs INDW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/92120/ausw-vs-indw-2nd-odi-icc-championship-match-india-women-tour-of-australia-2024 "Australia Women v India Women, 2nd ODI (ICC Championship Match) - AUSW Won")[RSAW vs ENGW - Complete](https://www.cricbuzz.com/live-cricket-scores/94467/rsaw-vs-engw-2nd-odi-icc-championship-match-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, 2nd ODI (ICC Championship Match) - Complete")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[BAN vs WI - Live](https://www.cricbuzz.com/live-cricket-scores/95218/ban-vs-wi-1st-odi-bangladesh-tour-of-west-indies-2024 "Bangladesh v West Indies, 1st ODI - Live")[RSA vs SL - Stumps](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 2nd Test - Stumps")[IND vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-india-tour-of-australia-2024-25 "India v Australia, 2nd Test - AUS Won")[AUSW vs INDW - AUSW Won](https://www.cricbuzz.com/live-cricket-scores/92120/ausw-vs-indw-2nd-odi-icc-championship-match-india-women-tour-of-australia-2024 "Australia Women v India Women, 2nd ODI (ICC Championship Match) - AUSW Won")[RSAW vs ENGW - ENGW Won](https://www.cricbuzz.com/live-cricket-scores/94467/rsaw-vs-engw-2nd-odi-icc-championship-match-england-women-tour-of-south-africa-2024 "South Africa Women v England Women, 2nd ODI (ICC Championship Match) - ENGW Won")
 
 AllLive NowToday
 
@@ -68,21 +68,13 @@ AllLive NowToday
     
 * South Africa v Sri Lanka, 2024
     
-    [South Africa vs Sri Lanka  LIVE](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-south-africa-v-sri-lanka-2024 "South Africa v Sri Lanka, 2nd Test - Live")
+    [South Africa vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-south-africa-v-sri-lanka-2024 "South Africa v Sri Lanka, 2nd Test - Stumps")
     
     2nd Test
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Panama vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111317/pan-vs-sn-match-2-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Suriname, Match 2 - PAN Won")
-    
-    Match 2
-    
-* [Argentina vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111309/arg-vs-ber-match-1-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Bermuda, Match 1 - Abandon")
-    
-    Match 1
-    
-* [Mexico vs Belize](https://www.cricbuzz.com/live-cricket-scores/111333/mex-vs-blz-match-4-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Belize, Match 4 - BLZ Won")
+    [Mexico vs Belize](https://www.cricbuzz.com/live-cricket-scores/111333/mex-vs-blz-match-4-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Belize, Match 4 - BLZ Won")
     
     Match 4
     
@@ -106,13 +98,13 @@ AllLive NowToday
     
     Match 7
     
-* [Bahamas vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111361/bhm-vs-arg-match-10-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Argentina, Match 10 - Upcoming")
-    
-    Match 10
-    
 * [Bermuda vs Panama](https://www.cricbuzz.com/live-cricket-scores/111357/ber-vs-pan-match-9-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Panama, Match 9 - Upcoming")
     
     Match 9
+    
+* [Bahamas vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111361/bhm-vs-arg-match-10-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Argentina, Match 10 - Upcoming")
+    
+    Match 10
     
 * [Cayman Islands vs Belize](https://www.cricbuzz.com/live-cricket-scores/111373/caym-vs-blz-match-12-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Belize, Match 12 - Upcoming")
     
@@ -122,13 +114,25 @@ AllLive NowToday
     
     Match 11
     
+* [Belize vs Bahamas](https://www.cricbuzz.com/live-cricket-scores/111389/blz-vs-bhm-match-14-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Belize v Bahamas, Match 14 - Upcoming")
+    
+    Match 14
+    
+* [Suriname vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111381/sn-vs-caym-match-13-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Cayman Islands, Match 13 - Upcoming")
+    
+    Match 13
+    
+* [Panama vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111405/pan-vs-arg-match-16-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Argentina, Match 16 - Upcoming")
+    
+    Match 16
+    
+* [Mexico vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111397/mex-vs-ber-match-15-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Bermuda, Match 15 - Upcoming")
+    
+    Match 15
+    
 * Africa Continental Cup
     
-    [Nigeria vs Uganda](https://www.cricbuzz.com/live-cricket-scores/112113/nga-vs-uga-6th-match-africa-continental-cup "Nigeria v Uganda, 6th Match - UGA Won")
-    
-    6th Match
-    
-* [Uganda vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/112117/uga-vs-rwa-7th-match-africa-continental-cup "Uganda v Rwanda, 7th Match - UGA Won")
+    [Uganda vs Rwanda](https://www.cricbuzz.com/live-cricket-scores/112117/uga-vs-rwa-7th-match-africa-continental-cup "Uganda v Rwanda, 7th Match - UGA Won")
     
     7th Match
     
@@ -140,7 +144,7 @@ AllLive NowToday
     
     9th Match
     
-* [Rwanda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112133/rwa-vs-bw-10th-match-africa-continental-cup "Rwanda v Botswana, 10th Match - Toss")
+* [Rwanda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112133/rwa-vs-bw-10th-match-africa-continental-cup "Rwanda v Botswana, 10th Match - BW Won")
     
     10th Match
     
@@ -154,9 +158,19 @@ AllLive NowToday
     
 * West Indies v Bangladesh, 2024
     
-    [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95218/wi-vs-ban-1st-odi-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 1st ODI - Toss")
+    [Bangladesh vs West Indies  LIVE](https://www.cricbuzz.com/live-cricket-scores/95218/ban-vs-wi-1st-odi-west-indies-v-bangladesh-2024 "Bangladesh v West Indies, 1st ODI - Live")
     
     1st ODI
+    
+* [West Indies vs Bangladesh](https://www.cricbuzz.com/live-cricket-scores/95223/wi-vs-ban-2nd-odi-west-indies-v-bangladesh-2024 "West Indies v Bangladesh, 2nd ODI - Upcoming")
+    
+    2nd ODI
+    
+* South Africa vs Pakistan,2024-25
+    
+    [South Africa vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/94327/rsa-vs-pak-1st-t20i-south-africa-vs-pakistan2024-25 "South Africa v Pakistan, 1st T20I - Upcoming")
+    
+    1st T20I
     
 * T20 LEAGUE
     
@@ -174,7 +188,7 @@ AllLive NowToday
     
     Pre Quarter Final 1
     
-* [Andhra vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/99061/ap-vs-up-pre-quarter-final-2-sma-trophy-2024 "Andhra v Uttar Pradesh, Pre Quarter Final 2 - Upcoming")
+* [Andhra vs Uttar Pradesh](https://www.cricbuzz.com/live-cricket-scores/99061/ap-vs-up-pre-quarter-final-2-sma-trophy-2024 "Andhra v Uttar Pradesh, Pre Quarter Final 2 - Preview")
     
     Pre Quarter Final 2
     
@@ -210,7 +224,7 @@ AllLive NowToday
     
 * ACC U19 Asia Cup, 2024
     
-    [Bangladesh U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - Complete")
+    [Bangladesh U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - BANU19 Won")
     
     Final
     
@@ -272,21 +286,17 @@ AllLive NowToday
     
 * South Africa Women v England Women, 2024
     
-    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94467/rsaw-vs-engw-2nd-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 2nd ODI (ICC Championship Match) - Complete")
+    [South Africa Women vs England Women](https://www.cricbuzz.com/live-cricket-scores/94467/rsaw-vs-engw-2nd-odi-icc-championship-match-south-africa-women-v-england-women-2024 "South Africa Women v England Women, 2nd ODI (ICC Championship Match) - ENGW Won")
     
     2nd ODI (ICC Championship Match)
     
 * Bahrain Women tour of Qatar 2024
     
-    [Bahrain Women vs Qatar Women](https://www.cricbuzz.com/live-cricket-scores/112061/bhrw-vs-qatw-3rd-match-bahrain-women-tour-of-qatar-2024 "Bahrain Women v Qatar Women, 3rd Match - BHRW Won")
-    
-    3rd Match
-    
-* [Bahrain Women vs Qatar Women](https://www.cricbuzz.com/live-cricket-scores/112069/bhrw-vs-qatw-4th-match-bahrain-women-tour-of-qatar-2024 "Bahrain Women v Qatar Women, 4th Match - QATW Won")
+    [Bahrain Women vs Qatar Women](https://www.cricbuzz.com/live-cricket-scores/112069/bhrw-vs-qatw-4th-match-bahrain-women-tour-of-qatar-2024 "Bahrain Women v Qatar Women, 4th Match - QATW Won")
     
     4th Match
     
-* [Bahrain Women vs Qatar Women](https://www.cricbuzz.com/live-cricket-scores/112073/bhrw-vs-qatw-5th-match-bahrain-women-tour-of-qatar-2024 "Bahrain Women v Qatar Women, 5th Match - Complete")
+* [Bahrain Women vs Qatar Women](https://www.cricbuzz.com/live-cricket-scores/112073/bhrw-vs-qatw-5th-match-bahrain-women-tour-of-qatar-2024 "Bahrain Women v Qatar Women, 5th Match - QATW Won")
     
     5th Match
     
@@ -597,41 +607,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132696/ben-sawyer-signs-two-year-extension-as-nz-womens-coach "Ben Sawyer signs two-year extension as NZ Women's coach")
+
+[Ben Sawyer signs two-year extension as NZ Women's coach](https://www.cricbuzz.com/cricket-news/132696/ben-sawyer-signs-two-year-extension-as-nz-womens-coach "Ben Sawyer signs two-year extension as NZ Women's coach")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132695/south-africa-go-searching-but-still-favoured-to-beat-sri-lanka "South Africa "go searching", but still favoured to beat Sri Lanka")
+
+[South Africa "go searching", but still favoured to beat Sri Lanka](https://www.cricbuzz.com/cricket-news/132695/south-africa-go-searching-but-still-favoured-to-beat-sri-lanka "South Africa "go searching", but still favoured to beat Sri Lanka")
+
+2h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132694/sa-chip-away-but-sl-still-alive-in-tall-chase " SA chip away but SL still alive in tall chase")
+
+[SA chip away but SL still alive in tall chase](https://www.cricbuzz.com/cricket-news/132694/sa-chip-away-but-sl-still-alive-in-tall-chase " SA chip away but SL still alive in tall chase")
+
+2h ago
+
   [](https://www.cricbuzz.com/cricket-news/132693/wouldnt-know-how-to-bowl-set-fields-to-him-as-captain-cummins-on-head "Wouldn't know how to bowl, set fields to him as captain: Cummins on Head")
 
 [Wouldn't know how to bowl, set fields to him as captain: Cummins on Head](https://www.cricbuzz.com/cricket-news/132693/wouldnt-know-how-to-bowl-set-fields-to-him-as-captain-cummins-on-head "Wouldn't know how to bowl, set fields to him as captain: Cummins on Head")
 
-1m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132692/sri-lanka-lose-openers-in-tall-chase "Sri Lanka lose openers in tall chase")
 
 [Sri Lanka lose openers in tall chase](https://www.cricbuzz.com/cricket-news/132692/sri-lanka-lose-openers-in-tall-chase "Sri Lanka lose openers in tall chase")
 
-13m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132691/questions-aplenty-for-captain-rohit-after-unpleasant-comeback "Questions aplenty for Captain Rohit after India's stumble in Adelaide")
 
 [Questions aplenty for Captain Rohit after India's stumble in Adelaide](https://www.cricbuzz.com/cricket-news/132691/questions-aplenty-for-captain-rohit-after-unpleasant-comeback "Questions aplenty for Captain Rohit after India's stumble in Adelaide")
 
-46m ago
-
-  [](https://www.cricbuzz.com/cricket-news/132690/ben-stokes-credits-opening-day-turnaround-for-massive-win "Stokes credits opening day turnaround for massive win")
-
-[Stokes credits opening day turnaround for massive win](https://www.cricbuzz.com/cricket-news/132690/ben-stokes-credits-opening-day-turnaround-for-massive-win "Stokes credits opening day turnaround for massive win")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132689/jayasuriya-strikes-but-sa-drag-lead-past-300 "Jayasuriya strikes but SA drag lead past 300")
-
-[Jayasuriya strikes but SA drag lead past 300](https://www.cricbuzz.com/cricket-news/132689/jayasuriya-strikes-but-sa-drag-lead-past-300 "Jayasuriya strikes but SA drag lead past 300")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132688/mohsin-naqvi-silent-on-pakistans-demand-for-a-tri-series-as-ct25-impasse-continues "Naqvi silent on Pakistan's demand for a tri-series as CT25 impasse continues")
-
-[Naqvi silent on Pakistan's demand for a tri-series as CT25 impasse continues](https://www.cricbuzz.com/cricket-news/132688/mohsin-naqvi-silent-on-pakistans-demand-for-a-tri-series-as-ct25-impasse-continues "Naqvi silent on Pakistan's demand for a tri-series as CT25 impasse continues")
-
-4h ago
+6h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
