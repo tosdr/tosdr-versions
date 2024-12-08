@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/opzienbarende-nieuwe-ontwikkeling-vrije-energie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
