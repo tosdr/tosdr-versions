@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+    
+    ### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+    
+    [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+    
+    ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+    
     [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
     ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
@@ -47,14 +55,6 @@
     [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
     
     ### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-    
-    [![Dulwich College Kindergarten and Infants school's (DUCKS) performed at Hays Galleria on Wednesday, December 4](https://southwarknews.co.uk/wp-content/uploads/2024/12/25c6dc7b-7ce4-45ff-be99-f2eab94b6f57-e1733499649113-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/dulwich-schoolchildren-sing-christmas-carols-in-aid-of-reading-charity-for-adults/)
-    
-    ### [Dulwich schoolchildren sing Christmas carols in aid of reading charity for adults](https://southwarknews.co.uk/area/south-bank/dulwich-schoolchildren-sing-christmas-carols-in-aid-of-reading-charity-for-adults/)
-    
-    [![Gary Edwards, London Ambulance Service paramedic who was among first on the scene in the London Bridge Attack in 2017](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screengrab-1-CTM-Gary-360x180.jpg)](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-    
-    ### [Paramedic first on scene in London Bridge terror attack recounts treating victims as gunshots fired around him](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+    
+    ### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+    
+    [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+    
+    ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+    
     [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
     ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
@@ -132,14 +140,6 @@ View All Result
     [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-360x180.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
     
     ### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-    
-    [![Dulwich College Kindergarten and Infants school's (DUCKS) performed at Hays Galleria on Wednesday, December 4](https://southwarknews.co.uk/wp-content/uploads/2024/12/25c6dc7b-7ce4-45ff-be99-f2eab94b6f57-e1733499649113-360x180.jpeg)](https://southwarknews.co.uk/area/south-bank/dulwich-schoolchildren-sing-christmas-carols-in-aid-of-reading-charity-for-adults/)
-    
-    ### [Dulwich schoolchildren sing Christmas carols in aid of reading charity for adults](https://southwarknews.co.uk/area/south-bank/dulwich-schoolchildren-sing-christmas-carols-in-aid-of-reading-charity-for-adults/)
-    
-    [![Gary Edwards, London Ambulance Service paramedic who was among first on the scene in the London Bridge Attack in 2017](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screengrab-1-CTM-Gary-360x180.jpg)](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-    
-    ### [Paramedic first on scene in London Bridge terror attack recounts treating victims as gunshots fired around him](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -213,17 +213,17 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [30th November 2024](https://southwarknews.co.uk/area/bermondsey/southwarks-largest-employer-of-jobless-says-he-is-being-forced-to-leave-borough-over-parked-car-blocking-fire-exit/)
 
-[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
 [![Greenland Quay, Surrey Quays. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Greenland-Quay-Surrey-Quays.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 ### [Man charged with murder after woman fatally stabbed in Surrey Quays](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
 
 [2nd December 2024](https://southwarknews.co.uk/area/rotherhithe/man-charged-with-murder-after-woman-fatally-stabbed-in-surrey-quays/)
+
+[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
+
+### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
+
+[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
 [![Anthony Allegre hopes his story will inspire others](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_1696-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/teenage-entrepreneur-from-dulwich-hopes-business-success-will-motivate-schoolchildren-uninspired-by-the-education-system/)
 
@@ -238,6 +238,24 @@ This site uses cookies – small text files that are placed on your machine to h
 [2nd December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-boss-tanganga-suspension-injuries-opens-door-for-others-against-coventry-city/)
 
 ### Featured Articles
+
+[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/BUSTERS-HAMBURGERS_Matt-Harris-Tommy-Kempton-L-R_NOV24-copy-120x86.jpeg)](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
+
+### [New food and drink openings in south London](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
+
+[8th December 2024](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
+
+[![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+
+### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+
+[8th December 2024](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
+
+[![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+
+### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+
+[8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 [![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-120x86.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
 
@@ -256,24 +274,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [City Hall insists on tighter controls for e-bikes and batteries two years after Bermondsey fire killed young woman](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
 
 [7th December 2024](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
-
-[![Gary Edwards, London Ambulance Service paramedic who was among first on the scene in the London Bridge Attack in 2017](https://southwarknews.co.uk/wp-content/uploads/2024/12/Screengrab-1-CTM-Gary-120x86.jpg)](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-
-### [Paramedic first on scene in London Bridge terror attack recounts treating victims as gunshots fired around him](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-
-[7th December 2024](https://southwarknews.co.uk/area/borough/paramedic-first-on-scene-in-london-bridge-terror-attack-recounts-treating-victims-as-gunshots-fired-around-him/)
-
-[![Emergency services attended the incident on Rye Lane, Peckham. Image: Google Maps](https://southwarknews.co.uk/wp-content/uploads/2024/09/Emergency-services-attended-the-incident-on-Rye-Lane-Peckham.-Image-Google-Maps-120x86.png)](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-
-### [Man stabbed on Rye Lane in Peckham](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-
-[6th December 2024](https://southwarknews.co.uk/area/peckham/man-stabbed-on-rye-lane-in-peckham/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/UberBoat-ThamesClipper-Shipyard-1.-Sean-Collins-and-Geoff-Symonds-min-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-
-### [UK’s first fully electric cross-river passenger ferry ‘Orbit Clipper’ to launch from Rotherhithe next year](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
-
-[6th December 2024](https://southwarknews.co.uk/area/rotherhithe/uks-first-fully-electric-cross-river-passenger-ferry-orbit-clipper-to-launch-from-rotherhithe-next-year/)
 
 ### USEFUL PAGES
 
