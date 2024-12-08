@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_360x203.jpg)](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
+        
+        #### [Hancock County reserve deputy dismissed after allegedly conducting unauthorized traffic stop](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
+        
     *  [![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_360x203.jpg)](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
         
         #### [Galesburg home invasion leads to firearms, cash, and family dog stolen](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2/20241207T043915/149c1e54-9c51-4a76-9f6c-4a5278cc6ec2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
-        
-        #### [Business owners in Davenport sound off about hotel proposal](https://www.wqad.com/article/news/local/davenport-business-owners-react-riverwatch-hotel-plan/526-c22bd7e1-a347-47df-9112-bc8d5c0da0bc)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/0141d79d-8d64-4d86-8808-3b80719efb0b/20241207T125128/0141d79d-8d64-4d86-8808-3b80719efb0b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/0141d79d-8d64-4d86-8808-3b80719efb0b/20241207T125128/0141d79d-8d64-4d86-8808-3b80719efb0b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9d86a16d-edc6-4682-943e-afea22c7e2e4/20241207T235136/9d86a16d-edc6-4682-943e-afea22c7e2e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9d86a16d-edc6-4682-943e-afea22c7e2e4/20241207T235136/9d86a16d-edc6-4682-943e-afea22c7e2e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Warm up through the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Unseasonable Warmth to Continue](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
         
@@ -74,13 +74,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.tegna-media.com/assets/WOI/images/f3172acd-f3da-462f-8626-48fdbc9aa908/20240904T004856/f3172acd-f3da-462f-8626-48fdbc9aa908_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/f3172acd-f3da-462f-8626-48fdbc9aa908/20240904T004856/f3172acd-f3da-462f-8626-48fdbc9aa908_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-qb-cade-mcnamara-transfer-portal-hawkeyes/524-defe3d18-5d06-4b1b-93b5-bf773e664970)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e5de6744-9f1a-4d76-9794-a6eae78eefe8/20240906T144305/e5de6744-9f1a-4d76-9794-a6eae78eefe8_360x203.jpg)](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
-        #### [Iowa, former Michigan QB Cade McNamara to enter transfer portal](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-qb-cade-mcnamara-transfer-portal-hawkeyes/524-defe3d18-5d06-4b1b-93b5-bf773e664970)
+        #### [Vote for this week's Midwest Technical Institute Score Standout | Week 15](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d0a9e00d-bf33-451d-92b6-1a34013eef0f/20241022T200255/d0a9e00d-bf33-451d-92b6-1a34013eef0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d0a9e00d-bf33-451d-92b6-1a34013eef0f/20241022T200255/d0a9e00d-bf33-451d-92b6-1a34013eef0f_360x203.jpg)](https://www.wqad.com/article/sports/college/illini/national-signing-day-illinois-football-bret-bielema/526-02f87c48-2e3f-4707-8667-e740608cac2c)
+    *  [![](https://media.tegna-media.com/assets/WZZM/images/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6/20241206T104615/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6_16x9.jpg) ![](https://media.tegna-media.com/assets/WZZM/images/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6/20241206T104615/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6_360x203.jpg)](https://www.wqad.com/article/sports/nfl/lions-packers-playoffs-win/69-f8ef8e25-f0b2-468c-88a2-87aad69d14cd)
         
-        #### [National Signing Day, Illinois Football Recruiting: The Secret Behind Bret Bielema's Success](https://www.wqad.com/article/sports/college/illini/national-signing-day-illinois-football-bret-bielema/526-02f87c48-2e3f-4707-8667-e740608cac2c)
+        #### [Lions clinch playoffs after defeating Packers 34-31](https://www.wqad.com/article/sports/nfl/lions-packers-playoffs-win/69-f8ef8e25-f0b2-468c-88a2-87aad69d14cd)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-53°
+46°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
