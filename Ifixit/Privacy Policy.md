@@ -581,10 +581,10 @@ If you have any questions about this Privacy Policy, please [contact us](https:/
 
 Past 24 Hours: 28
 
-Past 7 Days: 262
+Past 7 Days: 273
 
-Past 30 Days: 1,379
+Past 30 Days: 1,390
 
-All Time: 84,898
+All Time: 84,909
 
 ![](https://ping.ifixit.com/pp/tick.gif?key=ifixit%2Finfo%2F263%2Fen)
