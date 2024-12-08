@@ -72,9 +72,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/handwriting-toy-giveaway.jpg)](https://www.theottoolbox.com/motivating-handwriting-activities-for/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/scissor-skills-toy-giveaway.png)](https://www.theottoolbox.com/toys-to-help-with-scissors-skills-gift/)
                 
-                #### [Writing Activities for Reluctant Writers](https://www.theottoolbox.com/motivating-handwriting-activities-for/)
+                #### [Toys to Improve Scissors Skills](https://www.theottoolbox.com/toys-to-help-with-scissors-skills-gift/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
