@@ -18,7 +18,7 @@ Pour nous contacter : [cliquez ici](javascript:_JSU(_PAGE_,'../support/'+'index
 
 Le contact téléphonique est réservé aux utilisateurs disposant d’une licence en cours de validité, exclusivement en français, et doit être utilisé uniquement en cas de nécessité. Pour un traitement plus rapide et détaillé, nous vous invitons à privilégier le support par email. France : 04 81 16 11 87, international : +33 4 81 16 11 87.
 
-Pour plus d’informations, cliquez, [cliquez ici](javascript:clWDUtil.pfGetTraitement('A26',0,void 0)();) .  
+Pour plus d’informations, [cliquez ici](javascript:clWDUtil.pfGetTraitement('A26',0,void 0)();) .  
 
   
 Siret : 47 750 065 600 038 - Code APE/NAF :5829C [Vérification ici](javascript:clWDUtil.pfGetTraitement('A15',0,void 0)();)
