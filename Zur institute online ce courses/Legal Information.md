@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Audits and Record Requests / A Live 2 CE credit hours webinarMore Info](https://www.zurinstitute.com/webinars/audits-and-record-requests-therapist-should-know/)
+[Navigating Moral Distress for Healthcare Workers / Each session 1 Live CE credit hour webinarMore Info](https://www.zurinstitute.com/webinars/navigating-moral-distress-healthcare-workers/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
