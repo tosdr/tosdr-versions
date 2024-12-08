@@ -91,7 +91,7 @@ Menutoggle menu
         * [Miami](https://www.atlantafed.org/rein/miami)
         * [Nashville](https://www.atlantafed.org/rein/nashville)
         * [New Orleans](https://www.atlantafed.org/rein/new-orleans)
-    * [Surveys](https://www.atlantafed.org/research/surveys)
+    * [Surveys](https://www.atlantafed.org/banking-and-payments/consumer-payments/survey-of-consumer-payment-choice/2008-survey)
         * [About Us](https://www.atlantafed.org/research/surveys/about-us)
         * [Outreach Lab](https://www.atlantafed.org/research/surveys/outreach-lab)
         * [Publications & Resources](https://www.atlantafed.org/research/surveys/publications-and-research)
