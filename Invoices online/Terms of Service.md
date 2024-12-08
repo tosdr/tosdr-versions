@@ -196,61 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
-> ------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks Adriaan...
-> 
-> You guys even work on Sundays?
-> 
-> I’m impressed!!
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Johan Botha - Brand Xplosion
+Anri van der Linde
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=75116095)  
-Electro-Heat
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=202954083)  
-KTEN PARTS
-
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=162116228)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=205535249)  
-Baby Toddles Infant Care
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=117910943)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=149185759)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=48542936)  
-Fox Alarms & Security
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=26087856)  
-Itroniq (Pty) Ltd
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=95965127)  
-Goju-Ryu Pretoria East
-
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=198547203)  
-NWET Pty LTD
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=203543076)  
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=205732508)  
 Cape Adventure Zone
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=83946966)  
-CGHK Enterprises (PTY) LTD
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=93019106)  
+J.M. HUMAN RESOURCES
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=161596951)  
-Peter Salvage Pty Ltd
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=68726509)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
 
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=183147658)  
-Know Informatics
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=51224321)  
+BD Maintenance
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=bed894607677b87835d62a03dd0958b2d0e150f51d925bdfffb3d8e0c0c73910&c=114456758)  
-Import Maaw
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=106977691)  
+Tiny Cuddles Photography
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=134250693)  
+Lemba Truck Stop
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=104680592)  
+Imhoff Equestrian Centre
+
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=89111262)  
+AFS Electrical
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=37564076)  
+Baby Toddles Infant Care
+
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=209510690)  
+OPTIMUS ELECTRICAL PTY (LTD)
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=72055605)  
+Multi CNC Solutions CC
+
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=125913479)  
+VS Auto Spares and Repairs (Pty) LTD
+
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=206306169)  
+SA Security Brokerz (Pty) Ltd
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=79611780)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=51067990)  
+Wiselink Broadband Dundee
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
