@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Oh, so they have no farking clue who it is, then](https://www.fark.com/goto/13487214) ( [yahoo.com](https://www.fark.com/goto/13487214) ) » [(26 comments)](https://www.fark.com/comments/13487214/Oh-so-they-have-no-farking-clue-who-it-is-then) |
-| [Discussion](https://www.fark.com/discussion/) | [Can Trick retain his NXT title vs Ridge? What about Fraxiom vs Miles & Tavion for the tag titles? Lola or Jaida in a NXT Underground match? Who will win the Men's & Women's Iron Survivor matches? It's NXT Deadline starting at 7 PM ET on Peacock](https://www.fark.com/goto/13487090) ( [wwe.com](https://www.fark.com/goto/13487090) ) » [(66 comments)](https://www.fark.com/comments/13487090/Can-Trick-retain-his-NXT-title-vs-Ridge-What-about-Fraxiom-vs-Miles-Tavion-for-tag-titles-Lola-Jaida-in-a-NXT-Underground-match-Who-will-win-Mens-Womens-Iron-Survivor-matches-Its-NXT-Deadline-starting-at-7-PM-ET-on-Peacock) |
-| [Sports](https://www.fark.com/sports/) | [Gout usually prevents running fast](https://www.fark.com/goto/13487316) ( [cnn.com](https://www.fark.com/goto/13487316) ) » [(0 comments)](https://www.fark.com/comments/13487316/Gout-usually-prevents-running-fast) |
-| [Business](https://www.fark.com/business/) | [Nobody goes to NYC anymore, it's too expensive](https://www.fark.com/goto/13487118) ( [yahoo.com](https://www.fark.com/goto/13487118) ) » [(2 comments)](https://www.fark.com/comments/13487118/Nobody-goes-to-NYC-anymore-its-too-expensive) |
-| [STEM](https://www.fark.com/stem/) | [Dogs living in the Chernobyl Exclusion Zone are evolving at unprecedented speed, swinging from webs, screaming ROVER SMASH](https://www.fark.com/goto/13487322) ( [dailygalaxy.com](https://www.fark.com/goto/13487322) ) » [(3 comments)](https://www.fark.com/comments/13487322/Dogs-living-in-Chernobyl-Exclusion-Zone-are-evolving-at-unprecedented-speed-swinging-from-webs-screaming-ROVER-SMASH) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Steve Mensch - President of Tyler Perry Studios - killed in a plane crash. He was a good guy and a man of integrity. If only there was a word in Yiddish I could use to properly describe him](https://www.fark.com/goto/13487134) ( [deadline.com](https://www.fark.com/goto/13487134) ) » [(8 comments)](https://www.fark.com/comments/13487134/Steve-Mensch-President-of-Tyler-Perry-Studios-killed-in-a-plane-crash-He-was-a-good-guy-a-man-of-integrity-If-only-there-was-a-word-in-Yiddish-I-could-use-to-properly-describe-him) |
-| [Fandom](https://www.fark.com/fandom/) | [Where do you go after Cowboy Bebop?](https://www.fark.com/goto/13487200) ( [gizmodo.com](https://www.fark.com/goto/13487200) ) » [(2 comments)](https://www.fark.com/comments/13487200/Where-do-you-go-after-Cowboy-Bebop) |
-| [D'awww](https://www.fark.com/dawww/) | [Bees aren't the only cute pollinators out there](https://www.fark.com/goto/13487062) ( [kenw.org](https://www.fark.com/goto/13487062) ) » [(3 comments)](https://www.fark.com/comments/13487062/Bees-arent-only-cute-pollinators-out-there) |
-| [Food](https://www.fark.com/food/) | [Turns out your grandparents had the right idea eating dinner at four in the afternoon](https://www.fark.com/goto/13486858) ( [businessinsider.in](https://www.fark.com/goto/13486858) ) » [(38 comments)](https://www.fark.com/comments/13486858/Turns-out-your-grandparents-had-right-idea-eating-dinner-at-four-in-afternoon) |
-| [Politics](https://www.fark.com/politics/) | [Anonymous "Trump Aides" suggest that Sen. Jodi Ernst, a combat veteran and sexual assault survivor, is only opposing the nomination of Pete Hegseth, who wants to ban women from combat and is accused of sexual assault, because SHE wants the job](https://www.fark.com/goto/13487104) ( [msn.com](https://www.fark.com/goto/13487104) ) » [(14 comments)](https://www.fark.com/comments/13487104/Anonymous-Trump-Aides-suggest-that-Sen-Jodi-Ernst-a-combat-veteran-sexual-assault-survivor-is-only-opposing-nomination-of-Pete-Hegseth-who-wants-to-ban-women-from-combat-is-accused-of-sexual-assault-because-SHE-wants-job) |
+| [Main](https://www.fark.com/) | [Cats use their tails to communicate a wide array of emotions including indifference, disdain, indifference, apathy, indifference and the cold loathing that comes from having never, ever been fed](https://www.fark.com/goto/13487234) ( [livescience.com](https://www.fark.com/goto/13487234) ) » [(14 comments)](https://www.fark.com/comments/13487234/Cats-use-their-tails-to-communicate-a-wide-array-of-emotions-including-indifference-disdain-indifference-apathy-indifference-the-cold-loathing-that-comes-from-having-never-ever-been-fed) |
+| [Discussion](https://www.fark.com/discussion/) | [Will there be a Gladiator parody? Will Update treat us to some great material on the insurance company CEO? Will anyone confuse the host with Pedro Pascal? Paul Mescal hosts, Shaboozey is the musical guest. SNL, 11:30PM ET on NBC](https://www.fark.com/goto/13486706) ( [deadline.com](https://www.fark.com/goto/13486706) ) » [(138 comments)](https://www.fark.com/comments/13486706/Will-there-be-a-Gladiator-parody-Will-Update-treat-us-to-some-great-material-on-insurance-company-CEO-Will-anyone-confuse-host-with-Pedro-Pascal-Paul-Mescal-hosts-Shaboozey-is-musical-guest-SNL-1130PM-ET-on-NBC) |
+| [Sports](https://www.fark.com/sports/) | [While the Texas-Georgia game has been hyped as a heart stopping matchup, this concession will certainly do the job](https://www.fark.com/goto/13487240) ( [wfaa.com](https://www.fark.com/goto/13487240) ) » [(4 comments)](https://www.fark.com/comments/13487240/While-Texas-Georgia-game-has-been-hyped-as-a-heart-stopping-matchup-this-concession-will-certainly-do-job) |
+| [Business](https://www.fark.com/business/) | [Famous billionaire sold 91% of his stake in Palantir Technologies, a leading AI company, and is instead putting it into Chipotle Mexican Grill. That's at least six Mexican bowls, he must be really hungry](https://www.fark.com/goto/13487290) ( [fool.com](https://www.fark.com/goto/13487290) ) » [(1 comment)](https://www.fark.com/comments/13487290/Famous-billionaire-sold-91-of-his-stake-in-Palantir-Technologies-a-leading-AI-company-is-instead-putting-it-into-Chipotle-Mexican-Grill-Thats-at-least-six-Mexican-bowls-he-must-be-really-hungry) |
+| [STEM](https://www.fark.com/stem/) | [Yo dawg, we heard you like fans, so we put a fan inside your fan so you can cool your cooler](https://www.fark.com/goto/13487288) ( [tomshardware.com](https://www.fark.com/goto/13487288) ) » [(4 comments)](https://www.fark.com/comments/13487288/Yo-dawg-we-heard-you-like-fans-so-we-put-a-fan-inside-your-fan-so-you-can-cool-your-cooler) |
+| [Entertainment](https://www.fark.com/entertainment/) | [It started with an anime](https://www.fark.com/goto/13487168) ( [gizmodo.com](https://www.fark.com/goto/13487168) ) » [(1 comment)](https://www.fark.com/comments/13487168/It-started-with-an-anime) |
+| [Fandom](https://www.fark.com/fandom/) | [Where do you go after Cowboy Bebop?](https://www.fark.com/goto/13487200) ( [gizmodo.com](https://www.fark.com/goto/13487200) ) » [(11 comments)](https://www.fark.com/comments/13487200/Where-do-you-go-after-Cowboy-Bebop) |
+| [D'awww](https://www.fark.com/dawww/) | [Here comes Mickey Moosentail, moosin' down the moosin' trail. Clippety cloppety, moosin' all the way](https://www.fark.com/goto/13487202) ( [wmtw.com](https://www.fark.com/goto/13487202) ) » [(1 comment)](https://www.fark.com/comments/13487202/Here-comes-Mickey-Moosentail-moosin-down-moosin-trail-Clippety-cloppety-moosin-all-way) |
+| [Food](https://www.fark.com/food/) | [He is risen](https://www.fark.com/goto/13487372) ( [msn.com](https://www.fark.com/goto/13487372) ) » [(14 comments)](https://www.fark.com/comments/13487372/He-is-risen) |
+| [Politics](https://www.fark.com/politics/) | [I hate Mar-a-lago Nazis](https://www.fark.com/goto/13487358) ( [rawstory.com](https://www.fark.com/goto/13487358) ) » [(16 comments)](https://www.fark.com/comments/13487358/I-hate-Mar-a-lago-Nazis) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 07 2024 20:42:25  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 08 2024 02:43:15  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
