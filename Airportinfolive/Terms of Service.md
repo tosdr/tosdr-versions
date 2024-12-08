@@ -1,7 +1,7 @@
 [](https://airportinfo.live/)
 
 Uhrzeit:  
-Sat 12/07/2024
+Sun 12/08/2024
 
   ![](/images/search.svg)
 
