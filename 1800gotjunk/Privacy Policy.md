@@ -597,14 +597,6 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Very fast and friendly
-
-D FM Calgary 30/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 John and his team did an amazing job! Well done!!
 
 Chioma Aboaja Calgary 30/11/2024
@@ -621,6 +613,22 @@ Nicole Calgary 30/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Very fast and friendly
+
+D FM Calgary 30/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
+
+Hailey Lynn Calgary 29/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Great service
 
 Ivana Creates Calgary 29/11/2024
@@ -632,14 +640,6 @@ Ivana Creates Calgary 29/11/2024
 Great service, thanks
 
 alanna dehaan Calgary 29/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Charles and trey were amazing always taking garbage i need great service thank you definitely will use again.
-
-Hailey Lynn Calgary 29/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -709,14 +709,6 @@ Michael Mraz Calgary 26/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great job and super timing! Awesome service and very efficient! Well done!!
-
-Greg Calgary 25/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Super awesome people, who make quick work of the worst renovation messes. Highly recommend, and will definitely use again for future needs.
 
 Tara Ryan Calgary 25/11/2024
@@ -728,6 +720,14 @@ Tara Ryan Calgary 25/11/2024
 Excellent service, they arrived at the agreed time and took the couch.
 
 Rayane Mira Calgary 25/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great job and super timing! Awesome service and very efficient! Well done!!
+
+Greg Calgary 25/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
