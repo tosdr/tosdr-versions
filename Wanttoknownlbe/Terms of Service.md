@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/jeroen-van-koningsbrugge-911-is-inside-job/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kijken-more-than-a-pipeline/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
