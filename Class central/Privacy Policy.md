@@ -412,9 +412,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. excel
+1. computer science
     
-2. data science
+2. harvard
     
 3. flutter
     
