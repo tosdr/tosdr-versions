@@ -137,6 +137,7 @@ MSX Music player
 
 Latest reactions
 
+* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
@@ -146,13 +147,14 @@ Latest reactions
 * [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 * [Hegega booth](https://www.msx.org/photoshoots/hegega-booth "Hegega booth")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
-* [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 
 Latest forum posts
 
-* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
-* [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
+* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing?page=1 "Gemini Wing")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
+* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
+* [The Goonies (enhanced)](https://www.msx.org/forum/msx-talk/development/the-goonies-enhanced "The Goonies (enhanced)")
+* [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=11 "Christmas Quiz 2024")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [MO5.com is making a MSX game](https://www.msx.org/forum/msx-talk/development/mo5com-is-making-a-msx-game?page=1 "MO5.com is making a MSX game")
@@ -161,13 +163,12 @@ Latest forum posts
 * [Yamaha YRM-103 compatibility](https://www.msx.org/forum/msx-talk/software/yamaha-yrm-103-compatibility "Yamaha YRM-103 compatibility")
 * [Three custom levels to Kings Valley 1 Plus](https://www.msx.org/forum/msx-talk/software/three-custom-levels-to-kings-valley-1-plus?page=1 "Three custom levels to Kings Valley 1 Plus")
 * [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
-* [how to add pictures](https://www.msx.org/forum/msx-talk/general-discussion/how-add-pictures "how to add pictures")
-* [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing "Gemini Wing")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
 News headlines
 
+* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [63rd Barcelona MSX users meeting](https://www.msx.org/news/events/en/63rd-barcelona-msx-users-meeting "63rd Barcelona MSX users meeting")
@@ -180,7 +181,6 @@ News headlines
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [MinQ:ExtrA by NukegaraDHP released](https://www.msx.org/news/software/en/minqextra-by-nukegaradhp-released "MinQ:ExtrA by NukegaraDHP released")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
-* [MSXdev24 #12 Pyjamarama](https://www.msx.org/news/challenges/en/msxdev24-12-pyjamarama "MSXdev24 #12 Pyjamarama")
 
 [](https://www.msx.org/archive/)[More news articles](https://www.msx.org/archive/)
 
