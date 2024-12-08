@@ -14,11 +14,8 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [79k+ Downloads](https://foresight.is/users/)
-* [Updates 1](#)
-    
-    * [Changelog](https://foresight.is/changelog/)
-    * [Venture Studio Model Update](https://foresight.is/changelog/#2024-11-22-venture-studio-edit)
-    
+* [Blog](https://foresight.is/blog/)
+* [Changelog](https://foresight.is/changelog/)
 * [Docs](https://foresight.is/docs/)
 
 Login
