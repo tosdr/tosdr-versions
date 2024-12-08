@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=205732508)  
-Cape Adventure Zone
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=117954939)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=93019106)  
-J.M. HUMAN RESOURCES
+![valued client Hydroworld PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=141431977)  
+Hydroworld PTY LTD
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=68726509)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=141361418)  
+Cooper Power
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=51224321)  
-BD Maintenance
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=197197505)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=106977691)  
-Tiny Cuddles Photography
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=60179985)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=134250693)  
-Lemba Truck Stop
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=61223502)  
+Sophia's Roses
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=104680592)  
-Imhoff Equestrian Centre
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=184538267)  
+M's Frozen Delights
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=89111262)  
-AFS Electrical
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=172645613)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=37564076)  
-Baby Toddles Infant Care
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=203091293)  
+IYD
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=209510690)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=22045399)  
+Leef in Afrikaans
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=72055605)  
-Multi CNC Solutions CC
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=36425663)  
+Konsortium Operations (PTY) LTD
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=125913479)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=91299907)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=206306169)  
-SA Security Brokerz (Pty) Ltd
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=6292900)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=79611780)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=165638061)  
+Electro-Heat
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=6f47653827f914d27e210374435db45163382a45be4d087d5eea855fc4f95957&c=51067990)  
-Wiselink Broadband Dundee
+![valued client Atalie Scented Candles Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7239&file=logo_300_100&type=&fe=55058d16f0da2c6284a9e2320ac6fde7e8d8b6b442e92b075a60727a7cadacf1&c=130996008)  
+Atalie Scented Candles Pty Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
