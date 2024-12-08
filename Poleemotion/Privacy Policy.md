@@ -84,15 +84,9 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[![image Rendez-vous dès lundi dans votre nouvelle salle !](/storage/highlights/62956/highlight.webp?v=727000)
+[](https://app.pole-emotion.ch/evjf)
 
-##### Rendez-vous dès lundi dans votre nouvelle salle !
-
-dim. 8 décembre 2024 - **05:00** à Gland
-
-et voilà, on se réjouit 🍀🍀](https://app.pole-emotion.ch/cours/62956)[](https://app.pole-emotion.ch/evjf)
-
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=727898)](https://app.pole-emotion.ch/evjf)
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=453934)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
