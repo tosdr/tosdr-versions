@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
 
 ### Potter History
 
-April 22, 2007 – The first trailer for Harry Potter and the Order of the Phoenix premieres for international movie audiences.
+October 3, 2007 – Harry Potter and the Order of the Phoenix becomes the #6 highest grossing film of all time, pulling in $933.9 million worldwide.
 
 ### Potter Quote
 
-“What are Fred and I, next-door neighbors?”
+“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
 
 [](#)
 
