@@ -196,59 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
+> Wish I started ages ago!
 > ------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> I have upgraded to the Gold account in order to support you guys!
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Shaun Gartshore
+Terri Winfield
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=85295928)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=61455071)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=103635553)  
-MSPCloud (Pty) Ltd
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=63666425)  
+van Schaik rentals
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=99123256)  
-Xpress Designs
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=81483658)  
+Sonic Electrical Services PTY Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=63070404)  
-West Coast Horse Trails
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=159897304)  
+Cooper Power
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=127502296)  
-Lily Fern & Co
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=93012878)  
+WIP Digital Solutions
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=46501846)  
-Nogana Events and Decor
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=38558737)  
+TurboFibre
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=68172269)  
-Goju Ryu Karate Centre
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=192644995)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=99185655)  
-Chiron Medical Solutions
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=112061684)  
+AquariumSmiths
 
-![valued client Mmakoma projects ](https://www.invoicesonline.co.za/scripts/image.php?bid=5917&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=63889005)  
-Mmakoma projects
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=156152082)  
+TIGERDSL
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=147929427)  
-NWET Pty LTD
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=62645942)  
+Skinz Printing & Branding
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=116044996)  
-MONSTER CONNECT (PTY) LTD
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=122196520)  
+Blue Sky Solar Services
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=155355295)  
-KTEN PARTS
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=203251052)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=158279793)  
-Westside Car Audio CC
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=5047767)  
+Leef in Afrikaans
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=60626967)  
-Creative Characters
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=105426011)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=5d99a42290e9ea227e7df89261516a4b8132093d5423b7410807b100da87c0f8&c=109113400)  
-Tracknetics
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=0825dc216ce24e1caf6cd9963ad2918126794542e0d32a6741668e5c746fd013&c=3489417)  
+NIMAWELL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
