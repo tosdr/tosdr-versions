@@ -613,9 +613,7 @@ Your cart is empty
 * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=main_menu&utm_campaign=cloud_storage)
 * [Deals arrow bottom](https://www.lorex.com/pages/promotions)
     
-    [Cyber Week - The Deals Continue!](https://www.lorex.com/pages/promotions)
-    
-    [Ending Soon! Cyber Week Cloud Storage Deals](https://www.lorex.com/collections/cloud-storage-cameras)
+    [Holiday Sale](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
