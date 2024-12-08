@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a66b83c4-fcad-41bb-8bed-65ea925c55fc/20241208T013255/a66b83c4-fcad-41bb-8bed-65ea925c55fc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a66b83c4-fcad-41bb-8bed-65ea925c55fc/20241208T013255/a66b83c4-fcad-41bb-8bed-65ea925c55fc_360x203.jpg)](https://www.king5.com/article/news/local/seattle/advocates-rally-seattle-victim-services-funding-amid-federal-cuts/281-63ba368b-79dc-422d-9b4e-9c6cecd4c59c)
+        
+        #### [Advocates rally in Seattle for victim services funding amid federal cuts](https://www.king5.com/article/news/local/seattle/advocates-rally-seattle-victim-services-funding-amid-federal-cuts/281-63ba368b-79dc-422d-9b4e-9c6cecd4c59c)
+        
     *  [![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_16x9.jpg) ![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_360x203.jpg)](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
         
         #### [This is why flags will be flown at half-staff in Washington on Saturday](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
-        
-    *  [![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0da2f25f-2461-4373-8b61-f4ac82770f6f/20241207T000920/0da2f25f-2461-4373-8b61-f4ac82770f6f_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
-        
-        #### [Boeing cancels employee surveillance pilot program](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-pauses-surveillance-pilot-program/281-eead535a-5cea-4387-917c-16d522c5a314)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -82,14 +82,15 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e1beec90-bc59-4d75-93c3-3912a39ecbd0/20241207T031734/e1beec90-bc59-4d75-93c3-3912a39ecbd0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e1beec90-bc59-4d75-93c3-3912a39ecbd0/20241207T031734/e1beec90-bc59-4d75-93c3-3912a39ecbd0_360x203.jpg)](https://www.king5.com/article/sports/nhl/kraken/meier-scores-tiebreaking-goal-early-in-3rd-period-as-devils-beat-kraken-3-2/281-5d88eec7-be17-4fae-99d4-c8ad49436f61)
+    *  [![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
-        #### [Meier scores tiebreaking goal early in 3rd period as Devils beat Kraken 3-2](https://www.king5.com/article/sports/nhl/kraken/meier-scores-tiebreaking-goal-early-in-3rd-period-as-devils-beat-kraken-3-2/281-5d88eec7-be17-4fae-99d4-c8ad49436f61)
+        #### [Seahawks try to maintain series dominance against the Cardinals in vital NFC West showdown](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
-    *  [![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7/20241205T184038/d0bb3420-bb04-40e1-824a-f2eb2cfd0ca7_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
+    *  [![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
         
-        #### [WSU running back Wayshawn Parker entering transfer portal](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/wsu-running-back-wayshawn-parker-transfer-portal/293-f740926d-781f-4631-abc4-e94af202ef8a)
+        #### [Huskies can't stop hot-shooting Trojans 85-61](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a) [![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
         
+        #### [Claude scores 20 points, leads hot-shooting USC over Washington 85-61 to end a three-game skid](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
     
 * [VERIFY](https://www.king5.com/verify)
 * [![Watch Live](/assets/shared-images/logos/native/king.svg)](https://www.king5.com/watch)
@@ -105,9 +106,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+48°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
