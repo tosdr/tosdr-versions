@@ -223,6 +223,18 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -237,18 +249,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Slikarska zbirka Muzeja za umetnost in obrt Zagreb, LJ](javascript:void(0);)
     
     **20.09.2024 | 10:00**
@@ -258,18 +258,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     **[SLIKARSKA ZBIRKA MUZEJA ZA UMETNOST IN OBRT, ZAGREB](https://www.ng-slo.si/si/razstave-in-projekti/razstava/slikarska-zbirka-muzeja-za-umetnost-in-obrt-zagreb?id=5859)** - razstava (19.9.2024.-9.2.2025.)
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
-    [16:00 Ričard Dikon, BG](javascript:void(0);)
-    
-    **20.09.2024 | 16:00**
-    
-    Galerija Dots, Bulevar vojvode Bojovića 4, Donji Kalemegdan, Beograd
-    
-    **RIČARD DIKON** (1945, Vels): **U POTRAZI ZA NEČIM** - izložba skulptura (19.9.-7.12.2024.)
-    
-    Kustoskinje izložbe: Mirjana Dušić i Ljuba Jovićević
-    
-    [https://dotsgallery.org/rs](https://dotsgallery.org/rs)
     
     [10:00 Vladimir R. Petković, BG](javascript:void(0);)
     
@@ -295,14 +283,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     **MARIE HU****É** (Francuska): **FRAGILITIES** - izložba (24.9.-20.12.2024.)
     
+    [10:00 Naša last - Slovenska protestna fotografija 2020-2022, LJ](javascript:void(0);)
+    
+    **02.10.2024 | 10:00**
+    
+    Galerija Jakopič, Slovenska cesta 9, Ljubljana
+    
+    [**NAŠA LAST - Slovenska protestna fotografija 2020-2022**](https://mgml.si/sl/galerija-jakopic/razstave/657/nasa-last/) - razstava (1.10.2024.-26.1.2025.)
+    
+    kuratorja razstave: kustosinja MGML Julija Hoda in fotograf Metod Blejec
+    
+    [https://mgml.si/sl/galerija-jakopic](https://mgml.si/sl/galerija-jakopic)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-5/roboaction5-di.jpg?itok=hS3VcIJI)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-5)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas/zoran-popovic-aksiomi_0.?itok=3MRKKqqu)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/messerchups.jpg?itok=oVKJ8c66)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tanja-lazetic-dijalog-u-kuhinji.jpg?itok=UMXrmBn5)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,7 +318,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
-* [Savremeni italijanski filmovi u Beogradu](http://seecult.org/vest/savremeni-italijanski-filmovi-u-beogradu)
+* [Dani italijanskog filma u Beogradu](http://seecult.org/vest/dani-italijanskog-filma-u-beogradu)
 * [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
