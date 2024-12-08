@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| WranglersMiranda Lambert<br><br>4:38am |
-| What'S Your Country SongThomas Rhett<br><br>4:35am |
-| Am I OkMegan Moroney<br><br>4:32am |
-| Love SomebodyMorgan Wallen<br><br>4:28am |
-| I Could Be That RainRandall King<br><br>4:25am |
+| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:36am |
+| Good VibesChris Janson<br><br>10:34am |
+| Sounds Like The RadioZach Top<br><br>10:30am |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:27am |
+| Shouldve Been A CowboyToby Keith<br><br>10:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -505,13 +505,13 @@ Top 40 • Pacific NW
 
 Top 40 • Eastern
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
