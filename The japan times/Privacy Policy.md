@@ -20,7 +20,7 @@ privacy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 08, 2024](https://www.japantimes.co.jp/archive/2024/12/08/ "archive page")
+[December 09, 2024](https://www.japantimes.co.jp/archive/2024/12/09/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -32,7 +32,7 @@ Subscribe
 
 * [South Korea unrest](https://www.japantimes.co.jp/trending-2/ "South Korea unrest")
 * [Trump tariffs](https://www.japantimes.co.jp/trending/ "Trump tariffs")
-* [Buzzwords of the year](https://www.japantimes.co.jp/tag/buzzwords/ "Buzzwords of the year")
+* [2024 in review](https://www.japantimes.co.jp/tag/2024-in-review/?type=column/ "2024 in review")
 * [Latest News](https://www.japantimes.co.jp/latest-news/ "Latest News")
 * [Deep Dive](https://www.japantimes.co.jp/deep-dive/ "Deep Dive")
 
@@ -464,45 +464,41 @@ Revised June 1, 2022
 
 * Editors' Picks
 
-[Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
-
-  [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
-
 [A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
   [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
-[Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+[South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-  [![Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438252.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.")](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
+  [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-[Japan's honorific language can be challenging for native speakers, too](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
+[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
 
-  [![People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437732.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "People walk around an outlet mall in Gotemba, Shizuoka Prefecture. At stores across Japan, clerks use a form of polite language called "manyuaru keigo," literally, “manual honorifics,” named for the service manuals they study it from.  ")](https://www.japantimes.co.jp/life/2024/12/06/language/keigo-honorific-challenges-japanese/ "Japan's honorific language can be challenging for native speakers, too")
+  [![Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438736.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times")](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
 
-[Police may be able to use fake IDs to investigate _yami baito_](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
+[Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
 
-  [![A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438635.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department flyer on high-paying illegal work advertised on social media, known as yami baito")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/yami-baito-investigation/ "Police may be able to use fake IDs to investigate yami baito")
+  [![A residential area of Tokyo. Rising prices has made it difficult for the child-rearing generation to secure large houses in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438749.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A residential area of Tokyo. Rising prices has made it difficult for the child-rearing generation to secure large houses in the capital. ")](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
+
+[Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
+
+  [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
+
+[Welcome to Yama, Japan’s first Michelin-starred dessert restaurant](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
+
+  [![Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/437997.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Koichi Katsumata is the first chef to receive a Michelin star in Japan for an 'assiette dessert' (dessert course) restaurant")](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
+
+[Futaba pivots to 'hope tourism' to revive its fortunes](https://www.japantimes.co.jp/life/2024/12/07/travel/fukushima-futaba-revitalization/ "Futaba pivots to 'hope tourism' to revive its fortunes")
+
+  [![The town of Futaba is still dealing with the effects of 3/11, but that isn't stopping some residents from looking forward.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438190.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The town of Futaba is still dealing with the effects of 3/11, but that isn't stopping some residents from looking forward.")](https://www.japantimes.co.jp/life/2024/12/07/travel/fukushima-futaba-revitalization/ "Futaba pivots to 'hope tourism' to revive its fortunes")
+
+[2024 was the year Japanese TV found its prestige](https://www.japantimes.co.jp/culture/2024/12/07/tv-streaming/shogun-extremely-inappropriate-tokyo-swindlers/ "2024 was the year Japanese TV found its prestige")
+
+  [![“Shogun,” created by American channel FX and made by a joint American-Japanese team, utilized the strengths of both Japan and Hollywood to create a bona fide smash that critics adored. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438506.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“Shogun,” created by American channel FX and made by a joint American-Japanese team, utilized the strengths of both Japan and Hollywood to create a bona fide smash that critics adored. ")](https://www.japantimes.co.jp/culture/2024/12/07/tv-streaming/shogun-extremely-inappropriate-tokyo-swindlers/ "2024 was the year Japanese TV found its prestige")
 
 [What constitutes fatal dangerous driving in Japan?](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
   [![Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
-
-[Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
-
-  [![Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438252.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.")](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
-
-[Lightning strikes twice for Shun Ikeda at All Japan Championships](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
-
-  [![Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438172.jpeg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shun Ikeda holds the trophy after winning his second consecutive amateur yokozuna title on Sunday at Tokyo’s Ryogoku Kokugikan.")](https://www.japantimes.co.jp/sports/2024/12/04/sumo/japan-amateur-sumo-championships/ "Lightning strikes twice for Shun Ikeda at All Japan Championships")
-
-[Yoon’s gambit a tempest in a teapot for financial markets](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
-
-  [![A screen displays market data at Hana Bank in Seoul on Wednesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438240.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screen displays market data at Hana Bank in Seoul on Wednesday.")](https://www.japantimes.co.jp/business/2024/12/04/markets/yoon-financial-markets/ "Yoon’s gambit a tempest in a teapot for financial markets")
-
-[U.S. Space Force launches first unit in Japan](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
-
-  [![Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438122.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Activated on Wednesday, U.S. Space Forces Japan — a component similar to the one established at South Korea’s Osan Air Base in 2022 — will operate out of Yokota Air Base in the city of Fussa, western Tokyo, with a staff of about 10.")](https://www.japantimes.co.jp/news/2024/12/04/japan/us-space-force-japan/ "U.S. Space Force launches first unit in Japan")
 
 Podcast
 -------
@@ -523,9 +519,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +563,23 @@ Latest News
 
 [Ishiba vows to show resolve in run-up to Upper House poll](https://www.japantimes.co.jp/news/2024/12/08/japan/politics/ishiba-upper-house-poll-resolve/ "Ishiba vows to show resolve in run-up to Upper House poll")
 
-1 hour ago
+7 hours ago
 
-[South Korea’s ruling party vows ‘orderly exit’ for Yoon](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea’s ruling party vows ‘orderly exit’ for Yoon")
+[South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
 
-2 hours ago
+8 hours ago
 
 [South Korea’s ex-defense chief is detained over martial law episode](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/south-koreas-ex-defense-chief-detained/ "South Korea’s ex-defense chief is detained over martial law episode")
 
-3 hours ago
+9 hours ago
 
 [Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
 
-3 hours ago
+9 hours ago
 
 [Japan's crown prince and crown princess return from visit to Turkey](https://www.japantimes.co.jp/news/2024/12/08/japan/japan-crown-prince-turkey-trip/ "Japan's crown prince and crown princess return from visit to Turkey")
 
-3 hours ago
+9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
