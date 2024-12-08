@@ -88,7 +88,7 @@ Nov **24**
 * [Nov 24, 2024](https://papermc.io/threads/1-21-3.1430/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 3,329
+* 3,336
 * 1
 
 ### The 1.21.3 Update​
@@ -204,7 +204,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 11,822
+* 11,834
 * 2
 
 ### The 1.21 Update​
@@ -320,7 +320,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,199
+* 9,203
 * 6
 
 ### The 1.20.5/6 Update​
@@ -418,7 +418,7 @@ Mar **26**
 * [Mar 26, 2024](https://papermc.io/threads/announcing-the-end-of-life-of-waterfall.1088/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 18,837
+* 18,840
 * 11
 
 Announcing the end of life of Waterfall​
@@ -456,7 +456,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,301
+* 15,308
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -554,7 +554,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 28,811
+* 28,834
 * 6
 
 Happy New Year from PaperMC!​
@@ -698,7 +698,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 9,346
+* 9,349
 * 1
 
 ### The 1.20.4 Update​
@@ -877,7 +877,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,493
+* 14,494
 * 9
 
 ### The 1.20(.1) Update​
@@ -998,7 +998,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,670
+* 8,672
 * 3
 
 ### The 1.19.4 Update​
@@ -1118,7 +1118,7 @@ Sep **29**
 * [Sep 29, 2022](https://papermc.io/threads/malware-announcement.529/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 35,743
+* 35,746
 * 22
 
 We've seen a lot of reports of a new malware going around Minecraft servers. It seems to be spread by compromised Spigot plugin-author accounts, and is somewhat difficult to detect. We do know that the following exception is caused by it:  
@@ -1432,9 +1432,10 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 ### [Members online](https://papermc.io/online/)
 
-No members online now.
+* [Fabs\_gb](https://papermc.io/members/fabs_gb.12831/)
+* [KittyWrobl](https://papermc.io/members/kittywrobl.12489/)
 
-Total: 23 (members: 0, guests: 23)
+Total: 35 (members: 2, guests: 33)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1455,7 +1456,7 @@ Replies
 
 Views
 
-33
+39
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 10:55 PM](https://papermc.io/threads/velocity-paper-error-player-cant-connect.1462/latest)
 
@@ -1479,7 +1480,7 @@ Replies
 
 Views
 
-26
+28
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 4:23 PM](https://papermc.io/threads/file-generation.1461/latest)
 
@@ -1503,7 +1504,7 @@ Replies
 
 Views
 
-51
+56
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 4:13 PM](https://papermc.io/threads/problem-starting-papermc-raspberrypi.1459/latest)
 
@@ -1527,7 +1528,7 @@ Replies
 
 Views
 
-31
+34
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 2:48 PM](https://papermc.io/threads/crafting-guide-issue.1458/latest)
 
@@ -1551,7 +1552,7 @@ Replies
 
 Views
 
-29
+31
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 2:15 PM](https://papermc.io/threads/turtle-die-under-water.1460/latest)
 
@@ -1575,7 +1576,7 @@ Replies
 
 Views
 
-34
+37
 
 [Help](https://papermc.io/forums/paper-help/) [Yesterday at 7:14 AM](https://papermc.io/threads/papermc-does-not-start-linux.1457/latest)
 
@@ -1599,7 +1600,7 @@ Replies
 
 Views
 
-39
+43
 
 [Help](https://papermc.io/forums/paper-help/) [Friday at 8:56 PM](https://papermc.io/threads/my-server-doesnt-open.1456/latest)
 
@@ -1623,7 +1624,7 @@ Replies
 
 Views
 
-44
+48
 
 [Help](https://papermc.io/forums/paper-help/) [Friday at 1:30 AM](https://papermc.io/threads/paper-mc-not-working.1453/latest)
 
@@ -1645,7 +1646,7 @@ Replies
 
 Views
 
-193
+194
 
 [Off-topic](https://papermc.io/forums/general-off-topic/) [Nov 28, 2024](https://papermc.io/threads/banned-on-discord-server.1446/latest)
 
