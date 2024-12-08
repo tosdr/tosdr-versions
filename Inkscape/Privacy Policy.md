@@ -208,4 +208,4 @@ With thanks to: [Fastly](http://www.fastly.com/ "Data Cached by Fastly") [OSUOSL
 Python 3.6.8
 Django 2.2
 App: CMS [Privacy Policy]
-InkscapeWeb 1.6, as of Fri Nov 8 14:34:05 2024 (fe88ea0)")](https://gitlab.com/inkscape/inkscape-web)
+InkscapeWeb 1.6, as of Sun Dec 8 02:59:31 2024 (e41a457)")](https://gitlab.com/inkscape/inkscape-web)
