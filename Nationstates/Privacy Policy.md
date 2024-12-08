@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [RP Think Tank (2,765)](https://forum.nationstates.net/viewtopic.php?t=239275&f=5&view=unread#unread ""RP Think Tank" (2,765 posts)")
-* [American Politics: Turnabout Trump (8,196)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (8,196 posts)")
-* [Syrian Civil War: Dawn Of A New Syria (881)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (881 posts)")
-* [Say a random sentence (9,813)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,813 posts)")
-* [how do you look for ex-nation cards? (7)](https://forum.nationstates.net/viewtopic.php?t=559313&f=42&view=unread#unread ""how do you look for ex-nation cards?" (7 posts)")
+* [Will AN or AAN CTE first? (136)](https://forum.nationstates.net/viewtopic.php?t=559285&f=25&view=unread#unread ""Will AN or AAN CTE first?" (136 posts)")
+* [Grant AN's wish then curse it (1,453)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,453 posts)")
+* [Ukrainian War VII: Advent's Offspring (12,206)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Advent's Offspring" (12,206 posts)")
+* [Kogyokist Christianity (OOC/RELIGION) (6)](https://forum.nationstates.net/viewtopic.php?t=559365&f=23&view=unread#unread ""Kogyokist Christianity (OOC/RELIGION)" (6 posts)")
+* [Syrian Civil War: Dawn Of A New Syria (989)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (989 posts)")
 
 Advertisement
 
