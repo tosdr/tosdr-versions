@@ -43,47 +43,59 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Aric Avedissian talking about Rareform bags](https://www.women.com/img/gallery/heres-what-went-down-with-rareform-bags-after-shark-tank/intro-1733246794.jpg)](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
+*  [![Two smiling women flying the gay pride flag behind them outdoors](https://www.women.com/img/gallery/what-does-it-mean-to-be-abrosexual-heres-everything-you-need-to-know/intro-1733337138.jpg)](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
     
-    [Living](https://www.women.com/category/living/)
+    [Sex](https://www.women.com/category/sex-life/)
     
-    [Living](https://www.women.com/category/living/) By Mila Williams
+    [Sex](https://www.women.com/category/sex-life/) By Madison Emily Whisenand
     
-    [Here's What Went Down With Rareform Bags After Shark Tank](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
-    =========================================================================================================================================
+    [What Does It Mean To Be Abrosexual? Here's Everything You Need To Know](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+    ==========================================================================================================================================
     
-    Rareform Bags was started by two Californian brothers, with the goal of hoping to improve the environment one billboard at a time.
+    Many members of the LGBTQ+ community may identify with terms like lesbian, gay, or pansexual, but some individuals find their sexuality is more fluid.
     
-    By Mila Williams [Read More](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
     
-* *  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+* *  [![Renee Rapp at Time 100 event in NYC](https://www.women.com/img/gallery/steal-renee-rapps-cool-androgynous-style/intro-1733334540.jpg)](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+        [Fashion](https://www.women.com/category/fashion/) By Amanda Chatel
         
-        ### [Zendaya's Style Transformation Is Jaw Dropping](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+        ### [Steal Renee Rapp's Cool, Androgynous Style](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
         
-        Zendaya has been a fashion icon since her Disney Channel days, but over the years, she's moved on to stun with method dressing and designer gowns.
+        Renee Rapp has worn plenty of hyperfeminine looks, but it's her androgynous style that really stands out, and is definitely something worth replicating.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+        By Amanda Chatel [Read More](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
         
-    *  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+    *  [![Aric Avedissian talking about Rareform bags](https://www.women.com/img/gallery/heres-what-went-down-with-rareform-bags-after-shark-tank/intro-1733246794.jpg)](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
         
-        [Fashion](https://www.women.com/category/fashion/)
+        [Living](https://www.women.com/category/living/)
         
-        [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+        [Living](https://www.women.com/category/living/) By Mila Williams
         
-        ### [Taylor Swift's Best Preppy In Plaid Looks](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+        ### [Here's What Went Down With Rareform Bags After Shark Tank](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
         
-        Taylor Swift has experimented with different styles throughout her career, but has consistently rocked many looks that were preppy in plaid.
+        Rareform Bags was started by two Californian brothers, with the goal of hoping to improve the environment one billboard at a time.
         
-        By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+        By Mila Williams [Read More](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
         
 
 More Stories
 ------------
 
+*  [![Julia Fox on the red carpet](https://www.women.com/img/gallery/the-worst-dressed-celebs-in-all-of-2024-ranked/intro-1732131234.jpg)](https://www.women.com/1719540/worst-dressed-celebs-2024-ranked/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [The Worst Dressed Celebs In All Of 2024, Ranked](https://www.women.com/1719540/worst-dressed-celebs-2024-ranked/)
+    
+    We love seeing stars pull off an iconic look, but not all fashion experiments work. These worst-dressed celebrities of 2024 missed the mark more than once.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1719540/worst-dressed-celebs-2024-ranked/)
+    
 *  [![Pink white ombre nails with sparkles](https://www.women.com/img/gallery/8-new-years-eve-2024-manicure-ideas-more-dazzling-than-the-ball-drop/intro-1733249292.jpg)](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -95,6 +107,30 @@ More Stories
     Whether you're ringing in the New Year at Times Square or watching the fireworks from your couch, a dazzling manicure is the perfect way to celebrate.
     
     By Mila Williams [Read More](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
+    
+*  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    
+    ### [Zendaya's Style Transformation Is Jaw Dropping](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+    
+    Zendaya has been a fashion icon since her Disney Channel days, but over the years, she's moved on to stun with method dressing and designer gowns.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
+    
+*  [![Taylor Swift looking over her shoulder and into the camera](https://www.women.com/img/gallery/taylor-swifts-best-preppy-in-plaid-looks/intro-1733153503.jpg)](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Madison Emily Whisenand
+    
+    ### [Taylor Swift's Best Preppy In Plaid Looks](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
+    
+    Taylor Swift has experimented with different styles throughout her career, but has consistently rocked many looks that were preppy in plaid.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1726577/taylor-swift-best-preppy-plaid-looks/)
     
 *  [![Selena Gomez cuddling with Benny Blanco](https://www.women.com/img/gallery/how-compatible-are-selena-gomez-and-benny-blanco-according-to-astrology/intro-1732727166.jpg)](https://www.women.com/1724488/selena-gomez-benny-blanco-compatibility-astrology/)
     
@@ -371,42 +407,6 @@ More Stories
     Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
     
     By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-    
-*  [![Dolly Parton on the red carpet with arms outstretched](https://www.women.com/img/gallery/dolly-partons-most-philanthropic-efforts-across-her-long-career/intro-1731613196.jpg)](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
-    
-    ### [Dolly Parton's Most Philanthropic Efforts Across Her Long Career](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-    
-    Dolly Parton is a philanthropic icon, repeatedly investing in the creativity and futures for people across the globe, as well as her home town.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1713819/dolly-parton-most-philanthropic-efforts-across-career/)
-    
-*  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-    
-    [Politics](https://www.women.com/category/politics/)
-    
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
-    
-    ### [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-    
-    Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
-    
-*  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
-    
-    ### [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-    
-    If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
     
 
 Back
