@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/horizontal-brian-thompson.png?ve=1&tl=1)
+ [![Syria's Assad flees to Moscow after rebels end his regime](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188898867-scaled.jpg?ve=1&tl=1)
 
- ![Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/horizontal-brian-thompson.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brian-thompson-wife-unitedhealthcare)
+ ![Syria's Assad flees to Moscow after rebels end his regime](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188898867-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/syria-assad-plane-leaves-country)
 
-### [Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://www.fox4news.com/news/brian-thompson-wife-unitedhealthcare)
+### [Syria's Assad flees to Moscow after rebels end his regime](https://www.fox4news.com/news/syria-assad-plane-leaves-country)
 
- [![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1)
+ [![Man found shot outside Dallas church before Sunday service](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&tl=1)
 
- ![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
+ ![Man found shot outside Dallas church before Sunday service](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-shot-outside-dallas-church-before-sunday-service)
 
-### [2 women shot while riding in rideshare in Dallas](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
+### [Man found shot outside Dallas church before Sunday service](https://www.fox4news.com/news/man-found-shot-outside-dallas-church-before-sunday-service)
 
- [![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/my-project-30.jpeg?ve=1&tl=1)
+ [![Trump vows to end birthright citizenship: Here's why that won't be easy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188309492-scaled.jpg?ve=1&tl=1)
 
- ![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/my-project-30.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
+ ![Trump vows to end birthright citizenship: Here's why that won't be easy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188309492-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-birthright-citizenship)
 
-### [Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
+### [Trump vows to end birthright citizenship: Here's why that won't be easy](https://www.fox4news.com/news/trump-birthright-citizenship)
 
- [!['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-507814964-a.jpg?ve=1&tl=1)
+ [![Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dialysis-facility-at-4804-bryant-irvin-road-3.jpg?ve=1&tl=1)
 
- !['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-507814964-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duck-dynasty-phil-robertson-alzheimers-disease)
+ ![Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dialysis-facility-at-4804-bryant-irvin-road-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/car-crashes-fort-worth-dialysis-facility-driver-taken-hospital)
 
-### ['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://www.fox4news.com/news/duck-dynasty-phil-robertson-alzheimers-disease)
+### [Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://www.fox4news.com/news/car-crashes-fort-worth-dialysis-facility-driver-taken-hospital)
 
- [![No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188462540.jpg?ve=1&tl=1)
+ [![Fort Worth firefighters put out Saturday morning motel fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/motel-fire-in-the-7500-block-of-camp-bowie-boulevard-west-6.jpg?ve=1&tl=1)
 
- ![No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188462540.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
+ ![Fort Worth firefighters put out Saturday morning motel fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/motel-fire-in-the-7500-block-of-camp-bowie-boulevard-west-6.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-firefighters-put-out-saturday-morning-motel-fire)
 
-### [No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
+### [Fort Worth firefighters put out Saturday morning motel fire](https://www.fox4news.com/news/fort-worth-firefighters-put-out-saturday-morning-motel-fire)
 
 ###### [News](https://www.fox4news.com/news)
 
