@@ -164,23 +164,26 @@
 
 Subscribe
 
-[#### Reviews](https://www.healthline.com/reviews)
+[#### Nutrition](https://www.healthline.com/nutrition)
 
-* At-Home Testing
+* Meal Kits
     
-    * [Overview](https://www.healthline.com/reviews/at-home-tests)
-    * [Nutrition](https://www.healthline.com/reviews/at-home-tests/nutrition-and-well-being)
-    * [Family Planning](https://www.healthline.com/reviews/at-home-tests/fertility-family-planning)
-    * [STDs & STIs](https://www.healthline.com/reviews/at-home-tests/std)
-    * [Covid/Flu](https://www.healthline.com/reviews/at-home-tests/covid)
-    * [Drug/Toxicology](https://www.healthline.com/reviews/at-home-tests/drugs-toxicology)
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
     
-* [Vitamins & Supplements](https://www.healthline.com/reviews/vitamin-and-supplement-products)
-* [Sleep](https://www.healthline.com/reviews/sleep-products)
-* [Mental Health](https://www.healthline.com/reviews/mental-health-services-and-products)
-* [Nutrition](https://www.healthline.com/reviews/nutrition-products)
-* [Men’s Health](https://www.healthline.com/reviews/mens-health-products)
-* [Women’s Health](https://www.healthline.com/reviews/womens-health-products)
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Terms of Use
 ============
