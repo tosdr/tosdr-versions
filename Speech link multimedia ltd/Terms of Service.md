@@ -105,7 +105,7 @@
 Improving speech and language outcomes
 ======================================
 
-[Learn more about Speech & Language Link](https://speechandlanguage.info/whole-school-approach/)
+[Get a Free Trial here!](https://speechandlanguage.link/whole-school-approach/free-trial/?utm_source=TrialButton&utm_medium=website&utm_campaign=frontpage&utm_content=hero)
 
 ![](https://speechandlanguage.link/wp-content/uploads/2021/12/InTheNews_partnership_FeaturedImage-600x419.jpg)
 
