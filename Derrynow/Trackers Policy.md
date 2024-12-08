@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![Killarney gardaí appeal for witnesses as traffic collision sees one man die](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Killarney gardaí appeal for witnesses as traffic collision sees one man die")](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
+
+The scene is currently being examined by Garda Forensic Collision Investigators.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Investigations underway as man dies in early morning crash](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Teenage e-scooter user critically injured in 'serious road traffic incident'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenage e-scooter user critically injured in 'serious road traffic incident'")](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
 
 The scene of the incident on Saint Brendan's Road remains preserved for a technical examination.
@@ -275,23 +284,14 @@ The scene of the incident on Saint Brendan's Road remains preserved for a techni
 [Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![70,000 still left in the dark as ESB repairs Storm Darragh damage](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "70,000 still left in the dark as ESB repairs Storm Darragh damage")](https://www.derrynow.com/news/national-news/1675367/lights-back-on-for-70-000-as-esb-begins-to-repair-storm-darragh-damage.html)
+[![ALERT: Gardaí launch investigation following discovery of man's body in Cork](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí launch investigation following discovery of man's body in Cork")](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
 
-All ESB Networks teams are mobilised and are continuing to closely monitor the storm impact on power supplies.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Lights back on for 70,000 as ESB begins to repair Storm Darragh damage](https://www.derrynow.com/news/national-news/1675367/lights-back-on-for-70-000-as-esb-begins-to-repair-storm-darragh-damage.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stay safe: Public advised to take care in the aftermath of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Stay safe: Public advised to take care in the aftermath of Storm Darragh")](https://www.derrynow.com/news/national-news/1675308/stay-safe-public-advised-to-take-care-in-the-aftermath-of-storm-darragh.html)
-
-A Status Yellow Wind warning will remain in effect for all of Ireland until 3pm today. 
+The Coroner has been notified and a post mortem will take place in due course.
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Stay safe: Public advised to take care in the aftermath of Storm Darragh](https://www.derrynow.com/news/national-news/1675308/stay-safe-public-advised-to-take-care-in-the-aftermath-of-storm-darragh.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[ALERT: Gardaí launch investigation following discovery of man's body in Cork](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![120,000 still without power as Storm Darragh aftermath kicks in](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "120,000 still without power as Storm Darragh aftermath kicks in")](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
 
@@ -302,44 +302,46 @@ ESB Networks thanks customers, especially those who will remain without power ov
 [120,000 still without power as Storm Darragh aftermath kicks in](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Coleraine comes alive with festive cheer](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ALERT: Gardaí launch investigation following discovery of man's body in Cork](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí launch investigation following discovery of man's body in Cork")](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
-
-The Coroner has been notified and a post mortem will take place in due course.
+[![Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue")](https://www.derrynow.com/news/national-news/1675759/paul-mescal-clears-up-ugly-irish-stereotypes-in-saturday-night-live-monologue.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[ALERT: Gardaí launch investigation following discovery of man's body in Cork](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue](https://www.derrynow.com/news/national-news/1675759/paul-mescal-clears-up-ugly-irish-stereotypes-in-saturday-night-live-monologue.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Uisce Éireann activates emergency response amid impact of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann activates emergency response amid impact of Storm Darragh")](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
-
-There are some simple steps people can take to conserve water, such as avoiding the use of water-intensive appliances during this time.
+[![Barry Keoghan responds to his name ‘being dragged across the internet’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Barry Keoghan responds to his name ‘being dragged across the internet’")](https://www.derrynow.com/news/national-news/1675764/barry-keoghan-responds-to-his-name-being-dragged-across-the-internet.html)
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Uisce Éireann activates emergency response amid impact of Storm Darragh](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
+[Barry Keoghan responds to his name ‘being dragged across the internet’](https://www.derrynow.com/news/national-news/1675764/barry-keoghan-responds-to-his-name-being-dragged-across-the-internet.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![80,000 now remain without power as ESB works to address Storm Darragh outages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "80,000 now remain without power as ESB works to address Storm Darragh outages")](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
+
+Their crews are working tirelessly to safely restore power.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[80,000 now remain without power as ESB works to address Storm Darragh outages](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Uisce Éireann continues work on water supplies after Storm Darragh havoc](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann continues work on water supplies after Storm Darragh havoc")](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
+
+For live updates on impacted sites across the country, customers are advised to visit the Uisce Éireann Supply and Services page.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[40,000 see water restored as Uisce Éireann repairs Storm Darragh damage](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+[![Coleman offers Australian teen a visit to Everton training after derby postponement](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coleman offers Australian teen a visit to Everton training after derby postponement")](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Seamus Coleman joined Everton from Sligo Rovers in 2009
 
-[Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Happier than Ever-ton: Teen overjoyed as captain makes up for postponed game](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man dies after tree falls on van as Storm Darragh lashes UK](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man dies after tree falls on van as Storm Darragh lashes UK")](https://www.derrynow.com/news/northern-ireland/1675342/man-dies-after-tree-falls-on-van-as-storm-darragh-lashes-uk.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man dies after tree falls on van as Storm Darragh lashes UK](https://www.derrynow.com/news/northern-ireland/1675342/man-dies-after-tree-falls-on-van-as-storm-darragh-lashes-uk.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -521,6 +523,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![NIFRS urges Derry residents to keep safety top of your list this holiday season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NIFRS urges Derry residents to keep safety top of your list this holiday season")](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NIFRS urges Derry residents to keep safety top of your list this holiday season](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
 
 Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
@@ -530,7 +539,7 @@ Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gar
 [Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
+[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
@@ -557,13 +566,6 @@ Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gar
 
 [Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police end search for missing County Derry man](https://www.derrynow.com/resizer/165/93/true/1522572313578.jpg--.jpg?1522572314000 "Police end search for missing County Derry man")](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Police end search for missing County Derry man](https://www.derrynow.com/news/local-news/1675267/police-end-search-for-missing-county-derry-man.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
