@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Young Kids, Hard Time](/wp-content/thumbnails/7133-100x70.jpg?x53432)
+* [![World War II in Colour](/wp-content/thumbnails/6231-100x70.png?x53432)
     
-    Young Kids, Hard Time
+    World War II in Colour
     
-    Young Kids, Hard Time is an American MSNBC TV show which premiered November 20th 2011. The show is about children age 12 to 17 incarcerated as adults in the American prison system. These children have](https://documentaryheaven.com/young-kids-hard-time/ "Young Kids, Hard Time")
-* [![Ireland’s Brexit Trouble](/wp-content/thumbnails/14372-100x70.jpg?x53432)
+    A collection of rare and unseen footage of World War II and the very latest colorization techniques come together in World War II in Colour.With satellite-delivered terrain mapping and state-of](https://documentaryheaven.com/world-war-ii-in-colour/ "World War II in Colour")
+* [![Who Gets the Best Jobs?](/wp-content/thumbnails/7762-100x70.jpg?x53432)
     
-    Ireland’s Brexit Trouble
+    Who Gets the Best Jobs?
     
-    It goes without saying that Northern Ireland has a troubled history, for 30 years loyalists mainly Protestants fought to keep Northern Ireland in the United Kingdom but on the flip side there were rep](https://documentaryheaven.com/irelands-brexit-trouble/ "Ireland’s Brexit Trouble")
-* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
+    Britain is a less equal society than at any time since World War One. In Who Gets the Best Jobs, Richard Bilton investigates access to the professions - and finds that the best jobs are being snapped](https://documentaryheaven.com/who-gets-best-jobs/ "Who Gets the Best Jobs?")
+* [![Her War: Women vs ISIS](/wp-content/thumbnails/9952-100x70.jpg?x53432)
     
-    Design: e²
+    Her War: Women vs ISIS
     
-    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
-* [![Blackadder Rides Again](/wp-content/thumbnails/4771-100x70.jpg?x53432)
+    ISIS is currently the most brutal terror group in modern history and they now control large portions of land in Iraq and Syria, and oversee an estimated six million people. The Islamic State have also](https://documentaryheaven.com/her-war-women-vs-isis/ "Her War: Women vs ISIS")
+* [![Losing Sleep](/wp-content/thumbnails/16507-100x70.jpg?x53432)
     
-    Blackadder Rides Again
+    Losing Sleep
     
-    A 60 minute documentary produced by Tiger Aspect for the BBC and broadcast on 25 December 2008, to celebrate the 25th anniversary of the show. It featured interviews with all of the major cast membe](https://documentaryheaven.com/blackadder-rides-again/ "Blackadder Rides Again")
-* [![History of World War II: Hiroshima](/wp-content/thumbnails/5880-100x70.jpeg?x53432)
+    We spend one-third of our lives sleeping and still we don't fully understand why it is we sleep. We know some of the functions that lie behind it but overall it's still very much a mystery. From the](https://documentaryheaven.com/losing-sleep/ "Losing Sleep")
+* [![Twist of Faith (2004)](/wp-content/thumbnails/1520-100x70.jpg?x53432)
     
-    History of World War II: Hiroshima
+    Twist of Faith (2004)
     
-    It was the defining moment of the 20th Century – the scientific, technological, military, and political gamble of the first atomic attack. This drama-documentary attempts to do what no other film has](https://documentaryheaven.com/history-of-world-war-ii-hiroshima/ "History of World War II: Hiroshima")
+    There's no easy way to address a highly charged subject like the sexual abuse of young boys by Catholic priests, but with Twist of Faith, director Kirby Dick has taken a straightforward approach, usin](https://documentaryheaven.com/twist-of-faith-2004/ "Twist of Faith (2004)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
