@@ -157,10 +157,8 @@
     * [![Drawing Games Icon](/sites/default/files/2024-09/Drawing.svg)Drawing](https://www.coolmathgames.com/1-drawing-games)
     * [![Escape Games Icon](/sites/default/files/2024-09/Escape.svg)Escape](https://www.coolmathgames.com/1-escape-games)
     * [![Helping Games Icon](/sites/default/files/2024-09/Helping.svg)Helping](https://www.coolmathgames.com/1-helping-games)
-    * [New Logic](https://www.coolmathgames.com/1-new-logic-games)
     * [![Physics Puzzle Games Icon](/sites/default/files/2024-09/Physics-puzzles.svg)Physics Puzzle](https://www.coolmathgames.com/1-physics-puzzles-games)
     * [![Platforming Puzzle Games Icon](/sites/default/files/2024-09/Platforming-puzzle.svg)Platforming Puzzle](https://www.coolmathgames.com/1-platforming-puzzles-games)
-    * [Popular Logic](https://www.coolmathgames.com/1-popular-logic-games)
     * [![Sliding Games Icon](/sites/default/files/2024-09/Sliding.svg)Sliding](https://www.coolmathgames.com/1-sliding-games)
     * [![Think Outside the Box Games Icon](/sites/default/files/2024-09/Think-outside-box.svg)Think Outside the Box](https://www.coolmathgames.com/1-think-outside-the-box-games)
     
