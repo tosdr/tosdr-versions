@@ -165,32 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Apologetics
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/seaturtlescry_1400x1050.jpg)](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty)
-
-[Why Do Female Sea Turtles Cry Salty Tears?](https://www.icr.org/article/why-do-female-sea-turtles-cry-salty/)
-
-Life on a cruise ship can be wonderfully relaxing, but perpetually living at sea has dangerous challenges—just ask a female sea turtle.1...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/eating_bugs_isnt_simple.jpg)](https://www.icr.org/article/eating-bugs-isnt-always-so-simple)
-
-[Eating Bugs Isn't Always So Simple](https://www.icr.org/article/eating-bugs-isnt-always-so-simple/)
-
-The Lord Jesus Christ deserves glory for why He made Earth’s diverse creatures, and He also deserves glory for the complicated details of how...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/lobster-new-skin.jpg)](https://www.icr.org/article/lobsters-get-comfortable-in-their-new-skin)
-
-[Lobsters Get Comfortable in Their New Skin](https://www.icr.org/article/lobsters-get-comfortable-in-their-new-skin/)
-
-Have you ever dreamed that you were squeezing yourself out of a giant toothpaste tube as the tube slowly tightened around your body? Something similar...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
