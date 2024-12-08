@@ -298,11 +298,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas/zoran-popovic-aksiomi_0.?itok=3MRKKqqu)](http://seecult.org/galerija/galerija-umetnika/arhiva-skc-beograd/remek-dela-savremene-srpske-umetnosti-od-1968-do-danas)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukovo-0001-zavrsna-izlozba/direktor-castrixa-stevan-stanojkovich.jpg?itok=srhk6rqr)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukovo-0001-zavrsna-izlozba)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/tanja-lazetic-dijalog-u-kuhinji.jpg?itok=UMXrmBn5)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet/trib8.jpg?itok=ZKbKRjWc)](http://seecult.org/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
