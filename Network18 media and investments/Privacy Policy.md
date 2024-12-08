@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Dec 08, 2024
+Mon, Dec 09, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
     * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-    * [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-australia-beat-india-by-10-wickets-in-2nd-test-9149046.html)
+    * [Cha Eun-woo](https://www.news18.com/entertainment/astro-cha-eun-woos-younger-brother-makes-first-on-screen-appearance-fans-react-aa-9148477.html)
+    * [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
+    * [Malaika Arora](https://www.news18.com/movies/malaika-arora-shares-romantic-selfie-with-rumoured-beau-rahul-vijay-from-ap-dhillon-concert-see-pic-9149140.html)
+    * [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
     * [Aamir Khan](https://www.news18.com/movies/aamir-khan-confirms-discussing-a-film-together-with-shah-rukh-khan-and-salman-khan-it-will-happen-soon-9148070.html)
-    * [Delhi Airport Arrest](https://www.news18.com/india/3-passengers-kept-refusing-air-hostesss-meal-service-arrested-at-delhi-airport-ws-ab-9147071.html)
-    * [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-to-receive-helping-hand-from-sunil-gavaskar-legend-promises-to-bring-son-back-on-his-feet-9148643.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
 * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-* [WTC Points Table](https://www.news18.com/cricket/updated-wtc-2023-25-points-table-after-australia-beat-india-by-10-wickets-in-2nd-test-9149046.html)
+* [Cha Eun-woo](https://www.news18.com/entertainment/astro-cha-eun-woos-younger-brother-makes-first-on-screen-appearance-fans-react-aa-9148477.html)
+* [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
+* [Malaika Arora](https://www.news18.com/movies/malaika-arora-shares-romantic-selfie-with-rumoured-beau-rahul-vijay-from-ap-dhillon-concert-see-pic-9149140.html)
+* [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
 * [Aamir Khan](https://www.news18.com/movies/aamir-khan-confirms-discussing-a-film-together-with-shah-rukh-khan-and-salman-khan-it-will-happen-soon-9148070.html)
-* [Delhi Airport Arrest](https://www.news18.com/india/3-passengers-kept-refusing-air-hostesss-meal-service-arrested-at-delhi-airport-ws-ab-9147071.html)
-* [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-to-receive-helping-hand-from-sunil-gavaskar-legend-promises-to-bring-son-back-on-his-feet-9148643.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 08, 2024
+Dec 09, 2024
 
 [View All](https://www.news18.com/short-news/)
 
