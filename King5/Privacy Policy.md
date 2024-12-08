@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/49df4f53-95fe-448c-92fe-be5f623e2ebc/20241207T155122/49df4f53-95fe-448c-92fe-be5f623e2ebc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/49df4f53-95fe-448c-92fe-be5f623e2ebc/20241207T155122/49df4f53-95fe-448c-92fe-be5f623e2ebc_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/b00c505a-e9af-49be-af0f-c39e2bae7de9/20241208T020118/b00c505a-e9af-49be-af0f-c39e2bae7de9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b00c505a-e9af-49be-af0f-c39e2bae7de9/20241208T020118/b00c505a-e9af-49be-af0f-c39e2bae7de9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -86,11 +86,10 @@ Navigation
         
         #### [Seahawks try to maintain series dominance against the Cardinals in vital NFC West showdown](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
         
-    *  [![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
+    *  [![](https://media.king5.com/assets/KREM/images/dcd57da8-7eaf-4716-8440-60b7f2a86518/20241208T011121/dcd57da8-7eaf-4716-8440-60b7f2a86518_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dcd57da8-7eaf-4716-8440-60b7f2a86518/20241208T011121/dcd57da8-7eaf-4716-8440-60b7f2a86518_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/lejuan-watts-scores-20-washington-state-takes-down-boise-state-74-69/281-e02a1aff-a4a4-48b8-97e6-acc5edf1b7cb)
         
-        #### [Huskies can't stop hot-shooting Trojans 85-61](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a) [![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9/20241208T021323/b7c7d55a-5c1d-496d-8691-2a8b7f69ddc9_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
+        #### [LeJuan Watts scores 20, Washington State takes down Boise State 74-69](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/lejuan-watts-scores-20-washington-state-takes-down-boise-state-74-69/281-e02a1aff-a4a4-48b8-97e6-acc5edf1b7cb)
         
-        #### [Claude scores 20 points, leads hot-shooting USC over Washington 85-61 to end a three-game skid](https://www.king5.com/article/sports/ncaa/ncaab/huskies/huskies-cant-stop-hot-shooting-trojans-85-61/281-97118205-eac3-4b4a-838d-1e7c9ea9098a)
     
 * [VERIFY](https://www.king5.com/verify)
 * [![Watch Live](/assets/shared-images/logos/native/king.svg)](https://www.king5.com/watch)
@@ -108,7 +107,7 @@ Seattle, WA »
 
 48°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
