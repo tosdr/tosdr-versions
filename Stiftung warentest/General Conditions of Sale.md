@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Nach­haltig bauen: Für wen es Förderkredite unter 1 Prozent Zins gibt](https://www.test.de/Nachhaltig-bauen-Fuer-wen-es-Foerderkredite-ab-001-Prozent-Zins-gibt-6125463-0/ "Nachhaltig bauen - Für wen es Förderkredite unter 1 Prozent Zins gibt")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Nach­haltig bauen: Für wen es Förderkredite unter 1 Prozent Zins gibt](https://www.test.de/Nachhaltig-bauen-Fuer-wen-es-Foerderkredite-ab-001-Prozent-Zins-gibt-6125463-0/ "Nachhaltig bauen - Für wen es Förderkredite unter 1 Prozent Zins gibt")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Nach­haltig bauen: Für wen es Förderkredite unter 1 Prozent Zins gibt](https://www.test.de/Nachhaltig-bauen-Fuer-wen-es-Foerderkredite-ab-001-Prozent-Zins-gibt-6125463-0/ "Nachhaltig bauen - Für wen es Förderkredite unter 1 Prozent Zins gibt")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Urlaub außer­halb der EU: Technik auf Fernreisen nutzen](https://www.test.de/Urlaub-ausserhalb-der-EU-Technik-auf-Fernreisen-nutzen-6093161-0/ "Urlaub außerhalb der EU - Technik auf Fernreisen nutzen")
-* [Kryptoplatt­form Bison: Noch kein voll­wertiges Depot­angebot](https://www.test.de/Kryptoplattform-Bison-Noch-kein-vollwertiges-Depotangebot-6018367-0/ "Kryptoplattform Bison - Noch kein vollwertiges Depotangebot")
-* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
-* [Nach­haltig bauen: Für wen es Förderkredite unter 1 Prozent Zins gibt](https://www.test.de/Nachhaltig-bauen-Fuer-wen-es-Foerderkredite-ab-001-Prozent-Zins-gibt-6125463-0/ "Nachhaltig bauen - Für wen es Förderkredite unter 1 Prozent Zins gibt")
-* [Schutz vor Hoch­wasser: Akut und lang­fristig: So beugen Sie Unwetter-Schäden vor](https://www.test.de/Schaeden-durch-Hochwasser-vorbeugen-6125338-0/ "Schutz vor Hochwasser - Akut und langfristig: So beugen Sie Unwetter-Schäden vor")
-* [Heiz­strom: Alle Tarife Nacht­speicherhei­zung](https://www.test.de/Heizstrom-Alle-Tarife-Nachtspeicherheizung-6008488-0/ "Heizstrom - Alle Tarife Nachtspeicherheizung")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
+* [Medikamente bei Prostata­vergrößerung im Test: Probleme beim Wasser­lassen – welche Mittel wirk­lich helfen](https://www.test.de/Medikamente-bei-Prostatavergroesserung-im-Test-5952349-0/ "Medikamente bei Prostatavergrößerung im Test - Probleme beim Wasserlassen – welche Mittel wirklich helfen")
+* [Bio-Lebens­mittel: Warum sich Bio weiterhin lohnt](https://www.test.de/Bio-Lebensmittel-Warum-sich-Bio-weiterhin-lohnt-5986448-0/ "Bio-Lebensmittel - Warum sich Bio weiterhin lohnt")
+* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 Stiftung Warentest
 
