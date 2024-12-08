@@ -150,14 +150,14 @@
 
 * [Зразы из риса с грибами](https://www.russianfood.com/recipes/recipe.php?rid=166741)
 * [Творог с сыром](https://www.russianfood.com/recipes/recipe.php?rid=5679)
-* [Сладкий творог](https://www.russianfood.com/recipes/recipe.php?rid=5681)
 * [Бутерброды с ягодами](https://www.russianfood.com/recipes/recipe.php?rid=7582)
-* [Яблочный салат "Арлекин"](https://www.russianfood.com/recipes/recipe.php?rid=8532)
 * [Липтавский сыр (бутербродная масса)](https://www.russianfood.com/recipes/recipe.php?rid=10056)
 * [«Малюткам на заметку»](https://www.russianfood.com/recipes/recipe.php?rid=11158)
-* [Салат из творога, абрикосов, вишен и ягод](https://www.russianfood.com/recipes/recipe.php?rid=11361)
-* [Гренки с творогом сочные (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=12860)
-* [Творожные шарики под сливочным соусом](https://www.russianfood.com/recipes/recipe.php?rid=13689)
+* [Хачапури с фруктами](https://www.russianfood.com/recipes/recipe.php?rid=14975)
+* [Вяленое мясо от Наталии Орейро](https://www.russianfood.com/recipes/recipe.php?rid=20877)
+* [Салат из овощей и творога](https://www.russianfood.com/recipes/recipe.php?rid=23636)
+* [Закуска из моркови и творога](https://www.russianfood.com/recipes/recipe.php?rid=23674)
+* [Закуска из яиц и творога](https://www.russianfood.com/recipes/recipe.php?rid=23676)
 
 |     |
 | --- |
@@ -182,11 +182,53 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Бюджетная еда – вкусная еда. ПЕЧЕНЬ по-необычному (11)](https://www.russianfood.com/reading/?post_id=22971) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/425/sm_424904.jpg)](https://www.russianfood.com/reading/?post_id=22971)
+
+Печень индейки, тушенная в сметане. Говяжья печень в сметане с овощами. Говяжья печень с луком в томатном соусе. Свиная печень в томатно-соевом соусе.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22971)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22971#comments) | 08.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Тающий во рту торт и другие Лучшие СЛАДОСТИ №24-49](https://www.russianfood.com/reading/?post_id=22970) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/557/sm_556269.jpg)](https://www.russianfood.com/reading/?post_id=22970)
+
+Заварной торт с масляно-сметанным кремом. Безе с вареньем. Слоёные трубочки со сладким "соусом бешамель". Сладкая колбаска с мармеладом. Брауни со сливочным ликёром. Бисквитные пирожные с повидлом и орехами. Тарталетки из лаваша с мороженым.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22970)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22970#comments) | 08.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Основа сытного дня. Время СУПОВ (71)](https://www.russianfood.com/reading/?post_id=22969) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/743/sm_742110.jpg)](https://www.russianfood.com/reading/?post_id=22969)
+
+Суп с фрикадельками и лапшой. Суп с чечевицей, беконом и сыром. Сливочный суп из индейки с фасолью и орехами. Томатный суп с рыбой и кукурузой. Куриный суп с гречневыми клёцками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22969)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22969#comments) | 08.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) |     |
 
 [![Фото к рецепту: Закусочные шарики с крабовыми палочками, сыром и красной рыбой](//img1.russianfood.com/dycontent/images_upl/757/sm_756953.jpg "Фото к рецепту: Закусочные шарики с крабовыми палочками, сыром и красной рыбой")](https://www.russianfood.com/recipes/recipe.php?rid=174803)
 
-Закусочные шарики с крабовыми шариками, плавленым сыром и красной рыбой готовятся несложно, а их вкус невероятно нежный. Ингредиенты соединяются и перемешиваются, затем скатываются шарики и обваливаются в измельчённом укропе.
+Закусочные шарики с крабовыми палочками, плавленым сыром и красной рыбой готовятся несложно, а их вкус невероятно нежный. Ингредиенты соединяются и перемешиваются, затем скатываются шарики и обваливаются в измельчённом укропе.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174803)  
 
@@ -262,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_24 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_29 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -347,48 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174805#comments) | 05.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Шоколадный бисквитный торт "Змея" с вишней и кремом из сгущёнки](https://www.russianfood.com/recipes/recipe.php?rid=174806) |     |
-
-[![Фото к рецепту: Шоколадный бисквитный торт "Змея" с вишней и кремом из сгущёнки](//img1.russianfood.com/dycontent/images_upl/752/sm_751218.jpg "Фото к рецепту: Шоколадный бисквитный торт "Змея" с вишней и кремом из сгущёнки")](https://www.russianfood.com/recipes/recipe.php?rid=174806)
-
-Коржи из бисквитного теста с какао, пропитанные вишнёвым сиропом, прослаиваются ягодами вишни и кремом из сгущённого молока и сливочного масла. Сверху торт покрывается шоколадной глазурью. Нежный и ароматный, с неповторимым сочетанием шоколада и вишни, торт оформляется в виде змейки. Он прекрасно подойдёт для новогоднего стола 2025 года или детского праздника.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174806)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174806#comments) | 05.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Жареная цветная капуста под кунжутным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174929) |     |
-
-[![Фото к рецепту: Жареная цветная капуста под кунжутным соусом](//img1.russianfood.com/dycontent/images_upl/759/sm_758085.jpg "Фото к рецепту: Жареная цветная капуста под кунжутным соусом")](https://www.russianfood.com/recipes/recipe.php?rid=174929)
-
-Цветная капуста нарезается стейками, обжаривается на сковороде до румяной корочки и слегка тушится под кунжутным соусом. В результате получаются ароматные и аппетитные овощные стейки для лёгкого ужина.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174929)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174929#comments) | 05.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Рулетики из куриных бёдер, с картошкой, огурцами и луком](https://www.russianfood.com/recipes/recipe.php?rid=174939) |     |
-
-[![Фото к рецепту: Рулетики из куриных бёдер, с картошкой, огурцами и луком](//img1.russianfood.com/dycontent/images_upl/756/sm_755493.jpg "Фото к рецепту: Рулетики из куриных бёдер, с картошкой, огурцами и луком")](https://www.russianfood.com/recipes/recipe.php?rid=174939)
-
-В нежное филе куриных бёдрышек заворачиваются варёная картошка, маринованные огурцы и сочный лук. Такие рулетики запекаются в духовке и получаются аппетитно румяными.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174939)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_7 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174939#comments) | 05.12.24 |     |
 
 |     |
 | --- |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) |
-| [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) |
+| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+| [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(183)
+(148)
