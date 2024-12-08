@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to import backup jobs?](https://www.backup4all.com/how-to-import-backup-jobs-kb.html)  
+* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
     
-* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
+* [How to create a backup plugin](https://www.backup4all.com/how-to-create-a-backup-plugin-kb.html)  
     
-* [How to restore a backup to Box](https://www.backup4all.com/how-to-restore-a-backup-to-box-kb.html)  
+* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
     
-* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
+* [Script error when opening Backup4all](https://www.backup4all.com/script-error-when-opening-backup4all-kb.html)  
     
 
 Choose language:
