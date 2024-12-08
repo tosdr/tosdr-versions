@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Nach­haltig backen: Warum Sie lieber auf Back­papier verzichten sollten](https://www.test.de/Nachhaltig-backen-Warum-Sie-lieber-auf-Backpapier-verzichten-sollten-6175915-0/ "Nachhaltig backen - Warum Sie lieber auf Backpapier verzichten sollten")
-* [Beratung bei der Geld­anlage: Verkaufs­sprüche unter der Lupe](https://www.test.de/Beratung-bei-der-Geldanlage-Verkaufssprueche-unter-der-Lupe-6110286-0/ "Beratung bei der Geldanlage - Verkaufssprüche unter der Lupe")
-* [Zinsen: Achtung, falsches Fest­geld-Angebot](https://www.test.de/Zinsen-Falsches-Festgeld-6098897-0/ "Zinsen - Achtung, falsches Festgeld-Angebot")
-* [Käse-Ersatz­produkte: Keine Konkurrenz für echte Stinker](https://www.test.de/Kaese-Ersatzprodukte-Keine-Konkurrenz-fuer-echte-Stinker-6017325-0/ "Käse-Ersatzprodukte - Keine Konkurrenz für echte Stinker")
+* [Fest­geld: Zweifelhafte Zins­angebote](https://www.test.de/Festgeld-Zweifelhafte-Zinsangebote-5964123-0/ "Festgeld - Zweifelhafte Zinsangebote")
+* [Gewusst wie: Güns­tiges Giro­konto](https://www.test.de/Gewusst-wie-Guenstiges-Girokonto-5977567-0/ "Gewusst wie - Günstiges Girokonto")
+* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
+* [Heiz­strom: Alle Tarife für Wärmepumpen](https://www.test.de/Heizstrom-Alle-Tarife-fuer-Waermepumpen-6000062-0/ "Heizstrom - Alle Tarife für Wärmepumpen")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
 
 Stiftung Warentest
 
