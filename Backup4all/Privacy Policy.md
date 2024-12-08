@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
+* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
     
-* [How to restore your backup from Box](https://www.backup4all.com/how-to-restore-your-backup-from-box-kb.html)  
+* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
+    
+* [Installing - FAQ](https://www.backup4all.com/installing-faq-kb.html)  
+    
+* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
     
 * [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
-    
-* [How to restore a backup from Cloudflare R2 us ...](https://www.backup4all.com/how-to-restore-a-backup-from-cloudflare-r2-using-backup4all-kb.html)  
-    
-* [How to restore a backup from Azure](https://www.backup4all.com/how-to-restore-a-backup-from-azure-kb.html)  
     
 
 Choose language:
