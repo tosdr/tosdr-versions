@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Gary Bauer Trump Supports Pete](https://patriotpost.us/opinion/112622-trump-supports-pete-2024-12-07)
 *      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
 *      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
 *      [Mark Alexander Profiles of Valor: Capt Lance Sijan, USAF](https://patriotpost.us/alexander/112540-profiles-of-valor-capt-lance-sijan-usaf-2024-12-06)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [Josh Hammer In Transgender Case, Can SCOTUS Cut to the Moral Heart of the Issue?](https://patriotpost.us/opinion/112593-in-transgender-case-can-scotus-cut-to-the-moral-heart-of-the-issue-2024-12-06)
 *      [Victor Davis Hanson What The Trump Nominees Have Not Done — And Will Not Do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
 *      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
-*      [Erick Erickson The Problemed Nominee](https://patriotpost.us/opinion/112590-the-problemed-nominee-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
