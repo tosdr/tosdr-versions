@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for making my life as a sysadmin much, much easier.
+The proxy worked perfectly thank you. I was able to watch all BBC services in USA for a month. I am now back in UK but will not hesitate to contact you again when I am out of the country for any period of time.
 
-Åsmund H. Blikås
+Bryn Sadler
