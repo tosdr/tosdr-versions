@@ -316,6 +316,16 @@ Read More
 Community News
 --------------
 
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/november-2024-post-counts/)
+
+### [November 2024 Post Counts](https://www.starbase118.net/2024/november-2024-post-counts/)
+
+amackenzie December 8, 2024
+
+The month of November was defined by a journey of discovery and remarkable narrative skill within our Fleet. We saw a slight dip in our
+
+[Read More »](https://www.starbase118.net/2024/november-2024-post-counts/)
+
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
 
 ### [Lower Decks interview:  Lieutenant JG Sevantha Saa,  USS Astraeus.](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
@@ -335,16 +345,6 @@ Federation News Service December 5, 2024
 DEEP SPACE NINE – Locked away in a secure compartment, a mix of Bajoran Security and Starfleet volunteers were treated to an eyeful as the
 
 [Read More »](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
-
-### [It’s Official, U.S.S. Chin’toka Launches](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
-
-Federation News Service December 4, 2024
-
-Sol System – Starfleet Makes the Relaunch of the Chin’toka Official As previously reported, the “pirate” crew of the U.S.S. Chin’toka had been seen taking
-
-[Read More »](https://www.starbase118.net/2024/its-official-u-s-s-chintoka-launches/)
 
 Ready to get started?
 ---------------------
