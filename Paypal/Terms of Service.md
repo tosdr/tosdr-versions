@@ -501,9 +501,8 @@ Whenever a buyer uses a debit or credit card as the payment method for a transac
 
 As a seller, you can accept payments from a buyer’s account through preauthorized transfers either on a one-time, regular or sporadic basis. This type of transaction is sometimes called a “billing agreement,” "subscription," "recurring payment,” “reference transaction,” "pre-approved payment" or "automatic payment".
 
-|     |     |
-| --- | --- |
 | If you receive preauthorized payments from buyers: |     |
+| --- | --- |
 | You must: | You must not: |
 | Get each buyer’s prior authorization for the amount, frequency, and duration of any such payment. | Restart future payments without the buyer’s written authorization, if a buyer has stopped or canceled a preauthorized payment. |
 | Provide a simple and easily accessible online cancelation procedure, if buyers sign up for preauthorized payments online. |
