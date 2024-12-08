@@ -14,6 +14,8 @@
     
     [Console Variations](https://consolevariations.com/) [HiddenPalace](https://hiddenpalace.org/) [SnesCentral](https://snescentral.com/) [64History](https://64history.net/)
     
+* [OG Discord](https://discord.gg/ajjaxaD86c)
+    
 
 * [Latest activity](https://www.obscuregamers.com/whats-new/latest-activity)
     
