@@ -112,7 +112,7 @@ We may change this Privacy Policy from time to time. If we make changes, we will
 
 _Last updated: November 14, 2024_
 
-_“Dave asks questions that get to the root of the problem but doesn't stop there. He offers suggestions, options or will discuss pros and cons about solutions you might have in mind. He researches things and always gets back to you with an answer.”_
+_“Before, it felt like torture to be in my own skin. I beat myself up for everything and guilt ruled my whole life. When I started therapy, I couldn’t cope with life at all. After working with Dave, I’m not beating myself up compulsively and I feel hopeful about the future for the first time in a long time.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
