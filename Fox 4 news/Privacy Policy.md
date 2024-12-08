@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188570368-scaled.jpg?ve=1&tl=1)
+ [![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1)
 
- ![Notre Dame reopens 5 years after devastating fire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188570368-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/notre-dame-reopens-live)
+ ![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
 
-### [Notre Dame reopens 5 years after devastating fire](https://www.fox4news.com/news/notre-dame-reopens-live)
+### [2 women shot while riding in rideshare in Dallas](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
 
- [![Timothée Chalamet is an SMU football fan, apparently](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188543138.jpg?ve=1&tl=1)
+ [![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/my-project-29-1.jpeg?ve=1&tl=1)
 
- ![Timothée Chalamet is an SMU football fan, apparently](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188543138.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/timothee-chalamet-college-gameday-smu)
+ ![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/my-project-29-1.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
 
-### [Timothée Chalamet is an SMU football fan, apparently](https://www.fox4news.com/sports/timothee-chalamet-college-gameday-smu)
+### [Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
 
- [![Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1838214638-scaled.jpg?ve=1&tl=1)
+ [!['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-507814964-a.jpg?ve=1&tl=1)
 
- ![Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1838214638-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pearl-harbor-day-2024)
+ !['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-507814964-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/duck-dynasty-phil-robertson-alzheimers-disease)
 
-### [Pearl Harbor Day: US honors victims, survivors of attack on 83rd anniversary](https://www.fox4news.com/news/pearl-harbor-day-2024)
+### ['Duck Dynasty' star Phil Robertson diagnosed with Alzheimer's disease](https://www.fox4news.com/news/duck-dynasty-phil-robertson-alzheimers-disease)
 
- [![Klyde Warren Park tree lighting ceremony on Saturday](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/V_KLYDE-WARREN-TREE-LIGHTING-4A_KDFW027c_146_mxf_00.00.28.16.jpg?ve=1&tl=1)
+ [![No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188462540.jpg?ve=1&tl=1)
 
- ![Klyde Warren Park tree lighting ceremony on Saturday](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/V_KLYDE-WARREN-TREE-LIGHTING-4A_KDFW027c_146_mxf_00.00.28.16.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/klyde-warren-park-tree-lighting-ceremony-saturday)
+ ![No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188462540.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
 
-### [Klyde Warren Park tree lighting ceremony on Saturday](https://www.fox4news.com/news/klyde-warren-park-tree-lighting-ceremony-saturday)
+### [No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
 
- [![Frisco Police: 3 found dead inside home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1)
+ [![Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2186838419.jpg?ve=1&tl=1)
 
- ![Frisco Police: 3 found dead inside home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Frisco-police-department-generic-Frisco-PD.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/frisco-3-dead-bancroft-lane)
+ ![Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186838419.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-cheerleader-cade-york-zoe-dale)
 
-### [Frisco Police: 3 found dead inside home](https://www.fox4news.com/news/frisco-3-dead-bancroft-lane)
+### [Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://www.fox4news.com/news/dallas-cowboys-cheerleader-cade-york-zoe-dale)
 
 ###### [News](https://www.fox4news.com/news)
 
