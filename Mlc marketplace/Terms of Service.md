@@ -1,6 +1,6 @@
 □
 
-                                                                Terms & Conditions - Muscat Livestock                                                     
+                                                                                      Terms & Conditions - Muscat Livestock                               
 
 [Skip to content](#main-content)
 
@@ -10,6 +10,10 @@
 * [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
 * [WhatsApp](https://wa.me/96892423242 "Muscat Livestock on WhatsApp")
 * [LinkedIn](https://www.linkedin.com/company/muscatlivestock/ "Muscat Livestock on LinkedIn")
+
+Get 10% off by using code DEC10
+
+[**MLS YEAR END SALE**](https://mls.om/pages/new-year-sale "new year sale") is live!
 
 **Fresh AUS** [**Angus**](https://mls.om/collections/australian-black-angus-beef "https://mls.om/collections/australian-black-angus-beef") **and AUS** [**Wagyu**](https://mls.om/collections/australian-wagyu-beef "Australian Wagyu Beef") **beef delivered within 2 hours across Muscat.**
 
