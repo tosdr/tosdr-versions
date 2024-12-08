@@ -646,7 +646,7 @@ San Diego, California
 San Diego, California  
 [More contacts](https://www.eset.com/us/about/contact/)
 
-[United States (EN)](https://www.eset.com/us/)
+[United States (EN)](https://www.eset.com/us/business/resource-center/webinars/how-strong-technical-research-helps-protect-you-better/)
 
 * * *
 
