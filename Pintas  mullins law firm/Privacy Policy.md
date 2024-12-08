@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Mormon scandal: male sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-2-300x201.jpg "Mormon Scandal: Male Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/ "Mormon Scandal: Male Sexual Abuse")
+[![Has sex abuse happened in mormon schools?](https://www.pintas.com/wp-content/uploads/2023/04/mche-lee-PC91Jm1DlWA-unsplash-300x225.jpg "Has Sex Abuse Happened in Mormon Schools?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/ "Has Sex Abuse Happened in Mormon Schools?")
 
-[#### Mormon Scandal: Male Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/has-the-mormon-church-sexually-abused-men/)
+[#### Has Sex Abuse Happened in Mormon Schools?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/did-sexual-abuse-happen-in-mormon-schools/)
 
-[![Evidence for neglect in memory care cases](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-nursing-home-abuse-lawyer-what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care-300x200.jpg "Evidence for Neglect in Memory Care Cases")](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/ "Evidence for Neglect in Memory Care Cases")
+[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
 
-[#### Evidence for Neglect in Memory Care Cases](https://www.pintas.com/faq/what-evidence-do-i-need-to-prove-my-loved-ones-neglect-in-a-memory-care/)
+[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
 
-[![How dangerous is second-hand smoke?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-how-dangerous-is-second-hand-smoke.jpg "How Dangerous Is Second-hand Smoke?")](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/ "How Dangerous Is Second-hand Smoke?")
+[![What are the odds of beating lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/what-are-the-odds-of-beating-lung-cancer.jpg "What Are the Odds of Beating Lung Cancer?")](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/ "What Are the Odds of Beating Lung Cancer?")
 
-[#### How Dangerous Is Second-hand Smoke?](https://www.pintas.com/practice-areas/lung-cancer/how-dangerous-is-second-hand-smoke/)
+[#### What Are the Odds of Beating Lung Cancer?](https://www.pintas.com/lung-cancer/what-are-the-odds-of-beating-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
