@@ -207,28 +207,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt
-
-Syrien-Diktator in Flieger abgehauen — Armee: Assad-Herrschaft vorbei – Rebellen in der Hauptstadt](https://www.bild.de/politik/ausland-und-internationales/fluechtling-assad-offiziere-diktator-in-flieger-abgehauen-6754ab3cb80b742515cb1f7d)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
