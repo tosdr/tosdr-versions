@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Incumbents2010](/assets/logos/IncumbentsGraph04-10.png)](http://www.followthemoney.org/research/institute-research/tea-party-in-the-2010-state-elections-hot-or-tepid)
-
-Look at the power of incumbency.
+[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Screen-Shot-2016-05-12-at-2.21.54-PM.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
