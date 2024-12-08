@@ -43,8 +43,6 @@ Use tab to navigate through the menu items.
 
 Student Log In
 
-[](https://www.sun-sounds.com/cart)
-
 #### Privacy Policy
 
 Cookies notice
