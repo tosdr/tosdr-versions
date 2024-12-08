@@ -207,9 +207,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,13 @@ Latest News
 
 [Ishiba vows to show resolve in run-up to Upper House poll](https://www.japantimes.co.jp/news/2024/12/08/japan/politics/ishiba-upper-house-poll-resolve/ "Ishiba vows to show resolve in run-up to Upper House poll")
 
-7 hours ago
-
 [South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
-
-8 hours ago
 
 [South Korea’s ex-defense chief is detained over martial law episode](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/south-koreas-ex-defense-chief-detained/ "South Korea’s ex-defense chief is detained over martial law episode")
 
-9 hours ago
-
 [Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
 
-9 hours ago
-
 [Japan's crown prince and crown princess return from visit to Turkey](https://www.japantimes.co.jp/news/2024/12/08/japan/japan-crown-prince-turkey-trip/ "Japan's crown prince and crown princess return from visit to Turkey")
-
-9 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
