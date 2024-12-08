@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+        
+        #### [3 men killed after boat capsizes on Mississippi River near Bellevue, Iowa DNR report says](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_360x203.jpg)](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
         
         #### [Hancock County reserve deputy dismissed after allegedly conducting unauthorized traffic stop](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
-        
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/a64b0778-ef0d-4b44-ad4c-8429b65c3097/20240705T181631/a64b0778-ef0d-4b44-ad4c-8429b65c3097_360x203.jpg)](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
-        
-        #### [Galesburg home invasion leads to firearms, cash, and family dog stolen](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+56°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
