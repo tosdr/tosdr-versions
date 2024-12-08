@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a66b83c4-fcad-41bb-8bed-65ea925c55fc/20241208T013255/a66b83c4-fcad-41bb-8bed-65ea925c55fc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a66b83c4-fcad-41bb-8bed-65ea925c55fc/20241208T013255/a66b83c4-fcad-41bb-8bed-65ea925c55fc_360x203.jpg)](https://www.king5.com/article/news/local/seattle/advocates-rally-seattle-victim-services-funding-amid-federal-cuts/281-63ba368b-79dc-422d-9b4e-9c6cecd4c59c)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
         
-        #### [Advocates rally in Seattle for victim services funding amid federal cuts](https://www.king5.com/article/news/local/seattle/advocates-rally-seattle-victim-services-funding-amid-federal-cuts/281-63ba368b-79dc-422d-9b4e-9c6cecd4c59c)
+        #### [Cinco Cosas: La celebración de Año Nuevo en el Needle, Venta de árboles de Navidad y más](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
         
-    *  [![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_16x9.jpg) ![](https://media.king5.com/assets/WGRZ/images/e3faa36a-b92a-4fe0-bab7-2c2557f57d97/20241006T223508/e3faa36a-b92a-4fe0-bab7-2c2557f57d97_360x203.jpg)](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
+    *  [![](https://media.king5.com/assets/KING/images/e3d1503c-d84f-4962-b6d5-3c96a81e2f58/20241208T185201/e3d1503c-d84f-4962-b6d5-3c96a81e2f58_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e3d1503c-d84f-4962-b6d5-3c96a81e2f58/20241208T185201/e3d1503c-d84f-4962-b6d5-3c96a81e2f58_360x203.jpg)](https://www.king5.com/article/life/shopping/buying-toys-budget-toy-insider-runs-down-gift-list/281-e686cf37-4ca2-428b-892b-12c8161859b1)
         
-        #### [This is why flags will be flown at half-staff in Washington on Saturday](https://www.king5.com/article/news/local/why-flags-will-be-flown-at-half-staff-washington-on-saturday/281-48b8cb76-a264-434d-a6f8-cca2ca3a7a2f)
+        #### [Buying toys on a budget: Toy Insider runs down the gift list](https://www.king5.com/article/life/shopping/buying-toys-budget-toy-insider-runs-down-gift-list/281-e686cf37-4ca2-428b-892b-12c8161859b1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b00c505a-e9af-49be-af0f-c39e2bae7de9/20241208T020118/b00c505a-e9af-49be-af0f-c39e2bae7de9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b00c505a-e9af-49be-af0f-c39e2bae7de9/20241208T020118/b00c505a-e9af-49be-af0f-c39e2bae7de9_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/07f40a10-896a-49bc-819e-7ee497c28542/20241208T163350/07f40a10-896a-49bc-819e-7ee497c28542_16x9.jpg) ![](https://media.king5.com/assets/KING/images/07f40a10-896a-49bc-819e-7ee497c28542/20241208T163350/07f40a10-896a-49bc-819e-7ee497c28542_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-46°
+48°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
