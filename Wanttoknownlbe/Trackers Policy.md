@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/je-zal-toch-een-wappie-zijn-falende-vaccins/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/fleur-agema-moet-wil-kleur-bekennen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
