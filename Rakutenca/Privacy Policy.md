@@ -692,13 +692,11 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 10% Cash Back from Rakuten.ca with Dyson Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/304827/en-stickyfooter-1170x60_dyson-1.png "Dyson Coupons, Promo Codes")
+[![Earn 2% Cash Back from Rakuten.ca with Canadian Tire Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/306303/en-stickyfooter-1170x60_canadian-tire2.png "Canadian Tire Coupons, Promo Codes")
 
-was 2.5%, now
+2% Cash Back
 
-10% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/dyson?sourceName=stickyfooter1)
+Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/canadian-tire?sourceName=stickyfooter1)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
