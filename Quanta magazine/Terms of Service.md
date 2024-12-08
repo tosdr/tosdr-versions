@@ -247,17 +247,17 @@ Past Week
 
 _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplakoglu)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Superconductor-Zoo_crMark-Belan-Thumbnail.webp)](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
+
+[#### Exotic New Superconductors Delight and Confound](https://www.quantamagazine.org/exotic-new-superconductors-delight-and-confound-20241206/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
 [![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 
 [#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
 
 _By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
-
-[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
-
-[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
-
-_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
 
 [![A man in a blue suit sits in front of a red mechanical apparatus](https://www.quantamagazine.org/wp-content/uploads/2024/11/RajReddy-cr.ElliottCramer-Thumbnail.jpg)](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
 
