@@ -401,15 +401,21 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/horizontal-brian-thompson.png?ve=1&tl=1)
+
+ ![Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/horizontal-brian-thompson.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/brian-thompson-wife-unitedhealthcare)
+
+### [Slain UnitedHealthcare CEO's wife, boss speak out after hotel murder](https://www.fox4news.com/news/brian-thompson-wife-unitedhealthcare)
+
  [![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1)
 
  ![2 women shot while riding in rideshare in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-inwood-uber-shooting_00.00.02.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
 
 ### [2 women shot while riding in rideshare in Dallas](https://www.fox4news.com/news/2-women-shot-while-riding-rideshare-dallas)
 
- [![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/my-project-29-1.jpeg?ve=1&tl=1)
+ [![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/my-project-30.jpeg?ve=1&tl=1)
 
- ![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/my-project-29-1.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
+ ![Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/my-project-30.jpeg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
 
 ### [Texas House Speaker race: Cook nominated by Republicans; Burrows says he has enough votes](https://www.fox4news.com/news/texas-house-speaker-race-david-cook-dustin-burrows)
 
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188462540.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
 
 ### [No. 2 Texas goes for a title in its first SEC season, but must get by No. 5 Georgia](https://www.fox4news.com/sports/no-2-texas-goes-title-its-first-sec-season-must-get-no-5-georgia)
-
- [![Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2186838419.jpg?ve=1&tl=1)
-
- ![Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186838419.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-cowboys-cheerleader-cade-york-zoe-dale)
-
-### [Dallas Cowboys cheerleader will be cheering for a Bengal on Monday night](https://www.fox4news.com/news/dallas-cowboys-cheerleader-cade-york-zoe-dale)
 
 ###### [News](https://www.fox4news.com/news)
 
