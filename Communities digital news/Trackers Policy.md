@@ -26,21 +26,21 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pixabay-arrest-1200x630.jpg)](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joeyshadesmyers-1200-x-628-1200x630.jpg)](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
 
-[Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+[Media pushing Biden ‘preventive’ pardons but some Dems cool on idea](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-njf-mugshots-1200x630.jpg)](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-assad-1200x630.jpg)](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
 
-[Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+[‘Assad is gone’: Trump responds to Syria’s collapse, reminds Americans ‘it’s not our fight’](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncharrison-1200-x-628-1200x630.jpg)](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trumpz-1200-x-628-1200x630.jpg)](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
 
-[Outgoing DNC chairman advises party to stick with losing narrative](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
+[Zelenskyy slammed for dressing like a bum to meet Trump in Paris](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-olsonkennedy-1200x630.jpg)](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetterman-1200x630.jpg)](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
 
-[Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+[Fetterman rips ‘sh\*tty’ left-wing rag’s ‘inevitable’ spin on the murder of CEO](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetherston-1200x630.jpg)](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
 
@@ -58,9 +58,9 @@ Search for:
 
 [O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-welker-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-1200x630.jpg)
 
-### NBC’s Kristen Welker springs Hegseth drinking smear on Trump, he shuts her down with class](https://americanwirenews.com/nbcs-kristen-welker-springs-hegseth-drinking-smear-on-trump-he-shuts-her-down-with-class/)
+### Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +77,16 @@ Search for:
 ### [‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogancovid-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+
+[Joe Rogan responds to House COVID report: ‘ALL the conspiracy theorists were correct’](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-220x180.jpeg)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+
+[Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+
+(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
 
@@ -171,14 +181,6 @@ CFOTO/Future Publishing via Getty Images
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
 [Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tania-fernandes-anderson-220x180.jpg)](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
-
-[‘Formerly undocumented immigrant’ who became Boston city councilor arrested on public corruption charges](https://americanwirenews.com/formerly-undocumented-immigrant-who-became-boston-city-councilor-arrested-on-public-corruption-charges/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-burning-candles-220x180.jpg)](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
-
-[Air fresheners, candles, incense emit chemicals and ‘toxic gases’ linked to cancer, other diseases, study finds](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
