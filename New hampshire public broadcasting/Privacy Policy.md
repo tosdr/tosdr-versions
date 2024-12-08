@@ -185,10 +185,10 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**December 7, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/december-7-2024-pbs-news-weekend-full-episode-1733601899?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Volkswagen ID. Buzz & 2024 Toyota Land Cruiser** | MotorWeek](https://video.nhpbs.org/video/2025-volkswagen-id-buzz-2024-toyota-land-cruiser-vj4jyj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lost Tombs of Notre Dame Preview** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-preview-dcd8jh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**3 classic songs Brenda Lee performed as a teenager** | American Masters](https://video.nhpbs.org/video/3-classic-songs-brenda-lee-performed-as-a-teenager-9yyxh4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 6, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-6-2024-pbs-news-hour-full-episode-1733461201?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 12/6/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-12624-epfmcb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**December 6, 2024** | Amanpour and Company](https://video.nhpbs.org/video/december-6-2024-tlsg13?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | Journey to America: with Newt and Callista Gingrich](https://video.nhpbs.org/video/trailer-pqxlow?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
