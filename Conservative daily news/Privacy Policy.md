@@ -1,15 +1,15 @@
-Saturday, December 7 2024
+Sunday, December 8 2024
 
 Breaking News
 
+* [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+* [The Incredible Shrinking “Legacy” News Media](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
+* [Judges Rule Against TikTok Citing ‘Grave Threat To National Security’](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
 * [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
 * [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
 * [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
 * [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
 * [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
-* [America In The Age Of Stupidity: Are Democrats Finally Pulling Their Heads Out Of Their Butts?](https://www.conservativedailynews.com/2024/12/america-in-the-age-of-stupidity-are-democrats-finally-pulling-their-heads-out-of-their-butts/)
-* [The Incredible Shrinking Biden Presidency](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-biden-presidency/)
-* [President Joe Biden’s Schedule for Thursday, December 5, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-thursday-december-5-2024/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+    
+    [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+    
+    December 8, 2024
+    
+* [![Mainstream Media Joe Biden bias](https://www.conservativedailynews.com/wp-content/uploads/2024/02/stg020724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
+    
+    [The Incredible Shrinking “Legacy” News Media](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
+    
+    December 8, 2024
+    
+* [![TIKTOK spyware China](https://www.conservativedailynews.com/wp-content/uploads/2023/02/03-tictoc-dy-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
+    
+    [Judges Rule Against TikTok Citing ‘Grave Threat To National Security’](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
+    
+    December 8, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
     
     [Good Samaritan on Trial](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
@@ -160,37 +178,19 @@ Recent Posts
     
     December 5, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/03/House-of-Representatives.jpg)](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
-    
-    [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/gavel-justice-220x150.jfif)](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
-    
-    [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
-    
-    December 5, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5875.webp-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
-    
-    [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
-    
-    December 5, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Why Sen. Schumer Is Rushing Judges Through Senate Confirmation](https://www.thegunpage.com/why-sen-schumer-is-rushing-judges-through-senate-confirmation/10612360)
+* [Understanding The USPSA Classification System](https://www.thegunpage.com/understanding-the-uspsa-classification-system/10612357)
+* [Silencer Saturday #358: A Holiday Suppressed Gift Guide](https://www.thegunpage.com/silencer-saturday-358-a-holiday-suppressed-gift-guide/10612353)
+* [Daniel Penny and the Attempted Murder of Courage: The Dangerous Precedent of Prosecuting Heroes](https://www.thegunpage.com/daniel-penny-and-the-attempted-murder-of-courage-the-dangerous-precedent-of-prosecuting-heroes/10612347)
 * [Review: SIG Sauer ROMEO3MAX PRO Reflex Sight](https://www.thegunpage.com/review-sig-sauer-romeo3max-pro-reflex-sight/10612346)
 * [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
 * [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
 * [TFB Podcast Roundup 158: The December 6th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-158-the-december-6th-roundup/10612345)
 * [7th Circuit Extends Stay; Gun Owners Stuck with Gun Ban Through State’s Appeal](https://www.thegunpage.com/7th-circuit-extends-stay-gun-owners-stuck-with-gun-ban-through-states-appeal/10612339)
 * [The New Q Southpaw](https://www.thegunpage.com/the-new-q-southpaw/10612341)
-* [S&W’s Strange On-Again, Off-Again Facebook Suspension](https://www.thegunpage.com/sws-strange-on-again-off-again-facebook-suspension/10612335)
-* [KommandoStore's New South African Niemoller Rigs](https://www.thegunpage.com/kommandostores-new-south-african-niemoller-rigs/10612337)
-* [Michigan Man Mistakes Special Needs Granddaughter For Burglar And Shoots Her](https://www.thegunpage.com/michigan-man-mistakes-special-needs-granddaughter-for-burglar-and-shoots-her/10612328)
-* [Velocity Systems Reintroduces HK417 Chest Rig](https://www.thegunpage.com/velocity-systems-reintroduces-hk417-chest-rig/10612329)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* JSSWS on [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/#comment-783601)
+* Stanley Warner on [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/#comment-783585)
+* Catherine Skinner on [Sold Out](https://www.conservativedailynews.com/2024/12/sold-out/#comment-783584)
+* [Bill](http://conservativedailynews.com/) on [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/#comment-783583)
 * Cassidy Rodriguez on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783544)
 * Singleshot on [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/#comment-783536)
 * Stanley Warner on [Pardon Me, Is This The Final Lie](https://www.conservativedailynews.com/2024/12/pardon-me-is-this-the-final-lie/#comment-783535)
 * Stanley Warner on [Trump Working His Magic With Tariff Diplomacy](https://www.conservativedailynews.com/2024/12/trump-working-his-magic-with-tariff-diplomacy/#comment-783527)
 * Kevin M. Nadzam on [Joe Biden Confirms his “Contempt” for the American People with his Hunter Biden Pardon](https://www.conservativedailynews.com/2024/12/joe-biden-confirms-his-contempt-for-the-american-people-with-his-hunter-biden-pardon/#comment-783526)
-* charles wilkins on [Another Broken Promise…](https://www.conservativedailynews.com/2024/12/another-broken-promise-2/#comment-783524)
-* charles wilkins on [First Kid’s Immunity](https://www.conservativedailynews.com/2024/12/first-kids-immunity/#comment-783523)
-* charles wilkins on [Turkey Day](https://www.conservativedailynews.com/2024/11/turkey-day-2/#comment-783510)
-* Stanley Warner on [A World of Leverage](https://www.conservativedailynews.com/2024/11/a-world-of-leverage/#comment-783463)
 
 [Close](#)
 
