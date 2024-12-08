@@ -1,12 +1,12 @@
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=11398210&cs_ucfr=1&cv=4.4.0&cj=1) />
 
-December 4, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 7, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [![The Hindu Logo](https://www.thehindu.com/theme/images/th-online/thehindu-logo.svg "The Hindu Logo")](https://www.thehindu.com/)
 
 LOGIN[Account](https://www.thehindu.com/myaccount/)
 
-[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton) [Subscribe](https://www.thehindu.com/subscription/) [FRAME FRONT PAGE](https://www.thehindu.com/frontpage/)
+[FREE TRIAL](https://www.thehindu.com/subscription/freetrial/?utm_source=TheHindu&utm_medium=section&utm_campaign=FTbutton) [Subscribe](https://www.thehindu.com/subscription/) [GIFT FRONT PAGE](https://www.thehindu.com/frontpage/)
 
 [](https://www.thehindu.com/search/)
 
@@ -106,7 +106,7 @@ SECTION
 
 [Life & Style](https://www.thehindu.com/life-and-style/) [Fashion](https://www.thehindu.com/life-and-style/fashion/) [Fitness](https://www.thehindu.com/life-and-style/fitness/) [Homes and gardens](https://www.thehindu.com/life-and-style/homes-and-gardens/) [Luxury](https://www.thehindu.com/life-and-style/luxury/) [Motoring](https://www.thehindu.com/life-and-style/motoring/) [Travel](https://www.thehindu.com/life-and-style/travel/)
 
-[Lit For Life](https://www.thehindu.com/litfest/)
+[Lit For Life](https://www.thehindu.com/lit-for-life/)
 
 News
 
@@ -190,7 +190,7 @@ Today's Cache Your download of the top 5 technology stories of the day.](https:/
 
 Connect with us[](https://whatsapp.com/channel/0029VaAvwQJ90x34WZ6FDg36 "WhatsApp")[](https://twitter.com/The_Hindu "Twitter")[](https://www.facebook.com/thehindu "Facebook")[](https://www.instagram.com/the_hindu/?ref=badge "Instagram")[](https://www.linkedin.com/school/the-hindu/ "Linkedin")[](https://www.youtube.com/user/The1878Hindu "Youtube")[](https://open.spotify.com/show/5yESTCj0iikA81EP3uXkQC "Spotify")[](https://t.me/THnewsupdates "Telegram")
 
-December 4, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
+December 7, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&utm_medium=Menu&utm_campaign=Header&_gl=1*1u4uvwa*_gcl_au*NDk4ODM2Nzc2LjE3MjUwNzc4OTIuNTIxNjMwNzI4LjE3MjU0NDM0NDkuMTcyNTQ0MzQ0OQ..)
 
 [Search for topics, people, articles...](https://www.thehindu.com/search/)
 
@@ -200,7 +200,7 @@ December 4, 2024[e-Paper](https://epaper.thehindu.com/reader?utm_source=Hindu&ut
 
 Events
 
-[Lit for Life](https://www.thehindu.com/litfest/) [The Huddle](https://www.thehindu.com/the-huddle/)
+[Lit for Life](https://www.thehindu.com/lit-for-life/) [The Huddle](https://www.thehindu.com/the-huddle/)
 
 * [ABOUT US](https://www.thehindu.com/aboutus/)
 * [TERMS OF USE](https://www.thehindu.com/termsofuse/)
@@ -627,7 +627,7 @@ Effective Date - 18th January 2023
 
 ##### Trending on The Hindu
 
-[News](https://www.thehindu.com/news/) [Parliament winter session day 8 LIVE](https://www.thehindu.com/news/national/parliament-winter-session-day-8-2024-live-updates-december-4/article68945106.ece) [Maharashtra CM, Govt formation LIVE](https://www.thehindu.com/elections/maharashtra-assembly/maharashtra-government-formation-chief-minister-live-updates-december-4/article68945075.ece) [World Chess Championship](https://www.thehindu.com/sport/other-sports/world-chess-championship-gukeshs-heist-in-third-game-should-keep-him-in-good-stead/article68924631.ece) [Chennai school holiday - 27 Nov 2024](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-holiday-for-schools-in-chennai-chengalpattu-and-kancheepuram/article68916348.ece) [Morning digest Nov 29](https://www.thehindu.com/news/morning-digest-november-29-2024/article68925574.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Tulsi Gabbard news](https://www.thehindu.com/news/international/trump-taps-former-democrat-tulsi-gabbard-as-us-intel-chief-senator-marco-rubio-as-secretary-of-state/article68865674.ece) [Haryana earthquake](https://www.thehindu.com/news/national/haryana/mild-tremors-of-magnitude-3-on-richter-scale-hit-haryana/article68858374.ece) [AMD Layoffs](https://www.thehindu.com/sci-tech/technology/amd-to-cut-4-of-global-workforce-as-it-focuses-on-ai-chip-development/article68866599.ece)
+[India vs Australia Live , 2nd Test Day 2](https://www.thehindu.com/sport/cricket/india-australia-pink-ball-second-test-day-2-december-7/article68957731.ece) [News](https://www.thehindu.com/news/) [Live news](https://www.thehindu.com/topic/live-news/) [Latest cricket news](https://www.thehindu.com/sport/cricket/) [RBI Monetary Policy Committee](https://www.thehindu.com/business/Economy/rbi-monetary-policy-committee-repo-rate-unchanged-shaktikanta-das-december-6-2024/article68953744.ece) [Delhi Chalo march](https://www.thehindu.com/news/national/farmers-march-delhi-police-on-alert-security-deployed-at-border-points/article68953651.ece) [Pushpa 2 review](https://www.thehindu.com/entertainment/movies/pushpa-2-the-rule-movie-review-what-is-your-point-pushpa/article68946633.ece) [Bengaluru metro’s Pink Line to be opened by December 2025](https://www.thehindu.com/news/cities/bangalore/bengaluru-metros-pink-line-to-be-opened-by-december-2025-blue-line-to-kia-by-2026/article68923599.ece) [Pushpa 2 Stampede](https://www.thehindu.com/news/cities/Hyderabad/pushpa-2-stampede-producers-says-they-are-committed-to-stand-by-young-boy-undergoing-treatment/article68950368.ece) [Proba 3 mission: ISRO successfully launches PSLV-C59](https://www.thehindu.com/sci-tech/science/isro-successfully-launches-pslv-c59-rocket-with-european-space-agencys-proba-3-satellites/article68950571.ece)
 
 ##### Trending on Group sites
 
