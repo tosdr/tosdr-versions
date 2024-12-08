@@ -7,6 +7,8 @@
             MetLife Stadium](https://www.songkick.com/concerts/42310081-kendrick-lamar-at-metlife-stadium)
         *  [![Vundabar Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Vundabar  
             White Eagle Hall](https://www.songkick.com/concerts/42309197-vundabar-at-white-eagle-hall)
+        *  [![Murphy's Law Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Murphy's Law  
+            White Eagle Hall](https://www.songkick.com/concerts/42309204-murphys-law-at-white-eagle-hall)
         *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
             White Eagle Hall](https://www.songkick.com/concerts/42281797-damned-at-white-eagle-hall)
         *  [![Mannequin Pussy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mannequin Pussy  
@@ -41,9 +43,9 @@
         
         *  [![Real Boston Richey Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Real Boston Richey](https://www.songkick.com/artists/10357617-real-boston-richey)
         *  [![Max McNown Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Max McNown](https://www.songkick.com/artists/10357429-max-mcnown)
+        *  [![Jey Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Jey](https://www.songkick.com/artists/10357358-jey)
         *  [![Mach-Hommy Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mach-Hommy](https://www.songkick.com/artists/10357141-machhommy)
-        *  [![Stunna Girl Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Stunna Girl](https://www.songkick.com/artists/10356951-stunna-girl)
-        *  [![FAVE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) FAVE](https://www.songkick.com/artists/10356849-fave)
+        *  [![Boy Wonder CF Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Boy Wonder CF](https://www.songkick.com/artists/10357027-boy-wonder-cf)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
