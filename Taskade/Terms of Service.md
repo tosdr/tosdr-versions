@@ -500,7 +500,11 @@ We welcome any comment, question and communication at [\[email protected\]](htt
 
 [Microsoft Store](https://www.microsoft.com/p/taskade/9p1jh1d9bg26)
 
-[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Taskade Feedback](https://www.taskade.com/feedback)[Taskade Forum](https://forum.taskade.com/)[Facebook Group](https://www.facebook.com/groups/taskade)[Taskade Updates](https://taskade.com/v/B1Q8lMxIfG)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Taskade Blog](https://www.taskade.com/blog/)[Taskade Changelog](https://forum.taskade.com/changelog)[Taskade Events](https://www.taskade.com/events/)[Youtube](https://www.youtube.com/taskade)[Instagram](https://www.instagram.com/taskade/)[TikTok](https://www.tiktok.com/@taskade)[Twitter](https://x.com/taskade)
+[Chrome](https://chrome.google.com/webstore/detail/taskade/hcobdfnjjaceclfdjpmmpiknimccjpmf?hl=en-US)[Firefox](https://addons.mozilla.org/en-US/firefox/addon/taskade-app/)[Edge](https://microsoftedge.microsoft.com/addons/detail/oocnohmkpeeideflaepaogbgkgdggdic)[Community](https://www.taskade.com/community)[Taskade Feedback](https://www.taskade.com/feedback)[Taskade Forum](https://forum.taskade.com/)[Facebook Group](https://www.facebook.com/groups/taskade)
+
+See all ▼
+
+[Taskade Updates](https://taskade.com/v/B1Q8lMxIfG)[Telegram](https://t.me/Taskade)[Discord](https://discord.gg/8XudSC4zcq)[Reddit](https://www.reddit.com/r/taskade)[Taskade Blog](https://www.taskade.com/blog/)[Taskade Changelog](https://forum.taskade.com/changelog)[Taskade Events](https://www.taskade.com/events/)[Youtube](https://www.youtube.com/taskade)[Instagram](https://www.instagram.com/taskade/)[TikTok](https://www.tiktok.com/@taskade)[Twitter](https://x.com/taskade)
 
 [Products](https://www.taskade.com/ai)[Taskade AI](https://www.taskade.com/ai/app)[AI Chat](https://www.taskade.com/ai/chat)[AI Tasks](https://www.taskade.com/ai/tasks)[AI Notes](https://www.taskade.com/ai/notes)[AI Writer](https://www.taskade.com/ai/writer)[AI Outline](https://www.taskade.com/ai/outline)[AI Agency](https://www.taskade.com/ai/agency)
 
