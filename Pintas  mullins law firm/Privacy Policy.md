@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do nursing homes deal with understaffing?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-how-do-nursing-homes-deal-with-understaffing-300x200-1.jpg "How Do Nursing Homes Deal With Understaffing?")](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/ "How Do Nursing Homes Deal With Understaffing?")
+[![St. Louis personal injury lawyers](https://www.pintas.com/wp-content/uploads/2020/05/rockford-personal-injury-lawyer.jpg "St. Louis Personal Injury Lawyers")](https://www.pintas.com/near-me/missouri/st-louis/personal-injury-lawyer "St. Louis Personal Injury Lawyers")
 
-[#### How Do Nursing Homes Deal With Understaffing?](https://www.pintas.com/faq/how-do-nursing-homes-deal-with-understaffing/)
+[#### St. Louis Personal Injury Lawyers](https://www.pintas.com/near-me/missouri/st-louis/personal-injury-lawyer)
 
-[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
+[![Handling medical bills in injury settlements](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-do-you-have-to-pay-your-medical-bills-from-a-personal-injury-settlement.jpg "Handling Medical Bills in Injury Settlements")](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement "Handling Medical Bills in Injury Settlements")
 
-[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
+[#### Handling Medical Bills in Injury Settlements](https://www.pintas.com/practice-areas/personal-injury/do-you-have-to-pay-medical-bills-from-personal-injury-settlement)
 
-[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
+[![What are the effects of elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-effects-of-elder-abuse-scaled.jpg "What Are the Effects of Elder Abuse?")](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/ "What Are the Effects of Elder Abuse?")
 
-[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
+[#### What Are the Effects of Elder Abuse?](https://www.pintas.com/faq/what-are-the-effects-of-elder-abuse/)
 
 ### Injured?  
 Tell Us What Happened.
