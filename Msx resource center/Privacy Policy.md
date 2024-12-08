@@ -139,6 +139,7 @@ Latest reactions
 
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
+* [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
@@ -146,23 +147,22 @@ Latest reactions
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 * [Hegega booth](https://www.msx.org/photoshoots/hegega-booth "Hegega booth")
-* [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
 
 Latest forum posts
 
+* [Konami Collection - SHMUP Collection - Companies Collection](https://www.msx.org/forum/msx-talk/software/konami-collection-shmup-collection-companies-collection "Konami Collection - SHMUP Collection - Companies Collection")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=12 "Christmas Quiz 2024")
+* [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx "SCC cartridge with 16 MegaBytes on MSX !")
+* [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
+* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
+* [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing?page=1 "Gemini Wing")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
 * [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
 * [The Goonies (enhanced)](https://www.msx.org/forum/msx-talk/development/the-goonies-enhanced "The Goonies (enhanced)")
 * [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=11 "Christmas Quiz 2024")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [MO5.com is making a MSX game](https://www.msx.org/forum/msx-talk/development/mo5com-is-making-a-msx-game?page=1 "MO5.com is making a MSX game")
-* [MegaDoom by FCS](https://www.msx.org/forum/msx-talk/software/megadoom-by-fcs "MegaDoom by FCS")
-* [problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST](https://www.msx.org/forum/msx-talk/hardware/problem-running-firmware-of-yamaha-sfg-05-on-turbor-fs-a1st?page=1 "problem running firmware of Yamaha SFG-05 on TurboR FS-A1ST")
-* [Yamaha YRM-103 compatibility](https://www.msx.org/forum/msx-talk/software/yamaha-yrm-103-compatibility "Yamaha YRM-103 compatibility")
-* [Three custom levels to Kings Valley 1 Plus](https://www.msx.org/forum/msx-talk/software/three-custom-levels-to-kings-valley-1-plus?page=1 "Three custom levels to Kings Valley 1 Plus")
-* [Full English translation of Illusion City for MSX Turbo-R](https://www.msx.org/forum/msx-talk/software/full-english-translation-of-illusion-city-for-msx-turbo-r?page=17 "Full English translation of Illusion City for MSX Turbo-R")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
