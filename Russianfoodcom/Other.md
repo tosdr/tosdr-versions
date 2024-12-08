@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -149,15 +149,15 @@
 Сейчас читают
 
 * [Зразы из риса с грибами](https://www.russianfood.com/recipes/recipe.php?rid=166741)
-* [Творог с сыром](https://www.russianfood.com/recipes/recipe.php?rid=5679)
-* [Бутерброды с ягодами](https://www.russianfood.com/recipes/recipe.php?rid=7582)
-* [Липтавский сыр (бутербродная масса)](https://www.russianfood.com/recipes/recipe.php?rid=10056)
-* [«Малюткам на заметку»](https://www.russianfood.com/recipes/recipe.php?rid=11158)
 * [Хачапури с фруктами](https://www.russianfood.com/recipes/recipe.php?rid=14975)
-* [Вяленое мясо от Наталии Орейро](https://www.russianfood.com/recipes/recipe.php?rid=20877)
-* [Салат из овощей и творога](https://www.russianfood.com/recipes/recipe.php?rid=23636)
-* [Закуска из моркови и творога](https://www.russianfood.com/recipes/recipe.php?rid=23674)
-* [Закуска из яиц и творога](https://www.russianfood.com/recipes/recipe.php?rid=23676)
+* [Персиковый торт](https://www.russianfood.com/recipes/recipe.php?rid=30118)
+* [Торт творожный](https://www.russianfood.com/recipes/recipe.php?rid=40495)
+* [«Ленивый» пудинг](https://www.russianfood.com/recipes/recipe.php?rid=40540)
+* [Пшенная каша на молоке с творогом](https://www.russianfood.com/recipes/recipe.php?rid=41959)
+* [Домашняя лазанья](https://www.russianfood.com/recipes/recipe.php?rid=42991)
+* [Пшенная каша с изюмом и творогом](https://www.russianfood.com/recipes/recipe.php?rid=43056)
+* [Салат из зеленого лука с творогом](https://www.russianfood.com/recipes/recipe.php?rid=43230)
+* [Творожные рожки](https://www.russianfood.com/recipes/recipe.php?rid=43352)
 
 |     |
 | --- |
@@ -276,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22966#comments) | 07.12.24 |     |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22966#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +290,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -304,7 +304,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -318,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_29 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_32 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -461,8 +461,8 @@
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
-| [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) | [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+| [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753060.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758033.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756953.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174803) |
+| [Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) | [Котлеты из брокколи, овсянки и сыра](https://www.russianfood.com/recipes/recipe.php?rid=174928) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Закусочные шарики с крабовыми палочками, сыром и красной рыбой](https://www.russianfood.com/recipes/recipe.php?rid=174803) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(148)
+(102)
