@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Elemental Panic Crash](https://www.myabandonware.com/game/elemental-panic-crash-tov)
+* [Machines of Destruction](https://www.myabandonware.com/game/machines-of-destruction-toa)
+* [Factor X](https://www.myabandonware.com/game/factor-x-tmq)
 * [Dr. Doc](https://www.myabandonware.com/game/dr-doc-tmo)
 * [Douglas Circumstance](https://www.myabandonware.com/game/douglas-circumstance-tmn)
-* [Commando](https://www.myabandonware.com/game/commando-tmm)
-* [The Brick](https://www.myabandonware.com/game/the-brick-6y0)
-* [Master of Monsters Final: Rings of Twilight](https://www.myabandonware.com/game/master-of-monsters-final-rings-of-twilight-thn)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
