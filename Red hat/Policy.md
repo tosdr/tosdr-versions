@@ -33,7 +33,6 @@ Featured links
         * [Learning community](https://learn.redhat.com/)
         * [Red Hat TV](https://tv.redhat.com/)
     * Open source communities
-        * [Ansible](https://www.ansible.com/community)
         * [Global advocacy](https://access.redhat.com/accelerators)
         * [How we contribute](https://www.redhat.com/en/about/our-community-contributions)
     
@@ -143,7 +142,7 @@ Featured links
 
 ### Articles
 
-* [What is edge computing?](https://www.redhat.com/en/topics/edge-computing/what-is-edge-computing)
+* [What is edge computing?](https://www.redhat.com/en/topics/edge-computing/what-is-edge-computing-1)
 * [Red Hat OpenShift vs. Kubernetes](https://www.redhat.com/en/technologies/cloud-computing/openshift/red-hat-openshift-kubernetes-1)
 * [Learning Ansible basics](https://www.redhat.com/en/topics/automation/learning-ansible-tutorial-1)
 
@@ -232,7 +231,6 @@ Learning resources
 
 Open source communities
 
-* [Ansible](https://www.ansible.com/community)
 * [Global advocacy](https://access.redhat.com/accelerators)
 * [How we contribute](https://www.redhat.com/en/about/our-community-contributions)
 
