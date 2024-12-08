@@ -167,6 +167,30 @@ By continuing to use our services you agree to our updated terms & privacy polic
 
 Thank you for your message.
 
+I need help with  
+
+Cancel subscription
+
+Find license key
+
+Something else
+
+You can find your Sejda Desktop license key on your account page:  
+[https://www.sejda.com/account](https://www.sejda.com/account?justUpgraded=desktop)
+
+You purchased a Web-only plan that does not include access to Sejda Desktop.  
+[https://www.sejda.com/upgrade](https://www.sejda.com/upgrade#pricing)  
+  
+Here are plans with Desktop access:  
+[https://www.sejda.com/desktop](https://www.sejda.com/desktop#pricing)  
+  
+Once you've purchased a Desktop plan your Web-only purchase will be automatically refunded.
+
+You can cancel your subscription from your account page by clicking on "Stop auto-renewal" next to your subscription:  
+[https://www.sejda.com/account](https://www.sejda.com/account)
+
+The Week Pass plan is a one-time charge, not a recurring subscription. It does not automatically renew and downgrades to free after 7 days.
+
 1
 
 2
