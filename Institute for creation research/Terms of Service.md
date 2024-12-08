@@ -165,63 +165,67 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Back to Genesis
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/whom-shall-i-fear?)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/texas_sized_spider.jpg)](https://www.icr.org/article/a-texas-size-spider-mystery)
 
-[Whom Shall I Fear?](https://www.icr.org/article/whom-shall-i-fear?/)
+[A Texas-Size Spider Mystery](https://www.icr.org/article/a-texas-size-spider-mystery/)
 
-“The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?” (Psalm 27:1) David...
+The delightfully creepy spider belongs to a class called Arachnida—which is distinct from the “bug” class Insecta. Not surprisingly,...
 
-BY: [JOHN D. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=26)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/transforming-light)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/vertebrate_origins_ropes.jpg)](https://www.icr.org/article/vertebrate-origins-on-the-ropes-again)
 
-[The Transforming Light of Salvation](https://www.icr.org/article/transforming-light/)
+[Vertebrate Origins on the Ropes...Again](https://www.icr.org/article/vertebrate-origins-on-the-ropes-again/)
 
-“For God, who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God...
+In 1859, the Western world was turned upside down by the publication of Charles Darwin’s The Origin of Species by Means of Natural Selection or...
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sanctified-preserved-called)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/toe_yoga.jpg)](https://www.icr.org/article/toe-yoga-and-genesis-3)
 
-[Sanctified, Preserved, Called](https://www.icr.org/article/sanctified-preserved-called/)
+[Toe Yoga and Genesis 3](https://www.icr.org/article/toe-yoga-and-genesis-3/)
 
-“Jude, the servant of Jesus Christ, and brother of James, to them that are sanctified by God the Father, and preserved in Jesus Christ, and...
+I’ve suffered from heel pain for over a decade. I just want to be able to run, but sometimes I can barely even walk. I learned that I need to...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
 
-$
+Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
+$9.99
 
-The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
+$15.99
 
-$13.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10473887/file.jpg)
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
-Christian Education for the Real World](https://store.icr.org/dr-henry-morris-christian-education-for-the-real-w.html)
+$2.99
 
-$10.99
+$7.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16087568/file.jpg)
 
-The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
-
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
+Ancient and Fossil Bone Collagen Remnants](https://store.icr.org/ancient-and-fossil-bone-collagen-remnants.html)
 
 $29.99
 
-$34.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474325/file.jpg)
+
+Dinosaurs and the Bible](https://store.icr.org/mr-brian-thomas-dinosaurs-and-the-bible.html)
+
+$4.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/66534950/file.jpg)
+
+Living in Light of Genesis - Audiobook](https://store.icr.org/living-in-light-of-genesis-audiobook.html)
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
