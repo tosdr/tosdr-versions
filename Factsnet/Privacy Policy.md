@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Luke Getsy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/50-facts-about-luke-getsy/)
+[![50 Facts About KCCI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-kcci/)
 
-Sports
+Mass Media
 
-07 Dec 2024
+08 Dec 2024
 
-[50 Facts About Luke Getsy](https://facts.net/lifestyle/sports/50-facts-about-luke-getsy/)
+[50 Facts About KCCI](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-kcci/)
 
-[![15 Facts About Historic Election Night Upsets ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/15-facts-about-historic-election-night-upsets/)
+[![40 Facts About Juan Williams ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-juan-williams/)
 
-Historical Events
+People
 
-07 Dec 2024
+08 Dec 2024
 
-[15 Facts About Historic Election Night Upsets](https://facts.net/history/historical-events/15-facts-about-historic-election-night-upsets/)
+[40 Facts About Juan Williams](https://facts.net/history/people/40-facts-about-juan-williams/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
