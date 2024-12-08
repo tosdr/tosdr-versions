@@ -113,54 +113,54 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
+* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
+    
+    Objectified
+    
+    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
+* [![The Secret Micro Universe: The Cell](/wp-content/thumbnails/6779-100x70.jpg?x53432)
     
-    The Beginning and the End of the Universe
+    The Secret Micro Universe: The Cell
     
-    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+    There is a battle playing out inside your body right now. It started billions of years ago and it is still being fought in every one of us every minute of every day. It is the story of a viral infecti...](https://documentaryheaven.com/the-secret-micro-universe-the-cell/ "The Secret Micro Universe: The Cell")
 
 ###### Throwback Documentaries
 
-* [![School Boys to Soldiers](/wp-content/thumbnails/6435-100x70.jpg?x53432)
+* [![Young Kids, Hard Time](/wp-content/thumbnails/7133-100x70.jpg?x53432)
     
-    School Boys to Soldiers
+    Young Kids, Hard Time
     
-    A short Documentary, following an 18 year old Soldier: Charlie Morris - Cook. As he is home for Christmas with his family before he gets deployed to Afghanistan for the first time.](https://documentaryheaven.com/school-boys-to-soldiers/ "School Boys to Soldiers")
-* [![Drugs, inc: Hash](/wp-content/thumbnails/6373-100x70.jpg?x53432)
+    Young Kids, Hard Time is an American MSNBC TV show which premiered November 20th 2011. The show is about children age 12 to 17 incarcerated as adults in the American prison system. These children have](https://documentaryheaven.com/young-kids-hard-time/ "Young Kids, Hard Time")
+* [![Ireland’s Brexit Trouble](/wp-content/thumbnails/14372-100x70.jpg?x53432)
     
-    Drugs, inc: Hash
+    Ireland’s Brexit Trouble
     
-    A British man, known as Dave Kent has experienced the dangers of hash first-hand. An ex-smuggler imprisoned in a tough North African prison for three years, Dave provides you with an insight into the](https://documentaryheaven.com/drugs-inc-hash/ "Drugs, inc: Hash")
-* [![Dispatches: Undercover Copper](/wp-content/thumbnails/454-100x70.png?x53432)
+    It goes without saying that Northern Ireland has a troubled history, for 30 years loyalists mainly Protestants fought to keep Northern Ireland in the United Kingdom but on the flip side there were rep](https://documentaryheaven.com/irelands-brexit-trouble/ "Ireland’s Brexit Trouble")
+* [![Design: e²](/wp-content/thumbnails/2696-100x70.png?x53432)
     
-    Dispatches: Undercover Copper
+    Design: e²
     
-    Using secret cameras, an experienced policewoman spent four months undercover while serving as a police officer to conduct this revelatory investigation. Gaining unprecedented behind-the-scenes access](https://documentaryheaven.com/dispatches-undercover-copper/ "Dispatches: Undercover Copper")
-* [![Louis and the Brothel](/wp-content/thumbnails/4942-100x70.jpg?x53432)
+    The Green Apple. David Owen, a writer for The New Yorker, discusses the complex issues of sustainability as they relate to urban and suburban life. “Green Manhattan,” an article that Owen wrote for Th](https://documentaryheaven.com/design-e%c2%b2/ "Design: e²")
+* [![Blackadder Rides Again](/wp-content/thumbnails/4771-100x70.jpg?x53432)
     
-    Louis and the Brothel
+    Blackadder Rides Again
     
-    Intrepid TV host Louis Theroux reveals the inside story of day-to-day life in one of America’s largest legal brothels. Over six weeks of a summer, Louis moved in with Lance and Susan, the brothel owne](https://documentaryheaven.com/louis-and-the-brothel/ "Louis and the Brothel")
-* [![EP 4/4 Time – Cosmictime](/wp-content/thumbnails/2287-100x70.jpg?x53432)
+    A 60 minute documentary produced by Tiger Aspect for the BBC and broadcast on 25 December 2008, to celebrate the 25th anniversary of the show. It featured interviews with all of the major cast membe](https://documentaryheaven.com/blackadder-rides-again/ "Blackadder Rides Again")
+* [![History of World War II: Hiroshima](/wp-content/thumbnails/5880-100x70.jpeg?x53432)
     
-    EP 4/4 Time – Cosmictime
+    History of World War II: Hiroshima
     
-    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/ep-44-time-cosmictime/ "EP 4/4 Time – Cosmictime")
+    It was the defining moment of the 20th Century – the scientific, technological, military, and political gamble of the first atomic attack. This drama-documentary attempts to do what no other film has](https://documentaryheaven.com/history-of-world-war-ii-hiroshima/ "History of World War II: Hiroshima")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
