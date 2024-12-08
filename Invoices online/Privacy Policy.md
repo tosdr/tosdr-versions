@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=119446734)  
-Network Grey (Pty) Ltd
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=152932519)  
+FX ACCOUNTING
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=144576855)  
-Imvubu General Trading
+![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=33012836)  
+UMVIKELI PRIVATE SECURITY
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=128643642)  
-Cpower Projects t/a Pro Pure Water
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=172673574)  
+Dr V Naik Consult
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=47966011)  
-AFS Electrical
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=196787258)  
+SLOANE STAR MEAT MARKET
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=207988362)  
-United Paintball Federation
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=171434515)  
+Kaylas Creations
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=58530510)  
-Safe-Train Consulting (PTY) Ltd
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=72478684)  
+Nilbet T/A Waterman
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=57507376)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=125205634)  
+One2b
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=137684682)  
-SafeTclip
+![valued client CLEVER STUDENTS](https://www.invoicesonline.co.za/scripts/image.php?bid=1995&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=88849586)  
+CLEVER STUDENTS
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=71355248)  
-Karino Merinos ( PTY ) LTD
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=123306088)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=165411328)  
-#DiGi3 Marketing & Design
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=74296991)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=84832014)  
-Well Hung Art
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=157381695)  
+WIP Digital Solutions
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=98421682)  
-Three Moons Emporium
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=34678582)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=53060007)  
-Imhoff Equestrian Centre
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=197056782)  
+BD Maintenance
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=116631547)  
-Gemini-IT Group
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=65770852)  
+Alliance Energy
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=e8e88044d4c55339501b34f58e61255e12a6ff561b74feb690f6e50cabe5de6f&c=193955751)  
-APTV Telecoms CC
+![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=2f613484f4fe54246f9f9f44898a7e1712a516193537b9912f730b866ce57155&c=154841624)  
+van Schaik rentals
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
