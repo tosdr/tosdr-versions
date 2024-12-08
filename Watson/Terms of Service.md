@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)4°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
+* [Syrie](https://www.watson.ch/fr/syrie/)
+* [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
+* [guerre](https://www.watson.ch/fr/guerre/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [Hockey sur glace](https://www.watson.ch/fr/hockey-sur-glace/)
-* [France](https://www.watson.ch/fr/france/)
+* [Santé](https://www.watson.ch/fr/sante/)
+* [Europe](https://www.watson.ch/fr/europe/)
 * [Russie](https://www.watson.ch/fr/russie/)
+* [Cybercrime](https://www.watson.ch/fr/cybercrime/)
+* [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
+* [Sexe](https://www.watson.ch/fr/sexe/)
+* [France](https://www.watson.ch/fr/france/)
 * [Super League](https://www.watson.ch/fr/super-league/)
 * [Histoire](https://www.watson.ch/fr/histoire/)
 * [Suisse romande](https://www.watson.ch/fr/suisse-romande/)
-* [Corée du Sud](https://www.watson.ch/fr/coree-du-sud/)
-* [Marco Odermatt](https://www.watson.ch/fr/marco-odermatt/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Ski](https://www.watson.ch/fr/ski/)
-* [Fribourg](https://www.watson.ch/fr/fribourg/)
+* [Roumanie](https://www.watson.ch/fr/roumanie/)
 * [Allemagne](https://www.watson.ch/fr/allemagne/)
 * [tradition](https://www.watson.ch/fr/tradition/)
-* [Ski Alpin](https://www.watson.ch/fr/ski-alpin/)
-* [Genève](https://www.watson.ch/fr/geneve/)
 * [Union Européenne](https://www.watson.ch/fr/union-europeenne/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [Paris](https://www.watson.ch/fr/paris/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
