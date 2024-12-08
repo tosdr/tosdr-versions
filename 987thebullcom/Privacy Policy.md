@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Country Girl (Shake It For Me)Luke Bryan<br><br>10:38am |
-| Miles On ItKane Brown Ft Marshmello<br><br>10:35am |
-| Just Like JohnnyRedferrin<br><br>10:32am |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:29am |
-| 23Chayce Beckham<br><br>10:25am |
+| Am I OkMegan Moroney<br><br>4:38pm |
+| Get Me Some Of ThatThomas Rhett<br><br>4:35pm |
+| Miles On ItKane Brown Ft Marshmello<br><br>4:32pm |
+| Somethin Bout A TruckKip Moore<br><br>4:26pm |
+| World On FireNate Smith<br><br>4:23pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-News Talk • Eastern
+Sports • Midwest
 
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
