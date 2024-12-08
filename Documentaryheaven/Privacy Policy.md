@@ -113,16 +113,16 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Skinheads USA: Soldiers of the Race War](/wp-content/thumbnails/888-100x70.jpg?x53432)
+* [![Serial Killers: Ted Bundy](/wp-content/thumbnails/2467-100x70.jpg?x53432)
     
-    Skinheads USA: Soldiers of the Race War
+    Serial Killers: Ted Bundy
     
-    "This documentary takes you inside to an actual neo-Nazi Skinhead organization for a extended look at the methods and mentality that fuel the White Power youth movement in America. Focusing on the Ala](https://documentaryheaven.com/skinheads-usa-soldiers-of-the-race-war/ "Skinheads USA: Soldiers of the Race War")
-* [![B.T.K.: The Worlds Most Elusive Serial Killer](/wp-content/thumbnails/4393-100x70.jpg?x53432)
+    The first in a great series of documentaries filmed for A&E Biography channel about real life killers and nut jobs.](https://documentaryheaven.com/serial-killers-ted-bundy/ "Serial Killers: Ted Bundy")
+* [![Who is Nelson Mandela?](/wp-content/thumbnails/8358-100x70.jpg?x53432)
     
-    B.T.K.: The Worlds Most Elusive Serial Killer
+    Who is Nelson Mandela?
     
-    n 1974, the BTK serial killer terrorised the people of Kansas. Known for binding, torturing and killing men, women and children, he taunted police with his letters for 5 years before mysteriously disa](https://documentaryheaven.com/the-worlds-most-elusive-serial-killer/ "B.T.K.: The Worlds Most Elusive Serial Killer")
-* [![Before the Flood](/wp-content/thumbnails/12694-100x70.jpg?x53432)
+    For many people, Nelson Mandela was the greatest human to be alive in their lifetime. Everyone, including the most famous celebrities, wanted to get close to him. So who was Nelson Mandela? Born in So](https://documentaryheaven.com/who-nelson-mandela/ "Who is Nelson Mandela?")
+* [![Galileo](/wp-content/thumbnails/11736-100x70.jpeg?x53432)
     
-    Before the Flood
+    Galileo
     
-    Before The Flood is a documentary brought to us by the Academy Award-winning filmmaker Fisher Stevens and the Academy Award-winning actor, and environmental activist Leonardo DiCaprio. It was filmed o](https://documentaryheaven.com/before-flood/ "Before the Flood")
-* [![Elliot Rodger: The Virgin Killer](/wp-content/thumbnails/9621-100x70.jpg?x53432)
+    It was a time of discord in the Christian world, threatened by the Protestant Reformation the Roman Catholic Church demanded strict adherence to its dogma enforced by the violent threat of inquisition](https://documentaryheaven.com/galileo/ "Galileo")
+* [![Amanda Knox](/wp-content/thumbnails/14062-100x70.jpg?x53432)
     
-    Elliot Rodger: The Virgin Killer
+    Amanda Knox
     
-    Friday May 23rd 2014, a night of horror in the small west coast community of Isla Vista, using a knife, machetes and three semi-automatic hand guns, Eliot Rodger goes on a hate filled killin](https://documentaryheaven.com/elliot-rodger-virgin-killer/ "Elliot Rodger: The Virgin Killer")
-* [![Spell of the Albino](/wp-content/thumbnails/6256-100x70.jpg?x53432)
+    Amanda Knox is an American woman who after being convicted twice for murdering her fellow exchange student and roommate Meredith Kercher back in 2007. After spending nearly four years in an Italian pr](https://documentaryheaven.com/amanda-knox/ "Amanda Knox")
+* [![Fragile People](/wp-content/thumbnails/7531-100x70.jpg?x53432)
     
-    Spell of the Albino
+    Fragile People
     
-    Albinism is a non-contagious, genetically inherited disorder, affecting about 1 in 20,000 men and women around the world, regardless of ethnicity and geographical location. Sufferers are afflicted by](https://documentaryheaven.com/spell-of-the-albino/ "Spell of the Albino")
+    Fragile People gives us a unique insight into the every day life of people who live with osteogenesis imperfecta (OI or brittle bone disease). Even the tiniest movement can lead to serious fractures.](https://documentaryheaven.com/fragile-people/ "Fragile People")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
