@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Single Saturday NightCole Swindell<br><br>6:55pm |
-| 4x4xuLainey Wilson<br><br>6:51pm |
-| Truck BedHardy<br><br>6:48pm |
-| Darlin'Chase Matthew<br><br>6:45pm |
-| Need You NowLady A<br><br>6:37pm |
+| WranglersMiranda Lambert<br><br>4:38am |
+| What'S Your Country SongThomas Rhett<br><br>4:35am |
+| Am I OkMegan Moroney<br><br>4:32am |
+| Love SomebodyMorgan Wallen<br><br>4:28am |
+| I Could Be That RainRandall King<br><br>4:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Country • Western
+Sports • Midwest
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
-
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
-
-News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
