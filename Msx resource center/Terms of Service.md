@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,10 +153,10 @@ Latest reactions
 
 Latest forum posts
 
+* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
 * [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=11 "Christmas Quiz 2024")
-* [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
 * [MO5.com is making a MSX game](https://www.msx.org/forum/msx-talk/development/mo5com-is-making-a-msx-game?page=1 "MO5.com is making a MSX game")
 * [MegaDoom by FCS](https://www.msx.org/forum/msx-talk/software/megadoom-by-fcs "MegaDoom by FCS")
