@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[‘The net is tightening’ on UnitedHealthcare CEO's suspected killer, Eric Adams says](https://nypost.com/2024/12/07/us-news/noose-tightening-on-unitedhealthcare-ceo-brian-thompsons-suspected-killer-eric-adams/)
+[NYPD releases new photos of UnitedHealthcare CEO Brian Thompson's alleged assassin](https://nypost.com/2024/12/07/us-news/united-healthcare-ceo-brian-thompsons-alleged-assassin-seen-in-new-photos-nypd/)
 
 Terms Of Use
 ============
