@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-07 Dec 2024
+08 Dec 2024
 
 * [Home
     
@@ -307,13 +307,6 @@ A Status Yellow Wind warning will remain in effect for all of Ireland until 3pm 
 [Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Seven counties under red wind warning as Storm Darragh nears Ireland](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Seven counties under red wind warning as Storm Darragh nears Ireland")](https://www.derrynow.com/news/northern-ireland/1674938/seven-counties-under-red-wind-warning-as-storm-darragh-nears-ireland.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Seven counties under red wind warning as Storm Darragh nears Ireland](https://www.derrynow.com/news/northern-ireland/1674938/seven-counties-under-red-wind-warning-as-storm-darragh-nears-ireland.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Tributes flood in following the death of iconic Irish singer Dickie Rock](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Tributes flood in following the death of iconic Irish singer Dickie Rock")](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
 
 Pictured: Dickie Rock performing at the Millennium Forum for the last time in 2020.
@@ -323,14 +316,12 @@ Pictured: Dickie Rock performing at the Millennium Forum for the last time in 20
 [President Michael D Higgins leads tributes to 'iconic figure' Dickie Rock](https://www.derrynow.com/news/national-news/1675234/president-michael-d-higgins-leads-tributes-to-iconic-figure-dickie-rock.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely")](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
+[![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
 
-Even the smallest piece of information, which may seem insignificant, may assist the investigation.
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: Coleraine comes alive with festive cheer](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Uisce Éireann activates emergency response amid impact of Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann activates emergency response amid impact of Storm Darragh")](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
 
@@ -340,6 +331,15 @@ There are some simple steps people can take to conserve water, such as avoiding 
 
 [Uisce Éireann activates emergency response amid impact of Storm Darragh](https://www.derrynow.com/news/national-news/1675321/uisce-eireann-activates-emergency-response-amid-impact-of-storm-darragh.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely")](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
+
+Even the smallest piece of information, which may seem insignificant, may assist the investigation.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Gardaí launch appeal on the 24th anniversary of the disappearance of Trevor Deely](https://www.derrynow.com/news/national-news/1675179/gardai-launch-appeal-on-the-24th-anniversary-of-the-disappearance-of-trevor-deely.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
