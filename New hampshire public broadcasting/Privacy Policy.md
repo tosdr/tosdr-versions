@@ -189,10 +189,10 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**2025 Volkswagen ID. Buzz & 2024 Toyota Land Cruiser** | MotorWeek](https://video.nhpbs.org/video/2025-volkswagen-id-buzz-2024-toyota-land-cruiser-vj4jyj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lost Tombs of Notre Dame Preview** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-preview-dcd8jh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**3 classic songs Brenda Lee performed as a teenager** | American Masters](https://video.nhpbs.org/video/3-classic-songs-brenda-lee-performed-as-a-teenager-9yyxh4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Episode 1: The Rival** | Miss Scarlet](https://video.nhpbs.org/video/episode-1-the-rival-othkbe?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**full episode, 12/6/24** | Washington Week with The Atlantic](https://video.nhpbs.org/video/washington-week-with-the-atlantic-full-episode-12624-epfmcb?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**December 6, 2024** | Amanpour and Company](https://video.nhpbs.org/video/december-6-2024-tlsg13?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Trailer** | Journey to America: with Newt and Callista Gingrich](https://video.nhpbs.org/video/trailer-pqxlow?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Trailer** | Violent Femmes: 40th Anniversary with the Milwaukee Symphony](https://video.nhpbs.org/video/trailer-umwskj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
