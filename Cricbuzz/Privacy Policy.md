@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs NZ - Live](https://www.cricbuzz.com/live-cricket-scores/92399/eng-vs-nz-2nd-test-england-tour-of-new-zealand-2024 "England v New Zealand, 2nd Test - Live")[AUSW vs INDW - Live](https://www.cricbuzz.com/live-cricket-scores/92120/ausw-vs-indw-2nd-odi-icc-championship-match-india-women-tour-of-australia-2024 "Australia Women v India Women, 2nd ODI (ICC Championship Match) - Live")[IND vs AUS - Stumps](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-india-tour-of-australia-2024-25 "India v Australia, 2nd Test - Stumps")[RSA vs SL - Stumps](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 2nd Test - Stumps")[BANU19 vs INDU19 - Preview](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - Preview")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[AUSW vs INDW - Live](https://www.cricbuzz.com/live-cricket-scores/92120/ausw-vs-indw-2nd-odi-icc-championship-match-india-women-tour-of-australia-2024 "Australia Women v India Women, 2nd ODI (ICC Championship Match) - Live")[IND vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-india-tour-of-australia-2024-25 "India v Australia, 2nd Test - AUS Won")[ENG vs NZ - ENG Won](https://www.cricbuzz.com/live-cricket-scores/92399/eng-vs-nz-2nd-test-england-tour-of-new-zealand-2024 "England v New Zealand, 2nd Test - ENG Won")[BANU19 vs INDU19 - Live](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - Live")[RSA vs SL - Stumps](https://www.cricbuzz.com/live-cricket-scores/94426/rsa-vs-sl-2nd-test-sri-lanka-tour-of-south-africa-2024 "South Africa v Sri Lanka, 2nd Test - Stumps")
 
 AllLive NowToday
 
@@ -56,13 +56,13 @@ AllLive NowToday
     
     Australia v India
     
-    [India vs Australia](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-australia-v-india "India v Australia, 2nd Test - Stumps")
+    [India vs Australia](https://www.cricbuzz.com/live-cricket-scores/91787/ind-vs-aus-2nd-test-australia-v-india "India v Australia, 2nd Test - AUS Won")
     
     2nd Test
     
 * New Zealand v England, 2024
     
-    [England vs New Zealand  LIVE](https://www.cricbuzz.com/live-cricket-scores/92399/eng-vs-nz-2nd-test-new-zealand-v-england-2024 "England v New Zealand, 2nd Test - Live")
+    [England vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/92399/eng-vs-nz-2nd-test-new-zealand-v-england-2024 "England v New Zealand, 2nd Test - ENG Won")
     
     2nd Test
     
@@ -74,13 +74,13 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Argentina vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111309/arg-vs-ber-match-1-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Bermuda, Match 1 - Abandon")
-    
-    Match 1
-    
-* [Panama vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111317/pan-vs-sn-match-2-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Suriname, Match 2 - PAN Won")
+    [Panama vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111317/pan-vs-sn-match-2-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Suriname, Match 2 - PAN Won")
     
     Match 2
+    
+* [Argentina vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111309/arg-vs-ber-match-1-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Bermuda, Match 1 - Abandon")
+    
+    Match 1
     
 * [Mexico vs Belize](https://www.cricbuzz.com/live-cricket-scores/111333/mex-vs-blz-match-4-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Mexico v Belize, Match 4 - BLZ Won")
     
@@ -90,7 +90,7 @@ AllLive NowToday
     
     Match 3
     
-* [Argentina vs Belize  LIVE](https://www.cricbuzz.com/live-cricket-scores/111341/arg-vs-blz-match-6-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Belize, Match 6 - Live")
+* [Argentina vs Belize](https://www.cricbuzz.com/live-cricket-scores/111341/arg-vs-blz-match-6-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Argentina v Belize, Match 6 - ARG Won")
     
     Match 6
     
@@ -98,21 +98,21 @@ AllLive NowToday
     
     Match 5
     
-* [Panama vs Cayman Islands](https://www.cricbuzz.com/live-cricket-scores/111349/pan-vs-caym-match-8-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Panama v Cayman Islands, Match 8 - Preview")
+* [Cayman Islands vs Panama](https://www.cricbuzz.com/live-cricket-scores/111349/caym-vs-pan-match-8-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Panama, Match 8 - CAYM Won")
     
     Match 8
     
-* [Suriname vs Bermuda](https://www.cricbuzz.com/live-cricket-scores/111345/sn-vs-ber-match-7-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Suriname v Bermuda, Match 7 - Toss")
+* [Bermuda vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111345/ber-vs-sn-match-7-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Suriname, Match 7 - BER Won")
     
     Match 7
-    
-* [Bermuda vs Panama](https://www.cricbuzz.com/live-cricket-scores/111357/ber-vs-pan-match-9-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Panama, Match 9 - Upcoming")
-    
-    Match 9
     
 * [Bahamas vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111361/bhm-vs-arg-match-10-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Argentina, Match 10 - Upcoming")
     
     Match 10
+    
+* [Bermuda vs Panama](https://www.cricbuzz.com/live-cricket-scores/111357/ber-vs-pan-match-9-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Panama, Match 9 - Upcoming")
+    
+    Match 9
     
 * [Cayman Islands vs Belize](https://www.cricbuzz.com/live-cricket-scores/111373/caym-vs-blz-match-12-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Belize, Match 12 - Upcoming")
     
@@ -140,11 +140,11 @@ AllLive NowToday
     
     8th Match
     
-* [Nigeria vs Uganda](https://www.cricbuzz.com/live-cricket-scores/112125/nga-vs-uga-9th-match-africa-continental-cup "Nigeria v Uganda, 9th Match - Upcoming")
+* [Nigeria vs Uganda](https://www.cricbuzz.com/live-cricket-scores/112125/nga-vs-uga-9th-match-africa-continental-cup "Nigeria v Uganda, 9th Match - Toss")
     
     9th Match
     
-* [Rwanda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112133/rwa-vs-bw-10th-match-africa-continental-cup "Rwanda v Botswana, 10th Match - Upcoming")
+* [Rwanda vs Botswana](https://www.cricbuzz.com/live-cricket-scores/112133/rwa-vs-bw-10th-match-africa-continental-cup "Rwanda v Botswana, 10th Match - Preview")
     
     10th Match
     
@@ -166,11 +166,7 @@ AllLive NowToday
     
     GSL, 2024
     
-    [Rangpur Riders vs Lahore Qalandars](https://www.cricbuzz.com/live-cricket-scores/109713/rgr-vs-lhq-10th-match-gsl-2024 "Rangpur Riders v Lahore Qalandars, 10th Match - RGR Won")
-    
-    10th Match
-    
-* [Rangpur Riders vs Victoria](https://www.cricbuzz.com/live-cricket-scores/109729/rgr-vs-vic-final-gsl-2024 "Rangpur Riders v Victoria, Final - RGR Won")
+    [Rangpur Riders vs Victoria](https://www.cricbuzz.com/live-cricket-scores/109729/rgr-vs-vic-final-gsl-2024 "Rangpur Riders v Victoria, Final - RGR Won")
     
     Final
     
@@ -178,7 +174,7 @@ AllLive NowToday
     
     SMA Trophy 2024
     
-    [Bengal vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/99052/ben-vs-cdg-pre-quarter-final-1-sma-trophy-2024 "Bengal v Chandigarh, Pre Quarter Final 1 - Upcoming")
+    [Bengal vs Chandigarh](https://www.cricbuzz.com/live-cricket-scores/99052/ben-vs-cdg-pre-quarter-final-1-sma-trophy-2024 "Bengal v Chandigarh, Pre Quarter Final 1 - Preview")
     
     Pre Quarter Final 1
     
@@ -194,17 +190,17 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [Western Australia vs New South Wales  LIVE](https://www.cricbuzz.com/live-cricket-scores/102936/wa-vs-nsw-16th-match-sheffield-shield-2024-25 "Western Australia v New South Wales, 16th Match - Live")
+    [Queensland vs Victoria](https://www.cricbuzz.com/live-cricket-scores/102943/ql-vs-vic-17th-match-sheffield-shield-2024-25 "Queensland v Victoria, 17th Match - Complete")
+    
+    17th Match
+    
+* [Western Australia vs New South Wales](https://www.cricbuzz.com/live-cricket-scores/102936/wa-vs-nsw-16th-match-sheffield-shield-2024-25 "Western Australia v New South Wales, 16th Match - Stumps")
     
     16th Match
     
-* [South Australia vs Tasmania  LIVE](https://www.cricbuzz.com/live-cricket-scores/102952/saus-vs-tas-18th-match-sheffield-shield-2024-25 "South Australia v Tasmania, 18th Match - Live")
+* [South Australia vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102952/saus-vs-tas-18th-match-sheffield-shield-2024-25 "South Australia v Tasmania, 18th Match - Stumps")
     
     18th Match
-    
-* [Queensland vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102943/ql-vs-vic-17th-match-sheffield-shield-2024-25 "Queensland v Victoria, 17th Match - Live")
-    
-    17th Match
     
 * CSA Four-Day Series Division Two 2024-25
     
@@ -218,29 +214,29 @@ AllLive NowToday
     
 * ACC U19 Asia Cup, 2024
     
-    [Pakistan U19 vs Bangladesh U19](https://www.cricbuzz.com/live-cricket-scores/110141/paku19-vs-banu19-1st-semi-final-acc-u19-asia-cup-2024 "Pakistan U19 v Bangladesh U19, 1st Semi Final - BANU19 Won")
-    
-    1st Semi Final
-    
-* [Sri Lanka U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110149/slu19-vs-indu19-2nd-semi-final-acc-u19-asia-cup-2024 "Sri Lanka U19 v India U19, 2nd Semi Final - INDU19 Won")
+    [Sri Lanka U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110149/slu19-vs-indu19-2nd-semi-final-acc-u19-asia-cup-2024 "Sri Lanka U19 v India U19, 2nd Semi Final - INDU19 Won")
     
     2nd Semi Final
     
-* [Bangladesh U19 vs India U19](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - Preview")
+* [Pakistan U19 vs Bangladesh U19](https://www.cricbuzz.com/live-cricket-scores/110141/paku19-vs-banu19-1st-semi-final-acc-u19-asia-cup-2024 "Pakistan U19 v Bangladesh U19, 1st Semi Final - BANU19 Won")
+    
+    1st Semi Final
+    
+* [Bangladesh U19 vs India U19  LIVE](https://www.cricbuzz.com/live-cricket-scores/110153/banu19-vs-indu19-final-acc-u19-asia-cup-2024 "Bangladesh U19 v India U19, Final - Live")
     
     Final
     
 * Plunket Shield
     
-    [Otago vs Canterbury  LIVE](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - Live")
+    [Otago vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - Stumps")
     
     12th Match
     
-* [Northern Knights vs Central Districts  LIVE](https://www.cricbuzz.com/live-cricket-scores/107489/nk-vs-cd-11th-match-plunket-shield "Northern Knights v Central Districts, 11th Match - Live")
+* [Northern Knights vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107489/nk-vs-cd-11th-match-plunket-shield "Northern Knights v Central Districts, 11th Match - Stumps")
     
     11th Match
     
-* [Auckland vs Wellington  LIVE](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - Live")
+* [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - Stumps")
     
     10th Match
     
@@ -251,6 +247,12 @@ AllLive NowToday
     [Australia Women vs India Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/92120/ausw-vs-indw-2nd-odi-icc-championship-match-australia-women-v-india-women "Australia Women v India Women, 2nd ODI (ICC Championship Match) - Live")
     
     2nd ODI (ICC Championship Match)
+    
+* Namibia Women tour of Malaysia
+    
+    [Malaysia Women vs Namibia Women](https://www.cricbuzz.com/live-cricket-scores/112217/mlyw-vs-namw-1st-t20i-namibia-women-tour-of-malaysia "Malaysia Women v Namibia Women, 1st T20I - Upcoming")
+    
+    1st T20I
     
 * Ireland women tour of Bangladesh, 2024
     
@@ -272,7 +274,7 @@ AllLive NowToday
     
     6th Match
     
-* [Hong Kong Women vs China Women](https://www.cricbuzz.com/live-cricket-scores/112033/hkw-vs-chnw-3rd-place-play-off-womens-t20i-quadrangular-series "Hong Kong Women v China Women, 3rd place play-off - Preview")
+* [Hong Kong Women vs China Women](https://www.cricbuzz.com/live-cricket-scores/112033/hkw-vs-chnw-3rd-place-play-off-womens-t20i-quadrangular-series "Hong Kong Women v China Women, 3rd place play-off - HKW Won")
     
     3rd place play-off
     
@@ -296,7 +298,7 @@ AllLive NowToday
     
     4th Match
     
-* [Qatar Women vs Bahrain Women](https://www.cricbuzz.com/live-cricket-scores/112073/qatw-vs-bhrw-5th-match-bahrain-women-tour-of-qatar-2024 "Qatar Women v Bahrain Women, 5th Match - Upcoming")
+* [Qatar Women vs Bahrain Women](https://www.cricbuzz.com/live-cricket-scores/112073/qatw-vs-bhrw-5th-match-bahrain-women-tour-of-qatar-2024 "Qatar Women v Bahrain Women, 5th Match - Preview")
     
     5th Match
     
@@ -607,41 +609,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132685/pat-cummins-takes-five-as-australia-draw-level-with-crushing-win "Cummins takes five as Australia draw level with crushing win")
+
+[Cummins takes five as Australia draw level with crushing win](https://www.cricbuzz.com/cricket-news/132685/pat-cummins-takes-five-as-australia-draw-level-with-crushing-win "Cummins takes five as Australia draw level with crushing win")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132684/england-secure-series-win-after-blundells-consolatory-century "England secure series win after Blundell's consolatory century")
+
+[England secure series win after Blundell's consolatory century](https://www.cricbuzz.com/cricket-news/132684/england-secure-series-win-after-blundells-consolatory-century "England secure series win after Blundell's consolatory century")
+
+3h ago
+
   [](https://www.cricbuzz.com/cricket-news/132683/guyana-barbados-stall-cwis-governance-reforms "Guyana, Barbados stall CWI's governance reforms")
 
 [Guyana, Barbados stall CWI's governance reforms](https://www.cricbuzz.com/cricket-news/132683/guyana-barbados-stall-cwis-governance-reforms "Guyana, Barbados stall CWI's governance reforms")
 
-20m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132682/missed-our-lengths-bowled-too-wide-morkel-on-indias-pink-ball-struggles-under-lights "'Missed our lengths, bowled too wide' - Morkel on India's pink-ball struggles under lights")
 
 ['Missed our lengths, bowled too wide' - Morkel on India's pink-ball struggles under lights](https://www.cricbuzz.com/cricket-news/132682/missed-our-lengths-bowled-too-wide-morkel-on-indias-pink-ball-struggles-under-lights "'Missed our lengths, bowled too wide' - Morkel on India's pink-ball struggles under lights")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132681/patersons-dirty-work-shines-for-south-africa "Paterson's 'dirty work' shines for South Africa")
 
 [Paterson's 'dirty work' shines for South Africa](https://www.cricbuzz.com/cricket-news/132681/patersons-dirty-work-shines-for-south-africa "Paterson's 'dirty work' shines for South Africa")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132680/all-round-south-africa-take-dominant-position-in-gqeberha "All-round South Africa take dominant position in Gqeberha ")
 
 [All-round South Africa take dominant position in Gqeberha](https://www.cricbuzz.com/cricket-news/132680/all-round-south-africa-take-dominant-position-in-gqeberha "All-round South Africa take dominant position in Gqeberha ")
 
-8h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132679/wpl-2025-120-players-register-for-auction "WPL 2025: 120 players register for auction")
-
-[WPL 2025: 120 players register for auction](https://www.cricbuzz.com/cricket-news/132679/wpl-2025-120-players-register-for-auction "WPL 2025: 120 players register for auction")
-
-9h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132678/i-would-have-liked-a-better-reaction "'I would have liked a better reaction'")
-
-['I would have liked a better reaction'](https://www.cricbuzz.com/cricket-news/132678/i-would-have-liked-a-better-reaction "'I would have liked a better reaction'")
-
-9h ago
+14h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
