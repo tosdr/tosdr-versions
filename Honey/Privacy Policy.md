@@ -7,221 +7,221 @@
 
 JoinLog in
 
-Introducing the Privacy Statement
+Presentación de la Declaración de privacidad
 
-What data we collect and why
+Qué datos recopilamos y por qué
 
-Where do we obtain your data
+¿De dónde obtenemos sus datos?
 
-Why we collect your data
+Por qué recopilamos sus datos
 
-How we disclose your data
+Cómo revelamos sus datos
 
-How we protect your data
+Cómo protegemos sus datos
 
-How long we store your personal information
+Cuánto tiempo almacenamos su información personal
 
-How we use cookies and similar technologies
+Cómo utilizamos las cookies y otras tecnologías similares
 
-Your choices for managing your data
+Sus opciones para administrar sus datos
 
-Notice of Financial Incentive
+Notificación de incentivos financieros
 
-Minors
+Menores
 
-How to contact us
+Contactar
 
 PayPal Honey Privacy Statement
 ------------------------------
 
-### Last updated October 28, 2024
+### Last updated 28 de octubre de 2024
 
-Introducing the Privacy Statement
+Presentación de la Declaración de privacidad
 
-This privacy statement (“Privacy Statement”) explains how PayPal, Inc. (“PayPal Honey” or “we”) collects and processes information from members and users of the website, software applications, and other online services we provide (collectively “PayPal Honey's products”). PayPal Honey's products include, but are not limited to, the PayPal Honey extension for web browsers (the “Extension”), the PayPal Honey mobile application (the “Mobile App”), and the website located at www.joinhoney.com (the “Website”), collectively, (the “Services”).  
+Esta declaración de privacidad ("Declaración de privacidad") explica cómo PayPal, Inc. ("PayPal Honey" o "nosotros") recopila y trata la información de los miembros y usuarios del sitio web, las aplicaciones de software y otros servicios de Internet que proporcionamos (en conjunto, "Productos de PayPal Honey"). Los Productos de PayPal Honey incluyen, entre otros, la extensión de PayPal Honey para navegadores web (la "Extensión"), la aplicación móvil de PayPal Honey (la "Aplicación móvil") y el sitio web www.joinhoney.com (el "Sitio web"), denominados, en conjunto, los "Servicios".  
   
-To the extent that PayPal Honey has links to other websites (like retailers), please note that we do not own, operate, or control them, and they have their own controlling privacy policies that you should review.
+En la medida en que PayPal Honey tenga vínculos a otros sitios web (por ejemplo, vendedores al por menor), tenga presente que no poseemos, gestionamos ni controlamos esos sitios. Estos vendedores independientes poseen y gestionan sus propias políticas de privacidad, las cuales le aconsejamos que revise.
 
-What data we collect and why
+Qué datos recopilamos y por qué
 
-_Personal Identifiers._  
+_Identificadores personales._  
   
-In order to provide our Services, PayPal Honey collects information that you share directly with us when you use the Services.  
+Para proporcionar nuestros Servicios, PayPal Honey recopila información que usted comparte directamente con nosotros cuando utiliza los Servicios.  
   
-During the registration process we may collect your name, email address, IP address, your device's unique ID (where available), member password and other registration information. When you sign up with your existing PayPal account, PayPal Honey sees basic profile information you provided to PayPal, like your name, email address and country location. We may also collect information needed to complete your purchases, such as your billing address.  
+Durante el proceso de registro, podemos recopilar su nombre, dirección de correo electrónico, dirección IP, la identificación única de su dispositivo (cuando esté disponible), contraseña de miembro y otra información de registro. Cuando se inscribe con su cuenta PayPal existente, PayPal Honey ve la información básica del perfil que proporcionó anteriormente a PayPal, como su nombre, su dirección de correo electrónico y su país de residencia. También podemos recopilar información necesaria para completar sus compras, como su dirección de facturación.  
   
-We may also collect any other information you provide when you communicate with PayPal Honey through email or other means.  
+También podemos recopilar cualquier otra información que proporcione cuando se comunique con PayPal Honey por correo electrónico u otros medios.  
   
-If you choose to link a social media profile (like Facebook) at sign-in, PayPal Honey will store this information for login purposes. Linking your social media profile grants PayPal Honey access to the profile, but only to the extent allowed by your permission settings, that social media platform's terms of service, and this Privacy Statement. We do not track your social media activity or post anything on your behalf.  
+Si decide vincular el inicio de sesión al perfil de una red social (como Facebook), PayPal Honey almacenará esta información a efectos del inicio de sesión. En tal caso, PayPal Honey podrá acceder al perfil, pero solo en la medida en que su configuración de permisos, las condiciones de servicio de la plataforma de red social y esta Declaración de privacidad lo permitan. No supervisamos las actividades que lleve a cabo en las redes sociales ni publicamos nada en su nombre.  
   
-_PayPal Honey Payment Information._  
+_Información de pago de PayPal Honey._  
   
-We may collect your payment information when you purchase gift cards or other products or services from PayPal Honey. We also save your payment information to your PayPal Honey account in order to allow you to check out easier when shopping on retailers' websites. In those cases, you will be asked to input a payment option (i.e., a debit or credit card), as well as information needed to complete those purchases (such as your billing address). In those instances, your payment information is securely stored with our payment processor, Braintree (a PayPal service). Alternatively, if you purchase an item on a third-party merchant's website displayed within the PayPal Honey Mobile App, that merchant (not PayPal Honey) will collect, store, and process your payment information in connection with that purchase.  
+Podemos recopilar su información de pago cuando compre tarjetas regalo u otros productos o servicios de PayPal Honey. También guardamos la información de pago en su cuenta PayPal Honey para que pueda pagar más fácilmente al comprar en sitios web de vendedores al por menor. En esos casos, se le pedirá que introduzca una forma de pago (es decir, una tarjeta de débito o crédito), así como la información necesaria para completar esas compras (por ejemplo, su dirección de facturación). En situaciones así, su información de pago se almacena de forma segura con nuestro procesador de pagos Braintree (un servicio de PayPal). Por otro lado, si compra un artículo en el sitio web de un vendedor externo al que ha accedido desde la Aplicación móvil de PayPal Honey, ese vendedor (y no PayPal Honey) recopilará, almacenará y tratará la información de pago en relación con dicha compra.  
   
-_Commercial Information._  
+_Información comercial._  
   
-We collect information about your purchases on retail sites when using PayPal Honey as well as shopping activity and goods or services considered on our merchants, partners, sites or businesses that our users transact with for the purpose of obtaining goods or services (“Partners and Merchants”).  
+Recopilamos información sobre sus compras en sitios de venta minorista cuando utiliza PayPal Honey, así como sobre la actividad de compra y los bienes o servicios que se consideran en nuestros comercios, socios, sitios o negocios con los que nuestros usuarios operan con el fin de obtener bienes o servicios (“Partners y comercios”).  
   
-_Internet or Network Activity._  
+_Actividad en Internet o en la red._  
   
-We collect this information to provide PayPal Honey members with a better way to shop online and to help us develop, improve, and market our Services. This may include data such as:
+Recopilamos esta información para ofrecer a los miembros de PayPal Honey una experiencia de compra mejorada en Internet y nos ayuda a desarrollar, optimizar y comercializar nuestros Servicios. Esta información puede incluir datos como:
 
-* the type of device you're using
-* operating system
-* browser type
-* event stamp
-* error logs
-* information about the retail site that lets us know which coupons and promos to find for you
-* information about pricing and availability of items
-* name of the retailer
-* page views
+* el tipo de dispositivo que utiliza;
+* el sistema operativo;
+* el tipo de navegador;
+* la marca de evento;
+* los registros de errores;
+* información sobre el sitio web de venta al por menor que nos permita identificar los cupones y promociones que podemos encontrar para ti;
+* información sobre precios y disponibilidad de los artículos;
+* nombre del vendedor minorista;
+* páginas vistas.
 
-To understand how you engage with our Services, we use common digital tools that allow us to see if you opened an email we sent, visited a link in those emails, or generally interacted with PayPal Honey as a result of our marketing efforts.
+Para comprender cómo utiliza nuestros Servicios, utilizamos herramientas digitales habituales que nos permiten ver si ha abierto un correo electrónico que le hemos enviado, ha visitado un vínculo en esos correos electrónicos o, en general, ha interactuado con PayPal Honey como resultado de nuestras iniciativas de marketing.
 
-_Shopping and Usage Data._  
+_Datos de compra y uso._  
   
-On retail sites, PayPal Honey collects the name of the retailer, page views, and in some cases, product information that allows us to track price changes and update our product catalog. We may also collect information regarding your purchases on a retail site while using PayPal Honey (for example, the transaction value, and the fact that an order was completed or returned) for purposes including internal analytics, commission collection, and managing Rewards. The information enables us to improve our products and gives us insights about coupons, deals, pricing, and availability of retail items, which we can offer to the rest of the PayPal Honey community. We may also use this information to understand your shopping history, merchant and shopping preferences to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you when you use the Services or you use the PayPal or Venmo services.  
+En los sitios web de venta al por menor, PayPal Honey recaba el nombre del vendedor minorista, las vistas de páginas y, en algunos casos, información del producto que nos permite realizar un seguimiento de los cambios de precio y actualizar nuestro catálogo de productos. También podemos recopilar información sobre sus compras en un sitio web minorista al utilizar PayPal Honey (por ejemplo, el valor de la transacción y el hecho de que se haya completado o devuelto un pedido) para fines como análisis internos, recopilación de comisiones y administración de recompensas. La información nos permite mejorar nuestros productos y nos ofrece detalles sobre cupones, ofertas, precios y disponibilidad de artículos de venta al por menor, los cuales podemos ofrecer al resto de la comunidad de PayPal Honey. También podemos utilizar esta información para comprender su historial de compras y sus preferencias de vendedor y de compra con el fin de proporcionarle una experiencia de producto más personalizada, relevante o que muestre ofertas de productos patrocinados que podrían interesarle cuando use los Servicios o los servicios de PayPal o Venmo.  
   
-When you are on a retailer's site that offers the Services, PayPal Honey will collect information about that site that lets us know which coupons and promos to find for you.  
+Cuando acceda al sitio web de un minorista que ofrezca los Servicios, PayPal Honey recopilará información sobre dicho sitio que nos permita identificar los cupones y promociones que puedan interesarle.  
   
-As you use our Services, we might also collect data, such as:
+A medida que utiliza nuestros Servicios, también podemos recopilar datos, como:
 
-* items you save in order to monitor price drops (Droplist)
-* coupons, promo codes, and deals you found
-* friend referrals from your contacts to PayPal Honey
-* stores you “follow”
+* artículos que guarda para controlar las bajadas de precio (Droplist);
+* cupones, códigos promocionales y ofertas que encuentre;
+* recomendaciones de amigos de sus contactos a PayPal Honey;
+* tiendas que "sigue".
 
-_Inference Data._  
+_Datos de inferencia._  
   
-We may infer information about you such as your preferences and shopping behavior, based on your interactions with our Services or with our Partners and Merchants.  
+Podemos inferir información sobre usted, como sus preferencias y comportamiento de compra, en función de las interacciones con nuestros Servicios o con nuestros Partners y comercios.  
   
-_Sensitive Personal Data._  
+_Datos personales confidenciales._  
   
-We may disclose your sensitive personal information as appropriate to carry out legitimate business activities allowed by law, but we do not sell or share your sensitive personal data.  
+Podemos divulgar su información personal confidencial según corresponda para llevar a cabo actividades comerciales legítimas permitidas por la ley, pero no vendemos ni compartimos sus datos personales confidenciales.  
   
-_Aggregate and Anonymized Data._  
+_Datos agregados y anonimizados._  
   
-We may also use the information we collect in aggregate or otherwise anonymized form. This lets us look at interactions with our site and products generally and does not identify you or any specific person. We use this general data for research, development, marketing, analytics, and to enhance the shopping experience for the Honey community.
+También podemos usar la información que recopilamos de manera agregada o anonimizada. Esto nos permite analizar las interacciones con nuestro sitio y nuestros productos en general sin identificarle a usted ni a ninguna persona en concreto. Utilizamos estos datos genéricos con fines de investigación, desarrollo, mercadotecnia y análisis y para mejorar la experiencia de compra de la comunidad de Honey.
 
-Where do we obtain your data
+¿De dónde obtenemos sus datos?
 
-We may obtain the above categories of personal information from the following different sources:
+Podemos obtener las categorías anteriores de información personal de las siguientes fuentes:
 
-* from you, including from your interactions with us and use of the Service, as well as when you use the PayPal or Venmo services
-* Third parties, including Service Providers, Retailers, and Operating Systems
-* Connected Accounts: accounts you agree to link to PayPal Honey, such as social network accounts.
+* de usted, incluidas sus interacciones con nosotros y el uso del Servicio, así como cuando utiliza los servicios de PayPal o Venmo;
+* de terceros, incluidos proveedores de servicios, vendedores minoristas y sistemas operativos;
+* de cuentas conectadas: cuentas que acepta vincular a PayPal Honey, como cuentas de redes sociales.
 
-Why we collect your data
+Por qué recopilamos sus datos
 
-In addition to the uses described above, we also collect your information for a variety of reasons, including to provide our Services as well as for the following reasons:
+Además de los usos descritos anteriormente, también recopilamos su información por una variedad de razones, incluida la prestación de nuestros Servicios, así como por las siguientes razones:
 
-* To provide our Services: such as to setup your account, to create an inventory of functioning coupons, deals, pricing and availability of retail items, to track price changes, update our product catalog, commission collection, create Droplists, and managing Rewards.
-* To manage and improve our Services: to make sure our products our working correctly, conduct internal analytics.
-* To manage fraud and risk.
-* To personalize your shopping experiences, including when you use the Service or you use the PayPal or Venmo services: to provide you with a more tailored, relevant experience or show sponsored product offers that may interest you, see a personalized recommendation feed.
-* Associate information about you: If you use Venmo or PayPal, we may associate information about your transactions and experiences using those Services to personalize content and offers and improve your use of the PayPal Honey services.
-* To market our Services, including when we associate information about you.
-* To communicate with you.
-* To comply with Laws: to comply with applicable laws and rules and enforce our agreements with you and other people who use our Services.
-* To process information about your contacts: with your consent, we may collect your friends’ contact information for referrals.
+* Para prestar nuestros Servicios: por ejemplo, para configurar su cuenta, crear un inventario de cupones y ofertas, precios y disponibilidad de artículos de venta al por menor en funcionamiento, realizar un seguimiento de los cambios de precio, actualizar nuestro catálogo de productos, cobrar comisiones, crear Droplists y administrar recompensas.
+* Para gestionar y mejorar nuestros Servicios: para asegurarnos de que nuestros productos funcionan correctamente y realizar análisis internos.
+* Para gestionar el fraude y el riesgo.
+* Con el objetivo de personalizar las experiencias de compra, incluso cuando utiliza el Servicio o los servicios de PayPal o Venmo, y brindarle una experiencia más personalizada y pertinente o mostrar ofertas de productos patrocinados que puedan interesarle, consulte el feed de recomendaciones personalizado.
+* Información asociada acerca de usted: Si utiliza Venmo o PayPal, podemos asociar información sobre sus transacciones y experiencias al usar esos Servicios para personalizar el contenido y las ofertas y mejorar el uso que hace de los servicios de PayPal Honey.
+* Para comercializar nuestros Servicios, incluso cuando asociamos información sobre usted.
+* Para comunicarnos con usted.
+* Para cumplir con la Ley: para cumplir con las leyes y normas aplicables y hacer cumplir nuestros acuerdos con usted y otras personas que utilizan nuestros Servicios.
+* Para procesar información sobre sus contactos: con su consentimiento, podemos recopilar la información de contacto de sus amigos para referencias.
 
-How we disclose your data
+Cómo revelamos sus datos
 
-We do not sell personal information to third parties for money or share your personal information for cross context behavioral advertising, including sensitive personal information, for cross context behavioral advertising. We may disclose your sensitive personal information as appropriate to carry out legitimate business activities allowed by law.  
+No vendemos información personal a terceros por dinero ni compartimos su información personal para publicidad conductual de contexto cruzado, incluida la información personal confidencial, para publicidad conductual de contexto cruzado. Podemos divulgar su información personal confidencial según corresponda para llevar a cabo actividades comerciales legítimas permitidas por la ley.  
   
-In addition, we may disclose your personal information with your consent or in ways you'd expect (as we explain here).  
+Además, podemos divulgar su información personal con su consentimiento o de las formas que usted esperaría (como explicamos aquí).  
   
-We may disclose information with the following categories of third parties:
+Podemos divulgar información con las siguientes categorías de terceros:
 
-* With our service providers (businesses that work for and with us) for the purpose of running PayPal Honey and fulfilling our commitments to you. These include businesses that perform services on our behalf, including to help us maintain our products, manage coupons codes and offers, to provide support for legal, banking, security protection, payment processing, our own marketing, and customer service. Please know that when we disclose information with our service providers, it's for the purposes outlined in this Privacy Statement and not for their independent use. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information, inferences, and sensitive personal information.
-* With PayPal Companies, to manage Rewards and personalize your use of the Services and your use of the PayPal or Venmo services. The personal information we disclose may include your identification information, your shopping and usage data, and commercial information.
-* With your consent, to Partners and Merchants that you and we interact with, to help ourselves and our Partners and Merchants personalize services when you shop with PayPal so you can have a better and more relevant experience. Personal Information we disclose includes, for example, products, brands, sizes, preferences and styles we think you’ll like.
-    * If you decide that you prefer to no longer participate in sharing for the personalized PayPal offers, you may change your preferences in your account settings. If you opt-out, we will continue to disclose your personal information necessary to complete transactions you initiate, but will not disclose personal information to Partners and Merchant for personalized experiences when you pay with PayPal.
-* With authorities, as required by law, or to comply with or respond to a valid government request; or when we believe in good faith that it's necessary to protect our rights, protect your safety or the safety of others, or investigate fraud. The personal information we disclose may include your identification information, your shopping and usage data, internet or network activity, commercial information and sensitive personal information.
-* With a buyer or successor if PayPal, Inc. is involved in a merger, acquisition, or similar corporate transaction. If that happens, you will be notified via email and/or a prominent notice on the Website of any change in ownership, as well as any choices you will have as a result. The personal information we disclose may include your identification information, your shopping and usage data.
+* Con nuestros proveedores de servicios (empresas que trabajan con nosotros y para nosotros) con el fin de gestionar PayPal Honey y cumplir nuestros compromisos con usted. Estas empresas prestan servicios en nuestro nombre, en particular para ayudarnos a mantener nuestros productos, gestionar códigos de cupones y ofertas o proporcionar asistencia en asuntos jurídicos, operaciones bancarias, protección de seguridad, procesamiento de pagos, nuestro marketing y el servicio de atención al cliente. Tenga en cuenta que, cuando divulgamos información a nuestros proveedores de servicios, lo hacemos con los fines descritos en esta Declaración de privacidad y no para que estos la utilicen de manera independiente. La información personal que divulgamos puede incluir su información de identificación, sus datos de compra y uso, actividad en Internet o en la red, información comercial, inferencias e información personal confidencial.
+* Con las Empresas de PayPal, para administrar Recompensas y personalizar su uso de los Servicios y su uso de los servicios de PayPal o Venmo. La información personal que divulgamos puede incluir su información de identificación, sus datos de compra y uso, e información comercial.
+* Con su consentimiento, a los Partners y comercios con los que usted y nosotros interactuamos a fin de personalizar los servicios cuando compra con PayPal, lo que mejora su experiencia y la hace más adecuada. La información personal que divulgamos incluye, por ejemplo, productos, marcas, tamaños, preferencias y estilos que creemos que le gustarán.
+    * Si decide que quiere dejar de participar en el intercambio de las ofertas personalizadas de PayPal, puede cambiar las preferencias en la configuración de la cuenta. Si opta por la exclusión voluntaria, continuaremos divulgando la información personal necesaria con el fin de completar las transacciones que inicie, pero no divulgaremos información personal a Partners y comercios para experiencias personalizadas cuando pague con PayPal.
+* Con las autoridades, según lo exija la ley, o para cumplir con una solicitud válida del gobierno o responder a ella; o cuando creemos de buena fe que es necesario para proteger nuestros derechos, su seguridad o la seguridad de otros, o para investigar el fraude. La información personal que divulgamos puede incluir su información de identificación, sus datos de compra y uso, actividad en Internet o en la red, información comercial e información personal confidencial.
+* Con un comprador o sucesor si PayPal, Inc. participa en una fusión, adquisición o transacción corporativa similar. Si esto sucede, se le informará de cualquier cambio de titularidad, así como de las alternativas que tendrá como resultado de ello, mediante correo electrónico o un aviso destacado en el Sitio web. La información personal que divulgamos puede incluir su información de identificación, y sus datos de compra y uso.
 
-How we protect your data
+Cómo protegemos sus datos
 
-The security of your information is important to us. We have a team dedicated to protecting your information and have put in place physical, electronic, and procedural safeguards.  
+La seguridad de su información es importante para nosotros. Contamos con un equipo dedicado a proteger su información y hemos puesto en marcha medidas de seguridad físicas, electrónicas y de procedimiento.  
   
-These measures include limiting access, using encryption, testing for vulnerabilities, advanced malware detection, employing pseudonymization and anonymization techniques, and more.  
+Estas medidas incluyen limitar el acceso, utilizar cifrado, comprobar vulnerabilidades, usar métodos avanzados para detectar malware, emplear técnicas de anonimización y seudonimización, etc.  
   
-Despite our efforts, we can't guarantee that user information will not be accessed, viewed, disclosed, altered, or destroyed as a result of a breach of any of our safeguards. You provide us with information at your own risk.
+A pesar de nuestros esfuerzos, no podemos garantizar que no se acceda, vea, divulgue, altere o destruya la información del usuario como resultado de una violación de cualquiera de nuestras medidas de seguridad. Usted nos proporciona información bajo su propio riesgo.
 
-How long we store your personal information
+Cuánto tiempo almacenamos su información personal
 
-We retain personal information for as long as needed or permitted in context of the purpose for which it was collected and consistent with applicable law.  
+Conservamos los Datos personales durante el tiempo necesario o permitido en el contexto de la finalidad para la que fueron recopilados y de conformidad con la legislación aplicable.  
   
-The criteria used to determine our retention period is as follows:
+Los criterios utilizados para determinar el periodo de conservación son los siguientes:
 
-* Personal information used for the ongoing relationship between you and PayPal Honey is stored for the duration of the relationship plus a period of 10 years, unless we need to keep it longer, such as:
+* La información personal utilizada para la relación continua entre usted y PayPal Honey se almacena mientras dure la relación más un período de 10 años, a menos que necesitemos conservarla durante más tiempo, como por ejemplo:
 
-* a legal obligation to which we are subject.
-* consistent with the applicable law.
-* litigation, investigations, audit and compliance practices, or to protect against legal claims.
+* una obligación legal a la que estamos sujetos;
+* de conformidad con la legislación aplicable;
+* litigios, investigaciones, prácticas de auditoría y cumplimiento, o para protegernos contra reclamaciones legales.
 
-Data disclosed to PayPal is subject to data retention periods as set out in the PayPal Privacy Statement.
+Los datos compartidos con PayPal están sujetos a períodos de conservación de los datos establecidos en la Declaración de privacidad de PayPal.
 
-How we use cookies and similar technologies
+Cómo utilizamos las cookies y otras tecnologías similares
 
-Like most other online services, PayPal Honey uses cookies, pixel tags, web beacons, and other markers (we'll just call them “cookies”) to collect some of the data discussed in this Privacy Statement. These help us operate our products, analyze engagement and usage, and provide a relevant and personalized shopping experience. See below to learn how you can manage your cookie preferences.  
+Como la mayoría de los servicios que se prestan por Internet, PayPal Honey utiliza cookies, "pixel tags", balizas web y otros marcadores (los llamaremos "cookies") para recopilar algunos de los datos sobre los que se habla en esta Declaración de privacidad. Nos ayudan a explotar nuestros productos, a analizar interacciones y usos, y a proporcionar una experiencia de compra pertinente y personalizada. Consulte a continuación cómo puede administrar sus preferencias de cookies.  
   
-Some cookies can be temporary (“session cookies” like those used for navigating your browser) and disappear once you close it. Others last longer (“persistent cookies,” like when you ask a site to remember your login) and are saved to your computer until you delete them.  
+Algunas cookies pueden ser temporales ("cookies de sesión"), como las que se utilizan al desplazarse por el navegador, las cuales desaparecen al cerrarlo. Otras permanecen más tiempo ("cookies persistentes"), como aquellas que recuerdan los datos de inicio de sesión y se guardan en el ordenador hasta que usted las elimina.  
   
-Our uses of cookies and similar technologies fall into the following general categories:
+Nuestro uso de cookies y tecnologías similares se engloba en las siguientes categorías generales:
 
-* **Essential**: We may use cookies, web beacons, or other similar technologies that are necessary to the operation of our sites, services, applications, and tools. This includes technologies that allow you access to our sites, services, applications, and tools; that are required to identify irregular site behavior, prevent fraudulent activity and improve security; or that allow you to make use of our functions such as shopping-carts, saved search, or similar functions;
-* **Performance**: We may use cookies, web beacons, or other similar technologies to assess the performance of our websites, applications, services, and tools, including as part of our analytic practices to help us understand how our visitors use our websites, determine if you have interacted with our messaging, determine whether you have viewed an item or link, or to improve our website content, applications, services, or tools;
-* **Functionality**: We may use cookies, web beacons, or other similar technologies that allow us to offer you enhanced functionality when accessing or using our sites, services, applications, or tools. This may include identifying you when you sign into our sites or keeping track of your specified preferences, interests, or past items viewed so that we may enhance the presentation of content on our sites;
-* **Marketing**: We may use first-party or third-party cookies and web beacons to deliver content, including ads relevant to your interests, on our sites or on third party sites. This includes using technologies to understand the usefulness to you of the advertisements and content that have been delivered to you, such as whether you have clicked on an advertisement.
+* **Esenciales**: Es posible que utilicemos cookies, balizas web u otras tecnologías similares que son necesarias para el funcionamiento de nuestros sitios, servicios, aplicaciones y herramientas. Esto incluye tecnologías que: le permiten acceder a nuestros sitios, servicios, aplicaciones y herramientas; son necesarias para identificar comportamientos irregulares en el sitio, prevenir actividades fraudulentas y mejorar la seguridad; o le permiten hacer uso de nuestras funciones, como carros de la compra, búsquedas guardadas o funciones similares;
+* **Rendimiento**: Podemos utilizar cookies, balizas web u otras tecnologías similares para evaluar el rendimiento de nuestros sitios web, aplicaciones, servicios y herramientas, en particular, como parte de nuestras prácticas analíticas que nos ayudan a comprender cómo utilizan nuestros sitios web los visitantes, a determinar si han interactuado con nuestros mensajes o si han visto un artículo o vínculo, o a mejorar el contenido de nuestros sitios web, aplicaciones, servicios o herramientas;
+* **Funcionalidad**: Podemos utilizar cookies, balizas web u otras tecnologías similares para ofrecerle funciones mejoradas al acceder a nuestros sitios, servicios, aplicaciones o herramientas, o al utilizarlos. Esto puede incluir identificarle al iniciar sesión en nuestros sitios o realizar un seguimiento de sus preferencias, intereses o artículos visualizados en el pasado a fin de optimizar la presentación del contenido en nuestros sitios;
+* **Marketing**: Podemos utilizar cookies y balizas web propias o de terceros para insertar contenido, incluidos anuncios acordes a sus interesas, en nuestros sitios o en sitios web de terceros. Esto incluye el uso de tecnologías para saber si la publicidad y el contenido que se le han enviado le han resultado útiles, por ejemplo, si ha hecho clic en un anuncio.
 
-Any personal information that we collect and store through use of these technologies for categories other than “Essential” are based on your settings, managed through a conspicuous disclosure on our Website. You can change your preferences in your account settings at any time. If you want to disable cookies entirely, your browser or mobile device might have an option to do that. For more information, including instructions on disabling cookies, please visit: [https://allaboutcookies.org/](https://allaboutcookies.org/)
+La recopilación y el almacenamiento de información personal a través de estas tecnologías para categorías que no sean "Esenciales" se basan en su configuración, que se administra mediante una declaración detallada en nuestro Sitio web. Puede cambiar sus preferencias en la configuración de la cuenta en cualquier momento. Si desea desactivar completamente las cookies, es posible que su navegador o dispositivo móvil ofrezcan una opción para ello. Para obtener más información, incluidas las instrucciones para desactivar las cookies, visite: [https://allaboutcookies.org/](https://allaboutcookies.org/)
 
-Your choices for managing your data
+Sus opciones para administrar sus datos
 
-We've made it easy to opt out of PayPal Honey's products at any time.  
+Puede prescindir de los productos de PayPal Honey fácilmente en cualquier momento.  
   
-You can always adjust your personal settings regarding what information you share and how PayPal Honey communicates with you by going to your account page and clicking on the “personalize” or “emails” headings. Please note that limiting the information you offer to provide may impact PayPal Honey's ability to provide certain deals and products to you.  
+Si lo desea, puede modificar la configuración personal en lo que respecta a la información que comparte y cómo PayPal Honey se comunica con usted. Para ello, entre en la página de su cuenta y haga clic en los encabezados "personalizar" o "correos electrónicos". Tenga en cuenta que, si limita la información que proporciona, la capacidad de PayPal Honey de ofrecerle determinadas ofertas y productos podría verse afectada.  
   
-If you want to stop using PayPal Honey, we have instructions on how to uninstall the Extension on our [Website](https://help.joinhoney.com/article/26-how-do-i-uninstall-honey) and if you have any issues you can contact our support team for assistance by sending an email to [yourfriends@joinhoney.com](mailto:yourfriends@joinhoney.com).  
+Si quiere dejar de utilizar PayPal Honey, en nuestro [Sitio web](https://help.joinhoney.com/article/26-how-do-i-uninstall-honey) puede encontrar instrucciones sobre cómo desinstalar la Extensión. Si tiene algún problema, puede ponerse en contacto con nuestro equipo de asistencia a través del correo electrónico [yourfriends@joinhoney.com](mailto:yourfriends@joinhoney.com).  
   
-You can also uninstall the PayPal Honey Mobile App in the same way you would uninstall other mobile apps from your mobile device.  
+También puede desinstalar la Aplicación móvil de PayPal Honey del mismo modo que desinstalaría otras aplicaciones móviles de su dispositivo móvil.  
   
-If you would like to delete your profile or personal information, you can always ask us by emailing [privacy@joinhoney.com](mailto:privacy@joinhoney.com). We will delete any personal information we have, although the following exceptions apply: (1) we may still store your personal information if we need it to meet our legal or compliance obligations and/or to defend against legal claims; and (2) we may also continue to store your personal data in an aggregated and anonymized format that doesn't identify you and can't be attributed to you, even after you've deleted your profile.
+Si desea eliminar su perfil o su información personal, envíenos un correo electrónico a [privacy@joinhoney.com](mailto:privacy@joinhoney.com) en cualquier momento para solicitarlo. Eliminaremos toda la información personal que conservemos, aunque con las siguientes excepciones: (1) podemos seguir almacenando su información personal si la necesitamos para cumplir con nuestras obligaciones legales o normativas, o para defendernos frente a demandas jurídicas; y (2) también podemos seguir almacenando sus datos personales en un formato agregado y anonimizado que no le identifique ni se pueda relacionar con usted, incluso después de que haya eliminado su perfil.
 
 Learn More
 
-Notice of Financial Incentive
+Notificación de incentivos financieros
 
-If you are a California resident, you have a right to receive this Notice of Financial Incentive.  
+Si es residente en California, tiene derecho a recibir esta Notificación de incentivos financieros.  
   
-Our rewards program, sometimes referred to as Honey Gold or PayPal Rewards, is offered with PayPal (together, “Rewards”) and provides you with the ability to earn points on eligible purchases, eligible PayPal transactions, or completing other actions, such as referring a friend.  
+Nuestro programa de recompensas, en ocasiones conocido como Honey Gold o Recompensas de PayPal, se ofrece con PayPal (en conjunto, "Recompensas") y le ofrece la posibilidad de ganar puntos en las compras que cumplan los requisitos, las transacciones de PayPal que cumplan los requisitos o la realización de otras acciones, como recomendar a un amigo.  
   
-The Rewards can be earned through our Website, the PayPal Honey app, or through checkout and can be redeemed for gift cards, PayPal transaction discounts or cash back with a valid PayPal balance account. You can earn Rewards on purchases from eligible merchants, eligible PayPal transactions or other activity. The Rewards are subject to these [PayPal Rewards Program Agreement](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc). Additional terms and exclusions may apply and are presented at the time the Reward is offered or saved.  
+Las Recompensas se pueden obtener en nuestro sitio web, la aplicación móvil de PayPal Honey o la pantalla de pago y se pueden canjear por tarjetas de regalo, descuentos en transacciones de PayPal o bonificaciones con una cuenta de saldo de PayPal válida. Puede obtener Recompensas por compras en comercios que reúnan los requisitos, transacciones de PayPal que reúnan los requisitos u otras actividades. Las Recompensas están sujetas a este [Acuerdo del programa PayPal Rewards](https://www.paypal.com/us/legalhub/pp-rewards-program-tnc). Pueden aplicarse términos y exclusiones adicionales, y se presentan en el momento en que se ofrece o guarda la Recompensa.  
   
-To manage Rewards the following Personal information is collected:
+Para administrar Recompensas, se recopila la siguiente Información personal:
 
-* Identifiers, such as name and email and account location
-* Shopping and Usage Information, such as shopping history, transaction value and returns
-* Preferred merchants or categories
-* Internet and Network activity such as IP address
-* Inferences drawn from one or more of the above, including a consumer's shopping history, that reflects a consumer's shopping preferences.
+* Identificadores, como el nombre, la dirección de correo electrónico y la ubicación de la cuenta
+* Información de compra y uso, como el historial de compras, el valor de las transacciones y las devoluciones
+* Vendedores o categorías preferidos
+* Actividad en Internet y en la red, como la dirección IP
+* Inferencias derivadas de uno o varios de los anteriores, incluido el historial de compras de un consumidor, que refleja las preferencias de compra de un consumidor.
 
-You opt into Rewards by registering for the Honey Services. You have the right to opt-out of the Rewards program by contacting customer support at [privacy@joinhoney.com](mailto:privacy@joinhoney.com), or you may uninstall or delete your account at any time  
+Usted opta por participar en Recompensas al registrarse en los Servicios de Honey. Si desea desactivar el programa Recompensas, póngase en contacto con el Servicio de atención al cliente en [privacy@joinhoney.com](mailto:privacy@joinhoney.com), o puede desinstalar o eliminar su cuenta en cualquier momento  
   
-To form the basis for the Rewards offered, PayPal Honey made the following good faith estimate of the value of the consumers' data based on the rewards granted by the business divided by the number of active participants over the past 12 months. We estimate the value of users’ personal information to be $15 per user.
+Para formar la base de las Recompensas ofrecidas, PayPal Honey realizó la siguiente estimación de buena fe del valor de los datos de los consumidores en función de las recompensas concedidas por la empresa divididas por el número de participantes activos en los últimos 12 meses. Calculamos que la información personal de los usuarios tiene un valor de 15 $ por usuario.
 
-Minors
+Menores
 
-We created PayPal Honey for the exclusive use of adults (18 and older). We don't knowingly collect or solicit personal information from children. If you are a child under 18, please do not attempt to use or register for PayPal Honey's products or send any personal information to us.
+PayPal Honey es de uso exclusivo para adultos (usuarios a partir de 18 años). No recabamos ni solicitamos información personal de menores de manera deliberada. Si tiene menos de 18 años, no intente utilizar los productos de PayPal Honey o registrarse para usarlos, ni nos envíe ninguna información personal.
 
 Learn More
 
-How to contact us
+Contactar
 
-If you have any questions about our privacy policies and practice, please contact our Privacy Officer at [privacy@joinhoney.com](mailto:privacy@joinhoney.com).  
+Si tiene alguna pregunta acerca de nuestras políticas y prácticas de privacidad, póngase en contacto con nuestro Responsable de privacidad en [privacy@joinhoney.com](mailto:privacy@joinhoney.com).  
   
-Or you can write us a letter (fancy!) at:  
+O, puede escribirnos una carta (nos encantará recibirla) a la siguiente dirección:  
   
 **PayPal Honey  
 Attn: Privacy  
