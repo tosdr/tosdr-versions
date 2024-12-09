@@ -54,9 +54,9 @@ Navigation
         
         #### [7.0 earthquake off Northern California prompts brief tsunami warning](https://www.kagstv.com/article/news/nation-world/earthquake-california-prompts-tsunami-warning/507-1de66eb6-f453-4657-a6c5-4fb15ee78368)
         
-    *  [![](https://media.kagstv.com/assets/KCEN/images/bc555896-17b8-426c-90e0-371bdc37913c/20241206T103742/bc555896-17b8-426c-90e0-371bdc37913c_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/bc555896-17b8-426c-90e0-371bdc37913c/20241206T103742/bc555896-17b8-426c-90e0-371bdc37913c_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+    *  [![](https://media.kagstv.com/assets/KCEN/images/a2bcc629-6114-4e03-b2c3-f433fb5cbd16/20241208T221432/a2bcc629-6114-4e03-b2c3-f433fb5cbd16_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/a2bcc629-6114-4e03-b2c3-f433fb5cbd16/20241208T221432/a2bcc629-6114-4e03-b2c3-f433fb5cbd16_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [WEATHER IMPACT ALERT | Rainy & Cold; Outdoor Plans Could be Impacted | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Rain has cleared and cold temps are on the way | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Bryan, TX »
 
-54°
+55°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
