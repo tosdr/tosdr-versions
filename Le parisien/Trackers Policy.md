@@ -77,6 +77,7 @@ Rechercher sur Le Parisien
     * [Donald Trump](https://www.leparisien.fr/international/etats-unis/donald-trump/)
     * [Guerre au Proche-Orient](https://www.leparisien.fr/international/israel/)
     * [Guerre en Ukraine](https://www.leparisien.fr/crise-ukraine-russie/)
+    * [Syrie](https://www.leparisien.fr/international/syrie/)
     
 * [Sports](https://www.leparisien.fr/sports/)
     
@@ -202,7 +203,6 @@ Rechercher sur Le Parisien
     * [Guide d'achat](https://www.leparisien.fr/guide-shopping/)
     * [Jeux Gratuits](https://www.leparisien.fr/jeux/)
     * [Codes promo](https://www.leparisien.fr/codes-promo/)
-    * [Programme TV](https://programme-tv.leparisien.fr/)
     * [Cours d'anglais](https://cours-anglais.leparisien.fr/)
     * [Nos applications](https://www.leparisien.fr/applications/)
     * [Comparateurs](https://comparateur.leparisien.fr/)
