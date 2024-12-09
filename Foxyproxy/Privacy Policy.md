@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service. I will sign up again when I go back overseas next month.
+I am very happy with my services, and want to keep them, forever!
 
-Tim Holden
+Bob Nussbaum
