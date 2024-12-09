@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,13 +153,13 @@ Latest reactions
 
 Latest forum posts
 
+* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
 * [ROM page issue](https://www.msx.org/forum/msx-talk/development/rom-page-issue "ROM page issue")
 * [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx "SCC cartridge with 16 MegaBytes on MSX !")
 * [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=12 "Christmas Quiz 2024")
 * [Check for specific keypress during booting in autoexec.bat](https://www.msx.org/forum/msx-talk/general-discussion/check-for-specific-keypress-during-booting-in-autoexecbat "Check for specific keypress during booting in autoexec.bat")
 * [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward "RP2350B will change cartridges for MSX forever!")
-* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
 * [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing?page=1 "Gemini Wing")
