@@ -448,7 +448,7 @@ Ecotricity is recommended by
 
 [](https://www.ethicalconsumer.org/best-buy-label)
 
-[](https://www.which.co.uk/news/article/which-eco-provider-energy-companies-revealed-for-2023-a9TV10S2OHel?utm_campaign=recommendedprovider&utm_medium=endorsement&utm_source=Ecotricity)
+[](https://www.which.co.uk/news/article/most-sustainable-energy-suppliers-anfcI7X4Tb7q?utm_campaign=recommendedprovider&utm_medium=endorsement&utm_source=Ecotricity)
 
 [](https://www.which.co.uk/reviews/energy-companies/article/energy-company-reviews/ecotricity-aeVNT3V4JeDq)
 
