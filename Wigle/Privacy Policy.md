@@ -72,7 +72,7 @@ Just like the website, WiGLE WiFi Wardriving doesn't require real identifying in
 * [Mastodon](https://defcon.social/@WiGLEnet)
 * [Bsky](https://bsky.app/profile/wiglenet.bsky.social)
 * [Twitter](http://twitter.com/wiglenet)
-* [IRC](irc://wigle.net:6667/wigle)
+* [IRC with TLS](irc://wigle.net:6668/wigle)
 
 **Site Information**  
 
@@ -97,7 +97,7 @@ Just like the website, WiGLE WiFi Wardriving doesn't require real identifying in
 * [News RSS](https://wigle.net/gps/gps/RSS/wiglenews.xml)
 * [Stats RSS](https://wigle.net/gps/gps/StatRSS/wiglestats.xml)
 
-_WiGLE respects your privacy. To have records of your access point removed from our database, or if you have any questions or suggestions, send an email to: WiGLE-admin\[at\]WiGLE.net (please include BSSID (MAC) in removal requests)._ We're also on IRC: at WiGLE.net:6667
+_WiGLE respects your privacy. To have records of your access point removed from our database, or if you have any questions or suggestions, send an email to: WiGLE-admin\[at\]WiGLE.net (please include BSSID (MAC) in removal requests)._ We're also on IRC with TLS: at WiGLE.net:6668
 
 Copyright 2001-2024 bobzilla && arkasha && uhtu
 
