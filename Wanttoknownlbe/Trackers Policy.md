@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/lichtverschijnselen-manifestaties-uit-andere-bewustzijnsvormen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/herinner-wie-je-werkelijk-bent/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
