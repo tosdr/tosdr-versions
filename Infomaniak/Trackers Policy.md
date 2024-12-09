@@ -114,10 +114,9 @@ Events & Marketing
     * [![public cloud](/img/common/suite/public-cloud.svg)
         
         Public Cloud (IaaS) Create your projects in a high-end, ultra-competitive Cloud](https://www.infomaniak.com/en/hosting/public-cloud)
-    * ![](/img/common/suite/kaas.svg)
+    * [![](/img/common/suite/kaas.svg)
         
-        Kubernetes service Deployez vos applications conteneurisees a grande echelle.
-        
+        Kubernetes service Deployez vos applications conteneurisees a grande echelle.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
     * [![Cloud Server](/img/common/suite/unmanaged-cloud.svg)
         
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
@@ -238,7 +237,7 @@ Events & Marketing
     [Bug Bounty Programme](https://www.infomaniak.com/en/secure/bug-bounty)
     
 
-[Create an account](https://welcome.infomaniak.com/signup?lang=en) [Sign in](https://login.infomaniak.com/en/login)
+[Get started for free](https://welcome.infomaniak.com/signup)[Sign in](https://login.infomaniak.com/en/login)
 
 *  ![search-icon](/img/nav-v2/search.svg)
     
@@ -252,14 +251,7 @@ Events & Marketing
     
 * ![search-icon](/img/nav-v2/search.svg)
 
-* [My account](https://login.infomaniak.com/en/login)
-    
-    * [Workspace
-        
-        Webmail, contacts, calendar](https://login.infomaniak.com/loginWebmail?lang=en)
-    * [Manager
-        
-        Managing Infomaniak products](https://login.infomaniak.com/en/login)
+* [Get started for free](https://welcome.infomaniak.com/signup)[Sign in](https://login.infomaniak.com/en/login)
     
 
 Price  excl. taxesincl. taxes excl. taxes Price  excl. taxesincl. taxes excl. taxes
