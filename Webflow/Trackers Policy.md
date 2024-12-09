@@ -244,7 +244,7 @@ Capitalized terms that are not defined in this Policy have the meaning given the
 
 > **HI THERE**  
 >   
-> Welcome to Webflow's Cookie Policy!If it was purely up to us, we'd made this policy all about giving out fresh-baked cookies every time you design something awesome in Webflow – but alas, we'll need to talk more about browsers than snickerdoodles in this particular policy.
+> Welcome to Webflow's Cookie Policy! If it was purely up to us, we'd made this policy all about giving out fresh-baked cookies every time you design something awesome in Webflow – but alas, we'll need to talk more about browsers than snickerdoodles in this particular policy.
 
 What cookies are
 ----------------
