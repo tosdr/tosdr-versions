@@ -18,7 +18,7 @@ No options
 * [Community](https://community.the-qrcode-generator.com/)
 *  [![globe icon](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/Globe_icon.svg) English](javascript:void(0);)
 
-[Sign in](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_up)
+[Sign in](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=header_sign_up)
 
 [![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/logo/tqrcg_logo_asset_1.webp "The qrcode generator")](https://www.the-qrcode-generator.com/)[Generate](https://www.the-qrcode-generator.com/)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
 
