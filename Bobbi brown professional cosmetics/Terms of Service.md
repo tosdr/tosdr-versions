@@ -2,7 +2,7 @@
 
 Previous
 
-[Today only 50% off Dazzle & Glow 12-Day Advent Calendar. Use code: **DAY1** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+[Buy 2 Long-Wear Cream Shadow Sticks and save 50% on each. Use code: **DAY2** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
