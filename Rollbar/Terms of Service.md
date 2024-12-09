@@ -278,6 +278,7 @@ App Guide
     * ["There was a problem trying to connect to your Asana account." message appears](https://docs.rollbar.com/docs/there-was-a-problem-trying-to-connect-to-your-asana-account-message-appears)
     * [Sending Rollbar Notifications to Discord](https://docs.rollbar.com/docs/sending-discord-notifications-using-webhooks-and-hookdeck)
     * [Billing FAQs](https://docs.rollbar.com/docs/billing-faqs)
+    * [Slack Notification Practical Examples](https://docs.rollbar.com/docs/slack-notification-practical-examples)
 
 Feature Reference
 -----------------
