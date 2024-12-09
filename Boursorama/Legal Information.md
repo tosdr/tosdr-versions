@@ -465,8 +465,6 @@ Documentation Contractuelle
 
 Données personnelles
 
-* [Gérer mes cookies](javascript:// "Gérer mes cookies")
-    
 * [Politique de cookies](https://www.boursorama.com/aide/politique-cookies "Politique de cookies (nouvelle fenêtre)")
     
 * [Politique de protection des données membres et visiteurs](https://s.brsimg.com/content/pdf/reglementaire/politique-de-protection-des-donnees-membres.pdf "Politique de protection des données membres et visiteurs (nouvelle fenêtre)")
