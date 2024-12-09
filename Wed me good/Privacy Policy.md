@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Sobhita Dhulipala and Naga Chaitanya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Sobhita Dhulipala and Naga Chaitanya](https://image.wedmegood.com/resized/250X/uploads/images/c2ab113b5615471ebf0d12d76fbfecc4realwedding/Snapinsta.app_469853022_984584490152365_3959553071423928342_n_1080.jpg?crop=119,26,858,482)
+
+Sobhita Dhulipala and Naga Chaitanya (Hyderabad)](https://www.wedmegood.com/real_wedding/detail/sobhita-dhulipala-and-naga-chaitanya-hyderabad-telugu-wedding-4451)
+
 [![Ritika and Akash](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Ritika and Akash](https://image.wedmegood.com/resized/250X/uploads/images/7466b1a0e78c44dbac4a13515e8675aerealwedding/IMG_2470.JPG?crop=118,1071,1016,571)
 
 Ritika and Akash (Udaipur)](https://www.wedmegood.com/real_wedding/detail/ritika-and-akash-udaipur-gujarati-wedding-4449)
-
-[![Apeksha and Mohit](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Apeksha and Mohit](https://image.wedmegood.com/resized/250X/uploads/images/e6bbd17f37f644b2b79feaffa7ba2107realwedding/AppyForMo_13.jpg?crop=135,853,1221,686)
-
-Apeksha and Mohit (Rajasthan)](https://www.wedmegood.com/real_wedding/detail/apeksha-and-mohit-rajasthan-cross-culture-wedding-4446)
 
 Browse by Category
 
