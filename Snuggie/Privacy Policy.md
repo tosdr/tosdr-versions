@@ -1,14 +1,11 @@
 [Skip to content](#MainContent)
 
-[IT'S SNUGGIE WEEK! 25% OFF SITE WIDE + 35% OFF ADDITIONAL ITEMS!](https://snuggiestore.com/pages/snuggie-week-sale "SNUGGIE WEEK SALE!")
-
-Free Gift and Free Shipping on orders over $60!
+FREE SHIPPING AND FREE GIFT ON ORDERS OVER $60
 
  
 
 [![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=155)![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=230)](https://snuggiestore.com/)
 
-* [SNUGGIE WEEK SALE!](https://snuggiestore.com/pages/snuggie-week-sale)
 * Shop All
     
     [SNUGGIE](https://snuggiestore.com/collections/e-shop-all)
@@ -50,7 +47,6 @@ Free Gift and Free Shipping on orders over $60!
 
 [![Snuggie Store](//snuggiestore.com/cdn/shop/files/Snuggie_Shopify_Logo_a8832295-c9a7-48dc-81f4-76e4947ade17.png?v=1702394708&width=155)](https://snuggiestore.com/)
 
-* [SNUGGIE WEEK SALE!](https://snuggiestore.com/pages/snuggie-week-sale)
 * Shop All
     
     Shop All
