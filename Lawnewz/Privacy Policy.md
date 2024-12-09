@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Pamela-Monslave-BWC-432x243.jpg)](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
+1. [![Aileen Cannon, Ryan Routh](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/alleged-trump-assassin-wants-help-from-judge-who-dismissed-jack-smiths-mar-a-lago-case-against-the-president-elect/)
     
-    ### ['I gave it back': Florida woman explains alleged kidnapping of 3-year-old, says 'everybody was like don't get the little boy'](https://lawandcrime.com/crime/i-gave-it-back-florida-woman-explains-alleged-kidnapping-of-3-year-old-says-everybody-was-like-dont-get-the-little-boy/)
+    ### [Alleged Trump assassin wants help from judge who dismissed Jack Smith's Mar-a-Lago case against the president-elect](https://lawandcrime.com/high-profile/alleged-trump-assassin-wants-help-from-judge-who-dismissed-jack-smiths-mar-a-lago-case-against-the-president-elect/)
     
-2. [![Donald Trump in Wisconsin.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/AP24251730785247-432x243.jpeg)](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
+2. [![Insets, left to right: Shawn Stines (CBS/YouTube) and Kevin Mullins (Kentucky Court of Justice via AP). Background: Outside the Letcher County Courthouse in Kentucky (WHAS).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/sheriffjudge-432x243.jpg)](https://lawandcrime.com/crime/running-a-brothel-judge-killed-in-chambers-by-sheriff-was-part-of-sextortion-scheme-where-women-on-house-arrest-exchanged-sex-for-special-treatment-lawyer-says/)
     
-    ### [Woman who threatened to blow up Donald Trump after watching 'too much MSNBC' is going to federal prison](https://lawandcrime.com/high-profile/woman-who-threatened-to-blow-up-donald-trump-after-watching-too-much-msnbc-is-going-to-federal-prison/)
+    ### ['Running a brothel': Judge killed in chambers by sheriff was part of sextortion scheme where women on house arrest exchanged sex for special treatment, lawyer says](https://lawandcrime.com/crime/running-a-brothel-judge-killed-in-chambers-by-sheriff-was-part-of-sextortion-scheme-where-women-on-house-arrest-exchanged-sex-for-special-treatment-lawyer-says/)
     
-3. [![Philip Sean Grillo (U.S. Attorney's Office).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/j6-432x243.jpg)](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
+3. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2023/03/Gabriel-Augustin-Garcia-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/nancy-come-out-and-play-former-army-captain-and-proud-boys-member-headed-to-prison-for-storming-the-capitol-on-jan-6/)
     
-    ### ['Trump's gonna pardon me': Jan. 6 rioter who smoked marijuana in the Capitol defiantly tells off judge at his sentencing](https://lawandcrime.com/high-profile/trumps-gonna-pardon-me-jan-6-rioter-who-smoked-marijuana-in-the-capitol-defiantly-tells-off-judge-at-his-sentencing/)
+    ### ['Nancy, come out and play:' Former Army captain and Proud Boys member headed to prison for storming the Capitol on Jan. 6](https://lawandcrime.com/high-profile/nancy-come-out-and-play-former-army-captain-and-proud-boys-member-headed-to-prison-for-storming-the-capitol-on-jan-6/)
     
-4. [![Left to right: Jim Jordan, Jack Smith, and Fani Willis.](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Jordan-Smith-Willis-432x243.jpg)](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
+4. [![Hillsborough deputy shooting](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Hillsborough-deputy-shooting-432x243.jpg)](https://lawandcrime.com/crime/bodycam-deputies-bust-through-window-and-holiday-decorations-to-shoot-man-holding-woman-at-knifepoint/)
     
-    ### ['Expects your voluntary compliance': Jim Jordan gives Fani Willis a tight deadline to turn over Jack Smith documents](https://lawandcrime.com/high-profile/expects-your-voluntary-compliance-jim-jordan-gives-fani-willis-a-tight-deadline-to-turn-over-jack-smith-documents/)
+    ### [Bodycam: Deputies bust through window and holiday decorations to shoot man holding woman at knifepoint](https://lawandcrime.com/crime/bodycam-deputies-bust-through-window-and-holiday-decorations-to-shoot-man-holding-woman-at-knifepoint/)
     
-5. [![Left to right: Sintia Perez and Jace Hirschy appear in booking photos.](https://am21.mediaite.com/lc/cnt/uploads/2024/12/Perez-Hirschy-432x243.jpg)](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
+5. [![President-elect Donald Trump on ](https://am23.mediaite.com/lc/cnt/uploads/2024/12/trump-MEET-2-432x243.jpg)](https://lawandcrime.com/high-profile/first-day-trump-vows-to-act-very-quickly-to-pardon-jan-6-rioters-says-liz-cheney-and-house-select-committee-members-should-be-in-jail-in-first-tv-interview-since-election/)
     
-    ### ['Darkly discolored': Parents allegedly left 2-year-old girl in closet with space heater overnight until she died with an internal body temperature over 109 degrees](https://lawandcrime.com/crime/darkly-discolored-parents-allegedly-left-2-year-old-girl-in-closet-with-space-heater-overnight-until-she-died-with-an-internal-body-temperature-over-109-degrees/)
+    ### ['First day': Trump vows to act 'very quickly' to pardon Jan. 6 rioters, says Liz Cheney and House select committee members 'should be in jail' in first TV interview since election](https://lawandcrime.com/high-profile/first-day-trump-vows-to-act-very-quickly-to-pardon-jan-6-rioters-says-liz-cheney-and-house-select-committee-members-should-be-in-jail-in-first-tv-interview-since-election/)
     
 
 [](http://eepurl.com/c89Jdb)
