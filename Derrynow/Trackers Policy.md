@@ -277,13 +277,6 @@ The scene of the incident on Saint Brendan's Road remains preserved for a techni
 [Teenage e-scooter user critically injured in 'serious road traffic incident'](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![ALERT: Gardaí launch investigation following discovery of man's body in Cork](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí launch investigation following discovery of man's body in Cork")](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
 
 The Coroner has been notified and a post mortem will take place in due course.
@@ -342,6 +335,15 @@ Seamus Coleman joined Everton from Sligo Rovers in 2009
 
 [Happier than Ever-ton: Teen overjoyed as captain makes up for postponed game](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
+
+Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +525,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 [![NIFRS urges Derry residents to keep safety top of your list this holiday season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NIFRS urges Derry residents to keep safety top of your list this holiday season")](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -530,7 +539,7 @@ Advertise with Us
 [NIFRS urges Derry residents to keep safety top of your list this holiday season](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
+[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/resizer/165/93/true/2024_12_05/29-11-24_nat_world_21-1733401777235_1733401806.jpg--.jpg?1733401806743 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
 
 Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
 
@@ -559,13 +568,6 @@ Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gar
 
 [Hollybush Primary School invites prospective pupils and parents to their Open Morning](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_07/1733567701432_0.jpg--.jpg?1733567701502 "Trains and some buses suspended as Storm Darragh hits Northern Ireland")](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Trains and some buses suspended as Storm Darragh hits Northern Ireland](https://www.derrynow.com/news/local-news/1675268/trains-and-some-buses-suspended-as-storm-darragh-hits-northern-ireland.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
