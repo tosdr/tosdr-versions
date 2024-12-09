@@ -19,8 +19,8 @@ Docs Menu
     4. [User Responsibilities](#user-responsibilities)
     5. [Reporting Users & Content](#reporting-users--content)
     6. [Content Policy (Rules for Users)](#content-policy-rules-for-users)
-        1. [1\. Attacks on users or groups](#1-attacks-on-users-or-groups)
-        2. [1.1 Attacks on users](#11-attacks-on-users)
+        1. [1\. Attacks on people or groups](#1-attacks-on-people-or-groups)
+        2. [1.1 Attacks on people](#11-attacks-on-people)
         3. [1.2 Discrimination against minority / at-risk groups](#12-discrimination-against-minority--at-risk-groups)
         4. [2\. Respecting other users privacy (doxing)](#2-respecting-other-users-privacy-doxing)
         5. [2.1 Privacy (Exceptions)](#21-privacy-exceptions)
@@ -34,12 +34,13 @@ Docs Menu
         13. [4.2 Copyright Takedown Notice Compliance](#42-copyright-takedown-notice-compliance)
         14. [5\. Individual Communities](#5-individual-communities)
         15. [5.1 Community Manipulation](#51-community-manipulation)
-        16. [6\. Violent Content](#6-violent-content)
-        17. [6.1 War Footage](#61-war-footage)
-        18. [6.2 Violent Content (Exceptions)](#62-violent-content-exceptions)
-        19. [7.0 Advertising](#70-advertising)
-        20. [8.0 Misinformation](#80-misinformation)
-        21. [8.1 Do No Harm](#81-do-no-harm)
+        16. [5.2 Community Moderation](#52-community-moderation)
+        17. [6\. Violent Content](#6-violent-content)
+        18. [6.1 War Footage](#61-war-footage)
+        19. [6.2 Violent Content (Exceptions)](#62-violent-content-exceptions)
+        20. [7.0 Advertising](#70-advertising)
+        21. [8.0 Misinformation](#80-misinformation)
+        22. [8.1 Do No Harm](#81-do-no-harm)
     7. [Legal Factuality Requirements](#legal-factuality-requirements)
     8. [Our Rights](#our-rights)
     9. [Bot Usage and Guidelines](#bot-usage-and-guidelines)
@@ -103,7 +104,7 @@ This page is made to be helpful to you.
 
 Please view the website sidebar for documentation in detail.
 
-**LAST REVISED:** 2024-09-04:
+**LAST REVISED:** 2024-12-08:
 
 ![header](/images/header.jpg)
 
