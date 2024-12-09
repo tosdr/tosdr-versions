@@ -1,4 +1,4 @@
-Cyber Monday Deals Up To 50% OFF See all deals
+Holiday Sale - Up to 40% off See all deals
 
 Point finders for Google's Find My Device app Order now
 
@@ -32,9 +32,9 @@ Compare products [Store](https://chipolo.net/en-us/pages/chipolo-collection) [Lo
 
 Compare products
 
-Cyber Monday Sale
+Holiday sale
 
-[Link to the promotion](https://chipolo.net/en-us/pages/cyber-monday-sale)
+[Link to the promotion](https://chipolo.net/en-us/pages/holiday-sale-2024)
 
 Terms of Use
 ============
@@ -302,6 +302,19 @@ It seems like you are on the wrong store compared to your location. Please selec
 Go to site
 
 [Close button Stay on current site](javascript:)
+
+Button to minimize modal
+
+#### Get 10% off!
+
+Join our newsletter and get first access  
+to new products and surprise treats.  
+
+\*Special offers, Spot, and Point finders excluded
+
+     GET THE DISCOUNT
+
+**Thank you for subscribing!**
 
 Button to close size-chart
 
