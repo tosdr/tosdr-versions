@@ -326,28 +326,6 @@ Privacy & Security
 * [Social Media Community Guidelines](https://www.regions.com/about-regions/privacy-security/social-media-community-guidelines)
 * [Vulnerability Disclosure Program](https://www.regions.com/about-regions/privacy-security/vulnerability-disclosure-program)
 
-Related Insights
-----------------
-
-[See All Insights](https://www.regions.com/Insights/InsightsLibrary)
-
-* [4 Easy Steps to Financial Management](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/4-steps-to-take-charge-of-your-accounts)
-    
-    Article
-    
-* [Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
-    
-    Video
-    
-* [4 tips for choosing a checking account](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/opening-a-checking-account)
-    
-    Article
-    
-* [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
-    
-    Article
-    
-
 You are here:
 -------------
 
@@ -430,5 +408,3 @@ You’re leaving Regions.com to visit an external website or app.
 Regions provides links to other websites or apps for your convenience and does not control the content, services or products provided on the linked website or app, whose Privacy and security policies or procedures may differ. Consult the policies or disclosures on their website.
 
 [Continue](#) Cancel
-
- [![](-/media/Images/Icon/icon-calendar/icon-calendar.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website&view=embed "make-an-appointment")
