@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2045%2052'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/permission-entries-45x52.jpg.optimal.jpg)](https://thebackroomtech.com/2009/07/01/howto-delegate-the-enabledisable-accounts-permission-in-active-directory/ "Howto: Delegate the Enable/Disable Accounts Permission in Active Directory")[Howto: Delegate the Enable/Disable Accounts Permission in Active Directory](https://thebackroomtech.com/2009/07/01/howto-delegate-the-enabledisable-accounts-permission-in-active-directory/ "Howto: Delegate the Enable/Disable Accounts Permission in Active Directory")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/amazon-sns-ft-80x45.png)](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")[How to Setup Amazon SNS](https://thebackroomtech.com/2021/03/12/how-to-setup-amazon-sns/ "How to Setup Amazon SNS")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2029'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/6-configure-role-services-80x48.png)](https://thebackroomtech.com/2018/07/22/active-directory-certificate-services-installation/ "Active Directory Certificate Services Installation")[Active Directory Certificate Services Installation](https://thebackroomtech.com/2018/07/22/active-directory-certificate-services-installation/ "Active Directory Certificate Services Installation")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2042%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/set-static-ipv4-80x29.jpg.optimal.jpg)](https://thebackroomtech.com/2017/09/29/configure-vmware-esxi-static-ip-address/ "How to Configure VMware ESXi with a Static IP Address")[How to Configure VMware ESXi with a Static IP Address](https://thebackroomtech.com/2017/09/29/configure-vmware-esxi-static-ip-address/ "How to Configure VMware ESXi with a Static IP Address")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/disable-click-sound-windows-xp-42x52.png)](https://thebackroomtech.com/2009/01/29/howto-disable-the-clicking-sound-in-internet-explorer-and-windows-explorer/ "Howto: Disable the clicking sound in Internet Explorer and Windows Explorer")[Howto: Disable the clicking sound in Internet Explorer and Windows Explorer](https://thebackroomtech.com/2009/01/29/howto-disable-the-clicking-sound-in-internet-explorer-and-windows-explorer/ "Howto: Disable the clicking sound in Internet Explorer and Windows Explorer")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/cent-os-80x27.png)](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")[Configure CentOS to Sync with NTP Time Servers](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2070%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/vmware-workstation-80x46.png)](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")[Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use](https://thebackroomtech.com/2009/04/02/fix-for-vmware-error-could-not-open-virtual-machine-this-virtual-machine-appears-to-be-in-use/ "Fix for VMWare error: Could not open virtual machine, this virtual machine appears to be in use")
+    ![](https://s11921.pcdn.co/wp-content/uploads/outlookresendmessge-1-70x52.png)](https://thebackroomtech.com/2010/09/15/resend-email-in-outlook-2003-2007-2010/ "Resend Email in Outlook 2003, 2007, 2010")[Resend Email in Outlook 2003, 2007, 2010](https://thebackroomtech.com/2010/09/15/resend-email-in-outlook-2003-2007-2010/ "Resend Email in Outlook 2003, 2007, 2010")
 
 #### Our Publishing Family
 
