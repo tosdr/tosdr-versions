@@ -6,6 +6,8 @@ Overall [Current](https://www.defconlevel.com/current-level.php "Current Defcon 
 
 [FLASH](https://www.defconlevel.com/current-level.php#breaking "Breaking News") | [AFRICA](https://www.defconlevel.com/africa-command-news.php "Africa") | [MIDEAST](https://www.defconlevel.com/central-command-news.php "Middle East") | [CYBER](https://www.defconlevel.com/cyber-command-news.php "Cyber") | [EUROPE](https://www.defconlevel.com/european-command-news.php "Europe") | [ASIA](https://www.defconlevel.com/indo-pacific-command-news.php "Indo-Pacific") | [USA](https://www.defconlevel.com/northern-command-news.php "Middle East") | [LATAM](https://www.defconlevel.com/southern-command-news.php "South America") | [SPACE/NUCLEAR](https://www.defconlevel.com/space-command-news.php "Space") | [SPEC-OPS](https://www.defconlevel.com/special-operations-command-news.php "Special Ops")
 
+[Add Defcon Level To Smartphone](https://www.defconlevel.com/share-defcon-level.php#howtoaddtohomescreen "QR Share and scan codes")
+
 * [Home](https://www.defconlevel.com/ "Home")
 * [Current](https://www.defconlevel.com/current-level.php "Current level")
 * [Alerts](https://www.defconlevel.com/news-alerts.php "Defcon Level Alerts")
