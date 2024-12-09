@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+    
+    Dec 8, 2024 | 11:03 AM EST
+    
+    ### [Celebrating 30 years of PlayStation: What’s your favourite PS exclusive?](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+    
     [](https://mobilesyrup.com/2024/12/05/lego-star-wars-the-skywalker-saga-epic-games-store-free/)
     
     Dec 5, 2024 | 5:16 PM EST
@@ -46,13 +52,13 @@
     
     ### [MSI reveals Claw 8 AI and Claw 7 AI+ gaming handhelds](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
     
-    [](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
-    
-    Dec 3, 2024 | 2:26 PM EST
-    
-    ### [Monument Valley 3 is perfect for Netflix Games](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+        
+        Dec 8, 2024 | 11:03 AM EST
+        
+        ### [Celebrating 30 years of PlayStation: What’s your favourite PS exclusive?](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
         
         [](https://mobilesyrup.com/2024/12/05/lego-star-wars-the-skywalker-saga-epic-games-store-free/)
         
@@ -84,14 +90,26 @@
         
         ### [MSI reveals Claw 8 AI and Claw 7 AI+ gaming handhelds](https://mobilesyrup.com/2024/12/03/msi-claw-8-ai-gaming-handhelds/)
         
-        [](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
-        
-        Dec 3, 2024 | 2:26 PM EST
-        
-        ### [Monument Valley 3 is perfect for Netflix Games](https://mobilesyrup.com/2024/12/03/monument-valley-3-netflix-games-ios-review/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
+    
+    [](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+    
+    Dec 8, 2024 | 11:03 AM EST
+    
+    ### [Celebrating 30 years of PlayStation: What’s your favourite PS exclusive?](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+    
+    [](https://mobilesyrup.com/2024/12/06/purolator-ups-paused-shipments-canada-post-strike/)
+    
+    Dec 6, 2024 | 4:46 PM EST
+    
+    ### [Purolator and UPS pause shipments amid Canada Post strike](https://mobilesyrup.com/2024/12/06/purolator-ups-paused-shipments-canada-post-strike/)
+    
+    [](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
+    
+    Dec 6, 2024 | 3:57 PM EST
+    
+    ### [Apple’s iPhone modem is almost ready for prime time](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
     
     [](https://mobilesyrup.com/2024/12/06/the-pope-will-be-riding-in-an-ev-popemobile/)
     
@@ -110,24 +128,6 @@
     Dec 6, 2024 | 12:39 PM EST
     
     ### [Android ‘Expressive Captions’ feature launches in the U.S.](https://mobilesyrup.com/2024/12/06/android-expressive-caption/)
-    
-    [](https://mobilesyrup.com/2024/12/06/apple-delays-robot-vacuum-support-to-2025/)
-    
-    Dec 6, 2024 | 11:36 AM EST
-    
-    ### [Apple delays robot vacuum support to 2025](https://mobilesyrup.com/2024/12/06/apple-delays-robot-vacuum-support-to-2025/)
-    
-    [](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
-    
-    Dec 6, 2024 | 10:50 AM EST
-    
-    ### [Pixel 6, 7 series get an extra two years of software upgrades](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
-    
-    [](https://mobilesyrup.com/2024/12/06/asus-giving-away-free-rog-ally-with-their-pcs/)
-    
-    Dec 6, 2024 | 9:00 AM EST
-    
-    ### [ASUS is giving away a free ROG Ally with their PCs](https://mobilesyrup.com/2024/12/06/asus-giving-away-free-rog-ally-with-their-pcs/)
     
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
         
@@ -169,6 +169,12 @@
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
+        [](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
+        
+        Dec 6, 2024 | 3:57 PM EST
+        
+        ### [Apple’s iPhone modem is almost ready for prime time](https://mobilesyrup.com/2024/12/06/apples-iphone-modem-is-almost-ready-for-prime-time/)
+        
         [](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
         
         Dec 6, 2024 | 10:50 AM EST
@@ -198,12 +204,6 @@
         Dec 3, 2024 | 4:27 PM EST
         
         ### [OnePlus 13 launches in Canada in January](https://mobilesyrup.com/2024/12/03/oneplus-13-canada-january/)
-        
-        [](https://mobilesyrup.com/2024/11/28/earn-up-pc-optimum-points-black-friday-mobile-shop/)
-        
-        Nov 28, 2024 | 4:34 PM EST
-        
-        ### [Earn up to $200 in PC Optimum points this Black Friday with The Mobile Shop](https://mobilesyrup.com/2024/11/28/earn-up-pc-optimum-points-black-friday-mobile-shop/)
         
     * [Tablets & Computers](https://mobilesyrup.com/categories/news/news-tablets/)
         
@@ -245,6 +245,12 @@
         
     * [Apps & Software](https://mobilesyrup.com/categories/news/news-apps-software/)
         
+        [](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+        
+        Dec 8, 2024 | 11:03 AM EST
+        
+        ### [Celebrating 30 years of PlayStation: What’s your favourite PS exclusive?](https://mobilesyrup.com/2024/12/08/30-years-of-playstation/)
+        
         [](https://mobilesyrup.com/2024/12/06/google-pixel-6-7-fold-two-extra-years-software-upgrades/)
         
         Dec 6, 2024 | 10:50 AM EST
@@ -274,12 +280,6 @@
         Dec 3, 2024 | 3:18 PM EST
         
         ### [Pixel can tell you if your phone is too hot](https://mobilesyrup.com/2024/12/03/pixel-temperature-too-hot/)
-        
-        [](https://mobilesyrup.com/2024/12/03/apple-music-top-songs-2024/)
-        
-        Dec 3, 2024 | 12:50 PM EST
-        
-        ### [Apple Music’s top song in 2024 is Not Like Us by Kendrick Lamar](https://mobilesyrup.com/2024/12/03/apple-music-top-songs-2024/)
         
     * [Smart Home](https://mobilesyrup.com/categories/news/news-smart-home/)
         
@@ -512,6 +512,18 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/12/07/indiana-jones-and-the-great-circle-xbox-series-x-review/)
+    
+    Dec 7, 2024 | 2:28 PM EST
+    
+    ### [Indiana Jones and the Great Circle nails the vibe of Indy, but gameplay often disappoints](https://mobilesyrup.com/2024/12/07/indiana-jones-and-the-great-circle-xbox-series-x-review/)
+    
+    [](https://mobilesyrup.com/2024/12/06/lg-cinebeam-q-review-close-but-no-hdr/)
+    
+    Dec 6, 2024 | 5:34 PM EST
+    
+    ### [LG Cinebeam Q review: Close, but no HDR](https://mobilesyrup.com/2024/12/06/lg-cinebeam-q-review-close-but-no-hdr/)
+    
     [](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
     
     Dec 4, 2024 | 6:00 AM EST
@@ -535,18 +547,6 @@
     Nov 29, 2024 | 6:02 PM EST
     
     ### [Sonos Arc Ultra Review: Bringing the theatre home](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
-    
-    [](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
-    
-    Nov 29, 2024 | 9:00 AM EST
-    
-    ### [Samsung Odyssey G8 G80SD is a stunning gaming monitor with a smooth 240Hz refresh rate](https://mobilesyrup.com/2024/11/29/samsung-odyssey-g8-g80sd-stunning-gaming-monitor-smooth-240hz-refresh-rate-2/)
-    
-    [](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
-    
-    Nov 24, 2024 | 11:03 AM EST
-    
-    ### [Razer’s Blackwidow V4 Pro 75% brought typing bliss to my fingers](https://mobilesyrup.com/2024/11/24/razer-blackwidow-v4-pro-75-keyboard-review/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -626,6 +626,12 @@
         
     * [Smart Home](https://mobilesyrup.com/categories/reviews/reviews-smart-home/)
         
+        [](https://mobilesyrup.com/2024/12/06/lg-cinebeam-q-review-close-but-no-hdr/)
+        
+        Dec 6, 2024 | 5:34 PM EST
+        
+        ### [LG Cinebeam Q review: Close, but no HDR](https://mobilesyrup.com/2024/12/06/lg-cinebeam-q-review-close-but-no-hdr/)
+        
         [](https://mobilesyrup.com/2024/11/29/sonos-arc-ultra-review-bringing-the-theatre-home/)
         
         Nov 29, 2024 | 6:02 PM EST
@@ -655,12 +661,6 @@
         Sep 7, 2024 | 11:12 AM EDT
         
         ### [I still love Nanoleaf’s Umbra Cono and Cup smart lamps despite all the bugs](https://mobilesyrup.com/2024/09/07/nanoleaf-umbra-cono-cup-smart-lamp-review/)
-        
-        [](https://mobilesyrup.com/2024/08/30/homepod-mini-replace-sonos-2024-review/)
-        
-        Aug 30, 2024 | 12:41 PM EDT
-        
-        ### [The HomePod mini is the key to an Apple smart home](https://mobilesyrup.com/2024/08/30/homepod-mini-replace-sonos-2024-review/)
         
     * [Automotive](https://mobilesyrup.com/categories/reviews/reviews-automotive/)
         
@@ -740,6 +740,12 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/12/07/indiana-jones-and-the-great-circle-xbox-series-x-review/)
+        
+        Dec 7, 2024 | 2:28 PM EST
+        
+        ### [Indiana Jones and the Great Circle nails the vibe of Indy, but gameplay often disappoints](https://mobilesyrup.com/2024/12/07/indiana-jones-and-the-great-circle-xbox-series-x-review/)
+        
         [](https://mobilesyrup.com/2024/12/04/fantasian-neo-dimension-ps5-review/)
         
         Dec 4, 2024 | 6:00 AM EST
@@ -769,12 +775,6 @@
         Nov 17, 2024 | 11:01 AM EST
         
         ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
-        
-        [](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
-        
-        Nov 16, 2024 | 2:27 PM EST
-        
-        ### [Dragon Quest III HD-2D Remake is the perfect blast from the past](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
@@ -817,6 +817,12 @@
     
 * [Features](https://mobilesyrup.com/categories/features/)
     
+    [](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
+    
+    Dec 7, 2024 | 11:03 AM EST
+    
+    ### [Montreal’s Acrylic Robotics mixes paint and robots to produce fine art](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
+    
     [](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
     
     Nov 30, 2024 | 2:31 PM EST
@@ -846,12 +852,6 @@
     Nov 21, 2024 | 9:00 AM EST
     
     ### [How Obsidian is making Avowed more welcoming for everyone](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-accessibility-interview/)
-    
-    [](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
-    
-    Nov 21, 2024 | 9:00 AM EST
-    
-    ### [After playing Obsidian’s Avowed, it’s now one of my most anticipated games](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
     
     * [Carriers](https://mobilesyrup.com/categories/features/features-carriers/)
         
@@ -969,6 +969,12 @@
         
     * [General](https://mobilesyrup.com/categories/features/features-general/)
         
+        [](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
+        
+        Dec 7, 2024 | 11:03 AM EST
+        
+        ### [Montreal’s Acrylic Robotics mixes paint and robots to produce fine art](https://mobilesyrup.com/2024/12/07/montreal-acrylic-robotics-painting/)
+        
         [](https://mobilesyrup.com/2024/11/30/star-wars-knights-of-the-old-republic-ii-the-sith-lords-20th-anniversary-editorial/)
         
         Nov 30, 2024 | 2:31 PM EST
@@ -998,12 +1004,6 @@
         Nov 21, 2024 | 9:00 AM EST
         
         ### [How Obsidian is making Avowed more welcoming for everyone](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-accessibility-interview/)
-        
-        [](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
-        
-        Nov 21, 2024 | 9:00 AM EST
-        
-        ### [After playing Obsidian’s Avowed, it’s now one of my most anticipated games](https://mobilesyrup.com/2024/11/21/obsidian-avowed-xbox-pc-preview/)
         
     
 * [Resources](https://mobilesyrup.com/categories/resources/)
