@@ -181,12 +181,12 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Spotify Wrapped 2024](https://techcrunch.com/2024/12/04/spotify-wrapped-2024-adds-an-ai-podcast-powered-by-googles-notebooklm/)
-* [David Mayer ChatGPT](https://techcrunch.com/2024/12/03/why-does-the-name-david-mayer-crash-chatgpt-digital-privacy-requests-may-be-at-fault/)
-* [AWS re:Invent 2024](https://techcrunch.com/storyline/aws-reinvent-2024-live-updates-from-amazons-biggest-event/)
-* [Walmart Acquires Vizio](https://techcrunch.com/2024/12/03/walmart-completes-23b-acquisition-of-vizio-to-help-grow-its-ad-business/)
-* [OpenAI’s Sora](https://techcrunch.com/video/surreal-elderhood-using-openais-text-to-video-model-sora/)
+* [OpenAI’s Sora](https://techcrunch.com/2024/12/09/openais-sora-is-launching-today-heres-highlights-from-the-first-review/)
+* [Reddit AI Search](https://techcrunch.com/2024/12/09/reddit-tests-a-conversational-ai-search-tool/)
+* [12 Days of OpenAI](https://techcrunch.com/storyline/openais-2024-event-live-updates-for-chatgpt-product-reveals-and-demos/)
+* [TikTok Ban](https://techcrunch.com/2024/12/09/bytedance-tiktok-ask-appeals-court-to-temporarily-block-sell-or-ban-law/)
+* [Nvidia Antitrust Probe](https://techcrunch.com/2024/12/09/china-opens-antitrust-probe-into-nvidia/)
 * [Tech Layoffs](https://techcrunch.com/2024/12/04/tech-layoffs-2024-list/)
-* [ChatGPT](https://techcrunch.com/2024/12/04/chatgpt-everything-to-know-about-the-ai-chatbot/)
+* [ChatGPT](https://techcrunch.com/2024/12/09/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
