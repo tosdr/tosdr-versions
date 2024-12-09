@@ -101,6 +101,8 @@ If you prefer generalised (non-personalised, non-targeted) ads, visit the links 
 
 For a list of First Party Cookies and a link to a list of Third Party Cookies, please see "Agents, Consultants and Related Third Parties" above.
 
+Last updated on **Nov 13, 2024**
+
 [Previous
 
 Candidate Data Privacy Notice](https://www.overwolf.com/docs/overwolf/candidate-data-privacy-notice)[Next
