@@ -5,7 +5,6 @@
     1. [Unerledigte Themen](https://gg-community.de/forum/unresolved-thread-list/)
 3. [Wiki](https://gg-community.de/lexicon/)
 4. [Server](https://gg-community.de/game-server-viewer-server-list/)
-    1. [FrankfurtRP Regelwerk](https://gg-community.de/prp-regelwerk/)
 5. [Mitglieder](https://gg-community.de/members-list/)
     1. [Mitgliedersuche](https://gg-community.de/user-search/)
     2. [Team](https://gg-community.de/team/)
