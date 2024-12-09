@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Bioshock Review](https://www.somethingawful.com/game-reviews/bioshock-review/1/)
-* [Slurmania](https://www.somethingawful.com/weekend-web/slurmania/)
-* [GI Army Funnies: The New Assignment](https://www.somethingawful.com/news/military-comic-afghanistan/1/)
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Careers for Kids!](https://www.somethingawful.com/comedy-goldmine/careers-kids-mspaint/1/)
+* [vTeen and Other Random Idiots](https://www.somethingawful.com/weekend-web/vteen-other-random/1/)
+* [Pigeons, Sex Addicts, and Cool-Teens](https://www.somethingawful.com/weekend-web/pigeons-sex-addicts/1/)
+* [Animal Anomalies 4](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-4/1/)
+* [ConanOBrien.net Boards, Myjellybean, Swirve Utopia, and TheXpower](https://www.somethingawful.com/weekend-web/conanobriennet-boards-myjellybea/1/)
+* [AARP Boards, HL2World, Idol Forums, and Nexopia](https://www.somethingawful.com/weekend-web/aarp-boards-hl2world/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-trout.gif) [Name some favorite banner pets (Desktop Only?)](http://forums.somethingawful.com/showthread.php?threadid=4077052 "Name some favorite banner pets (Desktop Only?)")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/music.png) [I've found a promising new musician](http://forums.somethingawful.com/showthread.php?threadid=4077038 "I've found a promising new musician")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Have you ever gotten drunk and put a lampshade on your head?](http://forums.somethingawful.com/showthread.php?threadid=4077085 "Have you ever gotten drunk and put a lampshade on your head?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Robocop: Original Soylent influencer?](http://forums.somethingawful.com/showthread.php?threadid=4077051 "Robocop: Original Soylent influencer?")
-* ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Connecticut fucking with neighbors w/highway signage MEGATHREAD](http://forums.somethingawful.com/showthread.php?threadid=4077042 "Connecticut fucking with neighbors w/highway signage MEGATHREAD")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Should Jeffrey change the name](http://forums.somethingawful.com/showthread.php?threadid=4077091 "Should Jeffrey change the name")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Have you ever gotten drunk and put a lampshade on your head?](http://forums.somethingawful.com/showthread.php?threadid=4077085 "Have you ever gotten drunk and put a lampshade on your head?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Hawk Tuah](http://forums.somethingawful.com/showthread.php?threadid=4077096 "Hawk Tuah")
 
 ### Random Articles
 
-* [In The Grim Future Of Terminator 2, There Are No Google Maps](https://www.somethingawful.com/news/terminator-party-directions/)
-* [A Seven-Year Old's Guide to Minecraft (Mindcraft 3?)](https://www.somethingawful.com/feature-articles/guide-minecraft-3/1/)
-* [Reunionmania!](https://www.somethingawful.com/your-band-sucks/band-reunions-2007/)
-* [Mike4Fun's homepage!](https://www.somethingawful.com/awful-links/awful-link-964/)
-* [Runner](https://www.somethingawful.com/news/runner-syndrome/)
+* [The Alternate Reality Deaths of Russell Brand](https://www.somethingawful.com/news/brand-must-die/1/)
+* [The Sentinel Was Certainly A TV Show](https://www.somethingawful.com/news/sentinel-show-senses/)
+* [Jim Jacobson's Home Page](https://www.somethingawful.com/awful-links/awful-link-687/)
+* [If Life Were More Like Cartoons](https://www.somethingawful.com/comedy-goldmine/life-were-more/1/)
+* [Duke Nukem Forever Screenshot Roundup](https://www.somethingawful.com/video-game-article/duke-nukem-image/)
 
 [Random!](https://www.somethingawful.com/random/)
 
