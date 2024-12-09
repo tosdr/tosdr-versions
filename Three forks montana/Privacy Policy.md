@@ -6,7 +6,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/c03d.png) Today's weather: Broken clouds 37°/15°
+![](/imgD/weatherbit_icons/c04d.png) Today's weather: Overcast clouds 37°/16°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -147,12 +147,10 @@ $30.00 for first 100CF (roughly 750 gallons)
 
 $15.00 for each additional 100CF
 
-[![leaves with raking leaning on fence](/images/promos_mi/mi_650_fall_cleanup2.jpg)](https://www.threeforksmontana.us/calendar-of-events)
+[![the word "notice" written on chalkboard](/images/promos_mi/mi_650_notice.png)](https://www.threeforksmontana.us/public-notices)
 
-Fall Cleanup Dumpsters!
------------------------
-
-Republic Services will have dumpsters across from the rodeo grounds the weekend of **October 31st – November 4th, 2024**.
+Find all Public Notices here
+----------------------------
 
 Slide1 Slide2 Slide3 Slide4
 
