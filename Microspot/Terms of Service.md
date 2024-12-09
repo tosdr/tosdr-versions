@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/1062.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8806.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -84,11 +84,11 @@ ACTIONGaming Week](https://www.microspot.ch/fr/cms/actions-jeux)
 
 20%de rabais sur SAMSUNG TV & Soundbar](https://www.microspot.ch/fr/cms/samsung-promotion)
 
-[![Produits Sony](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-CyberWeek-01-CM1-Promos-KW49-14.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMjA2MTN8aW1hZ2UvanBlZ3xhREF3TDJoa09DODROakI0TkRnMFgwa3lORjlUY0ZCZlEzbGlaWEpYWldWclh6QXhYME5OTVY5UWNtOXRiM05mUzFjME9WOHhOQzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZlUzQlFYME41WW1WeVYyVmxhMTh3TVY5RFRURmZVSEp2Ylc5elgwdFhORGxmTVRRdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wwZGFlZWRiYTQ3ODJmYTc0NzZlOTgyODdhYjhiOWRiYmFiMmRkZDFmY2I4NmQwNmRjYWUwN2FmMmM5ZTU3ZmZl&w=2360&q=75)
+[![Produits Sony](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-05-CM1-Promos-KW50-52-23.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMzU0MDl8aW1hZ2UvanBlZ3xhR1l5TDJnMU9DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TlY5RFRURmZVSEp2Ylc5elgwdFhOVEF0TlRKZk1qTXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmtMemcyTUhnME9EUmZTVEkwWDFOd1VGOVliV0Z6WHpBMVgwTk5NVjlRY205dGIzTmZTMWMxTUMwMU1sOHlNeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ZGQzY2M2Zjg2NmNjZWEzYzJkY2E4MTU3MDI0YWRkYjY5NzFmZTc2N2JhNmMyNDcwMGYyYjlkY2IwMzcxYjhlYg&w=2360&q=75)
 
 ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.microspot.ch/fr/brand/sony)
 
-[![ID DEAL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-02-Keynote-Mai-iPad-Pro-M4-Webbanner-FR-1-.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxNTI0NnxpbWFnZS9qcGVnfGFHUXhMMmd3T1M4NE5qQjRORGcwWHpBeVgwdGxlVzV2ZEdWZlRXRnBYMmxRWVdSZlVISnZYMDAwWDFkbFltSmhibTVsY2w5R1VpQW9NU2t1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmTURKZlMyVjVibTkwWlY5TllXbGZhVkJoWkY5UWNtOWZUVFJmVjJWaVltRnVibVZ5WDBaU0lDZ3hLUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8YzMxNTU4MDgxMWJkMDllNGM0ZjJlOTJkNTJhNTgzMDMxNDJkMGI2MWY1YmU0ZTA0MjQzMmNiOTA4ODA4NjUwZg&w=2360&q=75)
+[![ID DEAL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-06-CM2-iPad-Pro-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTQ4MjN8aW1hZ2UvanBlZ3xhR0UwTDJnek1TODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3Tmw5RFRUSmZhVkJoWkY5UWNtOWZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZlUzQlFYMWh0WVhOZk1EWmZRMDB5WDJsUVlXUmZVSEp2WHpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wyMDNiNzQ5MzQ4ODE0MzVjZjAwZmE3NDM0NGJmNzlhYzUxZGRmMzNkNTcyZTQ5OGU0ZjM1MTE3OTYxZjM3ZWU1&w=2360&q=75)
 
 100.-rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
 
@@ -160,14 +160,14 @@ SONY
 
 Objectifs macro](https://www.microspot.ch/fr/cms/blog/conseils/sony-makro)
 
-Test: PHILIPS Shaver Series S5885/25
-------------------------------------
+Test: VALERA MatrixCare AI Metallic
+-----------------------------------
 
-![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Philips-Rasierer.jpg%3Fcontext%3DbWFzdGVyfGNtc3w2ODMyOHxpbWFnZS9qcGVnfGFHTTRMMmd3TUM4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZVR2hwYkdsd2MxOVNZWE5wWlhKbGNpNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZPVEUxZURVeE5WOUpNalJmVTI5TlpWOUNiRzluWDFCb2FXeHBjSE5mVW1GemFXVnlaWEl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGEyNGMyMTBmZjE3ZDNiODI0YjM4YWJkMjRmNGFjNjVhMmJiMjZkYjk3NGU2YzM0YzUyZGQ2NzEwMDFlM2EwNTg&w=2360&q=75)
+![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F915x515-I24-SoMe-Blog-Valera-Haartrockner.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzYwOXxpbWFnZS9qcGVnfGFERTVMMmcyT1M4NU1UVjROVEUxWDBreU5GOVRiMDFsWDBKc2IyZGZWbUZzWlhKaFgwaGhZWEowY205amEyNWxjaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T1RFMWVEVXhOVjlKTWpSZlUyOU5aVjlDYkc5blgxWmhiR1Z5WVY5SVlXRnlkSEp2WTJ0dVpYSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MTk2NDc3NzQxNDkwYjBhMTg3Y2ZmNTMzYThhYjE0MTEzNDRjNmI3YTNkZDM2MWE4ZDdjYTBjNDA2YWU0ODRiZA&w=2360&q=75)
 
-Pour moi, un rasage de près est la meilleure manière de commencer la journée. Tant mieux si c'est rapide et simple et ne nécessite pas de grande préparation. C'est là que le rasoir PHILIPS série S5885/25 arrive au bon moment. J'ai testé le rasoir électrique pour toi.
+Un sèche-cheveux sèche les cheveux, il n'y a pas grand-chose à en dire. C'est en tout cas ce que je pensais jusqu'à présent. Mais après avoir testé avec ma femme le sèche-cheveux à haute vitesse MatrixCare AI du fabricant suisse Valera, je peux dire que l'on peut s'échiner avec un sèche-cheveux 0815 ou se sécher les cheveux de manière professionnelle. Et après le test, une chose est claire pour moi : cette dernière option est clairement beaucoup plus amusante.
 
-[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/philips-shaver-series-s5885-25)
+[Continuer la lecture](https://www.microspot.ch/fr/cms/blog/conseils/valera-matrixcare-ai-metallic)
 
 Nos opérateurs
 --------------
@@ -223,9 +223,9 @@ Achetez comme vous aimez
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Garantie Plus
+[Retrait gratuit
 
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
