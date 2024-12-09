@@ -13,13 +13,13 @@
 
 [Sign in](https://app.cal.com/auth/login)
 
-[Get Started](https://cal.com/signup)
+[Get started](https://cal.com/signup)
 
 [Pricing](https://cal.com/pricing)[Platform](https://cal.com/platform)[Enterprise](https://cal.com/enterprise)[Features](https://cal.com/resources/features)[Docs](https://cal.com/docs)[Blog](https://cal.com/blog)[Merch](https://cal.com/merch)
 
 Existing customer? [Login](https://app.cal.com/auth/login)
 
-[Get Started](https://app.cal.com/signup)
+[Get started](https://app.cal.com/signup)
 
 Privacy Policy
 ==============
