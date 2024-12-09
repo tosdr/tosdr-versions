@@ -190,8 +190,6 @@ Only available for 48 hours!
 
 : :
 
-: :
-
 \*Only for home users
 
 Email 
@@ -205,8 +203,6 @@ Renew and get 50% off
 ![image](/rfilescms/Teaser/RET/pandasecurity-generic-modal-desktop.webp)
 
 Only available for 48 hours!
-
-: :
 
 : :
 
@@ -229,18 +225,6 @@ Only available for 48 hours!
 : :
 
 : :
-
-\*Only for home users
-
-Email 
-
-Customer ID 
-
-Renew Panda Dome
-
-Halloween Special Offer: Renew and get 60% off
-
-Only available for 48 hours!
 
 \*Only for home users
 
