@@ -66,6 +66,11 @@ Close Menu
 
 [Register](https://7cav.us/register/) [Log in](https://7cav.us/login/)
 
+* ![](/data/assets/notice_images/info-xxl.png)
+    
+    Guest, the 7th Cavalry Gaming Regiment is currently **not** accepting Enlistments/Re-Enlistments until after our Furlough (winter break). Enlistments/Re-Enlistments will reopen when we return from Furlough on January 4th, 2025. Please click this [link](https://discord.gg/7cav) to join our Discord server to stay up to date and keep in contact with us!
+    
+
 JavaScript is disabled. For a better experience, please enable JavaScript in your browser before proceeding.
 
 You are using an out of date browser. It may not display this or other websites correctly.  
