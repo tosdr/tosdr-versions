@@ -303,7 +303,7 @@ Términos y condiciones
 
 #### [**Términos y condiciones - Tarjeta de crédito**](#)
 
-[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/674dacaedf9944403979b5a8_T%C3%A9rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cr%C3%A9dito.pdf)**‍**
+[Descargar PDF](https://cdn.prod.website-files.com/63091bbd808ef433808b70cd/6756f55820df754eff0266d2_Te%CC%81rminos%20y%20Condiciones%20-%20Tarjeta%20de%20cre%CC%81dito.pdf)**‍**
 
 #### [**Resumen informativo del contrato**](#)
 
