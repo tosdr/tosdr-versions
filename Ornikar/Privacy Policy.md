@@ -46,7 +46,7 @@ Assurance
 
 ![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/667d40c7c8455a6d4eedbffd_new-icon.svg)](https://www.ornikar.com/assurance-habitation)
 
-[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
+[Permis B](https://www.ornikar.com/permis)[Conduite accompagnée](https://www.ornikar.com/conduite-accompagnee-old)[Conduite à la carte](https://www.ornikar.com/conduite)[Financement CPF](https://www.ornikar.com/permis/demarches/financer-permis/cpf)[Contacter un conseiller](https://app.ornikar.com/contacter-un-conseiller?origin=menu)
 
 Assurance
 
@@ -165,7 +165,7 @@ Connexion](https://espace-assure.ornikar.com/connexion)
 
 [![](https://cdn.prod.website-files.com/64070deb26ccfe4bb343dad3/6644b574570720ee62bdb281_icon_close-modal.svg)](#)
 
-[Code](https://www.ornikar.com/code)[Assurance Auto](https://www.ornikar.com/assurance-auto)[Auto Ecole](https://www.ornikar.com/auto-ecole)[Permis](https://www.ornikar.com/permis)[Conduite Accompagnée](https://www.ornikar.com/conduite-accompagnee)[A propos](https://www.ornikar.com/a-propos)
+[Code](https://www.ornikar.com/code)[Assurance Auto](https://www.ornikar.com/assurance-auto)[Auto Ecole](https://www.ornikar.com/auto-ecole)[Permis](https://www.ornikar.com/permis)[Conduite Accompagnée](https://www.ornikar.com/conduite-accompagnee-old)[A propos](https://www.ornikar.com/a-propos)
 
 /
 
