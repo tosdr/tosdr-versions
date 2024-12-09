@@ -7,10 +7,11 @@
 * [Press](https://taimi.com/press-room/)
 * [Wiki](https://taimi.com/wiki/)
 * [Advertise with us](https://taimi.com/advertise-with-taimi/)
+* [Wrap up 2024](https://taimi.com/wrap-up-2024/)
 
-Get the app: [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_iphone_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
+Get the app: [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_iphone_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/nav_google_play_2.svg)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
 
-[Get Taimi for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
+[Get Taimi for Free](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
 
 Taimi Cookie Policy
 ===================
@@ -156,7 +157,7 @@ This Cookie Policy (the “Policy”) is an integral part of the [Taimi’s Ter
 
 © 2024 Taimi. All rights reserved
 
- [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/app_store_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/google_play_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy/)
+ [![Iphone logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/app_store_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)[![Google Play logo](https://taimi.com/wp-content/themes/Taimi_WP/assets/images/google_play_white.webp)](https://app.adjust.com/goc7ths?campaign=https://taimi.com/cookie-policy)
 
 En De Es Fr It Pt Nl
 
