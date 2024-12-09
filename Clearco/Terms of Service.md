@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6751b8de676ba4f38e109926_unlock-growth-boundless-clearco-integration.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6757221cd58841e4d34e8525_clearco-refinanced-ampla-for-diggs-pet-luxury-brand.png)
 
-###### Unlock Growth Opportunities with the Boundless x Clearco Integration
+###### Clearco Refinances Ampla for DIGGS: A DTC Luxury Pet Brand’s Journey from Founding to Funding
 
-[Read now >](https://clear.co/blog/unlock-growth-boundless-clearco-integration)
+[Read now >](https://clear.co/blog/clearco-refinanced-ampla-for-diggs-pet-luxury-brand)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
