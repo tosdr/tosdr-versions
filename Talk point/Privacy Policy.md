@@ -2,11 +2,9 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!  
-Heute ist unsere Hotline erst ab 11 Uhr verfügbar - Wir bitten um Verständnis
+Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!
 
-Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!  
-Heute ist unsere Hotline erst ab 11 Uhr verfügbar - Wir bitten um Verständnis
+Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!
 
 Menü
 
