@@ -272,6 +272,8 @@ A [Cloudflare zone management system](https://appforcf.com/) is used by this sit
 * [Forums](https://www.obscuregamers.com/) 
 * [Help](https://www.obscuregamers.com/help/) 
 
+* [Rebirth](https://www.obscuregamers.com/misc/style "Style chooser")
+
 * [Contact us](https://www.obscuregamers.com/misc/contact)
 * [Terms and rules](https://www.obscuregamers.com/help/terms/)
 * [Privacy policy](https://www.obscuregamers.com/help/privacy-policy/)
