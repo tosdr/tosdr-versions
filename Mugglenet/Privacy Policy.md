@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+Harry Potter’s middle name is James, Hermione Granger’s is Jean, Ginny Weasley’s is Molly – after her mother – and poor old Ron Weasley’s is Bilius.
 
 ### Potter History
 
-April 30, 2009 – Harry Potter: The Exhibition opens at Chicago’s Museum of Science and Industry.
+December 13, 2007 – The Tales of Beedle the Bard goes up for auction at Sotheby’s and sells for nearly £2 million, far surpassing all expectations.
 
 ### Potter Quote
 
-“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
