@@ -293,15 +293,16 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4788%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_669%2C$y_617/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a96615885fd8cb0aa88f102141467f171419f584)](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
+[![ ](https://static.ffx.io/images/$zoom_0.828%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a2bad985fc65705c6cb04032b2f3bc3d3e15d97d)](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
 
-### [Melbourne needs a good scrub down, says this well-travelled style guru](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
+### [Christmas recipes from some of Melbourne’s best restaurants](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
 
-* Matthew Drummond
+* 45 mins ago
+* Jill Dupleix
 
-* ### [This year changed the watch world. What will 2025 bring?](https://www.afr.com/life-and-luxury/fashion-and-style/2024-changed-the-watch-world-what-will-2025-bring-20241118-p5krhy)
+* ### [The love affair between watches and cars is only just revving up](https://www.afr.com/life-and-luxury/fashion-and-style/the-love-affair-between-watches-and-cars-is-only-just-revving-up-20241031-p5kmyr)
     
-* ### [A toast to the five best champagnes of 2024](https://www.afr.com/life-and-luxury/food-and-wine/a-toast-to-the-five-best-champagnes-of-2024-20241113-p5kqcs)
+* ### [Fashion should focus on its best customers – and they’re not 20-year-olds](https://www.afr.com/life-and-luxury/fashion-and-style/fashion-should-focus-on-its-best-customers-and-they-re-not-20-year-olds-20241023-p5kklg)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
@@ -321,15 +322,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4082%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_514%2C$y_114/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/6df2116509dd34cfe7be3dd342d3c795a3e7dc6c)](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-how-succession-planning-works-at-patek-philippe-20241202-p5kv4y)
+[![ ](https://static.ffx.io/images/$zoom_0.1597%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_188%2C$y_211/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/28453fbff9e64a8fc0d8afcda42b29335936aed8)](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
 
-### [Here’s how succession planning works at Patek Philippe](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-how-succession-planning-works-at-patek-philippe-20241202-p5kv4y)
+### [It’s all fun and games until someone falls off a cliff](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
 
-* Bani McSpedden
+* 55 mins ago
+* John Davidson
 
-* ### [Why this executive finds diving so addictive](https://www.afr.com/life-and-luxury/health-and-wellness/why-this-executive-finds-diving-so-addictive-20241127-p5ku0a)
+* ### [Max Allen’s guide to stocking a bar trolley](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-guide-to-stocking-a-bar-trolley-20241204-p5kvsi)
     
-* ### [How Sydney’s landmark Wentworth hotel rates after a $70m refurb](https://www.afr.com/life-and-luxury/travel/how-sydney-s-landmark-wentworth-hotel-rates-after-a-70m-refurb-20241114-p5kqqu)
+* ### [A $4000 apres-ski sweater for him and a $1100 pantsuit for her](https://www.afr.com/life-and-luxury/fashion-and-style/a-4000-apres-ski-sweater-for-him-and-a-1100-pantsuit-for-her-20241202-p5kv7w)
     
 
 [Rich List](https://www.afr.com/rich-list)
