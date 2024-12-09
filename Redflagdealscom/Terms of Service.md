@@ -1,6 +1,6 @@
 [Toronto, ON](https://www.redflagdeals.com/in/?return_url=https%3A//www.redflagdeals.com/info/terms/)
 
-[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.353/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.353/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.353/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
+[](#)   [![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.354/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")![](https://assets.rfdcontent.com/graphics/rfd/v33.36.354/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com") ![Uniquely Canadian](https://assets.rfdcontent.com/graphics/rfd/v33.36.354/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)[Login](#)
 
 [Login/ Create an account](#)
 
@@ -29,9 +29,8 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 * [Deal Alerts](https://www.redflagdeals.com/alerts/)
 * [Log out](https://www.redflagdeals.com/user/logout/?return_url=https%3A//www.redflagdeals.com/info/terms/)
 
-[![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.353/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
+[![RedFlagDeals.com](https://assets.rfdcontent.com/graphics/rfd/v33.36.354/sprites/responsive_base.png "Find Canadian Deals, Coupons, Sales, Shopping Tools and Freebies with RedFlagDeals.com")](https://www.redflagdeals.com/)
 
-* [Cyber Monday](https://blackfriday.redflagdeals.com/)
 * [Deals](https://www.redflagdeals.com/deals/)
     
     * Deals
@@ -196,7 +195,7 @@ Don't have an account? [Sign up now.](https://www.redflagdeals.com/user/signup/?
 
 [Toronto, ON](https://www.redflagdeals.com/in/?return_url=https%3A//www.redflagdeals.com/info/terms/)
 
-* ![](https://assets.rfdcontent.com/graphics/rfd/v33.36.353/icons/hot_deal_20.png) [Hot Deals](https://forums.redflagdeals.com/hot-deals-f9/)
+* ![](https://assets.rfdcontent.com/graphics/rfd/v33.36.354/icons/hot_deal_20.png) [Hot Deals](https://forums.redflagdeals.com/hot-deals-f9/)
 * [Cell Phones](https://forums.redflagdeals.com/hot-deals-f9/?c=5121)
 * [Groceries](https://forums.redflagdeals.com/hot-deals-f9/?c=53)
 * [Costco](https://forums.redflagdeals.com/hot-deals-f9/?dealer_id=110)
@@ -314,8 +313,6 @@ Quick links
 * [Flyers](https://www.redflagdeals.com/in/toronto/flyers/ "Flyers")
 * [Forums](https://forums.redflagdeals.com/ "Forums")
 * [Reviews](https://www.redflagdeals.com/reviews/ "Reviews")
-* [Black Friday 2024](https://blackfriday.redflagdeals.com/ "Black Friday Canada")
-* [Boxing Day 2024](https://boxingday.redflagdeals.com/ "Boxing Day Canada")
 
 Mobile, tools and more
 
