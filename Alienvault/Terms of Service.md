@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### How Regional Service Providers Can Grab a Larger Share of the Cybersecurity Market
+            ##### Patch or Perish: The Forgotten Virtue of Diligence in Digital Security
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/how-regional-service-providers-can-grab-a-larger-share-of-the-cybersecurity-market)
+            [Learn more](https://levelblue.com/blogs/security-essentials/patch-or-perish-the-forgotten-virtue-of-diligence-in-digital-security)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -505,13 +505,13 @@ We welcome your questions and comments regarding these Terms of Use and anything
 
 From the Blog
 
-![Tawnya Lancaster](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Tawnya Lancaster
+#### Sam Bocetta
 
-Dec 4, 2024
+Dec 9, 2024
 
-### [How Regional Service Providers Can Grab a Larger Share of the Cybersecurity Market](https://levelblue.com/blogs/security-essentials/how-regional-service-providers-can-grab-a-larger-share-of-the-cybersecurity-market)
+### [Patch or Perish: The Forgotten Virtue of Diligence in Digital Security](https://levelblue.com/blogs/security-essentials/patch-or-perish-the-forgotten-virtue-of-diligence-in-digital-security)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
