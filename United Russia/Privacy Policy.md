@@ -305,7 +305,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#юныйгерой](https://er.ru/activity/news?tags%5B0%5D=142280) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:34
+09.12.24
 
 [![«Единая Россия» поздравила Героев всех поколений с Днём Героев Отечества](https://cdn.er.ru/media/news/December2024/iXWMKWeSg6sy4NQ15cjt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-pozdravila-geroev-vseh-pokolenij-s-dnyom-geroev-otechestva)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
 
-Сегодня 16:00
+09.12.24
 
 [![Владимир Путин вручил медаль «Золотая звезда» Герою России Дмитрию Саблину](https://cdn.er.ru/media/news/December2024/dMoRaiC4d7lNJgMz2aeP-small.jpg)](https://er.ru/activity/news/vladimir-putin-vruchil-medal-zolotaya-zvezda-geroyu-rossii-dmitriyu-sablinu)
 
@@ -321,7 +321,7 @@
 
 [#Саблин](https://er.ru/activity/news?tags%5B0%5D=128253) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#медаль](https://er.ru/activity/news?tags%5B0%5D=5160)
 
-Сегодня 14:03
+09.12.24
 
 [![По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://cdn.er.ru/media/news/December2024/jNe2u2im3IW9S1WBfMW4-small.JPG)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
 
@@ -329,7 +329,7 @@
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#марки](https://er.ru/activity/news?tags%5B0%5D=19673) [#гашение](https://er.ru/activity/news?tags%5B0%5D=19650) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
 
-Сегодня 11:59
+09.12.24
 
 [![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/Z4IxZV4ksuoF0cb3lANO-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov77)
 
@@ -337,7 +337,7 @@
 
 [#Республика Карелия](https://er.ru/activity/news?tags%5B0%5D=1090918) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#Республика Калмыкия](https://er.ru/activity/news?tags%5B0%5D=4205) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Выборы ОМСУ](https://er.ru/activity/news?tags%5B0%5D=9863)
 
-Сегодня 11:22
+09.12.24
 
 [![«Единая Россия» отправила подарки к Новому году для детей в Белгородской и Харьковской областях](https://cdn.er.ru/media/news/December2024/XCvCdSS6Uk4nDrApNHrB-small.png)](https://er.ru/activity/news/edinaya-rossiya-otpravila-podarki-k-novomu-godu-dlya-detej-v-belgorodskoj-i-harkovskoj-oblastyah)
 
@@ -345,7 +345,7 @@
 
 [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Новыйгод](https://er.ru/activity/news?tags%5B0%5D=126639) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474)
 
-Сегодня 10:48
+09.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
