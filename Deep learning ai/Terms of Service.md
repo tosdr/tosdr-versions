@@ -26,7 +26,7 @@
 
 **Last updated: April 21, 2023**
 
-Welcome to the DeepLearning.AI website at [www.deeplearning.ai](http://www.deeplearning.ai/).
+Welcome to the DeepLearning.AI website at [www.deeplearning.ai](https://www.deeplearning.ai/).
 
 These Terms of Use apply to those who visit and use the Website. BEFORE VIEWING, BROWSING OR OTHERWISE USING THE WEBSITE, PLEASE READ THIS AGREEMENT CAREFULLY.  BY VIEWING, BROWSING OR OTHERWISE USING THE WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THIS AGREEMENT.  IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT, THEN PLEASE DO NOT VIEW, BROWSE OR OTHERWISE USE THE WEBSITE.
 
@@ -194,7 +194,7 @@ The Service may contain views and opinions which are those of the authors and do
 
 **CONTACT US**
 
-If you have any questions about these Terms and Conditions, You can contact us by email: hello@deeplearning.ai.
+If you have any questions about these Terms and Conditions, You can contact us by email: [\[email protected\]](https://www.deeplearning.ai/cdn-cgi/l/email-protection).
 
 **PRIVACY POLICY**
 ==================
@@ -617,7 +617,7 @@ The CCPA provides California residents with specific rights regarding their pers
 
 ### **Exercising Your CCPA Data Protection Rights**
 
-In order to exercise any of Your rights under the CCPA, and if You are a California resident, You can contact Us by email: hello@deeplearning.ai
+In order to exercise any of Your rights under the CCPA, and if You are a California resident, You can contact Us by email: [\[email protected\]](https://www.deeplearning.ai/cdn-cgi/l/email-protection)
 
 Only You, or a person registered with the California Secretary of State that You authorize to act on Your behalf, may make a verifiable request related to Your personal information.
 
@@ -711,7 +711,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 **CONTACT US**
 --------------
 
-If you have any questions about this Privacy Policy, You can contact us by email: hello@deeplearning.ai
+If you have any questions about this Privacy Policy, You can contact us by email: [\[email protected\]](https://www.deeplearning.ai/cdn-cgi/l/email-protection)
 
 **COOKIES POLICY**
 ------------------
@@ -794,7 +794,7 @@ You can learn more about cookies here: [All About Cookies by TermsFeed](https://
 
 If you have any questions about this Cookies Policy, You can contact us:
 
-*   By email: hello@deeplearning.ai
+*   By email: [\[email protected\]](https://www.deeplearning.ai/cdn-cgi/l/email-protection)
 
 * [Courses](https://www.deeplearning.ai/courses/)
 * [The Batch](https://www.deeplearning.ai/the-batch/)
@@ -802,4 +802,4 @@ If you have any questions about this Cookies Policy, You can contact us:
 * [Careers](https://www.deeplearning.ai/careers/)
 * [About](https://www.deeplearning.ai/about/)
 
-[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](http://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)
+[](https://www.facebook.com/1027125564106325)[](https://www.instagram.com/deeplearningai)[](https://twitter.com/deeplearningai)[](https://www.linkedin.com/company/18246783)[](https://www.youtube.com/c/Deeplearningai)
