@@ -170,6 +170,6 @@ Automate your job search today. Never miss an opportunity.
 * [Contact us](http://www.loopcv.pro/contact)
 * [Whitelabel](http://www.loopcv.pro/whitelabel)
 
-* [](https://www.linkedin.com/company/13071575/)[](https://www.facebook.com/Loopmycv)[](https://instagram.com/loopcv_)[](https://twitter.com/loopcv)
+* [](https://www.linkedin.com/company/13071575/)[](https://www.facebook.com/Loopmycv)[](https://instagram.com/loopcv_)[](https://twitter.com/loopcv)[](https://discord.gg/WVK23svY)
 
 All rights reserved 2021 | LoopCV
