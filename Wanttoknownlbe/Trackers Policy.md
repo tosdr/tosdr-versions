@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/orgon-levensenergie-in-de-schaduw-van-ems/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/media-censorship/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
