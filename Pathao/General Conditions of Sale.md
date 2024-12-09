@@ -135,7 +135,7 @@ Last updated: February 22, 2022
 * [Pathao Shop](https://pathao.com/shop/)
 * [Pathao Parcel](https://pathao.com/parcel/)
 * [Pathao Courier](https://pathao.com/courier/)
-* [Rent A Car New](https://pathao.com/rent-a-car/)
+* [Pathao Rentals New](https://pathao.com/rent-a-car/)
 
 #### Earn
 
