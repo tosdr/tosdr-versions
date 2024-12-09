@@ -39,6 +39,21 @@ Search Search Reset
 Menu
 
 * [Customer Reviews](https://mls.om/pages/customer-reviews)
+* [Year End Sale](https://mls.om/pages/new-year-sale)
+    
+    * Back
+        
+    * [Year End Sale](https://mls.om/pages/new-year-sale)
+    * [Year End Sale](https://mls.om/pages/new-year-sale)
+        
+        * [Festive Sale Roast](https://mls.om/collections/festive-sale-roast)
+        * [Festive Sale Omani Chicken](https://mls.om/collections/festive-sale-omani-chicken)
+        * [Festive Sale Lamb & Mutton](https://mls.om/collections/festive-sale-lamb-mutton)
+        * [Festive Sale Meat Collection](https://mls.om/collections/festive-sale-meat-collection)
+        * [Festive Sale Top Sellers](https://mls.om/collections/festive-sale-top-sellers)
+        * [Go to Year End Sale](https://mls.om/pages/new-year-sale)
+        
+    
 * [MLS Subscriptions](https://mls.om/pages/build-your-box)
     
     * Back
