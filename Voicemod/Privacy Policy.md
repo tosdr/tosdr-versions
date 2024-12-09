@@ -4,6 +4,7 @@
 
 * [Voice Changer](https://www.voicemod.net/en/voice-changer/)
 * [Soundboard](https://www.voicemod.net/en/soundboard/)
+* [Voicemod Key 🆕](https://www.voicemod.net/en/vmkey/)
 * [Free Sounds](https://tuna.voicemod.net/?utm_source=VM+Web+Menu&utm_medium=VM+Website&utm_campaign=VM+Website&utm_id=VM+Website)
 * [Creator Tools](#)
     * [Voicelab](https://www.voicemod.net/en/voicelab/)
