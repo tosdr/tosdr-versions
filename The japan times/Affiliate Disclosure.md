@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Nippon Steel makes final push to win over U.S. workers](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-steel-final-push-us-workers/ "Nippon Steel makes final push to win over U.S. workers")
+
+26 mins ago
+
+[Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony](https://www.japantimes.co.jp/news/2024/12/10/japan/nihon-hidankyo-putin-nukes/ "Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony")
+
+26 mins ago
+
 [Japan's corporate bankruptcies increased 4.2% in November](https://www.japantimes.co.jp/business/2024/12/09/companies/bankruptcies-november-increase/ "Japan's corporate bankruptcies increased 4.2% in November")
 
-3 hours ago
+9 hours ago
 
 [BP and JERA to combine offshore wind operations in joint venture](https://www.japantimes.co.jp/business/2024/12/09/companies/bp-jera-wind/ "BP and JERA to combine offshore wind operations in joint venture")
 
-4 hours ago
+10 hours ago
 
 [Japanese investors sell overseas equities for second straight month](https://www.japantimes.co.jp/business/2024/12/09/markets/investors-sell-overseas-equities/ "Japanese investors sell overseas equities for second straight month")
 
-5 hours ago
-
-[Ishiba eyes visit to Indonesia and Malaysia in early January](https://www.japantimes.co.jp/news/2024/12/09/japan/ishiba-indonesia-malaysia-visit/ "Ishiba eyes visit to Indonesia and Malaysia in early January")
-
-6 hours ago
-
-[Ex-principal gets 9 years for raping middle school students in 2010](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/ruling-school-principal/ "Ex-principal gets 9 years for raping middle school students in 2010")
-
-6 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
