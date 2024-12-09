@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![New Android spyware found on phone seized by Russian FSB](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Blue Yonder SaaS giant breached by Termite ransomware gang](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Android spyware found on phone seized by Russian FSB](https://www.bleepingcomputer.com/news/security/new-android-spyware-found-on-phone-seized-by-russian-fsb/)
-    * [![Microsoft says having a TPM is ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Blue Yonder SaaS giant breached by Termite ransomware gang](https://www.bleepingcomputer.com/news/security/blue-yonder-saas-giant-breached-by-termite-ransomware-gang/)
+    * [![Ultralytics AI model hijacked to infect thousands with cryptominer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
-    * [![White House: Salt Typhoon hacked telcos in dozens of countries](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
+    * [![New Windows zero-day exposes NTLM credentials, gets unofficial patch](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        White House: Salt Typhoon hacked telcos in dozens of countries](https://www.bleepingcomputer.com/news/security/white-house-salt-typhoon-hacked-telcos-in-dozens-of-countries/)
-    * [![Vodka maker Stoli files for bankruptcy in US after ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
+    * [![Romania's election systems targeted in over 85,000 cyberattacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
+        Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
     
     * [![QR codes bypass browser isolation for malicious C2 communication](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
-* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Crypto hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New Windows zero-day exposes NTLM credentials, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exposes-ntlm-credentials-gets-unofficial-patch/)
-* [![Ultralytics](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Crypto-stealing malware posing as a meeting app targets Web3 pros](https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
+* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
+* [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    U.S. org suffered four month intrusion by Chinese hackers](https://www.bleepingcomputer.com/news/security/us-org-suffered-four-month-intrusion-by-chinese-hackers/)
+    Anna Jaques Hospital ransomware breach exposed data of 300K patients](https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/)
 
 ##### Follow us:
 
