@@ -79,6 +79,10 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled Shot of the Raspberry Pi 500 Desktop - Computer Only.](https://cdn-shop.adafruit.com/230x173/6111-02.jpg)[Raspberry Pi 500 Desktop - Computer Only
+    
+    $90.00](https://www.adafruit.com/product/6111)
+    
     ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/230x173/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
     
     $1.95](https://www.adafruit.com/product/6068)
@@ -90,10 +94,6 @@ Search
     ![Angled Shot of the Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board.](https://cdn-shop.adafruit.com/230x173/6106-00.jpg)[Adafruit bq25185 USB / DC / Solar Charger with 5V Boost Board
     
     $8.95](https://www.adafruit.com/product/6106)
-    
-    ![Demo Vid of the microcontroller to the RGBW Pixel LED Patio lamp string DC12V 0.72W/bulb ,20bulbs/string](https://cdn-shop.adafruit.com/product-videos/320x240/6059-04.jpg)[Cafe / Patio Light Bulb Strand with TM1814 RGBW LED - 20 Bulbs
-    
-    $64.95](https://www.adafruit.com/product/6059)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ You don't make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas”
+“ There are three things to remember when teaching: know your stuff; know whom you are stuffing; and then stuff them elegantly”
 
-[Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm)
+[Lola May](http://en.wikipedia.org/wiki/Lola_J._May)
 
 [](https://www.adafruit.com/about)
 
