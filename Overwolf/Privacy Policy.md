@@ -274,6 +274,8 @@ Under the Utah Consumer Privacy Act (“**UCPA**”) if you are a resident of Ut
 
 Please read the _“Highlights Sections”_ paragraph under the [_CPA Additional Information._](#additional-information-for-colorado-residents)
 
+Last updated on **Nov 13, 2024**
+
 [Previous
 
 Website terms of use](https://www.overwolf.com/docs/overwolf/website/terms-of-use)[Next
