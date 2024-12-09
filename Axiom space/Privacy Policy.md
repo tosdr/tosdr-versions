@@ -4,6 +4,8 @@
 
 [Missions](https://www.axiomspace.com/missions)
 
+[Axiom Mission 4](https://www.axiomspace.com/missions/ax4)
+
 [Axiom Mission 3](https://www.axiomspace.com/missions/ax3)
 
 [Axiom Mission 2](https://www.axiomspace.com/missions/ax2)
