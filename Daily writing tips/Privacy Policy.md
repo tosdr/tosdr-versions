@@ -96,7 +96,7 @@ Search
 
 [![Essay Writing Services](https://www.dailywritingtips.com/wp-content/uploads/essayshark-e1733499895945.png)](https://essayshark.com/)
 
-[![](https://www.dailywritingtips.com/wp-content/uploads/sidebar-1.jpeg)](https://www.dailywritingtips.com/buy/daily-writing-tips-newsletter-37)
+[![](https://www.dailywritingtips.com/wp-content/uploads/sidebar-1.jpeg)](https://www.dailywritingtips.com/dailywritingtips-pro-newsletter-tripwire-sale/)
 
 Categories
 ----------
