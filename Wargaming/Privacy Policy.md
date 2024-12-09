@@ -1,7 +1,5 @@
 [![icon](/assets/images/logo-icon.png)](https://legal.eu.wargaming.net/en)
 
-![menu](/assets/images/burger-menu.png)
-
 ![wargaming-document](/assets/images/documents/arrow-down.png)
 
 * English
@@ -67,11 +65,19 @@ Current Version
 
 ![wargaming-search](/assets/images/documents/search.png) 
 
+![wargaming-search](/assets/images/documents/arrow-down.png)
+
+![wargaming-search](/assets/images/documents/arrow-down.png)
+
 Current Version
 
  ![wargaming-document](/assets/images/documents/download.png)![wargaming-document](/assets/images/documents/print.png)
 
 ![wargaming-search](/assets/images/documents/search.png) 
+
+![wargaming-search](/assets/images/documents/arrow-down.png)
+
+![wargaming-search](/assets/images/documents/arrow-down.png)
 
 * [1\. CONTROLLER’S NAME AND CONTACT DETAILS](#1. CONTROLLER’S NAME AND CONTACT DETAILS)
 * [2\. CONTACT DETAILS OF THE DATA PROTECTION OFFICER (DPO)](#2. CONTACT DETAILS OF THE DATA PROTECTION OFFICER (DPO))
