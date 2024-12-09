@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the symptoms of stage 4 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-symptoms-of-stage-4-lung-cancer.jpg "What Are the Symptoms of Stage 4 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/ "What Are the Symptoms of Stage 4 Lung Cancer?")
+[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
 
-[#### What Are the Symptoms of Stage 4 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/)
+[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
 
-[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+[![When should i contact a mesothelioma lawyer?](https://www.pintas.com/wp-content/uploads/2020/07/mesotheliomawhen-should-i-contact-a-mesothelioma-lawyer-scaled.jpg "When Should I Contact a Mesothelioma Lawyer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/ "When Should I Contact a Mesothelioma Lawyer?")
 
-[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
+[#### When Should I Contact a Mesothelioma Lawyer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/when-should-i-contact-a-mesothelioma-lawyer/)
 
-[![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
+[![Can you be misdiagnosed with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-you-be-misdiagnosed-with-lung-cancer.jpg "Can You Be Misdiagnosed with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis "Can You Be Misdiagnosed with Lung Cancer?")
 
-[#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
+[#### Can You Be Misdiagnosed with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/misdiagnosis)
 
 ### Injured?  
 Tell Us What Happened.
