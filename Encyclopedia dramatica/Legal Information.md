@@ -58,7 +58,7 @@ Contents
 * [1 Encyclopediadramatica Legal Statement](#Encyclopediadramatica_Legal_Statement)
     * [1.1 Terms used](#Terms_used)
     * [1.2 Technical Specifications](#Technical_Specifications)
-    * [1.3 Correspondence with encyclopediadramatica.online](#Correspondence_with_encyclopediadramatica.online)
+    * [1.3 Correspondence with edramatica.com](#Correspondence_with_edramatica.com)
 * [2 Encyclopediadramatica Legal Statement](#Encyclopediadramatica_Legal_Statement_2)
 * [3 Privacy](#Privacy)
 * [4 Law Enforcement](#Law_Enforcement)
@@ -69,29 +69,29 @@ Contents
 
 #### Terms used
 
-In this policy "encyclopediadramatica.online," "our," "us," "The Service" and "we" refers to all staff members, cooperating attorneys, and owners who contribute to the creation and upkeep of encyclopediadramatica.online. Individuals who submit articles and/or comment but are not staff members are not included in the usage of "encyclopediadramatica.online," "our," "us," "The Service" or "we" within this document.
+In this policy "edramatica.com ," "our," "us," "The Service" and "we" refers to all staff members, cooperating attorneys, and owners who contribute to the creation and upkeep of edramatica.com . Individuals who submit articles and/or comment but are not staff members are not included in the usage of "edramatica.com ," "our," "us," "The Service" or "we" within this document.
 
 This document may change without notice.
 
 #### Technical Specifications
 
-Inherent in the architecture of encyclopediadramatica.online is the ability to leave comments. Should you choose to do so, your name, e-mail, and other information voluntarily presented will be publicly posted. By use of this system, you indemnify encyclopediadramatica.online of any harm or action that results from your voluntary publication of said information.
+Inherent in the architecture of edramatica.com is the ability to leave comments. Should you choose to do so, your name, e-mail, and other information voluntarily presented will be publicly posted. By use of this system, you indemnify edramatica.com of any harm or action that results from your voluntary publication of said information.
 
 Our servers may record the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. By use of this system you consent to such recordings.
 
 We reserve the right to use this information for any internal use whatsoever. This may include but not limited to statistical analysis, design considerations, and comment tracking. This information may be connected to the username provided for internal use.
 
-#### Correspondence with encyclopediadramatica.online
+#### Correspondence with edramatica.com
 
-Should you choose to present your e-mail address, physical home address, telephone number, full name or other personally identifying information to us by any means whatsoever, we reserve the right to publish said personal information in whole or in part. Should you choose to contact any member of encyclopediadramatica.online by any communication means, we reserve the right to publish the conversation, in whole or in part, if we see fit to do so. Any and all e-mails may also be published in whole or in part. By communicating with encyclopediadramatica.online, you consent to said publication and acknowledge you have no expectation of privacy.
+Should you choose to present your e-mail address, physical home address, telephone number, full name or other personally identifying information to us by any means whatsoever, we reserve the right to publish said personal information in whole or in part. Should you choose to contact any member of edramatica.com by any communication means, we reserve the right to publish the conversation, in whole or in part, if we see fit to do so. Any and all e-mails may also be published in whole or in part. By communicating with edramatica.com, you consent to said publication and acknowledge you have no expectation of privacy.
 
-If for any reason we are required by law to disclose any information whatsoever, we fully reserve the right to do so. Please refer to the encyclopediadramatica.onlinee legal statement for further information.
+If for any reason we are required by law to disclose any information whatsoever, we fully reserve the right to do so. Please refer to the edramatica.com legal statement for further information.
 
 ### Encyclopediadramatica Legal Statement
 
-In this statement "encyclopediadramatica.online," "our," "us," and "we" refers to all cooperating attorneys, and owners who contribute to the creation and upkeep of encyclopediadramatica.online. Individuals who submit articles and/or comment but are not site owners are not referred to by this word usage within this document.
+In this statement "edramatica.com," "our," "us," and "we" refers to all cooperating attorneys, and owners who contribute to the creation and upkeep of edramatica.com. Individuals who submit articles and/or comment but are not site owners are not referred to by this word usage within this document.
 
-Each contributor of encyclopediadramatica.online holds full rights and responsibilities for materials they personally publish via this encyclopediadramatica.online web site. By use of this site, you accept and recognize this qualification and indemnify not only the owner of encyclopediadramatica.online but also all other contributors to encyclopediadramatica.online from any legal action.
+Each contributor of edramatica.com holds full rights and responsibilities for materials they personally publish via this edramatica.com web site. By use of this site, you accept and recognize this qualification and indemnify not only the owner of edramatica.com but also all other contributors to edramatica.com from any legal action.
 
 ### Privacy
 
@@ -107,9 +107,9 @@ We are hosted in Ukraine which does not recognize copyright law on the internet.
 
 ### Defamation and harassment
 
-If you feel as though someone has committed harassment or defamation against you - please pursue your remedies against that poster as encyclopediadramatica.online is not responsible for their words. We are hosted in the Ukraine which does not recognize defamation or libelous content. If all else fails you should inform your parents or adult daycare provider of the situation so that they can make the responsible, adult decision to remove or limit your access to the Internet, thereby solving your "problem" for you.
+If you feel as though someone has committed harassment or defamation against you - please pursue your remedies against that poster as edramatica.com is not responsible for their words. We are hosted in the Ukraine which does not recognize defamation or libelous content. If all else fails you should inform your parents or adult daycare provider of the situation so that they can make the responsible, adult decision to remove or limit your access to the Internet, thereby solving your "problem" for you.
 
-Retrieved from "[http://edramatica.com/index.php?title=Encyclopedia\_Dramatica:General\_Disclaimer&oldid=699613](https://edramatica.com/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&oldid=699613)"
+Retrieved from "[http://edramatica.com/index.php?title=Encyclopedia\_Dramatica:General\_Disclaimer&oldid=1904524](https://edramatica.com/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&oldid=1904524)"
 
 [Categories](https://encyclopediadramatica.wiki/Special:Categories "Special:Categories"):
 
@@ -167,10 +167,10 @@ Navigation menu
 * [Related changes](https://encyclopediadramatica.wiki/Special:RecentChangesLinked/Encyclopedia_Dramatica:General_Disclaimer "Recent changes in pages linked from this page [k]")
 * [Special pages](https://encyclopediadramatica.wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Printable version](javascript:print(); "Printable version of this page [p]")
-* [Permanent link](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&oldid=699613 "Permanent link to this revision of this page")
+* [Permanent link](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&oldid=1904524 "Permanent link to this revision of this page")
 * [Page information](https://encyclopediadramatica.wiki/index.php?title=Encyclopedia_Dramatica:General_Disclaimer&action=info "More information about this page")
 
-* This page was last edited on 16 May 2021, at 20:50.
+* This page was last edited on 9 December 2024, at 12:15.
 * This page has been accessed 1,417 times.
 
 * [Privacy policy](https://encyclopediadramatica.wiki/Encyclopedia_Dramatica:Privacy_policy)
