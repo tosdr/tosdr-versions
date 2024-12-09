@@ -1,10 +1,12 @@
 [Zu Inhalt springen](#site-main)
 
-[](https://www.instagram.com/talk_point_gmbh/)
+[](https://www.twitch.tv/talkpointgmbh)
 
-ab 11-12 Uhr | 📦💨Versandkosten sparen!!! Instagram Story
+Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!  
+Heute ist unsere Hotline erst ab 11 Uhr verfügbar - Wir bitten um Verständnis
 
-ab 11-12 Uhr | 📦💨Versandkosten sparen!!! Instagram Story
+Live Preisvergleich ab 11Uhr | 📦💨Versandkosten sparen!  
+Heute ist unsere Hotline erst ab 11 Uhr verfügbar - Wir bitten um Verständnis
 
 Menü
 
