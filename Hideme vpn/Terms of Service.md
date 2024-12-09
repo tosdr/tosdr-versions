@@ -222,8 +222,4 @@ Sec
 
 [Get the offer](https://member.hide.me/en/checkout?plan=twenty7twelve&coupon=7YB-2ZA-WED&duration=27&utm_campaign=xmas24&utm_medium=homepage&utm_source=internal "Get the offer")
 
-Let's Talk!
-
-X
-
-Ask Us How It Works
+Need help? Chat with us now!
