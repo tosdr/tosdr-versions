@@ -58,17 +58,13 @@
         * * [News & MediaThe latest Copyleaks announcements, updates, news and media features.](https://copyleaks.com/about-us/media)
         * * [AI Testing MethodologiesExplore the various testing methodologies used to assess the accuracy of the AI Detector.](https://copyleaks.com/ai-content-detector/testing-methodology)
         * * [Help CenterGet the support you need for integration, platforms, dashboards, and more.](https://help.copyleaks.com/)
-        * * [![AI prompt bubbles and a computer screen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201485%201116'%3E%3C/svg%3E)
+        * * [![](https://copyleaks.com/wp-content/uploads/2024/11/What-is-Gemini-BlogHeader-1-1.webp)](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
                 
-                ![AI prompt bubbles and a computer screen](https://copyleaks.com/wp-content/uploads/2024/11/AI_Prompts.webp)](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
+                [What is Gemini AI and How Does it Work?](https://copyleaks.com/blog/what-is-gemini-ai-and-how-does-it-work)
+                
+                [![AI prompt bubbles and a computer screen](https://copyleaks.com/wp-content/uploads/2024/11/AI_Prompts.webp)](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
                 
                 [From Data to Text: The Process of AI Prompt Generation](https://copyleaks.com/blog/the-process-of-ai-prompt-generation)
-                
-                [![A Classroom with floating images signifying the use of AI](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20301'%3E%3C/svg%3E)
-                
-                ![A Classroom with floating images signifying the use of AI](https://copyleaks.com/wp-content/uploads/2023/12/AI_In_The_classroom.png)](https://copyleaks.com/blog/talking-to-students-about-ai)
-                
-                [Bringing AI Into the Classroom: Talking to Students About AI](https://copyleaks.com/blog/talking-to-students-about-ai)
                 
     * * * #### Learn
                 
@@ -230,8 +226,8 @@ Table of Contents
 
 ![Copyleaks logo](https://copyleaks.com/wp-content/uploads/2023/07/logo_white.svg)
 
-115 E 23rd St.  
-New York, NY 10010 
+115 E 23rd St., 7th Fl  
+New York, NY 10010
 
 [Contact Us](https://copyleaks.com/contact-us)
 
@@ -371,4 +367,4 @@ Portuguese](https://copyleaks.com/pt/privacy-policy/ "Portuguese")
 
 [Linkedin-in](https://www.linkedin.com/company/copyleaks/) [Instagram](https://www.instagram.com/copyleaksai/) [Threads Logo](https://www.threads.net/@copyleaksai) [X-twitter](https://x.com/Copyleaks) [Rss](https://feeds.buzzsprout.com/2310947.rss)
 
-All rights reserved. Use of this website signifies your agreement to the [Terms of Use](https://copyleaks.com/legal/termsofuse).
+All rights reserved. Use of this website signifies your agreement to the [Terms of Use](https://copyleaks.com/termsofuse).
