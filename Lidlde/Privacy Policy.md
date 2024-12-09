@@ -218,7 +218,7 @@ Breadcrumb
         
     
 
-[Datenschutzhinweise Download](https://www.lidl.de/static/assets/DSH_Online-Shop_13-09-2024-1158960.pdf)
+[Datenschutzhinweise Download](https://www.lidl.de/static/assets/20241206-Datenschutzhinweise-Lidl-Onlineshop-Lidl-App-PDF-Final-1299722.pdf)
 
 Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat Reader](https://get.adobe.com/reader/).
 
