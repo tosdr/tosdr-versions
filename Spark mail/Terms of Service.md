@@ -445,7 +445,7 @@ Address: Glandore Business Centre, Grand Canal House, 1 Grand Canal Street Upper
 * [Pricing](https://sparkmailapp.com/plans-comparison)
 * [Blog](https://sparkmailapp.com/blog)
 * [About Us](https://sparkmailapp.com/about)
-* [Media Kit](https://drive.google.com/drive/folders/1csybVHjOZzfohJj7wJQiaC1OMF0-DSh3)
+* [Media Kit](https://drive.google.com/drive/folders/1wNvtRLh_QRfbzU_RRqiTRO2olo7yjvKG)
 * [Help Center](https://sparkmailapp.com/help)
 * [Spark 2 Website](https://sparkmailapp.com/spark2)
 
