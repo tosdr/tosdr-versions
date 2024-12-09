@@ -95,7 +95,7 @@ Terms of Service | Toddle
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
 * [Pricing](https://www.toddleapp.com/pricing/)
-* [Demo Day New!](https://www.toddleapp.com/toddle-demo-day-december-2024/)
+* [AI Tutors New!](https://www.toddleapp.com/ai-tutors/)
 
 * [Sign in](https://web.toddleapp.com/?utm_source=website&type=loginHome)
 * [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
@@ -195,7 +195,7 @@ Terms of Service | Toddle
 * [Why Toddle](https://www.toddleapp.com/why-toddle/)
 * [Learn](https://learn.toddleapp.com/)
 * [Pricing](https://www.toddleapp.com/pricing/)
-* [Demo Day New!](https://www.toddleapp.com/toddle-demo-day-december-2024/)
+* [AI Tutors New!](https://www.toddleapp.com/ai-tutors/)
 
 [Book a demo](https://www.toddleapp.com/book-a-free-demo/) [Sign In](https://web.toddleapp.com/?utm_source=website&type=loginHome)
 
