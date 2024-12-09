@@ -197,6 +197,14 @@ San Diego, CA 92101
     
     [Home Security](https://www.eset.com/us/home/protection-plans/) Home Security
     
+    ![](/fileadmin/ESET/INT/Boxes/155x185-Balanced/Gemini/boxes-EHSE-EHSP-EHSU.png)
+    
+    ### [HOME Security](https://www.eset.com/us/brand-special-offer/) Save up to 30%
+    
+    [All-in-one protection of your digital life. Choose a plan according to your needs.](https://www.eset.com/int/home/protection-plans/)
+    
+    [Choose your plan](https://www.eset.com/us/brand-special-offer/)
+    
     **Special solutions:**
     
     * [Small office security](https://www.eset.com/us/home/small-business-security/)  
@@ -217,47 +225,15 @@ San Diego, CA 92101
     
     All-in-one protection of your digital life. Choose a plan according to your needs.
     
-    [Shop home products](https://www.eset.com/us/home/protection-plans/)
-    
     Special offers for:
-    
-    [](https://www.eset.com/us/home/mobile-security-android/)
-    
-    [Smartphones](https://www.eset.com/us/home/mobile-security-android/)
-    
-    [](https://www.eset.com/us/home/gamer/)
-    
-    [Gamers](https://www.eset.com/us/home/gamer/)
-    
-    [](https://www.eset.com/us/home/family/)
-    
-    [Families](https://www.eset.com/us/home/family/)
-    
-    [](https://www.eset.com/us/home/small-business-security/)
-    
-    [Small Business](https://www.eset.com/us/home/small-business-security/)
-    
-    [**See all solutions**](https://www.eset.com/us/home-store/)
     
     [Device protection](https://www.eset.com/us/home/protection-plans/) Device protection
     
-    [![ESET NOD32 Antivirus](/fileadmin/_processed_/4/7/csm_EAV_bc5f0ab114.png "ESET NOD32 Antivirus")](https://www.eset.com/us/home/antivirus/ "ESET NOD32 Antivirus")
-    
-    #### [**ESET NOD32  
-    Antivirus**](https://www.eset.com/us/home/antivirus/)
-    
     Award-winning antivirus for Windows and macOS
     
-    [![ESET Mobile Security for Android](/fileadmin/_processed_/9/e/csm_EMS_ead70c8b9e.png "ESET Mobile Security for Android")](https://www.eset.com/us/home/mobile-security-android/ "ESET Mobile Security for Android")
-    
-    #### **[ESET Mobile Security for Android](https://www.eset.com/us/home/mobile-security-android/)  
-    **
+    #### 
     
     Keep your Android device safe. Wherever you go
-    
-    [![ESET Parental Control for Android](/fileadmin/_processed_/9/3/csm_EPC_e2969e70e0.png "ESET Parental Control for Android")](https://www.eset.com/us/home/parental-control-android/ "ESET Parental Control for Android")
-    
-    #### [**ESET Parental Control for Android**](https://www.eset.com/us/home/parental-control-android/)
     
     Protect your children online with confidence
     
@@ -269,16 +245,12 @@ San Diego, CA 92101
     
     [Reliable and user-friendly protection tailor made for small offices.](https://www.eset.com/int/home/small-business-security/)
     
-    [Explore solution](https://www.eset.com/us/home/small-business-security/)
-    
     **Complete security for small offices:**
     
     * Malware, ransomware and phishing protection​
     * Non stop Safe Banking ​
     * Encryption of sensitive data​
     * Unlimited VPN
-    
-    [and much more​](https://www.eset.com/us/home/small-business-security/)
     
     [WHY ESET](https://www.eset.com/us/home/why-eset/) WHY ESET
     
@@ -288,8 +260,6 @@ San Diego, CA 92101
     LEAVE THE REST TO ESET**
     
     Learn what makes our acclaimed online security solution special and how it can help you protect your devices. 
-    
-    [LEARN MORE](https://www.eset.com/us/home/why-eset/)
     
     [Renew & Support](https://www.eset.com/us/existing-customers/) Renew & Support
     
@@ -301,126 +271,56 @@ San Diego, CA 92101
     * Find help with product installation
     * Get additional technical support
     
-    [Get started](https://www.eset.com/us/existing-customers/)
-    
 * [For Business](#)
     
     [Business Solutions](https://www.eset.com/us/business/small-and-medium/) Business Solutions
     
-    [](https://www.eset.com/us/business/small-and-medium/)
-    
-    #### **[BUSINESS  
-    SOLUTIONS](https://www.eset.com/us/business/small-and-medium/)**
-    
     Protect your company endpoints,  
     business data and users
     
-    [Solutions for business](https://www.eset.com/us/business/small-and-medium/)
-    
     #### Recommended solutions
     
-    * [ESET PROTECT MDR](https://www.eset.com/us/business/mdr-protection/)
-    * [ESET PROTECT Complete](https://www.eset.com/us/business/complete-protection/) SAVE 15%
-    * [ESET PROTECT Advanced](https://www.eset.com/us/business/advanced-protection/)
-    * [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
+    *  SAVE 15%
     
     #### Recommended services
     
-    * [Managed Detection & Response](https://www.eset.com/us/business/services/managed-detection-and-response/)
-    
-    [](https://www.eset.com/us/business/trial/)
-    
-    [**Try before you buy**](https://www.eset.com/us/business/trial/)
-    
     [Enterprise Solutions](https://www.eset.com/us/business/enterprise/) Enterprise Solutions
-    
-    [](https://www.eset.com/us/business/enterprise/)
-    
-    #### **[ENTERPRISE  
-    SOLUTIONS](https://www.eset.com/us/business/enterprise/)**
     
     Future-ready cybersecurity  
     for powerful enterprise protection
     
-    [Explore Solutions](https://www.eset.com/us/business/enterprise/)
-    
     #### Recommended solutions
     
-    * [**ESET PROTECT MDR Ultimate**](https://www.eset.com/us/business/mdr-ultimate-protection/)  
+    *   
         All-in-one protection with premium 24/7 MDR service
-    * [**ESET PROTECT Elite**](https://www.eset.com/us/business/elite-protection/)  
+    *   
         All-in-one protection with XDR to prevent breaches
     
     #### Recommended services
     
-    * [Managed Detection & Response](https://www.eset.com/us/business/services/managed-detection-and-response/)
-    * [Premium Support](https://www.eset.com/us/business/services/premium-support/)
-    * [Threat Intelligence](https://www.eset.com/us/business/services/threat-intelligence/)
-    
     #### Tailored solutions
     
-    * [Corporate solutions for enterprises and governments](https://www.eset.com/us/business/corporate-solutions/)
-    
     [ESET Services](https://www.eset.com/us/business/services/) ESET Services
-    
-    [](https://www.eset.com/us/business/services/)
-    
-    #### **[ESET SERVICES](https://www.eset.com/us/business/services/)**
     
     Choose from the Extensive Range of  
     ESET Services
     
-    [Explore services](https://www.eset.com/us/business/services/)
-    
     #### Recommended services
-    
-    * [MDR Services](https://www.eset.com/us/business/services/managed-detection-and-response/)
-    * [Premium Support](https://www.eset.com/us/business/services/premium-support/)
-    * [Threat Intelligence](https://www.eset.com/us/business/services/threat-intelligence/)
     
     [ESET Platform](https://www.eset.com/us/business/protect-platform/) ESET Platform
     
-    [](https://www.eset.com/us/business/protect-platform/)
-    
-    #### **[ESET PROTECT PLATFORM](https://www.eset.com/us/business/protect-platform/)**
-    
     Learn more about our unified cybersecurity platform and its uniquely balanced capabilities.
-    
-    [Explore Platform](https://www.eset.com/us/business/protect-platform/)
     
     Platform modules
     
-    * [Modern Endpoint Protection](https://www.eset.com/us/business/solutions/endpoint-protection/)
-    * [Extended Detection & Response](https://www.eset.com/us/business/solutions/xdr-extended-detection-and-response/) 
-    * [Mobile Threat Defense](https://www.eset.com/us/business/solutions/mobile-threat-defense/)
-    * [Server Security](https://www.eset.com/us/business/solutions/file-server-security/)
-    * [Encryption](https://www.eset.com/us/business/solutions/encryption/)
-    * [Multi-Factor Authentication](https://www.eset.com/us/business/solutions/multi-factor-authentication/)
-    * [Advanced Threat Defense](https://www.eset.com/us/business/solutions/advanced-threat-defense/)
-    * [Mail Server Security](https://www.eset.com/us/business/solutions/mail-security/)
-    * [Cloud Application Protection](https://www.eset.com/us/business/solutions/cloud-security/)
-    * [Vulnerability & Patch Management](https://www.eset.com/us/business/solutions/vulnerability-patch-management/)
-    * [Threat Intelligence](https://www.eset.com/us/business/services/threat-intelligence/)
-    * [MDR Services](https://www.eset.com/us/business/mdr-protection/)
-    * [Premium Support Services](https://www.eset.com/us/business/services/premium-support/)
-    * [Console](https://www.eset.com/us/business/solutions/security-management/)
-    
     [Partner with ESET](https://www.eset.com/us/business/partner/msp/) Partner with ESET
     
-    [](https://www.eset.com/us/partnernow/)
-    
-    #### **[BECOME AN ESET PARTNER](https://www.eset.com/us/partnernow/)**
-    
     Explore ESET partnerships designed to boost your growth.
-    
-    [FIND OUT MORE](https://www.eset.com/us/partnernow/)
     
     #### Already an ESET Partner?  
     **Welcome back!**
     
     Log in now to place orders, register opportunities, access training and much more!
-    
-    [Access partner portal](https://www.eset.com/us/business/partner/)
     
     [Contact Sales](https://www.eset.com/us/about/contact/) Contact Sales
     
@@ -433,36 +333,16 @@ San Diego, CA 92101
     #### More contact options
     
     * [Contact form](http://store.eset.com/us/contact-sales "Contact form")
-    * [Try before you buy](https://www.eset.com/us/business/trial/ "Try before you buy")
+    
     * [Support chat](https://helpus.eset.com/ "Support chat")
-    * [Existing customer](https://www.eset.com/us/existing-customers/#business "Existing customer")
     
     [Why ESET](https://www.eset.com/us/business/why-eset/industry-analysts-recognition/) Why ESET
     
-    [](https://www.eset.com/us/business/why-eset/)
-    
-    #### **[Why choose ESET?](https://www.eset.com/us/business/why-eset/)**
-    
     ESET is built on trust and stability, allowing it to offer leading technology through research excellence.
-    
-    [WHY ESET?](https://www.eset.com/us/business/why-eset/)
     
     #### Additional information and resources
     
-    * [Superior technology](https://www.eset.com/us/about/technology/)
-    * [Industry recognition](https://www.eset.com/us/business/why-eset/industry-analysts-recognition/)
-    * [Corporate blog](https://www.eset.com/us/about/newsroom/corporate-blog-list/)
-    * [Resource center](https://www.eset.com/us/business/resource-center/)
-    * [Compare ESET](https://www.eset.com/us/business/competitive-comparison/)
-    * [Cybersecurity compliance](https://www.eset.com/us/business/cybersecurity-compliance-for-business/)
-    * [Cyber risk insurance](https://www.eset.com/us/business/cyber-risk-insurance/)
-    * [Watch Demo](https://www.eset.com/us/business/demo/)
-    
     #### Industries
-    
-    * [Education](https://www.eset.com/us/business/industries/education/)
-    * [Finance and banking](https://www.eset.com/us/business/industries/finance-and-banking/)
-    * [Manufacturing](https://www.eset.com/us/business/industries/manufacturing/)
     
 * [Download](#)
     
@@ -473,20 +353,10 @@ San Diego, CA 92101
     ### Download for  
     **Home and Small office**
     
-    [Get a free 30-day trial](https://www.eset.com/us/home/free-trial/)
-    
-    [I already purchased](https://www.eset.com/us/download/home/)
-    
     ![](/fileadmin/ESET/INT/Floated/Icons/100x100/White/businessdownload_white.png)
     
     ### Download for  
     **Business**
-    
-    [Get a free business trial](https://www.eset.com/us/business/trial/)
-    
-    [I have a business subscription](https://www.eset.com/us/business/download/)
-    
-    [Tools and Utilities](https://www.eset.com/us/download/tools-and-utilities/)
     
     [Get a free home trial](https://www.eset.com/us/home/free-trial/) Get a free home trial
     
@@ -502,64 +372,29 @@ San Diego, CA 92101
 * [United States](https://www.eset.com/us/policy-hub/privacy/ "United States")
 * [Menu](# "Menu")
 
-[](https://www.eset.com/us/ "Go to home page")
-
 **ESET North America**  
 San Diego, California  
-[More contacts](https://www.eset.com/us/about/contact/)
 
 [United States (EN)](https://www.eset.com/int/business/partner/find/)
 
 #### For home
 
-* [All solutions for home](https://www.eset.com/us/home-store/)
-* [ESET HOME Security plans](https://www.eset.com/us/home/protection-plans/)
-* [Small Office Security](https://www.eset.com/us/home/small-business-security/)
-* [Android Security](https://www.eset.com/us/home/mobile-security-android/)
-* [NOD32 Antivirus](https://www.eset.com/us/home/antivirus/)
-* [Identity & Privacy Protection](https://www.eset.com/us/home/digital-privacy-protection/)
-* [Online scanner](https://www.eset.com/us/home/online-scanner/)
 * [Subscription flexibility](https://help.eset.com/home_eset/en-US/products_features.html)
-* [Why ESET?](https://www.eset.com/us/home/why-eset/)
-* [Student discounts](https://www.eset.com/us/group-discounts/students/)
-* [Hero discounts](https://www.eset.com/us/group-discounts/)
+
 * [Get up to $50](https://refer.eset.com/footer)
 
 #### Downloads for home
 
-* [Download free trial](https://www.eset.com/us/home/free-trial/)
-* [I have a subscription](https://www.eset.com/us/download/home/)
-
 #### For business
-
-* [Small and mid-size business](https://www.eset.com/us/business/small-and-medium/)
-* [Enterprise](https://www.eset.com/us/business/enterprise/)
-* [All products for business](https://www.eset.com/us/business/download/)
-* [Services for business](https://www.eset.com/us/business/services/)
-* [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
-* [Customer Stories](https://www.eset.com/us/business/resources/customer-stories/)
-* [Contact Sales](https://www.eset.com/us/business/contact-sales/)
-* [Resource Center](https://www.eset.com/us/business/resource-center/)
-* [Watch Demo](https://www.eset.com/us/business/demo/)
 
 #### Downloads for business
 
-* [Request business trial](https://www.eset.com/us/business/trial/)
-* [I have a subscription](https://www.eset.com/us/business/download/?nav=mm)
-
 #### Partnership
 
-* [Partner with ESET](https://www.eset.com/us/partnernow/)
-* [Reseller Program](https://www.eset.com/us/business/partner/reseller/)
-* [MSP Program](https://www.eset.com/us/business/partner/msp/)
-* [Technology Alliance](https://www.eset.com/us/business/partner/technology-alliance/)
-* [Business development](https://www.eset.com/us/business/partner/business-development/)
-* [Affiliate program](https://www.eset.com/us/business/partner/online-affiliates/)
 * [Referral Program](https://refer.eset.com/footer)
 
 #### Support
 
-* [Existing customers](https://www.eset.com/us/existing-customers/)
 * [My Account](https://store.eset.com/us/estore/myaccount/)
 * [Renew a product](https://buy.eset.com/us/cart/login)
 * [Support for home](https://support.eset.com/?segment=home)
@@ -568,85 +403,34 @@ San Diego, California
 
 #### About ESET
 
-* [About us](https://www.eset.com/us/about/)
-* [ESET during COVID-19](https://www.eset.com/us/about/coronavirus/)
-* [Newsroom](https://www.eset.com/us/about/newsroom/)
-* [Technology](https://www.eset.com/us/about/technology/)
-* [Corporate Blog](https://www.eset.com/us/about/newsroom/corporate-blog-list/)
-* [Careers](https://www.eset.com/us/about/careers/)
-* [Events](https://www.eset.com/us/about/events-list/)
+[#### For home](#for-home)
 
-[#### For home](https://www.eset.com/us/footer/#for-home)
-
-* [All solutions for home](https://www.eset.com/us/home-store/)
-* [ESET HOME Security plans](https://www.eset.com/us/home/protection-plans/)
-* [Small Office Security](https://www.eset.com/us/home/small-business-security/)
-* [Android Security](https://www.eset.com/us/home/mobile-security-android/)
-* [NOD32 Antivirus](https://www.eset.com/us/home/antivirus/)
-* [Identity & Privacy Protection](https://www.eset.com/us/home/digital-privacy-protection/)
-* [Online scanner](https://www.eset.com/us/home/online-scanner/)
 * [Subscription flexibility](https://help.eset.com/home_eset/en-US/products_features.html)
-* [Why ESET?](https://www.eset.com/us/home/why-eset/)
-* [Student discounts](https://www.eset.com/us/group-discounts/students/)
-* [Hero discounts](https://www.eset.com/us/group-discounts/)
+
 * [Get up to $50](https://refer.eset.com/footer)
 
 #### Downloads for home
 
-* [Download free trial](https://www.eset.com/us/home/free-trial/)
-* [I have a subscription](https://www.eset.com/us/download/home/)
-
-[#### For business](https://www.eset.com/us/footer/#for-business)
-
-* [Small and mid-size business](https://www.eset.com/us/business/small-and-medium/)
-* [Enterprise](https://www.eset.com/us/business/enterprise/)
-* [All products for business](https://www.eset.com/us/business/download/)
-* [Services for business](https://www.eset.com/us/business/services/)
-* [Cybersecurity awareness training](https://www.eset.com/us/business/cybertraining/)
-* [Customer Stories](https://www.eset.com/us/business/resources/customer-stories/)
-* [Contact Sales](https://www.eset.com/us/business/contact-sales/)
-* [Resource Center](https://www.eset.com/us/business/resource-center/)
-* [Watch Demo](https://www.eset.com/us/business/demo/)
+[#### For business](#for-business)
 
 #### Downloads for business
 
-* [Request business trial](https://www.eset.com/us/business/trial/)
-* [I have a subscription](https://www.eset.com/us/business/download/?nav=mm)
+[#### Partnership](#partnership)
 
-[#### Partnership](https://www.eset.com/us/footer/#partnership)
-
-* [Partner with ESET](https://www.eset.com/us/partnernow/)
-* [Reseller Program](https://www.eset.com/us/business/partner/reseller/)
-* [MSP Program](https://www.eset.com/us/business/partner/msp/)
-* [Technology Alliance](https://www.eset.com/us/business/partner/technology-alliance/)
-* [Business development](https://www.eset.com/us/business/partner/business-development/)
-* [Affiliate program](https://www.eset.com/us/business/partner/online-affiliates/)
 * [Referral Program](https://refer.eset.com/footer)
 
-[#### Support](https://www.eset.com/us/footer/#support)
+[#### Support](#support)
 
-* [Existing customers](https://www.eset.com/us/existing-customers/)
 * [My Account](https://store.eset.com/us/estore/myaccount/)
 * [Renew a product](https://buy.eset.com/us/cart/login)
 * [Support for home](https://support.eset.com/?segment=home)
 * [Support for business](https://support.eset.com/?segment=business&locale=en_EN)
 * [Security Forum](https://forum.eset.com/)
 
-[#### About ESET](https://www.eset.com/us/footer/#about-eset)
-
-* [About us](https://www.eset.com/us/about/)
-* [ESET during COVID-19](https://www.eset.com/us/about/coronavirus/)
-* [Newsroom](https://www.eset.com/us/about/newsroom/)
-* [Technology](https://www.eset.com/us/about/technology/)
-* [Corporate Blog](https://www.eset.com/us/about/newsroom/corporate-blog-list/)
-* [Careers](https://www.eset.com/us/about/careers/)
-* [Events](https://www.eset.com/us/about/events-list/)
+[#### About ESET](#about-eset)
 
 **ESET North America**  
 San Diego, California  
-[More contacts](https://www.eset.com/us/about/contact/)
-
-[United States (EN)](https://www.eset.com/us/about/newsroom/press-releases/)
 
 * * *
 
@@ -659,8 +443,6 @@ San Diego, California
 [](https://www.linkedin.com/company/esetnorthamerica "Linkedin")
 
 [](https://www.instagram.com/eset "Instagram")
-
-[](https://www.eset.com/us/rss/ "Rss")
 
 * [**Contact**](https://www.eset.com/us/about/contact/)
 * [**Privacy**](https://www.eset.com/us/policy-hub/privacy/)
