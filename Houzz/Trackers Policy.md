@@ -596,7 +596,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [Shop All Sale](https://www.houzz.com/products/on-sale)
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8dd11721074f6e34_8806-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale)
 
 [![Cyber Bestsellers Under $299](https://st.hzcdn.com/fimgs/8a119f8807562018_7560-w150-h150-b4-p0--home-design.jpg)
 
@@ -644,7 +644,7 @@ UP TO 75% OFF
 
 The Ultimate Dining Sale](https://www.houzz.com/ideabooks/179046336) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8dd11721074f6e34_8806-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/8b412a1507562f7a_1503-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--cyber-monday-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
