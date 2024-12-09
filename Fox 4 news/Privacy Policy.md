@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Terrell police officer shot and killed in line of duty, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/officer-candanoza.jpg?ve=1&tl=1)
+ [![UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/brian-thompson-suspect.png?ve=1&tl=1)
 
- ![Terrell police officer shot and killed in line of duty, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/officer-candanoza.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+ ![UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/brian-thompson-suspect.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-authorities-question-man-pa)
 
-### [Terrell police officer shot and killed in line of duty, police say](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+### [UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-authorities-question-man-pa)
 
- [![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1)
+ [![Your 2024 holiday tipping guide: Who to tip and how much](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tip-jar-getty.jpg?ve=1&tl=1)
 
- ![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-deadly-crash-south-freeway)
+ ![Your 2024 holiday tipping guide: Who to tip and how much](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tip-jar-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-holiday-tipping-guide-who-tip-how-much)
 
-### [20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://www.fox4news.com/news/fort-worth-deadly-crash-south-freeway)
+### [Your 2024 holiday tipping guide: Who to tip and how much](https://www.fox4news.com/news/2024-holiday-tipping-guide-who-tip-how-much)
 
- [![SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188791056.jpg?ve=1&tl=1)
+ [![Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/united-healthcare-brian-thompson-nyc-murder_02.jpg?ve=1&tl=1)
 
- ![SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188791056.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-college-football-playoff-fans)
+ ![Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/united-healthcare-brian-thompson-nyc-murder_02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
-### [SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://www.fox4news.com/sports/smu-college-football-playoff-fans)
+### [Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
- [![Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/120824-texas-the-issue-is-segment-1_mxf_00.02.31.28.jpg?ve=1&tl=1)
+ [![2024 closes out as world’s warmest year ever](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2157624941.jpg?ve=1&tl=1)
 
- ![Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/120824-texas-the-issue-is-segment-1_mxf_00.02.31.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-china-trade-war-gene-wu-texas-the-issue-is)
+ ![2024 closes out as world’s warmest year ever](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2157624941.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/2024-closes-out-worlds-warmest-year-ever)
 
-### [Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://www.fox4news.com/news/texas-china-trade-war-gene-wu-texas-the-issue-is)
+### [2024 closes out as world’s warmest year ever](https://www.fox4news.com/weather/2024-closes-out-worlds-warmest-year-ever)
 
- [![Jay-Z named in lawsuit over minor’s rape alongside Sean ‘Diddy’ Combs](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186891519-copy.jpg?ve=1&tl=1)
+ [![Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188053626-a.jpg?ve=1&tl=1)
 
- ![Jay-Z named in lawsuit over minor’s rape alongside Sean ‘Diddy’ Combs](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186891519-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
+ ![Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188053626-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-finds-daniel-penny-not-guilty-nyc-subway-chokehold-death)
 
-### [Jay-Z named in lawsuit alongside Sean ‘Diddy’ Combs over 13-year-old’s rape in 2000](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
+### [Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://www.fox4news.com/news/jury-finds-daniel-penny-not-guilty-nyc-subway-chokehold-death)
 
 ###### [News](https://www.fox4news.com/news)
 
