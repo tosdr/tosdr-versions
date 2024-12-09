@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Syria's Assad flees to Moscow after rebels end his regime](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188898867-scaled.jpg?ve=1&tl=1)
+ [![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188808187.jpg?ve=1&tl=1)
 
- ![Syria's Assad flees to Moscow after rebels end his regime](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188898867-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/syria-assad-plane-leaves-country)
+ ![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188808187.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
 
-### [Syria's Assad flees to Moscow after rebels end his regime](https://www.fox4news.com/news/syria-assad-plane-leaves-country)
+### [Bowl Games: Where, when to watch Texas schools play](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
 
- [![Man found shot outside Dallas church before Sunday service](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&tl=1)
+ [![Mesquite shooting: 17-year-old killed](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1)
 
- ![Man found shot outside Dallas church before Sunday service](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/07/32/18/592/333/5ea3abdb-283dde55-187d3fd0-police-lights-generic-minneapolis.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/man-found-shot-outside-dallas-church-before-sunday-service)
+ ![Mesquite shooting: 17-year-old killed](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-shooting-jarren-walker)
 
-### [Man found shot outside Dallas church before Sunday service](https://www.fox4news.com/news/man-found-shot-outside-dallas-church-before-sunday-service)
+### [17-year-old killed in Mesquite shooting](https://www.fox4news.com/news/mesquite-shooting-jarren-walker)
 
- [![Trump vows to end birthright citizenship: Here's why that won't be easy](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188309492-scaled.jpg?ve=1&tl=1)
+ [![New images show UnitedHealthcare CEO killing suspect in taxi](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/unitedhealth-killer-taxi-2box.jpg?ve=1&tl=1)
 
- ![Trump vows to end birthright citizenship: Here's why that won't be easy](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188309492-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-birthright-citizenship)
+ ![New images show UnitedHealthcare CEO killing suspect in taxi](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/unitedhealth-killer-taxi-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killer-taxi-images)
 
-### [Trump vows to end birthright citizenship: Here's why that won't be easy](https://www.fox4news.com/news/trump-birthright-citizenship)
+### [New images show UnitedHealthcare CEO killing suspect in taxi](https://www.fox4news.com/news/unitedhealthcare-ceo-killer-taxi-images)
 
- [![Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dialysis-facility-at-4804-bryant-irvin-road-3.jpg?ve=1&tl=1)
+ [![Wikipedia's most-viewed articles in 2024](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2174856928-copy-scaled.jpg?ve=1&tl=1)
 
- ![Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dialysis-facility-at-4804-bryant-irvin-road-3.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/car-crashes-fort-worth-dialysis-facility-driver-taken-hospital)
+ ![Wikipedia's most-viewed articles in 2024](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2174856928-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wikipedias-most-viewed-articles-2024)
 
-### [Car crashes into Fort Worth dialysis facility, driver taken to hospital](https://www.fox4news.com/news/car-crashes-fort-worth-dialysis-facility-driver-taken-hospital)
+### [These were Wikipedia's most-viewed articles in 2024](https://www.fox4news.com/news/wikipedias-most-viewed-articles-2024)
 
- [![Fort Worth firefighters put out Saturday morning motel fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/motel-fire-in-the-7500-block-of-camp-bowie-boulevard-west-6.jpg?ve=1&tl=1)
+ [![First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188252587.jpg?ve=1&tl=1)
 
- ![Fort Worth firefighters put out Saturday morning motel fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/motel-fire-in-the-7500-block-of-camp-bowie-boulevard-west-6.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-firefighters-put-out-saturday-morning-motel-fire)
+ ![First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188252587.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-12-team-college-football-playoff-set-oregon-seeded-no-1-smu-edges-alabama-last-spot)
 
-### [Fort Worth firefighters put out Saturday morning motel fire](https://www.fox4news.com/news/fort-worth-firefighters-put-out-saturday-morning-motel-fire)
+### [First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://www.fox4news.com/news/first-12-team-college-football-playoff-set-oregon-seeded-no-1-smu-edges-alabama-last-spot)
 
 ###### [News](https://www.fox4news.com/news)
 
