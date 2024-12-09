@@ -60,6 +60,16 @@ Hello, 你好!
 * [熱門角色](javascript:;)
 * [當家台柱](javascript:;)
 
+* [![三青擺龍](https://www.pili.com.tw/img/role/240x278/sanqingbailong_1.jpg?v=1733735202)
+    
+    雜學
+    
+    ###### 三青擺龍](https://www.pili.com.tw/role-view/sanqingbailong/)
+* [![揹黑的孤兒](https://www.pili.com.tw/img/role/240x278/beiheideguer_1.jpg?v=1733734197)
+    
+    雜學
+    
+    ###### 揹黑的孤兒](https://www.pili.com.tw/role-view/beiheideguer/)
 * [![無師自渡](https://www.pili.com.tw/img/role/240x278/wushizidu_1.jpg?v=1733364135)
     
     釋
@@ -100,16 +110,6 @@ Hello, 你好!
     雜學
     
     ###### 鴉魂](https://www.pili.com.tw/role-view/yahuan/)
-* [![閃焰](https://www.pili.com.tw/img/role/240x278/shanyan_1.jpg?v=1717408663)
-    
-    雜學
-    
-    ###### 閃焰](https://www.pili.com.tw/role-view/shanyan/)
-* [![鬪蛉子](https://www.pili.com.tw/img/role/240x278/doulingzi_1.jpg?v=1717408180)
-    
-    雜學
-    
-    ###### 鬪蛉子](https://www.pili.com.tw/role-view/doulingzi/)
 
 *  [![素還真](/img/role/240x278/su_1.jpg)
     
