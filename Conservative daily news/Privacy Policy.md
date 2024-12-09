@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Canada Bans 324 More Types Of Firearms, Plans To Give The Guns To Ukraine](https://www.thegunpage.com/canada-bans-324-more-types-of-firearms-plans-to-give-the-guns-to-ukraine/10612363)
 * [Why Sen. Schumer Is Rushing Judges Through Senate Confirmation](https://www.thegunpage.com/why-sen-schumer-is-rushing-judges-through-senate-confirmation/10612360)
 * [Understanding The USPSA Classification System](https://www.thegunpage.com/understanding-the-uspsa-classification-system/10612357)
 * [Silencer Saturday #358: A Holiday Suppressed Gift Guide](https://www.thegunpage.com/silencer-saturday-358-a-holiday-suppressed-gift-guide/10612353)
@@ -190,7 +191,6 @@ Recent Posts
 * [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
 * [TFB Podcast Roundup 158: The December 6th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-158-the-december-6th-roundup/10612345)
 * [7th Circuit Extends Stay; Gun Owners Stuck with Gun Ban Through State’s Appeal](https://www.thegunpage.com/7th-circuit-extends-stay-gun-owners-stuck-with-gun-ban-through-states-appeal/10612339)
-* [The New Q Southpaw](https://www.thegunpage.com/the-new-q-southpaw/10612341)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
