@@ -124,6 +124,8 @@ We may make changes to this policy at any time. You may be asked to review and r
 * [Forums](https://www.obscuregamers.com/) 
 * [Help](https://www.obscuregamers.com/help/) 
 
+* [Rebirth](https://www.obscuregamers.com/misc/style "Style chooser")
+
 * [Contact us](https://www.obscuregamers.com/misc/contact)
 * [Terms and rules](https://www.obscuregamers.com/help/terms/)
 * [Privacy policy](https://www.obscuregamers.com/help/privacy-policy/)
