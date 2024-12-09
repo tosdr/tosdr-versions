@@ -26,6 +26,26 @@
     
     Latest stories
     
+    [![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")
+    
+    ![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](https://static.euronews.com/articles/stories/08/89/86/78/368x207_cmsv2_6ecbd7e7-bf51-5e87-b160-71f76a4f1f39-8898678.jpg "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+    
+    Now playing Next
+    
+    [Business](https://www.euronews.com/business/business)
+    
+    ### [Jaguar's all-electric models set for a higher-than-thought price surge](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+    
+    [![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")
+    
+    ![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](https://static.euronews.com/articles/stories/08/89/92/06/368x207_cmsv2_b7f1e967-86d3-56a8-9d7f-96c6cf2daade-8899206.jpg "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+    
+    Now playing Next
+    
+    [Syria](https://www.euronews.com/news/asia/syria)
+    
+    ### [Who are the key players in Syria and who stands to gain or lose?](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+    
     [![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
     
     ![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
@@ -45,26 +65,6 @@
     [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
     
     ### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
-    
-    [![https://www.eurekalert.org/news-releases/1066380](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.eurekalert.org/news-releases/1066380")
-    
-    ![https://www.eurekalert.org/news-releases/1066380](https://static.euronews.com/articles/stories/08/89/54/72/368x207_cmsv2_e8d34b8e-6cf1-5aca-a04c-81ff2688c6b8-8895472.jpg "https://www.eurekalert.org/news-releases/1066380")](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
-    
-    Now playing Next
-    
-    [Nutrition](https://www.euronews.com/health/nutrition)
-    
-    ### [Ultra-processed foods linked to more fat in muscles](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
-    
-    [![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")
-    
-    ![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](https://static.euronews.com/articles/stories/08/89/91/60/368x207_cmsv2_216f0751-111f-58c5-ae87-1b1548b1e468-8899160.jpg "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
-    
-    Now playing Next
-    
-    [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
-    
-    ### [Fact check: Photos falsely claim to show al-Assad and wife in Moscow](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,8 +317,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -374,6 +372,30 @@ Trending
 
 Latest stories
 
+[![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")
+
+![The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'](https://static.euronews.com/articles/stories/08/89/86/78/368x207_cmsv2_6ecbd7e7-bf51-5e87-b160-71f76a4f1f39-8898678.jpg "The Jaguar Type 00 electric model in Rhodon Rose, also known as 'Miami Pink'")](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+
+Now playing Next
+
+[Business](https://www.euronews.com/business/business)
+
+### [Jaguar's all-electric models set for a higher-than-thought price surge](https://www.euronews.com/business/2024/12/09/jaguars-all-electric-models-set-for-a-higher-than-expected-price-surge)
+
+* * *
+
+[![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")
+
+![Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024](https://static.euronews.com/articles/stories/08/89/92/06/368x207_cmsv2_b7f1e967-86d3-56a8-9d7f-96c6cf2daade-8899206.jpg "Opposition fighters stand next a government forces tank which was left on a highway, in Damascus, 8 December 2024")](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+
+Now playing Next
+
+[Syria](https://www.euronews.com/news/asia/syria)
+
+### [Who are the key players in Syria and who stands to gain or lose?](https://www.euronews.com/2024/12/09/al-assads-reign-is-over-who-are-the-key-players-in-the-new-syria-and-who-stands-to-gain-or)
+
+* * *
+
 [![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
 
 ![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
@@ -395,30 +417,6 @@ Now playing Next
 [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
 
 ### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
-
-* * *
-
-[![https://www.eurekalert.org/news-releases/1066380](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.eurekalert.org/news-releases/1066380")
-
-![https://www.eurekalert.org/news-releases/1066380](https://static.euronews.com/articles/stories/08/89/54/72/368x207_cmsv2_e8d34b8e-6cf1-5aca-a04c-81ff2688c6b8-8895472.jpg "https://www.eurekalert.org/news-releases/1066380")](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
-
-Now playing Next
-
-[Nutrition](https://www.euronews.com/health/nutrition)
-
-### [Ultra-processed foods linked to more fat in muscles](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
-
-* * *
-
-[![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")
-
-![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](https://static.euronews.com/articles/stories/08/89/91/60/368x207_cmsv2_216f0751-111f-58c5-ae87-1b1548b1e468-8899160.jpg "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
-
-Now playing Next
-
-[EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
-
-### [Fact check: Photos falsely claim to show al-Assad and wife in Moscow](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -673,8 +671,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
