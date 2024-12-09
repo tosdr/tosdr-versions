@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/c6c9af86-da7b-42ab-90f4-653f7b779e88/20241209T125600/c6c9af86-da7b-42ab-90f4-653f7b779e88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6c9af86-da7b-42ab-90f4-653f7b779e88/20241209T125600/c6c9af86-da7b-42ab-90f4-653f7b779e88_360x203.jpg)](https://www.king5.com/article/news/nation-world/syrian-government-overthrow-washington-reaction/281-b88ddc19-44f1-4f5c-ab64-33e171fc5002)
+        
+        #### ['It's a new beginning': Syrian-Americans in Washington celebrate the overthrowing of Syria's government](https://www.king5.com/article/news/nation-world/syrian-government-overthrow-washington-reaction/281-b88ddc19-44f1-4f5c-ab64-33e171fc5002)
+        
     *  [![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
         
         #### [Police investigating homicide outside Kent bar](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_360x203.jpg)](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
-        
-        #### [Fire crews extinguish boat fire in Elliott Bay](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/90ef831e-4fbe-4987-b1c0-48af31d424b3/20241209T062310/90ef831e-4fbe-4987-b1c0-48af31d424b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90ef831e-4fbe-4987-b1c0-48af31d424b3/20241209T062310/90ef831e-4fbe-4987-b1c0-48af31d424b3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/c07c70a9-f5d7-4162-b067-ae0d65f7163e/20241209T130431/c07c70a9-f5d7-4162-b067-ae0d65f7163e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c07c70a9-f5d7-4162-b067-ae0d65f7163e/20241209T130431/c07c70a9-f5d7-4162-b067-ae0d65f7163e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,7 +105,7 @@ Navigation
 
 Seattle, WA »
 
-45°
+44°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
