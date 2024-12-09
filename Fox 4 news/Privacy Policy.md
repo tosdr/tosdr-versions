@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1)
+
+ ![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-deadly-crash-south-freeway)
+
+### [20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://www.fox4news.com/news/fort-worth-deadly-crash-south-freeway)
+
+ [![SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188791056.jpg?ve=1&tl=1)
+
+ ![SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188791056.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/smu-college-football-playoff-fans)
+
+### [SMU fans celebrate rise from 'death penalty' to College Football Playoff](https://www.fox4news.com/sports/smu-college-football-playoff-fans)
+
+ [![Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/120824-texas-the-issue-is-segment-1_mxf_00.02.31.28.jpg?ve=1&tl=1)
+
+ ![Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://images.foxtv.com/images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2024/12/32/18/592/333/120824-texas-the-issue-is-segment-1_mxf_00.02.31.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-china-trade-war-gene-wu-texas-the-issue-is)
+
+### [Texas Rep. Gene Wu raises concerns about state's potential trade war with China](https://www.fox4news.com/news/texas-china-trade-war-gene-wu-texas-the-issue-is)
+
+ [![Jay-Z named in lawsuit over minor’s rape alongside Sean ‘Diddy’ Combs](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2186891519-copy.jpg?ve=1&tl=1)
+
+ ![Jay-Z named in lawsuit over minor’s rape alongside Sean ‘Diddy’ Combs](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186891519-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
+
+### [Jay-Z named in lawsuit alongside Sean ‘Diddy’ Combs over 13-year-old’s rape in 2000](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
+
  [![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188808187.jpg?ve=1&tl=1)
 
  ![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188808187.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
 
 ### [Bowl Games: Where, when to watch Texas schools play](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
-
- [![Mesquite shooting: 17-year-old killed](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1)
-
- ![Mesquite shooting: 17-year-old killed](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/baccc3df-Generic-police-tape-2-11.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-shooting-jarren-walker)
-
-### [17-year-old killed in Mesquite shooting](https://www.fox4news.com/news/mesquite-shooting-jarren-walker)
-
- [![New images show UnitedHealthcare CEO killing suspect in taxi](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/unitedhealth-killer-taxi-2box.jpg?ve=1&tl=1)
-
- ![New images show UnitedHealthcare CEO killing suspect in taxi](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/unitedhealth-killer-taxi-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-killer-taxi-images)
-
-### [New images show UnitedHealthcare CEO killing suspect in taxi](https://www.fox4news.com/news/unitedhealthcare-ceo-killer-taxi-images)
-
- [![Wikipedia's most-viewed articles in 2024](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2174856928-copy-scaled.jpg?ve=1&tl=1)
-
- ![Wikipedia's most-viewed articles in 2024](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2174856928-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wikipedias-most-viewed-articles-2024)
-
-### [These were Wikipedia's most-viewed articles in 2024](https://www.fox4news.com/news/wikipedias-most-viewed-articles-2024)
-
- [![First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188252587.jpg?ve=1&tl=1)
-
- ![First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188252587.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/first-12-team-college-football-playoff-set-oregon-seeded-no-1-smu-edges-alabama-last-spot)
-
-### [First 12-team College Football Playoff set, Oregon seeded No. 1 and SMU edges Alabama for last spot](https://www.fox4news.com/news/first-12-team-college-football-playoff-set-oregon-seeded-no-1-smu-edges-alabama-last-spot)
 
 ###### [News](https://www.fox4news.com/news)
 
