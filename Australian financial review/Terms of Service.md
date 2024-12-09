@@ -295,12 +295,11 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.4788%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_669%2C$y_617/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a96615885fd8cb0aa88f102141467f171419f584)](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
 
-### [Monocle magazine’s Tyler Brûlé: Melbourne needs a good scrub down](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
+### [Melbourne needs a good scrub down, says this well-travelled style guru](https://www.afr.com/life-and-luxury/fashion-and-style/monocle-magazine-s-tyler-br-l-melbourne-needs-a-good-scrub-down-20241110-p5kpe8)
 
-* 39 mins ago
 * Matthew Drummond
 
-* ### [2024 changed the watch world. What will 2025 bring?](https://www.afr.com/life-and-luxury/fashion-and-style/2024-changed-the-watch-world-what-will-2025-bring-20241118-p5krhy)
+* ### [This year changed the watch world. What will 2025 bring?](https://www.afr.com/life-and-luxury/fashion-and-style/2024-changed-the-watch-world-what-will-2025-bring-20241118-p5krhy)
     
 * ### [A toast to the five best champagnes of 2024](https://www.afr.com/life-and-luxury/food-and-wine/a-toast-to-the-five-best-champagnes-of-2024-20241113-p5kqcs)
     
@@ -326,7 +325,6 @@ Advertise
 
 ### [Here’s how succession planning works at Patek Philippe](https://www.afr.com/life-and-luxury/fashion-and-style/here-s-how-succession-planning-works-at-patek-philippe-20241202-p5kv4y)
 
-* 54 mins ago
 * Bani McSpedden
 
 * ### [Why this executive finds diving so addictive](https://www.afr.com/life-and-luxury/health-and-wellness/why-this-executive-finds-diving-so-addictive-20241127-p5ku0a)
