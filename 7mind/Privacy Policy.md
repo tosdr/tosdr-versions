@@ -6,7 +6,7 @@
 * [Für unternehmen](https://www.7mind.de/unternehmen)
 * [Magazin](https://www.7mind.de/magazin)
 
-[APP herunterladen](https://www.7mind.de/download)
+[Kostenlos testen](https://www.7mind.de/preise)
 
 [](#)
 
@@ -1198,11 +1198,11 @@ Sprache
 
 Deutsch English
 
-* [](https://www.facebook.com/7Mind-309506115884031)
 * [](https://www.instagram.com/7mind_meditation_de)
-* [](https://www.pinterest.de/7mind)
-* [](https://www.youtube.com/channel/UCCIGOro6apjFZD39g2Z_6bg)
+* [](https://www.facebook.com/7Mind-309506115884031)
 * [](https://www.linkedin.com/company/7mind-gmbh)
+* [](https://www.youtube.com/channel/UCCIGOro6apjFZD39g2Z_6bg)
+* [](https://www.threads.net/@7mind_meditation_de)
 
 ### Unsere Inhalte
 
