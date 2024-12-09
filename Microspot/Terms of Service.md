@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/8806.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -90,7 +90,7 @@ ACTUALITÉSdes articles SONY sélectionnés au meilleurs prix](https://www.micro
 
 [![ID DEAL](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-06-CM2-iPad-Pro-2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNTQ4MjN8aW1hZ2UvanBlZ3xhR0UwTDJnek1TODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3Tmw5RFRUSmZhVkJoWkY5UWNtOWZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F2T0RZd2VEUTRORjlKTWpSZlUzQlFYMWh0WVhOZk1EWmZRMDB5WDJsUVlXUmZVSEp2WHpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa3wyMDNiNzQ5MzQ4ODE0MzVjZjAwZmE3NDM0NGJmNzlhYzUxZGRmMzNkNTcyZTQ5OGU0ZjM1MTE3OTYxZjM3ZWU1&w=2360&q=75)
 
-100.-rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
+100.-de rabais sur une sélection d'iPad Pro](https://www.microspot.ch/fr/cms/apple-ipad)
 
 [![hp](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-SpP-Xmas-02-CM2-Promos-KW50-6.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMDk1NDd8aW1hZ2UvanBlZ3xhR1V6TDJobU1DODROakI0TkRnMFgwa3lORjlUY0ZCZldHMWhjMTh3TWw5RFRUSmZVSEp2Ylc5elgwdFhOVEJmTmk1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EWXdlRFE0TkY5Sk1qUmZVM0JRWDFodFlYTmZNREpmUTAweVgxQnliMjF2YzE5TFZ6VXdYell1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrfGE2NTQwYTY5Yjc0MTJkYTcyYzFhY2I2ZmU4YTZlNTkxNWFhMzA2YWNjMTE3OTAwYzYwZmVkMzdkMzcwYjAxNzM&w=2360&q=75)
 
@@ -105,13 +105,27 @@ Nos univers thématiques
 
 [![80x80_I24_Icons_009_CM1_Icons_New5.png](/medias/80x80-I24-Icons-009-CM1-Icons-New5.png?context=bWFzdGVyfGNtc3w0ODV8aW1hZ2UvcG5nfGFHUXlMMmd3Wmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NWUwYzg2ZWE1ZmFmY2RlODM0ZGIxZjIwNjE1NmZlYWZlNzZiMDAwZmY3NGQxOTY3YTQ5ZTk2NmVjYTg5YzJiNA)
 
-Trade-In Service](https://www.microspot.ch/fr/cms/trade-in)
+Trade-In Service
 
-[![80x80_I24_Icons_018_Season_Restposten4.png](/medias/80x80-I24-Icons-018-Season-Restposten4.png?context=bWFzdGVyfGNtc3w0NzF8aW1hZ2UvcG5nfGFHWTFMMmc1Tmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU5DNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxialF1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfDgwZGU3OTMwNDM1NzA0NzBkMDQ1ZjM3ZDE5NzNiM2ZjMDQ1YjBlOTM5ZDgxNGU1MTgwNmUyNWIzOTYyMTNmY2Y)
+Echangez vos anciens appareils et économisez](https://www.microspot.ch/fr/cms/trade-in)
 
-les produits E-Mobility
+[![80x80_I24_Icons_018_Season_Restposten3.png](/medias/80x80-I24-Icons-018-Season-Restposten3.png?context=bWFzdGVyfGNtc3w0MTR8aW1hZ2UvcG5nfGFHSXhMMmhqTnk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU15NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxiak11Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfGZhODQ2ZTliNjM4ZjQ1ZTMxNDc0NjZmMjc2ZTE5NDYxNTBkYzQ0NzFlMzMwMjA2MTQxYjRiZmI5YWQ1NGYyNDY)
 
-Bon à savoir et offres spéciales](https://www.microspot.ch/fr/cms/mobilite)
+Bouger
+
+Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitness)
+
+[![300x150_M23_Logos_016_Lego_v2.png](/medias/300x150-M23-Logos-016-Lego-v2.png?context=bWFzdGVyfGNtc3wyMjE2fGltYWdlL3BuZ3xhRGN5TDJnNE55OHpNREI0TVRVd1gwMHlNMTlNYjJkdmMxOHdNVFpmVEdWbmIxOTJNaTV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F2TXpBd2VERTFNRjlOTWpOZlRHOW5iM05mTURFMlgweGxaMjlmZGpJdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xlNjkxOGVkYWQ1MGYzNWY3YTUyYTczMmNiYTY0YjRmMTRhOTdmOTE0ZTdmOTFmZTE1YjhlZjcxMTQ2ODA0MTBk)
+
+Une sélection de produits LEGO
+
+Bon à savoir et offres spéciales](https://www.microspot.ch/fr/brand/lego)
+
+[![80x80_I24_Icons_020_Winter.png](/medias/80x80-I24-Icons-020-Winter.png?context=bWFzdGVyfGNtc3w1NDl8aW1hZ2UvcG5nfGFHTXlMMmhoT1M4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURJd1gxZHBiblJsY2k1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1RJMFgwbGpiMjV6WHpBeU1GOVhhVzUwWlhJdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xlZTY1ZDQ2YzRlMWEyYzk2OTc5ZTk3ODlmYjQwNmU3ODc2OGMzM2M5OWQyYzkwOTg1Mjc5Yzc5ZjAxNjcwMGQ3)
+
+Hiver en Suisse
+
+Tout ce dont vous avez besoin pour l'hiver](https://www.microspot.ch/fr/cms/hiver)
 
 [![80x80_I24_Icons_018_Season_schmal2.png](/medias/80x80-I24-Icons-018-Season-schmal2.png?context=bWFzdGVyfGNtc3w0NzJ8aW1hZ2UvcG5nfGFHSmhMMmcyWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5elkyaHRZV3d5TG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5elkyaHRZV3d5TG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8ZTg5NzI5YTg5NDk4MDg3YWI3ZjFjNTgxNWFhNmFhNzBlZmViZjJiOGE3ZmYzMTg1YmMyZDY3NWQ5YjZhMjFiZg)
 
@@ -124,18 +138,6 @@ Offres spéciales saisonnières](https://www.microspot.ch/de/cms/season-deals)
 Fins de Series
 
 Pièces Isoleès à Prix Fous](https://www.microspot.ch/fr/cms/fins-de-series)
-
-[![300x150_M23_Logos_016_Lego_v2.png](/medias/300x150-M23-Logos-016-Lego-v2.png?context=bWFzdGVyfGNtc3wyMjE2fGltYWdlL3BuZ3xhRGN5TDJnNE55OHpNREI0TVRVd1gwMHlNMTlNYjJkdmMxOHdNVFpmVEdWbmIxOTJNaTV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F2TXpBd2VERTFNRjlOTWpOZlRHOW5iM05mTURFMlgweGxaMjlmZGpJdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3xlNjkxOGVkYWQ1MGYzNWY3YTUyYTczMmNiYTY0YjRmMTRhOTdmOTE0ZTdmOTFmZTE1YjhlZjcxMTQ2ODA0MTBk)
-
-Une sélection de produits LEGO
-
-Bon à savoir et offres spéciales](https://www.microspot.ch/fr/brand/lego)
-
-[![80x80_I24_Icons_018_Season_Restposten3.png](/medias/80x80-I24-Icons-018-Season-Restposten3.png?context=bWFzdGVyfGNtc3w0MTR8aW1hZ2UvcG5nfGFHSXhMMmhqTnk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU15NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxiak11Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfGZhODQ2ZTliNjM4ZjQ1ZTMxNDc0NjZmMjc2ZTE5NDYxNTBkYzQ0NzFlMzMwMjA2MTQxYjRiZmI5YWQ1NGYyNDY)
-
-Bouger
-
-Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitness)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
@@ -215,6 +217,10 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
 [Frais de port gratuits pour livraison
 
 à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
@@ -222,10 +228,6 @@ Achetez comme vous aimez
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Retrait gratuit
-
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
