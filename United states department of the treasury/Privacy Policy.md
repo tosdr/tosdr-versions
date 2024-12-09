@@ -575,17 +575,17 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    December 9, 2024
+    
+    [Treasury Marks International Human Rights Day and Designates Perpetrators and Supporters of Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2741)
+    
+    December 9, 2024
+    
+    [Treasury Sanctions Global Gold Smuggling Network](https://home.treasury.gov/news/press-releases/jy2740)
+    
     December 6, 2024
     
     [Financial Stability Oversight Council Releases 2024 Annual Report](https://home.treasury.gov/news/press-releases/jy2738)
-    
-    December 4, 2024
-    
-    [U.S. Department of the Treasury Releases Final Rules on Investment Tax Credit to Produce Clean Power, Strengthen Clean Energy Economy](https://home.treasury.gov/news/press-releases/jy2736)
-    
-    December 4, 2024
-    
-    [Treasury Exposes Money Laundering Network Using Digital Assets to Evade Sanctions](https://home.treasury.gov/news/press-releases/jy2735)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
