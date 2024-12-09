@@ -2,25 +2,29 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
+[Clearance Sale
+
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Holiday Gift Guide
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
+[Elite Club Membership
+
+Enjoy FREE Shipping and More!](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
-
-[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Holiday Gift Guide
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[Clearance Sale
+[Elite Club Membership
 
-Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
+Enjoy FREE Shipping and More!](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
  
 
@@ -104,25 +108,29 @@ My store
 
 [](#)
 
-[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
+[Clearance Sale
+
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Holiday Gift Guide
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
+[Elite Club Membership
+
+Enjoy FREE Shipping and More!](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
+
 [Clearance Sale
 
 Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
-
-[Cyber Week Sale Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/?cp_source=global&cp_medium=tippy-top)
 
 [Holiday Gift Guide
 
 Find The Perfect RC Gift](https://www.horizonhobby.com/holiday-headquarters/?cp_source=global&cp_medium=tippy-top)
 
-[Clearance Sale
+[Elite Club Membership
 
-Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/?cp_source=global&cp_medium=tippy-top)
+Enjoy FREE Shipping and More!](https://www.horizonhobby.com/product/rc-club-elite-membership/RCCELITE.html?cp_source=global&cp_medium=tippy-top)
 
 * [Shop](https://www.horizonhobby.com/s/horizon-us/home "Shop Radio Control")
 * [Learn](https://www.horizonhobby.com/learn.html "Learn about the RC Hobby")
