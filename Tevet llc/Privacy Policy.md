@@ -381,8 +381,6 @@ Email: sales@tevet.com
 * [Cookie Policy](https://tevet.com/opt-out-preferences/?cmplz_region_redirect=true)
 * [Privacy Statement](https://tevet.com/privacy-statement-us/?cmplz_region_redirect=true)
 
-![TEVET](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/cropped-TEVET-red-3546-black-on-transparent-1.webp)
-
 Manage Consent
 
 To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
