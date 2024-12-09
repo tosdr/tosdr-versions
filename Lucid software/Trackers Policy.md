@@ -452,16 +452,6 @@ Cookies
 | osano\_consentmanager | Osano | ESSENTIAL | Stores the user's current consent status. | 1 year |
 | osano\_consentmanager\_uuid | Osano | ESSENTIAL | Stores the user's unique consent identifier. | 1 year |
 
-Get Started
-
-* [Contact Sales](https://lucid.co/contact/contact-sales)
-
-Products
-
-* [Lucidspark](https://lucidspark.com/)
-* [Lucidchart](https://www.lucidchart.com/pages/)
-* [Lucidscale](https://lucid.co/lucidscale)
-
 Solutions
 
 * [Digital transformation](https://lucid.co/solutions/digital-transformation)
@@ -469,6 +459,14 @@ Solutions
 * [New product development](https://lucid.co/solutions/product-development)
 * [Efficiency through AI](https://lucid.co/platform/ai)
 * [View more](https://lucid.co/solutions-hub)
+
+Company
+
+* [About us](https://lucid.co/about)
+* [Leadership](https://lucid.co/leadership)
+* [Newsroom](https://lucid.co/newsroom)
+* [Careers](https://lucid.co/careers)
+* [Contact us](https://lucid.co/contact-us)
 
 Resources
 
@@ -479,14 +477,20 @@ Resources
 * [Learning campus](https://lucid.co/learning-campus)
 * [Community](https://community.lucid.co/)
 * [Partners](https://lucid.co/partners)
+* [Newsletter](https://www.lucidchart.com/pages/contact/newsletter)
 
-Company
+Products
 
-* [About us](https://lucid.co/about)
-* [Leadership](https://lucid.co/leadership)
-* [Newsroom](https://lucid.co/newsroom)
-* [Careers](https://lucid.co/careers)
-* [Contact us](https://lucid.co/contact-us)
+* [Lucidspark](https://lucidspark.com/)
+* [Lucidchart](https://www.lucidchart.com/pages/)
+* [Lucidscale](https://lucid.co/lucidscale)
+* [Integrations marketplace](https://lucid.co/marketplace/overview)
+
+Get Started
+
+* [Enterprise](https://lucid.co/enterprise)
+* [Contact Sales](https://lucid.co/contact/contact-sales)
+* [Pricing](https://lucid.app/pricing/lucidchart?#/pricing/coreBundle)
 
 English
 
