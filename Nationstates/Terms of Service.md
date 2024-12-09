@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [DB: Universe V2: Astro Rebellion: Tre… (161)](https://forum.nationstates.net/viewtopic.php?t=557027&f=31&view=unread#unread ""DB: Universe V2: Astro Rebellion: Tree of Good and Evil (IC)" (161 posts)")
-* [YN's Level Crossings (21)](https://forum.nationstates.net/viewtopic.php?t=555934&f=23&view=unread#unread ""YN's Level Crossings" (21 posts)")
-* [AN Out of Context III (4,752)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,752 posts)")
-* [UnitedHealthcare CEO Assassinated (589)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (589 posts)")
-* [The Collective Security League Assemb… (1,985)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,985 posts)")
+* [\[Last call\] - Advertising Disclosure… (12)](https://forum.nationstates.net/viewtopic.php?t=543397&f=9&view=unread#unread ""[Last call] - Advertising Disclosure Rules" (12 posts)")
+* [YL Reacts to above video. (70)](https://forum.nationstates.net/viewtopic.php?t=556619&f=25&view=unread#unread ""YL Reacts to above video." (70 posts)")
+* [Melbourne Synagogue Firebombing Final… (13)](https://forum.nationstates.net/viewtopic.php?t=559396&f=20&view=unread#unread ""Melbourne Synagogue Firebombing Finally Treated as Terrorism" (13 posts)")
+* [\[QUORATE\] Regulating Industrial Sand… (36)](https://forum.nationstates.net/viewtopic.php?t=557805&f=9&view=unread#unread ""[QUORATE] Regulating Industrial Sand Mining" (36 posts)")
 
 Advertisement
 
