@@ -422,7 +422,7 @@ Stay connected with Liberty Fund’s quarterly newsletter featuring the latest n
 
 Email\*
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -431,3 +431,7 @@ This field is for validation purposes and should be left unchanged.
 © 2024 Liberty Fund, Inc. All Rights Reserved. Part of the Liberty Fund Network.
 
 ![fbpx](https://www.facebook.com/tr?id=950410975827443&ev=PageView&noscript=1)
+
+                                     
+
+This site uses local and third-party cookies to maintain your shopping cart and to analyze traffic. By closing this banner or clicking any link in this page, you agree with this practice.[OK](#)[Privacy policy](https://about.libertyfund.org/privacy-policy/)
