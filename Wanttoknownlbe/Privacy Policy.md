@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/professor-zuboff-over-de-fb-google-dataroof/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/is-dit-de-coutinho-van-de-aanklacht/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
