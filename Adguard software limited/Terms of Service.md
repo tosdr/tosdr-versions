@@ -169,7 +169,7 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 AdGuard End-User License Agreement
 ==================================
 
-May 17, 2024
+April 10, 2024
 
 IMPORTANT: THIS SOFTWARE END USER LICENSE AGREEMENT (“EULA” OR “AGREEMENT”) IS A LEGAL AGREEMENT BETWEEN YOU (EITHER AN INDIVIDUAL OR, IF PURCHASED OR OTHERWISE ACQUIRED BY OR FOR AN ENTITY, AN ENTITY) AND ADGUARD SOFTWARE LIMITED (OWNER OF ALL RIGHTS, WHETHER EXCLUSIVE OR OTHERWISE TO THE SOFTWARE). READ IT CAREFULLY BEFORE COMPLETING THE INSTALLATION PROCESS AND USING SOFTWARE. BY USING THE SOFTWARE, YOU ARE CONFIRMING YOUR ACCEPTANCE OF THE SOFTWARE AND AGREEING TO BECOME BOUND BY TERMS OF THIS EULA. IF YOU DO NOT AGREE TO BE BOUND BY THESE TERMS, THEN DO NOT INSTALL THE SOFTWARE.
 
@@ -185,7 +185,7 @@ Certain components and versions of AdGuard, such as DnsLibs, tsurlfilter, Script
 
 If your project aligns with the GNU General Public License v3.0 or the Apache License, Version 2.0 criteria, you are permitted to utilize these components and versions of AdGuard under the provisions of the relevant open-source license. For projects that do not meet these requirements, such as closed-source projects, adherence to the licensing terms outlined in the End-User License Agreement of AdGuard below is mandatory.
 
-The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at [](https://www.gnu.org/licenses/gpl-3.0.html)[https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html) and on the Apache Software Foundation website at [](https://www.apache.org/licenses/LICENSE-2.0)[https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0), respectively.
+The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are accessible in the project’s source code repository and also on the GNU Project website at [www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html) and on the Apache Software Foundation website at [www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0), respectively.
 
 1\. Definitions
 ---------------
@@ -204,11 +204,13 @@ The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are acces
 
 1.7. “Software Beta Application” is a version of the Software, so identified, to be used only to test the Software for a limited time period. The beta version of the Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
 
-1.8. “Software Trial Application” is a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software. 1.9. “Third Party Software” are software modules, libraries and applications owned and/or licensed by third parties that are distributed with the Software and that may be part of the Software.
+1.8. “Software Trial Application” is a version of the Software, so identified, to be used only to review, demonstrate and evaluate the Software for a limited time period. The Software may have limited features and will cease operating after a predetermined amount of time due to an internal mechanism within the Software.
+
+1.9. “Third Party Software” are software modules, libraries and applications owned and/or licensed by third parties that are distributed with the Software and that may be part of the Software.
 
 1.10. “Update(s)” are all upgrades, revisions, patches, enhancements, fixes, modifications, copies, additions or maintenance packs, etc., applicable to the Software, that the Rightholder provides from time to time in its discretion. Any Update that You may receive from the Rightholder’s online services, or the Website and install is a part of the Software and all requirements, restrictions and terms of this EULA apply to any such Update.
 
-1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [](https://adguard.com/)[https://adguard.com](https://adguard.com/)).
+1.11. “Website” is the website operated by the Rightholder that allows You to manage the Software and Your licenses and subscriptions (for example, [adguard.com](https://adguard.com/)).
 
 2\. License grant
 -----------------
@@ -261,7 +263,7 @@ The texts of the GNU GPL-3 license and the Apache License, Version 2.0 are acces
 
 The provisions of this Section 4 apply to Software requiring paid licenses and activation (and do not apply to Software for which the Rightholder offers free licenses without activation).
 
-4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [](https://adguard.com/terms-of-sale.html)[https://adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
+4.1. Purchases of licenses for the Software from Rightholder’s website are governed by separate Terms of Sale published at [adguard.com/terms-of-sale.html](https://adguard.com/terms-of-sale.html), which are expressly incorporated by reference into this EULA. Purchases of licenses for the Software from Rightholder’s Partners may be subject to additional terms and conditions of sale provided by such Partners.
 
 4.2. In order to use the Software for other than evaluation purposes or beyond the evaluation period, You must activate the Software. Depending on the Software You are using and how You purchased licenses to the Software, activation may be processed in one of the several different ways. Typically, activation is processed by Your providing a valid email address to which the Rightholder will send an activation code after Your payment for the number of licenses purchased through an applicable order. You will receive an activation code for each license purchased. Activation of certain Software may also be processed through the mobile application platform through which You purchased licenses (e.g., through an Amazon subscription or through Apple App Store codes). Activation codes may apply to one or more devices, depending on the license purchased. Once an activation code is used, the license associated with that activation code begins for the duration of the license purchased by an applicable order. If You have acquired Software that is intended to be used on more than one Computer then Your License begins from the date of activation of the Software on the first Computer.
 
@@ -303,7 +305,7 @@ Note that when Your Account is created You are automatically subscribed to notif
 6\. Privacy Policy and information collection
 ---------------------------------------------
 
-6.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [](https://adguard.com/privacy.html)[https://adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
+6.1. The Rightholder handles Your data in accordance with its Privacy Policy, which is amended from time to time and is available at [adguard.com/privacy.html](https://adguard.com/privacy.html). The Privacy Policy in effect at the time Your data is processed shall apply to how the Rightholder obtains, uses, and shares Your data.
 
 6.2. Before using the Software, You acknowledge that You have read and understand our Privacy Policy. By installing and using the Software, You acknowledge that You agree to this EULA and terms and conditions of data processing by the Rightholder set out in our Privacy Policy available at the link mentioned above.
 
@@ -358,7 +360,7 @@ By sending us the files, You provide us with Your consent to process the files a
 9\. Licenses to third-party software
 ------------------------------------
 
-You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder's email address support@adguard.com. If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
+You are granted a license (or sublicense) under the terms of the GNU General Public License (GPL) or other similar license to certain Third Party Software. Such licenses allow You to copy, modify, and redistribute the Third Party Software or part of it covered by such licenses, and to obtain its source code. If such licenses demand the provision of the source code of any Third Party Software, the Rightholder will provide You with the source code upon receipt of Your request at the Rightholder’s email address [support@adguard.com](mailto:support@adguard.com). If such licenses demand the provision of rights to use, copy or modify any Third Party Software that are greater than the rights granted herein, such rights will prevail over the rights and restrictions set forth herein.
 
 10\. Ownership
 --------------
@@ -368,7 +370,7 @@ This EULA gives You a limited license to use the Software. The Rightholder and i
 11\. General
 ------------
 
-11.1. Applicable law, arbitration, and choice of venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 10 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
+11.1. Applicable law, arbitration, and choice of venue. This EULA will be governed by and construed in accordance with the laws of the Republic of Cyprus without reference to conflicts of law rules and principles. This EULA shall not be governed by the United Nations Convention on Contracts for the International Sale of Goods, the application of which is expressly excluded. Any dispute arising out of the interpretation or application of the terms of this EULA or any breach thereof shall, unless it is settled by direct negotiation, be adjudicated by arbitration in the Republic of Cyprus. Any award rendered by the arbitrator shall be final and binding on the parties and any judgment on such arbitration award may be enforced in any court of competent jurisdiction. Nothing in this Section 11 shall prevent a Party from seeking or obtaining equitable relief from a court of competent jurisdiction, whether before, during or after arbitration proceedings.
 
 11.2. Entire agreement and non-waiver. This EULA contains the complete agreement between the parties with respect to the subject matter hereof and supersedes all prior or contemporaneous agreements or understandings, whether oral or written. You agree that any varying or additional terms contained in any purchase order or other written notification or document issued by You in relation to the Software licensed hereunder shall be of no effect. The failure or delay of the Rightholder to exercise any of its rights under this EULA or upon any breach of this EULA shall not be deemed a waiver of those rights or of the breach.
 
@@ -390,7 +392,7 @@ No action, regardless of form, arising out of the transactions under this EULA, 
 
 Should You have any questions concerning this EULA, or if You desire to contact the Rightholder for any reason, please contact our customer support service:
 
-Email: [support@adguard.com](mailto:support@adguard.com) Website: [](https://adguard.com/)[https://adguard.com](https://adguard.com/)
+You are not required to share your personal data with us. You can delete your information by deleting your AdGuard account at [my.adguard.com](https://adguard.com/en/my.adguard.com) or by sending us a request at [privacy@adguard.com](mailto:privacy@adguard.com).
 
 © 2024 ADGUARD SOFTWARE LIMITED. All Rights Reserved. The Software and any accompanying documentation are copyrighted and protected by copyright laws and international copyright treaties, as well as other intellectual property laws and treaties.
 
