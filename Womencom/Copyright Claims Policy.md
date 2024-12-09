@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Two smiling women flying the gay pride flag behind them outdoors](https://www.women.com/img/gallery/what-does-it-mean-to-be-abrosexual-heres-everything-you-need-to-know/intro-1733337138.jpg)](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+*  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
-    [Sex](https://www.women.com/category/sex-life/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Sex](https://www.women.com/category/sex-life/) By Madison Emily Whisenand
+    [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
     
-    [What Does It Mean To Be Abrosexual? Here's Everything You Need To Know](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
-    ==========================================================================================================================================
+    [Britney Spears's Hair Transformation Over The Years](https://www.women.com/1729572/britney-spears-hair-transformation/)
+    ========================================================================================================================
     
-    Many members of the LGBTQ+ community may identify with terms like lesbian, gay, or pansexual, but some individuals find their sexuality is more fluid.
+    Britney Spears understands that to change your hair is to change your life. And she's undergone many hair changes.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+    By Bernadette Roe [Read More](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
-* *  [![Renee Rapp at Time 100 event in NYC](https://www.women.com/img/gallery/steal-renee-rapps-cool-androgynous-style/intro-1733334540.jpg)](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
+* *  [![Two smiling women flying the gay pride flag behind them outdoors](https://www.women.com/img/gallery/what-does-it-mean-to-be-abrosexual-heres-everything-you-need-to-know/intro-1733337138.jpg)](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+        
+        [Sex](https://www.women.com/category/sex-life/)
+        
+        [Sex](https://www.women.com/category/sex-life/) By Madison Emily Whisenand
+        
+        ### [What Does It Mean To Be Abrosexual? Here's Everything You Need To Know](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+        
+        Many members of the LGBTQ+ community may identify with terms like lesbian, gay, or pansexual, but some individuals find their sexuality is more fluid.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
+        
+    *  [![Renee Rapp at Time 100 event in NYC](https://www.women.com/img/gallery/steal-renee-rapps-cool-androgynous-style/intro-1733334540.jpg)](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
         
         [Fashion](https://www.women.com/category/fashion/)
         
@@ -68,22 +80,22 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1729233/steal-renee-rapp-cool-androgynous-style/)
         
-    *  [![Aric Avedissian talking about Rareform bags](https://www.women.com/img/gallery/heres-what-went-down-with-rareform-bags-after-shark-tank/intro-1733246794.jpg)](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Mila Williams
-        
-        ### [Here's What Went Down With Rareform Bags After Shark Tank](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
-        
-        Rareform Bags was started by two Californian brothers, with the goal of hoping to improve the environment one billboard at a time.
-        
-        By Mila Williams [Read More](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
-        
 
 More Stories
 ------------
 
+*  [![Hailey Bieber with olive nails](https://www.women.com/img/gallery/the-chicest-celebrity-manicures-of-2024/intro-1733334961.jpg)](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The Chicest Celebrity Manicures Of 2024](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+    
+    There were lots of great nail looks from celebrities in 2024, but the extra-long embellished manis from "Wicked" star Cynthia Erivo really wowed us.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+    
 *  [![Julia Fox on the red carpet](https://www.women.com/img/gallery/the-worst-dressed-celebs-in-all-of-2024-ranked/intro-1732131234.jpg)](https://www.women.com/1719540/worst-dressed-celebs-2024-ranked/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -107,6 +119,18 @@ More Stories
     Whether you're ringing in the New Year at Times Square or watching the fireworks from your couch, a dazzling manicure is the perfect way to celebrate.
     
     By Mila Williams [Read More](https://www.women.com/1728112/new-years-ever-2024-manicure-ideas-nail-end-of-year/)
+    
+*  [![Aric Avedissian talking about Rareform bags](https://www.women.com/img/gallery/heres-what-went-down-with-rareform-bags-after-shark-tank/intro-1733246794.jpg)](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Mila Williams
+    
+    ### [Here's What Went Down With Rareform Bags After Shark Tank](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
+    
+    Rareform Bags was started by two Californian brothers, with the goal of hoping to improve the environment one billboard at a time.
+    
+    By Mila Williams [Read More](https://www.women.com/1728002/what-went-down-rareform-bags-after-shark-tank/)
     
 *  [![Zendaya posing against a city skyline for a "Challengers" photocall](https://www.women.com/img/gallery/zendayas-style-transformation-is-jaw-dropping/intro-1732126748.jpg)](https://www.women.com/1718599/zendaya-style-transformation-jaw-dropping/)
     
@@ -383,30 +407,6 @@ More Stories
     The 4B movement has made waves across college campuses in the U.S. and gained serious steam since Donald Trump was controversially elected for his second term.
     
     By Emily Hutchinson [Read More](https://www.women.com/1720857/4b-movement-trend-explained/)
-    
-*  [![Two people in bed](https://www.women.com/img/gallery/how-to-handle-being-asked-about-your-body-count-not-that-it-matters/intro-1731694030.jpg)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/)
-    
-    [Exclusives](https://www.women.com/category/exclusives/) By Emily Hutchinson
-    
-    ### [How To Handle Being Asked About Your Body Count (Not That It Matters)](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
-    
-    Your body count refers to how many people you've had sex with. While it's no one's business but your own, it can be made into a bigger deal than it is.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1714641/perfect-responses-men-criticize-sexual-body-count/)
-    
-*  [![Halle Berry on the red carpet smiling](https://www.women.com/img/gallery/5-celebs-who-have-been-vocal-about-avoiding-plastic-surgery/intro-1731690800.jpg)](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Amanda Chatel
-    
-    ### [5 Celebs Who Have Been Vocal About Avoiding Plastic Surgery](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
-    
-    Hollywood will always deliver unrealistic beauty standards. But luckily, some celebrities are taking a stand and are opting to age naturally.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1714560/celebrities-empowering-takes-aging/)
     
 
 Back
