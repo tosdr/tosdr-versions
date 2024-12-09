@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -141,31 +141,31 @@ MSX Music player
 Latest reactions
 
 * [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
+* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
-* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 * [Hegega booth](https://www.msx.org/photoshoots/hegega-booth "Hegega booth")
 
 Latest forum posts
 
-* [Konami Collection - SHMUP Collection - Companies Collection](https://www.msx.org/forum/msx-talk/software/konami-collection-shmup-collection-companies-collection "Konami Collection - SHMUP Collection - Companies Collection")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=12 "Christmas Quiz 2024")
+* [ROM page issue](https://www.msx.org/forum/msx-talk/development/rom-page-issue "ROM page issue")
+* [Dirt-cheap Vaus paddle clone for MSX](https://www.msx.org/forum/msx-talk/hardware/dirt-cheap-vaus-paddle-clone-for-msx?page=4 "Dirt-cheap Vaus paddle clone for MSX")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx "SCC cartridge with 16 MegaBytes on MSX !")
-* [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=12 "Christmas Quiz 2024")
+* [Check for specific keypress during booting in autoexec.bat](https://www.msx.org/forum/msx-talk/general-discussion/check-for-specific-keypress-during-booting-in-autoexecbat "Check for specific keypress during booting in autoexec.bat")
+* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward "RP2350B will change cartridges for MSX forever!")
 * [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
 * [DalSoRi R2 on OpenMSX](https://www.msx.org/forum/msx-talk/openmsx/dalsori-r2-on-openmsx?page=2 "DalSoRi R2 on OpenMSX")
+* [Glass Z80 assembler](https://www.msx.org/forum/msx-talk/development/glass-z80-assembler?page=21 "Glass Z80 assembler")
 * [Gemini Wing](https://www.msx.org/forum/msx-talk/software/gemini-wing?page=1 "Gemini Wing")
 * [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
 * [My new channel on the electronics of the FS-A1 MSX2](https://www.msx.org/forum/msx-talk/hardware/my-new-channel-on-the-electronics-of-the-fs-a1-msx2 "My new channel on the electronics of the FS-A1 MSX2")
 * [The Goonies (enhanced)](https://www.msx.org/forum/msx-talk/development/the-goonies-enhanced "The Goonies (enhanced)")
-* [Reversing Eggerland](https://www.msx.org/forum/msx-talk/general-discussion/reversing-eggerland "Reversing Eggerland")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=79 "WonderTANG! Who wants to juice up your MSX?")
-* [MO5.com is making a MSX game](https://www.msx.org/forum/msx-talk/development/mo5com-is-making-a-msx-game?page=1 "MO5.com is making a MSX game")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
