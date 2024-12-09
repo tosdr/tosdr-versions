@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Mon, Dec 09, 2024
+Tue, Dec 10, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -129,11 +129,11 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-    * [Cha Eun-woo](https://www.news18.com/entertainment/astro-cha-eun-woos-younger-brother-makes-first-on-screen-appearance-fans-react-aa-9148477.html)
     * [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
-    * [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-to-receive-helping-hand-from-sunil-gavaskar-legend-promises-to-bring-son-back-on-his-feet-9148643.html)
-    * [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
-    * [Aamir Khan](https://www.news18.com/movies/aamir-khan-confirms-discussing-a-film-together-with-shah-rukh-khan-and-salman-khan-it-will-happen-soon-9148070.html)
+    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-looks-stunning-in-a-white-and-red-khadi-saree-for-her-second-bridal-look-9149925.html)
+    * [Delayed Train](https://www.news18.com/india/3-years-8-months-and-7-days-instead-of-42-hours-this-is-indias-most-delayed-train-yet-ws-ab-9149902.html)
+    * [YesMadam](https://www.news18.com/viral/yesmadam-faces-employee-flak-over-mass-layoff-fired-us-after-mental-health-survey-9150070.html)
+    * [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -171,11 +171,11 @@ Follow us on
 In Trends:
 
 * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-* [Cha Eun-woo](https://www.news18.com/entertainment/astro-cha-eun-woos-younger-brother-makes-first-on-screen-appearance-fans-react-aa-9148477.html)
 * [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
-* [Vinod Kambli](https://www.news18.com/cricket/vinod-kambli-to-receive-helping-hand-from-sunil-gavaskar-legend-promises-to-bring-son-back-on-his-feet-9148643.html)
-* [Bengaluru Traffic](https://www.news18.com/movies/bengaluru-traffic-forces-deepika-padukone-to-walk-to-diljit-dosanjhs-concert-video-goes-viral-9148969.html)
-* [Aamir Khan](https://www.news18.com/movies/aamir-khan-confirms-discussing-a-film-together-with-shah-rukh-khan-and-salman-khan-it-will-happen-soon-9148070.html)
+* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-looks-stunning-in-a-white-and-red-khadi-saree-for-her-second-bridal-look-9149925.html)
+* [Delayed Train](https://www.news18.com/india/3-years-8-months-and-7-days-instead-of-42-hours-this-is-indias-most-delayed-train-yet-ws-ab-9149902.html)
+* [YesMadam](https://www.news18.com/viral/yesmadam-faces-employee-flak-over-mass-layoff-fired-us-after-mental-health-survey-9150070.html)
+* [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 09, 2024
+Dec 10, 2024
 
 [View All](https://www.news18.com/short-news/)
 
