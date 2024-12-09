@@ -10,11 +10,11 @@ Error
 Hapara TOS
 ----------
 
-### Version 1.2
+### Version 1.3
 
-##### Effective June 3rd 2024
+##### Effective December 9th 2024
 
-[Download](https://cordance.pactsafe.io/versions/66622e5fc129f559af0d0b85.pdf)
+[Download](https://cordance.pactsafe.io/versions/6756f7b93b6182b685478d4a.pdf)
 
 * * *
 
@@ -80,7 +80,7 @@ These Terms of Service (“**Terms**”) constitute a legal agreement between th
 
 3.1. **Orders.** You may order Services using our or our Reseller’s then-current ordering processes (“**Order**”). All Orders are effective on the earlier of (i) the date you submit your Order, or (ii) the date on the signature block of the Order (“**Effective Date**”). Acceptance of your Order may be subject to our verification and credit approval process. Each Order will be treated as a separate and independent Order.
 
-3.2. **Fees and Payment.** You agree to pay all applicable, undisputed fees for the Services on the terms set forth in the Order, this Agreement, or your invoice from us or Reseller. Unless otherwise specified in the Order or Invoice, you agree to pay all undisputed fees set forth in an invoice within 30 days of the date thereof. Except as set forth in Sections 4.3 and 8 below, any payments you make to us for access to the Services are final and non-refundable. You are responsible for all fees and charges imposed by third parties such as hardware, software, internet, voice and/or data transmission providers related to your access and use of the Services. You are responsible for providing accurate and current billing, contact and payment information to us. You agree that we may charge your payment card or bill you for all amounts due for your use of the Services and take steps to update your payment card information (where permitted) to ensure payment can be processed. You agree that your credit card information and related personal data may be provided to third parties for payment processing and fraud prevention purposes. We may suspend or terminate your Services if at any time we determine that your payment information is inaccurate or not current, and you are responsible for fees and overdraft charges that we may incur when we charge your card for payment. We reserve the right to update the price for Services annually. We will give you notice of any price increase at least 30 days in advance of such increase.
+3.2. **Fees and Payment.** You agree to pay all applicable, undisputed fees for the Services on the terms set forth in the Order, this Agreement, or your invoice from us or Reseller. Unless otherwise specified in the Order or Invoice, you agree to pay all undisputed fees set forth in an invoice within 30 days of the date thereof. Except as set forth in Sections 4.3 and 8 below, any payments you make to us for access to the Services are final and non-refundable. You are responsible for all fees and charges imposed by third parties such as hardware, software, internet, voice and/or data transmission providers related to your access and use of the Services. You are responsible for providing accurate and current billing, contact and payment information to us. You agree that we may charge your payment card or bill you for all amounts due for your use of the Services and take steps to update your payment card information (where permitted) to ensure payment can be processed. You agree that your credit card information and related personal data may be provided to third parties for payment processing and fraud prevention purposes. We may suspend or terminate your Services if at any time we determine that your payment information is inaccurate or not current, and you are responsible for fees and overdraft charges that we may incur when we charge your card for payment. We may increase the fees for the Services annually, effective on each anniversary of the Agreement, provided that the fees may not be increased by more than 7% over the prior year's fees. We will give you notice of any price increase at least 30 days in advance of such increase.
 
 3.3. **Taxes and Withholdings.** You are responsible for all applicable sales, services, value-added, goods and services, withholding, tariffs, or any other similar taxes or fees (collectively, “**Taxes and Fees**”) imposed by any government entity or collecting agency based on the Services, except those based on our or our Reseller’s net income, or for which you have provided an exemption certificate. In all cases, you will pay the amounts due under this Agreement to us in full without any right of set-off or deduction.
 
@@ -114,7 +114,7 @@ These Terms of Service (“**Terms**”) constitute a legal agreement between th
 
 6.2. **Sub-processors.** You acknowledge and agree that we may use Sub-processors to help provide the Service, who may access your Customer Content and any associated personal data, to provide, secure and improve the Services. Before sharing Customer Content with any of our Sub-processors, we will mandate that the third party maintains, at a minimum, commercially reasonable data practices for maintaining (in compliance with applicable law) the confidentiality and security of your Customer Content and preventing unauthorized access. We will be responsible for the acts and omissions of such Sub-processors to the same extent that we would be responsible if we were performing the Services.
 
-6.3. **Data Protection Laws.** To the extent that our provision of the Services involves the processing of Personal Data under applicable data protection law, the parties agree that you will be deemed to be the Data Controller, and we will be deemed to be the Data Processor, as those terms are understood under the applicable data protection law. For the purposes of this Agreement, the term.
+6.3. **Data Protection Laws.** To the extent that our provision of the Services involves the processing of Personal Data under applicable data protection law, the parties agree that you will be deemed to be the Data Controller, and we will be deemed to be the Data Processor, as those terms are understood under the applicable data protection law.
 
 7. **CONFIDENTIALITY**.
 
@@ -140,7 +140,7 @@ These Terms of Service (“**Terms**”) constitute a legal agreement between th
 
 10. **LIMITATION ON LIABILITY.**
 
-10.1. **LIMITATION ON INDIRECT LIABILITY.** NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL LOSS, EXEMPLARY DAMAGES OR DAMAGES ARISING OUT OF OR RELATING TO: (i) LOSS OF DATA, (ii) LOSS OF INCOME, (iii) LOSS OF OPPORTUNITY, OR (iv) CUSTOMER’S LOST PROFITS, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY, INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR VIOLATION OF STATUTE, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY.
+10.1. **LIMITATION ON LIABILITY.** NEITHER PARTY WILL BE LIABLE TO THE OTHER PARTY OR TO ANY OTHER PERSON FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL LOSS, EXEMPLARY DAMAGES OR DAMAGES ARISING OUT OF OR RELATING TO: (i) LOSS OF DATA, (ii) LOSS OF INCOME, (iii) LOSS OF OPPORTUNITY, OR (iv) CUSTOMER’S LOST PROFITS, HOWEVER CAUSED AND BASED ON ANY THEORY OF LIABILITY, INCLUDING, BUT NOT LIMITED TO, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR VIOLATION OF STATUTE, WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO SOME OF THE ABOVE LIMITATIONS MAY NOT APPLY.
 
 10.2. **LIMITATION ON AMOUNT OF LIABILITY.** EXCEPT FOR A PARTY’S BREACH OF SECTIONS 2.5, 5.1, 5.2, 7 (EXCLUDING CLAIMS RELATED TO CUSTOMER CONTENT), and 10.3, A PARTY’S INDEMNIFICATION OBLIGATION UNDER SECTION 9, OR A PARTY’S GROSS NEGLIGENCE, WILLFUL MIDCONDUCT OR FRAUD, AND TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL CUMULATIVE LIABILITY OF EITHER PARTY AND THEIR RESPECTIVE LICENSORS AND SUPPLIERS ARISING OUT OF THIS AGREEMENT IS LIMITED TO THE SUM OF THE AMOUNTS PAID FOR THE APPLICABLE SERVICE DURING THE 12 MONTHS IMMEDIATELY PRECEDING THE INCIDENT GIVING RISE TO THE LIABILITY (“**GENERAL LIABILITY CAP**”). THE FOREGOING DOES NOT LIMIT YOUR OBLIGATIONS TO PAY ANY UNDISPUTED FEES AND OTHER AMOUNTS DUE UNDER THIS AGREEMENT.
 
@@ -170,7 +170,7 @@ These Terms of Service (“**Terms**”) constitute a legal agreement between th
 
 13.8. **General Terms.** If any term of this Agreement is not enforceable, this will not affect any other terms. Both parties are independent contractors and nothing in this Agreement creates a partnership, agency, fiduciary or employment relationship between the parties. No person or entity not a party to the Agreement will be a third-party beneficiary or have the right to modify the Agreement or to make commitments binding on us. Failure to enforce any right under the Agreement will not waive that right. The Agreement may be agreed to online or executed by electronic signature and in one or more counterparts. No party will be responsible for any delay or failure to perform under the Agreement due to force majeure events (e.g., natural disasters; terrorist activities, activities of third-party service providers, labor disputes; and acts of government) and acts beyond a party’s reasonable control, but only for so long as those conditions persist.
 
-Last Updated 2024-06-03
+Last Updated 2024-12-09
 
 * * *
 
