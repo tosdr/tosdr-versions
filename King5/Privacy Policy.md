@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
+        
+        #### [Police investigating homicide outside Kent bar](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
+        
     *  [![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_360x203.jpg)](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
         
         #### [Fire crews extinguish boat fire in Elliott Bay](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
-        
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
-        
-        #### [Cinco Cosas: La celebración de Año Nuevo en el Needle, Venta de árboles de Navidad y más](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/07f40a10-896a-49bc-819e-7ee497c28542/20241208T163350/07f40a10-896a-49bc-819e-7ee497c28542_16x9.jpg) ![](https://media.king5.com/assets/KING/images/07f40a10-896a-49bc-819e-7ee497c28542/20241208T163350/07f40a10-896a-49bc-819e-7ee497c28542_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/90ef831e-4fbe-4987-b1c0-48af31d424b3/20241209T062310/90ef831e-4fbe-4987-b1c0-48af31d424b3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/90ef831e-4fbe-4987-b1c0-48af31d424b3/20241209T062310/90ef831e-4fbe-4987-b1c0-48af31d424b3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -105,7 +105,7 @@ Navigation
 
 Seattle, WA »
 
-46°
+45°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
