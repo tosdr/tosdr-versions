@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[08-12-2024
+[09-12-2024
 
-Europeans welcome Assad’s regime collapse in Syria, but caution of aftermath](https://www.euractiv.com/section/global-europe/news/europeans-welcome-assads-regime-collapse-in-syria-but-caution-of-aftermath/)[08-12-2024
+2024 will be the hottest year on record, EU scientists say](https://www.euractiv.com/section/global-europe/news/2024-will-be-the-hottest-year-on-record-eu-scientists-say/)[09-12-2024
 
-EU eyes more pragmatic enlargement approach](https://www.euractiv.com/section/global-europe/news/eu-eyes-more-pragmatic-enlargement-approach/)[08-12-2024
+How stars aligned for Syria’s rebels to oust Assad](https://www.euractiv.com/section/global-europe/news/how-stars-aligned-for-syrias-rebels-to-oust-assad/)[09-12-2024
 
-Macron brings together Trump, Zelenskyy ahead of Notre-Dame ceremony](https://www.euractiv.com/section/global-europe/news/macron-brings-together-trump-zelenskyy-ahead-of-notre-dame-ceremony/)[08-12-2024
+Warsaw counts on Rome to block Mercosur deal](https://www.euractiv.com/section/politics/news/the-capitals-warsaw-counts-on-rome-to-block-mercosur-deal/)[09-12-2024
 
-Syrian army command tells its officers that Assad’s rule has ended](https://www.euractiv.com/section/global-europe/news/syrian-army-command-tells-its-officers-that-assads-rule-has-ended/)[07-12-2024
+Bulgaria to be euro-ready by January, says country’s national bank](https://www.euractiv.com/section/politics/news/bulgaria-to-be-euro-ready-by-january-says-countrys-national-bank/)[09-12-2024
 
-Like Europe, US military production needs ‘accelerating’, says top White House aide](https://www.euractiv.com/section/global-europe/news/like-europe-us-military-production-needs-accelerating-says-top-white-house-aide/)[07-12-2024
+Romanian authorities carry out searches linked to pro-Russian presidential hopeful](https://www.euractiv.com/section/politics/news/romanian-authorities-carry-out-searches-linked-to-pro-russian-presidential-hopeful/)[09-12-2024
 
-Confidence in Romania’s democratic process hangs by a thread](https://www.euractiv.com/section/politics/news/confidence-in-romanias-democratic-process-hangs-by-a-thread/)[07-12-2024
+Slovak government faces backlash over ‘forced labour’ proposal amid doctors’ strike](https://www.euractiv.com/section/politics/news/the-slovak-government-faces-backlash-over-a-forced-labour-proposal-amid-doctors-strike/)[09-12-2024
 
-Syrian rebels’ advance becomes threat to Assad’s rule](https://www.euractiv.com/section/global-europe/news/syrian-rebels-advance-becomes-threat-to-assads-rule/)[07-12-2024
+Czech PM on Assad’s fall: Betting on Russia did not pay off](https://www.euractiv.com/section/politics/news/czech-pm-on-assads-fall-betting-on-russia-did-not-pay-off/)[09-12-2024
 
-Germany’s far-right AfD nominates chancellor candidate ahead of election](https://www.euractiv.com/section/politics/news/germanys-far-right-afd-nominates-chancellor-candidate-ahead-of-election/)[06-12-2024
+Spanish farmers sound the alarm over EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/spanish-farmers-sound-the-alarm-over-eu-mercosur-trade-deal/)[09-12-2024
 
-EU-Mercosur trade deal: who wins and who loses in agri-food?](https://www.euractiv.com/section/agriculture-food/news/eu-mercosur-trade-deal-who-wins-and-who-loses-in-agri-food/)[06-12-2024
+Meloni meets Trump, Musk at Élysée, highlighting her role in bridging EU-US gap](https://www.euractiv.com/section/politics/news/meloni-meets-trump-musk-at-elysee-highlighting-her-role-in-bridging-eu-us-gap/)[09-12-2024
 
-EU-Mercosur deal likely to include ‘legally binding’ deforestation clampdown](https://www.euractiv.com/section/eet/news/eu-mercosur-deal-likely-to-include-legally-binding-deforestation-clampdown/)
+Fears of anti-refugee election campaign in Germany after collapse of Assad regime](https://www.euractiv.com/section/politics/news/fears-of-anti-refugee-election-campaign-in-germany-after-collapse-of-assad-regime/)
 
 ###### Advertisement
 
