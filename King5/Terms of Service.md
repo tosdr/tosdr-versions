@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a2f76540-6bd5-4d5a-ac96-4adbb596cd29/20241208T205810/a2f76540-6bd5-4d5a-ac96-4adbb596cd29_360x203.jpg)](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
+        
+        #### [Fire crews extinguish boat fire in Elliott Bay](https://www.king5.com/article/news/local/fire-crews-responding-boat-fire-elliott-bay/281-1f0349ac-9596-4296-8d4e-16e633c65ab5)
+        
     *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
         
         #### [Cinco Cosas: La celebración de Año Nuevo en el Needle, Venta de árboles de Navidad y más](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-la-celebracin-de-ao-nuevo-en-el-needle/281-d6bbc027-1987-451f-8ffb-00cc77b88d8e)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e3d1503c-d84f-4962-b6d5-3c96a81e2f58/20241208T185201/e3d1503c-d84f-4962-b6d5-3c96a81e2f58_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e3d1503c-d84f-4962-b6d5-3c96a81e2f58/20241208T185201/e3d1503c-d84f-4962-b6d5-3c96a81e2f58_360x203.jpg)](https://www.king5.com/article/life/shopping/buying-toys-budget-toy-insider-runs-down-gift-list/281-e686cf37-4ca2-428b-892b-12c8161859b1)
-        
-        #### [Buying toys on a budget: Toy Insider runs down the gift list](https://www.king5.com/article/life/shopping/buying-toys-budget-toy-insider-runs-down-gift-list/281-e686cf37-4ca2-428b-892b-12c8161859b1)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -82,13 +82,13 @@ Navigation
     
     Latest Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2962596-c501-4c76-8764-c00ca3b9f5e3/20241125T023930/c2962596-c501-4c76-8764-c00ca3b9f5e3_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
+    *  [![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e/20241209T000745/cdfd217c-c59c-4c3f-8792-2fad1c2aa86e_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
         
-        #### [Seahawks try to maintain series dominance against the Cardinals in vital NFC West showdown](https://www.king5.com/article/sports/nfl/seahawks/seahawks-try-to-maintain-series-dominance-against-the-cardinals-in-vital-nfc-west-showdown/281-551c29a2-a306-4b2f-8db9-db86f1e68e78)
+        #### [Here are three takeaways from the Seahawks' 30-18 win over the Cardinals](https://www.king5.com/article/sports/nfl/seahawks/three-takeaways-seahawks-27-18-win-over-cardinals/281-a22eebf0-75d5-4143-9e7a-1793e82f6824)
         
-    *  [![](https://media.king5.com/assets/KREM/images/dcd57da8-7eaf-4716-8440-60b7f2a86518/20241208T011121/dcd57da8-7eaf-4716-8440-60b7f2a86518_16x9.jpg) ![](https://media.king5.com/assets/KREM/images/dcd57da8-7eaf-4716-8440-60b7f2a86518/20241208T011121/dcd57da8-7eaf-4716-8440-60b7f2a86518_360x203.jpg)](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/lejuan-watts-scores-20-washington-state-takes-down-boise-state-74-69/281-e02a1aff-a4a4-48b8-97e6-acc5edf1b7cb)
+    *  [![](https://media.king5.com/assets/KING/images/ac24aed8-57ee-4892-b53e-7cba7fccac7c/20241209T004321/ac24aed8-57ee-4892-b53e-7cba7fccac7c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ac24aed8-57ee-4892-b53e-7cba7fccac7c/20241209T004321/ac24aed8-57ee-4892-b53e-7cba7fccac7c_360x203.jpg)](https://www.king5.com/article/sports/nfl/seahawks/charbonnet-runs-career-high-134-yards-2-tds-nfc-west-leading-seahawks-beat-cardinals-30-18/281-7dda7bec-8cc8-4e06-9faf-40c1d99dc2b2)
         
-        #### [LeJuan Watts scores 20, Washington State takes down Boise State 74-69](https://www.king5.com/article/sports/ncaa/ncaaf/cougars/lejuan-watts-scores-20-washington-state-takes-down-boise-state-74-69/281-e02a1aff-a4a4-48b8-97e6-acc5edf1b7cb)
+        #### [Charbonnet runs for career-high 134 yards, 2 TDs as NFC West-leading Seahawks beat Cardinals 30-18](https://www.king5.com/article/sports/nfl/seahawks/charbonnet-runs-career-high-134-yards-2-tds-nfc-west-leading-seahawks-beat-cardinals-30-18/281-7dda7bec-8cc8-4e06-9faf-40c1d99dc2b2)
         
     
 * [VERIFY](https://www.king5.com/verify)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+46°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
