@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Хачапури с фруктами](https://www.russianfood.com/recipes/recipe.php?rid=14975)
+* [Пирожки из песочного медового теста с орехами и сухофруктами](https://www.russianfood.com/recipes/recipe.php?rid=164945)
+* [Свиные отбивные с овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174660)
 * [Персиковый торт](https://www.russianfood.com/recipes/recipe.php?rid=30118)
 * [Торт творожный](https://www.russianfood.com/recipes/recipe.php?rid=40495)
 * [«Ленивый» пудинг](https://www.russianfood.com/recipes/recipe.php?rid=40540)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
-* [Свекла с творогом](https://www.russianfood.com/recipes/recipe.php?rid=53769)
 * [Салат из сельдерея, яблок и творога](https://www.russianfood.com/recipes/recipe.php?rid=55970)
 * [Салат яблочный с луком-пореем и творогом](https://www.russianfood.com/recipes/recipe.php?rid=60873)
 * [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
-* [«Красная девица»](https://www.russianfood.com/recipes/recipe.php?rid=64588)
+* [Творог с абрикосами и орехами](https://www.russianfood.com/recipes/recipe.php?rid=66271)
 
 |     |
 | --- |
@@ -179,6 +179,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Продолжаем выбор вкусненького. Лучшие САЛАТЫ №24-50](https://www.russianfood.com/reading/?post_id=22974) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/748/sm_747714.jpg)](https://www.russianfood.com/reading/?post_id=22974)
+
+Салат "Глаз Змеи" с курицей и ананасами. Винегрет с колбасой и фасолью. Крабовый салат с морковью по-корейски. Слоёный салат с крабовыми палочками и грейпфрутом. Салат из пекинской капусты с колбасой. Салат из квашеной капусты со свёклой. Салат с языком и жареными грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22974)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22974#comments) | 09.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Каталог аппетитностей. Лучшие рецепты на Новый год (100)](https://www.russianfood.com/reading/?post_id=22973) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/720/sm_719281.jpg)](https://www.russianfood.com/reading/?post_id=22973)
+
+Рулет "Тирамису". Бутерброды с селёдкой, огурцами и сыром. Салат с курицей, сельдереем и виноградом. Крабовые котлеты с кабачками. Печёночный террин с мясным фаршем.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22973)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22973#comments) | 09.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Новая пятёрка быстрых блюд. Лучшие рецепты БЫСТРЕЕ! №24-50](https://www.russianfood.com/reading/?post_id=22972) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/713/sm_712382.jpg)](https://www.russianfood.com/reading/?post_id=22972)
+
+Булгур с фаршем и овощами. Салат с колбасками, корейской морковью и сыром. Горячий бутерброд со шпинатом. Манник с грушами и орехами. Овощной суп с рисом.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22972)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22972#comments) | 09.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -318,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_36 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_37 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -347,48 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22964#comments) | 06.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Всем, кто ищет что-то новое. Лучшие рецепты из ФАРША (30)](https://www.russianfood.com/reading/?post_id=22963) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/651/sm_650649.jpg)](https://www.russianfood.com/reading/?post_id=22963)
-
-Стожки из фарша с овощами и сыром. Зелёные блины с печенью. Рис с фаршем и баклажанами. Котлеты из свинины и капусты. Суп с фрикадельками и лапшой из блинчиков.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22963)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22963#comments) | 06.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Апельсиновые кексы на кефире](https://www.russianfood.com/recipes/recipe.php?rid=174640) |     |
-
-[![Фото к рецепту: Апельсиновые кексы на кефире](//img1.russianfood.com/dycontent/images_upl/755/sm_754976.jpg "Фото к рецепту: Апельсиновые кексы на кефире")](https://www.russianfood.com/recipes/recipe.php?rid=174640)
-
-Пышные и мягкие кексики из теста на кефире, с добавлением апельсинового сока и цедры. Такая выпечка наполнит дом невероятным цитрусовым ароматом и сделает чаепитие уютнее.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174640)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_8 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174640#comments) | 05.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Змея" с курицей, ананасами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174805) |     |
-
-[![Фото к рецепту: Салат "Змея" с курицей, ананасами и сыром](//img1.russianfood.com/dycontent/images_upl/757/sm_756915.jpg "Фото к рецепту: Салат "Змея" с курицей, ананасами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174805)
-
-Салат "Змея" с курицей, ананасами и сыром - яркое праздничное блюдо на Новый год 2025. Популярное сочетание ингредиентов и симпатичный внешний вид позволят такому салату произвести фурор на новогоднем столе.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174805)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174805#comments) | 05.12.24 |     |
 
 |     |
 | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(123)
+(113)
