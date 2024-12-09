@@ -14,106 +14,13 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Wadi Rum desert.](https://img.atlasobscura.com/AR1Qu__IRMTOQwA-NbRv2rXX-OA8k9B1HtGSrsctulI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy84MGI3/NzQ1NS0wMjA1LTQw/OWMtODM1ZC1kM2Mz/YTFmN2E2ZDU1Njhh/ODkzNDYwMDFmY2Vm/MWJfa29uc3RhbnRp/bm9zLWthc2thbmlz/LUpfdHBnOWNsb1Bn/LXVuc3BsYXNoLmpw/Zw.jpg)](https://www.atlasobscura.com/adventures/trips/jordan)
-
-Jordan • 10 days, 9 nights
-
-[Ancient Ruins & Legendary Landmarks of Jordan](https://www.atlasobscura.com/adventures/trips/jordan)
-
-from
-
-   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-New Zealand • 12 days, 11 nights
-
-[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Loading...
 
 Loading...
 
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![](https://img.atlasobscura.com/tL_hTTx4RPOGQr4CJ_Ic_eObxxOh0yJCetHJs0qeb4s/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83YWQ3/ZWFmNS1iNmQ4LTQx/M2YtOWU4OC0xMzNk/NWVjMGQxYzUzYmI1/ODQ1NzZhYzUxYTU0/NWRfMTAwMDAxODc0/Ny5qcGc.jpg)
-
-Grave of John King](https://www.atlasobscura.com/places/john-king-grave-crushed-by-elephant)
-
-   [![Toenga o Te Aro Visitor Center](https://img.atlasobscura.com/VRFooomPRsoXSktIngk7jRBf-nSFvYrVh5l43ro0_E4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NjI0/MmMyZS0wZTU1LTRl/ZDgtODlhNS1lZTM3/ZGJmMDRjZjg3N2Vm/MDE4YmEyYmE2NzA1/NDdfVG9lbmdhX29f/VGVfQXJvXyhyZW1h/aW5zX29mX1RlX0Fy/b19QYSkuanBlZw.jpg)
-
-Toenga o Te Aro (Remains of Te Aro Pā)](https://www.atlasobscura.com/places/toenga-o-te-aro)
-
-   [![](https://img.atlasobscura.com/nyOHFc54qiw5ilDYhadJ0GdJzcXaN7wYOwTBMly1xR8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy84NWE3/NzkyYi0zMTFmLTQ1/MDUtOThiNS05ZGFi/YmUxMjM4MDliMDA3/MTg3MmRkMGRlODRm/OWJfNDQyNDc5Mzgw/XzEwMTU4MzcxMzQ2/OTI0NTY3XzEwMTgx/ODg2NzEzNjQyMDgy/NDBfbi5qcGc.jpg)
-
-King Philip's Cave](https://www.atlasobscura.com/places/king-philips-cave)
-
-   [![](https://img.atlasobscura.com/sSMIjVD8MjicdI4NC6v_uWQPi0EO2ug7kivZhb8nts4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lOWIw/YjQ5NS1iMWMwLTRm/N2EtYTdkYS00Yzkw/YWUyNjZmNzUxYTRj/NzA2ZjhjNzQ4MzA1/YzVfMTAwMDAwNTg3/Ny5qcGc.jpg)
-
-The Alhambra Theatre & Dining](https://www.atlasobscura.com/places/alhambra-theatre-dining-jacksonville)
+Loading...
 
 Loading...
 
