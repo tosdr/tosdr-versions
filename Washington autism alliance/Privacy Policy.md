@@ -138,7 +138,7 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     Dec 09 2024
     
-    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09)
+    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09) Sale has ended
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
