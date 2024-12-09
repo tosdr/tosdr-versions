@@ -20,6 +20,7 @@
     * [Compute Module 5](https://www.canakit.com/raspberry-pi-compute-module-5)
     * [Pi 4 Kits](https://www.canakit.com/raspberry-pi/pi-4-kits)
     * [Pi 400](https://www.canakit.com/raspberry-pi/pi-400)
+    * [Pi 500](https://www.canakit.com/raspberry-pi/pi-500)
     * [Pi 3 A+ Kits](https://www.canakit.com/raspberry-pi/pi-3-model-a-plus-kits)
     * [Pi 3 B+ Kits](https://www.canakit.com/raspberry-pi/pi-3-model-b-plus-kits)
     * [Pi 3 Kits](https://www.canakit.com/raspberry-pi/raspberry-pi-3-kits)
