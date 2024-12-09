@@ -613,7 +613,7 @@ Als DSV stehe ich Ihnen für Fragen zum Datenschutz zur Verfügung.
 
 [#### Software](https://northrock.software/applications/)
 
-[#### Prozesse](https://northrock.software/workflows/)
+[#### KI-/Prozesse](https://northrock.software/workflows/)
 
 * * *
 
