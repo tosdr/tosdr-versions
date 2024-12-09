@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/voedsel/oorlog-op-je-bord/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/journalist-klaagt-vn-aan-voor-poging-tot-massamoord/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
