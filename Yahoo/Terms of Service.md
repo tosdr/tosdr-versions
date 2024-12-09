@@ -327,7 +327,7 @@ _In June 2017, we announced that Yahoo and AOL joined to become a unified digita
                 
             2. Minimum Age: 13 years old (however, if you are between 13 and 18 years old, you must have parental or legal guardian permission in order to agree with our Terms and to use the Service).
                 
-        2. _Services Provided_: Yahoo Mail, Yahoo Search, Yahoo Finance and OneSearch. If you use any of these services while you are within Brazil, or are otherwise contracting with Yahoo do Brasil Internet Ltda., the services are provided by Yahoo do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
+        2. _Services Provided_: Yahoo Mail and Yahoo Search. If you use any of these services while you are within Brazil, or are otherwise contracting with Yahoo do Brasil Internet Ltda., the services are provided by Yahoo do Brasil Internet Ltda. The region specific provisions in Section 14.4 shall apply to such use and supersede anything to the contrary in Section 1 or Section 13(a) of these Terms.
             
         3. _Other Services._ Services not listed in Section 14.4(b) are not provided by Yahoo do Brasil Internet Ltda., which has no powers or capabilities to take any measures in relation to them, including accessing or disclosing user data and/or removing user generated content.
             
