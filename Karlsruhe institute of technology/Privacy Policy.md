@@ -389,7 +389,7 @@
         
         [Theses](https://secuso.aifb.kit.edu/english/121.php)
         
-        * [Open](https://secuso.aifb.kit.edu/english/121.php)
+        * [Open / Ongoing / Completed Theses](https://secuso.aifb.kit.edu/english/121.php)
         * [Completed Theses until 2023](https://secuso.aifb.kit.edu/english/141.php)
         
     
