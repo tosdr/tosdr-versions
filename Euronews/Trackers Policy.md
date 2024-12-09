@@ -15,56 +15,56 @@
     
     Trending
     
-    * [Russia](https://www.euronews.com/tag/russia)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Bashar al-Assad](https://www.euronews.com/tag/bashar-al-assad)
+    * [war in Syria](https://www.euronews.com/tag/war-in-syria)
     * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [Syria](https://www.euronews.com/tag/syria)
     * [European Union](https://www.euronews.com/tag/european-union)
-    * [France](https://www.euronews.com/tag/france)
+    * [Cinema](https://www.euronews.com/tag/cinema)
     
     * * *
     
     Latest stories
     
-    [![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")
+    [![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
     
-    ![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](https://static.euronews.com/articles/stories/08/89/37/94/368x207_cmsv2_6ff51c87-49d0-5c20-9adf-e90b9eee9f41-8893794.jpg "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
-    
-    Now playing Next
-    
-    [South Korea](https://www.euronews.com/news/asia/south-korea)
-    
-    ### [South Korea's President a 'great danger' to citizens, his party says](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
-    
-    [![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")
-    
-    ![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](https://static.euronews.com/articles/stories/08/89/33/58/368x207_cmsv2_f6e037ff-512b-5a54-b31e-fbe2c067e3f3-8893358.jpg "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
+    ![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
     
     Now playing Next
     
-    [France](https://www.euronews.com/news/europe/france)
+    [Travel News](https://www.euronews.com/travel/travel-news)
     
-    ### [Macron receives politicians as France waits for new Prime Minister](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
+    ### [Eurostar worst-performing rail operator in Europe, report says](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
     
-    [![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+    [![What is the role of gold in Russia’s wartime trade relations?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "What is the role of gold in Russia’s wartime trade relations?")
     
-    ![Euronews](https://static.euronews.com/articles/stories/08/67/91/02/368x207_cmsv2_545118b7-d913-540c-9264-401e0e1b6a99-8679102.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
-    
-    Now playing Next
-    
-    [Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
-    
-    ### [EU must decide what it wants from Georgia, says ex-Ambassador](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
-    
-    [![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")
-    
-    ![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](https://static.euronews.com/articles/stories/08/89/22/50/368x207_cmsv2_65333fc6-98a6-5816-914e-6e7117f38683-8892250.jpg "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
+    ![What is the role of gold in Russia’s wartime trade relations?](https://static.euronews.com/articles/stories/08/89/48/06/368x207_cmsv2_264685a3-31d4-5921-beec-162460eaf890-8894806.jpg "What is the role of gold in Russia’s wartime trade relations?")](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
     
     Now playing Next
     
-    [Economy](https://www.euronews.com/business/economy)
+    [Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
     
-    ### [Chinese car makers turn to hybrids to avoid EV tariffs from the EU](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
+    ### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
+    
+    [![https://www.eurekalert.org/news-releases/1066380](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.eurekalert.org/news-releases/1066380")
+    
+    ![https://www.eurekalert.org/news-releases/1066380](https://static.euronews.com/articles/stories/08/89/54/72/368x207_cmsv2_e8d34b8e-6cf1-5aca-a04c-81ff2688c6b8-8895472.jpg "https://www.eurekalert.org/news-releases/1066380")](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
+    
+    Now playing Next
+    
+    [Nutrition](https://www.euronews.com/health/nutrition)
+    
+    ### [Ultra-processed foods linked to more fat in muscles](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
+    
+    [![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")
+    
+    ![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](https://static.euronews.com/articles/stories/08/89/91/60/368x207_cmsv2_216f0751-111f-58c5-ae87-1b1548b1e468-8899160.jpg "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
+    
+    Now playing Next
+    
+    [EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
+    
+    ### [Fact check: Photos falsely claim to show al-Assad and wife in Moscow](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -332,12 +332,13 @@ Special coverage
 
 Partner content
 
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
+* [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
@@ -362,62 +363,62 @@ Close menu sidebar
 
 Trending
 
-* [Russia](https://www.euronews.com/tag/russia)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Bashar al-Assad](https://www.euronews.com/tag/bashar-al-assad)
+* [war in Syria](https://www.euronews.com/tag/war-in-syria)
 * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [Syria](https://www.euronews.com/tag/syria)
 * [European Union](https://www.euronews.com/tag/european-union)
-* [France](https://www.euronews.com/tag/france)
+* [Cinema](https://www.euronews.com/tag/cinema)
 
 * * *
 
 Latest stories
 
-[![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")
+[![The logo of a Eurostar train at Gare du Nord train station.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The logo of a Eurostar train at Gare du Nord train station.")
 
-![President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ](https://static.euronews.com/articles/stories/08/89/37/94/368x207_cmsv2_6ff51c87-49d0-5c20-9adf-e90b9eee9f41-8893794.jpg "President of South Korea Yoon Suk Yeol listens during a trilateral meeting with President Joe Biden and the Prime Minister of Japan Shigeru Ishiba in Lima, Peru,Nov 2015. ")](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
+![The logo of a Eurostar train at Gare du Nord train station.](https://static.euronews.com/articles/stories/08/89/93/14/368x207_cmsv2_449aa490-3c8b-5f19-80b5-36494ba447bc-8899314.jpg "The logo of a Eurostar train at Gare du Nord train station.")](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
 
 Now playing Next
 
-[South Korea](https://www.euronews.com/news/asia/south-korea)
+[Travel News](https://www.euronews.com/travel/travel-news)
 
-### [South Korea's President a 'great danger' to citizens, his party says](https://www.euronews.com/2024/12/06/south-koreas-president-a-great-danger-to-citizens-his-own-party-says)
+### [Eurostar worst-performing rail operator in Europe, report says](https://www.euronews.com/travel/2024/12/09/eurostar-trenitalia-deutsche-bahn-what-are-the-best-and-worst-rail-operators-in-europe)
 
 * * *
 
-[![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")
+[![What is the role of gold in Russia’s wartime trade relations?](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "What is the role of gold in Russia’s wartime trade relations?")
 
-![French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.](https://static.euronews.com/articles/stories/08/89/33/58/368x207_cmsv2_f6e037ff-512b-5a54-b31e-fbe2c067e3f3-8893358.jpg "French President Emmanuel Macron addresses the nation following the resignation of ousted Prime Minister Michel Barnier, Thursday, Dec. 5, 2024 in Versailles, outside Paris.")](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
+![What is the role of gold in Russia’s wartime trade relations?](https://static.euronews.com/articles/stories/08/89/48/06/368x207_cmsv2_264685a3-31d4-5921-beec-162460eaf890-8894806.jpg "What is the role of gold in Russia’s wartime trade relations?")](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
 
 Now playing Next
 
-[France](https://www.euronews.com/news/europe/france)
+[Europe in Motion](https://www.euronews.com/my-europe/my-europe-series/europe-in-motion)
 
-### [Macron receives politicians as France waits for new Prime Minister](https://www.euronews.com/2024/12/06/macron-receives-political-leaders-with-view-of-forming-government-of-general-interest)
+### [What is the role of gold in Russia’s wartime trade relations?](https://www.euronews.com/my-europe/2024/12/09/what-is-the-role-of-gold-in-russias-wartime-trade-relations)
 
 * * *
 
-[![Euronews](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Euronews")
+[![https://www.eurekalert.org/news-releases/1066380](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "https://www.eurekalert.org/news-releases/1066380")
 
-![Euronews](https://static.euronews.com/articles/stories/08/67/91/02/368x207_cmsv2_545118b7-d913-540c-9264-401e0e1b6a99-8679102.jpg "Euronews")](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
+![https://www.eurekalert.org/news-releases/1066380](https://static.euronews.com/articles/stories/08/89/54/72/368x207_cmsv2_e8d34b8e-6cf1-5aca-a04c-81ff2688c6b8-8895472.jpg "https://www.eurekalert.org/news-releases/1066380")](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
 
 Now playing Next
 
-[Radio Schuman](https://www.euronews.com/my-europe/europe-news/radio-schuman)
+[Nutrition](https://www.euronews.com/health/nutrition)
 
-### [EU must decide what it wants from Georgia, says ex-Ambassador](https://www.euronews.com/my-europe/2024/12/06/eu-must-decide-what-it-wants-from-georgia-says-ex-ambassador-radio-schuman)
+### [Ultra-processed foods linked to more fat in muscles](https://www.euronews.com/health/2024/12/09/eating-ultra-processed-foods-linked-to-higher-amounts-of-fat-in-muscles)
 
 * * *
 
-[![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")
+[![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")
 
-![The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ](https://static.euronews.com/articles/stories/08/89/22/50/368x207_cmsv2_65333fc6-98a6-5816-914e-6e7117f38683-8892250.jpg "The new Yangwang U8 hybrid electric car by BYD is presented at the Geneva International Motor Show (GIMS) in Geneva, Switzerland, Monday, Feb. 26, 2024. ")](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
+![Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.](https://static.euronews.com/articles/stories/08/89/91/60/368x207_cmsv2_216f0751-111f-58c5-ae87-1b1548b1e468-8899160.jpg "Syrian President Bashar al-Assad addresses the parliament, in Damascus, Syria, Wednesday, Aug. 12, 2020.")](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
 
 Now playing Next
 
-[Economy](https://www.euronews.com/business/economy)
+[EuroVerify](https://www.euronews.com/my-europe/my-europe-series/euro-verify)
 
-### [Chinese car makers turn to hybrids to avoid EV tariffs from the EU](https://www.euronews.com/business/2024/12/06/chinese-car-makers-turn-to-hybrids-to-avoid-ev-tariffs-from-the-eu)
+### [Fact check: Photos falsely claim to show al-Assad and wife in Moscow](https://www.euronews.com/my-europe/2024/12/09/fact-check-photos-falsely-claim-to-show-bashar-al-assad-and-wife-in-moscow)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -687,12 +688,13 @@ Special coverage
 
 Partner content
 
-* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Better Connected](https://www.euronews.com/partnercontent/hitachi/better-connected/EN-index.html)
 * [Classic Piano Competition](https://www.euronews.com/partnercontent/cmdi/classic-piano-competition-2024/EN-index.html)
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
+* [My Tokyo](https://www.euronews.com/partnercontent/tcvb/my-tokyo/EN-index.html)
+* [Powering Progress](https://www.euronews.com/partnercontent/iberdrola/renewables/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
