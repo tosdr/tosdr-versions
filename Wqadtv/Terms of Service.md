@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
         
-        #### [Custom holiday window paintings raise funds for newly established Elmore Disaster Relief](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2) [![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
+        #### [Hillside alongside John Deere House in Moline cleared of overgrown brush](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a) [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
         
-        #### [Custom holiday window paintings raise money for Bureau County disaster recovery](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
+        #### [Moline public works clears out brush form John Deere House hillside](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a) [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
         
-        #### [1 dead in head-on collision on I-88 in Rock Island County](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
+        #### [Hillside leading up to John Deere House in Moline cleared of brush, seeded](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a7b747e0-9e47-4058-bb76-78b326ba6c5f/20241209T190830/a7b747e0-9e47-4058-bb76-78b326ba6c5f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a7b747e0-9e47-4058-bb76-78b326ba6c5f/20241209T190830/a7b747e0-9e47-4058-bb76-78b326ba6c5f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/kicks-for-kids-foster-students-rock-island-brent-hamerlinck-how-to-donate/526-aaab76ff-1c3b-4f49-902b-ceac2fa2ec5a)
+        
+        #### ['Kicks For Kids' now collecting shoes, donations for Quad City students](https://www.wqad.com/article/news/local/the-current/kicks-for-kids-foster-students-rock-island-brent-hamerlinck-how-to-donate/526-aaab76ff-1c3b-4f49-902b-ceac2fa2ec5a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -57,13 +59,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+        
+        #### [Weather Impact Alert issued for Thursday, Dec. 12 due to dangerously low wind chills](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [One last day in the 50s before another Arctic outbreak arrives](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
-        
-        #### [Snowstar ski resort making snow ahead of opening day](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -98,9 +100,9 @@ Navigation
 
 Davenport, IA »
 
-43°
+47°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
