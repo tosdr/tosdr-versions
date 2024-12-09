@@ -6,15 +6,15 @@
 
 [Sign up](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
-[### Business](https://www.bunq.com/assets/media/legal/en/business)
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
-[### About Us](https://www.bunq.com/assets/media/legal/en/about)
+[About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[### Help Center](https://www.bunq.com/assets/media/legal/en/help)
+[Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
-[### Jobs](https://jobs.bunq.com/)
+[Jobs](https://jobs.bunq.com/)
 
-[### Press](https://press.bunq.com/)
+[Press](https://press.bunq.com/)
 
 [![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
@@ -24,31 +24,31 @@
 
 [Sign up](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
-[### Business](https://www.bunq.com/assets/media/legal/en/business)
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
-[### About Us](https://www.bunq.com/assets/media/legal/en/about)
+[About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[### Help Center](https://www.bunq.com/assets/media/legal/en/help)
+[Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
-[### Jobs](https://jobs.bunq.com/)
+[Jobs](https://jobs.bunq.com/)
 
-[### Press](https://press.bunq.com/)
+[Press](https://press.bunq.com/)
 
 [![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
-[### Log in](https://web.bunq.com/)
+[Log in](https://web.bunq.com/)
 
-[### Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
+[Compare Plans](https://www.bunq.com/assets/media/legal/en/plans)
 
-[### Business](https://www.bunq.com/assets/media/legal/en/business)
+[Business](https://www.bunq.com/assets/media/legal/en/business)
 
-[### About Us](https://www.bunq.com/assets/media/legal/en/about)
+[About Us](https://www.bunq.com/assets/media/legal/en/about)
 
-[### Help Center](https://www.bunq.com/assets/media/legal/en/help)
+[Help Center](https://www.bunq.com/assets/media/legal/en/help)
 
-[### Jobs](https://jobs.bunq.com/)
+[Jobs](https://jobs.bunq.com/)
 
-[### Press](https://press.bunq.com/)
+[Press](https://press.bunq.com/)
 
 Documents
 =========
