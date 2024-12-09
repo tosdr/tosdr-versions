@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/kijken-more-than-a-pipeline/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/wauw-59-miljoen-x-hoe-nu-verder-krant/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
