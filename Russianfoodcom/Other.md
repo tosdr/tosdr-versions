@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,8 @@
 
 Сейчас читают
 
-* [Пирожки из песочного медового теста с орехами и сухофруктами](https://www.russianfood.com/recipes/recipe.php?rid=164945)
+* [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610)
+* [Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404)
 * [Свиные отбивные с овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174660)
 * [Персиковый торт](https://www.russianfood.com/recipes/recipe.php?rid=30118)
 * [Торт творожный](https://www.russianfood.com/recipes/recipe.php?rid=40495)
@@ -157,7 +158,6 @@
 * [Салат из сельдерея, яблок и творога](https://www.russianfood.com/recipes/recipe.php?rid=55970)
 * [Салат яблочный с луком-пореем и творогом](https://www.russianfood.com/recipes/recipe.php?rid=60873)
 * [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
-* [Творог с абрикосами и орехами](https://www.russianfood.com/recipes/recipe.php?rid=66271)
 
 |     |
 | --- |
@@ -179,6 +179,62 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Лимонные блонди с сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173648) |     |
+
+[![Фото к рецепту: Лимонные блонди с сахарной глазурью](//img1.russianfood.com/dycontent/images_upl/724/sm_723204.jpg "Фото к рецепту: Лимонные блонди с сахарной глазурью")](https://www.russianfood.com/recipes/recipe.php?rid=173648)
+
+Этот пирог готовится из теста на основе сливочного масла, белого шоколада, яиц и лимонного сока, с добавлением цедры. После выпечки лимонный пирог поливается сахарно-лимонной глазурью, которая обеспечивает баланс сладкого и кислого. Готовый пирог обладает влажной текстурой, характерной для брауни.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173648)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173648#comments) | 10.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404) |     |
+
+[![Фото к рецепту: Запечённая тыква с сыром](//img1.russianfood.com/dycontent/images_upl/759/sm_758329.jpg "Фото к рецепту: Запечённая тыква с сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174404)
+
+Кружочки тыквы, смазанные ароматным маслом с пряностями и чесноком, запекаются в духовке до состояния аль денте. Затем тыква посыпается натёртым сыром с укропом. Если смешать несколько видов сыра, вкус блюда станет более изысканным.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174404)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174404#comments) | 09.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Куриное суфле с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174301) |     |
+
+[![Фото к рецепту: Куриное суфле с брокколи](//img1.russianfood.com/dycontent/images_upl/740/sm_739207.jpg "Фото к рецепту: Куриное суфле с брокколи")](https://www.russianfood.com/recipes/recipe.php?rid=174301)
+
+Нежное, вкусное и полезное куриное суфле с брокколи. Куриное филе перебивается в блендере вместе с брокколи и сливками, а затем смешивается с отдельно взбитыми белками. Завершающий этап – запекание в духовке.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174301)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174301#comments) | 09.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) |     |
+
+[![Фото к рецепту: Рассыпчатое кунжутное печенье](//img1.russianfood.com/dycontent/images_upl/759/sm_758053.jpg "Фото к рецепту: Рассыпчатое кунжутное печенье")](https://www.russianfood.com/recipes/recipe.php?rid=174610)
+
+Тесто для этого печенья замешивается на основе кунжутной пасты. Перед выпечкой заготовки обсыпаются смесью белого и чёрного кунжута. Получается невероятно нежное, мягкое и рассыпчатое печенье, которое по вкусу отдалённо напоминает кунжутную халву.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174610)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174610#comments) | 09.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +332,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Ekaterina\_S](https://www.russianfood.com/blogs/?id=413691) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174803#comments) | 07.12.24 |     |
+|     | [Ekaterina\_S](https://www.russianfood.com/blogs/?id=413691) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174803#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -332,63 +388,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Бутерброды в виде Змеи](https://www.russianfood.com/recipes/recipe.php?rid=174870) |     |
-
-[![Фото к рецепту: Бутерброды в виде Змеи](//img1.russianfood.com/dycontent/images_upl/754/sm_753060.jpg "Фото к рецепту: Бутерброды в виде Змеи")](https://www.russianfood.com/recipes/recipe.php?rid=174870)
-
-Бутерброды с колбасой, сыром и маринованными огурцами выкладываются в виде Змеи - символа 2025 года. Кусочки багета смазываются смесью сыра, сметаны, горчицы, зелени, и на сырный слой укладываются кружочки ароматной салями и огурчиков. Замечательная на вкус и привлекающая внимание праздничная закуска.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174870)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174870#comments) | 07.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Праздничный салат "Змейка" с огурцами, курицей и яблоком](https://www.russianfood.com/recipes/recipe.php?rid=174868) |     |
-
-[![Фото к рецепту: Праздничный салат "Змейка" с огурцами, курицей и яблоком](//img1.russianfood.com/dycontent/images_upl/753/sm_752913.jpg "Фото к рецепту: Праздничный салат "Змейка" с огурцами, курицей и яблоком")](https://www.russianfood.com/recipes/recipe.php?rid=174868)
-
-Слоёный салат, украшенный к Новому году 2025 змейкой из огурца, симпатичный и вкусный. Обжаренное куриное филе, свежий огурец, яблоко, сыр и маринованный лук отлично сочетаются. Салат впечатлит ваших гостей и создаст праздничное настроение за новогодним столом.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174868)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_37 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Для сытых улыбок!) Лучшие рецепты НА ВЫХОДНЫЕ №24-49](https://www.russianfood.com/reading/?post_id=22965) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/691/sm_690648.jpg)](https://www.russianfood.com/reading/?post_id=22965)
-
-Пирожки с тыквой, курицей и грибами. Пирожки с тыквой и яблоками. Курица с фасолью. Рыбные котлеты со шпинатом. Печень с грибами. Фрикадельки с тыквой и картофелем. Жаркое из свинины с картофелем и квасом.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22965)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22965#comments) | 06.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пять новогодних историй. Лучшие рецепты на Новый год (98)](https://www.russianfood.com/reading/?post_id=22964) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/721/sm_720496.jpg)](https://www.russianfood.com/reading/?post_id=22964)
-
-Салат-торт с курицей, овощами и ананасами. Рулет из мяса с грибами и черносливом. Кокосовое безе с шоколадной глазурью. Индейка с вином и капустой. Сельдь в сметанно-лимонном маринаде.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22964)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22964#comments) | 06.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
 
 |     |
 | --- |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |
-| --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
-| [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739207.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723204.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758053.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758329.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174404) |
+| [Куриное суфле с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Лимонные блонди с сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(113)
+(116)
