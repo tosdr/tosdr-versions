@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Can't get enough Fark in your life? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Someone is getting a lump of coal](https://www.fark.com/goto/13488302) ( [dailymail.co.uk](https://www.fark.com/goto/13488302) ) » [(8 comments)](https://www.fark.com/comments/13488302/Someone-is-getting-a-lump-of-coal) |
-| [Discussion](https://www.fark.com/discussion/) | [How can we quiet our inner critics? First, don't say, "It stinks"](https://www.fark.com/goto/13488232) ( [gq.com](https://www.fark.com/goto/13488232) ) » [(6 comments)](https://www.fark.com/comments/13488232/How-can-we-quiet-our-inner-critics-First-dont-say-It-stinks) |
-| [Sports](https://www.fark.com/sports/) | [The Force is strong with this one](https://www.fark.com/goto/13488212) ( [si.com](https://www.fark.com/goto/13488212) ) » [(3 comments)](https://www.fark.com/comments/13488212/The-Force-is-strong-with-this-one) |
-| [Business](https://www.fark.com/business/) | [American Airlines calls for a Haitian divorce](https://www.fark.com/goto/13488194) ( [msn.com](https://www.fark.com/goto/13488194) ) » [(4 comments)](https://www.fark.com/comments/13488194/American-Airlines-calls-for-a-Haitian-divorce) |
-| [STEM](https://www.fark.com/stem/) | [AI wants to go nuclear. Would you like to play a game?](https://www.fark.com/goto/13488306) ( [npr.org](https://www.fark.com/goto/13488306) ) » [(7 comments)](https://www.fark.com/comments/13488306/AI-wants-to-go-nuclear-Would-you-like-to-play-a-game) |
-| [Entertainment](https://www.fark.com/entertainment/) | [The Force is strong with this one](https://www.fark.com/goto/13488212) ( [si.com](https://www.fark.com/goto/13488212) ) » [(3 comments)](https://www.fark.com/comments/13488212/The-Force-is-strong-with-this-one) |
-| [Fandom](https://www.fark.com/fandom/) | [Best stages in fighting games. Put a quarter on the right and say your memorable background or soundtrack](https://www.fark.com/goto/13488210) ( [youtube.com](https://www.fark.com/goto/13488210) ) » [(5 comments)](https://www.fark.com/comments/13488210/Best-stages-in-fighting-games-Put-a-quarter-on-right-say-your-memorable-background-soundtrack) |
-| [D'awww](https://www.fark.com/dawww/) | [Seems like people just have to take their dogs everywhere, even on ocean cruises](https://www.fark.com/goto/13487406) ( [tampabay.com](https://www.fark.com/goto/13487406) ) » [(9 comments)](https://www.fark.com/comments/13487406/Seems-like-people-just-have-to-take-their-dogs-everywhere-even-on-ocean-cruises) |
-| [Food](https://www.fark.com/food/) | [Here's a list of your favorite foods. Take heart](https://www.fark.com/goto/13487956) ( [msn.com](https://www.fark.com/goto/13487956) ) » [(27 comments)](https://www.fark.com/comments/13487956/Heres-a-list-of-your-favorite-foods-Take-heart) |
-| [Politics](https://www.fark.com/politics/) | [Darlington SC Mayor uses the F word during a town meeting, claims He didn't know what the word meant. nope not that F word the other F word](https://www.fark.com/goto/13488062) ( [advocate.com](https://www.fark.com/goto/13488062) ) » [(3 comments)](https://www.fark.com/comments/13488062/Darlington-SC-Mayor-uses-F-word-during-a-town-meeting-claims-He-didnt-know-what-word-meant-nope-not-that-F-word-other-F-word) |
+| [Main](https://www.fark.com/) | [Good news, everybody. The National Park Service has released its annual list of dates that various parks will be free to enter but so crowded you can't actually see or do anything](https://www.fark.com/goto/13488492) ( [wtop.com](https://www.fark.com/goto/13488492) ) » [(0 comments)](https://www.fark.com/comments/13488492/Good-news-everybody-The-National-Park-Service-has-released-its-annual-list-of-dates-that-various-parks-will-be-free-to-enter-but-so-crowded-you-cant-actually-see-do-anything) |
+| [Discussion](https://www.fark.com/discussion/) | [Monday Premier League: West Ham welcomes Wolverhampton Wanderers. A win won't get the Wolves out of the bottom three but it'll help. The Hammers will still be at 14th win, lose, or draw but any points are good points. On USA at 3:00 PM ET](https://www.fark.com/goto/13488202) ( [premierleague.com](https://www.fark.com/goto/13488202) ) » [(1 comment)](https://www.fark.com/comments/13488202/Monday-Premier-League-West-Ham-welcomes-Wolverhampton-Wanderers-A-win-wont-get-Wolves-out-of-bottom-three-but-itll-help-The-Hammers-will-still-be-at-14th-win-lose-draw-but-any-points-are-good-points-On-USA-at-300-PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [Pop-Tarts, ReliaQuest, Duke's Mayo, and Gasparilla. Yep they are all real bowl games this year](https://www.fark.com/goto/13488584) ( [usatoday.com](https://www.fark.com/goto/13488584) ) » [(2 comments)](https://www.fark.com/comments/13488584/Pop-Tarts-ReliaQuest-Dukes-Mayo-Gasparilla-Yep-they-are-all-real-bowl-games-this-year) |
+| [Business](https://www.fark.com/business/) | [Ant Group gets new CEO as billionaire founder Jack Ma, for one, welcomes his new AI overlords](https://www.fark.com/goto/13488300) ( [cnbc.com](https://www.fark.com/goto/13488300) ) » [(3 comments)](https://www.fark.com/comments/13488300/Ant-Group-gets-new-CEO-as-billionaire-founder-Jack-Ma-for-one-welcomes-his-new-AI-overlords) |
+| [STEM](https://www.fark.com/stem/) | [Chinese data thieves suck. Up the info collected by Xi's national surveillance system and resell it to the Nefarious People for a profit](https://www.fark.com/goto/13488292) ( [theregister.com](https://www.fark.com/goto/13488292) ) » [(2 comments)](https://www.fark.com/comments/13488292/Chinese-data-thieves-suck-Up-info-collected-by-Xis-national-surveillance-system-resell-it-to-Nefarious-People-for-a-profit) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Guns N' Roses announce 2025 European tour, though their average fan can no longer drop to their sha-na-na-na-na-na-na, knees, knees](https://www.fark.com/goto/13488422) ( [nme.com](https://www.fark.com/goto/13488422) ) » [(1 comment)](https://www.fark.com/comments/13488422/Guns-N-Roses-announce-2025-European-tour-though-their-average-fan-can-no-longer-drop-to-their-sha-na-na-na-na-na-na-knees-knees) |
+| [Fandom](https://www.fark.com/fandom/) | ["Why Cancelling DCTV's Biggest Hit Series Is Both DC Studios' and The CW's Fault"](https://www.fark.com/goto/13488608) ( [cbr.com](https://www.fark.com/goto/13488608) ) » [(1 comment)](https://www.fark.com/comments/13488608/Why-Cancelling-DCTVs-Biggest-Hit-Series-Is-Both-DC-Studios-The-CWs-Fault) |
+| [D'awww](https://www.fark.com/dawww/) | [Expecting couple goes whale watching and experiences the unexpected: seven puppies](https://www.fark.com/goto/13488632) ( [ktvu.com](https://www.fark.com/goto/13488632) ) » [(0 comments)](https://www.fark.com/comments/13488632/Expecting-couple-goes-whale-watching-experiences-unexpected-seven-puppies) |
+| [Food](https://www.fark.com/food/) | [Fahrenheit four-zero-zero. 451's for cookbooks](https://www.fark.com/goto/13488404) ( [thetakeout.com](https://www.fark.com/goto/13488404) ) » [(2 comments)](https://www.fark.com/comments/13488404/Fahrenheit-four-zero-zero-451s-for-cookbooks) |
+| [Politics](https://www.fark.com/politics/) | [Fraud and colluder alleges fraud and collusion. Not him. Or him. Nope, not that guy either. Think gay frogs and you're in the ballpark](https://www.fark.com/goto/13488376) ( [cnbc.com](https://www.fark.com/goto/13488376) ) » [(8 comments)](https://www.fark.com/comments/13488376/Fraud-colluder-alleges-fraud-collusion-Not-him-Or-him-Nope-not-that-guy-either-Think-gay-frogs-youre-in-ballpark) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 09 2024 08:43:00  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 09 2024 14:43:30  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
