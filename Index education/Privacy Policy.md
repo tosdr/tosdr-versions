@@ -1,4 +1,4 @@
-![Index Education](https://www.index-education.com/contenu/img/commun/logo-index-education.png) ![Index Éducation : Certification ISO 9001](https://www.index-education.com/contenu/img/commun/certification-ISO-9001.png)
+![](https://www.index-education.com/contenu/img/commun/logo-index-education.png) ![](https://www.index-education.com/contenu/img/commun/certification-ISO-9001.png)
 
 Index Éducation plus que jamais engagée  
 dans le management de la qualité
@@ -32,7 +32,7 @@ Vous avez oublié votre mot de passe : [Nouveau mot de passe](https://www.index-
 
 Vous souhaitez vous désincrire de l'espace client : [Se désinscrire](https://www.index-education.com/fr/desinscription.php)
 
- [![INDEX EDUCATION - accueil](https://www.index-education.com/contenu/img/fr/logo-index-education.svg)](https://www.index-education.com/fr/ "Accueil")[![INDEX-EDUCATION : Certification ISO 9001](https://www.index-education.com/contenu/img/commun/certification-ISO-9001.png "INDEX-EDUCATION : Certification ISO 9001")](#)
+ [![INDEX EDUCATION - accueil](https://www.index-education.com/contenu/img/fr/logo-index-education.svg)](https://www.index-education.com/fr/ "Accueil")[![En savoir plus sur la certification ISO 9001](https://www.index-education.com/contenu/img/commun/certification-ISO-9001.png "INDEX-EDUCATION : Certification ISO 9001")](#)
 
 * [Contactez-nous](https://www.index-education.com/fr/contacts.php)[Nous recrutons](https://www.index-education.com/fr/nous-recrutons.php)
 
@@ -199,4 +199,4 @@ Légal produits
 * [Conditions générales d'utilisation et de vente de nos logiciels](https://www.index-education.com/fr/conditions-generales-de-vente.php)
 * [Politique de protection des données personnelles](https://www.index-education.com/fr/politique-de-protection-des-donnees.php)
 
-INDEX ÉDUCATION | © 2024 \- F
+INDEX ÉDUCATION | © 2024 \- D
