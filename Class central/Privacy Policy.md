@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. English
+1. java
     
-2. javascript
+2. graphic design
     
-3. project management
+3. cyber security
     
 
 Popular subjects
 
-1. [Web Development
+1. [Entrepreneurship
     
-    13,901 courses](https://www.classcentral.com/subject/web-development)
-2. [Graphic Design
+    4,250 courses](https://www.classcentral.com/subject/entrepreneurship)
+2. [Communication Skills
     
-    4,410 courses](https://www.classcentral.com/subject/graphic-design)
-3. [Business Management
+    4,330 courses](https://www.classcentral.com/subject/communication-skills)
+3. [Data Analysis
     
-    563 courses](https://www.classcentral.com/subject/business-management)
+    8,982 courses](https://www.classcentral.com/subject/data-analysis)
 
 Popular courses
 
-1. [Education for All: Disability, Diversity and Inclusion
+1. [Protecting Business Innovations via Patent
     
-    University of Cape Town](https://www.classcentral.com/course/education-for-all-5664)
-2. [Mining Massive Datasets
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/protect-business-innovations-patent-10382)
+2. [Academic Writing Made Easy
     
-    Stanford University](https://www.classcentral.com/course/mining-stanford-university-mining-massive-dataset-2406)
-3. [Gamification
+    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
+3. [Introduction to Frisian
     
-    University of Pennsylvania](https://www.classcentral.com/course/gamification-343)
+    University of Groningen](https://www.classcentral.com/course/frisian-6637)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
