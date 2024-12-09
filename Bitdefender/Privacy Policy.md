@@ -6,7 +6,7 @@
 
  
 
-[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?quality=85&preferwebp=true)](https://www.bitdefender.com/en-us/)
+[![Bitdefender Cybersecurity](/adobe/dynamicmedia/deliver/dm-aid--ff62d212-3a6d-4993-841c-7458d12cdf2f/bitdefender-blue-logo-png.png?preferwebp=true&quality=85)](https://www.bitdefender.com/en-us/)
 
 * [For Consumer](https://www.bitdefender.com/en-us/consumer/)
     
@@ -479,8 +479,8 @@ Follow Bitdefender
 * [Twitter](https://twitter.com/bitdefender)
 * [Linkedin](https://www.linkedin.com/company/bitdefender)
 * [Youtube](https://www.youtube.com/c/Bitdefender)
-* Instagram
-* TikTok
+* [Instagram](https://www.instagram.com/bitdefender/)
+* [TikTok](https://www.tiktok.com/@bitdefender%20)
 
 Quick Links
 
@@ -565,8 +565,8 @@ Follow Bitdefender
 * [Twitter](https://twitter.com/bitdefender)
 * [Linkedin](https://www.linkedin.com/company/bitdefender)
 * [Youtube](https://www.youtube.com/c/Bitdefender)
-* Instagram
-* TikTok
+* [Instagram](https://www.instagram.com/bitdefender/)
+* [TikTok](https://www.tiktok.com/@bitdefender%20)
 
 Trusted. Always.
 
