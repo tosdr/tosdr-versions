@@ -61,7 +61,7 @@ DNA Painter may revise these terms of use for its web site at any time without n
 
 Any claim relating to DNA Painter's web site shall be governed by the laws of the United Kingdom without regard to its conflict of law provisions.
 
-[](https://twitter.com/dnapainter)[](https://www.facebook.com/dnapainter/)[](https://www.instagram.com/dnapainter/)[](https://www.youtube.com/@dna.painter)
+[](https://bsky.app/profile/dnapainter.bsky.social)[](https://twitter.com/dnapainter)[](https://www.facebook.com/dnapainter/)[](https://www.instagram.com/dnapainter/)[](https://www.youtube.com/@dna.painter)
 
 © [DNA Painter](https://dnapainter.com/), 2024. Please email feedback to [info@dnapainter.com](mailto:info@dnapainter.com). [Please **do not** email me your raw DNA!](https://dnapainter.com/help/faq#faq-raw)
 
