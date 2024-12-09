@@ -697,6 +697,10 @@ Um Ihnen Werbung für unsere eigenen Produkte zeigen zu können, nutzen wir Dien
 
 Werbeanzeigen können dabei auf den jeweiligen Nutzer angepasst sein, indem beispielsweise Informationen des Browsers zur Nutzung (wie etwa besuchte Seiten, Besuchszeiten, Verweildauer) herangezogen werden. Aber auch nutzerbezogene Werbeeinblendungen sind möglich. Darüber hinaus können Auswertungen zur Reichweite oder zu Abrechnungszwecken in pseudonymisierter Form vorgenommen werden. Die Einzelheiten zu den eingesetzten Diensten, Kooperationspartnern und einzelnen Widerspruchsmöglichkeiten haben wir nachstehend für Sie dargestellt.
 
+#### Frequency Capping
+
+Damit Sie Eigenwerbung erst nach einem bestimmten Zeitraum erneut angezeigt bekommen, setzen wir ein Cookie (_\_pc\_sz-hide-mabo_), wenn Sie das entsprechende Banner schließen. Dies ist unbedingt erforderlich, damit Sie Werbung nicht zu häufig sehen und erfolgt aufgrund unseres berechtigten Interesses (Art.6 Abs.1 S.1 lit.f) DSGVO)
+
 Um zählen zu können, wie oft Sie eine gewisse Anzahl an Eigenanzeigen angezeigt bekommen haben, um dann diese Eigenanzeigen nicht mehr oder andere Eigenanzeigen ausspielen zu können, verwenden wir das Cookie \_ _pcfe._ Dieses Cookie speichert bis zu 30 Interaktionen jeder Art. Das Cookie wird nach 90 Tagen gelöscht.
 
 Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
@@ -899,10 +903,6 @@ Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widerru
 #### Widerruf bei Xing
 
 * [Datenschutzerklärung von Xing](https://privacy.xing.com/de/datenschutzerklaerung?sc_o=cookie_consent_banner_privacy_policy_click&sc_o_PropActionOrigin=cookie_consent_banner_bottom)
-
-#### Frequency Capping
-
-Damit Sie Eigenwerbung erst nach einem bestimmten Zeitraum erneut angezeigt bekommen, setzen wir ein Cookie (_\_pc\_sz-hide-mabo_), wenn Sie das entsprechende Banner schließen. Dies ist unbedingt erforderlich, damit Sie Werbung nicht zu häufig sehen und erfolgt aufgrund unseres berechtigten Interesses (Art.6 Abs.1 S.1 lit.f) DSGVO)
 
 ![Illustration](//images.ctfassets.net/jopovb6lh5n2/59RW6KReDu42qGKwyiQYAc/fda455b70b317fb2770add280b280135/illu4.png)
 
