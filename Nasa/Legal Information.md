@@ -259,7 +259,7 @@ article 2 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
 
 ### Highlights
 
@@ -281,7 +281,7 @@ article 6 days ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-
 
 ### New Artemis Virtual Meeting Backgrounds Released Celebrating Artemis I, Looking to Artemis II and Beyond
 
-article 6 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)
+article 7 days ago](https://www.nasa.gov/humans-in-space/new-artemis-virtual-meeting-backgrounds-released-celebrating-artemis-i-looking-to-artemis-ii-and-beyond/)
 
 ### Highlights
 
@@ -335,7 +335,7 @@ article 6 days ago](https://science.nasa.gov/solar-system/skywatching/whats-up-d
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
+article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
