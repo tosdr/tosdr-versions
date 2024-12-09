@@ -1,15 +1,15 @@
-Sunday, December 8 2024
+Monday, December 9 2024
 
 Breaking News
 
+* [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
+* [Who Is This Source Named Anonymous](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
 * [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
 * [The Incredible Shrinking “Legacy” News Media](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
 * [Judges Rule Against TikTok Citing ‘Grave Threat To National Security’](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
 * [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
 * [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
 * [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
-* [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
-* [Unqualified Is Code For They Scare Me To Death](https://www.conservativedailynews.com/2024/12/unqualified-is-code-for-they-scare-me-to-death/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
+    
+    [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
+    
+    December 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5898-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
+    
+    [Who Is This Source Named Anonymous](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
+    
+    December 8, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-missed-ballots-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/gone-missing/)
+    
+    [Gone Missing](https://www.conservativedailynews.com/2024/12/gone-missing/)
+    
+    December 8, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
     
     [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
@@ -160,27 +178,11 @@ Recent Posts
     
     December 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/)
-    
-    [The Biden Crime Family Is Above the Law](https://www.conservativedailynews.com/2024/12/the-biden-crime-family-is-above-the-law/)
-    
-    December 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Biden-Lost-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
-    
-    [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
-    
-    December 6, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-kavahegs-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
-    
-    [By The Book](https://www.conservativedailynews.com/2024/12/by-the-book-2/)
-    
-    December 5, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Warne HyperLite Rings: Light, Strong And Adaptable](https://www.thegunpage.com/warne-hyperlite-rings-light-strong-and-adaptable/10612376)
+* [Holiday Gift Guide: Must-Have Gear for Every Shooter’s Range Bag](https://www.thegunpage.com/holiday-gift-guide-must-have-gear-for-every-shooters-range-bag/10612369)
 * [Canada Bans 324 More Types Of Firearms, Plans To Give The Guns To Ukraine](https://www.thegunpage.com/canada-bans-324-more-types-of-firearms-plans-to-give-the-guns-to-ukraine/10612363)
 * [Why Sen. Schumer Is Rushing Judges Through Senate Confirmation](https://www.thegunpage.com/why-sen-schumer-is-rushing-judges-through-senate-confirmation/10612360)
 * [Understanding The USPSA Classification System](https://www.thegunpage.com/understanding-the-uspsa-classification-system/10612357)
@@ -189,8 +191,6 @@ Recent Posts
 * [Review: SIG Sauer ROMEO3MAX PRO Reflex Sight](https://www.thegunpage.com/review-sig-sauer-romeo3max-pro-reflex-sight/10612346)
 * [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
 * [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
-* [TFB Podcast Roundup 158: The December 6th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-158-the-december-6th-roundup/10612345)
-* [7th Circuit Extends Stay; Gun Owners Stuck with Gun Ban Through State’s Appeal](https://www.thegunpage.com/7th-circuit-extends-stay-gun-owners-stuck-with-gun-ban-through-states-appeal/10612339)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
