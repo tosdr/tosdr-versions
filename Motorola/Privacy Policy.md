@@ -22,7 +22,7 @@
     * [* razr+ 2024 - $200 off](https://www.motorola.com/us/smartphones-razr-plus-gen-2/p "razr+ 2024 - $200 off")
     * [* razr 2023 - $350 off](https://www.motorola.com/us/smartphones-razr-gen-3/p?skuId=984 "razr 2023 - $350 off")
     * [* moto edge+ 2023 - $350 off](https://www.motorola.com/us/smartphones-motorola-edge-plus-gen-2/p "moto edge+ 2023 - $350 off")
-    * [* CYBER WEEK SALE](https://www.motorola.com/us/specials "CYBER WEEK SALE")
+    * [* BEAT THE RUSH SALE](https://www.motorola.com/us/specials "BEAT THE RUSH SALE")
     * [* Compare phones](https://www.motorola.com/us/compare-smartphones "Compare phones")
     * [* Tablet](https://www.motorola.com/us/lenovo-tab-p11/p "Tablet")
     * [](#)
