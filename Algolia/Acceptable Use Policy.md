@@ -140,8 +140,6 @@ Select Policy
 
 [Terms of Service](https://www.algolia.com/policies/terms)
 
-[Service Level Agreement](https://www.algolia.com/policies/sla)
-
 [Privacy Policy](https://www.algolia.com/policies/privacy)
 
 [Support Policy](https://www.algolia.com/policies/support)
