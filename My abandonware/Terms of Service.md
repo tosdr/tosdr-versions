@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Wow!! We Did It, Pat & Mat!](https://www.myabandonware.com/game/wow-we-did-it-pat-mat-trm)
+* [Microtrack: Electric Car Simulator](https://www.myabandonware.com/game/microtrack-electric-car-simulator-trg)
+* [Mega Motion](https://www.myabandonware.com/game/mega-motion-7fj)
 * [Boat Fury](https://www.myabandonware.com/game/boat-fury-tqh)
 * [Fantastic Blood Boy](https://www.myabandonware.com/game/fantastic-blood-boy-tp1)
-* [Elemental Panic Crash](https://www.myabandonware.com/game/elemental-panic-crash-tov)
-* [Machines of Destruction](https://www.myabandonware.com/game/machines-of-destruction-toa)
-* [Factor X](https://www.myabandonware.com/game/factor-x-tmq)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
