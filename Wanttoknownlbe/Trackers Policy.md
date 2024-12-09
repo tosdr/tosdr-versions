@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/een-hemelse-helpdesk/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/orgon-levensenergie-in-de-schaduw-van-ems/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
