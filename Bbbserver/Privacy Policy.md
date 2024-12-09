@@ -3,10 +3,10 @@
 [English](https://bbbserver.com/) [Français](https://bbbserver.com/fr/) [Español](https://bbbserver.com/es/) [Русский](https://bbbserver.com/ru/)
 
 * [Für Schulen & Universitäten](https://bbbserver.de/fuer-bildungseinrichtungen "Für Schulen & Universitäten")
-* [Für Unternehmen](https://bbbserver.de/fuer-unternehmen "Für Unternehmen")
-* [Für öff. Einrichtungen](https://bbbserver.de/fuer-oeffentliche-einrichtungen "Für öff. Einrichtungen")
+* [Fuer Unternehmen](https://bbbserver.de/fuer-unternehmen "Fuer Unternehmen")
+* [Fuer Behoerden](https://bbbserver.de/fuer-oeffentliche-einrichtungen "Fuer Behoerden")
 * [Preise](https://bbbserver.de/preise "Preise")
-* [Anmeldung](https://app.bbbserver.com/login "Anmeldung")
+* [Anmelden](https://app.bbbserver.com/login "Anmelden")
 * [Kostenlos ausprobieren](https://app.bbbserver.com/registration "Kostenlos ausprobieren")
 
 ### Die datenschutzorientierte Meeting-Plattform
@@ -16,7 +16,7 @@ Webkonferenzen mit BigBlueButton
 
 Egal ob es sich um ein Geschäftstreffen, ein virtuelles Klassenzimmer oder ein Webinar handelt, wir haben die BigBlueButton-Videokonferenzsoftware mit vielen zusätzlichen Funktionen erweitert, um eine moderne Meeting-Plattform zu schaffen. Mit einem Fokus auf Datenschutz. Melden Sie sich jetzt an und überzeugen Sie sich selbst!
 
-[Kostenlos ausprobieren](https://app.bbbserver.de/registration "Kostenlos ausprobieren")
+[Kostenlos ausprobieren](https://app.bbbserver.com/registration "Kostenlos ausprobieren")
 
 ### Webkonferenzen für Unternehmen
 
@@ -53,16 +53,16 @@ Fragen? Kontaktieren Sie uns per Mail!
 
 E-Mail: [support@bbbserver.de](mailto:support@bbbserver.de)
 
-* [Impressum](https://bbbserver.de/impressum "Impressum")
+* [Rechtliche Informationen](https://bbbserver.de/rechtliche-informationen "Rechtliche Informationen")
 * [Widerrufsrecht](https://bbbserver.de/widerrufsrecht "Widerrufsrecht")
-* [Datenschutz / Privatsphäre](https://bbbserver.de/datenschutz "Datenschutz / Privatsphäre")
+* [Datenschutz](https://bbbserver.de/daten-schutz "Datenschutz")
 * [Plattformoptimierungen](https://bbbserver.de/plattform-optimierungen "Plattformoptimierungen")
 * [Partner & Wiederverkäufer](https://bbbserver.de/partner-und-agenturen "Partner & Wiederverkäufer")
 * [Entwickler & APIs](https://bbbserver.de/entwickler-apis "Entwickler & APIs")
 * [Sicherheit](https://invokable.gmbh/security "Sicherheit")
 * [Blog](https://bbbserver.de/blog "Blog")
 
-![Mitglied bei BVMW](/assets/invo-site-theme/img/ext_logo_bvmw.png)
+![Mitglied des BVMW](/assets/invo-site-theme/img/ext_logo_bvmw.png)
 
 ![Allianz für Cybersicherheit (Teilnehmer)](/assets/invo-site-theme/img/ext_logo_teilenhmer_cs.jpg)
 
