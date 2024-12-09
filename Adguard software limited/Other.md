@@ -169,9 +169,15 @@ Dansk Deutsch English Español Français Hrvatski Indonesia Italiano Magyar Nede
 AdGuard Content Blocker Privacy Notice
 ======================================
 
-May 17, 2024
+August 7, 2024
+
+* * *
 
 Keynote: This Privacy Notice lists all the information that we may collect and explains why we do it and how we use this information. We only collect essential information for AdGuard products to function fully and properly. We do not share or sell your personal information. We are strongly committed to protecting user privacy and being as transparent as possible.
+
+* * *
+
+This Privacy Notice supplements the AdGuard Privacy Policy available at [adguard.com/privacy.html](https://adguard.com/privacy.html), which provides you with the necessary information regarding terms and conditions of data processing by AdGuard.
 
 What data AdGuard Content Blocker can collect and when
 ------------------------------------------------------
