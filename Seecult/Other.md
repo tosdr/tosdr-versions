@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/skc-beograd.jpg?itok=wGvipM5G)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-performans-people-i-dont/dragan-ilic-czkd.?itok=1OJ1jt6a)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-performans-people-i-dont)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/milosevicu.jpg?itok=Th0Xk2vw)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/kings-strings/dscf0377.jpg?itok=FxtYhmUO)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/kings-strings)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
