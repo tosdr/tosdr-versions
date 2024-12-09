@@ -297,17 +297,17 @@ _By_ [Yasemin Saplakoglu](https://www.quantamagazine.org/authors/yasemin-saplako
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
-[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-
-[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
-
-_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
-
 [![A man in a blue suit sits in front of a red mechanical apparatus](https://www.quantamagazine.org/wp-content/uploads/2024/11/RajReddy-cr.ElliottCramer-Thumbnail.jpg)](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
 
 [#### The AI Pioneer With Provocative Plans for Humanity](https://www.quantamagazine.org/the-ai-pioneer-with-provocative-plans-for-humanity-20241204/)
 
 _By_ [Susan D'Agostino](https://www.quantamagazine.org/authors/dagostino_susan)
+
+[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+
+_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
 
 The Quanta Newsletter
 
