@@ -131,11 +131,10 @@
     
     * [AI Development](https://www.fiverr.com/categories/programming-tech/ai-coding?source=category_tree)
     * [AI Websites & Software](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-software-website?source=category_tree)
-    * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
+    * [AI Mobile Appsnew](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [OpenAI GPT Storenew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
@@ -232,9 +231,9 @@
     * [Marketing Concepts & Ideation](https://www.fiverr.com/categories/online-marketing/marketing-concepts-and-ideation?source=category_tree)
     * [Marketing Advice](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
     * [Web Analytics](https://www.fiverr.com/categories/online-marketing/web-analytics-services?source=category_tree)
-    * [Conversion Rate Optimization (CRO)new](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
+    * [Conversion Rate Optimization (CRO)](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
     
-    * Channel Specific new
+    * Channel Specific
         
     * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok-shop?source=category_tree)
     * [Facebook Ads Campaign](https://www.fiverr.com/categories/online-marketing/buy/social-marketing/paid-social-media/facebook?source=category_tree)
@@ -548,7 +547,7 @@
     
     * AI Development
         
-    * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
+    * [AI Mobile Appsnew](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
@@ -842,11 +841,10 @@ Browse categories
     
     * [AI Development](https://www.fiverr.com/categories/programming-tech/ai-coding?source=category_tree)
     * [AI Websites & Software](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-software-website?source=category_tree)
-    * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
+    * [AI Mobile AppsNew](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
     * [AI Fine-Tuning](https://www.fiverr.com/categories/data/data-science/ai-fine-tuning?source=category_tree)
-    * [OpenAI GPT StoreNew](https://www.fiverr.com/categories/programming-tech/ai-coding/custom-gpts?source=category_tree)
     
     * [Chatbot Development](https://www.fiverr.com/categories/programming-tech/chatbots?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/chatbots/ai-chatbot-development?source=category_tree)
@@ -933,7 +931,7 @@ Browse categories
     * [Marketing Concepts & Ideation](https://www.fiverr.com/categories/online-marketing/marketing-concepts-and-ideation?source=category_tree)
     * [Marketing Advice](https://www.fiverr.com/categories/online-marketing/marketing-tips-and-advice?source=category_tree)
     * [Web Analytics](https://www.fiverr.com/categories/online-marketing/web-analytics-services?source=category_tree)
-    * [Conversion Rate Optimization (CRO)New](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
+    * [Conversion Rate Optimization (CRO)](https://www.fiverr.com/categories/online-marketing/conversion-rate-optimization?source=category_tree)
     
     * Channel Specific
     * [TikTok Shop](https://www.fiverr.com/categories/online-marketing/buy/social-commerce/setup-and-integration/tiktok-shop?source=category_tree)
@@ -1223,7 +1221,7 @@ Browse categories
     AI Services
     
     * AI Development
-    * [AI Applications](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
+    * [AI Mobile AppsNew](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-applications?source=category_tree)
     * [AI Integrations](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-integrations?source=category_tree)
     * [AI Chatbot](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-chatbot?source=category_tree)
     * [AI Agents](https://www.fiverr.com/categories/programming-tech/ai-coding/ai-agents-development?source=category_tree)
