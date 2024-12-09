@@ -1350,6 +1350,8 @@ Where neither the EU-U.S. DPF, the UK extension to the EU-U.S. DPF, Swiss-EU DPF
 
 Twilio’s privacy practices, described in this Privacy Notice, comply with the APEC Cross Border Privacy Rules (“CBPR”) and Privacy Recognition for Processors (“PRP”) Systems. The APEC, CBPR and PRP systems provide a framework for organizations to ensure protection of personal data transferred among participating APEC economies. More information about the APEC framework can be found [here](http://www.cbprs.org/).
 
+[![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=00921e09-b5ff-41f7-8e59-acbac5327b0a "TRUSTe")](https://privacy.truste.com/privacy-seal/validation?rid=00921e09-b5ff-41f7-8e59-acbac5327b0a) [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=d850d4c1-663c-4d00-a2ac-2c0ff2eed963 "TRUSTe")](https://privacy.truste.com/privacy-seal/validation?rid=d850d4c1-663c-4d00-a2ac-2c0ff2eed963)
+
 [How We Secure Personal Data](#how-twilio-processes-your-personal-information)
 ------------------------------------------------------------------------------
 
@@ -1640,7 +1642,7 @@ We can't wait to see what you build.
 
 * [Legal](https://www.twilio.com/en-us/legal/tos)
 * [Privacy (Updated)](https://www.twilio.com/en-us/legal/privacy)
-* [Twilio.org](https://www.twilio.org/)
+* [Twilio.org](https://www.twilio.com/content/twilio-org/us/en.html)
 * [Press & Media](https://www.twilio.com/en-us/press)
 * [Signal](https://signal.twilio.com/?_ga=2.112150148.1826591240.1667227419-607057990.1661885030)
 * [Investors](https://investors.twilio.com/overview/default.aspx?_ga=2.112150148.1826591240.1667227419-607057990.1661885030)
