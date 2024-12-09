@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![HERO Global Online Safety Regulators Network sets out priorities for next three years (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/hero-global-online-safety-regulators-network-sets-out-priorities-for-next-three-years-1336--560px.png?width=1920&height=1085&quality=80)
+
+### Global Online Safety Regulators Network sets out priorities for next three years
+
+9 December 2024](https://www.ofcom.org.uk/about-ofcom/international-work/global-online-safety-regulators-network-sets-out-priorities-for-next-three-years/)
+
 [![draft-industry-guidance-(web)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/draft-industry-guidance-web.jpg?width=1920&height=1085&quality=80)
 
 ### Ofcom appoints Oliver Griffiths as Group Director, Online Safety
@@ -150,12 +156,6 @@
 ### Full-fibre broadband reaches one million homes in Wales
 
 5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-one-million-homes-in-wales/)
-
-[![CN 24 NC_Scot web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_scot-web.jpg?width=1920&height=1085&quality=80)
-
-### Connected Nations report finds big advances in Scotland’s connectivity in 2024
-
-5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/connected-nations-report-finds-big-advances-in-scotlands-connectivity-in-2024/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
