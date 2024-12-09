@@ -2,6 +2,10 @@
 
 [Sign in](https://my.roommates.com/users/sign_in) [Sign up](https://my.roommates.com/users/sign_up)
 
+HOLIDAY SALE - SAVE 74%  
+
+[Get a **1-year** membership for **$49** with code **Holiday24**](https://my.roommates.com/membership)
+
 Roommates.com Terms of Service
 ==============================
 
