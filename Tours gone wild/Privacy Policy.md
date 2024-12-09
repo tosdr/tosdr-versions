@@ -492,7 +492,7 @@ Get a Price Quote
 * More Details: (customization, desired experience, etc)
     
 * 
-* Comments
+* Phone
     
     This field is for validation purposes and should be left unchanged.
     
