@@ -150,6 +150,6 @@ United States
 
 ![](https://images.hertz.com/misc/pixel.gif)
 
-© 2018 The Hertz Corporation. All rights reserved.
+© 2024 The Hertz Corporation. All rights reserved.
 
 ![](https://images.hertz.com/misc/pixel.gif)
