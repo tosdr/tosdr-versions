@@ -10,7 +10,7 @@ Media Finland
 
 * [Keitä olemme](https://www.sanoma.fi/keita-olemme/)
     *  [![](/globalassets/sanoma-media-finland/keita-olemme/toolo_n4785.jpg?height=100&width=100&quality=80&mode=crop) Yleiskatsaus Keitä olemme](https://www.sanoma.fi/keita-olemme/)
-    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/uutishuone/)
+    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/ajankohtaista/)
     * [Johtoryhmä](https://www.sanoma.fi/keita-olemme/johtoryhma/)
     * [Tarinamme](https://www.sanoma.fi/keita-olemme/tarinamme/)
     * [Töihin Sanomalle](https://www.sanoma.fi/keita-olemme/toihin-sanomalle/)
@@ -39,7 +39,7 @@ Haku
 
 * [Keitä olemme](https://www.sanoma.fi/keita-olemme/)
     * [Keitä olemme Yleiskatsaus](https://www.sanoma.fi/keita-olemme/)
-    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/uutishuone/)
+    * [Ajankohtaista](https://www.sanoma.fi/keita-olemme/ajankohtaista/)
     * [Johtoryhmä](https://www.sanoma.fi/keita-olemme/johtoryhma/)
     * [Tarinamme](https://www.sanoma.fi/keita-olemme/tarinamme/)
     * [Töihin Sanomalle](https://www.sanoma.fi/keita-olemme/toihin-sanomalle/)
