@@ -66,17 +66,17 @@ Images via Butte County Sheriff's Office
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Jeff Bezos excited about second Trump term: ‘I’m going to help him’](https://americanwirenews.com/jeff-bezos-excited-about-second-trump-term-im-going-to-help-him/)
+### [O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
 
-### [UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+### [Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
 
-### [Jab-pushing doc predicts plague of new viruses set to be unleashed as Trump takes office](https://americanwirenews.com/jab-pushing-doc-predicts-plague-of-new-viruses-set-to-be-unleashed-as-trump-takes-office/)
+### [Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
 
-### [Morning Joe duo apologize for guest’s Hegseth smear on air, accused of fearing Trump](https://americanwirenews.com/morning-joe-duo-apologize-for-guests-hegseth-smear-on-air-accused-of-fearing-trump/)
+### [Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
 
-### [Kash Patel threatens suit, demands retraction from MSNBC for guest smearing him with lies](https://americanwirenews.com/kash-patel-threatens-suit-demands-retraction-from-msnbc-for-guest-smearing-him-with-lies/)
+### [Outgoing DNC chairman advises party to stick with losing narrative](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
 
-### [‘Good riddance, Mitt’: Romney’s sanctimonious farewell address is exactly what you would expect](https://americanwirenews.com/good-riddance-mitt-romneys-sanctimonious-farewell-address-is-exactly-what-you-would-expect/)
+### [Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -91,6 +91,14 @@ Images via Butte County Sheriff's Office
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-boltoncnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
 
 [‘He’s lying’: Slimeball John Bolton insinuates Syrian intrigue with Tulsi Gabbard](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetherston-220x180.jpg)](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
+
+[Insider speaks out about child rape, violence at Massachusetts shelters for migrants](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcdowell-220x180.jpg)](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
+
+[Fox Business anchor shreds James Carville: He’s not ‘some sort of wise southern soothsayer’](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
 
@@ -173,14 +181,6 @@ CFOTO/Future Publishing via Getty Images
 [Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
 
 (Photo by Kevin Dietsch/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Milley-220x180.jpg)](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
-
-[WH officials reportedly considering pre-emptive pardon for Gen. Milley and more](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
-
-[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -276,6 +276,12 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-220x180.jpeg)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+
+[Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking
+
+(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
 [Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
@@ -289,10 +295,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-texas-land-220x180.jpg)](https://americanwirenews.com/trump-transition-team-mulls-purchase-of-texas-land-along-rio-grande-to-facilitate-mass-deportation/)
 
 [Trump team mulls purchase of Texas land along Rio Grande to facilitate mass deportation plans](https://americanwirenews.com/trump-transition-team-mulls-purchase-of-texas-land-along-rio-grande-to-facilitate-mass-deportation/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-speakermjohnson-1200-x-628-220x180.jpg)](https://americanwirenews.com/speaker-johnson-says-no-more-funding-for-ukraine-until-trump-provides-new-direction/)
-
-[Speaker Johnson says no more funding for Ukraine until Trump provides ‘new direction’](https://americanwirenews.com/speaker-johnson-says-no-more-funding-for-ukraine-until-trump-provides-new-direction/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
