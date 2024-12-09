@@ -93,7 +93,7 @@ FR
         
         10% Cash Back](https://www.rakuten.ca/simons)[Gap Canada
         
-        2% Cash Back](https://www.rakuten.ca/gap-canada)[icebreaker
+        4% Cash Back](https://www.rakuten.ca/gap-canada)[icebreaker
         
         3% Cash Back](https://www.rakuten.ca/icebreaker)
         
@@ -353,7 +353,7 @@ FR
         
         [Angara
         
-        5% Cash Back](https://www.rakuten.ca/angara)[Michael Kors
+        15% Cash Back](https://www.rakuten.ca/angara)[Michael Kors
         
         10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
