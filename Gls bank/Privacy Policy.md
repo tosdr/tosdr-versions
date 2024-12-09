@@ -31,7 +31,7 @@
     
 * Menü
 
-[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/ "Konto eröffnen")
 
 [![](/media/Bilder/Logos/GLSB_Logo_Farbe_sRGB.svg)](https://www.gls.de/ "Zur Startseite der GLS Bank")
 
@@ -340,9 +340,9 @@
 
 Barrierearmut
 
-[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/ "Konto eröffnen")
 
-[Zum Onlinebanking](https://www.gls-online-filiale.de/services_cloud/portal/ "Zum Onlinebanking")
+[Konto eröffnen](https://www.gls.de/konten-karten/konten/girokonto/ "Konto eröffnen")
 
 Datenschutz
 ===========
