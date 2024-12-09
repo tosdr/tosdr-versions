@@ -27,10 +27,10 @@ Menu Close
     
     * [Organization](https://www.unibocconi.eu/en/about-us/organization)
     * [Third Mission](https://www.unibocconi.eu/en/about-us/third-mission)
-    * [Quality](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
     * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
     * [International Networks](https://www.unibocconi.eu/en/about-us/international-networks)
     * [Diversity, Equity and Inclusion](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion)
+    * [Quality Assurance](https://www.unibocconi.eu/en/about-us/quality-assurance)
     * [Sustainability](https://www.unibocconi.eu/en/about-us/sustainability)
     * [History](https://www.unibocconi.eu/en/about-us/history)
     
@@ -187,21 +187,8 @@ About Us
         * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
         
     * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
-    * Quality Assurance System
-        
-        [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
-        
-        * [Quality Assurance Committee members](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/quality-assurance-committee-members)
-        * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
-        
     
 * [Third Mission](https://www.unibocconi.eu/en/about-us/third-mission)
-* Quality
-    
-    [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
-    
-    * [Bocconi Teaching Awards](https://www.unibocconi.eu/en/about-us/quality/bocconi-teaching-awards)
-    
 * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
 * International Networks
     
@@ -222,6 +209,19 @@ About Us
     * [Non-Discrimination](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion/non-discrimination)
     * [Support and Access](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion/support-and-access)
     * [Representation and Inclusion](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion/representation-and-inclusion)
+    
+* Quality Assurance
+    
+    [Overview](https://www.unibocconi.eu/en/about-us/quality-assurance)
+    
+    * [Teaching Quality Assurance](https://www.unibocconi.eu/en/about-us/quality-assurance/teaching-quality-assurance)
+    * [Quality Assurance in Research](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-research)
+    * [Quality Assurance in Third Mission - Social Impact](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-third-mission-social-impact)
+    * [Quality in Action](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-action)
+    * [Training on Quality Assurance Themes](https://www.unibocconi.eu/en/about-us/quality-assurance/training-quality-assurance-themes)
+    * [Regulations, Procedures and Guidelines of the QA System](https://www.unibocconi.eu/en/about-us/quality-assurance/regulations-procedures-and-guidelines-qa-system)
+    * [FAQ](https://www.unibocconi.eu/en/about-us/quality-assurance/faq)
+    * [Quality assurance bodies](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies)
     
 * Sustainability
     
@@ -281,13 +281,6 @@ Organization
     * [SDA Bocconi School of Management](https://www.unibocconi.eu/en/about-us/organization/schools/sda-bocconi-school-management)
     
 * [Staff](https://www.unibocconi.eu/en/about-us/organization/organizational-unit-directors-and-managers)
-* Quality Assurance System
-    
-    [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
-    
-    * [Quality Assurance Committee members](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/quality-assurance-committee-members)
-    * [Teaching evaluation report](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system/teaching-evaluation-report)
-    
 
 Close
 
