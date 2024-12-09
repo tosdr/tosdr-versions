@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2009-10 Ballot Ms](/assets/logos/2004-2010BallotMeasuresTotal.png)](http://www.followthemoney.org/research/institute-research/an-overview-of-campaign-finances-2009-2010-elections)
-
-Ballot measures attract massive amounts of money.
+[![Crossing the Line: Boosting Gubernatorial Candidates With Out-of-State Contributions](/assets/Images/teasers/full/OOS-v-Total-area-chart.png)](http://www.followthemoney.org/research/institute-reports/crossing-the-line-boosting-out-of-state-contributions-to-gubernatorial-campaigns/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
