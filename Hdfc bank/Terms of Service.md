@@ -5944,6 +5944,46 @@ false
 
 false
 
+PayZapp
+
+![Download](/static/widgets/%5BBBHOST%5D/widget-hdfc-donation/media/download-25.png)
+
+Download
+
+![Print](/static/widgets/%5BBBHOST%5D/widget-hdfc-donation/media/print-25.png)
+
+Print
+
+[PayZapp Terms & Condition - English](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-English-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-English-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Hindi](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Hindi-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Hindi-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Marathi](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Marathi-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Marathi-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Tamil](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Tamil-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Tamil-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Gujarati](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Gujarati-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Gujarati-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Malayalam](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Malayalam-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Malayalam-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Telugu](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Telugu-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Telugu-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Kannada](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Kannada-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Kannada-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Bengali](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/PayZapp-Bengali-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/PayZapp-Bengali-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Punjabi](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Punjabi-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Punjabi-T-and-C.pdf")
+
+[PayZapp Terms & Condition - Urdu](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Payzapp-Urdu-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Payzapp-Urdu-T-and-C.pdf")
+
+  
+
+[Click here](https://www.hdfcbank.com/personal/useful-links/terms-and-conditions/payzapp-terms-and-conditions "/personal/useful-links/terms-and-conditions/payzapp-terms-and-conditions") for all Terms and Conditions
+
+false
+
+false
+
 * [About Us](https://www.hdfcbank.com/personal/about-us)
 * [Overview](https://www.hdfcbank.com/personal/about-us/overview)
 * [Investor Relations](https://www.hdfcbank.com/personal/about-us/investor-relations)
