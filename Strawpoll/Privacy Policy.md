@@ -1,4 +1,4 @@
-[StrawPoll](https://strawpoll.com/)
+[StrawPoll](https://strawpoll.com/en/privacy)
 
 [Create Poll](https://strawpoll.com/create/) [Schedule Meeting](https://strawpoll.com/meetings/) [Demo](https://strawpoll.com/demo/) [Pricing](https://strawpoll.com/pricing/)
 
@@ -8,7 +8,7 @@ Open main menu
 
 Close menu
 
-[StrawPoll](https://strawpoll.com/)
+[StrawPoll](https://strawpoll.com/en/privacy)
 
 [Create Poll](https://strawpoll.com/create/) [Schedule Meeting](https://strawpoll.com/meetings/) [Demo](https://strawpoll.com/demo/) [Pricing](https://strawpoll.com/pricing/)
 
@@ -243,7 +243,7 @@ Choose Language
 
 * [Poll Maker](https://strawpoll.com/create/)
 * [Meeting Scheduler](https://strawpoll.com/meetings/)
-* [Discord Bot](https://strawpoll.bot/)
+* [Discord Bot](https://strawpoll.bot/en/privacy)
 * [Poll API](https://strawpoll.com/docs/api/)
 
 ### Support
