@@ -78,6 +78,7 @@ Verlagsangebote
 
 Anzeigen
 
+* [PRIDE Index 2024](https://www.zeit.de/campus/angebote/pride-index-2024/index)
 * [Beliebtesten Ausbildungsplätze 2025](https://www.zeit.de/angebote/most-wanted-start-2025/index)
 * [Kitzbüheler Wintertraum](https://www.zeit.de/angebote/kitzbuehel/index)
 * [Das ZEIT Campus Festival 2024](https://www.zeit.de/campus/angebote/zeit-campus-festival/index)
