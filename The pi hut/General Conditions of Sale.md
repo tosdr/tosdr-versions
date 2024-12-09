@@ -2,6 +2,8 @@
 
 [Skip to content](#main)
 
+\*\*\* Pi 500 launch - shipping delays expected (1-2 days) \*\*\*\*\*\* Pi 500 launch - shipping delays expected (1-2 days) \*\*\*
+
 Navigation
 
 [The Pi Hut ![The Pi Hut Christmas Logo](//thepihut.com/cdn/shop/files/the_pi_hut_christmas_logo_360x.png?v=1730895868)](https://thepihut.com/) 
@@ -206,7 +208,7 @@ Cart](https://thepihut.com/cart)
         The Raspberry Pi
         
         * [Boards](https://thepihut.com/collections/raspberry-pi-boards)
-        * [Pi 400](https://thepihut.com/collections/pi400)
+        * [Pi 500/400](https://thepihut.com/collections/pi400)
         * [Pico](https://thepihut.com/collections/pico)
         * [Compute Module](https://thepihut.com/collections/raspberry-pi-compute-module-4-accessories)
         
