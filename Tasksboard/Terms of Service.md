@@ -68,7 +68,7 @@ TasksBoard - Terms of Service
 
 6. Billing Terms
 
-6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1733698688664369&usg=AOvVaw0XDvIIAnOEDVqV--NZArvJ). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
+6.1 You agree to pay all applicable fees related to your use of this Website which are described fully on our [pricing page](https://www.google.com/url?q=https://tasksboard.com/pricing/&sa=D&source=editors&ust=1733720254561951&usg=AOvVaw2L10fB1S7Mm2XuY9RhYeXY). By providing a payment method, you expressly authorize us to charge the applicable fees on said payment method as well as taxes and other charges incurred thereto at regular intervals, all of which depend on your particular subscription and utilized services.
 
 The subscription period for Paid Accounts can be month-to-month or yearly.
 
