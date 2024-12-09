@@ -117,7 +117,8 @@ Connect with #commonapp
 * [Terms of use](https://www.commonapp.org/terms-of-use)
 * [Privacy policy](https://www.commonapp.org/privacy-policy)
 * [Fraud policy](https://www.commonapp.org/fraud-policy)
-* [Cookie notice](https://www.commonapp.org/cookie-notice)
 * [Application affirmations](https://www.commonapp.org/application-affirmations)
+* [Cookie notice](https://www.commonapp.org/cookie-notice)
+* [Accessibility statement](https://www.commonapp.org/accessibility-statement)
 
 ®  2024 The Common Application, Inc
