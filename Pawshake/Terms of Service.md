@@ -409,31 +409,131 @@ Portola Valley, CA 94028
 United States of America  
 info@pawshake.com
 
-Learn More
-----------
+1000+ Trusted sitters in Belgium
+--------------------------------
 
-[How does Pawshake work?](https://en.pawshake.be/how-does-pawshake-work "How does Pawshake work?")[Testimonials](https://en.pawshake.be/customer-reviews "Testimonials")[The Pawshake Guarantee](https://en.pawshake.be/pawshake-guarantee "The Pawshake Guarantee")[Payments and refunds](https://en.pawshake.be/payment-policy "Payments and refunds")[FAQ for Pet Owners](https://pawshake.zendesk.com/hc/en-be?c=pet-owner "FAQ for Pet Owners")[FAQ for Pet Sitters](https://pawshake.zendesk.com/hc/en-be?c=pet-sitter "FAQ for Pet Sitters")[Dog boarding](https://en.pawshake.be/home-dog-boarding "Dog boarding")[Doggy day care](https://en.pawshake.be/doggy-day-care "Doggy day care")[Dog walking](https://en.pawshake.be/dog-walking "Dog walking")[Dog sitting](https://en.pawshake.be/dog-sitting "Dog sitting")[Cat sitting](https://en.pawshake.be/cat-sitting "Cat sitting")[Pet sitting](https://en.pawshake.be/petsitters "Pet sitting")[House sitting](https://en.pawshake.be/house-sitting "House sitting")
+[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")
 
-Popular Cities
---------------
+[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")
 
-[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")[Kortrijk](https://en.pawshake.be/home-dog-boarding/kortrijk "Kortrijk")[Roeselare](https://en.pawshake.be/home-dog-boarding/roeselare "Roeselare")[Genk](https://en.pawshake.be/home-dog-boarding/genk "Genk")[Hasselt](https://en.pawshake.be/home-dog-boarding/hasselt "Hasselt")[Bruges](https://en.pawshake.be/home-dog-boarding/bruges "Bruges")[Turnhout](https://en.pawshake.be/home-dog-boarding/turnhout "Turnhout")[Ostend](https://en.pawshake.be/home-dog-boarding/ostend "Ostend")
+[Bruges](https://en.pawshake.be/home-dog-boarding/bruges "Bruges")
 
-[Top dog boarding cities](https://en.pawshake.be/top-dog-boarding-cities "Top cities for dog boarding in Belgium")
+[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")
 
-About Pawshake
---------------
+[Genk](https://en.pawshake.be/home-dog-boarding/genk "Genk")
 
-[Our Story](https://en.pawshake.be/about-us "Our Story")[In the press](https://en.pawshake.be/press "In the press")[Blog](https://en.pawshake.be/blog "Blog")[Help](https://pawshake.zendesk.com/hc/en-be "Help")
+[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")
 
-Payment Methods
----------------
+[Hasselt](https://en.pawshake.be/home-dog-boarding/hasselt "Hasselt")
 
-Find us on
-----------
+[Kortrijk](https://en.pawshake.be/home-dog-boarding/kortrijk "Kortrijk")
 
-[Facebook](https://www.facebook.com/PawshakeBelgium "Facebook")[Twitter](https://www.twitter.com/PawshakeBE "Twitter")[Instagram](https://www.instagram.com/PawshakeBE/ "Instagram")[Pinterest](https://www.pinterest.com/PawshakeBE/pins "Pinterest")
+[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")
 
-Copyright © 2024 Pawshake Inc. All Rights Reserved. [Terms and Conditions](https://en.pawshake.be/terms-and-conditions) and [Privacy & Cookie Policy](https://en.pawshake.be/privacy-policy).
+[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")
 
-Belgium (NL)Belgium (FR)Belgium (EN)Belgium (DE)Switzerland (DE)Switzerland (IT)Switzerland (FR)Germany (DE)Germany (EN)France (FR)France (EN)Luxembourg (FR)Luxembourg (DE)Luxembourg (EN)The Netherlands (NL)The Netherlands (EN)Canada (EN)Canada (FR)Austria (DE)New Zealand (EN)United Kingdom (EN)Australia (EN)Hong Kong (EN)Singapore (EN)Denmark (DA)Finland (FI)Ireland (EN)Italy (IT)Japan (EN)Norway (NO)Sweden (SV)
+[Ostend](https://en.pawshake.be/home-dog-boarding/ostend "Ostend")
+
+[Roeselare](https://en.pawshake.be/home-dog-boarding/roeselare "Roeselare")
+
+[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")
+
+[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")
+
+[Turnhout](https://en.pawshake.be/home-dog-boarding/turnhout "Turnhout")
+
+[Top dog boarding cities](https://en.pawshake.be/top-dog-boarding-cities)
+
+1000+ Trusted sitters in Belgium
+--------------------------------
+
+[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")
+
+[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")
+
+[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")
+
+[Genk](https://en.pawshake.be/home-dog-boarding/genk "Genk")
+
+[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")
+
+[Hasselt](https://en.pawshake.be/home-dog-boarding/hasselt "Hasselt")
+
+[Kortrijk](https://en.pawshake.be/home-dog-boarding/kortrijk "Kortrijk")
+
+[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")
+
+[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")
+
+[Roeselare](https://en.pawshake.be/home-dog-boarding/roeselare "Roeselare")
+
+[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")
+
+[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")
+
+[Top dog boarding cities](https://en.pawshake.be/top-dog-boarding-cities)
+
+1000+ Trusted sitters in Belgium
+--------------------------------
+
+[Aalst](https://en.pawshake.be/home-dog-boarding/aalst "Aalst")
+
+[Antwerp](https://en.pawshake.be/home-dog-boarding/antwerp "Antwerp")
+
+[Brussels](https://en.pawshake.be/home-dog-boarding/brussels "Brussels")
+
+[Ghent](https://en.pawshake.be/home-dog-boarding/ghent "Ghent")
+
+[Leuven](https://en.pawshake.be/home-dog-boarding/leuven "Leuven")
+
+[Mechelen](https://en.pawshake.be/home-dog-boarding/mechelen "Mechelen")
+
+[Schaerbeek](https://en.pawshake.be/home-dog-boarding/schaerbeek "Schaerbeek")
+
+[Sint-Niklaas](https://en.pawshake.be/home-dog-boarding/sint-niklaas "Sint-Niklaas")
+
+[Top dog boarding cities](https://en.pawshake.be/top-dog-boarding-cities)
+
+### About us
+
+[Our story](https://en.pawshake.be/about-us "Our story")[In the press](https://en.pawshake.be/press "In the press")[Blog](https://en.pawshake.be/blog "Blog")
+
+### Services
+
+[Dog Boarding](https://en.pawshake.be/home-dog-boarding "Dog Boarding")
+
+[Doggy Day Care](https://en.pawshake.be/doggy-day-care "Doggy Day Care")
+
+[Dog Walking](https://en.pawshake.be/dog-walking "Dog Walking")
+
+[Dog Sitting](https://en.pawshake.be/dog-sitting "Dog Sitting")
+
+[Cat Sitting](https://en.pawshake.be/cat-sitting "Cat Sitting")
+
+[Pet Sitting](https://en.pawshake.be/petsitters "Pet Sitting")
+
+[House Sitting](https://en.pawshake.be/house-sitting "House Sitting")
+
+### Payment methods
+
+### Learn more
+
+[How does Pawshake work?](https://en.pawshake.be/how-does-pawshake-work "How does Pawshake work?")[Testimonials](https://en.pawshake.be/customer-reviews "Testimonials")[The Pawshake Guarantee](https://en.pawshake.be/pawshake-guarantee "The Pawshake Guarantee")[Payments and refunds](https://en.pawshake.be/payment-policy "Payments and refunds")[FAQ for Pet Owners](https://pawshake.zendesk.com/hc/en?c=pet-owner "FAQ for Pet Owners")[FAQ for Pet Sitters](https://pawshake.zendesk.com/hc/en?c=pet-sitter "FAQ for Pet Sitters")[Help](https://pawshake.zendesk.com/hc/en "Help")
+
+### Legal
+
+[Privacy policy](https://en.pawshake.be/privacy-policy "Privacy policy")[Terms and Conditions](https://en.pawshake.be/terms-and-conditions "Terms and Conditions")
+
+### Country
+
+Belgium - English
+
+### Available on
+
+[![iOS App Store](https://static1.pawshakecdn.com/images/appstore/appstore-en.svg)](https://apps.apple.com/app/id1016049668)[![Google Play Store](https://static1.pawshakecdn.com/images/playstore/playstore-en.svg)](https://play.google.com/store/apps/details?id=com.pawshake.android&hl=en-BE)
+
+### Find us on
+
+[](https://www.facebook.com/PawshakeBelgium)[](https://www.instagram.com/PawshakeBE)[](https://www.pinterest.com/PawshakeBE/pins)
+
+![Pawshake](https://static1.pawshakecdn.com/brand/logo-light.svg)© 2024 Pawshake Inc. All Rights Reserved.
