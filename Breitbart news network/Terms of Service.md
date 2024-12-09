@@ -54,11 +54,12 @@
 
 [BREITBART](https://www.breitbart.com/ "Breitbart News Network")
 
+* [Daniel Penny](https://www.breitbart.com/tag/daniel-penny/)
 * [Assad Regime Falls](https://www.breitbart.com/tag/syria/)
 * [CEO Assassin Manhunt](https://www.breitbart.com/tag/unitedhealthcare/)
 * [Hegseth Fight](https://www.breitbart.com/tag/pete-hegseth/)
 * [Mass Deport Battle](https://www.breitbart.com/tag/deportation/)
-* [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
+* [Ukraine War](https://www.breitbart.com/tag/ukraine/)
 
 Terms of Use
 ============
