@@ -238,7 +238,7 @@ Bahasa IndonesiaDeutschEnglishEspañolFrançaisItalianoNederlandsPolskiPortuguê
 PRIVACY POLICY
 ==============
 
-Effective Date: March 1st, 2024  
+Effective Date: December 9th, 2024  
   
 Thank you for playing our games! This Privacy Policy describes:
 
@@ -397,29 +397,7 @@ You can manage your consent in the game settings and limit ad tracking in your d
 
 For mobile advertising in apps, you can reset your Advertising Identifier and depending on your device, select to opt out of interest-based ads (Android) or turn on the Limit Ad Tracking setting (iOS).
 
-The partners operate the ad network and mediation platform, as well as facilitate and participate in ad inventory bidding. The partners may also use the device identifiers for fraud detection purposes based on their legitimate interest. For more information, please check the partners’ privacy policies.
-
-ironSource Privacy Policy: [https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-1](https://developers.is.com/ironsource-mobile/air/ironsource-mobile-privacy-policy/#step-1)
-
-Vungle Privacy Policy: [https://vungle.com/privacy/](https://vungle.com/privacy/)
-
-Google Privacy Policy: [https://policies.google.com/privacy](https://policies.google.com/privacy)
-
-Fyber Privacy Policy: [https://www.digitalturbine.com/fyber-services-privacy-statement/](https://www.digitalturbine.com/fyber-services-privacy-statement/)
-
-Liftoff Privacy Policy: [https://liftoff.io/privacy-policy/](https://liftoff.io/privacy-policy/)
-
-Mintegral Privacy Policy: [https://www.mintegral.com/en/privacy](https://www.mintegral.com/en/privacy)
-
-Supersonic Privacy Policy: [https://supersonic.com/privacy/](https://supersonic.com/privacy/)
-
-Unity Ads Privacy Policy: [https://unity.com/legal/privacy-policy](https://unity.com/legal/privacy-policy)
-
-Facebook Privacy Policy: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/)
-
-Apple Search Ads: [https://searchads.apple.com/privacy](https://searchads.apple.com/privacy)
-
-Applovin Privacy Policy: [https://www.applovin.com/privacy/](https://www.applovin.com/privacy/)
+The partners operate the ad network and mediation platform, as well as facilitate and participate in ad inventory bidding. The partners may also use the device identifiers for fraud detection purposes based on their legitimate interest. For more information, please check the partners’ privacy policies here: [supercell.com/en/partner-opt-out](https://supercell.com/en/partner-opt-out/).
 
 ### WHO CAN SEE YOUR DATA
 
@@ -560,6 +538,7 @@ Please visit [supercell.com/en/disclosure-korea-residents](https://supercell.co
 
 ### Old versions of the page
 
+* [March 1, 2024](https://supercell.com/en/privacy-policy/en/2024-03-01/)
 * [November 15, 2021](https://supercell.com/en/privacy-policy/en/2021-11-15/)
 * [April 15, 2021](https://supercell.com/en/privacy-policy/en/2021-04-15/)
 * [October 19, 2020](https://supercell.com/en/privacy-policy/en/2020-10-19/)
