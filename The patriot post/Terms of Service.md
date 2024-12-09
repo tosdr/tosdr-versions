@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112621-buy-more-ammo-2024-12-09)
+     [](https://patriotpost.us/memes/112642-freedom-fans-think-otherwise-2024-12-09)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34624)
+     [](https://patriotpost.us/cartoons/34633)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Jeff Jacoby Argentina’s Capitalist Counterrevolution Is Off to a Good Start](https://patriotpost.us/opinion/112655-argentinas-capitalist-counterrevolution-is-off-to-a-good-start-2024-12-09)
+*      [Allen West Haters Gonna Hate](https://patriotpost.us/opinion/112630-haters-gonna-hate-2024-12-09)
+*      [Rich Lowry Trump’s Strong Start](https://patriotpost.us/opinion/112629-trumps-strong-start-2024-12-09)
+*      [The Washington Stand The Cult Is Alive and Well: Why the Trans Movement Isn’t Gone](https://patriotpost.us/opinion/112628-the-cult-is-alive-and-well-why-the-trans-movement-isnt-gone-2024-12-09)
+*      [The Babylon Bee 13 More People Biden Is Considering Pardoning](https://patriotpost.us/opinion/112627-13-more-people-biden-is-considering-pardoning-2024-12-09)
 *      [Gary Bauer Trump Supports Pete](https://patriotpost.us/opinion/112622-trump-supports-pete-2024-12-07)
 *      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
 *      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
-*      [Mark Alexander Profiles of Valor: Capt Lance Sijan, USAF](https://patriotpost.us/alexander/112540-profiles-of-valor-capt-lance-sijan-usaf-2024-12-06)
-*      [The Babylon Bee 75% of Elves Laid Off After Elon Musk Visits North Pole](https://patriotpost.us/opinion/112606-75-percent-of-elves-laid-off-after-elon-musk-visits-north-pole-2024-12-06)
-*      [Josh Hammer In Transgender Case, Can SCOTUS Cut to the Moral Heart of the Issue?](https://patriotpost.us/opinion/112593-in-transgender-case-can-scotus-cut-to-the-moral-heart-of-the-issue-2024-12-06)
-*      [Victor Davis Hanson What The Trump Nominees Have Not Done — And Will Not Do](https://patriotpost.us/opinion/112592-what-the-trump-nominees-have-not-done-and-will-not-do-2024-12-06)
-*      [Tim Graham Let’s Curb the Kangaroo Court of Anonymous Sources](https://patriotpost.us/opinion/112591-lets-curb-the-kangaroo-court-of-anonymous-sources-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,15 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“Labor to keep alive in your breast that little spark of celestial fire called conscience.” —George Washington (1748)
+“The bosom of America is open to receive not only the Opulent and respectable Stranger, but the oppressed and persecuted of all Nations and Religions; whom we shall welcome to a participation of all our rights and privileges, if by decency and propriety of conduct they appear to merit the enjoyment.” —George Washington (1783)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
