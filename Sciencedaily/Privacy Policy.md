@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 8, 2024**
+**December 9, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
 [Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
 
-[Cholesterol](https://www.sciencedaily.com/news/health_medicine/cholesterol/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Artificial Intelligence](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Graphene](https://www.sciencedaily.com/news/matter_energy/graphene/)
+[Petroleum](https://www.sciencedaily.com/news/matter_energy/petroleum/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[Water](https://www.sciencedaily.com/news/earth_climate/water/)
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
   
 
