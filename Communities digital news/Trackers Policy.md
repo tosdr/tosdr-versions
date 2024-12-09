@@ -26,59 +26,61 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kelly-1200x630.jpg)](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-1200x630.jpg)](https://americanwirenews.com/defiant-warmonger-biden-dials-up-bombing-of-syria-after-trump-says-u-s-should-not-get-involved/)
 
-[Megyn Kelly sets record straight on rumors of new CBS show challenging ‘The View’](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
+[Defiant warmonger Biden dials up bombing of Syria after Trump says U.S. should not get involved](https://americanwirenews.com/defiant-warmonger-biden-dials-up-bombing-of-syria-after-trump-says-u-s-should-not-get-involved/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-assad-1200x630.jpg)](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mgaetzrnc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
 
-[‘Assad is gone’: Trump responds to Syria’s collapse, reminds Americans ‘it’s not our fight’](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
+[Matt Gaetz’s wife teases ‘big news coming next week’](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trumpz-1200-x-628-1200x630.jpg)](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumppa-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
 
-[Zelenskyy slammed for dressing like a bum to meet Trump in Paris](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
+[Trump engages in next-level trolling of a smiling Jill Biden to plug his ‘Fight, Fight, Fight’ fragrance](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetterman-1200x630.jpg)](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-wray-1200x630.jpg)](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
 
-[Fetterman rips ‘sh\*tty’ left-wing rag’s ‘inevitable’ spin on the murder of CEO](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
+[Trump rips outgoing FBI director Wray: ‘He invaded my home’](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joeyshadesmyers-1200-x-628-1200x630.jpg)](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jayzcbs-1200-x-628-1200x630.jpg)](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
 
-[Media pushing Biden ‘preventive’ pardons but some Dems cool on idea](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
+[Jay-Z’s blistering response to allegations he raped a 13-year-old girl with ‘Diddy’](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogancovid-1200-x-628-1200x630.jpg)](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-habba-1200x630.jpg)](https://americanwirenews.com/alina-habba-scores-prime-white-house-position-as-lara-trump-steps-down-as-gop-chair/)
 
-[Joe Rogan responds to House COVID report: ‘ALL the conspiracy theorists were correct’](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[Alina Habba scores prime White House position as Lara Trump steps down as GOP chair](https://americanwirenews.com/alina-habba-scores-prime-white-house-position-as-lara-trump-steps-down-as-gop-chair/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nbc-1200x630.png)](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-murphy-1200x630.jpg)](https://americanwirenews.com/senator-calls-for-major-shakeup-at-dnc/)
 
-[Trump talks Day One pardon for J6ers, says of Biden payback: ‘Retribution will be through success’](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
+[Senator calls for major shakeup at DNC](https://americanwirenews.com/senator-calls-for-major-shakeup-at-dnc/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-litton-sg-featherriver-1200x630.jpg)](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-khanna-1200x630.jpg)](https://americanwirenews.com/dem-reps-huge-bipartisan-cooperation-with-doge-under-scrutiny-hes-not-pledging-cooperation-its-a-threat/)
 
-Images via Butte County Sheriff's Office
+[Dem Rep’s ‘huge bipartisan cooperation’ with DOGE under scrutiny: ‘He’s not pledging cooperation. It’s a threat’](https://americanwirenews.com/dem-reps-huge-bipartisan-cooperation-with-doge-under-scrutiny-hes-not-pledging-cooperation-its-a-threat/)
 
-[Two Calif. kindergartners shot at Christian school over alleged Gaza ‘genocide’](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tomhomanfox-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-1200x630.jpg)
-
-### Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
+### Homan has ‘clear message’ for blue city mayors](https://americanwirenews.com/homan-has-clear-message-for-blue-city-mayors/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+### [Jury in Daniel Penny case reportedly deadlocked. Here’s what happens next…](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
 
-### [Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+### [Eric Adams doesn’t rule out re-joining the GOP](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
 
-### [Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+### [‘Pete is a WINNER!’ Trump posts full-throttled support behind Hegseth, blasts ‘Fake News’ saying otherwise](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
 
-### [Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+### [Obama accuses GOP of dirty deeds the Dems are doing, but something’s off with his delivery](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
 
-### [Outgoing DNC chairman advises party to stick with losing narrative](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
+### [As China floods U.S. market with illegal vapes, the International Trade Commission is poised to make it worse](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
 
-### [Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+### [Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-uhaul-220x180.png)](https://americanwirenews.com/defund-the-police-pusher-singing-a-different-tune-after-criminals-steal-everything-she-has/)
+
+[Defund the police pusher singing a different tune after criminals steal everything she has](https://americanwirenews.com/defund-the-police-pusher-singing-a-different-tune-after-criminals-steal-everything-she-has/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tapper-mullin-220x180.jpg)](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
 
@@ -96,9 +98,37 @@ Images via Butte County Sheriff's Office
 
 [Insider speaks out about child rape, violence at Massachusetts shelters for migrants](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bill-oreilly-220x180.jpg)](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+
+[O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-olsonkennedy-220x180.jpg)](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+
+[Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mcdowell-220x180.jpg)](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
 
 [Fox Business anchor shreds James Carville: He’s not ‘some sort of wise southern soothsayer’](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-njf-mugshots-220x180.jpg)](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+
+[Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pixabay-arrest-220x180.jpg)](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+
+[Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dncharrison-1200-x-628-220x180.jpg)](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
+
+[Outgoing DNC chairman advises party to stick with losing narrative](https://americanwirenews.com/outgoing-dnc-chairman-advises-party-to-stick-with-losing-narrative/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hcso-paul-220x180.jpg)](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+
+[Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-welker-220x180.jpg)](https://americanwirenews.com/nbcs-kristen-welker-springs-hegseth-drinking-smear-on-trump-he-shuts-her-down-with-class/)
+
+[NBC’s Kristen Welker springs Hegseth drinking smear on Trump, he shuts her down with class](https://americanwirenews.com/nbcs-kristen-welker-springs-hegseth-drinking-smear-on-trump-he-shuts-her-down-with-class/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
 
@@ -145,42 +175,6 @@ Images via NYPD
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-melania-trump-220x180.jpg)](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
 
 [Melania dishes on Trump’s ‘unique’ dance, Barron and returning to the WH in wide-ranging Fox interview](https://americanwirenews.com/melania-dishes-on-trumps-unique-dance-barron-and-returning-to-the-wh-in-wide-ranging-fox-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-jim-jordan-220x180.jpg)](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
-
-[Fed law enforcement used banks to gain access to Americans’ financial info without warrants, House Judiciary finds](https://americanwirenews.com/fed-law-enforcement-used-banks-to-gain-access-to-americans-financial-info-without-warrants-house-judiciary-finds/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
-
-[Jury in Daniel Penny case reportedly deadlocked. Here’s what happens next…](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-eric-adams-220x180.png)](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
-
-[Eric Adams doesn’t rule out re-joining the GOP](https://americanwirenews.com/eric-adams-doesnt-rule-out-re-joining-the-gop/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-2-220x180.jpg)](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
-
-[‘Pete is a WINNER!’ Trump posts full-throttled support behind Hegseth, blasts ‘Fake News’ saying otherwise](https://americanwirenews.com/pete-is-a-winner-trump-posts-full-throttled-support-behind-hegseth-blasts-fake-news-saying-otherwise/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-obamadnc-1200-x-628-220x180.jpg)](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
-
-[Obama accuses GOP of dirty deeds the Dems are doing, but something’s off with his delivery](https://americanwirenews.com/obama-accuses-gop-of-dirty-deeds-the-dems-are-doing-but-somethings-off-with-his-delivery/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1247549126-220x180.jpg)](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
-
-[As China floods U.S. market with illegal vapes, the International Trade Commission is poised to make it worse](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
-
-CFOTO/Future Publishing via Getty Images
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-blanche-220x180.jpg)](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
-
-[Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-220x180.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
-
-[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
-
-(Photo by Kevin Dietsch/Getty Images)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -242,9 +236,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-1200x630.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-1200x630.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
 
-[California AG urges holiday shoppers to rat out stores without gender-neutral kids’ sections](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
+[Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-target-hot-santa-220x180.jpg)](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
+
+[Ladies can’t get enough of Target’s non-woke ‘hot Santa’ ads: ‘Put me on the naughty list, please’](https://americanwirenews.com/ladies-cant-get-enough-of-targets-non-woke-hot-santa-ads-put-me-on-the-naughty-list-please/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-health-insurance-220x180.jpg)](https://americanwirenews.com/insurance-giant-walks-back-controversial-new-policy-after-people-celebrate-unitedhealthcare-ceo-being-gunned-down/)
+
+[Insurance giant walks back controversial new policy after people celebrate UnitedHealthcare CEO being gunned down](https://americanwirenews.com/insurance-giant-walks-back-controversial-new-policy-after-people-celebrate-unitedhealthcare-ceo-being-gunned-down/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/police-sg-thompson-gunman-220x180.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
+
+[UnitedHealthcare CEO assassin left a 3-word message at the scene on bullet casings](https://americanwirenews.com/unitedhealthcare-ceo-assassin-left-a-3-word-message-at-the-scene-on-bullet-casings/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bonta-1200-x-628-220x180.jpg)](https://americanwirenews.com/california-ag-urges-holiday-shoppers-to-rat-out-stores-without-gender-neutral-kids-sections/)
 
@@ -253,18 +259,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-jennings-4-220x180.jpg)](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
 
 [LA Times adds CNN’s Scott Jennings to editorial board](https://americanwirenews.com/la-times-adds-cnns-scott-jennings-to-editorial-board/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-apple-ad-220x180.jpg)](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
-
-[Apple’s emotional ‘family oriented’ ad earns praise from viewers: ‘Very well done here. More of this.’](https://americanwirenews.com/apples-emotional-family-oriented-ad-earns-praise-from-viewers-very-well-done-here-more-of-this/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-target-220x180.jpg)](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
-
-[WSJ levels Target over poor earnings report: ‘Slide from cheap chic to dull chore’](https://americanwirenews.com/wsj-levels-target-over-poor-earnings-report-slide-from-cheap-chic-to-dull-chore/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-walmartfront-1200-x-628-220x180.jpg)](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
-
-[Walmart to roll back DEI policies](https://americanwirenews.com/walmart-to-roll-back-dei-policies/)
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
@@ -286,15 +280,15 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trump-briefing-220x180.jpeg)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-220x180.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
 
-[White House press corps talks ‘boycott’ over report Trump may ‘disrupt’ briefing room pecking order
+[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’
 
-(Official White House Photo by Tia Dufour)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
+(Photo by Kevin Dietsch/Getty Images)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-texas-land-220x180.jpg)](https://americanwirenews.com/trump-transition-team-mulls-purchase-of-texas-land-along-rio-grande-to-facilitate-mass-deportation/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Milley-220x180.jpg)](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
 
-[Trump team mulls purchase of Texas land along Rio Grande to facilitate mass deportation plans](https://americanwirenews.com/trump-transition-team-mulls-purchase-of-texas-land-along-rio-grande-to-facilitate-mass-deportation/)
+[WH officials reportedly considering pre-emptive pardon for Gen. Milley and more](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -332,22 +326,20 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-thompson-sg-crime-scene-220x180.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
-[UnitedHealthcare CEO fatally gunned down in NYC, police suspect ‘targeted attack’](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1146903452-1-220x180.jpg)](https://americanwirenews.com/welcome-to-california-british-rock-band-robbed-at-gunpoint-on-first-day-of-us-tour/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pexels-burning-candles-220x180.jpg)](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
 
-[Welcome to California: British rock band robbed at gunpoint on first day of US tour
+[Air fresheners, candles, incense emit chemicals and ‘toxic gases’ linked to cancer, other diseases, study finds](https://americanwirenews.com/air-fresheners-candles-incense-emit-chemicals-and-toxic-gases-linked-to-cancer-other-diseases-study-finds/)
 
-Getty Images](https://americanwirenews.com/welcome-to-california-british-rock-band-robbed-at-gunpoint-on-first-day-of-us-tour/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-daniel-penny-2-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cotter-220x180.jpg)](https://americanwirenews.com/comedians-hilarious-comparison-of-modern-hip-hop-versus-canceled-christmas-classic-goes-viral-again/)
+[Jordan Neely’s dad hits Daniel Penny with lawsuit as jury decides his fate](https://americanwirenews.com/jordan-neelys-dad-hits-daniel-penny-with-lawsuit-as-jury-decides-his-fate/)
 
-[Comedian’s hilarious comparison of modern hip hop versus ‘canceled’ Christmas classic goes viral again](https://americanwirenews.com/comedians-hilarious-comparison-of-modern-hip-hop-versus-canceled-christmas-classic-goes-viral-again/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-oj-simpson-2-220x180.jpg)](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nypd-220x180.jpg)](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
-
-[Over 1,000 suspected illegal alien gang members receiving big perks from taxpayers in NYC: report](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
+[Ex-OJ bodyguard claims he has murder confession recording … police have thumb drive, say no evidence](https://americanwirenews.com/ex-oj-bodyguard-claims-he-has-murder-confession-recording-police-have-thumb-drive-say-no-evidence/)
 
 © 2024. All Rights Reserved. American Wire News
