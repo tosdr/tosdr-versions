@@ -627,7 +627,6 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     
     #### [FEATURED](https://www.100percentpure.com/)
     
-    * [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
     * [New](https://www.100percentpure.com/collections/new)
     * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
     * [Award Winners](https://www.100percentpure.com/collections/award)
