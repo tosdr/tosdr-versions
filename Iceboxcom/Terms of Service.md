@@ -1,14 +1,14 @@
 ![](https://www.facebook.com/tr?id=196064485683782&ev=PageView&noscript=1)   
 
-[CYBER WEEK EVENT
+[![](/themes/default/frontend/oct-2023/assets/promo/xmas/2024/top-banner-pic.webp)](https://www.icebox.com/xmas)
 
-CYBER WEEK EVENT
+#### SALE ENDS IN
 
-Sale Ends In
+00 Days
 
-00 days 00 hours](https://www.icebox.com/cyber-week)
+00 Hours
 
-[![Icebox ](/themes/default/frontend/oct-2023/assets/logo.svg)](https://www.icebox.com/)
+[![Icebox ](/themes/default/frontend/oct-2023/assets/promo/xmas/2024/logo.avif)](https://www.icebox.com/)
 
 [Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
 
@@ -18,7 +18,7 @@ Sale Ends In
 
  Search
 
-[MEN'S](https://www.icebox.com/all?gender[]=Male) [WOMEN'S](https://www.icebox.com/all?gender[]=Female) [Gold Chains](https://www.icebox.com/results/gold-chains) [Engagement](https://www.icebox.com/results/rings?sub[]=Engagement%20Rings) [Travel Cases](https://www.icebox.com/results/travel-cases) [WATCHES](https://www.icebox.com/results/watch-market) [Custom](https://www.icebox.com/results/custom) [CYBER WEEK](https://www.icebox.com/cyber-monday) [MADE TO ORDER](https://www.icebox.com/made-to-order)
+[MEN'S](https://www.icebox.com/all?gender[]=Male) [WOMEN'S](https://www.icebox.com/all?gender[]=Female) [Gold Chains](https://www.icebox.com/results/gold-chains) [Engagement](https://www.icebox.com/results/rings?sub[]=Engagement%20Rings) [Travel Cases](https://www.icebox.com/results/travel-cases) [WATCHES](https://www.icebox.com/results/watch-market) [Custom](https://www.icebox.com/results/custom) [CHRISTMAS SALE](https://www.icebox.com/xmas) [MADE TO ORDER](https://www.icebox.com/made-to-order)
 
 [Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Watches](https://www.icebox.com/results/watches) [Accessories](https://www.icebox.com/results/accessories) [Custom](https://www.icebox.com/results/custom) [Travel Cases](https://www.icebox.com/results/travel-cases)
 
@@ -39,6 +39,8 @@ By Brand
 [Pendants](https://www.icebox.com/results/pendants?sub[]=Custom%20Pendants) [Men Rings](https://www.icebox.com/custom-ring-men) [Women Rings](https://www.icebox.com/custom-ring-women) [By The Letter](https://www.icebox.com/results/pendants?sub[]=Letter%20Pendants)
 
 [Rolex](https://www.icebox.com/results/watch-market?brand[]=Rolex) [Audemars Piguet](https://www.icebox.com/results/watch-market?brand[]=Audemars%20Piguet) [Patek Philippe](https://www.icebox.com/results/watch-market?brand[]=Patek%20Philippe) [Vacheron Constantin](https://www.icebox.com/results/watch-market?brand[]=Vacheron%20Constantin) [Richard Mille](https://www.icebox.com/results/watch-market?brand[]=Richard%20Mille) [Cartier](https://www.icebox.com/results/watch-market?brand[]=Cartier) [Hublot](https://www.icebox.com/results/watch-market?brand[]=Hublot) [Other Brands](https://www.icebox.com/results/watch-market?brand[]=Other) [Bustdowns](https://www.icebox.com/results/watches?sub[]=Bustdowns)
+
+[Christmas Sale](https://www.icebox.com/xmas)
 
 Terms & Conditions
 ------------------
@@ -263,7 +265,7 @@ Atlanta, GA, 30305, USA
 
 [Apply For Financing](https://www.icebox.com/financing)
 
-Icebox.com 2024©. All Rights Reserved.
+Icebox.com 2024 ⓒ . All Rights Reserved.
 
  [![](/themes/default/frontend/oct-2023/assets/social-box_instagram.svg)](https://www.instagram.com/icebox/)[![](/themes/default/frontend/oct-2023/assets/social-box_youtube.svg)](https://www.youtube.com/channel/UCv8gFyATae1x0VmDHmNbIhg?sub_confirmation=1)[![](/themes/default/frontend/oct-2023/assets/social-box_twitter.svg)](https://www.twitter.com/icebox)[![](/themes/default/frontend/oct-2023/assets/social-box_facebook.svg)](https://www.facebook.com/Icebox)[![](/themes/default/frontend/oct-2023/assets/social-box_tiktok.svg)](https://www.tiktok.com/@icebox)
 
@@ -271,7 +273,7 @@ Icebox.com 2024©. All Rights Reserved.
 
 Explore Icebox
 
-[0 items in your cart](https://www.icebox.com/cart) [![](/themes/default/frontend/oct-2023/assets/bf-top-banner-img.svg)](https://www.icebox.com/black-friday)
+[0 items in your cart](https://www.icebox.com/cart) [![](/themes/default/frontend/oct-2023/assets/promo/xmas/2024/top-banner-pic.webp)](https://www.icebox.com/xmas)
 
 Men's
 
