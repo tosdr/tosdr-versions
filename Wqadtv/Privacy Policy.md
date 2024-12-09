@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WHAS/images/264459688/264459688_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/264459688/264459688_360x203.jpg)](https://www.wqad.com/article/news/local/national-lego-league-challenge-qualifiers-quad-cities/526-42744eed-97e6-4bfd-afa7-bf3a29244ca4)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696/20241208T233311/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696/20241208T233311/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696_360x203.jpg)](https://www.wqad.com/article/news/community/rotary-clubs-quad-cities-blankets-foster-children/526-aa89d0e5-7817-40bd-92bd-173ef61ba847)
         
-        #### [Local qualifiers for national STEM competition involving LEGOs take place in the QCA](https://www.wqad.com/article/news/local/national-lego-league-challenge-qualifiers-quad-cities/526-42744eed-97e6-4bfd-afa7-bf3a29244ca4)
+        #### [Rotary Clubs throughout the Quad Cities come together to make blankets for foster children](https://www.wqad.com/article/news/community/rotary-clubs-quad-cities-blankets-foster-children/526-aa89d0e5-7817-40bd-92bd-173ef61ba847)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/d5790936-4861-47cd-acc0-e5c36636c0cf/20241031T023748/d5790936-4861-47cd-acc0-e5c36636c0cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/d5790936-4861-47cd-acc0-e5c36636c0cf/20241031T023748/d5790936-4861-47cd-acc0-e5c36636c0cf_360x203.jpg)](https://www.wqad.com/article/news/crime/police-chase-head-on-crash-muscatine-iowa-washington-county/526-27264472-eb21-4d30-a332-22fae831a299)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e08bfcb9-295d-4506-9dca-4b11163b443a/20241209T062935/e08bfcb9-295d-4506-9dca-4b11163b443a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e08bfcb9-295d-4506-9dca-4b11163b443a/20241209T062935/e08bfcb9-295d-4506-9dca-4b11163b443a_360x203.jpg)](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
         
-        #### [2 killed, including suspect, after police pursuit ends in head-on crash on US 218](https://www.wqad.com/article/news/crime/police-chase-head-on-crash-muscatine-iowa-washington-county/526-27264472-eb21-4d30-a332-22fae831a299)
+        #### [Galesburg family speaks out following armed home robbery](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+40°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
