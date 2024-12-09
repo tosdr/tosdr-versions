@@ -21,7 +21,7 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-11:10:50AM
+05:12:10PM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
@@ -57,6 +57,7 @@ Sun: ↑ 07:07AM ↓ 04:30PM (9h 22m) - [More info](https://time.is/North_Bergen
 * [Unix time converter](https://time.is/Unix_time_converter)
 
 * [Customize](https://time.is/customize)
+* [Time.is Ad-free](https://time.is/ad-free)
 * [FAQ](https://time.is/FAQ)
 * [How to use Time.is](https://time.is/howto)
 * [About](https://time.is/about)
@@ -68,7 +69,7 @@ Sun: ↑ 07:07AM ↓ 04:30PM (9h 22m) - [More info](https://time.is/North_Bergen
 
 [![Download on the App Store](/img/app_store_badge/Download_on_the_App_Store_Badge_US-UK_135x40.svg)](https://time.is/jump/ipadapp_footer)
 
-Time.is displays exact, official atomic clock time for any time zone (more than 7 million locations) in 57 languages.  
+Time.is displays exact, official atomic clock time for any time zone (more than 7 million locations) in 58 languages.  
 
 [What time is it?](https://time.is/?lang=en "English") [几点了？](https://time.is/?lang=zh "Chinese (simplified) / 中文") [क्या समय हुआ है?](https://time.is/?lang=hi "Hindi / हिंदी") [¿Qué hora es?](https://time.is/?lang=es "Spanish / español") [Quelle heure est-il ?](https://time.is/?lang=fr "French / français") [كم الساعة](https://time.is/?lang=ar "Arabic / العربية") [এখন কয়টা বাজে?](https://time.is/?lang=bn "Bengali / বাংলা") [Который час?](https://time.is/?lang=ru "Russian / русский") [Que horas são?](https://time.is/?lang=pt_br "Portuguese (Brazil) / português (Brasil)") [Jam berapa?](https://time.is/?lang=id "Indonesian / bahasa Indonesia") [Wieviel Uhr ist es?](https://time.is/?lang=de "German / Deutsch") [今何時ですか？](https://time.is/?lang=ja "Japanese / 日本語") [Saat kaç?](https://saatkac.info.tr/ "Turkish / Türkçe") [என்ன நேரம்?](https://time.is/?lang=ta "Tamil / தமிழ்") [؟ےہ اوہ تقو ایک](https://time.is/?lang=ur "Urdu / اردو زبان") [≫ more languages](https://time.is/languages)
 
