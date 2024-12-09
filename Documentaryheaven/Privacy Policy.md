@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![End of the Century: The Story of the Ramones](/wp-content/thumbnails/2855-100x70.jpg?x53432)
+* [![Factory City](/wp-content/thumbnails/10569-100x70.jpg?x53432)
     
-    End of the Century: The Story of the Ramones
+    Factory City
     
-    End of the Century: The Story of the Ramones is a 2003 documentary about the highly influential punk rock band the Ramones. The film, produced and directed by Jim Fields and Michael Gramaglia, follows](https://documentaryheaven.com/end-of-the-century-the-story-of-the-ramones/ "End of the Century: The Story of the Ramones")
-* [![Cat Wars](/wp-content/thumbnails/9384-100x70.jpg?x53432)
+    Have you ever wondered what it would be like to live where you work, no? neither have I and for most of us the idea would simply be unthinkable, but imagine living and working at one of the biggest fa](https://documentaryheaven.com/factory-city/ "Factory City")
+* [![The Naked Truth](/wp-content/thumbnails/2352-100x70.png?x53432)
     
-    Cat Wars
+    The Naked Truth
     
-    Cats are one of the most popular domesticated animals around and in the United Kingdom their numbers have dramatically risen over the last couple of years to around ten million. This number is vi](https://documentaryheaven.com/cat-wars/ "Cat Wars")
-* [![Tales Of The Grim Sleeper](/wp-content/thumbnails/11643-100x70.jpg?x53432)
+    Documentary The Naked Truth traces the origins of modern religions back to stories from numerous ancient civilizations. Due to the lack of science and facts, stories were created by our ancient ances](https://documentaryheaven.com/the-naked-truth/ "The Naked Truth")
+* [![Haughey](/wp-content/thumbnails/14693-100x70.jpg?x53432)
     
-    Tales Of The Grim Sleeper
+    Haughey
     
-    Lonnie Franklin lived on 81st Street in Western Avenue in South Central, Los Angeles, the poor part of town with the worst schools and the worst hospitals, with little to no jobs available. Everyone f](https://documentaryheaven.com/tales-of-grim-sleeper/ "Tales Of The Grim Sleeper")
-* [![Atom: The Illusion of Reality](/wp-content/thumbnails/1756-100x70.jpg?x53432)
+    Charles J. Haughey brought charisma and controversy to Irish politics, he inspired devotion and provoked division like few others had before him and this story contains tales of ambition, achievement](https://documentaryheaven.com/haughey/ "Haughey")
+* [![Why Am I Me?](/wp-content/thumbnails/664-100x70.png?x53432)
     
-    Atom: The Illusion of Reality
+    Why Am I Me?
     
-    In this three-part documentary series, Professor Jim Al-Khalili tells the story of one of the greatest scientific discoveries ever: that the material world is made up of atoms.Al-Khalili discovers](https://documentaryheaven.com/atom-illusion-of-reality/ "Atom: The Illusion of Reality")
-* [![Spice Girls: Giving You Everything](/wp-content/thumbnails/8826-100x70.jpg?x53432)
+    Professor Susan Greenfield tackles the big idea of human consciousness and asks the important question - why am I me? In this documentary, Greenfield takes a look at how the human brain generates cons](https://documentaryheaven.com/why-am-i-me/ "Why Am I Me?")
+* [![Chris Benoit: A Fight To The Death](/wp-content/thumbnails/10681-100x70.jpg?x53432)
     
-    Spice Girls: Giving You Everything
+    Chris Benoit: A Fight To The Death
     
-    Spice Girls were the first major British pop music phenomenon of the mid-'90s to not have a debt to independent pop/rock. Instead, the all-female quintet derived from the dance-pop tradition that made](https://documentaryheaven.com/spice-girls-giving-you-everything/ "Spice Girls: Giving You Everything")
+    Before anyone had heard of Vince McMahon, WWE Raw or Friday Night Smackdown, a true wrestling tradition took place on Friday nights in the Stampede Grounds of Calgary and some of those who wrestl](https://documentaryheaven.com/chris-benoit-fight-to-death/ "Chris Benoit: A Fight To The Death")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
