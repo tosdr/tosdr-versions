@@ -3,6 +3,7 @@ top of page
 [![Screenshot 2024-01-13 at 6_edited_edited](https://static.wixstatic.com/media/0a8e45_60ff7ca3bff3423584c62b64435f6fb5~mv2.jpg/v1/crop/x_0,y_0,w_460,h_260/fill/w_100,h_56,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_edited_edited.jpg)](https://www.blazeapp.net/)
 
 * [Feed](https://www.blazeapp.net/feed)
+* [eStore](https://www.blazeapp.net/category/all-products)
 * [App](https://www.blazeapp.net/mobile-app)
 * [Search](https://www.blazeapp.net/members-list)
 * [Clips](https://www.blazeapp.net/clips)
@@ -73,7 +74,7 @@ Effective Date: March 18, 2024
 
 [![Screenshot 2024-01-13 at 6.43_edited.jpg](https://static.wixstatic.com/media/0a8e45_1a959fe5f9fc43c3b4e3687396e3f72d~mv2.jpg/v1/fill/w_128,h_68,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_43_edited.jpg)](https://www.blazeapp.net/)
 
-![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_127,h_62,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
+![Screenshot 2024-01-13 at 6_edited.jpg](https://static.wixstatic.com/media/0a8e45_856d84efe5314fdd9ef32716c0c65a55~mv2.jpg/v1/fill/w_116,h_62,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/Screenshot%202024-01-13%20at%206_edited.jpg)
 
 The Flame of Social Media. Powered by WIX.
 
