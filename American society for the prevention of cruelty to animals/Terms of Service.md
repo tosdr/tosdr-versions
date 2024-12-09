@@ -329,3 +329,16 @@ The ASPCA is a 501(c)(3) non-for-profit organization. [Privacy Policy](https://w
 * [ASPCA Pet Health Insurance](https://www.aspca.org/about-us/strategic-cause-partnerships/aspca-pet-health-insurance)
     
     Underwritten by Independence American Insurance Company
+    
+
+ ![](https://www.aspca.org/sites/default/files/modal-mobile/holiday-plush_20241209_lightbox-mobile_0.jpg)
+
+[Claim Your Holiday Gift!](https://secure.aspca.org/donate/2024-holiday-plush-web-T1-P1?ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD)
+
+[**With a donation of $25, we’ll send you Joy, our exclusive holiday plush, as a thank you.**](https://secure.aspca.org/donate/2024-holiday-plush-web-T1-P1?ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD)
+
+[Claim Your Holiday Gift!](https://secure.aspca.org/donate/2024-holiday-plush-web-T1-P1?ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD)
+
+[**With a donation of $25, we’ll send you Joy, our exclusive holiday plush, as a thank you.**](https://secure.aspca.org/donate/2024-holiday-plush-web-T1-P1?ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD)
+
+[DONATE](https://secure.aspca.org/donate/2024-holiday-plush-web-T1-P1?ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD&ms=wb_con_lightbox-holidayplush-20241209&initialms=wb_con_lightbox-holidayplush-20241209&pcode=WEBMEMBER&lpcode=WEBGUARD)
