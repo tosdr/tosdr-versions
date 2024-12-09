@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Community
+
+### Longings for home drove Syria’s liberation](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1209/Longings-for-home-drove-Syria-s-liberation "Longings for home drove Syria’s liberation")
+
+[Prosperity
+
+### How a revered starchy side dish helped choose Ghana’s next president](https://www.csmonitor.com/World/Africa/2024/1209/ghana-election-president-john-mahama-mahamudu-bawumia "How a revered starchy side dish helped choose Ghana’s next president")
+
 [Generosity
 
 ### A peek into ‘boundless’ generosity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1206/A-peek-into-boundless-generosity "A peek into ‘boundless’ generosity")
-
-[Responsibility
-
-### Record drought and blazes? The US Northeast awakens to new wildfire risks.](https://www.csmonitor.com/Environment/2024/1206/northeast-drought-wildfires-climate "Record drought and blazes? The US Northeast awakens to new wildfire risks.")
-
-[Joy
-
-### Five years after fire, a shining Notre Dame is ready to reopen its doors](https://www.csmonitor.com/World/Europe/2024/1206/notre-dame-cathedral-fire-paris "Five years after fire, a shining Notre Dame is ready to reopen its doors")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Ousted Syrian President reportedly in Moscow after rebel takeover](https://www.csmonitor.com/World/Middle-East/2024/1208/Ousted-Syrian-President-reportedly-in-Moscow-after-rebel-takeover "Ousted Syrian President reportedly in Moscow after rebel takeover")
+[### What next for leaderless Syria, once the Mideast’s hub?](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-hezbollah-iran-mideast-trump "What next for leaderless Syria, once the Mideast’s hub?")
 
-[### UnitedHealthcare tragedy sparks conversations about insurance reform](https://www.csmonitor.com/USA/Society/2024/1208/UnitedHealthcare-tragedy-sparks-conversations-about-insurance-reform "UnitedHealthcare tragedy sparks conversations about insurance reform")
+[### How a revered starchy side dish helped choose Ghana’s next president](https://www.csmonitor.com/World/Africa/2024/1209/ghana-election-president-john-mahama-mahamudu-bawumia "How a revered starchy side dish helped choose Ghana’s next president")
 
-[### How farming is transforming lives for South Africa’s deaf population](https://www.csmonitor.com/World/Africa/2024/1208/How-farming-is-transforming-lives-for-South-Africa-s-deaf-population "How farming is transforming lives for South Africa’s deaf population")
+[### Netanyahu’s corruption trial started four years ago. Why is he taking the stand now?](https://www.csmonitor.com/World/Middle-East/2024/1209/Netanyahu-Gaza-Israel-war-testify-corruption-trial "Netanyahu’s corruption trial started four years ago. Why is he taking the stand now?")
 
 * * *
 
