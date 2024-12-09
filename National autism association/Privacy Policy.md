@@ -41,7 +41,7 @@
         * [Autism ATRIUM Digital Library](https://nationalautismassociation.org/downloadable-resources/)
         * [NAA’s Big Red Safety Box®](https://nationalautismassociation.org/big-red-safety-box/)
         * [NAA’s Big Red Safety Teacher Toolkit®](https://nationalautismassociation.org/big-red-safety-box/naas-big-red-safety-teacher-toolkit-now-available/)
-        * [NAA’s Give A Voice Program](https://nationalautismassociation.org/family-support/programs/naas-give-a-voice-program/)
+        * [NAA’s Give A Voice Program](https://nationalautismassociation.org/?page_id=2232)
         * [SPOT ASD by 3](https://nationalautismassociation.org/spot-asd-by-3/)
         * [Meet The Police](https://nationalautismassociation.org/meet-the-police/)
     * [Downloadable Toolkits & Resources](#)
