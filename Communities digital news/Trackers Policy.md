@@ -26,9 +26,9 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-1200x630.jpg)](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kelly-1200x630.jpg)](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
 
-[Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+[Megyn Kelly sets record straight on rumors of new CBS show challenging ‘The View’](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-assad-1200x630.jpg)](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
 
@@ -60,11 +60,9 @@ Images via Butte County Sheriff's Office
 
 [Two Calif. kindergartners shot at Christian school over alleged Gaza ‘genocide’](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-1200x630.jpeg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-1200x630.jpg)
 
-(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)
-
-### Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+### Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -86,18 +84,6 @@ Images via Butte County Sheriff's Office
 
 [CNN’s Jake Tapper shut down by GOP senator when he peddles Hegseth ‘drinking problem’ narrative](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-220x180.jpg)](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
-
-[Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-220x180.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
-
-[‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-220x180.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
-
-[Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-austinlloyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
 
 [Biden regime emptying wallet with another $988M earmarked for Ukraine](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
@@ -105,10 +91,6 @@ Images via Butte County Sheriff's Office
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-boltoncnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
 
 [‘He’s lying’: Slimeball John Bolton insinuates Syrian intrigue with Tulsi Gabbard](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
-
-[Megyn Kelly sets record straight on rumors of new CBS show challenging ‘The View’](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jennings-scaramucci-220x180.jpg)](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
 
@@ -181,6 +163,24 @@ Images via NYPD
 [As China floods U.S. market with illegal vapes, the International Trade Commission is poised to make it worse](https://americanwirenews.com/as-china-floods-u-s-market-with-illegal-vapes-the-international-trade-commission-is-poised-to-make-it-worse/)
 
 CFOTO/Future Publishing via Getty Images
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-collins-blanche-220x180.jpg)](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+
+[Trump deputy AG pick under fire when he’s ‘caught red-handed’ with anti-Trump CNN host](https://americanwirenews.com/trump-deputy-ag-pick-under-fire-when-hes-caught-red-handed-with-anti-trump-cnn-host/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-2188444461-1-220x180.jpg)](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+
+[Joe Biden gets weird during Christmas tree lighting: ‘You’re still here?’](https://americanwirenews.com/joe-biden-gets-weird-during-christmas-tree-lighting-youre-still-here/)
+
+(Photo by Kevin Dietsch/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/06/SG-Milley-220x180.jpg)](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
+
+[WH officials reportedly considering pre-emptive pardon for Gen. Milley and more](https://americanwirenews.com/wh-officials-reportedly-considering-pre-emptive-pardon-for-gen-milley-and-more/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
+
+[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -268,11 +268,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trump-briefing-1200x630.jpeg)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
 
-(Official White House Photo by Tia Dufour)
+[‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
 
-[White House press corps talks ‘boycott’ over report Trump may ‘disrupt’ briefing room pecking order](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-220x180.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+
+[‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+
+[Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-trump-briefing-220x180.jpeg)](https://americanwirenews.com/white-house-press-corps-talks-boycott-over-report-trump-may-disrupt-briefing-room-pecking-order/)
 
@@ -287,14 +293,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/04/sg-speakermjohnson-1200-x-628-220x180.jpg)](https://americanwirenews.com/speaker-johnson-says-no-more-funding-for-ukraine-until-trump-provides-new-direction/)
 
 [Speaker Johnson says no more funding for Ukraine until Trump provides ‘new direction’](https://americanwirenews.com/speaker-johnson-says-no-more-funding-for-ukraine-until-trump-provides-new-direction/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penn-bidens-220x180.jpg)](https://americanwirenews.com/sean-penn-faults-trumps-dangerous-clown-show-for-biden-pardoning-close-pal-hunter/)
-
-[Sean Penn faults Trump’s ‘dangerous clown show’ for Biden pardoning ‘close’ pal Hunter](https://americanwirenews.com/sean-penn-faults-trumps-dangerous-clown-show-for-biden-pardoning-close-pal-hunter/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joy-reid-220x180.jpg)](https://americanwirenews.com/joy-reid-takes-issue-with-gangster-trump-pushing-hamas-to-release-us-hostages/)
-
-[Joy Reid takes issue with ‘gangster’ Trump pushing Hamas to release US hostages](https://americanwirenews.com/joy-reid-takes-issue-with-gangster-trump-pushing-hamas-to-release-us-hostages/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -324,9 +322,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-thompson-sg-crime-scene-1200x630.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-1200x630.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
-[UnitedHealthcare CEO fatally gunned down in NYC, police suspect ‘targeted attack’](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
+[Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-220x180.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+
+[Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-thompson-sg-crime-scene-220x180.jpg)](https://americanwirenews.com/unitedhealthcare-ceo-fatally-gunned-down-in-nyc-police-suspect-targeted-attack/)
 
@@ -345,9 +347,5 @@ Getty Images](https://americanwirenews.com/welcome-to-california-british-rock-ba
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-nypd-220x180.jpg)](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
 
 [Over 1,000 suspected illegal alien gang members receiving big perks from taxpayers in NYC: report](https://americanwirenews.com/over-1000-suspected-illegal-alien-gang-members-receiving-big-perks-from-taxpayers-in-nyc-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-little-girl-tantrum-220x180.jpg)](https://americanwirenews.com/little-girls-epic-walmart-smashing-stomping-tantrum-leaves-adults-dumbstruck/)
-
-[Little girl’s epic Walmart smashing, stomping tantrum leaves adults dumbstruck](https://americanwirenews.com/little-girls-epic-walmart-smashing-stomping-tantrum-leaves-adults-dumbstruck/)
 
 © 2024. All Rights Reserved. American Wire News
