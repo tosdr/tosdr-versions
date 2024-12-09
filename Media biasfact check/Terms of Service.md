@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 9, 2024 | Media News Daily: Top Stories for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/media-news-daily-top-stories-for-12-09-2024/ "Media News Daily: Top Stories for 12/09/2024")
+* [December 9, 2024 | MBFC’s Daily Vetted Fact Checks for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/mbfcs-daily-vetted-fact-checks-for-12-09-2024/ "MBFC’s Daily Vetted Fact Checks for 12/09/2024")
 * [December 8, 2024 | MBFC’s Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)")
 * [December 7, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 1st – DEC 7th](https://mediabiasfactcheck.com/2024/12/07/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-1st-dec-7th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 1st – DEC 7th")
 * [December 7, 2024 | MBFC’s Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/07/mbfcs-daily-vetted-fact-checks-for-12-07-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)")
-* [December 6, 2024 | Media News Daily: Top Stories for 12/06/2024](https://mediabiasfactcheck.com/2024/12/06/media-news-daily-top-stories-for-12-06-2024/ "Media News Daily: Top Stories for 12/06/2024")
-* [December 6, 2024 | MBFC’s Daily Vetted Fact Checks for 12/06/2024](https://mediabiasfactcheck.com/2024/12/06/mbfcs-daily-vetted-fact-checks-for-12-06-2024/ "MBFC’s Daily Vetted Fact Checks for 12/06/2024")
 
 Search for:  
 
@@ -147,6 +147,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/)
+    
+    December 9, 2024
+    
 * [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/)
     
     December 8, 2024
@@ -175,13 +179,13 @@ No related posts.
     
     December 7, 2024
     
-* [Der Status – Bias and Credibility](https://mediabiasfactcheck.com/der-status-bias-and-credibility/)
-    
-    December 7, 2024
-    
 
 #### Recently Updated Pages
 
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 9, 2024
+    
+* [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/ "View Clearfield Progress – Bias and Credibility") - December 9, 2024
+    
 * [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 8, 2024
     
 * [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/ "View Warsaw Voice – Bias and Credibility") - December 8, 2024
@@ -198,10 +202,6 @@ No related posts.
     
 * [Bunbury Mail – Bias and Credibility](https://mediabiasfactcheck.com/bunbury-mail-bias/ "View Bunbury Mail – Bias and Credibility") - December 8, 2024
     
-* [Wellington Post – Bias and Credibility](https://mediabiasfactcheck.com/wellington-post-bias-and-credibility/ "View Wellington Post – Bias and Credibility") - December 8, 2024
-    
-* [PCMag – Bias and Credibility](https://mediabiasfactcheck.com/pcmag-bias-and-credibility/ "View PCMag – Bias and Credibility") - December 7, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -209,12 +209,12 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [MBFC's Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 * [Al Jazeera - Bias and Credibility](https://mediabiasfactcheck.com/al-jazeera/)
+* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
 #### Subscribe via Email
 
