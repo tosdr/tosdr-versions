@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/wauw-59-miljoen-x-hoe-nu-verder-krant/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/dutroux-en-de-dode-getuigen/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
