@@ -79,7 +79,6 @@ Delivery cost from
         * [Growatt](https://sps24.eu/en/menu/photovoltaics/inverters/growatt-4037.html "Growatt")
         * [Tigo](https://sps24.eu/en/menu/photovoltaics/inverters/tigo-4049.html "Tigo")
         * [KOSTAL](https://sps24.eu/en/menu/photovoltaics/inverters/kostal-4564.html "KOSTAL")
-        * [Victron Energy](https://sps24.eu/en/menu/photovoltaics/inverters/victron-energy-4807.html "Victron Energy")
         * [Deye](https://sps24.eu/en/menu/photovoltaics/inverters/deye-4819.html "Deye")
         * \+ Show all
     * [Optimizers](https://sps24.eu/en/menu/photovoltaics/optimizers-3681.html "Optimizers")
@@ -289,7 +288,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=8a1c87aeb475a8d21b042d16d5cef924)
+![pixel](https://client4733.idosell.com/checkup.php?c=ed1f43a7631196ef19535bb469fb7adf)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
