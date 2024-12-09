@@ -1,6 +1,6 @@
 None
 
-Black Friday is here[Shop now](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c?id=pcmcat225600050002)
+Your home for all the dealsLimited quantities. No rainchecks.[Shop now](https://www.bestbuy.com/site/clp/sale-page/pcmcat185700050011.c?id=pcmcat185700050011)
 
 [Skip to content](#headerskip "Skip to content")
 
