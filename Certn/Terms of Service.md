@@ -102,6 +102,7 @@ Error
 * [Income Verification Terms of Use](#contract-sjctngdzke)
 * [Conditions D'Utilisation Du Demandeur](#contract-hk1b1gfm1g)
 * [FCRA Disclosure](#contract-hyxjlua1jl)
+* [NYC Fair Housing Notice](#contract-skzxxyyfye)
 
 Test Contract 2
 ---------------
@@ -2579,7 +2580,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective December 3rd 2024
+##### Effective December 9th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -6214,6 +6215,139 @@ FCRA Disclosure
 **CONSUMER REPORT**
 
 {{company\_name}} (the “**Company**") has requested a "consumer report" on you for the purpose of {{purpose}}, through [Certn](https://certn.co/) (a consumer reporting agency). A "**consumer report**" is a background screening report that may contain information regarding your domestic and international background history, including but not limited to, your social security number and identification documents, criminal history, sex offender registry status, credit history, employment history, education history, driving history, professional licenses, drug testing results and other information about you.
+
+  
+
+NYC Fair Housing Notice
+-----------------------
+
+### Version 2.0
+
+##### Effective December 9th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/67572cb14189a5fd3c03396d.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+Int. No. 632-A
+
+Section 1. The administrative code of the city of New York is amended by adding a new section 8-102a to read as follows:
+
+8-102a. For purposes of paragraph (o) of subdivision 5 of section 8-107, the following terms have the following meanings:
+
+Criminal background check. The term “criminal background check” means the following actions:
+
+1\. Asking an individual, orally or in writing, if they have a criminal history;
+
+2\. Searching publicly available records, including through a third party, such as a consumer reporting agency, private database, or website, for information about an individual’s criminal history; or
+
+3\. Otherwise gathering records or information relating to an individual’s criminal history.
+
+Criminal history. The term “criminal history” means an individual’s conviction history, non-convictions and excludable matters, and pending cases.
+
+Excludable matters. The term “excludable matters” means:
+
+1\. A criminal action that was resolved in favor of an individual, including actions concluded in one of the following ways:
+
+(a) Termination in favor of the individual;
+
+(b) Adjudication as a youthful offender or for juvenile delinquency;
+
+(c) Conviction of a violation; or
+
+(d) Conviction that has been sealed;
+
+2\. Criminal charges pending for which a court has issued an adjournment in contemplation of dismissal pursuant to sections 170.55, 170.56, 210.46, 210.47, or 215.10 of the New York criminal procedure law, or pursuant to a comparable law of another jurisdiction that is in effect; and
+
+3\. A disposition of a criminal matter under federal law or the laws of another jurisdiction that results in a status comparable to what results from an “excludable matter” under New York law.
+
+Pending case. The term “pending case” means a criminal accusation or an arrest based on a criminal accusation that has not yet been adjudicated to a verdict or dismissed at the time the criminal background check or analysis is conducted by a covered entity. An action that has been adjourned in contemplation of dismissal shall not be considered a pending case unless, prior to the time the criminal background check or analysis is conducted by a covered entity the order to adjourn in contemplation of dismissal is revoked and the case is restored to the calendar for further prosecution.
+
+Reviewable criminal history. 1. The term “reviewable criminal history” means:
+
+(a) Any conviction registered on the New York sex offense registry maintained by the state division of criminal justice services pursuant to section 168b of the New York corrections law, on the federal sex offense registry created pursuant to section 20902 of title 34 of the United States code, or on a register in any other jurisdiction for which an individual is required to register as a sex offender;
+
+(b) Any other misdemeanor conviction under the laws of New York or another jurisdiction where less than three years have passed from (a) the date of release from incarceration, or (b) the date of sentencing for an individual who was not sentenced to a period of incarceration;
+
+(c) Any other felony conviction under the laws of New York or another jurisdiction where less than five years have passed from (a) the date of release from incarceration, or (b) the date of sentencing for an individual who was not sentenced to a period of incarceration.
+
+2\. However, the term “reviewable criminal history” shall not include:
+
+(a) Convictions that have been sealed, expunged, the subject of an executive pardon, the subject of a certificate of relief from disabilities, or otherwise legally nullified or vacated;
+
+(b) Convictions in another jurisdiction for (i) having sought, obtained, provided, or facilitated reproductive or gender-affirming care, as defined in section 10-184.1 of the administrative code, outside the state of New York under circumstances where the conduct would have been lawful had it occurred in the state of New York; (ii) having engaged in “legally protected health activity” as defined in section 570.17 of the New York criminal procedure law; or (iii) conviction for the possession of cannabis that would not constitute a felony in the state of New York; or
+
+(c) Excludable matters.
+
+§ 2. Subdivision 5 of section 8-107 of title 8 of the administrative code of the city of New York is amended by adding a new paragraph (o) to read as follows:
+
+(o) _Protections based on criminal history; housing._
+
+(1) It shall be an unlawful discriminatory practice for the owner, lessor, lessee, sublessee, assignee, or managing agent of, or other person having the right to sell, rent or lease or approve the sale, rental or lease of a housing accommodation, constructed or to be constructed, or an interest therein, or any agent or employee thereof, or any real estate broker or agent or employee thereof to:
+
+(A) Refuse to sell, rent, lease, approve the sale, rental or lease or otherwise deny to or withhold from any individual such a housing accommodation or an interest therein because of such individual’s criminal history, other than an individual’s reviewable criminal history obtained and considered in conformity with this paragraph;
+
+(B) Discriminate against any individual in the terms, conditions, or privileges of the sale, rental, or lease of any such housing accommodation or an interest therein or in the furnishing of facilities or services in connection therewith, because of such individual’s criminal history;
+
+(C) Represent to any individual that any housing accommodation or an interest therein is not available for inspection, sale, rental, or lease because of such individual’s criminal history, except when consideration of such criminal history is permitted by, and the covered entity has complied with, the procedures required under this paragraph;
+
+(D) Declare, print, or circulate, or cause to be declared, printed, or circulated, any statement, advertisement, or publication, or use any form of application for the purchase, rental or lease of such a housing accommodation or an interest therein, which expresses, directly or indirectly, any limitation, specification, or discrimination in housing because of an individual’s criminal history; except as permitted under this paragraph; or
+
+(E) Conduct a criminal background check in connection with the prospective purchase, or prospective or continuing rental or lease, of a housing accommodation, except where conducted in conformity with this paragraph.
+
+(2) Nothing in subparagraph (1) shall prohibit a covered entity from taking any lawful adverse action against an individual, including a current occupant, for reasons other than such individual’s criminal history, including acts of physical violence committed by such individual against other persons or property on the premises, or other acts that would adversely affect the health, safety, or welfare of other residents, nor shall such paragraph excuse a covered entity from complying with applicable laws relating to victims of domestic violence, sex offenses, or stalking.
+
+(3) Nothing in subparagraph (1) shall:
+
+(A) Prohibit a covered entity from making any statement, communication, advertisement, publication, or application that is required or specifically authorized by a federal, state or local law, rule, or regulation, provided that any such statement, communication, advertisement, publication, or application shall include a citation to the law, rule, or regulation that requires or permits such action;
+
+(B) Prohibit a covered entity from denying a housing accommodation based on an individual’s criminal history where such denial is required or specifically authorized by federal, state, or local law, rule, or regulation, provided that such covered entity shall provide such individual with notice of the law, rule, or regulation that requires or specifically authorizes such action and, where the law permits but does not require an adverse action, provided that such covered entity complies with the requirements of subparagraphs (4), (5), and (6) of this paragraph; or
+
+(C) Prohibit a covered entity from conducting a criminal background check pursuant to any federal, state, or local law, rule, or regulation that requires or specifically authorizes a criminal background check for housing eligibility, provided that, where the law permits but does not require an adverse action, such covered entity complies with the requirements of subparagraphs (4), (5), and (6) of this paragraph.
+
+(4) _Preliminary determination and notice of criminal background check._ Except where following this process would conflict with a requirement of federal or state law, rule, or regulation, a covered entity that intends to conduct a criminal background check of an individual in connection with a prospective purchase, or prospective or continuing rental or lease of a housing accommodation, shall not conduct such criminal background check until such covered entity has taken the following actions:
+
+(A) In the case of a transaction involving the purchase of housing or shares in housing, the seller has accepted an offer and agreed in writing that the seller will not revoke the acceptance or change the conditions of the deal on the basis of the buyer’s criminal history except as permitted by this paragraph;
+
+(B) In the case of any other transaction involving lease or rental, the covered entity has provided to such individual a rental or lease agreement that commits the housing accommodation to the applicant, which may only be revoked based on a criminal background check conducted in accordance with the fair chance housing process set forth in subparagraph (5), or upon an unrelated material omission, misrepresentation, or change in the qualifications for tenancy that was not known at the time of the conditional offer;
+
+(C) In all such cases, has provided such individual notice of such criminal background check and a written copy of the city’s fair chance housing notice summarizing the rights in this paragraph, which shall be created and made publicly available by the commission.
+
+(5) _Fair chance housing process._ After providing notice of a criminal background check, and prior to taking any adverse action because of an individual’s reviewable criminal history, and except where such action conflicts with a requirement of federal or state law, rule, or regulation, the covered entity shall:
+
+(A) Provide the applicant a written copy of:
+
+(i) Any information or records about reviewable criminal history based on which the covered entity intends to take adverse action;
+
+(ii) Any information about such individual’s criminal history, other than their reviewable criminal history, that the covered entity received, even if the covered entity did not consider such information in making its determination; and
+
+(iii) Provide notice that such individual may, no later than five business days following the receipt of such information, submit to the covered entity any information identifying errors in the criminal history information provided by the covered entity, and any supplemental or mitigating information in support of their application for purchase, rental, or lease.
+
+(6) _Adverse action based on reviewable criminal history._ If, after conducting the fair chance housing process pursuant to subparagraph (5) of this paragraph, a covered entity considers taking adverse action because of an individual’s reviewable criminal history, such covered entity shall first:
+
+(A) Conduct an individualized assessment of the individual’s reviewable criminal history and timely information submitted by such individual pursuant to subparagraph (5) of this paragraph; and
+
+(B) Provide such individual with a written copy of the reason for the adverse action, including:
+
+(i) A copy of supporting documents that were reviewed; and
+
+(ii) A written statement of the reason for such adverse action, demonstrating: (i) how the individual’s reviewable criminal history is relevant to a legitimate business interest of the property owner, and (ii) how any information submitted in support of such individual’s tenancy was taken into account.
+
+(7) If a covered entity utilizes a third party to conduct a consumer background check or criminal background check on their behalf, such covered entity shall take reasonable steps to ensure that such check is conducted consistent with the provisions of this paragraph. Except where a covered entity’s actions are required or authorized pursuant to federal, state, or local law, a covered entity may be liable for relying on criminal history other than reviewable criminal history if the covered entity failed to take reasonable steps to ensure compliance with this paragraph. Where a covered entity knowingly receives criminal history information other than reviewable criminal history information, such receipt creates a rebuttable presumption that the covered entity relied on such information in violation of this paragraph, which such covered entity may rebut by affirmatively showing that they complied with the fair housing process described in subparagraphs (4), (5), and (6) and did not rely on such information in making a determination about a sale, rental, or lease.
+
+(8) This paragraph shall not apply to the sale or rental of:
+
+(A) A housing accommodation, other than a publicly-assisted housing accommodation, in a building that contains housing accommodations for not more than two families living independently of each other, if the owner or members of the owner's family reside in one of such housing accommodations; or
+
+(B) A room or rooms in a housing accommodation, other than a publicly-assisted housing accommodation, if such rental is by the occupant of the housing accommodation or by the owner of the housing accommodation and the owner or members of the owner's family reside in such housing accommodation.
+
+(9) A covered entity shall be immune from liability in any civil action arising as a result of an alleged act of an individual with a criminal history based on the claim that the covered entity should not have sold, rented or leased, or otherwise granted a housing accommodation or an interest therein, to such individual or as a result of a covered entity's decision not to perform a criminal background check.
+
+§ 3. This local law takes effect January 1, 2025.
 
   
 
