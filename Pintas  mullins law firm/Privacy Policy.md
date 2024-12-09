@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is mesothelioma a type of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-mesothelioma-a-type-of-lung-cancer.jpg "Is Mesothelioma a Type of Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/ "Is Mesothelioma a Type of Lung Cancer?")
+[![What are the symptoms of stage 4 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-symptoms-of-stage-4-lung-cancer.jpg "What Are the Symptoms of Stage 4 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/ "What Are the Symptoms of Stage 4 Lung Cancer?")
 
-[#### Is Mesothelioma a Type of Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/)
+[#### What Are the Symptoms of Stage 4 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/)
+
+[![How much money is left in the asbestos trust fund?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-how-much-money-is-left-in-the-asbestos-trust-fund.jpg "How Much Money Is Left in the Asbestos Trust Fund?")](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund "How Much Money Is Left in the Asbestos Trust Fund?")
+
+[#### How Much Money Is Left in the Asbestos Trust Fund?](https://www.pintas.com/practice-areas/lung-cancer/asbestos-trust-fund)
 
 [![What test shows mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-test-shows-mesothelioma-scaled.jpg "What Test Shows Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/ "What Test Shows Mesothelioma?")
 
 [#### What Test Shows Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-test-shows-mesothelioma/)
-
-[![Can you sue for ovarian cancer caused by talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-you-sue-for-ovarian-cancer-caused-by-talcum-powder-scaled.jpg "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/ "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")
-
-[#### Can You Sue for Ovarian Cancer Caused By Talcum Powder?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/)
 
 ### Injured?  
 Tell Us What Happened.
