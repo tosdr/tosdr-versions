@@ -536,7 +536,7 @@ We have a variety of ways of enforcing our rules, including, but not limited to
     * [Careers](https://redditinc.com/careers)
     * [Investors](http://investor.redditinc.com/?_ga=2.107038017.278986563.1723437500-874118656.1723006889)
     * [Press Contact](https://redditinc.com/press)
-    * [Blog](https://redditinc.com/blog)
+    * [News](https://redditinc.com/blog)
     * [r/RDDT](https://www.reddit.com/r/RDDT/)
 * [Community](javascript:;)
     * [Reddit.com](https://www.reddit.com/r/reddit/)
