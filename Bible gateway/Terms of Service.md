@@ -41,7 +41,7 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[THE BEST DEAL in digital Bible study is here. Start for FREE.](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_bestdeal20241111)
+[Lee Strobel answers questions about faith. Subscribe now for weekly insights!](https://www.biblegateway.com/landing/investigating_faith/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_strobel20241111)
 
 close
 
