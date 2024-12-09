@@ -406,9 +406,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ When you destroy art, you make it stronger”
+“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
 
-[Jens Galschiot](https://en.wikipedia.org/wiki/Jens_Galschi%C3%B8t)
+[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
 
 [](https://www.adafruit.com/about)
 
