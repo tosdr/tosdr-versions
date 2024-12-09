@@ -1638,7 +1638,7 @@ We can't wait to see what you build.
 
 * [Legal](https://www.twilio.com/en-us/legal/tos)
 * [Privacy (Updated)](https://www.twilio.com/en-us/legal/privacy)
-* [Twilio.org](https://www.twilio.org/)
+* [Twilio.org](https://segment.com/content/twilio-org/us/en.html)
 * [Press & Media](https://segment.com/en-us/press)
 * [Signal](https://signal.twilio.com/?_ga=2.112150148.1826591240.1667227419-607057990.1661885030)
 * [Investors](https://investors.twilio.com/overview/default.aspx?_ga=2.112150148.1826591240.1667227419-607057990.1661885030)
