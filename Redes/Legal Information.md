@@ -78,15 +78,25 @@ Idioma
 
 Un punto y seguido en la transformación digital
 
-   ![Banner Kit Consulting. ](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Banner%20home_KC_robot_v2%281%29.jpg?h=72a17d3f&itok=X1cc0LHg)
+   ![Medianas Empresas Kit Digital](/sites/redes/files/styles/mosaico_grande_dcha_sm/public/media/images/Home_KD.png?h=980ddcd4&itok=xzCXFOq7)
+
+Noticia
+
+Transformación Digital PYMES
+
+Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas
+
+A partir del 12 de diciembre a las 11 horas, las empresas podrán solicitar su bono digital. El plazo estará abierto hasta el 30 de junio de 2025 
+
+[Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas](http://red.es/es/actualidad/noticias/convocatoria-kitdigital-medianas-empresas "Ir al contenido de: Red.es presenta la nueva convocatoria de Kit Digital dirigida a medianas empresas  ")
+
+![Banner Kit Consulting. ](/sites/redes/files/styles/ratio_1_1/public/media/images/Banner%20home_KC_robot_v2%281%29.jpg?h=98feb221&itok=fNri1jHG)
 
 Noticia
 
 Transformación Digital PYMES
 
 Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting
-
-El programa tendrá el plazo de solicitud abierto hasta el 28 de febrero de 2025
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
@@ -100,8 +110,6 @@ Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el p
 
 [Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health](http://red.es/es/actualidad/noticias/modelo-seguimiento-pacientes-cronicos-impulsado-por-redes-recibe-premio-ennova-health "Ir al contenido de: Un modelo de seguimiento de pacientes crónicos impulsado por Red.es recibe el premio Ennova Health")
 
-![Descubre a las empresas del Pabellón de España MWC 2025](/sites/redes/files/styles/ratio_1_1/public/media/images/Anuncio%20empresas%20MWC%20RRSS%20%2B%20Web%20v6B_800%20x%20442_web.png?h=96281f56&itok=yfdzvKKB)
-
 Noticia
 
 Internacionalización
@@ -109,14 +117,6 @@ Internacionalización
 Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025
 
 [Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025](http://red.es/es/actualidad/noticias/redes-selecciona-50-empresas-pabellon-de-espana-mwc-2025 "Ir al contenido de: Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025")
-
-Noticia
-
-Transformación Digital PYMES
-
-Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital
-
-[Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-pueden-solicitar-el-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital")
 
 Noticia
 
