@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Tone it Down a Notch!](https://www.somethingawful.com/photoshop-phriday/tone-down-notch/1/)
-* [Travel Mixups](https://www.somethingawful.com/photoshop-phriday/travel-mixups/1/)
-* [Payneify the Planet](https://www.somethingawful.com/photoshop-phriday/payneify-the-planet/1/)
-* [Awful Propaganda Part 1](https://www.somethingawful.com/photoshop-phriday/awful-propaganda-1/)
-* [Important Photograph!](https://www.somethingawful.com/photoshop-phriday/creepy-wayne-baby/)
+* [Dawn of the Planet of the Apes; Snowpiercer, Mrs. Brown's Boys D'Movie](https://www.somethingawful.com/current-movie-reviews/apes-snowpiercer/)
+* [DickFlash.com](https://www.somethingawful.com/weekend-web/flashing-forum/1/)
+* [2011: A Year in Which Movies Were Released](https://www.somethingawful.com/current-movie-reviews/best-movies-2011/1/)
+* [Remove One Lettr! (Part 2 of 3)](https://www.somethingawful.com/photoshop-phriday/remove-letter-lettr/1/)
+* [The Smart Box](https://www.somethingawful.com/icq-pranks/icq-transcript-smart/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Hawk Tuah](http://forums.somethingawful.com/showthread.php?threadid=4077096 "Hawk Tuah")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Should Jeffrey change the name](http://forums.somethingawful.com/showthread.php?threadid=4077091 "Should Jeffrey change the name")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Who's the killer in the back of the taxi?](http://forums.somethingawful.com/showthread.php?threadid=4077110 "Who's the killer in the back of the taxi?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Have you ever gotten drunk and put a lampshade on your head?](http://forums.somethingawful.com/showthread.php?threadid=4077085 "Have you ever gotten drunk and put a lampshade on your head?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/gross.png) [Hawk Tuah](http://forums.somethingawful.com/showthread.php?threadid=4077096 "Hawk Tuah")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Who's the killer in the back of the taxi?](http://forums.somethingawful.com/showthread.php?threadid=4077110 "Who's the killer in the back of the taxi?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Should Jeffrey change the name](http://forums.somethingawful.com/showthread.php?threadid=4077091 "Should Jeffrey change the name")
 
 ### Random Articles
 
-* [Manimated Productions](https://www.somethingawful.com/awful-links/alod_manimated/)
-* [Thatcher's Thunders](https://www.somethingawful.com/awful-links/awful-link-3095/)
-* [The Future is Here!](https://www.somethingawful.com/comedy-goldmine/future-facts-rosen/1/)
-* [Stalag99](https://www.somethingawful.com/awful-links/awful-link-3339/)
-* [Celebrity Sightings: Ricky Gervais](https://www.somethingawful.com/news/ricky-gervais-spotted/)
+* [X-Men: Days of Future Past; Blended; Million Dollar Arm](https://www.somethingawful.com/current-movie-reviews/days-future-past/1/)
+* [Mike Vanderjagt: A Career Retrospective](https://www.somethingawful.com/pregame-wrapup/mike-vanderjagt-career/)
+* [Pop's Vietnam Slides](https://www.somethingawful.com/comedy-goldmine/pops-vietnam-slides/1/)
+* [The Ultra League - Keeping Humanity Safe Since 2002](https://www.somethingawful.com/awful-links/awful-link-2074/)
+* [Alternative Explanations For The PSN Outage](https://www.somethingawful.com/video-game-article/playstation-network-outage/)
 
 [Random!](https://www.somethingawful.com/random/)
 
