@@ -153,35 +153,35 @@
 
 ### 最近 30 天的热门内容
 
-* [![CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 5](https://www.appinn.com/wp-content/uploads/2020/10/cleanshot-x.jpgo_-115x115.jpg "CleanShot X - 专业 Mac 截图、录屏神器，双11限时 8 折优惠中 5")](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
-    
-    [CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 …](https://www.appinn.com/cleanshot-x-for-macos/ "CleanShot X – 专业 Mac 截图、录屏神器，双11限时 8 折优惠中")
-    
-    11 月 7, 2024 3
-    
-* [![29 年后，正版 WinRAR 终于来了 6](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-28T141542.151-115x115.jpg "29 年后，正版 WinRAR 终于来了 6")](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
-    
-    [29 年后，正版 WinRAR 终于来了](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
-    
-    11 月 28, 2024 2
-    
-* [![双 11 榜单，哪些软件买的人最多 7](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 7")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
-    
-    [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
-    
-    11 月 12, 2024 2
-    
-* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 8](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 8")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
+* [![首发限免 | Aiarty Image Matting：轻松实现抠图换背 5](https://www.appinn.com/wp-content/uploads/2024/11/Aiarty-Image-Matting-115x115.jpg "首发限免 | Aiarty Image Matting：轻松实现抠图换背 5")](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
     
     [首发限免 | Aiarty Image Matting：轻松实现抠图换背](https://www.appinn.com/aiarty-image-matting/ "首发限免 | Aiarty Image Matting：轻松实现抠图换背")
     
     11 月 22, 2024 2
     
-* [![MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-20T113940.399-115x115.jpg "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 9")](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
+* [![双 11 榜单，哪些软件买的人最多 6](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-12T142028.247-115x115.jpg "双 11 榜单，哪些软件买的人最多 6")](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
+    
+    [双 11 榜单，哪些软件买的人最多](https://www.appinn.com/241111-lizhi-final/ "双 11 榜单，哪些软件买的人最多")
+    
+    11 月 12, 2024 2
+    
+* [![29 年后，正版 WinRAR 终于来了 7](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-28T141542.151-115x115.jpg "29 年后，正版 WinRAR 终于来了 7")](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
+    
+    [29 年后，正版 WinRAR 终于来了](https://www.appinn.com/winrar/ "29 年后，正版 WinRAR 终于来了")
+    
+    11 月 28, 2024 2
+    
+* [![MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 8](https://www.appinn.com/wp-content/uploads/2024/11/Appinn-Feature-images-2024-11-20T113940.399-115x115.jpg "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件 8")](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
     
     [MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件](https://www.appinn.com/mailcatcher/ "MailCatcher：超简单 SMTP 测试服务器，轻松捕获测试邮件（网页/API），但不真发邮件")
     
     11 月 20, 2024 1
+    
+* [![2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9](https://www.appinn.com/wp-content/uploads/2024/05/Appinn-Feature-images-2024-11-12T121639.911-115x115.jpg "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用 9")](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
+    
+    [2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro …](https://www.appinn.com/vmware-free-workstation-pro-and-fusion-pro/ "2024双11，VMware 宣布虚拟机产品 Workstation Pro 和 Fusion Pro 对所有人免费，包括商用")
+    
+    11 月 12, 2024 1
     
 
 ### 分类
