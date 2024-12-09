@@ -1,6 +1,10 @@
-[🎄 12 Days Of Christmas Deals![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[🎄 Don't Wait! Score Santa-Approved Deals & Gifts![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/category/deals)
 
-Shop Now](https://4patriots.com/category/gift-guide)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[](https://4patriots.com/category/deals)
+
+[](https://4patriots.com/category/deals)[Shop Now](https://4patriots.com/category/deals)
+
+![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
 [SHOP](https://4patriots.com/category/shop-all)
 
@@ -305,13 +309,13 @@ Search
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
-[](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20241023var6_cam_4p_ecom_launch_hellobar_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_variation6_20241023&utm_medium=ecom&utm_source=cam&utm_content=launch_hellobar&utm_term=4p&position=launch_hellobar&product=ppg2kx-nsp)
+[](https://4patriots.com/category/best-sellers)
 
-[🆘 Solar Generator 2000X: Lifeline in Emergencies![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20241023var6_cam_4p_ecom_launch_hellobar_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_variation6_20241023&utm_medium=ecom&utm_source=cam&utm_content=launch_hellobar&utm_term=4p&position=launch_hellobar&product=ppg2kx-nsp)
+[FREE 72-Hour Food Kit on All Orders $249+![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)](https://4patriots.com/category/best-sellers)
 
-[](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20241023var6_cam_4p_ecom_launch_hellobar_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_variation6_20241023&utm_medium=ecom&utm_source=cam&utm_content=launch_hellobar&utm_term=4p&position=launch_hellobar&product=ppg2kx-nsp)
+[](https://4patriots.com/category/best-sellers)
 
-[](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20241023var6_cam_4p_ecom_launch_hellobar_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_variation6_20241023&utm_medium=ecom&utm_source=cam&utm_content=launch_hellobar&utm_term=4p&position=launch_hellobar&product=ppg2kx-nsp)[Learn More](https://products.4patriots.com/power/generator-2k/2x-weight-in-gold?afid=mkt&aff_sub=20241023var6_cam_4p_ecom_launch_hellobar_ppg-2kx&utm_campaign=mkt_ecom_ppg-2kx_variation6_20241023&utm_medium=ecom&utm_source=cam&utm_content=launch_hellobar&utm_term=4p&position=launch_hellobar&product=ppg2kx-nsp)
+[](https://4patriots.com/category/best-sellers)[Shop Best Sellers](https://4patriots.com/category/best-sellers)
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
