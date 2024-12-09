@@ -1,6 +1,8 @@
 [Skip to content](#content "Skip to content")
 
-[![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-qwq9u2f3aupysbrdocpuxc7zjaguma3q7vibvdwqe2.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
+[![cropped-logo-2.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "cropped-logo-2.png")
+
+![cropped-logo-2.png](https://www.theottoolbox.com/wp-content/uploads/elementor/thumbs/cropped-logo-2-qwq9u2f3aupysbrdocpuxc7zjaguma3q7vibvdwqe2.png "cropped-logo-2.png")](https://www.theottoolbox.com/)
 
 MENUMENU
 
@@ -72,9 +74,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/11/scissor-skills-toy-giveaway.png)](https://www.theottoolbox.com/toys-to-help-with-scissors-skills-gift/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/visual-tracking-toy-giveaway.jpg)](https://www.theottoolbox.com/visual-tracking-tips-and-tools-for/)
                 
-                #### [Toys to Improve Scissors Skills](https://www.theottoolbox.com/toys-to-help-with-scissors-skills-gift/)
+                #### [Visual Tracking Tips and Tools for Treatment](https://www.theottoolbox.com/visual-tracking-tips-and-tools-for/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
