@@ -16,7 +16,7 @@
     
     By Use Case
     
-    [AI powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)
+    [AI powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)[Literacy and numeracy](https://www.kamiapp.com/solutions/improve-literacy-numeracy/)
     
 * Resources
     
@@ -273,7 +273,7 @@ And **Kami Limited** in New Zealand
 
 ### Use Cases
 
-[AI-powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)
+[AI-powered assessments](https://www.kamiapp.com/solutions/ai-powered-assessment/)[Real-time monitoring and feedback](https://www.kamiapp.com/solutions/real-time-monitoring-and-feedback/)[Collaborative learning](https://www.kamiapp.com/solutions/collaborative-learning/)[Accessibility learning](https://www.kamiapp.com/solutions/accessibility-learning/)[Classroom blended learning](https://www.kamiapp.com/solutions/classroom-blended-learning/)[Literacy and numeracy](https://www.kamiapp.com/solutions/improve-literacy-numeracy/)
 
 ### BY ROLES
 
