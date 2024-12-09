@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [USB backup](https://www.backup4all.com/usb-backup-kb.html)  
+* [How to backup your data to Cloudian](https://www.backup4all.com/how-to-backup-your-data-to-cloudian-kb.html)  
     
-* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
+* [How to configure and use Office365 SMTP serve ...](https://www.backup4all.com/how-to-configure-and-use-office365-smtp-server-in-backup4all-kb.html)  
     
-* [Installing - FAQ](https://www.backup4all.com/installing-faq-kb.html)  
+* [How to create a backup plugin](https://www.backup4all.com/how-to-create-a-backup-plugin-kb.html)  
     
-* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
+* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
     
-* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
+* [How to configure logs and history](https://www.backup4all.com/how-to-configure-logs-and-history-kb.html)  
     
 
 Choose language:
