@@ -3,6 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Syrie](https://www.rts.ch/info/dossiers/2024/chute-de-bachar-al-assad/)
 
 * TV & Streaming
 * Audio
@@ -22,6 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Syrie](https://www.rts.ch/info/dossiers/2024/chute-de-bachar-al-assad/)
 
 #### S'informer
 
@@ -58,6 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Syrie](https://www.rts.ch/info/dossiers/2024/chute-de-bachar-al-assad/)
 
 * TV & Streaming
 * Audio
@@ -83,6 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
+* [Syrie](https://www.rts.ch/info/dossiers/2024/chute-de-bachar-al-assad/)
 
 #### S'informer
 
