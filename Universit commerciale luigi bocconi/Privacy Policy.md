@@ -214,14 +214,14 @@ About Us
     
     [Overview](https://www.unibocconi.eu/en/about-us/quality-assurance)
     
+    * [Quality assurance Bodies](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies)
     * [Teaching Quality Assurance](https://www.unibocconi.eu/en/about-us/quality-assurance/teaching-quality-assurance)
     * [Quality Assurance in Research](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-research)
     * [Quality Assurance in Third Mission - Social Impact](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-third-mission-social-impact)
     * [Quality in Action](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-action)
-    * [Training on Quality Assurance Themes](https://www.unibocconi.eu/en/about-us/quality-assurance/training-quality-assurance-themes)
     * [Regulations, Procedures and Guidelines of the QA System](https://www.unibocconi.eu/en/about-us/quality-assurance/regulations-procedures-and-guidelines-qa-system)
+    * [Training on Quality Assurance Themes](https://www.unibocconi.eu/en/about-us/quality-assurance/training-quality-assurance-themes)
     * [FAQ](https://www.unibocconi.eu/en/about-us/quality-assurance/faq)
-    * [Quality assurance bodies](https://www.unibocconi.eu/en/about-us/quality-assurance/quality-assurance-bodies)
     
 * Sustainability
     
