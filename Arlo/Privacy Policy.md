@@ -1,4 +1,4 @@
-Shop the [Cyber Monday Sale](https://www.arlo.com/en-us/cyber-monday-sale "Cyber Monday Sale") & get up to 50% off!
+Shop the [Holiday Sale](https://www.arlo.com/en-us/holiday-sale "Holiday Sale") & get up to 50% off!
 
 [](# "Menu")
 
