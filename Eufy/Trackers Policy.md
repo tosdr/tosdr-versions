@@ -6,7 +6,7 @@
 
        
 
-[Black Friday Continues! Spend $300 and Save $20!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
+[Bring the Magic Home, Unbeatable Prices! Up to $480 Off!](https://www.eufy.com/eufy-sales?ref=topbanner_1)
 
 [](https://www.eufy.com/livestream?ref=navimenu_10_copy)
 
@@ -596,23 +596,23 @@
         [Shop Holiday Lights](https://us.eufy.com/collections/holiday-lights?ref=navimenu_4_2_3_all_copy)[](https://us.eufy.com/pages/cookie-notice?ref=navimenu_4_2_3_more_copy)
         
     
-* Black Friday Hot
+* Special Offer Hot
     
     [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
-    Deals Up to 50% Off on Security!
+    Magic Building a Better Home-Up to 480$ Off
     
     [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
     [](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
-    Deals Up to 50% Off on eufy Clean!
+    Magic Cleaning a Better Home-Up to 52% Off
     
     [Learn More](https://www.eufy.com/appliances-hot-deal?ref=navimenu_5_1_2_img)
     
     [](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
     
-    Deals Up to 50% Off!
+    Bring the Magic Home with eufy-Up to 52% Off
     
     [Learn More](https://www.eufy.com/eufy-sales?ref=navimenu_5_1_3_img)
     
@@ -671,7 +671,7 @@ Search our shop
 * Security New
 * Baby
 * Smart Lights
-* Black Friday Hot
+* Special Offer Hot
 * Business
 * [Build Your Security System](https://www.eufy.com/build-your-own-security-system?ref=navimenu_7_copy)
 
