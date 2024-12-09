@@ -23,11 +23,11 @@ Menu
     * [For Dad](https://www.moonpig.com/uk/personalised-cards/christmas/for-dad/)
     * [For Parents](https://www.moonpig.com/uk/personalised-cards/christmas/for-parents/)
     * [For Kids](https://www.moonpig.com/uk/personalised-cards/christmas/for-kids/)
+    * [For Couple](https://www.moonpig.com/uk/personalised-cards/christmas/for-couple/)
     * [For Grandparents](https://www.moonpig.com/uk/personalised-cards/christmas/for-grandparents/)
     * [For Grandchildren](https://www.moonpig.com/uk/personalised-cards/christmas/for-grandchildren/)
     * [For Son](https://www.moonpig.com/uk/personalised-cards/christmas/for-son/)
     * [For Daughter](https://www.moonpig.com/uk/personalised-cards/christmas/for-daughter/)
-    * [For Couple](https://www.moonpig.com/uk/personalised-cards/christmas/for-couple/)
     * [For Partner](https://www.moonpig.com/uk/personalised-cards/christmas/for-partner/)
     
     ### Cards by Theme
@@ -119,9 +119,9 @@ Menu
     * [All Plants](https://www.moonpig.com/uk/flowers-and-plants/all-plants/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/experience-vouchers/birthday/)
     * [Balloons](https://www.moonpig.com/uk/gifts/balloons/birthday/)
-    * [Gifts For Him](https://www.moonpig.com/uk/gifts/birthday/for-him/)
-    * [Gifts For Her](https://www.moonpig.com/uk/gifts/birthday/for-her/)
-    * [Gifts For Kids](https://www.moonpig.com/uk/gifts/for-kids/birthday/)
+    * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/birthday/)
+    * [Drink Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
+    * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
     
     ### Most Popular
     
@@ -130,10 +130,9 @@ Menu
     * [Funny Cards](https://www.moonpig.com/uk/personalised-cards/birthday/funny/)
     * [Rude Cards](https://www.moonpig.com/uk/personalised-cards/birthday/naughty/)
     * [Trending Cards](https://www.moonpig.com/uk/personalised-cards/birthday/trending/)
-    * [Flower & Plant Gift Sets](https://www.moonpig.com/uk/flowers-and-plants/gift-sets/)
-    * [Sweets & Treats](https://www.moonpig.com/uk/gifts/food/birthday/)
-    * [Drink Gifts](https://www.moonpig.com/uk/gifts/alcohol/birthday/)
-    * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/birthday/)
+    * [Gifts For Her](https://www.moonpig.com/uk/gifts/birthday/for-her/)
+    * [Gifts For Him](https://www.moonpig.com/uk/gifts/birthday/for-him/)
+    * [Gifts For Kids](https://www.moonpig.com/uk/gifts/for-kids/birthday/)
     
 * Open Cards dropdown[![Cards](https://static.web-explore.prod.moonpig.net/_next/static/images/cards-1216848fbcfa3b9ed73fa8e0965c9adc.svg)
     
