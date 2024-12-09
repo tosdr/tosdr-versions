@@ -18,11 +18,10 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
 
-Secondary Menu
---------------
+* [Español](https://www.ftc.gov/es)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -224,9 +223,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Payments to Consumers Harmed by Vivint’s Misuse of Consumer Credit Reports](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-payments-consumers-harmed-vivints-misuse-consumer-credit-reports)
+    ### [FTC Acts to Stop Scheme that Bilked Millions out of Student Loan Borrowers](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-acts-stop-scheme-bilked-millions-out-student-loan-borrowers)
     
-    December 5, 2024
+    December 9, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
@@ -326,11 +325,10 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-* [English](https://www.ftc.gov/)
-* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
+Translation Menu
+----------------
 
-Secondary Menu
---------------
+* [Español](https://www.ftc.gov/es)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
