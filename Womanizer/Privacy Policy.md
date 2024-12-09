@@ -4,13 +4,13 @@ The store will not work correctly in the case when cookies are disabled.
 
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
-[Xmas Deals - up to 50 % OFF!](https://www.womanizer.com/eu/sale)
+[Xmas Deals - up to 60% OFF!](https://www.womanizer.com/eu/sale)
 
 [Choose a free Womanizer toy with every order above 199€!](https://www.womanizer.com/eu/sex-toys)
 
 [5-Year Warranty On All Womanizer Toys](https://www.womanizer.com/eu/5warranty)
 
-[100 day Pleasure Guaranteed](https://www.womanizer.com/eu/satisfaction-guaranteed)
+[100 day Pleasure Guarantee](https://www.womanizer.com/eu/satisfaction-guaranteed)
 
 [](https://www.womanizer.com/eu/)
 
