@@ -4,6 +4,14 @@ Home
 
 [DeepL Translator](https://www.deepl.com/en/translator)[DeepL Write](https://www.deepl.com/en/write)
 
+Resources
+
+Account
+
+* * *
+
+Beta feedback
+
 [![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/en/translator)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/en/translator)
 
 DeepL Translator (free)
