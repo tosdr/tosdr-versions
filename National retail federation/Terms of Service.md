@@ -82,7 +82,7 @@ VIEW RESOURCE](https://nrf.com/resources/4-5-4-calendar)
 
 ##### NRF News
 
-[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast/retail-gets-real-podcast)[NRF Newsletters](https://nrf.com/retail-newsletters)
+[NRF Blog](https://nrf.com/blog)[Retail Gets Real Podcast](https://nrf.com/podcast)[NRF Newsletters](https://nrf.com/retail-newsletters)
 
 ##### Media Center
 
