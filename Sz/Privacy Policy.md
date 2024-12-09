@@ -933,6 +933,8 @@ Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 
 
 Wenn Sie unsere digitalen Angebote aufrufen, werden Ihnen auch Inhalte von Dritten angezeigt, die unsere Werbeflächen für die Platzierung von Anzeigen nutzen. Mit der Ausspielung dieser Anzeigen refinanzieren wir unser Angebot. Werden solche Inhalte geladen, so erfolgt dies von Servern der jeweiligen Drittanbieter. Dabei findet stets eine Übermittlung bestimmter Daten an die Drittanbieter statt, in vielen Fällen auch personenbezogener Daten. Zudem werden für die meisten Dienste der Drittanbieter, mittels derer die Inhalte geladen werden, Cookies gesetzt oder ähnliche Technologien eingesetzt.
 
+Um Werbung relevant und auf aktuelle Interessen zugeschnitten bereitstellen zu können, wird auf Basis des Webseiten-Besuchs und dem Surfverhalten versucht, Rückschlüsse auf aktuelle Interessen abzuleiten. Diese Nutzerdaten werden für die Kommunikation von Werbung in Form von Bannern und anderen Marketingmethoden – möglicherweise auf der Basis der Interessen des Nutzers – verwendet. Zum Zweck der Wiederansprache (Retargeting, Remarketing) von Website-Besuchern, als auch zum Zweck der Erfolgs-Messungen werden Cookies von Drittanbietern (sog. Third-Party-Cookies) genutzt und ggf. Nutzungsprofile unter einem Pseudonym angelegt. Diese können für Werbung und Monitoring ausgewertet werden. Ein unmittelbarer Rückschluss auf eine Person ist dabei nicht möglich.
+
 Eine Übersicht der Dritten und wie diese Ihre Daten zu welchem Zweck verarbeiten, finden Sie in den Datenschutz-Einstellungen im Fuß der Website.
 
 Rechtsgrundlage für die Datenverarbeitung ist Ihre Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a) DSGVO.
