@@ -544,59 +544,51 @@ Copyright © Weights & Biases. All rights reserved.
     
     ##### Use cases
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
     ##### Industries
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * Ecosystem
     
     Close Ecosystem Open Ecosystem
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * [Docs](https://docs.wandb.ai/?_gl=1*5c2zod*_ga*MTkyNzM3MzY2Mi4xNjg2NzM3MzM0*_ga_JH1SJHJQXJ*MTY4Njg5NDA3MC4xNS4xLjE2ODY4OTcyMTIuNjAuMC4w)
     
@@ -606,30 +598,26 @@ Copyright © Weights & Biases. All rights reserved.
     
     Close Enterprise Open Enterprise
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
 * Company
     
     Close Company Open Company
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
     
-    * [Home](https://wandb.ai/site/resources/events/fully-connected)
-    * [Agenda](https://wandb.ai/site/resources/events/fully-connected/sf/agenda)
-    * [Speakers](https://wandb.ai/site/resources/events/fully-connected/sf/speakers)
-    * [Sponsors](https://wandb.ai/site/resources/events/fully-connected/sf/sponsors)
-    * [FAQ](https://wandb.ai/site/resources/events/fully-connected/sf/faq)
+    * [Careers](https://wandb.ai/site/careers/)
+    * [Trust & security](https://wandb.ai/site/security)
+    * [Legal](https://wandb.ai/site/legal-home/)
+    * [About Us](https://wandb.ai/site/company/about-us/)
