@@ -8,7 +8,7 @@ Sale Ends In
 
 00 days 00 hours](https://www.icebox.com/cyber-week)
 
-[![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
+[![Icebox ](/themes/default/frontend/oct-2023/assets/logo.svg)](https://www.icebox.com/)
 
 [Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
 
