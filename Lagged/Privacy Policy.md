@@ -207,15 +207,15 @@ Lagged allows other websites to embed certain games, but to embed any of our gam
 Popular game categories
 -----------------------
 
-*  [![Animal Games](https://imgs2.dab3games.com/two-cats-duet-ft44.png) Animal Games431 games](https://lagged.com/en/animal "Animal Games")
-*  [![Arcade Games](https://imgs2.dab3games.com/dino-dash-game-ft37.png) Arcade Games1,642 games](https://lagged.com/en/arcade "Arcade Games")
-*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games427 games](https://lagged.com/en/car "Car Games")
-*  [![Football Games](https://imgs2.dab3games.com/running-back-game-ft.png) Football Games67 games](https://lagged.com/en/football "Football Games")
-*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games808 games](https://lagged.com/en/funny "Funny Games")
-*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games796 games](https://lagged.com/en/girl "Girl Games")
-*  [![Puzzle Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Puzzle Games2,378 games](https://lagged.com/en/puzzle "Puzzle Games")
+*  [![Animal Games](https://imgs2.dab3games.com/two-cats-duet-ft44.png) Animal Games432 games](https://lagged.com/en/animal "Animal Games")
+*  [![Arcade Games](https://imgs2.dab3games.com/dino-dash-game-ft37.png) Arcade Games1,646 games](https://lagged.com/en/arcade "Arcade Games")
+*  [![Car Games](https://imgs2.dab3games.com/shapeshiftrace-ft34.png) Car Games431 games](https://lagged.com/en/car "Car Games")
+*  [![Football Games](https://imgs2.dab3games.com/running-back-game-ft.png) Football Games68 games](https://lagged.com/en/football "Football Games")
+*  [![Funny Games](https://imgs2.dab3games.com/blob-opera-game.png) Funny Games811 games](https://lagged.com/en/funny "Funny Games")
+*  [![Girl Games](https://imgs2.dab3games.com/bikiniforlove-ft50.png) Girl Games797 games](https://lagged.com/en/girl "Girl Games")
+*  [![Puzzle Games](https://imgs2.dab3games.com/ragdollbreak-ft1135.png) Puzzle Games2,391 games](https://lagged.com/en/puzzle "Puzzle Games")
 *  [![Solitaire Games](https://imgs2.dab3games.com/klondike-solitair-game969.png) Solitaire Games59 games](https://lagged.com/en/solitaire "Solitaire Games")
-*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games322 games](https://lagged.com/en/two-player "Two Player Games")
+*  [![Two Player Games](https://imgs2.dab3games.com/backrooms-escape-1-ft121.png) Two Player Games323 games](https://lagged.com/en/two-player "Two Player Games")
 *  [![Weird Games](https://imgs2.dab3games.com/choir-game.png) Weird Games66 games](https://lagged.com/en/weird "Weird Games")
 
 Games you might like
@@ -227,9 +227,9 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
-[Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
-
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
+
+[Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
 [TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
 
@@ -247,9 +247,9 @@ Games you might like
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://imgs2.dab3games.com/hide-the-evideance-big.png)
-
 [Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
+
+[Hide the Evidence](https://lagged.com/en/g/hide-the-evidence) ![Hide the Evidence Game](https://imgs2.dab3games.com/hide-the-evideance-big.png)
 
 [Two Cats Duet](https://lagged.com/en/g/two-cats-duet) ![Two Cats Duet Game](https://imgs2.dab3games.com/two-cats-duet-ft44.png)
 
