@@ -1,7 +1,5 @@
 [Documentation ![Logo](_static/opsone_logo.png)](https://docs.opsone.ch/legal/index.html) 
 
-legal
-
   
 
 * [Allgemeine Geschäftsbedingungen](https://docs.opsone.ch/legal/agb_index.html)
@@ -38,11 +36,10 @@ legal
 * [](https://docs.opsone.ch/legal/index.html)
 * [Allgemeine Geschäftsbedingungen](https://docs.opsone.ch/legal/agb_index.html)
 * 1 Geltungsbereich
-* [Edit on GitLab](https://gitlab.com/opsone_ch/documentation/blob/legal/agb.rst)
 
 * * *
 
-1 Geltungsbereich[¶](#geltungsbereich "Link to this heading")
+1 Geltungsbereich[](#geltungsbereich "Link to this heading")
 =============================================================
 
 1. Die nachstehenden Bestimmungen sind unter Ausschluss möglicher Allgemeiner Geschäfts- und Lieferbedingungen des Kunden Bestandteil aller Angebote sowie Grundlage aller Lieferungen und Leistungen von Ops One AG („Ops One“).
@@ -50,7 +47,7 @@ legal
 2. Diese AGB gelten gegenüber allen Kunden und allen Nutzern der Dienste von Ops One (gemeinsam nachfolgend „Kunden“).
     
 
-2 Vertragsgegenstand[¶](#vertragsgegenstand "Link to this heading")
+2 Vertragsgegenstand[](#vertragsgegenstand "Link to this heading")
 ===================================================================
 
 1. Ops One bietet Beratungsdienstleistungen und Hostingleistungen für Agenturen und Entwickler.
@@ -58,7 +55,7 @@ legal
 2. Integrierender Bestandteil aller Angebote und Verträge sind nebst diesen AGB die Preis-/ Leistungsübersicht von Ops One, beide in den jeweils aktuellen Fassungen.
     
 
-3 Vertragsschluss[¶](#vertragsschluss "Link to this heading")
+3 Vertragsschluss[](#vertragsschluss "Link to this heading")
 =============================================================
 
 1. Die von Ops One auf der Website [https://opsone.ch](https://opsone.ch/) oder anderweitig angebotenen Dienstleistungen / Angebote stellen nur Einladungen zur Abgabe von Anfragen durch Kunden dar.
@@ -72,7 +69,7 @@ legal
 5. Für die Vertragsverlängerung oder -erneuerung sind die im Zeitpunkt der Vertragsverlängerung geltenden Preise und Allgemeinen Geschäftsbedingungen von Ops One massgebend.
     
 
-4 Leistungsumfang[¶](#leistungsumfang "Link to this heading")
+4 Leistungsumfang[](#leistungsumfang "Link to this heading")
 =============================================================
 
 1. Die auf der Website [https://opsone.ch](https://opsone.ch/) veröffentlichten oder in den schriftlichen Angebotsunterlagen von Ops One enthaltenen Angaben sind alleinige Grundlage für die von Ops One zu erbringenden Leistungen.
@@ -92,7 +89,7 @@ legal
 8. Ops One ist berechtigt, bei übermässigem Datenverkehr oder übermässiger Inanspruchnahme weiterer Dienstleistungen von Ops One den Datenverkehr oder die Dienstleistungen einzuschränken.
     
 
-5 Pflichten der Kunden / Grenzen der Nutzung der Dienste von Ops One[¶](#pflichten-der-kunden-grenzen-der-nutzung-der-dienste-von-ops-one "Link to this heading")
+5 Pflichten der Kunden / Grenzen der Nutzung der Dienste von Ops One[](#pflichten-der-kunden-grenzen-der-nutzung-der-dienste-von-ops-one "Link to this heading")
 =================================================================================================================================================================
 
 1. Ops One stellt seine Server nur für die vertragsgemässe Nutzung bereit.
@@ -122,7 +119,7 @@ legal
 13. Bei einer Zuwiderhandlung des Kunden gegen seine Vertragspflichten, ist Ops One berechtigt, den Zugang des Kunden zu den Leistungen vorübergehend oder definitiv zu sperren.
     
 
-6 Preise und Zahlungsbedingungen[¶](#preise-und-zahlungsbedingungen "Link to this heading")
+6 Preise und Zahlungsbedingungen[](#preise-und-zahlungsbedingungen "Link to this heading")
 ===========================================================================================
 
 1. Maßgebend sind die zum Zeitpunkt des Vertragsschlusses von Ops One genannten Preise. Sofern keine Preise vereinbart wurden, gilt die auf der Website publizierte Preisliste von Ops One.
@@ -136,7 +133,7 @@ legal
 5. Im Falle des Zahlungsverzuges ist Ops One berechtigt, Zinsen in der Höhe von fünf Prozent zu verrechnen. Ops One bleibt es vorbehalten, höhere Verzugsschäden geltend zu machen.
     
 
-7 Urheber- und Nutzungsrechte[¶](#urheber-und-nutzungsrechte "Link to this heading")
+7 Urheber- und Nutzungsrechte[](#urheber-und-nutzungsrechte "Link to this heading")
 ====================================================================================
 
 1. Die Rechte an den gesamten durch Ops One zur Verfügung gestellten und/oder im Internet publizierten Produktinformationen und -bildern stehen allein Ops One zu. Die vollständige oder teilweise Vervielfältigung sowie die elektronische oder mit anderen Mitteln erfolgte vollständige oder teilweise Verbreitung bedürfen der vorherigen schriftlichen Zustimmung von Ops One.
@@ -150,7 +147,7 @@ legal
     2. Diese Rechtseinräumung gilt nicht für im Rahmen eines Projektes verwendete Standardprodukte von Ops One oder Dritten. Die Einräumung von Nutzungsrechten an solchen Standardprodukten für den Kunden ist Gegenstand gesonderter Lizenzverträge und -bedingungen, die der Kunde direkt mit Ops One oder den sonstigen Lizenzgebern vereinbart. Die Rechtseinräumung gilt auch nicht für vorbestehende Materialien oder Lösungen sowie Erweiterungen, Ergänzungen oder Änderungen an vorbestehenden Materialien und Standardprodukten der Ops One oder von Drittparteien, welche Ops One für das Projekt verwendet. Die ausschliesslichen und uneingeschränkten Rechte an solchen Erweiterungen, Ergänzungen oder Änderungen stehen Ops One zu. Der Kunde erhält das nicht-ausschliessliche, nicht übertragbare Recht zur Nutzung solcher vorbestehender Materialien oder Lösungen sowie der Erweiterungen, Ergänzungen oder Änderungen zu den Ops One-Standardprodukten oder vorbestehenden Materialien, soweit dies für die Nutzung im Zusammenhang mit den im Rahmen des Projektes der Ops One für den Kunden geschaffenen sonstigen Arbeitsergebnissen im Rahmen der Zweckbestimmung und Nutzungsrechtseinräumung erforderlich ist.
         
 
-8 Geheimhaltung[¶](#geheimhaltung "Link to this heading")
+8 Geheimhaltung[](#geheimhaltung "Link to this heading")
 =========================================================
 
 1. Ops One und der Kunde sind verpflichtet, Betriebs- und Geschäftsgeheimnisse sowie sonstige vertrauliche und schutzwürdige Angelegenheiten der anderen Partei, die ihr aus oder im Zusammenhang mit der Auftragserfüllung anvertraut oder bekannt werden, geheim zu halten und nicht für eigene oder fremde Zwecke, sondern nur zur rechtmässigen Aufgabenerfüllung zu verwenden.
@@ -160,7 +157,7 @@ legal
 3. Diese Geheimhaltungsverpflichtung bleibt auch nach Beendigung des Vertrags bestehen.
     
 
-9 Haftung[¶](#haftung "Link to this heading")
+9 Haftung[](#haftung "Link to this heading")
 =============================================
 
 1. Für Schäden des Kunden haftet Ops One nur bei Vorsatz oder grobe Fahrlässigkeit.
@@ -176,7 +173,7 @@ legal
 6. Die Verpflichtung des Kunden zur Schadensvermeidung, insbesondere im Fall von Daten- oder Dateiverlusten bleibt unberührt. Der Verlust von Daten ist nicht ersatzfähig, soweit für diese durch den Kunden nicht regelmässig, mindestens einmal täglich, Sicherungskopien auf getrennten Datenträgern erstellt wurden.
     
 
-10 Kündigung[¶](#kundigung "Link to this heading")
+10 Kündigung[](#kundigung "Link to this heading")
 ==================================================
 
 1. Soweit Auftragsrecht anwendbar ist, kann der Vertrag von beiden Parteien jederzeit schriftlich widerrufen bzw. gekündigt werden. Kündigt der Kunde, hat er die von Ops One bis zum Vertragsende erbrachten Leistungen vollständig zu bezahlen. Bei individuellen Projektarbeiten sind zudem mind. 25% der noch offenen Arbeiten zu bezahlen.
@@ -192,7 +189,7 @@ legal
     2. der Kunde mit der Zahlung der Entgelte in Verzug gerät und trotz Mahnung innert angesetzter Frist nicht zahlt.
         
 
-11 Allgemeine Bestimmungen[¶](#allgemeine-bestimmungen "Link to this heading")
+11 Allgemeine Bestimmungen[](#allgemeine-bestimmungen "Link to this heading")
 ==============================================================================
 
 1. Die Abtretung von Rechten und Pflichten des Kunden aus dem Vertrag ohne vorherige Zustimmung von Ops One ist ausgeschlossen.
@@ -204,7 +201,7 @@ legal
 4. Ops One behält sich das Recht vor, die AGB mit Wirkung für die Zukunft zu aktualisieren, wenn wirtschaftliche oder rechtliche Gründe eine Anpassung erforderlich machen. Die Änderungen werden für laufende Vertragsbeziehungen mit dem Kunden erst wirksam, wenn der Kunde diesen Änderungen zustimmt. Widerspricht der Kunde den Änderungen der AGB nicht innerhalb von zwei Wochen, nachdem er über die Änderung der AGB und die Folgen eines unterbleibenden Widerspruchs benachrichtigt wurde, gilt die Zustimmung als erteilt. Die Bekanntmachung der Änderungen erfolgt insbesondere dadurch, dass die Ops One die neuen AGB auf der Website aufschaltet und dem Kunden einen Hinweis per E-Mail zusendet.
     
 
-12 Datenschutz[¶](#datenschutz "Link to this heading")
+12 Datenschutz[](#datenschutz "Link to this heading")
 ======================================================
 
 1. Ops One verarbeitet und nutzt die bei Vertragsschluss und im Rahmen der Nutzung des Angebots erhobenen Daten des Kunden nach den einschlägigen datenschutzrechtlichen Bestimmungen.
@@ -212,7 +209,7 @@ legal
 2. Es gelten die [Datenschutzerklärung](https://docs.opsone.ch/legal/dse_index.html) von Ops One (abrufbar unter [https://docs.opsone.ch/legal/dse\_index.html](https://docs.opsone.ch/legal/dse_index.html))
     
 
-13 Gerichtsstand und anwendbares Recht[¶](#gerichtsstand-und-anwendbares-recht "Link to this heading")
+13 Gerichtsstand und anwendbares Recht[](#gerichtsstand-und-anwendbares-recht "Link to this heading")
 ======================================================================================================
 
 1. Das Rechtsverhältnis zwischen den Parteien wie auch die Beurteilung dessen Zustandekommens unterliegt ausschliesslich **schweizerischem Recht**, unter Ausschluss des IPR und staatsvertraglicher Vereinbarungen, insbesondere des Übereinkommens der Vereinten Nationen über Verträge über den internationalen Warenkauf (Wien 1980) sowie des Übereinkommens der Vereinten Nationen betreffend das auf internationale Kaufverträge über bewegliche körperliche Sachen anzuwendende Recht (Den Haag 1955).
@@ -220,12 +217,12 @@ legal
 2. Ausschliesslicher Gerichtstand ist **ZÜRICH**.
     
 
-Stand 17.05.2024, Ops One AG, [team+legal@opsone.ch](mailto:team+legal%40opsone.ch)
+Stand 09.12.2024, Ops One AG, [team+legal@opsone.ch](mailto:team+legal%40opsone.ch)
 
 [Previous](https://docs.opsone.ch/legal/agb_index.html "Allgemeine Geschäftsbedingungen") [Next](https://docs.opsone.ch/legal/dse_index.html "Datenschutzerklärung")
 
 * * *
 
-© Copyright Ops One AG. Last updated on May 17, 2024.
+© Copyright Ops One AG. Last updated on Dec 09, 2024.
 
 ![](//piwik01.web-analytics.ch/piwik.php?idsite=2)
