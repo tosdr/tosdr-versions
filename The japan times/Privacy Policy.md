@@ -464,6 +464,14 @@ Revised June 1, 2022
 
 * Editors' Picks
 
+[Nissan boss Uchida races to save the automaker — and his job](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
+
+  [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
+
+[South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+
+  [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+
 [A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
 
   [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
@@ -471,18 +479,6 @@ Revised June 1, 2022
 [South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
   [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
-
-[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-  [![Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438736.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times")](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-[Tokyo government considering fund for housing support](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
-
-  [![A residential area of Tokyo. Rising prices has made it difficult for the child-rearing generation to secure large houses in the capital. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438749.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A residential area of Tokyo. Rising prices has made it difficult for the child-rearing generation to secure large houses in the capital. ")](https://www.japantimes.co.jp/news/2024/12/07/japan/society/tokyo-fund-housing-support/ "Tokyo government considering fund for housing support")
-
-[Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
-
-  [![Miho Nakayama](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama")](https://www.japantimes.co.jp/culture/2024/12/06/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and a decadeslong music career, dies at 54")
 
 [Welcome to Yama, Japan’s first Michelin-starred dessert restaurant](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
 
@@ -565,15 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ishiba vows to show resolve in run-up to Upper House poll](https://www.japantimes.co.jp/news/2024/12/08/japan/politics/ishiba-upper-house-poll-resolve/ "Ishiba vows to show resolve in run-up to Upper House poll")
+[Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
-[South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+9 mins ago
 
-[South Korea’s ex-defense chief is detained over martial law episode](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/south-koreas-ex-defense-chief-detained/ "South Korea’s ex-defense chief is detained over martial law episode")
+[Extreme heat puts garment factory workers at risk, study shows](https://www.japantimes.co.jp/business/2024/12/09/extreme-heat-garment-factory-workers/ "Extreme heat puts garment factory workers at risk, study shows")
 
-[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+17 mins ago
 
-[Japan's crown prince and crown princess return from visit to Turkey](https://www.japantimes.co.jp/news/2024/12/08/japan/japan-crown-prince-turkey-trip/ "Japan's crown prince and crown princess return from visit to Turkey")
+[Bain-backed Kioxia to set IPO price as deals hit eight-year high](https://www.japantimes.co.jp/business/2024/12/09/companies/kioxia-ipo-high/ "Bain-backed Kioxia to set IPO price as deals hit eight-year high")
+
+29 mins ago
+
+[New museum set to bring butterflies of the world to Fukushima](https://www.japantimes.co.jp/news/2024/12/09/japan/fukushima-butterflies-museum/ "New museum set to bring butterflies of the world to Fukushima")
+
+47 mins ago
+
+[South Korean opposition accuses ruling party of 'second coup'](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korean opposition accuses ruling party of 'second coup'")
+
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
