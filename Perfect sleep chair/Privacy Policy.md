@@ -1,4 +1,4 @@
-             [Skip to content](#MainContent)
+                                       [Skip to content](#MainContent)
 
 [](https://www.perfectsleepchair.com/products/journey-gift-card)
 
@@ -518,7 +518,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 34 people voted yesNo, this review was not helpful 18 people voted no
+    Yes, this review was helpful 35 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
@@ -598,6 +598,7 @@ Closed 4th of July, Christmas, Thanksgiving, and New Year's Day
 
 ### Resources
 
+* [Check Order Status](https://journeyhlaftershipk.aftership.com/)
 * [My Account](https://www.perfectsleepchair.com/account)
 * [Contact Us](https://www.perfectsleepchair.com/pages/contact)
 * [Provider Locator](https://www.perfectsleepchair.com/pages/store-locator)
