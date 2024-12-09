@@ -13,7 +13,7 @@ Learn more](https://www.algolia.com/search-solutions/algolia-on-aws)
 *  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
 *  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-[Algolia mark blue Algolia logo blue](https://www.algolia.com/)
+[Algolia mark white Algolia logo white](https://www.algolia.com/)
 
 Menu
 
@@ -139,8 +139,6 @@ Relating to the use of Algolia's Website and Services. 
 Select Policy
 
 [Terms of Service](https://www.algolia.com/policies/terms)
-
-[Service Level Agreement](https://www.algolia.com/policies/sla)
 
 [Privacy Policy](https://www.algolia.com/policies/privacy)
 
