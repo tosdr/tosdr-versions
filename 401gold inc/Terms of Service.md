@@ -216,6 +216,21 @@ Hours of Operation
 | Sat | 10am – 4pm |
 | Sun | 12pm – 4pm |
 
+###### Xmas Opening Hours
+
+Toronto
+
+Closed
+
+Dec 25-26  
+Jan 1-2
+
+North York
+
+Closed
+
+Dec 25 - Jan 2
+
 Toronto
 
 2190 Warden Avenue  
