@@ -20,16 +20,16 @@ Monday, December 9 2024
 
 Latest
 
-* [The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
-* [Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
-* [What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
-* [What You Need to Know About Paddle Shifters](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
-* [Which Is Better for You?](https://digitpatrox.com/which-is-better-for-you/)
-* [NYT Strands today — hints, spangram and answers for game #281 (Monday, December 9 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-281-monday-december-9-2024/)
-* [Trailers of the week: Star Trek, Severance, and Gundam](https://digitpatrox.com/trailers-of-the-week-star-trek-severance-and-gundam/)
-* [Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
-* [Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
-* [The GoPro Hero12 Black Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-gopro-hero12-black-is-at-its-lowest-price-ever-right-now/)
+* [“It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
+* [Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
+* [QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
+* [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
+* [How to Get More Spirit in Path of Exile 2](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
+* [StorMagic SvSAN 6.3 review | ITPro](https://digitpatrox.com/stormagic-svsan-6-3-review-itpro/)
+* [You Can Now Follow Mastodon Users on Threads (Sort Of)](https://digitpatrox.com/you-can-now-follow-mastodon-users-on-threads-sort-of/)
+* [Which Brands Make the Best Cars?](https://digitpatrox.com/which-brands-make-the-best-cars/)
+* [How to Combine Images Into One PDF File in Windows 10 or Windows 11](https://digitpatrox.com/how-to-combine-images-into-one-pdf-file-in-windows-10-or-windows-11/)
+* [7 ways to get more out of your air purifier](https://digitpatrox.com/7-ways-to-get-more-out-of-your-air-purifier/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.vox-cdn.com/thumbor/b_mUzgpT72WbS4sG81VqAYfBQNA=/0x0:2079x1265/1200x628/filters:focal(1040x633:1041x634)/cdn.vox-cdn.com/uploads/chorus_asset/file/25780133/Screenshot_2024_12_08_at_12.41.42_PM.png)](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
+* [![](https://cdn.mos.cms.futurecdn.net/risaDF74rrk6rnN7xxLdHi-1200-80.jpg)](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
     
-    [The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
+    [“It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
     
-    42 minutes ago
+    8 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Invincible-2.jpg)](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
+* [![](https://cdn.mos.cms.futurecdn.net/42FQMRqSnE4w4gydJRNUYP-1200-80.gif)](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
     
-    [Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
+    [Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
     
-    58 minutes ago
+    16 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JECJFEWB36S8ZMNKBNHE4CMR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/10/02/Hacker-headpic.jpg)](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
     
-    [What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
+    [QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
     
-    3 hours ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1686926410/prod/content/dam/CRO-Images-2023/06June/Cars/CR-Cars-InlineHero-2010-Mitsubishi-Lancer-Paddle-Shifters-Hands-6-23)](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
+* [![](https://cdn.vox-cdn.com/thumbor/IrpItkkCpjBiUZvRBZ79uqNwE4k=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25781069/itch.jpeg)](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
     
-    [What You Need to Know About Paddle Shifters](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
+    [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
     
-    3 hours ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-on-the-usb-c-port-and-noise-canceling-buttonjpg_53510961781_o.jpg)](https://digitpatrox.com/which-is-better-for-you/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Get-More-Spirit-in-Path-of-Exile-2.jpg)](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
     
-    [Which Is Better for You?](https://digitpatrox.com/which-is-better-for-you/)
+    [How to Get More Spirit in Path of Exile 2](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
     
-    4 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [42 minutes ago
+* [8 minutes ago
     
-    ### The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
-* [58 minutes ago
+    ### “It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
+* [16 minutes ago
     
-    ### Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
-* [3 hours ago
+    ### Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
+* [1 hour ago
     
-    ### What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
+    ### QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
 
 Most Popular Topics
 
-* [November 1, 2024
+* [October 14, 2024
     
-    ### Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
-* [October 1, 2024
+    ### You Can Get Babbel Language Learning on Sale for $150 Right Now](https://digitpatrox.com/you-can-get-babbel-language-learning-on-sale-for-150-right-now/)
+* [September 15, 2024
     
-    ### Today’s NYT Connections Hints and Answer for October 1 (#478)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-1-478/)
-* [November 3, 2024
+    ### 4 Common DisplayPort Problems, and How to Fix Them](https://digitpatrox.com/4-common-displayport-problems-and-how-to-fix-them/)
+* [1 week ago
     
-    ### NYT Connections today hints and answers — Sunday, November 3 (#511)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-november-3-511/)
+    ### The Best Portable Power Stations of 2024](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
 
 Last Modified Topics
 
-* [6 hours ago
+* [4 hours ago
     
-    ### Trailers of the week: Star Trek, Severance, and Gundam](https://digitpatrox.com/trailers-of-the-week-star-trek-severance-and-gundam/)
-* [6 hours ago
+    ### You Can Now Follow Mastodon Users on Threads (Sort Of)](https://digitpatrox.com/you-can-now-follow-mastodon-users-on-threads-sort-of/)
+* [4 hours ago
     
-    ### Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
-* [7 hours ago
+    ### Which Brands Make the Best Cars?](https://digitpatrox.com/which-brands-make-the-best-cars/)
+* [4 hours ago
     
-    ### Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
+    ### How to Combine Images Into One PDF File in Windows 10 or Windows 11](https://digitpatrox.com/how-to-combine-images-into-one-pdf-file-in-windows-10-or-windows-11/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
