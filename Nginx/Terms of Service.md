@@ -561,7 +561,7 @@ F5’s portfolio of automation, security, performance, and insight capabilities 
 * [F5 Trust Center](https://www.f5.com/company/trust-center)
 * [Careers](https://www.f5.com/company/careers)
 * [Diversity & Inclusion](https://www.f5.com/company/diversity-inclusion)
-* [Investor Relations](https://investors.f5.com/home/default.aspx)
+* [Investor Relations](https://investors.f5.com/)
 * [Blog](https://www.f5.com/company/blog)
 * [Events](https://www.f5.com/company/events)
 * [Newsroom](https://www.f5.com/company/news)
