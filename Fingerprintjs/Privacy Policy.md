@@ -80,6 +80,8 @@ Protect your implementation
         * [Install CloudFront Integration using Terraform](https://dev.fingerprintjs.com/docs/aws-cloudfront-integration-via-terraform)
         * [Migrating CloudFront proxy integration from v1 to v2](https://dev.fingerprintjs.com/docs/cloudfront-integration-migration-from-v1-to-v2)
     * [Fastly VCL Proxy Integration](https://dev.fingerprintjs.com/docs/fastly-vcl-proxy-integration)
+    * [Fastly Compute Proxy integration](https://dev.fingerprintjs.com/docs/fastly-compute-proxy-integration)
+        * [Fastly Compute Proxy Integration Open Response Plugins](https://dev.fingerprintjs.com/docs/using-open-client-response-with-fastly-compute-proxy-integration-plugins)
     * [Akamai Proxy Integration](https://dev.fingerprintjs.com/docs/akamai-proxy-integration)
     * [Azure Proxy Integration](https://dev.fingerprintjs.com/docs/azure-proxy-integration)
 * [Protecting from client-side tampering and replay attacks](https://dev.fingerprintjs.com/docs/protecting-from-client-side-tampering)
