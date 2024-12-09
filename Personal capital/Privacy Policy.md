@@ -919,7 +919,6 @@ Footer menu
     * [Press center](https://www.personalcapital.com/press-center)
 * About Empower
     * [About us](https://www.personalcapital.com/about-empower)
-    * [Executive leadership](https://www.personalcapital.com/about-empower/executive-leadership)
     * [Our history](https://www.personalcapital.com/about-empower/our-history)
     * [Careers](https://jobs.empower.com/)
 * Help
