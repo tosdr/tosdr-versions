@@ -172,7 +172,7 @@ By using this Site, in full or in part, the user fully accepts to be bound by an
 
 These Terms and Conditions are accessible via the Site registration form or via the section ‘Terms and Conditions’ found at the bottom of the Site. Unless otherwise expressly stated, all new services or modifications to existing services are subject to these Terms and Conditions.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 2\. Definitions
 ---------------
@@ -203,7 +203,7 @@ The term ‘genealogical data’ refers to all personal or other data voluntaril
 
 The term ‘collaborative genealogical data’ refers to all data or documents published on Geneanet by the users, including in particular data and documents which are not linked to a member’s family tree, and freely shared with all Site users.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 3\. Presentation of Service
 ---------------------------
@@ -212,7 +212,7 @@ The aim of the Service is to allow the user to construct his/her genealogy and h
 
 For this purpose, Geneanet, acting as a hosting provider, makes configurable space and options available for its Users, allowing them to build their family tree and to conduct genealogy research.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 4\. Use of the Site
 -------------------
@@ -277,7 +277,7 @@ Geneanet reserves the right to block access to its services if the level of acce
 
 Failure to comply with any one of these undertakings may result in the immediate cancellation of the user’s account. Geneanet reserves the right to undertake any legal action it may consider appropriate against any users who act contrary to these Terms and Conditions.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 5\. Geneanet Premium
 --------------------
@@ -299,7 +299,7 @@ The Geneanet Premium subscription gives access to all public data provided on th
 
 This information is provided to Premium members for their personal or professional genealogical research only, within the limits defined at article 4.2.3.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 6\. **Hosting of Genealogical Data**
 ------------------------------------
@@ -330,7 +330,7 @@ Geneanet reserves the right to enter into business partnerships (_contrats de pa
 
 It should however be noted that the database belonging to Geneanet is not physically transferred to its partners, so use of the data is limited solely to access by the Users of the genealogy service.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 7. **‘Genealogical Data Legacy’ Service**
 -----------------------------------------
@@ -343,7 +343,7 @@ Each member can thus choose to leave their data and research online after they d
 
 In accordance with article 85 of the French Data Protection Law (_Loi Informatique et Libertés_) dated January 6, 1978, following the death of a member, his/her heir(s) may, subject to proof of their identity and inheritance rights, require that the death be recorded and that the personal data of that deceased member be updated (within the meaning of article 2 of the French Data Protection Law dated January 6, 1978).
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 8. **Ownership of Members’ Genealogical Data and Non-Commercialization**
 ------------------------------------------------------------------------
@@ -362,7 +362,7 @@ In the case of a member’s account being deleted, certain data, particularly th
 
 For the avoidance of doubt, ‘non-commercialization’ does not prevent Geneanet from using the information submitted by its members to set up services or options reserved for its Premium members, such as research, notifications or matches.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 9. **‘Discussion Forum’ Service**
 ---------------------------------
@@ -377,7 +377,7 @@ Users undertake not to direct Internet users, directly (via a hyperlink) or indi
 
 All advertising messages, special offers or sponsoring that remunerates the user in any form whatsoever is forbidden within the service, unless with the prior written consent of Geneanet. In the absence of prior agreement, Geneanet alone has the right to publish advertising messages on any page of its Site, including, in particular, the pages of family trees.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 10\. **‘Geneanet Mailbox’ Service**
 -----------------------------------
@@ -388,7 +388,7 @@ All messages sent by a member to a single addressee via the Site’s internal me
 
 In cases of abuse or misuse of the messaging system (notably by sending ‘spam’ aimed at canvassing, in the event of insulting language, harassment or any other form of prejudicial behavior that compromises the harmonious use of the Services) Geneanet reserves the right to delete the account of an offending member 24 hours after having notified that member by email or internal message. No claim may be made in this respect by the member whose account has been deleted.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 11. **Users’ Liability**
 ------------------------
@@ -413,7 +413,7 @@ The user undertakes to respect the image and reputation of Geneanet and not to m
 
 As Geneanet seeks to provide reliable information, users are requested to cite the source of all information and data that they communicate via the Site. Geneanet in no way guarantees the authenticity and/or reliability of information and data provided by a user.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 12. **Geneanet’s Liability**
 ----------------------------
@@ -452,7 +452,7 @@ The Site presents services proposed by advertisers and Partners and therefore co
 
 Geneanet shall not be held liable in the event of use of the service which is not in compliance with these Terms and Conditions.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 13. **Intellectual Property**
 -----------------------------
@@ -485,7 +485,7 @@ The user warrants, vis-à-vis Geneanet, that he/she holds all necessary authoriz
 
 The user shall be responsible for any remuneration that may be claimed by any third parties regarding the publication of this data on the Site. The user shall indemnify Geneanet for and against all recourse, claims or actions that may be brought against Geneanet by any third party.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 14\. **Modification of the Site and these Terms and Conditions**
 ----------------------------------------------------------------
@@ -494,7 +494,7 @@ Geneanet reserves the right to modify the various services offered on the Site a
 
 In the event of a material change these Terms and Conditions, Geneanet shall inform its users of this with reasonable advance notice so that they can review the said modifications. Users who do not agree to the new terms will have to stop using the Site . Notwithstanding the foregoing, Premium members may continue to use the service in accordance with the Terms and Conditions as drafted before the changes until termination or expiry of their subscription, which will not be automatically renewed.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 15\. Force majeure
 ------------------
@@ -503,7 +503,7 @@ Neither party shall be held liable with respect to the other for non-performance
 
 Any force majeure event suspends the obligations arising under this contract for the entire duration that such event continues. However, if a force majeure event lasts more than 30 consecutive days, this will give rise to the right to automatic termination of this contract fifteen (15) days after either party has sent a letter notifying such termination by registered post with acknowledgement of receipt.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 16\. **Miscellaneous**
 ----------------------
@@ -514,7 +514,7 @@ The present Terms and Conditions constitute the entire and sole agreement betwee
 
 These Terms and Conditions shall be governed by French law. Unless otherwise provided by mandatory provisions of public policy, and where conciliation has failed, the relevant Courts of Paris shall have jurisdiction to settle any disputes related to the validity, interpretation or performance of these Terms and Conditions. These Terms and Conditions have been drawn up in the French language and, as the case may be, translated into other languages for information purposes only. In the case of difficulty of interpretation, the French version alone shall prevail.
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 If Internet users have any questions, they are invited to ask them preferably using the Services proposed on the Site (particularly the forum). They may nonetheless ask their questions by email if necessary, with the reply taking longer due to technical reasons.
 
@@ -524,7 +524,7 @@ If Internet users have any questions, they are invited to ask them preferably us
 
 – By post: Geneanet, 165 _bis_ rue de Vaugirard, 75015 Paris, France
 
-[(back to top)](#Début)
+[(back to top)](#D%C3%A9but)
 
 **LANGUAGE**
 
