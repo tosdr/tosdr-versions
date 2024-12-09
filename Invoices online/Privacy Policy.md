@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=185779404)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=101445684)  
+Blue Bulls Rugby Coaches Association
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=6918064)  
-KTEN PARTS
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=88246075)  
+Nilbet T/A Waterman
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=149906562)  
-NWET Pty LTD
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=181182358)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=130416055)  
-West Coast Horse Trails
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=200823599)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=77104999)  
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=67394337)  
+Baby Toddles Infant Care
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=189747366)  
+Multi CNC Solutions CC
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=194866887)  
 Mountain Lion Properties
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=88540489)  
-TIGERDSL
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=152168123)  
+J.M. HUMAN RESOURCES
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=71889689)  
-Tantra Sound and Lightz
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=185571912)  
+FJW Security Cc
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=69013136)  
-MONSTER SECURITY SERVICES
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=18377732)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=125975362)  
-Digifax Pty) Ltd t/a Findfish
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=5730181)  
+TechnoDezi PTY(LTD)
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=64212361)  
-Xpress Designs
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=77549007)  
+Fox Alarms & Security CC
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=35266499)  
-Vplay Letsheng Mall
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=185814376)  
+LEONARD
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=190389020)  
-Cooper Power Cape Town (Pty) Ltd
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=207891418)  
+AMS Ambu Medical Supplies
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=111726757)  
-Import Maaw
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=21734022)  
-Network Grey (Pty) Ltd
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=3978381)  
-Myfinance-Online
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=940a7acc5314c5386c78b6b9df5c24e9b99a42dd6c72cbb1fdd718d9762048d0&c=126480651)  
+Frequency Fanatics (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
