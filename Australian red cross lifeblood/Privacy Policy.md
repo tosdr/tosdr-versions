@@ -1,3 +1,5 @@
+[Skip Navigation](#rn_MainContent)
+
 Your browser either does not have JavaScript enabled or does not appear to support enough features of JavaScript to be used well on this site.
 
  [![Home](/euf/assets/themes/arcbs/images/arcbs/logo-desktop.svg) ![Home](/euf/assets/themes/arcbs/images/arcbs/logo-mobile.svg)](https://my.donateblood.com.au/ "Home")
@@ -255,11 +257,11 @@ Yes No
 Most viewed questions
 ---------------------
 
-* [Sexual activity - Is there any sexual activity that will affect my ability to donate blood?](https://my.donateblood.com.au/app/answers/detail/a_id/32/related/1/session/L2F2LzEvdGltZS8xNzMzNzI3MjY1L2dlbi8xNzMzNzI3MjY1L3NpZC9mVUZycFhZNWEwaWlYMWFBN1FKelNRXzdQMEkwQVdvbVd0QnpEcmxzRjUwN2JMNWFKSyU3RXZZdWclN0VXdGpGS0RDUWNXZ0RycExqdkhfVEVndXBTdXJiZUcwVUdtcFRlalFjV2lIUkhrcVVBRDVKVTZRaFNxX3dJNVNBJTIxJTIx)
-* [How much should I weigh to donate?](https://my.donateblood.com.au/app/answers/detail/a_id/27/related/1/session/L2F2LzEvdGltZS8xNzMzNzI3MjY1L2dlbi8xNzMzNzI3MjY1L3NpZC9mVUZycFhZNWEwaWlYMWFBN1FKelNRXzdQMEkwQVdvbVd0QnpEcmxzRjUwN2JMNWFKSyU3RXZZdWclN0VXdGpGS0RDUWNXZ0RycExqdkhfVEVndXBTdXJiZUcwVUdtcFRlalFjV2lIUkhrcVVBRDVKVTZRaFNxX3dJNVNBJTIxJTIx)
-* [Iron (low) - Can I donate if my iron (ferritin) is low (iron deficiency)?](https://my.donateblood.com.au/app/answers/detail/a_id/22/related/1/session/L2F2LzEvdGltZS8xNzMzNzI3MjY1L2dlbi8xNzMzNzI3MjY1L3NpZC9mVUZycFhZNWEwaWlYMWFBN1FKelNRXzdQMEkwQVdvbVd0QnpEcmxzRjUwN2JMNWFKSyU3RXZZdWclN0VXdGpGS0RDUWNXZ0RycExqdkhfVEVndXBTdXJiZUcwVUdtcFRlalFjV2lIUkhrcVVBRDVKVTZRaFNxX3dJNVNBJTIxJTIx)
-* [Colds - I have a cold. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/285/related/1/session/L2F2LzEvdGltZS8xNzMzNzI3MjY1L2dlbi8xNzMzNzI3MjY1L3NpZC9mVUZycFhZNWEwaWlYMWFBN1FKelNRXzdQMEkwQVdvbVd0QnpEcmxzRjUwN2JMNWFKSyU3RXZZdWclN0VXdGpGS0RDUWNXZ0RycExqdkhfVEVndXBTdXJiZUcwVUdtcFRlalFjV2lIUkhrcVVBRDVKVTZRaFNxX3dJNVNBJTIxJTIx)
-* [I'm gender diverse, non-binary or transgender. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/1374/related/1/session/L2F2LzEvdGltZS8xNzMzNzI3MjY1L2dlbi8xNzMzNzI3MjY1L3NpZC9mVUZycFhZNWEwaWlYMWFBN1FKelNRXzdQMEkwQVdvbVd0QnpEcmxzRjUwN2JMNWFKSyU3RXZZdWclN0VXdGpGS0RDUWNXZ0RycExqdkhfVEVndXBTdXJiZUcwVUdtcFRlalFjV2lIUkhrcVVBRDVKVTZRaFNxX3dJNVNBJTIxJTIx)
+* [Sexual activity - Is there any sexual activity that will affect my ability to donate blood?](https://my.donateblood.com.au/app/answers/detail/a_id/32/related/1/session/L2F2LzEvdGltZS8xNzMzNzQ4ODQ3L2dlbi8xNzMzNzQ4ODQ3L3NpZC9mVXZmeFZIUF9MNTE4UkJQczZXWm1IaDFubjdwdWtUZlNqd2hBSnlScTY2RDhGQ1NLcHduRnElN0V5SWxyVHFyRVkzSVlQdlFiSUxDc2NYMnFuY2pBciU3RUhadTVmWkdCdWJyaVhZRlJ0JTdFNG1tdVc0Z2c1STJTb0JCMFElMjElMjE=)
+* [How much should I weigh to donate?](https://my.donateblood.com.au/app/answers/detail/a_id/27/related/1/session/L2F2LzEvdGltZS8xNzMzNzQ4ODQ3L2dlbi8xNzMzNzQ4ODQ3L3NpZC9mVXZmeFZIUF9MNTE4UkJQczZXWm1IaDFubjdwdWtUZlNqd2hBSnlScTY2RDhGQ1NLcHduRnElN0V5SWxyVHFyRVkzSVlQdlFiSUxDc2NYMnFuY2pBciU3RUhadTVmWkdCdWJyaVhZRlJ0JTdFNG1tdVc0Z2c1STJTb0JCMFElMjElMjE=)
+* [Iron (low) - Can I donate if my iron (ferritin) is low (iron deficiency)?](https://my.donateblood.com.au/app/answers/detail/a_id/22/related/1/session/L2F2LzEvdGltZS8xNzMzNzQ4ODQ3L2dlbi8xNzMzNzQ4ODQ3L3NpZC9mVXZmeFZIUF9MNTE4UkJQczZXWm1IaDFubjdwdWtUZlNqd2hBSnlScTY2RDhGQ1NLcHduRnElN0V5SWxyVHFyRVkzSVlQdlFiSUxDc2NYMnFuY2pBciU3RUhadTVmWkdCdWJyaVhZRlJ0JTdFNG1tdVc0Z2c1STJTb0JCMFElMjElMjE=)
+* [Colds - I have a cold. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/285/related/1/session/L2F2LzEvdGltZS8xNzMzNzQ4ODQ3L2dlbi8xNzMzNzQ4ODQ3L3NpZC9mVXZmeFZIUF9MNTE4UkJQczZXWm1IaDFubjdwdWtUZlNqd2hBSnlScTY2RDhGQ1NLcHduRnElN0V5SWxyVHFyRVkzSVlQdlFiSUxDc2NYMnFuY2pBciU3RUhadTVmWkdCdWJyaVhZRlJ0JTdFNG1tdVc0Z2c1STJTb0JCMFElMjElMjE=)
+* [I'm gender diverse, non-binary or transgender. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/1374/related/1/session/L2F2LzEvdGltZS8xNzMzNzQ4ODQ3L2dlbi8xNzMzNzQ4ODQ3L3NpZC9mVXZmeFZIUF9MNTE4UkJQczZXWm1IaDFubjdwdWtUZlNqd2hBSnlScTY2RDhGQ1NLcHduRnElN0V5SWxyVHFyRVkzSVlQdlFiSUxDc2NYMnFuY2pBciU3RUhadTVmWkdCdWJyaVhZRlJ0JTdFNG1tdVc0Z2c1STJTb0JCMFElMjElMjE=)
 
 Together, we're  
 Australia's Lifeblood.
