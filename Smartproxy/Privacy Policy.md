@@ -214,8 +214,6 @@ NEW](https://smartproxy.com/smartproxy-quick-start-guide)
 
 [Best](https://smartproxy.com/best)
 
-[Videos](https://smartproxy.com/blog?=video)
-
 [Webinars](https://smartproxy.com/scraping/webinars)
 
 [Customer Testimonials](https://smartproxy.com/case-studies)
