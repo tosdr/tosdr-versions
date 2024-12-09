@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Boat Fury](https://www.myabandonware.com/game/boat-fury-tqh)
+* [Fantastic Blood Boy](https://www.myabandonware.com/game/fantastic-blood-boy-tp1)
 * [Elemental Panic Crash](https://www.myabandonware.com/game/elemental-panic-crash-tov)
 * [Machines of Destruction](https://www.myabandonware.com/game/machines-of-destruction-toa)
 * [Factor X](https://www.myabandonware.com/game/factor-x-tmq)
-* [Dr. Doc](https://www.myabandonware.com/game/dr-doc-tmo)
-* [Douglas Circumstance](https://www.myabandonware.com/game/douglas-circumstance-tmn)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
