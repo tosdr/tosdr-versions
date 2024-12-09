@@ -70,7 +70,6 @@
         * [The Game of Wool](https://www.channel4.com/4viewers/takepart/game-of-wool)
         * [George Clarke's Kitchens v Gardens](https://www.channel4.com/4viewers/take-part/kitchen-garden)
         * [Grand Designs](https://www.channel4.com/4viewers/take-part/grand-designs)
-        * [The Great British Bake Off](https://www.channel4.com/4viewers/take-part/bake-off)
         * [Help! We Bought A Village](https://www.channel4.com/4viewers/take-part/bought-a-village)
         * [Kirstie and Phil's Love It or List It](https://www.channel4.com/4viewers/take-part/kirstie-and-phils-love-it-or-list-it)
         * [Location, Location, Location](https://www.channel4.com/4viewers/takepart/location)
