@@ -1,6 +1,6 @@
 [Skip to main content](#main-content)
 
-[![](https://youradchoices.com/./DAA_style/YAC/YAC_logo.png)](https://youradchoices.com/)
+[![](https://youradchoices.com/./DAA_style/YAC/YAC_logo.png)](https://youradchoices.com/?language=en)
 
 MENU
 
@@ -15,10 +15,10 @@ Translate
 Main menu
 ---------
 
-* [Learn](https://youradchoices.com/learn)
-* [Control](https://youradchoices.com/control)
-* [Principles](https://youradchoices.com/principles)
-* [About the DAA](https://youradchoices.com/about)
+* [Learn](https://youradchoices.com/learn?language=en)
+* [Control](https://youradchoices.com/control?language=en)
+* [Principles](https://youradchoices.com/principles?language=en)
+* [About the DAA](https://youradchoices.com/about?language=en)
 
 Terms of Use
 ============
