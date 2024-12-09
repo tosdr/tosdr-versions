@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                      
+Privacy policy – G FUEL                                                                                                  
 
 [Skip to content](#MainContent)  
 
@@ -105,19 +105,23 @@ Close menu
 * [Discord](https://discord.gg/DFKfA5PjDp "G FUEL on Discord")
 * [Twitch](https://www.twitch.tv/gfuelenergy "G FUEL on Twitch")
 
-  [![G FUEL](//gfuel.com/cdn/shop/files/G_Fuel_shrek_150x.png?v=1733159633) ![G FUEL](//gfuel.com/cdn/shop/files/G_Fuel_shrek_130x.png?v=1733159633)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/G_Fuel_shrek_150x.png?v=1733159633) ![G FUEL](//gfuel.com/cdn/shop/files/G_Fuel_shrek_130x.png?v=1733159633)](https://gfuel.com/)
+  [![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)[![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_150x.png?v=1731432585) ![G FUEL](//gfuel.com/cdn/shop/files/GFL-HolidayLogo_130x.png?v=1731432585)](https://gfuel.com/)
 
   Search  "Close (esc)"
 
-[](https://gfuel.com/collections/shrek)
+[](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 
-[Coming straight outta the swamp](https://gfuel.com/collections/shrek)[SHOP SHREK](https://gfuel.com/collections/shrek)
+[This holiday season, give the gift of energy!](https://gfuel.com/pages/gfuel-holiday-gift-guide)[SHOP GIFT GUIDE](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 
 ### SEE HOTTEST PICKS 🔥
 
  [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
 
  [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-108238_medium.png?v=1733447356) Miami Nights](https://gfuel.com/products/miami-nights-tub)
+
+ [![Bahama Mama](//gfuel.com/cdn/shop/files/bahama-mama-tub-g-fuel-gamer-drink-911629_medium.png?v=1733447296) Bahama Mama](https://gfuel.com/products/bahama-mama-tub-40-servings)
+
+ [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
  [![HYPE SAUCE Hydration](//gfuel.com/cdn/shop/products/hype-sauce-hydration-hydration-tub-g-fuel-gamer-drink-381042_medium.png?v=1687799391) HYPE SAUCE Hydration](https://gfuel.com/products/hype-sauce-hydration-tub)
 
@@ -126,10 +130,6 @@ Close menu
  [![Dragon Fruit Cans](//gfuel.com/cdn/shop/products/spyro-dragonfruit-cans-retail-rtd-g-fuel-gamer-drink-469412_medium.png?v=1667259506) Dragon Fruit Cans](https://gfuel.com/products/spyro-dragonfruit-cans)
 
  [![Berry Bomb Cans](//gfuel.com/cdn/shop/products/berry-bomb-cans-rtd-g-fuel-gamer-drink-435046_medium.png?v=1668618798) Berry Bomb Cans](https://gfuel.com/products/berry-bomb-cans)
-
- [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
-
- [![VShojo Sour Collector's Box](//gfuel.com/cdn/shop/files/vshojo-sour-collectors-box-tub-collectors-box-g-fuel-gamer-drink-122992_medium.png?v=1733447262) VShojo Sour Collector's Box](https://gfuel.com/products/vshojo-collectors-box)
 
 View more
 
@@ -210,9 +210,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[Shrek Collector's BoxBuy Now to Receive Before the Holidays!](https://gfuel.com/collections/shrek)
-
 [g fuel x shadow the hedgehogJoin the Waitlist](https://gfuel.com/products/ultimate-chaos-collectors-box)
+
+[30% off Day Ones collectionShop Core Flavors](https://gfuel.com/collections/core-flavors)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -598,7 +598,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/634/assets/app-store-badge.svg?v=123926581890561309811733155062)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/634/assets/google-play-badge.png?v=132395384020293405351733155062)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/635/assets/app-store-badge.svg?v=123926581890561309811733614685)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/635/assets/google-play-badge.png?v=132395384020293405351733614685)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
