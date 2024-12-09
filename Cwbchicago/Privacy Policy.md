@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/hugh-simmons-326x245.jpg)](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
+
+Roseland
+
+### [Hate crime charges filed against man who allegedly shot at 2 men he thought were gay](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
+
+[December 7, 2024 9:53 AM](https://cwbchicago.com/2024/12)
+
+Prosecutors have filed hate crime charges against a South Side man who allegedly shot at because he thought they were gay. No injuries were reported in the incident, which escalated into a SWAT standoff when the accused man barricaded himself inside his home and refused to let his mom go outside, officials said.[](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Jontae-Baker-and-Darryl-Tate-326x245.jpg)](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
+
+Kenwood
+
+### [2 men kidnapped cab driver at rifle point, made him Zelle cash](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
+
+[December 7, 2024 8:39 AM](https://cwbchicago.com/2024/12)
+
+Two men are charged with kidnapping and robbing a taxi driver this summer, forcing their 66-year-old victim to transfer money to them via Zelle at gunpoint. Prosecutors have charged one of the men with committing a nearly identical crime on the same block just four days earlier.[](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/John-Conway-scene-326x245.jpg)](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
 
 Lincoln Park
@@ -252,26 +272,6 @@ Lincoln Park
 [December 6, 2024 7:20 PM](https://cwbchicago.com/2024/12)
 
 The concealed carry holder who killed an erratic stranger on a Lincoln Park street last week had a trove of firearms, including a “sniper-like rifle,” inside his nearby condo, and a “multi-paged plan to harm an unrelated individual at a specific event,” prosecutors said Friday.[](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/James-bernstein-and-Xyaire-Askew-326x245.jpg)](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
-
-Avalon Park
-
-### [Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
-
-[December 6, 2024 12:05 PM](https://cwbchicago.com/2024/12)
-
-The truck driver who struck and killed a 4-year-old boy on a city street earlier this year was driving with a THC level more than three times the legal limit, prosecutors said this week. James Bernstein, 53, also had cocaine metabolite in his system at the time of the crash, according to the allegations.[](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/01/George-Miller-326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
-
-Citywide
-
-### [Man gets 4 years for robbing victim during Facebook Marketplace meetup](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
-
-[December 6, 2024 5:34 AM](https://cwbchicago.com/2024/12)
-
-Police have issued several warnings recently about armed men who are using social media marketplace ads to lure victims into robbery traps. Yesterday, a man pleaded guilty to committing a marketplace-related robbery. He received a four-year sentence but will be out of prison in less than a year.[](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
 
 Search
 
