@@ -92,9 +92,9 @@ Most Read
     
 3. 3. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
     
-4. 4. [Lower-cost sodium-ion batteries are finally having their moment](https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/)
+4. 4. [The shadow’s roots take hold in Wheel of Time S3 teaser](https://arstechnica.com/culture/2024/12/the-shadows-roots-take-hold-in-wheel-of-time-s3-teaser/)
     
-5. 5. [Amazon secretly slowed deliveries, deceived anyone who complained, lawsuit says](https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/)
+5. 5. [Innie rebellion is brewing in trippy Severance S2 trailer](https://arstechnica.com/uncategorized/2024/12/innie-rebellion-is-brewing-in-trippy-severance-s2-trailer/)
     
 
 Customize
