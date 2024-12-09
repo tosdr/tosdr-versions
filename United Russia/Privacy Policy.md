@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://cdn.er.ru/media/news/December2024/jNe2u2im3IW9S1WBfMW4-small.JPG)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
+
+[По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
+
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#марки](https://er.ru/activity/news?tags%5B0%5D=19673) [#гашение](https://er.ru/activity/news?tags%5B0%5D=19650) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
+
+Сегодня 11:59
+
+[![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/Z4IxZV4ksuoF0cb3lANO-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov77)
+
+[На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov77)
+
+[#Республика Карелия](https://er.ru/activity/news?tags%5B0%5D=1090918) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#Республика Калмыкия](https://er.ru/activity/news?tags%5B0%5D=4205) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Выборы ОМСУ](https://er.ru/activity/news?tags%5B0%5D=9863)
+
+Сегодня 11:22
+
+[![«Единая Россия» отправила подарки к Новому году для детей в Белгородской и Харьковской областях](https://cdn.er.ru/media/news/December2024/XCvCdSS6Uk4nDrApNHrB-small.png)](https://er.ru/activity/news/edinaya-rossiya-otpravila-podarki-k-novomu-godu-dlya-detej-v-belgorodskoj-i-harkovskoj-oblastyah)
+
+[«Единая Россия» отправила подарки к Новому году для детей в Белгородской и Харьковской областях](https://er.ru/activity/news/edinaya-rossiya-otpravila-podarki-k-novomu-godu-dlya-detej-v-belgorodskoj-i-harkovskoj-oblastyah)
+
+[#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Новыйгод](https://er.ru/activity/news?tags%5B0%5D=126639) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474)
+
+Сегодня 10:48
+
 [![«Единая Россия» провела межрегиональный женский форум в Биробиджане](https://cdn.er.ru/media/news/December2024/ht7VIuSCLsnVRM0nBFFt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-mezhregionalnyj-zhenskij-forum-v-birobidzhane)
 
 [«Единая Россия» провела межрегиональный женский форум в Биробиджане](https://er.ru/activity/news/edinaya-rossiya-provela-mezhregionalnyj-zhenskij-forum-v-birobidzhane)
@@ -320,30 +344,6 @@
 [Александр Двойных: «Единая Россия» обсуждает с Правительством запуск программы «Земский почтальон»](https://er.ru/activity/news/aleksandr-dvojnyh-edinaya-rossiya-obsuzhdaet-s-pravitelstvom-zapusk-programmy-zemskij-pochtalon)
 
 [#Двойных](https://er.ru/activity/news?tags%5B0%5D=44332) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#РоссийскоеСело](https://er.ru/activity/news?tags%5B0%5D=101051) [#почтальоны](https://er.ru/activity/news?tags%5B0%5D=7918) [#почта](https://er.ru/activity/news?tags%5B0%5D=17973) [#сельскиетерритории](https://er.ru/activity/news?tags%5B0%5D=121383) [#Правительство](https://er.ru/activity/news?tags%5B0%5D=1090296) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-06.12.24
-
-[![«Единая Россия» инициирует внесение изменений в законодательство, направленное на формирование единой системы контроля качества медицинской помощи в системе ОМС и вне её](https://cdn.er.ru/media/news/December2024/534y8gAaHqzKP6T5fcp9-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-iniciiruet-vnesenie-izmenenij-v-zakonodatelstvo-napravlennoe-na-formirovanie-edinoj-sistemy-kontrolya-kachestva-medicinskoj-pomoshi-v-sisteme-oms-i-vne-eyo)
-
-[«Единая Россия» инициирует внесение изменений в законодательство, направленное на формирование единой системы контроля качества медицинской помощи в системе ОМС и вне её](https://er.ru/activity/news/edinaya-rossiya-iniciiruet-vnesenie-izmenenij-v-zakonodatelstvo-napravlennoe-na-formirovanie-edinoj-sistemy-kontrolya-kachestva-medicinskoj-pomoshi-v-sisteme-oms-i-vne-eyo)
-
-[#ОМС](https://er.ru/activity/news?tags%5B0%5D=6147) [#страхование](https://er.ru/activity/news?tags%5B0%5D=1224) [#Проценко](https://er.ru/activity/news?tags%5B0%5D=36534) [#здравоохранение](https://er.ru/activity/news?tags%5B0%5D=116225) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Минздрав](https://er.ru/activity/news?tags%5B0%5D=1960) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#медпомощь](https://er.ru/activity/news?tags%5B0%5D=3932) [#контроль](https://er.ru/activity/news?tags%5B0%5D=312)
-
-06.12.24
-
-[![В Москве при поддержке «Единой России» прошёл Всероссийский фестиваль спортивной борьбы «Борьба — в школу»](https://cdn.er.ru/media/news/December2024/JMBMvUJNxj0W3qeKOTbS-small.JPG)](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-vserossijskij-festival-sportivnoj-borby-borba-v-shkolu)
-
-[В Москве при поддержке «Единой России» прошёл Всероссийский фестиваль спортивной борьбы «Борьба — в школу»](https://er.ru/activity/news/v-moskve-pri-podderzhke-edinoj-rossii-proshyol-vserossijskij-festival-sportivnoj-borby-borba-v-shkolu)
-
-[#Роднина](https://er.ru/activity/news?tags%5B0%5D=2239) [#Детскийспорт](https://er.ru/activity/news?tags%5B0%5D=122062) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#соревнования](https://er.ru/activity/news?tags%5B0%5D=1175) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#спортивнаяборьба](https://er.ru/activity/news?tags%5B0%5D=124250) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-06.12.24
-
-[![«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://cdn.er.ru/media/news/December2024/IHcLC8XqdSWpfHpsnyXO-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
-
-[«Единая Россия» передала более полумиллиона подарков детям на длительном лечении](https://er.ru/activity/news/edinaya-rossiya-peredala-bolee-polumilliona-podarkov-detyam-na-dlitelnom-lechenii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#сторонники](https://er.ru/activity/news?tags%5B0%5D=663) [#благотворительность](https://er.ru/activity/news?tags%5B0%5D=1220)
 
 06.12.24
 
