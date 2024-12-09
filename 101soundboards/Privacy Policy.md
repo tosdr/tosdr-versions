@@ -107,6 +107,10 @@ These are three ways you can edit sound files:
 2. Use the [online audio editor](https://www.101soundboards.com/pages/editor) to edit your files before you upload them.
 3. Trim your sounds after you upload them by pressing the icon next to the sound on your soundboard.
 
+##### Can I use my microphone to record sounds?
+
+Yes! Press the red 'Microphone Record' button above your soundboard to record sounds directly from your microphone.
+
 ##### Can I make my own Favorites soundboard and share it with my friends?
 
 Yes you can. Sign up or log in to your account. Right-click any sound on any soundboard and press 'Add to Favorites.' Then find your public favorites soundboard on the [favorites soundboards list](https://www.101soundboards.com/favorites). The newest ones are at the end of the list.
@@ -153,6 +157,10 @@ Alternatively, if you have found an offensive sound, right click on the sound (p
 
 You can find more voices and song generators on the [TTS Voices List](https://www.101soundboards.com/tts). Explore a variety of voices and create unique sounds to share with your friends.
 
+##### Can I clone a voice and create a Text to Speech voice from a recording?
+
+Yes! Create a soundboard with only sounds of the person/character you wish to clone, then press the 'Clone as TTS Voice' button.
+
 ##### Why did another similar sound get generated?
 
 Sometimes we use AI to generate a phrase in the style of the character or voice you requested. This is a bonus and can be fun to explore.
@@ -160,10 +168,6 @@ Sometimes we use AI to generate a phrase in the style of the character or voice 
 ##### How can I learn more about the TTS feature?
 
 If you have more questions about the TTS feature or need help with a specific request, please contact us through the [contact page](https://www.101soundboards.com/pages/contact). We are here to help you create awesome sounds!
-
-##### Can I clone a voice and create a Text to Speech voice from a recording?
-
-Yes! Create a soundboard with only sounds of the person/character you wish to clone, then press the 'Clone as TTS Voice' button.
 
 ##### Can I suggest new voices or features for the TTS feature?
 
