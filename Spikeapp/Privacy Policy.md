@@ -63,7 +63,7 @@
 
 [Sign in Spike Web App version](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F "Click for the Sign In page")
 
-[Book a Demo](https://www.spikenow.com/contact-sales) [Get Started Free](https://spikenow.com/r/a/?ref=website-direct&lastPageUrl=%252Fprivacy-policy%252F) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
+[Create a teamspace](https://spikenow.com/teams/create) [Download Spike](https://spikenow.com/r/a/?ep=website-mobiledownload)
 
 Privacy Policy
 ==============
