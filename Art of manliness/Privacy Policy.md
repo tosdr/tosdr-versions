@@ -202,6 +202,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [Get Your Son Out of His Bedroom](https://www.artofmanliness.com/people/fatherhood/get-your-son-out-of-his-bedroom/)
 
+[![Children play on a seesaw in an outdoor park, their joyful laughter echoing as others stand and cheer. A son eagerly awaits his turn, hoping to join the fun.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/boys-and-gangs/)
+
+[Your Son Needs to Join a Gang](https://www.artofmanliness.com/people/relationships/boys-and-gangs/)
+
 [![A hand holds a needle near a blue balloon against a clear sky, symbolizing the tension of rejection and how to deal with it.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
 
 [Podcast #1,033: Ouch! That Stings! Why Rejection Hurts So Much (And How to Deal With It)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
@@ -213,10 +217,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Close-up of the book ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
 
 [Podcast #865: How to Win Friends and Influence People in the 21st Century](https://www.artofmanliness.com/people/relationships/podcast-865-how-to-win-friends-and-influence-people-in-the-21st-century/)
-
-[![Three people stand together with arms raised in celebration on a rocky riverbank, surrounded by lush mountains, with the sun setting behind them—an ideal scene of enduring friendships.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
-
-[Why Are Female Friendships the Ideal? (‘Cause Dude Friendships Also Rock)](https://www.artofmanliness.com/people/relationships/why-are-women-s-friendships-the-ideal/)
 
 [![Illustration of a bearded man in a red headscarf next to the text ](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/people/social-skills/the-ancient-art-of-saying-no-plutarch-s-guide-to-breaking-free-from-people-pleasing/)
 
@@ -256,6 +256,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
+[![A cartoon of a man decorating a Christmas tree with lights.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-put-lights-on-your-christmas-tree/)
+
+[Skill of the Week: Put Lights on Your Christmas Tree Without Swearing Up a Storm](https://www.artofmanliness.com/skills/manly-know-how/how-to-put-lights-on-your-christmas-tree/)
+
 [![A cartoon illustration of a man throwing a punch at another man.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/3-ways-to-throw-an-elbow-strike/)
 
 [Skill of the Week: Throw a Devastating Elbow Strike](https://www.artofmanliness.com/skills/manly-know-how/3-ways-to-throw-an-elbow-strike/)
@@ -267,10 +271,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![A person, depicted in a comic style, is performing the French Drop Coin Trick for two children. The kids appear interested and are looking intently at the coin as they watch Cool Uncle Tricks in action.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
 
 [Cool Uncle Tricks: How to Perform the French Drop Coin Trick](https://www.artofmanliness.com/skills/manly-know-how/cool-uncle-tricks-how-to-perform-the-french-drop-coin-trick/)
-
-[![Illustration of a sneaker pressing lightly on a brake pedal with a red arrow indicating upward movement of the foot, showcasing Car Brake Safety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
-
-[Skill of the Week: Handle Your Car’s Brakes Going Out](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
 
 [![An illustration of a bald man holding a pipe, demonstrating how to siphon fuel.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-siphon-fuel/)
 
@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1044-what-sports-betting-is-really-doing-to-players-games-and-fans/)
+
+[Podcast #1,044
+
+###### What Sports Betting Is Really Doing to Players, Games, and Fans](https://www.artofmanliness.com/character/behavior/podcast-1044-what-sports-betting-is-really-doing-to-players-games-and-fans/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1043-achieve-peak-performance-by-learning-to-shift-the-gears-of-your-mind/)
+
+[Podcast #1,043
+
+###### Achieve Peak Performance by Learning to Shift the Gears of Your Mind](https://www.artofmanliness.com/character/behavior/podcast-1043-achieve-peak-performance-by-learning-to-shift-the-gears-of-your-mind/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/etiquette/podcast-1042-flying-hosting-regifting-and-more-all-your-holiday-etiquette-questions-answered/)
 
 [Podcast #1,042
@@ -660,18 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,041
 
 ###### Rich Mind vs. Poor Mind — A Psychologist’s Guide to Building Wealth](https://www.artofmanliness.com/career-wealth/wealth/podcast-1041-rich-mind-vs-poor-mind-a-psychologists-guide-to-building-wealth/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
-
-[Podcast #1,040
-
-###### Tribal Runners, Weekend Warriors, and Our Changing Relationship to Endurance Sports](https://www.artofmanliness.com/health-fitness/fitness/podcast-1040-tribal-runners-weekend-warriors-and-our-changing-relationship-to-endurance-sports/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
-
-[Podcast #1,039
-
-###### What’s Behind the Rise of Parent-Child Estrangement?](https://www.artofmanliness.com/people/family/podcast-1039-whats-behind-the-rise-of-parent-child-estrangement/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
