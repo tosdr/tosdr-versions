@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
-* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
+* [Sport­socken im Test: Zwei schrumpfen, drei scheuern durch](https://www.test.de/Sportsocken-im-Test-Zwei-schrumpfen-drei-scheuern-durch-6141956-0/ "Sportsocken im Test - Zwei schrumpfen, drei scheuern durch")
+* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
+* [Eventimcard im Test: Was die Kreditkarte für Konzert­gänger bringt](https://www.test.de/Eventimcard-im-Test-Was-die-Kreditkarte-fuer-Konzertgaenger-bringt-5973768-0/ "Eventimcard im Test - Was die Kreditkarte für Konzertgänger bringt")
+* [Niereninsuffizienz vorbeugen: Bei Hitze an die Nieren denken](https://www.test.de/Nieren-Schaeden-rechtzeitig-erkennen-4196397-0/ "Niereninsuffizienz vorbeugen - Bei Hitze an die Nieren denken")
+* [Football-Fans droht massive Preis­erhöhung: Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen](https://www.test.de/Massive-Preiserhoehung-fuer-Football-Fans-Teure-Touchdowns-bei-Dazn-wie-Sie-sich-wehren-6132954-0/ "Football-Fans droht massive Preiserhöhung - Teure Touchdowns bei Dazn – wie Sie 300 Euro sparen")
+* [Wunder­sames aus dem Prüf­labor: Hitziger Streuner](https://www.test.de/Wundersames-aus-dem-Prueflabor-Hitziger-Streuner-6125232-0/ "Wundersames aus dem Prüflabor - Hitziger Streuner")
 
 Stiftung Warentest
 
