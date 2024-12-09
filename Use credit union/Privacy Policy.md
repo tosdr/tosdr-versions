@@ -60,56 +60,57 @@ Menu
     * Spend
         * [Checking](https://www.blupeak.com/spend-save/checking-account/)
         * [Credit Cards](https://www.blupeak.com/credit-cards/)
+        * [FlexPay](https://www.blupeak.com/flexpay/)
         * [Mobile Wallet](https://www.blupeak.com/spend-save/mobile-wallet/)
     * Save
-        * [Savings](https://www.blupeak.com/spend-save/savings/)
         * [Money Market](https://www.blupeak.com/spend-save/money-market/)
+        * [Savings](https://www.blupeak.com/spend-save/savings/)
         * [Term Certificates](https://www.blupeak.com/spend-save/term-certificates/)
     * Track & Transfer
         * [Online & Mobile Banking](https://www.blupeak.com/spend-save/online-mobile-banking/)
         * [Zelle](https://www.blupeak.com/spend-save/zelle/)
     
-    [![11 Month liquid](https://www.blupeak.com/files/2-9.png)](https://www.blupeak.com/spend-save/term-certificates/)
+    [![Certificate rates](https://www.blupeak.com/files/2-11.png)](https://www.blupeak.com/spend-save/term-certificates/)
     
     [Open Term Certificate](https://www.blupeak.com/spend-save/term-certificates/)
     
 * Borrow
     
-    * [Home Loans](https://www.blupeak.com/borrow/home-loans/)
     * [Auto Loans & Car Buying](https://www.blupeak.com/borrow/auto-loans-car-buying/)
     * [Boat & RV Loans](https://www.blupeak.com/borrow/boat-rv-loans/)
-    * [Personal Loans](https://www.blupeak.com/borrow/personal-loans/)
+    * [Home Loans](https://www.blupeak.com/borrow/home-loans/)
     * [Loans for Students](https://www.blupeak.com/borrow/loans-students/)
+    * [Personal Loans](https://www.blupeak.com/borrow/personal-loans/)
     * [Solar Loans](https://www.blupeak.com/borrow/solar-loans/)
     
 * Plan
     
     * Products & Services
+        * [Credit Protection](https://www.blupeak.com/plan/credit-protection/)
         * [IRAs & Retirement Planning](https://www.blupeak.com/plan/iras-retirement/)
         * [Investment Services](https://www.blupeak.com/plan/investment-services/)
         * [Insurance](https://www.blupeak.com/plan/insurance/)
-        * [Credit Protection](https://www.blupeak.com/plan/credit-protection/)
         * [Trust & Will](https://www.blupeak.com/trust-and-will/)
     * Financial Wellness
-        * [Dream Blog](https://www.blupeak.com/blog/)
-        * [Financial Education & Counseling](https://www.blupeak.com/plan/financial-education-counseling/)
+        * [Blog](https://www.blupeak.com/blog/)
         * [Calculators](https://www.blupeak.com/plan/calculators/)
+        * [Financial Education & Counseling](https://www.blupeak.com/plan/financial-education-counseling/)
     
 * Community & About
     
-    * Community
-        * [Community Impact](https://www.blupeak.com/community-about/impact/)
-        * [Member Perks](https://www.blupeak.com/community-about/member-perks/)
     * About
         * [Annual Report](https://www.blupeak.com/annual-report/)
         * [Become A Member](https://www.blupeak.com/join/)
         * [Careers](https://www.blupeak.com/community-about/careers/)
         * [Who We Are](https://www.blupeak.com/community-about/who-we-are/)
+    * Community
+        * [Community Impact](https://www.blupeak.com/community-about/impact/)
+        * [Member Perks](https://www.blupeak.com/community-about/member-perks/)
     
 * [Join](https://app.consumer.meridianlink.com/xa/xpressApp.aspx?lenderref=Usecuretail6618&type=1&referralsource=USEWEBSITE&branchid=05218e3a86ef45a198e23a7adb4d88ae&_ga=2.98660574.1115279142.1712597770-165323722.1711652736&_gl=1*1mslxlk*_ga*MTY1MzIzNzIyLjE3MTE2NTI3MzY.*_ga_15KJX9KCR2*MTcxMjU5Nzc2OS45LjAuMTcxMjU5Nzc3My4wLjAuMA..)
     
-    * [Checking and Savings](https://app.consumer.meridianlink.com/apply.aspx?lenderref=Usecuretail6618&list=XASAST)
     * [Auto Loans](https://app.consumer.meridianlink.com/vl/VehicleLoan.aspx?lenderref=Usecuretail6618&type=1)
+    * [Checking and Savings](https://app.consumer.meridianlink.com/apply.aspx?lenderref=Usecuretail6618&list=XASAST)
     * [Mortgages](https://bpcu-pos.co.otdigitals.bkicloud.com/landingPage)
     * [Personal Loans](https://app.consumer.meridianlink.com/pl/PersonalLoan.aspx?lenderref=Usecuretail6618&type=1)
     * [Application Status](https://app.consumer.meridianlink.com/cu/ViewSubmittedLoans.aspx?enc=Kw21Wblm1yxpjJabdoZaDz0T0VW-iEm_E64sgJxwXLFNQnyqFjmbW8tjTwORGQ47dq5vs6Lim_1UkKDT7v6VcK5fySOy2lrvd6L6BDu5qjX-B1RD9G755ZBr-06sqBvJwWbrzfvHUOIAVd8w-Eka5Q&_ga=2.98660574.1115279142.1712597770-165323722.1711652736&_gl=1*1mslxlk*_ga*MTY1MzIzNzIyLjE3MTE2NTI3MzY.*_ga_15KJX9KCR2*MTcxMjU5Nzc2OS45LjAuMTcxMjU5Nzc3My4wLjAuMA..)
