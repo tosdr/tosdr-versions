@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Henry Venter
+Anri van der Linde
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=90951498)  
-Echo Recording Studio cc
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=185779404)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=21613993)  
-Abandoned Vehicle and Truck Solutions
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=6918064)  
+KTEN PARTS
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=161719482)  
-Brilliant Roof Products
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=149906562)  
+NWET Pty LTD
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=97802012)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=130416055)  
+West Coast Horse Trails
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=155633209)  
-Repairs In Motion
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=77104999)  
+Mountain Lion Properties
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=83984927)  
-Salvage Genie
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=88540489)  
+TIGERDSL
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=103141225)  
-Karino Merinos ( PTY ) LTD
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=71889689)  
+Tantra Sound and Lightz
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=139643792)  
-SAUL ATHOL ACRES RENTAL
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=69013136)  
+MONSTER SECURITY SERVICES
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=121826657)  
-Stevens Consulting
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=125975362)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=181480312)  
-United Paintball Federation
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=64212361)  
+Xpress Designs
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=188823310)  
-Skinz Printing & Branding
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=35266499)  
+Vplay Letsheng Mall
 
-![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=99137027)  
-NJR ICT Services (Pty) Ltd
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=190389020)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=164628999)  
-Konsortium Operations (PTY) LTD
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=111726757)  
+Import Maaw
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=191896589)  
-Moving Made Easy (PTY) Ltd
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=21734022)  
+Network Grey (Pty) Ltd
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=f3dacfc08f8bf14e4a9b0d22ab8835aadff08c898c556481bba01a529f18f755&c=164604013)  
-LEONARD
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=03c639ad65e48c6315f677f455b69e2e333bb6368932706f18d0b6986238eb1e&c=3978381)  
+Myfinance-Online
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
