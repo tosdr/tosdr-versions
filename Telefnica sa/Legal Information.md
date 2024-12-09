@@ -60,8 +60,8 @@ Telefonica.com
         * [Wayra](https://www.telefonica.com/es/sostenibilidad-innovacion/innovacion/wayra/)
         * [Innovación con ayudas públicas](https://www.telefonica.com/es/sostenibilidad-innovacion/innovacion/innovacion-con-ayudas-publicas/)
         * [Descubriendo la vanguardia digital](https://www.telefonica.com/es/sostenibilidad-innovacion/innovacion/descubriendo-la-vanguardia-digital/)
-    * [Canal de Denuncias](https://www.telefonica.com/es/canal-denuncias-consultas/)
-    * [Privacidad y Seguridad![flecha arriba derecha](https://www.telefonica.com/es/wp-content/uploads/sites/4/2023/02/arrow-line-up-right-icon.svg)](https://www.telefonica.com/es/centro-global-de-transparencia/)
+    * [Canal de Consultas](https://www.telefonica.com/es/sostenibilidad-innovacion/canal-consultas/)
+    * [Centro Global de Transparencia![flecha arriba derecha](https://www.telefonica.com/es/wp-content/uploads/sites/4/2023/02/arrow-line-up-right-icon.svg)](https://www.telefonica.com/es/centro-global-de-transparencia/)
     
 * [Servicios](https://www.telefonica.com/es/servicios/)
     
@@ -230,7 +230,7 @@ Hacer nuestro mundo más humano, conectando la vida de las personas.
 * [Contacto](https://www.telefonica.com/es/contacto/)
 
 * [Países y Unidades emergentes](https://www.telefonica.com/es/nosotros/paises-unidades-emergentes/)
-* [Canal de Denuncias y Consultas](https://www.telefonica.com/es/canal-denuncias-consultas/)
+* [Canal de Denuncias](https://www.telefonica.com/es/canal-denuncias/)
 * [Centro Global Transparencia](https://www.telefonica.com/es/centro-global-de-transparencia/)
 
 [Volver a la portada](https://www.telefonica.com/es/)
