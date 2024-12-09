@@ -15,7 +15,7 @@
 search  
 
 * [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
-* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
+* [30-Days Money-Back](https://www.thomannmusic.com/helpdesk_moneyback.html)
 
 en · $
 
