@@ -87,7 +87,7 @@ Need help?
 
 [About](https://www.wsipc.org/about)
 
-[Governance](https://www.wsipc.org/governance) [Careers](https://www.wsipc.org/careers)
+[Governance](https://www.wsipc.org/governance) [Careers](https://www.wsipc.org/careers) [Land Acknowledgement](https://www.wsipc.org/land-acknowledgement)
 
 [Twitter](https://twitter.com/WSIPC "Twitter") [Facebook](https://www.facebook.com/WSIPC "Facebook") [Instagram](http://instagram.com/wsipc_ "Instagram") [LinkedIn](https://www.linkedin.com/company/wsipc "LinkedIn") [YouTube](https://www.youtube.com/user/WSIPC1 "YouTube")
 
