@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The first autographed copy of Harry Potter and the Half-Blood Prince was shipped across the Atlantic in a trunk and taken via armored truck to a secret location.
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-October 3, 2007 – Harry Potter and the Order of the Phoenix becomes the #6 highest grossing film of all time, pulling in $933.9 million worldwide.
+April 30, 2009 – Harry Potter: The Exhibition opens at Chicago’s Museum of Science and Industry.
 
 ### Potter Quote
 
-“I knew I could do it this time, because I’d already done it. . . . Does that make sense?”
+“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
 
 [](#)
 
