@@ -2,11 +2,11 @@ Shop Now
 
 20% Off on Orders $99+ Ends in..
 
-0DAYS10HRS7MINS
+0DAYS4HRS6MINS
 
 20% Off on Orders $99+ Ends in..
 
-0DAYS10HRS7MINS
+0DAYS4HRS6MINS
 
 Shop Now
 
