@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Early Holiday Sale | 15% Off Self-Defense w/ SD15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=Early+Holiday+Sale+15%25+Off+Self-Defense)
+[Shop Our Holiday Gift Guide | Click Here!](https://www.thehomesecuritysuperstore.com/collections/gift-guide?utm_source=website&utm_medium=banner&utm_campaign=Shop+Our+Holiday+Gift+Guide)
 
-TODAY'S OFFER: :: | Early Holiday Sale | 15% Off Self-Defense w/ SD15
+TODAY'S OFFER: :: | Shop Our Holiday Gift Guide | Click Here!
 
 TODAY'S OFFER: : :
 
- Early Holiday Sale 15% Off Self-Defense w/ SD15
+ Shop Our Holiday Gift Guide Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
