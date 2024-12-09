@@ -143,12 +143,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Dec 3
-
-12:30 pm - 2:00 pm
-
-### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-3/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
-
 Dec 12
 
 4:00 pm - 5:30 pm [Event Series](https://tcog.com/series/audit-and-finance-committee/ "Event Series")
