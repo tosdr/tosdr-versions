@@ -46,8 +46,8 @@ Sign in
 * [Weather](https://www.timeanddate.com/weather/)
     * [Worldwide](https://www.timeanddate.com/weather/)
     * [Local Weather](https://www.timeanddate.com/scripts/go.php)
-    * [Hour-by-Hour](https://www.timeanddate.com/scripts/go.php?type=hourly)
     * [2-Week Forecast](https://www.timeanddate.com/scripts/go.php?type=ext)
+    * [Hour-by-Hour](https://www.timeanddate.com/scripts/go.php?type=hourly)
     * [Past Week](https://www.timeanddate.com/scripts/go.php?type=historic)
     * [Climate](https://www.timeanddate.com/scripts/go.php?type=climate)
 * [Sun, Moon & Space](https://www.timeanddate.com/astronomy/)
@@ -255,7 +255,7 @@ Norway
 
 [![](//c.tadst.com/gfx/64x64/cardpaid-supporter.png?1)
 
-### Become a Supporter
+Become a Supporter
 
 Help us keep up the good work.](https://www.timeanddate.com/services/supporter.html)
 
