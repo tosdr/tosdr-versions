@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. java
+1. data science
     
-2. graphic design
+2. law
     
-3. cyber security
+3. web development
     
 
 Popular subjects
 
-1. [Entrepreneurship
+1. [Psychology
     
-    4,250 courses](https://www.classcentral.com/subject/entrepreneurship)
+    2,869 courses](https://www.classcentral.com/subject/psychology)
 2. [Communication Skills
     
     4,330 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Data Analysis
+3. [Digital Marketing
     
-    8,982 courses](https://www.classcentral.com/subject/data-analysis)
+    6,341 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 
-1. [Protecting Business Innovations via Patent
+1. [Introduction to Cyber Security
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/protect-business-innovations-patent-10382)
-2. [Academic Writing Made Easy
+    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
+2. [Machine Learning for Musicians and Artists
     
-    Technische Universität München (Technical University of Munich)](https://www.classcentral.com/course/writing-technische-universitat-munchen-academic-w-13157)
-3. [Introduction to Frisian
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+3. [Supporting Victims of Domestic Violence
     
-    University of Groningen](https://www.classcentral.com/course/frisian-6637)
+    The University of Sheffield](https://www.classcentral.com/course/domestic-violence-15221)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
