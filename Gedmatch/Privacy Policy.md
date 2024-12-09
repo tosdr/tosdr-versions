@@ -440,11 +440,14 @@ Email
 support@gedmatch.com
 
 Address  
-11111 Flintkote Avenue  
-San Diego, CA 92121
+19300 Germantown Rd.  
+Germantown, Maryland  
+20874
 
 * © GEDmatch 2024
 
-* [Privacy Policy & Terms of Use](https://www.gedmatch.com/terms-of-service-privacy-policy-may-31-2023/)
+* [Terms of Service](https://www.gedmatch.com/terms-of-service-november-22-2024/)
+
+* [Privacy Policy](https://www.gedmatch.com/privacy-policy-november-22-2024/)
 
 * [Cookie Settings](#cookie-settings)
