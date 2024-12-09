@@ -196,61 +196,61 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Support even on Sundays!
+> Wish I started ages ago!
 > ------------------------
 > 
-> Thanks Adriaan...
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> You guys even work on Sundays?
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
 > 
-> I’m impressed!!
+> I just wish I started using Invoices Online ages ago.
 
-Johan Botha - Brand Xplosion
+Terri Winfield
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=117414001)  
-TurboFibre
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=152974338)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=209309598)  
-#DiGi3 Marketing & Design
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=144489320)  
+Well Hung Art
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=174556369)  
-Cooper Logistics (Pty) Ltd
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=164652208)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=44336968)  
-FJW Security Cc
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=207628508)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=18097072)  
-Fox Alarms & Security CC
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=88195627)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=112922567)  
-Myfinance-Online
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=28962532)  
+Stevens Consulting
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=213226114)  
-Norton Medical & Consult - Namibia
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=182086336)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=104859172)  
-LEO DEVELOPMENT GROUP
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=114319093)  
+OptaServ
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=127058233)  
-Cooper Power South Africa (Pty) LTD
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=200349120)  
+AFS Electrical
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=70822107)  
-Moremi Kitchens Rustenburg
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=147874878)  
+Vplay Grafix
 
-![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=203639094)  
-Konsortium Operations ( Roamfree Meats )
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=192512438)  
+Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=168198108)  
-Dombieterfontein (PTY) LTD
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=119061236)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=183351251)  
-Roekeloos Group
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=184737767)  
+MR Compressors& Industrial Supplies
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=150063406)  
-West Coast Horse Trails
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=63703041)  
+FX ACCOUNTING
 
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=8a343606ce2d816e00d41ddbb520eb9fb84da50a7d7f3fbf5128a6d3af70f5c6&c=42557898)  
-One2b
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=0d758ce634c59dc066fda222b4303984b338cc7c45e303554a552bdbfe83b016&c=55826094)  
+TIGERDSL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
