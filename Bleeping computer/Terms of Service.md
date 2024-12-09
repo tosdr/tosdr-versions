@@ -358,9 +358,9 @@ Popular Stories
 * [![Ultralytics](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Ultralytics AI model hijacked to infect thousands with cryptominer](https://www.bleepingcomputer.com/news/security/ultralytics-ai-model-hijacked-to-infect-thousands-with-cryptominer/)
-* [![Spider](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    US arrests Scattered Spider suspect linked to telecom hacks](https://www.bleepingcomputer.com/news/security/us-arrests-scattered-spider-suspect-linked-to-telecom-hacks/)
+    U.S. org suffered four month intrusion by Chinese hackers](https://www.bleepingcomputer.com/news/security/us-org-suffered-four-month-intrusion-by-chinese-hackers/)
 
 ##### Follow us:
 
