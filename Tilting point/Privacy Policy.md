@@ -221,6 +221,8 @@ This Policy may be provided as a courtesy in multiple languages, however, the En
 
 We may update this Policy from time to time, for example due to changes in our operations or the legal obligations that apply to us. Updates will be made available here. We may also inform you of any changes by other means that are appropriate to the significance of the changes.
 
+**[Download PDF of this policy](https://cdn-tiltingpoint-website.tiltingpoint.io/app/uploads/2024/12/09100325/Privacy-Policy-Tilting-Point.pdf)**
+
 **English  
 ****[日本語 (Japanese)](https://www.tiltingpoint.com/ja/privacy-policy)  
 **[**한국어 (Korean)**](https://www.tiltingpoint.com/ko/privacy-policy)
