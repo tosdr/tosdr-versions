@@ -123,44 +123,44 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
     
-    The Fog of War
+    Dispatches: The Killing Zone
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
     
-    The Hour Of Our Time: The Legacy of William Cooper
+    Why We Bang
     
-    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
+    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
 
 ###### Throwback Documentaries
 
-* [![7/7: Ripple Effect](/wp-content/thumbnails/2370-100x70.png?x53432)
+* [![End of the Century: The Story of the Ramones](/wp-content/thumbnails/2855-100x70.jpg?x53432)
     
-    7/7: Ripple Effect
+    End of the Century: The Story of the Ramones
     
-    Verint Systems is the security firm that is responsible for the CCTV surveillance cameras, in the London Underground rail network, and it is an Israeli company, with approximately 1000 employees. This](https://documentaryheaven.com/77-ripple-effect/ "7/7: Ripple Effect")
-* [![Roving Mars](/wp-content/thumbnails/3398-100x70.jpg?x53432)
+    End of the Century: The Story of the Ramones is a 2003 documentary about the highly influential punk rock band the Ramones. The film, produced and directed by Jim Fields and Michael Gramaglia, follows](https://documentaryheaven.com/end-of-the-century-the-story-of-the-ramones/ "End of the Century: The Story of the Ramones")
+* [![Cat Wars](/wp-content/thumbnails/9384-100x70.jpg?x53432)
     
-    Roving Mars
+    Cat Wars
     
-    Mars is Earth’s closest planetary neighbor, and for decades scientists have been curious about the so-called “Red Planet,” wondering if it’s possible that life exists there, how its soil and terrain d](https://documentaryheaven.com/roving-mars/ "Roving Mars")
-* [![I Woke Up Gay](/wp-content/thumbnails/7804-100x70.jpg?x53432)
+    Cats are one of the most popular domesticated animals around and in the United Kingdom their numbers have dramatically risen over the last couple of years to around ten million. This number is vi](https://documentaryheaven.com/cat-wars/ "Cat Wars")
+* [![Tales Of The Grim Sleeper](/wp-content/thumbnails/11643-100x70.jpg?x53432)
     
-    I Woke Up Gay
+    Tales Of The Grim Sleeper
     
-    In the small town of Ystrad Mynach, South Wales, seven years ago, a 19-stone rugby-playing ladies man and bank clerk Chris Birch snapped his neck while larking around doing somersaults and backflips w](https://documentaryheaven.com/woke-up-gay/ "I Woke Up Gay")
-* [![Can You Hack It? – Hackers Wanted](/wp-content/thumbnails/5087-100x70.jpg?x53432)
+    Lonnie Franklin lived on 81st Street in Western Avenue in South Central, Los Angeles, the poor part of town with the worst schools and the worst hospitals, with little to no jobs available. Everyone f](https://documentaryheaven.com/tales-of-grim-sleeper/ "Tales Of The Grim Sleeper")
+* [![Atom: The Illusion of Reality](/wp-content/thumbnails/1756-100x70.jpg?x53432)
     
-    Can You Hack It? – Hackers Wanted
+    Atom: The Illusion of Reality
     
-    Hackers Wanted is an unreleased American documentary film. Directed and written by Sam Bozzo, the film explores the origins and nature of hackers and hacking by following the adventures of Adrian Lamo](https://documentaryheaven.com/can-you-hack-it-hackers-wanted/ "Can You Hack It? – Hackers Wanted")
-* [![How To Start A Revolution](/wp-content/thumbnails/6500-100x70.png?x53432)
+    In this three-part documentary series, Professor Jim Al-Khalili tells the story of one of the greatest scientific discoveries ever: that the material world is made up of atoms.Al-Khalili discovers](https://documentaryheaven.com/atom-illusion-of-reality/ "Atom: The Illusion of Reality")
+* [![Spice Girls: Giving You Everything](/wp-content/thumbnails/8826-100x70.jpg?x53432)
     
-    How To Start A Revolution
+    Spice Girls: Giving You Everything
     
-    Gene Sharp is Professor Emeritus of political science at the University of Massachusetts Dartmouth. He is known for his extensive writings on nonviolent struggle, which have influenced numerous anti-g](https://documentaryheaven.com/how-to-start-a-revolution/ "How To Start A Revolution")
+    Spice Girls were the first major British pop music phenomenon of the mid-'90s to not have a debt to independent pop/rock. Instead, the all-female quintet derived from the dance-pop tradition that made](https://documentaryheaven.com/spice-girls-giving-you-everything/ "Spice Girls: Giving You Everything")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
