@@ -20,16 +20,16 @@ Monday, December 9 2024
 
 Latest
 
-* [“It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
-* [Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
-* [QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
-* [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
-* [How to Get More Spirit in Path of Exile 2](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
-* [StorMagic SvSAN 6.3 review | ITPro](https://digitpatrox.com/stormagic-svsan-6-3-review-itpro/)
-* [You Can Now Follow Mastodon Users on Threads (Sort Of)](https://digitpatrox.com/you-can-now-follow-mastodon-users-on-threads-sort-of/)
-* [Which Brands Make the Best Cars?](https://digitpatrox.com/which-brands-make-the-best-cars/)
-* [How to Combine Images Into One PDF File in Windows 10 or Windows 11](https://digitpatrox.com/how-to-combine-images-into-one-pdf-file-in-windows-10-or-windows-11/)
-* [7 ways to get more out of your air purifier](https://digitpatrox.com/7-ways-to-get-more-out-of-your-air-purifier/)
+* [The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
+* [What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
+* [Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
+* [Holiday Babyproofing Tips Experts Want Parents to Know](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
+* [There’s a New Way to Reset Your Chromebook](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
+* [AI tools are growing in popularity at enterprises, but not all of them are approved by employers – and that’s a serious problem for IT and security leaders](https://digitpatrox.com/ai-tools-are-growing-in-popularity-at-enterprises-but-not-all-of-them-are-approved-by-employers-and-thats-a-serious-problem-for-it-and-security-leaders/)
+* [How to Hide Zero Values in Excel Charts](https://digitpatrox.com/how-to-hide-zero-values-in-excel-charts/)
+* [The new Llama 3.3 70B model has just dropped — here’s why it’s a big deal](https://digitpatrox.com/the-new-llama-3-3-70b-model-has-just-dropped-heres-why-its-a-big-deal/)
+* [Cybercrime gang arrested after turning Airbnbs into fraud centers](https://digitpatrox.com/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/)
+* [Xiaomi’s next EV will be the YU7, coming summer 2025](https://digitpatrox.com/xiaomis-next-ev-will-be-the-yu7-coming-summer-2025/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/risaDF74rrk6rnN7xxLdHi-1200-80.jpg)](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
+* [![](https://lifehacker.com/imagery/articles/01JEP6ANYRZG01FTFJ6AS4RCV6/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
     
-    [“It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
+    [The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
     
-    8 minutes ago
+    19 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/42FQMRqSnE4w4gydJRNUYP-1200-80.gif)](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/What-can-somebody-do-with-your-IP-address_.jpg)](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
     
-    [Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
+    [What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
     
-    16 minutes ago
+    24 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/10/02/Hacker-headpic.jpg)](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/12/kb5046733-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
     
-    [QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
+    [Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
     
-    1 hour ago
+    26 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/IrpItkkCpjBiUZvRBZ79uqNwE4k=/0x0:2560x1440/1200x628/filters:focal(1280x720:1281x721)/cdn.vox-cdn.com/uploads/chorus_asset/file/25781069/itch.jpeg)](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733238823/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-Holiday-Babyproofing-Tips-Experts-Want-Parents-To-Know-1224)](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
     
-    [Itch.io is currently offline due to a ‘trash AI-powered’ phishing report](https://digitpatrox.com/itch-io-is-currently-offline-due-to-a-trash-ai-powered-phishing-report/)
+    [Holiday Babyproofing Tips Experts Want Parents to Know](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
     
-    2 hours ago
+    29 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Get-More-Spirit-in-Path-of-Exile-2.jpg)](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/how-to-geek-open-on-the-lenovo-chromebook-duet-11-inch-5_54048998247_o.jpg)](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
     
-    [How to Get More Spirit in Path of Exile 2](https://digitpatrox.com/how-to-get-more-spirit-in-path-of-exile-2/)
+    [There’s a New Way to Reset Your Chromebook](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
     
-    2 hours ago
+    30 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 minutes ago
+* [19 minutes ago
     
-    ### “It’s almost like moving from one aircraft carrier to another”: Inside the National Trust’s sweeping digital transformation](https://digitpatrox.com/its-almost-like-moving-from-one-aircraft-carrier-to-another-inside-the-national-trusts-sweeping-digital-transformation/)
-* [16 minutes ago
+    ### The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
+* [24 minutes ago
     
-    ### Sora v2 could be about to drop — fresh leak hints at new OpenAI video model](https://digitpatrox.com/sora-v2-could-be-about-to-drop-fresh-leak-hints-at-new-openai-video-model/)
-* [1 hour ago
+    ### What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
+* [26 minutes ago
     
-    ### QR codes bypass browser isolation for malicious C2 communication](https://digitpatrox.com/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
+    ### Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
 
 Most Popular Topics
 
-* [October 14, 2024
+* [October 31, 2024
     
-    ### You Can Get Babbel Language Learning on Sale for $150 Right Now](https://digitpatrox.com/you-can-get-babbel-language-learning-on-sale-for-150-right-now/)
-* [September 15, 2024
-    
-    ### 4 Common DisplayPort Problems, and How to Fix Them](https://digitpatrox.com/4-common-displayport-problems-and-how-to-fix-them/)
+    ### How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
 * [1 week ago
     
-    ### The Best Portable Power Stations of 2024](https://digitpatrox.com/the-best-portable-power-stations-of-2024/)
+    ### the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
+* [October 19, 2024
+    
+    ### Amazon’s early Black Friday deals are up to 65% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-black-friday-deals-are-up-to-65-off-heres-my-favorite-power-banks-and-chargers/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### You Can Now Follow Mastodon Users on Threads (Sort Of)](https://digitpatrox.com/you-can-now-follow-mastodon-users-on-threads-sort-of/)
-* [4 hours ago
+    ### How to Hide Zero Values in Excel Charts](https://digitpatrox.com/how-to-hide-zero-values-in-excel-charts/)
+* [1 hour ago
     
-    ### Which Brands Make the Best Cars?](https://digitpatrox.com/which-brands-make-the-best-cars/)
-* [4 hours ago
+    ### The new Llama 3.3 70B model has just dropped — here’s why it’s a big deal](https://digitpatrox.com/the-new-llama-3-3-70b-model-has-just-dropped-heres-why-its-a-big-deal/)
+* [2 hours ago
     
-    ### How to Combine Images Into One PDF File in Windows 10 or Windows 11](https://digitpatrox.com/how-to-combine-images-into-one-pdf-file-in-windows-10-or-windows-11/)
+    ### Cybercrime gang arrested after turning Airbnbs into fraud centers](https://digitpatrox.com/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/)
 
 Most Viewed Topics
 
-* [August 11, 2024
+* [August 13, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
