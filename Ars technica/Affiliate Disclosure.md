@@ -90,7 +90,7 @@ Most Read
     
 2. 2. [Teen creates memecoin, dumps it, earns $50,000](https://arstechnica.com/tech-policy/2024/12/teen-creates-memecoin-dumps-it-and-earns-50000/)
     
-3. 3. [Booking.com says typos giving strangers access to private trip info is not a bug](https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/)
+3. 3. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
     
 4. 4. [The shadow’s roots take hold in Wheel of Time S3 teaser](https://arstechnica.com/culture/2024/12/the-shadows-roots-take-hold-in-wheel-of-time-s3-teaser/)
     
