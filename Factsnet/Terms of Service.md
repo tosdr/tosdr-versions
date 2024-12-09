@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![35 Facts About Knights Of The Golden Circle ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/historical-events/35-facts-about-knights-of-the-golden-circle/)
+[![30 Facts About PEPCK Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
 
-Historical Events
+Health Science
 
-08 Dec 2024
+09 Dec 2024
 
-[35 Facts About Knights Of The Golden Circle](https://facts.net/history/historical-events/35-facts-about-knights-of-the-golden-circle/)
+[30 Facts About PEPCK Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
 
-[![40 Facts About John James ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-john-james/)
+[![50 Facts About Africa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/geography/50-facts-about-africa/)
 
-People
+Geography
 
-08 Dec 2024
+09 Dec 2024
 
-[40 Facts About John James](https://facts.net/history/people/40-facts-about-john-james/)
+[50 Facts About Africa](https://facts.net/science/geography/50-facts-about-africa/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
