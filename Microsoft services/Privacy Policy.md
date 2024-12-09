@@ -1,4 +1,4 @@
-This is the Trace Id: 40f9ab59ed263886a6eddc26d31550f5
+This is the Trace Id: dd612a8f245ef8394cfcb5042d49704c
 
    
 
@@ -2034,20 +2034,3 @@ View Summary Learn more
 [Back to top](#)
 
 [Back To Top](#page-top)
-
-[Your Privacy Choices Opt-Out Icon Your Privacy Choices](https://aka.ms/yourcaliforniaprivacychoices)
-
-[Your Privacy Choices Opt-Out Icon Your Privacy Choices](https://aka.ms/yourcaliforniaprivacychoices)
-
-[Consumer Health Privacy](https://go.microsoft.com/fwlink/?linkid=2259814)
-
-* [Sitemap](https://www.microsoft.com/en-us/sitemap1.aspx)
-* [Contact Microsoft](https://support.microsoft.com/contactus)
-* [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839)
-* [Manage cookies](#)
-* [Terms of use](https://go.microsoft.com/fwlink/?LinkID=206977)
-* [Trademarks](https://go.microsoft.com/fwlink/?linkid=2196228)
-* [Safety & eco](https://go.microsoft.com/fwlink/?linkid=2196227)
-* [Recycling](https://www.microsoft.com/en-us/legal/compliance/recycling)
-* [About our ads](https://choice.microsoft.com/)
-* © Microsoft 2024
