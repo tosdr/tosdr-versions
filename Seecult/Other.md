@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-performans-people-i-dont/dragan-ilic-czkd.?itok=1OJ1jt6a)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-performans-people-i-dont)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/untitled-17.jpg?itok=hJLw2lUy)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/kings-strings/dscf0377.jpg?itok=FxtYhmUO)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/kings-strings)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/plakat-web.jpg?itok=yteZkEu9)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,6 +314,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Provokativna završnica 12. Vizualizatora](http://seecult.org/vest/provokativna-zavrsnica-12-vizualizatora)
 * [Posveta katedrali Notr-Dam](http://seecult.org/vest/posveta-katedrali-notr-dam)
 * [Slijepčeviću evropski Oskar za kratki film o Štrpcima](http://seecult.org/vest/slijepcevicu-evropski-oskar-za-kratki-film-o-strpcima)
 * [Dani italijanskog filma u Beogradu](http://seecult.org/vest/dani-italijanskog-filma-u-beogradu)
@@ -323,7 +324,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
 * [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
 * [Dražen u bioskopima](http://seecult.org/vest/drazen-u-bioskopima)
-* [Novi Uobraženi bolesnik](http://seecult.org/vest/novi-uobrazeni-bolesnik)
 
 * [Konkursi](#tab1_1)
 
