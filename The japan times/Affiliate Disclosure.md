@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 09, 2024](https://www.japantimes.co.jp/archive/2024/12/09/ "archive page")
+[December 10, 2024](https://www.japantimes.co.jp/archive/2024/12/10/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,34 +131,36 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+[Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
-  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+  [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
 [Nissan boss Uchida races to save the automaker — and his job](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
   [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
+[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
+  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
 [South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
 
   [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
 
-[A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
+[Miho Nakayama, known for 'Love Letter' and her music, dies at 54](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
 
-  [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
-
-[South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
-
-  [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
+  [![Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ")](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
 
 Editors' Picks
 --------------
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
 
-[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+[Firms should quit turning foreign workers into Japanese ones](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
-  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+By [Takashi Kumon](https://www.japantimes.co.jp/author/5990/takashi-kumon/ "Takashi Kumon")  
+
+  [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -168,6 +170,12 @@ By [Norihiko Shirouzu](https://www.japantimes.co.jp/author/641/norihiko-shirouzu
 
   [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
+  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
 [South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
@@ -176,19 +184,13 @@ By [Hyunjoo Jin](https://www.japantimes.co.jp/author/1977/hyunjoo-jin/ "Hyunjoo 
 
   [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
 
-[A $105 trillion inheritance windfall is on the way for U.S. heirs](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
+[Miho Nakayama, known for 'Love Letter' and her music, dies at 54](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
 
-By [Daniel Neligh](https://www.japantimes.co.jp/author/6230/daniel-neligh/ "Daniel Neligh"), [Maria Clara Cobo](https://www.japantimes.co.jp/author/5446/maria-clara-cobo/ "Maria Clara Cobo") and [Andre Tartar](https://www.japantimes.co.jp/author/6231/andre-tartar/ "Andre Tartar")  
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
-  [![About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438511.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "About $105 trillion is projected to be passed down from older generations over the next quarter century, according to research firm Cerulli Associates, an amount roughly equal to global gross domestic product in 2023.")](https://www.japantimes.co.jp/business/2024/12/06/economy/us-largest-intergenerational-wealth-transfer/ "A $105 trillion inheritance windfall is on the way for U.S. heirs")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[South Korea's Yoon survives impeachment after his party boycotts vote](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
-
-  [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
+  [![Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ")](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Japan's corporate bankruptcies increased 4.2% in November](https://www.japantimes.co.jp/business/2024/12/09/companies/bankruptcies-november-increase/ "Japan's corporate bankruptcies increased 4.2% in November")
+
+3 hours ago
+
+[BP and JERA to combine offshore wind operations in joint venture](https://www.japantimes.co.jp/business/2024/12/09/companies/bp-jera-wind/ "BP and JERA to combine offshore wind operations in joint venture")
+
+4 hours ago
+
+[Japanese investors sell overseas equities for second straight month](https://www.japantimes.co.jp/business/2024/12/09/markets/investors-sell-overseas-equities/ "Japanese investors sell overseas equities for second straight month")
+
+5 hours ago
+
+[Ishiba eyes visit to Indonesia and Malaysia in early January](https://www.japantimes.co.jp/news/2024/12/09/japan/ishiba-indonesia-malaysia-visit/ "Ishiba eyes visit to Indonesia and Malaysia in early January")
+
+6 hours ago
+
 [Ex-principal gets 9 years for raping middle school students in 2010](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/ruling-school-principal/ "Ex-principal gets 9 years for raping middle school students in 2010")
 
-21 mins ago
-
-[Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
-
-1 hour ago
-
-[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
-
-1 hour ago
-
-[How the Bangladesh economy was siphoned dry](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/crime-legal/bangladesh-economy-siphoned-dry/ "How the Bangladesh economy was siphoned dry")
-
-1 hour ago
-
-[LDP submits bill banning most political funding but leaves 'loophole'](https://www.japantimes.co.jp/news/2024/12/09/japan/politics/ldp-revised-political-funds-bill/ "LDP submits bill banning most political funding but leaves 'loophole'")
-
-1 hour ago
+6 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
