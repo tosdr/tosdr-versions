@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[EXTENDED CYBER SALE: **77% OFF  
+[HOLIDAY SALE: **77% OFF  
 INTRODUCTORY PERFECT WHITE® SYSTEM**](https://www.smileactives.com/pages/sas-core)
 
       
