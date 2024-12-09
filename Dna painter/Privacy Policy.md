@@ -39,7 +39,7 @@ This site uses the following cookies. Your use of this site indicates your conse
 * \_gid (24 hours) - This is a cookie set by Google Analytics to distinguish users
 * uf4 (the duration of your visit) - This is a cookie used by our application to help us serve the correct content
 
-[](https://twitter.com/dnapainter)[](https://www.facebook.com/dnapainter/)[](https://www.instagram.com/dnapainter/)[](https://www.youtube.com/@dna.painter)
+[](https://bsky.app/profile/dnapainter.bsky.social)[](https://twitter.com/dnapainter)[](https://www.facebook.com/dnapainter/)[](https://www.instagram.com/dnapainter/)[](https://www.youtube.com/@dna.painter)
 
 © [DNA Painter](https://dnapainter.com/), 2024. Please email feedback to [info@dnapainter.com](mailto:info@dnapainter.com). [Please **do not** email me your raw DNA!](https://dnapainter.com/help/faq#faq-raw)
 
