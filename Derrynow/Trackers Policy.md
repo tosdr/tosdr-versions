@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-08 Dec 2024
+09 Dec 2024
 
 * [Home
     
@@ -316,15 +316,6 @@ ESB Networks thanks customers, especially those who will remain without power ov
 [Barry Keoghan responds to his name ‘being dragged across the internet’](https://www.derrynow.com/news/national-news/1675764/barry-keoghan-responds-to-his-name-being-dragged-across-the-internet.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![80,000 now remain without power as ESB works to address Storm Darragh outages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "80,000 now remain without power as ESB works to address Storm Darragh outages")](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
-
-Their crews are working tirelessly to safely restore power.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[80,000 now remain without power as ESB works to address Storm Darragh outages](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Uisce Éireann continues work on water supplies after Storm Darragh havoc](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann continues work on water supplies after Storm Darragh havoc")](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
 
 For live updates on impacted sites across the country, customers are advised to visit the Uisce Éireann Supply and Services page.
@@ -333,6 +324,15 @@ For live updates on impacted sites across the country, customers are advised to 
 
 [40,000 see water restored as Uisce Éireann repairs Storm Darragh damage](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![80,000 now remain without power as ESB works to address Storm Darragh outages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "80,000 now remain without power as ESB works to address Storm Darragh outages")](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
+
+Their crews are working tirelessly to safely restore power.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[80,000 now remain without power as ESB works to address Storm Darragh outages](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Coleman offers Australian teen a visit to Everton training after derby postponement](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coleman offers Australian teen a visit to Everton training after derby postponement")](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
 
