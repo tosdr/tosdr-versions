@@ -613,25 +613,25 @@ Most recent
 
 [09-12-2024
 
-2024 will be the hottest year on record, EU scientists say](https://www.euractiv.com/section/global-europe/news/2024-will-be-the-hottest-year-on-record-eu-scientists-say/)[09-12-2024
+Ministers await details of Mercosur deal amid opposition from farmers](https://www.euractiv.com/section/agriculture-food/news/ministers-await-details-of-mercosur-deal-amid-opposition-from-farmers/)[09-12-2024
 
-How stars aligned for Syria’s rebels to oust Assad](https://www.euractiv.com/section/global-europe/news/how-stars-aligned-for-syrias-rebels-to-oust-assad/)[09-12-2024
+Chinese firms decry EU’s ‘over-emphasis’ on economic security](https://www.euractiv.com/section/economy-jobs/news/chinese-firms-decry-eus-over-emphasis-on-economic-security/)[09-12-2024
 
-Warsaw counts on Rome to block Mercosur deal](https://www.euractiv.com/section/politics/news/the-capitals-warsaw-counts-on-rome-to-block-mercosur-deal/)[09-12-2024
+Pressure mounts on new Commission to set up emergency EU steel summit](https://www.euractiv.com/section/economy-jobs/news/pressure-mounts-on-new-commission-to-set-up-emergency-eu-steel-summit/)[09-12-2024
 
-Bulgaria to be euro-ready by January, says country’s national bank](https://www.euractiv.com/section/politics/news/bulgaria-to-be-euro-ready-by-january-says-countrys-national-bank/)[09-12-2024
+French left fractures are laid bare as search for new PM continues](https://www.euractiv.com/section/politics/news/french-left-fractures-are-laid-bare-as-search-for-new-pm-continues/)[09-12-2024
 
-Romanian authorities carry out searches linked to pro-Russian presidential hopeful](https://www.euractiv.com/section/politics/news/romanian-authorities-carry-out-searches-linked-to-pro-russian-presidential-hopeful/)[09-12-2024
+Resilient mental health in Europe’s youth is essential for a competitive European workforce](https://www.euractiv.com/section/economy-jobs/news/resilient-mental-health-in-europes-youth-is-essential-for-a-competitive-european-workforce/)[09-12-2024
 
-Slovak government faces backlash over ‘forced labour’ proposal amid doctors’ strike](https://www.euractiv.com/section/politics/news/the-slovak-government-faces-backlash-over-a-forced-labour-proposal-amid-doctors-strike/)[09-12-2024
+Losing Syria is Putin’s ‘personal defeat’, experts say](https://www.euractiv.com/section/global-europe/news/losing-syria-is-putins-personal-defeat-experts-say/)[09-12-2024
 
-Czech PM on Assad’s fall: Betting on Russia did not pay off](https://www.euractiv.com/section/politics/news/czech-pm-on-assads-fall-betting-on-russia-did-not-pay-off/)[09-12-2024
+Mitigating Central Asia’s water crisis requires collective action, partnership with the West](https://www.euractiv.com/section/eet/news/mitigating-central-asias-water-crisis-requires-collective-action-partnership-with-the-west/)[09-12-2024
 
-Spanish farmers sound the alarm over EU-Mercosur trade deal](https://www.euractiv.com/section/politics/news/spanish-farmers-sound-the-alarm-over-eu-mercosur-trade-deal/)[09-12-2024
+Commission plays careers counsellor for defence industry staff](https://www.euractiv.com/section/global-europe/news/commission-plays-careers-counsellor-for-defence-industry-staff/)[09-12-2024
 
-Meloni meets Trump, Musk at Élysée, highlighting her role in bridging EU-US gap](https://www.euractiv.com/section/politics/news/meloni-meets-trump-musk-at-elysee-highlighting-her-role-in-bridging-eu-us-gap/)[09-12-2024
+Technology could help Europe’s Digital Fairness Act enforce online rights](https://www.euractiv.com/section/economy-jobs/news/technology-could-help-europes-digital-fairness-act-enforce-online-rights/)[09-12-2024
 
-Fears of anti-refugee election campaign in Germany after collapse of Assad regime](https://www.euractiv.com/section/politics/news/fears-of-anti-refugee-election-campaign-in-germany-after-collapse-of-assad-regime/)
+Push for a pandemic treaty stalls ahead of Trump’s return](https://www.euractiv.com/section/health-consumers/news/push-for-a-pandemic-treaty-stalls-ahead-of-trumps-return/)
 
 ###### Advertisement
 
