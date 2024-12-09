@@ -3,7 +3,6 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Notre-Dame de Paris](https://www.rts.ch/info/monde/2024/minute-par-minute/notre-dame-de-paris-a-rouvert-ses-portes-devant-des-dizaines-de-chefs-d-etat-et-de-personnalites-28718822.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +22,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Notre-Dame de Paris](https://www.rts.ch/info/monde/2024/minute-par-minute/notre-dame-de-paris-a-rouvert-ses-portes-devant-des-dizaines-de-chefs-d-etat-et-de-personnalites-28718822.html)
 
 #### S'informer
 
@@ -60,7 +58,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Notre-Dame de Paris](https://www.rts.ch/info/monde/2024/minute-par-minute/notre-dame-de-paris-a-rouvert-ses-portes-devant-des-dizaines-de-chefs-d-etat-et-de-personnalites-28718822.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +83,6 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [Notre-Dame de Paris](https://www.rts.ch/info/monde/2024/minute-par-minute/notre-dame-de-paris-a-rouvert-ses-portes-devant-des-dizaines-de-chefs-d-etat-et-de-personnalites-28718822.html)
 
 #### S'informer
 
