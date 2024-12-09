@@ -131,6 +131,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
+[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
+  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
 [Nissan boss Uchida races to save the automaker — and his job](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
   [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
@@ -147,12 +151,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-  [![Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438736.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times")](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
 Editors' Picks
 --------------
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+
+  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -184,12 +190,6 @@ By [Daniel Neligh](https://www.japantimes.co.jp/author/6230/daniel-neligh/ "Dani
 
   [![Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438751.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Lawmaker Ahn Cheol-soo sits alone as the only People Power Party lawmaker to remain in the voting chamber during the plenary session for the impeachment vote of President Yoon Suk Yeol at the National Assembly in Seoul on Saturday. ")](https://www.japantimes.co.jp/news/2024/12/07/asia-pacific/politics/yoon-survives-impeachment-bid/ "South Korea's Yoon survives impeachment after his party boycotts vote")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Japan eyes monitoring international communications for cyber defense](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
-  [![Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/07/438736.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japan's envisaged active cyber defense system is to acquire and analyze communications information even in normal times")](https://www.japantimes.co.jp/news/2024/12/07/japan/japan-cyberdefense-boost-surveillance/ "Japan eyes monitoring international communications for cyber defense")
-
 Podcast
 -------
 
@@ -209,9 +209,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,23 +251,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ex-principal gets 9 years for raping middle school students in 2010](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/ruling-school-principal/ "Ex-principal gets 9 years for raping middle school students in 2010")
+
+21 mins ago
+
 [Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
-9 mins ago
+1 hour ago
 
-[Extreme heat puts garment factory workers at risk, study shows](https://www.japantimes.co.jp/business/2024/12/09/extreme-heat-garment-factory-workers/ "Extreme heat puts garment factory workers at risk, study shows")
+[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
-17 mins ago
+1 hour ago
 
-[Bain-backed Kioxia to set IPO price as deals hit eight-year high](https://www.japantimes.co.jp/business/2024/12/09/companies/kioxia-ipo-high/ "Bain-backed Kioxia to set IPO price as deals hit eight-year high")
+[How the Bangladesh economy was siphoned dry](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/crime-legal/bangladesh-economy-siphoned-dry/ "How the Bangladesh economy was siphoned dry")
 
-29 mins ago
+1 hour ago
 
-[New museum set to bring butterflies of the world to Fukushima](https://www.japantimes.co.jp/news/2024/12/09/japan/fukushima-butterflies-museum/ "New museum set to bring butterflies of the world to Fukushima")
-
-47 mins ago
-
-[South Korean opposition accuses ruling party of 'second coup'](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korean opposition accuses ruling party of 'second coup'")
+[LDP submits bill banning most political funding but leaves 'loophole'](https://www.japantimes.co.jp/news/2024/12/09/japan/politics/ldp-revised-political-funds-bill/ "LDP submits bill banning most political funding but leaves 'loophole'")
 
 1 hour ago
 
