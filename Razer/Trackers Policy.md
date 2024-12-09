@@ -842,7 +842,6 @@ Switch to
             
             * [Razer Wolverine V3 Pro](https://www.razer.com/console-controllers/razer-wolverine-v3-pro)
             * [Razer Wolverine V3 Tournament Edition](https://www.razer.com/console-controllers/razer-wolverine-v3-tournament-edition)
-            * [Razer Wolverine V2 Chroma](https://www.razer.com/console-controllers/razer-wolverine-v2-chroma)
             
         * Controllers with Charging Stand
             
