@@ -131,32 +131,31 @@ If you want to delete cookies follow the instructions at: [How to Clear Your Bro
 
 Save settings
 
-[Click here to review or change your personal data consent.](javascript:googlefc.callbackQueue.push(googlefc.showRevocationMessage))
-
 [](#)Cookies make wikiHow better. By continuing to use our site, you agree to our [cookie policy](https://www.wikihow.com/wikiHow:Cookie-Policy).
 
 [Random Article](https://www.wikihow.com/Special:Randomizer)[Write An Article](https://www.wikihow.com/Special:CreatePage)
 
 ### Featured Articles
 
+[![Calm an Aggressive Cat](https://www.wikihow.com/images/thumb/a/a5/Calm-an-Aggressive-Cat-Step-15-Version-3.jpg/-crop-126-120-126px-Calm-an-Aggressive-Cat-Step-15-Version-3.jpg)
+
+How to  
+Calm an Aggressive Cat](https://www.wikihow.com/Calm-an-Aggressive-Cat)
+
+[![Love an Overthinker](https://www.wikihow.com/images/thumb/e/e1/Love-an-Overthinker-Step-12.jpg/-crop-126-120-126px-Love-an-Overthinker-Step-12.jpg)
+
+How to  
+Love an Overthinker](https://www.wikihow.com/Love-an-Overthinker)
+
+[![Be Stylish](https://www.wikihow.com/images/thumb/4/45/Be-Stylish-Step-20-Version-4.jpg/-crop-126-120-126px-Be-Stylish-Step-20-Version-4.jpg)
+
+How to  
+Be Stylish](https://www.wikihow.com/Be-Stylish)
+
 [![Deal With a Friend Who Has Changed](https://www.wikihow.com/images/thumb/d/d8/Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg/-crop-126-120-126px-Deal-With-a-Friend-Who-Has-Changed-Step-15.jpg)
 
 How to  
 Deal With a Friend Who Has Changed](https://www.wikihow.com/Deal-With-a-Friend-Who-Has-Changed)
-
-[![Mental Age Test](https://www.wikihow.com/images/thumb/d/d0/Mental_age_test.png/-crop-126-120-126px-Mental_age_test.png)
-
-What Is My Mental Age Quiz](https://www.wikihow.com/Mental-Age-Test)
-
-[![Get to Know Yourself](https://www.wikihow.com/images/thumb/2/28/Get-to-Know-Yourself-Step-14.jpg/-crop-126-120-126px-Get-to-Know-Yourself-Step-14.jpg)
-
-How to  
-Get to Know Yourself: A Guide to Self-Discovery](https://www.wikihow.com/Get-to-Know-Yourself)
-
-[![Be Friends with Guys](https://www.wikihow.com/images/thumb/3/37/Be-Friends-with-Guys-Step-13.jpg/-crop-126-120-126px-Be-Friends-with-Guys-Step-13.jpg)
-
-How to  
-Make Guy Friends](https://www.wikihow.com/Be-Friends-with-Guys)
 
   
 
@@ -199,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-151
+141
