@@ -2,13 +2,13 @@
 
 
 
-Версия от 12 марта 2024 г.,
+Версия от 9 декабря 2024 г.,
 
-вступает в силу с 1 апреля 2024 г.
+вступает в силу с 24 декабря 2024 г.
 
-Revision dated March 12, 2024,
+Revision dated December 9, 2024,
 
-will come into effect from April 1, 2024
+will come into effect from December 24, 2024
 
 
 
@@ -2386,19 +2386,45 @@ Condition of usage of individual services.
 
 3.15. В случаях, когда оплата за Заказчика
 
-производится третьим лицом
+производится третьим лицом,
 
-(плательщиком), необходимо
+необходимо соблюдение следующих
 
-соблюдение следующих условий:
+условий:
 
 
 
-3.15. In cases when a third party (payer) makes
+3.15. In cases when a third party makes the
 
-the payment instead of the Customer, the
+payment instead of the Customer, the
 
 following conditions must be met:
+
+
+
+▪ для любых плательщиков - указание в
+
+поле «назначение платежа» платежного
+
+поручения “Оплата за ... (наименование
+
+Заказчика), по лицевому счету No
+
+(номер счета)”
+
+или
+
+
+
+▪ for any payers - indication in the “purpose
+
+of payment” field of the payment order
+
+“Payment for .... (name of the Customer),
+
+on personal account No. (account number)”
+
+or
 
 
 
@@ -2420,14 +2446,6 @@ of the Customer;
 
 ▪ для плательщика-юридического лица -
 
-указание в поле «назначение платежа»
-
-платежного поручения «Оплата за ...
-
-(наименование Заказчика), по
-
-лицевому счету No (номер счета)» или
-
 предоставление письменного
 
 уведомления Плательщиком о зачете
@@ -2438,15 +2456,7 @@ of the Customer;
 
 
 
-▪ for a payer-legal entity – specifying the
-
-payment order with "Payment for the ...
-
-(Customer's name), the personal account
-
-number (account number)" in the field
-
-“purpose of payment” or provide a written
+▪ for a payer-legal entity – provide a written
 
 notification by the Payer about the offset
 
@@ -2538,8 +2548,6 @@ unused months.
 
 соглашается с безакцептным
 
-автоматическим списанием денежных
-
 
 
 3.17. The Customer shall have the right to
@@ -2578,11 +2586,11 @@ automatic direct debiting of funds from the
 
 Customer's bank account. Disabling the
 
-Scheduled Payment and removing bank
-
 
 
 12 / 27
+
+автоматическим списанием денежных
 
 средств с банковского счета Заказчика.
 
@@ -2595,6 +2603,8 @@ Scheduled Payment and removing bank
 самостоятельно в Панели управления.
 
 
+
+Scheduled Payment and removing bank
 
 card information shall independently be
 
@@ -2768,8 +2778,6 @@ prohibited in the Contractor’s Data Center.
 
 коммерческое обозначение и товарные
 
-знаки Заказчика в публичных
-
 
 
 4.2. The Customer shall give their consent for
@@ -2788,11 +2796,11 @@ name, commercial designation and
 
 trademarks in public sources and on the
 
-Contractor's website. Such use shall not
-
 
 
 13 / 27
+
+знаки Заказчика в публичных
 
 источниках и на сайте Исполнителя.
 
@@ -2823,6 +2831,8 @@ Contractor's website. Such use shall not
 почты и/или телефонной связи.
 
 
+
+Contractor's website. Such use shall not
 
 imply disclosure of other details of
 
@@ -2882,7 +2892,65 @@ property rights.
 
 
 
-4.4. Информация, указанная в п. 4.1. не
+4.4. Исполнитель вправе предоставлять
+
+выписки из Соглашения, Приложений,
+
+актов оказанных услуг или УПД в
+
+составе пакета документов участника
+
+торгов, тендеров, в т.ч. проводимых в
+
+соответствии с Федеральным законом
+
+от 05.04.2013 No 44-ФЗ “О контрактной
+
+системе в сфере закупок товаров,
+
+работ, услуг для обеспечения
+
+государственных и муниципальных
+
+нужд”, Федеральным законом от
+
+18.07.2011 No 223-ФЗ “О закупках
+
+товаров, работ, услуг отдельными
+
+видами юридических лиц”.
+
+
+
+4.4. The Contractor shall have the right to
+
+provide extracts from the Agreement,
+
+Appendices, acts of rendered services or
+
+DDS as part of the package of documents
+
+of the participant of bids, tenders, including
+
+those conducted in accordance with the
+
+Federal Law of 05.04.2013 No 44-FZ “On
+
+the contract system in the sphere of
+
+procurement of goods, works, services for
+
+state and municipal needs”, the Federal
+
+Law of 18.07.2011 No 223-FZ “On
+
+procurement of goods, works, services by
+
+certain types of legal entities”.
+
+
+
+4.5. Информация, указанная в п. 4.1. не
 
 может быть опубликована или
 
@@ -2900,7 +2968,7 @@ property rights.
 
 
 
-4.4. The information specified in clause 4.1.
+4.5. The information specified in clause 4.1.
 
 may not be published or transferred to third
 
@@ -2914,7 +2982,7 @@ after its termination for any reason.
 
 
 
-4.5. Каждая Сторона обязана принимать
+4.6. Каждая Сторона обязана принимать
 
 все разумные меры, необходимые и
 
@@ -2928,6 +2996,26 @@ after its termination for any reason.
 
 не менее существенны, чем те,
 
+
+
+4.6. Each Party is obliged to take all reasonable
+
+measures necessary and appropriate to
+
+prevent unauthorized disclosure of the
+
+confidential information. At the same time,
+
+the measures taken should be no less
+
+significant than those that the Party takes
+
+to preserve its own information of this type.
+
+
+
+14 / 27
+
 которые Сторона принимает для
 
 сохранения своей собственной
@@ -2936,23 +3024,7 @@ after its termination for any reason.
 
 
 
-4.5. Each Party is obliged to take all reasonable
-
-measures necessary and appropriate to
-
-prevent unauthorized disclosure of the
-
-confidential information. At the same time,
-
-the taken measures should be no less
-
-significant than those that the Party takes
-
-to preserve its own information of this type.
-
-
-
-4.6. Исполнитель имеет право раскрывать
+4.7. Исполнитель имеет право раскрывать
 
 сведения о Заказчике только в
 
@@ -2960,7 +3032,7 @@ to preserve its own information of this type.
 
 
 
-4.6. The Contractor has the right to disclose
+4.7. The Contractor has the right to disclose
 
 information about the Customer only in
 
@@ -2968,7 +3040,7 @@ accordance with the legislation of the RF.
 
 
 
-4.7. В случае нарушения предусмотренного
+4.8. В случае нарушения предусмотренного
 
 Соглашением режима
 
@@ -2984,9 +3056,17 @@ accordance with the legislation of the RF.
 
 нарушения, а также потребовать
 
+компенсации убытков, понесенных
+
+вследствие нарушения Заказчиком
+
+режима конфиденциальной
+
+информации.
 
 
-4.7. In case of violation of the confidentiality
+
+4.8. In case of violation of the confidentiality
 
 regime stipulated by the Agreement, the
 
@@ -3001,20 +3081,6 @@ of the discovery of such a violation, as well
 as to demand compensation for losses
 
 incurred due to the violation of confidential
-
-
-
-14 / 27
-
-компенсации убытков, понесенных
-
-вследствие нарушения Заказчиком
-
-режима конфиденциальной
-
-информации.
-
-
 
 information by the Customer.
 
@@ -3136,10 +3202,6 @@ whenever possible of an unplanned failure.
 
 связанные с использованием сети
 
-Интернет через ресурсы и/или Услуги
-
-Исполнителя.
-
 
 
 5.3. The Customer assumes full responsibility
@@ -3147,6 +3209,14 @@ whenever possible of an unplanned failure.
 and all risks associated with the use of the
 
 Internet through the resources and/or
+
+
+
+15 / 27
+
+Интернет через ресурсы и/или Услуги
+
+Исполнителя.
 
 Services of the Contractor.
 
@@ -3196,18 +3266,6 @@ case.
 
 третьих лиц, а также правообладателей
 
-
-
-5.5. In case of getting the complaint and/or
-
-claims from the third parties, as well as
-
-from right holders (in cases of protection of
-
-
-
-15 / 27
-
 (по делам о защите исключительных
 
 прав на объекты, незаконно
@@ -3249,6 +3307,12 @@ from right holders (in cases of protection of
 программного обеспечения.
 
 
+
+5.5. In case of getting the complaint and/or
+
+claims from the third parties, as well as
+
+from right holders (in cases of protection of
 
 exclusive rights to objects illegally posted
 
@@ -3358,6 +3422,8 @@ unlawful actions of the Customer.
 
 
 
+16 / 27
+
 6.2. Исполнитель не несет ответственности
 
 за нарушение прав третьих лиц,
@@ -3411,8 +3477,6 @@ Services provided under the Agreement in
 no event shall.
 
 
-
-16 / 27
 
 6.4. Исполнитель не дает гарантий того, что
 
@@ -3558,7 +3622,11 @@ non-use of the Contractor’s Services.
 
 
 
-6.5.3. За нормальное функционирование сети
+6.5.3. За нормальное функционирование сети 6.5.3. For the normal functioning of the Internet or
+
+
+
+17 / 27
 
 Интернет или ее частей, равно как и за
 
@@ -3569,8 +3637,6 @@ non-use of the Contractor’s Services.
 Соглашением.
 
 
-
-6.5.3. For the normal functioning of the Internet or
 
 its parts, as well as for their availability to
 
@@ -3621,8 +3687,6 @@ Customer, if those are not explicitly
 described in the Agreement.
 
 
-
-17 / 27
 
 6.5.6. За качество, безошибочность и
 
@@ -3762,10 +3826,6 @@ Agreement and/or legislation.
 
 использованием Услуг Исполнителя,
 
-если обратное не оговорено в
-
-Соглашении.
-
 
 
 6.5.10. For the safety of information posted by
@@ -3773,6 +3833,14 @@ Agreement and/or legislation.
 the Customer, using the Contractor’s
 
 Services, unless otherwise specified in the
+
+
+
+18 / 27
+
+если обратное не оговорено в
+
+Соглашении.
 
 Agreement.
 
@@ -3820,14 +3888,6 @@ Customer.
 
 содержание информации,
 
-6.6. The Contractor is not responsible for the
-
-content of information transmitted by the
-
-
-
-18 / 27
-
 передаваемой Заказчиком по сети
 
 Интернет и собственным ресурсам
@@ -3849,6 +3909,10 @@ content of information transmitted by the
 и содержание такой информации.
 
 
+
+6.6. The Contractor is not responsible for the
+
+content of information transmitted by the
 
 Customer via the Internet and the
 
@@ -3978,7 +4042,11 @@ and in-house policies and procedures.
 
 
 
-7.5. Лицо, заключающее Соглашение от
+7.5. Лицо, заключающее Соглашение от 7.5. The person has all the necessary powers
+
+
+
+19 / 27
 
 имени и по поручению Заказчика, на
 
@@ -3987,8 +4055,6 @@ and in-house policies and procedures.
 необходимые для этого полномочия.
 
 
-
-7.5. The person has all the necessary powers
 
 for concluding the Agreement on behalf of
 
@@ -4038,11 +4104,7 @@ and execute the Agreement.
 
 
 
-7.7. Заказчик подтверждает, что имеет 7.7. The Customer confirms that they have
-
-
-
-19 / 27
+7.7. Заказчик подтверждает, что имеет
 
 надлежащим образом оформленные
 
@@ -4073,6 +4135,8 @@ and execute the Agreement.
 действующего законодательства.
 
 
+
+7.7. The Customer confirms that they have
 
 properly issued licenses, certificates and
 
@@ -4162,12 +4226,6 @@ the licensing requirements.
 
 коммерческим организациям, органам
 
-власти и самоуправления,
-
-государственным служащим, частным
-
-компаниям и их представителям.
-
 
 
 7.9. The Parties to the Agreement shall comply
@@ -4199,6 +4257,16 @@ limited to) commercial entities, government
 and local authorities, public officials, private
 
 companies, and their representatives.
+
+
+
+20 / 27
+
+власти и самоуправления,
+
+государственным служащим, частным
+
+компаниям и их представителям.
 
 
 
@@ -4243,8 +4311,6 @@ thereof.
 8. FORCE MAJEURE
 
 
-
-20 / 27
 
 8.1. Стороны не несут ответственности за
 
@@ -4394,6 +4460,14 @@ result of force majeure.
 
 силы, вызывающее существенное
 
+8.4. If force majeure causing a significant
+
+violation or non-fulfillment of obligations
+
+
+
+21 / 27
+
 нарушение или неисполнение
 
 обязательств по Соглашению, длится
@@ -4415,10 +4489,6 @@ result of force majeure.
 Соглашения.
 
 
-
-8.4. If force majeure causing a significant
-
-violation or non-fulfillment of obligations
 
 under the Agreement, lasts more than thirty
 
@@ -4448,11 +4518,7 @@ TERMINATION PROCEDURES
 
 
 
-9.1. Настоящий Соглашение заключен 9.1. This Agreement is concluded for one year
-
-
-
-21 / 27
+9.1. Настоящий Соглашение заключен
 
 сроком на один год и вступает в силу с
 
@@ -4477,6 +4543,8 @@ TERMINATION PROCEDURES
 не ограничено.
 
 
+
+9.1. This Agreement is concluded for one year
 
 and shall enter into force from the date of
 
@@ -4606,6 +4674,14 @@ deemed accepted by the Customer.
 
 настоящее Соглашение, направив
 
+9.3. Either Party may terminate this Agreement
+
+by sending another written notice thereof.
+
+
+
+22 / 27
+
 другой письменное уведомление об
 
 этом. Соглашение считается
@@ -4640,10 +4716,6 @@ deemed accepted by the Customer.
 
 
 
-9.3. Either Party may terminate this Agreement
-
-by sending another written notice thereof.
-
 The Agreement is considered to be
 
 terminated after 30 (thirty) calendar days
@@ -4673,8 +4745,6 @@ writing thereof 15 (fifteen) calendar days in
 advance.
 
 
-
-22 / 27
 
 9.4. Исполнитель также вправе прекратить
 
@@ -4820,15 +4890,15 @@ term.
 
 
 
-Соглашение прекращает свое действие
+Соглашение прекращает свое действие The Agreement shall be terminated on the
+
+
+
+23 / 27
 
 в дату прекращения Соглашения,
 
 указанную в уведомлении.
-
-
-
-The Agreement shall be terminated on the
 
 date of termination of the Agreement
 
@@ -4874,22 +4944,6 @@ and/or the Agreements thereto.
 
 возвращаются по оригиналу заявления
 
-
-
-9.6. Upon the termination of the Agreement at
-
-the initiative of the Customer, the
-
-Contractor returns the rest amounts from
-
-the Customer's Personal Account. The
-
-amounts to be returned upon the original
-
-
-
-23 / 27
-
 о возврате, в соответствии с
 
 настоящим Соглашением. При
@@ -4902,31 +4956,27 @@ amounts to be returned upon the original
 
 при регистрации данных (запрос
 
-паспортных данных/копии паспорта) и /
+паспортных данных/копии паспорта). В
 
-или подтверждения, что Заказчик
+случае отсутствия подтверждения,
 
-является владельцем SIM-карты, с
+Исполнитель вправе не осуществлять
 
-номера которой Заказчик осуществлял
+возврат оставшихся на Лицевом счете
 
-подтверждение регистрации на сайте
-
-Исполнителя, или доказательства
-
-согласия владельца SIM-карты на
-
-осуществление Заказчиком подобных
-
-действий. В случае отсутствия
-
-подтверждения, Исполнитель вправе
-
-не осуществлять возврат оставшихся
-
-на Лицевом счете денежных средств.
+денежных средств.
 
 
+
+9.6. Upon the termination of the Agreement at
+
+the initiative of the Customer, the
+
+Contractor returns the rest amounts from
+
+the Customer's Personal Account. The
+
+amounts to be returned upon the original
 
 application for the return, in accordance
 
@@ -4936,29 +4986,17 @@ amounts, the Contractor is entitled to
 
 require confirmation by the Customer of the
 
-data specified during registration (passport
+data specified during registration (request
 
-data request/passport copy) and/or
+for statutory documents, passport data
 
-confirmation that the Customer is the owner
+request/passport copy). In case of absence
 
-of the SIM card, from which the Customer
+of confirmation, the Contractor shall have
 
-confirmed registration at the Contractor’s
+the right not to refund the amounts
 
-website or proof of consent SIM-cards
-
-owner for the implementation of such
-
-actions by the Customer. In case of
-
-absence of confirmation, the Contractor
-
-shall have the right not to refund the
-
-amounts remaining in the Personal
-
-Account.
+remaining in the Personal Account.
 
 
 
@@ -5068,6 +5106,18 @@ their authorized representatives.
 
 Претензии принимаются в письменном
 
+
+
+10.2. Pre-action dispute settlement procedure
+
+shall be obligatory. The claims shall be
+
+accepted in writing if they are justified. That
+
+
+
+24 / 27
+
 виде при условии их обоснованности,
 
 то есть в претензии, направляемой
@@ -5086,13 +5136,11 @@ their authorized representatives.
 
 претензию, обязана направить ответ в
 
+течение 10 (десяти) рабочих дней с
+
+даты ее получения.
 
 
-10.2. Pre-action dispute settlement procedure
-
-shall be obligatory. The claims shall be
-
-accepted in writing if they are justified. That
 
 means that the claim sent by the Customer
 
@@ -5107,14 +5155,6 @@ opinion of the Customer, has been violated
 by the Contractor. The Party that has
 
 received the claim shall send a response
-
-
-
-24 / 27
-
-течение 10 (десяти) рабочих дней с
-
-даты ее получения.
 
 within 10 (ten) business days from the date
 
@@ -5284,7 +5324,11 @@ received through the Ticket-system, etc.
 
 
 
-11.4. В случае изменения реквизитов
+11.4. В случае изменения реквизитов 11.4. In case of change of reference details, the
+
+
+
+25 / 27
 
 Стороны обязаны в 10-дневный срок
 
@@ -5302,9 +5346,19 @@ received through the Ticket-system, etc.
 
 курьером, Исполнитель – путем
 
+размещения соответствующей
+
+информации на сайте Исполнителя
+
+и/или в Панели управления, и/или
+
+направления уведомления по
+
+электронной почте, и/или через
+
+Тикет-систему.
 
 
-11.4. In case of change of reference details, the
 
 Parties are obliged to notify each other
 
@@ -5321,24 +5375,6 @@ notice by mail or courier The Contractor -
 by placing the relevant information on the
 
 Contractor’s website and/or in the Control
-
-
-
-25 / 27
-
-размещения соответствующей
-
-информации на сайте Исполнителя
-
-и/или в Панели управления, и/или
-
-направления уведомления по
-
-электронной почте, и/или через
-
-Тикет-систему.
-
-
 
 Panel, and/or sending a notification by
 
@@ -5482,8 +5518,6 @@ of the above events.
 
 Исполнителя заключены
 
-соответствующие договоры.
-
 
 
 12.1. None of the Parties shall have the right to
@@ -5504,6 +5538,12 @@ relevant agreements.
 
 
 
+26 / 27
+
+соответствующие договоры.
+
+
+
 12.2. В случае если одно или несколько
 
 положений Соглашения являются по
@@ -5513,22 +5553,6 @@ relevant agreements.
 недействительными, не имеющими
 
 юридической силы, такая
-
-
-
-12.2. In the event that one or more provisions of
-
-the Agreement are invalid for any reason,
-
-have no legal effect, such invalidity does
-
-not affect the validity of the Agreement as a
-
-whole or the validity of any other provisions
-
-
-
-26 / 27
 
 недействительность не оказывает
 
@@ -5543,6 +5567,16 @@ whole or the validity of any other provisions
 остаются в силе.
 
 
+
+12.2. In the event that one or more provisions of
+
+the Agreement are invalid for any reason,
+
+have no legal effect, such invalidity does
+
+not affect the validity of the Agreement as a
+
+whole or the validity of any other provisions
 
 of the Agreement that remain in force.
 
