@@ -22,6 +22,7 @@
             * [Hotel Metasearch](https://www.siteminder.com/hotel-metasearch-demand-plus/)
             * [Global Distribution Systems](https://www.siteminder.com/gds-global-distribution-system/)
             * [Guest Engagement](https://www.siteminder.com/guest-engagement/)
+            * [Dynamic Revenue Plus](https://www.siteminder.com/dynamic-revenue-plus/)
         * [Col 2](#)
             * [Hotel Booking Engine](https://www.siteminder.com/hotel-booking-engine/)
             * [Hotel Website Builder](https://www.siteminder.com/hotel-website-design/)
