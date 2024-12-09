@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/michael_mcintyres_25th_year_stand_up_special.jpg "Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear")](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/) TV
+
+[Michael McIntyre on 25 years in comedy](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/)
+
+[![The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman](https://cdn.comedy.co.uk/images/library/misc/300x200/r/rest_is_entertainment.jpg "The Rest Is Entertainment. Image shows left to right: Marina Hyde, Richard Osman")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/) Live
+
+[The Rest Is Entertainment Live, One Man Musical, Mike Rice - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-62/)
+
 [![George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300/g/george_and_mildred.jpg "George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/) Features
 
 [Comedy Rewind: George & Mildred - A classy sitcom all about class](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Amy Mason. Credit: Lucy Ridges](https://cdn.comedy.co.uk/images/library/people/300x200/a/amy_mason_2025.jpg "Amy Mason. Credit: Lucy Ridges")](https://www.comedy.co.uk/live/fgwg/amy-mason/) Live
 
 [First Gig, Worst Gig: Amy Mason](https://www.comedy.co.uk/live/fgwg/amy-mason/)
-
-[!['Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/allo_allo_crabtree.jpg "'Allo 'Allo!. Officer Crabtree (Arthur Bostrom). Credit: BBC")](https://www.comedy.co.uk/quiz/335/) Quiz
-
-[British Comedy Quiz #335](https://www.comedy.co.uk/quiz/335/)
-
-[![Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/r/red_dwarf_series6.jpg "Red Dwarf. Image shows from L to R: Kryten (Robert Llewellyn), Rimmer (Chris Barrie). Copyright: BBC")](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/) TV
-
-[Red Dwarf VI retrospective: Cowboys and Emmys](https://www.comedy.co.uk/tv/red_dwarf/features/red-dwarf-series-6-retrospective/)
 
 #### Subscribe to our newsletters
 
