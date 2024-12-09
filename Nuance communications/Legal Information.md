@@ -242,7 +242,7 @@ NUANCE
 * [Company overview](https://www.nuance.com/company-overview.html)
 * [About us](https://www.nuance.com/company-overview/what-we-do.html)
 * [Investors(Open a new window)](https://www.microsoft.com/en-us/investor)
-* [News(Open a new window)](https://news.nuance.com/)
+* [News(Open a new window)](https://news.microsoft.com/health/)
 * [Trust & security](https://www.nuance.com/about-us/trust-center.html)
 * [Research](https://www.nuance.com/about-us/ai-research.html)
 * [Careers](https://www.nuance.com/about-us/careers.html)
