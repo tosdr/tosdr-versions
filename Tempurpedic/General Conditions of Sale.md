@@ -282,13 +282,11 @@ Evaluating our products and need advice before you buy?
 
 [### (888) 811-5053](tel:+1-888-811-5053)
 
-Monday - Thursday: 9am - 9pm EST
+Monday - Friday: 9am - 9pm EST
 
-Friday: 9am - 5pm EST
+Saturday: 9am - 6pm EST
 
-Saturday: 9am - 7pm EST
-
-Sunday: 9am - 7pm EST
+Sunday: 9am - 6pm EST
 
 ![](/static/31a1e531/img/icons/badge-headset.ef059a1ce05c.png)
 
