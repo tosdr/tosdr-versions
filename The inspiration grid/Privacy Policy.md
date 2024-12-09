@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/art-michael-blessing-feature.jpg)
+
+[](https://theinspirationgrid.com/neon-west-electric-paintings-by-michael-blessing/)
+
+### Neon West: Electric Paintings by Michael Blessing
+
+![](https://inspgr.id/app/uploads/2024/12/illustration-gilles-warmoes-24-feature.jpg)
+
+[](https://theinspirationgrid.com/striking-illustrations-by-gilles-warmoes/)
+
+### Striking Illustrations by Gilles Warmoes
+
 ![](https://inspgr.id/app/uploads/2024/12/illustration-ray-oranges-24-feature.jpg)
 
 [](https://theinspirationgrid.com/bright-colorful-geometric-illustrations-by-ray-oranges/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/adorable-papercraft-animals-by-guardabosques/)
 
 ### Adorable Papercraft Animals by Guardabosques
-
-![](https://inspgr.id/app/uploads/2024/12/packaging-margo-me-feature.jpg)
-
-[](https://theinspirationgrid.com/margome-branding-by-studio-unbound/)
-
-### Margo&Me Branding by Studio Unbound
-
-![](https://inspgr.id/app/uploads/2024/12/art-bert-willemsen-feature.jpg)
-
-[](https://theinspirationgrid.com/cinematic-sci-fi-art-by-bert-willemsen/)
-
-### Cinematic Sci-Fi Art by Bert Willemsen
 
 Awesome products for creatives
 ------------------------------
