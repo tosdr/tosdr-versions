@@ -1,13 +1,13 @@
-[WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/en/apps)
+[WebCatalog![WebCatalog](/_next/static/media/logo-white.48337c03.svg)![WebCatalog](/_next/static/media/logo.8a8e76e6.svg)](https://webcatalog.io/)
 
-[Apps](https://webcatalog.io/en/apps)[Games](https://webcatalog.io/en/games)[Categories](https://webcatalog.io/en/categories)[Download](https://desktop.webcatalog.io/)
+[About WebCatalog](https://webcatalog.io/)[Careers](https://webcatalog.io/careers)
 
-AppearanceSign in
+Theme
 
 Privacy Policy
 ==============
 
-_Last updated on **October 27, 2024**._
+_Last updated on **December 9, 2024**._
 
 Your privacy is critically important to us, and we have a few fundamental principles we abide by:
 
@@ -18,7 +18,7 @@ Our services are compliant with the [General Data Protection Regulation (GDPR)](
 
 * * *
 
-This Privacy Policy shall apply to the applications under the brands of WebCatalog, Singlebox, Switchbar, and Translatium by **WebCatalog, Inc.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog, Inc. in general (the "**Website**"; App, and Website together the "**Services**").
+This Privacy Policy shall apply to the applications controlled by **WebCatalog, Inc.** and that are accessible from mobile devices and personal computers (the "**App**"), and the use of the websites controlled by WebCatalog, Inc. in general (the "**Website**"; App, and Website together the "**Services**").
 
 1\. General
 -----------
@@ -182,59 +182,23 @@ We change this Privacy Policy from time to time. We will not reduce your rights 
 10\. Contact Us
 ---------------
 
-If you have any questions feel free to [contact us](https://webcatalog.io/help/).
+If you have any questions feel free to contact us at [\[email protected\]](https://webcatalog.io/cdn-cgi/l/email-protection).
 
 **WebCatalog, Inc.**  
-2261 Market Street  
-Suite 10869  
-San Francisco, CA 94114, USA
+2261 Market St STE 10869  
+San Francisco, CA 94114  
+USA
 
-Explore
+[About WebCatalog](https://webcatalog.io/)
 
-[Apps](https://webcatalog.io/en/apps)
+[Careers](https://webcatalog.io/careers)
 
-[Games](https://webcatalog.io/en/games)
+[Privacy Policy](https://webcatalog.io/legal/privacy-policy)
 
-[Categories](https://webcatalog.io/en/categories)
+[Terms of Service](https://webcatalog.io/legal/terms-of-service)
 
-[Submit New App](https://webcatalog.io/en/apps/submit)
+[Impressum](https://webcatalog.io/legal/impressum)
 
-Desktop
-
-[Download](https://desktop.webcatalog.io/)
-
-[Spaces](https://webcatalog.io/en/spaces)
-
-Support
-
-[Help](https://webcatalog.io/en/help)
-
-[Account](https://webcatalog.io/en/account)
-
-[System Status](https://status.webcatalog.io/)
-
-Company
-
-[About](https://about.webcatalog.io/)
-
-[Careers](https://about.webcatalog.io/careers)
-
-[Media Kit](https://drive.google.com/drive/folders/1arApHk6u-YYsY_HBbty0ANlrfq8WHQMw?usp=sharing)
-
-Legal
-
-[Privacy Policy](https://webcatalog.io/en/legal/privacy-policy)
-
-[Terms of Service](https://webcatalog.io/en/legal/terms-of-service)
-
-[DMCA Policy](https://webcatalog.io/en/legal/copyright-policy)
-
-[Impressum](https://webcatalog.io/en/legal/impressum)
-
-[X (Twitter)](https://twitter.com/webcatalog_app "X (Twitter)") [Facebook](https://www.facebook.com/WebCatalogApp/ "Facebook") [Linkedin](https://www.linkedin.com/company/webcatalogapp/ "LinkedIn")[YouTube](https://www.youtube.com/@WebCatalogApp "YouTube")
+[LinkedIn](https://www.linkedin.com/company/webcatalogapp/)
 
 © 2024 WebCatalog, Inc.
-
-We use cookies to provide and improve our websites. By using our sites, you consent to cookies.
-
-Accept[Privacy Policy](https://webcatalog.io/en/legal/privacy-policy)
