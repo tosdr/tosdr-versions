@@ -118,7 +118,7 @@ Answered on **August 18, 2018** (updated on **December 30, 2020**)
 
 Posted on **August 12, 2021**
 
-_copyright_ 2018-2023 MyBib • [GitHub](https://github.com/mybibhq) • [Terms](https://www.mybib.com/terms) • [Privacy](https://www.mybib.com/privacy) • [support@mybib.com](mailto:support@mybib.com)
+_copyright_ 2018-2024 MyBib • [GitHub](https://github.com/mybibhq) • [Terms](https://www.mybib.com/terms) • [Privacy](https://www.mybib.com/privacy) • [support@mybib.com](mailto:support@mybib.com)
 
 _translate_ [EN](https://www.mybib.com/terms) | [ES](https://www.mybib.com/es) | [PT](https://www.mybib.com/pt)
 
