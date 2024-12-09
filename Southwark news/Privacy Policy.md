@@ -20,13 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
+    
+    ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
+    
+    [![Sadiq Khan out on a police patrol. 
+    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
+    
+    ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
+    
     [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
     
     ### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    [![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-360x180.jpg)](https://southwarknews.co.uk/news/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
-    
-    ### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/news/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
     
     [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
     
@@ -51,10 +56,6 @@
     [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
     ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-    
-    [![City Hall by the Thames](https://southwarknews.co.uk/wp-content/uploads/2024/12/manuel-weber-5Vq6-c3L_l8-unsplash-min-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
-    
-    ### [City Hall insists on tighter controls for e-bikes and batteries two years after Bermondsey fire killed young woman](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,13 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
+    
+    ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
+    
+    [![Sadiq Khan out on a police patrol. 
+    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
+    
+    ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
+    
     [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
     
     ### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    [![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-360x180.jpg)](https://southwarknews.co.uk/news/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
-    
-    ### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/news/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
     
     [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
     
@@ -136,10 +142,6 @@ View All Result
     [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
     ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-    
-    [![City Hall by the Thames](https://southwarknews.co.uk/wp-content/uploads/2024/12/manuel-weber-5Vq6-c3L_l8-unsplash-min-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
-    
-    ### [City Hall insists on tighter controls for e-bikes and batteries two years after Bermondsey fire killed young woman](https://southwarknews.co.uk/area/bermondsey/city-hall-insists-on-tigher-controls-for-e-bikes-and-batteries-two-years-after-bermondsey-fire-killed-young-woman/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -351,17 +353,17 @@ Website
 
 [3rd December 2024](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
-[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
 [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 [8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
+
+[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
+
+### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
+
+[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
 
 [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
