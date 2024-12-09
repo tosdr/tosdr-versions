@@ -114,7 +114,7 @@ Quick Escape
 
 [Contact Us](https://www.ywca.org/contact-us)
 
-[Donate](https://give.ywca.org/campaign/645019/donate)
+[Donate](https://give.ywca.org/give/411239/?&_ga=2.137916080.122955061.1726072979-1086151982.1624376385#!/donation/checkout)
 
 Open Menu Close Menu
 
@@ -224,7 +224,7 @@ Open Menu Close Menu
 
 [Contact Us](https://www.ywca.org/contact-us)
 
-[Donate](https://give.ywca.org/campaign/645019/donate)
+[Donate](https://give.ywca.org/give/411239/?&_ga=2.137916080.122955061.1726072979-1086151982.1624376385#!/donation/checkout)
 
 Open Menu Close Menu
 
@@ -342,7 +342,7 @@ Open Menu Close Menu
 
 [Contact Us](https://www.ywca.org/contact-us)
 
-[Donate](https://give.ywca.org/campaign/645019/donate)
+[Donate](https://give.ywca.org/give/411239/?&_ga=2.137916080.122955061.1726072979-1086151982.1624376385#!/donation/checkout)
 
 Privacy Policy
 ==============
