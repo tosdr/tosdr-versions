@@ -560,7 +560,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher](https://www.cdkeys.com/black-friday-sale/red-dead-redemption-2-ultimate-edition-pc-rockstar-cd-key "Red Dead Redemption 2 - Ultimate Edition PC - Rockstar Games Launcher")**
     
-    Special Price $20.99 RRP $114.69
+    Special Price $20.39 RRP $114.69
     
     [Add to Wish List](# "Add to Wish List")
     
