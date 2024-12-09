@@ -115,21 +115,27 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+    
+    [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+    
+    December 8, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5875.webp-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
     
     [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
     
     December 5, 2024
     
-* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
-    
-    [Tucker Carlson Is Back In Moscow With A Terrifying Revelation](https://www.conservativedailynews.com/2024/12/tucker-carlson-is-back-in-moscow-with-a-terrifying-revelation/)
-    
-    December 3, 2024
-    
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-bigstick-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/weapon-of-choice/)
+    
+    [Weapon Of Choice](https://www.conservativedailynews.com/2024/12/weapon-of-choice/)
+    
+    December 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
     
     [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
@@ -172,15 +178,10 @@ Recent Posts
     
     December 6, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/mrz120624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/sold-out/)
-    
-    [Sold Out](https://www.conservativedailynews.com/2024/12/sold-out/)
-    
-    December 6, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SCOTUS Sets Conference Date for the Snope v. Brown Assault Weapon Ban Case](https://www.thegunpage.com/scotus-sets-conference-date-for-the-snope-v-brown-assault-weapon-ban-case/10612377)
 * [Warne HyperLite Rings: Light, Strong And Adaptable](https://www.thegunpage.com/warne-hyperlite-rings-light-strong-and-adaptable/10612376)
 * [Holiday Gift Guide: Must-Have Gear for Every Shooter’s Range Bag](https://www.thegunpage.com/holiday-gift-guide-must-have-gear-for-every-shooters-range-bag/10612369)
 * [Canada Bans 324 More Types Of Firearms, Plans To Give The Guns To Ukraine](https://www.thegunpage.com/canada-bans-324-more-types-of-firearms-plans-to-give-the-guns-to-ukraine/10612363)
@@ -190,7 +191,6 @@ Recent Posts
 * [Daniel Penny and the Attempted Murder of Courage: The Dangerous Precedent of Prosecuting Heroes](https://www.thegunpage.com/daniel-penny-and-the-attempted-murder-of-courage-the-dangerous-precedent-of-prosecuting-heroes/10612347)
 * [Review: SIG Sauer ROMEO3MAX PRO Reflex Sight](https://www.thegunpage.com/review-sig-sauer-romeo3max-pro-reflex-sight/10612346)
 * [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
-* [POTD: Norwegian Special Operations Commandos With Colt Canada C8s](https://www.thegunpage.com/potd-norwegian-special-operations-commandos-with-colt-canada-c8s/10612344)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
