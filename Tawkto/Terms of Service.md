@@ -88,6 +88,80 @@ Menu
 
 [Get started](https://dashboard.tawk.to/signup)
 
+[![](https://www.tawk.to/wp-content/uploads/2020/04/tawk-sitelogo.png)](https://www.tawk.to/)
+
+[Log in](https://dashboard.tawk.to/)
+
+[Get started](https://dashboard.tawk.to/signup)
+
+* [Products](#)
+    * [Live Chat](https://www.tawk.to/software/live-chat/)
+    * [Knowledge Base](https://www.tawk.to/software/knowledge-base/)
+    * [Contacts (CRM)](https://www.tawk.to/software/contacts/)
+    * [Chat Pages](https://www.tawk.to/software/chat-pages/)
+    * [AI Assist (NEW!)](https://www.tawk.to/introducing-ai-assist/)
+* [Services](#)
+    * [Hire Chat Agents](https://www.tawk.to/services/hire-chat-agents/)
+    * [Hire a Virtual Assistant](https://www.tawk.to/services/hire-virtual-assistant/)
+    * [Virtual Assistant FAQs](https://www.tawk.to/blog/va-faqs/)
+    * [Virtual Assistant Use Cases](#)
+        * [Bookkeeping and Finance VA](https://www.tawk.to/services/hire-a-bookkeeping-and-finance-va/)
+        * [Digital Marketing VA](https://www.tawk.to/services/hire-a-digital-marketing-va/)
+        * [Executive and Personal VA](https://www.tawk.to/services/hire-an-executive-and-personal-va/)
+        * [E-commerce VA](https://www.tawk.to/services/hire-an-e-commerce-va/)
+        * [Health Services VA](https://www.tawk.to/services/hire-a-health-services-va/)
+        * [Real Estate VA](https://www.tawk.to/services/hire-a-real-estate-va/)
+        * [Web Development VA](https://www.tawk.to/services/hire-a-web-development-va/)
+* [Resources](#)
+    * [Help Center](https://help.tawk.to/)
+    * [Academy](#)
+        * [AI Assist](https://www.tawk.to/academy/ai-assist/)
+        * [Business Messaging Masterclass](https://www.tawk.to/academy/business-messaging/)
+        * [Respond to a Chat](https://www.tawk.to/academy/dashboard-training/)
+        * [Setting Up Your Knowledge Base](https://www.tawk.to/academy/knowledge-base/)
+    * [Developers](https://developer.tawk.to/)
+    * [Blog](https://www.tawk.to/blog/)
+    * [Community](https://community.tawk.to/)
+    * [Partner Directory](https://www.tawk.to/partner-directory/)
+    * [Become a Partner](https://www.tawk.to/partner-program/)
+    * [Customer Stories](https://www.tawk.to/stories/)
+* [Why Free?](https://www.tawk.to/why-free/)
+
+Menu
+
+* [Products](#)
+    * [Live Chat](https://www.tawk.to/software/live-chat/)
+    * [Knowledge Base](https://www.tawk.to/software/knowledge-base/)
+    * [Contacts (CRM)](https://www.tawk.to/software/contacts/)
+    * [Chat Pages](https://www.tawk.to/software/chat-pages/)
+    * [AI Assist (NEW!)](https://www.tawk.to/introducing-ai-assist/)
+* [Services](#)
+    * [Hire Chat Agents](https://www.tawk.to/services/hire-chat-agents/)
+    * [Hire a Virtual Assistant](https://www.tawk.to/services/hire-virtual-assistant/)
+    * [Virtual Assistant FAQs](https://www.tawk.to/blog/va-faqs/)
+    * [Virtual Assistant Use Cases](#)
+        * [Bookkeeping and Finance VA](https://www.tawk.to/services/hire-a-bookkeeping-and-finance-va/)
+        * [Digital Marketing VA](https://www.tawk.to/services/hire-a-digital-marketing-va/)
+        * [Executive and Personal VA](https://www.tawk.to/services/hire-an-executive-and-personal-va/)
+        * [E-commerce VA](https://www.tawk.to/services/hire-an-e-commerce-va/)
+        * [Health Services VA](https://www.tawk.to/services/hire-a-health-services-va/)
+        * [Real Estate VA](https://www.tawk.to/services/hire-a-real-estate-va/)
+        * [Web Development VA](https://www.tawk.to/services/hire-a-web-development-va/)
+* [Resources](#)
+    * [Help Center](https://help.tawk.to/)
+    * [Academy](#)
+        * [AI Assist](https://www.tawk.to/academy/ai-assist/)
+        * [Business Messaging Masterclass](https://www.tawk.to/academy/business-messaging/)
+        * [Respond to a Chat](https://www.tawk.to/academy/dashboard-training/)
+        * [Setting Up Your Knowledge Base](https://www.tawk.to/academy/knowledge-base/)
+    * [Developers](https://developer.tawk.to/)
+    * [Blog](https://www.tawk.to/blog/)
+    * [Community](https://community.tawk.to/)
+    * [Partner Directory](https://www.tawk.to/partner-directory/)
+    * [Become a Partner](https://www.tawk.to/partner-program/)
+    * [Customer Stories](https://www.tawk.to/stories/)
+* [Why Free?](https://www.tawk.to/why-free/)
+
 Terms of Service
 ================
 
@@ -223,8 +297,6 @@ The green widget you see below this text is the tawk.to live chat widget, if you
 * [Privacy & Terms](https://www.tawk.to/legal/)
 * [Report Abuse](https://www.tawk.to/legal/report-abuse/)
 * [Contact Us](https://www.tawk.to/contact-us/)
-
-\[language-switcher\]
 
 [Linkedin-in](https://www.linkedin.com/company/tawk-to) [Twitter](https://x.com/intent/follow?screen_name=tawktotawk) [Facebook-f](https://www.facebook.com/tawkto/) [Instagram](https://instagram.com/tawktotawk) [Youtube](https://www.youtube.com/channel/UCmmsTnOAYjv1pZl-ueAMM-A/featured) [Wordpress](https://www.tawk.to/blog)
 
