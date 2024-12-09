@@ -259,6 +259,15 @@ Advertise with Us
 
 Most Popular
 
+[![Road remains closed following death of pedestrian](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Road remains closed following death of pedestrian")](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
+
+Gardaí are appealing for any witnesses to this collision to come forward.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Road remains closed following death of pedestrian](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Killarney gardaí appeal for witnesses as traffic collision sees one man die](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Killarney gardaí appeal for witnesses as traffic collision sees one man die")](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
 
 The scene is currently being examined by Garda Forensic Collision Investigators.
@@ -268,46 +277,12 @@ The scene is currently being examined by Garda Forensic Collision Investigators.
 [Investigations underway as man dies in early morning crash](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Teenage e-scooter user critically injured in 'serious road traffic incident'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Teenage e-scooter user critically injured in 'serious road traffic incident'")](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 
-The scene of the incident on Saint Brendan's Road remains preserved for a technical examination.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Teenage e-scooter user critically injured in 'serious road traffic incident'](https://www.derrynow.com/news/national-news/1675735/teenage-e-scooter-user-critically-injured-in-serious-road-traffic-incident.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ALERT: Gardaí launch investigation following discovery of man's body in Cork](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Gardaí launch investigation following discovery of man's body in Cork")](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
-
-The Coroner has been notified and a post mortem will take place in due course.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[ALERT: Gardaí launch investigation following discovery of man's body in Cork](https://www.derrynow.com/news/national-news/1675752/alert-gardai-launch-investigation-following-discovery-of-man-s-body-in-cork.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![120,000 still without power as Storm Darragh aftermath kicks in](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "120,000 still without power as Storm Darragh aftermath kicks in")](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
-
-ESB Networks thanks customers, especially those who will remain without power over the coming days, for their patience as their crews work to safely restore power.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[120,000 still without power as Storm Darragh aftermath kicks in](https://www.derrynow.com/news/national-news/1675695/120-000-still-without-power-as-storm-darragh-aftermath-kicks-in.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue")](https://www.derrynow.com/news/national-news/1675759/paul-mescal-clears-up-ugly-irish-stereotypes-in-saturday-night-live-monologue.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Paul Mescal clears up ‘ugly’ Irish stereotypes in Saturday Night Live monologue](https://www.derrynow.com/news/national-news/1675759/paul-mescal-clears-up-ugly-irish-stereotypes-in-saturday-night-live-monologue.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Barry Keoghan responds to his name ‘being dragged across the internet’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Barry Keoghan responds to his name ‘being dragged across the internet’")](https://www.derrynow.com/news/national-news/1675764/barry-keoghan-responds-to-his-name-being-dragged-across-the-internet.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Barry Keoghan responds to his name ‘being dragged across the internet’](https://www.derrynow.com/news/national-news/1675764/barry-keoghan-responds-to-his-name-being-dragged-across-the-internet.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
+---------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Uisce Éireann continues work on water supplies after Storm Darragh havoc](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann continues work on water supplies after Storm Darragh havoc")](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
 
@@ -318,38 +293,64 @@ For live updates on impacted sites across the country, customers are advised to 
 [40,000 see water restored as Uisce Éireann repairs Storm Darragh damage](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![80,000 now remain without power as ESB works to address Storm Darragh outages](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "80,000 now remain without power as ESB works to address Storm Darragh outages")](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
-
-Their crews are working tirelessly to safely restore power.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[80,000 now remain without power as ESB works to address Storm Darragh outages](https://www.derrynow.com/news/national-news/1675802/80-000-now-remain-without-power-as-esb-works-to-address-storm-darragh-outages.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Coleman offers Australian teen a visit to Everton training after derby postponement](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Coleman offers Australian teen a visit to Everton training after derby postponement")](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
-
-Seamus Coleman joined Everton from Sligo Rovers in 2009
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Happier than Ever-ton: Teen overjoyed as captain makes up for postponed game](https://www.derrynow.com/news/national-news/1675773/happier-than-ever-ton-teen-overjoyed-as-captain-makes-up-for-postponed-game.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
-
-Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
+[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NIFRS urges Derry residents to keep safety top of your list this holiday season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NIFRS urges Derry residents to keep safety top of your list this holiday season")](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NIFRS urges Derry residents to keep safety top of your list this holiday season](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![£250 piece of Aberdeen Angus meat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£250 piece of Aberdeen Angus meat")](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+
+£250 piece of Aberdeen Angus meat
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[No mis-steak! £250 for a piece of meat in Tesco](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![ESB restores power to 340,000 customers impacted by Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ESB restores power to 340,000 customers impacted by Storm Darragh")](https://www.derrynow.com/news/national-news/1676090/esb-networks-restore-power-to-340-000-customers-impacted-by-storm-darragh.html)
+
+The ESB Networks thanks everyone for their patience as crews work to safely restore power.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[ESB Networks restore power to 340,000 customers impacted by Storm Darragh](https://www.derrynow.com/news/national-news/1676090/esb-networks-restore-power-to-340-000-customers-impacted-by-storm-darragh.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Drug dealer charged with bail breach at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug dealer charged with bail breach at Derry Court")](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Exciting' as former Derry footballer prepares for new Gaelic football rules](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Exciting' as former Derry footballer prepares for new Gaelic football rules")](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
 
@@ -415,13 +416,6 @@ Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
 
 [IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mac Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training")](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Teachers get their hands dirty during ‘No Dig Gardening’ training](https://www.derrynow.com/story-telling/pictures---videos/1673520/in-pictures-teachers-get-their-hands-dirty-during-no-dig-gardening-training.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,49 +519,49 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
+[![Drug dealer charged with bail breach at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug dealer charged with bail breach at Derry Court")](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![£250 piece of Aberdeen Angus meat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£250 piece of Aberdeen Angus meat")](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+
+£250 piece of Aberdeen Angus meat
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[No mis-steak! £250 for a piece of meat in Tesco](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[!['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/resizer/165/93/true/2022_02_16/Untitled_design_-_2022-02-16T112906.636-1645011379785.png--.png?1645011380000 "'Exciting' as former Derry footballer prepares for new Gaelic football rules")](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_09/1733702703837_0_1733738240.jpg--.jpg?1733738240169 "Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan")](https://www.derrynow.com/news/local-news/1676156/derry-girls-have-long-overdue-plans-for-reunion-dinner-says-nicola-coughlan.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan](https://www.derrynow.com/news/local-news/1676156/derry-girls-have-long-overdue-plans-for-reunion-dinner-says-nicola-coughlan.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NIFRS urges Derry residents to keep safety top of your list this holiday season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NIFRS urges Derry residents to keep safety top of your list this holiday season")](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NIFRS urges Derry residents to keep safety top of your list this holiday season](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/resizer/165/93/true/2024_12_05/29-11-24_nat_world_21-1733401777235_1733401806.jpg--.jpg?1733401806743 "Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training")](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
-
-Teacher Angela Beattie is not afraid to get her hands dirty during Friday's 'Gardening Course' at Hollybush PS, Derry.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Local teachers get their hands dirty at Hollybush PS during ‘No Dig Gardening’ training](https://www.derrynow.com/news/local-news/1673657/local-teachers-get-their-hands-dirty-at-hollybush-ps-during-no-dig-gardening-training.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday December 8, 2024](https://www.derrynow.com/news/deaths/1674946/derry-death-notices-sunday-december-8-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/resizer/165/93/true/2024_12_05/IMG_1601-1733400881733.jpg--.jpg?1733400882937 "Ráth Mór 50 + Club celebrates 20 years of community participation and revival")](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Ráth Mór 50 + Club celebrates 20 years of community participation and revival](https://www.derrynow.com/news/local-news/1673613/rath-mor-50-+-club-celebrates-20-years-of-community-participation-and-revival.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Hollybush Primary School invites prospective pupils and parents to their Open Morning](https://www.derrynow.com/resizer/165/93/true/2024_12_03/Screenshot_%28230%29-1733230732892.png--.png?1733230732977 "Hollybush Primary School invites prospective pupils and parents to their Open Morning")](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Hollybush Primary School invites prospective pupils and parents to their Open Morning](https://www.derrynow.com/news/local-news/1671752/hollybush-primary-school-invites-prospective-pupils-and-parents-to-their-open-morning.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
