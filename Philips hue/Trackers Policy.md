@@ -4,15 +4,20 @@
     
     Shop
     
+    * [Holiday sale](https://www.philips-hue.com/en-us/products/promotions/holiday-lighting)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive)
     * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?sort=most-sold)
     * [Bundles](https://www.philips-hue.com/en-us/products/smart-light-bundles)
     * [Shop all](https://www.philips-hue.com/en-us/products/all-products)
     
-    [![New! Table lamps](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    [![Holiday sale](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
-    New! Table lamps](https://www.philips-hue.com/en-us/products/smart-table-lamps/table-lamp-lightguide)
+    Holiday sale](https://www.philips-hue.com/en-us/products/promotions/holiday-lighting)
+    
+    [![Only available at philips-hue.com](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
+    
+    Only available at philips-hue.com](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive&page=1&sort=relevance)
     
     [![Home security](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAEALAAAAAABAAEAAAIBTAA7)
     
