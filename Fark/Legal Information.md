@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+Come for the Total, stay for the Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The UK faces its most disheartening post Brexit consequence to date: Guinness rationing](https://www.fark.com/goto/13487952) ( [bbc.co.uk](https://www.fark.com/goto/13487952) ) » [(6 comments)](https://www.fark.com/comments/13487952/The-UK-faces-its-most-disheartening-post-Brexit-consequence-to-date-Guinness-rationing) |
-| [Discussion](https://www.fark.com/discussion/) | [Can Justin Hebert and the Chargers make life miserable for Patrick Mahomes and the Chiefs? Or will Kansas City win again at Arrowhead and send the Bolts back to Los Angeles with a loss? Sunday Night Football is at 8:20 PM ET on NBC/Peacock](https://www.fark.com/goto/13487380) ( [espn.com](https://www.fark.com/goto/13487380) ) » [(376 comments)](https://www.fark.com/comments/13487380/Can-Justin-Hebert-the-Chargers-make-life-miserable-for-Patrick-Mahomes-the-Chiefs-Or-will-Kansas-City-win-again-at-Arrowhead-send-Bolts-back-to-Los-Angeles-with-a-loss-Sunday-Night-Football-is-at-820-PM-ET-on-NBCPeacock) |
-| [Sports](https://www.fark.com/sports/) | [Juan Soto to stay in New York with record-breaking 15-year, $765 million deal](https://www.fark.com/goto/13488118) ( [mlb.com](https://www.fark.com/goto/13488118) ) » [(14 comments)](https://www.fark.com/comments/13488118/Juan-Soto-to-stay-in-New-York-with-record-breaking-15-year-$765-million-deal) |
-| [Business](https://www.fark.com/business/) | [Oh yeah, prices are going to go up. - Trump](https://www.fark.com/goto/13487994) ( [apnews.com](https://www.fark.com/goto/13487994) ) » [(6 comments)](https://www.fark.com/comments/13487994/Oh-yeah-prices-are-going-to-go-up-Trump) |
-| [STEM](https://www.fark.com/stem/) | [OpenAI creates Skynet. Sarah Connor unavailable for comment](https://www.fark.com/goto/13487954) ( [futurism.com](https://www.fark.com/goto/13487954) ) » [(3 comments)](https://www.fark.com/comments/13487954/OpenAI-creates-Skynet-Sarah-Connor-unavailable-for-comment) |
-| [Entertainment](https://www.fark.com/entertainment/) | [2005: WHAT?. 2024: what?](https://www.fark.com/goto/13487998) ( [cnn.com](https://www.fark.com/goto/13487998) ) » [(6 comments)](https://www.fark.com/comments/13487998/-2005-WHAT-2024-what) |
-| [Fandom](https://www.fark.com/fandom/) | [Call of Duty Black Ops 6 is getting a gun that is also a bong. Of course, some people aren't happy](https://www.fark.com/goto/13487976) ( [pcgamer.com](https://www.fark.com/goto/13487976) ) » [(2 comments)](https://www.fark.com/comments/13487976/Call-of-Duty-Black-Ops-6-is-getting-a-gun-that-is-also-a-bong-Of-course-some-people-arent-happy) |
+| [Main](https://www.fark.com/) | [Someone is getting a lump of coal](https://www.fark.com/goto/13488302) ( [dailymail.co.uk](https://www.fark.com/goto/13488302) ) » [(8 comments)](https://www.fark.com/comments/13488302/Someone-is-getting-a-lump-of-coal) |
+| [Discussion](https://www.fark.com/discussion/) | [How can we quiet our inner critics? First, don't say, "It stinks"](https://www.fark.com/goto/13488232) ( [gq.com](https://www.fark.com/goto/13488232) ) » [(6 comments)](https://www.fark.com/comments/13488232/How-can-we-quiet-our-inner-critics-First-dont-say-It-stinks) |
+| [Sports](https://www.fark.com/sports/) | [The Force is strong with this one](https://www.fark.com/goto/13488212) ( [si.com](https://www.fark.com/goto/13488212) ) » [(3 comments)](https://www.fark.com/comments/13488212/The-Force-is-strong-with-this-one) |
+| [Business](https://www.fark.com/business/) | [American Airlines calls for a Haitian divorce](https://www.fark.com/goto/13488194) ( [msn.com](https://www.fark.com/goto/13488194) ) » [(4 comments)](https://www.fark.com/comments/13488194/American-Airlines-calls-for-a-Haitian-divorce) |
+| [STEM](https://www.fark.com/stem/) | [AI wants to go nuclear. Would you like to play a game?](https://www.fark.com/goto/13488306) ( [npr.org](https://www.fark.com/goto/13488306) ) » [(7 comments)](https://www.fark.com/comments/13488306/AI-wants-to-go-nuclear-Would-you-like-to-play-a-game) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The Force is strong with this one](https://www.fark.com/goto/13488212) ( [si.com](https://www.fark.com/goto/13488212) ) » [(3 comments)](https://www.fark.com/comments/13488212/The-Force-is-strong-with-this-one) |
+| [Fandom](https://www.fark.com/fandom/) | [Best stages in fighting games. Put a quarter on the right and say your memorable background or soundtrack](https://www.fark.com/goto/13488210) ( [youtube.com](https://www.fark.com/goto/13488210) ) » [(5 comments)](https://www.fark.com/comments/13488210/Best-stages-in-fighting-games-Put-a-quarter-on-right-say-your-memorable-background-soundtrack) |
 | [D'awww](https://www.fark.com/dawww/) | [Seems like people just have to take their dogs everywhere, even on ocean cruises](https://www.fark.com/goto/13487406) ( [tampabay.com](https://www.fark.com/goto/13487406) ) » [(9 comments)](https://www.fark.com/comments/13487406/Seems-like-people-just-have-to-take-their-dogs-everywhere-even-on-ocean-cruises) |
-| [Food](https://www.fark.com/food/) | [Here's a list of your favorite foods. Take heart](https://www.fark.com/goto/13487956) ( [msn.com](https://www.fark.com/goto/13487956) ) » [(18 comments)](https://www.fark.com/comments/13487956/Heres-a-list-of-your-favorite-foods-Take-heart) |
-| [Politics](https://www.fark.com/politics/) | [Heritage Foundation's plan to fight antisemitism is deeply antisemitic](https://www.fark.com/goto/13488052) ( [forward.com](https://www.fark.com/goto/13488052) ) » [(3 comments)](https://www.fark.com/comments/13488052/Heritage-Foundations-plan-to-fight-antisemitism-is-deeply-antisemitic) |
+| [Food](https://www.fark.com/food/) | [Here's a list of your favorite foods. Take heart](https://www.fark.com/goto/13487956) ( [msn.com](https://www.fark.com/goto/13487956) ) » [(27 comments)](https://www.fark.com/comments/13487956/Heres-a-list-of-your-favorite-foods-Take-heart) |
+| [Politics](https://www.fark.com/politics/) | [Darlington SC Mayor uses the F word during a town meeting, claims He didn't know what the word meant. nope not that F word the other F word](https://www.fark.com/goto/13488062) ( [advocate.com](https://www.fark.com/goto/13488062) ) » [(3 comments)](https://www.fark.com/comments/13488062/Darlington-SC-Mayor-uses-F-word-during-a-town-meeting-claims-He-didnt-know-what-word-meant-nope-not-that-F-word-other-F-word) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 09 2024 02:42:13  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Dec 09 2024 08:43:00  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
