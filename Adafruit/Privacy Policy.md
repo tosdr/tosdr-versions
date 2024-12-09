@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ People who are really serious about software should make their own hardware”
+“ You don't make progress by standing on the sidelines, whimpering and complaining. You make progress by implementing ideas”
 
-[Alan Kay](http://en.wikiquote.org/wiki/Alan_Kay)
+[Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm)
 
 [](https://www.adafruit.com/about)
 
