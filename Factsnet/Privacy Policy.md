@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About KCCI ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-kcci/)
+[![30 Facts About PEPCK Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
 
-Mass Media
+Health Science
 
-08 Dec 2024
+09 Dec 2024
 
-[50 Facts About KCCI](https://facts.net/culture-and-the-arts/mass-media/50-facts-about-kcci/)
+[30 Facts About PEPCK Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
 
-[![40 Facts About Juan Williams ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/people/40-facts-about-juan-williams/)
+[![50 Facts About Africa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/geography/50-facts-about-africa/)
 
-People
+Geography
 
-08 Dec 2024
+09 Dec 2024
 
-[40 Facts About Juan Williams](https://facts.net/history/people/40-facts-about-juan-williams/)
+[50 Facts About Africa](https://facts.net/science/geography/50-facts-about-africa/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
