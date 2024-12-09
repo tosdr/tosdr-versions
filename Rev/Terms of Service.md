@@ -60,7 +60,7 @@ Forget meeting fatigue, missed details, and tedious tasks. VoiceHub will change 
 
 [Help Center](https://support.rev.com/hc/en-us)[Developers](https://www.rev.ai/)[Security](https://www.rev.com/security)[Login](https://www.rev.com/app)
 
-[Get Started](https://www.rev.com/pricing)[Request a Demo](https://www.rev.com/online-transcription-services/contact-sales)
+[Get Started](https://www.rev.com/pricing)[Request a Demo](https://www.rev.com/contact-sales)
 
 [Back to menu](#)
 
