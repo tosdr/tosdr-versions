@@ -43,6 +43,7 @@ Search
 * [Newsletters](https://www.thedailyupside.com/subscribe/)
     * [The Daily Upside](https://www.thedailyupside.com/)
     * [Advisor Upside](https://www.thedailyupside.com/advisor/)
+    * [CIO Upside](https://www.thedailyupside.com/welcome-to-cio-upside/)
     * [Patent Drop](https://www.thedailyupside.com/patent-drop/)
     * [Power Corridor](https://www.thedailyupside.com/power-corridor/)
 
@@ -168,8 +169,8 @@ The Daily Upside, LLC.
 * [Subscribe](https://www.thedailyupside.com/subscribe/)
 * [The Daily Upside](https://www.thedailyupside.com/)
 * [Advisor Upside](https://www.thedailyupside.com/welcome-to-advisor-upside/)
+* [CIO Upside](https://www.thedailyupside.com/welcome-to-cio-upside/)
 * [Power Corridor](https://www.thedailyupside.com/power-corridor/)
-* [Patent Drop](https://www.thedailyupside.com/patent-drop/)
 * [Newsletter Archive](https://www.thedailyupside.com/newsletter/)
 
 * [Advertise With Us](https://www.thedailyupside.com/advertise-with-us/)
