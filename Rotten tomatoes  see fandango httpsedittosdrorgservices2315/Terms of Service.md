@@ -128,6 +128,7 @@ New & Coming soon
 
 ### Editorial Features
 
+* [Awards Watch](https://www.fandango.com/movies/awards)
 * [Indie Movie Guide](https://www.fandango.com/movies/indie)
 * [Family Guide](https://www.fandango.com/movies/family)
 * [House Of Screams](https://www.fandango.com/movies/horror)
