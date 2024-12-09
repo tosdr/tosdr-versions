@@ -504,7 +504,7 @@ NUANCE
 * [Company overview](https://www.nuance.com/content/nuance/sites/en-us/company-overview.html)
 * [About us](https://www.nuance.com/content/nuance/sites/en-us/company-overview/what-we-do.html)
 * [Investors](https://www.microsoft.com/en-us/investor)
-* [News](https://news.nuance.com/)
+* [News](https://news.microsoft.com/health/)
 * [Trust & security](https://www.nuance.com/content/nuance/sites/en-us/about-us/trust-center.html)
 * [Research](https://www.nuance.com/content/nuance/sites/en-us/about-us/ai-research.html)
 * [Careers](https://www.nuance.com/content/nuance/sites/en-us/about-us/careers.html)
