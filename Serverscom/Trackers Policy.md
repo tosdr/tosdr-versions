@@ -16,24 +16,24 @@
     * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     
     * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+    * [Makea Games](https://www.servers.com/about/customer-stories/makea-games)
+    * [Lupon Media](https://www.servers.com/about/customer-stories/lupon-media)
+    
     * [Binarity](https://www.servers.com/about/customer-stories/binarity)
     * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
-    
     * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
+    
     * [GoNET](https://www.servers.com/about/customer-stories/gonet)
     * [FxGrow](https://www.servers.com/about/customer-stories/fxgrow)
-    
     * [Nitrado](https://www.servers.com/about/customer-stories/nitrado)
+    
     * [Vizor Games](https://www.servers.com/about/customer-stories/vizor-games)
     * [Virtuozzo](https://www.servers.com/about/customer-stories/virtuozzo)
-    
     * [Shockbyte](https://www.servers.com/about/customer-stories/helping-shockbyte-empower-gaming-communities-with-uninterrupted-play)
+    
     * [Bware Labs](https://www.servers.com/about/customer-stories/partnering-with-bware-labs-to-enable-a-multichain-future)
     * [Indifferent Broccoli](https://www.servers.com/about/customer-stories/connecting-indifferent-broccoli-s-gamers-to-their-own-private-worlds-at-the-click-of-a-button)
-    
     * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
-    * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
-    * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
     
     * North America
     * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
@@ -56,6 +56,8 @@
         * [Round-Trip Times](https://www.servers.com/about/network/round-trip-times)
     * [Customer Stories](#customer-stories-child)
         * [All Customer Stories](https://www.servers.com/about/customer-stories/)
+        * [Makea Games](https://www.servers.com/about/customer-stories/makea-games)
+        * [Lupon Media](https://www.servers.com/about/customer-stories/lupon-media)
         * [Binarity](https://www.servers.com/about/customer-stories/binarity)
         * [More Screens](https://www.servers.com/about/customer-stories/more-screens)
         * [VoiceInteraction](https://www.servers.com/about/customer-stories/voiceinteraction)
@@ -68,8 +70,6 @@
         * [Bware Labs](https://www.servers.com/about/customer-stories/partnering-with-bware-labs-to-enable-a-multichain-future)
         * [Indifferent Broccoli](https://www.servers.com/about/customer-stories/connecting-indifferent-broccoli-s-gamers-to-their-own-private-worlds-at-the-click-of-a-button)
         * [Gameye](https://www.servers.com/about/customer-stories/enabling-scalable-multiplayer-gaming-for-hosting-platform-gameye)
-        * [Apex Hosting](https://www.servers.com/about/customer-stories/working-with-apex-hosting-servers-com)
-        * [Nodecraft](https://www.servers.com/about/customer-stories/working-with-nodecraft)
     * [Data center locations](#data-center-locations-child)
         * North America
         * [Dallas](https://www.servers.com/about/data-center-locations/dallas)
