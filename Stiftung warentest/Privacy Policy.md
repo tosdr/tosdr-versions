@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Aktien-ETF mit geringerem US-Anteil: Was bringt der gleichgewichtete Welt­index?](https://www.test.de/Aktien-ETF-mit-geringerem-US-Anteil-Das-bringt-der-gleichgewichtete-Weltindex-6173772-0/ "Aktien-ETF mit geringerem US-Anteil - Was bringt der gleichgewichtete Weltindex?")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Mehr Spaß im Glas mit der Stiftung Warentest: Eiskalte Drinks für den Sommer](https://www.test.de/Mehr-Spass-im-Glas-mit-der-Stiftung-Warentest-Eiskalte-Drinks-fuer-den-Sommer-6010945-0/ "Mehr Spaß im Glas mit der Stiftung Warentest - Eiskalte Drinks für den Sommer")
-* [Yogamatten im Test: Auf die Matte, fertig, los!](https://www.test.de/Gymnastikmatten-und-Yogamatten-Test-5954938-0/ "Yogamatten im Test - Auf die Matte, fertig, los!")
-* [iBonds-ETF von iShares: Das taugen die Anleihen-ETF mit Fälligkeits­datum](https://www.test.de/iBonds-ETF-von-iShares-Die-ersten-Anleihe-ETF-mit-Faelligkeitsdatum-6041413-0/ "iBonds-ETF von iShares - Das taugen die Anleihen-ETF mit Fälligkeitsdatum")
+* [Fonds­anlage oder Fonds­police: Alters­vorsorge mit Fonds – welche Methode bringt mehr?](https://www.test.de/Fondsanlage-oder-Fondspolice-Altersvorsorge-mit-Fonds-welche-Methode-bringt-mehr-5979624-0/ "Fondsanlage oder Fondspolice - Altersvorsorge mit Fonds – welche Methode bringt mehr?")
+* [Zinsen: Anla­geplatt­form Zinspilot wird schritt­weise geschlossen](https://www.test.de/Zinsen-Anlageplattform-Zinspilot-wird-schrittweise-geschlossen-6108493-0/ "Zinsen - Anlageplattform Zinspilot wird schrittweise geschlossen")
+* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
+* [Betriebliche Alters­vorsorge: Arbeit­geber zahlt Zuschuss – aber nicht für jeden](https://www.test.de/Betriebliche-Altersvorsorge-Zuschuss-nicht-fuer-alle-5876390-0/ "Betriebliche Altersvorsorge - Arbeitgeber zahlt Zuschuss – aber nicht für jeden")
+* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
+* [Welt-Aktien-ETF: MSCI World ETF – nur was für Einsteiger?](https://www.test.de/Welt-Aktien-ETF-MSCI-World-ETF-nur-was-fuer-Einsteiger-6044298-0/ "Welt-Aktien-ETF - MSCI World ETF – nur was für Einsteiger?")
 
 Stiftung Warentest
 
