@@ -20,16 +20,16 @@ Monday, December 9 2024
 
 Latest
 
+* [The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
+* [Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
+* [What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
+* [What You Need to Know About Paddle Shifters](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
+* [Which Is Better for You?](https://digitpatrox.com/which-is-better-for-you/)
+* [NYT Strands today — hints, spangram and answers for game #281 (Monday, December 9 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-281-monday-december-9-2024/)
+* [Trailers of the week: Star Trek, Severance, and Gundam](https://digitpatrox.com/trailers-of-the-week-star-trek-severance-and-gundam/)
 * [Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
 * [Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
 * [The GoPro Hero12 Black Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-gopro-hero12-black-is-at-its-lowest-price-ever-right-now/)
-* [How to watch porn in Florida (Unblock porn without verification)](https://digitpatrox.com/how-to-watch-porn-in-florida-unblock-porn-without-verification/)
-* [Best Used Cars and SUVs Under $20,000](https://digitpatrox.com/best-used-cars-and-suvs-under-20000/)
-* [6 Tips for Using Linux Without Touching the Command Line](https://digitpatrox.com/6-tips-for-using-linux-without-touching-the-command-line/)
-* [Sony and Apple reportedly working on bringing PSVR 2 controllers to the Vision Pro](https://digitpatrox.com/sony-and-apple-reportedly-working-on-bringing-psvr-2-controllers-to-the-vision-pro/)
-* [The latest Invincible season 3 trailer shows off Mark’s new duds](https://digitpatrox.com/the-latest-invincible-season-3-trailer-shows-off-marks-new-duds/)
-* [How to Respec in Path of Exile 2](https://digitpatrox.com/how-to-respec-in-path-of-exile-2/)
-* [Is ID.me safe? – Everything you need to know](https://digitpatrox.com/is-id-me-safe-everything-you-need-to-know/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/b_mUzgpT72WbS4sG81VqAYfBQNA=/0x0:2079x1265/1200x628/filters:focal(1040x633:1041x634)/cdn.vox-cdn.com/uploads/chorus_asset/file/25780133/Screenshot_2024_12_08_at_12.41.42_PM.png)](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
     
-    [Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
+    [The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
     
-    1 minute ago
+    42 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Best-VPN-for-Perth.jpg)](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Invincible-2.jpg)](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
     
-    [Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
+    [Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
     
-    1 hour ago
+    58 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JEDVM7M8BGRG4CE61X21EA0C/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-gopro-hero12-black-is-at-its-lowest-price-ever-right-now/)
+* [![](https://lifehacker.com/imagery/articles/01JECJFEWB36S8ZMNKBNHE4CMR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
     
-    [The GoPro Hero12 Black Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-gopro-hero12-black-is-at-its-lowest-price-ever-right-now/)
-    
-    2 hours ago
-    
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/How-to-watch-porn-in-Florida.jpg)](https://digitpatrox.com/how-to-watch-porn-in-florida-unblock-porn-without-verification/)
-    
-    [How to watch porn in Florida (Unblock porn without verification)](https://digitpatrox.com/how-to-watch-porn-in-florida-unblock-porn-without-verification/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1732284831/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-Inlinehero-Best-Used-Cars-and-SUVs-Under-20000-1124)](https://digitpatrox.com/best-used-cars-and-suvs-under-20000/)
-    
-    [Best Used Cars and SUVs Under $20,000](https://digitpatrox.com/best-used-cars-and-suvs-under-20000/)
+    [What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
     
     3 hours ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1686926410/prod/content/dam/CRO-Images-2023/06June/Cars/CR-Cars-InlineHero-2010-Mitsubishi-Lancer-Paddle-Shifters-Hands-6-23)](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
+    
+    [What You Need to Know About Paddle Shifters](https://digitpatrox.com/what-you-need-to-know-about-paddle-shifters/)
+    
+    3 hours ago
+    
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/close-up-on-the-usb-c-port-and-noise-canceling-buttonjpg_53510961781_o.jpg)](https://digitpatrox.com/which-is-better-for-you/)
+    
+    [Which Is Better for You?](https://digitpatrox.com/which-is-better-for-you/)
+    
+    4 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 minute ago
+* [42 minutes ago
     
-    ### Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
-* [1 hour ago
+    ### The Wheel of Time spins up its third season in March](https://digitpatrox.com/the-wheel-of-time-spins-up-its-third-season-in-march/)
+* [58 minutes ago
     
-    ### Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
-* [2 hours ago
+    ### Invincible Season 3 Trailer Hints That Mark’s Dark Era Is Coming](https://digitpatrox.com/invincible-season-3-trailer-hints-that-marks-dark-era-is-coming/)
+* [3 hours ago
     
-    ### The GoPro Hero12 Black Is at Its Lowest Price Ever Right Now](https://digitpatrox.com/the-gopro-hero12-black-is-at-its-lowest-price-ever-right-now/)
+    ### What People Are Getting Wrong This Week: The Facebook Serial Killer](https://digitpatrox.com/what-people-are-getting-wrong-this-week-the-facebook-serial-killer/)
 
 Most Popular Topics
 
-* [September 15, 2024
+* [November 1, 2024
     
-    ### How Evernote became a great productivity app again](https://digitpatrox.com/how-evernote-became-a-great-productivity-app-again/)
-* [3 weeks ago
+    ### Australian Companies Focus on Growth for Tech Spending](https://digitpatrox.com/australian-companies-focus-on-growth-for-tech-spending/)
+* [October 1, 2024
     
-    ### Update your hardware now – Computerworld](https://digitpatrox.com/update-your-hardware-now-computerworld/)
-* [November 8, 2024
+    ### Today’s NYT Connections Hints and Answer for October 1 (#478)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-october-1-478/)
+* [November 3, 2024
     
-    ### Apple is back in the server business – Computerworld](https://digitpatrox.com/apple-is-back-in-the-server-business-computerworld/)
+    ### NYT Connections today hints and answers — Sunday, November 3 (#511)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-sunday-november-3-511/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [6 hours ago
     
-    ### Sony and Apple reportedly working on bringing PSVR 2 controllers to the Vision Pro](https://digitpatrox.com/sony-and-apple-reportedly-working-on-bringing-psvr-2-controllers-to-the-vision-pro/)
-* [5 hours ago
+    ### Trailers of the week: Star Trek, Severance, and Gundam](https://digitpatrox.com/trailers-of-the-week-star-trek-severance-and-gundam/)
+* [6 hours ago
     
-    ### The latest Invincible season 3 trailer shows off Mark’s new duds](https://digitpatrox.com/the-latest-invincible-season-3-trailer-shows-off-marks-new-duds/)
-* [5 hours ago
+    ### Today’s Wordle Hints, Answer for #1269 on December 9, 2024](https://digitpatrox.com/todays-wordle-hints-answer-for-1269-on-december-9-2024/)
+* [7 hours ago
     
-    ### How to Respec in Path of Exile 2](https://digitpatrox.com/how-to-respec-in-path-of-exile-2/)
+    ### Get a Perth IP address anywhere](https://digitpatrox.com/get-a-perth-ip-address-anywhere/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
