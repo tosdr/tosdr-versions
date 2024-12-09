@@ -268,15 +268,6 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Road remains closed following death of pedestrian](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Killarney gardaí appeal for witnesses as traffic collision sees one man die](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Killarney gardaí appeal for witnesses as traffic collision sees one man die")](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
-
-The scene is currently being examined by Garda Forensic Collision Investigators.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Investigations underway as man dies in early morning crash](https://www.derrynow.com/news/national-news/1675850/investigations-underway-as-man-dies-in-early-morning-crash.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -284,28 +275,12 @@ The scene is currently being examined by Garda Forensic Collision Investigators.
 [Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Uisce Éireann continues work on water supplies after Storm Darragh havoc](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Uisce Éireann continues work on water supplies after Storm Darragh havoc")](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
-
-For live updates on impacted sites across the country, customers are advised to visit the Uisce Éireann Supply and Services page.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[40,000 see water restored as Uisce Éireann repairs Storm Darragh damage](https://www.derrynow.com/news/national-news/1675863/40-000-see-water-restored-as-uisce-eireann-repairs-storm-darragh-damage.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+[![Principal 'saddened and disgusted' following weekend vandalism attack on Derry school](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Principal 'saddened and disgusted' following weekend vandalism attack on Derry school")](https://www.derrynow.com/news/local-news/1676327/principal-saddened-and-disgusted-following-weekend-vandalism-attack-on-derry-school.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NIFRS urges Derry residents to keep safety top of your list this holiday season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NIFRS urges Derry residents to keep safety top of your list this holiday season")](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NIFRS urges Derry residents to keep safety top of your list this holiday season](https://www.derrynow.com/news/local-news/1673665/nifrs-urges-derry-residents-to-keep-safety-top-of-your-list-this-holiday-season.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Principal 'saddened and disgusted' following weekend vandalism attack on Derry school](https://www.derrynow.com/news/local-news/1676327/principal-saddened-and-disgusted-following-weekend-vandalism-attack-on-derry-school.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![£250 piece of Aberdeen Angus meat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£250 piece of Aberdeen Angus meat")](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
 
@@ -316,14 +291,12 @@ For live updates on impacted sites across the country, customers are advised to 
 [No mis-steak! £250 for a piece of meat in Tesco](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ESB restores power to 340,000 customers impacted by Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ESB restores power to 340,000 customers impacted by Storm Darragh")](https://www.derrynow.com/news/national-news/1676090/esb-networks-restore-power-to-340-000-customers-impacted-by-storm-darragh.html)
+[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
 
-The ESB Networks thanks everyone for their patience as crews work to safely restore power.
+[Local News](https://www.derrynow.com/section/975/news)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[ESB Networks restore power to 340,000 customers impacted by Storm Darragh](https://www.derrynow.com/news/national-news/1676090/esb-networks-restore-power-to-340-000-customers-impacted-by-storm-darragh.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Drug dealer charged with bail breach at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug dealer charged with bail breach at Derry Court")](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
 
@@ -332,18 +305,46 @@ The ESB Networks thanks everyone for their patience as crews work to safely rest
 [Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Exciting' as former Derry footballer prepares for new Gaelic football rules](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "'Exciting' as former Derry footballer prepares for new Gaelic football rules")](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
+[![Suspended sentence for Derry man who wanted to drive police car](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who wanted to drive police car")](https://www.derrynow.com/news/local-news/1676278/suspended-sentence-for-derry-man-who-wanted-to-drive-police-car.html)
 
-[GAA](https://www.derrynow.com/section/1060/gaa)
+[Local News](https://www.derrynow.com/section/975/news)
 
-['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry man who wanted to drive police car](https://www.derrynow.com/news/local-news/1676278/suspended-sentence-for-derry-man-who-wanted-to-drive-police-car.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man spat at police trying to assist him](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man spat at police trying to assist him")](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming")](https://www.derrynow.com/story-telling/pictures---videos/1676465/in-pictures-40th-commemoration-for-oglach-danny-doherty-and-oglach-william-fleming.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming](https://www.derrynow.com/story-telling/pictures---videos/1676465/in-pictures-40th-commemoration-for-oglach-danny-doherty-and-oglach-william-fleming.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
 
@@ -409,13 +410,6 @@ Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
 
 [IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mad Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty")](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Commemoration marks 40th anniversary of Oglaigh Antoine Mac Giolla Bhrighde, Kieran Fleming, William Fleming and Danny Doherty](https://www.derrynow.com/story-telling/pictures---videos/1673479/in-pictures-commemoration-marks-40th-anniversary-of-oglaigh-antoine-mad-giolla-bhrighde-kieran-fleming-william-fleming-and-danny-doherty.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,49 +513,49 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Drug dealer charged with bail breach at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug dealer charged with bail breach at Derry Court")](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
+[![County Derry business wins ‘Social Enterprise of the Year’ award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry business wins ‘Social Enterprise of the Year’ award")](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
+
+The Workspace Group, a social enterprise based in Draperstown has been named ‘Social Enterprise of the Year’ at the UK Social Enterprise Awards.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry business wins ‘Social Enterprise of the Year’ award](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£250 piece of Aberdeen Angus meat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£250 piece of Aberdeen Angus meat")](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+[![New away kits proving a hit with Derry City fans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New away kits proving a hit with Derry City fans")](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
 
-£250 piece of Aberdeen Angus meat
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[New away kits proving a hit with Derry City fans](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[No mis-steak! £250 for a piece of meat in Tesco](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+[![St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_12_09/09-12-24_St._Eugene_s_Souvenir_Calendar_02-1733754018449.jpg--.jpg?1733754023778 "St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary")](https://www.derrynow.com/news/local-news/1676419/st-eugene-s-primary-school-2025-souvenir-calendar-celebrates-the-derry-school-s-170th-anniversary.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary](https://www.derrynow.com/news/local-news/1676419/st-eugene-s-primary-school-2025-souvenir-calendar-celebrates-the-derry-school-s-170th-anniversary.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[!['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/resizer/165/93/true/2022_02_16/Untitled_design_-_2022-02-16T112906.636-1645011379785.png--.png?1645011380000 "'Exciting' as former Derry footballer prepares for new Gaelic football rules")](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-['Exciting' as former Derry footballer prepares for new Gaelic football rules](https://www.derrynow.com/news/gaa/1676204/exciting-as-former-derry-footballer-prepares-for-new-gaelic-football-rules.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan](https://www.derrynow.com/resizer/165/93/true/pa/2024_12_09/1733702703837_0_1733738240.jpg--.jpg?1733738240169 "Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan")](https://www.derrynow.com/news/local-news/1676156/derry-girls-have-long-overdue-plans-for-reunion-dinner-says-nicola-coughlan.html)
+[![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Girls have ‘long overdue’ plans for reunion dinner, says Nicola Coughlan](https://www.derrynow.com/news/local-news/1676156/derry-girls-have-long-overdue-plans-for-reunion-dinner-says-nicola-coughlan.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%281%29-1695307127889.jpg--.jpg?1695307127981 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
+[![Derry man spat at police trying to assist him](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man spat at police trying to assist him")](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![MacD on Music: Beyond The Water](https://www.derrynow.com/resizer/165/93/true/2024_12_09/Snapinsta9587_n_1080_30377430-1733746891517.jpg--.jpg?1733746891679 "MacD on Music: Beyond The Water")](https://www.derrynow.com/news/local-news/1676293/macd-on-music-beyond-the-water.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[MacD on Music: Beyond The Water](https://www.derrynow.com/news/local-news/1676293/macd-on-music-beyond-the-water.html)
+-----------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
