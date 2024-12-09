@@ -114,10 +114,9 @@ Events & Marketing
     * [![public cloud](/img/common/suite/public-cloud.svg)
         
         Public Cloud (IaaS) Create your projects in a high-end, ultra-competitive Cloud](https://www.infomaniak.com/en/hosting/public-cloud)
-    * ![](/img/common/suite/kaas.svg)
+    * [![](/img/common/suite/kaas.svg)
         
-        Kubernetes service Deployez vos applications conteneurisees a grande echelle.
-        
+        Kubernetes service Deployez vos applications conteneurisees a grande echelle.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
     * [![Cloud Server](/img/common/suite/unmanaged-cloud.svg)
         
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
@@ -238,7 +237,7 @@ Events & Marketing
     [Bug Bounty Programme](https://www.infomaniak.com/en/secure/bug-bounty)
     
 
-[Create an account](https://welcome.infomaniak.com/signup?lang=en) [Sign in](https://login.infomaniak.com/en/login)
+[Get started for free](https://welcome.infomaniak.com/signup)[Sign in](https://login.infomaniak.com/en/login)
 
 *  ![search-icon](/img/nav-v2/search.svg)
     
@@ -252,14 +251,7 @@ Events & Marketing
     
 * ![search-icon](/img/nav-v2/search.svg)
 
-* [My account](https://login.infomaniak.com/en/login)
-    
-    * [Workspace
-        
-        Webmail, contacts, calendar](https://login.infomaniak.com/loginWebmail?lang=en)
-    * [Manager
-        
-        Managing Infomaniak products](https://login.infomaniak.com/en/login)
+* [Get started for free](https://welcome.infomaniak.com/signup)[Sign in](https://login.infomaniak.com/en/login)
     
 
 Price  excl. taxesincl. taxes excl. taxes Price  excl. taxesincl. taxes excl. taxes
@@ -334,7 +326,7 @@ We are committed to ensuring the safety of our infrastructure, including a secur
 Frequently asked questions about the GDPR and Infomaniak
 --------------------------------------------------------
 
-#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse675653529c064)
+#### [Am I in compliance with the GDPR when using Infomaniak services?](#collapse6756a6f4d3fe5)
 
 Yes. Nevertheless, we remind you that it is your responsibility to make the content (CMS, plugins, forms, etc.) that you host through our services compatible with the GDPR.  
   
@@ -342,7 +334,7 @@ It is important to distinguish between the security of the infrastructures on wh
   
 If needed, you can easily find a professional or Internet guides to help you in this compliance process.
 
-#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse675653529c0aa)
+#### [What is Infomaniak's responsibility concerning the GDPR?](#collapse6756a6f4d4033)
 
 Like companies that work with European citizens, Infomaniak must comply with the General Data Protection Regulation:  
   
@@ -350,7 +342,7 @@ Like companies that work with European citizens, Infomaniak must comply with the
 * [Our data confidentiality policy](https://www.infomaniak.com/en/legal/confidentiality-policy) details the data which we keep in order to provide and run our services.
 * [Our policy regarding personal data protection](https://www.infomaniak.com/en/legal/confidentiality-policy) describes Infomaniak's commitments as a processor that hosts all of your data, including data of a personal nature.
 
-#### [Does Infomaniak have a delegate for data protection?](#collapse675653529c0ea)
+#### [Does Infomaniak have a delegate for data protection?](#collapse6756a6f4d407d)
 
 Yes. The Infomaniak officer for everything relating to using, managing, and protecting personal data is Johann Laqua. As the data protection officer, he is responsible for informing and advising processing managers, all company employees and any subcontractors.  
   
