@@ -234,7 +234,7 @@ We may update this Policy periodically as we offer new products and services, an
 
 © Gutter Helmet.
 
-\*\*Discount off dealer list price as to product plus professional installation, to be applied at time of contract execution by representative. Cannot be combined with other offers; applies to new Gutter Helmet purchase only. Participating dealers only. See dealer for details. Purchase documents must be entered into on or before . Offer must be presented at time of estimate. Offer subject to change without notice. Minimum 100 LF purchase. Gutter Helmet is not responsible for any typos. Void where prohibited by law. [Privacy Policy](https://www.gutterhelmet.com/privacy-policy)
+\*\*Discount off dealer list price as to product plus professional installation, to be applied at time of contract execution by representative. Cannot be combined with other offers; applies to new Gutter Helmet purchase only. Participating dealers only. See dealer for details. Purchase documents must be entered into on or before . Offer must be presented at time of estimate. Offer subject to change without notice. Minimum 100 LF purchase. Gutter Helmet is not responsible for any typos. Void where prohibited by law. [Privacy Policy](https://www.gutterhelmet.com/privacy-policy) [Terms of Use](https://www.gutterhelmet.com/terms-of-use)
 
 [](https://www.facebook.com/getgutterhelmet/)
 
