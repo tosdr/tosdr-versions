@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you! You folks are awesome!
+The service you provide has been fine. I sail on my boat in the Baltic in the summer and with the increasing prevalence of wifi in harbours, it's nice to be able to download programmes to watch when the weather is iffy.
 
-Anonymous
+Derek Roberts
