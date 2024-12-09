@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+    *  [![](https://media.tegna-media.com/assets/WHAS/images/264459688/264459688_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/264459688/264459688_360x203.jpg)](https://www.wqad.com/article/news/local/national-lego-league-challenge-qualifiers-quad-cities/526-42744eed-97e6-4bfd-afa7-bf3a29244ca4)
         
-        #### [3 men killed after boat capsizes on Mississippi River near Bellevue, Iowa DNR report says](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+        #### [Local qualifiers for national STEM competition involving LEGOs take place in the QCA](https://www.wqad.com/article/news/local/national-lego-league-challenge-qualifiers-quad-cities/526-42744eed-97e6-4bfd-afa7-bf3a29244ca4)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bb49065d-2f99-4dfe-8568-57a4b17765e6/bb49065d-2f99-4dfe-8568-57a4b17765e6_360x203.jpg)](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/d5790936-4861-47cd-acc0-e5c36636c0cf/20241031T023748/d5790936-4861-47cd-acc0-e5c36636c0cf_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/d5790936-4861-47cd-acc0-e5c36636c0cf/20241031T023748/d5790936-4861-47cd-acc0-e5c36636c0cf_360x203.jpg)](https://www.wqad.com/article/news/crime/police-chase-head-on-crash-muscatine-iowa-washington-county/526-27264472-eb21-4d30-a332-22fae831a299)
         
-        #### [Hancock County reserve deputy dismissed after allegedly conducting unauthorized traffic stop](https://www.wqad.com/article/news/local/hancock-county-reserve-deputy-dismissed-unauthorized-traffic-stop/526-e3a95100-edd9-4f1a-b50a-789da807e939)
+        #### [2 killed, including suspect, after police pursuit ends in head-on crash on US 218](https://www.wqad.com/article/news/crime/police-chase-head-on-crash-muscatine-iowa-washington-county/526-27264472-eb21-4d30-a332-22fae831a299)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9d86a16d-edc6-4682-943e-afea22c7e2e4/20241207T235136/9d86a16d-edc6-4682-943e-afea22c7e2e4_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9d86a16d-edc6-4682-943e-afea22c7e2e4/20241207T235136/9d86a16d-edc6-4682-943e-afea22c7e2e4_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1d10bc73-0034-4888-982e-cfe48f1c7f4c/20241209T000206/1d10bc73-0034-4888-982e-cfe48f1c7f4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1d10bc73-0034-4888-982e-cfe48f1c7f4c/20241209T000206/1d10bc73-0034-4888-982e-cfe48f1c7f4c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Very warm end to the weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [One more warm day before a big cool-down](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
         
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-56°
+53°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
