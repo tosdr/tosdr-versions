@@ -333,7 +333,11 @@ GMX Search formats the search results provided by Google and YouTube API Service
   
 For more information about the collection and use of data by our partners, see the data privacy policies of our partners linked below. Please bear in mind that, depending on the partner company, your IP address may be processed outside Europe.
 
-* [Google](https://privacy.google.com/)
+* Google
+
+* [Google Terms of Service](https://policies.google.com/terms)
+* [Google Privacy Policy](https://policies.google.com/privacy)
+
 * YouTube API Services
 
 * [YouTube Terms of Service](https://www.youtube.com/t/terms)
