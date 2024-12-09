@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/dutroux-en-de-dode-getuigen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/november-2012-bijzondere-licht-ufos-op-tenerife/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
