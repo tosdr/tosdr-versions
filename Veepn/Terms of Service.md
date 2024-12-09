@@ -1,4 +1,4 @@
-[![veepn home](/assets/d4d6be90/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/b4e14382/images/logo-main.svg)](https://veepn.com/)
 
 * VPN Apps
     
@@ -78,13 +78,13 @@
     
     [How Does a VPN Work?](https://veepn.com/what-is-vpn/)
     
-* [Pricing](https://order.veepn.com/pricing/)
+* [Pricing](https://veepn.com/vpn-pricing/)
 * [Help](https://help.veepn.com/hc/en-us)
 * [Log in](https://veepn.com/login/)
 
-[Get VeePN Now](https://order.veepn.com/pricing/)
+[Get VeePN Now](https://veepn.com/vpn-pricing/)
 
-![en language](/assets/d4d6be90/images/flags/en.svg) en
+![en language](/assets/b4e14382/images/flags/en.svg) en
 
 *  [Українська](https://veepn.com/uk/terms-of-service/)
 *  [Deutsch](https://veepn.com/de/terms-of-service/)
@@ -104,7 +104,7 @@
 *  [Türkçe](https://veepn.com/tr/terms-of-service/)
 *  [简体中文](https://veepn.com/zh/terms-of-service/)
 
-[Get VeePN](https://order.veepn.com/pricing/)
+[Get VeePN](https://veepn.com/vpn-pricing/)
 
 VeePN Terms of Service
 ======================
@@ -360,7 +360,7 @@ Please submit any notices to us with respect to the Service or these Terms via [
 
 Last updated: September 13, 2024
 
-[![veepn home](/assets/d4d6be90/images/logo-main.svg)](https://veepn.com/)
+[![veepn home](/assets/b4e14382/images/logo-main.svg)](https://veepn.com/)
 
 Products
 
@@ -378,7 +378,7 @@ General
 * [What Is a VPN?](https://veepn.com/what-is-vpn/)
 * [VPN Software](https://veepn.com/vpn-apps/)
 * [Features](https://veepn.com/vpn-features/)
-* [Pricing](https://order.veepn.com/pricing/)
+* [Pricing](https://veepn.com/vpn-pricing/)
 * [VPN Free Trial](https://veepn.com/vpn-free-trial/)
 * [Coupons](https://veepn.com/coupons/)
 * [Student Discount](https://veepn.com/student-discount/)
@@ -436,4 +436,4 @@ Best VPN deal
 
 00 Seconds
 
-[Grab the Deal](https://order.veepn.com/pricing/?utm_source=site&utm_medium=deals&utm_campaign=discount-popup&utm_content=pop-up)
+[Grab the Deal](https://veepn.com/vpn-pricing/?utm_source=site&utm_medium=deals&utm_campaign=discount-popup&utm_content=pop-up)
