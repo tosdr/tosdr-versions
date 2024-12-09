@@ -31,6 +31,165 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cartas a Quito / 9 de diciembre de 2024
+=======================================
+
+Estas son las cartas a Quito de este lunes 9 de diciembre de 2024
+-----------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+**UN MAL CALCULO POLITICO**
+
+Desde el inicio de sus funciones (lo que pudimos ver), la recién nombrada vicepresidenta de la República del Ecuador (porque constaba en la papeleta de votación) ya demostró que no había entrado para estar sometida, sino que tenía su propia agenda de trabajo.
+
+Supuestamente, estando en campaña, ya tuvo algo que le marcó un desacuerdo con el compañero de fórmula. Por eso comenzó a tomar distancia de las actividades con quien le estaba acompañado en la papeleta electoral. Casi nunca se los vio juntos en la campaña y solo se trabajó basándonos en el amparo de un joven que demostraba conocimiento, capacidad y tenía adelantado la trayectoria de su señor padre y de su madre que tenían mapeado todo el Ecuador con sus brigadas médicas gratuitas y su fuerte, la simpatía de su esposa y una capacidad económica para poder estar haciendo presencia en cualquier parte.
+
+Entonces el recién designado por el pueblo ecuatoriano como presidente de la República del Ecuador, sabía que ella tenía una agenda diferente y que pretendió su destitución.  Desde el principio, demostró que lo único que le interesaba a ella era poder manejar al país.
+
+De ahí ya todos saben cómo ha sucedido todo. La mando como delegada del Ecuador a Israel a tratar de consolidar la paz entre los israelitas y el grupo Islámico Hamas. Luego presentó amparo porque se sentía nerviosa con el tema de la guerra y se dispuso el cambio a Turquía y por último incumple con la orden y se le hace un sumario administrativo, por abandono del cargo, de parte del Ministerio de Trabajo, y suspendió de su cargo, sin sueldo, por cinco meses. Ante la falta de alguien a quien le reemplace, por cuanto va a entrar a la reelección, nombra a una persona de su confianza, quien quedara en su representación.
+
+A todo esto, la Vicepresidente elegida por el pueblo, presenta un reclamo ante los organismos pertinentes y la Asamblea Nacional, con mayoría, contraria al gobierno, le pone asunto y declara improcedente la sanción impuesta por el Ministerio del Trabajo.
+
+Según lo que establece la constitución vigente que considera a; las autoridades de elección popular, como “funcionarios de gobierno” lo que significa que están sujetos a lo que establecen los Reglamentos en la materia laboral y a ser sancionados si no cumplen, incumplen o abusan del poder, en el ejercicio de sus funciones. Hasta ahí se cumple con la ley.
+
+Y, por otro lado, considero que la mayoría de los ecuatorianos no estamos de acuerdo en cómo está redactado este artículo en la constitución (eso lo pusieron los de la revolución ciudadana). Se da este concepto de empleado público y que se haya tomado de esto para ejercer presión a su salida. Pero es la mejor decisión que se pudo tomar. Porque nunca tengas o dejes un enemigo atrás. Porque en el menor descuido te mete la puñalada por la espalda. Eso lo sabemos todos, desde el hombre que te carga un bulto en el mercado, que supuestamente no es letrado, como el letrado. De este tipo de traiciones está la historia llena de muchos hechos.
+
+Así que en todo caso no es que es lo más correcto, pero legalmente, el presidente Daniel Noboa, está dentro de la ley. Y la acción del Ministerio del Trabajo, para este caso, se ajusta a la ley. Como regulador. Y punto. Para concluir, me pregunto, ¿habría que pensar por qué se dan estos hechos? ¿El presidente exagera de su poder para imponerse y que nadie le haga sombra o si en verdad existió y existe la intención de querer usurpar un cargo con base en traicionar la lealtad y la confianza que se debe mantener en todo momento? Usted tiene la palabra….
+
+Lionel Efraín Romero Reyes
+
+Gazapo legislativo
+==================
+
+La desnutrición infantil exige combatirla, pero restringir suplementos sin receta podría empeorar la situación.
+---------------------------------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+Hace pocos días la **Asamblea** aprobó la **Ley Orgánica de Fomento**, **Apoyo y Protección a la Lactancia Materna** que, entre otros temas, prohíbe la venta libre de **sustitutos de la leche materna** y determina que esos productos únicamente podrán ser comercializados bajo prescripción médica. Esta normativa establece que los médicos, tanto de **instituciones públicas, como privadas,** deben recomendar, cómo único alimento de los niños lactantes, la leche materna, salvo casos especiales.
+
+Uno de los peores azotes a nuestro país son las elevadas tazas de desnutrición infantil, por las **consecuencias catastróficas** que origina, en los menores afectados: disminución de estatura, merma de capacidades intelectuales de atención y aprendizaje, labilidad para contraer enfermedades como: diarreas, asma, alergias, neumonías, entre otras. Por eso se justifica el **combate emprendido para bajar las altas cifras de desnutrición infantil** que agobian a nuestra niñez. Han unido esfuerzos instituciones gubernamentales, **fundaciones nacionales y organizaciones internacionales,** para promover la lactancia materna mediante la educación de madres, padres, familias y comunidades, a través de la gestión estatal permanente, independiente de los gobiernos de turno, encaminada a mejorar las condiciones de vida de la población, la **dotación de agua potable,** la eliminación adecuada de excretas y sobre todo el fomento de la lactancia materna, pues la leche de la madre reduce el peligro de la desnutrición, por su contenido de anticuerpos, agua, grasa, proteínas, vitaminas, azúcares y más de 300 nutrientes, que la convierten en el alimento más completo y saludable para niños menores de 2 años o más. La **propuesta de la Asamblea Nacional** de no permitir la venta de suplementos o complementos nutrientes de la leche materna, sin receta médica, creará una serie de problemas que, en lugar de **frenar la desnutrición infantil,** rebotarán y la incrementarán. **Sugieren los asambleístas ampliar el número de bancos de leche materna**, como solución utópica a las dificultades que se avizoran, fruto de esta Ley apresurada, en cuya elaboración han prescindido de la opinión de las sociedades médicas científicas o de la Academia Nacional de Medicina, cuyos experimentados médicos están prestos a asesorar a todos los estamentos gubernamentales relacionados con la salud. Es un absurdo que se obstaculice la compra de nutrientes, que son tan necesarios para el **desarrollo infantil** y que se congestione más a los, actualmente copados, consultorios y servicios de pediatras y neonatólogos, por el requerimiento de una receta firmada que permita efectuar dichas adquisiciones, ¿quién supervisaría el expendio correcto de las prescripciones, cuando en el país ni siquiera se controla la compra indiscriminada de antibióticos y hormonas, medicamentos cuyo uso, sin vigilancia, es severamente atentatorio a la salud de los habitantes?
+
+El tiempo recomendado de lactancia abarca, por lo menos un año, pero la **licencia postparto,** de las madres trabajadoras, es de 12 semanas, lapso que, concluido, las obliga a retornar a sus ocupaciones laborales; si no hay un **banco de leche materna**, ¿tendrán que pagar la consulta o esperar un turno hasta conseguir la receta para adquirir una fórmula complementaria? ¿cómo deben alimentar a sus niños lactantes las madres que no producen leche o que están sometidas a tratamientos, cuyos efectos pueden afectar a los lactantes?
+
+¿Por qué la comisión de salud, dirigida por **asambleístas** que no son médicos, no utiliza positivamente el tiempo y emite el anhelado **Código de la Salud** o implementa el indispensable **Sistema Nacional de Salud?**
+
+Sí, en general, existen tres formas de medicinas: **Fármacos, Hormonas y Nutrientes**, estos últimos (los nutrientes) no deben ser prohibidos para la venta, en tanto se debe controlar la venta libre de antibióticos ante el creciente peligro que crea su **mala administración**, al dar lugar al aparecimiento, cada vez más generalizado, de resistencias bacterianas y virales, en una amenaza permanente de llegar a la imposibilidad de **atacar a las infecciones y evitar la muerte masiva de los pacientes**. 
+
+Ante este nuevo gazapo de la **Asamblea**, estará totalmente justificado el veto total, al inconsistente proyecto de **Ley de Lactancia Materna, por el Presidente de la República**.
+
+Los raperos Jay-Z y Sean Combs enfrentan una acusación por violación
+====================================================================
+
+Según la denunciante, el supuesto hecho ocurrió en el 2000 en una fiesta posterior a los premios MTV Video Music Awards. Ella tenía 13 años.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/raperos.jpg)
+
+##### Agencia EFE
+
+El **rapero Jay-Z** negó las acusaciones de que había violado a una mujer cuando era **menor de edad,** calificando la demanda como un intento de “**extorsión**“.
+
+A través de su **empresa Roc Nation**, el artista, cuyo nombre real es **Shawn Carter**, rechazó enérgicamente la denuncia interpuesta por el **abogado Tony Buzbee**, que le acusa de violar a una **mujer cuando esta tenía 13 años.**
+
+En un comunicado en la red X, **Jay-Z** aseguró que la demanda es un “**intento de chantaje**” y parte de un patrón de acusaciones, las mismas que ya han sido dirigidas contra **Sean Combs, conocido como Puff Daddy,** quien también está señalado en la demanda.
+
+“Lo que (Buzbee) había calculado es que la naturaleza de estas acusaciones y el escrutinio público me harían querer llegar a un acuerdo. ¡Todo lo contrario! Me ha hecho querer exponerlo como el fraude que es de la manera más pública posible. ¡Así que no, no le daré ni un solo céntimo!”, afirmó el rapero.
+
+El artista dijo estar especialmente preocupado por una de sus hijas, que “está en la edad en la que sus amigas verán la prensa y le preguntarán por la naturaleza de estos cargos”. Aunque no especificó nombres, su hija mayor, **Blue Ivy Carter, tiene 12 años**.
+
+### Más noticias
+
+* [Conor McGregor pierde demanda civil por violación](https://www.elcomercio.com/deportes/conor-mcgregor-demanda-civil-violacion.html "Conor McGregor pierde demanda civil por violación")
+* [Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-logra-sentencia-para-profesora-que-pinchaba-a-nino-en-escuela-de-quito.html "Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito")
+* [Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas](https://www.elcomercio.com/actualidad/mundo/gabriel-boric-enfrenta-denuncia-presunto-abuso-difusion-otos-intimas.html "Gabriel Boric enfrenta denuncia por presunto abuso y difusión de fotos íntimas")
+
+La denuncia contra Jay-Z
+------------------------
+
+La denuncia, presentada inicialmente en octubre de 2024 en la corte federal del distrito sur de **Nueva York** y ampliada este domingo 9 de diciembre de 2024 para incluir a **Carter**, fue recogida por varios medios como NBC y la revista People.
+
+Según el documento, la **víctima, identificada como ‘Jane Doe’**, alega que **Carter** y **Combs** la violaron en el año 2000 en una fiesta posterior a los **premios MTV Video Music Awards.**
+
+La fiesta se celebró en una casa, donde supuestamente **primero Carter y luego Combs la violaron**, mientras una mujer famosa no identificada observaba.
+
+**Combs, de 55 años, enfrenta un proceso penal en Nueva York** donde se ha declarado inocente de cargos de coacción y abuso sistemático de mujeres, supuestamente con ayuda de sus empleados.
+
+‘Gladiador 2’ tiene a una estrella con apellido irlandés, porte romano y futuro en Hollywood
+============================================================================================
+
+Así es Paul Mescal, el actor de 28 años que triunfa como el protagonista de 'Gladiador 2'.
+------------------------------------------------------------------------------------------
+
+![Paul Mescal es la estrella de 'Gladiador 2'.](https://www.elcomercio.com/wp-content/uploads/2024/12/mescal-El-Comercio-4-1.jpg)
+
+En 2013, **Paul Mescal** tuvo un accidente que cambió su vida. Una **lesión en la mandíbula**, que lo obligó a alejarse de los deportes, lo acercó a una nueva pasión: la actuación.
+
+Aunque los deportes eran el primer amor de la estrella de ‘**Gladiador 2**‘ (2024), la recuperación de su lesión lo llevó a explorar las artes dramáticas.
+
+### Más noticias
+
+* **[‘La Sustancia’ inyectó a Margaret Qualley en los ojos del público](https://www.elcomercio.com/tendencias/la-sustancia-margaret-qualley.html "https://www.elcomercio.com/tendencias/la-sustancia-margaret-qualley.html")**
+* **[Pedro Pascal es fan del pan, los elefantes y ¿qué más?](https://www.elcomercio.com/tendencias/pedro-pascal.html "https://www.elcomercio.com/tendencias/pedro-pascal.html")**
+* **[Marisa Abela, la actriz que encarna a Amy Winehouse, fue una Barbie](https://www.elcomercio.com/tendencias/cine/marisa-abela-amy-winehouse-back-to-black-pelicula-biografica.html "https://www.elcomercio.com/tendencias/cine/marisa-abela-amy-winehouse-back-to-black-pelicula-biografica.html")**
+
+A medida que su interés crecía, Mescal comenzó a estudiar actuación, y su talento natural pronto lo catapultó a la escena artística.
+
+El impacto de la serie ‘Normal People’ y el salto a la fama
+-----------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mescal-El-Comercio-1-1024x683.jpg)
+
+El potente azul de sus ojos atrapó a sus fans primero en la **serie ‘Normal People’,** transmitida en **Hulu**, que fue el trampolín que lanzó a Mescal al estrellato internacional. En papel de **Connell Waldron**, un joven complejo y vulnerable, el actor irlandés impresionó tanto a críticos como a audiencias con su interpretación genuina.
+
+La química con **Daisy Edgar-Jones**, quien interpretó a Marianne, fue clave para el éxito de la serie, que se convirtió en un fenómeno global. Este papel le valió nominaciones a premios y consolidó su reputación en el mundo de la televisión y el cine.
+
+Hasta los detalles más pequeños como la cadena que el actor usó en la serie llamaron la atención de los espectadores. El fanatismo llegó a tal punto que hasta hay una cuenta en Instagram dedicada al **collar de Connell**.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/CKyphIkBY7N/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Connell Waldron’s Chain (@connellschain)](https://www.instagram.com/p/CKyphIkBY7N/?utm_source=ig_embed&utm_campaign=loading)
+
+‘Gladiador 2’: el nuevo desafío
+-------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mescal-El-Comercio-2-1024x683.jpg)
+
+En 2024, Paul Mescal se ha enfrentado a uno de los mayores retos de su carrera: ser parte de la secuela de _Gladiador_, dirigida por el grandioso Ridley Scott. En este esperado regreso, Mescal interpreta a un personaje clave en la historia, un paso que lo coloca en el radar de la élite de Hollywood. Es Lucio, el sobrino de Cómodo (Joaquin Phoenix).
+
+La participación en una franquicia tan taquillera no solo es un logro personal, sino también un indicativo de su crecimiento como actor. En **Ecuador**, la cinta se estrenó el 14 de noviembre de 2024 y fue acogida con interés por la comunidad de fanáticos del cine épico. **Rotten Tomatoes**, un sitio especializado en cine, le otorgó inicialmente una calificación del 84%.
+
+Pasó de ser percibido como el actor de dramas emocionales a una figura imponente y robusta, ganándose el apodo de “**Brick Wall Paul**“. Para lograrlo, Mescal siguió un régimen intensivo de entrenamiento físico.
+
+La rutina de Mescal incluía ejercicios de fuerza como levantamiento de pesas y entrenamientos funcionales diseñados para construir resistencia y masa muscular. Complementó este régimen con coreografías de combate que le ayudaron a encarnar a un guerrero romano, sin caer en la estética sobrehumanamente esculpida de los superhéroes actuales.
+
+Según Cultura Colectiva, su enfoque se centró en funcionalidad y presencia física para reflejar el carácter histórico del papel.
+
+Paul Mescal como embajador del talento irlandés
+-----------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDNqjspO1pi/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDNqjspO1pi/?utm_source=ig_embed&utm_campaign=loading)
+
+El éxito de Mescal también es reflejo de la nueva ola de talento irlandés que ha conquistado Hollywood. Actores como **Pierce Brosnan** (James Bond), **Saoirse Ronan** (‘Lady Bird’), **Colin Farrell** (‘El Pinguino’) y **Cillian Murphy** (‘Oppenheimer’) han sido referentes para generaciones de cineastas y fanáticos.
+
+Paul Mescal se une a estos grandes nombres. Lleva consigo una frescura y autenticidad que lo distingue dentro de la industria del cine.
+
+### **Más del tema**:
+
+* **[Historia de los gladiadores romanos más allá de los mitos](https://www.elcomercio.com/tendencias/curiosidades/gladiadores-romanos-historia-mitos-verdades.html "https://www.elcomercio.com/tendencias/curiosidades/gladiadores-romanos-historia-mitos-verdades.html")** 
+
+¿Mescal como la bebida?
+-----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/mescal-El-Comercio-3-1024x683.jpg)
+
+No, el apellido Mescal tiene raíces irlandesas y una historia fascinante. Aunque no es un nombre particularmente común, Mescal podría derivar de variaciones gaélicas o anglosajonas que se asentaron en Irlanda durante la colonización.
+
+Sin embargo, el apellido también se ha relacionado culturalmente con el mezcal (con Z), la bebida mexicana, un vínculo más casual que histórico.
+
 ¿Se podrán mantener los cortes de luz de tres horas en el Ecuador?
 ==================================================================
 
@@ -53,22 +212,22 @@ Uno de los principales señalamientos de los expertos energéticos es la falta d
 
 En ese sentido, **Ricardo Buitrón**, consultor eléctrico, señaló que las promesas del Gobierno de reducir los apagones a tres horas diarias no vienen acompañadas de explicaciones técnicas. Se dice que han mejorado las condiciones hídricas, pero no se detalla en qué ríos, ni se da ningún otro tipo de especificación, señaló.
 
-Según Buitrón, los cortes de luz deberían ser, al menos, de cinco horas y no de tres esta semana. Actualmente, el **sistema eléctrico** dispone de aproximadamente 3 000 megavatios (MW) diarios, provenientes de **plantas térmicas, 1 100 MW,** **generación hidráulica**, **1500 MW**, y **energía importada desde Colombia**, 400 MW. Pero esto no es suficiente para cubrir la demanda de 3 800 MW que necesita el Ecuador. El déficit es de cerca del 20%, que equivale a cinco horas de cortes diarios, explicó Buitrón.
+Según Buitrón, los cortes de luz deberían ser, al menos, de cinco horas y no de tres esta semana. Actualmente, en promedio, el **sistema eléctrico** dispone de aproximadamente 3 000 megavatios (MW) diarios, provenientes de **plantas térmicas, 1 100 MW,** **generación hidráulica**, **1500 MW**, y **energía importada desde Colombia**, 400 MW. Pero esto no es suficiente para cubrir la demanda de 3 800 MW que necesita el Ecuador. El déficit es de cerca del 20%, que equivale a cinco horas de cortes diarios, explicó Buitrón.
 
-Así, el cumplimiento de la promesa de reducir los cortes a tres horas dependería de factores como el aumento de generación en **Coca Codo Sinclair**, la entrada de **nuevas centrales térmicas** o una mejora en el caudal de los ríos. Sin embargo, estas condiciones no están totalmente en manos del Gobierno.
+Así, el cumplimiento de la promesa de reducir y mantener los cortes a tres horas dependería de factores como el aumento de generación en **Coca Codo Sinclair**, la entrada de **nuevas centrales térmicas** o una mejora en el caudal de los ríos. Sin embargo, estas condiciones no están totalmente en manos del Gobierno.
 
 Asimismo, la promesa del presidente **Daniel Noboa de terminar el añ**o sin racionamientos eléctricos es mucho más difícil de cumplir. Además, no existen datos ni recursos técnicos que respalden esta afirmación.
 
 Condiciones hídricas
 --------------------
 
-La zona del Austro del Ecuador, donde se ubica el **Complejo Hidroeléctrico Paute**, el más grande del país, se encuentra en **sequía hídrica** por cerca de 150 días, según la Red Hidrometeorológica de Cuenca. Es decir, que las reservas de agua disponibles, como ríos, acuíferos o lagunas, están por debajo de lo normal, originado por la ausencia total o parcial de lluvias.
+La zona del Austro del Ecuador, donde se ubica el **Complejo Hidroeléctrico Paute**, el más grande del país, se encuentra en **sequía hídrica** por 150 días, según la Red Hidrometeorológica de Cuenca. Es decir, que las reservas de agua disponibles, como ríos, acuíferos o lagunas, están por debajo de lo normal, originado por la ausencia total o parcial de lluvias.
 
-El **Complejo Hidroeléctrico Paute** está compuesto por tres centrales: Mazar, Paute y Sopladora. Así, como sus tres embalses: Mazar, Amaluza y Sopladora. Juntas tienen una capacidad instalada de 1 700 megavatios (MW),. En condiciones normales puede generar el 30% de la energía que consume el país.
+El **Complejo Hidroeléctrico Paute** está compuesto por tres centrales: Mazar, Paute y Sopladora. Así, como sus tres embalses: Mazar, Amaluza y Sopladora. Juntas tienen una capacidad instalada de 1 700 megavatios (MW). En condiciones normales puede generar el 30% de la energía que consume el país.
 
-Pese a que los últimos días se han registrado **lluvias en Cuenca**, la cantidad de agua ha sido insuficiente para llenar los embalses. Principalmente, el de Mazar, que es el más importante del país. Este reservorio tiene una extensión de 31 kilómetros y alberga 400 millones de metros cúbicos de agua.
+Los últimos días se han registrado **lluvias en Cuenca** y han servido para recuperar ligeramente los embalses. Principalmente, el de Mazar, que es el más importante del país. Este reservorio tiene una extensión de 31 kilómetros y alberga 400 millones de metros cúbicos de agua.
 
-Este 5 de diciembre, la **cota del embalse de Mazar** se encontraba en 2 112,31 metros sobre el nivel del mar (m.s.n.m.) a tres metros debajo del mínimo para operar sin riesgo, que es 2 115 m.s.n.m. Y estaba a más de 40 metros del máximo de 2 153 metros. Es decir, las condiciones hidráulicas no son suficientes para producir energía, y reducir los cortes de luz.
+Este 8 de diciembre, la **cota del embalse de Mazar** se encontraba en 2 113,63 metros sobre el nivel del mar (m.s.n.m.) a más de un metro debajo del mínimo para operar sin riesgo, que es 2 115 m.s.n.m. Y estaba a cerca de 40 metros del máximo de 2 153 metros. Es decir, las condiciones hidráulicas no son suficientes para producir la energía necesaria para mantener los cortes de luz reducidos.
 
 Para que se llene este embalse se requiere de, la menos, 15 días consecutivos de lluvias fuertes en el Austro. Con el reservorio lleno se podría garantizar la entrega de electricidad continua.
 
@@ -79,14 +238,14 @@ Compra de energía a Colombia
 
 La compra de energía a Colombia se ha mantenido estable, con un promedio de 420 MW al día. Esto podría incrementarse máximo a 480 MW, si lo dispone Colombia, ya que la red de conexión no permite más capacidad.
 
-La ministra de Energía encargada, Inés Manzano, señaló en días pasados que se podría incrementar a 530 MW, pero esto depende de Colombia. El país vecino debe incrementar la capacidad en una de sus líneas para poder entregar más energía.
+La ministra de Energía encargada, **Inés Manzano**, señaló en días pasados que se podría incrementar a 530 MW, pero esto depende de Colombia. El país vecino debe incrementar la capacidad en una de sus líneas para poder entregar más energía.
 
 Nueva generación termoeléctrica
 -------------------------------
 
-En cuanto a la generación térmica, la ministra Manzano señaló que se han recuperado 680 megavatios. Esta recuperación se ha logrado en las termoeléctricas del país. Sin embargo, la nueva generación térmica contratada para las centrales de Salitral y Quevedo estarán disponibles para el primer trimestre del 2025. Aunque, el Gobierno había informado que estaría lista la primera quincena de diciembre de este año.
+En cuanto a la generación térmica, la ministra Manzano señaló que se han recuperado **680 megavati**os. Esta recuperación se ha logrado en las termoeléctricas del país. Sin embargo, la nueva generación térmica contratada para las centrales de **Salitral y Quevedo** estarán disponibles para los primeros meses del 2025. Aunque, el Gobierno había informado que estaría lista la primera quincena de diciembre de este año.
 
-La empresa Progen Industries LLC, proveedora de las unidades, anunció el jueves 5 de diciembre de 2024 que los equipos clave para poner en marcha la Central Térmica Salitral están en tránsito hacia el Ecuador. Este proyecto aportará 100 MW al sistema eléctrico nacional y está previsto que se realizarán las pruebas de las unidades en diciembre para integrarlos a la operación en enero.
+La empresa **Progen Industries LLC**, proveedora de las unidades, anunció el jueves 5 de diciembre de 2024 que los equipos clave para poner en marcha la **Central Térmica Salitral** están en tránsito hacia el Ecuador. Este proyecto aportará 100 MW al sistema eléctrico nacional y está previsto que se realizarán las pruebas de las unidades en diciembre para integrarlos a la operación en enero.
 
 La morosidad en las cooperativas pequeñas de Ecuador supera el 10%
 ==================================================================
@@ -870,266 +1029,3 @@ El argentino aprovechó un balón suelto dentro del área y, con un **potente zu
 En los minutos finales, **Cole** **Palmer** selló su doblete tras convertir otro penal cometido por los Spurs, sentenciando el partido con un marcador de 2-4.
 
 Ya en el agregado, Heung-Min Son, el capitán de los locales, anotó a los 90+6′ para que el partido finalice 3-4
-
-El Mundial de Clubes 2025 promete ser histórico para Ecuador
-============================================================
-
-El nuevo formato del Mundial de Clubes contará con una notable representación ecuatoriana, marcando un hito en la historia del fútbol del país.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Willian Pacho, Moisés Caicedo y Gonzalo Plata son tres de lo sisete ecuatorianos presentes en el Mundial de Clubes 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T122429.086.jpg)
-
-Hasta ahora, la mayor presencia ecuatoriana en el **Mundial de Clubes** se había dado en 2008, cuando **Liga de Quito** disputó la competición con más de 10 jugadores nacionales en su plantel.
-
-Desde entonces, lo máximo que **Ecuador** había aportado eran dos futbolistas en una misma edición. Sin embargo, esto cambiará radicalmente en 2025, cuando siete ecuatorianos formen parte de uno de los torneos más prestigiosos del mundo.
-
-### Más noticias:
-
-* [Calendario de los ecuatorianos en el Mundial de Clubes 2025](https://www.elcomercio.com/deportes/futbol/calendario-de-los-ecuatorianos-en-el-mundial-de-clubes-2025.html "Calendario de los ecuatorianos en el Mundial de Clubes 2025")
-* [Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/real-madrid-chelsea-boca-juniors-los-duelos-imperdibles-del-mundial-de-clubes.html "Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes")
-* [Los grupos del Mundial de Clubes quedaron definidos](https://www.elcomercio.com/deportes/mundial-clubes-grupos-2025-equipos.html "Los grupos del Mundial de Clubes quedaron definidos")
-
-Una edición histórica para los ecuatorianos
--------------------------------------------
-
-El renovado **Mundial de Clubes**, que adoptará un formato similar al de la Copa del Mundo de selecciones y s**e jugará cada cuatro años**, contará con la participación de los siguientes ecuatorianos:
-
-* **Moisés Caicedo** (Chelsea)
-* **Willian Pacho** (París Saint-Germain)
-* **Gonzalo Plata** (Flamengo)
-* **Leonardo Campana** (Inter Miami)
-* **Jordy Alcívar** (León)
-* **Ángel Mena** y **Andrés Micolta** (Pachuca)
-
-Además, existe la posibilidad de que **Kendry Páez**, adquirido por el Chelsea por 20 millones de dólares, se sume al plantel de los ‘Blues’ para este torneo, lo que elevaría a **ocho el número de ecuatorianos** en esta edición.
-
-Este evento será histórico no solo por la cantidad de jugadores ecuatorianos, sino también por el nivel de competencia y complejidad que representa. Los mejores clubes del mundo **lucharán por la primera estrella de este nuevo formato**, consolidando al Mundial de Clubes como un escenario de élite.
-
-Para Ecuador, este torneo simboliza un avance significativo, resaltando el crecimiento y la influencia del talento nacional en el panorama **futbolístico** **internacional**.
-
-### Calendario de partidos
-
-### Sábado 14 de junio
-
-Inter Miami vs. Al Ahly
-
-**Hora**: 19:00
-
-**Estadio**: Hard Rock Stadium
-
-### Domingo 15 de junio
-
-París Saint-Germain vs. Atlético de Madrid
-
-**Hora**: 14:00
-
-**Estadio**: Rose Bowl Stadium
-
-### Lunes 16 de junio
-
-Chelsea vs. León
-
-**Hora**: 14:00
-
-**Estadio**: Mercedes-Benz Stadium
-
-Flamengo vs. Espérance Sportive de Tunis
-
-**Hora**: 20:00
-
-**Estadio**: Lincoln Financial Field
-
-### Miércoles 18 de junio
-
-Pachuca vs. FC Salzburgo
-
-**Hora**: 14:00
-
-**Estadio**: TQL Stadium
-
-### Jueves 19 de junio
-
-Inter Miami vs. Porto
-
-**Hora**: 14:00
-
-**Estadio**: Hard Rock Stadium
-
-PSG vs. Botafogo
-
-**Hora**: 15:00
-
-**Estadio**: Rose Bowl Stadium
-
-### Viernes 20 de junio
-
-Flamengo vs. Chelsea
-
-**Hora**: 13:00
-
-**Estadio**: Lincoln Financial Field
-
-León vs. Espérance Sportive de Tunis
-
-**Hora**: 16:00
-
-**Estadio**: Nashville, GEODIS Park
-
-### Domingo 22 de junio
-
-Real Madrid vs. Pachuca
-
-**Hora**: 14:00
-
-**Estadio**: Bank of America Stadium
-
-### Lunes 23 de junio
-
-Seattle Sounders vs. París Saint-Germain
-
-**Hora**: 14:00
-
-**Estadio**: Seattle Lumen Field
-
-Inter Miami vs. Palmeiras
-
-**Hora**: 20:00
-
-**Estadio**: Hard Rock Stadium
-
-### Martes 24 de junio
-
-León vs. Flamengo
-
-**Hora**: 20:00
-
-**Estadio**: Camping World Stadium
-
-Espérance Sportive de Tunis vs. Chelsea
-
-**Hora**: 20:00
-
-**Estadio**: Lincoln Financial Field
-
-### Jueves 26 de junio
-
-Al Hilal vs. Pachuca
-
-**Hora**: 20:00
-
-**Estadio**: Nasville GEODIS Park
-
-Formulario de registro aduanero tendrá una variación desde este 9 de diciembre
-==============================================================================
-
-Una nueva modalidad se implementará para el formulario de registro aduanero.
-----------------------------------------------------------------------------
-
-![Una nueva modalidad se implementa en la Aduana.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-13.jpg)
-
-Desde este lunes, 9 de diciembre de 2024, el formulario de registro aduanero tiene una novedad. Este es un paso que deben cumplir las personas que ingresan o salen de **Ecuador**.
-
-En el documento se debe declarar el dinero en efectivo con el que se movilizan los **pasajeros**.
-
-### Más noticias
-
-* [Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia](https://www.elcomercio.com/actualidad/seguridad/agentes-aduana-implicados-ingreso-2-millones-de-dolares-senae-denuncia.html "Agentes de Aduana, implicados en ingreso de 2 millones de dólares; Senae denuncia")
-* [ANT trabaja en reglamento para regular motos eléctricas y scooters en Ecuador](https://www.elcomercio.com/actualidad/ecuador/ant-reglamento-regulacion-motos-scooter.html "ANT trabaja en reglamento para regular motos eléctricas y scooters en Ecuador")
-* [Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto](https://www.elcomercio.com/actualidad/politica/daniel-noboa-denuncia-irregularidades-marchas-decomiso-aeropuesto.html "Daniel Noboa denuncia irregularidades relacionadas con las marchas, tras decomiso en aeropuerto")
-
-Formulario de registro aduanero y los cambios
----------------------------------------------
-
-El formulario va dirigido para personas que cuentan con dinero en efectivo igual o superior a **10 000 dólares** o su equivalente en otras monedas. Los montos deben declararse también en la salida del país.
-
-El **Servicio Nacional de Aduana del Ecuador (Senae)** informó que ese proceso se podrá hacer en línea, desde este 9 de diciembre de 2024.
-
-> !Atención! 📣  
->   
-> Puedes realizar el Formulario de Registro Aduanero de manera electronica desde tu computadora 💻 o dispositivo movil 📱  
->   
-> Visita nuestra pagina web ➡️ [https://t.co/bPkcxRhIVN](https://t.co/bPkcxRhIVN)[#FRADigital](https://twitter.com/hashtag/FRADigital?src=hash&ref_src=twsrc%5Etfw)[#ElNuevoEcuador](https://twitter.com/hashtag/ElNuevoEcuador?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/wyMxjsqSyc](https://t.co/wyMxjsqSyc)
-> 
-> — Servicio Nacional de Aduana del Ecuador (@SENAE\_Aduana) [December 8, 2024](https://twitter.com/SENAE_Aduana/status/1865562741907304468?ref_src=twsrc%5Etfw)
-
-El proceso de registro
-----------------------
-
-Para llenar el **formulario en línea**, las personas que requieran el trámite deben ingresar al sitio web de la aduana del Ecuador.
-
-El siguiente paso es crear una cuenta con **usuario y contraseña**. Luego ya se puede llenar el formulario, con los datos requeridos.
-
-Al completar el documento se debe generar un **código QR**, para presentar en el control aduanero. Se puede cumplir con este trámite hasta tres días antes del viaje.
-
-Las sanciones
--------------
-
-Los viajeros que no cumplan con el proceso pueden enfrentar sanciones legales, como **multas y la confiscación de bienes**.
-
-Desde el 29 de julio de 2025, el trámite será obligatorio para todos y solo se presentará de forma **digital**. En la actualidad, el trámite se cumple en los aeropuertos, solicitando el formulario físico.
-
-Horarios de cortes de luz en Guayaquil están listos para este 9 de diciembre
-============================================================================
-
-Cortes de luz en Guayaquil se ejecutarán este 9 de diciembre. Hay horarios definidos.
--------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil y el resto de Ecuador se mantienen.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-12.jpg)
-
-Los **cortes de luz** en Guayaquil están definidos para la semana del 9 al 15 de diciembre de 2024. Estos durarán tres horas continuas para el sector residencial. Al menos así lo publicó la empresa proveedora del servicio[.](https://es.wikipedia.org/wiki/Guayaquil)[](https://es.wikipedia.org/wiki/Guayaquil)
-
-La **Corporación Nacional de Electricidad (CNEL)** definió una programación de lunes a viernes 13 y otra, para el sábado y domingo.
-
-### Más noticias
-
-* [Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre](https://www.elcomercio.com/actualidad/guayaquil/horarios-cortes-luz-guayaquil-8-de-diciembre.html "Estos son los horarios de cortes de luz en Guayaquil para este 8 de diciembre")
-* [¿Cuáles son los horarios de cortes de luz en Quito para este 9 de diciembre?](https://www.elcomercio.com/actualidad/quito/cuales-son-los-horarios-de-cortes-de-luz-en-quito-para-este-9-de-diciembre.html "¿Cuáles son los horarios de cortes de luz en Quito para este 9 de diciembre?")
-* [Cortes de luz en Guayaquil del 9 al 15 de diciembre](https://www.elcomercio.com/actualidad/ecuador/cortes-luz-guayaquil-9-15-diciembre.html "Cortes de luz en Guayaquil del 9 al 15 de diciembre")
-
-Cortes de luz en Guayaquil
---------------------------
-
-La ministra de Energía y Minas, **Inés Manzano**, ofreció que Ecuador terminará el 2024 sin apagones.
-
-Ese anuncio se dio luego de que el presidente **Daniel Noboa** aseguró que los racionamientos terminarían en este diciembre.
-
-En el caso de Guayaquil, en el cronograma de suspensión de **energía eléctrica** hay períodos, por ejemplo, de 08:00 a 11:00, en sitios como Venecia, San Pedro, San Jacinto, entre otros.
-
-También se contemplan horarios en la madrugada, como de 00:00 a 03:00, en sectores como **Villa Brisas del Mar**.
-
-Brighton de Pervis Estupiñán dejó escapar una importante victoria
-=================================================================
-
-El Brighton & Hove Albion sigue sin poder levantar cabeza y se aleja de los puestos de clasificación a la Champions League.
----------------------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán en un partido con el Brighton por la Premier League 24/25.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T112218.565.jpg)
-
-El **Brighton de Pervis Estupiñán** dejó escapar otra gran oportunidad de sumar tres puntos, esta vez frente al Leicester City. Las ‘Gaviotas’, que ganaban por dos goles hasta el minuto 85, permitieron que el rival empatara el encuentro 2-2.
-
-Este partido, jugado el domingo 8 de diciembre por la jornada 15 de la **Premier League**, extendió a tres los partidos consecutivos del Brighton sin conocer la victoria, alejándolos de los puestos europeos.
-
-### Más noticias:
-
-* [Brighton perdió y se aleja de los puestos de Champions](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-fulham-resultado.html "Brighton perdió y se aleja de los puestos de Champions")
-* [Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier](https://www.elcomercio.com/deportes/pervis-estupinan-brighton-premier-league.html "Pervis Estupiñán y el Brighton igualaron y siguen arriba en la Premier")
-* [Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder](https://www.elcomercio.com/deportes/futbol/brighton-dejo-escapar-la-victoria-liverpool-nuevo-lider-premier-leauge.html "Brighton dejó escapar la victoria, y el Liverpool es el nuevo líder")
-
-Actualmente, el equipo de **Pervis** **Estupiñán** ocupa la séptima posición de la tabla con 24 puntos, gracias a seis victorias, seis empates y tres derrotas en lo que va del campeonato.
-
-### Brighton dejó escapar otra oportunidad
-
-El conjunto dirigido por Fabian Hürzeler no pudo contrarrestar el impacto que ha tenido **Ruud** **van** **Nistelrooy** en el Leicester City.
-
-Desde su llegada, el técnico neerlandés ha revitalizado a los ‘Foxes’, logrando cortar una racha negativa de cinco partidos sin victorias en **Premier** **League**. Tras debutar con un triunfo por 3-1 sobre el West Ham, Van Nistelrooy sumó otro buen resultado al empatar ante el Brighton en un emocionante desenlace.
-
-En el duelo, el Brighton se adelantó con un golazo de **Tariq Lamptey** al minuto 37, quien sacó un potente zurdazo desde fuera del área. Ya en la segunda parte, Yankuba Minteh amplió la ventaja en el 79 tras una brillante jugada individual en la que dejó atrás a dos defensores antes de definir frente al arquero Bart Verbruggen.
-
-Sin embargo, la reacción del Leicester fue impresionante. Apenas un minuto después, **Jamie** **Vardy** acortó distancias con un remate a quemarropa, y en el tiempo de descuento, Bobby De Cordova-Reid selló el empate con un disparo tras una asistencia del propio **Vardy**.
-
-El efecto Van Nistelrooy
-------------------------
-
-Con este empate, el **Leicester** **City** continúa beneficiándose del llamado “efecto Van Nistelrooy”, que ha revitalizado al equipo, aun en la lucha por alejarse de la zona baja de la tabla.
-
-Mientras tanto, el Brighton, que llegó a estar cerca de la quinta posición, ve cómo sus esperanzas de alcanzar puestos europeos se complican. Su alegría por una aparente victoria se desvaneció en apenas once minutos, dejando a las ‘**Gaviotas**‘ fuera de los primeros lugares de la Premier League.
