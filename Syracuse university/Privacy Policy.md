@@ -210,7 +210,7 @@ If you have any questions or further concerns relating to how we use your person
 Center for Science and Technology  
 Syracuse, NY 13244  
 Email: [help@syr.edu](mailto:help@syr.edu)  
-Phone: [315.443.2677](tel:315.443.2677)
+Phone: [315.443.2677](tel:+13154432677)
 
 ### If You Are Located in the European Union (EU)/European Economic Area (EEA)
 
