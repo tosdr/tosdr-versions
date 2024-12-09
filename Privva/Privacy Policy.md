@@ -92,7 +92,7 @@ This Quick Summary provides a summary of Smarsh’s Privacy Notice. If you wish 
 
 Does this Privacy Notice apply to me?
 
-This Privacy Notice applies to the collection and processing of Personal Information by Smarsh from visitors and users of (i) our website ([www.smarsh.com](http://www.smarsh.com/)) ("Website"), (ii) our corporate social media pages (for example, LinkedIn, Facebook, or other similar service) ("Smarsh Social Media") , and (iii) attendees and participants of events, webinars, or contests related to Smarsh ("Smarsh Events"). For more detailed information, please make sure that you read our entire Privacy Notice. This Privacy Notice does not apply to the processing of Personal Information by Smarsh on behalf of our clients in connection with the provision of services to such clients via a separate, direct agreement.
+This Privacy Notice applies to the collection and processing of Personal Information by Smarsh from visitors and users of (i) our website ([www.smarsh.com](https://www.smarsh.com/)) ("Website"), (ii) our corporate social media pages (for example, LinkedIn, Facebook, or other similar service) ("Smarsh Social Media") , and (iii) attendees and participants of events, webinars, or contests related to Smarsh ("Smarsh Events"). For more detailed information, please make sure that you read our entire Privacy Notice. This Privacy Notice does not apply to the processing of Personal Information by Smarsh on behalf of our clients in connection with the provision of services to such clients via a separate, direct agreement.
 
 Definitions & What is Personal Information?
 
