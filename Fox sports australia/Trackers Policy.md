@@ -18,12 +18,12 @@ FOX SCORES
     
 * [Men's Test
     
-    Day 4
+    RSA won by 109 runs
     
     |     |     |
     | --- | --- |
     | RSA | 358 & 317 |
-    | SRI | 328 & 5 /205 |
+    | SRI | 328 & 238 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250702)
 * [Sheffield Shield
@@ -48,76 +48,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250118)
 * NFL
     
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TEN | 6   |
-    | JAX | 10  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251402)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PHI | 22  |
-    | CAR | 16  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251406)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TB  | 28  |
-    | LV  | 13  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251408)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIN | 42  |
-    | ATL | 21  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251404)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PIT | 27  |
-    | CLE | 14  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251407)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NYG | 11  |
-    | NO  | 14  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251405)
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | MIA | 32  |
-    | NYJ | 26  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251403)
 * [NFL
     
     Full Time
@@ -160,16 +90,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251412)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CHI | 100 |
-    | PHI | 108 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010322/box-score)
 * [NBA
     
     Full Time
@@ -294,16 +214,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=598)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | TOT | 3   |
-    | CHE | 4   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251506)
 * [Premier League
     
     10/12 7:00 AEST
@@ -1048,7 +958,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
