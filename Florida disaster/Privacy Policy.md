@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, December 8, 2024**
+**Monday, December 9, 2024**
 
-**...****Freeze Warnings and Frost Advisories Throughout Suwannee Valley and Interior Northeast Florida to Expire Mid-Morning...High Pressure to Continue To Dominate Bringing Dry Conditions Statewide...Sensitive Wildfire Conditions Across Suwannee Valley and Interior Northeast Florida...High Temperatures Near Normal for this Time of Year...Increasing Cloud Cover Ovenright Across Panhandle...Isolated Showers to Move Eastward into Western Panhandle Overnight/Early Monday Morning...Patchy Fog Possible Along Coastal Big Bend During Predawn Hours...Low Temperatures to Remain Well Above Freezing Tonight...Moderate to Locally High Risk for Rip Currents Along the Florida Panhandle and East Coast...**
+**...****Active Weather Beginning Today Along Panhandle and Big Bend...Quick-Moving Showers This Morning Across Panhandle and Big Bend; Showers to Become Scattered to Numerous Throughout the Afternoon and Overnight Hours...Slight Risk (level 2 of 4) for Flash Flooding Along Far Western Panhandle; Marginal Risk (level 1 of 4) Extending Into Western Big Bend; Widespread Rainfall Could Bring Instances of Flash Flooding For Urban and Low-Lying/Poor Drainage Areas...Dry Conditions Throughout Peninsula Persist...Temperatures Trending Above Normal For This Time of Year...Patchy to Locally Dense Fog Possible Overnight Along West Coast & Portions of Interior South Florida Near Lake Okeechobee...Moderate to High Risk for Rip Currents Persists Along Panhandle and East Coast Beaches; Low Risk Along West Coast...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
