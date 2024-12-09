@@ -302,7 +302,7 @@ Except as otherwise stated, any notice to us shall be given by email to support@
 
 [News & Research](https://www.tellmi.help/news-research)
 
-[Referrals](https://www.tellmi.help/therapy-referral)
+[Referrals to Tellmi Therapy](https://www.tellmi.help/therapy-referral)
 
 [Tellmi Sponsorship](https://www.tellmi.help/sponsorship)
 
