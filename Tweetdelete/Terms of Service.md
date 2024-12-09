@@ -4,7 +4,7 @@
 
 **50% OFF** Annual Plan
 
-Cyber Monday flash Sale
+Holiday flash Sale
 
 01 HR 12 Min 32 Sec
 
