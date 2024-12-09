@@ -19,6 +19,7 @@
     * [Utbildningar](https://skma.se/utbildning/)
     * [Seminarier](https://skma.se/utbildning/seminarier/)
     * [Novemberkonferensen](https://skma.se/utbildning/novemberkonferensen/)
+    * [Hågkomstprojektet](https://skma.se/hagkomstprojektet/)
     * [Fortbildningar om Förintelsen](https://skma.se/utbildning/studieresor/)
     * [Elevresor](https://skma.se/utbildning/elevresor/)
     * [Ungdomsutbildning](https://skma.se/utbildning/skmas-ungdomsutbildning/)
