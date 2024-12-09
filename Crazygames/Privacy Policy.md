@@ -16,7 +16,9 @@ Trending now](https://www.crazygames.com/hot)[![Updated icon](https://images.cra
 
 Updated](https://www.crazygames.com/updated)[![Originals icon](https://images.crazygames.com/icon/Originals.svg)
 
-Originals](https://www.crazygames.com/originals)
+Originals](https://www.crazygames.com/originals)[![Multiplayer icon](https://images.crazygames.com/icon/Multiplayer.svg)
+
+Multiplayer](https://www.crazygames.com/t/multiplayer)
 
 * * *
 
@@ -60,9 +62,7 @@ Horror](https://www.crazygames.com/t/horror)[![Io icon](https://images.crazygame
 
 Mahjong](https://www.crazygames.com/t/mahjong)[![Minecraft icon](https://images.crazygames.com/icon/Minecraft.svg)
 
-Minecraft](https://www.crazygames.com/t/minecraft)[![Multiplayer icon](https://images.crazygames.com/icon/Multiplayer.svg)
-
-Multiplayer](https://www.crazygames.com/t/multiplayer)[![Pool icon](https://images.crazygames.com/icon/Pool.svg)
+Minecraft](https://www.crazygames.com/t/minecraft)[![Pool icon](https://images.crazygames.com/icon/Pool.svg)
 
 Pool](https://www.crazygames.com/t/pool)[![Puzzle icon](https://images.crazygames.com/icon/Puzzle.svg)
 
