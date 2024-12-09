@@ -39,7 +39,7 @@ Skip links
     
     [### Press Releases
     
-    We bring the right people together to challenge established thinking and drive transform in 2020.](https://texasgop.org/category/press-releases/)
+    We bring the right people together to challenge established thinking and drive transformation in 2024.](https://texasgop.org/category/press-releases/)
     
     [### Media Requests
     
@@ -102,7 +102,7 @@ Skip links
     
     [### Legislative Priorities
     
-    The Legislative Priorities for the 89th Session (2024-2025) of the Texas Legislature are:](https://texasgop.org/priorities/)
+    The Legislative Priorities for the 89th Session of the Texas Legislature are:](https://texasgop.org/priorities/)
     
     [### Bill List
     
