@@ -490,6 +490,7 @@ Table of Contents Table of Contents Toggle navigation
     * [Writing Helper Site installation](https://support.texthelp.com/help/writing-helper-unlimited-installation)
 * [Global Tasks](javascript:void(0);)
     
+    * [Licence Expired](https://support.texthelp.com/help/licence-expired)
     * [How to use Global Tasks](https://support.texthelp.com/help/how-to-use-global-tasks)
     * [Global Tasks Frequently Asked Questions](https://support.texthelp.com/help/globaltasks-frequently-asked-questions)
     * [Global Tasks Troubleshooting](https://support.texthelp.com/help/global-tasks-troubleshooting)
