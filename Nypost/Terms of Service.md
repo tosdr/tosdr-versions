@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Juan Soto signing with Mets on gargantuan $765 million contract as Yankees miss out](https://nypost.com/2024/12/08/sports/juan-soto-signing-with-mets-on-15-year-765-million-contract/)
-
 Terms Of Use
 ============
 
