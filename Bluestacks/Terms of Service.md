@@ -719,6 +719,7 @@ Unlock your PC's gaming potential. And yours too.
 * Terms and Privacy
 
 * Products
+    * [BlueStacks Mac](https://www.bluestacks.com/mac)
     * [BlueStacks 5](https://www.bluestacks.com/bluestacks-5.html)
     * [Deals](https://www.bluestacks.com/products/deals.html)
     * [Store](https://www.bluestacks.com/products/store.html)
