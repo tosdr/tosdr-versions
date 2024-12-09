@@ -196,11 +196,11 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (70)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (68)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (64)](https://www.smithbrothersfarms.com/on-special)
         
-    * [Holiday (43)](https://www.smithbrothersfarms.com/holiday)
+    * [Holiday (42)](https://www.smithbrothersfarms.com/holiday)
         
         * BACK
         * [Holiday Treats (17)](https://www.smithbrothersfarms.com/holiday-treats)
@@ -250,7 +250,7 @@ Hi
         * [Eggs (7)](https://www.smithbrothersfarms.com/eggs)
             
         
-    * [Cheese (63)](https://www.smithbrothersfarms.com/cheese)
+    * [Cheese (62)](https://www.smithbrothersfarms.com/cheese)
         
         * BACK
         * [Block Cheese (6)](https://www.smithbrothersfarms.com/blocks)
@@ -261,19 +261,19 @@ Hi
             
         * [Cream Cheese (10)](https://www.smithbrothersfarms.com/cream-cheese)
             
-        * [Artisan Cheese (17)](https://www.smithbrothersfarms.com/other-cheese)
+        * [Artisan Cheese (16)](https://www.smithbrothersfarms.com/other-cheese)
             
         * [Single Serve (12)](https://www.smithbrothersfarms.com/single-serve-cheeses)
             
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (87)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (28)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (27)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -312,12 +312,12 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (83)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (82)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (28)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (25)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (24)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (4)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
