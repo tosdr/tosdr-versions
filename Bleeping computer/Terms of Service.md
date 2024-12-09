@@ -36,6 +36,9 @@
         
         Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
     
+    * [![Automate Windows with this $15 PowerShell course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Automate Windows with this $15 PowerShell course bundle deal](https://www.bleepingcomputer.com/offer/deals/automate-windows-with-this-15-powershell-course-bundle-deal/)
     * [![QR codes bypass browser isolation for malicious C2 communication](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
@@ -45,9 +48,6 @@
     * [![Anna Jaques Hospital ransomware breach exposed data of 300K patients](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Anna Jaques Hospital ransomware breach exposed data of 300K patients](https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/)
-    * [![Tackle 2025 like a pro with MS Office 2024 — $30 off for Cyber Week](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Tackle 2025 like a pro with MS Office 2024 — $30 off for Cyber Week](https://www.bleepingcomputer.com/offer/deals/tackle-2025-like-a-pro-with-ms-office-2024-30-off-for-cyber-week/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
