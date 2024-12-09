@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![SamukaRei](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257611.thumb.jpeg.b0acf9eba1e2f2bbb67e27b7b7348b55.jpeg)](https://www.clubedohardware.com.br/profile/1257611-samukarei/ "Ir ao perfil de SamukaRei")
+    * [![DanielRodrigo](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/x-small.thumb.png.129edd2db94365428c542d6b9c53477e.png)](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")
         
         0
         
-        [placa-mãe ASUS tuf gaming a520m plus-2 não liga o pc](https://www.clubedohardware.com.br/forums/topic/1704950-placa-m%C3%A3e-asus-tuf-gaming-a520m-plus-2-n%C3%A3o-liga-o-pc/?do=getNewComment "placa-mãe ASUS tuf gaming a520m plus-2 não liga o pc")
+        [placa-mãe sem HDMI - como ligar o Vídeo?](https://www.clubedohardware.com.br/forums/topic/1704962-placa-m%C3%A3e-sem-hdmi-como-ligar-o-v%C3%ADdeo/?do=getNewComment "placa-mãe sem HDMI - como ligar o Vídeo?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [SamukaRei](https://www.clubedohardware.com.br/profile/1257611-samukarei/ "Ir ao perfil de SamukaRei")  
-        6 minutos atrás
+        Por [DanielRodrigo](https://www.clubedohardware.com.br/profile/381711-danielrodrigo/ "Ir ao perfil de DanielRodrigo")  
+        53 minutos atrás
         
-    * [![Purcell](https://www.clubedohardware.com.br/uploads/members/monthly_2022_06/imported-photo-1196011.thumb.png.eb4e9c8fc9ecb97f70d0163e42829c06.png)](https://www.clubedohardware.com.br/profile/1196011-purcell/ "Ir ao perfil de Purcell")
-        
-        0
-        
-        [Quanto vale meu PC? Ryzen 7 5700X e RTX 4060](https://www.clubedohardware.com.br/forums/topic/1704949-quanto-vale-meu-pc-ryzen-7-5700x-e-rtx-4060/?do=getNewComment "Quanto vale meu PC? Ryzen 7 5700X e RTX 4060")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [Purcell](https://www.clubedohardware.com.br/profile/1196011-purcell/ "Ir ao perfil de Purcell")  
-        21 minutos atrás
-        
-    * [![Maré Vermelha](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1235126.thumb.png.83e7467a9f0a947058f22291dfc06fd1.png)](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")
+    * [![italon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257620.thumb.jpeg.83c80969dcf2e20f177a7309bcb140d6.jpeg)](https://www.clubedohardware.com.br/profile/1257620-italon/ "Ir ao perfil de italon")
         
         0
         
-        [Comprar as peças de uma vez ou parcelar?](https://www.clubedohardware.com.br/forums/topic/1704948-comprar-as-pe%C3%A7as-de-uma-vez-ou-parcelar/?do=getNewComment "Comprar as peças de uma vez ou parcelar?")
+        [Pc trava em jogos e só volta se reiniciar o pc](https://www.clubedohardware.com.br/forums/topic/1704961-pc-trava-em-jogos-e-s%C3%B3-volta-se-reiniciar-o-pc/?do=getNewComment "Pc trava em jogos e só volta se reiniciar o pc")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Maré Vermelha](https://www.clubedohardware.com.br/profile/1235126-mar%C3%A9-vermelha/ "Ir ao perfil de Maré Vermelha")  
-        23 minutos atrás
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [italon](https://www.clubedohardware.com.br/profile/1257620-italon/ "Ir ao perfil de italon")  
+        1 hora atrás
         
-    * [![Vinicius1332](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/teste.thumb.jpg.69c6a9c13d7b7cf3d2bf646a7833fca2.jpg)](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")
+    * [![Luis99880](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257619.thumb.png.e641dbe5c55c4cad7c902a0df55b0df3.png)](https://www.clubedohardware.com.br/profile/1257619-luis99880/ "Ir ao perfil de Luis99880")
         
-        1
+        0
         
-        [Ryzen 5 5500 dando 85° sem OC](https://www.clubedohardware.com.br/forums/topic/1704947-ryzen-5-5500-dando-85%C2%B0-sem-oc/?do=getNewComment "Ryzen 5 5500 dando 85° sem OC")
+        [Usar uma fonte 550w pra uma RX 6600 e um Ryzen 5700x3d é seguro?](https://www.clubedohardware.com.br/forums/topic/1704960-usar-uma-fonte-550w-pra-uma-rx-6600-e-um-ryzen-5700x3d-%C3%A9-seguro/?do=getNewComment "Usar uma fonte 550w pra uma RX 6600 e um Ryzen 5700x3d é seguro?")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Vinicius1332](https://www.clubedohardware.com.br/profile/991594-vinicius1332/ "Ir ao perfil de Vinicius1332")  
-        26 minutos atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Luis99880](https://www.clubedohardware.com.br/profile/1257619-luis99880/ "Ir ao perfil de Luis99880")  
+        2 horas atrás
         
-    * [![mathe8877](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1155652.thumb.jpeg.2af556def61d569298fdc019e8eea831.jpeg)](https://www.clubedohardware.com.br/profile/1155652-mathe8877/ "Ir ao perfil de mathe8877")
-        
-        7
-        
-        [roblox "corrompendo" windows ou SSD](https://www.clubedohardware.com.br/forums/topic/1704946-roblox-corrompendo-windows-ou-ssd/?do=getNewComment "roblox "corrompendo" windows ou SSD")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [mathe8877](https://www.clubedohardware.com.br/profile/1155652-mathe8877/ "Ir ao perfil de mathe8877")  
-        44 minutos atrás
-        
-    * [![Willian Miguel Da Silva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257608.thumb.png.5067441addc2bb9787d422376d252cf4.png)](https://www.clubedohardware.com.br/profile/1257608-willian-miguel-da-silva/ "Ir ao perfil de Willian Miguel Da Silva")
+    * [![pimpolhoo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257543.thumb.jpeg.afa9f330aef84da789986264977265ba.jpeg)](https://www.clubedohardware.com.br/profile/1257543-pimpolhoo/ "Ir ao perfil de pimpolhoo")
         
         2
         
-        [Meu pc trava na tela da logo da placa-mãe](https://www.clubedohardware.com.br/forums/topic/1704945-meu-pc-trava-na-tela-da-logo-da-placa-m%C3%A3e/?do=getNewComment "Meu pc trava na tela da logo da placa-mãe")
+        [Algumas boas recomendações para Placas-mãe](https://www.clubedohardware.com.br/forums/topic/1704959-algumas-boas-recomenda%C3%A7%C3%B5es-para-placas-m%C3%A3e/?do=getNewComment "Algumas boas recomendações para Placas-mãe")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Willian Miguel Da Silva](https://www.clubedohardware.com.br/profile/1257608-willian-miguel-da-silva/ "Ir ao perfil de Willian Miguel Da Silva")  
-        54 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [pimpolhoo](https://www.clubedohardware.com.br/profile/1257543-pimpolhoo/ "Ir ao perfil de pimpolhoo")  
+        3 horas atrás
         
-    * [![Lactobacilos](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/1060365459_Capturadetela2022-09-22125925.thumb.png.9e2f9d3595d1a4a7ede81894b4aad7bd.png)](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")
+    * [![Torradeira2005](https://www.clubedohardware.com.br/uploads/members/monthly_2023_06/20230530_091037.thumb.jpg.a20ee8ab469dc3e49a19ea40709095a3.jpg)](https://www.clubedohardware.com.br/profile/1028797-torradeira2005/ "Ir ao perfil de Torradeira2005")
         
         0
         
-        [Recomendação de fans ARGB silenciosas para gabinete](https://www.clubedohardware.com.br/forums/topic/1704944-recomenda%C3%A7%C3%A3o-de-fans-argb-silenciosas-para-gabinete/?do=getNewComment "Recomendação de fans ARGB silenciosas para gabinete")
+        [NVMe corrompendo Windows e dando tela azul.](https://www.clubedohardware.com.br/forums/topic/1704958-nvme-corrompendo-windows-e-dando-tela-azul/?do=getNewComment "NVMe corrompendo Windows e dando tela azul.")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Lactobacilos](https://www.clubedohardware.com.br/profile/657181-lactobacilos/ "Ir ao perfil de Lactobacilos")  
-        1 hora atrás
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [Torradeira2005](https://www.clubedohardware.com.br/profile/1028797-torradeira2005/ "Ir ao perfil de Torradeira2005")  
+        4 horas atrás
         
-    * [![jonnas estolano](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/b4a720a8-4ea6-42c9-aa8e-8101144ba9a1.thumb.jpeg.72cac3836704967a05af9ea888837255.jpeg)](https://www.clubedohardware.com.br/profile/1257606-jonnas-estolano/ "Ir ao perfil de jonnas estolano")
+    * [![Deann](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/images.thumb.jpeg.012ea18fd3e1eee1b218e97312109fb6.jpeg)](https://www.clubedohardware.com.br/profile/1227724-deann/ "Ir ao perfil de Deann")
         
-        4
+        0
         
-        [Atualização com processador mais recente que a versão da BIOS (provavelmente)](https://www.clubedohardware.com.br/forums/topic/1704943-atualiza%C3%A7%C3%A3o-com-processador-mais-recente-que-a-vers%C3%A3o-da-bios-provavelmente/?do=getNewComment "Atualização com processador mais recente que a versão da BIOS (provavelmente)")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [jonnas estolano](https://www.clubedohardware.com.br/profile/1257606-jonnas-estolano/ "Ir ao perfil de jonnas estolano")  
-        1 hora atrás
-        
-    * [![Banunin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256467.thumb.png.2cbe5524a04f4036587342014e8d6318.png)](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")
-        
-        8
-        
-        [Chipset G31 e seus drivers.](https://www.clubedohardware.com.br/forums/topic/1704942-chipset-g31-e-seus-drivers/?do=getNewComment "Chipset G31 e seus drivers.")
+        [placa-mãe ASRock a520m-hvs - BIOS](https://www.clubedohardware.com.br/forums/topic/1704957-placa-m%C3%A3e-asrock-a520m-hvs-bios/?do=getNewComment "placa-mãe ASRock a520m-hvs - BIOS")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Banunin](https://www.clubedohardware.com.br/profile/1256467-banunin/ "Ir ao perfil de Banunin")  
-        2 horas atrás
+        Por [Deann](https://www.clubedohardware.com.br/profile/1227724-deann/ "Ir ao perfil de Deann")  
+        4 horas atrás
         
-    * [![Guilherme Ribeiro74](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/imported-photo-1087895.thumb.jpeg.006e5d08734524741c27a913c8d80b0b.jpeg)](https://www.clubedohardware.com.br/profile/1087895-guilherme-ribeiro74/ "Ir ao perfil de Guilherme Ribeiro74")
+    * [![Juliano alves](https://www.clubedohardware.com.br/uploads/members/monthly_2023_09/Screenshot_20230914_160839_TikTok3.thumb.jpg.ef3469cdfaef53f1752fbd85f29692a4.jpg)](https://www.clubedohardware.com.br/profile/1228421-juliano-alves/ "Ir ao perfil de Juliano alves")
+        
+        9
+        
+        [fonte de 400w com consumo de 330 é seguro?](https://www.clubedohardware.com.br/forums/topic/1704956-fonte-de-400w-com-consumo-de-330-%C3%A9-seguro/?do=getNewComment "fonte de 400w com consumo de 330 é seguro?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Juliano alves](https://www.clubedohardware.com.br/profile/1228421-juliano-alves/ "Ir ao perfil de Juliano alves")  
+        4 horas atrás
+        
+    * [![Williamm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257615.thumb.jpeg.3a56de0249890a1a222bfc3299b6a379.jpeg)](https://www.clubedohardware.com.br/profile/1257615-williamm/ "Ir ao perfil de Williamm")
         
         1
         
-        [Sugestão de upgrade de CPU e placa-mãe até R$2.000,00](https://www.clubedohardware.com.br/forums/topic/1704941-sugest%C3%A3o-de-upgrade-de-cpu-e-placa-m%C3%A3e-at%C3%A9-r200000/?do=getNewComment "Sugestão de upgrade de CPU e placa-mãe até R$2.000,00")
+        [i5 9400f e rx 6650xt com cpu 100% de uso](https://www.clubedohardware.com.br/forums/topic/1704955-i5-9400f-e-rx-6650xt-com-cpu-100-de-uso/?do=getNewComment "i5 9400f e rx 6650xt com cpu 100% de uso")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Guilherme Ribeiro74](https://www.clubedohardware.com.br/profile/1087895-guilherme-ribeiro74/ "Ir ao perfil de Guilherme Ribeiro74")  
-        2 horas atrás
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Williamm](https://www.clubedohardware.com.br/profile/1257615-williamm/ "Ir ao perfil de Williamm")  
+        5 horas atrás
+        
+    * [![besay](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1242378.thumb.jpeg.99dcdf3ed6ef7c64caf314f0cb170d40.jpeg)](https://www.clubedohardware.com.br/profile/1242378-besay/ "Ir ao perfil de besay")
+        
+        2
+        
+        [comprei um monitor 144hz e meu fps abaixou mesmo usando a resoluçao antiga](https://www.clubedohardware.com.br/forums/topic/1704954-comprei-um-monitor-144hz-e-meu-fps-abaixou-mesmo-usando-a-resolu%C3%A7ao-antiga/?do=getNewComment "comprei um monitor 144hz e meu fps abaixou mesmo usando a resoluçao antiga")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [besay](https://www.clubedohardware.com.br/profile/1242378-besay/ "Ir ao perfil de besay")  
+        5 horas atrás
+        
+    * [![jonnas estolano](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/b4a720a8-4ea6-42c9-aa8e-8101144ba9a1.thumb.jpeg.72cac3836704967a05af9ea888837255.jpeg)](https://www.clubedohardware.com.br/profile/1257606-jonnas-estolano/ "Ir ao perfil de jonnas estolano")
+        
+        0
+        
+        [placa-mãe com BIOS atualizada, PICHAU](https://www.clubedohardware.com.br/forums/topic/1704953-placa-m%C3%A3e-com-bios-atualizada-pichau/?do=getNewComment "placa-mãe com BIOS atualizada, PICHAU")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [jonnas estolano](https://www.clubedohardware.com.br/profile/1257606-jonnas-estolano/ "Ir ao perfil de jonnas estolano")  
+        5 horas atrás
         
     
 
