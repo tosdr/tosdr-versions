@@ -24,7 +24,7 @@ Most popular today
 * [Infectious Disease](https://healthydebate.ca/topic/infectious-disease/) (661)
 * [Marijuana](https://healthydebate.ca/topic/marijuana/) (22)
 * [Tobacco](https://healthydebate.ca/topic/tobacco/) (20)
-* [Aging](https://healthydebate.ca/topic/aging/) (206)
+* [Aging](https://healthydebate.ca/topic/aging/) (207)
 * [Dementia](https://healthydebate.ca/topic/dementia/) (44)
 * [Long-Term Care](https://healthydebate.ca/topic/long-term-care/) (82)
 * [Children and Youth](https://healthydebate.ca/topic/children-and-youth/) (272)
