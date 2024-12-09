@@ -1281,6 +1281,14 @@
     * [Venezuela](https://thefreedomarticles.com/category/geopolitics/venezuela/)
     * [WW3](https://thefreedomarticles.com/category/geopolitics/world-war-3/)
     
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
+    
     [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
@@ -1304,14 +1312,6 @@
     [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
-    
-    [![Israel atrocity propaganda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
-    
-    [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
     
     [![net zero kill switch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1377,6 +1377,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
     
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
+    
     [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
@@ -1400,14 +1408,6 @@
     [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
-    
-    [![Israel atrocity propaganda](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Israel atrocity propaganda](https://thefreedomarticles.com/wp-content/uploads/2024/10/Atrocity-Israel-Oct-7-Lies-183x96.png)](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
-    
-    [New Doc “Atrocity Inc.” Exposes Israel’s Oct. 7th Lies – Video #150](https://thefreedomarticles.com/new-doc-atrocity-inc-exposes-israel-oct-7th-lies/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 10, 2024
     
     [![nuclear postures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1465,6 +1465,14 @@
     
     [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) January 13, 2020
     
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
+    
     [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
@@ -1489,13 +1497,13 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 26, 2024
     
-    [![same side](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![same side](https://thefreedomarticles.com/wp-content/uploads/2024/04/All-on-Same-Side-183x96.jpg)](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
     
-    [At the Top, They’re ALL on the SAME SIDE – Part 1 – Video #103](https://thefreedomarticles.com/at-the-top-theyre-all-on-the-same-side-part-1/)
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 25, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
     
     [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1520,14 +1528,6 @@
     [There is No Alternative (No More War) – Video #61](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
-    
-    [![Greater Israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Greater Israel](https://thefreedomarticles.com/wp-content/uploads/2023/11/greater-israel-183x96.jpg)](https://thefreedomarticles.com/greater-israel-hamas-op-picks-up-where-9-11-war-on-terror-left-off/)
-    
-    [Greater Israel: Hamas Op Picks up Where 9/11 and the War on Terror Left Off – Video #44](https://thefreedomarticles.com/greater-israel-hamas-op-picks-up-where-9-11-war-on-terror-left-off/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 14, 2023
     
     [![assange blumenthal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1561,6 +1561,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 10, 2017
     
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
+    
     [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
@@ -1584,14 +1592,6 @@
     [Hezbollah Attacks Deep Inside Israel – Video #134](https://thefreedomarticles.com/hezbollah-attacks-deep-inside-israel/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
-    
-    [![chisinau forum 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![chisinau forum 2024](https://thefreedomarticles.com/wp-content/uploads/2024/07/chisinau-forum-183x96.png)](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
-    
-    [Makia Freeman’s Presentation, Chisinau Forum 2024 – Video #125](https://thefreedomarticles.com/makia-freemans-presentation-chisinau-forum-2024-video-125/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 23, 2024
     
 * [Health](https://thefreedomarticles.com/category/natural-health/)
     
@@ -2233,4 +2233,4 @@ Last updated on July 10, 2019
 
 ×
 
-Sunday, December 8, 2024
+Monday, December 9, 2024
