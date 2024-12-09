@@ -171,6 +171,7 @@ Zoog Services IKE
 * [VPN for Linux](https://zoogvpn.com/products/vpn-for-linux/ "Download VPN for Linux")
 * [VPN Extension for Chrome](https://zoogvpn.com/chrome-vpn-extension/ "VPN Extension for Chrome")
 * [VPN for Business](https://zoogvpn.com/business-vpn/ "Business VPN Solution")
+* [White Label VPN](https://zoogvpn.com/white-label-vpn/ "Business VPN Solution")
 
 ##### About ZoogVPN
 
