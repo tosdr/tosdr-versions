@@ -1,3 +1,7 @@
+[NEW YEAR SALE 30% off Expert and Ultimate Annual Plans Expires January 9](https://aidaform.com/pricing.html)
+
+×
+
 [](https://aidaform.com/)[![AidaForm Awards](/images/g2-users-love-us.svg)](https://aidaform.com/blog/awards.html)
 
 * [Forms](https://aidaform.com/forms/)
