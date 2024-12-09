@@ -147,6 +147,22 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Alton Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/alton-telegraph-bias-and-credibility/)
+    
+    December 9, 2024
+    
+* [Civil Eats – Bias and Credibility](https://mediabiasfactcheck.com/civil-eats-bias-and-credibility/)
+    
+    December 9, 2024
+    
+* [Frontiers in Industrial Microbiology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-industrial-microbiology-bias/)
+    
+    December 9, 2024
+    
+* [The Coast (Halifax) – Bias and Credibility](https://mediabiasfactcheck.com/the-coast-halifax-bias/)
+    
+    December 9, 2024
+    
 * [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/)
     
     December 9, 2024
@@ -163,44 +179,28 @@ No related posts.
     
     December 8, 2024
     
-* [Bunbury Mail – Bias and Credibility](https://mediabiasfactcheck.com/bunbury-mail-bias/)
-    
-    December 8, 2024
-    
-* [Wellington Post – Bias and Credibility](https://mediabiasfactcheck.com/wellington-post-bias-and-credibility/)
-    
-    December 8, 2024
-    
-* [PCMag – Bias and Credibility](https://mediabiasfactcheck.com/pcmag-bias-and-credibility/)
-    
-    December 7, 2024
-    
-* [Santa Fe Reporter – Bias and Credibility](https://mediabiasfactcheck.com/santa-fe-reporter-bias-and-credibility/)
-    
-    December 7, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 9, 2024
+    
+* [Alton Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/alton-telegraph-bias-and-credibility/ "View Alton Telegraph – Bias and Credibility") - December 9, 2024
+    
+* [Houston Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/houston-chronicle/ "View Houston Chronicle – Bias and Credibility") - December 9, 2024
+    
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - December 9, 2024
+    
+* [Civil Eats – Bias and Credibility](https://mediabiasfactcheck.com/civil-eats-bias-and-credibility/ "View Civil Eats – Bias and Credibility") - December 9, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 9, 2024
+    
+* [Frontiers in Industrial Microbiology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-industrial-microbiology-bias/ "View Frontiers in Industrial Microbiology – Bias and Credibility") - December 9, 2024
+    
+* [The Coast (Halifax) – Bias and Credibility](https://mediabiasfactcheck.com/the-coast-halifax-bias/ "View The Coast (Halifax) – Bias and Credibility") - December 9, 2024
+    
 * [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 9, 2024
     
 * [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/ "View Clearfield Progress – Bias and Credibility") - December 9, 2024
-    
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 8, 2024
-    
-* [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/ "View Warsaw Voice – Bias and Credibility") - December 8, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 8, 2024
-    
-* [Univision – Bias and Credibility](https://mediabiasfactcheck.com/univision-bias-and-credibility/ "View Univision – Bias and Credibility") - December 8, 2024
-    
-* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - December 8, 2024
-    
-* [Uncut-News – Bias and Credibility](https://mediabiasfactcheck.com/uncut-news-bias-and-credibility/ "View Uncut-News – Bias and Credibility") - December 8, 2024
-    
-* [Braidwood Times – Bias and Credibility](https://mediabiasfactcheck.com/braidwood-times-bias/ "View Braidwood Times – Bias and Credibility") - December 8, 2024
-    
-* [Bunbury Mail – Bias and Credibility](https://mediabiasfactcheck.com/bunbury-mail-bias/ "View Bunbury Mail – Bias and Credibility") - December 8, 2024
     
 
 #### Today’s Top Page Views
@@ -210,11 +210,11 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/)
+* [Search](https://mediabiasfactcheck.com/search/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [MBFC's Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [Al Jazeera - Bias and Credibility](https://mediabiasfactcheck.com/al-jazeera/)
-* [Membership Levels](https://mediabiasfactcheck.com/membership-account/membership-levels/)
 
 #### Subscribe via Email
 
