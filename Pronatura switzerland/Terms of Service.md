@@ -265,10 +265,6 @@ Stand 02.12.2024
 
 Auf X teilen Auf Facebook teilen Link kopieren
 
-Hide from Google results
-
-Off
-
 [![Pronatura Logo](/themes/custom/naturally_amazing/logo.svg)](https://www.pronatura.ch/de "Startseite")
 
 Pro Natura
