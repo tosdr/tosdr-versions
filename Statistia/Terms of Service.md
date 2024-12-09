@@ -219,9 +219,9 @@
     
     [![Digitalization of the travel industry Statista Dossier](https://cdn.statcdn.com/Study/85000/87036-retina.png)View Report](https://www.statista.com/study/87036/digitalization-of-the-travel-industry/ "Top Report")
     
-* [Reports](https://www.statista.com/studies-and-reports)
+* [Reports](https://www.statista.com/studies-and-reports/)
     
-    [Report Shop](https://www.statista.com/studies-and-reports)
+    [Report Shop](https://www.statista.com/studies-and-reports/)
     
     [Search our report database](https://www.statista.com/studies-and-reports/all-reports)
     
@@ -256,7 +256,7 @@
         
         All key figures about countries and regions](https://www.statista.com/studies-and-reports/countries-and-regions)
     
-    [Find your information in our database containing over 20,000 reports](https://www.statista.com/studies-and-reports)
+    [Find your information in our database containing over 20,000 reports](https://www.statista.com/studies-and-reports/)
     
 * Insights
     
@@ -367,7 +367,7 @@
 * [Topics](https://www.statista.com/topics/)
 * [Markets](https://www.statista.com/markets/)
 
-* [Reports](https://www.statista.com/studies-and-reports)
+* [Reports](https://www.statista.com/studies-and-reports/)
 * [Market Insights](https://www.statista.com/outlook)
 * [Consumer Insights](https://www.statista.com/global-consumer-survey)
 * [Company Insights](https://www.statista.com/companies/about)
