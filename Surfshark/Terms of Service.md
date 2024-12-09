@@ -2,19 +2,13 @@
 
 [Grab Winter Deal here](https://surfshark.com/pricing)
 
-[](https://surfshark.com/ "Surfshark")
-
 Products
-
-AWARD-WINNING SERVICE
 
 [Surfshark VPN
 
 Privacy from online tracking & data collecting with a secure connection.](https://surfshark.com/vpn)
 
 [What is a VPN?](https://surfshark.com/learn/what-is-vpn)[VPN features](https://surfshark.com/features)[VPN servers](https://surfshark.com/servers)[Dedicated IP](https://surfshark.com/dedicated-ip)
-
-ADDITIONAL PRODUCTS
 
 [Surfshark Antivirus
 
@@ -62,69 +56,43 @@ Resources
 
 [VPN for Teams](https://surfshark.com/for-teams)
 
-EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
+Language ∙ English
 
-[Log in](https://my.surfshark.com/auth/login)
+English
 
-[Get Surfshark](https://surfshark.com/pricing)
+Deutsch
 
-Products
+Español
 
-AWARD-WINNING SERVICE
+Français
 
-[Surfshark VPN
+Italiano
 
-Privacy from online tracking & data collecting with a secure connection.](https://surfshark.com/vpn)
+Nederlands
 
-[What is a VPN?](https://surfshark.com/learn/what-is-vpn)[VPN features](https://surfshark.com/features)[VPN servers](https://surfshark.com/servers)[Dedicated IP](https://surfshark.com/dedicated-ip)
+Polski
 
-ADDITIONAL PRODUCTS
+Português
 
-[Surfshark Antivirus
+Suomi
 
-Lightweight yet powerful security to protect your devices from harm.](https://surfshark.com/antivirus)
+Türkçe
 
-[Surfshark Search
+Русский
 
-Ad-free and completely private web searches to avoid tracking.](https://surfshark.com/search)
+Українська
 
-[Surfshark Alert
+한국어
 
-Detection of data breaches that involve your personal information.](https://surfshark.com/alert)
+简体中文
 
-[Alternative ID
+香港繁體
 
-A tool that creates a brand-new online identity, email, & number for you.](https://surfshark.com/alternative-id)
+台灣繁體
 
-OTHER PRODUCTS
+日本語
 
-[Incogni
-
-Personal information removal from data brokers and big data companies.](https://incogni.com/?utm_source=surfshark.com&utm_medium=referral&utm_campaign=header)
-
-[Pricing](https://surfshark.com/pricing)
-
-[Download](https://surfshark.com/download)
-
-Resources
-
-[About us](https://surfshark.com/about-us)
-
-[Corporate Social Responsibility](https://surfshark.com/corporate-social-responsibility)[Trust center](https://surfshark.com/trust-center)[Media center](https://surfshark.com/press)[Career](https://surfshark.com/career)
-
-[Blog](https://surfshark.com/blog)
-
-[Cybersecurity](https://surfshark.com/blog/cybersecurity)[All things VPN](https://surfshark.com/blog/all-things-vpn)[Internet censorship](https://surfshark.com/blog/internet-censorship)[Entertainment](https://surfshark.com/blog/entertainment)[News](https://surfshark.com/blog/news)
-
-[Research](https://surfshark.com/research)
-
-[Digital Quality of Life Index](https://surfshark.com/dql2023)[Global Data Breach Statistics](https://surfshark.com/research/data-breach-monitoring)[Internet Shutdown Tracker](https://surfshark.com/research/internet-censorship)[Smart Home Privacy Checker](https://surfshark.com/research/smart-homes)[Data Vulnerability Thermometer](https://surfshark.com/research/data-breach-impact)
-
-[Help Center](https://support.surfshark.com/hc/en-us)
-
-[VPN guides](https://support.surfshark.com/hc/en-us/categories/4412444966930-VPN-Guides)[Surfshark One](https://support.surfshark.com/hc/en-us/categories/4414393390098-Surfshark-One)[My account](https://support.surfshark.com/hc/en-us/categories/4414393406866-My-Account)
-
-[VPN for Teams](https://surfshark.com/for-teams)
+[Log in](https://my.surfshark.com/auth/login)[Get Surfshark](https://surfshark.com/pricing)
 
 Table Of Contents
 -----------------
@@ -439,45 +407,27 @@ Support
 * [Help Center](https://support.surfshark.com/hc/en-us)
 * [Setup guides](https://support.surfshark.com/hc/en-us/sections/4414400041362-Applications)
 
-[Windows](https://surfshark.com/download/windows)
-
-[macOS](https://surfshark.com/download/macos)
-
-[Linux](https://surfshark.com/download/linux)
-
 [Android](https://surfshark.com/download/android)
 
 [iOS](https://surfshark.com/download/ios)
 
 [Chrome](https://surfshark.com/download/chrome)
 
+[Windows](https://surfshark.com/download/windows)
+
+[macOS](https://surfshark.com/download/macos)
+
 [Firefox](https://surfshark.com/download/firefox)
-
-[Edge](https://surfshark.com/download/edge)
-
-[Apple TV](https://surfshark.com/download/apple-tv-vpn)
 
 [Fire TV](https://surfshark.com/download/amazon-fire-tv)
 
-[Facebook](https://www.facebook.com/SurfsharkPrivacy/)[X (Twitter)](https://x.com/surfshark)[Threads](https://www.threads.net/@surfshark/)[Instagram](https://www.instagram.com/surfshark/)[Youtube](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[Reddit](https://www.reddit.com/r/surfshark/)[TikTok](https://www.tiktok.com/@surfshark)[Naver](https://blog.naver.com/surfshark_korea)
+[Apple TV](https://surfshark.com/download/apple-tv-vpn)
 
-Mastercard
+[Edge](https://surfshark.com/download/edge)
 
-Visa
+[Linux](https://surfshark.com/download/linux)
 
-Amex
-
-Discover
-
-PayPal
-
-GPay
-
-AmazonPay
-
-Bitcoin
-
-Ethereum
+[](https://www.facebook.com/SurfsharkPrivacy/)[](https://x.com/surfshark)[](https://www.threads.net/@surfshark/)[](https://www.instagram.com/surfshark/)[](https://www.youtube.com/channel/UCEFFKGOqb1Mtvj3g3gjc6tQ)[](https://www.reddit.com/r/surfshark/)[](https://www.tiktok.com/@surfshark)[](https://blog.naver.com/surfshark_korea)
 
 EnglishDeutschEspañolFrançaisItalianoNederlandsPolskiPortuguêsSuomiTürkçeРусскийУкраїнська한국어简体中文香港繁體台灣繁體日本語
 
