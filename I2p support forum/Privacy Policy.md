@@ -1,4 +1,4 @@
-[![I2P support forum](./styles/elegance/theme/images/logo.png)](http://i2pforum.net/index.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a "Board index")
+[![I2P support forum](./styles/elegance/theme/images/logo.png)](http://i2pforum.net/index.php?sid=28c3e5464ba57acc33f77d00dc4efc18 "Board index")
 
 I2P support forum
 
@@ -6,30 +6,30 @@ Help, support, and discussion about I2P
 
 [Skip to content](#start_here)
 
- Search [Advanced search](http://i2pforum.net/search.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a "Advanced search") 
+ Search [Advanced search](http://i2pforum.net/search.php?sid=28c3e5464ba57acc33f77d00dc4efc18 "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](http://i2pforum.net/search.php?search_id=unanswered&sid=0cfec6dc61fed7d7edf0fbc060baa24a)
-    * [Active topics](http://i2pforum.net/search.php?search_id=active_topics&sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+    * [Unanswered topics](http://i2pforum.net/search.php?search_id=unanswered&sid=28c3e5464ba57acc33f77d00dc4efc18)
+    * [Active topics](http://i2pforum.net/search.php?search_id=active_topics&sid=28c3e5464ba57acc33f77d00dc4efc18)
     
-    * [Search](http://i2pforum.net/search.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+    * [Search](http://i2pforum.net/search.php?sid=28c3e5464ba57acc33f77d00dc4efc18)
     
-* [Forums](http://i2pforum.net/index.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+* [Forums](http://i2pforum.net/index.php?sid=28c3e5464ba57acc33f77d00dc4efc18)
 
-* [FAQ](http://i2pforum.net/app.php/help/faq?sid=0cfec6dc61fed7d7edf0fbc060baa24a "Frequently Asked Questions")
-* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=0cfec6dc61fed7d7edf0fbc060baa24a "Login")
-* [Register](http://i2pforum.net/ucp.php?mode=register&sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+* [FAQ](http://i2pforum.net/app.php/help/faq?sid=28c3e5464ba57acc33f77d00dc4efc18 "Frequently Asked Questions")
+* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=28c3e5464ba57acc33f77d00dc4efc18 "Login")
+* [Register](http://i2pforum.net/ucp.php?mode=register&sid=28c3e5464ba57acc33f77d00dc4efc18)
 
-* [Search](http://i2pforum.net/search.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
-* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=0cfec6dc61fed7d7edf0fbc060baa24a "Login")
-* [Register](http://i2pforum.net/ucp.php?mode=register&sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+* [Search](http://i2pforum.net/search.php?sid=28c3e5464ba57acc33f77d00dc4efc18)
+* [Login](http://i2pforum.net/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=28c3e5464ba57acc33f77d00dc4efc18 "Login")
+* [Register](http://i2pforum.net/ucp.php?mode=register&sid=28c3e5464ba57acc33f77d00dc4efc18)
 
-* [Board index](http://i2pforum.net/index.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
-* [Search](http://i2pforum.net/search.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a "View the advanced search options")
-* [](# "It is currently 09 Dec 2024 02:15")
+* [Board index](http://i2pforum.net/index.php?sid=28c3e5464ba57acc33f77d00dc4efc18)
+* [Search](http://i2pforum.net/search.php?sid=28c3e5464ba57acc33f77d00dc4efc18 "View the advanced search options")
+* [](# "It is currently 09 Dec 2024 08:12")
     
-    * It is currently 09 Dec 2024 02:15
+    * It is currently 09 Dec 2024 08:12
     * All times are UTC
     
 
@@ -46,20 +46,20 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “I2P support forum”, so please guard it carefully and under no circumstance will anyone affiliated with “I2P support forum”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.  
 
-* [Board index](http://i2pforum.net/index.php?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+* [Board index](http://i2pforum.net/index.php?sid=28c3e5464ba57acc33f77d00dc4efc18)
 * All times are UTC
-* [Delete cookies](http://i2pforum.net/ucp.php?mode=delete_cookies&sid=0cfec6dc61fed7d7edf0fbc060baa24a)
-* [About us](http://i2pforum.net/app.php/aboutus?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
-*  [Policies](http://i2pforum.net/app.php/privacypolicy/policy?sid=0cfec6dc61fed7d7edf0fbc060baa24a "Display the Privacy &Cookie policies for this board")
+* [Delete cookies](http://i2pforum.net/ucp.php?mode=delete_cookies&sid=28c3e5464ba57acc33f77d00dc4efc18)
+* [About us](http://i2pforum.net/app.php/aboutus?sid=28c3e5464ba57acc33f77d00dc4efc18)
+*  [Policies](http://i2pforum.net/app.php/privacypolicy/policy?sid=28c3e5464ba57acc33f77d00dc4efc18 "Display the Privacy &Cookie policies for this board")
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
 Style by [Arty](https://www.artodia.com/) - phpBB 3.3 by MrGaby
 
-[Privacy](http://i2pforum.net/ucp.php?mode=privacy&sid=0cfec6dc61fed7d7edf0fbc060baa24a "Privacy") | [Terms](http://i2pforum.net/ucp.php?mode=terms&sid=0cfec6dc61fed7d7edf0fbc060baa24a "Terms")
+[Privacy](http://i2pforum.net/ucp.php?mode=privacy&sid=28c3e5464ba57acc33f77d00dc4efc18 "Privacy") | [Terms](http://i2pforum.net/ucp.php?mode=terms&sid=28c3e5464ba57acc33f77d00dc4efc18 "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.text_reparser.poll_option?sid=0cfec6dc61fed7d7edf0fbc060baa24a)
+![](/app.php/cron/cron.task.text_reparser.poll_option?sid=28c3e5464ba57acc33f77d00dc4efc18)
