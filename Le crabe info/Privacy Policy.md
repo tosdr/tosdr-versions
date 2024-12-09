@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 621 utilisateurs actifs
+##### 993 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Windows 11 24H2 : Microsoft confirme des bugs importants avec l'horloge et l'audio USB](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-des-bugs-importants-avec-lhorloge-et-laudio-usb.html)
 * [Windows 11 : le TPM 2.0, une exigence "non négociable" pour Microsoft](https://lecrabeinfo.net/microsoft-le-tpm-2-0-une-exigence-non-negociable-pour-windows-11.html)
 * [Vivaldi, un autre navigateur qui révolutionne la navigation internet !](https://lecrabeinfo.net/vivaldi-un-autre-navigateur-qui-revolutionne-la-navigation-internet.html)
-* [Microsoft autorise Windows 11 sur les PC non compatibles, mais ce n'est pas sans risques](https://lecrabeinfo.net/microsoft-autorise-linstallation-de-windows-11-sur-les-pc-non-compatibles-mais-ce-nest-pas-sans-risques.html)
 
 ### Tendance
 
@@ -157,7 +157,7 @@ Chargement en cours
 * 27 064 commentaires
 * [2 678 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
 * [866 abonnés X](https://x.com/lecrabeinfo)
-* [67 516 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
+* [67 517 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
 * 2013-2024
