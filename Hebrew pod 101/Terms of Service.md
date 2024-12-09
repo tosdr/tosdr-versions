@@ -1,8 +1,8 @@
 [Hallo, Pooh, you're just in time for a little smackerel of something](https://www.hebrewpod101.com/honeypot-do-not-follow)
 
-[![Get 55% off + 2 free months! Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/December/Countdown/HP/Deal1/homepage_web-banner_hebrew.png)](https://www.hebrewpod101.com/holiday/?src=banner_hp)
+[![Get up to 50% off. Forever discount](https://cdn.innovativelanguage.com/sns/em/2024/December/Countdown/HP/Deal2/homepage_web-banner_hebrew.png)](https://www.hebrewpod101.com/holiday/?src=banner_hp)
 
-[![Get 55% off + 2 free months! Hurry! Ends soon!](https://cdn.innovativelanguage.com/sns/em/2024/December/Countdown/HP/Deal1/homepage_mob-banner.gif)](https://www.hebrewpod101.com/holiday/?src=mbanner_hp)
+[![Get up to 50% off. Forever discount](https://cdn.innovativelanguage.com/sns/em/2024/December/Countdown/HP/Deal2/homepage_mob-banner.gif)](https://www.hebrewpod101.com/holiday/?src=mbanner_hp)
 
 ![Home](/static/images/hebrewpod101/splash/logo-desktop-transparent.svg)
 
