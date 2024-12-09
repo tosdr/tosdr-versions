@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/George-Reyes-326x245.jpg)](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
-
-Gage Park
-
-### [22 years for gunman who killed key witness in a friend’s murder case](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
-
-[December 5, 2024 7:15 PM](https://cwbchicago.com/2024/12)
-
-A judge has sentenced a man to 22 years in prison for killing a key witness in a murder case pending against his friend. George Reyes, 22, pleaded guilty to murder in exchange for the sentence from Judge James Obbish on Wednesday, according to court records.[](https://cwbchicago.com/2024/12/22-years-for-gunman-who-killed-key-witness-in-a-friends-murder-case.html "22 years for gunman who killed key witness in a friend’s murder case")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Stephen-Habel-326x245.jpg)](https://cwbchicago.com/2024/12/man-charged-with-setting-large-volumes-of-propane-ablaze-outside-lincoln-park-restaurant.html "Man charged with setting ‘large volumes’ of propane ablaze outside Lincoln Park restaurant")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/John-Conway-scene-326x245.jpg)](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
 
 Lincoln Park
 
-### [Man charged with setting ‘large volumes’ of propane ablaze outside Lincoln Park restaurant](https://cwbchicago.com/2024/12/man-charged-with-setting-large-volumes-of-propane-ablaze-outside-lincoln-park-restaurant.html "Man charged with setting ‘large volumes’ of propane ablaze outside Lincoln Park restaurant")
+### [In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
 
-[December 5, 2024 6:21 PM](https://cwbchicago.com/2024/12)
+[December 6, 2024 7:20 PM](https://cwbchicago.com/2024/12)
 
-Authorities have charged a Schiller Park man with two counts of arson for allegedly setting propane tanks on fire, causing damage to a restaurant and event venue adjacent to Lincoln Park Zoo. Officials said a Chicago Fire Department firefighter suffered a shoulder injury while fighting the blaze.[](https://cwbchicago.com/2024/12/man-charged-with-setting-large-volumes-of-propane-ablaze-outside-lincoln-park-restaurant.html "Man charged with setting ‘large volumes’ of propane ablaze outside Lincoln Park restaurant")
+The concealed carry holder who killed an erratic stranger on a Lincoln Park street last week had a trove of firearms, including a “sniper-like rifle,” inside his nearby condo, and a “multi-paged plan to harm an unrelated individual at a specific event,” prosecutors said Friday.[](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Dequan-ONeil-326x245.jpg)](https://cwbchicago.com/2024/12/police-helicopter-tracks-gamestop-robbers-from-rogers-park-to-the-far-south-side.html "Police helicopter tracks GameStop robbers from Rogers Park to the Far South Side")
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/James-bernstein-and-Xyaire-Askew-326x245.jpg)](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
 
-Rogers Park
+Avalon Park
 
-### [Police helicopter tracks GameStop robbers from Rogers Park to the Far South Side](https://cwbchicago.com/2024/12/police-helicopter-tracks-gamestop-robbers-from-rogers-park-to-the-far-south-side.html "Police helicopter tracks GameStop robbers from Rogers Park to the Far South Side")
+### [Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
 
-[December 5, 2024 10:41 AM](https://cwbchicago.com/2024/12)
+[December 6, 2024 12:05 PM](https://cwbchicago.com/2024/12)
 
-A secret GPS tracker allowed a Chicago police helicopter to locate and follow a carload of armed robbers for more than 25 miles across the city, resulting in one arrest, according to prosecutors.[](https://cwbchicago.com/2024/12/police-helicopter-tracks-gamestop-robbers-from-rogers-park-to-the-far-south-side.html "Police helicopter tracks GameStop robbers from Rogers Park to the Far South Side")
+The truck driver who struck and killed a 4-year-old boy on a city street earlier this year was driving with a THC level more than three times the legal limit, prosecutors said this week. James Bernstein, 53, also had cocaine metabolite in his system at the time of the crash, according to the allegations.[](https://cwbchicago.com/2024/12/truck-driver-who-struck-and-killed-4-year-old-had-a-thc-level-3x-the-legal-limit-officials-say.html "Truck driver who struck and killed 4-year-old had a THC level 3x the legal limit, officials say")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/01/George-Miller-326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
+
+Citywide
+
+### [Man gets 4 years for robbing victim during Facebook Marketplace meetup](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
+
+[December 6, 2024 5:34 AM](https://cwbchicago.com/2024/12)
+
+Police have issued several warnings recently about armed men who are using social media marketplace ads to lure victims into robbery traps. Yesterday, a man pleaded guilty to committing a marketplace-related robbery. He received a four-year sentence but will be out of prison in less than a year.[](https://cwbchicago.com/2024/12/man-gets-4-years-for-robbing-victim-during-facebook-marketplace-meetup.html "Man gets 4 years for robbing victim during Facebook Marketplace meetup")
 
 Search
 
