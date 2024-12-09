@@ -42,14 +42,17 @@
     
     ### [Zcon Voices](https://zfnd.org/zcon-voices/)
     
-    ### [A/V CLUB](https://zfnd.org/av-club-meetings/)
-    
     ### [ARBORIST CALLS](https://zfnd.org/arborist-calls/)
+    
+    ### [ZCASH DEV SUMMITS](https://zfnd.org/zcash-dev-summits)
+    
+    ### [A/V CLUB](https://zfnd.org/av-club-meetings/)
     
     * [Zcon](https://zfnd.org/zcon/)
     * [Zcon Voices](https://zfnd.org/zcon-voices/)
-    * [A/V Club](https://zfnd.org/av-club-meetings/)
     * [Arborist Calls](https://zfnd.org/arborist-calls/)
+    * [Zcash Dev Summit](https://zfnd.org/zcash-dev-summit/)
+    * [A/V Club](https://zfnd.org/av-club-meetings/)
 * [Blog](https://zfnd.org/blog/)
 * [Get Involved](https://zfnd.org/get-involved/)
 
@@ -95,14 +98,17 @@
     
     ### [Zcon Voices](https://zfnd.org/zcon-voices/)
     
-    ### [A/V CLUB](https://zfnd.org/av-club-meetings/)
-    
     ### [ARBORIST CALLS](https://zfnd.org/arborist-calls/)
+    
+    ### [ZCASH DEV SUMMITS](https://zfnd.org/zcash-dev-summits)
+    
+    ### [A/V CLUB](https://zfnd.org/av-club-meetings/)
     
     * [Zcon](https://zfnd.org/zcon/)
     * [Zcon Voices](https://zfnd.org/zcon-voices/)
-    * [A/V Club](https://zfnd.org/av-club-meetings/)
     * [Arborist Calls](https://zfnd.org/arborist-calls/)
+    * [Zcash Dev Summit](https://zfnd.org/zcash-dev-summit/)
+    * [A/V Club](https://zfnd.org/av-club-meetings/)
 * [Blog](https://zfnd.org/blog/)
 * [Get Involved](https://zfnd.org/get-involved/)
 
@@ -383,13 +389,14 @@ Manage consent
     * [Zcon1](https://zfnd.org/zcon1/)
     * [Zcon0](https://zfnd.org/zcon0/)
     * [Zcon Voices](https://zfnd.org/zcon-voices/)
-    * [A/V Club](https://zfnd.org/av-club-meetings/)
     * [Community Calls](https://zfnd.org/community-calls/)
+    * [Zcash Dev Summit](https://zfnd.org/zcash-dev-summit/)
     * [Arborist Calls](https://zfnd.org/arborist-calls/)
+    * [A/V Club](https://zfnd.org/av-club-meetings/)
 * [Governance](#)
     * [Zcash Protocol Agreements](https://zfnd.org/protocol-agreements-and-major-decisions/)
-* [Blog](https://zfnd.org/blog/)
 * [Zcash Grants](https://zfnd.org/grants/)
+* [Blog](https://zfnd.org/blog/)
 * [Get Involved](https://zfnd.org/get-involved/)
 
 * [home](https://zfnd.org/)
@@ -410,13 +417,14 @@ Manage consent
     * [Zcon1](https://zfnd.org/zcon1/)
     * [Zcon0](https://zfnd.org/zcon0/)
     * [Zcon Voices](https://zfnd.org/zcon-voices/)
-    * [A/V Club](https://zfnd.org/av-club-meetings/)
     * [Community Calls](https://zfnd.org/community-calls/)
+    * [Zcash Dev Summit](https://zfnd.org/zcash-dev-summit/)
     * [Arborist Calls](https://zfnd.org/arborist-calls/)
+    * [A/V Club](https://zfnd.org/av-club-meetings/)
 * [Governance](#)
     * [Zcash Protocol Agreements](https://zfnd.org/protocol-agreements-and-major-decisions/)
-* [Blog](https://zfnd.org/blog/)
 * [Zcash Grants](https://zfnd.org/grants/)
+* [Blog](https://zfnd.org/blog/)
 * [Get Involved](https://zfnd.org/get-involved/)
 
 [Twitter](https://twitter.com/zcashfoundation) [](https://forum.zcashcommunity.com/)[Discord](https://discord.gg/na6QZNd) [Discourse](https://discord.gg/NwT5exq8Rm)
