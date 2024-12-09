@@ -3,6 +3,9 @@
 [SAVE AN EXTRA 10% ON SELECT OFFICE CHAIRS](https://www.xchair.com/pages/vip-holiday-sale "VIP Holiday Sale")
 -------------------------------------------------------------------------------------------------------------
 
+[ORDER BY DEC. 12TH FOR BEST CHANCE OF CHRISTMAS DELIVERY](https://www.xchair.com/pages/shipping "Shipping")
+------------------------------------------------------------------------------------------------------------
+
 [](https://www.xchair.com/)
 
 X-Chair
