@@ -37,7 +37,7 @@
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
     * [Hydrogen](https://www.lbl.gov/research/hydrogen/)
-    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-decarbonization/)
+    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-innovation/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
     
     ### Earth Systems
@@ -139,7 +139,7 @@
     * [Energy Storage](https://www.lbl.gov/research/energy-storage/)
     * [Energy Systems](https://www.lbl.gov/research/energy-systems/)
     * [Hydrogen](https://www.lbl.gov/research/hydrogen/)
-    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-decarbonization/)
+    * [Manufacturing Innovation](https://www.lbl.gov/research/manufacturing-innovation/)
     * [Sustainable Transportation](https://www.lbl.gov/research/sustainable-transportation/)
     Earth Systems* [Clean and Affordable Water](https://www.lbl.gov/research/clean-affordable-water/)
     * [Climate](https://www.lbl.gov/research/climate/)
