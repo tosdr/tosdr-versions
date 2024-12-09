@@ -22,11 +22,7 @@ Toggle navigation
 *   Search
     
 
-Privacy Policy
-==============
-
 * [Home](https://www.impresscms.org/)
-* [Privacy Policy](https://www.impresscms.org/modules/content/content.php?content_id=2&page=/about/privacy-policy)
 
 Last update : 11 June 2018
 
