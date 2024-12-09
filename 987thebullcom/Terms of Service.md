@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Hard To LoveLee Brice<br><br>4:37am |
-| Everything I NeedChayce Beckham<br><br>4:34am |
-| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>4:31am |
-| LiarJelly Roll<br><br>4:27am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:24am |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>10:39am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:36am |
+| Tennessee OrangeMegan Moroney<br><br>10:32am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>10:29am |
+| A Lot More FreeMax Mcnown<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 Sports • Midwest
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Country • Western
+Top 40 • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
