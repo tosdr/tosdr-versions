@@ -104,7 +104,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234545/FND_poster_Sonic3-Presale.jpg)
     
     Sonic the Hedgehog 3 (2024)](https://www.fandango.com/sonic-the-hedgehog-3-2024-234545/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234518/FND_poster_LOTR-Rohirrim-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234518/LOTR_WOTR.jpg)
     
     The Lord of the Rings: The War of the Rohirrim (2024)](https://www.fandango.com/the-lord-of-the-rings-the-war-of-the-rohirrim-2024-234518/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/G2_DOM_Online_Payoff_1-Sheet_06_FIN12.jpg)
