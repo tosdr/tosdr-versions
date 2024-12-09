@@ -31,6 +31,141 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Autopista General Rumiñahui está parcialmente habilitada
+========================================================
+
+Se registra alta carga vehicular entre el puente 8 y 9 de la autopista General Rumiñahui debido a una grúa dañada en la vía.
+----------------------------------------------------------------------------------------------------------------------------
+
+![El montaje del puente concluyó según lo previsto.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T075249.381.jpg)
+
+La **Prefectura de Pichincha** realizó el montaje de las vigas de acero del **nuevo paso elevado** en la Autopista General Rumiñahui durante el domingo 8 de diciembre de 2024. Este puente está ubicado a la altura del puente 8, en la entrada a **Conocoto**.
+
+### Más noticias
+
+* [Así funciona el Pico y placa este lunes 9 de diciembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-lunes-9-de-diciembre.html "Así funciona el Pico y placa este lunes 9 de diciembre")
+* [Autopista General Rumiñahui, cerrada este domingo 8 de diciembre](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-cerrada-este-domingo-8-de-diciembre.html "Autopista General Rumiñahui, cerrada este domingo 8 de diciembre")
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+
+Vía parcialmente habilitada
+---------------------------
+
+El montaje de las vigas de acero se realizó este domingo 8 de diciembre entre las 05:00 y las 23:59. Para poder realizar estos trabajos, la **Autopista General Rumiñahui** se cerró completamente.
+
+El **paso vehicular se suspendió en los seis carriles** en sentido Quito-Valles y viceversa. La Agencia Metropolitana y la Policía Nacional se encargaron de gestionar el tránsito en las vías aledañas.
+
+La **Prefectura de Pichincha** informó en la madrugada de este lunes 9 de diciembre sobre la culminación de los trabajos de **montaje del paso elevado.**
+
+Luego de ello, el paso vehicular se habilitó por la autopista. Sin embargo, la Prefectura pidió precaución, pues una grúa está averiada entre los puentes 8 y 9. Por ello, el paso está habilitado parcialmente en sentido Valle-Quito.
+
+Debido a que el paso vehicular es parcial se **registra alta carga vehicular** en este tramo.
+
+> [#Actualización](https://twitter.com/hashtag/Actualizaci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Se registra carga vehicular pesada entre los puentes 8 y 9 de la Autopista General Rumiñahui, en sentido Valle de Los Chillos – Quito. El carril externo en este tramo se encuentra parcialmente habilitado debido a una grúa averiada🚧  
+>   
+> 🚦Maneja con precaución. [https://t.co/tDM56GYJmM](https://t.co/tDM56GYJmM) [pic.twitter.com/aJEuySB8qY](https://t.co/aJEuySB8qY)
+> 
+> — Autopista Rumiñahui (@AutopistaGR) [December 9, 2024](https://twitter.com/AutopistaGR/status/1866096135615709431?ref_src=twsrc%5Etfw)
+
+El puente facilitará la movilidad del sector
+--------------------------------------------
+
+La Prefectura construye un **paso elevado** a la altura de la entrada a Conocoto y este fin de semana se realizará la instalación del puente de la av. Lola Quintana.
+
+A través de esta obra circularán alrededor de **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños, como La Armenia.
+
+Estos trabajos se ejecutarán **desde las 05:00 del domingo 8 de diciembre hasta las 24:00** del mismo domingo. Para ello, se realizará el **cierre total de los seis carriles de la autopista.**
+
+Este puente tendrá una longitud **de 276 metros**, con un ancho de 3,5 metros. El proyecto también prevé la instalación de iluminación del puente y la [señalización vertical](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador").
+
+> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Pilas!  
+>   
+> 🚧 Los trabajos en la Autopista Gral. Rumiñahui, en el puente 8, concluyeron, los vehículos circulan con normalidad.  
+>   
+> 🫡 Te recomendamos ir con precaución, hay maquinaria en el carril Izquierdo en el sentido Quito-Valle.  
+>   
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/WyX5EsJJvE](https://t.co/WyX5EsJJvE)
+> 
+> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866073381147201935?ref_src=twsrc%5Etfw)
+
+El precio de ignorar la crisis ambiental en Latinoamérica
+=========================================================
+
+La crisis ambiental en Latinoamérica merecer una salida en la que los países de la región tomen en cuenta la prevención de incendios forestales y la reforestación.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen realizada con IA con el prompt: un paisaje cambia de incendio forestal a pura vida.](https://www.elcomercio.com/wp-content/uploads/2024/12/Untitled-design-21.jpg)
+
+**Latinoamérica** arde, y no solo por sus altas temperaturas. Este año, los **incendios forestales** alcanzaron niveles históricos, y dejaron al descubierto una **crisis ambiental** que ya no admite postergaciones. Según el Servicio de Monitoreo Atmosférico de Copernicus, las emisiones de carbono en la región superaron récords previos, y las **consecuencias** para los ecosistemas y la salud humana son devastadoras[.](https://es.wikipedia.org/wiki/Am%C3%A9rica_Latina "https://es.wikipedia.org/wiki/Am%C3%A9rica_Latina")
+
+El **panorama** es alarmante: sequías extremas, degradación de la calidad del aire y pérdida de biodiversidad. En Bolivia, las emisiones anuales por **incendios forestales** han sido las más altas registradas en las últimas décadas, mientras que en el Pantanal brasileño, las **3,3 megatoneladas de carbono** liberadas entre mayo y junio marcan un hito desolador. Estas cifras reflejan no solo eventos climáticos extremos, sino también un abandono crónico de políticas ambientales sostenibles.
+
+> El servicio Copernicus advirtió que las partículas contaminantes liberadas por los incendios persistieron durante semanas, lo que las convirtió en un problema continental. Esta es una llamada de atención para todos: lo que sucede en un rincón de la Amazonía o el Pantanal no se queda allí; sus repercusiones se sienten desde los Andes hasta el Ártico.
+
+En Ecuador, Venezuela y Brasil, las temporadas de incendios han alcanzado niveles críticos. Han afectado tanto a **áreas rurales** como a las urbes que sufren la contaminación del aire. La falta de recursos y estrategias para prevenir estos **desastres naturales** agrava una situación que podría haberse mitigado con mayor **inversión en ciencia y conservación**. La crisis de los incendios ambientales marcó con creces una época seca en Ecuador que ha tenido que pagar con su vida silvestre el olvido, la ignorancia y la despreocupación de cierto sector de ciudadanos y de **dirigentes políticos**.
+
+Es ingenuo atribuir esta crisis exclusivamente a fenómenos climáticos. Si bien el **cambio climático** exacerba la vulnerabilidad de los ecosistemas, nuestra acción (o inacción, según el punto de vista de quien lo observa) alimenta las llamas. La **deforestación indiscriminada**, el avance de la frontera agrícola y la negligencia estatal son tan responsables como las sequías. En países como Bolivia y Brasil, las políticas que priorizan el desarrollo económico sobre la **sostenibilidad** perpetúan un ciclo destructivo.
+
+La calidad del aire ha disminuido drásticamente en la región. El servicio [Copernicus](https://www.elcomercio.com/actualidad/mundo/incendios-forestales-2024-america-mas-intensos-segun-copernicus.html "https://www.elcomercio.com/actualidad/mundo/incendios-forestales-2024-america-mas-intensos-segun-copernicus.html") advirtió que las **partículas contaminantes** liberadas por los incendios persistieron durante semanas, lo que las convirtió en un **problema continental**. Esta es una llamada de atención para todos: lo que sucede en un rincón de la Amazonía o el Pantanal no se queda allí; sus **repercusiones** se sienten desde los Andes hasta el Ártico.
+
+La magnitud de los **incendios forestales** de este año deja claro que el cambio climático ya no es un desafío futuro; es una crisis presente. Los **países latinoamericanos** necesitan actuar con urgencia, y adoptar estrategias que combinen la protección ambiental con el desarrollo sostenible. Esto implica fortalecer la vigilancia forestal, destinar más recursos a la **prevención de incendios forestales** y, sobre todo, frenar la expansión de actividades que destruyen ecosistemas clave.
+
+**Latinoamérica está en llamas**, tanto físicas como simbólicas. Nos enfrentamos a la **devastación ambiental** provocada por el cambio climático, pero también al fuego de nuestra indiferencia. Cada hectárea perdida, cada vida afectada por la contaminación, nos acerca más al **punto de no retorno**. Es hora de actuar con la urgencia que la naturaleza demanda y con la responsabilidad que le debemos a las generaciones futuras.
+
+La **crisis ambiental** no espera.
+
+Así funciona el Pico y placa este lunes 9 de diciembre
+======================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa fue establecido como una medida para regular el tránsito en horas pico.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-05T154958.065.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Sacapintas mataron a hombre asiático en Guayaquil por robarle una alta suma de dinero](https://www.elcomercio.com/actualidad/seguridad/sacapintas-mataron-hombre-asiatico-guayaquil-por-robarle-alta-suma-dinero.html "Sacapintas mataron a hombre asiático en Guayaquil por robarle una alta suma de dinero")
+* [Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-logra-sentencia-para-profesora-que-pinchaba-a-nino-en-escuela-de-quito.html "Fiscalía logra sentencia para profesora que pinchaba a niño en escuela de Quito")
+* [El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor](https://www.elcomercio.com/actualidad/quito/canelazo-fiestas-quito-va-pulperias-restaurantes-autor.html "El canelazo de fiestas de Quito va de las pulperías a los restaurantes de autor")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 Cartas a Quito / 9 de diciembre de 2024
 =======================================
 
@@ -804,228 +939,3 @@ Aunque los rayados tuvieron su mejor ocasión a los 25 minutos con un tiro libre
 La segunda mitad comenzó con Independiente del Valle intentando controlar el juego, pero fue Liga quien amplió su ventaja.
 
 A los 57 minutos, Arce anotó su segundo gol al desviar un disparo de Bryan Ramírez, y a los 72, **Gabriel** **Villamil** selló el 3-0 con un potente disparo desde fuera del área.
-
-Ecuador, como destino emergente de nómadas digitales, afronta desafíos ¿Cuáles son?
-===================================================================================
-
-Ecuador se ha convertido en un destino atractivo para los nómadas digitales gracias a su biodiversidad.
--------------------------------------------------------------------------------------------------------
-
-![La crisis energética y de inseguridad impacta en la llegada de más nómadas digitales. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-68.jpg)
-
-Ecuador implementó la visa de residencia temporal rentista para trabajo remoto en 2022. Desde entonces hasta este 2024 se ha otorgado 259 visas a nómadas digitales. El promedio anual es de 86. Pero actualmente, la posibilidad de que Ecuador se posicioné como destino emergente de este tipo de trabajadores se ha visto impactada por los problemas que afronta el país internamente.
-
-Más noticias
-------------
-
-* [Ecuador ganó seis premios en los ‘Óscar de turismo’ 2024](https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html "https://www.elcomercio.com/actualidad/ecuador/ecuador-premios-oscar-turismo-2024.html")
-* [Metro de Quito ya suma más de 4,9 millones de viajes, en octubre](https://www.elcomercio.com/actualidad/quito/metro-de-quito-suma-mas-de-49-millones-de-viajes-octubre.html "Metro de Quito ya suma más de 4,9 millones de viajes, en octubre")
-
-![visualization](https://public.flourish.studio/story/2756105/thumbnail)
-
-En los últimos tres años, el pico más alto de visas emitidas fue el 2023 con un pico de 128, mientras que este año se registran 95. Los beneficiarios de manera general provienen mayoritariamente de Estados Unidos, Canadá, España, Rusia y Alemania. En total, la Cancillería ha tramitado este tipo de visas para extranjeros de 38 países de los cinco continente.
-
-Este flujo es un reflejo del creciente interés global por trabajar remotamente. Este tipo de trabajadores buscan un estilo de vida, en el que se equilibre lo laboral con la posibilidad de moverse y viajar. Pero toman atención en que sean lugares que ofrezcan calidad de vida, costos razonables, buena velocidad a Internet. Este último punto es clave, debido a que su trabajo se concentra en el mundo digital.
-
-Quienes cuentan con una visa nómada de Ecuador se caracterizan por ser jóvenes, de entre 18 y 55 años de edad, principalmente. Los hombres tienen una mayor presencia que las mujeres. Esto, según los registros del Ministerio de Relaciones Exteriores.
-
-Hay una presencia marcada de solteros y muy por debajo están los casados, divorciados o en unión libre (ver visualización interactiva).
-
-![visualization](https://public.flourish.studio/story/2756101/thumbnail)
-
-**Tres factores a favor de Ecuador**
-------------------------------------
-
-Ecuador se ha convertido en un destino atractivo para los nómadas digitales gracias a su **biodiversidad**. El portal especializado [Lonely Planet](https://www.lonelyplanet.com/ "https://www.lonelyplanet.com/") colocó al país como el mejor destino de turismo sostenible, responsable y amigable con medio ambiente. Este tipo de turismo es posible vivirlo en las playas del Pacífico, en la Sierra y la Amazonía, sin necesidad de hacer viajes que ocupen largos traslados.
-
-El **costo de vida** es otro factor a favor, pues el gobierno solo exige un ingreso mínimo mensual de 1 380 dólares, que equivale a tres salarios básicos. El costo de vivir en Ecuador se puede considerar a partir de la canasta básica. Ambato, Loja, Santo Domingo y Machala tienen una canasta inferior a los 800 dólares. En cambio, Quito, Cuenca y Manta no superan los 900 dolares.
-
-Un tercer elemento que distingue al Ecuador es su **riqueza cultural**. Entre los patrimonios de la humanidad, catalogados por la Unesco, están: Quito, Galápagos, Parque Nacional Sangay, Centro Histórico de Cuenca y el sistema vial andino Qhapaq Ñhan.
-
-**Comparación con otros destinos latinoamericanos**
----------------------------------------------------
-
-El Índice Global de Trabajo Remoto evalúa el potencial de 108 países para ser considerados los mejores destinos para trabajar de forma remota. Este índice mide cuatro parámetros: ciberseguridad, economía, infraestructura digital y física. El último indicador es la seguridad social, con el que se mide qué tanto un país garantiza la calidad de vida a distancia y en el trabajo.
-
-Ecuador se ubicó en el puesto 80 en este listado de 2023, por lo que aún tiene que trabajar en mejorar estas variables. Al comparar con otros países latinoamericanos se ve que se posicionó por encima de Bolivia, El Salvador, Guatemala y Honduras. Pero hay una docena de países que están en [posiciones superiores](https://nordlayer.com/global-remote-work-index/ "https://nordlayer.com/global-remote-work-index/"). Estos son: Uruguay, Chile, Costa Rica, Argentina, Perú, Brasil, México, Panamá, Colombia, República Dominicana, Paraguay y Jamaica.
-
-Por otra parte, Ecuador se encuentra en el puesto 31 de 38, en el ranking de países preferidos por los nómadas digitales. En este listado, liderado por España, Argentina y Rumanía, el país destaca por un bajo ingreso mínimo requerido al mes. Pero enfrenta desventajas en cuanto a velocidad de internet y el cobro de impuestos. A diferencia de otros países que no tienen carga impositiva a los nómadas, Ecuador aplica un 35%. Esto influye en la decisión de quienes buscan un destino fiscalmente más favorable.
-
-**Mejor conectividad en áreas urbanas** que rurales
----------------------------------------------------
-
-Las áreas urbanas de las ciudades grandes de Ecuador cuentan con una mejor conectividad digital, aunque de manera general está en una posición inferior a otros países preferidos por nómadas.
-
-En las zonas rurales hay avances, pero aún hay un camino por recorrer para conectar a nacionales y extranjeros. El porcentaje de parroquias rurales y cabeceras cantonales con servicio de internet fijo, a través de enlaces de fibra óptica es de 80,8%, al primer trimestre del 2024, según el Ministerio de Telecomunicaciones. Esto representa un total de 846 parroquias rurales y cabeceras cantonales con acceso al servicio de un total de 1 047 localidades.
-
-**Desventajas: crisis energética** y de seguridad
--------------------------------------------------
-
-Ecuador enfrenta desafíos importantes por las crisis de energía eléctrica y de inseguridad. Esto ha provocado, incluso, que el número de turistas extranjeros caiga significativamente.
-
-Los ecuatorianos han afrontado cortes de luz de hasta 14 horas y actualmente han bajado a cinco. Los trabajadores digitales recurren a soluciones como UPS para mantener su trabajo, pero esto no deja de ser un factor que detiene a los nómadas que quieren venir al país.
-
-Ecuador es dependiente de la energía hidroeléctrica que fue impactada por una sequía, que no se ha visto en los últimos 15 años. Para superar esta crisis se requiere [inversión privada](https://www.elcomercio.com/opinion/editorial/crisis-energetica-dos-problemas-a-solucionar-en-ecuador.html "https://www.elcomercio.com/opinion/editorial/crisis-energetica-dos-problemas-a-solucionar-en-ecuador.html"), pero esta solo llegará si el país ofrece un entorno regulatorio y tarifario que permita competir de manera justa.
-
-Los niveles de inseguridad y violencia también juegan en contra. Entre enero y septiembre de este 2024, el país registra 4 845 homicidios intencionales, según el Ministerio del Interior. Esto significa que la tasa de homicidios es de 28,6 por cada 100 mil habitantes, superior a la media regional. Al comparar con igual periodo del 2023 hay una caída de 1 030 muertes violentas.
-
-**La llegada extranjeros al Ecuador ha ido en descenso**
---------------------------------------------------------
-
-El impacto económico que generan los nómadas digitales pudiera ser significativo. Con su llegada, sectores como el turismo y el alojamiento pueden verse beneficiados. Pero, Ecuador afronta un descenso en el número de personas que llegan al país, ya sea por turismo u otros motivos. Las cifras del Ministerio de Gobierno muestran que este 2024 han entrado al país 1,1 millones de ciudadanos. Esta cifra es menos de la mitad de los que llegaron en 2018, en el que se registró el ingreso de 2,5 millones. Por otra parte, salen más ecuatorianos de los que llegan del extranjero.
-
-Otro indicador de referencia es la apertura turística, que muestra la importancia del gasto turístico internacional en la economía del país. Según el Banco Central, mientras en 2018 este indicador fue de 3,5%, en el segundo trimestre de este 2024 fue de 2,8%. Mientras más alto es este indicador más relevante es en términos económicos, pero este no es el caso.
-
-Sofía Selina, del Hotel Selina, un sitio que acogía a nómadas digitales en Quito, confirma que hace mucho tiempo que este tipo de trabajadores no llegan “por la situación del país”. Espera que el 2025 sea un mejor año.
-
-Los nómadas suelen alojarse en hoteles boutique, alquileres temporales y van a espacios de coworking, lo que dinamiza estos sectores. Este medio consultó al personal de dos coworking, pero afirmaron que no conocían a ningún nómada.
-
-**Testimonio: Gerardine Bracho**
---------------------------------
-
-Gerardine Bracho, asistente virtual y project manager con casi dos años en Ecuador, comparte su experiencia:
-
-  
-_“_El trabajo remoto me da libertad de tiempo y espacio. Puedo disfrutar de eventos familiares, como las fiestas de Quito de mi hijo, sin que mis clientes sepan dónde estoy. Sin embargo, los apagones recientes me han complicado; uso un UPS para mitigar el impacto, pero no siempre es suficiente. La inseguridad es otro factor. Antes llevaba mi laptop a todas partes, pero ahora prefiero no arriesgarme. A pesar de esto, sigo viajando dentro del país y disfruto de la flexibilidad que me ofrece este estilo de vida.”
-
-Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito
-============================================================================
-
-Siniestros de tránsito se registraron en el feriado por las Fiestas de Quito.
------------------------------------------------------------------------------
-
-![Un siniestro de tránsito se produjo en Pifo durante el feriado de Fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/Ciudadana-de-Seleccion-y-Designacion-de-la-Primera-Autoridad-de-la-Defensoria-Publica-14.jpg)
-
-El feriado por las **Fiestas de Quito 2024** dejó víctimas mortales por siniestros de tránsito. El Cuerpo de Bomberos dio un reporte.
-
-La entidad reportó **18 sucesos** en distintos puntos de la capital. Además, se registraron personas heridas durante los hechos.
-
-### Más noticias
-
-* [24 siniestros de tránsito se registraron en menos de cuatro horas en Quito](https://www.elcomercio.com/actualidad/quito/24-siniestros-de-transito-se-registraron-en-menos-de-cuatro-horas-quito.html "24 siniestros de tránsito se registraron en menos de cuatro horas en Quito")
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
-* [Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja](https://www.elcomercio.com/actualidad/ecuador/familiares-fallecidos-siniestro-catamayo-esperan-centro-forense-loja.html "Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja")
-
-> 🔸[#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Nuestro equipo atiende una emergencia por un siniestro de tránsito en el sector del redondel de Pifo – Papallacta.  
->   
-> 🚑 Dos personas resultaron afectadas y reciben atención prehospitalaria por parte de nuestros paramédicos.  
->   
-> 👨🏻‍🚒 Conduce con precaución. No arriesgues tu… [pic.twitter.com/eG2kYuEUJu](https://t.co/eG2kYuEUJu)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 8, 2024](https://twitter.com/BomberosQuito/status/1865798665404547517?ref_src=twsrc%5Etfw)
-
-Siniestros de tránsito en Fiestas de Quito
-------------------------------------------
-
-Según la institución, durante el feriado por el 6 de diciembre se evidenció una alta incidencia de **siniestros de tránsito**.
-
-En el sector de **Inguiñaro**, en la vía E-35, un vehículo liviano cayó a una quebrada y se incendió. Una mujer falleció.
-
-Además, en **Zambiza**, en la av. Simón Bolívar, se produjo un choque de un automotor contra un poste.
-
-En cambio, en el sector **Quito Sur**, a la altura de la parada España del Trole, se reportó el impacto de un vehículo contra un cerramiento. Una persona resultó herida.
-
-Emergencias en otros punto
---------------------------
-
-En las avenidas **10 de Agosto y Orellana**, un motociclista protagonizó el siniestro. Una personas falleció y otra fue trasladada a una casa de salud, en estado crítico.
-
-Otro hecho se dio en Miravalle, en las avenidas **Simón Bolívar** e Interoceánica. Se trató de un choque múltiple de tres vehículos. Una persona fue atendida debido al hecho. En la zona, además, un vehículo se volcó.
-
-Hacia el norte de Quito, en **El Condado** se produjo un choque frontal de vehículo contra una baranda. Dos personas fueron extraídas del vehículo y atendidas por paramédicos.
-
-Más fallecidos
---------------
-
-En el sector de Pifo, en cambio, el **Cuerpo de Bomberos de Quito** reportó un choque de un vehículo. El saldo fue un hombre de 32 años sin vida.
-
-Otra persona falleció en la **Ruta Viva**, antes del intercambiador de la Intervalles. Se registró un choque, luego de una pérdida de pista y el impacto contra un poste.
-
-Siniestros en múltiples sitios
-------------------------------
-
-En el sector de **La Magdalena** alta, en el barrio Paraíso, un vehículo pequeño cayó a una quebrada. No hubo personas atrapadas.
-
-Por otro lado, en Pifo, en el barrio **La Isla**, se dio un atropello a un menor de edad y su madre. Ellos aparentemente se encontraban cruzando la vía E-35. Ambos fueron llevados a una casa de salud.
-
-En el redondel de **Pifo**, vía a Papallacta, hubo un volcamiento de un taxi y hubo personas heridas y llevadas a una casa de salud. Otros hechos ocurrieron en Pomasqui, Ferroviaria, Amaguaña, entre otros sitios.
-
-Chelsea y Moisés Caicedo le remontaron a los Spurs
-==================================================
-
-El Chelsea continúa con su gran momento en la Premier League y suma su cuarta victoria consecutiva.
----------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo durante el partido entre el Tottenham y el Chelsea por la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-08T124615.879.jpg)
-
-El **Chelsea** consiguió una importante victoria frente al Tottenham, uno de sus clásicos rivales, en la jornada 15 de la Premier League. **Moisés Caicedo**, quien disputó los 90 minutos, fue clave en el triunfo.
-
-Los **‘Blues’ remontaron un 2-0** inicial para imponerse 3-4 este domingo 8 de diciembre en el estadio de los Spurs, consolidando el alto nivel mostrado en los últimos meses.
-
-### Más noticias:
-
-* [Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-conquista-el-premio-al-mejor-gol-del-mes-en-el-chelsea.html "Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea")
-* [Moisés Caicedo compite por el Gol del Mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-gol-mes-chelsea-votacion.html "Moisés Caicedo compite por el Gol del Mes en el Chelsea")
-* [Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-apunta-a-cerrar-el-ano-zona-champions-league.html "Chelsea de Moisés Caicedo apunta a cerrar el año en zona de Champions")
-
-Con este resultado, el **Chelsea se mantiene en la segunda posición de la Premier League** con 31 puntos, solo por detrás del líder Liverpool, que acumula 35 unidades y cuenta con un partido pendiente.
-
-Tottenham golpeó temprano al Chelsea
-------------------------------------
-
-El Tottenham se adelantó rápidamente en el marcador. A los 5 minutos, **Dominic Solanke** abrió la cuenta tras un error de **Marc Cucurella**, quien perdió el equilibrio y entregó el balón a **Brennan Johnson**.
-
-> ¡GOL DEL TOTTENHAM! Error de Cucurella y definición de Solanke para el 1-0 ante Chelsea en la [#PREMIERxESPN](https://twitter.com/hashtag/PREMIERxESPN?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/2xJB1zLm8p](https://t.co/2xJB1zLm8p)
-> 
-> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865797755198640320?ref_src=twsrc%5Etfw)
-
-El inglés condujo por la banda derecha hasta la línea de fondo y envió un centro preciso para que Solanke definiera con un remate certero.
-
-Los ‘Spurs’ ampliaron su ventaja al minuto 11. Nuevamente, Cucurella se resbaló, permitiendo que el balón quedara en posesión del rival. Tras una jugada rápida, **Dejan Kulusevski** recibió el esférico en el área, enganchó hacia el centro y disparó un potente remate esquinado para poner el 2-0.
-
-> ¡SEGUNDO DEL TOTTENHAM EN LONDRES! Ahora es Dejan Kulusevski quien aprovecha OTRO ERROR de Cucurella para el 2-0 ante Chelsea.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/DaRJThOTOd](https://t.co/DaRJThOTOd)
-> 
-> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865799341929054271?ref_src=twsrc%5Etfw)
-
-El Chelsea descontó al minuto 21 gracias a **Jadon Sancho**, quien desde el sector izquierdo sacó un potente remate cruzado desde fuera del área, dejando sin opciones al arquero Fraser Forster.
-
-Los ‘Blues’ estuvieron cerca de empatar a la media hora de juego. **Cole Palmer** intentó con un disparo que Forster rechazó; en el rebote, el portero del Tottenham volvió a lucirse al atajar el remate del portugués **Pedro Neto**.
-
-> ¡GOLAZO de Chelsea! Espectacular lo de Jadon Sancho para descontar vs. Tottenham en la [#PREMIERxESPN](https://twitter.com/hashtag/PREMIERxESPN?src=hash&ref_src=twsrc%5Etfw).  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/IXFiIKL2o0](https://t.co/IXFiIKL2o0)
-> 
-> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865800893297205723?ref_src=twsrc%5Etfw)
-
-Moisés Caicedo generó el penal del empate
------------------------------------------
-
-En la segunda mitad, el Chelsea salió con intensidad en busca del empate. Al minuto 48, Jadon Sancho tuvo una oportunidad clara frente al arco, pero otra vez Fraser Forster se interpuso con una gran atajada, frustrando los intentos de los visitantes.
-
-El Chelsea dominó por completo la segunda mitad y encontró su recompensa a los 58 minutos. **Moisés Caicedo**, quien arrancó el partido como lateral, mostró también su faceta ofensiva al aparecer dentro del área y provocar un penal para su equipo tras una dura falta de **Yves Bissouma**.
-
-> PENAL PARA CHELSEA.  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/bkjhBmbZ3P](https://t.co/bkjhBmbZ3P)
-> 
-> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865815641296408949?ref_src=twsrc%5Etfw)
-
-El encargado de ejecutar la pena máxima fue **Cole Palmer**, quien, con mucha calma, transformó el penal en gol, igualando el marcador.
-
-El Chelsea completó la remontada a los 72 minutos. **Enzo Fernández**, el capitán que ha mostrado un nivel excepcional en el último mes, fue el autor del gol que selló el 3-2.
-
-El argentino aprovechó un balón suelto dentro del área y, con un **potente zurdazo, venció al portero**, desatando la euforia de los aficionados.
-
-> ¡PEGALE DE PRIMERA, ENZO! ¡GOLAZO DEL CAMPEÓN DEL MUNDO ANTE TOTTENHAM!  
->   
-> 📺 Mirá la [#Premier](https://twitter.com/hashtag/Premier?src=hash&ref_src=twsrc%5Etfw) por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/xSuPj6LkM4](https://t.co/xSuPj6LkM4)
-> 
-> — SportsCenter (@SC\_ESPN) [December 8, 2024](https://twitter.com/SC_ESPN/status/1865819381470576707?ref_src=twsrc%5Etfw)
-
-En los minutos finales, **Cole** **Palmer** selló su doblete tras convertir otro penal cometido por los Spurs, sentenciando el partido con un marcador de 2-4.
-
-Ya en el agregado, Heung-Min Son, el capitán de los locales, anotó a los 90+6′ para que el partido finalice 3-4
