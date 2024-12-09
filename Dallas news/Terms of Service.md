@@ -6,7 +6,7 @@ Aug. 28, 2019
 
 |
 
-Updated Dec. 6, 2024 at 4:42 p.m. CST
+Updated Dec. 8, 2024 at 3:03 p.m. CST
 
 |
 
@@ -106,7 +106,7 @@ We reserve the right to issue refunds or credits for non-membership purchases at
 
 3\. USER GENERATED CONTENT: SUBMISSIONS INCLUDING COMMENTS, PHOTOS, CONTEST ENTRIES AND MORE
 
-3.1 All user-generated content is the sole responsibility of the individual who submitted the content. You agree that DALN shall not be responsible or liable to you or any third party for any damages or harm resulting from your submission of any content on the Services, including, but not limited to, any defamatory, illegal, or other objectionable content. You will not upload to, or distribute or otherwise publish on to the Services any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material. You agree to be courteous when submitting any such user-generated content. You agree that you will not threaten or verbally abuse others using the Services (“Members”), use defamatory language, or deliberately disrupt discussions with repetitive messages, meaningless messages or “spam.”
+3.1 All user-generated content is the sole responsibility of the individual who submitted the content. You agree that DALN shall not be responsible or liable to you or any third party for any damages or harm resulting from your submission of any content on the Services, including, but not limited to, any defamatory, illegal, or other objectionable content. You will not upload to, or distribute or otherwise publish on to the Services any libelous, defamatory, obscene, pornographic, abusive, or otherwise illegal material. You agree to be courteous when submitting any such user-generated content. You agree that you will not threaten or verbally abuse others using the Services (“Members”), use defamatory language, or deliberately disrupt discussions with repetitive messages, meaningless messages or “spam.” By commenting or posting on the Services, you also agree to adhere to our [Community Guidelines](https://www.dallasnews.com/help/community-guidelines/ "https://www.dallasnews.com/help/community-guidelines/") which are part of these Terms of Services.
 
 You will use respectful language when submitting user-generated content or interacting with others on the Services. Like any community, the online conversation flourishes only when our Members feel welcome and safe. You agree not to use language that abuses or discriminates on the basis of race, religion, nationality, gender, sexual preference, age, region, disability, etc. Hate speech of any kind is not tolerated by DALN and is grounds for immediate and permanent suspension of access to all or part of the Services.
 
