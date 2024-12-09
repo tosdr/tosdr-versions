@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696/20241208T233311/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696/20241208T233311/ed3ba3b3-f047-4b7e-aa5f-4eabb58f4696_360x203.jpg)](https://www.wqad.com/article/news/community/rotary-clubs-quad-cities-blankets-foster-children/526-aa89d0e5-7817-40bd-92bd-173ef61ba847)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
         
-        #### [Rotary Clubs throughout the Quad Cities come together to make blankets for foster children](https://www.wqad.com/article/news/community/rotary-clubs-quad-cities-blankets-foster-children/526-aa89d0e5-7817-40bd-92bd-173ef61ba847)
+        #### [Custom holiday window paintings raise funds for newly established Elmore Disaster Relief](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2) [![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c890b155-e794-4b38-ae61-c531e17e5ba0/20241209T150428/c890b155-e794-4b38-ae61-c531e17e5ba0_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e08bfcb9-295d-4506-9dca-4b11163b443a/20241209T062935/e08bfcb9-295d-4506-9dca-4b11163b443a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e08bfcb9-295d-4506-9dca-4b11163b443a/20241209T062935/e08bfcb9-295d-4506-9dca-4b11163b443a_360x203.jpg)](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
+        #### [Custom holiday window paintings raise money for Bureau County disaster recovery](https://www.wqad.com/article/news/local/the-current/custom-holiday-window-paintings-elmore-disaster-relief-electric-nonprofit/526-84e24792-cf05-4761-bdd3-84093e3daca2)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
         
-        #### [Galesburg family speaks out following armed home robbery](https://www.wqad.com/article/news/crime/galesburg-home-invasion-firearms-cash-dog-stolen/526-96d2fd49-12db-44b2-a0cf-7eabcf7f5e6a)
+        #### [1 dead in head-on collision on I-88 in Rock Island County](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1d10bc73-0034-4888-982e-cfe48f1c7f4c/20241209T000206/1d10bc73-0034-4888-982e-cfe48f1c7f4c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1d10bc73-0034-4888-982e-cfe48f1c7f4c/20241209T000206/1d10bc73-0034-4888-982e-cfe48f1c7f4c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [One more warm day before a big cool-down](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [One last day in the 50s before another Arctic outbreak arrives](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/991b729d-3606-44df-86c2-0649b981636e/20241206T220802/991b729d-3606-44df-86c2-0649b981636e_360x203.jpg)](https://www.wqad.com/article/news/local/snowstar-ski-resort-making-snow-opening-day/526-a06f2847-9779-4331-95d2-9c703a3c7d3e)
         
@@ -97,9 +98,9 @@ Navigation
 
 Davenport, IA »
 
-40°
+43°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
