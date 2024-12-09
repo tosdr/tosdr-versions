@@ -401,6 +401,12 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Terrell police officer shot and killed in line of duty, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/officer-candanoza.jpg?ve=1&tl=1)
+
+ ![Terrell police officer shot and killed in line of duty, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/officer-candanoza.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+
+### [Terrell police officer shot and killed in line of duty, police say](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+
  [![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1)
 
  ![20-year-old charged with intoxication manslaughter after deadly Fort Worth crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/fort-worth-south-boulevard-crash.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-deadly-crash-south-freeway)
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Jay-Z named in lawsuit over minor’s rape alongside Sean ‘Diddy’ Combs](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2186891519-copy.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
 
 ### [Jay-Z named in lawsuit alongside Sean ‘Diddy’ Combs over 13-year-old’s rape in 2000](https://www.fox4news.com/news/jay-z-lawsuit-p-diddy-mtv-vmas-afterparty-2000)
-
- [![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/gettyimages-2188808187.jpg?ve=1&tl=1)
-
- ![Bowl Games: Where, when to watch Texas schools play](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188808187.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
-
-### [Bowl Games: Where, when to watch Texas schools play](https://www.fox4news.com/sports/bowl-game-announcement-texas-schools)
 
 ###### [News](https://www.fox4news.com/news)
 
