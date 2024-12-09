@@ -286,7 +286,7 @@ Questions, comments and feedback regarding this privacy policy are welcomed and 
 
 [News & Research](https://www.tellmi.help/news-research)
 
-[Referrals](https://www.tellmi.help/therapy-referral)
+[Referrals to Tellmi Therapy](https://www.tellmi.help/therapy-referral)
 
 [Tellmi Sponsorship](https://www.tellmi.help/sponsorship)
 
