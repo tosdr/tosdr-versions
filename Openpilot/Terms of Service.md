@@ -6,15 +6,15 @@ Latest from the blog:
 
 [COMMA\_HACK 5](https://blog.comma.ai/comma-hack-5/)
 
-December 5, 2024 - less than 1 minute read
+December 5, 2024 - undefined
 
 [RL for car controls](https://blog.comma.ai/rlcontrols/)
 
-September 12, 2024 - 5 minute read
+September 12, 2024 - undefined
 
 [Autonomy](https://blog.comma.ai/autonomy/)
 
-July 23, 2024 - 6 minute read
+July 23, 2024 - undefined
 
 Social
 
