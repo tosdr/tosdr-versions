@@ -153,11 +153,11 @@
 * [Торт творожный](https://www.russianfood.com/recipes/recipe.php?rid=40495)
 * [«Ленивый» пудинг](https://www.russianfood.com/recipes/recipe.php?rid=40540)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
-* [Шоколадные бутерброды](https://www.russianfood.com/recipes/recipe.php?rid=53072)
 * [Свекла с творогом](https://www.russianfood.com/recipes/recipe.php?rid=53769)
-* [Торт «Айсберг»](https://www.russianfood.com/recipes/recipe.php?rid=55691)
-* [Салат из помидоров с творожным соусом](https://www.russianfood.com/recipes/recipe.php?rid=55833)
-* [Салат из редиса с творогом](https://www.russianfood.com/recipes/recipe.php?rid=55925)
+* [Салат из сельдерея, яблок и творога](https://www.russianfood.com/recipes/recipe.php?rid=55970)
+* [Салат яблочный с луком-пореем и творогом](https://www.russianfood.com/recipes/recipe.php?rid=60873)
+* [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
+* [«Красная девица»](https://www.russianfood.com/recipes/recipe.php?rid=64588)
 
 |     |
 | --- |
@@ -318,7 +318,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_33 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_36 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174868#comments) | 07.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(125)
+(123)
