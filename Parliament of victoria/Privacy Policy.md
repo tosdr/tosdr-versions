@@ -42,7 +42,7 @@ Main menu
         
         Icon calendar 28 November 2024
         
-        Proof
+        Final
         
     * [**Legislative Council**  
         Hansard proceedings published](https://parliament.vic.gov.au/parliamentary-activity/hansard/hansard-details/HANSARD-974425065-29123)
