@@ -140,7 +140,21 @@ Customer Testimonials
 
 out of 5 based on
 
-[789 reviews](https://www.trustpilot.com/review/www.safari.com)
+[797 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Dec 9, 2024
+
+> Great support from Shann
+
+> Shann made the booking experience seamless - provided very helpful information to ensure we fully understood what the experience would be like and made sure we felt safe with experiences we have booked.
+
+SUE And Bryson STEIN
+
+,
+
+AU
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -243,20 +257,6 @@ US
 > Kim Abrahams is as great to work with. Very responsive and helpful for setting up my trip to Africa
 
 Nicholas Nelson
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 30, 2024
-
-> Great advice, responsive and knowledgeable!
-
-> Pascal John at Safari.com guided me on different safari lodges (experience, rating), and most importantly knew about specials (buy 3 nights, get 4th for free) which allowed my family to secure a 5-star location at a more reasonable rate. Great advice, responsive and knowledgeable!
-
-Rebecca Cauffman
 
 ,
 
