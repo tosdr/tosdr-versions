@@ -2,7 +2,7 @@
 
 SALE ENDS IN
 
-23HRS
+05HRS
 
 16MIN
 
