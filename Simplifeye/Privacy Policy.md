@@ -240,6 +240,6 @@ Dunwoody, GA 30338](https://goo.gl/maps/3tcY4bG9QqQ1Rkh5A)
 
 ![](https://secure.lane5down.com/220602.png)
 
-                      
+                            
 
 * We have updated our Privacy Policy. By closing this pop-up banner or by continuing to use the site, you agree to our[Privacy Policy](http://vynedental.com/privacy/)
