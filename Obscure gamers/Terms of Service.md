@@ -75,6 +75,8 @@ If you do not agree with these terms, please do not register or use the Service.
 * [Forums](https://www.obscuregamers.com/) 
 * [Help](https://www.obscuregamers.com/help/) 
 
+* [Rebirth](https://www.obscuregamers.com/misc/style "Style chooser")
+
 * [Contact us](https://www.obscuregamers.com/misc/contact)
 * [Terms and rules](https://www.obscuregamers.com/help/terms/)
 * [Privacy policy](https://www.obscuregamers.com/help/privacy-policy/)
