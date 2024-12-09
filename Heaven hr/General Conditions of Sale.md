@@ -1,6 +1,6 @@
 ##### Verwendung von Cookies
 
-Um zu verstehen, wie Nutzer:innen mit dieser Website interagieren und das Nutzungserlebnis für Sie fortlaufend zu optimieren, nutzen wir Cookies. Mit einem Klick auf "Akzeptieren" stimmen Sie der Verwendung von Cookies zu. Wie wir Ihre Daten nutzen, lesen Sie in unserer [Datenschutzerklärung](https://www.heavenhr.com/web/DE/de/datenschutz)  
+Um zu verstehen, wie Nutzer mit dieser Website interagieren und das Nutzungserlebnis für Sie fortlaufend zu optimieren, nutzen wir Cookies. Mit einem Klick auf "Akzeptieren" stimmen Sie der Verwendung von Cookies zu. Wie wir Ihre Daten nutzen, lesen Sie in unserer [Datenschutzerklärung](https://www.heavenhr.com/web/DE/de/datenschutzerklaerung)  
   
 Einige Cookies sind essenziell, da sie unsere Website erst für Sie nutzbar machen. Aus diesem Grund unterscheiden wir zwischen notwendigen und anderen Cookies. Sie können Ihre Entscheidung jederzeit in der Zukunft widerrufen bzw. ändern.
 
@@ -13,19 +13,19 @@ UnverzichtbarGoogle Adwords
 
 Alle akzeptierenNur erforderliche CookiesAnpassen
 
-[![HeavenHR company logo](/web/heavenhr-logo.svg)](https://www.heavenhr.com/web/DE/de)
+[![HeavenHR company logo](/web/heaven_hr2_logo.png)](https://www.heavenhr.com/web/DE/de)
 
-[Recruiting](https://www.heavenhr.com/web/DE/de/recruiting)
-
-HR Admin
-
-[Lohnabrechnung](https://www.heavenhr.com/web/DE/de/lohnabrechnung)
-
-[Unsere Kunden](https://www.heavenhr.com/web/DE/de/referenzen)
+Produkt
 
 [Preise](https://www.heavenhr.com/web/DE/de/preise)
 
-[Jetzt loslegen](https://www.heavenhr.com/web/DE/de/registrieren)[Anmelden](https://www.heavenhr.com/web/DE/de/login)
+[Datenschutz](https://www.heavenhr.com/web/DE/de/datenschutz)
+
+[Blog](https://blog.heavenhr.de/)
+
+[Jetzt testen](https://www.heavenhr.com/web/DE/de/registrieren)[Login](https://www.heavenhr.com/web/DE/de/login)
+
+[English](https://www.heavenhr.com/web/EN/en/terms-conditions-companies)
 
 Allgemeine Geschäftsbedingungen der HeavenHR GmbH für Verträge mit Unternehmen
 ==============================================================================
@@ -33,7 +33,7 @@ Allgemeine Geschäftsbedingungen der HeavenHR GmbH für Verträge mit Unternehme
 § 1 Präambel
 ------------
 
-1.1. Die HeavenHR GmbH (nachfolgend “HeavenHR“), Rotberger Straße 3c, 12529 Schönefeld, ist der Inhaber sämtlicher urheberrechtlicher und sonstiger Nutzungs- und Verwertungsrechte an der Online Personalmanagementsoftware “HeavenHR“ (nachfolgend „Software“). Hierbei handelt es sich um eine Software zum Personalmanagement, welche die zusätzliche Anbindung von verwandten Funktionen und Dienstleistungen wie unter anderem Personalverwaltung, Urlaubsplanung, Lohnsteuerabrechnung, etc. ermöglicht. HeavenHR stellt diese Software mittels Fernzugriffs über das Internet (“Software-as-a-Service“, kurz “SaaS”) bereit.
+1.1. Die HeavenHR GmbH (nachfolgend “HeavenHR“), Mittenwalder Straße 6, 10961 Berlin, ist der Inhaber sämtlicher urheberrechtlicher und sonstiger Nutzungs- und Verwertungsrechte an der Online Personalmanagementsoftware “HeavenHR“ (nachfolgend „Software“). Hierbei handelt es sich um eine Software zum Personalmanagement, welche die zusätzliche Anbindung von verwandten Funktionen und Dienstleistungen wie unter anderem Personalverwaltung, Urlaubsplanung, Lohnsteuerabrechnung, etc. ermöglicht. HeavenHR stellt diese Software mittels Fernzugriffs über das Internet (“Software-as-a-Service“, kurz “SaaS”) bereit.
 
 1.2. Die Allgemeinen Geschäftsbedingungen der HeavenHR GmbH für Verträge mit Unternehmen (nachfolgend „AGB“) regeln das Verhältnis zwischen der HeavenHR und Unternehmen, welche das Softwareangebot von HeavenHR in Anspruch nehmen (nachfolgend „Anwender“). Das Angebot von HeavenHR besteht in einer Software, die zur ausschließlichen Nutzung über das Internet bereitgestellt wird. Die Anwender organisieren ihr Personalmanagement über einen Unternehmens-Account der Software und halten zugleich ihre Mitarbeiter dazu an, einen Mitarbeiter-Account in der Software einzurichten und die Software ebenfalls zu nutzen.
 
@@ -63,7 +63,7 @@ Allgemeine Geschäftsbedingungen der HeavenHR GmbH für Verträge mit Unternehme
 § 3 Vertragsschluss
 -------------------
 
-3.1. An einem Vertragsschluss interessierte Unternehmen können sich auf der Internetseite von HeavenHR unter [www.heavenhr.com](http://www.heavenhr.com/) durch Angabe der Kontaktdaten ihres Unternehmens als Anwender registrieren. Im Rahmen dieses Registrierungsvorgangs bestätigt der Anwender diese AGB. Ob ein Vertragsschluss zwischen HeavenHR und dem Anwender zustande kommt, entscheidet HeavenHR durch den Versand eines Bestätigungslinks an den Anwender. Sobald der Anwender die E-Mail mit dem Bestätigungslink erhalten hat, kommt der Vertrag mit HeavenHR zustande.
+3.1. An einem Vertragsschluss interessierte Unternehmen können sich auf der Internetseite von HeavenHR unter www.heavenhr.com durch Angabe der Kontaktdaten ihres Unternehmens als Anwender registrieren. Im Rahmen dieses Registrierungsvorgangs bestätigt der Anwender diese AGB. Ob ein Vertragsschluss zwischen HeavenHR und dem Anwender zustande kommt, entscheidet HeavenHR durch den Versand eines Bestätigungslinks an den Anwender. Sobald der Anwender die E-Mail mit dem Bestätigungslink erhalten hat, kommt der Vertrag mit HeavenHR zustande.
 
 3.2. HeavenHR behält sich vor, phasenweise Accounts für Testzwecke einzurichten. Diese können jederzeit ohne Einhaltung einer Frist durch HeavenHR gesperrt werden.
 
@@ -224,33 +224,13 @@ Stand: 11/2016
 
 ![Jetzt Webdemo Vereinbaren](/web/icon-webdemo-white.svg)
 
-HeavenHR Produkte
+HeavenHR 2.0
 
-[Recruiting](https://www.heavenhr.com/web/DE/de/recruiting)
-
-HR Admin
-
-[Digitale Personalakte](https://www.heavenhr.com/web/DE/de/digitale-personalakte)[On- & Offboarding](https://www.heavenhr.com/web/DE/de/onboarding-offboarding)[Zeiterfassung](https://www.heavenhr.com/web/DE/de/zeiterfassung)[Urlaub & Abwesenheiten](https://www.heavenhr.com/web/DE/de/urlaub-abwesenheit)[Schichtplanung](https://www.heavenhr.com/web/DE/de/schichtplanung)[Alle Funktionen anzeigen](https://www.heavenhr.com/web/DE/de/hr-admin)
-
-[Lohnabrechnung](https://www.heavenhr.com/web/DE/de/lohnabrechnung)
-
-Unternehmen
-
-[Über HeavenHR](https://www.heavenhr.com/web/DE/de/ueber-uns)[Karriere - Wir stellen ein!](https://www.heavenhr.com/web/DE/de/karriere)[Preise](https://www.heavenhr.com/web/DE/de/preise)
-
-Ressourcen
-
-[Events](https://www.meetup.com/de-DE/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/)[Blog](https://blog.heavenhr.de/)[Glossar](https://www.heavenhr.com/web/DE/de/glossar)[FAQs](https://docs.heavenhr.com/de.html)
-
-Wählen Sie Ihre Sprache
-
-[Deutsch](https://www.heavenhr.com/web/DE/de/agb-firma)[English](https://www.heavenhr.com/web/EN/en/terms-conditions-companies)
+[Produkt](https://www.heavenhr.com/web/DE/de/product-overview)[Preise](https://www.heavenhr.com/web/DE/de/preise)[Datenschutz](https://www.heavenhr.com/web/DE/de/datenschutz)[Blog](https://blog.heavenhr.de/)
 
 Über HeavenHR
 
-HeavenHR verändert die Welt des Personalmanagements. Unsere Software wird seit 2015 in Berlin entwickelt.
-
-Unsere cloud-basierte SaaS-Lösung hilft Ihnen dabei, Ihre tägliche Mitarbeiteradministration einfach und effizient zu managen.
+Wir sind Experten für Personalverwaltung und digitale Lohnabrechnung. Unseren Kunden bieten wir den einfachsten, schnellsten und transparentesten Lohnabrechnungsprozess auf dem Markt – kombiniert mit einer benutzerfreundlichen Personalverwaltung für Arbeitgeber und Arbeitnehmer.
 
 Kontakt
 
@@ -262,14 +242,4 @@ Sie erreichen uns von Montag bis Freitag zwischen 9 Uhr-18 Uhr
 
 [](https://www.facebook.com/HeavenHRde/)[](https://twitter.com/heavenhr_de)[](https://www.linkedin.com/company/heavenhr)[](https://www.xing.com/company/heavenhr)[](https://www.meetup.com/de-DE/Berlin-Vernetzung-mit-Personalfachleuten-Meetup-Gruppe/)[](https://www.instagram.com/heavenhr_de/)
 
-Anzahl der Mitarbeiter
-
-Jetzt loslegen
-
-14 Tage testen
-
-Einfache Einrichtung
-
-Jederzeit kündbar
-
-© 2024 HeavenHR GmbH · [Datenschutz & Sicherheit](https://www.heavenhr.com/web/DE/de/datenschutz) · [AGB für Unternehmen](https://www.heavenhr.com/web/DE/de/agb-firma) · [AGB für Angestellte](https://www.heavenhr.com/web/DE/de/agb-mitarbeiter) · [Impressum](https://www.heavenhr.com/web/DE/de/impressum)
+© 2024 HeavenHR GmbH · [Datenschutzerklärung](https://www.heavenhr.com/web/DE/de/datenschutzerklaerung) · [AGB für Unternehmen](https://www.heavenhr.com/web/DE/de/agb-firma) · [AGB für Angestellte](https://www.heavenhr.com/web/DE/de/agb-mitarbeiter) · [Impressum](https://www.heavenhr.com/web/DE/de/impressum)
