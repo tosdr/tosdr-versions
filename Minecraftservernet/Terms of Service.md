@@ -29,17 +29,15 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![BlockBay](plugins/MineCraft/icons/25x25xBlockBay_1732970431.png.pagespeed.ic.hriGlZXE0Y.png)
+[![beastnetwork](plugins/MineCraft/icons/25x25xbeastnetwork_1733754496.png.pagespeed.ic.EqPT2ncCfI.jpg)
 
-BlockBay](https://minecraft-server.net/details/BlockBay/ "BlockBay")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+BEAST NETWORK](https://minecraft-server.net/details/beastnetwork/ "BEAST NETWORK")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![Crackex_Network](plugins/MineCraft/icons/25x25xCrackex_Network_1719945700.png.pagespeed.ic.5lGRZnbn0U.jpg)
+Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![StarlightVanilla](plugins/MineCraft/icons/25x25xStarlightVanilla_1733084759.png.pagespeed.ic.zTzQIgMQzH.jpg)
 
-#1 BEST SURVIVAL • CrackexMc](https://minecraft-server.net/details/Crackex_Network/ "#1 BEST SURVIVAL • CrackexMc")[![SkyHiker](plugins/MineCraft/icons/25x25xSkyHiker_1733730546.png.pagespeed.ic.wSXkZp-BUY.png)
+VPG | Modern Anarchy](https://minecraft-server.net/details/StarlightVanilla/ "VPG | Modern Anarchy") [Hehehey](https://minecraft-server.net/details/Yo_Yohoney-biyyy/ "Hehehey")[![kretmc](plugins/MineCraft/icons/25x25xkretmc_1716535388.png.pagespeed.ic.csO5XeMY1u.png)
 
-SkyHikerMC](https://minecraft-server.net/details/SkyHiker/ "SkyHikerMC")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
-
-Fermium MC - SURVIVAL](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL")
+Najlepszy Serwer Minecraft!](https://minecraft-server.net/details/kretmc/ "Najlepszy Serwer Minecraft!")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Terms and Conditions of Minecraft-Server.net
@@ -125,4 +123,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06507 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06365 - Created by [Debaucus](https://debauc.us/)
