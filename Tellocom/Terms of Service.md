@@ -1,4 +1,4 @@
-In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=2681f729f82914895aefa1015837abd3)
+In order to view all our website features you need to [enable Javascript.](http://www.enable-javascript.com/en) ![](/images/js_disabled_tracking.gif?cid=31db6bb1ef2c94dd3056a3e73ad91409)
 
 Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello Icons-MyTello
 
@@ -169,7 +169,11 @@ No refunds will be provided if the service is terminated for violation of the ac
   
 **Performance with Tello’s "Unlimited" plan**  
 The Unlimited data option provides unlimited data usage at a regular monthly rate per line (promotional rates may vary). Customers will receive 4G LTE/5G data speeds for up to 35 GB of data per billing period. Your data speed will be reduced to lower speeds once you have used 35 GB of data in a billing period. You can downgrade your unlimited plan at any time, with no change fees.  
-Tello Unlimited Plans with international long-distance service are provided solely for live dialogue between and initiated by, two individuals for personal use and not for non-residential use or resale. The limit for international calls is set at 1000 min/30-day billing cycle and this balance is not rolled over. In case of abuse of usage, we reserve the right to suspend, terminate or restrict your ILD Services without any prior notice. We further reserve the right to add or remove countries from the list of those for which Unlimited Plans are available, to discontinue Services to any country, or to revise the number of minutes.  
+  
+**Performance with Tello’s "Unlimited Plus" plan**  
+The Unlimited Plus data option provides unlimited data usage at a regular monthly rate per line (promotional rates may vary). Customers will receive 4G LTE/5G data speeds for up to 45 GB of data per billing period. Your data speed will be reduced to lower speeds once you have used 45 GB of data in a billing period. You can downgrade your unlimited plan at any time, with no change fees.  
+  
+Tello Unlimited Plans and Unlimited Plus Plans with international long-distance service are provided solely for live dialogue between and initiated by, two individuals for personal use and not for non-residential use or resale. The limit for international calls is set at 1000 min/30-day billing cycle and this balance is not rolled over. In case of abuse of usage, we reserve the right to suspend, terminate or restrict your ILD Services without any prior notice. We further reserve the right to add or remove countries from the list of those for which Unlimited Plans are available, to discontinue Services to any country, or to revise the number of minutes.  
   
 Network Management  
 Generally, Tello does not inhibit the ability of our Customers to use mobile data. However, like many service providers, Tello employs reasonable network management practices consistent with industry standards to maintain the reliability of its network and minimize network issues and complications, and these practices are subject to change. Specifically, Tello currently manages its network in the following ways:
@@ -243,8 +247,6 @@ Any Tello user can have at any given moment a maximum of 10 lines in their onlin
 By subscribing to Tello plans you agree to be charged monthly. To cancel the subscription you must deactivate the Service from your account. Regardless of the number of minutes, data used you will be charged monthly for your subscription. The monthly fee is non-refundable.  
   
 Calls are charged with minute rounding. Partial minutes of use are rounded up to the next full minute.  
-Minutes included in a plan are available for US, Canada, Mexico and China. Any call made to a number from these countries will be charged from the Customer's plan balance.  
-  
 Plans rates are subject to change without any prior notice.  
   
 Plans will be automatically renewed every 30 days, unless a Customer decides to change or renew a plan during the billing cycle, which is possible. The Customer will be charged on the spot, which initiates a new billing cycle.  
@@ -266,10 +268,13 @@ Data usage is rounded up to the next full-kilobyte increment at the end of each 
 If more than one product is active in customer's account, the balance will be used in this priority: for data usage, national calls and texts: Plans balance and then Pay As You Go balance. Premium destinations can not be called with any of our plans. These numbers can be called with Pay As You Go balance.
 
 **Tello Unlimited Plans**  
-Tello Unlimited data plans are meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above the hotspot amount included in your data plan.**  
-Unlimited Data Plans are not available for renewal.**  
+The Unlimited Plan is meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above 5GB. Accounts where we find excessive data usage may experience slowness in speed and/or service limitations for the current billing cycle, up to termination.  
+**Tello Unlimited Plus Plans**  
+The Unlimited Plus Plan is meant for using data mainly with your mobile phone. We reserve the right to limit excessive tethering/hotspot usage above 10GB. Accounts where we find excessive data usage may experience slowness in speed and/or service limitations for the current billing cycle, up to termination.  
   
-New and existing customers on qualifying plans including data have streaming video optimization technology automatically applied to our plans, and video is delivered at a lower resolution (typically 480p) rather than at a higher resolution which is better suited for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.
+**Unlimited Data Plans and Unlimited Plus Plans are not available for renewal.**  
+  
+New and existing customers on qualifying plans that include data will automatically have streaming video optimization technology applied. As a result, video is delivered at a lower resolution (typically 480p), which is better suited for smaller screens, rather than higher resolutions designed for larger screens. This helps customers stretch their Data Plans by reducing the amount of high-speed data consumed for streaming video. Data speed optimization is not applied when a device is on Wi-Fi and therefore all data, including video, will be delivered at available speeds.
 
 Park Number Plan Service Agreement
 ----------------------------------
