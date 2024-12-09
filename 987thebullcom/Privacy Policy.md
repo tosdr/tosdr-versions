@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Hard To LoveLee Brice<br><br>4:37am |
-| Everything I NeedChayce Beckham<br><br>4:34am |
-| If I Didn'T Love YouJason Aldean And Carrie Underwood<br><br>4:31am |
-| LiarJelly Roll<br><br>4:27am |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>4:24am |
+| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>10:39am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:36am |
+| Tennessee OrangeMegan Moroney<br><br>10:32am |
+| CowgirlsMorgan Wallen Ft Ernest<br><br>10:29am |
+| A Lot More FreeMax Mcnown<br><br>10:25am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,19 +497,19 @@ State
 Featured Brands
 ---------------
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
 
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
 
