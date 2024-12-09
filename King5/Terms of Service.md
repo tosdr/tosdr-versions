@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c6c9af86-da7b-42ab-90f4-653f7b779e88/20241209T125600/c6c9af86-da7b-42ab-90f4-653f7b779e88_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c6c9af86-da7b-42ab-90f4-653f7b779e88/20241209T125600/c6c9af86-da7b-42ab-90f4-653f7b779e88_360x203.jpg)](https://www.king5.com/article/news/nation-world/syrian-government-overthrow-washington-reaction/281-b88ddc19-44f1-4f5c-ab64-33e171fc5002)
+    *  [![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
         
-        #### ['It's a new beginning': Syrian-Americans in Washington celebrate the overthrowing of Syria's government](https://www.king5.com/article/news/nation-world/syrian-government-overthrow-washington-reaction/281-b88ddc19-44f1-4f5c-ab64-33e171fc5002)
+        #### [Boeing to lay off nearly 400 employees at these locations in Washington](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
         
-    *  [![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/04c4d898-f43e-40ba-8654-4588dec344d7/04c4d898-f43e-40ba-8654-4588dec344d7_360x203.jpg)](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
+    *  [![](https://media.king5.com/assets/KING/images/bd46f0e3-2251-4aa6-8915-b65f8f7db10e/bd46f0e3-2251-4aa6-8915-b65f8f7db10e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd46f0e3-2251-4aa6-8915-b65f8f7db10e/bd46f0e3-2251-4aa6-8915-b65f8f7db10e_360x203.jpg)](https://www.king5.com/article/news/local/monroe-high-school-fire/281-a0484e3e-5533-4761-87c8-35ecd9c45a71)
         
-        #### [Police investigating homicide outside Kent bar](https://www.king5.com/article/news/crime/man-shot-killed-outside-kent-bar/281-8364862d-8a5a-4662-afaa-4d0ec3d875fa)
+        #### [Monroe High School closes for day after fire breaks out](https://www.king5.com/article/news/local/monroe-high-school-fire/281-a0484e3e-5533-4761-87c8-35ecd9c45a71)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+48°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
