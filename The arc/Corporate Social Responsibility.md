@@ -48,6 +48,7 @@ MENUMENU
             * [Future Planning](https://thearc.org/our-initiatives/future-planning/)
         * * [Health](https://thearc.org/our-initiatives/health/)
             * [Technology](https://thearc.org/our-initiatives/technology/)
+                * [Digital Literacy](https://thearc.org/our-initiatives/digital-literacy/)
             * [Travel](https://thearc.org/our-initiatives/travel/)
             * [Volunteering](https://thearc.org/our-initiatives/inclusive-volunteering/)
 * [GET INVOLVED](http://thearc.org/get-involved/)
