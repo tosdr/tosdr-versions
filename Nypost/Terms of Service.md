@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Jay-Z accused of raping girl, 13, with Sean 'Diddy' Combs more than 2 decades ago: bombshell lawsuit](https://nypost.com/2024/12/08/entertainment/jay-z-accused-of-raping-girl-13-with-sean-diddy-combs-more-than-2-decades-ago-bombshell-lawsuit/)
+[Juan Soto signing with Mets on gargantuan $765 million contract as Yankees miss out](https://nypost.com/2024/12/08/sports/juan-soto-signing-with-mets-on-15-year-765-million-contract/)
 
 Terms Of Use
 ============
