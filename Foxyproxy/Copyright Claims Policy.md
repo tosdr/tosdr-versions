@@ -87,3 +87,7 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 * [FoxyProxy Wifi Routers](https://getfoxyproxy.org/wifi-routers)
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
+
+WOW!! YOU GUYS ARE GOOD!!!! You can use this as a testimonial if you want, with my middle name, Natalie if you want. And my location is Vancouver, BC. The main reason I've had foxyproxy for years is so I can watch American Netflix and buy movies on Amazon US. Here in Canada, our selection is a lot more limited, and usually several seasons behind what's available in the US. Again, thanks!! That information you gave me goes above and beyond just proxy services.
+
+Lana Natalie Asprey
