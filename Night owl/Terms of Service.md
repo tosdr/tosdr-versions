@@ -32,7 +32,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/cyber-monday)
+* [Sale](https://nightowlsp.com/collections/holiday-savings-event)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
@@ -66,7 +66,7 @@
     * [Wire Free Accessories](https://nightowlsp.com/collections/wire-free-accessories)
     
 * [Accessories](https://nightowlsp.com/collections/accessories)
-* [Sale](https://nightowlsp.com/collections/cyber-monday)
+* [Sale](https://nightowlsp.com/collections/holiday-savings-event)
 * [Refurbished](https://nightowlsp.com/collections/refurbished)
 * [Protect Cloud](https://protectcloud.nightowlsp.com/)
 * [Support](https://support.nightowlsp.com/hc/en-us)
