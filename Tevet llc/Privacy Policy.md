@@ -1,239 +1,412 @@
-<img src="https://secure.lote1otto.com/156524.png" alt="" style="display:none;">       
+[Skip to main content](#main-content)
 
-[Skip to the main content.](#main-content)
+[![TEVET](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/logo-tevet.svg)](https://tevet.com/)
 
-[![logo white lettering](https://www.tevet.com/hs-fs/hubfs/TVT%20Logos/logo%20white%20lettering.png?width=200&height=200&name=logo%20white%20lettering.png "logo white lettering")](http://tevet.com/)
+[TEVET](https://tevet.com/)
 
-[![logo white lettering](https://www.tevet.com/hs-fs/hubfs/TVT%20Logos/logo%20white%20lettering.png?width=1000&height=1000&name=logo%20white%20lettering.png "logo white lettering")](http://tevet.com/)
+Liberty Platform Solutions
 
-* [Why TEVET?](https://www.tevet.com/whytevet)
-    * [Our Process](https://www.tevet.com/ourprocess)
-    * [FAQs](https://www.tevet.com/faqs)
-    * [TEVET Blog](https://www.tevet.com/tevet-transmission)
-* [Partners](https://www.tevet.com/partners)
-    * [Keysight Technologies](https://www.tevet.com/partners/keysight)
-    * [National Instruments](https://www.tevet.com/partners/ni)
-    * [Rohde & Schwarz](https://www.tevet.com/partners/rohde)
-    * [Tektronix](https://www.tevet.com/partners/tektronix)
-* [Liberty](https://liberty.tevet.com/)
-    * [Liberty KA / KP](https://liberty.tevet.com/libertyka)
-    * [Liberty NP](https://liberty.tevet.com/libertynp)
+Menu
 
-Toggle Menu
+* [T&M Equipment](https://tevet.com/test-measurement-equipment/)
+* [LIBERTY](https://tevet.com/liberty/)
+* [TEVET](https://tevet.com/about/)
+    * [About](https://tevet.com/about/)
+    * [Our Process](https://tevet.com/about/our-process/)
+    * [Careers](https://tevet.com/about/careers/)
+* [Partners](https://tevet.com/partners/)
+* [Resources](https://tevet.com/news/)
+    * [News & Blog](https://tevet.com/news/)
+    * [FAQs](https://tevet.com/resources/faqs/)
+* Site Search
+    
+    Search for:  
+    
+* [Contact Us](https://www.tevet.com/contact/)
 
-Toggle Menu
+Privacy Statement (US)
+======================
 
-* [Why TEVET?](https://www.tevet.com/whytevet)
-    * [Our Process](https://www.tevet.com/ourprocess)
-    * [FAQs](https://www.tevet.com/faqs)
-    * [TEVET Blog](https://www.tevet.com/tevet-transmission)
-* [Partners](https://www.tevet.com/partners)
-    * [Keysight Technologies](https://www.tevet.com/partners/keysight)
-    * [National Instruments](https://www.tevet.com/partners/ni)
-    * [Rohde & Schwarz](https://www.tevet.com/partners/rohde)
-    * [Tektronix](https://www.tevet.com/partners/tektronix)
-* [Liberty](https://liberty.tevet.com/)
-    * [Liberty KA / KP](https://liberty.tevet.com/libertyka)
-    * [Liberty NP](https://liberty.tevet.com/libertynp)
+_This privacy statement was last changed on 9 December 2024, last checked on 9 December 2024, and applies to citizens and legal permanent residents of the United States._  
+  
 
-[Facebook](#0) [Instagram](#0) [Linkedin](#0) [X](#0) [YouTube](#0) [Medium](#0)
+In this privacy statement, we explain what we do with the data we obtain about you via [https://tevet.com](https://tevet.com/). We recommend you carefully read this statement. In our processing we comply with the requirements of privacy legislation. That means, among other things, that:
 
-Last Modified: January 30, 2024
+* we clearly state the purposes for which we process personal data. We do this by means of this privacy statement;
+* we aim to limit our collection of personal data to only the personal data required for legitimate purposes;
+* we first request your explicit consent to process your personal data in cases requiring your consent;
+* we take appropriate security measures to protect your personal data and also require this from parties that process personal data on our behalf;
+* we respect your right to access your personal data or have it corrected or deleted, at your request.
 
-This privacy policy sets out how this website (hereafter “the Store”) uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+If you have any questions, or want to know exactly what data we keep of you, please contact us.
 
-Welcome to tevet.com (our “Website”). TEVET (“Company”) respects your privacy and is committed to protecting it. We understand that privacy online is important to users of our Website. This policy describes the types of information we may collect from you or that you may provide when you visit our Website, and our practices for collecting, using, maintaining, protecting, and disclosing that information. Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time (see Changes to Our Privacy Policy below). Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+1\. Purpose and categories of data
+----------------------------------
 
-Information We Collect and How It Is Collected
-----------------------------------------------
+We may collect or receive personal information for a number of purposes connected with our business operations which may include the following: (click to expand)
 
-This policy applies to information we collect through Forms on the Website and Email, and through Google Analytics tracking. Forms include “Request a Quote” and “Contact Us” forms. This policy does not apply to information collected by us offline or through any other means, including on any other website operated by Company or any third party (including our affiliates and subsidiaries).
+### 1.1 To sell or share data with a third party
 
-We collect several types of information from and about users of our Website, including information by which you may be personally identified, such as name, email, company, and phone number. As you navigate through and interact with our Website, we may use automatic data collection technologies to collect certain information about your equipment, browsing actions, and patterns, including IP address, location (city, state), device, browser type, operating system, service provider, web pages viewed, length of time, and documents downloaded through Cookies.
+The following categories of data are collected
 
-The technologies we use for this automatic data collection may include browser cookies. You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you direct your browser to our Website. Pages of our Website may contain small electronic files known as web beacons (also referred to as clear gifs, pixel tags, and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages and for other related website statistics.
+* Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement
+* Geolocation data
 
-How We Use the Information
---------------------------
+Retention period
 
-The information we collect automatically helps us to improve our Website and to deliver a better and more personalized service, including enabling us to provide relevant marketing information in email marketing and website content.
+We retain this data until the service is terminated.
 
-Disclosure of Your Information
+### 1.2 Contact – Through phone, mail, email and/or webforms
+
+The following categories of data are collected
+
+* A first and last name
+* An email address
+* A telephone number
+
+Retention period
+
+We retain this data until the service is terminated.
+
+### 1.3 Compiling and analyzing statistics for website improvement.
+
+The following categories of data are collected
+
+* Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement
+* Geolocation data
+
+Retention period
+
+We retain this data until the service is terminated.
+
+2\. Sharing with other parties
 ------------------------------
 
-We do not disclose personal information that we collect or you provide except as described in this privacy policy. This information is used internally only. We may disclose your personal information to comply with any court order, law, or legal process, including to respond to any government or regulatory request; to enforce or apply our terms of use and other agreements, including for billing and collection purposes; and if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of TEVET, our customers, or others. This may include exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+We only share or disclose this data to other recipients for the following purposes:
 
-Choices About How We Use and Disclose Your Information
-------------------------------------------------------
+3\. Disclosure practices
+------------------------
 
-We strive to provide you with choices regarding the personal information you provide to us. You may unsubscribe from future email distributions using the “unsubscribe” mechanism on the email.
+We disclose personal information if we are required by law or by a court order, in response to a law enforcement agency, to the extent permitted under other provisions of law, to provide information, or for an investigation on a matter related to public safety.
 
-How We Keep Your Information Secure and How It Is Stored
---------------------------------------------------------
+If our website or organisation is taken over, sold, or involved in a merger or acquisition, your details may be disclosed to our advisers and any prospective purchasers and will be passed on to the new owners.
 
-We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure. All information you provide to us is stored on our secure servers in the secured corporate CRM behind firewalls. Your personal information is only accessible to a limited number of qualified employees who are given a password in order to gain access to the information. We audit our security systems and processes on a regular basis.
+4\. How we respond to Do Not Track signals & Global Privacy Control
+-------------------------------------------------------------------
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for the circumvention of any privacy settings or security measures contained on the Website.
+Our website does not respond to and does not support the Do Not Track (DNT) header request field.
 
-Changes to Our Privacy Policy
------------------------------
+5\. Cookies
+-----------
 
-The date the privacy policy was last revised is at the top of the page. You are responsible for periodically visiting our Website and this privacy policy for any changes.
+Our website uses cookies. For more information about cookies, please refer to our Cookie Policy on our [Opt-out preferences](https://tevet.com/opt-out-preferences/) webpage. 
 
-Contact Information
--------------------
+We have concluded a data processing agreement with Google.
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at our toll-free number: [866-886-8527](tell:1-866-886-8527).
+6\. Security
+------------
 
-For the exhaustive list of cookies, we collect see the List of cookies we collect section below.
+We are committed to the security of personal data. We take appropriate security measures to limit abuse of and unauthorized access to personal data. This ensures that only the necessary persons have access to your data, that access to the data is protected, and that our security measures are regularly reviewed.
 
-What we do with the information we gather
------------------------------------------
+7\. Third-party websites
+------------------------
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+This privacy statement does not apply to third-party websites connected by links on our website. We cannot guarantee that these third parties handle your personal data in a reliable or secure manner. We recommend you read the privacy statements of these websites prior to making use of these websites.
 
-* Internal record keeping.
-* We may use the information to improve our products and services.
-* We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address you have provided.
-* From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
-* No mobile information will be shared with third parties/affiliates for marketing/promotional purposes. All the above categories exclude text messaging originator opt-in data and consent; this information will not be shared with any third parties.
-    
+8\. Amendments to this privacy statement
+----------------------------------------
 
-Security
---------
+We reserve the right to make amendments to this privacy statement. It is recommended that you consult this privacy statement regularly in order to be aware of any changes. In addition, we will actively inform you wherever possible.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-
-How we use cookies
-------------------
-
-A cookie is a small file that asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes, and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-Links to other websites
------------------------
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
-
-Controlling your personal information
+9\. Accessing and modifying your data
 -------------------------------------
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+If you have any questions or want to know which personal data we have about you, please contact us. Please make sure to always clearly state who you are, so that we can be certain that we do not modify or delete any data of the wrong person. We shall provide the requested information only upon receipt of a verifiable consumer request. You can contact us by using the information below. You have the following rights:
 
-* whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-* if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information
+9.1 You have the following rights with respect to your personal data
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+1. You may submit a request for access to the data we process about you.
+2. You may object to the processing.
+3. You may request an overview, in a commonly used format, of the data we process about you.
+4. You may request correction or deletion of the data if it is incorrect or not or no longer relevant, or to ask to restrict the processing of the data.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us this request using our Contact Us information.
+9.2 Supplements
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+This section, which supplements the rest of this Privacy Statement, applies to citizens and legal permanent residents of California (CPRA), Colorado (CPA), Connecticut (CTDPA), Montana (MCDPA), Nevada (NRS 603A), Oregon (OCPA), Texas (TDPSA), Utah (UCPA) and Virginia (CDPA)
 
-List of cookies we collect
---------------------------
+### California
 
-The table below lists the cookies we collect and what information they store.
+#### Right to know what personal information is being collected about you
 
-**Cookie Name**
+A consumer shall have the right to request that a business that collects personal information about the consumer disclose to the consumer the following:
 
-**Cookie Description**
+1. The categories of personal information it has collected about that consumer.
+2. The categories of sources from which the personal information is collected.
+3. The business or commercial purpose for collecting or selling personal information.
+4. The categories of third parties with whom the business shares personal information.
+5. The specific pieces of personal information it has collected about that consumer.
 
-**FORM\_KEY**
+  
 
-Stores randomly generated key used to prevent forged requests.
+#### The right to know whether personal information is sold or disclosed and to whom
 
-**PHPSESSID**
+A consumer shall have the right to request that a business that sells the consumer’s personal information, or that discloses it for a business purpose, disclose to that consumer:
 
-Your session ID on the server.
+1. The categories of personal information that the business collected about the consumer.
+2. The categories of personal information that the business sold about the consumer and the categories of third parties to whom the personal information was sold, by category or categories of personal information for each third party to whom the personal information was sold.
+3. The categories of personal information that the business disclosed about the consumer for a business purpose.
 
-**GUEST-VIEW**
+  
 
-Allows guests to view and edit their orders.
+#### The Right to equal service and price, even if you exercise your privacy rights
 
-**PERSISTENT\_SHOPPING\_CART**
+  
 
-A link to information about your cart and viewing history, if you have asked for this.
+A consumer shall have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer.
 
-**STF**
+  
 
-Information on products you have emailed to friends.
+A business that receives a verifiable request from a consumer to delete the consumer’s personal information pursuant to subdivision (a) of this section shall delete the consumer’s personal information from its records and direct any service providers to delete the consumer’s personal information from their records.
 
-**STORE**
+  
 
-The store view or language you have selected.
+A business or a service provider shall not be required to comply with a consumer’s request to delete the consumer’s personal information if it is necessary for the business or service provider to maintain the consumer’s personal information in order to:
 
-**USER\_ALLOWED\_SAVE\_COOKIE**
+1. Complete the transaction for which the personal information was collected, provide a good or service requested by the consumer, or reasonably anticipated within the context of a business’s ongoing business relationship with the consumer, or otherwise perform a contract between the business and the consumer.
+2. Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
+3. Debug to identify and repair errors that impair existing intended functionality.
+4. Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
+5. Comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
+6. Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the businesses’ deletion of the information is likely to render impossible or seriously impair the achievement of such research, if the consumer has provided informed consent.
+7. Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
+8. To enable solely internal uses that are reasonably aligned with the expectations of the consumer based on the consumer’s relationship with the business.
+9. Comply with a legal obligation.
+10. Otherwise use the consumer’s personal information, internally, in a lawful manner that is compatible with the context in which the consumer provided the information.
 
-Indicates whether a customer is allowed to use cookies.
+#### Right to opt-out
 
-**MAGE-CACHE-SESSID**
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you. For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
 
-Facilitates caching of content on the browser to make pages load faster.
+#### Financial incentives
 
-**MAGE-CACHE-STORAGE**
+#### Selling of personal data to third parties
 
-Facilitates caching of content on the browser to make pages load faster.
+We have not sold consumers’ personal data in the preceding 12 months
 
-**MAGE-CACHE-STORAGE-SECTION-INVALIDATION**
+We have not disclosed consumers’ personal information for a business purpose in the preceding 12 months.
 
-Facilitates caching of content on the browser to make pages load faster.
+* Internet activity information, including, but not limited to, browsing history, search history, and information regarding a consumer's interaction with an Internet Web site, application, or advertisement
 
-**MAGE-CACHE-TIMEOUT**
+### Colorado
 
-Facilitates caching of content on the browser to make pages load faster.
+#### Right to Data Portability
 
-**SECTION-DATA-IDS**
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right no more than two times per calendar year.
 
-Facilitates caching of content on the browser to make pages load faster.
+#### Right to opt-out
 
-**PRIVATE\_CONTENT\_VERSION**
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
 
-Facilitates caching of content on the browser to make pages load faster.
+Under Colorado law this concerns the following purposes:
 
-**X-MAGENTO-VARY**
+1. targeted advertising;
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
 
-Facilitates caching of content on the server to make pages load faster.
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
 
-**MAGE-TRANSLATION-FILE-VERSION**
+### Connecticut
 
-Facilitates translation of content to other languages.
+#### Right to Data Portability
 
-**MAGE-TRANSLATION-STORAGE**
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
 
-Facilitates translation of content to other languages.
+We are not required to reveal any trade secret.
 
-[![logo white lettering](https://www.tevet.com/hs-fs/hubfs/TVT%20Logos/logo%20white%20lettering.png?width=175&name=logo%20white%20lettering.png)](https://www.tevet.com/?hsLang=en)
+#### Right to opt-out
 
-##### EXPLORE
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
 
-EXPLORE
+Under the CTDPA this concerns the following purposes:
 
-* [Why TEVET](https://www.tevet.com/whytevet)
-* [Our Process](https://www.tevet.com/ourprocess)
-* [FAQs](https://www.tevet.com/faqs)
-* [Careers](https://www.tevet.com/careers)
-* [TEVET Transmission](https://www.tevet.com/tevet-transmission)
-* [Contact Us](https://www.tevet.com/contact)
+1. targeted advertising; or
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
 
-##### TEST EQUIPMENT
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
 
-TEST EQUIPMENT
+### Montana
 
-* [Keysight](https://www.tevet.com/partners/keysight)
-* [National Instruments (NI)](https://www.tevet.com/partners/ni)
-* [Rohde & Schwarz](https://www.tevet.com/partners/rohde)
-* [Tektronix](https://www.tevet.com/partners/tektronix)
-* [Liberty Platform Solutions](https://liberty.tevet.com/)
+#### Right to Data Portability
 
-![sdvosbhub](https://www.tevet.com/hs-fs/hubfs/sdvosbhub.png?width=175&name=sdvosbhub.png)
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
 
-* [Privacy Policy](https://www.tevet.com/privacy)
+We are not required to reveal any trade secret.
 
-© 2024 TEVET | SDVOSB & HUBZONE
+#### Right to opt-out
 
-[Facebook](https://www.facebook.com/TEVETyourveteransource) [Linkedin](https://www.linkedin.com/company/tevet-llc/)
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
 
-[Return to top](javascript:)
+Under the MCDPA this concerns the following purposes:
+
+1. targeted advertising; or
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+### Nevada
+
+#### Right to opt-out
+
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+### Oregon
+
+#### Right to Data Portability
+
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+
+We are not required to reveal any trade secret.
+
+#### Right to opt-out
+
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
+
+Under the OCPA this concerns the following purposes:
+
+1. targeted advertising; or
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+### Texas
+
+#### Right to Data Portability
+
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+
+We are not required to reveal any trade secret.
+
+#### Right to opt-out
+
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
+
+Under the TDPSA this concerns the following purposes:
+
+1. targeted advertising; or
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+### Utah
+
+#### Right to Data Portability
+
+When exercising the right to Access personal data, you have the right to obtain the personal data that you previously provided to us as a controller in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance.
+
+#### Right to opt-out
+
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
+
+Under the UCPA this concerns the following purposes:
+
+1. targeted advertising; or
+2. the sale of personal data.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+### Virginia
+
+#### Right to Data Portability
+
+When exercising the right to Access personal data , you have the right to obtain the personal data in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another entity without hindrance. You may exercise this right no more than two times per calendar year.
+
+#### Right to opt-out
+
+You may submit a request directing us not to make certain disclosures of personal information we maintain about you.
+
+Under the CDPA this concerns the following purposes:
+
+1. targeted advertising;
+2. the sale of personal data; or
+3. profiling in furtherance of decisions that produce legal or similarly significant effects concerning a consumer.
+
+For more information about the possibility of submitting an opt-out request, please refer to our Opt-out preferences page.
+
+10\. Children
+-------------
+
+Our website is not designed to attract children and it is not our intent to collect personal data from children under the age of consent in their country of residence. We therefore request that children under the age of consent do not submit any personal data to us.
+
+11\. Contact details
+--------------------
+
+TEVET LLC.  
+310 T Elmer Cox Dr, Greeneville, TN 37743  
+  
+United States  
+Website: [https://tevet.com](https://tevet.com/)  
+Email: sales@tevet.com  
+  
+
+![TEVET](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/logo-tevet.svg)
+
+* [Test & Measurement Equipment](https://tevet.com/test-measurement-equipment/)
+* [LIBERTY Platform](https://tevet.com/liberty/)
+* [Partners](https://tevet.com/partners/)
+
+* [About TEVET](https://tevet.com/about/)
+* [Our Process](https://tevet.com/about/our-process/)
+* [Careers](https://tevet.com/about/careers/)
+* [Contact Us](https://tevet.com/contact/)
+
+* [Blog](https://tevet.com/news/)
+* [FAQs](https://tevet.com/resources/faqs/)
+
+![](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/icon-sdvosb.svg)
+
+![HUBZone](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/icon-hubzone.svg)
+
+* [![Facebook](//eadn-wc04-14473263.nxedge.io/wp-content/uploads/facebook-icon-white.svg)](https://www.facebook.com/TEVETyourveteransource)
+* [![LinkedIn](//eadn-wc04-14473263.nxedge.io/wp-content/uploads/linkedin-icon-white.svg)](https://www.linkedin.com/company/tevet-llc/)
+* [![Twitter](//eadn-wc04-14473263.nxedge.io/wp-content/uploads/x-icon-white.svg)](https://twitter.com/tevetllc)
+
+© 2024 TEVET. All Rights Reserved
+
+* [Cookie Policy](https://tevet.com/opt-out-preferences/?cmplz_region_redirect=true)
+* [Privacy Statement](https://tevet.com/privacy-statement-us/?cmplz_region_redirect=true)
+
+![TEVET](https://eadn-wc04-14473263.nxedge.io/wp-content/uploads/cropped-TEVET-red-3546-black-on-transparent-1.webp)
+
+Manage Consent
+
+To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+
+Functional  Functional Always active
+
+The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+
+Preferences  Preferences
+
+The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+
+Statistics  Statistics
+
+The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you.
+
+Marketing  Marketing
+
+The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+[Manage options](#) [Manage services](#) [Manage {vendor\_count} vendors](#) [Read more about these purposes](https://cookiedatabase.org/tcf/purposes/)
+
+Accept Deny View preferences Save preferences [View preferences](#)
+
+[{title}](#) [{title}](#) [{title}](#)
+
+Manage consent
