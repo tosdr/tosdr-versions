@@ -40,8 +40,6 @@ search
         * [On-Demand Intelligence](https://www.maxar.com/maxar-intelligence/products/on-demand-intelligence)
             * [MGP Pro](https://www.maxar.com/maxar-intelligence/products/mgp-pro)
             * [Crow's Nest](https://www.maxar.com/maxar-intelligence/products/crows-nest)
-            * [ClimateDesk](https://www.maxar.com/maxar-intelligence/products/climatedesk)
-            * [WeatherDesk](https://www.maxar.com/maxar-intelligence/products/weatherdesk)
             * [SeaStar](https://www.maxar.com/maxar-intelligence/products/seastar-information-service)
             * [Spatial on Demand](https://www.maxar.com/maxar-intelligence/products/spatial-on-demand)
     * Who We Serve
