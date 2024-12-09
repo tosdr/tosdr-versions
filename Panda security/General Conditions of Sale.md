@@ -11,50 +11,6 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-### BlackFriday! **\-70%** on our plans
-
-0 0
-
-Days
-
-0 0
-
-Hours
-
-0 0
-
-Minutes
-
-0 0
-
-Seconds
-
-\-70%
-
-[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=blackfriday2024&track=190478)
-
-### CyberMonday! **\-60%** on our plans
-
-0 0
-
-Days
-
-0 0
-
-Hours
-
-0 0
-
-Minutes
-
-0 0
-
-Seconds
-
-\-60%
-
-[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=cybermonday2024&track=190478)
-
 ![Panda Security](/rfilescms/Teaser/CAMPAIGNS/XMAS/pandasecurity-image-teaser-rnw-xmas.png)
 
 ### Merry Christmas!
@@ -234,8 +190,6 @@ Only available for 48 hours!
 
 : :
 
-: :
-
 \*Only for home users
 
 Email 
@@ -249,8 +203,6 @@ Renew and get 50% off
 ![image](/rfilescms/Teaser/RET/pandasecurity-generic-modal-desktop.webp)
 
 Only available for 48 hours!
-
-: :
 
 : :
 
@@ -273,18 +225,6 @@ Only available for 48 hours!
 : :
 
 : :
-
-\*Only for home users
-
-Email 
-
-Customer ID 
-
-Renew Panda Dome
-
-Halloween Special Offer: Renew and get 60% off
-
-Only available for 48 hours!
 
 \*Only for home users
 
