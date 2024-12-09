@@ -769,7 +769,7 @@ Cookie Policy
 
 Bain uses cookies to improve your experience throughout our website. More information about how and why we use cookies and how you can manage them can be found in this policy.
 
-_Last updated on 10 January 2024_
+_Last updated on 9 December 2024_
 
 [MANAGE COOKIE SETTINGS](#)
 
@@ -801,9 +801,9 @@ Our Sites cannot function without such Cookies and they are therefore automatica
 |     |     |
 | --- | --- |
 | **Company** | **Domain** |
-| Bain & Company, Inc. | go.bain.com, login.bain.com, www.bain.com, www.coro.io, go.dealedge.com, www.dealedge.com, www.frwd.com, www.netpromotersystem.com |
-| BeyondWords | audio.beyondwords.io, beyondwords.io, speechkit.io, .spkt.io |
-| TrustArc | .trustarc.com |
+| Bain & Company, Inc. | bain.com, dealedge.com, go.bain.com, go.dealedge.com, login.bain.com, netpromotersystem.com, www.bain.com, www.dealedge.com, www.netpromotersystem.com |
+| BeyondWords | spkt.io |
+| TrustArc | consent-pref.trustarc.com, consent-st.trustarc.com, consent.trustarc.com, .trustarc.com |
 
 _**Functional Cookies**_
 
@@ -814,13 +814,11 @@ If you are an account holder on one of our Sites, we may use Cookies to collect 
 |     |     |
 | --- | --- |
 | **Company** | **Domain** |
-| Bain & Company, Inc. | bain.com, go.bain.com, www.bain.com, coro.io, www.coro.io, dealedge.com, go.dealedge.com, www.dealedge.com, frwd.com, www.frwd.com, netpromotersystem.com, www.netpromotersystem.com |
-| Brightcove | brightcove.com |
-| Google Inc. | www.google-analytics.com |
-| Marketo | app-ab12.marketo.com |
-| Zoho Corporation Pvt. Ltd. | crm.zoho.eu |
+| Bain & Company, Inc. | bain.com, dealedge.com, go.bain.com, go.dealedge.com, netpromotersystem.com, www.bain.com, www.dealedge.com, www.netpromotersystem.com |
+| Brightcove | brightcove.com, players.brightcove.net |
+| Embedly | cdn.embed.ly, embed.ly |
+| HubSpot | hsforms.com, hsforms.net |
 | ZoomInfo | ws.zoominfo.com |
-| uCalc | api.ucalc.pro |
 
 _**Targeting Cookies**_
 
@@ -832,16 +830,14 @@ We may also use Cookies to enable you to share content on networking or social m
 | --- | --- |
 | **Company** | **Domain** |
 | Bain & Company, Inc. | bain.com |
-| BeeswaxIO Corporation | bidr.io |
-| Demandbase, Inc. | company-target.com |
-| Google Advertising Products | doubleclick.net |
-| Google Inc. | youtube.com |
-| LinkedIn Marketing Solutions | adsymptotic.com |
-| LinkedIn | ads.linkedin.com |
-| LiveRamp, Inc. | rlcdn.com |
-| Microsoft | bat.bing.com |
-| Twitter | twitter.com |
-| Yandex | mc.yandex.ru |
+| Google Advertising Products | doubleclick.net, \*.fls.doubleclick.net, www.youtube.com, youtube.com |
+| Google Inc. | i.ytimg.com |
+| Index Exchange Inc. | casalemedia.com |
+| LinkedIn | ads.linkedin.com, linkedin.com, px.ads.linkedin.com, www.linkedin.com |
+| Magnite CTV, Inc. | tremorhub.com |
+| Magnite, Inc. | pixel.rubiconproject.com, rubiconproject.com |
+| Meta (formerly Facebook) | connect.facebook.net, facebook.com, www.facebook.com |
+| Twitter | t.co, twitter.com |
 
 **Managing Cookies**
 
