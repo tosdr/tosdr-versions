@@ -213,16 +213,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/mestni-muzej](https://mgml.si/sl/mestni-muzej)
     
-    [10:00 Ritam francuske kulture 2024](javascript:void(0);)
-    
-    **19.04.2024 | 10:00**
-    
-    **RITAM FRANCUSKE KULTURE 2024** (18.4.-8.12.2024.)
-    
-    [**PROGRAM**](https://www.institutfrancais.rs/ritam-francuske-kulture/)
-    
-    [http://www.institutfrancais.rs](http://www.institutfrancais.rs/)
-    
     [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -259,22 +249,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
     
-    [10:00 Vladimir R. Petković, BG](javascript:void(0);)
-    
-    **25.09.2024 | 10:00**
-    
-    **[SANU, Beograd](http://seecult.org/institucija/sanu-beograd)**
-    
-    Galerija SANU, Knez Mihailova 35, Beograd
-    
-    **VLADIMIR R. PETKOVIĆ: UTEMELJITELJ STRUKE I NAUKE** - izložba (24.9-8.12.2024.)
-    
-    autorka: Dubravka Preradović
-    
-    organizacija: Narodni muzej Srbije i Srpska akademija nauka i umetnosti
-    
-    [https://www.sanu.ac.rs](https://www.sanu.ac.rs/)
-    
     [10:00 Marie Hué, BG](javascript:void(0);)
     
     **25.09.2024 | 10:00**
@@ -295,14 +269,36 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://mgml.si/sl/galerija-jakopic](https://mgml.si/sl/galerija-jakopic)
     
+    [10:00 Dexter Sinister X Cukrarna: Siva Cona, LJ](javascript:void(0);)
+    
+    **03.10.2024 | 10:00**
+    
+    Cukrarna, Poljanski nasip 40, Ljubljana
+    
+    **DEXTER SINISTER X CUKRARNA: SIVA CONA** (2.10.2024.-30.9.2025.)
+    
+    [https://cukrarna.art/sl/program/novice/17/siva-cona/](https://cukrarna.art/sl/program/novice/17/siva-cona/)
+    
+    [10:00 Čuvajte (mi) Jugoslaviju, BG](javascript:void(0);)
+    
+    **10.10.2024 | 10:00**
+    
+    Muzej Jugoslavije, Mihaila Mike Jankovića 6, Beograd
+    
+    **ČUVAJTE (MI) JUGOSLAVIJU** - izložba povodom 90 godina od atentata kralja Aleksandra I Karađorđevića u Marseju (9.10.2024-31.3.2025.)
+    
+    organizacija: Ministarstvo kulture Republike Srbije, Muzej Jugoslavije
+    
+    [http://www.kultura.gov.rs](http://www.kultura.gov.rs/)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/proljece.jpg?itok=wuHWTOBB)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumenti/documents/skc-beograd.jpg?itok=wGvipM5G)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-dokumentidocuments)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin/dscf4369.jpg?itok=GiGwUFGn)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/zoran-predin)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/milosevicu.jpg?itok=Th0Xk2vw)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -318,16 +314,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Posveta katedrali Notr-Dam](http://seecult.org/vest/posveta-katedrali-notr-dam)
+* [Slijepčeviću evropski Oskar za kratki film o Štrpcima](http://seecult.org/vest/slijepcevicu-evropski-oskar-za-kratki-film-o-strpcima)
 * [Dani italijanskog filma u Beogradu](http://seecult.org/vest/dani-italijanskog-filma-u-beogradu)
+* [Osuda nasilja nad muzičarima BGF, otkazan koncert](http://seecult.org/vest/osuda-nasilja-nad-muzicarima-bgf-otkazan-koncert)
 * [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
 * [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
 * [Dražen u bioskopima](http://seecult.org/vest/drazen-u-bioskopima)
 * [Novi Uobraženi bolesnik](http://seecult.org/vest/novi-uobrazeni-bolesnik)
-* [Marija Ručara u MPU](http://seecult.org/vest/marija-rucara-u-mpu)
-* [MSUB: Hvala Raši Todosijeviću!](http://seecult.org/vest/msub-hvala-rasi-todosijevicu)
-* [Preminuo Raša Todosijević](http://seecult.org/vest/preminuo-rasa-todosijevic)
 
 * [Konkursi](#tab1_1)
 
