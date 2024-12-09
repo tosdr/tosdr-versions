@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Enjoy unlimited access**
+**Subscribe today**
 
-Only $2.99 a month
+Every print subscription comes with full digital access
 
-[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -94,7 +94,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")34 mins ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")5 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -147,6 +147,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
+            
+            ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
+            
+            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")3 hours ago
+            
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
@@ -158,12 +164,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
             By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")December 5, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
