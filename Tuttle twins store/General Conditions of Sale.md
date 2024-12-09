@@ -1,8 +1,8 @@
 [Skip to content](#MainContent)
 
-[**Cyber Week: 70% Off + Gifts**](https://tuttletwins.store/collections/shop-all)
-
 [**Free shipping on orders $70+ (US Only)**](https://tuttletwins.store/collections/shop-all)
+
+[**Order by Dec. 11 for Christmas Delivery!**](https://tuttletwins.store/collections/shop-all)
 
    
 
@@ -24,20 +24,6 @@ SECS](https://tuttletwins.store/collections/black-friday-early-preview)
 
     
 
-* Best Deals
-    
-    Best Deals
-    
-    * [$5 Shirts](https://tuttletwins.store/collections/bfcm-5-shirts)
-    * [10% Off](https://tuttletwins.store/collections/bfcm-10)
-    * [20% Off](https://tuttletwins.store/collections/bfcm-20)
-    * [30% Off](https://tuttletwins.store/collections/bfcm-30-off)
-    * [40% Off](https://tuttletwins.store/collections/bfcm-40)
-    * [50% Off](https://tuttletwins.store/collections/bfcm-50-off)
-    * [60% Off](https://tuttletwins.store/collections/bfcm-60-off)
-    * [70% Off](https://tuttletwins.store/collections/bfcm-70-off)
-    * [Shop All](https://tuttletwins.store/collections/black-friday-early-preview)
-    
 * [Home](https://tuttletwins.store/)
 * Shop Shows
     
@@ -362,49 +348,10 @@ USD $ | United States
 * [TikTok](https://www.tiktok.com/@angelstudiosinc)
 * [YouTube](https://www.youtube.com/channel/UCQIjTyWmLEdsfqMQay0yGMA)
 
-[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Shop All Deals](https://tuttletwins.store/collections/black-friday-early-preview)
+[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Shop Deals](https://tuttletwins.store/collections/the-shift-empty-tomb-jewelry)
 
-[Shop All Deals](https://tuttletwins.store/collections/black-friday-early-preview)
+[Shop Deals](https://tuttletwins.store/collections/the-shift-empty-tomb-jewelry)
 
-* Best Deals
-    
-    * [![header icon](//shop.angel.com/cdn/shop/files/All_Deals_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/black-friday-early-preview)
-        
-        All Deals
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/5_Shirts_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-5-shirts)
-        
-        $5 Shirts
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/70_Off_1024x1024.png?v=1732135996)](https://tuttletwins.store/collections/bfcm-70-off)
-        
-        70% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/60_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-60-off)
-        
-        60% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/50_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-50-off)
-        
-        50% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/40_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-40)
-        
-        40% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/30_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-30-off)
-        
-        30% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/Christmas_Icons_100_x_100_px_1024x1024.png?v=1732299933)](https://tuttletwins.store/collections/bfcm-20)
-        
-        20% Off
-        
-    * [![header icon](//shop.angel.com/cdn/shop/files/10_Off_1024x1024.png?v=1732135995)](https://tuttletwins.store/collections/bfcm-10)
-        
-        10% Off
-        
-    
 * Shop Shows
     
     Shop Shows
@@ -564,32 +511,6 @@ Check out
 Continue shopping
 
 [Hi ! You have   PTS](https://shop.angel.com/apps/bubblehouse/rewards/)
-
-![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
-
-SPEND $50
-
-Free Gift ($9 Value)
-
-![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
-
-SPEND $75
-
-Free Gift ($25 Value)
-
-![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
-
-SPEND $100
-
-Free Gift ($90 Value)
-
-![](https://cdn.shopify.com/extensions/c42d7306-123f-410b-ad7e-a70f21690f3b/gratify-30/assets/free-gift_26x.png)
-
-SPEND $250
-
-Free Gift ($180 Value)
-
-\*SELECT GIFTS AT CHECKOUT. EXCLUDES DIGITAL GOODS.
 
 Refund policy
 =============
