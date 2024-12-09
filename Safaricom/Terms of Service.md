@@ -229,6 +229,18 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 9, 2024
+
+> Quick & efficient
+
+> Very fast response, polite - impressive
+
+Eduardo Rocha
+
+,
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 7, 2024
 
 > Went through Newmarket travel and Hays…
@@ -330,20 +342,6 @@ US
 > Pascal John at Safari.com guided me on different safari lodges (experience, rating), and most importantly knew about specials (buy 3 nights, get 4th for free) which allowed my family to secure a 5-star location at a more reasonable rate. Great advice, responsive and knowledgeable!
 
 Rebecca Cauffman
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 29, 2024
-
-> Fast responses and informative answers.
-
-> Fast responses and informative answers.
-
-Zadra Morgan
 
 ,
 
