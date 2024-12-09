@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/media-censorship/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/lichtverschijnselen-manifestaties-uit-andere-bewustzijnsvormen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
