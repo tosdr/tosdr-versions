@@ -1,5 +1,7 @@
 Due to high demand USPS orders may not ship for up to 3-4 business days.
 
+Glitch your gift list! Use code [gibson15](https://blog.adafruit.com/2024/12/09/gibson15/) for 15% off the [2024 Adafruit Holiday Gift Guide](https://www.adafruit.com/explore/holiday-gift-guide-2024)!
+
   Skip Navigation
 
  [![Adafruit Logo](/includes/templates/shop2019/images/adafruit_logo_small.png "Adafruit")](https://www.adafruit.com/)toggle menu
@@ -406,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle”
+“ People who are really serious about software should make their own hardware”
 
-[Steve Jobs](http://www.youtube.com/watch?v=UF8uR6Z6KLc)
+[Alan Kay](http://en.wikiquote.org/wiki/Alan_Kay)
 
 [](https://www.adafruit.com/about)
 
