@@ -1,3 +1,5 @@
+[Breaking: Report: Georgia QB Carson Beck seeks second opinion on elbow injury](https://www.ajc.com/sports/georgia-bulldogs/carson-beck-dealing-with-ucl-injury-georgia-qb-status-for-sugar-bowl-uncertain/ZI7FTDL2SJDCPAZJQMPOE7O6QQ/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1871)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1871)](https://www.ajc.com/)
 
 Log In
