@@ -142,9 +142,9 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [Juan Soto](https://www.barstoolsports.com/blog/3533438/the-mets-sign-juan-soto-to-a-15-year-dollar765-million-contract-which-is-the-largest-deal-in-the-history-of-professional-sports)
 * [Surviving Barstool](https://www.barstoolsports.com/video/3533135/surviving-barstool-s4-ep.-3-or-shocking-betrayal-rocks-the-tribes)
-* [Stool Scenes](https://www.barstoolsports.com/video/3533341/office-reacts-to-surviving-barstools-shocking-eliminations-or-stool-scenes)
-* [Gruden's Crew](https://www.barstoolsports.com/blog/3533383/the-search-for-coach-jon-grudens-crew-brought-us-guys-from-every-corner-of-the-internet)
+* [Surviving Barstool Office Reactions](https://www.barstoolsports.com/video/3533341/office-reacts-to-surviving-barstools-shocking-eliminations-or-stool-scenes)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 
