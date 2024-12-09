@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/november-2012-bijzondere-licht-ufos-op-tenerife/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/deze-6-illusies-houden-ons-in-de-slavernij-matrix/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
