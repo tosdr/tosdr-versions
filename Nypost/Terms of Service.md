@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Jay-Z accused of raping girl, 13, with Sean 'Diddy' Combs more than 2 decades ago: bombshell lawsuit](https://nypost.com/2024/12/08/entertainment/jay-z-accused-of-raping-girl-13-with-sean-diddy-combs-more-than-2-decades-ago-bombshell-lawsuit/)
+
 Terms Of Use
 ============
 
