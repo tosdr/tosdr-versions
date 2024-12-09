@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")1 hour ago
+            
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")1 hour ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")December 6, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [How the weight loss drug tirzepatide is also helping heart failure patients](https://www.sciencenews.org/article/weight-loss-drug-tirzepatide-heart)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")December 6, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -147,6 +147,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Artificial Intelligence](https://www.sciencenews.org/topic/artificial-intelligence)
+            
+            ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
+            
+            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")5 hours ago
+            
         * [Climate](https://www.sciencenews.org/topic/climate)
             
             ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
@@ -158,12 +164,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Meet a scientist tracking cactus poaching in the Atacama Desert](https://www.sciencenews.org/article/cactus-poaching-desert-pablo-guerrero)
             
             By [Rebecca Dzombak](https://www.sciencenews.org/author/rebecca-dzombak "Posts by Rebecca Dzombak")December 5, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Climate stress may undermine male spiders’ romantic gift giving](https://www.sciencenews.org/article/climate-stress-male-spiders-gift-giving)
-            
-            By [Susan Milius](https://www.sciencenews.org/author/susan-milius "Posts by Susan Milius")December 5, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -207,7 +207,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
-            ### [Astronomers detect the first astrosphere around a sunlike star](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
+            ### [Astronomers see the astrosphere of a sunlike star for the first time](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
             
