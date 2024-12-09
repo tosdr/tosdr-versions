@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    
+    ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    
+    [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+    
+    ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+    
+    [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+    
+    ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+    
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
     
     ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
@@ -44,18 +56,6 @@
     [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
     ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
-    
-    [![South Western Railway (Flickr @MangopearUK)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-15.08-360x180.jpg)](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
-    
-    ### [Rail firm with services from Waterloo first to be nationalised next year](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
-    
-    [![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-360x180.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-    
-    ### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-    
-    [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-    
-    ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    
+    ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+    
+    [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+    
+    ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+    
+    [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+    
+    ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+    
     [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
     
     ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
@@ -130,18 +142,6 @@ View All Result
     [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
     ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
-    
-    [![South Western Railway (Flickr @MangopearUK)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-15.08-360x180.jpg)](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
-    
-    ### [Rail firm with services from Waterloo first to be nationalised next year](https://southwarknews.co.uk/area/borough/rail-firm-with-services-from-london-bridge-first-to-be-nationalised-next-year/)
-    
-    [![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-360x180.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-    
-    ### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-    
-    [![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-360x180.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-    
-    ### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -245,6 +245,24 @@ Terms of Use
 
 ### Featured Articles
 
+[![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+
+### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+
+[9th December 2024](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
+
+[![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+
+### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+
+[9th December 2024](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
+
+[![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+
+### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+
+[9th December 2024](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
+
 [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
 ### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
@@ -262,24 +280,6 @@ Terms of Use
 ### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
 
 [8th December 2024](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-
-[![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-[8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-
-[![Sarah Ferguson, the Duchess of York reading and serving food to children in Walworth.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-12.43-120x86.jpg)](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-
-### [Duchess of York surprises Walworth school children with a visit](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-
-[8th December 2024](https://southwarknews.co.uk/area/walworth/duchess-of-york-surprises-walworth-school-children-with-a-visit/)
-
-[![Players were more than happy to treat young patients to sacks of gifts](https://southwarknews.co.uk/wp-content/uploads/2024/12/phpto-4-120x86.jpg)](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-
-### [Millwall players visit hospital to kick off Christmas toy appeal](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
-
-[7th December 2024](https://southwarknews.co.uk/news/community/millwall-players-visit-hospital-to-kick-off-hospital-christmas-toy-appeal/)
 
 ### USEFUL PAGES
 
