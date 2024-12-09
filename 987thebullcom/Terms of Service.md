@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Had Some HelpPost Malone Ft Morgan Wallen<br><br>10:36am |
-| Good VibesChris Janson<br><br>10:34am |
-| Sounds Like The RadioZach Top<br><br>10:30am |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>10:27am |
-| Shouldve Been A CowboyToby Keith<br><br>10:24am |
+| Pretty Little PoisonWarren Zeiders<br><br>4:38pm |
+| Craving YouThomas Rhett Ft Maren Morris<br><br>4:34pm |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:31pm |
+| Where It'S AtDustin Lynch<br><br>4:27pm |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,21 +360,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
-Spanish • Western
+Country • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+News Talk • Eastern
 
 [](https://www.alphamediausa.com/)
 
