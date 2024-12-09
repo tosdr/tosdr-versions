@@ -1,9 +1,7 @@
 [![Web
 Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ "Web Analytics")
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
+ [![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
 
 * [Features](https://zenkit.com/en/features/)
 * [Pricing](https://zenkit.com/en/pricing/)
@@ -14,9 +12,7 @@ Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ 
 * [Log in](https://app.zenkit.com/login)
 * [Get started](https://app.zenkit.com/register)
 
-* [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
+* [![](https://zenkit.com/wp-content/themes/zenkit-com/img/logos/zenkit-logo-web.svg)](https://zenkit.com/en/ "Zenkit")
     
     Zenkit Projects organizes your projects - perfectly integrated with the other collaboration solutions in our suite.
     
@@ -37,16 +33,8 @@ Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ 
 * [Log in](https://app.zenkit.com/login "Log in")
 * [Get started](https://app.zenkit.com/register "Get started")
 
-* ![Globe icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Globe icon](/wp-content/uploads/2020/03/globe.svg)
-    
-    English
-    * [![de](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAATAQAAAABaKwthAAAAAnRSTlMAAHaTzTgAAAAMSURBVAjXY2CgHgAAAEwAAZ9MFzMAAAAASUVORK5CYII= "Deutsch")
-        
-        ![de](https://zenkit.com/wp-content/themes/zenkit-com/wpml/templates/language-switchers/zenkit-dropdown-switcher/flags/de.png "Deutsch")
-        
-        Deutsch](https://zenkit.com/de/internet-datenschutz/)
+* ![Globe icon](/wp-content/uploads/2020/03/globe.svg)English
+    * [![de](https://zenkit.com/wp-content/themes/zenkit-com/wpml/templates/language-switchers/zenkit-dropdown-switcher/flags/de.png "Deutsch")Deutsch](https://zenkit.com/de/internet-datenschutz/)
 
 * [Products](# "Products")
     * [Zenkit](https://zenkit.com/en/projects/ "Zenkit")
@@ -76,13 +64,9 @@ Analytics](//c.statcounter.com/10546969/0/7fa3ddee/1/)](http://statcounter.com/ 
     * [Knowledge Base](https://zenkit.freshdesk.com/en/support/home "Knowledge Base")
     * [Contact](https://zenkit.com/contact/ "Contact")
 
-[![Badge of Apple App Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![Badge of Apple App Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8)
 
-![Badge of Apple App Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8)
-
-[![Badge of Android Play Store](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Badge of Android Play Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit)
+[![Badge of Android Play Store](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit)
 
 Web Privacy Policy
 ------------------
@@ -97,11 +81,7 @@ This privacy policy applies to the use of the Zenkit marketing page. The privacy
 
 Zenkit is the multi-project management solution for agile and classical projects.
 
-[![Play Store Badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Play Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit "Zenkit Play Store")[![Apple Store Badge](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Apple Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8 "Zenkit Apple Store")
+ [![Play Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/google-play-badge.svg)](https://play.google.com/store/apps/details?id=com.zenkit.zenkit "Zenkit Play Store")[![Apple Store Badge](https://zenkit.com/wp-content/themes/zenkit-com/img/batches/apple-store-badge.svg)](https://itunes.apple.com/us/app/zenkit/id964755085?ls=1&mt=8 "Zenkit Apple Store")
 
 ### Products
 
@@ -141,11 +121,7 @@ Zenkit is the multi-project management solution for agile and classical projects
 
 Any questions about Zenkit Projects? Give us a call.
 
-[![Phone Icon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![Phone Icon](https://zenkit.com/wp-content/themes/zenkit-com/img/todo/phone.svg)
-
-+49 721 35 28 375](tel:00497213528375)
+ [![Phone Icon](https://zenkit.com/wp-content/themes/zenkit-com/img/todo/phone.svg) +49 721 35 28 375](tel:00497213528375)
 
 [Deutsch](https://zenkit.com/de/internet-datenschutz/)[English](https://zenkit.com/en/web-privacy/)[Français](https://zenkit.com/fr/)[Español](https://zenkit.com/es/)[Italiano](https://zenkit.com/it/)[Português](https://zenkit.com/pt-br/)[한국어](https://zenkit.com/ko/)[Русский](https://zenkit.com/ru/)[繁體中文](https://zenkit.com/zh-hant/)[日本語](https://zenkit.com/ja/)
 
