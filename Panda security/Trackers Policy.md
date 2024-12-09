@@ -11,50 +11,6 @@ If this is not what you’re looking for,
 
 [Visit our Welcome Page!](https://www.pandasecurity.com/)
 
-### BlackFriday! **\-70%** on our plans
-
-0 0
-
-Days
-
-0 0
-
-Hours
-
-0 0
-
-Minutes
-
-0 0
-
-Seconds
-
-\-70%
-
-[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=blackfriday2024&track=190478)
-
-### CyberMonday! **\-60%** on our plans
-
-0 0
-
-Days
-
-0 0
-
-Hours
-
-0 0
-
-Minutes
-
-0 0
-
-Seconds
-
-\-60%
-
-[Buy Panda Dome](https://www.pandasecurity.com/security-promotion/?campaign=cybermonday2024&track=190478)
-
 ![Panda Security](/rfilescms/Teaser/CAMPAIGNS/XMAS/pandasecurity-image-teaser-rnw-xmas.png)
 
 ### Merry Christmas!
