@@ -187,7 +187,7 @@ Storage duration:
 
 * \_iub\_cs-\*: 1 year
 * \_iub\_cs-\*-granular: 1 year
-* euconsent-v2: 2 years
+* euconsent-v2: 12 months
 * usprivacy: 1 year
 
 #### Trackers managed by third parties
