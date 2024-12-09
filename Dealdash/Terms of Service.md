@@ -1,7 +1,7 @@
 Terms of Use
 ------------
 
-**Last Updated: November 6th, 2024**
+**Last Updated: December 9th, 2024**
 
 Each DealDash auction is sponsored by DealDash and DealDash's brand partners, and is no way sponsored, enforced, or administered by, or associated with, Apple, Inc.
 
@@ -303,7 +303,7 @@ You hereby release, and agree to defend, hold harmless, and indemnify DealDash i
 
 These Terms will continue until either party chooses to terminate them. This may be done by you at any time upon (1) receipt by DealDash of written notice of your termination, and (2) your ceasing to use and access the Service immediately. If you access or use the Service after providing notice to DealDash, you are assenting to these Terms anew. Termination of these Terms by either shall terminate any rights you may have to use any content or Services provided. Any licenses provided to DealDash to use Licensed Material shall remain in effect unless otherwise agreed to in writing by the parties.
 
-In its sole discretion, DealDash may terminate these Terms or prohibit or suspend access to the Services by you at any time, . Termination or suspension may occur for reasons set forth in these Terms including, without limitation, if: (a) your use of the Service violates these terms or any applicable policy or guideline, is potentially illegal or harmful to DealDash or any other party, or could subject DealDash to liability or additional expense; (b) providing the Service becomes technically or commercially unfeasible; or (c) you fail to pay any charges due to DealDash.
+In its sole discretion, DealDash may terminate these Terms or prohibit or suspend access to the Services by you at any time, without prior notice or liability. Termination or suspension may occur for reasons set forth in these Terms including, without limitation, if: (a) your use of the Service violates these terms or any applicable policy or guideline, is potentially illegal or harmful to DealDash or any other party, or could subject DealDash to liability or additional expense; (b) providing the Service becomes technically or commercially unfeasible; or (c) you fail to pay any charges due to DealDash.
 
 34. **Dispute Resolution – Agreement to Arbitration and Waiver of Class Rights**
 
