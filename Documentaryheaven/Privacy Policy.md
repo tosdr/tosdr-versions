@@ -118,49 +118,49 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
-    
-    Objectified
-    
-    Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
 * [![Pedigree Dogs Exposed](/wp-content/thumbnails/2539-100x70.jpg?x53432)
     
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![The Doomsday Code](/wp-content/thumbnails/960-100x70.jpg?x53432)
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
-    The Doomsday Code
+    The Fog of War
     
-    What is the real source of these ideas that so many people attribute to the book of Revelation? Whoever wrote it sheltered in a cave on the Greek island of Patmos, probably a refugee from Roman occupi...](https://documentaryheaven.com/the-doomsday-code/ "The Doomsday Code")
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![The Hour Of Our Time: The Legacy of William Cooper](/wp-content/thumbnails/1157-100x70.jpg?x53432)
+    
+    The Hour Of Our Time: The Legacy of William Cooper
+    
+    Surrounding us in our day-to-day lives are mysteries, that to spend our days pondering would paralyze us from leading productive lives. So we turn away from these thoughts in order to seek out as trou...](https://documentaryheaven.com/the-hour-of-our-time-the-legacy-of-william-cooper/ "The Hour Of Our Time: The Legacy of William Cooper")
 
 ###### Throwback Documentaries
 
-* [![Maybe Logic](/wp-content/thumbnails/4640-100x70.jpg?x53432)
+* [![7/7: Ripple Effect](/wp-content/thumbnails/2370-100x70.png?x53432)
     
-    Maybe Logic
+    7/7: Ripple Effect
     
-    Guerrilla ontologist. Psychedelic magician. Outer head of the Illuminati. Quantum psychologist. Sit-down comic/philosopher. Discordian Pope. Whatever the label and rank, Robert Anton Wilson is undenia](https://documentaryheaven.com/maybe-logic/ "Maybe Logic")
-* [![Right America: Feeling Wronged](/wp-content/thumbnails/589-100x70.png?x53432)
+    Verint Systems is the security firm that is responsible for the CCTV surveillance cameras, in the London Underground rail network, and it is an Israeli company, with approximately 1000 employees. This](https://documentaryheaven.com/77-ripple-effect/ "7/7: Ripple Effect")
+* [![Roving Mars](/wp-content/thumbnails/3398-100x70.jpg?x53432)
     
-    Right America: Feeling Wronged
+    Roving Mars
     
-    On the day Barack Obama was elected the 44th President, more than 58 million voters cast their ballots for John McCain. In the months leading up to this historic election, filmmaker Alexandra Pelosi t](https://documentaryheaven.com/right-america-feeling-wronged/ "Right America: Feeling Wronged")
-* [![Race To The Bottom: Ireland](/wp-content/thumbnails/7053-100x70.jpg?x53432)
+    Mars is Earth’s closest planetary neighbor, and for decades scientists have been curious about the so-called “Red Planet,” wondering if it’s possible that life exists there, how its soil and terrain d](https://documentaryheaven.com/roving-mars/ "Roving Mars")
+* [![I Woke Up Gay](/wp-content/thumbnails/7804-100x70.jpg?x53432)
     
-    Race To The Bottom: Ireland
+    I Woke Up Gay
     
-    This film delves into Irish horsemeat scandal, revealing a systematic criminal harvest of thousands of horses, which netted millions and stretches well beyond Ireland’s borders.When Ireland’s Food](https://documentaryheaven.com/race-to-the-bottom-ireland/ "Race To The Bottom: Ireland")
-* [![In Search of Putin’s Money](/wp-content/thumbnails/6745-100x70.jpg?x53432)
+    In the small town of Ystrad Mynach, South Wales, seven years ago, a 19-stone rugby-playing ladies man and bank clerk Chris Birch snapped his neck while larking around doing somersaults and backflips w](https://documentaryheaven.com/woke-up-gay/ "I Woke Up Gay")
+* [![Can You Hack It? – Hackers Wanted](/wp-content/thumbnails/5087-100x70.jpg?x53432)
     
-    In Search of Putin’s Money
+    Can You Hack It? – Hackers Wanted
     
-    Vladimir Putin was elected to serve as Russia’s president for another six years. To his supporters, such as those we encountered celebrating at an election night government rally in Moscow, Putin is a](https://documentaryheaven.com/in-search-of-putins-money/ "In Search of Putin’s Money")
-* [![Beyond The Mat](/wp-content/thumbnails/6712-100x70.jpg?x53432)
+    Hackers Wanted is an unreleased American documentary film. Directed and written by Sam Bozzo, the film explores the origins and nature of hackers and hacking by following the adventures of Adrian Lamo](https://documentaryheaven.com/can-you-hack-it-hackers-wanted/ "Can You Hack It? – Hackers Wanted")
+* [![How To Start A Revolution](/wp-content/thumbnails/6500-100x70.png?x53432)
     
-    Beyond The Mat
+    How To Start A Revolution
     
-    Beyond the Mat is a 1999 documentary directed by Barry W. Blaustein. The movie focuses on the lives of professional wrestlers outside of the ring, primarily Mick Foley, Terry Funk, and Jake Roberts, a](https://documentaryheaven.com/beyond-the-mat/ "Beyond The Mat")
+    Gene Sharp is Professor Emeritus of political science at the University of Massachusetts Dartmouth. He is known for his extensive writings on nonviolent struggle, which have influenced numerous anti-g](https://documentaryheaven.com/how-to-start-a-revolution/ "How To Start A Revolution")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
