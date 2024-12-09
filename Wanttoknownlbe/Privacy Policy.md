@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/journalist-klaagt-vn-aan-voor-poging-tot-massamoord/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-onjuiste-gemanipuleerde-bijbel/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
