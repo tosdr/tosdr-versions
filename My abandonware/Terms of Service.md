@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Xplora 1: Peter Gabriel's Secret World](https://www.myabandonware.com/game/xplora-1-peter-gabriel-s-secret-world-eyy)
-* [Alien Breed 3D 2: The Killing Grounds](https://www.myabandonware.com/game/alien-breed-3d-2-the-killing-grounds-6r3)
-* [Arcade Force Four](https://www.myabandonware.com/game/arcade-force-four-kmk)
+* [Sundance](https://www.myabandonware.com/game/sundance-smh)
+* [Columns 97](https://www.myabandonware.com/game/columns-97-sj0)
+* [Casino 5 Pack](https://www.myabandonware.com/game/casino-5-pack-ik1)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
