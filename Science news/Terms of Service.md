@@ -92,6 +92,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
+            
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")1 hour ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")December 6, 2024
@@ -101,12 +107,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [How the weight loss drug tirzepatide is also helping heart failure patients](https://www.sciencenews.org/article/weight-loss-drug-tirzepatide-heart)
             
             By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")December 6, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Climate change made 2024 the hottest year on record. The heat was deadly](https://www.sciencenews.org/article/climate-change-hottest-year-record-2024)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")December 5, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
