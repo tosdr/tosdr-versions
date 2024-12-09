@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [\[Last call\] - Advertising Disclosure… (12)](https://forum.nationstates.net/viewtopic.php?t=543397&f=9&view=unread#unread ""[Last call] - Advertising Disclosure Rules" (12 posts)")
-* [YL Reacts to above video. (70)](https://forum.nationstates.net/viewtopic.php?t=556619&f=25&view=unread#unread ""YL Reacts to above video." (70 posts)")
-* [Melbourne Synagogue Firebombing Final… (13)](https://forum.nationstates.net/viewtopic.php?t=559396&f=20&view=unread#unread ""Melbourne Synagogue Firebombing Finally Treated as Terrorism" (13 posts)")
-* [\[QUORATE\] Regulating Industrial Sand… (36)](https://forum.nationstates.net/viewtopic.php?t=557805&f=9&view=unread#unread ""[QUORATE] Regulating Industrial Sand Mining" (36 posts)")
+* [Manufactured Terror ATTN Elanore \[IC… (6)](https://forum.nationstates.net/viewtopic.php?t=559325&f=5&view=unread#unread ""Manufactured Terror ATTN Elanore [IC OPEN]" (6 posts)")
+* [Syrian Civil War: Dawn Of A New Syria (1,164)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,164 posts)")
+* [AN Out of Context III (4,770)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,770 posts)")
+* [Nation States College Football (NSCF)… (6,169)](https://forum.nationstates.net/viewtopic.php?t=72973&f=7&view=unread#unread ""Nation States College Football (NSCF) Discussion Thread" (6,169 posts)")
+* [The Collective Security League Assemb… (1,994)](https://forum.nationstates.net/viewtopic.php?t=555699&f=5&view=unread#unread ""The Collective Security League Assembly III [MT|IC]" (1,994 posts)")
 
 Advertisement
 
