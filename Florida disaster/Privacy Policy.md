@@ -224,9 +224,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, December 9, 2024**
+**Tuesday, December 10, 2024**
 
-**...****Active Weather Beginning Today Along Panhandle and Big Bend...Quick-Moving Showers This Morning Across Panhandle and Big Bend; Showers to Become Scattered to Numerous Throughout the Afternoon and Overnight Hours...Slight Risk (level 2 of 4) for Flash Flooding Along Far Western Panhandle; Marginal Risk (level 1 of 4) Extending Into Western Big Bend; Widespread Rainfall Could Bring Instances of Flash Flooding For Urban and Low-Lying/Poor Drainage Areas...Dry Conditions Throughout Peninsula Persist...Temperatures Trending Above Normal For This Time of Year...Patchy to Locally Dense Fog Possible Overnight Along West Coast & Portions of Interior South Florida Near Lake Okeechobee...Moderate to High Risk for Rip Currents Persists Along Panhandle and East Coast Beaches; Low Risk Along West Coast...**
+**...Active Weather Pattern Returns, Courtesy of Cold Front...Scattered Showers and Thunderstorms Becoming More Numerous Through the Day Across the Western Florida Panhandle...Rain Chances Spread Eastward Tonight...Isolated Flooding Possible West of US-231...A Few Thunderstorms May Produce Locally Damaging Winds or an Isolated Tornado...Partly to Mostly Cloudy Skies Elsewhere, With Near-Zero Rain Chances...Patchy Fog and Low Clouds Possible Tonight for Coastal Florida Big Bend and Florida Peninsula...Moderate to High Rip Current Risk Conditions Persist for Florida Panhandle and East Coast Beaches...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
