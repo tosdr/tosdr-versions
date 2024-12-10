@@ -36,18 +36,18 @@
         
         Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
     
-    * [![Microsoft 365 outage takes down Office web apps, admin center](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Windows 10 KB5048652 update fixes new motherboard activation bug](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
-    * [![Ditch annoying ads with this $10 lifetime AdGuard deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 10 KB5048652 update fixes new motherboard activation bug](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5048652-update-fixes-new-motherboard-activation-bug/)
+    * [![Microsoft December 2024 Patch Tuesday fixes 1 exploited zero-day, 71 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ditch annoying ads with this $10 lifetime AdGuard deal](https://www.bleepingcomputer.com/offer/deals/ditch-annoying-ads-with-this-10-lifetime-adguard-deal/)
-    * [![Chinese hackers use Visual Studio Code tunnels for remote access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft December 2024 Patch Tuesday fixes 1 exploited zero-day, 71 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2024-patch-tuesday-fixes-1-exploited-zero-day-71-flaws/)
+    * [![Windows 11 KB5048667 & KB5048685 cumulative updates released](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
-    * [![Ransomware attack hits leading heart surgery device maker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Windows 11 KB5048667 & KB5048685 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5048667-and-kb5048685-cumulative-updates-released/)
+    * [![FTC distributes $72 million in Fortnite refunds from Epic Games](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
+        FTC distributes $72 million in Fortnite refunds from Epic Games](https://www.bleepingcomputer.com/news/gaming/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -439,15 +439,15 @@ Tel: +1-646-980-4190
 
 Popular Stories
 
+* [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
 * [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Anna Jaques Hospital ransomware breach exposed data of 300K patients](https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/)
-* [![Heart](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
 
 ##### Follow us:
 
