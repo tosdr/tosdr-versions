@@ -384,7 +384,7 @@ A Cambium Learning® Group Brand
     * [Case Studies](https://www.lexialearning.com/why-lexia/case-studies)
     * [Awards](https://www.lexialearning.com/why-lexia/awards)
     * [The Future of Literacy](https://www.lexialearning.com/why-lexia/the-future-of-literacy)
-* [Research](https://www.lexialearning.com/research/) Toggle Navigation
+* [Research](https://www.lexialearning.com/Research/) Toggle Navigation
     
     * [Overview](https://www.lexialearning.com/research/)
     * [Product Efficacy](https://www.lexialearning.com/research/product-efficacy)
