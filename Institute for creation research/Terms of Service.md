@@ -165,119 +165,61 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Life Sciences Resources
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/Diverse_Devonian_Plant_1400x1050.jpg)](https://www.icr.org/article/diverse-devonian-plant-assemblage)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/the-true-charisma)
 
-[Diverse Devonian Plant Assemblage from Early Flood](https://www.icr.org/article/diverse-devonian-plant-assemblage/)
+[The True Charisma](https://www.icr.org/article/the-true-charisma/)
 
-Scientists recently discovered a diverse assemblage of fossils in South Africa claimed to be some of the earliest land plants.1 Known as seedless...
+“Let the word of Christ dwell in you richly in all wisdom; teaching and admonishing one another in psalms and hymns and spiritual songs, singing...
 
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/DNA_Sheep_Dinosaurs_1400x1050.jpg)](https://www.icr.org/article/dna-in-sheep-and-dinosaurs)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/heaven-of-heavens)
 
-[DNA in Sheep and Dinosaurs](https://www.icr.org/article/dna-in-sheep-and-dinosaurs/)
+[The Heaven of Heavens](https://www.icr.org/article/heaven-of-heavens/)
 
-About 1,600 years ago, salt miners in Iran apparently left their lamb lunch down the shaft. Their loss became scientists' gain. The now-mummified sheep...
+“But will God indeed dwell on the earth? behold, the heaven and heaven of heavens cannot contain thee; how much less this house that I have...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/Honeybee_Design_1400x1050.jpg)](https://www.icr.org/article/honeybee-design-saves-energy)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/nature-of-calling)
 
-[Honeybee Design Saves Energy](https://www.icr.org/article/honeybee-design-saves-energy/)
+[The Nature of Our Calling](https://www.icr.org/article/nature-of-calling/)
 
-Biomimicry is the making of systems or materials that are modeled after flora or fauna found in God’s creation (e.g. the artificial fabric Velcro...
+“Who hath saved us, and called us with an holy calling, not according to our works, but according to his own purpose and grace, which was given...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-More The Science Behind Recent Creation
-
-[![](/i/radio/images/psittacosaurus_keratin_wide.jpg)](https://www.icr.org/article/stretchy-dinosaur-soft-tissue)
-
-[Stretchy Dinosaur Soft Tissue](https://www.icr.org/article/stretchy-dinosaur-soft-tissue/)
-
-Scientists have been discovering original dinosaur proteins for decades. Upon cracking open the unearthed bones, scientists have found osteocytes,...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/radio/images/Grand%20Canyon%20rocks.jpg)](https://www.icr.org/article/science-behind-recent-creation-podcast)
-
-[The Science Behind Recent Creation \[Podcast\]](https://www.icr.org/article/science-behind-recent-creation-podcast/)
-
-Does the age of the universe matter? How does science confirm the Genesis record? Why can Christians confidently trust the biblical creation worldview?...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/radio/images/DNA%20mutations.jpg)](https://www.icr.org/article/mutation-rates-debunk-evolution)
-
-[Mutation Rates Debunk Human Evolution Story](https://www.icr.org/article/mutation-rates-debunk-evolution/)
-
-According to the evolutionary story, humans evolved from an unidentified ape-like ancestor over two million years ago. But this story doesn’t...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-More Radio Program
-
-[![](/i/radio/images/CW-War-Worldviews-stage.jpg)](https://www.icr.org/article/war-worldviews)
-
-[War of the Worldviews](https://www.icr.org/article/war-worldviews/)
-
-Everyone has a worldview. Evolutionism and Christianity are competing worldviews; Christianity and science are not. Do you know why you believe...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/radio/images/taf_dino3_248.jpg)](https://www.icr.org/article/human-dinosaur-fossils)
-
-[Are Human Fossils Buried with Dinosaur Fossils?](https://www.icr.org/article/human-dinosaur-fossils/)
-
-Creation scientists say dinosaurs and man co-existed. The Bible also teaches this as historical fact. Should we find human and dinosaur fossils...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/Main%20Stage%20-%201000x563/FullBibleChristian-1000x563.jpg)](https://www.icr.org/article/full-bible-christian)
-
-[Full-Bible Christian](https://www.icr.org/article/full-bible-christian/)
-
-The latest polls reveal a disturbing trend. Younger generations are less likely to believe that humans descended from the first man, Adam, only...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+[](https://store.icr.org/.html)
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+$
 
-$2.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
 
-$7.99
+The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/61538914/file.jpg)
+$29.99
 
-Living in Light of Genesis - eBook](https://store.icr.org/living-in-light-of-genesis-ebook.html)
+$34.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10475689/file.jpg)
 
-$15.99
+The Remarkable Wisdom of Solomon](https://store.icr.org/dr-henry-morris-the-remarkable-wisdom-of-solomon.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+$13.99
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/16945324/file.jpg)
 
-$7.99
+The Long War Against God](https://store.icr.org/dr-henry-morris-the-long-war-against-god.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/25997817/file.jpg)
+$16.99
 
-Why the World Looks So Young](https://store.icr.org/why-the-world-looks-so-young.html)
+[](https://store.icr.org/.html)
 
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
