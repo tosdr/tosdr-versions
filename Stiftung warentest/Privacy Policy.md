@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
-* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
-* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
-* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
-* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [PFAS in Skiwachs: Ich fahr ab – auf fluorfreiem Wachs!](https://www.test.de/PFAS-in-Skiwachs-Ich-fahr-ab-auf-fluorfreiem-Wachs-6166556-0/ "PFAS in Skiwachs - Ich fahr ab – auf fluorfreiem Wachs!")
+* [Olivenöl: Doppelt so teuer wie im Vorjahr](https://www.test.de/Oliven-und-Olivenoel-Ueber-30-Prozent-teurer-als-im-Vorjahr-6048734-0/ "Olivenöl - Doppelt so teuer wie im Vorjahr")
+* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Anla­geausschüsse für grüne Fonds: Unabhängige Experten für nach­haltige Qualität](https://www.test.de/Anlageausschuesse-fuer-gruene-Fonds-Unabhaengige-Experten-fuer-nachhaltige-Qualitaet-6072446-0/ "Anlageausschüsse für grüne Fonds - Unabhängige Experten für nachhaltige Qualität")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
 
 Stiftung Warentest
 
