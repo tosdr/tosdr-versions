@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [Grab your raccoons](https://f-droid.org/en/2024/11/28/twif.html) Nov 28, 2024
 * [Find your way around apps](https://f-droid.org/en/2024/11/21/twif.html) Nov 21, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-12-06, fdroid-website [2.303](https://gitlab.com/fdroid/fdroid-website/tree/84dfdcbe4a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-12-10, fdroid-website [2.303](https://gitlab.com/fdroid/fdroid-website/tree/84dfdcbe4a)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
