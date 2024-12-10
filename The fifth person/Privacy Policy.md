@@ -1,4 +1,4 @@
-Tuesday, December 10 2024
+Wednesday, December 11 2024
 
 * [About](https://fifthperson.com/about/)
 * [Charity](https://fifthperson.com/charity/)
@@ -221,6 +221,12 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Adam Wong](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/vwra-the-all-world-etf/#comment-679174)
+    
+    [Adam Wong](https://fifthperson.com/vwra-the-all-world-etf/#comment-679174)
+    
+    Hi JF, The reinvestment of dividends in accumulating ETFs li...
+    
 * [![Photo of Kong Wee Goh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/bitcoin-100000-historic-high/#comment-679165)
     
     [Kong Wee Goh](https://fifthperson.com/bitcoin-100000-historic-high/#comment-679165)
@@ -274,12 +280,6 @@ Quick Guides
     [Azreen](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676528)
     
     Hi Darren, thank you for your analysis. Very useful. How can...
-    
-* [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
-    
-    [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
-    
-    Thank you, Anna! I'm glad you found this article insightful,...
     
 
 Advertisement
