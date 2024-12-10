@@ -2,7 +2,11 @@
 
 Flat Rate Shipping on Orders $125+ [details](#)
 
+20% Off Denver Steak [save](https://porterroad.com/products/denver-steak)
+
 Flat Rate Shipping on Orders $125+ [details](#)
+
+20% Off Denver Steak [save](https://porterroad.com/products/denver-steak)
 
 ![close button](//porterroad.com/cdn/shop/t/145/assets/x.svg?v=149134315310457235151695148459)
 
