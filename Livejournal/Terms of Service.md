@@ -129,7 +129,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     10. By using Google Maps, including features and content of «Google Maps» and «Google Earth» services, User is notified that the Service utilizes Google Maps, and User hereby unconditionally accepts then-current version of the Google Maps/Google Earth Additional Terms of Service at [https://maps.google.com/help/terms\_maps.html](https://maps.google.com/help/terms_maps.html); and Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). User’s breach of Google Maps/Google Earth Additional Terms of Service or Google Privacy Policy may cause actions by Administration in accordance with clause 2(5) of the Agreement or disablement of corresponding Google Maps features. The Administration shall not be liable for any failures or interruptions in the operation of Google Maps utilized within the Service as well as for Google Maps’ consistency with User’s expectations.
 5. #### User Details
     
-    1. The terms and conditions of User’s data processing and its security measures while using of the Service are governed by [the Privacy Policy](https://help.rambler.ru/legal/1998/).
+    1. The terms and conditions of User’s data processing and its security measures while using of the Service are governed by [the Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml).
     2. **Please note that no information which can directly or indirectly identify the individual is needed in order to use the Service, including registration process; thus, the relationship connected with the Service, the Registration and information provided in the process of Registration, is not governed by the provisions of Federal Act of the Russian Federation No. 152-FZ.**
 6. #### Account Termination
     
@@ -265,7 +265,7 @@ English Deutsch Dansk español Français Italiano Русский Українс�
 
 ![](//www.tns-counter.ru/V13a****rambler_ad/ru/UTF-8/tmsec=rambler_cid1100108-posid2155106/)
 
-![](https://xc3.services.livejournal.com/ljcounter/?d=srv:kr-ws11,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
+![](https://xc3.services.livejournal.com/ljcounter/?d=srv:3dt-ws11,r:0,j:0,uri:%22%2Flegal%2Ftos-en.bml%22,vig:0,m:0,extra:)  
 
 ![](//mc.yandex.ru/watch/27737346)
 
