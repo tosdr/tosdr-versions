@@ -257,4 +257,4 @@ If you have any questions about this Privacy Policy or our Services, you may con
 
 © rev.com
 
-[Legal](https://www.rev.com/legal)[Security](https://www.rev.com/enterprise/security)[Terms](https://www.rev.com/legal/terms)[Privacy](https://www.rev.com/legal/privacy)[CA Privacy Policy](https://www.rev.com/legal/privacy)[Sitemap](https://www.rev.com/sitemap)[Reviews](https://www.rev.com/reviews)
+[Legal](https://www.rev.com/legal)[Security](https://www.rev.com/security)[Terms](https://www.rev.com/legal/terms)[Privacy](https://www.rev.com/legal/privacy)[CA Privacy Policy](https://www.rev.com/legal/privacy)[Sitemap](https://www.rev.com/sitemap)[Reviews](https://www.rev.com/reviews)
