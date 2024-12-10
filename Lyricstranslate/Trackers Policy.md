@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
+[![Julia Arellano](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1639319-1733771947.png)](https://lyricstranslate.com/en/translator/julia-arellano "Julia Arellano")
+
+New request
+
+[Ebi - به سلامتیت (Be Salamatit)](https://lyricstranslate.com/en/request/%D8%A8%D9%87-%D8%B3%D9%84%D8%A7%D9%85%D8%AA%DB%8C%D8%AA)
+
+Persian → German
+
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+
+New request
+
+[Minako Honda - APÉRITIF](https://lyricstranslate.com/en/request/ap%C3%A9ritif)
+
+Japanese → English
+
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
+
+New request
+
+[Eri Nitta - 銀色のスーベニール (Gin'iro no Souvenir)](https://lyricstranslate.com/en/request/%E9%8A%80%E8%89%B2%E3%81%AE%E3%82%B9%E3%83%BC%E3%83%99%E3%83%8B%E3%83%BC%E3%83%AB)
+
+Japanese → English
+
+[![julietarab](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1050123-1706250255.jpg)](https://lyricstranslate.com/en/translator/julietarab "julietarab")
 
 New song
 
-[K.d. Lang - The Joker](https://lyricstranslate.com/en/kd-lang-joker-lyrics)
+[Barry Gleeson - Sweet Daffodil Mulligan](https://lyricstranslate.com/en/barry-gleeson-sweet-daffodil-mulligan-lyrics)
 
 English
 
-[![Ms.Kivi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611894-1725271189.jpg)](https://lyricstranslate.com/en/translator/mskivi "Ms.Kivi")
-
-New translation
-
-[V (BTS) - Winter Ahead](https://lyricstranslate.com/en/v-bts-winter-ahead-ukrainian-0)
-
-English → Ukrainian
-
-[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1733267457.jpg)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
-
-New transcription request
-
-[Wicked (ost) - Populair (Popular)](https://lyricstranslate.com/en/wicked-ost-populair-popular-0)
-
-Flemish
-
-[![WinterPebbles](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1397256-1719464977.jpg)](https://lyricstranslate.com/en/translator/winterpebbles "WinterPebbles")
-
-New translation
-
-[Rauw Alejandro - Mil Mujeres](https://lyricstranslate.com/en/rauw-alejandro-mil-mujeres-english)
-
-Spanish → English
-
-[![Alberto Scotti](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1472137-1733199886.jpg)](https://lyricstranslate.com/en/translator/alberto-scotti "Alberto Scotti")
+[![Guaglione](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/guaglione "Guaglione")
 
 New song
 
-[Mario Merola - Serenata smargiassa](https://lyricstranslate.com/en/mario-merola-serenata-smargiassa-lyrics)
+[Marian Anderson - Deep River](https://lyricstranslate.com/en/marian-anderson-deep-river-lyrics)
 
-Neapolitan
+English
 
-[![giabsiarz](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/giabsiarz "giabsiarz")
-
-New translation
-
-[SadSvit - Прощавай (Proshchavay)](https://lyricstranslate.com/en/sadsvit-proshchavay-polish)
-
-Ukrainian → Polish
-
-[![Ms.Kivi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611894-1725271189.jpg)](https://lyricstranslate.com/en/translator/mskivi "Ms.Kivi")
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
 New translation
 
-[V (BTS) - White Christmas](https://lyricstranslate.com/en/v-bts-white-christmas-ukrainian)
+[Joe Dassin - Les joies de la cuisine](https://lyricstranslate.com/en/joe-dassin-les-joies-de-la-cuisine-english-0)
 
-English → Ukrainian
+French → English
 
-[![BeckoningCat](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1601382-1702141765.jpg)](https://lyricstranslate.com/en/translator/beckoningcat "BeckoningCat")
+[![damianzimu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1547118-1662476290.jpg)](https://lyricstranslate.com/en/translator/damianzimu "damianzimu")
+
+New translation
+
+[Bloodywood - ज़ंजीरों से (Zanjeero Se)](https://lyricstranslate.com/en/bloodywood-zanjeero-se-czech)
+
+English → Czech
+
+[![RetroPanda](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1536684-1650612822.jpg)](https://lyricstranslate.com/en/translator/retropanda "RetroPanda")
 
 New comment
 
-Né ̶a̶v̶e̶c̶ le cœur brisé -> J'aurais enlevé ...  [more](https://lyricstranslate.com/en/comment/1180385#comment-1180385)
+  \[video:https://youtu.be/PGtzwf\_05Xw\] ...  [more](https://lyricstranslate.com/en/comment/1180820#comment-1180820)
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
