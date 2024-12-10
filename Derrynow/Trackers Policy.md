@@ -259,22 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Road remains closed following death of pedestrian](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Road remains closed following death of pedestrian")](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
-
-Gardaí are appealing for any witnesses to this collision to come forward.
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Road remains closed following death of pedestrian](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Principal 'saddened and disgusted' following weekend vandalism attack on Derry school](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Principal 'saddened and disgusted' following weekend vandalism attack on Derry school")](https://www.derrynow.com/news/local-news/1676327/principal-saddened-and-disgusted-following-weekend-vandalism-attack-on-derry-school.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -282,28 +266,19 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Principal 'saddened and disgusted' following weekend vandalism attack on Derry school](https://www.derrynow.com/news/local-news/1676327/principal-saddened-and-disgusted-following-weekend-vandalism-attack-on-derry-school.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![£250 piece of Aberdeen Angus meat](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "£250 piece of Aberdeen Angus meat")](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
+[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
 
-£250 piece of Aberdeen Angus meat
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
+[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[No mis-steak! £250 for a piece of meat in Tesco](https://www.derrynow.com/news/derry-news/1676158/no-mis-steak-250-for-a-piece-of-meat-in-tesco.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
 
-[![Derry man accused of 'biting a portion of someone's ear' remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man accused of 'biting a portion of someone's ear' remanded in custody")](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man accused of 'biting a portion of someone's ear' remanded in custody](https://www.derrynow.com/news/local-news/1676265/derry-man-accused-of-biting-a-portion-of-someone-s-ear-remanded-in-custody.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Drug dealer charged with bail breach at Derry Court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Drug dealer charged with bail breach at Derry Court")](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Tuesday, December 10, 2024](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
 
@@ -319,12 +294,14 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Suspended sentence for Derry man who wanted to drive police car](https://www.derrynow.com/news/local-news/1676278/suspended-sentence-for-derry-man-who-wanted-to-drive-police-car.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
+[![Search stood down for Monaghan teenager missing since Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for Monaghan teenager missing since Saturday")](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+The teenager was reported missing on Saturday, December 7.
 
-[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Search stood down for Monaghan teenager missing since Saturday](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man spat at police trying to assist him](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man spat at police trying to assist him")](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 
@@ -333,11 +310,92 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man charged with attacking neighbour with machete](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attacking neighbour with machete")](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
+
+Derry Magistrates' Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man charged with attacking neighbour with machete](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![French crews arrive to assist ESB with power restoration post Storm Darragh](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "French crews arrive to assist ESB with power restoration post Storm Darragh")](https://www.derrynow.com/news/national-news/1676877/french-crews-arrive-to-assist-esb-with-power-restoration-post-storm-darragh.html)
+
+Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams with power restoration in the aftermath of Storm Darragh. Picture: Iain White.
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[French crews arrive to assist ESB with power restoration post Storm Darragh](https://www.derrynow.com/news/national-news/1676877/french-crews-arrive-to-assist-esb-with-power-restoration-post-storm-darragh.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Derry P7 pupils participate in 'Active Learning Day'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry P7 pupils participate in 'Active Learning Day'")](https://www.derrynow.com/story-telling/pictures---videos/1676937/in-pictures-derry-p7-pupils-participate-in-active-learning-day.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry P7 pupils participate in 'Active Learning Day'](https://www.derrynow.com/story-telling/pictures---videos/1676937/in-pictures-derry-p7-pupils-participate-in-active-learning-day.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Celtic FC Foundation hosts Christmas Ability Counts Tournament in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Celtic FC Foundation hosts Christmas Ability Counts Tournament in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1676474/in-pictures-celtic-fc-foundation-hosts-christmas-ability-counts-tournament-in-derry.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Celtic FC Foundation hosts Christmas Ability Counts Tournament in Derry](https://www.derrynow.com/story-telling/pictures---videos/1676474/in-pictures-celtic-fc-foundation-hosts-christmas-ability-counts-tournament-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)")](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Jack and Saoirse. Jost Jewels. (Photos - Deirdre Heaney, nwpresspics)](https://www.derrynow.com/story-telling/pictures---videos/1676468/in-pictures-north-west-learning-disability-centre-s-christmas-craft-fair.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel")](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Enagh Youth Forum's awards ceremony at the White Horse Hotel](https://www.derrynow.com/story-telling/pictures---videos/1674949/in-pictures-enagh-youth-forum-s-awards-ceremony-at-the-white-horse-hotel.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1676471/in-pictures-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1676471/in-pictures-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub")](https://www.derrynow.com/story-telling/pictures---videos/1676469/in-pictures-christmas-craft-fair-and-winter-wonderland-held-in-galliagh-hub.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Christmas Craft Fair and Winter Wonderland held in Galliagh Hub](https://www.derrynow.com/story-telling/pictures---videos/1676469/in-pictures-christmas-craft-fair-and-winter-wonderland-held-in-galliagh-hub.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Inner City Trust Annual Christmas Giving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Inner City Trust Annual Christmas Giving")](https://www.derrynow.com/story-telling/pictures---videos/1674945/in-pictures-inner-city-trust-annual-christmas-giving.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Inner City Trust Annual Christmas Giving](https://www.derrynow.com/story-telling/pictures---videos/1674945/in-pictures-inner-city-trust-annual-christmas-giving.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)")](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Tuesday: Out and About @ The White River Hotel, Toome (2014)](https://www.derrynow.com/story-telling/pictures---videos/1676620/throwback-tuesday-out-and-about-the-white-river-hotel-toome-2014.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
 
@@ -352,64 +410,6 @@ Multimedia
 
 [IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming](https://www.derrynow.com/story-telling/pictures---videos/1676465/in-pictures-40th-commemoration-for-oglach-danny-doherty-and-oglach-william-fleming.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Coleraine comes alive with festive cheer](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Coleraine comes alive with festive cheer")](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Coleraine comes alive with festive cheer](https://www.derrynow.com/story-telling/pictures---videos/1673519/in-pictures-coleraine-comes-alive-with-festive-cheer.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving")](https://www.derrynow.com/story-telling/pictures---videos/1671659/in-pictures-st-patrick-s-and-st-brigid-s-college-annual-prizegiving.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: St Patrick's and St Brigid's College Annual Prizegiving](https://www.derrynow.com/story-telling/pictures---videos/1671659/in-pictures-st-patrick-s-and-st-brigid-s-college-annual-prizegiving.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's inspirational nurses honoured by Ulster University](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's inspirational nurses honoured by Ulster University")](https://www.derrynow.com/video/local-news/1674005/derry-s-inspirational-nurses-honoured-by-ulster-university.html)
-
-Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[WATCH: Derry's inspirational nurses honoured by Ulster University](https://www.derrynow.com/video/local-news/1674005/derry-s-inspirational-nurses-honoured-by-ulster-university.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry")](https://www.derrynow.com/story-telling/pictures---videos/1674348/in-pictures-all-smiles-at-holy-child-ps-christmas-extravaganza-in-derry.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: All smiles at Holy Child PS Christmas extravaganza in Derry](https://www.derrynow.com/story-telling/pictures---videos/1674348/in-pictures-all-smiles-at-holy-child-ps-christmas-extravaganza-in-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort")](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Connected Health Christmas Party held in the Roe Park Resort](https://www.derrynow.com/story-telling/pictures---videos/1673480/in-pictures-connected-health-christmas-party-held-in-the-roe-park-resort.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Mayor hosts Paddy Tyre Tribute Concert in Derry's Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1674346/in-pictures-mayor-hosts-paddy-tyre-tribute-concert-in-derry-s-guildhall.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Vertiv Recruitment host Open Evening in Campsie")](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,49 +513,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
+[![Kindness of Strangers, Limavady](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kindness of Strangers, Limavady")](https://www.derrynow.com/news/county-derry-post/1677049/shock-as-limavady-charity-shop-to-close-after-threats.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Kindness of Strangers, Limavady
 
-[Derry Death Notices - Tuesday, December 10, 2024](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![NW RegTech ambitions top of the agenda during City of London visit to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NW RegTech ambitions top of the agenda during City of London visit to Derry")](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
+[Shock as Limavady charity shop to close after threats](https://www.derrynow.com/news/county-derry-post/1677049/shock-as-limavady-charity-shop-to-close-after-threats.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
+[![Derry City goalkeeper Brian Maher pens new deal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City goalkeeper Brian Maher pens new deal")](https://www.derrynow.com/news/sport/1677101/derry-city-goalkeeper-brian-maher-pens-new-deal.html)
 
-[NW RegTech ambitions top of the agenda during City of London visit to Derry](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Brian Maher will remain at Derry City after signing a new deal with the Brandywell club
 
-[![County Derry business wins ‘Social Enterprise of the Year’ award](https://www.derrynow.com/resizer/165/93/true/2024_12_09/UK_Social_Enterprise_of_the_Year_-_Workspace_Group-1733754866598.jpg--.jpg?1733754869161 "County Derry business wins ‘Social Enterprise of the Year’ award")](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
+[Sport](https://www.derrynow.com/section/976/sport)
 
-The Workspace Group, a social enterprise based in Draperstown has been named ‘Social Enterprise of the Year’ at the UK Social Enterprise Awards.
+[Derry City goalkeeper Brian Maher pens new deal](https://www.derrynow.com/news/sport/1677101/derry-city-goalkeeper-brian-maher-pens-new-deal.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Local News](https://www.derrynow.com/section/975/news)
+[![Council officers visited 48 premises, 10 of which sold e-cigarettes to a person under 18 years of age.](https://www.derrynow.com/resizer/165/93/true/2024_01_29/Untitled_design-1706536221672.png--.png?1706536221779 "Council officers visited 48 premises, 10 of which sold e-cigarettes to a person under 18 years of age.")](https://www.derrynow.com/news/local-news/1676952/council-pursuing-enforcement-notices-agains-vape-shops.html)
 
-[County Derry business wins ‘Social Enterprise of the Year’ award](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New away kits proving a hit with Derry City fans](https://www.derrynow.com/resizer/165/93/true/2024_12_09/Derry_away_kit-1733751077269.jpg--.jpg?1733751077325 "New away kits proving a hit with Derry City fans")](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[New away kits proving a hit with Derry City fans](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary](https://www.derrynow.com/resizer/165/93/true/2024_12_09/09-12-24_St._Eugene_s_Souvenir_Calendar_02-1733754018449.jpg--.jpg?1733754023778 "St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary")](https://www.derrynow.com/news/local-news/1676419/st-eugene-s-primary-school-2025-souvenir-calendar-celebrates-the-derry-school-s-170th-anniversary.html)
+Council officers visited 48 premises, 10 of which sold e-cigarettes to a person under 18 years of age.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[St. Eugene's Primary School 2025 souvenir calendar celebrates the Derry school's 170th Anniversary](https://www.derrynow.com/news/local-news/1676419/st-eugene-s-primary-school-2025-souvenir-calendar-celebrates-the-derry-school-s-170th-anniversary.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Council pursuing enforcement notices agains vape shops](https://www.derrynow.com/news/local-news/1676952/council-pursuing-enforcement-notices-agains-vape-shops.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+[![History making is the goal for Slaughtneil in the All-Ireland semi-final](https://www.derrynow.com/resizer/165/93/true/2024_10_27/GAA_senior_hurling_final_Slaughtneil_v_Banagher__11-1730026962373.jpg--.jpg?1730026963744 "History making is the goal for Slaughtneil in the All-Ireland semi-final")](https://www.derrynow.com/news/gaa/1676321/history-making-is-the-goal-for-slaughtneil-in-the-all-ireland-semi-final.html)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[History making is the goal for Slaughtneil in the All-Ireland semi-final](https://www.derrynow.com/news/gaa/1676321/history-making-is-the-goal-for-slaughtneil-in-the-all-ireland-semi-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man charged with attacking neighbour with machete](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "Derry man charged with attacking neighbour with machete")](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
+
+Derry Magistrates' Court
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man charged with attacking neighbour with machete](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Council responds to PSNI Race and Ethnicity Action Plan consultation](https://www.derrynow.com/resizer/165/93/true/2024_09_24/United_Against_Racism_rally__9-1727180782794.jpg--.jpg?1727180783319 "Council responds to PSNI Race and Ethnicity Action Plan consultation")](https://www.derrynow.com/news/local-news/1676941/council-responds-to-psni-race-and-ethnicity-action-plan-consultation.html)
+
+A section of the United Against Racism rally in August 2024 in Derry's Guildhall.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Council responds to PSNI Race and Ethnicity Action Plan consultation](https://www.derrynow.com/news/local-news/1676941/council-responds-to-psni-race-and-ethnicity-action-plan-consultation.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
