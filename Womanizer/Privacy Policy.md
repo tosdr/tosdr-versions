@@ -30,16 +30,16 @@ The store will not work correctly in the case when cookies are disabled.
     
     * [NEW
         
-        Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
-    * [NEW
-        
-        Vibe](https://www.womanizer.com/eu/vibe)
-    * [NEW
-        
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
+    * [NEW
+        
+        Liberty 2 Iggy Azalea](https://www.womanizer.com/eu/iggy-azalea)
+    * [NEW
+        
+        Vibe](https://www.womanizer.com/eu/vibe)
     * [Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [DUO 2](https://www.womanizer.com/eu/duo2)
