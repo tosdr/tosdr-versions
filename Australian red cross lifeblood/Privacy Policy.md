@@ -16,7 +16,7 @@ Your browser either does not have JavaScript enabled or does not appear to suppo
 
 ### PRIVACY POLICY
 
-Published 30/07/2018 12.32 PM   |    Updated 23/05/2023 03.14 PM
+Published 30/07/2018 12.32 PM   |    Updated 10/12/2024 12.04 PM
 
 Australian Red Cross Lifeblood (Lifeblood) is bound by the Privacy Act 1988 as well as other laws that impose obligations regarding personal and health information. Lifeblood is committed to protecting the privacy of personal and health information.  
   
@@ -68,7 +68,7 @@ This information could include:
 
 The personal information provided to Lifeblood meets the requirements for Medical Pathology Services (NPAAC guidelines). 
 
-More information about medical pathologies services [is available online](https://www.lifeblood.com.au/about/our-services).
+More information about medical pathologies services [is available online](https://www.lifeblood.com.au/privacy#what-information).
 
 #### Research participants 
 
@@ -173,7 +173,7 @@ Lifeblood seeks to deal with requests promptly but the time to respond can vary 
 If you believe any personal information we are holding is incorrect or incomplete please contact the Chief Privacy Officer at either:
 
 * GPO Box 5103, Melbourne, Victoria 3001; or
-* [PrivacyRequestsAUS@redcrossblood.org.au](http://PrivacyRequestsAUS@redcrossblood.org.au/)
+* [PrivacyRequestsAUS@redcrossblood.org.au](mailto:PrivacyRequestsAUS@redcrossblood.org.au)
 
 #### Anonymity
 
@@ -193,7 +193,7 @@ Complaints
 If you believe that Lifeblood has breached the Australian Privacy Principles and wish to make a complaint, please contact Lifeblood setting out the details of the alleged breach, at either:
 
 * Chief Privacy Officer, GPO Box 5103, Melbourne, Victoria 3001; or
-* [PrivacyRequestsAUS@redcrossblood.org.au](http://PrivacyRequestsAUS@redcrossblood.org.au/)
+* [PrivacyRequestsAUS@redcrossblood.org.au](mailto:PrivacyRequestsAUS@redcrossblood.org.au)
 
 Your complaint will be promptly investigated and Lifeblood will respond to you, in writing, setting out the outcome of the investigation and the steps Lifeblood has taken or will take to deal with your complaint. 
 
@@ -257,11 +257,11 @@ Yes No
 Most viewed questions
 ---------------------
 
-* [Sexual activity - Is there any sexual activity that will affect my ability to donate blood?](https://my.donateblood.com.au/app/answers/detail/a_id/32/related/1/session/L2F2LzEvdGltZS8xNzMzNzkyMDg3L2dlbi8xNzMzNzkyMDg3L3NpZC9mVTU3WEE0ZkJ0UFRGUW1OWEV3c2hTbHRjTEdNYjFueFE0bFN0dzQ5SyU3RWxBa05SV0gzWHJWazN5a1RTd1FId0liX0xMSF9DcEJTeEF4NmQ2aHVteXhYR0FlRV9LTXBkd3MlN0U0eUJZeFZRUlFZSTZIUTF1eTVTWHlBJTIxJTIx)
-* [How much should I weigh to donate?](https://my.donateblood.com.au/app/answers/detail/a_id/27/related/1/session/L2F2LzEvdGltZS8xNzMzNzkyMDg3L2dlbi8xNzMzNzkyMDg3L3NpZC9mVTU3WEE0ZkJ0UFRGUW1OWEV3c2hTbHRjTEdNYjFueFE0bFN0dzQ5SyU3RWxBa05SV0gzWHJWazN5a1RTd1FId0liX0xMSF9DcEJTeEF4NmQ2aHVteXhYR0FlRV9LTXBkd3MlN0U0eUJZeFZRUlFZSTZIUTF1eTVTWHlBJTIxJTIx)
-* [Iron (low) - Can I donate if my iron (ferritin) is low (iron deficiency)?](https://my.donateblood.com.au/app/answers/detail/a_id/22/related/1/session/L2F2LzEvdGltZS8xNzMzNzkyMDg3L2dlbi8xNzMzNzkyMDg3L3NpZC9mVTU3WEE0ZkJ0UFRGUW1OWEV3c2hTbHRjTEdNYjFueFE0bFN0dzQ5SyU3RWxBa05SV0gzWHJWazN5a1RTd1FId0liX0xMSF9DcEJTeEF4NmQ2aHVteXhYR0FlRV9LTXBkd3MlN0U0eUJZeFZRUlFZSTZIUTF1eTVTWHlBJTIxJTIx)
-* [Colds - I have a cold. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/285/related/1/session/L2F2LzEvdGltZS8xNzMzNzkyMDg3L2dlbi8xNzMzNzkyMDg3L3NpZC9mVTU3WEE0ZkJ0UFRGUW1OWEV3c2hTbHRjTEdNYjFueFE0bFN0dzQ5SyU3RWxBa05SV0gzWHJWazN5a1RTd1FId0liX0xMSF9DcEJTeEF4NmQ2aHVteXhYR0FlRV9LTXBkd3MlN0U0eUJZeFZRUlFZSTZIUTF1eTVTWHlBJTIxJTIx)
-* [I'm gender diverse, non-binary or transgender. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/1374/related/1/session/L2F2LzEvdGltZS8xNzMzNzkyMDg3L2dlbi8xNzMzNzkyMDg3L3NpZC9mVTU3WEE0ZkJ0UFRGUW1OWEV3c2hTbHRjTEdNYjFueFE0bFN0dzQ5SyU3RWxBa05SV0gzWHJWazN5a1RTd1FId0liX0xMSF9DcEJTeEF4NmQ2aHVteXhYR0FlRV9LTXBkd3MlN0U0eUJZeFZRUlFZSTZIUTF1eTVTWHlBJTIxJTIx)
+* [Sexual activity - Is there any sexual activity that will affect my ability to donate blood?](https://my.donateblood.com.au/app/answers/detail/a_id/32/related/1/session/L2F2LzEvdGltZS8xNzMzODEzNzE1L2dlbi8xNzMzODEzNzE1L3NpZC9mVVJrdkllV3ExS1dtbkVPaTYwZHNrNXdVa19MeXQ4QlhIV1BBNmFfT3pKMDZJU0hGcWtDQjdWUWlvTE9EZnJyMDRSWm13QzgyVlc4RXFGOXY0dldDWHhwdnNSa2JuX19RdFMwQkRIbndSZWtTNkNHZlllSzRWRmclMjElMjE=)
+* [How much should I weigh to donate?](https://my.donateblood.com.au/app/answers/detail/a_id/27/related/1/session/L2F2LzEvdGltZS8xNzMzODEzNzE1L2dlbi8xNzMzODEzNzE1L3NpZC9mVVJrdkllV3ExS1dtbkVPaTYwZHNrNXdVa19MeXQ4QlhIV1BBNmFfT3pKMDZJU0hGcWtDQjdWUWlvTE9EZnJyMDRSWm13QzgyVlc4RXFGOXY0dldDWHhwdnNSa2JuX19RdFMwQkRIbndSZWtTNkNHZlllSzRWRmclMjElMjE=)
+* [Iron (low) - Can I donate if my iron (ferritin) is low (iron deficiency)?](https://my.donateblood.com.au/app/answers/detail/a_id/22/related/1/session/L2F2LzEvdGltZS8xNzMzODEzNzE1L2dlbi8xNzMzODEzNzE1L3NpZC9mVVJrdkllV3ExS1dtbkVPaTYwZHNrNXdVa19MeXQ4QlhIV1BBNmFfT3pKMDZJU0hGcWtDQjdWUWlvTE9EZnJyMDRSWm13QzgyVlc4RXFGOXY0dldDWHhwdnNSa2JuX19RdFMwQkRIbndSZWtTNkNHZlllSzRWRmclMjElMjE=)
+* [Colds - I have a cold. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/285/related/1/session/L2F2LzEvdGltZS8xNzMzODEzNzE1L2dlbi8xNzMzODEzNzE1L3NpZC9mVVJrdkllV3ExS1dtbkVPaTYwZHNrNXdVa19MeXQ4QlhIV1BBNmFfT3pKMDZJU0hGcWtDQjdWUWlvTE9EZnJyMDRSWm13QzgyVlc4RXFGOXY0dldDWHhwdnNSa2JuX19RdFMwQkRIbndSZWtTNkNHZlllSzRWRmclMjElMjE=)
+* [I'm gender diverse, non-binary or transgender. Can I donate?](https://my.donateblood.com.au/app/answers/detail/a_id/1374/related/1/session/L2F2LzEvdGltZS8xNzMzODEzNzE1L2dlbi8xNzMzODEzNzE1L3NpZC9mVVJrdkllV3ExS1dtbkVPaTYwZHNrNXdVa19MeXQ4QlhIV1BBNmFfT3pKMDZJU0hGcWtDQjdWUWlvTE9EZnJyMDRSWm13QzgyVlc4RXFGOXY0dldDWHhwdnNSa2JuX19RdFMwQkRIbndSZWtTNkNHZlllSzRWRmclMjElMjE=)
 
 Together, we're  
 Australia's Lifeblood.
