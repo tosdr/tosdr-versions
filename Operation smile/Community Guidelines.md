@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent)
 
- [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)[Donate](https://www.operationsmile.org/code-conduct?form=FUNHTDNWRYT)
+[Operation Smile](https://www.operationsmile.org/) [Donate](https://www.operationsmile.org/code-conduct?form=FUNHTDNWRYT)
 
 * Transformational Care
     
@@ -54,15 +54,16 @@
     * [Interactive Learning Center](https://www.operationsmile.org/about-us/interactive-learning-center/) Visit us in Virginia Beach, Virginia.
     * [Careers](https://www.operationsmile.org/about-us/careers/) Find a career that matches your passion.
     
-
+* Open Search
 * [Donate Now](https://www.operationsmile.org/code-conduct?form=FUNHTDNWRYT)
 
 * [Cleft Explained](https://www.operationsmile.org/transformational-care/cleft-explained/)
 * [En Español](https://espanol.operationsmile.org/)
 * [Smile Shop](https://operationsmile.brandfuel.org/)
 * [Partner With Us](https://www.operationsmile.org/about-us/corporate-partners/)
+* Open Search
 
-[![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)
+[Operation Smile](https://www.operationsmile.org/)
 
 * Transformational Care
     
@@ -342,7 +343,7 @@ Other Amount
 
 [Monthly Donation](https://www.operationsmile.org/code-conduct?form=FUNHTDNWRYT&recurring=monthly&amount=10) [Single Donation](https://www.operationsmile.org/code-conduct?form=FUNHTDNWRYT&recurring=once&amount=10)
 
-![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)
+Operation Smile
 
 **Operation Smile**  
 3641 Faculty Boulevard  
@@ -372,7 +373,7 @@ Name
 
 This field is for validation purposes and should be left unchanged.
 
-Submit        
+Submit           
 
 Thank you for signing up for our newsletter.
 
