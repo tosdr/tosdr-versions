@@ -1,3 +1,7 @@
+1. [Skip to content](#main-content)
+2. [Skip to main menu](#navigationButton)
+3. [Skip to more DW sites](#footer)
+
 [](https://dw.com/en "Home")
 
 * About DW
