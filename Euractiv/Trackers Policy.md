@@ -111,25 +111,25 @@ Most recent
 
 [10-12-2024
 
-Nordic justice ministers still not happy after TikTok, Meta gang violence meeting](https://www.euractiv.com/section/politics/news/nordic-justice-ministers-still-not-happy-after-tiktok-meta-gang-violence-meeting/)[10-12-2024
+Stronger cohesion funding, structural reform linkage could boost EU competitiveness, say new reports](https://www.euractiv.com/section/economy-jobs/news/stronger-cohesion-funding-and-structural-reform-linkage-could-boost-eu-competitiveness-say-new-reports/)[10-12-2024
 
-Mandatory written contracts in agriculture commissioner’s plan to empower farmers](https://www.euractiv.com/section/agriculture-food/news/mandatory-written-contracts-in-agriculture-commissioners-plan-to-empower-farmers/)[10-12-2024
+Macron promises to appoint new prime minister ‘within 48 hours’](https://www.euractiv.com/section/politics/news/macron-promises-to-appoint-new-prime-minister-within-48-hours/)[10-12-2024
 
-Israeli troops near Damascus, say Syrian security, after Israeli airstrikes hit Syrian bases](https://www.euractiv.com/section/global-europe/news/israeli-troops-near-damascus-say-syrian-security-after-israeli-airstrikes-hit-syrian-bases/)[10-12-2024
+Hungarians recognise need for urgent climate transition, says EIB survey](https://www.euractiv.com/section/eet/news/hungarians-recognise-need-for-urgent-climate-transition-says-eib-survey/)[10-12-2024
 
-Netanyahu to take the stand in his corruption trial for the first time](https://www.euractiv.com/section/global-europe/news/netanyahu-to-take-the-stand-in-his-corruption-trial-for-the-first-time/)[10-12-2024
+EU mulls diplomatic visa bans as Georgia protests intensify](https://www.euractiv.com/section/global-europe/news/eu-mulls-diplomatic-visa-bans-as-georgia-protests-intensify/)[10-12-2024
 
-Blinken warns Islamic State will try to re-establish capabilities in Syria](https://www.euractiv.com/section/global-europe/news/blinken-warns-islamic-state-will-try-to-re-establish-capabilities-in-syria/)[10-12-2024
+The intense telecoms ‘war’ that triggered a regulatory debate in France](https://www.euractiv.com/section/tech/news/the-intense-telecoms-war-that-triggered-a-regulatory-debate-in-france/)[10-12-2024
 
-Syria’s rebels work to form government, restore order after Assad ouster](https://www.euractiv.com/section/global-europe/news/syrias-rebels-work-to-form-government-restore-order-after-assad-ouster/)[10-12-2024
+Europe’s beauty companies reinvesting 5% of sales in R&D for Green Deal goals](https://www.euractiv.com/section/eet/news/europes-beauty-companies-reinvesting-5-of-sales-in-rd-for-green-deal-goals/)[10-12-2024
 
-Czech Commissioner Síkela expects less ideology in new EU executive](https://www.euractiv.com/section/politics/news/the-capitals-czech-commissioner-sikela-expects-less-ideology-in-new-eu-executive/)[10-12-2024
+Poland’s Tusk signals possible winter peace talks for Ukraine](https://www.euractiv.com/section/politics/news/polands-tusk-signals-possible-winter-peace-talks-for-ukraine/)[10-12-2024
 
-Romanian elections spark Bulgarian MPs to investigate Russian influence](https://www.euractiv.com/section/politics/news/romanian-elections-spark-bulgarian-mps-to-investigate-russian-influence/)[10-12-2024
+Critical Medicines Act wedged between HERA and DG SANTE](https://www.euractiv.com/section/health-consumers/news/critical-medicines-act-wedged-between-hera-and-dg-sante/)[10-12-2024
 
-PiS-dominated Polish constitutional tribunal has a new head](https://www.euractiv.com/section/politics/news/pis-dominated-polish-constitutional-tribunal-has-a-new-head/)[10-12-2024
+Earlier responses to Covid-19 reduced economic impact and excess deaths, says study](https://www.euractiv.com/section/health-consumers/news/earlier-responses-to-covid-19-reduced-economic-impact-and-excess-deaths-says-study/)[10-12-2024
 
-Lufthansa Technik to open a factory in Portugal](https://www.euractiv.com/section/politics/news/lufthansa-technik-to-open-a-factory-in-portugal/)
+Macron to head to Warsaw to brief Tusk, Duda on US-Ukraine talks](https://www.euractiv.com/section/politics/news/macron-to-head-to-warsaw-to-brief-tusk-duda-on-us-ukraine-talks/)
 
 ###### Advertisement
 
