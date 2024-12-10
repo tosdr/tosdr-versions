@@ -1,8 +1,8 @@
 [Skip to content](#skip-content-target-id)
 
-[15% off £35+ ends midnight. Code SMALL15](https://www.notonthehighstreet.com/christmas/christmas-gifts)
+[Save on small brand finds. Shop offers](https://www.notonthehighstreet.com/sale/view-all-sale-items)
 
-Hurry, 15% off [everything](https://www.notonthehighstreet.com/christmas/christmas-gifts)\* (including sale) ends at MIDNIGHT! Use code SMALL15. Minimum spend £35.
+Discover savings on thousands of incredible small brand finds. [Shop offers](https://www.notonthehighstreet.com/sale/view-all-sale-items)
 
 [![](https://static-files.notonthehighstreet.com/webapps/shared/img/logo/NOTHS_logo.svg)](https://www.notonthehighstreet.com/)
 
