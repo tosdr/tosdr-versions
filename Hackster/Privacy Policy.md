@@ -1,7 +1,5 @@
 ![](/images/debug.gif)
 
-[Hackster.ioLearning Hardware Community.](https://www.hackster.io/ "Hackster logo")
-
 Projects
 
 ×
@@ -151,6 +149,7 @@ Hackster Avnet Legal | Version 1.3 - 10.2021
     
 * [Hackster Overview](https://www.hackster.io/about "Hackster Overview")
 * [Hackster for Business](https://www.hackster.io/business "Hackster for Business")
+* [Hackster PRO](https://www.hackster.io/pro "Hackster PRO")
 * [Help Articles](https://help.hackster.io/ "Help Articles")
 * [Brand Resources](https://www.hackster.io/branding "Brand Resources")
 * [Sitemap](https://www.hackster.io/sitemap.xml.html "Sitemap")
