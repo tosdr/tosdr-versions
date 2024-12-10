@@ -20,16 +20,16 @@ Tuesday, December 10 2024
 
 Latest
 
-* [“Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
-* [big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
-* [How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
-* [10 Best SUVs You Can Buy Right Now](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
-* [What Is a HAT for Raspberry Pi, and What Can You Do With One?](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
-* [Meta wants to join the big tech nuclear club](https://digitpatrox.com/meta-wants-to-join-the-big-tech-nuclear-club/)
-* [How Long Does Fax Take? Can I Confirm it Was Received?](https://digitpatrox.com/how-long-does-fax-take-can-i-confirm-it-was-received/)
-* [Atalanta vs Real Madrid live stream: How to watch Champions League match online](https://digitpatrox.com/atalanta-vs-real-madrid-live-stream-how-to-watch-champions-league-match-online/)
-* [Ransomware attack hits leading heart surgery device maker](https://digitpatrox.com/ransomware-attack-hits-leading-heart-surgery-device-maker/)
-* [The Suicide Squad game’s final season is coming less than a year after launch](https://digitpatrox.com/the-suicide-squad-games-final-season-is-coming-less-than-a-year-after-launch/)
+* [Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+* [Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
+* [Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
+* [Ransomware gang BianLian claims Physicians’ Primary Care of Southwest Florida cyber attack – 1.8TB stolen](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
+* [Recall arrives for Intel and AMD devices after months of controversy](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
+* [OpenAI expands multi-modal capabilities with updated text-to-video model – Computerworld](https://digitpatrox.com/openai-expands-multi-modal-capabilities-with-updated-text-to-video-model-computerworld/)
+* [Use the ‘$1 Rule’ Before Making an Impulsive Purchase](https://digitpatrox.com/use-the-1-rule-before-making-an-impulsive-purchase/)
+* [How to Spot and Avoid Them](https://digitpatrox.com/how-to-spot-and-avoid-them/)
+* [How to Clean Silicone Kitchen Utensils and More](https://digitpatrox.com/how-to-clean-silicone-kitchen-utensils-and-more/)
+* [Today’s NYT Connections Hints and Answer for December 10 (#548)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-10-548/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/jKnvf5ZmXQGskw3gC6wUt5-1200-80.jpg)](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/10/04/Microsoft.jpg)](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
     
-    [“Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
+    [Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
     
-    4 minutes ago
+    18 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3620233-0-91279500-1733805009-Cloudflare-logo-website.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/7QucAKb_BAR4EMvjSrGuyFYU_Ns=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783155/Yelp_AI_review_insights.jpg)](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
     
-    [big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
+    [Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
     
-    26 minutes ago
+    35 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JEP8NJHEVJGVX03KQJ5VPNQP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
+* [![](https://beebom.com/wp-content/uploads/2024/12/Bluesky-Premium-Features-Leak-with-8-Monthly-Fee.jpg)](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
     
-    [How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
+    [Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
     
-    54 minutes ago
+    51 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730913521/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-inline-hero-10-Best-SUVs-You-Can-Buy-Right-Now-1124-CG)](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Physicians-Primary-Care-of-Southwest-Florida.jpg)](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
     
-    [10 Best SUVs You Can Buy Right Now](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
+    [Ransomware gang BianLian claims Physicians’ Primary Care of Southwest Florida cyber attack – 1.8TB stolen](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-raspberry-pi-with-a-hat-next-to-it.jpg)](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
+* [![](https://cdn.mos.cms.futurecdn.net/mzXSoufuS9gE7qjNjE7mpS-1200-80.jpg)](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
     
-    [What Is a HAT for Raspberry Pi, and What Can You Do With One?](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
+    [Recall arrives for Intel and AMD devices after months of controversy](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [18 minutes ago
     
-    ### “Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
-* [26 minutes ago
+    ### Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+* [35 minutes ago
     
-    ### big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
-* [54 minutes ago
+    ### Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
+* [51 minutes ago
     
-    ### How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
+    ### Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
 
 Most Popular Topics
 
-* [October 5, 2024
+* [3 weeks ago
     
-    ### Cargo Room for Cars by Vehicle Category](https://digitpatrox.com/cargo-room-for-cars-by-vehicle-category/)
-* [October 29, 2024
+    ### Spider-Man Beyond the Spider-Verse Release Date Announcement Seems to Be Close \[Update\]](https://digitpatrox.com/spider-man-beyond-the-spider-verse-release-date-announcement-seems-to-be-close-update/)
+* [September 12, 2024
     
-    ### 7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
-* [November 8, 2024
+    ### Google’s Pixel 9 Pro Fold is design evolution done right](https://digitpatrox.com/googles-pixel-9-pro-fold-is-design-evolution-done-right/)
+* [August 31, 2024
     
-    ### The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
+    ### Reinvent IT EVP to Attract & Retain Critical Talent, CIOs Advised](https://digitpatrox.com/reinvent-it-evp-to-attract-retain-critical-talent-cios-advised/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### How Long Does Fax Take? Can I Confirm it Was Received?](https://digitpatrox.com/how-long-does-fax-take-can-i-confirm-it-was-received/)
-* [2 hours ago
-    
-    ### Atalanta vs Real Madrid live stream: How to watch Champions League match online](https://digitpatrox.com/atalanta-vs-real-madrid-live-stream-how-to-watch-champions-league-match-online/)
 * [3 hours ago
     
-    ### Ransomware attack hits leading heart surgery device maker](https://digitpatrox.com/ransomware-attack-hits-leading-heart-surgery-device-maker/)
+    ### Use the ‘$1 Rule’ Before Making an Impulsive Purchase](https://digitpatrox.com/use-the-1-rule-before-making-an-impulsive-purchase/)
+* [3 hours ago
+    
+    ### How to Spot and Avoid Them](https://digitpatrox.com/how-to-spot-and-avoid-them/)
+* [3 hours ago
+    
+    ### How to Clean Silicone Kitchen Utensils and More](https://digitpatrox.com/how-to-clean-silicone-kitchen-utensils-and-more/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
