@@ -20,6 +20,15 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+    
+    ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+    
+    [![Charlie Marriage 
+    Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+    
+    ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+    
     [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
     ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
@@ -49,15 +58,6 @@
     [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
     
     ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-    
-    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
-    
-    ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
-    
-    [![Sadiq Khan out on a police patrol. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
-    
-    ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -108,6 +108,15 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+    
+    ### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+    
+    [![Charlie Marriage 
+    Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+    
+    ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+    
     [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
     ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
@@ -137,15 +146,6 @@ View All Result
     [![Michelle in the second floor flat she has been trying to move out of for 22 years CREDIT: Facundo Arrizabalaga](https://southwarknews.co.uk/wp-content/uploads/2024/12/FMA_MYL_10651-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
     
     ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-    
-    [![Brixton Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/Brixton-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
-    
-    ### [Man to be charged with murder after Brixton bus incident](https://southwarknews.co.uk/area/south-london/man-to-be-charged-with-murder-after-brixton-bus-incident/)
-    
-    [![Sadiq Khan out on a police patrol. 
-    Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
-    
-    ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -381,13 +381,26 @@ Website
 
 [6th December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
 
-[![Romain Esse in action against Oxford United. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Esse-2202-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/crystal-palace-reportedly-in-talks-to-sign-millwall-winger-romain-esse/)
+[![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
-### [Crystal Palace among a number of interested in deal for Millwall winger Romain Esse](https://southwarknews.co.uk/sport/football/millwall/crystal-palace-reportedly-in-talks-to-sign-millwall-winger-romain-esse/)
+### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
-[5th December 2024](https://southwarknews.co.uk/sport/football/millwall/crystal-palace-reportedly-in-talks-to-sign-millwall-winger-romain-esse/)
+[9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
 
 ### Featured Articles
+
+[![Our Lady of Sorrows Church (credit: Norbertines Peckham)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PECKHAM-Our-Lady-of-Sorrows-Credit-is-Norbertines-Peckham-120x86.jpeg)](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+
+### [Grade II-listed Peckham church roof saved from collapse with crucial £40k grant](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+
+[10th December 2024](https://southwarknews.co.uk/area/peckham/grade-ii-listed-peckham-church-roof-saved-from-collapse-with-crucial-40k-grant/)
+
+[![Charlie Marriage 
+Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-content/uploads/2024/12/Charlie-Marriage-1-1-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+
+### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
+
+[10th December 2024](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
 
 [![The new design at 110 The Queen's Walk. 
 Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
@@ -413,18 +426,6 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 ### [Disabled mum facing 23rd Christmas alone in flat she struggles to escape](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
 
 [9th December 2024](https://southwarknews.co.uk/area/southwark/disabled-mum-facing-23rd-christmas-alone-in-flat-she-struggles-to-escape/)
-
-[![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-[9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-[![](https://southwarknews.co.uk/wp-content/uploads/2024/12/BUSTERS-HAMBURGERS_Matt-Harris-Tommy-Kempton-L-R_NOV24-copy-120x86.jpeg)](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
-
-### [New food and drink openings in south London](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
-
-[8th December 2024](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
 
 ### USEFUL PAGES
 
