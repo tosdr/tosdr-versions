@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Sends Refund Payments to Consumers Impacted by Epic Games’ Unlawful Billing Practices](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-refund-payments-consumers-impacted-epic-games-unlawful-billing-practices)
+    ### [FTC Approves Modification of Cooperativa De Farmacias Puertorriqueñas Final Commission Order](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-approves-modification-cooperativa-de-farmacias-puertorriquenas-final-commission-order)
     
     December 9, 2024
     
