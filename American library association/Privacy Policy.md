@@ -86,7 +86,6 @@ Main navigation
     * [Research & Library Topics](https://www.ala.org/tools/topics "Tools & Resources")
     * [News & Press](https://www.ala.org/news "Tools & Resources")
     
-* [Spectrum Scholarship Program](https://www.ala.org/advocacy/spectrum "Spectrum Scholarship Program")
 * 
 
 Breadcrumb
