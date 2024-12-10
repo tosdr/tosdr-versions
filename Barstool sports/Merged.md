@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Juan Soto](https://www.barstoolsports.com/blog/3533438/the-mets-sign-juan-soto-to-a-15-year-dollar765-million-contract-which-is-the-largest-deal-in-the-history-of-professional-sports)
+* [Rundown](https://www.barstoolsports.com/video/3533533/mets-fans-drink-yankee-tears-after-signing-juan-soto-barstool-rundown-december-9th-2024)
 * [Surviving Barstool](https://www.barstoolsports.com/video/3533135/surviving-barstool-s4-ep.-3-or-shocking-betrayal-rocks-the-tribes)
 * [Surviving Barstool Office Reactions](https://www.barstoolsports.com/video/3533341/office-reacts-to-surviving-barstools-shocking-eliminations-or-stool-scenes)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
