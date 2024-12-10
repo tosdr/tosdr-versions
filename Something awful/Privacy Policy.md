@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
 * [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
-* [Image Makeovers!](https://www.somethingawful.com/comedy-goldmine/misplaced-images/1/)
-* [Living with Style](https://www.somethingawful.com/weekend-web/living-with-style/1/)
-* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
-* [Sex, Dating, and Relationship Forums](https://www.somethingawful.com/weekend-web/sex-dating-relationship/1/)
+* [I Hate You Page 84](https://www.somethingawful.com/cliff-yablonski/i-hate-you-84/)
+* [The Best of the Spore Creature Creator](https://www.somethingawful.com/comedy-goldmine/goons-spore-creature/1/)
 
 ### Popular Threads
 
-* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [Dogs playing poker? Out.](http://forums.somethingawful.com/showthread.php?threadid=4077190 "Dogs playing poker? Out.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Best fictional drug.](http://forums.somethingawful.com/showthread.php?threadid=4077188 "Best fictional drug.")
+* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [Dogs playing poker? Out.](http://forums.somethingawful.com/showthread.php?threadid=4077190 "Dogs playing poker? Out.")
 
 ### Random Articles
 
-* [Wicca For Newbies](https://www.somethingawful.com/awful-links/awful-link-751/)
-* [Hentai Invasion: Paradise Heights 2](https://www.somethingawful.com/news/hentai-invasion-paradise/)
-* [I Might Have Misremembered Defeating the Beast With the Krull Glaive](https://www.somethingawful.com/news/brian-williams-lying/)
-* ['Tis the season!](https://www.somethingawful.com/news/tis-the-season/)
-* [Shocking Revelations of the Wikipedia Scanner](https://www.somethingawful.com/news/wikipedia-scanner/)
+* [Astounding Improbable Science Adventure](https://www.somethingawful.com/news/astounding-improbable-science/)
+* [Rose & Camellia](https://www.somethingawful.com/awful-links/Rose-Camellai-slap/)
+* [End Times for Thai 2000](https://www.somethingawful.com/news/thai-2000-shawnee/)
+* [Star Citizen: Trouble in Paradise?](https://www.somethingawful.com/video-game-article/star-marine-setback/)
+* [MS Paint the last thing you'll see before you die](https://www.somethingawful.com/comedy-goldmine/ms-paint-last/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
