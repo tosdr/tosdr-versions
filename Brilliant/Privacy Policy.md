@@ -222,6 +222,8 @@ Product
 
 [Pricing](https://brilliant.org/subscribe/)
 
+[Gift Brilliant](https://brilliant.org/gift-premium/)
+
 [Testimonials](https://brilliant.org/testimonials/)
 
 [Help](https://brilliant.org/help/)
