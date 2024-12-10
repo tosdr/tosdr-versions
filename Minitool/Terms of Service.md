@@ -23,14 +23,15 @@
     
     * [What's New](https://moviemaker.minitool.com/upgrade-history.html)
     * [Overview](https://moviemaker.minitool.com/features/)
+    * [Multi-track Editing](https://moviemaker.minitool.com/features/#video-editing)
     * [Aspect Ratio](https://moviemaker.minitool.com/features/#aspect-ratio)
     * [Speed Adjustment/Reverse](https://moviemaker.minitool.com/features/#speed)
     * [Trim/Split/Crop](https://moviemaker.minitool.com/features/#trim-split)
     * [Audio Effects](https://moviemaker.minitool.com/features/#vivid-audio)
     * [Text/Elements](https://moviemaker.minitool.com/features/#text-elements)
     * [Video Effects](https://moviemaker.minitool.com/features/#effects)
+    * [Video Color](https://moviemaker.minitool.com/features/#video-color)
     * [Rotate/Flip](https://moviemaker.minitool.com/features/#rotate-flip)
-    * [Templates](https://moviemaker.minitool.com/features/#templates)
     * [Batch Processing](https://moviemaker.minitool.com/features/#batch-processing)
     * [No Watermark](https://moviemaker.minitool.com/features/#watermark)
     
