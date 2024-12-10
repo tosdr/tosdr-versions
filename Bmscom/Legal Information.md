@@ -1802,6 +1802,6 @@ Follow us
 * [Contact us](https://www.bms.com/about-us/contact-us.html)
 * [Worldwide locations](https://www.bms.com/about-us/our-company/worldwide-facilities.html)
 
-November 01, 2024
+December 10, 2024
 
 © 2024 Bristol-Myers Squibb Company
