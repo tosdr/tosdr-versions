@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/ben-jij-bang-voor-de-zon/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/intuitie-is-de-hoogste-vorm-van-intelligentie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
