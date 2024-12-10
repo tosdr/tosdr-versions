@@ -1,6 +1,6 @@
 [![Mix](/logo_black.svg)](https://mix.com/)
 
-Get the app
+Join Mix
 
 [Home](https://mix.com/)Login
 
