@@ -1,6 +1,6 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112642-freedom-fans-think-otherwise-2024-12-09)
+     [](https://patriotpost.us/memes/112666-a-memes-purpose-2024-12-10)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,6 +207,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Cal Thomas Pardoning the Unpardonable](https://patriotpost.us/opinion/112661-pardoning-the-unpardonable-2024-12-10)
 *      [Jeff Jacoby Argentina’s Capitalist Counterrevolution Is Off to a Good Start](https://patriotpost.us/opinion/112655-argentinas-capitalist-counterrevolution-is-off-to-a-good-start-2024-12-09)
 *      [Allen West Haters Gonna Hate](https://patriotpost.us/opinion/112630-haters-gonna-hate-2024-12-09)
 *      [Rich Lowry Trump’s Strong Start](https://patriotpost.us/opinion/112629-trumps-strong-start-2024-12-09)
@@ -214,7 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [The Babylon Bee 13 More People Biden Is Considering Pardoning](https://patriotpost.us/opinion/112627-13-more-people-biden-is-considering-pardoning-2024-12-09)
 *      [Gary Bauer Trump Supports Pete](https://patriotpost.us/opinion/112622-trump-supports-pete-2024-12-07)
 *      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
-*      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,9 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
