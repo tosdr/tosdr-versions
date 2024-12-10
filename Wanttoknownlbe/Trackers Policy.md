@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/mh17-crash-gewoon-nog-even-kritisch-bekeken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/maya-astrologie-iets-voor-jou/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
