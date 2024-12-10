@@ -351,7 +351,7 @@ We may sell or share the following categories of personal information for purpos
 * **Internet or other Electronic Network Information,** including pages of a Site you may visit and your browsing and search history; and
 * **Inferences, Preferences** and other information.
 
-In certain jurisdictions you have the right to opt out of sales and sharing of personal data. To do so, visit our [Individual Rights Management Portal](https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5). Certain browsers can also be set to send Global Privacy Control signals, as discussed below.
+In certain jurisdictions you have the right to opt out of sales and sharing of personal data. To do so, visit our [Individual Rights Management Portal](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4). Certain browsers can also be set to send Global Privacy Control signals, as discussed below.
 
 10\. Do We Honor Do Not Track and GPC Signals?
 
@@ -410,7 +410,7 @@ Subject to the conditions, limitations, and exceptions under applicable data pri
 * provide your personal data to you in a structured, electronic format; or
 * not “sell” or “share” your personal data (as these terms are defined under applicable law).
 
-To submit a privacy request, please visit our [Individual Rights Management Portal](https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5). You may also exercise your rights by using one of the methods provided for in Section 15 of this privacy policy.  
+To submit a privacy request, please visit our [Individual Rights Management Portal](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4). You may also exercise your rights by using one of the methods provided for in Section 15 of this privacy policy.  
   
 Once we receive your request, we will seek to verify your identity. If we cannot verify your identify, we will not be able to act on your request. We will respond to your request within the timeframes required by applicable privacy law. In addition, if we deny your request, or a portion of your request, we will tell you why, and provide you with other information, such as the right to appeal our decision, if it applies to you.  
   
@@ -436,7 +436,7 @@ We update this Privacy Policy from time to time to reflect changes to our person
 
 18\. How Can You Contact Us with Questions and Concerns?
 
-If you have questions or requests relating to how we process your personal data, please visit our Individual Rights Management portal [here](ttps://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5) or send an email to [privacy@goto.com](mailto:privacy@goto.com).  
+If you have questions or requests relating to how we process your personal data, please visit our Individual Rights Management portal [here](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4) or send an email to [privacy@goto.com](mailto:privacy@goto.com).  
   
 You can also contact us via postal mail at:  
   
@@ -515,14 +515,14 @@ Consumers have the following rights under the CCPA:
 * **Right to Know.** You have the right to request that we disclose what personal information we collect, use, and disclose about you specifically.
 * **Right to Delete.** You have a right to request the deletion of personal information that we collect or maintain about you, subject to certain exceptions.
 * **Right to Correct.** You have the right to request that we correct inaccurate personal information we may have about you.
-* **Right to Opt-Out of the Sale or Sharing of Personal Information.** You have the right to opt out of the selling or sharing of your personal information, as we describe in [Section 9](#accordion-573E19-9). If you wish to do so, please click [here](https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5) or contact us at the email or phone number in the Contact Us section of this privacy policy. In addition, GoTo Sites respond to Global Privacy Control (“GPC”) signals; for more details, including how to turn on GPC, please visit [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
+* **Right to Opt-Out of the Sale or Sharing of Personal Information.** You have the right to opt out of the selling or sharing of your personal information, as we describe in [Section 9](#accordion-573E19-9). If you wish to do so, please click [here](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4) or contact us at the email or phone number in the Contact Us section of this privacy policy. In addition, GoTo Sites respond to Global Privacy Control (“GPC”) signals; for more details, including how to turn on GPC, please visit [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
 * **Right to Limit the Use of Sensitive Personal Information.** Consumers have the right to limit how we use or disclose their sensitive information; however, as set forth above, GoTo does not use or disclose sensitive personal information for purposes other than permitted under applicable U.S. state data privacy laws.
 
 GoTo will not discriminate against you for exercising any of your rights under the CCPA.  
   
 **Exercising Your Rights**  
   
-To submit a request to exercise your rights or for information on self-service procedures (where available), please visit Individual Rights Management portal [here](https://submit-irm.trustarc.com/services/validation/818563f9-8d9c-4029-880a-bc743fb49de5), submit an email request to [privacy@goto.com](mailto:privacy@goto.com), or call us at 1-833-851-8340. We will acknowledge your request in the timeframe set forth in the CCPA and seek to verify your identity. For example, if you have a password-protected account with us, we may verify your identity through our existing authentication practices for your account. We will respond to your request in accordance with the CCPA. If we cannot verify your identify, we will not be able to act on your request. Once we have verified your identity, we will respond to your request in accordance with the CCPA. If we deny your request, we will tell you why.  
+To submit a request to exercise your rights or for information on self-service procedures (where available), please visit Individual Rights Management portal [here](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4), submit an email request to [privacy@goto.com](mailto:privacy@goto.com), or call us at 1-833-851-8340. We will acknowledge your request in the timeframe set forth in the CCPA and seek to verify your identity. For example, if you have a password-protected account with us, we may verify your identity through our existing authentication practices for your account. We will respond to your request in accordance with the CCPA. If we cannot verify your identify, we will not be able to act on your request. Once we have verified your identity, we will respond to your request in accordance with the CCPA. If we deny your request, we will tell you why.  
   
 **Authorized Agent**  
   
