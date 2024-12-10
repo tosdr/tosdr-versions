@@ -283,6 +283,8 @@ Acceptable use policy
 Acceptable Use Policy
 =====================
 
+* * *
+
 Updated: September 24, 2021
 
 Here at Klaviyo, our mission is to help businesses grow. To do this, we need to keep our products and services running smoothly and without distraction, and we need the members of our community not to misuse or abuse them. There are some activities that are incompatible with Klaviyo’s mission to help businesses grow, and this Acceptable Use Policy describes those prohibited activities in detail.
