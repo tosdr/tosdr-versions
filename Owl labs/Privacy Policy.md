@@ -54,7 +54,7 @@ Featured Products
 
 Meeting Owl 3
 
-$1,049$839](https://owllabs.com/products/meeting-owl-3)
+$1,049](https://owllabs.com/products/meeting-owl-3)
 
 [#### Enhanced with 4K UHD video
 
@@ -70,7 +70,7 @@ $1,999](https://owllabs.com/products/meeting-owl-4-plus)
 
 Owl Bar
 
-$1,799$1,439](https://owllabs.com/products/owl-bar)
+$1,799](https://owllabs.com/products/owl-bar)
 
 Featured Bundles
 
@@ -82,7 +82,7 @@ Featured Bundles
 
 Meeting Owl 3 Premium Pack
 
-$1,276$959](https://owllabs.com/products/meeting-owl-3-premium-pack-bundle)
+$1,276$1,199](https://owllabs.com/products/meeting-owl-3-premium-pack-bundle)
 
 [#### See and hear it all
 
@@ -102,7 +102,7 @@ Featured Accessories
 
 Expansion Mic
 
-$249$199](https://owllabs.com/products/expansion-mic)
+$249](https://owllabs.com/products/expansion-mic)
 
 [#### Take your Owl on the go
 
