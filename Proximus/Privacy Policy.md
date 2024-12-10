@@ -846,6 +846,12 @@ Cliquez sur ce lien pour avoir accès à la déclaration de protection des donn�
 
 [Déclaration de protection des données relative à MyProximus (Web et App) _Nouvelle fenêtre_](https://www.proximus.be/dam/jcr:7fb99c46-4081-483d-adb1-e019ce4c4b21/cdn/sites/iportal/documents/pdfs/common/myproximus-privacy-notice/myproximus-privacy-notice-fr~2023-11-10-08-21-34~cache.pdf)
 
+###### Pickx (TV box, Pickx Web et Pickx App)
+
+Cliquez sur ce lien pour avoir accès à la déclaration de protection des données de Pickx (TV box, Pickx Web et Pickx App), qui décrit entre autres la manière dont nous collectons et utilisons vos données personnelles, les finalités du traitement et vos droits y afférents.
+
+[Déclaration de protection des données relative à Pickx (TV box, Pickx Web et Pickx App) _Nouvelle fenêtre_](https://www.proximus.be/dam/jcr:f56d144e-8b92-4bc8-83b1-1932a604479f/cdn/sites/iportal/documents/pdfs/common/myproximus-privacy-notice/Pickx_privacy_notice_fr~2024-12-06-06-23-37~cache.pdf)
+
 ###### Lutte contre la fraude sur le réseau
 
 Cliquez sur ce lien pour avoir accès à la déclaration de protection des données concernant la lutte contre la fraude sur le réseau, qui décrit comment Proximus traite des données personnelles des clients ou des utilisateurs finaux pour prévenir et lutter contre la fraude telle que l’hameçonnage, les appels intempestifs, le « fluBot », l'abus de signalisation.
