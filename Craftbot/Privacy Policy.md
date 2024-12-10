@@ -351,7 +351,6 @@ Website: http://www.naih.hu
 * [idex printers](https://craftbot.com/idex)
 * [contact](https://craftbot.com/contact)
 * [covid-19](https://craftbot.com/covid-19)
-* [live setup](https://craftbot.com/live)
 * [széchenyi 2020](https://craftbot.com/hirdetmeny)
 
 ![Craftbot Logo](/assets/images/page/craftbot-logo-white.svg)
