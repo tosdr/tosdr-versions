@@ -167,6 +167,14 @@ Dec 19
 
 Sherman
 
+Apr 16
+
+1:30 pm - 3:30 pm
+
+### [TCOG City Series: Texas Water Development Board Financial Assistance Program Workshop](https://tcog.com/event/tcog-city-series-texas-water-development-board-financial-assistance-program-workshop/ "TCOG City Series: Texas Water Development Board Financial Assistance Program Workshop")
+
+Sherman
+
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
 #### Open Records Requests
