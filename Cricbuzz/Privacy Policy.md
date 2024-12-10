@@ -70,15 +70,7 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Americas Sub Regional Qualifier, 2024
     
-    [Cayman Islands vs Panama](https://www.cricbuzz.com/live-cricket-scores/111349/caym-vs-pan-match-8-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Cayman Islands v Panama, Match 8 - CAYM Won")
-    
-    Match 8
-    
-* [Bermuda vs Suriname](https://www.cricbuzz.com/live-cricket-scores/111345/ber-vs-sn-match-7-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bermuda v Suriname, Match 7 - BER Won")
-    
-    Match 7
-    
-* [Bahamas vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111361/bhm-vs-arg-match-10-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Argentina, Match 10 - BHM Won")
+    [Bahamas vs Argentina](https://www.cricbuzz.com/live-cricket-scores/111361/bhm-vs-arg-match-10-icc-mens-t20-world-cup-americas-sub-regional-qualifier-2024 "Bahamas v Argentina, Match 10 - BHM Won")
     
     Match 10
     
@@ -214,7 +206,7 @@ AllLive NowToday
     
 * CSA Four-Day Series Division One 2024-25
     
-    [Western Province vs Knights](https://www.cricbuzz.com/live-cricket-scores/104812/wpr-vs-kng-15th-match-csa-four-day-series-division-one-2024-25 "Western Province v Knights, 15th Match - Complete")
+    [Western Province vs Knights](https://www.cricbuzz.com/live-cricket-scores/104812/wpr-vs-kng-15th-match-csa-four-day-series-division-one-2024-25 "Western Province v Knights, 15th Match - Match drawn")
     
     15th Match
     
@@ -234,13 +226,13 @@ AllLive NowToday
     
 * CSA Four-Day Series Division Two 2024-25
     
-    [Border vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104372/bor-vs-estorm-10th-match-csa-four-day-series-division-two-2024-25 "Border v Eastern Storm, 10th Match - BOR Won")
-    
-    10th Match
-    
-* [Limpopo vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/104370/limpo-vs-swd-9th-match-csa-four-day-series-division-two-2024-25 "Limpopo v South Western Districts, 9th Match - Match drawn")
+    [Limpopo vs South Western Districts](https://www.cricbuzz.com/live-cricket-scores/104370/limpo-vs-swd-9th-match-csa-four-day-series-division-two-2024-25 "Limpopo v South Western Districts, 9th Match - Match drawn")
     
     9th Match
+    
+* [Border vs Eastern Storm](https://www.cricbuzz.com/live-cricket-scores/104372/bor-vs-estorm-10th-match-csa-four-day-series-division-two-2024-25 "Border v Eastern Storm, 10th Match - BOR Won")
+    
+    10th Match
     
 * ACC U19 Asia Cup, 2024
     
@@ -250,17 +242,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Northern Knights vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107489/nk-vs-cd-11th-match-plunket-shield "Northern Knights v Central Districts, 11th Match - Stumps")
+    [Otago vs Canterbury  LIVE](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - Live")
+    
+    12th Match
+    
+* [Northern Knights vs Central Districts  LIVE](https://www.cricbuzz.com/live-cricket-scores/107489/nk-vs-cd-11th-match-plunket-shield "Northern Knights v Central Districts, 11th Match - Live")
     
     11th Match
     
-* [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - Stumps")
+* [Auckland vs Wellington  LIVE](https://www.cricbuzz.com/live-cricket-scores/107483/akl-vs-wel-10th-match-plunket-shield "Auckland v Wellington, 10th Match - Live")
     
     10th Match
-    
-* [Otago vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107497/otg-vs-cntbry-12th-match-plunket-shield "Otago v Canterbury, 12th Match - Stumps")
-    
-    12th Match
     
 * WOMEN
     
@@ -623,41 +615,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132710/national-cricket-league-usa-banned-by-icc "National Cricket League USA banned by ICC")
+
+[National Cricket League USA banned by ICC](https://www.cricbuzz.com/cricket-news/132710/national-cricket-league-usa-banned-by-icc "National Cricket League USA banned by ICC")
+
+just now
+
   [](https://www.cricbuzz.com/cricket-news/132709/afghanistan-cricket-board-extends-jonathan-trotts-contract-until-end-of-2025 "ACB extends Trott's contract until end of 2025")
 
 [ACB extends Trott's contract until end of 2025](https://www.cricbuzz.com/cricket-news/132709/afghanistan-cricket-board-extends-jonathan-trotts-contract-until-end-of-2025 "ACB extends Trott's contract until end of 2025")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132708/sri-lanka-rue-68-minutes-of-madness-that-changed-everything "Sri Lanka rue 68 minutes of madness that changed everything")
 
 [Sri Lanka rue 68 minutes of madness that changed everything](https://www.cricbuzz.com/cricket-news/132708/sri-lanka-rue-68-minutes-of-madness-that-changed-everything "Sri Lanka rue 68 minutes of madness that changed everything")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132707/in-form-bavuma-basks-in-the-sound-of-silence "In-form Bavuma basks in the sound of silence")
 
 [In-form Bavuma basks in the sound of silence](https://www.cricbuzz.com/cricket-news/132707/in-form-bavuma-basks-in-the-sound-of-silence "In-form Bavuma basks in the sound of silence")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132706/head-siraj-handed-one-demerit-point-after-heated-sendoff "Head, Siraj handed one demerit point after heated sendoff ")
 
 [Head, Siraj handed one demerit point after heated sendoff](https://www.cricbuzz.com/cricket-news/132706/head-siraj-handed-one-demerit-point-after-heated-sendoff "Head, Siraj handed one demerit point after heated sendoff ")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132705/south-africa-win-a-proper-test-on-a-proper-pitch-and-top-wtc-standings "South Africa win a proper Test on a proper pitch, and top WTC standings")
 
 [South Africa win a proper Test on a proper pitch, and top WTC standings](https://www.cricbuzz.com/cricket-news/132705/south-africa-win-a-proper-test-on-a-proper-pitch-and-top-wtc-standings "South Africa win a proper Test on a proper pitch, and top WTC standings")
 
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132704/ben-curran-receives-maiden-call-up-from-zimbabwe "Ben Curran receives maiden call up from Zimbabwe")
-
-[Ben Curran receives maiden call up from Zimbabwe](https://www.cricbuzz.com/cricket-news/132704/ben-curran-receives-maiden-call-up-from-zimbabwe "Ben Curran receives maiden call up from Zimbabwe")
-
-8h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
