@@ -465,6 +465,14 @@ Get in touch or create an account.
     * [News](https://www.fastly.com/press)
     * [Investor Relations](https://investors.fastly.com/)
     * [Trust](https://www.fastly.com/trust)
+* Compare
+    
+    * [Fastly vs. Cloudflare](https://www.fastly.com/resources/datasheets/capability-comparison-cloudflare/)
+    * [Fastly vs. Akamai CDN](https://www.fastly.com/resources/datasheets/capability-comparison-akamai/)
+    * [Fastly vs. Akamai Security](https://www.fastly.com/resources/datasheets/capability-comparison-security-akamai/)
+    * [Fastly vs. Edgio](https://www.fastly.com/resources/datasheets/network-services/edgio-capability-comparison/)
+    * [Fastly vs. Imperva](https://www.fastly.com/resources/datasheets/capability-comparison-security-imperva/)
+    * [Fastly vs. Cloud Providers](https://www.fastly.com/resources/datasheets/fastly-cdn-performance-compared-to-cloud-providers/)
 
 © Fastly 2024
 
