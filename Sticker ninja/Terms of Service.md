@@ -1,4 +1,4 @@
-### ♥ Thank you for supporting our weirdo sticker printing biz ♥
+### ☃️ ❄️ Happy Holidays!! ❄️ ☃️
 
  [![Sticker Ninja home page](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/logo-dark_3e368c83.png)](https://stickerninja.com/)[![Sticker Ninja home page](https://stickerninja.com/wp-content/themes/sticker-ninja/dist/images/ninja-head-dark_88336efe.png)](https://stickerninja.com/)
 
