@@ -398,11 +398,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
-2. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
-3. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
-4. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
-5. [1500+ Free Developer and IT Certifications](https://www.classcentral.com/report/free-developer-it-certifications/)
+1. [CodeSignal – The Duolingo of Coding Practice](https://www.classcentral.com/report/review-codesignal/)
+2. [10 Best Emotional Intelligence Courses for 2024](https://www.classcentral.com/report/best-emotional-intelligence-courses/)
+3. [2U Abandons Bootcamp Business, Announces More Layoffs](https://www.classcentral.com/report/2u-axes-trilogy-bootcamps-layoffs/)
+4. [6 Best Zoology Courses for 2024](https://www.classcentral.com/report/best-zoology-courses/)
+5. [10 Best Tableau Courses for 2024](https://www.classcentral.com/report/best-tableau-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -412,11 +412,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. javascript
+1. python
     
-2. computer science
+2. excel
     
-3. project management
+3. html
     
 
 Popular subjects
