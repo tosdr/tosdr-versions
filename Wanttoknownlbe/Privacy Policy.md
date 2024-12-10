@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-onjuiste-gemanipuleerde-bijbel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/7-oktober-sloeg-gaza-terug-of-een-valse-vlag/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -197,6 +197,14 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![inhetmeer](https://secure.gravatar.com/avatar/e59606caac6119e46905799cf0c15cc3?s=50&d=identicon&r=g)
+
+##### **inhetmeer** reacts on:
+
+##### Het gouden Trump-tijdperk begint NU!
+
+[Een artikel wat hoop doet herleven. Toch zal Trump er stevig…](https://www.wanttoknow.nl/politiek/het-gouden-trump-tijdperk-begint-nu/comment-page-1/#comment-626379)
 
 ![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
 
@@ -445,14 +453,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Gesponsord medicijn-research: bétere resultaten..???
 
 [In this explosive episode, we delve into the story of Briann…](https://www.wanttoknow.nl/gezondheid/big-pharma/gesponsord-medicijn-research-betere-resultaten/comment-page-1/#comment-626347)
-
-![medicatiebedrog](https://secure.gravatar.com/avatar/1a8054345e0d0e1459f32594aa35e902?s=50&d=identicon&r=g)
-
-##### **medicatiebedrog** reacts on:
-
-##### Ontgifting van grafeenoxide, spike-eiwitten en magnetisme..!
-
-[Kijk goed hoe deze Harari uit zijn ogen kijkt .!! En je weet…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/ontgifting-van-grafeenoxide-spike-eiwitten-en-magnetisme/comment-page-1/#comment-626346)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
