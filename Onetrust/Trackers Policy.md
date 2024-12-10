@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [DORA Compliance Countdown: Are you ready?](https://www.onetrust.com/resources/dora-compliance-countdown-are-you-ready-webinar/)
-* [The strategic imperative of operationalizing Consent & Preferences in modern marketing](https://www.onetrust.com/resources/the-strategic-imperative-of-operationalizing-consent-preferences-in-modern-marketing-webinar/)
-* [OneTrust named a Leader in Operational Resilience Software 2024](https://www.onetrust.com/resources/onetrust-named-a-leader-in-operational-resilience-software-2024-report/)
+*  [An overview of the Thailand Personal Data Protection Act](https://www.onetrust.com/resources/an-overview-of-the-thailand-personal-data-protection-act-infographic/) 
+* [A quick guide to the Thai PDPA](https://www.onetrust.com/resources/a-quick-guide-to-the-thai-pdpa-ebook/)
+* [Privacy risk assessment workbook](https://www.onetrust.com/resources/privacy-risk-assessment-workbook-interactive-tool/)
 
 ### Platform
 
