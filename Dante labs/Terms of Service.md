@@ -1,6 +1,6 @@
         [Skip to content](#main-content)
 
-[Cyber Monday Extended: Promo Ends Dec 9th](https://dantelabs.com/products/whole-genome-sequencing)
+[Holiday Season Special Offers](https://dantelabs.com/products/whole-genome-sequencing)
 
 * [](https://www.facebook.com/DanteLabs/ "Facebook")
 * [](https://twitter.com/dantelabs?lang=en "X")
