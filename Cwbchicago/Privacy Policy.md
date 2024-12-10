@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Ricardo-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+
+Belmont Cragin
+
+### [Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+
+[December 7, 2024 11:16 AM](https://cwbchicago.com/2024/12)
+
+A man has been handed a 12-year sentence for posing as a cop to commit an armed home invasion just months after being exonerated of a murder conviction for which he received a 60-year sentence in 1997.[](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/hugh-simmons-326x245.jpg)](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
 
 Roseland
@@ -262,16 +272,6 @@ Kenwood
 [December 7, 2024 8:39 AM](https://cwbchicago.com/2024/12)
 
 Two men are charged with kidnapping and robbing a taxi driver this summer, forcing their 66-year-old victim to transfer money to them via Zelle at gunpoint. Prosecutors have charged one of the men with committing a nearly identical crime on the same block just four days earlier.[](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/John-Conway-scene-326x245.jpg)](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
-
-Lincoln Park
-
-### [In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
-
-[December 6, 2024 7:20 PM](https://cwbchicago.com/2024/12)
-
-The concealed carry holder who killed an erratic stranger on a Lincoln Park street last week had a trove of firearms, including a “sniper-like rifle,” inside his nearby condo, and a “multi-paged plan to harm an unrelated individual at a specific event,” prosecutors said Friday.[](https://cwbchicago.com/2024/12/in-lincoln-park-killers-home-cops-find-a-sniper-like-rifle-and-written-plan-to-target-someone-at-an-event-prosecutors-say.html "In Lincoln Park killer’s home cops find a ‘sniper-like rifle’ and written plan to target someone at an event, prosecutors say")
 
 Search
 
