@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [More Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-balloons-2/1/)
-* [Danger!](https://www.somethingawful.com/comedy-goldmine/danger-warning-signs/1/)
-* [Hey you fuckin' ass trolls!](https://www.somethingawful.com/awfulvision/ghost-dad-brony/1/)
-* [System of a Down](https://www.somethingawful.com/your-band-sucks/system-down/)
-* [Storytime: He-Man and the ROCK WARRIORS!](https://www.somethingawful.com/feature-articles/storytime-heman-rock/1/)
+* [Large Penis Support Group](https://www.somethingawful.com/weekend-web/lpsg/1/)
+* [Image Makeovers!](https://www.somethingawful.com/comedy-goldmine/misplaced-images/1/)
+* [Living with Style](https://www.somethingawful.com/weekend-web/living-with-style/1/)
+* [I Hate You Page 01](https://www.somethingawful.com/cliff-yablonski/i-hate-you-01/)
+* [Sex, Dating, and Relationship Forums](https://www.somethingawful.com/weekend-web/sex-dating-relationship/1/)
 
 ### Popular Threads
 
+* ![](https://forumimages.somethingawful.com/forums/posticons/icons-08/art.png) [Dogs playing poker? Out.](http://forums.somethingawful.com/showthread.php?threadid=4077190 "Dogs playing poker? Out.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Best fictional drug.](http://forums.somethingawful.com/showthread.php?threadid=4077188 "Best fictional drug.")
 
 ### Random Articles
 
-* [John Titor – Time Traveller](https://www.somethingawful.com/awful-links/awful-link-3723/)
-* [Man of Steel; This Is the End; As Cool as I Am](https://www.somethingawful.com/current-movie-reviews/man-of-steel/1/)
-* [If You're Stuck Beneath Bedsheets That Are Too Tight, You Don't Have To Die](https://www.somethingawful.com/news/stuck-pinned-free/)
-* [Secrets of the Comic Book Industry](https://www.somethingawful.com/news/secrets-comic-book/)
-* [Starship Invasions](https://www.somethingawful.com/movie-reviews/starship-invasions-lee/1/)
+* [Wicca For Newbies](https://www.somethingawful.com/awful-links/awful-link-751/)
+* [Hentai Invasion: Paradise Heights 2](https://www.somethingawful.com/news/hentai-invasion-paradise/)
+* [I Might Have Misremembered Defeating the Beast With the Krull Glaive](https://www.somethingawful.com/news/brian-williams-lying/)
+* ['Tis the season!](https://www.somethingawful.com/news/tis-the-season/)
+* [Shocking Revelations of the Wikipedia Scanner](https://www.somethingawful.com/news/wikipedia-scanner/)
 
 [Random!](https://www.somethingawful.com/random/)
 
