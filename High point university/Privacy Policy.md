@@ -73,7 +73,7 @@
     * [Life on Campus](#)
         * [Campus Activities](https://www.highpoint.edu/studentactivities/)
         * [Club Sports](https://www.highpoint.edu/club-sports/)
-        * [Clubs & Organizations](https://www.highpoint.edu/diversity/clubs/)
+        * [Clubs & Organizations](https://involved.highpoint.edu/organizations)
         * [Fraternity and Sorority Life](https://www.highpoint.edu/ofsl/)
         * [Multicultural Affairs](https://www.highpoint.edu/diversity/)
         * [Student Government](https://www.highpoint.edu/sga/)
