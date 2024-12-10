@@ -89,7 +89,14 @@
     
 * [Merchandise](https://www.ducks.org/merchandise)
 
-* [](https://www.ducks.org/my-du)
+* [](javascript:myDU.goToMyDU();)
+    
+    * [My DU Home](https://www.ducks.org/my-du)
+    * [My Journals](https://www.ducks.org/my-du/journals)
+    * [Volunteer Portal](https://volunteers.ducks.org/autologin/)
+    * [Log Out](javascript:myDU.auth0Logout();)
+    * * [Renew Membership](https://www.ducks.org/renew "Renew Membership") [Become a member](https://www.ducks.org/year-end-2024 "Become a member")
+    
 * [Get Involved](https://www.ducks.org/get-involved)
     
     * [Join or Renew Membership](https://www.ducks.org/get-involved/du-memberships)
@@ -106,7 +113,7 @@
 
 [](https://www.ducks.org/)
 
-[](https://www.ducks.org/my-du "MyDU")
+[](javascript:myDU.goToMyDU(); "MyDU")
 
 * [Conservation](https://www.ducks.org/conservation "Conservation")
 * [Hunting](https://www.ducks.org/hunting "Hunting")
@@ -115,7 +122,7 @@
 * [About](https://www.ducks.org/about-ducks-unlimited "About")
 * [Merchandise](https://www.ducks.org/merchandise "Merchandise")
 * [Get Involved](https://www.ducks.org/get-involved "Get Involved")
-* [MyDU](https://www.ducks.org/my-du "MyDU")
+* [MyDU](javascript:myDU.goToMyDU(); "MyDU")
 
 Your Location
 
@@ -218,6 +225,14 @@ Change [View State Page](https://www.ducks.org/)
     * [State Calendar Gun Giveaway](https://www.ducks.org/events/calendar-gun-giveaway)
 * * [Donate Now](https://www.ducks.org/year-end-2024)
     * [Give Monthly](https://give.ducks.org/campaign/584940/donate)
+
+[MyDU](javascript:myDU.goToMyDU();)
+
+* [My DU Home](https://www.ducks.org/my-du)
+* [My Journals](https://www.ducks.org/my-du/journals)
+* [Volunteer Portal](https://volunteers.ducks.org/autologin/)
+* [Log Out](javascript:myDU.auth0Logout();)
+* * [Renew Membership](https://www.ducks.org/renew "Renew Membership") [Become a member](https://www.ducks.org/year-end-2024 "Become a member")
 
 * [About Ducks Unlimited](https://www.ducks.org/about-ducks-unlimited)
 * [Privacy Policy](https://www.ducks.org/about-ducks-unlimited/privacy-policy)
