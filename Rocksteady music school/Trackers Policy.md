@@ -26,7 +26,7 @@
 
 [Parent Sign-up](https://booking.rocksteadymusicschool.com/) [Parent Login](https://backstage.rocksteadymusicschool.com/sign-in)
 
-![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile-jpg.avif) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg) 
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-mobile-jpg.avif) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/legal-header-duotone-3.jpg)
 
 Cookie Policy
 =============
@@ -114,6 +114,16 @@ Contact
 
 [](https://www.rocksteadymusicschool.com/ "Home page")
 
-![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/17-Years-1.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Trinity-Logo.svg) ![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Wellbeing.svg)
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/09/17-Years-1.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Trinity-Logo.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
+
+![](https://www.rocksteadymusicschool.com/wp-content/uploads/2024/08/Wellbeing.svg)
+
+![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20210%20140%22%3E%3C/svg%3E)
 
 © 2024 Rocksteady Music School
