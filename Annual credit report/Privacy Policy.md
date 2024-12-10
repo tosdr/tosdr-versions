@@ -36,7 +36,7 @@ Back
     * [Privacy](https://www.annualcreditreport.com/privacy.action)
     * [Terms of use](https://www.annualcreditreport.com/termsOfUse.action)
 
- ![](/resources/static/images/menu-icon.png)menu ![Annual Credit Report.com The only source for your free credit reports. Authorized by Federal law](/resources/static/images/logos/ACR-logo-colour.png)
+ ![menu](/resources/static/images/menu-icon.png)menu ![Annual Credit Report.com The only source for your free credit reports. Authorized by Federal law](/resources/static/images/logos/ACR-logo-colour.png)
 
 * [Home](https://www.annualcreditreport.com/index.action)
 * [All about credit reports](https://www.annualcreditreport.com/yourRights.action)
@@ -46,21 +46,21 @@ Back
 * [Frequently asked questions](https://www.annualcreditreport.com/generalQuestions.action)
 * [Contact us](https://www.annualcreditreport.com/contactUs.action)
 
- ![](/resources/static/images/warning.v1.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
+ ![warning](/resources/static/images/warning.v1.png) **Free weekly online credit reports are available from Equifax, Experian and TransUnion. Credit reports play an important role in your financial life and we encourage you to regularly check your credit history.** [Request your free credit reports](https://www.annualcreditreport.com/requestReport/landingPage.action)
 
 Contact us
 ----------
 
 Contact Us
 
-*  [![](/resources/static/images/navArrow.png) Contact us form](https://www.annualcreditreport.com/contactUs.action)
-*  [![](/resources/static/images/navArrow.png) About this site](https://www.annualcreditreport.com/aboutThisSite.action)
-*  [![](/resources/static/images/navArrow.png) Accessibility](https://www.annualcreditreport.com/accessibility.action)
-*  [![](/resources/static/images/navArrow.png) Suspected phishing](https://www.annualcreditreport.com/suspectPhishing.action)
-*  [![](/resources/static/images/navArrow.png) Policies](https://www.annualcreditreport.com/policies.action)
-*  [![](/resources/static/images/navArrow.png) Security](https://www.annualcreditreport.com/security.action)
-*  [![](/resources/static/images/navArrowSelected.png) Privacy](https://www.annualcreditreport.com/privacy.action)
-*  [![](/resources/static/images/navArrow.png) Terms of use](https://www.annualcreditreport.com/termsOfUse.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Contact us form](https://www.annualcreditreport.com/contactUs.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) About this site](https://www.annualcreditreport.com/aboutThisSite.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Accessibility](https://www.annualcreditreport.com/accessibility.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Suspected phishing](https://www.annualcreditreport.com/suspectPhishing.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Policies](https://www.annualcreditreport.com/policies.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Security](https://www.annualcreditreport.com/security.action)
+*  [![navigation arrow](/resources/static/images/navArrowSelected.png) Privacy](https://www.annualcreditreport.com/privacy.action)
+*  [![navigation arrow](/resources/static/images/navArrow.png) Terms of use](https://www.annualcreditreport.com/termsOfUse.action)
 
 About this site
 ===============
@@ -267,9 +267,9 @@ Central Source wants you to be fully informed about how it will protect your pri
 
 If you have questions or comments about Central Source's online privacy notice or our handling of your personal information, please write to:
 
-* Central Source LLC  
-    P.O. Box 105283  
-    Atlanta, GA 30348-5283
+Central Source LLC  
+P.O. Box 105283  
+Atlanta, GA 30348-5283
 
   
 
