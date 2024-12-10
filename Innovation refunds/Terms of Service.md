@@ -269,11 +269,7 @@ You agree that website may use your feedback, suggestions, or ideas in any way, 
 
 [](https://www.trustpilot.com/review/innovationrefunds.com "trustpilot")
 
-[](https://www.trustpilot.com/review/innovationrefunds.com "trustpilot")
-
 [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/bbb-logo-v3.png)](https://www.bbb.org/us/ia/west-des-moines/profile/business-consultant/innovation-refunds-0664-32147635)
-
-[![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/AICPA-SOC-Badge.webp)](https://www.accesswire.com/749048/Innovation-Refunds-Earns-SOC-2-Compliance-Designation-Under-AICPA-Standard) [![](https://innovationrefunds.com/wp-content/themes/innovation-refunds/assets/images/GTPW.webp)](https://www.greatplacetowork.com/certified-company/7051366)
 
 COMPANY
 
