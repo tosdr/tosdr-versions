@@ -128,17 +128,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Backup and Recovery
+[Customer Stories
 
-Why a Data Lake or Data Warehouse Isn't a Reliable Backup and Recovery Solution](https://www.ownbackup.com/blog/why-a-data-lake-or-data-warehouse-isnt-a-backup-solution)
+Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
-[Data Archiving
+[Customer Stories
 
-What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
-[Company News
+[Compliance
 
-10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
+How to Create a SOX Compliance Checklist](https://www.ownbackup.com/blog/how-to-create-a-sox-compliance-checklist)
 
 Company
 
@@ -352,17 +352,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Backup and Recovery
+[Customer Stories
 
-Why a Data Lake or Data Warehouse Isn't a Reliable Backup and Recovery Solution](https://www.ownbackup.com/blog/why-a-data-lake-or-data-warehouse-isnt-a-backup-solution)
+Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
-[Data Archiving
+[Customer Stories
 
-What is Data Archiving?](https://www.ownbackup.com/blog/what-is-data-archiving)
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
 
-[Company News
+[Compliance
 
-10 Can't-Miss Posts About SaaS Data Protection, From Learning Basics to Picking a Solution](https://www.ownbackup.com/blog/10-must-read-posts-about-saas-data-protection)
+How to Create a SOX Compliance Checklist](https://www.ownbackup.com/blog/how-to-create-a-sox-compliance-checklist)
 
 Company
 
