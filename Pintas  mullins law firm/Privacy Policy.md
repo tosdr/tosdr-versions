@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
+[![What is the difference between bodily injury and personal injury?](https://www.pintas.com/wp-content/uploads/2020/07/personal-injury-what-is-the-difference-between-bodily-injury-and-personal-injury.jpg "What Is the Difference Between Bodily Injury and Personal Injury?")](https://www.pintas.com/practice-areas/personal-injury/bodily-injury-vs-personal-injury/ "What Is the Difference Between Bodily Injury and Personal Injury?")
 
-[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
+[#### What Is the Difference Between Bodily Injury and Personal Injury?](https://www.pintas.com/practice-areas/personal-injury/bodily-injury-vs-personal-injury/)
 
-[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
+[![Can mesothelioma be benign?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-mesothelioma-be-benign-scaled.jpg "Can Mesothelioma Be Benign?")](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/ "Can Mesothelioma Be Benign?")
 
-[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
+[#### Can Mesothelioma Be Benign?](https://www.pintas.com/lung-cancer/can-mesothelioma-be-benign/)
 
-[![Why you shouldn’t use johnson and johnson baby products](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-you-shouldnt-use-johnson-and-johnson-baby-products.jpg "Why You Shouldn’t Use Johnson and Johnson Baby Products")](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/ "Why You Shouldn’t Use Johnson and Johnson Baby Products")
+[![How do nursing homes meet nutritional needs?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-do-nursing-homes-meet-nutritional-needs-scaled.jpg "How Do Nursing Homes Meet Nutritional Needs?")](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/ "How Do Nursing Homes Meet Nutritional Needs?")
 
-[#### Why You Shouldn’t Use Johnson and Johnson Baby Products](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/)
+[#### How Do Nursing Homes Meet Nutritional Needs?](https://www.pintas.com/faq/how-do-nursing-homes-meet-nutritional-needs/)
 
 ### Injured?  
 Tell Us What Happened.
