@@ -2,7 +2,7 @@ Join us December 10-11, 2024
 
 ![](https://www.gitkraken.com/wp-content/uploads/2024/11/Vector.png) | Developer Experience + AI Conference
 
-Register now free →
+Watch Live →
 
 [![](https://www.gitkraken.com/wp-content/uploads/2024/11/Group-21666.png)](https://www.gitkraken.com/)
 
