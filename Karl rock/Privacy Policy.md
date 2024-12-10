@@ -410,17 +410,17 @@ Top
     
     [How to Book a Train Ticket in India (For Foreigners)](https://blog.karlrock.com/how-to-book-a-train-ticket-in-india-for-foreigners/ "How to Book a Train Ticket in India (For Foreigners)")
     
-* [![The Most Common Tourist Scams in India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/12/India-Rickshaw-Scams-Exposed-How-to-Get-the-Best-Price-Video.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-most-common-tourist-scams-in-india/ "The Most Common Tourist Scams in India")
-    
-    [The Most Common Tourist Scams in India](https://blog.karlrock.com/the-most-common-tourist-scams-in-india/ "The Most Common Tourist Scams in India")
-    
 * [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
     [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
-* [![Travel Essentials: Before You Travel to India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/04/2.-Male-Book-on-the-table-with-travel-objects-1.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+* [![How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2019/11/Kartarpur-Darbar-Sahib-Main-Prayer-Hall.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
     
-    [Travel Essentials: Before You Travel to India](https://blog.karlrock.com/travel-essentials-before-you-travel-to-india/ "Travel Essentials: Before You Travel to India")
+    [How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)](https://blog.karlrock.com/how-to-travel-to-kartarpur-sahib-via-kartarpur-corridor/ "How to Travel to Kartarpur Sahib via Kartarpur Corridor (Full Guide)")
+    
+* [![The Most Common Tourist Scams in India](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2017/12/India-Rickshaw-Scams-Exposed-How-to-Get-the-Best-Price-Video.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/the-most-common-tourist-scams-in-india/ "The Most Common Tourist Scams in India")
+    
+    [The Most Common Tourist Scams in India](https://blog.karlrock.com/the-most-common-tourist-scams-in-india/ "The Most Common Tourist Scams in India")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
