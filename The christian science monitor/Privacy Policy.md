@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Hope
+
+### For Syrians, Assad is in the past: ‘The thing we all have now is hope’](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-jolani-russia-jihadis-hts "For Syrians, Assad is in the past: ‘The thing we all have now is hope’")
+
 [Community
 
 ### Longings for home drove Syria’s liberation](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1209/Longings-for-home-drove-Syria-s-liberation "Longings for home drove Syria’s liberation")
@@ -100,21 +104,17 @@ Recent Stories
 
 ### How a revered starchy side dish helped choose Ghana’s next president](https://www.csmonitor.com/World/Africa/2024/1209/ghana-election-president-john-mahama-mahamudu-bawumia "How a revered starchy side dish helped choose Ghana’s next president")
 
-[Generosity
-
-### A peek into ‘boundless’ generosity](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1206/A-peek-into-boundless-generosity "A peek into ‘boundless’ generosity")
-
 [See all News & Values stories](https://www.csmonitor.com/values)
 
 * * *
 
 Monitor Daily
 
-December 06, 2024
+December 09, 2024
 
-A writer’s bearings
+A historic moment in the Middle East
 
-This fall’s significant, simultaneous wildfires were new to Massachusetts. We usually get our reds and golds in a gentler way. The Monitor’s Mackenzie Farkus until recently called the commonwealth’s heavily wooded west, where the Butternut Fire burned, home. So she hopped into her hatchback. “I immediately knew where to go and who might make for good interviews,” Mackenzie says. She drove out to the Berkshires, dodging eight deer and a porcupine, to lead a team report and help us find the broader story in a local event.
+What just happened in Syria? In his Patterns column today, Ned Temko calls this a “fall of the Berlin Wall” moment for the Middle East. The challenges will be enormous, and Ned lays them out carefully. But stunningly, a ruthless dictator is gone as crowds chanted, “One, one, the Syrian people are one!”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### For Syrians, Assad is in the past: ‘The thing we all have now is hope’](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-jolani-russia-jihadis-hts "For Syrians, Assad is in the past: ‘The thing we all have now is hope’")
+
+[### They thwarted martial law. But South Koreans say the fight for democracy is not over.](https://www.csmonitor.com/World/Asia-Pacific/2024/1209/south-korea-martial-law-democracy-yoon-suk-yeol "They thwarted martial law. But South Koreans say the fight for democracy is not over.")
+
 [### What next for leaderless Syria, once the Mideast’s hub?](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-hezbollah-iran-mideast-trump "What next for leaderless Syria, once the Mideast’s hub?")
-
-[### How a revered starchy side dish helped choose Ghana’s next president](https://www.csmonitor.com/World/Africa/2024/1209/ghana-election-president-john-mahama-mahamudu-bawumia "How a revered starchy side dish helped choose Ghana’s next president")
-
-[### Netanyahu’s corruption trial started four years ago. Why is he taking the stand now?](https://www.csmonitor.com/World/Middle-East/2024/1209/Netanyahu-Gaza-Israel-war-testify-corruption-trial "Netanyahu’s corruption trial started four years ago. Why is he taking the stand now?")
 
 * * *
 
