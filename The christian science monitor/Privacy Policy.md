@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Balance
+
+### Hailing the innocent in Syria](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1210/Hailing-the-innocent-in-Syria "Hailing the innocent in Syria")
+
 [Hope
 
 ### For Syrians, Assad is in the past: ‘The thing we all have now is hope’](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-jolani-russia-jihadis-hts "For Syrians, Assad is in the past: ‘The thing we all have now is hope’")
@@ -99,10 +103,6 @@ Recent Stories
 [Community
 
 ### Longings for home drove Syria’s liberation](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1209/Longings-for-home-drove-Syria-s-liberation "Longings for home drove Syria’s liberation")
-
-[Prosperity
-
-### How a revered starchy side dish helped choose Ghana’s next president](https://www.csmonitor.com/World/Africa/2024/1209/ghana-election-president-john-mahama-mahamudu-bawumia "How a revered starchy side dish helped choose Ghana’s next president")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### For Syrians, Assad is in the past: ‘The thing we all have now is hope’](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-jolani-russia-jihadis-hts "For Syrians, Assad is in the past: ‘The thing we all have now is hope’")
+[### After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.](https://www.csmonitor.com/USA/2024/1210/united-healthcare-shooting-suspect-mangione "After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.")
 
-[### They thwarted martial law. But South Koreans say the fight for democracy is not over.](https://www.csmonitor.com/World/Asia-Pacific/2024/1209/south-korea-martial-law-democracy-yoon-suk-yeol "They thwarted martial law. But South Koreans say the fight for democracy is not over.")
+[### Squat lobsters and filtering fungi: Discoveries from the ocean deep to an African lab](https://www.csmonitor.com/World/Points-of-Progress/2024/1210/barcelona-subway-domestic-violence-protections "Squat lobsters and filtering fungi: Discoveries from the ocean deep to an African lab")
 
-[### What next for leaderless Syria, once the Mideast’s hub?](https://www.csmonitor.com/World/Middle-East/2024/1209/syria-assad-hezbollah-iran-mideast-trump "What next for leaderless Syria, once the Mideast’s hub?")
+[### After President Milei’s first year, Argentina’s economy is looking strangely ... normal](https://www.csmonitor.com/World/Americas/2024/1210/Argentina-President-Milei-inflation-economy-Trump "After President Milei’s first year, Argentina’s economy is looking strangely ... normal")
 
 * * *
 
