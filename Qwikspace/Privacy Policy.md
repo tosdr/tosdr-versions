@@ -1,8 +1,8 @@
-Privacy Policy _Last updated 1st May 2022_
+Privacy Policy _Last updated 10th December 2024_
 
 Table of Contents
 
-[Introduction](#Introduction) [Data collection](#Data-collection) [IP Addresses and User Agents](#IP-Addresses-and-User-Agents) [Cookies](#Cookies) [Username and password](#Username-and-password) [Data retention](#Data-retention) [Data sharing](#Data-sharing) [Exceptions](#Exceptions) [qam - qwik account manager](#qam---qwik-account-manager) [XMPP](#XMPP) [Gitea](#Gitea) [Hedgedoc](#Hedgedoc) [Nitter, Bibliogram, Libreddit, Searx](#Nitter,-Bibliogram,-Libreddit,-Searx) [Recommendations](#Recommendations)
+[Introduction](#Introduction) [Data collection](#Data-collection) [IP Addresses and User Agents](#IP-Addresses-and-User-Agents) [Cookies](#Cookies) [Username and password](#Username-and-password) [Data retention](#Data-retention) [Data sharing](#Data-sharing) [Exceptions](#Exceptions) [qam - qwik account manager](#qam---qwik-account-manager) [XMPP](#XMPP) [Gitea](#Gitea) [Hedgedoc](#Hedgedoc) [Libreddit](#Libreddit) [Recommendations](#Recommendations)
 
 Introduction
 ============
@@ -74,8 +74,8 @@ The documents you write will be stored unecrypted. This also applies to image up
 
 Hedgedoc also uses some cookies, they will be used to keeping you signed in and remembering your settings.
 
-Nitter, Bibliogram, Libreddit, Searx
-------------------------------------
+Libreddit
+---------
 
 These services all use cookies to remember your settings.
 
