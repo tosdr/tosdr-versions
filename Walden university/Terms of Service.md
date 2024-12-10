@@ -298,6 +298,7 @@ Main Navigation
     * Find out what sets Walden apart.
     * We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.
     * [Why Walden Overview](https://www.waldenu.edu/why-walden)
+    * [Wayfinder](https://www.waldenu.edu/why-walden/wayfinder)
     * [Flexibility](https://www.waldenu.edu/why-walden/flexibility)
     * [Social Change Mission](https://www.waldenu.edu/why-walden/social-change)
     * [Diversity](https://www.waldenu.edu/why-walden/diversity)
@@ -836,6 +837,7 @@ Utility Navigation
     * [Find out what sets Walden apart.](# "Find out what sets Walden apart.")
     * [We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.](# "We’ve helped more than 140,000 professionals find the way forward. And we’re ready to empower you.")
     * [Why Walden Overview](https://www.waldenu.edu/why-walden "Why Walden Overview")
+    * [Wayfinder](https://www.waldenu.edu/why-walden/wayfinder "Wayfinder")
     * [Flexibility](https://www.waldenu.edu/why-walden/flexibility "Flexibility")
     * [Social Change Mission](https://www.waldenu.edu/why-walden/social-change "Social Change Mission")
     * [Diversity](https://www.waldenu.edu/why-walden/diversity "Diversity")
@@ -1064,6 +1066,7 @@ Secondary Footer Navigation
 * [Legal & Consumer Info](https://www.waldenu.edu/legal)
 * [Website Terms and Conditions](https://www.waldenu.edu/legal/website-terms-and-conditions)
 * [Cookie Policy](https://www.waldenu.edu/legal/cookie-policy)
+* [Privacy Policy](https://www.waldenu.edu/legal)
 * [Disability Services](https://www.waldenu.edu/disability-services)
 * [Accessibility Statement](https://www.waldenu.edu/legal/accessibility)
 * [Accreditation](https://www.waldenu.edu/about/accreditation)
@@ -1084,6 +1087,8 @@ Secondary Footer Navigation
 * [8556465286 8556465286](tel:8556465286 "Call us")
 
 [Request Info](#rfi-form)
+
+Walden University is accredited by the Higher Learning Commission [(www.hlcommission.org)](https://www.hlcommission.org/?comm_code=4171900), an institutional accreditation agency recognized by the U.S. Department of Education.
 
 Walden University is a member of Adtalem Global Education, Inc. [www.adtalem.com](https://www.adtalem.com/) | Walden University is certified to operate by SCHEV
 
