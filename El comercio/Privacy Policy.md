@@ -31,994 +31,1034 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito
-==================================================================
+¿Chris Evans regresará al Universo Marvel como Capitán América o Johnny Storm? 
+===============================================================================
 
-El Cuerpo de Bomberos brinda atención de primeros auxilios a dos personas afectadas en el choque de la Ruta Viva
-----------------------------------------------------------------------------------------------------------------
+Chris Evans vuelve al Universo Marvel en ‘Avengers: Doomsday’.
+--------------------------------------------------------------
 
-![Bomberos brindan atención a los afectados](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T081610.451.jpg)
+![En ‘Avengers: Doomsday’, Chris Evans y Robert Downey Jr. regresan al MCU en roles sorprendentes. Foto: IMDb.](https://www.elcomercio.com/wp-content/uploads/2024/12/Chris-Evans.jpg)
 
-El **Cuerpo de Bomberos Quito** informó este martes 10 de diciembre de 2024 sobre la atención a personas afectadas en un siniestro de tránsito en la **Ruta Viva.**
-
-### Más noticias
-
-* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
-* [Cortes de luz en Quito para este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-10-diciembre.html "Cortes de luz en Quito para este martes 10 de diciembre")
-* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
-
-El siniestro de tránsito
-------------------------
-
-En la mañana de este 10 de diciembre, un **siniestro de tránsito** se registró en la **Ruta Viva,** a la altura del sector de Lumbisí, en sentido sur-norte.
-
-El personal de**l Cuerpo de Bomberos** brinda atención a las personas afectadas en esta emergencia en la vía. Los paramédicos dan atención prehospitalaria **a dos personas** y evaluarán su estado de salud.
-
-Agentes de la AMT **cerraron dos carriles** de la vía en sentido Aeropuerto – Quito mientras se solventa la emergencia.
-
-Si necesitas circular por el sector puedes [tomar las vías](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
-
-* Intervalles
-* Interoceánica
-
-> 💥🚗 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Ruta Viva, sector Lumbisí, sentido sur – norte.  
->   
-> 🚑 Nuestro equipo brinda atención prehospitalaria a dos personas afectadas.  
->   
-> 🚧 La vía se encuentra parcialmente habilitada. Conduce con precaución.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YkKxAUPLD3](https://t.co/YkKxAUPLD3)
-> 
-> — Bomberos Quito (@BomberosQuito) [December 10, 2024](https://twitter.com/BomberosQuito/status/1866463460193657161?ref_src=twsrc%5Etfw)
-
-_**Noticia en desarrollo…**_
-
-Lula está operado de una hemorragia intracraneal
-================================================
-
-Luiz Inácio Lula da Silva acudió a un centro médico con un dolor de cabeza. Luego de una resonancia, se le detectó la hemorragia
---------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente de Brasil, Luiz Inácio Lula da Silva, asiste a la cumbre semestral de presidentes de los países del Mercosur este viernes, en Montevideo (Uruguay).](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T073932.356.jpg)
-
-El presidente de Brasil, **Luiz Inácio Lula da Silva,** se sometió a una intervención quirúrgica para drenar una hemorragia intracraneal. Esta hemorragia es una **consecuencia de la caída** que sufrió el pasado 19 de octubre, informó este martes el centro médico.
+**Chris Evans**, conocido por su icónico papel como **Steve Rogers / Capitán América**, se especula está listo para regresar al **Universo Cinematográfico de Marvel (MCU)** en la esperada película **‘Avengers: Doomsday’**.  
 
 ### Más noticias
 
-* [Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden](https://www.elcomercio.com/actualidad/mundo/defensa-de-trump-pide-desestimar-su-caso-en-nueva-york-tras-indulto-al-hijo-de-biden.html "Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden")
-* [Sheinbaum, Netanyahu, Musk y Trump, entre los candidatos a ‘persona del año’](https://www.elcomercio.com/actualidad/mundo/sheinbaum-netanyahu-musk-trump-candidatos-persona-ano.html "Sheinbaum, Netanyahu, Musk y Trump, entre los candidatos a ‘persona del año’")
-* [Yamandú Orsi es el nuevo presidente de Uruguay](https://www.elcomercio.com/actualidad/mundo/orsi-gana-las-elecciones-en-un-uruguay-que-da-una-nueva-muestra-de-civilidad-democratica.html "Yamandú Orsi es el nuevo presidente de Uruguay")
+* [¿Cómo ver ‘Ghosted’?, la película de Ana de Armas y Chris Evans](https://www.elcomercio.com/tendencias/entretenimiento/como-ver-ghosted-pelicula-ana-armas-chris-evans.html "https://www.elcomercio.com/tendencias/entretenimiento/como-ver-ghosted-pelicula-ana-armas-chris-evans.html")
+* [Chris Evans, el ‘capitán América’, tiene nueva novia](https://www.elcomercio.com/tendencias/entretenimiento/chris-evans-capitan-america-nueva-novia.html "https://www.elcomercio.com/tendencias/entretenimiento/chris-evans-capitan-america-nueva-novia.html")
 
-La cirugía de Lula
-------------------
+Este anuncio ha generado una **ola de especulaciones** entre los fanáticos, especialmente porque Evans no se sabe si volverá como el **Capitán América** o como **Johnny Storm**, su personaje en ‘Los Cuatro Fantásticos’, según [Marca](https://us.marca.com/tiramillas/cine/2024/12/10/67579909268e3e726b8b457d.html "https://us.marca.com/tiramillas/cine/2024/12/10/67579909268e3e726b8b457d.html"). La incertidumbre sobre su nuevo papel ha despertado el interés de la comunidad Marvel. 
 
-La **cirugía** se desarrolló “sin problemas” y **Lula se encuentra “bien”** en la unidad de cuidados intensivos del Hospital Sírio-Libanés, en São Paulo. Así informaron con un boletín divulgado en las redes sociales del mandatario.
+**Un elenco estelar que quiere a Chris Evans** 
+-----------------------------------------------
 
-El líder progresista brasileño, de 79 años, acudió la noche del lunes a un centro médico en Brasilia por “un dolor de cabeza”. Tras realizarle una **resonancia magnética,** le fue detectada “una hemorragia intracraneal”.
+La película **‘Avengers: Doomsday’**, programada para estrenarse el 1 de mayo de 2026, contará con un **elenco impresionante**. Junto a **Chris Evans**, se espera el regreso de **Robert Downey Jr.**, quien interpretará a **Victor Von Doom / Doctor Doom**, un giro inesperado ya que anteriormente encarnó a Tony Stark / Iron Man, siguiendo con  Marca.   
 
-El Jefe de Estado fue entonce**s trasladado de urgencia** a la ciudad de São Paulo, donde pasó por el quirófano para drenarle el hematoma detectado en la cabeza.
+Este regreso de los actores que formaron parte de la **“primera generación” de Avengers** marca un momento significativo en la historia del MCU. Los **hermanos Russo**, responsables de algunas de las entregas más exitosas del MCU, **dirigirán esta película**. Su participación promete un **enfoque innovador y emocionante** para la narrativa. Se especula que podrían explorar **saltos temporales o tramas complejas** que mantendrán a los espectadores al borde de sus asientos, a decir de [Hipertextual](https://hipertextual.com/2024/12/chris-evans-regresara-a-marvel-con-avengers-doomsday-pero-no-todo-son-buenas-noticias "https://hipertextual.com/2024/12/chris-evans-regresara-a-marvel-con-avengers-doomsday-pero-no-todo-son-buenas-noticias").  
 
-“La cirugía transcurrió sin problemas y, en este momento, **el presidente se encuentra bien**, bajo monitoreo, en una cama de cuidados intensivos”, señaló el centro médico.
-
-El hospital informó que en la mañana de este martes realizará una rueda de prensa con los médicos responsables para actualizar **el cuadro de salud de Lula.**
-
-La hemorragia se derivó de una caída
+**Rumores sobre el papel de Evans** 
 ------------------------------------
 
-El boletín especifica que **la hemorragia es reflejo de la caída** que sufrió el pasado 19 de octubre en el Palacio de la Alvorada, residencia oficial de la Presidencia brasileña, en Brasilia. Por esa caída hubo que darle cinco puntos de **sutura en la nuca.**
+A pesar del **entusiasmo por su regreso**, el **papel específico** que interpretará **Chris Evans** sigue siendo un misterio. Según informes, **su personaje no será una continuación** directa de sus papeles anteriores en el MCU, a decir de Marca.  
 
-Durante las siguientes semanas **pasó por diversas revisiones** sin mayores problemas, aunque los médicos le impidieron viajar en avión durante un tiempo por precaución.
+Esto ha llevado a **diversas teorías** entre los fanáticos sobre qué nuevo personaje podría asumir. Algunos sugieren que **podría ser un villano** o incluso un héroe diferente, lo que añade una capa adicional de intriga a su regreso. 
 
-De hecho, tuvo que cancelar su viaje a Rusia, a finales de octubre, para participar en la cumbre del grupo de los BRICS**. Una vez recibió el alta**, retomó sus viajes con normalidad.
+**Expectativas para ‘Avengers: Doomsday’** 
+-------------------------------------------
 
-Lula, en el poder desde el 1 de enero de 2023, viene de una intensa agenda de trabajo en noviembre y los primeros días de diciembre. Después de ser el anfitrión **en Río de Janeiro** de la cumbre de líderes del G20 y viajar a Montevideo para la reunión semestral de [presidentes del Mercosur.](https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva "https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva")  
+La anticipación por **‘Avengers: Doomsday’** es palpable. Los fanáticos han estado a la espera de noticias **sobre el futuro del MCU** tras los eventos de **‘Avengers: Endgame’**. Con el regreso de figuras clave como **Evans y Downey Jr.**, muchos creen que esta película podría ser una de las más épicas hasta la fecha. Además, se rumorea que otros personajes icónicos como **Thor (Chris Hemsworth) y Bruce Banner / Hulk (Mark Ruffalo)** también podrían regresar, aunque con posibles cambios en sus roles dentro del equipo, siguiendo con Marca.  
 
-Daniel Noboa anunció el fin de los apagones en Ecuador
-======================================================
+### Te recomendamos:
 
-La incorporación de megavatios, el mejoramiento de las condiciones climáticas e importación desde Colombia aportaron.
----------------------------------------------------------------------------------------------------------------------
+Lula da Silva, estable en la UCI tras ser operado de urgencia de una hemorragia intracraneal
+============================================================================================
 
-![El presidente Daniel Noboa anunció la suspensión de los apagones. Lo publicó en su cuenta de X este martes 10 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-5-6-diciembre.jpg)
+El mandatario de 79 años está consciente, habla "normalmente" y no tendrá ningún tipo de secuela neurológica.
+-------------------------------------------------------------------------------------------------------------
 
-El **presidente de la República, Daniel Noboa**, anunció la fecha de suspensión de los cortes de luz en **Ecuador**. El anuncio lo realizó este martes 10 de diciembre de 2024.
+![El presidente de Brasil, Luiz Inácio Lula da Silva, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/12/Lula-da-silva.jpg)
 
-**Noboa** -mediante un comunicado- indicó que los efectos del **cambio climático**, la negligencia y la mala gestión de **gobiernos anteriores** fueron las causas de la **crisis en el sector eléctrico**, que afectó al **Ecuador**.
-
-### Más noticias
-
-* [Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?](https://www.elcomercio.com/actualidad/ecuador/cuenca-salir-sequia-prolongada-51-anos.html "Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?")
-* [Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?](https://www.elcomercio.com/actualidad/negocios/cuatro-dias-seguidos-lluvias-cuenca-como-mejorado-paute-mazar.html "Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?")
-* [Cortes de luz en Quito para este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-10-diciembre.html "Cortes de luz en Quito para este martes 10 de diciembre")
-
-¿Cuándo se suspenderán los apagones?
-------------------------------------
-
-El presidente Noboa informó que, desde el 20 de diciembre, no habrá cortes en todo el Ecuador.
-
-Según él, esta decisión se adoptó en función de algunos parámetros.
-
-La primera razón es la recuperación de **capacidad instalada**. Destacó el mantenimiento y la **recuperación de centrales térmicas e hidroeléctricas.**
-
-Además, los 696,7 megavatios que se suman al sistema eléctrico. La incorporación de **Toachi Pilatón**, que aportará 204 megavatios.
-
-Otros factores son la incorporación de **nueva generación de energía**. Están operativos 100 megavatios de generación firme flotante y, entre diciembre de 2024 y enero de 2025, se añadirán 501 megavatios más.
-
-La importación de energía desde Colombia
-----------------------------------------
-
-**Noboa** destacó que en la decisión de suspender los cortes de luz está la **compra de energía a Colombia**. “Las negociaciones se retomaron luego de conversaciones y acuerdos en beneficio de ambas naciones”.
-
-También, pesó el mejoramiento de las condiciones meteorológicas.
-
-Las condiciones en Mazar y Paute
---------------------------------
-
-La cota del **embalse de Mazar** se ubica en los 2 114 metros sobre el nivel del mar, este martes 10 de diciembre. Ese nivel representa un crecimiento de tres metros con relación al viernes 6 de diciembre.
-
-En la represa de la **Central Paute** también hubo un aumento. El embalse está en los 1 984,45 metros sobre el nivel del mar, lo que representa que está a menos de **siete metros del máximo.**
-
-El caudal promedio de ingreso a l**a cuenca del río Paute,** que alimenta a los centrales y a **Sopladora**, no ha bajado de los 40 metros cúbicos por segundo durante diciembre. El máximo fue de 75,89.
-
-En noviembre, en cambio, el promedio máximo diario fue de 42 metros cúbicos por segundo registrado el 28 de ese mes.
-
-> A los ecuatorianos: [pic.twitter.com/lDKT3KILci](https://t.co/lDKT3KILci)
-> 
-> — Daniel Noboa Azin (@DanielNoboaOk) [December 10, 2024](https://twitter.com/DanielNoboaOk/status/1866431572825821500?ref_src=twsrc%5Etfw)
-
-Así funciona el Pico y placa en Quito este martes 10 de diciembre
-=================================================================
-
-Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T152756.731.jpg)
-
-La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+El presidente brasileño, [Luiz Inácio Lula da Silva](https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva "https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva"), se encuentra “estable” este martes, 10 de diciembre de 2024. Se encuentra en la **unidad de cuidados intensivo**s de un **hospital de São Paulo**, después de ser operado de urgencia de una **“hemorragia intracraneal”** producto de la caída que sufrió hace dos meses.
 
 ### Más noticias
 
-* [Los cortes de agua potable terminan en Quito, ¿desde cuándo?](https://www.elcomercio.com/actualidad/quito/los-cortes-de-agua-potable-terminan-en-quito-desde-cuando.html "Los cortes de agua potable terminan en Quito, ¿desde cuándo?")
-* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
-* [Ernesto Albán Gómez falleció a los 87 años](https://www.elcomercio.com/actualidad/ecuador/ernesto-alban-gomez-fallecio-a-los-87-anos.html "Ernesto Albán Gómez falleció a los 87 años")
+* [Lula está operado de una hemorragia intracraneal](https://www.elcomercio.com/actualidad/mundo/lula-operado-hemorragia-intracraneal.html "https://www.elcomercio.com/actualidad/mundo/lula-operado-hemorragia-intracraneal.html")
+* [Brasil veta las importaciones de camarones de Ecuador ¿Cuál es el motivo?](https://www.elcomercio.com/actualidad/negocios/brasil-veta-importaciones-camarones-ecuador-motivo.html "Brasil veta las importaciones de camarones de Ecuador ¿Cuál es el motivo?")
+* [Lula da Silva a Nicolás Maduro: ‘el que pierde se lleva un baño de votos, no un baño de sangre’](https://www.elcomercio.com/actualidad/mundo/lula-silva-nicolas-maduro-elecciones-venezuela.html "https://www.elcomercio.com/actualidad/mundo/lula-silva-nicolas-maduro-elecciones-venezuela.html")
 
-El esquema de aplicación del Pico y Placa
------------------------------------------
+El **mandatario de 79 años está consciente, habla “normalmente”** y no tendrá ningún tipo de secuela neurológica. La información fue dada en una rueda de prensa el **equipo médico del Hospital Sirio-Libanés de São Paulo**. Allí permanecerá ingresado por lo menos hasta el próximo lunes.
 
-En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+“Lula evoluciona bien”, **fue extubado y ahora está “estable” y “tranquilo”** (…) “No tuvo ninguna lesión cerebral. El riesgo de lesión es cero”, aseguró el doctor Roberto Kalil a los periodistas.
 
-Según el **último dígito de la placa**, el cronograma es el siguiente:
+En principio, Lula, quien está acompañado por su esposa Rosângela ‘Janja’ da Silva, permanecerá en la UCI durante “las próximas 48 horas” por precaución. Después continuará en **observación hasta que vuelva a Brasilia,** lo que pudiera ocurrir el 16 de diciembre.
 
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
+El líder progresista se empezó a encontrar mal en la tarde del lunes, 9 de diciembre de 2024, y esa noche acudió a la unidad del Sirio Libanés de Brasilia con “dolores de cabeza”.
 
-Este martes, no circulan los autos con placas terminadas en 3 y 4.
+Allí se sometió a una **resonancia magnética** que constató “un sangramiento” de “tres centímetros” entre el cráneo y el cerebro.
 
-Documentos necesarios para circular
------------------------------------
+“Fue un hematoma frontoparietal en el lado izquierdo” de la cabeza, detalló el doctor Marcos Stavale, presente en la rueda de prensa.
 
-Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+El equipo médico decidió entonces trasladarlo de urgencia a São Paulo para ser intervenido.
 
-Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
-
-* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
-* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
-* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
-* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
-* Realizar la evaluación teórica.
-* Esperar la entrega de la nueva licencia.
-
-Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
-
-Colaboración ciudadana en el Pico y placa
------------------------------------------
-
-El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
-
-Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
-
-En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
-> 
-> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
-
-Las cooperativas de ahorro y crédito pequeñas deben aplicar una mayor austeridad
-================================================================================
-
-La época obliga a tener mayor control sobre los excesos de gastos operativos. Pedir asesoría es una alternativa para reducir los riesgos.
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Imagen referencial. La morosidad en los créditos de las cooperativas más pequeñas oscila entre el 10% y 11%. Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/editorial-2.jpg)
-
-Un dato importante reveló la **Superintendencia de Economía Popular y Solidaria (SEPS)** sobre las **cooperativas de ahorro y crédito** más **pequeñas** del Ecuador. La **morosidad en los créditos** oscila entre el 10% y 11%.
-
-Eso representa que entre 10 y 11 dólares de cada 100 entregados en préstamos son de difícil recuperación para estas entidades, que tienen menos de un millón de dólares en activos.
-
-El promedio de morosidad de todo el sector es del 9%.
-
-> Eso no significa que las cooperativas estén malas condiciones porque su solvencia supera las normas técnicas. El promedio del sector es del 16%, mientras la normativa establece el 9%. La solvencia no es más que la capacidad para cumplir con todas sus obligaciones.
-
-Pero el indicador de **morosidad**, que ha crecido desde el inicio de la pandemia en 2020, si debe generar una mayor atención y precaución entre los representantes de estas entidades financieras de la **economía popular y solidaria**.
-
-Las administraciones deben aplicar un **estricto nivel de austeridad**. La época obliga a tener mayor control sobre los **excesos de gastos operativos**. Es decir, evitar altos **salarios** entre sus directivos, cierre de **agencias que no son rentables**, no destinar recursos a **fiestas, reuniones**…
-
-La intención es que el control de gastos permita generar márgenes operativos, que posibiliten cubrir adecuadamente las provisiones. Son reservas o fondos que sirven para cubrir obligaciones futuras o posibles pérdidas.
-
-De forma paralela es necesario que las pequeñas cooperativas busquen asesoramiento en instituciones más grandes. El objetivo es mejorar las metodologías para conceder los créditos. De esa forma reducirán los riesgos.
-
-Estos procedimientos -además- permitirán que sus depositantes se sientan seguros con las administraciones y sigan confiando con sus recursos.
-
-La Superintendencia de Economía Popular y Solidaria hace controles a los balances y visita las entidades con indicadores más débiles. Esa es otra fuente de soporte para estas pequeñas entidades. Otras opciones son recurrir a organizaciones internacionales o a las asociación del sector.
-
-Derechos y democracia en tiempos de crisis
-==========================================
-
-La gobernabilidad sería inconcebible sin el ejercicio pleno de los derechos humanos y las responsabilidades correlativas. Un enfoque emergente.
------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los derechos humanos en el centro de las Constituciones del mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/a-photo-of-a-room-with-multiple-copies-of-the-worl-TJWEAO1NTemfNRiZqQHYww-OJghxge7Q5WG6JqoDc2dHA.jpeg)
-
-Los Estados requieren para su supervivencia dos premisas importantes: **el ejercicio de los derechos humanos propiamente dichos y la democracia**, dos variables que han incidido de manera notable en la gobernabilidad.
-
-Democracia y desarrollo humano
-------------------------------
-
-**La democracia es un requisito básico para el logro del desarrollo humano.** Esta premisa ha sido asumida por el Ecuador como política de Estado, independientemente de los sucesivos gobiernos en los últimos años.
-
-La democracia –entendida por “el gobierno del pueblo”- no es un valor en sí mismo, sino un medio indispensable para el desarrollo humano, entendido como **el sistema que permite la satisfacción de las necesidades básicas (salud, educación, nutrición y empleo seguro), para el logro de la calidad de vida, con criterios de sustentabilidad y sostenibilidad.**
-
-No de otra forma, la democracia garantiza los derechos humanos: **los derechos civiles, los derechos sociales y los derechos políticos de todos los ciudadanos.** Los **derechos civiles** implican los derechos a la vida, a la integridad física, a la libertad en todos los campos, a la justicia, a la privacidad, a la igualdad ante la ley y a la no discriminación. Los **derechos sociales** comprenden los derechos al bienestar, a la seguridad económica, a la seguridad social, a vivir con dignidad, con salud, educación y trabajo. Y los **derechos políticos**: los derechos a votar, a elegir libremente, a la transparencia electoral, a que se respeten sus derechos ciudadanos, a ejercer la auditoria social y a ejercer cargos públicos en igualdad de condiciones.
-
-Teorías y modelos
------------------
-
-**Así entendida, la democracia es mucho más que un conjunto de condiciones para elegir y ser elegidos –democracia electoral-. También es un sistema de organización social con el objetivo de asegurar y expandir los derechos de las personas.**
-
-**La ortodoxia consideró que la democracia es el conjunto de procedimientos para elegir gobernantes.** Esta teoría elitista de la política es cuestionada por **la teoría participativa que, sin salirse del enfoque institucional, intenta recuperar la acción política para los ciudadanos**, pero dentro del ámbito del Estado y sus instituciones.
-
-Un modelo distinto de concebir la política y hacer política se orientó a desestatizar la política, en el sentido de que **los asuntos públicos, en esencia, conciernen no solo exclusiva y excluyentemente al Estado, como plantea la teoría tradicional, sino a la sociedad civil.** El Ecuador intentó aplicar ese “modelo distinto” mediante la creación del Consejo de Participación Ciudadana y Control Social.
-
-Partidos políticos
-------------------
-
-**La democracia en su aspecto formal tiene instituciones, que permiten el ejercicio del poder, y a través de diversas funciones (ejecutiva, legislativa, judicial, electoral y participación)** se aplican programas de gobierno. Uno de los espacios institucionales de relevancia es el **partido político**, que es el escenario de discusión, análisis y propuesta para resolver los problemas de la realidad, y donde la democracia se integra a la ciudadanía.
-
-Este tema merecería un estudio especial, con el objetivo de **fortalecer la democracia mediante partidos políticos sólidos en contenidos doctrinales y no movimientos estrictamente electorales, que han dado paso a populismos antidemocráticos.**
-
-Declaración
------------
-
-Los derechos humanos fueron formalmente adoptados al terminar la II Guerra Mundial, mediante su inclusión en la **Carta de las Naciones Unidas, Art. 68, que fue la base de la Declaración Universal de los Derechos Humanos, el 10 de diciembre de 1948, que consta de 30 artículos** y busca evitar los actos de barbarie que se produjeron en las dos guerras mundiales.
-
-**La idea central parte del concepto que todos los seres humanos nacen libres e iguales en dignidad y derechos**. Ha sido una historia llena de hitos y sobresaltos, porque pese al fortalecimiento del derecho internacional sobre esta materia, y la ratificación de esta declaración por la mayoría de Estados, **todavía subsisten en varios países situaciones de esclavitud, que afrontan refugiados y emigrantes.**
-
-A lo anterior se suman **estructuras de pobreza y desigualdad en cerca del 40% de la población mundial.** La persecución y discriminación, por motivos de etnia, religión y por otras causas, priva a millones de personas a la educación, el matrimonio y la igualdad de oportunidades.
-
-Grandes desafíos
-----------------
-
-**Las desigualdades y las exclusiones marcaron el ritmo de la gobernanza en el Ecuador en las últimas décadas, debido a factores internos y externos**: catástrofes naturales como terremotos, la corrupción, los levantamientos, la situación de la administración de justicia, el narcotráfico, la caída de los precios del petróleo, la abultada deuda externa, la pandemia mundial del coronavirus y los apagones de última data, impactaron no solo a la economía sino al ejercicio pleno de los derechos humanos.
-
-**Los desafíos para el Estado ecuatoriano, los gobiernos de turno, las instituciones republicanas y los ciudadanos son enormes.** Hay que pasar del garantismo en el papel, a la práctica de esas garantías. **Enseñar y aprender la democracia mediante instituciones sólidas, con control social. En otras palabras: ¡A los derechos en los hechos!**
-
-Cartas a Quito / 10 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 10 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Opinión
--------
-
-Cada año somos más personas con discapacidad en el Ecuador, y los gobiernos de turno no hacen nada por remediar esta situación; solo nos utilizan en épocas de campaña para el voto y luego se olvidan de nosotros. Los políticos que prometieron, dando a entender que somos su juguete, aprovechan la ocasión para figurar con los demás y atraer votantes, porque cuando son candidatos, posan con todo el mundo, procurando lucrar con nosotros, haciendo promesas que no cumplirán, y estamos dispuestos a estos casos.
-
-En Ecuador, nos hace falta ese empuje de los gobiernos, que no hacen nada por nosotros para vivir con una mejor calidad de vida, que es necesaria para un país que no está adaptado a nuestras necesidades, ya que no contamos con el apoyo de los gobiernos para crear emprendimientos y progresar en la vida.
-
-Jorge Enrique Andrade Rodas
-
-Los chullas quiteños
+Dos horas de cirugía
 --------------------
 
-Elegantísimo, bien afeitado y peinado, rayas del pantalón cuál cuchilla, cuello y puños de la camisa impolutos, corbata vistosa, medias finas y zapatos brillantes, locuaz y pícaro, “dicharrachero” y “piropero”, soñador y gentil de mente ágil y con respuesta para todo, generalmente sin medio en el bolsillo, pero con una “sal” envidiable para contar los “cachos” y un volumen de versos almacenados en el cerebro; así es o fue el “Chulla Quiteño”. Inspiró un hermoso pasacalle que es todo un himno que vibra en las “chivas” y en los festivales y dejó bien sentado su poder seductor y su estirpe. Y que nadie se atreva a quitarle la leva o espulgar sus pies, porque encontrará que no hay mangas ni espalda en la camisa y en las suelas dos tremebundos “chilpidos” que pronto han de convertirse en huecos. “Feriado ha de ser el día de su nacimiento bonita” “Si yo fuera usted no podría vivir sin mí”, “Sus ojos son más negros que mi destino”, le susurraba a la guapa quiteña, para luego volar donde los “ciegos” de la 24 y convencerlos de un serenito gratis. Actores de anécdotas y cuentos, conocedores de todo el mundo e infaltables en todas las farras, así forjaron su historia, el “Lluqui” Endara, el “payaso”. Vega, el “terrible” Martínez y el Fernando Suasnavas, este último aún en vigencia. Él siempre empieza diciendo en sus números humorísticos: “voy a tratar de hacer algo muy difícil en estos tiempos: arrancarles una sonrisa’ y luego desarrolla con memoria prodigiosa y mímica genuina, cientos de “cachos” que de tanto divertir lastiman las comisuras, para terminar con el infaltable verso que pondera la “Canción a mi Loma Grande”, el “Poema de la culpa” o la “Canción a los barrios de Quito”. Pareciera que por él no han pasado los años, pero aun así los amigos suelen opinar: “a este viejo sí que hay que cuidarle”, para luego parafrasear algunos fragmentos en honor a su arte dedicados y que, a través de sus ejecutorias, se pueden extender a todos los chullas quiteños: “Del verso frené-tico/ y del chiste raudo/ que bordeando la ironía/ obliga a la gente/ a que siempre sonría. De hacer cómplices a todos/ del bullicio contumaz/ de trocar penas en risas/ de todo ello eres capaz. Picar-día, sal quiteña/ risotada y lágrima/ anécdotas y mundo/ todo aquello en un segundo”. Es poco lo que se pueda decir de estos hidalgos nativos de la “Cara de Dios”, sus “fechorías” sanas alteraron entre carcajadas y mojigatos comentarios la franciscana tranquilidad de Quito y fueron luego inspiradoras de fábulas y cuentos que de generación en generación han llegado hasta nuestros días para alegrarnos la vida. Paradójicamente, los “chullas quiteños” gracias al modernismo no han tenido descendencia artística y su recuerdo va diluyéndose o simplemente muriendo abrazado en el armario donde yacen también los hermosos pasillos y yaravíes que ya nadie compone; algo habrá que hacer para evocarlos en este Quito que por muchas causas, entre ellas la ingratitud, jamás volverá a ser el que añoramos y con nostalgia recordamos sobre todo en el mes de diciembre.
+La cirugía duró unas dos horas y transcurrió sin problemas. A partir de una **trepanación, procedimiento que consiste en agujerear el cráneo**, se le drenó el hematoma, fruto de la caída que sufrió el pasado 19 de octubre en el Palacio de la Alvorada.
 
-Carlos Mosquera Benalcázar
+Lula se cayó ese sábado en el baño, se golpeó la cabeza y recibió cinco puntos de sutura en la nuca. Sin embargo, el hematoma detectado ahora no fue en el mismo lugar donde se golpeó.
 
-Pepe Mujica 
-============
+“Cuando uno se golpea la cabeza, la hemorragia no se produce en el lugar del golpe, sino que es producida a raíz de la sacudida del cerebro porque el cerebro se mueve dentro del cráneo”, explicó el doctor Stavale.
 
-Líder austero y visionario, promovió la democracia, la educación digital y la racionalidad como ejes de su legado político.
----------------------------------------------------------------------------------------------------------------------------
+Lula se sometió entonces a varias revisiones y, por seguridad, los médicos le recomendaron no realizar viajes de larga duración en avión.
 
-![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
+Así, se vio obligado a cancelar su participación en la cumbre de líderes del grupo BRICS, en Kazán (Rusia), y en la Conferencia de la ONU sobre el Cambio Climático (COP29), celebrada en Bakú.
 
-“Dime Pepe” me dijo, y no “señor Presidente”, en un desayuno de trabajo organizado por la **Asociación Latinoamericana de Integración** –ALAdI-, en Montevideo  año 2010, con una sencillez emanada de su vida estoica. “Diles a los ecuatorianos que a los uruguayos nos sobran ovejas y nos falta sus pastores mientras a ustedes le sobran pastores en los Andes.” Más tarde se hizo realidad la compra de ovejas a precios baratos.
+Semanas después, retomó su agenda con total normalidad.
 
-Mujica ha sido el líder que, en democracia, situó a la **izquierda política** lejos de los extremismos y la polarización y con su don de la palabra alcanzó un liderazgo natural, como corresponde a un jefe de Estado. La semana pasada expresó que tanto Milei en Argentina como Hitler reaccionaron con programas locos contra la **hiperinflación** y fue contundente al criticar a los **dictadores Maduro y Ortega**. La palabra de Mujica resaltó la racionalidad como eje de su **trabajo político austero**, que lo caracterizó como un pensador mundial.
+Entre finales de noviembre y principios de diciembre, Lula tuvo una intensa agenda de trabajo. Fue el anfitrión en Río de Janeiro de la cumbre de líderes del G20 y la semana pasada viajó a Montevideo para la reunión semestral de presidentes del Mercosur.
 
-En su gobierno del Frente Amplio de Izquierda preconizó la **sobriedad** y rechazó el consumismo que confunde al ser con el tener. Autorizó el consumo de la marihuana, pero está convencido que lo único que puede rebajar la **drogadicción es la persuasión y la convicción de sus peligros**.
+Este martes tenía previsto reunirse en Brasilia con el primer ministro de Eslovaquia, Robert Fico, quien finalmente será recibido por el vicepresidente Geraldo Alckmin.
 
-**Sembró la digitalización** de los niños que recibieron una computadora al comenzar su educación primaria y ahora Uruguay es el país con mayor conocimiento por habitante, al punto de que muchos uruguayos asesoran al mundo en las **nuevas tecnologías de la información y la comunicación digital.**
+“Nada de trabajo por el momento”, dijo Kalil.
 
-No es casualidad que en este siglo dos expresidentes uruguayos lleven nombres autóctonos como Tabaré Vázquez y Yamandú Orsi, porque Uruguay tiene un sentido de pertenencia, siendo un país pequeño, cuyo territorio pudo ser brasilero y cuya población pudo ser argentina. Pero ahora sus tres millones y medio de habitantes viven en **democracia** plena, sin polos políticos, bajo el **imperio** de la razón y de la **fraternidad** demostrada en sus **momentos difíciles**, cuando sufrió una dictadura militar, a la que Mujica combatió y por ello vivió 12 años en prisión.
+Los médicos indicaron además que el hecho de que el sangramiento se haya producido dos meses después de la caída entra dentro de lo posible, y que, una vez reciba el alta, el presidente hará vida “normal”.
 
-¡Gracias Pepe por ayudarme a pensar!                                              
+Otros contratiempos médicos
+---------------------------
 
-Buñuel, los rostros ocultos de nuestro mundo
-============================================
+Lula ocupa la **Presidencia desde el 1 de enero de 2023**, después de haber gobernado durante dos mandatos consecutivos entre 2003 y 2010.
 
-Luis Buñuel, genio del surrealismo, exploró las pulsiones humanas y dejó un cine provocador que marcó la historia del arte.
----------------------------------------------------------------------------------------------------------------------------
+En noviembre de 2022, poco después de g**anar las elecciones frente al líder ultraderechista Jair Bolsonaro,** Lula estuvo hospitalizado para la retirada de una pequeña área de “leucoplasia” -manchas blancas- en las cuerdas vocales.
 
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+Entonces, se le realizaron diversas pruebas que mostraron la completa **remisión del tumor de laringe** que padeció en 2011 y que lo obligó a someterse a varias sesiones de quimioterapia.
 
-Frente al Centro Buñuel se halla la cabeza de Luis Buñuel (España, 1900-México, 1983) esculpida por Iñaki, con motivo del centenario de su nacimiento. Cabeza donde se amotinaba algo que no le dio sosiego: su cine se rebeló contra él y salió a explorar más allá de su mundo. No hay indicio de cabello, orejas y cejas abultadas, **la mirada en incesante peregrinaje y rehundida en el magma de lo que estamos hechos: tierra y sueño.**
+En 2023 tuvo una bronconeumonía
+-------------------------------
 
-Fagocitador de sus contemporáneos y de cuanto halló en el pasado, sus cintas muestran vestigios de Quevedo, García Lorca, Valle Inclán, Sade, Goya, Magritte, Alberti, de los griegos y su tragedia intemporal… Si el cine fue resultado de este ejercicio, no se diga su poesía; _Polismos_ tituló a su libro, es decir, congregación de ‘ismos’. Buñuel absorbió todos los movimientos culturales (ismos) de inicios del siglo XX.
+Ya en el poder, en marzo de 2023, tuvo una **bronconeumonía** que lo obligó a postergar una importante visita de Estado a China. El líder progresista insinuó hace unos meses que pretende presentarse a la reelección en 2026, **cuando tendrá cerca de 81 años.** 
 
-Las heridas del camino
-----------------------
+Lucía Yépez, nominada luchadora del año por la United World Wrestling
+=====================================================================
 
-**No hay historia del cine que no exponga su nombre** como uno de los más notables directores que ha dado este arte –hay quienes lo consideran el más grande–, y la escena de _El perro_ _andaluz_ (1929), en la que un hombre corta el ojo de una mujer con una navaja de barbero, registrada como la más cruel. En el preludio de este acto, Buñuel, que funge de actor, ve desde una ventana cómo una filosa nube cercena la luna, lo mismo hará con el ojo de la mujer.
+La ecuatoriana Lucía Yépez compite con otras destacadas luchadoras a escala mundial. ¿Contra quiénes compite?
+-------------------------------------------------------------------------------------------------------------
 
-_El perro andaluz_ es muestra implacable del surrealismo: demencial escapismo de la realidad, desdeño de todo juicio estético. “Imagen pulsión”, como dijera Deleuze, que quedaría grabada para siempre en la elusiva retina del tiempo. ¿Fue este cortometraje –realizado con Salvador Dalí– vindicta contra García Lorca por un poema dedicado al cineasta y que prendió su disgusto? Algo perturbó la entrañable amistad del **fino poeta andaluz y el impetuoso boxeador aragonés**, pero este alejamiento se desvaneció, y Buñuel vivió ponderando la radiante personalidad de García Lorca y su influencia en su crecimiento artístico.
+![Lucía Yépez, luchadora ecuatoriana que está nominada para la mejor del mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-45.jpg)
 
-_La edad de oro_ (1930) –junto a Dalí– expone una trama argumental enmarañada. La historia de amor confluye con otras dos de igual repercusión. _El loco amor_ de André Breton circula por su núcleo. Exaltación del amor absoluto. **El poder avasallador de la pasión**. Pero Buñuel agrega un elemento deletéreo. **La película se abre con un documental sobre la vida de los alacranes y despliega**, en cascada, vehementes relatos, cruzados por el cortejo sobrecogedor que fusiona amor y muerte.
+**Lucía Yépez**, la laureada luchadora ecuatoriana, está nominada por la United World Wrestling como una de las cinco mejores luchadoras del año.
 
-Estrena _Los olvidados_ (1950) en México, donde vivió exiliado. Público y crítica rechazan con furor el filme y el fantasmático apelativo de “director más cruel del mundo” se afianza. Visión desgarradora de los excluidos. Los hambrientos, los sin nada pululan en correccionales y barriadas misérrimas.
+Este reconocimiento llega después de su destacada actuación en los **Juegos Olímpicos de París 2024,** donde se convirtió en la primera ecuatoriana en ganar una **medalla olímpica en lucha**, obteniendo la plata en la categoría de 53 kg.
 
-Ellos, los olvidados, salen de los escurrideros de la ciudad. Huelen a frío y hambre, a llagaduras y supuraciones, a fatiga, furia y muerte. El filme exhibe imágenes de grandes metrópolis y luego se regodea en México, en espiral alucinante. Un pandillero fugado regresa para vengarse de quien lo delató. Alardea de las destrezas aprendidas. La banda busca a su primera víctima, don Carmelo, el mendicante ciego que vive de limosnear con su canto y su raído tambor.
+### Más noticias:
 
-¿Trama hobbesiana? El único derecho que existe es la sobrevivencia. Todos son los mismos, pero de los mismos brota la desconfianza y de esta la guerra. Niños y adolescentes que rodean al cabecilla sienten la pulsión del estado de guerra, y, como dice Thomas Hobbes, en tiempo de guerra todos son enemigos.
+* [Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-con-liga-de-quito-previo-a-la-final-de-liga-pro.html "Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro")
+* [Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-idv-que-jugadores-pueden-definir-final-de-liga-pro.html "Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?")
+* [Botafogo es favorito ante Pachuca en Copa Intercontinental](https://www.elcomercio.com/deportes/futbol/botafogo-favorito-pachuca-copa-intercontinental.html "Botafogo es favorito ante Pachuca en Copa Intercontinental")
 
-Acude a mi memoria el asalto de la pandilla a don Carmelo, el ciego pordiosero defendiéndose con su bastón y poniendo en fuga a sus asaltantes. Malandrines irredentos como son, vuelven a saciar la venganza de su derrota y ríen desaforados cuando la consuman destrozando su tambor.
+Lucía Yépez
+-----------
 
-Del hombretón que subió al _ring_ de los pesos pesados, temerario y alborotador, queda un Buñuel delgado, de rostro apacible y acanalado por el tiempo. Dice que jamás fue “cruel”, y el mundo le cree, y se pone de pie para aplaudirlo. No oye, solo ve palmas de manos de una multitud agradecida por su legado.
+Su impresionante desempeño la colocó en el primer lugar del ranking mundial con 54.100 puntos.
 
-En su libro _**Mi último suspiro**_, confiesa que su postrer deseo consiste en que, después de muerto, pueda levantarse cada diez años, llegar a un quiosco y comprar varios periódicos. Así, con los periódicos bajo el brazo, “pálido, rozando las paredes, regresaría al cementerio y leería los **desastres del mundo** antes de volverse a dormir, satisfecho, en el refugio tranquilizador de la tumba”.
+**La ‘Tigra’**, como es conocida en el mundo de la lucha, comparte esta nominación con otras grandes atletas internacionales como la japonesa Sakura Motoki, Moe Kiyooka, Buse Cavusoglu de Turquía y Ziqi Feng de China.
 
-OMS investiga enfermedad desconocida que deja al menos 71 fallecidos en África
-==============================================================================
+Este logro consolida a **Yépez c**omo una de las mejores exponentes de la lucha mundial y reafirma su lugar en la historia del deporte ecuatoriano.
 
-Una enfermedad desconocida que brotó en el Congo, en África, ya deja 71 muertos en menos de dos meses.
-------------------------------------------------------------------------------------------------------
+La medalla olímpica de la ‘Tigra’
+---------------------------------
 
-![Profesionales de la salud investigan la desconocida enfermedad que brotó en el Congo](https://www.elcomercio.com/wp-content/uploads/2024/12/congo-desconocida-enfermedad.jpg)
+El camino hacia la medalla de plata no fue fácil para **Lucía Yépez**. Desde sus inicios en la lucha libre a los 10 años en el estadio 7 de Octubre de **Quevedo**, la deportista ha superado grandes desafíos, entrenando incluso sin zapatos.
 
-Un grupo de **epidemiólogos**, científicos de laboratorio, expertos en prevención y control de infecciones y otros especialistas trabajan en la **investigación** de una **enfermedad desconocida** que deja por lo menos **71 muertos** en la República Democrática del **Congo**, en África.
+A sus 23 años, la luchadora oriunda de Mocache ha alcanzado el más alto nivel, y su sacrificio y esfuerzo han sido recompensados con un hito histórico para Ecuador.
 
-### Más noticias
+La medalla olímpica que **Yépez** logró en París 2024, tras caer ante la japonesa **Akari Fujinami** en la final, no solo representa un logro personal para ella, sino también para todo el país. Lucía Yépez ha sido recibida como heroína en Ecuador, siendo celebrada por el Comité Olímpico Ecuatoriano y el Ministerio del Deporte, que destacan su esfuerzo y dedicación.
 
-* [Consumir agua en exceso puede ser peligroso para la salud, advierten expertos](https://www.elcomercio.com/afull/consumir-agua-exceso-peligroso-salud-expertos.html "Consumir agua en exceso puede ser peligroso para la salud, advierten expertos")
-* [Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza](https://www.elcomercio.com/actualidad/mundo/sudafrica-asegura-tener-pruebas-exhaustivas-cometio-genocidio-gaza.html "Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza")
-* [Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador](https://www.elcomercio.com/actualidad/mundo/gran-bretana-virus-mundo-ecuador.html "Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador")
+Ahora, con su nominación a mejor luchadora del año, Lucía Yépez sigue demostrando que su historia apenas comienza.
 
-Según se dio a conocer este lunes 9 de diciembre de 2024, los profesionales de la Organización Mundial de la Salud (**OMS**) y de la Agencia de Salud Pública de la **Unión Africana** viajaron al país para recopilar más información de la **afección**.
+AMC desechó casi 5 000 litros de alcohol en fiestas de Quito
+============================================================
 
-Durante la visita desarrollada entre el jueves 5 y el sábado 7 de diciembre, se comprobó que la enfermedad presenta **síntomas** como fiebre, dolor de cabeza y una alta mortalidad infantil.
+La Agencia Metropolitana de Control (AMC) identificó las zonas de mayor conflicto en fiestas, como la av. Amazonas y el sector de Iñaquito.
+-------------------------------------------------------------------------------------------------------------------------------------------
 
-Los organismos de salud trabajan en el **territorio** con herramientas avanzadas, como equipos de diagnóstico y secuenciación molecular y un servidor informático para análisis bioinformáticos.
+![La AMC retuvo licor sin registro sanitario.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T124205.814.jpg)
 
-Además de **reactivos para pruebas**, un manipulador automático de líquidos y suministros esenciales
-
-“Buscamos identificar rápidamente los **patógenos causantes** de brotes y apoyar la realización de pruebas moleculares y de secuenciación genómica en todo el país”, detalló la entidad.
-
-Los profesionales evalúan la situación, mientras realizan **pruebas de diagnóstico** y medidas de control[.](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud")
-
-Enfermedad desconocida tiene una alta mortalidad infantil
----------------------------------------------------------
-
-La OMS explicó que los casos se hallaron en las zonas cercanas a Panzi. “los niños de 0 a 14 años representan el **64,3 % de todos los casos notificados,** y los grupos de edad de 0 a 59 meses, **5 a 9 años y** 10 a 14 años representan el 53 %, el 7,4 % y el 3,9 % de los casos, respectivamente”, dijo el organismo.
-
-Las **mujeres** constituyen el 59,9 % del total de casos.
-
-“De las muertes, el **71 %** son menores de **15 años**, y el 54,8 % del total en niños menores de **cinco años**. Se notificó que todos los casos graves eran **desnutrición**“, añadió la OMS.
-
-Epicentro del brote se ubica a 700 kilómetros de la capital
------------------------------------------------------------
-
-El epicentro del brote se encuentra en la zona sanitaria de **Panzi**, en la provincia de Kwango, una zona muy remota, a unos **700 kilómetros** de la capital, **Kinsasa**.
-
-El brote fue identificado por primera vez a **finales de octubre** y comunicado a las autoridades nacionales a principios de diciembre.
-
-Los primeros reportes dan cuenta que la enfermedad no se ha extendido más allá del **territorio nacional**.
-
-Presupuesto de Quito 2025, movilidad lidera las prioridades
-===========================================================
-
-Movilidad, el Metro y la administración pública consumen la mayor parte del presupuesto del próximo año, que hoy debate el Concejo Metropolitano.
--------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Este martes 10 de diciembre, el Concejo Metropolitano de Quito debe aprobar el presupuesto de la ciudad para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T185030.610.jpg)
-
-Hasta este **martes 10 de diciembre del 2024,** el **Concejo Metropolitano de Quito** debe aprobar la **proforma presupuestaria** para el 2025. Es el **único punto del orden del día** en la convocatoria.
+El **Municipio de Quito** informó sobre las labores de control que realizó el personal de la Agencia Metropolitana de Control (AMC) en las **fiestas de Quito.**
 
 ### Más noticias
 
 * [¿Es viable la extensión del Metro de Quito hasta Calderón?](https://www.elcomercio.com/actualidad/quito/metro-quito-extension-calderon-viable.html "¿Es viable la extensión del Metro de Quito hasta Calderón?")
-* [Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur](https://www.elcomercio.com/actualidad/quito/nueve-concejales-quito-piden-llamar-secretario-cultura-mugre-sur.html "Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur")
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+* [AMT sancionó a 21 conductores de motos en Quito por esta razón](https://www.elcomercio.com/actualidad/quito/amt-sanciono-a-21-conductores-de-motos-quito-por-esta-razon.html "AMT sancionó a 21 conductores de motos en Quito por esta razón")
+* [Controles de velocidad en Quito este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-10-de-diciembre.html "Controles de velocidad en Quito este martes 10 de diciembre")
 
-El presupuesto a debate
------------------------
+Agentes decomisaron alcohol
+---------------------------
 
-Este será el s**egundo y último debate** del **Concejo Metropolitano de Quito** sobre la proforma presupuestaria del 2025. Al pleno del Concejo llegan ajustados los valores iniciales que se enviaron para el primer debate. Según **Fidel Chamba**, **presidente** de la **Comisión de Presupuesto** del Concejo Metropolitano de Quito y concejal por SUMA, con todos estos ajustes, la proforma presupuestaria ascendió, de 929 millones de dólares (en cifras redondas) a 1 002, 1 millones de dólares.
+Durante el feriado local de **fiestas de Quito**, los agentes de control de la AMC retuvieron y desecharon 4 985 litros de alcohol.
 
-Lo que preocupa a algunos concejales es la **caída de la inversión en áreas sociales**, como **educación** y **salud**. En contrapartida, el presupuesto es, por una parte, “**metrocéntrica**” y “apuesta por una carga burocrática muy grande”, en palabras del independiente Wilson Merino.
+Además, se retiró a 2 800 que consumían **bebidas alcohólicas** en el espacio público.
 
-Movilidad y burocracia, los mayores gastos del presupuesto
-----------------------------------------------------------
+El **Municipio de Quito r**esaltó que gracias a la acción conjunta de la AMC y otras instituciones municipales se pudo evitar desmanes por exceso de consumo de licor.
 
-**Movilidad** y **administración general** son las dos áreas que reciben los mayores recursos presupuestarios en la proforma presupuestaria para el 2025, tal como ocurrió con el del 2024. Para el próximo año, entre ambos rubros se ocupa el 81,06%.
+En las fiestas de Quito 2024, la **AMC fortaleció sus operativos de control**, cuyos resultados fueron más efectivos que los realizados en 2023.
 
-La movilidad es la mayor de todas, con el **43,83%.** La Agencia Metropolitana de Control de Tránsito y Seguridad Vial tiene previsto recibir el 6,40%, es decir, 64,2 millones de dólares.
+Este 2024 se desplegaron más de **286 operativos**, lo que significa un incremento de **casi cinco veces** respecto a los 58 operativos ejecutados en 2023.
 
-Por otra parte, el Metro de Quito, tiene una asignación presupuestaria correspondiente al 6,22%. Esto quiere decir que recibirá 62,3 millones de dólares este año[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+Operativos en fiestas de Quito
+------------------------------
 
-En cambio, para el gasto del sector burocrático, está previsto el **37, 23%**.
+Para la ejecución de los operativos de este año se identificaron **las zonas de mayor conflicto,** como la av. Amazonas y el sector de Iñaquito. Y se aumentó tres veces los inspectores en las calles.
 
-La movilidad, más allá del Metro
---------------------------------
+Entre el **alcohol decomisado sin registro sanitario** retenido y destruido están:
 
-Aquí se encuentra una de las mayores críticas, pues para las otras áreas queda el resto. Además, según la concejala, **Analía Ledesma,** de la Izquierda Democrática, lo que necesita Quito “**es una movilidad articulada y completamente confiable”.**
+* 6 444 botellas
+* 929 bolos o fundas
+* 129 galones
+* 41 canecas de alcohol sin registro sanitario
+* 1 111 unidades de cigarrillos de contrabando
 
-Si bien reconoce los beneficios que este sistema de transporte ofrece a Quito, debe consolidarse como **eje articulador de todos los sectores.** “Se deben cristalizar las rutas y frecuencias. Se otorgaba un plazo a junio de este año para que ya estén hechas las rutas de frecuencias y en el presupuesto de este año (es decir 2025) están pidiendo otra vez una consultoría de 500 000 dólares otra vez para ver si hacen las rutas y frecuencias”.
+El **alcohol sin registro sanitario** puede causar daños en la salud de los consumidores, como afectar el nervio óptico que conlleva la pérdida de la visión, cirrosis, etc.
 
-“Lamentablemente, hay que ser críticos en ese aspecto. **El Metro de Quito no termina solucionado los problemas**. Para que el Metro funcione, este año se le está otorgando 65 millones de dólares adicionales y **no existe todavía la reestructuración de rutas y frecuencias.** Obviamente, no existen los 400 000 pasajeros al día que establece el Plan Maestro de Movilidad Sostenible”, dice por su parte Chamba.
+Las instituciones municipales actuaron de manera conjunta para precautelar la seguridad de los quiteños y visitantes durante la celebración de las **fiestas de Quito.**
 
-Caída en la inversión social del presupuesto 2025
--------------------------------------------------
+Estas [instituciones](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador") son:
 
-“Es que todos estamos fascinados con el Metro. Si a mí me preguntan si quiero o no la extensión del Metro, voy a decir que sí. Sin embargo, hay que tomar en cuenta otras cosas, como la inversión social. Y, como concejales, **debemos pensar en la gente primero**“, dice **Merino**.
+* Agencia Metropolitana de Control (AMC)
+* Secretaría de Seguridad
+* Cuerpo de Bomberos Quito
+* Agencia Metropolitana de Tránsito (AMT)
+* Administraciones Zonales
+* Policía Nacional
 
-Según la proforma del presupuesto para el 2025, los denominados “servicios sociales” tienen una drástica caída comparado con el 2024. En **Salud**, se reduce el 61.8%; en **Educación y Deporte**, el 31,72%, y en **Inclusión Social**, el 57,5%.
+Carlos Gruezo entrena con Liga de Quito previo a la final de Liga Pro
+=====================================================================
 
-“Lo grave -dice Merino- es que Quito tiene de los peores indicadores sociales del país. Por ejemplo, tiene la mayor tasa de desempleo: 9.4%. Cerca de 900 000 quiteños comen una sola vez al día”. Por eso, dice, hay que pensar más en la gente y ser menos ‘metrodependientes’.
+Carlos Gruezo fue una de las sorpresas en el entrenamiento de Liga de Quito antes del decisivo partido contra Independiente del Valle.
+--------------------------------------------------------------------------------------------------------------------------------------
 
-Una mayoría oficialista en el Concejo
--------------------------------------
+![Carlos Gruezo en un entrenamiento con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T122507.000.jpg)
 
-**El segundo y definitivo debate del Concejo Metropolitano** será intenso, según prevén los anteriormente consultados. Sin embargo, la **mayoría** de los ediles está **alineada** con el **alcalde Pabel Muñoz.**
+**Liga de Quito** continúa con su preparación para la final de vuelta de la Liga Pro 2024 contra Independiente del Valle. Durante su práctica de este martes 10 de diciembre, el equipo contó con un invitado especial: el bimundialista **Carlos Gruezo.**
 
-“No puedo dar una respuesta de lo que vaya a pasar en la sesión. No puedo pensar por los demás concejales. Lo que sí puedo decir es que **vamos a ser muy críticos** en que cada centavo que tenga el Municipio debe materializarse en bienes, obras y servicios de calidad”, finaliza Chamba, que, como presidente de la Comisión de Presupuesto del Concejo, tendrá protagonismo en el debate.
-
-Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís
-======================================================================
-
-El exministro del correísmo, Walter Solís, tiene dos sentencias en su contra y una orden de prisión, por casos de corrupción.
------------------------------------------------------------------------------------------------------------------------------
-
-![El exministro Solís fue uno de los 20 sentenciados por el delito de cohecho, en el caso Sobornos 2012-2016. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2021/05/walter-solis.jpeg)
-
-El Gobierno de **Daniel Noboa** hará una petición a **México** sobre **Walter Solís**, según se anunció este lunes 9 de diciembre de 2024.
-
-El **exministro de Rafael Correa**, Walter Solís, tiene una **orden de prisión preventiva** y una **sentencia** en **Ecuador p**or casos de **corrupción**.
+El volante de 29 años, quien participó en los Mundiales de Brasil 2014 y Catar 2022, se integró al entrenamiento bajo la dirección de **Pablo “Vitamina” Sánchez**. Gruezo formó parte de ejercicios y partidos durante la sesión, siendo una figura llamativa en el plantel albo.
 
 ### Más noticias:
 
-* [Sheinbaum se opone a la extradición del exministro Walter Solís](https://www.elcomercio.com/actualidad/mundo/sheinbaum-defiende-extradite-exministro-ecuatoriano-solis-refugiado.html "Sheinbaum se opone a la extradición del exministro Walter Solís")
-* [Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México](https://www.elcomercio.com/actualidad/seguridad/exministro-correismo-walter-solis-capturado-interpol-mexico.html "Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México")
+* [Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?](https://www.elcomercio.com/deportes/futbol/liga-de-quito-idv-que-jugadores-pueden-definir-final-de-liga-pro.html "Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?")
+* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
+* [Carlos Gruezo entrena en Guayaquil, ¿lo convocará Ecuador?](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-entrena-en-guayaquil-lo-convocara-ecuador.html "Carlos Gruezo entrena en Guayaquil, ¿lo convocará Ecuador?")
 
-La petición del Gobierno de Daniel Noboa a México sobre Walter Solís
---------------------------------------------------------------------
+El mediocampista también estuvo presente en la final de ida, observando desde un palco en el **Estadio Rodrigo Paz Delgado,** donde Liga de Quito venció 3-0 a Independiente del Valle el pasado sábado 7 de diciembre.
 
-El Ministerio de Gobierno pidió a la **Cancillería** que haga una gestión ante **México** sobre el exministro correísta, Walter Solís.
+¿Carlos Gruezo jugará en Liga de Quito?
+---------------------------------------
 
-El Ministerio de Gobierno solicitó a la Cancillería que gestione, mediante los **canales diplomáticos**, la cancelación del estatus de refugiado otorgado a Walter Hipólito Solís Valarezo, en los Estados Unidos Mexicanos.
+Desde el cierre de la temporada regular en la **Major League Soccer** (MLS), han surgido rumores que vinculan a Gruezo con Liga de Quito. Sin embargo, el jugador desmintió esta posibilidad antes de la final de ida, aclarando que su **entrenamiento con la ‘U’** responde a un permiso especial otorgado por el San Jose Earthquakes, su actual club en la MLS.
 
-La Cancillería realizará esta gestión luego de que la **Interpol** capturara a Solís y lo tuviera que liberar por intervención del mismo Gobierno de México.
+“Estoy agradecido por dejarme entrenar, pero tengo contrato vigente en la **MLS**. Es importante mantenerse activo, ya que las vacaciones son extensas”, expresó el mediocampista.
 
-Y luego de que la actual presidenta de México, **Claudia Sheinbaum**, se opusiera, públicamente, a la extradición de Solís.
-
-El historial judicial de Walter Solís en Ecuador
-------------------------------------------------
-
-Sobre Solís pesa una orden de prisión preventiva dictada en el **caso Reconstrucción de Manabí**.
-
-Un juez solicitó su localización y captura a la **Interpol**, la misma que ya fue aceptada.
-
-En el **caso Sobornos**, la justicia declaró la malversación de fondos públicos por parte de Solís.
-
-La sentencia en contra de Solís fue de ocho años de prisión por el delito de **cohecho**.
-
-En el **caso Senagua**, el exfuncionario del correísmo tuvo otra sentencia: ocho años más por el delito de **peculado**.
-
-“Solís debe **enfrentar las consecuencias legales** de sus actos, rendir cuentas ante la justicia, la ciudadanía ecuatoriana y la comunidad internacional”, señaló el Ministerio de Gobierno.
-
-El principal argumento del Gobierno para hacer este pedido a México es que Solís cometió estos **delitos,** por los que fue sentenciado o es procesado, **antes de la concesión del estatus de refugiado**.
-
-“Según el derecho internacional, la solicitud presentada por Solís en los **Estados Unidos Mexicanos** carece de fundamentos”, agregó el Ministerio.
-
-El Gobierno hizo este anuncio en el **Día Internacional Contra la Corrupción**.
-
-Autopista General Rumiñahui tendrá nuevos cierres este martes 10 de diciembre
-=============================================================================
-
-La Autopista General Rumiñahui tendrá cierres viales de dos horas y media este martes. En el lugar se construye un paso elevado.
---------------------------------------------------------------------------------------------------------------------------------
-
-![Un intercambiador se construye en la autopista que une a Quito con el Valle de Los Chillos](https://www.elcomercio.com/wp-content/uploads/2024/12/autopista-general-ruminahui-cierres.jpg)
-
-Los trabajos en la **Autopista General Rumiñahui**, vía que une a Quito con el **Valle de Los Chillos**, se mantendrán este **martes 10 de diciembre** de 2024.
-
-### Más noticias
-
-* [Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
-* [Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja](https://www.elcomercio.com/actualidad/ecuador/familiares-fallecidos-siniestro-catamayo-esperan-centro-forense-loja.html "Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja")
-
-Esta calle de alta concurrencia vehicular estuvo cerrada por completo entre las **05:00** y las **23:59** de este domingo 8 de diciembre; y de forma **parcial** este lunes. A la altura del puente 8, sobre la calle Lola Quintana, se construye un **paso elevado**.
-
-Carriles de la Autopista General Rumiñahui con cierres este martes
-------------------------------------------------------------------
-
-La **Prefectura de Pichincha** avanza con la construcción del paso elevado en la Autopista General Rumiñahui. El domingo se instalaron las **segundas vigas de acero** en la estructura, una de las etapas más complejas de la obra.
-
-Para ello, se cerraron los seis carriles de la vía, los cuales se tenían que habilitar este lunes. Sin embargo, una **grúa dañada** entre los puentes 8 y 9. en sentido Valle – Quito, retrasó esta acción.
-
-A las **18:45**, la Prefectura confirmó que el vehículo pesado fue retirado; no obstante, solicitó precaución a los conductores por la presencia de **andamios** en la zona delimitada.
-
-Los trabajos continuarán en el puente 8 de la autopista este **martes 10 de diciembre**. La vía mantendrá cerrados los carriles centrales de **09:30 a 12:00**. Por los **carriles laterales** la circulación vehicular se realizará con normalidad[.](https://www.pichincha.gob.ec/ "https://www.pichincha.gob.ec/")
-
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Este martes 10 de diciembre efectuaremos trabajos sobre la obra del paso elevado a la altura del puente 8 de la Autopista General Rumiñahui, por lo que se cerrará el carril central de 09h30 a 12h00.  
-> Toma precauciones. [pic.twitter.com/CJPPBzrKaD](https://t.co/CJPPBzrKaD)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [December 10, 2024](https://twitter.com/AutopistaGR/status/1866278904249680048?ref_src=twsrc%5Etfw)
-
-Retrasos en la construcción del paso elevado
---------------------------------------------
-
-La construcción del puente **elevado** ubicado en la entrada a **Conocoto**, sobre la Autopista General Rumiñahui, ha presentado múltiples retrasos. En un inicio, la obra debía estar lista para **enero de 2024**, pero dificultades técnicas y legales atrasaron su entrega.
-
-En agosto, la prefecta **Paola Pabón** detalló que la suspensión temporal se debió a un **rediseño** estructural y a **nuevos estudios** que se tuvieron que realizar; mientras, se repararon redes de agua potable, alcantarillado y se soterraron cables.
-
-> ¡Ya instalamos las 2 vigas 😃!  
->   
-> Aquí te contamos los avances del paso elevado, a la altura del puente 8 de la Autopista General Rumiñahui! 🌉  
->   
-> Recuerda que el cierre se mantendrá hasta las 24h00 de este 🗓️ domingo 8 de diciembre. [#PichinchaEsVialidad](https://twitter.com/hashtag/PichinchaEsVialidad?src=hash&ref_src=twsrc%5Etfw)[#PichinchaInvencible](https://twitter.com/hashtag/PichinchaInvencible?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/X8Y51nM9WX](https://t.co/X8Y51nM9WX)
-> 
-> — Autopista Rumiñahui (@AutopistaGR) [December 9, 2024](https://twitter.com/AutopistaGR/status/1865953541266854245?ref_src=twsrc%5Etfw)
-
-En los últimos meses del año, los trabajos se retomaron; sin embargo, un **fatal siniestro de tránsito** complicó por segunda vez la finalización del puente elevado. En el choque la estructura de **50 toneladas** se desplazó unos cinco metros.
-
-En el vehículo que se impactó contra los muros de contención iban cinco personas, **tres fallecieron**: los jugadores Roberto Cabezas y Marco Angulo; además de Víctor Charcopa. Otras dos personas resultaron heridas.
-
-Intercambiador tiene nueva fecha de entrega
--------------------------------------------
-
-La nueva fecha de la entrega del **intercambiador** es el 18 de enero de 2024. En este mes se completarán las plataformas de entrada y salida de vehículos.
-
-Se espera que este proyecto beneficie de forma directa a unos **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños de los Valles, como **La Armenia**.
-
-Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’
-=======================================================
-
-La Ley 'Antipillos' fue publicada en el Registro Oficial vía Decreto Ley, firmado por Daniel Noboa, pese al archivo de la Asamblea.
------------------------------------------------------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa envió al Registro Oficial la Ley 'Antipillos'.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-1.jpg)
-
-El presidente **Daniel Noboa** envió al **Registro Oficial** la **Ley ‘Antipillos’**, este lunes 9 de diciembre de 2024.
-
-El **Decreto Ley** fue publicado hoy, pese al archivo de la **Asamblea Nacional**.
-
-### Más noticias:
-
-* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
-* [Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-tomo-decision-proyecto-de-ley-contra-lavado-de-activos.html "Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos")
-
-La Ley ‘Antipillos’ en el Registro Oficial por el Decreto Ley de Daniel Noboa
------------------------------------------------------------------------------
-
-La **Ley Orgánica para la Mejora recaudatoria a través del combate al lavado de activos** es denominada por el Ejecutivo como la Ley ‘Antipillos’.
-
-La iniciativa crea un **impuesto** para la comercialización de **carros usados** en **Ecuador**.
-
-Incluye nuevas **regulaciones a clubes deportivos** y cambios para el funcionamiento de la **Unidad de Análisis Financiero y Económico (UAFE).**
-
-Según el **Ejecutivo**, esta ley surge en medio de “la necesidad urgente de intervenir en las transacciones comerciales (…) que no tienen **controles formales exhaustivos**“.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDYHnhBRXsb/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Daniel Noboa Azin (@danielnoboaok)](https://www.instagram.com/reel/DDYHnhBRXsb/?utm_source=ig_embed&utm_campaign=loading)
-
-El **Ministerio de Gobierno** señaló que la Ley es parte de la lucha contra el crimen organizado y el **narcoterrorismo**.
-
-Además, que el “Gobierno del presidente **Daniel Noboa** jamás le dará la espalda al país”.
-
-“Es una herramienta clave diseñada para atacar y asfixiar las economías narcodelictivas y las fuentes de **financiamiento del crimen organizado**“, agregó.
-
-Para el Ejecutivo, la Asamblea no trató el proyecto y, al cumplirse el **plazo**, la publica en el Registro Oficial.
-
-Asamblea solicitó al Registro Oficial que no publique la ley
-------------------------------------------------------------
-
-Tras la decisión de Noboa, la Asamblea difundió un comunicado sobre este tema.
-
-De forma general, el documento del Legislativo **rechaza la publicación de la ley** en el **Registro Oficial**, y solicitó “enérgicamente” que no se le dé tratamiento.
-
-“El proyecto fue expresamente negado y archivado por el **Pleno de la Asamblea Nacional** en estricto cumplimiento del artículo 140 de la Constitución”, señala el comunicado.
-
-“Dicho artículo establece que los proyectos calificados como **económicos urgentes** sigan el mismo procedimiento ordinario”, añade el mensaje.
-
-El pedido de la Asamblea afirma que si la ley se publica “se **afectará la economía** de todos los ecuatorianos”.
-
-“Pedimos que se respete las decisiones tomadas por el Pleno”, finaliza el Legislativo.
-
-> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Apagón jurídico en Carondelet: la Presidencia de la República emite decreto Ley de un proyecto urgente en materia económica sin cumplir con lo establecido en el Art. 140 de la Constitución de la República del Ecuador. [pic.twitter.com/Qy9ymuPKx2](https://t.co/Qy9ymuPKx2)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [December 10, 2024](https://twitter.com/AsambleaEcuador/status/1866315292973924550?ref_src=twsrc%5Etfw)
-
-Otras reacciones a la publicación de la Ley ‘Antipillos’
---------------------------------------------------------
-
-Al referirse a la Ley, el movimiento **Construye** expresó que de “Antipillos” solo tiene el nombre, pues se trata de nuevos impuestos de hasta el 5% para compra de vehículos usados.
-
-Días atrás, el secretario general de la Asamblea, **Alejandro Muñoz**, aseguró que, si el régimen publicaba la ley, sería un **acto dictatorial** y además un **delito**.
-
-Esto, porque el Ejecutivo estaría **simulando y usurpando funciones**.
-
-Campeón del Mundo supo de su doping a dos días de la final
-==========================================================
-
-Alejandro Gómez jugó dos partidos de los siete de Argentina en el Mundial Catar 2022.
--------------------------------------------------------------------------------------
-
-![Alejandro Gómez con el trofeo de la Copa del Mundo en sus manos.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_1.jpg)
-
-La Selección de Argentina se proclamó como **campeona de la Copa del Mundo Catar 2022** el domingo 18 de diciembre. Cerca de 90 000 personas coparon el estadio de Lusail para mirar la final ante la poderosa Francia.
-
-Argentina dominó el partido por 80 minutos. En ese lapso dio una verdadera **cátedra de buen fútbol, solvencia, eficacia y eficiencia** que hicieron que se ponga adelante en el marcador por 2-0 con lo que todo hacía presagiar que se quedarían con el título
-
-### Más noticias:
-
-* [Posibles rivales de Barcelona Sporting Club en la Libertadores](https://www.elcomercio.com/deportes/futbol/posibles-rivales-de-barcelona-sporting-club-en-la-libertadores.html "Posibles rivales de Barcelona Sporting Club en la Libertadores")
-* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
-* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
-
-Los campeones se desmoronaron
------------------------------
-
-Lionel Messi (23′) y Ángel Di María (36′) anotaron los dos tantos con los que la ‘Albiceleste’ acarició la Copa del Mundo, **pero en 10 minutos Kylian Mbappé se puso el equipo al hombro** y empató el marcador a los 80′ y 81′.
-
-Con el 2-2 final el juego se extendió hasta los tiempos extra. Ahí, **Messi nuevamente anotó para el 3-2** a los 108′, con lo que todo se inclinaba en favor de los sudamericanos. Sin embargo, Mbappé apareció para sellar el definitivo 3-3 a los 118′.
-
-En los penales apareció la figura del arquero Emiliano Martínez. El ‘Dibu’ atajó el remate de **Kingsley Coman y puso nervioso a Aurélien Tchouaméni** que envió su disparo fuera del arco.
-
-El resultado final fue 4-2 en favor de Argentina que anotó con Messi, Paulo Dybala, Leandro Paredes y Gonzalo Montiel.
-
-La fiesta fue interminable en Lusail, en **Buenos Aires y en cada rincón donde había un aficionado** identificado con este logro de un equipo que espero 36 años para encaramarse en la cima del futbol de selecciones.
-
-![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_3-1024x683.jpg)
-
-Instagram del jugador.
-
-‘Papu’ Gómez y el doping
-------------------------
-
-Alejandro Gómez fue un actor secundario en el título de Argentina. Arrancó como titular en la derrota 1-2 ante **Arabia Saudita en el partido inaugural del grupo C**. Estuvo en cancha 59 minutos y fue sustituido por Julián Álvarez.
-
-Volvió a reaparecer en los octavos de final ante Australia. Jugó 50 minutos en el triunfo 2-1 por Lisandro Martínez y nunca más fue considerado por el entrenador Lionel Scaloni.
-
-“Pasé de ser campeón del mundo a que no me llame nadie, desaparecer del medio o no jugar más. Hay que saber convivir con eso. **Ni cuando estás allá arriba sos el mejor ni ahora sos el peor**. Sólo hay que saber priorizar otras cosas”, dijo en entrevista con Juan Pablo Varsky, que fue recogida por Infobae.
-
-El doping del ‘Papu’ no se dio en el Mundial, sino data de su etapa en el Sevilla y luego de enfrentar al Real Madrid.
-
-El futbolista aduce que se produjo por haber ingerido un “**jarabe para la tos**” para combatir una molestia de salud que lo aquejaba siempre después de sus partidos.
-
-“**Yo me olvidé que había tomado el jarabe**“, agregó sobre su descuido al momento de informar al médico del club al momento de tomar las muestras que luego desembocaron en el doping y posterior sanción.
-
-“Pasa el tiempo y me llega por email, dos días antes de la final, que había dado positivo. Fue un baldazo de agua fría. En la final de un Mundial, **que te llegue una noticia así es horrible**. Esos dos días estuve muy mal, estuve con fiebre. No sé si fue por la noticia o qué. Mientras festejaba estaba con la cabeza puesta en qué iba a pasar”, explicó.
-
-Explicó que sus compañeros se enteraron del resultado una vez que llegaron al hotel para seguir con los festejos por el título mundial.
-
-“Me lo guardé **para después de la final del mundo.** Cuando les conté me dijeron que me vieron bajoneado”, comentó.
-
-Gómez fue suspendido dos años en octubre de 2023. Luego del Mudial no volvió a ser citado por Scaloni.
-
-Actualmente, está sin club y se entrena en un equipo de la Serie C de Italia.
-
-![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_2-1024x683.jpg)
-
-Instagram del jugador.
-
-San viernes
------------
-
-Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?
-==========================================================================================
-
-En el caso Odebrecht, Gustavo Massuh fue sentenciado por asociación ilícita.
-----------------------------------------------------------------------------
-
-![Un tribunal de la CNJ resolvió sobre la reparación integral de Gustavo Massuh, en el caso Odebrecht.](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-odebrecht-gustavo-massuh.jpg)
-
-En el **caso Odebrecht**, el empresario **Gustavo Massuh** pagará una cuantiosa suma de dinero como **reparación integral** al **Estado ecuatoriano**.
-
-Massuh fue sentenciado por **asociación ilícita** y pidió realizar el pago en tres partes.
-
-### Más noticias:
-
-* [John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto](https://www.elcomercio.com/actualidad/politica/john-polit-se-declaro-culpable-en-eeuu-per-ecuador-fue-declarado-inocente.html "John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto")
-* [Walter Solís mantiene su libertad, según SRE de México](https://www.elcomercio.com/actualidad/seguridad/walter-solis-cuenta-condicion-refugiao-segun-sre-mexico.html "Walter Solís mantiene su libertad, según SRE de México")
-
-Gustavo Massuh pagará por reparación integral al Estado ecuatoriano en el caso Odebrecht
-----------------------------------------------------------------------------------------
-
-**Gustavo Massuh** fue condenado por asociación ilícita en la trama de sobornos de la constructora brasileña Odebrecht a funcionarios y empresarios ecuatorianos.
-
-Este 9 de diciembre de 2024, un **Tribunal de la Sala Penal de la Corte Nacional de Justicia** verificó las garantías presentadas por Gustavo José Massuh.
-
-El monto a pagar por **reparación integral al Estado** ecuatoriano es de 860 930,99 dólares.
-
-Dentro del acuerdo de pago, la **Procuraduría** informó que, en los próximos ocho días, Massuh depositará 200 000 dólares en la cuenta de dicha institución.
-
-El resto cancelará en cuotas.
-
-En 2017 se dio la primera sentencia en este caso que revela la **trama de corrupción** por los sobornos de esa empresa.
-
-La Corte Nacional de Justicia sentenció al **exvicepresidente Jorge Glas** a seis años de cárcel como autor de un delito de asociación ilícita.
-
-La justicia también **sentenció** a otros dos exfuncionarios públicos y cinco empresarios.
-
-El 21 de diciembre de 2016, el **Departamento de Justicia de los Estados Unidos** hizo la revelación.
-
-Dijo que la **constructora brasileña** Odebrecht habría sobornado a funcionarios públicos de varios países.
-
-Respecto a **Ecuador**, se señala que la compañía, durante el periodo de 2007 al 2016, realizó presuntos sobornos por 33 500.000 dólares, pagos que le habrían beneficiado en 116 000 000 dólares.
-
-La investigación previa del caso inició el 22 de diciembre de 2016 por el presunto delito de **cohecho**.
-
-Los cambios en la Fórmula 1 para el 2025
-========================================
-
-La Fórmula 1 tendrá cambios para el 2025 después de que se definiesen los títulos de pilotos y constructores en la temporada 2024.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![Max Verstappen y Lando Norris, campeón y subcampeón de la Fórmula 1 en 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/790d3c2968e1217ca05d028b0cab47c79da425fd.jpg)
-
-El paso del séptuple campeón mundial inglés **Lewis Hamilton** de Mercedes a Ferrari, equipo en el que sustituirá al español **Carlos Sainz**, será el principal cambio, con miras al año próximo, en la parrilla de la F1, en la que en 2025 no estarán al menos tres de los pilotos que rodaron el domingo en el último Gran Premio, el de Abu Dabi.
-
-La noticia del **fichaje de Hamilton por Ferrari** fue el gran bombazo informativo de principios de año, antes incluso del arranque de la pretemporada, y un plato duro de digerir para Sainz, que a su talento unió gran resiliencia y logró dos victorias (Australia -dos semanas después de ser operado de una apendicitis- y México) con lo que elevó a cuatro su relación de triunfos en la categoría reina. Todas ellas en sus cuatro años con el equipo de Maranello, con el que logró **25 de sus 27 podios** en la F1, así como las seis ‘poles’ y tres de sus cuatro vueltas rápidas.
-
-### Más noticas:
-
-* [La Fórmula 1 contará con un nuevo equipo en 2026](https://www.elcomercio.com/deportes/formula-1/formula1-nuevo-equipo-mundial-2026-f1.html "La Fórmula 1 contará con un nuevo equipo en 2026")
-* [Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/max-verstappen-arraso-gran-premio-de-sao-paulo-de-la-formula-uno.html "Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1")
-* [Formulario de registro aduanero tendrá una variación desde este 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/formulario-registro-aduanero-tiene-variacion-9-diciembre.html "Formulario de registro aduanero tendrá una variación desde este 9 de diciembre")
-
-“**Estoy orgulloso de estos cuatro años, pero aún más lo estoy de este último; por haber mantenido la motivación y el empeño para apretar durante todo el año**“, declaró a Efe Sainz, de 30 años, tras disputar su última carrera con Ferrari en Yas Marina, donde esta semana el talentoso piloto madrileño ya se subirá al Williams; escudería que contará a partir de la próxima temporada con el patrocinio del Banco Santander, según se anunció este lunes.
-
-El hueco que dejará Sir Lewis en Mercedes -escudería en la que ha capturado seis de sus siete títulos- lo cubrirá el joven italiano **Andrea Kimi Antonelli** (18 años), que ya salió a pista en el primer libre de Monza (Italia), donde le pudo la presión.
-
-Carlos Sainz Jr y su salida de Ferrari
---------------------------------------
-
-Sainz se va a Williams, una de las escuderías históricas (9 títulos de constructores y 7 de pilotos), en la que será compañero del tailandés **Alex Albon**; que compartió estos últimos nueve Grandes Premios con el argentino **Franco Colapinto**, sustituto en el equipo de Grove del estadounidense Logan Sargeant desde Monza (Italia).
-
-El futuro de Colapinto -nacido hace 21 años en Pilar (Buenos Aires)- es incierto, ya que, en teoría, la parrilla está cerrada, pero en la F1 casi nunca se puede dar nada por hecho. Algunas voces sitúan a **Sergio Pérez** -subcampeón del mundo la pasada temporada y octavo este curso- fuera de la categoría reina el curso que viene. El mexicano -compañero del flamante cuádruple campeón mundial neerlandés **Max Verstappen**– se apresuró a recordar, nada más llegar a Abu Dabi, que el año que viene tiene contrato en vigor con Red Bull, pero tras confirmar una temporada para el olvido con otra retirada en la última carrera del año, ‘Checo’ admitió que no sabe “qué va a pasar”.
-
-“**Veremos a ver qué pasa estos próximos días. Tengo contrato con el equipo y hemos estado hablando. Se trata de discutir lo que es mejor para todo el mundo; y avanzar**“, manifestó el piloto de Jalisco, con seis victorias y 39 podios en la categoría reina a los 34 años.
-
-**McLaren**, que se anotó el **Mundial de constructores**, repite formación y el inglés Lando Norris -segundo en el campeonato tras ganar el domingo en Yas Marina -por delante de Sainz- formará de nuevo pareja con el australiano Oscar Piastri, cuarto en el Mundial, con dos puntos más que el español.
-
-Fernando Alonso se mantiene, pero hay más cambios en Fórmula 1
---------------------------------------------------------------
-
-El doble campeón mundial asturiano **Fernando Alonso** -32 victorias y 106 podios en la F1-, que siguió brillando a los 43 años con un muy flojo Aston Martin, volverá a formar dupla con el canadiense Lance Stroll, el hijo de Lawrence Stroll, propietario de la escudería de Silverstone.
-
-En Abu Dabi, el francés **Esteban Ocon** -que se va a Haas- tendrá como reemplazo al australiano Jack Doohan -hijo del mítico Mick Doohan, cinco veces campeón mundial de motociclismo-, en Alpine, equipo en el que el oceánico será piloto oficial en 2005.
-
-Ocon será compañero del joven inglés **Oliver Bearman** -18 años, que este año ya corrió dos carreras, una de ellas sustituyendo a Sainz en Arabia Saudí, cuando el madrileño tuvo que ser operado de apendicitis- en Haas. Un equipo que cambia por completo su formación: el alemán **Nico Hülkenberg** se va a Sauber; y el danés **Kevin Magnussen** se despidió de la F1 con la vuelta rápida en carrera el domingo en Yas Marina.
-
-Kick Sauber es la otra escudería que sustituye dúo de pilotos, ya que el nuevo compañero de Hülkenberg será otro debutante: el brasileño **Gabriel Bortoleto**, que el domingo certificó su triunfo final en el campeonato de la F2. El doble subcampeón del mundo finlandés **Valtteri Bottas y Guanyu Zhou**, el primer chino que corre en la F1, los dos pilotos de la escudería de **Hinwil** (Suiza) durante este curso, disputaron su última carrera en la categoría reina el domingo en la capital de los Emiratos Árabes Unidos.
-
-Liga de Quito ganó un título en cancha de Independiente
-=======================================================
-
-Liga de Quito es el único equipo masculino que ganó un título en el estadio de Independiente del Valle.
--------------------------------------------------------------------------------------------------------
-
-![Jugadores de Liga de Quito con el trofeo de la Supercopa Ecuador de 2021.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeon_idv_1.jpg)
-
-Liga de Quito está concentrado para la final de vuelta de la Liga Pro. El **sábado 14 de diciembre de 2024, desde las 15:30**, visitará a Independiente del Valle en la final de vuelta que marcará el fin de año futbolístico en Ecuador.
-
-Con el 3-0 de la ida, Liga de Quito tiene una mano en el trofeo de la Liga Pro, **pero Independiente del Valle saldrá decidido** a empatar la serie para extender la definición hasta los lanzamientos penales.
-
-### Más noticias:
-
-* [Inter Miami](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana") [](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")[tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
-* [¿Moisés Caicedo puede ganar la Premier League?](https://www.elcomercio.com/deportes/chelse-moises-caicedo-ganar-premier-league.html "¿Moisés Caicedo puede ganar la Premier League?")
-* [Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")
-
-Liga por un nuevo título
-------------------------
-
-Liga es el equipo más ganador del fútbol ecuatoriano. En su **palmarés destacan los 12 títulos del campeonato nacional**, los dos de la Supercopa Ecuador y una Copa Ecuador.
-
-Si gana el título el sábado se convertirá en el primer bicampeón de la Liga Pro, llegará a 13 coronas del torneo local e igualará a El Nacional en el tercer puesto. Además, quedará a solo uno de Emelec y a tres de Barcelona Sporting Club.
-
-Pero sin dudarlo el orgullo de los hinchas albos son los cinco trofeos internacionales que se dividen en la Copa Libertadores (2008), Copa Sudamericana (2009 y 2023) y Recopa Sudamericana (2009 y 2010).
-
-Aunque no suma como estrella, también sobresale el subcampeonato del mundo de clubes de 2008. Un **gol de Wayne Rooney privó a los ecuatorianos del trofeo** que ese año quedó en manos del Manchester United de Cristiano Ronaldo.
-
-![X LDU.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeon_idv_2-1024x683.jpg)
-
-X LDU.
-
-Liga estrenó la cancha de IDV
------------------------------
-
-El 20 de marzo de 2021 se jugó el primer partido oficial en el estadio de Independiente del Valle. Fue por la fecha cinco de la primera etapa de la Liga Pro.
-
-Los del Valle derrotaron **2-0 a Delfín con tantos del argentino Lorenzo Faravelli y del ariete paraguayo Brian Montenegro**. Los dos extranjeros inauguraron la cuota goleadora de la nueva y moderna infraestructura.
-
-El 26 de junio de ese mismo año LDU se transformó en el primer equipo en dar una vuelta olímpica. De hecho, es el único club de la Liga Pro que lo hizo hasta el presente año.
-
-En el fútbol femenino, **Barcelona y Dragonas IDV** celebraron sus títulos de la Superliga Femenina de 2023 y 2024, respectivamente.
-
-El referido día se jugó la final de la **Supercopa de Ecuador y le ganó a Barcelona SC por 1-0** con un autogol del Bryan Caicedo a los cuatro minutos del primer tiempo. Eso fue suficiente para ganar un nuevo título en el fútbol profesional.
-
-Adrián Gabbarini; José Quintero, Luis Caicedo, Anderson Ordóñez y Christian Cruz; Matías Zunino, Ezequiel Piovi y Jordy Alcívar; **Jhojan Julio, Luis Amarilla y Billy Arce** fueron los 11 elegidos por el argentino Gabriel Di Noria, DT interino tras la salida del uruguayo Pablo Repetto.
-
-Esa fue una revancha de parte de los albos. Unos meses antes los amarillos les ganaron el título de la Liga Pro en el Rodrigo Paz Delgado. Esa noche del 29 de diciembre de 2020 la **gran figura fue el arquero argentino Javier Burrai**.
-
-El sábado todo está encaminado para que den una nueva vuelta olímpica en la casa de IDV.
-
-> 📹 ¡Una final memorable!  
->   
-> 🤩 Los mejores momentos del partido cumbre de la [#SupercopaEcuador2021](https://twitter.com/hashtag/SupercopaEcuador2021?src=hash&ref_src=twsrc%5Etfw)🇪🇨.  
->   
-> ¡[#SuperCampeónHayUnoSolo](https://twitter.com/hashtag/SuperCampe%C3%B3nHayUnoSolo?src=hash&ref_src=twsrc%5Etfw)🏆! [pic.twitter.com/oPuk62RD5o](https://t.co/oPuk62RD5o)
-> 
-> — FEF 🇪🇨 (@FEFecuador) [June 27, 2021](https://twitter.com/FEFecuador/status/1408953775318978564?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Embajada de Estados Unidos en Ecuador ofrece vacantes de trabajo
-================================================================
-
-La Embajada de EE. UU. en Ecuador abrió vacantes con sueldos que superan los 47 000 dólares por año. Conoce cómo postular.
---------------------------------------------------------------------------------------------------------------------------
-
-![Las ofertas laborales de la Embajada son para sus sedes en Quito y Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/12/vacante-estados-unidos-ecuador.jpg)
-
-La **Embajada de Estados Unidos en Ecuador** se encuentra en la búsqueda de profesionales para cubrir **ocho vacantes** de trabajo en sus sedes de Quito y Guayaquil.
-
-Las ofertas laborales ofrecen sueldos que van desde los **17 587** a **47 419 dólares** por año.
-
-### Más noticias
-
-* [Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?](https://www.elcomercio.com/actualidad/politica/estados-unidos-hizo-nueva-donacion-a-ecuador-cual-es-el-fin.html "Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?")
-* [Trump quiere que los soñadores se queden en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/trump-quiere-sonadores-queden-estados-unidos.html "Trump quiere que los soñadores se queden en Estados Unidos")
-* [Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-veta-resolucion-onu-pide-alto-fuego-gaza.html "Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza")
-
-Vacantes de trabajo en Quito
-----------------------------
-
-**Asistente de Servicios a Ciudadanos Estadounidenses**
-
-* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
-* La remuneración es de **32 830 dólares** por año.
-
-**Investigador nacional del Servicio Exterior**
-
-* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
-* La remuneración es de **32 830 dólares** por año.
-
-**Asociado consular**
-
-* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **jueves 19 de diciembre** de 2024.
-* La remuneración es de **47 419 dólares** por año.
-
-Vacantes laborales en Guayaquil
+La trayectoria de Carlos Gruezo
 -------------------------------
 
-**Asistente de Recursos Humanos**
+**Gruezo inició su formación en Liga de Quito**, aunque su debut profesional ocurrió en 2011 con Independiente del Valle.
 
-* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
-* La remuneración es de **27 104 dólares** por año.
+Su talento despegó en 2012 y 2013 con **Barcelona SC,** acumulando 81 partidos y 3 goles con apenas 17 y 18 años, antes de ser transferido al Stuttgart de Alemania.
 
-**Asistente de gestión de la oficina del Cónsul General**
+En el **Stuttgart**, jugó tres temporadas, disputando 19 partidos. Posteriormente, se trasladó a la MLS, donde defendió al **FC Dallas** entre 2016 y 2019, sumando 114 partidos y 5 goles.
 
-* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **martes 10 de diciembre** de 2024.
-* La remuneración es de **42 391 dólares** por año.
+En 2020, regresó al fútbol alemán con el **FC Augsburgo**, donde jugó tres años y medio, acumulando 75 encuentros. Desde 2023, Gruezo pertenece al San Jose Earthquakes, con 60 apariciones en la MLS hasta ahora.
 
-**Asociado consular**
+En la **selección ecuatoriana**, Gruezo ha sido internacional desde 2014, disputando 65 partidos y participando en dos Copas del Mundo.
 
-* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **lunes 16 de diciembre** de 2024.
-* La remuneración es de **47 419 dólares** por año.
+Entre 40 y 50 cadáveres hallados en la prisión siria de Sednaya
+===============================================================
 
-**Asistente de gestión de oficina**
+Las puertas de esta cárcel, que estaba gestionada antes por la Policía Militar siria, se abrieron.
+--------------------------------------------------------------------------------------------------
 
-* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **martes 17 de diciembre** de 2024.
-* La remuneración es de **37 896 dólares** por año.
+![La Defensa Civil siria, conocidos como los cascos blancos, llegaron a la infame prisión de Sednaya, que estaba gestionada por el Gobierno sirio.](https://www.elcomercio.com/wp-content/uploads/2024/12/prision-siria.jpg)
 
-**Chofer**
+“Entre **40 y 50 cadáveres**” fueron encontrados en la **prisión siria de Sednaya**, al norte de Damasco. Es conocida por el uso de la **tortura contra los prisionero**s, durante las operaciones de rescate iniciadas poco después de que los insurgentes tomaran la **capital siria**, dijo el director del Observatorio Sirio de Derechos Humanos, Rami Abderrahman.
 
-* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 16 de diciembre** de 2024.
-* La remuneración es de **17 587 dólares** por año.
+### Más noticias
 
-¿Cómo postular a las vacantes de la Embajada de EE. UU. en Ecuador?
--------------------------------------------------------------------
+* [Cronología de 13 años de guerra civil en Siria](https://www.elcomercio.com/actualidad/mundo/cronologia-13-anos-guerra-civil-siria.html "Cronología de 13 años de guerra civil en Siria")
+* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
+* [Embajada siria confirma que Al Asad se encuentra en Moscú](https://www.elcomercio.com/actualidad/mundo/embajada-siria-confirma-que-al-asad-se-encuentra-en-moscu-2.html "Embajada siria confirma que Al Asad se encuentra en Moscú")
 
-Para postular a las **ofertas laborales** de la Embajada de EE. UU. debes ingresar a la [página web](https://erajobs.state.gov/dos-era/vacancysearch/searchVacancies.hms?_ref=d1zloxjrpt0 "https://erajobs.state.gov/dos-era/vacancysearch/searchVacancies.hms?_ref=d1zloxjrpt0") de la entidad.
+En una conversación telefónica, el jefe de la ONG, cuya sede se encuentra en el Reino Unido pero que cuenta con una **amplia red de colaboradores en el terreno,** dijo que creía que “la mayoría de los cuerpos eran de ejecuciones recientes”.
 
-En el apartado de ‘**Vacantes**‘ encontrarás los detalles de cada uno de los puestos, sus **requisitos,** beneficios y tareas a cumplir.
+Presos con signos de tortura
+----------------------------
 
-Una vez elijas la oferta de tu interés, selecciona en la parte superior la opción ‘**Postularse a esta vacante**‘.
+Desde que el grupo islamista **Organismo de Liberación del Levante (**Hayat Tahrir al Sham o HTS, en árabe), heredera de la exfilial siria de Al Qaeda, controlara Damasco, las puertas de esta cárcel, que estaba gestionada antes por la Policía Militar siria, **se abrieron. Aparecieron varios vídeos** en los que se mostraban a algunos presos con claros signos de tortura.
 
-Finalmente, completa toda la **información** que te solicita el sistema: datos personales, experiencia laboral, estudios, habilidades e idiomas. Recuerda cargar a la nube los **documentos de respaldo**.
+Con el control de cada ciudad, la organización fue abriendo las prisiones, donde se encontraban **numerosos prisioneros políticos,** como denunció durante años organizaciones de derechos humanos.
 
-La Oficina de **Recursos Humanos** de la Embajada se pondrá en contacto con los candidatos seleccionados.
+En Sednaya, que albergó entre **10 000 y 20 000 detenidos**, según estimaciones de Amnistía Internacional, el uso de tortura y fuerza excesiva salió a la luz tras un **motín de presos en 2008.**
 
-Requisitos generales
+‘Primavera Árabe’
+-----------------
+
+Desde el comienzo de la crisis en Siria en 2011, en el marco de las revueltas populares de la llamada **‘Primavera Árabe’,** la prisión se convirtió en el **destino final** tanto de opositores pacíficos a las autoridades como de militares **sospechosos de oponerse al régimen**.
+
+CNE indicó el avance en la impresión de papeletas para las elecciones 2025
+==========================================================================
+
+El CNE avanza en la impresión de papeletas para las elecciones 2025; envíos inician en enero con resguardo militar.
+-------------------------------------------------------------------------------------------------------------------
+
+![Autoridades del CNE indicaron el avance de la impresión de las papeletas para las elecciones de 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-100.jpg)
+
+El **Consejo Nacional Electoral (CNE)** informó este martes, 10 de diciembre, que la impresión de papeletas para las elecciones generales del 9 de febrero de 2025 avanza según el cronograma.
+
+### Más noticias
+
+* [CNE inicia la impresión de papeletas para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-inicia-impresion-papeletas-elecciones-2025.html "CNE inicia la impresión de papeletas para las elecciones 2025")
+* [¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?](https://www.elcomercio.com/actualidad/politica/quienes-deben-dejar-sus-cargos-para-ir-a-las-elecciones-2025.html "¿Quiénes deben dejar sus cargos para ir a las elecciones 2025?")
+* [Vocales suplentes del CNE exigen transición conforme a la Constitución](https://www.elcomercio.com/actualidad/politica/vocales-suplentes-del-cne-exigen-transicion-conforme-a-la-constitucion.html "Vocales suplentes del CNE exigen transición conforme a la Constitución")
+
+Este proceso está a cargo del **Instituto Geográfico Militar (IGM)**, que tiene significativos avances en la producción. Entre las papeletas ya impresas, destacan el **100 % de las destinadas a asambleístas del exterior** y el 40,61 % correspondientes a parlamentarios andinos.
+
+Además, las provincias de **Galápagos, Orellana, Napo, Cañar, Morona Santiago, Zamora Chinchipe, Bolívar y Loja** cuentan con el 100 % de sus papeletas impresas.
+
+> AHORA 📌🇪🇨 | Nuestras autoridades ofrecen una rueda de prensa y realizan un recorrido por las instalaciones del [@IGM\_Ecuador](https://twitter.com/IGM_Ecuador?ref_src=twsrc%5Etfw) para constatar el avance en la impresión 🖨️ de documentos y [#PapeletasElectoralesEc](https://twitter.com/hashtag/PapeletasElectoralesEc?src=hash&ref_src=twsrc%5Etfw), para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🗳️  
+>   
+> ¡Con este ejercicio garantizamos la…
+> 
+> — cnegobec (@cnegobec) [December 10, 2024](https://twitter.com/cnegobec/status/1866500807484452982?ref_src=twsrc%5Etfw)
+
+Diana Atamaint, presidenta del CNE, aseguró que el material se enviará en enero, priorizando las **circunscripciones del exterior y las provincias de difícil acceso**. Pichincha, por su parte, será la última en recibir el material el 8 de febrero, un día antes de los **comicios**.
+
+Coordinación logística en la impresión de papeletas y resguardo militar
+-----------------------------------------------------------------------
+
+El **coronel Iván Ramírez**, **director del IGM**, explicó que el material electoral se entregará al CNE el 2 de enero para iniciar su distribución. Este incluye las **papeletas y los comprobantes de votación** que recibirán los ciudadanos al ejercer su derecho al sufragio.
+
+El **envío al exterior comenzará el 6 de enero**, mientras que las provincias más alejadas recibirán las papeletas en las semanas posteriores.
+
+El proceso de impresión y distribución cuenta con el **resguardo de 150 uniformados asignados por el Comando Conjunto de las Fuerzas Armadas**. Este equipo se suma a los **194 trabajadores del IGM**, de los cuales **114 han sido contratados temporalmente** para asegurar el cumplimiento del cronograma.
+
+Ramírez destacó la coordinación entre las instituciones para garantizar la seguridad y eficacia en el proceso electoral.
+
+Último corte de avance en la impresión de papeletas
+---------------------------------------------------
+
+Según el CNE, con corte a las 09:00 de este martes 10 de diciembre, se registra un avance de impresión de papeletas electorales del **18,34%, es decir, 10 078 764 impresiones**.
+
+En total se imprimirán **54 945 260 papeletas** para la primera vuelta electoral. Estas corresponden a binomios presidenciales, **asambleístas nacionales**, provinciales, del exterior; y parlamentarios andinos.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+El Día de los Derechos Humanos muestra travesía de niños y familias por femicidios
+==================================================================================
+
+En el mundo, una niña o mujer muere cada 10 minutos a manos de su pareja o familiar. En América Latina y el Caribe, una es asesinada cada dos horas.
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este martes, 10 de diciembre de 2024, en el Día de los Derechos Humanos, Unicef y Aldea lanzó estudio sobre consecuencias del femicidio. Foto: El Comercio](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T111918.434.jpg)
+
+El **Día de los Derechos Humanos** marca una falta permanente**: la reparación y justicia de víctimas** de **femicidio** en Ecuador. Se lanzó un estudio con cifras alarmantes.
+
+En este 10 de diciembre de 2024, la [Fundación Aldea y Unicef](https://www.unicef.org/ecuador/informes/esperando-el-verano) hicieron públicos los resultados del estudio **Esperando el verano**: trayectorias de los **niños, niñas y adolescentes** víctimas de **femicidio** en Ecuador.
+
+El trabajo arroja datos desgarradores sobre cómo la violencia de género y el femicidio en las **familias**, como su expresión más extrema, impactan a la niñez y adolescencia.
+
+### Más noticias
+
+* [Hombre recibió sentencia por femicidio de la madre en Ecuador](https://www.elcomercio.com/actualidad/seguridad/hombre-sentencia-femicidio-madre-ecuador.html "Hombre recibió sentencia por femicidio de la madre en Ecuador")
+* [Condenado a cadena perpetua el autor del feminicidio que conmocionó a Italia](https://www.elcomercio.com/actualidad/mundo/condenado-cadena-perpetua-autor-feminicidio-conmociono-italia.html "Condenado a cadena perpetua el autor del feminicidio que conmocionó a Italia")
+* [La violencia de género arrebata vidas, aún hay ‘Esperanza’](https://www.elcomercio.com/opinion/editorial/violencia-genero-arrebata-vidas-aun-hay-esperanza.html "La violencia de género arrebata vidas, aún hay ‘Esperanza’")
+
+El **Día de los Derechos Humanos** y el femicidio
+-------------------------------------------------
+
+Alexandra Escobar, oficial de **Unicef en Ecuado**r, detalla que el estudio deja claro que la indiferencia no es el camino, sino la justicia y reparación. Más todavía, trabajar para que los **femicidios no continúen.**
+
+La **edad promedio** de las víctimas de femicidios en **niñas** disminuye, pasando de 10 años en 2014, a ocho en 2024. Muchas enfrentaron violencia sexual e, incluso, estaban en estado de gestación.
+
+El femicidio o asesinato de una niña, adolescente o mujer, por el hecho de serlo, **es una crisis global** y regional.
+
+En el mundo**, una niña o mujer muere cada 10 minutos a manos de su pareja o de un familiar.**
+
+En América Latina y el Caribe, una mujer es asesinada cada dos horas.
+
+Hasta noviembre de 2024, en Ecuador **ocurrieron 1 920 femicidios**, que dejaron **1 817 menores en la orfandad**. Así lo reporta Aldea.
+
+La cifra corresponde al período entre 2014, cuando se tipificó este delito en el **Código Orgánico Integral Penal (COIP)**, hasta noviembre de 2024.
+
+La tendencia es creciente y se evidencia, sobre todo, en los últimos años.
+
+El informe sobre los femicidios en Ecuador
+------------------------------------------
+
+El estudio abarca **a 76 familias en Ecuador** con 151 a menores de edad. El levantamiento de la información se realizó en este 2024.
+
+Las **violencias**, aunque no de forma exclusiva, se reproducen principalmente en los núcleos familiares.
+
+> 📍En el marco de los [#16Días](https://twitter.com/hashtag/16D%C3%ADas?src=hash&ref_src=twsrc%5Etfw) de Activismo contra la Violencia de Género y en conmemoración del Día de los [#DerechosHumanos](https://twitter.com/hashtag/DerechosHumanos?src=hash&ref_src=twsrc%5Etfw), [@AldeaFundacion](https://twitter.com/AldeaFundacion?ref_src=twsrc%5Etfw) y [@unicefecuador](https://twitter.com/unicefecuador?ref_src=twsrc%5Etfw) presentan la investigación “Esperando el verano: trayectorias de los niños, niñas y adolescentes víctimas de femicidio en… [pic.twitter.com/CdJ6nU09jP](https://t.co/CdJ6nU09jP)
+> 
+> — UNICEF Ecuador (@unicefecuador) [December 10, 2024](https://twitter.com/unicefecuador/status/1866510208186392700?ref_src=twsrc%5Etfw)
+
+Los resultados de Esperando el verano
+-------------------------------------
+
+El levantamiento de información revela que **dos de cada 10 familias s**eñaló que las niñas, niños y adolescentes tiene alguna enfermedad, el acceso a servicios de salud es limitado.
+
+Más de la mitad (55%) **no recibe atención en salud mental**. Si bien los menores continúan estudiando, solo dos de cada 10 permanecieron en la misma institución educativa luego del femicidio.
+
+La mayoría cambió de casa y **uno de cada 10 (16%) fue separado de sus hermanos.**
+
+**Siete de cada 10 familias no tienen ingresos suficientes** para cubrir las necesidades básicas insatisfechas. Hay hogares que se constituyen como extendidos, con, al menos, cinco miembros.
+
+Casi la mitad de las familias (47%) tuvo **problemas para pagar los alimentos** en las últimas semanas. Seis de cada 10 que acogieron a los niños y niñas no han recibido acompañamiento o asesoría.
+
+51% de las familias consultadas sí conocen y reciben el bono de orfandad. Mientras que el 38% no y el 11%, no respondió.
+
+Siete de cada 10 familias afirman que las **medidas de reparación integral son insuficientes.**
+
+Los rostros del femicidio
+-------------------------
+
+Yadira Labanda, madre una **víctima de femicidio,** reafirma que un **femicidio** no solo arrebata la vida de una mujer, sino que destruye familias.
+
+Ella es activista y fue parte del proceso de **levantamiento de información**. En ese camino, además de recordar su historia, la mujer enfatiza que no hay una respuesta efectiva del Estado.
+
+**“Muchos niños han quedado al cuidado de sus abuelas, mujeres de la tercera edad, que ya no tienen las fuerzas”**.
+
+Ella señala que el **bono de la orfandad** o no llega o es insuficiente para cubrir las necesidades de los menores que pierden a su madre.
+
+Además, **muchos femicidas están libres**. En Ecuador, este delito contempla una pena privativa de libertad de 22 a 26 años.
+
+Cifras faltantes sobre los femicidios en Ecuador
+------------------------------------------------
+
+Alexandra Escobar remarca qué hay un subregistro y aú**n hacen falta datos de los niños y adolescentes,** así como de los casos de femicidio.
+
+Pero hay certezas, cóm**o las secuelas que deja el delito en las familias,** desde las psicológicas hasta las económicas.
+
+Aun así, apunta Escobar, **“el verano simboliza esperanza”**. Para que esté llegue se requiere de todos: el Gobierno y la sociedad civil. Los marcos normativos existen, pero aún falta que se cumplan.
+
+Las otras realidades tras el femicidio
+--------------------------------------
+
+La investigación tiene como propósito **evidenciar y exigir acciones concretas del Estado**. Esta, justamente, evidencia que la mayoría de los niños y adolescentes **víctimas de femicidio** está bajo el cuidado de mujeres, especialmente de las abuelas. Esta realidad contempla al 46% de los casos abordados.
+
+El panorama, a su vez, abarca que el 70% encuestadas afirmó tener la custodia legal. Sin embargo, solo el 41% completó el proceso legal para obtener la custodia definitiva.
+
+Esperanza y el camino por la voz de las mujeres y familias
+----------------------------------------------------------
+
+Las voces de esa realidad **son parte de Esperanza,** el pódcast quincenal de **EL COMERCIO**.
+
+La siguiente entrega, que estará al aire el 16 de diciembre de 2024, recoge la historia de **Alexa Perlaza**, quien es parte de la **Fundación Madres Coraje**, integrada por madres de mujeres víctimas de femicidio.
+
+Su hija Danny Victoria tenía 26 años cuando quien fue **su pareja la mató.** Durante tres días ella no apareció, luego de matarla, él dejó el cadáver en la vivienda, con el ventilador prendido.
+
+Ella ahora es l**a responsable de sus nietos** y dedica su vida a la búsqueda de justicia y reparación, mientras trabaja para sostener a los pequeños y a su hija menor.
+
+**Esperanza** representa el comienzo de un camino con voces de mujeres llenas de valentía, que enfrentaron violencia, transformaron su vida y, ahora, alzan la voz.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Feid se sumó a la lista de reguetoneros colombianos con récords Guinness
+========================================================================
+
+Feid consiguió su récord Guinness en Medellín.
+----------------------------------------------
+
+![Feid tiene 32 años y es uno de los reguetoneros más queridos. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-10T120008.038.jpg)
+
+El **reguetón** deja una huella imborrable en la **música global** y varios de sus exponentes son reconocidos por sus logros excepcionales a través de récords **Guinness**.
+
+En la lista hay tres **reguetoneros** colombianos; **Feid** fue el último en sumarse.
+
+### **Más noticias:**
+
+* [¿Quién es Feid, el cantante que estará en el show de la Copa América 2024?](https://www.elcomercio.com/tendencias/feid-copa-america.html "https://www.elcomercio.com/tendencias/feid-copa-america.html")
+* [Feid comparte video de su borrachera e indigna a los usuarios de Instagram](https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html "https://www.elcomercio.com/tendencias/entretenimiento/feid-video-borracho-instagram-criticas-redes-57.html")
+* [¿Karol G y Feid se casaron en secreto?](https://www.elcomercio.com/tendencias/entretenimiento/boda-secreta-feid-karolg.html "https://www.elcomercio.com/tendencias/entretenimiento/boda-secreta-feid-karolg.html")
+
+**Feid se sumó a la lista de reguetoneros colombianos con récords Guinness**
+----------------------------------------------------------------------------
+
+Feid, el exitoso **reguetonero colombiano**, alcanzó un logro que sorprendió a sus **seguidores**.
+
+¿Qué hizo? **Se adjudicó un récord Guinness** por la mayor distancia recorrida por un artista durante un concierto en vivo; sumó 10 003 kilómetros.
+
+**Feid** recibió el reconocimiento en la última noche de su ‘**Ferxxocalipsis**‘ en Medellín.
+
+**Otros reguetoneros con récords Guinness**
+-------------------------------------------
+
+**Karol G**, reconocida como una de las artistas más influyentes del **género urbano**, rompió cinco récords Guinness con su álbum ‘**Mañana Será Bonito’**.
+
+Entre los más destacados: se convirtió en la primera cantante femenina en alcanzar el **número uno de la lista Billboard 200** con un álbum completamente en español.
+
+‘Mañana Será Bonito’ se convirtió en el **álbum latino en español más reproducido** en Spotify dentro de las primeras 24 horas para una artista femenina.
+
+**J Balvin también tiene un récord Guinness**
+---------------------------------------------
+
+En 2020, [Guinness World Records (GWR)](https://www.guinnessworldrecords.es/news/press-release/2020/11/j-balvin-es-oficialmente-el-artista-global-con-mas-nominaciones-a-latin-grammy-e "https://www.guinnessworldrecords.es/news/press-release/2020/11/j-balvin-es-oficialmente-el-artista-global-con-mas-nominaciones-a-latin-grammy-e"), la autoridad mundial en récords, certificó oficialmente al Embajador Global del Reggaetón, J Balvin, como el artista con **la mayor cantidad de nominaciones a los premios Latin Grammy en un año (13).** 
+
+Balvin obtuvo su primer título en marzo de 2016. Ese año rompió el récord de la mayor duración en el primer lugar de las listas de Billboard Hot Latin Songs por un solo artista. Permaneció en la cima durante 22 semanas con su éxito Ginza.
+
+‘La Guerra de los Rohirrim’ apuesta por la animación y un retorno a los orígenes 
+=================================================================================
+
+La nueva película ‘La Guerra de los Rohirrim’ revive el universo de Tolkien con un estilo anime.
+------------------------------------------------------------------------------------------------
+
+![‘La Guerra de los Rohirrim’ se ambienta 183 años antes de la trilogía original. Foto: Instagram @wbpictureslatam.](https://www.elcomercio.com/wp-content/uploads/2024/12/La-Guerra-de-los-Rohirrim-2.jpg)
+
+El 5 de diciembre de 2024, se estrenó en Ecuador **‘La Guerra de los Rohirrim’**, una película que regresa al universo de **‘El Señor de los Anillos’**. Esta **producción animada**, dirigida por **Kenji Kamiyama**, marca un cambio significativo respecto a las anteriores **adaptaciones cinematográficas**, que fueron en **‘live action’**.
+
+### Más noticias
+
+* [‘La Guerra de los Rohirrim’ llega a la gran pantalla con un estilo anime épico](https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html "https://www.elcomercio.com/tendencias/cine/la-guerra-de-los-rohirrim-cine-pelicula.html") 
+* [Descubren en Ecuador una rana y la nombran en honor al escritor J.R.R. Tolkien](https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/ciencia/descubren-ecuador-rana-nombran-honor-escritor-jrr-tolkien.html?source=Internal&ref=Single+Content+Link")
+
+Esta **apuesta arriesgada** busca atraer tanto a los fanáticos de la saga como a **nuevos espectadores**, al ofrecer una **experiencia visual única** que combina la **narrativa épica** de Tolkien con un **estilo anime** distintivo. 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDXp46Kh2QT/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Warner Bros. Pictures Latam (@wbpictureslatam)](https://www.instagram.com/reel/DDXp46Kh2QT/?utm_source=ig_embed&utm_campaign=loading)
+
+**El director de ‘La** **Guerra de los Rohirrim’** 
+---------------------------------------------------
+
+**Kenji Kamiyama** es conocido por su trabajo en el **mundo del anime**. Ha dirigido series aclamadas como ‘Ghost in the Shell: Stand Alone Complex’ y ‘Jin-Roh’. Su experiencia en el género le permite aportar una **perspectiva fresca y emocionante** a la historia de **Helm Hammerhand**, el legendario **rey de Rohan**. La elección de un **director japonés** para esta producción resalta la **influencia global del anime** y su capacidad para contar historias complejas y visualmente atractivas, según recoge [Gestión](https://gestion.pe/mix/tendencias-mix/el-senor-de-los-anillos-la-guerra-de-los-rohirrim-la-trama-y-fecha-de-estreno-de-la-pelicula-the-lord-of-the-rings-the-war-of-the-rohirrim-video-nnda-nnlt-noticia/?ref=gesr "https://gestion.pe/mix/tendencias-mix/el-senor-de-los-anillos-la-guerra-de-los-rohirrim-la-trama-y-fecha-de-estreno-de-la-pelicula-the-lord-of-the-rings-the-war-of-the-rohirrim-video-nnda-nnlt-noticia/?ref=gesr").  
+
+**Una trama épica** 
 --------------------
 
-Si bien cada vacante cuenta con requisitos específicos, estos son algunas **condiciones generales** que debes cumplir:
+**‘La Guerra de los Rohirrim’** se ambienta 183 años antes de los eventos narrados en la trilogía original. La historia sigue a **Helm “Mano Martillo”**, quien debe defender su reino ante un **ataque del astuto Wulf**, un caballero dunlendino que **busca venganza** por la muerte de su padre. Este conflicto culmina en la famosa f**ortaleza del Abismo de Helm**, un lugar que se convierte en símbolo de resistencia y valentía, siguiendo con Gestión.  
 
-* Autorización de Confianza Pública
-* Disponibilidad para incorporarte de al menos **dos semanas**
-* Tener mínimo **dos años de estudios** universitarios, con excepción del puesto de chofer que requiere niveles secundarios
-* Demostrar una **experiencia laboral** de dos años
-* Rendir **evaluaciones** de conocimientos
-* Idioma **inglés fluido**, con excepción del puesto de chofer que requiere niveles básicos
-* **Adaptabilidad** al entorno cultural, social y jurídico estadounidense
+La película también **introduce a nuevos personajes**, como **Héra, la hija de Helm**, quien debe encontrar la fuerza para liderar a su pueblo en tiempos desesperados, a decir de [Infobae](https://www.infobae.com/espana/cultura/2024/12/03/cuando-se-ambienta-la-guerra-de-los-rohirrim-y-como-conecta-con-las-otras-entregas-de-el-senor-de-los-anillos/ "https://www.infobae.com/espana/cultura/2024/12/03/cuando-se-ambienta-la-guerra-de-los-rohirrim-y-como-conecta-con-las-otras-entregas-de-el-senor-de-los-anillos/"). Este **enfoque en personajes femeninos** fuertes y resilientes refleja una **tendencia contemporánea** en el cine que busca diversificar las narrativas tradicionales. 
 
-La Misión de los Estados Unidos aseguró que los procesos de contratación se realizarán garantizando la **igualdad de oportunidades** y un trato justo.
+**Un regreso a los orígenes** 
+------------------------------
 
-“No tendremos distinción de raza, color, religión, sexo, origen nacional, edad, discapacidad, afiliación política, estado civil u orientación sexual”, señaló la institución norteamericana.
+El **viraje hacia la animación** puede considerarse **un regreso a los orígenes**. Las **primeras adaptaciones** de las obras de **J.R.R. Tolkien** fueron también animadas: ‘El Señor de los Anillos’ (película de 1978), lo que permite a **‘La Guerra de los Rohirrim’** conectar con esa herencia. Esta nueva adaptación no solo honra el legado del autor, sino que también explora aspectos menos conocidos del mundo que creó, según [AS](https://as.com/meristation/noticias/cuando-se-estrena-el-senor-de-los-anillos-la-guerra-de-los-rohirrim-fecha-de-estreno-oficial-y-nuevo-trailer-n-2/ "https://as.com/meristation/noticias/cuando-se-estrena-el-senor-de-los-anillos-la-guerra-de-los-rohirrim-fecha-de-estreno-oficial-y-nuevo-trailer-n-2/").  
 
-La Selección Ecuador sub-20 jugará dos amistosos
-================================================
+La combinación del estilo **visual anime** con la rica **tradición narrativa de Tolkien** ofrece una experiencia única. Los paisajes épicos y las **batallas espectaculares** prometen atraer tanto a los fanáticos del anime como a los seguidores de las historias clásicas de la Tierra Media. 
 
-La Selección de Ecuador sub-20 fue campeona del Campeonato Sudamericano en 2019.
---------------------------------------------------------------------------------
+**El desafío del cambio** 
+--------------------------
 
-![Davis Bautista es uno de los convocados por Miguel Bravo para los amistosos.](https://www.elcomercio.com/wp-content/uploads/2024/12/amistosos_juvenil_1.jpg)
+Aunque muchos celebran esta nueva dirección, otros son escépticos sobre el **cambio de formato**. Las películas originales dirigidas por **Peter Jackson** establecieron un estándar elevado para las **adaptaciones cinematográficas de Tolkien**. Sin embargo, este nuevo enfoque puede abrir puertas a una audiencia más amplia y ofrecer nuevas interpretaciones de historias familiares. 
 
-La Selección de Ecuador sub-20 jugará en Lima dos partidos amistosos ante su similar de Perú, el 17 y el 20 de diciembre de 2024, **como preparación para el Campeonato Sudamericano** de la categoría que se disputará en enero de 2025 en Venezuela, informó la Federación Ecuatoriana de Fútbol (FEF).
+La película cuenta con un **elenco destacado** que incluye **voces reconocidas** como Brian Cox (Helm), Gaia Wise (Héra) y **Miranda Otto**, quien regresa como narradora tras haber interpretado a Éowyn en las películas anteriores. 
 
-El seleccionador Miguel Bravo convocó este lunes a 27 jugadores, 22 de los que militan con sus clubes en la Liga Pro de Ecuador (que entra en receso en los próximos días) y cinco en equipos extranjeros.
+Este toque nostálgico puede atraer a aquellos que crecieron con las películas originales. 
+
+### Te recomendamos:
+
+Policía captura a miembros de Las Águilas, entre ellos el cabecilla
+===================================================================
+
+Alias 'Pilozo' y 13 antisociales más fueron detenidos en flagrancia. Cuatro de ellos registran antecedentes por robo y tráfico de drogas
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![La Policía realizó en operativo Ónix en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T115923.950.jpg)
+
+La **Policía Nacional** informó este martes 10 de diciembre sobre los resultados de un **operativo** ejecutado en medio del combate al **crimen organizado**. Este operativo consiguió dar un golpe a Las Águilas.
+
+### Más noticias
+
+* [Policía Nacional se incautó de más de dos toneladas de cocaína](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-incauto-cerca-dos-toneladas-cocaina.html "Policía Nacional se incautó de más de dos toneladas de cocaína")
+* [Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025](https://www.elcomercio.com/actualidad/politica/daniel-noboa-decision-proteccion-policial-elecciones-2025.html "Daniel Noboa tomó una decisión sobre la protección policial para las elecciones 2025")
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+
+El operativo Ónix
+-----------------
+
+La Policía Nacional ejecutó el operativo llamado Ónix en Guayaquil, a través de la Dirección Nacional de Investigación Antidrogas.
+
+Esta operación dejó como resultado la aprehensión de 14 antisociales, entre ellos alias ‘Pilozo’, quienes habrían incurrido en el delito de delincuencia organizada.
+
+Estos sujetos serían miembros del grupo armado organizado Las Águilas. Cuatro de los implicados registran antecedentes por delitos como robo y tráfico de drogas.
+
+El operativo se realizó durante la madrugada de este martes 10 de diciembre, luego de investigaciones desarrolladas a lo largo de ocho meses. Esta investigación estuvo a cargo de la Unidad Nacional contra el Tráfico Ilícito para el consumo Interno (UCTCI).
+
+Las Águilas habrían participado en el tráfico para el consumo interno de sustancias catalogadas como sujetas a fiscalización. Además, generaba violencia y alteración del orden público por disputas territoriales con otros grupos delictivos.
+
+Así también, se encontró que esta organización se abastecía de sustancias ilícitas en Loja mediante el uso de vehículos con compartimientos secretos. Posterior a su llegada, los almacenaban en inmuebles en los distritos Portete y La Florida y luego los distribuían en la provincia del Guayas.
+
+Mientras se realizaban las investigaciones, se realizaron cuatro operativos en donde se aprehendió a cuatro sujetos en flagrancia y se decomisó 7 841,30 gramos de cocaína.
+
+Resultados operativo Ónix
+-------------------------
+
+Las acciones ejecutadas este martes 10 de diciembre dejaron los siguientes [indicios recogidos.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+* 20 kilogramos de cocaína
+* 160 gramos de marihuana
+* Un arma de fuego
+* 13 cartuchos
+* Una alimentadora
+* Dos vehículos retenidos
+* Una moto retenida
+* 11 terminales móviles
+* Dinero en efectivo
+* Prendas de vestir
+
+Liga de Quito vs. IDV, ¿qué jugadores pueden definir la final de Liga Pro?
+==========================================================================
+
+Faltan menos de siete días para conocer al nuevo monarca de la Liga Pro 2024, entre Liga de Quito e Independiente del Valle.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Jeison Medina y Alex Arce son los goleadores de Independiente del Valle y Alex Arce, respectivamente.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-10T114806.813.jpg)
+
+Liga de Quito obtuvo una importante ventaja en la ida de la final de la Liga Pro 2024. Los albos vencieron por **3-0 a Independiente del Valle** el pasado sábado 7 de diciembre en el Estadio Rodrigo Paz Delgado, dejando la serie inclinada a su favor.
+
+Este abultado marcador le otorga una ventaja estratégica y psicológica al **‘Rey de Copas’**, ya que no será quien tenga que arriesgar en la revancha. Por el contrario, IDV enfrenta toda la presión, pues necesita jugar con intensidad desde el primer minuto si pretende remontar.
 
 ### Más noticias:
 
-* [IDV nece](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")[s](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")[ita una hazaña para remontar a Liga de Quito en la final](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")
-* [El Real Madrid li](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")[dera el once ideal del FIFPro 2024](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")
-* [Entradas par](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")[a](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles") [la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
+* [Liga de Quito ganó un título en cancha de Independiente](https://www.elcomercio.com/deportes/futbol/liga-quito-campeon-supercopa-ecuador.html "Liga de Quito ganó un título en cancha de Independiente")
+* [Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?](https://www.elcomercio.com/deportes/liga-pro-campeones-ganadores-segunda-etapa.html "Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?")
+* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
 
-La Selección de Ecuador y su preparación
-----------------------------------------
+La final de vuelta se disputará este **sábado 14 de diciembre**, a las **15:30**, en el Estadio Banco Guayaquil, ubicado en el sector de Chillo Jijón, Valle de los Chillos.
 
-Los amistosos de Ecuador ante Perú se jugarán en el estadio atlético La Videna, en Lima, detelló la FEF.
+Los jugadores que pueden definir la final
+-----------------------------------------
 
-Añadió que el combinado nacional se entrenará y **concentrará hasta el 15 de diciembre en la capital ecuatoriana**, en un proceso de preparación de cara al Sudamericano Juvenil en Venezuela que se disputará entre el 23 de enero y el 16 de febrero, y que entregará un billete para el Mundial de septiembre próximo en Chile.
+A pesar de la ventaja de Liga de Quito, ambos equipos cuentan con figuras que podrían ser clave en el desenlace del torneo, ya sea para confirmar el título albo o para concretar una histórica remontada rayada.
 
-En el torneo sub-20, Ecuador formará parte del **Grupo B con Argentina, Brasil, Colombia y Bolivia**.
+### Liga de Quito
 
-Miguel Bravo dispondrá de figuras Sub-20 que han sido titulares permanentes en sus clubes como el defensa Diogo Bagüí, el centrocampista **Ronny Borja y el atacante Elkin Muñoz, del Emelec**, equipo dirigido por el colombiano Leonel Álvarez.
+En el **‘Rey de Copas’** hay dos jugadores clave que ya demostraron su valía en la final de ida.
 
-También Elian Caicedo, de Mushuc Runa; Allen Obando, de Barcelona; Justin Lerma, del Independiente del Valle; Rooney Troya y Luis Moreno de Universidad Católica, entre otros.
+El primero, obviamente, no podía ser otro más que **Alex Arce**, quien anotó un doblete en el partido anterior, alcanzando los **28 goles en 30 partidos** de la Liga Pro, una cifra récord bajo este formato de torneo.
 
-Los cinco convocados que militan en el exterior son: Jhafets Dick (Cartagena-ESP), **Davis Bautista (Eintracht Frankfurt-GER)**, Jair Collahuazo (Red Bull-USA), Jeremy Arévalo (Racing de Santander-ESP), David Govea (Swansea City-NLD).
+Arce ha demostrado ser un delantero letal y el mejor cabeceador del campeonato, convirtiéndose en la principal amenaza ofensiva de Liga de Quito. Su olfato goleador le permite estar en el momento exacto para definir y causar estragos en las defensas rivales, especialmente en jugadas aéreas.
 
-Los otros 22 convocados
+El segundo es **Jhojan Julio**, un jugador que, en la previa, no partía como figura debido a una larga ausencia por lesión. Sin embargo, en la final de ida, fue el encargado de romper el cerrojo de IDV con su desequilibrio.
+
+Julio, quien recientemente alcanzó los **200 partidos con LDU**, fue una constante amenaza por las bandas, complicando a la defensa de los rayados y generando espacios para que sus compañeros atacaran con mayor libertad.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDZ2DASOpvD/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDZ2DASOpvD/?utm_source=ig_embed&utm_campaign=loading)
+
+### Independiente del Valle
+
+Para intentar una épica hazaña en el fútbol ecuatoriano, **Independiente del Valle** confiará en dos figuras fundamentales:
+
+**Jeison Medina**, su máximo goleador, es el segundo en la tabla de goleo con **20 tantos**, solo detrás de Arce. Desde su llegada al club a mediados de 2024, el ariete colombiano se convirtió en la principal referencia ofensiva del equipo. Su habilidad para moverse en el área, su visión y su potente golpeo serán determinantes si IDV aspira a revertir el resultado.
+
+La otra figura es **Keny Arroyo**, el joven ecuatoriano que se consolidó como la revelación del torneo en el segundo semestre. Gracias a su habilidad con los pies, explosividad y excelente gambeta, **‘Che-Che’** ha sido un jugador clave para generar peligro tanto por las bandas como por el centro.
+
+En la ida, **Arroyo** fue uno de los pocos jugadores de Independiente que se mostró participativo en ataque. Será crucial para abrir espacios y romper la sólida defensa de Liga en el partido de vuelta.
+
+Joven fue a una entrevista de trabajo y apareció muerta, tenía dos pregrados
+============================================================================
+
+Los padres de Catalina Leyva entregaron detalles de lo que se sabe del caso.
+----------------------------------------------------------------------------
+
+![El hallazgo les dejó una profunda tristeza y decenas de preguntas que siguen sin resolver.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-10.jpg)
+
+Una **trágica** noticia enluta a una familia de Bogotá tras enterarse de que su ser querido, una joven de 24 años, salió de su hogar para una entrevista de trabajo y posteriormente fue **hallada sin vida** con signos de **violencia sexual**.
+
+### Más noticias:
+
+* [Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?](https://www.elcomercio.com/actualidad/quito/violencia-sexual-transporte-municipal-protocolos.html "Violencia sexual en transporte municipal de Quito, ¿cuáles son los protocolos?")
+* [Romper y hacer pactos por la eliminación de la violencia de género](https://www.elcomercio.com/actualidad/romper-hacer-pactos-eliminacion-violencia-genero.html "Romper y hacer pactos por la eliminación de la violencia de género")
+
+El hallazgo les dejó una **profunda tristeza y decenas de preguntas** que siguen sin resolver. Sus familiares piden a las autoridades celeridad en el caso.
+
+Desaparición tras entrevista y hallazgo trágico
+-----------------------------------------------
+
+De acuerdo con el informe de Citytv, la joven fue citada para una **entrevista de trabajo** el pasado 9 de noviembre de 2024, en el barrio El Restrepo, hasta donde la llevó su novio, quien el mismo día notificó que no había vuelto a saber de ella por lo que acudió inmediatamente hacia los padres de la mujer.
+
+“Ella sale de la casa sobre las 7 a.m. y a las 9:30 nos reportó el novio que ella había desaparecido. Recurrimos a la Policía y a través del teléfono de la niña encontramos su cadáver”, informó el padre.  
+Para sus padres y las autoridades es clave determinar que la joven no fue despojada de sus pertenencias, pues contaba con su celular, billetera y ropa sin ninguna alteración.
+
+“Cuando llegamos ella estaba boca abajo, al parecer, sin ningún indicio de violencia. Sin embargo, en la necropsia determinaron que tenía signos de violencia sexual”, confirmó el padre.
+
+¿Qué se sabe de las personas que la citaron?
+--------------------------------------------
+
+La joven fue identificada como **Catalina Leyva**, quien mencionaron sus familiares era una **mujer juiciosa y una gran persona**: “Ella era un gran ser humano, ya había **culminado dos pregrados** y cursaba una tercera profesión. También tenía un emprendimiento de donas”.
+
+De acuerdo con sus padres, existe el registro de la conversación que la joven mantuvo con estas personas a través del WhatsApp.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-11-1024x683.jpg)
+
+Sus padres encontraron las conversacions en WhatsApp. Imagen generada con Ideogram.ai
+
+“Ceci Ariza le dice a ella que ella tiene el trabajo que ella necesita, y que es muy bien remunerado**, que es algo audiovisual**… para que ella realizara un trabajo audiovisual, pues ella estaba estudiando diseño gráfico; y ella se va hasta ese punto”, afirmó el padre.
+
+Sus familiares accedieron a las conversaciones gracias a que Catalina dejó su red social abierta en el portátil de la casa. Sin embargo, afirman que pese a que ya entregaron las evidencias a la **Fiscalía, aún no han tenido respuesta alguna.**
+
+“Pedimos que piensen que es un ser humano, una gran hija y creo que no tenemos que tener nombre para que trabajen en el caso. Con las evidencias **ya se puede empezar a investigar quién le hizo esto a mi hija”**, concluyó su padre.
+
+‘Ley Antipillos’ fue publicada en el Registro Oficial; Asamblea anuncia acciones legales
+========================================================================================
+
+El secretario de la Asamblea Nacional denuncia la inconstitucionalidad de la promulgación del Decreto Ley 'Ley Antipillos'.
+---------------------------------------------------------------------------------------------------------------------------
+
+!['Ley Antipillos' ya consta en el Registro Oficial.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-99.jpg)
+
+El **secretario general de la Asamblea Nacional, Alejandro Muñoz**, calificó como un **‘apagón jurídico’** la promulgación del **Decreto Ley conocido como ‘Ley Antipillos’** por parte del presidente de la República, argumentando que el proyecto había sido previamente **negado y archivado por el Legislativo**.
+
+La Ley fue publicada en el **Registro Oficial este 10 de diciembre**.
+
+### Más noticias
+
+* [Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’](https://www.elcomercio.com/actualidad/politica/daniel-noboa-envio-registro-oficial-ley-antipillos.html "Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’")
+* [Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís](https://www.elcomercio.com/actualidad/seguridad/gobierno-daniel-noboa-peticion-mexico-walter-solis.html "Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís")
+* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
+
+Durante un comunicado emitido ayer, señaló que este acto “viola el **principio de independencia** y separación de funciones del Estado, y resquebraja las bases de la democracia”.
+
+Un acto que va en contra de la Constitución, según la Asamblea sobre la ‘Ley Antipillos’
+----------------------------------------------------------------------------------------
+
+El secretario explicó que el **artículo 140 de la Constitución** establece un único procedimiento para la aprobación de leyes, sean **ordinarias o económicas urgentes**. Según Muñoz, este fue seguido correctamente por la Asamblea al archivar el proyecto en el primer debate.
+
+Según él, esta decisión tiene plena validez jurídica y constitucional, ya que no se ha declarado la inconstitucionalidad del **artículo 60 de la Ley Orgánica de la Función Legislativa**.
+
+> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
+> El secretario de la Asamblea, Alejandro Muñoz, dice que, en caso de que se publique la Ley Antipillos presentarán una demanda en la Corte Constitucional. Además, se analiza una acción penal por arrogación de funciones. Esto tras el Decreto Ley emitido por Noboa.  
+> ▶️… [pic.twitter.com/SNqdLAwzXw](https://t.co/SNqdLAwzXw)
+> 
+> — Ecuadorinmediato (@ecuainm\_oficial) [December 10, 2024](https://twitter.com/ecuainm_oficial/status/1866500884470882683?ref_src=twsrc%5Etfw)
+
+“La promulgación de este Decreto Ley constituye no solo un **acto inconstitucional**, sino que, además, se ha realizado bajo un procedimiento irregular que agrava aún más la situación”, afirmó Muñoz.
+
+Este es el artículo 60 de la Ley Orgánica de la Función Legislativa:  
+“**Art. 60.-** Inclusión del informe para primer debate en el orden del día.-  
+Las comisiones especializadas elevarán los respectivos informes a conocimiento de la Presidencia de la Asamblea Nacional.  
+El Presidente o Presidenta de la **Asamblea Nacional**, ordenará su distribución a los asambleístas por  
+Secretaría General de la Asamblea Nacional.  
+El **primer debate** se desarrollará, previa convocatoria del Presidente o Presidenta de la Asamblea Nacional, en **una sola sesión** y las y los asambleístas presentarán sus observaciones por escrito en  
+el transcurso de la misma sesión o hasta tres días después de concluida la sesión.  
+El **Pleno**, con la mayoría absoluta de sus miembros, **podrá resolver el archivo del proyecto de ley**“.
+
+Actuación del Ejecutivo
 -----------------------
 
-Christian Loor, Elkin Ruiz, Dary García, Justin Lerma, Darwin Guagua (Independiente del Valle); Maikel Caicedo, Fricio Caicedo, Ruddy Mina, Juan Rodríguez y Ariel Borja (Liga de Quito); Diogo Bagüi, Ronny Borja y Elkin Muñoz (Emelec).
+El funcionario también cuestionó la actuación de la **Secretaría Jurídica de la Presidencia**. Ya que el mismo día envió una solicitud a la Asamblea para certificar el estatus del proyecto.
 
-También estarán Johan Guerrero, Jostin Feijoo (Orense); Luis Moreno y Rooney Troya (Universidad Católica); **Allen Obando y Geremi Altafuya (Barcelona)**; Gipson Preciado (Independiente Juniors), Elian Caicedo (Mushuc Runa) y Jackson Landázury (Liga de Portoviejo).
+Sin embargo, horas después, el **Ejecutivo promulgó el decreto** sin la certificación requerida, contradiciendo su propia solicitud.
 
-San viernes
------------
+“Esto demuestra no solo una falta de respeto al procedimiento, sino un claro intento de imponer decisiones que violentan el **marco jurídico**”, aseveró el secretario.
+
+Muñoz mencionó que, en caso de que se p**ublique la ‘Ley Antipillos’** presentarán una demanda en la **Corte Constitucional**. Asimismo, explicó que analizarán una **acción penal por arrogación de funciones**.
+
+Repercusiones en el sistema democrático
+---------------------------------------
+
+El pronunciamiento cierra con una advertencia sobre las **implicaciones de este tipo de acciones** en la estabilidad del sistema democrático ecuatoriano. “Este tipo de decisiones arbitrarias crean un precedente peligroso y afectan la **confianza en las instituciones**”, concluyó.
+
+La publicación de la Ley Orgánica para la Mejora Recaudatoria en el Registro Oficial
+------------------------------------------------------------------------------------
+
+El 10 de diciembre de 2024, se oficializó en el **Registro Oficial la Ley Orgánica para la Mejora Recaudatoria a través del Combate al Lavado de Activos**.
+
+Este decreto-ley fue promulgado por el presidente **Daniel Noboa** tras agotar el plazo de 30 días sin resolución por parte de la **Asamblea Nacional**, lo que le permitió adoptar esta medida bajo el marco constitucional que habilita al Ejecutivo a legislar en casos de urgencia económica.
+
+La nueva normativa busca fortalecer los mecanismos de control financiero, estableciendo regulaciones estrictas para la detección y prevención de **lavado de activos**. Entre sus disposiciones, se incluye la modernización del sistema recaudatorio y la imposición de sanciones más severas para quienes incurran en delitos económicos. Con ello, el Gobierno apunta a cerrar brechas que facilitan la evasión fiscal y el flujo de dinero ilícito.
+
+Pronunciamiento del Registro Oficial
+------------------------------------
+
+El **Registro Oficial**, recordó mediante un comunicado que su función es **informar a la ciudadanía** sobre las **disposiciones legales** que rigen en el país, actuando como único órgano de comunicación legal entre el Estado y sus habitantes.
+
+La institución aclaró que **no ejerce control de legalidad o constitucionalidad**, limitándose a un control editorial para garantizar la **claridad, legibilidad y completitud de los documentos publicados**, además de verificar que incluyan sellos y firmas correspondientes.
+
+> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
+> Frente a la emisión decreto-ley de la “Ley Antipillos”, el Registro Oficial señala que no es un órgano dirimente ni realiza controles de legalidad o de constitucionalidad. Hoy, el secretario de la Asamblea, Alejando Muñoz, anunció que en caso se publique el Decreto se… [pic.twitter.com/wXL3zFPPF5](https://t.co/wXL3zFPPF5)
+> 
+> — Ecuadorinmediato (@ecuainm\_oficial) [December 10, 2024](https://twitter.com/ecuainm_oficial/status/1866539892391461231?ref_src=twsrc%5Etfw)
+
+Asimismo, explicó que, según disposiciones transitorias **constitucionales y legales**, opera como una institución autónoma bajo la **dependencia administrativa** y presupuestaria de la Corte Constitucional, hasta que se transforme en una empresa pública.
+
+* * *
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Michimercio anda medio chill
+============================
+
+La ciudad está llena de adornos para celebrar, aunque no todos andan de buen humor: están poseídos por el espíritu grinch.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Michimercio y su espíritu de Navidad.](https://www.elcomercio.com/wp-content/uploads/2024/12/MichiNavidad.jpeg)
+
+El espíritu navideño ronda por todos lados y nuestro amigo anda medio, ‘gatini’ porque estos meses ha trabajado mucho.
+
+Concejo Metropolitano de Quito niega citación del secretario de Cultura
+=======================================================================
+
+Nueve concejales pidieron cambiar el orden del día para tartar el tema de los eventos ocurridos en el Quitofest.
+----------------------------------------------------------------------------------------------------------------
+
+![El Concejo Metropolitano de Quito se reunió este 10 de diciembre.](https://www.elcomercio.com/wp-content/uploads/2024/12/Concejo-de-Quito.jpg)
+
+En este 10 de diciembre del 2024, durante el **Concejo** **Metropolitano** de Quito, no se aprobó el cambio del orden del día[.](https://es.wikipedia.org/wiki/Distrito_metropolitano_de_Quito#:~:text=Concejo%20metropolitano,-Art%C3%ADculo%20principal%3A%20Concejo&text=Es%20un%20%C3%B3rgano%20unicameral%20compuesto,concejal%20metropolitano%20preside%20una%20comisi%C3%B3n. "https://es.wikipedia.org/wiki/Distrito_metropolitano_de_Quito#:~:text=Concejo%20metropolitano,-Art%C3%ADculo%20principal%3A%20Concejo&text=Es%20un%20%C3%B3rgano%20unicameral%20compuesto,concejal%20metropolitano%20preside%20una%20comisi%C3%B3n.")
+
+Más noticias
+------------
+
+* [Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur](https://www.elcomercio.com/actualidad/quito/nueve-concejales-quito-piden-llamar-secretario-cultura-mugre-sur.html "Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur")
+* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
+* [Concejo de Quito avala energía alternativa para semáforos: informe en 30 días](https://www.elcomercio.com/actualidad/quito/concejo-energia-alternativa-semaforos-quito.html "Concejo de Quito avala energía alternativa para semáforos: informe en 30 días")
+
+Nueve concejales propusieron cambiar el orden del día para que comparezca el **secretario** de **Cultura**, **Jorge** **Cisneros**.
+
+Concejales piden comparecer al secretario de cultura
+----------------------------------------------------
+
+El concejal **Michael** **Aulestia** pidió, en nombre de los nueve concejales, el cambio del orden del día.
+
+Pidió que el secretario de **Cultura** de **Quito**, Jorge Cisneros, acuda al **Concejo** para que dé explicaciones sobre la performance de **Mugre** **Sur** en el **Quitofest**.
+
+“Es preciso recibir al secretario de **Cultura**. porque más de 800 000 dólares se invirtieron en el **Quitofest** y no podemos avalar ningún acto deshumanizante”, dijo Aulestia.
+
+Según el concejal, no se puede avalar, como ciudad, una apología del odio y la incitación a la violencia. Citó el artículo 13 de la Convención Interamericana de **Derechos** **Humanos**, en el sentido en que no se puede, por ningún motivo, incitar a la **violencia**.
+
+“Esta ciudad no puede soportar o tolerar eventos ni **manifestaciones** de **odio** (…) ha merecido el reproche de la ciudadanía y rebasó los límites de la **libertad** **de** **expresión**”.
+
+Añadió que no se trata de una **censura** **artística** y solicitó el cambio del orden del día.
+
+Llamado a Cisneros no se aprueba
+--------------------------------
+
+El alcalde de Quito, **Pabel** **Muñoz**, dio paso de inmediato a la votación. El resultado tuvo 9 votos a favor, 9 en contra y cuatro abstenciones.
+
+Con eso, no pasó la moción. Sin embargo, Muñoz se comprometió a considerar la petición para la sesión del **Concejo** **Metropolitano** el próximo martes 17 de diciembre del 2024.
+
+Sostuvo que presentará el balance de las **Fiestas** **de** **Quito** en su conjunto y que, por un hecho, entre las diferentes actividades que se llevaron a cabo, no empaña el conjunto de las **fiestas**.
+
+Añadió que está en contra de cualquier **censura** a los **trabajos** **artísticos** y que en lo personal no comparte contenidos explícitos ni implícitos de violencia.
+
+De este modo, el **Concejo** **Metropolitano** se dedicó a tratar el único punto del orden del día: el presupuesto para el 2025.
+
+### Esperanza
+
+Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+
+Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+
+[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+
+Los motivos del presunto crimen que habría cometido Luigi Mangione
+==================================================================
+
+Mangione, quien huyó de Nueva York tras el crimen, fue detenido inicialmente por porte ilegal de armas.
+-------------------------------------------------------------------------------------------------------
+
+![Imagen de Luigi Mangione.](https://www.elcomercio.com/wp-content/uploads/2024/12/luigi-instagram.jpg)
+
+**Luigi Mangione,** principal sospechoso del asesinato de **Brian Thompson**, presidente de la compañía **United Healthcare**, fue arrestado este lunes, 9 de diciembre de 2024, en Altoona, [Pensilvania](https://es.wikipedia.org/wiki/Pensilvania "https://es.wikipedia.org/wiki/Pensilvania"), mientras comía en un McDonald’s.
+
+### Más noticias
+
+* [Detienen en Pensilvania al sospechoso de matar al director ejecutivo de UnitedHealthcare](https://www.elcomercio.com/actualidad/mundo/detienen-pensilvania-sospechoso-matar-director-ejecutivo-unitedhealthcare.html "https://www.elcomercio.com/actualidad/mundo/detienen-pensilvania-sospechoso-matar-director-ejecutivo-unitedhealthcare.html")
+* [(En vivo) Movimiento MAGA acompañó a Donald Trump a votar en Palm Beach](https://www.elcomercio.com/actualidad/mundo/en-vivo-ee-uu-vota-comicios-insolitos-intentos-asesinato-dimisiones-condenas.html "(En vivo) Movimiento MAGA acompañó a Donald Trump a votar en Palm Beach")
+* [Donald Trump se salva de un segundo atentado en su contra](https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-se-salva-de-un-segundo-atentado-en-su-contra.html")
+
+Según la El Tiempo de Bogotá, las **autoridades siguieron sus rastros** desde el 4 de diciembre, día en que **Thompson fue encontrado muerto** a las afueras de un hotel en Manhattan, Nueva York, tras haber llegado para una reunión de inversores.
+
+El arresto se dio sin mayores complicaciones. Mangione, quien **huyó de Nueva York tras el crimen**, fue detenido inicialmente por porte ilegal de armas. Durante su captura, la Policía descubrió que la persona detenida coincidía con la descripción del asesino de Thompson.
+
+Las investigaciones indicaron que el arma utilizada en el asesinato pudo ser fabricada en una **impresora 3D,** conocida como **“arma fantasma”.** Según la comisionada Jessica Tisch, el arma poseía un supresor y estaba equipada para disparar balas de 9mm, señala el Tiempo de Bogotá.
+
+Motivos del crimen: un resentimiento personal
+---------------------------------------------
+
+Los detalles sobre los motivos del crimen siguen siendo inciertos, pero las primeras hipótesis apuntan a un posible resentimiento personal hacia el sector salud. De acuerdo con El Tiempo de Bogotá, Mangione, quien fue un **destacado estudiante** en su **escuela y universidad,** podría haber actuado por frustraciones relacionadas con el trato que recibió un familiar suyo en el ámbito médico.
+
+En el lugar del crimen, se encontraron tres balas con las palabras **“negar”, “defender” y “deponer”,** que coinciden con términos de un libro que critica a las aseguradoras en EE. UU. Las autoridades creen que estos elementos podrían ser indicios de que Mangione planificó el ataque motivado por su percepción negativa de la industria. A pesar de estas pistas, las investigaciones continúan en curso, de acuerdo con El Tiempo de Bogotá.
+
+AMT sancionó a 21 conductores de motos en Quito por esta razón
+==============================================================
+
+Quienes incumplan la norma serán sancionados con el COIP, que contempla una multa del 15% de un Salario Básico.
+---------------------------------------------------------------------------------------------------------------
+
+![La AMT sancionó a 21 conductores de moto.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T101208.294.jpg)
+
+La Agencia Metropolitana de Tránsito **(AMT) i**nformó el lunes 9 de diciembre de 2024 sobre un operativo realizado en Quito para controlar a las motos.
+
+### Más noticias
+
+* [Controles de velocidad en Quito este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/controles-de-velocidad-quito-martes-10-de-diciembre.html "Controles de velocidad en Quito este martes 10 de diciembre")
+* [Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad](https://www.elcomercio.com/actualidad/seguridad/gobierno-resultados-seguridad-operativos.html "Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad")
+* [Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito](https://www.elcomercio.com/actualidad/quito/ruta-viva-cerrada-parcialmente-siniestro-de-transito-quito.html "Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito")
+
+Operativo a motocicletas
+------------------------
+
+La AMT realizó un operativo de **control a motocicletas** el lunes 9 de diciembre en el sur de Quito.
+
+La zona donde se realizó el control **fue en la av. Maldonado,** en el sector del puente de Guajaló, sur de la capital.
+
+En este sitio, los agentes metropolitanos de tránsito **controlaron que las motos** no circularan con exceso de pasajeros.
+
+Además, se controló **que los pasajeros usaran casco** y mantuvieran sus documentos en regla.
+
+Luego de realizar los controles, **21 conductores de motocicletas fueron sancionados** por exceder el número de pasajeros.
+
+La normativa
+------------
+
+El 9 de julio de 2024, e**l Concejo Metropolitano de Quito** aprobó la normativa que prohíbe que dos personas viajen en una motocicleta.
+
+Esta normativa **excluye a cónyuges,** convivientes, hijos o hermanos, personas con discapacidad, adultos mayores, mujeres y **menores de 12 años**. Así mismo, a servidores públicos en cumplimiento de sus funciones; sin embargo, los ciudadanos deben presentar documentos, como la cédula.
+
+La medida aplica en todo el **Distrito Metropolitano de Quito** con el objetivo de fortalecer la seguridad en la ciudad.
+
+Quienes incumplan con la norma serán sancionados con el Código Orgánico Integral Penal que [contempla](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") una **multa del 15% de un Salario Básico Unificado (SBU).**
+
+> 🚨 [#GestiónAMT](https://twitter.com/hashtag/Gesti%C3%B3nAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Trabajamos por tu seguridad!  
+>   
+> 🚔 En el sur de Quito, 21 conductores de motocicletas fueron sancionados por exceder el número de pasajeros.  
+>   
+> 💡 Además, recuerda usar casco y tener los documentos al día.  
+>   
+> ✅ Con responsabilidad  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/9wGxcsbT4O](https://t.co/9wGxcsbT4O)
+> 
+> — AMTQuito (@AMT\_Quito) [December 9, 2024](https://twitter.com/AMT_Quito/status/1866122289298759885?ref_src=twsrc%5Etfw)
+
+AMT reanudó controles por reducción de apagones
+-----------------------------------------------
+
+La AMT informó que, debido a que las **horas de cortes de luz** se redujeron, se retomará la realización de los **controles preventivos de velocidad.**
+
+Así mismo, los agentes podrán retomar la ejecución de los **controles de alcotest,** placas y que no circulen dos hombres en moto.
+
+Uno de ellos fue el realizado en el sur de Quito que concluyó con **21 motociclistas sancionados.**
+
+Botafogo es favorito ante Pachuca en Copa Intercontinental
+==========================================================
+
+Botafogo compite en la Copa Intercontinental. Su primer rival será el Pachuca mexicano y en la final ya está instalado el Real Madrid.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Un jugador de Botafogo celebra un gol. El equipo brasileño compite en la Copa Intercontinental.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-44.jpg)
+
+ El **Botafogo**, pletórico tras proclamarse campeón de la **Copa Libertadores** y de la liga brasileña, saldrá como favorito este miércoles ante los **Tuzos** del **Pachuca** mexicanos, que no tienen actividad oficial hace un mes, en los cuartos de final de la **Copa Intercontinental**.
+
+En el Estadio 974 de **Doha,** los brasileños no solo tienen a su favor que apenas el 30 de noviembre pasado ganaron la **Libertadores,** al imponerse por 1-3 al **Atlético Minerio**, sino que en la historia de los torneos de clubes de FIFA solo una vez los mexicanos han vencido a los brasileños.
+
+### Más noticias:
+
+* [Calendario de ecuatorianos en la Champions League](https://www.elcomercio.com/deportes/futbol/calendario-ecuatorianos-sexta-fecha-champions-league.html "Calendario de ecuatorianos en la Champions League")
+* [Campeón del Mundo supo de su doping a dos días de la final](https://www.elcomercio.com/deportes/futbol/alejandro-gomez-dopung-mundial-catar.html "Campeón del Mundo supo de su doping a dos días de la final")
+* [Los cambios en la Fórmula 1 para el 2025](https://www.elcomercio.com/deportes/cambios-formula-1-2025-equipos-pilotos.html "Los cambios en la Fórmula 1 para el 2025")
+
+Botafogo ya ganó en el 2000
+---------------------------
+
+En la fase de grupos del **Mundial de Clubes de 2000**, el **Vasco da Gama** le ganó al Necaxa; en las semifinales del mismo torneo en 2017, el **Pachuca** cayó 1-0 ante el Gremio, y la única victoria de los mexicanos fue en 2020, con un triunfo de los Tigres UANL por 1-0 sobre el Palmeiras que los clasificó a la final.
+
+Además, según datos del sitio especializado **Transfermarkt**, la plantilla del **Botafogo** supera por más del doble a la del Pachuca: la de los brasileños está valuada en casi 147 millones de dólares y la del Pachuca, en 48.67.
+
+Tan solo las dos principales figuras de los sudamericanos, el campeón del mundo argentino Thiago Almada y Luiz Henrique, valen más que todo el **Pachuca,** al combinarse para 52 millones.
+
+El modelo del Pachuca es diferente al del **Botafogo**, ya que los dirigidos por el uruguayo Guillermo Almada cuentan con una de las mejores canteras de **México**, a la que apuesta, en vez de hacer fichajes millonarios.
+
+Tienen el segundo promedio de edad más bajo de su liga local, 25,8 años, con pocas figuras extranjeras como el marroquí **Oussama Idrissi** y el colombiano Nelson Deossa, y el venezolano Salomón Rondón, el argentino Gustavo Cabral y Ángel Mena, estos últimos tres veteranos que superan los 34 años.
+
+Copa Intercontinental
+---------------------
+
+A diferencia del **Botafogo**, que además de ser monarca de la Libertadores es el campeón del Brasileirao, el Pachuca pasa por horas bajas ya que en el último torneo mexicano fue antepenúltimo de la clasificación, lejos de la zona de fase final, y disputó su último partido el 9 de noviembre pasado. La falta de competición, no obstante, la puede contrarrestar con su mayor frescura y la mayor aclimatación al cambio horario al haber llegado a la capital catarí día antes.
+
+En este partido, además del pase a las semifinales, en las que espera el **Al-Ahly** egipcio, está en juego el trofeo del **Derbi de las Américas**
+
+Alineaciones probables:
+-----------------------
+
+**Botafogo**: John Victor; Alex Telles, Adryelson, Alexander Barboza; Mateo Ponte; Marlon Freitas, Gregore, Thiago Almada; Jefferson Savarino, Luiz Henrique e Igor Jesus.
+
+Entrenador: Artur Jorge.
+
+**Pachuca:** Carlos Moreno; Sergio Bareto, Gustavo Cabral, Carlos Sánchez; Pedro Pedraza, Nelson Deossa, Bryan González, Arturo González, Elías Montiel; Salomón Rondón y Oussama Idrissi.
+
+Entrenador: Guillermo Almada.
+
+Árbitro: Danny Makkelie (NED)
+
+Estadio: 974 de Doha.
+
+Ho9ra: 12:00 (de Ecuador)
+
+Calendario de ecuatorianos en la Champions League
+=================================================
+
+La Uefa Champions League regresa a la acción con la presencia de tres ecuatorianos en la sexta jornada de la fase de liga.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Joel Ordóñez es uno de los ecuatorianos que debutó en la Uefa Champions League en este 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-09T151959.827.jpg)
+
+Este martes 10 de diciembre inicia la sexta jornada de la fase de liga de la **Uefa Champions League**, la última fecha de este 2024. Los ecuatorianos **Piero Hincapié**, Willian Pacho y Joel Ordóñez estarán presentes en esta instancia crucial.
+
+El nuevo formato del torneo, que reúne a los mejores equipos de **Europa**, ha sido entretenido y competitivo. En las cinco fechas previas se han dado varias sorpresas, especialmente por las posiciones de algunos clubes inesperados en lo alto de la tabla.
+
+### Más noticias:
+
+* [Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado](https://www.elcomercio.com/deportes/futbol/piero-hincapie-leverkusen-consiguen-tres-puntos-partido-complicado.html "Piero Hincapié y el Leverkusen consiguen tres puntos en un partido complicado")
+* [PSG se mantiene líder con Willian Pacho como titular ante Auxerre](https://www.elcomercio.com/deportes/futbol/psg-willian-pacho-auxerre-partido-resultado.html "PSG se mantiene líder con Willian Pacho como titular ante Auxerre")
+* [Brighton perdió y se aleja de los puestos de Champions](https://www.elcomercio.com/deportes/futbol/brighton-pervis-estupinan-fulham-resultado.html "Brighton perdió y se aleja de los puestos de Champions")
+
+A diferencia de sus compatriotas, **Angelo** **Preciado** no participará en esta jornada debido a una lesión. El lateral ecuatoriano, habitual en el **Sparta Prag**a, tendrá que apoyar desde fuera mientras su equipo enfrenta al Feyenoord de Países Bajos el miércoles 11 de diciembre.
+
+Calendario de los ecuatorianos en Champions
+-------------------------------------------
+
+Los tricolores que estarán presentes en esta jornada son:
+
+### Willian Pacho y el PSG
+
+El **PSG de Willian Pacho** no atraviesa su mejor momento en el torneo. Con apenas cuatro puntos y una sola victoria en cinco partidos, el club parisino se ubica en el puesto 25, fuera de los lugares de clasificación.
+
+Su próximo desafío será frente al **RB Salzburgo**, en el Red Bull Arena de Salzburgo, este martes 10 de diciembre a las 15:00 (hora de Ecuador).
+
+### Piero Hincapié y el Bayer Leverkusen
+
+El **Bayer** **Leverkusen**, equipo sensación de la temporada pasada, se mantiene en la pelea por la clasificación directa a octavos de final. Con 10 puntos, ocupa el sexto puesto de la tabla general.
+
+En esta jornada, recibirán al **Inter de Milán en el BayArena**, este martes 10 de diciembre a las 15:00.
+
+### Joel Ordóñez y el Club Brujas
+
+El **Club Brujas**, donde milita Joel Ordóñez, ha tenido una participación discreta en esta edición de la Champions. Con dos victorias en cinco juegos, se ubican en el puesto 22 con siete puntos.
+
+Su próximo compromiso será en Bélgica ante el **Sporting Lisboa**, en el Estadio Jan Breydel, este martes 10 de diciembre a las 15:00.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDZoVpZuz8A/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DDZoVpZuz8A/?utm_source=ig_embed&utm_campaign=loading)
