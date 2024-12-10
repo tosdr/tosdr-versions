@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» расширит перечень лиц, которые смогут оформить статус ветерана боевых действий](https://cdn.er.ru/media/news/December2024/yXCc6Ct0w1dniK4MyAxj-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasshirit-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
+[![Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://cdn.er.ru/media/news/December2024/LGy4RfiEiNUncR6miIPX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
 
-[«Единая Россия» расширит перечень лиц, которые смогут оформить статус ветерана боевых действий](https://er.ru/activity/news/edinaya-rossiya-rasshirit-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
+[Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
 
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЦифроваяРоссия](https://er.ru/activity/news?tags%5B0%5D=111610) [#Минцифра](https://er.ru/activity/news?tags%5B0%5D=145375) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 12:03
+Сегодня 18:12
 
-[![«Единая Россия» провела более 1500 мероприятий по всей стране ко Дню Героев Отечества](https://cdn.er.ru/media/news/December2024/ajJZbnM1mmKPXJV9pXcq-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-bolee-1500-meropriyatij-po-vsej-strane-ko-dnyu-geroev-otechestva)
+[![По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://cdn.er.ru/media/news/December2024/U9iR4hwVZnoKWIZuCmLT-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
 
-[«Единая Россия» провела более 1500 мероприятий по всей стране ко Дню Героев Отечества](https://er.ru/activity/news/edinaya-rossiya-provela-bolee-1500-meropriyatij-po-vsej-strane-ko-dnyu-geroev-otechestva)
+[По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
 
-[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#празднование](https://er.ru/activity/news?tags%5B0%5D=121788) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500)
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999)
 
-Сегодня 09:00
+Сегодня 16:50
 
-[![«Молодая Гвардия Единой России» наградила более 50 детей из 23 регионов РФ медалями «Юный Герой»](https://cdn.er.ru/media/news/December2024/Hzne5oBbvKuOqZ4WDZaY-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-nagradila-bolee-50-detej-iz-23-regionov-rf-medalyami-yunyj-geroj)
+[![«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://cdn.er.ru/media/news/December2024/6870Ng5FS8ddnui0aTYy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
 
-[«Молодая Гвардия Единой России» наградила более 50 детей из 23 регионов РФ медалями «Юный Герой»](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-nagradila-bolee-50-detej-iz-23-regionov-rf-medalyami-yunyj-geroj)
+[«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
 
-[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#юныйгерой](https://er.ru/activity/news?tags%5B0%5D=142280) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#цифроваяроссия](https://er.ru/activity/news?tags%5B0%5D=1092858) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#журналистика](https://er.ru/activity/news?tags%5B0%5D=4615)
 
-09.12.24
+Сегодня 15:30
 
-[![«Единая Россия» поздравила Героев всех поколений с Днём Героев Отечества](https://cdn.er.ru/media/news/December2024/iXWMKWeSg6sy4NQ15cjt-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-pozdravila-geroev-vseh-pokolenij-s-dnyom-geroev-otechestva)
+[![«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://cdn.er.ru/media/news/December2024/zmm6mcq4PaNPUta7PvOs-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
 
-[«Единая Россия» поздравила Героев всех поколений с Днём Героев Отечества](https://er.ru/activity/news/edinaya-rossiya-pozdravila-geroev-vseh-pokolenij-s-dnyom-geroev-otechestva)
+[«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#поздравление](https://er.ru/activity/news?tags%5B0%5D=172) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
+[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#ветераныбоевыхдействий](https://er.ru/activity/news?tags%5B0%5D=128160) [#статус](https://er.ru/activity/news?tags%5B0%5D=7092) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
 
-09.12.24
+Сегодня 15:00
 
-[![Владимир Путин вручил медаль «Золотая звезда» Герою России Дмитрию Саблину](https://cdn.er.ru/media/news/December2024/dMoRaiC4d7lNJgMz2aeP-small.jpg)](https://er.ru/activity/news/vladimir-putin-vruchil-medal-zolotaya-zvezda-geroyu-rossii-dmitriyu-sablinu)
+[![Госдума приняла закон «Единой России» о продлении механизма «зонтичных» поручительств для МСП](https://cdn.er.ru/media/news/December2024/UJTqNUiprJWLtBbZzsmx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-prodlenii-mehanizma-zontichnyh-poruchitelstv-dlya-msp)
 
-[Владимир Путин вручил медаль «Золотая звезда» Герою России Дмитрию Саблину](https://er.ru/activity/news/vladimir-putin-vruchil-medal-zolotaya-zvezda-geroyu-rossii-dmitriyu-sablinu)
+[Госдума приняла закон «Единой России» о продлении механизма «зонтичных» поручительств для МСП](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-prodlenii-mehanizma-zontichnyh-poruchitelstv-dlya-msp)
 
-[#Саблин](https://er.ru/activity/news?tags%5B0%5D=128253) [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500) [#медаль](https://er.ru/activity/news?tags%5B0%5D=5160)
+[#поручительства](https://er.ru/activity/news?tags%5B0%5D=51985) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
 
-09.12.24
+Сегодня 14:35
 
-[![По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://cdn.er.ru/media/news/December2024/jNe2u2im3IW9S1WBfMW4-small.JPG)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
+[![Александр Сидякин: «Единая Россия» включит участников СВО в руководящие органы партии](https://cdn.er.ru/media/news/December2024/kHMB8HQv1gLCdhuazNK1-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-rukovodyashie-organy-partii)
 
-[По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
+[Александр Сидякин: «Единая Россия» включит участников СВО в руководящие органы партии](https://er.ru/activity/news/aleksandr-sidyakin-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-rukovodyashie-organy-partii)
 
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#марки](https://er.ru/activity/news?tags%5B0%5D=19673) [#гашение](https://er.ru/activity/news?tags%5B0%5D=19650) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
+[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
 
-09.12.24
+Сегодня 13:50
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
