@@ -117,50 +117,50 @@
 
 ### [Latest posts](https://www.styleforum.net/whats-new/posts/?skip=1)
 
-* [![Vincent George](/data/avatars/s/333/333781.jpg?1633648613)](https://www.styleforum.net/members/vincent-george.333781/)
+* [O](https://www.styleforum.net/members/oliverk19.445153/)
     
-    [The Official Alden Thread for 2024 - Share Reviews, Sizing, Advice, and Photos.](https://www.styleforum.net/threads/the-official-alden-thread-for-2024-share-reviews-sizing-advice-and-photos.740757/post-12038789)
+    [Brace/Suspender and crotch discomfort](https://www.styleforum.net/threads/brace-suspender-and-crotch-discomfort.696030/post-12039233)
     
-    * Latest: Vincent George
-    * A moment ago
+    * Latest: Oliverk19
+    * 1 minute ago
+    
+    [Menswear Advice](https://www.styleforum.net/forums/menswear-advice.20929/)
+    
+* [M](https://www.styleforum.net/members/monday100.391128/)
+    
+    [The unofficial Drake's London Appreciation Thread](https://www.styleforum.net/threads/the-unofficial-drakes-london-appreciation-thread.314734/post-12039231)
+    
+    * Latest: monday100
+    * 15 minutes ago
+    
+    [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
+    
+* [![zippyh](/data/avatars/s/15/15762.jpg?1492568115)](https://www.styleforum.net/members/zippyh.15762/)
+    
+    [The Official RRL Thread](https://www.styleforum.net/threads/the-official-rrl-thread.120192/post-12039229)
+    
+    * Latest: zippyh
+    * 16 minutes ago
     
     [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
     
-* [![breakaway01](/data/avatars/s/200/200726.jpg?1618966913)](https://www.styleforum.net/members/breakaway01.200726/)
+* [![anonymouz](/data/avatars/s/24/24306.jpg?1597787042)](https://www.styleforum.net/members/anonymouz.24306/)
     
-    [Random Fashion Thoughts (Part 3: Style farmer strikes back) - our general discussion thread](https://www.styleforum.net/threads/random-fashion-thoughts-part-3-style-farmer-strikes-back-our-general-discussion-thread.600932/post-12038777)
+    [18 East](https://www.styleforum.net/threads/18-east.615593/post-12039223)
     
-    * Latest: breakaway01
-    * 12 minutes ago
-    
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
-    
-* [![SixOhNine](/data/avatars/s/181/181266.jpg?1592413355)](https://www.styleforum.net/members/sixohnine.181266/)
-    
-    [The Home Ownership Thread](https://www.styleforum.net/threads/the-home-ownership-thread.285761/post-12038775)
-    
-    * Latest: SixOhNine
-    * 17 minutes ago
-    
-    [Fine Living, Home, Design & Auto](https://www.styleforum.net/forums/fine-living-home-design-auto.14/)
-    
-* [![LA Guy](/data/avatars/s/1/1521.jpg?1492666961)](https://www.styleforum.net/members/la-guy.1521/)
-    
-    [The SF Brazillian Jiujitsu Thread - fans, competitors, filthy casuals, all are welcome](https://www.styleforum.net/threads/the-sf-brazillian-jiujitsu-thread-fans-competitors-filthy-casuals-all-are-welcome.725385/post-12038773)
-    
-    * Latest: LA Guy
+    * Latest: anonymouz
     * 18 minutes ago
     
-    [Fitness and Exercise](https://www.styleforum.net/forums/fitness-and-exercise.20955/)
-    
-* [![Satoman1](/data/avatars/s/378/378044.jpg?1695146301)](https://www.styleforum.net/members/satoman1.378044/)
-    
-    [WSAYWT: What Shoe Are You Wearing Today SWD (boots/sneakers/lace ups/anything goes)](https://www.styleforum.net/threads/wsaywt-what-shoe-are-you-wearing-today-swd-boots-sneakers-lace-ups-anything-goes.642658/post-12038769)
-    
-    * Latest: Satoman1
-    * 22 minutes ago
-    
     [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    
+* [![Mariokartfever](/data/avatars/s/203/203328.jpg?1492784487)](https://www.styleforum.net/members/mariokartfever.203328/)
+    
+    [Manhattan Sales Alert!!](https://www.styleforum.net/threads/manhattan-sales-alert.12181/post-12039215)
+    
+    * Latest: Mariokartfever
+    * 31 minutes ago
+    
+    [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
     
 
 * [View all new posts](https://www.styleforum.net/whats-new/)
@@ -837,78 +837,78 @@ Results are only viewable after voting.
 
 ### [Members online](https://www.styleforum.net/online/)
 
-* [ajcorbell](https://www.styleforum.net/members/ajcorbell.239112/)
-* [Newcomer](https://www.styleforum.net/members/newcomer.49800/)
-* [Vincent George](https://www.styleforum.net/members/vincent-george.333781/)
-* [WannabeDashing](https://www.styleforum.net/members/wannabedashing.356812/)
-* [MeatFish](https://www.styleforum.net/members/meatfish.266872/)
-* [zilong](https://www.styleforum.net/members/zilong.80077/)
-* [krandles124](https://www.styleforum.net/members/krandles124.186636/)
-* [hdub](https://www.styleforum.net/members/hdub.270061/)
-* [klugtrane](https://www.styleforum.net/members/klugtrane.337075/)
-* [WBaker](https://www.styleforum.net/members/wbaker.73232/)
-* [ceetz](https://www.styleforum.net/members/ceetz.333480/)
-* [RozenKristal](https://www.styleforum.net/members/rozenkristal.250501/)
-* [JayDotz](https://www.styleforum.net/members/jaydotz.245906/)
-* [jdemotion](https://www.styleforum.net/members/jdemotion.56796/)
-* [lagsun](https://www.styleforum.net/members/lagsun.38367/)
-* [Guizp](https://www.styleforum.net/members/guizp.148065/)
-* [WineAndShoes](https://www.styleforum.net/members/wineandshoes.512259/)
-* [AlucardX](https://www.styleforum.net/members/alucardx.230315/)
-* [ElJokerino](https://www.styleforum.net/members/eljokerino.334595/)
-* [bawlin](https://www.styleforum.net/members/bawlin.29015/)
-* [Lovable Brogue](https://www.styleforum.net/members/lovable-brogue.353863/)
-* [CLH03](https://www.styleforum.net/members/clh03.414291/)
-* [Raspizdyay](https://www.styleforum.net/members/raspizdyay.430693/)
-* [LatAm](https://www.styleforum.net/members/latam.256660/)
-* [Megakurth](https://www.styleforum.net/members/megakurth.96595/)
-* [Satoman1](https://www.styleforum.net/members/satoman1.378044/)
-* [Friend](https://www.styleforum.net/members/friend.316244/)
-* [LS7](https://www.styleforum.net/members/ls7.42794/)
-* [tomhurtly](https://www.styleforum.net/members/tomhurtly.517599/)
-* [zonda600](https://www.styleforum.net/members/zonda600.214293/)
-* [luxire](https://www.styleforum.net/members/luxire.165816/)
-* [Tofer](https://www.styleforum.net/members/tofer.366088/)
-* [Michigan Planner](https://www.styleforum.net/members/michigan-planner.74437/)
-* [jellyroller](https://www.styleforum.net/members/jellyroller.418803/)
-* [Freecard](https://www.styleforum.net/members/freecard.345853/)
-* [MichaelPatrick0](https://www.styleforum.net/members/michaelpatrick0.314410/)
-* [nostalgiker](https://www.styleforum.net/members/nostalgiker.511463/)
-* [cl smooth](https://www.styleforum.net/members/cl-smooth.60612/)
 * [Duke Santos](https://www.styleforum.net/members/duke-santos.355904/)
-* [Using Technology](https://www.styleforum.net/members/using-technology.42523/)
-* [platinumtooth](https://www.styleforum.net/members/platinumtooth.202077/)
-* [bcpc](https://www.styleforum.net/members/bcpc.390103/)
+* [JayDotz](https://www.styleforum.net/members/jaydotz.245906/)
+* [Orrberget](https://www.styleforum.net/members/orrberget.293323/)
+* [panchley](https://www.styleforum.net/members/panchley.4718/)
+* [zmars](https://www.styleforum.net/members/zmars.472537/)
+* [sartorialdude](https://www.styleforum.net/members/sartorialdude.510637/)
+* [MichaelPemulis](https://www.styleforum.net/members/michaelpemulis.39767/)
+* [wahnamhong](https://www.styleforum.net/members/wahnamhong.107730/)
+* [mcdill](https://www.styleforum.net/members/mcdill.32918/)
+* [Hombre Secreto](https://www.styleforum.net/members/hombre-secreto.10387/)
+* [Abgrund](https://www.styleforum.net/members/abgrund.414373/)
+* [thatboyo](https://www.styleforum.net/members/thatboyo.228198/)
+* [Oliverk19](https://www.styleforum.net/members/oliverk19.445153/)
+* [FizzyFelidae](https://www.styleforum.net/members/fizzyfelidae.517275/)
+* [zilong](https://www.styleforum.net/members/zilong.80077/)
+* [weriker](https://www.styleforum.net/members/weriker.278678/)
+* [Richard Cohen](https://www.styleforum.net/members/richard-cohen.488105/)
+* [goonerble](https://www.styleforum.net/members/goonerble.478839/)
+* [Griphter](https://www.styleforum.net/members/griphter.507539/)
+* [WhyUEarly](https://www.styleforum.net/members/whyuearly.280110/)
+* [deanandrewj](https://www.styleforum.net/members/deanandrewj.251863/)
+* [owenshill](https://www.styleforum.net/members/owenshill.292952/)
+* [Davidish](https://www.styleforum.net/members/davidish.517641/)
+* [St1X](https://www.styleforum.net/members/st1x.384479/)
+* [middlepP](https://www.styleforum.net/members/middlepp.232044/)
+* [sterlingindigo](https://www.styleforum.net/members/sterlingindigo.268116/)
+* [C\_kimlin920](https://www.styleforum.net/members/c_kimlin920.388475/)
+* [woO](https://www.styleforum.net/members/woo.409057/)
+* [Mghart](https://www.styleforum.net/members/mghart.222470/)
+* [LeeR](https://www.styleforum.net/members/leer.444111/)
+* [djtracer21](https://www.styleforum.net/members/djtracer21.17311/)
 * [YoungM](https://www.styleforum.net/members/youngm.28338/)
-* [mxgreen](https://www.styleforum.net/members/mxgreen.42652/)
-* [brownfrog](https://www.styleforum.net/members/brownfrog.333579/)
-* [imakaveli](https://www.styleforum.net/members/imakaveli.209663/)
-* [steezin](https://www.styleforum.net/members/steezin.37499/)
-* [nachobarro](https://www.styleforum.net/members/nachobarro.252352/)
-* [nets860](https://www.styleforum.net/members/nets860.16221/)
-* [mktitsworth](https://www.styleforum.net/members/mktitsworth.107414/)
+* [airhead](https://www.styleforum.net/members/airhead.355130/)
+* [sononchalant](https://www.styleforum.net/members/sononchalant.189191/)
+* [motojobobo](https://www.styleforum.net/members/motojobobo.244801/)
+* [mke94](https://www.styleforum.net/members/mke94.328891/)
+* [BenniWue](https://www.styleforum.net/members/benniwue.467143/)
+* [Unravel](https://www.styleforum.net/members/unravel.410084/)
+* [allthingspolo](https://www.styleforum.net/members/allthingspolo.53049/)
+* [Relovar](https://www.styleforum.net/members/relovar.255074/)
+* [grs](https://www.styleforum.net/members/grs.422903/)
+* [campusfive](https://www.styleforum.net/members/campusfive.515699/)
+* [Bamaboots](https://www.styleforum.net/members/bamaboots.232853/)
+* [LatAm](https://www.styleforum.net/members/latam.256660/)
+* [Ddubs](https://www.styleforum.net/members/ddubs.482575/)
+* [Noir\_désire](https://www.styleforum.net/members/noir_d%C3%A9sire.328094/)
+* [Hanto](https://www.styleforum.net/members/hanto.313827/)
+* [vmss](https://www.styleforum.net/members/vmss.237321/)
+* [Hankmctank](https://www.styleforum.net/members/hankmctank.323162/)
+* [marly](https://www.styleforum.net/members/marly.48580/)
 
-[... and 53 more.](https://www.styleforum.net/online/)
+[... and 80 more.](https://www.styleforum.net/online/)
 
-Total: 2,313 (members: 103, guests: 2,210)
+Total: 2,499 (members: 130, guests: 2,369)
 
 ### Forum statistics
 
 Threads
 
-519,065
+519,078
 
 Messages
 
-10,712,929
+10,713,149
 
 Members
 
-228,296
+228,301
 
 Latest member
 
-[35mmFan](https://www.styleforum.net/members/35mmfan.517595/)
+[Davidish](https://www.styleforum.net/members/davidish.517641/)
 
 ### FOLLOW STYLEFORUM ON:
 
@@ -929,188 +929,188 @@ Latest member
 
 ### [Newest Posts](https://www.styleforum.net/whats-new/posts/?skip=1)
 
-* [![Vincent George](/data/avatars/s/333/333781.jpg?1633648613)](https://www.styleforum.net/members/vincent-george.333781/)
+* [O](https://www.styleforum.net/members/oliverk19.445153/)
     
-    [The Official Alden Thread for 2024 - Share Reviews, Sizing, Advice, and Photos.](https://www.styleforum.net/threads/the-official-alden-thread-for-2024-share-reviews-sizing-advice-and-photos.740757/post-12038789)
+    [Brace/Suspender and crotch discomfort](https://www.styleforum.net/threads/brace-suspender-and-crotch-discomfort.696030/post-12039233)
     
-    * Latest: Vincent George
-    * A moment ago
+    * Latest: Oliverk19
+    * 1 minute ago
     
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    [Menswear Advice](https://www.styleforum.net/forums/menswear-advice.20929/)
     
-* [![breakaway01](/data/avatars/s/200/200726.jpg?1618966913)](https://www.styleforum.net/members/breakaway01.200726/)
+* [M](https://www.styleforum.net/members/monday100.391128/)
     
-    [Random Fashion Thoughts (Part 3: Style farmer strikes back) - our general discussion thread](https://www.styleforum.net/threads/random-fashion-thoughts-part-3-style-farmer-strikes-back-our-general-discussion-thread.600932/post-12038777)
+    [The unofficial Drake's London Appreciation Thread](https://www.styleforum.net/threads/the-unofficial-drakes-london-appreciation-thread.314734/post-12039231)
     
-    * Latest: breakaway01
-    * 12 minutes ago
-    
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
-    
-* [![SixOhNine](/data/avatars/s/181/181266.jpg?1592413355)](https://www.styleforum.net/members/sixohnine.181266/)
-    
-    [The Home Ownership Thread](https://www.styleforum.net/threads/the-home-ownership-thread.285761/post-12038775)
-    
-    * Latest: SixOhNine
-    * 17 minutes ago
-    
-    [Fine Living, Home, Design & Auto](https://www.styleforum.net/forums/fine-living-home-design-auto.14/)
-    
-* [![Satoman1](/data/avatars/s/378/378044.jpg?1695146301)](https://www.styleforum.net/members/satoman1.378044/)
-    
-    [WSAYWT: What Shoe Are You Wearing Today SWD (boots/sneakers/lace ups/anything goes)](https://www.styleforum.net/threads/wsaywt-what-shoe-are-you-wearing-today-swd-boots-sneakers-lace-ups-anything-goes.642658/post-12038769)
-    
-    * Latest: Satoman1
-    * 22 minutes ago
-    
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
-    
-* [![ceetz](/data/avatars/s/333/333480.jpg?1593183841)](https://www.styleforum.net/members/ceetz.333480/)
-    
-    [18 East Buy-Sell-Trade Thread](https://www.styleforum.net/threads/18-east-buy-sell-trade-thread.644359/post-12038767)
-    
-    * Latest: ceetz
-    * 24 minutes ago
-    
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
-    
-* [![ceetz](/data/avatars/s/333/333480.jpg?1593183841)](https://www.styleforum.net/members/ceetz.333480/)
-    
-    [The Possibly Official Engineered Garments Trading Thread (Part II - The Search for Jawnz)](https://www.styleforum.net/threads/the-possibly-official-engineered-garments-trading-thread-part-ii-the-search-for-jawnz.541404/post-12038765)
-    
-    * Latest: ceetz
-    * 28 minutes ago
-    
-    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
-    
-* [![Michigan Planner](/data/avatars/s/74/74437.jpg?1492568769)](https://www.styleforum.net/members/michigan-planner.74437/)
-    
-    [Things That Are Bothering You, Got You All Hibbeldy-Jibbeldy, or just downright pissed, RIGHT NOW!](https://www.styleforum.net/threads/things-that-are-bothering-you-got-you-all-hibbeldy-jibbeldy-or-just-downright-pissed-right-now.29653/post-12038761)
-    
-    * Latest: Michigan Planner
-    * 37 minutes ago
-    
-    [General Discussions](https://www.styleforum.net/forums/general-discussions.7/)
-    
-* [![Satoman1](/data/avatars/s/378/378044.jpg?1695146301)](https://www.styleforum.net/members/satoman1.378044/)
-    
-    [Vintage Dress shoe appreciation, tips, maintenance and advice](https://www.styleforum.net/threads/vintage-dress-shoe-appreciation-tips-maintenance-and-advice.526196/post-12038759)
-    
-    * Latest: Satoman1
-    * 40 minutes ago
+    * Latest: monday100
+    * 15 minutes ago
     
     [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
     
-* [![classicalthunde](/data/avatars/s/254/254730.jpg?1638392087)](https://www.styleforum.net/members/classicalthunde.254730/)
+* [![zippyh](/data/avatars/s/15/15762.jpg?1492568115)](https://www.styleforum.net/members/zippyh.15762/)
     
-    [Bourbon.](https://www.styleforum.net/threads/bourbon.74106/post-12038757)
+    [The Official RRL Thread](https://www.styleforum.net/threads/the-official-rrl-thread.120192/post-12039229)
     
-    * Latest: classicalthunde
-    * 40 minutes ago
+    * Latest: zippyh
+    * 16 minutes ago
+    
+    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    
+* [![anonymouz](/data/avatars/s/24/24306.jpg?1597787042)](https://www.styleforum.net/members/anonymouz.24306/)
+    
+    [18 East](https://www.styleforum.net/threads/18-east.615593/post-12039223)
+    
+    * Latest: anonymouz
+    * 18 minutes ago
+    
+    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    
+* [![Mariokartfever](/data/avatars/s/203/203328.jpg?1492784487)](https://www.styleforum.net/members/mariokartfever.203328/)
+    
+    [Manhattan Sales Alert!!](https://www.styleforum.net/threads/manhattan-sales-alert.12181/post-12039215)
+    
+    * Latest: Mariokartfever
+    * 31 minutes ago
+    
+    [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
+    
+* [Z](https://www.styleforum.net/members/zzzrain.300026/)
+    
+    [Berg and Berg](https://www.styleforum.net/threads/berg-and-berg.316005/post-12039207)
+    
+    * Latest: ZzzRain
+    * 37 minutes ago
+    
+    [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
+    
+* [![armedferret](/data/avatars/s/254/254884.jpg?1649365332)](https://www.styleforum.net/members/armedferret.254884/)
+    
+    [Bourbon.](https://www.styleforum.net/threads/bourbon.74106/post-12039203)
+    
+    * Latest: armedferret
+    * 41 minutes ago
     
     [Social Life, Food & Drink, Travel](https://www.styleforum.net/forums/social-life-food-drink-travel.10/)
     
-* [![Genericuser1](/data/avatars/s/287/287948.jpg?1535650139)](https://www.styleforum.net/members/genericuser1.287948/)
+* [![ppk](/data/avatars/s/448/448651.jpg?1701057781)](https://www.styleforum.net/members/ppk.448651/)
     
-    [THE 2024 ALLEN EDMONDS (AE) APPRECIATION THREAD](https://www.styleforum.net/threads/the-2024-allen-edmonds-ae-appreciation-thread.740777/post-12038755)
+    [Random Fashion Thoughts (Part 3: Style farmer strikes back) - our general discussion thread](https://www.styleforum.net/threads/random-fashion-thoughts-part-3-style-farmer-strikes-back-our-general-discussion-thread.600932/post-12039199)
     
-    * Latest: Genericuser1
-    * 43 minutes ago
+    * Latest: ppk
+    * 45 minutes ago
     
-    [Classic Menswear](https://www.styleforum.net/forums/classic-menswear.5/)
+    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    
+* [L](https://www.styleforum.net/members/lineplanevolume.503285/)
+    
+    [The What Are You Wearing Today (WAYWT) Discussion Thread, Part II](https://www.styleforum.net/threads/the-what-are-you-wearing-today-waywt-discussion-thread-part-ii.394687/post-12039189)
+    
+    * Latest: LinePlaneVolume
+    * 57 minutes ago
+    
+    [Streetwear and Denim](https://www.styleforum.net/forums/streetwear-and-denim.13/)
+    
+* [![losrockets](/data/avatars/s/193/193731.jpg?1492572011)](https://www.styleforum.net/members/losrockets.193731/)
+    
+    [What TV Series Are You Streaming Lately?](https://www.styleforum.net/threads/what-tv-series-are-you-streaming-lately.396714/post-12039185)
+    
+    * Latest: losrockets
+    * Today at 1:01 PM
+    
+    [Entertainment, Culture, and Sports](https://www.styleforum.net/forums/entertainment-culture-and-sports.9/)
     
 
 ### [New Listings in Buying and Selling](https://www.styleforum.net/buyandsell/)
 
 ### [New Listings in Buying and Selling](https://www.styleforum.net/whats-new/posts/?skip=1)
 
-* [A](https://www.styleforum.net/members/aclc.402741/)
+* [1](https://www.styleforum.net/members/13-characters.405803/)
     
-    [BRAND NEW Carmina Norwegian Boots Sineu UK9](https://www.styleforum.net/threads/brand-new-carmina-norwegian-boots-sineu-uk9.781463/post-12038741)
+    [Huge Berg & Berg new and used sale!](https://www.styleforum.net/threads/huge-berg-berg-new-and-used-sale.769177/post-12039133)
     
-    * Latest: ACLC
-    * 55 minutes ago
-    
-    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
-    
-* [![mikevac97](/data/avatars/s/304/304680.jpg?1556119602)](https://www.styleforum.net/members/mikevac97.304680/)
-    
-    [Isaia solid navy suit size 46EU/36US](https://www.styleforum.net/threads/isaia-solid-navy-suit-size-46eu-36us.749821/post-12038729)
-    
-    * Latest: mikevac97
-    * Today at 6:55 AM
+    * Latest: 13.characters
+    * Today at 12:12 PM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
-* [![anonymouz](/data/avatars/s/24/24306.jpg?1597787042)](https://www.styleforum.net/members/anonymouz.24306/)
+* [![BrandDC](/data/avatars/s/109/109523.jpg?1548533767)](https://www.styleforum.net/members/branddc.109523/)
     
-    [Blackstock & Weber Black Croc Convertible Loafer 8.5](https://www.styleforum.net/threads/blackstock-weber-black-croc-convertible-loafer-8-5.781461/post-12038719)
+    [FS - Oak Street Bootmakers x Butterscotch Double Black Deckard Boots Size 12](https://www.styleforum.net/threads/fs-oak-street-bootmakers-x-butterscotch-double-black-deckard-boots-size-12.781481/post-12038993)
     
-    * Latest: anonymouz
-    * Today at 6:37 AM
-    
-    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
-    
-* [J](https://www.styleforum.net/members/johan123.300067/)
-    
-    [Ring jacket overcoat, unworn](https://www.styleforum.net/threads/ring-jacket-overcoat-unworn.712428/post-12038637)
-    
-    * Latest: Johan123
-    * Today at 3:35 AM
+    * Latest: BrandDC
+    * Today at 10:16 AM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
-* [![warrenGGG](/data/avatars/s/435/435823.jpg?1686712890)](https://www.styleforum.net/members/warrenggg.435823/)
+* [J](https://www.styleforum.net/members/jhilla.148099/)
     
-    [Arcteryx Veilance Insulated Field Jacket \*\*Excellent Condition\*\*](https://www.styleforum.net/threads/arcteryx-veilance-insulated-field-jacket-excellent-condition.702129/post-12038529)
+    [Koji Suzuki Spigola Semi-bespoke Captoe Oxfords, Black Leather, Size 40](https://www.styleforum.net/threads/koji-suzuki-spigola-semi-bespoke-captoe-oxfords-black-leather-size-40.731067/post-12038971)
     
-    * Latest: warrenGGG
-    * Yesterday at 9:59 PM
-    
-    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
-    
-* [![warrenGGG](/data/avatars/s/435/435823.jpg?1686712890)](https://www.styleforum.net/members/warrenggg.435823/)
-    
-    [NWT Barba Napoli Loro Piana Storm System Wool/Leather Down Parka Size 48/38](https://www.styleforum.net/threads/nwt-barba-napoli-loro-piana-storm-system-wool-leather-down-parka-size-48-38.778207/post-12038527)
-    
-    * Latest: warrenGGG
-    * Yesterday at 9:55 PM
+    * Latest: jhilla
+    * Today at 10:00 AM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
-* [![warrenGGG](/data/avatars/s/435/435823.jpg?1686712890)](https://www.styleforum.net/members/warrenggg.435823/)
+* [J](https://www.styleforum.net/members/jhilla.148099/)
     
-    [\[Ended\] Brunello Cucinelli Wood Shirt Jacket Insulated Medium M](https://www.styleforum.net/threads/ended-brunello-cucinelli-wood-shirt-jacket-insulated-medium-m.781233/post-12038509)
+    [Saint Crispin's 524 Chukka in Snuff Suede (Janus) - Size UK 6.5E / US 7.5](https://www.styleforum.net/threads/saint-crispins-524-chukka-in-snuff-suede-janus-size-uk-6-5e-us-7-5.756047/post-12038969)
     
-    * Latest: warrenGGG
-    * Yesterday at 9:04 PM
-    
-    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
-    
-* [![sartorialnapoli](/data/avatars/s/252/252232.jpg?1492573748)](https://www.styleforum.net/members/sartorialnapoli.252232/)
-    
-    [MORE PRICE CUT! NWT SARTORIA PARTENOPEA DARK BLUE PLAID LUXURY WOOL FLANNEL BLAZER 42/52R](https://www.styleforum.net/threads/more-price-cut-nwt-sartoria-partenopea-dark-blue-plaid-luxury-wool-flannel-blazer-42-52r.732157/post-12038423)
-    
-    * Latest: sartorialnapoli
-    * Yesterday at 6:45 PM
+    * Latest: jhilla
+    * Today at 9:59 AM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
-* [![sartorialnapoli](/data/avatars/s/252/252232.jpg?1492573748)](https://www.styleforum.net/members/sartorialnapoli.252232/)
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
     
-    [PRICE DROP! NWT MAURO BLASI CASHMERE WOOL BLUE PLAID BLAZER 42/52R](https://www.styleforum.net/threads/price-drop-nwt-mauro-blasi-cashmere-wool-blue-plaid-blazer-42-52r.732593/post-12038421)
+    [DOLCE AND GABBANA "MARTINI" WOOL SILK BLAZER](https://www.styleforum.net/threads/dolce-and-gabbana-martini-wool-silk-blazer.753129/post-12038961)
     
-    * Latest: sartorialnapoli
-    * Yesterday at 6:45 PM
+    * Latest: fashionbox
+    * Today at 9:48 AM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
-* [![sartorialnapoli](/data/avatars/s/252/252232.jpg?1492573748)](https://www.styleforum.net/members/sartorialnapoli.252232/)
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
     
-    [MORE PRICE DROP! NWT INTELATO NAPOLI ENTIRELY HANDMADE NAVY BLUE WOOL TWEED COAT 38/48](https://www.styleforum.net/threads/more-price-drop-nwt-intelato-napoli-entirely-handmade-navy-blue-wool-tweed-coat-38-48.732965/post-12038419)
+    [ALLEN EDMONDS LA SALLE SPLIT TOE BLUCHER](https://www.styleforum.net/threads/allen-edmonds-la-salle-split-toe-blucher.688646/post-12038959)
     
-    * Latest: sartorialnapoli
-    * Yesterday at 6:44 PM
+    * Latest: fashionbox
+    * Today at 9:48 AM
+    
+    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
+    
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
+    
+    [SANTONI DOUBLE BUCKLE MONK STRAP SHOES](https://www.styleforum.net/threads/santoni-double-buckle-monk-strap-shoes.713624/post-12038957)
+    
+    * Latest: fashionbox
+    * Today at 9:47 AM
+    
+    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
+    
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
+    
+    [BORRELLI FRENCH CUFF COTTON SHIRT](https://www.styleforum.net/threads/borrelli-french-cuff-cotton-shirt.758223/post-12038955)
+    
+    * Latest: fashionbox
+    * Today at 9:47 AM
+    
+    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
+    
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
+    
+    [HERMES VERY RARE SUEDE LOAFERS](https://www.styleforum.net/threads/hermes-very-rare-suede-loafers.729651/post-12038953)
+    
+    * Latest: fashionbox
+    * Today at 9:47 AM
+    
+    [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
+    
+* [![fashionbox](/data/avatars/s/158/158450.jpg?1492570498)](https://www.styleforum.net/members/fashionbox.158450/)
+    
+    [LORO PIANA CLOUD VINTAGE BLAZER](https://www.styleforum.net/threads/loro-piana-cloud-vintage-blazer.744731/post-12038951)
+    
+    * Latest: fashionbox
+    * Today at 9:46 AM
     
     [Classic Menswear Classifieds Discussions](https://www.styleforum.net/forums/classic-menswear-classifieds-discussions.6714/)
     
