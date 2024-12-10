@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Family of UnitedHealthcare CEO's suspected killer breaks silence — as it's revealed he spiraled after 'traumatic' surgery](https://nypost.com/2024/12/10/us-news/luigi-mangiones-family-breaks-silence/)
-
 Privacy Notice Highlights
 =========================
 
