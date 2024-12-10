@@ -196,7 +196,7 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (68)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (69)](https://www.smithbrothersfarms.com/featured-products)
         
     * [On Sale (64)](https://www.smithbrothersfarms.com/on-special)
         
@@ -282,10 +282,10 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (104)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (105)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
-        * [Bread & Buns (34)](https://www.smithbrothersfarms.com/bread)
+        * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
             
         * [Tortillas & Pizza Crust (6)](https://www.smithbrothersfarms.com/tortillas-and-pizza)
             
