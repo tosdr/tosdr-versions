@@ -54,7 +54,7 @@ Connexion
 * Prix Marmiton
     * [Prix Marmiton 2024](https://www.marmiton.org/prix-marmiton-2024/prix-marmiton-2024-hub-tp199358.html)
 * Livres
-    * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
+    * [Nos livres de cuisine avec](https://www.marmiton.org/dossier-les-livres-de-cuisine-marmiton-avec-les-editions-michel-lafon)
 
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
 * [![Noël gourmand
