@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ How wonderful it is that nobody need wait a single moment before starting to improve the world”
+“ Plans are worthless, but planning is everything”
 
-[Anne Frank](http://en.wikipedia.org/wiki/Anne_Frank)
+[Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)
 
 [](https://www.adafruit.com/about)
 
