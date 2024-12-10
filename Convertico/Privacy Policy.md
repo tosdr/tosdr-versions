@@ -49,13 +49,8 @@ Select File From URL
 
 #### Recently Converted
 
-* ![The latest Converted Icons](/images/1733771991.7502/_previmg.png)
-* ![The latest Converted Icons](/images/1733771981.8441/_previmg.png)
-* ![The latest Converted Icons](/images/1733771979.0244/_previmg.png)
-* ![The latest Converted Icons](/images/1733771971.2973/_previmg.png)
-* ![The latest Converted Icons](/images/1733771966.4007/_previmg.png)
-* ![The latest Converted Icons](/images/1733771963.2498/_previmg.png)
-* ![The latest Converted Icons](/images/1733771954.9356/_previmg.png)
+* ![The latest Converted Icons](/images/1733793580.5266/_previmg.png)
+* ![The latest Converted Icons](/images/1733793571.6236/_previmg.png)
 
 #### About
 
@@ -69,7 +64,7 @@ This website does not gather any personal info, computer specs or IP. However, y
 
 By using this website to convert your icons, you acknowledge that we are in no way responsible for data error, losses or discrepancies in the conversion. You use the software at your own risk.
 
-58,445,219 Icons Converted 400 In The Last Hour
+58,446,898 Icons Converted 206 In The Last Hour
 
 For **feedback**, **suggestions** and **errors**, write to _info at convertico dot com_ or use [![Facebook icon](../imgs/fb_ico.png)](https://www.facebook.com/convertico/)fb.  
 
