@@ -195,9 +195,9 @@ On-demand webinar coming soon...
 
 ### Latest News
 
+* [OneTrust Transitions its Convercent Ethics and Compliance Solution to EQS Group](https://www.onetrust.com/news/onetrust-transitions-ethics-compliance/)
+* [OneTrust Acquires Convercent](https://www.onetrust.com/news/onetrust-acquires-convercent/)
 * [Channel Insider | OneTrust launches AI-powered compliance automation platform](https://www.channelinsider.com/news-and-trends/us/onetrust-compliance-automation/)
-* [CRN Security 100](https://www.crn.com/news/security/2024/the-20-coolest-identity-access-management-and-data-protection-companies-of-2024-the-security-100?page=12)
-* [Broadband TV News | Titan OS selects OneTrust as data privacy partner](https://www.broadbandtvnews.com/2024/02/23/titan-os-selects-onetrust-as-data-privacy-partner/)
 
 ### Contact Us
 
