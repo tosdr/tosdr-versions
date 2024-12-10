@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat") [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/172ec2c5f614.gif)](https://www.gaiaonline.com/forum/t.114466641/ "#Mood")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-f13c76a84e3937ef86b693295a00bd98f13c76a84e3937ef86b693295a00bd9823041e2ce01861f0fdc16a64b68cd1b2
+22cb59ea8ee576fca35658f87130c0c82c9a60ef33f3b4dc09ffee17e5c4ac6d
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -535,4 +535,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1733817393)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1733838899)
