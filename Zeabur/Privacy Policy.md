@@ -60,6 +60,7 @@
     * [PHP](https://docs.zeabur.com/docs/en-US/guides/php)
         
         * [Laravel](https://docs.zeabur.com/docs/en-US/guides/php/laravel)
+        * [Symfony](https://docs.zeabur.com/docs/en-US/guides/php/symfony)
         
     * [Python](https://docs.zeabur.com/docs/en-US/guides/python)
         
