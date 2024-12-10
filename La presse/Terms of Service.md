@@ -128,11 +128,11 @@ Les présentes Conditions d’Utilisation, la Politique sur la protection de la 
 
 Suivez La Presse
 
-* [](https://www.linkedin.com/company/la-presse/)
-* [](https://www.lapresse.ca/renseignements/2023-08-02/fin-de-l-acces-aux-nouvelles-sur-facebook-instagram-et-google/comment-continuer-de-vous-informer-efficacement-et-gratuitement.php)
-* [](https://www.lapresse.ca/renseignements/2023-08-02/fin-de-l-acces-aux-nouvelles-sur-facebook-instagram-et-google/comment-continuer-de-vous-informer-efficacement-et-gratuitement.php)
-* [](https://www.threads.net/@lp_lapresse)
-* [](https://twitter.com/lp_lapresse)
+* [LinkedIn](https://www.linkedin.com/company/la-presse/)
+* [Link](https://www.lapresse.ca/renseignements/2023-08-02/fin-de-l-acces-aux-nouvelles-sur-facebook-instagram-et-google/comment-continuer-de-vous-informer-efficacement-et-gratuitement.php)
+* [Link](https://www.lapresse.ca/renseignements/2023-08-02/fin-de-l-acces-aux-nouvelles-sur-facebook-instagram-et-google/comment-continuer-de-vous-informer-efficacement-et-gratuitement.php)
+* [Link](https://www.threads.net/@lp_lapresse)
+* [Twitter](https://twitter.com/lp_lapresse)
 
 * * *
 
