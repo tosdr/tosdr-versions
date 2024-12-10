@@ -38,12 +38,10 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
 * [Men's T20I
     
-    11/12 3:00 AEST
-    
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | PAK | –   |
+    | RSA | 9 /183 |
+    | PAK | 7 /157 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251101)
 * [Women's ODI
@@ -56,50 +54,58 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250403)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 20  |
-    | CIN | 27  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251413)
 * Basketball
     
 * [NBA
     
-    Full Time
+    11/12 11:00 AEST
     
     |     |     |
     | --- | --- |
-    | TOR | 108 |
-    | NY  | 113 |
+    | MIL | –   |
+    | ORL | –   |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010334/box-score)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010127)
+* [NBA
+    
+    11/12 13:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | OKC | –   |
+    | DAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010121)
+* [WNBL
+    
+    11/12 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SOU | –   |
+    | GEE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070001)
 * Football
     
 * [UCL
     
-    11/12 4:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | GIR | –   |
-    | LIV | –   |
+    | GIR | 0   |
+    | LIV | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250603)
 * [UCL
     
-    11/12 4:45 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DZ  | –   |
-    | CEL | –   |
+    | DZ  | 0   |
+    | CEL | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250601)
 * [UCL
@@ -906,7 +912,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
