@@ -242,11 +242,7 @@ Mediavine partners with the following data processors:
 
 ### 2 Comments
 
-1. ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
-    
-    ![](https://secure.gravatar.com/avatar/19618bd5c36809fd2a8139ae3e8bd421?s=32&d=mm&r=g)
-    
-    **Lily Allen** says:
+1. ![](https://secure.gravatar.com/avatar/19618bd5c36809fd2a8139ae3e8bd421?s=32&d=mm&r=g) **Lily Allen** says:
     
     [January 9, 2021 at 7:37 am](https://www.addictivetips.com/privacy-policy/#comment-475575)
     
@@ -257,11 +253,7 @@ Mediavine partners with the following data processors:
     
     [Log in to Reply](https://www.addictivetips.com/wp/wp-login.php?redirect_to=https%3A%2F%2Fwww.addictivetips.com%2Fprivacy-policy%2F)
     
-2. ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E%3C/svg%3E)
-    
-    ![](https://secure.gravatar.com/avatar/e9578d07bd67b4d92ac83193a8703705?s=32&d=mm&r=g)
-    
-    **Vanessa Seward** says:
+2. ![](https://secure.gravatar.com/avatar/e9578d07bd67b4d92ac83193a8703705?s=32&d=mm&r=g) **Vanessa Seward** says:
     
     [April 1, 2020 at 9:35 am](https://www.addictivetips.com/privacy-policy/#comment-409864)
     
