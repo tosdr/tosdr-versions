@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Seal Team 6](https://cdn.returningveterans.org/images/honor/beth_corey_woh_picture.jpg)  
+![Steven Edmondson](https://cdn.returningveterans.org/images/honor/Pamela_Blatter.jpg)  
 
-**In Honor of Seal Team 6**  
-United States Navy  
-Submitted by Beth Corey](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Memory of Steven Edmondson**  
+United States Army  
+Submitted by Pamela Blatter](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +232,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 12/09/24 - 1:34:19  
+Printed 12/09/24 - 7:32:26  
 © 2024 Returning Veterans Project
