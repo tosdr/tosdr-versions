@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Universe Expansion Study Challenges Cosmic ...](https://www.sciencedaily.com/releases/2024/12/241209122620.htm)
+* [Earliest Deep-Cave Ritual Compound](https://www.sciencedaily.com/releases/2024/12/241209162441.htm)
+* [Dogs Hit Button-Combos On Soundboards](https://www.sciencedaily.com/releases/2024/12/241209162449.htm)
+* [Existing EV Batteries May Last Up to 40% Longer](https://www.sciencedaily.com/releases/2024/12/241209122933.htm)
+* [Black Hole Debate Settled?](https://www.sciencedaily.com/releases/2024/12/241209122749.htm)
+* [New Ocean Predator from the Atacama Trench](https://www.sciencedaily.com/releases/2024/12/241209122644.htm)
+* [Smallest Main-Belt Asteroids Ever Detected](https://www.sciencedaily.com/releases/2024/12/241209122556.htm)
+* [Desert Ants Use Geomagnetic Field for Navigation](https://www.sciencedaily.com/releases/2024/12/241206111933.htm)
+* [Dark Chocolate: Lower Risk of Type 2 Diabetes](https://www.sciencedaily.com/releases/2024/12/241204183114.htm)
 * [X-Ray Vision: Seeing Through the Mystery](https://www.sciencedaily.com/releases/2024/12/241204183122.htm)
-* [Possible Colon Cancer Vaccine Uncovered](https://www.sciencedaily.com/releases/2024/12/241204183117.htm)
-* [U.S. Life Expectancy Increases to Stall](https://www.sciencedaily.com/releases/2024/12/241206002146.htm)
-* [Bird-Inspired Drone Can Jump for Take-Off](https://www.sciencedaily.com/releases/2024/12/241206111951.htm)
-* [How Ancient Indigenous Peoples Used the Land](https://www.sciencedaily.com/releases/2024/12/241206002149.htm)
-* [Mysteries of a Blue Low-Latitude Aurora](https://www.sciencedaily.com/releases/2024/12/241205143040.htm)
-* [Chimps Use Tools in Flexible, Highly Complex Way](https://www.sciencedaily.com/releases/2024/12/241205142736.htm)
-* ['Zip Code' Draws Killer T Cells to Brain Tumors](https://www.sciencedaily.com/releases/2024/12/241205184621.htm)
-* [Cause of Global Warming Surge: Change in Clouds](https://www.sciencedaily.com/releases/2024/12/241205184615.htm)
-* [Why We're Here](https://www.sciencedaily.com/releases/2024/12/241205184326.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Human Biology](https://www.sciencedaily.com/news/health_medicine/human_biology/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
-
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
-
-[Artificial Intelligence](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
+[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
+
+[Inorganic Chemistry](https://www.sciencedaily.com/news/matter_energy/inorganic_chemistry/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
-
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
-
 [Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
   
 
