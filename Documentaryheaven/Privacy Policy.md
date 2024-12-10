@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Factory City](/wp-content/thumbnails/10569-100x70.jpg?x53432)
+* [![Still Berning](/wp-content/thumbnails/12747-100x70.jpg?x53432)
     
-    Factory City
+    Still Berning
     
-    Have you ever wondered what it would be like to live where you work, no? neither have I and for most of us the idea would simply be unthinkable, but imagine living and working at one of the biggest fa](https://documentaryheaven.com/factory-city/ "Factory City")
-* [![The Naked Truth](/wp-content/thumbnails/2352-100x70.png?x53432)
+    As we are all now aware, Bernie Sanders lost the primaries to Hillary Clinton as the US presidential candidate for the Democratic Party. But it was a loss which ironically marked the beginning rather](https://documentaryheaven.com/still-berning/ "Still Berning")
+* [![Hepatitis Country](/wp-content/thumbnails/12742-100x70.png?x53432)
     
-    The Naked Truth
+    Hepatitis Country
     
-    Documentary The Naked Truth traces the origins of modern religions back to stories from numerous ancient civilizations. Due to the lack of science and facts, stories were created by our ancient ances](https://documentaryheaven.com/the-naked-truth/ "The Naked Truth")
-* [![Haughey](/wp-content/thumbnails/14693-100x70.jpg?x53432)
+    Hepatitis C is a liver disease which tends to be very contagious, being spread primarily through contact with the blood of someone who is infected. It's severity can range from a mild illness lasting](https://documentaryheaven.com/hepatitis-country/ "Hepatitis Country")
+* [![Forces of Nature with Brian Cox](/wp-content/thumbnails/12752-100x70.jpg?x53432)
     
-    Haughey
+    Forces of Nature with Brian Cox
     
-    Charles J. Haughey brought charisma and controversy to Irish politics, he inspired devotion and provoked division like few others had before him and this story contains tales of ambition, achievement](https://documentaryheaven.com/haughey/ "Haughey")
-* [![Why Am I Me?](/wp-content/thumbnails/664-100x70.png?x53432)
+    The BBC and physicist Brian Cox have teamed up once again in order to bring us Forces of Nature, a four part television documentary series which beautifully combines some of the most amazing sigh](https://documentaryheaven.com/forces-nature-brian-cox/ "Forces of Nature with Brian Cox")
+* [![Steal This Film II](/wp-content/thumbnails/5471-100x70.jpg?x53432)
     
-    Why Am I Me?
+    Steal This Film II
     
-    Professor Susan Greenfield tackles the big idea of human consciousness and asks the important question - why am I me? In this documentary, Greenfield takes a look at how the human brain generates cons](https://documentaryheaven.com/why-am-i-me/ "Why Am I Me?")
-* [![Chris Benoit: A Fight To The Death](/wp-content/thumbnails/10681-100x70.jpg?x53432)
+    These are strange times indeed. While they continue to command so much attention in the mainstream media, the ‘battles’ between old and new modes of distribution, between the pirate and the institutio](https://documentaryheaven.com/steal-this-film-ii/ "Steal This Film II")
+* [![The People’s Republic of Capitalism](/wp-content/thumbnails/6282-100x70.jpg?x53432)
     
-    Chris Benoit: A Fight To The Death
+    The People’s Republic of Capitalism
     
-    Before anyone had heard of Vince McMahon, WWE Raw or Friday Night Smackdown, a true wrestling tradition took place on Friday nights in the Stampede Grounds of Calgary and some of those who wrestl](https://documentaryheaven.com/chris-benoit-fight-to-death/ "Chris Benoit: A Fight To The Death")
+    Joined at the Hip Perhaps nothing crystallizes the theme of Ted Koppel’s excellent documentary series “The People’s Republic of Capitalism” like the production of Ethan Allen couches. Over four episo](https://documentaryheaven.com/the-people%e2%80%99s-republic-of-capitalism/ "The People’s Republic of Capitalism")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
