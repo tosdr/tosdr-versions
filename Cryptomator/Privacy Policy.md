@@ -2,8 +2,12 @@
 
  [![Logo](/img/logo.svg) CRYPTOMATOR](https://cryptomator.org/)
 
-* [Downloads](https://cryptomator.org/downloads/)
-* [Cryptomator Hub](https://cryptomator.org/hub/)
+* Products
+    
+    [Downloads](https://cryptomator.org/downloads/) [Cryptomator Hub](https://cryptomator.org/hub/)
+    
+* [Pricing](https://cryptomator.org/pricing/)
+* [Blog](https://cryptomator.org/blog/)
 * Support Us
     
     [Supporter Certificate](https://cryptomator.org/supporter-cert/) [Donate](https://cryptomator.org/donate/) [Sponsors](https://cryptomator.org/sponsors/)
@@ -22,7 +26,13 @@
     Deutsch
     
 
+Products
+
 [Downloads](https://cryptomator.org/downloads/) [Cryptomator Hub](https://cryptomator.org/hub/)
+
+* * *
+
+[Pricing](https://cryptomator.org/pricing/) [Blog](https://cryptomator.org/blog/)
 
 * * *
 
@@ -419,7 +429,7 @@ The legal basis for the processing of your data is Art. 6 para. 1 lit. a GDPR in
 
 #### Cryptomator
 
-* [Blog](https://cryptomator.org/blog/)
+* [Downloads](https://cryptomator.org/downloads/)
 * [Merchandise](https://cryptomator.redbubble.com/)
 * [Press Kit](https://cryptomator.org/presskit/)
 
