@@ -1,4 +1,4 @@
-[![writing_contest_2024](/c/img/resources/mb/mini_banner_20241029_writing_contest_2024.png "writing_contest_2024")](https://myanimelist.net/c/u/writingcontest2024_mb/https/mhwc.myanimelist.net?utm_source=MAL&utm_medium=mb&utm_campaign=writingcontest2024&utm_content=windowopen)
+[![MAL x JAPAN](/c/img/images/event/20210527_MALxJAPAN_MiniBanner/500x72_miniBanner_B.png "MAL x JAPAN")](https://mxj.myanimelist.net/)
 
 [Hide Ads](https://myanimelist.net/membership?_location=mal_h_u)[Login](https://myanimelist.net/login.php)[Sign Up](https://myanimelist.net/register.php)
 
@@ -529,7 +529,7 @@ If you have any questions, inquires, requests, or complaints concerning this Pri
 1. 1 [Sousou no Frieren](https://myanimelist.net/anime/52991/Sousou_no_Frieren)
 2. 2 [Fullmetal Alchemist: Brotherhood](https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood)
 3. 3 [One Piece Fan Letter](https://myanimelist.net/anime/60022/One_Piece_Fan_Letter)
-4. 4[](https://myanimelist.net/anime/9253/-)
+4. 4 [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)
 5. 5 [Shingeki no Kyojin Season 3 Part 2](https://myanimelist.net/anime/38524/Shingeki_no_Kyojin_Season_3_Part_2)
 
 ### [More](https://myanimelist.net/topanime.php?type=airing)Top Airing Anime
