@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[Shop Our Holiday Gift Guide | Click Here!](https://www.thehomesecuritysuperstore.com/collections/gift-guide?utm_source=website&utm_medium=banner&utm_campaign=Shop+Our+Holiday+Gift+Guide)
+[15% Off Stun Guns & Batons | Use Code: SB15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=merchant&utm_campaign=15%25+Off+Stun+Guns+%26+Batons)
 
-TODAY'S OFFER: :: | Shop Our Holiday Gift Guide | Click Here!
+TODAY'S OFFER: :: | 15% Off Stun Guns & Batons | Use Code: SB15
 
 TODAY'S OFFER: : :
 
- Shop Our Holiday Gift Guide Click Here!
+ 15% Off Stun Guns & Batons Use Code: SB15
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
