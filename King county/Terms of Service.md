@@ -64,6 +64,7 @@ Global Navigation
 * [Marriage licenses](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office/marriage-licensing.aspx)
 * [Birth certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-birth-certificate)
 * [Building and land use permits](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits)
+* [Business licenses](https://www.kingcounty.gov/en/shared-topics/certificates-permits-licenses/business-licenses)
 * [Death certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-death-certificate)
 * [Fire and special event permit](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use/permit-forms-application-materials/fire-permits)
 * [Gun (concealed pistol) licenses](https://www.kingcounty.gov/en/dept/sheriff/courts-jails-legal-system/sheriff-services/concealed-pistol-license)
@@ -268,13 +269,12 @@ Footer Links
 * [Website feedback](https://www.kingcounty.gov/en/new-website)
 
 * [Contact us](https://blue.kingcounty.gov/about/contact/)
-* [Email or text alerts](https://kingcounty.gov/about/news/subscribe.aspx)
 * [Staff directory](https://directory.kingcounty.gov/EmpSearch.asp)
 * [Elected officials](https://www.kingcounty.gov/en/shared-topics/governance-leadership/elected-officials)
 * [Phone list](https://kingcounty.gov/about/contact-us/phone-directory.aspx)
 
 * [Departments](https://www.kingcounty.gov/en/shared-topics/about-king-county/departments)
-* [Office locations](https://kingcounty.gov/about/contact-us/locations.aspx)
+* [Office locations](https://www.kingcounty.gov/en/shared-topics/about-king-county/buildings-locations)
 * [Holidays and closures](https://www.kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts)
 * [Employee resources](https://kingcounty.gov/audience/employees.aspx)
 * [Careers](https://www.kingcounty.gov/en/legacy/audience/employees/careers)
