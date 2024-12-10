@@ -1,6 +1,6 @@
-🚀 Introducing Session Replay: Drive impact with the full picture.
+Fintech, how do you measure up to the rest of the industry?
 
-[Learn more](https://mixpanel.com/releases/session-replay)
+[Get the benchmark report →](https://mixpanel.com/m/2025-state-of-product-analytics-for-fintech)
 
 [Mixpanel](https://mixpanel.com/home)
 
