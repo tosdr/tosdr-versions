@@ -90,11 +90,11 @@ Most Read
     
 2. 2. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
-3. 3. [Teen creates memecoin, dumps it, earns $50,000](https://arstechnica.com/tech-policy/2024/12/teen-creates-memecoin-dumps-it-and-earns-50000/)
+3. 3. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
     
-4. 4. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
+4. 4. [Cable ISPs compare data caps to food menus: Don’t make us offer unlimited soup](https://arstechnica.com/tech-policy/2024/12/cable-isps-compare-data-caps-to-food-menus-dont-make-us-offer-unlimited-soup/)
     
-5. 5. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
+5. 5. [Google gets an error-corrected quantum bit to be stable for an hour](https://arstechnica.com/science/2024/12/google-gets-an-error-corrected-quantum-bit-to-be-stable-for-an-hour/)
     
 
 Customize
