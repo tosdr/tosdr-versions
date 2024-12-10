@@ -193,6 +193,10 @@ Address: Špitálska 53, Bratislava, 811 01, Slovakia
 Latest news
 -----------
 
+[![26 Best Ad-Free Games for Android &amp; iOS](/wp-content/uploads/2022/11/Best-Free-Mobile-Games-Without-Ads-For-2023-1.png)
+
+### 26 Best Ad-Free Games for Android & iOS](https://adlock.com//blog/blog-free-mobile-games-no-ads/)
+
 [![The Best Christmas Ads That Touched Our Hearts](/wp-content/uploads/2023/11/Christmas-ads.png)
 
 ### The Best Christmas Ads That Touched Our Hearts](https://adlock.com//blog/best-christmas-ads/)
@@ -212,10 +216,6 @@ Latest news
 [![How to Stop Seeing Political Ads Online](/wp-content/uploads/2024/11/Political-ads-1.jpg)
 
 ### How to Stop Seeing Political Ads Online](https://adlock.com//blog/how-to-block-political-ads/)
-
-[![How Google Killing Ad-Blocking](/wp-content/uploads/2021/02/D9B0RFbXkAA3Hkh.jpg)
-
-### How Google Killing Ad-Blocking](https://adlock.com//blog/chrome-killing-adblock/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
