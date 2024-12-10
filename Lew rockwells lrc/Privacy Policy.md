@@ -80,6 +80,8 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 
 #### [LRC Blog](https://www.lewrockwell.com/lrc-blog/)
 
+* [Robert Barnes and Rich Baris Episode 87: What Are the Odds? Veteran Daniel Penny Acquitted, Potentially Marking an End to the BLM Era. Plus, have Trump’s Nominees Turned a Page?](https://www.lewrockwell.com/lrc-blog/robert-barnes-and-rich-baris-episode-87-what-are-the-odds-veteran-daniel-penny-acquitted-potentially-marking-an-end-to-the-blm-era-plus-have-trumps-nominees-turned-a-page/)
+* [Trump Cashes In (Literally) at Picture of Jill Biden Staring at Him . . .](https://www.lewrockwell.com/lrc-blog/trump-cashes-in-literally-at-picture-of-jill-biden-staring-at-him/)
 * [Sharia Law In Syria?](https://www.lewrockwell.com/lrc-blog/sharia-law-in-syria/)
 * [Realpolitik](https://www.lewrockwell.com/lrc-blog/realpolitik-3/)
 * [Employed Workers Dwindle and Full-Time Jobs Fall as the Fed Readies More Easy Money](https://www.lewrockwell.com/lrc-blog/employed-workers-dwindle-and-full-time-jobs-fall-as-the-fed-readies-more-easy-money/)
@@ -88,9 +90,7 @@ If you have questions regarding our privacy policy, feel free to [contact me](h
 * [“Obamacare, a Wonderful Program that Brought Health Coverage to Low-Income and Poor Families”](https://www.lewrockwell.com/lrc-blog/obamacare-a-wonderful-program-that-brought-health-coverage-to-low-income-and-poor-families/)
 * [Lying Media Scum Update](https://www.lewrockwell.com/lrc-blog/lying-media-scum-update-3/)
 * [Actions Have Consequences](https://www.lewrockwell.com/lrc-blog/actions-have-consequences/)
-* [25 Years of Lies, Wildly Wrong Predictions, and Keynesian Buffoonery…](https://www.lewrockwell.com/lrc-blog/25-years-of-lies-wildly-wrong-predictions-and-keynesian-buffoonery/)
-* [Obama Warns that Republicans Might Start Behaving Like Obama/Clinton/Biden Democrats](https://www.lewrockwell.com/lrc-blog/obama-warns-that-republicans-might-start-behaving-like-obama-clinton-biden-democrats/)
-* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897617)
+* [MORE](https://www.lewrockwell.com/lrc-blog/#post-897675)
 
 #### [LRC Podcasts](https://www.lewrockwell.com/podcast/)
 
