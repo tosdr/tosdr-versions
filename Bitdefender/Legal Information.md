@@ -53,7 +53,7 @@
         
         * [Join Our Community](https://community.bitdefender.com/en/)
         * [Smart Home Cybersecurity](https://www.bitdefender.com/en-us/smart-home/)
-        * [Cyberpedia](https://www.bitdefender.com/cyberpedia/)
+        * [Cyberpedia](https://www.bitdefender.com/en-us/cyberpedia/)
         
     * Privacy & Identity Protection
         
@@ -316,7 +316,7 @@
         
         * [Newsroom](https://www.bitdefender.com/en-us/news/)
         * [Blogs](https://www.bitdefender.com/blog/)
-        * [Bitdefender Cyberpedia](https://www.bitdefender.com/cyberpedia/)
+        * [Bitdefender Cyberpedia](https://www.bitdefender.com/en-us/cyberpedia/)
         
     * Resources
         
