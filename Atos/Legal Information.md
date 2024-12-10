@@ -167,36 +167,34 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Regenerative IT: Sustainable technology and environmental stewardship](https://atos.net/en/blog/regenerative-it-sustainable-technology-environmental-stewardship)
         * [Building an inclusive future with digital accessibility maturity assessments](https://atos.net/en/blog/building-an-inclusive-future-with-digital-accessibility-maturity-assessments)
         * [GraphRAG: Transforming business intelligence](https://atos.net/en/blog/graphrag-transforming-business-intelligence-retrieval-augmented-generation)
         * [Bringing disability inclusion from the margins to mainstream](https://atos.net/en/blog/positively-purple-2024-disability-inclusion)
-        * [Reshaping employee experience with a data-driven digital workplace](https://atos.net/en/blog/reshaping-employee-experience-data-driven-digital-workplace)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 3, 2024
+        Dec 10, 2024
         
-        ### Building an inclusive future with digital accessibility maturity assessments
+        ### Regenerative IT: Sustainable technology and environmental stewardship
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
         ### Client Stories
         
+        * [Paris 2024](https://atos.net/en/paris-2024)
         * [Next generation 9-1-1 transformation](https://atos.net/en/client-stories/next-generation-9-1-1-transformation)
         * [Partnership in action](https://atos.net/en/client-stories/scottish-water-and-atos-partnership-in-action)
         * [Leveraging the move to cloud](https://atos.net/en/client-stories/ugap-leveraging-the-move-to-cloud)
-        * [A journey to digitize the core](https://atos.net/en/client-stories/siemens-healthineers)
         
         [All client stories](https://atos.net/en/client-stories)
         
-        ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        Paris 2024
+        ----------
         
-        Next generation 9-1-1 transformation
-        ------------------------------------
-        
-        Next generation 9-1-1 transformation Atos modernizes the State of California’s 9-1-1 system At a glance Atos Public Safety LLC facilitates intelligent routing, management and delivery
+        Paris 2024 The most digital and secure Olympic and Paralympic Games in history At a glance Atos was the Worldwide IT Partner and leading technology integrator for the Olympic and Paralympic Games from Salt Lake
         
     * [Events](https://atos.net/en/events)˅
         
