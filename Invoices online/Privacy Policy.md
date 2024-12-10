@@ -117,57 +117,63 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Anri van der Linde
+Kobus Venter
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=175532637)  
-Electro-Heat
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=18272917)  
+Druce Digital
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=142333264)  
-Meyer Towing & Recovery
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=22316632)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=146983109)  
-TurboFibre
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=106413959)  
+Echo Recording Studio cc
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=74649385)  
-Goju-Ryu Pretoria East
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=158417346)  
+OptaServ
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=2600000)  
-SafeTclip
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=121936178)  
+Website Café (PTY) LTD
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=121619499)  
-Chiron Medical Solutions
-
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=108882574)  
-J.M. HUMAN RESOURCES
-
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=105353534)  
-ELLIE'S CLEANING CHICKS
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=189883919)  
-The Gourmet Artisans Ltd.
-
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=25678936)  
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=13383522)  
 KTEN PARTS
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=22301572)  
-Firstweb Hosting & Design
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=72444728)  
+Printo
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=143705557)  
-Depot Diesel (Pty) Ltd
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=176638858)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=99141006)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=147891556)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=185748649)  
-Konsortium Operations (PTY) LTD
+![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=137821316)  
+Stevens Consulting
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=38821027)  
-webb it services
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=50267019)  
+Forgotten Goods (Pty) Ltd
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=149334719)  
+Brilliant Roof Products
+
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=107487813)  
+National Elite Security Services (PTY) LTD
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=54708795)  
+MOSELA GROUP Pty(ltd)
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=87809155)  
+Tantra Sound and Lightz
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
