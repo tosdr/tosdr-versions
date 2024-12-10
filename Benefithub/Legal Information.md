@@ -30,6 +30,7 @@
     * [FAQ](https://www.benefithub.com/en/support)
     * [Customer Help Center Centre](https://www.benefithub.com/en/support/did-not-find-an-answer)
 * [Resources](https://www.benefithub.com/benefithub-resources) [ ] 
+    * [All Resources](https://www.benefithub.com/benefithub-resources)
     * [Blog](https://www.benefithub.com/blog)
     * [News](https://www.benefithub.com/news)
 
