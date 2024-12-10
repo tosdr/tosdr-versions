@@ -492,7 +492,7 @@ Show options
     
 * [Secrets management](https://1password.com/developers/secrets-management)
     
-* [Bug bounty](https://bugcrowd.com/agilebits)
+* [Bug bounty](https://hackerone.com/1password)
     
 
 ###### Support
