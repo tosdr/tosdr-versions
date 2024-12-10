@@ -77,7 +77,7 @@ Support
     * [What we do](https://www.nuance.com/company-overview/what-we-do.html)
     * [Who we are](https://www.nuance.com/company-overview/who-we-are.html)
     
-* [News](https://news.nuance.com/)
+* [News](https://news.microsoft.com/health/)
 * [Research](https://www.nuance.com/about-us/ai-research.html)
 * [Careers](https://www.nuance.com/about-us/careers.html)
 * [Trust center](#)
@@ -102,7 +102,7 @@ Company overview
     * [What we do](https://www.nuance.com/company-overview/what-we-do.html)
     * [Who we are](https://www.nuance.com/company-overview/who-we-are.html)
     
-* [News](https://news.nuance.com/)
+* [News](https://news.microsoft.com/health/)
 * [Research](https://www.nuance.com/about-us/ai-research.html)
 * [Careers](https://www.nuance.com/about-us/careers.html)
 * [Trust center](#)
