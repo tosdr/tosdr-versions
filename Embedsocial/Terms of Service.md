@@ -13,7 +13,7 @@ Search
     * [GBP API Access](https://embedsocial.com/gbp/api/ "GBP API Access")
     * [GBP Business Hours Management](https://embedsocial.com/blog/change-business-hours-on-google/ "GBP Business Hours Management")
     * [Google Reviews Management](https://embedsocial.com/gbp/reviews/ "Google Reviews Management")
-    * [GBP Reviews Responder](https://embedsocial.com/blog/google-reviews-responder/ "GBP Reviews Responder")
+    * [GBP Reviews Responder](https://embedsocial.com/gbp/ai-reviews-responder/ "GBP Reviews Responder")
     * [GBP Posts Scheduling](https://embedsocial.com/google-posts-scheduler/ "GBP Posts Scheduling")
     
     [FeedlinkPersonal website builder](https://feed.link/)
