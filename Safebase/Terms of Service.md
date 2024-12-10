@@ -50,7 +50,9 @@ Demonstrate the power of your security programs with real-time insights](https:/
 
 download ROI Calculator
 
-No items found.
+[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/6729500f4547fbb8bdf974ed_FY24%20ROI%20Calc%20Card%20Image.png)
+
+Unlock time and cost savings by automating security questionnaire reviews with SafeBase](https://safebase.io/resources/roi-calculator)
 
 Solutions
 
@@ -140,9 +142,9 @@ Improving representation in cybersecurity leadership](https://safebase.io/women-
 
 download ROI Calculator
 
-[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/6756155352809136adde6057_FY24%20Top%20100%20Questions.png)
+[![](https://cdn.prod.website-files.com/654d48e43ed3ff3779c3a2ea/6729500f4547fbb8bdf974ed_FY24%20ROI%20Calc%20Card%20Image.png)
 
-\[Guide\] 100 Critical Security Questions to Address in Your Trust Center](https://safebase.io/resources/guide-100-critical-security-questions-to-address-in-your-trust-center)
+Unlock time and cost savings by automating security questionnaire reviews with SafeBase](https://safebase.io/resources/roi-calculator)
 
 [Login](https://app.safebase.io/api/auth/login)[Book a demo](https://safebase.io/schedule)
 
