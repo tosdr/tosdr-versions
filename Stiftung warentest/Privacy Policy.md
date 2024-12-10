@@ -808,21 +808,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
-* [Wunder­sames aus dem Prüf­labor: Torta della Norma](https://www.test.de/Wundersames-aus-dem-Prueflabor-Torta-della-Norma-6169689-0/ "Wundersames aus dem Prüflabor - Torta della Norma")
 * [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
 
 Weitere Informationen
 
@@ -3862,59 +3862,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
-* [Wunder­sames aus dem Prüf­labor: Torta della Norma](https://www.test.de/Wundersames-aus-dem-Prueflabor-Torta-della-Norma-6169689-0/ "Wundersames aus dem Prüflabor - Torta della Norma")
 * [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
-* [Wunder­sames aus dem Prüf­labor: Torta della Norma](https://www.test.de/Wundersames-aus-dem-Prueflabor-Torta-della-Norma-6169689-0/ "Wundersames aus dem Prüflabor - Torta della Norma")
 * [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
 
 Neueste Tests
 
+* [Hausrat­versicherung im Vergleich: So versichern Sie Ihren Hausrat gut und günstig](https://www.test.de/Hausratversicherung-Vergleich-5069958-0/ "Hausratversicherung im Vergleich - So versichern Sie Ihren Hausrat gut und günstig")
+* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
+* [Elektronische Patienten­akte: Jetzt lieber aktiv werden](https://www.test.de/elektronische-Patientenakte-6165565-0/ "Elektronische Patientenakte - Jetzt lieber aktiv werden")
 * [Fernseher im Test: Gutes Bild und guter Ton – geht günstig](https://www.test.de/Fernseher-im-Test-1629201-0/ "Fernseher im Test - Gutes Bild und guter Ton – geht günstig")
 * [Wasch­maschinen im Test: Halt­bar und spar­sam ab 500 Euro](https://www.test.de/Waschmaschinen-im-Test-4296800-0/ "Waschmaschinen im Test - Haltbar und sparsam ab 500 Euro")
 * [Entnahme­plan mit ETF: Mit dem Pantoffel-Portfolio die Rente aufpeppen](https://www.test.de/pantoffel-portfolio-entnahmeplan-5754765-0/ "Entnahmeplan mit ETF - Mit dem Pantoffel-Portfolio die Rente aufpeppen")
-* [Geld anlegen mit Finanztest: Das Pantoffel-Portfolio – bequem und erfolg­reich](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/ "Geld anlegen mit Finanztest - Das Pantoffel-Portfolio – bequem und erfolgreich")
-* [Pfannen im Test: Nach­haltig brutzeln](https://www.test.de/Pfannen-im-Test-5440108-0/ "Pfannen im Test - Nachhaltig brutzeln")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
 
 test.de entdecken
 
-* [Fahr­rad­urlaub planen: So klappt die Radreise](https://www.test.de/Fahrradurlaub-so-planen-Sie-die-Radreise-5978592-0/ "Fahrradurlaub planen - So klappt die Radreise")
-* [Wunder­sames aus dem Prüf­labor: Torta della Norma](https://www.test.de/Wundersames-aus-dem-Prueflabor-Torta-della-Norma-6169689-0/ "Wundersames aus dem Prüflabor - Torta della Norma")
 * [Xeohandel: Über Instagram angelockt](https://www.test.de/Xeohandel-Ueber-Instagram-angelockt-6160228-0/ "Xeohandel - Über Instagram angelockt")
-* [Dax-Kappungs­grenze: Bei Börsenindizes kommt es auf breite Streuung an](https://www.test.de/Dax-Kappungsgrenze-erhoeht-6111224-0/ "Dax-Kappungsgrenze - Bei Börsenindizes kommt es auf breite Streuung an")
-* [Vakuum-Set im Test: Viel Luft nach oben](https://www.test.de/Airtender-im-Test-6177777-0/ "Vakuum-Set im Test - Viel Luft nach oben")
-* [Verpackungs­ärger: Taxofit Magnesium 400 + Kalium](https://www.test.de/Verpackungsaerger-Taxofit-Magnesium-400-Kalium-6001317-0/ "Verpackungsärger - Taxofit Magnesium 400 + Kalium")
+* [Preis­anstieg für Eis: So schle­cken Sie preis­wert und lecker](https://www.test.de/Preisanstieg-fuer-Eis-So-schlecken-Sie-preiswert-und-lecker-6011081-0/ "Preisanstieg für Eis - So schlecken Sie preiswert und lecker")
+* [Zinsportale: So finden Sie die Haken bei Zins­angeboten](https://www.test.de/Zinsportale-So-finden-Sie-die-Haken-bei-Zinsangeboten-6007289-0/ "Zinsportale - So finden Sie die Haken bei Zinsangeboten")
+* [Wunder­sames aus dem Prüf­labor: Norm­fläzer](https://www.test.de/Wundersames-aus-dem-Prueflabor-Normflaezer-6110428-0/ "Wundersames aus dem Prüflabor - Normfläzer")
+* [Aktienmarkt: Aktienmärkte auf dem Höchst­stand – jetzt noch investieren?](https://www.test.de/Aktienmarkt-Aktienmaerkte-auf-dem-Hoechststand-Jetzt-noch-einsteigen-6076978-0/ "Aktienmarkt - Aktienmärkte auf dem Höchststand – jetzt noch investieren?")
+* [Dubiose Geld­anlagen: Spar-Anlagen.com täuscht Nutzer](https://www.test.de/Dubiose-Geldanlagen-Spar-Anlagencom-taeuscht-Nutzer-6009610-0/ "Dubiose Geldanlagen - Spar-Anlagen.com täuscht Nutzer")
 
 Stiftung Warentest
 
