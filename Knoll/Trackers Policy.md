@@ -276,7 +276,7 @@
     * [Sustainable Design](https://www.knoll.com/design-plan/resources/environment)
     * [Product Care and Cleaning](https://www.knoll.com/design-plan/resources/product-care)
     * [Installation Instructions](https://www.knoll.com/design-plan/resources/literature/installation-instructions)
-    * [Warranty](https://www.knoll.com/design-plan/resources/warranty)
+    * [Warranty](https://www.knoll.com/help/warranty)
     
     ##### Showrooms & More
     
@@ -578,7 +578,7 @@
             * [Sustainable Design](https://www.knoll.com/design-plan/resources/environment)
             * [Product Care and Cleaning](https://www.knoll.com/design-plan/resources/product-care)
             * [Installation Instructions](https://www.knoll.com/design-plan/resources/literature/installation-instructions)
-            * [Warranty](https://www.knoll.com/design-plan/resources/warranty)
+            * [Warranty](https://www.knoll.com/help/warranty)
         * [Showrooms & More](https://www.knoll.com/null)
             * [###### Showrooms & More](javascript:;)
             * [Knoll Showrooms](https://www.knoll.com/locations/knoll-showrooms)
