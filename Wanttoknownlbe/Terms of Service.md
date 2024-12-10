@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/somalische-piraten-worden-aangestuurd-vanuit-londen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/ben-jij-bang-voor-de-zon/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
