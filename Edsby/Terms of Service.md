@@ -8,9 +8,9 @@
     
     ###### Solutions
     
-    * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
+    * ![List 1](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
         
-        ![](https://www.edsby.com/wp-content/uploads/2023/09/solution-list1.png)
+        ![List 1](https://www.edsby.com/wp-content/uploads/2023/09/solution-list1.png)
         
     
     ###### NEED
@@ -22,9 +22,9 @@
     * [Student Well-Being](https://www.edsby.com/solutions/student-well-being-sel/)
     * [Early Years](https://www.edsby.com/solutions/edsby-for-elementary/)
     
-    * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
+    * ![List 3](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
         
-        ![](https://www.edsby.com/wp-content/uploads/2023/09/solution-list2.png)
+        ![List 3](https://www.edsby.com/wp-content/uploads/2023/09/solution-list2.png)
         
     
     ###### ORGANIZATION
@@ -33,9 +33,9 @@
     * [Governments](https://www.edsby.com/edsby-for-regions/)
     * [Independent Schools](https://www.edsby.com/edsby-for-private-schools/)
     
-    * ![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
+    * ![List 2](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2031%2032'%3E%3C/svg%3E)
         
-        ![](https://www.edsby.com/wp-content/uploads/2023/09/solution-list3.png)
+        ![List 2](https://www.edsby.com/wp-content/uploads/2023/09/solution-list3.png)
         
     
     ###### ROLE
