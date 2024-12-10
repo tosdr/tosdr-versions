@@ -185,9 +185,9 @@
             
             webcast
             
-            ##### Elevate Your GRC Game: A Collaborative Approach with LevelBlue and OneTrust
+            ##### Extending Zero Trust to Every Endpoint
             
-            [Learn more](https://levelblue.com/resource-center/webcasts/elevate-your-grc-game-a-collaborative-approach-with-levelblue-and-onetrust)
+            [Learn more](https://levelblue.com/resource-center/webcasts/extending-zero-trust-to-every-endpoint)
             
             [View all Webcasts](https://www.alienvault.com/resource-center#content_webcast)
             
