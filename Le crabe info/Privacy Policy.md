@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 482 utilisateurs actifs
+##### 802 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Une faille de sécurité zero-day affecte toutes les versions de Windows, y compris Windows 11 24H2](https://lecrabeinfo.net/une-faille-de-securite-zero-day-affecte-toutes-les-versions-de-windows-y-compris-windows-11-24h2.html)
 * [Microsoft recommande toujours l’outil "Sauvegarder et restaurer" de Windows 7... sur Windows 11 !](https://lecrabeinfo.net/microsoft-recommande-toujours-loutil-sauvegarder-et-restaurer-de-windows-7-sur-windows-11.html)
 * [Windows 11 24H2 : Microsoft confirme des bugs importants avec l'horloge et l'audio USB](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-des-bugs-importants-avec-lhorloge-et-laudio-usb.html)
-* [Windows 11 : le TPM 2.0, une exigence "non négociable" pour Microsoft](https://lecrabeinfo.net/microsoft-le-tpm-2-0-une-exigence-non-negociable-pour-windows-11.html)
 
 ### Tendance
 
@@ -152,11 +152,11 @@ Chargement en cours
 
 ### Statistiques
 
-* 68 024 membres
-* 967 articles
+* 68 027 membres
+* 968 articles
 * 27 069 commentaires
 * [2 678 abonnés Facebook](https://www.facebook.com/lecrabeinfo)
-* [865 abonnés X](https://x.com/lecrabeinfo)
+* [866 abonnés X](https://x.com/lecrabeinfo)
 * [67 517 abonnés à la newsletter](https://lecrabeinfo.net/newsletter)
 
 * [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr "CC BY-NC-SA")
