@@ -49,7 +49,7 @@ Main Navigation
 
 [](#close-search "Close Search") Search
 
-[**BLACK FRIDAY SUBSCRIPTION SALE** **CYBER MONDAY SUBSCRIPTION SALE** **2-months free/yearly** **1-month free/monthly** You choose your savings Sign up today for a GigaOm research subscription](https://gigaom.com/black-friday-cyber-monday/)
+[**Subscribe to GigaOm** Sign up today for a GigaOm research subscription](https://gigaom.com/subscribe/#end-user-column)
 
 Terms of Service
 ================
