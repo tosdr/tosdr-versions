@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-As of 2020, the Harry Potter books have been translated into 83 languages, including Latin and Ancient Greek.
+Six different actors have played Lord Voldemort in the Harry Potter films.
 
 ### Potter History
 
-October 29, 2008 – David Heyman discusses the Harry Potter and the Half-Blood Prince delay and reveals that the film is just about complete.
+March 20, 2003 – The book cover art for Harry Potter and the Order of the Phoenix is released in the United States and United Kingdom. It was the first cover to create lots of hype in the Harry Potter fandom because by that point fansites were flourishing.
 
 ### Potter Quote
 
-“Ah, of course. There is no need to say any more, Miss Granger. Tell me, which of you will be dying this year?”
+“I’ll join you when hell freezes over.”
 
 [](#)
 
