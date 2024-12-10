@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [24 Hour Cognitive Boost from Exercise](https://www.sciencedaily.com/releases/2024/12/241209203726.htm)
+* [Device Helps the Visually Impaired Navigate](https://www.sciencedaily.com/releases/2024/12/241210115433.htm)
+* [AI Predicts Earth's Peak Warming](https://www.sciencedaily.com/releases/2024/12/241210115110.htm)
+* [AI Predicts Fast Rise of 3°C in Most of World](https://www.sciencedaily.com/releases/2024/12/241210115538.htm)
 * [Pups of Powerful Meerkat Matriarchs Pay a Price](https://www.sciencedaily.com/releases/2024/12/241209162517.htm)
 * [Mars' Infamous Dust Storms](https://www.sciencedaily.com/releases/2024/12/241209123224.htm)
 * [Cracking the Code for Materials That Can Learn](https://www.sciencedaily.com/releases/2024/12/241209122941.htm)
 * [AI Cracks Complex Engineering Problems Fast](https://www.sciencedaily.com/releases/2024/12/241209122936.htm)
 * [Universe Expansion Study Challenges Cosmic ...](https://www.sciencedaily.com/releases/2024/12/241209122620.htm)
 * [Earliest Deep-Cave Ritual Compound](https://www.sciencedaily.com/releases/2024/12/241209162441.htm)
-* [Dogs Hit Button-Combos On Soundboards](https://www.sciencedaily.com/releases/2024/12/241209162449.htm)
-* [Existing EV Batteries May Last Up to 40% Longer](https://www.sciencedaily.com/releases/2024/12/241209122933.htm)
-* [Black Hole Debate Settled?](https://www.sciencedaily.com/releases/2024/12/241209122749.htm)
-* [New Ocean Predator from the Atacama Trench](https://www.sciencedaily.com/releases/2024/12/241209122644.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
-[Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
-[Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
-[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
+[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
   
 
