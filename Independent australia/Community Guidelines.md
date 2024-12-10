@@ -134,7 +134,7 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
-* [Dutton, Harvey and Uhlmann's cooked advice](https://independentaustralia.net/article-display/dutton-harvey-and-uhlmanns-cooked-advice,19233 "Permanent Link : Dutton, Harvey and Uhlmann's cooked advice")
+* [Head in the sand approach to P.A.L.M. visa continues](https://independentaustralia.net/article-display/head-in-the-sand-approach-to-palm-visa-continues,19241 "Permanent Link : Head in the sand approach to P.A.L.M. visa continues")
 * [News Corp’s fossil fuel advertising dressed as news should be illegal](https://independentaustralia.net/article-display/news-corps-fossil-fuel-advertising-dressed-as-news-should-be-illegal,19240 "Permanent Link : News Corp’s fossil fuel advertising dressed as news should be illegal")
 * [Reclaiming the radical spirit of the Eureka Rebellion](https://independentaustralia.net/article-display/reclaiming-the-radical-spirit-of-the-eureka-rebellion,19239 "Permanent Link : Reclaiming the radical spirit of the Eureka Rebellion")
 * [Economic growth slows, incomes surge and Coalition hypocrisy hits new high](https://independentaustralia.net/article-display/economic-growth-slows-incomes-surge-and-coalition-hypocrisy-hits-new-high,19238 "Permanent Link : Economic growth slows, incomes surge and Coalition hypocrisy hits new high")
