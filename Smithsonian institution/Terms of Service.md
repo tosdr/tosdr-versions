@@ -117,7 +117,7 @@ Site Navigation
             * [Job Opportunities](https://www.si.edu/ohr/jobs)
             * [Job Seekers with Disabilities](https://www.si.edu/ohr/disabled)
             * [Frequently Asked Questions](https://www.si.edu/ohr/faq)
-            * [SI Civil Program](https://www.si.edu/si-civil-program)
+            * [SI Civil Program](https://www.si.edu/sicivil)
             * [Contact Us](https://www.si.edu/ohr/contactus)
         * [Equal Employment Office](https://www.si.edu/oeesd)
             * [EEO Complaint Process](https://www.si.edu/oeesd/eeocomplaintprocess)
