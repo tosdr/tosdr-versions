@@ -196,7 +196,6 @@ Company
 * [Community](https://community.render.com/)
 * [Careers](https://render.com/careers)
 * [Privacy Policy](https://render.com/privacy)
-* [Cookie Settings](https://render.com/)
 * [Security](https://render.com/trust)
 * [Shared Responsibility Model](https://render.com/shared-responsibility-model)
 * [Terms Of Use](https://render.com/terms)
