@@ -10,13 +10,11 @@ The following terms and conditions (collectively, these “Terms of Use”) appl
 
 ##### 2\. DESCRIPTION OF SERVICES
 
-We provide users with access to educational training materials (the “Services”). At any time and at our sole discretion, we may change, suspend, or discontinue any aspect of the Services. The Regents of the University of California do not endorse, warrant, or otherwise take responsibility for the contents of the Services.
+We provide users with access to educational training materials (the “Services”). At any time and at our sole discretion, we may change, suspend, or discontinue any aspect of the Services. The
 
 ##### 3\. ACCESSING THE SERVICES
 
-You must be at least 13 years old to use the Services. We do not knowingly collect information from children under 13. (See the U.S. Children’s Online Privacy Protection Act.)  
-  
-We cannot guarantee that the Services will be available at all times. We also reserve the right to disable any user account at our sole discretion.
+Finding Focus is accessed via https://findingfocus.app or the Finding Focus iOS and Android apps. We cannot guarantee that the Services will be available at all times. We also reserve the right to disable any user account at our sole discretion.
 
 ##### 4\. INTELLECTUAL PROPERTY RIGHT
 
@@ -25,12 +23,13 @@ This website and its original content are protected by United States and interna
 Pursuant to the Digital Millennium Copyright Act, all websites must provide a point of contact for claims of potential copyright infringement. If you have a good faith belief that any material available through the Services infringes upon your copyrights, please contact:  
   
 Michael Mrazek  
-Director of Research  
-Center for Mindfulness & Human Potential  
-University of California Santa Barbara  
-Santa Barbara, CA 93106-3201  
+Research Associate Professor  
+Department of Psychology  
+University of Texas at Austin  
+108 E Dean Keeton St.  
+Austin, TX 78712  
 Telephone: (507) 398-6776  
-Email: mrazek@ucsb.edu
+Email: michael.mrazek@utexas.edu
 
 ##### 5\. PRIVACY
 
@@ -53,9 +52,9 @@ Your use of this website, including any risk it entails, is at your sole discret
 To the fullest extent permissible under applicable law, we shall not be liable for any special or consequential damages that result from the use of or the inability to use the services provided on this site. In no event shall our total liability to you for all damages, losses, and causes of action exceed the amount paid by you, if any, for accessing these services.
 
   
-If you have questions about this privacy policy, please contact cmhp@psych.ucsb.edu.  
+If you have questions about this privacy policy, please contact support@findingfocus.app.  
   
-Last revised on 3/7/2019
+Last revised on 12/1/2024
 
 Quick Links
 
