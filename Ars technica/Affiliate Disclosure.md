@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Latest James Webb data hints at new physics in Universe’s expansion](https://cdn.arstechnica.net/wp-content/uploads/2024/03/hubble1CROP-768x432.jpg)](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
+1. [![Listing image for first story in Most Read: Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://cdn.arstechnica.net/wp-content/uploads/2024/12/GettyImages-961402090-768x432.jpg)](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
-    1. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
+    1. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
-2. 2. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
+2. 2. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
     
-3. 3. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
+3. 3. [Intrigue swirls as Blue Origin races toward year-end deadline for New Glenn](https://arstechnica.com/space/2024/12/intrigue-swirls-as-blue-origin-races-toward-year-end-deadline-for-new-glenn/)
     
-4. 4. [Cable ISPs compare data caps to food menus: Don’t make us offer unlimited soup](https://arstechnica.com/tech-policy/2024/12/cable-isps-compare-data-caps-to-food-menus-dont-make-us-offer-unlimited-soup/)
+4. 4. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
     
-5. 5. [Google gets an error-corrected quantum bit to be stable for an hour](https://arstechnica.com/science/2024/12/google-gets-an-error-corrected-quantum-bit-to-be-stable-for-an-hour/)
+5. 5. [Cable ISPs compare data caps to food menus: Don’t make us offer unlimited soup](https://arstechnica.com/tech-policy/2024/12/cable-isps-compare-data-caps-to-food-menus-dont-make-us-offer-unlimited-soup/)
     
 
 Customize
