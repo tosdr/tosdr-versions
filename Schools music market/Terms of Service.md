@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-notation-worksheet/)
+ [](https://schoolsmusicmarket.com/product/music-appreciation-worksheet-activity/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-queen/)
+ [](https://schoolsmusicmarket.com/product/rainbow-music-helper-name-tags-key-signatures-poster-circle-of-fifths/)
 
 ###### Browse By Year/Grade
 
