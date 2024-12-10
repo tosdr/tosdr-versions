@@ -209,8 +209,8 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**Score another point for the plants** Study finds 1:2 ratio of plant to animal protein lowers risk of heart disease](https://news.harvard.edu/gazette/story/2024/12/higher-plant-to-animal-protein-ratio-improves-heart-health/)
-        2. [**Rhodes scholars share their Oxford ambitions**   8 students to pursue social, political, computational sciences](https://news.harvard.edu/gazette/story/2024/11/rhodes-scholars-share-their-oxford-ambitions/)
+        1. [**Probe the gut, protect the brain?** In fight against Parkinson’s and other disorders, two-way connection may someday lead to a breakthrough](https://news.harvard.edu/gazette/story/2024/12/does-parkinsons-start-in-the-gut-brain-microbiome/)
+        2. [**Score another point for the plants** Study finds 1:2 ratio of plant to animal protein lowers risk of heart disease](https://news.harvard.edu/gazette/story/2024/12/higher-plant-to-animal-protein-ratio-improves-heart-health/)
         3. [**How China tariffs could backfire on U.S.** Economists say there could be unintended consequences, including higher prices, supply chain disruptions, and possibly opening door to improving Beijing’s ties to American allies](https://news.harvard.edu/gazette/story/2024/12/how-china-tariffs-could-backfire-on-u-s/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
