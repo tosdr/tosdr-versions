@@ -1,6 +1,6 @@
 Fintech, how do you measure up to the rest of the industry?
 
-[Get the benchmark report →](https://mixpanel.com/m/2025-state-of-product-analytics-for-fintech)
+[Get the benchmark report →](https://mixpanel.com/m/benchmarks-report-2025-fintech)
 
 [Mixpanel](https://mixpanel.com/home)
 
