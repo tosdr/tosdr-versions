@@ -1,8 +1,9 @@
  
 
 * Es noticia:
-* [Getafe - Espanyol](https://www.marca.com/futbol/laliga-ea-sports/getafe-espanyol/2024/12/09/01_0101_20241209_1450_177-directo.html)
-* [Cartagena - Sporting de Gijón](https://www.marca.com/futbol/laliga-hypermotion/cartagena-sporting/2024/12/09/01_0102_20241209_3554_616-directo.html)
+* [Getafe - Espanyol](https://www.marca.com/futbol/primera-division/cronica/2024/12/09/675753ca46163ff8478b4581.html)
+* [Cartagena](https://www.marca.com/futbol/segunda-division/cronica/2024/12/09/67572801e2704e5d578b459f.html)
+* [Mamardashvili](https://www.marca.com/futbol/valencia/2024/12/09/problemas-crecen-valencia-mamardashvili-lesionado.html)
 * [Sorteo Copa del Rey](https://www.marca.com/futbol/copa-rey/2024/12/09/6756a9bcf49425d14d4d5b07-directo.html)
 * [Carlos Sainz Williams](https://www.marca.com/motor/formula1/2024/12/09/6756ecd1e2704e5d578b4580.html)
 * [Ana Peleteiro](https://www.marca.com/atletismo/2024/12/09/ana-peleteiro-denuncia-violaciones-maltrato-expareja.html)
@@ -10,15 +11,13 @@
 * [Patrick Dempsey](https://www.marca.com/tiramillas/television/2024/12/09/67573febca474175098b45b0.html)
 * [Bárbara Rey](https://www.marca.com/tiramillas/television/2024/12/09/67574f9d46163f01168b459d.html)
 * [Copa del Rey cruces](https://www.marca.com/futbol/copa-rey/2024/12/09/asi-quedan-dieciseisavos-copa-rey-bombazo-barbastro-barcelona-deportiva-minera-real-madrid.html)
+* [Horario test F1 Abu Dhabi](https://www.marca.com/motor/formula1/2024/12/09/67573381268e3e030e8b4596.html)
 * [Rival Barcelona Copa](https://www.marca.com/futbol/copa-rey/2024/12/09/barbastro-rival-barcelona-dieciseisavos-ronda-copa-rey.html)
 * [Rival Copa Real Madrid](https://www.marca.com/futbol/copa-rey/2024/12/09/deportiva-minera-rival-real-madrid-segunda-fase-copa-rey.html)
 * [Rival Copa Atletico](https://www.marca.com/futbol/copa-rey/2024/12/09/marbella-fc-rival-atletico-madrid-segunda-fase-copa-rey.html)
-* [Kiko Matamoros](https://www.marca.com/tiramillas/television/2024/12/09/6757459d268e3e3b438b4582.html)
 * [Bosque Madrid](https://www.marca.com/tiramillas/actualidad/2024/12/09/67571f4e22601dcc4e8b4588.html)
-* [Netflix](https://www.marca.com/tiramillas/series/2024/12/09/6757280546163fb5278b4583.html)
 * [Evloev](https://www.marca.com/combates-ufc/2024/12/09/evloev-topuria-dadme-chico-espana.html)
 * [Brushing](https://www.marca.com/tiramillas/television/2024/12/09/67572c2eca4741f07b8b458c.html)
-* [Daniel Sancho](https://www.marca.com/tiramillas/actualidad/2024/12/09/675709d046163fa7498b4581.html)
 * [Película Prime Video](https://www.marca.com/tiramillas/cine/2024/12/09/67572b4fca4741b25e8b4594.html)
 * [Comprobar Lotería Navidad](https://www.marca.com/loteria/loteria-navidad/comprobar-loteria.html)
 * [Lotería de Navidad](https://www.marca.com/loteria/loteria-navidad.html)
