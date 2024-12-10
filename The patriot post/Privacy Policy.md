@@ -1,6 +1,6 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,7 +114,7 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112642-freedom-fans-think-otherwise-2024-12-09)
+     [](https://patriotpost.us/memes/112666-a-memes-purpose-2024-12-10)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -126,6 +126,7 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [Cal Thomas Pardoning the Unpardonable](https://patriotpost.us/opinion/112661-pardoning-the-unpardonable-2024-12-10)
 *      [Jeff Jacoby Argentina’s Capitalist Counterrevolution Is Off to a Good Start](https://patriotpost.us/opinion/112655-argentinas-capitalist-counterrevolution-is-off-to-a-good-start-2024-12-09)
 *      [Allen West Haters Gonna Hate](https://patriotpost.us/opinion/112630-haters-gonna-hate-2024-12-09)
 *      [Rich Lowry Trump’s Strong Start](https://patriotpost.us/opinion/112629-trumps-strong-start-2024-12-09)
@@ -133,7 +134,6 @@ Last Updated: November 15, 2011.
 *      [The Babylon Bee 13 More People Biden Is Considering Pardoning](https://patriotpost.us/opinion/112627-13-more-people-biden-is-considering-pardoning-2024-12-09)
 *      [Gary Bauer Trump Supports Pete](https://patriotpost.us/opinion/112622-trump-supports-pete-2024-12-07)
 *      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
-*      [Michael Reagan The Fun Is Never Gone on Fox](https://patriotpost.us/opinion/112605-the-fun-is-never-gone-on-fox-2024-12-06)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
