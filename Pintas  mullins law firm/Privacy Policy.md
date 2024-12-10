@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
+[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
 
-[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
+[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
 
-[![What is cancer of the lining of the lung?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-is-cancer-of-the-lining-of-the-lung.jpg "What Is Cancer of the Lining of the Lung?")](https://www.pintas.com/lung-cancer/what-is-cancer-of-the-lining-of-the-lung/ "What Is Cancer of the Lining of the Lung?")
+[![How often are elderly people in nursing homes undermonitored?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-often-are-elderly-people-in-nursing-homes-undermonitored-scaled.jpg "How Often Are Elderly People in Nursing Homes Undermonitored?")](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/ "How Often Are Elderly People in Nursing Homes Undermonitored?")
 
-[#### What Is Cancer of the Lining of the Lung?](https://www.pintas.com/lung-cancer/what-is-cancer-of-the-lining-of-the-lung/)
+[#### How Often Are Elderly People in Nursing Homes Undermonitored?](https://www.pintas.com/faq/how-often-are-elderly-people-in-nursing-homes-undermonitored/)
 
-[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
+[![Why you shouldn’t use johnson and johnson baby products](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-you-shouldnt-use-johnson-and-johnson-baby-products.jpg "Why You Shouldn’t Use Johnson and Johnson Baby Products")](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/ "Why You Shouldn’t Use Johnson and Johnson Baby Products")
 
-[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
+[#### Why You Shouldn’t Use Johnson and Johnson Baby Products](https://www.pintas.com/talcum-powder/why-you-shouldnt-use-johnson-and-johnson-baby-products/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
