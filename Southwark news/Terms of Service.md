@@ -20,6 +20,20 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
+    
+    ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
+    
+    [![The new design at 110 The Queen's Walk. 
+    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+    
+    ### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+    
+    [![London mayor Sadiq Khan at a primary school. 
+    Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
+    
+    ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
+    
     [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
     
     ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
@@ -44,18 +58,6 @@
     Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
     
     ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
-    
-    [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    ### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-    
-    ### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-    
-    [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-    
-    ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +108,20 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
+    
+    ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
+    
+    [![The new design at 110 The Queen's Walk. 
+    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+    
+    ### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+    
+    [![London mayor Sadiq Khan at a primary school. 
+    Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
+    
+    ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
+    
     [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
     
     ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
@@ -130,18 +146,6 @@ View All Result
     Credit: Greater London Authority](https://southwarknews.co.uk/wp-content/uploads/2024/12/Sadiq-Khan-out-on-a-police-patrol-360x180.jpg)](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
     
     ### [City Hall spends £30 million to install 300 new and upgraded CCTV cameras](https://southwarknews.co.uk/area/london/city-hall-spends-30-million-to-installing-300-new-and-upgraded-cctv-cameras/)
-    
-    [![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    ### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-    
-    [![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-360x180.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-    
-    ### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-    
-    [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-    
-    ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -219,17 +223,17 @@ Terms of Use
 
 [8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
-[![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
-[7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
-
 [![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
 ### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
 [9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+
+[![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
+### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
+[7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 [![Daniel Kelly in action against Plymouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/D-Kelly-48393-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
 
@@ -244,6 +248,13 @@ Terms of Use
 [5th December 2024](https://southwarknews.co.uk/sport/football/millwall/crystal-palace-reportedly-in-talks-to-sign-millwall-winger-romain-esse/)
 
 ### Featured Articles
+
+[![The new design at 110 The Queen's Walk. 
+Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+
+### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
+
+[10th December 2024](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
 
 [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
@@ -274,12 +285,6 @@ Terms of Use
 ### [New food and drink openings in south London](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
 
 [8th December 2024](https://southwarknews.co.uk/area/south-london/new-food-and-drink-openings-in-south-london-4/)
-
-[![Neil Coyle, Bermondsey and Old Southwark MP](https://southwarknews.co.uk/wp-content/uploads/2024/12/Neil-Coyle-1-scaled-e1622037874838-120x86.jpeg)](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-
-### [Neil Coyle MP to step down from select committee after being made political lead for London](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
-
-[8th December 2024](https://southwarknews.co.uk/area/bermondsey/neil-coyle-mp-to-step-down-from-select-committee-after-being-made-political-lead-for-london/)
 
 ### USEFUL PAGES
 
