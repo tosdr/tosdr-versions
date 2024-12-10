@@ -141,11 +141,11 @@
         Barrierearmut
         
     
-    [![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_d8838e4b04.jpg)](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/ "Wirksam Geld anlegen")
+    ![](/media/_processed_/6/b/csm_anlegen-oekonomisch-530x380_d8838e4b04.jpg)
     
     Wie anlegen?
     
-    Es gibt viele Wege, Geld sinnvoll und wirksam anzulegen. [Mehr Informationen](https://www.gls.de/sparen-investieren/ziele/wirksam-anlegen/)
+    Es gibt viele Wege, Geld sinnvoll und wirksam anzulegen. Mehr Informationen
     
     Barrierearmut
     
@@ -348,9 +348,9 @@ Datenschutz
 ===========
 
 Die Datenschutzerklärung der GLS Gemeinschaftsbank eG
-=====================================================
+-----------------------------------------------------
 
-Die GLS Bank erbringt für Sie Dienstleistungen im Bankbereich, bei denen Sie die Gewissheit haben, dass Ihr Geld positiv und nachhaltig wirkt. Unsere zukunftsweisende Bankarbeit nützt den Menschen, der Umwelt und hat auch ökonomischen Gewinn zur Folge. Dafür arbeiten wir mit Ihren Daten: um Ihre Aufträge zu erledigen, um Ihre Bedürfnisse kennenzulernen und einschätzen zu können und um die uns zur Verfügung gestellten Mittel möglichst effizient einzusetzen. Zudem möchten wir im Netz besser gefunden werden, um dem nachhaltigen Bankgeschäft mehr gesellschaftliche Wirkung zu verschaffen.
+Die GLS Bank erbringt  für Sie Dienstleistungen im Bankbereich, bei denen Sie die Gewissheit haben, dass Ihr Geld positiv und nachhaltig wirkt. Unsere zukunftsweisende Bankarbeit nützt den Menschen, der Umwelt und hat auch ökonomischen Gewinn zur Folge. Dafür arbeiten wir mit Ihren Daten: um Ihre Aufträge zu erledigen, um Ihre Bedürfnisse kennenzulernen und einschätzen zu können und um die uns zur Verfügung gestellten Mittel möglichst effizient einzusetzen. Zudem möchten wir im Netz besser gefunden werden, um dem nachhaltigen Bankgeschäft mehr gesellschaftliche Wirkung zu verschaffen.
 
 Wir sind so transparent wie möglich – auch im bewussten und vertraulichen Umgang mit Ihren Daten. Ihre personenbezogenen Informationen geben wir nicht unberechtigt an Dritte weiter, selbstverständlich werden wir diese auch nicht verkaufen. Im Folgenden erfahren Sie, wie wir die Daten, die wir von Ihnen als Besucher\*in unserer Onlinemedien erheben, verarbeiten und welche Rechte Sie aus dem Datenschutzrecht haben.  
   
@@ -358,41 +358,38 @@ Wir sind so transparent wie möglich – auch im bewussten und vertraulichen Umg
 GLS Gemeinschaftsbank eG  
 44774 Bochum  
 Telefon +49 234 5797 100  
-E-Mail: [kundendialog@gls.de](mailto:kundendialog@gls.de "E-Mail GLS Kundendialog")
+E-Mail: [kundendialog@gls.de](mailto:kundendialog@gls.de "E-Mail GLS Kundendialog")
 
 **Sie erreichen unseren Datenschutzbeauftragten unter:**  
 GLS Gemeinschaftsbank eG  
 Datenschutzbeauftragter  
 44774 Bochum  
 Telefon +49 234 5797 100  
-E-Mail: [datenschutz@gls.de](mailto:datenschutz@gls.de "E-Mail-Adresse des Datenschutzbeauftragten")   
+E-Mail: [datenschutz@gls.de](mailto:datenschutz@gls.de "E-Mail-Adresse des Datenschutzbeauftragten")   
   
-**Wichtiger Hinweis:** Unsere Angebote Webseite (https://www.gls.de), Onlinebanking ([https://www.gls-online-filiale.de](https://www.gls-online-filiale.de/ "GLS Online-Filiale - GLS Onlinebanking")), Kontoeröffnung ([https://kontoeroeffnung.gls.de](https://kontoeroeffnung.gls.de/ "GLS Kontoeröffnung")) und Blog ([https://blog.gls.de](https://blog.gls.de/ "GLS Bank Blog")) sind technisch voneinander getrennt.
+**Wichtiger Hinweis:** Unsere Angebote Webseite (https://www.gls.de), Onlinebanking ([https://www.gls-online-filiale.de](https://www.gls-online-filiale.de/ "GLS Online-Filiale - GLS Onlinebanking")), Kontoeröffnung ([https://kontoeroeffnung.gls.de](https://kontoeroeffnung.gls.de/ "GLS Kontoeröffnung")) und Blog ([https://blog.gls.de](https://blog.gls.de/ "GLS Bank Blog")) sind technisch voneinander getrennt. Die technische Trennung bewirkt lediglich, dass aufgrund der Sicherheitszertifikate und verwendeten Cookies unterschiedliche Domains zum Einsatz kommen. Die Datenschutzerklärung gilt jedoch gleichermaßen auch für diese Angebote.
 
-Ihre persönliche Privatsphäre: Cookies einstellen, deaktivieren und löschen
----------------------------------------------------------------------------
+### Ihre persönliche Privatsphäre: Cookies einstellen, deaktivieren und löschen
 
-Cookies unterstützen bestimmte Funktionen. Die Verwendung von **Cookies** können Sie jederzeit **in Ihrem Browser einstellen** und auch **deaktivieren**. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.
+Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.
 
-**Cookies**, die bereits gespeichert wurden, können Sie in den Systemeinstellungen Ihres Browsers **löschen**.
+Cookies, die bereits gespeichert wurden, können Sie in den Systemeinstellungen Ihres Browsers löschen.
 
-**Datenerhebung:** In den Privatsphäreneinstellungen können Sie der Datenerhebung durch unsere Auswertungsprogramme **widersprechen**. Bitte beachten Sie, Sie müssen jeweils **pro Browser** und Gerät widersprechen.
+Datenerhebung: Unter dem Navigationspunkt **"Cookies"** im Footer können Sie der Datenerhebung durch unsere Auswertungsprogramme widersprechen. Bitte beachten Sie, Sie müssen jeweils pro Browser und Gerät widersprechen.
 
 Details
 -------
 
-[Warum erheben wir persönliche Daten und welche Daten nutzen wir?](#q4054040533)
+[Warum erheben wir persönliche Daten und welche Daten nutzen wir?](#q9138591389)
 
-#### Warum erheben wir persönliche Daten?
-
+**Warum erheben wir persönliche Daten?**  
 Informationen, die wir von Ihnen erhalten, helfen uns, unsere Onlinepräsenz Ihren Bedürfnissen anzupassen, sie sinnvoll und nutzerfreundlich zu gestalten und immer wieder zu verbessern.
 
-#### Welche Daten nutzen wir?
-
-**1\. Informationen, die Sie uns geben**  
+**Welche Daten nutzen wir?**  
+1\. Informationen, die Sie uns geben  
 Wir erfassen und speichern alle Informationen, die Sie auf unserer Website eingeben oder uns in anderer Weise übermitteln. Sie können entscheiden, uns bestimmte Informationen nicht zu geben. Es kann sein, dass Sie in diesem Fall einige unserer Angebote nicht oder nur eingeschränkt nutzen können.
 
-**2\. Wir erheben automatisiert Informationen**  
+2\. Wir erheben automatisiert Informationen  
 Wenn Sie unsere Website besuchen, werden bestimmte Daten automatisch von unseren IT-Systemen erfasst.
 
 **Tracking-Daten**  
@@ -424,7 +421,7 @@ Unter Kampagnendaten wird zusammengefasst, mit welchem Werbemittel (z. B. ein On
 **Re-Targeting/Re-Marketing**  
 Wir wollen viele Menschen von der Idee und den Angeboten der GLS Bank berichten und ihnen vermitteln, wie wir gesellschaftlich wirken. Unser Ansatz ist es, mit möglichst effizient eingeschalteten Werbemedien auf uns aufmerksam zu machen.
 
-Um dies zu erreichen, nutzen wir die Re-Targeting-Technologien. Das Setzen eines Cookies ermöglicht es uns, unser Onlineangebot für Kund\*innen und Menschen, die Interesse an der GLS Bank haben, interessanter zu gestalten. Anhand der Daten werden auf diversen Medienseiten interessenbezogene Werbeeinblendungen zu unserem Angebot gezeigt. 
+Um dies zu erreichen, nutzen wir die Re-Targeting-Technologien. Das Setzen eines Cookies ermöglicht es uns, unser Onlineangebot für Kund\*innen und Menschen, die Interesse an der GLS Bank haben, interessanter zu gestalten. Anhand der Daten werden auf diversen Medienseiten interessenbezogene Werbeeinblendungen zu unserem Angebot gezeigt.
 
 Es werden keine unmittelbar personenbezogenen Daten gespeichert. Es werden auch keine Nutzungsprofile mit personenbezogenen Daten zu Ihnen zusammengeführt. Dies geschieht vollkommen anonym.
 
@@ -435,45 +432,53 @@ Wenn Sie unsere Website erstmals aufrufen, werden Sie gefragt, welcher Gruppe Si
 
 Wir nutzen die auf unseren Websites erhobenen Daten, um unter einem Pseudonym Nutzerprofile zu erstellen. Diese pseudonymen Nutzerprofile erlauben keinerlei Rückschlüsse auf Ihre Person. Ohne Ihre explizite Zustimmung findet keine Zusammenführung dieser Trackingdaten mit Ihren personenbezogenen Daten statt.
 
-[Auf welcher Rechtsgrundlage verarbeiten wir Daten?](#q4054040534)
+[Auf welcher Rechtsgrundlage verarbeiten wir Daten?](#q9138591409)
 
-Wir verarbeiten personenbezogene Daten im Einklang mit den Bestimmungen der Europäischen Datenschutz-Grundverordnung (DSGVO) und dem Bundesdatenschutzgesetz (BDSG).
+Maßgebliche Rechtsgrundlagen nach der DSGVO: Im Folgenden erhalten Sie eine Übersicht der Rechtsgrundlagen der DSGVO, auf deren Basis wir personenbezogene Daten verarbeiten. Bitte nehmen Sie zur Kenntnis, dass neben den Regelungen der DSGVO nationale Datenschutzvorgaben in Ihrem bzw. unserem Wohn- oder Sitzland gelten können. Sollten ferner im Einzelfall speziellere Rechtsgrundlagen maßgeblich sein, teilen wir Ihnen diese in der Datenschutzerklärung mit.
 
-[Rechte der betroffenen Personen](#q4054040736)
+* Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO) - Die betroffene Person hat ihre Einwilligung in die Verarbeitung der sie betreffenden personenbezogenen Daten für einen spezifischen Zweck oder mehrere bestimmte Zwecke gegeben.
+* Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b) DSGVO) - Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen.
+* Rechtliche Verpflichtung (Art. 6 Abs. 1 S. 1 lit. c) DSGVO) - Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich, der der Verantwortliche unterliegt.
+* Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO) - die Verarbeitung ist zur Wahrung der berechtigten Interessen des Verantwortlichen oder eines Dritten notwendig, vorausgesetzt, dass die Interessen, Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten verlangen, nicht überwiegen.
+
+Hinweis zur Angabe mehrerer Datenschutzgrundlagen: Je nach Konstellation, wie Art der Durchführung und beteiligte Personen, können für ein Verarbeitungsverfahren unterschiedliche Rechtsgrundlagen gelten. Beispielsweise kann die Erhebung statistischer Daten auf unserer Webseite entweder auf berechtigten Interessen oder auf Einwilligung basieren. In unserer Datenschutzerklärung informieren wir Sie über die jeweils eingesetzten Rechtsgrundlagen. Im Fall der Einwilligung bitten wir Sie ausdrücklich um deren Erteilung, sodass die Verarbeitung Ihrer personenbezogenen Daten auf Grundlage der Einwilligung als solche erkennbar ist. Bei Fragen zu den konkreten Rechtsgrundlagen stehen wir Ihnen gerne zur Verfügung. 
+
+Nationale Datenschutzregelungen in Deutschland: Zusätzlich zu den Datenschutzregelungen der DSGVO gelten nationale Regelungen zum Datenschutz in Deutschland. Hierzu gehört insbesondere das Gesetz zum Schutz vor Missbrauch personenbezogener Daten bei der Datenverarbeitung (Bundesdatenschutzgesetz – BDSG). Das BDSG enthält insbesondere Spezialregelungen zum Recht auf Auskunft, zum Recht auf Löschung, zum Widerspruchsrecht, zur Verarbeitung besonderer Kategorien personenbezogener Daten, zur Verarbeitung für andere Zwecke und zur Übermittlung sowie automatisierten Entscheidungsfindung im Einzelfall einschließlich Profiling.
+
+[Widerspruchsrecht und weitere Rechte der betroffenen Personen](#q9138591391)
 
 Ihnen stehen als Betroffene\*r nach der DSGVO verschiedene Rechte zu, die sich aus Art. 15 bis 21 DSGVO ergeben:
 
-**Widerspruchsrecht (nach Artikel 21 DSGVO)**  
-Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen.  
-  
-Ihren Widerspruch richten Sie an [kundendialog@gls.de](mailto:kundendialog@gls.de "Mail an kundendialog@gls.de")
+**Widerspruchsrecht (nach Artikel 21 DSGVO)**  
+Sie haben das Recht, aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f DSGVO erfolgt, Widerspruch einzulegen. Werden die Sie betreffenden personenbezogenen Daten verarbeitet, um Direktwerbung zu betreiben, haben Sie das Recht, jederzeit Widerspruch gegen die Verarbeitung der Sie betreffenden personenbezogenen Daten zum Zwecke derartiger Werbung einzulegen.
 
-**Auskunftsrecht (nach Artikel 15 DSGVO)**  
-Sie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
+Ihren Widerspruch richten Sie an [kundendialog@gls.de](mailto:kundendialog@gls.de)
 
-Ihre Anfrage richten Sie bitte an [datenschutz@gls.de](mailto:datenschutz@gls.de) 
+**Auskunftsrecht (nach Artikel 15 DSGVO)**  
+ie haben das Recht, eine Bestätigung darüber zu verlangen, ob betreffende Daten verarbeitet werden und auf Auskunft über diese Daten sowie auf weitere Informationen und Kopie der Daten entsprechend den gesetzlichen Vorgaben.
 
-**Recht auf Berichtigung (nach Artikel 16 DSGVO)**  
-Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
+Ihre Anfrage richten Sie bitte an [datenschutz@gls.de](mailto:datenschutz@gls.de)
 
-**Recht auf Löschung und Einschränkung der Verarbeitung (nach Artikel 17 und 18 DSGVO)**  
-Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach  
-Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
+**Recht auf Berichtigung (nach Artikel 16 DSGVO)**  
+Sie haben entsprechend den gesetzlichen Vorgaben das Recht, die Vervollständigung der Sie betreffenden Daten oder die Berichtigung der Sie betreffenden unrichtigen Daten zu verlangen.
 
-**Recht auf Datenübertragbarkeit (nach Artikel 20 DSGVO)**  
-Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an eine/n andere/n Verantwortliche\*n zu fordern.
+**Recht auf Löschung und Einschränkung der Verarbeitung (nach Artikel 17 und 18 DSGVO)**  
+Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht zu verlangen, dass Sie betreffende Daten unverzüglich gelöscht werden, bzw. alternativ nach Maßgabe der gesetzlichen Vorgaben eine Einschränkung der Verarbeitung der Daten zu verlangen.
 
-**Beschwerde bei Aufsichtsbehörde (nach** **Art. 77 DSGVO**)  
-Entsprechend den gesetzlichen Vorgaben und unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs, haben Sie ferner das Recht, bei einer Datenschutzaufsichtsbehörde, insbesondere einer Aufsichtsbehörde im Mitgliedstaat, in dem Sie sich gewöhnlich aufhalten, der Aufsichtsbehörde Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, eine Beschwerde einzulegen, wenn Sie der Ansicht sei sollten, dass die Verarbeitung der Ihre Person betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
+**Recht auf Datenübertragbarkeit (nach Artikel 20 DSGVO)**  
+Sie haben das Recht, Sie betreffende Daten, die Sie uns bereitgestellt haben, nach Maßgabe der gesetzlichen Vorgaben in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten oder deren Übermittlung an eine/n andere/n Verantwortliche\*n zu fordern.
+
+**Beschwerde bei Aufsichtsbehörde (nach Art. 77 DSGVO)**  
+Entsprechend den gesetzlichen Vorgaben und unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs, haben Sie ferner das Recht, bei einer Datenschutzaufsichtsbehörde, insbesondere einer Aufsichtsbehörde im Mitgliedstaat, in dem Sie sich gewöhnlich aufhalten, der Aufsichtsbehörde Ihres Arbeitsplatzes oder des Ortes des mutmaßlichen Verstoßes, eine Beschwerde einzulegen, wenn Sie der Ansicht sei sollten, dass die Verarbeitung der Ihre Person betreffenden personenbezogenen Daten gegen die DSGVO verstößt.
 
 Zuständige Datenschutzaufsichtsbehörde für die GLS Bank ist die Landesbeauftragte für Datenschutz und Informationsfreiheit, Düsseldorf.
 
 **Widerrufsrecht bei Einwilligungen (nach Artikel 7 DSGVO)**  
-Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
+Sie haben nach Maßgabe der gesetzlichen Vorgaben das Recht, erteilte Einwilligungen jederzeit zu widerrufen.
 
 Ihren Widerruf richten Sie bitte telefonisch an +49 234 57 97 100
 
-[Wer erhält Ihre Daten?](#q4054040535)
+[Wer erhält Ihre Daten?](#q9138591393)
 
 Innerhalb der Bank erhalten diejenigen Stellen Zugriff auf Ihre Daten, die diese zur Erfüllung unserer vertraglichen und gesetzlichen Pflichten brauchen.
 
@@ -482,22 +487,28 @@ Innerhalb der Bank erhalten diejenigen Stellen Zugriff auf Ihre Daten, die diese
 
 Die Weitergabe Ihrer Daten an Dritte erfolgt ausschließlich zur Erledigung von Aufträgen und auf der Grundlage entsprechender Verträge mit dem jeweiligen Dritten.
 
-[Webanalyse, Monitoring und Optimierung](#q4054040710)
+**Internationale Datentransfers**
 
-Die Webanalyse (auch als "Reichweitenmessung" bezeichnet) dient der Auswertung der Besucherströme unseres Onlineangebotes. Mit Hilfe der Reichweitenanalyse können wir z.B. erkennen, zu welcher Zeit unser Onlineangebot oder dessen Funktionen oder Inhalte am häufigsten genutzt werden oder zur Wiederverwendung einladen. Ebenso können wir nachvollziehen, welche Bereiche verbessert werden sollten.
+Datenverarbeitung in Drittländern: Sofern wir Daten in einem Drittland (d. h., außerhalb der Europäischen Union (EU), des Europäischen Wirtschaftsraums (EWR)) verarbeiten oder die Verarbeitung im Rahmen der Inanspruchnahme von Diensten Dritter oder der Offenlegung bzw. Übermittlung von Daten an andere Personen, Stellen oder Unternehmen stattfindet, erfolgt dies nur im Einklang mit den gesetzlichen Vorgaben. Sofern das Datenschutzniveau in dem Drittland mittels eines Angemessenheitsbeschlusses anerkannt wurde (Art. 45 DSGVO), dient dieser als Grundlage des Datentransfers. Im Übrigen erfolgen Datentransfers nur dann, wenn das Datenschutzniveau anderweitig gesichert ist, insbesondere durch Standardvertragsklauseln (Art. 46 Abs. 2 lit. c) DSGVO), ausdrückliche Einwilligung oder im Fall vertraglicher oder gesetzlich erforderlicher Übermittlung (Art. 49 Abs. 1 DSGVO). Im Übrigen teilen wir Ihnen die Grundlagen der Drittlandübermittlung bei den einzelnen Anbietern aus dem Drittland mit, wobei die Angemessenheitsbeschlüsse als Grundlagen vorrangig gelten. Informationen zu Drittlandtransfers und vorliegenden Angemessenheitsbeschlüssen können dem Informationsangebot der EU-Kommission entnommen werden: [https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection\_en?prefLang=de](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection_en?prefLang=de).
 
-Neben der Webanalyse können wir auch Testverfahren einsetzen, um z.B. unterschiedliche Versionen unseres Onlineangebotes oder seiner Bestandteile zu testen und optimieren.
+EU-US Trans-Atlantic Data Privacy Framework: Im Rahmen des sogenannten „Data Privacy Framework" (DPF) hat die EU-Kommission das Datenschutzniveau ebenfalls für bestimmte Unternehmen aus den USA im Rahmen der Angemessenheitsbeschlusses vom 10.07.2023 als sicher anerkannt. Die Liste der zertifizierten Unternehmen als auch weitere Informationen zu dem DPF können Sie der Website des Handelsministeriums der USA unter [www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/) (in Englisch) entnehmen. Wir informieren Sie im Rahmen der Datenschutzhinweise, welche von uns eingesetzten Diensteanbieter unter dem Data Privacy Framework zertifiziert sind.
+
+[Webanalyse, Monitoring und Optimierung](#q9138591395)
+
+Die Webanalyse (auch als "Reichweitenmessung" bezeichnet) dient der Auswertung der Besucherströme unseres Onlineangebotes. Mit Hilfe der Reichweitenanalyse können wir z.B. erkennen, zu welcher Zeit unser Onlineangebot oder dessen Funktionen oder Inhalte am häufigsten genutzt werden oder zur Wiederverwendung einladen. Ebenso können wir nachvollziehen, welche Bereiche verbessert werden sollten.
+
+Neben der Webanalyse können wir auch Testverfahren einsetzen, um z.B. unterschiedliche Versionen unseres Onlineangebotes oder seiner Bestandteile zu testen und optimieren.
 
 Eine automatisierte Entscheidungsfindung einschließlich Profiling gemäß Art 22 Abs 1 und 4 DSGVO findet durch uns nicht statt.
 
 **Verarbeitete Datenarten**  
-Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
+Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen).
 
 **Betroffene Personen**  
-Nutzer\*innen (z.B. Webseitenbesucher\*innen, Nutzer\*innen von Onlinediensten)
+Nutzer\*innen (z.B. Webseitenbesucher\*innen, Nutzer\*innen von Onlinediensten)
 
 **Zwecke der Verarbeitung**  
-Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher\*innen)
+Reichweitenmessung (z.B. Zugriffsstatistiken, Erkennung wiederkehrender Besucher\*innen)
 
 **Sicherheitsmaßnahmen**  
 IP-Masking (Pseudonymisierung der IP-Adresse)
@@ -509,19 +520,14 @@ Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); berechtigte Interessen (Art. 6 
 
 **Matomo**
 
-Für die statistischen Auswertungen nutzen wir die Open-Source-Web-Analyse Software Matomo (früher Piwik) auf einem GLS Bank-eigenen Server.
+Für statistische Auswertungen der Nutzung unserer Internetangebote nutzen wir die Open-Source-Web-Analyse-Software Matomo auf einem GLS-Bank-eigenen Server. Matomo dient der Webanalyse und Reichweitenmessung und wird je nach Einsatzszenario sowohl mit als auch ohne die Verwendung von Cookies eingesetzt.
 
-Bei Matomo handelt es sich um eine Software, die zu Zwecken der Webanalyse und Reichweitenmessung eingesetzt wird.
+Bei der Nutzung ohne Cookies erfolgt die Verarbeitung der Daten der Nutzer\*innen auf Grundlage unserer berechtigten Interessen an der Messung der Nutzung unseres Angebots und dessen Verbesserung anhand dieser Informationen (Art. 6 Abs. 1 lit. f DSGVO, § 25 Abs. 2 Nr. 2 TTDSG).
 
-Im Rahmen der Nutzung von Matomo werden Cookies erzeugt und auf dem Endgerät der Nutzer\*innen gespeichert. Die im Rahmen der Nutzung von Matomo erhobenen Daten der Nutzer\*innen werden nur von uns verarbeitet und nicht mit Dritten geteilt. Die Cookies werden für einen maximalen Zeitraum von 13 Monaten gespeichert: [matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
+Im Fall der Verwendung von Matomo mit Cookies bitten wir die Nutzer\*innen zuvor um ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TTDSG).
 
-Darüber hinaus setzen wir Matomo für ein zustimmungsfreies Tracking ein.
+Verarbeitete Datenarten:
 
-Rechtsgrundlage für die Erhebung und Anonymisierung Ihrer IP-Adresse ist Art. 6 Abs. 1 lit. f) DSGVO, § 25 Abs. 2 Nr. 2 TTDSG. Die Anonymisierung der IP-Adresse zur datenschutzfreundlichen Auswertung der Webseitennutzung stellt unser berechtigtes Interesse dar. Es ist mangels Herstellung eines Personenbezugs nicht möglich, der Verarbeitung zu widersprechen.
-
-Daneben erfolgt ein erweitertes zustimmungspflichtiges Tracking auf Basis von Cookies, im Rahmen dessen folgende personenbezogene Daten erhoben werden:
-
-* IP-Adresse
 * Nutzer-ID
 * Wiederkehrende Besuche mit Bezug auf Häufigkeit und Verweildauer
 * Aktionen wiederkehrender Besucher und Absprungraten im Vergleich zu einmaligen Besuchern
@@ -530,73 +536,77 @@ Daneben erfolgt ein erweitertes zustimmungspflichtiges Tracking auf Basis von Co
 * Ausgehende Verweise
 * die Erfassung von Ereignissen
 * der Besucherfluss auf der Seite
+* Gekürzte IP-Adresse.
+* Pseudonyme Nutzer-Identifikationsnummer.
 
-Rechtsgrundlage für die Verarbeitung von Daten die durch das Setzen von Cookies und damit dem Zugriff auf das Endgerät erfolgt, ist Ihre Einwilligung nach Art. 6 Abs. 1 lit. a) der DSGVO, § 25 Abs. 1 S. 1 TTDSG. Dieses Verfahren berücksichtigt dabei die notwendigen Datenschutzanforderungen.
+Matomo ist so eingestellt, dass die IP-Adressen nicht vollständig gespeichert werden, sondern 2 Bytes der IP-Adresse maskiert werden (Bsp.: 192.168.xxx.xxx). Auf diese Weise ist eine Zuordnung der gekürzten IP-Adresse zum aufrufenden Rechner nicht mehr möglich. Aufgrund der fehlenden Personenbezugsmöglichkeit ist ein Widerspruch gegen die Verarbeitung nicht möglich.
 
-Die Software ist so eingestellt, dass die IP-Adressen nicht vollständig gespeichert werden, sondern 2 Bytes der IP-Adresse maskiert werden (Bsp.: 192.168.xxx.xxx). Auf diese Weise ist eine Zuordnung der gekürzten IP-Adresse zum aufrufenden Rechner nicht mehr möglich.
+Im Rahmen der Nutzung von Matomo mit Cookies werden Cookies auf dem Endgerät der Nutzer\*innen gespeichert. Die im Rahmen der Nutzung von Matomo erhobenen Daten der Nutzer\*innen werden nur von uns verarbeitet und nicht mit Dritten geteilt. Die Cookies werden für einen maximalen Zeitraum von 13 Monaten gespeichert: [matomo.org/faq/general/faq\_146/](https://matomo.org/faq/general/faq_146/)
 
 Sie haben jederzeit die Möglichkeit die von Ihnen erteilte Einwilligung zum Setzen von Cookies im Bereich "Cookies", im Fuße der Seite, zu widerrufen. Darüber hinaus können Sie die Möglichkeit das Zustimmungsfreie-Tracking zu unterbinden nutzen, indem Sie die Datenschutzerklärung aufrufen und sich unterhalb des Abschnitts "Details" aus dem zustimmungsfreien Tracking, mit Wirkung für die Zukunft auszuschließen. Durch diesen Widerruf wird die Rechtmäßigkeit der bisher erfolgten Verarbeitung der Daten nicht berührt.
 
-[Onlinemarketing](#q4054040711)
+[Onlinemarketing](#q9138591397)
 
-Wir verarbeiten personenbezogene Daten zu Zwecken des Onlinemarketings, worunter insbesondere die Vermarktung von Werbeflächen oder Darstellung von werbenden und sonstigen Inhalten (zusammenfassend als "Inhalte" bezeichnet) anhand potentieller Interessen der Nutzer\*innen sowie die Messung ihrer Effektivität fallen kann.
+Wir verarbeiten personenbezogene Daten zu Zwecken des Onlinemarketings, worunter insbesondere die Vermarktung von Werbeflächen oder Darstellung von werbenden und sonstigen Inhalten (zusammenfassend als "Inhalte" bezeichnet) anhand potentieller Interessen der Nutzer\*innen sowie die Messung ihrer Effektivität fallen kann.
 
-Zu diesen Zwecken werden sogenannte Nutzerprofile angelegt und in einer Datei (sogenannte "Cookie") gespeichert oder ähnliche Verfahren genutzt, mittels derer die für die Darstellung der vorgenannten Inhalte relevante Angaben zum/zur Nutzer\*in gespeichert werden. Zu diesen Angaben können z.B. betrachtete Inhalte, besuchte Webseiten, genutzte Onlinenetzwerke, aber auch technische Angaben, wie der verwendete Browser, das verwendete Computersystem sowie Angaben zu Nutzungszeiten und genutzten Funktionen gehören. Sofern Nutzer\*innen in die Erhebung ihrer Standortdaten eingewilligt haben, können auch diese verarbeitet werden.
+Zu diesen Zwecken werden sogenannte Nutzerprofile angelegt und in einer Datei (sogenannte "Cookie") gespeichert oder ähnliche Verfahren genutzt, mittels derer die für die Darstellung der vorgenannten Inhalte relevante Angaben zum/zur Nutzer\*in gespeichert werden. Zu diesen Angaben können z.B. betrachtete Inhalte, besuchte Webseiten, genutzte Onlinenetzwerke, aber auch technische Angaben, wie der verwendete Browser, das verwendete Computersystem sowie Angaben zu Nutzungszeiten und genutzten Funktionen gehören. Sofern Nutzer\*innen in die Erhebung ihrer Standortdaten eingewilligt haben, können auch diese verarbeitet werden.
 
-Es werden ebenfalls die IP-Adressen der Nutzer\*innen gespeichert. Jedoch nutzen wir zur Verfügung stehende IP-Masking-Verfahren (d.h. Pseudonymisierung durch Kürzung der IP-Adresse) zum Schutz der Nutzer\*innen. Generell werden im Rahmen des Onlinemarketingverfahrens **keine Klardaten** der Nutzer\*innen (wie z.B. E-Mail-Adressen oder Namen) **gespeichert**, sondern Pseudonyme. D.h., wir als auch die Anbieter der Onlinemarketingverfahren kennen nicht die tatsächliche Identität der Nutzer\*innen, sondern nur die in deren Profilen gespeicherten Angaben.
+Es werden ebenfalls die IP-Adressen der Nutzer\*innen gespeichert. Jedoch nutzen wir zur Verfügung stehende IP-Masking-Verfahren (d.h. Pseudonymisierung durch Kürzung der IP-Adresse) zum Schutz der Nutzer\*innen. Generell werden im Rahmen des Onlinemarketingverfahrens keine Klardaten der Nutzer\*innen (wie z.B. E-Mail-Adressen oder Namen) gespeichert, sondern Pseudonyme. D.h., wir als auch die Anbieter der Onlinemarketingverfahren kennen nicht die tatsächliche Identität der Nutzer\*innen, sondern nur die in deren Profilen gespeicherten Angaben.
 
-Die Angaben in den Profilen werden im Regelfall in den Cookies oder mittels ähnlicher Verfahren gespeichert. Diese Cookies können später generell auch auf anderen Webseiten, die dasselbe Onlinemarketingverfahren einsetzen, ausgelesen und zu Zwecken der Darstellung von Inhalten analysiert als auch mit weiteren Daten ergänzt und auf dem Server des Onlinemarketingverfahrensanbieters gespeichert werden.
+Die Angaben in den Profilen werden im Regelfall in den Cookies oder mittels ähnlicher Verfahren gespeichert. Diese Cookies können später generell auch auf anderen Webseiten, die dasselbe Onlinemarketingverfahren einsetzen, ausgelesen und zu Zwecken der Darstellung von Inhalten analysiert als auch mit weiteren Daten ergänzt und auf dem Server des Onlinemarketingverfahrensanbieters gespeichert werden.
 
-Wir erhalten grundsätzlich nur Zugang zu zusammengefassten Informationen über den Erfolg unserer Werbeanzeigen. Jedoch können wir im Rahmen sogenannter Konversionsmessungen prüfen, welche unserer Onlinemarketingverfahren zu einer sogenannten Konversion geführt haben, d.h. z.B. zu einem Vertragsschluss mit uns. Die Konversionsmessung wird alleine zur Analyse des Erfolgs unserer Marketingmaßnahmen verwendet. 
+Wir erhalten grundsätzlich nur Zugang zu zusammengefassten Informationen über den Erfolg unserer Werbeanzeigen. Jedoch können wir im Rahmen sogenannter Konversionsmessungen prüfen, welche unserer Onlinemarketingverfahren zu einer sogenannten Konversion geführt haben, d.h. z.B. zu einem Vertragsschluss mit uns. Die Konversionsmessung wird allein zur Analyse des Erfolgs unserer Marketingmaßnahmen verwendet.
 
-Solange nicht anders angegeben, bitten wir Sie davon auszugehen, dass verwendete Cookies für einen Zeitraum von zwei Jahren gespeichert werden.
+Solange nicht anders angegeben, bitten wir Sie davon auszugehen, dass verwendete Cookies für einen Zeitraum von zwei Jahren gespeichert werden.
 
 **Hinweise zu Rechtsgrundlagen**  
-Sofern wir die Nutzer\*innen um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer\*innen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
+Sofern wir die Nutzer\*innen um deren Einwilligung in den Einsatz der Drittanbieter bitten, ist die Rechtsgrundlage der Verarbeitung von Daten die Einwilligung. Ansonsten werden die Daten der Nutzer\*innen auf Grundlage unserer berechtigten Interessen (d.h. Interesse an effizienten, wirtschaftlichen und empfängerfreundlichen Leistungen) verarbeitet. In diesem Zusammenhang möchten wir Sie auch auf die Informationen zur Verwendung von Cookies in dieser Datenschutzerklärung hinweisen.
 
 **Verarbeitete Datenarten**  
-Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen)
+Nutzungsdaten (z.B. besuchte Webseiten, Interesse an Inhalten, Zugriffszeiten); Meta-/Kommunikationsdaten (z.B. Geräte-Informationen, IP-Adressen)
 
 **Betroffene Personen**  
-Nutzer\*innen (z.B. Webseitenbesucher\*innen, Nutzer\*innen von Onlinediensten)
+Nutzer\*innen (z.B. Webseitenbesucher\*innen, Nutzer\*innen von Onlinediensten)
 
 **Zwecke der Verarbeitung**  
-Marketing; Profile mit nutzerbezogenen Informationen (Erstellen von Nutzerprofilen); Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen)
+Marketing; Profile mit nutzerbezogenen Informationen (Erstellen von Nutzerprofilen); Konversionsmessung (Messung der Effektivität von Marketingmaßnahmen)
 
 **Sicherheitsmaßnahmen**  
 IP-Masking (Pseudonymisierung der IP-Adresse)
 
 **Rechtsgrundlagen**  
-Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO)
+Einwilligung (Art. 6 Abs. 1 S. 1 lit. a. DSGVO); Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO)
 
 **Widerspruchsmöglichkeit (Opt-Out)**  
-Wir verweisen auf die Datenschutzhinweise der jeweiligen Anbieter und die zu den Anbietern angegebenen Widerspruchsmöglichkeiten (sog. "Opt-Out"). Sofern keine explizite Opt-Out-Möglichkeit angegeben wurde, besteht zum einen die Möglichkeit, dass Sie Cookies in den Einstellungen Ihres Browsers abschalten. Hierdurch können jedoch Funktionen unseres Onlineangebotes eingeschränkt werden. Wir empfehlen daher zusätzlich die folgenden Opt-Out-Möglichkeiten, die zusammenfassend auf jeweilige Gebiete gerichtet angeboten werden:  
-a) Europa: [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)  
-b) Kanada: [https://www.youradchoices.ca/choices](https://www.youradchoices.ca/choices)  
-c) USA: [https://www.aboutads.info/choices](https://www.aboutads.info/choices)   
-d) Gebietsübergreifend: [https://optout.aboutads.info](https://optout.aboutads.info/) 
+Wir verweisen auf die Datenschutzhinweise der jeweiligen Anbieter und die zu den Anbietern angegebenen Widerspruchsmöglichkeiten (sog. "Opt-Out"). Sofern keine explizite Opt-Out-Möglichkeit angegeben wurde, besteht zum einen die Möglichkeit, dass Sie Cookies in den Einstellungen Ihres Browsers abschalten. Hierdurch können jedoch Funktionen unseres Onlineangebotes eingeschränkt werden. Wir empfehlen daher zusätzlich die folgenden Opt-Out-Möglichkeiten, die zusammenfassend auf jeweilige Gebiete gerichtet angeboten werden:
 
-**Google Ads**  
-Wir verwenden Google Ads. Google Ads ist ein Online-Werbeprogramm der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.  
-  
-Google Ads ermöglicht es Werbeanzeigen in der Google-Suchmaschine oder auf Drittwebseiten auszuspielen, wenn der Nutzer bestimmte Suchbegriffe bei Google eingibt (Keyword-Targeting). Ferner können zielgerichtete Werbeanzeigen anhand der bei Google vorhandenen Nutzerdaten (z. B. Standortdaten und Interessen) ausgespielt werden (Zielgruppen-Targeting). Wir als Websitebetreiber haben keine Einsicht in bzw. Zugriff auf diese Nutzerdaten. Die Nutzeranalyse findet ausschließlich durch Google statt.  
-  
-Seitens des Websitebetreibers findet in diesem Zusammenhang lediglich eine serverseitige Rückführung von Daten statt. Wenn der Besucher über eine Google-Suche auf unsere Webseite kommt, weist Google dem Nutzer eine Click-ID zu. Für den Webseitenbetreiber handelt es sich hierbei um ein anonymes Datum über welches keine Identifikation des Benutzers möglich ist. Wenn der Träger dieser Click-ID auf unserer Website ein Event (z. B. einen Warenkauf) auslöst, sendet die Website diese Information zusammen mit dem Wert des Warenkaufs und dem Zeitpunkt des Kaufs an Google zurück.  
-  
+a) Europa: [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/)   
+b) Kanada: [https://www.youradchoices.ca/choices](https://www.youradchoices.ca/choices)   
+c) USA: [https://www.aboutads.info/choices](https://www.aboutads.info/choices)   
+d) Gebietsübergreifend: [https://optout.aboutads.info](https://optout.aboutads.info/) 
+
+**Google Ads**
+
+Wir verwenden Google Ads. Google Ads ist ein Online-Werbeprogramm der Google Ireland Limited („Google“), Gordon House, Barrow Street, Dublin 4, Irland.
+
+Google Ads ermöglicht es Werbeanzeigen in der Google-Suchmaschine oder auf Drittwebseiten auszuspielen, wenn der Nutzer bestimmte Suchbegriffe bei Google eingibt (Keyword-Targeting). Ferner können zielgerichtete Werbeanzeigen anhand der bei Google vorhandenen Nutzerdaten (z. B. Standortdaten und Interessen) ausgespielt werden (Zielgruppen-Targeting). Wir als Websitebetreiber haben keine Einsicht in bzw. Zugriff auf diese Nutzerdaten. Die Nutzeranalyse findet ausschließlich durch Google statt.
+
+Seitens des Websitebetreibers findet in diesem Zusammenhang lediglich eine serverseitige Rückführung von Daten statt. Wenn der Besucher über eine Google-Suche auf unsere Webseite kommt, weist Google dem Nutzer eine Click-ID zu. Für den Webseitenbetreiber handelt es sich hierbei um ein anonymes Datum über welches keine Identifikation des Benutzers möglich ist. Wenn der Träger dieser Click-ID auf unserer Website ein Event (z. B. einen Warenkauf) auslöst, sendet die Website diese Information zusammen mit dem Wert des Warenkaufs und dem Zeitpunkt des Kaufs an Google zurück.
+
 Konkret werden hierbei folgende Daten übertragen: Anonyme Click-ID, Event-Name (z. B. „Warenkauf“), ggf. Wert des Kaufs, Zeitpunkt des Kaufs. Google verwertet diese Daten intern weiter.
 
 Da es sich für den Webseitenbetreiber hierbei nicht um personenbezogene Daten handelt, ist für diese Verarbeitung keine Rechtsgrundlage notwendig. Im Zweifelsfall wird diese Verarbeitung jedoch auf das berechtigte Interesse gem. Art. 6 Abs. 1 lit. f) DSGVO gestützt.
 
-Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: [https://marketingplatform.google.com](https://marketingplatform.google.com/); Datenschutzerklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy); Weitere Informationen: Arten der Verarbeitung sowie der verarbeiteten Daten: [https://privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices); Datenverarbeitungsbedingungen für Google Werbeprodukte: Informationen zu den Diensten Datenverarbeitungsbedingungen zwischen Verantwortlichen und Standardvertragsklauseln für Drittlandtransfers von Daten: [https://business.safety.google/adscontrollerterms](https://business.safety.google/adscontrollerterms) 
+Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: [https://marketingplatform.google.com](https://marketingplatform.google.com/); Datenschutzerklärung: [https://policies.google.com/privacy](https://policies.google.com/privacy); Weitere Informationen: Arten der Verarbeitung sowie der verarbeiteten Daten: [https://privacy.google.com/businesses/adsservices](https://privacy.google.com/businesses/adsservices); Datenverarbeitungsbedingungen für Google Werbeprodukte: Informationen zu den Diensten Datenverarbeitungsbedingungen zwischen Verantwortlichen und Standardvertragsklauseln für Drittlandtransfers von Daten: [https://business.safety.google/adscontrollerterms](https://business.safety.google/adscontrollerterms); Grundlage Drittlandtransfers: Data Privacy Framework (DPF); 
 
 **Microsoft Advertising**  
-Wir nutzen das Onlinemarketingverfahren "Microsoft Advertising", um Anzeigen im Ecosia-Werbe-Netzwerk und Bing zu platzieren (z.B. in Suchergebnissen, in Videos, auf Webseiten, etc.), damit sie Nutzer\*innen angezeigt werden, die ein mutmaßliches Interesse an den Anzeigen haben (sog. "Konversion"). Ferner messen wir die Konversion der Anzeigen. Wir erfahren jedoch nur die anonyme Gesamtanzahl der Nutzer\*innen, die auf unsere Anzeige geklickt haben und zu einer mit einem sog. "Conversion-Tracking-Tag" versehenen Seite weitergeleitet wurden. Wir selbst erhalten jedoch keine Informationen, mit denen sich Nutzer\*innen identifizieren lassen.  
-  
-Microsoft Advertising: Remarketing / Konversionsmessung; Dienstanbieter: Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399, USA; Website: [https://about.ads.microsoft.com/](https://about.ads.microsoft.com/); Datenschutzerklärung: [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement);  Widerspruchsmöglichkeit (Opt-Out): [https://choice.microsoft.com/de-DE/opt-out](https://choice.microsoft.com/de-DE/opt-out).
+Wir nutzen das Onlinemarketingverfahren "Microsoft Advertising", um Anzeigen im Ecosia-Werbe-Netzwerk und Bing zu platzieren (z.B. in Suchergebnissen, in Videos, auf Webseiten, etc.), damit sie Nutzer\*innen angezeigt werden, die ein mutmaßliches Interesse an den Anzeigen haben (sog. "Konversion"). Ferner messen wir die Konversion der Anzeigen. Wir erfahren jedoch nur die anonyme Gesamtanzahl der Nutzer\*innen, die auf unsere Anzeige geklickt haben und zu einer mit einem sog. "Conversion-Tracking-Tag" versehenen Seite weitergeleitet wurden. Wir selbst erhalten jedoch keine Informationen, mit denen sich Nutzer\*innen identifizieren lassen.
 
-[Friendly Captcha (Bot/Spam-Schutz)](#q4054075965)
+Dienstanbieter: Microsoft Irland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, D18 P521, Irland; Rechtsgrundlagen: Einwilligung (Art. 6 Abs. 1 S. 1 lit. a) DSGVO), Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f) DSGVO); Website: [https://about.ads.microsoft.com/en-us](https://about.ads.microsoft.com/en-us); Datenschutzerklärung: [https://privacy.microsoft.com/de-de/privacystatement](https://privacy.microsoft.com/de-de/privacystatement); Grundlage Drittlandtransfers: Data Privacy Framework (DPF); Widerspruchsmöglichkeit (Opt-Out): [https://account.microsoft.com/privacy/ad-settings/](https://account.microsoft.com/privacy/ad-settings/).
 
-Unsere Webseite nutzt den Dienst „Friendly Captcha“ ([www.friendlycaptcha.com](http://www.friendlycaptcha.com/ "Friendly Captcha")). 
+[Friendly Captcha (Bot/Spam-Schutz)](#q9138591399)
+
+Unsere Webseite nutzt den Dienst „Friendly Captcha“ ([www.friendlycaptcha.com](https://www.friendlycaptcha.com/)).
 
 Dieser Dienst ist ein Angebot der Friendly Captcha GmbH, Am Anger 3-5, 82237 Wörthsee, Deutschland.
 
@@ -614,9 +624,9 @@ Wenn personenbezogene Daten gespeichert werden, werden diese Daten binnen 30 Tag
 
 Rechtsgrundlage für die Verarbeitung sind unsere berechtigten Interessen am Schutz unserer Webseite vor missbräuchlichen Zugriff durch Bots, mithin dem Spam-Schutz und dem Schutz vor Angriffen (z.B. Massenanfragen), Art. 6 Abs. 1 lit. f DSGVO.
 
-Weitere Informationen zum Datenschutz beim Einsatz von Friendly Captcha finden Sie unter [https://friendlycaptcha.com/legal/privacy-end-users/](https://friendlycaptcha.com/legal/privacy-end-users/ "Friendly Captcha")
+Weitere Informationen zum Datenschutz beim Einsatz von Friendly Captcha finden Sie unter [https://friendlycaptcha.com/legal/privacy-end-users/](https://friendlycaptcha.com/legal/privacy-end-users/) 
 
-[Informationen zu Cookies](#q4054040536)
+[Informationen zu Cookies](#q9138591401)
 
 Cookies sind kleine Textdateien bzw. sonstige Speichervermerke, die Informationen auf Endgeräten speichern und Informationen aus den Endgeräten auslesen. Cookies können zu unterschiedlichen Zwecken eingesetzt werden, z.B. für die Funktionsfähigkeit, Sicherheit und den Komfort von Onlineangeboten sowie die Analyse der Besucherströme. Sie richten auf Ihrem Rechner keinen Schaden an, sie enthalten keine Schadsoftware.
 
@@ -625,15 +635,13 @@ Die Verwendung können Sie individuell einstellen. Sehen Sie sich dazu oben unse
 **Hinweise zur Einwilligung**  
 Wir setzen Cookies im Einklang mit den gesetzlichen Vorschriften ein. Daher holen wir von den Nutzer\*innen eine vorhergehende Einwilligung ein, außer wenn diese gesetzlich nicht gefordert ist. Eine Einwilligung ist insbesondere nicht notwendig, wenn das Speichern und das Auslesen der Informationen, also auch von Cookies, unbedingt erforderlich sind, um den Nutzer\*innen einen von ihnen ausdrücklich gewünschten Telemediendienst (also unser Onlineangebot) zur Verfügung zu stellen. Wir weisen die Nutzer\*innen deutlich auf die widerrufliche Einwilligung hin und informieren zu der jeweiligen Cookie-Nutzung.
 
-**Hinweise zu datenschutzrechtlichen Rechtsgrundlagen**  
-Auf welcher datenschutzrechtlichen Rechtsgrundlage wir die personenbezogenen Daten der Nutzer\*innen mit Hilfe von Cookies verarbeiten, hängt davon ab, ob wir Nutzer\*innen um eine Einwilligung bitten. Falls die Nutzer\*innen einwilligen, ist die Rechtsgrundlage der Verarbeitung ihrer Daten die erklärte Einwilligung. Andernfalls werden die mithilfe von Cookies verarbeiteten Daten auf Grundlage unserer berechtigten Interessen (z.B. an einem betriebswirtschaftlichen Betrieb unseres Onlineangebotes und Verbesserung seiner Nutzbarkeit) verarbeitet oder, wenn dies im Rahmen der Erfüllung unserer vertraglichen Pflichten erfolgt, wenn der Einsatz von Cookies erforderlich ist, um unsere vertraglichen Verpflichtungen zu erfüllen. Zu welchen Zwecken die Cookies von uns verarbeitet werden, darüber klären wir im Laufe dieser Datenschutzerklärung oder im Rahmen von unseren Einwilligungs- und  
-Verarbeitungsprozessen auf.
+**Hinweise zu datenschutzrechtlichen Rechtsgrundlagen**   
+Auf welcher datenschutzrechtlichen Rechtsgrundlage wir die personenbezogenen Daten der Nutzer\*innen mit Hilfe von Cookies verarbeiten, hängt davon ab, ob wir Nutzer\*innen um eine Einwilligung bitten. Falls die Nutzer\*innen einwilligen, ist die Rechtsgrundlage der Verarbeitung ihrer Daten die erklärte Einwilligung. Andernfalls werden die mithilfe von Cookies verarbeiteten Daten auf Grundlage unserer berechtigten Interessen (z.B. an einem betriebswirtschaftlichen Betrieb unseres Onlineangebotes und Verbesserung seiner Nutzbarkeit) verarbeitet oder, wenn dies im Rahmen der Erfüllung unserer vertraglichen Pflichten erfolgt, wenn der Einsatz von Cookies erforderlich ist, um unsere vertraglichen Verpflichtungen zu erfüllen. Zu welchen Zwecken die Cookies von uns verarbeitet werden, darüber klären wir im Laufe dieser Datenschutzerklärung oder im Rahmen von unseren Einwilligungs- und Verarbeitungsprozessen auf.
 
-[Welche Cookies werden eingesetzt?](#q4054040537)
+[Welche Cookies werden eingesetzt?](#q9138591403)
 
 **Cookies zur Auswertung**  
-Für die statistischen Auswertungen – u. a. Browser, Betriebssystem, Uhrzeit, Herkunftsseite – nutzen wir die Web-Analyse Software Matomo.    
-Cookies werden außerdem eingesetzt, um pseudonymisierte Nutzerprofile von Ihnen als Besucher\*in zu erstellen. Die Cookies ermöglichen die Wiedererkennung eines Internet-Browsers.
+Für die statistischen Auswertungen – u. a. Browser, Betriebssystem, Uhrzeit, Herkunftsseite – nutzen wir die Web-Analyse Software Matomo. Cookies werden außerdem eingesetzt, um pseudonymisierte Nutzerprofile von Ihnen als Besucher\*in zu erstellen. Die Cookies ermöglichen die Wiedererkennung eines Internet-Browsers.
 
 Bei Aktivierung des Cookies wird diesem eine Identifikationsnummer zugewiesen, eine Zuordnung Ihrer personenbezogenen Daten zu dieser Identifikationsnummer wird nicht vorgenommen. Ihr Name, Ihre IP-Adresse oder ähnliche Daten, die eine Zuordnung des Cookies zu Ihnen ermöglichen würde, sind nicht in den Cookie enthalten.
 
@@ -641,9 +649,8 @@ IP-Adressen werden unmittelbar nach Eingang unkenntlich gemacht, womit eine Zuor
 
 Auf Basis der Cookie-Technologie erhalten wir lediglich pseudonymisierte Informationen, beispielsweise darüber, welche Seiten unserer Onlinepräsenz besucht wurden.
 
-**Funktionale Cookies**
-
-Darüber hinaus verwenden wir auch Cookies, die auf der Festplatte bei Ihnen verbleiben. Bei einem weiteren Besuch wird automatisch erkannt, dass Sie bereits bei uns waren und welche Eingaben und Einstellungen Sie bevorzugen. Diese **notwendigen** Cookies werden auf Ihrer Festplatte gespeichert und löschen sich nach einer bestimmten Zeit von allein. Insbesondere diese Cookies dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen.
+**Funktionale Cookies**  
+Darüber hinaus verwenden wir auch Cookies, die auf der Festplatte bei Ihnen verbleiben. Bei einem weiteren Besuch wird automatisch erkannt, dass Sie bereits bei uns waren und welche Eingaben und Einstellungen Sie bevorzugen. Diese notwendigen Cookies werden auf Ihrer Festplatte gespeichert und löschen sich nach einer bestimmten Zeit von allein. Insbesondere diese Cookies dienen dazu, unser Angebot nutzerfreundlicher und effektiver zu machen.
 
 **Diese Cookies verwenden wir:**
 
@@ -652,174 +659,147 @@ Darüber hinaus verwenden wir auch Cookies, die auf der Festplatte bei Ihnen ver
 | Cookie-Name | Verwendung | Domain | Gültigkeit |
 | --- | --- | --- | --- |
 | \_pk\_ses | Dieses Cookie ermittelt, welche Seite Sie auf gls.de aufgerufen haben. | gls.de und Subdomains | bis zum Ende Ihres Besuches |
+| --- | --- | --- | --- |
 | \_pk\_id | Dieses Cookie ermittelt, ob Sie ein\*e neue\*r oder ein\*e wiederkehrende\*r Besucher\*in sind. | gls.de und Subdomains | 7 Tage |
+| --- | --- | --- | --- |
 | \_pk\_ref | Dieses Cookie ermittelt, von welcher Webseite Sie zu uns gekommen sind. | gls.de und Subdomains | 6 Monate |
+| --- | --- | --- | --- |
 
-**2\. Funktionale Cookies**
+**2\. funktionale Cookies**
 
-Funktionale oder notwendige Cookies - siehe auch "Informationen zu Cookies" - können von Ihnen in den Privatsphäreneinstellungen **nicht** deaktiviert werden. Diese Cookies können Sie **nur in Ihrem** Browser deaktivieren.
+Funktionale oder notwendige Cookies - siehe auch "Informationen zu Cookies" - können von Ihnen in den Privatsphäreneinstellungen nicht deaktiviert werden. Diese Cookies können Sie nur in Ihrem Browser deaktivieren.
 
 | Cookie-Name | Verwendung | Domain | Gültigkeit |
 | --- | --- | --- | --- |
-| datad | Dieses Cookie teilt uns mit, ob Sie unseren Cookie-Hinweis bereits gesehen und dies bestätigt haben. | gls.de und Subdomains | 1 Jahr |
-| animation-shown | Dieses Cookie steuert die Animation der Navigation und das Ausgrauen der Zielgruppenauswahl beim Öffnen der Webseite. | gls.de und Subdomains | 4 Jahre |
 | privacySettings | Dieses Cookie beinhaltet Ihre persönlichen Datenschutzeinstellungen. | gls.de und Subdomains | 1 Jahr |
+| --- | --- | --- | --- |
 | PHPSESSID | Dieses Cookie zeigt auf, wie Sie unser Angebot nutzen und ob Sie z. B. Seiten einmal oder mehrmals aufrufen. | gls.de und Subdomains | bis zum Ende Ihres Besuches |
+| --- | --- | --- | --- |
 | player | Dieses Cookie gewährleistet, dass der vimeo-Videoplayer korrekt auf unseren Online-Angeboten abgespielt werden kann. | .vimeo.com | 1Jahre |
+| --- | --- | --- | --- |
 | vuid | Dieses Cookie gewährleistet, dass vimeo-Videos korrekt auf unseren Online-Angeboten abgespielt werden können. | .vimeo.com | 2 Jahre |
-| extendBanking | Dieses Cookie teilt uns mit, ob Sie unsere Beschreibung zum erweiterten Onlinebanking gelesen haben. | gls.de und Subdomains | 4 Wochen |
-| teaser-visits | Dieses Cookie ermittelt, ob Sie auf einen mitlaufenden Teaser geklickt haben. | gls.de und Subdomains | 7 Tage |
-|     |     |     |     |
+| --- | --- | --- | --- |
+| mtm\_consent | Dieses Cookie dokumentiert den Consent-Status (Zustimmung zu Cookies) und bedeutet, dass ein Opt-in durchgeführt wurde. | gls.de und Subdomains | maximal die vom Browser erlaubte Dauer |
+| --- | --- | --- | --- |
+| mtm\_cookie\_consent | Dieses Cookie dokumentiert den Consent-Status und steht für die Freigabe von Cookies. | gls.de und Subdomains | maximal die vom Browser erlaubte Dauer |
+| --- | --- | --- | --- |
+| mtm\_consent\_removed | Dieses Cookie dokumentiert den Consent-Status und bedeutet, dass ein Opt-out durchgeführt wurde. | gls.de und Subdomains | maximal die vom Browser erlaubte Dauer |
+| --- | --- | --- | --- |
 
-[Sicherheit](#q4054040550)
+[Sicherheit](#q9138591405)
 
-Nach Maßgabe der gesetzlichen Vorgaben treffen wir unter Berücksichtigung des Stands der Technik geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
+Nach Maßgabe der gesetzlichen Vorgaben treffen wir unter Berücksichtigung des Stands der Technik geeignete technische und organisatorische Maßnahmen, um ein dem Risiko angemessenes Schutzniveau zu gewährleisten.
 
 Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen und elektronischen Zugangs zu den Daten als auch des sie betreffenden Zugriffs, der Eingabe, der Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, die Löschung von Daten und Reaktionen auf die Gefährdung der Daten gewährleisten. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung bzw. Auswahl von Hardware, Software sowie Verfahren entsprechend dem Prinzip des Datenschutzes, durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen.
 
-**Kürzung der IP-Adresse/"IP-Masking":** Hierbei werden die letzten beiden Ziffern, bzw. der letzte Teil der IP-Adresse nach einem Punkt entfernt, bzw. durch Platzhalter ersetzt. Mit der Kürzung der IP-Adresse soll die Identifizierung einer Person anhand ihrer IP-Adresse verhindert oder wesentlich erschwert werden.
+Kürzung der IP-Adresse/"IP-Masking": Hierbei werden die letzten beiden Ziffern, bzw. der letzte Teil der IP-Adresse nach einem Punkt entfernt, bzw. durch Platzhalter ersetzt. Mit der Kürzung der IP-Adresse soll die Identifizierung einer Person anhand ihrer IP-Adresse verhindert oder wesentlich erschwert werden.
 
-**SSL-Verschlüsselung (https):** Um Ihre via unserem Online-Angebot übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
+SSL-Verschlüsselung (https): Um Ihre via unserem Online-Angebot übermittelten Daten zu schützen, nutzen wir eine SSL-Verschlüsselung. Sie erkennen derart verschlüsselte Verbindungen an dem Präfix https:// in der Adresszeile Ihres Browsers.
 
-[Cookies: Hinweise zu Widerruf und Widerspruch (Opt-Out) sowie Verarbeitung](#q4054040551)
+[Cookies: Hinweise zu Widerruf und Widerspruch (Opt-Out) sowie Verarbeitung](#q9138591407)
 
 Nutzer\*innen können die von ihnen abgegebenen Einwilligungen jederzeit widerrufen und zudem einen Widerspruch gegen die Verarbeitung entsprechend den gesetzlichen Vorgaben im Art. 21 DSGVO einlegen (weitere Hinweise zum Widerspruch erfolgen im Rahmen dieser Datenschutzerklärung). Nutzer\*innen können Ihren Widerspruch auch mittels der Einstellungen Ihres Browsers erklären.
 
 **Weitere Hinweise zu Verarbeitungsprozessen, Verfahren und Diensten**
 
-**Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung**  
-Wir setzen ein Verfahren zum Cookie-Einwilligungs-Management ein, in dessen Rahmen die Einwilligungen der Nutzer\*innen in den Einsatz von Cookies bzw. der im Rahmen des Cookie-Einwilligungs-Management-Verfahrens genannten Verarbeitungen und Anbieter eingeholt sowie von den Nutzer\*innen verwaltet und widerrufen werden können. Hierbei wird die Einwilligungserklärung gespeichert, um deren Abfrage nicht erneut wiederholen zu müssen und die Einwilligung entsprechend der gesetzlichen Verpflichtung nachweisen zu können.
+Verarbeitung von Cookie-Daten auf Grundlage einer Einwilligung Wir setzen ein Verfahren zum Cookie-Einwilligungs-Management ein, in dessen Rahmen die Einwilligungen der Nutzer\*innen in den Einsatz von Cookies bzw. der im Rahmen des Cookie-Einwilligungs-Management-Verfahrens genannten Verarbeitungen und Anbieter eingeholt sowie von den Nutzer\*innen verwaltet und widerrufen werden können. Hierbei wird die Einwilligungserklärung gespeichert, um deren Abfrage nicht erneut wiederholen zu müssen und die Einwilligung entsprechend der gesetzlichen Verpflichtung nachweisen zu können.
 
 Die Speicherung kann serverseitig und/oder in einem Cookie (sogenanntes Opt-In-Cookie, bzw. mithilfe vergleichbarer Technologien) erfolgen, um die Einwilligung einem/r Nutzer\*in bzw. dessen/deren Gerät zuordnen zu können. Vorbehaltlich individueller Angaben zu den Anbietern von Cookie-Management-Diensten, gelten die folgenden Hinweise: Die Dauer der Speicherung der Einwilligung kann bis zu zwei Jahren betragen. Hierbei wird ein pseudonymer Nutzer-Identifikator gebildet und mit dem Zeitpunkt der Einwilligung, Angaben zur Reichweite der Einwilligung (z.B. welche Kategorien von Cookies und/oder Diensteanbieter) sowie dem Browser, System und verwendeten Endgerät gespeichert.
 
-**Klaro!**  
-Wir nutzen Klaro! für die Einwilligung zu Cookies.  
-Klaro! Cookie-Einwilligungs-Management; Dienstanbieter: KIProtect GmbH, Bismarckstr. 10-12, 10625 Berlin, Deutschland; Website: [https://kiprotect.com/klaro](https://kiprotect.com/klaro); Datenschutzerklärung: [https://kiprotect.com/de/ressourcen/datenschutz](https://kiprotect.com/de/ressourcen/datenschutz)
+Klaro!  
+Wir nutzen Klaro! für die Einwilligung zu Cookies. Klaro! Cookie-Einwilligungs-Management; Dienstanbieter: KIProtect GmbH, Bismarckstr. 10-12, 10625 Berlin, Deutschland; Website: [https://kiprotect.com/klaro](https://kiprotect.com/klaro); Datenschutzerklärung: [https://kiprotect.com/de/ressourcen/datenschutz](https://kiprotect.com/de/ressourcen/datenschut)
 
 Weitere GLS Bank Angebote & Subdomains
 --------------------------------------
 
-[App: GLS Banking](#q4053143264)
+[App: GLS Banking](#q9141391415)
 
-### Datenschutzerklärung zum PushTAN-Verfahren
+### **Datenschutzerklärung zum PushTAN-Verfahren**
 
 Das in der App „GLS Banking“ genutzte PushTAN-Verfahren ermöglicht Kund\*Innen die Autorisierung von Transaktionen und Aufträgen.
 
-Für die Nutzung ist ein Download und die Einrichtung der GLS Banking App aus den App Stores der jeweiligen Betriebssystemhersteller erforderlich. Die Bereitstellung der GLS Banking App erfolgt durch die Verantwortliche: die GLS Gemeinschaftsbank eG. 
+Für die Nutzung ist ein Download und die Einrichtung der GLS Banking App aus den App Stores der jeweiligen Betriebssystemhersteller erforderlich. Die Bereitstellung der GLS Banking App erfolgt durch die Verantwortliche: die GLS Gemeinschaftsbank eG.
 
 Für alle personenbezogenen Daten, die im Zusammenhang mit der Freigabe von Transaktionen über die GLS Banking App verarbeitet werden, ist die GLS Gemeinschaftsbank eG Verantwortliche im Sinne von Artikel 4 (7) DSGVO.
 
-**Geräteregistrierung / Einrichtung des PushTAN-Verfahrens**
-
-Um Aufträge und Transaktionen über die GLS Banking App autorisieren zu können, ist es erforderlich, dass Kund\*innen ihr jeweiliges mobiles Endgerät („**Gerät**“) registrieren, das sie für die App verwenden. Dieser Schritt ist für die Nutzung der Banking-Funktionen in der Anwendung obligatorisch und erfolgt bei initialem Starten der App. 
+**Geräteregistrierung / Einrichtung des PushTAN-Verfahrens**  
+Um Aufträge und Transaktionen über die GLS Banking App autorisieren zu können, ist es erforderlich, dass Kund\*innen ihr jeweiliges mobiles Endgerät („Gerät“) registrieren, das sie für die App verwenden. Dieser Schritt ist für die Nutzung der Banking-Funktionen in der Anwendung obligatorisch und erfolgt bei initialem Starten der App.
 
 Im Rahmen der Geräteregistrierung werden dabei folgende Informationen vom Gerät abgerufen bzw. auf diesem gespeichert:
 
 * ID Ihres Gerätes („Device-ID“)
-* ID zum Versand von Push-Benachrichtigungen („Device-Token“) 
-* Öffentliche Schlüssel zur sicheren Kommunikation zwischen Ihrem Endgerät und der Bank 
-* Signatur-Schlüssel (Eine Freigabe ist nur nach einer zusätzlichen Entsperrung des Gerätes möglich) 
+* ID zum Versand von Push-Benachrichtigungen („Device-Token“)
+* Öffentliche Schlüssel zur sicheren Kommunikation zwischen Ihrem Endgerät und der Bank
+* Signatur-Schlüssel (Eine Freigabe ist nur nach einer zusätzlichen Entsperrung des Gerätes möglich)
 
-Für die Generierung der ID zum Versand von Push-Benachrichtigungen („Device-Token“) ist es zwingend erforderlich, dass Kund\*innen den Erhalt von Push-Benachrichtigungen aktivieren.   
-Rechtsgrundlage für die Verarbeitung ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO. 
+Für die Generierung der ID zum Versand von Push-Benachrichtigungen („Device-Token“) ist es zwingend erforderlich, dass Kund\*innen den Erhalt von Push-Benachrichtigungen aktivieren. Rechtsgrundlage für die Verarbeitung ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO.
 
 Personenbezogene Daten werden gelöscht, wenn sie für die Zwecke dieses Vertrages sowie Ihrer Erhebung nicht mehr benötigt werden und gesetzliche Aufbewahrungsfristen abgelaufen sind. Im Rahmen der Geräteregistrierung erhobene Daten werden im Regelfall 12 Monate nach der Deaktivierung des Geräts für die Autorisierung gelöscht.
 
-**Freigabe von Transaktionen/Aufträgen**
+**Freigabe von Transaktionen/Aufträgen**  
+Für die Freigabe von Transaktionen über das PushTAN-Verfahren werden die folgenden Informationen verarbeitet:
 
-Für die Freigabe von Transaktionen über das PushTAN-Verfahren werden die folgenden Informationen verarbeitet: 
-
-* ID Ihres Gerätes 
-* ID zum Versand von Push-Benachrichtigungen 
-* Öffentliche Schlüssel zur sicheren Kommunikation zwischen Ihrem Endgerät und der Bank 
-* Signatur-Schlüssel 
+* ID Ihres Gerätes
+* ID zum Versand von Push-Benachrichtigungen
+* Öffentliche Schlüssel zur sicheren Kommunikation zwischen Ihrem Endgerät und der Bank
+* Signatur-Schlüssel
 * PushTAN mit einer Zusammenfassung der durchzuführenden Transaktion/Auftrag
 
-Rechtsgrundlage für die Verarbeitung personenbezogener Daten ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO. 
+Rechtsgrundlage für die Verarbeitung personenbezogener Daten ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO.
 
-Personenbezogene Daten werden gelöscht, wenn sie für die Zwecke dieses Vertrages sowie Ihrer Erhebung nicht mehr benötigt werden und gesetzliche Aufbewahrungsfristen abgelaufen sind. Daten über abgewickelte Transaktionen werden im Regelfall zehn Jahre nach Durchführung der Transaktion gelöscht. 
+Personenbezogene Daten werden gelöscht, wenn sie für die Zwecke dieses Vertrages sowie Ihrer Erhebung nicht mehr benötigt werden und gesetzliche Aufbewahrungsfristen abgelaufen sind. Daten über abgewickelte Transaktionen werden im Regelfall zehn Jahre nach Durchführung der Transaktion gelöscht.
 
-**Übermittlung von Push-Benachrichtigungen**
+**Übermittlung von Push-Benachrichtigungen**  
+Für die Freigabe von Transaktionen und Aufträgen werden Push-Nachrichten an das Gerät des/der Kund\*in übermittelt. Für die Übermittlung werden der Apple pushNotification Service (APNS) sowie Google Cloud Messaging verwendet. Dabei werden die ID zum Versand von Push-Benachrichtigungen („Device-Token“) des/der Kund\*in, sowie eine verschlüsselte Transaktionsnachricht übermittelt. Zusätzlich erhalten Apple und Google die Gerätedaten des/der Kund\*in. Apple und Google haben zu keiner Zeit einen Zugriff auf Transaktionsdaten. Rechtsgrundlage für die Verarbeitung ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO.
 
-Für die Freigabe von Transaktionen und Aufträgen werden Push-Nachrichten an das Gerät des/der Kund\*in übermittelt. Für die Übermittlung werden der Apple pushNotification Service (APNS) sowie Google Cloud Messaging verwendet. Dabei werden die ID zum Versand von Push-Benachrichtigungen („Device-Token“) des/der Kund\*in, sowie eine verschlüsselte Transaktionsnachricht übermittelt. Zusätzlich erhalten Apple und Google die Gerätedaten des/der Kund\*in. Apple und Google haben zu keiner Zeit einen Zugriff auf Transaktionsdaten. Rechtsgrundlage für die Verarbeitung ist Artikel 6 Abs. 1 (b) bzw. (f) DSGVO. 
+Soweit in diesem Zusammenhang personenbezogene Daten des Kunden in die USA oder ein sonstiges Drittland übermittelt werden, wird ein angemessenes Datenschutzniveau regelmäßig dadurch sichergestellt, dass entsprechende sog. EU-Standardvertragsklauseln verwendet werden, die sicherstellen, dass ein entsprechendes Schutzniveau erreicht wird, sofern nicht bereits ein Angemessenheitsbeschluss der Kommission für das betreffende Drittland vorliegt.
 
-Soweit in diesem Zusammenhang personenbezogene Daten des Kunden in die USA oder ein sonstiges Drittland übermittelt werden, wird ein angemessenes Datenschutzniveau regelmäßig dadurch sichergestellt, dass entsprechende sog. EU-Standardvertragsklauseln verwendet werden, die sicherstellen, dass ein entsprechendes Schutzniveau erreicht wird, sofern nicht bereits ein Angemessenheitsbeschluss der Kommission für das betreffende Drittland vorliegt. 
-
-**Anzeige der GLS Kreditliste in der GLS Banking App**
-
+**Anzeige der GLS Kreditliste in der GLS Banking App**  
 Die GLS Kreditliste im Wirkungsbereich der GLS Banking App zeigt transparent, an welche Unternehmen und Projekte Kredite vergeben werden. Neben den Angaben zu den vergebenen Krediten können auch Webseiten Dritter zur Information angezeigt werden. Dabei handelt es sich um externe Verlinkungen. Die GLS Bank hat keinen Einfluss auf die Inhalte und Gestaltung dieser externen Webseiten Dritter. Die Datenschutzerklärung der GLS Bank gilt nicht für die verlinkten Internetseiten Dritter.
 
-[GLS Onlinebanking (gls-online-filiale.de)](#q4053140525)
+[GLS Onlinebanking (gls-online-filiale.de)](#q9141391417)
 
 In der gls-online-filiale.de (GLS Onlinebanking) speichern und verarbeiten wir Ihre Daten ausschließlich zur Bearbeitung Ihres Auftrags bzw. Ihrer Anfrage.
 
-Lesen Sie hier unsere Datenschutzhinweise zu [gls-online-filiale.de](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/Datenschutzhinweise_GLS_Online-Filiale_-_Stand_Februar_2021.pdf "Datenschutzhinweise gls-online-filiale.de")
+Lesen Sie hier unsere Datenschutzhinweise zu [gls-online-filiale.de](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/Datenschutzhinweise_GLS_Online-Filiale_-_Stand_Februar_2021.pdf)
 
-[Information zu Swift](#q4053174195)
+[Information zu Swift](#q9141391419)
 
-**Information nach Art. 26 DSGVO im Zusammenhang mit grenzüberschreitenden Überweisungen und Eilüberweisungen über das Nachrichtenübermittlungssystem von Swift**
+Information nach Art. 26 DSGVO im Zusammenhang mit grenzüberschreitenden Überweisungen und Eilüberweisungen über das Nachrichtenübermittlungssystem von Swift
 
-Im Rahmen der Ausführung der Überweisung übermittelt Ihre Bank die in der Überweisung enthaltenen Daten (Überweisungsdaten) unmittelbar oder unter Beteiligung zwischengeschalteter Stellen an den Zahlungsdienstleister des Zahlungsempfängers. Im Zusammenhang mit der Übermittlung können eingeschaltete Dienstleister zur Auftragsdurchführung auch erforderliche Prüfungen der Überweisungsdaten vornehmen (insbesondere zur Identifikation und Verhinderung von Zahlungsverkehrsbetrug). Der Zahlungsdienstleister des Zahlungsempfängers kann dem Zahlungsempfänger die Überweisungsdaten, zu denen auch die IBAN des Zahlers gehört, ganz oder teilweise zur Verfügung stellen.
+Im Rahmen der Ausführung der Überweisung Information nach Art. 26 DSGVO im Zusammenhang mit grenzüberschreitenden Überweisungen und Eilüberweisungen über das Nachrichtenübermittlungssystem von Swift.
+
+übermittelt Ihre Bank die in der Überweisung enthaltenen Daten (Überweisungsdaten) unmittelbar oder unter Beteiligung zwischengeschalteter Stellen an den Zahlungsdienstleister des Zahlungsempfängers. Im Zusammenhang mit der Übermittlung können eingeschaltete Dienstleister zur Auftragsdurchführung auch erforderliche Prüfungen der Überweisungsdaten vornehmen (insbesondere zur Identifikation und Verhinderung von Zahlungsverkehrsbetrug). Der Zahlungsdienstleister des Zahlungsempfängers kann dem Zahlungsempfänger die Überweisungsdaten, zu denen auch die IBAN des Zahlers gehört, ganz oder teilweise zur Verfügung stellen.
 
 Bei grenzüberschreitenden Überweisungen und bei Eilüberweisungen im Inland können die Überweisungsdaten auch in gemeinsamer Verantwortung mit dem Nachrichtenübermittlungssystem Society for Worldwide Interbank Financial Telecommunication (Swift) mit Sitz in Belgien verarbeitet und an den Zahlungsdienstleister des Zahlungsempfängers weitergeleitet werden. Aus Gründen der Systemsicherheit speichert Swift die Überweisungsdaten vorübergehend in seinen Rechenzentren in der Europäischen Union, in der Schweiz und in den USA.
 
-Weitere Informationen und die wesentlichen Inhalte des Vertrags über die gemeinsame Verantwortung mit Swift können Sie den Datenschutzhinweisen zum Swift-Transaktionsverarbeitungsdienst „Swift Personal Data Protection Policy“ unter [https://www.swift.com/about-us/legal/compliance/data-protection-policies](https://www.swift.com/about-us/legal/compliance/data-protection-policies) entnehmen.
+Weitere Informationen und die wesentlichen Inhalte des Vertrags über die gemeinsame Verantwortung mit Swift können Sie den Datenschutzhinweisen zum Swift-Transaktionsverarbeitungsdienst „Swift Personal Data Protection Policy“ unter [https://www.swift.com/about-us/legal/compliance/data-protection-policies](https://www.swift.com/about-us/legal/compliance/data-protection-policies) entnehmen.
 
-**Ihr Widerspruchsrecht gegen „Statistische Analyse und Produktentwicklung“ mit Ihren Überweisungsdaten**
+Ihr Widerspruchsrecht gegen „Statistische Analyse und Produktentwicklung“ mit Ihren Überweisungsdaten Da Swift für einen Teil der Datenverarbeitung (statistische Analyse und Produktentwicklung) datenschutzrechtlich allein Verantwortlicher ist und diese Verarbeitung auf Grundlage einer Interessenabwägung betreibt, haben Sie ein gesetzliches Widerspruchsrecht gegenüber Swift (Avenue Adèle 1, B-1310 La Hulpe, Belgium).
 
-Da Swift für einen Teil der Datenverarbeitung (statistische Analyse und Produktentwicklung) datenschutzrechtlich allein Verantwortlicher ist und diese Verarbeitung auf Grundlage einer Interessenabwägung betreibt, haben Sie ein gesetzliches Widerspruchsrecht gegenüber Swift (Avenue Adèle 1, B-1310 La Hulpe, Belgium).
-
-Wenn Sie der Verarbeitung pseudonymisierter Kontostatistiken durch Swift für den Dienst „Statistische Analyse und Produktentwicklung“ widersprechen möchten, geben Sie bitte Ihre Kontonummer(n), den Namen des/der Kontoinhaber(s), den/die Namen, die BIC Ihrer kontoführenden Bank/en (Business Identifier Code) und Ihre E-Mail-Adresse an und richten Ihren Widerspruch an **[opt.out@swift.com](mailto:opt.out@swift.com "opt.out@swift.com")**
+Wenn Sie der Verarbeitung pseudonymisierter Kontostatistiken durch Swift für den Dienst „Statistische Analyse und Produktentwicklung“ widersprechen möchten, geben Sie bitte Ihre Kontonummer(n), den Namen des/der Kontoinhaber(s), den/die Namen, die BIC Ihrer kontoführenden Bank/en (Business Identifier Code) und Ihre E-Mail-Adresse an und richten Ihren Widerspruch an [opt.out@swift.com](mailto:opt.out@swift.com)
 
 Näheres dazu erfahren Sie unter [https://www.swift.com/about-us/legal/compliance/data-protection-policies/pseudonymised-account-statistics](https://www.swift.com/about-us/legal/compliance/data-protection-policies/pseudonymised-account-statistics) 
 
-[GLS onlineInvest - digitaler Anlage-Assistent](#q4053140527)
+[GLS onlineInvest - digitaler Anlage-Assistent](#q9141391423)
 
-Im  digitalen Anlage-Assistenten GLS onlineInvest speichern und verarbeiten wir Ihre Daten ausschließlich zur Bearbeitung Ihrer Anfrage .
+Im digitalen Anlage-Assistenten GLS onlineInvest speichern und verarbeiten wir Ihre Daten ausschließlich zur Bearbeitung Ihrer Anfrage.
 
 Lesen Sie hier unsere [Datenschutzhinweise zu GLS onlineInvest](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/GLS_onlineInvest_Datenschutzhinweis_20201125.pdf)
 
-[Videounterstützte telefonische Beratung](#q4053145800)
+[Videounterstützte telefonische Beratung](#q9141391425)
 
-Wir bieten unseren Kund\*innen für einen persönlichen Beratungstermin unsere videounterstützte telefonische Beratung über **GoToMeeting** an. 
+Wir bieten unseren Kund\*innen für einen persönlichen Beratungstermin unsere videounterstützte telefonische Beratung über GoToMeeting an.
 
-Lesen Sie hier unsere Datenschutzhinweise zur [videounterstützten telefonischen Beratung](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/GRB0-10890_Datenschutzhinweise_videounterstuetzte_tel._Beratung_v04_240508.pdf "Datenschutzhinweise zur videounterstützten telefonischen Beratung über GoToMeeting")
+Lesen Sie hier unsere Datenschutzhinweise zur [videounterstützten telefonischen Beratung](https://www.gls.de/media/PDF/Broschueren/GLS_Bank/Datenschutz/GRB0-10890_Datenschutzhinweise_videounterstuetzte_tel._Beratung_v04_240508.pdf).
 
-[GLS Nachhaltigkeitsbericht](#q4053140528)
+[GLS Nachhaltigkeitsbericht](#q9141391427)
 
-Der [GLS Nachhaltigkeitsbericht](https://nachhaltigkeitsbericht.gls.de/) ist eine Webseite, welche wir unter der Subdomain [https://nachhaltigkeitsbericht.gls.de/](https://nachhaltigkeitsbericht.gls-bank.de/) (sowie für einzelne Jahre [https://nachhaltigkeitsbericht2022.gls.de/](https://nachhaltigkeitsbericht2022.gls.de/), [https://nachhaltigkeitsbericht2021.gls.de/](https://nachhaltigkeitsbericht2021.gls.de/), [https://nachhaltigkeitsbericht2020.gls.de/](https://nachhaltigkeitsbericht2020.gls.de/)) anbieten.  
-  
-Die Webseite nutzt unter anderem folgende technischen Dienste: Vimeo, YouTube (NoCookie) und ist auf unserem eigenen Server gehostet.
+Der GLS Nachhaltigkeitsbericht ist eine Webseite, welche wir unter unserer Subdomain [https://nachhaltigkeitsbericht.gls.de/](https://nachhaltigkeitsbericht.gls.de/) anbieten, weitere Nachhaltigkeitsberichte ersccheinen unter (sowie für einzelne Jahre [https://nachhaltigkeitsbericht2022.gls.de/](https://nachhaltigkeitsbericht2022.gls.de/), [https://nachhaltigkeitsbericht2021.gls.de/](https://nachhaltigkeitsbericht2021.gls.de/), [https://nachhaltigkeitsbericht2020.gls.de/](https://nachhaltigkeitsbericht2020.gls.de/)) .
 
-**Cookies**  
-Die Webseite [https://nachhaltigkeitsbericht.gls.de/](https://nachhaltigkeitsbericht.gls.de/) verwendet ausschließlich funktionale Cookies. Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.  
-  
-**Vimeo**  
-Wir können die Videos der Plattform “Vimeo” des Anbieters Vimeo Inc., Attention: Legal Department, 555 West 18th Street New York, New York 10011, USA, einbinden.  
-  
-Datenschutzerklärung: [https://vimeo.com/privacy](https://vimeo.com/privacy). Wir weisen darauf hin, dass Vimeo Google Analytics einsetzen kann und verweisen hierzu auf die Datenschutzerklärung ([https://www.google.com/policies/privacy](https://www.google.com/policies/privacy) ) sowie Opt-Out-Möglichkeiten für Google-Analytics ([http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de) ) oder die Einstellungen von Google für die Datennutzung zu Marketingzwecken ([https://adssettings.google.com/](https://adssettings.google.com/)).  
-  
-Als Schutzmaßnahme binden wir die Videos in der **„Do Not Track“** Variante (dnt=1) ein, so dass personenbezogene Daten wenn nur in anonymisierter Form an Vimeo übermittelt werden. Dies gilt auch für Erklärvideos in der Kontoeröffnungsstrecke.  
-  
-**YouTube (youtube-nocookie.com)**  
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, in der youtube-nocookie.com Variante ein.  
-  
-Datenschutzerklärung: [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/) , Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/authenticated).  
-  
-**Tracking (Matomo, ehemals Piwik)**  
-Für uns ist es hilfreich, das Nutzerverhalten unserer Besucher\*innen zu erfassen. Mit diesen Ergebnissen können wir die Seiten verbessern und an die Nutzerbedürfnisse anpassen. Für die statistischen Auswertungen nutzen wir die Open-Source-Web-Analyse Software Matomo (früher Piwik) auf einem GLS Bank-eigenen Server. Mit ihr werden sogenannte Session-Cookies gesetzt, die sich nach Ende der Browser-Sitzung (Session) automatisch bzw. nach einer bestimmten Laufzeit wieder von Ihrer Festplatte löschen.
+[GLS Nachhaltigkeitsziele](#q9141391431)
 
-[GLS Nachhaltigkeitsziele](#q4053142658)
-
-[GLS Nachhaltigkeitsziele](https://nachhaltigkeitsziele.gls.de/ "GLS Nachhaltigkeitsziele") ist eine Webseite, welche wir unter unserer Subdomain [https://nachhaltigkeitsziele.gls.de/](https://nachhaltigkeitsziele.gls.de/ "GLS Nachhaltigkeitsziele") anbieten.  
-  
-Die Webseite ist auf unserem eigenen Server gehostet.
-
-**Cookies**  
-Die Webseite [https://nachhaltigkeitsziele.gls.de/](https://nachhaltigkeitsziele.gls.de/) verwendet ausschließlich funktionale Cookies. Cookies unterstützen bestimmte Funktionen. Die Verwendung von Cookies können Sie jederzeit in Ihrem Browser einstellen und auch deaktivieren. Sollten Sie Ihr Gerät so eingestellt haben, dass Sie keine Cookies zulassen, kann es zu Einschränkungen in der Darstellung und/oder in der Funktion kommen.  
-  
-**Tracking (Matomo, ehemals Piwik)**  
-Für uns ist es hilfreich, das Nutzerverhalten unserer Besucher\*innen zu erfassen. Mit diesen Ergebnissen können wir die Seiten verbessern und an die Nutzerbedürfnisse anpassen. Für die statistischen Auswertungen nutzen wir die Open-Source-Web-Analyse Software Matomo (früher Piwik) auf einem GLS Bank-eigenen Server. Mit ihr werden sogenannte Session-Cookies gesetzt, die sich nach Ende der Browser-Sitzung (Session) automatisch bzw. nach einer bestimmten Laufzeit wieder von Ihrer Festplatte löschen.
+GLS Nachhaltigkeitsziele ist eine Webseite, welche wir unter unserer Subdomain [https://nachhaltigkeitsziele.gls.de/](https://nachhaltigkeitsziele.gls.de/) anbieten.
 
 GLS Bank Blog
 -------------
