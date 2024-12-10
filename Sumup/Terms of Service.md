@@ -388,7 +388,7 @@ Top articles
 * [![](https://circuit.sumup.com/icons/v2/flag_be_16.svg)Belgium](https://www.sumup.com/nl-be/)
 * [![](https://circuit.sumup.com/icons/v2/flag_br_16.svg)Brazil](https://www.sumup.com/pt-br/termos/)
 * [![](https://circuit.sumup.com/icons/v2/flag_bg_16.svg)Bulgaria](https://www.sumup.com/bg-bg/)
-* [![](https://circuit.sumup.com/icons/v2/flag_cl_16.svg)Chile](https://www.sumup.com/es-cl/terms/)
+* [![](https://circuit.sumup.com/icons/v2/flag_cl_16.svg)Chile](https://www.sumup.com/es-cl/)
 * [![](https://circuit.sumup.com/icons/v2/flag_co_16.svg)Colombia](https://www.sumup.com/es-co/terms/)
 * [![](https://circuit.sumup.com/icons/v2/flag_hr_16.svg)Croatia](https://www.sumup.com/hr-hr/)
 * [![](https://circuit.sumup.com/icons/v2/flag_cy_16.svg)Cyprus](https://www.sumup.com/el-cy/)
