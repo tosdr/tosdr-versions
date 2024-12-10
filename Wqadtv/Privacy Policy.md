@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KARE/images/c7b0edcc-0bc4-4731-8526-1c2b8d85656d/20241127T225921/c7b0edcc-0bc4-4731-8526-1c2b8d85656d_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c7b0edcc-0bc4-4731-8526-1c2b8d85656d/20241127T225921/c7b0edcc-0bc4-4731-8526-1c2b8d85656d_360x203.jpg)](https://www.wqad.com/article/news/local/land-of-10000-stories/kids-way-to-school-have-unique-way-connecting-with-great-grandma/89-c9963ae4-3068-466b-bffe-1c1e5f8e7a1b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/dec6bc0f-108b-492a-90de-0241c9d25465/20241210T210217/dec6bc0f-108b-492a-90de-0241c9d25465_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/dec6bc0f-108b-492a-90de-0241c9d25465/20241210T210217/dec6bc0f-108b-492a-90de-0241c9d25465_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/retired-rock-island-teacher-art-display-smith-studio-and-gallery/526-c08499f5-2167-4384-b1cb-5fab68589704)
         
-        #### [Kids on their way to school have unique way of connecting with their great-grandma](https://www.wqad.com/article/news/local/land-of-10000-stories/kids-way-to-school-have-unique-way-connecting-with-great-grandma/89-c9963ae4-3068-466b-bffe-1c1e5f8e7a1b)
+        #### [Retired Rock Island teacher has artwork on display at Geneseo's Smith Studio and Gallery](https://www.wqad.com/article/news/local/the-current/retired-rock-island-teacher-art-display-smith-studio-and-gallery/526-c08499f5-2167-4384-b1cb-5fab68589704)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/acf56181-ffc0-46d9-9b99-973665e96d29/20241210T045251/acf56181-ffc0-46d9-9b99-973665e96d29_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/acf56181-ffc0-46d9-9b99-973665e96d29/20241210T045251/acf56181-ffc0-46d9-9b99-973665e96d29_360x203.jpg)](https://www.wqad.com/article/news/local/dels-metal-rock-island-junk-yard-rock-island-city-council-vote/526-df689b70-6823-41e5-9da7-98767700963e)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
         
-        #### [Rock Island City Council says Del's Metal cannot continue junkyard operations on separate property](https://www.wqad.com/article/news/local/dels-metal-rock-island-junk-yard-rock-island-city-council-vote/526-df689b70-6823-41e5-9da7-98767700963e)
+        #### [1 dead in head-on collision on I-88 in Rock Island County](https://www.wqad.com/article/news/local/public-safety/crash-semi-truck-hillsdale-rock-island-county/526-d65aa28e-4998-4921-b64c-2f492e5cb84a)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
         
-        #### [A brushfire in Malibu prompts evacuations as it burns near Pepperdine University](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
+        #### [Homes burn as wind-driven wildfire prompts evacuations in Malibu, California](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -78,9 +78,9 @@ Navigation
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 15](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
-    *  [![](https://media.tegna-media.com/assets/WOI/images/f1737767-210a-43b0-8512-6c9abd4511d9/20241209T151157/f1737767-210a-43b0-8512-6c9abd4511d9_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/f1737767-210a-43b0-8512-6c9abd4511d9/20241209T151157/f1737767-210a-43b0-8512-6c9abd4511d9_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-hawkeyes-bowl-game-2024-music-city-missouri/524-45636b98-da0c-4777-89d2-15800ca53f1f)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/cdf1079d-8f82-44b0-a9fd-c705574f6ff2/20241209T180146/cdf1079d-8f82-44b0-a9fd-c705574f6ff2_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/cdf1079d-8f82-44b0-a9fd-c705574f6ff2/20241209T180146/cdf1079d-8f82-44b0-a9fd-c705574f6ff2_360x203.jpg)](https://www.wqad.com/article/sports/basketball/ap-womens-top-25-poll-tennessee-enters-iowa-iowa-state/524-0df7ab70-bb96-40a8-aea3-1df02d014cf9)
         
-        #### [Hawkeyes to face Mizzou in 2024 Music City Bowl](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-hawkeyes-bowl-game-2024-music-city-missouri/524-45636b98-da0c-4777-89d2-15800ca53f1f)
+        #### [AP women's poll: Tennessee back in Top 25, Iowa falls in rankings](https://www.wqad.com/article/sports/basketball/ap-womens-top-25-poll-tennessee-enters-iowa-iowa-state/524-0df7ab70-bb96-40a8-aea3-1df02d014cf9)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-29°
+31°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
