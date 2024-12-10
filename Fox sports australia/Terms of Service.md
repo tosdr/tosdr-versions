@@ -46,6 +46,16 @@ FOX SCORES
     | PAK | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251101)
+* [Women's ODI
+    
+    11/12 15:20 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250403)
 * NFL
     
 * [NFL
@@ -72,16 +82,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010334/box-score)
 * Football
     
-* [Premier League
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | WHU | 2   |
-    | WOL | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251507)
 * [UCL
     
     11/12 4:45 AEST
