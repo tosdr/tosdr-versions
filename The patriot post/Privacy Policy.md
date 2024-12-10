@@ -120,20 +120,22 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34633)
+     [](https://patriotpost.us/cartoons/34643)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Tony Perkins The Guide to the Puzzle of Life](https://patriotpost.us/opinion/112685-the-guide-to-the-puzzle-of-life-2024-12-10)
+*      [Gary Bauer What’s Going On?](https://patriotpost.us/opinion/112683-whats-going-on-2024-12-10)
+*      [Victor Joecks Biden the Tyrant](https://patriotpost.us/opinion/112682-biden-the-tyrant-2024-12-10)
+*      [Daniel McCarthy Birthright Citizenship Is a Breach in the Border](https://patriotpost.us/opinion/112681-birthright-citizenship-is-a-breach-in-the-border-2024-12-10)
+*      [Salena Zito Whiskey Resurgence in the Heart of the Rebellion](https://patriotpost.us/opinion/112680-whiskey-resurgence-in-the-heart-of-the-rebellion-2024-12-10)
+*      [Allen West No One Is Above the Law … Unless](https://patriotpost.us/opinion/112631-no-one-is-above-the-law-dot-dot-dot-unless-2024-12-10)
 *      [Cal Thomas Pardoning the Unpardonable](https://patriotpost.us/opinion/112661-pardoning-the-unpardonable-2024-12-10)
-*      [Jeff Jacoby Argentina’s Capitalist Counterrevolution Is Off to a Good Start](https://patriotpost.us/opinion/112655-argentinas-capitalist-counterrevolution-is-off-to-a-good-start-2024-12-09)
-*      [Allen West Haters Gonna Hate](https://patriotpost.us/opinion/112630-haters-gonna-hate-2024-12-09)
-*      [Rich Lowry Trump’s Strong Start](https://patriotpost.us/opinion/112629-trumps-strong-start-2024-12-09)
-*      [The Washington Stand The Cult Is Alive and Well: Why the Trans Movement Isn’t Gone](https://patriotpost.us/opinion/112628-the-cult-is-alive-and-well-why-the-trans-movement-isnt-gone-2024-12-09)
-*      [The Babylon Bee 13 More People Biden Is Considering Pardoning](https://patriotpost.us/opinion/112627-13-more-people-biden-is-considering-pardoning-2024-12-09)
-*      [Gary Bauer Trump Supports Pete](https://patriotpost.us/opinion/112622-trump-supports-pete-2024-12-07)
-*      [Matthew Continetti Trump’s Tricky Transition Math](https://patriotpost.us/opinion/112607-trumps-tricky-transition-math-2024-12-07)
+*      [The Washington Stand Johnson Wows With Anti-Woke Wins in NDAA Compromise](https://patriotpost.us/opinion/112684-johnson-wows-with-anti-woke-wins-in-ndaa-compromise-2024-12-10)
+*      [The Babylon Bee More Accurate Wedding Vows for Him and Her](https://patriotpost.us/opinion/112679-more-accurate-wedding-vows-for-him-and-her-2024-12-10)
+*      [Guest Commentary Progressive Fragility](https://patriotpost.us/opinion/112678-progressive-fragility-2024-12-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,13 +149,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
 
 ### The Foundation
 
-“The bosom of America is open to receive not only the Opulent and respectable Stranger, but the oppressed and persecuted of all Nations and Religions; whom we shall welcome to a participation of all our rights and privileges, if by decency and propriety of conduct they appear to merit the enjoyment.” —George Washington (1783)
+“Where is the security for property, for reputation, for life, if the sense of religious obligation deserts the oaths…?” —George Washington (1796)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
