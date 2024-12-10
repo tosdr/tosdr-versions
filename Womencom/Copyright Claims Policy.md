@@ -56,17 +56,17 @@
     
     By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
     
-* *  [![](https://www.women.com/img/gallery/the-chicest-celebrity-manicures-of-2024/intro-1733334961.jpg)](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+* *  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
         
-        ### [The Chicest Celebrity Manicures Of 2024](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+        ### [5 Celebs Who Have Rocked The Trendy Wolf Cut](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
-        There were lots of great nail looks from celebrities in 2024, but the extra-long embellished manis from "Wicked" star Cynthia Erivo really wowed us.
+        The shaggy, retro wolf cut was popularized by celebrities like Miley Cyrus and Jenna Ortega -- and now, it's trendier than ever.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
     *  [![](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
         
@@ -74,7 +74,7 @@
         
         [Beauty](https://www.women.com/category/beauty/) By Bernadette Roe
         
-        ### [Britney Spears's Hair Transformation Over The Years](https://www.women.com/1729572/britney-spears-hair-transformation/)
+        ### [Britney Spears' Hair Transformation Over The Years](https://www.women.com/1729572/britney-spears-hair-transformation/)
         
         Britney Spears understands that to change your hair is to change your life. And she's undergone many hair changes.
         
@@ -84,18 +84,6 @@
 More Stories
 ------------
 
-*  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-    
-    ### [5 Celebs Who Have Rocked The Trendy Wolf Cut](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-    
-    The shaggy, retro wolf cut was popularized by celebrities like Miley Cyrus and Jenna Ortega -- and now, it's trendier than ever.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
-    
 *  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -107,6 +95,18 @@ More Stories
     Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
     
     By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
+*  [![Hailey Bieber with olive nails](https://www.women.com/img/gallery/the-chicest-celebrity-manicures-of-2024/intro-1733334961.jpg)](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [The Chicest Celebrity Manicures Of 2024](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
+    
+    There were lots of great nail looks from celebrities in 2024, but the extra-long embellished manis from "Wicked" star Cynthia Erivo really wowed us.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
     
 *  [![Two smiling women flying the gay pride flag behind them outdoors](https://www.women.com/img/gallery/what-does-it-mean-to-be-abrosexual-heres-everything-you-need-to-know/intro-1733337138.jpg)](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
     
