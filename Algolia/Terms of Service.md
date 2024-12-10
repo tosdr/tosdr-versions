@@ -1,11 +1,11 @@
 * [* Deutsch](https://www.algolia.com/de/policies/sla/ "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/sla/ "Switch to ")
     
 
-[News:
+[New:
 
-Come see us at AWS re:Invent, booth 393, Dec 2-6!
+Data Transformation for AI Search
 
-Learn more](https://www.algolia.com/search-solutions/algolia-on-aws)
+Learn more](https://www.algolia.com/products/features/data-transformation)
 
 * [Company](https://www.algolia.com/about)
 * [Partners](https://partners.algolia.com/)
