@@ -1,3 +1,7 @@
+Please visit our [Branch Location](https://www.communityfirstfl.org/connect/contact-us/branch-locations "Branch locations") page for our special holiday hours.
+
+![Close Notification](/images/icon-close-white.svg)
+
 [![Community First Credit Union Logo](/getmedia/addf5aff-0552-4329-a166-593f8ad2d231/logo-header.png?width=198&height=54&ext=.png)](https://www.communityfirstfl.org/)
 
 [Locations](https://www.communityfirstfl.org/connect/contact-us/branch-locations)
