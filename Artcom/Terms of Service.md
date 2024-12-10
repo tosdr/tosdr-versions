@@ -2,11 +2,11 @@ Shop Now
 
 25% off Everything\* Ends in..
 
-0DAYS10HRS7MINS
+0DAYS4HRS12MINS
 
 25% off Everything\* Ends in..
 
-0DAYS10HRS7MINS
+0DAYS4HRS12MINS
 
 Shop Now
 
