@@ -293,43 +293,46 @@ Advertise
 [The Australian Financial Review Magazine](https://www.afr.com/afr-magazine)
 ----------------------------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.828%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/a2bad985fc65705c6cb04032b2f3bc3d3e15d97d)](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
+[![ ](https://static.ffx.io/images/$zoom_0.6623%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ed706490aa9fe83dbd9196902d20a1051d1c116d)](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
 
-### [Christmas recipes from some of Melbourne’s best restaurants](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
+### [The year’s best books as chosen by the Financial Review newsroom](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
 
-* Jill Dupleix
+* 45 mins ago
+* Staff writers
 
-* ### [The love affair between watches and cars is only just revving up](https://www.afr.com/life-and-luxury/fashion-and-style/the-love-affair-between-watches-and-cars-is-only-just-revving-up-20241031-p5kmyr)
+* ### [Egypt’s bygone glamour gets a luxurious new spin](https://www.afr.com/life-and-luxury/travel/egypt-s-bygone-glamour-gets-a-luxurious-new-spin-20241023-p5kkke)
     
-* ### [Fashion should focus on its best customers – and they’re not 20-year-olds](https://www.afr.com/life-and-luxury/fashion-and-style/fashion-should-focus-on-its-best-customers-and-they-re-not-20-year-olds-20241023-p5kklg)
+* ### [Christmas recipes from some of Melbourne’s best restaurants](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
     
 
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Macquarie’s Shemara Wikramanayake has topped the AFR’s CEO pay ranks for the fourth year running. ](https://static.ffx.io/images/$zoom_0.3173%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_295%2C$y_147/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/3579381dc61d98b9a4e3933807d19e765d564706)](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
+[![CEO of the Central Coast Marriners, Alyssar Narey.](https://static.ffx.io/images/$zoom_0.2431%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_238%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ef756291951ede871fedd691091680e5c77881b4)](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
 
-### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
+### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
 
-* Patrick Durkin
+* 55 mins ago
+* Zoe Samios
 
-* ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
+* ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
     
-* ### [How IAG boss Nick Hawkins weathered the perfect storm](https://www.afr.com/work-and-careers/leaders/how-iag-boss-nick-hawkins-weathered-the-perfect-storm-20241118-p5kri3)
+* ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1597%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_188%2C$y_211/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/28453fbff9e64a8fc0d8afcda42b29335936aed8)](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
+[![ ](https://static.ffx.io/images/$zoom_0.1296%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_308/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d977e1d2a7e145b9a65a26c0bb0277328b2aa628)](https://www.afr.com/life-and-luxury/food-and-wine/australian-open-takes-premium-packages-to-another-level-20241204-p5kvw0)
 
-### [This scooter is all fun and games until someone falls off a cliff](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
+### [Australian Open takes premium packages to another level](https://www.afr.com/life-and-luxury/food-and-wine/australian-open-takes-premium-packages-to-another-level-20241204-p5kvw0)
 
-* John Davidson
+* 55 mins ago
+* Jill Dupleix
 
-* ### [Max Allen’s guide to stocking a bar trolley](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-guide-to-stocking-a-bar-trolley-20241204-p5kvsi)
+* ### [How professional drinkers manage the silly season](https://www.afr.com/life-and-luxury/health-and-wellness/how-professional-drinkers-manage-the-silly-season-20241126-p5ktql)
     
-* ### [A $4000 apres-ski sweater for him and a $1100 pantsuit for her](https://www.afr.com/life-and-luxury/fashion-and-style/a-4000-apres-ski-sweater-for-him-and-a-1100-pantsuit-for-her-20241202-p5kv7w)
+* ### [We check in to the next White Lotus resort](https://www.afr.com/life-and-luxury/travel/we-check-in-to-the-next-white-lotus-resort-20241118-p5krmv)
     
 
 [Rich List](https://www.afr.com/rich-list)
