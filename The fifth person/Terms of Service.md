@@ -182,6 +182,12 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of Kong Wee Goh](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/bitcoin-100000-historic-high/#comment-679165)
+    
+    [Kong Wee Goh](https://fifthperson.com/bitcoin-100000-historic-high/#comment-679165)
+    
+    Cheers Leo good advise and write up to ground up those who i...
+    
 * [![Photo of JF](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
     
     [JF](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
@@ -235,12 +241,6 @@ Quick Guides
     [Darren Yeo](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676484)
     
     Thank you, Anna! I'm glad you found this article insightful,...
-    
-* [![Photo of Anna Seow](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
-    
-    [Anna Seow](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
-    
-    This article is insightful, from such a young man....
     
 
 Advertisement
