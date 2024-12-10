@@ -1,4 +1,4 @@
-![](https://ad-wa.anydesk.com/matomo.php?idsite=3&rec=1)                                         
+![](https://ad-wa.anydesk.com/matomo.php?idsite=3&rec=1)                                          
 
 ![](/_static/icons/white/bold/arrow-up-38ccc5.svg)
 
@@ -20,7 +20,7 @@
     
     By Need
     
-    [Remote Support](https://anydesk.com/en/solutions/remote-support) [Remote Work](https://anydesk.com/en/solutions/remote-work) [Mobile Device Support](https://anydesk.com/en/solutions/mobile-device-support) [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises) [Enterprise Solution](https://anydesk.com/en/solutions/enterprise-solution)
+    [Remote Support](https://anydesk.com/en/solutions/remote-support) [Remote Work](https://anydesk.com/en/solutions/remote-work) [Mobile Device Support](https://anydesk.com/en/solutions/mobile-device-support) [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises) [Ultimate Solution](https://anydesk.com/en/solutions/enterprise-solution)
     
     By Industry
     
@@ -314,7 +314,7 @@ Loading captcha...
 
 [Solutions](#card-accordion-footer-menu2)
 
-[Remote Desktop](https://anydesk.com/en/solutions/remote-desktop) [Remote Support](https://anydesk.com/en/solutions/remote-support) [Remote Work](https://anydesk.com/en/solutions/remote-work) [Remote Access](https://anydesk.com/en/solutions/remote-access) [Mobile Device Support](https://anydesk.com/en/solutions/mobile-device-support) [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises) [Enterprise Solution](https://anydesk.com/en/solutions/enterprise-solution) [Buy Now](https://anydesk.com/en/pricing) [Downloads](https://anydesk.com/en/downloads)
+[Remote Desktop](https://anydesk.com/en/solutions/remote-desktop) [Remote Support](https://anydesk.com/en/solutions/remote-support) [Remote Work](https://anydesk.com/en/solutions/remote-work) [Remote Access](https://anydesk.com/en/solutions/remote-access) [Mobile Device Support](https://anydesk.com/en/solutions/mobile-device-support) [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises) [Ultimate Solution](https://anydesk.com/en/solutions/enterprise-solution) [Buy Now](https://anydesk.com/en/pricing) [Downloads](https://anydesk.com/en/downloads)
 
 [Support](#card-accordion-footer-menu3)
 
@@ -360,7 +360,7 @@ Solutions
 
 [Cloud vs On-Premises](https://anydesk.com/en/solutions/on-premises)
 
-[Enterprise Solution](https://anydesk.com/en/solutions/enterprise-solution)
+[Ultimate Solution](https://anydesk.com/en/solutions/enterprise-solution)
 
 [Buy Now](https://anydesk.com/en/pricing)
 
