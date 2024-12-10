@@ -37,6 +37,7 @@
         Try Bitdefender
         
         * [Scamio - Scam Detector](https://www.bitdefender.com/en-us/consumer/scamio) _AI Powered_
+        * [Link Checker](https://www.bitdefender.com/en-us/consumer/link-checker) _NEW_
         * [Antivirus Free](https://www.bitdefender.com/en-us/consumer/free-antivirus)
         * [Antivirus Free for Android](https://www.bitdefender.com/en-us/consumer/antivirus-free-for-android)
         * [Trial Downloads](https://www.bitdefender.com/en-us/Downloads/)
@@ -52,7 +53,7 @@
         
         * [Join Our Community](https://community.bitdefender.com/en/)
         * [Smart Home Cybersecurity](https://www.bitdefender.com/en-us/smart-home/)
-        * [Cyberpedia](https://www.bitdefender.com/cyberpedia/)
+        * [Cyberpedia](https://www.bitdefender.com/en-us/cyberpedia/)
         
     * Privacy & Identity Protection
         
@@ -315,7 +316,7 @@
         
         * [Newsroom](https://www.bitdefender.com/en-us/news/)
         * [Blogs](https://www.bitdefender.com/blog/)
-        * [Bitdefender Cyberpedia](https://www.bitdefender.com/cyberpedia/)
+        * [Bitdefender Cyberpedia](https://www.bitdefender.com/en-us/cyberpedia/)
         
     * Resources
         
