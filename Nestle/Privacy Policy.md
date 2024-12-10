@@ -455,12 +455,6 @@ Main navigation
             
             [Go to **Maggi**](https://www.nestle.com/brands/culinary-chilled-frozen/maggi)
             
-        * [Sweet Earth](https://www.nestle.com/brands/culinary-chilled-frozen/sweet-earth)
-            
-            [Back](# "Close Menu")
-            
-            [Go to **Sweet Earth**](https://www.nestle.com/brands/culinary-chilled-frozen/sweet-earth)
-            
         * [Thomy](https://www.nestle.com/brands/culinary-chilled-frozen/thomy)
             
             [Back](# "Close Menu")
@@ -675,6 +669,12 @@ Main navigation
             [Back](# "Close Menu")
             
             [Go to **S.Pellegrino**](https://www.nestle.com/brands/water/s-pellegrino)
+            
+        * [Sanpellegrino](https://www.nestle.com/brands/water/sanpellegrino)
+            
+            [Back](# "Close Menu")
+            
+            [Go to **Sanpellegrino**](https://www.nestle.com/brands/water/sanpellegrino)
             
         * [Local brands](https://www.nestle.com/brands/water/local-brands)
             
