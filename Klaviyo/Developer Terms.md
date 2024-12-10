@@ -283,6 +283,8 @@ Api terms
 API Terms of Use
 ================
 
+* * *
+
 Updated: July 20, 2020
 
 Thank you for using Klaviyo’s publicly available application program interfaces (“**APIs**“). These API Terms of Use (the “**API Terms**“) describe your rights and responsibilities when accessing our APIs and related [API documentation](https://developers.klaviyo.com/en). By accessing our APIs and [API documentation](https://developers.klaviyo.com/en), you agree to these API Terms and our [Terms of Service](https://www.klaviyo.com/legal/terms-of-service). These API Terms form a part of our [Terms of Service](https://www.klaviyo.com/legal/terms-of-service) and capitalized terms used and not otherwise defined in these API Terms have the meanings given to them in our [Terms of Service](https://www.klaviyo.com/legal/terms-of-service).
