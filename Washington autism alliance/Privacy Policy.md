@@ -132,16 +132,6 @@ If you believe that any information we are holding on you is incorrect or incomp
     
     December 2024
     
-    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
-    
-    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09)
-    
-    Dec 09 2024
-    
-    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2024-12-09) Sale has ended
-    
-    Zoom https://zoom.us (please download the app and check your internet connectivity)
-    
     [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAABLAQAAAAC62kO+AAAAAnRSTlMAAHaTzTgAAAAUSURBVDjLY2AYBaNgFIyCUTDcAAAF3AABhXCxcQAAAABJRU5ErkJggg==)
     
     ![](https://washingtonautismalliance.org/wp-content/uploads/2024/11/DecLL-1-150x75.jpg)](https://washingtonautismalliance.org/events/initial-assessments-evaluations-reevaluations-iees/?occurrence=2024-12-12)
@@ -149,6 +139,18 @@ If you believe that any information we are holding on you is incorrect or incomp
     Dec 12 2024
     
     #### [Initial Assessments, evaluations, reevaluations, IEEs](https://washingtonautismalliance.org/events/initial-assessments-evaluations-reevaluations-iees/?occurrence=2024-12-12)
+    
+    Zoom https://zoom.us (please download the app and check your internet connectivity)
+    
+    January 2025
+    
+    [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAA4AQAAAAA3bDzRAAAAAnRSTlMAAHaTzTgAAAASSURBVDjLY2AYBaNgFIwC2gAABGAAAe2S0E4AAAAASUVORK5CYII=)
+    
+    ![](https://washingtonautismalliance.org/wp-content/uploads/2024/07/SPA-Virtual-Support-Group-Facebook-Cover-1-150x56.png)](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-09)
+    
+    Jan 09 2025
+    
+    #### [Supporting Parents of Autism - Friendship Skills for Students Who are High-Masking/Low Support Needs Autistic](https://washingtonautismalliance.org/events/supporting-parents-of-autism-spa-2/?occurrence=2025-01-09)
     
     Zoom https://zoom.us (please download the app and check your internet connectivity)
     
