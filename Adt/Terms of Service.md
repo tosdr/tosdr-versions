@@ -12,7 +12,7 @@ Home & Personal
 
 [![ADT company LOGO image](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.adt.com/)
 
-[![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)
+[![Customer Resources](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)
 
  [![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.adt.com/shop/diy/cart)
 
@@ -72,7 +72,7 @@ Take Our Quiz](https://www.adt.com/quiz)
 
 [![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
 
- [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.adt.com/shop/diy/cart)
+ [![Customer Resources](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.adt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.adt.com/shop/diy/cart)
 
 [Get a Free Quote](javascript:void(0); "Open Form")
 
@@ -122,7 +122,8 @@ Please contact ADT.
 
   
 
-[Legal](https://www.adt.com/about-adt/legal) [Website Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use)
+* [Legal](https://www.adt.com/about-adt/legal)
+* [Website Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use)
 
 ADT Security - Website Terms of Use
 ===================================
@@ -210,6 +211,8 @@ J. Supported Carriers: AT&T, Verizon Wireless, Sprint, T-Mobile USA, Aio Wireles
 Sign up for email to hear about new offers, products and more
 -------------------------------------------------------------
 
+Asterisks (\*) indicate required fields.
+
 Email\* 
 
 You have successfully subscribed.
@@ -292,7 +295,11 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 
 ### Follow Us
 
- [](https://www.facebook.com/ADT "FaceBook")[](https://twitter.com/ADT "Twitter")[](https://www.pinterest.com/adtstaysafe/pins/ "Pinterest")[](https://www.instagram.com/adtsecurity/ "Instagram")[](http://www.youtube.com/adt "Youtube")
+* [](https://www.facebook.com/ADT "FaceBook")
+* [](https://twitter.com/ADT "Twitter")
+* [](https://www.pinterest.com/adtstaysafe/pins/ "Pinterest")
+* [](https://www.instagram.com/adtsecurity/ "Instagram")
+* [](http://www.youtube.com/adt "Youtube")
 
 [Español](https://www.adt.com/es)
 
@@ -304,7 +311,10 @@ Accessibility
 
 [Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use "Terms of Use") [Advertising Choice](https://preferences-mgr.truste.com/?pid=adt01&aid=adt01&type=adt "Advertising Choice")
 
-[Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy "Privacy Policy") [Licenses](https://www.adt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.adt.com/sitemap "Sitemap") Bug Reporting
+* [Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy "Privacy Policy")
+* [Licenses](https://www.adt.com/about-adt/legal/licenses "Licenses")
+* [Sitemap](https://www.adt.com/sitemap "Sitemap")
+* Bug Reporting
 
 [](https://www.bbb.org/us/fl/boca-raton/profile/burglar-alarm-systems/adt-security-services-0633-30001337#bbbseal "ADT Security Services, Burglar Alarm Systems, Boca Raton, FL")
 
