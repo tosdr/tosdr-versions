@@ -39,10 +39,12 @@ These technologies are necessary for the underlying operation of the site or app
 
 | Name of cookie | Expiry period | Purpose | Company |
 | --- | --- | --- | --- |
-| Name of cookie: \_\_cf\_bm (x 2) | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
-| Name of cookie: \_\_cflb (x 2) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
-| Name of cookie: \_\_cfruid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
-| Name of cookie: \_cfuvid (x 5) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cf\_bm (x 3) | Expiry period: Persistent - 30 minutes | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cflb (x 5) | Expiry period: Persistent - 23 hours | Purpose: Your visit | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_cfruid (x 6) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: \_\_Secure-ROLLOUT\_TOKEN | Expiry period: Persistent - 180 days | Purpose: Under review | Company: To be completed |
+| Name of cookie: \_cfuvid (x 6) | Expiry period: Session cookie | Purpose: Authorisation | Company: Cloudflare, Inc. |
+| Name of cookie: ak\_bmsc | Expiry period: Persistent | Purpose: Under review | Company: To be completed |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 30 days | Purpose: Your visit | Company: DoubleClick, Google LLC |
 | Name of cookie: AWSELB | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
 | Name of cookie: AWSELBCORS | Expiry period: Session cookie | Purpose: Your visit | Company: Amazon Web Services, Amazon.com, Inc. |
@@ -50,6 +52,7 @@ These technologies are necessary for the underlying operation of the site or app
 | Name of cookie: f5avraaaaaaaaaaaaaaaa\_session\_ | Expiry period: Session cookie | Purpose: Your visit | Company: F5 Networks, Inc |
 | Name of cookie: JSESSIONID | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
 | Name of cookie: lbs | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
+| Name of cookie: MEPAJSESSIONID | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
 | Name of cookie: ready | Expiry period: Session cookie | Purpose: Your visit | Company: Visa |
 | Name of cookie: receive-cookie-deprecation | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Google |
 | Name of cookie: TAPID | Expiry period: Persistent - 1 year | Purpose: Your visit | Company: Tealium |
@@ -64,7 +67,7 @@ These technologies are used to measure aggregate website activity, allowing Visa
 | Name of cookie | Expiry period | Purpose | Company |
 | --- | --- | --- | --- |
 | Name of cookie: \_ga | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
-| Name of cookie: \_ga\__\*_ (x 2) | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
+| Name of cookie: \_ga\__\*_ (x 3) | Expiry period: Persistent - 2 years | Purpose: Analytics | Company: Google Analytics, Google LLC |
 | Name of cookie: ar\_debug | Expiry period: Persistent - 90 days | Purpose: Your visit | Company: Google Analytics, Google LLC |
 
 Site experience
@@ -115,6 +118,7 @@ These technologies gather information about your browsing. We also work with adv
 | Name of cookie: IDE | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: DoubleClick, Google LLC |
 | Name of cookie: li\_gc | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: LinkedIn Corporation |
 | Name of cookie: lidc | Expiry period: Persistent - 1 day | Purpose: Social networking | Company: LinkedIn Corporation |
+| Name of cookie: MR | Expiry period: Persistent - 7 days | Purpose: Advertising | Company: Bing, Microsoft Corporation |
 | Name of cookie: MSPTC | Expiry period: Persistent - 1 year | Purpose: Advertising | Company: Bing, Microsoft Corporation |
 | Name of cookie: muc\_ads | Expiry period: Persistent - 2 years | Purpose: Social networking | Company: Twitter, X Corp. |
 | Name of cookie: MUID | Expiry period: Persistent - 2 years | Purpose: Advertising | Company: Bing, Microsoft Corporation |
