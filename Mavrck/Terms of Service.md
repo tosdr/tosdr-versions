@@ -57,6 +57,7 @@ Management](https://www.mavrck.co/)
     * [PinterestCreate pin-worthy posts](https://www.mavrck.co/pinterest-scheduler/)
     * [X (Twitter)Tweet, tweet, repeat](https://www.mavrck.co/twitter-scheduler/)
     * [YouTubeStart sharing your Shorts](https://www.mavrck.co/youtube-scheduler/)
+    * [ThreadsReach millions of new followers](https://www.mavrck.co/threads-scheduler/)
     
     Intro to Later Social
     
@@ -539,6 +540,7 @@ Subject to Section 9 above, these Influencer Terms of Use are governed by the in
     * [Pinterest](https://www.mavrck.co/pinterest-scheduler/)
     * [X (Twitter)](https://www.mavrck.co/twitter-scheduler/)
     * [YouTube](https://www.mavrck.co/youtube-scheduler/)
+    * [Threads](https://www.mavrck.co/threads-scheduler/)
     * [All Platforms](https://www.mavrck.co/social-media-scheduler/)
     
     Solutions
