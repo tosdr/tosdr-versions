@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
+* [How to back up data files from Exoscale using ...](https://www.backup4all.com/how-to-back-up-data-files-from-exoscale-using-backup4all-kb.html)  
     
-* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
+* [How to back up data files from Seeweb using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-seeweb-using-backup4all-kb.html)  
     
-* [How to backup your data to Constant](https://www.backup4all.com/how-to-backup-your-data-to-constant-kb.html)  
+* [How to back up data files from Wasabi S3 Comp ...](https://www.backup4all.com/how-to-back-up-date-files-from-wasabi-s3-compatible-kb.html)  
     
-* [How to fix "there is not enough space on the ...](https://www.backup4all.com/how-to-fix-there-is-not-enough-space-on-the-disk-error-kb.html)  
+* [Types of backup](https://www.backup4all.com/backup-types-kb.html)  
     
-* [What is an Incremental Backup?](https://www.backup4all.com/incremental-backup-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
 
 Choose language:
