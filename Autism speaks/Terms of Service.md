@@ -291,7 +291,7 @@ All the latest that matters to our community
 
 11.26.24
 
-[### 30/10 - Milestone Birthdays for My Son and the ABLE Act](https://guide.autismspeaks.org/advocacy-news/3010-milestone-birthdays-my-son-and-able-act)
+[### 30 & 10 - Milestone Birthdays for My Son and the ABLE Act](https://guide.autismspeaks.org/advocacy-news/30-10-milestone-birthdays-my-son-and-able-act)
 
 A few months ago, Stuart Spielman celebrated the 30th birthday of his autistic son Zak, and soon we will be celebrating the 10th anniversary of the
 
