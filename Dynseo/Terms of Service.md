@@ -1,7 +1,3 @@
-![loader image](https://www.dynseo.com/wp-content/uploads/2024/09/ezgif.com-animated-gif-maker-5.gif)
-
-Close
-
  ![logo](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
 
 * [Home](https://www.dynseo.com/en/)
@@ -250,8 +246,6 @@ The parties agree that any disputes that may occur after or because of these, if
 * [Privacy Policy – DYNSEO](https://www.dynseo.com/en/privacy-policy/)
 
 DYNSEO 2013 - 2022
-
-    
 
  
 
