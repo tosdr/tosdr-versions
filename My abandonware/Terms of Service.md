@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Sundance](https://www.myabandonware.com/game/sundance-smh)
-* [Columns 97](https://www.myabandonware.com/game/columns-97-sj0)
-* [Casino 5 Pack](https://www.myabandonware.com/game/casino-5-pack-ik1)
+* [Disney Fairies](https://www.myabandonware.com/game/disney-fairies-mtd)
+* [Nishimura Kyōtarō Travel Mystery: Akugyaku no Kisetsu - Tōkyō~Nanki-Shirahama Renzoku Satsujin Jiken](https://www.myabandonware.com/game/nishimura-kyotaro-travel-mystery-akugyaku-no-kisetsu-tokyo-nanki-shirahama-renzoku-satsujin-jiken-edr)
+* [Meadows Lanes](https://www.myabandonware.com/game/meadows-lanes-sfm)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
