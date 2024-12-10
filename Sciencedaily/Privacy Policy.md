@@ -228,9 +228,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
-
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
+
+[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
@@ -240,7 +240,7 @@ this week
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
-[Inorganic Chemistry](https://www.sciencedaily.com/news/matter_energy/inorganic_chemistry/)
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
