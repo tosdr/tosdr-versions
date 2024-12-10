@@ -2,7 +2,7 @@
 
 Previous
 
-[Buy 2 Long-Wear Cream Shadow Sticks and save 50% on each. Use code: **DAY2** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+[Get a free Illuminating Essentials Set ($125 value) on orders $90+. Use code: **DAY3** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
