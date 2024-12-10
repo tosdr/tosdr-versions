@@ -15,7 +15,10 @@ Search Product type
 All
 
 * All
+* Access Control
 * Audio Jammers & Noise Generators
+* B Rated Safes
+* Bathroom Safety
 * Baton Flashlights
 * Self-Defense Batons
 * Body Cams
@@ -24,7 +27,11 @@ All
 * Concealed Carry Gun Holsters & Purses
 * Counter Surveillance
 * Cree Flashlights
+* Data Media Safes
+* Data Recovery
+* Disguised Pepper Spray
 * Disguised Stun Guns
+* Dive Knives
 
  Reset 
 
