@@ -18,6 +18,8 @@
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
 * [donate](https://www.darebee.com/support.html)
 
+[![](/images/promo/alerts/tree2024.gif)](https://www.community.darebee.com/threads/ornaments-2024.2105)
+
 Privacy Policy
 ==============
 
