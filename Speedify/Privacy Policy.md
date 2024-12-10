@@ -133,19 +133,19 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Dec 4
+Dec 11
 
 10:00 am - 11:00 am EST
 
-### [12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](https://speedify.com/event/12-4-10am-est-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
+### [12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions](https://speedify.com/event/12-11-10am-est-how-does-speedify-work-with-bad-packet-loss-ask-the-ceo-your-tech-questions/ "12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
 #### Popular Posts
 
-* [How to Fix Slow Fortnite Downloads on PC and Mobile](https://speedify.com/blog/combining-internet-connections/how-to-fix-slow-fortnite-downloads/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [\[TUTORIAL\] Snapchat Unblocked at School - How to Guide](https://speedify.com/blog/how-to/snapchat-unblocked-at-school-tutorial/)
 
 ### Bonding Apps
 
@@ -203,7 +203,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                          
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
