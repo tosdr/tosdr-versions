@@ -11,10 +11,6 @@
             White Eagle Hall](https://www.songkick.com/concerts/42309197-vundabar-at-white-eagle-hall)
         *  [![Murphy's Law Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Murphy's Law  
             White Eagle Hall](https://www.songkick.com/concerts/42309204-murphys-law-at-white-eagle-hall)
-        *  [![The Damned Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Damned  
-            White Eagle Hall](https://www.songkick.com/concerts/42281797-damned-at-white-eagle-hall)
-        *  [![Mannequin Pussy Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mannequin Pussy  
-            White Eagle Hall](https://www.songkick.com/concerts/42285218-mannequin-pussy-at-white-eagle-hall)
         *  [![Richard Thompson Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Richard Thompson  
             White Eagle Hall](https://www.songkick.com/concerts/42288262-richard-thompson-at-white-eagle-hall)
         *  [![Mekons Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Mekons  
