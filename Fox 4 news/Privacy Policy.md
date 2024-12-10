@@ -401,11 +401,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/luigimangione.jpg?ve=1&tl=1)
+ [![UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
 
- ![Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/luigimangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
+ ![UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
 
-### [Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
+### [UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
+
+ [![Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/luigimangione.jpg?ve=1&tl=1)
+
+ ![Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/luigimangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
+
+### [Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
 
  [![Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1)
 
@@ -424,12 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![McLaren split in half by tree in Dallas crash that kills 2](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/abrams-crash.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
 
 ### [McLaren split in half by tree in Dallas crash that kills 2](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
-
- [![UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
-
- ![UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
-
-### [UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
