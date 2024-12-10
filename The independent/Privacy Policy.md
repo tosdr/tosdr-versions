@@ -145,6 +145,7 @@ Privacy Policy
 ==============
 
 **Contents**
+------------
 
 Introduction
 
@@ -175,6 +176,7 @@ Exercising your rights, asking questions and raising concerns
 Contact details for exercising your rights, asking questions and raising concerns
 
 **Introduction**
+----------------
 
 At _The Independent_ we respect your privacy and are committed to protecting your personal information. This privacy policy is for visitors to our websites, apps and other digital platforms. It sets out how we collect, use, disclose, and protect personal data that we hold about you. It also gives information on how to exercise your legal rights. In this policy ‘we’ and ‘our’ means Independent Digital News and Media Limited.
 
@@ -195,6 +197,7 @@ Personal information is any information that can identify you and can include:
 When we refer to “personal information” in this policy, we are referencing “personal data” as defined under UK and EU data protection law, as well as “personal information” as it is defined under California law.
 
 **What personal information do we collect about you?**
+------------------------------------------------------
 
 We collect your personal information in one of the following ways, in line with the relevant data protection laws:
 
@@ -206,6 +209,7 @@ We collect your personal information in one of the following ways, in line with 
 More information about this is set out below.
 
 **What do we use your personal information for?**
+-------------------------------------------------
 
 1)    Personal information you provide directly to us.
 
@@ -354,6 +358,7 @@ _Compliance with our legal obligations._
 In some cases, we may have a legal or regulatory obligation to use or keep your personal data.
 
 **How can you access and update your personal information?**
+------------------------------------------------------------
 
 If you are a registered user or subscriber, you can update your personal information by signing in to your account page. In all other cases, please contact [Customer Services](https://help.independent.co.uk/hc/en-us).
 
@@ -362,6 +367,7 @@ You can also ask for a copy of the personal information we may hold about you, o
 If you wish to contact us by telephone, our number is 0203 615 2990.
 
 **How long do we keep your personal information for?**
+------------------------------------------------------
 
 We will keep your information only for as long as it is relevant and useful for the purpose for which it was originally collected.
 
@@ -380,6 +386,7 @@ We may need to retain your data for a longer period if there is a legal claim or
 We are fully committed to keeping your personal information safe and we take measures to protect your personal information from unauthorised access, disclosure, alteration, or destruction. However, as you will appreciate, no data transmission or storage system can be guaranteed as 100% secure.
 
 **Who do we share your personal information with?**
+---------------------------------------------------
 
 _Sharing with the Group’s companies_
 
@@ -416,6 +423,7 @@ We may also have to release information because of a legal requirement on us or 
 We do not aim our services to children under the age of 13. We do not allow children under 18 to register an account with us.
 
 **Will my data be sent overseas?**
+----------------------------------
 
 As you will know, the internet does not recognise national boundaries. Services on the web are accessible globally so collection and transmission of personal data is not always confined to one country.
 
@@ -426,6 +434,7 @@ Your personal data will only be stored or transferred within the UK, EEA, US or 
 If you are located in the UK or the EEA, you may contact us for a copy of the safeguards which we have put in place for the transfer of your personal data outside the UK or the EEA.
 
 **How we may contact you**
+--------------------------
 
 We will contact you in accordance with your preferences. From time to time we may contact you by email or browser or app push notification to give you service information. For example, if your subscription is changing, or your payment method has expired. You will not be able to opt-out from receiving these service messages unless you no longer wish to use the services.
 
@@ -436,6 +445,7 @@ You can manage your preferences and subscriptions to newsletters and emails by s
 Occasionally we may ask you if you would like to participate in market research or respond to you if you have made a complaint or have logged a query.
 
 **Your data rights:**
+---------------------
 
 Right of access – you can ask for a copy of the data that we hold about you.
 
@@ -460,6 +470,7 @@ We may ask for proof of identity to be able to proceed with your request in orde
 Please note the Independent is a media organisation and publisher. This means we may be subject to certain exemptions under data protection law when we process personal data for the purposes of journalism. These exemptions apply to some of the ways the Independent uses personal data. This privacy policy does not cover personal data that the Independent processes for the purposes of journalism.
 
 **Information for California residents**
+----------------------------------------
 
 Categories of personal information (PI) collected, along with examples of PI and the purpose of collecting PI are set out below:
 
@@ -550,12 +561,14 @@ We endeavour to respond to a verifiable request within 45 days of its receipt. I
 Please note that some of these rights are not absolute and exemptions may apply in certain circumstances.
 
 **Exercising your rights, asking questions and raising concerns**
+-----------------------------------------------------------------
 
 If you have any queries or comments about this privacy policy, or you would like to make a request, please contact us using our online form available here: [Customer Services](https://help.independent.co.uk/hc/en-us/requests/new).
 
 If you’re unhappy with how we’ve handled your data or your request, please get in touch with us in the first instance using our online form: [Customer Services](https://help.independent.co.uk/hc/en-us/requests/new). You may also get in touch with our Data Protection Officer. Their contact details are in the table below. If you’re still not satisfied with our response, you have the right to complain to the Information Commissioner’s Office (ICO) whose contact information is also provided in the table below.
 
 **Contact details**
+-------------------
 
 Contact Name: **Information Commissioner’s Office**
 
@@ -564,6 +577,7 @@ Address: Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, United Kingdom
 Contact Info: 0303 123 1113; [https://ico.org.uk/concerns/](https://ico.org.uk/concerns/)
 
 **Data Protection Officer (DPO)**
+---------------------------------
 
 Contact name: Nicola Mckilligan-Regan
 
@@ -574,6 +588,7 @@ Contact info: [dpo@independent.co.uk](mailto:dpo@independent.co.uk)
 If you are based in the EEA please contact our EU Representative:
 
 **EU Representative**
+---------------------
 
 Contact name: IDNML EU Representative
 
@@ -582,6 +597,7 @@ Address: IDNML EU REP c/o Kazient Privacy Experts, 77 Lower Camden Street, Dubli
 Contact info: [idnml.eurep@kazient.eu](mailto:idnml.eurep@kazient.eu)
 
 **Changes to this privacy policy**
+----------------------------------
 
 We may make changes to this policy at any time, and where necessary we will inform you of these changes via email. We will display the date the policy was last updated on this page.
 
