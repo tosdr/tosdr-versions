@@ -164,7 +164,7 @@ These cookies allow us to count visits and traffic sources, so we can measure an
 * [Friðhelgi og skilmálar](https://vivaldi.com/is/privacy/browser/)
 * [Öryggismál](https://vivaldi.com/is/security/)
 
-AfrikaansAzərbaycancaбългарскиCatalàČeštinaDanskDeutschEnglishEspañolفارسیSuomiFrançaisGalegoMagyarIndonesiaÍslenskaItaliano日本語TaqbaylitKurdish한국어NederlandsNorsk bokmålpolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenčinaSlovenščinaСрпскиSrpskiSvenskaTürkçeUkrainian简体中文繁體中文
+AfrikaansAzərbaycancaбългарскиCatalàDanskDeutschEnglishEspañolفارسیSuomiFrançaisMagyarIndonesiaÍslenskaItaliano日本語Taqbaylit한국어NederlandspolskiPortuguês (Brasil)Português (Europeu)РусскийSlovenščinaСрпскиSrpskiSvenskaUkrainian简体中文繁體中文
 
 © Vivaldi Technologies™ — Allur réttur áskilinn. | [Staða](https://vivaldistatus.com/)
 
