@@ -111,25 +111,25 @@ Most recent
 
 [09-12-2024
 
+Fico proposes ‘COVID amnesty’ and compensation for thousands of Slovaks](https://www.euractiv.com/section/health-consumers/news/ficos-proposes-covid-amnesty-and-compensation-for-thousands-of-slovaks/)[09-12-2024
+
+Regenerative agriculture, unleashing soil superpowers, reducing GHGs, boosting farm revenue](https://www.euractiv.com/section/agriculture-food/news/regenerative-agriculture-unleashing-soil-superpowers-reducing-ghgs-boosting-farm-revenue/)[09-12-2024
+
+Caught between two worlds, Central Asia’s delicate dance with China and Russia evolves](https://www.euractiv.com/section/economy-jobs/news/caught-between-two-worlds-central-asias-delicate-dance-with-china-and-russia-evolves/)[09-12-2024
+
+EU’s beauty sector growth threatened by regulation, limited R&D](https://www.euractiv.com/section/economy-jobs/news/eus-beauty-sector-growth-threatened-by-regulation-limited-rd/)[09-12-2024
+
+Driving to an automated future, mapping Europe’s connected vehicle market](https://www.euractiv.com/section/eet/news/driving-to-an-automated-future-mapping-europes-connected-vehicle-market/)[09-12-2024
+
+EU and China seek influence expansion in vital Middle Corridor trade route](https://www.euractiv.com/section/economy-jobs/news/eu-and-china-seek-influence-expansion-in-vital-middle-corridor-trade-route/)[09-12-2024
+
+Unleashing cobalt’s potential for EU’s energy transition, and global competitiveness](https://www.euractiv.com/section/eet/news/unleashing-cobalts-potential-for-eus-energy-transition-and-global-competitiveness/)[09-12-2024
+
+EU carbon border charge needs to be re-evaluated, says Polish climate secretary](https://www.euractiv.com/section/eet/news/eu-carbon-border-charge-needs-to-be-re-evaluated-says-polish-climate-secretary/)[09-12-2024
+
 Ministers await details of Mercosur deal amid opposition from farmers](https://www.euractiv.com/section/agriculture-food/news/ministers-await-details-of-mercosur-deal-amid-opposition-from-farmers/)[09-12-2024
 
-Chinese firms decry EU’s ‘over-emphasis’ on economic security](https://www.euractiv.com/section/economy-jobs/news/chinese-firms-decry-eus-over-emphasis-on-economic-security/)[09-12-2024
-
-Pressure mounts on new Commission to set up emergency EU steel summit](https://www.euractiv.com/section/economy-jobs/news/pressure-mounts-on-new-commission-to-set-up-emergency-eu-steel-summit/)[09-12-2024
-
-French left fractures are laid bare as search for new PM continues](https://www.euractiv.com/section/politics/news/french-left-fractures-are-laid-bare-as-search-for-new-pm-continues/)[09-12-2024
-
-Resilient mental health in Europe’s youth is essential for a competitive European workforce](https://www.euractiv.com/section/economy-jobs/news/resilient-mental-health-in-europes-youth-is-essential-for-a-competitive-european-workforce/)[09-12-2024
-
-Losing Syria is Putin’s ‘personal defeat’, experts say](https://www.euractiv.com/section/global-europe/news/losing-syria-is-putins-personal-defeat-experts-say/)[09-12-2024
-
-Mitigating Central Asia’s water crisis requires collective action, partnership with the West](https://www.euractiv.com/section/eet/news/mitigating-central-asias-water-crisis-requires-collective-action-partnership-with-the-west/)[09-12-2024
-
-Commission plays careers counsellor for defence industry staff](https://www.euractiv.com/section/global-europe/news/commission-plays-careers-counsellor-for-defence-industry-staff/)[09-12-2024
-
-Technology could help Europe’s Digital Fairness Act enforce online rights](https://www.euractiv.com/section/economy-jobs/news/technology-could-help-europes-digital-fairness-act-enforce-online-rights/)[09-12-2024
-
-Push for a pandemic treaty stalls ahead of Trump’s return](https://www.euractiv.com/section/health-consumers/news/push-for-a-pandemic-treaty-stalls-ahead-of-trumps-return/)
+Chinese firms decry EU’s ‘over-emphasis’ on economic security](https://www.euractiv.com/section/economy-jobs/news/chinese-firms-decry-eus-over-emphasis-on-economic-security/)
 
 ###### Advertisement
 
