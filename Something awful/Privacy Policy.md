@@ -205,23 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Nightmares Fear Factory 2018!](https://www.somethingawful.com/photoshop-phriday/halloween-2018/)
-* [Banker.Bmp, Part 3!](https://www.somethingawful.com/photoshop-phriday/phridays-banker-3/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Banker.Bmp!](https://www.somethingawful.com/photoshop-phriday/banker-comics/)
-* [The Battle of the Stupidest Rifts Characters](https://www.somethingawful.com/dungeons-and-dragons/rifts-stupid-classes/1/)
+* [More Goons With Balloons](https://www.somethingawful.com/comedy-goldmine/goons-balloons-2/1/)
+* [Danger!](https://www.somethingawful.com/comedy-goldmine/danger-warning-signs/1/)
+* [Hey you fuckin' ass trolls!](https://www.somethingawful.com/awfulvision/ghost-dad-brony/1/)
+* [System of a Down](https://www.somethingawful.com/your-band-sucks/system-down/)
+* [Storytime: He-Man and the ROCK WARRIORS!](https://www.somethingawful.com/feature-articles/storytime-heman-rock/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Who's the killer in the back of the taxi?](http://forums.somethingawful.com/showthread.php?threadid=4077110 "Who's the killer in the back of the taxi?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/drugs.png) [Best fictional drug.](http://forums.somethingawful.com/showthread.php?threadid=4077188 "Best fictional drug.")
 
 ### Random Articles
 
-* [Eviland](https://www.somethingawful.com/awful-links/awful-link-539/)
-* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
-* [AOL Search Log Special, Part 3](https://www.somethingawful.com/weekend-web/aol-search-log-3/1/)
-* [Kid Nation Predictions](https://www.somethingawful.com/news/kid-nation-cbs/1/)
-* [Meet Your Internet Friends!](https://www.somethingawful.com/news/meet-your-internet/)
+* [John Titor – Time Traveller](https://www.somethingawful.com/awful-links/awful-link-3723/)
+* [Man of Steel; This Is the End; As Cool as I Am](https://www.somethingawful.com/current-movie-reviews/man-of-steel/1/)
+* [If You're Stuck Beneath Bedsheets That Are Too Tight, You Don't Have To Die](https://www.somethingawful.com/news/stuck-pinned-free/)
+* [Secrets of the Comic Book Industry](https://www.somethingawful.com/news/secrets-comic-book/)
+* [Starship Invasions](https://www.somethingawful.com/movie-reviews/starship-invasions-lee/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
