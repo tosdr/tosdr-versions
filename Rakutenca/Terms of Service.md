@@ -117,7 +117,7 @@ FR
         
         [HP Canada
         
-        2% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
+        up to 5% Cash Back](https://www.rakuten.ca/hp-canada)[Lenovo Canada
         
         3% Cash Back](https://www.rakuten.ca/lenovo-canada)[NordVPN
         
