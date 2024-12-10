@@ -59,7 +59,9 @@ Our platform contains links to other websites, but that doesn’t mean we endors
 **We’re an open platform  
 **Because we’re an open platform, when you write a review, the review and your Trustpilot profile will be visible to anyone who visits our platform. By clicking on your profile, such visitors can see your country location and all the reviews you’ve written, including the locations and products you’ve reviewed, and your product photos or videos. Similarly, if you’re a business user and reply to a review about your company, this will also be visible on our platform. So please remember that depending on the information you add to your Trustpilot profile and the username you choose, you may or may not be anonymous. 
 
-**Personal data we collect**  
+**Personal data we collect**
+----------------------------
+
 Personal data is any information that relates to an identifiable individual. When you create a Trustpilot user account, write a review, create a business account on behalf of your company, or otherwise use our platform or services, we may collect and process the following personal data about you:
 
 * **Contact information:** Your name and email address or any other contact details you may provide to us from time to time.
@@ -154,8 +156,10 @@ If the session ID links to your account, we may associate data relating to your 
 
 We ask you not to share any sensitive personal documents or personal data with us, such as information revealing ethnic origin, religious beliefs, or health information, of yourself or others.
 
-**How we collect personal data  
-**The personal data that we process is primarily collected directly from you when you provide your details to create an account with us, or your usage and profiling information, such as your interaction with our platform, services or marketing emails, such as by leaving reviews or posting replies to reviews.
+**How we collect personal data**
+--------------------------------
+
+The personal data that we process is primarily collected directly from you when you provide your details to create an account with us, or your usage and profiling information, such as your interaction with our platform, services or marketing emails, such as by leaving reviews or posting replies to reviews.
 
 Sometimes we're given information about you from third parties. For example, when you sign up for a Trustpilot account via Facebook, your account is automatically pre-filled with the information we receive from them. Similarly, when a business asks us to send a review invitation to you on their behalf, they give us your name, email address and a reference number, such as an order ID or similar.
 
