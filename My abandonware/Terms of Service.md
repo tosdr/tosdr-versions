@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Bubble Hero 3](https://www.myabandonware.com/game/bubble-hero-3-tsd)
+* [Perky Rabbit](https://www.myabandonware.com/game/perky-rabbit-trp)
 * [Wow!! We Did It, Pat & Mat!](https://www.myabandonware.com/game/wow-we-did-it-pat-mat-trm)
 * [Microtrack: Electric Car Simulator](https://www.myabandonware.com/game/microtrack-electric-car-simulator-trg)
 * [Mega Motion](https://www.myabandonware.com/game/mega-motion-7fj)
-* [Boat Fury](https://www.myabandonware.com/game/boat-fury-tqh)
-* [Fantastic Blood Boy](https://www.myabandonware.com/game/fantastic-blood-boy-tp1)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
