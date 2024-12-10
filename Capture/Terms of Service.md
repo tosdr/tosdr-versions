@@ -1,6 +1,6 @@
 [Skip to content](#MainContent)
 
-[❄️❄️ THE GIFT OF MEMORIES: Ship your order by 12/9 to get your digital download in time for the holidays! ❄️❄️](https://www.capture.com/pages/gift-ideas)
+[❄️❄️ Give the gift of memories this holiday with a Time Capsule or eGift Card ❄️❄️](https://www.capture.com/pages/gift-ideas)
 
      
 
