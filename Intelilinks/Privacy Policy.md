@@ -32,7 +32,7 @@ Reader contributions keep LyrArc open for everyone
 
 [#### Letter from the Editor](https://www.lyrarc.com/letters/21-letter-from-the-editor-and-recent-coverage-guide?tag_search=all-topics)
 
-###### Updated October 04
+###### Updated December 10
 
 #### Top Stories
 
@@ -599,7 +599,7 @@ Reader contributions keep LyrArc open for everyone
 
 [#### Letter from the Editor](https://www.lyrarc.com/letters/21-letter-from-the-editor-and-recent-coverage-guide?tag_search=all-topics)
 
-###### Updated October 04
+###### Updated December 10
 
 * * *
 
