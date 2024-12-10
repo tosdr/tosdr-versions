@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-09 Dec 2024
+10 Dec 2024
 
 * [Home
     
@@ -275,6 +275,13 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Principal 'saddened and disgusted' following weekend vandalism attack on Derry school](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Principal 'saddened and disgusted' following weekend vandalism attack on Derry school")](https://www.derrynow.com/news/local-news/1676327/principal-saddened-and-disgusted-following-weekend-vandalism-attack-on-derry-school.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -326,18 +333,18 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Noel Sharkey celebrates his 90th birthday](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 40th commemoration for Oglach Danny Doherty and Oglach William Fleming")](https://www.derrynow.com/story-telling/pictures---videos/1676465/in-pictures-40th-commemoration-for-oglach-danny-doherty-and-oglach-william-fleming.html)
 
@@ -403,13 +410,6 @@ Rose McGillian (née Flanagan) with daughter Nadine Wilsen.
 
 [IN PICTURES: Vertiv Recruitment host Open Evening in Campsie](https://www.derrynow.com/story-telling/pictures---videos/1673481/in-pictures-vertiv-recruitment-host-open-evening-in-campsie.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School")](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Christmas Jumper Day at Glendermott Primary and Nursery School](https://www.derrynow.com/story-telling/pictures---videos/1673848/in-pictures-christmas-jumper-day-at-glendermott-primary-and-nursery-school.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![NW RegTech ambitions top of the agenda during City of London visit to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NW RegTech ambitions top of the agenda during City of London visit to Derry")](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NW RegTech ambitions top of the agenda during City of London visit to Derry](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry business wins ‘Social Enterprise of the Year’ award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry business wins ‘Social Enterprise of the Year’ award")](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
 
 The Workspace Group, a social enterprise based in Draperstown has been named ‘Social Enterprise of the Year’ at the UK Social Enterprise Awards.
@@ -522,7 +529,7 @@ The Workspace Group, a social enterprise based in Draperstown has been named ‘
 [County Derry business wins ‘Social Enterprise of the Year’ award](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New away kits proving a hit with Derry City fans](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New away kits proving a hit with Derry City fans")](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
+[![New away kits proving a hit with Derry City fans](https://www.derrynow.com/resizer/165/93/true/2024_12_09/Derry_away_kit-1733751077269.jpg--.jpg?1733751077325 "New away kits proving a hit with Derry City fans")](https://www.derrynow.com/news/derry-sport/1676365/new-away-kits-proving-a-hit-with-derry-city-fans.html)
 
 [Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
@@ -549,13 +556,6 @@ The Workspace Group, a social enterprise based in Draperstown has been named ‘
 
 [Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: Beyond The Water](https://www.derrynow.com/resizer/165/93/true/2024_12_09/Snapinsta9587_n_1080_30377430-1733746891517.jpg--.jpg?1733746891679 "MacD on Music: Beyond The Water")](https://www.derrynow.com/news/local-news/1676293/macd-on-music-beyond-the-water.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[MacD on Music: Beyond The Water](https://www.derrynow.com/news/local-news/1676293/macd-on-music-beyond-the-water.html)
------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
