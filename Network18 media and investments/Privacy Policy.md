@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
     * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
-    * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-celeb-sreeleela-inspired-red-ethnic-looks-for-wedding-season-2671842/)
-    * [BEST Bus Accident](https://www.news18.com/india/several-injured-in-mumbais-kurla-after-best-bus-crashes-into-vehicles-9150682.html)
-    * [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
-    * [Bollywood Brides](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
+    * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+    * [Bengaluru Engineer](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
+    * [BEST Bus Accident](https://www.news18.com/india/mumbai-kurla-bus-accident-eyewitnesses-best-bus-mows-down-pedestrians-hits-vehicles-many-killed-9151224.html)
+    * [Syrian Prison](https://www.news18.com/world/syria-notorious-prison-saydnaya-prison-damascus-prisoners-trapped-underground-cells-bashar-al-assad-syria-human-slaughterhouse-9150793.html)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
 * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
-* [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-celeb-sreeleela-inspired-red-ethnic-looks-for-wedding-season-2671842/)
-* [BEST Bus Accident](https://www.news18.com/india/several-injured-in-mumbais-kurla-after-best-bus-crashes-into-vehicles-9150682.html)
-* [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
-* [Bollywood Brides](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
+* [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
+* [Bengaluru Engineer](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
+* [BEST Bus Accident](https://www.news18.com/india/mumbai-kurla-bus-accident-eyewitnesses-best-bus-mows-down-pedestrians-hits-vehicles-many-killed-9151224.html)
+* [Syrian Prison](https://www.news18.com/world/syria-notorious-prison-saydnaya-prison-damascus-prisoners-trapped-underground-cells-bashar-al-assad-syria-human-slaughterhouse-9150793.html)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
