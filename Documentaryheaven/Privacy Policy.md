@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Ground Truth: After The Killing Ends](/wp-content/thumbnails/2207-100x70.jpg?x53432)
+* [![EP2/4 Wonders of the Universe](/wp-content/thumbnails/5690-100x70.jpg?x53432)
     
-    The Ground Truth: After The Killing Ends
+    EP2/4 Wonders of the Universe
     
-    Hailed as “powerful” and “quietly unflinching,” Patricia Foulkrod’s searing documentary feature includes exclusive footage that will stir audiences. The filmmaker’s subjects are patriotic young Americ](https://documentaryheaven.com/the-ground-truth-after-the-killing-ends/ "The Ground Truth: After The Killing Ends")
-* [![Louis Theroux on Michael Jackson](/wp-content/thumbnails/403-100x70.png?x53432)
+    Stardust In the second stop in his exploration of the wonders of the universe, Professor Brian Cox goes in search of humanity’s very essence to answer the biggest questions of all: what are we? And wh](https://documentaryheaven.com/wonders-of-the-universe-2/ "EP2/4 Wonders of the Universe")
+* [![Wheel of Time](/wp-content/thumbnails/7481-100x70.jpg?x53432)
     
-    Louis Theroux on Michael Jackson
+    Wheel of Time
     
-    Louis Theroux travels to America for the chance to meet Michael Jackson, but getting hold of the man turns out to be a lot more difficult than he had anticipated. And then he discovered, Michael Jacks](https://documentaryheaven.com/louis-theroux-on-michael-jackson/ "Louis Theroux on Michael Jackson")
-* [![Earth – The Climate Wars PT 3/3](/wp-content/thumbnails/243-100x70.png?x53432)
+    Wheel of Time is a 2003 documentary film by German director Werner Herzog about Tibetan Buddhism. The title refers to the Kalachakra sand mandala that provides a recurring image for the film.The f](https://documentaryheaven.com/wheel-of-time/ "Wheel of Time")
+* [![Days That Shook The World: Hiroshima](/wp-content/thumbnails/5162-100x70.jpg?x53432)
     
-    Earth – The Climate Wars PT 3/3
+    Days That Shook The World: Hiroshima
     
-    PART THREE - New ChallengesHaving explained the science behind global warming, and addressed the arguments of the climate change sceptics earlier in the series, in this third and final part Dr Iain](https://documentaryheaven.com/earth-the-climate-wars-pt-33/ "Earth – The Climate Wars PT 3/3")
-* [![CRY WOLF: An Unethical Oil Story](/wp-content/thumbnails/6523-100x70.jpg?x53432)
+    During the final stages of World War II in 1945, the United States conducted two atomic bombings against the cities of Hiroshima and Nagasaki in Japan, the first on August 6, 1945 and the second on Au](https://documentaryheaven.com/days-that-shook-the-world-hiroshima/ "Days That Shook The World: Hiroshima")
+* [![Spice Girls: Giving You Everything](/wp-content/thumbnails/8826-100x70.jpg?x53432)
     
-    CRY WOLF: An Unethical Oil Story
+    Spice Girls: Giving You Everything
     
-    DeSmogBlog investigates the controversial decision by Alberta's government to ignore the threat of rapid industrial expansion in the Alberta Tar Sands region, and instead kill thousands of wolves to a](https://documentaryheaven.com/cry-wolf-an-unethical-oil-story/ "CRY WOLF: An Unethical Oil Story")
-* [![Death In Gaza](/wp-content/thumbnails/2137-100x70.jpg?x53432)
+    Spice Girls were the first major British pop music phenomenon of the mid-'90s to not have a debt to independent pop/rock. Instead, the all-female quintet derived from the dance-pop tradition that made](https://documentaryheaven.com/spice-girls-giving-you-everything/ "Spice Girls: Giving You Everything")
+* [![Turnstile](/wp-content/thumbnails/7797-100x70.jpg?x53432)
     
-    Death In Gaza
+    Turnstile
     
-    In spring 2003, filmmaker James Miller and reporter Saira Shah, following the success of their Peabody-winning films “Unholy War” and “Beneath the Veil,” set out to take a first-hand look at the cultu](https://documentaryheaven.com/death-in-gaza/ "Death In Gaza")
+    Turnstile is focused on women involved in the criminal justice system and drug policy reform. The 36 minute film offers an exploration of three women’s experiences with addiction and incarceration, an](https://documentaryheaven.com/turnstile/ "Turnstile")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
