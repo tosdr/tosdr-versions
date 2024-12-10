@@ -12,7 +12,7 @@ Home & Personal
 
 [![ADT company LOGO image](/content/dam/adt7/navigation/Nav_ADT_Logo.svg)](https://www.bluebyadt.com/)
 
-[![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)
+[![Customer Resources](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)
 
  [![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
 
@@ -72,7 +72,7 @@ Take Our Quiz](https://www.bluebyadt.com/quiz)
 
 [![Phone icon is used to show the phone number to call for information](/content/dam/adt7/navigation/Nav_Phone_Icon.svg)](# "Call")
 
- [![This customer icon is used to show that it links to customer page with information](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
+ [![Customer Resources](/content/dam/adt7/navigation/Nav_login_Icon.svg)](https://www.bluebyadt.com/customer/login)[![This cart icon is used to show the products that are added to cart](/content/dam/adt7/navigation/Nav_cart_Icon.svg) 0](https://www.bluebyadt.com/shop/diy/cart)
 
 [Get a Free Quote](javascript:void(0); "Open Form")
 
@@ -122,7 +122,8 @@ Please contact ADT.
 
   
 
-[Legal](https://www.adt.com/about-adt/legal) [Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy)
+* [Legal](https://www.adt.com/about-adt/legal)
+* [Privacy Policy](https://www.adt.com/about-adt/legal/privacy-policy)
 
 ADT Privacy Policy
 ==================
@@ -373,6 +374,8 @@ ADT’s entities and affiliates listed to the left are covered by this policy.
 Sign up for email to hear about new offers, products and more
 -------------------------------------------------------------
 
+Asterisks (\*) indicate required fields.
+
 Email\* 
 
 You have successfully subscribed.
@@ -401,16 +404,16 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 * [Why ADT](https://www.adt.com/security-benefits "Why ADT")
 * [About ADT](https://www.adt.com/about-adt "About  ADT")
 * [ADT Reviews](https://www.adt.com/stories "ADT Reviews")
-* [Newsroom](https://news.adt.com/ "Newsroom")
+* [Newsroom](https://news.adt.com/ "Opens in a new tab")
 
-* [Investor Relations](https://investor.adt.com/ "Investor Relations")
+* [Investor Relations](https://investor.adt.com/ "Opens in a new tab")
 
-### [Careers](https://jobs.adt.com/ "Careers")
+### [Careers](https://jobs.adt.com/ "Opens in a new tab")
 
 ### [Dealers & Service](#dealersAndService)
 
-* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer")
-* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup")
+* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer opens in a new tab")
+* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup opens in a new tab")
 * [Local Service Areas](https://www.adt.com/local "Local Service Areas")
 
 ### [Customer Service](#customerService)
@@ -436,14 +439,14 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 * [Why ADT](https://www.adt.com/security-benefits "Why ADT")
 * [About ADT](https://www.adt.com/about-adt "About  ADT")
 * [ADT Reviews](https://www.adt.com/stories "ADT Reviews")
-* [Newsroom](https://news.adt.com/ "Newsroom")
-* [Careers](https://jobs.adt.com/ "Careers")
-* [Investor Relations](https://investor.adt.com/ "Investor Relations")
+* [Newsroom](https://news.adt.com/ "Opens in a new tab")
+* [Careers](https://jobs.adt.com/ "Opens in a new tab")
+* [Investor Relations](https://investor.adt.com/ "Opens in a new tab")
 
 ### Dealers & Service
 
-* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer")
-* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup")
+* [Become an ADT Dealer](https://www.adt.com/dealerprogram "Become an ADT Dealer opens in a new tab")
+* [Dealer Lookup](https://www.adt.com/about-adt/legal/licenses/dealer-licenses "Dealer Lookup opens in a new tab")
 * [Local Service Areas](https://www.adt.com/local "Local Service Areas")
 
 ### Customer Service
@@ -455,7 +458,11 @@ By clicking sign up, I agree to receive emails about ADT offers and I understand
 
 ### Follow Us
 
- [](https://www.facebook.com/ADT "FaceBook")[](https://twitter.com/ADT "Twitter")[](https://www.pinterest.com/adtstaysafe/pins/ "Pinterest")[](https://www.instagram.com/adtsecurity/ "Instagram")[](http://www.youtube.com/adt "Youtube")
+* [](https://www.facebook.com/ADT "FaceBook")
+* [](https://twitter.com/ADT "Twitter")
+* [](https://www.pinterest.com/adtstaysafe/pins/ "Pinterest")
+* [](https://www.instagram.com/adtsecurity/ "Instagram")
+* [](http://www.youtube.com/adt "Youtube")
 
 [Español](https://www.adt.com/es)
 
@@ -467,7 +474,10 @@ Accessibility
 
 [Terms of Use](https://www.adt.com/about-adt/legal/terms-of-use "Terms of Use") [Advertising Choice](https://preferences-mgr.truste.com/?pid=adt01&aid=adt01&type=adt "Advertising Choice")
 
-[Privacy Policy](https://www.bluebyadt.com/about-adt/legal/privacy-policy "Privacy Policy") [Licenses](https://www.bluebyadt.com/about-adt/legal/licenses "Licenses") [Sitemap](https://www.bluebyadt.com/sitemap "Sitemap") Bug Reporting
+* [Privacy Policy](https://www.bluebyadt.com/about-adt/legal/privacy-policy "Privacy Policy")
+* [Licenses](https://www.bluebyadt.com/about-adt/legal/licenses "Licenses")
+* [Sitemap](https://www.bluebyadt.com/sitemap "Sitemap")
+* Bug Reporting
 
 [](https://www.bbb.org/us/fl/boca-raton/profile/burglar-alarm-systems/adt-security-services-0633-30001337#bbbseal "ADT Security Services, Burglar Alarm Systems, Boca Raton, FL")
 
