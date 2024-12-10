@@ -163,7 +163,7 @@ Please allow up to four weeks for us to reply.
 * [CSCart](https://www.fraudlabspro.com/supported-platforms/cscart)
 * [CubeCart](https://www.fraudlabspro.com/supported-platforms/cubecart)
 * [LiteCart](https://www.fraudlabspro.com/supported-platforms/litecart)
-* [VirtueMart](https://www.fraudlabspro.com/supported-platforms/virtuemart)
+* [ZenCart](https://www.fraudlabspro.com/supported-platforms/zencart)
 * [View More »](https://www.fraudlabspro.com/supported-platforms)
 
 ##### Newsletter
