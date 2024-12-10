@@ -104,6 +104,26 @@ Dec 05 2024
 
 By **[Shannon Watkins](https://admin.mi52siterestore.com/person/shannon-watkins/)** Read time **30 mins** [Read More](https://admin.mi52siterestore.com/article/protecting-the-liberal-arts-and-humanities-in-american-higher-education/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/new-york-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-bragg-and-the-soft-on-crime-radicals.jpg)[](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/ "Read More")
+
+Commentary Governance, Public Safety New York, New York City
+
+Dec 09 2024
+
+[Dear NY Voters: Don’t Fail the Next Daniel Penny and Jordan Neely — Oust DA Bragg and the Soft-on-Crime Radicals](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
+
+By **[Hannah E. Meyers](https://admin.mi52siterestore.com/person/hannah-e-meyers/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/dear-ny-voters-dont-fail-the-next-daniel-penny-and-jordan-neely-oust-da-bragg-and-the-soft-on-crime-radicals/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city.jpg)[](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/ "Read More")
+
+Commentary Cities, Public Safety New York, New York City, Crime Control, Policing
+
+Dec 08 2024
+
+[The Murder of UnitedHealthcare CEO Brian Thompson Is a Bad Sign for New York City](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
+
+By **[Nicole Gelinas](https://admin.mi52siterestore.com/person/nicole-gelinas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-murder-of-unitedhealthcare-ceo-brian-thompson-is-a-bad-sign-for-new-york-city/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/donald-trump-vice-voters.jpg)[](https://admin.mi52siterestore.com/article/what-will-trump-do-for-vice-voters/ "Read More")
 
 Commentary Governance Culture & Society
@@ -123,26 +143,6 @@ Dec 03 2024
 [Model Legislation to Track Foreign Funds to American Universities](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
 
 By **[Neetu Arnold](https://admin.mi52siterestore.com/person/neetu-arnold/)** Read time **14 mins** [Read More](https://admin.mi52siterestore.com/article/model-legislation-to-track-foreign-funds-to-american-universities/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids.jpg)[](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/ "Read More")
-
-Commentary Governance, Health Gender Ideology
-
-Dec 03 2024
-
-[Trump Should Let SCOTUS Back Bans on Puberty Blockers for Gender-Confused Kids](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/)
-
-By **[Leor Sapir](https://admin.mi52siterestore.com/person/leor-sapir/), [Erin Friday](https://admin.mi52siterestore.com/person/erin-friday/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-should-let-scotus-back-bans-on-puberty-blockers-for-gender-confused-kids/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/idens_midnight_spending_binge_.jpg)[](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/ "Read More")
-
-Commentary Health, Governance Healthcare
-
-Dec 03 2024
-
-[Biden’s Midnight Spending Binge](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
-
-By **[Chris Pope](https://admin.mi52siterestore.com/person/chris-pope/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/bidens-midnight-spending-binge/)
 
 Our Policy Areas
 ----------------
