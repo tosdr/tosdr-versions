@@ -976,12 +976,13 @@ By providing this information, you agree to the processing of your personal data
 
 This site is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.
 
-* © 2024 SANS® Institute
 * [Privacy Policy](https://www.sans.org/legal/privacy/)
 * [Terms and Conditions](https://www.sans.org/legal/terms-conditions/)
 * [Do Not Sell/Share My Personal Information](https://www.sans.org/legal/do-not-share-sell/)
 * [Contact](https://www.sans.org/about/contact/)
 * [Careers](https://www.sans.org/mlp/careers/)
+
+© 2024 SANS® Institute. All course titles on this website are trademarks of SANS Institute.
 
 * [Twitter](https://twitter.com/sansinstitute)
 * [Facebook](https://www.facebook.com/sansinstitute)
