@@ -43,18 +43,18 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+*  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
     
-    [Fashion](https://www.women.com/category/fashion/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [Pantone's 2025 Color Of The Year Is A Neutral Lovers Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
-    ============================================================================================================================================================================================
+    [Pamela Anderson Is Still Gorgeous Going Makeup Free](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+    ================================================================================================================================
     
-    Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
+    Stripping back the glam has not only made Pamela Anderson feel more confident, but has also inspired others to feel comfortable in their skin.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
     
 * *  [![](https://www.women.com/img/gallery/the-chicest-celebrity-manicures-of-2024/intro-1733334961.jpg)](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
         
@@ -68,7 +68,7 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1729242/chicest-celebrity-manicures-2024/)
         
-    *  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
+    *  [![](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -84,6 +84,30 @@
 More Stories
 ------------
 
+*  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
+    
+    ### [5 Celebs Who Have Rocked The Trendy Wolf Cut](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
+    The shaggy, retro wolf cut was popularized by celebrities like Miley Cyrus and Jenna Ortega -- and now, it's trendier than ever.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+    
+*  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Pantone's 2025 Color Of The Year Is A Neutral Lover's Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
+    Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
 *  [![Two smiling women flying the gay pride flag behind them outdoors](https://www.women.com/img/gallery/what-does-it-mean-to-be-abrosexual-heres-everything-you-need-to-know/intro-1733337138.jpg)](https://www.women.com/1729316/what-mean-be-abrosexual-explained/)
     
     [Sex](https://www.women.com/category/sex-life/)
@@ -383,30 +407,6 @@ More Stories
     Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
     
     By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-    
-*  [![Short Christmas nails in front of a Christmas tree](https://www.women.com/img/gallery/15-stunning-holiday-manicure-ideas-for-short-nails/intro-1731955638.jpg)](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [15 Stunning Holiday Manicure Ideas For Short Nails](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
-    
-    Short nails don't have to keep you from a stunning holiday manicure. Try festive colors or add sparkle for the New Year.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1716367/stunning-holiday-manicure-ideas-short-nails/)
-    
-*  [![Jenna Bush Hager at an event wearing red](https://www.women.com/img/gallery/the-best-read-with-jenna-book-club-picks-of-all-time/intro-1731948738.jpg)](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The Best Read With Jenna Book Club Picks Of All Time](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
-    
-    Jenna Bush Hager is an eager reader who loves sharing her favorite books, creating Read With Jenna to promote the stories of marginalized voices.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1716056/best-read-with-jenna-book-club-picks-all-time/)
     
 
 Back
