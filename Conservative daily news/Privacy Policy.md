@@ -1,15 +1,15 @@
-Monday, December 9 2024
+Tuesday, December 10 2024
 
 Breaking News
 
+* [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
+* [Under Pressure, Biden Opts For Minimum Acreage Possible In Drilling Decision](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
+* [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
+* [Ernst Signals Support For Hegseth After ‘Encouraging Conversations’](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
+* [Trump Policies Follow Principle of Economic Greatness](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
+* [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
+* [Medal of Honor Monday: Navy Lt. Cmdr. Jackson Pharris](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-navy-lt-cmdr-jackson-pharris/)
 * [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
-* [Who Is This Source Named Anonymous](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
-* [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
-* [The Incredible Shrinking “Legacy” News Media](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
-* [Judges Rule Against TikTok Citing ‘Grave Threat To National Security’](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
-* [Updated: President Joe Biden’s Schedule for Friday, December 6, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-friday-december-6-2024/)
-* [GOP To Be Left With Single-Seat House Majority, Jeopardizing Trump’s Agenda](https://www.conservativedailynews.com/2024/12/gop-to-be-left-with-single-seat-house-majority-jeopardizing-trumps-agenda/)
-* [Trump Urges Court To Dismiss Fani Willis’ Case Against Him](https://www.conservativedailynews.com/2024/12/trump-urges-court-to-dismiss-fani-willis-case-against-him/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,82 +115,82 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hawk-Newsome-BLM-220x150.jpg)](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
+    
+    [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
+    
+    December 9, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
     
     [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
     
     December 8, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5875.webp-220x150.webp)](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
-    
-    [The Anatomy Of A Pardon That Might Backfire](https://www.conservativedailynews.com/2024/12/the-anatomy-of-a-pardon-that-might-backfire/)
-    
-    December 5, 2024
     
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-bigstick-ci-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/weapon-of-choice/)
+* [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
     
-    [Weapon Of Choice](https://www.conservativedailynews.com/2024/12/weapon-of-choice/)
+    [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
     
     December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
+* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
     
-    [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
+    [Under Pressure, Biden Opts For Minimum Acreage Possible In Drilling Decision](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5898-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/08/TikTok-China.jpg)](https://www.conservativedailynews.com/2024/12/tiktok-owner-pleads-for-legal-relief-against-us-tiktok-ban/)
     
-    [Who Is This Source Named Anonymous](https://www.conservativedailynews.com/2024/12/who-is-this-source-named-anonymous/)
+    [TikTok Owner Pleads For Legal Relief Against US TikTok Ban](https://www.conservativedailynews.com/2024/12/tiktok-owner-pleads-for-legal-relief-against-us-tiktok-ban/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/01-missed-ballots-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/gone-missing/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/Hawk-Newsome-BLM-220x150.jpg)](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
     
-    [Gone Missing](https://www.conservativedailynews.com/2024/12/gone-missing/)
+    [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5885-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Joni-Ernst.jpg)](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
     
-    [He’s A Different Man, At Peace With His Mission](https://www.conservativedailynews.com/2024/12/hes-a-different-man-at-peace-with-his-mission/)
+    [Ernst Signals Support For Hegseth After ‘Encouraging Conversations’](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![Mainstream Media Joe Biden bias](https://www.conservativedailynews.com/wp-content/uploads/2024/02/stg020724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
+* [![Bidenomics inflation grocery prices](https://www.conservativedailynews.com/wp-content/uploads/2024/04/mrz042324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/is-your-grocery-bill-gobbling-up-your-budget/)
     
-    [The Incredible Shrinking “Legacy” News Media](https://www.conservativedailynews.com/2024/12/the-incredible-shrinking-legacy-news-media/)
+    [Is Your Grocery Bill Gobbling Up Your Budget?](https://www.conservativedailynews.com/2024/12/is-your-grocery-bill-gobbling-up-your-budget/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![TIKTOK spyware China](https://www.conservativedailynews.com/wp-content/uploads/2023/02/03-tictoc-dy-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/03/Donald-Trump-speech-CPAC-2023-220x150.png)](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
     
-    [Judges Rule Against TikTok Citing ‘Grave Threat To National Security’](https://www.conservativedailynews.com/2024/12/judges-rule-against-tiktok-citing-grave-threat-to-national-security/)
+    [Trump Policies Follow Principle of Economic Greatness](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
     
-    December 8, 2024
+    December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/stg120624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5890-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
     
-    [Good Samaritan on Trial](https://www.conservativedailynews.com/2024/12/good-samaritan-on-trial/)
+    [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
     
-    December 6, 2024
+    December 9, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Review: Aimpoint ACRO C-2](https://www.thegunpage.com/tfb-review-aimpoint-acro-c-2/10612394)
+* [POTD: B&T APC223 PDW Tele + Thermal & Predator Ghillie](https://www.thegunpage.com/potd-bt-apc223-pdw-tele-thermal-predator-ghillie/10612395)
+* [The Rimfire Report: Is .21 Sharp Taking Rimfire Anywhere New?](https://www.thegunpage.com/the-rimfire-report-is-21-sharp-taking-rimfire-anywhere-new/10612396)
+* [Deep Dive: Canadian Federal Government Bans Another 300+ Firearms](https://www.thegunpage.com/deep-dive-canadian-federal-government-bans-another-300-firearms/10612392)
+* [Texas Proposes Anti Red Flag Act To Safeguard Second Amendment Rights](https://www.thegunpage.com/texas-proposes-anti-red-flag-act-to-safeguard-second-amendment-rights/10612386)
+* [SWFA Upgrades Scopes To Gen 2 Models](https://www.thegunpage.com/swfa-upgrades-scopes-to-gen-2-models/10612390)
+* [FREE MAN: Jury Hands Hero Daniel Penny Not Guilty Verdict](https://www.thegunpage.com/free-man-jury-hands-hero-daniel-penny-not-guilty-verdict/10612388)
+* [House Staffer Caught Up In Mags For Me, But Not For Thee Arrest](https://www.thegunpage.com/house-staffer-caught-up-in-mags-for-me-but-not-for-thee-arrest/10612380)
+* [Barrett Mk 22 Enters Full Operational Status With USMC](https://www.thegunpage.com/barrett-mk-22-enters-full-operational-status-with-usmc/10612382)
 * [SCOTUS Sets Conference Date for the Snope v. Brown Assault Weapon Ban Case](https://www.thegunpage.com/scotus-sets-conference-date-for-the-snope-v-brown-assault-weapon-ban-case/10612377)
-* [Warne HyperLite Rings: Light, Strong And Adaptable](https://www.thegunpage.com/warne-hyperlite-rings-light-strong-and-adaptable/10612376)
-* [Holiday Gift Guide: Must-Have Gear for Every Shooter’s Range Bag](https://www.thegunpage.com/holiday-gift-guide-must-have-gear-for-every-shooters-range-bag/10612369)
-* [Canada Bans 324 More Types Of Firearms, Plans To Give The Guns To Ukraine](https://www.thegunpage.com/canada-bans-324-more-types-of-firearms-plans-to-give-the-guns-to-ukraine/10612363)
-* [Why Sen. Schumer Is Rushing Judges Through Senate Confirmation](https://www.thegunpage.com/why-sen-schumer-is-rushing-judges-through-senate-confirmation/10612360)
-* [Understanding The USPSA Classification System](https://www.thegunpage.com/understanding-the-uspsa-classification-system/10612357)
-* [Silencer Saturday #358: A Holiday Suppressed Gift Guide](https://www.thegunpage.com/silencer-saturday-358-a-holiday-suppressed-gift-guide/10612353)
-* [Daniel Penny and the Attempted Murder of Courage: The Dangerous Precedent of Prosecuting Heroes](https://www.thegunpage.com/daniel-penny-and-the-attempted-murder-of-courage-the-dangerous-precedent-of-prosecuting-heroes/10612347)
-* [Review: SIG Sauer ROMEO3MAX PRO Reflex Sight](https://www.thegunpage.com/review-sig-sauer-romeo3max-pro-reflex-sight/10612346)
-* [TFB Review: CZ Bobwhite G2 Intermediate 20 Gauge SxS](https://www.thegunpage.com/tfb-review-cz-bobwhite-g2-intermediate-20-gauge-sxs/10612343)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
