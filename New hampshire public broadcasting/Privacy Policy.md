@@ -186,8 +186,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 * [| Christa](https://video.nhpbs.org/video/christa-ygbur1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Funny Woman](https://video.nhpbs.org/video/preview-igdfag?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Readers Club Our Favorite Books of the Year** | PBS Books](https://video.nhpbs.org/video/pbs-books-readers-club-our-favorite-books-of-the-year-6afwli?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**December 9, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/december-9-2024-pbs-news-hour-full-episode-1733720401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**What to expect from the Syrian opposition coming to power** | PBS News Hour](https://video.nhpbs.org/video/the-fall-of-assad-amna-dis-1733783212?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**2025 Carnegie Medal Finalist Preview** | PBS Books](https://video.nhpbs.org/video/2025-carnegie-medal-finalist-preview-s7alvl?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Volkswagen ID. Buzz & 2024 Toyota Land Cruiser** | MotorWeek](https://video.nhpbs.org/video/2025-volkswagen-id-buzz-2024-toyota-land-cruiser-vj4jyj?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Lost Tombs of Notre Dame Preview** | NOVA](https://video.nhpbs.org/video/lost-tombs-of-notre-dame-preview-dcd8jh?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**3 classic songs Brenda Lee performed as a teenager** | American Masters](https://video.nhpbs.org/video/3-classic-songs-brenda-lee-performed-as-a-teenager-9yyxh4?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
