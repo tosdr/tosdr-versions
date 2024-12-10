@@ -86,13 +86,11 @@ We may make changes to this document with no less than 2 weeks notice. Notice of
 
 ### About this wiki
 
-commit [776154680f960fbd4ab851ad685140e1d0cdb53a](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/776154680f960fbd4ab851ad685140e1d0cdb53a)
-Author: Willow Barraco <contact@willowbarraco.fr>
-Date:   2024-12-05T15:59:11+01:00
+commit [d9d617b2702e81eb674b8093a7609263094e1f8a](https://git.sr.ht/~sircmpwn/sr.ht-docs/commit/d9d617b2702e81eb674b8093a7609263094e1f8a)
+Author: Drew DeVault <sir@cmpwn.com>
+Date:   2024-12-10T18:48:02+01:00
 
-builds.sr.ht/compatibility.md: update alpine details
-
-Signed-off-by: Willow Barraco <contact@willowbarraco.fr>
+git.sr.ht/index: remove spacepub reference
 
 **Clone this wiki**
 
