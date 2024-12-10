@@ -74,9 +74,9 @@ MENUMENU
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
         * * [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/visual-tracking-toy-giveaway.jpg)](https://www.theottoolbox.com/visual-tracking-tips-and-tools-for/)
+                ![](https://www.theottoolbox.com/wp-content/uploads/2023/12/bilateral-coordination-toy-giveaway.jpg)](https://www.theottoolbox.com/bilateral-coordination-toy/)
                 
-                #### [Visual Tracking Tips and Tools for Treatment](https://www.theottoolbox.com/visual-tracking-tips-and-tools-for/)
+                #### [Bilateral Coordination Toys](https://www.theottoolbox.com/bilateral-coordination-toy/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
