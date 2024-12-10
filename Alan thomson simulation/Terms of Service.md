@@ -139,15 +139,6 @@ Number of items in basket: 0
 
 [View All](https://alanthomsonsim.com/category/product-updates/)
 
-6th December 2024 Off
-
-[738419801733505320](https://alanthomsonsim.com/738419801733505320-2/)
-----------------------------------------------------------------------
-
-By [Alan Thomson Simulation](https://alanthomsonsim.com/author/admin/)
-
-738419801733505320
-
 5th December 2024 [7](https://alanthomsonsim.com/ats-launcher-updated-to-final-build-v2-2-2/#comments "Comment on ATS Launcher updated to Final Build V2.2.2")
 
 [ATS Launcher updated to Final Build V2.2.2](https://alanthomsonsim.com/ats-launcher-updated-to-final-build-v2-2-2/)
@@ -155,7 +146,7 @@ By [Alan Thomson Simulation](https://alanthomsonsim.com/author/admin/)
 
 By [Alan Thomson Simulation](https://alanthomsonsim.com/developer/atssalesaccount)
 
-HI GuysWe have some important news to share about one...
+HI GuysWe have some important news to share about one of our long-standing projects. For the past two years, our...
 
 29th October 2024 [2](https://alanthomsonsim.com/ats-launcher-v2-2-0/#comments "Comment on ATS Launcher v2.2.0")
 
@@ -165,6 +156,15 @@ HI GuysWe have some important news to share about one...
 By [Follower Kieran](https://alanthomsonsim.com/author/kwsimulation/)
 
 The ATS Launcher has been updated. Please find the changelog...
+
+12th October 2024 [10](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/#comments "Comment on TPE Merge Updated to V1.0.2")
+
+[TPE Merge Updated to V1.0.2](https://alanthomsonsim.com/tpe-merge-updated-to-v1-0-2/)
+--------------------------------------------------------------------------------------
+
+By [Hayden Yates](https://alanthomsonsim.com/author/ats-hayden/)
+
+Latest version of the TPE Merge & Chat Moss is...
 
 ### Alan thomson simulation on youtube
 
@@ -180,9 +180,9 @@ The ATS Launcher has been updated. Please find the changelog...
 
 ### Random Download
 
-*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2021/05/jpg/robbo13/Screenshot_Just-Trains-Midland-Main-Line_53.02489-1.48272_13-29-23-100x100.jpg "5M98 11:48 Neville Hill T&R.S.M.D-Burton Ot Wetmore Sidings")
+*  [![](https://alanthomsonsim.com/wp-content/uploads/edd/2022/09/jpg/87002rs/Screenshot_WCML-South_51.90716-0.67850_14-45-58_edited-100x100.jpg "[RS] 87001 - 1G30 1415 London Euston - Birmingham New Street (2004)")
     
-    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "5M98 11:48 Neville Hill T&R.S.M.D-Burton Ot Wetmore Sidings")](https://alanthomsonsim.com/downloads/5m98-1148-neville-hill-tr-s-m-d-burton-ot-wetmore-sidings/ "5M98 11:48 Neville Hill T&R.S.M.D-Burton Ot Wetmore Sidings")[5M98 11:48 Neville Hill T&R.S.M.D-Burton Ot Wetmore Sidings](https://alanthomsonsim.com/downloads/5m98-1148-neville-hill-tr-s-m-d-burton-ot-wetmore-sidings/ "5M98 11:48 Neville Hill T&R.S.M.D-Burton Ot Wetmore Sidings")
+    ![](data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%2080%2080%22%3E%3C/svg%3E "[RS] 87001 - 1G30 1415 London Euston - Birmingham New Street (2004)")](https://alanthomsonsim.com/downloads/rs-87001-1g30-1415-london-euston-birmingham-new-street-2004/ "[RS] 87001 - 1G30 1415 London Euston - Birmingham New Street (2004)")[\[RS\] 87001 – 1G30 1415 London Euston – Birmingham New Street (2004)](https://alanthomsonsim.com/downloads/rs-87001-1g30-1415-london-euston-birmingham-new-street-2004/ "[RS] 87001 - 1G30 1415 London Euston - Birmingham New Street (2004)")
 
 ### Most Recent Additions
 
