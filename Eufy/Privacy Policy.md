@@ -601,7 +601,7 @@
     [](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
     Magic Building a Better Home  
-    Up to 480$ Off
+    Up to $480 Off
     
     [Learn More](https://www.eufy.com/eufy-security?ref=navimenu_5_1_1_img)
     
