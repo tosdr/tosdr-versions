@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=830117941892171&ev=PageView&noscript=1)      Mega Seating Plan: Terms of Use                                              
+![](https://www.facebook.com/tr?id=830117941892171&ev=PageView&noscript=1)       Mega Seating Plan: Terms of Use                                              
 
 [Mega Seating Plan ![Mega Seating Plan](/static/img/2023/logo/White.svg)](https://www.seatingplan.com/) 
 
@@ -48,7 +48,7 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ##### Contact Us
 
-If you have any questions about these Terms, please email [rob@seatingplan.com](mailto:rob@seatingplan.com).
+If you have any questions about these Terms, please email [\[email protected\]](https://www.seatingplan.com/cdn-cgi/l/email-protection).
 
 [GDPR and Data Protection](https://www.seatingplan.com/gdpr)
 
@@ -76,7 +76,7 @@ Download the Mega Seating Plan app to your phone to learn student names fast
 
  [![Download on the App Store](/static/img/app_icons/apple.svg)](https://apps.apple.com/us/app/mega-seating-plan/id6503652608)[![Get it on Google Play](/static/img/app_icons/google_play.png)](https://play.google.com/store/apps/details?id=com.robcowen.msp&pcampaignid=web_share)
 
-[Facebook](https://www.facebook.com/megaseatingplan) [Instagram](https://www.instagram.com/megaseatingplan) [BlueSky](https://bsky.app/profile/seatingplan.bsky.social) [X/Twitter](https://www.twitter.com/megaseatingplan) [LinkedIn](https://www.linkedin.com/in/robcowen-teacher/) [Email](mailto:rob@seatingplan.com)
+[Facebook](https://www.facebook.com/megaseatingplan) [Instagram](https://www.instagram.com/megaseatingplan) [BlueSky](https://bsky.app/profile/seatingplan.bsky.social) [X/Twitter](https://www.twitter.com/megaseatingplan) [LinkedIn](https://www.linkedin.com/in/robcowen-teacher/) [\[email protected\]](https://www.seatingplan.com/cdn-cgi/l/email-protection)
 
 Mega Seating Plan Ltd is registered as a company in England and Wales (registration number 10358390).
 
