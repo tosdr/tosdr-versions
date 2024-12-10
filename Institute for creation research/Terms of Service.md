@@ -165,6 +165,146 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Much Evidence Exists for a Worldwide Flood
+
+[![](/i/Main%20Stage%20-%201400x1050/morewhoppersand-1400x1050-MainPage.jpg)](https://www.icr.org/article/more-whopper-sand)
+
+[More Whopper Sand Evidence of Global Flood](https://www.icr.org/article/more-whopper-sand/)
+
+In the U.S. Gulf Coast region, the Upper Jurassic Norphlet Sandstone rests right on top of thousands of feet of Middle Jurassic salt, known as the Louann...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/havrevolcano_1400x1050)](https://www.icr.org/article/deep-sea-volcano-flood)
+
+[Deep-Sea Volcano Gives Glimpse of Flood Eruptions](https://www.icr.org/article/deep-sea-volcano-flood/)
+
+A team of scientists from Australia and the USA recently studied the ejecta from a subsea volcano, gaining new insights into how magma can explode to the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Flood_Amazon_Sea_1400x1050.jpg)](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea)
+
+[Flood Solves Mystery of Amazon Sea](https://www.icr.org/article/flood-solves-mystery-of-amazon-sea/)
+
+In the past 15 years, it’s been determined that a vast ocean once covered the western Amazon drainage basin.1 However, studies of the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More Geological Evidence Indicates Rapid Formation
+
+[![](/i/Main%20Stage%20-%201400x1050/Flood_Dino_Bang_1400x1050.jpg)](https://www.icr.org/article/flood-buried-dinosaurs-with-a-bang)
+
+[Flood Buried Dinosaurs with a Bang](https://www.icr.org/article/flood-buried-dinosaurs-with-a-bang/)
+
+Scientists from the University of Bath have found that dinosaurs were thriving up to the end of the Cretaceous.1 This discovery conflicts with...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Argentinosaurid_1400x1050.jpg)](https://www.icr.org/article/is-newfound-dinosaur-fossil-the-biggest-ever)
+
+[Is Newfound Dinosaur Fossil the Biggest Ever?](https://www.icr.org/article/is-newfound-dinosaur-fossil-the-biggest-ever/)
+
+Whether dealing with athletes, sports teams, skyscrapers, or animals, we always want to know who or what takes the top spot. Researchers just published...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/ocean-bottom-1400x1050)](https://www.icr.org/article/half-billion-year-old-fossil-brains)
+
+[Half-Billion-Year-Old Fossil Brains?](https://www.icr.org/article/half-billion-year-old-fossil-brains/)
+
+Once again, a recent and remarkable fossil discovery has been made challenging evolutionary theory. A strange arthropod (i.e. a radiodont) has been found...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+More Worldwide Catastrophic Evidence Is Everywhere
+
+[![](/i/stage_248/sixthextinction-stage.jpg)](https://www.icr.org/article/newly-discovered-sixth-extinction-rewrites)
+
+[Newly Discovered Sixth Extinction Rewrites Geology](https://www.icr.org/article/newly-discovered-sixth-extinction-rewrites/)
+
+Geology students memorize the rock system names found on geologic column diagrams, learn age assignments, typical fossils, and the five worldwide animal...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/best-of-17-sixth-wide.jpeg)](https://www.icr.org/article/best-2017-sixth-extinction)
+
+[Best of 2017: Sixth Extinction](https://www.icr.org/article/best-2017-sixth-extinction/)
+
+Geologists reassessed the abundance of fossils in Earth’s uppermost rock layers this year, and they believe they found a remarkable sixth global...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/Main%20Stage%20-%201400x1050/coldslabs-1400x1050-MainPage.jpg)](https://www.icr.org/article/cold-slabs-indicate-recent-creation)
+
+[Cold Slabs Indicate Recent Global Flood](https://www.icr.org/article/cold-slabs-indicate-recent-creation/)
+
+Since the 1990s, cross-section images of mantle tomography have shown visible slabs of oceanic lithosphere (which includes oceanic crust) descending...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+More Creation Q&A
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/how_coal_seams_form.jpg)](https://www.icr.org/article/how-did-coal-seams-form)
+
+[How Did Coal Seams Form?](https://www.icr.org/article/how-did-coal-seams-form/)
+
+When I drive from Dallas to Colorado, I sometimes see southbound trains loaded with coal from vast reserves buried in Wyoming rock layers. This coal...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/what_is_image_of_God.jpg)](https://www.icr.org/article/what-is-the-image-of-god)
+
+[What Is the Image of God?](https://www.icr.org/article/what-is-the-image-of-god/)
+
+Genesis 1:26 says, “Then God said, ‘Let Us make man in Our image, according to Our likeness.’” What does it mean for humans...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/are_fossils_just_rocks.jpg)](https://www.icr.org/article/are-fossils-just-rocks-shaped-like-bones)
+
+[Are Fossils Just Rocks Shaped like Bones?](https://www.icr.org/article/are-fossils-just-rocks-shaped-like-bones/)
+
+I picked up my first fossil from beneath a swing in Kansas when I was six years old. Fossils have fascinated me ever since. Soon after, our family visited...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+
+$9.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
+
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
+
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
+
+$14.99
+
+$19.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
+
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
+
+$9.99
+
+$19.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
