@@ -1,7 +1,5 @@
 ![](/images/debug.gif)
 
-[Hackster.ioLearning Hardware Community.](https://hackster.io/ "Hackster logo")
-
 Projects
 
 ×
@@ -61,6 +59,7 @@ To opt out of being tracked by Google Analytics across all websites visit [http:
     
 * [Hackster Overview](https://hackster.io/about "Hackster Overview")
 * [Hackster for Business](https://hackster.io/business "Hackster for Business")
+* [Hackster PRO](https://hackster.io/pro "Hackster PRO")
 * [Help Articles](https://help.hackster.io/ "Help Articles")
 * [Brand Resources](https://hackster.io/branding "Brand Resources")
 * [Sitemap](https://hackster.io/sitemap.xml.html "Sitemap")
