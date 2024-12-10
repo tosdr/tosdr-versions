@@ -518,16 +518,16 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [Lisa Fitz auf den NDS](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
-[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/10/241028-Lisa-Fitz-Die-Antideutschen-Kasten-NDS.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
+[![Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/wp-content/uploads/2024/12/241210-Lisa-Fitz-Religion-Physik-Kasten.jpg "Alle Beiträge von Lisa Fitz")](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 
 * [Alle Beiträge von Lisa Fitz](https://www.nachdenkseiten.de/?gastautor=lisa-fitz)
 * [Termine - Lisa Fitz](https://www.lisa-fitz.de/termine-2024/)
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Michael Hartmann im Gespräch mit Albrecht Müller (Teil 3/3)](https://www.nachdenkseiten.de/wp-content/uploads/2022/09/2022-09-13-Hartmann-Gespraech-Teil3-Cover-tuerkis-YTButton.jpg "Michael Hartmann im Gespräch mit Albrecht Müller (Teil 3/3)")](https://www.nachdenkseiten.de/?p=88247)
+[![Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2023/02/230223-Willy-Wimmer-Gespraech-NDS-Cover-YTButton-e1677154751138.jpg "Gespräch zwischen Willy Wimmer und Albrecht Müller")](https://www.nachdenkseiten.de/?p=94202)
 
-* [Michael Hartmann im Gespräch mit Albrecht Müller (Teil 3/3)](https://www.nachdenkseiten.de/?p=88247)
+* [Gespräch zwischen Willy Wimmer und Albrecht Müller](https://www.nachdenkseiten.de/?p=94202)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
