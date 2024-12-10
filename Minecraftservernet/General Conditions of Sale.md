@@ -29,15 +29,15 @@ Version All 1.21.4 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 
 
 Active Servers
 
-[![TrekCraft](plugins/MineCraft/icons/25x25xTrekCraft_1691578684.png.pagespeed.ic.kw9HXByTco.jpg)
+[![StigmaPixelmon](plugins/MineCraft/icons/25x25xStigmaPixelmon_1728244261.png.pagespeed.ic.2NSTyGMxqP.png)
 
-TrekCraft: Towny](https://minecraft-server.net/details/TrekCraft/ "TrekCraft: Towny") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![TheCoilMC](plugins/MineCraft/icons/25x25xTheCoilMC_1692232580.png.pagespeed.ic.KAeZ38kGe1.jpg)
+Stigma Pixelmon](https://minecraft-server.net/details/StigmaPixelmon/ "Stigma Pixelmon")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
 
-The Coil MC](https://minecraft-server.net/details/TheCoilMC/ "The Coil MC")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1733794948.png.pagespeed.ic.Lpo4XP03vo.jpg)
 
-NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!](https://minecraft-server.net/details/whoocraft/ "NEW MAP with modded terrain!! - 0 tick farms - better structures - villager leashing - tpa and homes - craftable enchanted apples!! - Gongs Hut!!")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
+Termina - Towny Raiding (War) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny Raiding (War) (SMP) [Crossplay]") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![TotalVanilla](plugins/MineCraft/icons/25x25xTotalVanilla_1733766922.png.pagespeed.ic.6R9WISDLl7.jpg)
 
-CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")
+Total Vanilla](https://minecraft-server.net/details/TotalVanilla/ "Total Vanilla")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07587 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06081 - Created by [Debaucus](https://debauc.us/)
