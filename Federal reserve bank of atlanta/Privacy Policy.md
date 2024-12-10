@@ -181,7 +181,7 @@ Menutoggle menu
     * [Publications](https://www.atlantafed.org/community-development/publications)
         * [Discussion Papers](https://www.atlantafed.org/community-development/publications/discussion-papers)
         * [Federal Reserve System Resources](https://www.atlantafed.org/community-development/publications/federal-reserve-system-resources)
-        * [_Partners Update_](https://www.atlantafed.org/community-development/publications/partners-update)
+        * [_Partners Update_](https://www.atlantafed.org/economy-matters/annual-report/2023)
         * [Special Publications](https://www.atlantafed.org/community-development/publications/special)
     * [Content by Subject](https://www.atlantafed.org/community-development/content-by-subject)
 * [About the Fed](https://www.atlantafed.org/about)
