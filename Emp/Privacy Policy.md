@@ -152,11 +152,13 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/x-mas/?pmid=SAM-3313_CYD_EUR)
+[](https://www.emp.de/sale/)
 
-Bis zu -20%\*
+Weihnachten steht vor der Tür
 
-[Jetzt bestellen!](https://www.emp.de/x-mas/?pmid=SAM-3313_CYD_EUR "Jetzt bestellen!") Code **CHOOSE** kopieren
+Sichere dir dein Schnäppchen!
+
+[Jetzt shoppen!](https://www.emp.de/sale/ "Jetzt shoppen!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
