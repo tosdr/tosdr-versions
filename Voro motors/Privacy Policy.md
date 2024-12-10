@@ -1,6 +1,6 @@
 Γ
 
-                                                                 Privacy Policy - VORO MOTORS                   
+                                                                      Privacy Policy - VORO MOTORS                     
 
        
 
@@ -18,6 +18,7 @@ Menu
         * [Roadster](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
+        * [RoadRunner V3 Waitlist](https://www.voromotors.com/pages/roadrunner-v3-waitlist)
         * [RoadRunner Pro](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
     * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
         * [RS Midnight](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
@@ -158,6 +159,7 @@ Continue Shopping
         * [Roadster](https://www.voromotors.com/products/roadster)
         * [RoadRunner SE](https://www.voromotors.com/products/emove-roadrunner-se-light-weight-entry-level-seated-electric-scooter)
         * [RoadRunner V2](https://www.voromotors.com/products/emove-roadrunner)
+        * [RoadRunner V3 Waitlist](https://www.voromotors.com/pages/roadrunner-v3-waitlist)
         * [RoadRunner Pro](https://www.voromotors.com/products/emove-roadrunner-pro-seated-electric-scooter)
     * [Inmotion Electric Scooters](https://www.voromotors.com/collections/inmotion-electric-scooters)
         * [RS Midnight](https://www.voromotors.com/products/inmotion-rs-midnight-electric-scooter)
