@@ -211,9 +211,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nippon Steel makes final push to win over U.S. workers](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-steel-final-push-us-workers/ "Nippon Steel makes final push to win over U.S. workers")
+[Ishiba vows to spur LDP debate on dual surname option](https://www.japantimes.co.jp/news/2024/12/10/japan/politics/ishiba-dual-surname/ "Ishiba vows to spur LDP debate on dual surname option")
+
+3 mins ago
+
+[Syria's rebels work to form government, restore order after Assad ouster](https://www.japantimes.co.jp/news/2024/12/10/world/syria-rebels-power-transfer/ "Syria's rebels work to form government, restore order after Assad ouster")
 
 26 mins ago
 
-[Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony](https://www.japantimes.co.jp/news/2024/12/10/japan/nihon-hidankyo-putin-nukes/ "Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony")
+[Trump plays 'shadow president' on world stage](https://www.japantimes.co.jp/news/2024/12/10/world/politics/shadow-president-trump-world/ "Trump plays 'shadow president' on world stage")
 
-26 mins ago
+38 mins ago
 
-[Japan's corporate bankruptcies increased 4.2% in November](https://www.japantimes.co.jp/business/2024/12/09/companies/bankruptcies-november-increase/ "Japan's corporate bankruptcies increased 4.2% in November")
+[Taiwan sees the most Chinese military aircraft around it in two months](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/taiwan-china-military-exercises-lai/ "Taiwan sees the most Chinese military aircraft around it in two months")
 
-9 hours ago
+44 mins ago
 
-[BP and JERA to combine offshore wind operations in joint venture](https://www.japantimes.co.jp/business/2024/12/09/companies/bp-jera-wind/ "BP and JERA to combine offshore wind operations in joint venture")
+[Japan to tighten regulations for electronic devices scrap yards](https://www.japantimes.co.jp/news/2024/12/10/japan/japan-scrap-yard-regulations/ "Japan to tighten regulations for electronic devices scrap yards")
 
-10 hours ago
-
-[Japanese investors sell overseas equities for second straight month](https://www.japantimes.co.jp/business/2024/12/09/markets/investors-sell-overseas-equities/ "Japanese investors sell overseas equities for second straight month")
-
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
