@@ -323,7 +323,7 @@ Advertise
 
 [![ ](https://static.ffx.io/images/$zoom_0.1597%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_188%2C$y_211/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/28453fbff9e64a8fc0d8afcda42b29335936aed8)](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
 
-### [It’s all fun and games until someone falls off a cliff](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
+### [This scooter is all fun and games until someone falls off a cliff](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
 
 * John Davidson
 
