@@ -433,7 +433,7 @@ Miscellaneous
 
 Step logoStep logo with colored accents and white text
 
-### Banking That Builds Credit
+Banking That Builds Credit
 
 (US) **+1**
 
