@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a014f3b4-4b3a-4b48-afd1-77ded5d4af99/20241210T000236/a014f3b4-4b3a-4b48-afd1-77ded5d4af99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a014f3b4-4b3a-4b48-afd1-77ded5d4af99/20241210T000236/a014f3b4-4b3a-4b48-afd1-77ded5d4af99_360x203.jpg)](https://www.wqad.com/article/entertainment/places/ice-rink-bettendorf-the-landing-opening-date/526-170ea353-de96-46af-959a-ba2c26b65add)
         
-        #### [Hillside alongside John Deere House in Moline cleared of overgrown brush](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a) [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
+        #### [Bettendorf's new permanent ice rink set to open to the public](https://www.wqad.com/article/entertainment/places/ice-rink-bettendorf-the-landing-opening-date/526-170ea353-de96-46af-959a-ba2c26b65add)
         
-        #### [Moline public works clears out brush form John Deere House hillside](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a) [![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f1db010c-c199-4ae2-af7d-7f2fdd11034b/20241209T221046/f1db010c-c199-4ae2-af7d-7f2fdd11034b_360x203.jpg)](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
         
-        #### [Hillside leading up to John Deere House in Moline cleared of brush, seeded](https://www.wqad.com/article/entertainment/places/john-deere-house-moline-hillside-cleared/526-81da72ff-b350-452b-a712-f99394454a1a)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a7b747e0-9e47-4058-bb76-78b326ba6c5f/20241209T190830/a7b747e0-9e47-4058-bb76-78b326ba6c5f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a7b747e0-9e47-4058-bb76-78b326ba6c5f/20241209T190830/a7b747e0-9e47-4058-bb76-78b326ba6c5f_360x203.jpg)](https://www.wqad.com/article/news/local/the-current/kicks-for-kids-foster-students-rock-island-brent-hamerlinck-how-to-donate/526-aaab76ff-1c3b-4f49-902b-ceac2fa2ec5a)
-        
-        #### ['Kicks For Kids' now collecting shoes, donations for Quad City students](https://www.wqad.com/article/news/local/the-current/kicks-for-kids-foster-students-rock-island-brent-hamerlinck-how-to-donate/526-aaab76ff-1c3b-4f49-902b-ceac2fa2ec5a)
+        #### [3 men killed after boat capsizes on Mississippi River near Bellevue, Iowa DNR report says](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/f28759dc-de8e-4c9a-b9a0-411cb7e3809c/20241209T231231/f28759dc-de8e-4c9a-b9a0-411cb7e3809c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f28759dc-de8e-4c9a-b9a0-411cb7e3809c/20241209T231231/f28759dc-de8e-4c9a-b9a0-411cb7e3809c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
+        #### [Another big drop in temperatures ahead following this warm stretch](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
         
         #### [Weather Impact Alert issued for Thursday, Dec. 12 due to dangerously low wind chills](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c/20241209T131558/40bd8dd5-2b63-4c77-aa1e-6e5a3f3b166c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
-        
-        #### [One last day in the 50s before another Arctic outbreak arrives](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -81,9 +78,9 @@ Navigation
         
         #### [Vote for this week's Midwest Technical Institute Score Standout | Week 15](https://www.wqad.com/article/sports/the-score/midwest-technical-institute-score-standout-wqad/526-d485d3df-8cee-4e73-bd43-16b4f8ce1b46)
         
-    *  [![](https://media.tegna-media.com/assets/WZZM/images/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6/20241206T104615/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6_16x9.jpg) ![](https://media.tegna-media.com/assets/WZZM/images/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6/20241206T104615/dcd2c2ec-1295-4e8f-a13e-43a6a8b88ce6_360x203.jpg)](https://www.wqad.com/article/sports/nfl/lions-packers-playoffs-win/69-f8ef8e25-f0b2-468c-88a2-87aad69d14cd)
+    *  [![](https://media.tegna-media.com/assets/WOI/images/f1737767-210a-43b0-8512-6c9abd4511d9/20241209T151157/f1737767-210a-43b0-8512-6c9abd4511d9_16x9.jpg) ![](https://media.tegna-media.com/assets/WOI/images/f1737767-210a-43b0-8512-6c9abd4511d9/20241209T151157/f1737767-210a-43b0-8512-6c9abd4511d9_360x203.jpg)](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-hawkeyes-bowl-game-2024-music-city-missouri/524-45636b98-da0c-4777-89d2-15800ca53f1f)
         
-        #### [Lions clinch playoffs after defeating Packers 34-31](https://www.wqad.com/article/sports/nfl/lions-packers-playoffs-win/69-f8ef8e25-f0b2-468c-88a2-87aad69d14cd)
+        #### [Hawkeyes to face Mizzou in 2024 Music City Bowl](https://www.wqad.com/article/sports/ncaa/iowa-hawkeyes/iowa-hawkeyes-bowl-game-2024-music-city-missouri/524-45636b98-da0c-4777-89d2-15800ca53f1f)
         
     
 * [VERIFY](https://www.wqad.com/verify)
@@ -100,7 +97,7 @@ Navigation
 
 Davenport, IA »
 
-47°
+36°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
