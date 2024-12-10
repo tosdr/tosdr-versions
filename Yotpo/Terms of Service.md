@@ -86,6 +86,8 @@
             Accelerating incredible Black and Indigenous-owned brands.](https://www.yotpo.com/yotpo_rx/)
 * [Log in](https://yap.yotpo.com/)
 
+[![btn-bg](https://www.yotpo.com/wp-content/uploads/2024/12/Menu-CTA-1.png)](https://www.yotpo.com/walkaway-ooo/)
+
 [Log in](https://login.yotpo.com/#/login?signup_utm_source=yotpo_website)
 
 Get a demo
