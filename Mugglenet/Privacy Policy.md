@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Six different actors have played Lord Voldemort in the Harry Potter films.
+“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
 
 ### Potter History
 
-March 20, 2003 – The book cover art for Harry Potter and the Order of the Phoenix is released in the United States and United Kingdom. It was the first cover to create lots of hype in the Harry Potter fandom because by that point fansites were flourishing.
+June 4, 2012 – Sony unveils Wonderbook: Book of Spells at the Electronic Entertainment Expo in Los Angeles.
 
 ### Potter Quote
 
-“I’ll join you when hell freezes over.”
+“There’s no need to call me ‘sir,’ Professor.”
 
 [](#)
 
