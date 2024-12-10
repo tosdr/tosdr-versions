@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c2fc61e1-c443-4f97-b3c1-b6b89f63422e/20241210T133950/c2fc61e1-c443-4f97-b3c1-b6b89f63422e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c2fc61e1-c443-4f97-b3c1-b6b89f63422e/20241210T133950/c2fc61e1-c443-4f97-b3c1-b6b89f63422e_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-shelton-olympia-tumwater/281-9e2ca375-4ced-4617-8a43-53d900697dcf)
+    *  [![](https://media.king5.com/assets/KING/images/fe8fe991-25a3-4921-8099-5224ad2329af/20241210T140432/fe8fe991-25a3-4921-8099-5224ad2329af_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8fe991-25a3-4921-8099-5224ad2329af/20241210T140432/fe8fe991-25a3-4921-8099-5224ad2329af_360x203.jpg)](https://www.king5.com/article/life/food/voodoo-doughnut-seattle/281-9f4718bc-a628-439f-96f4-33ffc1d9ce72)
         
-        #### [Dense Fog Advisory in effect for Shelton, Olympia, Tumwater](https://www.king5.com/article/weather/weather-blog/dense-fog-advisory-shelton-olympia-tumwater/281-9e2ca375-4ced-4617-8a43-53d900697dcf)
+        #### [Voodoo Doughnut opens first Seattle location Tuesday](https://www.king5.com/article/life/food/voodoo-doughnut-seattle/281-9f4718bc-a628-439f-96f4-33ffc1d9ce72)
         
-    *  [![](https://media.king5.com/assets/KING/images/dad3a666-1e00-485e-8ffb-d671f7f4a1e7/dad3a666-1e00-485e-8ffb-d671f7f4a1e7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dad3a666-1e00-485e-8ffb-d671f7f4a1e7/dad3a666-1e00-485e-8ffb-d671f7f4a1e7_360x203.jpg)](https://www.king5.com/article/news/local/shuttering-edmonds-police-department-possible-budget-cut/281-67eaab92-d0b4-4bca-92d1-6e9f7585577e)
+    *  [![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ad2b1e3a-5886-42dd-912a-6b3dca0b147b/20241210T191054/ad2b1e3a-5886-42dd-912a-6b3dca0b147b_360x203.jpg)](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
         
-        #### [Shuttering Edmonds PD on the table as city looks to address budget deficit](https://www.king5.com/article/news/local/shuttering-edmonds-police-department-possible-budget-cut/281-67eaab92-d0b4-4bca-92d1-6e9f7585577e)
+        #### [Bellevue bomb squad investigate 'suspicious' vehicle in mall parking lot](https://www.king5.com/article/news/local/bellevue/bellevue-bomb-squad-suspicious-vehicle-mall-parking-lot/281-f415d6f3-f934-4499-be36-4eddde0de31b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-36°
+44°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
