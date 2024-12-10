@@ -348,9 +348,7 @@ USD $ | United States
 * [TikTok](https://www.tiktok.com/@angelstudiosinc)
 * [YouTube](https://www.youtube.com/channel/UCQIjTyWmLEdsfqMQay0yGMA)
 
-[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Shop Deals](https://tuttletwins.store/collections/the-shift-empty-tomb-jewelry)
-
-[Shop Deals](https://tuttletwins.store/collections/the-shift-empty-tomb-jewelry)
+[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)
 
 * Shop Shows
     
