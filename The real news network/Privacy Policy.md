@@ -75,15 +75,15 @@ Trending Posts
 --------------
 
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 Close
 
@@ -139,15 +139,15 @@ Trending Posts
 --------------
 
 * [Robert Reich predicted the death of the US middle class 30 years ago. We asked him how to save it.](https://therealnews.com/robert-reich-predicted-the-death-of-the-us-middle-class)
-* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
+* [Alabama prisoners sued to stop forced labor—a court dismissed their case](https://therealnews.com/alabama-prisoners-sued-to-stop-forced-labor-a-court-dismissed-their-case)
 * [Is the Great Depression a glimpse of our future?](https://therealnews.com/is-the-great-depression-a-glimpse-of-our-future)
+* [Biden supports genocide in Gaza because he agrees with it](https://therealnews.com/biden-supports-genocide-in-gaza-because-he-agrees-with-it)
 * ['We are human': Surviving 423 days of genocide in Gaza](https://therealnews.com/we-are-human-surviving-423-days-of-genocide-in-gaza)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Everything you've heard about this election is wrong. Dr. Richard Wolff explains why.](https://therealnews.com/everything-youve-heard-about-this-election-is-wrong-dr-richard-wolff-explains-why)
+* [Trump picks 'deeply strange' Kash Patel—who vowed to 'come after people in the media'—for FBI director](https://therealnews.com/trump-picks-deeply-strange-kash-patel-who-vowed-to-come-after-people-in-the-media-for-fbi-director)
 * [Yes, the 'nonprofit killer' bill is that bad—but it's not invincible](https://therealnews.com/yes-the-nonprofit-killer-bill-is-that-bad-but-its-not-invincible)
 * [The latest theories on how Rey Rivera died don't point to the rooftop](https://therealnews.com/the-latest-theories-on-how-rey-rivera-died-dont-point-to-the-rooftop)
-* [Shattering the myth of Rosa Parks reveals the civil rights movement's true history](https://therealnews.com/rosa-parks-myth-civil-rights-movement-history)
 
 [Skip to content](#main)
 
