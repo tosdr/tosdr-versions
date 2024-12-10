@@ -17,13 +17,13 @@ MENU
     * [Press](https://www.av-test.org/en/press/)
     * [Jobs](https://www.av-test.org/en/about-the-institute/jobs/)
 * [News](https://www.av-test.org/en/news/)
-    * [ATP TEST: concealed attacks of ransomware and info stealers](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers") [](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers")
+    * [Test: Malware protection on MacOS Sonoma 14.6](https://www.av-test.org/en/news/test-malware-protection-on-macos-sonoma-146/ "Test: Malware protection on MacOS Sonoma 14.6") [](https://www.av-test.org/en/news/test-malware-protection-on-macos-sonoma-146/ "Test: Malware protection on MacOS Sonoma 14.6")
+        
+        [ATP TEST: concealed attacks of ransomware and info stealers](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers") [](https://www.av-test.org/en/news/atp-test-concealed-attacks-of-ransomware-and-info-stealers/ "ATP TEST: concealed attacks of ransomware and info stealers")
         
         [Evaluation of an Additional Security Feature for VPN’s](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN&rsquo;s") [](https://www.av-test.org/en/news/evaluation-of-an-additional-security-feature-for-vpns/ "Evaluation of an Additional Security Feature for VPN’s")
         
         [13 security products in an endurance test: here are the best packages...](https://www.av-test.org/en/news/13-security-products-in-an-endurance-test-here-are-the-best-packages-for-windows/ "13 security products in an endurance test: here are the best packages for Windows") [](https://www.av-test.org/en/news/13-security-products-in-an-endurance-test-here-are-the-best-packages-for-windows/ "13 security products in an endurance test: here are the best packages for Windows")
-        
-        [Endurance Test: 14 Security Solutions for Corporate Users](https://www.av-test.org/en/news/endurance-test-14-security-solutions-for-corporate-users/ "Endurance Test: 14 Security Solutions for Corporate Users") [](https://www.av-test.org/en/news/endurance-test-14-security-solutions-for-corporate-users/ "Endurance Test: 14 Security Solutions for Corporate Users")
         
     * News by category
         
