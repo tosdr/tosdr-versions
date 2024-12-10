@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Patch or Perish: The Forgotten Virtue of Diligence in Digital Security
+            ##### What Is a Brute Force Attack?
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/patch-or-perish-the-forgotten-virtue-of-diligence-in-digital-security)
+            [Learn more](https://levelblue.com/blogs/security-essentials/what-is-a-brute-force-attack)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Sam Bocetta](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![LevelBlue](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Sam Bocetta
+#### LevelBlue
 
-Dec 9, 2024
+Dec 10, 2024
 
-### [Patch or Perish: The Forgotten Virtue of Diligence in Digital Security](https://levelblue.com/blogs/security-essentials/patch-or-perish-the-forgotten-virtue-of-diligence-in-digital-security)
+### [What Is a Brute Force Attack?](https://levelblue.com/blogs/security-essentials/what-is-a-brute-force-attack)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
