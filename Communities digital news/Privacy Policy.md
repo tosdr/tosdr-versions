@@ -26,157 +26,159 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-clinton-1200x630.jpg)](https://americanwirenews.com/bill-clinton-points-the-finger-of-blame-for-hillarys-2016-loss-and-its-not-at-putin/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-aoc-penny-1200x630.jpg)](https://americanwirenews.com/aoc-suggests-people-like-daniel-penny-should-be-locked-up-to-prevent-more-violence/)
 
-[Bill Clinton points the finger of blame for Hillary’s 2016 loss and it’s not at Putin](https://americanwirenews.com/bill-clinton-points-the-finger-of-blame-for-hillarys-2016-loss-and-its-not-at-putin/)
+[AOC suggests people like Daniel Penny should be locked up to prevent more ‘violence’](https://americanwirenews.com/aoc-suggests-people-like-daniel-penny-should-be-locked-up-to-prevent-more-violence/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rfktrumpspeech-1200-x-628-1200x630.jpg)](https://americanwirenews.com/77-nobel-laureates-urge-senate-to-reject-rfk-jr-as-attacks-shift-to-yet-another-trump-nominee/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-adam-schiff-1200x630.png)](https://americanwirenews.com/schiff-sworn-into-new-senate-gig-a-month-early/)
 
-[77 Nobel laureates urge Senate to reject RFK Jr. as attacks shift to yet another Trump nominee](https://americanwirenews.com/77-nobel-laureates-urge-senate-to-reject-rfk-jr-as-attacks-shift-to-yet-another-trump-nominee/)
+[Schiff sworn into new Senate gig a month early](https://americanwirenews.com/schiff-sworn-into-new-senate-gig-a-month-early/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kari-lake-trump-1200x630.png)](https://americanwirenews.com/immigration-hawk-kari-lake-rumored-as-possible-ambassador-to-mexico/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg_ernst-1200x630.webp)](https://americanwirenews.com/joni-ernst-changes-tune-on-hegseth-after-maga-pressure-campaign-warning-of-whats-in-store-for-others/)
 
-[Immigration hawk Kari Lake rumored as possible ambassador to Mexico](https://americanwirenews.com/immigration-hawk-kari-lake-rumored-as-possible-ambassador-to-mexico/)
+[Joni Ernst changes tune on Hegseth after ‘MAGA’ pressure campaign: ‘Warning of what’s in store for others…’](https://americanwirenews.com/joni-ernst-changes-tune-on-hegseth-after-maga-pressure-campaign-warning-of-whats-in-store-for-others/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-3-1200x630.jpg)](https://americanwirenews.com/hegseth-does-exclusive-interview-with-hannity-gives-insider-look-into-confirmation-meetings/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cdc-1200x630.jpg)](https://americanwirenews.com/deaths-from-illicit-drug-100-times-more-potent-than-fentanyl-spike-in-past-year-cdc-warns/)
 
-[Hegseth does exclusive interview with Hannity, gives insider look into confirmation meetings](https://americanwirenews.com/hegseth-does-exclusive-interview-with-hannity-gives-insider-look-into-confirmation-meetings/)
+[Deaths from illicit drug 100 times more potent than fentanyl spike in past year, CDC warns](https://americanwirenews.com/deaths-from-illicit-drug-100-times-more-potent-than-fentanyl-spike-in-past-year-cdc-warns/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joedncspeech-1200-x-628-1200x630.jpg)](https://americanwirenews.com/democrats-roll-out-long-wish-list-for-bidens-final-six-weeks/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bedingfield-1200x630.jpg)](https://americanwirenews.com/awkward-moment-when-cnn-host-says-drop-the-banner-so-ceo-murder-suspects-abs-can-be-seen-and-they-do/)
 
-[Democrats roll out long wish list for Biden’s final six weeks](https://americanwirenews.com/democrats-roll-out-long-wish-list-for-bidens-final-six-weeks/)
+[Awkward moment when CNN host says ‘drop the banner’ so CEO murder suspect’s abs can be seen – and they do!](https://americanwirenews.com/awkward-moment-when-cnn-host-says-drop-the-banner-so-ceo-murder-suspects-abs-can-be-seen-and-they-do/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-homan-1200x630.jpg)](https://americanwirenews.com/trumps-border-czar-tom-homan-chokes-back-tears-describing-the-tragedy-that-broke-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rnc-1200x630.jpg)](https://americanwirenews.com/im-proud-of-that-two-more-lawmakers-ditch-radicalized-dem-party-for-the-gop/)
 
-[Trump’s border czar Tom Homan chokes back tears describing the tragedy that ‘broke’ him](https://americanwirenews.com/trumps-border-czar-tom-homan-chokes-back-tears-describing-the-tragedy-that-broke-him/)
+[‘I’m proud of that’: Two more lawmakers ditch ‘radicalized’ Dem Party for the GOP](https://americanwirenews.com/im-proud-of-that-two-more-lawmakers-ditch-radicalized-dem-party-for-the-gop/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1204962141-1200x630.jpg)](https://americanwirenews.com/tulsi-ready-to-go-on-offense-against-the-smear-merchants-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1191867914-1-1200x630.jpg)](https://americanwirenews.com/ultimate-troll-trump-thanks-governor-trudeau-and-the-great-state-of-canada-after-dinner/)
 
-(Bill Pugliano/Getty Images)
+(Photo by Dan Kitwood/Getty Images)
 
-[Tulsi ready to go on offense against the smear merchants – report](https://americanwirenews.com/tulsi-ready-to-go-on-offense-against-the-smear-merchants-report/)
+[‘Ultimate troll!’ Trump thanks ‘Governor Trudeau’ and the ‘great state of Canada’ after dinner](https://americanwirenews.com/ultimate-troll-trump-thanks-governor-trudeau-and-the-great-state-of-canada-after-dinner/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rosie-odonnell-1200x630.jpg)](https://americanwirenews.com/rosie-odonnell-talks-about-her-facial-herpes-in-bizarre-anti-maga-rant/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-greene-1200x630.jpg)](https://americanwirenews.com/heartsick-mtg-accuses-swatter-of-murder-after-woman-dies-in-accident-involving-cop-responding-to-threat/)
 
-[Rosie O’Donnell talks about her facial herpes in bizarre anti-MAGA rant](https://americanwirenews.com/rosie-odonnell-talks-about-her-facial-herpes-in-bizarre-anti-maga-rant/)
+[‘Heartsick’ MTG accuses swatter of ‘murder’ after woman dies in accident involving cop responding to threat](https://americanwirenews.com/heartsick-mtg-accuses-swatter-of-murder-after-woman-dies-in-accident-involving-cop-responding-to-threat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt-lizc-split-1200-x-628-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bscott-jennings-1200x630.jpg)
 
-### Liz Cheney reacts to Trump’s suggestion that J6 committee belongs behind bars, makes veiled threat](https://americanwirenews.com/liz-cheney-reacts-to-trumps-suggestion-that-j6-committee-belongs-behind-bars-makes-veiled-threat/)
+### Scott Jennings whips out simple ‘good’ vs ‘bad’ chart so that even leftists can understand](https://americanwirenews.com/scott-jennings-whips-out-simple-good-vs-bad-chart-so-that-even-leftists-can-understand/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Media pushing Biden ‘preventive’ pardons but some Dems cool on idea](https://americanwirenews.com/media-pushing-biden-preventive-pardons-but-some-dems-cool-on-idea/)
+### [Jay-Z’s blistering response to allegations he raped a 13-year-old girl with ‘Diddy’](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
 
-### [Insider speaks out about child rape, violence at Massachusetts shelters for migrants](https://americanwirenews.com/insider-speaks-out-about-child-rape-violence-at-massachusetts-shelters-for-migrants/)
+### [Trump rips outgoing FBI director Wray: ‘He invaded my home’](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
 
-### [O’Reilly reminisces on Barbara Walters-era of ‘The View’: ‘That hatred didn’t exist’](https://americanwirenews.com/oreilly-reminisces-on-barbara-walters-era-of-the-view-that-hatred-didnt-exist/)
+### [Matt Gaetz’s wife teases ‘big news coming next week’](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
 
-### [Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
+### [Defiant warmonger Biden dials up bombing of Syria after Trump says U.S. should not get involved](https://americanwirenews.com/defiant-warmonger-biden-dials-up-bombing-of-syria-after-trump-says-u-s-should-not-get-involved/)
 
-### [Fox Business anchor shreds James Carville: He’s not ‘some sort of wise southern soothsayer’](https://americanwirenews.com/fox-business-anchor-shreds-james-carville-hes-not-some-sort-of-wise-southern-soothsayer/)
+### [CNN’s Jake Tapper shut down by GOP senator when he peddles Hegseth ‘drinking problem’ narrative](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
 
-### [Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
+### [Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-1-220x180.jpg)](https://americanwirenews.com/biden-us-believes-long-missing-journalist-austin-tice-alive-in-syria-wants-to-get-him-back/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-cardiona-220x180.jpg)](https://americanwirenews.com/ill-informed-cnn-commentator-has-needless-meltdown-over-trumps-birthright-citizenship-stance/)
 
-[Biden: US believes long-missing journalist Austin Tice alive in Syria, wants to ‘get him back’](https://americanwirenews.com/biden-us-believes-long-missing-journalist-austin-tice-alive-in-syria-wants-to-get-him-back/)
+[Ill-informed CNN commentator has needless meltdown over Trump’s birthright citizenship stance](https://americanwirenews.com/ill-informed-cnn-commentator-has-needless-meltdown-over-trumps-birthright-citizenship-stance/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-penny-newsome-220x180.jpg)](https://americanwirenews.com/judge-may-have-given-daniel-penny-defense-partial-victory-as-blm-threatens-summer-of-love-redux/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hochul-speech-220x180.jpg)](https://americanwirenews.com/republicans-slams-gov-hochul-for-bribing-new-yorkers-with-cash-ahead-of-possible-primary/)
 
-[Judge may have given Daniel Penny defense ‘partial victory’ as BLM threatens ‘summer of love’ redux](https://americanwirenews.com/judge-may-have-given-daniel-penny-defense-partial-victory-as-blm-threatens-summer-of-love-redux/)
+[Republicans slams Gov Hochul for ‘bribing’ New Yorkers with cash ahead of possible primary](https://americanwirenews.com/republicans-slams-gov-hochul-for-bribing-new-yorkers-with-cash-ahead-of-possible-primary/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-thomas-220x180.jpg)](https://americanwirenews.com/drug-dealer-wrongly-jailed-for-killing-a-man-returns-to-pokey-after-new-murder-confession/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-wray-grassley-220x180.jpg)](https://americanwirenews.com/grassley-eviscerates-chris-wray-as-his-resignation-before-trumps-term-appears-imminent/)
 
-[Drug dealer ‘wrongly’ jailed for killing a man returns to pokey after new murder confession](https://americanwirenews.com/drug-dealer-wrongly-jailed-for-killing-a-man-returns-to-pokey-after-new-murder-confession/)
+[Grassley eviscerates Chris Wray as his resignation before Trump’s term appears imminent](https://americanwirenews.com/grassley-eviscerates-chris-wray-as-his-resignation-before-trumps-term-appears-imminent/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mike-lee-220x180.png)](https://americanwirenews.com/senator-wants-to-know-who-else-would-like-once-again-to-be-able-to-buy-real-light-bulbs/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rock-carlson-sing-220x180.jpg)](https://americanwirenews.com/kid-rock-tucker-and-a-priest-jamming-to-me-and-jesus-is-the-energy-america-needs/)
 
-[Senator asks ‘who else would like once again to be able to buy ‘real’ light bulbs?’](https://americanwirenews.com/senator-wants-to-know-who-else-would-like-once-again-to-be-able-to-buy-real-light-bulbs/)
+[Kid Rock, Tucker and a priest jamming to ‘Me and Jesus’ is the energy America needs](https://americanwirenews.com/kid-rock-tucker-and-a-priest-jamming-to-me-and-jesus-is-the-energy-america-needs/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kasparianbeck-1200-x-628-220x180.jpg)](https://americanwirenews.com/progressive-host-admits-she-was-an-idiot-about-immigration-crisis-was-duped-by-media/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-watters-pirro-220x180.jpg)](https://americanwirenews.com/you-should-stop-there-judge-advises-jesse-watters-to-shut-the-piehole-after-killer-comment/)
 
-[Progressive host admits she was an ‘idiot’ about immigration crisis, was duped by media](https://americanwirenews.com/progressive-host-admits-she-was-an-idiot-about-immigration-crisis-was-duped-by-media/)
+[‘You should stop there’: Judge advises Jesse Watters to shut the piehole after killer comment](https://americanwirenews.com/you-should-stop-there-judge-advises-jesse-watters-to-shut-the-piehole-after-killer-comment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-uhaul-220x180.png)](https://americanwirenews.com/defund-the-police-pusher-singing-a-different-tune-after-criminals-steal-everything-she-has/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-speech-220x180.jpg)](https://americanwirenews.com/biden-seems-to-take-credit-for-assads-downfall-amid-fears-of-islamic-state-revival/)
 
-[Defund the police pusher singing a different tune after criminals steal everything she has](https://americanwirenews.com/defund-the-police-pusher-singing-a-different-tune-after-criminals-steal-everything-she-has/)
+[Biden seems to take credit for Assad’s downfall amid fears of Islamic State revival](https://americanwirenews.com/biden-seems-to-take-credit-for-assads-downfall-amid-fears-of-islamic-state-revival/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-khanna-220x180.jpg)](https://americanwirenews.com/dem-reps-huge-bipartisan-cooperation-with-doge-under-scrutiny-hes-not-pledging-cooperation-its-a-threat/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fox-news-220x180.png)](https://americanwirenews.com/fox-news-draws-a-stunning-73-percent-of-cable-news-viewers-since-election/)
 
-[Dem Rep’s ‘huge bipartisan cooperation’ with DOGE under scrutiny: ‘He’s not pledging cooperation. It’s a threat’](https://americanwirenews.com/dem-reps-huge-bipartisan-cooperation-with-doge-under-scrutiny-hes-not-pledging-cooperation-its-a-threat/)
+[Fox News draws a stunning 73 percent of cable news viewers since election](https://americanwirenews.com/fox-news-draws-a-stunning-73-percent-of-cable-news-viewers-since-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-murphy-220x180.jpg)](https://americanwirenews.com/senator-calls-for-major-shakeup-at-dnc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-larryoutnumbered-1200-x-628-220x180.jpg)](https://americanwirenews.com/donald-trump-and-jill-biden-into-some-heavy-duty-petting-says-kudlow/)
 
-[Senator calls for major shakeup at DNC](https://americanwirenews.com/senator-calls-for-major-shakeup-at-dnc/)
+[Donald Trump and Jill Biden into some ‘heavy duty petting,’ says Kudlow](https://americanwirenews.com/donald-trump-and-jill-biden-into-some-heavy-duty-petting-says-kudlow/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-habba-220x180.jpg)](https://americanwirenews.com/alina-habba-scores-prime-white-house-position-as-lara-trump-steps-down-as-gop-chair/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/geziv0wboaajq6d-1-220x180.jpg)](https://americanwirenews.com/mugshot-of-suspected-ceo-killer-sparks-swooning-scary-sign-of-our-warped-society/)
 
-[Alina Habba scores prime White House position as Lara Trump steps down as GOP co-chair](https://americanwirenews.com/alina-habba-scores-prime-white-house-position-as-lara-trump-steps-down-as-gop-chair/)
+[Mugshot of suspected CEO killer sparks swooning, scary sign of our warped society](https://americanwirenews.com/mugshot-of-suspected-ceo-killer-sparks-swooning-scary-sign-of-our-warped-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-jayzcbs-1200-x-628-220x180.jpg)](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
+[![](https://americanwirenews.com/wp-content/uploads/2023/03/SG-Trump-Bragg-220x180.jpg)](https://americanwirenews.com/scotus-declines-to-lift-gag-order-on-trump-in-braggs-hush-money-case/)
 
-[Jay-Z’s blistering response to allegations he raped a 13-year-old girl with ‘Diddy’](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
+[SCOTUS declines to lift gag order on Trump in Bragg’s ‘hush money’ case](https://americanwirenews.com/scotus-declines-to-lift-gag-order-on-trump-in-braggs-hush-money-case/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-wray-220x180.jpg)](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rosie-odonnell-220x180.jpg)](https://americanwirenews.com/rosie-odonnell-talks-about-her-facial-herpes-in-bizarre-anti-maga-rant/)
 
-[Trump rips outgoing FBI director Wray: ‘He invaded my home’](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
+[Rosie O’Donnell talks about her facial herpes in bizarre anti-MAGA rant](https://americanwirenews.com/rosie-odonnell-talks-about-her-facial-herpes-in-bizarre-anti-maga-rant/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mgaetzrnc-1200-x-628-220x180.jpg)](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/gettyimages-1204962141-220x180.jpg)](https://americanwirenews.com/tulsi-ready-to-go-on-offense-against-the-smear-merchants-report/)
 
-[Matt Gaetz’s wife teases ‘big news coming next week’](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
+[Tulsi ready to go on offense against the smear merchants – report](https://americanwirenews.com/tulsi-ready-to-go-on-offense-against-the-smear-merchants-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-biden-220x180.jpg)](https://americanwirenews.com/defiant-warmonger-biden-dials-up-bombing-of-syria-after-trump-says-u-s-should-not-get-involved/)
+(Bill Pugliano/Getty Images)
 
-[Defiant warmonger Biden dials up bombing of Syria after Trump says U.S. should not get involved](https://americanwirenews.com/defiant-warmonger-biden-dials-up-bombing-of-syria-after-trump-says-u-s-should-not-get-involved/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-homan-220x180.jpg)](https://americanwirenews.com/trumps-border-czar-tom-homan-chokes-back-tears-describing-the-tragedy-that-broke-him/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tapper-mullin-220x180.jpg)](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
+[Trump’s border czar Tom Homan chokes back tears describing the tragedy that ‘broke’ him](https://americanwirenews.com/trumps-border-czar-tom-homan-chokes-back-tears-describing-the-tragedy-that-broke-him/)
 
-[CNN’s Jake Tapper shut down by GOP senator when he peddles Hegseth ‘drinking problem’ narrative](https://americanwirenews.com/cnns-jake-tapper-shut-down-by-gop-senator-when-he-peddles-hegseth-drinking-problem-narrative/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-joedncspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/democrats-roll-out-long-wish-list-for-bidens-final-six-weeks/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-220x180.jpg)](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
+[Democrats roll out long wish list for Biden’s final six weeks](https://americanwirenews.com/democrats-roll-out-long-wish-list-for-bidens-final-six-weeks/)
 
-[Kristen Welker shocked when Trump says ALL Jan. 6 committee members ‘should go to jail’](https://americanwirenews.com/kristen-welker-shocked-when-trump-says-all-jan-6-committee-members-should-go-to-jail/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hegseth-3-220x180.jpg)](https://americanwirenews.com/hegseth-does-exclusive-interview-with-hannity-gives-insider-look-into-confirmation-meetings/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-litton-sg-featherriver-220x180.jpg)](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+[Hegseth does exclusive interview with Hannity, gives insider look into confirmation meetings](https://americanwirenews.com/hegseth-does-exclusive-interview-with-hannity-gives-insider-look-into-confirmation-meetings/)
 
-[Two Calif. kindergartners shot at Christian school over alleged Gaza ‘genocide’](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kari-lake-trump-220x180.png)](https://americanwirenews.com/immigration-hawk-kari-lake-rumored-as-possible-ambassador-to-mexico/)
 
-Images via Butte County Sheriff's Office
+[Immigration hawk Kari Lake rumored as possible ambassador to Mexico](https://americanwirenews.com/immigration-hawk-kari-lake-rumored-as-possible-ambassador-to-mexico/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-austinlloyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rfktrumpspeech-1200-x-628-220x180.jpg)](https://americanwirenews.com/77-nobel-laureates-urge-senate-to-reject-rfk-jr-as-attacks-shift-to-yet-another-trump-nominee/)
 
-[Biden regime emptying wallet with another $988M earmarked for Ukraine](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
+[77 Nobel laureates urge Senate to reject RFK Jr. as attacks shift to yet another Trump nominee](https://americanwirenews.com/77-nobel-laureates-urge-senate-to-reject-rfk-jr-as-attacks-shift-to-yet-another-trump-nominee/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-boltoncnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-clinton-220x180.jpg)](https://americanwirenews.com/bill-clinton-points-the-finger-of-blame-for-hillarys-2016-loss-and-its-not-at-putin/)
 
-[‘He’s lying’: Slimeball John Bolton insinuates Syrian intrigue with Tulsi Gabbard](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
+[Bill Clinton points the finger of blame for Hillary’s 2016 loss and it’s not at Putin](https://americanwirenews.com/bill-clinton-points-the-finger-of-blame-for-hillarys-2016-loss-and-its-not-at-putin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nbc-220x180.png)](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-djt-lizc-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/liz-cheney-reacts-to-trumps-suggestion-that-j6-committee-belongs-behind-bars-makes-veiled-threat/)
 
-[Trump talks Day One pardon for J6ers, says of Biden payback: ‘Retribution will be through success’](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
+[Liz Cheney reacts to Trump’s suggestion that J6 committee belongs behind bars, makes veiled threat](https://americanwirenews.com/liz-cheney-reacts-to-trumps-suggestion-that-j6-committee-belongs-behind-bars-makes-veiled-threat/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-kelly-220x180.jpg)](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lee-welker-220x180.jpg)](https://americanwirenews.com/nbc-called-out-for-misconstruing-constitution-when-asking-trump-about-birthright-citizenship/)
 
-[Megyn Kelly sets record straight on rumors of new CBS show challenging ‘The View’](https://americanwirenews.com/megyn-kelly-sets-record-straight-on-rumors-of-new-cbs-show-challenging-the-view/)
+[NBC called out for misconstruing Constitution when asking Trump about birthright citizenship](https://americanwirenews.com/nbc-called-out-for-misconstruing-constitution-when-asking-trump-about-birthright-citizenship/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-rogancovid-1200-x-628-220x180.jpg)](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-psaki-220x180.jpg)](https://americanwirenews.com/psaki-says-trump-seeks-to-appoint-loyalists-wholl-weaponize-govt-against-political-enemies/)
 
-[Joe Rogan responds to House COVID report: ‘ALL the conspiracy theorists were correct’](https://americanwirenews.com/joe-rogan-responds-to-house-covid-report-all-the-conspiracy-theorists-were-correct/)
+[Psaki says Trump seeks to appoint loyalists who’ll weaponize gov’t against political enemies](https://americanwirenews.com/psaki-says-trump-seeks-to-appoint-loyalists-wholl-weaponize-govt-against-political-enemies/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-fetterman-220x180.jpg)](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-uhc-suspect-220x180.jpg)](https://americanwirenews.com/person-of-interest-in-killing-of-unitedhealthcare-ceo-arrested-at-pennsylvania-mcdonalds/)
 
-[Fetterman rips ‘sh\*tty’ left-wing rag’s ‘inevitable’ spin on the murder of CEO](https://americanwirenews.com/fetterman-rips-shtty-left-wing-rags-inevitable-spin-on-the-murder-of-ceo/)
+[Person of interest in killing of UnitedHealthcare CEO arrested at Pennsylvania McDonald’s](https://americanwirenews.com/person-of-interest-in-killing-of-unitedhealthcare-ceo-arrested-at-pennsylvania-mcdonalds/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trumpz-1200-x-628-220x180.jpg)](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
+Image via NYPD
 
-[Zelenskyy slammed for dressing like a bum to meet Trump in Paris](https://americanwirenews.com/zelenskyy-slammed-for-dressing-like-a-bum-to-meet-trump-in-paris/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-220x180.jpg)](https://americanwirenews.com/navy-seals-pushing-petition-in-show-of-support-for-pete-hegseth/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-assad-220x180.jpg)](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
+[Navy SEALs pushing petition in show of support for Pete Hegseth](https://americanwirenews.com/navy-seals-pushing-petition-in-show-of-support-for-pete-hegseth/)
 
-[‘Assad is gone’: Trump responds to Syria’s collapse, reminds Americans ‘it’s not our fight’](https://americanwirenews.com/assad-is-gone-trump-responds-to-syrias-collapse-reminds-americans-its-not-our-fight/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death/)
+
+[‘Praise God!’ Reactions pour in as Daniel Penny found ‘NOT GUILTY’ in subway chokehold death](https://americanwirenews.com/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -194,13 +196,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘Participation trophy’: TIME has Kamala Harris at top of list for 2024 ‘Person of the Year’](https://www.bizpacreview.com/2024/12/09/participation-trophy-time-has-kamala-harris-at-top-of-list-for-2024-person-of-the-year-1508375/)
 
+[![Marjorie Taylor Greene reacts to Jay-Z allegations, calls for death penalties for pedophiles](https://www.bizpacreview.com/wp-content/uploads/2024/12/sg-greene.jpg)](https://www.bizpacreview.com/2024/12/09/marjorie-taylor-greene-reacts-to-jay-z-allegations-calls-for-death-penalties-for-pedophiles-1508372/)
+
+[Marjorie Taylor Greene reacts to Jay-Z allegations, calls for death penalties for pedophiles](https://www.bizpacreview.com/2024/12/09/marjorie-taylor-greene-reacts-to-jay-z-allegations-calls-for-death-penalties-for-pedophiles-1508372/)
+
 [![MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-capehart-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
 
 [MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
-
-[![Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-ana-navarro-1200x630-1.png)](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
-
-[Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
 
 ### [COLUMNISTS](https://www.commdiginews.com/columnists/)
 
@@ -276,19 +278,17 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/getty-trump-bidens-220x180.jpeg)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-austinlloyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
 
-[Jill Biden casts longing gaze at Trump at Notre Dame and social media can’t stop talking
+[Biden regime emptying wallet with another $988M earmarked for Ukraine](https://americanwirenews.com/biden-regime-emptying-wallet-with-another-988m-earmarked-for-ukraine/)
 
-(Photo by Pascal Le Segretain/Getty Images for Notre-Dame de Paris)](https://americanwirenews.com/jill-biden-casts-longing-gaze-at-trump-at-notre-dame-and-social-media-cant-stop-talking/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-boltoncnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-bannonwarroom-1200-x-628-220x180.jpg)](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+[‘He’s lying’: Slimeball John Bolton insinuates Syrian intrigue with Tulsi Gabbard](https://americanwirenews.com/hes-lying-slimeball-john-bolton-insinuates-syrian-intrigue-with-tulsi-gabbard/)
 
-[Bannon says Trump should have stuck with Gaetz: ‘You wouldn’t even hear Pete Hegseth’s name’](https://americanwirenews.com/bannon-says-trump-should-have-stuck-with-gaetz-you-wouldnt-even-hear-pete-hegseths-name/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-trump-nbc-220x180.png)](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-pixabay-arrest-220x180.jpg)](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
-
-[Biden regime makes first climate crime arrest: ‘It will not be the last’](https://americanwirenews.com/biden-regime-makes-first-climate-crime-arrest-it-will-not-be-the-last/)
+[Trump talks Day One pardon for J6ers, says of Biden payback: ‘Retribution will be through success’](https://americanwirenews.com/trump-talks-day-one-pardon-for-j6ers-says-of-biden-payback-retribution-will-be-through-success/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -326,22 +326,22 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [Trump engages in next-level trolling of a smiling Jill Biden to plug his ‘Fight, Fight, Fight’ fragrance](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-litton-sg-featherriver-220x180.jpg)](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+
+[Two Calif. kindergartners shot at Christian school over alleged Gaza ‘genocide’
+
+Images via Butte County Sheriff's Office](https://americanwirenews.com/two-calif-kindergartners-shot-at-christian-school-over-alleged-gaza-genocide/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-220x180.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
 [Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-hcso-paul-220x180.jpg)](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-olsonkennedy-220x180.jpg)](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
 
-[Bodycam shows hero cops jump through window to save woman from knife-wielding attacker](https://americanwirenews.com/bodycam-shows-hero-cops-jump-through-window-to-save-woman-from-knife-wielding-attacker/)
+[Doc hit with medical negligence lawsuit, accused of pushing young girl to transition](https://americanwirenews.com/doc-hit-with-medical-negligence-lawsuit-accused-of-pushing-young-girl-to-transition/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/rf-sg-thompson-suspect-220x180.jpg)](https://americanwirenews.com/authorities-find-bag-believed-to-belong-to-brian-thompsons-killer-as-manhunt-continues/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-njf-mugshots-220x180.jpg)](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
 
-[Authorities find bag believed to belong to Brian Thompson’s killer as manhunt continues
-
-Images via NYPD](https://americanwirenews.com/authorities-find-bag-believed-to-belong-to-brian-thompsons-killer-as-manhunt-continues/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-daniel-penny-3-220x180.jpg)](https://americanwirenews.com/judge-dismisses-manslaughter-charge-against-daniel-penny-sends-jury-to-deliberate-on-lesser-charge/)
-
-[Judge dismisses manslaughter charge against Daniel Penny, sends jury to deliberate on lesser charge](https://americanwirenews.com/judge-dismisses-manslaughter-charge-against-daniel-penny-sends-jury-to-deliberate-on-lesser-charge/)
+[Controversial figure Nick Fuentes arrested after woman confronts him at his home](https://americanwirenews.com/controversial-figure-nick-fuentes-arrested-after-woman-confronts-him-at-his-home/)
 
 © 2024. All Rights Reserved. American Wire News
