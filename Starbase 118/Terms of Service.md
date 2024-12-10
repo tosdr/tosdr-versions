@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
+[![](https://www.starbase118.net/wp-content/uploads/2021/05/SB118_logo_white-300x115.png)](https://www.starbase118.net/)
 
 * [News](https://www.starbase118.net/news/)
 * [Wiki](https://wiki.starbase118.net/)
@@ -20,7 +20,7 @@ Menu
 
 [Join Now](https://www.starbase118.net/application/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
+[![](https://www.starbase118.net/wp-content/uploads/2021/05/SB118_logo_white-300x115.png)](https://www.starbase118.net/)
 
 * [News](https://www.starbase118.net/news/)
 * [Wiki](https://wiki.starbase118.net/)
@@ -38,7 +38,7 @@ Menu
 * [Members](https://www.starbase118.net/members/)
 * [Donate](https://www.starbase118.net/members/forms/donate/)
 
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/02/cropped-white-chevron-300x300.png?lossy=0&strip=1&webp=1)
+![](https://www.starbase118.net/wp-content/uploads/2021/02/cropped-white-chevron-300x300.png)
 
 STARBASE 118
 ============
@@ -72,25 +72,25 @@ We are constantly raising the standards of roleplaying in the Star Trek communit
 
 Immerse yourself in a cutting edge roleplaying experience in constant development since 1994. We're proud of our achievements and you could be part of our future.
 
-[![USS Centris-A logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
+[![USS Centris-A logo](https://www.starbase118.net/wp-content/uploads/2021/05/USS-CentrisA-logo.png)](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
 
 ##### 0+
 
 ###### [Ships and Stations](https://wiki.starbase118.net/wiki/index.php?title=Starfleet_Vessel_Register)
 
-[![Captains Council logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
+[![Captains Council logo](https://www.starbase118.net/wp-content/uploads/2021/05/CC-logo.png)](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
 
 ##### 0\+ years
 
 ###### [Command Experience](https://wiki.starbase118.net/wiki/index.php?title=Captains_Council)
 
-[![Starbase 118 Ops logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
+[![Starbase 118 Ops logo](https://www.starbase118.net/wp-content/uploads/2021/05/Starbase_118_Ops-logo.png)](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
 
 ##### 0+
 
 ###### [Active Group Members](https://wiki.starbase118.net/wiki/index.php?title=Member_Directory)
 
-[![Training Team Starfleet Academy logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/application/)
+[![Training Team Starfleet Academy logo](https://www.starbase118.net/wp-content/uploads/2021/05/Trainingteamlogo.png)](https://www.starbase118.net/application/)
 
 ##### 0+
 
@@ -167,67 +167,67 @@ I enjoy the friendships and that there are so many awesome creative minds that i
 
 Jalana RajelCO, USS Constitution-B
 
-![Jalana Rajel](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Jalana Rajel](https://www.starbase118.net/wp-content/uploads/2021/05/JalanaRajel.jpg)
 
 I love the sense of community here. All the writers are very collaborative and really open to the development of your ideas.
 
 Addison MacKenzieXO, USS Resolution
 
-![Addison MacKenzie](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Addison MacKenzie](https://www.starbase118.net/wp-content/uploads/2021/05/AddisonMackenzie.jpg)
 
 We've got such an amazing feeling of friendship among our group that extends far past the IC relationship of our characters.
 
 Wes GreavesMarine Captain, USS Thor
 
-![Wes Greaves](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Wes Greaves](https://www.starbase118.net/wp-content/uploads/2021/05/WesGreaves.png)
 
 This is one community that is only going to get better, as it has over the last 25 years. The next 25 will be amazing.
 
 Genkos AdeaMedical Chief, USS Resolution
 
-![Genkos Adea](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Genkos Adea](https://www.starbase118.net/wp-content/uploads/2021/05/Genkos_Adea.png)
 
 What I enjoy most is the writing collaboration and the sense of camaraderie. Everyone is treated like a part of the family
 
 Randal ShayneCO, USS Arrow
 
-![Randal Shayne](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Randal Shayne](https://www.starbase118.net/wp-content/uploads/2021/05/RandallShayne.png)
 
 I love the interaction of all the characters and the depth and detail of the wiki. There is a lot of support and help if needed.
 
 Cory StoyerHCO, USS Gorkon
 
-![Cory Stoyer](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Cory Stoyer](https://www.starbase118.net/wp-content/uploads/2021/05/CoryStoyer.png)
 
 They are friendly, helpful people, with excellent writing skills. I feel I can still learn a lot from them.
 
 Samira NeathlerSecurity Chief, USS Gorkon
 
-![Samira Neathler](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Samira Neathler](https://www.starbase118.net/wp-content/uploads/2021/05/SamiraNeathler1.png)
 
 It really is a fleet, not just a collection of independent sims. We have stories being woven across ships and space, with freedom to move and explore.
 
 SaveronXO, USS Constitution-B
 
-![Saveron](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Saveron](https://www.starbase118.net/wp-content/uploads/2021/05/Saveron.jpg)
 
 What I enjoy most about the community is the diversity and how quick people are to help one another.
 
 Aine SherlockSecurity Chief, USS Resolution
 
-![Aine Sherlock](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Aine Sherlock](https://www.starbase118.net/wp-content/uploads/2021/05/Aine_Sherlock.png)
 
 I love my crewmates. We each bring a piece of the story that we write and put it all together.
 
 Scotty ReadeEngineer, Amity Outpost
 
-![Scotty Reade](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Scotty Reade](https://www.starbase118.net/wp-content/uploads/2021/05/ScottyReade.jpg)
 
 The best part of my day is picking up my tablet when I wake up and seeing what emails from the group await me, and what our next exciting adventure is!
 
 TatashMarine Intel, StarBase 118 Ops
 
-![Tatash](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![Tatash](https://www.starbase118.net/wp-content/uploads/2021/05/Tatash.png)
 
 Previous
 
@@ -316,7 +316,17 @@ Read More
 Community News
 --------------
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/november-2024-post-counts/)
+[![](https://www.starbase118.net/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg)](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
+
+### [Award winner – Lt. Madison Marsh, OPS (Luminary)](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
+
+docaharford December 10, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-lt-madison-marsh-ops-luminary/)
+
+[![](https://www.starbase118.net/wp-content/uploads/2018/04/fleet-768x306.jpg)](https://www.starbase118.net/2024/november-2024-post-counts/)
 
 ### [November 2024 Post Counts](https://www.starbase118.net/2024/november-2024-post-counts/)
 
@@ -326,7 +336,7 @@ The month of November was defined by a journey of discovery and remarkable narra
 
 [Read More »](https://www.starbase118.net/2024/november-2024-post-counts/)
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
+[![](https://www.starbase118.net/wp-content/uploads/2015/02/Lower-Decks-01-768x432.jpg)](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
 
 ### [Lower Decks interview:  Lieutenant JG Sevantha Saa,  USS Astraeus.](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
 
@@ -335,16 +345,6 @@ Lhandon Nilsen December 6, 2024
 We’re here with another interview with a newer member of our community. The title of this column is “Lower Decks,” hearkening back to the Star
 
 [Read More »](https://www.starbase118.net/2024/lower-decks-interview-lieutenant-jg-sevantha-saa-uss-astraeus/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
-
-### [Memories of Combat Fade, Bonds Strengthen for USS Khitomer](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
-
-Federation News Service December 5, 2024
-
-DEEP SPACE NINE – Locked away in a secure compartment, a mix of Bajoran Security and Starfleet volunteers were treated to an eyeful as the
-
-[Read More »](https://www.starbase118.net/2024/memories-of-combat-fade-bonds-strengthen-for-uss-khitomer/)
 
 Ready to get started?
 ---------------------
@@ -361,7 +361,7 @@ You’ll love our training class where you’ll meet other fleet members and lea
 
 We don’t ask for personal information and the game is free to play.
 
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](https://www.starbase118.net/)
+[![](https://www.starbase118.net/wp-content/uploads/2021/02/chevwhite-sowaldmed1x.png)](https://www.starbase118.net/)
 
 Founded in 1994, StarBase 118 is a fun, free, and welcoming fan-produced Star Trek play-by-email role playing community.
 
@@ -419,7 +419,7 @@ Founded in 1994, StarBase 118 is a fun, free, and welcoming fan-produced Star Tr
 * [USS Octavia E Butler](https://wiki.starbase118.net/wiki/index.php?title=USS_Octavia_E_Butler)
 * [USS Ronin](https://wiki.starbase118.net/wiki/index.php?title=USS_Ronin)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+![](https://www.starbase118.net/wp-content/uploads/2021/02/80x15.png)
 
 [© StarBase 118 | A Star Trek Play-By-Email RPG](https://www.starbase118.net/)
 ------------------------------------------------------------------------------
