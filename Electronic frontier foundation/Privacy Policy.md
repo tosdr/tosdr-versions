@@ -22,7 +22,7 @@
     * [Annual Reports](https://www.eff.org/about/annual-reports-and-financials)
 * [Take Action](https://act.eff.org/)
     * [Action Center](https://act.eff.org/)
-    * [Electronic Frontier Alliance](https://www.eff.org/fight)
+    * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
     * [Volunteer](https://www.eff.org/about/opportunities/volunteer)
 * [Tools](https://www.eff.org/pages/tools)
     * [Privacy Badger](https://www.eff.org/pages/privacy-badger)
@@ -43,6 +43,13 @@
     * [Donate to EFF](https://supporters.eff.org/donate/site-m--h)
     * [Shop](https://shop.eff.org/)
     * [Other Ways to Give](https://www.eff.org/helpout)
+* Search form
+    -----------
+    
+    Search 
+    
+     
+    
 
 * * *
 
@@ -86,7 +93,7 @@ and events in your area.
     * [Annual Reports](https://www.eff.org/about/annual-reports-and-financials)
 * [Take Action](https://act.eff.org/)
     * [Action Center](https://act.eff.org/)
-    * [Electronic Frontier Alliance](https://www.eff.org/fight)
+    * [Electronic Frontier Alliance](https://www.eff.org/electronic-frontier-alliance)
     * [Volunteer](https://www.eff.org/about/opportunities/volunteer)
 * [Tools](https://www.eff.org/pages/tools)
     * [Privacy Badger](https://www.eff.org/pages/privacy-badger)
@@ -107,6 +114,13 @@ and events in your area.
     * [Donate to EFF](https://supporters.eff.org/donate/site-m--h)
     * [Shop](https://shop.eff.org/)
     * [Other Ways to Give](https://www.eff.org/helpout)
+* Search form
+    -----------
+    
+    Search 
+    
+     
+    
 
 Privacy Policy
 ==============
