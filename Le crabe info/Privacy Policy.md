@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 455 utilisateurs actifs
+##### 482 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Microsoft recommande toujours l’outil "Sauvegarder et restaurer" de Windows 7... sur Windows 11 !](https://lecrabeinfo.net/microsoft-recommande-toujours-loutil-sauvegarder-et-restaurer-de-windows-7-sur-windows-11.html)
 * [Windows 11 24H2 : Microsoft confirme des bugs importants avec l'horloge et l'audio USB](https://lecrabeinfo.net/windows-11-24h2-microsoft-confirme-des-bugs-importants-avec-lhorloge-et-laudio-usb.html)
 * [Windows 11 : le TPM 2.0, une exigence "non négociable" pour Microsoft](https://lecrabeinfo.net/microsoft-le-tpm-2-0-une-exigence-non-negociable-pour-windows-11.html)
-* [Vivaldi, un autre navigateur qui révolutionne la navigation internet !](https://lecrabeinfo.net/vivaldi-un-autre-navigateur-qui-revolutionne-la-navigation-internet.html)
 
 ### Tendance
 
