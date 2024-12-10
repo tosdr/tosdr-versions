@@ -2,7 +2,7 @@
 
 [![OurGroceries logo](/static/images/03-LP-MOBILE-OG-Cherry.svg?v=4bb2119642)](https://www.ourgroceries.com/overview) [User Guide](https://www.ourgroceries.com/user-guide) [FAQ](https://www.ourgroceries.com/faq)[Sign In](https://www.ourgroceries.com/sign-in)[Get OurGroceries!](https://www.ourgroceries.com/download)
 
-[![OurGroceries icon](/static/images/02-LP-OG-Logo.svg?v=df35780247)](https://www.ourgroceries.com/overview) [Overview](https://www.ourgroceries.com/overview) [User Guide](https://www.ourgroceries.com/user-guide) [FAQ](https://www.ourgroceries.com/faq) [Sign In](https://www.ourgroceries.com/sign-in) [Get OurGroceries!](https://www.ourgroceries.com/download)
+[![OurGroceries icon](/static/images/02-LP-OG-Logo-Holidays.svg?v=85b29e813c)](https://www.ourgroceries.com/overview) [Overview](https://www.ourgroceries.com/overview) [User Guide](https://www.ourgroceries.com/user-guide) [FAQ](https://www.ourgroceries.com/faq) [Sign In](https://www.ourgroceries.com/sign-in) [Get OurGroceries!](https://www.ourgroceries.com/download)
 
 Privacy Policy
 ==============
