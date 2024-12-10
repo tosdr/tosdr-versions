@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Hermione Granger’s last name was almost Puckle.
+As of 2020, the Harry Potter books have been translated into 83 languages, including Latin and Ancient Greek.
 
 ### Potter History
 
-September 12, 2013 – It is announced that Fantastic Beasts and Where to Find Them will be made into a series of films set in 1920s New York.
+October 29, 2008 – David Heyman discusses the Harry Potter and the Half-Blood Prince delay and reveals that the film is just about complete.
 
 ### Potter Quote
 
-“I won’t let you do it. I’ll — I’ll fight you!”
+“Ah, of course. There is no need to say any more, Miss Granger. Tell me, which of you will be dying this year?”
 
 [](#)
 
