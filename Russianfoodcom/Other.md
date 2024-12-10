@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610)
-* [Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404)
 * [Свиные отбивные с овощами (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174660)
 * [Персиковый торт](https://www.russianfood.com/recipes/recipe.php?rid=30118)
 * [Торт творожный](https://www.russianfood.com/recipes/recipe.php?rid=40495)
 * [«Ленивый» пудинг](https://www.russianfood.com/recipes/recipe.php?rid=40540)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
-* [Салат из сельдерея, яблок и творога](https://www.russianfood.com/recipes/recipe.php?rid=55970)
 * [Салат яблочный с луком-пореем и творогом](https://www.russianfood.com/recipes/recipe.php?rid=60873)
 * [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
+* [Ореховые палочки](https://www.russianfood.com/recipes/recipe.php?rid=75811)
+* [Груши с творогом](https://www.russianfood.com/recipes/recipe.php?rid=76858)
+* [Грушевый десерт](https://www.russianfood.com/recipes/recipe.php?rid=77514)
 
 |     |
 | --- |
@@ -179,6 +179,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Печенье с грушей, фисташками и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174337) |     |
+
+[![Фото к рецепту: Печенье с грушей, фисташками и имбирём](//img1.russianfood.com/dycontent/images_upl/746/sm_745990.jpg "Фото к рецепту: Печенье с грушей, фисташками и имбирём")](https://www.russianfood.com/recipes/recipe.php?rid=174337)
+
+Печенье с грушей, фисташками и имбирём представляет собой отличное сочетание нежного вкуса и аппетитного аромата. Вкрапления фисташек придают лакомству интересную структуру. Сперва выпекается корж, а затем он разрезается на небольшие ромбики.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174337)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174337#comments) | 10.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Картофельный гратен с творогом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173908) |     |
+
+[![Фото к рецепту: Картофельный гратен с творогом и сыром](//img1.russianfood.com/dycontent/images_upl/728/sm_727191.jpg "Фото к рецепту: Картофельный гратен с творогом и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173908)
+
+Тонкие ломтики картофеля чередуются с творожным соусом, заливаются сметанно-яичной смесью и запекаются в духовке. В конце запеканка посыпается сыром, который плавится и аппетитно тянется.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173908)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173908#comments) | 10.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -362,34 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22967#comments) | 07.12.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Яркий новогодний квинтет. Лучшие рецепты на Новый год (99)](https://www.russianfood.com/reading/?post_id=22966) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/710/sm_709620.jpg)](https://www.russianfood.com/reading/?post_id=22966)
-
-Куриное филе под овощной шубкой. Шоколадные пирожные с кремом из сгущенки. Закусочные кексы из печени. Скумбрия с изюмом и орехами. Салат с тунцом, овощами и яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22966)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22966#comments) | 07.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Жареные пирожки с мясом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174970) |     |
-
-[![Фото к рецепту: Жареные пирожки с мясом и сыром](//img1.russianfood.com/dycontent/images_upl/756/sm_755700.jpg "Фото к рецепту: Жареные пирожки с мясом и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174970)
-
-Тонкое, хрустящее тесто и сочная начинка из фарша с луком и нежной моцареллой. Бездрожжевое тесто замешивается на воде и майонезе. Фарш используется куриный, но можно выбрать любой. Формируются пирожки в виде рулетиков. Жарятся недолго - начинка уже готова. Исключительно аппетитные!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174970)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174970#comments) | 07.12.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -459,10 +459,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739207.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758070.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723204.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758053.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758329.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174404) |
-| [Куриное суфле с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [Кексы из кунжутной пасты (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174930) | [Лимонные блонди с сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404) |
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/740/alt1_739207.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758053.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [![](//img1.russianfood.com/dycontent/images_upl/728/alt1_727191.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173908) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758329.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174404) | [![](//img1.russianfood.com/dycontent/images_upl/724/alt1_723204.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745990.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174337) |
+| [Куриное суфле с брокколи](https://www.russianfood.com/recipes/recipe.php?rid=174301) | [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [Картофельный гратен с творогом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173908) | [Запечённая тыква с сыром](https://www.russianfood.com/recipes/recipe.php?rid=174404) | [Лимонные блонди с сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173648) | [Печенье с грушей, фисташками и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174337) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -479,4 +479,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(116)
+(91)
