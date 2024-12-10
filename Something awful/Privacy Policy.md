@@ -205,25 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Finding an Apartment](https://www.somethingawful.com/guides/guide-finding-an/1/)
-* [Instant Messaging](https://www.somethingawful.com/guides/guide-instant-messaging/1/)
-* [October 29, 2007](https://www.somethingawful.com/forum-fridays/ff10-29-07/1/)
-* [Worst Father's Day Ever](https://www.somethingawful.com/photoshop-phriday/worst-fathers-day/1/)
-* [SpEds Paintball](https://www.somethingawful.com/awful-links/awful-link-953/)
+* [Nightmares Fear Factory 2018!](https://www.somethingawful.com/photoshop-phriday/halloween-2018/)
+* [Banker.Bmp, Part 3!](https://www.somethingawful.com/photoshop-phriday/phridays-banker-3/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Banker.Bmp!](https://www.somethingawful.com/photoshop-phriday/banker-comics/)
+* [The Battle of the Stupidest Rifts Characters](https://www.somethingawful.com/dungeons-and-dragons/rifts-stupid-classes/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Who's the killer in the back of the taxi?](http://forums.somethingawful.com/showthread.php?threadid=4077110 "Who's the killer in the back of the taxi?")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [That guy who shot the CEO...](http://forums.somethingawful.com/showthread.php?threadid=4077160 "That guy who shot the CEO...")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-lovecum.gif) [Should Jeffrey change the name](http://forums.somethingawful.com/showthread.php?threadid=4077091 "Should Jeffrey change the name")
 
 ### Random Articles
 
-* [The Your Band Sucks Anniversary Zing Blowout](https://www.somethingawful.com/your-band-sucks/your-band-sucks/1/)
-* [I'll Just Be Over Here, Saying Things](https://www.somethingawful.com/news/james-damore-column/)
-* [Tight Dollars](https://www.somethingawful.com/flash-tub/conspiracy-theory-911/)
-* [Guff Hamham](https://www.somethingawful.com/flash-tub/guff-hamham-cartoon/)
-* [Holiday Albums, Vol II](https://www.somethingawful.com/photoshop-phriday/holiday-albums-vol/1/)
+* [Eviland](https://www.somethingawful.com/awful-links/awful-link-539/)
+* [I Spy Hoarders](https://www.somethingawful.com/photoshop-phriday/i-spy-hoarders/)
+* [AOL Search Log Special, Part 3](https://www.somethingawful.com/weekend-web/aol-search-log-3/1/)
+* [Kid Nation Predictions](https://www.somethingawful.com/news/kid-nation-cbs/1/)
+* [Meet Your Internet Friends!](https://www.somethingawful.com/news/meet-your-internet/)
 
 [Random!](https://www.somethingawful.com/random/)
 
