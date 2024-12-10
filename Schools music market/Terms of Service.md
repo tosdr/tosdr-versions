@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/music-appreciation-worksheet-activity/)
+ [](https://schoolsmusicmarket.com/product/open-the-eggs-easter-music-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/rainbow-music-helper-name-tags-key-signatures-poster-circle-of-fifths/)
+ [](https://schoolsmusicmarket.com/product/musical-word-search/)
 
 ###### Browse By Year/Grade
 
