@@ -259,7 +259,7 @@ I agree
 
 Terms of Use
 
-**Last Updated: Jan 01, 2023**
+**Last Updated: Dec. 5, 2024**
 
 The policies below are applicable to China Global Television Network of websites, including www.cgtn.com (including any versions optimized for viewing on a wireless or tablet device); all email newsletters published or distributed by CGTN; all apps published by CGTN; and all other interactive features, services, and communications provided by CGTN (collectively “Sites”), however accessed and/or used, that are operated by us, made available by us, or produced and maintained by China Global Television Network (collectively “CGTN” or “we”, “us”, or “our”).
 
@@ -347,18 +347,17 @@ We may give notice to our users of any infringement notice by means of a general
 26\. How to Contact us. If you do not understand any of the foregoing Terms and Conditions or if you have any questions or comments, we invite you to contact our Customer Service Department by email at [info@cgtn.com](mailto:info@cgtn.com). If you have any questions about your personal information or our privacy statement, please contact us or our Data Protection Officer at the following:
 
 China Global Television Network  
-Name: Yang Guijun  
-Address: 9 Floor, ENFEI Plaza, NO.12 FUXING Road, HaiDian District ,BeiJing, China  
-E-mail: yangguijun@cgtncorp.com  
+Address: Room 2210, Building 2, No.1 Xi Da Wang Lu, Chao Yang District, Beijing, the People's Republic of China  
+E-mail: cgtn@cgtn.com  
 
-China Global Television Network’s DPO  
-Name: Carol Ma  
-Address: 11th Floor, Building 7, Chiswick Park, London W4 5YG, UK  
-E-mail: dataprotection@cgtn-europe.com  
+China Global Television Network’s external DPO in Europe  
+Name: iuro Attorneys at Law represented by Dr. Andreas Maetzler  
+Address for Requests: 11th Floor, Building 7, Chiswick Park, London W4 5YG, UK  
+E-Mail: cgtndpo@cgtncorp.com  
 
-27\. Copyright Notice. All Site design, graphics, text selections, arrangements, and all software are Copyright © 2022, CGTN or its licensors. ALL RIGHTS RESERVED.
+27\. Copyright Notice. All Site design, graphics, text selections, arrangements, and all software are Copyright © 2024, CGTN or its licensors. ALL RIGHTS RESERVED.
 
-2023 China Global Television Network. All Rights Reserved
+2024 China Global Television Network. All Rights Reserved
 
 [](https://www.cgtn.com/)
 
