@@ -40,8 +40,6 @@ By Brand
 
 [Rolex](https://www.icebox.com/results/watch-market?brand[]=Rolex) [Audemars Piguet](https://www.icebox.com/results/watch-market?brand[]=Audemars%20Piguet) [Patek Philippe](https://www.icebox.com/results/watch-market?brand[]=Patek%20Philippe) [Vacheron Constantin](https://www.icebox.com/results/watch-market?brand[]=Vacheron%20Constantin) [Richard Mille](https://www.icebox.com/results/watch-market?brand[]=Richard%20Mille) [Cartier](https://www.icebox.com/results/watch-market?brand[]=Cartier) [Hublot](https://www.icebox.com/results/watch-market?brand[]=Hublot) [Other Brands](https://www.icebox.com/results/watch-market?brand[]=Other) [Bustdowns](https://www.icebox.com/results/watches?sub[]=Bustdowns)
 
-[Christmas Sale](https://www.icebox.com/xmas)
-
 Terms & Conditions
 ------------------
 
