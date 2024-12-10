@@ -351,7 +351,7 @@ Last Updated: November 2024 (2024.v3.0)
 * [Imprint](https://www.logmein.com/company/legal/impressum)
 * [Trademark](https://www.logmein.com/company/legal/trademark)
 
-* [Do Not Sell or Share My Personal Info](https://submit-irm.trustarc.com/services/validation/dbde78c2-bfa4-48bd-8246-dcfd2d69f986)
+* [Do Not Sell or Share My Personal Info](https://privacyportal.onetrust.com/webform/e7308dd3-b090-4f6a-822b-df7ed5e567e4/191e6154-2276-4186-a982-edc617305fe4)
 * [Sitemap](https://www.logmein.com/sitemap)
 
 [English](#)
