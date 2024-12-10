@@ -65,7 +65,7 @@ Shop
         * [Google Pixel 9 Pro](https://www.verizon.com/smartphones/google-pixel-9-pro/)
     * [Upgrade your device](https://www.verizon.com/sales/nextgen/mdnselection.html?mtnFlow=M&fromGnav=true)
     * [Bring your own device](https://www.verizon.com/bring-your-own-device/)
-    * [Unlocked phones](https://www.verizon.com/smartphones/?condition=unlocked)
+    * [Unlocked phones](https://www.verizon.com/devices/?condition=unlocked)
     * [Other phones](https://www.verizon.com/featured/shop-phones-devices/)
     * [Trade in your device](https://www.verizon.com/trade-in/)
     * [Tablets & laptops](https://www.verizon.com/tablets/)
@@ -627,7 +627,6 @@ Top Device Brands
 
 * [Samsung](https://www.verizon.com/wireless-devices/samsung/)
 * [Apple](https://www.verizon.com/wireless-devices/smartphones/iphone/)
-* [Motorola](https://www.verizon.com/wireless-devices/smartphones/motorola/)
 * [Google](https://www.verizon.com/wireless-devices/smartphones/google/)
 * [Amazon](https://www.verizon.com/wireless-devices/amazon/)
 
@@ -642,7 +641,7 @@ Support
 * [Download My Verizon App](https://www.verizon.com/solutions-and-services/my-verizon-mobile/)
 * [Lifeline](https://www.verizon.com/support/lifeline/)
 * [Accessibility](https://www.verizon.com/accessibility/)
-* [Check network status](https://www.verizon.com/support/check-network-status/)
+* [Network support](https://www.verizon.com/support/network/)
 * [Speed Test](https://www.verizon.com/speedtest/)
 
 About Verizon
