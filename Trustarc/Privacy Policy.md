@@ -145,7 +145,7 @@ Javascript must be enabled for the correct page display
 TrustArc Privacy Notice
 =======================
 
-Last updated and effective date: 21 July 2023
+Last updated and effective date: 10 December 2024
 
 This Privacy and Data Processing Policy (“Notice”) reflects our TrustArc Inc (“TrustArc”) global privacy practices and standards as of the effective date. TrustArc Inc is a technology-powered privacy solutions company headquartered at 2121 N. California Blvd., Suite 290, Walnut Creek, CA, USA. TrustArc also operates through its subsidiaries TrustArc Canada Inc. (formerly Nymity Inc.), TRUSTe Europe Ltd. in the UK, TRUSTe Web Services Technologies, Inc. in the Philippines, and TRUSTe LLC, in the USA. This Notice applies only to TrustArc practices, technologies, and services. Our online properties may include links to websites and online services that are operated by other companies not under the control or direction of TrustArc. If you provide or submit personal information to those websites or online services, the privacy policies on those websites or online services apply to your personal information.
 
@@ -425,6 +425,7 @@ This means that we may transfer, access, or store personal information about you
 * We may seek your consent for transfers of your personal information for specific purposes.
 * We may rely on other transfer mechanisms approved by authorities in the country from which the data are transferred.
 
+  
 **Data Privacy Framework**
 
 TrustArc Inc and its subsidiary, TRUSTe LLC, in the USA, (“TrustArc”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. TrustArc has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. TrustArc has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
@@ -452,7 +453,7 @@ Walnut Creek, CA 94596, USA
 Phone: 1-866-467- 8688 (or 866-I-OPT-OUT), service code 751 or the main US headquarters +1-415-520-3490.  
 [\[email protected\]](https://trustarc.com/cdn-cgi/l/email-protection)
 
-Full contact information of our privacy team, including of our representatives where this is legally required, is available [via this page](https://trustarc.com/global-representatives/). If you have concerns about how we handle your personal information, you have the right to make a complaint about us to the privacy regulator in your country, state, or province. For complaints under the GDPR, the UK GDPR or the Philippines Data Privacy Act, please refer to [this page](https://trustarc.com/global-representatives/). Most privacy regulators can be contacted online using the [resources provided here](https://globalprivacyassembly.org/participation-in-the-assembly/members-online/). More information is included under “[International Data Transfers](https://trustarc.com/privacy-policy/#international-data-transfers)” and “[Data Privacy Framework](https://trustarc.com/privacy-policy/#privacy-shield).”
+Full contact information of our privacy team, including of our representatives where this is legally required, is available [via this page](https://trustarc.com/global-representatives/). If you have concerns about how we handle your personal information, you have the right to make a complaint about us to the privacy regulator in your country, state, or province. For complaints under the GDPR, the UK GDPR or the Philippines Data Privacy Act, please refer to [this page](https://trustarc.com/global-representatives/). Most privacy regulators can be contacted online using the [resources provided here](https://globalprivacyassembly.org/participation-in-the-assembly/members-online/). More information is included under “[International Data Transfers](https://trustarc.com/privacy-policy/#international-data-transfers)” and “[Data Privacy Framework](https://trustarc.com/privacy-policy/#data-privacy-framework).”
 
 Changes to this Notice
 ----------------------
