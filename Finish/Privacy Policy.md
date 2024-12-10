@@ -1,6 +1,6 @@
 [Skip To Content](#main)
 
-[CONTACT US](https://www.finishdishwashing.com/help-and-support/)
+[HELP AND SUPPORT](https://www.finishdishwashing.com/help-and-support/)[SIGN UP](https://www.finishdishwashing.com/sign-up/)
 
 [](https://technicians.finishdishwashing.com/)
 
@@ -37,7 +37,7 @@
 * [Coupons & Offers](https://www.finishdishwashing.com/coupons-and-offers/)
 * [Night To Remember Giveaway](https://www.finishdishwashing.com/night-to-remember-giveaway-signup/)
 
-[CONTACT US](https://www.finishdishwashing.com/help-and-support/)
+[HELP AND SUPPORT](https://www.finishdishwashing.com/help-and-support/)[SIGN UP](https://www.finishdishwashing.com/sign-up/)
 
 [](https://technicians.finishdishwashing.com/)
 
