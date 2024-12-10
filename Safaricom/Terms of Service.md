@@ -229,6 +229,20 @@ out of 5 based on
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Dec 10, 2024
+
+> Mel du Toit was the perfect person to…
+
+> Mel du Toit was the perfect person to arrange and organize our trip!! She was on the ball, made sure everything was in place and travel arrangements secured! I highly recommend her!!
+
+JUDITH ANN
+
+,
+
+US
+
+![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Dec 9, 2024
 
 > Great support from Shann
@@ -253,6 +267,8 @@ Eduardo Rocha
 
 ,
 
+BR
+
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 7, 2024
@@ -265,6 +281,8 @@ Gillian Dodsworth
 
 ,
 
+GB
+
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
 > Dec 7, 2024
@@ -276,6 +294,8 @@ Gillian Dodsworth
 Joanna
 
 ,
+
+US
 
 ![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -328,20 +348,6 @@ CA
 > a seamless booking experience with everything handled really well. Bravo!
 
 JUDITH ANN
-
-,
-
-US
-
-![](https://www.safari.com/rewrite/cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Dec 2, 2024
-
-> Kim Abrahams is as great to work with
-
-> Kim Abrahams is as great to work with. Very responsive and helpful for setting up my trip to Africa
-
-Nicholas Nelson
 
 ,
 
