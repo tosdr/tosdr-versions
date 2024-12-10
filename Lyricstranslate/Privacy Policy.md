@@ -107,69 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Mario Hrvat](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/mario-hrvat "Mario Hrvat")
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
 
-New translation
+Transcription request fulfilled
 
-[Zera (Serbia) - Četvrtak](https://lyricstranslate.com/en/zera-serbia-cetvrtak-german)
+[Pretty Bird (Nigel's Song) \[Hebrew\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-lyrics-0)
 
-Serbian → German
+Hebrew
 
-[![chatterbox](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298088-1589493899.jpg)](https://lyricstranslate.com/en/translator/chatterbox "chatterbox")
-
-New translation
-
-[Perfect Family (OST) - 혼자 사랑 (Unrequited Love) (honja salang)](https://lyricstranslate.com/en/perfect-family-ost-honja-salang-russian)
-
-Korean → Russian
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New translation
-
-[Navai - Не приму и даром (Ne primu i darom)](https://lyricstranslate.com/en/navai-ne-primu-i-darom-english)
-
-Russian → English
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New translation
-
-[Navai - Есенин (Yesenin)](https://lyricstranslate.com/en/navai-yesenin-arabic)
-
-Russian → Arabic
-
-[![100wka](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/100wka "100wka")
+[![Thomas222](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1310118-1706205100.jpg)](https://lyricstranslate.com/en/translator/thomas222 "Thomas222")
 
 New song
 
-[Farya Faraji - Entre Le Boeuf Et l'Âne Gris](https://lyricstranslate.com/en/farya-faraji-entre-le-boeuf-et-lane-g-lyrics)
+[Rio (OST) - Pretty Bird (Nigel's Song) \[Hebrew\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-lyrics-0)
 
-French
+Hebrew
 
-[![IffyMr](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1510972-1733490816.jpg)](https://lyricstranslate.com/en/translator/iffymr "IffyMr")
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+
+New translation
+
+[Johnny Cash - A Boy Named Sue](https://lyricstranslate.com/en/johnny-cash-boy-named-sue-french)
+
+English → French
+
+[![RandomUserPotato](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1371772-1709301919.jpg)](https://lyricstranslate.com/en/translator/randomuserpotato "RandomUserPotato")
+
+New song
+
+[Go Vacation (OST) - Cruisin'](https://lyricstranslate.com/en/go-vacation-ost-cruisin-lyrics)
+
+English
+
+[![Gavagai](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1452942-1673766713.png)](https://lyricstranslate.com/en/translator/gavagai "Gavagai")
+
+New song
+
+[Shaboozey - Highway](https://lyricstranslate.com/en/shaboozey-highway-lyrics-0)
+
+English
+
+[![Aryan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1376812-1713021439.jpg)](https://lyricstranslate.com/en/translator/aryan "Aryan")
+
+New translation
+
+[Müslüm Gürses - Seni Yazdım](https://lyricstranslate.com/en/muslum-gurses-seni-yazdim-kurdish-kurmanji)
+
+Turkish → Kurdish (Kurmanji)
+
+[![Kapix 320](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1491093-1651679873.jpg)](https://lyricstranslate.com/en/translator/kapix-320 "Kapix 320")
 
 New transcription request
 
-[Sesu - Personaje](https://lyricstranslate.com/en/sesu-personaje)
+[Rio (ost) - Pretty Bird (Nigel's Song) \[Japanese\]](https://lyricstranslate.com/en/rio-ost-pretty-bird-nigels-song-japanese)
 
-Romanian
+Japanese
 
-[![Mladen Racic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1584085-1690521459.jpg)](https://lyricstranslate.com/en/translator/mladen-racic "Mladen Racic")
-
-New translation
-
-[The Cure - Plainsong](https://lyricstranslate.com/en/cure-plainsong-serbian)
-
-English → Serbian
-
-[![chatterbox](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1298088-1589493899.jpg)](https://lyricstranslate.com/en/translator/chatterbox "chatterbox")
+[![Albert Braam](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1315727.jpg)](https://lyricstranslate.com/en/translator/albert-braam "Albert Braam")
 
 New translation
 
-[Perfect Family (OST) - 나는 반딧불 (I am firefly) (naneun bandisbul)](https://lyricstranslate.com/en/perfect-family-ost-naneun-bandisbul-russian)
+[Dermot Kennedy - Better Days](https://lyricstranslate.com/en/dermot-kennedy-better-days-dutch)
 
-Korean → Russian
+English → Dutch
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
