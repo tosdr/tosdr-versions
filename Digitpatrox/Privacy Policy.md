@@ -20,16 +20,16 @@ Tuesday, December 10 2024
 
 Latest
 
-* [Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
-* [Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
-* [You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
-* [Florida insurance industry attorney notifies 10K+ people of data breach](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
-* [Most and Least Loved Car Brands](https://digitpatrox.com/most-and-least-loved-car-brands/)
-* [5 Reasons I’m Going Back to Apple Music From Spotify](https://digitpatrox.com/5-reasons-im-going-back-to-apple-music-from-spotify/)
-* [SonicWall and CrowdStrike team up to launch new MDR offering](https://digitpatrox.com/sonicwall-and-crowdstrike-team-up-to-launch-new-mdr-offering/)
-* [Prepare for 2025 with This CompTIA Training Bundle for $50](https://digitpatrox.com/prepare-for-2025-with-this-comptia-training-bundle-for-50/)
-* [Girona vs Liverpool live stream: How to watch Champions League match online](https://digitpatrox.com/girona-vs-liverpool-live-stream-how-to-watch-champions-league-match-online/)
-* [Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://digitpatrox.com/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
+* [“Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
+* [big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
+* [How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
+* [10 Best SUVs You Can Buy Right Now](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
+* [What Is a HAT for Raspberry Pi, and What Can You Do With One?](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
+* [Meta wants to join the big tech nuclear club](https://digitpatrox.com/meta-wants-to-join-the-big-tech-nuclear-club/)
+* [How Long Does Fax Take? Can I Confirm it Was Received?](https://digitpatrox.com/how-long-does-fax-take-can-i-confirm-it-was-received/)
+* [Atalanta vs Real Madrid live stream: How to watch Champions League match online](https://digitpatrox.com/atalanta-vs-real-madrid-live-stream-how-to-watch-champions-league-match-online/)
+* [Ransomware attack hits leading heart surgery device maker](https://digitpatrox.com/ransomware-attack-hits-leading-heart-surgery-device-maker/)
+* [The Suicide Squad game’s final season is coming less than a year after launch](https://digitpatrox.com/the-suicide-squad-games-final-season-is-coming-less-than-a-year-after-launch/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/mJfYyZvh8k5gkrArFsfHiX-1200-80.jpg)](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
+* [![](https://cdn.mos.cms.futurecdn.net/jKnvf5ZmXQGskw3gC6wUt5-1200-80.jpg)](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
     
-    [Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
+    [“Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
     
-    3 minutes ago
+    4 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619769-0-29699000-1733782206-Screenshot-2024-12-09-at-09.14.07-1.png?w=1024)](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3620233-0-91279500-1733805009-Cloudflare-logo-website.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
     
-    [Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
+    [big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
     
-    25 minutes ago
+    26 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JEPBES3NK5BXTQ5V36G4VB9S/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
+* [![](https://lifehacker.com/imagery/articles/01JEP8NJHEVJGVX03KQJ5VPNQP/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
     
-    [You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
+    [How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
     
-    53 minutes ago
+    54 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Florida-insurance-industry-attorney-notifies-10K-people-of-data-breach.jpg)](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730913521/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-inline-hero-10-Best-SUVs-You-Can-Buy-Right-Now-1124-CG)](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
     
-    [Florida insurance industry attorney notifies 10K+ people of data breach](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
+    [10 Best SUVs You Can Buy Right Now](https://digitpatrox.com/10-best-suvs-you-can-buy-right-now/)
     
-    59 minutes ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731946985/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Owner-Satisfaction-By-Brand-Update-1124)](https://digitpatrox.com/most-and-least-loved-car-brands/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/12/a-raspberry-pi-with-a-hat-next-to-it.jpg)](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
     
-    [Most and Least Loved Car Brands](https://digitpatrox.com/most-and-least-loved-car-brands/)
+    [What Is a HAT for Raspberry Pi, and What Can You Do With One?](https://digitpatrox.com/what-is-a-hat-for-raspberry-pi-and-what-can-you-do-with-one/)
     
     1 hour ago
     
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [4 minutes ago
     
-    ### Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
-* [25 minutes ago
+    ### “Significant concerns” raised over impact of data center growth on regional energy grids](https://digitpatrox.com/significant-concerns-raised-over-impact-of-data-center-growth-on-regional-energy-grids/)
+* [26 minutes ago
     
-    ### Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
-* [53 minutes ago
+    ### big source of traffic is AI crawlers – Computerworld](https://digitpatrox.com/big-source-of-traffic-is-ai-crawlers-computerworld/)
+* [54 minutes ago
     
-    ### You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
+    ### How to Spend Less on Christmas Decorations](https://digitpatrox.com/how-to-spend-less-on-christmas-decorations/)
 
 Most Popular Topics
 
-* [August 22, 2024
+* [October 5, 2024
     
-    ### Best Firm Mattresses of 2024](https://digitpatrox.com/best-firm-mattresses-of-2024/)
-* [September 26, 2024
+    ### Cargo Room for Cars by Vehicle Category](https://digitpatrox.com/cargo-room-for-cars-by-vehicle-category/)
+* [October 29, 2024
     
-    ### SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
-* [2 weeks ago
+    ### 7 FREE Content Plan Templates to Organize the Chaos](https://digitpatrox.com/7-free-content-plan-templates-to-organize-the-chaos/)
+* [November 8, 2024
     
-    ### Meredith’s Training Diaries: Make Your Taper Work for You](https://digitpatrox.com/merediths-training-diaries-make-your-taper-work-for-you/)
+    ### The new Mac Mini takes a small step towards upgradeable storage](https://digitpatrox.com/the-new-mac-mini-takes-a-small-step-towards-upgradeable-storage/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### SonicWall and CrowdStrike team up to launch new MDR offering](https://digitpatrox.com/sonicwall-and-crowdstrike-team-up-to-launch-new-mdr-offering/)
+    ### How Long Does Fax Take? Can I Confirm it Was Received?](https://digitpatrox.com/how-long-does-fax-take-can-i-confirm-it-was-received/)
 * [2 hours ago
     
-    ### Prepare for 2025 with This CompTIA Training Bundle for $50](https://digitpatrox.com/prepare-for-2025-with-this-comptia-training-bundle-for-50/)
-* [2 hours ago
+    ### Atalanta vs Real Madrid live stream: How to watch Champions League match online](https://digitpatrox.com/atalanta-vs-real-madrid-live-stream-how-to-watch-champions-league-match-online/)
+* [3 hours ago
     
-    ### Girona vs Liverpool live stream: How to watch Champions League match online](https://digitpatrox.com/girona-vs-liverpool-live-stream-how-to-watch-champions-league-match-online/)
+    ### Ransomware attack hits leading heart surgery device maker](https://digitpatrox.com/ransomware-attack-hits-leading-heart-surgery-device-maker/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
