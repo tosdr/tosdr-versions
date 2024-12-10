@@ -259,14 +259,6 @@ Login [![mini-cart](/assets/images/icons/shopping-cart.svg) 0](https://www.lease
 
 When autocomplete results are available use up and down arrows to review and enter to select. Touch device users, explore by touch or with swipe gestures.
 
-EN
-
-EN
-
-Language
-
-[EnglishEN](https://www.leaseweb.com/en/about-us/legal/sales-contract)[DeutschDE](https://www.leaseweb.com/de/about-us/legal/sales-contract)[FrançaisFR](https://www.leaseweb.com/fr/about-us/legal/sales-contract)[NederlandsNL](https://www.leaseweb.com/nl/about-us/legal/sales-contract)
-
 * Why Leaseweb
     
     Leaseweb
@@ -507,6 +499,10 @@ Language
     
 * [Videos](https://www.leaseweb.com/en/resources/videos "Videos")
 * [Contact](https://www.leaseweb.com/en/contact "Contact")
+
+EN
+
+EN
 
 [Blog](https://blog.leaseweb.com/)[Knowledge Base](https://kb.leaseweb.com/)[Developer API](http://developer.leaseweb.com/)[Status](https://www.leasewebstatus.com/)[Customer Portal](https://secure.leaseweb.com/)
 
