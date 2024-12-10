@@ -6,13 +6,13 @@ CHEXY](https://www.chexy.co/)
 
 [Rewards](https://www.chexy.co/Rewards)
 
+[Wallet](https://www.chexy.co/wallet)
+
 [Features](https://www.chexy.co/Features)
 
 [Insider](https://www.chexy.co/insider)
 
 [Newsletter](https://www.chexy.co/rundown)
-
-[Wallet](https://www.chexy.co/wallet)
 
 [Sign up / Log in](https://app.chexy.co/)
 
