@@ -8,25 +8,25 @@ Introducing the new Render CLI and refreshed Render Dashboard.
 
 Features
 
-* [Autoscaling](https://docs.render.com/scaling)
-* [Private Networking](https://docs.render.com/private-services)
-* [Managed PostgreSQL](https://docs.render.com/databases)
-* [Managed Redis®](https://docs.render.com/redis)
-* [Persistent Disks](https://docs.render.com/disks)
-* [Infrastructure as Code](https://docs.render.com/infrastructure-as-code)
-* [Preview Environments](https://docs.render.com/preview-environments)
-* [Zero Downtime Deploys](https://docs.render.com/deploys#zero-downtime-deploys)
-* [Render API](https://docs.render.com/api)
+* [Autoscaling](https://render.com/docs/scaling)
+* [Private Networking](https://render.com/docs/private-services)
+* [Managed PostgreSQL](https://render.com/docs/postgresql-creating-connecting)
+* [Managed Redis®](https://render.com/docs/redis)
+* [Persistent Disks](https://render.com/docs/disks)
+* [Infrastructure as Code](https://render.com/docs/infrastructure-as-code)
+* [Preview Environments](https://render.com/docs/preview-environments)
+* [Zero Downtime Deploys](https://render.com/docs/deploys#zero-downtime-deploys)
+* [Render API](https://render.com/docs/api)
 
 Services
 
-* [Static Sites](https://docs.render.com/static-sites)
-* [Web Services](https://docs.render.com/web-services)
-* [Private Services](https://docs.render.com/private-services)
-* [Background Workers](https://docs.render.com/background-workers)
-* [Cron Jobs](https://docs.render.com/cronjobs)
-* [PostgreSQL](https://docs.render.com/databases)
-* [Redis®](https://docs.render.com/redis)
+* [Static Sites](https://render.com/docs/static-sites)
+* [Web Services](https://render.com/docs/web-services)
+* [Private Services](https://render.com/docs/private-services)
+* [Background Workers](https://render.com/docs/background-workers)
+* [Cron Jobs](https://render.com/docs/cronjobs)
+* [PostgreSQL](https://render.com/docs/postgresql-creating-connecting)
+* [Redis®](https://render.com/docs/redis)
 
 [Migrate from Heroku](https://www.render.com/migrate-from-heroku?utm_int=nav_click)
 
