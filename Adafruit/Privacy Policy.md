@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ There are three things to remember when teaching: know your stuff; know whom you are stuffing; and then stuff them elegantly”
+“ ...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge”
 
-[Lola May](http://en.wikipedia.org/wiki/Lola_J._May)
+[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
 
 [](https://www.adafruit.com/about)
 
