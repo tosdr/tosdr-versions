@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [fulgent](https://www.merriam-webster.com/word-of-the-day)
+#### [brogue](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of fulgent](/dist-cross-dungarees/2024-12-09--22-09-25-36q1q/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of fulgent")
+[![Listen to the pronunciation of brogue](/dist-cross-dungarees/2024-12-09--22-09-25-36q1q/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of brogue")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
