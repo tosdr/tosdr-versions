@@ -140,6 +140,8 @@ Select Policy
 
 [Terms of Service](https://www.algolia.com/policies/terms)
 
+[Service Level Agreement](https://www.algolia.com/policies/sla)
+
 [Privacy Policy](https://www.algolia.com/policies/privacy)
 
 [Support Policy](https://www.algolia.com/policies/support)
@@ -159,7 +161,7 @@ Latest update: December 9th, 2024
 
 _**ALGOLIA PROVIDES THE FOLLOWING GUARANTEES FOR THE AVAILABILITY OF ALGOLIA'S HOSTED SEARCH AND RECOMMEND SERVICES:**_
 
-If Algolia does not meet this Service Level Agreement ("**SLA**") for its hosted search and recommend services under a subscribed plan, and if Subscriber meets its obligations under this SLA, Subscriber will be eligible to receive the service credits described below (“**Service Credits**”). This SLA states Subscriber's sole and exclusive remedy for any failure by Algolia to meet the SLA.
+If Algolia does not meet this Service Level Agreement (**SLA**) for its hosted search and recommend services under a subscribed plan, and if Subscriber meets its obligations under this SLA, Subscriber will be eligible to receive the service credits described below (**Service Credits**). This SLA states Subscriber's sole and exclusive remedy for any failure by Algolia to meet the SLA.
 
 Service Credits are calculated as follows:
 
@@ -168,21 +170,16 @@ Service Credits are calculated as follows:
 The Algolia subscription plans covered by this SLA, the Monthly Guaranteed Uptime, the Acceleration Ratio, and maximum Service Credits available for each covered Algolia subscription plan are as follows:
 
 * Essential, Core and Enterprise Foundation (plans available for subscription):
-    
     * Monthly Guaranteed Uptime = 99.99%
-        
     * Acceleration Ratio = 100
-        
     * Monthly Cap = 25% of the Subscription Price for the applicable month
-        
 * Premier Platform Availability SLA (available for subscription only on Algolia KeywordSearch plans):
     
     * Monthly Guaranteed Uptime = 99.999%
-        
     * Acceleration Ratio = 1,000
-        
     * Monthly Cap = 50% of the Subscription Price for the applicable month
-        
+
+Service degradation or suspension as a result of a Subscriber exceeding limits under an applicable Algolia subscription plan is not considered as an Outage covered by this SLA. Additional conditions apply as defined in Algolia's Terms of Service or Subscriber's subscription agreement.
 
 **Service Credits Terms and Conditions**:
 
@@ -194,18 +191,12 @@ In order for a Subscriber to be eligible to receive Service Credits under this S
 
 Example: 
 
-* Previous API Client is version 4.x.y 
-    
+* Previous API Client is version 4.x.y
 * API Client version 5.0.0 is released on August 14, 2024
-    
 * Eligible Subscribers are:
-    
     * Subscribers using version 5.0.0. And all subsequent minor updates
-        
     * Subscribers using version 4.0.0 and all subsequent minor updates until August 13, 2026 (2 years from the date of release of the latest major release of version 5.0.0)
-        
 * Versions prior to 4.x.y are not eligible for SLA credits
-    
 
 Service degradation or suspension as a result of a Subscriber exceeding limits under an applicable Algolia subscription plan is not considered as an Outage covered by this SLA. Additional conditions apply as defined in Algolia's Terms of Service or Subscriber's subscription agreement.
 
