@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")8 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")13 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")14 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")19 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
             
-            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")12 hours ago
+            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")17 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
