@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
+    
+    ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
+    
     [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
     ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
@@ -52,10 +56,6 @@
     [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
     
     ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-    
-    [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
-    
-    ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
+    
+    ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
+    
     [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
     
     ### [Dulwich man sentenced for murder after paralysed victim dies eight years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
@@ -138,10 +142,6 @@ View All Result
     [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-360x180.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
     
     ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
-    
-    [![(credit: Fight for Sight)](https://southwarknews.co.uk/wp-content/uploads/2024/12/5131F9A6-01FD-437D-BB10-CA79212542CA-360x180.jpeg)](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
-    
-    ### [New charity shop opens in Dulwich with £100 shopping spree giveaway](https://southwarknews.co.uk/area/dulwich/new-charity-shop-opens-in-dulwich-with-100-shopping-spree-giveaway/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -219,17 +219,17 @@ Terms of Use
 
 [8th December 2024](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
-[![The Lions can't hide their disappointment. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/Hutch-Coops-Wallace-Blackburn-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-### [Minute by minute Millwall’s dream slips away: ‘It was a kick in the bollocks – you come away with your chin on the floor’](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
-[3rd December 2024](https://southwarknews.co.uk/sport/football/millwall/news-at-den-plus/minute-by-minute-millwalls-dream-slips-away-it-was-a-kick-in-the-bollocks-you-come-away-with-your-chin-on-the-floor/)
-
 [![Bodycam footage from one of Kent Police's raids. Image: Kent Police](https://southwarknews.co.uk/wp-content/uploads/2024/12/cliwram-latest-1-1-120x86.jpg)](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 ### [Man charged with drug supply after £5,000 cash and diamond chain found in Southwark property](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
 [7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
+
+[![Ryan Leonard after Millwall's loss to Coventry City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/R-Leonard-001277-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+
+### [Lenny set to miss Sheffield United clash – but reinforcements on the way after Millwall midfielder made season debut against Coventry City](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
+
+[9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
 [![Daniel Kelly in action against Plymouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/D-Kelly-48393-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
 
