@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to Exoscale](https://www.backup4all.com/how-to-backup-your-data-to-exoscale-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
-* [How to move a backup from a failing hard driv ...](https://www.backup4all.com/how-to-move-a-backup-from-a-failing-hard-drive-to-a-new-one-kb.html)  
+* [How to configure and use One Touch Backup?](https://www.backup4all.com/how-to-configure-and-use-one-touch-backup-kb.html)  
     
-* [Backup to CD/DVD/Blu-ray using built-in burne ...](https://www.backup4all.com/backup-to-cd-dvd-using-built-in-burner-kb.html)  
+* [How to upgrade from FBackup to Backup4all](https://www.backup4all.com/how-to-upgrade-from-fbackup-to-backup4all-kb.html)  
     
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to restore from a backup?](https://www.backup4all.com/how-to-restore-from-a-backup-kb.html)  
     
-* [How to backup your data to Google Drive](https://www.backup4all.com/how-to-backup-your-data-to-google-drive-kb.html)  
+* [How to back up data files from Minio using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-minio-using-backup4all-kb.html)  
     
 
 Choose language:
