@@ -8,7 +8,7 @@ Read the Story
 
 ![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6090c3e871229f0c40404fa3_icons8-sort_right.svg)](https://www.forbes.com/profile/smartpass/?sh=7d0b375144b6)
 
-[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5ee02f084452839901aed9be_Longo.svg)](https://www.smartpass.app/)
+[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6758b235fd5717ceb16f5fc0_SmartPass-Raptor-Logo-Green.png)](https://www.smartpass.app/)
 
 Products
 
@@ -156,13 +156,13 @@ Hear from our Customers](https://www.smartpass.app/customers)
 
 Featured Success Stories
 
-[Simmons MS
-
-Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
-
 [Berlin HS
 
 Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
+
+[Simmons MS
+
+Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
 
 [Pinelands Regional HS
 
@@ -589,7 +589,7 @@ Trusted by 2 million+ Educators & Students
 
   
 
-[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/5d0aa04e0cc55f7301ae2a4f_footerLogo.svg)](https://www.smartpass.app/)
+[![SmartPass Logo](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/6758b235b7e5706416ac4c2a_SmartPass-Raptor-Logo-White.png)](https://www.smartpass.app/)
 
 Smarter Movement for [2 million+](https://www.smartpass.app/customers) Educators and Students.
 
