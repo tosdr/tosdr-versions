@@ -60,6 +60,8 @@ When using the Community, please remember:
     Do not post information that you don’t wish to be public. In addition, do not post others’ private and confidential information or infringe on their privacy. Further, moderator actions and the contents of private exchanges with moderators, staff members, and administrators should not be shared or discussed on the public forums.
 * **Follow the law**  
     Do not use the Community to break the law. This includes not posting content that is illegal in any way.
+* **Avoid using Artificial Intelligence (AI) to generate responses**  
+    Although AI is a powerful tool, it is not perfect. Using generative AI to help draft and generate responses may lead to “hallucinations,” responses that are factually untrue, or may generate results that violate a 3rd party’s Intellectual Property Rights. Please verify that your responses are factually correct or based on your personal experiences using the Klaviyo platform.
 
 2\. Prohibited Content
 ----------------------
@@ -156,7 +158,7 @@ You agree to defend, indemnify, and hold Klaviyo harmless from and against any c
 11\. Cookies
 ------------
 
-The Klaviyo Cookie Policy is defined in our [Privacy Policy](https://community.klaviyo.com/site/%E2%80%9Dhttps://help.klaviyo.com/hc/en-us/articles/115001002272-How-to-Contact-Support%E2%80%9D). You do not need to have cookies turned on to view Community postings. However, if you have cookies turned off or do not accept the cookie from the Community, you will not be permitted to sign in to the Community to post content or respond to postings.
+The Klaviyo Cookie Policy is defined in our [Privacy Policy](https://community.klaviyo.com/site/%E2%80%9Dhttps%3A//help.klaviyo.com/hc/en-us/articles/115001002272-How-to-Contact-Support%E2%80%9D). You do not need to have cookies turned on to view Community postings. However, if you have cookies turned off or do not accept the cookie from the Community, you will not be permitted to sign in to the Community to post content or respond to postings.
 
 12\. International Site Use
 ---------------------------
