@@ -1,3 +1,5 @@
+Advertisement
+
 [![TheTVDB.com](/images/logo.svg)](https://www.thetvdb.com/)
 
 Toggle navigation
