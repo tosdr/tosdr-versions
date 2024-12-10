@@ -147,6 +147,26 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [IndieWire – Bias and Credibility](https://mediabiasfactcheck.com/indiewire-bias-and-credibility/)
+    
+    December 10, 2024
+    
+* [Emol (El Mercurio Online) – Bias and Credibility](https://mediabiasfactcheck.com/emol-el-mercurio-online-bias-and-credibility/)
+    
+    December 10, 2024
+    
+* [Mendota Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mendota-reporter-bias/)
+    
+    December 10, 2024
+    
+* [Aberdeen Press & Journal – Bias and Credibility](https://mediabiasfactcheck.com/aberdeen-press-journal-bias/)
+    
+    December 10, 2024
+    
+* [Trierischer Volksfreund – Bias and Credibility](https://mediabiasfactcheck.com/trierischer-volksfreund-bias-and-credibility/)
+    
+    December 10, 2024
+    
 * [Alton Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/alton-telegraph-bias-and-credibility/)
     
     December 9, 2024
@@ -159,48 +179,28 @@ No related posts.
     
     December 9, 2024
     
-* [The Coast (Halifax) – Bias and Credibility](https://mediabiasfactcheck.com/the-coast-halifax-bias/)
-    
-    December 9, 2024
-    
-* [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/)
-    
-    December 9, 2024
-    
-* [Warsaw Voice – Bias and Credibility](https://mediabiasfactcheck.com/warsaw-voice-bias-and-credibility/)
-    
-    December 8, 2024
-    
-* [Univision – Bias and Credibility](https://mediabiasfactcheck.com/univision-bias-and-credibility/)
-    
-    December 8, 2024
-    
-* [Uncut-News – Bias and Credibility](https://mediabiasfactcheck.com/uncut-news-bias-and-credibility/)
-    
-    December 8, 2024
-    
 
 #### Recently Updated Pages
 
-* [Bluegrass Times – Bias and Credibility](https://mediabiasfactcheck.com/bluegrass-times-bias/ "View Bluegrass Times – Bias and Credibility") - December 10, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 10, 2024
     
-* [Augusta-Richmond Herald – Bias and Credibility](https://mediabiasfactcheck.com/augusta-richmond-herald-bias/ "View Augusta-Richmond Herald – Bias and Credibility") - December 10, 2024
+* [IndieWire – Bias and Credibility](https://mediabiasfactcheck.com/indiewire-bias-and-credibility/ "View IndieWire – Bias and Credibility") - December 10, 2024
     
-* [Amoskeag Times – Bias and Credibility](https://mediabiasfactcheck.com/amoskeag-times-bias/ "View Amoskeag Times – Bias and Credibility") - December 10, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - December 10, 2024
+    
+* [Emol (El Mercurio Online) – Bias and Credibility](https://mediabiasfactcheck.com/emol-el-mercurio-online-bias-and-credibility/ "View Emol (El Mercurio Online) – Bias and Credibility") - December 10, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 10, 2024
+    
+* [Mendota Reporter – Bias and Credibility](https://mediabiasfactcheck.com/mendota-reporter-bias/ "View Mendota Reporter – Bias and Credibility") - December 10, 2024
+    
+* [Aberdeen Press & Journal – Bias and Credibility](https://mediabiasfactcheck.com/aberdeen-press-journal-bias/ "View Aberdeen Press & Journal – Bias and Credibility") - December 10, 2024
+    
+* [Trierischer Volksfreund – Bias and Credibility](https://mediabiasfactcheck.com/trierischer-volksfreund-bias-and-credibility/ "View Trierischer Volksfreund – Bias and Credibility") - December 10, 2024
     
 * [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 10, 2024
     
-* [Bucks County Standard – Bias and Credibility](https://mediabiasfactcheck.com/bucks-county-standard-bias/ "View Bucks County Standard – Bias and Credibility") - December 10, 2024
-    
-* [Bryan-College Station Eagle – Bias and Credibility](https://mediabiasfactcheck.com/bryan-college-station-eagle-bias/ "View Bryan-College Station Eagle – Bias and Credibility") - December 10, 2024
-    
-* [Bugout.news – Bias and Credibility](https://mediabiasfactcheck.com/bugout-news/ "View Bugout.news – Bias and Credibility") - December 9, 2024
-    
-* [Bryan Times – Bias and Credibility](https://mediabiasfactcheck.com/bryan-times-bias/ "View Bryan Times – Bias and Credibility") - December 9, 2024
-    
-* [Brut.Media – Bias and Credibility](https://mediabiasfactcheck.com/brut-media-bias/ "View Brut.Media – Bias and Credibility") - December 9, 2024
-    
-* [Brownstone Institute – Bias and Credibility](https://mediabiasfactcheck.com/brownstone-institute-bias/ "View Brownstone Institute – Bias and Credibility") - December 9, 2024
+* [Bluegrass Times – Bias and Credibility](https://mediabiasfactcheck.com/bluegrass-times-bias/ "View Bluegrass Times – Bias and Credibility") - December 10, 2024
     
 
 #### Today’s Top Page Views
@@ -208,13 +208,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [Search](https://mediabiasfactcheck.com/search/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [MBFC's Daily Vetted Fact Checks for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/mbfcs-daily-vetted-fact-checks-for-12-09-2024/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 
 #### Subscribe via Email
 
