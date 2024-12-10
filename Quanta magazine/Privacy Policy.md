@@ -303,11 +303,11 @@ _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 _By_ [Susan D'Agostino](https://www.quantamagazine.org/authors/dagostino_susan)
 
-[![A cube being subdivided into smaller cubes](https://www.quantamagazine.org/wp-content/uploads/2024/11/KnotsInFractals-crDaveWhyte-Thumbnail.jpg)](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/12/Quantum-Error-Correction_crDave-Whyte-Thumbnail.webp)](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
-[#### Teen Mathematicians Tie Knots Through a Mind-Blowing Fractal](https://www.quantamagazine.org/teen-mathematicians-tie-knots-through-a-mind-blowing-fractal-20241126/)
+[#### Quantum Computers Cross Critical Error Threshold](https://www.quantamagazine.org/quantum-computers-cross-critical-error-threshold-20241209/)
 
-_By_ [Gregory Barber](https://www.quantamagazine.org/authors/gregorybarber)
+_By_ [Ben Brubaker](https://www.quantamagazine.org/authors/brubaker_ben)
 
 The Quanta Newsletter
 
