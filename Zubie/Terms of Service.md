@@ -49,13 +49,13 @@
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
+![](https://zubie.com/wp-content/uploads/2024/12/ford-pro-announcement-348x265.png)
 
-September 18, 2024
+December 10, 2024
 
-#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+#### [Zubie Announces Integration with Ford Pro to Enhance Fleet Management](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+[Read More](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
 * [Help](https://help.zubiecar.com/)
 * [Login](https://app.zubie.com/)
@@ -63,11 +63,11 @@ September 18, 2024
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
+![](https://zubie.com/wp-content/uploads/2024/12/ford-pro-announcement-348x265.png)
 
-#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+#### [Zubie Announces Integration with Ford Pro to Enhance Fleet Management](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+[Read More](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
 [Contact Us](https://zubie.com/contact/)
 
@@ -388,11 +388,11 @@ For Support
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
+![](https://zubie.com/wp-content/uploads/2024/12/ford-pro-announcement-348x265.png)
 
-#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+#### [Zubie Announces Integration with Ford Pro to Enhance Fleet Management](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+[Read More](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
 * [Privacy Policy](https://zubie.com/privacy-policy/)
 * [Cookie Policy](https://zubie.com/cookie-policy/)
@@ -402,11 +402,11 @@ Latest Press Release
 
 Latest Press Release
 
-![](https://zubie.com/wp-content/uploads/2024/09/ZUBIE-TOYOTA-1-348x265.png)
+![](https://zubie.com/wp-content/uploads/2024/12/ford-pro-announcement-348x265.png)
 
-#### [Zubie Announces Agreement with Toyota to Revolutionize Fleet Management](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+#### [Zubie Announces Integration with Ford Pro to Enhance Fleet Management](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
-[Read More](https://zubie.com/press_release/zubie-toyota-fleet-management/)
+[Read More](https://zubie.com/press_release/zubie-announces-integration-ford-pro-enhancing-fleet-management/)
 
 © Copyright 2024 - Zubie, Inc. | Zubie is a trademark of Zubie, Inc.
 
