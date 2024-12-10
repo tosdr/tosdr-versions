@@ -361,11 +361,7 @@ Fill out the form today and discover how Yotpo can elevate your retention game i
 
 Your information will be treated in accordance with our [Privacy Policy](https://www.yotpo.com/privacy-policy)
 
-[](https://www.yotpo.com/)
-
-This will take just a moment…  
-  
-We're finding the right person on our team to help your brand!
+This will take just a moment…We're finding the right person on our team to help your brand!
 
 “Yotpo is a fundamental part of our recommended tech stack.”
 
