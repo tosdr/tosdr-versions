@@ -658,7 +658,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -678,7 +678,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 **Appels internationaux depuis la Belgique (GSM)**
 
-* [_​_Avec votre GSM avec abonnement(PDF, 229.7Kb)](https://www.proximus.be/dam/jcr:868782e7-cbfd-45c0-bb42-dd2b075894e3/cdn/sites/iportal/documents/pdfs/res/rates_postpaid_intl_res_fr~2022-02-21-12-08-19~cache.pdf)
+* [_​_Avec votre GSM avec abonnement(PDF, 209Kb)](https://www.proximus.be/dam/jcr:868782e7-cbfd-45c0-bb42-dd2b075894e3/cdn/sites/iportal/documents/pdfs/res/rates_postpaid_intl_res_fr~2024-12-10-11-20-59~cache.pdf)
 * [_​_Avec votre GSM avec carte prépayée(PDF, 232.4Kb)](https://www.proximus.be/dam/jcr:ffc1908b-7705-49d4-9eea-5b2beb212a99/cdn/sites/iportal/documents/pdfs/res/rates_prepaid_intl_res_fr~2022-02-21-12-08-20~cache.pdf)
 
 **Tarifs roaming (GSM)**
