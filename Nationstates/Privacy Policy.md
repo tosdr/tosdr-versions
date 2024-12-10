@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Favorite line from AN's Factbooks II (12,271)](https://forum.nationstates.net/viewtopic.php?t=510652&f=25&view=unread#unread ""Favorite line from AN's Factbooks II" (12,271 posts)")
-* [UnitedHealthcare CEO Assassinated (882)](https://forum.nationstates.net/viewtopic.php?t=559227&f=20&view=unread#unread ""UnitedHealthcare CEO Assassinated" (882 posts)")
-* [American Politics: Turnabout Trump (8,549)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (8,549 posts)")
-* [What is the most surprising thing abo… (41)](https://forum.nationstates.net/viewtopic.php?t=559389&f=25&view=unread#unread ""What is the most surprising thing about AN?" (41 posts)")
-* [\[DRAFT\]Broiling Blueprints cause Flas… (24)](https://forum.nationstates.net/viewtopic.php?t=557424&f=13&view=unread#unread ""[DRAFT]Broiling Blueprints cause Flash Fried Feet?" (24 posts)")
+* [Guess AN's least favorite nation (312)](https://forum.nationstates.net/viewtopic.php?t=558572&f=25&view=unread#unread ""Guess AN's least favorite nation" (312 posts)")
+* [Change a Letter (3,153)](https://forum.nationstates.net/viewtopic.php?t=551994&f=25&view=unread#unread ""Change a Letter" (3,153 posts)")
+* [What's your favorite part of AN lore (199)](https://forum.nationstates.net/viewtopic.php?t=557672&f=25&view=unread#unread ""What's your favorite part of AN lore" (199 posts)")
+* [Daniel Penny ACQUITTED (11)](https://forum.nationstates.net/viewtopic.php?t=559441&f=20&view=unread#unread ""Daniel Penny ACQUITTED" (11 posts)")
+* [Compliment the Above Nation III (7,508)](https://forum.nationstates.net/viewtopic.php?t=513965&f=25&view=unread#unread ""Compliment the Above Nation III" (7,508 posts)")
 
 Advertisement
 
