@@ -2,6 +2,7 @@ Tuesday, December 10 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Tuesday, December 10, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
 * [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
 * [Under Pressure, Biden Opts For Minimum Acreage Possible In Drilling Decision](https://www.conservativedailynews.com/2024/12/under-pressure-biden-opts-for-minimum-acreage-possible-in-drilling-decision/)
 * [BLM Leader Calls For ‘Black Vigilantes’ To Descend On Cities Following Daniel Penny Acquittal](https://www.conservativedailynews.com/2024/12/blm-leader-calls-for-black-vigilantes-to-descend-on-cities-following-daniel-penny-acquittal/)
@@ -9,7 +10,6 @@ Breaking News
 * [Trump Policies Follow Principle of Economic Greatness](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
 * [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
 * [Medal of Honor Monday: Navy Lt. Cmdr. Jackson Pharris](https://www.conservativedailynews.com/2024/12/medal-of-honor-monday-navy-lt-cmdr-jackson-pharris/)
-* [Seven Stages of Grief: MAGA Billionaires vs BlueSky Billionaires](https://www.conservativedailynews.com/2024/12/seven-stages-of-grief-maga-billionaires-vs-bluesky-billionaires/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,30 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
+    
+    [President Joe Biden’s Schedule for Tuesday, December 10, 2024](https://www.conservativedailynews.com/2024/12/president-joe-bidens-schedule-for-tuesday-december-10-2024/)
+    
+    December 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/02-parting-gift-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/12/parting-gift-2/)
+    
+    [Parting Gift](https://www.conservativedailynews.com/2024/12/parting-gift-2/)
+    
+    December 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Saving-piggy-bank-money-220x150.png)](https://www.conservativedailynews.com/2024/12/9-best-money-books-for-kids-and-teens/)
+    
+    [9 Best Money Books for Kids and Teens](https://www.conservativedailynews.com/2024/12/9-best-money-books-for-kids-and-teens/)
+    
+    December 10, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/07/2020-02-11T011157Z_622246339_RC21YE9U3011_RTRMADP_3_USA-ELECTION-BIDEN-220x150.jpg)](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/)
+    
+    [Biden the Tyrant](https://www.conservativedailynews.com/2024/12/biden-the-tyrant/)
+    
+    December 10, 2024
+    
 * [![Trump wins success fighter](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg110624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
     
     [You Say You Want A Revolution? Watch Trump](https://www.conservativedailynews.com/2024/12/you-say-you-want-a-revolution-watch-trump/)
@@ -154,43 +178,19 @@ Recent Posts
     
     December 9, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/05/Joni-Ernst.jpg)](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
-    
-    [Ernst Signals Support For Hegseth After ‘Encouraging Conversations’](https://www.conservativedailynews.com/2024/12/ernst-signals-support-for-hegseth-after-encouraging-conversations/)
-    
-    December 9, 2024
-    
-* [![Bidenomics inflation grocery prices](https://www.conservativedailynews.com/wp-content/uploads/2024/04/mrz042324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/12/is-your-grocery-bill-gobbling-up-your-budget/)
-    
-    [Is Your Grocery Bill Gobbling Up Your Budget?](https://www.conservativedailynews.com/2024/12/is-your-grocery-bill-gobbling-up-your-budget/)
-    
-    December 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/03/Donald-Trump-speech-CPAC-2023-220x150.png)](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
-    
-    [Trump Policies Follow Principle of Economic Greatness](https://www.conservativedailynews.com/2024/12/trump-policies-follow-principle-of-economic-greatness/)
-    
-    December 9, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/12/IMG_5890-220x150.jpeg)](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
-    
-    [People In North Carolina Are living In Tents While Biden Pledges Billions To Africa](https://www.conservativedailynews.com/2024/12/people-in-north-carolina-are-living-in-tents-while-biden-pledges-billions-to-africa/)
-    
-    December 9, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Florida Driver Refuses Carjacker Then Shoots Him](https://www.thegunpage.com/florida-driver-refuses-carjacker-then-shoots-him/10612409)
+* [MI: “Ghost gun” Bills in Senate](https://www.thegunpage.com/mi-ghost-gun-bills-in-senate/10612408)
+* [New Measure Would Ban Biden’s Medicaid Funding For Gun Control](https://www.thegunpage.com/new-measure-would-ban-bidens-medicaid-funding-for-gun-control/10612406)
+* [SAF Wades Into Montana Gun-Free School Zone Case](https://www.thegunpage.com/saf-wades-into-montana-gun-free-school-zone-case/10612401)
+* [Lipsey's Drops New Exclusive Ruger .41 Magnum](https://www.thegunpage.com/lipseys-drops-new-exclusive-ruger-41-magnum/10612407)
+* [High-Profile CEO Killing Brings Focus to Ghost Guns](https://www.thegunpage.com/high-profile-ceo-killing-brings-focus-to-ghost-guns/10612398)
+* [Hillsdale College’s Halter Shooting Sports Education Center Dedicated To Competition](https://www.thegunpage.com/hillsdale-colleges-halter-shooting-sports-education-center-dedicated-to-competition/10612402)
+* [Five Classic Divisions, Plus Limited Optics On Display At 2024 USPSA Handgun Nationals](https://www.thegunpage.com/five-classic-divisions-plus-limited-optics-on-display-at-2024-uspsa-handgun-nationals/10612397)
 * [TFB Review: Aimpoint ACRO C-2](https://www.thegunpage.com/tfb-review-aimpoint-acro-c-2/10612394)
 * [POTD: B&T APC223 PDW Tele + Thermal & Predator Ghillie](https://www.thegunpage.com/potd-bt-apc223-pdw-tele-thermal-predator-ghillie/10612395)
-* [The Rimfire Report: Is .21 Sharp Taking Rimfire Anywhere New?](https://www.thegunpage.com/the-rimfire-report-is-21-sharp-taking-rimfire-anywhere-new/10612396)
-* [Deep Dive: Canadian Federal Government Bans Another 300+ Firearms](https://www.thegunpage.com/deep-dive-canadian-federal-government-bans-another-300-firearms/10612392)
-* [Texas Proposes Anti Red Flag Act To Safeguard Second Amendment Rights](https://www.thegunpage.com/texas-proposes-anti-red-flag-act-to-safeguard-second-amendment-rights/10612386)
-* [SWFA Upgrades Scopes To Gen 2 Models](https://www.thegunpage.com/swfa-upgrades-scopes-to-gen-2-models/10612390)
-* [FREE MAN: Jury Hands Hero Daniel Penny Not Guilty Verdict](https://www.thegunpage.com/free-man-jury-hands-hero-daniel-penny-not-guilty-verdict/10612388)
-* [House Staffer Caught Up In Mags For Me, But Not For Thee Arrest](https://www.thegunpage.com/house-staffer-caught-up-in-mags-for-me-but-not-for-thee-arrest/10612380)
-* [Barrett Mk 22 Enters Full Operational Status With USMC](https://www.thegunpage.com/barrett-mk-22-enters-full-operational-status-with-usmc/10612382)
-* [SCOTUS Sets Conference Date for the Snope v. Brown Assault Weapon Ban Case](https://www.thegunpage.com/scotus-sets-conference-date-for-the-snope-v-brown-assault-weapon-ban-case/10612377)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
