@@ -530,6 +530,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![Group tours of the UK – 10 lesser-known places to visit in 2025](https://media.restless.co.uk/uploads/2024/11/group-tours-of-the-uk-10-lesser-known-places-to-visit-in-2025-768x508.jpg)](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
+### [Group tours of the UK – 10 lesser-known places to visit in 2025](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
+[Read More »](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+
 [![10 of the world’s most diverse and beautiful countries](https://media.restless.co.uk/uploads/2024/10/the-worlds-most-diverse-and-beautiful-countries-768x512.jpg)](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
 
 ### [10 of the world’s most diverse and beautiful countries](https://restless.co.uk/travel/the-worlds-most-diverse-and-beautiful-countries/)
@@ -559,12 +565,6 @@ New in travel
 ### [12 idyllic beach holidays in Southern Europe](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
 
 [Read More »](https://restless.co.uk/travel/idyllic-beach-holidays-in-southern-europe/)
-
-[![From Arctic to Equator - 11 amazing adventures for every season](https://media.restless.co.uk/uploads/2024/10/from-arctic-to-equator-11-amazing-adventures-for-every-season-768x287.jpg)](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
-
-### [From Arctic to Equator – 11 amazing adventures for every season](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)  
-
-[Read More »](https://restless.co.uk/travel/from-arctic-to-equator-amazing-adventures-for-every-season/)
 
 Popular travel guides
 ---------------------
