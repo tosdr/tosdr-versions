@@ -83,7 +83,7 @@ Arrow Left
 
 Arrow Right
 
-[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/news/weather/video/white-christmas-snow-history-chances?adRef=nav_trpcl)
+[My DashboardNEW](https://weather.com/mydashboard)[Today](#noloc_/weather/today/l/)[Hourly](#noloc_/weather/hourbyhour/l/)[10 Day](#noloc_/weather/tenday/l/)[Weekend](#noloc_/weather/weekend/l/)[Monthly](#noloc_/weather/monthly/l/)[Radar](#noloc_/weather/radar/interactive/l/)[VideoWinter](https://weather.com/home-garden/video/how-to-winterize-my-home?adRef=nav_trpcl)
 
 More ForecastsMoreArrow down
 
