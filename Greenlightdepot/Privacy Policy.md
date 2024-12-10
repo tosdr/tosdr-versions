@@ -411,9 +411,8 @@ Monday - Friday 9am - 6pm EST
 Overview
 
 * [About Us](https://greenlightdepot.com/pages/about-us)
-* [Certifications](https://greenlightdepot.com/)
 * [Rebate Program](https://greenlightdepot.com/pages/encentivizer)
-* [Sitemap](https://greenlightdepot.com/)
+* [Sitemap](https://greenlightdepot.com/sitemap.xml)
 * [Blogs](https://greenlightdepot.com/blogs/news)
 
 Company Policies
