@@ -909,6 +909,7 @@ Solution
     
     * [Backup Overview](https://www.qnap.com/go/solution/backup-and-restoration/)
     * [NAS Backup](https://www.qnap.com/go/software/hybrid-backup-sync)
+    * [Airgap+ Backup](https://www.qnap.com/go/solution/airgap-plus)
     * [PC/Server Backup](https://www.qnap.com/go/software/netbak-pc-agent)
     * [SaaS Backup](https://www.qnap.com/go/solution/boxafe/)
     * [VM Backup](https://www.qnap.com/go/software/hyper-data-protector)
@@ -916,7 +917,6 @@ Solution
     * [RAID](https://www.qnap.com/go/solution/raid-management/)
     * [Snapshots & Versioning](https://www.qnap.com/go/solution/snapshots/)
     * [Email Backup](https://www.qnap.com/go/software/qmailagent)
-    * [Google Photos Backup](https://www.qnap.com/go/solution/backup-google-photos/)
     * [View All](https://www.qnap.com/go/solution/data-protection/)
 * ###### Personal and Family
     
