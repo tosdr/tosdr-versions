@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/universum/%e2%80%98buitenaards-leven-zoekt-contact%e2%80%99/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/mh17-crash-gewoon-nog-even-kritisch-bekeken/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
