@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I love my FoxyProxy, I travel a lot around the Middle East and often find news articles and information blocked, and also many countries block access to my Skype account pages, but FP has never let me down!
+Thanks for the help guys!! finally loving it. keep up the great work!
 
-Mal Collins
+Sai Yarlagadda
