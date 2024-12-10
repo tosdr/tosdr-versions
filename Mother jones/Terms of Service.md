@@ -8,10 +8,10 @@
 
 *  
     
-* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
-* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
-* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
+* [House of Representatives](https://www.motherjones.com/politics/2024/12/derek-tran-michelle-steel-elon-musk/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-just-provided-details-for-his-dystopic-and-sweeping-presidential-agenda/)
+* [Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/)
+* [South Korea](https://www.motherjones.com/politics/2024/12/vote-to-impeach-south-korean-president-fails-after-martial-law-declaration/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Hunter Biden](https://www.motherjones.com/politics/2024/12/hunter-got-a-pardon-will-drug-war-victims/)
-* [Pete Hegseth](https://www.motherjones.com/politics/2024/12/pete-hegseth-allegations/)
-* [Trans Rights](https://www.motherjones.com/politics/2024/12/trans-rights-supreme-court-skrmetti/)
-* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-qanon-trump-fbi/)
+* [House of Representatives](https://www.motherjones.com/politics/2024/12/derek-tran-michelle-steel-elon-musk/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-just-provided-details-for-his-dystopic-and-sweeping-presidential-agenda/)
+* [Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/)
+* [South Korea](https://www.motherjones.com/politics/2024/12/vote-to-impeach-south-korean-president-fails-after-martial-law-declaration/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
