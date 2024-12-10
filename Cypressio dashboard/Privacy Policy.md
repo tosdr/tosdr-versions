@@ -1,3 +1,5 @@
+Introducing [UI Coverage](https://cypress.io/ui-coverage?utm_medium=website&utm_source=cypress.io&utm_content=banner) & [Cypress Accessibility](https://cypress.io/accessibility?utm_medium=website&utm_source=cypress.io&utm_content=banner) — Accelerate innovation with automated quality checks before each release
+
 [![Logo](/_astro/navbar-brand.D87396b0.svg)](https://cypress.io/)
 
 [![Logo](/_astro/navbar-brand.D87396b0.svg)](https://cypress.io/)
