@@ -299,6 +299,10 @@ Languages
 
 Blog
 
+Dec. 10, 2024
+
+[Year end review presentations: how to create an effective and engaging one](https://blog.prezi.com/year-end-review-presentation/)
+
 Dec. 6, 2024
 
 [Interesting business topics for presentations](https://blog.prezi.com/business-topics-for-presentation/)
@@ -306,10 +310,6 @@ Dec. 6, 2024
 Dec. 4, 2024
 
 [Biology topics for presentation: Explore fascinating insights](https://blog.prezi.com/biology-topics-for-presentation/)
-
-Nov. 18, 2024
-
-[AI prompt examples for creating impactful AI presentations](https://blog.prezi.com/ai-prompt-examples/)
 
 [Latest posts](https://blog.prezi.com/)
 
