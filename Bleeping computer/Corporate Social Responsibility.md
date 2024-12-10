@@ -304,15 +304,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Crypto hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Crypto-stealing malware posing as a meeting app targets Web3 pros](https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
-* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Hospital](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
+    Anna Jaques Hospital ransomware breach exposed data of 300K patients](https://www.bleepingcomputer.com/news/security/anna-jaques-hospital-ransomware-breach-exposed-data-of-300k-patients/)
+* [![Heart](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
 
 ##### Follow us:
 
