@@ -435,9 +435,11 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"I ran the trial with a small group of students over three weeks before the summer holidays," she says. "I quickly saw the benefits, and signed up."
 
-**Adult student, USA**
+**King's Leadership Academy, Warrington**
+
+[read more...](https://www.spellzone.com/pages/case-studies/kings-leadership-academy.cfm)
 
 ### Curriculum...
 
