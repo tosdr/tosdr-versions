@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/intuitie-is-de-hoogste-vorm-van-intelligentie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/de-heftigste-boodschap-over-t-corona-bewijs/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
