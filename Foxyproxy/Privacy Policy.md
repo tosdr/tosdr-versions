@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for the help guys!! finally loving it. keep up the great work!
+Very reliable service.
 
-Sai Yarlagadda
+Jay Stone
