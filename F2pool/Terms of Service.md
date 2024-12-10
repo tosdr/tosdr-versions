@@ -22,6 +22,7 @@ English
 
 * [f2pool adds LKY and PEP to LTC merged mining](https://f2pool.zendesk.com/hc/en-us/articles/40806193744153-f2pool-adds-LKY-and-PEP-to-LTC-merged-mining) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 * [f2pool adds JKC to LTC merged mining](https://f2pool.zendesk.com/hc/en-us/articles/40939776728985-f2pool-adds-JKC-to-LTC-merged-mining) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
+* [Upcoming ZEN halving](https://f2pool.zendesk.com/hc/en-us/articles/40984074439705-Upcoming-ZEN-halving) [More >](https://f2pool.zendesk.com/hc/en-us/sections/360013149492)
 
 F2Pool Terms of Service
 -----------------------
