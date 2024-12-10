@@ -412,36 +412,36 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. excel
+1. javascript
     
-2. French
+2. computer science
     
-3. trading
+3. project management
     
 
 Popular subjects
 
-1. [Psychology
+1. [Entrepreneurship
     
-    2,869 courses](https://www.classcentral.com/subject/psychology)
-2. [Communication Skills
+    4,247 courses](https://www.classcentral.com/subject/entrepreneurship)
+2. [Web Development
     
-    4,330 courses](https://www.classcentral.com/subject/communication-skills)
-3. [Digital Marketing
+    13,907 courses](https://www.classcentral.com/subject/web-development)
+3. [Project Management
     
-    6,341 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,294 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 
-1. [Introduction to Cyber Security
+1. [Precalculus: the Mathematics of Numbers, Functions and Equations
     
-    Uttarakhand Open University, Haldwani](https://www.classcentral.com/course/swayam-introduction-to-cyber-security-14116)
-2. [Machine Learning for Musicians and Artists
+    University of Padova](https://www.classcentral.com/course/precalculus-8988)
+2. [Understanding Multiple Sclerosis (MS)
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
-3. [Supporting Victims of Domestic Violence
+    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
+3. [Vital Signs: Understanding What the Body Is Telling Us
     
-    The University of Sheffield](https://www.classcentral.com/course/domestic-violence-15221)
+    University of Pennsylvania](https://www.classcentral.com/course/vitalsigns-1887)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
