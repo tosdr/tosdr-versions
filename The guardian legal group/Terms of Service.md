@@ -34,7 +34,7 @@ MENUMENU
     * [Philips CPAP Machine Recall](https://theguardianlegalnetwork.com/defective-medical-devices/philips-cpap-machine/)
     * [PowerPort Lawsuit](https://theguardianlegalnetwork.com/defective-medical-devices/powerport-lawsuit/)
     * [Transvaginal Mesh Lawsuit](https://theguardianlegalnetwork.com/defective-medical-devices/transvaginal-mesh/)
-* [Denied Benefits](https://theguardianlegalnetwork.com/denied-benefits/)
+* [Denied Benefits Lawsuits](https://theguardianlegalnetwork.com/denied-benefits/)
     * [Disability Insurance Lawsuit](https://theguardianlegalnetwork.com/denied-benefits/disability-insurance-lawsuit/)
 * [Product Liability](https://theguardianlegalnetwork.com/product-liability/)
     * [3M Earplugs Lawsuit](https://theguardianlegalnetwork.com/product-liability/3m-earplugs/)
