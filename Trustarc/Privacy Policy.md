@@ -155,6 +155,7 @@ At TrustArc, _Privacy is our Business_. We strive to help businesses embed priv
 [Your Personal Information](https://trustarc.com/privacy-policy/#personal-information)  
 [Keeping and Securing Your Personal Information](https://trustarc.com/privacy-policy/#keeping-and-securing)  
 [Disclosing Your Personal Information](https://trustarc.com/privacy-policy/#sharing-personal-information)  
+[Your Choices Around the Use and Disclosure of Your Personal Information](https://trustarc.com/privacy-policy/#your-choices)  
 [International Data Transfers](https://trustarc.com/privacy-policy/#international-data-transfers)  
 [Additional Rights for U.S. Residents](https://trustarc.com/privacy-policy/#california-residents)  
 [Contact Us](https://trustarc.com/privacy-policy/#contact)**  
@@ -401,6 +402,17 @@ At TrustArc, we only disclose personal information in ways that we tell you abou
 
 **Mergers, acquisitions, divestitures, or asset sales** but only if the acquiring organization agrees to this Notice’s protections, where this is within our control. If we are under the control of a court, such as bankruptcy proceedings, we may not have full authority to ensure this protection.
 
+   
+
+Your Choices Around the Use and Disclosure of Your Personal Information
+-----------------------------------------------------------------------
+
+TrustArc provides you the ability to opt-out of uses and disclosures of your personal information that are not directly related to providing the services you requested. As described throughout this privacy notice, we enable you to opt-out of additional uses or disclosures when you first visit our website or receive an email communication from us. You can also opt-out at any time by submitting a request through our Individual Rights [form.](#)
+
+[](#)
+
+ [](#)
+
 International Data Transfers
 ----------------------------
 
@@ -413,13 +425,19 @@ This means that we may transfer, access, or store personal information about you
 * We may seek your consent for transfers of your personal information for specific purposes.
 * We may rely on other transfer mechanisms approved by authorities in the country from which the data are transferred.
 
-TrustArc Inc and its subsidiary, TRUSTe LLC, in the USA, (“TrustArc”) participate in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. Data Privacy Framework (UK Extension), and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), having self-certified to the U.S. Department of Commerce our adherence to the Data Privacy Framework Principles. TrustArc is committed to applying the EU-U.S. Data Privacy Framework Principles and, as applicable the United Kingdom (and Gibraltar), the Swiss-U.S. Data Privacy Framework Principles (as applicable), to all personal information received from countries within the European Economic Area and, as applicable the United Kingdom (and Gibraltar), Switzerland.
+**Data Privacy Framework**
 
-To learn more about the Data Privacy Framework, visit the Data Privacy Framework website. Under the Data Privacy Framework, we are responsible for the processing of personal information we receive and subsequently transfer to a third party acting for or on our behalf. We are liable for ensuring that the third parties we engage support our DPF commitments. The U.S. Federal Trade Commission has regulatory enforcement authority and jurisdiction over TrustArc’s compliance with and processing of personal information received or transferred pursuant to the EU-U.S. Data Privacy Framework, and the UK Extension to the EU-U.S. DPF (when effective), and the Swiss-U.S. Data Privacy Framework (when effective). TrustArc commits to cooperate and comply with the advice of the regulatory authorities to whom you may raise a concern about our processing of personal information about you pursuant to the Data Privacy Framework, including to the panel established by the EU and UK authorities and the Swiss FDPIC. This is provided at no cost to you. Please see the section at the beginning about your rights.
+TrustArc Inc and its subsidiary, TRUSTe LLC, in the USA, (“TrustArc”) complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. TrustArc has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. TrustArc has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, TrustArc commits to cooperate and comply, respectively, with the advice of the panel established by the EU data protection authorities DPAs, the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, and, when effective, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+TrustArc Inc is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC). TrustArc is liable under the DPF Principles if its service providers/vendors who process personal information on our behalf process such personal information in a manner inconsistent with the Principles.
 
-When effective, TrustArc commits to cooperate and comply, respectively, with the advice of the panel established by the UK Information Commissioner’s Office (ICO), the Gibraltar Regulatory Authority (GRA), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF. Under certain conditions, described more fully on the [Data Privacy Framework website](https://www.dataprivacyframework.gov/s/participant-search), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.  
+**Data Privacy Framework Inquiries & Complaints** (data from the EEA, Switzerland, or the United Kingdom (and Gibraltar)
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, TrustArc commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF should first contact TrustArc at: [\[email protected\]](https://trustarc.com/cdn-cgi/l/email-protection).
+
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, TrustArc commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner’s Office (ICO), and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+
+Under certain conditions, it may be possible for you to invoke binding arbitration as set forth in Annex I of the DPF Principles by delivering notice to TrustArc at [\[email protected\]](https://trustarc.com/cdn-cgi/l/email-protection) and following the procedures and subject to conditions set forth in Annex I of the Principles.
 
 Contact Us
 ----------
