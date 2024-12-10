@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/ko-nam-je-kriv-001.jpg?itok=zkqIS-kx)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/flu-studenti25.jpg?itok=jROesncO)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/levi.jpg?itok=UPcnpdE4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel/2011-002.jpg?itok=fofHfcOw)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,6 +314,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
+* [Direktorka JDP ponovo u UO UTE](http://seecult.org/vest/direktorka-jdp-ponovo-u-uo-ute)
 * [Buden gost Filozofskog teatra](http://seecult.org/vest/buden-gost-filozofskog-teatra-0)
 * [Provokativna završnica 12. Vizualizatora](http://seecult.org/vest/provokativna-zavrsnica-12-vizualizatora)
 * [Posveta katedrali Notr-Dam](http://seecult.org/vest/posveta-katedrali-notr-dam)
@@ -323,7 +324,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dobričin prsten uručen Aniti Mančić](http://seecult.org/vest/dobricin-prsten-urucen-aniti-mancic)
 * [Hvala i slava Raši Todosijeviću](http://seecult.org/vest/hvala-i-slava-rasi-todosijevicu)
 * [Dobitnici nagrade Miloš N. Đurić](http://seecult.org/vest/dobitnici-nagrade-milos-n-duric)
-* [Dani italijanskog filma](http://seecult.org/vest/dani-italijanskog-filma)
 
 * [Konkursi](#tab1_1)
 
