@@ -338,9 +338,9 @@ You are here:
 ALDI: U.S. Privacy Policy
 =========================
 
-**Last Updated and Effective: June 28, 2024**
+**Last Updated and Effective: December 10, 2024**
 
-This U.S. Privacy Policy describes our practices regarding the collection, use and disclosure of personal information collected by ALDI Inc. (“ALDI” or “we,” “us,” or “our”) through our websites, web pages and mobile applications that post or include a link to this U.S. Privacy Policy (including those listed here([https://www.aldi.us/terms-of-use/scope-of-us-online-privacy-notice/](https://www.aldi.us/online-privacy-notice/)), and by Aldi offline such as when visiting our store (collectively, the “Services”). This U.S. Privacy Policy does not apply to Aldi Inc. employees or job applicants, who should refer to the ALDI Applicant [Privacy Notice](http://careers.aldi.us/applicant-privacy-policy).  This U.S.  Privacy Policy describes the types of personal information we collect on the Services, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information.  We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices and to exercise your privacy rights.
+This U.S. Privacy Policy describes our practices regarding the collection, use and disclosure of personal information collected by ALDI Inc. (“ALDI” or “we,” “us,” or “our”) through our websites, web pages and mobile applications that post or include a link to this U.S. Privacy Policy (including those listed here), and by ALDI offline such as when visiting our store (collectively, the “Services”). This U.S. Privacy Policy does not apply to ALDI Inc. employees or job applicants, who should refer to the ALDI Applicant [Privacy Notice](http://careers.aldi.us/applicant-privacy-policy). This U.S. Privacy Policy describes the types of personal information we collect on the Services, how we may use the information, with whom we may share it and the choices available to you regarding our use of the information. We also describe the measures we take to safeguard the information and tell you how to contact us about our privacy practices and to exercise your privacy rights.
 
 Please review this U.S. Privacy Policy carefully, In addition, please review the [Terms of Use](https://www.aldi.us/terms-of-use/), which govern your use of the Services.
 
@@ -600,7 +600,7 @@ If you are a California, Connecticut, Texas, or Virginia resident, you have the 
 
 You may submit a request to exercise your rights through one of two means:
 
-* By filling out a Consumer Data Request Form available [here](https://forms.office.com/pages/responsepage.aspx?id=wtkBFqzHKUGt0ZJm6mAGPOsPM-AqiKZIoQtl98XWc11UNkZGRzNGMUc0ODM0Vk4wMVpUS0Q4VUpDRy4u).
+* By filling out a [Consumer Data Request Form](https://aldi-privacy.my.onetrust.com/webform/88287088-72d8-4e0d-8c0f-28404e719f48/9e6a4928-be83-47a5-bc67-5b8b01022f13).
 * By calling us at 833-602-2534.
 
 We will endeavor to respond to your request within the time required under the applicable law.  If we require more time, we will inform you of the reason and extension period in writing.  Please note that additional information may be requested from you to confirm your identity.  This is to ensure that your personal information is not disclosed to a person who does not have a right to receive it.  We will only use personal information you provide in connection with your request to review and comply with your request.
@@ -940,7 +940,7 @@ Batavia, IL 60510
 
 [Print page](#print)
 
-[Cookie Preferences](#)[Online Privacy Notice](https://www.aldi.us/online-privacy-notice/)[Terms of Use](https://www.aldi.us/terms-of-use/)[Security Policy](https://security.aldi-sued.com/)[Sitemap](https://www.aldi.us/site-map/) [Your Privacy Choices](https://forms.office.com/e/StZhkVBm7p)© 2024 by ALDI
+[Cookie Preferences](#)[Online Privacy Notice](https://www.aldi.us/online-privacy-notice/)[Terms of Use](https://www.aldi.us/terms-of-use/)[Security Policy](https://security.aldi-sued.com/)[Sitemap](https://www.aldi.us/site-map/) [Your Privacy Choices](https://aldi-privacy.my.onetrust.com/webform/88287088-72d8-4e0d-8c0f-28404e719f48/9e6a4928-be83-47a5-bc67-5b8b01022f13)© 2024 by ALDI
 
  Open
 
