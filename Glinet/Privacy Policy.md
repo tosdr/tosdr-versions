@@ -133,7 +133,7 @@
     
     [Learn More](https://www.gl-inet.com/support/firmware-features/)
     
-* [Store](https://store-us.gl-inet.com/)
+* [Store](https://store-us.gl-inet.com/?utm_source=website&utm_medium=storebutton)
 
 1. [Home](https://www.gl-inet.com/)
 2. Privacy Policy
