@@ -20,16 +20,16 @@ Tuesday, December 10 2024
 
 Latest
 
-* [Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
-* [Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
-* [Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
-* [Ransomware gang BianLian claims Physicians’ Primary Care of Southwest Florida cyber attack – 1.8TB stolen](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
-* [Recall arrives for Intel and AMD devices after months of controversy](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
-* [OpenAI expands multi-modal capabilities with updated text-to-video model – Computerworld](https://digitpatrox.com/openai-expands-multi-modal-capabilities-with-updated-text-to-video-model-computerworld/)
-* [Use the ‘$1 Rule’ Before Making an Impulsive Purchase](https://digitpatrox.com/use-the-1-rule-before-making-an-impulsive-purchase/)
-* [How to Spot and Avoid Them](https://digitpatrox.com/how-to-spot-and-avoid-them/)
-* [How to Clean Silicone Kitchen Utensils and More](https://digitpatrox.com/how-to-clean-silicone-kitchen-utensils-and-more/)
-* [Today’s NYT Connections Hints and Answer for December 10 (#548)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-december-10-548/)
+* [Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
+* [Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
+* [Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
+* [FTC distributes $72 million in Fortnite refunds from Epic Games](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
+* [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
+* [I Have Been an Apple User for 10 Years and Here’s How I Make the Most out of Apple’s Ecosystem](https://digitpatrox.com/i-have-been-an-apple-user-for-10-years-and-heres-how-i-make-the-most-out-of-apples-ecosystem/)
+* [Can you trace an email back to its originating IP address?](https://digitpatrox.com/can-you-trace-an-email-back-to-its-originating-ip-address/)
+* [Data center water consumption is skyrocketing, but Microsoft thinks it has a solution – the company’s new closed-loop cooling system consumes zero water and could save millions of liters per year](https://digitpatrox.com/data-center-water-consumption-is-skyrocketing-but-microsoft-thinks-it-has-a-solution-the-companys-new-closed-loop-cooling-system-consumes-zero-water-and-could-save-millions-of-liters-per-y/)
+* [IT at Tokio Marine means continuous learning — and many hats – Computerworld](https://digitpatrox.com/it-at-tokio-marine-means-continuous-learning-and-many-hats-computerworld/)
+* [The Smart Home Devices I Use to Protect Against Leaks and Electrical Fires](https://digitpatrox.com/the-smart-home-devices-i-use-to-protect-against-leaks-and-electrical-fires/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/10/04/Microsoft.jpg)](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+* [![](https://cdn.mos.cms.futurecdn.net/VP6YsDYx8KJNJyiEMYB2xC-1200-80.jpg)](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
     
-    [Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+    [Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
     
-    18 minutes ago
+    5 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/7QucAKb_BAR4EMvjSrGuyFYU_Ns=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783155/Yelp_AI_review_insights.jpg)](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
+* [![](https://assets.techrepublic.com/uploads/2024/02/openai-sora-featured-feb-24.png)](https://digitpatrox.com/everything-you-need-to-know-3/)
     
-    [Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
+    [Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
     
-    35 minutes ago
+    9 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/12/Bluesky-Premium-Features-Leak-with-8-Monthly-Fee.jpg)](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
+* [![](https://cdn.mos.cms.futurecdn.net/pJdBq5KJPgMwtksb53WvQd-1200-80.jpg)](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
     
-    [Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
+    [Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
     
-    51 minutes ago
+    13 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Physicians-Primary-Care-of-Southwest-Florida.jpg)](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/12/10/fortnite-header.jpg)](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
     
-    [Ransomware gang BianLian claims Physicians’ Primary Care of Southwest Florida cyber attack – 1.8TB stolen](https://digitpatrox.com/ransomware-gang-bianlian-claims-physicians-primary-care-of-southwest-florida-cyber-attack-1-8tb-stolen/)
+    [FTC distributes $72 million in Fortnite refunds from Epic Games](https://digitpatrox.com/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/mzXSoufuS9gE7qjNjE7mpS-1200-80.jpg)](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
+* [![](https://cdn.vox-cdn.com/thumbor/ibJB1FJCZA0skpwKQzSSJN3Ydus=/0x0:3840x2160/1200x628/filters:focal(1727x1056:1728x1057)/cdn.vox-cdn.com/uploads/chorus_asset/file/25783727/ss_af2804aa4bf35d4251043744412ce3b359a125ef.jpg)](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
     
-    [Recall arrives for Intel and AMD devices after months of controversy](https://digitpatrox.com/recall-arrives-for-intel-and-amd-devices-after-months-of-controversy/)
+    [Cyberpunk 2077 just got a whole bunch of new ways to customize your character](https://digitpatrox.com/cyberpunk-2077-just-got-a-whole-bunch-of-new-ways-to-customize-your-character/)
     
     2 hours ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 minutes ago
+* [5 minutes ago
     
-    ### Microsoft 365 outage takes down Office web apps, admin center](https://digitpatrox.com/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
-* [35 minutes ago
+    ### Everything you need to know about ChatGPT Pro, including pricing, features, and available models](https://digitpatrox.com/everything-you-need-to-know-about-chatgpt-pro-including-pricing-features-and-available-models/)
+* [9 minutes ago
     
-    ### Yelp’s new AI-powered review filters will show what you want to know](https://digitpatrox.com/yelps-new-ai-powered-review-filters-will-show-what-you-want-to-know/)
-* [51 minutes ago
+    ### Everything You Need to Know](https://digitpatrox.com/everything-you-need-to-know-3/)
+* [13 minutes ago
     
-    ### Free Lunch Is Over: Bluesky Premium Features Leak with $8 Monthly Fee](https://digitpatrox.com/free-lunch-is-over-bluesky-premium-features-leak-with-8-monthly-fee/)
+    ### Huge myQ sale knocks up to 50% off our favorite smart devices](https://digitpatrox.com/huge-myq-sale-knocks-up-to-50-off-our-favorite-smart-devices/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 24, 2024
     
-    ### Spider-Man Beyond the Spider-Verse Release Date Announcement Seems to Be Close \[Update\]](https://digitpatrox.com/spider-man-beyond-the-spider-verse-release-date-announcement-seems-to-be-close-update/)
-* [September 12, 2024
+    ### What if…Jony Ive builds the human interface for AI? – Computerworld](https://digitpatrox.com/what-ifjony-ive-builds-the-human-interface-for-ai-computerworld/)
+* [4 weeks ago
     
-    ### Google’s Pixel 9 Pro Fold is design evolution done right](https://digitpatrox.com/googles-pixel-9-pro-fold-is-design-evolution-done-right/)
-* [August 31, 2024
+    ### Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
+* [September 20, 2024
     
-    ### Reinvent IT EVP to Attract & Retain Critical Talent, CIOs Advised](https://digitpatrox.com/reinvent-it-evp-to-attract-retain-critical-talent-cios-advised/)
+    ### Vendor Spotlight: Kandji](https://digitpatrox.com/vendor-spotlight-kandji/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Use the ‘$1 Rule’ Before Making an Impulsive Purchase](https://digitpatrox.com/use-the-1-rule-before-making-an-impulsive-purchase/)
+    ### Can you trace an email back to its originating IP address?](https://digitpatrox.com/can-you-trace-an-email-back-to-its-originating-ip-address/)
 * [3 hours ago
     
-    ### How to Spot and Avoid Them](https://digitpatrox.com/how-to-spot-and-avoid-them/)
-* [3 hours ago
+    ### Data center water consumption is skyrocketing, but Microsoft thinks it has a solution – the company’s new closed-loop cooling system consumes zero water and could save millions of liters per year](https://digitpatrox.com/data-center-water-consumption-is-skyrocketing-but-microsoft-thinks-it-has-a-solution-the-companys-new-closed-loop-cooling-system-consumes-zero-water-and-could-save-millions-of-liters-per-y/)
+* [4 hours ago
     
-    ### How to Clean Silicone Kitchen Utensils and More](https://digitpatrox.com/how-to-clean-silicone-kitchen-utensils-and-more/)
+    ### IT at Tokio Marine means continuous learning — and many hats – Computerworld](https://digitpatrox.com/it-at-tokio-marine-means-continuous-learning-and-many-hats-computerworld/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
