@@ -2,6 +2,8 @@
 
 This is a carousel with auto-rotating slides. Use Next and Previous buttons to navigate.
 
+Take up to 20% off **[stocking stuffers](https://naturesway.com/collections/stocking-stuffers)**. Through 12/20. [Terms apply](https://naturesway.com/pages/legal/#Promotions).
+
 [**Sign up**](#signup) for our mailing list for 20% off your first order. Terms apply.
 
 [**Sign up**](#signup) today to receive 10% off!
@@ -33,6 +35,7 @@ Nature's Way
         
     * FEATURED
         
+        * [Holiday Gift Guide](https://naturesway.com/pages/holiday-gift-guide)
         * [Popular Products](https://naturesway.com/collections/trending-products)
         * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
         * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -175,6 +178,7 @@ Nature's Way
     
     FEATURED
     
+    * [Holiday Gift Guide](https://naturesway.com/pages/holiday-gift-guide)
     * [Popular Products](https://naturesway.com/collections/trending-products)
     * [Subscribe & Save](https://naturesway.com/collections/subscribe-save)
     * [Bundle & Save](https://naturesway.com/collections/bundle-save)
@@ -746,6 +750,10 @@ We look at this process as an ongoing effort and continue to work on enhancing t
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
 
 #### Promotions
+
+Take up to 20% off stocking stuffers, no code necessary. 
+
+Offer is to receive up to 30% off only on the merchandise displayed on   \[[https://naturesway.com/collections/stocking-stuffers](https://naturesway.com/collections/stocking-stuffers)\]. Offer good from 12/10 @ 12:01am CDT to 12/17 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While supplies last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Does not include Integrative Therapeutics,
 
 Up to 25% off Overstock items
 
@@ -1368,6 +1376,10 @@ Nature’s Way is committed to making our website accessible to all. It’s anot
 We look at this process as an ongoing effort and continue to work on enhancing the accessibility of our site. We’re taking steps and devoting resources to this important endeavor. Please [contact us](https://naturesway.com/pages/contact "contact us") if you have questions, feedback, or suggestions.
 
 ![Reviewed by Allyant for Accessibility](https://cdn.shopify.com/s/files/1/0562/3208/3521/files/Reviewed_by_Allyant_for_Accessibility_Badge_White_240x240.png?v=1665518110)
+
+Take up to 20% off stocking stuffers, no code necessary. 
+
+Offer is to receive up to 30% off only on the merchandise displayed on   \[[https://naturesway.com/collections/stocking-stuffers](https://naturesway.com/collections/stocking-stuffers)\]. Offer good from 12/10 @ 12:01am CDT to 12/17 at 11:59pm CDT. Discounts are applied to the price shown, and no code is necessary. While supplies last. Not valid on applicable taxes or shipping & handling charges. No adjustments on previous purchases. Cannot be combined with other offers. Not valid for cash or cash equivalent. Does not include Integrative Therapeutics,
 
 Up to 25% off Overstock items
 
