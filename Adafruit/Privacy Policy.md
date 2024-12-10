@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ ...programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge”
+“ How wonderful it is that nobody need wait a single moment before starting to improve the world”
 
-[Grace Hopper](http://en.wikipedia.org/wiki/Grace_Hopper)
+[Anne Frank](http://en.wikipedia.org/wiki/Anne_Frank)
 
 [](https://www.adafruit.com/about)
 
