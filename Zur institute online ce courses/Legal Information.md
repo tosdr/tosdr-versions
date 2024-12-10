@@ -15,7 +15,7 @@ Explore
 
 Open menu
 
-[Navigating Moral Distress for Healthcare Workers / Each session 1 Live CE credit hour webinarMore Info](https://www.zurinstitute.com/webinars/navigating-moral-distress-healthcare-workers/)
+[Marketing Made Simple: Transforming Your Workshops – Non CE Event / Free for MembersMore Info](https://www.zurinstitute.com/webinars/marketing-made-simple-transforming-your-workshops-into-must-attend-events/)
 
 [Course Catalog](https://www.zurinstitute.com/privacy-disclaimer-terms-of-use-dmca/# "Course Catalog")
 
