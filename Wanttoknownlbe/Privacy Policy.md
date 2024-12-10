@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/kankerbehandeling-homeopathie-verslaat-regulier/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/solidaridad-lanceert-goed-goud-sieraden/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
