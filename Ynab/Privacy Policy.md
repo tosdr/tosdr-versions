@@ -1,4 +1,4 @@
-![YNAB tree logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/67243cc4cebdc79fe7afd56f_Tree%20Logo%20Blurple%20(2).svg)![Australian flag](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/673d58aec37f6e0535b97ee2_flag%20(2).png)
+![YNAB tree logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/675893f1af7ed233e5ad5a81_Tree%20Logo%20Blurple%20(2).svg)![Australian flag](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/675893f1af7ed233e5ad5a7f_flag%20(2).png)
 
 It looks like you're located in Australia.  
 We have an Australian version of our website.  
@@ -35,11 +35,11 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Learn
     
-    [Got Five Minutes?](https://www.youneedabudget.com/got-five-minutes)[Blog](https://www.youneedabudget.com/blog)[Free Workshops](https://www.youneedabudget.com/free-workshops)[Guides](https://www.youneedabudget.com/guides)
+    [Free Workshops](https://www.youneedabudget.com/free-workshops)[Blog](https://www.youneedabudget.com/blog)[Guides](https://www.youneedabudget.com/guides)[Help Center](https://www.youneedabudget.com/help-center)
     
 * Share YNAB
     
-    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
+    [Refer A Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
     
 * [Pricing](https://www.youneedabudget.com/pricing)
 * [For Employers](https://www.youneedabudget.com/wellness)
@@ -60,11 +60,11 @@ It's pronounced ”why-nab”](https://www.youneedabudget.com/)
     
 * Learn
     
-    [Got Five Minutes?](https://www.youneedabudget.com/got-five-minutes)[Blog](https://www.youneedabudget.com/blog)[Free Workshops](https://www.youneedabudget.com/free-workshops)[Guides](https://www.youneedabudget.com/guides)
+    [Free Workshops](https://www.youneedabudget.com/free-workshops)[Blog](https://www.youneedabudget.com/blog)[Guides](https://www.youneedabudget.com/guides)[Help Center](https://www.youneedabudget.com/help-center)
     
 * Share YNAB
     
-    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Teach Your Community](https://www.youneedabudget.com/teach-ynab)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
+    [Refer a Friend](https://www.youneedabudget.com/referral-program)[Gift a YNAB Subscription](https://www.youneedabudget.com/give-ynab)[Refer Your Employer](https://www.youneedabudget.com/wellness/share)[Affiliate Program](https://www.youneedabudget.com/affiliate-program)
     
 * [Log In](https://app.ynab.com/users/sign_in)
     
@@ -330,7 +330,7 @@ What Is YNAB?
 
 Learn
 
-[Got Five Minutes?](https://www.youneedabudget.com/got-five-minutes)[Blog](https://www.youneedabudget.com/blog)[Free Workshops](https://www.youneedabudget.com/free-workshops)[Guides](https://www.youneedabudget.com/guides)
+[Got Five Minutes?](#)[Blog](https://www.youneedabudget.com/blog)[Free Workshops](https://www.youneedabudget.com/free-workshops)[Guides](https://www.youneedabudget.com/guides)
 
 Share YNAB
 
@@ -348,7 +348,7 @@ Programs
 
 App
 
-[Status](https://ynabstatus.com/)[What's New](https://www.youneedabudget.com/whats-new)[API](https://api.ynab.com/)[Cancellation](https://www.youneedabudget.com/cancellation)[Help Center](https://www.youneedabudget.com/help-center)
+[Status](https://ynabstatus.com/)[What's New](https://www.youneedabudget.com/whats-new)[API](https://api.ynab.com/)[Cancellation](https://www.youneedabudget.com/cancellation)
 
 Legal
 
@@ -368,7 +368,7 @@ Programs
 
 App
 
-[Status](https://ynabstatus.com/)[What's New](https://www.youneedabudget.com/whats-new)[API](https://api.ynab.com/)[Cancellation](https://www.youneedabudget.com/cancellation)[Help Center](https://www.youneedabudget.com/help-center)
+[Status](https://ynabstatus.com/)[What's New](https://www.youneedabudget.com/whats-new)[API](https://api.ynab.com/)[Cancellation](https://www.youneedabudget.com/cancellation)
 
 Legal
 
