@@ -158,27 +158,27 @@ Our privacy program begins with trust](http://msdprivacy.com/ "Privacy")
  For patients and health care professionals
 
 * [MerckHelps](https://www.merckhelps.com/)  
-    Merck Patient Assistance Program provides certain Merck medicines and adult vaccines for free to qualified patients
+    Merck Patient Assistance Program provides certain Merck medicines and adult vaccines for free to qualified patients.
 * [Merck Access Program](https://www.merckaccessprogram.com/)  
-    Information about insurance coverage and financial assistance options for eligible patients
+    Information about insurance coverage and financial assistance options for eligible patients.
 * [Clinical trials](https://www.merckclinicaltrials.com/)  
-    Information about insurance coverage and financial assistance options for eligible patients
+    Learn about our clinical trials and find available studies.
 * [Merck Manuals](https://www.merckmanuals.com/)  
-    Medical information source covering thousands of topics in all fields of medicine
+    Medical information source covering thousands of topics in all fields of medicine.
 
  Sustainability
 
 * [Impact Report](https://www.merck.com/company-overview/sustainability/)  
-    Reporting on our commitment to operating responsibly to benefit society
+    Reporting on our commitment to operating responsibly to benefit society.
 * [Merck for Mothers](https://www.merckformothers.com/)  
-    An initiative to create a world where no woman has to die giving life
+    An initiative to create a world where no woman has to die giving life.
 
  About Merck
 
 * [Merck Animal Health](https://www.merck-animal-health.com/)  
-    The global animal health business unit of Merck
+    The global animal health business unit of Merck.
 * [Health Plan - Transparency in Coverage](https://horizonblue.sapphiremrfhub.com/tocs/current/merck-co-inc)  
-    In compliance with the Consolidated Appropriations Act, learn more about our health plan’s pricing information
+    In compliance with the Consolidated Appropriations Act, learn more about our health plan’s pricing information.
 * [Contact Us](https://www.merck.com/contact-us/)  
     If you have a question or need more information about us, find out who you should contact.
 
