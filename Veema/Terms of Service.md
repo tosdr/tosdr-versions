@@ -1,141 +1,77 @@
-[![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)](https://veema.co.uk/)
+* [My Account](https://veema.co.uk/cpd-membership/my-account/)
+* [Contact Us](https://veema.co.uk/contact-us/)
 
-* [Teacher CPD](https://veema.co.uk/teacher-cpd-programmes/)
-    * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
-    * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
+[SEARCH HERE](# "Search")
+
+* [](https://www.facebook.com/veemaedu "Facebook")
+* [](https://www.linkedin.com/company/veema "LinkedIn")
+* [](https://x.com/VeemaEdu "X")
+
+[Become A Member](https://veema.co.uk/cpd-membership/ "Become A Member")
+
+[![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
+=================================================================================================================================
+
+* [TEACHER CPD](#)
+    * [CPD Programmes](https://veema.co.uk/cpd-programmes/)
+    * [Blended Programmes – Train The Trainer Routes](https://veema.co.uk/blended-programmes-train-the-trainer-routes/)
+    * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/safeguarding-inset-packs-2024-2025/)
-    * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
-* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
+    * [Coaching Packages](https://veema.co.uk/coaching-packages/)
+* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement/)
 * [ONLINE ACADEMY](#)
-    * [Short Courses](https://veema.co.uk/shorter-courses/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
+    * [Short Courses](https://veema.co.uk/short-courses/)
+    * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
+    * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
-* [CPD  
-    MEMBERSHIP](https://veema.co.uk/leadership-membership/)
-    * [Dashboard](https://veema.co.uk/membership-dashboard/)
-    * [My Account](https://veema.co.uk/membership-account/)
-* [KEYNOTE  
-    SPEAKERS](https://veema.co.uk/conferences-keynotes/)
-* [NEWS  
-    & MEDIA](https://veema.co.uk/news-media/)
-    * [Forthcoming Events](https://veema.co.uk/forthcoming-events/)
+* [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
+    * [Dashboard](https://veema.co.uk/dashboard/)
+    * [My Account](https://veema.co.uk/cpd-membership/my-account/)
+* [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
+* [NEWS & MEDIA](https://veema.co.uk/news-media/)
+    * [Forthcoming Events](https://veema.co.uk/news-media/forthcoming-events/)
+    * [Photos](https://veema.co.uk/news-media/photos/)
 
-[![](https://veema.co.uk/wp-content/uploads/2021/05/facebook.5abc3f106b60856933d0.png)](https://www.facebook.com/veemaedu) [![](https://veema.co.uk/wp-content/uploads/2021/05/twitter.cddd6e8574b34360ffc8.png)](https://twitter.com/VeemaEdu) [![](https://veema.co.uk/wp-content/uploads/2021/05/linked.a799e4a625c112bb81e7.png)](https://www.linkedin.com/company/veema)
+[![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
 
-[](https://veema.co.uk/cart/ "View your shopping cart")
+[![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
 
-No products in the basket.
-
-[![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)](https://veema.co.uk/)
-
-[](https://veema.co.uk/cart/ "View your shopping cart")
-
-No products in the basket.
-
-* [Teacher CPD](https://veema.co.uk/teacher-cpd-programmes/)
-    * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
-    * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
+* [TEACHER CPD](#)
+    * [CPD Programmes](https://veema.co.uk/cpd-programmes/)
+    * [Blended Programmes – Train The Trainer Routes](https://veema.co.uk/blended-programmes-train-the-trainer-routes/)
+    * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/safeguarding-inset-packs-2024-2025/)
-    * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
-* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
+    * [Coaching Packages](https://veema.co.uk/coaching-packages/)
+* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement/)
 * [ONLINE ACADEMY](#)
-    * [Short Courses](https://veema.co.uk/shorter-courses/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
+    * [Short Courses](https://veema.co.uk/short-courses/)
+    * [Accredited Courses](https://veema.co.uk/cpd-programmes/)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
+    * [7 – 9 Week Courses](https://veema.co.uk/7-9-week-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
-* [CPD  
-    MEMBERSHIP](https://veema.co.uk/leadership-membership/)
-    * [Dashboard](https://veema.co.uk/membership-dashboard/)
-    * [My Account](https://veema.co.uk/membership-account/)
-* [KEYNOTE  
-    SPEAKERS](https://veema.co.uk/conferences-keynotes/)
-* [NEWS  
-    & MEDIA](https://veema.co.uk/news-media/)
-    * [Forthcoming Events](https://veema.co.uk/forthcoming-events/)
+* [CPD MEMBERSHIP](https://veema.co.uk/cpd-membership/)
+    * [Dashboard](https://veema.co.uk/dashboard/)
+    * [My Account](https://veema.co.uk/cpd-membership/my-account/)
+* [KEYNOTE SPEAKERS](https://veema.co.uk/keynote-speakers/)
+* [NEWS & MEDIA](https://veema.co.uk/news-media/)
+    * [Forthcoming Events](https://veema.co.uk/news-media/forthcoming-events/)
+    * [Photos](https://veema.co.uk/news-media/photos/)
 
-[![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)![logo](https://veema.co.uk/wp-content/uploads/2021/05/logo.png)](https://veema.co.uk/)
+* +44 (0) 20 3637 4232
+* info@veema.co.uk
 
-[](https://veema.co.uk/cart/ "View your shopping cart")
+[](#)
 
-No products in the basket.
+* 
+* [](https://www.facebook.com/veemaedu "Facebook")
+* 
 
-* [Teacher CPD](https://veema.co.uk/teacher-cpd-programmes/)
-    * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
-    * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/safeguarding-inset-packs-2024-2025/)
-    * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
-* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
-* [ONLINE ACADEMY](#)
-    * [Short Courses](https://veema.co.uk/shorter-courses/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
-    * [E-Learning Video Courses](https://lms.veema.co.uk/)
-* [CPD  
-    MEMBERSHIP](https://veema.co.uk/leadership-membership/)
-    * [Dashboard](https://veema.co.uk/membership-dashboard/)
-    * [My Account](https://veema.co.uk/membership-account/)
-* [KEYNOTE  
-    SPEAKERS](https://veema.co.uk/conferences-keynotes/)
-* [NEWS  
-    & MEDIA](https://veema.co.uk/news-media/)
-    * [Forthcoming Events](https://veema.co.uk/forthcoming-events/)
+* [Home](https://veema.co.uk/ "Home")
+* Terms of Use
 
-* [Teacher CPD](https://veema.co.uk/teacher-cpd-programmes/)
-    * [CPD Programmes](https://veema.co.uk/teacher-cpd-programmes/)
-    * [Blended Programmes/ Train The Trainer Routes](https://veema.co.uk/blended-programmes/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Safeguarding INSET Packs 2024-2025](https://veema.co.uk/safeguarding-inset-packs-2024-2025/)
-    * [Coaching Packages](https://veema.co.uk/school-leadership-coaching-services/)
-* [SCHOOL IMPROVEMENT](https://veema.co.uk/school-improvement-services/)
-* [ONLINE ACADEMY](#)
-    * [Short Courses](https://veema.co.uk/shorter-courses/)
-    * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
-    * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
-    * [E-Learning Video Courses](https://lms.veema.co.uk/)
-* [CPD  
-    MEMBERSHIP](https://veema.co.uk/leadership-membership/)
-    * [Dashboard](https://veema.co.uk/membership-dashboard/)
-    * [My Account](https://veema.co.uk/membership-account/)
-* [KEYNOTE  
-    SPEAKERS](https://veema.co.uk/conferences-keynotes/)
-* [NEWS  
-    & MEDIA](https://veema.co.uk/news-media/)
-    * [Forthcoming Events](https://veema.co.uk/forthcoming-events/)
-
-Login
------
-
-Username or email address \*Required 
-
-Password \*Required 
-
- Remember me  Log in
-
-[Lost your password?](https://veema.co.uk/my-account/lost-password/)
-
-Register
---------
-
-Email address \*Required 
-
-A link to set a new password will be sent to your email address.
-
-Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our [privacy policy](https://veema.co.uk/veema-limited-privacy-policy/).
-
- Register
-
-Terms of use
-============
-
-[Home](https://veema.co.uk/) / Terms of use
+Terms of Use
+------------
 
 Thank you very much for visiting our site.
 
@@ -189,14 +125,15 @@ The material displayed on our site is provided without any guarantees, condition
 
 * All conditions, warranties and other terms which might otherwise be implied by statute, common law or the law of equity.
 * Any liability for any direct, indirect or consequential loss or damage incurred by any user in connection with our site or in connection with the use, inability to use, or results of the use of our site, any websites linked to it and any materials posted on it, including:
-    * loss of income or revenue;
-    * loss of business;
-    * loss of profits or contracts;
-    * loss of anticipated savings;
-    * loss of data;
-    * loss of goodwill;
-    * wasted management or office time; and
-    * whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable, provided that this condition shall not prevent claims for loss of or damage to your tangible property or any other claims for direct financial loss that are not excluded by any of the categories set out above.
+
+* loss of income or revenue;
+* loss of business;
+* loss of profits or contracts;
+* loss of anticipated savings;
+* loss of data;
+* loss of goodwill;
+* wasted management or office time; and
+* whether caused by tort (including negligence), breach of contract or otherwise, even if foreseeable, provided that this condition shall not prevent claims for loss of or damage to your tangible property or any other claims for direct financial loss that are not excluded by any of the categories set out above.
 
 This does not affect our liability for death or personal injury arising from our negligence, nor our liability for fraudulent misrepresentation or misrepresentation as to a fundamental matter, nor any other liability which cannot be excluded or limited under applicable law.
 
@@ -205,7 +142,7 @@ In the event that you purchase a service from us, then our liability to you will
 Information about you and your visits to our site
 -------------------------------------------------
 
-We process information about you in accordance with our [privacy policy](https://veema.co.uk/veema-limited-privacy-policy/). By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
+We process information about you in accordance with our privacy policy. By using our site, you consent to such processing and you warrant that all data provided by you is accurate.
 
 Viruses, hacking and other offences
 -----------------------------------
@@ -225,7 +162,7 @@ You must not establish a link from any website that is not owned by you.
 
 Our site must not be framed on any other site, nor may you create a link to any part of our site other than the home page. We reserve the right to withdraw linking permission without notice.
 
-If you wish to make any use of material on our site other than that set out above, please address your request to [info@veema.co.uk](mailto:info@veema.co.uk)
+If you wish to make any use of material on our site other than that set out above, please address your request to info@veema.co.uk
 
 Links from our site
 -------------------
@@ -247,230 +184,63 @@ We may revise these terms of use at any time by amending this page. You are expe
 Your concerns
 -------------
 
-If you have any concerns about material which appears on our site, please contact [info@veema.co.uk](mailto:info@veema.co.uk).
+If you have any concerns about material which appears on our site, please contact info@veema.co.uk.
 
 Thank you for visiting our site!
 
-[Cookies Policy](https://veema.co.uk/veema-education-our-cookie-policy/ "Veema Education – Our Cookie Policy")
+[![Footer Banner 1](https://veema.co.uk/wp-content/uploads/2024/11/ft-subscribe_active.jpg)](https://veema.co.uk/newsletter-subscription/)
 
-[Privacy Policy](https://veema.co.uk/veema-limited-privacy-policy/ "Veema Limited Privacy Policy")
+[![Footer Banner 2](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-request_active.png)](https://veema.co.uk/request-our-service-factsheets/)
 
-[Safeguarding Policy](https://veema.co.uk/wp-content/uploads/2019/09/Safeguarding-Policy.pdf "Safeguarding Policy")
+[![Footer Banner 3](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-follow_active.png)](https://veema.co.uk/follow-our-newsfeed/)
 
-[![](https://veema.co.uk/wp-content/uploads/2021/06/ft-subscribe_active.jpg)](#popmake-2552)
+[![Footer Banner 4](https://veema.co.uk/wp-content/uploads/2024/11/footer-button-contact_active.png)](https://veema.co.uk/contact-us/)
 
-[![](https://veema.co.uk/wp-content/uploads/2021/06/footer-button-follow_active.png)](#popmake-2567)
+#### Photo Gallery
 
-[![](https://veema.co.uk/wp-content/uploads/2021/06/footer-button-request_active.png)](#popmake-2557)
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI7.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI7.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI8.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI8.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI5.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI5.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI6.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI6.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI4.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI4.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI2.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI2.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI3.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI3.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/cpd-1.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/cpd-1.jpg)
+    
+* [![Gallery Image](https://veema.co.uk/wp-content/uploads/2024/11/WI.jpg)](https://veema.co.uk/wp-content/uploads/2024/11/WI.jpg)
+    
 
-[![](https://veema.co.uk/wp-content/uploads/2021/06/footer-button-contact_active.png)](https://veema.co.uk/contact-us/)
+#### Phone Number : +44 (0) 20 3637 4232
 
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/cpd-1.jpg "cpd-1")](https://veema.co.uk/wp-content/uploads/2021/05/cpd-1.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI.jpg "WI")](https://veema.co.uk/wp-content/uploads/2021/05/WI.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI2.jpg "WI2")](https://veema.co.uk/wp-content/uploads/2021/05/WI2.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI3.jpg "WI3")](https://veema.co.uk/wp-content/uploads/2021/05/WI3.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI4.jpg "WI4")](https://veema.co.uk/wp-content/uploads/2021/05/WI4.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI5.jpg "WI5")](https://veema.co.uk/wp-content/uploads/2021/05/WI5.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI6.jpg "WI6")](https://veema.co.uk/wp-content/uploads/2021/05/WI6.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI7.jpg "WI7")](https://veema.co.uk/wp-content/uploads/2021/05/WI7.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI8.jpg "WI8")](https://veema.co.uk/wp-content/uploads/2021/05/WI8.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI9.jpg "WI9")](https://veema.co.uk/wp-content/uploads/2021/05/WI9.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI11.jpg "WI11")](https://veema.co.uk/wp-content/uploads/2021/05/WI11.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI12.jpg "WI12")](https://veema.co.uk/wp-content/uploads/2021/05/WI12.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI13.jpg "WI13")](https://veema.co.uk/wp-content/uploads/2021/05/WI13.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI14.jpg "WI14")](https://veema.co.uk/wp-content/uploads/2021/05/WI14.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI15.jpg "WI15")](https://veema.co.uk/wp-content/uploads/2021/05/WI15.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI16.jpg "WI16")](https://veema.co.uk/wp-content/uploads/2021/05/WI16.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI17.jpg "WI17")](https://veema.co.uk/wp-content/uploads/2021/05/WI17.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI18.jpg "WI18")](https://veema.co.uk/wp-content/uploads/2021/05/WI18.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI19.jpg "WI19")](https://veema.co.uk/wp-content/uploads/2021/05/WI19.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI20.jpg "WI20")](https://veema.co.uk/wp-content/uploads/2021/05/WI20.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI21.jpg "WI21")](https://veema.co.uk/wp-content/uploads/2021/05/WI21.jpg)
-* [![](https://veema.co.uk/wp-content/uploads/2021/05/WI23.jpg "WI23")](https://veema.co.uk/wp-content/uploads/2021/05/WI23.jpg)
+ Subscribe
 
-[Back To Top](#)
+[![Veema Education](https://veema.co.uk/wp-content/themes/veema/assets/images/logo2.png)](https://veema.co.uk/ "Veema Education")
+=================================================================================================================================
 
-### Links
+#### Email
 
-* [About Us](https://veema.co.uk/about-us/)
-* [Join the Veema Team](https://veema.co.uk/join-the-veema-team/)
-* [Contact Us](https://veema.co.uk/contact-us/)
-* [Terms of use](https://veema.co.uk/terms-of-use/)
+* [info@veema.co.uk](mailto:info@veema.co.uk)
 
-### Contact Details
+#### Offices
 
-Email: [info@veema.co.uk](mailto:info@veema.co.uk)  
-
-**Address:** 20 Emerson Building  
+20 Emerson Building  
 Chadwell Lane  
 London  
 N8 7RF
 
-**Phone:** [+44 (0) 20 3637 4232](tel:+442036374232)
-
-[![Veema Education](/wp-content/uploads/2021/05/logo.png)](https://veema.co.uk/)
-
-### Latest Tweets
-
-[November 17, 2024](https://twitter.com/xpateducator/status/1858066903367069770)
-
-[](https://twitter.com/xpateducator/status/1858066903367069770)
-
-[☝️Dylan Wiliam said that Cognitive Load Theory is ‘the single most important thing for](https://twitter.com/xpateducator/status/1858066903367069770) [...](#)teachers to know’. This poster summarises some key ideas from CLT and offers 6 strategies to optimise instruction and maximise learning.  
-  
-👊 REPOST and grab a free HQ copy here:…
-
-[October 28, 2024](https://twitter.com/costa_veemaedu/status/1850886398460510699)
-
-[](https://twitter.com/costa_veemaedu/status/1850886398460510699)
-
-[What a fab start to my half-term break. TY to everyone who continues to support my work, @VeemaEdu,](https://twitter.com/costa_veemaedu/status/1850886398460510699)[...](#) my leadership journey and of course the team at @routledgebooks. The book is full of practical ideas, research, & my own stories from schools I work with. More to follow soon…
-
-© Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
-
-By using cookies on this site, we can personalise the content and social media we show you. It also helps us improve the way the site works by understanding better how visitors use it. If you stay on this site, you will be agreeing to our [Cookie](https://veema.co.uk/cookies-policy) and [Privacy Policies](https://veema.co.uk/privacy-policy), as well as our [Terms and Conditions](https://veema.co.uk/terms-of-use). Accept All
-
-Manage consent
-
-Close
-
-#### Privacy Overview
-
-This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
-
-Necessary
-
- Necessary
-
-Always Enabled
-
-Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
-
-| Cookie | Duration | Description |
-| --- | --- | --- |
-| cookielawinfo-checkbox-analytics | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics". |
-| cookielawinfo-checkbox-functional | 11 months | The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional". |
-| cookielawinfo-checkbox-necessary | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary". |
-| cookielawinfo-checkbox-others | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other. |
-| cookielawinfo-checkbox-performance | 11 months | This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance". |
-| viewed\_cookie\_policy | 11 months | The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data. |
-
-Functional
-
- Functional
-
-Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
-
-Performance
-
- Performance
-
-Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
-
-Analytics
-
- Analytics
-
-Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
-
-Advertisement
-
- Advertisement
-
-Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
-
-Others
-
- Others
-
-Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
-
-SAVE & ACCEPT
-
-Download Blog
-
-      
-
-Direct School Email: \*  
-
-By downloading our blog you agree to our terms and conditions and the information you have provided. We will not share your data for third party use.
-
-×
-
-Download Brochure
-
-      
-
-First Name: \*  
-
-Last Name: \*  
-
-Direct School Email: \*  
-
-Organisation/School:
-
-Position:
-
-By downloading our membership brochure you agree to our terms and conditions and the information you have provided. We will not share your data for third party use.
-
-×
-
-Newsletter Subscription
-
-      
-
-First Name: \*  
-
-Last Name: \*  
-
-Direct School Email: \*  
-
-Organisation/School:
-
-Position:
-
-By subscribing to our newsletter, you submit the information you have provided to us. We will use it to communicate with you regarding news, events or other services we feel you would like to hear about. We will never give away your data.
-
-×
-
-Request our service factsheets
-
-      
-
-First Name: \*  
-
-Last Name: \*  
-
-Direct School Email: \*  
-
-Organisation/School:
-
-Position:
-
-Teacher CPDs:
-
-Asking… Not Telling!On Best BehaviourAssessment in PracticeTeaching for Mastery through Practical DifferentiationWinning at DifferentiationBe Inspection ReadyYour Next Great PlaySafeguarding School PackageWhole-school Safeguarding and Child ProtectionSafer RecruitmentLeading SafelyGovernance LeadershipNational Professional Qualification for Headship (NPQH)National Professional Qualification for Senior Leadership (NPQSL)National Professional Qualification for Middle Leaders (NPQML)Leading the ChargeLeading On Pastoral Care
-
-×
-
-Follow our newsfeed
-
-      
-
-First Name: \*  
-
-Last Name: \*  
-
-Direct School Email: \*  
-
-Organisation/School:
-
-Position:
-
-By following our newsfeed, you submit the information you have provided to us. We will use it to communicate with you regarding news, events or other services we feel you would like to hear about. We will never give away your data.
-
-×
-
-                                                           
-
-![](https://px.ads.linkedin.com/collect/?pid=4804025&fmt=gif)
+#### X Feeds
+
+© 2024 Smooth Digital Ltd. All Rights Reserved.
+
+* [Join the Veema Team](https://veema.co.uk/join-the-veema-team/)
+* [Terms of Use](https://veema.co.uk/terms-of-use/)
+* [Privacy Policy](https://veema.co.uk/privacy-policy/)
+* [Cookie Policy](https://veema.co.uk/our-cookie-policy/)
+* [Safeguarding Policy](https://veema.co.uk/wp-content/uploads/2024/12/Safeguarding-Policy.pdf)
