@@ -480,9 +480,9 @@ Revised June 1, 2022
 
   [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
 
-[Miho Nakayama, known for 'Love Letter' and her music, dies at 54](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
+[45-day negotiation window begins as Marines post Roki Sasaki](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window begins as Marines post Roki Sasaki")
 
-  [![Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ")](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
+  [![Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439046.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.")](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window begins as Marines post Roki Sasaki")
 
 [Welcome to Yama, Japan’s first Michelin-starred dessert restaurant](https://www.japantimes.co.jp/life/2024/12/08/food-drink/yama-koichi-katsumata-michelin-dessert/ "Welcome to Yama, Japan’s first Michelin-starred dessert restaurant")
 
@@ -499,10 +499,6 @@ Revised June 1, 2022
 [What constitutes fatal dangerous driving in Japan?](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
 
   [![Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438513.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Critics have said that drivers who were speeding well over the speed limit or those who were extremely drunk were not indicted for dangerous driving because of its vague definition.")](https://www.japantimes.co.jp/news/2024/12/06/japan/crime-legal/explainer-dangerous-driving/ "What constitutes fatal dangerous driving in Japan?")
-
-[Japan's soft power soared to new heights in 2024](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
-
-  [![Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/04/438252.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese creatives, athletes and activists saw their efforts recognized on the world stage in various ways this year. At the Oscars (left) Takashi Yamazaki and his team took a prize for “Godzilla Minus One,” while later in the year Anna Sawai and Hiroyuki Sanada (center) took Emmys for their work in “Shogun.” Shohei Ohtani (right) was arguably the biggest Japanese star of the year.")](https://www.japantimes.co.jp/culture/2024/12/04/academy-awards-emmys-olympics/ "Japan's soft power soared to new heights in 2024")
 
 Podcast
 -------
@@ -565,25 +561,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nippon Steel makes final push to win over U.S. workers](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-steel-final-push-us-workers/ "Nippon Steel makes final push to win over U.S. workers")
+[Ishiba vows to spur LDP debate on dual surname option](https://www.japantimes.co.jp/news/2024/12/10/japan/politics/ishiba-dual-surname/ "Ishiba vows to spur LDP debate on dual surname option")
 
-26 mins ago
+0 mins ago
 
-[Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony](https://www.japantimes.co.jp/news/2024/12/10/japan/nihon-hidankyo-putin-nukes/ "Nuclear weapons must never be used, hibakusha tells Putin before Nobel ceremony")
+[Syria's rebels work to form government, restore order after Assad ouster](https://www.japantimes.co.jp/news/2024/12/10/world/syria-rebels-power-transfer/ "Syria's rebels work to form government, restore order after Assad ouster")
 
-26 mins ago
+23 mins ago
 
-[Japan's corporate bankruptcies increased 4.2% in November](https://www.japantimes.co.jp/business/2024/12/09/companies/bankruptcies-november-increase/ "Japan's corporate bankruptcies increased 4.2% in November")
+[Trump plays 'shadow president' on world stage](https://www.japantimes.co.jp/news/2024/12/10/world/politics/shadow-president-trump-world/ "Trump plays 'shadow president' on world stage")
 
-9 hours ago
+35 mins ago
 
-[BP and JERA to combine offshore wind operations in joint venture](https://www.japantimes.co.jp/business/2024/12/09/companies/bp-jera-wind/ "BP and JERA to combine offshore wind operations in joint venture")
+[Taiwan sees the most Chinese military aircraft around it in two months](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/taiwan-china-military-exercises-lai/ "Taiwan sees the most Chinese military aircraft around it in two months")
 
-10 hours ago
+41 mins ago
 
-[Japanese investors sell overseas equities for second straight month](https://www.japantimes.co.jp/business/2024/12/09/markets/investors-sell-overseas-equities/ "Japanese investors sell overseas equities for second straight month")
+[Japan to tighten regulations for electronic devices scrap yards](https://www.japantimes.co.jp/news/2024/12/10/japan/japan-scrap-yard-regulations/ "Japan to tighten regulations for electronic devices scrap yards")
 
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
