@@ -368,7 +368,7 @@ We do not “share” or “sell” your information, as those terms are defined
 
 * [Privacy Policy](https://www.sirsidynix.com/privacy/)
 * [Security](https://www.sirsidynix.com/security/)
-* [Carbon Reduction Plan](https://www.sirsidynix.com/wp-content/uploads/2024/06/2022-SirsiDynix-Carbon-Reduction-Plan-EMEA-R01.pdf)
+* [Carbon Reduction Plan](https://www.sirsidynix.com/wp-content/uploads/2024/12/2023-SirsiDynix-Carbon-Reduction-Plan-EMEA-R01.pdf)
 * [Connections](http://cs.sirsidynix.com/)
 
 * [Accessibility](https://www.sirsidynix.com/accessibility/)
