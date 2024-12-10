@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/Manuel-Gomez-326x245.jpg)](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+
+Avondale
+
+### [Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+
+[December 7, 2024 7:50 PM](https://cwbchicago.com/2024/12)
+
+A man on pretrial release for a stolen vehicle case will be spending more of his time behind bars now that prosecutors are accusing him of robbing four people at gunpoint within 90 minutes.[](https://cwbchicago.com/2024/12/man-robbed-4-people-at-gunpoint-within-90-minutes-while-on-felony-pretrial-release-prosecutors-claim.html "Man robbed 4 people at gunpoint within 90 minutes (while on felony pretrial release), prosecutors claim")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/12/1500-block-west-garfield-326x245.jpg)](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+
+West Englewood
+
+### [Armed robber killed when victim fights for control of his gun, Chicago police say](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+
+[December 7, 2024 6:59 PM](https://cwbchicago.com/2024/12)
+
+An armed robber is dead, apparently shot by his own firearm as the would-be victim tried to gain control of the weapon on Saturday afternoon, Chicago police said.[](https://cwbchicago.com/2024/12/armed-robber-killed-when-victim-fights-for-control-of-his-gun.html "Armed robber killed when victim fights for control of his gun, Chicago police say")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/12/Ricardo-Rodriguez-326x245.jpg)](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
 
 Belmont Cragin
@@ -252,26 +272,6 @@ Belmont Cragin
 [December 7, 2024 11:16 AM](https://cwbchicago.com/2024/12)
 
 A man has been handed a 12-year sentence for posing as a cop to commit an armed home invasion just months after being exonerated of a murder conviction for which he received a 60-year sentence in 1997.[](https://cwbchicago.com/2024/12/man-gets-12-years-for-committing-armed-home-invasion-months-after-having-1997-murder-conviction-vacated.html "Man gets 12 years for committing armed home invasion months after having 1997 murder conviction vacated")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/hugh-simmons-326x245.jpg)](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
-
-Roseland
-
-### [Hate crime charges filed against man who allegedly shot at 2 men he thought were gay](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
-
-[December 7, 2024 9:53 AM](https://cwbchicago.com/2024/12)
-
-Prosecutors have filed hate crime charges against a South Side man who allegedly shot at because he thought they were gay. No injuries were reported in the incident, which escalated into a SWAT standoff when the accused man barricaded himself inside his home and refused to let his mom go outside, officials said.[](https://cwbchicago.com/2024/12/hate-crime-charges-filed-against-man-who-allegedly-shot-at-2-men-he-thought-were-gay.html "Hate crime charges filed against man who allegedly shot at 2 men he thought were gay")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/12/Jontae-Baker-and-Darryl-Tate-326x245.jpg)](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
-
-Kenwood
-
-### [2 men kidnapped cab driver at rifle point, made him Zelle cash](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
-
-[December 7, 2024 8:39 AM](https://cwbchicago.com/2024/12)
-
-Two men are charged with kidnapping and robbing a taxi driver this summer, forcing their 66-year-old victim to transfer money to them via Zelle at gunpoint. Prosecutors have charged one of the men with committing a nearly identical crime on the same block just four days earlier.[](https://cwbchicago.com/2024/12/2-men-kidnapped-cab-driver-at-rifle-point-made-him-zelle-cash.html "2 men kidnapped cab driver at rifle point, made him Zelle cash")
 
 Search
 
