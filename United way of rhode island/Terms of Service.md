@@ -216,9 +216,21 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-Sorry, we couldn't find any posts. Please try a different search.
+[![EITC Invitation Graphic](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/EITC-Invitation-Graphic-landscape-fea9ee881d6b0e7d9b9a0b8ac9bd5528-.png "EITC Invitation Graphic")](https://www.unitedwayri.org/event/50th-anniversary-of-the-earned-income-tax-credit-eitc/)
 
-### Search
+31 Jan
+
+#### [Join us at the 50th anniversary of the Earned Income Tax Credit (EITC)](https://www.unitedwayri.org/event/50th-anniversary-of-the-earned-income-tax-credit-eitc/ "Join us at the 50th anniversary of the Earned Income Tax Credit (EITC)")
+
+We are excited to have you join us for the 50th anniversary of the Earned Income Tax  
+Credit (EITC)
+
+Date: January 31, 2025  
+Time: 10:00 a.m. - 12:00 p.m.  
+Location: Rhode Island State House Library  
+82 Smith Street, Providence, RI 02903
+
+[https://uwriweb.org/EITC](https://uwriweb.org/EITC)
 
 ### Subscribe to add impact to your inbox
 
