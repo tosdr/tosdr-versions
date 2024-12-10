@@ -48,6 +48,8 @@ Global Navigation
 
 ### Buildings And Property expand\_more
 
+* [Building and fire inspections](https://www.kingcounty.gov/en/dept/local-services/buildings-property/inspections/building-inspections)
+* [Land use inspections](https://www.kingcounty.gov/en/dept/local-services/buildings-property/inspections/land-use-inspections)
 * [Parcel viewer property search](https://www.kingcounty.gov/en/dept/kcit/data-information-services/gis-center/maps-apps/parcel-viewer)
 * [Property tax payment information](https://kingcounty.gov/legacy/depts/finance-business-operations/treasury/property-tax.aspx)
 * [Property research](https://www.kingcounty.gov/en/dept/local-services/buildings-property/property-research-and-maps/property-research)
@@ -61,7 +63,9 @@ Global Navigation
 
 * [Marriage licenses](https://kingcounty.gov/legacy/depts/records-licensing/recorders-office/marriage-licensing.aspx)
 * [Birth certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-birth-certificate)
+* [Building and land use permits](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits)
 * [Death certificates](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/order-death-certificate)
+* [Fire and special event permit](https://www.kingcounty.gov/en/dept/local-services/certificates-permits-licenses/permits/permits-inspections-codes-buildings-land-use/permit-forms-application-materials/fire-permits)
 * [Gun (concealed pistol) licenses](https://www.kingcounty.gov/en/dept/sheriff/courts-jails-legal-system/sheriff-services/concealed-pistol-license)
 * [Car, truck, and boat licenses](https://kingcounty.gov/legacy/depts/records-licensing/licensing/vehicle-vessel.aspx)
 * [Food business permits](https://www.kingcounty.gov/en/dept/dph/certificates-permits-licenses/food-business-permits)
