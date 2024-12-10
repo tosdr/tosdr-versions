@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is great. No need to change anything. Trying the proxy service before paying is great.
+You guys rock!
 
-Mario Riedel
+Jeff Cochran
