@@ -359,6 +359,7 @@
 * [Column proportions test](https://www.questionpro.com/help/column-proportions-test.html)
 * [Response Identifier](https://www.questionpro.com/help/response-identifier.html)
 * [TURF Reach Analysis](https://www.questionpro.com/help/TURF-Reach.html)
+* [Bulk Edit System Variables](https://www.questionpro.com/help/bulk-edit-responses.html)
 
 #### [Text analysis _arrow\_right_](#collapse6285)
 
