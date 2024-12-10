@@ -282,10 +282,10 @@ These Terms and Conditions are governed by English law and any dispute will be s
 * [![](https://www.teachyourmonster.org/assets/oog/pages/shared/social/tiktok-11723f67881cfb259f7d2fd12f9ab7a9a8a315fa.svg)](https://www.tiktok.com/@teachyourmonster)
 * [![](https://www.teachyourmonster.org/assets/oog/pages/shared/social/linkedin-5dba8a3dabc3ccddfe71ec09f6daaf0f24bbeccd.svg)](https://www.linkedin.com/company/teachyourmonster)
 
-Sign up for more Monster News!
-------------------------------
+Sign up for our newsletter!
+---------------------------
 
-Free newsletter full of news, resources, activities, printables and exclusive offers.
+Get exclusive freebies, resources and the latest news.
 
 Email
 
