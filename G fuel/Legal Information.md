@@ -1,5 +1,5 @@
   
-Terms of service – G FUEL                                                                                                  
+Terms of service – G FUEL                                                                                           
 
 [Skip to content](#MainContent)  
 
@@ -643,7 +643,7 @@ Rated 4.5 out of 5 stars
 
 Rated 4.6 out of 5 stars
 
-9 Reviews
+10 Reviews
 
 4.8
 
