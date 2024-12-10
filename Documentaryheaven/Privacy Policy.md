@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
     
-    The Fog of War
+    Why We Bang
     
-    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
 
 ###### Throwback Documentaries
 
-* [![EP2/4 Wonders of the Universe](/wp-content/thumbnails/5690-100x70.jpg?x53432)
+* [![Michael Collins](/wp-content/thumbnails/11435-100x70.png?x53432)
     
-    EP2/4 Wonders of the Universe
+    Michael Collins
     
-    Stardust In the second stop in his exploration of the wonders of the universe, Professor Brian Cox goes in search of humanity’s very essence to answer the biggest questions of all: what are we? And wh](https://documentaryheaven.com/wonders-of-the-universe-2/ "EP2/4 Wonders of the Universe")
-* [![Wheel of Time](/wp-content/thumbnails/7481-100x70.jpg?x53432)
+    This Easter marked the 100th anniversary of Ireland's 1916 Easter Rising. Michael Collins who was born in Clonakilty, Co. Cork on the 16th of October 1890 was a foot-soldier in this Rising and during](https://documentaryheaven.com/michael-collins/ "Michael Collins")
+* [![Manny Pacquiao ‘The Pacman’](/wp-content/thumbnails/9711-100x70.jpg?x53432)
     
-    Wheel of Time
+    Manny Pacquiao ‘The Pacman’
     
-    Wheel of Time is a 2003 documentary film by German director Werner Herzog about Tibetan Buddhism. The title refers to the Kalachakra sand mandala that provides a recurring image for the film.The f](https://documentaryheaven.com/wheel-of-time/ "Wheel of Time")
-* [![Days That Shook The World: Hiroshima](/wp-content/thumbnails/5162-100x70.jpg?x53432)
+    The MGM Grande in Las Vagas 2009, Filipino Manny Pacquiao destroys Miguel Cotto and becomes the first man in history to win seven world titles in seven different boxing divisions. Few would](https://documentaryheaven.com/manny-pacquiao-pacman/ "Manny Pacquiao ‘The Pacman’")
+* [![Quantum Computer in a Nutshell](/wp-content/thumbnails/13504-100x70.jpg?x53432)
     
-    Days That Shook The World: Hiroshima
+    Quantum Computer in a Nutshell
     
-    During the final stages of World War II in 1945, the United States conducted two atomic bombings against the cities of Hiroshima and Nagasaki in Japan, the first on August 6, 1945 and the second on Au](https://documentaryheaven.com/days-that-shook-the-world-hiroshima/ "Days That Shook The World: Hiroshima")
-* [![Spice Girls: Giving You Everything](/wp-content/thumbnails/8826-100x70.jpg?x53432)
+    The ability to contemplate the meaning of the world around us brings out a constant desire to deepen our knowledge and broaden our horizons, this curiosity is fundamental to the development of our spe](https://documentaryheaven.com/quantum-computer-nutshell/ "Quantum Computer in a Nutshell")
+* [![Secret Lives: L. Ron Hubbard](/wp-content/thumbnails/1173-100x70.jpg?x53432)
     
-    Spice Girls: Giving You Everything
+    Secret Lives: L. Ron Hubbard
     
-    Spice Girls were the first major British pop music phenomenon of the mid-'90s to not have a debt to independent pop/rock. Instead, the all-female quintet derived from the dance-pop tradition that made](https://documentaryheaven.com/spice-girls-giving-you-everything/ "Spice Girls: Giving You Everything")
-* [![Turnstile](/wp-content/thumbnails/7797-100x70.jpg?x53432)
+    An intriguing, but bizarre, biographical documentary by Channel 4 on the 'Secret Life' of L Ron Hubbard - the Sci Fi author and creator of the Scientology cult. This biopic from 1997, with some fantas](https://documentaryheaven.com/secret-lives-l-ron-hubbard/ "Secret Lives: L. Ron Hubbard")
+* [![Amy Winehouse: The Girl Done Good](/wp-content/thumbnails/5936-100x70.jpg?x53432)
     
-    Turnstile
+    Amy Winehouse: The Girl Done Good
     
-    Turnstile is focused on women involved in the criminal justice system and drug policy reform. The 36 minute film offers an exploration of three women’s experiences with addiction and incarceration, an](https://documentaryheaven.com/turnstile/ "Turnstile")
+    Amy Winehouse sadly joined the notourious 27 club on 23rd July 2011. Amy joins music icons such as Kurt Cobain, Jimmy Hendrix and Jim Morrission, who all tragically died at the young age of 27.Wha](https://documentaryheaven.com/amy-winehouse-the-girl-done-good/ "Amy Winehouse: The Girl Done Good")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
