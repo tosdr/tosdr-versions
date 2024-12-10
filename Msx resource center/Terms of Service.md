@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -140,32 +140,32 @@ MSX Music player
 
 Latest reactions
 
-* [MSX GOTO40](https://www.msx.org/news/en/goto-40 "MSX GOTO40")
-* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
+* [MSXdev24 #15 Titan Ufo](https://www.msx.org/news/challenges/en/msxdev24-15-titan-ufo "MSXdev24 #15 Titan Ufo")
 * [MSX Legends playable promo](https://www.msx.org/news/software/en/msx-legends-playable-promo "MSX Legends playable promo")
+* [The Goonies enhanced](https://www.msx.org/news/en/the-goonies-enhanced "The Goonies enhanced")
+* [MSX GOTO40](https://www.msx.org/news/en/goto-40 "MSX GOTO40")
 * [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [Ankje Kalkwiek passed away at the age of 77](https://www.msx.org/news/en/ankje-kalkwiek-passed-away-at-77 "Ankje Kalkwiek passed away at the age of 77")
 * [Sander Niessen playing Duck Hunt like a pro...](https://www.msx.org/photoshoots/nijmegen-2012/sander-niessen-playing-duck-hunt-pro "Sander Niessen playing Duck Hunt like a pro...")
 * [GFX9000 Vertical Scroll Test](https://www.msx.org/downloads/gfx9000-vertical-scroll-test "GFX9000 Vertical Scroll Test")
 * [Pyxidis Ex and Block'em Sock'em](https://www.msx.org/news/en/two-new-games-for-msx-pyxidis-ex-and-blockem-sockem "Pyxidis Ex and Block'em Sock'em")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
-* [FutureDisk booth](https://www.msx.org/photoshoots/futuredisk-booth "FutureDisk booth")
 
 Latest forum posts
 
-* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
-* [ROM page issue](https://www.msx.org/forum/msx-talk/development/rom-page-issue "ROM page issue")
-* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=13 "Christmas Quiz 2024")
-* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=1 "RP2350B will change cartridges for MSX forever!")
-* [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
-* [OpenMSX disasm](https://www.msx.org/forum/msx-talk/openmsx/openmsx-disasm "OpenMSX disasm")
 * [SCC cartridge with 16 MegaBytes on MSX !](https://www.msx.org/forum/msx-talk/hardware/scc-cartridge-with-16-megabytes-on-msx "SCC cartridge with 16 MegaBytes on MSX !")
+* [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx "How do i load BAS.files into Bluemsx?")
+* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=3 "ZX Spectrum Convertions")
+* [Astron Belt - Laserdisc - Not loading properly](https://www.msx.org/forum/msx-talk/software/astron-belt-laserdisc-not-loading-properly "Astron Belt - Laserdisc - Not loading properly")
+* [PC serial port to MSX joystick port file transfer: introducing JoySerTrans](https://www.msx.org/forum/msx-talk/development/pc-serial-port-to-msx-joystick-port-file-transfer-introducing-joysertrans?page=1 "PC serial port to MSX joystick port file transfer: introducing JoySerTrans")
+* [Dynamite Go Go](https://www.msx.org/forum/msx-talk/general-discussion/dynamite-go-go?page=13 "Dynamite Go Go")
+* [RP2350B will change cartridges for MSX forever!](https://www.msx.org/forum/msx-talk/hardware/this-will-change-cartridges-for-msx-moving-forward?page=1 "RP2350B will change cartridges for MSX forever!")
+* [Christmas Quiz 2024](https://www.msx.org/forum/msx-talk/off-topic/christmas-quiz-2024?page=13 "Christmas Quiz 2024")
+* [ROM page issue](https://www.msx.org/forum/msx-talk/development/rom-page-issue "ROM page issue")
+* [OpenMSX disasm](https://www.msx.org/forum/msx-talk/openmsx/openmsx-disasm "OpenMSX disasm")
 * [cbios issue?](https://www.msx.org/forum/msx-talk/development/cbios-issue "cbios issue?")
 * [Yamaha YRM-103 compatibility](https://www.msx.org/forum/msx-talk/software/yamaha-yrm-103-compatibility "Yamaha YRM-103 compatibility")
 * [Knightmare Gold](https://www.msx.org/forum/msx-talk/software/knightmare-gold "Knightmare Gold")
-* [ZX Spectrum Convertions](https://www.msx.org/forum/msx-talk/software/zx-spectrum-convertions?page=2 "ZX Spectrum Convertions")
-* [How do i load BAS.files into Bluemsx?](https://www.msx.org/forum/msx-talk/emulation/how-do-i-load-basfiles-into-bluemsx "How do i load BAS.files into Bluemsx?")
-* [Check for specific keypress during booting in autoexec.bat](https://www.msx.org/forum/msx-talk/general-discussion/check-for-specific-keypress-during-booting-in-autoexecbat "Check for specific keypress during booting in autoexec.bat")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
