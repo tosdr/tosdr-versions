@@ -142,15 +142,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [NTT Group Chooses Evidian Identity Governance & Administration as the Cornerstone of their Identity Management Infrastructure in Japan](https://atos.net/en/2024/press-release_2024_12_10/ntt-group-chooses-evidian-identity-governance-administration-as-the-cornerstone-of-their-identity-management-infrastructure-in-japan)
         * [Atos ranked as a Leader in ISG’s report Mainframes – Services and Solutions in Europe](https://atos.net/en/2024/news_2024_12_05/atos-ranked-as-a-leader-in-isgs-report-mainframes-services-and-solutions-in-europe)
         * [Agreement reached between Atos and Unisys regarding the lawsuit filed by Unisys against Atos and two Atos employees](https://atos.net/en/2024/press-release_2024_12_03/agreement-reached-between-atos-and-unisys-regarding-the-lawsuit-filed-by-unisys-against-atos-and-two-atos-employees)
-        * [Annual General Meeting to approve the 2023 financial statements to be held on January 31, 2025 at 10:00am CET at the Company’s headquarters](https://atos.net/en/2024/press-release_2024_12_02/annual-general-meeting-to-approve-the-2023-financial-statements-to-be-held-on-january-31-2025-at-1000am-cet-at-the-companys-headquarters)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Dec 5, 2024
+        Dec 10, 2024
         
-        ### Atos ranked as a Leader in ISG’s report Mainframes – Services and Solutions in Europe
+        ### NTT Group Chooses Evidian Identity Governance & Administration as the Cornerstone of their Identity Management Infrastructure in Japan
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
