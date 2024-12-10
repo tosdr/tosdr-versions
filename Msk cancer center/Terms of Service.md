@@ -309,7 +309,7 @@ Website Privacy Practices
 * [Overview](https://www.mskcc.org/privacy/web-site-privacy-practices)
 * [Website Terms and Conditions](https://www.mskcc.org/privacy/web-site-privacy-practices/website-terms-and-conditions)
 
-[MyMSK Portal Privacy Policy](https://www.mskcc.org/privacy/mymsk-portal-privacy-policy)
+[MyMSK Portal Privacy Policy](https://www.mskcc.org/privacy/portal-privacy-policy)
 
 [Talking to Employers and Medical Staff About Work (TEAMWork) Mobile Application Privacy Policy](https://www.mskcc.org/privacy/teamwork)
 
@@ -516,4 +516,4 @@ Next
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44140.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
+* [Log in web-44141.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/privacy/web-site-privacy-practices/website-terms-and-conditions)
