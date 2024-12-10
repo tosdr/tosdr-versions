@@ -1,10 +1,8 @@
-![](https://s.lalal.ai/img/sale-graphic/percent.svg)Cyber Exclusive: 700 Minutes![](https://s.lalal.ai/img/sale-graphic/percent.svg) for just $40 till 2024/12/10 ![](https://s.lalal.ai/img/sale-graphic/percent.svg)
-
 [](https://www.lalal.ai/)
 
 ProductsNew
 
-[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video.](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
@@ -28,7 +26,7 @@ En
 
 [](https://www.lalal.ai/)
 
-[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video. Free Beta](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
+[Stem SplitterExtract vocals, instrumental, drums, bass, guitar, synth, string & wind instruments](https://www.lalal.ai/)[Voice CleanerRemove background music, vocal plosives, mic rumble & other unwanted noises](https://www.lalal.ai/voice-cleaner/)[Voice Changer Change your voice in audio and video.](https://www.lalal.ai/voice-changer/)[![Echo & Reverb Remover](https://s.lalal.ai/img/dereverberation/dereverberation-page-icon.svg)
 
 Echo & Reverb Remover Remove echo and reverb from vocals, voice recordings, songs, and videos.](https://www.lalal.ai/echo-reverb-remover/)[![Lead/Back Splitter](https://s.lalal.ai/img/lead-back-vocal-remover/lead-back-vocal-icon.svg)
 
