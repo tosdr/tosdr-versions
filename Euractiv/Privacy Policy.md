@@ -443,6 +443,14 @@ Most recent
 
 [10-12-2024
 
+Nordic justice ministers still not happy after TikTok, Meta gang violence meeting](https://www.euractiv.com/section/politics/news/nordic-justice-ministers-still-not-happy-after-tiktok-meta-gang-violence-meeting/)[10-12-2024
+
+Mandatory written contracts in agriculture commissioner’s plan to empower farmers](https://www.euractiv.com/section/agriculture-food/news/mandatory-written-contracts-in-agriculture-commissioners-plan-to-empower-farmers/)[10-12-2024
+
+Israeli troops near Damascus, say Syrian security, after Israeli airstrikes hit Syrian bases](https://www.euractiv.com/section/global-europe/news/israeli-troops-near-damascus-say-syrian-security-after-israeli-airstrikes-hit-syrian-bases/)[10-12-2024
+
+Netanyahu to take the stand in his corruption trial for the first time](https://www.euractiv.com/section/global-europe/news/netanyahu-to-take-the-stand-in-his-corruption-trial-for-the-first-time/)[10-12-2024
+
 Blinken warns Islamic State will try to re-establish capabilities in Syria](https://www.euractiv.com/section/global-europe/news/blinken-warns-islamic-state-will-try-to-re-establish-capabilities-in-syria/)[10-12-2024
 
 Syria’s rebels work to form government, restore order after Assad ouster](https://www.euractiv.com/section/global-europe/news/syrias-rebels-work-to-form-government-restore-order-after-assad-ouster/)[10-12-2024
@@ -453,15 +461,7 @@ Romanian elections spark Bulgarian MPs to investigate Russian influence](https:/
 
 PiS-dominated Polish constitutional tribunal has a new head](https://www.euractiv.com/section/politics/news/pis-dominated-polish-constitutional-tribunal-has-a-new-head/)[10-12-2024
 
-Lufthansa Technik to open a factory in Portugal](https://www.euractiv.com/section/politics/news/lufthansa-technik-to-open-a-factory-in-portugal/)[10-12-2024
-
-Portugal to ban mobile phones in schools for years 1-6](https://www.euractiv.com/section/politics/news/portugal-to-ban-mobile-phones-in-schools-for-years-1-6/)[10-12-2024
-
-Puigdemont threatens to torpedo 2025 budget as Sánchez can’t be trusted](https://www.euractiv.com/section/politics/news/puigdemont-threatens-to-torpedo-2025-budget-as-sanchez-cant-be-trusted/)[10-12-2024
-
-Trump’s praise for Meloni doesn’t go unnoticed in Italy](https://www.euractiv.com/section/politics/news/trumps-praise-for-meloni-doesnt-go-unnoticed-in-italy/)[10-12-2024
-
-Eurogroup chief expresses ‘absolute confidence’ in resolution of French budget crisis](https://www.euractiv.com/section/economy-jobs/news/eurogroup-chief-expresses-absolute-confidence-in-resolution-of-french-budget-crisis/)
+Lufthansa Technik to open a factory in Portugal](https://www.euractiv.com/section/politics/news/lufthansa-technik-to-open-a-factory-in-portugal/)
 
 ###### Advertisement
 
