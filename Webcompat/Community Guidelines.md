@@ -170,11 +170,8 @@ You signed in with another tab or window. Reload to refresh your session. You si
     
 
 * [Code](https://github.com/webcompat/webcompat.com)
-* [Issues 288](https://github.com/webcompat/webcompat.com/issues)
-* [Pull requests 5](https://github.com/webcompat/webcompat.com/pulls)
-* [Actions](https://github.com/webcompat/webcompat.com/actions)
-* [Projects 0](https://github.com/webcompat/webcompat.com/projects)
-* [Wiki](https://github.com/webcompat/webcompat.com/wiki)
+* [Issues 0](https://github.com/webcompat/webcompat.com/issues)
+* [Pull requests 0](https://github.com/webcompat/webcompat.com/pulls)
 * [Security](https://github.com/webcompat/webcompat.com/security)
 * [Insights](https://github.com/webcompat/webcompat.com/pulse)
 
@@ -183,9 +180,6 @@ Additional navigation options
 * [Code](https://github.com/webcompat/webcompat.com)
 * [Issues](https://github.com/webcompat/webcompat.com/issues)
 * [Pull requests](https://github.com/webcompat/webcompat.com/pulls)
-* [Actions](https://github.com/webcompat/webcompat.com/actions)
-* [Projects](https://github.com/webcompat/webcompat.com/projects)
-* [Wiki](https://github.com/webcompat/webcompat.com/wiki)
 * [Security](https://github.com/webcompat/webcompat.com/security)
 * [Insights](https://github.com/webcompat/webcompat.com/pulse)
 
