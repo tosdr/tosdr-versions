@@ -213,53 +213,6 @@ Disclosed to Categories of Third Parties:
 * Advertising and analytics partners.
 * Social media platforms.
 * Sweepstakes/contests partners.
-* Order fulfillment vendors
-* Technology systems.
-* Service providers.
-* Security vendors/service providers.
-* Communications services providers.
-* Customer service providers.
-* Government agencies and law enforcement where required by law.
-* Third parties in connection with court or other legal actions.
-* Third parties in connection with business transactions.
-* Third parties to whom you agree or direct us to share your data.
-* Other service providers who use your data solely to provide services to us or to you.
-
-  
-
-Sold or Shared to Categories of Third parties:
-
-* Third parties in connection with their marketing of similar products related to Mattel products via paper and online catalogues.
-* Trusted third-party partners for joint marketing purposes.
-
-Your demographics and interests, for example:
-
-* Your age and gender.
-* Your race and ethnic background.
-* Your country, town, city, or state.
-* How many people live in your house.
-* Your salary.
-* Whether you are married or single.
-* What languages you speak.
-* Your education.
-* Your job.
-* Your purchase history.
-* Your hobbies and interests.
-* Your personality traits.
-
-* To learn who you are and what you like.
-* To learn what products you are likely to buy.
-* To send you content we think you will want to see.
-* To provide you services.
-* To personalize your account.
-* For internal business purposes.
-* Other purposes as disclosed at the time of collection or with your consent.
-
-Disclosed to Categories of Third Parties:
-
-* Advertising and analytics partners.
-* Social media platforms.
-* Sweepstakes/contests partners.
 * Order fulfillment vendors.
 * Technology systems service providers.
 * Security vendors/service providers.
@@ -311,7 +264,7 @@ Disclosed to Categories of Third Parties:
 
 Transaction Information, for example:
 
-* Your purchase history
+* Your purchase history.
 
 * To send you account statements.
 * Allow you to buy products and services.
@@ -382,12 +335,16 @@ Disclosed to Categories of Third Parties:
 * Third parties to whom you agree or direct us to share your data.
 * Other service providers use your data solely. to provide services to us or to you.
 
+  
+
 Precise Geolocation, for example:
 
 * Location of your device within three city blocks.
 * Location of your device within 1,750 feet of where you are.
 * Where you are standing (GPS coordinates).
 * Phone signal information (cell-tower triangulation).
+
+  
 
 * Send marketing messages.
 * Send product information.
@@ -415,12 +372,14 @@ Disclosed to Categories of Third Parties:
 * Third parties to whom you agree or direct us to share your data.
 * Other service providers use your data solely to provide services to us or to you.
 
+  
+
 Health-related Information, for example:
 
 * Pregnancy due date
 * Disability information via consumer studies.
 
-For information about health-related data processed by Mattel, please read our [_Consumer Health Data Statement_](https://corporate.mattel.com/consumer-health-data).
+For information about health-related data processed by Mattel, please read our [Consumer Health Data Statement](https://corporate.mattel.com/consumer-health-data).
 
 Payment and Financial Information, for example:
 
@@ -526,7 +485,7 @@ Children’s Information, for example:
 
 * Child’s age and gender.
 
-For information about child-related data processed by Mattel, please read our [_Children’s Privacy Statement_](https://corporate.mattel.com/childrens-privacy-statement).
+For information about child-related data processed by Mattel, please read our [Children’s Privacy Statement](https://corporate.mattel.com/childrens-privacy-statement).
 
 **Additional Details about our Data Practices Disclosed in the Table Above**
 ----------------------------------------------------------------------------
@@ -608,6 +567,8 @@ In addition, we may use a variety of other technologies that collect similar dat
 
 We may use third-party business partners, such as analytics companies, ad agencies, network advertisers, and others who provide us data about the Services, users, and our advertisements (such as what products and services you’re interested in based on the websites you visit, the content you view online, and the products you buy). These partners deliver ads to you on behalf of the Services and elsewhere online. We and our third-party business partners collect certain data about your visits to and activity on the Services and other websites and services, and may use this data to send you ads for products and services that better fit the things you like or need and to assess the effectiveness of our advertising. We may also share (or permit third parties to collect) certain data, such as Device ID/Interaction Information, aggregated or de-identified, pseudonymized or hashed data (including email addresses), with these third parties for similar purposes.
 
+**Third Party Tracking Technologies**
+
 These third-parties may set and access their own tracking technologies on your device (including cookies, pixel tags or other technologies) and may otherwise collect or have access to your personal data over time, including about your visits to the Services as well as other websites and online services, some of which may be personal information or personal data under various local laws. Companies that we share data with, including ad agencies and networks, may use the data, often in combination with their existing data, in order to present more relevant advertisements that may be of interest to you, and to help us and third parties to do the same.
 
 **Here are some examples of our interest-based advertising practices:**
@@ -617,13 +578,13 @@ These third-parties may set and access their own tracking technologies on your d
 3. We Know You Across All of Your Devices. Linking together your computers, tablets, and phones allows you to log into your account from all your devices or pick up where you left off in a video or movie that you were viewing on a different device. For example, you might search for our entertainment content on your laptop, click on a Google search result link which we have sponsored, and then later be able to purchase that same product after seeing an ad on your mobile phone.
 4. We Match You Across all Accounts. We may share your email address with social media companies or use their technology on our websites so that we can communicate with you when you are on social media. We also do this matching to learn if you saw our ad on social media, and if you clicked on it, and then came to our website to buy something. This helps us know if we should continue to buy ads on social media.
 
-**Our Tools.** You can control how your personal information is used for interest-based advertising by visiting [_the Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536). You can also opt out of certain cookies by modifying your [cookie settings](https://consent-pref.trustarc.com/?type=mattel_prod_us_v3&site=mattel.com&country=us&action=prefmgr&locale=en&behavior=implied&gtm=1&autoblock=true&behaviorManager=us&irm=false). You can also go to [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/) to download the GPC web browser plugin that tells our website your privacy preferences for cookies. We will honor your privacy rights according to the GPC signal you set. We will honor your privacy rights according to the GPC signal you set.
+**Our Tools.** You can control how your personal information is used for interest-based advertising by visiting [_the Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536). You can also opt out of certain cookies by modifying your cookie settings. You can also go to [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/) to download the GPC web browser plugin that tells our website your privacy preferences for cookies. We will honor your privacy rights according to the GPC signal you set.
 
 **NAI/DAA Opt-Out.** Some of the companies we use may be members of the Network Advertising Initiative (“NAI”) or Digital Advertising Alliance (“DAA”). The NAI provides information regarding targeted advertising and the [opt-out procedures of NAI members](https://optout.networkadvertising.org/), including opt-out mechanisms for web browsers, mobile and other connected devices, and a tool to opt out from participating NAI members using your hashed email address for interest-based advertising. You may also want to visit the [DAA's website](https://optout.aboutads.info/), which provides information regarding targeted advertising and offers an opt-out for DAA-participating companies. To learn more about interest-based advertisements from participating third parties in Canada, please visit the Canadian DAA online choice page at [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools).
 
-**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout)[.](https://tools.google.com/dlpage/gaoptout)
+**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on.](https://tools.google.com/dlpage/gaoptout)
 
-Please note that opting out through these mechanisms does not opt you out of being served advertising from Mattel. You will continue to see non-targeted advertisements from many companies, possibly even Mattel, while online. In other words, in the case you have expressed your opt-out by the above methods, some online ads will still appear, but these will not benefit from the information Mattel could have otherwise used that is specific to you or your browsing history. The same way a printed newspaper advertisement addresses a large number of readers generally and no one reader in particular, your advertisements after opt-out will be general in nature and are placed by Mattel to advertise to the general public. Your opt-out choices are also browser and device specific; if you disable your cookies or upgrade your browser after opting out, or if you use different computers or browsers, you will need to indicate your opt-out choices across those other computers and browsers.
+**Effect of Opt-Outs.** Please note that opting out through these mechanisms does not opt you out of being served advertising from Mattel. You will continue to see non-targeted advertisements from many companies, possibly even Mattel, while online. In other words, in the case you have expressed your opt-out by the above methods, some online ads will still appear, but these will not benefit from the information Mattel could have otherwise used that is specific to you or your browsing history. The same way a printed newspaper advertisement addresses a large number of readers generally and no one reader in particular, your advertisements after opt-out will be general in nature and are placed by Mattel to advertise to the general public. Your opt-out choices are also browser and device specific; if you disable your cookies or upgrade your browser after opting out, or if you use different computers or browsers, you will need to indicate your opt-out choices across those other computers and browsers.
 
 ### **Other Websites & Mobile Application Content**
 
@@ -654,7 +615,7 @@ You give your personal information to us. It can be things like your name, phon
 
 ### **You Interact with Websites, Mobile Apps & Emails**
 
-We collect your personal information in ways you cannot see from your computer or mobile phone while you are on our websites, mobile apps, and social media channels. Things like mobile phone IDs allow us to send you videos and other content about our toys, movies, and games that we think you may like to see.
+We collect your personal information in ways you cannot see from your computer or mobile phone while you are on our websites, mobile apps, and social media channels through [cookies and other tracking technologies](https://shop.mattel.com/cookies-and-technologies). Things like mobile phone IDs allow us to send you videos and other content about our toys, movies, and games that we think you may like to see.
 
 ### **We Get it From Other Companies**
 
@@ -673,7 +634,11 @@ The data collected and stored by third parties is subject solely to the third-pa
 **When We Disclose Your Personal Information**
 ----------------------------------------------
 
-We may share non-personal data that we collect, such as certain Device ID/Interaction Information, aggregate user statistics, and hashed or otherwise de-identified or pseudonymized data (including email addresses), and/or our analyses derived from such data, with third-parties in our discretion as permitted by law, including for targeted advertising purposes. Please note that we are not responsible for the privacy practices of any third-party. If you decide that you do not want to receive communications from a third-party, or have questions about their privacy practices, you will need to contact that third-party directly. We may share the data we have collected about you (including personal data) in the circumstances described below or elsewhere in this Privacy Statement, as disclosed at the time you provide data, or otherwise with your consent.
+We may share non-personal data that we collect, such as certain Device ID/Interaction Information, aggregate user statistics, and hashed or otherwise de-identified or pseudonymized data (including email addresses), and/or our analyses derived from such data, with third-parties in our discretion as permitted by law, including for targeted advertising purposes. 
+
+**Third-Parties' privacy practices.**
+
+Please note that we are not responsible for the privacy practices of any third-party. If you decide that you do not want to receive communications from a third-party, or have questions about their privacy practices, you will need to contact that third-party directly. We may share the data we have collected about you (including personal data) in the circumstances described below or elsewhere in this Privacy Statement, as disclosed at the time you provide data, or otherwise with your consent.
 
 ### **When You Direct Us to Share or Otherwise with Your Consent**
 
@@ -769,7 +734,7 @@ We encourage you to spend time with your Children when they are online or using 
 
 If you no longer want your Child to participate in an email newsletter, simply click on the link that is provided to unsubscribe, which is usually located at the bottom of the email, or contact us at [service@mattel.com](mailto:service@mattel.com) for Mattel, Fisher-Price, HIT Entertainment, and MEGA Brands; or [service@americangirl.com](mailto:service@americangirl.com) for American Girl.
 
-You may also request to review and delete all Personal Information Mattel has collected about your Child and cease all further collection or use of such Personal Information by submitting a request for Access or Deletion using [_the Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536).
+You may also request to review and delete all Personal Information Mattel has collected about your Child and cease all further collection or use of such Personal Information by submitting a request for Access or Deletion using the [_Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536).
 
 ### **A special note to Children**
 
@@ -778,8 +743,6 @@ Children should get a parent’s or legal guardian’s permission before giving 
 ### **Changes to this Statement**
 
 Mattel may update this Children’s Privacy Statement at any time and any changes will be effective upon posting. Where required by COPPA, we will obtain additional parental consent prior to using or disclosing Personal Information in a manner materially different from the purpose for which it was collected.
-
-  
 
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
@@ -832,9 +795,9 @@ U.S. state privacy laws require we tell you about what personal information we 
 
 **Delete Your Personal Information.** To request to delete your personal data, please go to the [_Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536).
 
-**Correct Your Personal Information.** To correct the personal data we hold about you, please go to [_the Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536).
+**Correct Your Personal Information.** To correct the personal data we hold about you, please go to the [_Mattel Privacy Choice Portal_](https://submit-irm.trustarc.com/services/validation/3773efbf-1df1-4e6a-8d00-010aec40f536).
 
-**Opt-Out of Targeted Advertising.** Mattel engages in online advertising practices (and certain analytics or similar activities) that may be considered “targeted advertising” under these states’ laws. To disable sharing through cookies set by third parties that may be considered targeted advertising under such laws, Mattel uses the cookie manager to permit you to adjust your [cookie settings](https://consent-pref.trustarc.com/?type=mattel_prod_us_v3&site=mattel.com&country=us&action=prefmgr&locale=en&behavior=implied&gtm=1&autoblock=true&behaviorManager=us&irm=false). Please also review the _Third-Party Advertising and Analytics_ section above for information on industry tools and device settings that may be available to you. section above for information on industry tools and device settings that may be available to you.
+**Opt-Out of Targeted Advertising.** Mattel engages in online advertising practices (and certain analytics or similar activities) that may be considered “targeted advertising” under these states’ laws. To disable sharing through cookies set by third parties that may be considered targeted advertising under such laws, Mattel uses the cookie manager to permit you to adjust your cookie settings. Please also review the _Third-Party Advertising and Analytics_ section above for information on industry tools and device settings that may be available to you. section above for information on industry tools and device settings that may be available to you.
 
 **Opt-Out of Sales of Your Personal Data.** Mattel may sell your data as defined by certain state laws. To opt-out of the sales of your personal data, please go to [Do Not Sell/Share My Data](https://submit-irm.trustarc.com/services/validation/1f32dee8-09ca-425b-b9d1-f78a1c2e219e).
 
@@ -926,14 +889,14 @@ In addition to the below, we may collect and/or use additional types of informat
 
 **Categories of third parties to whom this type of Personal Information is Disclosed for a Business Purpose or Sold/Shared for Cross-Contextual Behavioral Advertising**
 
-  
-
 Contact Information:
 
 * Your name.
 * Your email address.
 * Your phone number.
 * Your home address.
+
+  
 
 Sharing for Mattel business purposes:
 
@@ -946,6 +909,8 @@ Sharing for Mattel business purposes:
 Sale/Sharing for Cross-Contextual Behavioral Advertising:
 
 * Retail partners who send you catalogues.
+
+  
 
 Demographics and Interests.
 
@@ -1104,8 +1069,6 @@ Connected Devices and Sensor Information
 * Connected device sensor information.
 * Mobile app personalized settings.
 
-  
-
 * Connected device sensor information.
 * Mobile app personalized settings.
 
@@ -1209,8 +1172,6 @@ Sale/Sharing for cross-contextual behavioral advertising:
 
 * None.
 
-  
-
 Financial Information
 
 * Banking information.
@@ -1231,6 +1192,8 @@ Sharing for Mattel business purposes:
 Sale/Sharing for cross-contextual behavioral advertising:
 
 * None.
+
+  
 
 * **Shine the Light / Your California Privacy Rights.** Mattel does not share personal information with third parties for their direct marketing purposes (as defined by California Civil Code Section 1798.83) unless we give you choice (to opt in or opt-out) before sharing with those third parties.
 
@@ -1324,8 +1287,6 @@ Legitimate interest and/or your consent.
 * Health-related information.
 * Children’s Information.
 
-  
-
 Administrative.
 
 Performance of a contract and/or legitimate interest.
@@ -1344,8 +1305,19 @@ Legal.
 
 Fulfillment of legal obligations.
 
-* Device ID/Interaction Information.
-* Transaction information.
+Sharing for Mattel business purposes:
+
+* Service providers who help us run our business.
+* Service providers who help with marketing efforts.
+* Mattel affiliates and related entities.
+
+  
+
+Sale/Sharing for Cross-Contextual Behavioral Advertising:
+
+* None.
+
+  
 
 Regarding the processing activities called “Personalization,” it is our duty to inform you that we gather the applicable personal information in order to create a profile, which allows us to send you offers of your interest or help you through your purchase process. However, please note that this processing activity is always carried out based on your consent. If you would like to be provided with more information regarding this processing activity, please refer to the relevant addresses set forth within Section Mattel EMEA Contact Information. You can withdraw your consent at any time as set forth in Section [_Your rights according to GDPR_](https://shop.mattel.com/privacy-statement#anchor-regional-disclosures-uk-eea-your-rights).
 
@@ -1885,7 +1857,7 @@ P.O. Box 620497
 
 Middleton, WI 53562-0497
 
-Phone: 800-845-0005, Fax: 608-836-0761
+Phone: 800-845-0005, Fax: 608-836-0761.
 
 email: [service@americangirl.com](mailto:service@americangirl.com) 
 
