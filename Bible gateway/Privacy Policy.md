@@ -41,7 +41,7 @@ account
     * [Deals](https://faithgateway.com/collections/biblegateway-special-deals?utm_source=bg&utm_medium=referral&utm_campaign=nav_deals)
     * [More](https://faithgateway.com/?utm_source=bg&utm_medium=referral&utm_campaign=nav_more)
 
-[Want to receive the Verse of the Day each day?](https://www.biblegateway.com/landing/verse-of-the-day/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=alert_votdeaday410)
+[Get BibleGateway+ for less than $5/mo. 50+ premium resources ($3,100+ value!).](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert_mobile&utm_campaign=bgplus_alert_5permonth_value5_092324)
 
 close
 
