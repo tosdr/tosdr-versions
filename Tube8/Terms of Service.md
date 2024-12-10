@@ -1,4 +1,4 @@
-![Youporn Free Porn](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/tube8/cdn_assets/images/shared/logo.png?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e)
+![Youporn Free Porn](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/tube8/cdn_assets/images/shared/logo.png?v=e694d6496774262a829f3db0cab0a012e95c2315)
 
 This website is for adults only
 
@@ -8,7 +8,7 @@ I am 18 or older - Enter I am under 18 - Exit
 
 Our [parental controls page](https://www.asacp.org/index.html?content=parental_guidelines) explains how you can easily block access to this site.
 
-© Tube8 2024 [![rta](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/base/cdn_assets/images/shared/rta.gif?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
+© Tube8 2024 [![rta](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/base/cdn_assets/images/shared/rta.gif?v=e694d6496774262a829f3db0cab0a012e95c2315)](https://help.pornhub.com/hc/en-us/articles/4419885579795)
 
 Your Cookies, Your Choice
 
@@ -47,22 +47,22 @@ These cookies enable us to make the Website more relevant to your interests and 
 
 Accept all cookies Accept only essential cookies Save and close
 
-[![Tube8Free Porn](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/tube8/cdn_assets/images/shared/logo.png?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8Free Porn](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/tube8/cdn_assets/images/shared/logo.png?v=e694d6496774262a829f3db0cab0a012e95c2315 "Tube8 Free Porn")](https://www.tube8.com/)
 
 #### Recent Searches
 
 #### Trending Searches
 
 * [Hot milf](https://www.tube8.com/porntags/hot+milf/)
-* [Hairy anal](https://www.tube8.com/porntags/hairy+anal/)
-* [Friends](https://www.tube8.com/porntags/friends/)
 * [Virtual sex](https://www.tube8.com/porntags/virtual+sex/)
-* [Doggy](https://www.tube8.com/porntags/doggy/)
+* [Friends wife](https://www.tube8.com/porntags/friends+wife/)
+* [Sunny leone](https://www.tube8.com/porntags/sunny+leone/)
 * [Real amateur](https://www.tube8.com/porntags/real+amateur/)
-* [Hotel maid](https://www.tube8.com/porntags/hotel+maid/)
+* [Perfect ass](https://www.tube8.com/porntags/perfect+ass/)
+* [Only fans](https://www.tube8.com/porntags/only+fans/)
 * [China](https://www.tube8.com/porntags/china/)
-* [Girl next door](https://www.tube8.com/porntags/girl+next+door/)
 * [Lesbian double dildo](https://www.tube8.com/porntags/lesbian+double+dildo/)
+* [Turkish](https://www.tube8.com/porntags/turkish/)
 
 #### Recommended Categories For You
 
@@ -75,25 +75,17 @@ Accept all cookies Accept only essential cookies Save and close
 
 [More](https://www.tube8.com/pornstars/)
 
-[Frank Taylor
+[Molly Bennett
 
-Pornstar](https://www.tube8.com/pornstar/frank-taylor/)
-
-[Austin Andrews
-
-Pornstar](https://www.tube8.com/gay/pornstar/austin-andrews/)
-
-[Dora Venter
-
-Pornstar](https://www.tube8.com/pornstar/dora-venter/)
+Pornstar](https://www.tube8.com/pornstar/molly-bennett/)
 
 [Hope Howell
 
 Pornstar](https://www.tube8.com/pornstar/hope-howell/)
 
-[Chocolate
+[Simone Valentino
 
-Pornstar](https://www.tube8.com/pornstar/chocolate/)
+Pornstar](https://www.tube8.com/pornstar/simone-valentino/)
 
 [Johnny Rey
 
@@ -305,6 +297,24 @@ You represent and warrant that with respect to all Content you will upload on th
 7. the Content complies with this Website’s [Terms of Service](https://www.tube8.com/info.html#terms), and our [Privacy Notice](https://www.tube8.com/info.html#privacy).
 
 Failure to comply with these Terms of Service or any related contracts you will enter into with us, or should we determine that any of the statements above is untrue, or not complied with, we may, in our sole discretion, refuse to include the Content or any part thereof or any references to such Content on this Website, remove the Content in question from this Website, forfeit all accrued or pending earnings, cancel all current or pending payouts, terminate your account and take any measures necessary to minimize or eliminate any liability.
+
+Back to Top
+
+Online Safety Act - Rules Applicable to Australian Users
+
+For the purposes of this section:
+
+* **"Class 1A Material"** shall mean any material, by any medium, that depicts, or otherwise contains child sexual exploitation/child sexual abuse, extreme crime and/or violence, or material that is in support of terror and/or acts of terror.
+* **"Class 1B Material"** shall mean any material that depicts or otherwise contains crime and/or violence (but not extreme drug or violence), or drug-related material.
+
+Class 1A Material and Class 1B Material may hereinafter collectively be referred to as “Illicit Material”.
+
+Per the provisions of the Online Safety Act (2021) (the **"OSA"**) Content Partners and Models hereby must ensure and subsequently warrants that:
+
+* The Content uploaded or attempted to be uploaded to this Website is in adherence to our Terms described herein.
+* Any audiovisual content uploaded or attempted to be uploaded to this Website does not contain Illicit Material.
+* Content Partners and Models reserves the right to and shall take any action it deems necessary in order to limit, prevent, remove, or otherwise moderate any content which infringes the provisions of this section and/or any other, applicable terms. Content Partners and Models shall also ensure, to the extent possible, that you comply with the provisions of this section.
+* We have a zero-tolerance policy towards the solicitation, access, generation, distribution, or storage of any content that involves the depiction of children or features Class 1A Material in any capacity. All child sexual exploitation/abuse material that we identify or are made aware of will result in the immediate removal of the content in question as well as the immediate removal of its uploader from this Website. Without prejudice to all other rights reserved for action against the above (including account suspension, removal of infringing content etc.), we report all cases of apparent child sexual exploitation/abuse material to the National Center for Missing and Exploited Children.
 
 Back to Top
 
@@ -1663,9 +1673,9 @@ INCREASE YOUR EXPOSURE TODAY!
 
 Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
-[![Sign Up Now](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/base/cdn_assets/images/shared/sign-up-button.png?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e)](https://www.pornhub.com/partners/cpp)
+[![Sign Up Now](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/base/cdn_assets/images/shared/sign-up-button.png?v=e694d6496774262a829f3db0cab0a012e95c2315)](https://www.pornhub.com/partners/cpp)
 
-[![Tube8 Free Porn](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e "Tube8 Free Porn")](https://www.tube8.com/)
+[![Tube8 Free Porn](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/tube8/cdn_assets/images/pc/global/pc_tube8_black.png?v=e694d6496774262a829f3db0cab0a012e95c2315 "Tube8 Free Porn")](https://www.tube8.com/)
 
  HELP & SUPPORT
 
@@ -1687,12 +1697,13 @@ Email us at [affiliate@tube8.com](mailto:affiliate@tube8.com)
 
 * [CSAM Policy](https://www.tube8.com/child-sexual-abuse-material-policy/)
 * [NCC Policy](https://www.tube8.com/non-consensual-content-policy/)
+* [Australian eSafety](https://www.tube8.com/australianesafety/)
 
 [](https://x.com/tube8)
 
 [Looking for gay porn?](https://www.tube8.com/gay "Tube8 Gay")
 
-[![rta](https://ea.t8cdn.com/ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e/base/cdn_assets/images/shared/rta.gif?v=ad6ac5073c4d4050d2db7fee88cff6e1f1285c8e)](https://www.tube8.com/info.html#rating)
+[![rta](https://ea.t8cdn.com/e694d6496774262a829f3db0cab0a012e95c2315/base/cdn_assets/images/shared/rta.gif?v=e694d6496774262a829f3db0cab0a012e95c2315)](https://www.tube8.com/info.html#rating)
 
 © Tube8 2006 - 2024
 
