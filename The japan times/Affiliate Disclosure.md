@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
-[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
-  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+  [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
-[South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+[South Korea's Yoon banned from foreign travel as leadership crisis deepens](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
 
-  [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+  [![Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438844.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.")](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
 
-[Miho Nakayama, known for 'Love Letter' and her music, dies at 54](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
+[Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
-  [![Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ")](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
+  [![Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.")](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
 Editors' Picks
 --------------
@@ -170,27 +170,25 @@ By [Norihiko Shirouzu](https://www.japantimes.co.jp/author/641/norihiko-shirouzu
 
   [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Japan to scrap ¥1.06 million employee pension threshold in 2026](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
-  [![The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438765.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The government's pension reform plan under consideration will make it easier for part-timers to join the kosei nenkin employee pension program.")](https://www.japantimes.co.jp/news/2024/12/08/japan/society/japan-pension-reform-talks/ "Japan to scrap ¥1.06 million employee pension threshold in 2026")
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[South Korea martial law fallout deepens as prosecutors close in](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+[South Korea's Yoon banned from foreign travel as leadership crisis deepens](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
 
-By [Hyunjoo Jin](https://www.japantimes.co.jp/author/1977/hyunjoo-jin/ "Hyunjoo Jin") and [Josh Smith](https://www.japantimes.co.jp/author/1191/josh-smith/ "Josh Smith")  
+  [![Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438844.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Protesters tear signs, depicting the names of ruling People Power Party lawmakers who didn't vote during the impeachment motion against South Korean President Yoon Suk Yeol last Saturday, as they attend a rally calling for the impeachment of Yoon, who declared and quickly reversed a martial law order last week, in front of the PPP's headquarters in Seoul on Monday.")](https://www.japantimes.co.jp/news/2024/12/09/asia-pacific/politics/south-korea-yoon-opposition-second-coup/ "South Korea's Yoon banned from foreign travel as leadership crisis deepens")
 
-  [![South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438766.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "South Korea Prime Minister Han Duck-soo (left) and the ruling People Power Party leader Han Dong-hoon speak at a news conference after their meeting to discuss plans for President Yoon Suk Yeol's "orderly retreat" at the People Power Party headquarters in Seoul on Sunday.")](https://www.japantimes.co.jp/news/2024/12/08/asia-pacific/politics/ruling-party-vows-orderly-exit-for-yoon/ "South Korea martial law fallout deepens as prosecutors close in")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[CULTURE](https://www.japantimes.co.jp/culture/ "CULTURE")
+[Tokyo police arrest four men on suspicion of staging colleague’s suicide](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
-[Miho Nakayama, known for 'Love Letter' and her music, dies at 54](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/06/438681.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Miho Nakayama rose to stardom in 1985 after the release of her first single “C,” which established her popularity as an idol. ")](https://www.japantimes.co.jp/culture/2024/12/09/miho-nakayama-obituary/ "Miho Nakayama, known for 'Love Letter' and her music, dies at 54")
+  [![Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.")](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Ishiba vows to spur LDP debate on dual surname option](https://www.japantimes.co.jp/news/2024/12/10/japan/politics/ishiba-dual-surname/ "Ishiba vows to spur LDP debate on dual surname option")
-
-3 mins ago
-
-[Syria's rebels work to form government, restore order after Assad ouster](https://www.japantimes.co.jp/news/2024/12/10/world/syria-rebels-power-transfer/ "Syria's rebels work to form government, restore order after Assad ouster")
-
-26 mins ago
-
-[Trump plays 'shadow president' on world stage](https://www.japantimes.co.jp/news/2024/12/10/world/politics/shadow-president-trump-world/ "Trump plays 'shadow president' on world stage")
-
-38 mins ago
-
-[Taiwan sees the most Chinese military aircraft around it in two months](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/taiwan-china-military-exercises-lai/ "Taiwan sees the most Chinese military aircraft around it in two months")
-
-44 mins ago
-
-[Japan to tighten regulations for electronic devices scrap yards](https://www.japantimes.co.jp/news/2024/12/10/japan/japan-scrap-yard-regulations/ "Japan to tighten regulations for electronic devices scrap yards")
+[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
 
 1 hour ago
+
+[Former chief prosecutor of Osaka to plead not guilty over rape in shift](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/former-prosecutor-change-plea/ "Former chief prosecutor of Osaka to plead not guilty over rape in shift")
+
+1 hour ago
+
+[South Korea’s opposition seeks to force through budget in power play](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/south-korea-opposition-budget/ "South Korea’s opposition seeks to force through budget in power play")
+
+2 hours ago
+
+[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
+
+2 hours ago
+
+[Japanese announcer Tomoaki Ogura dies at 77](https://www.japantimes.co.jp/news/2024/12/10/japan/tomoaki-ogura-obituary/ "Japanese announcer Tomoaki Ogura dies at 77")
+
+3 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
