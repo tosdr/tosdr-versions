@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Exclusive details
-
-[UnitedHealthcare CEO’s suspected killer expresses disdain for health insurance industry in manifesto](https://nypost.com/2024/12/09/us-news/luigi-mangione-unitedhealthcare-ceo-brian-thompsons-suspected-killer-expresses-disdain-for-health-insurance-industry-in-manifesto/)
-
 Terms Of Use
 ============
 
