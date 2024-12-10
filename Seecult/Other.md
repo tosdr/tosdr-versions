@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu/slikao-sam-airtona-senu.jpg?itok=ARFDDga8)](http://seecult.org/galerija/galerija-umetnika/aleksandar-rafajlovic/slikao-sam-airtona-senu)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno/ko-nam-je-kriv-001.jpg?itok=zkqIS-kx)](http://seecult.org/galerija/galerija-umetnika/vladimir-peric-talent/vladimir-peric-sporedno-usporedno)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii/porno.jpg?itok=vQkXldAd)](http://seecult.org/galerija/foto-galerija/foto-arhiva/arhiva-2005-ii)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/levi.jpg?itok=UPcnpdE4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
