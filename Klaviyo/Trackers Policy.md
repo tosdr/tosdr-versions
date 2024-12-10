@@ -283,6 +283,8 @@ Cookie notice
 Klaviyo Cookie Notice
 =====================
 
+* * *
+
 _Updated October 11, 2023_
 
 Unless otherwise expressly stated, terms in this notice have the same meaning as defined in the [Privacy Notice](https://www.klaviyo.com/legal/privacy/privacy-notice).
