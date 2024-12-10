@@ -129,11 +129,11 @@ Speedify is the only app that combines all of your Internet connections to keep 
 Upcoming Events
 ---------------
 
-Dec 4
+Dec 11
 
 10:00 am - 11:00 am EST
 
-### [12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions](https://speedify.com/event/12-4-10am-est-routers-that-can-bond-wifi-5g-starlink-ask-the-ceo-your-tech-questions/ "12/4 @ 10am EST – Routers that can BOND Wifi, 5G, Starlink | Ask the CEO your tech questions")
+### [12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions](https://speedify.com/event/12-11-10am-est-how-does-speedify-work-with-bad-packet-loss-ask-the-ceo-your-tech-questions/ "12/11 @ 10am EST – How does Speedify work with BAD packet loss? | Ask the CEO your tech questions")
 
 [View Calendar](https://speedify.com/calendar/ "View more events.")
 
@@ -199,7 +199,3 @@ Follow us!
 * [Help](https://speedify.com/help/)
 * [Sign In](https://my.speedify.com/)
 * [Download](https://speedify.com/download/)
-
-                          
-
-This website uses cookies. To learn more, visit our [Cookie Policy](https://speedify.com/cookie-policy)[Ok](#)
