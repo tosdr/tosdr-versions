@@ -269,7 +269,7 @@ Agree
 * [_Add post form top_](https://www.boredpanda.com/add-new-post/ "Add post")
 * [Log in](javascript:void(0);)
 
-* [Featured](https://www.boredpanda.com/)
+* [Home](https://www.boredpanda.com/)
 * [Trending](https://www.boredpanda.com/?show=trending)
 * [Latest](https://www.boredpanda.com/?show=recent)
 * [Newsletter](https://www.boredpanda.com/bored-panda-newsletter/)
