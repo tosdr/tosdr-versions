@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a014f3b4-4b3a-4b48-afd1-77ded5d4af99/20241210T000236/a014f3b4-4b3a-4b48-afd1-77ded5d4af99_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a014f3b4-4b3a-4b48-afd1-77ded5d4af99/20241210T000236/a014f3b4-4b3a-4b48-afd1-77ded5d4af99_360x203.jpg)](https://www.wqad.com/article/entertainment/places/ice-rink-bettendorf-the-landing-opening-date/526-170ea353-de96-46af-959a-ba2c26b65add)
+    *  [![](https://media.tegna-media.com/assets/KARE/images/c7b0edcc-0bc4-4731-8526-1c2b8d85656d/20241127T225921/c7b0edcc-0bc4-4731-8526-1c2b8d85656d_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/c7b0edcc-0bc4-4731-8526-1c2b8d85656d/20241127T225921/c7b0edcc-0bc4-4731-8526-1c2b8d85656d_360x203.jpg)](https://www.wqad.com/article/news/local/land-of-10000-stories/kids-way-to-school-have-unique-way-connecting-with-great-grandma/89-c9963ae4-3068-466b-bffe-1c1e5f8e7a1b)
         
-        #### [Bettendorf's new permanent ice rink set to open to the public](https://www.wqad.com/article/entertainment/places/ice-rink-bettendorf-the-landing-opening-date/526-170ea353-de96-46af-959a-ba2c26b65add)
+        #### [Kids on their way to school have unique way of connecting with their great-grandma](https://www.wqad.com/article/news/local/land-of-10000-stories/kids-way-to-school-have-unique-way-connecting-with-great-grandma/89-c9963ae4-3068-466b-bffe-1c1e5f8e7a1b)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/b12c8618-39f0-461a-9e3d-9fc662e5ab0f/b12c8618-39f0-461a-9e3d-9fc662e5ab0f_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/acf56181-ffc0-46d9-9b99-973665e96d29/20241210T045251/acf56181-ffc0-46d9-9b99-973665e96d29_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/acf56181-ffc0-46d9-9b99-973665e96d29/20241210T045251/acf56181-ffc0-46d9-9b99-973665e96d29_360x203.jpg)](https://www.wqad.com/article/news/local/dels-metal-rock-island-junk-yard-rock-island-city-council-vote/526-df689b70-6823-41e5-9da7-98767700963e)
         
-        #### [3 men killed after boat capsizes on Mississippi River near Bellevue, Iowa DNR report says](https://www.wqad.com/article/news/local/public-safety/boat-capsizes-mississippi-river-iowa-bellevue-jackson-county/526-a25e9a40-fa73-42b1-9b8e-de9e55e4ac36)
+        #### [Rock Island City Council says Del's Metal cannot continue junkyard operations on separate property](https://www.wqad.com/article/news/local/dels-metal-rock-island-junk-yard-rock-island-city-council-vote/526-df689b70-6823-41e5-9da7-98767700963e)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-36°
+28°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
