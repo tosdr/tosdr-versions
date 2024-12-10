@@ -18,90 +18,68 @@ FOX SCORES
     
 * [Men's Test
     
-    RSA won by 109 runs
+    14/12 9:00 AEST
     
     |     |     |
     | --- | --- |
-    | RSA | 358 & 317 |
-    | SRI | 328 & 238 |
+    | NZL | –   |
+    | ENG | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250702)
-* [Sheffield Shield
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250803)
+* [Men's Test
     
-    NSW won by inns & 68 runs
-    
-    |     |     |
-    | --- | --- |
-    | NSW | 9 /463d |
-    | WA  | 211 & 184 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250116)
-* [Sheffield Shield
-    
-    SA won by 2 runs
+    14/12 11:20 AEST
     
     |     |     |
     | --- | --- |
-    | TAS | 203 & 426 |
-    | SA  | 6 /398d & 9 /233d |
+    | AUS | –   |
+    | IND | –   |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250118)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
+* [Men's T20I
+    
+    11/12 3:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | PAK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251101)
 * NFL
     
 * [NFL
     
-    10/12 12:15 AEST
+    2nd Qtr
     
     |     |     |
     | --- | --- |
-    | DAL | –   |
-    | CIN | –   |
+    | DAL | 7   |
+    | CIN | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251413)
 * Basketball
     
 * [NBA
     
-    Full Time
+    Half Time
     
     |     |     |
     | --- | --- |
-    | LAL | 107 |
-    | POR | 98  |
+    | TOR | 61  |
+    | NY  | 60  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010333/box-score)
-* [NBA
-    
-    10/12 11:30 AEST
-    
-    |     |     |
-    | --- | --- |
-    | TOR | –   |
-    | NY  | –   |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010334)
-* Motorsport
-    
-* [Formula 1
-    
-    Complete
-    
-    |     |
-    | --- |
-    | Abu Dhabi Grand Prix |
-    |     |
-    
-    Race Centre](https://www.foxsports.com.au/motorsport/formula-one/race-centre?meetingid=598)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010334/box-score)
 * Football
     
 * [Premier League
     
-    10/12 7:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | WHU | –   |
-    | WOL | –   |
+    | WHU | 2   |
+    | WOL | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251507)
 
@@ -838,7 +816,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre)
+[Scores](https://www.foxsports.com.au/score-centre/live-now)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
