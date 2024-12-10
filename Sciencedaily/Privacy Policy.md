@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**December 9, 2024**
+**December 10, 2024**
 
 * * *
 
@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Pups of Powerful Meerkat Matriarchs Pay a Price](https://www.sciencedaily.com/releases/2024/12/241209162517.htm)
+* [Mars' Infamous Dust Storms](https://www.sciencedaily.com/releases/2024/12/241209123224.htm)
+* [Cracking the Code for Materials That Can Learn](https://www.sciencedaily.com/releases/2024/12/241209122941.htm)
+* [AI Cracks Complex Engineering Problems Fast](https://www.sciencedaily.com/releases/2024/12/241209122936.htm)
 * [Universe Expansion Study Challenges Cosmic ...](https://www.sciencedaily.com/releases/2024/12/241209122620.htm)
 * [Earliest Deep-Cave Ritual Compound](https://www.sciencedaily.com/releases/2024/12/241209162441.htm)
 * [Dogs Hit Button-Combos On Soundboards](https://www.sciencedaily.com/releases/2024/12/241209162449.htm)
 * [Existing EV Batteries May Last Up to 40% Longer](https://www.sciencedaily.com/releases/2024/12/241209122933.htm)
 * [Black Hole Debate Settled?](https://www.sciencedaily.com/releases/2024/12/241209122749.htm)
 * [New Ocean Predator from the Atacama Trench](https://www.sciencedaily.com/releases/2024/12/241209122644.htm)
-* [Smallest Main-Belt Asteroids Ever Detected](https://www.sciencedaily.com/releases/2024/12/241209122556.htm)
-* [Desert Ants Use Geomagnetic Field for Navigation](https://www.sciencedaily.com/releases/2024/12/241206111933.htm)
-* [Dark Chocolate: Lower Risk of Type 2 Diabetes](https://www.sciencedaily.com/releases/2024/12/241204183114.htm)
-* [X-Ray Vision: Seeing Through the Mystery](https://www.sciencedaily.com/releases/2024/12/241204183122.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
 [Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
+
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
 
 [Mathematical Modeling](https://www.sciencedaily.com/news/computers_math/mathematical_modeling/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
 [Environmental Policy](https://www.sciencedaily.com/news/earth_climate/environmental_policy/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
   
 
