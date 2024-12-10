@@ -97,7 +97,7 @@ Smokey Mountain](https://www.weber.com/US/en/charcoal/smokey-mountain/ "Smokey M
 
 [![](https://dw-images.weber.com/navigation/default/charcoal-grills/00_SmokeyJoe_207x165.png?auto=compress,format)
 
-Portable Charcoal](https://www.weber.com/US/en/charcoal/portable-charcoal/ "Portable Charcoal")
+Portable Charcoal NEW](https://www.weber.com/US/en/charcoal/portable-charcoal/ "Portable Charcoal")
 
 [![](https://dw-images.weber.com/navigation/default/charcoal-grills/00_Charcoal_Accessory_207x165.png?auto=compress,format)
 
