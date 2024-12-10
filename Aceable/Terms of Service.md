@@ -6,7 +6,7 @@ SALE ENDS IN
 
 16MIN
 
-32SEC
+21SEC
 
 [![Aceable Logo](https://xgrit-ecom.imgix.net/ace/Aceable-Logo1.svg?v=1712674234&auto=compress,format)](https://www.aceable.com/)
 
@@ -68,7 +68,7 @@ My Account ![](https://xgrit-ecom.imgix.net/ace/Drop-Down.svg?v=1712674559)
 
 [Help Center](https://support.aceabledriving.com/hc/en-us/)
 
-![Menu icon](https://xgrit-ecom.imgix.net/ace/Hamburger-Menu.svg?v=1712674404)
+![Open navigation menu](https://xgrit-ecom.imgix.net/ace/Hamburger-Menu.svg?v=1712674404)
 
 Terms and Conditions
 ====================
