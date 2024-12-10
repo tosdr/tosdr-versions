@@ -18,9 +18,7 @@ We ask you to provide your name and email address in order to create your accoun
   
 We also use local storage technology that provides similar functionality to cookies, but its contents are not transmitted across the Internet. Your browser settings allow you to control how local storage works on a global or website specific manner. Disabling local storage will interfere with some features of the Services.  
   
-We collect data about your use of the Services, including the frequency and times at which you access them. As you complete courses, we also record your answers to multiple choice and free response questions.  
-  
-You must be at least 13 years old to use the Services. We do not knowingly collect information from children under 13.
+We collect data about your use of the Services, including the frequency and times at which you access them. As you complete courses, we also record your answers to multiple choice and free response questions.
 
 ##### 3\. DATA SECURITY
 
@@ -42,7 +40,7 @@ With the exceptions noted below for minors and students participating through th
   
 If you are a student who signed up for a course using an invite code provided by your school/district, certain information about your use of the Services is automatically shared with your teacher and/or school administrator, including your name and your progress through the course. Other personally identifying information and your answers to questions within the course are not automatically shared. However, the data we collect from students is the property of their schools/districts. Any data we hold will be made available to your school/district upon their request.  
   
-If you are a minor, your guardian can request access to your data. If you are participating through your school/district, this request must be made through the school/district. Otherwise, your guardian can make this request by contacting cmhp@psych.ucsb.edu  
+If you are a minor, your guardian can request access to your data. If you are participating through your school/district, this request must be made through the school/district. Otherwise, your guardian can make this request by contacting support@findingfocus.app  
   
 Aggregated, anonymized data is periodically transmitted to external services to help us improve the Services.  
   
@@ -54,14 +52,14 @@ You may request to have your account and data deleted, but how you make that req
   
 If you are participating through your school: Requests to delete your account and data must be made through the school/district. Schools/districts may also elect to delete student accounts and data.  
   
-If you are not participating through your school: You may request to have your account and data deleted directly. Parents of minors may also request that their child’s account and data be deleted. Please send requests to cmhp@psych.ucsb.edu
+If you are not participating through your school: You may request to have your account and data deleted directly. Parents of minors may also request that their child’s account and data be deleted. Please send requests to support@findingfocus.app
 
 ##### 7\. CHANGES TO THE PRIVACY POLICY
 
-We may change this Privacy Policy periodically. If we do, we will email you with notice of the changes. At the bottom of the Privacy Policy, we will also indicate the date these terms were last revised. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been posted. If you have questions about this privacy policy, please contact cmhp@psych.ucsb.edu.
+We may change this Privacy Policy periodically. If we do, we will email you with notice of the changes. At the bottom of the Privacy Policy, we will also indicate the date these terms were last revised. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. You are bound by any changes to the Privacy Policy when you use the Services after such changes have been posted. If you have questions about this privacy policy, please contact support@findingfocus.app.
 
   
-Last revised on 3/7/2019
+Last revised on 12/1/24
 
 Quick Links
 
