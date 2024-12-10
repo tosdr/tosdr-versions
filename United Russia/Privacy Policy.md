@@ -305,15 +305,15 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ЦифроваяРоссия](https://er.ru/activity/news?tags%5B0%5D=111610) [#Минцифра](https://er.ru/activity/news?tags%5B0%5D=145375) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 18:12
+10.12.24
 
 [![По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://cdn.er.ru/media/news/December2024/U9iR4hwVZnoKWIZuCmLT-small.jpg)](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
 
 [По инициативе «Единой России» Госдума поддержала введение уголовной ответственности за повторную продажу табака и вейпов детям](https://er.ru/activity/news/po-iniciative-edinoj-rossii-gosduma-podderzhala-vvedenie-ugolovnoj-otvetstvennosti-za-povtornuyu-prodazhu-tabaka-i-vejpov-detyam)
 
-[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999)
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#несовершеннолетние](https://er.ru/activity/news?tags%5B0%5D=4501) [#вейпы](https://er.ru/activity/news?tags%5B0%5D=96999) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016)
 
-Сегодня 16:50
+10.12.24
 
 [![«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://cdn.er.ru/media/news/December2024/6870Ng5FS8ddnui0aTYy-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
 
@@ -321,15 +321,15 @@
 
 [#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#цифроваяроссия](https://er.ru/activity/news?tags%5B0%5D=1092858) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#журналистика](https://er.ru/activity/news?tags%5B0%5D=4615)
 
-Сегодня 15:30
+10.12.24
 
 [![«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://cdn.er.ru/media/news/December2024/zmm6mcq4PaNPUta7PvOs-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
 
 [«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
 
-[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#ветераныбоевыхдействий](https://er.ru/activity/news?tags%5B0%5D=128160) [#статус](https://er.ru/activity/news?tags%5B0%5D=7092) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838)
+[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#ветераныбоевыхдействий](https://er.ru/activity/news?tags%5B0%5D=128160) [#статус](https://er.ru/activity/news?tags%5B0%5D=7092) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
 
-Сегодня 15:00
+10.12.24
 
 [![Госдума приняла закон «Единой России» о продлении механизма «зонтичных» поручительств для МСП](https://cdn.er.ru/media/news/December2024/UJTqNUiprJWLtBbZzsmx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-prodlenii-mehanizma-zontichnyh-poruchitelstv-dlya-msp)
 
@@ -337,7 +337,7 @@
 
 [#поручительства](https://er.ru/activity/news?tags%5B0%5D=51985) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
 
-Сегодня 14:35
+10.12.24
 
 [![Александр Сидякин: «Единая Россия» включит участников СВО в руководящие органы партии](https://cdn.er.ru/media/news/December2024/kHMB8HQv1gLCdhuazNK1-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-rukovodyashie-organy-partii)
 
@@ -345,7 +345,7 @@
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
 
-Сегодня 13:50
+10.12.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
