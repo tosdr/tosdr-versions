@@ -49,6 +49,7 @@ Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
 * [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
@@ -427,6 +428,7 @@ Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
 * [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
@@ -555,6 +557,7 @@ Reading documentation
 
 * [Offline formats (PDF, ePub, HTML)](https://docs.readthedocs.io/en/stable/downloadable-documentation.html)
 * [DocDiff](https://docs.readthedocs.io/en/stable/doc-diff.html)
+* [Link previews](https://docs.readthedocs.io/en/stable/link-previews.html)
 * [How to embed content from your documentation](https://docs.readthedocs.io/en/stable/guides/embedding-content.html)
 * [Server side search](https://docs.readthedocs.io/en/stable/server-side-search/index.html)
 * [Search query syntax](https://docs.readthedocs.io/en/stable/server-side-search/syntax.html)
