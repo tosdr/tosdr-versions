@@ -95,11 +95,9 @@ Discover CNBCTV18
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
-* [NewStartup Gurukul](https://hindi.cnbctv18.com/startup-gurukul?utm_source=cnbc_hp&utm_medium=website_redirect&utm_campaign=startup_gurukul "Startup Gurukul")
 * [Latest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 * [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
-* [NewIBLA 2024](https://www.cnbctv18.com/ibla/ "IBLA 2024")
 
 Nifty SensexMCX
 
@@ -253,12 +251,6 @@ This User Agreement and the license rights granted hereunder shall remain in ful
 The terms of this agreement are exclusively based on and subject to Indian law. You hereby consent to the exclusive jurisdiction and venue of courts in Mumbai, India in all disputes arising out of or relating to the use of this website. Use of this website is unauthorized in any jurisdiction that does not give effect to all provisions of these terms and conditions, including without limitation this paragraph.
 
 ### Copyright TV18 Broadcast Ltd. All rights reserved
-
-TV ShowsDigital Exclusives
-
-0
-
-[View All→](https://www.cnbctv18.com/shows/ "shows")
 
 Most Read
 ---------
