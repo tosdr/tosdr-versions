@@ -142,6 +142,14 @@ Discover the hottest items flying off the shelves.
     
     $62.99 $31.99
     
+* Sale -55% [![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-1.png?v=1722601614&width=465)![Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](//savvysmartdeals.com/cdn/shop/files/slide-3.png?v=1722601614&width=465)](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
+    
+    ### [Hajimari Flying Nova Ball - Fun, Skill-Building, Portable Flight](https://www.rangextd.com/products/hajimari-by-tesimai-g2)
+    
+    Next day delivery
+    
+    $110.99 $49.99
+    
 * Sale -52% [![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-1.jpg?v=1722601451&width=465)![MiSole Compression Socks - Support and Recovery](//savvysmartdeals.com/cdn/shop/files/slide-2.jpg?v=1722601451&width=465)](https://www.rangextd.com/products/compression-socks)
     
     ### [MiSole Compression Socks - Support and Recovery](https://www.rangextd.com/products/compression-socks)
