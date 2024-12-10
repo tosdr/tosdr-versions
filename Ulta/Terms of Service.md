@@ -131,9 +131,9 @@ Free standard shipping on any $35 purchase
         Featured in Makeup & Nails
         --------------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=makeup)
+        * [Makeup & Nails on Sale](https://www.ulta.com/promotion/sale?category=makeup)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=makeup)
+        * [New in Makeup & Nails](https://www.ulta.com/shop/new-beauty-products?category=makeup)
             
         * [Luxury Makeup](https://www.ulta.com/shop/luxury-at-ulta-beauty/makeup)
             
@@ -143,17 +143,13 @@ Free standard shipping on any $35 purchase
             
         * [Travel Size & Mini](https://www.ulta.com/shop/makeup/travel-size-makeup)
             
-        * [Foundation Shade Finder](https://www.ulta.com/discover/shade-finder)
-            
         * [Foundation Quiz](https://www.ulta.com/vba/foundation/)
             
         * [Mascara & Lash Quiz](https://www.ulta.com/vba/mascara/)
             
-        * [Virtual Try-On](https://www.ulta.com/discover/glamlab)
-            
-        * [Makeup Obsession](https://www.ulta.com/discover/makeup/best-lip-products-guide)
-            
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
+            
+        * [Makeup Guides](https://www.ulta.com/discover/makeup)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/award-winners-best-sellers-set-pimprod2047894?sku=2629605)
@@ -250,11 +246,13 @@ Free standard shipping on any $35 purchase
         Featured in Skin Care
         ---------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=skin-care)
+        * [Skin Care on Sale](https://www.ulta.com/promotion/sale?category=skin-care)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
+        * [New in Skin Care](https://www.ulta.com/shop/new-beauty-products?category=skin-care)
             
         * [Luxury Skin Care](https://www.ulta.com/shop/luxury-at-ulta-beauty/skin-care)
+            
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
             
         * [Dermatologist Recommended](https://www.ulta.com/shop/skin-care/dermatologist-recommended)
             
@@ -266,13 +264,9 @@ Free standard shipping on any $35 purchase
             
         * [Skin Care Quiz](https://www.ulta.com/vba/skincare/)
             
-        * [Skin Health Guide](https://www.ulta.com/discover/beauty-reads)
-            
-        * [The Wellness Shop](https://www.ulta.com/discover/wellness)
-            
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=skin-care)
             
-        * [Skinfatuation](https://www.ulta.com/discover/skin/best-face-serums)
+        * [Skin Care Guides](https://www.ulta.com/discover/skin)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/limited-edition-glass-skin-brilliance-kit-pimprod2046949?sku=2630181)
@@ -375,9 +369,9 @@ Free standard shipping on any $35 purchase
         Featured in Hair Care
         ---------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=hair)
+        * [Hair Care on Sale](https://www.ulta.com/promotion/sale?category=hair)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=hair)
+        * [New in Hair Care](https://www.ulta.com/shop/new-beauty-products?category=hair)
             
         * [Hair Care Gifts](https://www.ulta.com/shop/gifts/by-category/hair-gifts)
             
@@ -394,6 +388,8 @@ Free standard shipping on any $35 purchase
         * [Hair Tools Guide](https://www.ulta.com/discover/hair-tools)
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
+            
+        * [Hair Care Guides](https://www.ulta.com/discover/hair)
             
         
         [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/you-had-me-at-blowout-kit-pimprod2047686?sku=2630072)
@@ -443,9 +439,9 @@ Free standard shipping on any $35 purchase
         Featured in Fragrance
         ---------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=fragrance)
+        * [Fragrance on Sale](https://www.ulta.com/promotion/sale?category=fragrance)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
+        * [New in Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
             
         * [Luxury Fragrance](https://www.ulta.com/shop/luxury-at-ulta-beauty/fragrance)
             
@@ -548,17 +544,17 @@ Free standard shipping on any $35 purchase
         Featured in Body Care
         ---------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=body-care)
+        * [Body Care on Sale](https://www.ulta.com/promotion/sale?category=body-care)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=body-care)
+        * [New in Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
+            
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
             
         * [Ulta Beauty Collection](https://www.ulta.com/brand/ulta-beauty-collection?category=body-care)
             
         * [Body Care Gifts](https://www.ulta.com/shop/gifts/by-category/body-care-gifts)
             
         * [Travel Size & Mini](https://www.ulta.com/shop/body-care/travel-size-body-care)
-            
-        * [The Wellness Shop](https://www.ulta.com/shop/wellness-shop)
             
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
@@ -602,6 +598,16 @@ Free standard shipping on any $35 purchase
         * [### Down There Care](https://www.ulta.com/shop/wellness-shop/down-there-care)
             
         * [### Intimate Wellness](https://www.ulta.com/shop/wellness-shop/intimate-wellness)
+            
+        
+        Featured in Wellness
+        --------------------
+        
+        * [Wellness on Sale](https://www.ulta.com/promotion/sale?category=wellness-shop)
+            
+        * [New in Wellness](https://www.ulta.com/shop/new-beauty-products?category=wellness-shop)
+            
+        * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
             
         
     * Tools & Brushes
@@ -670,9 +676,9 @@ Free standard shipping on any $35 purchase
         Featured in Tools & Brushes
         ---------------------------
         
-        * [Sale](https://www.ulta.com/promotion/sale?category=tools-brushes)
+        * [Tools & Brushes on Sale](https://www.ulta.com/promotion/sale?category=tools-brushes)
             
-        * [New Arrivals](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
+        * [New in Tools & Brushes](https://www.ulta.com/shop/new-beauty-products?category=tools-brushes)
             
         * [Tool & Brush Gifts](https://www.ulta.com/shop/gifts/by-category/tool-brush-gifts)
             
@@ -694,6 +700,8 @@ Free standard shipping on any $35 purchase
     ---------
     
     * [Holiday Gift Guide](https://www.ulta.com/discover/lifestyle/best-holiday-gifts)
+        
+    * [HSA/FSA Eligible](https://www.ulta.com/discover/skin/fsa-eligible-skincare-beauty)
         
     * New Arrivals
         
@@ -717,8 +725,6 @@ Free standard shipping on any $35 purchase
             
         * [### Gifts](https://www.ulta.com/shop/new-beauty-products?category=gifts)
             
-        
-    * [Now Trending](https://www.ulta.com/featured/now_trending)
         
     * Travel Size & Mini
         
@@ -880,6 +886,8 @@ Free standard shipping on any $35 purchase
     * [Fragrance](https://www.ulta.com/shop/new-beauty-products?category=fragrance)
         
     * [Body Care](https://www.ulta.com/shop/new-beauty-products?category=body-care)
+        
+    * [Wellness](https://www.ulta.com/shop/new-beauty-products?category=wellness-shop)
         
     * [Men](https://www.ulta.com/shop/new-beauty-products?category=men)
         
