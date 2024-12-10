@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Background: Vista Ridge High School, Cedar Park, Texas (Google Maps). Inset: Aubrey Vanlandingham (Williamson County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Aubrey-Vanlandingham-432x243.jpg)](https://lawandcrime.com/crime/beloved-show-goat-willie-died-after-being-force-fed-poison-by-teen-who-said-she-tried-to-kill-the-animal-twice-police/)
+1. [![Mariah Thomas](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Mariah-Thomas-baby-1-432x243.jpg)](https://lawandcrime.com/crime/i-accidentally-put-her-in-the-oven-mom-placed-infant-daughter-in-scorching-kitchen-appliance-instead-of-crib-cops-say/)
     
-    ### [Beloved show goat 'Willie' died after being force-fed poison by teen who said she tried to kill the animal twice: Police](https://lawandcrime.com/crime/beloved-show-goat-willie-died-after-being-force-fed-poison-by-teen-who-said-she-tried-to-kill-the-animal-twice-police/)
+    ### ['I accidentally put her in the oven': Mom placed infant daughter in scorching kitchen appliance instead of crib, cops say](https://lawandcrime.com/crime/i-accidentally-put-her-in-the-oven-mom-placed-infant-daughter-in-scorching-kitchen-appliance-instead-of-crib-cops-say/)
     
-2. [![Background: Photos released by the NYPD showing UnitedHealthcare CEO Brian Thompson's killer (New York Police Department). Inset: Brian Thompson (UnitedHealth Group).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Untitled-design-5-432x243.jpg)](https://lawandcrime.com/crime/ill-will-toward-corporate-america-suspect-arrested-in-murder-of-unitedhealthcare-ceo-busted-with-ghost-gun-silencer-and-manifesto-criticizing-health-care-companies/)
+2. [![Justices Samuel Alito, on the left; Center: Clarence Thomas, in the center; Neil Gorsuch, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Alito-Thomas-Gorsuch-432x243.jpg)](https://lawandcrime.com/second-amendment/spirit-of-aloha-thomas-alito-clash-with-hawaii-over-2nd-amendment-ruling-insistence-that-constitution-is-not-a-suicide-pact/)
     
-    ### ['Ill will toward corporate America': Suspect arrested in murder of UnitedHealthcare CEO busted with 'ghost' gun, silencer and manifesto criticizing health care companies](https://lawandcrime.com/crime/ill-will-toward-corporate-america-suspect-arrested-in-murder-of-unitedhealthcare-ceo-busted-with-ghost-gun-silencer-and-manifesto-criticizing-health-care-companies/)
+    ### ['Spirit of Aloha': Thomas, Alito clash with Hawaii over 2nd Amendment ruling, insistence that Constitution is not a 'suicide pact'](https://lawandcrime.com/second-amendment/spirit-of-aloha-thomas-alito-clash-with-hawaii-over-2nd-amendment-ruling-insistence-that-constitution-is-not-a-suicide-pact/)
     
-3. [![Left: Judge Juan Merchan poses for a picture in his chambers in New York, Thursday, March 14, 2024. Merchan is presiding over Donald Trump’s hush money case in New York (AP Photo/Seth Wenig). Right: FILE - Former President Donald Trump is escorted to a courtroom, April 4, 2023, in New York (AP Photo/Mary Altaffer, File).](https://am21.mediaite.com/lc/cnt/uploads/2024/04/Merchan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/u-s-supreme-court-rejects-bid-to-lift-gag-order-on-donald-trump-in-new-york-hush-money-case/)
+3. [![Joseph David Voigt (Orange County Jail).](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Joseph-David-Voigt-432x243.png)](https://lawandcrime.com/crime/adult-son-who-spent-majority-of-his-time-playing-video-games-killed-dad-for-telling-him-to-get-a-job-deputies/)
     
-    ### [U.S. Supreme Court rejects bid to lift gag order on Donald Trump in New York hush-money case](https://lawandcrime.com/high-profile/u-s-supreme-court-rejects-bid-to-lift-gag-order-on-donald-trump-in-new-york-hush-money-case/)
+    ### [Adult son who spent 'majority of his time playing video games' killed dad for telling him to get a job: Deputies](https://lawandcrime.com/crime/adult-son-who-spent-majority-of-his-time-playing-video-games-killed-dad-for-telling-him-to-get-a-job-deputies/)
     
-4. [![Daniel Penny arrives at the court after break in New York, Tuesday, Nov. 12, 2024. (AP Photo/Yuki Iwamura)](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Daniel-Penny-432x243.jpg)](https://lawandcrime.com/high-profile/great-act-of-justice-giuliani-desantis-cheer-as-daniel-penny-becomes-right-wing-darling-after-acquittal-in-jordan-neely-subway-chokehold-death/)
+4. [![Left: Jan. 6 defendant Mark Ibrahim (Department of Justice). Right: Donald Trump (NBC News/YouTube).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/IbrahimTrump-432x243.jpg)](https://lawandcrime.com/high-profile/dea-agent-accused-of-flashing-service-weapon-and-badge-while-raiding-u-s-capitol-on-jan-6-tries-and-fails-to-use-trumps-meet-the-press-pardon-comments-to-delay-trial/)
     
-    ### ['Great act of justice': Giuliani, DeSantis cheer as Daniel Penny becomes right-wing darling after acquittal in Jordan Neely subway chokehold death](https://lawandcrime.com/high-profile/great-act-of-justice-giuliani-desantis-cheer-as-daniel-penny-becomes-right-wing-darling-after-acquittal-in-jordan-neely-subway-chokehold-death/)
+    ### [DEA agent accused of flashing service weapon and badge while raiding U.S. Capitol on Jan. 6 tries — and fails — to use Trump's 'Meet the Press' pardon comments to delay trial](https://lawandcrime.com/high-profile/dea-agent-accused-of-flashing-service-weapon-and-badge-while-raiding-u-s-capitol-on-jan-6-tries-and-fails-to-use-trumps-meet-the-press-pardon-comments-to-delay-trial/)
     
-5. [![Justices Samuel Alito, on the left; Center: Clarence Thomas, in the center; Neil Gorsuch, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Alito-Thomas-Gorsuch-432x243.jpg)](https://lawandcrime.com/high-profile/racial-balancing-by-another-name-alito-thomas-gorsuch-slam-scotus-majority-for-rejecting-challenge-to-boston-schools-admissions-policy/)
+5. [![Inset: Sevance Brewer (Boone County Sheriff's Office). Background: Authorities responding to the scene where he killed Brittany Toalson (KRCG).](https://am21.mediaite.com/lc/cnt/uploads/2024/12/lkajfaefhqfn-432x243.jpg)](https://lawandcrime.com/crime/he-looked-like-an-idiot-up-there-man-fatally-shot-pregnant-girlfriend-in-front-of-her-2-young-kids-while-arguing-over-gun/)
     
-    ### ['Racial balancing by another name': Alito, Thomas, Gorsuch slam SCOTUS majority for rejecting challenge to Boston schools' admissions policy](https://lawandcrime.com/high-profile/racial-balancing-by-another-name-alito-thomas-gorsuch-slam-scotus-majority-for-rejecting-challenge-to-boston-schools-admissions-policy/)
+    ### ['He looked like an idiot up there': Man fatally shot pregnant girlfriend in front of her 2 young kids while arguing over gun](https://lawandcrime.com/crime/he-looked-like-an-idiot-up-there-man-fatally-shot-pregnant-girlfriend-in-front-of-her-2-young-kids-while-arguing-over-gun/)
     
 
 [](http://eepurl.com/c89Jdb)
