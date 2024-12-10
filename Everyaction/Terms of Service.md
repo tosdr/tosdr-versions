@@ -30,6 +30,7 @@
                 
                 [Corporate Social Responsibility](https://www.everyaction.com/product/corporate-social-responsibility)
                 
+                * [Strategic Philanthropy](https://www.everyaction.com/product/strategic-philanthropy)
                 * [Employee Engagement](https://www.everyaction.com/product/employee-giving-software)
                 * [Grants Management](https://www.everyaction.com/product/grants-management-software)
                 
