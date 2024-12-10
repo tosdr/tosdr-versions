@@ -1,4 +1,4 @@
-**Enrollment is now open for the 2024-25 school year. [Enroll Now](https://www.connectionsacademy.com/enroll/)**
+**Want a fresh start? Now accepting transfer students. [Enroll Now](https://www.connectionsacademy.com/enroll/)**
 
 [Skip Navigation](#skip-navigation-target)
 
