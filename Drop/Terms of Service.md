@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop BMR1 V2 Nearfield Monitors
+[12 Days of Christmas
 
-Second-gen speakers for any setup.
+Unwrap a daily coupon for 12 days straight.
 
-SHOP NOW
+REVEAL A GIFT
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-bmr1-v2-nearfield-monitors)
+_keyboard\_arrow\_right_](http://www.drop.com/featured/12-days-of-christmas)
 
 Free Standard Shipping in the US on orders over $99
 
