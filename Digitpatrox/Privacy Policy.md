@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, December 9 2024
+Tuesday, December 10 2024
 
 Latest
 
-* [The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
-* [What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
-* [Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
-* [Holiday Babyproofing Tips Experts Want Parents to Know](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
-* [There’s a New Way to Reset Your Chromebook](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
-* [AI tools are growing in popularity at enterprises, but not all of them are approved by employers – and that’s a serious problem for IT and security leaders](https://digitpatrox.com/ai-tools-are-growing-in-popularity-at-enterprises-but-not-all-of-them-are-approved-by-employers-and-thats-a-serious-problem-for-it-and-security-leaders/)
-* [How to Hide Zero Values in Excel Charts](https://digitpatrox.com/how-to-hide-zero-values-in-excel-charts/)
-* [The new Llama 3.3 70B model has just dropped — here’s why it’s a big deal](https://digitpatrox.com/the-new-llama-3-3-70b-model-has-just-dropped-heres-why-its-a-big-deal/)
-* [Cybercrime gang arrested after turning Airbnbs into fraud centers](https://digitpatrox.com/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/)
-* [Xiaomi’s next EV will be the YU7, coming summer 2025](https://digitpatrox.com/xiaomis-next-ev-will-be-the-yu7-coming-summer-2025/)
+* [Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
+* [Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
+* [You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
+* [Florida insurance industry attorney notifies 10K+ people of data breach](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
+* [Most and Least Loved Car Brands](https://digitpatrox.com/most-and-least-loved-car-brands/)
+* [5 Reasons I’m Going Back to Apple Music From Spotify](https://digitpatrox.com/5-reasons-im-going-back-to-apple-music-from-spotify/)
+* [SonicWall and CrowdStrike team up to launch new MDR offering](https://digitpatrox.com/sonicwall-and-crowdstrike-team-up-to-launch-new-mdr-offering/)
+* [Prepare for 2025 with This CompTIA Training Bundle for $50](https://digitpatrox.com/prepare-for-2025-with-this-comptia-training-bundle-for-50/)
+* [Girona vs Liverpool live stream: How to watch Champions League match online](https://digitpatrox.com/girona-vs-liverpool-live-stream-how-to-watch-champions-league-match-online/)
+* [Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://digitpatrox.com/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JEP6ANYRZG01FTFJ6AS4RCV6/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
+* [![](https://cdn.mos.cms.futurecdn.net/mJfYyZvh8k5gkrArFsfHiX-1200-80.jpg)](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
     
-    [The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
+    [Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
     
-    19 minutes ago
+    3 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/What-can-somebody-do-with-your-IP-address_.jpg)](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619769-0-29699000-1733782206-Screenshot-2024-12-09-at-09.14.07-1.png?w=1024)](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
     
-    [What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
+    [Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
     
-    24 minutes ago
+    25 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/12/kb5046733-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
+* [![](https://lifehacker.com/imagery/articles/01JEPBES3NK5BXTQ5V36G4VB9S/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
     
-    [Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
+    [You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
     
-    26 minutes ago
+    53 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733238823/prod/content/dam/CRO-Images-2024/Babies/CR-Babies-InlineHero-Holiday-Babyproofing-Tips-Experts-Want-Parents-To-Know-1224)](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/12/Florida-insurance-industry-attorney-notifies-10K-people-of-data-breach.jpg)](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
     
-    [Holiday Babyproofing Tips Experts Want Parents to Know](https://digitpatrox.com/holiday-babyproofing-tips-experts-want-parents-to-know/)
+    [Florida insurance industry attorney notifies 10K+ people of data breach](https://digitpatrox.com/florida-insurance-industry-attorney-notifies-10k-people-of-data-breach/)
     
-    29 minutes ago
+    59 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/how-to-geek-open-on-the-lenovo-chromebook-duet-11-inch-5_54048998247_o.jpg)](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731946985/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Owner-Satisfaction-By-Brand-Update-1124)](https://digitpatrox.com/most-and-least-loved-car-brands/)
     
-    [There’s a New Way to Reset Your Chromebook](https://digitpatrox.com/theres-a-new-way-to-reset-your-chromebook/)
+    [Most and Least Loved Car Brands](https://digitpatrox.com/most-and-least-loved-car-brands/)
     
-    30 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [19 minutes ago
+* [3 minutes ago
     
-    ### The Bose SoundLink Micro Is the Lowest Price It’s Ever Been](https://digitpatrox.com/the-bose-soundlink-micro-is-the-lowest-price-its-ever-been/)
-* [24 minutes ago
+    ### Termite ransomware gang claims responsibility for Blue Yonder cyber attack](https://digitpatrox.com/termite-ransomware-gang-claims-responsibility-for-blue-yonder-cyber-attack/)
+* [25 minutes ago
     
-    ### What can somebody do with your IP address?](https://digitpatrox.com/what-can-somebody-do-with-your-ip-address/)
-* [26 minutes ago
+    ### Microsoft’s Copilot Vision assistant can now browse the web with you – Computerworld](https://digitpatrox.com/microsofts-copilot-vision-assistant-can-now-browse-the-web-with-you-computerworld/)
+* [53 minutes ago
     
-    ### Windows 11 makes tabs on File Explorer more useful with build 22635.4580 (beta)](https://digitpatrox.com/windows-11-makes-tabs-on-file-explorer-more-useful-with-build-22635-4580-beta/)
+    ### You Can Now Try Out Sora, OpenAI’s AI Video Generator](https://digitpatrox.com/you-can-now-try-out-sora-openais-ai-video-generator/)
 
 Most Popular Topics
 
-* [October 31, 2024
+* [August 22, 2024
     
-    ### How to Check for Viruses on Windows 10](https://digitpatrox.com/how-to-check-for-viruses-on-windows-10/)
-* [1 week ago
+    ### Best Firm Mattresses of 2024](https://digitpatrox.com/best-firm-mattresses-of-2024/)
+* [September 26, 2024
     
-    ### the conversation that never ends – Computerworld](https://digitpatrox.com/the-conversation-that-never-ends-computerworld/)
-* [October 19, 2024
+    ### SteelSeries is launching $160 gaming earbuds for your Xbox, PlayStation, or PC](https://digitpatrox.com/steelseries-is-launching-160-gaming-earbuds-for-your-xbox-playstation-or-pc/)
+* [2 weeks ago
     
-    ### Amazon’s early Black Friday deals are up to 65% off — here’s my favorite power banks and chargers](https://digitpatrox.com/amazons-early-black-friday-deals-are-up-to-65-off-heres-my-favorite-power-banks-and-chargers/)
+    ### Meredith’s Training Diaries: Make Your Taper Work for You](https://digitpatrox.com/merediths-training-diaries-make-your-taper-work-for-you/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### How to Hide Zero Values in Excel Charts](https://digitpatrox.com/how-to-hide-zero-values-in-excel-charts/)
-* [1 hour ago
-    
-    ### The new Llama 3.3 70B model has just dropped — here’s why it’s a big deal](https://digitpatrox.com/the-new-llama-3-3-70b-model-has-just-dropped-heres-why-its-a-big-deal/)
 * [2 hours ago
     
-    ### Cybercrime gang arrested after turning Airbnbs into fraud centers](https://digitpatrox.com/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/)
+    ### SonicWall and CrowdStrike team up to launch new MDR offering](https://digitpatrox.com/sonicwall-and-crowdstrike-team-up-to-launch-new-mdr-offering/)
+* [2 hours ago
+    
+    ### Prepare for 2025 with This CompTIA Training Bundle for $50](https://digitpatrox.com/prepare-for-2025-with-this-comptia-training-bundle-for-50/)
+* [2 hours ago
+    
+    ### Girona vs Liverpool live stream: How to watch Champions League match online](https://digitpatrox.com/girona-vs-liverpool-live-stream-how-to-watch-champions-league-match-online/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
