@@ -88,13 +88,13 @@ Most Read
     
     1. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
     
-2. 2. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
+2. 2. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
 3. 3. [Teen creates memecoin, dumps it, earns $50,000](https://arstechnica.com/tech-policy/2024/12/teen-creates-memecoin-dumps-it-and-earns-50000/)
     
-4. 4. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
+4. 4. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
     
-5. 5. [Your AI clone could target your family, but there’s a simple defense](https://arstechnica.com/ai/2024/12/your-ai-clone-could-target-your-family-but-theres-a-simple-defense/)
+5. 5. [Ten months after first tease, OpenAI launches Sora video generation publicly](https://arstechnica.com/ai/2024/12/ten-months-after-first-tease-openai-launches-sora-video-generation-publicly/)
     
 
 Customize
