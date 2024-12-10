@@ -611,27 +611,27 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 Most recent
 -----------
 
-[09-12-2024
+[10-12-2024
 
-Fico proposes ‘COVID amnesty’ and compensation for thousands of Slovaks](https://www.euractiv.com/section/health-consumers/news/ficos-proposes-covid-amnesty-and-compensation-for-thousands-of-slovaks/)[09-12-2024
+Blinken warns Islamic State will try to re-establish capabilities in Syria](https://www.euractiv.com/section/global-europe/news/blinken-warns-islamic-state-will-try-to-re-establish-capabilities-in-syria/)[10-12-2024
 
-Regenerative agriculture, unleashing soil superpowers, reducing GHGs, boosting farm revenue](https://www.euractiv.com/section/agriculture-food/news/regenerative-agriculture-unleashing-soil-superpowers-reducing-ghgs-boosting-farm-revenue/)[09-12-2024
+Syria’s rebels work to form government, restore order after Assad ouster](https://www.euractiv.com/section/global-europe/news/syrias-rebels-work-to-form-government-restore-order-after-assad-ouster/)[10-12-2024
 
-Caught between two worlds, Central Asia’s delicate dance with China and Russia evolves](https://www.euractiv.com/section/economy-jobs/news/caught-between-two-worlds-central-asias-delicate-dance-with-china-and-russia-evolves/)[09-12-2024
+Czech Commissioner Síkela expects less ideology in new EU executive](https://www.euractiv.com/section/politics/news/the-capitals-czech-commissioner-sikela-expects-less-ideology-in-new-eu-executive/)[10-12-2024
 
-EU’s beauty sector growth threatened by regulation, limited R&D](https://www.euractiv.com/section/economy-jobs/news/eus-beauty-sector-growth-threatened-by-regulation-limited-rd/)[09-12-2024
+Romanian elections spark Bulgarian MPs to investigate Russian influence](https://www.euractiv.com/section/politics/news/romanian-elections-spark-bulgarian-mps-to-investigate-russian-influence/)[10-12-2024
 
-Driving to an automated future, mapping Europe’s connected vehicle market](https://www.euractiv.com/section/eet/news/driving-to-an-automated-future-mapping-europes-connected-vehicle-market/)[09-12-2024
+PiS-dominated Polish constitutional tribunal has a new head](https://www.euractiv.com/section/politics/news/pis-dominated-polish-constitutional-tribunal-has-a-new-head/)[10-12-2024
 
-EU and China seek influence expansion in vital Middle Corridor trade route](https://www.euractiv.com/section/economy-jobs/news/eu-and-china-seek-influence-expansion-in-vital-middle-corridor-trade-route/)[09-12-2024
+Lufthansa Technik to open a factory in Portugal](https://www.euractiv.com/section/politics/news/lufthansa-technik-to-open-a-factory-in-portugal/)[10-12-2024
 
-Unleashing cobalt’s potential for EU’s energy transition, and global competitiveness](https://www.euractiv.com/section/eet/news/unleashing-cobalts-potential-for-eus-energy-transition-and-global-competitiveness/)[09-12-2024
+Portugal to ban mobile phones in schools for years 1-6](https://www.euractiv.com/section/politics/news/portugal-to-ban-mobile-phones-in-schools-for-years-1-6/)[10-12-2024
 
-EU carbon border charge needs to be re-evaluated, says Polish climate secretary](https://www.euractiv.com/section/eet/news/eu-carbon-border-charge-needs-to-be-re-evaluated-says-polish-climate-secretary/)[09-12-2024
+Puigdemont threatens to torpedo 2025 budget as Sánchez can’t be trusted](https://www.euractiv.com/section/politics/news/puigdemont-threatens-to-torpedo-2025-budget-as-sanchez-cant-be-trusted/)[10-12-2024
 
-Ministers await details of Mercosur deal amid opposition from farmers](https://www.euractiv.com/section/agriculture-food/news/ministers-await-details-of-mercosur-deal-amid-opposition-from-farmers/)[09-12-2024
+Trump’s praise for Meloni doesn’t go unnoticed in Italy](https://www.euractiv.com/section/politics/news/trumps-praise-for-meloni-doesnt-go-unnoticed-in-italy/)[10-12-2024
 
-Chinese firms decry EU’s ‘over-emphasis’ on economic security](https://www.euractiv.com/section/economy-jobs/news/chinese-firms-decry-eus-over-emphasis-on-economic-security/)
+Eurogroup chief expresses ‘absolute confidence’ in resolution of French budget crisis](https://www.euractiv.com/section/economy-jobs/news/eurogroup-chief-expresses-absolute-confidence-in-resolution-of-french-budget-crisis/)
 
 ###### Advertisement
 
