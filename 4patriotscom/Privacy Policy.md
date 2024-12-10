@@ -222,13 +222,13 @@ Search
     
     [![](https://assets.catsy.com/catsy.1040/MENU-2403-FAN-LIFESTYLE-GARAGE-680x680.jpg)](https://4patriots.com/category/air-filtration-climate/fans-misters)[Fans & Misters](https://4patriots.com/category/air-filtration-climate/fans-misters)
     
-    [![](https://assets.catsy.com/catsy.1040/SITE-AD-2403-PAC-BEDROOM-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-PAC-BEDROOM-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)
+    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/RES-2412-LIFESTYLE-PROMO-DESKTOP-PORCH-704x1000.jpg)](https://4patriots.com/product/chillzone-portable-ac)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/RES-2412-LIFESTYLE-PROMO-MOBILE-PORCH-854x674.jpg)](https://4patriots.com/product/chillzone-portable-ac)
     
-    ###### "Super Survival" Solar Air Conditioner
+    ###### "Blackout Heater" Safe To Use Indoors
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop Solar Portable A/C](https://4patriots.com/product/chillzone-portable-ac)
+    [Shop RescueHeat Space Heater & Stove](https://4patriots.com/product/rescueheat-emergency-space-heater-stove)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
