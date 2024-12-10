@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/brian-thompson-suspect.png?ve=1&tl=1)
+ [![UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
 
- ![UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/brian-thompson-suspect.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-authorities-question-man-pa)
+ ![UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-person-interest)
 
-### [UnitedHealthcare CEO killer: 'Strong person of interest' in custody](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-authorities-question-man-pa)
+### [UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-person-interest)
 
- [![Your 2024 holiday tipping guide: Who to tip and how much](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/tip-jar-getty.jpg?ve=1&tl=1)
+ [![Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1)
 
- ![Your 2024 holiday tipping guide: Who to tip and how much](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/tip-jar-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-holiday-tipping-guide-who-tip-how-much)
+ ![Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
-### [Your 2024 holiday tipping guide: Who to tip and how much](https://www.fox4news.com/news/2024-holiday-tipping-guide-who-tip-how-much)
+### [Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
- [![Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/united-healthcare-brian-thompson-nyc-murder_02.jpg?ve=1&tl=1)
+ [![Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/kst-dallas-robots-refeed-pkg_kdfw96e3_186_mp4_00.00.23.10.jpg?ve=1&tl=1)
 
- ![Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/united-healthcare-brian-thompson-nyc-murder_02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+ ![Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/kst-dallas-robots-refeed-pkg_kdfw96e3_186_mp4_00.00.23.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/self-driving-robots-hitting-downtown-dallas-streets-uber-eats-deliveries)
 
-### [Luigi Mangione named as man in custody in CEO killing investigation: NYPD](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+### [Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://www.fox4news.com/news/self-driving-robots-hitting-downtown-dallas-streets-uber-eats-deliveries)
 
- [![2024 closes out as world’s warmest year ever](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2157624941.jpg?ve=1&tl=1)
+ [![2 Texas lawmakers both claiming to be the next House speaker](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-steven-texas-speaker-race-4p_00.00.03.50.jpg?ve=1&tl=1)
 
- ![2024 closes out as world’s warmest year ever](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2157624941.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/2024-closes-out-worlds-warmest-year-ever)
+ ![2 Texas lawmakers both claiming to be the next House speaker](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-steven-texas-speaker-race-4p_00.00.03.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-david-cook-dustin-burrows)
 
-### [2024 closes out as world’s warmest year ever](https://www.fox4news.com/weather/2024-closes-out-worlds-warmest-year-ever)
+### [2 Texas lawmakers both claiming to be the next House speaker](https://www.fox4news.com/news/texas-house-speaker-david-cook-dustin-burrows)
 
- [![Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-2188053626-a.jpg?ve=1&tl=1)
+ [![Terrell police officer shot and killed after pulling over truck with expired plates](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-killed.jpg?ve=1&tl=1)
 
- ![Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-2188053626-a.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jury-finds-daniel-penny-not-guilty-nyc-subway-chokehold-death)
+ ![Terrell police officer shot and killed after pulling over truck with expired plates](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
 
-### [Jury finds Daniel Penny not guilty in NYC subway chokehold death](https://www.fox4news.com/news/jury-finds-daniel-penny-not-guilty-nyc-subway-chokehold-death)
+### [Terrell police officer shot and killed after pulling over truck with expired plates](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
 
 ###### [News](https://www.fox4news.com/news)
 
