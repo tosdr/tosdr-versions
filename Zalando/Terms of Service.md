@@ -6,8 +6,6 @@
 
 [Zalando wonen](https://www.zalando.nl/)
 
-[Ontdek![](https://mosaic01.ztat.net/zds/assets/svg/plus-black.7817f7e.svg)](https://www.zalando.nl/zalandoplus/)
-
 NL
 
 Switch Language
