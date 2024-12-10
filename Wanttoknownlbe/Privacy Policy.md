@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/david-icke-fenomeen-trend-setter-frontrunner/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/kankerbehandeling-homeopathie-verslaat-regulier/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
