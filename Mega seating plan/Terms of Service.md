@@ -15,7 +15,8 @@ Close menu
 2. [Terms of Use](https://www.seatingplan.com/terms)
     
 
-### Terms and Conditions ("Terms")
+Terms and Conditions ("Terms")
+==============================
 
 **Last updated: 30th June 2024**
 
