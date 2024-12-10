@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6757221cd58841e4d34e8525_clearco-refinanced-ampla-for-diggs-pet-luxury-brand.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/675860d548a42092fab6820e_clearcos-ecommerce-guide-2025-trends-dates-strategic-insights.png)
 
-###### Clearco Refinances Ampla for DIGGS: A DTC Luxury Pet Brand’s Journey from Founding to Funding
+###### Clearco’s Guide to 2025: Ecommerce Trends, Dates, and Strategic Insights
 
-[Read now >](https://clear.co/blog/clearco-refinanced-ampla-for-diggs-pet-luxury-brand)
+[Read now >](https://clear.co/blog/clearcos-ecommerce-guide-2025-trends-dates-strategic-insights)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
