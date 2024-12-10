@@ -5,10 +5,10 @@ Manga & Anime Favorites
 
 * [Ito-verse](https://www.viz.com/junji-ito)
 * [Pokémon](https://www.viz.com/pokemon)
-* [Bleach](https://www.viz.com/bleach)
+* [Naruto](https://www.viz.com/naruto)
 * [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Boruto](https://www.viz.com/boruto)
-* [Naruto](https://www.viz.com/naruto)
+* [Bleach](https://www.viz.com/bleach)
 * [Read Kamudo Free!](https://www.viz.com/vizmanga/chapters/kamudo)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
