@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| No Shoes, No Shirt, No ProblemKenny Chesney<br><br>10:39am |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>10:36am |
-| Tennessee OrangeMegan Moroney<br><br>10:32am |
-| CowgirlsMorgan Wallen Ft Ernest<br><br>10:29am |
-| A Lot More FreeMax Mcnown<br><br>10:25am |
+| Am I OkMegan Moroney<br><br>4:39pm |
+| She Got The Best Of MeLuke Combs<br><br>4:35pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>4:33pm |
+| Need A FavorJelly Roll<br><br>4:29pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:26pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -364,17 +364,17 @@ Featured Brands
 
 Sports • Midwest
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
 [![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
 Top 40 • Pacific NW
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
-News Talk • Eastern
+Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
