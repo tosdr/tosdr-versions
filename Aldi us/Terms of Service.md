@@ -737,7 +737,7 @@ Email: legal@aldi.us
 
 [Print page](#print)
 
-[Cookie Preferences](#)[Online Privacy Notice](https://www.aldi.us/online-privacy-notice/)[Terms of Use](https://www.aldi.us/terms-of-use/)[Security Policy](https://security.aldi-sued.com/)[Sitemap](https://www.aldi.us/site-map/) [Your Privacy Choices](https://forms.office.com/e/StZhkVBm7p)© 2024 by ALDI
+[Cookie Preferences](#)[Online Privacy Notice](https://www.aldi.us/online-privacy-notice/)[Terms of Use](https://www.aldi.us/terms-of-use/)[Security Policy](https://security.aldi-sued.com/)[Sitemap](https://www.aldi.us/site-map/) [Your Privacy Choices](https://aldi-privacy.my.onetrust.com/webform/88287088-72d8-4e0d-8c0f-28404e719f48/9e6a4928-be83-47a5-bc67-5b8b01022f13)© 2024 by ALDI
 
  Open
 
