@@ -95,11 +95,9 @@ Discover CNBCTV18
 [LIVE TV](https://www.cnbctv18.com/live-tv/ "live-tv")
 
 * [![androidIcon](/static/images/common/ggl_play_store.png?impolicy=website&width=95&height=30 "CNBC TV18 Play Store")](https://play.google.com/store/apps/details?id=com.network18.cnbctv18&pli=1 "CNBCTV18")
-* [NewStartup Gurukul](https://hindi.cnbctv18.com/startup-gurukul?utm_source=cnbc_hp&utm_medium=website_redirect&utm_campaign=startup_gurukul "Startup Gurukul")
 * [Latest News](https://www.cnbctv18.com/latest-news/ "Latest News")
 * [LiveMarket Live](https://www.cnbctv18.com/market-live/ "Market Live")
 * [NewCalculators](https://www.cnbctv18.com/calculators/ "Calculators")
-* [NewIBLA 2024](https://www.cnbctv18.com/ibla/ "IBLA 2024")
 
 Nifty SensexMCX
 
@@ -371,12 +369,6 @@ If you are not satisfied with the resolution provided you may log your complaint
 We reserve the right to change this Policy at our sole discretion at any time. Any material changes to this Policy will be posted on this page. We encourage you to review this Policy regularly for such changes. The updated Privacy Policy will take effect as soon as it has been updated.
 
 _This Policy was last updated as of 20th November 2024._
-
-TV ShowsDigital Exclusives
-
-0
-
-[View All→](https://www.cnbctv18.com/shows/ "shows")
 
 Most Read
 ---------
