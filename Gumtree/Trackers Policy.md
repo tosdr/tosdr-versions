@@ -6,9 +6,7 @@ Search
 
 Sell
 
-Sign up
-
-Login
+[Login/Register](https://my.gumtree.com/login)
 
 Menu
 
