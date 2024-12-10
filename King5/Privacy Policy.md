@@ -32,11 +32,11 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
         
-        #### [Boeing to lay off nearly 400 employees at these locations in Washington](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
+        #### [Boeing will lay off nearly 400 more employees in Washington](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
         
-    *  [![](https://media.king5.com/assets/KING/images/bd46f0e3-2251-4aa6-8915-b65f8f7db10e/bd46f0e3-2251-4aa6-8915-b65f8f7db10e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd46f0e3-2251-4aa6-8915-b65f8f7db10e/bd46f0e3-2251-4aa6-8915-b65f8f7db10e_360x203.jpg)](https://www.king5.com/article/news/local/monroe-high-school-fire/281-a0484e3e-5533-4761-87c8-35ecd9c45a71)
+    *  [![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
         
-        #### [Monroe High School closes for day after fire breaks out](https://www.king5.com/article/news/local/monroe-high-school-fire/281-a0484e3e-5533-4761-87c8-35ecd9c45a71)
+        #### [Family member of homeless woman killed in bomb cyclone speaks out](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c07c70a9-f5d7-4162-b067-ae0d65f7163e/20241209T130431/c07c70a9-f5d7-4162-b067-ae0d65f7163e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c07c70a9-f5d7-4162-b067-ae0d65f7163e/20241209T130431/c07c70a9-f5d7-4162-b067-ae0d65f7163e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
+        
+        #### [Family member of homeless woman killed in bomb cyclone speaks out](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
+        
+    *  [![](https://media.king5.com/assets/KING/images/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e/20241210T002531/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e/20241210T002531/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c16b4a41-29e8-42e3-9046-19aecd6c56cd/20241206T201730/c16b4a41-29e8-42e3-9046-19aecd6c56cd_360x203.jpg)](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
-        
-        #### [How does a cap cloud form?](https://www.king5.com/article/weather/what-is-lenticular-cloud/281-69be3005-5672-41e6-b03a-7c449cb125f8)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+42°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
