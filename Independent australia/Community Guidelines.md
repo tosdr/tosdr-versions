@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Share the love — Gift an IA Subscription!](https://independentaustralia.net/about-ia/subscription-type?type=gift)
 
-[The hunt is on for Biden to pardon Julian Assange](https://independentaustralia.net/article-display/the-hunt-is-on-for-biden-to-pardon-press-freedoms-favourite-son-julian-assange,19234)
+[How Trump 2.0 will affect the South Pacific](https://independentaustralia.net/article-display/how-trump-20-will-affect-the-south-pacific,19243)
 
-[There's something about Lidia](https://independentaustralia.net/article-display/politics-display/theres-something-about-lidia,19228)
+[Crisafulli under pressure on which way to steer Queensland](https://independentaustralia.net/article-display/politics-display/crisafulli-under-pressure-on-which-way-to-steer-queensland,19242)
 
-[ABC News misleads on the economy](https://independentaustralia.net/article-display/abc-news-misleads-on-the-economy-and-risks-pushing-more-australians-into-poverty,19221)
+[Head in the sand approach to P.A.L.M. visa continues](https://independentaustralia.net/article-display/head-in-the-sand-approach-to-palm-visa-continues,19241)
 
 Comments Policy
 
@@ -134,13 +134,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [Crisafulli under pressure on which way to steer Queensland](https://independentaustralia.net/article-display/crisafulli-under-pressure-on-which-way-to-steer-queensland,19242 "Permanent Link : Crisafulli under pressure on which way to steer Queensland")
+* [How Trump 2.0 will affect the South Pacific](https://independentaustralia.net/article-display/how-trump-20-will-affect-the-south-pacific,19243 "Permanent Link : How Trump 2.0 will affect the South Pacific")
 * [Head in the sand approach to P.A.L.M. visa continues](https://independentaustralia.net/article-display/head-in-the-sand-approach-to-palm-visa-continues,19241 "Permanent Link : Head in the sand approach to P.A.L.M. visa continues")
 * [News Corp’s fossil fuel advertising dressed as news should be illegal](https://independentaustralia.net/article-display/news-corps-fossil-fuel-advertising-dressed-as-news-should-be-illegal,19240 "Permanent Link : News Corp’s fossil fuel advertising dressed as news should be illegal")
 * [Reclaiming the radical spirit of the Eureka Rebellion](https://independentaustralia.net/article-display/reclaiming-the-radical-spirit-of-the-eureka-rebellion,19239 "Permanent Link : Reclaiming the radical spirit of the Eureka Rebellion")
 * [Economic growth slows, incomes surge and Coalition hypocrisy hits new high](https://independentaustralia.net/article-display/economic-growth-slows-incomes-surge-and-coalition-hypocrisy-hits-new-high,19238 "Permanent Link : Economic growth slows, incomes surge and Coalition hypocrisy hits new high")
 * [If the cap fits... maybe use it to pull one over on the boss?](https://independentaustralia.net/article-display/if-the-cap-fits-maybe-use-it-to-pull-one-over-on-the-boss,19236 "Permanent Link : If the cap fits... maybe use it to pull one over on the boss?")
-* [Synagogue fire fuels Dutton's appetite for political point-scoring](https://independentaustralia.net/article-display/synagogue-fire-fuels-duttons-appetite-for-political-point-scoring,19237 "Permanent Link : Synagogue fire fuels Dutton's appetite for political point-scoring")
-* [QUIZ: IA Interrogates!](https://independentaustralia.net/article-display/quiz-ia-interrogates,19235 "Permanent Link : QUIZ: IA Interrogates!")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
