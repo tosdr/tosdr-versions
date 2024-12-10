@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 10, 2024](https://www.japantimes.co.jp/archive/2024/12/10/ "archive page")
+[December 11, 2024](https://www.japantimes.co.jp/archive/2024/12/11/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,10 +135,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
-[Nissan boss Uchida races to save the automaker — and his job](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
-
-  [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
-
 [Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
   [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
@@ -151,6 +147,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.")](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
+[DOGE's best idea yet is permanent daylight saving time](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+
+  [![Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438848.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.")](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+
 Editors' Picks
 --------------
 
@@ -161,14 +161,6 @@ Editors' Picks
 By [Takashi Kumon](https://www.japantimes.co.jp/author/5990/takashi-kumon/ "Takashi Kumon")  
 
   [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Nissan boss Uchida races to save the automaker — and his job](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
-
-By [Norihiko Shirouzu](https://www.japantimes.co.jp/author/641/norihiko-shirouzu/ "Norihiko Shirouzu"), [David Dolan](https://www.japantimes.co.jp/author/1369/david-dolan/ "David Dolan") and [Maki Shiraki](https://www.japantimes.co.jp/author/657/maki-shiraki/ "Maki Shiraki")  
-
-  [![Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/438758.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Makoto Uchida, President and CEO of Nissan, holds a press briefing at the Japan Mobility Show 2023 in Tokyo on Oct. 25, 2023. Uchida is under presser to deliver a turnaround and to keep his job at the troubled carmaker.")](https://www.japantimes.co.jp/business/2024/12/08/companies/nissan-uchida-under-pressure-for-turnaround/ "Nissan boss Uchida races to save the automaker — and his job")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -190,6 +182,14 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
   [![Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Police officers reinvestigate a Tobu Tojo Line railroad crossing in Tokyo's Itabashi Ward on Dec. 27, 2023, after a man was fatally hit by a train weeks earlier.")](https://www.japantimes.co.jp/news/2024/12/09/japan/crime-legal/railroad-crossing-murder/ "Tokyo police arrest four men on suspicion of staging colleague’s suicide")
 
+[COMMENTARY](https://www.japantimes.co.jp/opinion/commentary/ "COMMENTARY")
+
+[DOGE's best idea yet is permanent daylight saving time](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+
+By [Mary Ellen Klas](https://www.japantimes.co.jp/author/6132/mary-ellen-klas/ "Mary Ellen Klas")  
+
+  [![Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438848.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Elon Musk, a co-leader of the so-called Department of Government Efficiency, carries his son X Æ A-Xii Musk following a meeting with lawmakers on Capitol Hill in Washington on Thursday.")](https://www.japantimes.co.jp/commentary/2024/12/09/world/permanent-daylight-saving-time/ "DOGE's best idea yet is permanent daylight saving time")
+
 Podcast
 -------
 
@@ -209,9 +209,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
-
-1 hour ago
-
-[Former chief prosecutor of Osaka to plead not guilty over rape in shift](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/former-prosecutor-change-plea/ "Former chief prosecutor of Osaka to plead not guilty over rape in shift")
-
-1 hour ago
-
-[South Korea’s opposition seeks to force through budget in power play](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/south-korea-opposition-budget/ "South Korea’s opposition seeks to force through budget in power play")
+[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
 
 2 hours ago
 
-[Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
-
-2 hours ago
-
-[Japanese announcer Tomoaki Ogura dies at 77](https://www.japantimes.co.jp/news/2024/12/10/japan/tomoaki-ogura-obituary/ "Japanese announcer Tomoaki Ogura dies at 77")
+[Europe’s big battery ambitions are failing, and China is benefiting](https://www.japantimes.co.jp/business/2024/12/10/companies/europe-ev-ambitions-fail-china-benfit/ "Europe’s big battery ambitions are failing, and China is benefiting")
 
 3 hours ago
+
+[Assad's fall in Syria exposes limits of China's Middle East diplomacy](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/assad-fall-china-diplomacy/ "Assad's fall in Syria exposes limits of China's Middle East diplomacy")
+
+3 hours ago
+
+[Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-life-buyout-talks-us/ "Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion")
+
+4 hours ago
+
+[Kioxia’s jumbo IPO shows weak sign contrary to booming market](https://www.japantimes.co.jp/business/2024/12/10/companies/kioxia-jumbo-ipo/ "Kioxia’s jumbo IPO shows weak sign contrary to booming market")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
