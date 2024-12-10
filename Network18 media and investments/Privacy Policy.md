@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Dec 10, 2024
+Wed, Dec 11, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
-    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
     * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-    * [Bengaluru Engineer](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
-    * [BEST Bus Accident](https://www.news18.com/india/mumbai-kurla-bus-accident-eyewitnesses-best-bus-mows-down-pedestrians-hits-vehicles-many-killed-9151224.html)
-    * [Syrian Prison](https://www.news18.com/world/syria-notorious-prison-saydnaya-prison-damascus-prisoners-trapped-underground-cells-bashar-al-assad-syria-human-slaughterhouse-9150793.html)
+    * [Bengaluru Techie](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
+    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
+    * [#MenToo](https://www.news18.com/viral/bengaluru-engineer-atul-subhash-men-too-trending-on-x-netizens-demand-justice-latest-news-9151871.html)
+    * [Kartik Aaryan](https://www.news18.com/movies/kartik-aaryan-says-he-wont-get-industry-support-despite-bhool-bhulaiyaa-3-success-i-still-have-to-hustle-9151084.html)
+    * [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
-* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
-* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
 * [Sai Pallavi](https://www.news18.com/web-stories/celebrities/7-sai-pallavi-inspired-saree-blouses-for-marriage-season-2675702/)
-* [Bengaluru Engineer](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
-* [BEST Bus Accident](https://www.news18.com/india/mumbai-kurla-bus-accident-eyewitnesses-best-bus-mows-down-pedestrians-hits-vehicles-many-killed-9151224.html)
-* [Syrian Prison](https://www.news18.com/world/syria-notorious-prison-saydnaya-prison-damascus-prisoners-trapped-underground-cells-bashar-al-assad-syria-human-slaughterhouse-9150793.html)
+* [Bengaluru Techie](https://www.news18.com/viral/justice-is-due-up-man-dies-by-suicide-in-bengaluru-leaves-behind-24-page-note-9151033.html)
+* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-shines-in-gold-at-cocktail-hour-after-tying-the-knot-with-naga-chaitanya-9150928.html)
+* [#MenToo](https://www.news18.com/viral/bengaluru-engineer-atul-subhash-men-too-trending-on-x-netizens-demand-justice-latest-news-9151871.html)
+* [Kartik Aaryan](https://www.news18.com/movies/kartik-aaryan-says-he-wont-get-industry-support-despite-bhool-bhulaiyaa-3-success-i-still-have-to-hustle-9151084.html)
+* [Trisha Krishnan](https://www.news18.com/web-stories/celebrities/5-trisha-krishnan-inspired-saree-blouses-for-wedding-season-2675055/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Dec 10, 2024
+Dec 11, 2024
 
 [View All](https://www.news18.com/short-news/)
 
