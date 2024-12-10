@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Archaeology](https://www.sciencenews.org/topic/archaeology)
+            
+            ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")8 hours ago
+            
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")5 hours ago
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")14 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
             
             By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")December 6, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [How the weight loss drug tirzepatide is also helping heart failure patients](https://www.sciencenews.org/article/weight-loss-drug-tirzepatide-heart)
-            
-            By [Meghan Rosen](https://www.sciencenews.org/author/meghan-rosen "Posts by Meghan Rosen")December 6, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
             
-            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")3 hours ago
+            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")12 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
@@ -207,7 +207,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
             
-            ### [Astronomers detect the first astrosphere around a sunlike star](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
+            ### [Astronomers see the astrosphere of a sunlike star for the first time](https://www.sciencenews.org/article/first-astrosphere-sunlike-star-moth)
             
             By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")December 6, 2024
             
