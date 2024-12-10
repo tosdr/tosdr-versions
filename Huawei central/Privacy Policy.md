@@ -65,6 +65,12 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch GT 5 Christmas Edition](https://www.huaweicentral.com/wp-content/uploads/2024/12/Christmas-Edition-400x240.jpg)
+        
+        Huawei introduces Watch GT 5 Christmas Edition in red and green colors](https://www.huaweicentral.com/huawei-introduces-watch-gt-5-christmas-edition-in-red-and-green-colors/)
+    * [![Huawei wearable market Q3 2024](https://www.huaweicentral.com/wp-content/uploads/2024/12/wearable-400x240.jpg)
+        
+        Huawei ranks first in China and third in global wearable market for Q3 2024](https://www.huaweicentral.com/huawei-ranks-first-in-china-and-third-in-global-wearable-market-for-q3-2024/)
     * [![Huawei Watch 5 design](https://www.huaweicentral.com/wp-content/uploads/2024/12/Watch4-400x240.jpg)
         
         Leak suggests Huawei Watch 5 series to bring lightweight design](https://www.huaweicentral.com/leak-suggests-huawei-watch-5-series-to-bring-lightweight-design/)
@@ -74,12 +80,6 @@ Huawei Central
     * [![Huawei Watch D2 sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-sale-400x240.jpg)
         
         Huawei Watch D2 wearable enters first sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-enters-first-sale-in-china/)
-    * [![Huawei Watch D2 China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-1-400x240.jpg)
-        
-        Huawei Watch D2 blood pressure wearable launched in China](https://www.huaweicentral.com/huawei-watch-d2-blood-pressure-wearable-launched-in-china/)
-    * [![Huawei Watch Ultimate Sapphire Gold](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-Ultimate-Gold-Edition-400x240.jpg)
-        
-        Huawei introduces Watch Ultimate Design Sapphire Gold Edition](https://www.huaweicentral.com/huawei-introduces-watch-ultimate-design-sapphire-gold-edition/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
