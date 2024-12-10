@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)3°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
-* [Migros](https://www.watson.ch/fr/migros/)
+* [Palestine](https://www.watson.ch/fr/palestine/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Gaza](https://www.watson.ch/fr/gaza/)
+* [Justice](https://www.watson.ch/fr/justice/)
 * [France](https://www.watson.ch/fr/france/)
+* [Migros](https://www.watson.ch/fr/migros/)
 * [Vidéo](https://www.watson.ch/fr/video/)
-* [Femmes](https://www.watson.ch/fr/femmes/)
 * [Vacances](https://www.watson.ch/fr/vacances/)
-* [Confédération](https://www.watson.ch/fr/confederation/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Musique](https://www.watson.ch/fr/musique/)
+* [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Faits divers](https://www.watson.ch/fr/faits-divers/)
+* [Super League](https://www.watson.ch/fr/super-league/)
 * [guerre](https://www.watson.ch/fr/guerre/)
 * [Politique](https://www.watson.ch/fr/politique/)
-* [People](https://www.watson.ch/fr/people/)
+* [Climat](https://www.watson.ch/fr/climat/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Voyage](https://www.watson.ch/fr/voyage/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
 * [Bachar al-Assad](https://www.watson.ch/fr/bachar-al-assad/)
-* [commerce](https://www.watson.ch/fr/commerce/)
-* [avion](https://www.watson.ch/fr/avion/)
-* [Russie](https://www.watson.ch/fr/russie/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
-* [Argent](https://www.watson.ch/fr/argent/)
+* [Université](https://www.watson.ch/fr/universite/)
+* [Lausanne](https://www.watson.ch/fr/lausanne/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
