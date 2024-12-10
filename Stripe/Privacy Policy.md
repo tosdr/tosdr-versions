@@ -650,6 +650,7 @@ Solutions
 * [Marketplaces](https://stripe.com/use-cases/marketplaces)
 * [Crypto](https://stripe.com/use-cases/crypto)
 * [Creator economy](https://stripe.com/use-cases/creator-economy)
+* [Retail](https://stripe.com/industries/retail)
 * [Embedded finance](https://stripe.com/use-cases/embedded-finance)
 * [Global businesses](https://stripe.com/use-cases/global-businesses)
 * [Finance automation](https://stripe.com/use-cases/finance-automation)
