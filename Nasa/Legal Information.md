@@ -259,33 +259,39 @@ article 3 days ago](https://www.nasa.gov/missions/ixpe/nasas-ixpe-details-shapes
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)
 
 ### Highlights
 
-[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
+[![The Group 15 NASA and international astronaut candidates pose for a group photo – front row, Jeffrey S. Ashby, left, Dafydd “Dave” R. Williams, James F. Reilly, Scott D. Altman, Rick D. Husband, and Michael J. Bloomfield; middle row, Pamela A. Melroy, left, Michael P. Anderson, Michel Tognini, Kathryn “Kay” P. Hire, Kalpana Chawla, Carlos I. Noriega, Susan L. Still, Takao Doi, and Frederick “Rick” W. Sturckow; back row, Janet L. Kavandi, left, Edward T. Lu, Steven K. Robinson, Robert L. Curbeam, Dominic L.P. Gorie, Joe F. Edwards, Steven W. Lindsey, and Jean-Loup Chrétien.](https://www.nasa.gov/wp-content/uploads/2024/12/group-15-1-group-portrait.jpg?w=1020)
+
+17 min read
+
+### 30 Years Ago: NASA Selects its 15th Group of Astronauts 
+
+article 4 hours ago](https://www.nasa.gov/history/30-years-ago-nasa-selects-its-15th-group-of-astronauts/)[![](https://images-assets.nasa.gov/image/iss038e020234/iss038e020234~large.jpg?w=1920&h=1275&fit=clip&crop=faces%2Cfocalpoint)
 
 7 min read
 
 ### 2024 Be An Astronaut Campaign
 
-article 4 hours ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 11 hours ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
 ### Matt Dominick’s X Account: A Visual Journey from Space
 
-article 4 days ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)[![The crew members of NASA’s SpaceX Crew-10 mission (from left) mission specialist Kirill Peskov of Roscosmos, NASA astronauts Nichole Ayers, pilot, and Anne McClain, commander, along with Mission Specialist Takuya Onishi of JAXA (Japan Aerospace Exploration Agency), pose for a picture during training at SpaceX in Hawthorne, California. Credit: SpaceX](https://images-assets.nasa.gov/image/jsc2024e064444/jsc2024e064444~orig.jpg?w=868&h=628&fit=clip&crop=faces%2Cfocalpoint)
-
-5 min read
-
-### Experience the Launch of NASA’s SpaceX Crew-10 Mission  
-
-article 1 week ago](https://www.nasa.gov/general/experience-the-launch-of-nasas-spacex-crew-10-mission/)
+article 4 days ago](https://www.nasa.gov/missions/station/matt-dominicks-x-account-a-visual-journey-from-space/)
 
 ### Highlights
 
-[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20Map%20-%20no%20legend.png)
+[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+
+6 min read
+
+### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
+
+article 6 hours ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)[![NASA Flights Map Critical Minerals from Skies Above Western US](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/articles/2024/Mineral%20Map%20-%20no%20legend.png)
 
 6 min read
 
@@ -297,35 +303,29 @@ article 4 days ago](https://science.nasa.gov/earth/nasa-flights-map-critical-min
 
 ### NASA’s C-20A Studies Extreme Weather Events
 
-article 5 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)[![Expanded AI Model with Global Data Enhances Earth Science Applications ](https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001431/GSFC_20171208_Archive_e001431~large.jpg)
-
-4 min read
-
-### Expanded AI Model with Global Data Enhances Earth Science Applications 
-
-article 5 days ago](https://science.nasa.gov/science-research/ai-geospatial-model-earth/)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasas-c-20a-studies-extreme-weather-events/)
 
 ### Highlights
 
-[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+[![The Next Full Moon is the Cold Moon](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/08/76_fullmoon_purplemountain.jpg)
+
+31 min read
+
+### The Next Full Moon is the Cold Moon
+
+article 5 hours ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-is-the-cold-moon-frost-moon-or-winter-moon/)[![This artist’s concept shows interstellar object 1I/2017 U1 (‘Oumuamua) after its discovery in 2017. While itself not a dark comet, ‘Oumuamua’s motion through the solar system has helped researchers better understand the nature of the 14 dark comets discovered so far.](https://www.nasa.gov/wp-content/uploads/2024/12/1-imagesasteroid20171120eso1737a-16.jpg?w=1024)
+
+4 min read
+
+### NASA Researchers Discover More Dark Comets
+
+article 6 hours ago](https://www.nasa.gov/solar-system/comets/nasa-researchers-discover-more-dark-comets/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article 3 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![Members of NASA’s VERITAS science team](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia25835.jpg?w=1024)
-
-3 min read
-
-### Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
-
-article 3 hours ago](https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/)[![Towards Autonomous Surface Missions on Ocean Worlds](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Figure1_EuropaSurfaceImage.jpg)
-
-9 min read
-
-### Towards Autonomous Surface Missions on Ocean Worlds
-
-article 6 days ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/towards-autonomous-surface-missions-on-ocean-worlds/)
+article 9 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 6 days ago](https://science.nasa.gov/science-research/science-enabling-t
 
 ### Hubble Spots a Spiral in the Celestial River
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
+article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spiral-in-the-celestial-river/)[![NASA’s Hubble Takes the Closest-Ever Look at a Quasar](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/quasars/Hubble_STIS_Quasar3C273.png)
 
 4 min read
 
@@ -351,25 +351,25 @@ article 2 weeks ago](https://science.nasa.gov/universe/exoplanets/discovery-aler
 
 ### Highlights
 
-[![OSDR Project Manager, Samrawit Gebre, giving a presentation at the Inaugural SOMA Summit](https://www.nasa.gov/wp-content/uploads/2024/12/sam-at-soma-2024.jpg?w=1016)
+[![Data taken by NASA’s PACE and the international SWOT](https://www.nasa.gov/wp-content/uploads/2024/12/swot-pace-still-thumbnail.png?w=1024)
+
+6 min read
+
+### NASA’s PACE, US-European SWOT Satellites Offer Combined Look at Ocean
+
+article 6 hours ago](https://www.nasa.gov/missions/pace/nasas-pace-us-european-swot-satellites-offer-combined-look-at-ocean/)[![OSDR Project Manager, Samrawit Gebre, giving a presentation at the Inaugural SOMA Summit](https://www.nasa.gov/wp-content/uploads/2024/12/sam-at-soma-2024.jpg?w=1016)
 
 2 min read
 
 ### OSDR at SOMA 2024
 
-article 1 hour ago](https://www.nasa.gov/osdr-at-soma-2024/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+article 7 hours ago](https://www.nasa.gov/osdr-at-soma-2024/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article 3 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/1-leshin-med.jpg?w=1024)
-
-5 min read
-
-### NASA JPL Unveils the Dr. Edward Stone Exploration Trail
-
-article 3 days ago](https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/)
+article 9 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)
 
 ### Highlights
 
@@ -391,7 +391,7 @@ article 6 days ago](https://www.nasa.gov/speed/)[![A group of people are sitting
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)
 
 ### Highlights
 
@@ -423,7 +423,7 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/ames/what-is-bi
 
 ### NASA Experts Share Inspiring Stories of Perseverance to Students
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/armstrong/nasa-experts-share-inspiring-stories-of-perseverance-to-students/)[![Aaron Yazzie, a Navajo man with black hair and glasses, stands with his arms crossed. He wears business professional attire with a navy blue jacket and beaded Indigenous tie making the NASA meatball logo. Behind him a large model of NASA's Mars Perseverance rover is visible.](https://www.nasa.gov/wp-content/uploads/2024/11/dct-jpl-yazzie-01-2023-09-29-1-crop.jpg?w=1024)
 
 4 min read
 
