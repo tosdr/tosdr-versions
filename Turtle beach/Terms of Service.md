@@ -1,6 +1,6 @@
 Extended returns through 1.31.25. [Learn More](https://www.turtlebeach.com/pages/terms-of-sale#returns "Learn More")
 
-Order by 2 pm EST on 12.18 for Christmas delivery with ground shipping!\* [Learn More](https://www.turtlebeach.com/pages/terms-of-sale#shipping "Learn More")
+It's Officially Last Minute! Order Now for Free Shipping by Christmas\*🎄 Place your order by 2 PM EST on December 18th! [Learn More](https://www.turtlebeach.com/pages/terms-of-sale#shipping "Learn More")
 
 Unique. Colorful. Innovative. Check out our PDP brand today. [SHOP NOW](https://pdp.com/ "shop now")
 
