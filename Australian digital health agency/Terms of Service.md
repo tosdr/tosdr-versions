@@ -7,7 +7,7 @@ Open Search
 Open Menu
 
 * Open/Close Menu [Initiatives](https://www.digitalhealth.gov.au/initiatives-and-programs#Initiatives)
-    * [My Health Record](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record-a-secure-digital-health-record-for-all-australians)
+    * [My Health Record](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record)
     * [Electronic prescriptions](https://www.digitalhealth.gov.au/initiatives-and-programs/electronic-prescriptions)
     * [Telehealth](https://www.digitalhealth.gov.au/initiatives-and-programs/telehealth)
     * [my health app](https://www.digitalhealth.gov.au/myhealth)
@@ -38,7 +38,7 @@ Search
 
 * [For everyone](https://www.digitalhealth.gov.au/)
 * [For healthcare providers](https://www.digitalhealth.gov.au/healthcare-providers)
-* [For mhr everyone](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record-a-secure-digital-health-record-for-all-australians)
+* [For mhr everyone](https://www.digitalhealth.gov.au/initiatives-and-programs/my-health-record)
 * [For mhr hcp](https://www.digitalhealth.gov.au/healthcare-providers/initiatives-and-programs/my-health-record)
 * [For ndhs](https://www.digitalhealth.gov.au/discover-the-national-digital-health-strategy-2023-2028)
 
