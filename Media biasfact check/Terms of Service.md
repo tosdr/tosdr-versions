@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [December 10, 2024 | Media News Daily: Top Stories for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/media-news-daily-top-stories-for-12-10-2024/ "Media News Daily: Top Stories for 12/10/2024")
+* [December 10, 2024 | MBFC’s Daily Vetted Fact Checks for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/mbfcs-daily-vetted-fact-checks-for-12-10-2024/ "MBFC’s Daily Vetted Fact Checks for 12/10/2024")
 * [December 9, 2024 | Media News Daily: Top Stories for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/media-news-daily-top-stories-for-12-09-2024/ "Media News Daily: Top Stories for 12/09/2024")
 * [December 9, 2024 | MBFC’s Daily Vetted Fact Checks for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/mbfcs-daily-vetted-fact-checks-for-12-09-2024/ "MBFC’s Daily Vetted Fact Checks for 12/09/2024")
 * [December 8, 2024 | MBFC’s Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)")
-* [December 7, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 1st – DEC 7th](https://mediabiasfactcheck.com/2024/12/07/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-dec-1st-dec-7th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of DEC 1st – DEC 7th")
-* [December 7, 2024 | MBFC’s Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/07/mbfcs-daily-vetted-fact-checks-for-12-07-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 12/07/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -182,25 +182,25 @@ No related posts.
 
 #### Recently Updated Pages
 
-* [Bugout.news – Bias and Credibility](https://mediabiasfactcheck.com/bugout-news/ "View Bugout.news – Bias and Credibility") - December 9, 2024
+* [Bluegrass Times – Bias and Credibility](https://mediabiasfactcheck.com/bluegrass-times-bias/ "View Bluegrass Times – Bias and Credibility") - December 10, 2024
     
-* [Bucks County Standard – Bias and Credibility](https://mediabiasfactcheck.com/bucks-county-standard-bias/ "View Bucks County Standard – Bias and Credibility") - December 9, 2024
+* [Augusta-Richmond Herald – Bias and Credibility](https://mediabiasfactcheck.com/augusta-richmond-herald-bias/ "View Augusta-Richmond Herald – Bias and Credibility") - December 10, 2024
+    
+* [Amoskeag Times – Bias and Credibility](https://mediabiasfactcheck.com/amoskeag-times-bias/ "View Amoskeag Times – Bias and Credibility") - December 10, 2024
+    
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - December 10, 2024
+    
+* [Bucks County Standard – Bias and Credibility](https://mediabiasfactcheck.com/bucks-county-standard-bias/ "View Bucks County Standard – Bias and Credibility") - December 10, 2024
+    
+* [Bryan-College Station Eagle – Bias and Credibility](https://mediabiasfactcheck.com/bryan-college-station-eagle-bias/ "View Bryan-College Station Eagle – Bias and Credibility") - December 10, 2024
+    
+* [Bugout.news – Bias and Credibility](https://mediabiasfactcheck.com/bugout-news/ "View Bugout.news – Bias and Credibility") - December 9, 2024
     
 * [Bryan Times – Bias and Credibility](https://mediabiasfactcheck.com/bryan-times-bias/ "View Bryan Times – Bias and Credibility") - December 9, 2024
     
 * [Brut.Media – Bias and Credibility](https://mediabiasfactcheck.com/brut-media-bias/ "View Brut.Media – Bias and Credibility") - December 9, 2024
     
 * [Brownstone Institute – Bias and Credibility](https://mediabiasfactcheck.com/brownstone-institute-bias/ "View Brownstone Institute – Bias and Credibility") - December 9, 2024
-    
-* [Brooklyn Center Sun Post – Bias and Credibility](https://mediabiasfactcheck.com/brooklyn-center-sun-post-bias/ "View Brooklyn Center Sun Post – Bias and Credibility") - December 9, 2024
-    
-* [Brockton Enterprise – Bias and Credibility](https://mediabiasfactcheck.com/brockton-enterprise-bias/ "View Brockton Enterprise – Bias and Credibility") - December 9, 2024
-    
-* [Bristol Reporter – Bias and Credibility](https://mediabiasfactcheck.com/bristol-reporter-bias/ "View Bristol Reporter – Bias and Credibility") - December 9, 2024
-    
-* [Bristol Herald Courier – Bias and Credibility](https://mediabiasfactcheck.com/bristol-herald-courier-bias/ "View Bristol Herald Courier – Bias and Credibility") - December 9, 2024
-    
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 9, 2024
     
 
 #### Today’s Top Page Views
@@ -212,9 +212,9 @@ No related posts.
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 * [Search](https://mediabiasfactcheck.com/search/)
-* [MBFC's Daily Vetted Fact Checks for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/mbfcs-daily-vetted-fact-checks-for-12-09-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [MBFC's Daily Vetted Fact Checks for 12/09/2024](https://mediabiasfactcheck.com/2024/12/09/mbfcs-daily-vetted-fact-checks-for-12-09-2024/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 
 #### Subscribe via Email
 
