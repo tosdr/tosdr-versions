@@ -117,7 +117,6 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eeu/studium/lidx/1/ "To P
 * [Excellent Teaching & Learning Strategy](https://www.rwth-aachen.de/cms/root/studium/Lehre/~ccbd/Exzellente-Lehre/lidx/1/ "Academics > Teaching > Excellent Teaching & Learning Strategy")
 * [RWTHonline](https://www.rwth-aachen.de/cms/root/studium/Lehre/~dxla/RWTHonline/lidx/1/ "Academics > Teaching > RWTHonline")
 * [Student Lifecycle Management](https://www.rwth-aachen.de/cms/root/studium/Lehre/~qoita/Student-Lifecycle-Management/lidx/1/ "Academics > Teaching > Student Lifecycle Management")
-* [More ...](https://www.rwth-aachen.de/cms/root/studium/~hihq/Lehre/lidx/1/ "Academics > Teaching > More ...")
 
 #### [Advice & Assistance](https://www.rwth-aachen.de/cms/root/studium/~hzvj/Beratung-Hilfe/lidx/1/ "Academics > Advice & Assistance")
 
