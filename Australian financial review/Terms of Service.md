@@ -297,7 +297,6 @@ Advertise
 
 ### [Christmas recipes from some of Melbourne’s best restaurants](https://www.afr.com/life-and-luxury/food-and-wine/christmas-recipes-from-some-of-melbourne-s-best-restaurants-20241023-p5kkk9)
 
-* 45 mins ago
 * Jill Dupleix
 
 * ### [The love affair between watches and cars is only just revving up](https://www.afr.com/life-and-luxury/fashion-and-style/the-love-affair-between-watches-and-cars-is-only-just-revving-up-20241031-p5kmyr)
@@ -326,7 +325,6 @@ Advertise
 
 ### [It’s all fun and games until someone falls off a cliff](https://www.afr.com/technology/it-s-all-fun-and-games-until-someone-falls-off-a-cliff-20241205-p5kw34)
 
-* 55 mins ago
 * John Davidson
 
 * ### [Max Allen’s guide to stocking a bar trolley](https://www.afr.com/life-and-luxury/food-and-wine/max-allen-s-guide-to-stocking-a-bar-trolley-20241204-p5kvsi)
