@@ -18,10 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -223,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Acts to Stop Scheme that Bilked Millions out of Student Loan Borrowers](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-acts-stop-scheme-bilked-millions-out-student-loan-borrowers)
+    ### [FTC Sends Refund Payments to Consumers Impacted by Epic Games’ Unlawful Billing Practices](https://www.ftc.gov/news-events/news/press-releases/2024/12/ftc-sends-refund-payments-consumers-impacted-epic-games-unlawful-billing-practices)
     
     December 9, 2024
     
@@ -325,10 +323,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
