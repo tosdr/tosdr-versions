@@ -21,16 +21,16 @@ This site is affiliated with Freestar for the purposes of placing advertising on
 
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [https://www.networkadvertising.org](https://www.networkadvertising.org/).
 
-11:11:04PM
+05:07:11AM
 
 The clock will update automatically if you turn on JavaScript in your browser.
 ------------------------------------------------------------------------------
 
-Monday, December 9, 2024
+Tuesday, December 10, 2024
 
-[International Anti-Corruption Day](https://www.unodc.org/unodc/en/anticorruptionday/index.html)
+[Human Rights Day](https://www.un.org/en/observances/human-rights-day) / Nobel Prize Day
 
-Sun: ↑ 07:07AM ↓ 04:30PM (9h 22m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
+Sun: ↑ 07:08AM ↓ 04:30PM (9h 22m) - [More info](https://time.is/North_Bergen#time_zone) - [Make North Bergen time default](https://time.is/h/4dd937) - [Add to favorite locations](https://time.is/)
 
 ×
 
