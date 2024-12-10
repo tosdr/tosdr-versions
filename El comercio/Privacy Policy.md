@@ -31,1150 +31,997 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos
-==============================================================
+Las cooperativas de ahorro y crédito pequeñas deben aplicar una mayor austeridad
+================================================================================
 
-Con una participación de 84 deportistas (45 mujeres y 39 hombres), Ecuador sumó 9 medallas de oro. ¿En qué puesto se ubicó?
----------------------------------------------------------------------------------------------------------------------------
+La época obliga a tener mayor control sobre los excesos de gastos operativos. Pedir asesoría es una alternativa para reducir los riesgos.
+-----------------------------------------------------------------------------------------------------------------------------------------
 
-![Ecuador acudió con 84 deportistas a los Juegos Bolivarianos del Bicentenario Ayacucho 2024](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-43.jpg)
+![Imagen referencial. La morosidad en los créditos de las cooperativas más pequeñas oscila entre el 10% y 11%. Freepik](https://www.elcomercio.com/wp-content/uploads/2024/12/editorial-2.jpg)
 
-**Ecuador** se despide de los **Juegos Bolivarianos del Bicentenario Ayacucho 2024** con una destacada participación, logrando un total de 51 medallas: 9 de oro, 11 de plata y 31 de bronce.
+Un dato importante reveló la **Superintendencia de Economía Popular y Solidaria (SEPS)** sobre las **cooperativas de ahorro y crédito** más **pequeñas** del Ecuador. La **morosidad en los créditos** oscila entre el 10% y 11%.
 
-El país ocupó el quinto lugar en el medallero general, con un desempeño sobresaliente en varias disciplinas, con una delegación compuesta mayoritariamente por jóvenes, muchos de los cuales están en transición hacia la categoría mayor.
+Eso representa que entre 10 y 11 dólares de cada 100 entregados en préstamos son de difícil recuperación para estas entidades, que tienen menos de un millón de dólares en activos.
 
-### Más noticias:
+El promedio de morosidad de todo el sector es del 9%.
 
-* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
-* [Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
-* [IDV necesita una hazaña para remontar a Liga de Quito en la final](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")
+> Eso no significa que las cooperativas estén malas condiciones porque su solvencia supera las normas técnicas. El promedio del sector es del 16%, mientras la normativa establece el 9%. La solvencia no es más que la capacidad para cumplir con todas sus obligaciones.
 
-Los **Juegos Bolivarianos**, celebrados del 28 de noviembre al 8 de diciembre en **Ayacucho**, Perú, reunieron a los países bolivarianos, además de invitados como **El Salvador**, República Dominicana y Guatemala.
+Pero el indicador de **morosidad**, que ha crecido desde el inicio de la pandemia en 2020, si debe generar una mayor atención y precaución entre los representantes de estas entidades financieras de la **economía popular y solidaria**.
 
-Con una participación de 84 deportistas ecuatorianos (45 mujeres y 39 hombres), el país compitió en 12 disciplinas, que incluyeron desde **atletismo** hasta **e-sports**, pasando por **karate**, **ciclismo** y **taekwondo**.
+Las administraciones deben aplicar un **estricto nivel de austeridad**. La época obliga a tener mayor control sobre los **excesos de gastos operativos**. Es decir, evitar altos **salarios** entre sus directivos, cierre de **agencias que no son rentables**, no destinar recursos a **fiestas, reuniones**…
 
-Las medallas de oro de Ecuador
-------------------------------
+La intención es que el control de gastos permita generar márgenes operativos, que posibiliten cubrir adecuadamente las provisiones. Son reservas o fondos que sirven para cubrir obligaciones futuras o posibles pérdidas.
 
-Las medallas de oro fueron conquistadas por **Jenifer Becerra** (levantamiento de pesas), **Rafaela Roldán** y **Carlos Rodríguez** (ciclismo), **Carmen Bueno**, **Franklin León**, **Kenia Monserrate** y **Moisés Villón** (levantamiento de potencia), y **Jacqueline Factos** y **Amy López** (karate).
+De forma paralela es necesario que las pequeñas cooperativas busquen asesoramiento en instituciones más grandes. El objetivo es mejorar las metodologías para conceder los créditos. De esa forma reducirán los riesgos.
 
-Las medallas de plata fueron destacadas por **Damary Nazareno** (levantamiento de pesas) y un grupo importante de competidores en **taekwondo**, **atletismo**, **ciclismo** y **wushu**, mientras que las de bronce se distribuyeron en deportes como **wushu**, **karate**, **patinaje** y **e-sports**.
+Estos procedimientos -además- permitirán que sus depositantes se sientan seguros con las administraciones y sigan confiando con sus recursos.
 
-Un momento destacado fue el de **Cristina Orbe**, quien, a pesar de no alcanzar la final, se mostró contenta con su medalla de bronce en una edición que incluyó disciplinas fuera del programa olímpico. “Este bronce es para mi familia y mi entrenador”, expresó Orbe, quien ya mira hacia nuevos desafíos en el próximo ciclo deportivo.
+La Superintendencia de Economía Popular y Solidaria hace controles a los balances y visita las entidades con indicadores más débiles. Esa es otra fuente de soporte para estas pequeñas entidades. Otras opciones son recurrir a organizaciones internacionales o a las asociación del sector.
 
-Este evento también sirvió como antesala del inicio del **Ciclo Olímpico** hacia los **Juegos Olímpicos de Los Ángeles 2028**, con los próximos **Juegos Bolivarianos** que se celebrarán en Lima, Perú, en 2025.
+Cartas a Quito / 10 de diciembre de 2024
+========================================
 
-![Carmen Bueno sumó una medalla de oro para Ecuador en los Juegos Bolivarianos.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-40-1024x683.jpg)
+Estas son las cartas a Quito de este martes 10 de diciembre de 2024
+-------------------------------------------------------------------
 
-Carmen Bueno sumó una medalla de oro para Ecuador en los Juegos Bolivarianos.
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-![Jacqueline Factos ganó la medalla de oro en karate de los Juegos Bolivarianos 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/factos-1024x683.jpg)
+Opinión
+-------
 
-Jacqueline Factos ganó la medalla de oro en karate de los Juegos Bolivarianos 2024.
+Cada año somos más personas con discapacidad en el Ecuador, y los gobiernos de turno no hacen nada por remediar esta situación; solo nos utilizan en épocas de campaña para el voto y luego se olvidan de nosotros. Los políticos que prometieron, dando a entender que somos su juguete, aprovechan la ocasión para figurar con los demás y atraer votantes, porque cuando son candidatos, posan con todo el mundo, procurando lucrar con nosotros, haciendo promesas que no cumplirán, y estamos dispuestos a estos casos.
 
-![Jenifer Becerra ganó oro en el levantamiento de pesas de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, celebrados en Perú.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-39-1-1024x683.jpg)
+En Ecuador, nos hace falta ese empuje de los gobiernos, que no hacen nada por nosotros para vivir con una mejor calidad de vida, que es necesaria para un país que no está adaptado a nuestras necesidades, ya que no contamos con el apoyo de los gobiernos para crear emprendimientos y progresar en la vida.
 
-Jenifer Becerra ganó oro en el levantamiento de pesas de los Juegos Bolivarianos del Bicentenario Ayacucho 2024, celebrados en Perú.
+Jorge Enrique Andrade Rodas
 
-![El equipo femenino de Ecuador ganó medalla en el baloncesto 3x3 de los Juegos Bolivarianos 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-60-3-1024x683.jpg)
-
-El equipo femenino de Ecuador ganó medalla en el baloncesto 3×3 de los Juegos Bolivarianos 2024.
-
-Exportaciones mineras de Ecuador llegaron a 2 407 millones de dólares
-=====================================================================
-
-Durante 2023, Ecuador registró un nuevo récord histórico de exportaciones mineras con 3 324 millones de dólares, un 19% más que en 2022.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía cedida por la minera Lundin Gold que muestra trabajos en la mina Frutos del Norte, el 9 de noviembre del 2019 en la provincia de Zamora Chinchipe.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T142438.270.jpg)
-
-El **sector minero** de Ecuador ingresó **2 407,94 millones de dólares** en exportaciones mineras **hasta septiembre**. Esto lo situó como el primer rubro de exportaciones no tradicionales (9,49 %) y supuso **704,79 millones en impuestos**, según cifras oficiales del Ministerio de Energía y Minas (MEM).
-
-### Más noticias
-
-* [Guayaquil tiene altas temperaturas y radiación ‘muy alta’](https://www.elcomercio.com/actualidad/ecuador/guayaquil-altas-temperaturas-radiacion-muy-alta-lunes-9-diciembre.html "Guayaquil tiene altas temperaturas y radiación ‘muy alta’")
-* [Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
-* [Vacaciones de Navidad y Año Nuevo: fechas y actividades para estudiantes en Ecuador](https://www.elcomercio.com/actualidad/ecuador/vacaciones-navidad-nuevo-fechas-actividades-estudiantes-ecuador.html "Vacaciones de Navidad y Año Nuevo: fechas y actividades para estudiantes en Ecuador")
-
-Cortes de luz afectaron la producción minera
---------------------------------------------
-
-Sin embargo, las expectativas de las autoridades ecuatorianas son que las **exportaciones mineras** puedan cerrar el año con un descenso debido a la **crisis energética** que atraviesa el país. La cual contempla apagones diarios desde mediados de septiembre que llegaron a ser de hasta 14 horas al día y que también han afectado a la producción minera.
-
-En el primer lugar de las **exportaciones mineras** de Ecuador figura Ecuacorriente, empresa de capitales chinos encargada de explotar la mina de cobre Mirado. Sus envíos al exterior tuvieron hasta septiembre un valor de **940 millones de dólares.**
-
-En segundo lugar, la canadiense **Lundin Gold,** operadora de la mina aurífera Fruta del Norte, con 811 millones de dólares en exportaciones. Y por último se encuentra la **pequeña minería** con algo más de 655 millones de dólares.
-
-Los datos expresan también los avances de las dos grandes minas con relación a sus inversiones realizadas hasta 2019.
-
-La mina **Fruta del Norte** desde 2003 hasta 2023 ha invertido **1 599 millones de dólares** y la mina Mirador desde 2001 hasta 2023 ha invertido **1 659 millones de dólares.**
-
-En cuanto al impacto laboral directo y, según datos de la Cámara de Minería de Ecuador (CME), el sector generó durante el segundo cuatrimestre de 2024 un total de **44 580 puestos de trabajo.**
-
-Plan 2025-2035
---------------
-
-El **Ministerio de Energía y Minas** convocó durante los últimos días un concurso público e internacional para realizar una consultoría para el planteamiento estratégico de la minería ecuatoriana. Su objetivo es elaborar un plan de política pública sectorial para los próximos 10 años (2025-2035) con un financiamiento del Banco Interamericano de Desarrollo (BID) de casi un millón de dólares.
-
-Los servicios de consultoría comprenden un análisis exhaustivo y detallado de la situación actual sobre el cumplimiento del Plan Estratégico Minero 2020-2030. Con el fin de obtener un análisis de fortalezas, debilidades, oportunidades y amenazas (FODA) del sector de minería y crear una Política Pública 2025-2035.
-
-Durante el 2023, Ecuador registró un **nuevo récord histórico de exportaciones mineras** con 3 324 millones de dólares, un 19% más que lo exportado en el 2022. Este hecho afianzó al sector como el cuarto rubro más exportado de la economía nacional, tercer rubro de exportaciones no petroleras y primer rubro de exportaciones no tradicionales.
-
-El Gobierno del presidente **Daniel Noboa** ha identificado a la minería junto a la agricultura y el turismo como los sectores económicos a impulsar en los próximos años y en los que enfocar la atracción de inversiones [extranjeras.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-¿Moisés Caicedo puede ganar la Premier League?
-==============================================
-
-Enzo Maresca, DT de Moisés Caicedo en Chelsea, sorprendió con sus declaraciones sobre las aspiraciones del equipo.
-------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en el partido del Chelsea ante el Tottenham Hotspur en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T135915.246.jpg)
-
-El Chelsea del ecuatoriano **Moisés Caicedo** se encuentra en los altos sitiales de la Premier League y en zona de clasificación hacia torneos europeos. En función de hasta dónde puede llegar el equipo, el DT **Enzo Maresca** explicó cuáles son sus aspiraciones y si se puede o no ganar el torneo.
-
-Tras su último partido en la liga inglesa, que terminó en una victoria de 4-3 para los ‘blues’ en uno de los derbys de Londres, estos se ubicaron en el segundo puesto del torneo inglés. Su victoria les permitió sumar un total de **31 unidades.**
-
-### Más noticias:
-
-* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
-* [Chelsea y Moisés Caicedo le remontaron a los Spurs](https://www.elcomercio.com/deportes/futbol/chelsea-y-moises-caicedo-le-remontaron-a-los-spurs.html "Chelsea y Moisés Caicedo le remontaron a los Spurs")
-* [Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-capitanes-sebastian-beccacece.html "Sebastián Beccacece ha nombrado seis capitanes en la Selección de Ecuador")
-
-En aquel compromiso, **Moisés Caicedo** estuvo presente como titular y durante los 90 minutos de juego. Su actuación fue determinante para que la escuadra consiga el triunfo y tuvo un sólido papel tanto como lateral derecho, donde inició el partido, como en su posición habitual de volante central.
-
-A raíz de tal resultado y de la ubicación de privilegio en la tabla de posiciones de la Premier League, **Maresca** se pronunció en rueda de prensa. Allí, este aplicó paños fríos al momento que vive a su equipo y prefirió tomar con mesura el triunfo sin hacer grandes promesas.
-
-El Chelsea de Moisés Caicedo no está para pelear la Premier League
-------------------------------------------------------------------
-
-Durante su intervención, Maresca reconoció que su escuadra se encuentra en un buen nivel, sin embargo, sostuvo que aún le falta optimizar ciertos aspectos para estar **en lo más alto al final de la temporada**. Asimismo, destacó el nivel de otros rivales dentro de la Premier.
-
-“**Arsenal, Manchester City y Liverpool, probablemente, no resbalen como lo hizo Marc Cucurella (…) Seriamente, nosotros no estamos listos, estamos lejos de tales equipos. Nos centramos en el día a día e intentamos mejorar como equipo**“, sostuvo el estratega italiano al ser consultado si su equipo podría pelear la Premier League[.](https://en.wikipedia.org/wiki/Chelsea_F.C. "https://en.wikipedia.org/wiki/Chelsea_F.C.")
-
-Con la victoria que consiguió, el Chelsea quedó a **cuatro puntos del Liverpool**, líder del campeonato, y a con dos de distancia sobre el Arsenal, tercero en la tabla. Pese a ello, el conjunto de los ‘Reds’ aún tiene un partido por disputar.
-
-¿Qué más disputa el Chelsea durante el 2024?
---------------------------------------------
-
-La Premier League, donde el **Chelsea** vuela alto, no ha sido el único torneo para el conjunto británico durante este 2024. El plantel también tiene otros torneos locales e internacionales dentro de su agenda.
-
-A nivel de Inglaterra, la escuadra también disputó la Carabao Cup, de la cual ya fue eliminado, pero aún tiene pendiente la **FA Cup**. En este último certamen, el plantel iniciará desde la tercera ronda el 11 de enero del 2025, allí enfrentará al **Morecambe FC** de la League Two (cuarta división inglesa).
-
-Dentro de los torneos internacionales, el plantel también permanece con posibilidades dentro de la **UEFA Conference League**. En aquel certamen, el cuadro de Maresca y Moisés Caicedo se encuentra en la primera ronda, donde es el puntero absoluto.
-
-Inter Miami tomó una importante decisión sobre Leonardo Campana
-===============================================================
-
-Leonardo Campana es uno de los jugadores más experimentados del Inter de Miami.
--------------------------------------------------------------------------------
-
-![Leonardo Campana lleva tres temporadas en el Inter Miami de la Major League Soccer.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-09T132753.223.jpg)
-
-El **Inter Miami** tomó una decisión importante sobre su plantilla para la campaña 2025, anunciando a sus aficionados el lunes 9 de diciembre quiénes continuarán en el equipo y quiénes no.
-
-**Leonardo** **Campana** llegó al conjunto de Miami en enero de 2022, cedido desde el Wolverhampton de Inglaterra, donde nunca debutó. Tras un gran año y con los mejores números de su carrera, el Inter Miami decidió quedarse con el ecuatoriano.
-
-### Más noticias:
-
-* [Javier Mascherano, nuevo entrenador del Inter Miami](https://www.elcomercio.com/deportes/futbol/javier-mascherano-dt-inter-miami.html "Javier Mascherano, nuevo entrenador del Inter Miami")
-* [Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi](https://www.elcomercio.com/deportes/futbol/gerardo-martino-renuncia-como-dt-del-inter-miami-de-lionel-messi.html "Gerardo Martino renuncia como DT del Inter Miami de Lionel Messi")
-* [Inter Miami de Messi y Campana debuta con triunfo en los playoffs de la MLS](https://www.elcomercio.com/deportes/futbol/inter-miami-lionel-messi-leonardo-campana-debuta-triunfo-playoffs-mls.html "Inter Miami de Messi y Campana debuta con triunfo en los playoffs de la MLS")
-
-Inter Miami y su decisión sobre Campana
----------------------------------------
-
-A través de sus redes sociales, e**l Inter Miami se despidió de algunos jugadores** que formaron parte de la temporada 2024, mientras renovó a otros que fueron figuras, como es el caso de Jordi Alba.
-
-En un comunicado oficial, también se informó sobre otros miembros que continuarán en la siguiente campaña, entre ellos jugadores con contratos garantizados como **Lionel Mess**i, Luis Suárez y Leonardo Campana, entre otros.
-
-De los jugadores que formaron parte del equipo, solo siete no continuarán en el club, entre ellos Cole Jensen, Sergii Kryvtsov, Franco Negri, **Matías Rojas**, Lawson Sunderland y Felipe Valencia, todos con opciones de c**ontrato rechazadas**. Por su parte, Nicolás Freire vio vencer su préstamo.
-
-Leonardo Campana y sus números en Miami
----------------------------------------
-
-Campana es uno de los jugadores con más experiencia y antigüedad en el **Inter Miami**. El delantero, formado en **Barcelona SC**, ha acumulado 100 partidos en tres temporadas y ha portado el gafete de capitán en varias ocasiones. De hecho, es el tercer jugador con más partidos en la historia del club.
-
-Durante su primera campaña, anotó 12 goles, su mejor año como goleador. En 2023, marcó 11 tantos, mientras que en 2024, debido a las lesiones y la llegada de **Luis Suárez**, su rendimiento fue más intermitente, registrando solo 9 goles.
-
-En total, Leonardo **Campana suma 32 goles con la camiseta del Inter Miami** y, durante un tiempo, fue el máximo goleador histórico del club. Sin embargo, su récord fue superado por Lionel Messi, quien ahora cuenta con 34 tantos.
-
-En cuanto a títulos, el ecuatoriano ha estado presente en los dos únicos que ha ganado el club: la Leagues Cup 2019 y la **MLS Supporters’ Shield** 2024.
-
-Avances en la inclusión de venezolanos en Ecuador, según el Banco Mundial
-=========================================================================
-
-El Banco Mundial y Canadá destacaron avances en la inclusión de venezolanos. Estas iniciativas fortalecen la integración social y económica en Ecuador.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Migrantes venezolanos cruzan el río Tuquesa, luego de atravesar la selva del Darién, el pasado jueves 31 de octubre de 2024, en el Darién (Panamá).](https://www.elcomercio.com/wp-content/uploads/2024/12/venezolanos-Ecuador-banco-mundial.jpg)
-
-El **Banco Mundial** y el Gobierno de **Canadá** presentaron los resultados de una cooperación técnica que busca integrar a la población **migrante venezolana en Ecuador**, beneficiando tanto a las comunidades de acogida como a los migrantes[.](https://es.wikipedia.org/wiki/Crisis_de_refugiados_venezolana "https://es.wikipedia.org/wiki/Crisis_de_refugiados_venezolana")
-
-### Más noticias
-
-* [¿Cuál es la historia de Vinotinto, equipo que estará en Liga Pro?](https://www.elcomercio.com/deportes/vinotinto-ecuador-liga-pro-2025.html "¿Cuál es la historia de Vinotinto, equipo que estará en Liga Pro?")
-* [Combatir las causas de la migración forzada en Ecuador](https://www.elcomercio.com/opinion/editorial/combatir-las-causas-de-la-migracion-forzada-en-ecuador.html "Combatir las causas de la migración forzada en Ecuador")
-
-Migración de venezolanos en Ecuador, según el Banco Mundial
------------------------------------------------------------
-
-El **éxodo venezolano** representa uno de los mayores movimientos migratorios en América Latina. Ecuador, como quinto país con mayor **población venezolana** en la región, ha recibido a más de 444 000 migrantes.
-
-La mayoría se encuentra en **edad productiva** y reside en provincias como **Pichincha, Guayas, Manabí y Azuay**. Esta realidad ha llevado al país a implementar políticas inclusivas con el apoyo del **Banco Mundial** el Gobierno de Canadá.
-
-Desde 2022, esta **cooperación técnica** se ha enfocado en fortalecer las capacidades institucionales del Gobierno ecuatoriano. Instituciones como el **Ministerio de Relaciones Exteriores, la Senescyt** y el Ministerio de Trabajo han trabajado conjuntamente para diseñar mecanismos que faciliten la integración de los **migrantes venezolanos**.
-
-Reformas normativas
--------------------
-
-Entre los logros destacados se encuentra la reforma de normativas para el registro de títulos extranjeros, lo cual permite a los **migrantes ejercer sus profesiones** en el país. Además, se han desarrollado campañas de información para combatir la desinformación y promover narrativas positivas sobre la movilidad humana.
-
-El representante del **Banco Mundial, Boris Weber**, enfatizó que Ecuador ha demostrado solidaridad al recibir a cientos de miles de venezolanos. El **embajador de Canadá, Stephen Potter**, resaltó el acceso de Ecuador a fondos internacionales en condiciones favorables para atender la crisis migratoria. Estas acciones han permitido implementar **proyectos** que garantizan el acceso a salud, educación, y empleo para los migrantes, así como apoyo a las comunidades receptoras.
-
-Panel con diferentes sectores
------------------------------
-
-Durante el evento de presentación, se llevó a cabo un **panel con representantes** de diferentes sectores, quienes discutieron nuevas líneas de acción. Entre ellas, destacaron el **fortalecimiento de alianzas público-privadas** y el diseño de programas que impulsen la productividad y el bienestar económico de los migrantes y sus comunidades de acogida.
-
-El **viceministro de Movilidad Humana**, Saúl Pacurucu, subrayó que la gestión de la movilidad humana es un desafío prioritario para Ecuador. Reiteró que la cooperación internacional demuestra que la suma de esfuerzos puede generar impactos positivos para todos los **actores involucrados**.
-
-Nuera de Donald Trump deja el Partido Republicano y podría ir al Senado
-=======================================================================
-
-Lara Trump afirmó que logró cumplir con los objetivos que se planteó cuando asumió la dirección del partido.
-------------------------------------------------------------------------------------------------------------
-
-![La vicepresidenta del Comité Nacional Republicano, Lara Trump da un discurso.](https://www.elcomercio.com/wp-content/uploads/2024/12/lara-trump-efe-ok.jpg)
-
-**Lara Trump**, nuera del presidente electo de Estados Unidos, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/trump-quiere-sonadores-queden-estados-unidos.html "https://www.elcomercio.com/actualidad/mundo/trump-quiere-sonadores-queden-estados-unidos.html"), anunció su intención de **renunciar a su cargo de vicepresidenta** del **Comité Nacional Republicano** (RNC, en inglés) mientras crecen los rumores de que podría ocupar un **puesto vacante en el Senado.**
-
-### Más noticias
-
-* [Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump](https://www.elcomercio.com/actualidad/mundo/brasil-teme-impactos-industria-posible-proteccionismo-donald-trump.html "Brasil teme impactos a su industria por el posible proteccionismo de Donald Trump")
-* [Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-hablo-con-donald-trump-sobre-migracion-y-aranceles.html "Claudia Sheinbaum habló con Donald Trump sobre migración y aranceles")
-* [Nuevos fichajes de Donald Trump para su gobierno: un consuegro y varios magnates](https://www.elcomercio.com/actualidad/mundo/nuevos-fichajes-donald-trump-gobierno-consuegro-magnates.html "Nuevos fichajes de Donald Trump para su gobierno: un consuegro y varios magnates")
-
-En un mensaje en redes sociales, Lara Trump afirmó que logró **cumplir con los tres objetivos** que se planteó cuando asumió la dirección del partido en marzo pasado. Superó los récords de **recaudación,** construir un “ejército” de observadores electorales y conseguir que millones de personas votaran de forma anticipada.
-
-“El trabajo que vine a hacer fue completado y tengo la intención de retirarme formalmente del RNC en nuestra próxima reunión”, declaró la dirigente, quien no anticipó sus planes de futuro.
-
-Lara Trump es la esposa de Eric Trump
--------------------------------------
-
-Lara Trump, casada con Eric Trump, uno de los hijos de Donald Trump, suena cada vez con más fuerza como reemplazo del **senador por Florida Marco Rubio,** a quien el presidente electo nominó como próximo secretario de Estado.
-
-“Si me eligen para desempeñar otro cargo, sería un verdadero honor para mí”, declaró el mes pasado al ser preguntada por este tema en una entrevista con la cadena Fox News.
-
-La tarea de elegir al nuevo senador corresponde al gobernador de Florida, el republicano Ron DeSantis, quien se enfrentó a Donald Trump en las primarias del partido pero luego le declaró su respaldo electoral.
-
-Además, según medios locales, el presidente electo **baraja nominar a DeSantis** como secretario de Defensa ya que la candidatura de su actual nominado, Pete Hegseth, se tambalea tras haber sido acusado de haber **abusado de una mujer en California** en 2017 y de alcoholismo.
-
-Sin embargo, en una entrevista este domingo con la cadena NBC, Trump se mostró confiado en que Hegseth, quien **negó agredir sexualmente a una mujer,** logrará el apoyo de la mayoría del Senado para ser ratificado al frente del Pentágono.
-
-Lara Trump asumió la Vicepresidencia del RNC el pasado 8 de marzo tras recibir el respaldo de su suegro en una muestra del control que la familia Trump ejerce sobre el Partido Republicano.
-
-En su mensaje de despedida, agradeció el apoyo y el trabajo tanto de Trump como del presidente del RNC, Michael Whatley.
-
-Guayaquil tiene altas temperaturas y radiación ‘muy alta’
-=========================================================
-
-Una ligera llovizna en la madrugada del sábado podría ser el inicio de la temporada de grillos que ya están en el ambiente de Guayaquil
----------------------------------------------------------------------------------------------------------------------------------------
-
-![La radiación ultravioleta en Guayaquil se encuentra en niveles muy altos.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T130309.573.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología **(Inamhi)** informó sobre la**s condiciones climáticas** presentes en Guayaquil este lunes 9 de diciembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
-* [Autopista General Rumiñahui está parcialmente habilitada](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-esta-parcialmente-habilitada.html "Autopista General Rumiñahui está parcialmente habilitada")
-* [Ernesto Albán Gómez falleció a los 87 años](https://www.elcomercio.com/actualidad/ecuador/ernesto-alban-gomez-fallecio-a-los-87-anos.html "Ernesto Albán Gómez falleció a los 87 años")
-
-Aumento de temperaturas
------------------------
-
-Según el pronóstico del tiempo enviado por el **Inamhi,** este lunes 9 de diciembre se prevé un aumento de temperaturas, sobre todo durante las mañanas.
-
-En Guayaquil, la temperatura podría alcanzar **rangos máximos de hasta 34 grados** centígrados y mínimos de 22 grados en las madrugadas.
-
-Durante la mañana de este lunes el clima se mantuvo **caluroso en la mañana,** pero sobre todo con alto nivel de humedad en el ambiente.
-
-El cielo se mantiene parcialmente nublado con **claros ocasionales** y en la tarde aumentará la nubosidad y el viento. La noche estará nublada.
-
-Guayaquil atraviesa una temporada sin lluvias; sin embargo, **la madrugada del sábado una llovizna** se hizo presente.
-
-Según guayaquileños, como Estefanía Paladines, la lluvia marca el inicio de la temporada de grillos, los cuales ya son visibles en las calles y viviendas de la ciudad.
-
-Aumento de radiación
+Los chullas quiteños
 --------------------
 
-El Inamhi informó sobre el aumento de **índices de radiación ultravioleta en Guayaquil** y toda la provincia.
+Elegantísimo, bien afeitado y peinado, rayas del pantalón cuál cuchilla, cuello y puños de la camisa impolutos, corbata vistosa, medias finas y zapatos brillantes, locuaz y pícaro, “dicharrachero” y “piropero”, soñador y gentil de mente ágil y con respuesta para todo, generalmente sin medio en el bolsillo, pero con una “sal” envidiable para contar los “cachos” y un volumen de versos almacenados en el cerebro; así es o fue el “Chulla Quiteño”. Inspiró un hermoso pasacalle que es todo un himno que vibra en las “chivas” y en los festivales y dejó bien sentado su poder seductor y su estirpe. Y que nadie se atreva a quitarle la leva o espulgar sus pies, porque encontrará que no hay mangas ni espalda en la camisa y en las suelas dos tremebundos “chilpidos” que pronto han de convertirse en huecos. “Feriado ha de ser el día de su nacimiento bonita” “Si yo fuera usted no podría vivir sin mí”, “Sus ojos son más negros que mi destino”, le susurraba a la guapa quiteña, para luego volar donde los “ciegos” de la 24 y convencerlos de un serenito gratis. Actores de anécdotas y cuentos, conocedores de todo el mundo e infaltables en todas las farras, así forjaron su historia, el “Lluqui” Endara, el “payaso”. Vega, el “terrible” Martínez y el Fernando Suasnavas, este último aún en vigencia. Él siempre empieza diciendo en sus números humorísticos: “voy a tratar de hacer algo muy difícil en estos tiempos: arrancarles una sonrisa’ y luego desarrolla con memoria prodigiosa y mímica genuina, cientos de “cachos” que de tanto divertir lastiman las comisuras, para terminar con el infaltable verso que pondera la “Canción a mi Loma Grande”, el “Poema de la culpa” o la “Canción a los barrios de Quito”. Pareciera que por él no han pasado los años, pero aun así los amigos suelen opinar: “a este viejo sí que hay que cuidarle”, para luego parafrasear algunos fragmentos en honor a su arte dedicados y que, a través de sus ejecutorias, se pueden extender a todos los chullas quiteños: “Del verso frené-tico/ y del chiste raudo/ que bordeando la ironía/ obliga a la gente/ a que siempre sonría. De hacer cómplices a todos/ del bullicio contumaz/ de trocar penas en risas/ de todo ello eres capaz. Picar-día, sal quiteña/ risotada y lágrima/ anécdotas y mundo/ todo aquello en un segundo”. Es poco lo que se pueda decir de estos hidalgos nativos de la “Cara de Dios”, sus “fechorías” sanas alteraron entre carcajadas y mojigatos comentarios la franciscana tranquilidad de Quito y fueron luego inspiradoras de fábulas y cuentos que de generación en generación han llegado hasta nuestros días para alegrarnos la vida. Paradójicamente, los “chullas quiteños” gracias al modernismo no han tenido descendencia artística y su recuerdo va diluyéndose o simplemente muriendo abrazado en el armario donde yacen también los hermosos pasillos y yaravíes que ya nadie compone; algo habrá que hacer para evocarlos en este Quito que por muchas causas, entre ellas la ingratitud, jamás volverá a ser el que añoramos y con nostalgia recordamos sobre todo en el mes de diciembre.
 
-Debido a que el cielo no tendrá mucha nubosidad**, los rayos solares** penetran directamente a la superficie terrestre. Por ello, **los índices de radiación UV se elevan.**
+Carlos Mosquera Benalcázar
 
-Guayas tendrá un índice de radiación ultravioleta en niveles 10, lo que corresponde a **‘Muy alto’.**
-
-Tenga precaución, **manténgase hidratado**, use gorras, gafas, protector solar y ropa que cubra su piel.
-
-> [#RadiacionMaximaUVEc](https://twitter.com/hashtag/RadiacionMaximaUVEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del Índice Máximo de Radiación Ultravioleta previsto para el lunes 9 de diciembre de 2024. Se espera los mayores índices en horas próximas al mediodía. [pic.twitter.com/yfA2L5r1nM](https://t.co/yfA2L5r1nM)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [December 8, 2024](https://twitter.com/inamhi_ec/status/1865902253573382299?ref_src=twsrc%5Etfw)
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Premier League destaca las cualidades de Moisés Caicedo con Chelsea
-===================================================================
-
-Moisés Caicedo tuvo un rendimiento superlativo con el Tottenham ante el Chelsea y la Premier League destacó sus cualidades.
----------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en su último partido con el Chelsea ante Tottenham.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T115510.562.jpg)
-
-**Moisés Caicedo** es una de las estrellas del Chelsea y su rendimiento no para de deslumbrar a la Premier League de Inglaterra. Tras su último partido ante el Tottenham Hotspur, el torneo destacó su actuación y el papel que tuvo.
-
-En el más reciente compromiso de los ‘blues’, Caicedo estuvo presente como titular y jugó los 90 minutos de juego. Tras un vaivén de emociones y de superioridad dividida, el cuadro del ecuatoriano se impuso por un marcador de **4-3** a sus adversarios.
-
-### Más noticias:
-
-* [Chelsea y Moisés Caicedo le remontaron a los Spurs](https://www.elcomercio.com/deportes/futbol/chelsea-y-moises-caicedo-le-remontaron-a-los-spurs.html "Chelsea y Moisés Caicedo le remontaron a los Spurs")
-* [Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea](https://www.elcomercio.com/deportes/futbol/moises-caicedo-conquista-el-premio-al-mejor-gol-del-mes-en-el-chelsea.html "Moisés Caicedo conquista el premio al mejor gol del mes en el Chelsea")
-* [Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/real-madrid-chelsea-boca-juniors-los-duelos-imperdibles-del-mundial-de-clubes.html "Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes")
-
-Dentro del compromiso, el futbolista tricolor arrancó el partido como lateral derecho, a pesar de no ser su posición habitual. De cara a los segundos 45 minutos de juego, el DT **Enzo Maresca** lo situó en su puesto natural en el centro del campo.
-
-A partir de aquel cotejo, la Premier League mostró el mapa de calor de **Moisés Caicedo** con respecto a su cotejo. Dentro del informe, la entidad británica calificó a la actuación del ecuatoriano como “crucial” para su escuadra.
-
-“**Moisés Caicedo se movió desde el lateral derecho a un rol más central a la mitad del partido frente a los Spurs y fue determinante para el éxito de su equipo, que terminó**“, por ganar, agregó la liga inglesa.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDVHdplOqIC/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Premier League (@premierleague)](https://www.instagram.com/p/DDVHdplOqIC/?utm_source=ig_embed&utm_campaign=loading)
-
-Moisés Caicedo, el ‘todocampista’ del Chelsea
----------------------------------------------
-
-Moisés Caicedo y su papel en el Chelsea han ido en ascenso desde que arribó a mediados del 2023 a la escuadra. El volante lo hizo después de que el equipo pagase **146 millones de dólares** por su fichaje, lo cual convirtió su traspaso en el más caro en la historia de la Premier League.
-
-En su primera temporada, el ecuatoriano tuvo como DT a **Mauricio Pochettino** y ya se destacó. Pese a ello, su vigente momento, el mejor de su carrera con apenas 22 años, lo vive con el entrenador **Enzo Maresca**, quien ha apostado por sacarle mayor provecho a sus capacidades.
-
-Al desempeñarse como volante central, el futbolista ha tenido incidencias en ataque y ha colaborado en **coberturas defensivas**. De tal forma, este es uno de los encargados de manejar las transiciones, sin embargo, entre sus nuevas virtudes también está la adaptación a nuevos roles. Como **lateral derecho**, en su último duelo y en el previo a este, Caicedo respondió y tuvo una sobria actuación.
-
-Los números de Moisés Caicedo con el Chelsea en el 2024
--------------------------------------------------------
-
-Con el Chelsea en la presente temporada en la **Premier League**, Moisés Caicedo acumula 15 partidos y promedia 88 minutos de juego en cada uno. Ha conseguido un gol, que se lo marcó al Manchester United, y dos asistencias.
-
-A nivel defensivo tiene una media de **1.5 intercepciones por cotejo y 3.1 entradas**. Asimismo, recupera **5.3 balones** en cada cotejo.
-
-Vacaciones de Navidad y Año Nuevo: fechas y actividades para estudiantes en Ecuador
-===================================================================================
-
-Los días de vacaciones escolares por Navidad y Año Nuevo tienen detalles para considerar.
------------------------------------------------------------------------------------------
-
-![Los estudiantes en Ecuador tendrán vacaciones por Navidad y Año Nuevo.](https://www.elcomercio.com/wp-content/uploads/2024/12/vacaciones-escolares-navidad.jpg)
-
-Las **vacaciones** por **Navidad y Año Nuevo** para los **estudiantes** en Ecuador se acercan. A la programación inicial dispuesta por el **Ministerio de Educación** se sumaron dos días de feriado[.](https://es.wikipedia.org/wiki/Ecuador)[](https://es.wikipedia.org/wiki/Ecuador)
-
-Así se determinó desde el Gobierno, con el argumento de incentivar el turismo en el país y la reactivación económica. El cronograma escolar contempla que los alumnos deben cumplir **200 días por cada año lectivo.**
-
-### Más noticias
-
-* [Ministerio de Defensa aprobó beneficio educativo a familias militares](https://www.elcomercio.com/actualidad/ecuador/ministerio-defensa-aprobo-beneficio-educativo-familias-militares.html "Ministerio de Defensa aprobó beneficio educativo a familias militares")
-* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
-* [Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil](https://www.elcomercio.com/actualidad/seguridad/ministerio-educacion-responde-caso-abuso-plantel-guayaquil.html "Ministerio de Educación responde a caso de presunto abuso en plantel en Guayaquil")
-
-> A la ciudadanía: [pic.twitter.com/78wUbdzd1b](https://t.co/78wUbdzd1b)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [December 6, 2024](https://twitter.com/Presidencia_Ec/status/1865075931196338259?ref_src=twsrc%5Etfw)
-
-Vacaciones escolares por Navidad y Año Nuevo
---------------------------------------------
-
-Los estudiantes, tanto del régimen **Sierra-Amazonía** cuanto del **Costa-Galápagos**, tendrán vacaciones del 26 al 31 de diciembre de 2024.
-
-A la par, los niños y adolescentes de las instituciones educativas tendrán descanso por los **feriados** del 25 de diciembre por **Navidad y el 1 de enero por año nuevo**.
-
-A ese cronograma se suman los dos días de **feriado**, definidos por el gobierno de **Daniel Noboa**. Estos son el 2 y 3 de enero de 2025. Estos, a su vez, se empatan con el sábado 4 y domingo 5.
-
-La ministra de Educación, **Alegría Crespo**, durante una entrevista en Radio Pública, recalcó que los estudiantes deben completar el calendario escolar de [200 días por cada año lectivo](https://educacion.gob.ec/wp-content/uploads/downloads/2024/06/cronograma-Sierra-Amazonia-2024-2025.pdf).
-
-Por eso, aunque en el caso de los trabajos las jornadas no son recuperables, las **jornadas de descanso** de las **vacaciones escolares por el feriado** de Año Nuevo se recuperarán al final de ciclo.
-
-Una guía para aprovechar las vacaciones
----------------------------------------
-
-Aunque son días de descanso, se puede aprovechar para terminar tareas, proyectos o preparar **exámenes por venir**.
-
-A la par, los niños y jóvenes pueden aprovechar para investigar sobre temas que estarán incluidos en el siguiente escolar.
-
-En el caso del régimen **Sierra-Amazonía**, al regresar de las vacaciones empezarán un nuevo período. En la Costa, en cambio, se aproximan al final del año lectivo.
-
-Otra alternativa son los cursos en línea sobre materias que pueden requerir **refuerzos** o, a su vez, que vaya con intereses de los chicos.
-
-### Actividades para disfrutar las vacaciones
-
-* **Paseos familiares**: caminatas en la naturaleza, en parques o montañas.
-* **Jardinería navideña**: organizar un espacio con plantas de temporada o crea tu propio huerto en casa.
-* **Artesanía navideña**: crear adornos para el árbol de Navidad, tarjetas de felicitación o regalos hechos a mano.
-* **Escribir una historia**: utiliza la inspiración de las festividades para escribir un cuento corto.
-* **Fotografía**: tomar fotos durante las celebraciones familiares y crea un álbum con recuerdos.
-
-**Actividades culturales**
---------------------------
-
-* **Visitar museos o exposiciones**: muchos museos tienen actividades especiales para las vacaciones, ya sea de manera presencial o virtual. En Quito, por ejemplo, está el Museo Interactivo de Ciencias, Yaku, Museo de la Ciudad, entre otros.
-* **Ver películas o series temáticas**: organizar una maratón de películas navideñas o series que te gustan.
-* **Cultura local**: participa en eventos tradicionales o festividades de la ciudad o región. Puede ser una ocasión para visitar sitios relacionados con la temática, como El Panecillo.
-
-**Aprende a cocinar**
----------------------
-
-* **Experimentar** con recetas navideñas o platos típicos de la temporada.
-* **Prepara postres** como galletas, turrones o pan y comparte con los seres queridos.
-* **Compartir** las recetas puede ser una opción para los regalos navideños.
-
-**Juegos familiares**
----------------------
-
-* **Organizar** noches de juegos de mesa o juegos en línea con amigos y familiares.
-* **Preparar** una competencia de cocina o manualidades para fomentar la creatividad en grupo.
-
-**Reflexión personal** **o en familia**
----------------------------------------
-
-* **Escribir un diario**: motivar a los chicos a reflexionar sobre el año que pasó, sus experiencias y lo que aprendieron
-* **Planificación del futuro**: reflexiona sobre el camino académico, qué les gustaría lograr y cómo poder alcanzarlo.
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres ecuatorianas que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles
-==============================================================================
-
-Independiente del Valle necesita una hazaña para remontar ante Liga de Quito en la final de la Liga Pro 2024.
--------------------------------------------------------------------------------------------------------------
-
-![Liga de Quito venció a Independiente del Valle en la final de ida de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-09T124430.901.jpg)
-
-La final de vuelta de la Liga Pro entre **Liga de Quito e Independiente del Valle** se disputará el próximo sábado 14 de diciembre en el Estadio de IDV, que espera estar lleno para este decisivo encuentro.
-
-El partido está programado para las 15:30, a pesar de un intento previo de moverlo a las 17:00; sin embargo, **Liga** **Pro** ha decidido mantener el horario original.
-
-### Más noticias:
-
-* [IDV necesita una hazaña para remontar a Liga de Quito en la final](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")
-* [Alex Arce, el delantero que encamina a Liga de Quito a un nuevo título](https://www.elcomercio.com/deportes/futbol/alex-arce-el-delantero-que-encamina-a-liga-de-quito-a-un-nuevo-titulo.html "Alex Arce, el delantero que encamina a Liga de Quito a un nuevo título")
-* [Independiente se disculpó por la derrota ante Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-se-disculpo-por-la-derrota-ante-liga-de-quito.html "Independiente se disculpó por la derrota ante Liga de Quito")
-
-**Liga de Quito llega a esta final con ventaja**, luego de haber goleado 3-0 a Independiente del Valle en la final de ida, jugada el sábado 7 de diciembre en el Estadio Rodrigo Paz Delgado.
-
-¿Cuánto cuestan las entradas?
------------------------------
-
-La venta de entradas para los hinchas de Independiente del Valle comenzó el viernes 6 de diciembre.
-
-Los precios son los siguientes: la general cuesta **30 dólares, la tribuna también 30, y el palco tiene un costo de 55 dólares**, siendo estos precios más económicos que los de la final de ida en el Estadio Rodrigo Paz Delgado, donde algunas localidades llegaron a duplicar los valores.
-
-Para los aficionados de Liga de Quito, **IDV** ya entregó los boletos a la dirigencia alba, quienes se encargarán de la venta. Sin embargo, aún no han especificado cómo ni cuándo se pondrán a la venta.
-
-Resumen de la final de ida
---------------------------
-
-El partido comenzó con una propuesta ofensiva por parte de los locales, que no tardaron en generar peligro con las llegadas de Bryan Ramírez y **Jhojan Julio** por las bandas. I**ndependiente del Valle**, en cambio, adoptó una postura más conservadora, buscando evitar errores defensivos ante la presión de Liga.
-
-A los 19 minutos, Daniel de la Cruz estrelló un potente remate en el travesaño. En la siguiente jugada, **Arce** tuvo una oportunidad clara, pero el arquero visitante, Guido Villar, evitó el gol con una gran intervención.
-
-Aunque los rayados tuvieron su mejor ocasión a los 25 minutos con un tiro libre de Yaimar Medina, el primer tiempo terminó con la ventaja parcial para **Liga de Quito**, gracias a un cabezazo de Alex Arce tras un excelente centro de Julio.
-
-En la segunda mitad, Independiente del Valle intentó tomar el control, pero fue Liga quien amplió su ventaja. A los 57 minutos, **Alex Arce** anotó su segundo gol al desviar un disparo de Bryan Ramírez, y a los 72, Gabriel Villamil selló el 3-0 con un potente disparo desde fuera del área.
-
-Shakira y el ganador de su Lamborghini comparten una dolorosa experiencia personal
-==================================================================================
-
-Shakira entregó su auto el pasado 6 de diciembre.
--------------------------------------------------
-
-![El pasado 6 de diciembre, Shakira sorteó su auto de lujo. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T121402.873.jpg)
-
-El pasado 6 de diciembre de 2024, **Shakira** anunció con gran emoción el nombre del ganador de su lujoso **Lamborghini Urus.**
-
-Ese sorteo -que generó un gran interés entre sus seguidores- fue una manera de agradecer el apoyo incondicional que ha recibido a lo largo de su carrera.
-
-M**ichael Mejía** se destacó entre miles de **participantes** gracias a su creatividad y dedicación. Todos esos elementos fueron fundamentales para su victoria en este concurso.
-
-### Más noticias:
-
-* [Shakira inspira una serie de streaming llamada ‘Celeste’](https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html "https://www.elcomercio.com/afull/shakira-serie-celeste-streaming-movistar.html")
-* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html")
-* [Liam Payne y la controversia de la ‘cocaína rosa’](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cocaina-rosa-deceso.html")
-
-**¿Por qué Shakira sorteó su auto?**
-------------------------------------
-
-**Shakira** lanzó el concurso a mediados de noviembre, invitando a sus seguidores en **Estados Unidos** a participar mediante la creación de videos inspirados en su canción Soltera.
-
-La artista explicó que el objetivo del sorteo era celebrar la creatividad y el ingenio de sus fans. “Me hace feliz poder regalar este carro como un tributo a la creatividad de todos ustedes”, expresó Shakira en un mensaje emotivo compartido en sus redes sociales.
-
-Los participantes debían enviar videos que reflejaran cómo la canción había impactado sus vidas.
-
-**¿Quién ganó el Lamborghini de Shakira?**
-------------------------------------------
-
-Michael Mejía presentó un video donde combinó animaciones de sus propios dibujos con la música de Shakira. Eso le valió ser uno de los cinco finalistas.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDM_Aq1Oku8/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Michael Mejia (Meh’-Hee-Uh) (@michaelmejiaart)](https://www.instagram.com/reel/DDM_Aq1Oku8/?utm_source=ig_embed&utm_campaign=loading)
-
-Su video no solo capturó la atención del público, pero también resonó con la historia personal del joven, quien compartió su experiencia tras un difícil divorcio, lo que hizo aún más conmovedora su participación.
-
-**Así reaccionó el ganador del auto de Shakira**
-------------------------------------------------
-
-Al ser anunciado como el ganador durante el programa ‘**Despierta América’**, Mejía no pudo contener la emoción. “Este es el logro más grande de mi vida”, afirmó entre lágrimas, rodeado de familiares y amigos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDPi4zrO6rj/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Michael Mejia (Meh’-Hee-Uh) (@michaelmejiaart)](https://www.instagram.com/reel/DDPi4zrO6rj/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Cómo es el Lamborghini que regaló Shakira?**
------------------------------------------------
-
-El Lamborghini Urus 2022, cuyo valor supera los 460 000 dólares Es un símbolo del éxito y la creatividad.
-
-**Shakira** enfatizó que el vehículo representa más que un premio material; es una celebración de las historias compartidas por sus seguidores y un recordatorio de que tanto casados como solteros pueden encontrar felicidad en sus propias circunstancias.
-
-Los cortes de agua potable terminan en Quito, ¿desde cuándo?
-============================================================
-
-En su alocución radial de los lunes, el Alcalde de Quito anunció el fin de los racionamientos de agua preventivos.
-------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de agua terminaron en la capital tras el regreso de las lluvias.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T120305.164.jpg)
-
-Durante su enlace de los días **lunes**, el alcalde de Quito, **Pabel Muñoz**, anunció este **9 de diciembre del 2024**, el **fin de los cortes de agua** **potable** en la capital. El **incremento** de las **lluvias** de los últimos días permite tomar este paso, dijo el burgomaestre quiteño.
-
-### Más Noticias
-
-* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
-* [Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-se-realizan-en-95-barrios-de-quito-hasta-el-8-de-diciembre.html "Cortes de agua se realizan en 95 barrios de Quito hasta el 8 de diciembre")
-* [Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?](https://www.elcomercio.com/actualidad/negocios/cuatro-dias-seguidos-lluvias-cuenca-como-mejorado-paute-mazar.html "Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?")
-
-Cortes de agua terminan en Quito
---------------------------------
-
-Casi al finalizar su informe radial en la sede de ConQuito, **Muñoz** mostró un papel en donde se ve el **aumento de las lluvias**, especialmente durante las Fiestas de Quito. Según indicó, las lluvias superaron los **100 mm cúbicos.**
-
-“Todavía no llegamos a los registros históricos en este 2024, pero sí hemos mejorado”, dijo el Alcalde sobre el sistema Pita-Puengasí. Añadió que se había dicho que se necesitaba una lluvia sostenida durante 10 días consecutivos. Con los ocho que hubo hasta el domingo 8 de diciembre, se levantan las medidas. “**Nuevamente, el 100% de Quito tendrá agua**“, dijo Muñoz.
-
-Según el cronograma divulgado, **los racionamientos** se mantuvieron el 2, 4, 6 y 8 de diciembre en 95 barrios de la ciudad.
-
-Razones de los cortes de agua
------------------------------
-
-Desde el 12 de noviembre, se implementaron **racionamientos** rotativos en diferentes sectores de la ciudad. Para la Alcaldía, eran preventivos. La intención era evitar, en un futuro cercano y si el clima se mantenía seco, racionamientos más severos[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-Los **cortes de agua** se planificaron en horarios nocturnos y diurnos según la ubicación. Afectaron fundamentalmente a barrios como Chimbacalle, San Bartolo, Guápulo y La Magdalena, entre otros.
-
-Las interrupciones buscaban garantizar una distribución equitativa y permitir la recuperación de los niveles de los **tanques de reserva**, como los de San Juan de Calderón y Mariana de Jesús​.
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-¿Cómo evitar robos durante las compras navideñas en Quito?
-==========================================================
-
-En las vísperas de Navidad, las personas suelen adquirir regalos para sus seres queridos, lo que genera aglomeraciones y eleva el riesgo de delitos de oportunidad.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los locales comerciales ya empiezan a ofertar productos navideños.](https://www.elcomercio.com/wp-content/uploads/2024/12/Compras-navidad.jpg)
-
-El **Centro Histórico de Quito** y los **centros comerciales** ya ofrecen productos navideños, y muchas personas comenzaron a realizar sus compras. Según expertos como **Cristian Rivera**, esta actividad puede implicar ciertos riesgos[.](https://es.wikipedia.org/wiki/Navidad "https://es.wikipedia.org/wiki/Navidad")
-
-Más noticias
-------------
-
-* [¿Por qué los gatos atacan los árboles de Navidad y cómo prevenirlo?](https://www.elcomercio.com/afull/gatos-arboles-navidad-tutorial.html "¿Por qué los gatos atacan los árboles de Navidad y cómo prevenirlo? ")
-* [Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?](https://www.elcomercio.com/actualidad/quito/quito-arbol-natural-navidad-40-metros-ubicado.html "Quito disfrutará de un árbol natural de Navidad de 40 metros de altura ¿Dónde está ubicado?")
-* [Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?](https://www.elcomercio.com/actualidad/quito/solidaridad-fiestas-quito-navidad-donde-donar.html "Solidaridad en fiestas de Quito y Navidad, ¿en dónde donar?")
-
-En este contexto, presentamos una lista de recomendaciones prácticas para realizar **compras navideñas** de manera segura.
-
-Consejos para realizar compras navideñas de forma segura
---------------------------------------------------------
-
-Cristian Rivera, experto en riesgos, advierte que lugares como el **Centro Histórico de Quito** concentrarán una gran cantidad de personas, lo que incrementa la probabilidad de **delitos** **comunes**, como **robos**. Estas son sus recomendaciones para minimizar los riesgos:
-
-* **Planificar las compras en lugares seguros:** Elija sitios confiables y lleve solo el dinero en efectivo necesario.
-* **Evitar portar objetos de valor:** Las aglomeraciones facilitan los delitos de oportunidad.
-* **Estacionar en parqueaderos autorizados:** Utilice estacionamientos seguros y asegúrese de que las pertenencias no queden visibles dentro del vehículo.
-* **Evitar salir con niños, personas con discapacidad o adultos mayores:** Si es necesario llevarlos, proporcione tarjetas con sus nombres y números de contacto para facilitar su localización en caso de extravío.
-* **Estar alerta al “cambiazo”:** Compre únicamente en locales reconocidos y autorizados para evitar este tipo de estafa.
-* **Qué es cambiazo:** Es un tipo de estafa en el que se sustituye una tarjeta de crédito o débito por una falsa mientras la persona afectada está distraída, con el propósito de obtener los datos de la tarjeta original.
-* **Tomar precauciones al retirar dinero de cajeros automáticos:** Observe su entorno, no acepte ayuda de desconocidos y asegúrese de que el cajero no presente alteración o elementos extraños.
-* **Traslado de valores:** Si necesita retirar dinero de un cajero automático, puede comunicarse al 911 y solicitar el servicio de traslado de valores. Un agente lo acompañará de forma segura hasta su destino.
-
-Lugares considerados de mayor riesgo
-------------------------------------
-
-Rivera identifica como puntos inseguros, debido a la **aglomeración de personas**, los siguientes:
-
-* Inmediaciones de La Marín.
-* Centro Comercial El Recreo.
-* Alrededores del Centro Comercial Ipiales.
-* Inmediaciones del Centro de Negocios Andinos.
-* Centros comerciales en general.
-* Estaciones de transporte público como Carcelén y Río Coca.
-
-El experto señala que en áreas con **grandes concentraciones** de personas aumentan los riesgos de **estafas** y otros delitos.
-
-Aplicar estas recomendaciones contribuirá a disfrutar de las compras navideñas con mayor seguridad y tranquilidad.
-
-¿Cómo calcular el decimotercer sueldo?
-======================================
-
-El decimotercer sueldo es un beneficio laboral que se paga hasta el 24 de diciembre, según el Código de Trabajo.
-----------------------------------------------------------------------------------------------------------------
-
-![Pago del décimo tercer sueldo, un derecho laboral que alivia los gastos de fin de año.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-89.jpg)
-
-El **decimotercer sueldo**, conocido también como **‘bono navideño’**, es una remuneración adicional que reciben los trabajadores en **relación de dependencia**.
-
-### Más noticias
-
-* [¿Cuándo se paga el decimotercer sueldo?](https://www.elcomercio.com/actualidad/negocios/hasta-cuando-se-paga-decimo-tercer-sueldo.html "¿Cuándo se paga el decimotercer sueldo?")
-* [Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno](https://www.elcomercio.com/actualidad/negocios/pago-sueldo-decimos-diciembre-asegurado-gobierno.html "Pago de sueldos y décimos de diciembre estarían asegurados por parte del Gobierno")
-* [Gobierno pagará deuda histórica a las Fuerzas Armadas](https://www.elcomercio.com/actualidad/politica/gobierno-pagara-deuda-historica-fuerzas-armadas.html "Gobierno pagará deuda histórica a las Fuerzas Armadas")
-
-Este beneficio corresponde a la doceava parte de las **remuneraciones percibidas entre el 1 de diciembre del año anterior y el 30 de noviembre** del año en curso. Su objetivo es proporcionar un ingreso extra durante la **temporada navideña**, ayudando a los empleados a afrontar los gastos típicos de fin de año.
-
-Según el **Código de Trabajo**, el decimotercer sueldo debe pagarse **hasta el 24 de diciembre de cada año**. Los trabajadores pueden optar por recibir este beneficio de forma **acumulada en diciembre o mensualizado** a lo largo del año, decisión que debe comunicarse por escrito al empleador antes del 15 de enero.
-
-Es importante destacar que este pago es obligatorio para todos los empleadores y su incumplimiento puede acarrear sanciones legales.
-
-Elementos incluidos en el cálculo del decimotercer sueldo
----------------------------------------------------------
-
-Para determinar el monto del decimotercer sueldo, se suman todas las remuneraciones recibidas durante el período de cálculo. Esto incluye el s**alario básico, horas extras, comisiones y cualquier otra remuneración adicional** que el trabajador haya percibido.
-
-Sin embargo, no se consideran para este **cálculo las utilidades, vacaciones, decimocuarto sueldo, viáticos ni compensaciones por salario digno**. La suma total de las remuneraciones consideradas se divide entre doce, resultando en el valor que corresponde al decimotercer sueldo.
-
-Ejemplo práctico de cálculo
----------------------------
-
-Supongamos que un trabajador ha recibido un salario mensual de **500 dólares** y ha percibido 50 dólares mensuales por **horas extras durante todo el período de cálculo**. La suma total de sus remuneraciones sería:
-
-* Salario: **500 dólare**s x **12 meses** = 6 000 dólares
-* Horas extras: **50 dólares** x **12 meses** = 600 dólares
-* Total anual: **6 000 dólares** + **600 dólares** = 6 600 dólares
-
-Al dividir este total entre 12, obtenemos:
-
-* Decimotercer sueldo: **6 600 dólares** / 12 = **550 dólares**
-
-Por lo tanto, este trabajador recibiría **550 dólares como decimotercer sueldo** hasta el 24 de diciembre.
-
-También se puede realizar el cálculo en la página del [Ministerio de Trabajo](https://calculadoras.trabajo.gob.ec/tercero "https://calculadoras.trabajo.gob.ec/tercero").
-
-* * *
-
-### Esperanza
-
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
-
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
-
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
-
-Cronología de 13 años de guerra civil en Siria
-==============================================
-
-En mayo de 2011, en la llamada primavera árabe estallaron protestas contra el presidente sirio, Bashar el Asad, bajo el lema 'Una Siria sin tiranía'.
------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los partidarios de la oposición siria ondean su bandera y la bandera drusa mientras celebran la toma rebelde de Damasco, en la aldea de Majdal Shams.](https://www.elcomercio.com/wp-content/uploads/2024/12/siria-cronologia-efe.jpg)
-
-12 días de **ofensiva rebelde** en [Siria](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html") acabaron con el **régimen de Bashar al Asad,** que libraba una guerra civil contra **diferentes grupos insurgentes** desde 2011 y que desde 2019 hasta finales del pasado mes de noviembre parecía tener la **situación bajo control**.
-
-### Más noticias
-
-* [Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib](https://www.elcomercio.com/actualidad/mundo/insurgentes-encargan-formar-gobierno-siria-presidente-administracion-idlib.html "Insurgentes encargan formar gobierno en Siria al presidente de la administración de Idlib")
-* [Embajada siria confirma que Al Asad se encuentra en Moscú](https://www.elcomercio.com/actualidad/mundo/embajada-siria-confirma-que-al-asad-se-encuentra-en-moscu-2.html "Embajada siria confirma que Al Asad se encuentra en Moscú")
-* [Bachar al Asad abandonó el poder en Siria y huyó](https://www.elcomercio.com/actualidad/mundo/bachar-asad-abandono-poder-siria-anos.html "Bachar al Asad abandonó el poder en Siria y huyó")
-
-Estas son las **fechas más destacadas** desde el comienzo del conflicto en Siria.
-
-15 mayo 2011
-------------
-
-En el marco de la llamada **primavera árabe** estallaron protestas contra el presidente sirio, **Bashar al Asad,** bajo el lema ‘**Una Siria sin tiranía**‘. Siria se sume en una guerra civil.
-
-7 marzo 2013
-------------
-
-El rebelde Frente Islámico Sirio (FIS) anunci**a “la liberación total”** de Raqqa tras arrebatársela al régimen.
-
-13 junio 2013
--------------
-
-EE.UU aprueba el **envío de armas a la oposición**.
-
-21 agosto 2013
---------------
-
-La oposición denuncia **1 300 muertos por armas químicas** en la periferia de Damasco.
-
-14 enero 2014
--------------
-
-El **Estado Islámico de Irak** y el Levante pasa a controlar Al Raqa (norte de Siria), que convertirá en la simbólica capital de su califato.
-
-29 junio 2014
--------------
-
-Los yihadistas imponen un califato, que se extiende desde Diyala -este de Irak- hasta Alepo -noroeste de Siria-. El grupo se redenomina **Estado Islámico (EI)** y abandona el apellido de Irak y el Levante que venía utilizando.
-
-4 julio 2014
-------------
-
-Abu Bakr al-Baghdadi se autoproclama califa de todos los **musulmanes desde la mezquita de Al Nuri**, al oeste de Mosul (Irak), en su primera y única aparición pública.
-
-14 julio 2014
--------------
-
-El EI controla ás del **95 % de Deir al Zur,** fronteriza con Irak.
-
-19 agosto 2014
---------------
-
-Un vídeo muestra la decapitación en Siria del periodista James Wright Foley, primero de otros tantos ejecutados.
-
-24 agosto 2014
---------------
-
-El EI conquista el **último bastión del régimen sirio en Al Raqqa**, a 200 kilómetros de Alepo, donde establece su capital.
-
-23 septiembre 2014
-------------------
-
-EEUU y los aliados emprenden ataques aéreos contra posiciones del Estado Islámico
-
-26 enero 2015
--------------
-
-Las milicias kurdas expulsan al EI de Kobani, uno de los principales enclaves kurdos del norte de Siria, símbolo de unidad de ese pueblo.
-
-23 septiembre 2014
-------------------
-
-**Estados Unidos y los aliados** emprenden ataques aéreos contra posiciones del Estado Islámico.
-
-26 enero 2015
--------------
-
-Las milicias kurdas expulsan al EI de Kobani, uno de los principales enclaves kurdos del norte de Siria, símbolo de unidad de ese pueblo.
-
-21 mayo 2015
-------------
-
-El EI pasa a **controlar más del 50 % del territorio sirio** tras hacerse con gran parte de Palmira, centro del país, en la que en los meses siguientes destruirán importantes restos arqueológicos.
-
-27 septiembre 2015
-------------------
-
-La aviación francesa inicia bombardeos contra el Estado Islámico.
-
-30 septiembre 2015
-------------------
-
-Comienza la intervención rusa con ataques aéreos contra el Estado Islámico.
-
-4 octubre 2015
---------------
-
-EI EI destruye el **Arco del Triunfo en Palmira.** Anteriormente se dinamitaron tres emblemáticas torres funerarias del siglo I d.C y el templo de Baal.
-
-12 octubre 2015
----------------
-
-Se crean las **Fuerzas de Siria Democrática** (FSD), una alianza liderada por milicias kurdas y aliadas de EEUU.
-
-27 marzo 2016
--------------
-
-El ejército sirio recupera Palmira.
-
-23 septiembre 2016
-------------------
-
-Ofensiva del régimen sirio en Alepo.
-
-22 diciembre 2016
------------------
-
-Las fuerzas armadas sirias, con el apoyo ruso, conquistn Alepo.
-
-2 marzo 2017
-------------
-
-El Ejército sirio expulsa al EI de Palmira.
-
-17 octubre 2017
----------------
-
-Las milicias kurdas de las FSD arrebatan al EI el control total de Al Raqa.
-
-2 noviembre 2017
-----------------
-
-El ejército sirio toma la ciudad de Deir al Zur (noreste de Siria).
-
-9 diciembre 2017
-----------------
-
-Irak anuncia el fin de la guerra contra el EI al recuperar el control de toda la frontera con Siria.
-
-29 octubre 2018
----------------
-
-Ofensiva contra el EI de las milicias kurdas en el norte, y del ejército sirio y Rusia en el este y centro.
-
-11 diciembre 2018
------------------
-
-El presidente de EE.UU., Donald Trump, anuncia la práctica derrota del Estado Islámico, al que le queda un 1 % del califato.
-
-19 diciembre 2018
------------------
-
-La Casa Blanca anuncia el inicio de su retirada.
-
-1 marzo 2019
-------------
-
-Las milicias kurdas emprenden el asalto de Al Baguz, último bastión del EI. Días después los yihadistas comienzan a rendirse.
-
-25 febrero 2021
----------------
-
-EEUU bombardea a las milicias proiraníes en Siria, en el primer ataque ordenado por Joe Biden desde su llegada al poder.
-
-3 febrero 2022
---------------
-
-EE.UU. confirma la muerte de Ibrahim al Qurashi, líder del EI en Siria.
-
-14 septiembre 2022
-------------------
-
-Un informe ONU denuncia que siguen los bombardeos de Rusia contra civiles en Siria.
-
-29 junio 2023
--------------
-
-La ONU anuncia la creación de un órgano para buscar a miles de sirios desaparecidos, que Damasco rechaza.
-
-27 noviembre 2024
------------------
-
-Una coalición insurgente liderada por el Organismo de Liberación del Levante (heredera de la exfilial siria de Al Qaeda), apoyada por Turquía, inicia una ofensiva contra el Gobierno de Al Asad.
-
-28 noviembre 2024
------------------
-
-Los rebeldes tomaron el control de la mayor parte de la provincia de Idlib, al noreste del país
-
-30 noviembre 2024
------------------
-
-Los insurgentes conquista Alepo sin apenas resistencia.
-
-5 diciembre 2024
-----------------
-
-La ciudad de Hama, en el centro del país. cae en manos de los rebeldes.
-
-7 diciembre 2024
-----------------
-
-Los rebeldes prosiguen su avance hacia Damasco y el régimen de Bashar el Asad se encuentra cercado.
-
-8 diciembre 2024
-----------------
-
-Los insurgentes proclaman su victoria y se informa de la huída de Bashar el Asad de Damasco. 
-
-El Real Madrid lidera el once ideal del FIFPro 2024
-===================================================
-
-El Real Madrid lidera el once ideal del FIFPro, con más de la mitad de los seleccionados provenientes del club.
----------------------------------------------------------------------------------------------------------------
-
-![Jude Bellingham, jugador del Real Madrid, fue el que obtuvo más voto en el once ideal del FIFPro.](https://www.elcomercio.com/wp-content/uploads/2024/12/PORTADA-NOTA-EC-2024-12-09T114555.058.jpg)
-
-La Federación Internacional de Futbolistas Profesionales (**FIFPro**) reveló este lunes, 9 de diciembre, el once ideal votado por más de 21,000 futbolistas de todo el mundo. En este prestigioso equipo, el **Real** **Madrid** se destacó como el club con más jugadores seleccionados.
-
-Rodri Hernández, centrocampista del Manchester City; Dani Carvajal, lateral derecho del Real Madrid; y sus compañeros de club Antonio Rüdiger, Jude Bellingham, Toni Kroos, **Kylian Mbappé** y Vinícius Jr., figuran en el once ideal.
-
-### Más noticias:
-
-* [Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/real-madrid-chelsea-boca-juniors-los-duelos-imperdibles-del-mundial-de-clubes.html "Real Madrid, Chelsea, Boca Juniors y los duelos imperdibles del Mundial de Clubes")
-* [Real Madrid y Kylian Mbappé quedaron para el meme](https://www.elcomercio.com/deportes/futbol/real-madrid-kylian-mbappe-meme-champions.html "Real Madrid y Kylian Mbappé quedaron para el meme")
-* [(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City](https://www.elcomercio.com/deportes/futbol/guardiola-enfurece-y-se-autolesiona-tras-el-empate-del-manchester-city.html "(Video) Guardiola enfurece y se autolesiona tras el empate del Manchester City")
-
-Real Madrid domina en el equipo ideal del FIFPro
-------------------------------------------------
-
-Rodri y Carvajal tuvieron un papel clave en la consecución de la Eurocopa con la selección española, mientras que Rudiger, Bellingham, Kroos (ya retirado) y **Vinícius Jr**. brillaron al conquistar la Liga de Campeones, la Supercopa de Europa y la Supercopa de España con el Real Madrid bajo las órdenes de Carlo Ancelotti. Por su parte, **Mbappé**, ahora en el Santiago Bernabéu, tuvo que conformarse con los títulos locales en el París Saint-Germain durante la última temporada.
-
-En total, el once incluye a **seis jugadores** del **Real Madrid y cuatro del Manchester City**. Además de Rodri, Balón de Oro, se encuentran el portero brasileño Ederson, el mediocampista belga Kevin De Bruyne y el delantero noruego Erling Haaland. La última plaza la ocupa el defensor neerlandés Virgil van Dijk, del Liverpool.
-
-Debutan en el once de **FIFPro Carvajal, Rudiger, Ederson y Rodri,** mientras que Van Dijk ingresa por cuarta vez. Por primera vez desde 2006, el argentino Lionel Messi, ahora en el Inter Miami, no forma parte del equipo tras haber sido elegido en 17 ocasiones anteriores.
-
-Este equipo ideal del año fue **seleccionado por 21,000 futbolistas de 70 países**, basándose en las actuaciones desde el 21 de agosto de 2023 hasta el 10 de agosto de 2024. La única condición para participar en la votación era haber disputado al menos 20 partidos oficiales. Este es el único galardón mundial del fútbol decidido exclusivamente por los jugadores.
-
-> Introducing the 2024 FIFPRO Men's [#World11](https://twitter.com/hashtag/World11?src=hash&ref_src=twsrc%5Etfw), chosen by 21,266 players 🌟  
->   
-> 🇧🇷 Ederson  
->   
-> 🇪🇸 [@DaniCarvajal92](https://twitter.com/DaniCarvajal92?ref_src=twsrc%5Etfw)  
-> 🇳🇱 [@VirgilvDijk](https://twitter.com/VirgilvDijk?ref_src=twsrc%5Etfw)  
-> 🇩🇪 [@ToniRuediger](https://twitter.com/ToniRuediger?ref_src=twsrc%5Etfw)  
->   
-> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 [@BellinghamJude](https://twitter.com/BellinghamJude?ref_src=twsrc%5Etfw)  
-> 🇧🇪 [@KevinDeBruyne](https://twitter.com/KevinDeBruyne?ref_src=twsrc%5Etfw)  
-> 🇩🇪 [@ToniKroos](https://twitter.com/ToniKroos?ref_src=twsrc%5Etfw)  
-> 🇪🇸 Rodri  
->   
-> 🇳🇴 [@ErlingHaaland](https://twitter.com/ErlingHaaland?ref_src=twsrc%5Etfw)  
-> 🇫🇷 [@KMbappe](https://twitter.com/KMbappe?ref_src=twsrc%5Etfw)  
-> 🇧🇷 [@ViniJr](https://twitter.com/vinijr?ref_src=twsrc%5Etfw)  
->   
-> By the players, for the players. [pic.twitter.com/OoMcUZd3sK](https://t.co/OoMcUZd3sK)
-> 
-> — FIFPRO (@FIFPRO) [December 9, 2024](https://twitter.com/FIFPRO/status/1866135542573776899?ref_src=twsrc%5Etfw)
-
-El once ideal
--------------
-
-**Portero:** Ederson (Manchester City, Brasil)
-
-**Defensas:** Dani Carvajal (Real Madrid, España), Virgil van Dijk (Liverpool, Países Bajos), Antonio Rüdiger (Real Madrid, Alemania)
-
-**Medios:** Jude Bellingham (Real Madrid, Inglaterra), Kevin De Bruyne (Manchester City, Bélgica), Toni Kroos (Real Madrid/retirado, Alemania), Rodri (Manchester City, España)
-
-**Delanteros:** Erling Haaland (Manchester City, Noruega), Kylian Mbappé (París Saint-Germain/Real Madrid, Francia), Vinícius Jr (Real Madrid, Brasil).
-
-Ernesto Albán Gómez falleció a los 87 años
+Derechos y democracia en tiempos de crisis
 ==========================================
 
-Ernesto Albán Gómez fue hijo del reconocido actor Ernesto Albán, conocido como 'Evaristo'. De ahí, su vínculo con el arte, la literatura y el teatro.
------------------------------------------------------------------------------------------------------------------------------------------------------
+La gobernabilidad sería inconcebible sin el ejercicio pleno de los derechos humanos y las responsabilidades correlativas. Un enfoque emergente.
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
-![Ernesto Albán Gómez falleció el 8 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T105924.512.jpg)
+![Los derechos humanos en el centro de las Constituciones del mundo.](https://www.elcomercio.com/wp-content/uploads/2024/12/a-photo-of-a-room-with-multiple-copies-of-the-worl-TJWEAO1NTemfNRiZqQHYww-OJghxge7Q5WG6JqoDc2dHA.jpeg)
 
-**Ernesto Albán Gómez** falleció este 8 de diciembre de 2024 a los 87 años. A lo largo de su vida se destacó en varios ámbitos, por lo que quienes lo conocieron lamentan la pérdida.
+Los Estados requieren para su supervivencia dos premisas importantes: **el ejercicio de los derechos humanos propiamente dichos y la democracia**, dos variables que han incidido de manera notable en la gobernabilidad.
 
-### Más noticias
+Democracia y desarrollo humano
+------------------------------
 
-* [Verónica Abad tendrá su audiencia de acción de protección esta semana](https://www.elcomercio.com/actualidad/politica/veronica-abad-tendra-audiencia-accion-proteccion-esta-semana.html "Verónica Abad tendrá su audiencia de acción de protección esta semana")
-* [Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
-* [Autopista General Rumiñahui está parcialmente habilitada](https://www.elcomercio.com/actualidad/quito/autopista-general-ruminahui-esta-parcialmente-habilitada.html "Autopista General Rumiñahui está parcialmente habilitada")
+**La democracia es un requisito básico para el logro del desarrollo humano.** Esta premisa ha sido asumida por el Ecuador como política de Estado, independientemente de los sucesivos gobiernos en los últimos años.
 
-Un intelectual multifacético
-----------------------------
+La democracia –entendida por “el gobierno del pueblo”- no es un valor en sí mismo, sino un medio indispensable para el desarrollo humano, entendido como **el sistema que permite la satisfacción de las necesidades básicas (salud, educación, nutrición y empleo seguro), para el logro de la calidad de vida, con criterios de sustentabilidad y sostenibilidad.**
 
-Ernesto Albán Gómez fue magistrado de la **Corte Suprema de Justicia**, catedrático, miembro de número de la Academia Ecuatoriana de la Lengua desde 2022.
+No de otra forma, la democracia garantiza los derechos humanos: **los derechos civiles, los derechos sociales y los derechos políticos de todos los ciudadanos.** Los **derechos civiles** implican los derechos a la vida, a la integridad física, a la libertad en todos los campos, a la justicia, a la privacidad, a la igualdad ante la ley y a la no discriminación. Los **derechos sociales** comprenden los derechos al bienestar, a la seguridad económica, a la seguridad social, a vivir con dignidad, con salud, educación y trabajo. Y los **derechos políticos**: los derechos a votar, a elegir libremente, a la transparencia electoral, a que se respeten sus derechos ciudadanos, a ejercer la auditoria social y a ejercer cargos públicos en igualdad de condiciones.
 
-Albán fue subdirector de diario El Tiempo, **articulista en diario Hoy y en EL COMERCIO**, secretario de Comunicación y Ministro de Educación en el gobierno de Osvaldo Hurtado.
+Teorías y modelos
+-----------------
 
-**Ernesto Albán Gómez** nació el 10 de marzo de 1937. **Hijo del reconocido actor Ernesto Albán,** conocido como ‘Evaristo’. De ahí, su vínculo con el arte, la literatura y el teatro.
+**Así entendida, la democracia es mucho más que un conjunto de condiciones para elegir y ser elegidos –democracia electoral-. También es un sistema de organización social con el objetivo de asegurar y expandir los derechos de las personas.**
 
-Se desarrolló como **escritor de cuentos, dramaturgia** y también incursionó en el teatro, como su padre. Autor de ‘Salamandras’, en literatura, y de ‘La verdadera historia de Notre Dame’, en dramaturgia.
+**La ortodoxia consideró que la democracia es el conjunto de procedimientos para elegir gobernantes.** Esta teoría elitista de la política es cuestionada por **la teoría participativa que, sin salirse del enfoque institucional, intenta recuperar la acción política para los ciudadanos**, pero dentro del ámbito del Estado y sus instituciones.
 
-Albán se formó en **Derecho en la Pontificia Universidad Católica** del Ecuador y obtuvo un doctorado honoris causa en la Universidad [Andina Simón Bolívar.](https://es.wikipedia.org/wiki/Ernesto_Alb%C3%A1n "https://es.wikipedia.org/wiki/Ernesto_Alb%C3%A1n")
+Un modelo distinto de concebir la política y hacer política se orientó a desestatizar la política, en el sentido de que **los asuntos públicos, en esencia, conciernen no solo exclusiva y excluyentemente al Estado, como plantea la teoría tradicional, sino a la sociedad civil.** El Ecuador intentó aplicar ese “modelo distinto” mediante la creación del Consejo de Participación Ciudadana y Control Social.
 
-Condolencias
-------------
+Partidos políticos
+------------------
 
-Desde la noche del domingo 8 de diciembre de 2024, las redes sociales recibieron múltiples notas de pesar por el **fallecimiento de Ernesto Albán Gómez.**
+**La democracia en su aspecto formal tiene instituciones, que permiten el ejercicio del poder, y a través de diversas funciones (ejecutiva, legislativa, judicial, electoral y participación)** se aplican programas de gobierno. Uno de los espacios institucionales de relevancia es el **partido político**, que es el escenario de discusión, análisis y propuesta para resolver los problemas de la realidad, y donde la democracia se integra a la ciudadanía.
 
-Por ejemplo, la **Academia Ecuatoriana de la Lengua** lamentó la pérdida y presentó a sus deudos la más sentida condolencia.
+Este tema merecería un estudio especial, con el objetivo de **fortalecer la democracia mediante partidos políticos sólidos en contenidos doctrinales y no movimientos estrictamente electorales, que han dado paso a populismos antidemocráticos.**
 
-> La Academia, ante el fallecimiento de don Ernesto Albán Gómez, quien fuera miembro correspondiente y destacado intelectual ecuatoriano, lamenta su irreparable pérdida y presenta a sus familiares y deudos la más sentida condolencia.  
-> [https://t.co/FLw1zXm1g7](https://t.co/FLw1zXm1g7) [pic.twitter.com/qoXtIqBjGh](https://t.co/qoXtIqBjGh)
-> 
-> — Academia Ecuatoriana de la Lengua (@ecuatoriana\_de) [December 9, 2024](https://twitter.com/ecuatoriana_de/status/1866120625816830372?ref_src=twsrc%5Etfw)
+Declaración
+-----------
 
-Así mismo, la **Corte Nacional de Justicia** se pronunció ante el sensible fallecimiento del Dr. Ernesto Albán Gómez, destacado jurista y académico, y expresó su nota de pesar por este doloroso acontecimiento. Además, deseó paz en su tumba.
+Los derechos humanos fueron formalmente adoptados al terminar la II Guerra Mundial, mediante su inclusión en la **Carta de las Naciones Unidas, Art. 68, que fue la base de la Declaración Universal de los Derechos Humanos, el 10 de diciembre de 1948, que consta de 30 artículos** y busca evitar los actos de barbarie que se produjeron en las dos guerras mundiales.
 
-> La [@CorteNacional](https://twitter.com/CorteNacional?ref_src=twsrc%5Etfw) de Justicia, ante el sensible fallecimiento del Dr. Ernesto Albán Gómez, exmagistrado de la Corte Suprema de Justicia del Ecuador 🇪🇨, destacado jurista y académico, expresa su nota de pesar por este doloroso acontecimiento, que enluta a sus familiares y amigos.… [pic.twitter.com/MSiYPejUa2](https://t.co/MSiYPejUa2)
-> 
-> — Corte Nacional de Justicia (@CorteNacional) [December 9, 2024](https://twitter.com/CorteNacional/status/1865949236065394799?ref_src=twsrc%5Etfw)
+**La idea central parte del concepto que todos los seres humanos nacen libres e iguales en dignidad y derechos**. Ha sido una historia llena de hitos y sobresaltos, porque pese al fortalecimiento del derecho internacional sobre esta materia, y la ratificación de esta declaración por la mayoría de Estados, **todavía subsisten en varios países situaciones de esclavitud, que afrontan refugiados y emigrantes.**
 
-De la misma manera, sus exalumnos, excompañeros, amigos y demás conocidos expresaron su pesar por la pérdida de una gran persona y colega.
+A lo anterior se suman **estructuras de pobreza y desigualdad en cerca del 40% de la población mundial.** La persecución y discriminación, por motivos de etnia, religión y por otras causas, priva a millones de personas a la educación, el matrimonio y la igualdad de oportunidades.
 
-### Esperanza
+Grandes desafíos
+----------------
 
-Descubre las historias de mujeres que rompieron el silencio frente a la violencia y cómo las redes de apoyo transformaron sus vidas. Contactos en [podcast@elcomercio.com](mailto:podcast@elcomercio.com)
+**Las desigualdades y las exclusiones marcaron el ritmo de la gobernanza en el Ecuador en las últimas décadas, debido a factores internos y externos**: catástrofes naturales como terremotos, la corrupción, los levantamientos, la situación de la administración de justicia, el narcotráfico, la caída de los precios del petróleo, la abultada deuda externa, la pandemia mundial del coronavirus y los apagones de última data, impactaron no solo a la economía sino al ejercicio pleno de los derechos humanos.
 
-Suscríbete [Spotify](https://open.spotify.com/show/4xKCziuizfBHEQM5JeQTK6) [+Apps](https://rss.com/es/podcasts/esperanza1/?listen-on=true)
+**Los desafíos para el Estado ecuatoriano, los gobiernos de turno, las instituciones republicanas y los ciudadanos son enormes.** Hay que pasar del garantismo en el papel, a la práctica de esas garantías. **Enseñar y aprender la democracia mediante instituciones sólidas, con control social. En otras palabras: ¡A los derechos en los hechos!**
 
-[ESCUCHA TODOS LOS EPISODIOS](https://www.elcomercio.com/podcasts/esperanza-2.html)
+Pepe Mujica 
+============
 
-Verónica Abad enfrenta decisión judicial sobre su acción de protección
-======================================================================
+Líder austero y visionario, promovió la democracia, la educación digital y la racionalidad como ejes de su legado político.
+---------------------------------------------------------------------------------------------------------------------------
 
-La audiencia para revertir la suspensión de Verónica Abad se reanudó, donde se evalúan argumentos legales por la acción de protección.
---------------------------------------------------------------------------------------------------------------------------------------
+![Washington Herrera, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Washington-Herrera-1.jpg)
 
-![Verónica Abad en la audiencia sobre su acción de protección.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo.jpg)
+“Dime Pepe” me dijo, y no “señor Presidente”, en un desayuno de trabajo organizado por la **Asociación Latinoamericana de Integración** –ALAdI-, en Montevideo  año 2010, con una sencillez emanada de su vida estoica. “Diles a los ecuatorianos que a los uruguayos nos sobran ovejas y nos falta sus pastores mientras a ustedes le sobran pastores en los Andes.” Más tarde se hizo realidad la compra de ovejas a precios baratos.
 
-El futuro político de **Verónica Abad**, vicepresidenta de la República, se encuentra nuevamente en discusión. Este lunes 9 de diciembre, en el **Complejo Judicial Norte de Quito**, se reanudó la audiencia presidida por la **jueza Nubia Vera**, donde Abad busca revertir la suspensión de 150 días impuesta mediante un sumario administrativo.
+Mujica ha sido el líder que, en democracia, situó a la **izquierda política** lejos de los extremismos y la polarización y con su don de la palabra alcanzó un liderazgo natural, como corresponde a un jefe de Estado. La semana pasada expresó que tanto Milei en Argentina como Hitler reaccionaron con programas locos contra la **hiperinflación** y fue contundente al criticar a los **dictadores Maduro y Ortega**. La palabra de Mujica resaltó la racionalidad como eje de su **trabajo político austero**, que lo caracterizó como un pensador mundial.
 
-### Más noticias
+En su gobierno del Frente Amplio de Izquierda preconizó la **sobriedad** y rechazó el consumismo que confunde al ser con el tener. Autorizó el consumo de la marihuana, pero está convencido que lo único que puede rebajar la **drogadicción es la persuasión y la convicción de sus peligros**.
 
-* [Audiencia de acción de protección de Verónica Abad nuevamente cambió de fecha](https://www.elcomercio.com/actualidad/politica/veronica-abad-audiencia-suspension.html "Audiencia de acción de protección de Verónica Abad nuevamente cambió de fecha")
-* [Verónica Abad tendrá su audiencia de acción de protección esta semana](https://www.elcomercio.com/actualidad/politica/veronica-abad-tendra-audiencia-accion-proteccion-esta-semana.html "Verónica Abad tendrá su audiencia de acción de protección esta semana")
-* [Verónica Abad habló sobre Rafael Correa y Jorge Glas](https://www.elcomercio.com/actualidad/politica/veronica-abad-hablo-sobre-rafael-correa-y-jorge-glas.html "Verónica Abad habló sobre Rafael Correa y Jorge Glas")
+**Sembró la digitalización** de los niños que recibieron una computadora al comenzar su educación primaria y ahora Uruguay es el país con mayor conocimiento por habitante, al punto de que muchos uruguayos asesoran al mundo en las **nuevas tecnologías de la información y la comunicación digital.**
 
-Durante la sesión, las intervenciones de los **amicus curiae** dominaron el desarrollo del proceso. La jueza continuó escuchando los argumentos presentados, mientras que la ministra de Trabajo, **Ivonne Núñez**, intervino vía Zoom para justificar las razones del sumario administrativo en un informe de **459 páginas**.
+No es casualidad que en este siglo dos expresidentes uruguayos lleven nombres autóctonos como Tabaré Vázquez y Yamandú Orsi, porque Uruguay tiene un sentido de pertenencia, siendo un país pequeño, cuyo territorio pudo ser brasilero y cuya población pudo ser argentina. Pero ahora sus tres millones y medio de habitantes viven en **democracia** plena, sin polos políticos, bajo el **imperio** de la razón y de la **fraternidad** demostrada en sus **momentos difíciles**, cuando sufrió una dictadura militar, a la que Mujica combatió y por ello vivió 12 años en prisión.
 
-> [#AHORA](https://twitter.com/hashtag/AHORA?src=hash&ref_src=twsrc%5Etfw) | La vicepresidenta (suspendida), Verónica Abad ([@veroniabad](https://twitter.com/veroniabad?ref_src=twsrc%5Etfw)), ingresa a la sala de audiencias del piso 11 del Complejo Judicial Norte, en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw), para la continuación de la audiencia de acción de protección que propuso por el sumario administrativo abierto en su contra… [pic.twitter.com/GwrcDyme1O](https://t.co/GwrcDyme1O)
-> 
-> — Ecuador Chequea (@ECUADORCHEQUEA) [December 9, 2024](https://twitter.com/ECUADORCHEQUEA/status/1866120858239938606?ref_src=twsrc%5Etfw)
+¡Gracias Pepe por ayudarme a pensar!                                              
 
-Este documento ha sido central para el debate sobre la legalidad y pertinencia de la sanción contra Abad.
+Buñuel, los rostros ocultos de nuestro mundo
+============================================
 
-Defensa equipo legal de Verónica Abad
--------------------------------------
+Luis Buñuel, genio del surrealismo, exploró las pulsiones humanas y dejó un cine provocador que marcó la historia del arte.
+---------------------------------------------------------------------------------------------------------------------------
 
-Por su parte, el equipo legal de la Vicepresidenta argumentó que la medida representa una **vulneración a sus derechos constitucionales**. Además, resaltó la necesidad de que la justicia actúe con imparcialidad para garantizar el **debido proceso**.
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
 
-En este contexto, se espera que el fallo de la **jueza Vera** sea determinante para clarificar el rol de Abad en los próximos meses.
+Frente al Centro Buñuel se halla la cabeza de Luis Buñuel (España, 1900-México, 1983) esculpida por Iñaki, con motivo del centenario de su nacimiento. Cabeza donde se amotinaba algo que no le dio sosiego: su cine se rebeló contra él y salió a explorar más allá de su mundo. No hay indicio de cabello, orejas y cejas abultadas, **la mirada en incesante peregrinaje y rehundida en el magma de lo que estamos hechos: tierra y sueño.**
 
-La audiencia también **atrajo la atención de diversas organizaciones** y analistas políticos. Las discusiones giraron en torno al impacto que esta decisión podría tener en el **equilibrio del poder dentro del Ejecutivo**, especialmente en un año electoral.
+Fagocitador de sus contemporáneos y de cuanto halló en el pasado, sus cintas muestran vestigios de Quevedo, García Lorca, Valle Inclán, Sade, Goya, Magritte, Alberti, de los griegos y su tragedia intemporal… Si el cine fue resultado de este ejercicio, no se diga su poesía; _Polismos_ tituló a su libro, es decir, congregación de ‘ismos’. Buñuel absorbió todos los movimientos culturales (ismos) de inicios del siglo XX.
 
-Implicaciones políticas de la controversia
-------------------------------------------
-
-El contexto de esta **acción judicial** reavivó las tensiones entre el presidente **Daniel Noboa y Verónica Abad.**
-
-> 🙏🏿‼️🗣️Con la constitución en la 🪬  
->   
-> Vicepresidenta, Verónica Abad ya se encuentra en la la sala del Complejo Judicial Norte, en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw), para la continuación de la audiencia de acción de protección que propuso por el sumario administrativo abierto en su contra.  
-> 📸 [@onlypanasec](https://twitter.com/onlypanasec?ref_src=twsrc%5Etfw) [pic.twitter.com/016z0UJ88P](https://t.co/016z0UJ88P)
-> 
-> — Red Medios Comunitarios Ecuador 🇪🇨 (@RComunitariosEc) [December 9, 2024](https://twitter.com/RComunitariosEc/status/1866141473483460726?ref_src=twsrc%5Etfw)
-
-Uno de los eventos más comentados fue la entrevista de Abad con un medio nacional durante la campaña electoral, donde sus **declaraciones generaron polémica** y marcaron un distanciamiento con el Presidente.
-
-Sus ‘atajos’ en informática convirtieron a Grace Hopper en la primera mujer ‘hacker’ 
-=====================================================================================
-
-El Día Mundial de la Informática también rinde homenaje a Grace Hopper.
------------------------------------------------------------------------
-
-![Grace Hopper: destacada en el mundo de la Informática y madre del primer "bug". Foto: Pixabay.](https://www.elcomercio.com/wp-content/uploads/2024/12/Grace-Hooper-Informatica.jpg)
-
-El **Día Mundial de la Informática**, celebrado cada **9 de diciembre**, no solo conmemora los avances en esta disciplina, sino que también rinde **homenaje a Grace Hopper**, una pionera que transformó el mundo de la computación.  
-
-### Más noticias
-
-* [Cómo activar el ‘modo Friends’ en WhatsApp en pocos pasos](https://www.elcomercio.com/tecnologia/modo-friends-whatsapp-guia.html "https://www.elcomercio.com/tecnologia/modo-friends-whatsapp-guia.html") 
-* [ChatGPT lanza la versión o1 con innovaciones sorprendentes](https://www.elcomercio.com/tecnologia/chatgpt-inteligencia-artificial-tecnologia-3.html "https://www.elcomercio.com/tecnologia/chatgpt-inteligencia-artificial-tecnologia-3.html") 
-
-Su legado es fundamental en un contexto donde la **tecnología** permea todos los aspectos de la vida cotidiana.  
-
-**Paulina Vizcaino**, directora académica de Ciencias de la Computación en la UIDE, destaca a la informática como **motor de soluciones tecnológicas**, transformación digital y conexión global. Su impacto incluye la automatización y herramientas que mejoran la vida e impulsan la innovación. Este día invita a reflexionar sobre su papel en la sociedad y a reconocer a **pioneras como Grace Hopper**.
-
-**Grace Hopper y su papel dentro de la informática** 
------------------------------------------------------
-
-**Grace Murray Hopper** nació el 9 de diciembre de 1906 en Nueva York. Desde joven mostró interés por las **matemáticas y la ingeniería**. Se graduó en matemáticas y física en el _Vassar College_ en 1928 y obtuvo su máster y doctorado en matemáticas en Yale en 1930 y 1934, respectivamente, según informa [20Minutos](https://www.20minutos.es/tecnologia/actualidad/quien-fue-grace-hopper-asi-fue-la-pionera-de-la-programacion-que-tiene-un-cable-submarino-en-su-nombre-5083204/ "https://www.20minutos.es/tecnologia/actualidad/quien-fue-grace-hopper-asi-fue-la-pionera-de-la-programacion-que-tiene-un-cable-submarino-en-su-nombre-5083204/").  
-
-Durante la **Segunda Guerra Mundia**l, se unió a las fuerzas armadas y fue asignada al laboratorio de computación de Harvard, donde comenzó a trabajar con el **Harvard Mark I**, el primer ordenador electromecánico, de acuerdo con [CadenaSer](https://cadenaser.com/ser/2016/04/01/ciencia/1459514716_102604.html "https://cadenaser.com/ser/2016/04/01/ciencia/1459514716_102604.html"). 
-
-Hopper fue una de las **primeras programadoras del Mark I**, lo que contribuyó significativamente al desarrollo de este dispositivo. En 1945, junto a su equipo, descubrió un error técnico que se convirtió en **el primer “bug” documentado** en la historia de la informática. Este término se utiliza hoy para describir **errores en software y hardware**, a decir de la [Universidad de Granada](https://www.ugr.es/~eaznar/hopper.htm "https://www.ugr.es/~eaznar/hopper.htm").  
-
-**Innovaciones en programación** 
----------------------------------
-
-Una de las contribuciones más significativas de Hopper fue el **desarrollo del primer compilador** en 1952. Este software permitió a los programadores escribir código mediante un lenguaje más cercano al inglés, lo que **facilitó así el proceso de programación**, según [National Geographic](https://www.nationalgeographic.com.es/ciencia/grace-hopper-madre-programacion-informatica_22009 "https://www.nationalgeographic.com.es/ciencia/grace-hopper-madre-programacion-informatica_22009").  
-
-Su trabajo culminó con la creación del **COBOL** (Common Business Oriented Language) en 1959, un **lenguaje diseñado para aplicaciones comerciale**s que aún se utiliza hoy, a decir de la [Universidad de Rovira](https://www.urv.cat/es/vida-campus/servicios/unidad-igualdad/ano-mujeres-ciencias/dones-i-ciencies/dones-matematiques-fisiques/gracemurray/ "https://www.urv.cat/es/vida-campus/servicios/unidad-igualdad/ano-mujeres-ciencias/dones-i-ciencies/dones-matematiques-fisiques/gracemurray/").  
-
-Hopper defendía que “la mayoría de los problemas tienen más de una solución”, según cita CadenaSer, lo que refleja su **enfoque innovador** hacia los desafíos tecnológicos. Este pensamiento le valió el reconocimiento como una figura clave en la **historia de la informática**. 
-
-**La primera mujer hacker** 
-----------------------------
-
-**Grace Hopper** es considerada **la primera mujer hacker** debido a su enfoque creativo para **resolver problemas informáticos**. Su búsqueda constante por simplificar procesos complejos mediante **atajos innovadores** ha influido en las prácticas actuales dentro del campo, de acuerdo con 20Minutos.  
-
-En un mundo donde los **hackers** suelen ser percibidos como individuos que **buscan vulnerabilidades**, Hopper redefinió este concepto al enfocarse en **mejorar sistemas existentes**. Su legado continúa vivo en nuevas generaciones. La **Grace Hopper Celebration of Women in Computing** se celebra anualmente para fomentar la participación femenina en tecnología, según la Universidad de Granada. 
-
-Además, desde 1971, se otorga el **Premio Grace Murray Hopper** a jóvenes profesionales que han realizado contribuciones significativas al campo antes de cumplir 35 años. 
-
-**Relevancia actual** 
+Las heridas del camino
 ----------------------
 
-La celebración del **Día Mundial de la Informática** cobra especial relevancia en un momento donde la **inteligencia artificial** y la **ciberseguridad** están al centro del debate tecnológico. Las contribuciones de Hopper sentaron las bases para muchas **innovaciones actuales** y su enfoque sobre los **atajos informáticos** sigue siendo relevante hoy. 
+**No hay historia del cine que no exponga su nombre** como uno de los más notables directores que ha dado este arte –hay quienes lo consideran el más grande–, y la escena de _El perro_ _andaluz_ (1929), en la que un hombre corta el ojo de una mujer con una navaja de barbero, registrada como la más cruel. En el preludio de este acto, Buñuel, que funge de actor, ve desde una ventana cómo una filosa nube cercena la luna, lo mismo hará con el ojo de la mujer.
 
-En un **mundo digitalizado**, su trabajo destaca no solo por sus **logros individuales**, sino también por cómo estos han permitido **avances tecnológicos** que afectan nuestras vidas diarias. 
+_El perro andaluz_ es muestra implacable del surrealismo: demencial escapismo de la realidad, desdeño de todo juicio estético. “Imagen pulsión”, como dijera Deleuze, que quedaría grabada para siempre en la elusiva retina del tiempo. ¿Fue este cortometraje –realizado con Salvador Dalí– vindicta contra García Lorca por un poema dedicado al cineasta y que prendió su disgusto? Algo perturbó la entrañable amistad del **fino poeta andaluz y el impetuoso boxeador aragonés**, pero este alejamiento se desvaneció, y Buñuel vivió ponderando la radiante personalidad de García Lorca y su influencia en su crecimiento artístico.
 
-### Te recomendamos:
+_La edad de oro_ (1930) –junto a Dalí– expone una trama argumental enmarañada. La historia de amor confluye con otras dos de igual repercusión. _El loco amor_ de André Breton circula por su núcleo. Exaltación del amor absoluto. **El poder avasallador de la pasión**. Pero Buñuel agrega un elemento deletéreo. **La película se abre con un documental sobre la vida de los alacranes y despliega**, en cascada, vehementes relatos, cruzados por el cortejo sobrecogedor que fusiona amor y muerte.
 
-Aplicaciones de mensajería instantánea y comunicación
+Estrena _Los olvidados_ (1950) en México, donde vivió exiliado. Público y crítica rechazan con furor el filme y el fantasmático apelativo de “director más cruel del mundo” se afianza. Visión desgarradora de los excluidos. Los hambrientos, los sin nada pululan en correccionales y barriadas misérrimas.
+
+Ellos, los olvidados, salen de los escurrideros de la ciudad. Huelen a frío y hambre, a llagaduras y supuraciones, a fatiga, furia y muerte. El filme exhibe imágenes de grandes metrópolis y luego se regodea en México, en espiral alucinante. Un pandillero fugado regresa para vengarse de quien lo delató. Alardea de las destrezas aprendidas. La banda busca a su primera víctima, don Carmelo, el mendicante ciego que vive de limosnear con su canto y su raído tambor.
+
+¿Trama hobbesiana? El único derecho que existe es la sobrevivencia. Todos son los mismos, pero de los mismos brota la desconfianza y de esta la guerra. Niños y adolescentes que rodean al cabecilla sienten la pulsión del estado de guerra, y, como dice Thomas Hobbes, en tiempo de guerra todos son enemigos.
+
+Acude a mi memoria el asalto de la pandilla a don Carmelo, el ciego pordiosero defendiéndose con su bastón y poniendo en fuga a sus asaltantes. Malandrines irredentos como son, vuelven a saciar la venganza de su derrota y ríen desaforados cuando la consuman destrozando su tambor.
+
+Del hombretón que subió al _ring_ de los pesos pesados, temerario y alborotador, queda un Buñuel delgado, de rostro apacible y acanalado por el tiempo. Dice que jamás fue “cruel”, y el mundo le cree, y se pone de pie para aplaudirlo. No oye, solo ve palmas de manos de una multitud agradecida por su legado.
+
+En su libro _**Mi último suspiro**_, confiesa que su postrer deseo consiste en que, después de muerto, pueda levantarse cada diez años, llegar a un quiosco y comprar varios periódicos. Así, con los periódicos bajo el brazo, “pálido, rozando las paredes, regresaría al cementerio y leería los **desastres del mundo** antes de volverse a dormir, satisfecho, en el refugio tranquilizador de la tumba”.
+
+OMS investiga enfermedad desconocida que deja al menos 71 fallecidos en África
+==============================================================================
+
+Una enfermedad desconocida que brotó en el Congo, en África, ya deja 71 muertos en menos de dos meses.
+------------------------------------------------------------------------------------------------------
+
+![Profesionales de la salud investigan la desconocida enfermedad que brotó en el Congo](https://www.elcomercio.com/wp-content/uploads/2024/12/congo-desconocida-enfermedad.jpg)
+
+Un grupo de **epidemiólogos**, científicos de laboratorio, expertos en prevención y control de infecciones y otros especialistas trabajan en la **investigación** de una **enfermedad desconocida** que deja por lo menos **71 muertos** en la República Democrática del **Congo**, en África.
+
+### Más noticias
+
+* [Consumir agua en exceso puede ser peligroso para la salud, advierten expertos](https://www.elcomercio.com/afull/consumir-agua-exceso-peligroso-salud-expertos.html "Consumir agua en exceso puede ser peligroso para la salud, advierten expertos")
+* [Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza](https://www.elcomercio.com/actualidad/mundo/sudafrica-asegura-tener-pruebas-exhaustivas-cometio-genocidio-gaza.html "Sudáfrica asegura tener ‘pruebas exhaustivas’ de que se cometió genocidio en Gaza")
+* [Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador](https://www.elcomercio.com/actualidad/mundo/gran-bretana-virus-mundo-ecuador.html "Gran Bretaña alerta sobre propagación de tres virus en el mundo; uno incluye a Ecuador")
+
+Según se dio a conocer este lunes 9 de diciembre de 2024, los profesionales de la Organización Mundial de la Salud (**OMS**) y de la Agencia de Salud Pública de la **Unión Africana** viajaron al país para recopilar más información de la **afección**.
+
+Durante la visita desarrollada entre el jueves 5 y el sábado 7 de diciembre, se comprobó que la enfermedad presenta **síntomas** como fiebre, dolor de cabeza y una alta mortalidad infantil.
+
+Los organismos de salud trabajan en el **territorio** con herramientas avanzadas, como equipos de diagnóstico y secuenciación molecular y un servidor informático para análisis bioinformáticos.
+
+Además de **reactivos para pruebas**, un manipulador automático de líquidos y suministros esenciales
+
+“Buscamos identificar rápidamente los **patógenos causantes** de brotes y apoyar la realización de pruebas moleculares y de secuenciación genómica en todo el país”, detalló la entidad.
+
+Los profesionales evalúan la situación, mientras realizan **pruebas de diagnóstico** y medidas de control[.](https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud "https://es.wikipedia.org/wiki/Organizaci%C3%B3n_Mundial_de_la_Salud")
+
+Enfermedad desconocida tiene una alta mortalidad infantil
+---------------------------------------------------------
+
+La OMS explicó que los casos se hallaron en las zonas cercanas a Panzi. “los niños de 0 a 14 años representan el **64,3 % de todos los casos notificados,** y los grupos de edad de 0 a 59 meses, **5 a 9 años y** 10 a 14 años representan el 53 %, el 7,4 % y el 3,9 % de los casos, respectivamente”, dijo el organismo.
+
+Las **mujeres** constituyen el 59,9 % del total de casos.
+
+“De las muertes, el **71 %** son menores de **15 años**, y el 54,8 % del total en niños menores de **cinco años**. Se notificó que todos los casos graves eran **desnutrición**“, añadió la OMS.
+
+Epicentro del brote se ubica a 700 kilómetros de la capital
+-----------------------------------------------------------
+
+El epicentro del brote se encuentra en la zona sanitaria de **Panzi**, en la provincia de Kwango, una zona muy remota, a unos **700 kilómetros** de la capital, **Kinsasa**.
+
+El brote fue identificado por primera vez a **finales de octubre** y comunicado a las autoridades nacionales a principios de diciembre.
+
+Los primeros reportes dan cuenta que la enfermedad no se ha extendido más allá del **territorio nacional**.
+
+Presupuesto de Quito 2025, movilidad lidera las prioridades
+===========================================================
+
+Movilidad, el Metro y la administración pública consumen la mayor parte del presupuesto del próximo año, que hoy debate el Concejo Metropolitano.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Este martes 10 de diciembre, el Concejo Metropolitano de Quito debe aprobar el presupuesto de la ciudad para el 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/Diseno-sin-titulo-2024-12-09T185030.610.jpg)
+
+Hasta este **martes 10 de diciembre del 2024,** el **Concejo Metropolitano de Quito** debe aprobar la **proforma presupuestaria** para el 2025. Es el **único punto del orden del día** en la convocatoria.
+
+### Más noticias
+
+* [¿Es viable la extensión del Metro de Quito hasta Calderón?](https://www.elcomercio.com/actualidad/quito/metro-quito-extension-calderon-viable.html "¿Es viable la extensión del Metro de Quito hasta Calderón?")
+* [Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur](https://www.elcomercio.com/actualidad/quito/nueve-concejales-quito-piden-llamar-secretario-cultura-mugre-sur.html "Nueve concejales de Quito piden llamar al Secretario de Cultura por Mugre Sur")
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+
+El presupuesto a debate
+-----------------------
+
+Este será el s**egundo y último debate** del **Concejo Metropolitano de Quito** sobre la proforma presupuestaria del 2025. Al pleno del Concejo llegan ajustados los valores iniciales que se enviaron para el primer debate. Según **Fidel Chamba**, **presidente** de la **Comisión de Presupuesto** del Concejo Metropolitano de Quito y concejal por SUMA, con todos estos ajustes, la proforma presupuestaria ascendió, de 929 millones de dólares (en cifras redondas) a 1 002, 1 millones de dólares.
+
+Lo que preocupa a algunos concejales es la **caída de la inversión en áreas sociales**, como **educación** y **salud**. En contrapartida, el presupuesto es, por una parte, “**metrocéntrica**” y “apuesta por una carga burocrática muy grande”, en palabras del independiente Wilson Merino.
+
+Movilidad y burocracia, los mayores gastos del presupuesto
+----------------------------------------------------------
+
+**Movilidad** y **administración general** son las dos áreas que reciben los mayores recursos presupuestarios en la proforma presupuestaria para el 2025, tal como ocurrió con el del 2024. Para el próximo año, entre ambos rubros se ocupa el 81,06%.
+
+La movilidad es la mayor de todas, con el **43,83%.** La Agencia Metropolitana de Control de Tránsito y Seguridad Vial tiene previsto recibir el 6,40%, es decir, 64,2 millones de dólares.
+
+Por otra parte, el Metro de Quito, tiene una asignación presupuestaria correspondiente al 6,22%. Esto quiere decir que recibirá 62,3 millones de dólares este año[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+En cambio, para el gasto del sector burocrático, está previsto el **37, 23%**.
+
+La movilidad, más allá del Metro
+--------------------------------
+
+Aquí se encuentra una de las mayores críticas, pues para las otras áreas queda el resto. Además, según la concejala, **Analía Ledesma,** de la Izquierda Democrática, lo que necesita Quito “**es una movilidad articulada y completamente confiable”.**
+
+Si bien reconoce los beneficios que este sistema de transporte ofrece a Quito, debe consolidarse como **eje articulador de todos los sectores.** “Se deben cristalizar las rutas y frecuencias. Se otorgaba un plazo a junio de este año para que ya estén hechas las rutas de frecuencias y en el presupuesto de este año (es decir 2025) están pidiendo otra vez una consultoría de 500 000 dólares otra vez para ver si hacen las rutas y frecuencias”.
+
+“Lamentablemente, hay que ser críticos en ese aspecto. **El Metro de Quito no termina solucionado los problemas**. Para que el Metro funcione, este año se le está otorgando 65 millones de dólares adicionales y **no existe todavía la reestructuración de rutas y frecuencias.** Obviamente, no existen los 400 000 pasajeros al día que establece el Plan Maestro de Movilidad Sostenible”, dice por su parte Chamba.
+
+Caída en la inversión social del presupuesto 2025
+-------------------------------------------------
+
+“Es que todos estamos fascinados con el Metro. Si a mí me preguntan si quiero o no la extensión del Metro, voy a decir que sí. Sin embargo, hay que tomar en cuenta otras cosas, como la inversión social. Y, como concejales, **debemos pensar en la gente primero**“, dice **Merino**.
+
+Según la proforma del presupuesto para el 2025, los denominados “servicios sociales” tienen una drástica caída comparado con el 2024. En **Salud**, se reduce el 61.8%; en **Educación y Deporte**, el 31,72%, y en **Inclusión Social**, el 57,5%.
+
+“Lo grave -dice Merino- es que Quito tiene de los peores indicadores sociales del país. Por ejemplo, tiene la mayor tasa de desempleo: 9.4%. Cerca de 900 000 quiteños comen una sola vez al día”. Por eso, dice, hay que pensar más en la gente y ser menos ‘metrodependientes’.
+
+Una mayoría oficialista en el Concejo
+-------------------------------------
+
+**El segundo y definitivo debate del Concejo Metropolitano** será intenso, según prevén los anteriormente consultados. Sin embargo, la **mayoría** de los ediles está **alineada** con el **alcalde Pabel Muñoz.**
+
+“No puedo dar una respuesta de lo que vaya a pasar en la sesión. No puedo pensar por los demás concejales. Lo que sí puedo decir es que **vamos a ser muy críticos** en que cada centavo que tenga el Municipio debe materializarse en bienes, obras y servicios de calidad”, finaliza Chamba, que, como presidente de la Comisión de Presupuesto del Concejo, tendrá protagonismo en el debate.
+
+Gobierno de Daniel Noboa hará una petición a México sobre Walter Solís
+======================================================================
+
+El exministro del correísmo, Walter Solís, tiene dos sentencias en su contra y una orden de prisión, por casos de corrupción.
+-----------------------------------------------------------------------------------------------------------------------------
+
+![El exministro Solís fue uno de los 20 sentenciados por el delito de cohecho, en el caso Sobornos 2012-2016. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2021/05/walter-solis.jpeg)
+
+El Gobierno de **Daniel Noboa** hará una petición a **México** sobre **Walter Solís**, según se anunció este lunes 9 de diciembre de 2024.
+
+El **exministro de Rafael Correa**, Walter Solís, tiene una **orden de prisión preventiva** y una **sentencia** en **Ecuador p**or casos de **corrupción**.
+
+### Más noticias:
+
+* [Sheinbaum se opone a la extradición del exministro Walter Solís](https://www.elcomercio.com/actualidad/mundo/sheinbaum-defiende-extradite-exministro-ecuatoriano-solis-refugiado.html "Sheinbaum se opone a la extradición del exministro Walter Solís")
+* [Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México](https://www.elcomercio.com/actualidad/seguridad/exministro-correismo-walter-solis-capturado-interpol-mexico.html "Exministro del correísmo, Walter Solís, fue capturado por la Interpol en México")
+
+La petición del Gobierno de Daniel Noboa a México sobre Walter Solís
+--------------------------------------------------------------------
+
+El Ministerio de Gobierno pidió a la **Cancillería** que haga una gestión ante **México** sobre el exministro correísta, Walter Solís.
+
+El Ministerio de Gobierno solicitó a la Cancillería que gestione, mediante los **canales diplomáticos**, la cancelación del estatus de refugiado otorgado a Walter Hipólito Solís Valarezo, en los Estados Unidos Mexicanos.
+
+La Cancillería realizará esta gestión luego de que la **Interpol** capturara a Solís y lo tuviera que liberar por intervención del mismo Gobierno de México.
+
+Y luego de que la actual presidenta de México, **Claudia Sheinbaum**, se opusiera, públicamente, a la extradición de Solís.
+
+El historial judicial de Walter Solís en Ecuador
+------------------------------------------------
+
+Sobre Solís pesa una orden de prisión preventiva dictada en el **caso Reconstrucción de Manabí**.
+
+Un juez solicitó su localización y captura a la **Interpol**, la misma que ya fue aceptada.
+
+En el **caso Sobornos**, la justicia declaró la malversación de fondos públicos por parte de Solís.
+
+La sentencia en contra de Solís fue de ocho años de prisión por el delito de **cohecho**.
+
+En el **caso Senagua**, el exfuncionario del correísmo tuvo otra sentencia: ocho años más por el delito de **peculado**.
+
+“Solís debe **enfrentar las consecuencias legales** de sus actos, rendir cuentas ante la justicia, la ciudadanía ecuatoriana y la comunidad internacional”, señaló el Ministerio de Gobierno.
+
+El principal argumento del Gobierno para hacer este pedido a México es que Solís cometió estos **delitos,** por los que fue sentenciado o es procesado, **antes de la concesión del estatus de refugiado**.
+
+“Según el derecho internacional, la solicitud presentada por Solís en los **Estados Unidos Mexicanos** carece de fundamentos”, agregó el Ministerio.
+
+El Gobierno hizo este anuncio en el **Día Internacional Contra la Corrupción**.
+
+Autopista General Rumiñahui tendrá nuevos cierres este martes 10 de diciembre
+=============================================================================
+
+La Autopista General Rumiñahui tendrá cierres viales de dos horas y media este martes. En el lugar se construye un paso elevado.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Un intercambiador se construye en la autopista que une a Quito con el Valle de Los Chillos](https://www.elcomercio.com/wp-content/uploads/2024/12/autopista-general-ruminahui-cierres.jpg)
+
+Los trabajos en la **Autopista General Rumiñahui**, vía que une a Quito con el **Valle de Los Chillos**, se mantendrán este **martes 10 de diciembre** de 2024.
+
+### Más noticias
+
+* [Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-de-tres-horas-arrancaron-este-lunes-9-de-diciembre-en-ecuador.html "Cortes de luz de tres horas arrancaron este lunes 9 de diciembre en Ecuador")
+* [Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito](https://www.elcomercio.com/actualidad/quito/personas-fallecieron-siniestros-transito-durante-feriado-fiestas-quito.html "Fallecidos en siniestros de tránsito durante el feriado por Fiestas de Quito")
+* [Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja](https://www.elcomercio.com/actualidad/ecuador/familiares-fallecidos-siniestro-catamayo-esperan-centro-forense-loja.html "Familiares de fallecidos en siniestro de Catamayo esperan en el Centro forense de Loja")
+
+Esta calle de alta concurrencia vehicular estuvo cerrada por completo entre las **05:00** y las **23:59** de este domingo 8 de diciembre; y de forma **parcial** este lunes. A la altura del puente 8, sobre la calle Lola Quintana, se construye un **paso elevado**.
+
+Carriles de la Autopista General Rumiñahui con cierres este martes
+------------------------------------------------------------------
+
+La **Prefectura de Pichincha** avanza con la construcción del paso elevado en la Autopista General Rumiñahui. El domingo se instalaron las **segundas vigas de acero** en la estructura, una de las etapas más complejas de la obra.
+
+Para ello, se cerraron los seis carriles de la vía, los cuales se tenían que habilitar este lunes. Sin embargo, una **grúa dañada** entre los puentes 8 y 9. en sentido Valle – Quito, retrasó esta acción.
+
+A las **18:45**, la Prefectura confirmó que el vehículo pesado fue retirado; no obstante, solicitó precaución a los conductores por la presencia de **andamios** en la zona delimitada.
+
+Los trabajos continuarán en el puente 8 de la autopista este **martes 10 de diciembre**. La vía mantendrá cerrados los carriles centrales de **09:30 a 12:00**. Por los **carriles laterales** la circulación vehicular se realizará con normalidad[.](https://www.pichincha.gob.ec/ "https://www.pichincha.gob.ec/")
+
+> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Este martes 10 de diciembre efectuaremos trabajos sobre la obra del paso elevado a la altura del puente 8 de la Autopista General Rumiñahui, por lo que se cerrará el carril central de 09h30 a 12h00.  
+> Toma precauciones. [pic.twitter.com/CJPPBzrKaD](https://t.co/CJPPBzrKaD)
+> 
+> — Autopista Rumiñahui (@AutopistaGR) [December 10, 2024](https://twitter.com/AutopistaGR/status/1866278904249680048?ref_src=twsrc%5Etfw)
+
+Retrasos en la construcción del paso elevado
+--------------------------------------------
+
+La construcción del puente **elevado** ubicado en la entrada a **Conocoto**, sobre la Autopista General Rumiñahui, ha presentado múltiples retrasos. En un inicio, la obra debía estar lista para **enero de 2024**, pero dificultades técnicas y legales atrasaron su entrega.
+
+En agosto, la prefecta **Paola Pabón** detalló que la suspensión temporal se debió a un **rediseño** estructural y a **nuevos estudios** que se tuvieron que realizar; mientras, se repararon redes de agua potable, alcantarillado y se soterraron cables.
+
+> ¡Ya instalamos las 2 vigas 😃!  
+>   
+> Aquí te contamos los avances del paso elevado, a la altura del puente 8 de la Autopista General Rumiñahui! 🌉  
+>   
+> Recuerda que el cierre se mantendrá hasta las 24h00 de este 🗓️ domingo 8 de diciembre. [#PichinchaEsVialidad](https://twitter.com/hashtag/PichinchaEsVialidad?src=hash&ref_src=twsrc%5Etfw)[#PichinchaInvencible](https://twitter.com/hashtag/PichinchaInvencible?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/X8Y51nM9WX](https://t.co/X8Y51nM9WX)
+> 
+> — Autopista Rumiñahui (@AutopistaGR) [December 9, 2024](https://twitter.com/AutopistaGR/status/1865953541266854245?ref_src=twsrc%5Etfw)
+
+En los últimos meses del año, los trabajos se retomaron; sin embargo, un **fatal siniestro de tránsito** complicó por segunda vez la finalización del puente elevado. En el choque la estructura de **50 toneladas** se desplazó unos cinco metros.
+
+En el vehículo que se impactó contra los muros de contención iban cinco personas, **tres fallecieron**: los jugadores Roberto Cabezas y Marco Angulo; además de Víctor Charcopa. Otras dos personas resultaron heridas.
+
+Intercambiador tiene nueva fecha de entrega
+-------------------------------------------
+
+La nueva fecha de la entrega del **intercambiador** es el 18 de enero de 2024. En este mes se completarán las plataformas de entrada y salida de vehículos.
+
+Se espera que este proyecto beneficie de forma directa a unos **4 500 usuarios diarios** y, con ello, mejorará la movilidad entre Conocoto y los sectores aledaños de los Valles, como **La Armenia**.
+
+Daniel Noboa envió al Registro Oficial Ley ‘Antipillos’
+=======================================================
+
+La Ley 'Antipillos' fue publicada en el Registro Oficial vía Decreto Ley, firmado por Daniel Noboa, pese al archivo de la Asamblea.
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa envió al Registro Oficial la Ley 'Antipillos'.](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-1.jpg)
+
+El presidente **Daniel Noboa** envió al **Registro Oficial** la **Ley ‘Antipillos’**, este lunes 9 de diciembre de 2024.
+
+El **Decreto Ley** fue publicado hoy, pese al archivo de la **Asamblea Nacional**.
+
+### Más noticias:
+
+* [Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/daniel-noboa-devolvio-archivo-ley-lavado-activos-asamblea-nacional.html "Daniel Noboa devolvió archivo de la ley de lavado de activos a la Asamblea Nacional")
+* [Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos](https://www.elcomercio.com/actualidad/politica/daniel-noboa-tomo-decision-proyecto-de-ley-contra-lavado-de-activos.html "Daniel Noboa tomó una decisión inesperada sobre proyecto de ley contra lavado de activos")
+
+La Ley ‘Antipillos’ en el Registro Oficial por el Decreto Ley de Daniel Noboa
+-----------------------------------------------------------------------------
+
+La **Ley Orgánica para la Mejora recaudatoria a través del combate al lavado de activos** es denominada por el Ejecutivo como la Ley ‘Antipillos’.
+
+La iniciativa crea un **impuesto** para la comercialización de **carros usados** en **Ecuador**.
+
+Incluye nuevas **regulaciones a clubes deportivos** y cambios para el funcionamiento de la **Unidad de Análisis Financiero y Económico (UAFE).**
+
+Según el **Ejecutivo**, esta ley surge en medio de “la necesidad urgente de intervenir en las transacciones comerciales (…) que no tienen **controles formales exhaustivos**“.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDYHnhBRXsb/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Daniel Noboa Azin (@danielnoboaok)](https://www.instagram.com/reel/DDYHnhBRXsb/?utm_source=ig_embed&utm_campaign=loading)
+
+El **Ministerio de Gobierno** señaló que la Ley es parte de la lucha contra el crimen organizado y el **narcoterrorismo**.
+
+Además, que el “Gobierno del presidente **Daniel Noboa** jamás le dará la espalda al país”.
+
+“Es una herramienta clave diseñada para atacar y asfixiar las economías narcodelictivas y las fuentes de **financiamiento del crimen organizado**“, agregó.
+
+Para el Ejecutivo, la Asamblea no trató el proyecto y, al cumplirse el **plazo**, la publica en el Registro Oficial.
+
+Asamblea solicitó al Registro Oficial que no publique la ley
+------------------------------------------------------------
+
+Tras la decisión de Noboa, la Asamblea difundió un comunicado sobre este tema.
+
+De forma general, el documento del Legislativo **rechaza la publicación de la ley** en el **Registro Oficial**, y solicitó “enérgicamente” que no se le dé tratamiento.
+
+“El proyecto fue expresamente negado y archivado por el **Pleno de la Asamblea Nacional** en estricto cumplimiento del artículo 140 de la Constitución”, señala el comunicado.
+
+“Dicho artículo establece que los proyectos calificados como **económicos urgentes** sigan el mismo procedimiento ordinario”, añade el mensaje.
+
+El pedido de la Asamblea afirma que si la ley se publica “se **afectará la economía** de todos los ecuatorianos”.
+
+“Pedimos que se respete las decisiones tomadas por el Pleno”, finaliza el Legislativo.
+
+> [#Atención](https://twitter.com/hashtag/Atenci%C3%B3n?src=hash&ref_src=twsrc%5Etfw) | Apagón jurídico en Carondelet: la Presidencia de la República emite decreto Ley de un proyecto urgente en materia económica sin cumplir con lo establecido en el Art. 140 de la Constitución de la República del Ecuador. [pic.twitter.com/Qy9ymuPKx2](https://t.co/Qy9ymuPKx2)
+> 
+> — Asamblea Nacional (@AsambleaEcuador) [December 10, 2024](https://twitter.com/AsambleaEcuador/status/1866315292973924550?ref_src=twsrc%5Etfw)
+
+Otras reacciones a la publicación de la Ley ‘Antipillos’
+--------------------------------------------------------
+
+Al referirse a la Ley, el movimiento **Construye** expresó que de “Antipillos” solo tiene el nombre, pues se trata de nuevos impuestos de hasta el 5% para compra de vehículos usados.
+
+Días atrás, el secretario general de la Asamblea, **Alejandro Muñoz**, aseguró que, si el régimen publicaba la ley, sería un **acto dictatorial** y además un **delito**.
+
+Esto, porque el Ejecutivo estaría **simulando y usurpando funciones**.
+
+Campeón del Mundo supo de su doping a dos días de la final
+==========================================================
+
+Alejandro Gómez jugó dos partidos de los siete de Argentina en el Mundial Catar 2022.
+-------------------------------------------------------------------------------------
+
+![Alejandro Gómez con el trofeo de la Copa del Mundo en sus manos.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_1.jpg)
+
+La Selección de Argentina se proclamó como **campeona de la Copa del Mundo Catar 2022** el domingo 18 de diciembre. Cerca de 90 000 personas coparon el estadio de Lusail para mirar la final ante la poderosa Francia.
+
+Argentina dominó el partido por 80 minutos. En ese lapso dio una verdadera **cátedra de buen fútbol, solvencia, eficacia y eficiencia** que hicieron que se ponga adelante en el marcador por 2-0 con lo que todo hacía presagiar que se quedarían con el título
+
+### Más noticias:
+
+* [Posibles rivales de Barcelona Sporting Club en la Libertadores](https://www.elcomercio.com/deportes/futbol/posibles-rivales-de-barcelona-sporting-club-en-la-libertadores.html "Posibles rivales de Barcelona Sporting Club en la Libertadores")
+* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
+* [Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro](https://www.elcomercio.com/deportes/futbol/liga-de-quito-prepara-sorpresa-para-los-hinchas-final-de-liga-pro.html "Liga de Quito prepara una sorpresa para los hinchas en la final de Liga Pro")
+
+Los campeones se desmoronaron
+-----------------------------
+
+Lionel Messi (23′) y Ángel Di María (36′) anotaron los dos tantos con los que la ‘Albiceleste’ acarició la Copa del Mundo, **pero en 10 minutos Kylian Mbappé se puso el equipo al hombro** y empató el marcador a los 80′ y 81′.
+
+Con el 2-2 final el juego se extendió hasta los tiempos extra. Ahí, **Messi nuevamente anotó para el 3-2** a los 108′, con lo que todo se inclinaba en favor de los sudamericanos. Sin embargo, Mbappé apareció para sellar el definitivo 3-3 a los 118′.
+
+En los penales apareció la figura del arquero Emiliano Martínez. El ‘Dibu’ atajó el remate de **Kingsley Coman y puso nervioso a Aurélien Tchouaméni** que envió su disparo fuera del arco.
+
+El resultado final fue 4-2 en favor de Argentina que anotó con Messi, Paulo Dybala, Leandro Paredes y Gonzalo Montiel.
+
+La fiesta fue interminable en Lusail, en **Buenos Aires y en cada rincón donde había un aficionado** identificado con este logro de un equipo que espero 36 años para encaramarse en la cima del futbol de selecciones.
+
+![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_3-1024x683.jpg)
+
+Instagram del jugador.
+
+‘Papu’ Gómez y el doping
+------------------------
+
+Alejandro Gómez fue un actor secundario en el título de Argentina. Arrancó como titular en la derrota 1-2 ante **Arabia Saudita en el partido inaugural del grupo C**. Estuvo en cancha 59 minutos y fue sustituido por Julián Álvarez.
+
+Volvió a reaparecer en los octavos de final ante Australia. Jugó 50 minutos en el triunfo 2-1 por Lisandro Martínez y nunca más fue considerado por el entrenador Lionel Scaloni.
+
+“Pasé de ser campeón del mundo a que no me llame nadie, desaparecer del medio o no jugar más. Hay que saber convivir con eso. **Ni cuando estás allá arriba sos el mejor ni ahora sos el peor**. Sólo hay que saber priorizar otras cosas”, dijo en entrevista con Juan Pablo Varsky, que fue recogida por Infobae.
+
+El doping del ‘Papu’ no se dio en el Mundial, sino data de su etapa en el Sevilla y luego de enfrentar al Real Madrid.
+
+El futbolista aduce que se produjo por haber ingerido un “**jarabe para la tos**” para combatir una molestia de salud que lo aquejaba siempre después de sus partidos.
+
+“**Yo me olvidé que había tomado el jarabe**“, agregó sobre su descuido al momento de informar al médico del club al momento de tomar las muestras que luego desembocaron en el doping y posterior sanción.
+
+“Pasa el tiempo y me llega por email, dos días antes de la final, que había dado positivo. Fue un baldazo de agua fría. En la final de un Mundial, **que te llegue una noticia así es horrible**. Esos dos días estuve muy mal, estuve con fiebre. No sé si fue por la noticia o qué. Mientras festejaba estaba con la cabeza puesta en qué iba a pasar”, explicó.
+
+Explicó que sus compañeros se enteraron del resultado una vez que llegaron al hotel para seguir con los festejos por el título mundial.
+
+“Me lo guardé **para después de la final del mundo.** Cuando les conté me dijeron que me vieron bajoneado”, comentó.
+
+Gómez fue suspendido dos años en octubre de 2023. Luego del Mudial no volvió a ser citado por Scaloni.
+
+Actualmente, está sin club y se entrena en un equipo de la Serie C de Italia.
+
+![Instagram del jugador.](https://www.elcomercio.com/wp-content/uploads/2024/12/gomez_doping_2-1024x683.jpg)
+
+Instagram del jugador.
+
+San viernes
+-----------
+
+Caso Odebrecht: Gustavo Massuh pagará una reparación integral al Estado ¿Cuál es el monto?
+==========================================================================================
+
+En el caso Odebrecht, Gustavo Massuh fue sentenciado por asociación ilícita.
+----------------------------------------------------------------------------
+
+![Un tribunal de la CNJ resolvió sobre la reparación integral de Gustavo Massuh, en el caso Odebrecht.](https://www.elcomercio.com/wp-content/uploads/2024/12/caso-odebrecht-gustavo-massuh.jpg)
+
+En el **caso Odebrecht**, el empresario **Gustavo Massuh** pagará una cuantiosa suma de dinero como **reparación integral** al **Estado ecuatoriano**.
+
+Massuh fue sentenciado por **asociación ilícita** y pidió realizar el pago en tres partes.
+
+### Más noticias:
+
+* [John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto](https://www.elcomercio.com/actualidad/politica/john-polit-se-declaro-culpable-en-eeuu-per-ecuador-fue-declarado-inocente.html "John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto")
+* [Walter Solís mantiene su libertad, según SRE de México](https://www.elcomercio.com/actualidad/seguridad/walter-solis-cuenta-condicion-refugiao-segun-sre-mexico.html "Walter Solís mantiene su libertad, según SRE de México")
+
+Gustavo Massuh pagará por reparación integral al Estado ecuatoriano en el caso Odebrecht
+----------------------------------------------------------------------------------------
+
+**Gustavo Massuh** fue condenado por asociación ilícita en la trama de sobornos de la constructora brasileña Odebrecht a funcionarios y empresarios ecuatorianos.
+
+Este 9 de diciembre de 2024, un **Tribunal de la Sala Penal de la Corte Nacional de Justicia** verificó las garantías presentadas por Gustavo José Massuh.
+
+El monto a pagar por **reparación integral al Estado** ecuatoriano es de 860 930,99 dólares.
+
+Dentro del acuerdo de pago, la **Procuraduría** informó que, en los próximos ocho días, Massuh depositará 200 000 dólares en la cuenta de dicha institución.
+
+El resto cancelará en cuotas.
+
+En 2017 se dio la primera sentencia en este caso que revela la **trama de corrupción** por los sobornos de esa empresa.
+
+La Corte Nacional de Justicia sentenció al **exvicepresidente Jorge Glas** a seis años de cárcel como autor de un delito de asociación ilícita.
+
+La justicia también **sentenció** a otros dos exfuncionarios públicos y cinco empresarios.
+
+El 21 de diciembre de 2016, el **Departamento de Justicia de los Estados Unidos** hizo la revelación.
+
+Dijo que la **constructora brasileña** Odebrecht habría sobornado a funcionarios públicos de varios países.
+
+Respecto a **Ecuador**, se señala que la compañía, durante el periodo de 2007 al 2016, realizó presuntos sobornos por 33 500.000 dólares, pagos que le habrían beneficiado en 116 000 000 dólares.
+
+La investigación previa del caso inició el 22 de diciembre de 2016 por el presunto delito de **cohecho**.
+
+Los cambios en la Fórmula 1 para el 2025
+========================================
+
+La Fórmula 1 tendrá cambios para el 2025 después de que se definiesen los títulos de pilotos y constructores en la temporada 2024.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Max Verstappen y Lando Norris, campeón y subcampeón de la Fórmula 1 en 2025.](https://www.elcomercio.com/wp-content/uploads/2024/12/790d3c2968e1217ca05d028b0cab47c79da425fd.jpg)
+
+El paso del séptuple campeón mundial inglés **Lewis Hamilton** de Mercedes a Ferrari, equipo en el que sustituirá al español **Carlos Sainz**, será el principal cambio, con miras al año próximo, en la parrilla de la F1, en la que en 2025 no estarán al menos tres de los pilotos que rodaron el domingo en el último Gran Premio, el de Abu Dabi.
+
+La noticia del **fichaje de Hamilton por Ferrari** fue el gran bombazo informativo de principios de año, antes incluso del arranque de la pretemporada, y un plato duro de digerir para Sainz, que a su talento unió gran resiliencia y logró dos victorias (Australia -dos semanas después de ser operado de una apendicitis- y México) con lo que elevó a cuatro su relación de triunfos en la categoría reina. Todas ellas en sus cuatro años con el equipo de Maranello, con el que logró **25 de sus 27 podios** en la F1, así como las seis ‘poles’ y tres de sus cuatro vueltas rápidas.
+
+### Más noticas:
+
+* [La Fórmula 1 contará con un nuevo equipo en 2026](https://www.elcomercio.com/deportes/formula-1/formula1-nuevo-equipo-mundial-2026-f1.html "La Fórmula 1 contará con un nuevo equipo en 2026")
+* [Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1](https://www.elcomercio.com/deportes/formula-1/max-verstappen-arraso-gran-premio-de-sao-paulo-de-la-formula-uno.html "Max Verstappen arrasó en el Gran Premio de Sao Paulo de la Fórmula 1")
+* [Formulario de registro aduanero tendrá una variación desde este 9 de diciembre](https://www.elcomercio.com/actualidad/ecuador/formulario-registro-aduanero-tiene-variacion-9-diciembre.html "Formulario de registro aduanero tendrá una variación desde este 9 de diciembre")
+
+“**Estoy orgulloso de estos cuatro años, pero aún más lo estoy de este último; por haber mantenido la motivación y el empeño para apretar durante todo el año**“, declaró a Efe Sainz, de 30 años, tras disputar su última carrera con Ferrari en Yas Marina, donde esta semana el talentoso piloto madrileño ya se subirá al Williams; escudería que contará a partir de la próxima temporada con el patrocinio del Banco Santander, según se anunció este lunes.
+
+El hueco que dejará Sir Lewis en Mercedes -escudería en la que ha capturado seis de sus siete títulos- lo cubrirá el joven italiano **Andrea Kimi Antonelli** (18 años), que ya salió a pista en el primer libre de Monza (Italia), donde le pudo la presión.
+
+Carlos Sainz Jr y su salida de Ferrari
+--------------------------------------
+
+Sainz se va a Williams, una de las escuderías históricas (9 títulos de constructores y 7 de pilotos), en la que será compañero del tailandés **Alex Albon**; que compartió estos últimos nueve Grandes Premios con el argentino **Franco Colapinto**, sustituto en el equipo de Grove del estadounidense Logan Sargeant desde Monza (Italia).
+
+El futuro de Colapinto -nacido hace 21 años en Pilar (Buenos Aires)- es incierto, ya que, en teoría, la parrilla está cerrada, pero en la F1 casi nunca se puede dar nada por hecho. Algunas voces sitúan a **Sergio Pérez** -subcampeón del mundo la pasada temporada y octavo este curso- fuera de la categoría reina el curso que viene. El mexicano -compañero del flamante cuádruple campeón mundial neerlandés **Max Verstappen**– se apresuró a recordar, nada más llegar a Abu Dabi, que el año que viene tiene contrato en vigor con Red Bull, pero tras confirmar una temporada para el olvido con otra retirada en la última carrera del año, ‘Checo’ admitió que no sabe “qué va a pasar”.
+
+“**Veremos a ver qué pasa estos próximos días. Tengo contrato con el equipo y hemos estado hablando. Se trata de discutir lo que es mejor para todo el mundo; y avanzar**“, manifestó el piloto de Jalisco, con seis victorias y 39 podios en la categoría reina a los 34 años.
+
+**McLaren**, que se anotó el **Mundial de constructores**, repite formación y el inglés Lando Norris -segundo en el campeonato tras ganar el domingo en Yas Marina -por delante de Sainz- formará de nuevo pareja con el australiano Oscar Piastri, cuarto en el Mundial, con dos puntos más que el español.
+
+Fernando Alonso se mantiene, pero hay más cambios en Fórmula 1
+--------------------------------------------------------------
+
+El doble campeón mundial asturiano **Fernando Alonso** -32 victorias y 106 podios en la F1-, que siguió brillando a los 43 años con un muy flojo Aston Martin, volverá a formar dupla con el canadiense Lance Stroll, el hijo de Lawrence Stroll, propietario de la escudería de Silverstone.
+
+En Abu Dabi, el francés **Esteban Ocon** -que se va a Haas- tendrá como reemplazo al australiano Jack Doohan -hijo del mítico Mick Doohan, cinco veces campeón mundial de motociclismo-, en Alpine, equipo en el que el oceánico será piloto oficial en 2005.
+
+Ocon será compañero del joven inglés **Oliver Bearman** -18 años, que este año ya corrió dos carreras, una de ellas sustituyendo a Sainz en Arabia Saudí, cuando el madrileño tuvo que ser operado de apendicitis- en Haas. Un equipo que cambia por completo su formación: el alemán **Nico Hülkenberg** se va a Sauber; y el danés **Kevin Magnussen** se despidió de la F1 con la vuelta rápida en carrera el domingo en Yas Marina.
+
+Kick Sauber es la otra escudería que sustituye dúo de pilotos, ya que el nuevo compañero de Hülkenberg será otro debutante: el brasileño **Gabriel Bortoleto**, que el domingo certificó su triunfo final en el campeonato de la F2. El doble subcampeón del mundo finlandés **Valtteri Bottas y Guanyu Zhou**, el primer chino que corre en la F1, los dos pilotos de la escudería de **Hinwil** (Suiza) durante este curso, disputaron su última carrera en la categoría reina el domingo en la capital de los Emiratos Árabes Unidos.
+
+Liga de Quito ganó un título en cancha de Independiente
+=======================================================
+
+Liga de Quito es el único equipo masculino que ganó un título en el estadio de Independiente del Valle.
+-------------------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Quito con el trofeo de la Supercopa Ecuador de 2021.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeon_idv_1.jpg)
+
+Liga de Quito está concentrado para la final de vuelta de la Liga Pro. El **sábado 14 de diciembre de 2024, desde las 15:30**, visitará a Independiente del Valle en la final de vuelta que marcará el fin de año futbolístico en Ecuador.
+
+Con el 3-0 de la ida, Liga de Quito tiene una mano en el trofeo de la Liga Pro, **pero Independiente del Valle saldrá decidido** a empatar la serie para extender la definición hasta los lanzamientos penales.
+
+### Más noticias:
+
+* [Inter Miami](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana") [](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")[tomó una importante decisión sobre Leonardo Campana](https://www.elcomercio.com/deportes/futbol/inter-miami-tomo-una-importante-decision-sobre-leonardo-campana.html "Inter Miami tomó una importante decisión sobre Leonardo Campana")
+* [¿Moisés Caicedo puede ganar la Premier League?](https://www.elcomercio.com/deportes/chelse-moises-caicedo-ganar-premier-league.html "¿Moisés Caicedo puede ganar la Premier League?")
+* [Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos](https://www.elcomercio.com/deportes/futbol/medallas-ecuador-juegos-bolivarianos-oro.html "Ecuador en Ayacucho 2024: un vistazo a los Juegos Bolivarianos")
+
+Liga por un nuevo título
+------------------------
+
+Liga es el equipo más ganador del fútbol ecuatoriano. En su **palmarés destacan los 12 títulos del campeonato nacional**, los dos de la Supercopa Ecuador y una Copa Ecuador.
+
+Si gana el título el sábado se convertirá en el primer bicampeón de la Liga Pro, llegará a 13 coronas del torneo local e igualará a El Nacional en el tercer puesto. Además, quedará a solo uno de Emelec y a tres de Barcelona Sporting Club.
+
+Pero sin dudarlo el orgullo de los hinchas albos son los cinco trofeos internacionales que se dividen en la Copa Libertadores (2008), Copa Sudamericana (2009 y 2023) y Recopa Sudamericana (2009 y 2010).
+
+Aunque no suma como estrella, también sobresale el subcampeonato del mundo de clubes de 2008. Un **gol de Wayne Rooney privó a los ecuatorianos del trofeo** que ese año quedó en manos del Manchester United de Cristiano Ronaldo.
+
+![X LDU.](https://www.elcomercio.com/wp-content/uploads/2024/12/campeon_idv_2-1024x683.jpg)
+
+X LDU.
+
+Liga estrenó la cancha de IDV
+-----------------------------
+
+El 20 de marzo de 2021 se jugó el primer partido oficial en el estadio de Independiente del Valle. Fue por la fecha cinco de la primera etapa de la Liga Pro.
+
+Los del Valle derrotaron **2-0 a Delfín con tantos del argentino Lorenzo Faravelli y del ariete paraguayo Brian Montenegro**. Los dos extranjeros inauguraron la cuota goleadora de la nueva y moderna infraestructura.
+
+El 26 de junio de ese mismo año LDU se transformó en el primer equipo en dar una vuelta olímpica. De hecho, es el único club de la Liga Pro que lo hizo hasta el presente año.
+
+En el fútbol femenino, **Barcelona y Dragonas IDV** celebraron sus títulos de la Superliga Femenina de 2023 y 2024, respectivamente.
+
+El referido día se jugó la final de la **Supercopa de Ecuador y le ganó a Barcelona SC por 1-0** con un autogol del Bryan Caicedo a los cuatro minutos del primer tiempo. Eso fue suficiente para ganar un nuevo título en el fútbol profesional.
+
+Adrián Gabbarini; José Quintero, Luis Caicedo, Anderson Ordóñez y Christian Cruz; Matías Zunino, Ezequiel Piovi y Jordy Alcívar; **Jhojan Julio, Luis Amarilla y Billy Arce** fueron los 11 elegidos por el argentino Gabriel Di Noria, DT interino tras la salida del uruguayo Pablo Repetto.
+
+Esa fue una revancha de parte de los albos. Unos meses antes los amarillos les ganaron el título de la Liga Pro en el Rodrigo Paz Delgado. Esa noche del 29 de diciembre de 2020 la **gran figura fue el arquero argentino Javier Burrai**.
+
+El sábado todo está encaminado para que den una nueva vuelta olímpica en la casa de IDV.
+
+> 📹 ¡Una final memorable!  
+>   
+> 🤩 Los mejores momentos del partido cumbre de la [#SupercopaEcuador2021](https://twitter.com/hashtag/SupercopaEcuador2021?src=hash&ref_src=twsrc%5Etfw)🇪🇨.  
+>   
+> ¡[#SuperCampeónHayUnoSolo](https://twitter.com/hashtag/SuperCampe%C3%B3nHayUnoSolo?src=hash&ref_src=twsrc%5Etfw)🏆! [pic.twitter.com/oPuk62RD5o](https://t.co/oPuk62RD5o)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [June 27, 2021](https://twitter.com/FEFecuador/status/1408953775318978564?ref_src=twsrc%5Etfw)
+
+San viernes
+-----------
+
+Embajada de Estados Unidos en Ecuador ofrece vacantes de trabajo
+================================================================
+
+La Embajada de EE. UU. en Ecuador abrió vacantes con sueldos que superan los 47 000 dólares por año. Conoce cómo postular.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Las ofertas laborales de la Embajada son para sus sedes en Quito y Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/12/vacante-estados-unidos-ecuador.jpg)
+
+La **Embajada de Estados Unidos en Ecuador** se encuentra en la búsqueda de profesionales para cubrir **ocho vacantes** de trabajo en sus sedes de Quito y Guayaquil.
+
+Las ofertas laborales ofrecen sueldos que van desde los **17 587** a **47 419 dólares** por año.
+
+### Más noticias
+
+* [Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?](https://www.elcomercio.com/actualidad/politica/estados-unidos-hizo-nueva-donacion-a-ecuador-cual-es-el-fin.html "Estados Unidos hizo nueva donación a Ecuador, ¿cuál es su fin?")
+* [Trump quiere que los soñadores se queden en Estados Unidos](https://www.elcomercio.com/actualidad/mundo/trump-quiere-sonadores-queden-estados-unidos.html "Trump quiere que los soñadores se queden en Estados Unidos")
+* [Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza](https://www.elcomercio.com/actualidad/mundo/estados-unidos-veta-resolucion-onu-pide-alto-fuego-gaza.html "Estados Unidos veta resolución de la ONU que pide alto el fuego en Gaza")
+
+Vacantes de trabajo en Quito
+----------------------------
+
+**Asistente de Servicios a Ciudadanos Estadounidenses**
+
+* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
+* La remuneración es de **32 830 dólares** por año.
+
+**Investigador nacional del Servicio Exterior**
+
+* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
+* La remuneración es de **32 830 dólares** por año.
+
+**Asociado consular**
+
+* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **jueves 19 de diciembre** de 2024.
+* La remuneración es de **47 419 dólares** por año.
+
+Vacantes laborales en Guayaquil
+-------------------------------
+
+**Asistente de Recursos Humanos**
+
+* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 9 de diciembre** de 2024.
+* La remuneración es de **27 104 dólares** por año.
+
+**Asistente de gestión de la oficina del Cónsul General**
+
+* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **martes 10 de diciembre** de 2024.
+* La remuneración es de **42 391 dólares** por año.
+
+**Asociado consular**
+
+* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **lunes 16 de diciembre** de 2024.
+* La remuneración es de **47 419 dólares** por año.
+
+**Asistente de gestión de oficina**
+
+* Oferta abierta únicamente para **familiares elegibles** de Estados Unidos. La fecha límite de postulación es el **martes 17 de diciembre** de 2024.
+* La remuneración es de **37 896 dólares** por año.
+
+**Chofer**
+
+* Oferta abierta a **todo público**. La fecha límite de postulación es el **lunes 16 de diciembre** de 2024.
+* La remuneración es de **17 587 dólares** por año.
+
+¿Cómo postular a las vacantes de la Embajada de EE. UU. en Ecuador?
+-------------------------------------------------------------------
+
+Para postular a las **ofertas laborales** de la Embajada de EE. UU. debes ingresar a la [página web](https://erajobs.state.gov/dos-era/vacancysearch/searchVacancies.hms?_ref=d1zloxjrpt0 "https://erajobs.state.gov/dos-era/vacancysearch/searchVacancies.hms?_ref=d1zloxjrpt0") de la entidad.
+
+En el apartado de ‘**Vacantes**‘ encontrarás los detalles de cada uno de los puestos, sus **requisitos,** beneficios y tareas a cumplir.
+
+Una vez elijas la oferta de tu interés, selecciona en la parte superior la opción ‘**Postularse a esta vacante**‘.
+
+Finalmente, completa toda la **información** que te solicita el sistema: datos personales, experiencia laboral, estudios, habilidades e idiomas. Recuerda cargar a la nube los **documentos de respaldo**.
+
+La Oficina de **Recursos Humanos** de la Embajada se pondrá en contacto con los candidatos seleccionados.
+
+Requisitos generales
+--------------------
+
+Si bien cada vacante cuenta con requisitos específicos, estos son algunas **condiciones generales** que debes cumplir:
+
+* Autorización de Confianza Pública
+* Disponibilidad para incorporarte de al menos **dos semanas**
+* Tener mínimo **dos años de estudios** universitarios, con excepción del puesto de chofer que requiere niveles secundarios
+* Demostrar una **experiencia laboral** de dos años
+* Rendir **evaluaciones** de conocimientos
+* Idioma **inglés fluido**, con excepción del puesto de chofer que requiere niveles básicos
+* **Adaptabilidad** al entorno cultural, social y jurídico estadounidense
+
+La Misión de los Estados Unidos aseguró que los procesos de contratación se realizarán garantizando la **igualdad de oportunidades** y un trato justo.
+
+“No tendremos distinción de raza, color, religión, sexo, origen nacional, edad, discapacidad, afiliación política, estado civil u orientación sexual”, señaló la institución norteamericana.
+
+La Selección Ecuador sub-20 jugará dos amistosos
+================================================
+
+La Selección de Ecuador sub-20 fue campeona del Campeonato Sudamericano en 2019.
+--------------------------------------------------------------------------------
+
+![Davis Bautista es uno de los convocados por Miguel Bravo para los amistosos.](https://www.elcomercio.com/wp-content/uploads/2024/12/amistosos_juvenil_1.jpg)
+
+La Selección de Ecuador sub-20 jugará en Lima dos partidos amistosos ante su similar de Perú, el 17 y el 20 de diciembre de 2024, **como preparación para el Campeonato Sudamericano** de la categoría que se disputará en enero de 2025 en Venezuela, informó la Federación Ecuatoriana de Fútbol (FEF).
+
+El seleccionador Miguel Bravo convocó este lunes a 27 jugadores, 22 de los que militan con sus clubes en la Liga Pro de Ecuador (que entra en receso en los próximos días) y cinco en equipos extranjeros.
+
+### Más noticias:
+
+* [IDV nece](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")[s](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")[ita una hazaña para remontar a Liga de Quito en la final](https://www.elcomercio.com/deportes/futbol/idv-necesita-una-hazana-para-remontar-a-liga-de-quito-en-la-final.html "IDV necesita una hazaña para remontar a Liga de Quito en la final")
+* [El Real Madrid li](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")[dera el once ideal del FIFPro 2024](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")
+* [Entradas par](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")[a](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles") [la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
+
+La Selección de Ecuador y su preparación
+----------------------------------------
+
+Los amistosos de Ecuador ante Perú se jugarán en el estadio atlético La Videna, en Lima, detelló la FEF.
+
+Añadió que el combinado nacional se entrenará y **concentrará hasta el 15 de diciembre en la capital ecuatoriana**, en un proceso de preparación de cara al Sudamericano Juvenil en Venezuela que se disputará entre el 23 de enero y el 16 de febrero, y que entregará un billete para el Mundial de septiembre próximo en Chile.
+
+En el torneo sub-20, Ecuador formará parte del **Grupo B con Argentina, Brasil, Colombia y Bolivia**.
+
+Miguel Bravo dispondrá de figuras Sub-20 que han sido titulares permanentes en sus clubes como el defensa Diogo Bagüí, el centrocampista **Ronny Borja y el atacante Elkin Muñoz, del Emelec**, equipo dirigido por el colombiano Leonel Álvarez.
+
+También Elian Caicedo, de Mushuc Runa; Allen Obando, de Barcelona; Justin Lerma, del Independiente del Valle; Rooney Troya y Luis Moreno de Universidad Católica, entre otros.
+
+Los cinco convocados que militan en el exterior son: Jhafets Dick (Cartagena-ESP), **Davis Bautista (Eintracht Frankfurt-GER)**, Jair Collahuazo (Red Bull-USA), Jeremy Arévalo (Racing de Santander-ESP), David Govea (Swansea City-NLD).
+
+Los otros 22 convocados
+-----------------------
+
+Christian Loor, Elkin Ruiz, Dary García, Justin Lerma, Darwin Guagua (Independiente del Valle); Maikel Caicedo, Fricio Caicedo, Ruddy Mina, Juan Rodríguez y Ariel Borja (Liga de Quito); Diogo Bagüi, Ronny Borja y Elkin Muñoz (Emelec).
+
+También estarán Johan Guerrero, Jostin Feijoo (Orense); Luis Moreno y Rooney Troya (Universidad Católica); **Allen Obando y Geremi Altafuya (Barcelona)**; Gipson Preciado (Independiente Juniors), Elian Caicedo (Mushuc Runa) y Jackson Landázury (Liga de Portoviejo).
+
+San viernes
+-----------
+
+Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito
+======================================================================
+
+Las emergencias registradas por fiestas de Quito este 2024 fueron menos que en 2023.
+------------------------------------------------------------------------------------
+
+![El ECU 911 se activó para atender las emergencias en las fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/emergencias-fiestas-quito.jpg)
+
+Más de **9 000 emergencias** se registraron durante las **fiestas de Quito**, este 2024[.](https://es.wikipedia.org/wiki/Quito)
+
+El **ECU 911** Quito monitoreó la capital y atendió cada llamada de auxilio en todas las áreas y circuitos.
+
+### Más noticias:
+
+Emergencias durante las fiestas de Quito 2024
+---------------------------------------------
+
+Del 5 al 8 de diciembre de 2024, **Quito** celebró sus **490 años de fundación**.
+
+Decenas de **eventos** se desarrollaron en el norte, centro, sur y valles.
+
+El **ECU 911** se mantuvo operativo con toda su capacidad para atender y coordinar las **emergencias** con las unidades de primera respuesta.
+
+En total, se atendieron **9 345 emergencias** en el Distrito Metropolitano de Quito.
+
+El circuito con más reportes fue el **Eugenio Espejo**, en el que están sectores como: Cochapamba, Dammer, El Bosque.
+
+Además, Iñaquito, Jipijapa, Kennedy, Las Casas, Nayon, San Isidro del Inca, Universitario y **Zambiza.**
+
+Aquí se atendieron **2 362** emergencias.
+
+Le sigue el circuito **Eloy Alfaro** con **1 560** emergencias. Aquí están: La Argelia, Chimbacalle, La Magdalena, Chilibulo, San Bartolo, La Mena, La Ferroviaria, Solanda, Lloa.
+
+En el rango de más de 1 000 emergencias también están los circuitos de: **Manuela Sáenz, La Delicia y Quitumbre.**
+
+**Calderón** con 784 y otros 1 061.
+
+**Por servicios**, el más atendido fue el de **seguridad ciudadana**, con 6 197 emergencias, que corresponde al 66,3%.
+
+Luego, **tránsito y movilidad** con 1 174 y servicios municipales con 1 060.
+
+Gestión **Sanitaria, de Siniestros, de Riesgos** y Servicio Militar con menos porcentajes.
+
+También se registraron **casos de**:
+
+* **Libadores** con 661 eventos
+* **Escándalos** con 774 casos
+* 356 hechos de **violencia intrafamiliar**
+
+En el mismo feriado del añ**o 2023** se registraron 10 163 emergencias; con lo que se identifica una disminución del 8% para el presente año.
+
+El ECU 911 Quito **monitoreó todas las actividades** que se desarrollaron en espacios abiertos, sitios turísticos, parques, vías, eventos culturales y artísticos.
+
+Incluyendo los puntos en los que se registró **caída de lluvias** durante este feriado.
+
+Cristian Erbes rechazó a Emelec por la B de Argentina
 =====================================================
 
-Los ciberdelincuentes utilizan ciertas técnicas de ataque, ente ellas ingeniería social para realizar fraudes y estafas.
-------------------------------------------------------------------------------------------------------------------------
+Cristian Erbes se formó y debutó como futbolista en Boca Juniors. Ahí ganó cuatro títulos.
+------------------------------------------------------------------------------------------
 
-![Lorena Naranjo Godoy, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lorena-Naranjo-Godoy.jpg)
+![Cristian Erbes fue uno de los refuerzos de Emelec en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/erbes_emelec_1.jpg)
 
-**Lecciones de un Ciberataque (Primera Parte)**
------------------------------------------------
+**Cristian Erbes** no seguirá siendo jugador de Emelec en el 2025. El argentino llegó a inicios de 2024 con uno de los principales refuerzos de los guayaquileños, pero su estancia duró menos de 12 meses.
 
-Basado en una historia real… “Era un jueves por la mañana como cualquier otro. Revisaba las últimas noticias relacionadas con el **ámbito tecnológico y legal,** algo habitual en mi trabajo en **derecho digital**. Mientras navegaba, una noticia sobre **nuevas funciones en WhatsApp** captó mi atención. Hice clic en el enlace y, de forma inesperada, mi teléfono se apagó y se reinició. En ese momento no imaginé que estaba siendo víctima de un sofisticado ciberataque. Al encenderse nuevamente el teléfono, todo parecía normal, pero al abrir WhatsApp, me di cuenta de que mi cuenta había sido transformada en una cuenta Business sin mi autorización y me habían retirado todo acceso. De forma alarmante, todas mis demás cuentas, tanto en mi teléfono como en mis computadoras, también habían sido desconectadas. **El enlace que había abierto resultó ser una puerta para que el atacante tomara control absoluto de mi WhatsApp**.
+El 19 de enero, **Cristian Erbes llegó al Aeropuerto Internacional José Joaquín de Olmedo**. En su hoja de vida resaltaba el haber jugado en Boca Juniors, uno de los equipos más populares de Argentina y del mundo.
 
-Mis primeros **esfuerzos** se enfocaron en recuperar la cuenta mediante las **herramientas disponibles**: verificación por correo, SMS y llamadas. Sin embargo, el atacante ya había realizado múltiples intentos fallidos de acceso, lo que bloqueó estas opciones por 12 horas. Durante ese tiempo, el hacker comenzó a utilizar mi cuenta para intentar estafar a mis contactos más cercanos, incluyendo amigos, familiares e incluso colegas de trabajo. Solicitaba transferencias de $500, haciéndose pasar por mí.
+### Más noticias:
 
-Rápidamente, **alerté a todos mis contactos y publiqué en redes sociales** sobre la situación, advirtiéndoles del fraude en curso. Afortunadamente, gracias a mi comunicación y a la falta de habilidad persuasiva del atacante, nadie cayó en la trampa”.
+* [El Real Madrid lidera el once ideal del FIFPro 2024](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")
+* [Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
+* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
 
-Las **aplicaciones de mensajería instantánea y comunicación** en línea permiten a los usuarios, a través de sus **dispositivos**, enviar mensajes de texto, archivos de audio, imágenes, videos, documentos, así como realizar llamadas de voz y video con otros usuarios que también tienen instalado la aplicación en sus dispositivos. Existen algunas aplicaciones de mensajería instantánea en línea, entre ellas: _WhatsApp, Facebook Messenger, Telegram, Signal_; también hay otras aplicaciones de mensajería instantánea para empresas, entre las más comunes: _Slack, Micosoft Teams, Google Workspace_; algunas aplicaciones de mensajería instantánea se usan en redes sociales como son; Instagram, Facebook, X, Tik Tok, entre otras.
+Erbes llegó ilusionado
+----------------------
 
-Los **ciberdelincuentes** utilizan ciertas técnicas de ataque, ente ellas **ingeniería social** para realizar **fraudes y estafas**, a través de las aplicaciones de mensajería instantánea, las más comunes son:
+“Sabemos la grandeza del club en Sudamérica. La verdad, cuando me llegó la propuesta no tuve mucho que analizar. También tuve ofertas de la Primera División de Argentina, pero decidí venir acá, **espero haber tomado la mejor decisión**“, declaró el mediocampista a la prensa que lo abordó.
 
-1. **Concursos y promociones falsos**: Llegan mensaje que tratan de persuadir al usuario indicándole que se ha ganado un premio sin haber participado, le solicita, además: compartir el mensaje con sus contactos, rellenar un formulario con datos personales, efectuar un pago o suscripción a un servicio de pago, así también aceptar bases legales confusas que pueden contradecirse.
-2. **Secuestro de la cuenta de _WhatsApp_**: Le llega al usuario un código de verificación de la App por SMS (Mensajes cortos al dispositivo móvil), inmediatamente recibe otro mensaje o una llamada y a través de alguna excusa como la necesidad de actualización de la cuenta, o de soporte técnico, le solicitan el código, por lo que el ciberdelincuente logra sustraerse la cuenta.
-3. **Cuentas falsas**: Los ciberdelincuentes crean cuentas falsas, en el que se identifica el nombre y foto de perfil de empresas, personas conocidas o famosos; las fotos de perfil son tomadas de las cuentas originales o de redes sociales, por lo que debemos identificar que van a existir dos o más cuentas con un nombre similar y la misma descripción e imagen, el perfil no cuenta con una insignia de verificación de la cuenta (check), la cuenta falsa comparte enlaces web desconocidos o que no tienen nada que ver con la empresa, los ciberdelincuentes envían mensajes genéricos solicitando apoyo económico a sus seguidores.
-4. **Sextorsión y amores en línea**: Los ciberdelincuentes utilizan perfiles abiertos con fotografías de personas atractivas, usan fotos robadas de otras cuentas privadas o publicadas en internet o redes sociales, comparten los mismos gustos o aficiones, piden ayuda económica bajo algún pretexto, puede solicitar imágenes íntimas o videos explícitos.
-5. **Anuncios de tiendas fraudulentas**: Los ciberdelincuentes utilizan las redes sociales y aplicaciones de mensajería instantánea, para difundir promociones muy atractivas, promocionan productos de marcas muy conocidas, la URL y presentación de la tienda anunciada puede ser clonada de la original; sin embargo, al navegar las imágenes y las descripciones de los productos se presentan con mala calidad y mala redacción; no proporcionan información de contacto; no aceptan métodos de pago seguros, facilitan un formulario para introducir todos los datos personales y de la tarjeta de crédito o débito, sin ninguna garantía de seguridad.
+Lo cierto es que su paso por el ‘Bombillo’ no fue del todo satisfactorio, fue de más a menos y terminó siendo un suplente fijo para el colombiano Leonel Álvarez, reemplazante de su compatriota Hernán Torres.
 
-Pese a las seguridades existentes, la aplicación de mensajería instantánea WhatsApp puede ser sustraída y usada sin consentimiento, a través de técnicas de engaño como **_WhatsApp Spoofing_**, que permite a un atacante falsificar la identidad de un usuario a fin de hacerse pasar por él con fines maliciosos, el ciberdelincuente toma el control de una cuenta y envía mensajes en nombre de la víctima, se hace pasar por el usuario y accede a sus conversaciones, se vale de distintos medios, como pueden ser la clonación de la tarjeta SIM, eSIMs, o el QRLJacking, entre otros.
+Con Torres, el ‘Pichi’ jugó los 15 partidos de la primera etapa de la Liga Pro, según Transfermarkt. F**ue titular indiscutido y jugó 1 284 minutos de 1 350 posibles**. Solo salió al cambio en la fecha 11 en la victoria 2-1 ante Universidad Católica en el Capwell y en la 14 en el 1-2 ante Imbabura en el Olímpico de Ibarra.
 
-El **_WhatsApp Spoofing_** es una técnica de engaño que consiste en enviar mensajes de WhatsApp que parecen provenir de un número de teléfono diferente al real. Esto se logra mediante la manipulación de la información de cabecera del mensaje, lo que permite al atacante hacer que el mensaje parezca haber sido enviado por alguien más. Existen algunos tipos de  _WhatsApp Spoofing_: 1.- **_Spoofing_ de número de teléfono**: El atacante envía un mensaje de WhatsApp que parece provenir de un número de teléfono diferente al real**. 2.-  _Spoofing_ de perfil**: El atacante crea un perfil de WhatsApp falso que parece ser el perfil de la víctima. 3. **_Spoofing_ de mensaje**: El atacante envía un mensaje de WhatsApp que parece ser un mensaje legítimo, pero que en realidad es un mensaje falso. El _QRLJacking_ es una de las técnicas más utilizadas en el _Spoofing_, los ciberdelincuentes crean un Código QR falso, que al ser escaneado por la víctima, le da acceso a su cuenta; al acceder los ciberdelincuentes a la cuenta pueden propagar malware a los contactos de la víctima y lo más preocupante es que pueden acceder a datos personales y a información sensible, realizar transacciones fraudulentas y dañar la reputación del dueño original de la cuenta de WhatsApp.
+En la segunda etapa perdió el puesto con **Álvarez que lo tomó en cuenta en cinco juegos para completar** 270 minutos. Solo en uno fue titular, tres se los perdió por una suspensión por tarjeta roja, en tres fue suplente y en cuatro no fue citado.
 
-Conocer cómo opera el **_WhatsApp Spoofing_** nos ayuda a construir una cultura en ciberseguridad para defendernos de ciberataques. En la siguiente entrega, conoceremos cómo recuperar el de WhatsApp y qué medidas se deben implementar para evitar un ciberataque.
+El destino de Erbes
+-------------------
 
-Agradecimiento a Juan Carlos Urquiza por compartirnos su historia.
+Emelec le presentó una propuesta de renovación para que el argentino siga con el club, sin embargo, la rechazó y se sumó a la lista de **bajas junto a los nacionales Gustavo Cortez y Jackson Rodríguez**.
+
+El periodista César Luis Merlo confirmó que el jugador de 34 años jugará en San Miguel, equipo que milita en la Primera B Nacional de Argentina.
+
+Recién será la quinta temporada en esta categoría. **En el 2024 quedó en el octavo lugar de la Zona A** y no pudo avanzar a las etapas decisivas del fútbol de ascenso del fútbol de los actuales campeones del mundo.
+
+San viernes
+-----------
+
+Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?
+==========================================================================
+
+Liga de Quito apunta a mantener la tendencia de la Liga Pro en la cual los ganadores de la segunda etapa siempre han sido los campeones.
+----------------------------------------------------------------------------------------------------------------------------------------
+
+![Álex Arce, delantero de Liga de Quito, celebra un gol en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140923-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
+
+La **Liga Pro 2024** está por definir su campeón y Liga de Quito se perfila para hacerse con el título por segundo año consecutivo ante Independiente del Valle. El cuadro azucena tiene la oportunidad de continuar con la tendencia en la que el ganador de la segunda etapa siempre ha ganado el torneo.
+
+Albos y rayados se medirán en el último partido del campeonato durante esta temporada y los primeros parten con ventaja tras el primer compromiso definitorio. En él, el plantel que dirige **Pablo ‘Vitamina’ Sánchez** se impuso por una ventaja de 3-0.
+
+### Más noticias:
+
+* [Finalistas, clasificados, descensos y tabla de la Liga Pro 2024](https://www.elcomercio.com/deportes/liga-pro-tabla-acumulada-2024-finalistas-clasificados-descensos.html "Finalistas, clasificados, descensos y tabla de la Liga Pro 2024")
+* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
+* [Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
+
+Las escuadras arribaron a la final como ganadores de las dos etapas con las que cuenta la Liga Pro. En la primera, **Independiente del Valle** fue el equipo que la lidero, mientras que en la segunda, los albos le privaron de ser campeón directo gracias a que lo superaron por cinco puntos y finalizaron en la cima.
+
+Desde el 2020, segundo año de la **Liga Pro**, el formato del torneo se modificó para que se jueguen las dos etapas. A partir de ello, todos los campeones fueron aquellos que ganaron la **segunda etapa**, mientras que los de la primera cayeron en las finales.
+
+Los campeones de la Liga Pro desde el 2020, incluido Liga de Quito
+------------------------------------------------------------------
+
+Dentro de las últimas cuatro ediciones de la Liga Pro, ninguno de los campeones se ha repetido. En 2020 se hizo con el título **Barcelona SC**; en 2021, **Independiente del Valle**; en el 2022, **Aucas**; y en el 2023, **Liga de Quito.**
+
+En el campeonato de **Barcelona SC**, este derrotó en la final a Liga de Quito tras vencer en penales en el Estadio Rodrigo Paz Delgado, luego de empatar en ambos duelos. Durante aquel año, los toreros finalizaron **cuartos en la primera ronda y líderes en la segunda**; mientras que los lugares para los albos se invirtieron.
+
+Cuando **Independiente del Valle** se coronó campeón lo hizo contra Emelec. Allí, los eléctricos fueron líderes en la etapa inicial y los rayados terceros, pero en la sucesiva, el equipo de Sangolquí **finalizó primero y los azules segundos.**
+
+En el caso de Aucas en 2022, los orientales tuvieron una floja primera etapa, pero remontaron en la segunda. Durante la primera del año, **Barcelona SC** fue el líder y el cuadro aurigrana quinto; en la siguiente, Aucas finalizó en la cima y los toreros lo hicieron en el octavo lugar[.](https://en.wikipedia.org/wiki/Ecuadorian_Serie_A "https://en.wikipedia.org/wiki/Ecuadorian_Serie_A")
+
+Para el último campeonato de **Liga de Quito**, Independiente fue líder en la primera etapa y los albos terceros. En la ronda final, los rayados pincharon y terminaron octavos, mientras que la ‘U’ se hizo con la punta.
+
+En todos los campeonatos **ha existido un declive** de cara a la final con respecto a los equipos que inician bien el torneo. Asimismo, los que se han levantado y obtenido el último cupo a la final han conseguido mantener su ritmo y extender el buen momento que los llevó hasta ese punto.
+
+Liga de Quito obedece a la tendencia en Liga Pro
+------------------------------------------------
+
+**Liga de Quito** no tuvo el mejor primer semestre y finalizó en el tercer puesto de la tabla con 30 unidades, cinco menos que Independiente. Para la segunda, los puntajes entre ambas escuadras se invirtieron.
+
+Los albos vivieron un repunte con la llegada de **Pablo ‘Vitamina’ Sánchez**, quien llegó como DT para la última etapa y a sustituir al español Josep Alcácer. A su vez, a lo largo del año, Independiente del Valle no ha podido imponerse ante ellos.
+
+La revancha será para el **sábado 14 de diciembre del 2024 a las 15:30**. Allí, los rayados deben imponerse por al menos tres goles para forzar los penales y cuatro para ser campeones.
+
+Fucsia, durazno, café: ¿Cómo decide Pantone que en 2025 el mundo se vea en color Mocha Mousse?
+==============================================================================================
+
+Cada ser humano, lo sepa o no, está involucrado en este resultado
+-----------------------------------------------------------------
+
+![Una mujer se hace una imagen en un marco con el tono PANTONE 17-1230 Mocha Mousse en el horizonte de Londres.](https://www.elcomercio.com/wp-content/uploads/2024/12/pantone-El-Comercio.jpg)
+
+Mocha Mouse o café suave será el color de 2025 y es nuestra información la que se utiliza para escogerlo. ¿Cómo?
+
+Así es, Pantone, la empresa autoencargada de establecer el color cada año, examina las tendencias a partir de las elecciones que hace cada ser humano a diario para fijar la tendencia global y no solo en temas de ropa, sino en aspectos económicos, tecnológicos, políticos, de salud, etc.
+
+### Más noticias
+
+* **[‘Jeans’ con ‘jeans’, la tendencia que facilita la elección de tus ‘outfits’ diarios](https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html "https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html")**
+* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
+
+Por ejemplo, en 2023 el color Viva Magenta (un tono fucsia oscuro) reflejó la necesidad de confianza y fuerza en medio de la incertidumbre que dejó la pandemia.
+
+**El proceso de Pantone para elegir fucsia, durazno o café**
+------------------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDUtXghua6I/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de PANTONE (@pantone)](https://www.instagram.com/reel/DDUtXghua6I/?utm_source=ig_embed&utm_campaign=loading)
+
+**¿Qué significa Mocha Mousse?** **Mocha** se traduce como “moca”, en referencia a un color marrón claro con tonos de café, inspirado en el color de un café con leche o un café con sabor a chocolate. Mientras _**mousse**_ es una textura cremosa utilizada en postres como el _mousse_ de chocolate.
+
+Por lo tanto, el nombre completo **“Mocha Mousse”** puede interpretarse como un tono marrón suave, cálido, similar al color del café con leche y la textura cremosa de un postre _mousse_.
+
+Pantone no escoge un color al azar. Cada selección es el resultado de un análisis exhaustivo que toma en cuenta factores socioculturales, económicos, políticos, tecnológicos y emocionales.
+
+Desde la música y el cine hasta los movimientos sociales y las crisis económicas, cada elemento es un termómetro para identificar qué color resonará con el momento actual de la sociedad.
+
+En 2024, Peach Fuzz (durazno amarillento, suave) fue el color elegido para expresar una mezcla de calidez y empatía, ideal para crear ambientes tranquilos en una sociedad cada vez más conectada pero fragmentada, emocionalmente​.
+
+**¿Realmente impacta la elección del color en el público?**
+-----------------------------------------------------------
+
+Sí, aunque esta influencia ha ido disminuyendo con los años dependiendo del sector y la conexión cultural.
+
+Estos colores no son solo referencias estéticas; tienen el poder de ser herramientas de marketing, moda, arquitectura e interiorismo.
+
+Por ejemplo, cuando Pantone introduce un color como el Viva Magenta, las grandes marcas de ropa, como Gucci o Hermès, lo incorporaron en sus colecciones de moda. Pasó lo mismo en pinturas para paredes, en muebles y distintos artículos.
+
+**¿Qué colores combinan con el Mocha Mousse?**
+----------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDNLywXyZvX/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de @estilodf](https://www.instagram.com/p/DDNLywXyZvX/?utm_source=ig_embed&utm_campaign=loading)
+
+Mocha Mousse es un color neutro, cálido y sofisticado que se adapta. Combina con el **_beige_ claro**, el color **terracota o rojo arcilla**, el **verde oliva o bosque**, el **blanco crudo o crema** o el azul denim.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/pantone-El-Comercio-2-1024x683.jpg)
+
+Si hablamos de colorimetría, este color le queda bien a las personas con subtonos cálidos, ya que su base neutra complementa este perfil natural y resalta el bronceado y los tonos dorados de piel.
+
+En cambio, aquellos con **subtonos fríos** podrían equilibrar el **Mocha Mousse** con **azul marino, azul claro, gris plateado, rosa pastel, blanco puro y verde agua**. Esta clave es importante para quienes buscan usar estos tonos en moda, cosméticos o incluso decoración.
