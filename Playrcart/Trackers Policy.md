@@ -24,8 +24,6 @@ Close
         
     * [Real-Time Data Analytics](https://www.glui.io/real-time-data-analytics)
         
-    * [Developer Tools](https://www.glui.io/developer-tools)
-        
 * News
     
     * [Blog](https://www.glui.io/blog)
