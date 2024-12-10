@@ -129,7 +129,7 @@ Let's clear this out of the way first. If you're even thinking of doing any of t
 
 You must use the website for lawful purposes only. You must not use the website for any of the following:
 
-* Send spam messages via email, text messages or any other medium.
+* Send spam messages via email, text message or any other medium. You must have consent from any person to whom you communicate via Simplero
 * Violate any laws, statutes, ordinances, or regulations in the USA or your own country.
 * Sell things or promote content that is illegal, offensive, abusive, indecent, harmful, defamatory, obscene or menacing, abusive, threatening, objectionable, invasive of privacy, in breach of confidence, infringing of intellectual property rights, or is a threat to our or your customers' safety.
 * To reproduce, duplicate, copy or resell any part of our website or the content therein because it belongs to us. More on our intellectual property rights below.
