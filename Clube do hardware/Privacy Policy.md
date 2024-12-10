@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![João002](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/imported-photo-1167645.thumb.jpeg.07187b8a4ce4eef8eb1ad29012088f1f.jpeg)](https://www.clubedohardware.com.br/profile/1167645-jo%C3%A3o002/ "Ir ao perfil de João002")
+    * [![Bruno1245](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257463.thumb.png.e768943bb8502cfd9acc8d6658f51f96.png)](https://www.clubedohardware.com.br/profile/1257463-bruno1245/ "Ir ao perfil de Bruno1245")
         
         1
         
-        [FPS caindo do 60 pro 20 do nada](https://www.clubedohardware.com.br/forums/topic/1705082-fps-caindo-do-60-pro-20-do-nada/?do=getNewComment "FPS caindo do 60 pro 20 do nada")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [João002](https://www.clubedohardware.com.br/profile/1167645-jo%C3%A3o002/ "Ir ao perfil de João002")  
-        10 minutos atrás
-        
-    * [![Will Ü](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251115.thumb.jpeg.7371366c5ab84b80272ff2eb459372a4.jpeg)](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")
-        
-        1
-        
-        [Gabinete Gamer Alseye Audin.](https://www.clubedohardware.com.br/forums/topic/1705081-gabinete-gamer-alseye-audin/?do=getNewComment "Gabinete Gamer Alseye Audin.")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Will Ü](https://www.clubedohardware.com.br/profile/1251115-will-%C3%BC/ "Ir ao perfil de Will Ü")  
-        20 minutos atrás
-        
-    * [![mezavilla_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257685.thumb.jpeg.1a02e6631409a2684908153e12334a49.jpeg)](https://www.clubedohardware.com.br/profile/1257685-mezavilla_/ "Ir ao perfil de mezavilla_")
-        
-        4
-        
-        [Recomendação de placa-mãe para Ryzen 7 5700G](https://www.clubedohardware.com.br/forums/topic/1705080-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-para-ryzen-7-5700g/?do=getNewComment "Recomendação de placa-mãe para Ryzen 7 5700G")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [mezavilla\_](https://www.clubedohardware.com.br/profile/1257685-mezavilla_/ "Ir ao perfil de mezavilla_")  
-        1 hora atrás
-        
-    * [![SávioLindo69](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256788.thumb.jpeg.d0ab7a2efca2444cdd5ad78887e4b050.jpeg)](https://www.clubedohardware.com.br/profile/1256788-s%C3%A1violindo69/ "Ir ao perfil de SávioLindo69")
-        
-        2
-        
-        [quanto vale meu pc completo? Core I5 10400F - GeForce RTX 3060 TI](https://www.clubedohardware.com.br/forums/topic/1705079-quanto-vale-meu-pc-completo-core-i5-10400f-geforce-rtx-3060-ti/?do=getNewComment "quanto vale meu pc completo? Core I5 10400F - GeForce RTX 3060 TI")
-        
-        [Quanto vale meu equipamento usado?](https://www.clubedohardware.com.br/forums/forum/174-quanto-vale-meu-equipamento-usado/ "Quanto vale meu equipamento usado?")  
-        Por [SávioLindo69](https://www.clubedohardware.com.br/profile/1256788-s%C3%A1violindo69/ "Ir ao perfil de SávioLindo69")  
-        2 horas atrás
-        
-    * [![AntonioGabriel98876](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4bc%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")
-        
-        7
-        
-        [Desligar filtro de linha após desligar pc, recomendação de filtro de linha.](https://www.clubedohardware.com.br/forums/topic/1705078-desligar-filtro-de-linha-ap%C3%B3s-desligar-pc-recomenda%C3%A7%C3%A3o-de-filtro-de-linha/?do=getNewComment "Desligar filtro de linha após desligar pc, recomendação de filtro de linha.")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [AntonioGabriel98876](https://www.clubedohardware.com.br/profile/1248177-antoniogabriel98876/ "Ir ao perfil de AntonioGabriel98876")  
-        2 horas atrás
-        
-    * [![Williamm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257615.thumb.jpeg.3a56de0249890a1a222bfc3299b6a379.jpeg)](https://www.clubedohardware.com.br/profile/1257615-williamm/ "Ir ao perfil de Williamm")
-        
-        2
-        
-        [Qual destas placas vale mais a pena? Pichau B550M K vs B550M](https://www.clubedohardware.com.br/forums/topic/1705077-qual-destas-placas-vale-mais-a-pena-pichau-b550m-k-vs-b550m/?do=getNewComment "Qual destas placas vale mais a pena? Pichau B550M K vs B550M")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Williamm](https://www.clubedohardware.com.br/profile/1257615-williamm/ "Ir ao perfil de Williamm")  
-        2 horas atrás
-        
-    * [![luiscesar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/images_t.thumb.jpeg.117500fd615deae45b36a72beccd2c06.jpeg)](https://www.clubedohardware.com.br/profile/1256812-luiscesar/ "Ir ao perfil de luiscesar")
-        
-        4
-        
-        [Ryzen 7 5800x ficando em 100 da frequência em área de trabalho](https://www.clubedohardware.com.br/forums/topic/1705076-ryzen-7-5800x-ficando-em-100-da-frequ%C3%AAncia-em-%C3%A1rea-de-trabalho/?do=getNewComment "Ryzen 7 5800x ficando em 100 da frequência em área de trabalho")
+        [Ryzen 7 5700x ou 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1705120-ryzen-7-5700x-ou-7-5700x3d/?do=getNewComment "Ryzen 7 5700x ou 7 5700x3d")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [luiscesar](https://www.clubedohardware.com.br/profile/1256812-luiscesar/ "Ir ao perfil de luiscesar")  
-        3 horas atrás
+        Por [Bruno1245](https://www.clubedohardware.com.br/profile/1257463-bruno1245/ "Ir ao perfil de Bruno1245")  
+        21 minutos atrás
         
-    * [![Wonjong](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/Screenshot_30.thumb.png.6cea6af843e96af9849067d5fef412ab.png)](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")
+    * [![raphael.zattar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256165.thumb.jpeg.20ce2b5f4572c8ead9998ff9f6748539.jpeg)](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")
+        
+        0
+        
+        VENDO [placa-mãe E GABINETE Dell XPS 8940](https://www.clubedohardware.com.br/forums/topic/1705119-placa-m%C3%A3e-e-gabinete-dell-xps-8940/?do=getNewComment "placa-mãe E GABINETE Dell XPS 8940")
+        
+        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
+        Por [raphael.zattar](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")  
+        35 minutos atrás
+        
+    * [![Gabriel Vieira Rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/1.thumb.png.bff25179ec8294bf0e00bc98da1f3bf5.png)](https://www.clubedohardware.com.br/profile/1096869-gabriel-vieira-rodrigues/ "Ir ao perfil de Gabriel Vieira Rodrigues")
         
         1
         
-        [Corsair Vengeance 5200Mhz é compatível com Gigabyte B760 Aorus Elite?](https://www.clubedohardware.com.br/forums/topic/1705075-corsair-vengeance-5200mhz-%C3%A9-compat%C3%ADvel-com-gigabyte-b760-aorus-elite/?do=getNewComment "Corsair Vengeance 5200Mhz é compatível com Gigabyte B760 Aorus Elite?")
+        [Cooler para processador I3-10100f e possivelmente para um i5 da mesma geração](https://www.clubedohardware.com.br/forums/topic/1705118-cooler-para-processador-i3-10100f-e-possivelmente-para-um-i5-da-mesma-gera%C3%A7%C3%A3o/?do=getNewComment "Cooler para processador I3-10100f e possivelmente para um i5 da mesma geração")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Wonjong](https://www.clubedohardware.com.br/profile/1255502-wonjong/ "Ir ao perfil de Wonjong")  
-        3 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Gabriel Vieira Rodrigues](https://www.clubedohardware.com.br/profile/1096869-gabriel-vieira-rodrigues/ "Ir ao perfil de Gabriel Vieira Rodrigues")  
+        44 minutos atrás
         
-    * [![GenerinoPaixao](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257682.thumb.jpeg.d02ebc334058610e5cbee57952be1c8d.jpeg)](https://www.clubedohardware.com.br/profile/1257682-generinopaixao/ "Ir ao perfil de GenerinoPaixao")
+    * [![Willis_silvaa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256287.thumb.jpeg.db044a74adcd49b67588af6cbe21b689.jpeg)](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")
+        
+        4
+        
+        [Qual destes processadores vale mais a pena? Ryzen 7 7700 ou Ryzen 7 8700g](https://www.clubedohardware.com.br/forums/topic/1705116-qual-destes-processadores-vale-mais-a-pena-ryzen-7-7700-ou-ryzen-7-8700g/?do=getNewComment "Qual destes processadores vale mais a pena?  Ryzen 7 7700 ou Ryzen 7 8700g")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Willis\_silvaa](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")  
+        52 minutos atrás
+        
+    * [![Cláudio Piansky](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/s1-bp-items-carousel-stitch-operator-skin.thumb.jpg.ff2754925e3f3133d799923459d99302.jpg)](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")
         
         1
         
-        [TDA8551 Como fazê-lo funcionar com pouquíssimos componentes. Testar.](https://www.clubedohardware.com.br/forums/topic/1705074-tda8551-como-faz%C3%AA-lo-funcionar-com-pouqu%C3%ADssimos-componentes-testar/?do=getNewComment "TDA8551 Como fazê-lo funcionar com pouquíssimos componentes. Testar.")
+        [SSD M.2 não detectado](https://www.clubedohardware.com.br/forums/topic/1705115-ssd-m2-n%C3%A3o-detectado/?do=getNewComment "SSD M.2 não detectado")
         
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [GenerinoPaixao](https://www.clubedohardware.com.br/profile/1257682-generinopaixao/ "Ir ao perfil de GenerinoPaixao")  
-        3 horas atrás
+        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
+        Por [Cláudio Piansky](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")  
+        55 minutos atrás
         
-    * [![xX_K0smic_xX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%236277c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EXK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257681-xx_k0smic_xx/ "Ir ao perfil de xX_K0smic_xX")
+    * [![Obama1617](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257679.thumb.jpeg.b3d84537a6940ac0bba0bb08b0266c19.jpeg)](https://www.clubedohardware.com.br/profile/1257679-obama1617/ "Ir ao perfil de Obama1617")
         
-        2
+        6
         
-        [Não estou conseguindo instalar a memória RAM](https://www.clubedohardware.com.br/forums/topic/1705073-n%C3%A3o-estou-conseguindo-instalar-a-mem%C3%B3ria-ram/?do=getNewComment "Não estou conseguindo instalar a memória RAM")
+        [PC com Ryzen 5600g e B450mh biostar dando várias telas azuis](https://www.clubedohardware.com.br/forums/topic/1705114-pc-com-ryzen-5600g-e%C2%A0b450mh-biostar-dando-v%C3%A1rias-telas-azuis/?do=getNewComment "PC com Ryzen 5600g e B450mh biostar dando várias telas azuis")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [xX\_K0smic\_xX](https://www.clubedohardware.com.br/profile/1257681-xx_k0smic_xx/ "Ir ao perfil de xX_K0smic_xX")  
-        4 horas atrás
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [Obama1617](https://www.clubedohardware.com.br/profile/1257679-obama1617/ "Ir ao perfil de Obama1617")  
+        1 hora atrás
+        
+    * [![Danis Barsant](https://www.clubedohardware.com.br/uploads/members/monthly_2017_06/rheve-tux-ouvrier-1448.thumb.png.3fd7539452cd1e899194e708a1a14068.png)](https://www.clubedohardware.com.br/profile/893728-danis-barsant/ "Ir ao perfil de Danis Barsant")
+        
+        6
+        
+        [Alguns Sites não carregam imagens, nem carregam completo](https://www.clubedohardware.com.br/forums/topic/1705112-alguns-sites-n%C3%A3o-carregam-imagens-nem-carregam-completo/?do=getNewComment "Alguns Sites não carregam imagens, nem carregam completo")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Danis Barsant](https://www.clubedohardware.com.br/profile/893728-danis-barsant/ "Ir ao perfil de Danis Barsant")  
+        1 hora atrás
+        
+    * [![Jubrius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256273.thumb.jpeg.58fff80c5679d933f640eb2b9d5d5c29.jpeg)](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")
+        
+        14
+        
+        [A Kabum é confiável para comprar placas de vídeo?](https://www.clubedohardware.com.br/forums/topic/1705111-a-kabum-%C3%A9-confi%C3%A1vel-para-comprar-placas-de-v%C3%ADdeo/?do=getNewComment "A Kabum é confiável para comprar placas de vídeo?")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Jubrius](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")  
+        1 hora atrás
+        
+    * [![R.Monteiro](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b6c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257708-rmonteiro/ "Ir ao perfil de R.Monteiro")
+        
+        6
+        
+        [PC congela e só volta reiniciando](https://www.clubedohardware.com.br/forums/topic/1705110-pc-congela-e-s%C3%B3-volta-reiniciando/?do=getNewComment "PC congela e só volta reiniciando")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [R.Monteiro](https://www.clubedohardware.com.br/profile/1257708-rmonteiro/ "Ir ao perfil de R.Monteiro")  
+        1 hora atrás
+        
+    * [![riquegt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257707.thumb.jpeg.97cb88af6e5f50b9c1dba4b330daf710.jpeg)](https://www.clubedohardware.com.br/profile/1257707-riquegt/ "Ir ao perfil de riquegt")
+        
+        5
+        
+        [meu pc esta dando stuttering](https://www.clubedohardware.com.br/forums/topic/1705108-meu-pc-esta-dando-stuttering/?do=getNewComment "meu pc esta dando stuttering")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [riquegt](https://www.clubedohardware.com.br/profile/1257707-riquegt/ "Ir ao perfil de riquegt")  
+        2 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
