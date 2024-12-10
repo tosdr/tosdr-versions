@@ -1,12 +1,12 @@
 Shop Now
 
-25% off Everything\* Ends in..
+20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS4HRS16MINS
+3DAYS1HRS12MINS
 
-25% off Everything\* Ends in..
+20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-0DAYS4HRS16MINS
+3DAYS1HRS12MINS
 
 Shop Now
 
