@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> I just want to compliment you and your team for an amazing back office software.
+> 
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Kobus Venter
+Terri Winfield
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=18272917)  
-Druce Digital
+![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=58315302)  
+Digifax Pty) Ltd t/a Findfish
 
-![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=22316632)  
-Cooper Power Cape Town (Pty) Ltd
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=106413959)  
-Echo Recording Studio cc
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=158417346)  
-OptaServ
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=121936178)  
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=112947809)  
 Website Café (PTY) LTD
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=13383522)  
-KTEN PARTS
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=173795639)  
+Desygn
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=72444728)  
-Printo
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=143979411)  
+Testpro Laboratory (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=176638858)  
-VIV'S TRUCKS (Pty) Ltd. (117)
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=110725733)  
+LEO DEVELOPMENT GROUP
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=147891556)  
-SMART GUY PCS (PTY) LTD
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=176065736)  
+Dr V Naik Consult
 
-![valued client Stevens Consulting](https://www.invoicesonline.co.za/scripts/image.php?bid=5551&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=137821316)  
-Stevens Consulting
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=185566552)  
+Wiselink Broadband Vryheid
 
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=50267019)  
-Forgotten Goods (Pty) Ltd
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=106313076)  
+Westside Car Audio CC
 
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=149334719)  
-Brilliant Roof Products
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=49127269)  
+Depot Diesel (Pty) Ltd
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=107487813)  
-National Elite Security Services (PTY) LTD
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=188527295)  
+MONSTER SECURITY GUARDING
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=54708795)  
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=76584595)  
+Firstweb Hosting & Design
+
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=94186816)  
+FRAMED BY ANTON (Pty) Ltd.
+
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=137345589)  
 MOSELA GROUP Pty(ltd)
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=4b9d6b5579750bdd3c22227cb44157d742f672b372394a56cdd32fc2989098cc&c=87809155)  
-Tantra Sound and Lightz
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=115594003)  
+Imvubu General Trading
+
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=db35a21921418b60c6a3945b0bea490c4201cee79f4ff466dd775433d78673f2&c=16499776)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
