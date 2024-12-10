@@ -151,6 +151,10 @@ Primary Navigation
         * [Manufacturing](https://www.sba.gov/sba-learning-platform/investing-america/manufacturing)
         * [Rural and agricultural small businesses](https://www.sba.gov/sba-learning-platform/investing-america/rural-and-agricultural-small-businesses)
         * [Investing in America featured stories](https://www.sba.gov/sba-learning-platform/investing-america/investing-america-featured-stories)
+    * [Artificial Intelligence (AI) for Small Businesses](https://www.sba.gov/sba-learning-platform/ai-small-business)
+        * [Using AI for Your Small Business](https://www.sba.gov/sba-learning-platform/ai-small-business/using-ai-your-small-business)
+        * [How SBA Can Help You Develop, Innovate, and Commercialize AI](https://www.sba.gov/sba-learning-platform/ai-small-business/how-sba-can-help-you-develop-innovate-commercialize-ai)
+        * [Learn More About AI](https://www.sba.gov/sba-learning-platform/ai-small-business/learn-more-about-ai)
     
 * Local Assistance
     
