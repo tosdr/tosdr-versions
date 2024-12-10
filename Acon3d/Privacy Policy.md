@@ -303,11 +303,11 @@ Lee Min-hong, the person designated to handle personal information, takes measur
 
 1\. Lee Min-hong, the person designated to handle personal information, appoints a personal information protection officer who takes overall responsibility for the work related to \*\*\*\* personal information processing, handling complaints, and providing relief for damage to information owners related to personal information processing.
 
-\- Name of the personal information protection officer: Kim Minwoo
+\- Name of the personal information protection officer: Lee Minhong
 
 Position: Development Officer
 
-Contact: miu@acon3d.com
+Contact: minhong@acon3d.com
 
 \- Department of Personal Information Protection: Personal Information TF, Manager: Seo Jung-soo
 
@@ -322,9 +322,9 @@ The information owner may request access to his or her personal information purs
 
 \- Department of processing personal information access requests: Personal Information TF
 
-Officer: Kim Minwoo
+Officer: Lee Minhong
 
-Contact: miu@acon3d.com
+Contact: minhong@acon3d.com
 
 **Article 14 (Remedy for infringement of rights and interests)**
 ----------------------------------------------------------------
@@ -346,7 +346,7 @@ For more information about administrative appeals, please refer to the Central A
 **Article 15 (Changes to the Personal Information Handling Policy)**
 --------------------------------------------------------------------
 
-This Personal Information Handling Policy is effective from August 29, 2024.
+This Personal Information Handling Policy is effective from December 09, 2024.
 
 [User Agreement](https://www.acon3d.com/en/policy/terms-of-use)
 
