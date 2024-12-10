@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6f3cf38-b4e7-4da5-838f-7091c680479c/20241115T031529/b6f3cf38-b4e7-4da5-838f-7091c680479c_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
+    *  [![](https://media.king5.com/assets/KING/images/3dcf24fe-37dd-4c39-aacc-90fa4276da9d/20241210T072411/3dcf24fe-37dd-4c39-aacc-90fa4276da9d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/3dcf24fe-37dd-4c39-aacc-90fa4276da9d/20241210T072411/3dcf24fe-37dd-4c39-aacc-90fa4276da9d_360x203.jpg)](https://www.king5.com/article/news/local/homeowners-get-help-from-community-rebuild-christmas-light-display/281-765c7947-fb91-45a8-85e8-10d31c927231)
         
-        #### [Boeing will lay off nearly 400 more employees in Washington](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoffs-washington-state/281-57538981-8dd6-4fd1-b80b-396d94e2ea23)
+        #### [Holiday heartache turns to hope: Seattle homeowners get help from community to rebuild light display](https://www.king5.com/article/news/local/homeowners-get-help-from-community-rebuild-christmas-light-display/281-765c7947-fb91-45a8-85e8-10d31c927231)
         
-    *  [![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
+    *  [![](https://media.king5.com/assets/KING/images/a7588d8c-bd0f-4cf7-8a58-e5e9f1c47da9/20241210T071023/a7588d8c-bd0f-4cf7-8a58-e5e9f1c47da9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a7588d8c-bd0f-4cf7-8a58-e5e9f1c47da9/20241210T071023/a7588d8c-bd0f-4cf7-8a58-e5e9f1c47da9_360x203.jpg)](https://www.king5.com/article/news/local/adult-cabaret-ballard-ave-nw-bar-seeks-approval-washington-state-law-change/281-dee3d08c-be18-42da-afe9-44a442ae4cd4)
         
-        #### [Family member of homeless woman killed in bomb cyclone speaks out](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
+        #### ['Adult cabaret' on Ballard Ave. NW? Bar seeks approval after Washington state law change](https://www.king5.com/article/news/local/adult-cabaret-ballard-ave-nw-bar-seeks-approval-washington-state-law-change/281-dee3d08c-be18-42da-afe9-44a442ae4cd4)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
-        
-        #### [Family member of homeless woman killed in bomb cyclone speaks out](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
-        
     *  [![](https://media.king5.com/assets/KING/images/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e/20241210T002531/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e/20241210T002531/b6e4b1b5-649f-4eff-8319-d62b4eec4d2e_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0db7ee08-7f26-416c-a3be-ea0d0778e05b/20241210T012301/0db7ee08-7f26-416c-a3be-ea0d0778e05b_360x203.jpg)](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
+        
+        #### [Family member of homeless woman killed in bomb cyclone speaks out](https://www.king5.com/article/weather/severe-weather/family-member-homeless-mentally-ill-woman-killed-bomb-cyclone-speaks-out/281-28c4d0c6-26a8-40d5-bfa8-931f5c8df730)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -105,9 +105,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+37°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
