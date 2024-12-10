@@ -229,7 +229,7 @@ Sunday: Closed
 
 \*Lunch from 1:00 - 2:00 PM
 
-![](https://www.smiles4kids4corners.com/wp-content/uploads/2024/03/KidsperienceNoDots.png "KidsperienceNoDots")
+![](https://www.smiles4kids4corners.com/wp-content/uploads/2024/03/KidsperienceNoDots.png)
 
 Creating Healthy Habits That Last A Lifetime
 --------------------------------------------
