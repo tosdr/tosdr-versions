@@ -26,9 +26,9 @@
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Are cookies on the menu in 2025?](https://illumin.com/wp-content/uploads/2024/12/cookies-2025-263x300.jpg)
+    * ![Are you ready for retail media advertising? What you need to know in 2025](https://illumin.com/wp-content/uploads/2024/12/retail-media-guide-263x300.jpg)
         
-        Are cookies on the menu in 2025?[Read More](https://illumin.com/insights/blog/are-cookies-on-the-menu-in-2025/)
+        Are you ready for retail media advertising? What you need to know in 2025[Read More](https://illumin.com/insights/guides/retail-media-advertising-2025/)
         
 * [Company](#)
     * [Company](#)
