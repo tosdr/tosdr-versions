@@ -1,4 +1,4 @@
-[o Owl Labs Cyber Week | 20% off select Owl products until 12/9](https://owllabs.com/deals)
+[o Meet our next generation Meeting Owl 4+ >>](https://owllabs.com/products/meeting-owl-4-plus)
 
 h
 
