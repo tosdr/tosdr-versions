@@ -66,17 +66,17 @@ Image via NYPD
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [CNN panel devolves into chaos as host tries to break for commercials: ‘We got to go. Stop talking!’](https://americanwirenews.com/cnn-panel-devolves-into-chaos-as-host-tries-to-break-for-commercials-we-got-to-go-stop-talking/)
+### [Dem Rep’s ‘huge bipartisan cooperation’ with DOGE under scrutiny: ‘He’s not pledging cooperation. It’s a threat’](https://americanwirenews.com/dem-reps-huge-bipartisan-cooperation-with-doge-under-scrutiny-hes-not-pledging-cooperation-its-a-threat/)
 
-### [More bad news for MSNBC as ratings enter post-election death spiral](https://americanwirenews.com/more-bad-news-for-msnbc-as-ratings-enter-post-election-death-spiral/)
+### [Senator calls for major shakeup at DNC](https://americanwirenews.com/senator-calls-for-major-shakeup-at-dnc/)
 
-### [Defying calls to moderate, House Dems tap anti-cop firebrand for leadership spot](https://americanwirenews.com/defying-calls-to-moderate-house-dems-tap-anti-cop-firebrand-for-leadership-spot/)
+### [Alina Habba scores prime White House position as Lara Trump steps down as GOP co-chair](https://americanwirenews.com/alina-habba-scores-prime-white-house-position-as-lara-trump-steps-down-as-gop-chair/)
 
-### [Tim Walz cries over spilled milk in first interview since election walloping](https://americanwirenews.com/tim-walz-cries-over-spilled-milk-in-first-interview-since-election-walloping/)
+### [Jay-Z’s blistering response to allegations he raped a 13-year-old girl with ‘Diddy’](https://americanwirenews.com/jay-zs-blistering-response-to-allegations-he-raped-a-13-year-old-girl-with-diddy/)
 
-### [‘Literally got a poll backwards’: KJP gets lit up over claim 64% of Americans support Hunter pardon](https://americanwirenews.com/literally-got-a-poll-backwards-kjp-gets-lit-up-over-claim-64-of-americans-support-hunter-pardon/)
+### [Trump rips outgoing FBI director Wray: ‘He invaded my home’](https://americanwirenews.com/trump-rips-outgoing-fbi-director-wray-he-invaded-my-home/)
 
-### [AOC roasted over bid for ranking member of House committee: ‘Way above her competency level’](https://americanwirenews.com/aoc-roasted-over-bid-for-ranking-member-of-house-committee-way-above-her-competency-level/)
+### [Matt Gaetz’s wife teases ‘big news coming next week’](https://americanwirenews.com/matt-gaetzs-wife-teases-big-news-coming-next-week/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
@@ -186,21 +186,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [Trending on BPR](https://www.bizpacreview.com/)
 
+[![‘Praise God!’ Reactions pour in as Daniel Penny found ‘NOT GUILTY’ in subway chokehold death](https://www.bizpacreview.com/wp-content/uploads/2024/12/sg-daniel-penny-1024x536-1.jpg)](https://www.bizpacreview.com/2024/12/09/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death-1508404/)
+
+[‘Praise God!’ Reactions pour in as Daniel Penny found ‘NOT GUILTY’ in subway chokehold death](https://www.bizpacreview.com/2024/12/09/praise-god-reactions-pour-in-as-daniel-penny-found-not-guilty-in-subway-chokehold-death-1508404/)
+
+[![‘Participation trophy’: TIME has Kamala Harris at top of list for 2024 ‘Person of the Year’](https://www.bizpacreview.com/wp-content/uploads/2024/12/sg-harris-1024x536-1.jpg)](https://www.bizpacreview.com/2024/12/09/participation-trophy-time-has-kamala-harris-at-top-of-list-for-2024-person-of-the-year-1508375/)
+
+[‘Participation trophy’: TIME has Kamala Harris at top of list for 2024 ‘Person of the Year’](https://www.bizpacreview.com/2024/12/09/participation-trophy-time-has-kamala-harris-at-top-of-list-for-2024-person-of-the-year-1508375/)
+
+[![Marjorie Taylor Greene reacts to Jay-Z allegations, calls for death penalties for pedophiles](https://www.bizpacreview.com/wp-content/uploads/2024/12/sg-greene.jpg)](https://www.bizpacreview.com/2024/12/09/marjorie-taylor-greene-reacts-to-jay-z-allegations-calls-for-death-penalties-for-pedophiles-1508372/)
+
+[Marjorie Taylor Greene reacts to Jay-Z allegations, calls for death penalties for pedophiles](https://www.bizpacreview.com/2024/12/09/marjorie-taylor-greene-reacts-to-jay-z-allegations-calls-for-death-penalties-for-pedophiles-1508372/)
+
 [![MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-capehart-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
 
 [MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://www.bizpacreview.com/2024/11/11/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward-1501946/)
-
-[![Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-ana-navarro-1200x630-1.png)](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
-
-[Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://www.bizpacreview.com/2024/11/11/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump-1501931/)
-
-[![Sotomayor balks at Dems trying to force her to retire – Bernie backs her play](https://www.bizpacreview.com/wp-content/uploads/2024/04/sg-sotomayor-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/sotomayor-balks-at-dems-trying-to-force-her-to-retire-bernie-backs-her-play-1501881/)
-
-[Sotomayor balks at Dems trying to force her to retire – Bernie backs her play](https://www.bizpacreview.com/2024/11/11/sotomayor-balks-at-dems-trying-to-force-her-to-retire-bernie-backs-her-play-1501881/)
-
-[![‘Skip Forward’ cruise features FOUR year excursion to escape Trump presidency](https://www.bizpacreview.com/wp-content/uploads/2024/11/sg-villa-vie-ship-1200x630-1.jpg)](https://www.bizpacreview.com/2024/11/11/skip-forward-cruise-features-four-year-excursion-to-escape-trump-presidency-1501884/)
-
-[‘Skip Forward’ cruise features FOUR year excursion to escape Trump presidency](https://www.bizpacreview.com/2024/11/11/skip-forward-cruise-features-four-year-excursion-to-escape-trump-presidency-1501884/)
 
 ### [COLUMNISTS](https://www.commdiginews.com/columnists/)
 
@@ -264,9 +264,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tomhomanfox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/homan-has-clear-message-for-blue-city-mayors/)
 
-[‘Fair is fair’: DNC official stands up for Pete Hegseth, says he’s ‘a pretty good guy’](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
+[Homan has ‘clear message’ for blue city mayors](https://americanwirenews.com/homan-has-clear-message-for-blue-city-mayors/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-tomhomanfox-1200-x-628-220x180.jpg)](https://americanwirenews.com/homan-has-clear-message-for-blue-city-mayors/)
+
+[Homan has ‘clear message’ for blue city mayors](https://americanwirenews.com/homan-has-clear-message-for-blue-city-mayors/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-lindyli-1200-x-628-220x180.jpg)](https://americanwirenews.com/fair-is-fair-dnc-official-stands-up-for-pete-hegseth-says-hes-a-pretty-good-guy/)
 
@@ -285,10 +289,6 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-carvillej-1200-x-628-220x180.jpg)](https://americanwirenews.com/carville-insists-dems-would-have-won-if-only-tragic-biden-had-quit-sooner/)
 
 [Carville insists Dems would have won if only ‘tragic’ Biden had quit sooner](https://americanwirenews.com/carville-insists-dems-would-have-won-if-only-tragic-biden-had-quit-sooner/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-clyburnjcnn-1200-x-628-220x180.jpg)](https://americanwirenews.com/clyburn-suggests-trumps-election-could-lead-to-new-jim-crow-era-theres-a-danger/)
-
-[Clyburn suggests Trump’s election could lead to new Jim Crow era: ‘There’s a danger’](https://americanwirenews.com/clyburn-suggests-trumps-election-could-lead-to-new-jim-crow-era-theres-a-danger/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -318,9 +318,13 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-1200x630.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumppa-1200-x-628-1200x630.jpg)](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
 
-[Golf icon Phil Mickelson tees off in support of ‘hero’ Daniel Penny](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
+[Trump engages in next-level trolling of a smiling Jill Biden to plug his ‘Fight, Fight, Fight’ fragrance](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trumppa-1200-x-628-220x180.jpg)](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
+
+[Trump engages in next-level trolling of a smiling Jill Biden to plug his ‘Fight, Fight, Fight’ fragrance](https://americanwirenews.com/trump-engages-in-next-level-trolling-of-a-smiling-jill-biden-to-plug-his-fight-fight-fight-fragrance/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-mickelson-penny-220x180.jpg)](https://americanwirenews.com/golf-icon-phil-mickelson-tees-off-in-support-of-hero-daniel-penny/)
 
@@ -339,9 +343,5 @@ Images via NYPD](https://americanwirenews.com/authorities-find-bag-believed-to-b
 [![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-daniel-penny-220x180.jpg)](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
 
 [Jury in Daniel Penny case reportedly deadlocked. Here’s what happens next…](https://americanwirenews.com/jury-in-daniel-penny-case-reportedly-deadlocked-heres-what-happens-next/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/12/sg-dennis-winn-220x180.png)](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
-
-[Florida man hailed a ‘legend’ after shooting Walmart drone out of the sky](https://americanwirenews.com/florida-man-hailed-a-legend-after-shooting-walmart-drone-out-of-the-sky/)
 
 © 2024. All Rights Reserved. American Wire News
