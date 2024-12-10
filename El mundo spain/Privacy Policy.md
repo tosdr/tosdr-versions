@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1dIFgoAAcIAAABa8DM)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Fprivacidad%2Ehtml&s=elmundo&d=Z1ecKQoAAcIAAABasiY)
 
 Es noticia
 
@@ -6,7 +6,7 @@ Es noticia
 * [Últimas noticias](https://www.elmundo.es/ultimas-noticias.html)
 * [Cuestión de confianza](https://www.elmundo.es/cataluna/2024/12/09/6756cbb0fdddff9cb48b457e.html)
 * [Urtasun Notre Dame](https://www.elmundo.es/espana/2024/12/09/6756edb4e4d4d8ff528b457b.html)
-* [Gan Pampols](https://www.elmundo.es/comunidad-valenciana/2024/12/09/6756de3e21efa058048b4579.html)
+* [Paul McCartney](https://www.elmundo.es/cultura/musica/2024/12/09/67577441e4d4d8ff7c8b4593.html)
 * [Lalachus](https://www.elmundo.es/television/2024/12/09/67570b2ae9cf4a19718b4583.html)
 * [Luigi Mangione](https://www.elmundo.es/economia/2024/12/09/6757206321efa0a4158b458d.html)
 * [Ana Peleteiro](https://www.elmundo.es/loc/famosos/2024/12/09/6756edece4d4d874688b4583.html)
