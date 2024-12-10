@@ -79,9 +79,9 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled Shot of the Raspberry Pi 500 Desktop - Computer Only.](https://cdn-shop.adafruit.com/230x173/6111-02.jpg)[Raspberry Pi 500 Desktop - Computer Only
+    ![Angled Shot of the Adafruit AHT20 Temp+Hum Sensor - Assembled PCB](https://cdn-shop.adafruit.com/230x173/4566-04.jpg)[Adafruit AHT20 - Temperature & Humidity Sensor Breakout Board
     
-    $90.00](https://www.adafruit.com/product/6111)
+    $4.50](https://www.adafruit.com/product/4566)
     
     ![Demo Shot of the USB Micro B Small Round Panel Mount Extension USB Cable.](https://cdn-shop.adafruit.com/230x173/6068-04.jpg)[USB Micro B Small Round Panel Mount Extension USB Cable
     
@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Plans are worthless, but planning is everything”
+“ The most valuable thing you can make is a mistake - you can't learn anything from being perfect”
 
-[Dwight D. Eisenhower](https://en.wikipedia.org/wiki/Dwight_D._Eisenhower)
+[Adam Osborne](https://en.wikipedia.org/wiki/Adam_Osborne)
 
 [](https://www.adafruit.com/about)
 
