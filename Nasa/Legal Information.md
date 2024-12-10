@@ -269,7 +269,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-spots-a-spir
 
 ### 2024 Be An Astronaut Campaign
 
-article 2 hours ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
+article 4 hours ago](https://www.nasa.gov/humans-in-space/becoming-an-astronaut/2024-be-an-astronaut-campaign/)[![NASA astronaut and Expedition 72 Flight Engineer Matthew Dominick points his camera out a window on the cupola as the International Space Station orbited 262 miles above the Atlantic Ocean off the coast of Africa.](https://images-assets.nasa.gov/image/iss072e035863/iss072e035863~large.jpg?w=1920&h=1280&fit=clip&crop=faces%2Cfocalpoint)
 
 3 min read
 
@@ -313,13 +313,13 @@ article 5 days ago](https://science.nasa.gov/science-research/ai-geospatial-mode
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article 46 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![Members of NASA’s VERITAS science team](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia25835.jpg?w=1024)
+article 3 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![Members of NASA’s VERITAS science team](https://www.nasa.gov/wp-content/uploads/2024/12/1-pia25835.jpg?w=1024)
 
 3 min read
 
 ### Leader of NASA’s VERITAS Mission Honored With AGU’s Whipple Award
 
-article 48 mins ago](https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/)[![Towards Autonomous Surface Missions on Ocean Worlds](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Figure1_EuropaSurfaceImage.jpg)
+article 3 hours ago](https://www.nasa.gov/missions/veritas/leader-of-nasas-veritas-mission-honored-with-agus-whipple-award/)[![Towards Autonomous Surface Missions on Ocean Worlds](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/Figure1_EuropaSurfaceImage.jpg)
 
 9 min read
 
@@ -351,25 +351,25 @@ article 2 weeks ago](https://science.nasa.gov/universe/exoplanets/discovery-aler
 
 ### Highlights
 
-[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
+[![OSDR Project Manager, Samrawit Gebre, giving a presentation at the Inaugural SOMA Summit](https://www.nasa.gov/wp-content/uploads/2024/12/sam-at-soma-2024.jpg?w=1016)
+
+2 min read
+
+### OSDR at SOMA 2024
+
+article 1 hour ago](https://www.nasa.gov/osdr-at-soma-2024/)[![NASA’s Hubble Celebrates Decade of Tracking Outer Planets](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/solar-system/collage/Hubble_OPAL10_Cover_STScI-01JE3XMES9TH3WPDCG1BTTRRPN.jpg)
 
 8 min read
 
 ### NASA’s Hubble Celebrates Decade of Tracking Outer Planets
 
-article 46 mins ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/1-leshin-med.jpg?w=1024)
+article 3 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-celebrates-decade-of-tracking-outer-planets/)[![](https://www.nasa.gov/wp-content/uploads/2024/12/1-leshin-med.jpg?w=1024)
 
 5 min read
 
 ### NASA JPL Unveils the Dr. Edward Stone Exploration Trail
 
-article 3 days ago](https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/)[![Amendment 81: D.17 XRISM General Observer Deferred to ROSES-25](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/417/XRISM.jpeg)
-
-1 min read
-
-### Amendment 81: D.17 XRISM General Observer Deferred to ROSES-25
-
-article 3 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-81-d-17-xrism-general-observer-deferred-to-roses-25/)
+article 3 days ago](https://www.nasa.gov/missions/voyager-program/nasa-jpl-unveils-the-dr-edward-stone-exploration-trail/)
 
 ### Highlights
 
