@@ -444,7 +444,7 @@ Ditt samtykke.
 
 ### Chat med kundesenter
 
-Når du chatter med kundesenter på nettsiden eller i portalen vår, behandler Vipps følgende opplysninger, for å sikre god oppfølging:
+Når du chatter med kundesenter på nettsiden eller i portalen vår med en kunderådgiver eller vår chatbot, behandler Vipps følgende opplysninger, for å sikre god oppfølging:
 
 * navn og telefonnummer
 * innhold i chat
@@ -538,7 +538,7 @@ Vår berettiget interesse.
 
 Vipps bruker flere leverandører som behandler personopplysninger på våre vegne (databehandlere). I slike situasjoner inngår Vipps en databehandleravtale med leverandøren for å sikre at behandlingen gjennomføres i samsvar med personopplysningsloven. Relevante databehandlere vi bruker er:
 
-* Skytjenesteleverandører (Microsoft Azure, Salesforce, Splunk, Mixpanel, Slack, Signant, Puzzel, Link Mobility, Twilio Sendgrid, Strise, Jobylon)
+* Skytjenesteleverandører (Microsoft Azure, Salesforce, Splunk, Mixpanel, Slack, Signant, Puzzel, Link Mobility, Twilio Sendgrid, Strise, Jobylon, Boost AI)
 * Programvareleverandører (Microsoft 365)
 * Tjenesteleverandører (Nets, TietoEvry, DNB, Adyen)
 * Konsulentselskaper
@@ -636,7 +636,7 @@ Endringer i erklæringen
 
 Vipps jobber kontinuerlig med å forbedre og utvikle våre tjenester. Vi endrer informasjon i denne personvernerklæringen**, enkelte kan omtale det som en personvernpolicy,** ved eventuelle endringer i lov, tjenester vi tilbyr eller i vår egen praksis for behandling av personopplysninger. Dersom Vipps gjør større endringer som kan påvirke ditt personvern eller dine rettigheter vil du bli varslet i appen eller per e-post.
 
-**Versjon 1.22. Oppdatert 06.12.2024**
+**Versjon 1.23. Oppdatert 10.12.2024**
 
 ![Vipps Confirm.png](/media/images/Vipps_Confirm_0zzbAiz.max-400x500.png)
 
