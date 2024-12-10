@@ -20,6 +20,7 @@ View all results for ${ keyword }
 * [Manga](#)
     * [Manga Search](https://myanimelist.net/manga.php?_location=mal_h_m)
     * [Top Manga](https://myanimelist.net/topmanga.php?_location=mal_h_m)
+    * [Adapted to Anime](https://myanimelist.net/manga/adapted?_location=mal_h_m)
     * [Manga Store](https://myanimelist.net/store?_location=mal_h_m)
     * [Reviews](https://myanimelist.net/reviews.php?t=manga&_location=mal_h_m)
     * [Recommendations](https://myanimelist.net/recommendations.php?s=recentrecs&t=manga&_location=mal_h_m)
