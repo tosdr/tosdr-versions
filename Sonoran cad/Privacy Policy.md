@@ -182,6 +182,8 @@ SearchCtrl + K
                 
                 * [Submodule Troubleshooting](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/submodule-configuration/plugin-troubleshooting)
                     
+                * [Submodule Configuration Updates](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/submodule-configuration/submodule-configuration-updates)
+                    
                 
             * [FiveM Submodules](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins)
                 
