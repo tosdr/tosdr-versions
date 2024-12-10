@@ -435,7 +435,7 @@ If you’d like to know whether this Privacy Statement applies to you and your r
 
 [Download/print a copy of this Privacy Statement](https://www.workday.com/content/dam/web/en-us/documents/legal/workday-privacy-statement.pdf)
 
-**August 2024 Changes to This Privacy Statement**
+**October 2024 Changes to This Privacy Statement**
 
 We clarified language throughout and added detail about sharing of personal information with Workday partners.
 
