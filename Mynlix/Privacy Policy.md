@@ -188,7 +188,7 @@
     
     * * *
     
-    * [Certifications](https://www.nl-ix.net/about/certifications/)
+    * [ISO and NIS2](https://www.nl-ix.net/about/certifications/)
     
     * * *
     
@@ -374,7 +374,7 @@
     
     * * *
     
-    * [Certifications](https://www.nl-ix.net/about/certifications/)
+    * [ISO and NIS2](https://www.nl-ix.net/about/certifications/)
     
     * * *
     
