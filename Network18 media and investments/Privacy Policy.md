@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
     * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-    * [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
-    * [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-looks-stunning-in-a-white-and-red-khadi-saree-for-her-second-bridal-look-9149925.html)
-    * [Delayed Train](https://www.news18.com/india/3-years-8-months-and-7-days-instead-of-42-hours-this-is-indias-most-delayed-train-yet-ws-ab-9149902.html)
-    * [YesMadam](https://www.news18.com/viral/yesmadam-faces-employee-flak-over-mass-layoff-fired-us-after-mental-health-survey-9150070.html)
+    * [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-celeb-sreeleela-inspired-red-ethnic-looks-for-wedding-season-2671842/)
+    * [BEST Bus Accident](https://www.news18.com/india/several-injured-in-mumbais-kurla-after-best-bus-crashes-into-vehicles-9150682.html)
     * [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
+    * [Bollywood Brides](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Kareena Kapoor](https://www.news18.com/movies/kareena-kapoor-says-aamir-khan-was-shattered-after-laal-singh-chaddha-flopped-tu-baat-karegi-mujhse-9150768.html)
 * [Rekha](https://www.news18.com/movies/rekha-makes-rare-comment-about-working-with-amitabh-bachchan-when-he-stood-in-front-of-me-9148965.html)
-* [Bollywood Bridal Look](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
-* [Sobhita Dhulipala](https://www.news18.com/lifestyle/sobhita-dhulipala-looks-stunning-in-a-white-and-red-khadi-saree-for-her-second-bridal-look-9149925.html)
-* [Delayed Train](https://www.news18.com/india/3-years-8-months-and-7-days-instead-of-42-hours-this-is-indias-most-delayed-train-yet-ws-ab-9149902.html)
-* [YesMadam](https://www.news18.com/viral/yesmadam-faces-employee-flak-over-mass-layoff-fired-us-after-mental-health-survey-9150070.html)
+* [Sreeleela](https://www.news18.com/web-stories/celebrities/5-south-celeb-sreeleela-inspired-red-ethnic-looks-for-wedding-season-2671842/)
+* [BEST Bus Accident](https://www.news18.com/india/several-injured-in-mumbais-kurla-after-best-bus-crashes-into-vehicles-9150682.html)
 * [Christmas Dishes](https://www.news18.com/web-stories/lifestyle/7-indian-dishes-cooked-for-christmas-2673898/)
+* [Bollywood Brides](https://www.news18.com/web-stories/entertainment/aditi-rao-hydari-to-katrina-kaif-5-bollywood-sabyasachi-bride-inspired-red-lehengas-for-wedding-season-2671255/)
 * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
 
 * Follow Us
