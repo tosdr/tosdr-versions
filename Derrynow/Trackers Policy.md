@@ -268,13 +268,6 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Road remains closed following death of pedestrian](https://www.derrynow.com/news/national-news/1676075/road-remains-closed-following-death-of-pedestrian.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday December 9, 2024](https://www.derrynow.com/news/deaths/1674947/derry-death-notices-monday-december-9-2024.html)
----------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Noel Sharkey celebrates his 90th birthday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Noel Sharkey celebrates his 90th birthday")](https://www.derrynow.com/story-telling/pictures---videos/1673518/in-pictures-noel-sharkey-celebrates-his-90th-birthday.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -312,6 +305,13 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Drug dealer charged with bail breach at Derry Court](https://www.derrynow.com/news/local-news/1676279/drug-dealer-charged-with-bail-breach-at-derry-court.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Suspended sentence for Derry man who wanted to drive police car](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man who wanted to drive police car")](https://www.derrynow.com/news/local-news/1676278/suspended-sentence-for-derry-man-who-wanted-to-drive-police-car.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -319,12 +319,12 @@ Gardaí are appealing for any witnesses to this collision to come forward.
 [Suspended sentence for Derry man who wanted to drive police car](https://www.derrynow.com/news/local-news/1676278/suspended-sentence-for-derry-man-who-wanted-to-drive-police-car.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man (56) admits disorderly behavior charge and assault on police in Derry city centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man (56) admits disorderly behavior charge and assault on police in Derry city centre")](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
+[![IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch")](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[IN PICTURES: 50th anniversary commemoration for Oglach John McDaid and Oglach Ethel Lynch](https://www.derrynow.com/story-telling/pictures---videos/1676466/in-pictures-50th-anniversary-commemoration-for-oglach-john-mcdaid-and-oglach-ethel-lynch.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man spat at police trying to assist him](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man spat at police trying to assist him")](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
 
@@ -513,6 +513,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, December 10, 2024](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![NW RegTech ambitions top of the agenda during City of London visit to Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NW RegTech ambitions top of the agenda during City of London visit to Derry")](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -520,7 +527,7 @@ Advertise with Us
 [NW RegTech ambitions top of the agenda during City of London visit to Derry](https://www.derrynow.com/news/local-news/1676611/nw-regtech-ambitions-top-of-the-agenda-during-city-of-london-visit-to-derry.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![County Derry business wins ‘Social Enterprise of the Year’ award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry business wins ‘Social Enterprise of the Year’ award")](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
+[![County Derry business wins ‘Social Enterprise of the Year’ award](https://www.derrynow.com/resizer/165/93/true/2024_12_09/UK_Social_Enterprise_of_the_Year_-_Workspace_Group-1733754866598.jpg--.jpg?1733754869161 "County Derry business wins ‘Social Enterprise of the Year’ award")](https://www.derrynow.com/news/local-news/1676437/county-derry-business-wins-social-enterprise-of-the-year-award.html)
 
 The Workspace Group, a social enterprise based in Draperstown has been named ‘Social Enterprise of the Year’ at the UK Social Enterprise Awards.
 
@@ -549,13 +556,6 @@ The Workspace Group, a social enterprise based in Draperstown has been named ‘
 
 [Man (56) admits disorderly behavior charge and assault on police in Derry city centre](https://www.derrynow.com/news/local-news/1676291/man-56-admits-disorderly-behavior-charge-and-assault-on-police-in-derry-city-centre.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man spat at police trying to assist him](https://www.derrynow.com/resizer/165/93/true/2017/07/14154134/husband-and-wife-charged-at-derry-magistrates-court-with-drugs-and-money-laundering-offences-following-organised-crime-investigation-by-the-psni.jpg--.jpg "Derry man spat at police trying to assist him")](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man spat at police trying to assist him](https://www.derrynow.com/news/local-news/1676286/derry-man-spat-at-police-trying-to-assist-him.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
