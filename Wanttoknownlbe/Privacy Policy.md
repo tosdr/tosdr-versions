@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/valse-vlag-operaties/7-oktober-sloeg-gaza-terug-of-een-valse-vlag/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/david-icke-fenomeen-trend-setter-frontrunner/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
