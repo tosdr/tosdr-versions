@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
+ [![Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/luigi.jpg?ve=1&tl=1)
 
- ![UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
+ ![Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/luigi.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangiones-travel-brian-thompson)
 
-### [UnitedHealthcare CEO killing: Luigi Mangione charged with murder](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
+### [Authorities seek tips on Luigi Mangione's travels in UnitedHealthcare CEO murder case](https://www.fox4news.com/news/luigi-mangiones-travel-brian-thompson)
 
- [![Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/luigimangione.jpg?ve=1&tl=1)
+ [![FDA red food dye ban: When it could happen, and what to know](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/gettyimages-1238593737-copy-scaled.jpg?ve=1&tl=1)
 
- ![Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/luigimangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
+ ![FDA red food dye ban: When it could happen, and what to know](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/12/32/18/592/333/gettyimages-1238593737-copy-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fda-red-food-dye-ban-what-to-know-petition-review)
 
-### [Who is Luigi Mangione? Suspect in CEO killing investigation from prominent family](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
+### [FDA red food dye ban: When it could happen, and what to know](https://www.fox4news.com/news/fda-red-food-dye-ban-what-to-know-petition-review)
 
- [![Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1)
+ [![NTSB: 2022 Dallas air show crash caused by lack of planning](https://images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/5CC/9DD/32/18/5CC9DD0EBE517D16768985DEC4BCC51E.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=rJwvDZJ1YdnZ1jyjlbt4ZVLyp78&ve=1&tl=1)
 
- ![Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+ ![NTSB: 2022 Dallas air show crash caused by lack of planning](https://images.foxtv.com/images.foxtv.com/m107833-mcdn.mp.lura.live/iupl/5CC/9DD/32/18/592/333/5CC9DD0EBE517D16768985DEC4BCC51E.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=rJwvDZJ1YdnZ1jyjlbt4ZVLyp78&ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/ntsb-2022-dallas-air-show-crash-caused-lack-planning)
 
-### [Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+### [NTSB: 2022 Dallas air show crash caused by lack of planning](https://www.fox4news.com/news/ntsb-2022-dallas-air-show-crash-caused-lack-planning)
 
- [![Lewisville ISD votes to close 5 elementary schools](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.01.27.14.jpg?ve=1&tl=1)
+ [![Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/dak-baby-1.png?ve=1&tl=1)
 
- ![Lewisville ISD votes to close 5 elementary schools](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.01.27.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-isd-make-decision-closing-5-elementary-schools)
+ ![Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/dak-baby-1.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dak-prescott-fiancee-jarah-jane-ramos-second-baby)
 
-### [Lewisville ISD votes to close 5 elementary schools](https://www.fox4news.com/news/lewisville-isd-make-decision-closing-5-elementary-schools)
+### [Dak Prescott and fiancée Sarah Jane Ramos expecting second baby girl](https://www.fox4news.com/news/dak-prescott-fiancee-jarah-jane-ramos-second-baby)
 
- [![McLaren split in half by tree in Dallas crash that kills 2](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/abrams-crash.png?ve=1&tl=1)
+ [![Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/thumbnail_image-4.jpg?ve=1&tl=1)
 
- ![McLaren split in half by tree in Dallas crash that kills 2](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/abrams-crash.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
+ ![Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2024/12/32/18/592/333/thumbnail_image-4.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/united-healthcare-ceo-murder-maryland-neighbors-react)
 
-### [McLaren split in half by tree in Dallas crash that kills 2](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
+### [Maryland family of UnitedHealthcare CEO murder suspect 'shocked' by arrest](https://www.fox4news.com/news/united-healthcare-ceo-murder-maryland-neighbors-react)
 
 ###### [News](https://www.fox4news.com/news)
 
