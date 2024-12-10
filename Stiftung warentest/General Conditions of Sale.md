@@ -664,12 +664,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Smartphones: Texte scannen mit dem Handy – so gehts](https://www.test.de/Smartphones-Texte-scannen-mit-dem-Handy-so-gehts-6178154-0/ "Smartphones - Texte scannen mit dem Handy – so gehts")
 
 Weitere Informationen
 
@@ -3082,12 +3082,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Smartphones: Texte scannen mit dem Handy – so gehts](https://www.test.de/Smartphones-Texte-scannen-mit-dem-Handy-so-gehts-6178154-0/ "Smartphones - Texte scannen mit dem Handy – so gehts")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -3138,12 +3138,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Smartphones: Texte scannen mit dem Handy – so gehts](https://www.test.de/Smartphones-Texte-scannen-mit-dem-Handy-so-gehts-6178154-0/ "Smartphones - Texte scannen mit dem Handy – so gehts")
 
 Neueste Tests
 
@@ -3156,12 +3156,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wunder­sames aus dem Prüf­labor: Sonnen­bank](https://www.test.de/Wundersames-aus-dem-Prueflabor-Sonnenbank-6161420-0/ "Wundersames aus dem Prüflabor - Sonnenbank")
-* [UDI-Gruppe: Insolvenz­verwalter hat Pflichten verletzt](https://www.test.de/UDI-Gruppe-Insolvenzverwalter-hat-Pflichten-verletzt-6092746-0/ "UDI-Gruppe - Insolvenzverwalter hat Pflichten verletzt")
-* [Kamin und Pellet­ofen: Was Sie beim Schorn­stein beachten müssen](https://www.test.de/Kaminofen-und-Pelletofen-Was-Sie-beim-Schornstein-beachten-muessen-5953630-0/ "Kamin und Pelletofen - Was Sie beim Schornstein beachten müssen")
-* [Europäisches Bezahl­system: Wero will mit Paypal & Co konkurrieren](https://www.test.de/Europaeisches-Bezahlsystem-Wero-will-mit-Paypal-Co-konkurrieren-6133006-0/ "Europäisches Bezahlsystem - Wero will mit Paypal & Co konkurrieren")
-* [Bisphenol A aus der Leitung: Kritische Funde im Warm­wasser](https://www.test.de/Bisphenol-A-aus-der-Leitung-Kritische-Funde-im-Warmwasser-6043958-0/ "Bisphenol A aus der Leitung - Kritische Funde im Warmwasser")
-* [Bart­trimmer im Test: Diese Trimmer stylen Bärte gut](https://www.test.de/Barttrimmer-im-Test-Diese-Trimmer-stylen-Baerte-gut-6053074-0/ "Barttrimmer im Test - Diese Trimmer stylen Bärte gut")
+* [E-Growing: Dubiose Deals bei MyFirst­Plant](https://www.test.de/E-Growing-Dubiose-Deals-bei-MyFirstPlant-5998514-0/ "E-Growing - Dubiose Deals bei MyFirstPlant")
+* [Lebens­mittel­preise im Check: Große Preis­unterschiede, riesiges Spar­potential](https://www.test.de/Lebensmittelpreise-im-Check-Sparpotenzial-bis-zu-400-Prozent-6000916-0/ "Lebensmittelpreise im Check - Große Preisunterschiede, riesiges Sparpotential")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Crowdfunding-Platt­form Berg­fürst: Chef zuerst, Crowd danach](https://www.test.de/Crowdfunding-Plattform-Bergfuerst-Chef-zuerst-Crowd-danach-6083104-0/ "Crowdfunding-Plattform Bergfürst - Chef zuerst, Crowd danach")
+* [Smartphones: Texte scannen mit dem Handy – so gehts](https://www.test.de/Smartphones-Texte-scannen-mit-dem-Handy-so-gehts-6178154-0/ "Smartphones - Texte scannen mit dem Handy – so gehts")
 
 Stiftung Warentest
 
