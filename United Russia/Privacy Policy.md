@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» расширит перечень лиц, которые смогут оформить статус ветерана боевых действий](https://cdn.er.ru/media/news/December2024/yXCc6Ct0w1dniK4MyAxj-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-rasshirit-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
+
+[«Единая Россия» расширит перечень лиц, которые смогут оформить статус ветерана боевых действий](https://er.ru/activity/news/edinaya-rossiya-rasshirit-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
+
+[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроекты](https://er.ru/activity/news?tags%5B0%5D=863) [#Вяткин](https://er.ru/activity/news?tags%5B0%5D=1653) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584)
+
+Сегодня 12:03
+
+[![«Единая Россия» провела более 1500 мероприятий по всей стране ко Дню Героев Отечества](https://cdn.er.ru/media/news/December2024/ajJZbnM1mmKPXJV9pXcq-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provela-bolee-1500-meropriyatij-po-vsej-strane-ko-dnyu-geroev-otechestva)
+
+[«Единая Россия» провела более 1500 мероприятий по всей стране ко Дню Героев Отечества](https://er.ru/activity/news/edinaya-rossiya-provela-bolee-1500-meropriyatij-po-vsej-strane-ko-dnyu-geroev-otechestva)
+
+[#Хинштейн](https://er.ru/activity/news?tags%5B0%5D=897) [#празднование](https://er.ru/activity/news?tags%5B0%5D=121788) [#ДеньГероевОтечества](https://er.ru/activity/news?tags%5B0%5D=113500)
+
+Сегодня 09:00
+
 [![«Молодая Гвардия Единой России» наградила более 50 детей из 23 регионов РФ медалями «Юный Герой»](https://cdn.er.ru/media/news/December2024/Hzne5oBbvKuOqZ4WDZaY-small.jpg)](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-nagradila-bolee-50-detej-iz-23-regionov-rf-medalyami-yunyj-geroj)
 
 [«Молодая Гвардия Единой России» наградила более 50 детей из 23 регионов РФ медалями «Юный Герой»](https://er.ru/activity/news/molodaya-gvardiya-edinoj-rossii-nagradila-bolee-50-detej-iz-23-regionov-rf-medalyami-yunyj-geroj)
@@ -328,22 +344,6 @@
 [По инициативе «Единой России» в обращение вышли ещё 10 почтовых марок, посвящённых Героям РФ - участникам спецоперации](https://er.ru/activity/news/po-iniciative-edinoj-rossii-v-obrashenie-vyshli-eshyo-10-pochtovyh-marok-posvyashyonnyh-geroyam-rf-uchastnikam-specoperacii)
 
 [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#марки](https://er.ru/activity/news?tags%5B0%5D=19673) [#гашение](https://er.ru/activity/news?tags%5B0%5D=19650) [#МузейПобеды](https://er.ru/activity/news?tags%5B0%5D=1091109) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#Герои](https://er.ru/activity/news?tags%5B0%5D=8543)
-
-09.12.24
-
-[![На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://cdn.er.ru/media/news/December2024/Z4IxZV4ksuoF0cb3lANO-small.jpg)](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov77)
-
-[На выборах в прошедшее воскресенье кандидаты от «Единой России» получили 88% мандатов](https://er.ru/activity/news/na-vyborah-v-proshedshee-voskresene-kandidaty-ot-edinoj-rossii-poluchili-88-mandatov77)
-
-[#Республика Карелия](https://er.ru/activity/news?tags%5B0%5D=1090918) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#Республика Калмыкия](https://er.ru/activity/news?tags%5B0%5D=4205) [#Республика Саха (Якутия)](https://er.ru/activity/news?tags%5B0%5D=6911) [#Рязанская область](https://er.ru/activity/news?tags%5B0%5D=3400) [#Выборы ОМСУ](https://er.ru/activity/news?tags%5B0%5D=9863)
-
-09.12.24
-
-[![«Единая Россия» отправила подарки к Новому году для детей в Белгородской и Харьковской областях](https://cdn.er.ru/media/news/December2024/XCvCdSS6Uk4nDrApNHrB-small.png)](https://er.ru/activity/news/edinaya-rossiya-otpravila-podarki-k-novomu-godu-dlya-detej-v-belgorodskoj-i-harkovskoj-oblastyah)
-
-[«Единая Россия» отправила подарки к Новому году для детей в Белгородской и Харьковской областях](https://er.ru/activity/news/edinaya-rossiya-otpravila-podarki-k-novomu-godu-dlya-detej-v-belgorodskoj-i-harkovskoj-oblastyah)
-
-[#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Новыйгод](https://er.ru/activity/news?tags%5B0%5D=126639) [#дети](https://er.ru/activity/news?tags%5B0%5D=368) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#Белгородская область](https://er.ru/activity/news?tags%5B0%5D=2474)
 
 09.12.24
 
