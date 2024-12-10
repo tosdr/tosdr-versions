@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/art-hudy-feature.jpg)
+
+[](https://theinspirationgrid.com/intriguing-resin-sculptures-by-hudy/)
+
+### Intriguing Resin Sculptures by Hudy
+
+![](https://inspgr.id/app/uploads/2024/12/photo-poirier-24-feature.jpg)
+
+[](https://theinspirationgrid.com/the-goetheanum-photos-by-thibaud-poirier/)
+
+### The Goetheanum: Photos by Thibaud Poirier
+
 ![](https://inspgr.id/app/uploads/2024/12/art-michael-blessing-feature.jpg)
 
 [](https://theinspirationgrid.com/neon-west-electric-paintings-by-michael-blessing/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/stanleys-invest-branding-by-ritter-studio/)
 
 ### Stanley’s Invest Branding by Ritter Studio
-
-![](https://inspgr.id/app/uploads/2024/12/illustration-cam-giang-feature.jpg)
-
-[](https://theinspirationgrid.com/lovely-illustrations-by-cam-giang/)
-
-### Lovely Illustrations & Fan Art by Cam Giang
-
-![](https://inspgr.id/app/uploads/2024/12/art-guardabosques-24-feature.jpg)
-
-[](https://theinspirationgrid.com/adorable-papercraft-animals-by-guardabosques/)
-
-### Adorable Papercraft Animals by Guardabosques
 
 Awesome products for creatives
 ------------------------------
