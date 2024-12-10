@@ -1,4 +1,6 @@
- [![](/_nuxt/image/38799b.svg) AI-driven DevSecOps.](https://about.gitlab.com/partners/technology-partners/aws/#interest)
+ [![](/nuxt-images/solutions/ai/icons/eyebrow-two.svg) New: GitLab Duo with Amazon Q](https://about.gitlab.com/partners/technology-partners/aws/#interest)
+
+ [![](/nuxt-images/banner/gitlab-duo-amazon-q.svg) AI-driven DevSecOps.](https://about.gitlab.com/partners/technology-partners/aws/#interest)
 
 GitLab Privacy Statement
 ========================
