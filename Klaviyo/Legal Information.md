@@ -283,6 +283,8 @@ Dmca
 Digital Millennium Copyright Act; Take Down Notice and Procedures
 =================================================================
 
+* * *
+
 Updated: September 24, 2021
 
 It is Klaviyo’s policy to respond to notices alleging that any material uploaded by users of the Services infringes another person’s copyright. If you believe any material accessible on or from the Klaviyo website or the Services infringes your copyright, you may request removal of those materials (or access thereto) from this website or the Services by contacting the Klaviyo, Inc. copyright agent (identified below) and providing the following information:
