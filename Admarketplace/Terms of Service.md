@@ -38,6 +38,16 @@ Learn More
 
 About
 
+[Our Story
+
+From humble beginnings to predominant adtech player, brush up on adMarketplace’s history](https://www.admarketplace.com/our-story)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bc161abe0863fe13d04ee_people.svg)
+
+Culture & Careers
+
+We're hiring!
+
+Discover the culture that powers our success and browse our open roles for your next big opportunity](https://www.admarketplace.com/culture-and-careers)
+
 [![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bb82eaeb03cef7dada5ad_newspaper-variant-outline.svg)
 
 News
@@ -52,27 +62,17 @@ IMPACT
 
 adMarketplace's annual, premier search advertising conference](https://www.admarketplace.com/impact-2024-conference)
 
-[Our Story
-
-From humble beginnings to predominant adtech player, brush up on adMarketplace’s history](https://www.admarketplace.com/our-story)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bc161abe0863fe13d04ee_people.svg)
-
-Culture & Careers
-
-We're hiring!
-
-Discover the culture that powers our success and browse our open roles for your next big opportunity](https://www.admarketplace.com/culture-and-careers)
-
 #### Featured
 
-[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3418a9547548566b6b0_Mozilla%20Press%20release.jpg)
+[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/67582646e5e3d9e5871d7aae_SOC.jpg)
 
 **News**
 
-Mozilla Expands Partnership with adMarketplace
+adMarketplace Achieves SOC 2 Compliance, Strengthening Commitment to Data Security
 
 Learn more
 
-![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/blog/mozilla-expands-partnership-with-admarketplace-on-the-journey-to-protect-consumer-privacy-while-delivering-value-to-advertisers)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3f3cf3f80a4d68e8349_Tair.jpg)
+![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/6736b24095fdfb599ceb66a9_arrow%20right.svg)](https://www.admarketplace.com/news/admarketplace-achieves-soc-2-compliance-strengthening-commitment-to-data-security)[![](https://cdn.prod.website-files.com/64d626ea4b535c7a17b83b78/671bd3f3cf3f80a4d68e8349_Tair.jpg)
 
 **Spotlight**
 
@@ -278,7 +278,7 @@ Product
 
 Measurement
 
-[AMPscore](#)[Pubscore](#)[Open MMM](#)
+[AMPscore™](#)[Pubscore™](#)[Open MMM](#)
 
 Resources
 
@@ -286,9 +286,7 @@ Resources
 
 About
 
-[Our Story](https://www.admarketplace.com/our-story)[Careers](https://www.admarketplace.com/culture-and-careers)
-
-[News](https://www.admarketplace.com/news)
+[Our Story](https://www.admarketplace.com/our-story)[Culture & Careers](https://www.admarketplace.com/culture-and-careers)[Employee Spotlight](https://www.admarketplace.com/employee-spotlight)[News](https://www.admarketplace.com/news)[IMPACT](https://www.admarketplace.com/impact-2024-conference)
 
 Privacy Terms
 
