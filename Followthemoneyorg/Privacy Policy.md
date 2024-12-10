@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![pro-guncontrol](/assets/logos/NRAGunGIvingProCon201112.png)](http://www.followthemoney.org/research/institute-research/nra-direct-contributions-decline)
+[![disclosure map](/assets/logos/isrequirementsmap.png)](http://www.followthemoney.org/research/institute-research/best-practices-for-independent-spending-part-one)
 
-Pro-gun-control was dramatically outspent, 2011-12.
+How does your state stack up for essential disclosure requirements?
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
