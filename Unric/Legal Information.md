@@ -151,6 +151,12 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-december-2024/ "UNRIC Info Point & Library Newsletter: December 2024")
+
+### [UNRIC Info Point & Library Newsletter: December 2024](https://unric.org/en/unric-info-point-library-newsletter-december-2024/ "UNRIC Info Point & Library Newsletter: December 2024")
+
+10/12/2024
+
  [![A man sitting in a wheelchair, holding a laptop.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20100%2070'%3E%3C/svg%3E)
 
 ![A man sitting in a wheelchair, holding a laptop.](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2024/12/AI-and-disabilities-100x70.png)](https://unric.org/en/building-an-accessible-future-for-all-ai-and-the-inclusion-of-persons-with-disabilities/ "Building an accessible future for all: AI and the inclusion of Persons with Disabilities")
@@ -179,17 +185,11 @@ The information will be used internally only for web site traffic analysis. If t
 
 10/10/2024
 
- [![Latest UNRIC Library Newsletter](https://e4k4c4x9.delivery.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
-
-### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
-
-10/09/2024
-
 [Load more](#)
 
 #### Publications
 
-* [December 2024](https://unric.org/en/2024/12/) (7)
+* [December 2024](https://unric.org/en/2024/12/) (8)
 * [November 2024](https://unric.org/en/2024/11/) (23)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
