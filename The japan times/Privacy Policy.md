@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -567,23 +567,23 @@ Latest News
 
 [Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
 
-2 hours ago
+8 hours ago
 
 [Europe’s big battery ambitions are failing, and China is benefiting](https://www.japantimes.co.jp/business/2024/12/10/companies/europe-ev-ambitions-fail-china-benfit/ "Europe’s big battery ambitions are failing, and China is benefiting")
 
-3 hours ago
+9 hours ago
 
 [Assad's fall in Syria exposes limits of China's Middle East diplomacy](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/assad-fall-china-diplomacy/ "Assad's fall in Syria exposes limits of China's Middle East diplomacy")
 
-3 hours ago
+10 hours ago
 
 [Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-life-buyout-talks-us/ "Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion")
 
-4 hours ago
+10 hours ago
 
 [Kioxia’s jumbo IPO shows weak sign contrary to booming market](https://www.japantimes.co.jp/business/2024/12/10/companies/kioxia-jumbo-ipo/ "Kioxia’s jumbo IPO shows weak sign contrary to booming market")
 
-4 hours ago
+11 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
