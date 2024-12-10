@@ -123,44 +123,44 @@ Advertisement
     Pedigree Dogs Exposed
     
     Pedigree dogs are suffering from genetic diseases following years of inbreeding, an investigation has found.A BBC documentary says they are suffering acute problems because looks are emphasised ov...](https://documentaryheaven.com/bbc-pedigree-dogs-exposed/ "Pedigree Dogs Exposed")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![The Beginning and the End of the Universe](/wp-content/thumbnails/16715-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    The Beginning and the End of the Universe
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
-* [![Why We Bang](/wp-content/thumbnails/1121-100x70.jpg?x53432)
+    Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
-    Why We Bang
+    The Fog of War
     
-    The film, Why We Bang, produced and directed by Orlando Myrics and Clifford Jordan for Ghetto Logik Entertainment is an independent film that documents the historical background of LA's Bloods and Cri...](https://documentaryheaven.com/why-we-bang/ "Why We Bang")
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
 
 ###### Throwback Documentaries
 
-* [![Still Berning](/wp-content/thumbnails/12747-100x70.jpg?x53432)
+* [![The Ground Truth: After The Killing Ends](/wp-content/thumbnails/2207-100x70.jpg?x53432)
     
-    Still Berning
+    The Ground Truth: After The Killing Ends
     
-    As we are all now aware, Bernie Sanders lost the primaries to Hillary Clinton as the US presidential candidate for the Democratic Party. But it was a loss which ironically marked the beginning rather](https://documentaryheaven.com/still-berning/ "Still Berning")
-* [![Hepatitis Country](/wp-content/thumbnails/12742-100x70.png?x53432)
+    Hailed as “powerful” and “quietly unflinching,” Patricia Foulkrod’s searing documentary feature includes exclusive footage that will stir audiences. The filmmaker’s subjects are patriotic young Americ](https://documentaryheaven.com/the-ground-truth-after-the-killing-ends/ "The Ground Truth: After The Killing Ends")
+* [![Louis Theroux on Michael Jackson](/wp-content/thumbnails/403-100x70.png?x53432)
     
-    Hepatitis Country
+    Louis Theroux on Michael Jackson
     
-    Hepatitis C is a liver disease which tends to be very contagious, being spread primarily through contact with the blood of someone who is infected. It's severity can range from a mild illness lasting](https://documentaryheaven.com/hepatitis-country/ "Hepatitis Country")
-* [![Forces of Nature with Brian Cox](/wp-content/thumbnails/12752-100x70.jpg?x53432)
+    Louis Theroux travels to America for the chance to meet Michael Jackson, but getting hold of the man turns out to be a lot more difficult than he had anticipated. And then he discovered, Michael Jacks](https://documentaryheaven.com/louis-theroux-on-michael-jackson/ "Louis Theroux on Michael Jackson")
+* [![Earth – The Climate Wars PT 3/3](/wp-content/thumbnails/243-100x70.png?x53432)
     
-    Forces of Nature with Brian Cox
+    Earth – The Climate Wars PT 3/3
     
-    The BBC and physicist Brian Cox have teamed up once again in order to bring us Forces of Nature, a four part television documentary series which beautifully combines some of the most amazing sigh](https://documentaryheaven.com/forces-nature-brian-cox/ "Forces of Nature with Brian Cox")
-* [![Steal This Film II](/wp-content/thumbnails/5471-100x70.jpg?x53432)
+    PART THREE - New ChallengesHaving explained the science behind global warming, and addressed the arguments of the climate change sceptics earlier in the series, in this third and final part Dr Iain](https://documentaryheaven.com/earth-the-climate-wars-pt-33/ "Earth – The Climate Wars PT 3/3")
+* [![CRY WOLF: An Unethical Oil Story](/wp-content/thumbnails/6523-100x70.jpg?x53432)
     
-    Steal This Film II
+    CRY WOLF: An Unethical Oil Story
     
-    These are strange times indeed. While they continue to command so much attention in the mainstream media, the ‘battles’ between old and new modes of distribution, between the pirate and the institutio](https://documentaryheaven.com/steal-this-film-ii/ "Steal This Film II")
-* [![The People’s Republic of Capitalism](/wp-content/thumbnails/6282-100x70.jpg?x53432)
+    DeSmogBlog investigates the controversial decision by Alberta's government to ignore the threat of rapid industrial expansion in the Alberta Tar Sands region, and instead kill thousands of wolves to a](https://documentaryheaven.com/cry-wolf-an-unethical-oil-story/ "CRY WOLF: An Unethical Oil Story")
+* [![Death In Gaza](/wp-content/thumbnails/2137-100x70.jpg?x53432)
     
-    The People’s Republic of Capitalism
+    Death In Gaza
     
-    Joined at the Hip Perhaps nothing crystallizes the theme of Ted Koppel’s excellent documentary series “The People’s Republic of Capitalism” like the production of Ethan Allen couches. Over four episo](https://documentaryheaven.com/the-people%e2%80%99s-republic-of-capitalism/ "The People’s Republic of Capitalism")
+    In spring 2003, filmmaker James Miller and reporter Saira Shah, following the success of their Peabody-winning films “Unholy War” and “Beneath the Veil,” set out to take a first-hand look at the cultu](https://documentaryheaven.com/death-in-gaza/ "Death In Gaza")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
