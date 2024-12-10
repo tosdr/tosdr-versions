@@ -1,25 +1,65 @@
-[![VERO™](//images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1602236999540-1M6TNC9GRULGLJLPNBDD/VERO_LOGO_WHITE.png)](https://vero.co/)
+[0](https://vero.co/cart)
 
-[](https://vero.co/search)
+[Skip to Content](#page)
 
-[The App](https://vero.co/) [Values](https://vero.co/values) [Newsroom](https://vero.co/site/newsroom) [Creators](https://vero.co/site/creators)
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/ca932f80-a267-41a0-a81b-8ee47c3f2d3a/VERO_Logo-White-RGB.png?format=1500w)](https://vero.co/)
 
-[Get the App](https://vero.co/site/get-the-app)
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/108ab1b6-3d7b-40e5-b5c4-179dc0c7063a/VERO_Icon_Regular_Green.png?format=1500w)](https://vero.co/)
 
-[The App](https://vero.co/)[Values](https://vero.co/values)[Newsroom](https://vero.co/site/newsroom)[Creators](https://vero.co/site/creators)
+[Home](https://vero.co/)
 
-[![VERO™](//images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1602236999540-1M6TNC9GRULGLJLPNBDD/VERO_LOGO_WHITE.png)](https://vero.co/)
+[Social](https://vero.co/site/social)
 
-True Social
+[CoFi](https://vero.co/site/community-finance-overview)
 
-[Get the App](https://vero.co/site/get-the-app)
+[Tokenise](https://vero.co/site/tokenise-stock-exchange)
 
-Scroll
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
+
+Open Menu Close Menu
+
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/ca932f80-a267-41a0-a81b-8ee47c3f2d3a/VERO_Logo-White-RGB.png?format=1500w)](https://vero.co/)
+
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/108ab1b6-3d7b-40e5-b5c4-179dc0c7063a/VERO_Icon_Regular_Green.png?format=1500w)](https://vero.co/)
+
+[Home](https://vero.co/)
+
+[Social](https://vero.co/site/social)
+
+[CoFi](https://vero.co/site/community-finance-overview)
+
+[Tokenise](https://vero.co/site/tokenise-stock-exchange)
+
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
+
+Open Menu Close Menu
+
+[Home](https://vero.co/)
+
+[Social](https://vero.co/site/social)
+
+[CoFi](https://vero.co/site/community-finance-overview)
+
+[Folder: Tokenise](https://vero.co/site/tokenise-stock-exchange)
+
+[Back](https://vero.co/)
+
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
 
 Privacy Policy
---------------
-
-[Previous version](https://vero.co/privacy-policy-archive)
+==============
 
 Effective Date: June 30, 2024
 
@@ -125,7 +165,7 @@ We collect information from the following sources:
 
 **We collect information directly from you**. We collect contact and certain identifying information directly from you when you register for an account on the VERO App. Also, if you choose to cross-reference your contact list on your device with the list of users on the VERO App, your contacts’ phone numbers (though not their names) may be used and stored to allow you to: invite your contacts to the VERO App, connect with those who are also already on the VERO App, or provide you with updates if and when your contacts join the VERO App.
 
-**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” sections of our Privacy Policy for more information.
+[**We collect information from your activity on the Services**. We automatically collect information regarding the actions you take on the VERO App and Site (“Analytics Data”), which we use for our own analytical purposes to improve the VERO App and our other Services. All Analytics Data collected from the App is anonymized and aggregated. We do not share Analytics Data from the App with any third parties other than our Service Provider which provides us the analytics platform. Analytics Data collected from certain portions of the VERO Website may be used for advertising purposes. Please see below and the “Third-Party Data Collection and Online Advertising” sections of our Privacy Policy for more information.](#yui_3_17_2_1_1733783121752_410)
 
 **Advertising and referrals**. We do not display advertising on the VERO website or app, but we may collect certain identifying information (e.g. device ID, or IP address) and Internet or other electronic activity on certain portions of the VERO website passively using tools like browser cookies, SDKs, and other similar technologies through Service Providers for referral tracking. For example, if you click on one of our ads for the VERO App on another website, we may track that action and market the VERO App to you through another ad. We may also use this information for our own analytics purposes to improve the VERO app and our other Services. This activity is further described in the “[Cookies and Anonymous Identifiers](#Cookies-And-Anonymous-Identifiers) and “[Third-Party Data Collection and Online Advertising](#Third-Party-Data-Collection-and-Online-Advertising)” sections below.
 
@@ -214,7 +254,7 @@ If you are located in EU, UK, or Switzerland, please see the “[Additional EU, 
 
 **12) How Long Does VERO Keep Information About Me**
 
-Following termination or deactivation of your account, we may retain your profile information and user content for a commercially reasonable amount of time for backup, archival, or audit purposes, but in no event for longer than is allowed under applicable data protection laws. For individuals based in the EU, UK or Switzerland please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures")”.
+Following termination or deactivation of your account, we may retain your profile information and user content for a commercially reasonable amount of time for backup, archival, or audit purposes, but in no event for longer than is allowed under applicable data protection laws. For individuals based in the EU, UK or Switzerland please see the “[Additional EU, UK and Switzerland Privacy Disclosures](#Additional-EU-UK-And-Switzerland-Privacy-Disclosures%22)”.
 
 **13) U.S. State Privacy Rights**
 
@@ -253,7 +293,7 @@ The categories of third parties to whom we may sell or share the personal inform
 * Social Networks
     
 
-We may also disclose personal information for the purposes described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third Parties)” section of our Privacy Policy.
+We may also disclose personal information for the purposes described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third%20Parties)” section of our Privacy Policy.
 
 **Data Retention**
 
@@ -420,7 +460,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
 
 **CATEGORY OF PERSONAL DATA:**
 
-* ### Contact Information and account information, such as your first name, last name, title, phone number, email address, shipping address, billing address, country of residence, nationality, unique username, password and avatar/profile image
+* #### Contact Information and account information, such as your first name, last name, title, phone number, email address, shipping address, billing address, country of residence, nationality, unique username, password and avatar/profile image
     
     _How we may use it:_  
     1) We use this information to set up your account on the VERO Website and Application to enable you to share content with users on the VERO Website and Application.
@@ -460,7 +500,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * AWS, who host our servers.
         
     
-* ### Chat and comments, when you contact us directly e.g., by email or phone, we will record your comments and opinions.
+* #### Chat and comments, when you contact us directly e.g., by email or phone, we will record your comments and opinions.
     
     _How we may use it:_
     
@@ -484,7 +524,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     
     _Legal basis for the processing:_ The processing is necessary for our legitimate interests, namely maintaining our IT systems and their security and maintaining and improving of the VERO Website and Application.
     
-* ### Payment information, such shipping address, billing address, credit card number and debit card number.
+* #### Payment information, such shipping address, billing address, credit card number and debit card number.
     
     _How we may use it:_
     
@@ -501,7 +541,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * AWS, who host our servers.
         
     
-* ### Content you publish on the VERO Website or Application, such as photos, videos or text you have posted (comments to a post, captions to your photos/videos or chat messages exchanged through the VERO Website or Application) and geolocation tags attached to a post.
+* #### Content you publish on the VERO Website or Application, such as photos, videos or text you have posted (comments to a post, captions to your photos/videos or chat messages exchanged through the VERO Website or Application) and geolocation tags attached to a post.
     
     _How we may use it:_
     
@@ -516,7 +556,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * AWS, who host our servers.
         
     
-* ### Identification information, such as your national identity card or other proof of identity.
+* #### Identification information, such as your national identity card or other proof of identity.
     
     _How we may use it:_
     
@@ -531,7 +571,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * AWS, who host our servers.
         
     
-* ### Your preferences, such as preferences set for notifications, marketing communications, your privacy settings preferences and your user settings (for example, whether you allow other VERO users to follow you, whether your VERO public posts can appear on the VERO Website as well as the VERO Application, whether VERO users are able to call you).
+* #### Your preferences, such as preferences set for notifications, marketing communications, your privacy settings preferences and your user settings (for example, whether you allow other VERO users to follow you, whether your VERO public posts can appear on the VERO Website as well as the VERO Application, whether VERO users are able to call you).
     
     _How we may use it:_
     
@@ -557,7 +597,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * Cloudflare, who provides content delivery and protects our back-end services in case of malicious activities.
         
     
-* ### Voice and video
+* #### Voice and video
     
     _How we may use it:_
     
@@ -583,7 +623,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
 
 **CATEGORY OF PERSONAL DATA:**
 
-* ### Location Information or your IP address, including longitude, latitude, date and time (the precision of this data varies greatly and is determined by factors controlled by your device or mobile service provider) or IP address.
+* #### Location Information or your IP address, including longitude, latitude, date and time (the precision of this data varies greatly and is determined by factors controlled by your device or mobile service provider) or IP address.
     
     _How we may use it:_
     
@@ -615,7 +655,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * Apple, who provides us with an Apple integration enabling you to search for or interact with Songs or Books to make a VERO post. If you choose to interact with Apple Songs or Books, this information is shared.
         
     
-* ### Information about how you access and use the VERO Website and Application, for example, how frequently you access the VERO Website and Application, the time you access the VERO Website and Application and how long you use it for, the approximate location that you access the VERO Website and Application from, the site from which you came and the site to which you are going when you leave the VERO Website and Application, the pages you visit, the links you click, your interactions on the VERO Website and Application and other actions you take on the VERO Website and Application.
+* #### Information about how you access and use the VERO Website and Application, for example, how frequently you access the VERO Website and Application, the time you access the VERO Website and Application and how long you use it for, the approximate location that you access the VERO Website and Application from, the site from which you came and the site to which you are going when you leave the VERO Website and Application, the pages you visit, the links you click, your interactions on the VERO Website and Application and other actions you take on the VERO Website and Application.
     
     _How we may use it:_
     
@@ -656,7 +696,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
     * Guardsquare, to identify and protect against tampering with the Application.
         
     
-* ### Log files and information about your device. We also collect information about the tablet, smartphone or other electronic device you use to connect to the VERO Website and/or Application. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to the VERO Website and/or Application through the device, your mobile network, your IP address and your device’s telephone number (if it has one).
+* #### Log files and information about your device. We also collect information about the tablet, smartphone or other electronic device you use to connect to the VERO Website and/or Application. This information can include details about the type of device, unique device identifying numbers, operating systems, browsers and applications connected to the VERO Website and/or Application through the device, your mobile network, your IP address and your device’s telephone number (if it has one).
     
     _How we may use it:_
     
@@ -708,7 +748,7 @@ VERO Labs, Inc., a company duly incorporated and organised under the laws of the
 
 6. **RECIPIENTS**
 
-We may share your personal data with the categories of third parties described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third Parties)" section of the main Privacy Policy above as well as at paragraphs 3 and 4 of this addendum (as required in accordance with the uses set out in Annex 1 and Annex 2).
+We may share your personal data with the categories of third parties described in the “[When We Share Information with Third Parties](#When-We-Share-Information-With-Third%20Parties)" section of the main Privacy Policy above as well as at paragraphs 3 and 4 of this addendum (as required in accordance with the uses set out in Annex 1 and Annex 2).
 
 7. **MARKETING**
 
@@ -819,7 +859,7 @@ If we need to provide you with information about something, whether for legal, m
 
 **WEBSITE COOKIES AND TRACKING TECHNOLOGIES**
 
-* ### Adobe Typekit
+* #### Adobe Typekit
     
     _Type of cookie:_
     
@@ -837,7 +877,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Information about the fonts that are used on the VERO Website is collected. No information is collected about users visiting the VERO website.
     
-* ### Google Ads
+* #### Google Ads
     
     _Type of cookie_
     
@@ -855,7 +895,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Google Pixel configuration flags are set to restricted data use or limited data use where possible.
     
-* ### Facebook
+* #### Facebook
     
     _Type of cookie_
     
@@ -873,7 +913,7 @@ If we need to provide you with information about something, whether for legal, m
     
     This is a tracking pixel used to measure the effectiveness of our advertising on other platforms. The pixel is fired when you opt In to cookies and a cookie is set.
     
-* ### X
+* #### X
     
     _Type of cookie_
     
@@ -891,7 +931,7 @@ If we need to provide you with information about something, whether for legal, m
     
     This is a tracking pixel used to measure the effectiveness of our advertising on other platforms. The pixel is fired when you opt In to cookies and a cookie is set.
     
-* ### Reddit
+* #### Reddit
     
     _Type of cookie_
     
@@ -909,7 +949,7 @@ If we need to provide you with information about something, whether for legal, m
     
     This is a tracking pixel used to measure the effectiveness of our advertising on other platforms. The pixel is fired when you opt In to cookies and a cookie is set.
     
-* ### Pinterest
+* #### Pinterest
     
     _Type of cookie_
     
@@ -930,7 +970,7 @@ If we need to provide you with information about something, whether for legal, m
 
 **APPLICATION TRACKING TECHNOLOGIES**
 
-* ### Amplitude
+* #### Amplitude
     
     _Type of tracking technology_
     
@@ -940,7 +980,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to track user interactions with the application, anonymized.
     
-* ### Foursquare
+* #### Foursquare
     
     _Type of tracking technology_
     
@@ -950,7 +990,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to provide location search and information and images about places for place posts
     
-* ### Bing
+* #### Bing
     
     _Type of tracking technology_
     
@@ -960,7 +1000,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to provide images for place posts
     
-* ### Apple Music
+* #### Apple Music
     
     _Type of tracking technology_
     
@@ -970,7 +1010,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to provide music and book search and information and images for music and book posts
     
-* ### TheMovieDB
+* #### TheMovieDB
     
     _Type of tracking technology_
     
@@ -980,7 +1020,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to provide movie search and information and images for movie/TV posts
     
-* ### Google - Firebase
+* #### Google - Firebase
     
     _Type of tracking technology_
     
@@ -990,7 +1030,7 @@ If we need to provide you with information about something, whether for legal, m
     
     Used to identify crashes, provide global configuration data
     
-* ### Guardsquare
+* #### Guardsquare
     
     _Type of tracking technology_
     
@@ -1001,38 +1041,38 @@ If we need to provide you with information about something, whether for legal, m
     To detect bad actors
     
 
-[Privacy Policy](#vero-privacy-policy)
+**VERO Labs, Inc.**
 
-[![](https://images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1683032139371-EJXDIFM94SFJRJS8KDL8/Site_Badges_2023_bw_webby_nominee.png?format=300w)](https://winners.webbyawards.com/2023/apps-and-software/mobile-ott-app-features/best-user-interface/240027/vero-desktop-app)
-
-VERO Labs, Inc.
-
-228 Park Ave S, Suite 131065,
-
-New York, NY 10003-1502,
-
+228 Park Ave S, Suite 131065,  
+New York, NY 10003-1502,  
 USA
 
 [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection)
 
-Hours
+**Company**
 
-Company
+[Brand Resources](https://brand.vero.co/)
 
-[Mission](https://vero.co/vero-mission) [Brand Resources](https://brand.vero.co/) [Roadmap](https://vero.co/site/roadmap) [Charities & Merchants](https://vero.co/buy-now-and-donate-now) [Newsroom](https://vero.co/newsroom) [VERO Music](https://vero-music.com/)
+[VERO Music](https://vero-music.com/)
 
-Community
+**Community**
 
-[Creators](https://vero.co/site/creators) [Community Guidelines](https://vero.co/community-guidelines) [Support & Help](https://verohelp.zendesk.com/hc/en-us/) [Accessibility](https://vero.co/site/accessibility-statement) [FAQ](https://vero.co/vero-faq)
+[Community Guidelines](https://vero.co/community-guidelines)
 
-Legal
+[Support & Help](https://verohelp.zendesk.com/hc/en-us/)
 
-[Terms of Use](https://vero.co/terms-of-use) [Privacy Policy](https://vero.co/privacy-policy) [Manage Cookies](javascript:CookieScript.instance.show())
+[Accessibility](https://vero.co/site/accessibility-statement)
 
-Press
+[FAQ](https://vero.co/vero-faq)
+
+**Legal**
+
+[Terms of Use](https://vero.co/terms-of-use)
+
+[Privacy Policy](https://vero.co/privacy-policy)
+
+**Press**
 
 [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection)
-
-[![VERO True Social](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17dc9382c1a34de57fcab/1604419019548/VERO.png?format=500w)](https://vero.co/vero) [![Twitter](https://images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1693232726246-ZXJP1X83ZDXP9ZK3X9GG/twitter-x-logo.png?format=500w)](https://twitter.com/verotruesocial) [![Youtube](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6c839fb6a8b5828d36c70/1657194553999/youtube_icon.png?format=500w)](https://www.youtube.com/c/VEROTrueSocial) [![Instagram](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17dcebedfd636590dab53/1604419024824/IG.png?format=500w)](https://www.instagram.com/verotruesocial/) [![Facebook](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17d8516e851246a43c2a9/1604418953036/FB.png?format=500w)](https://www.facebook.com/verotruesocial/) [![Apple Music](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6ca96c93e530bd971982f/1657195158281/apple_music_icon.png?format=500w)](https://bit.ly/NewMusicMoves_) [![Spotify](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6c833aa0d8350b24c5773/1657194547372/spotify_icon.png?format=500w)](https://open.spotify.com/playlist/39wYpKaL1aaaSLF0M7DZaI?si=fb79bb11a2c24e64)
 
 © 2024 VERO Labs, Inc. All rights reserved.
