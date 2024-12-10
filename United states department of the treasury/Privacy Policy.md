@@ -577,15 +577,15 @@ MENU MENU
     
     December 10, 2024
     
+    [Treasury Department Announces Disbursement of $20 Billion Loan to Benefit Ukraine, To Be Repaid with Proceeds Earned from Immobilized Russian Sovereign Assets](https://home.treasury.gov/news/press-releases/jy2744)
+    
+    December 10, 2024
+    
     [Joint Statement on the EU-U.S. Joint Financial Regulatory Forum](https://home.treasury.gov/news/press-releases/jy2743)
     
     December 10, 2024
     
     [Treasury Sanctions Cybersecurity Company Involved in Compromise of Firewall Products and Attempted Ransomware Attacks](https://home.treasury.gov/news/press-releases/jy2742)
-    
-    December 9, 2024
-    
-    [Treasury Marks International Human Rights Day and Designates Perpetrators and Supporters of Serious Human Rights Abuse](https://home.treasury.gov/news/press-releases/jy2741)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
