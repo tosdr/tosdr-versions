@@ -207,6 +207,24 @@ _tablet\_android_Tablet
 
 1
 
+![](https://play-lh.googleusercontent.com/a-/ALV-UjWA2qPUiJwaUk_XaG1DpbMcT3Y8du-iWUN_ZENJnhq6DZXvxkw=s32)
+
+Jamie The Linux Guy
+
+_more\_vert_
+
+* Flag inappropriate
+
+December 8, 2024
+
+I really liked using this for messaging, amd my spsm filters were perfect. But when I updated to Android 15, it stopped working. I can read messages just fine, but anytime I try to send one, it tells me to set it as default when I've already got the app as default, and refuses to send. I contacted the support email about the issue over 2 weeks ago, and haven't gotten any response. I would love to use it again if the issue were corrected. But currently, I'm going to be pausing my subscription.
+
+Did you find this helpful?
+
+Yes
+
+No
+
 ![](https://play-lh.googleusercontent.com/a/ACg8ocIDLt_Lr4kyKkfno2vDrRz8DSnqOIXiUBrsYU76WBZU0oR9gw=s32-mo)
 
 Kevin Rich
@@ -254,26 +272,6 @@ March 31, 2024
 
 Hi. Thanks for the feedback. We are glad to know that Key Messages is working awesome for you.
 
-![](https://play-lh.googleusercontent.com/a/ACg8ocLm6yMboh4OnkIO6hl2m4gQrHkZ4CV3GdU_sFRZX-rznWkpYw=s32-mo)
-
-Alexander Cory
-
-_more\_vert_
-
-* Flag inappropriate
-
-October 24, 2024
-
-Mezo SMS is just the best. I had to buy it. Ive been using the app's "message content" feature to block tons of political ad texts and other spam. It just blocks them if theyre not in my contacts. So if i want to receive a message from someone i just add them to my contacts. Its pretty easy to use. Definitely recommend it.
-
-3 people found this review helpful
-
-Did you find this helpful?
-
-Yes
-
-No
-
 See all reviews
 
 What's new
@@ -311,7 +309,7 @@ Privacy Policy](https://www.mezo.ai/privacypolicy)
 Similar apps
 ------------
 
-_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGDEzMjZ1RFk1NTFVbW04OVNaSTRYN0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKT2J4)
+_arrow\_forward_[](https://play.google.com/store/apps/collection/cluster?gsr=SmlqGFVkREI4QVI4UDNSbmd5N0pkSXJaM0E9PcICTAoSCg5jb20uc21zQmxvY2tlchAHGAgwATgASioIARAAGh5NZXpvIC0gU3BhbSBCbG9ja2VyLCBTTVMgQmxvY2sgACgAMABQAFgBYAA%3D:S:ANO1ljKt_II)
 
 [![Thumbnail image](https://play-lh.googleusercontent.com/gnlpo5LYkUtiGNbNRhVFKVtOUnp_B_Sw85SM8QDYT9qA-4_Mq25KBhammMwoZphsjeg=s64)
 
@@ -367,7 +365,7 @@ Google Play[Play Pass](https://play.google.com/store/pass/getstarted)[Play Point
 
 Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentguide)[Family sharing](https://support.google.com/googleplay/answer/7007852)
 
-[Terms of Service](https://play.google.com/intl/en-US_us/about/play-terms.html)
+[Terms of Service](https://play.google.com/intl/en_us/about/play-terms.html)
 
 [Privacy](https://policies.google.com/privacy)
 
@@ -379,4 +377,4 @@ Kids & family[Parent Guide](https://support.google.com/googleplay?p=pff_parentgu
 
 ![](https://ssl.gstatic.com/store/images/regionflags/us.png)
 
-United States (English (United States))
+United States (English)
