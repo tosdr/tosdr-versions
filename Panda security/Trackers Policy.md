@@ -43,6 +43,16 @@ Forgot your customer ID? [Click here](https://webservices.pandasecurity.com/Pass
 
 Renew now
 
+![Panda Security](/rfilescms/Teaser/CAMPAIGNS/xmas_acq_50.webp)
+
+### Merry Christmas!
+
+\-50% on all Panda Dome products
+
+\-50%
+
+[Buy](https://www.pandasecurity.com/security-promotion/?campaign=dome2305&coupon=50OFFMULTIP&track=190478)
+
 * Protection
 * [Panda Dome product range](https://www.pandasecurity.com/en/homeusers/)
 * [Panda Dome Essential](https://www.pandasecurity.com/en/dome/essential/)
@@ -219,6 +229,24 @@ Renew Panda Dome
 Special offer: Renew and get 60% off
 
 ![image](/rfilescms/Teaser/RET/pandasecurity_teaser_modal_back_to_security_desktop.webp)
+
+Only available for 48 hours!
+
+: :
+
+: :
+
+\*Only for home users
+
+Email 
+
+Customer ID 
+
+Renew Panda Dome
+
+Renew and get 50% off
+
+![image](/rfilescms/Teaser/RET/pandasecurity_paid_sales_teaser_b.webp)
 
 Only available for 48 hours!
 
