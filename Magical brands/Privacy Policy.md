@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Privacy Policy – Magical Brands                                                                                                      [Skip to content](#MainContent)
+![](https://www.facebook.com/tr?id=293669006432525&ev=PageView&noscript=1)         Privacy Policy – Magical Brands                                                                                                          [Skip to content](#MainContent)
 
 Your cart is empty
 ------------------
@@ -7,7 +7,7 @@ Your cart is empty
 
 Have an account?
 
-[Log in](https://magicalbutter.com/account/login) to check out faster.
+[Log in](https://magicalbutter.com/customer_authentication/redirect?locale=en&region_country=US) to check out faster.
 
 ### Your cart
 
@@ -137,8 +137,8 @@ Complete Checkout
     * [Dosage Calculator](https://magicalbutter.com/pages/dosage-calculator)
     * [FAQ](https://magicalbutter.com/pages/faq)
     
-* [Log in](https://magicalbutter.com/account/login)
-* [Create account](https://magicalbutter.com/account/register)
+* [Log in](https://magicalbutter.com/customer_authentication/redirect?locale=en&region_country=US)
+* [Create account](https://account.magicalbutter.com/?locale=en)
 * Currency
     
     Currency
@@ -241,7 +241,7 @@ Complete Checkout
     * [FAQ](https://magicalbutter.com/pages/faq)
     
 
- [Log in](https://magicalbutter.com/account/login) [Cart](https://magicalbutter.com/cart)
+ [Log in](https://magicalbutter.com/customer_authentication/redirect?locale=en&region_country=US) [Cart](https://magicalbutter.com/cart)
 
  
 
