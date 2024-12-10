@@ -22,13 +22,9 @@ Cyber Week Savings: Take **$1,500 off any bootcamp or short course** starting be
 
 Cyber Week Savings, Extended: Take **$1,500 off any bootcamp or short course** starting before 31 March
 
-[Students](https://generalassemb.ly/)
+Get ahead of 2025's biggest tech talent shifts. Register for our **December 11th** webinar.
 
-[Employers](https://generalassemb.ly/employers)
-
-[My Account](https://accounts.generalassemb.ly/account)
-
-[Employers](https://generalassemb.ly/employers)
+[Register](https://events.zoom.us/ev/AgzohWqxaf8eMHgCgb96QQ2xSMQ4j5AgVJ1UsZTrZgwu6pOFLFgu~ArxIKpll1srLEmfl2EBM7a62goNvpviMys0Fg-R6lCKp6CYm4EYA6PRgdeAJhUPh5MlNjVOnkUj3jCwf69Mbt7fmKA)
 
 Open menu
 
@@ -36,80 +32,186 @@ Close menu"
 
 [](https://generalassemb.ly/)
 
-* [Bootcamps](https://generalassemb.ly/students/courses?formatBootcamp=true) Toggle menu
+* [What We Teach](#) Toggle menu
     
-    * [All Bootcamps](https://generalassemb.ly/students/courses?formatBootcamp=true)
+    [Topics](#)
+    
+    * [AI](https://generalassemb.ly/students/courses?topic=ai)
+        
+    * [Cybersecurity](https://generalassemb.ly/students/courses?topic=cybersecurity)
+        
+    * [Data Science & Analytics](https://generalassemb.ly/students/courses?topic=data)
+        
+    * [Digital Marketing](https://generalassemb.ly/students/courses?topic=marketing)
+        
+    * [Product Management](https://generalassemb.ly/students/courses?topic=business)
+        
+    * [Software Engineering](https://generalassemb.ly/students/courses?topic=coding)
+        
+    * [UX/UI Design](https://generalassemb.ly/students/courses?topic=design)
+        
+    * [Free Classes](https://generalassemb.ly/students/events?free=true&classes=true)
+        
+    * [Free Events](https://generalassemb.ly/students/events?free=true&events=true)
+        
+    * [Full-Time Programs](https://generalassemb.ly/students/courses?scheduleFullTime=true)
+        
+    * [Part-Time Programs](https://generalassemb.ly/students/courses?schedulePartTime=true)
+        
+    
+    * * *
+    
+    [Bootcamps](https://generalassemb.ly/students/courses?formatBootcamp=true)
+    
+    Full-time. Part-time. Change your career.
+    
+    * * *
+    
+    * [Data Analytics Bootcamp](https://generalassemb.ly/students/courses/data-analytics-bootcamp)
+        
+    * [Data Science Bootcamp](https://generalassemb.ly/students/courses/data-science-bootcamp)
         
     * [Software Engineering Bootcamp](https://generalassemb.ly/students/courses/software-engineering-bootcamp)
         
     * [User Experience Design Bootcamp](https://generalassemb.ly/students/courses/user-experience-design-bootcamp)
         
-    * [Data Analytics Bootcamp](https://generalassemb.ly/students/courses/data-analytics-bootcamp)
-        
-    * [Data Science Bootcamp](https://generalassemb.ly/students/courses/data-science-bootcamp)
-        
-* [Courses](https://generalassemb.ly/students/courses?formatShortCourses=true) Toggle menu
     
-    * [All Courses](https://generalassemb.ly/students/courses?formatShortCourses=true)
-        
-    * [Front-End Web Development](https://generalassemb.ly/students/courses/front-end-web-development-short-course)
-        
-    * [User Experience Design](https://generalassemb.ly/students/courses/user-experience-design-short-course)
-        
-    * [Product Management](https://generalassemb.ly/students/courses/product-management-short-course)
-        
-    * [Digital Marketing](https://generalassemb.ly/students/courses/digital-marketing-short-course)
-        
+    [Short Courses](https://generalassemb.ly/students/courses?formatShortCourses=true)
+    
+    Full-time. Part-time. Advance your career.
+    
+    * * *
+    
     * [Data Analytics](https://generalassemb.ly/students/courses/data-analytics-short-course)
         
     * [Data Science](https://generalassemb.ly/students/courses/data-science-short-course)
         
+    * [Digital Marketing](https://generalassemb.ly/students/courses/digital-marketing-short-course)
+        
+    * [Front-End Web Development](https://generalassemb.ly/students/courses/front-end-web-development-short-course)
+        
     * [JavaScript Development](https://generalassemb.ly/students/courses/javascript-development-short-course)
+        
+    * [Product Management](https://generalassemb.ly/students/courses/product-management-short-course)
         
     * [Python Programming](https://generalassemb.ly/students/courses/python-programming-short-course)
         
     * [React Development](https://generalassemb.ly/students/courses/react-development-short-course)
         
+    * [User Experience Design](https://generalassemb.ly/students/courses/user-experience-design-short-course)
+        
     * [Visual Design](https://generalassemb.ly/students/courses/visual-design-short-course)
         
-* [Workshops](https://generalassemb.ly/students/courses?formatWorkshop=true) Toggle menu
     
-    * [UX & UI Design Fundamentals in Figma](https://generalassemb.ly/students/courses/ux-ui-design-fundamentals-in-figma-workshop)
-        
-    * [Programming with Python Fundamentals](https://generalassemb.ly/students/courses/programming-with-python-fundamentals-workshop)
-        
-    * [Product Management Fundamentals](https://generalassemb.ly/students/courses/product-management-fundamentals-workshop)
-        
-    * [Excel Fundamentals](https://generalassemb.ly/students/courses/excel-fundamentals-workshop)
-        
-    * [Coding Fundamentals - HTML, CSS, & JavaScript](https://generalassemb.ly/students/courses/coding-fundamentals-html-css-javascript-workshop)
+    [Workshops](https://generalassemb.ly/students/courses?formatWorkshop=true)
+    
+    Learn a new skill in 2 sessions.
+    
+    * * *
+    
+    * [AI for Data Analysis and Visualizations](https://generalassemb.ly/students/courses/ai-for-data-analysis-and-visualizations-workshop)
         
     * [AI for Workplace Productivity](https://generalassemb.ly/students/courses/ai-for-workplace-productivity-workshop)
         
-    * [AI for Data Analysis and Visualizations](https://generalassemb.ly/students/courses/ai-for-data-analysis-and-visualizations-workshop)
+    * [Coding Fundamentals - HTML, CSS, & JavaScript](https://generalassemb.ly/students/courses/coding-fundamentals-html-css-javascript-workshop)
+        
+    * [Excel Fundamentals](https://generalassemb.ly/students/courses/excel-fundamentals-workshop)
         
     * [IT & Cybersecurity Fundamentals](https://generalassemb.ly/students/courses/it-cybersecurity-fundamentals-workshop)
         
-* [Career Services](https://generalassemb.ly/students/career-services)
+    * [Product Management Fundamentals](https://generalassemb.ly/students/courses/product-management-fundamentals-workshop)
+        
+    * [Programming with Python Fundamentals](https://generalassemb.ly/students/courses/programming-with-python-fundamentals-workshop)
+        
+    * [UX & UI Design Fundamentals in Figma](https://generalassemb.ly/students/courses/ux-ui-design-fundamentals-in-figma-workshop)
+        
     
-* [Financial Aid](https://generalassemb.ly/students/financing)
+    [Free Classes](https://generalassemb.ly/students/events?free=true&classes=true)
     
+    [Free Events](https://generalassemb.ly/students/events?free=true&events=true)
+    
+    [Full-Time Programs](https://generalassemb.ly/students/courses?schedulefulltime=true)
+    
+    [Part-Time Programs](https://generalassemb.ly/students/courses?scheduleparttime=true)
+    
+* [For Students](#) Toggle menu
+    
+    * [Application Process](https://generalassemb.ly/faq)
+        
+    * [Tuition & Financing](https://generalassemb.ly/students/financing)
+        
+    * [Career Services](https://generalassemb.ly/students/career-services)
+        
+    * [Adobe Digital Academy](https://explore.generalassemb.ly/creative-skills-academy/)
+        
+    * [Student Stories & Success](https://generalassemb.ly/blog/category/alumni-stories/)
+        
+    * [Workshops](https://generalassemb.ly/students/courses?formatWorkshop=true)
+        
+    * [Events](https://generalassemb.ly/students/events?free=true&events=true&location=online)
+        
+    * [FAQs](https://generalassemb.ly/faq)
+        
+* [For Companies](#) Toggle menu
+    
+    * [Talent Pipeline Solutions](https://generalassemb.ly/employers)
+        
+        * [Hire Train Deploy](https://generalassemb.ly/employers/hire-train-deploy)
+            
+        * [Apprenticeships](https://generalassemb.ly/employers/apprenticeships)
+            
+        * [Ready-to-Hire](https://generalassemb.ly/employers/ready-to-hire)
+            
+    * [By Tech Discipline](#)
+        
+        * [AI](https://generalassemb.ly/employers/what-we-teach/ai)
+            
+        * [Data](https://generalassemb.ly/employers/what-we-teach/data-training)
+            
+        * [Marketing](https://generalassemb.ly/employers/what-we-teach/marketing)
+            
+        * [Product Management](https://generalassemb.ly/employers/what-we-teach/product-management)
+            
+        * [Tech](https://generalassemb.ly/employers/what-we-teach/tech-training)
+            
+        * [UX](https://generalassemb.ly/employers/what-we-teach/ux)
+            
+    * [](#)
+        
+        * [State of Tech Talent](https://enterprise-go.generalassemb.ly/state-of-tech-talent-2024-homepage)
+            
+    * [State of Tech Talent](https://enterprise-go.generalassemb.ly/state-of-tech-talent-2024-homepage)
+        
 * [Resources](#) Toggle menu
     
-    * [Free Classes](https://generalassemb.ly/students/events?free=true&classes=true)
+    * [Career Services](https://generalassemb.ly/students/career-services)
         
-    * [Free Events](https://generalassemb.ly/students/events?free=true&events=true)
+    * [Alumni Network](https://generalassemb.ly/alumni)
         
-    * [Blog](https://generalassemb.ly/blog)
+    * [Veteran Resources](https://generalassemb.ly/gi-bill)
         
-    * [Our Story](https://generalassemb.ly/about)
+    * [Meet Our Instructors](https://generalassemb.ly/our-instructors)
         
-    * [Our Impact](https://generalassemb.ly/how-we-work/social-impact)
+    * [Resource Center](https://generalassemb.ly/blog)
+        
+* [About Us](#) Toggle menu
+    
+    * [Our Mission & Impact](https://generalassemb.ly/about)
+        
+    * [Press & Media](https://generalassemb.ly/press)
+        
+    * [Social Impact](https://generalassemb.ly/social-impact)
+        
+    * [Diversity, Equity & Inclusion](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning)
+        
+    * [Contact Us](https://generalassemb.ly/contact)
         
 
-[Account](https://accounts.generalassemb.ly/account)
+[My Account](https://accounts.generalassemb.ly/account) [Request Info](https://generalassemb.ly/get-in-touch)
 
-[Request Info](https://generalassemb.ly/students/get-in-touch)
+[My Account](https://accounts.generalassemb.ly/account)
+
+[Get More Info](https://generalassemb.ly/get-in-touch)
 
 GLOBAL TERMS OF SERVICE (TOS)
 =============================
