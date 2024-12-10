@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![30 Facts About PEPCK Deficiency ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
+[![50 Facts About Sarah Snook ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22106%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/celebrity/50-facts-about-sarah-snook/)
 
-Health Science
+Celebrity
 
-09 Dec 2024
+10 Dec 2024
 
-[30 Facts About PEPCK Deficiency](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-pepck-deficiency/)
+[50 Facts About Sarah Snook](https://facts.net/celebrity/50-facts-about-sarah-snook/)
 
-[![50 Facts About Africa ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/geography/50-facts-about-africa/)
+[![30 Facts About Wakabayashilite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-wakabayashilite/)
 
-Geography
+Earth Sciences
 
-09 Dec 2024
+10 Dec 2024
 
-[50 Facts About Africa](https://facts.net/science/geography/50-facts-about-africa/)
+[30 Facts About Wakabayashilite](https://facts.net/earth-and-life-science/earth-sciences/30-facts-about-wakabayashilite/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
