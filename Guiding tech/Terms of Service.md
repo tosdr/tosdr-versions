@@ -1,4 +1,6 @@
-[![Guiding Tech](https://www.guidingtech.com/wp-content/uploads/logo-white-gradient-small.webp)](https://www.guidingtech.com/)
+[![Guiding Tech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='167'%20viewBox='0%200%20300%20167'%3E%3C/svg%3E)
+
+![Guiding Tech](https://www.guidingtech.com/wp-content/uploads/logo-white-gradient-small.webp)](https://www.guidingtech.com/)
 
 [Guiding Tech](https://www.guidingtech.com/)
 
@@ -176,7 +178,9 @@ To contact us with any questions or concerns in connection with this Agreement o
 * [YouTube](https://www.youtube.com/@GuidingTechCom/videos)
 * [Twitter](https://twitter.com/guidingtech)
 
-[![Guiding Tech](https://www.guidingtech.com/wp-content/uploads/logo-white-gradient-small.webp)](https://www.guidingtech.com/)
+[![Guiding Tech](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='300'%20height='167'%20viewBox='0%200%20300%20167'%3E%3C/svg%3E)
+
+![Guiding Tech](https://www.guidingtech.com/wp-content/uploads/logo-white-gradient-small.webp)](https://www.guidingtech.com/)
 
 [Guiding Tech](https://www.guidingtech.com/)
 
