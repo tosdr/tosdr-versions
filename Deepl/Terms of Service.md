@@ -1,4 +1,4 @@
-[![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/en/translator)
+[![DeepL Logo](https://static.deepl.com/img/logo/deepl-blue-logo-text.svg)![DeepL Logo](https://static.deepl.com/img/logo/deepl-blue-logo.svg)![Logo](data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>)![Logo](data:image/svg+xml;charset=utf8,<svg xmlns='http://www.w3.org/2000/svg'></svg>)](https://www.deepl.com/en/translator)
 
 Home
 
@@ -11,6 +11,8 @@ Account
 * * *
 
 Beta feedback
+
+* * *
 
 [![DeepL Logo](https://static.deepl.com/img/logo/deepl-logo-blue.svg)](https://www.deepl.com/en/translator)[![DeepL](https://static.deepl.com/img/logo/deepl-logo-text-blue.svg)](https://www.deepl.com/en/translator)
 
