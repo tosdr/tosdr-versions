@@ -1,10 +1,10 @@
 [Skip to content](#content)
 
-**Subscribe today**
+**Enjoy unlimited access**
 
-Every print subscription comes with full digital access
+Only $2.99 a month
 
-[Subscribe now](https://www.sciencenews.org/subscribe1?key=9MNAVBNA&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
+[Subscribe now](https://www.sciencenews.org/subscribe1-digital-monthly?key=9MNAVBNB2&utm_source=banner&utm_medium=site&utm_campaign=full_digital_access)
 
 Menu
 
@@ -90,23 +90,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Humans
         ----------------------
         
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [During an allergic response, some immune cells digest others](https://www.sciencenews.org/article/some-immune-cells-digest-others)
+            
+            By [Caroline Hemphill](https://www.sciencenews.org/author/caroline-hemphill "Posts by Caroline Hemphill")45 mins ago
+            
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
             
             ### [The oldest known ritual chamber in the Middle East has been found](https://www.sciencenews.org/article/oldest-ritual-chamber-in-middle-east)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")13 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")19 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A squid-inspired medical device could reduce the need for needles](https://www.sciencenews.org/article/squid-inspired-medical-device-needles)
             
-            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")19 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [Proposed time limits on anesthesia may have jeopardized patient safety](https://www.sciencenews.org/article/time-limits-anesthesia-patient-safety)
-            
-            By [Sujata Gupta](https://www.sciencenews.org/author/sujata-gupta "Posts by Sujata Gupta")December 6, 2024
+            By [Nora Bradford](https://www.sciencenews.org/author/nora-bradford "Posts by Nora Bradford")December 9, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -151,7 +151,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Generative AI is an energy hog. Is the tech worth the environmental cost?](https://www.sciencenews.org/article/generative-ai-energy-environmental-cost)
             
-            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")17 hours ago
+            By [Lauren Leffer](https://www.sciencenews.org/author/lauren-leffer "Posts by Lauren Leffer")23 hours ago
             
         * [Climate](https://www.sciencenews.org/topic/climate)
             
