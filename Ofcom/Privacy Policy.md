@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Channel 4 logo](/siteassets/resources/images/-news-centre/body-images/2024/new-ten-year-public-service-broadcast-licence-for-channel-4/c4-indent-web.jpg?width=1920&height=1085&quality=80)
+
+### Channel 4 Statement
+
+10 December 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/public-service-broadcasting/channel-4-statement/)
+
 [![HERO Global Online Safety Regulators Network sets out priorities for next three years (1336 × 560px)](/siteassets/resources/images/-news-centre/thumbnail-images/online-safety/hero-global-online-safety-regulators-network-sets-out-priorities-for-next-three-years-1336--560px.png?width=1920&height=1085&quality=80)
 
 ### Global Online Safety Regulators Network sets out priorities for next three years
@@ -151,13 +157,7 @@
 
 5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-nearly-7-in-10-homes/)
 
-[![CN 24 NC_Wales web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/cn-24-nc_wales-web.jpg?width=1920&height=1085&quality=80)
-
-### Full-fibre broadband reaches one million homes in Wales
-
-5 December 2024](https://www.ofcom.org.uk/phones-and-broadband/coverage-and-speeds/full-fibre-broadband-reaches-one-million-homes-in-wales/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/corporate-policies/general-privacy-statement/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
