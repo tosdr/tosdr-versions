@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Aileen Cannon, Ryan Routh](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Cannon-432x243.jpg)](https://lawandcrime.com/high-profile/alleged-trump-assassin-wants-help-from-judge-who-dismissed-jack-smiths-mar-a-lago-case-against-the-president-elect/)
+1. [![Background: Vista Ridge High School, Cedar Park, Texas (Google Maps). Inset: Aubrey Vanlandingham (Williamson County Sheriff's Office).](https://am22.mediaite.com/lc/cnt/uploads/2024/12/Aubrey-Vanlandingham-432x243.jpg)](https://lawandcrime.com/crime/beloved-show-goat-willie-died-after-being-force-fed-poison-by-teen-who-said-she-tried-to-kill-the-animal-twice-police/)
     
-    ### [Alleged Trump assassin wants help from judge who dismissed Jack Smith's Mar-a-Lago case against the president-elect](https://lawandcrime.com/high-profile/alleged-trump-assassin-wants-help-from-judge-who-dismissed-jack-smiths-mar-a-lago-case-against-the-president-elect/)
+    ### [Beloved show goat 'Willie' died after being force-fed poison by teen who said she tried to kill the animal twice: Police](https://lawandcrime.com/crime/beloved-show-goat-willie-died-after-being-force-fed-poison-by-teen-who-said-she-tried-to-kill-the-animal-twice-police/)
     
-2. [![Insets, left to right: Shawn Stines (CBS/YouTube) and Kevin Mullins (Kentucky Court of Justice via AP). Background: Outside the Letcher County Courthouse in Kentucky (WHAS).](https://am22.mediaite.com/lc/cnt/uploads/2024/09/sheriffjudge-432x243.jpg)](https://lawandcrime.com/crime/running-a-brothel-judge-killed-in-chambers-by-sheriff-was-part-of-sextortion-scheme-where-women-on-house-arrest-exchanged-sex-for-special-treatment-lawyer-says/)
+2. [![Background: Photos released by the NYPD showing UnitedHealthcare CEO Brian Thompson's killer (New York Police Department). Inset: Brian Thompson (UnitedHealth Group).](https://am23.mediaite.com/lc/cnt/uploads/2024/12/Untitled-design-5-432x243.jpg)](https://lawandcrime.com/crime/ill-will-toward-corporate-america-suspect-arrested-in-murder-of-unitedhealthcare-ceo-busted-with-ghost-gun-silencer-and-manifesto-criticizing-health-care-companies/)
     
-    ### ['Running a brothel': Judge killed in chambers by sheriff was part of sextortion scheme where women on house arrest exchanged sex for special treatment, lawyer says](https://lawandcrime.com/crime/running-a-brothel-judge-killed-in-chambers-by-sheriff-was-part-of-sextortion-scheme-where-women-on-house-arrest-exchanged-sex-for-special-treatment-lawyer-says/)
+    ### ['Ill will toward corporate America': Suspect arrested in murder of UnitedHealthcare CEO busted with 'ghost' gun, silencer and manifesto criticizing health care companies](https://lawandcrime.com/crime/ill-will-toward-corporate-america-suspect-arrested-in-murder-of-unitedhealthcare-ceo-busted-with-ghost-gun-silencer-and-manifesto-criticizing-health-care-companies/)
     
-3. [![Popular post image](https://am21.mediaite.com/lc/cnt/uploads/2023/03/Gabriel-Augustin-Garcia-Jan.-6-432x243.jpg)](https://lawandcrime.com/high-profile/nancy-come-out-and-play-former-army-captain-and-proud-boys-member-headed-to-prison-for-storming-the-capitol-on-jan-6/)
+3. [![Left: Judge Juan Merchan poses for a picture in his chambers in New York, Thursday, March 14, 2024. Merchan is presiding over Donald Trump’s hush money case in New York (AP Photo/Seth Wenig). Right: FILE - Former President Donald Trump is escorted to a courtroom, April 4, 2023, in New York (AP Photo/Mary Altaffer, File).](https://am21.mediaite.com/lc/cnt/uploads/2024/04/Merchan-Trump-432x243.jpg)](https://lawandcrime.com/high-profile/u-s-supreme-court-rejects-bid-to-lift-gag-order-on-donald-trump-in-new-york-hush-money-case/)
     
-    ### ['Nancy, come out and play:' Former Army captain and Proud Boys member headed to prison for storming the Capitol on Jan. 6](https://lawandcrime.com/high-profile/nancy-come-out-and-play-former-army-captain-and-proud-boys-member-headed-to-prison-for-storming-the-capitol-on-jan-6/)
+    ### [U.S. Supreme Court rejects bid to lift gag order on Donald Trump in New York hush-money case](https://lawandcrime.com/high-profile/u-s-supreme-court-rejects-bid-to-lift-gag-order-on-donald-trump-in-new-york-hush-money-case/)
     
-4. [![Hillsborough deputy shooting](https://am24.mediaite.com/lc/cnt/uploads/2024/12/Hillsborough-deputy-shooting-432x243.jpg)](https://lawandcrime.com/crime/bodycam-deputies-bust-through-window-and-holiday-decorations-to-shoot-man-holding-woman-at-knifepoint/)
+4. [![Daniel Penny arrives at the court after break in New York, Tuesday, Nov. 12, 2024. (AP Photo/Yuki Iwamura)](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Daniel-Penny-432x243.jpg)](https://lawandcrime.com/high-profile/great-act-of-justice-giuliani-desantis-cheer-as-daniel-penny-becomes-right-wing-darling-after-acquittal-in-jordan-neely-subway-chokehold-death/)
     
-    ### [Bodycam: Deputies bust through window and holiday decorations to shoot man holding woman at knifepoint](https://lawandcrime.com/crime/bodycam-deputies-bust-through-window-and-holiday-decorations-to-shoot-man-holding-woman-at-knifepoint/)
+    ### ['Great act of justice': Giuliani, DeSantis cheer as Daniel Penny becomes right-wing darling after acquittal in Jordan Neely subway chokehold death](https://lawandcrime.com/high-profile/great-act-of-justice-giuliani-desantis-cheer-as-daniel-penny-becomes-right-wing-darling-after-acquittal-in-jordan-neely-subway-chokehold-death/)
     
-5. [![President-elect Donald Trump on ](https://am23.mediaite.com/lc/cnt/uploads/2024/12/trump-MEET-2-432x243.jpg)](https://lawandcrime.com/high-profile/first-day-trump-vows-to-act-very-quickly-to-pardon-jan-6-rioters-says-liz-cheney-and-house-select-committee-members-should-be-in-jail-in-first-tv-interview-since-election/)
+5. [![Justices Samuel Alito, on the left; Center: Clarence Thomas, in the center; Neil Gorsuch, on the right](https://am24.mediaite.com/lc/cnt/uploads/2024/06/Alito-Thomas-Gorsuch-432x243.jpg)](https://lawandcrime.com/high-profile/racial-balancing-by-another-name-alito-thomas-gorsuch-slam-scotus-majority-for-rejecting-challenge-to-boston-schools-admissions-policy/)
     
-    ### ['First day': Trump vows to act 'very quickly' to pardon Jan. 6 rioters, says Liz Cheney and House select committee members 'should be in jail' in first TV interview since election](https://lawandcrime.com/high-profile/first-day-trump-vows-to-act-very-quickly-to-pardon-jan-6-rioters-says-liz-cheney-and-house-select-committee-members-should-be-in-jail-in-first-tv-interview-since-election/)
+    ### ['Racial balancing by another name': Alito, Thomas, Gorsuch slam SCOTUS majority for rejecting challenge to Boston schools' admissions policy](https://lawandcrime.com/high-profile/racial-balancing-by-another-name-alito-thomas-gorsuch-slam-scotus-majority-for-rejecting-challenge-to-boston-schools-admissions-policy/)
     
 
 [](http://eepurl.com/c89Jdb)
