@@ -20,7 +20,7 @@ Terms of Use
 
 Effective Date: April 22, 2022.
 
-Last Updated: October 4, 2023.
+Last Updated: December 10, 2024.
 
 1\. Introduction and Overview
 
@@ -78,7 +78,7 @@ The Service contains, among other things: (i) materials and other items relating
 
 **B. Limited License.**
 
-Subject to your strict compliance with these Terms and any applicable Additional Terms, A24 grants you a limited, non-exclusive, revocable, non-assignable, personal, and non-transferable license to download, display, view, use, and play the Content on a personal computer, browser, laptop, tablet, mobile phone, or other internet-enabled device (each, a “**Device**”) of the Content as it is displayed to you, in each case for your own personal, non-commercial use only. The foregoing limited license (i) does not give you any ownership of, or any other intellectual property interest in, any Content, and (ii) may be suspended or terminated for any reason, in A24’s sole discretion, and without advance notice or liability. Your unauthorized use of the Content may violate copyright, trademark, privacy, publicity, communications, and other laws, and any such use may result in your personal liability, including potential criminal liability.
+Subject to your strict compliance with these Terms and any applicable Additional Terms, we grant you a limited, non-exclusive, revocable, non-assignable, personal, and non-transferable license to download, display, view, use, and play the Content on a personal computer, browser, laptop, tablet, mobile phone, or other internet-enabled device (each, a “**Device**”) of the Content as it is displayed to you, in each case for your own personal, non-commercial use only. The foregoing limited license (i) does not give you any ownership of, or any other intellectual property interest in, any Content, and (ii) may be suspended or terminated for any reason, in A24’s sole discretion, and without advance notice or liability. Your unauthorized use of the Content may violate copyright, trademark, privacy, publicity, communications, and other laws, and any such use may result in your personal liability, including potential criminal liability.
 
 **C. Accounts and Guest Checkout.**
 
@@ -114,9 +114,9 @@ You represent and warrant that you own or have the necessary rights, licenses, c
 
 5\. Products
 
-Certain products or services may be available for purchase through the Service. By making a purchase through the Service, you represent that you are at least the age of majority in your state of residence. You are solely responsible for any taxes applicable to your transaction. Products purchased through the Service may only be used for individual, personal use. It is prohibited to re-sell or re-distribute any product or service. You are strictly prohibited from using any product or service for any illegal or unauthorized purpose.
+Certain products or services may be available for purchase through the Service. By making a purchase through the Service, you represent that you are at least the age of majority in your state/and or country of residence, as applicable. You are solely responsible for any taxes applicable to your transaction. Products purchased through the Service may only be used for individual, personal use. It is prohibited to re-sell or re-distribute any product or service. You are strictly prohibited from using any product or service for any illegal or unauthorized purpose.
 
-We do not accept returns. If you have an issue, please email us at [shop@a24films.com](mailto: shop@a24films.com) within 30 days of placing your order, and we will try our best to find a solution. Please include your order number in the subject line. Exchanges can generally be made within 30 days of placing your order, so long as your item remains unopened. Please understand that our items are limited, and we might not have your desired size. We cannot exchange one item for a different item. Email [shop@a24films.com](mailto: shop@a24films.com) and include your order number and the size you would like.
+We do not accept returns. If you have an issue, please email us at [shop@a24films.com](mailto: shop@a24films.com) within thirty (30) days of placing your order, and we will try our best to find a solution. Please include your order number in the subject line. Exchanges can generally be made within thirty (30) days of placing your order, so long as your item remains unopened. You are responsible for all costs of return shipping on all exchanges. Please understand that our items are limited, and we might not have your desired size. We cannot exchange one item for a different item. Email [shop@a24films.com](mailto: shop@a24films.com) and include your order number and the size you would like.
 
 We reserve the right, but are not obligated, to limit the sales of our products or services to any person, geographic region, or jurisdiction. We may exercise this right on a case-by-case basis. We reserve the right to limit the quantities of any products or services that we offer. We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household, or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers, or distributors. We may choose to limit product availability only to individuals who have a current Membership (as defined and described in Section 9), or we may offer discounts, exclusive “first look” shopping windows, or other incentives only to individuals who have a current Membership.
 
@@ -126,7 +126,7 @@ All physical products you purchase from the Service are made pursuant to a shipm
 
 Products shipped to destinations outside the United States will be imported on your behalf. You authorize us to import the products on your behalf. Further, you agree that we may delegate the obligation to import the products on your behalf to a subcontractor (e.g., customs broker). You will pay the taxes & duties in addition to the purchase price of the products.
 
-We do our best to describe every product or service offered on our Service as accurately as possible. However, we are human, and therefore we do not warrant that product specifications, pricing, or other content on the Service is complete, accurate, reliable, current, or error-free. In the event of any errors relating to the pricing or specifications, A24 shall have the right to refuse or cancel any orders in its sole discretion. If we charged your credit card or other account prior to our cancellation, we will issue a credit to your account in the amount of the charge. Additional Terms may apply. If a product or service you purchased from A24 is not as described, your sole remedy is to cancel the purchase and receive a credit for the purchase price (except for Premium Memberships, which are subject to the cancellation terms described in Section 9 below).
+We do our best to describe every product or service offered on our Service as accurately as possible. However, we are human, and therefore we do not warrant that product specifications, pricing, or other content on the Service is complete, accurate, reliable, current, or error-free. In the event of any errors relating to the pricing or specifications, A24 shall have the right to refuse or cancel any orders in its sole discretion. If we charged your credit card or other account prior to our cancellation, we will issue a credit to your account in the amount of the charge. Additional Terms may apply. If a product or service you purchased from A24 is not as described, your sole remedy is to cancel the purchase and receive a credit for the purchase price (except for Memberships, which are subject to the cancellation terms described in Section 9 below).
 
 You are responsible for providing an accurate and current delivery address each time you place an order. We are not responsible or liable for lost packages if the item is delivered to the address you indicated in your purchase, and we are not responsible or liable for stolen packages. We may or may not replace lost or stolen packages in our sole discretion.
 
@@ -146,15 +146,17 @@ The Service may offer features that are available to you via your wireless Devic
 
 **B. Communications.**
 
-You can opt out of receiving promotional e-mails from us at any time by following the instructions in the e-mails to click on the unsubscribe link, or by sending an e-mail to us at [info@a24films.com](mailto: info@a24films.com), with the word UNSUBSCRIBE in the subject field of the e-mail. Please note that your opt out is limited to the e-mail address used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or A24’s ongoing business relations. You can opt out of receiving text messages from us at any time by responding STOP to any text message we send you.
+You can opt out of receiving promotional e-mails or text messages from us at any time by following the instructions in the e-mails or messages to click on the unsubscribe link, or by sending an e-mail to us at [DPO@a24films.com](mailto: DPO@a24films.com), with the word UNSUBSCRIBE in the subject field of the e-mail. Please note that your opt out is limited to the e-mail address used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or A24’s ongoing business relations. You can opt out of receiving text messages from us at any time by responding STOP to any text message we send you.
 
 9\. Premium Memberships
 
-This Section 9 applies only if you purchase a premium membership through AAA24, A24’s membership experience (a “**Membership**”). If you purchase and maintain a current Membership, you will be entitled to certain membership benefits and incentives as are described to you at the time of your purchase or otherwise provided to you from time to time.
+This Section 9 applies only if you purchase a premium membership through AAA24, our membership experience (a “**Membership**”). If you purchase and maintain a current Membership, you will be entitled to certain membership benefits and incentives as are described to you at the time of your purchase or otherwise provided to you from time to time.
 
 **A. Recurring Membership; Automatic Renewal.**  
 
 You acknowledge and agree that your Membership will automatically renew (subject to applicable law) at the periodic frequency purchased, unless you cancel your Membership, or unless we suspend or terminate your Membership in accordance with these Terms. We will automatically renew your Membership and charge your payment method for the then-current amount upon each such renewal. You authorize this renewal by agreeing to the automatic renewal of your Membership, and these Terms, during the Membership sign-up process.
+
+Each member that holds a Membership as of December 9, 2024 may keep their monthly or annual price (as applicable) for a promotional period, the length of which is in our sole discretion. Should such a member cancel or pause their Membership at any time, they will become subject to the prices in effect at the time such Member re-starts their Membership or re-subscribes.
 
 **B. Cancellation.**
 
@@ -166,15 +168,41 @@ If you cancel or modify your Membership, you will enjoy your Membership benefits
 
 **C. Birthday Rewards.**
 
-Memberships may include eligibility for special gifts for your birthday, in accordance with the perks and benefits described at the time of purchase. If available, you will be entitled to no more than one birthday gift per calendar year. You must have paid for one month of Membership in order to be eligible for a birthday gift. If your first month of Membership is a free month, and your birthday falls during such free month, you will be eligible to receive your birthday gift during your first paid month.When you purchase a Membership, you must provide truthful and accurate information, including your date of birth. If you update your date of birth in an attempt to receive an extra birthday gift, we reserve the right to terminate your Membership without providing a refund.
+Memberships may include eligibility for special gifts for your birthday, in accordance with the perks and benefits described at the time of purchase. If available, you will be entitled to no more than one birthday gift per calendar year. You must have paid for one month of Membership in order to be eligible for a birthday gift. If your first month of Membership is a free month, and your birthday falls during such free month, you will be eligible to receive your birthday gift during your first paid month.When you purchase a Membership, you must provide truthful and accurate information, including your date of birth. If you update your date of birth in an attempt to receive an extra birthday gift, we reserve the right to immediately terminate your Membership without providing a refund.
 
 You have seven (7) calendar days from your date of birth to redeem a birthday gift.
 
-**D. AAA24 +1's Referral Program.**
+**D. Movie Ticketing.**
+
+Your Membership includes one (1) complementary ticket to certain of our films during their ‘opening weekend’, subject to availability. The dates that constitute a film’s ‘opening weekend’ are to be determined by us in our sole discretion and may vary based on film or location. Though we endeavor to provide a complementary ticket to as many of our films and to as many of our members as possible, we are limited by the capacity of the theaters and some films, formats, locations, theaters and dates may be excluded.  
+  
+All complementary movie tickets must be redeemed in the A24 app and may not be resold, cancelled, transferred or exchanged in any manner. We reserve the right to cancel any movie ticket in our sole discretion.
+
+**E. Credits.**
+
+Each member will be granted five dollars ($5) worth of A24 credits (“Credits”) for each month of Membership. Credits may be redeemed in various places across the A24 ecosystem, including for items in the A24 shop or for items available for purchase in the A24 app. Credits (i) are nontransferable, (ii) have no cash value, (iii) are not gift cards or gift certificates, (iv) may not be offered for resale, and (v) are not redeemable nor refundable for cash. In the event that Credits are used to purchase items in the A24 shop or A24 app, no refunds are available.  
+  
+Credits will begin to accrue for each member on the first monthly anniversary of their initial sign up date that occurs after December 1, 2024 (the “Credit Date) and then on each monthly anniversary of their initial sign-up date thereafter. For instance, if you hold a membership on the Credit Date and initially joined on April 13, 2023, Credits will begin to accrue on December 13, 2024, January 13, 2025, February 13, 2025, March 13, 2025, etc.  
+  
+For anyone that purchases a Membership after the Credit Date, Credits will begin to accrue on the first monthly anniversary after their initial sign up date that occurs after the Credit Date. For instance, if you sign up for a monthly Membership on February 5, 2025, your Credits will accrue on March 5, 2025, April 5, 2025, May 5, 2025, etc. If you sign up for an annual Membership on May 30, 2025, your Credits will accrue on June 30, 2025, July 30, 2025, August 30, 2025, etc.  
+  
+Credits will accrue for each member until that member’s Credit balance reaches $25 Credits. The most Credits that one member can accrue is twenty-five ($25). For instance, if a member reaches $25 Credits and redeems those credits for an item in the A24 Shop worth $10, the member will then have a Credit balance of $15 Credits and would earn another $5 Credits each successive month until they again reach the maximum $25 Credits. Should a member cancel or pause their Membership, all accrued credits will be lost upon the cessation of such Membership and such Credits will not be regained upon the re-start or re-subscription of such member’s Membership.  
+  
+If your use your Membership or the Credit system for profit or abuse your Membership or the Credit system in any way (as determined in our sole discretion), you are not eligible to become or remain a member. Abuse of a Membership or the Credit system, including failure to follow these Terms, may result in the immediate termination of your Membership without a prorated refund.
+
+**F. Social Media Access.**
+
+Memberships may include eligibility for special access to our social media content and our text messaging service. In order to receive special access to this content, you must provide your social media handle(s), username(s) or phone number to us. This information will be treated in accordance with our Privacy Policy. Your provision of this information is completely voluntary, but if you choose not to provide your social media handle(s), username(s) or phone number, you will not be able to access the special content.  
+  
+You must also request to follow the @a24closefriends account on Instagram to be able to view our Close Friends content. If you do not follow @a24closefriends, on Instagram, you will miss out on the social media access benefits associated with your Membership.  
+  
+Cancellation of your Membership will include, for the avoidance of doubt, your immediate removal from our close friends Instagram handle and our text message list.
+
+**G. AAA24 +1's Referral Program.**
 
 A successful referral must conform with the following terms and conditions:
 
-* The referrer (an "Existing Member") is offered a credit for a one-month membership ("Referral Reward") to their account for each referred user ("Plus One") that pays for at least a one-month Membership through their referral code (not applicable to third party subscriptions).
+* The referrer (an "**Existing Member**") is offered a credit for a one-month membership ("**Referral Reward**") to their account for each referred user ("**Plus One**") that pays for at least a one-month Membership through their referral code (not applicable to third party subscriptions).
 * The referral code offers one free month of Membership to the Plus One's first subscription.
 * Only Existing Members that have paid for at least one month of Membership are eligible to participate in the referral program.
 * The Existing Member may share their referral code an unlimited number of times.
@@ -183,17 +211,19 @@ A successful referral must conform with the following terms and conditions:
 * Referral Rewards cannot be combined with other discount codes or offers.
 * Referrals should only be used for personal and non-commercial purposes. Users are prohibited from "spamming" anyone with referral invitations.
 * All of an Existing Member's accrued Referral Rewards shall be terminated if such Existing Member cancels their Membership.
-* A24 reserves the right in its sole discretion to refuse the issue of any reward to any Plus One or Existing Member at any time.
-* A24 reserves the right in its sole discretion to vary any and all elements of this offer at any time without notice.
-* A24 may suspend or terminate the referral program or a user's ability to participate in it at any time for any reason.
+* We reserve the right in its sole discretion to refuse the issue of any reward to any Plus One or Existing Member at any time.
+* We reserve the right in its sole discretion to vary any and all elements of this offer at any time without notice.
+* We may suspend or terminate the referral program or a user's ability to participate in it at any time for any reason.
 
-**E. Social Media Access.**
+**H. Non-US Membership.**
 
-Memberships may include eligibility for special access to A24 social media content. In order to receive special access to this social media content, you must provide your social media handle(s) or username(s) to A24. This information will be treated in accordance with our [Privacy Policy](https://a24films.com/privacy-policy). Your provision of this information is completely voluntary, but if you choose not to provide your social media handle(s) or username(s), you will not be able to access the special social media content.
+Beginning on December 10, 2024 (the “**Deadline**”), all new members must list an address in the United States of America in order to receive a Membership. No member benefits will be shipped internationally or be available online or in app to any member who signs up after the Deadline.  
+  
+All non-US individuals who already are members or become members before the Deadline (“**Existing Non-US Members**”) may continue to their Membership. That said, certain member benefits (e.g. complementary movie tickets, access to the A24 app, etc.) will not be available to Existing Non-US Members. Should any Existing Non-US member pause or cancel their Membership after the Deadline, they may not later resume their Membership or obtain a new Membership using a non-US address.  
+  
+Violation of any of the foregoing eligibility requirements may result in immediate cancellation of your Membership without a prorated refund.
 
-You must also request to follow the @a24closefriends account on Instagram to be able to view our Close Friends content. If you do not follow @a24closefriends, on Instagram, you will miss out on the social media access benefits associated with your membership.
-
-**F. Changes; Cancellation.**
+**I. Changes; Cancellation.**
 
 We may change the availability, pricing, terms, structure, and benefits and incentives of Memberships at any time in our sole discretion. We may cancel individual Memberships or the entire Membership program at any time, with or without notice, for any reason or no reason. If we cancel your Membership before it has expired, we will provide a prorated refund for the value of the time that remained in your current Membership term.
 
@@ -203,19 +233,19 @@ This Section 10 applies only if you access, rent, or purchase digital content (t
 
 **A. Available Digital Content****.**
 
-The Platform may allow you to: (i) access Digital Content for free during a limited period of time during a subscription period (for example, as part of an AAA24 membership or a standalone video subscription offering) (**“Subscription Digital Content”**), (ii) rent Digital Content for on-demand viewing over a limited period of time (**“Rental Digital Content”**), (iii) purchase Digital Content for on-demand viewing over an indefinite period of time (**“Purchased Digital Content”**), and/or (iv) access Digital Content on a free, ad-supported or promotional basis for viewing over a limited period of time (**“Free Digital Content**”). Digital Content may be available as Subscription Digital Content, Rental Digital Content, Purchased Digital Content, Free Digital Content, or any combination of those, and in each case is subject to the limited license grant below.
+The Platform may allow you to: (i) access Digital Content for free during a limited period of time during a subscription period (for example, as part of a Membership or a standalone video subscription offering) (**“Subscription Digital Content”**), (ii) rent Digital Content for on-demand viewing over a limited period of time (**“Rental Digital Content”**), (iii) purchase Digital Content for on-demand viewing over an indefinite period of time (**“Purchased Digital Content”**), and/or (iv) access Digital Content on a free, ad-supported or promotional basis for viewing over a limited period of time (**“Free Digital Content**”). Digital Content may be available as Subscription Digital Content, Rental Digital Content, Purchased Digital Content, Free Digital Content, or any combination of those, and in each case is subject to the limited license grant below.
 
 **B. Availability of Purchased Digital Content****.**
 
-Purchased Digital Content will generally continue to be available to you for download or streaming from the Platform, as applicable, but may become unavailable due to potential content provider licensing restrictions or for other reasons, and A24 will not be liable to you if Purchased Digital Content becomes unavailable for further download or streaming.
+Purchased Digital Content will generally continue to be available to you for download or streaming from the Platform, as applicable, but may become unavailable due to potential content provider licensing restrictions or for other reasons, and we will not be liable to you if Purchased Digital Content becomes unavailable for further download or streaming.
 
 **C. Streaming Digital Content****.**
 
-The Digital Content can be streamed through the Platform over an active internet connection. The quality of the display of the streaming Digital Content may vary from device to device, and may be affected by a variety of factors, including your location and the speed of your internet connection. Any Digital Content provided via live feeds may be subject to a brief delay, and may be edited or paused on occasion. The time it takes to begin watching Digital Content will also vary based on a number of factors, including your location, available bandwidth at the time and the configuration of your device. A24 makes no representations or warranties about the quality of your watching experience on your device.
+The Digital Content can be streamed through the Platform over an active internet connection. The quality of the display of the streaming Digital Content may vary from device to device, and may be affected by a variety of factors, including your location and the speed of your internet connection. Any Digital Content provided via live feeds may be subject to a brief delay, and may be edited or paused on occasion. The time it takes to begin watching Digital Content will also vary based on a number of factors, including your location, available bandwidth at the time and the configuration of your device. We make no representations or warranties about the quality of your watching experience on your device.
 
 **D. Compatible Devices and Software****.**
 
-Use of the Platform requires compatible devices, and certain software may require periodic updates, and your use of the Platform may be affected by the performance of these elements over which A24 has no control. You can access the Digital Content with almost any Internet-connected computer or through the A24 application available for certain mobile or other devices (Internet connection required) (each, a **“Compatible Device”**). Additionally, certain components of the Platform, including certain Digital Content, may only be compatible with a subset of Compatible Devices or require download of certain software, even if other aspects of the Platform can be accessed on any Compatible Device.
+Use of the Platform requires compatible devices, and certain software may require periodic updates, and your use of the Platform may be affected by the performance of these elements over which we have no control. You can access the Digital Content with almost any Internet-connected computer or through the A24 application available for certain mobile or other devices (Internet connection required) (each, a **“Compatible Device”**). Additionally, certain components of the Platform, including certain Digital Content, may only be compatible with a subset of Compatible Devices or require download of certain software, even if other aspects of the Platform can be accessed on any Compatible Device.
 
 **E. Temporary Download and Offline Viewing****.**
 
@@ -227,7 +257,7 @@ It is possible that the Platform and/or some or all Digital Content may not be a
 
 **G. Refund Requests.**
 
-Refunds may be requested if you did not authorize a purchase, you did not mean to make a purchase, you purchased the wrong item, the item didn't download correctly, or the item isn't playing correctly. Refunds for web purchases are processed at the discretion of A24 and may be requested by emailing [support@a24films.com](mailto: support@a24films.com). Refunds for in-app purchases are processed by Apple and may be requested at [https://reportaproblem.apple.com.](https://reportaproblem.apple.com/)
+Refunds may be requested if you did not authorize a purchase, you did not mean to make a purchase, you purchased the wrong item, the item didn't download correctly, or the item isn't playing correctly. Refunds for web purchases are processed in our sole discretion and may be requested by emailing [support@a24films.com](mailto: support@a24films.com). Refunds for in-app purchases are processed by Apple and may be requested at [https://reportaproblem.apple.com.](https://reportaproblem.apple.com/)
 
 **H. Entertainment Content Only; Non-Reliance.**
 
@@ -245,7 +275,7 @@ The Digital Content may contain some flashing lights sequences or patterns which
 
 If we provide links or pointers to other websites or destinations, you should not infer or assume that we operate, control, or are otherwise connected with these other websites or destinations. When you click on a link within the Platform, we may not warn you that you have left the Platform and are subject to the terms and conditions (including privacy policies) of another website or destination. These Terms do not govern your use of another website or destination.  
   
-We are not responsible for the content or practices of any website or destination other than the Platform site, even if such website or destination links to the Platform and even if such website or destination is operated by a company affiliated or otherwise connected with A24. By using the Platform, you acknowledge and agree that we are not responsible or liable to you for any content or other materials hosted and served from any website or destination other than the Platform.
+We are not responsible for the content or practices of any website or destination other than the Platform site, even if such website or destination links to the Platform and even if such website or destination is operated by a company affiliated or otherwise connected with us. By using the Platform, you acknowledge and agree that we are not responsible or liable to you for any content or other materials hosted and served from any website or destination other than the Platform.
 
 **L. Third Party Ads and Services.**
 
@@ -253,7 +283,7 @@ We take no responsibility for and do not endorse any third-party advertisements 
 
 **M. Subscriptions Obtained Through Third Parties.**
 
-If you use the Platform or purchase and/or view any Digital Content through a third party distributor or service, you will be billed by that third party in accordance with the third party’s billing and subscription terms. The A24 terms related to the purchasing of a subscription, billing, cancellation, and refunds shall not apply to subscriptions purchased through a third party. Third party provided subscriptions, applications, websites, and services are subject to the terms and conditions provided by such third party. A24 is not responsible for products and services provided by such third party. To cancel a subscription purchased through a third party, you must follow the cancellation instructions provided by such third party.
+If you use the Platform or purchase and/or view any Digital Content through a third party distributor or service, you will be billed by that third party in accordance with the third party’s billing and subscription terms. Our terms related to the purchasing of a subscription, billing, cancellation, and refunds shall not apply to subscriptions purchased through a third party. Third party provided subscriptions, applications, websites, and services are subject to the terms and conditions provided by such third party. We are not responsible for products and services provided by such third party. To cancel a subscription purchased through a third party, you must follow the cancellation instructions provided by such third party.
 
 **N. A24 Gift Cards.**
 
@@ -267,23 +297,23 @@ In our continued assessment and development of the Platform, we may from time to
 
 THE SERVICE IS PROVIDED TO YOU ON AN "AS IS," "AS AVAILABLE," AND "WITH ALL FAULTS" BASIS. NEITHER A24 NOR ANY OF ITS OFFICERS, DIRECTORS, MANAGERS, EMPLOYEES OR AGENTS (COLLECTIVELY, THE "**A24 PARTIES**") MAKE ANY REPRESENTATIONS, WARRANTIES OR ENDORSEMENTS OF ANY KIND WHATSOEVER AS TO THE CONTENT OR OTHER SERVICES, WHETHER EXPRESS OR IMPLIED, STATUTORY OR OTHERWISE, OR ARISING FROM COURSE OF DEALING, COURSE OF PERFORMANCE OR USAGE OF TRADE, INCLUDING THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, QUIET ENJOYMENT AND FREEDOM FROM COMPUTER VIRUS. BY ACCESSING OR USING THE SERVICE YOU REPRESENT AND WARRANT THAT YOUR ACTIVITIES ARE LAWFUL IN EVERY JURISDICTION WHERE YOU ACCESS OR USE THE SERVICE.
 
-NOTWITHSTANDING THE FOREGOING, THESE DISCLAIMERS DO NOT EXCLUDE ANY PRODUCT LIABILITY CLAIMS, STATUTORY CONSUMER RIGHTS, DAMAGES ASSOCIATED WITH PERSONAL INJURY OR RESULTING FROM A24 INTENTIONAL MISCONDUCT, RECKLESSNESS, FRAUD, OR GROSS NEGLIGENCE.
+NOTWITHSTANDING THE FOREGOING, THESE DISCLAIMERS DO NOT EXCLUDE ANY PRODUCT LIABILITY CLAIMS, STATUTORY CONSUMER RIGHTS, DAMAGES ASSOCIATED WITH PERSONAL INJURY OR RESULTING FROM OUR INTENTIONAL MISCONDUCT, RECKLESSNESS, FRAUD, OR GROSS NEGLIGENCE.
 
 12\. Limitations of Our Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL THE A24 PARTIES BE LIABLE TO YOU FOR ANY LOSS, DAMAGE OR INJURY OF ANY KIND INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, CONSEQUENTIAL OR PUNITIVE LOSSES OR DAMAGES, OR DAMAGES FOR SYSTEM FAILURE OR MALFUNCTION OR LOSS OF PROFITS, DATA, USE, BUSINESS OR GOOD-WILL, ARISING OUT OF OR IN CONNECTION WITH (A) THE SERVICE, (B) THESE TERMS OR (C) YOUR MISUSE OF THE SERVICE OR ANY CONTENT AVAILABLE ON OR THROUGH THE SERVICE. THE LIMITATIONS SET FORTH IN THIS SECTION SHALL APPLY REGARDLESS OF THE FORM OF ACTION, WHETHER THE ASSERTED LIABILITY OR DAMAGES ARE BASED ON CONTRACT, INDEMNIFICATION, TORT, STRICT LIABILITY, STATUTE OR ANY OTHER LEGAL OR EQUITABLE THEORY.
 
-NOTWITHSTANDING THE FOREGOING, THESE DISCLAIMERS DO NOT EXCLUDE ANY PRODUCT LIABILITY CLAIMS, STATUTORY CONSUMER RIGHTS, OR DAMAGES ASSOCIATED WITH PERSONAL INJURY OR RESULTING FROM A24 INTENTIONAL MISCONDUCT, RECKLESSNESS, FRAUD, OR GROSS NEGLIGENCE.
+NOTWITHSTANDING THE FOREGOING, THESE DISCLAIMERS DO NOT EXCLUDE ANY PRODUCT LIABILITY CLAIMS, STATUTORY CONSUMER RIGHTS, OR DAMAGES ASSOCIATED WITH PERSONAL INJURY OR RESULTING FROM OUR INTENTIONAL MISCONDUCT, RECKLESSNESS, FRAUD, OR GROSS NEGLIGENCE.
 
 13\. Indemnification
 
-You agree to defend, indemnify and hold harmless A24 from and against any and all claims, liabilities, damages, losses, costs and expenses (including, reasonable attorneys’ fees and costs) arising out of or in connection with any of the following: (i) your breach or alleged breach of these Terms; (ii) your Submissions; (iii) your misuse of the Service; (iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental or quasi-governmental authorities; (v) your violation of the rights of any third party, including any intellectual property right, publicity, confidentiality, property or privacy right; (vi) your use of a Third Party Service; or (vii) any misrepresentation made by you. A24 reserves the right to assume, at your expense, the exclusive defense and control of any matter subject to indemnification by you. You agree to cooperate with A24’s defense of any claim. You will not in any event settle any claim without the prior written consent of A24.
+You agree to defend, indemnify and hold us harmless from and against any and all claims, liabilities, damages, losses, costs and expenses (including, reasonable attorneys’ fees and costs) arising out of or in connection with any of the following: (i) your breach or alleged breach of these Terms; (ii) your Submissions; (iii) your misuse of the Service; (iv) your violation of any laws, rules, regulations, codes, statutes, ordinances or orders of any governmental or quasi-governmental authorities; (v) your violation of the rights of any third party, including any intellectual property right, publicity, confidentiality, property or privacy right; (vi) your use of a Third Party Service; or (vii) any misrepresentation made by you. We reserve the right to assume, at your expense, the exclusive defense and control of any matter subject to indemnification by you. You agree to cooperate with our defense of any claim. You will not in any event settle any claim without our prior written consent.
 
 This provision does not require you to indemnify us for any unconscionable commercial practice by us or for our fraud, deception, false promise, misrepresentation or concealment, suppression or omission of any material fact in connection with the Service.
 
 14\. Waiver of Injunctive or other Equitable Relief
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF ANY WEB SITE, APPLICATION, CONTENT, SUBMISSIONS, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY A24 OR A LICENSOR OF A24.
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, YOU AGREE THAT YOU WILL NOT BE PERMITTED TO OBTAIN AN INJUNCTION OR OTHER EQUITABLE RELIEF OF ANY KIND, SUCH AS ANY COURT OR OTHER ACTION THAT MAY INTERFERE WITH OR PREVENT THE DEVELOPMENT OR EXPLOITATION OF ANY WEB SITE, APPLICATION, CONTENT, SUBMISSIONS, PRODUCT, SERVICE, OR INTELLECTUAL PROPERTY OWNED, LICENSED, USED OR CONTROLLED BY US OR OUR LICENSOR.
 
 15\. Updates to Terms
 
@@ -293,7 +323,7 @@ We reserve the right, at any time in our sole discretion, to modify or replace a
 
 **A. Consent or Approval.**
 
-No A24 consent or approval may be deemed to have been granted by A24 without being in writing and signed by an officer of A24.
+Our consent or approval may not be deemed to have been granted by us without being in writing and signed by one of our officers.
 
 **B. Survival.**  
 
@@ -301,29 +331,29 @@ The provisions of these Terms and any applicable Additional Terms, which by thei
 
 **C. Severability; Interpretation; Assignment.**
 
-If any provision of these Terms, or any applicable Additional Terms, is for any reason deemed invalid, unlawful, void, or unenforceable, then that provision will be deemed severable from these Terms or the Additional Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms or the Additional Terms. You hereby waive any applicable statutory and common law that may permit a contract to be construed against its drafter. The summaries of provisions and section headings are provided for convenience only and shall not limit the full Terms. A24 may assign its rights and obligations under these Terms and any applicable Additional Terms, in whole or in part, to any party at any time without any notice. These Terms and any applicable Additional Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of an officer of A24.
+If any provision of these Terms, or any applicable Additional Terms, is for any reason deemed invalid, unlawful, void, or unenforceable, then that provision will be deemed severable from these Terms or the Additional Terms, and the invalidity of the provision will not affect the validity or enforceability of the remainder of these Terms or the Additional Terms. You hereby waive any applicable statutory and common law that may permit a contract to be construed against its drafter. The summaries of provisions and section headings are provided for convenience only and shall not limit the full Terms. We may assign its rights and obligations under these Terms and any applicable Additional Terms, in whole or in part, to any party at any time without any notice. These Terms and any applicable Additional Terms may not be assigned by you, and you may not delegate your duties under them, without the prior written consent of one of our officers.
 
 **D. Complete Agreement; No Waiver.**
 
-These Terms, and any applicable Additional Terms, reflect our complete agreement regarding the Service and supersede any prior agreements, representations, warranties, assurances or discussion related to the Service. Except as expressly set forth in these Terms or any applicable Additional Terms, (i) no failure or delay by you or A24 in exercising any of rights, powers, or remedies under will operate as a waiver of that or any other right, power, or remedy, and (ii) no waiver or modification of any term of these Terms or any applicable Additional Terms will be effective unless in writing and signed by the party against whom the waiver or modification is sought to be enforced.
+These Terms, and any applicable Additional Terms, reflect our complete agreement regarding the Service and supersede any prior agreements, representations, warranties, assurances or discussion related to the Service. Except as expressly set forth in these Terms or any applicable Additional Terms, (i) no failure or delay by you or us in exercising any of rights, powers, or remedies under will operate as a waiver of that or any other right, power, or remedy, and (ii) no waiver or modification of any term of these Terms or any applicable Additional Terms will be effective unless in writing and signed by the party against whom the waiver or modification is sought to be enforced.
 
 **E. International Issues.**
 
-A24 controls and operates the Service from the United States, and A24 makes no representation that the Service is appropriate or available for use beyond the U.S. You agree that the United Nations Convention on Contracts for the International Sale of Goods does not apply to these Terms or to any sale of goods carried out as a result of your use of the Service. Software related to or made available by the Service may be subject to export controls of the U.S., and, except as authorized by law, you agree and warrant not to export or re-export the software to any county, or to any person, entity, or end-user subject to U.S. export controls or sanctions.
+We control and operate the Service from the United States, and we make no representation that the Service is appropriate or available for use beyond the U.S. You agree that the United Nations Convention on Contracts for the International Sale of Goods does not apply to these Terms or to any sale of goods carried out as a result of your use of the Service. Software related to or made available by the Service may be subject to export controls of the U.S., and, except as authorized by law, you agree and warrant not to export or re-export the software to any county, or to any person, entity, or end-user subject to U.S. export controls or sanctions.
 
 **F. Investigations; Cooperation with Law Enforcement.**
 
-A24 reserves the right to investigate and prosecute any suspected breaches of these Terms or the Service. A24 may disclose any information as necessary to satisfy any law, regulation, legal process or governmental request.
+We reserve the right to investigate and prosecute any suspected breaches of these Terms or the Service. We may disclose any information as necessary to satisfy any law, regulation, legal process or governmental request.
 
 **G. Submissions and Unsolicited Ideas Policies.**
 
-A24, and its affiliated and related entities, do not accept, review or consider submissions of any unsolicited materials, including, without limitation, ideas, concepts, suggestions, articles, pitch documents, treatments, scripts, etc. (**“Unsolicited Materials”**) of any nature whatsoever from third parties, as a matter of policy. Additionally, A24 does not forward or discuss any Unsolicited Materials with any third parties or keep any copies thereof.  
+We, and our affiliated and related entities, do not accept, review or consider submissions of any unsolicited materials, including, without limitation, ideas, concepts, suggestions, articles, pitch documents, treatments, scripts, etc. (**“Unsolicited Materials”**) of any nature whatsoever from third parties, as a matter of policy. Additionally, we do not forward or discuss any Unsolicited Materials with any third parties or keep any copies thereof.  
   
-Also, be advised that A24 is continuously developing projects independently and in conjunction with third parties and has adopted this policy in order to protect its interests in its own intellectual property, among other reasons. A24 hereby reserves all rights to develop any ideas conceived independently, either alone or with a third party, without obligation to you, even if such ideas are similar or identical to the ideas contained in any submission of Unsolicited Materials.
+Also, be advised that we are continuously developing projects independently and in conjunction with third parties and has adopted this policy in order to protect its interests in its own intellectual property, among other reasons. We hereby reserve all rights to develop any ideas conceived independently, either alone or with a third party, without obligation to you, even if such ideas are similar or identical to the ideas contained in any submission of Unsolicited Materials.
 
 17\. Contact Us.
 
-If you have any questions or comments about these Terms, please email us at [info@a24films.com](mailto: info@a24films.com). All legal notices to us must be mailed to: 1245 Broadway, 10th Floor, New York, New York 10001, ATTN: A24 Legal. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+If you have any questions or comments about these Terms, please email us at [info@a24films.com](mailto: info@a24films.com). All legal notices to us must be mailed to: P.O. Box 20417, New York, NY 10001, ATTN: A24 Legal. You agree that all agreements, notices, disclosures, and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
 * [Jobs](https://a24films.com/jobs)
 * [Shop](https://shop.a24films.com/)
