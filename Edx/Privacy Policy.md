@@ -8,16 +8,16 @@ Most popular programs
 
 * [![CS50's Introduction to Computer Science](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2Fda1b2400-322b-459b-97b0-0c557f05d017-a3d1899c3344.small.png&w=96&q=75)
     
-    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=7622c93a-8d54-4ff8-bbe5-4db8673d4c80)
+    CS50's Introduction to Computer ScienceHarvardX | Course](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?correlationId=ff643867-45a1-4238-a2d4-e55fed18b24d)
 * [![Artificial Intelligence: Implications for Business Strategy](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fcourse%2Fimage%2F32ab61e5-44b4-4316-ad59-9f04fc876e0a-aeb25306d62b.small.jpg&w=96&q=75)
     
-    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=edc2f282-8102-468b-b9e3-3fa258df80a7)
+    Artificial Intelligence: Implications for Business StrategyMIT Sloan School of Management | Executive Education](https://www.edx.org/executive-education/massachusetts-institute-of-technology-artificial-intelligence-implications-for-business-strategy?correlationId=8ffd4da9-ef82-4eff-90b5-67cd952c45fb)
 * [![Supply Chain Management](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F2fc3236d-78a9-45a1-8c0c-fc290e74259e-f3b970b5cd3a.jpg&w=96&q=75)
     
-    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=5e690090-5a00-4750-9456-59d43ded7591)
+    Supply Chain ManagementMITx | MicroMasters](https://www.edx.org/masters/micromasters/mitx-supply-chain-management?correlationId=2ea52508-7676-49f7-bf0a-82aff980646e)
 * [![Computer Science for Game Development](/_next/image?url=https%3A%2F%2Fprod-discovery.edx-cdn.org%2Fcdn-cgi%2Fimage%2Fwidth%3Dauto%2Cheight%3Dauto%2Cquality%3D75%2Cformat%3Dwebp%2Fmedia%2Fprograms%2Fcard_images%2F64b3c632-8610-4b17-9a48-9efee7fa3266-6a1e055774b4.jpg&w=96&q=75)
     
-    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=3dd67abc-4f8d-4348-b77b-92ad6b9919bc)
+    Computer Science for Game DevelopmentHarvardX | Professional Certificate](https://www.edx.org/certificates/professional-certificate/harvardx-computer-science-for-game-development?correlationId=b3d4c879-c462-423e-8be9-64cac6067a5d)
 
 Trending now
 
@@ -332,6 +332,17 @@ Browse Courses
 * [Learn Business Administration](https://www.edx.org/learn/business-administration)
 
 [see more Courses](https://www.edx.org/learn)
+
+Start a new career
+
+* [Coding Boot Camp](https://www.edx.org/boot-camps/coding)
+* [AI Boot Camp](https://www.edx.org/boot-camps/ai)
+* [Data Analytics Boot Camp](https://www.edx.org/boot-camps/data-analytics)
+* [Cybersecurity Boot Camp](https://www.edx.org/boot-camps/cybersecurity)
+* [Digital Marketing Boot Camp](https://www.edx.org/boot-camps/digital-marketing)
+* [UX/UI Boot Camp](https://www.edx.org/boot-camps/ux-ui-user-experience)
+
+[see more Boot Camps](https://www.edx.org/boot-camps)
 
 step-by-step guides
 
