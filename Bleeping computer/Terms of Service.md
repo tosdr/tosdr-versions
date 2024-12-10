@@ -36,18 +36,18 @@
         
         Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
     
+    * [![Microsoft 365 outage takes down Office web apps, admin center](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+    * [![Ditch annoying ads with this $10 lifetime AdGuard deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Ditch annoying ads with this $10 lifetime AdGuard deal](https://www.bleepingcomputer.com/offer/deals/ditch-annoying-ads-with-this-10-lifetime-adguard-deal/)
+    * [![Chinese hackers use Visual Studio Code tunnels for remote access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
     * [![Ransomware attack hits leading heart surgery device maker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
-    * [![OpenWrt Sysupgrade flaw let hackers push malicious firmware images](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        OpenWrt Sysupgrade flaw let hackers push malicious firmware images](https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/)
-    * [![Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
-    * [![Radiant links $50 million crypto heist to North Korean hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Radiant links $50 million crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
