@@ -10,10 +10,10 @@
         * [![sr](https://peaksel.com/wp-content/themes/peaksel/wpml/templates/language-switchers/peaksel-language-switcher/flags/sr.svg "српски")sr](https://peaksel.com/sr/politika-privatnosti/)
     
 
-* [Virtual Pet Games](http://peaksel.com/category/virtual-pet-games/)
+* [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
 * [Casual Games](http://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
 * [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
@@ -30,10 +30,10 @@
 * [Jobs](https://peaksel.com/jobs/)
 * [Contact Us](https://peaksel.com/contact/)
 
-* [Virtual Pet Games](http://peaksel.com/category/virtual-pet-games/)
+* [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
 * [Casual Games](http://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
 * [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
@@ -359,10 +359,10 @@ If a parent or guardian of a child under the age of 13 becomes aware that his/he
 
 #### Our portfolio
 
-* [Virtual Pet Games](http://peaksel.com/category/virtual-pet-games/)
+* [Virtual Pet Games](https://peaksel.com/category/virtual-pet-games/)
 * [Casual Games](http://peaksel.com/category/casual-games/)
 * [Quiz Games](https://peaksel.com/category/quiz-games/)
-* [Coloring Pages](http://peaksel.com/category/coloring-pages/)
+* [Coloring Pages](https://peaksel.com/category/coloring-pages/)
 * [Math Games](https://peaksel.com/category/math-games/)
 * [Escape Games](http://peaksel.com/category/escape-games/)
 * [Ringtones](https://peaksel.com/category/ringtones/)
