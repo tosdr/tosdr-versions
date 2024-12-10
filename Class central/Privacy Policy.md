@@ -412,9 +412,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 Most common
 
-1. python
+1. excel
     
-2. sql
+2. French
     
 3. trading
     
