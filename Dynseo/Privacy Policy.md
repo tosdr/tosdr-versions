@@ -1,7 +1,3 @@
-![loader image](https://www.dynseo.com/wp-content/uploads/2024/09/ezgif.com-animated-gif-maker-5.gif)
-
-Close
-
  ![logo](https://www.dynseo.com/wp-content/uploads/2024/01/logo.jpg)
 
 * [Home](https://www.dynseo.com/en/)
@@ -127,8 +123,6 @@ All Internet user dispose of the right of objection (Article 38 of the above-men
 * [Privacy Policy – DYNSEO](https://www.dynseo.com/en/privacy-policy/)
 
 DYNSEO 2013 - 2022
-
-    
 
  
 
