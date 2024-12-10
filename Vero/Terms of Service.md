@@ -1,20 +1,62 @@
-[![VERO™](//images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1602236999540-1M6TNC9GRULGLJLPNBDD/VERO_LOGO_WHITE.png)](https://vero.co/)
+[0](https://vero.co/cart)
 
-[](https://vero.co/search)
+[Skip to Content](#page)
 
-[The App](https://vero.co/) [Values](https://vero.co/values) [Newsroom](https://vero.co/site/newsroom) [Creators](https://vero.co/site/creators)
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/ca932f80-a267-41a0-a81b-8ee47c3f2d3a/VERO_Logo-White-RGB.png?format=1500w)](https://vero.co/)
 
-[Get the App](https://vero.co/site/get-the-app)
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/108ab1b6-3d7b-40e5-b5c4-179dc0c7063a/VERO_Icon_Regular_Green.png?format=1500w)](https://vero.co/)
 
-[The App](https://vero.co/)[Values](https://vero.co/values)[Newsroom](https://vero.co/site/newsroom)[Creators](https://vero.co/site/creators)
+[Home](https://vero.co/)
 
-[![VERO™](//images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1602236999540-1M6TNC9GRULGLJLPNBDD/VERO_LOGO_WHITE.png)](https://vero.co/)
+[Social](https://vero.co/site/social)
 
-True Social
+[CoFi](https://vero.co/site/community-finance-overview)
 
-[Get the App](https://vero.co/site/get-the-app)
+[Tokenise](https://vero.co/site/tokenise-stock-exchange)
 
-Scroll
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
+
+Open Menu Close Menu
+
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/ca932f80-a267-41a0-a81b-8ee47c3f2d3a/VERO_Logo-White-RGB.png?format=1500w)](https://vero.co/)
+
+ [![VERO™&mdash;The Social Membership Network](//images.squarespace-cdn.com/content/v1/66fba1da40cd200628b9ca62/108ab1b6-3d7b-40e5-b5c4-179dc0c7063a/VERO_Icon_Regular_Green.png?format=1500w)](https://vero.co/)
+
+[Home](https://vero.co/)
+
+[Social](https://vero.co/site/social)
+
+[CoFi](https://vero.co/site/community-finance-overview)
+
+[Tokenise](https://vero.co/site/tokenise-stock-exchange)
+
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
+
+Open Menu Close Menu
+
+[Home](https://vero.co/)
+
+[Social](https://vero.co/site/social)
+
+[CoFi](https://vero.co/site/community-finance-overview)
+
+[Folder: Tokenise](https://vero.co/site/tokenise-stock-exchange)
+
+[Back](https://vero.co/)
+
+[Stock Exchange](https://vero.co/site/tokenise-stock-exchange-overview)
+
+[Tokenise as a Service](https://vero.co/site/taas)
+
+[Get The App](https://vero.co/site/get-the-app)
 
 Terms of Use Agreement
 ======================
@@ -35,8 +77,6 @@ PLEASE READ THE FOLLOWING TERMS OF USE AGREEMENT CAREFULLY TO ENSURE THAT YOU UN
 
 ### **Before using our Service, please make sure you read all of the terms of this Agreement. Once you begin accessing or using our Service, you’ve made a contract with Vero and agreed to all the terms of this Agreement - even if you’re just visiting the public part of the Service.**
 
-* * *
-
 **Legal Terms of Use**
 
 Use of Our Service  
@@ -45,9 +85,7 @@ Use of Our Service
 
 **What we're saying**
 
-### **You cannot use our Service if you are under 13 years old or if your use of the Service is prohibited by law. As long as you comply with the terms and conditions of this Agreement, you have our permission to use the Service.**
-
-* * *
+### **You cannot use our Service if you are under 13 years old or if your use of the Service is prohibited by law.As long as you comply with the terms and conditions of this Agreement, you have our permission to use the Service.**
 
 **Legal Terms of Use**
 
@@ -65,8 +103,6 @@ You may control your User profile and how you interact with the Service by chang
   
 When you sign up for an account, we ask you to select a strong password. Make sure you keep your password safe and don’t let anyone else use your account since you’ll be responsible for any and all activity that occurs under your account. If you think someone else has your password or is using your account, let us know as soon as possible so we can help protect your account.**
 
-* * *
-
 **Legal Terms of Use**
 
 **Service Rules**  
@@ -77,8 +113,6 @@ Accessing any audiovisual content that may be available on the Service for any p
 **What we're saying**
 
 ### **This Section contains our rules for using the Service. Please review and make sure you do not engage in any of these prohibited activities. Taking part in or assisting any third party in taking part in any of these prohibited activities may result in the termination of your account by Vero, in addition to any other remedies available to Vero.**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -93,8 +127,6 @@ If you use the Service to communicate or administer a promotion (e.g., a contest
   
 If you choose to run a contest or a promotion on the Service, then you are responsible for that promotion and ensuring it is run according to any applicable laws. You must make people aware that Vero does not sponsor your promotion unless we have officially agreed to do so.**
 
-* * *
-
 **Legal Terms of Use**
 
 **User Content Ownership and License**  
@@ -102,7 +134,7 @@ Some areas of the Service allow Users to post or provide content such as profile
   
 As between you and Vero, you retain any and all right, title and interest in and to THE User Content you create, post, or otherwise make available through the Service. We claim no ownership rights over your User Content.  
   
-In accordance with your choice of the privacy settings offered by the Service, and for as long as you have a VERO account, by posting or otherwise making available any User Content on or through the Service, you hereby grant, and you represent and warrant that you have all rights necessary to grant, to Vero a limited, royalty-free, sublicensable, transferable, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, publicly perform, publicly display, list information regarding, translate, distribute, syndicate, make derivative works of, or otherwise use your User Content, including (without limitation) your name, voice, and/or likeness as it is contained within your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed. **This license is being used by Vero solely as necessary to provide the Service, and for such other limited uses identified in our [Privacy Policy](https://vero.co/privacy-policy). This license is not being used by Vero to sell your User Content to third parties or otherwise profit off of your User Content in any way that would be unrelated to Vero providing and promoting the Service, and it does not give Vero any rights to own your User Content or limit your ability to use your User Content however you wish outside of the Service.**
+In accordance with your choice of the privacy settings offered by the Service, and for as long as you have a VERO account, by posting or otherwise making available any User Content on or through the Service, you hereby grant, and you represent and warrant that you have all rights necessary to grant, to Vero a limited, royalty-free, sublicensable, transferable, irrevocable, non-exclusive, worldwide license to use, reproduce, modify, publish, publicly perform, publicly display, list information regarding, translate, distribute, syndicate, make derivative works of, or otherwise use your User Content, including (without limitation) your name, voice, and/or likeness as it is contained within your User Content, in whole or in part, and in any form, media or technology, whether now known or hereafter developed. **This license is being used by Vero solely as necessary to provide the Service, and for such other limited uses identified in our** [**Privacy Policy**](https://vero.co/privacy-policy)**. This license is not being used by Vero to sell your User Content to third parties or otherwise profit off of your User Content in any way that would be unrelated to Vero providing and promoting the Service, and it does not give Vero any rights to own your User Content or limit your ability to use your User Content however you wish outside of the Service.**
 
 **What we're saying**
 
@@ -112,7 +144,7 @@ Again, we do not and will not own your content; however, since the Service is a 
   
 Digging deeper, here are some examples and more detailed explanations about the license you’re granting us in this Agreement:  
   
-****Royalty-Free:** To be a viable social network where you can provide and exchange your content without restriction, we need to be able to use your content without having to pay you a fee for each use.  
+Royalty-Free:** To be a viable social network where you can provide and exchange your content without restriction, we need to be able to use your content without having to pay you a fee for each use.  
   
 **Sublicensable:** Vero works with third parties to provide the Service and some of those service providers need access to your content to assist us in providing you the features and functionalities of the Service. As the saying goes, it takes a village.  
   
@@ -132,8 +164,6 @@ Digging deeper, here are some examples and more detailed explanations about the 
   
 **If you choose to run a contest or a promotion on the Service, then you are responsible for that promotion and ensuring it is run according to any applicable laws. You must make people aware that Vero does not sponsor your promotion unless we have officially agreed to do so.**
 
-* * *
-
 **Legal Terms of Use**
 
 The User Content you create remains yours; however, by providing User Content through the Service, you agree to allow others within the Service to view your User Content within the Service as permitted by the functionality of the Service, your settings and this Agreement. Vero has the right (but not the obligation) in its sole discretion to remove any User Content that is provided to the Service. You also hereby grant each User of the Service a non-exclusive license to access your User Content through the Service, and to use, reproduce, distribute, display and perform such User Content as permitted through the functionality of the Service and under this Agreement.  
@@ -145,8 +175,6 @@ You reserve all rights to your User Content not expressly granted in this Agreem
 ### **In addition to the rights you grant to us, when you post your content on the Service, it may be accessed and viewed by other users of the Service and the public (if you’ve made such content available to the public on the Service). As such, we need you to grant those other users and the public (as applicable) rights to access and view the content you post and share as permitted by the features and functionality of the Service.  
   
 WE REPEAT – YOUR CONTENT, NOT OURS. If anything in this section is unclear, please contact us at the email above and we will be happy to answer your question or resolve your concern.**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -174,8 +202,6 @@ Vero takes no responsibility and assumes no liability for any User Content that 
 When you post or share content on the Service – whether you own such content or it’s owned by someone else - you are responsible for getting the necessary permissions to do so. For example, if you post pictures of other people to the Service, you must get their permission or have the rights to use their image and to display it on the Service.  
   
 You are solely responsible for the content you post or share on the Service and for the content of other users you come across using the Service, so provide, create and browse wisely.**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -215,8 +241,6 @@ In accordance with the DMCA and other applicable law, Vero has adopted a policy 
 
 ### **We at Vero respect artists’ and content owners’ rights. If your rights are being infringed by the content on the Service, please notify us using the procedure in this Section.**
 
-* * *
-
 **Legal Terms of Use**
 
 **Mobile Software**  
@@ -231,8 +255,6 @@ In accordance with the DMCA and other applicable law, Vero has adopted a policy 
 ### **Our mobile application is available for download on the iTunes Store and Google Play, but Apple and Google have no obligations to you with regard to our mobile application. That said, you must download and use the mobile application in compliance with the iTunes Store and Google Play Terms of Service, depending on who you downloaded the mobile application from.  
   
 You’re responsible for any charges in connection with your use of our mobile application on your mobile device.**
-
-* * *
 
 **Legal Terms of Use**  
 
@@ -253,8 +275,6 @@ NOTWITHSTANDING ANY VALUE ATTRIBUTED TO SUCH DATA BY YOU OR ANY THIRD PARTY, YOU
   
 You may have thoughts and suggestions about the Service that you may want to provide to us. If you provide us feedback about the Service, then you gave it to us for free (thank you!) and we can use it to make Vero even better for all our users.**
 
-* * *
-
 **Legal Terms of Use**  
 
 **Paid Services**  
@@ -271,8 +291,6 @@ You may have thoughts and suggestions about the Service that you may want to pro
 **What we're saying**
 
 ### **If you are a paying member of the Service or you purchase any goods or services from Vero through the Service then this Section applies to you and you should read it carefully. If you live in California, please take note of the extra rules for our California resident users.**
-
-* * *
 
 **Legal Terms of Use**  
 
@@ -300,8 +318,6 @@ Unlike other social media companies, we treat the promotions and marketing of us
 
 ### **In addition to allowing our users to promote their goods and services, we also allow users to make their products and services available for purchase. When you purchase products or services from another user on the Service, you’re purchasing them directly from the selling user – not Vero. We are not involved in the manufacturing, distribution, or any other part of the creation or sale of those products or services. If you and the selling user have a disagreement about the sale, we may assist you, but it is ultimately between you and the selling user to resolve the dispute.**
 
-* * *
-
 **Legal Terms of Use**
 
 **Privacy**  
@@ -309,24 +325,20 @@ We care about the privacy of our Users. You understand that by accessing or usin
 
 **What we're saying**
 
-### **Please read our [Privacy Policy](https://vero.co/privacy-policy), which you are also agreeing to as part of this Agreement.**
+### **Please read our** [**Privacy Policy**](https://vero.co/privacy-policy)**, which you are also agreeing to as part of this Agreement.**
 
 **Security**  
 Vero cares about the integrity and security of your personal information. Vero uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information and implement your privacy settings. However, we cannot guarantee that unauthorized third parties will never be able to defeat our security measures or use your personal information for improper purposes. You acknowledge that you provide your personal information at your own risk.
 
 ### **We do our best to make sure the information you provide to us is protected, but no system is 100% safe.**
 
-* * *
-
 **Legal Terms of Use**
 
-Third-Party Links and Information The Service may contain links to third-party materials that are not owned or controlled by Vero. Vero does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access a third-party website or service from the Service or share your User Content on or through any third-party website or service, you do so at your own risk, and you understand that this Agreement and the Vero [Privacy Policy](https://vero.co/privacy-policy) do not apply to your use of such sites. You expressly relieve Vero from any and all liability arising from your use of any third-party website, service, or content, including without limitation User Content submitted by other Users.
+Third-Party Links and InformationThe Service may contain links to third-party materials that are not owned or controlled by Vero. Vero does not endorse or assume any responsibility for any such third-party sites, information, materials, products, or services. If you access a third-party website or service from the Service or share your User Content on or through any third-party website or service, you do so at your own risk, and you understand that this Agreement and the Vero [Privacy Policy](https://vero.co/privacy-policy) do not apply to your use of such sites. You expressly relieve Vero from any and all liability arising from your use of any third-party website, service, or content, including without limitation User Content submitted by other Users.
 
 **What we're saying**
 
-### **There are links to third-party sites on the Service, and those links will take you to other websites or services that are not governed by our Terms of Use or [Privacy Policy](https://vero.co/privacy-policy).**
-
-* * *
+### **There are links to third-party sites on the Service, and those links will take you to other websites or services that are not governed by our Terms of Use or** [**Privacy Policy**](https://vero.co/privacy-policy)**.**
 
 **Legal Terms of Use**
 
@@ -336,8 +348,6 @@ The VERO app integrates the respective application programming interfaces, data,
 **What we're saying**
 
 ### **The Service includes materials that other companies made and continue to make available to us. Those other companies do not endorse the Service, but they do have legal protections in the materials they have let us access and use. You must not violate those legal protections by copying or disclosing the material or removing any copyright mark of those other companies without our permission.**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -362,11 +372,10 @@ SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENT
   
 The Service is controlled and operated from facilities in the United States. Vero makes no representations that the Service is appropriate or available for use in other locations. Those who access or use the Service from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable United States and local laws and regulations, including but not limited to export and import regulations. You may not use the Service if you are a resident of a country embargoed by the United States, or are a foreign person or entity blocked or denied by the United States government. Unless otherwise explicitly stated, all materials found on the Service are solely directed to individuals, companies, or other entities located in the United States.
 
-**What we're saying**
+**What we're saying  
+**
 
 ### **This Section specifically limits our liability to you to the amount you paid us through the Service, requires you to indemnify us for your access and use of the Service and disclaims our other liabilities around the Service and around the content you provide and your use of the Service.**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -383,8 +392,6 @@ The Service is controlled and operated from facilities in the United States. Ver
   
 YOU ARE AGREEING TO A MANDATORY INDIVIDUAL ARBITRATION AND CLASS ACTION/JURY TRIAL WAIVER PROVISION THAT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE DISPUTES, RATHER THAN JURY TRIALS OR CLASS ACTIONS.**
 
-* * *
-
 **Legal Terms of Use**
 
 **Changes to the Service**  
@@ -393,15 +400,14 @@ We may, without prior notice, change the Service; stop providing the Service or 
 **Changes to the Agreement and Notice**  
 Vero may provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through posting of such notice on our website, as determined by Vero in our sole discretion. Vero reserves the right to determine the form and means of providing notifications to our Users, provided that you may opt out of certain means of notification as described in this Agreement. Vero is not responsible for any automatic filtering you or your network provider may apply to email notifications we send to the email address you provide us. Vero may, in its sole discretion, modify or update this Agreement from time to time, and so you should review this page periodically. When we change the Agreement in a material manner, we will update the ‘last modified’ date at the top of this page. Your continued use of the Service after any such change constitutes your acceptance of the new Terms of Use. If you do not agree to any of these terms or any future Terms of Use, do not use or access (or continue to access) the Service.
 
-**What we're saying**
+**What we're saying  
+**
 
 ### **We at Vero are constantly innovating, so we reserve the right to change, suspend or end any part of the Service for any or no reason without liability to our users. We do not plan to end any of our services, but to the extent we figure out there are new products we need to launch or products that are not working then we need the flexibility to turn features on and off to make Vero better.  
   
 We can also suspend or terminate your access to the Service at any time or for any reason, including if we determine you violated this Agreement. We don’t want to have to do this and this is just so we can keep Vero a safe community.  
   
 We may change this Agreement from time to time. Normally, these are unimportant changes so we just update the date at the bottom of this page and move on; however, if we change the Agreement in an important way, we will try to provide you notice of the change (which may include posting a notice on the Service or emailing you directly).**
-
-* * *
 
 **Legal Terms of Use**
 
@@ -418,38 +424,38 @@ We may change this Agreement from time to time. Normally, these are unimportant 
 
 * * *
 
-[Terms of Use](#vero-terms-of-use)
+**VERO Labs, Inc.**
 
-[![](https://images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1683032139371-EJXDIFM94SFJRJS8KDL8/Site_Badges_2023_bw_webby_nominee.png?format=300w)](https://winners.webbyawards.com/2023/apps-and-software/mobile-ott-app-features/best-user-interface/240027/vero-desktop-app)
-
-VERO Labs, Inc.
-
-228 Park Ave S, Suite 131065,
-
-New York, NY 10003-1502,
-
+228 Park Ave S, Suite 131065,  
+New York, NY 10003-1502,  
 USA
 
 [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection)
 
-Hours
+**Company**
 
-Company
+[Brand Resources](https://brand.vero.co/)
 
-[Mission](https://vero.co/vero-mission) [Brand Resources](https://brand.vero.co/) [Roadmap](https://vero.co/site/roadmap) [Charities & Merchants](https://vero.co/buy-now-and-donate-now) [Newsroom](https://vero.co/newsroom) [VERO Music](https://vero-music.com/)
+[VERO Music](https://vero-music.com/)
 
-Community
+**Community**
 
-[Creators](https://vero.co/site/creators) [Community Guidelines](https://vero.co/community-guidelines) [Support & Help](https://verohelp.zendesk.com/hc/en-us/) [Accessibility](https://vero.co/site/accessibility-statement) [FAQ](https://vero.co/vero-faq)
+[Community Guidelines](https://vero.co/community-guidelines)
 
-Legal
+[Support & Help](https://verohelp.zendesk.com/hc/en-us/)
 
-[Terms of Use](https://vero.co/terms-of-use) [Privacy Policy](https://vero.co/privacy-policy) [Manage Cookies](javascript:CookieScript.instance.show())
+[Accessibility](https://vero.co/site/accessibility-statement)
 
-Press
+[FAQ](https://vero.co/vero-faq)
+
+**Legal**
+
+[Terms of Use](https://vero.co/terms-of-use)
+
+[Privacy Policy](https://vero.co/privacy-policy)
+
+**Press**
 
 [\[email protected\]](https://vero.co/cdn-cgi/l/email-protection)
-
-[![VERO True Social](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17dc9382c1a34de57fcab/1604419019548/VERO.png?format=500w)](https://vero.co/vero) [![Twitter](https://images.squarespace-cdn.com/content/v1/5f7c384a84baca77989ffa54/1693232726246-ZXJP1X83ZDXP9ZK3X9GG/twitter-x-logo.png?format=500w)](https://twitter.com/verotruesocial) [![Youtube](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6c839fb6a8b5828d36c70/1657194553999/youtube_icon.png?format=500w)](https://www.youtube.com/c/VEROTrueSocial) [![Instagram](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17dcebedfd636590dab53/1604419024824/IG.png?format=500w)](https://www.instagram.com/verotruesocial/) [![Facebook](https://static1.squarespace.com/static/5e6112661523bf0fccefca4c/5e6112681523bf0fccefcba0/5fa17d8516e851246a43c2a9/1604418953036/FB.png?format=500w)](https://www.facebook.com/verotruesocial/) [![Apple Music](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6ca96c93e530bd971982f/1657195158281/apple_music_icon.png?format=500w)](https://bit.ly/NewMusicMoves_) [![Spotify](https://static1.squarespace.com/static/5f7c384a84baca77989ffa54/t/62c6c833aa0d8350b24c5773/1657194547372/spotify_icon.png?format=500w)](https://open.spotify.com/playlist/39wYpKaL1aaaSLF0M7DZaI?si=fb79bb11a2c24e64)
 
 © 2024 VERO Labs, Inc. All rights reserved.
