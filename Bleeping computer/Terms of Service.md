@@ -36,18 +36,18 @@
         
         Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
     
-    * [![Outdated Google Workspace Sync blocks Windows 11 24H2 upgrades](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Ransomware attack hits leading heart surgery device maker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Outdated Google Workspace Sync blocks Windows 11 24H2 upgrades](https://www.bleepingcomputer.com/news/microsoft/outdated-google-workspace-sync-blocks-windows-11-24h2-upgrades/)
-    * [![Cybercrime gang arrested after turning Airbnbs into fraud centers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
+    * [![OpenWrt Sysupgrade flaw let hackers push malicious firmware images](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Cybercrime gang arrested after turning Airbnbs into fraud centers](https://www.bleepingcomputer.com/news/security/cybercrime-gang-arrested-after-turning-airbnbs-into-fraud-centers/)
-    * [![Romanian energy supplier Electrica hit by ransomware attack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        OpenWrt Sysupgrade flaw let hackers push malicious firmware images](https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/)
+    * [![Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Romanian energy supplier Electrica hit by ransomware attack](https://www.bleepingcomputer.com/news/security/romanian-energy-supplier-electrica-hit-by-ransomware-attack/)
-    * [![Automate Windows with this $15 PowerShell course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
+    * [![Radiant links $50 million crypto heist to North Korean hackers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Automate Windows with this $15 PowerShell course bundle deal](https://www.bleepingcomputer.com/offer/deals/automate-windows-with-this-15-powershell-course-bundle-deal/)
+        Radiant links $50 million crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Crypto hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Crypto-stealing malware posing as a meeting app targets Web3 pros](https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
-* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
 * [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
+* [![Windows 11 Recall](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Microsoft expands Recall preview to Intel and AMD Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-recall-preview-to-intel-and-amd-copilot-plus-pcs/)
 
 ##### Follow us:
 
