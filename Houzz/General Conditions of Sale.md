@@ -663,7 +663,7 @@ Houzz Pro: One simple solution for contractors and design pros
 
 [History of Houzz](https://www.houzz.com/houzz-historyzz)
 
-![Houzz Logo Print](//www.houzz.com/res/28877658/pic/houzz_logo.svg?v=28877658)
+![Houzz Logo Print](//www.houzz.com/res/28896143/pic/houzz_logo.svg?v=28896143)
 
 Houzz Return Policy
 ===================
