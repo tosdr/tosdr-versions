@@ -8,10 +8,10 @@
 
 *  
     
-* [House of Representatives](https://www.motherjones.com/politics/2024/12/derek-tran-michelle-steel-elon-musk/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-just-provided-details-for-his-dystopic-and-sweeping-presidential-agenda/)
-* [Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/)
-* [South Korea](https://www.motherjones.com/politics/2024/12/vote-to-impeach-south-korean-president-fails-after-martial-law-declaration/)
+* [DOGE](https://www.motherjones.com/politics/2024/12/doge-elon-musk-vivek-ramaswamy-department-government-inefficiency-waste-federal-spending-deficit-reduction/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-war-on-science-researchers-jobs-scientists/)
+* [Mass Deportation](https://www.motherjones.com/politics/2024/12/trump-60-minutes-birthright-citizenship-mass-deportatio-families-together-american-citizens/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-fbi-donald-trump-russia-scandal-putin-useful-idiot/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [House of Representatives](https://www.motherjones.com/politics/2024/12/derek-tran-michelle-steel-elon-musk/)
-* [Trump](https://www.motherjones.com/politics/2024/12/trump-just-provided-details-for-his-dystopic-and-sweeping-presidential-agenda/)
-* [Bird Flu](https://www.motherjones.com/politics/2024/12/usda-to-require-testing-of-milk-to-monitor-spread-of-bird-flu/)
-* [South Korea](https://www.motherjones.com/politics/2024/12/vote-to-impeach-south-korean-president-fails-after-martial-law-declaration/)
+* [DOGE](https://www.motherjones.com/politics/2024/12/doge-elon-musk-vivek-ramaswamy-department-government-inefficiency-waste-federal-spending-deficit-reduction/)
+* [Trump](https://www.motherjones.com/politics/2024/12/trump-war-on-science-researchers-jobs-scientists/)
+* [Mass Deportation](https://www.motherjones.com/politics/2024/12/trump-60-minutes-birthright-citizenship-mass-deportatio-families-together-american-citizens/)
+* [Kash Patel](https://www.motherjones.com/politics/2024/12/kash-patel-fbi-donald-trump-russia-scandal-putin-useful-idiot/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
