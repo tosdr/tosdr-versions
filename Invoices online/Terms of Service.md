@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Hugo van Sittert
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=129772302)  
-VerdanTech Pty Ltd
+![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=97731304)  
+Salt & Pepper Guest Accommodation (Pty) Ltd.
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=191415811)  
-Digifax Pty) Ltd t/a Findfish
+![valued client CHARLIEX CONSTRUCTIONS](https://www.invoicesonline.co.za/scripts/image.php?bid=4959&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=184444499)  
+CHARLIEX CONSTRUCTIONS
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=59876670)  
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=37738618)  
+Nogana Events and Decor
+
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=96340210)  
+Lemba Truck Stop
+
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=204486160)  
+MONSTER SECURITY GUARDING
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=55902821)  
+Cape Adventure Zone
+
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=15490793)  
+Prosper Park
+
+![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=74775706)  
+FLIPS AUTO ELECTRICAL
+
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=210036870)  
+MONSTER SECURITY SERVICES (NORTHAM)
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=2199354)  
+OrgChart Hosting Pty Ltd
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=149388362)  
+VIV'S TRUCKS (Pty) Ltd. (117)
+
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=158890284)  
 Sophia's Roses
 
-![valued client CBR PAINTS / VERWE](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=25267399)  
-CBR PAINTS / VERWE
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=155014037)  
+Vplay Letsheng Mall
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=36120738)  
-Entidee Enterprise PTY (ltd)
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=71307704)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=111130415)  
-Network Grey (Pty) Ltd
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=206493529)  
-Multi CNC Solutions CC
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=3914728)  
-Environment Friendly Toilets (Pty) Ltd
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=144838135)  
-Myfinance-Online
-
-![valued client NC Labour Hire](https://www.invoicesonline.co.za/scripts/image.php?bid=8545&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=20464036)  
-NC Labour Hire
-
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=105027318)  
-CGHK Enterprises (PTY) LTD
-
-![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=18158181)  
-One2b
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=198292115)  
-Website Café (PTY) LTD
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=16359130)  
-MONSTER SECURITY SERVICES
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=f5e293b5f2c46d972c40df725378196584666d885167c5daa693e2386995daef&c=166557167)  
-BD Maintenance
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=019ed2a5aafaccc62424c81fb4b080206199b16f2e97ddf5a67f3d8021933e85&c=86134188)  
+SAUL ATHOL ACRES RENTAL
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
