@@ -385,7 +385,7 @@ Search
 
 Enter Keyword or Item No.  Search Clear
 
-Free Shipping on Orders $99+. [Learn More.](https://www.weber.com/US/en/shippingandreturns.html)
+Holiday Shipping Cut Off. [Learn More.](https://www.weber.com/US/en/shippingandreturns.html)
 
 Shopping Cart
 -------------
