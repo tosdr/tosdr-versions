@@ -1,7 +1,7 @@
 ![](pan1.gif)  
   
   
-131,763 members - 452,822,183 ads shown  
+131,764 members - 452,824,445 ads shown  
   
 GET "LAYERED" ADVERTISING FROM 1 CLICK!  
   
@@ -44,7 +44,7 @@ CREATE ACCOUNT
 WHAT IS LAYERED ADVERTISING?  
 This uses just ONE step to explode multiple ads out all at once, including: your email ad and post a banner ad all with just one click. No credits to assign, no hassles, so this is a serious time saver!  
   
-You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,763 MEMBERS!  
+You just pick your email ad and send it out to other members. These members ARE your target audience as they ARE interested in the same thing as you are. They join programs, need advertising for them and tools. YOUR ADS WILL BE SENT UP TO 131,764 MEMBERS!  
   
   
 
@@ -55,13 +55,13 @@ Sometimes spelled Pangaea, was a single land mass 300 million years ago. All of 
 
 paid member banners
 
-[![](https://cdn.freelistmonster.com/b/125x125b.png)](https://www.freelistmonster.com/?u=1412&js=email2)
-
 [![](https://easyadlinks.com/getimg.php?id=6)](https://easyadlinks.com/?rid=11)
 
-[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
+[![](https://actualhits4u.com/getimg.php?id=1)](https://actualhits4u.com/?rid=11919)
 
-[![](https://10bucks2wealth.com/ban1.gif)](https://10bucks2wealth.com/?nick57du)
+[![](https://submitads4free.com/getimg.php?id=11)](https://submitads4free.com/?rid=2636)
+
+[![](https://e-links.pro/smban1.gif)](https://e-links.pro/romanjeff)
 
 ![](26yrs0.gif)
 
