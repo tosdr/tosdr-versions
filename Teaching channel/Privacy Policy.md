@@ -539,9 +539,3 @@ You can also send an email to: [\[email protected\]](https://www.teachingchann
 What are you looking for?
 
  Search
-
-This site uses cookies to enhance user experience, analyze site usage and provide a personalized browsing experience. By continuing to use this site, you are giving us your consent to do this. Learn more about cookies by visiting our [privacy policy](https://www.teachingchannel.com/privacy-policy/#cookies) page.
-
-[Learn More](https://www.teachingchannel.com/privacy-policy/#cookies)[I Agree](https://www.teachingchannel.com/)
-
-[Ok](#)
