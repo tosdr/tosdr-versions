@@ -41,49 +41,49 @@ YOUR OFFERS
     
     14-Day Returns
     
-    * ![](//www.aventon.com/cdn/shop/files/ramblas-emtb-borealis-navigation.jpg?v=1709008158&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/EMTB.jpg?v=1733781577&width=288)
         
         eMTB Mid-Drive NEW
         
         Nowhere it can’t go.
         
-    * ![](//www.aventon.com/cdn/shop/files/level-2-ebike-glacier-nav.jpg?v=1684877765&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Commuter_dea221cb-0fa3-40f5-8db9-5f0225129148.jpg?v=1733785610&width=288)
         
         Commuter
         
         It's part of the job.
         
-    * ![](//www.aventon.com/cdn/shop/files/aventure-ebike-camo-nav.jpg?v=1684877938&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Fat_Tire.jpg?v=1733781635&width=288)
         
         Fat Tire, Off Road
         
         No roads necessary.
         
-    * ![Folding Electric Bike](//www.aventon.com/cdn/shop/files/folding-ebike-nav_fceed615-c886-4bc5-a1e1-8c14f4766f62.jpg?v=1692137860&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Folding_A_437799d1-e385-47a4-a620-cef204dad76f.jpg?v=1733785581&width=288)
         
         Folding
         
         It fits where most can't.
         
-    * ![](//www.aventon.com/cdn/shop/files/pace--500-camo-traditional-01.jpg?v=1712166118&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Cruise_d80894c8-b654-4060-a480-675aedc3cb53.jpg?v=1733785672&width=288)
         
         Cruise
         
         Leisure in motion.
         
-    * ![](//www.aventon.com/cdn/shop/files/pace--500-white-step-through-01.jpg?v=1712166043&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/BR508686-_1.jpg?v=1733782992&width=288)
         
         Step-Through
         
         Saddle up with ease.
         
-    * ![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Cargo.jpg?v=1733781544&width=288)
         
         Cargo & Utility NEW
         
         Hauls what most won’t.
         
-    * ![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
+    * ![](//www.aventon.com/cdn/shop/files/Lightweight.jpg?v=1733781561&width=288)
         
         Lightweight
         
@@ -382,42 +382,42 @@ Open menu
     
     14-Day Returns
     
-    * [![](//www.aventon.com/cdn/shop/files/ramblas-emtb-borealis-navigation.jpg?v=1709008158&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/EMTB.jpg?v=1733781577&width=288)
         
         eMTB Mid-Drive NEW
         
         Nowhere it can’t go.](https://www.aventon.com/collections/emtb)
-    * [![](//www.aventon.com/cdn/shop/files/level-2-ebike-glacier-nav.jpg?v=1684877765&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Commuter_dea221cb-0fa3-40f5-8db9-5f0225129148.jpg?v=1733785610&width=288)
         
         Commuter
         
         It's part of the job.](https://www.aventon.com/collections/electric-commuter-bike)
-    * [![](//www.aventon.com/cdn/shop/files/aventure-ebike-camo-nav.jpg?v=1684877938&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Fat_Tire.jpg?v=1733781635&width=288)
         
         Fat Tire, Off Road
         
         No roads necessary.](https://www.aventon.com/collections/fat-tire-electric-bike)
-    * [![Folding Electric Bike](//www.aventon.com/cdn/shop/files/folding-ebike-nav_fceed615-c886-4bc5-a1e1-8c14f4766f62.jpg?v=1692137860&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Folding_A_437799d1-e385-47a4-a620-cef204dad76f.jpg?v=1733785581&width=288)
         
         Folding
         
         It fits where most can't.](https://www.aventon.com/collections/folding-electric-bike)
-    * [![](//www.aventon.com/cdn/shop/files/pace--500-camo-traditional-01.jpg?v=1712166118&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Cruise_d80894c8-b654-4060-a480-675aedc3cb53.jpg?v=1733785672&width=288)
         
         Cruise
         
         Leisure in motion.](https://www.aventon.com/collections/electric-cruiser-bike)
-    * [![](//www.aventon.com/cdn/shop/files/pace--500-white-step-through-01.jpg?v=1712166043&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/BR508686-_1.jpg?v=1733782992&width=288)
         
         Step-Through
         
         Saddle up with ease.](https://www.aventon.com/collections/step-through-electric-bike)
-    * [![Abound SR Cobalt SKUs: 1E054-0023803](//www.aventon.com/cdn/shop/files/01_Abound-SR_Cobalt-Blue_Side_1-bike.jpg?v=1726696006&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Cargo.jpg?v=1733781544&width=288)
         
         Cargo & Utility NEW
         
         Hauls what most won’t.](https://www.aventon.com/collections/cargo-ebikes)
-    * [![Light weight ebike](//www.aventon.com/cdn/shop/files/light-weight-ebike-nav.jpg?v=1692137504&width=288)
+    * [![](//www.aventon.com/cdn/shop/files/Lightweight.jpg?v=1733781561&width=288)
         
         Lightweight
         
