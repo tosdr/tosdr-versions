@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
+ [![Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/luigimangione.jpg?ve=1&tl=1)
 
- ![UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-person-interest)
+ ![Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/luigimangione.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
 
-### [UnitedHealthcare CEO killing: 'Person of interest' arrested Monday](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-person-interest)
+### [Who is Luigi Mangione? Person of interest in CEO killing investigation from prominent family](https://www.fox4news.com/news/luigi-mangione-ceo-shooter-custody-suspect)
 
- [![Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1)
+ [![Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1)
 
- ![Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+ ![Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://images.foxtv.com/images.foxtv.com/static.fox5ny.com/www.fox5ny.com/content/uploads/2024/12/32/18/592/333/ceo-killed-perp-walk-2box.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
-### [Luigi Mangione, suspect in CEO killing, arrested with ghost gun, documents: Latest updates](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
+### [Luigi Mangione, Suspect in killing of UnitedHealthcare CEO charged with murder](https://www.fox4news.com/news/nyc-unitedhealthcare-ceo-brian-thompson-murder-shooting-suspect)
 
- [![Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/kst-dallas-robots-refeed-pkg_kdfw96e3_186_mp4_00.00.23.10.jpg?ve=1&tl=1)
+ [![Lewisville ISD votes to close 5 elementary schools](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.01.27.14.jpg?ve=1&tl=1)
 
- ![Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/kst-dallas-robots-refeed-pkg_kdfw96e3_186_mp4_00.00.23.10.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/self-driving-robots-hitting-downtown-dallas-streets-uber-eats-deliveries)
+ ![Lewisville ISD votes to close 5 elementary schools](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111124-lewisville-isd-school-closures-qt-9p-pkg_kd_00.01.27.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/lewisville-isd-make-decision-closing-5-elementary-schools)
 
-### [Self-driving robots hitting Downtown Dallas streets for Uber Eats deliveries](https://www.fox4news.com/news/self-driving-robots-hitting-downtown-dallas-streets-uber-eats-deliveries)
+### [Lewisville ISD votes to close 5 elementary schools](https://www.fox4news.com/news/lewisville-isd-make-decision-closing-5-elementary-schools)
 
- [![2 Texas lawmakers both claiming to be the next House speaker](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/v-steven-texas-speaker-race-4p_00.00.03.50.jpg?ve=1&tl=1)
+ [![McLaren split in half by tree in Dallas crash that kills 2](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/abrams-crash.png?ve=1&tl=1)
 
- ![2 Texas lawmakers both claiming to be the next House speaker](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/v-steven-texas-speaker-race-4p_00.00.03.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-house-speaker-david-cook-dustin-burrows)
+ ![McLaren split in half by tree in Dallas crash that kills 2](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/abrams-crash.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
 
-### [2 Texas lawmakers both claiming to be the next House speaker](https://www.fox4news.com/news/texas-house-speaker-david-cook-dustin-burrows)
+### [McLaren split in half by tree in Dallas crash that kills 2](https://www.fox4news.com/news/sports-car-abrams-road-crash-lake-highlands)
 
- [![Terrell police officer shot and killed after pulling over truck with expired plates](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/terrell-officer-killed.jpg?ve=1&tl=1)
+ [![UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1)
 
- ![Terrell police officer shot and killed after pulling over truck with expired plates](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/12/32/18/592/333/terrell-officer-killed.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+ ![UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/12/32/18/592/333/vlcsnap-2024-12-09-17h31m19s067.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
 
-### [Terrell police officer shot and killed after pulling over truck with expired plates](https://www.fox4news.com/news/terrell-police-officer-shot-killed)
+### [UnitedHealthcare CEO killing: Suspect arrested, charged on Monday](https://www.fox4news.com/news/unitedhealthcare-ceo-shooting-arrest-charged-dec-9-2024)
 
 ###### [News](https://www.fox4news.com/news)
 
