@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/f28759dc-de8e-4c9a-b9a0-411cb7e3809c/20241209T231231/f28759dc-de8e-4c9a-b9a0-411cb7e3809c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/f28759dc-de8e-4c9a-b9a0-411cb7e3809c/20241209T231231/f28759dc-de8e-4c9a-b9a0-411cb7e3809c_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
         
-        #### [Another big drop in temperatures ahead following this warm stretch](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A brushfire in Malibu prompts evacuations as it burns near Pepperdine University](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e/20240714T184429/ef1fe405-243f-48a0-a30f-7fa2b0ecf28e_360x203.jpg)](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/8723cc45-cf1a-4b68-9b53-bcef593569b2/20241210T131424/8723cc45-cf1a-4b68-9b53-bcef593569b2_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Weather Impact Alert issued for Thursday, Dec. 12 due to dangerously low wind chills](https://www.wqad.com/article/weather/weather-impact/quad-cities-davenport-moline-weather-wind-chill-impact-alert-cold-temperatures/526-19b4b966-eb08-4210-8ec0-32e337ffddd2)
+        #### [Weather Impact Alert: Coldest air of the season so far arrives Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-28°
+29°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
