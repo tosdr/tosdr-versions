@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=190974182)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=175532637)  
+Electro-Heat
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=93633260)  
-West Coast Horse Trails
+![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=142333264)  
+Meyer Towing & Recovery
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=207111565)  
-OrgChart Hosting Pty Ltd
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=146983109)  
+TurboFibre
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=29682218)  
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=74649385)  
+Goju-Ryu Pretoria East
+
+![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=2600000)  
+SafeTclip
+
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=121619499)  
+Chiron Medical Solutions
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=108882574)  
 J.M. HUMAN RESOURCES
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=144257960)  
-Gemini-IT Group
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=105353534)  
+ELLIE'S CLEANING CHICKS
 
-![valued client van Schaik rentals](https://www.invoicesonline.co.za/scripts/image.php?bid=8591&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=194345483)  
-van Schaik rentals
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=189883919)  
+The Gourmet Artisans Ltd.
 
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=113561212)  
-Qothiphango Mining
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=25678936)  
+KTEN PARTS
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=205863210)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=22301572)  
+Firstweb Hosting & Design
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=125287505)  
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=143705557)  
 Depot Diesel (Pty) Ltd
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=58892101)  
-Abandoned Vehicle and Truck Solutions
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=99141006)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=17615163)  
-Tantra Sound and Lightz
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=185748649)  
+Konsortium Operations (PTY) LTD
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=134868248)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=164701308)  
-Redlum Group (Pty) Ltd
-
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=174017466)  
-Xpress Designs
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=848ddbbb96db3cdfd297365380ecffa7a1cb03aad6d1801fb6e2f8c7e6608f3c&c=134236807)  
-Lily Fern & Co
+![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=3dd9dae8715122e37637a4db483aeb45b3627824a3058d77fb2acc7d747160e0&c=38821027)  
+webb it services
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
