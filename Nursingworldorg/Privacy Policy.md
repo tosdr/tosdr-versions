@@ -20,7 +20,7 @@ If you desire to exercise any of your rights under GDPR, please contact the ANA 
 > ANA Enterprise  
 > Office of General Counsel  
 > Attn: Data Protection Officer  
-> 8515 Georgia Ave., Suite 400  
+> 8403 Colesville Road, Suite 500  
 > Silver Spring, MD 20910  
 > United States of America  
 > Telephone: +1-301-628-5000  
@@ -143,7 +143,7 @@ Your privacy is important to the ANA Enterprise. If you have any questions or co
 > ANA Enterprise  
 > Office of General Counsel  
 > Attn: Data Privacy and Security Officer  
-> 8515 Georgia Ave., Suite 400  
+> 8403 Colesville Road, Suite 500  
 > Silver Spring, MD 20910  
 > United States of America  
 > Telephone: +1-301-628-5000  
