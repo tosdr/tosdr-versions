@@ -135,9 +135,9 @@ Identifies popular characters or artworks in visuals across IP domains](https://
 
 Generate images using text prompts](https://thehive.ai/apis/image-generation)
 
-[Image and Video Captioning
+[Multimodal Language Model
 
-Generate descriptions and ask questions about image and video details](https://thehive.ai/apis/image-video-captioning)
+Generate descriptions and ask questions about image and video details](https://thehive.ai/apis/multimodal-language-model)
 
 [Text Generation
 
