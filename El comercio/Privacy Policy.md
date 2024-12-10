@@ -31,6 +31,205 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ruta Viva cerrada parcialmente por siniestro de tránsito, en Quito
+==================================================================
+
+El Cuerpo de Bomberos brinda atención de primeros auxilios a dos personas afectadas en el choque de la Ruta Viva
+----------------------------------------------------------------------------------------------------------------
+
+![Bomberos brindan atención a los afectados](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T081610.451.jpg)
+
+El **Cuerpo de Bomberos Quito** informó este martes 10 de diciembre de 2024 sobre la atención a personas afectadas en un siniestro de tránsito en la **Ruta Viva.**
+
+### Más noticias
+
+* [Daniel Noboa anunció el fin de los apagones en Ecuador](https://www.elcomercio.com/actualidad/negocios/daniel-noboa-anuncio-fin-apagones-ecuador.html "Daniel Noboa anunció el fin de los apagones en Ecuador")
+* [Cortes de luz en Quito para este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-10-diciembre.html "Cortes de luz en Quito para este martes 10 de diciembre")
+* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
+
+El siniestro de tránsito
+------------------------
+
+En la mañana de este 10 de diciembre, un **siniestro de tránsito** se registró en la **Ruta Viva,** a la altura del sector de Lumbisí, en sentido sur-norte.
+
+El personal de**l Cuerpo de Bomberos** brinda atención a las personas afectadas en esta emergencia en la vía. Los paramédicos dan atención prehospitalaria **a dos personas** y evaluarán su estado de salud.
+
+Agentes de la AMT **cerraron dos carriles** de la vía en sentido Aeropuerto – Quito mientras se solventa la emergencia.
+
+Si necesitas circular por el sector puedes [tomar las vías](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito"):
+
+* Intervalles
+* Interoceánica
+
+> 💥🚗 [#Ahora](https://twitter.com/hashtag/Ahora?src=hash&ref_src=twsrc%5Etfw) | Siniestro de tránsito en la Ruta Viva, sector Lumbisí, sentido sur – norte.  
+>   
+> 🚑 Nuestro equipo brinda atención prehospitalaria a dos personas afectadas.  
+>   
+> 🚧 La vía se encuentra parcialmente habilitada. Conduce con precaución.[#BomberosQuito](https://twitter.com/hashtag/BomberosQuito?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/YkKxAUPLD3](https://t.co/YkKxAUPLD3)
+> 
+> — Bomberos Quito (@BomberosQuito) [December 10, 2024](https://twitter.com/BomberosQuito/status/1866463460193657161?ref_src=twsrc%5Etfw)
+
+_**Noticia en desarrollo…**_
+
+Lula está operado de una hemorragia intracraneal
+================================================
+
+Luiz Inácio Lula da Silva acudió a un centro médico con un dolor de cabeza. Luego de una resonancia, se le detectó la hemorragia
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El presidente de Brasil, Luiz Inácio Lula da Silva, asiste a la cumbre semestral de presidentes de los países del Mercosur este viernes, en Montevideo (Uruguay).](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-10T073932.356.jpg)
+
+El presidente de Brasil, **Luiz Inácio Lula da Silva,** se sometió a una intervención quirúrgica para drenar una hemorragia intracraneal. Esta hemorragia es una **consecuencia de la caída** que sufrió el pasado 19 de octubre, informó este martes el centro médico.
+
+### Más noticias
+
+* [Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden](https://www.elcomercio.com/actualidad/mundo/defensa-de-trump-pide-desestimar-su-caso-en-nueva-york-tras-indulto-al-hijo-de-biden.html "Defensa de Trump pide desestimar su caso en Nueva York tras indulto al hijo de Biden")
+* [Sheinbaum, Netanyahu, Musk y Trump, entre los candidatos a ‘persona del año’](https://www.elcomercio.com/actualidad/mundo/sheinbaum-netanyahu-musk-trump-candidatos-persona-ano.html "Sheinbaum, Netanyahu, Musk y Trump, entre los candidatos a ‘persona del año’")
+* [Yamandú Orsi es el nuevo presidente de Uruguay](https://www.elcomercio.com/actualidad/mundo/orsi-gana-las-elecciones-en-un-uruguay-que-da-una-nueva-muestra-de-civilidad-democratica.html "Yamandú Orsi es el nuevo presidente de Uruguay")
+
+La cirugía de Lula
+------------------
+
+La **cirugía** se desarrolló “sin problemas” y **Lula se encuentra “bien”** en la unidad de cuidados intensivos del Hospital Sírio-Libanés, en São Paulo. Así informaron con un boletín divulgado en las redes sociales del mandatario.
+
+El líder progresista brasileño, de 79 años, acudió la noche del lunes a un centro médico en Brasilia por “un dolor de cabeza”. Tras realizarle una **resonancia magnética,** le fue detectada “una hemorragia intracraneal”.
+
+El Jefe de Estado fue entonce**s trasladado de urgencia** a la ciudad de São Paulo, donde pasó por el quirófano para drenarle el hematoma detectado en la cabeza.
+
+“La cirugía transcurrió sin problemas y, en este momento, **el presidente se encuentra bien**, bajo monitoreo, en una cama de cuidados intensivos”, señaló el centro médico.
+
+El hospital informó que en la mañana de este martes realizará una rueda de prensa con los médicos responsables para actualizar **el cuadro de salud de Lula.**
+
+La hemorragia se derivó de una caída
+------------------------------------
+
+El boletín especifica que **la hemorragia es reflejo de la caída** que sufrió el pasado 19 de octubre en el Palacio de la Alvorada, residencia oficial de la Presidencia brasileña, en Brasilia. Por esa caída hubo que darle cinco puntos de **sutura en la nuca.**
+
+Durante las siguientes semanas **pasó por diversas revisiones** sin mayores problemas, aunque los médicos le impidieron viajar en avión durante un tiempo por precaución.
+
+De hecho, tuvo que cancelar su viaje a Rusia, a finales de octubre, para participar en la cumbre del grupo de los BRICS**. Una vez recibió el alta**, retomó sus viajes con normalidad.
+
+Lula, en el poder desde el 1 de enero de 2023, viene de una intensa agenda de trabajo en noviembre y los primeros días de diciembre. Después de ser el anfitrión **en Río de Janeiro** de la cumbre de líderes del G20 y viajar a Montevideo para la reunión semestral de [presidentes del Mercosur.](https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva "https://es.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva")  
+
+Daniel Noboa anunció el fin de los apagones en Ecuador
+======================================================
+
+La incorporación de megavatios, el mejoramiento de las condiciones climáticas e importación desde Colombia aportaron.
+---------------------------------------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa anunció la suspensión de los apagones. Lo publicó en su cuenta de X este martes 10 de diciembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/cortes-luz-quito-5-6-diciembre.jpg)
+
+El **presidente de la República, Daniel Noboa**, anunció la fecha de suspensión de los cortes de luz en **Ecuador**. El anuncio lo realizó este martes 10 de diciembre de 2024.
+
+**Noboa** -mediante un comunicado- indicó que los efectos del **cambio climático**, la negligencia y la mala gestión de **gobiernos anteriores** fueron las causas de la **crisis en el sector eléctrico**, que afectó al **Ecuador**.
+
+### Más noticias
+
+* [Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?](https://www.elcomercio.com/actualidad/ecuador/cuenca-salir-sequia-prolongada-51-anos.html "Lluvias en Cuenca, ¿bastan para salir de la sequía más prolongada en 51 años?")
+* [Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?](https://www.elcomercio.com/actualidad/negocios/cuatro-dias-seguidos-lluvias-cuenca-como-mejorado-paute-mazar.html "Con cuatro días seguidos de lluvias en Cuenca, ¿cómo mejoraron Paute y Mazar?")
+* [Cortes de luz en Quito para este martes 10 de diciembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-martes-10-diciembre.html "Cortes de luz en Quito para este martes 10 de diciembre")
+
+¿Cuándo se suspenderán los apagones?
+------------------------------------
+
+El presidente Noboa informó que, desde el 20 de diciembre, no habrá cortes en todo el Ecuador.
+
+Según él, esta decisión se adoptó en función de algunos parámetros.
+
+La primera razón es la recuperación de **capacidad instalada**. Destacó el mantenimiento y la **recuperación de centrales térmicas e hidroeléctricas.**
+
+Además, los 696,7 megavatios que se suman al sistema eléctrico. La incorporación de **Toachi Pilatón**, que aportará 204 megavatios.
+
+Otros factores son la incorporación de **nueva generación de energía**. Están operativos 100 megavatios de generación firme flotante y, entre diciembre de 2024 y enero de 2025, se añadirán 501 megavatios más.
+
+La importación de energía desde Colombia
+----------------------------------------
+
+**Noboa** destacó que en la decisión de suspender los cortes de luz está la **compra de energía a Colombia**. “Las negociaciones se retomaron luego de conversaciones y acuerdos en beneficio de ambas naciones”.
+
+También, pesó el mejoramiento de las condiciones meteorológicas.
+
+Las condiciones en Mazar y Paute
+--------------------------------
+
+La cota del **embalse de Mazar** se ubica en los 2 114 metros sobre el nivel del mar, este martes 10 de diciembre. Ese nivel representa un crecimiento de tres metros con relación al viernes 6 de diciembre.
+
+En la represa de la **Central Paute** también hubo un aumento. El embalse está en los 1 984,45 metros sobre el nivel del mar, lo que representa que está a menos de **siete metros del máximo.**
+
+El caudal promedio de ingreso a l**a cuenca del río Paute,** que alimenta a los centrales y a **Sopladora**, no ha bajado de los 40 metros cúbicos por segundo durante diciembre. El máximo fue de 75,89.
+
+En noviembre, en cambio, el promedio máximo diario fue de 42 metros cúbicos por segundo registrado el 28 de ese mes.
+
+> A los ecuatorianos: [pic.twitter.com/lDKT3KILci](https://t.co/lDKT3KILci)
+> 
+> — Daniel Noboa Azin (@DanielNoboaOk) [December 10, 2024](https://twitter.com/DanielNoboaOk/status/1866431572825821500?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa en Quito este martes 10 de diciembre
+=================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/12/plantillas-manana-GIOVY-2024-12-09T152756.731.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Los cortes de agua potable terminan en Quito, ¿desde cuándo?](https://www.elcomercio.com/actualidad/quito/los-cortes-de-agua-potable-terminan-en-quito-desde-cuando.html "Los cortes de agua potable terminan en Quito, ¿desde cuándo?")
+* [Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’](https://www.elcomercio.com/actualidad/quito/pabel-munoz-sobre-arte-y-cultura-no-caben-procesos-de-censura.html "Pabel Muñoz: ‘Sobre el arte y la cultura no caben procesos de censura’")
+* [Ernesto Albán Gómez falleció a los 87 años](https://www.elcomercio.com/actualidad/ecuador/ernesto-alban-gomez-fallecio-a-los-87-anos.html "Ernesto Albán Gómez falleció a los 87 años")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, no circulan los autos con placas terminadas en 3 y 4.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 Las cooperativas de ahorro y crédito pequeñas deben aplicar una mayor austeridad
 ================================================================================
 
@@ -58,30 +257,6 @@ De forma paralela es necesario que las pequeñas cooperativas busquen asesoramie
 Estos procedimientos -además- permitirán que sus depositantes se sientan seguros con las administraciones y sigan confiando con sus recursos.
 
 La Superintendencia de Economía Popular y Solidaria hace controles a los balances y visita las entidades con indicadores más débiles. Esa es otra fuente de soporte para estas pequeñas entidades. Otras opciones son recurrir a organizaciones internacionales o a las asociación del sector.
-
-Cartas a Quito / 10 de diciembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 10 de diciembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Opinión
--------
-
-Cada año somos más personas con discapacidad en el Ecuador, y los gobiernos de turno no hacen nada por remediar esta situación; solo nos utilizan en épocas de campaña para el voto y luego se olvidan de nosotros. Los políticos que prometieron, dando a entender que somos su juguete, aprovechan la ocasión para figurar con los demás y atraer votantes, porque cuando son candidatos, posan con todo el mundo, procurando lucrar con nosotros, haciendo promesas que no cumplirán, y estamos dispuestos a estos casos.
-
-En Ecuador, nos hace falta ese empuje de los gobiernos, que no hacen nada por nosotros para vivir con una mejor calidad de vida, que es necesaria para un país que no está adaptado a nuestras necesidades, ya que no contamos con el apoyo de los gobiernos para crear emprendimientos y progresar en la vida.
-
-Jorge Enrique Andrade Rodas
-
-Los chullas quiteños
---------------------
-
-Elegantísimo, bien afeitado y peinado, rayas del pantalón cuál cuchilla, cuello y puños de la camisa impolutos, corbata vistosa, medias finas y zapatos brillantes, locuaz y pícaro, “dicharrachero” y “piropero”, soñador y gentil de mente ágil y con respuesta para todo, generalmente sin medio en el bolsillo, pero con una “sal” envidiable para contar los “cachos” y un volumen de versos almacenados en el cerebro; así es o fue el “Chulla Quiteño”. Inspiró un hermoso pasacalle que es todo un himno que vibra en las “chivas” y en los festivales y dejó bien sentado su poder seductor y su estirpe. Y que nadie se atreva a quitarle la leva o espulgar sus pies, porque encontrará que no hay mangas ni espalda en la camisa y en las suelas dos tremebundos “chilpidos” que pronto han de convertirse en huecos. “Feriado ha de ser el día de su nacimiento bonita” “Si yo fuera usted no podría vivir sin mí”, “Sus ojos son más negros que mi destino”, le susurraba a la guapa quiteña, para luego volar donde los “ciegos” de la 24 y convencerlos de un serenito gratis. Actores de anécdotas y cuentos, conocedores de todo el mundo e infaltables en todas las farras, así forjaron su historia, el “Lluqui” Endara, el “payaso”. Vega, el “terrible” Martínez y el Fernando Suasnavas, este último aún en vigencia. Él siempre empieza diciendo en sus números humorísticos: “voy a tratar de hacer algo muy difícil en estos tiempos: arrancarles una sonrisa’ y luego desarrolla con memoria prodigiosa y mímica genuina, cientos de “cachos” que de tanto divertir lastiman las comisuras, para terminar con el infaltable verso que pondera la “Canción a mi Loma Grande”, el “Poema de la culpa” o la “Canción a los barrios de Quito”. Pareciera que por él no han pasado los años, pero aun así los amigos suelen opinar: “a este viejo sí que hay que cuidarle”, para luego parafrasear algunos fragmentos en honor a su arte dedicados y que, a través de sus ejecutorias, se pueden extender a todos los chullas quiteños: “Del verso frené-tico/ y del chiste raudo/ que bordeando la ironía/ obliga a la gente/ a que siempre sonría. De hacer cómplices a todos/ del bullicio contumaz/ de trocar penas en risas/ de todo ello eres capaz. Picar-día, sal quiteña/ risotada y lágrima/ anécdotas y mundo/ todo aquello en un segundo”. Es poco lo que se pueda decir de estos hidalgos nativos de la “Cara de Dios”, sus “fechorías” sanas alteraron entre carcajadas y mojigatos comentarios la franciscana tranquilidad de Quito y fueron luego inspiradoras de fábulas y cuentos que de generación en generación han llegado hasta nuestros días para alegrarnos la vida. Paradójicamente, los “chullas quiteños” gracias al modernismo no han tenido descendencia artística y su recuerdo va diluyéndose o simplemente muriendo abrazado en el armario donde yacen también los hermosos pasillos y yaravíes que ya nadie compone; algo habrá que hacer para evocarlos en este Quito que por muchas causas, entre ellas la ingratitud, jamás volverá a ser el que añoramos y con nostalgia recordamos sobre todo en el mes de diciembre.
-
-Carlos Mosquera Benalcázar
 
 Derechos y democracia en tiempos de crisis
 ==========================================
@@ -133,6 +308,30 @@ Grandes desafíos
 **Las desigualdades y las exclusiones marcaron el ritmo de la gobernanza en el Ecuador en las últimas décadas, debido a factores internos y externos**: catástrofes naturales como terremotos, la corrupción, los levantamientos, la situación de la administración de justicia, el narcotráfico, la caída de los precios del petróleo, la abultada deuda externa, la pandemia mundial del coronavirus y los apagones de última data, impactaron no solo a la economía sino al ejercicio pleno de los derechos humanos.
 
 **Los desafíos para el Estado ecuatoriano, los gobiernos de turno, las instituciones republicanas y los ciudadanos son enormes.** Hay que pasar del garantismo en el papel, a la práctica de esas garantías. **Enseñar y aprender la democracia mediante instituciones sólidas, con control social. En otras palabras: ¡A los derechos en los hechos!**
+
+Cartas a Quito / 10 de diciembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 10 de diciembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Opinión
+-------
+
+Cada año somos más personas con discapacidad en el Ecuador, y los gobiernos de turno no hacen nada por remediar esta situación; solo nos utilizan en épocas de campaña para el voto y luego se olvidan de nosotros. Los políticos que prometieron, dando a entender que somos su juguete, aprovechan la ocasión para figurar con los demás y atraer votantes, porque cuando son candidatos, posan con todo el mundo, procurando lucrar con nosotros, haciendo promesas que no cumplirán, y estamos dispuestos a estos casos.
+
+En Ecuador, nos hace falta ese empuje de los gobiernos, que no hacen nada por nosotros para vivir con una mejor calidad de vida, que es necesaria para un país que no está adaptado a nuestras necesidades, ya que no contamos con el apoyo de los gobiernos para crear emprendimientos y progresar en la vida.
+
+Jorge Enrique Andrade Rodas
+
+Los chullas quiteños
+--------------------
+
+Elegantísimo, bien afeitado y peinado, rayas del pantalón cuál cuchilla, cuello y puños de la camisa impolutos, corbata vistosa, medias finas y zapatos brillantes, locuaz y pícaro, “dicharrachero” y “piropero”, soñador y gentil de mente ágil y con respuesta para todo, generalmente sin medio en el bolsillo, pero con una “sal” envidiable para contar los “cachos” y un volumen de versos almacenados en el cerebro; así es o fue el “Chulla Quiteño”. Inspiró un hermoso pasacalle que es todo un himno que vibra en las “chivas” y en los festivales y dejó bien sentado su poder seductor y su estirpe. Y que nadie se atreva a quitarle la leva o espulgar sus pies, porque encontrará que no hay mangas ni espalda en la camisa y en las suelas dos tremebundos “chilpidos” que pronto han de convertirse en huecos. “Feriado ha de ser el día de su nacimiento bonita” “Si yo fuera usted no podría vivir sin mí”, “Sus ojos son más negros que mi destino”, le susurraba a la guapa quiteña, para luego volar donde los “ciegos” de la 24 y convencerlos de un serenito gratis. Actores de anécdotas y cuentos, conocedores de todo el mundo e infaltables en todas las farras, así forjaron su historia, el “Lluqui” Endara, el “payaso”. Vega, el “terrible” Martínez y el Fernando Suasnavas, este último aún en vigencia. Él siempre empieza diciendo en sus números humorísticos: “voy a tratar de hacer algo muy difícil en estos tiempos: arrancarles una sonrisa’ y luego desarrolla con memoria prodigiosa y mímica genuina, cientos de “cachos” que de tanto divertir lastiman las comisuras, para terminar con el infaltable verso que pondera la “Canción a mi Loma Grande”, el “Poema de la culpa” o la “Canción a los barrios de Quito”. Pareciera que por él no han pasado los años, pero aun así los amigos suelen opinar: “a este viejo sí que hay que cuidarle”, para luego parafrasear algunos fragmentos en honor a su arte dedicados y que, a través de sus ejecutorias, se pueden extender a todos los chullas quiteños: “Del verso frené-tico/ y del chiste raudo/ que bordeando la ironía/ obliga a la gente/ a que siempre sonría. De hacer cómplices a todos/ del bullicio contumaz/ de trocar penas en risas/ de todo ello eres capaz. Picar-día, sal quiteña/ risotada y lágrima/ anécdotas y mundo/ todo aquello en un segundo”. Es poco lo que se pueda decir de estos hidalgos nativos de la “Cara de Dios”, sus “fechorías” sanas alteraron entre carcajadas y mojigatos comentarios la franciscana tranquilidad de Quito y fueron luego inspiradoras de fábulas y cuentos que de generación en generación han llegado hasta nuestros días para alegrarnos la vida. Paradójicamente, los “chullas quiteños” gracias al modernismo no han tenido descendencia artística y su recuerdo va diluyéndose o simplemente muriendo abrazado en el armario donde yacen también los hermosos pasillos y yaravíes que ya nadie compone; algo habrá que hacer para evocarlos en este Quito que por muchas causas, entre ellas la ingratitud, jamás volverá a ser el que añoramos y con nostalgia recordamos sobre todo en el mes de diciembre.
+
+Carlos Mosquera Benalcázar
 
 Pepe Mujica 
 ============
@@ -823,205 +1022,3 @@ También estarán Johan Guerrero, Jostin Feijoo (Orense); Luis Moreno y Rooney T
 
 San viernes
 -----------
-
-Más de 9 000 emergencias fueron atendidas durante las fiestas de Quito
-======================================================================
-
-Las emergencias registradas por fiestas de Quito este 2024 fueron menos que en 2023.
-------------------------------------------------------------------------------------
-
-![El ECU 911 se activó para atender las emergencias en las fiestas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/12/emergencias-fiestas-quito.jpg)
-
-Más de **9 000 emergencias** se registraron durante las **fiestas de Quito**, este 2024[.](https://es.wikipedia.org/wiki/Quito)
-
-El **ECU 911** Quito monitoreó la capital y atendió cada llamada de auxilio en todas las áreas y circuitos.
-
-### Más noticias:
-
-Emergencias durante las fiestas de Quito 2024
----------------------------------------------
-
-Del 5 al 8 de diciembre de 2024, **Quito** celebró sus **490 años de fundación**.
-
-Decenas de **eventos** se desarrollaron en el norte, centro, sur y valles.
-
-El **ECU 911** se mantuvo operativo con toda su capacidad para atender y coordinar las **emergencias** con las unidades de primera respuesta.
-
-En total, se atendieron **9 345 emergencias** en el Distrito Metropolitano de Quito.
-
-El circuito con más reportes fue el **Eugenio Espejo**, en el que están sectores como: Cochapamba, Dammer, El Bosque.
-
-Además, Iñaquito, Jipijapa, Kennedy, Las Casas, Nayon, San Isidro del Inca, Universitario y **Zambiza.**
-
-Aquí se atendieron **2 362** emergencias.
-
-Le sigue el circuito **Eloy Alfaro** con **1 560** emergencias. Aquí están: La Argelia, Chimbacalle, La Magdalena, Chilibulo, San Bartolo, La Mena, La Ferroviaria, Solanda, Lloa.
-
-En el rango de más de 1 000 emergencias también están los circuitos de: **Manuela Sáenz, La Delicia y Quitumbre.**
-
-**Calderón** con 784 y otros 1 061.
-
-**Por servicios**, el más atendido fue el de **seguridad ciudadana**, con 6 197 emergencias, que corresponde al 66,3%.
-
-Luego, **tránsito y movilidad** con 1 174 y servicios municipales con 1 060.
-
-Gestión **Sanitaria, de Siniestros, de Riesgos** y Servicio Militar con menos porcentajes.
-
-También se registraron **casos de**:
-
-* **Libadores** con 661 eventos
-* **Escándalos** con 774 casos
-* 356 hechos de **violencia intrafamiliar**
-
-En el mismo feriado del añ**o 2023** se registraron 10 163 emergencias; con lo que se identifica una disminución del 8% para el presente año.
-
-El ECU 911 Quito **monitoreó todas las actividades** que se desarrollaron en espacios abiertos, sitios turísticos, parques, vías, eventos culturales y artísticos.
-
-Incluyendo los puntos en los que se registró **caída de lluvias** durante este feriado.
-
-Cristian Erbes rechazó a Emelec por la B de Argentina
-=====================================================
-
-Cristian Erbes se formó y debutó como futbolista en Boca Juniors. Ahí ganó cuatro títulos.
-------------------------------------------------------------------------------------------
-
-![Cristian Erbes fue uno de los refuerzos de Emelec en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/12/erbes_emelec_1.jpg)
-
-**Cristian Erbes** no seguirá siendo jugador de Emelec en el 2025. El argentino llegó a inicios de 2024 con uno de los principales refuerzos de los guayaquileños, pero su estancia duró menos de 12 meses.
-
-El 19 de enero, **Cristian Erbes llegó al Aeropuerto Internacional José Joaquín de Olmedo**. En su hoja de vida resaltaba el haber jugado en Boca Juniors, uno de los equipos más populares de Argentina y del mundo.
-
-### Más noticias:
-
-* [El Real Madrid lidera el once ideal del FIFPro 2024](https://www.elcomercio.com/deportes/futbol/real-madrid-lidera-el-once-ideal-del-fifpro-2024.html "El Real Madrid lidera el once ideal del FIFPro 2024")
-* [Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
-* [Premier League destaca las cualidades de Moisés Caicedo con Chelsea](https://www.elcomercio.com/deportes/moises-caicedo-chelsea-rendimiento-premier-league-tottenham.html "Premier League destaca las cualidades de Moisés Caicedo con Chelsea")
-
-Erbes llegó ilusionado
-----------------------
-
-“Sabemos la grandeza del club en Sudamérica. La verdad, cuando me llegó la propuesta no tuve mucho que analizar. También tuve ofertas de la Primera División de Argentina, pero decidí venir acá, **espero haber tomado la mejor decisión**“, declaró el mediocampista a la prensa que lo abordó.
-
-Lo cierto es que su paso por el ‘Bombillo’ no fue del todo satisfactorio, fue de más a menos y terminó siendo un suplente fijo para el colombiano Leonel Álvarez, reemplazante de su compatriota Hernán Torres.
-
-Con Torres, el ‘Pichi’ jugó los 15 partidos de la primera etapa de la Liga Pro, según Transfermarkt. F**ue titular indiscutido y jugó 1 284 minutos de 1 350 posibles**. Solo salió al cambio en la fecha 11 en la victoria 2-1 ante Universidad Católica en el Capwell y en la 14 en el 1-2 ante Imbabura en el Olímpico de Ibarra.
-
-En la segunda etapa perdió el puesto con **Álvarez que lo tomó en cuenta en cinco juegos para completar** 270 minutos. Solo en uno fue titular, tres se los perdió por una suspensión por tarjeta roja, en tres fue suplente y en cuatro no fue citado.
-
-El destino de Erbes
--------------------
-
-Emelec le presentó una propuesta de renovación para que el argentino siga con el club, sin embargo, la rechazó y se sumó a la lista de **bajas junto a los nacionales Gustavo Cortez y Jackson Rodríguez**.
-
-El periodista César Luis Merlo confirmó que el jugador de 34 años jugará en San Miguel, equipo que milita en la Primera B Nacional de Argentina.
-
-Recién será la quinta temporada en esta categoría. **En el 2024 quedó en el octavo lugar de la Zona A** y no pudo avanzar a las etapas decisivas del fútbol de ascenso del fútbol de los actuales campeones del mundo.
-
-San viernes
------------
-
-Liga de Quito y la Segunda Etapa: ¿El camino seguro al título de Liga Pro?
-==========================================================================
-
-Liga de Quito apunta a mantener la tendencia de la Liga Pro en la cual los ganadores de la segunda etapa siempre han sido los campeones.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Álex Arce, delantero de Liga de Quito, celebra un gol en la final de ida de la Liga Pro ante Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/12/20241207140923-fbl-ligapro-primera-final-liga-independiente-scaled.jpg)
-
-La **Liga Pro 2024** está por definir su campeón y Liga de Quito se perfila para hacerse con el título por segundo año consecutivo ante Independiente del Valle. El cuadro azucena tiene la oportunidad de continuar con la tendencia en la que el ganador de la segunda etapa siempre ha ganado el torneo.
-
-Albos y rayados se medirán en el último partido del campeonato durante esta temporada y los primeros parten con ventaja tras el primer compromiso definitorio. En él, el plantel que dirige **Pablo ‘Vitamina’ Sánchez** se impuso por una ventaja de 3-0.
-
-### Más noticias:
-
-* [Finalistas, clasificados, descensos y tabla de la Liga Pro 2024](https://www.elcomercio.com/deportes/liga-pro-tabla-acumulada-2024-finalistas-clasificados-descensos.html "Finalistas, clasificados, descensos y tabla de la Liga Pro 2024")
-* [Liga de Quito ganó tres títulos con dos entrenadores argentinos](https://www.elcomercio.com/deportes/futbol/entrenadores-argentinos-campeones-liga-quito.html "Liga de Quito ganó tres títulos con dos entrenadores argentinos")
-* [Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles](https://www.elcomercio.com/deportes/futbol/entradas-final-de-vuelta-entre-idv-y-liga-de-quito-precios-y-detalles.html "Entradas para la final de vuelta entre IDV y Liga de Quito: Precios y detalles")
-
-Las escuadras arribaron a la final como ganadores de las dos etapas con las que cuenta la Liga Pro. En la primera, **Independiente del Valle** fue el equipo que la lidero, mientras que en la segunda, los albos le privaron de ser campeón directo gracias a que lo superaron por cinco puntos y finalizaron en la cima.
-
-Desde el 2020, segundo año de la **Liga Pro**, el formato del torneo se modificó para que se jueguen las dos etapas. A partir de ello, todos los campeones fueron aquellos que ganaron la **segunda etapa**, mientras que los de la primera cayeron en las finales.
-
-Los campeones de la Liga Pro desde el 2020, incluido Liga de Quito
-------------------------------------------------------------------
-
-Dentro de las últimas cuatro ediciones de la Liga Pro, ninguno de los campeones se ha repetido. En 2020 se hizo con el título **Barcelona SC**; en 2021, **Independiente del Valle**; en el 2022, **Aucas**; y en el 2023, **Liga de Quito.**
-
-En el campeonato de **Barcelona SC**, este derrotó en la final a Liga de Quito tras vencer en penales en el Estadio Rodrigo Paz Delgado, luego de empatar en ambos duelos. Durante aquel año, los toreros finalizaron **cuartos en la primera ronda y líderes en la segunda**; mientras que los lugares para los albos se invirtieron.
-
-Cuando **Independiente del Valle** se coronó campeón lo hizo contra Emelec. Allí, los eléctricos fueron líderes en la etapa inicial y los rayados terceros, pero en la sucesiva, el equipo de Sangolquí **finalizó primero y los azules segundos.**
-
-En el caso de Aucas en 2022, los orientales tuvieron una floja primera etapa, pero remontaron en la segunda. Durante la primera del año, **Barcelona SC** fue el líder y el cuadro aurigrana quinto; en la siguiente, Aucas finalizó en la cima y los toreros lo hicieron en el octavo lugar[.](https://en.wikipedia.org/wiki/Ecuadorian_Serie_A "https://en.wikipedia.org/wiki/Ecuadorian_Serie_A")
-
-Para el último campeonato de **Liga de Quito**, Independiente fue líder en la primera etapa y los albos terceros. En la ronda final, los rayados pincharon y terminaron octavos, mientras que la ‘U’ se hizo con la punta.
-
-En todos los campeonatos **ha existido un declive** de cara a la final con respecto a los equipos que inician bien el torneo. Asimismo, los que se han levantado y obtenido el último cupo a la final han conseguido mantener su ritmo y extender el buen momento que los llevó hasta ese punto.
-
-Liga de Quito obedece a la tendencia en Liga Pro
-------------------------------------------------
-
-**Liga de Quito** no tuvo el mejor primer semestre y finalizó en el tercer puesto de la tabla con 30 unidades, cinco menos que Independiente. Para la segunda, los puntajes entre ambas escuadras se invirtieron.
-
-Los albos vivieron un repunte con la llegada de **Pablo ‘Vitamina’ Sánchez**, quien llegó como DT para la última etapa y a sustituir al español Josep Alcácer. A su vez, a lo largo del año, Independiente del Valle no ha podido imponerse ante ellos.
-
-La revancha será para el **sábado 14 de diciembre del 2024 a las 15:30**. Allí, los rayados deben imponerse por al menos tres goles para forzar los penales y cuatro para ser campeones.
-
-Fucsia, durazno, café: ¿Cómo decide Pantone que en 2025 el mundo se vea en color Mocha Mousse?
-==============================================================================================
-
-Cada ser humano, lo sepa o no, está involucrado en este resultado
------------------------------------------------------------------
-
-![Una mujer se hace una imagen en un marco con el tono PANTONE 17-1230 Mocha Mousse en el horizonte de Londres.](https://www.elcomercio.com/wp-content/uploads/2024/12/pantone-El-Comercio.jpg)
-
-Mocha Mouse o café suave será el color de 2025 y es nuestra información la que se utiliza para escogerlo. ¿Cómo?
-
-Así es, Pantone, la empresa autoencargada de establecer el color cada año, examina las tendencias a partir de las elecciones que hace cada ser humano a diario para fijar la tendencia global y no solo en temas de ropa, sino en aspectos económicos, tecnológicos, políticos, de salud, etc.
-
-### Más noticias
-
-* **[‘Jeans’ con ‘jeans’, la tendencia que facilita la elección de tus ‘outfits’ diarios](https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html "https://www.elcomercio.com/tendencias/total-look-denim-moda-quito-jeans.html")**
-* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
-
-Por ejemplo, en 2023 el color Viva Magenta (un tono fucsia oscuro) reflejó la necesidad de confianza y fuerza en medio de la incertidumbre que dejó la pandemia.
-
-**El proceso de Pantone para elegir fucsia, durazno o café**
-------------------------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DDUtXghua6I/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de PANTONE (@pantone)](https://www.instagram.com/reel/DDUtXghua6I/?utm_source=ig_embed&utm_campaign=loading)
-
-**¿Qué significa Mocha Mousse?** **Mocha** se traduce como “moca”, en referencia a un color marrón claro con tonos de café, inspirado en el color de un café con leche o un café con sabor a chocolate. Mientras _**mousse**_ es una textura cremosa utilizada en postres como el _mousse_ de chocolate.
-
-Por lo tanto, el nombre completo **“Mocha Mousse”** puede interpretarse como un tono marrón suave, cálido, similar al color del café con leche y la textura cremosa de un postre _mousse_.
-
-Pantone no escoge un color al azar. Cada selección es el resultado de un análisis exhaustivo que toma en cuenta factores socioculturales, económicos, políticos, tecnológicos y emocionales.
-
-Desde la música y el cine hasta los movimientos sociales y las crisis económicas, cada elemento es un termómetro para identificar qué color resonará con el momento actual de la sociedad.
-
-En 2024, Peach Fuzz (durazno amarillento, suave) fue el color elegido para expresar una mezcla de calidez y empatía, ideal para crear ambientes tranquilos en una sociedad cada vez más conectada pero fragmentada, emocionalmente​.
-
-**¿Realmente impacta la elección del color en el público?**
------------------------------------------------------------
-
-Sí, aunque esta influencia ha ido disminuyendo con los años dependiendo del sector y la conexión cultural.
-
-Estos colores no son solo referencias estéticas; tienen el poder de ser herramientas de marketing, moda, arquitectura e interiorismo.
-
-Por ejemplo, cuando Pantone introduce un color como el Viva Magenta, las grandes marcas de ropa, como Gucci o Hermès, lo incorporaron en sus colecciones de moda. Pasó lo mismo en pinturas para paredes, en muebles y distintos artículos.
-
-**¿Qué colores combinan con el Mocha Mousse?**
-----------------------------------------------
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DDNLywXyZvX/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de @estilodf](https://www.instagram.com/p/DDNLywXyZvX/?utm_source=ig_embed&utm_campaign=loading)
-
-Mocha Mousse es un color neutro, cálido y sofisticado que se adapta. Combina con el **_beige_ claro**, el color **terracota o rojo arcilla**, el **verde oliva o bosque**, el **blanco crudo o crema** o el azul denim.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/12/pantone-El-Comercio-2-1024x683.jpg)
-
-Si hablamos de colorimetría, este color le queda bien a las personas con subtonos cálidos, ya que su base neutra complementa este perfil natural y resalta el bronceado y los tonos dorados de piel.
-
-En cambio, aquellos con **subtonos fríos** podrían equilibrar el **Mocha Mousse** con **azul marino, azul claro, gris plateado, rosa pastel, blanco puro y verde agua**. Esta clave es importante para quienes buscan usar estos tonos en moda, cosméticos o incluso decoración.
