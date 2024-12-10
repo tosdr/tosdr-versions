@@ -3,9 +3,9 @@
 [AXA
 ---
 
-33.830
+33.700
 
-( \-0.70%)](https://www.axa.com/en/investor/axa-share-performances?tab=share-performance)
+( \-1.09%)](https://www.axa.com/en/investor/axa-share-performances?tab=share-performance)
 
 [Axa worldwide](https://www.axa.com/en/about-us/axa-worldwide)
 
