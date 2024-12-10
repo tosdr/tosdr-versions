@@ -84,17 +84,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://cdn.arstechnica.net/wp-content/uploads/2024/07/53706269423_faceffa991_k-768x432.jpg)](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
+1. [![Listing image for first story in Most Read: Latest James Webb data hints at new physics in Universe’s expansion](https://cdn.arstechnica.net/wp-content/uploads/2024/03/hubble1CROP-768x432.jpg)](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
     
-    1. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
+    1. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
     
-2. 2. [Teen creates memecoin, dumps it, earns $50,000](https://arstechnica.com/tech-policy/2024/12/teen-creates-memecoin-dumps-it-and-earns-50000/)
+2. 2. [After critics decry Orion heat shield decision, NASA reviewer says agency is correct](https://arstechnica.com/space/2024/12/former-flight-director-who-reviewed-orion-heat-shield-data-says-there-was-no-dissent/)
     
-3. 3. [Latest James Webb data hints at new physics in Universe’s expansion](https://arstechnica.com/science/2024/12/latest-james-webb-data-hints-at-new-physics-in-universes-expansion/)
+3. 3. [Teen creates memecoin, dumps it, earns $50,000](https://arstechnica.com/tech-policy/2024/12/teen-creates-memecoin-dumps-it-and-earns-50000/)
     
-4. 4. [The shadow’s roots take hold in Wheel of Time S3 teaser](https://arstechnica.com/culture/2024/12/the-shadows-roots-take-hold-in-wheel-of-time-s3-teaser/)
+4. 4. [Apple hit with $1.2B lawsuit after killing controversial CSAM-detecting tool](https://arstechnica.com/tech-policy/2024/12/thousands-of-child-sex-abuse-victims-sue-apple-for-lax-csam-reporting/)
     
-5. 5. [Innie rebellion is brewing in trippy Severance S2 trailer](https://arstechnica.com/uncategorized/2024/12/innie-rebellion-is-brewing-in-trippy-severance-s2-trailer/)
+5. 5. [Your AI clone could target your family, but there’s a simple defense](https://arstechnica.com/ai/2024/12/your-ai-clone-could-target-your-family-but-theres-a-simple-defense/)
     
 
 Customize
