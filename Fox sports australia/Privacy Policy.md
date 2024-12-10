@@ -50,24 +50,24 @@ FOX SCORES
     
 * [NFL
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | DAL | 7   |
-    | CIN | 7   |
+    | DAL | 20  |
+    | CIN | 27  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251413)
 * Basketball
     
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | TOR | 61  |
-    | NY  | 60  |
+    | TOR | 108 |
+    | NY  | 113 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010334/box-score)
 * Football
@@ -82,6 +82,96 @@ FOX SCORES
     | WOL | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/premier-league/match-centre/EPL2024-251507)
+* [UCL
+    
+    11/12 4:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GIR | –   |
+    | LIV | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250603)
+* [UCL
+    
+    11/12 4:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DZ  | –   |
+    | CEL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250601)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DON | –   |
+    | BAY | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250615)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BRE | –   |
+    | PSV | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250613)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ATA | –   |
+    | RMD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250607)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BLV | –   |
+    | INT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250605)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RBS | –   |
+    | PSG | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250611)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RBL | –   |
+    | AVL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250617)
+* [UCL
+    
+    11/12 7:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CB  | –   |
+    | LIS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250609)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -816,7 +906,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [NRL](https://www.foxsports.com.au/nrl)
