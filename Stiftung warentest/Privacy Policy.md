@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Küchen­reiniger im Test: Gute Fett­löser für die Küche](https://www.test.de/Kuechenreiniger-im-Test-Gute-Fettloeser-fuer-die-Kueche-6154096-0/ "Küchenreiniger im Test - Gute Fettlöser für die Küche")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Investieren in Deutsch­land: Mit Dax-ETF bei der Rekord­jagd mitmischen](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF bei der Rekordjagd mitmischen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Küchen­reiniger im Test: Gute Fett­löser für die Küche](https://www.test.de/Kuechenreiniger-im-Test-Gute-Fettloeser-fuer-die-Kueche-6154096-0/ "Küchenreiniger im Test - Gute Fettlöser für die Küche")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Investieren in Deutsch­land: Mit Dax-ETF bei der Rekord­jagd mitmischen](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF bei der Rekordjagd mitmischen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Küchen­reiniger im Test: Gute Fett­löser für die Küche](https://www.test.de/Kuechenreiniger-im-Test-Gute-Fettloeser-fuer-die-Kueche-6154096-0/ "Küchenreiniger im Test - Gute Fettlöser für die Küche")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Investieren in Deutsch­land: Mit Dax-ETF bei der Rekord­jagd mitmischen](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF bei der Rekordjagd mitmischen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Pflegereform: Höhere Beiträge, mehr Geld für Pflegebedürftige](https://www.test.de/Pflegereform-Hoehere-Beitraege-mehr-Geld-fuer-Pflegebeduerftige-5999460-0/ "Pflegereform - Höhere Beiträge, mehr Geld für Pflegebedürftige")
-* [Ökobilanz T-Shirts: Lang lebe das T-Shirt!](https://www.test.de/Oekobilanz-T-Shirts-Lang-lebe-das-T-Shirt-5966314-0/ "Ökobilanz T-Shirts - Lang lebe das T-Shirt!")
-* [Küchen­reiniger im Test: Gute Fett­löser für die Küche](https://www.test.de/Kuechenreiniger-im-Test-Gute-Fettloeser-fuer-die-Kueche-6154096-0/ "Küchenreiniger im Test - Gute Fettlöser für die Küche")
-* [Energie sparen: Die Stromsparbox ist nutzlos](https://www.test.de/test-warnt-Nutzlose-Stromsparbox-5956815-0/ "Energie sparen - Die Stromsparbox ist nutzlos")
-* [Rudergeräte im Test: An die Riemen, fertig, los](https://www.test.de/Rudergeraete-im-Test-5987710-0/ "Rudergeräte im Test - An die Riemen, fertig, los")
-* [Computer-Panne oder Abo-Falle?: Rentola.de verlegt Klein­stadt-Wohnungen in Groß­städte](https://www.test.de/Computer-Panne-oder-Abo-Falle-Rentolade-verlegt-Kleinstadt-Wohnungen-in-Grossstaedte-6063230-0/ "Computer-Panne oder Abo-Falle? - Rentola.de verlegt Kleinstadt-Wohnungen in Großstädte")
+* [Unter­nehmens­beteiligung: Riskante Beteiligung auf Raten](https://www.test.de/Unternehmensbeteiligung-Riskante-Beteiligung-auf-Raten-5978862-0/ "Unternehmensbeteiligung - Riskante Beteiligung auf Raten")
+* [Seren fürs Gesicht: Durst­löscher für die Haut](https://www.test.de/Serum-fuers-Gesicht-Durstloescher-fuer-die-Haut-6161447-0/ "Seren fürs Gesicht - Durstlöscher für die Haut")
+* [Investieren in Deutsch­land: Mit Dax-ETF bei der Rekord­jagd mitmischen](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF bei der Rekordjagd mitmischen")
+* [Patent anmelden: Wie Sie Ihre Erfindung vor Nach­ahmern schützen](https://www.test.de/Patent-anmelden-6110038-0/ "Patent anmelden - Wie Sie Ihre Erfindung vor Nachahmern schützen")
+* [Commerz­bank zurück im Dax: Wie sich Bank­aktien seit der Finanz­krise entwickelt haben](https://www.test.de/Commerzbank-zurueck-im-Dax-Wie-sich-Bankaktien-seit-der-Finanzkrise-entwickelt-haben-5975761-0/ "Commerzbank zurück im Dax - Wie sich Bankaktien seit der Finanzkrise entwickelt haben")
+* [Jugend testet 2023: Drei Mal Gold für den Test-Nach­wuchs](https://www.test.de/Jugend-testet-2023-Drei-Mal-Gold-fuer-den-Test-Nachwuchs-6008280-0/ "Jugend testet 2023 - Drei Mal Gold für den Test-Nachwuchs")
 
 Stiftung Warentest
 
