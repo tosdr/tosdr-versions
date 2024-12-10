@@ -97,7 +97,6 @@
     * [Retail](https://www.airship.com/solutions/industries/retail/)
     * [Telecom](https://www.airship.com/solutions/industries/telecom/)
     
-    * [Customer Stories](https://www.airship.com/resources/customer-stories/)
     * [Partners](https://www.airship.com/partners/)
     
 * [Pricing](https://www.airship.com/pricing/)
@@ -105,6 +104,7 @@
     
     * [Mobile App Experience Maturity Assessment](https://maturityassessment.airship.com/)
     * [Content Library](https://www.airship.com/resources/)
+    * [Customer Stories](https://www.airship.com/resources/customer-stories/)
     * [Blog](https://www.airship.com/blog)
     * [Podcast](https://www.airship.com/resources/podcast/)
     * [Elevate On-Demand](https://www.airship.com/resources/elevate-on-demand/)
