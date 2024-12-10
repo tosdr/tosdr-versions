@@ -198,8 +198,7 @@ Downloads
 * [Datenschutzhinweise für die Webseite congstar.de](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/Datenschutzhinweise_congstar_Webseite.pdf)
 * [Datenschutzhinweise für die congstar App](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/Datenschutzhinweise_congstar_App.pdf)
 * [Datenschutzhinweise für das congstar Forum](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_Forum.pdf)
-* [Datenschutzhinweise für den congstar Newsletter](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_Newsletter.pdf)
-* [Datenschutzhinweise für das congstar Zuhause Leuchtturm-Gewinnspiel](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_Marketing_Consent_Leuchtturm_Gewinnspiel_August2024.pdf)  
+* [Datenschutzhinweise für den congstar Newsletter](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_Newsletter.pdf)  
      
 * [Wer oder was ist Utiq?](https://www.congstar.de/fileadmin/files_congstar/documents/Datenschutzhinweise/DSH_congstar_wer_oder_was_ist_utiq.pdf)
 
