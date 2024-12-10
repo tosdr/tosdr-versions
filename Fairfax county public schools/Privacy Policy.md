@@ -303,11 +303,11 @@ View the signed MOU](https://www.fcps.edu/about-fcps/safety-security/school-reso
 
 Fairfax County Public Schools is committed to providing access to digital resources in a manner that respects and protects student privacy while maximizing learning opportunities for our students.](https://www.fcps.edu/services/technology/digital-citizenship-guidance-technology-use/digital-privacy-fcps)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_32.jpg?h=371fb43d&itok=LKGR3bXV)
 
-### Passed Bill Report](https://www.fcps.edu/node/33480)  [![American Flag](/sites/default/files/styles/card_1x/public/media/hero/021611-1110_86.jpg?h=371fb43d&itok=Fu2vyAIA)
+### Passed Bill Report](https://www.fcps.edu/node/33480)  [![Student working on a computer](/sites/default/files/styles/card_1x/public/media/hero/071203-1077.jpg?h=69879900&itok=eRLpKtbe)
 
-### 2019 General Assembly Passed Bill Report
+### Internet Content Filtering
 
-2019 General Assembly Passed Bill Report](https://www.fcps.edu/node/38076)
+Highlighting the steps FCPS takes to satisfy the requirements of the Children's Internet Protection Act](https://www.fcps.edu/family-resources/technology/digital-citizenship-internet-safety/internet-content-filtering)
 
 Footer
 ------
