@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![zJu4nnfps](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23939393%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EZ%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257666-zju4nnfps/ "Ir ao perfil de zJu4nnfps")
+    * [![vitinhouwu](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/saitaminhafofo3-min.thumb.png.ab3c09306b861f894ecb0200eb78cd94.png)](https://www.clubedohardware.com.br/profile/1166054-vitinhouwu/ "Ir ao perfil de vitinhouwu")
         
-        1
+        0
         
-        [Qual é melhor MSI A520M-A PRO ou Gigabyte B550M K](https://www.clubedohardware.com.br/forums/topic/1705046-qual-%C3%A9-melhor-msi-a520m-a-pro-ou-gigabyte-b550m-k/?do=getNewComment "Qual é melhor MSI A520M-A PRO ou Gigabyte B550M K")
+        [Qual placa-mãe recomendariam pra um 5700x3d?](https://www.clubedohardware.com.br/forums/topic/1705064-qual-placa-m%C3%A3e-recomendariam-pra-um-5700x3d/?do=getNewComment "Qual placa-mãe recomendariam pra um 5700x3d?")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [zJu4nnfps](https://www.clubedohardware.com.br/profile/1257666-zju4nnfps/ "Ir ao perfil de zJu4nnfps")  
-        7 minutos atrás
+        Por [vitinhouwu](https://www.clubedohardware.com.br/profile/1166054-vitinhouwu/ "Ir ao perfil de vitinhouwu")  
+        1 hora atrás
         
-    * [![monsa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b9c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/519643-monsa/ "Ir ao perfil de monsa")
-        
-        0
-        
-        [tv samsung un40d5500 reiniciando sem parar](https://www.clubedohardware.com.br/forums/topic/1705045-tv-samsung-un40d5500-reiniciando-sem-parar/?do=getNewComment "tv samsung un40d5500  reiniciando sem parar")
-        
-        [Televisores e projetores](https://www.clubedohardware.com.br/forums/forum/193-televisores-e-projetores/ "Televisores e projetores")  
-        Por [monsa](https://www.clubedohardware.com.br/profile/519643-monsa/ "Ir ao perfil de monsa")  
-        19 minutos atrás
-        
-    * [![Gabriel_amaral](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1081032.thumb.jpeg.9f63651bcb4f53aced15d42c05e4966a.jpeg)](https://www.clubedohardware.com.br/profile/1081032-gabriel_amaral/ "Ir ao perfil de Gabriel_amaral")
-        
-        3
-        
-        [Upgrade de placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1705044-upgrade-de-placa-de-v%C3%ADdeo/?do=getNewComment "Upgrade de placa de Vídeo")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Gabriel\_amaral](https://www.clubedohardware.com.br/profile/1081032-gabriel_amaral/ "Ir ao perfil de Gabriel_amaral")  
-        26 minutos atrás
-        
-    * [![Pedro Brito Ferraz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257665.thumb.png.5bdc4ae6af91c45e008d5aa4e059c12b.png)](https://www.clubedohardware.com.br/profile/1257665-pedro-brito-ferraz/ "Ir ao perfil de Pedro Brito Ferraz")
+    * [![novak013](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1190572.thumb.png.38ebc8e1b8b5b5e2488237e8222a6a88.png)](https://www.clubedohardware.com.br/profile/1190572-novak013/ "Ir ao perfil de novak013")
         
         0
         
-        [Fone não funciona os dois lados](https://www.clubedohardware.com.br/forums/topic/1705043-fone-n%C3%A3o-funciona-os-dois-lados/?do=getNewComment "Fone não funciona os dois lados")
+        [kit xeon p99 não da tela!](https://www.clubedohardware.com.br/forums/topic/1705063-kit-xeon-p99-n%C3%A3o-da-tela/?do=getNewComment "kit xeon p99 não da tela!")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Pedro Brito Ferraz](https://www.clubedohardware.com.br/profile/1257665-pedro-brito-ferraz/ "Ir ao perfil de Pedro Brito Ferraz")  
-        31 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [novak013](https://www.clubedohardware.com.br/profile/1190572-novak013/ "Ir ao perfil de novak013")  
+        1 hora atrás
         
-    * [![lieggio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_06/perfil.thumb.jpg.dcc034eea98b77d0687486d03b795437.jpg)](https://www.clubedohardware.com.br/profile/536990-lieggio/ "Ir ao perfil de lieggio")
+    * [![Lukras1301](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257570.thumb.png.88e26e9a8e6ecd5a5110b6206d96b25b.png)](https://www.clubedohardware.com.br/profile/1257570-lukras1301/ "Ir ao perfil de Lukras1301")
         
         0
         
-        [Qual GPU que funcione bem com OpenGL é uma boa substituta à AMD RX 580](https://www.clubedohardware.com.br/forums/topic/1705042-qual-gpu-que-funcione-bem-com-opengl-%C3%A9-uma-boa-substituta-%C3%A0-amd-rx-580/?do=getNewComment "Qual GPU que funcione bem com OpenGL é uma boa substituta à AMD RX 580")
+        [B550M-K Pichau ou B450M PRO VDH MAX ?](https://www.clubedohardware.com.br/forums/topic/1705062-b550m-k-pichau-ou-b450m-pro-vdh-max/?do=getNewComment "B550M-K Pichau ou B450M PRO VDH MAX ?")
         
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [lieggio](https://www.clubedohardware.com.br/profile/536990-lieggio/ "Ir ao perfil de lieggio")  
-        35 minutos atrás
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Lukras1301](https://www.clubedohardware.com.br/profile/1257570-lukras1301/ "Ir ao perfil de Lukras1301")  
+        2 horas atrás
         
-    * [![Faelxin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1248159.thumb.jpeg.88d7fe7001adaa4656cb2df6d31f1f4f.jpeg)](https://www.clubedohardware.com.br/profile/1248159-faelxin/ "Ir ao perfil de Faelxin")
+    * [![Matheus Will](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257678.thumb.png.a178a6675316d7cb87b49bad3ad56185.png)](https://www.clubedohardware.com.br/profile/1257678-matheus-will/ "Ir ao perfil de Matheus Will")
+        
+        0
+        
+        [Computador não dá BIOS com SSD NVMe](https://www.clubedohardware.com.br/forums/topic/1705061-computador-n%C3%A3o-d%C3%A1-bios-com-ssd-nvme/?do=getNewComment "Computador não dá BIOS com SSD NVMe")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Matheus Will](https://www.clubedohardware.com.br/profile/1257678-matheus-will/ "Ir ao perfil de Matheus Will")  
+        2 horas atrás
+        
+    * [![PernaDaCobra](https://lh3.googleusercontent.com/-G5fCVeFnqB4/AAAAAAAAAAI/AAAAAAAAACc/0pYlcecRJdI/photo.jpg)](https://www.clubedohardware.com.br/profile/990726-pernadacobra/ "Ir ao perfil de PernaDaCobra")
         
         1
         
-        [PC reiniciando e dando tela azul](https://www.clubedohardware.com.br/forums/topic/1705041-pc-reiniciando-e-dando-tela-azul/?do=getNewComment "PC reiniciando e dando tela azul")
+        [Recomendação de cooler para Ryzen 7 5700X](https://www.clubedohardware.com.br/forums/topic/1705060-recomenda%C3%A7%C3%A3o-de-cooler-para-ryzen-7-5700x/?do=getNewComment "Recomendação de cooler para Ryzen 7 5700X")
         
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [Faelxin](https://www.clubedohardware.com.br/profile/1248159-faelxin/ "Ir ao perfil de Faelxin")  
-        37 minutos atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [PernaDaCobra](https://www.clubedohardware.com.br/profile/990726-pernadacobra/ "Ir ao perfil de PernaDaCobra")  
+        2 horas atrás
         
-    * [![Futecondo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23bb62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EF%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1153326-futecondo/ "Ir ao perfil de Futecondo")
+    * [![AlanFernando502](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257677.thumb.png.9f23d8dde724cf73824290c952c66a18.png)](https://www.clubedohardware.com.br/profile/1257677-alanfernando502/ "Ir ao perfil de AlanFernando502")
         
-        3
+        0
         
-        [custo-benefício upgrade SSD - Armazenamento](https://www.clubedohardware.com.br/forums/topic/1705040-custo-benef%C3%ADcio-upgrade-ssd-armazenamento/?do=getNewComment "custo-benefício upgrade SSD - Armazenamento")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Futecondo](https://www.clubedohardware.com.br/profile/1153326-futecondo/ "Ir ao perfil de Futecondo")  
-        55 minutos atrás
-        
-    * [![Cubodash26](https://www.clubedohardware.com.br/uploads/members/monthly_2022_11/imported-photo-1208361.thumb.png.1dbdb0fafd711c567829597727c23e27.png)](https://www.clubedohardware.com.br/profile/1208361-cubodash26/ "Ir ao perfil de Cubodash26")
-        
-        3
-        
-        [Qual a fonte que devo usar nesta configuração](https://www.clubedohardware.com.br/forums/topic/1705036-qual-a-fonte-que-devo-usar-nesta-configura%C3%A7%C3%A3o/?do=getNewComment "Qual a fonte que devo usar nesta configuração")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Cubodash26](https://www.clubedohardware.com.br/profile/1208361-cubodash26/ "Ir ao perfil de Cubodash26")  
-        1 hora atrás
-        
-    * [![João MGN](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257661.thumb.jpeg.b387e8c7915bcdf228e64f9af74926a1.jpeg)](https://www.clubedohardware.com.br/profile/1257661-jo%C3%A3o-mgn/ "Ir ao perfil de João MGN")
-        
-        5
-        
-        [Formatei o computador e não consigo instalar programas nem drivers.](https://www.clubedohardware.com.br/forums/topic/1705032-formatei-o-computador-e-n%C3%A3o-consigo-instalar-programas-nem-drivers/?do=getNewComment "Formatei o computador e não consigo instalar programas nem drivers.")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [João MGN](https://www.clubedohardware.com.br/profile/1257661-jo%C3%A3o-mgn/ "Ir ao perfil de João MGN")  
-        1 hora atrás
-        
-    * [![Samuel Fortes Brasil](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244144.thumb.png.6bd1af8cb25fed8faef5c0e624304028.png)](https://www.clubedohardware.com.br/profile/1244144-samuel-fortes-brasil/ "Ir ao perfil de Samuel Fortes Brasil")
-        
-        6
-        
-        [Linux Mint com erros no boot](https://www.clubedohardware.com.br/forums/topic/1705031-linux-mint-com-erros-no-boot/?do=getNewComment "Linux Mint com erros no boot")
+        [Linux não desliga (ou desliga infinito)](https://www.clubedohardware.com.br/forums/topic/1705059-linux-n%C3%A3o-desliga-ou-desliga-infinito/?do=getNewComment "Linux não desliga (ou desliga infinito)")
         
         [Linux](https://www.clubedohardware.com.br/forums/forum/102-linux/ "Linux")  
-        Por [Samuel Fortes Brasil](https://www.clubedohardware.com.br/profile/1244144-samuel-fortes-brasil/ "Ir ao perfil de Samuel Fortes Brasil")  
+        Por [AlanFernando502](https://www.clubedohardware.com.br/profile/1257677-alanfernando502/ "Ir ao perfil de AlanFernando502")  
         2 horas atrás
+        
+    * [![Vasto_Lorde961](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257676.thumb.jpeg.9cbb48b4c800412e35861e56f0881838.jpeg)](https://www.clubedohardware.com.br/profile/1257676-vasto_lorde961/ "Ir ao perfil de Vasto_Lorde961")
+        
+        0
+        
+        [Adaptador do headset parou de funcionar](https://www.clubedohardware.com.br/forums/topic/1705058-adaptador-do-headset-parou-de-funcionar/?do=getNewComment "Adaptador do headset parou de funcionar")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Vasto\_Lorde961](https://www.clubedohardware.com.br/profile/1257676-vasto_lorde961/ "Ir ao perfil de Vasto_Lorde961")  
+        2 horas atrás
+        
+    * [![anala](https://www.clubedohardware.com.br/uploads/members/monthly_2022_06/imported-photo-1196089.thumb.png.2f27c3215d7f929d0def3347dfb2c44f.png)](https://www.clubedohardware.com.br/profile/1196089-anala/ "Ir ao perfil de anala")
+        
+        0
+        
+        [Fonte X placa de vídeo nova](https://www.clubedohardware.com.br/forums/topic/1705057-fonte-x-placa-de-v%C3%ADdeo-nova/?do=getNewComment "Fonte X placa de vídeo nova")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [anala](https://www.clubedohardware.com.br/profile/1196089-anala/ "Ir ao perfil de anala")  
+        3 horas atrás
+        
+    * [![Ginke](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/Patrick.thumb.jpg.5da8e0eee9a5b06ba9cbf3d005840276.jpg)](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")
+        
+        2
+        
+        [Me recomendem um bom headset no valor máximo de 280 R$](https://www.clubedohardware.com.br/forums/topic/1705056-me-recomendem-um-bom-headset-no-valor-m%C3%A1ximo-de-280-r/?do=getNewComment "Me recomendem um bom headset no valor máximo de 280 R$")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [Ginke](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")  
+        3 horas atrás
+        
+    * [![Milton2024](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257674.thumb.jpeg.a8c3e7d7bba7332d5ed574f04a08b783.jpeg)](https://www.clubedohardware.com.br/profile/1257674-milton2024/ "Ir ao perfil de Milton2024")
+        
+        0
+        
+        [placa-mãe gamer nova não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1705055-placa-m%C3%A3e-gamer-nova-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "placa-mãe gamer nova não dá vídeo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Milton2024](https://www.clubedohardware.com.br/profile/1257674-milton2024/ "Ir ao perfil de Milton2024")  
+        3 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
