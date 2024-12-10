@@ -14,7 +14,6 @@ Welcome to the
 
 [](https://account.samsung.com/membership/contents/profile/profile-gate)
 
-* Cyber Deals
 * Shop
 * AI
 * Mobile
