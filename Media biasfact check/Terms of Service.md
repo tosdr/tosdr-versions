@@ -182,25 +182,25 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Bugout.news – Bias and Credibility](https://mediabiasfactcheck.com/bugout-news/ "View Bugout.news – Bias and Credibility") - December 9, 2024
+    
+* [Bucks County Standard – Bias and Credibility](https://mediabiasfactcheck.com/bucks-county-standard-bias/ "View Bucks County Standard – Bias and Credibility") - December 9, 2024
+    
+* [Bryan Times – Bias and Credibility](https://mediabiasfactcheck.com/bryan-times-bias/ "View Bryan Times – Bias and Credibility") - December 9, 2024
+    
+* [Brut.Media – Bias and Credibility](https://mediabiasfactcheck.com/brut-media-bias/ "View Brut.Media – Bias and Credibility") - December 9, 2024
+    
+* [Brownstone Institute – Bias and Credibility](https://mediabiasfactcheck.com/brownstone-institute-bias/ "View Brownstone Institute – Bias and Credibility") - December 9, 2024
+    
+* [Brooklyn Center Sun Post – Bias and Credibility](https://mediabiasfactcheck.com/brooklyn-center-sun-post-bias/ "View Brooklyn Center Sun Post – Bias and Credibility") - December 9, 2024
+    
+* [Brockton Enterprise – Bias and Credibility](https://mediabiasfactcheck.com/brockton-enterprise-bias/ "View Brockton Enterprise – Bias and Credibility") - December 9, 2024
+    
+* [Bristol Reporter – Bias and Credibility](https://mediabiasfactcheck.com/bristol-reporter-bias/ "View Bristol Reporter – Bias and Credibility") - December 9, 2024
+    
+* [Bristol Herald Courier – Bias and Credibility](https://mediabiasfactcheck.com/bristol-herald-courier-bias/ "View Bristol Herald Courier – Bias and Credibility") - December 9, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - December 9, 2024
-    
-* [Alton Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/alton-telegraph-bias-and-credibility/ "View Alton Telegraph – Bias and Credibility") - December 9, 2024
-    
-* [Houston Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/houston-chronicle/ "View Houston Chronicle – Bias and Credibility") - December 9, 2024
-    
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - December 9, 2024
-    
-* [Civil Eats – Bias and Credibility](https://mediabiasfactcheck.com/civil-eats-bias-and-credibility/ "View Civil Eats – Bias and Credibility") - December 9, 2024
-    
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - December 9, 2024
-    
-* [Frontiers in Industrial Microbiology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-industrial-microbiology-bias/ "View Frontiers in Industrial Microbiology – Bias and Credibility") - December 9, 2024
-    
-* [The Coast (Halifax) – Bias and Credibility](https://mediabiasfactcheck.com/the-coast-halifax-bias/ "View The Coast (Halifax) – Bias and Credibility") - December 9, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - December 9, 2024
-    
-* [Clearfield Progress – Bias and Credibility](https://mediabiasfactcheck.com/clearfield-progress-bias-and-credibility/ "View Clearfield Progress – Bias and Credibility") - December 9, 2024
     
 
 #### Today’s Top Page Views
@@ -210,11 +210,11 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Search](https://mediabiasfactcheck.com/search/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Search](https://mediabiasfactcheck.com/search/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [MBFC's Daily Vetted Fact Checks for 12/08/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/12/08/mbfcs-daily-vetted-fact-checks-for-12-08-2024-weekend-edition/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
