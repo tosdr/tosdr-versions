@@ -507,9 +507,9 @@ ADD TO TOTE
 
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-green-beauty-awards-highly_08c009e8-1e2b-416b-a8f2-94ecc2cccee7.png?crop=center&height=85&v=1697822128&width=85)](https://www.100percentpure.com/products/bright-eyes-masks)
 
-[![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1695873942)](https://www.100percentpure.com/products/bright-eyes-masks)
+[![bright-eyes-masks](https://www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_239x254.jpg?v=1733855528)](https://www.100percentpure.com/products/bright-eyes-masks)
 
-![ 1FEMBE_Primary](//www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_220x.jpg?v=1695873942)
+![ 1FEMBE_Primary](//www.100percentpure.com/cdn/shop/files/1FEMBE_Bright_Eyes_Primary_220x.jpg?v=1733855528)
 
 ### [Bright Eyes Masks](https://www.100percentpure.com/products/bright-eyes-masks)
 
@@ -555,11 +555,11 @@ Default Title - $55
 
 ADD TO TOTE
 
-[![ginseng-collagen-boost-mask](https://www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_239x254.jpg?v=1695863857)](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
+[![ginseng-royal-jelly-mask](https://www.100percentpure.com/cdn/shop/files/1FSGCB-GinsengCollagenBoostMask_239x254.jpg?v=1733855913)](https://www.100percentpure.com/products/ginseng-royal-jelly-masks)
 
-![ 1FSGCBB5_Primary](//www.100percentpure.com/cdn/shop/files/1FSGCBB5_Ginseng_Collagen_Boost_5PK_Primary_220x.jpg?v=1695863857)
+![ Ginseng Royal Jelly Mask](//www.100percentpure.com/cdn/shop/files/1FSGCB-GinsengCollagenBoostMask_220x.jpg?v=1733855913)
 
-### [Ginseng Collagen Boost Mask](https://www.100percentpure.com/products/ginseng-collagen-boost-masks)
+### [Ginseng Royal Jelly Mask](https://www.100percentpure.com/products/ginseng-royal-jelly-masks)
 
 503 reviews (503)
 
@@ -569,13 +569,13 @@ Single - $8
 
 ADD TO TOTE
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-silver_d427b8ea-ef72-49c7-9de3-e7ddb82c5945.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-global-makeup-awards-silver_d427b8ea-ef72-49c7-9de3-e7ddb82c5945.png?crop=center&height=85&v=1697822467&width=85)](https://www.100percentpure.com/products/matcha-green-tea-antioxidant-hydrogel-mask)
 
-[![green-tea-water-bomb-mask](https://www.100percentpure.com/cdn/shop/files/1FSGTWB_Green_Tea_Water_Bomb_Primary_239x254.jpg?v=1695942686)](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+[![matcha-green-tea-antioxidant-hydrogel-mask](https://www.100percentpure.com/cdn/shop/files/1FSGTWB-GreenTeaWaterBomb_239x254.jpg?v=1733854174)](https://www.100percentpure.com/products/matcha-green-tea-antioxidant-hydrogel-mask)
 
-![ 1FSGTWB_Primary](//www.100percentpure.com/cdn/shop/files/1FSGTWB_Green_Tea_Water_Bomb_Primary_220x.jpg?v=1695942686)
+![ Matcha Green Tea Antioxidant Hydrogel Mask](//www.100percentpure.com/cdn/shop/files/1FSGTWB-GreenTeaWaterBomb_220x.jpg?v=1733854174)
 
-### [Green Tea Water Bomb Mask](https://www.100percentpure.com/products/green-tea-water-bomb-masks)
+### [Matcha Green Tea Antioxidant Hydrogel Mask](https://www.100percentpure.com/products/matcha-green-tea-antioxidant-hydrogel-mask)
 
 464 reviews (464)
 
