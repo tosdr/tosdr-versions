@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)                    
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)          
 
-Privacy Policy – Omax Health - Omax Health                                 
+Privacy Policy – Omax Health - Omax Health                                           
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
@@ -303,13 +303,13 @@ Go to product page
 
 ### Let customers speak for us
 
-[3421 reviews](https://omaxhealth.com/pages/reviews)
+[3422 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
 91%
 
-(3098)
+(3099)
 
 5%
 
@@ -327,7 +327,17 @@ Go to product page
 
 (54)
 
-2216
+2217
+
+J
+
+[CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Jennifer E.
+
+**Better than the rest!**
+
+We first heard about Omax when listening to one of our favorite podcasts and decided to try it...and we are glad we did! This product is much more effective than other roll-on pain relievers out there! We will be repeat customers!
 
 S
 
@@ -348,15 +358,5 @@ Frances K.
 **I have been using omax3 for a very long time**
 
 My cholesterol dropped from 205 to 165 in 6 most.
-
-B
-
-[CryoFreeze® Hemp CBD Roll-On | Regular](https://omaxhealth.com/products/omax-cryofreeze-cbd-roll-on#judgeme_product_reviews)
-
-Barbara W.
-
-**Several uses**
-
-We have not only used this product for body/muscle pain treatment, but I have a problem with terribly itchy palms and fingers. I use the cry o freeze extra strength to help that too. Takes about 10 minutes to kick in but it always helps! Always take it with me traveling because I never know when the itching attacks will happen. I always have an extra bottle on hand because I dread running out!
 
 Load More
