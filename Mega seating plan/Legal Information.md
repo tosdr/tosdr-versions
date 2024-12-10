@@ -15,7 +15,8 @@ Close menu
 2. [Privacy Policy](https://www.seatingplan.com/privacy)
     
 
-### Privacy Notice
+Privacy Notice
+==============
 
 **Last updated: 11th August 2024**
 
