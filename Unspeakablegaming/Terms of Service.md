@@ -18,9 +18,6 @@ Header - Shapes Theme
 
 * Toys
     
-    * [![8" ZANY WHOOPEE CUSHION](//www.unspeakable.com/cdn/shop/files/DSC_1051_1.jpg?v=1729003688&width=700)
-        
-        8" ZANY WHOOPEE CUSHION](https://www.unspeakable.com/products/8-zany-whoopee-cushion)
     * [![GRAVITY TRACKS](//www.unspeakable.com/cdn/shop/files/DSC_0978.jpg?v=1713976660&width=700)
         
         GRAVITY TRACKS](https://www.unspeakable.com/products/gravity-tracks)
@@ -36,6 +33,9 @@ Header - Shapes Theme
     * [![MAGIC CUBE](//www.unspeakable.com/cdn/shop/files/DSC_0913_1_c5c69abb-77f3-47d3-94bc-57fe145a48cd.jpg?v=1699029762&width=700)
         
         MAGIC CUBE](https://www.unspeakable.com/products/magic-cube)
+    * [![SMOL BOI PLUSH](//www.unspeakable.com/cdn/shop/files/DSC06119_1.jpg?v=1699630948&width=700)
+        
+        SMOL BOI PLUSH](https://www.unspeakable.com/products/smol-boi-plush)
     
     [View All](https://www.unspeakable.com/collections/toys-fun-stuff)
     
@@ -56,9 +56,9 @@ Header - Shapes Theme
     * [![TATTOO BOOK](//www.unspeakable.com/cdn/shop/files/DSC_0001_1.jpg?v=1733168959&width=700)
         
         TATTOO BOOK](https://www.unspeakable.com/products/tattoo-book)
-    * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
+    * [![BLACK & BLUE BEANIE](//www.unspeakable.com/cdn/shop/files/Beaniephoto1_1.jpg?v=1732550036&width=700)
         
-        2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
+        BLACK & BLUE BEANIE](https://www.unspeakable.com/products/black-bue-beanie)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
