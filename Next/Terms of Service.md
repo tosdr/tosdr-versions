@@ -1,6 +1,6 @@
 6.0.12
 
-1733820268376
+1733840869164
 
                                       
 
@@ -12,7 +12,7 @@ en
 
 4.0.1
 
-1733820304149
+1733841375560
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1733820424042
+1733842046523
 
 You need to enable JavaScript to run this app.
 
@@ -1402,24 +1402,6 @@ D. Share to your stories for an extra entry15. Entries made after 17:00pm on Sat
 32. The competition and these Terms and Conditions are governed by English law and the parties submit to the non-exclusive jurisdiction of the English courts.
 
 Details of the competition winner will be available for 14 days after the competition ends by writing to Lipsy London Limited Marketing, Glen House, Tottenham Court Road, London, W1T 7PL and Lipsy London will provide the details of the winning entry to the Advertising Standards Authority on request.
-
-### Clinique Promotion
-
-The Clinique 6-piece Beauty Gift Set will be automatically added to bag when you buy any 2 selected Clinique products, one of which must be skincare or foundation. The Clinique Gift contains:
-
-* All About Clean Liquid Facial Soap Mild 200ml
-* Dramatically Different Moisturizing Lotion+ 30ml
-* All About Eyes 5ml
-* Almost Lipstick in Pink Honey 1.2g
-* High Impact Mascara in Black 3.5ml
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The Clinique Gift will be automatically added once 2 qualifying Clinique products have been added to the bag on either the Product or Shopping Bag Pages.
-
-The promotion can only be used by the account holder and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
 
 Offer applies while stocks last.
 
@@ -3403,7 +3385,7 @@ You need to enable JavaScript to run this app.
 
 4.0.1
 
-1733820355569
+1733841185410
 
 ##### Our Social Networks
 
