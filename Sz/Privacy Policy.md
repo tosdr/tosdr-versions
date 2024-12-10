@@ -16,13 +16,13 @@
 Datenschutzhinweise
 ===================
 
-27.11.2024
+10.12.2024
 
 Wenn Sie ein Angebot der Süddeutschen Zeitung als SZ Plus-Abonnent:in nutzen, verarbeitet die Süddeutsche Zeitung GmbH Ihre personenbezogenen Daten. Mit diesen Datenschutzhinweisen informieren wir Sie, wie und warum wir Ihre Daten verarbeiten und wie wir gewährleisten, dass sie vertraulich bleiben und geschützt sind. Wenn Sie Abonnent:in der gedruckten SZ sind, finden Sie die entsprechenden Datenschutzhinweise der dann einschlägigen Datenverarbeitungen unter den Punkten [Vertragsabwicklung](#Bestellen), [Kommunikation](#Kommunikation) und [Werbung für unsere Produkte](#Direktwerbung)
 
 Wenn Sie SZ.de nutzen, indem Sie nach dem Aufrufen der Webseite einen Vertrag mit Werbung abschließen bzw. abgeschlossen haben, finden Sie die in diesem Fall geltenden Datenschutzhinweise [hier](https://www.swmh-datenschutz.de/sz_vertragmitwerbung).
 
-[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.23/sz.pdf)
+[als PDF speichern](https://datenschutz.sueddeutsche.de/sz/9.24/sz.pdf)
 
 Die wichtigsten Themen auf einen Blick
 
@@ -855,15 +855,17 @@ Wir unterhalten Auftritte in den „Sozialen Medien“. Soweit wir die Kontrolle
 
 Verantwortlich für die Unternehmensauftritte im Sinne der EU-Datenschutz-Grundverordnung (DSGVO) sowie sonstiger datenschutzrechtlicher Bestimmungen sind neben [uns](#Verantwortlicher):
 
+* **Instagram** (Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland); weitere Informationen zum Datenschutz finden Sie [hier](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect).
+
 * **Meta Platforms** (Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland); weitere Informationen zum Datenschutz finden Sie [hier](https://de-de.facebook.com/privacy/policy/?entry_point=data_policy_redirect&entry=0).
 
-* **Instagram** (Meta Platforms Ireland Limited, 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland); weitere Informationen zum Datenschutz finden Sie [hier](https://privacycenter.instagram.com/policy/?entry_point=ig_help_center_data_policy_redirect).
+* **LinkedIn** (LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland); weitere Informationen zum Datenschutz finden Sie [hier](https://de.linkedin.com/legal/privacy-policy?).
 
 * **Pinterest** (Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland); weitere Informationen zum Datenschutz finden Sie [hier](https://policy.pinterest.com/de/privacy-policy).
 
-* **X** (Twitter International Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland); weitere Informationen zum Datenschutz finden Sie [hier](https://twitter.com/de/privacy).
+* **TikTok** (TikTok Technology Ltd., 10 Earlsfort Terrace, Dublin D02 T380, Ireland); weitere Informationen zum Datenschutz finden Sie [hier](https://www.tiktok.com/legal/page/eea/privacy-policy/de-DE).
 
-* **LinkedIn** (LinkedIn Ireland Unlimited Company, Wilton Place, Dublin 2, Irland); weitere Informationen zum Datenschutz finden Sie [hier](https://de.linkedin.com/legal/privacy-policy?).
+* **X** (Twitter International Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Ireland); weitere Informationen zum Datenschutz finden Sie [hier](https://twitter.com/de/privacy).
 
 * **Xing** (New Work SE, Am Strandkai 1, 20457 Hamburg); weitere Informationen zum Datenschutz finden Sie [hier](https://privacy.xing.com/de/datenschutzerklaerung).
 
@@ -880,29 +882,43 @@ Sollten Sie dennoch Hilfe benötigen, versuchen wir Sie natürlich zu unterstüt
 
 Für eine detaillierte Darstellung der jeweiligen Verarbeitungen und der Widerrufsmöglichkeiten verweisen wir auf die nachfolgend verlinkten Angaben.
 
-#### Widerruf bei Meta Platforms
+* **LinkedIn** [Optout](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=microsites-frontend_legal_cookie-policy)
 
-* [Datenschutzerklärung von Meta Platforms](https://de-de.facebook.com/policy.php)
-* [Opt-Out bei Meta Platforms](https://www.facebook.com/settings?tab=ads)
+* **Meta Platforms** [Optout](https://www.facebook.com/settings?tab=ads)
 
-#### Widerruf bei Pinterest
+* **Pinterest** [Optout](https://policy.pinterest.com/de/cookies "opt-out Pinterest")
 
-* [Datenschutzerklärung von Pinterest](https://policy.pinterest.com/de/privacy-policy "Datenschutz Pinterest")
-* [Optout bei Pinterest](https://policy.pinterest.com/de/cookies "opt-out Pinterest")
+* **TikTok** [Optout](https://support.tiktok.com/de/account-and-privacy)
 
-#### Widerruf bei X
+* **X** [Optout](https://twitter.com/settings/personalization "Opt-out Twitter")
 
-* [Datenschutzerklärung von Twitter](https://twitter.com/de/privacy "Datenschutz Twitter")
-* [Optout bei Twitter](https://twitter.com/settings/personalization "Opt-out Twitter")
+* **Xing** [Optout](https://privacy.xing.com/de/datenschutzerklaerung/welche-rechte-koennen-sie-geltend-machen/widerspruchsrecht)
 
-#### Widerruf bei LinkedIn
+#### Unternehmenspräsenz auf TikTok
 
-* [Datenschutzerklärung von LinkedIn](https://www.linkedin.com/legal/privacy-policy?trk=homepage-basic_footer-privacy-policy)
-* [Optout bei LinkedIn für Werbecookies](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=microsites-frontend_legal_cookie-policy)
+Wir nutzen für die Präsentation unseres Unternehmens die technische Plattform und die Dienste der TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Irland (im Folgenden: „TikTok“).
 
-#### Widerruf bei Xing
+Wenn Sie einen unserer Beiträge kommentieren, teilen oder ansonsten darauf reagieren, verarbeiten wir als alleinige Verantwortliche personenbezogene Daten. Dazu gehören Ihre TikTok-Benutzerdaten (insbesondere Anzeigename, Benutzername, Profil-Bild), der Inhalt der von Ihnen abgegebenen Kommentare und die diesbezüglichen Metadaten (insbesondere das Datum, an dem Sie den jeweiligen Kommentar gepostet haben). Sofern Sie uns außerdem auf TikTok folgen, verarbeitet wir diese Information ebenfalls.
 
-* [Datenschutzerklärung von Xing](https://privacy.xing.com/de/datenschutzerklaerung?sc_o=cookie_consent_banner_privacy_policy_click&sc_o_PropActionOrigin=cookie_consent_banner_bottom)
+Wir verarbeitet diese Daten um die Informationsfreiheit, die freie Meinungsbildung und -äußerung, die pluralistische Meinungsvielfalt und damit die demokratische Willensbildung sowie den Austausch über aktuelle Themen zu unterstützen. Außerdem möchten wir mit unseren Beiträgen für unsere Marke und Produkte begeistern. So können wir uns unmittelbar und schnell mit Ihnen austauschen und Sie können am Diskurs über aktuelle Themen teilhaben.
+
+Für unseren TikTok-Kanal haben wir die TikTok-Analytics-Funktion aktiviert, d.h. TikTok stellt uns eine Seitenstatistik zur Verfügung, die anonymisiert Aufschluss über Besuchergruppen und Besucheraktivitäten gibt. Für diese Datenverarbeitung sind wir zusammen mit TikTok gemeinsam verantwortlich, was gemäß Art. 26 DSGVO in Part B des [TikTok Analytics Joint Controller Addendums](https://ads.tiktok.com/i18n/official/policy/jurisdiction-specific-terms) geregelt ist.
+
+Die o.g. Daten speichern wir solange sie für diese Zwecke erforderlich sind und sofern und solange dies für rechtliche Verfahren oder zur Erfüllung von Aufbewahrungspflichten erforderlich ist.
+
+Rechtsgrundlage für die Verarbeitung der Daten ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+**Datenverarbeitung durch TikTok**
+
+Wenn Sie uns auf TikTok besuchen, erfasst TikTok u. a. Ihre IP-Adresse sowie weitere Informationen, die zum Beispiel in Form von Cookies auf Ihrem Endgerät vorhanden sind. Die in diesem Zusammenhang über Sie erhobenen Daten werden von TikTok verarbeitet und dabei gegebenenfalls in Länder außerhalb des Europäischen Wirtschaftsraums übertragen. Für diese Datenverarbeitungen ist allein TikTok datenschutzrechtlich Verantwortlicher.
+
+Nähere Informationen zur Datenverarbeitung durch TikTok beschreibt TikTok in seiner [Datenschutzrichtlinie](https://www.tiktok.com/legal/page/eea/privacy-policy/de). Dort finden Sie auch Informationen über Kontaktmöglichkeiten zu TikTok, wie Sie Ihre Rechte gegenüber TikTok geltend machen können sowie Links zu u.a. den Cookie-Richtlinien von TikTok.
+
+In seinen Cookie-Richtlinien erläutert TikTok, wie es Cookies einsetzt und verwendet. TikTok setzt Cookies sowohl bei registrierten als auch bei nicht registrierten Nutzern ein. Das Bundesamt für Sicherheit in der Informationstechnik (BSI) stellt Informationen bereit, wie Sie auf Ihrem Endgerät Cookies begrenzen können: [Begrenzung von Cookies](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Cyber-Sicherheitsempfehlungen/Updates-Browser-Open-Source-Software/Der-Browser/JavaScript-Cookies-Fingerprints/javascript-cookies-fingerprints_node.html)
+
+Informationen dazu, wie Sie Ihre Privatsphäre-Einstellungen bei TikTok verwalten oder Ihr Konto löschen können, finden Sie u.a. auf den [TikTok-Support-Seiten](https://support.tiktok.com/de/account-and-privacy).
+
+Nach eigenen Angaben speichert TikTok Daten, so lange, wie es für die Bereitstellung der Plattform und für die anderen in TikToks Datenschutzerklärung genannten Zwecke erforderlich ist. Laut Eigenaussage von TikTok bewahrt es die Daten zudem auch auf, wenn dies zur Erfüllung vertraglicher und rechtlicher Verpflichtungen erforderlich ist, wenn TikTok ein berechtigtes Geschäftsinteresse daran hat, und zur Geltendmachung oder Verteidigung von Rechtsansprüchen. Nähere Informationen zur Speicherung der Daten finden Sie in den [TikTok-Datenschutzrichtlinien](https://www.tiktok.com/legal/page/eea/privacy-policy/de).
 
 ![Illustration](//images.ctfassets.net/jopovb6lh5n2/59RW6KReDu42qGKwyiQYAc/fda455b70b317fb2770add280b280135/illu4.png)
 
