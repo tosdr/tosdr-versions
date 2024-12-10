@@ -663,7 +663,7 @@ EU GDPR Representative: Moloco Germany GmbH, with registered address Am Zirkus 2
 
 [Moloco for Mobile App Marketers](https://www.molocoads.com/solutions/moloco-for-user-acquisition)[Moloco for Agency Partners](https://www.molocoads.com/solutions/agency-partner-program)[Moloco for Commerce Platforms](https://www.molocoads.com/solutions/moloco-for-retail-and-marketplaces)[Moloco for Streaming Platforms](https://www.molocoads.com/solutions/moloco-streaming-monetization)[Moloco for Games](https://www.molocoads.com/solutions/moloco-for-games)
 
-[**About Moloco**](https://www.molocoads.com/about)[**Blog**](https://www.molocoads.com/blogs)[**Careers**](https://www.molocoads.com/careers)[**Newsroom**](https://www.molocoads.com/newsroom)[**Developers**](https://www.molocoads.com/developers)[**Suppliers**](https://www.molocoads.com/supplier-portal)
+[**About Moloco**](https://www.molocoads.com/about)[**Blog**](https://www.molocoads.com/blogs)[**Careers**](https://www.molocoads.com/careers)[**Newsroom**](https://www.molocoads.com/newsroom)[**Developers**](https://developer.moloco.cloud/)[**Suppliers**](https://www.molocoads.com/supplier-portal)
 
 © 2022 Moloco, Inc. All rights reserved  
 Privacy Policy | Brand Safety Policy  |  Advertising Policy
