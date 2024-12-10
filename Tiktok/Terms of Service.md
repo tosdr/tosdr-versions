@@ -283,3 +283,63 @@ By downloading the Platform from Google Play (or its successors) operated by Goo
 -------------------
 
 You can reach us at: [https://www.tiktok.com/legal/report/feedback](https://www.tiktok.com/legal/report/feedback) or write us at TikTok Inc.: 5800 Bristol Parkway, Suite 100, Culver City, CA 90230, USA
+
+[![](https://p16-ttark.tiktokcdn-us.com/tos-useast5-i-1rzkm2vceq-tx/acf493e846430d78c050e9d8d7382c6b.svg~tplv-1rzkm2vceq-default:0:0:q75.image)](https://www.tiktok.com/ "TikTok")**TikTok**
+
+#### Company
+
+[About TikTok](https://www.tiktok.com/about?lang=en)
+
+[Newsroom](https://newsroom.tiktok.com/?lang=en)
+
+[Contact](https://www.tiktok.com/about/contact?lang=en)
+
+[Careers](https://careers.tiktok.com/?lang=en)
+
+[ByteDance](https://www.bytedance.com/?lang=en)
+
+#### Programs
+
+[TikTok for Good](https://www.tiktok.com/for-good?lang=en)
+
+[TikTok for Developers](https://developers.tiktok.com/?lang=en)
+
+[Effect House](https://effecthouse.tiktok.com/?lang=en)
+
+[Advertise on TikTok](https://www.tiktok.com/business?lang=en)
+
+[TikTok Browse](https://www.tiktok.com/browse?lang=en)
+
+[TikTok Embeds](https://www.tiktok.com/embed?lang=en)
+
+[TikTok Rewards](https://www.tiktok.com/tiktok-rewards?lang=en)
+
+#### Resources
+
+[Help Center](https://support.tiktok.com/?lang=en)
+
+[Safety Center](https://www.tiktok.com/safety?lang=en)
+
+[Privacy Center](https://www.tiktok.com/privacy/overview?lang=en)
+
+[Creator Academy](https://www.tiktok.com/creator-academy?lang=en)
+
+[Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en)
+
+[Transparency](https://www.tiktok.com/transparency?lang=en)
+
+[Accessibility](https://www.tiktok.com/accessibility?lang=en)
+
+#### Legal
+
+[Terms of Service](https://www.tiktok.com/legal/terms-of-service?lang=en)
+
+[Privacy Policy](https://www.tiktok.com/legal/privacy-policy?lang=en)
+
+[Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en)
+
+[TikTok Law Enforcement Guidelines](https://www.tiktok.com/legal/law-enforcement?lang=en)
+
+[Children's Privacy Policy](https://www.tiktok.com/legal/privacy-policy-for-younger-users?lang=en)
+
+© 2024 TikTok
