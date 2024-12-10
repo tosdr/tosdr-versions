@@ -109,12 +109,6 @@ Crowdmade is for everyone. Build a store today and support your passion!
 
 [Sign Up Free](https://dashboard.crowdmade.com/)
 
-Design your own merch
-
-Now you can design and buy your own merch!
-
-[Start Designing](https://crowdmade.com/pages/customize)
-
 Crowdmade
 
 Crowdmade
