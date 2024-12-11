@@ -105,7 +105,7 @@ Contact Us
 
 **servers.guru**: [srvguru7bjzzjba7xy2hnx2ju4k77qy4eum2h3tgudwc3j2zof4aggyd.onion](http://srvguru7bjzzjba7xy2hnx2ju4k77qy4eum2h3tgudwc3j2zof4aggyd.onion/)
 
-**my.servers.guru**: [mysguru5rigppyihrnsejsa2wb3vv35wlzvx5u7bahw2uld3rxycphqd.onion](http:// http://mysguru5rigppyihrnsejsa2wb3vv35wlzvx5u7bahw2uld3rxycphqd.onion)
+**my.servers.guru**: [mysguru5rigppyihrnsejsa2wb3vv35wlzvx5u7bahw2uld3rxycphqd.onion](http://mysguru5rigppyihrnsejsa2wb3vv35wlzvx5u7bahw2uld3rxycphqd.onion/)
 
 [Telegram](https://t.me/serversguru) [\[email protected\]](https://servers.guru/cdn-cgi/l/email-protection)[](https://matrix.to/#/@servers.guru:matrix.servers.guru)
 
