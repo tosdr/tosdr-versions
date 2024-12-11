@@ -133,7 +133,7 @@ We are continuously improving our digital accessibility, recognizing the importa
                 * [VUL Optimizer®](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-optimizer)
                 * [VUL Optimizer® Max](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-optimizer-max)
                 * [COIL Institutional Series℠](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-coil-institutional-series)
-                * [VUL Survivorship](https://equitable.com/financial-professionals/life-insurance/variable-universal-life-insurance-vul-survivorship)
+                * [VUL Survivorship](#)
                 * [BrightLife® Grow](https://equitable.com/financial-professionals/life-insurance/indexed-universal-life-insurance-brightlife-grow)
                 * [Term Series](https://equitable.com/financial-professionals/life-insurance/term-life-insurance-policies)
                 * [Guaranteed Issue](https://equitable.com/financial-professionals/life-insurance/guaranteed-issue)
