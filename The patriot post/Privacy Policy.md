@@ -1,6 +1,6 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,10 +134,6 @@ Last Updated: November 15, 2011.
 *      [Daniel McCarthy Birthright Citizenship Is a Breach in the Border](https://patriotpost.us/opinion/112681-birthright-citizenship-is-a-breach-in-the-border-2024-12-10)
 *      [Salena Zito Whiskey Resurgence in the Heart of the Rebellion](https://patriotpost.us/opinion/112680-whiskey-resurgence-in-the-heart-of-the-rebellion-2024-12-10)
 *      [Allen West No One Is Above the Law … Unless](https://patriotpost.us/opinion/112631-no-one-is-above-the-law-dot-dot-dot-unless-2024-12-10)
-*      [Cal Thomas Pardoning the Unpardonable](https://patriotpost.us/opinion/112661-pardoning-the-unpardonable-2024-12-10)
-*      [The Washington Stand Johnson Wows With Anti-Woke Wins in NDAA Compromise](https://patriotpost.us/opinion/112684-johnson-wows-with-anti-woke-wins-in-ndaa-compromise-2024-12-10)
-*      [The Babylon Bee More Accurate Wedding Vows for Him and Her](https://patriotpost.us/opinion/112679-more-accurate-wedding-vows-for-him-and-her-2024-12-10)
-*      [Guest Commentary Progressive Fragility](https://patriotpost.us/opinion/112678-progressive-fragility-2024-12-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -151,11 +147,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
