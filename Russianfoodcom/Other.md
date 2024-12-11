@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_7.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Рулет из лаваша с сельдью, свёклой, морковью и картофелем](https://www.russianfood.com/recipes/recipe.php?rid=159510)
+* [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076)
+* [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022)
 * [Бабка с яблоками и творогом](https://www.russianfood.com/recipes/recipe.php?rid=52531)
 * [Салат яблочный с творогом и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=60879)
 * [Творожные палатшинкен](https://www.russianfood.com/recipes/recipe.php?rid=93639)
 * [Горячие бутерброды с ливерной колбасой и яйцами](https://www.russianfood.com/recipes/recipe.php?rid=1979)
 * [Мещерская окрошка](https://www.russianfood.com/recipes/recipe.php?rid=3683)
-* [Сосиски в тесте (hot dogs)](https://www.russianfood.com/recipes/recipe.php?rid=3902)
-* [Рулет мясной, фаршированный копченостями](https://www.russianfood.com/recipes/recipe.php?rid=4396)
-* [Ассорти мясное](https://www.russianfood.com/recipes/recipe.php?rid=5223)
-* [Яичница-глазунья со шпиком, колбасой или сосисками](https://www.russianfood.com/recipes/recipe.php?rid=5296)
+* [Бутерброды с сосиской и яйцом](https://www.russianfood.com/recipes/recipe.php?rid=5485)
+* [Бутерброды с килькой и ливерной колбасой](https://www.russianfood.com/recipes/recipe.php?rid=5489)
+* [Бутерброды со свеклой](https://www.russianfood.com/recipes/recipe.php?rid=5523)
 
 |     |
 | --- |
@@ -182,6 +182,90 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) |     |
+
+[![Фото к рецепту: Пряный тыквенный кекс](//img1.russianfood.com/dycontent/images_upl/759/sm_758670.jpg "Фото к рецепту: Пряный тыквенный кекс")](https://www.russianfood.com/recipes/recipe.php?rid=175022)
+
+Секрет успеха этой выпечки - тыква. Она придаёт кексу яркий оранжевый цвет и делает его влажным, но её вкус почти не ощущается. Всё внимание захватывают пряности - корица и имбирь, которые делают аромат кекса тёплым. Угадать, из чего приготовлен этот кекс, будет непросто.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175022)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175022#comments) | 12.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) |     |
+
+[![Фото к рецепту: Яичные роллы с крабовыми палочками и сыром](//img1.russianfood.com/dycontent/images_upl/760/sm_759568.jpg "Фото к рецепту: Яичные роллы с крабовыми палочками и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=175076)
+
+Яичные роллы с крабовыми палочками — простая закуска для праздника. На яичные блинчики выкладываются развёрнутые крабовые палочки, сыр и майонез, затем формируются рулетики, которые разрезаются на порции. Подаются горячими или холодными.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175076)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175076#comments) | 12.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) |     |
+
+[![Фото к рецепту: Закусочный пирог из лаваша, с сыром и зелёным горошком](//img1.russianfood.com/dycontent/images_upl/759/sm_758882.jpg "Фото к рецепту: Закусочный пирог из лаваша, с сыром и зелёным горошком")](https://www.russianfood.com/recipes/recipe.php?rid=174942)
+
+Лаваш позволяет приготовить такой закусочный пирог без замешивания теста. Молоко смешивается с яйцами, а затем к этой смеси добавляются зелёный горошек, два вида сыра - твёрдый и брынза, а также рваный на кусочки лаваш. Сверху пирог посыпается чёрным кунжутом. Вкусно и просто.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174942)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174942#comments) | 12.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) |     |
+
+[![Фото к рецепту: Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](//img1.russianfood.com/dycontent/images_upl/760/sm_759431.jpg "Фото к рецепту: Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом")](https://www.russianfood.com/recipes/recipe.php?rid=174889)
+
+Слоёный пирог со шпинатом и двумя видами сыра можно красиво оформить в виде ели и подать на рождественский или новогодний стол. Тесто используется магазинное, что делает приготовление быстрым и удобным.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174889)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174889#comments) | 12.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Новогодние рецепты на новогодний стол 2025 - год Змеи](https://www.russianfood.com/themes/?theme_id=30)<br><br>[Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) |     |
+
+[![Фото к рецепту: Салат "Змея" с картошкой, рыбными консервами и сыром](//img1.russianfood.com/dycontent/images_upl/757/sm_756936.jpg "Фото к рецепту: Салат "Змея" с картошкой, рыбными консервами и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=174807)
+
+Сверкающие гирлянды, запах мандаринов и, конечно же, новогодний салат! Если оформить его в виде символа года - Змеи, такое блюдо станет главным на новогоднем столе 2025. Готовится такой салат из отварного картофеля, консервированной рыбы, кукурузы, яиц и твёрдого сыра. А для оформления нужно лишь проявить немного фантазии.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174807)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174807#comments) | 11.12.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) |     |
+
+[![Фото к рецепту: Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](//img1.russianfood.com/dycontent/images_upl/755/sm_754914.jpg "Фото к рецепту: Круглая гата с начинкой "хориз" (с сухофруктами и орехами)")](https://www.russianfood.com/recipes/recipe.php?rid=174633)
+
+Начинка "хориз" готовится из муки, сливочного масла и сахара, а в этом варианте дополняется орехами и сухофруктами и ароматизируется ромом. Завёрнута начинка в сметанное песочное тесто. Перед отправкой в духовку гата смазывается желтком, благодаря чему приобретает аппетитную румяную корочку.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174633)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174633#comments) | 11.12.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Рулет из печёночных блинчиков](https://www.russianfood.com/recipes/recipe.php?rid=175069) |     |
 
 [![Фото к рецепту: Рулет из печёночных блинчиков](//img1.russianfood.com/dycontent/images_upl/759/sm_758570.jpg "Фото к рецепту: Рулет из печёночных блинчиков")](https://www.russianfood.com/recipes/recipe.php?rid=175069)
@@ -192,7 +276,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175069#comments) | 11.12.24 |     |
+|     | [Yuliya-s](https://www.russianfood.com/blogs/?id=314972) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175069#comments) | 11.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -262,7 +346,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174419#comments) | 11.12.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174419#comments) | 11.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -276,7 +360,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_9 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175084#comments) | 10.12.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_11 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175084#comments) | 10.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -290,7 +374,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175056#comments) | 10.12.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175056#comments) | 10.12.24 |     |
 
 |     |     |
 | --- | --- |
@@ -298,97 +382,13 @@
 
 [![Фото к рецепту: Форшмак из селёдки (классический)](//img1.russianfood.com/dycontent/images_upl/759/sm_758606.jpg "Фото к рецепту: Форшмак из селёдки (классический)")](https://www.russianfood.com/recipes/recipe.php?rid=175071)
 
-Форшмак готовится преимущественно из сельди, однако встречаются рецепты и из рубленого мяса, но сегодня мы на них останавливаться не будем. Я покажу, как приготовить форшмак по классическому рецепту – из сельди с яйцами, яблоками и репчатым луком. Подавать форшмак лучше всего на обжаренных кусочках чёрного хлеба. Такая закуска понравится всем любителям сельди без исключения!
+Форшмак готовится преимущественно из сельди, однако встречаются рецепты и из рубленого мяса, но сегодня мы на них останавливаться не будем. Я покажу, как приготовить форшмак по классическому рецепту – из селёдки с яблоками и сливочным маслом. Подавать форшмак лучше всего на обжаренных кусочках чёрного хлеба. Эта закуска понравится всем любителям сельди без исключения!
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=175071)  
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [neslojno](https://www.russianfood.com/blogs/?id=288013) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=175071#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Всегда готовы к вкусному! Лучшие ЗАВТРАКИ №24-50](https://www.russianfood.com/reading/?post_id=22977) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/648/sm_647031.jpg)](https://www.russianfood.com/reading/?post_id=22977)
-
-Оладьи из вермишели с творогом. Картофельные котлеты с квашеной капустой. Тыквенная каша с рисом. Сырники с рисом, яблоком. Ленивые вареники с картофелем. Банановые гренки. Творожная намазка с зеленью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22977)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22977#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Пируем по-домашнему. Лучшие рецепты на Новый год (101)](https://www.russianfood.com/reading/?post_id=22976) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/739/sm_738559.jpg)](https://www.russianfood.com/reading/?post_id=22976)
-
-Крошка-картошка с ветчиной и сыром. Салат с колбасой и сухариками. Апельсиновый трайфл. Террин из курицы с ветчиной. Пряные рыбные котлеты с сыром и имбирём.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22976)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22976#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Новогодняя мозаика. Лучшие рецепты на КОРПОРАТИВ (26)](https://www.russianfood.com/reading/?post_id=22975) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/710/sm_709841.jpg)](https://www.russianfood.com/reading/?post_id=22975)
-
-Закуска "Цветочек" с курицей и овощами. Шампиньоны в соевом соусе. Десерт с печеньем, сыром и апельсином. Тартар из сельди с авокадо. Фаршированные яйца с крабовыми палочками.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22975)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на праздники](https://www.russianfood.com/blogs/?id=394640) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22975#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Печенье с грушей, фисташками и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174337) |     |
-
-[![Фото к рецепту: Печенье с грушей, фисташками и имбирём](//img1.russianfood.com/dycontent/images_upl/746/sm_745990.jpg "Фото к рецепту: Печенье с грушей, фисташками и имбирём")](https://www.russianfood.com/recipes/recipe.php?rid=174337)
-
-Печенье с грушей, фисташками и имбирём представляет собой отличное сочетание нежного вкуса и аппетитного аромата. Вкрапления фисташек придают лакомству интересную структуру. Сперва выпекается корж, а затем он разрезается на небольшие ромбики.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174337)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/recipes/recipe.php?rid=174337#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Картофельный гратен с творогом и сыром](https://www.russianfood.com/recipes/recipe.php?rid=173908) |     |
-
-[![Фото к рецепту: Картофельный гратен с творогом и сыром](//img1.russianfood.com/dycontent/images_upl/728/sm_727191.jpg "Фото к рецепту: Картофельный гратен с творогом и сыром")](https://www.russianfood.com/recipes/recipe.php?rid=173908)
-
-Тонкие ломтики картофеля чередуются с творожным соусом, заливаются сметанно-яичной смесью и запекаются в духовке. В конце запеканка посыпается сыром, который плавится и аппетитно тянется.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173908)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173908#comments) | 10.12.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Лимонные блонди с сахарной глазурью](https://www.russianfood.com/recipes/recipe.php?rid=173648) |     |
-
-[![Фото к рецепту: Лимонные блонди с сахарной глазурью](//img1.russianfood.com/dycontent/images_upl/724/sm_723204.jpg "Фото к рецепту: Лимонные блонди с сахарной глазурью")](https://www.russianfood.com/recipes/recipe.php?rid=173648)
-
-Этот пирог готовится из теста на основе сливочного масла, белого шоколада, яиц и лимонного сока, с добавлением цедры. После выпечки лимонный пирог поливается сахарно-лимонной глазурью, которая обеспечивает баланс сладкого и кислого. Готовый пирог обладает влажной текстурой, характерной для брауни.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173648)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173648#comments) | 10.12.24 |     |
 
 |     |
 | --- |
@@ -461,10 +461,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758606.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175071) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758053.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758570.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175069) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758354.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175056) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745990.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174337) |
-| [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Форшмак из селёдки (классический)](https://www.russianfood.com/recipes/recipe.php?rid=175071) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [Рулет из печёночных блинчиков](https://www.russianfood.com/recipes/recipe.php?rid=175069) | [Салат со свёклой, селёдкой и картофелем](https://www.russianfood.com/recipes/recipe.php?rid=175056) | [Печенье с грушей, фисташками и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174337) |
-| [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758841.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175084) |
-| [Рулетики с маком и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=175084) |
+| [![](//img1.russianfood.com/dycontent/images_upl/755/alt1_754914.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [![](//img1.russianfood.com/dycontent/images_upl/754/alt1_753284.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758053.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [![](//img1.russianfood.com/dycontent/images_upl/746/alt1_745990.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174337) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758670.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758882.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758570.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175069) |
+| [Круглая гата с начинкой "хориз" (с сухофруктами и орехами)](https://www.russianfood.com/recipes/recipe.php?rid=174633) | [Слоёная галета с цукини, рикоттой и тыквой](https://www.russianfood.com/recipes/recipe.php?rid=174632) | [Рассыпчатое кунжутное печенье](https://www.russianfood.com/recipes/recipe.php?rid=174610) | [Печенье с грушей, фисташками и имбирём](https://www.russianfood.com/recipes/recipe.php?rid=174337) | [Пряный тыквенный кекс](https://www.russianfood.com/recipes/recipe.php?rid=175022) | [Закусочный пирог из лаваша, с сыром и зелёным горошком](https://www.russianfood.com/recipes/recipe.php?rid=174942) | [Рулет из печёночных блинчиков](https://www.russianfood.com/recipes/recipe.php?rid=175069) |
+| [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759568.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758841.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175084) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758354.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175056) | [![](//img1.russianfood.com/dycontent/images_upl/759/alt1_758606.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=175071) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756173.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [![](//img1.russianfood.com/dycontent/images_upl/760/alt1_759431.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [![](//img1.russianfood.com/dycontent/images_upl/757/alt1_756936.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174807) |
+| [Яичные роллы с крабовыми палочками и сыром](https://www.russianfood.com/recipes/recipe.php?rid=175076) | [Рулетики с маком и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=175084) | [Салат со свёклой, селёдкой и картофелем](https://www.russianfood.com/recipes/recipe.php?rid=175056) | [Форшмак из селёдки (классический)](https://www.russianfood.com/recipes/recipe.php?rid=175071) | [Полента с говядиной (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174419) | [Слоеный пирог "Ёлочка" с двумя видами сыра и шпинатом](https://www.russianfood.com/recipes/recipe.php?rid=174889) | [Салат "Змея" с картошкой, рыбными консервами и сыром](https://www.russianfood.com/recipes/recipe.php?rid=174807) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -481,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(167)
+(122)
