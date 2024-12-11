@@ -21,6 +21,7 @@ Search
     [**UGC Platform** ↗UGC Social media aggregator](https://embedsocial.com/ugc/)
     
     * [Social Commerce](https://embedsocial.com/ugc/social-commerce/ "Social Commerce")
+    * [Social Media Listening](https://embedsocial.com/ugc/social-media-listening/ "Social Media Listening")
     * [Social Media Aggregator](https://embedsocial.com/social-media-aggregator/ "Social Media Aggregator")
     * [Social Media Publishing](https://embedsocial.com/social-media-publishing/ "Social Media Publishing")
     * [Social Media Widgets](https://embedsocial.com/p/templates/feed "Social Media Widgets")
