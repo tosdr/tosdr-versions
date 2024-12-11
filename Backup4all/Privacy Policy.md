@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
+* [How to backup your Facebook account](https://www.backup4all.com/how-to-backup-your-facebook-account-using-backup4all-kb.html)  
     
-* [What are Backup operators?](https://www.backup4all.com/what-are-backup-operators-kb.html)  
+* [How to back up your data to Scaleway](https://www.backup4all.com/how-to-back-up-your-data-to-scaleway-kb.html)  
     
-* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
+* [How to back up data files from IDC Frontier u ...](https://www.backup4all.com/how-to-back-up-data-files-from-idc-frontier-using-backup4all-kb.html)  
     
-* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
-* [How to Backup to Azure](https://www.backup4all.com/how-to-backup-to-azure-kb.html)  
+* [How to backup to Cloudflare R2 using Backup4a ...](https://www.backup4all.com/how-to-backup-to-cloudflare-r2-using-backup4all-kb.html)  
     
 
 Choose language:
