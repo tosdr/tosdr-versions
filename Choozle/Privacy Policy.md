@@ -2,6 +2,8 @@
 
 Call us at  [970.744.3340](tel:970-744-3340)
 
+[Get Started](https://choozle.com/digital-advertising-made-easy)
+
 [Login](https://app.choozle.com/users/login?_ga=2.129282191.2076809653.1718177524-77892844.1718177524)
 
 [![Choozle Logo white](https://choozle.com/wp-content/uploads/2024/04/Choozle-Logo-white.png)](https://choozle.com/)
@@ -56,9 +58,9 @@ Menu
 * [Contact us](https://choozle.com/connect/)
 * [Get Started](https://choozle.com/digital-advertising-made-easy/)
 
-[Get Started](https://choozle.com/digital-advertising-made-easy)
-
 [Contact Us](https://choozle.com/connect)
+
+[Get Started](https://choozle.com/digital-advertising-made-easy)
 
 Understanding Choozle's Comprehensive Privacy Policy
 ====================================================
