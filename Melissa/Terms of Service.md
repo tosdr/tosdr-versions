@@ -148,7 +148,7 @@
     
     CRM AppsMelissa Address Validation for Dynamics 365 and Salesforce
     
-    [](https://www.melissa.com/crm-suite)
+    [](https://www.melissa.com/saas/dynamics-365)
     
     [](https://www.melissa.com/crm-suite)
     
