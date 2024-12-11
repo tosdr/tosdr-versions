@@ -441,27 +441,27 @@ If you have any questions about this Privacy Policy, please contact us:
 Most recent
 -----------
 
-[10-12-2024
+[11-12-2024
 
-Deforestation law not enough to save tropical forests, EU must reflect on the impact](https://www.euractiv.com/section/eet/news/deforestation-law-not-enough-to-save-tropical-forests-eu-must-reflect-on-the-impact/)[10-12-2024
+Balkan journalists battle deluge of SLAPP lawsuits](https://www.euractiv.com/section/global-europe/news/balkan-journalists-battle-deluge-of-slapp-lawsuits/)[11-12-2024
 
-Calls for less bureaucracy, more cooperation to promote EU pharmaceutical competitiveness](https://www.euractiv.com/section/health-consumers/news/calls-for-less-bureaucracy-more-cooperation-to-promote-eu-pharmaceutical-competitiveness/)[10-12-2024
+MEPs to vote in plenary on creating full health committee](https://www.euractiv.com/section/health-consumers/news/meps-to-vote-in-plenary-on-creating-full-health-committee/)[11-12-2024
 
-Wolves face increased risk after Bern Convention protections removed](https://www.euractiv.com/section/eet/news/wolves-face-increased-risk-after-bern-convention-protections-removed/)[10-12-2024
+Middle East conflicts stir safety fears for Europe’s airline pilots](https://www.euractiv.com/section/eet/news/middle-east-conflicts-stir-safety-fears-for-europes-airline-pilots/)[11-12-2024
 
-Global food insecurity persists. Can certification help?](https://www.euractiv.com/section/agriculture-food/news/global-food-insecurity-persists-can-certification-help/)[10-12-2024
+Israel says its air strikes destroyed most of Syria’s strategic weapons stockpiles](https://www.euractiv.com/section/global-europe/news/israel-says-its-air-strikes-destroyed-most-of-syrias-strategic-weapons-stockpiles/)[11-12-2024
 
-Stronger cohesion funding, structural reform linkage could boost EU competitiveness, say new reports](https://www.euractiv.com/section/economy-jobs/news/stronger-cohesion-funding-and-structural-reform-linkage-could-boost-eu-competitiveness-say-new-reports/)[10-12-2024
+Puigdemont joins forces with Spanish right as he enters political ‘cold war’ with Sánchez](https://www.euractiv.com/section/politics/news/the-capitals-puigdemont-joins-forces-with-spanish-right-as-he-enters-political-cold-war-with-sanchez/)[11-12-2024
 
-Macron promises to appoint new prime minister ‘within 48 hours’](https://www.euractiv.com/section/politics/news/macron-promises-to-appoint-new-prime-minister-within-48-hours/)[10-12-2024
+Romania’s pro-European parties begin coalition talks amid tense national mood](https://www.euractiv.com/section/politics/news/romanias-pro-european-parties-begin-coalition-talks-amid-tense-national-mood/)[11-12-2024
 
-Hungarians recognise need for urgent climate transition, says EIB survey](https://www.euractiv.com/section/eet/news/hungarians-recognise-need-for-urgent-climate-transition-says-eib-survey/)[10-12-2024
+Bulgaria to stop Russian gas transit unless Gazprom pays](https://www.euractiv.com/section/politics/news/bulgaria-to-stop-russian-gas-transit-unless-gazprom-pays/)[11-12-2024
 
-EU mulls diplomatic visa bans as Georgia protests intensify](https://www.euractiv.com/section/global-europe/news/eu-mulls-diplomatic-visa-bans-as-georgia-protests-intensify/)[10-12-2024
+Expert proposes sovereignty-safe alternative to EU telecoms consolidation plan](https://www.euractiv.com/section/tech/news/expert-proposes-sovereignty-safe-alternative-to-eu-telecoms-consolidation-plan/)[11-12-2024
 
-The intense telecoms ‘war’ that triggered a regulatory debate in France](https://www.euractiv.com/section/tech/news/the-intense-telecoms-war-that-triggered-a-regulatory-debate-in-france/)[10-12-2024
+Human Rights Watch urges EU action against Poland’s illegal pushbacks](https://www.euractiv.com/section/politics/news/human-rights-watch-urges-eu-action-against-polands-illegal-pushbacks/)[11-12-2024
 
-Europe’s beauty companies reinvesting 5% of sales in R&D for Green Deal goals](https://www.euractiv.com/section/eet/news/europes-beauty-companies-reinvesting-5-of-sales-in-rd-for-green-deal-goals/)
+Portugal only EU country where gender equality at work has worsened](https://www.euractiv.com/section/politics/news/portugal-only-eu-country-where-gender-equality-at-work-has-worsened/)
 
 ###### Advertisement
 
