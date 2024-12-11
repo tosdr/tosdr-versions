@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -215,10 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Daniel McCarthy Birthright Citizenship Is a Breach in the Border](https://patriotpost.us/opinion/112681-birthright-citizenship-is-a-breach-in-the-border-2024-12-10)
 *      [Salena Zito Whiskey Resurgence in the Heart of the Rebellion](https://patriotpost.us/opinion/112680-whiskey-resurgence-in-the-heart-of-the-rebellion-2024-12-10)
 *      [Allen West No One Is Above the Law … Unless](https://patriotpost.us/opinion/112631-no-one-is-above-the-law-dot-dot-dot-unless-2024-12-10)
-*      [Cal Thomas Pardoning the Unpardonable](https://patriotpost.us/opinion/112661-pardoning-the-unpardonable-2024-12-10)
-*      [The Washington Stand Johnson Wows With Anti-Woke Wins in NDAA Compromise](https://patriotpost.us/opinion/112684-johnson-wows-with-anti-woke-wins-in-ndaa-compromise-2024-12-10)
-*      [The Babylon Bee More Accurate Wedding Vows for Him and Her](https://patriotpost.us/opinion/112679-more-accurate-wedding-vows-for-him-and-her-2024-12-10)
-*      [Guest Commentary Progressive Fragility](https://patriotpost.us/opinion/112678-progressive-fragility-2024-12-10)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +228,9 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
