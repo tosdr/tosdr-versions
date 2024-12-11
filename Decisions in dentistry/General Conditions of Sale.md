@@ -239,16 +239,29 @@ This website uses cookies to improve your experience. We'll assume you're ok wit
 
 [](#)
 
-#### BLACK FRIDAY / CYBER MONDAY  
-CE PROMOTION
+#### SAVE BIG ON CE BEFORE 2025!
+
+Days
+
+:
+
+Hours
+
+:
+
+Minutes
+
+:
+
+Seconds
 
 Coupon has expired
 
 [Get the Details](#)
 
-Stay top of your profession with our evidence-based peer-reviewed continuing education courses written by world-class educators and researchers!
+Promotional Period: 12/14/24 – 12/31/24
 
-Get Black Friday CE Savings!
+Get Special CE Savings!
 
 \_\_\_\_
 
