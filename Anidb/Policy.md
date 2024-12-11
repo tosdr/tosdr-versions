@@ -1,4 +1,4 @@
-HINT: You're missing out on most features of AniDB. Why not [sign up now](https://anidb.net/user/register)? It's free!
+HINT: Confused? Take a look at the [AniDB Wiki](https://wiki.anidb.net/) or visit us on [IRC](https://wiki.anidb.net/w/IRC:Anidb).
 
 * Menu
     
@@ -58,7 +58,7 @@ I'm Feeling Lucky
 AniDB Policies
 ==============
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=xfroorvc)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=sqhwgapd)
 
 AniDB Policies: General Terms of Service (TOS) and Privacy Policy
 -----------------------------------------------------------------
@@ -372,10 +372,10 @@ _This document was last updated on 14.01.2023 22:40._
 
 [AniDB](https://anidb.net/) is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[0s\] - 11.12.2024 12:52:18
+v 2022-04, © 2002-2022 by AniDB; all rights reserved. \[0s\] - 11.12.2024 18:54:30
 
 [Home](https://anidb.net/) ![AniDB](https://cdn-us.anidb.net/css/assets/images/touch/android-chrome-512x512.png) AniDB
 
 [Twitter](https://twitter.com/AniDBStatus "Stay up2date with AniDB on Twitter!") [Become a patron!](https://www.patreon.com/AniDB "Become a patron for AniDB!")
 
-[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=xfroorvc)
+[Download (Do **NOT** click!)](https://anidb.net/perl-bin/animedb.pl?show=sqhwgapd)
