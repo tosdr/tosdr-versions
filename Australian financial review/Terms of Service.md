@@ -329,7 +329,7 @@ Advertise
 
 * ### [How professional drinkers manage the silly season](https://www.afr.com/life-and-luxury/health-and-wellness/how-professional-drinkers-manage-the-silly-season-20241126-p5ktql)
     
-* ### [We check in to the next White Lotus resort](https://www.afr.com/life-and-luxury/travel/we-check-in-to-the-next-white-lotus-resort-20241118-p5krmv)
+* ### [We check into the next White Lotus resort](https://www.afr.com/life-and-luxury/travel/we-check-in-to-the-next-white-lotus-resort-20241118-p5krmv)
     
 
 [Rich List](https://www.afr.com/rich-list)
