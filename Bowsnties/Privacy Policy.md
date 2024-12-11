@@ -1,6 +1,6 @@
 ![](https://ct.pinterest.com/v3/?tid=2619239296514&event=init&noscript=1)  
 
-### [CYBER WEEK - 40% OFF Sitewide](https://www.bows-n-ties.com/neckties/)
+### [30% OFF Sitewide SALE - ENDS TODAY](https://www.bows-n-ties.com/neckties/)
 
 __
 
