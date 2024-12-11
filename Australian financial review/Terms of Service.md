@@ -307,43 +307,46 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![CEO of the Central Coast Marriners, Alyssar Narey.](https://static.ffx.io/images/$zoom_0.2431%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_238%2C$y_53/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ef756291951ede871fedd691091680e5c77881b4)](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
+[![Sophie Jackman is likely to expand her team when the new sustainability reporting standards are introduced.](https://static.ffx.io/images/$zoom_0.7646%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_142%2C$y_423/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/cc5afa797ebf093823751aefb82fb7831e8821be)](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
 
-### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
+### [How accountants will help save the planet](https://www.afr.com/work-and-careers/careers/how-accountants-will-help-save-the-planet-20241209-p5kww2)
 
-* Zoe Samios
+* 1 hr ago
+* Sally Patten
 
-* ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
+* ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
     
-* ### [Canva, Cotton On and Atlassian among the top 20 corporate givers](https://www.afr.com/work-and-careers/leaders/canva-cotton-on-and-atlassian-among-the-top-20-corporate-givers-20241127-p5ku02)
+* ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.1296%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_308/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d977e1d2a7e145b9a65a26c0bb0277328b2aa628)](https://www.afr.com/life-and-luxury/food-and-wine/australian-open-takes-premium-packages-to-another-level-20241204-p5kvw0)
+[![Le Panier district in Marseille.](https://static.ffx.io/images/$zoom_0.247%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_24/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bc032997889c5298e87e66f0f7d4496a9670dec9)](https://www.afr.com/life-and-luxury/travel/the-magic-of-marseille-exists-if-you-know-where-to-find-it-20241120-p5ks9v)
 
-### [Australian Open takes premium packages to another level](https://www.afr.com/life-and-luxury/food-and-wine/australian-open-takes-premium-packages-to-another-level-20241204-p5kvw0)
+### [The magic of Marseille exists if you know where to find it](https://www.afr.com/life-and-luxury/travel/the-magic-of-marseille-exists-if-you-know-where-to-find-it-20241120-p5ks9v)
 
-* Jill Dupleix
+* 1 hr ago
+* Robert Bevan
 
-* ### [How professional drinkers manage the silly season](https://www.afr.com/life-and-luxury/health-and-wellness/how-professional-drinkers-manage-the-silly-season-20241126-p5ktql)
+* ### [A gift guide for foodies, from cookbooks to culinary rarities](https://www.afr.com/life-and-luxury/food-and-wine/a-gift-guide-for-foodies-from-cookbooks-to-culinary-rarities-20241104-p5kns9)
     
-* ### [We check into the next White Lotus resort](https://www.afr.com/life-and-luxury/travel/we-check-in-to-the-next-white-lotus-resort-20241118-p5krmv)
+* ### [The Kiwi fashion label adored by Margot Robbie and Jacinda Ardern](https://www.afr.com/life-and-luxury/fashion-and-style/the-kiwi-fashion-label-adored-by-margot-robbie-and-jacinda-ardern-20241009-p5kgxs)
     
 
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Jevan Bouzo, CEO of Convenience & Mobility at Viva and Yasser Shahin.](https://static.ffx.io/images/$zoom_0.8628%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_993%2C$y_1443/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/f6ad92fd443fbd38c5802a90d40e8153d2b88cdf)](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
+[![ ](https://static.ffx.io/images/$zoom_0.9477%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_70%2C$y_36/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/858f84391308d2b3335e68f37d897dbb8bc712f7)](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
 
-### [$3 hot dogs and a mini-shop behind $1.2b petrol bet](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
+### [Fortescue executive chairman Andrew Forrest in his own words](https://www.afr.com/companies/mining/fortescue-executive-chairman-andrew-forrest-in-his-own-words-20241210-p5kx5n)
 
-* Simon Evans
+* 1 hr ago
+* Primrose Riordan
 
-* ### [Late billionaire David Hains’ sons go their separate ways](https://www.afr.com/companies/financial-services/new-family-office-emerges-as-hains-family-splits-its-wealth-20241203-p5kvle)
+* ### [Inside the ‘unending chaos’ at Andrew Forrest’s Fortescue](https://www.afr.com/companies/energy/inside-the-unending-chaos-at-andrew-forrest-s-fortescue-20241008-p5kgrn)
     
-* ### [How a billionaire and government saved a key Sydney theatre](https://www.afr.com/life-and-luxury/arts-and-culture/how-a-billionaire-and-government-saved-a-key-sydney-theatre-20241129-p5kum8)
+* ### [$3 hot dogs and a mini-shop behind $1.2b petrol bet](https://www.afr.com/companies/retail/3-hot-dogs-and-a-mini-shop-behind-1-2b-petrol-bet-20241127-p5kttk)
     
 
 [The Australian Financial Review](https://www.afr.com/)
