@@ -128,39 +128,39 @@ Advertisement
     The Beginning and the End of the Universe
     
     Episode 1: The BeginingEmbarking on a cosmic journey, Professor Jim Al-Khalili transports us through the corridors of time to confront science's most profound inquiry: the genesis of the univers...](https://documentaryheaven.com/the-beginning-and-the-end-of-the-universe/ "The Beginning and the End of the Universe")
-* [![Dispatches: The Killing Zone](/wp-content/thumbnails/481-100x70.png?x53432)
+* [![Suicide](/wp-content/thumbnails/13877-100x70.jpg?x53432)
     
-    Dispatches: The Killing Zone
+    Suicide
     
-    While the world's attention has been fixed on the war in Iraq, Dispatches reporter Sandra Jordan and producer Rodrigo Vasquez risk their lives to reveal the shocking level of daily violence and murder...](https://documentaryheaven.com/dispatches-the-killing-zone/ "Dispatches: The Killing Zone")
+    Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
 
 ###### Throwback Documentaries
 
-* [![Nukes In Space](/wp-content/thumbnails/58-100x70.png?x53432)
+* [![FIFA’s Dirty Secrets](/wp-content/thumbnails/4646-100x70.jpg?x53432)
     
-    Nukes In Space
+    FIFA’s Dirty Secrets
     
-    The problems encountered in the America's cold war rocketry program is dramatically illustrated with a film montage of U.S. missiles spectacularly blowing up on their launch pads. After the Soviets la](https://documentaryheaven.com/nukes-in-space/ "Nukes In Space")
-* [![Surviving D-Day](/wp-content/thumbnails/6946-100x70.jpeg?x53432)
+    The half-hour programme saw investigative journalist Andrew Jennings look into allegations of corruption with FIFA, the world’s governing body of association football. Within the programme he alleged](https://documentaryheaven.com/fifa%e2%80%99s-dirty-secrets/ "FIFA’s Dirty Secrets")
+* [![H.O.P.E. What You Eat Matters](/wp-content/thumbnails/14132-100x70.jpg?x53432)
     
-    Surviving D-Day
+    H.O.P.E. What You Eat Matters
     
-    Five years into World War II, the future of Europe hangs in the balance, as 34,000 US soldiers embark on a mission to launch the biggest attack ever from sea. This fascinating documentary, interviews](https://documentaryheaven.com/surviving-d-day/ "Surviving D-Day")
-* [![The Woman Who Woke Up Chinese](/wp-content/thumbnails/8084-100x70.jpg?x53432)
+    Unfortunately the western diet is associated with some pretty serious diseases, heart disease, cancer, diabetes, obesity, the onset of these health issues in recent times has been detrimental to not o](https://documentaryheaven.com/hope-what-you-eat-matters/ "H.O.P.E. What You Eat Matters")
+* [![Shut Him Down: The Rise of Jordan Peterson](/wp-content/thumbnails/14339-100x70.jpg?x53432)
     
-    The Woman Who Woke Up Chinese
+    Shut Him Down: The Rise of Jordan Peterson
     
-    In 2012, Plymouth born Sarah Colwill was rushed to hospital with what seemed to be a severe migraine. Little did she suspect that when she woke up a few hours later her usual Devon accent would be rep](https://documentaryheaven.com/woman-who-woke-up-chinese/ "The Woman Who Woke Up Chinese")
-* [![Bobby Fischer Against The World](/wp-content/thumbnails/5887-100x70.jpg?x53432)
+    Jordan B Peterson, he's become awfully popular with some people and massively unpopular with others. In this film we get a first hand glimpse into this firestorm of polarising public opinion which was](https://documentaryheaven.com/shut-him-down-rise-of-jordan-peterson/ "Shut Him Down: The Rise of Jordan Peterson")
+* [![Golden Age of Pirates: Terror at Sea](/wp-content/thumbnails/8307-100x70.jpg?x53432)
     
-    Bobby Fischer Against The World
+    Golden Age of Pirates: Terror at Sea
     
-    The first documentary feature – originally aired on HBO – to explore the tragic and bizarre life of the late chess master Bobby Fischer. The drama of Bobby Fischer’s career was undeniable, from his tr](https://documentaryheaven.com/bobby-fischer-against-the-world/ "Bobby Fischer Against The World")
-* [![20 Football Transfers That Shocked the World](/wp-content/thumbnails/7014-100x70.jpg?x53432)
+    Whenever there have been sea traders, there have been sea thieves. Pirates have been sailing the seas throughout history stealing from weak and solitary ships, easily taken in the vast and un-defendab](https://documentaryheaven.com/golden-age-pirates-terror-sea/ "Golden Age of Pirates: Terror at Sea")
+* [![World Cup’s Most Shocking Moments](/wp-content/thumbnails/5911-100x70.jpg?x53432)
     
-    20 Football Transfers That Shocked the World
+    World Cup’s Most Shocking Moments
     
-    When it comes to drama and politics you can always count on the football industry to keep you on the edge of your seat. This goes especially for the time during transfer windows. This Documentary look](https://documentaryheaven.com/20-football-transfers-that-shocked-the-world/ "20 Football Transfers That Shocked the World")
+    Richard Bacon and guest presenter Peter Crouch look back on the 50 greatest shocks in the history of the World Cup, covering the last six tournaments and including moments such as Maradona’s Hand of G](https://documentaryheaven.com/world-cups-most-shocking-moments/ "World Cup’s Most Shocking Moments")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
