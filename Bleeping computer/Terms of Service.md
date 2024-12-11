@@ -36,18 +36,18 @@
         
         Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
     
-    * [![This 13-in-1 docking station simplifies your setup for just $45](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This 13-in-1 docking station simplifies your setup for just $45](https://www.bleepingcomputer.com/offer/deals/this-13-in-1-docking-station-simplifies-your-setup-for-just-45/)
-    * [![Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+    * [![Improve your Microsoft  skills with this $60 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://www.bleepingcomputer.com/news/security/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
-    * [![WPForms bug allows Stripe refunds on millions of WordPress sites](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Improve your Microsoft skills with this $60 course bundle deal](https://www.bleepingcomputer.com/offer/deals/improve-your-microsoft-skills-with-this-60-course-bundle-deal/)
+    * [![Facebook, Instagram, WhatsApp hit by massive worldwide outage](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        WPForms bug allows Stripe refunds on millions of WordPress sites](https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
-    * [![Ivanti warns of maximum severity CSA auth bypass vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Facebook, Instagram, WhatsApp hit by massive worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/)
+    * [![Russian Turla hackers hit Starlink-connected devices in Ukraine](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Ivanti warns of maximum severity CSA auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
+        Russian Turla hackers hit Starlink-connected devices in Ukraine](https://www.bleepingcomputer.com/news/security/russian-turla-hackers-hit-starlink-connected-devices-in-ukraine/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -355,12 +355,12 @@ Popular Stories
 * [![Microsoft](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
-* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
 * [![Windows 11](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Windows 11 KB5048667 & KB5048685 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5048667-and-kb5048685-cumulative-updates-released/)
+* [![Hacker](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    QR codes bypass browser isolation for malicious C2 communication](https://www.bleepingcomputer.com/news/security/qr-codes-bypass-browser-isolation-for-malicious-c2-communication/)
 
 ##### Follow us:
 
