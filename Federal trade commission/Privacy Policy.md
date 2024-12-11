@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Statement on FTC Victory Securing Halt to Kroger, Albertsons Grocery Merger](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftc-victory-securing-halt-kroger-albertsons-grocery-merger)
+    ### [Statement on FTC’s Win in Lawsuit Against the Makers of Dietary Supplement Prevagen](https://www.ftc.gov/news-events/news/press-releases/2024/12/statement-ftcs-win-lawsuit-against-makers-dietary-supplement-prevagen)
     
     December 10, 2024
     
