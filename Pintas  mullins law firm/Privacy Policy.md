@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How to help mormon church victims of sexual abuse](https://www.pintas.com/wp-content/uploads/2023/04/general-mormon-4-300x200.jpg "How to Help Mormon Church Victims of Sexual Abuse")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/ "How to Help Mormon Church Victims of Sexual Abuse")
+[![Can you survive pleural mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-you-survive-pleural-mesothelioma.jpg "Can You Survive Pleural Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/ "Can You Survive Pleural Mesothelioma?")
 
-[#### How to Help Mormon Church Victims of Sexual Abuse](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-can-i-help-a-mormon-church-sexual-abuse-victim/)
+[#### Can You Survive Pleural Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-you-survive-pleural-mesothelioma/)
 
-[![Can you sue for ovarian cancer caused by talcum powder?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-you-sue-for-ovarian-cancer-caused-by-talcum-powder-scaled.jpg "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/ "Can You Sue for Ovarian Cancer Caused By Talcum Powder?")
+[![What is subdural hematoma?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-subdural-hematoma-scaled.jpg "What Is Subdural Hematoma?")](https://www.pintas.com/faq/what-is-subdural-hematoma/ "What Is Subdural Hematoma?")
 
-[#### Can You Sue for Ovarian Cancer Caused By Talcum Powder?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-you-sue-for-ovarian-cancer-caused-by-talcum-powder/)
+[#### What Is Subdural Hematoma?](https://www.pintas.com/faq/what-is-subdural-hematoma/)
 
-[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
+[![What causes mesothelioma lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-causes-mesothelioma-lung-cancer-scaled.jpg "What Causes Mesothelioma Lung Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/ "What Causes Mesothelioma Lung Cancer?")
 
-[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
+[#### What Causes Mesothelioma Lung Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-mesothelioma-lung-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
