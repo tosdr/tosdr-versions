@@ -613,6 +613,14 @@ Most recent
 
 [11-12-2024
 
+Brussels allows member states to limit access to asylum](https://www.euractiv.com/section/politics/news/brussels-allows-member-states-to-limit-access-to-asylum/) [11-12-2024
+
+Parliament negotiators caution against reforms conditionality for EU budget](https://www.euractiv.com/section/economy-jobs/news/parliament-negotiators-caution-against-reforms-conditionality-for-eu-budget/)[11-12-2024
+
+Poland Council presidency to focus on ‘relatively low-hanging fruits’ to deepen capital markets](https://www.euractiv.com/section/economy-jobs/news/poland-council-presidency-to-focus-on-relatively-low-hanging-fruits-to-deepen-capital-markets/)[11-12-2024
+
+Killing of UnitedHealthcare executive ignites US patient anger over health insurance](https://www.euractiv.com/section/health-consumers/news/killing-of-unitedhealthcare-executive-ignites-us-patient-anger-over-health-insurance/)[11-12-2024
+
 Balkan journalists battle deluge of SLAPP lawsuits](https://www.euractiv.com/section/global-europe/news/balkan-journalists-battle-deluge-of-slapp-lawsuits/)[11-12-2024
 
 MEPs to vote in plenary on creating full health committee](https://www.euractiv.com/section/health-consumers/news/meps-to-vote-in-plenary-on-creating-full-health-committee/)[11-12-2024
@@ -623,15 +631,7 @@ Israel says its air strikes destroyed most of Syria’s strategic weapons stockp
 
 Puigdemont joins forces with Spanish right as he enters political ‘cold war’ with Sánchez](https://www.euractiv.com/section/politics/news/the-capitals-puigdemont-joins-forces-with-spanish-right-as-he-enters-political-cold-war-with-sanchez/)[11-12-2024
 
-Romania’s pro-European parties begin coalition talks amid tense national mood](https://www.euractiv.com/section/politics/news/romanias-pro-european-parties-begin-coalition-talks-amid-tense-national-mood/)[11-12-2024
-
-Bulgaria to stop Russian gas transit unless Gazprom pays](https://www.euractiv.com/section/politics/news/bulgaria-to-stop-russian-gas-transit-unless-gazprom-pays/)[11-12-2024
-
-Expert proposes sovereignty-safe alternative to EU telecoms consolidation plan](https://www.euractiv.com/section/tech/news/expert-proposes-sovereignty-safe-alternative-to-eu-telecoms-consolidation-plan/)[11-12-2024
-
-Human Rights Watch urges EU action against Poland’s illegal pushbacks](https://www.euractiv.com/section/politics/news/human-rights-watch-urges-eu-action-against-polands-illegal-pushbacks/)[11-12-2024
-
-Portugal only EU country where gender equality at work has worsened](https://www.euractiv.com/section/politics/news/portugal-only-eu-country-where-gender-equality-at-work-has-worsened/)
+Romania’s pro-European parties begin coalition talks amid tense national mood](https://www.euractiv.com/section/politics/news/romanias-pro-european-parties-begin-coalition-talks-amid-tense-national-mood/)
 
 ###### Advertisement
 
