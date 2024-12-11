@@ -253,13 +253,14 @@ Sponsored
 
 ### Partnerships
 
-* [Affiliate Program](https://www.bestbuy.com/site/partnerships/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002)
+* [Sell on Best Buy Marketplace](https://www.bestbuy.com/site/electronics/marketplace/pcmcat248200050007.c?id=pcmcat248200050007)
 * [Advertise with Us](https://www.bestbuyads.com/)
-* [Developers](https://developer.bestbuy.com/)
+* [Affiliate Program](https://www.bestbuy.com/site/partnerships/best-buy-affiliate-program/pcmcat198500050002.c?id=pcmcat198500050002)
 * [Best Buy Health](https://healthcare.bestbuy.com/?ref=bestbuy-site&loc=footer)
 * [Best Buy Education](https://www.bestbuy.com/site/bestbuy-business/bestbuy-education/pcmcat356600050000.c?id=pcmcat356600050000)
 * [Best Buy Business](https://www.bestbuy.com/site/electronics/bestbuy-business/pcmcat230900050001.c?id=pcmcat230900050001)
 * [Partner+](https://www.bestbuy.com/site/clp-bbfb/partner-plus/pcmcat1715699845027.c?id=pcmcat1715699845027)
+* [Developers](https://developer.bestbuy.com/)
 
 ### About Best Buy
 
