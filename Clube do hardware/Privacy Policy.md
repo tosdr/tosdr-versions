@@ -26,10 +26,6 @@
     
     Entrar com o Google
     
-    Entrar com a Microsoft
-    
-    Entrar com o LinkedIn
-    
 * [Cadastre-se](https://www.clubedohardware.com.br/register/)
 
 * [](#)
@@ -134,105 +130,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Bruno1245](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257463.thumb.png.e768943bb8502cfd9acc8d6658f51f96.png)](https://www.clubedohardware.com.br/profile/1257463-bruno1245/ "Ir ao perfil de Bruno1245")
+    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
         
         1
         
-        [Ryzen 7 5700x ou 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1705120-ryzen-7-5700x-ou-7-5700x3d/?do=getNewComment "Ryzen 7 5700x ou 7 5700x3d")
+        [Watercooler para edição de vídeo](https://www.clubedohardware.com.br/forums/topic/1705166-watercooler-para-edi%C3%A7%C3%A3o-de-v%C3%ADdeo/?do=getNewComment "Watercooler para edição de vídeo")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Bruno1245](https://www.clubedohardware.com.br/profile/1257463-bruno1245/ "Ir ao perfil de Bruno1245")  
-        21 minutos atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
+        17 minutos atrás
         
-    * [![raphael.zattar](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256165.thumb.jpeg.20ce2b5f4572c8ead9998ff9f6748539.jpeg)](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")
+    * [![luckie](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257349.thumb.png.1fb7c6f92d568f1aa728f7689533fb1c.png)](https://www.clubedohardware.com.br/profile/1257349-luckie/ "Ir ao perfil de luckie")
         
         0
         
-        VENDO [placa-mãe E GABINETE Dell XPS 8940](https://www.clubedohardware.com.br/forums/topic/1705119-placa-m%C3%A3e-e-gabinete-dell-xps-8940/?do=getNewComment "placa-mãe E GABINETE Dell XPS 8940")
+        [SSD não aparece em nenhum lugar, apenas na BIOS](https://www.clubedohardware.com.br/forums/topic/1705165-ssd-n%C3%A3o-aparece-em-nenhum-lugar-apenas-na-bios/?do=getNewComment "SSD não aparece em nenhum lugar, apenas na BIOS")
         
-        [Classificados](https://www.clubedohardware.com.br/forums/forum/50-classificados/ "Classificados")  
-        Por [raphael.zattar](https://www.clubedohardware.com.br/profile/1256165-raphaelzattar/ "Ir ao perfil de raphael.zattar")  
-        35 minutos atrás
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [luckie](https://www.clubedohardware.com.br/profile/1257349-luckie/ "Ir ao perfil de luckie")  
+        18 minutos atrás
         
-    * [![Gabriel Vieira Rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/1.thumb.png.bff25179ec8294bf0e00bc98da1f3bf5.png)](https://www.clubedohardware.com.br/profile/1096869-gabriel-vieira-rodrigues/ "Ir ao perfil de Gabriel Vieira Rodrigues")
+    * [![Tsouto](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257730.thumb.png.3fa00c7c870c255868021435d68533a9.png)](https://www.clubedohardware.com.br/profile/1257730-tsouto/ "Ir ao perfil de Tsouto")
+        
+        0
+        
+        [Placa de vídeo AMD Rx 6600 não da vídeo](https://www.clubedohardware.com.br/forums/topic/1705164-placa-de-v%C3%ADdeo-amd-rx-6600-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Placa de vídeo AMD Rx 6600 não da vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Tsouto](https://www.clubedohardware.com.br/profile/1257730-tsouto/ "Ir ao perfil de Tsouto")  
+        20 minutos atrás
+        
+    * [![Enzo Inoue](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257729.thumb.png.e4f8328eac528bde7b85a4fcba9ba1ae.png)](https://www.clubedohardware.com.br/profile/1257729-enzo-inoue/ "Ir ao perfil de Enzo Inoue")
+        
+        0
+        
+        [simulação no easyEDA dando erro](https://www.clubedohardware.com.br/forums/topic/1705163-simula%C3%A7%C3%A3o-no-easyeda-dando-erro/?do=getNewComment "simulação no easyEDA dando erro")
+        
+        [Programas](https://www.clubedohardware.com.br/forums/forum/24-programas/ "Programas")  
+        Por [Enzo Inoue](https://www.clubedohardware.com.br/profile/1257729-enzo-inoue/ "Ir ao perfil de Enzo Inoue")  
+        24 minutos atrás
+        
+    * [![Lucasljj](https://www.clubedohardware.com.br/uploads/members/monthly_2022_04/imported-photo-1191861.thumb.png.ed935bd35790c3de693d9ada7bb3a4e9.png)](https://www.clubedohardware.com.br/profile/1191861-lucasljj/ "Ir ao perfil de Lucasljj")
+        
+        2
+        
+        Excel [microsot office não reconhece minha licença](https://www.clubedohardware.com.br/forums/topic/1705161-microsot-office-n%C3%A3o-reconhece-minha-licen%C3%A7a/?do=getNewComment "microsot office não reconhece minha licença")
+        
+        [Microsoft Office e similares](https://www.clubedohardware.com.br/forums/forum/39-microsoft-office-e-similares/ "Microsoft Office e similares")  
+        Por [Lucasljj](https://www.clubedohardware.com.br/profile/1191861-lucasljj/ "Ir ao perfil de Lucasljj")  
+        43 minutos atrás
+        
+    * [![gandara01](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254369.thumb.jpeg.f9e21fdf2e3ab295fac898087ddb06c0.jpeg)](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")
+        
+        2
+        
+        [O processador não empurrar 100% da placa de vídeo gera algum tipo de defeito?](https://www.clubedohardware.com.br/forums/topic/1705160-o-processador-n%C3%A3o-empurrar-100-da-placa-de-v%C3%ADdeo-gera-algum-tipo-de-defeito/?do=getNewComment "O processador não empurrar 100% da placa de vídeo gera algum tipo de defeito?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [gandara01](https://www.clubedohardware.com.br/profile/1254369-gandara01/ "Ir ao perfil de gandara01")  
+        53 minutos atrás
+        
+    * [![Gustavo11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256747.thumb.png.9b63c4655db6c25075d1ff3b0ed5d932.png)](https://www.clubedohardware.com.br/profile/1256747-gustavo11/ "Ir ao perfil de Gustavo11")
         
         1
         
-        [Cooler para processador I3-10100f e possivelmente para um i5 da mesma geração](https://www.clubedohardware.com.br/forums/topic/1705118-cooler-para-processador-i3-10100f-e-possivelmente-para-um-i5-da-mesma-gera%C3%A7%C3%A3o/?do=getNewComment "Cooler para processador I3-10100f e possivelmente para um i5 da mesma geração")
+        [Meu CPU cooler não gira!](https://www.clubedohardware.com.br/forums/topic/1705158-meu-cpu-cooler-n%C3%A3o-gira/?do=getNewComment "Meu CPU cooler não gira!")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Gabriel Vieira Rodrigues](https://www.clubedohardware.com.br/profile/1096869-gabriel-vieira-rodrigues/ "Ir ao perfil de Gabriel Vieira Rodrigues")  
-        44 minutos atrás
+        Por [Gustavo11](https://www.clubedohardware.com.br/profile/1256747-gustavo11/ "Ir ao perfil de Gustavo11")  
+        54 minutos atrás
         
-    * [![Willis_silvaa](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256287.thumb.jpeg.db044a74adcd49b67588af6cbe21b689.jpeg)](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")
+    * [![Eduardo_fv](https://www.clubedohardware.com.br/uploads/members/monthly_2023_11/imported-photo-1233076.thumb.png.33ecbbf2f9ae4211cb43177177c9db8c.png)](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")
         
-        4
+        0
         
-        [Qual destes processadores vale mais a pena? Ryzen 7 7700 ou Ryzen 7 8700g](https://www.clubedohardware.com.br/forums/topic/1705116-qual-destes-processadores-vale-mais-a-pena-ryzen-7-7700-ou-ryzen-7-8700g/?do=getNewComment "Qual destes processadores vale mais a pena?  Ryzen 7 7700 ou Ryzen 7 8700g")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Willis\_silvaa](https://www.clubedohardware.com.br/profile/1256287-willis_silvaa/ "Ir ao perfil de Willis_silvaa")  
-        52 minutos atrás
-        
-    * [![Cláudio Piansky](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/s1-bp-items-carousel-stitch-operator-skin.thumb.jpg.ff2754925e3f3133d799923459d99302.jpg)](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")
-        
-        1
-        
-        [SSD M.2 não detectado](https://www.clubedohardware.com.br/forums/topic/1705115-ssd-m2-n%C3%A3o-detectado/?do=getNewComment "SSD M.2 não detectado")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [Cláudio Piansky](https://www.clubedohardware.com.br/profile/1144696-cl%C3%A1udio-piansky/ "Ir ao perfil de Cláudio Piansky")  
-        55 minutos atrás
-        
-    * [![Obama1617](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257679.thumb.jpeg.b3d84537a6940ac0bba0bb08b0266c19.jpeg)](https://www.clubedohardware.com.br/profile/1257679-obama1617/ "Ir ao perfil de Obama1617")
-        
-        6
-        
-        [PC com Ryzen 5600g e B450mh biostar dando várias telas azuis](https://www.clubedohardware.com.br/forums/topic/1705114-pc-com-ryzen-5600g-e%C2%A0b450mh-biostar-dando-v%C3%A1rias-telas-azuis/?do=getNewComment "PC com Ryzen 5600g e B450mh biostar dando várias telas azuis")
-        
-        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
-        Por [Obama1617](https://www.clubedohardware.com.br/profile/1257679-obama1617/ "Ir ao perfil de Obama1617")  
-        1 hora atrás
-        
-    * [![Danis Barsant](https://www.clubedohardware.com.br/uploads/members/monthly_2017_06/rheve-tux-ouvrier-1448.thumb.png.3fd7539452cd1e899194e708a1a14068.png)](https://www.clubedohardware.com.br/profile/893728-danis-barsant/ "Ir ao perfil de Danis Barsant")
-        
-        6
-        
-        [Alguns Sites não carregam imagens, nem carregam completo](https://www.clubedohardware.com.br/forums/topic/1705112-alguns-sites-n%C3%A3o-carregam-imagens-nem-carregam-completo/?do=getNewComment "Alguns Sites não carregam imagens, nem carregam completo")
+        [qual adaptador Wi-Fi usar para upgrade para Wi-Fi 6 FENVI AX1800 OU AX5400?](https://www.clubedohardware.com.br/forums/topic/1705157-qual-adaptador-wi-fi-usar-para-upgrade-para-wi-fi-6-fenvi-ax1800-ou-ax5400/?do=getNewComment "qual adaptador Wi-Fi usar para upgrade para Wi-Fi 6 FENVI AX1800 OU AX5400?")
         
         [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Danis Barsant](https://www.clubedohardware.com.br/profile/893728-danis-barsant/ "Ir ao perfil de Danis Barsant")  
-        1 hora atrás
+        Por [Eduardo\_fv](https://www.clubedohardware.com.br/profile/1233076-eduardo_fv/ "Ir ao perfil de Eduardo_fv")  
+        55 minutos atrás
         
-    * [![Jubrius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256273.thumb.jpeg.58fff80c5679d933f640eb2b9d5d5c29.jpeg)](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")
+    * [![Cipheri](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257727.thumb.png.f883393cb89a2a488c317b8075dc0859.png)](https://www.clubedohardware.com.br/profile/1257727-cipheri/ "Ir ao perfil de Cipheri")
         
-        14
+        2
         
-        [A Kabum é confiável para comprar placas de vídeo?](https://www.clubedohardware.com.br/forums/topic/1705111-a-kabum-%C3%A9-confi%C3%A1vel-para-comprar-placas-de-v%C3%ADdeo/?do=getNewComment "A Kabum é confiável para comprar placas de vídeo?")
-        
-        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
-        Por [Jubrius](https://www.clubedohardware.com.br/profile/1256273-jubrius/ "Ir ao perfil de Jubrius")  
-        1 hora atrás
-        
-    * [![R.Monteiro](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b6c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1257708-rmonteiro/ "Ir ao perfil de R.Monteiro")
-        
-        6
-        
-        [PC congela e só volta reiniciando](https://www.clubedohardware.com.br/forums/topic/1705110-pc-congela-e-s%C3%B3-volta-reiniciando/?do=getNewComment "PC congela e só volta reiniciando")
-        
-        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
-        Por [R.Monteiro](https://www.clubedohardware.com.br/profile/1257708-rmonteiro/ "Ir ao perfil de R.Monteiro")  
-        1 hora atrás
-        
-    * [![riquegt](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257707.thumb.jpeg.97cb88af6e5f50b9c1dba4b330daf710.jpeg)](https://www.clubedohardware.com.br/profile/1257707-riquegt/ "Ir ao perfil de riquegt")
-        
-        5
-        
-        [meu pc esta dando stuttering](https://www.clubedohardware.com.br/forums/topic/1705108-meu-pc-esta-dando-stuttering/?do=getNewComment "meu pc esta dando stuttering")
+        [Computador dando stuttering - Intel Core i7 11700, AMD RX 580](https://www.clubedohardware.com.br/forums/topic/1705155-computador-dando-stuttering-intel-core-i7-11700-amd-rx-580/?do=getNewComment "Computador dando stuttering - Intel Core i7 11700, AMD RX 580")
         
         [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [riquegt](https://www.clubedohardware.com.br/profile/1257707-riquegt/ "Ir ao perfil de riquegt")  
-        2 horas atrás
+        Por [Cipheri](https://www.clubedohardware.com.br/profile/1257727-cipheri/ "Ir ao perfil de Cipheri")  
+        1 hora atrás
+        
+    * [![Andreia P.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_12/imported-photo-1257726.thumb.png.b9e8e8ab85df176cc2bc996f1c3c0d97.png)](https://www.clubedohardware.com.br/profile/1257726-andreia-p/ "Ir ao perfil de Andreia P.")
+        
+        3
+        
+        [Vizinho desconfigura meu repetidor Deco](https://www.clubedohardware.com.br/forums/topic/1705152-vizinho-desconfigura-meu-repetidor-deco/?do=getNewComment "Vizinho desconfigura meu repetidor Deco")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Andreia P.](https://www.clubedohardware.com.br/profile/1257726-andreia-p/ "Ir ao perfil de Andreia P.")  
+        1 hora atrás
         
     
 
