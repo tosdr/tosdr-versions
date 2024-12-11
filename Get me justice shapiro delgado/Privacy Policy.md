@@ -1,6 +1,6 @@
 Call Today For Your Free Consultation
 
-[![Shapiro | Delgado | Hofmann](https://getmejustice.com/wp-content/uploads/2023/05/get-me-justice-logo-01.png)](https://getmejustice.com/)
+[![Shaprio | Delgado Logo](https://getmejustice.com/wp-content/uploads/2021/03/logo.png)](https://getmejustice.com/)
 
 No Fee Unless We Win [(941) 954-4000](tel:9419544000)
 
@@ -53,11 +53,11 @@ Terms and Conditions
 US VERSION – (EU VERSION FOLLOWS)
 ---------------------------------
 
-Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Shapiro | Delgado | Hofmann Get Me Justice Law Firm’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website. GetMeJustice.com is a property of [SHAPIRO-DELGADO LLC](http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=SHAPIRODELGADO%20L190002063470&aggregateId=flal-l19000206347-224a5c08-1fb1-4b60-a50d-e075f66a98f9&searchTerm=Shapiro&listNameOrder=SHAPIROBLASIWASSERMANHERMANNPA%20P920000149096), a Florida Limited Liability Corporation.
+Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Shaprio | Delgado Get Me Justice Law Firm’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website. GetMeJustice.com is a property of [SHAPIRO-DELGADO LLC](http://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?inquirytype=EntityName&directionType=ForwardList&searchNameOrder=SHAPIRODELGADO%20L190002063470&aggregateId=flal-l19000206347-224a5c08-1fb1-4b60-a50d-e075f66a98f9&searchTerm=Shapiro&listNameOrder=SHAPIROBLASIWASSERMANHERMANNPA%20P920000149096), a Florida Limited Liability Corporation.
 
-The term ‘Shapiro | Delgado | Hofmann” “GetMeJustice”. ‘or ‘us’ or ‘we’ refers to the owner of the website whose registered office is:
+The term ‘Shaprio | Delgado” “GetMeJustice”. ‘or ‘us’ or ‘we’ refers to the owner of the website whose registered office is:
 
-Shapiro | Delgado | Hofmann, LLC
+Shaprio | Delgado, LLC
 
 308 Cocoanut Avenue  
 Sarasota, FL 34236  
@@ -75,11 +75,11 @@ The use of this website is subject to the following terms of use:
 * From time to time, this website may also include links to other websites. These links are provided for your convenience to provide further information. They do not signify that we endorse the website(s). We have no responsibility for the content of the linked website(s).
 * Your use of this website and any dispute arising out of such use of the website is subject to the laws of the state of Florida, United States of America.
 
-Shapiro | Delgado | Hofmann Get Me Justice uses specific procedures in the acceptance of new clients, and opening new cases and collections files. The use of this web site does not create an attorney-client relationship between you and Shapiro | Delgado | Hofmann, LLC. All information submitted to Shapiro | Delgado | Hofmann Get Me Justice will be reviewed, evaluated, and possibly accepted by Shapiro | Delgado | Hofmann, LLC. No action will be taken on the part of Shapiro | Delgado | Hofmann, LLC, nor will any legal relationship exist between you and Shapiro | Delgado | Hofmann Get Me Justice, until such time as both you and we agree to a fee structure for Shapiro | Delgado | Hofmann Get Me Justice Services. There is no attorney-client relationship established by you submitting a claim on our website.
+Shaprio | Delgado Get Me Justice uses specific procedures in the acceptance of new clients, and opening new cases and collections files. The use of this web site does not create an attorney-client relationship between you and Shaprio | Delgado, LLC. All information submitted to Shaprio | Delgado Get Me Justice will be reviewed, evaluated, and possibly accepted by Shaprio | Delgado, LLC. No action will be taken on the part of Shaprio | Delgado, LLC, nor will any legal relationship exist between you and Shaprio | Delgado Get Me Justice, until such time as both you and we agree to a fee structure for Shaprio | Delgado Get Me Justice Services. There is no attorney-client relationship established by you submitting a claim on our website.
 
-Should Shapiro | Delgado | Hofmann Get Me Justice accept a legal matter or an account placed for collection, you will receive notification from us by mail, fax, or email, along with a confirmation of our fee agreement. If the fee agreement is not acceptable to you, it is your responsibility to immediately contact us. If you fail to contact us, we will assume that you have agreed to our fee structure.
+Should Shaprio | Delgado Get Me Justice accept a legal matter or an account placed for collection, you will receive notification from us by mail, fax, or email, along with a confirmation of our fee agreement. If the fee agreement is not acceptable to you, it is your responsibility to immediately contact us. If you fail to contact us, we will assume that you have agreed to our fee structure.
 
-By submitting a claim on our website, our acceptance of the claim, and your agreement to our fee structure, authorized Shapiro | Delgado | Hofmann Get Me Justice to act as your attorney in fact for purposes of accepting, negotiating, and remitting payments on your claim received from the debtor or any third party. You agree that Shapiro | Delgado | Hofmann Get Me Justice is entitled to a fee on all payments received, even if those payments are received directly by you, and not by Shapiro | Delgado | Hofmann, LLC.
+By submitting a claim on our website, our acceptance of the claim, and your agreement to our fee structure, authorized Shaprio | Delgado Get Me Justice to act as your attorney in fact for purposes of accepting, negotiating, and remitting payments on your claim received from the debtor or any third party. You agree that Shaprio | Delgado Get Me Justice is entitled to a fee on all payments received, even if those payments are received directly by you, and not by Shaprio | Delgado, LLC.
 
 TERMS AND CONDITIONS – EU VERSION
 ---------------------------------
@@ -88,7 +88,7 @@ TERMS AND CONDITIONS – EU VERSION
 
 **INTRODUCTION**
 
-The Terms and Conditions (“**Terms**“) describe how Shapiro | Delgado | Hofmann, LLC (“**Company,**” “**we,**” and “**our**“) regulates your use of this website GetMeJustice.com (the “**Site**“). Please read the following information carefully to understand our practices regarding your use of the Site. The Company may change the Terms at any time. The Company may inform you of the changes to the Terms using the available means of communication. The Company recommends you to check the Site frequently to see the actual version of the Terms and their previous versions.
+The Terms and Conditions (“**Terms**“) describe how Shaprio | Delgado, LLC (“**Company,**” “**we,**” and “**our**“) regulates your use of this website GetMeJustice.com (the “**Site**“). Please read the following information carefully to understand our practices regarding your use of the Site. The Company may change the Terms at any time. The Company may inform you of the changes to the Terms using the available means of communication. The Company recommends you to check the Site frequently to see the actual version of the Terms and their previous versions.
 
 If you represent a legal entity, you certify that you entitled by such a legal entity to conclude the Terms as the legal entity you represent.
 
@@ -99,11 +99,11 @@ Privacy Policy – US
 
 **(EU Version Follows)**
 
-This privacy policy sets out how Shapiro | Delgado | Hofmann Get Me Justice uses and protects any information that you give GetMeJustice.com GetMeJustice.com, floridadebtcollections.com and debtcollectionattorneyflorida.com, which are all properties of Shapiro | Delgado | Hofmann Get Me Justice, a Florida Corporation when you use this website.
+This privacy policy sets out how Shaprio | Delgado Get Me Justice uses and protects any information that you give GetMeJustice.com GetMeJustice.com, floridadebtcollections.com and debtcollectionattorneyflorida.com, which are all properties of Shaprio | Delgado Get Me Justice, a Florida Corporation when you use this website.
 
-Shapiro | Delgado | Hofmann Get Me Justice is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+Shaprio | Delgado Get Me Justice is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Shapiro | Delgado | Hofmann Get Me Justice may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 11, 2020.
+Shaprio | Delgado Get Me Justice may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from September 11, 2020.
 
 What you may voluntarily give us
 
@@ -112,7 +112,7 @@ We may ask for the following information on contact forms, which may choose to, 
 * name and job title
 * contact information including email address
 * demographic information such as postcode, preferences and interests
-* other information relevant to claims that you wish Shapiro | Delgado | Hofmann Get Me Justice to pursue
+* other information relevant to claims that you wish Shaprio | Delgado Get Me Justice to pursue
 
 What we may automatically gather
 
@@ -210,9 +210,9 @@ Disclaimer/No Attorney-Client Relationship/No Legal Advice/Attorney Advertising
 
 The information on this site is for general informational purposes only. The information presented in this site is not legal advice or a legal opinion, and it may not necessarily reflect the most current legal developments. You should seek the advice of legal counsel of your choice before acting upon any of the information in this site.
 
-Contacting us by telephone, email or other means, or transmitting information to us, will not establish an attorney-client relationship. The attorney-client relationship can only be established after we have determined that we are able and willing to accept the engagement and we have entered into a written engagement agreement. Until then, do not send any confidential information to us unless we specifically request it. Information communicated without such authorization may not be treated as confidential, secret or otherwise be protected from disclosure, and Shapiro | Delgado | Hofmann, Get Me Justice will not be precluded from representing parties adverse to the sender of such information in any matter.
+Contacting us by telephone, email or other means, or transmitting information to us, will not establish an attorney-client relationship. The attorney-client relationship can only be established after we have determined that we are able and willing to accept the engagement and we have entered into a written engagement agreement. Until then, do not send any confidential information to us unless we specifically request it. Information communicated without such authorization may not be treated as confidential, secret or otherwise be protected from disclosure, and Shaprio | Delgado, Get Me Justice will not be precluded from representing parties adverse to the sender of such information in any matter.
 
-These materials may be considered advertising for legal services under the laws and rules of professional conduct of the jurisdictions in which we practice. Under the Florida Rules of Professional Conduct, portions of this website may constitute attorney advertising. Unless otherwise noted on their respective biographies, attorneys listed on this site are not certified by the Florida Board of Legal Specialization. Shapiro | Delgado | Hofmann, Get Me Justice has endeavored to comply with all known legal and ethical requirements that apply to this site. Shapiro | Delgado | Hofmann, Get Me Justice does not seek to represent anyone based solely on a visit to this site or upon receiving advertising from us, where to do so would not comply with applicable law and rules of ethics. This website is a communication providing public information about our firm’s availability for professional employment.
+These materials may be considered advertising for legal services under the laws and rules of professional conduct of the jurisdictions in which we practice. Under the Florida Rules of Professional Conduct, portions of this website may constitute attorney advertising. Unless otherwise noted on their respective biographies, attorneys listed on this site are not certified by the Florida Board of Legal Specialization. Shaprio | Delgado, Get Me Justice has endeavored to comply with all known legal and ethical requirements that apply to this site. Shaprio | Delgado, Get Me Justice does not seek to represent anyone based solely on a visit to this site or upon receiving advertising from us, where to do so would not comply with applicable law and rules of ethics. This website is a communication providing public information about our firm’s availability for professional employment.
 
 No Warranty or Liability
 ------------------------
@@ -221,10 +221,10 @@ The information in this site is provided “AS-IS,” without representation or 
 
 You agree that we are not liable to you or others in any way for any damages of any kind or under any theory arising from this site, your access to or use of or reliance on the information in this site, including, but not limited to, liability or damages under contract, tort or other theories or any damages caused by lost data, malicious code, denials of service (including computer crashes), business interruption or other commercial damages or losses, even if we may have been advised of the possibility of such damages.
 
-Intellectual Property Owned by Shapiro | Delgado | Hofmann, Get Me Justice
---------------------------------------------------------------------------
+Intellectual Property Owned by Shaprio | Delgado, Get Me Justice
+----------------------------------------------------------------
 
-Except as otherwise noted, all trademarks, photographs and other artwork, video clips, and written materials used in this site are protected by copyright laws and are owned or licensed by Shapiro | Delgado | Hofmann, Get Me Justice. You may download information from our site for your temporary, personal, non-commercial use only. None of these items may be copied, reproduced, downloaded, posted, transmitted, broadcast or otherwise distributed in any manner without our prior written consent. Some photographs used on this site are either from the public domain, or appropriate licenses have been acquired from the respective copyright holder. No images found on this site may be used for any purpose, without the express permission of Shapiro | Delgado | Hofmann, Get Me Justice.
+Except as otherwise noted, all trademarks, photographs and other artwork, video clips, and written materials used in this site are protected by copyright laws and are owned or licensed by Shaprio | Delgado, Get Me Justice. You may download information from our site for your temporary, personal, non-commercial use only. None of these items may be copied, reproduced, downloaded, posted, transmitted, broadcast or otherwise distributed in any manner without our prior written consent. Some photographs used on this site are either from the public domain, or appropriate licenses have been acquired from the respective copyright holder. No images found on this site may be used for any purpose, without the express permission of Shaprio | Delgado, Get Me Justice.
 
 Licenses to Practice
 --------------------
@@ -234,9 +234,9 @@ Except as otherwise noted, the attorneys listed on this site (i) are licensed to
 Additional Information
 ----------------------
 
-The information in this site may include descriptions of litigation victories or other successful representations of our clients by Shapiro | Delgado | Hofmann, Get Me Justice lawyers. The results achieved were dependent on many facts. Results in one matter are not necessarily indicative of success in another matter, even if the facts or circumstances are similar. There can be no guarantee or assurance of success if we agree to represent a client in any matter.
+The information in this site may include descriptions of litigation victories or other successful representations of our clients by Shaprio | Delgado, Get Me Justice lawyers. The results achieved were dependent on many facts. Results in one matter are not necessarily indicative of success in another matter, even if the facts or circumstances are similar. There can be no guarantee or assurance of success if we agree to represent a client in any matter.
 
-We designate, to the extent that any jurisdiction requires designation, our Sarasota Office as our principal office and Shapiro | Delgado | Hofmann, Get Me Justice partner Adam Shapiro, as the attorney responsible for this site.
+We designate, to the extent that any jurisdiction requires designation, our Sarasota Office as our principal office and Shaprio | Delgado, Get Me Justice partner Adam Shapiro, as the attorney responsible for this site.
 
 Cookie Policy
 -------------
@@ -292,7 +292,7 @@ Request Free Consultation test
 * 
 * 
 * 
-* Phone
+* Name
     
     This field is for validation purposes and should be left unchanged.
     
@@ -347,7 +347,7 @@ Bradenton, FL 34203 [Get Directions](https://goo.gl/maps/ACYAPhS7uV1u2PS7A)
 St. Petersburg Office 801 49th Street North  
 Saint Petersburg, FL 33710 [Get Directions](https://goo.gl/maps/QMbEag6Q3oYC1WPG6)
 
-* © 2024 Shapiro | Delgado | Hofmann
+* © 2024 Shaprio | Delgado
 * All Rights Reserved
 * [ADA](https://getmejustice.com/ada-statement/)
 * [Privacy Policy](https://getmejustice.com/privacy-policy/)
