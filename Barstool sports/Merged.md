@@ -142,8 +142,8 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Rundown](https://www.barstoolsports.com/video/3533533/mets-fans-drink-yankee-tears-after-signing-juan-soto-barstool-rundown-december-9th-2024)
-* [Surviving Barstool](https://www.barstoolsports.com/video/3533135/surviving-barstool-s4-ep.-3-or-shocking-betrayal-rocks-the-tribes)
+* [Surviving Barstool](https://www.barstoolsports.com/video/3533618/surviving-barstool-s4-ep.-4-or-dave-scrambles-to-stay-alive)
+* [Rundown](https://www.barstoolsports.com/video/3533663/ceo-killer-found-at-mcdonalds-barstool-rundown-december-10th-2024)
 * [Surviving Barstool Office Reactions](https://www.barstoolsports.com/video/3533341/office-reacts-to-surviving-barstools-shocking-eliminations-or-stool-scenes)
 * [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
