@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/slika-017.jpg?itok=2Uo5TStO)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema/ratnik.jpg?itok=zJ0J4yVU)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/slike-paintings/slepe-mrlje-sistema)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gradska-muzika-kotor.jpg?itok=sLRldnKh)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara/trese-lupa-udara-045.?itok=BtL-ayO8)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
