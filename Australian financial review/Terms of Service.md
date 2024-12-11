@@ -297,7 +297,6 @@ Advertise
 
 ### [The year’s best books as chosen by the Financial Review newsroom](https://www.afr.com/life-and-luxury/arts-and-culture/the-year-s-best-books-as-chosen-by-the-financial-review-newsroom-20241118-p5krh3)
 
-* 45 mins ago
 * Staff writers
 
 * ### [Egypt’s bygone glamour gets a luxurious new spin](https://www.afr.com/life-and-luxury/travel/egypt-s-bygone-glamour-gets-a-luxurious-new-spin-20241023-p5kkke)
@@ -312,7 +311,6 @@ Advertise
 
 ### [This woman made history when she took over her local A-League club](https://www.afr.com/work-and-careers/leaders/this-woman-made-history-when-she-took-over-her-local-a-league-club-20241021-p5kk1e)
 
-* 55 mins ago
 * Zoe Samios
 
 * ### [Australia’s 50 highest-paid CEOs in 2024 revealed](https://www.afr.com/work-and-careers/workplace/australia-s-50-highest-paid-ceos-in-2024-revealed-20241202-p5kv4m)
@@ -327,7 +325,6 @@ Advertise
 
 ### [Australian Open takes premium packages to another level](https://www.afr.com/life-and-luxury/food-and-wine/australian-open-takes-premium-packages-to-another-level-20241204-p5kvw0)
 
-* 55 mins ago
 * Jill Dupleix
 
 * ### [How professional drinkers manage the silly season](https://www.afr.com/life-and-luxury/health-and-wellness/how-professional-drinkers-manage-the-silly-season-20241126-p5ktql)
