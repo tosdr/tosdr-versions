@@ -3,6 +3,7 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
+    * [Limited offer](https://shop.ledger.com/pages/gift-of-bitcoin "Limited offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -11,7 +12,7 @@
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
-    * [Packs](https://shop.ledger.com/#category-bundle "Packs")
+    * [Gift Cards](https://shop.ledger.com/products/gift-card "Gift Cards")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
@@ -51,6 +52,7 @@
     * العربية
 
 * Products
+    * [Limited offer](https://shop.ledger.com/pages/gift-of-bitcoin "Limited offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -59,7 +61,7 @@
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
-    * [Packs](https://shop.ledger.com/#category-bundle "Packs")
+    * [Gift Cards](https://shop.ledger.com/products/gift-card "Gift Cards")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
@@ -100,6 +102,7 @@
 [![Ledger](/ledger-logo-short-black.svg)![Ledger](/ledger-logo-long-black.svg)](https://www.ledger.com/)
 
 * Products
+    * [Limited offer](https://shop.ledger.com/pages/gift-of-bitcoin "Limited offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -108,7 +111,7 @@
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
-    * [Packs](https://shop.ledger.com/#category-bundle "Packs")
+    * [Gift Cards](https://shop.ledger.com/products/gift-card "Gift Cards")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     
@@ -148,6 +151,7 @@
     * العربية
 
 * Products
+    * [Limited offer](https://shop.ledger.com/pages/gift-of-bitcoin "Limited offer")
     * [Ledger Flex
         
         New](https://shop.ledger.com/pages/ledger-flex "Ledger Flex")
@@ -156,7 +160,7 @@
     * [Ledger Nano S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus "Ledger Nano S Plus")
     * [Compare our devices](https://shop.ledger.com/pages/hardware-wallets-comparison "Compare our devices")
     * [Hardware wallet](https://shop.ledger.com/pages/hardware-wallet "Hardware wallet")
-    * [Packs](https://shop.ledger.com/#category-bundle "Packs")
+    * [Gift Cards](https://shop.ledger.com/products/gift-card "Gift Cards")
     * [Accessories](https://shop.ledger.com/#category-accessories "Accessories")
     * [See All Products](https://shop.ledger.com/ "See All Products")
     * [Download Ledger Live](https://www.ledger.com/ledger-live "Download Ledger Live")
