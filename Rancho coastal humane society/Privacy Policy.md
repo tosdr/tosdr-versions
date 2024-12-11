@@ -150,7 +150,7 @@ Hours & Location
 
 **Adoption Hours:** 
 
-Thursday - Monday from 11 a.m until 4 p.m.
+Wednesday - Monday from 11 a.m until 4 p.m.
 
 389 Requeza Street, Encinitas, CA 92024
 
@@ -161,8 +161,6 @@ Thursday - Monday from 11 a.m until 4 p.m.
 ![](https://rchumanesociety.org/wp-content/uploads/2015/12/proud-member-BBB.png "proud member-BBB")
 
 [![](https://rchumanesociety.org/wp-content/uploads/2015/12/proud-member-charity-navigator.png "proud member-charity navigator")](https://www.charitynavigator.org/ein/952151583)
-
-[![](https://rchumanesociety.org/wp-content/uploads/2015/12/candid-seal-platinum-2023.png "candid-seal-platinum-2023")](https://www.guidestar.org/profile/95-2151583)
 
 [DONATE TODAY!](https://rchumanesociety.org/donate/)
 
