@@ -42,7 +42,7 @@
     * [Technology](https://www.threatstop.com/partners/partner-overview?hsLang=en#tech)
     * [MSP](https://www.threatstop.com/msp?hsLang=en)
 * [Blog](https://www.threatstop.com/blog?hsLang=en)
-* [Start Now](https://admin.threatstop.com/?hsLang=en)
+* [Start Now](https://admin.threatstop.com/register?hsLang=en)
 
  Search...
 
