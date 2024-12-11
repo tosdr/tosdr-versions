@@ -10,15 +10,15 @@ Quick Look
 
 Change your current location »
 
-Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1455) \-Mostly Sunny
+Current![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456) \-Mostly Sunny
 
-Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1455)Low \-Mostly Sunny
+Tonight![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456)Low \-Mostly Sunny
 
-Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1455)High \-Mostly Sunny
+Tomorrow![Mostly Sunny](/pf/resources/images/common/weather/small/02.png?d=1456)High \-Mostly Sunny
 
 View full weather report
 
-[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1455)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1455)](https://www.al.com/)
+[![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main.svg?d=1456)![al’s Logo](https://www.al.com/pf/resources/images/al/logos/logo_main_sm.svg?d=1456)](https://www.al.com/)
 
 * [Birmingham](https://www.al.com/birmingham)
 * [Huntsville](https://www.al.com/huntsville)
@@ -354,7 +354,7 @@ Last updated: August 1, 2024
 Footer Navigation
 -----------------
 
-![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1455)
+![Visit the al.com home page](/pf/resources/images/al/logos/logo_footer.png?d=1456)
 
 About Us
 
@@ -433,15 +433,15 @@ More on AL.com
 * [Sponsor Content](https://www.al.com/sponsor-content-index/?prx_adpz=1111)
 * [Post a job](https://jobs.al.com/AdminNet/Employer/Marketing/3315)
 
-* Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions.svg?d=1455)
+* Your Privacy Choices![California Consumer Privacy Act (CCPA) Opt-Out Icon](/pf/resources/images/common/icons/privacyoptions.svg?d=1456)
 * [Privacy Policy](https://www.al.com/privacy-policy/)
 * |[User Agreement](https://www.al.com/user-agreement/)
-* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1455)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+* |[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1456)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
 
 Disclaimer
 ----------
 
-[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1455)](https://www.advancelocal.com/)
+[![Advance Local logo](/pf/resources/images/common/logos/AdvanceLocal_horizontal.svg?d=1456)](https://www.advancelocal.com/)
 
 Use of and/or registration on any portion of this site constitutes acceptance of our [User Agreement](https://www.al.com/user-agreement/), (updated 8/1/2024) and acknowledgement of our [Privacy Policy](https://www.al.com/privacy-policy/), and [Your Privacy Choices and Rights](https://www.al.com/privacy-policy/#rights_top) (updated 7/1/2024).
 
@@ -452,4 +452,4 @@ The material on this site may not be reproduced, distributed, transmitted, cache
 
 **YouTube's privacy policy** is available [here](https://policies.google.com/privacy "YouTube Privacy Policy") and **YouTube's terms of service** is available [here](https://www.youtube.com/t/terms "YouTube Terms of Service").
 
-[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1455)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
+[![Ad Choices icon](/pf/resources/images/common/logos/ad-choices-arrow.svg?d=1456)Ad Choices](https://www.al.com/privacy-policy/#oba_top)
