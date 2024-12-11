@@ -416,7 +416,7 @@ TrustArc provides you the ability to opt-out of uses and disclosures of your per
 International Data Transfers
 ----------------------------
 
-TrustArc is headquartered in the United States and almost all data we process will be transferred to or accessed from the United States or through our subsidiaries in Canada or the Philippines. Customers have the option for their data to be hosted in the United States or Germany, and Cookie Consent Manager is hosted in Ireland. Customers should make sure that their notices reflect our transfer arrangements for their data subjects.
+TrustArc is headquartered in the United States and almost all data we process will be transferred to or accessed from the United States or through our subsidiaries in Canada or the Philippines. Customers have the option for their data to be hosted in the United States or Germany, and Cookie Consent Manager is hosted in Ireland. Customers should make sure that their notices reflect our transfer arrangements for their data subjects. Please see our [Technical and Organizational Measures](https://trustarc.com/technical-and-organizational-security-measures/) for more information on how we protect customer data in international transfers.
 
 This means that we may transfer, access, or store personal information about you outside of the European Economic Area (“EEA”), Switzerland, the United Kingdom, China, or another country that requires legal protections for international data transfer. When we do, we will ensure that an adequate level of protection is provided for the information by using one or more of the following approaches:
 
