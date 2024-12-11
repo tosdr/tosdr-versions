@@ -291,9 +291,9 @@ Contact****. You may contact us at the following address: 1580 N. Logan St. Ste 
 
 Take control of your digital future.
 
-[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c2e_icon-linkedin.svg)](https://www.linkedin.com/company/casa-inc/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c30_icon-instagram.svg)](https://www.instagram.com/casa_keys/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64e8ec49352a4de5fbeadf1e_twitter-x-seeklogo.com-4.svg)](https://twitter.com/CasaHODL/)
+[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c2e_icon-linkedin.svg)](https://www.linkedin.com/company/casa-inc/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c30_icon-instagram.svg)](https://www.instagram.com/casa_keys/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64e8ec49352a4de5fbeadf1e_twitter-x-seeklogo.com-4.svg)](https://twitter.com/CasaHODL/)[![](https://cdn.prod.website-files.com/64931939e37b1297d83d6938/64931939e37b1297d83d6c07_icons8-youtube-100.svg)](https://www.youtube.com/@CasaOfficial)
 
-LearN
+LEARN
 
 [Ethereum](https://keys.casa/ethereum)[Inheritance](https://keys.casa/inheritance)[Shared Accounts](https://keys.casa/shared-accounts)
 
