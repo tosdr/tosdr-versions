@@ -566,7 +566,7 @@ PLEASE READ THIS AGREEMENT CAREFULLY TO ENSURE THAT YOU UNDERSTAND EACH PROVISIO
 
 [Previous Terms of Service](https://docs.rollbar.com/docs/terms-of-service-archive)
 
-Updated 12 months ago
+Updated about 1 year ago
 
 * * *
 
