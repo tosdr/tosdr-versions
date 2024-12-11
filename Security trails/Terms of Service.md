@@ -263,7 +263,7 @@ About us
 
 Helpful links
 
-* [Careers](https://securitytrails.com/)
+* [Careers](https://securitytrails.com/careers)
 * [Contact Us](https://securitytrails.com/contact)
 * [Get a Demo](https://go.recordedfuture.com/demo)
 * [The Intelligence Graph](https://securitytrails.com/platform/intelligence-graph)
