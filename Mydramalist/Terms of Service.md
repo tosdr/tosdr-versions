@@ -125,6 +125,37 @@ This Site may provide fora and other features for communication. Please read our
 * will not transmit chain letters, bulk or junk email or interfere with, disrupt, or create an undue burden on this Site or the networks or services connected to this Site, including without limitation, hacking into this Site, or using the system to send unsolicited or commercial emails, bulletins, comments or other communications; or
 * will not impersonate any other person or entity, sell or let others use your profile or password, provide false or misleading identification or address information, or invade the privacy, or violate the personal or proprietary right, of any person or entity.
 
+### Your Account
+
+If you use any MyDramaList service, you are responsible for maintaining the confidentiality of log-in information and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. MyDramaList reserves the right to refuse service, terminate accounts, or remove or edit content in its sole discretion.
+
+By posting content or submitting material to our site, you grant MyDramaList a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content worldwide in any media. You also grant MyDramaList and its sublicensees the right to use the name you submit in connection with such content, if they choose.
+
+By submitting content, you represent and warrant that:
+
+* You own or otherwise control all the rights to the content you post.
+* The content is accurate.
+* The use of the content you supply does not violate this policy and will not cause injury to any person or entity.
+* You will indemnify MyDramaList for all claims resulting from the content you supply.
+
+MyDramaList reserves the right, but not the obligation, to monitor, edit, or remove any activity or content. MyDramaList assumes no responsibility and disclaims all liability for any content posted by you or any third party. For information about how we handle content submissions, please review our [Privacy Policy](https://mydramalist.com/privacy).
+
+### Copyright Complaints
+
+MyDramaList respects the intellectual property rights of others. If you believe that your copyrighted work has been infringed upon, please provide our copyright agent with the following written information:
+
+* An electronic or physical signature of the person authorized to act on behalf of the copyright owner.
+* A description of the copyrighted work that you claim has been infringed upon.
+* A description of where the infringing material is located on our site.
+* Your address, telephone number, and email address.
+* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law.
+* A statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf.
+
+MyDramaList Copyright Agent  
+[\[email protected\]](https://mydramalist.com/cdn-cgi/l/email-protection)
+
+This procedure is exclusively for notifying MyDramaList of copyright infringement. Misuse of this process may result in legal consequences.
+
 ### Termination
 
 We may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice, effective immediately, which may result in the forfeiture and destruction of all information associated with your membership. If you wish to terminate your account, you may do so by following the instructions on the Site. Any fees paid hereunder are non-refundable. All provisions of the Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
