@@ -893,4 +893,4 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Website, if not stated otherwise within this document.
 
-Latest update: August 06, 2024
+Latest update: December 06, 2024
