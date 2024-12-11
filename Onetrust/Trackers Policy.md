@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [Overcoming the privacy pitfalls of GenAI](https://www.onetrust.com/resources/overcoming-the-privacy-pitfalls-of-genai-webinar/)
+* [How OneTrust helps SMEs stay ahead of third-party risk](https://www.onetrust.com/resources/how-onetrust-helps-smes-stay-ahead-of-third-party-risk/)
 *  [An overview of the Thailand Personal Data Protection Act](https://www.onetrust.com/resources/an-overview-of-the-thailand-personal-data-protection-act-infographic/) 
-* [A quick guide to the Thai PDPA](https://www.onetrust.com/resources/a-quick-guide-to-the-thai-pdpa-ebook/)
-* [Privacy risk assessment workbook](https://www.onetrust.com/resources/privacy-risk-assessment-workbook-interactive-tool/)
 
 ### Platform
 
