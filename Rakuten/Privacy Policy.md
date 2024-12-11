@@ -5,12 +5,92 @@ Sign InJoin Now
 How can we help?
 ================
 
-The page you're looking for does not exist
-------------------------------------------
+What Data Rakuten Collects and Why
+----------------------------------
 
-Go to homepage for the latest and greatest.
+When you sign up with Rakuten, we collect some basic information to set up your account. This includes information like your name, address and email. We use this information to maintain your account and support your use of our products.
 
-[Go to Homepage](https://www.rakuten.com/)
+We also collect information when you shop and interact with us. Some of this data is needed to manage and service your account, and some of it is used to personalize your experience. Information such as your browsing history, shopping history and geolocation, help us create a shopping experience that is tailored to you. With this information, we can recommend stores and deals you might like, show you marketing campaigns that are relevant and display content that is more aligned with your interests.
+
+Here’s an overview of the different types of data we collect from you:
+
+**PERSONAL INFORMATION**
+
+**About You**
+
+This includes information that is used to personalize your experience but is not required to manage your account.
+
+**Profile Information**
+
+This includes 3rd-party information such as demographic information that is used to personalize your experience, but not required to manage your account.
+
+**Location**
+
+This includes information related to physical addresses you’ve provided and location data based on your product interactions.
+
+**Search History**
+
+This includes information related to your search history and shopping trips.
+
+**ACCOUNT INFORMATION**
+
+**Member Information**
+
+This includes information such as name, email, address, payments, and other data that is required to manage your account.
+
+**Connected Accounts**
+
+This includes 3rd-party information such as Sign-Up/Sign-In, payment method, and other data required to manage your account if you’ve connected your account to an outside service like Facebook or Google.
+
+**Credit Cards**
+
+This includes information from any credit cards you’ve linked to your account.
+
+**TRANSACTION HISTORY**
+
+**Your Orders and Purchases**
+
+This includes information related to orders, bonuses, adjustments, returns and other shopping-related transactions.
+
+**CASH BACK ACTIVITY**
+
+**Cash Back Payments**
+
+This includes information about Cash Back you’ve earned as a Rakuten member.
+
+**Referral History**
+
+This includes information related to your referral status and history as a referrer and/or referee. 
+
+**ACCOUNT ACTIVITY**
+
+**Marketing Activity**
+
+This includes information related to marketing efforts, email campaigns, and any advertising that brought you to Rakuten.
+
+**Site and App Activity**
+
+This includes information such as browsing history, interactions with promotions, and data related to your actions within our products.
+
+**Product Use**
+
+This includes information such as which of our products you use (ex. website, mobile app, the Rakuten browser extension), how often, and other data related to using our products.
+
+**Email Subscriptions**
+
+This includes information about your email subscriptions, unsubscribed emails, and data related to your interactions with our emails.
+
+For more information about how we collect and use data, please visit our [Privacy Policy](https://www.rakuten.com/help/article/rakuten-privacy-policy-360002101688).
+
+Related Articles
+
+[Rakuten Terms & Conditions](https://www.rakuten.com/help/article/rakuten-terms-conditions-360002101608)
+
+[When Will I Get Paid?](https://www.rakuten.com/help/article/when-will-i-get-paid-360002117667)
+
+[Exclusions & Limitations](https://www.rakuten.com/help/article/exclusions-limitations-360002101368)
+
+[How Does Rakuten Work?](https://www.rakuten.com/help/article/how-does-rakuten-work-360002117047)
 
 Tools & Forms
 
