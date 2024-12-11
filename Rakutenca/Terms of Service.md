@@ -525,7 +525,7 @@ FR
         
         1% Cash Back](https://www.rakuten.ca/hotels-com)[Bikini Village
         
-        2% Cash Back](https://www.rakuten.ca/bikini-village)
+        4% Cash Back](https://www.rakuten.ca/bikini-village)
         
         Featured Shops & Deals
         
