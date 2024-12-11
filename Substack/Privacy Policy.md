@@ -437,6 +437,14 @@ These cookies remember choices you make such as the country you visit our websit
 | Lifetime | 10 years |
 | Domain | .substack.com |
 
+|     |     |
+| --- | --- |
+| Name | preferred\_language |
+| Type | Persistent |
+| Purpose | Stores the user's preferred language |
+| Lifetime | Session |
+| Domain | .substack.com |
+
 _**Creator cookies**_
 
 In addition to the cookies Substack uses, Creators on Substack may choose to set certain tracking and analytics cookies, subject to the Creator’s own terms and policies. These Creator cookies may include cookies set by third parties such as Twitter, Facebook, Google, and Parse.ly.
