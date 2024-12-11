@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![FIFA’s Dirty Secrets](/wp-content/thumbnails/4646-100x70.jpg?x53432)
+* [![Iron Triangle: The Carlyle Group](/wp-content/thumbnails/1702-100x70.jpg?x53432)
     
-    FIFA’s Dirty Secrets
+    Iron Triangle: The Carlyle Group
     
-    The half-hour programme saw investigative journalist Andrew Jennings look into allegations of corruption with FIFA, the world’s governing body of association football. Within the programme he alleged](https://documentaryheaven.com/fifa%e2%80%99s-dirty-secrets/ "FIFA’s Dirty Secrets")
-* [![H.O.P.E. What You Eat Matters](/wp-content/thumbnails/14132-100x70.jpg?x53432)
+    The Bush family, the Saudi Royal family, Osama Bin Laden's family and Donald Rumsfeld's inner circle - these are just some of the high profile figures who have played a direct role in the rise of one](https://documentaryheaven.com/iron-triangle-the-carlyle-group/ "Iron Triangle: The Carlyle Group")
+* [![The King of Kong: A Fistful of Quarters](/wp-content/thumbnails/7300-100x70.jpg?x53432)
     
-    H.O.P.E. What You Eat Matters
+    The King of Kong: A Fistful of Quarters
     
-    Unfortunately the western diet is associated with some pretty serious diseases, heart disease, cancer, diabetes, obesity, the onset of these health issues in recent times has been detrimental to not o](https://documentaryheaven.com/hope-what-you-eat-matters/ "H.O.P.E. What You Eat Matters")
-* [![Shut Him Down: The Rise of Jordan Peterson](/wp-content/thumbnails/14339-100x70.jpg?x53432)
+    The stuff of gladiatorial battle is here: good versus evil, right versus wrong, nerd versus super-nerd. In this critically acclaimed arcade showdown, a humble novice goes head-to-head against the reig](https://documentaryheaven.com/king-kong-fistful-quarters/ "The King of Kong: A Fistful of Quarters")
+* [![The Life And Crimes of Citizen Ming](/wp-content/thumbnails/5684-100x70.jpg?x53432)
     
-    Shut Him Down: The Rise of Jordan Peterson
+    The Life And Crimes of Citizen Ming
     
-    Jordan B Peterson, he's become awfully popular with some people and massively unpopular with others. In this film we get a first hand glimpse into this firestorm of polarising public opinion which was](https://documentaryheaven.com/shut-him-down-rise-of-jordan-peterson/ "Shut Him Down: The Rise of Jordan Peterson")
-* [![Golden Age of Pirates: Terror at Sea](/wp-content/thumbnails/8307-100x70.jpg?x53432)
+    Luke 'Ming' Flanagan is an Irish politician and social campaigner. He began his political career running unsuccessfully as an independent candidate in the Galway West constituency in 1997, and went on](https://documentaryheaven.com/the-life-and-crimes-of-citizen-ming/ "The Life And Crimes of Citizen Ming")
+* [![Sun Ra, Brother From Another Planet](/wp-content/thumbnails/6378-100x70.jpg?x53432)
     
-    Golden Age of Pirates: Terror at Sea
+    Sun Ra, Brother From Another Planet
     
-    Whenever there have been sea traders, there have been sea thieves. Pirates have been sailing the seas throughout history stealing from weak and solitary ships, easily taken in the vast and un-defendab](https://documentaryheaven.com/golden-age-pirates-terror-sea/ "Golden Age of Pirates: Terror at Sea")
-* [![World Cup’s Most Shocking Moments](/wp-content/thumbnails/5911-100x70.jpg?x53432)
+    Sun Ra was born on the planet Saturn some time ago. The best accounts agree that he emerged on Earth as Herman Blount, born in Birmingham, Alabama in 1914, although Sun Ra himself always denied that B](https://documentaryheaven.com/sun-ra-brother-from-another-planet/ "Sun Ra, Brother From Another Planet")
+* [![The Naked Truth](/wp-content/thumbnails/2352-100x70.png?x53432)
     
-    World Cup’s Most Shocking Moments
+    The Naked Truth
     
-    Richard Bacon and guest presenter Peter Crouch look back on the 50 greatest shocks in the history of the World Cup, covering the last six tournaments and including moments such as Maradona’s Hand of G](https://documentaryheaven.com/world-cups-most-shocking-moments/ "World Cup’s Most Shocking Moments")
+    Documentary The Naked Truth traces the origins of modern religions back to stories from numerous ancient civilizations. Due to the lack of science and facts, stories were created by our ancient ances](https://documentaryheaven.com/the-naked-truth/ "The Naked Truth")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
