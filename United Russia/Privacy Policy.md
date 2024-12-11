@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://cdn.er.ru/media/news/December2024/0YK2cGkRhW88Ah0Qnwhe-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
+
+[Дмитрий Медведев: Москва и Пекин активно развивают межпартийное сотрудничество по линии «Единой России» и КПК](https://er.ru/activity/news/dmitrij-medvedev-moskva-i-pekin-aktivno-razvivayut-mezhpartijnoe-sotrudnichestvo-po-linii-edinoj-rossii-i-kpk)
+
+[#дамедведев](https://er.ru/activity/news?tags%5B0%5D=1095751) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#КНР](https://er.ru/activity/news?tags%5B0%5D=1871) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
+
+Сегодня 13:14
+
+[![Дмитрий Медведев: Англосаксам не удастся расколоть отношения России и Китая](https://cdn.er.ru/media/news/December2024/2ZDanVAlmCgosQSX0fDD-small.jpg)](https://er.ru/activity/news/dmitrij-medvedev-anglosaksam-ne-udastsya-raskolot-otnosheniya-rossii-i-kitaya)
+
+[Дмитрий Медведев: Англосаксам не удастся расколоть отношения России и Китая](https://er.ru/activity/news/dmitrij-medvedev-anglosaksam-ne-udastsya-raskolot-otnosheniya-rossii-i-kitaya)
+
+[#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#международноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=119742) [#Китай](https://er.ru/activity/news?tags%5B0%5D=263)
+
+Сегодня 12:40
+
+[![Владимир Якушев: «Единая Россия» проведёт 16 декабря Всероссийский штаб по президентским программам капремонта и строительства образовательных учреждений](https://cdn.er.ru/media/news/December2024/YuSRQTCojmBPmfkYolYt-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-provedyot-16-dekabrya-vserossijskij-shtab-po-prezidentskim-programmam-kapremonta-i-stroitelstva-obrazovatelnyh-uchrezhdenij)
+
+[Владимир Якушев: «Единая Россия» проведёт 16 декабря Всероссийский штаб по президентским программам капремонта и строительства образовательных учреждений](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-provedyot-16-dekabrya-vserossijskij-shtab-po-prezidentskim-programmam-kapremonta-i-stroitelstva-obrazovatelnyh-uchrezhdenij)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Минпросвещения](https://er.ru/activity/news?tags%5B0%5D=120658) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616) [#строительство](https://er.ru/activity/news?tags%5B0%5D=637) [#образовательныеучреждения](https://er.ru/activity/news?tags%5B0%5D=121354) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 09:00
+
 [![Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://cdn.er.ru/media/news/December2024/LGy4RfiEiNUncR6miIPX-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
 
 [Владимир Якушев: «Единая Россия» расширит линейку мероприятий партпроекта «Цифровая Россия»](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-rasshirit-linejku-meropriyatij-partproekta-cifrovaya-rossiya)
@@ -320,30 +344,6 @@
 [«Единая Россия» наградила лауреатов конкурса «Цифровая журналистика - 2024»](https://er.ru/activity/news/edinaya-rossiya-nagradila-laureatov-konkursa-cifrovaya-zhurnalistika-2024)
 
 [#Немкин](https://er.ru/activity/news?tags%5B0%5D=1092473) [#награждение](https://er.ru/activity/news?tags%5B0%5D=2365) [#цифроваяроссия](https://er.ru/activity/news?tags%5B0%5D=1092858) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#конкурс](https://er.ru/activity/news?tags%5B0%5D=360) [#журналистика](https://er.ru/activity/news?tags%5B0%5D=4615)
-
-10.12.24
-
-[![«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://cdn.er.ru/media/news/December2024/zmm6mcq4PaNPUta7PvOs-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
-
-[«Единая Россия» обеспечила принятие закона, расширяющего перечень лиц, которые смогут оформить статус ветерана боевых действий](https://er.ru/activity/news/edinaya-rossiya-obespechila-prinyatie-zakona-rasshiryayushego-perechen-lic-kotorye-smogut-oformit-status-veterana-boevyh-dejstvij)
-
-[#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#ветераныбоевыхдействий](https://er.ru/activity/news?tags%5B0%5D=128160) [#статус](https://er.ru/activity/news?tags%5B0%5D=7092) [#военнослужащие](https://er.ru/activity/news?tags%5B0%5D=838) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692)
-
-10.12.24
-
-[![Госдума приняла закон «Единой России» о продлении механизма «зонтичных» поручительств для МСП](https://cdn.er.ru/media/news/December2024/UJTqNUiprJWLtBbZzsmx-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-prodlenii-mehanizma-zontichnyh-poruchitelstv-dlya-msp)
-
-[Госдума приняла закон «Единой России» о продлении механизма «зонтичных» поручительств для МСП](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-o-prodlenii-mehanizma-zontichnyh-poruchitelstv-dlya-msp)
-
-[#поручительства](https://er.ru/activity/news?tags%5B0%5D=51985) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#законодательство](https://er.ru/activity/news?tags%5B0%5D=692) [#МСП](https://er.ru/activity/news?tags%5B0%5D=65763) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
-
-10.12.24
-
-[![Александр Сидякин: «Единая Россия» включит участников СВО в руководящие органы партии](https://cdn.er.ru/media/news/December2024/kHMB8HQv1gLCdhuazNK1-small.jpg)](https://er.ru/activity/news/aleksandr-sidyakin-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-rukovodyashie-organy-partii)
-
-[Александр Сидякин: «Единая Россия» включит участников СВО в руководящие органы партии](https://er.ru/activity/news/aleksandr-sidyakin-edinaya-rossiya-vklyuchit-uchastnikov-svo-v-rukovodyashie-organy-partii)
-
-[#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#СъездЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=113629) [#народнаяпрограммаЕР](https://er.ru/activity/news?tags%5B0%5D=1093363)
 
 10.12.24
 
