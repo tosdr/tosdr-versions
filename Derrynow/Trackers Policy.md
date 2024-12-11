@@ -284,13 +284,6 @@ Derry Magistrates' Court
 [Derry man charged with attacking neighbour with machete](https://www.derrynow.com/news/local-news/1677052/derry-man-charged-with-attacking-neighbour-with-machete.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, December 10, 2024](https://www.derrynow.com/news/deaths/1676621/derry-death-notices-tuesday-december-10-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Search stood down for Monaghan teenager missing since Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Search stood down for Monaghan teenager missing since Saturday")](https://www.derrynow.com/news/national-news/1676842/search-stood-down-for-monaghan-teenager-missing-since-saturday.html)
 
 The teenager was reported missing on Saturday, December 7.
@@ -325,6 +318,15 @@ Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams
 [Derry Christmas: Council confirm service arrangements for festive season](https://www.derrynow.com/news/local-news/1677409/derry-christmas-council-confirm-service-arrangements-for-festive-season.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Two motorists arrested in Derry for driving-related offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Two motorists arrested in Derry for driving-related offences")](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
+
+PSNI
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On")](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -332,12 +334,14 @@ Enedis crews have arrived from Cherbourg and will help assist ESB Networks teams
 [IN PICTURES: Maydown and Strathfoyle Annual Christmas Tree Light Switch On](https://www.derrynow.com/story-telling/pictures---videos/1677215/in-pictures-maydown-and-strathfoyle-annual-christmas-tree-light-switch-on.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC")](https://www.derrynow.com/story-telling/derry-sport/1676470/in-pictures-daire-s-day-coffee-morning-and-football-tournament-held-at-sean-dolan-s-gac.html)
+[![Derry's Templemore Sports Complex to close for essential works](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's Templemore Sports Complex to close for essential works")](https://www.derrynow.com/news/local-news/1677106/derry-s-templemore-sports-complex-to-close-for-essential-works.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+Templemore Sports Complex
 
-[IN PICTURES: 'Daire's Day' coffee morning and football tournament held at Seán Dolan's GAC](https://www.derrynow.com/story-telling/derry-sport/1676470/in-pictures-daire-s-day-coffee-morning-and-football-tournament-held-at-sean-dolan-s-gac.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's Templemore Sports Complex to close for essential works](https://www.derrynow.com/news/local-news/1677106/derry-s-templemore-sports-complex-to-close-for-essential-works.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +521,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, December 11, 2024](https://www.derrynow.com/news/deaths/1677216/derry-death-notices-wednesday-december-11-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Inner City Trust Annual Christmas Giving](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Inner City Trust Annual Christmas Giving")](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -524,7 +535,7 @@ Advertise with Us
 [Inner City Trust Annual Christmas Giving](https://www.derrynow.com/news/local-news/1674983/inner-city-trust-annual-christmas-giving.html)
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
+[![Eugenia Devine (Devine Hair & Beauty Salon) accepting her award](https://www.derrynow.com/resizer/165/93/true/2024_12_10/Eugenia_Devine_accepting_her_award-1733832865770_1733833535.jpg--.jpg?1733833535587 "Eugenia Devine (Devine Hair & Beauty Salon) accepting her award")](https://www.derrynow.com/news/county-derry-post/1677073/devine-new-salon-in-the-heart-of-county-derry-village.html)
 
 Eugenia Devine (Devine Hair & Beauty Salon) accepting her award
 
@@ -557,15 +568,6 @@ Group pictured at Monday's launch of the Greater Shantallow Area Partnership's '
 
 [‘Skeoge United’ PeacePlus-funded project launched by Derry community group](https://www.derrynow.com/news/local-news/1676975/skeoge-united-peaceplus-funded-project-launched-by-derry-community-group.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/resizer/165/93/true/2024_02_26/75d09668-969e-11ed-a6c5-0210609a3fe2-1685351040715.jpg---1708952493894.jpg--.jpg?1708952493928 "Two motorists arrested in Derry for driving-related offences")](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-
-PSNI
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Two motorists arrested in Derry for driving-related offences](https://www.derrynow.com/news/local-news/1677145/two-motorists-arrested-in-derry-for-driving-related-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
