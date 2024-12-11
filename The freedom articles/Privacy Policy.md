@@ -1281,6 +1281,14 @@
     * [Venezuela](https://thefreedomarticles.com/category/geopolitics/venezuela/)
     * [WW3](https://thefreedomarticles.com/category/geopolitics/world-war-3/)
     
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
+    
     [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
@@ -1304,14 +1312,6 @@
     [Rabbi Shmuley: I Forced Ben Shapiro to Fire Candace Owens – Video #162](https://thefreedomarticles.com/rabbi-shmuley-forced-ben-shapiro-to-fire-candace-owens/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 28, 2024
-    
-    [![Bilzerian Jewish Supremacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Bilzerian Jewish Supremacy](https://thefreedomarticles.com/wp-content/uploads/2024/11/Bilzerian-Jewish-Supremacy-183x96.png)](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
     
     [![net zero kill switch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1345,6 +1345,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) March 13, 2024
     
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
+    
     [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
@@ -1369,13 +1377,13 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 13, 2024
     
-    [![no more war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![no more war](https://thefreedomarticles.com/wp-content/uploads/2024/01/no-more-war-183x96.jpg)](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [There is No Alternative (No More War) – Video #61](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
     
     [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1401,14 +1409,6 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 28, 2024
     
-    [![Bilzerian Jewish Supremacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Bilzerian Jewish Supremacy](https://thefreedomarticles.com/wp-content/uploads/2024/11/Bilzerian-Jewish-Supremacy-183x96.png)](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Bilzerian Calls Out Jewish Supremacy on MSM – Video #159](https://thefreedomarticles.com/bilzerian-calls-out-jewish-supremacy-on-msm/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) November 13, 2024
-    
     [![nuclear postures](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![nuclear postures](https://thefreedomarticles.com/wp-content/uploads/2022/11/nuclear-postures-183x96.jpg)](https://thefreedomarticles.com/nuclear-postures-and-posturing-video-3/)
@@ -1432,6 +1432,14 @@
     [North Korea Deception by Mainstream Media](https://thefreedomarticles.com/north-korea-deception-by-mainstream-media/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) April 16, 2013
+    
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
     
     [![CIA document Syria](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1457,45 +1465,13 @@
     
     [Kurt Nimmo](https://thefreedomarticles.com/author/kurt/) January 28, 2020
     
-    [![normal nation](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![normal nation](https://thefreedomarticles.com/wp-content/uploads/2020/01/normal-nation-183x96.jpeg)](https://thefreedomarticles.com/iran-must-be-a-normal-nation-says-totally-normal-nation/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [“Iran Must Begin Acting Like A Normal Nation,” Says Totally Normal Nation](https://thefreedomarticles.com/iran-must-be-a-normal-nation-says-totally-normal-nation/)
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [Caitlin Johnstone](https://thefreedomarticles.com/author/caitlin/) January 13, 2020
-    
-    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
-    
-    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
-    
-    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
-    
-    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 3, 2024
-    
-    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
-    
-    [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
-    
-    [![durov telegram encryption](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![durov telegram encryption](https://thefreedomarticles.com/wp-content/uploads/2024/09/pavel-durov-telegram-encryption-183x96.jpg)](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
-    
-    [A Closer Look at Durov, Telegram and Encryption – Video #145](https://thefreedomarticles.com/a-closer-look-at-durov-telegram-and-encryption/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) September 26, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
     
     [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1521,13 +1497,37 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
     
-    [![no more war](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
-    ![no more war](https://thefreedomarticles.com/wp-content/uploads/2024/01/no-more-war-183x96.jpg)](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [There is No Alternative (No More War) – Video #61](https://thefreedomarticles.com/there-is-no-alternative-no-more-war/)
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
     
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) January 23, 2024
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
+    
+    [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Syria Falls! Assad Flees to Russia – Video #166](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 8, 2024
+    
+    [![ukraine israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![ukraine israel](https://thefreedomarticles.com/wp-content/uploads/2024/12/ukraine-israel-183x96.jpg)](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
+    
+    [New Islamic Terrorists “Love Israel” As Ukraine Fights Russia in Syria – Video #164](https://thefreedomarticles.com/islamic-terrorists-love-israel-ukraine-fights-russia-in-syria/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 3, 2024
+    
+    [![operation true promise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![operation true promise](https://thefreedomarticles.com/wp-content/uploads/2024/10/iran-israel-operation-true-promise-183x96.png)](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    
+    [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
     
     [![assange blumenthal](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
@@ -1561,6 +1561,14 @@
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) July 10, 2017
     
+    [![syria collapse allowed to happen](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
+    
+    ![syria collapse allowed to happen](https://thefreedomarticles.com/wp-content/uploads/2024/12/syria-collapse-allowed-to-happen-183x96.png)](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [The Collapse of Syria was ALLOWED to Happen – Video #167](https://thefreedomarticles.com/the-collapse-of-syria-was-allowed-to-happen-video-167/)
+    
+    [Makia Freeman](https://thefreedomarticles.com/author/makia/) December 10, 2024
+    
     [![Syria Falls](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
     
     ![Syria Falls](https://thefreedomarticles.com/wp-content/uploads/2024/12/Syria-Falls-183x96.jpg)](https://thefreedomarticles.com/syria-falls-assad-flees-to-russia-video-166/)
@@ -1584,14 +1592,6 @@
     [Operation True Promise II: Iran Strikes Israel a 2nd Time – Video #146](https://thefreedomarticles.com/operation-true-promise-ii-iran-strikes-israel-2nd-time/)
     
     [Makia Freeman](https://thefreedomarticles.com/author/makia/) October 2, 2024
-    
-    [![hezbollah israel](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20183%2096'%3E%3C/svg%3E)
-    
-    ![hezbollah israel](https://thefreedomarticles.com/wp-content/uploads/2024/08/hezbollah-attacks-israel-183x96.jpg)](https://thefreedomarticles.com/hezbollah-attacks-deep-inside-israel/)
-    
-    [Hezbollah Attacks Deep Inside Israel – Video #134](https://thefreedomarticles.com/hezbollah-attacks-deep-inside-israel/)
-    
-    [Makia Freeman](https://thefreedomarticles.com/author/makia/) August 27, 2024
     
 * [Health](https://thefreedomarticles.com/category/natural-health/)
     
@@ -2233,4 +2233,4 @@ Last updated on July 10, 2019
 
 ×
 
-Tuesday, December 10, 2024
+Wednesday, December 11, 2024
