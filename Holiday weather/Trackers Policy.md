@@ -120,193 +120,193 @@ Live Weather
 
 Sorted by popularity:
 
-Updated at 08:01 GMT
+Updated at 14:01 GMT
 
  ![Popularity icon](https://www.holiday-weather.com/images/mobile/icons/trending.svg)![Temperature icon](https://www.holiday-weather.com/images/mobile/averages/sun.png) ![Alphabetical icon](https://www.holiday-weather.com/images/mobile/icons/alphabetical.svg)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)6°C 43°F](https://www.holiday-weather.com/majorca/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/majorca/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/fuerteventura/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)22°C 72°F](https://www.holiday-weather.com/fuerteventura/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/tenerife/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/tenerife/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/gran_canaria/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/gran_canaria/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/lanzarote/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/lanzarote/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cape_verde/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)23°C 73°F](https://www.holiday-weather.com/cape_verde/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/crete/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/crete/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/madeira/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)16°C 61°F](https://www.holiday-weather.com/madeira/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)8°C 46°F](https://www.holiday-weather.com/algarve/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/algarve/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/malta/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/malta/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)29°C 84°F](https://www.holiday-weather.com/mauritius/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)25°C 77°F](https://www.holiday-weather.com/mauritius/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/33.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)7°C 45°F](https://www.holiday-weather.com/sunny_beach/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/sunny_beach/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)29°C 84°F](https://www.holiday-weather.com/bali/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/bali/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)5°C 41°F](https://www.holiday-weather.com/corsica/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/corsica/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/punta_cana/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)27°C 81°F](https://www.holiday-weather.com/punta_cana/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)13°C 55°F](https://www.holiday-weather.com/zante/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/zante/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)9°C 48°F](https://www.holiday-weather.com/malaga/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/malaga/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)11°C 52°F](https://www.holiday-weather.com/marrakesh/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/marrakesh/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/rhodes/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)20°C 68°F](https://www.holiday-weather.com/rhodes/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/santorini/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/santorini/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)27°C 81°F](https://www.holiday-weather.com/riviera_maya/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)24°C 75°F](https://www.holiday-weather.com/riviera_maya/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)6°C 43°F](https://www.holiday-weather.com/barcelona/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/barcelona/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/halkidiki/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)14°C 57°F](https://www.holiday-weather.com/halkidiki/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)10°C 50°F](https://www.holiday-weather.com/sicily/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/sicily/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/39.svg)26°C 79°F](https://www.holiday-weather.com/st_lucia/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)28°C 82°F](https://www.holiday-weather.com/st_lucia/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/paphos/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)19°C 66°F](https://www.holiday-weather.com/paphos/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/11.svg)7°C 45°F](https://www.holiday-weather.com/rome/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/rome/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)11°C 52°F](https://www.holiday-weather.com/benidorm/)
-
-Resorts
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)29°C 84°F](https://www.holiday-weather.com/mauritius/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)29°C 84°F](https://www.holiday-weather.com/bali/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)27°C 81°F](https://www.holiday-weather.com/riviera_maya/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/punta_cana/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/39.svg)26°C 79°F](https://www.holiday-weather.com/st_lucia/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cape_verde/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/crete/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/rhodes/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/santorini/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/fuerteventura/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/gran_canaria/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/malta/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/paphos/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/lanzarote/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/tenerife/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/madeira/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/halkidiki/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)13°C 55°F](https://www.holiday-weather.com/zante/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)11°C 52°F](https://www.holiday-weather.com/benidorm/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)11°C 52°F](https://www.holiday-weather.com/marrakesh/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)10°C 50°F](https://www.holiday-weather.com/sicily/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)9°C 48°F](https://www.holiday-weather.com/malaga/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)8°C 46°F](https://www.holiday-weather.com/algarve/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/11.svg)7°C 45°F](https://www.holiday-weather.com/rome/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)7°C 45°F](https://www.holiday-weather.com/sunny_beach/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)6°C 43°F](https://www.holiday-weather.com/majorca/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)6°C 43°F](https://www.holiday-weather.com/barcelona/)
-
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)5°C 41°F](https://www.holiday-weather.com/corsica/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)12°C 54°F](https://www.holiday-weather.com/benidorm/)
 
 Resorts
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)8°C 46°F](https://www.holiday-weather.com/algarve/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/33.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)29°C 84°F](https://www.holiday-weather.com/bali/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)28°C 82°F](https://www.holiday-weather.com/st_lucia/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)6°C 43°F](https://www.holiday-weather.com/barcelona/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)27°C 81°F](https://www.holiday-weather.com/punta_cana/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)11°C 52°F](https://www.holiday-weather.com/benidorm/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/bali/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)25°C 77°F](https://www.holiday-weather.com/mauritius/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cape_verde/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)5°C 41°F](https://www.holiday-weather.com/corsica/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)24°C 75°F](https://www.holiday-weather.com/riviera_maya/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/crete/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)23°C 73°F](https://www.holiday-weather.com/cape_verde/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/fuerteventura/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)22°C 72°F](https://www.holiday-weather.com/fuerteventura/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/gran_canaria/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/lanzarote/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/halkidiki/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/gran_canaria/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/lanzarote/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/tenerife/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/madeira/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)20°C 68°F](https://www.holiday-weather.com/rhodes/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)6°C 43°F](https://www.holiday-weather.com/majorca/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/crete/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)9°C 48°F](https://www.holiday-weather.com/malaga/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)19°C 66°F](https://www.holiday-weather.com/paphos/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/santorini/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/malta/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/malta/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)11°C 52°F](https://www.holiday-weather.com/marrakesh/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/zante/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)29°C 84°F](https://www.holiday-weather.com/mauritius/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/marrakesh/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)16°C 61°F](https://www.holiday-weather.com/paphos/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)16°C 61°F](https://www.holiday-weather.com/madeira/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/punta_cana/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/majorca/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/rhodes/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/rome/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)27°C 81°F](https://www.holiday-weather.com/riviera_maya/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)14°C 57°F](https://www.holiday-weather.com/halkidiki/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/11.svg)7°C 45°F](https://www.holiday-weather.com/rome/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/corsica/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/santorini/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/malaga/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)10°C 50°F](https://www.holiday-weather.com/sicily/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/algarve/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/39.svg)26°C 79°F](https://www.holiday-weather.com/st_lucia/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/sicily/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)7°C 45°F](https://www.holiday-weather.com/sunny_beach/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)12°C 54°F](https://www.holiday-weather.com/benidorm/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)16°C 61°F](https://www.holiday-weather.com/tenerife/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/barcelona/)
 
- [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)13°C 55°F](https://www.holiday-weather.com/zante/)
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/sunny_beach/)
+
+Resorts
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Algarve  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/algarve/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/id.svg)Bali  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/34.svg)26°C 79°F](https://www.holiday-weather.com/bali/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Barcelona  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/barcelona/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Benidorm  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)12°C 54°F](https://www.holiday-weather.com/benidorm/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Cancun  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)24°C 75°F](https://www.holiday-weather.com/cancun/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cv.svg)Cape Verde  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)23°C 73°F](https://www.holiday-weather.com/cape_verde/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/fr.svg)Corsica  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/corsica/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Crete  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/crete/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Fuerteventura  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)22°C 72°F](https://www.holiday-weather.com/fuerteventura/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Gran Canaria  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/gran_canaria/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Halkidiki  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)14°C 57°F](https://www.holiday-weather.com/halkidiki/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Lanzarote  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/lanzarote/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/pt.svg)Madeira  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)16°C 61°F](https://www.holiday-weather.com/madeira/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Majorca  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)15°C 59°F](https://www.holiday-weather.com/majorca/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Malaga  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/malaga/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mv.svg)Maldives  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/33.svg)28°C 82°F](https://www.holiday-weather.com/maldives/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mt.svg)Malta  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/malta/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/ma.svg)Marrakesh  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)17°C 63°F](https://www.holiday-weather.com/marrakesh/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mu.svg)Mauritius  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/8.svg)25°C 77°F](https://www.holiday-weather.com/mauritius/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/cy.svg)Paphos  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)19°C 66°F](https://www.holiday-weather.com/paphos/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/do.svg)Punta cana  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)27°C 81°F](https://www.holiday-weather.com/punta_cana/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Rhodes  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)20°C 68°F](https://www.holiday-weather.com/rhodes/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/mx.svg)Riviera Maya  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/14.svg)24°C 75°F](https://www.holiday-weather.com/riviera_maya/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Rome  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)14°C 57°F](https://www.holiday-weather.com/rome/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Santorini  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)19°C 66°F](https://www.holiday-weather.com/santorini/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/it.svg)Sicily  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/1.svg)13°C 55°F](https://www.holiday-weather.com/sicily/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/lc.svg)St Lucia  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)28°C 82°F](https://www.holiday-weather.com/st_lucia/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/bg.svg)Sunny Beach  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)10°C 50°F](https://www.holiday-weather.com/sunny_beach/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/es.svg)Tenerife  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)21°C 70°F](https://www.holiday-weather.com/tenerife/)
+
+ [![flag](https://assets.holiday-weather.com/images/mobile/country-flags/gr.svg)Zante  ![icon](https://assets.holiday-weather.com/images/mobile/weather_icons/svg/3.svg)18°C 64°F](https://www.holiday-weather.com/zante/)
 
 Resorts
 
