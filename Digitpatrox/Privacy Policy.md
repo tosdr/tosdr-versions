@@ -20,16 +20,16 @@ Wednesday, December 11 2024
 
 Latest
 
-* [Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
-* [Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
-* [2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
-* [Windows 10 December 2024 update arrives with KB5048652](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
-* [Best Baking Spatulas – Consumer Reports](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
-* [How to Add a Timestamp to Checkboxes in Excel](https://digitpatrox.com/how-to-add-a-timestamp-to-checkboxes-in-excel/)
-* [8 No-Cost Rank Tracker Templates for Dominating SERPs](https://digitpatrox.com/8-no-cost-rank-tracker-templates-for-dominating-serps/)
-* [There’s been 25 Netflix No. 1 shows so far in 2024 — here’s the 7 worth watching now](https://digitpatrox.com/theres-been-25-netflix-no-1-shows-so-far-in-2024-heres-the-7-worth-watching-now/)
-* [WPForms bug allows Stripe refunds on millions of WordPress sites](https://digitpatrox.com/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
-* [Trump’s pick for FTC chair promises to go after ‘censorship’ from tech companies](https://digitpatrox.com/trumps-pick-for-ftc-chair-promises-to-go-after-censorship-from-tech-companies/)
+* [What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
+* [AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
+* [This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
+* [Le migliori VPN per guardare Amazon Prime Video](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
+* [Best Turner Spatulas – Consumer Reports](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
+* [Nimble Fold 3-in-1 Wireless Charger Review: A Modern Traveling Solution](https://digitpatrox.com/nimble-fold-3-in-1-wireless-charger-review-a-modern-traveling-solution/)
+* [How IVR Analytics Fixes Call Flow Issues and Frees Up Agents](https://digitpatrox.com/how-ivr-analytics-fixes-call-flow-issues-and-frees-up-agents/)
+* [Finally! Meta Quest VR headsets can now connect to your Windows 11 PC — with up to 3 virtual monitors](https://digitpatrox.com/finally-meta-quest-vr-headsets-can-now-connect-to-your-windows-11-pc-with-up-to-3-virtual-monitors/)
+* [Ivanti warns of maximum severity CSA auth bypass vulnerability](https://digitpatrox.com/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
+* [WordPress parent company must stop blocking WP Engine, judge rules](https://digitpatrox.com/wordpress-parent-company-must-stop-blocking-wp-engine-judge-rules/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3621317-0-19562200-1733849054-Adobe-Express-Box.jpeg?quality=50&strip=all&w=1024)](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/8dvBHPDcPGZPUdCXCYJASa-1200-80.jpg)](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
     
-    [Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
+    [What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
     
-    10 minutes ago
+    4 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JES379CVS32Y18YX22MAXNXE/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/12/3619976-0-40314600-1733915010-shutterstock_2418301477.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
     
-    [Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
+    [AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
     
-    38 minutes ago
+    26 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/2024년-최고의-ITV-Hub-PlayerITVX-VPN_-한국에서-ITV-스트리밍하는-방법.jpg)](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
+* [![](https://lifehacker.com/imagery/articles/01JES1RP01NXMCTCY5JJVFS43K/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
     
-    [2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
+    [This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
     
-    44 minutes ago
+    54 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/12/kb5048652-windows-10-hero-mauro-huculak_.webp)](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/10/Le-migliori-VPN-per-guardare-Amazon-Prime-Video_-accedi-a-tutti-i-contenuti-ovunque-tu-sia.jpg)](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
     
-    [Windows 10 December 2024 update arrives with KB5048652](https://digitpatrox.com/windows-10-december-2024-update-arrives-with-kb5048652/)
+    [Le migliori VPN per guardare Amazon Prime Video](https://digitpatrox.com/le-migliori-vpn-per-guardare-amazon-prime-video/)
     
-    45 minutes ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733248100/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Baking-Spatulas-12-24)](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1733432309/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Best-Spatulas-1224)](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
     
-    [Best Baking Spatulas – Consumer Reports](https://digitpatrox.com/best-baking-spatulas-consumer-reports/)
+    [Best Turner Spatulas – Consumer Reports](https://digitpatrox.com/best-turner-spatulas-consumer-reports/)
     
-    48 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
+* [4 minutes ago
     
-    ### Adobe Express is now the default image editor in Box – Computerworld](https://digitpatrox.com/adobe-express-is-now-the-default-image-editor-in-box-computerworld/)
-* [38 minutes ago
+    ### What HPE’s results say about the direction of enterprise AI](https://digitpatrox.com/what-hpes-results-say-about-the-direction-of-enterprise-ai/)
+* [26 minutes ago
     
-    ### Verizon Just Killed Its Messaging App](https://digitpatrox.com/verizon-just-killed-its-messaging-app/)
-* [44 minutes ago
+    ### AI in the workplace is forcing younger tech workers to rethink their career paths – Computerworld](https://digitpatrox.com/ai-in-the-workplace-is-forcing-younger-tech-workers-to-rethink-their-career-paths-computerworld/)
+* [54 minutes ago
     
-    ### 2024년 최고의 ITV Hub Player(ITVX) VPN: 한국에서 ITV 스트리밍하는 방법](https://digitpatrox.com/2024%eb%85%84-%ec%b5%9c%ea%b3%a0%ec%9d%98-itv-hub-playeritvx-vpn-%ed%95%9c%ea%b5%ad%ec%97%90%ec%84%9c-itv-%ec%8a%a4%ed%8a%b8%eb%a6%ac%eb%b0%8d%ed%95%98%eb%8a%94-%eb%b0%a9%eb%b2%95/)
+    ### This Is the Best Authy Alternative for Two-Factor Authentication](https://digitpatrox.com/this-is-the-best-authy-alternative-for-two-factor-authentication/)
 
 Most Popular Topics
 
-* [September 22, 2024
+* [August 13, 2024
     
-    ### Today’s NYT Connections Hints and Answer for September 22 (#469)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-september-22-469/)
-* [3 weeks ago
+    ### What’s in the latest build? – Computerworld](https://digitpatrox.com/whats-in-the-latest-build-computerworld/)
+* [4 weeks ago
     
-    ### Apple fixes two zero-days used in attacks on Intel-based Macs](https://digitpatrox.com/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
-* [November 6, 2024
+    ### Ransomware gang claims responsibility for cyber attack on Ohio school district that cancelled classes](https://digitpatrox.com/ransomware-gang-claims-responsibility-for-cyber-attack-on-ohio-school-district-that-cancelled-classes/)
+* [August 18, 2024
     
-    ### The Weather Is Coming to Your Mac’s Status Bar](https://digitpatrox.com/the-weather-is-coming-to-your-macs-status-bar/)
+    ### NYT Connections today hints and answers — Monday, August 19 (#435)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-monday-august-19-435/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### 8 No-Cost Rank Tracker Templates for Dominating SERPs](https://digitpatrox.com/8-no-cost-rank-tracker-templates-for-dominating-serps/)
+    ### How IVR Analytics Fixes Call Flow Issues and Frees Up Agents](https://digitpatrox.com/how-ivr-analytics-fixes-call-flow-issues-and-frees-up-agents/)
 * [2 hours ago
     
-    ### There’s been 25 Netflix No. 1 shows so far in 2024 — here’s the 7 worth watching now](https://digitpatrox.com/theres-been-25-netflix-no-1-shows-so-far-in-2024-heres-the-7-worth-watching-now/)
+    ### Finally! Meta Quest VR headsets can now connect to your Windows 11 PC — with up to 3 virtual monitors](https://digitpatrox.com/finally-meta-quest-vr-headsets-can-now-connect-to-your-windows-11-pc-with-up-to-3-virtual-monitors/)
 * [3 hours ago
     
-    ### WPForms bug allows Stripe refunds on millions of WordPress sites](https://digitpatrox.com/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
+    ### Ivanti warns of maximum severity CSA auth bypass vulnerability](https://digitpatrox.com/ivanti-warns-of-maximum-severity-csa-auth-bypass-vulnerability/)
 
 Most Viewed Topics
 
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [October 2, 2024
     
     ### The best noise-canceling headphones for 2024](https://digitpatrox.com/the-best-noise-canceling-headphones-for-2024/)
