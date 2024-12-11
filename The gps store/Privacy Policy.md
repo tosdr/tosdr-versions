@@ -246,6 +246,7 @@ The World's Favorite Source Since 1997
     * [Deals & Specials](https://www.thegpsstore.com/Specials-Hot-Deals)
         ------------------------------------------------------------------
         
+        * [Holiday Deals](https://www.thegpsstore.com/Specials-Hot-Deals/Holiday-Deals)
         * [Automotive Deals](https://www.thegpsstore.com/Specials-Hot-Deals/Vehicle-GPS-Deals)
         * [Automotive Value Bundles](https://www.thegpsstore.com/Specials-Hot-Deals/Vehicle-GPS-Deals/Automotive-Bundles)
         * [Marine Value Bundles](https://www.thegpsstore.com/Marine-Bundles)
