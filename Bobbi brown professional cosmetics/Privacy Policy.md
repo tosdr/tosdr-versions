@@ -2,7 +2,7 @@
 
 Previous
 
-[Get a free Illuminating Essentials Set ($125 value) on orders $90+. Use code: **DAY3** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
+[40% off select glow products. Use code: **DAY4** at checkout.](https://www.bobbibrowncosmetics.com/advent-calendar)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
