@@ -14,164 +14,17 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
+Loading...
 
-Take your next trip with Atlas Obscura!
----------------------------------------
+Loading...
 
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
+Loading...
 
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
+Loading...
 
-Trips Highlight
+Loading...
 
-   [![New Zealand, South Island, Wanaka](https://img.atlasobscura.com/knTC-fD-tJhZigIK456j_esuV2jEb8sBH855Yw3DJmA/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8yYThk/NTNkOS0wZTQyLTQ1/MjAtOWFkNC02Yzlj/NGFjNDUwMWUxYWJm/ZThmZTc2OGViYzNh/Y2RfR2V0dHlJbWFn/ZXMtMTA5MDcwNTUx/Ni5qcGc.jpg)](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-New Zealand • 12 days, 11 nights
-
-[Wild New Zealand: Exploring the North & South Islands](https://www.atlasobscura.com/adventures/trips/new-zealand)
-
-from
-
-   [![Borneo orangutan](https://img.atlasobscura.com/N-jdSE978JBUhwq3plHsGnuhS8dtSChRRo3l5fL-VrI/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy9mMWNi/NWY1Zi05NDkxLTQz/YzgtOWY0My1lYTU2/N2JhNmY2MjFiNmFk/YmZhNWIzODkzMjg0/ZWZfQm9ybmVvIDEg/LSBzaW1vbmUtbWls/bHdhcmQtbktHaW9f/NkVfNGstdW5zcGxh/c2guanBn.jpg)](https://www.atlasobscura.com/adventures/trips/borneo)
-
-Malaysia • 12 days, 11 nights
-
-[NEW - Wild Borneo: Secrets of an Ancient Rainforest](https://www.atlasobscura.com/adventures/trips/borneo)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
-
-Upcoming Experiences
-
-[View All Experiences »](https://www.atlasobscura.com/events)
-
-   [![](https://img.atlasobscura.com/AxNQpouM-DrINwgCwgsEyDu9s42tyihgwbMnl1wmoPc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9kYTEz/M2VhZi1iM2FlLTRh/NTQtODEyNC03OGJm/ZWRlMjYyOTMwYjEx/OTcwZTNlOWZkZWVl/ZTVfYmY4N2JkNWEt/MmQ3NS00Y2Q1LTlk/YmEtOTU4MjU3YWRh/MWUyNDNlY2FiOTAw/MjJiMmM5N2M0X29k/ZHZlcnQuanBn.jpg)
-
-Members Only
-
-Antiques and Their Afterlives: Holiday Gift Guide](https://www.atlasobscura.com/experiences/antiques-and-their-afterlives-an-unusual-holiday-gift-guide)
-
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-Top Destinations
-
-Latest Places
-
-[Most Popular Places](https://www.atlasobscura.com/places?sort=likes_count) [Random Place](https://www.atlasobscura.com/random) [Lists](https://www.atlasobscura.com/lists) [Itineraries](https://www.atlasobscura.com/itineraries)[Add a Place](https://www.atlasobscura.com/places/new)[Download the App](https://app.atlasobscura.com/)
-
-Top Destinations
-
-[View All Destinations »](https://www.atlasobscura.com/destinations)
-
-### Countries
-
-* [Australia](https://www.atlasobscura.com/things-to-do/australia "Australia")
-* [Canada](https://www.atlasobscura.com/things-to-do/canada "Canada")
-* [China](https://www.atlasobscura.com/things-to-do/china "China")
-* [France](https://www.atlasobscura.com/things-to-do/france "France")
-* [Germany](https://www.atlasobscura.com/things-to-do/germany "Germany")
-* [India](https://www.atlasobscura.com/things-to-do/india "India")
-* [Italy](https://www.atlasobscura.com/things-to-do/italy "Italy")
-* [Japan](https://www.atlasobscura.com/things-to-do/japan "Japan")
-
-### Cities
-
-* [Amsterdam](https://www.atlasobscura.com/things-to-do/amsterdam-netherlands "Amsterdam")
-* [Barcelona](https://www.atlasobscura.com/things-to-do/barcelona-spain "Barcelona")
-* [Beijing](https://www.atlasobscura.com/things-to-do/beijing-china "Beijing")
-* [Berlin](https://www.atlasobscura.com/things-to-do/berlin-germany "Berlin")
-* [Boston](https://www.atlasobscura.com/things-to-do/boston-massachusetts "Boston")
-* [Budapest](https://www.atlasobscura.com/things-to-do/budapest-hungary "Budapest")
-* [Chicago](https://www.atlasobscura.com/things-to-do/chicago-illinois "Chicago")
-* [London](https://www.atlasobscura.com/things-to-do/london-england "London")
-* [Los Angeles](https://www.atlasobscura.com/things-to-do/los-angeles-california "Los Angeles")
-* [Mexico City](https://www.atlasobscura.com/things-to-do/mexico-city-mexico "Mexico City")
-* [Montreal](https://www.atlasobscura.com/things-to-do/montreal-quebec "Montreal")
-* [Moscow](https://www.atlasobscura.com/things-to-do/moscow-russia "Moscow")
-* [New Orleans](https://www.atlasobscura.com/things-to-do/new-orleans-louisiana "New Orleans")
-* [New York City](https://www.atlasobscura.com/things-to-do/new-york "New York City")
-* [Paris](https://www.atlasobscura.com/things-to-do/paris-france "Paris")
-* [Philadelphia](https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania "Philadelphia")
-* [Rome](https://www.atlasobscura.com/things-to-do/rome-italy "Rome")
-* [San Francisco](https://www.atlasobscura.com/things-to-do/san-francisco-california "San Francisco")
-* [Seattle](https://www.atlasobscura.com/things-to-do/seattle-washington "Seattle")
-* [Stockholm](https://www.atlasobscura.com/things-to-do/stockholm-sweden "Stockholm")
-* [Tokyo](https://www.atlasobscura.com/things-to-do/tokyo-japan "Tokyo")
-* [Toronto](https://www.atlasobscura.com/things-to-do/toronto-ontario "Toronto")
-* [Vienna](https://www.atlasobscura.com/things-to-do/vienna-austria "Vienna")
-* [Washington, D.C.](https://www.atlasobscura.com/things-to-do/washington-dc "Washington, D.C.")
-
-Latest Places
-
-[View All Places »](https://www.atlasobscura.com/places?sort=published_at)
-
-   [![The real Shakōki Dogū idol is exhibited in Tokyo.](https://img.atlasobscura.com/mFRnaIVlDaKaIA4ZZ5RUX5n11FI6fQQyRXymFiBBrPM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80NWY0/YjM5Mi0xNDdhLTRl/MmEtOTIxOC02ZmYz/YjA2YWFlN2VmYmIy/NGY2OGJiNjA2NDhl/NWVfRFNDXzA2MTEu/anBlZw.jpg)
-
-Kamegaoka Stone Age Site](https://www.atlasobscura.com/places/kamegaoka-stone-age-site)
-
-   [![The bench that plays a sample of opera music from Gozo.](https://img.atlasobscura.com/UpELTMwnpE0lZIDhuNSEsm8ot_bcvjafg2isYMYwhhw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83ZWU3/MzcwOC03OGU2LTQ2/NGYtYWM3Yy01Mjgy/MzUzZTJhOTRlMWFm/MWVmMTAyOTA4ZjFk/YzJfT3BlcmEuanBn.jpg)
-
-Villa Rundle Gardens Musical Benches](https://www.atlasobscura.com/places/villa-rundle-gardens-musical-benches)
-
-   [![Escudella, a ham bone broth with snail-shaped pasta, is traditionally reserved for Christmas.](https://img.atlasobscura.com/WWQgwRbjaPTLjHKQBa8dTQjWFECQwqUmFXVGkX6efC0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOWVi/NjhjNDg5NzcwYjA0/NWFfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NzY4LmpwZw.jpg)
-
-Can Culleretes](https://www.atlasobscura.com/places/can-culleretes)
-
-   [![Meet Catalonia's answer to crème brûlée.](https://img.atlasobscura.com/97WAgawyCF-1svMNiRiCpfbXvYc3PsfhCXIgGpYGICw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzJj/YjBkYTMwZTg3OWNi/M2FfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01MDU4LmpwZw.jpg)
-
-Granja M. Viader](https://www.atlasobscura.com/places/granja-m-viader)
-
-Latest Places to Eat & Drink
-
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![Escudella, a ham bone broth with snail-shaped pasta, is traditionally reserved for Christmas.](https://img.atlasobscura.com/WWQgwRbjaPTLjHKQBa8dTQjWFECQwqUmFXVGkX6efC0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kOWVi/NjhjNDg5NzcwYjA0/NWFfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00NzY4LmpwZw.jpg)
-
-Can Culleretes](https://www.atlasobscura.com/places/can-culleretes)
-
-   [![Meet Catalonia's answer to crème brûlée.](https://img.atlasobscura.com/97WAgawyCF-1svMNiRiCpfbXvYc3PsfhCXIgGpYGICw/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9mMzJj/YjBkYTMwZTg3OWNi/M2FfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi01MDU4LmpwZw.jpg)
-
-Granja M. Viader](https://www.atlasobscura.com/places/granja-m-viader)
-
-   [![Unlike pizza, this flatbread is seldom topped with cheese or tomato.](https://img.atlasobscura.com/QMEA6Kb3CxqPkBp7FPd6oQLW0ZcFqvBk-PvLX0UGdIE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy81MzM1/OTQwMWUyNzZmZTBi/NGZfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00OTEwLmpwZw.jpg)
-
-L'Antic Bocoi del Gòtic](https://www.atlasobscura.com/places/lantic-bocoi-del-gotic)
-
-   [![This “bomb” is really a deep-fried, golf ball-sized globe of mashed potatoes with a minced meat center.](https://img.atlasobscura.com/0kgohLgx5VV3VRfQ2l1y1wvWX-Kbr5uJ8mNbW4TFc5E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wNzcz/Zjc2ZDBiZDEzYjhi/NzdfMjAyNDA5IEJh/cmNlbG9uYSBTcGFp/bi00ODUyLmpwZw.jpg)
-
-La Cova Fumada](https://www.atlasobscura.com/places/la-cova-fumada)
-
-   [![The Coney Island Cafe opened in 1923 and has become a legendary locale in Hattiesburg, Mississippi.](https://img.atlasobscura.com/vtpVV1-VJEmCPrxmdhwx5xsONNfFkyTgDTDgqqNRV9E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lYjE1/ZTI2OTZhNmMyZGVi/ZmFfQ29uZXkxLmpw/ZWc.jpg)
-
-Coney Island Cafe](https://www.atlasobscura.com/places/coney-island-cafe)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![It might look like roadkill, but pies like this one are boosting Pizza Hut's sales in Taiwan.](https://img.atlasobscura.com/Hwhyh_TJzIo4tPnhBOK1_qdlWIaAFLBPoF8O8Frde-w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9kMzU5MTkwOGMw/N2ZmZTNmNzJf54OP/6b6cXzE5MjB4MTA4/MC5qcGc.jpg)
-
-Pizza Hut Taiwan Knows It’s Making Italians Angry](https://www.atlasobscura.com/articles/pizza-hut-taiwan-weird-toppings)
-
-   [![Teriyaki chicken as we know it was invented in Seattle, not Japan.](https://img.atlasobscura.com/x6ha5mDEBcMlR3iku0rA5wZDursFwTFMxeZohqJw66E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81OWFjYjY2Mi1h/YTQ2LTQ5ZDgtYmZh/My0wNGNiYjMyM2M3/YjgyM2Y0OGFhZGVk/NzM4NjlmNDFfR2V0/dHlJbWFnZXMtMjE1/MTU2ODU0My5qcGc.jpg)
-
-Cooking Creatively With J. Kenji López-Alt](https://www.atlasobscura.com/articles/j-kenji-lopez-alt-the-food-lab)
-
-   [![Tidal flats in Denmark's Wadden Sea National Park show what the land on the edge of the North Sea looks like today.](https://img.atlasobscura.com/7m38QWNS65qsZddrRZdjeCWcFsECHgFUl1cp_DwVy4Q/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9mNzNiOWM0My1k/N2EwLTQ4ZDItYmVl/ZC05MDlmYWE4NTQ5/NTJhYzVjMDRmODJj/MTk1NTY4MTFfR2V0/dHlJbWFnZXMtMTMw/MTMwODkxMy5qcGc.jpg)
-
-Exploring the Lost Land Beneath the North Sea](https://www.atlasobscura.com/articles/north-sea-lost-land-doggerland)
-
-   [![Gifting animals, games, and cakes.](https://img.atlasobscura.com/Y8af7rem5eTINJw-NG44Xt_tj5wE4oCepkb7uOUMT9E/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83OGU1OTdmZC00/NTBmLTQ1ZGQtYTZj/OC1lNGVmZWMxYTQ4/Y2RlODkzMjBkM2Uy/ZGU5NDIwYjRfMTI4/MHB4LVB5Z215X2hp/cHBvX2FuZF9oZXJf/bmV3X2JhYnlfYmVm/b3JlX2FfYmF0dGVy/eV9vZl9wcmVzc19j/YW1lcmFzLF9OZXdf/WW9ya19ab29sb2dp/Y2FsX1BhcmtfLV9Q/aG90b19ieV9BLkcu/KF8pX0JhdW1hbi5f/TENDTjIwMTU2NTIz/MjEuanBn.jpg)
-
-5 Tales of Bizarre Holiday Gift-Giving](https://www.atlasobscura.com/articles/bizarre-holiday-gifts)
+Loading...
 
 No search results found for  
 “”
