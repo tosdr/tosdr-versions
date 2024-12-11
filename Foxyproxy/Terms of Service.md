@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I was very happy with the service. Will use again on holidays!
+Just signed up for another 6 months package....This allows me to stay connected to the BBC iplayer whilst travelling in Asia. Great consistant connections...Thanks
 
-Bruno Morgan
+Tim Holden
