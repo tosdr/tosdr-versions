@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Dignity
+
+### African art that liberates](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1211/African-art-that-liberates "African art that liberates")
+
 [Peace
 
 ### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
@@ -99,10 +103,6 @@ Recent Stories
 [Safety
 
 ### Boston broke a record last year for fewest homicides. It’s on track to do it again.](https://www.csmonitor.com/USA/Justice/2024/1210/boston-safety-2024-homicide-record "Boston broke a record last year for fewest homicides. It’s on track to do it again.")
-
-[Balance
-
-### Hailing the innocent in Syria](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1210/Hailing-the-innocent-in-Syria "Hailing the innocent in Syria")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Time to go home? Hezbollah ceasefire offers northern Israelis hope.](https://www.csmonitor.com/World/Middle-East/2024/1210/israel-lebanon-border-hezbollah-ceasefire-evacuees "Time to go home? Hezbollah ceasefire offers northern Israelis hope.")
+[### Preemptive pardons could protect Trump targets, but veer into politics](https://www.csmonitor.com/USA/Justice/2024/1211/presidential-preemptive-pardon-biden-trump "Preemptive pardons could protect Trump targets, but veer into politics")
 
-[### Boston broke a record last year for fewest homicides. It’s on track to do it again.](https://www.csmonitor.com/USA/Justice/2024/1210/boston-safety-2024-homicide-record "Boston broke a record last year for fewest homicides. It’s on track to do it again.")
+[### Why is the Chinese military deployment around Taiwan the largest in years?](https://www.csmonitor.com/World/Asia-Pacific/2024/1211/china-taiwan-military-navy-trump "Why is the Chinese military deployment around Taiwan the largest in years?")
 
-[### After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.](https://www.csmonitor.com/USA/2024/1210/united-healthcare-shooting-suspect-mangione "After CEO killing, police used high-tech tools. But a civilian cinched the dragnet.")
+[### ‘We are looking for a good future’: Lebanese life amid the rubble](https://www.csmonitor.com/World/Middle-East/2024/1211/lebanon-israel-hezbollah-ceasefire-iran "‘We are looking for a good future’: Lebanese life amid the rubble")
 
 * * *
 
