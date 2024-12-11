@@ -962,26 +962,26 @@ Um diese Art der Werbung datenschutzkonform steuern zu können, verwenden wir da
 **Verarbeitungszwecke**  
 Dazu hat das IAB Europe die nachfolgenden elf Zwecke für die Verarbeitung von Daten, einschließlich der personenbezogenen Daten von Nutzern, definiert, denen der Nutzer zustimmen oder diese ablehnen kann:
 
-#### Speichern von oder Zugriff auf Informationen auf einem Endgerät
+#### Werbung über das IAB TCF
 
-Cookies, Endgeräte- oder ähnliche Online-Kennungen (z. B. login-basierte Kennungen, zufällig generierte Kennungen, netzwerkbasierte Kennungen) können zusammen mit anderen Informationen (z. B. Browsertyp und Browserinformationen, Sprache, Bildschirmgröße, unterstützte Technologien usw.) auf Ihrem Endgerät gespeichert oder von dort ausgelesen werden, um es jedes Mal wiederzuerkennen, wenn es eine App oder einer Webseite aufruft. Dies geschieht für einen oder mehrere der hier aufgeführten Verarbeitungszwecke.
+Zur datenschutzkonformen Steuerung von Werbung hat das IAB Europe die nachfolgenden Zwecke für die Verarbeitung von Daten, einschließlich der personenbezogenen Daten von Nutzern, definiert:
 
+**Speichern von oder Zugriff auf Informationen auf einem Endgerät (Purpose 1)**  
+Cookies, Endgeräte- oder ähnliche Online-Kennungen (z. B. login-basierte Kennungen, zufällig generierte Kennungen, netzwerkbasierte Kennungen) können zusammen mit anderen Informationen (z. B. Browsertyp und Browserinformationen, Sprache, Bildschirmgröße, unterstützte Technologien usw.) auf Ihrem Endgerät gespeichert oder von dort ausgelesen werden, um es jedes Mal wiederzuerkennen, wenn es eine App oder einer Webseite aufruft. Dies geschieht für einen oder mehrere der hier aufgeführten Verarbeitungszwecke.  
 Die meisten in dieser Mitteilung erläuterten Verarbeitungszwecke beruhen auf der Speicherung von oder dem Zugriff auf Informationen auf Ihrem Endgerät, wenn Sie eine App verwenden oder eine Webseite besuchen. So kann es beispielsweise erforderlich sein, dass ein Anbieter oder Webseitenbetreiber bei Ihrem ersten Besuch einer Webseite ein Cookie auf Ihrem Endgerät speichert, um dieses bei Ihren nächsten Besuchen wiederzuerkennen (indem er dieses Cookie jedes Mal erneut abruft).
 
-#### Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen
-
+**Verwendung reduzierter Daten zur Auswahl von Werbeanzeigen (Purpose 2)**  
 Werbeanzeigen, die Ihnen auf diesem Dienst präsentiert werden, können auf reduzierten Daten basieren, wie z. B. der Webseite oder App, die Sie gerade verwenden, Ihrem ungefähren Standort, Ihrem Gerätetyp oder den Inhalten, mit denen Sie interagieren (oder interagiert haben) (z. B., um die Anzeigefrequenz der Werbung zu begrenzen, die Ihnen ausgespielt werden).
 
-**Beispiele**
+_Beispiele_
 
 * Ein Autohersteller möchte seine Elektrofahrzeuge bei umweltbewussten Nutzern bewerben, die nach Geschäftsschluss in der Stadt leben. Die Werbung wird auf einer Seite mit verwandten Inhalten (z. B. einem Artikel über Klimaschutzmaßnahmen) nach 18:30 Uhr Nutzern präsentiert, deren ungenauer Standort vermuten lässt, dass sie sich in einem städtischen Gebiet befinden.
 * Ein großer Hersteller von Aquarellfarben möchte eine Online-Werbekampagne für sein neuestes Aquarellsortiment durchführen. Dabei soll die Zielgruppe diversifiziert werden, um möglichst viele Amateur- und Profikünstler zu erreichen, und es soll vermieden werden, die Anzeige neben unpassenden Inhalten (z. B. Artikeln über das Streichen eines Hauses) zu zeigen. Die Anzahl der Anzeigen, die Ihnen präsentiert werden, wird ermittelt und begrenzt, um zu vermeiden, dass sie zu oft angezeigt werden.
 
-#### Erstellung von Profilen für personalisierte Werbung
-
+**Erstellung von Profilen für personalisierte Werbung (Purpose 3)**  
 Informationen über Ihre Aktivitäten auf diesem Dienst (wie ausgefüllte Formulare, angesehene Inhalte) können gespeichert und mit anderen Informationen über Sie (z. B. Informationen aus Ihrer vorherigen Aktivität auf diesem Dienst oder anderen Webseiten oder Apps) oder ähnlichen Benutzern kombiniert werden. Diese werden dann verwendet, um ein Profil über Sie zu erstellen oder zu verbessern (dies kann z. B. mögliche Interessen und persönliche Merkmale beinhalten). Ihr Profil kann (auch zu einem späteren Zeitpunkt) verwendet werden, um es zu ermöglichen, Ihnen Werbung zu präsentieren, die aufgrund Ihrer möglichen Interessen für Sie wahrscheinlich relevanter ist.
 
-**Beispiele**
+_Beispiele_
 
 * Wenn Sie beispielsweise mehrere Artikel über das beste Fahrradzubehör im Handel lesen, können diese Informationen verwendet werden, um ein Profil über Ihr Interesse an Fahrradzubehör zu erstellen. Ein solches Profil kann zu einem späteren Zeitpunkt auf derselben oder einer anderen Webseite oder App verwendet oder verbessert werden, um Ihnen Werbung für eine bestimmte Fahrradzubehörmarke anzuzeigen. Wenn Sie sich auch einen Konfigurator für ein Fahrzeug auf der Webseite eines Luxusautoherstellers ansehen, können diese Informationen mit Ihrem Interesse an Fahrrädern kombiniert werden, um Ihr Profil zu verfeinern, und zur Annahme führen, dass Sie an Luxusfahrradausrüstung interessiert sind.
 * Ein Bekleidungsunternehmen möchte seine neue Kollektion hochwertiger Babykleidung bewerben.Es setzt sich mit einer Agentur in Verbindung, die über ein Netzwerk von Kunden mit hohem Einkommen verfügt (z. B. Supermärkte der gehobenen Preisklasse) und bittet die Agentur, Profile junger Eltern oder Paare zu erstellen, von denen angenommen werden kann, dass sie wohlhabend sind und kürzlich ein Kind bekommen haben, damit diese später verwendet werden können, um Werbung in Partner-Apps zu schalten.
