@@ -23,11 +23,13 @@
                 
                 Insights
                 
-                Reveals _Why_ It’s AI
+                The Original Source
                 
-                A first-of-its-kind, patent-pending innovation that comprehensively analyzes why text has been identified as AI.
+                A Copyleaks Podcast
                 
-                [Learn More](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
+                Join host Shouvik Paul, COO of Copyleaks, and other members of the Copyleaks team, along with leading industry experts, as they update you on the latest in AI, EdTech, plagiarism, and more.
+                
+                [Learn More](https://copyleaks.com/the-original-source-podcast)
                 
     * * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
         * * [GenAI Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
@@ -35,7 +37,7 @@
         
     * * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
         * * [IP & CopyrightPreserve your intellectual property from unauthorized use and ensure full copyright compliance.](https://copyleaks.com/ip-and-copyright) 
-        * * [Code Governance & ComplianceProtect your proprietary code with comprehensive source detection and licensing compliance alerts.](https://copyleaks.com/code-governance-and-compliance)
+        * * [Codeleaks Code Governance & ComplianceSecure your intellectual property and maintain code integrity with AI-powered detection.](https://copyleaks.com/code-governance-and-compliance)
         
 * Products
     * * * #### Products
