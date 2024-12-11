@@ -147,8 +147,6 @@ Intuit Global Privacy Statement
 
 [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1)](https://privacy.truste.com/privacy-seal/validation?rid=7fc012b5-d53b-42d8-b980-c4f9091a97e1)
 
-###   
-
 Expand AllCollapse All
 
 Scope of this Privacy Statement and our role
