@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-vs-van-oom-agent-naar-meneer-soldaat/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/nieuw-kinderboek-geinspireerd-door-emoto-jij-bent-mooi-ontdek-het-zelf/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
