@@ -408,9 +408,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ What I cannot create, I do not understand”
+“ By always thinking unto them. I keep the subject constantly before me and wait till the first dawnings open little by little into the full light”
 
-[Richard Feynman](https://www.quora.com/What-did-Richard-Feynman-mean-when-he-said-What-I-cannot-create-I-do-not-understand)
+[Isaac Newton](https://books.google.com/books?id=agI9AAAAIAAJ&pg=PA163&lpg=PA163&dq=isaac+newton+by+always+thinking+unto+them&source=bl&ots=0k_nBzZcqm&sig=3ARIEdz66ACinqE1KNi1Uh3sMMw&hl=en&sa=X&ved=0ahUKEwiIzfDIt8fJAhVF4CYKHadLCAsQ6AEINzAG#v=onepage&q=by%20always%20thin)
 
 [](https://www.adafruit.com/about)
 
