@@ -2,11 +2,11 @@ Shop Now
 
 20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-2DAYS13HRS6MINS
+2DAYS7HRS7MINS
 
 20% Off Framing, Canvas & Mount on Orders $99+ Ends in..
 
-2DAYS13HRS6MINS
+2DAYS7HRS7MINS
 
 Shop Now
 
