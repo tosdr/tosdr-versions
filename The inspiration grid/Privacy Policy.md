@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/12/photography-badlands-tobias-hagg-feature.jpg)
+
+[](https://theinspirationgrid.com/the-badlands-series-breathtaking-photos-by-tobias-hagg/)
+
+### The Badlands Series: Aerial Photos by Tobias Hägg
+
+![](https://inspgr.id/app/uploads/2024/12/illustration-pol-serra-feature.jpg)
+
+[](https://theinspirationgrid.com/cool-celebrity-caricatures-by-pol-serra/)
+
+### Cool Celebrity Caricatures by Pol Serra
+
 ![](https://inspgr.id/app/uploads/2024/12/art-hudy-feature.jpg)
 
 [](https://theinspirationgrid.com/intriguing-resin-sculptures-by-hudy/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/expressive-equine-paintings-by-julie-t-chapman/)
 
 ### Expressive Equine Paintings by Julie T. Chapman
-
-![](https://inspgr.id/app/uploads/2024/12/photography-nick-veasey-24-feature.jpg)
-
-[](https://theinspirationgrid.com/amazing-x-ray-art-by-nick-veasey/)
-
-### Amazing X-Ray Art by Nick Veasey
-
-![](https://inspgr.id/app/uploads/2024/12/branding-stanleys-feature.jpg)
-
-[](https://theinspirationgrid.com/stanleys-invest-branding-by-ritter-studio/)
-
-### Stanley’s Invest Branding by Ritter Studio
 
 Awesome products for creatives
 ------------------------------
