@@ -206,15 +206,15 @@ No related posts.
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [MBFC's Daily Vetted Fact Checks for 12/10/2024](https://mediabiasfactcheck.com/2024/12/10/mbfcs-daily-vetted-fact-checks-for-12-10-2024/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [The Free Press (Common Sense) - Bias and Credibility](https://mediabiasfactcheck.com/the-free-press-bias/)
 
 #### Subscribe via Email
 
