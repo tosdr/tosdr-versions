@@ -5,7 +5,7 @@ at checkout for 20% Off 🎉 Happy Cyber Monday from Optery! 🏷️
 
 [![Optery logo](https://www.optery.com/wp-content/themes/theme-optery/theme/images/optery_logo.svg)](https://www.optery.com/)
 
-* [Getting Started](#)
+* Getting Started
     * [Personal](https://www.optery.com/getting-started/)
     * [Business](https://www.optery.com/getting-started-business/)
 * [Pricing](#)
@@ -34,7 +34,7 @@ at checkout for 20% Off 🎉 Happy Cyber Monday from Optery! 🏷️
 
  [![Optery logo](https://www.optery.com/wp-content/themes/theme-optery/theme/images/optery_logo.svg)](https://www.optery.com/)![x](https://www.optery.com/wp-content/themes/theme-optery/theme/images/x.svg)
 
-* [Getting Started](#)
+* Getting Started
     * [Personal](https://www.optery.com/getting-started/)
     * [Business](https://www.optery.com/getting-started-business/)
 * [Pricing](#)
