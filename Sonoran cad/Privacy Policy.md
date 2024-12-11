@@ -436,6 +436,8 @@ SearchCtrl + K
                     
                 * [Get Account](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/get-account)
                     
+                * [Get Accounts](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/get-accounts)
+                    
                 * [Check API ID](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/check-api-id)
                     
                 * [Apply Permission Key](https://info.sonorancad.com/sonoran-cad/api-integration/api-endpoints/general/apply-permission-key)
