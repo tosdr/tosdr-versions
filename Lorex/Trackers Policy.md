@@ -656,6 +656,12 @@ Your cart is empty
     * [Hard Drive Calculator](https://www.lorex.com/pages/hdd-calculator)
     * [Reset Device Password](https://www.lorex.com/pages/support-page)
 
+  
+
+  
+
+**Free Standard Shipping on orders over $99**
+
  
 
 Lorex Cookie Notice
