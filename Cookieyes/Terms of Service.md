@@ -376,7 +376,7 @@ newsletter in your inbox
 
     
 
-Submit ![](/wp-content/themes/cookieyes-new/assets/images/submit-icon.svg) 
+Submit ![Subscribe Now](/wp-content/themes/cookieyes-new/assets/images/submit-icon.svg) 
 
 I agree to receive newsletters from CookieYes and accept the [Privacy Policy.](https://www.cookieyes.com/privacy-policy/)
 
