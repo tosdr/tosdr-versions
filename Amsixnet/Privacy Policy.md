@@ -16,7 +16,7 @@ Amsterdam
 
 Current
 
-8.031 Tb/s
+10.303 Tb/s
 
 Peak
 
@@ -54,7 +54,7 @@ AMS-IX locations
 * [Hyderabad](https://www.ams-ix.net/hyd)
 * [Singapore](https://www.ams-ix.net/sin)
 * [Bangkok](https://www.ams-ix.net/ban)
-* [Manila](https://www.ams-ix.net/man)
+* [Manila](https://www.ams-ix.net/mnl)
 * [Lagos](https://www.ams-ix.net/lag)
 * [Djibouti](https://www.ams-ix.net/dji)
 
