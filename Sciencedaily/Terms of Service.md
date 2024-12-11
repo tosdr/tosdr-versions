@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Source of the Vast Energy in Cosmic Rays](https://www.sciencedaily.com/releases/2024/12/241210142040.htm)
 * [Gene Therapy Reverses Heart Failure in Pigs](https://www.sciencedaily.com/releases/2024/12/241210115612.htm)
 * [Tiny Poops in Ocean to Help Solve Carbon Problem](https://www.sciencedaily.com/releases/2024/12/241210115607.htm)
 * [24 Hour Cognitive Boost from Exercise](https://www.sciencedaily.com/releases/2024/12/241209203726.htm)
@@ -238,7 +239,6 @@ this hour
 * [Pups of Powerful Meerkat Matriarchs Pay a Price](https://www.sciencedaily.com/releases/2024/12/241209162517.htm)
 * [Mars' Infamous Dust Storms](https://www.sciencedaily.com/releases/2024/12/241209123224.htm)
 * [Cracking the Code for Materials That Can Learn](https://www.sciencedaily.com/releases/2024/12/241209122941.htm)
-* [AI Cracks Complex Engineering Problems Fast](https://www.sciencedaily.com/releases/2024/12/241209122936.htm)
 
 Trending Topics
 ---------------
@@ -249,9 +249,9 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
-
 [Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
 [Health Policy](https://www.sciencedaily.com/news/health_medicine/health_policy/)
 
@@ -265,9 +265,9 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
-
 [Global Warming](https://www.sciencedaily.com/news/earth_climate/global_warming/)
+
+[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
 
 [Ancient Civilizations](https://www.sciencedaily.com/news/fossils_ruins/ancient_civilizations/)
 
