@@ -246,7 +246,7 @@ Search
     
     [Lanterns & Lighting](https://4patriots.com/category/solar-power/solar-lanterns-lighting)[RV & Camping](https://4patriots.com/category/rv-camping)[Home & Health](https://4patriots.com/category/home-health)[Subscriptions](https://4patriots.com/category/subscriptions)[Kits & Bundles](https://4patriots.com/category/solar-food-combo-kits)[Emergency Essentials](https://4patriots.com/category/emergency-essentials)[As Seen on TV](https://4patriots.com/category/as-seen-on-tv)[**Gift Guide**](https://4patriots.com/category/gift-guide)[**Deals**](https://4patriots.com/category/deals)
     
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=452)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=667)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
     
     ###### Best Seller
     
