@@ -294,11 +294,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-11-art-klinike/ziriranje/ziri-pers_0.jpg?itok=RfoZvgqT)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-11-art-klinike/ziriranje)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/slika-017.jpg?itok=2Uo5TStO)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/54-oktobarski-salon/milica-tomic-isleri.jpg?itok=_wB099kO)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/54-oktobarski-salon)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gradska-muzika-kotor.jpg?itok=sLRldnKh)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -314,7 +314,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 * [Nadežda Petrović u Narodnom muzeju](http://seecult.org/vest/nadezda-petrovic-u-narodnom-muzeju)
 
-* [Ako ne kontrolišemo – ingnorišemo, to je zvanična kulturna politika](http://seecult.org/vest/ako-ne-kontrolisemo-ingnorisemo-je-zvanicna-kulturna-politika)
+* [Ako ne kontrolišemo – ignorišemo, to je zvanična kulturna politika](http://seecult.org/vest/ako-ne-kontrolisemo-ignorisemo-je-zvanicna-kulturna-politika)
 * [Direktorka JDP ponovo u UO UTE](http://seecult.org/vest/direktorka-jdp-ponovo-u-uo-ute)
 * [Buden gost Filozofskog teatra](http://seecult.org/vest/buden-gost-filozofskog-teatra-0)
 * [Provokativna završnica 12. Vizualizatora](http://seecult.org/vest/provokativna-zavrsnica-12-vizualizatora)
