@@ -513,10 +513,10 @@ Quick Add
 
 Bestseller](https://www.blueland.com/products/dishwasher-starter-set)
 
-[Dishwasher Starter Set](https://www.blueland.com/products/dishwasher-starter-set)$25
+[Dishwasher Detergent Starter Set](https://www.blueland.com/products/dishwasher-starter-set)$25
 
 
------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
 
 No Reviews Yet
 
@@ -524,14 +524,14 @@ Quick Add
 
 [![Laundry Starter Set](https://cdn.sanity.io/images/d864s8gp/production/7025db7b813ff428d0930a54bd5579603e9b2600-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
 
-![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/847fff37b437c589680f7172ac66be994245d177-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
+![Blueland: Eco-Friendly Cleaning Products](https://cdn.sanity.io/images/d864s8gp/production/deb5b47b749c07b46842b849cf4118cd1dbb2fc0-1790x1790.jpg?w=32&h=32&q=100&fit=clip&auto=format&w=3840)
 
 Award Winner](https://www.blueland.com/products/laundry-starter-set)
 
-[Laundry Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
+[Laundry Detergent Starter Set](https://www.blueland.com/products/laundry-starter-set)$25
 
 
------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------
 
 No Reviews Yet
 
