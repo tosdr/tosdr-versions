@@ -43,6 +43,7 @@ English
 
 * [Automotive](https://www.marvell.com/products/automotive.html)
 * [Coherent DSPs](https://www.marvell.com/products/coherent-dsp.html)
+* [Coherent-lite Optical DSPs](https://www.marvell.com/products/coherent-lite-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
 * [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
@@ -133,6 +134,7 @@ Networking
 
 * [Automotive](https://www.marvell.com/products/automotive.html)
 * [Coherent DSPs](https://www.marvell.com/products/coherent-dsp.html)
+* [Coherent-lite Optical DSPs](https://www.marvell.com/products/coherent-lite-dsp.html)
 * [Data Center Switches](https://www.marvell.com/products/data-center-switches.html)
 * [DCI Optical Modules](https://www.marvell.com/products/optical-modules.html)
 * [Enterprise Switches](https://www.marvell.com/products/enterprise-switches.html)
