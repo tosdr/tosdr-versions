@@ -103,6 +103,7 @@ Error
 * [Conditions D'Utilisation Du Demandeur](#contract-hk1b1gfm1g)
 * [FCRA Disclosure](#contract-hyxjlua1jl)
 * [NYC Fair Housing Notice](#contract-skzxxyyfye)
+* [OneID Consent - Portal Version (EN) (Copy)](#contract-dud9-4rff)
 
 Test Contract 2
 ---------------
@@ -2580,7 +2581,7 @@ Disclosure Scotland specific Consent - HR - English
 
 ### Version 7.0
 
-##### Effective December 9th 2024
+##### Effective December 11th 2024
 
 [Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/640866a9a6f77e6f0a8de59b.pdf)
 
@@ -4240,11 +4241,11 @@ Certn Holdings Inc., y compris ses sociétés affiliées Certn (Canada) Inc., Ce
 OneID Consent - Portal Version (EN)
 -----------------------------------
 
-### Version 5.2
+### Version 6.1
 
-##### Effective December 3rd 2024
+##### Effective December 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/674f97d95830859d8285f8be.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759b7ff31226449c57e2a43.pdf)
 
 * * *
 
@@ -4564,11 +4565,11 @@ You can withdraw your consent, dispute the accuracy of a Report, or ask for a co
 OneID Consent - Portal Version (FR)
 -----------------------------------
 
-### Version 2.2
+### Version 2.4
 
-##### Effective December 3rd 2024
+##### Effective December 11th 2024
 
-[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/674f97fe2f2bf5468c89d162.pdf)
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759b86c5dc03555d607174e.pdf)
 
 * * *
 
@@ -6350,6 +6351,31 @@ Reviewable criminal history. 1. The term “reviewable criminal history” means
 § 3. This local law takes effect January 1, 2025.
 
   
+
+OneID Consent - Portal Version (EN) (Copy)
+------------------------------------------
+
+### Version 1.0
+
+##### Effective December 11th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/6759cf91ebf3bcf6cfe55205.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**Biometric Consent**
+
+We need your consent to collect and process your biometric data for the purpose of verifying your identity on behalf of {{{company\_name}}} (the “**Company**”). Biometric data in this instance includes facial features from a real-time photo and information from your government-issued ID. We will store your biometric data securely and implement appropriate measures to safeguard such information against unauthorized access, disclosure, alteration, and destruction.
+
+By clicking “agree” below, you confirm that you have read and understood this Biometric Consent, as well as our [Biometric Notice](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-s1qa70-t6), and you agree to the collection and processing of your biometric data in accordance with these terms and our [Privacy Policy](https://certn.co/privacy-policy/). Further, you acknowledge and agree to the transfer of your biometric data to the Company in connection with your background check and verification and any applicable third-party sub-processors, solely for the purpose of completing your identity verification. This consent is given voluntarily and with the understanding that the data will be used exclusively for identity verification including the prevention and combat of fraud. Your biometric data, and where required by law, any information or copy of documents collected to support your identity verification, will be retained for the duration necessary to fulfill the intended purpose and as required by applicable laws, and will be securely deleted thereafter. If you choose not to consent, we may not be able to process your application or provide verification results for your background check.
+
+You can revoke your consent at any time by notifying us in writing at [privacy@certn.co](mailto:privacy@certn.co). Upon revocation, we will notify the Company and cease the collection, use, and retention of your biometric data. You have the right to request access to your biometric data and to request corrections or deletions of inaccuracies. If you require more information about the nature and scope of your data processing or for a copy of the information we hold about you, please contact Certn’s Privacy Officer at 1-844-987-0690 or [privacy@certn.co](mailto:privacy@certn.co).
+
+If you reside in a location that is different from our processing locations or the location of the Company, we may transfer your Personal Information for the purpose of completing the identity verification, in accordance with our [Privacy Policy](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-byeg-ihlj) and applicable privacy laws.
 
 * * *
 
