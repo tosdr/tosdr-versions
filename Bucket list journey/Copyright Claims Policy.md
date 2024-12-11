@@ -243,6 +243,22 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[I just got back from a cool trip to Redding, Calif ![I just got back from a cool trip to Redding, California and was totally surprised by all the bucket list adventures you can have there 🤯 
+These were my faves (👉 you’re gonna want to add them to your #northerncalifornia bucket list!):
+🚁 Flying high on a Shasta Bally Helicopter Tour with @Av8_aviation. Birds-eye views of snowcapped mountains, Shasta dam and the famous Sundial Bridge!  
+🦇 Going underground to explore @LakeShastaCaverns—it’s like stepping into another world down there. 
+💧 Taking the Shasta Dam Tour (and it was way cooler than I expected!). Not only can you walk across the top of this massive marvel, but you can go inside of it too 🤩 Plus, it’s totally FREE. 
+🌿 There’s tons of waterfalls in the Redding area, but Crystal Creek Falls is super accessible and so pretty. 
+🏌️‍♀️ Hitting a few golf balls into the water at @reddingaquagolf (don’t worry, they’re supposed to go in the water 🤣).](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![I just got back from a cool trip to Redding, California and was totally surprised by all the bucket list adventures you can have there 🤯 
+These were my faves (👉 you’re gonna want to add them to your #northerncalifornia bucket list!):
+🚁 Flying high on a Shasta Bally Helicopter Tour with @Av8_aviation. Birds-eye views of snowcapped mountains, Shasta dam and the famous Sundial Bridge!  
+🦇 Going underground to explore @LakeShastaCaverns—it’s like stepping into another world down there. 
+💧 Taking the Shasta Dam Tour (and it was way cooler than I expected!). Not only can you walk across the top of this massive marvel, but you can go inside of it too 🤩 Plus, it’s totally FREE. 
+🌿 There’s tons of waterfalls in the Redding area, but Crystal Creek Falls is super accessible and so pretty. 
+🏌️‍♀️ Hitting a few golf balls into the water at @reddingaquagolf (don’t worry, they’re supposed to go in the water 🤣).](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDZ4AOqvDWl/) 
+
 [💫 Here’s my one-day bucket list itinerary for ![💫 Here’s my one-day bucket list itinerary for the PRESIDIO IN SAN FRANCISCO 💫
 👉 Save for your next trip to San Francisco, California 👈
 From iconic Golden Gate vistas to Eastern Mediterranean delights, here’s how to make the most of your visit to the @presidiosf National Park site:
@@ -296,32 +312,6 @@ All aboard!!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20w
 We started our experience with welcome bubbles and then dived into a four-course meal with yummy dishes like roasted delicata squash with burrata and a citrusy salmon with capers, Oh, and let’s not forget about chocolate lava cake 😋 
 But this train wasn’t just about food and wine, it’s also about the wine country vibe—slow, scenic, and oh-so-relaxing. The route winds from Downtown Napa to St. Helena and back, with plenty of pretty vineyard views along the way 🍇 
 All aboard!!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DDCoSkvv2n9/)
-
-[California’s Yountville is right in the heart of ![California’s Yountville is right in the heart of Napa Valley, and is a food lover’s dream! With its wine country charm, the bar for great food is set high—and it doesn’t disappoint. I happily ate my way through the town to find the best spots. While you can’t really go wrong, these are my favs: 
-👉 Save for your trip to the Napa Valley!
-🍳 @bardessonoyountville’s Lucy: Perfect spot for brunch. The chilaquiles are delish & the avocado toast is the prettiest ever!
-🍝 @botteganapavalley is a hotspot for good reason—it delivers on all fronts—food, cocktails, and atmosphere. My standout dish was the Brodetto Frutta de Mar, a seafood stew so good you might just buy Chiarello’s cookbook to make it at home!
-🦪 @bouchon_bistro: This place will make you feel like you’re in France. Don’t skip the French onion soup. After go right next door to hit up @bouchon_bakery for dessert!
-🥗 @therdkitchens: Pan-Asian noodle salad + the crispy chicken sandwich = perfection.
-🍅 @bistro.jeanty: Cozy French vibes and the famous Boeuf Bourguignon.
-🌟 The French Laundry (@_tfl_ ) Three-Michelin star Thomas Keller Restaurant that’s the ultimate bucket list splurge. 
-🍕 @ciccio_napavalley: Wood-fired pizza + House-made pasta = happy foodie.
-🍗 @adhoc_addendum: Fried chicken so good it’ll make you cry.
-🐙 @northblockyountville: Trendy wine country eats like charred octopus & maple leaf duck breast
-🍣 @ro.lounge: Another Thomas Keller gem that draws from Asian culinary influences. If you love caviar, this is your place!](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![California’s Yountville is right in the heart of Napa Valley, and is a food lover’s dream! With its wine country charm, the bar for great food is set high—and it doesn’t disappoint. I happily ate my way through the town to find the best spots. While you can’t really go wrong, these are my favs: 
-👉 Save for your trip to the Napa Valley!
-🍳 @bardessonoyountville’s Lucy: Perfect spot for brunch. The chilaquiles are delish & the avocado toast is the prettiest ever!
-🍝 @botteganapavalley is a hotspot for good reason—it delivers on all fronts—food, cocktails, and atmosphere. My standout dish was the Brodetto Frutta de Mar, a seafood stew so good you might just buy Chiarello’s cookbook to make it at home!
-🦪 @bouchon_bistro: This place will make you feel like you’re in France. Don’t skip the French onion soup. After go right next door to hit up @bouchon_bakery for dessert!
-🥗 @therdkitchens: Pan-Asian noodle salad + the crispy chicken sandwich = perfection.
-🍅 @bistro.jeanty: Cozy French vibes and the famous Boeuf Bourguignon.
-🌟 The French Laundry (@_tfl_ ) Three-Michelin star Thomas Keller Restaurant that’s the ultimate bucket list splurge. 
-🍕 @ciccio_napavalley: Wood-fired pizza + House-made pasta = happy foodie.
-🍗 @adhoc_addendum: Fried chicken so good it’ll make you cry.
-🐙 @northblockyountville: Trendy wine country eats like charred octopus & maple leaf duck breast
-🍣 @ro.lounge: Another Thomas Keller gem that draws from Asian culinary influences. If you love caviar, this is your place!](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DC4VxoRPAHb/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
