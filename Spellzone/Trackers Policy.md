@@ -162,9 +162,10 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I have just subscribed and look forward to continuing to use Spellzone. I have been really impressed with the program during the trial period and the students gave very positive feedback. Many thanks."
+"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
+Thank you!
 
-**Teacher, International School, Geneva**
+**Teacher, Australia**
 
 ### Curriculum...
 
