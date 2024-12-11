@@ -54,7 +54,7 @@ Install
 
 * Welcome! [CLICK HERE to ask a question](https://www.car-seat.org/index.php?forums/car-seats-child-safety-seat-questions-and-advice.4/post-thread) about the best carseat or safest choice for your family. Visitor posts subject to approval. _Please note that some threads are old and may contain obsolete or outdated information. Please verify all advice with your owner's manuals and state law._
     
-* [](https://www.car-seat.org/account/dismiss-notice?notice_id=21 "Dismiss notice")**[Community 2024 Recommended Carseats](https://www.car-seat.org/threads/2021-recommended-car-seats-list-community-picks.229649/)**
+* [](https://www.car-seat.org/account/dismiss-notice?notice_id=21 "Dismiss notice")**[Community 2024-2025 Recommended Carseats](https://www.car-seat.org/threads/2021-recommended-car-seats-list-community-picks.229649/)**
     
 
 * [Home](https://www.car-seat.org/) 
@@ -163,13 +163,6 @@ Facebook Twitter Reddit Pinterest Tumblr WhatsApp Email Share Link
 
 [Find us on Facebook Here](https://www.facebook.com/groups/carseatorg)
 
-### Sponsors
-
-[CarseatBlog](https://carseatblog.com/)  
-[Britax Child Safety](https://us.britax.com/shop/car-seats)  
-[Graco Baby](https://www.gracobaby.com/)  
-[Nuna Baby](https://www.nunababy.com/usa/)
-
 ### Forum statistics
 
 Threads
@@ -195,12 +188,7 @@ Latest member
 
 You must read your carseat and vehicle owner’s manual and understand any relevant state laws. These are the rules you must follow to restrain your children safely. All opinions at Car-Seat.Org are those of the individual author for informational purposes only, and do not necessarily reflect any policy or position of Carseat Media LLC. Car-Seat.Org makes no representations as to accuracy, completeness, currentness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses, injuries, or damages arising from its display or use. All information is provided on an as-is basis. If you are unsure about information provided to you, please visit a local certified technician. Before posting or using our website you must read and agree to our [TERMS](https://www.car-seat.org/showthread.php?170684-Terms-of-Service).
 
-|     |     |     |
-| --- | --- | --- |
-| [![Graco is a Proud Sponsor of Car-Seat.Org!](https://www.car-seat.org/graco200.jpg)](https://www.gracobaby.com/) | [![Britax is a Proud Sponsor of Car-Seat.Org!](https://www.car-seat.org/Britax200x53.jpg)](https://us.britax.com/) | [![Nuna Baby is a Proud Sponsor of Car-Seat.Org!](https://www.car-seat.org/Nuna2020_200x53.jpg)](https://www.nunababy.com/usa/car-seats) |
-
-Please  [Support Car-Seat.Org](https://www.car-seat.org/index.php?threads/please-support-car-seat-org-advertising-sponsorships-and-subscriptions.19160/)  with your purchases of infant, convertible, combination and boosters seats from our premier sponsors above.  
-Shop travel systems, strollers and baby gear from Britax, Chicco, Clek, Combi, Evenflo, First Years, Graco, Maxi-Cosi, Nuna, Safety 1st, Diono & more! ©2001-2022 Carseat Media LLC
+©2001-2024 Carseat Media LLC
 
 * [Classic](https://www.car-seat.org/misc/style "Style chooser")
 
