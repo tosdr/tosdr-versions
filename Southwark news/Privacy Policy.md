@@ -20,6 +20,19 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
+    
+    ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
+    
+    [![The new design at 110 The Queen's Walk. 
+    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+    
+    ### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+    
+    [![Left to right: Cllr Esme Dobson, Cllr Jasmine Ali and Cllr David Parton overlayed against a computer generated image of Peckham town centre post-redevelopment](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Cllr-Esme-Dobson-Cllr-Jasmine-Ali-and-Cllr-David-Parton-overlayed-against-a-computer-generated-image-of-Peckham-town-centre-post-redevelopment-360x180.png)](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
+    
+    ### [Labour councillors back calls for 50% affordable housing in Peckham town centre redevelopment](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
+    
     [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
     ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
@@ -46,18 +59,6 @@
     Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
     
     ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
-    
-    [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
-    
-    ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
-    
-    [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-    
-    ### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-    
-    [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-    
-    ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -108,6 +109,19 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
+    
+    ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
+    
+    [![The new design at 110 The Queen's Walk. 
+    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+    
+    ### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+    
+    [![Left to right: Cllr Esme Dobson, Cllr Jasmine Ali and Cllr David Parton overlayed against a computer generated image of Peckham town centre post-redevelopment](https://southwarknews.co.uk/wp-content/uploads/2024/12/Left-to-right-Cllr-Esme-Dobson-Cllr-Jasmine-Ali-and-Cllr-David-Parton-overlayed-against-a-computer-generated-image-of-Peckham-town-centre-post-redevelopment-360x180.png)](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
+    
+    ### [Labour councillors back calls for 50% affordable housing in Peckham town centre redevelopment](https://southwarknews.co.uk/news/news-plus/labour-councillors-back-calls-for-50-affordable-housing-in-peckham-town-centre-redevelopment/)
+    
     [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-360x180.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
     
     ### [Over 200 stalkers to be fitted with GPS tags on their release from prison](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
@@ -134,18 +148,6 @@ View All Result
     Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
     
     ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
-    
-    [![Nurses are celebrating the refurbishment of the rooms](https://southwarknews.co.uk/wp-content/uploads/2024/12/Amy-and-Joy-1024x907-1-e1733761392309-360x180.jpg)](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
-    
-    ### [King’s College Hospital palliative care ward gets ‘calming and tranquil’ makeover](https://southwarknews.co.uk/area/camberwell/kings-college-hospital-palliative-care-ward-gets-calming-and-tranquil-makeover/)
-    
-    [![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-    
-    ### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-    
-    [![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-360x180.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-    
-    ### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -351,6 +353,12 @@ Website
 
 ### Popular Articles
 
+[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/BAT_4985-2024-11-24T14_41_49.581-120x86.webp)](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
+
+### [Mourinho jokingly rules out becoming next Millwall boss – but surprise name among favourites to succeed Harris](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
+
+[11th December 2024](https://southwarknews.co.uk/sport/football/millwall/mourinho-jokingly-rules-out-becoming-next-millwall-boss-but-surprise-name-among-favourites-to-succeed-harris/)
+
 [![Walworth Road this morning at 4:30am. (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/PHOTO-2024-12-08-13-06-48-120x86.jpg)](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
 
 ### [Man in ‘life-threatening’ condition and two arrests after incident on Walworth Road](https://southwarknews.co.uk/area/walworth/man-in-life-threatening-condition-and-two-arrests-after-incident-on-walworth-road/)
@@ -375,19 +383,20 @@ Website
 
 [7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
-[![L: Wyndham and Comber Estate (Google Maps). R: Leaseholders Peter and Michael.](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-06-12-2024-at-17.33-e1733506531831-120x86.jpg)](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
+[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-### [Exclusive: Over a thousand Camberwell households left ‘freezing’ as boiler serving whole estate breaks](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
+### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
-[9th December 2024](https://southwarknews.co.uk/area/camberwell/exclusive-over-a-thousand-camberwell-households-left-freezing-as-boiler-serving-whole-estate-breaks/)
-
-[![Daniel Kelly in action against Plymouth. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/12/D-Kelly-48393-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
-
-### [Millwall midfielder out for six weeks](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
-
-[6th December 2024](https://southwarknews.co.uk/sport/football/millwall/millwall-midfielder-out-for-six-weeks/)
+[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
 
 ### Featured Articles
+
+[![The new design at 110 The Queen's Walk. 
+Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+
+### [APPROVED: Plans to revamp London’s former City Hall in Bermondsey](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
+
+[11th December 2024](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
 
 [![London mayor Sadiq Khan. Credit Noah Vickers-Local Democracy Reporting](https://southwarknews.co.uk/wp-content/uploads/2024/05/London-mayor-Sadiq-Khan.-Credit-Noah-Vickers-Local-Democracy-Reporting-Service-120x86.jpg)](https://southwarknews.co.uk/area/london/over-200-stalkers-to-be-fitted-with-gps-tags-on-their-release-from-prison/)
 
@@ -420,12 +429,6 @@ Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-
 ### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
 [9th December 2024](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-
-[![Cllr Victor Chamberlain, leader of Southwark's Liberal Democrat opposition, has asked deputy prime minister Angela Rayner to intervene in Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/12/IMG-Victor-at-MHCLG-120x86.jpeg)](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-
-### [UK government housing department ‘concerned’ as over half of Southwark council homes without smoke alarms](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
-
-[9th December 2024](https://southwarknews.co.uk/area/southwark/uk-government-housing-department-concerned-as-over-half-of-southwark-council-homes-without-smoke-alarms/)
 
 ### USEFUL PAGES
 
