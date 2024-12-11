@@ -27,8 +27,8 @@ Explore all courses
 SAP Learning Group
 ------------------
 
-Join our SAP Learning Group moderated by an SAP Learning expert.  
-Ask your questions about your digital learning journeys, prepare successfully for your SAP Certification exams, and collaborate with other learners to reach your learning goals.
+Join our SAP Learning Group moderated by an SAP Learning expert.  
+Ask your questions about digital learning journeys, prepare thoroughly for SAP Certification exams, and work together with other learners to reach your learning goals.
 
 [Join here](https://community.sap.com/t5/sap-learning/gh-p/learning)
 
