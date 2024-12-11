@@ -298,15 +298,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Dementors don’t breed but grow, like fungus, where there is decay.
+There were seven male white owls that played Hedwig.
 
 ### Potter History
 
-July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
+December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
 
 ### Potter Quote
 
-“I ain’t got the brains to make this up.”
+“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
 
 [](#)
 
