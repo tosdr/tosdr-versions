@@ -150,7 +150,7 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
-* [Defense bill would cut F-35 purchases in 2025, delay deliveries](https://www.defensenews.com/air/2024/12/10/defense-bill-would-cut-f-35-purchases-in-2025-delay-deliveries/)  
+* [Defense bill would delay F-35 deliveries in 2025](https://www.defensenews.com/air/2024/12/10/defense-bill-would-cut-f-35-purchases-in-2025-delay-deliveries/)  
     12/10/24 03:45pm  
     
     Congress is set to cut the number of Lockheed Martin-made F-35s the military wants to buy in 2025 from 68 to 58 under this year’s defense authorization bill. (Airman Belinda Guachun-Chichay/U.S. Air Force)
