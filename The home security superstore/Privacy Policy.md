@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off Stun Guns & Batons | Use Code: SB15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=merchant&utm_campaign=15%25+Off+Stun+Guns+%26+Batons)
+[Best Stocking Stuffers Under $10 I Click Here!](https://www.thehomesecuritysuperstore.com/collections/stocking-stuffers?utm_source=Top&utm_medium=Banner&utm_campaign=Stocking+Stuffers)
 
-TODAY'S OFFER: :: | 15% Off Stun Guns & Batons | Use Code: SB15
+TODAY'S OFFER: :: | Best Stocking Stuffers Under $10 I Click Here!
 
 TODAY'S OFFER: : :
 
- 15% Off Stun Guns & Batons Use Code: SB15
+ Best Stocking Stuffers Under $10 I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
