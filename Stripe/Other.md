@@ -33,6 +33,7 @@
     * [Terminal Device EULA](https://stripe.com/terminal-device-eula/legal)
     * [Stripe Treasury - Connected Accounts](https://stripe.com/legal/treasury-connect-account)
     * [Stripe Treasury - Platforms](https://stripe.com/legal/treasury-platform)
+    * [Stripe Vault and Forward](https://stripe.com/legal/vault-and-forward)
     
 * Financial Services Terms
     ------------------------
