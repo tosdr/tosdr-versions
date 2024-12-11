@@ -108,11 +108,6 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
     
     Why The Industrial Revolution Happened Here
@@ -133,34 +128,39 @@ Advertisement
     Suicide
     
     Released in 2001, Suicide is a film directed by Eames Yates and explores the suicide of his own brother which occurred two years prior to this films release. Eames' brother Teddy was 40 when he shot h...](https://documentaryheaven.com/suicide/ "Suicide")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 
 ###### Throwback Documentaries
 
-* [![Iron Triangle: The Carlyle Group](/wp-content/thumbnails/1702-100x70.jpg?x53432)
+* [![The Aristocrats: The Rothschilds](/wp-content/thumbnails/14249-100x70.jpg?x53432)
     
-    Iron Triangle: The Carlyle Group
+    The Aristocrats: The Rothschilds
     
-    The Bush family, the Saudi Royal family, Osama Bin Laden's family and Donald Rumsfeld's inner circle - these are just some of the high profile figures who have played a direct role in the rise of one](https://documentaryheaven.com/iron-triangle-the-carlyle-group/ "Iron Triangle: The Carlyle Group")
-* [![The King of Kong: A Fistful of Quarters](/wp-content/thumbnails/7300-100x70.jpg?x53432)
+    It's not every family that hollywood makes an oscar nominated movie about, nor one that so successfully cements the Rothschilds reputation as the most famous family in the world. They are enormously w](https://documentaryheaven.com/aristocrats-rothschilds/ "The Aristocrats: The Rothschilds")
+* [![Surviving R. Kelly](/wp-content/thumbnails/14446-100x70.jpg?x53432)
     
-    The King of Kong: A Fistful of Quarters
+    Surviving R. Kelly
     
-    The stuff of gladiatorial battle is here: good versus evil, right versus wrong, nerd versus super-nerd. In this critically acclaimed arcade showdown, a humble novice goes head-to-head against the reig](https://documentaryheaven.com/king-kong-fistful-quarters/ "The King of Kong: A Fistful of Quarters")
-* [![The Life And Crimes of Citizen Ming](/wp-content/thumbnails/5684-100x70.jpg?x53432)
+    Surviving R. Kelly is a six part documentary series which was released by Lifetime, it deals directly with the countless allegations that have been brought forward against R. Kelly regarding sexual ab](https://documentaryheaven.com/surviving-r-kelly/ "Surviving R. Kelly")
+* [![Amish: A Secret Life](/wp-content/thumbnails/8052-100x70.jpg?x53432)
     
-    The Life And Crimes of Citizen Ming
+    Amish: A Secret Life
     
-    Luke 'Ming' Flanagan is an Irish politician and social campaigner. He began his political career running unsuccessfully as an independent candidate in the Galway West constituency in 1997, and went on](https://documentaryheaven.com/the-life-and-crimes-of-citizen-ming/ "The Life And Crimes of Citizen Ming")
-* [![Sun Ra, Brother From Another Planet](/wp-content/thumbnails/6378-100x70.jpg?x53432)
+    An intimate portrait of Amish family life and faith, this film opens up a world usually kept private. Miriam and David are Old Order Amish and photography is not permitted under the strict rules of th](https://documentaryheaven.com/amish-secret-life/ "Amish: A Secret Life")
+* [![Monster In The Mind](/wp-content/thumbnails/14464-100x70.png?x53432)
     
-    Sun Ra, Brother From Another Planet
+    Monster In The Mind
     
-    Sun Ra was born on the planet Saturn some time ago. The best accounts agree that he emerged on Earth as Herman Blount, born in Birmingham, Alabama in 1914, although Sun Ra himself always denied that B](https://documentaryheaven.com/sun-ra-brother-from-another-planet/ "Sun Ra, Brother From Another Planet")
-* [![The Naked Truth](/wp-content/thumbnails/2352-100x70.png?x53432)
+    CNN veteran reporter Jean Carper is now 83 years old and finds herself at high risk for getting Alzheimer’s disease. In this film we see her embark on a journey to discover all there is to know about](https://documentaryheaven.com/monster-in-the-mind/ "Monster In The Mind") 
+* [![America Before Columbus](/wp-content/thumbnails/13966-100x70.jpg?x53432)
     
-    The Naked Truth
+    America Before Columbus
     
-    Documentary The Naked Truth traces the origins of modern religions back to stories from numerous ancient civilizations. Due to the lack of science and facts, stories were created by our ancient ances](https://documentaryheaven.com/the-naked-truth/ "The Naked Truth")
+    Summer 1492, after three months at sea The Santa María, The Pinta and The Niña anchor off the Bahamas, and with this Europe has found the Americas, next comes conquest and colonisation by settler](https://documentaryheaven.com/america-before-columbus-2/ "America Before Columbus")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
