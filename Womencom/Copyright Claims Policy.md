@@ -43,20 +43,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+*  [![Sydney Sweeney and Jonathan Davino at an event](https://www.women.com/img/gallery/red-flags-in-sydney-sweeney-and-jonathan-davinos-relationship/intro-1733863099.jpg)](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Relationships](https://www.women.com/category/relationships/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Relationships](https://www.women.com/category/relationships/) By Bernadette Roe
     
-    [Pamela Anderson Is Still Gorgeous Going Makeup Free](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
-    ================================================================================================================================
+    [Red Flags In Sydney Sweeney And Jonathan Davino's Relationship](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
+    ======================================================================================================================================================
     
-    Stripping back the glam has not only made Pamela Anderson feel more confident, but has also inspired others to feel comfortable in their skin.
+    Sydney Sweeney kept quiet for much of her relationship with Jonathan Davino. But once they got engaged, the relationship took on a public persona of its own.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+    By Bernadette Roe [Read More](https://www.women.com/1734481/red-flags-sydney-sweeney-jonathan-davino-relationship/)
     
-* *  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
+* *  [![Pamela Anderson posing](https://www.women.com/img/gallery/pamela-anderson-is-still-gorgeous-going-makeup-free/intro-1733343581.jpg)](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+        
+        [Beauty](https://www.women.com/category/beauty/)
+        
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+        
+        ### [Pamela Anderson Is Still Gorgeous Going Makeup Free](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+        
+        Stripping back the glam has not only made Pamela Anderson feel more confident, but has also inspired others to feel comfortable in their skin.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1729497/pamela-anderson-gorgeous-going-makeup-free/)
+        
+    *  [![Angled close-up of Jenna Ortega with a shaggy hairstyle](https://www.women.com/img/gallery/5-celebs-who-have-rocked-the-trendy-wolf-cut/intro-1732558119.jpg)](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
         [Beauty](https://www.women.com/category/beauty/)
         
@@ -68,22 +80,22 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1722376/5-celebs-who-have-rocked-the-trendy-wolf-cut/)
         
-    *  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-        
-        ### [Pantone's 2025 Color Of The Year Is A Neutral Lover's Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
-        
-        Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
-        
 
 More Stories
 ------------
 
+*  [![A woman in a Mocha Mousse jacket and gold earrings](https://www.women.com/img/gallery/pantones-2025-color-of-the-year-is-a-neutral-lovers-dream-how-to-bring-it-into-your-wardrobe/intro-1733759893.jpg)](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Pantone's 2025 Color Of The Year Is A Neutral Lover's Dream — How To Bring It Into Your Wardrobe](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
+    Pantone's Color of the Year makes for a stunning addition to your wardrobe that won't clash with existing pieces. Hello, timeless style!
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1732865/pantone-color-of-year-2025-neutral-how-bring-into-wardrobe/)
+    
 *  [![Britney Spears on the stage](https://www.women.com/img/gallery/britney-spearss-hair-transformation-over-the-years/intro-1733346595.jpg)](https://www.women.com/1729572/britney-spears-hair-transformation/)
     
     [Beauty](https://www.women.com/category/beauty/)
@@ -395,18 +407,6 @@ More Stories
     Since leaving "New Girl," Zooey Deschanel has taken fashion inspo from Jess Day's signature style, wearing cute tights, headbands, and hair pieces.
     
     By Bernadette Roe [Read More](https://www.women.com/1716454/zooey-deschanel-outfits-jess-day-closet/)
-    
-*  [![Jada Pinkett Smith at the Bad Boys premiere](https://www.women.com/img/gallery/5-celebs-that-have-been-open-about-their-battle-with-sex-addiction/intro-1731952801.jpg)](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-    
-    [Sex](https://www.women.com/category/sex-life/)
-    
-    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-    
-    ### [5 Celebs That Have Been Open About Their Battle With Sex Addiction](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
-    
-    Of all of the addictions out there, sex addiction isn't taken as seriously as it should be. But it can impact anyone, for any reason.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1716187/celebs-open-about-battle-sex-addiction/)
     
 
 Back
