@@ -18,7 +18,7 @@ Surprise me
 
 English
 
-[enEnglish](https://www.gamepix.com/privacy-cookie)[deDeutsch](https://www.gamepix.com/de/privacy-cookie)[frFrançais](https://www.gamepix.com/fr/privacy-cookie)[itItaliano](https://www.gamepix.com/it/privacy-cookie)[nlNederlands](https://www.gamepix.com/nl/privacy-cookie)
+[enEnglish](https://www.gamepix.com/privacy-cookie)[deDeutsch](https://www.gamepix.com/de/privacy-cookie)[elΕλληνικά](https://www.gamepix.com/el/privacy-cookie)[fiSuomi](https://www.gamepix.com/fi/privacy-cookie)[frFrançais](https://www.gamepix.com/fr/privacy-cookie)[itItaliano](https://www.gamepix.com/it/privacy-cookie)[nlNederlands](https://www.gamepix.com/nl/privacy-cookie)
 
 [About us](https://partners.gamepix.com/ "About us")[Contact us](https://partners.gamepix.com/contact "Contact us")[Privacy](https://company.gamepix.com/privacy-cookie "Privacy")
 
