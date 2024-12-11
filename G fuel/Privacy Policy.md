@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                              
+Privacy policy – G FUEL                                                                                                      
 
 [Skip to content](#MainContent)  
 
