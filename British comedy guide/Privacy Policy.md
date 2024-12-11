@@ -140,6 +140,10 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 
 ### See also
 
+[![Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200_eps/i/inside_no_9_0402a.jpg "Inside No. 9. Image shows left to right: Len Shelby (Steve Pemberton), Tommy Drake (Reece Shearsmith). Credit: BBC")](https://www.comedy.co.uk/quiz/336/) Quiz
+
+[British Comedy Quiz #336](https://www.comedy.co.uk/quiz/336/)
+
 [![Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear](https://cdn.comedy.co.uk/images/library/comedies/300x200/m/michael_mcintyres_25th_year_stand_up_special.jpg "Michael McIntyre's 25th Year Stand-Up Special. Michael McIntyre. Credit: BBC, Hungry McBear")](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/) TV
 
 [Michael McIntyre on 25 years in comedy](https://www.comedy.co.uk/tv/michael-mcintyre-25th-year-stand-up/interview/michael-mcintyre-on-25-years-in-comedy/)
@@ -151,10 +155,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 [![George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television](https://cdn.comedy.co.uk/images/library/comedies/300/g/george_and_mildred.jpg "George & Mildred. Image shows from L to R: Mildred Roper (Yootha Joyce), George Roper (Brian Murphy). Copyright: Thames Television")](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/) Features
 
 [Comedy Rewind: George & Mildred - A classy sitcom all about class](https://www.comedy.co.uk/features/comedy-rewind/george-and-mildred/)
-
-[![Amy Mason. Credit: Lucy Ridges](https://cdn.comedy.co.uk/images/library/people/300x200/a/amy_mason_2025.jpg "Amy Mason. Credit: Lucy Ridges")](https://www.comedy.co.uk/live/fgwg/amy-mason/) Live
-
-[First Gig, Worst Gig: Amy Mason](https://www.comedy.co.uk/live/fgwg/amy-mason/)
 
 #### Subscribe to our newsletters
 
