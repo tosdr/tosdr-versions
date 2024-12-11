@@ -1,6 +1,6 @@
 [Your IP Your Status](https://www.cyberghostvpn.com/hide-ip "Do you want to hide your IP?")
 
-[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=137028)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137028)en](https://www.cyberghostvpn.com/privacypolicy) 
+[![CyberGhost VPN](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/logo-cyberghost.svg?v=137029)](https://www.cyberghostvpn.com/)* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137029)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -25,7 +25,7 @@
         * [简体中文](https://www.cyberghostvpn.com/zh/privacypolicy)
         * [한국어](https://www.cyberghostvpn.com/ko/privacypolicy)
 
-![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=137028)
+![Close](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-close.svg?v=137029)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
@@ -63,7 +63,7 @@
 * [Privacy Hub](https://www.cyberghostvpn.com/privacyhub/)
 * [Help](https://support.cyberghostvpn.com/hc/en-us)
 
-* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137028)en](https://www.cyberghostvpn.com/privacypolicy) 
+* * [![](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/globe-lang-v2.svg?v=137029)en](https://www.cyberghostvpn.com/privacypolicy) 
         * [English](https://www.cyberghostvpn.com/privacypolicy)
         * [Čeština](https://www.cyberghostvpn.com/cs/privacypolicy)
         * [Dansk](https://www.cyberghostvpn.com/da/privacypolicy)
@@ -92,7 +92,7 @@
 * [Get OFF](https://www.cyberghostvpn.com/buy)
     
 
-![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=137028)
+![Back](https://assets.cyberghostvpn.com/img/frontend/cg/navigation/icons/btn-right-arrow.svg?v=137029)
 
 * [What Is VPN](https://www.cyberghostvpn.com/what-is-a-vpn)
     
