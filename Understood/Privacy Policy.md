@@ -260,9 +260,13 @@ We reserve the right to revise this Privacy Statement at any time. When we do, w
 
 Please also feel free to contact us at info@understood.org if you have any questions about our Privacy Statement or the information practices of the Services.
 
+Thank you for subscribing!
+
 ### Discover what’s possible with Understood
 
-Email address
+Email address\*
+
+Please enter a valid email
 
 Subscribe
 
