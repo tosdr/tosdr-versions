@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[December 11, 2024](https://www.japantimes.co.jp/archive/2024/12/11/ "archive page")
+[December 12, 2024](https://www.japantimes.co.jp/archive/2024/12/12/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,10 +135,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
 
-[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
-
-  [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
-
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
   [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
@@ -151,6 +147,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
+[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+
+  [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+
 Editors' Picks
 --------------
 
@@ -161,14 +161,6 @@ Editors' Picks
 By [Takashi Kumon](https://www.japantimes.co.jp/author/5990/takashi-kumon/ "Takashi Kumon")  
 
   [![Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/08/436391.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Filipino housekeepers undergo training to work for a Japanese staffing company. By applying the same criteria when hiring overseas and local workers, Japanese firms tend to underutilize the unique skills that foreign nationals can bring.")](https://www.japantimes.co.jp/commentary/2024/12/08/japan/foreign-workers-japan-challenges/ "Firms should quit turning foreign workers into Japanese ones")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Hundreds of _izakaya_ going bust as prices rise and customers change](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
-
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
-
-  [![Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438957.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Dining habits have changed since the end of the COVID-19 pandemic, with alcohol consumption experiencing a drop.")](https://www.japantimes.co.jp/business/2024/12/09/economy/izakaya-bankruptcies-teikoku/ "Hundreds of izakaya going bust as prices rise and customers change")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -192,6 +184,14 @@ By [Pierre-Henry Deshayes](https://www.japantimes.co.jp/author/4565/pierre-henry
 
   [![Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439104.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Manabu Sasaki, who runs a painting company, is one of four suspects arrested on suspicion of murdering 56-year-old Osamu Takano.")](https://www.japantimes.co.jp/news/2024/12/10/japan/crime-legal/murder-railroad-crossing/ "Victim of alleged staged suicide was subjected to years of abuse")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+
+By [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
+
+  [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
+
 Podcast
 -------
 
@@ -211,9 +211,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
+
+5 hours ago
+
 [Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
 
-50 mins ago
+7 hours ago
 
 [Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
 
-1 hour ago
+7 hours ago
 
 [Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
 
-1 hour ago
+7 hours ago
 
 [JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
 
-1 hour ago
-
-[South Korean police blocked from raid on president's office](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police blocked from raid on president's office")
-
-2 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
