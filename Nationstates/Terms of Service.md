@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Your Reaction to AN's News (III) (10,925)](https://forum.nationstates.net/viewtopic.php?t=507317&f=25&view=unread#unread ""Your Reaction to AN's News (III)" (10,925 posts)")
-* [Trade between Pakania and Freedom Fre… (1,730)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,730 posts)")
-* [China encirles Taiwan (25)](https://forum.nationstates.net/viewtopic.php?t=559467&f=20&view=unread#unread ""China encirles Taiwan" (25 posts)")
-* [Syrian Civil War: Dawn Of A New Syria (1,357)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,357 posts)")
-* [UK Politics Thread: Don't Be So Nosey! (475)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (475 posts)")
+* [What is your relationship with AU? II (4,206)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (4,206 posts)")
+* [Daniel Penny ACQUITTED (316)](https://forum.nationstates.net/viewtopic.php?t=559441&f=20&view=unread#unread ""Daniel Penny ACQUITTED" (316 posts)")
+* [Making a picture for all who reply(Jo… (45)](https://forum.nationstates.net/viewtopic.php?t=559463&f=25&view=unread#unread ""Making a picture for all who reply(Jorsania version)" (45 posts)")
+* [UK Politics Thread: Don't Be So Nosey! (511)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (511 posts)")
+* [The International Incelosphere. (171)](https://forum.nationstates.net/viewtopic.php?t=559200&f=20&view=unread#unread ""The International Incelosphere." (171 posts)")
 
 Advertisement
 
