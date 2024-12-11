@@ -123,3 +123,5 @@ Legislation & Compliance 
 * [Legal](https://wire.com/en/legal)
 
 [Imprint](https://wire.com/en/imprint) | Copyright 2024 © Wire Swiss
+
+![](https://px.ads.linkedin.com/collect/?pid=438649&fmt=gif)
