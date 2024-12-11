@@ -95,62 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/triune-comforter)
-
-[The Triune Comforter](https://www.icr.org/article/triune-comforter/)
-
-“Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort; Who comforteth us in all our...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/exalting-anointed-one)
-
-[Exalting the Anointed One](https://www.icr.org/article/exalting-anointed-one/)
-
-“The adversaries of the LORD shall be broken to pieces; out of heaven shall he thunder upon them: the LORD shall judge the ends of the earth;...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14375)
-
-[The Peace of the God of Peace](https://www.icr.org/article/14375/)
-
-“And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.” (Philippians 4:7) For...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475587/file.jpg)
-
-The Remarkable Journey of Jonah](https://store.icr.org/dr-henry-morris-the-remarkable-journey-of-jonah.html)
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474571/file.jpg)
-
-The Bible Has the Answer](https://store.icr.org/dr-henry-morris-the-bible-has-the-answer.html)
-
-$16.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475649/file.jpg)
-
-The Remarkable Record of Job](https://store.icr.org/dr-henry-morris-the-remarkable-record-of-job.html)
-
-$9.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
