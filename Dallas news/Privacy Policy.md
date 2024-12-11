@@ -69,7 +69,7 @@ Cookie Preferences
 
 You can update your cookie preferences for our websites by clicking below.
 
-Update cookie preferences
+[Update cookie preferences.](https://www.dallasnews.com/help/privacy-policy/?ccpa_link=1#manageConsent "https://www.dallasnews.com/help/privacy-policy/?ccpa_link=1#manageConsent")
 
 To update your cookie preferences while using our mobile apps, please go to your phone settings to adjust how your data is shared with us.
 
@@ -258,7 +258,3 @@ Do You Need Extra Help? If you would like this Policy in another format (for exa
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
 Connect:[](mailto:webnews@dallasnews.com)
-
-Join the conversation
-
-Thank you for reading. We welcome your thoughts on this topic. Comments are moderated for adherence to our [Community Guidelines](https://www.dallasnews.com/help/community-guidelines/). Please read the guidelines before participating.
