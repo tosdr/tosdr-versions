@@ -231,3 +231,7 @@ Close
 Your image will NOT be used for future improvements of remove.bg.
 
 Close
+
+![](https://px.ads.linkedin.com/collect/?pid=6421385&fmt=gif)
+
+![](https://www.facebook.com/tr?id=676359984043591&ev=PageView&noscript=1)
