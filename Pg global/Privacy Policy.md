@@ -3,7 +3,7 @@ Here’s a short introduction to our privacy practices
 
 [Skip to main content](#content)
 
-![image](https://images.ctfassets.net/e41z9dqsyc70/POT5BdVgLsebfvgNBqMsL/4269817a75637571086bed1b70021bbf/Header.png?fm=webp&q=75)
+![Banner for P&G privacy policy](https://images.ctfassets.net/e41z9dqsyc70/POT5BdVgLsebfvgNBqMsL/4269817a75637571086bed1b70021bbf/Header.png?fm=webp&q=75)
 
 ![Country Selector](https://images.ctfassets.net/e41z9dqsyc70/6fQlfPAwTHQCGvQhUr8jhX/a629d05a67bc1583d3cafd70c8477daf/MicrosoftTeams-image__7_.png?fm=webp&q=75)
 
