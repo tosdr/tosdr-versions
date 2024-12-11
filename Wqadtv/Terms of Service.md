@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/102465cd-5af8-44c8-801b-afb8334ab461/20241210T230007/102465cd-5af8-44c8-801b-afb8334ab461_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/102465cd-5af8-44c8-801b-afb8334ab461/20241210T230007/102465cd-5af8-44c8-801b-afb8334ab461_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/ecb17136-2e57-4343-92f3-64ac86a14a10/20241211T122404/ecb17136-2e57-4343-92f3-64ac86a14a10_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/ecb17136-2e57-4343-92f3-64ac86a14a10/20241211T122404/ecb17136-2e57-4343-92f3-64ac86a14a10_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-wildfire-evacuations/507-7264ecc2-9b62-4d78-97d4-743a69fc3fec)
         
-        #### [Weather Impact Alert: Coldest air of the season so far arrives Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Celebrities under evacuation order as wildfire rips through Malibu](https://www.wqad.com/article/news/nation-world/malibu-wildfire-evacuations/507-7264ecc2-9b62-4d78-97d4-743a69fc3fec)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2/20241210T114827/fadac9e7-1a11-419a-81d6-4b4a12d3a4d2_360x203.jpg)](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/bcdb2fd5-3013-4e01-8b61-e5b97827fd91/20241211T123134/bcdb2fd5-3013-4e01-8b61-e5b97827fd91_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/bcdb2fd5-3013-4e01-8b61-e5b97827fd91/20241211T123134/bcdb2fd5-3013-4e01-8b61-e5b97827fd91_360x203.jpg)](https://www.wqad.com/article/news/nation-world/atmospheric-river-and-potential-bomb-cyclone-east-coast/507-b079c2b0-e7eb-4d0b-b3b9-86e040a9339a)
         
-        #### [Homes burn as wind-driven wildfire prompts evacuations in Malibu, California](https://www.wqad.com/article/news/nation-world/malibu-brushfire-evacuations-shelter-in-place/507-c95765d5-e4b5-4644-9e0c-2f839b252856)
+        #### [Winter whiplash: East Coast could be hit with 'bomb cyclone'](https://www.wqad.com/article/news/nation-world/atmospheric-river-and-potential-bomb-cyclone-east-coast/507-b079c2b0-e7eb-4d0b-b3b9-86e040a9339a)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -97,9 +97,9 @@ Navigation
 
 Davenport, IA »
 
-29°
+22°
 
-![Light Snow](/assets/shared-images/weather-icons/snow-day_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
