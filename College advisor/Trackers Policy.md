@@ -1,4 +1,4 @@
- [![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTEwNToyMTU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![College Advisor logo icon](data:image/svg+xml;nitro-empty-id=MTEwNjoyMTM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgd2lkdGg9IjI1NiIgaGVpZ2h0PSIyNTYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
+ [![College Advisor logo](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/ca-logo-blue.png) ![College Advisor logo icon](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/icon.png)](https://www.collegeadvisor.com/)
 
 [Primary Menu ☰](#primary-nav)
 
@@ -300,7 +300,7 @@ New York, NY 10001
 (t) 212.210.6390  
 [\[email protected\]](https://www.collegeadvisor.com/cdn-cgi/l/email-protection)
 
-[![College Advisor logo](data:image/svg+xml;nitro-empty-id=MTYyODoxNzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNTAwIDE5NSIgd2lkdGg9IjUwMCIgaGVpZ2h0PSIxOTUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)](https://www.collegeadvisor.com/)
+[![College Advisor logo](https://www.collegeadvisor.com/wp-content/themes/college-advisor/assets/images/ca-logo-blue.png)](https://www.collegeadvisor.com/)
 
 Personalized and effective college advising for high school students.
 
