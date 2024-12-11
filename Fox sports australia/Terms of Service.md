@@ -36,34 +36,24 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250503)
-* [Men's T20I
-    
-    RSA won by 11 runs
-    
-    |     |     |
-    | --- | --- |
-    | RSA | 9 /183 |
-    | PAK | 8 /172 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-251101)
 * [Women's ODI
     
     |     |     |
     | --- | --- |
-    | AUS | 5 /247 |
-    | IND |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250403)
-* [Women's ODI
-    
-    11/12 23:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | RSA | –   |
-    | ENG | –   |
+    | RSA | 3 /134 |
+    | ENG |     |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250503)
+* [Women's ODI
+    
+    AUS won by 83 runs
+    
+    |     |     |
+    | --- | --- |
+    | AUS | 6 /298 |
+    | IND | 215 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WODI2024-250403)
 * Basketball
     
 * [NBA
@@ -88,106 +78,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010121/box-score)
 * [WNBL
     
-    11/12 19:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SOU | –   |
-    | GEE | –   |
+    | SOU | 86  |
+    | GEE | 88  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070001)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25070001/play-by-play)
 * Football
     
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | GIR | 0   |
-    | LIV | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250603)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DZ  | 0   |
-    | CEL | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250601)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DON | 1   |
-    | BAY | 5   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250615)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | RBS | 0   |
-    | PSG | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250611)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | RBL | 2   |
-    | AVL | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250617)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | ATA | 2   |
-    | RMD | 3   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250607)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BLV | 1   |
-    | INT | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250605)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRE | 1   |
-    | PSV | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250613)
-* [UCL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CB  | 2   |
-    | LIS | 1   |
-    
-    Match Centre](https://www.foxsports.com.au/football/champions-league/match-centre/UCL2024-250609)
 * [UCL
     
     12/12 4:45 AEST
@@ -849,7 +749,6 @@ FOX SCORES
 * [State of Origin](https://www.foxsports.com.au/video/league/state-of-origin)
 * Matty Johns
 * Tests
-* [Rugby League](https://www.foxsports.com.au/video/league/rugby-league)
 
 [NRL](https://www.foxsports.com.au/video/league/nrl)
 
