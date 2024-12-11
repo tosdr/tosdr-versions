@@ -133,7 +133,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
 
-* * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
+* * [Data center overview](https://www.juniper.net/us/en/data-center.html)
     * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
 
 * [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
@@ -816,7 +816,7 @@ Juniper's Ai-Native routing solution delivers robust 400GbE and 800GbE capabili
     * [IP storage networking](https://www.juniper.net/us/en/solutions/data-center/ip-networking-storage.html)
     * [400G and 800G](https://www.juniper.net/us/en/solutions/400g-and-800g.html)
 
-* * [See all data center solutions](https://www.juniper.net/us/en/solutions/data-center.html)
+* * [Data center overview](https://www.juniper.net/us/en/data-center.html)
     * [Juniper data center validated designs](https://www.juniper.net/documentation/validated-designs/us/en/data-center/)
 
 * [Automated secure data center](https://www.juniper.net/us/en/solutions/data-center.html)
@@ -1716,9 +1716,7 @@ Subscribe
 
  ✓
 
-Send me updates about Juniper Networks news and product details.
-
-Read about Juniper's [privacy policy.](https://www.juniper.net/us/en/privacy-policy.html)
+Send me email updates about Juniper Networks, Inc.’s news, events, and product details. You may withdraw your consent at any time via the opt-out link in our emails.  For more information, see our [Privacy Notice](https://www.juniper.net/us/en/privacy-policy.html).
 
 Invalid Captcha
 
