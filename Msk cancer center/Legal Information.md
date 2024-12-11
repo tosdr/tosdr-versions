@@ -99,7 +99,7 @@
             
             [New patient](https://www.mskcc.org/experience/become-patient/appointment?appointment_type=new)
             
-            [Current patient](https://www.mskcc.org/experience/become-patient/appointment?appointment_type=current)
+            [Current patient](https://my.mskcc.org/)
             
             ### Speak to a care advisor
             
@@ -356,4 +356,4 @@ The information in Memorial Sloan Kettering Cancer Center’s website is not int
 
 © 2024 Memorial Sloan Kettering Cancer Center
 
-* [Log in web-44142.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
+* [Log in web-44140.prod.hosting.acquia.com](https://www.mskcc.org/user/login?destination=/legal-disclaimer)
