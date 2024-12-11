@@ -119,7 +119,7 @@ Click here to go back to the frontpage.
 
 [ENGLISH](https://cardgames.io/privacy/) [ESPAÑOL](https://cardgames.io/es/privacy/) [FRANÇAIS](https://cardgames.io/fr/privacy/)
 
-This is version 1.23.9 of CardGames.io.
+This is version 1.24.1 of CardGames.io.
 
 Game failed to load
 -------------------
