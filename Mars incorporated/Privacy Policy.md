@@ -1065,7 +1065,7 @@ Follow Us
 * [Youtube(Opens a new window)](https://www.youtube.com/user/Mars)
     
 
-* [Privacy Policy(Opens a new window)](https://www.mars.com/privacy?latest=)
+* [Privacy Policy(Opens a new window)](https://www.mars.com/privacy)
     
 * [Cookies Notice](https://www.mars.com/privacy#cookies)
     
