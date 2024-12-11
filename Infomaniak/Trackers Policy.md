@@ -109,29 +109,33 @@ Events & Marketing
     
     [Follow our comparative guide →](https://www.infomaniak.com/en/hosting/our-cloud-computing-offers)
     
-    Instances
+    Cloud services
     
     * [![public cloud](/img/common/suite/public-cloud.svg)
         
         Public Cloud (IaaS) Create your projects in a high-end, ultra-competitive Cloud](https://www.infomaniak.com/en/hosting/public-cloud)
-    * [![](/img/common/suite/kaas.svg)
-        
-        Kubernetes service Deployez vos applications conteneurisees a grande echelle.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
     * [![Cloud Server](/img/common/suite/unmanaged-cloud.svg)
         
         VPS Cloud Create a Windows / Linux server](https://www.infomaniak.com/en/hosting/vps-cloud)
+    * [![](/img/common/suite/kaas.svg)
+        
+        Kubernetes service Deploy your containerized applications on a large scale.](https://www.infomaniak.com/en/hosting/public-cloud/kubernetes)
     * [![VPS Lite](/img/common/suite/vps-lite.svg)
         
         VPS Lite Create a Windows/Linux server at a low cost](https://www.infomaniak.com/en/hosting/vps-lite)
+    * ![](/img/common/suite/dbaas.svg)
+        
+        Database Service Manage your databases with a managed solution
+        
+    * [![jelastic cloud](/img/common/suite/jelastic.svg)
+        
+        Jelastic Cloud (PaaS) Create your own customised environments](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/jelastic-cloud)
     
     Other services
     
     * [![llm api](/img/common/suite/llm.svg)
         
         AI Tools Boost your productivity with our sovereign AI](https://www.infomaniak.com/en/hosting/ai-tools)
-    * [![jelastic cloud](/img/common/suite/jelastic.svg)
-        
-        Jelastic Cloud (PaaS) Create your own customised environments](https://www.infomaniak.com/en/hosting/dedicated-and-cloud-servers/jelastic-cloud)
     * [![swiss backup](/img/common/suite/swiss-backup.svg)
         
         Swiss Backup Back up your devices in the Cloud](https://www.infomaniak.com/en/swiss-backup)
