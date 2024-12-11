@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)2°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
+* [New York](https://www.watson.ch/fr/new-york/)
+* [Lausanne](https://www.watson.ch/fr/lausanne/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Chine](https://www.watson.ch/fr/chine/)
 * [Politique](https://www.watson.ch/fr/politique/)
+* [Climat](https://www.watson.ch/fr/climat/)
 * [Police](https://www.watson.ch/fr/police/)
 * [Syrie](https://www.watson.ch/fr/syrie/)
-* [Lausanne](https://www.watson.ch/fr/lausanne/)
+* [commerce](https://www.watson.ch/fr/commerce/)
+* [Meurtre](https://www.watson.ch/fr/meurtre/)
 * [Noël](https://www.watson.ch/fr/noel/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [loyer](https://www.watson.ch/fr/loyer/)
+* [Météo](https://www.watson.ch/fr/meteo/)
 * [Super League](https://www.watson.ch/fr/super-league/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Football](https://www.watson.ch/fr/football/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [guerre](https://www.watson.ch/fr/guerre/)
-* [Vidéo](https://www.watson.ch/fr/video/)
-* [Migros](https://www.watson.ch/fr/migros/)
-* [Justice](https://www.watson.ch/fr/justice/)
-* [France](https://www.watson.ch/fr/france/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Vidéo](https://www.watson.ch/fr/video/)
+* [France](https://www.watson.ch/fr/france/)
+* [Gaza](https://www.watson.ch/fr/gaza/)
 * [Israël](https://www.watson.ch/fr/israel/)
-* [Palestine](https://www.watson.ch/fr/palestine/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
