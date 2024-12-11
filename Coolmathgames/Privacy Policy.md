@@ -366,12 +366,6 @@ Hexanaut
 
 Multiplayer Snake Combat](https://www.coolmathgames.com/0-hexanaut-io)
 
-[![User Profile](/themes/custom/coolmath/assets/images/promos/UserProfiles_Promo.png)
-
-##### Custom Profile
-
-Get one for free!](https://www.coolmathgames.com/signup)
-
 [![Games for Kids](/sites/default/files/2024-05/cmg4kids-hp-promo.png)](https://www.coolmath4kids.com/)
 
 ##### [Games for Kids](https://www.coolmath4kids.com/)
@@ -383,6 +377,12 @@ Get one for free!](https://www.coolmathgames.com/signup)
 Leaderboards
 
 See how you rank!](https://www.coolmathgames.com/profile/leaderboard)
+
+[![2024 CMG Awards](/sites/default/files/2023-12/cmg_awards_2023_winners_bg.png)
+
+2024 Coolmath Games Awards
+
+Vote for your favorite games!](https://www.coolmathgames.com/the-2024-coolmath-games-awards)
 
 3. [Coolmath games privacy policy](https://www.coolmathgames.com/privacyp)
     
