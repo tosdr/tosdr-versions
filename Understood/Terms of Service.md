@@ -290,9 +290,13 @@ Understood reserves the right (but is not obligated) to (a) record the dialogue 
 
 **Last Updated: August 31, 2023**
 
+Thank you for subscribing!
+
 ### Discover what’s possible with Understood
 
-Email address
+Email address\*
+
+Please enter a valid email
 
 Subscribe
 
