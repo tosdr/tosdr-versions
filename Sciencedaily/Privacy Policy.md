@@ -228,7 +228,7 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Intelligence](https://www.sciencedaily.com/news/mind_brain/intelligence/)
+[Workplace Health](https://www.sciencedaily.com/news/health_medicine/workplace_health/)
 
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
@@ -236,19 +236,19 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
-
 [Materials Science](https://www.sciencedaily.com/news/matter_energy/materials_science/)
+
+[Technology](https://www.sciencedaily.com/news/matter_energy/technology/)
 
 [Civil Engineering](https://www.sciencedaily.com/news/matter_energy/civil_engineering/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Forest](https://www.sciencedaily.com/news/earth_climate/forests/)
+[Weather](https://www.sciencedaily.com/news/earth_climate/weather/)
 
 [Evolutionary Biology](https://www.sciencedaily.com/news/plants_animals/evolution/)
 
-[Cultures](https://www.sciencedaily.com/news/fossils_ruins/cultures/)
+[Biochemistry Research](https://www.sciencedaily.com/news/plants_animals/biochemistry/)
 
   
 
