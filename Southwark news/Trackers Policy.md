@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+    
+    ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+    
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+    
+    ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+    
     [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
     ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
@@ -49,16 +57,6 @@
     [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
     ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
-    
-    [![The new design at 110 The Queen's Walk. 
-    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-    
-    ### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-    
-    [![London mayor Sadiq Khan at a primary school. 
-    Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
-    
-    ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -109,6 +107,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--360x180.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+    
+    ### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+    
+    [![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-360x180.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+    
+    ### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+    
     [![A site overview with the H1 plot marked out in red](https://southwarknews.co.uk/wp-content/uploads/2024/12/0qYm4xug-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
     
     ### [Long-held plans for 18-storey Elephant and Castle office block cast aside after site sold for £42 million](https://southwarknews.co.uk/news/news-plus/long-held-plans-for-18-storey-elephant-and-castle-office-block-cast-aside-after-site-sold-for-42-million/)
@@ -138,16 +144,6 @@ View All Result
     [![The tree caused some disruption (photo: supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/12/Image-10-12-2024-at-10.36-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
     
     ### [Huge tree falls down across Lordship Lane during Storm Darragh](https://southwarknews.co.uk/area/dulwich/huge-tree-falls-down-across-lordship-lane-during-storm-darragh/)
-    
-    [![The new design at 110 The Queen's Walk. 
-    Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-    
-    ### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-    
-    [![London mayor Sadiq Khan at a primary school. 
-    Photo by Noah Vickers](https://southwarknews.co.uk/wp-content/uploads/2024/10/London-mayor-Sadiq-Khan-at-a-primary-school-360x180.jpg)](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
-    
-    ### [£2m programme aimed at slashing schools’ carbon emissions and energy bills](https://southwarknews.co.uk/area/london/2m-programme-aimed-at-slashing-schools-carbon-emissions-and-energy-bills/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -227,6 +223,12 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [9th December 2024](https://southwarknews.co.uk/sport/football/millwall/lenny-set-to-miss-sheffield-united-clash-but-reinforcements-on-the-way-after-millwall-midfielder-made-season-debut-against-coventry-city/)
 
+[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+
+### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+
+[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
+
 [![Steven Weems in the doorway of his Borough council flat](https://southwarknews.co.uk/wp-content/uploads/2024/11/image00006-9-120x86.jpeg)](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
 
 ### [Disabled man ‘denied Right to Buy’ council flat because of home’s disabled adaptations](https://southwarknews.co.uk/area/borough/disabled-man-denied-right-to-buy-council-flat-because-of-homes-disabled-adaptations/)
@@ -239,13 +241,19 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [7th December 2024](https://southwarknews.co.uk/area/southwark/man-charged-with-drug-supply-after-5000-cash-and-diamond-chain-found-in-southwark-property/)
 
-[![Neil Harris applauds supporters after his side beat Swansea City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/10/N-Harris-25425727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
-
-### [Neil Harris addresses Lions fans as he explains decision to leave Millwall for second time](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
-
-[10th December 2024](https://southwarknews.co.uk/sport/football/millwall/neil-harris-addresses-lions-fans-as-he-explains-decision-to-leave-millwall-for-second-time/)
-
 ### Featured Articles
+
+[![The alleged attack reportedly took place opposite a pub on Rye Lane. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-attack-reportedly-took-place-opposite-a-pub-on-Rye-Lane.-Image-Google--120x86.png)](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+
+### [Man, 62, nearly died after alleged Rye Lane stab attack as police appeal for witnesses](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+
+[11th December 2024](https://southwarknews.co.uk/area/peckham/man-62-nearly-died-after-alleged-rye-lane-stab-attack-as-police-appeal-for-witnesses/)
+
+[![The 118 bus route. Credit: London Bus Routes (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/09/The-118-Bus-Route.-Credit-London-Bus-Routes-Wiki-120x86.webp)](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+
+### [TfL to axe popular South London bus route despite admitting public is ‘not supportive’](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
+
+[11th December 2024](https://southwarknews.co.uk/area/elephant-and-castle/tfl-to-axe-popular-south-london-bus-route-despite-admitting-public-is-not-supportive/)
 
 [![The new design at 110 The Queen's Walk. 
 Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/approved-plans-to-revamp-londons-former-city-hall-in-bermondsey/)
@@ -272,19 +280,6 @@ Photo from www.instagram.com/charliemarriage/](https://southwarknews.co.uk/wp-co
 ### [Inquest hears that Camberwell man ‘wasted last morning begging for medication pharmacy didn’t have’](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
 
 [10th December 2024](https://southwarknews.co.uk/area/camberwell/inquest-hears-that-camberwell-man-wasted-last-morning-begging-for-medication-pharmacy-didnt-have/)
-
-[![The new design at 110 The Queen's Walk. 
-Credit: Gensler](https://southwarknews.co.uk/wp-content/uploads/2024/12/The-new-design-at-City-Hall-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-
-### [City Hall to get a revamp with shops, restaurants and new balconies carved out of the ‘glass testicle’](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-
-[10th December 2024](https://southwarknews.co.uk/area/bermondsey/city-hall-to-get-a-revamp-with-shops-restaurants-and-new-balconies-carved-out-of-the-glass-testicle/)
-
-[![Victim Jamel Boyce, left, and convicted Tyrese Osei-Kofi, right](https://southwarknews.co.uk/wp-content/uploads/2024/12/Untitled-2-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-
-### [Dulwich man sentenced for murder after paralysed victim dies years after stabbing](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
-
-[9th December 2024](https://southwarknews.co.uk/area/dulwich/dulwich-man-sentenced-for-murder-after-paralysed-victim-dies-eight-years-after-stabbing/)
 
 ### USEFUL PAGES
 
