@@ -196,8 +196,8 @@ Menu Close
     
     Integrations
     
-    * [Management](https://solutions.acronis.com/en-us/category/management/)
-    * [Automation](https://solutions.acronis.com/en-us/category/automation/)
+    * [Management (RMM)](https://solutions.acronis.com/en-us/category/management/)
+    * [Automation (PSA)](https://solutions.acronis.com/en-us/category/automation/)
     * [Security](https://solutions.acronis.com/en-us/category/security/)
     * [Data Protection](https://solutions.acronis.com/en-us/category/data-protection/)
     
