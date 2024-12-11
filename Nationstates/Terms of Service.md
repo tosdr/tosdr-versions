@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What's The Worst Country? (22)](https://forum.nationstates.net/viewtopic.php?t=559465&f=20&view=unread#unread ""What's The Worst Country?" (22 posts)")
-* [2025: The Times | OOC | Open (40)](https://forum.nationstates.net/viewtopic.php?t=559417&f=31&view=unread#unread ""2025: The Times | OOC | Open" (40 posts)")
-* [Making a picture for all who reply(Jo… (18)](https://forum.nationstates.net/viewtopic.php?t=559463&f=25&view=unread#unread ""Making a picture for all who reply(Jorsania version)" (18 posts)")
-* [What impression does AN's banner give… (825)](https://forum.nationstates.net/viewtopic.php?t=553826&f=25&view=unread#unread ""What impression does AN's banner give you?" (825 posts)")
-* [Amogus SSR Invasion of Doslonsu \[IC\] (179)](https://forum.nationstates.net/viewtopic.php?t=559434&f=5&view=unread#unread ""Amogus SSR Invasion of Doslonsu [IC]" (179 posts)")
+* [Your Reaction to AN's News (III) (10,925)](https://forum.nationstates.net/viewtopic.php?t=507317&f=25&view=unread#unread ""Your Reaction to AN's News (III)" (10,925 posts)")
+* [Trade between Pakania and Freedom Fre… (1,730)](https://forum.nationstates.net/viewtopic.php?t=558680&f=5&view=unread#unread ""Trade between Pakania and Freedom Freelandia (Invite Only)" (1,730 posts)")
+* [China encirles Taiwan (25)](https://forum.nationstates.net/viewtopic.php?t=559467&f=20&view=unread#unread ""China encirles Taiwan" (25 posts)")
+* [Syrian Civil War: Dawn Of A New Syria (1,357)](https://forum.nationstates.net/viewtopic.php?t=558866&f=20&view=unread#unread ""Syrian Civil War: Dawn Of A New Syria" (1,357 posts)")
+* [UK Politics Thread: Don't Be So Nosey! (475)](https://forum.nationstates.net/viewtopic.php?t=558706&f=20&view=unread#unread ""UK Politics Thread: Don't Be So Nosey!" (475 posts)")
 
 Advertisement
 
