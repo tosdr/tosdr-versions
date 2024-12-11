@@ -211,9 +211,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,17 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
+[BOJ said to see little cost to waiting for next rate hike](https://www.japantimes.co.jp/business/2024/12/12/boj-rate-hike-waiting/ "BOJ said to see little cost to waiting for next rate hike")
 
-5 hours ago
+28 mins ago
+
+[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
 
 [Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
 
-7 hours ago
-
 [Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
 
-7 hours ago
-
 [Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
-
-7 hours ago
-
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
