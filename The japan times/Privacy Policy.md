@@ -484,6 +484,10 @@ Revised June 1, 2022
 
   [![Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439191.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Keidanren chief Masakazu Tokura speaks to reporters in the city of Nanao, Ishikawa Prefecture on Nov. 20.")](https://www.japantimes.co.jp/business/2024/12/10/economy/keidanren-proposal-1-quadrillion-gdp/ "Keidanren urges tax hike for rich with eye on ¥1 quadrillion GDP")
 
+[‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
+
+  [![“Hayao Miyazaki and the Heron" provides an in-depth look into the octogenarian auteur’s creative process and personal reflections.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/11/439437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "“Hayao Miyazaki and the Heron" provides an in-depth look into the octogenarian auteur’s creative process and personal reflections.")](https://www.japantimes.co.jp/culture/2024/12/11/film/hayao-miyazaki-and-the-heron/ "‘Hayao Miyazaki and the Heron’ documentary meditates on auteur's creativity and legacy")
+
 [Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
 
   [![Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/09/438914.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Yurie Collins is a bilingual comedian based in Tokyo. In addition to being a prize-winning roast comic, her dating-themed "Tokyo Hoe Tales" shows have proven to be a hit with women of all nationalities. ")](https://www.japantimes.co.jp/community/2024/12/10/our-lives/comedian-yurie-collins-roast/ "Yurie Collins: ‘Everyone seems sedated, fed-up … that’s why they turn to comedy’")
@@ -499,10 +503,6 @@ Revised June 1, 2022
 [Winter chill, hot baths and the risk of heat shock: How to stay safe](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
 
   [![A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439147.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A health ministry survey showed that 5,824 people age 65 and older died in a bathtub in their home or other residential facilities in 2022, more than double the number of people who died in a traffic accident.")](https://www.japantimes.co.jp/news/2024/12/10/japan/explainer/heat-shock-explainer/ "Winter chill, hot baths and the risk of heat shock: How to stay safe")
-
-[45-day negotiation window set to begin as Marines post Roki Sasaki](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window set to begin as Marines post Roki Sasaki")
-
-  [![Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/12/10/439046.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Roki Sasaki delivers a pitch during the first inning of the World Baseball Classic semifinal against Mexico in Miami in March 2023.")](https://www.japantimes.co.jp/sports/2024/12/10/baseball/mlb/sasaki-officialy-posted/ "45-day negotiation window set to begin as Marines post Roki Sasaki")
 
 Podcast
 -------
@@ -523,9 +523,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -565,25 +565,17 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
+[BOJ said to see little cost to waiting for next rate hike](https://www.japantimes.co.jp/business/2024/12/12/boj-rate-hike-waiting/ "BOJ said to see little cost to waiting for next rate hike")
 
-5 hours ago
+26 mins ago
+
+[Bain raises offer for Fuji Soft in $4.3 billion contest with KKR](https://www.japantimes.co.jp/business/2024/12/11/bain-fuji-43-billion-kkr/ "Bain raises offer for Fuji Soft in $4.3 billion contest with KKR")
 
 [Organizers say 2026 Asian Games on track](https://www.japantimes.co.jp/sports/2024/12/11/asian-games-on-track/ "Organizers say 2026 Asian Games on track")
 
-7 hours ago
-
 [Japan retains strong results in OECD’s adult skills survey](https://www.japantimes.co.jp/news/2024/12/11/japan/society/oecd-adult-competencies/ "Japan retains strong results in OECD’s adult skills survey")
 
-7 hours ago
-
 [Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth](https://www.japantimes.co.jp/business/2024/12/11/companies/nippon-life-buys-resolution/ "Nippon Life to buy Resolution in $8.2 billion deal as it pursues U.S. growth")
-
-7 hours ago
-
-[JR East announces 10-year plan to drastically overhaul Suica](https://www.japantimes.co.jp/business/2024/12/11/companies/jr-suica/ "JR East announces 10-year plan to drastically overhaul Suica")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
