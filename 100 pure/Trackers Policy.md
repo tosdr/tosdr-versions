@@ -23,7 +23,7 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4636 reviews (4636)
+4641 reviews (4641)
 
 $16.00 $29.00
 
@@ -81,7 +81,7 @@ ADD TO TOTE
 
 ### [Maracuja Mascara](https://www.100percentpure.com/products/maracuja-mascara)
 
-2418 reviews (2418)
+2421 reviews (2421)
 
 $28.00 $28.00
 
