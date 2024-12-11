@@ -30,7 +30,7 @@
     * [Contact Us](https://arrowheadhealth.com/contact/)
     * [Providers](https://arrowheadhealth.com/providers/)
     * [Our Story](https://arrowheadhealth.com/about/)
-    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
+    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/ahc-difference/)
     * [Join Our Team](https://arrowheadhealth.com/careers/)
     * [FAQ](https://arrowheadhealth.com/faq/)
 * [Patient Portal](https://mycw142.ecwcloud.com/portal19866/jsp/100mp/login_otp.jsp)
@@ -93,7 +93,7 @@ Arrowhead Health
 * [Providers](https://arrowheadhealth.com/providers/)
 * [Insurance](https://arrowheadhealth.com/insurance/)
 * [Contact Us](https://arrowheadhealth.com/contact/)
-* [Arrowhead Health](https://arrowheadhealth.com/rdc-difference/)
+* [Arrowhead Health](https://arrowheadhealth.com/ahc-difference/)
 * [Join Our Team](https://arrowheadhealth.com/careers/)
 
 Programs & Services
@@ -167,7 +167,7 @@ Copyright © 2024 Arrowhead Health Medical Centers ® All Rights Reserved
     * [Contact Us](https://arrowheadhealth.com/contact/)
     * [Providers](https://arrowheadhealth.com/providers/)
     * [Our Story](https://arrowheadhealth.com/about/)
-    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/rdc-difference/)
+    * [The Arrowhead Health Centers Difference](https://arrowheadhealth.com/ahc-difference/)
     * [Join Our Team](https://arrowheadhealth.com/careers/)
     * [FAQ](https://arrowheadhealth.com/faq/)
 * [Patient Portal](https://mycw142.ecwcloud.com/portal19866/jsp/100mp/login_otp.jsp)
