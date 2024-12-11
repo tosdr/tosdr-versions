@@ -314,7 +314,7 @@ Rest of the World United Kingdom and EU Canada SY-0-20170320
 
 12.8 Jurisdiction. Each party irrevocably agrees that the courts of the State of New South Wales shall have exclusive jurisdiction to settle any dispute or claim arising out of or in connection with this Contract or its subject matter or formation (including non-contractual disputes or claims).
 
-![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/a1c4d782/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
+![Studiosity logo](https://assets-cdn-01.studiosity.com/eureka/ec8dbb29/connect/assets/logos/Studiosity-Reversed-150x38-b57c6b118e8b42e1959b72a845dbe44363033a171593332cbb903ebe3623055d.png)
 
 * [Contact us](mailto:hello@studiosity.com)
 * [FAQ](https://support.studiosity.com/)
