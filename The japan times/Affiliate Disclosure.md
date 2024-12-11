@@ -209,9 +209,9 @@ By [Thu-Huong Ha](https://www.japantimes.co.jp/author/4754/thu-huong-ha/ "Thu-Hu
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes](https://www.japantimes.co.jp/news/2024/12/10/japan/nobel-peace-prize-ceremony-hibakusha/ "Nobel Peace Prize winner Nihon Hidankyo calls for a world without nukes")
+[Unstable global environment reduces NPT to mere shell](https://www.japantimes.co.jp/news/2024/12/11/world/nuclear-nonproliferation-treaty/ "Unstable global environment reduces NPT to mere shell")
 
-8 hours ago
+45 mins ago
 
-[Europe’s big battery ambitions are failing, and China is benefiting](https://www.japantimes.co.jp/business/2024/12/10/companies/europe-ev-ambitions-fail-china-benfit/ "Europe’s big battery ambitions are failing, and China is benefiting")
+[South Korean police raid Yoon's office amid martial law probe](https://www.japantimes.co.jp/news/2024/12/11/asia-pacific/politics/south-korean-yoon-raid/ "South Korean police raid Yoon's office amid martial law probe")
 
-9 hours ago
+1 hour ago
 
-[Assad's fall in Syria exposes limits of China's Middle East diplomacy](https://www.japantimes.co.jp/news/2024/12/10/asia-pacific/politics/assad-fall-china-diplomacy/ "Assad's fall in Syria exposes limits of China's Middle East diplomacy")
+[BOJ quarterly survey likely to show weaker business sentiment in Japan](https://www.japantimes.co.jp/business/2024/12/11/economy/boj-tankan-forecasts/ "BOJ quarterly survey likely to show weaker business sentiment in Japan")
 
-10 hours ago
+1 hour ago
 
-[Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion](https://www.japantimes.co.jp/business/2024/12/10/companies/nippon-life-buyout-talks-us/ "Nippon Life in talks to buy Resolution Life in deal worth $8.2 billion")
+[China begins annual economic meeting to hash out stimulus plan](https://www.japantimes.co.jp/news/2024/12/11/world/politics/china-economic-meeting-stimulus/ "China begins annual economic meeting to hash out stimulus plan")
 
-10 hours ago
+1 hour ago
 
-[Kioxia’s jumbo IPO shows weak sign contrary to booming market](https://www.japantimes.co.jp/business/2024/12/10/companies/kioxia-jumbo-ipo/ "Kioxia’s jumbo IPO shows weak sign contrary to booming market")
+[China makeup mogul is a billionaire post hot Hong Kong debut](https://www.japantimes.co.jp/business/2024/12/11/companies/china-makeup-hong-kong-debut/ "China makeup mogul is a billionaire post hot Hong Kong debut")
 
-11 hours ago
+1 hour ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
