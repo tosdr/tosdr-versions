@@ -99,8 +99,8 @@ Top downloads
 * [Need for Speed: Underground 2](https://www.myabandonware.com/game/need-for-speed-underground-2-ega)
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
-* [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
 * [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
+* [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
 * [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
 
 [List of top downloads](https://www.myabandonware.com/game/ "See the Top 40 Games")
@@ -118,9 +118,9 @@ Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/mya
 
 Screenshots needed
 
-* [Disney Fairies](https://www.myabandonware.com/game/disney-fairies-mtd)
-* [Nishimura Kyōtarō Travel Mystery: Akugyaku no Kisetsu - Tōkyō~Nanki-Shirahama Renzoku Satsujin Jiken](https://www.myabandonware.com/game/nishimura-kyotaro-travel-mystery-akugyaku-no-kisetsu-tokyo-nanki-shirahama-renzoku-satsujin-jiken-edr)
-* [Meadows Lanes](https://www.myabandonware.com/game/meadows-lanes-sfm)
+* [Knights of Valour 2: New Legend](https://www.myabandonware.com/game/knights-of-valour-2-new-legend-rwl)
+* [M: Kimi wo Tsutaete](https://www.myabandonware.com/game/m-kimi-wo-tsutaete-p8e)
+* [Darwin 4078](https://www.myabandonware.com/game/darwin-4078-qrk)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
