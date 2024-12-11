@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_7211834&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_7211834&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_7227761&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_7227761&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_7211834&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_7211834&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_7227761&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_7227761&lang=en)
 
 Smartcat legal
 
