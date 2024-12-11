@@ -392,7 +392,7 @@ Partners
 
 [Accounting Firms](https://getdivvy.com/for-accountants)[Wealth Management](https://getdivvy.com/wealth-management)[Banks](https://getdivvy.com/banks)[VAR Program](https://getdivvy.com/lp/var-partners)[Accountant Referral Program](https://getdivvy.com/accountant-referral-program?utm_source=homepage&utm_medium=website&utm_campaign=ac_referral_footer)
 
-[Facebook icon](https://www.facebook.com/hq.bill)[Twitter icon](https://twitter.com/billcom)[LinkedIn icon](https://www.linkedin.com/company/bill)[YouTube icon](https://www.youtube.com/billdotcom1)[Instagram icon](https://www.instagram.com/bill_hq/)
+[](https://www.facebook.com/hq.bill)[](https://twitter.com/billcom)[](https://www.linkedin.com/company/bill)[](https://www.youtube.com/billdotcom1)[](https://www.instagram.com/bill_hq/)
 
 [![Logo](https://cdn.prod.website-files.com/63e3da3df35cd62f54751985/63ed277edf8ff349f0d93f1d_logo-bdc-new.svg)](https://getdivvy.com/)
 
