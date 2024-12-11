@@ -1,6 +1,6 @@
-**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,28 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112666-a-memes-purpose-2024-12-10)
+     [](https://patriotpost.us/memes/112708-left-cant-meme-2024-12-11)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34643)
+     [](https://patriotpost.us/cartoons/34646)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Stephen Moore Trumpism Is Going Global](https://patriotpost.us/opinion/112703-trumpism-is-going-global-2024-12-10)
-*      [Ian Haworth The Racists Who Wanted to Lynch Daniel Penny](https://patriotpost.us/opinion/112702-the-racists-who-wanted-to-lynch-daniel-penny-2024-12-10)
-*      [Tony Perkins The Guide to the Puzzle of Life](https://patriotpost.us/opinion/112685-the-guide-to-the-puzzle-of-life-2024-12-10)
-*      [Gary Bauer What’s Going On?](https://patriotpost.us/opinion/112683-whats-going-on-2024-12-10)
-*      [Victor Joecks Biden the Tyrant](https://patriotpost.us/opinion/112682-biden-the-tyrant-2024-12-10)
-*      [Daniel McCarthy Birthright Citizenship Is a Breach in the Border](https://patriotpost.us/opinion/112681-birthright-citizenship-is-a-breach-in-the-border-2024-12-10)
-*      [Salena Zito Whiskey Resurgence in the Heart of the Rebellion](https://patriotpost.us/opinion/112680-whiskey-resurgence-in-the-heart-of-the-rebellion-2024-12-10)
-*      [Allen West No One Is Above the Law … Unless](https://patriotpost.us/opinion/112631-no-one-is-above-the-law-dot-dot-dot-unless-2024-12-10)
+*      [Gary Bauer Left-Wing Hate](https://patriotpost.us/opinion/112724-left-wing-hate-2024-12-11)
+*      [Allen West The False Gods of Leftism](https://patriotpost.us/opinion/112726-the-false-gods-of-leftism-2024-12-11)
+*      [Tim Graham Pretending There’s No Cost in Biden’s Mass Importation](https://patriotpost.us/opinion/112723-pretending-theres-no-cost-in-bidens-mass-importation-2024-12-11)
+*      [John Stossel Your Tax Dollars Not at Work](https://patriotpost.us/opinion/112722-your-tax-dollars-not-at-work-2024-12-11)
+*      [Star Parker What’s Going on With Black and Hispanic Women?](https://patriotpost.us/opinion/112721-whats-going-on-with-black-and-hispanic-women-2024-12-11)
+*      [Byron York Can the Nation Wait Until Jan. 20?](https://patriotpost.us/opinion/112720-can-the-nation-wait-until-jan-20-2024-12-11)
+*      [Rich Lowry Trump Should Swear Off Lawfare](https://patriotpost.us/opinion/112719-trump-should-swear-off-lawfare-2024-12-11)
+*      [Christine Flowers Just a Woman Embracing Her Age](https://patriotpost.us/opinion/112727-just-a-woman-embracing-her-age-2024-12-11)
+*      [The Washington Stand Who Controls Syria Now? How Are Christians Affected?](https://patriotpost.us/opinion/112725-who-controls-syria-now-how-are-christians-affected-2024-12-11)
+*      [The Babylon Bee 17 Signs of Poverty in a Capitalist Country](https://patriotpost.us/opinion/112718-17-signs-of-poverty-in-a-capitalist-country-2024-12-11)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,13 +230,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
+[Wear Your Patriotism on Your Sleeve
 
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“Where is the security for property, for reputation, for life, if the sense of religious obligation deserts the oaths…?” —George Washington (1796)
+“Public opinion sets bounds to every government, and is the real sovereign in every free one.” —James Madison (1791)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
