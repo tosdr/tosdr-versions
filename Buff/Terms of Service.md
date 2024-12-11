@@ -49,7 +49,7 @@ Menu
 BUFF TERMS OF USE
 =================
 
-The BUFF Service (as defined below) is operated by BUFF Technologies LTD., (“**we**”, “**us**” or “**BUFF**”), and is provided to you through the BUFF mobile and desktop applications made available by BUFF (the “**App**”). The BUFF Service allows users who are registered on the App (“**Registered User(s)**”), to play and earn (as defined below) as a result of their in-games activity and exposure to ads placed in the App. The BUFF Service is intended for use by people who are both (i) at least 18 years of age and (ii) of legal age in their jurisdiction. If you are not both at least 18 years of age and of a legal age in your jurisdiction, do not use the BUFF Service. BUFF shall not be responsible for any consequences and/or damages you may incur in breach of the foregoing.
+The BUFF Service (as defined below) is operated by BUFF Technologies LTD., (“**we**”, “**us**” or “**BUFF**”), and is provided to you through the BUFF mobile and desktop applications made available by BUFF (the “**BUFF Mobile App**” and the “**BUFF Desktop App**”, respectively, and Collectively, the “**App**”). The BUFF Service allows users who are registered on the App (“**Registered User(s)**”), to play and earn (as defined below) as a result of their in-games activity and exposure to ads placed in the App. The BUFF Service is intended for use by people who are both (i) at least 18 years of age and (ii) of legal age in their jurisdiction. If you are not both at least 18 years of age and of a legal age in your jurisdiction, do not use the BUFF Service. BUFF shall not be responsible for any consequences and/or damages you may incur in breach of the foregoing.
 
 By registering to, using or accessing the App you represent and warrant that: (i) when using or accessing the BUFF Properties all information you submit is truthful and accurate and you shall maintain the accuracy of such information; (ii) to the extent that you are not 18 years of age or older (or otherwise are at the age of majority in your jurisdiction) you have your parent’s or legal guardian’s permission to enter into these terms, or otherwise have the ability to form a binding contract with us; and (iii) your use or access of the App does not violate these terms or any applicable laws or regulations or any obligation you may have to a third party.
 
@@ -59,19 +59,29 @@ These Terms of Use are subject to unilateral change, modification or replacement
 
 BUFF shall not be liable to you or to any third party for any modification, suspension or discontinuance of the BUFF Service or any portion thereof.
 
-Certain BUFF Services components are powered by Overwolf, with respect to which additional terms may apply as shall be presented to you and accepted by you in the scope of your use of the BUFF Services, including but not limited to the Overwolf’s Terms of Service (available at: [http://www.overwolf.com/legal/](http://www.overwolf.com/legal/)) and any other terms incorporated by reference therein (“Additional Terms”), all of which are incorporated by reference in these Terms of Use. If there is a conflict between these Terms of Use and any Additional Terms, to the extent they apply to the BUFF Service, the Additional Terms will prevail.
+Certain BUFF Services components are powered by Overwolf, with respect to which additional terms may apply as shall be presented to you and accepted by you in the scope of your use of the BUFF Services, including but not limited to the Overwolf’s Terms of Service (available at: [http://www.overwolf.com/legal/](http://www.overwolf.com/legal/)) and any other terms incorporated by reference therein (“**Additional Terms**”), all of which are incorporated by reference in these Terms of Use. If there is a conflict between these Terms of Use and any Additional Terms, to the extent they apply to the BUFF Service, the Additional Terms will prevail.
 
 ARBITRATION NOTICE: THESE TERMS OF USE CONTAIN AN [ARBITRATION CLAUSE](https://www.snapchat.com/terms#arbitration) BELOW. EXCEPT FOR CERTAIN TYPES OF DISPUTES, YOU AND BUFF AGREE THAT DISPUTES BETWEEN YOU AND BUFF WILL BE RESOLVED BY MANDATORY BINDING INDIVIDUAL ARBITRATION, AND YOU AND BUFF WAIVE ANY RIGHT TO PARTICIPATE IN A CLASS-ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
 **HOW IT WORKS**
 
-BUFF Service offers you the opportunity to play certain video games and to accumulate BUFF points pursuant to your in-game performance (as defined on the App and may be updated from time to time by BUFF) (the “**BUFF Service**”) Points If you use BUFF Service while located in a jurisdiction that forbids the above-mentioned practices, you will be in violation of the law of such jurisdiction and of these Terms of Use, and will be (among other implications) subject to having your Profile (as defined below) suspended or terminated and all winnings (if any) voided.
+BUFF Service offers you the opportunity to play certain video games and to accumulate BUFF points pursuant to your in-game performance (as defined on the App and may be updated from time to time by BUFF)(the “**BUFF Service**”). 
 
-In addition, and subject to your use of the BUFF Service as a Registered User, the BUFF Service may allow you to earn through interaction and engagement subject to certain requirements (e.g., in game competitive activities, achievements, exposures to ads placed in the App, etc.) BUFF points in accordance with the terms herein for use in the applicable BUFF Properties.
+Specifically and subject to your use of the BUFF Service as a Registered User, the BUFF Service may allow you to earn points through interaction and engagement subject to certain requirements (e.g., in game competitive activities, achievements, exposures to ads placed in the App, etc.) (the “BUFF Points”), all in accordance with the terms herein for use in the applicable BUFF Properties.
+
+Buff Points earned through the Buff Desktop App (“**Buff Desktop Points**”) may be redeemed subject to the terms hereof through the Buff Marketplace as defined below, for pre-listed products and other non-monetary items. 
+
+Buff Points through the Buff Mobile App (“**Buff Mobile Points**”) may be redeemed subject to the terms hereof by converting such Buff Mobile Points to US Dollars, and receiving such payment amount to the User’s designated bank account. 
+
+BUFF may subject the Buff Points earning mechanism to various matrix and points earning rules which may include a finite number of phases in which Buff Points may be earned (“**Checkpoints**”), various amounts of earnable Buff Points, activity and engagement through which Buff Points may be earned, maximum time periods for maintaining Buff Points without redemption, minimum amount of Buff Points that may be redeemed etc. as shall be either presented to you or made available through the Buff Service, by Buff from time to time(the “**Buff Points Rules**”). Buff may revise and change the Buff Point Rules from time to time at its sole discretion as shall be published and notified by Buff on the Buff Service.
+
+Buff Desktop Points and Buff Mobile Points will be accumulated separately.
 
 In order to become a Registered User and enjoy the BUFF Service, you must first download and install the APP and register to the BUFF Services. After clicking on “LOG IN” button you will be asked to provide your credentials in order to sign in on the App, including but not limited to, your email account, and once provided, your personalized profile with BUFF will be created and associated to your User (the “**Profile**”). In order to enjoy the BUFF Service you must act according to one of the following scenarios:
 
-(1) If you are Overwolf user and have the Overwolf Appstore software with BUFF Application software installed, simply launch a supported game (the “Game”) and start playing on any server. As long as Overwolf Appstore software with BUFF Application software is running in the background of your PC, you will accumulate points for your in-game performance.
+Desktop:
+
+(1) If you are Overwolf user and have the Overwolf Appstore software with BUFF Application software installed, simply launch a supported game (the “**Game**”) and start playing on any server. As long as Overwolf Appstore software with BUFF Application software is running in the background of your PC, you will accumulate the relevant BUFF Points for your in-game performance.
 
 (2) If you are not Overwolf user and do not have Overwolf Appstore software with BUFF Application software installed, you have to download and install it clicking on “Get it on OVERWOLF”. Once installed, you shall proceed to scenario no. 1.
 
@@ -79,11 +89,13 @@ BUFF will not be responsible for technical, hardware or software malfunctions, l
 
 Mobile:
 
-(1) If you are a BUFF user and have the Buff Appstore or Play store software installed, simply launch the app and log in with your Buff log-in credentials.  You will need to connect your game according to the App instructions. With BUFF Application installed on your mobile and actively connected to the games you play, you will accumulate points for your in-game performance and time spent.
+(1) If you are a BUFF user and have the Buff Appstore or Play store software installed, simply launch the app and log in with your Buff log-in credentials.  You will need to connect your game according to the App instructions. With BUFF Application installed on your mobile and actively connected to the games you play, you will accumulate BUFF Points for your in-game performance and time spent.
 
 (2) If you are not a Buff user on PC, download from the Appstore or play store the BUFF Application for mobile, and register through the app and create your own user. Then follow the same instructions as above
 
 BUFF will not be responsible for technical, hardware or software malfunctions, lost or unavailable network connections, or disconnects, which are under the responsibility of any other third party.
+
+If you use BUFF Service while located in a jurisdiction that forbids the above-mentioned practices, you will be in violation of the law of such jurisdiction and of these Terms of Use, and will be (among other implications) subject to having your Profile (as defined below) suspended or terminated and all winnings (if any) voided.
 
 **YOUR INFORMATION**
 
@@ -103,13 +115,13 @@ Subject to these Terms of Use, you will have a non-exclusive, non-transferable, 
 
 You are solely responsible for obtaining, paying for, repairing and maintaining all the equipment, software, hardware and services required for getting access to and using the Buff Properties. You are solely responsible for any mobile charges when you use the Buff Properties. If you are not sure if such charges apply or what they may be, please ask your provider before using the Buff Properties.
 
-“Prohibited Mods” shall mean any modifications to a Game or your avatar within the Game, including any use of cheats, exploits, mods, bots or any unauthorized software, that give you an unfair advantage over other users, as determined at BUFF’s sole discretion or by any Additional Terms.
+“**Prohibited Mods**” shall mean any modifications to a Game or your avatar within the Game, including any use of cheats, exploits, mods, bots or any unauthorized software, that give you an unfair advantage over other users, as determined at BUFF’s sole discretion or by any Additional Terms.
 
 All content included on the App, including without limitation any text, graphics, logos, button icons, images, data compilations, and software, and the compilation of all such content, and all modifications, enhancements and derivatives thereof and all intellectual property rights thereto is the sole and exclusive property of BUFF or its licensors and protected by international copyright laws.
 
 By registering to the BUFF Service and creating your Profile, you hereby grant to BUFF a non-exclusive, royalty-free, sub-licensable through multiple levels of sub-licensees, worldwide license to use information concerning your use and access to the BUFF Services for the purpose for which the BUFF Service is intended and as further set out in the BUFF Privacy Policy.
 
-To the extent you provide any ideas, inventions, materials, suggestions, comments or feedbacks to BUFF (“Suggestions”), BUFF shall: (i) own all right, title and interest in and to the Suggestions without any restriction; (ii) not be subject to any obligation of confidentiality; and (iii) be entitled to unrestricted use of the Suggestions for any purpose whatsoever, without compensation or credit to you or any other person.
+To the extent you provide any ideas, inventions, materials, suggestions, comments or feedbacks to BUFF (“**Suggestions**”), BUFF shall: (i) own all right, title and interest in and to the Suggestions without any restriction; (ii) not be subject to any obligation of confidentiality; and (iii) be entitled to unrestricted use of the Suggestions for any purpose whatsoever, without compensation or credit to you or any other person.
 
 **YOUR LIABILITY; INDEMNIFICATION**
 
@@ -135,18 +147,33 @@ Refund/Cancellation: If you want to cancel an order then please contact us as so
 
 You are solely responsible for any taxes, charges and levies on amounts you may pay or obtain through the Services.
 
-**  
-POINTS REDEMPTION**
+**POINTS REDEMPTION**
 
-BUFF Users can redeem the BUFF Points they have accumulated whenever they need to. To request a complete redemption from your account (if and as applicable), click on “Marketplace” in your account. Please consider that it may take up to 14 business days to process some of your redemption request. Feel free to contact our customer support specialist if you have any questions at [https://www.buff.game/contact-us](https://www.buff.game/contact-us/) or through the App or Discord channel. Please note that the points cannot be withdrawn as cash in any way and there is no way to transfer good between users.
+BUFF Desktop Points may be redeemed into different non-monetary awards offered in the Buff website marketplace which may be reached through your account (“**the Marketplace**”).
 
-BUFF may void any and all Points you have accumulated in your account in the event BUFF determines that you have failed to comply with these Terms.
+BUFF Mobile Points may be redeemed through the BUFF Mobile App to the User’s designated bank account or other cash-out mechanism made available by Buff.  
 
-The value of Buff points may change from time to time at BUFF’s sole discretion.
+Redemption of Buff Points may be subject to a minimum requirement (the “**Points Redemption Minimum**”). 
+
+Buff Points accumulated and not redeemed may be subject to a maximum life time pursuant to which such Buff Points will expire (the “**Buff Points Validity Period**”).  
+
+To request a redemption from your account (if and as applicable), click on “Marketplace” in your account for Buff Desktop Points or on \[\_\_\_\_\] for Buff Mobile Points.  
+
+Redemption of Buff Mobile Points may require you to follow a URL cashout link provided to you by Buff following your request to redeem Buff Mobile Points (a “**Redemption Link**”). Such Redemption Link, shall remain active for a limited time period as shall be displayed to you at the time you request or receive the Redemption Link. 
+
+Please consider that it may take up to 14 business days to process some of your redemption request. Feel free to contact our customer support specialist if you have any questions at [https://www.buff.game/contact-us](https://www.buff.game/contact-us/) or through the App or Discord channel. 
+
+Please also note that the Buff Desktop Points cannot be withdrawn as cash in any way. 
+
+Buff Points may not be transferred between users. BUFF may void any and all BUFF Points you have accumulated in your account in the event BUFF determines that you have failed to comply with these Terms.
+
+The value of Buff Points may change from time to time at BUFF’s sole discretion.
+
+All parameters related to accumulation and redemption of Buff Points shall be set out in the applicable Buff Points Rules, as shall be published and made available by Buff from time to time. In any conflict between these terms and the terms of the Buff Points Rules, the Buff Points Rules shall precede. 
 
 **MARKETING MATERIALS AND CONTENT**
 
-By using the Services, you acknowledge and agree that from time to time, certain ads, commercial content, notifications, and/or promotions (“**Marketing Content**”) may be presented to you through the App. Buff may at its discretion award Buff Points or any other benefit for exposure to certain Marketing Content. Additionally, Buff may designate at its discretion that certain Marketing Content may be opted-out of by Users and thereby such Users shall not receive or be presented with such Marketing Content. To the extent that you opt-out of any such Marketing Content, you hereby acknowledge and agree that Buff Points or such other benefits or rewards associated with such Marketing Content, shall not be available or offered to you, and you hereby waive any right, claim, or demand with respect thereto. 
+By using the Services, you acknowledge and agree that from time to time, certain ads, commercial content, notifications, and/or promotions (“**Marketing Content**”) may be presented to you through the App. Buff may at its discretion award Buff Points or any other benefit for exposure to certain Marketing Content. Additionally, Buff may designate at its discretion that certain Marketing Content may be opted-out of by Users and thereby such Users shall not receive or be presented with such Marketing Content. To the extent that you opt-out of any such Marketing Content, you hereby acknowledge and agree that BUFF Points or such other benefits or rewards associated with such Marketing Content, shall not be available or offered to you, and you hereby waive any right, claim, or demand with respect thereto.   
 
 **COMMUNITY CHALLENGES**
 
@@ -158,7 +185,7 @@ The App is provided on an “as is”, “with all faults” and “as available
 
 BUFF shall not be liable for any security breaches which may occur in connection with the App or BUFF service. Without limitation of the foregoing, BUFF shall not be liable for the actions of hackers and other unauthorized third parties that may breach our security procedures.
 
-We cannot guarantee that the BUFF service will be fault-free, and if a fault occurs in the BUFF service, please report it to [https://www.buff.game/contact-us](https://www.buff.game/contact-us/) and we will attempt to correct the fault as soon as we reasonably can.
+We cannot guarantee that the BUFF service will be fault-free, and if a fault occurs in the BUFF service, please report it to [https://www.buff.game/contact-us](https://www.buff.game/contact-us/) and we will attempt to correct the fault as soon as we reasonably can.
 
 **LIMITATION OF LIABILITY**
 
@@ -171,7 +198,7 @@ In the event that applicable law limits the above limitations or exclusions of o
 The Buff Properties include resources and content provided by third parties and may include links to third party services and resources or enable you to receive services directly from third parties (collectively, “**Third Party Content**“). Buff is not and shall not be liable or responsible for any Third Party Content and does not control its availability. Should you leave the Buff Properties via a link or use Third Party Content, you do so at your own risk. In as much as you are redirected to linked sites, applications and content, Buff recommends you to carefully read and abide by the terms of use and privacy policies of such applications, sites and content.
 
 **OTHER**  
-In return for some of the free features of Buff, you may choose to be a peer on the Bright Data network. Buff installs Bright Data components (no execution). You will be able to view the details in full before you accept this offer, as well as being able to turn Bright Data on and off directly from the ‘App Settings’. By doing so, you agree to have read and accepted the Terms of Service of the Bright SDK SLA: [https://brightdata.com/legal/sdk-sla](https://brightdata.com/legal/sdk-sla).
+In return for some of the free features of Buff, you may choose to be a peer on the Bright Data network. Buff installs Bright Data components (no execution). You will be able to view the details in full before you accept this offer, as well as being able to turn Bright Data on and off directly from the ‘App Settings’. By doing so, you agree to have read and accepted the Terms of Service of the Bright SDK SLA: [https://brightdata.com/legal/sdk-sla](https://brightdata.com/legal/sdk-sla).
 
 **COMPLAINTS**
 
@@ -211,9 +238,9 @@ Without limiting the foregoing provisions, you understand that laws regarding co
 
 **TERMINATION AND/OR SUSPENSION OF YOUR PROFILE; INACTIVE ACCOUNT**
 
-You agree and acknowledge that BUFF may suspend or terminate your access to the BUFF Service at any time, with or without cause, subject to you being able to redeem your BUFF points (if any), in case of termination by us without cause. In case of termination for cause or Inactive Account (as defined below), we reserve the right to forfeit your BUFF Points (if any). Without limiting the generality of the foregoing, BUFF may terminate your use of the BUFF Service and/or suspend your Profile if BUFF believes, at its sole discretion, that one (or more) of the following events have occurred: (i) there is a threat to the security or the integrity of your Profile, our network or our servers; (ii) you have violated these Terms of Use and/or Additional Terms; (iii) we are required to do so by any competent authority and/or by law. Upon termination, you may no longer access (or attempt to access) the BUFF Service. All provisions of these Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, warranty disclaimers and limitations of liability. Except for the redeeming of won BUFF Points, in case of termination by us without cause, you will not be entitled to any remedy for discontinuing the BUFF Services, all subject to our redeeming policy and applicable laws and regulations.
+You agree and acknowledge that BUFF may suspend or terminate your access to the BUFF Service at any time, with or without cause, subject to you being able to redeem your BUFF Points (if any) in accordance with the terms of “POINTS REDEMPTION” section above, in case of termination by us without cause. In case of termination for cause or Inactive Account (as defined below), we reserve the right to forfeit your BUFF Points (if any). Without limiting the generality of the foregoing, BUFF may terminate your use of the BUFF Service and/or suspend your Profile if BUFF believes, at its sole discretion, that one (or more) of the following events have occurred: (i) there is a threat to the security or the integrity of your Profile, our network or our servers; (ii) you have violated these Terms of Use and/or Additional Terms; (iii) we are required to do so by any competent authority and/or by law. Upon termination, you may no longer access (or attempt to access) the BUFF Service. All provisions of these Terms of Use which by their nature should survive termination shall survive termination, including, without limitation, warranty disclaimers and limitations of liability. Except for the redeeming of won BUFF Points, in case of termination by us without cause, you will not be entitled to any remedy for discontinuing the BUFF Services, all subject to our redeeming policy and applicable laws and regulations.
 
-If there is no activity in your account for more than 90 days (“**Inactive Account**”), Buff reserves the right to delete or terminate your account. Buff will provide you with reasonable notice before deletion or termination of the Inactive Account, by email (to the email address available in your account) and/or on the Website (“**Inactive** **Account** **Notice**”). To keep using your account and avoid such deletion or termination, you may submit Buff a request within seven (7) days from the delivery of the Inactive Account Notice at: [\[email protected\]](https://www.buff.game/cdn-cgi/l/email-protection) .
+If there is no activity in your account for more than 90 days (“**Inactive Account**”), Buff reserves the right to delete or terminate your account. Buff will provide you with reasonable notice before deletion or termination of the Inactive Account, by email (to the email address available in your account) and/or on the Website (“**Inactive** **Account** **Notice**”). To keep using your account and avoid such deletion or termination, you may submit Buff a request within seven (7) days from the delivery of the Inactive Account Notice at: [\[email protected\]](https://www.buff.game/cdn-cgi/l/email-protection) .
 
 You understand and agree that following the deletion or termination of the Inactive Account, you will no longer have access to the account, and that any items, data and/or content therein, including, without limitation, Buff Points, will be lost and no longer be available to you. Buff will not grant any refund, compensation, or any other reimbursement in relation to the terminated Inactive Account, including, without limitation, any Buff Points therein.
 
@@ -225,7 +252,7 @@ In addition, BUFF reserves the right, at its sole discretion, to cancel or suspe
 
 The failure of either party to exercise in any respect any right provided for herein shall not be deemed a waiver of any further rights hereunder. BUFF shall not be liable for any failure to perform its obligations hereunder where such failure results from any cause beyond BUFF’s reasonable control, including, without limitation, mechanical, electronic or communications failure or degradation. If any term of these Terms of Use is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that these Terms of Use shall otherwise remain in full force and effect and enforceable. These Terms of Use are not assignable, transferable or sub-licensable by you and the use of the BUFF Service is personal and you may not authorize others to access your Profile. BUFF may transfer, assign or delegate these Terms of Use and its rights and obligations hereunder without consent and/or notice. No agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by these Terms between you and BUFF. These Terms of Use are the entire agreement between you and BUFF regarding the subject matter herein. ANY CAUSE OF ACTION INITIATED BY YOU AND ARISING OUT OF OR RELATED TO THE SERVICE MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED AND YOU SHALL BE DEEMED TO WAIVE ANY CLAIM YOU MAY HAVE IN RESPECT THEREOF.
 
-**Last updated on **February** **11****, 2024****
+**Last updated on  December 11, 2024**
 
 ![](https://www.buff.game/wp-content/uploads/2022/06/newlogo.svg)
 
