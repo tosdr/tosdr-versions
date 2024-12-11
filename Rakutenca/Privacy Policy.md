@@ -351,7 +351,7 @@ FR
         
         15% Cash Back](https://www.rakuten.ca/angara)[Michael Kors
         
-        6% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
+        10% Cash Back](https://www.rakuten.ca/michael-kors)[Mejuri
         
         2% Cash Back](https://www.rakuten.ca/mejuri)[Shoppers Drug Mart Beauty
         
@@ -391,7 +391,7 @@ FR
         
         $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Best Buy
         
-        up to 2% Cash Back](https://www.rakuten.ca/best-buy)
+        up to 3% Cash Back](https://www.rakuten.ca/best-buy)
         
         Featured Shops & Deals
         
