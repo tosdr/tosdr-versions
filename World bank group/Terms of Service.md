@@ -11,7 +11,7 @@
 * [ABOUT US](https://www.worldbank.org/en/archive/aboutus)
 
 1. [English](https://archivesphotos.worldbank.org/en/archive)
-2. [Archive Multimedia](https://archivesphotos.worldbank.org/en/archive/archivesmultimedia)
+2. [Archives Multimedia Catalog](https://archivesphotos.worldbank.org/en/archive/archivesmultimedia)
 
 Multimedia Catalog
 ==================
