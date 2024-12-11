@@ -63,7 +63,7 @@ Charte de confidentialité et cookies
 
 Version applicable à compter du 08 novembre 2023 pour les trains en circulation à partir du 30 août 2022.
 
-#### [VERSION PDF À TÉLÉCHARGER](https://cdn-fr.ouigo.com/edito-p-v3-assets/2024-12/Charte%20de%20confidentialit%C3%A9%20et%20cookie_122024.pdf)
+#### [VERSION PDF À TÉLÉCHARGER](https://cdn-fr.ouigo.com/edito-p-v3-assets/2024-12/Charte%20de%20confidentialit%C3%A9%20et%20cookie_122024%20(1).pdf)
 
 Paramètres des cookies
 
