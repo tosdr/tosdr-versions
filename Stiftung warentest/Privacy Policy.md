@@ -817,12 +817,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben – Anstieg ab 2025 beschlossen](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben – Anstieg ab 2025 beschlossen")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Weitere Informationen
 
@@ -3871,12 +3871,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben – Anstieg ab 2025 beschlossen](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben – Anstieg ab 2025 beschlossen")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Weitere spannende Themen
 
@@ -3891,12 +3891,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben – Anstieg ab 2025 beschlossen](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben – Anstieg ab 2025 beschlossen")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Neueste Tests
 
@@ -3909,12 +3909,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [USB-C-Ladegeräte im Test: Ein Ladegerät für alle Fälle](https://www.test.de/USB-C-Ladegeraete-im-Test-Ein-Ladegeraet-fuer-alle-Faelle-6169942-0/ "USB-C-Ladegeräte im Test - Ein Ladegerät für alle Fälle")
-* [Lebens­mittel mit Rauch­geschmack: Auf Raucharomen besser verzichten](https://www.test.de/Lebensmittel-mit-Rauchgeschmack-Auf-Raucharomen-besser-verzichten-6113528-0/ "Lebensmittel mit Rauchgeschmack - Auf Raucharomen besser verzichten")
-* [Beitrags­bemessungs­grenzen: Sozial­abgaben – Anstieg ab 2025 beschlossen](https://www.test.de/Beitragsbemessungsgrenzen-Sozialabgaben-steigen-2025-kraeftig-6154427-0/ "Beitragsbemessungsgrenzen - Sozialabgaben – Anstieg ab 2025 beschlossen")
-* [PC-Anschlüsse: Die 10 wichtigsten Laptop-Anschlüsse](https://www.test.de/PC-Anschluesse-Die-10-wichtigsten-Laptop-Anschluesse-5974253-0/ "PC-Anschlüsse - Die 10 wichtigsten Laptop-Anschlüsse")
+* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
+* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
+* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
+* [Handy selbst reparieren: Samsungs und Apples Reparier-Sets im Selbst­versuch](https://www.test.de/Handy-selbst-reparieren-Samsungs-und-Apples-Reparier-Sets-im-Selbstversuch-6053520-0/ "Handy selbst reparieren - Samsungs und Apples Reparier-Sets im Selbstversuch")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Tages­geld und Fest­geld: Mercedes-Benz-Bank steigt aus](https://www.test.de/Tagesgeld-und-Festgeld-Mercedes-Benz-Bank-steigt-aus-6123451-0/ "Tagesgeld und Festgeld - Mercedes-Benz-Bank steigt aus")
 
 Stiftung Warentest
 
